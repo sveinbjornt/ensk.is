@@ -1,44 +1,55 @@
 #!/usr/bin/env python3
 """
 
-    GreynirAPI: Web application that exposes the Greynir API
+    Ensk.is: English-Icelandic dictionary web application
 
-    Copyright (C) 2021 Miðeind ehf.
+    Copyright (c) Sveinbjorn Thordarson <sveinbjorn@sveinbjorn.org>
 
-    This software is licensed under the MIT License:
+    Redistribution and use in source and binary forms, with or without modification,
+    are permitted provided that the following conditions are met:
 
-        Permission is hereby granted, free of charge, to any person
-        obtaining a copy of this software and associated documentation
-        files (the "Software"), to deal in the Software without restriction,
-        including without limitation the rights to use, copy, modify, merge,
-        publish, distribute, sublicense, and/or sell copies of the Software,
-        and to permit persons to whom the Software is furnished to do so,
-        subject to the following conditions:
+    1. Redistributions of source code must retain the above copyright notice, this
+    list of conditions and the following disclaimer.
 
-        The above copyright notice and this permission notice shall be
-        included in all copies or substantial portions of the Software.
+    2. Redistributions in binary form must reproduce the above copyright notice, this
+    list of conditions and the following disclaimer in the documentation and/or other
+    materials provided with the distribution.
 
-        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-        EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-        MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-        IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-        CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
-        TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-        SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+    3. Neither the name of the copyright holder nor the names of its contributors may
+    be used to endorse or promote products derived from this software without specific
+    prior written permission.
 
-    Main web application module
+    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+    ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+    WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+    IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT,
+    INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
+    NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+    PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+    WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+    ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+    POSSIBILITY OF SUCH DAMAGE.
+
+    Main web application
 
 """
 
 from fastapi import FastAPI, Request
 from fastapi.templating import Jinja2Templates
+from fastapi.staticfiles import StaticFiles
 from fastapi.responses import JSONResponse
+
+from util import icequote
+
+WEBSITE_NAME = "Ensk.is"
 
 
 templates = Jinja2Templates(directory="templates")
 
 
 app = FastAPI(title="Ensk.is", openapi_url="/openapi.json")
+
+app.mount("/static", StaticFiles(directory="static"), name="static")
 
 
 def _err(msg: str) -> JSONResponse:
@@ -47,9 +58,32 @@ def _err(msg: str) -> JSONResponse:
 
 @app.get("/")
 def index(request: Request) -> dict:
-    return templates.TemplateResponse("index.html", {"request": request})
+    return templates.TemplateResponse(
+        "index.html",
+        {
+            "request": request,
+            "title": f"{WEBSITE_NAME} - Opin og frjáls ensk-íslensk orðabók",
+        },
+    )
 
 
 @app.get("/search")
 def search(request: Request, q: str) -> dict:
-    return templates.TemplateResponse("result.html", {"request": request})
+    return templates.TemplateResponse(
+        "result.html",
+        {"request": request, "title": f'"{q}" - {WEBSITE_NAME}', "q": q},
+    )
+
+
+@app.get("/files")
+def files(request: Request) -> dict:
+    return templates.TemplateResponse(
+        "files.html", {"request": request, "title": f"Gögn - {WEBSITE_NAME}"}
+    )
+
+
+@app.get("/about")
+def files(request: Request) -> dict:
+    return templates.TemplateResponse(
+        "about.html", {"request": request, "title": f"Gögn - {WEBSITE_NAME}"}
+    )

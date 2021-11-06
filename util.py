@@ -30,6 +30,11 @@
     ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
     POSSIBILITY OF SUCH DAMAGE.
 
-    Database models
+    Utility functions
 
 """
+
+
+def icequote(s: str) -> str:
+    """Return string surrounded by Icelandic-style quotation marks."""
+    return "„{0}“".format(s.strip())

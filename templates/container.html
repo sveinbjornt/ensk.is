@@ -2,23 +2,65 @@
 <html lang="is">
 
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="application-name" content="ensk.is">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+  <meta name="application-name" content="Ensk.is">
+  <meta name="description" content="Opin og frjáls ensk-íslensk orðabók">
 
-    <title>Ensk.is</title>
+  <title>{{ title }}</title>
 
-    <link rel="icon" type="image/png" sizes="32x32" href="/static/img/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="/static/img/favicon-64x64.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/static/img/favicon-16x16.png">
-    <meta property="og:image" content="/static/img/og.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/static/img/favicon-16x16.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/static/img/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="64x64" href="/static/img/favicon-64x64.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/static/img/favicon-96x96.png">
 
-    <link rel="stylesheet" href="/static/css/style.css">
+  <meta property="og:site_name" content="Ensk.is">
+  <meta property="og:title" content="{{ title }}">
+  <meta property="og:image" content="/static/img/opengraph.png">
+
+  {% block meta %}
+  {% endblock %}
+
+  <link rel="stylesheet" href="/static/css/foundation.min.css">
+  <link rel="stylesheet" href="/static/css/app.css">
+
+  {% block script %}
+  {% endblock %}
 
 </head>
 
 <body>
+  <nav>
+    <ul class="menu">
+      <li>
+        <a href="/">
+          <img src="/static/img/books.svg" style="margin-top: -0.2em; margin-right: 4px;" alt="Bækur">
+          Ensk.is
+        </a>
+      </li>
+      <li><a href="/files">Gögn</a></li>
+      <li><a href="/about">Um</a></li>
+      <!--<li><a href=""><span class="icon icon-cog"></span></a></li>-->
+    </ul>
+  </nav>
+
+  <div class="grid-container">
+
+    <div class="grid-x grid-padding-x" style="margin-top: 60px;">
+      <div class="large-3 medium-2 small-1 cell"></div>
+      <div class="large-6 medium-8 small-10 cell">
+
+        {% block content -%}
+
+        {%- endblock %}
+
+      </div>
+      <div class="large-3 medium-2 small-1 cell"></div>
+    </div>
+
+  </div>
+
 
 </body>
 

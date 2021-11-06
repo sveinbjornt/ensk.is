@@ -1,0 +1,18 @@
+{% extends "container.html" %}
+
+{% block meta %}
+{% endblock %}
+
+{% block script %}
+<script type="text/javascript">
+    window.onload = function () {
+        document.getElementById("search").focus();
+    };
+</script>
+{% endblock %}
+
+{% block content %}
+
+{% include 'searchfield.html' %}
+
+{% endblock %}
