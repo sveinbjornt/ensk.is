@@ -10,11 +10,18 @@
 
 {% include 'searchfield.html' %}
 
+{% if results|length > 0 %}
 <p><em>{{ results|length }} niðurstöður fyrir <strong>{{ q }}</strong></em>.</p>
 
 {% for r in results %}
-<p><strong>{{ r.w }}</strong>: {{ r.x }}
-    {% endfor %}
+<p><strong>{{ r.w }}</strong>: {{ r.x }}</p>
+{% endfor %}
+
+{% else %}
+<p><em>Engar niðurstöður fundust fyrir <strong>„{{ q }}“</strong></em>.</p>
+{% endif %}
 
 
-    {% endblock %}
+
+
+{% endblock %}

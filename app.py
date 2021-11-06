@@ -45,13 +45,12 @@ from util import icequote
 
 WEBSITE_NAME = "Ensk.is"
 
+app = FastAPI(title=WEBSITE_NAME, openapi_url="/openapi.json")
+
+app.mount("/static", StaticFiles(directory="static"), name="static")
 
 templates = Jinja2Templates(directory="templates")
 
-
-app = FastAPI(title="Ensk.is", openapi_url="/openapi.json")
-
-app.mount("/static", StaticFiles(directory="static"), name="static")
 
 data = None
 with open("enis.json", "r") as f:
@@ -63,7 +62,7 @@ def _err(msg: str) -> JSONResponse:
 
 
 @app.get("/")
-def index(request: Request) -> dict:
+def index(request: Request):
     return templates.TemplateResponse(
         "index.html",
         {
@@ -74,19 +73,32 @@ def index(request: Request) -> dict:
 
 
 @app.get("/search")
-def search(request: Request, q: str) -> dict:
+def search(request: Request, q: str):
 
     results = []
-    ql = q.lower()
-    for k, v in data.items():
-        if ql in k.lower():
-            results.append({"w": k, "x": v})
+    if q:
+        ql = q.lower()
+        for k, v in data.items():
+            if ql in k.lower():
+                results.append({"w": k, "x": v})
+
+        def sortfn(a):
+            wl = a["w"].lower()
+            if wl == ql:
+                return 0
+            if wl.startswith(ql):
+                return 1
+            if wl.endswith(ql):
+                return 2
+            return 999
+
+        results.sort(key=sortfn)
 
     return templates.TemplateResponse(
         "result.html",
         {
             "request": request,
-            "title": f'"{q}" - {WEBSITE_NAME}',
+            "title": f"{icequote(q)} - {WEBSITE_NAME}",
             "q": q,
             "results": results,
         },
@@ -94,14 +106,14 @@ def search(request: Request, q: str) -> dict:
 
 
 @app.get("/files")
-def files(request: Request) -> dict:
+def files(request: Request):
     return templates.TemplateResponse(
         "files.html", {"request": request, "title": f"Gögn - {WEBSITE_NAME}"}
     )
 
 
 @app.get("/about")
-def files(request: Request) -> dict:
+def about(request: Request):
     return templates.TemplateResponse(
         "about.html", {"request": request, "title": f"Gögn - {WEBSITE_NAME}"}
     )

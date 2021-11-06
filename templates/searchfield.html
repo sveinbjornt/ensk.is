@@ -1,12 +1,18 @@
+<script type="text/javascript">
+    function validate_search() {
+        return !(document.getElementById("search").value == "");
+    }
+</script>
+
 <h1>Ensk-íslensk orðabók</h1>
-<form action="/search" method="GET" name="search" accept-charset="UTF-8">
+<form action="/search" method="GET" name="search" accept-charset="UTF-8" onsubmit="return validate_search();">
 
     <div class="grid-x">
         <div class="small-9 medium-10">
             <input type="text" id="search" name="q" placeholder="Sláðu inn leitarorð" value="{{ q }}">
         </div>
         <div class="small-3 medium-2">
-            <input type="submit" class="button" value="Leita">
+            <input type="submit" class="button" value="Leita" onsubmit="">
         </div>
     </div>
 </form>
