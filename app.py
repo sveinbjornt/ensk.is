@@ -34,6 +34,8 @@
 
 """
 
+import json
+
 from fastapi import FastAPI, Request
 from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
@@ -50,6 +52,10 @@ templates = Jinja2Templates(directory="templates")
 app = FastAPI(title="Ensk.is", openapi_url="/openapi.json")
 
 app.mount("/static", StaticFiles(directory="static"), name="static")
+
+data = None
+with open("enis.json", "r") as f:
+    data = json.load(f)
 
 
 def _err(msg: str) -> JSONResponse:
@@ -69,9 +75,21 @@ def index(request: Request) -> dict:
 
 @app.get("/search")
 def search(request: Request, q: str) -> dict:
+
+    results = []
+    ql = q.lower()
+    for k, v in data.items():
+        if ql in k.lower():
+            results.append({"w": k, "x": v})
+
     return templates.TemplateResponse(
         "result.html",
-        {"request": request, "title": f'"{q}" - {WEBSITE_NAME}', "q": q},
+        {
+            "request": request,
+            "title": f'"{q}" - {WEBSITE_NAME}',
+            "q": q,
+            "results": results,
+        },
     )
 
 

@@ -76,3 +76,5 @@ $RECYCLE.BIN/
 # Visual Studio Code stuff
 .vscode/
 *.code-workspace
+
+*.json
