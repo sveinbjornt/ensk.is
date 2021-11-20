@@ -34,6 +34,8 @@
 
 """
 
+from typing import List
+
 import json
 
 from fastapi import FastAPI, Request
@@ -61,8 +63,36 @@ def _err(msg: str) -> JSONResponse:
     return JSONResponse(content={"err": True, "errmsg": msg})
 
 
+def _results(q: str) -> List:
+    results = []
+    if not q:
+        return []
+
+    ql = q.lower()
+    for k, v in data.items():
+        if ql in k.lower():
+            x = v["x"]
+            x = x.replace("[", "<em>")
+            x = x.replace("]", "</em>")
+            results.append({"w": k, "x": x, "p": v["n"] + 1})
+
+    def sortfn(a):
+        wl = a["w"].lower()
+        if wl == ql:
+            return 0
+        if wl.startswith(ql):
+            return 1
+        if wl.endswith(ql):
+            return 2
+        return 999
+
+    results.sort(key=sortfn)
+
+    return results
+
+
 @app.get("/")
-def index(request: Request):
+async def index(request: Request):
     return templates.TemplateResponse(
         "index.html",
         {
@@ -73,26 +103,9 @@ def index(request: Request):
 
 
 @app.get("/search")
-def search(request: Request, q: str):
+async def search(request: Request, q: str):
 
-    results = []
-    if q:
-        ql = q.lower()
-        for k, v in data.items():
-            if ql in k.lower():
-                results.append({"w": k, "x": v})
-
-        def sortfn(a):
-            wl = a["w"].lower()
-            if wl == ql:
-                return 0
-            if wl.startswith(ql):
-                return 1
-            if wl.endswith(ql):
-                return 2
-            return 999
-
-        results.sort(key=sortfn)
+    results = _results(q)
 
     return templates.TemplateResponse(
         "result.html",
@@ -106,14 +119,35 @@ def search(request: Request, q: str):
 
 
 @app.get("/files")
-def files(request: Request):
+async def files(request: Request):
     return templates.TemplateResponse(
         "files.html", {"request": request, "title": f"Gögn - {WEBSITE_NAME}"}
     )
 
 
 @app.get("/about")
-def about(request: Request):
+async def about(request: Request):
     return templates.TemplateResponse(
         "about.html", {"request": request, "title": f"Gögn - {WEBSITE_NAME}"}
     )
+
+
+@app.get("/apidoc")
+async def api(request: Request):
+    return templates.TemplateResponse(
+        "apidoc.html", {"request": request, "title": f"Forritaskil - {WEBSITE_NAME}"}
+    )
+
+
+@app.get("/api/suggest/{q}")
+async def api_suggest(request: Request, q):
+    results = _results(q)
+    words = [x["w"] for x in results]
+    return JSONResponse(content=words)
+
+
+@app.get("/api/search/{q}")
+async def api_search(request: Request, q):
+    results = _results(q)
+
+    return JSONResponse(content={"results": results})

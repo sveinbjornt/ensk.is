@@ -14,7 +14,8 @@
 <p><em>{{ results|length }} niðurstöður fyrir <strong>{{ q }}</strong></em>.</p>
 
 {% for r in results %}
-<p><strong>{{ r.w }}</strong>: {{ r.x }}</p>
+<p><strong>{{ r.w }}</strong> {{ r.x }}
+    (<a href="/static/files/src/enis1932/pages/{{ r.p - 1 }}.jpg">#{{ r.p }}</a>)</p>
 {% endfor %}
 
 {% else %}
