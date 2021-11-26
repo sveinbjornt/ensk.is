@@ -37,15 +37,18 @@
 from typing import List
 
 import json
+import re
 
 from fastapi import FastAPI, Request
 from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import JSONResponse
 
-from util import icequote
+# from util import icequote
+
 
 WEBSITE_NAME = "Ensk.is"
+
 
 app = FastAPI(title=WEBSITE_NAME, openapi_url="/openapi.json")
 
@@ -74,7 +77,10 @@ def _results(q: str) -> List:
             x = v["x"]
             x = x.replace("[", "<em>")
             x = x.replace("]", "</em>")
-            results.append({"w": k, "x": x, "p": v["n"] + 1})
+            x = x.replace("~", k)
+            x = re.sub(r"\(.+?\)\s", " ", x, 1)
+            audio_url = f"/static/audio/enis1932/{k}.aiff"
+            results.append({"w": k, "x": x, "p": v["n"] + 1, "a": audio_url})
 
     def sortfn(a):
         wl = a["w"].lower()
@@ -111,7 +117,7 @@ async def search(request: Request, q: str):
         "result.html",
         {
             "request": request,
-            "title": f"{icequote(q)} - {WEBSITE_NAME}",
+            "title": f"{q} - {WEBSITE_NAME}",
             "q": q,
             "results": results,
         },
@@ -140,14 +146,13 @@ async def api(request: Request):
 
 
 @app.get("/api/suggest/{q}")
-async def api_suggest(request: Request, q):
+async def api_suggest(request: Request, q, limit: int = 10):
     results = _results(q)
-    words = [x["w"] for x in results]
+    words = [x["w"] for x in results][:limit]
     return JSONResponse(content=words)
 
 
 @app.get("/api/search/{q}")
 async def api_search(request: Request, q):
     results = _results(q)
-
     return JSONResponse(content={"results": results})

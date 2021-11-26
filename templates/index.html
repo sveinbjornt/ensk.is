@@ -4,41 +4,7 @@
 {% endblock %}
 
 {% block script %}
-<script type="text/javascript">
-    function ajax_get(url, callback) {
-        var xmlhttp = new XMLHttpRequest();
-        xmlhttp.onreadystatechange = function() {
-            if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
-                console.log('responseText:' + xmlhttp.responseText);
-                try {
-                    var data = JSON.parse(xmlhttp.responseText);
-                } catch(err) {
-                    console.log(err.message + " in " + xmlhttp.responseText);
-                    return;
-                }
-                callback(data);
-            }
-        };
-        xmlhttp.open("GET", url, true);
-        xmlhttp.send();
-    }
-
-    window.onload = function () {
-        // Focus on search input field
-        document.getElementById("q").focus();
-
-        // Enable autocompletion suggestions
-        new autoComplete({
-            selector: 'input[name="q"]',
-            source: function(term, response){
-                var qval = document.getElementById("q").value;
-                ajax_get('/api/suggest/' + qval, function(data){ response(data); });
-            }
-        });
-
-    };
-</script>
-<script type="text/javascript" src="/static/js/autocomplete.min.js"></script>
+    {% include 'searchjs.html' %}
 {% endblock %}
 
 {% block content %}

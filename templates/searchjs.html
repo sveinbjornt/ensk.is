@@ -1,0 +1,53 @@
+<script type="text/javascript">
+    function ajax_get(url, callback) {
+        var xmlhttp = new XMLHttpRequest();
+        xmlhttp.onreadystatechange = function() {
+            if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                //console.log('responseText:' + xmlhttp.responseText);
+                try {
+                    var data = JSON.parse(xmlhttp.responseText);
+                } catch(err) {
+                    console.log(err.message + " in " + xmlhttp.responseText);
+                    return;
+                }
+                callback(data);
+            }
+        };
+        xmlhttp.open("GET", url, true);
+        xmlhttp.send();
+    }
+
+    function caret_to_end(end) {
+            var len = end.value.length;
+              
+            // Mostly for Web Browsers
+            if (end.setSelectionRange) {
+                end.focus();
+                end.setSelectionRange(len, len);
+            } else if (end.createTextRange) {
+                var t = end.createTextRange();
+                t.collapse(true);
+                t.moveEnd('character', len);
+                t.moveStart('character', len);
+                t.select();
+            }
+        }
+
+    window.onload = function () {
+        // Focus on search input field
+        var elm = document.getElementById("q");
+        elm.focus();
+        caret_to_end(elm);
+
+        // Enable autocompletion suggestions
+        new autoComplete({
+            selector: 'input[name="q"]',
+            source: function(term, response){
+                var qval = document.getElementById("q").value;
+                ajax_get('/api/suggest/' + qval, function(data){ response(data); });
+            }
+        });
+
+    };
+</script>
+<script type="text/javascript" src="/static/js/autocomplete.min.js"></script>

@@ -4,6 +4,7 @@
 {% endblock %}
 
 {% block script %}
+    {% include 'searchjs.html' %}
 {% endblock %}
 
 {% block content %}
@@ -11,11 +12,13 @@
 {% include 'searchfield.html' %}
 
 {% if results|length > 0 %}
-<p><em>{{ results|length }} niðurstöður fyrir <strong>{{ q }}</strong></em>.</p>
+<!--<p><em>{{ results|length }} niðurstöður fyrir <strong>{{ q }}</strong></em>.</p>-->
 
 {% for r in results %}
-<p><strong>{{ r.w }}</strong> {{ r.x }}
-    (<a href="/static/files/src/enis1932/pages/{{ r.p - 1 }}.jpg">#{{ r.p }}</a>)</p>
+<div class="result">
+    <p><strong>{{ r.w }}</strong> (<a href="{{ r.a }}">&#128266;</a>) {{ r.x|safe }}
+    <!--(<a href="/static/files/src/enis1932/pages/{{ r.p - 1 }}.jpg">#{{ r.p }}</a>)--></p>
+</div>
 {% endfor %}
 
 {% else %}

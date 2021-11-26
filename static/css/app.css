@@ -63,6 +63,10 @@ a {
     color: rgb(13, 25, 83);
 }
 
+input[name="q"] {
+    margin-bottom: 2.0em;
+}
+
 input[type="submit"] {
     width: 100%;
     height: 40px;
@@ -71,6 +75,17 @@ input[type="submit"] {
     /*background: url(../Images/Plane.png) no-repeat right;*/
     color: #fff;
     cursor: pointer;
+}
+
+div.result {
+    padding:  1.0em;
+    background-color: #fefefe;
+    border: 1px solid #efefef;
+    margin-bottom: 0.7em;
+}
+
+div.result p {
+    margin-bottom: 0;
 }
 
 
