@@ -38,7 +38,7 @@
 
 body {
     font-size: 110%;
-    font-family: Lato;
+    font-family: 'Lato';
     background-color: #f7f7f7;
 }
 
@@ -78,7 +78,9 @@ input[type="submit"] {
 }
 
 div.result {
-    padding:  1.0em;
+    padding: 1.0em;
+    padding-top: 0.7em;
+    padding-bottom: 0.7em;
     background-color: #fefefe;
     border: 1px solid #efefef;
     margin-bottom: 0.7em;
@@ -86,6 +88,25 @@ div.result {
 
 div.result p {
     margin-bottom: 0;
+}
+
+div.itemlinks {
+    float: right;
+    color: #aaa;
+    height: 100%;
+}
+
+div.itemslinks > svg {
+    color: #aaa;
+}
+
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
 }
 
 

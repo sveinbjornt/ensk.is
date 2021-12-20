@@ -79,7 +79,7 @@ def _results(q: str) -> List:
             x = x.replace("]", "</em>")
             x = x.replace("~", k)
             x = re.sub(r"\(.+?\)\s", " ", x, 1)
-            audio_url = f"/static/audio/enis1932/{k}.aiff"
+            audio_url = f"/static/audio/enis1932/{k}.aiff.mp3"
             results.append({"w": k, "x": x, "p": v["n"] + 1, "a": audio_url})
 
     def sortfn(a):

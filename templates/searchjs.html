@@ -33,6 +33,11 @@
             }
         }
 
+    function play(elm) {
+        new Audio(elm.href).play(); 
+        return false;
+    }
+
     window.onload = function () {
         // Focus on search input field
         var elm = document.getElementById("q");
