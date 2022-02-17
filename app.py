@@ -3,7 +3,7 @@
 
     Ensk.is: English-Icelandic dictionary web application
 
-    Copyright (c) Sveinbjorn Thordarson <sveinbjorn@sveinbjorn.org>
+    Copyright (c) 2022 Sveinbjorn Thordarson <sveinbjorn@sveinbjorn.org>
 
     Redistribution and use in source and binary forms, with or without modification,
     are permitted provided that the following conditions are met:
@@ -45,9 +45,11 @@ from fastapi.staticfiles import StaticFiles
 from fastapi.responses import JSONResponse
 
 # from util import icequote
+from db import EnskDatabase
 
 
 WEBSITE_NAME = "Ensk.is"
+WEBSITE_DESC = "Oping og frjáls ensk-íslensk orðabók"
 
 
 app = FastAPI(title=WEBSITE_NAME, openapi_url="/openapi.json")
@@ -56,31 +58,32 @@ app.mount("/static", StaticFiles(directory="static"), name="static")
 
 templates = Jinja2Templates(directory="templates")
 
+e = EnskDatabase()
 
-data = None
-with open("enis.json", "r") as f:
-    data = json.load(f)
+res = e.read_all_entries()
 
 
 def _err(msg: str) -> JSONResponse:
     return JSONResponse(content={"err": True, "errmsg": msg})
 
 
-def _results(q: str) -> List:
+def _results(q: str, exact_match: bool = False) -> List:
     results = []
     if not q:
         return []
 
     ql = q.lower()
-    for k, v in data.items():
-        if ql in k.lower():
-            x = v["x"]
+    for k in res:
+        kl = k["word"].lower()
+        if (exact_match and ql == kl) or (not exact_match and ql in k["word"].lower()):
+            w = k["word"]
+            x = k["definition"]
             x = x.replace("[", "<em>")
             x = x.replace("]", "</em>")
-            x = x.replace("~", k)
-            x = re.sub(r"\(.+?\)\s", " ", x, 1)
-            audio_url = f"/static/audio/enis1932/{k}.aiff.mp3"
-            results.append({"w": k, "x": x, "p": v["n"] + 1, "a": audio_url})
+            x = x.replace("~", k["word"])
+            # x = re.sub(r"\(.+?\)\s", " ", x, 1)
+            audio_url = f"/static/audio/enis1932/{w}.aiff.mp3"
+            results.append({"w": w, "x": x, "p": 1, "a": audio_url})
 
     def sortfn(a):
         wl = a["w"].lower()
@@ -103,7 +106,7 @@ async def index(request: Request):
         "index.html",
         {
             "request": request,
-            "title": f"{WEBSITE_NAME} - Opin og frjáls ensk-íslensk orðabók",
+            "title": f"{WEBSITE_NAME} - {WEBSITE_DESC}",
         },
     )
 
@@ -124,6 +127,20 @@ async def search(request: Request, q: str):
     )
 
 
+@app.get("/item/{w}")
+async def item(request: Request, w):
+    results = _results(w, exact_match=True)
+    return templates.TemplateResponse(
+        "result.html",
+        {
+            "request": request,
+            "title": f"{w} - {WEBSITE_NAME}",
+            "q": w,
+            "results": results,
+        },
+    )
+
+
 @app.get("/files")
 async def files(request: Request):
     return templates.TemplateResponse(
@@ -135,6 +152,14 @@ async def files(request: Request):
 async def about(request: Request):
     return templates.TemplateResponse(
         "about.html", {"request": request, "title": f"Gögn - {WEBSITE_NAME}"}
+    )
+
+
+@app.get("/zoega")
+async def zoega(request: Request):
+    return templates.TemplateResponse(
+        "zoega.html",
+        {"request": request, "title": f"Orðabók Geirs T. Zoëga - {WEBSITE_NAME}"},
     )
 
 
