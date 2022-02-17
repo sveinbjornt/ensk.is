@@ -37,16 +37,16 @@
 from typing import List, Tuple
 
 import os
+import json
 
 
 def read_pages() -> List[str]:
     """Read all text files in the data/dict directory,
     return as single list of all lines."""
+
     base_path = "data/dict/"
-
-    result = []
-
     files = sorted(os.listdir(base_path))
+    result = []
 
     for file in files:
         fp = os.path.join(base_path, file)
@@ -111,7 +111,7 @@ def parse_line(s: str) -> Tuple:
             idx = i
             break
     if idx == NO_VAL:
-        raise Exception("No cat found!!!")
+        raise Exception(f"No cat found!: {s}")
 
     wentries = list()
     for c in comp[:idx]:
@@ -125,3 +125,17 @@ def parse_line(s: str) -> Tuple:
     word = " ".join(wentries)
     definition = " ".join(comp[idx:])
     return (word, definition)
+
+
+WORD_TO_PAGE = None
+
+
+def page_for_word(w: str) -> int:
+    """Look up the page at which a given word occurs in
+    Geir T. Zoega's original dictionary."""
+    global WORD_TO_PAGE
+    if not WORD_TO_PAGE:
+        with open("data/word2page.json", "r") as file:
+            data = file.read()
+            WORD_TO_PAGE = json.loads(data)
+    return WORD_TO_PAGE.get(w, 0)

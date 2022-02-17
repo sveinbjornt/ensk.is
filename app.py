@@ -135,12 +135,13 @@ async def item(request: Request, w):
     results = _results(w, exact_match=True)
 
     return TemplateResponse(
-        "result.html",
+        "item.html",
         {
             "request": request,
             "title": f"{w} - {WEBSITE_NAME}",
             "q": w,
             "results": results,
+            "word": w,
         },
     )
 

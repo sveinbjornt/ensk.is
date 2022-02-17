@@ -35,27 +35,73 @@
 
 """
 
-from util import read_pages, parse_line
-from db import EnskDatabase
+from typing import List, Tuple
 
-r = read_pages()
+import os
 
-d = dict()
-
-e = EnskDatabase()
+from util import read_pages, parse_line, page_for_word
+from db import EnskDatabase, DB_FILENAME
 
 
-def add_entries_to_db() -> None:
-    for page_num, page in enumerate(r):
-        for line_num, line in enumerate(page):
-            pn = page_num + 1
-            ln = line_num + 1
-            wd = parse_line(line)
-            w = wd[0]
-            definition = wd[1]
-            print(w)
-            e.add_entry(w, definition, pn)
+EntryType = Tuple[str, str, int]
+EntryList = List[EntryType]
+
+
+def read_all_entries() -> EntryList:
+    r = read_pages()
+    entries = []
+    for line in r:
+        wd = parse_line(line)
+        w = wd[0]
+        definition = wd[1]
+        pn = page_for_word(w)
+        entries.append(tuple([w, definition, pn]))
+    return entries
+
+
+def delete_db() -> None:
+    """Delete ny pre-existing SQLite database file."""
+    try:
+        os.remove(DB_FILENAME)
+    except:
+        pass
+
+
+def add_entries_to_db(entries: EntryList) -> None:
+    """Insert all entries into database."""
+    db = EnskDatabase()
+    for e in entries:
+        (w, definition, pn) = e
+        print(f"Adding {w}")
+        db.add_entry(w, definition, pn)
+
+
+def generate_database(entries: EntryList) -> str:
+    """Generate SQLite database. Returns filename."""
+    delete_db()
+    add_entries_to_db(entries)
+    return DB_FILENAME
+
+
+def generate_csv(entries: EntryList) -> str:
+    """Generate zipped CSV file in static/files/. Return file path."""
+    pass
+
+
+def generate_text(entries: EntryList) -> str:
+    """Generate zipped text files in static/files/. Return file path."""
+    pass
+
+
+def generate_pdf(entries: EntryList) -> str:
+    """Generate PDF in static/files/. Return file path."""
+    pass
 
 
 if __name__ == "__main__":
-    add_entries_to_db()
+    """Command line invocation."""
+    entries = read_all_entries()
+    generate_database(entries)
+    generate_csv(entries)
+    generate_text(entries)
+    generate_pdf(entries)

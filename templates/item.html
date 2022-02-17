@@ -1,0 +1,26 @@
+{% extends "container.html" %}
+
+{% block meta %}
+{% endblock %}
+
+{% block content %}
+
+<!-- {% include 'searchfield.html' %} -->
+
+<h1>{{ word|safe }}</h1>
+
+{% for r in results %}
+<div class="result grid-container">
+
+
+    <p>{{ r.x|safe }}</p>
+
+
+
+
+</div>
+{% endfor %}
+
+
+
+{% endblock %}

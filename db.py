@@ -45,9 +45,12 @@ import sqlite3
 from pathlib import Path
 
 
+DB_FILENAME = "dict.db"
+
+
 class EnskDatabase(object):
     _instance = None
-    _dbname = "dict.db"
+    _dbname = DB_FILENAME
 
     def __init__(self):
         self.db_conn = None
