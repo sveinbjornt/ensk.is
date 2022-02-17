@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """
 
-    Ensk.is: English-Icelandic dictionary web application
-
-    Copyright (c) Sveinbjorn Thordarson <sveinbjorn@sveinbjorn.org>
+    Ensk.is - English-Icelandic dictionary
+    
+    Copyright (c) 2022, Sveinbjorn Thordarson <sveinbjorn@sveinbjorn.org>
+    All rights reserved.
 
     Redistribution and use in source and binary forms, with or without modification,
     are permitted provided that the following conditions are met:
@@ -30,6 +31,83 @@
     ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
     POSSIBILITY OF SUCH DAMAGE.
 
-    Database models
+
+    Dictionary database singleton.
+
 
 """
+
+
+from typing import List, Dict
+
+import logging
+import sqlite3
+from pathlib import Path
+
+
+class EnskDatabase(object):
+    _instance = None
+    _dbname = "dict.db"
+
+    def __init__(self):
+        self.db_conn = None
+
+    def __new__(cls):
+        """Singleton pattern."""
+        if cls._instance is None:
+            print("Instantiating database")
+            cls._instance = super(EnskDatabase, cls).__new__(cls)
+            # Create database file and schema if no DB file exists
+            if not Path(cls._dbname).is_file():
+                cls._instance.create()
+
+        return cls._instance
+
+    def conn(self) -> sqlite3.Connection:
+        """Open database connection lazily."""
+        if not self.db_conn:
+            # Open database file in read-only mode via URI
+            db_uri = f"file:{self._dbname}"  # ?mode=ro"
+            print(f"Opening database connection at {db_uri}")
+            self.db_conn = sqlite3.connect(db_uri, uri=True, check_same_thread=False)
+
+            # Return rows as key-value dicts
+            self.db_conn.row_factory = lambda c, r: dict(
+                zip([col[0] for col in c.description], r)
+            )
+
+        return self.db_conn
+
+    def create(self) -> None:
+        """Create database file and generate database schema."""
+        print(f"Creating database {self._dbname}")
+
+        # Create database file
+        conn = sqlite3.connect(self._dbname)
+
+        # Create schema
+        create_table_sql = """
+            CREATE TABLE dictionary (
+                id INTEGER UNIQUE PRIMARY KEY NOT NULL,
+                word TEXT,
+                definition TEXT,
+                page_num INTEGER
+            );
+        """
+
+        conn.cursor().execute(create_table_sql)
+
+    def add_entry(self, w: str, definition: str, page_num: int) -> None:
+        """Add a single entry to the dictionary."""
+        conn = self.conn()
+        conn.cursor().execute(
+            "INSERT INTO dictionary (word, definition, page_num) VALUES (?,?,?)",
+            [w, definition, page_num],
+        )
+        conn.commit()
+
+    def read_all_entries(self) -> List[Dict]:
+        """Read and return all entries for word query."""
+        conn = self.conn()
+        sql = conn.cursor().execute("SELECT * FROM dictionary")
+        return list(sql)  # Consume generator into list

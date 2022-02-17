@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """
 
-    Ensk.is: English-Icelandic dictionary web application
-
-    Copyright (c) Sveinbjorn Thordarson <sveinbjorn@sveinbjorn.org>
+    Ensk.is - English-Icelandic dictionary
+    
+    Copyright (c) 2022, Sveinbjorn Thordarson <sveinbjorn@sveinbjorn.org>
+    All rights reserved.
 
     Redistribution and use in source and binary forms, with or without modification,
     are permitted provided that the following conditions are met:
@@ -30,11 +31,87 @@
     ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
     POSSIBILITY OF SUCH DAMAGE.
 
-    Utility functions
-
 """
 
 
-def icequote(s: str) -> str:
-    """Return string surrounded by Icelandic-style quotation marks."""
-    return "„{0}“".format(s.strip())
+from typing import List, Tuple
+
+import os
+
+
+def read_pages() -> List[str]:
+    """Read all OCR'd pages in the pages/ directory,
+    return as single list of all lines on all pages."""
+    base_path = "pages/"
+
+    result = []
+
+    files = sorted(os.listdir(base_path))
+
+    for file in files:
+        fp = os.path.join(base_path, file)
+        if os.path.isfile(fp) == False:
+            continue
+        if file.endswith(".txt") == False:
+            continue
+
+        with open(fp, "r") as file:
+            file_contents = file.read()
+        lines = file_contents.split("\n")
+
+        for ln in lines:
+            # Skip all empty lines and comments
+            lns = ln.strip()
+            if not lns or lns.startswith("#"):
+                continue
+            result.append(ln)
+
+    return result
+
+
+def read_wordlist(fn: str) -> List[str]:
+    """Read a file containing one word per line.
+    Return all words as a list."""
+    words = list()
+
+    with open(fn, "r") as file:
+        file_contents = file.read()
+        lines = file_contents.split("\n")
+        for line in lines:
+            line = line.strip().replace("  ", " ")
+            if not line:
+                continue
+            if line.startswith("#"):
+                continue
+            words.append(line)
+    return words
+
+
+CATEGORIES = read_wordlist("cats/catwords.txt")
+
+
+def parse_line(s: str) -> Tuple:
+    """Parse a single line entry into its constitutent parts
+    i.e. word and definition strings, and return as tuple."""
+    comp = s.split()
+    NO_VAL = 9999
+    idx = NO_VAL
+    for i, c in enumerate(comp):
+        if c in CATEGORIES:
+            idx = i
+            break
+    if idx == NO_VAL:
+        raise Exception("No cat found!!!")
+
+    wentries = list()
+    for c in comp[:idx]:
+        c = c.replace("\ufeff", "").strip().replace("  ", " ")
+        if not c:
+            continue
+        if c.startswith("(") and c.endswith(")"):
+            continue
+        wentries.append(c)
+
+    word = " ".join(wentries)
+    definition = " ".join(comp[idx:])
+    return (word, definition)
