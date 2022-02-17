@@ -34,24 +34,55 @@
 """
 
 
-from pprint import pprint
-import json
+import os
+import subprocess
 
-from util import read_pages, parse_line
-
-
-r = read_pages()
-
-d = dict()
+from util import read_all_words
 
 
-for page_num, page in enumerate(r):
-    for line_num, line in enumerate(page):
-        pn = page_num + 1
-        ln = line_num + 1
-        wd = parse_line(line)
-        d[wd[0]] = pn
-        #print(wd[0])
+_SPEECHSYNTH_CLT = "/usr/bin/say"  # Requires macOS
 
-pprint(d)
-# print(json.dumps(d))
+
+def synthesize_word(w: str, dest_folder=None) -> str:
+    """Generate a speech-synthesised AIFF audio file from word.
+    Returns path to output file."""
+    assert dest_folder is not None
+    args = [_SPEECHSYNTH_CLT]
+    args.append("-r")
+    args.append("89")
+    # args.append("--file-format=WAVE")
+    args.append("-o")
+    fn = f"{w}.aiff".replace(" ", "_")
+    outpath = f"{dest_folder}/{fn}"
+    args.append(outpath)
+    args.append(w)
+    subprocess.run(args)
+    return outpath
+
+
+_LAME_CLT = "/usr/local/bin/lame"  # Requires LAME install
+
+
+def aiff2mp3(infile_path: str, outfile_path: str = None):
+    """Convert AIFF to MP3 using lame."""
+    args = [_LAME_CLT]
+    args.append(infile_path)
+    subprocess.run(args)
+
+
+_OUT_FOLDER = "static/audio/dict/"
+
+
+def synthesize_all() -> None:
+    """Read all dictionary words, speech-synthesize each word to
+    AIFF using the macOS speech synthesizer, and convert to MP3."""
+    words = read_all_words()
+    for w in words:
+        aiff_path = synthesize_word(w, dest_folder=_OUT_FOLDER)
+        mp3_path = aiff2mp3(aiff_path)
+        os.remove(aiff_path)
+
+
+if __name__ == "__main__":
+    """Command line invocation."""
+    synthesize_all()

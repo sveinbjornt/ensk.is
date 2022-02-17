@@ -3,3 +3,5 @@ jinja2>=3.0.2
 asyncpg>=0.24.0
 typer>=0.4.0
 sqlalchemy>=1.4.26
+islenska
+tokenizer

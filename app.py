@@ -36,29 +36,30 @@
 
 from typing import List
 
-import json
-import re
-
 from fastapi import FastAPI, Request
 from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
-from fastapi.responses import JSONResponse
+from fastapi.responses import Response, JSONResponse
 
-# from util import icequote
 from db import EnskDatabase
 
-
+# Website settings
 WEBSITE_NAME = "Ensk.is"
 WEBSITE_DESC = "Oping og frjáls ensk-íslensk orðabók"
 
-
+# Create app
 app = FastAPI(title=WEBSITE_NAME, openapi_url="/openapi.json")
 
+# Static files
 app.mount("/static", StaticFiles(directory="static"), name="static")
 
+# Set up templates
 templates = Jinja2Templates(directory="templates")
+TemplateResponse = templates.TemplateResponse
 
+# Initialize database singleton
 e = EnskDatabase()
+
 
 res = e.read_all_entries()
 
@@ -82,7 +83,8 @@ def _results(q: str, exact_match: bool = False) -> List:
             x = x.replace("]", "</em>")
             x = x.replace("~", k["word"])
             # x = re.sub(r"\(.+?\)\s", " ", x, 1)
-            audio_url = f"/static/audio/enis1932/{w}.aiff.mp3"
+            wfnfixed = w.replace(" ", "_")
+            audio_url = f"/static/audio/dict/{wfnfixed}.mp3"
             results.append({"w": w, "x": x, "p": 1, "a": audio_url})
 
     def sortfn(a):
@@ -102,7 +104,7 @@ def _results(q: str, exact_match: bool = False) -> List:
 
 @app.get("/")
 async def index(request: Request):
-    return templates.TemplateResponse(
+    return TemplateResponse(
         "index.html",
         {
             "request": request,
@@ -116,7 +118,7 @@ async def search(request: Request, q: str):
 
     results = _results(q)
 
-    return templates.TemplateResponse(
+    return TemplateResponse(
         "result.html",
         {
             "request": request,
@@ -129,8 +131,10 @@ async def search(request: Request, q: str):
 
 @app.get("/item/{w}")
 async def item(request: Request, w):
+
     results = _results(w, exact_match=True)
-    return templates.TemplateResponse(
+
+    return TemplateResponse(
         "result.html",
         {
             "request": request,
@@ -143,21 +147,21 @@ async def item(request: Request, w):
 
 @app.get("/files")
 async def files(request: Request):
-    return templates.TemplateResponse(
+    return TemplateResponse(
         "files.html", {"request": request, "title": f"Gögn - {WEBSITE_NAME}"}
     )
 
 
 @app.get("/about")
 async def about(request: Request):
-    return templates.TemplateResponse(
+    return TemplateResponse(
         "about.html", {"request": request, "title": f"Gögn - {WEBSITE_NAME}"}
     )
 
 
 @app.get("/zoega")
 async def zoega(request: Request):
-    return templates.TemplateResponse(
+    return TemplateResponse(
         "zoega.html",
         {"request": request, "title": f"Orðabók Geirs T. Zoëga - {WEBSITE_NAME}"},
     )
@@ -165,19 +169,24 @@ async def zoega(request: Request):
 
 @app.get("/apidoc")
 async def api(request: Request):
-    return templates.TemplateResponse(
+    return TemplateResponse(
         "apidoc.html", {"request": request, "title": f"Forritaskil - {WEBSITE_NAME}"}
     )
 
 
 @app.get("/api/suggest/{q}")
-async def api_suggest(request: Request, q, limit: int = 10):
+async def api_suggest(request: Request, q, limit: int = 10) -> JSONResponse:
     results = _results(q)
     words = [x["w"] for x in results][:limit]
     return JSONResponse(content=words)
 
 
 @app.get("/api/search/{q}")
-async def api_search(request: Request, q):
+async def api_search(request: Request, q) -> JSONResponse:
     results = _results(q)
     return JSONResponse(content={"results": results})
+
+
+@app.get("/sitemap.xml")
+async def sitemap(request: Request) -> Response:
+    return Response(content="", media_type="application/xml")

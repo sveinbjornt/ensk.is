@@ -1,3 +1,5 @@
-# ensk.is - English-Icelandic dictionary website
+# ensk.is
+
+## A free and open English-Icelandic dictionary
 
 TBD

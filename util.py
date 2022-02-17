@@ -2,7 +2,7 @@
 """
 
     Ensk.is - English-Icelandic dictionary
-    
+
     Copyright (c) 2022, Sveinbjorn Thordarson <sveinbjorn@sveinbjorn.org>
     All rights reserved.
 
@@ -40,9 +40,9 @@ import os
 
 
 def read_pages() -> List[str]:
-    """Read all OCR'd pages in the pages/ directory,
-    return as single list of all lines on all pages."""
-    base_path = "pages/"
+    """Read all text files in the data/dict directory,
+    return as single list of all lines."""
+    base_path = "data/dict/"
 
     result = []
 
@@ -69,6 +69,16 @@ def read_pages() -> List[str]:
     return result
 
 
+def read_all_words() -> List[str]:
+    """Return a list of all dictionary words."""
+    r = read_pages()
+    words = []
+    for line in r:
+        w, d = parse_line(line)
+        words.append(w)
+    return words
+
+
 def read_wordlist(fn: str) -> List[str]:
     """Read a file containing one word per line.
     Return all words as a list."""
@@ -79,15 +89,15 @@ def read_wordlist(fn: str) -> List[str]:
         lines = file_contents.split("\n")
         for line in lines:
             line = line.strip().replace("  ", " ")
-            if not line:
+            if not line:  # Skip empty lines
                 continue
-            if line.startswith("#"):
+            if line.startswith("#"):  # Skip comments
                 continue
             words.append(line)
     return words
 
 
-CATEGORIES = read_wordlist("cats/catwords.txt")
+CATEGORIES = read_wordlist("data/catwords.txt")
 
 
 def parse_line(s: str) -> Tuple:

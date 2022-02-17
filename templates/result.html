@@ -4,7 +4,7 @@
 {% endblock %}
 
 {% block script %}
-    {% include 'searchjs.html' %}
+{% include 'searchjs.html' %}
 {% endblock %}
 
 {% block content %}
@@ -18,20 +18,20 @@
 
 {% for r in results %}
 <div class="result grid-container">
-          
+
     <div class="itemlinks">
         <a href="/item/{{ r.w }}" title="Hlekkur"><img src="/static/img/link.svg"></a>
     </div>
 
-            <p>
-        <strong>{{ r.w }}</strong> 
+    <p>
+        <strong>{{ r.w }}</strong>
         (<a href="{{ r.a }}" onClick="return play(this);" title="Spila hljóðupptöku af framburði">
             <img src="/static/img/audio.svg">
 
 
-        </a>) 
+        </a>)
         {{ r.x|safe }}
-    <!--(<a href="/static/files/src/enis1932/pages/{{ r.p - 1 }}.jpg">#{{ r.p }}</a>)-->
+        <!--(<a href="/static/files/src/enis1932/pages/{{ r.p - 1 }}.jpg">#{{ r.p }}</a>)-->
     </p>
 
 

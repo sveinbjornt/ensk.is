@@ -2,7 +2,7 @@
 """
 
     Ensk.is - English-Icelandic dictionary
-    
+
     Copyright (c) 2022, Sveinbjorn Thordarson <sveinbjorn@sveinbjorn.org>
     All rights reserved.
 
@@ -34,33 +34,33 @@
 """
 
 
-import json
+# import json
 
 
-data = None
-with open("enis.json", "r") as f:
-    data = json.load(f)
-dictwords = data.keys()
+# data = None
+# with open("enis.json", "r") as f:
+#     data = json.load(f)
+# dictwords = data.keys()
 
-enwords = None
-with open("wordlists/top5000.txt", "r") as f:
-    contents = f.read()
-    enwords = sorted(contents.split("\n"))
+# enwords = None
+# with open("wordlists/top5000.txt", "r") as f:
+#     contents = f.read()
+#     enwords = sorted(contents.split("\n"))
 
 
-for w in enwords:
-    w = w
-    w1 = w.strip()
-    w2 = w.rstrip("s")
-    w3 = w.rstrip("ing")
-    w4 = w.rstrip("ing")
-    ww = [w, w1, w2, w3, w4]
+# for w in enwords:
+#     w = w
+#     w1 = w.strip()
+#     w2 = w.rstrip("s")
+#     w3 = w.rstrip("ing")
+#     w4 = w.rstrip("ing")
+#     ww = [w, w1, w2, w3, w4]
 
-    found = False
-    for wl in ww:
-        if wl in dictwords or wl.lower() in dictwords:
-            found = True
-            break
+#     found = False
+#     for wl in ww:
+#         if wl in dictwords or wl.lower() in dictwords:
+#             found = True
+#             break
 
-    if not found:
-        print(w)
+#     if not found:
+#         print(w)
