@@ -38,6 +38,8 @@ from typing import List, Tuple
 
 import os
 import json
+import zipfile
+from os.path import exists
 
 
 def read_pages() -> List[str]:
@@ -139,3 +141,11 @@ def page_for_word(w: str) -> int:
             data = file.read()
             WORD_TO_PAGE = json.loads(data)
     return WORD_TO_PAGE.get(w, 0)
+
+
+def zip_file(inpath: str, outpath: str) -> None:
+    """Zip a given file, overwrite to destination path."""
+    if exists(outpath):
+        os.remove(outpath)
+    with zipfile.ZipFile(outpath, "w") as zip_f:
+        zip_f.write(inpath)

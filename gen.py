@@ -38,8 +38,10 @@
 from typing import List, Tuple
 
 import os
+import csv
+import zipfile
 
-from util import read_pages, parse_line, page_for_word
+from util import read_pages, parse_line, page_for_word, zip_file
 from db import EnskDatabase, DB_FILENAME
 
 
@@ -80,22 +82,40 @@ def generate_database(entries: EntryList) -> str:
     """Generate SQLite database. Returns filename."""
     delete_db()
     add_entries_to_db(entries)
+    zipfn = "static/files/ensk_dict.db.zip"
+    zip_file(DB_FILENAME, zipfn)
     return DB_FILENAME
 
 
 def generate_csv(entries: EntryList) -> str:
     """Generate zipped CSV file in static/files/. Return file path."""
-    pass
+    fields = ["word", "definition", "page_num"]
+    filename = "static/files/ensk_dict.csv"
+    with open(filename, "w") as csvfile:
+        csvwriter = csv.writer(csvfile)
+        csvwriter.writerow(fields)
+        csvwriter.writerows(entries)
+    zipfn = filename + ".zip"
+    zip_file(filename, zipfn)
+    os.remove(filename)
+    return zipfn
 
 
 def generate_text(entries: EntryList) -> str:
     """Generate zipped text files in static/files/. Return file path."""
-    pass
+    filename = "static/files/ensk_dict.txt"
+    with open(filename, "w") as file:
+        for e in entries:
+            file.write(f"{e[0]} {e[1]}")
+    zipfn = filename + ".zip"
+    zip_file(filename, zipfn)
+    os.remove(filename)
+    return zipfn
 
 
 def generate_pdf(entries: EntryList) -> str:
     """Generate PDF in static/files/. Return file path."""
-    pass
+    return ""
 
 
 if __name__ == "__main__":
@@ -104,4 +124,4 @@ if __name__ == "__main__":
     generate_database(entries)
     generate_csv(entries)
     generate_text(entries)
-    generate_pdf(entries)
+    # generate_pdf(entries)
