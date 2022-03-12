@@ -85,7 +85,8 @@ def _results(q: str, exact_match: bool = False) -> List:
             # x = re.sub(r"\(.+?\)\s", " ", x, 1)
             wfnfixed = w.replace(" ", "_")
             audio_url = f"/static/audio/dict/{wfnfixed}.mp3"
-            results.append({"w": w, "x": x, "p": 1, "a": audio_url})
+            ipa = k.get("ipa") or ""
+            results.append({"w": w, "x": x, "i": ipa, "p": 1, "a": audio_url})
 
     def sortfn(a):
         wl = a["w"].lower()
@@ -156,7 +157,7 @@ async def files(request: Request):
 @app.get("/about")
 async def about(request: Request):
     return TemplateResponse(
-        "about.html", {"request": request, "title": f"Gögn - {WEBSITE_NAME}"}
+        "about.html", {"request": request, "title": f"Um - {WEBSITE_NAME}"}
     )
 
 

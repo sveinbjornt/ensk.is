@@ -39,6 +39,7 @@ from typing import List, Tuple
 import os
 import json
 import zipfile
+import csv
 from os.path import exists
 
 
@@ -149,3 +150,14 @@ def zip_file(inpath: str, outpath: str) -> None:
         os.remove(outpath)
     with zipfile.ZipFile(outpath, "w") as zip_f:
         zip_f.write(inpath)
+
+
+def read_ipa(inpath: str) -> List[List]:
+    """ Read tab-separated file mappping English words to
+    their IPA equivalent."""
+    d = dict()
+    with open(inpath) as file:
+        tsv_file = csv.reader(file, delimiter="\t")
+        for e in tsv_file:
+            d[e[0]] = e[1]
+    return d

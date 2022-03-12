@@ -88,24 +88,25 @@ class EnskDatabase(object):
         # Create database file
         conn = sqlite3.connect(self._dbname)
 
-        # Create schema
+        # Create table
         create_table_sql = """
             CREATE TABLE dictionary (
                 id INTEGER UNIQUE PRIMARY KEY NOT NULL,
                 word TEXT,
                 definition TEXT,
+                ipa TEXT,
                 page_num INTEGER
             );
         """
 
         conn.cursor().execute(create_table_sql)
 
-    def add_entry(self, w: str, definition: str, page_num: int) -> None:
+    def add_entry(self, w: str, definition: str, ipa: str, page_num: int) -> None:
         """Add a single entry to the dictionary."""
         conn = self.conn()
         conn.cursor().execute(
-            "INSERT INTO dictionary (word, definition, page_num) VALUES (?,?,?)",
-            [w, definition, page_num],
+            "INSERT INTO dictionary (word, definition, ipa, page_num) VALUES (?,?,?,?)",
+            [w, definition, ipa, page_num],
         )
         conn.commit()
 

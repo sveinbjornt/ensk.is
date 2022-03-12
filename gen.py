@@ -39,14 +39,16 @@ from typing import List, Tuple
 
 import os
 import csv
-import zipfile
 
-from util import read_pages, parse_line, page_for_word, zip_file
+from util import read_pages, parse_line, page_for_word, zip_file, read_ipa
 from db import EnskDatabase, DB_FILENAME
 
 
-EntryType = Tuple[str, str, int]
+EntryType = Tuple[str, str, str, int]
 EntryList = List[EntryType]
+
+
+ENWORD_TO_IPA = read_ipa("data/ipa/en_UK.txt")
 
 
 def read_all_entries() -> EntryList:
@@ -56,16 +58,18 @@ def read_all_entries() -> EntryList:
         wd = parse_line(line)
         w = wd[0]
         definition = wd[1]
+        ipa = ENWORD_TO_IPA.get(w)
+
         pn = page_for_word(w)
-        entries.append(tuple([w, definition, pn]))
+        entries.append(tuple([w, definition, ipa, pn]))
     return entries
 
 
 def delete_db() -> None:
-    """Delete ny pre-existing SQLite database file."""
+    """Delete any pre-existing SQLite database file."""
     try:
         os.remove(DB_FILENAME)
-    except:
+    except Exception:
         pass
 
 
@@ -73,9 +77,9 @@ def add_entries_to_db(entries: EntryList) -> None:
     """Insert all entries into database."""
     db = EnskDatabase()
     for e in entries:
-        (w, definition, pn) = e
+        (w, definition, ipa, pn) = e
         print(f"Adding {w}")
-        db.add_entry(w, definition, pn)
+        db.add_entry(w, definition, ipa, pn)
 
 
 def generate_database(entries: EntryList) -> str:
@@ -106,7 +110,7 @@ def generate_text(entries: EntryList) -> str:
     filename = "static/files/ensk_dict.txt"
     with open(filename, "w") as file:
         for e in entries:
-            file.write(f"{e[0]} {e[1]}")
+            file.write(f"{e[0]} {e[1]}\n")
     zipfn = filename + ".zip"
     zip_file(filename, zipfn)
     os.remove(filename)
