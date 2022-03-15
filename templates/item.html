@@ -1,23 +1,25 @@
 {% extends "container.html" %}
 
 {% block meta %}
+  <meta name="description" content="Skilgreining á enska orðinu '{{ word|safe }}'">
 {% endblock %}
 
 {% block content %}
 
 <!-- {% include 'searchfield.html' %} -->
 
-<h1>{{ word|safe }}</h1>
+<h1 style="margin-bottom:0px;">{{ word|safe }}</h1>
+
+<p>
+    (<a href="{{ results[0].a }}" onClick="return play(this);" title="Spila hljóðupptöku af framburði">
+    <img src="/static/img/audio.svg">
+    {{ results[0].i }}
+    </a>)
+</p>
 
 {% for r in results %}
 <div class="result grid-container">
-
-
     <p>{{ r.x|safe }}</p>
-
-
-
-
 </div>
 {% endfor %}
 

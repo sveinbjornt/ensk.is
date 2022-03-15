@@ -45,7 +45,7 @@ from db import EnskDatabase
 
 # Website settings
 WEBSITE_NAME = "Ensk.is"
-WEBSITE_DESC = "Oping og frjáls ensk-íslensk orðabók"
+WEBSITE_DESC = "Opin og frjáls ensk-íslensk orðabók"
 
 # Create app
 app = FastAPI(title=WEBSITE_NAME, openapi_url="/openapi.json")

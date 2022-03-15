@@ -98,6 +98,7 @@ div.itemlinks {
     float: right;
     color: #aaa;
     height: 100%;
+    margin-left: 5px;
 }
 
 div.itemslinks > svg {
