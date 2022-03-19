@@ -99,7 +99,7 @@ def generate_csv(entries: EntryList) -> str:
         csvwriter = csv.writer(csvfile)
         csvwriter.writerow(fields)
         csvwriter.writerows(entries)
-    zipfn = filename + ".zip"
+    zipfn = f"{filename}.zip"
     zip_file(filename, zipfn)
     os.remove(filename)
     return zipfn
@@ -111,7 +111,7 @@ def generate_text(entries: EntryList) -> str:
     with open(filename, "w") as file:
         for e in entries:
             file.write(f"{e[0]} {e[1]}\n")
-    zipfn = filename + ".zip"
+    zipfn = f"{filename}.zip"
     zip_file(filename, zipfn)
     os.remove(filename)
     return zipfn
@@ -125,6 +125,7 @@ def generate_pdf(entries: EntryList) -> str:
 if __name__ == "__main__":
     """Command line invocation."""
     entries = read_all_entries()
+    #print(entries)
     generate_database(entries)
     generate_csv(entries)
     generate_text(entries)

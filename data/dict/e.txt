@@ -763,32 +763,32 @@ epopee (eppöpí) n. söguljóð
 equability n. jafnleiki; jafnlyndi
 equable l. jafn; [an ~ temper] jafnlyndi
 equal (íkwal) l. jafn (e-u [to]); jafnstór, jafnmikill; vaxinn (e-u [to]); sanngjarn; [an ~ mind] jafnaðargeð; [~ vote] jöfn atkvæði; [other things being ~] að öðru jöfnu; n. jafnoki, jafningi, líki; s. gera jafnan; jafnast við
-equality (ikwoll'iti) n. jafnleiki; jöfnuður
-equalize (íkwalæz) s. gera jafnan (e-u [with/to]); jafna
+equality n. jafnleiki; jöfnuður
+equalize s. gera jafnan (e-u [with/to]); jafna
 equally ao. jafn ([to divide ~]); jafn- ([~ good, important])
-equanimity (ikwanimm'iti) n. jafnlyndi, jafnaðargeð; rósemi
-equanimous (ikvann'imas) l. jafnlyndur
-equate (ikweit') s. gera e-ð jafnt; jafna e-u (við e-ð [to, with])
-equation (ikwei'shan) n. líking (í tölvísi)
-equator (ikwei'tar) n. miðjarðarlínan
-equatorial (íkwató'rial) l. sem lýtur að miðjarðarlínunni
-equerry (ekkwori) n. yfirmaður yfir hesthúsi konungs eða stórhöfðingja ([~ in ordinary])
-equestrian (ikwes'trian) l. reiðmannlegur, riddaralegur, riddara-; ríðandi; n. reiðmaður; ríðandi maður
-equiangular (íkwi-aN'gjúlar) l. jafnhyrndur
+equanimity n. jafnlyndi, jafnaðargeð; rósemi
+equanimous l. jafnlyndur
+equate s. gera e-ð jafnt; jafna e-u (við e-ð [to, with])
+equation n. (stærðfræði)jafna; líking (í tölvísi)
+equator n. miðjarðarlínan
+equatorial l. sem lýtur að miðjarðarlínunni
+equerry n. yfirmaður yfir hesthúsi konungs eða stórhöfðingja ([~ in ordinary])
+equestrian l. reiðmannlegur, riddaralegur, riddara-; ríðandi; n. reiðmaður; ríðandi maður
+equiangular l. jafnhyrndur
 equidistant l. jafnfjarlægur; jafnhliða (um línur)
 equilateral l. jafnhliðaður
-equilibrate (læ'breit) s. setja í jafnvægi; vega upp á móti; jafnvætta, vera jafnvægur (e-u [with])
-equilibration (læbrei'shan) n. jafnvægi
-equilibrious (-libb'rias) l. jafnvægur
-equilibrium (-libb'riam) n. jafnvægi
-equilibrize (ikwill'ibræz) s. setja í jafnvægi; vega upp á móti; jafnvætta, vera jafnvægur (e-u [with])
-equine (íkwæn) l. hestlegur, hrossa-, hesta- ([~ nature])
+equilibrate s. setja í jafnvægi; vega upp á móti; jafnvætta, vera jafnvægur (e-u [with])
+equilibration n. jafnvægi
+equilibrious l. jafnvægur
+equilibrium n. jafnvægi
+equilibrize s. setja í jafnvægi; vega upp á móti; jafnvætta, vera jafnvægur (e-u [with])
+equine l. hestlegur, hrossa-, hesta- ([~ nature])
 equinoctial l. jafndægurs-, jafndægra- ([~ line, ~ gale]); n. jafndægurshringur, jafndægralína; jafndægrastormur
-equinox (íkwinoks) n. jafndægur
-equip (ikwipp') s. gera út (skip); búa, búa út
-equipage (ekk-wipidzh) n. útbúningur, útbúnaður; farargögn; skrautvagn (með hestum)
+equinox n. jafndægur
+equip s. gera út (skip); búa, búa út
+equipage n. útbúningur, útbúnaður; farargögn; skrautvagn (með hestum)
 equipment n. útbúnaður ([hunting ~])
-equipoise (ikwipojz) n. jafnvægi; mótvægi; s. vega upp á móti, jafnvætta; halda (e-u) í jafnvægi
+equipoise n. jafnvægi; mótvægi; s. vega upp á móti, jafnvætta; halda (e-u) í jafnvægi
 equipollence (ikwipoll'ons) n. jafngildi
 equipollent l. jafngildur, jafnmikill; n. jafngildi
 equiponderance (íkwipon'darans) n. jafnvægi
@@ -797,21 +797,21 @@ equiponderate s. vega upp á móti
 equitable (ekkwitab'l) l. sanngjarn, sannsýnilegur; réttsýnn, óhlutdrægur
 equitably ao. með sanngirni
 equitation (ekkwitei'shan) n. reið; reiðmennska; útreið
-equity (ekkwiti) n. sanngirni ([the ~ of his claim]); réttsýni
-equivalence (ikwivv'alans) n. jafngildi
+equity n. sanngirni ([the ~ of his claim]); réttsýni
+equivalence n. jafngildi
 equivalent l. jafngildur; samsvarandi; sömu merkingar ([~ words]); [it would be ~ to] það mundi vera sama sem; n. jafngildi
-equivocal (ikwivv'ökal) l. tvíræður; efasamur; tortryggilegur ([~ mode of life, ~ guest])
-equivocate (ikwivv'ökeit) s. tala tvírætt, tala þvert um huga sinn
-equivocation (-vökei'shan) n. tvírætt tal
+equivocal l. tvíræður; efasamur; tortryggilegur ([~ mode of life, ~ guest])
+equivocate s. tala tvírætt, tala þvert um huga sinn
+equivocation n. tvírætt tal
 equivoque n. orðaleikur; tvíræði (í orðum), tvírætt orðalag
-era (íra) n. tímatal; tímabil; merkisviðburður ([it was an ~ in their lives])
+era n. tímatal; tímabil; merkisviðburður ([it was an ~ in their lives])
 eradicable l. upprætanlegur
 eradicate s. rífa (slíta) upp með rótum; uppræta
 eradication n. uppræting
 eradicative l. upprætandi
 erase s. skafa út; afmá, eyða
 erasement n. afmáning; gjöreyðing
-erasure (irei'zhar) n. útskaf
+erasure n. útskaf
 ere fs. fyrir, á undan; st. áður en; [~long] áður en langt um liður, innan skamms; [~while] ao. fyrir skömmu; áður
 erect l. uppréttur, beinn ([to walk, stand ~]); upplyftur; s. reisa, reisa upp; setja, stofna; smíða, reisa ([~ a building])
 erection n. reisn, reising; stofnun; bygging

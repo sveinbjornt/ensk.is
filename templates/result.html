@@ -1,7 +1,6 @@
 {% extends "container.html" %}
 
 {% block meta %}
-  <meta name="description" content="Niðurstöður fyrir leitina '{{ results[0].w|safe }}'">
 {% endblock %}
 
 {% block script %}
@@ -14,8 +13,6 @@
 
 {% if results|length > 0 %}
 <!--<p><em>{{ results|length }} niðurstöður fyrir <strong>{{ q }}</strong></em>.</p>-->
-
-
 
 {% for r in results %}
 <div class="result grid-container">
@@ -35,8 +32,6 @@
     </p>
 
 
-
-
 </div>
 {% endfor %}
 
@@ -46,8 +41,5 @@
 {% else %}
 <p><em>Engar niðurstöður fundust fyrir <strong>„{{ q }}“</strong></em>.</p>
 {% endif %}
-
-
-
 
 {% endblock %}

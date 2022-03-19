@@ -466,20 +466,20 @@ finery (fænari) n. skart, glingur
 finesse (finess') n. kænskubragð; s. beita kænskubrögðum
 finger (fÍNgar) n. fingur; þumall; [to turn (twist) a person round one's ~] vefja (geta vafið) e-m um fingur sér; s. hafa hendur á, handfjatla; þukla um; hnupla
 fingerpost n. vegvísunarstólpi
-finical (finnikal) l. tilgerðarlegur (í klæðaburði og tali)
+finical l. tilgerðarlegur (í klæðaburði og tali)
 finis n. endir
-finish (finnish) s. enda; fullgera, ljúka við; ganga frá (e-u); hætta ([as he ~ed speaking]); n. fullgerð; múrskán á vegg
-finite (fænæt) l. endanlegur, takmarkaður; s. takmarka
+finish s. enda; fullgera, ljúka við; ganga frá (e-u); hætta ([as he ~ed speaking]); n. fullgerð; múrskán á vegg
+finite l. endanlegur, takmarkaður; s. takmarka
 finiteness n. endanleiki; takmörkun
 Finnic l. finnskur, frá Finnlandi
 Finnish l. finnskur, frá Finnlandi
 finny l. með uggum
-fiord n. fjörður (einkum haft um firði í Noregi)
-fir (för) n. fura ([red ~]); greni ([white ~])
+fiord n. fjörður (sjá einnig [fjord])
+fir n. fura ([red ~]); greni ([white ~])
 fir cone n. greniköngull
 fire (fær) n. eldur; eldsbruni, eldsvoði; bál, logi; skothríð; fjör, ákafi; [to set ~ to, set on ~] kveikja í; [to open ~] byrja að skjóta; [the curtain took ~] það kviknaði í gluggatjaldinu; s. leggja eld í, kveikja í; tendra, hleypa fjöri í; hleypa úr (byssu); skjóta; kvikna í; [~ up] rjúka upp (í reiði)
-fire alarm (-alárm) n. brunakall
-firearms (-ármz) n. ft. skotvopn
+fire alarm n. brunakall, brunabjalla
+firearms n. ft. skotvopn
 fireball n. vígahnöttur
 firebrand n. eldibrandur
 firebrick n. eldtraustur múrsteinn
