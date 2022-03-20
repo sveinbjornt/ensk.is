@@ -20,7 +20,7 @@ backbiter n. rógberi
 backbone n. hryggur
 backdoor n. bakdyr
 backgammon n. kotra
-background n. bakveggur, baksvið
+background n. bakgrunnur, bakveggur, baksvið
 backhanded l. með handarbakinu; óbeinlínis; óvæntur
 backmost l. aftastur
 backpiece n. bakhluti, bakverja
@@ -279,7 +279,7 @@ bear-baiting n. bjarndýraat
 bear s. bera; þola; standast; fæða, ala; ala í brjósti sínu ([~ one a grudge]); [~ oneself] bera sig, hegða sér; [~ in mind] hafa hugfast; [~ away] bera úr bítum, vinna ([~ away the prize]); víkja undan (um skip); [~ back] reka aftur á bak; [~ down] sökkva (skipi); yfirbuga; [~ hard on (upon)] ganga nærri e-m; [~ out] staðfesta; [~ towards] stýra (stefna) á; [~] að halda sér uppi, gefast ekki upp; [~ upon] lúta að e-u, snerta, koma við; [~ with] vorkenna e-m, sýna þolinmæði
 bearable l. bærilegur
 bearer n. burðarmaður, handhafi
-beard n. skegg s. bjóða byrgin
+beard n. skegg s. bjóða byrginn
 bearded l. skeggjaður
 beardless l. skegglaus ([a ~ youth])
 bearing n. líkamsburður, látbragð; lega; afstaða; hlutfall; stefna; útlit; ft. skjaldmerki ([armorial ~s]); [take one's ~s] átta sig

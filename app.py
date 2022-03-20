@@ -170,7 +170,7 @@ async def zoega(request: Request):
 
 
 @app.get("/apidoc")
-async def api(request: Request):
+async def apidoc(request: Request):
     return TemplateResponse(
         "apidoc.html", {"request": request, "title": f"Forritaskil - {WEBSITE_NAME}"}
     )
