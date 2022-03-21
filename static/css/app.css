@@ -73,10 +73,9 @@ input[name="q"] {
 
 input[type="submit"] {
     width: 100%;
-    height: 40px;
+    /*height: 40px;*/
     border: none;
     background-color: rgb(13, 25, 83);
-    /*background: url(../Images/Plane.png) no-repeat right;*/
     color: #fff;
     cursor: pointer;
 }
