@@ -705,19 +705,19 @@ methodical (miþodd'-ikal) l. samkvæmur réttri aðferð, vísindalegur
 methodism n. kenning Meþódista
 Methodist n. Meþódisti
 methodize s. koma fastri reglu á; koma (e-u) haganlega fyrir
-methought (míþöt') s. mér virtist, mér þótti (þátíð af [methinks])
-metonymy (-imi) n. nafnskipti
-metre (mítar) n. bragarháttur; metri (lengdarmál, mælieining)
-metric (met-trik) l. metra- ([~ measure, ~ system])
+methought s. mér virtist, mér þótti (þátíð af [methinks])
+metonymy n. nafnskipti
+metre n. bragarháttur; metri (lengdarmál, mælieining)
+metric l. metra- ([~ measure, ~ system])
 metrical l. sem lýtur að bragar-háttum; bragfræðilegur; sem lýtur að metramáli
 metric n. bragfræði
 metropolis n. höfuðborg, stórborg
-metropolitan (-poll'iton) l. höfuðborgar-; erkibiskupslegur; n. erkibiskup
-mettle (met'l) n. hugrekki; kjarkur; fjör; [put (set) a person upon/to his ~] hleypa fjöri og þroska í e-n
+metropolitan l. höfuðborgar-, stórborgar-; erkibiskupslegur; n. erkibiskup
+mettle n. hugrekki; kjarkur; fjör; [put (set) a person upon/to his ~] hleypa fjöri og þroska í e-n
 mettled (mettald) l. hugaður; fjörugur
 mettlesome l. hugaður; fjörugur
-mew (mjú) n. már, máfur
-mew (mjú) s. fella fjaðrir, vera í sárum (um fugla); byrgja; loka inni; n. sáratíð; hárlos; búr (sem fálkar eru geymdir í, meðan þeir eru í sárum); byrgi
+mew n. már, máfur
+mew s. fella fjaðrir, vera í sárum (um fugla); byrgja; loka inni; n. sáratíð; hárlos; búr (sem fálkar eru geymdir í, meðan þeir eru í sárum); byrgi
 mew s. mjálma; garga ([seabirds ~]); n. mjálm
 mewl s. hljóða, skæla (um börn); mjálma; n. skæl
 mews n. hesthúsastöðvar
@@ -804,8 +804,8 @@ millepede n. þúsundfætla
 miller n. malari; [~'s thumb] marhnútstegund
 millesimal l. þúsundasti; skiptur í þúsund parta; n. þúsundasti partur
 millet n. hirsikorn, hirsi
-milllard (iniljard) n. þúsund milljónir, milljarður
-milliary (milliari) l. mílu-; mílna-; n. mílusteinn (hjá Rómverjum)
+milllard n. þúsund milljónir, milljarður
+milliary l. mílu-; mílna-; n. mílusteinn (hjá Rómverjum)
 milliner n. kvenhattasali
 millinery n. munir, sem kvenhattasalar búa til eða selja
 million (miljan) n. milljón; ótal

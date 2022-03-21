@@ -1401,7 +1401,7 @@ doctrinaire (-ér') l. kreddufastur; n. kreddumaður
 doctrinal l. kenningarlegur; kreddulegur, kreddu-
 doctrine (dok-trin) n. kenning, lærdómssetning
 document (dokkjúmont) n. skírteini, sönnunarskjal; málskjal; s. útbúa með sönnunarskjölum; sanna (með skjölum)
-documentary l. skjallegur ([~ evidence, authorities])
+documentary l. skjallegur ([~ evidence, authorities]); n. heimildamynd
 documentation n. (skjalleg) röksemdafærsla
 dodder s. riða, skjálfa
 doddered l. visinn í toppinn, greinalaus ([a ~ oak])
