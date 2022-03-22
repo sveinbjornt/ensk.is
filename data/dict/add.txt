@@ -16,7 +16,7 @@ verisimilitude n. sannlíki
 dinosaur n. risaeðla
 neurodegeneration n. taugahrörnun
 neurodegenerative l. taugahrörnunar-; [~ disorder] taugahrörnunarsjúkdómur
-robot n. vélmenni, vélþræll, þjarki
+robot n. vélmenni, vélþræll, þjarkur
 bathroom n. baðherbergi
 calcium n. kalk
 biotechnology n. líftækni
@@ -230,9 +230,10 @@ nuclear submarine n. kjarnorkukafbátur
 nuclear reactor n. kjarnaofn
 nuclear plant n. kjarnorkuver
 nuclear fission n. kjarnaklofnun
+nuclear fusion n. kjarnasamruni
 starship n. geimskip (stjörnuskip)
 modem n. mótald (búnaður sem mótar og afmótar merki)
-radar n. radar
+radar n. ratsjá, radar
 sociobiology n. félagslíffræði
 samurai n. samúræi (japanskir stríðsmenn miðalda)
 Anzac n. ástralskur eða nýsjálenskur hermaður (í fyrri heimsstyrjöld)
@@ -241,3 +242,184 @@ teenager n. táningur
 teenage l. tánings-; á táningsaldri
 stadium n. leikvangur, völlur
 startup n. [~ company, firm] sprotafyrirtæki
+wobbly l. valtur
+workflow n. verkferli, verkskipulag, verkflæði
+workforce n. vinnuafl, starfslið; vinnumarkaður
+widespread l. víðtækur; útbreiddur
+watt n. vatt (mælieining)
+megawatt n. megavatt (milljón vött)
+gigawatt n. gígavatt (milljarður vatta)
+kilowatt n. kílóvatt (þúsund vött)
+workstation n. vinnustöð
+cougar n. fjallaljón; kynferðislega virk eldri kona (óforml.)
+calisthenics n. ft. leikfimiæfingar
+cache n. leynilegur geymslustaður; skyndiminni (í tölvu)
+automation n. sjálfvirkni; sjálfvirknivæðing
+automaton n. vélmenni; sjálfvirk vél, þjarkur
+automate s. sjálfvirknivæða
+bot n. (stytting á [robot]) vélmenni, þjarkur
+surveillance n. eftirlit
+tweezers n. ft. flísatöng, plokkari
+tweeze s. snyrta með flísatöng
+aerodrome n. flugvöllur, flugstöð
+airport n. flugvöllur, flugstöð
+accelerator n. hraðall; bensíngjöf (á bifreið eða farartæki)
+mobile device n. fartæki
+airliner n. farþegaflugvél
+dashboard n. mælaborð
+fuselage n. bolur eða skrokkur á flugvél
+anchorman n. fréttaþulur
+anchorwoman n. fréttaþulur (kvk.)
+news anchor n. fréttaþulur
+paleolithic l. steinaldar-
+neolithic l. nýsteinaldar-
+superstate n. stórveldi; ríki myndað úr mörgum smærri ríkjum
+stalinist n. stalínisti (fylgismaður stjórnaraðferða Jósefs Stalín); l. stalínskur
+leninist n. lenínisti (fylgismaður hugmyndafræði Vladimírs Lenín); l. lenínískur
+conglomeration n. samsteypa
+conglomerate n. samsteypa; s. steypa saman; l. samsteyptur, samsettur
+cinema n. kvikmyndahús, bíó; kvikmyndabransinn
+entertainment industry n. skemmtanabransinn, afþreyingarbransinn
+calculus n. stærðfræðigreining, diffur- og tegurreikningur, reiknivísi, örsmæðareikningur; tannsteinn
+recession n. kreppa; samdráttur
+respectability n. virðugleiki; velsæmi
+shakedown n. fjárkúgun
+stereotype n. staðalímynd, staðalmynd
+sleazy l. subbulegur, ógeðfelldur
+vibrator n. titrari
+witchcraft n. nornafár, fjölkynngi, galdrar
+smug l. sjálfumglaður, sjálfsánægður
+sociological l. samfélagslegur, félagslegur, félagsvísindalegur
+societal l. samfélagslegur, félagslegur, þjóðfélagslegur
+sophisticated l. fágaður; háþróaður; margbrotinn
+spectacular l. stórbrotinn, tilkomumikill
+sprite n. (svart)álfur, púki; mynd (í tölvugrafík)
+zombify s. breyta í uppvakning (sjá [zombie])
+dissident n. andófsmaður
+dyke n. varnargarður; niðrandi orð yfir lesbíu
+gaoler n. fangavörður
+haphazard n. tilviljunarkenndur, óskipulegur
+trooper n. (óbreyttur) hermaður, dáti
+interface n. viðmót; tenging; snertipunktur tveggja fyrirbæra
+bromance n. náið vinasamband tveggja karlmanna (samsett úr [brother] og [romance])
+selfie n. sjálfsmynd, ljósmynd sem e-r tekur af sjálfum sér
+paywall n. greiðslugátt
+crowdsource s. lýðvirkja
+blockchain n. bálkakeðja
+roleplay n. hlutverkaleikur, spuni, spunaspil
+teflon n. teflon (gerviefni)
+hovercraft n. svifnökkvi
+transistor n. smári (hálfleiðaratæki sem er grunneining í rökrásum tölva)
+pacemaker n. gangráður, hjartagangráður
+polio n. mænusótt
+escalator n. rúllustigi
+wyvern n. dreki, ormur, naðra
+laser n. leysir, leysigeisli
+valium n. valíum (kvíðastillandi lyf)
+vinyl n. vínill; vínilplata, hljómplata úr vínil
+kevlar n. kevlar (sterkt trefjaefni notað í skotheldum vestum); skothelt vesti
+cell phone n. farsími, GSM-sími, gemsi
+CD n. geisladiskur (stytting á [compact disc])
+sonar n. hljómsjá, ómsjá, sónar
+camcorder n. lítil kvikmyndatökuvél (samsett úr [camera] og [recorder])
+anarcho-capitalism n. anarkó-kapítalismi (sú stjórnmálastefna að afnema ríkið og færa allar þjónustur í hendur einkaaðila)
+anarcho-capitalist n. anarkó-kapítalisti (fylgismaður anarkó-kapítalisma, sjá [anarcho-capitalism])
+biodome n. lífhvelfing (lokað vistkerfi í hvelfingu)
+paedophile n. barnaníðingur; einstaklingur sem haldinn er barnagirnd
+cyberspace n. netheimar
+mockumentary n. grínmynd í sniði heimildarmyndar
+emoticon n. lyndistákn
+hyperlink n. tengill (á veraldarvefnum)
+smiley l. glaðlyndur; brosandi; n. broskarl (tákn)
+spam n. ruslpóstur; unnin kjötvara í niðursuðudósum; s. senda ruslpóst
+spammer n. sendandi ruslpósts
+nerd n. nörd, njörður, sérvitringur, lúði
+crossword n. krossgáta
+diesel n. dísill, dísilolía
+internship n. starfsnám, starfsþjálfun
+Islam n. íslam (eingyðistrú sem átti upptök sín á Arabíuskaga)
+Islamic l. íslamskur (sjá [Islam])
+passphrase n. aðgangsorð, lykilorð
+marijuana n. maríjúana (kannabislyf)
+metadata n. lýsigögn (gögn sem lýsa öðrum gögnum)
+muslim n. múslími (sá sem aðhyllist íslamska trú); l. múslímskur
+nutritional l. næringar-
+outsource s. útvista
+outsourcing n. útvistun
+paperback n. pappírskilja
+pixel n. díll, punktur, myndeining (í stafrænni mynd)
+playboy n. glaumgosi
+playlist n. spilunarlisti; lagalisti
+plaza n. torg
+processor n. örgjörvi
+word processor n. ritvinnsluforrit
+semiconductor n. hálfleiðari (í rafmagnsverkfræði)
+latency n. biðtími (eftir gögnum)
+euphoria n. sæluvíma, alsæla
+euphoric l. alsæll, í sæluvímu
+restructuring n. endurskipulagning
+restructure s. endurskipuleggja
+tugboat n. dráttarbátur
+volt n. volt (mælieining)
+Celt n. Kelti
+xenolith n. xenólít (grjóttegund)
+decanter n. karafla
+genetics n. ft. erfðafræði
+genetic l. erfðafræðilegur, erfðafræði-; sem lýtur að tilurð e-s
+genetic engineering n. erfðatækni
+crowdfund s. lýðfjármagna
+crowdfunding n. lýðfjármögnun
+crowdfunded l. lýðfjármagnað
+circuit n. hringrás; rafrás, rafstraumsrás
+polypropylene n. fjölprópýlen, pólýprópýlen
+audio cassette n. (hljóð)snælda, kassetta
+hard disk n. harður diskur (í tölvum)
+hard drive n. harður diskur (í tölvum)
+walkman n. vasadiskó (lítið tæki sem spilar hljóðsnældur)
+libertarianism n. frjálshyggja (stjórnmálastefna sem segir að setja beri ríkisvaldi þröng takmörk)
+libertarian l. frjálshyggju-; n. frjálshyggjumaður
+module n. (sjálfstæð) eining í kerfi
+modular l. samansett úr (sjálfstæðum) einingum
+oil tanker n. olíuskip, olíuflutningaskip
+tanker n. skip sem flytur mikið magn af vökva (t.d. olíu)
+neoconservative n. nýíhaldsmaður; l. nýíhalds-, nýíhaldssamur
+rollerblades n. ft. línuskautar
+plexiglass n. plexígler
+thermophile n. hitakær lífvera
+thermophilic l. hitakær (notað um lífverur sem dafna við háan hita)
+consultancy n. ráðgjöf
+demographic l. lýðfræðilegur
+demography n. lýðfræði
+demographics n. ft. lýðfræðiupplýsingar
+downtown n. miðbær, miðborg; l. & ao. miðbæjar- ([I visited downtown San Francisco])
+evaluation n. mat ([a comprehensive evaluation of his performance])
+evaluate s. meta
+firmware n. fastbúnaður (í tölvum)
+gangbang n. hópkynlíf
+informative l. upplýsandi, fróðlegur, lærdómsríkur, fræðandi
+insulin n. insúlín, eyjavaki (hormón sem myndast í briskirtli)
+keyword n. lykilorð; leitarorð
+literacy n. læsi, lestrarkunnátta
+mailman n. bréfberi, póstmaður
+makeup n. (andlits)förðun, (andlits)farði, meik
+marina n. smábátahöfn
+nudist n. striplingur
+pipeline n. leiðsla, leiðslukerfi
+radio n. útvarp, útvarpstæki; s. útvarpa ([he radioed for help])
+realtor n. fasteignasali, fasteignamiðlari
+riverside n. árbakki; l. við árbakka, árbakka-
+renewable l. endurnýjanlegur; n. endurnýjanlegur hlutur
+renewables n. ft. endurnýjanleg orka
+prostate n. blöðruhálskirtill
+primarily ao. aðallega; fyrst og fremst; einkum
+playback n. spilun, afspilun
+plasma n. rafgas; blóðvökvi
+parameter n. færibreyta
+hardcover l. harðspjalda; n. harðspjalda bók
+genome n. erfðamengi, genamengi
+forbidden l. bannaður, forboðinn
+forgotten l. gleymdur
+freelance l. sjálfstætt starfandi ([freelance journalist])
+freelancer n. e-r sem er sjálfstætt starfandi
+newswire n. fréttastöð
+neurochemical l. taugaefnafræðilegur
