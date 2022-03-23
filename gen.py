@@ -51,6 +51,10 @@ EntryList = List[EntryType]
 ENWORD_TO_IPA = read_ipa("data/ipa/en_UK.txt")
 
 
+def ipa4entry(s: str) -> str:
+    pass
+
+
 def read_all_entries() -> EntryList:
     r = read_pages()
     entries = []
@@ -59,6 +63,18 @@ def read_all_entries() -> EntryList:
         w = wd[0]
         definition = wd[1]
         ipa = ENWORD_TO_IPA.get(w)
+        if not ipa and " " in w:
+            
+            wipa = w.split()
+            ipa4words = []
+            for wp in wipa:
+                lookup = ENWORD_TO_IPA.get(wp)
+                if not lookup:
+                    break
+                else:
+                    ipa4words.append(lookup)
+            if len(ipa4words) == len(wipa):
+                ipa = " ".join(ipa4words)
 
         pn = page_for_word(w)
         entries.append(tuple([w, definition, ipa, pn]))

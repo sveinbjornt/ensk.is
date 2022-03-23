@@ -33,9 +33,11 @@
 
 """
 
+from typing import Optional
 
 import os
 import subprocess
+from os.path import exists
 
 from util import read_all_words
 
@@ -43,10 +45,12 @@ from util import read_all_words
 _SPEECHSYNTH_CLT = "/usr/bin/say"  # Requires macOS
 
 
-def synthesize_word(w: str, dest_folder=None) -> str:
+def synthesize_word(w: str, dest_folder=None) -> Optional[str]:
     """Generate a speech-synthesised AIFF audio file from word.
     Returns path to output file."""
     assert dest_folder is not None
+    if exists(f"{dest_folder}/{w}.mp3".replace(" ", "_")):
+        return None
     args = [_SPEECHSYNTH_CLT]
     args.append("-r")
     args.append("89")
@@ -79,8 +83,9 @@ def synthesize_all() -> None:
     words = read_all_words()
     for w in words:
         aiff_path = synthesize_word(w, dest_folder=_OUT_FOLDER)
-        mp3_path = aiff2mp3(aiff_path)
-        os.remove(aiff_path)
+        if aiff_path:
+            mp3_path = aiff2mp3(aiff_path)
+            os.remove(aiff_path)
 
 
 if __name__ == "__main__":

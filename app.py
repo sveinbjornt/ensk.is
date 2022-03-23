@@ -60,11 +60,12 @@ TemplateResponse = templates.TemplateResponse
 # Initialize database singleton
 e = EnskDatabase()
 
-
+# Read all entries into memory
 res = e.read_all_entries()
 
 
 def _err(msg: str) -> JSONResponse:
+    """ Return JSON error message. """
     return JSONResponse(content={"err": True, "errmsg": msg})
 
 
@@ -105,6 +106,7 @@ def _results(q: str, exact_match: bool = False) -> List:
 
 @app.get("/")
 async def index(request: Request):
+    """ / main page """
     return TemplateResponse(
         "index.html",
         {
@@ -116,7 +118,7 @@ async def index(request: Request):
 
 @app.get("/search")
 async def search(request: Request, q: str):
-
+    """ Return page with search results for query. """
     results = _results(q)
 
     return TemplateResponse(
@@ -132,7 +134,7 @@ async def search(request: Request, q: str):
 
 @app.get("/item/{w}")
 async def item(request: Request, w):
-
+    """ Return page for a single dictionary word definition. """
     results = _results(w, exact_match=True)
 
     return TemplateResponse(
@@ -149,6 +151,7 @@ async def item(request: Request, w):
 
 @app.get("/files")
 async def files(request: Request):
+    """ Page containing download links to data files. """
     return TemplateResponse(
         "files.html", {"request": request, "title": f"Gögn - {WEBSITE_NAME}"}
     )
@@ -156,6 +159,7 @@ async def files(request: Request):
 
 @app.get("/about")
 async def about(request: Request):
+    """ About page. """
     return TemplateResponse(
         "about.html", {"request": request, "title": f"Um - {WEBSITE_NAME}"}
     )
@@ -163,6 +167,7 @@ async def about(request: Request):
 
 @app.get("/zoega")
 async def zoega(request: Request):
+    """ Page with details about the Zoega dictionary. """
     return TemplateResponse(
         "zoega.html",
         {"request": request, "title": f"Orðabók Geirs T. Zoëga - {WEBSITE_NAME}"},
@@ -171,6 +176,7 @@ async def zoega(request: Request):
 
 @app.get("/apidoc")
 async def apidoc(request: Request):
+    """ Page with API documentation. """
     return TemplateResponse(
         "apidoc.html", {"request": request, "title": f"Forritaskil - {WEBSITE_NAME}"}
     )
@@ -178,6 +184,7 @@ async def apidoc(request: Request):
 
 @app.get("/api/suggest/{q}")
 async def api_suggest(request: Request, q, limit: int = 10) -> JSONResponse:
+    """ Return autosuggestion results for partial string in input field. """
     results = _results(q)
     words = [x["w"] for x in results][:limit]
     return JSONResponse(content=words)
@@ -185,10 +192,12 @@ async def api_suggest(request: Request, q, limit: int = 10) -> JSONResponse:
 
 @app.get("/api/search/{q}")
 async def api_search(request: Request, q) -> JSONResponse:
+    """ Return search results in JSON format. """
     results = _results(q)
     return JSONResponse(content={"results": results})
 
 
 @app.get("/sitemap.xml")
 async def sitemap(request: Request) -> Response:
+    """ Sitemap generated on-demand. """
     return Response(content="", media_type="application/xml")

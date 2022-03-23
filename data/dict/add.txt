@@ -77,11 +77,11 @@ lemur n. lemúr (dýr af prímataættum á eyjunni Madagaskar)
 baseball n. hafnabolti (bandarísk íþrótt)
 jet n. þota (þrýstiloftsflugvél)
 automobile n. bifreið
-kleptocracy n. þjófræði (stjórnarfyrirkomulag þar sem æðstu ráðamenn stunda þjófnað)
+kleptocracy n. þjófræði (stjórnarfyrirkomulag þar sem æðstu ráðamenn stela frá almenningi)
 website n. vefsíða, vefsetur
 screenshot n. skjáskot
 neoliberalism n. nýfrjálshyggja
-neoliberal l. nýfrjálshyggju-; n. sá sem aðhyllist nýfrjálshyggjustefnu
+neoliberal l. nýfrjálshyggju-; n. nýfrjálshyggjumaður
 creativity n. sköpun, sköpunargáfa
 ecology n. vistfræði
 ecological l. vistfræðilegur, vistfræði-; [we are facing ecological collapse!]
@@ -241,7 +241,7 @@ zoophilia n. dýragirnd
 teenager n. táningur
 teenage l. tánings-; á táningsaldri
 stadium n. leikvangur, völlur
-startup n. [~ company, firm] sprotafyrirtæki
+startup n. [~ (company, firm)] sprotafyrirtæki
 wobbly l. valtur
 workflow n. verkferli, verkskipulag, verkflæði
 workforce n. vinnuafl, starfslið; vinnumarkaður
@@ -275,13 +275,13 @@ paleolithic l. steinaldar-
 neolithic l. nýsteinaldar-
 superstate n. stórveldi; ríki myndað úr mörgum smærri ríkjum
 stalinist n. stalínisti (fylgismaður stjórnaraðferða Jósefs Stalín); l. stalínskur
-leninist n. lenínisti (fylgismaður hugmyndafræði Vladimírs Lenín); l. lenínískur
+leninist n. lenínisti (fylgismaður hugmyndafræði Vladimírs Lenín); l. lenínskur
 conglomeration n. samsteypa
-conglomerate n. samsteypa; s. steypa saman; l. samsteyptur, samsettur
+conglomerate n. samsteypa; s. steypa saman; l. [conglomerated] samsteyptur, samsettur
 cinema n. kvikmyndahús, bíó; kvikmyndabransinn
 entertainment industry n. skemmtanabransinn, afþreyingarbransinn
 calculus n. stærðfræðigreining, diffur- og tegurreikningur, reiknivísi, örsmæðareikningur; tannsteinn
-recession n. kreppa; samdráttur
+recession n. kreppa; samdráttur, afturdráttur (sjá [recede])
 respectability n. virðugleiki; velsæmi
 shakedown n. fjárkúgun
 stereotype n. staðalímynd, staðalmynd
@@ -325,7 +325,7 @@ camcorder n. lítil kvikmyndatökuvél (samsett úr [camera] og [recorder])
 anarcho-capitalism n. anarkó-kapítalismi (sú stjórnmálastefna að afnema ríkið og færa allar þjónustur í hendur einkaaðila)
 anarcho-capitalist n. anarkó-kapítalisti (fylgismaður anarkó-kapítalisma, sjá [anarcho-capitalism])
 biodome n. lífhvelfing (lokað vistkerfi í hvelfingu)
-paedophile n. barnaníðingur; einstaklingur sem haldinn er barnagirnd
+paedophile n. barnaníðingur; e-r sem haldinn er barnagirnd
 cyberspace n. netheimar
 mockumentary n. grínmynd í sniði heimildarmyndar
 emoticon n. lyndistákn
@@ -337,9 +337,9 @@ nerd n. nörd, njörður, sérvitringur, lúði
 crossword n. krossgáta
 diesel n. dísill, dísilolía
 internship n. starfsnám, starfsþjálfun
-Islam n. íslam (eingyðistrú sem átti upptök sín á Arabíuskaga)
+Islam n. íslam (eingyðistrú sem á upptök sín á Arabíuskaga)
 Islamic l. íslamskur (sjá [Islam])
-passphrase n. aðgangsorð, lykilorð
+passphrase n. aðgangsorð, lykilorð, aðgangsfrasi
 marijuana n. maríjúana (kannabislyf)
 metadata n. lýsigögn (gögn sem lýsa öðrum gögnum)
 muslim n. múslími (sá sem aðhyllist íslamska trú); l. múslímskur
@@ -354,9 +354,9 @@ plaza n. torg
 processor n. örgjörvi
 word processor n. ritvinnsluforrit
 semiconductor n. hálfleiðari (í rafmagnsverkfræði)
-latency n. biðtími (eftir gögnum)
+latency n. biðtími (í samskiptum yfir net)
 euphoria n. sæluvíma, alsæla
-euphoric l. alsæll, í sæluvímu
+euphoric l. í sæluvímu, alsæll
 restructuring n. endurskipulagning
 restructure s. endurskipuleggja
 tugboat n. dráttarbátur
@@ -391,7 +391,7 @@ consultancy n. ráðgjöf
 demographic l. lýðfræðilegur
 demography n. lýðfræði
 demographics n. ft. lýðfræðiupplýsingar
-downtown n. miðbær, miðborg; l. & ao. miðbæjar- ([I visited downtown San Francisco])
+downtown n. miðbær, miðborg; l. & ao. miðbæjar- ([I visited downtown San Francisco, it was a place downtown])
 evaluation n. mat ([a comprehensive evaluation of his performance])
 evaluate s. meta
 firmware n. fastbúnaður (í tölvum)
@@ -409,7 +409,7 @@ radio n. útvarp, útvarpstæki; s. útvarpa ([he radioed for help])
 realtor n. fasteignasali, fasteignamiðlari
 riverside n. árbakki; l. við árbakka, árbakka-
 renewable l. endurnýjanlegur; n. endurnýjanlegur hlutur
-renewables n. ft. endurnýjanleg orka
+renewables n. ft. endurnýjanlegar orkulindir
 prostate n. blöðruhálskirtill
 primarily ao. aðallega; fyrst og fremst; einkum
 playback n. spilun, afspilun
@@ -423,3 +423,8 @@ freelance l. sjálfstætt starfandi ([freelance journalist])
 freelancer n. e-r sem er sjálfstætt starfandi
 newswire n. fréttastöð
 neurochemical l. taugaefnafræðilegur
+incommensurable l. ósammælanlegur
+vector n. vigur, vektor
+cannabis n. kannabis (plöntutegund, vímugjafi)
+revenant n. afturganga, uppvakningur (bókst. e-r sem snýr aftur)
+bullshit n. kjaftæði; s. halda fram kjaftæði eða þvælu; blekkja; ljúga

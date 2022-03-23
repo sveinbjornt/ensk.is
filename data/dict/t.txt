@@ -1012,7 +1012,7 @@ transform s. ummynda; breyta
 transformable l. sem má breyta
 transformation n. ummyndun
 transfuse s. hella (tappa) úr einu íláti í annað; blása í brjóst; vekja, glæða; [~d with light] ljósþrunginn
-transfusfusion n. töppun (úr einu íláti í annað); flutningur í annað
+transfusion n. töppun (úr einu íláti í annað); flutningur í annað
 transgress s. brjóta; syndga, misgera
 transgression n. afbrot
 transgressor n. misgerðamaður, syndari
