@@ -35,7 +35,7 @@
 
 """
 
-from typing import List, Tuple
+from typing import List, Tuple, Optional
 
 import os
 import csv
@@ -51,8 +51,22 @@ EntryList = List[EntryType]
 ENWORD_TO_IPA = read_ipa("data/ipa/en_UK.txt")
 
 
-def ipa4entry(s: str) -> str:
-    pass
+def ipa4entry(s: str) -> Optional[str]:
+    ipa = ENWORD_TO_IPA.get(s)
+    if not ipa and " " in s:
+        wipa = s.split()
+        ipa4words = []
+        for wp in wipa:
+            lookup = ENWORD_TO_IPA.get(wp)
+            if not lookup:
+                break
+            else:
+                lookup = lookup.lstrip("/").rstrip("/")
+                ipa4words.append(lookup)
+        if len(ipa4words) == len(wipa):
+            ipa = " ".join(ipa4words)
+            ipa = f"/{ipa}/"
+    return ipa
 
 
 def read_all_entries() -> EntryList:
@@ -62,20 +76,7 @@ def read_all_entries() -> EntryList:
         wd = parse_line(line)
         w = wd[0]
         definition = wd[1]
-        ipa = ENWORD_TO_IPA.get(w)
-        if not ipa and " " in w:
-            
-            wipa = w.split()
-            ipa4words = []
-            for wp in wipa:
-                lookup = ENWORD_TO_IPA.get(wp)
-                if not lookup:
-                    break
-                else:
-                    ipa4words.append(lookup)
-            if len(ipa4words) == len(wipa):
-                ipa = " ".join(ipa4words)
-
+        ipa = ipa4entry(w) or ""
         pn = page_for_word(w)
         entries.append(tuple([w, definition, ipa, pn]))
     return entries

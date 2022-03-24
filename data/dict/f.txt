@@ -7,7 +7,7 @@ fabricator (-eitor) n. smiður; höfundur
 fabulist (fabbjúlist) n. dæmisagnahöfundur
 fabulous (fább-júlos) l. skröksögulegur ([~ monsters]); lygilegur, ósennilegur, ótrúlegur
 facade (fosád') n. framhlið
-face (feis) n. andlit; framhlið; yfirborð; flötur; svipur, útlit; augsýn; skífa (á úri eða klukku); ósvífni; [look a person in the ~] horfa framan í e-n; [set one's ~ against] sporna við; [make ~-s] gretta sig; s. standa í móti; bjóða byrgin; þekja (prýða) að framan; brydda; vita, snúa út að ([~ on, to, eastwards]); [~ about] snúa sér við
+face (feis) n. andlit; framhlið; yfirborð; flötur; svipur, útlit; augsýn; skífa (á úri eða klukku); ósvífni; [look a person in the ~] horfa framan í e-n; [set one's ~ against] sporna við; [make ~s] gretta sig; s. standa í móti; bjóða byrgin; þekja (prýða) að framan; brydda; vita, snúa út að ([~ on, to, eastwards]); [~ about] snúa sér við
 facer (feisor) n. snoppungur
 facet (fássit) n. fægiflötur (á gimsteini eða gleri); s. sniðslípa
 facetious (fosí'shos) l. fyndinn, gamansamur; hnyttilegur
@@ -38,7 +38,7 @@ fag-end n. úrgangur; endi; útkjálki
 fagging (fággiN) n. strit, erfiði ([hard ~])
 faggot n. lim (sem eldsneyti), hrísbaggi; s. binda (hrís) í bagga ([~ up])
 fagot n. lim (sem eldsneyti), hrísbaggi; s. binda (hrís) í bagga ([~ up])
-fail (feil) s. bregðast; bila; vanta, skorta; þrjóta; mistakast ([~ in something, ~ to do something]); þverra, verða gjaldþrota; [his heart ~-ed him] hann missti huginn, lét hugfallast; n. [without ~] vissulega, áreiðanlega, efalaust
+fail (feil) s. bregðast; bila; vanta, skorta; þrjóta; mistakast ([~ in something, ~ to do something]); þverra, verða gjaldþrota; [his heart ~ed him] hann missti huginn, lét hugfallast; n. [without ~] vissulega, áreiðanlega, efalaust
 failing n. breyskleiki; galli
 failure (-jar) n. misbrestur, misheppnan, þurrður, skortur; gjaldþrot; [turn out a ~] reynast óhæfur, mislukkaður; mistakast
 fain (fein) l. feginn, glaður; ao. fúslega, gjarnan ([I would ~])
@@ -66,7 +66,7 @@ falchion (fölshan) n. stutt sverð
 falcon n. fálki, valur
 falconer n. fálkaveiðimaður
 falconry (fökanri) n. fuglaveiðar með fálkum
-fall (föl) s. falla, detta; falla út, fjara; lækka, minnka; lægja (um veður); verða; [~ lame (silent, ill)] heltast (þagna, sýkjast); [~ vacant] losna (um embætti); [~ asleep] sofna; [~ short of] ná ekki; standa á baki (e-m), jafnast ekki við; [~ back] víkja undan; [~ behind] dragast aftur úr; [~ foul of] ráðast á; [~ in with] koma heim við; mæta; aðhyllast; [~ in love with] leggja ástarhug á; [~ off] falla frá; minnka, dofna ([the interest ~-s off]); hnigna; [~ off in flesh] megrast, [~ on] byrja; gera áhlaup; [~ out] dragast aftur úr; verða; óvingast; [~ short of one's duty] vanrækja skyldu sína; [~ to] byrja á; fara í handalögmál; [~ under] heyra undir; n. fall, bylta; hrun; halli; lækkun (verðs [~ in the prices]); foss; haust
+fall (föl) s. falla, detta; falla út, fjara; lækka, minnka; lægja (um veður); verða; [~ lame (silent, ill)] heltast (þagna, sýkjast); [~ vacant] losna (um embætti); [~ asleep] sofna; [~ short of] ná ekki; standa á baki (e-m), jafnast ekki við; [~ back] víkja undan; [~ behind] dragast aftur úr; [~ foul of] ráðast á; [~ in with] koma heim við; mæta; aðhyllast; [~ in love with] leggja ástarhug á; [~ off] falla frá; minnka, dofna ([the interest ~s off]); hnigna; [~ off in flesh] megrast, [~ on] byrja; gera áhlaup; [~ out] dragast aftur úr; verða; óvingast; [~ short of one's duty] vanrækja skyldu sína; [~ to] byrja á; fara í handalögmál; [~ under] heyra undir; n. fall, bylta; hrun; halli; lækkun (verðs [~ in the prices]); foss; haust
 fallacious (felei'shas) l. villandi; táldrægur
 fallacy (fallasi) n. villa; skekkja; skökk ályktun
 fallibility (fallibill'iti) n. skeikanleiki
@@ -84,7 +84,7 @@ falsify s. falsa, svíkja; lýsa ósatt
 falsity n. ósannindi; rangleiki
 falter (föltar) s. hrasa; stama; hika; vera á báðum áttum; riða; titra; [her voice began to ~] hún fór að verða skjálfrödduð
 faltering l. óstyrkur, valtur, riðandi
-fame (feim) n. orðstír, frægð; orðrómur; s. segja um e-n; [not so beautiful as she was ~-d] eins og af var látið, orð var á gert
+fame (feim) n. orðstír, frægð; orðrómur; s. segja um e-n; [not so beautiful as she was ~d] eins og af var látið, orð var á gert
 famed l. frægur
 familiar (famil'jar) l. heimiliskunnugur (e-u [with]); kunninglegur; algengur; [to make ~ with] gera sér dælt við; n. kunningi; illvættur
 familiarity n. vinfengi, kunningsskapur, kumpánskapur
@@ -170,7 +170,7 @@ fatherless l. föðurlaus
 fatherlike l. föðurlegur
 fatherly l. föðurlegur
 fathership n. faðerni
-fathom n. faðmur (djúpmál, [ten ~-s deep]); s. ná utan um með faðminum, faðma ([~ a tree]); mæla (kanna) dýpið; skilja (til hlítar)
+fathom n. faðmur (djúpmál, [ten ~s deep]); s. ná utan um með faðminum, faðma ([~ a tree]); mæla (kanna) dýpið; skilja (til hlítar)
 fathomable l. mælanlegur; skiljanlegur
 fathomless l. botnlaus; ómælanlegur; óskiljanlegur
 fatigue n. þreyta; erfiði; áreynsla ([~ of mind]); s. þreyta
@@ -188,7 +188,7 @@ faun (fön) n. skógarguð
 fauna (föne) n. dýraríki e-s lands
 fautor (fötar) n. styrktarmaður
 favor n. sjá [favour]
-favour (feivar) n. hylli; góðvild; greiði; hagnaður; [to be in ~ of] vera meðmæltur e-u; [in high ~ with, high in ~ of] í miklum kærleikum við; ([we are in receipt of) your ~] yðar heiðraða bréf; [with (by) your ~] með yðar leyfi; s. vera meðmæltur, unna; gera auðveldara; styðja, efla, auka ([a water to ~ the growth of the hair]); [~ one with] veita e-m e-ð; [to be ~-ed with] hafa fengið e-ð
+favour (feivar) n. hylli; góðvild; greiði; hagnaður; [to be in ~ of] vera meðmæltur e-u; [in high ~ with, high in ~ of] í miklum kærleikum við; ([we are in receipt of) your ~] yðar heiðraða bréf; [with (by) your ~] með yðar leyfi; s. vera meðmæltur, unna; gera auðveldara; styðja, efla, auka ([a water to ~ the growth of the hair]); [~ one with] veita e-m e-ð; [to be ~ed with] hafa fengið e-ð
 favourable l. vinveittur, hlynntur; hagstæður
 favourably (-ebli) ao. vingjarnlega
 favourite (-it) n. vildarmaður, uppáhald; l. uppáhalds-
@@ -217,7 +217,7 @@ featherbrained l. heimskur
 featherheaded l. heimskur
 featherless l. fjaðralaus, fiðurlaus
 feathery l. fiðraður; fiðurkenndur
-feature (fítjar) n. lögun; andlitsdráttur, svipur; ft. andlitsfall; partur; einkenni; líkjast e-m ([he ~-s his mother])
+feature (fítjar) n. lögun; andlitsdráttur, svipur; ft. andlitsfall; partur; einkenni; líkjast e-m ([he ~s his mother])
 featureless l. sviplaus
 febrifuge (febbrifjúdzh) l. sótteyðandi; n. hitasóttarlyf
 febrile (fíbril) l. sóttar- ([~ heat])
@@ -243,7 +243,7 @@ feebleness n. veikleiki, óstyrkur; þrekleysi
 feebly (fíbli) ao. dauflega, linlega
 feed s. fæða; fóðra, gefa (skepnum); ala; mata (ungbarn); láta bíta upp; vera á beit; lifa (á [on]); n. skepnufóður; fæðsla; beit ([out at ~])
 feeder n. fóðrari; matmaður ([a great ~])
-feel (fil) s. finna; finna til, kenna (e-s); þreifa á; þreifa fyrir sér; þreifa; [I felt as if ...] mér fanst sem ...; [~ sure of] vera viss um; [I ~ cold] mér er kalt; [it ~-s soft] það er mjúkt viðkomu; [~ after] leita að; [~ for] kenna í brjóst um; n. tilfinning; [of a greasy ~] fitugur átöku
+feel (fil) s. finna; finna til, kenna (e-s); þreifa á; þreifa fyrir sér; þreifa; [I felt as if ...] mér fanst sem ...; [~ sure of] vera viss um; [I ~ cold] mér er kalt; [it ~s soft] það er mjúkt viðkomu; [~ after] leita að; [~ for] kenna í brjóst um; n. tilfinning; [of a greasy ~] fitugur átöku
 feeler n. fálmangi
 feeling l. viðkvæmur; næmur; n. tilfinning
 fee-simple n. óháð eignarjörð
@@ -327,7 +327,7 @@ fervidness n. hiti; ákafi
 fervour (förvor) n. hiti; ákafi
 fescue (feskjú) n. teinn, stíll (til að benda á stafi með)
 festal l. hátíðlegur ([~ air, style]); hátíða- ([~ dress]); n. hátíð
-fester s. bólgna; grafa um sig; rotna; eitra; [the wound ~-s] það grefur í sárinu; n. kýli, ígerð
+fester s. bólgna; grafa um sig; rotna; eitra; [the wound ~s] það grefur í sárinu; n. kýli, ígerð
 festival l. hátíðlegur; n. hátíð; hátíðisdagur
 festive l. hátíðlegur; skemmtilegur
 festivity n. hátíðarhald; hátíðarbragur
@@ -354,7 +354,7 @@ feuilleton n. neðanmálsgrein (í blaði)
 fever n. hitasótt; sóttveiki; hiti, ofsi; s. verða sóttveikur
 fevered l. sóttheitur
 feverish l. sóttheitur; sóttveikis- ([~ thirst])
-few l. fáir; [a ~, some ~] fáeinir, nokkrir; [in ~ words] í fáum orðum; [not ~-er than] ekki færri en; [at the ~est] í fæsta lagi
+few l. fáir; [a ~, some ~] fáeinir, nokkrir; [in ~ words] í fáum orðum; [not ~er than] ekki færri en; [at the ~est] í fæsta lagi
 fewness n. fæð
 fez n. tyrknesk húfa
 fiancé n. unnusti
@@ -450,7 +450,7 @@ financial l. fjárhagslegur, fjármála-, fjárhags- ([~ year])
 financially ao. fjárhagslega, í fjárhagslegu tilliti
 financier n. ríkisfjárstjóri; fjármálamaður; s. sjá e-m fyrir tekjum
 finch n. spörfuglstegund
-find s. finna; hitta; útvega ([~ money, bail, security]); kveða upp ([the jury found a verdict of guilty]); finnast, þykja ([I ~ something agreeable, excellent]); [~ one's account in] sjá sér hag við e-ð; [~ time] fá, hafa tíma (til e-s); [~ innocent, guilty] sýkna, dæma sekan; [~ ingress] komast inn; [he was found unqualified] hann reyndist óhæfur; [he pays him a dollar a day and ~-s him] og fæði; [he ~-s me in money and clothes] hann sér mér fyrir peningum og fötum; [I cannot ~ in my heart] ég get ekki fengið af mér; [~ out] komast að (e-u); ráða (gátu); uppgötva; [~ fault with] finna að; n. fundur
+find s. finna; hitta; útvega ([~ money, bail, security]); kveða upp ([the jury found a verdict of guilty]); finnast, þykja ([I ~ something agreeable, excellent]); [~ one's account in] sjá sér hag við e-ð; [~ time] fá, hafa tíma (til e-s); [~ innocent, guilty] sýkna, dæma sekan; [~ ingress] komast inn; [he was found unqualified] hann reyndist óhæfur; [he pays him a dollar a day and ~s him] og fæði; [he ~s me in money and clothes] hann sér mér fyrir peningum og fötum; [I cannot ~ in my heart] ég get ekki fengið af mér; [~ out] komast að (e-u); ráða (gátu); uppgötva; [~ fault with] finna að; n. fundur
 findable l. finnanlegur
 finder n. finnandi
 finding n. fundur, uppgötvun; úrskurður (kviðdóms)
@@ -547,7 +547,7 @@ fist n. hnefi; s. berja (slá) með hnefanum
 fistic l. hnefa- ([~ combat])
 fisticuffs n. hnefaleikur
 fistula n. pípa
-fit l. hæfur, hentugur; vel fallinn (til [for]); s. gera hæfan; laga (eftir e-u to); máta ([~ on a garment]); hæfa, sæma; ganga að ([the key ~-s to the lock]); útbúa ([~ out]); vera mátulegur; fara (um föt); n. [be a bad (an excellent) ~] fara illa (ágætlega)
+fit l. hæfur, hentugur; vel fallinn (til [for]); s. gera hæfan; laga (eftir e-u to); máta ([~ on a garment]); hæfa, sæma; ganga að ([the key ~s to the lock]); útbúa ([~ out]); vera mátulegur; fara (um föt); n. [be a bad (an excellent) ~] fara illa (ágætlega)
 fitness n. hentugleiki, hæfileiki
 fitter n. sá sem útbýr
 fittings n. ft. útbúningur; tengihlutar pípulagna
@@ -561,7 +561,7 @@ fivefold l. fimmfaldur
 fix s. festa; setja; ákveða, tiltaka; koma (e-u) fyrir; setja (bústað); verða fastur; stirðna; storkna; setjast að ([~ oneself, one's residence]); [~ a person with] leggja (t.d. ábyrgð, kostnað) á e-n; [~ one with the eyes] einblína á e-n; [~ on/upon] velja; n. klípa ([to be in a ~, get oneself into a ~])
 fixation n. festing; festa; storknun
 fixative l. sem miðar að því að festa
-fixed l. fastur; tiltekinn; [~-ed star] fastastjarna; [~-ed property] fasteign
+fixed l. fastur; tiltekinn; [~ star] fastastjarna; [~ property] fasteign
 fixedly ao. fast, ákveðið; hvasst ([look ~ at one])
 fixedness n. festa; staðfesta, stöðugleiki
 fixity n. festa ([~ of purpose])
@@ -588,7 +588,7 @@ flagrant (fleigrant) l. brennandi; skelfilegur, hræðilegur ([~ wickedness]); [
 flagship n. flaggskip, aðmírálsskip
 flagstaff n. flaggstöng
 flail (fleil) n. þreskiþúst; s. þreskja (korn) með þústi; lemja, berja
-flake (fleik) n. snjóflyksa; flaga; hnoðri ([~ of cloud]); steinflís; ísspöng ([~ of ice]); fiskþurrkunargrind; [soap ~-s] sápu-spænir; s. flagna ([~ off]); flysja; strá, þekja e-ð e-u ([~-d with gems])
+flake (fleik) n. snjóflyksa; flaga; hnoðri ([~ of cloud]); steinflís; ísspöng ([~ of ice]); fiskþurrkunargrind; [soap ~s] sápuspænir; s. flagna ([~ off]); flysja; strá, þekja e-ð e-u ([~d with gems])
 flaky (fleiki) l. flögóttur; sem líkist hnoðra ([~ cloud])
 flam (á) n. uppspuni, blekking; smjaður; s. blekkja
 flambeau (flámbó) n. kyndill, blys
@@ -599,12 +599,12 @@ flamy (fleimi) l. logandi; lograuður
 flamingo n. flamingófugl
 flange n. hjólrönd; brún
 flank (fláNk) n. hlið (á fylkingu); síða; huppur; s. ráðast á hlið fylkingar; verja hliðina á e-u; strjúkast með hliðinni á e-u (um skot); liggja til hliðar við e-ð
-flannel (flánnol) n. ullardúkur, flónel; [~-s] föt úr flóneli
+flannel (flánnol) n. ullardúkur, flónel; [~s] föt úr flóneli
 flannelette n. bómullardúkur
-flap (flápp) n. laf; speldi, loka; snepill; flipi; vængur (á borði); vængjaslag; smellur; s. skella ([~ the door]); slá, blaka ([~ the wings]); blakta; skellast ([the window ~-s]); hanga niður, lafa
+flap (flápp) n. laf; speldi, loka; snepill; flipi; vængur (á borði); vængjaslag; smellur; s. skella ([~ the door]); slá, blaka ([~ the wings]); blakta; skellast ([the window ~s]); hanga niður, lafa
 flap-eared (-írd) l. með lafandi eyru
 flare (flér) s. flökta (um ljós); flaksast; leiftra, glampa; [~ up] rjúka upp (í reiði); n. flöktandi logi, blossi
-flash (flásh) n. leiftur, glampi; l. íburðarmikill; fínn; montinn; óekta, svikinn; sem lýtur að þjófamáli; s. glampa, leiftra; [~ in the pan] brenna fyrir; mistakast; [her eyes ~-ed fire] eldur brann úr augum hennar
+flash (flásh) n. leiftur, glampi; l. íburðarmikill; fínn; montinn; óekta, svikinn; sem lýtur að þjófamáli; s. glampa, leiftra; [~ in the pan] brenna fyrir; mistakast; [her eyes ~ed fire] eldur brann úr augum hennar
 flash house n. þjófabæli
 flash-ken n. þjófabæli
 flashy l. sem að eins bregður fyrir; glampandi; íburðarmikill (um klæðnað); ásjálegur, glæsilegur; montinn
@@ -633,52 +633,52 @@ flavour (fleivar) n. bragð, keimur; ilmur; s. setja bragð á, krydda
 flaw (flö) n. rifa, sprunga; galli; veila; lýti; vindhviða; [~ of rain] demba; s. brjóta, gera sprungur í; springa, rifna
 flawed l. gallaður
 flawy l. gallaður; með rifum eða sprungum
-flax (fláks) n. hör
+flax n. hör
 flaxen l. gerður úr hör, hör-; ljósgulur (um hár)
 flaxy l. gerður úr hör, hör-; ljósgulur (um hár)
 flaxen-haired l. ljóshærður
-flay (flei) s. flá ([~ one alive])
-flea (flí) n. fló
-fleabite (-bæt) n. flóarbit
+flay s. flá ([~ one alive])
+flea n. fló
+fleabite n. flóarbit
 flea lobster n. marfló
-fleam (flím) n. bíldur; hrossabíldur
+fleam n. bíldur; hrossabíldur
 fleck n. flekkur, blettur
 flecked l. flekkóttur; dröfnóttur
 fledge (fledzh) s. gera fleygan
 fledged l. fleygur
 fledgling n. nýfleygur ungi
-flee (flí) s. flýja ([he fled his country])
-fleece (flís) n. reyfi; gæra; s. rýja, klippa (kindur); féfletta; [a sheep well ~-d] ullarmikil kind
-fleecy (flísi) l. ullarmikill; ullar-
-fleer (flír) s. spotta, gabba ([~ at]); n. spott, gabb, háð
-fleet (flít) n. floti, flotadeild; skipastóll; l. fljótur; s. skunda, þjóta; veiða (rjómann) ofan af, fleyta
+flee s. flýja ([he fled his country])
+fleece n. reyfi; gæra; s. rýja, klippa (kindur); féfletta; [a sheep well ~d] ullarmikil kind
+fleecy l. ullarmikill; ullar-
+fleer s. spotta, gabba ([~ at]); n. spott, gabb, háð
+fleet n. floti, flotadeild; skipastóll; l. fljótur; s. skunda, þjóta; veiða (rjómann) ofan af, fleyta
 fleeting l. hverfull
 fleetness n. flýtir, hraði
-Flemish (flemmish) l. flæmskur
-flench (flensh) s. skera hval
+Flemish l. flæmskur
+flench s. skera hval
 flense s. skera hval
 flesh n. kjöt; hold ([~ and blood]); fiskur ([the ~ of the cod is very nutritious]); [to be in ~] vera í góðum holdum; [to get ~] fitna; [to lose ~] megrast
 flesh-colour n. holdslitur
 fleshless l. magur
 fleshly l. holdlegur
 fleshy l. kjötmikill; holdugur, feitur
-flexibility (fleksibill'iti) n. beygjanleiki; mjúkleiki
-flexible (fleksib'l) l. beygjanlegur; mjúkur ([~ voice]); of auðráður, eftirlátur
-flexion (flekshan) n. beyging; bugða
-flexure (flekshor) n. beyging; bugða
-flexuous (flelcshúos) l. bugðóttur; sveigjanlegur
-flibbertigibbet (-tidzhib'bit) n. skrafskjóða; púki
-flick n. laust högg; rykkur; smellur; s. slá laust (með keyri eða þ.k.); flögra; titra
+flexibility n. beygjanleiki; mjúkleiki
+flexible l. beygjanlegur; mjúkur ([~ voice]); of auðráður, eftirlátur
+flexion n. beyging; bugða
+flexure n. beyging; bugða
+flexuous l. bugðóttur; sveigjanlegur
+flibbertigibbet n. skrafskjóða; púki
+flick n. laust högg; rykkur; smellur; kvikmynd (óforml.) s. slá laust (með keyri eða þ.k.); flögra; titra
 flicker s. baða vængjum; flögra; flökta, blakta; n. flökt, blakt
-flier (flæor) n. sveifluhjól; flóttamaður (sjá [flyer])
-flight (flæt) n. flótti; flug; fuglahópur (á flugi); [a ~ of stairs] stigi; [to put to ~] reka á flótta; [take a ~] fljúga upp; [to take ~] leggja á flótta
+flier n. sveifluhjól; flóttamaður (sjá [flyer])
+flight n. flótti; flug; fuglahópur (á flugi); [a ~ of stairs] stigi; [to put to ~] reka á flótta; [take a ~] fljúga upp; [to take ~] leggja á flótta
 flightiness n. hviklyndi, hringlandi
 flighty l. hviklyndur, hringlandalegur
 flim-flam (a) n. hégómatal; bragð, prettur, gabb
 flimsiness n. óveruleiki, veikleiki
 flimsy l. lítilfjörlegur, fánýtur; auðvirðilegur; ótraustur
 flinch s. víkja, hörfa undan ([from]); kveinka sér
-fling (flÍN) s. fleygja, kasta, þeyta, henda; fella; slá; sneiða, skensa; hendast, þeytast, þjóta ([~ out of the room]); [~ up] hætta við; n. kast; skens, aðkast, háðsyrði; [to have a ~ at] spotta, skensa
+fling s. fleygja, kasta, þeyta, henda; fella; slá; sneiða, skensa; hendast, þeytast, þjóta ([~ out of the room]); [~ up] hætta við; n. kast; skens, aðkast, háðsyrði; [to have a ~ at] spotta, skensa
 flint n. tinnusteinn
 flinty l. tinnu-; steinharður; harðbrjóstaður
 flip n. sjómannadrykkur
@@ -690,8 +690,8 @@ flirt s. kasta, fleygja; veifa; hlaupa fram og aftur; daðra, vera óstöðugur 
 flirtation n. daður, fleðulæti
 flirtatious l. ástleitinn, daðurgjarn
 flisk s. hoppa, leika sér
-flit (flitt) s. fljúga; flögra, flytjast
-flitch (flitsh) n. söltuð flesksíða ([~ of bacon]); flak ([~ of halibut])
+flit s. fljúga; flögra, flytjast
+flitch n. söltuð flesksíða ([~ of bacon]); flak ([~ of halibut])
 flitter s. flögra
 flittermouse n. leðurblaka
 float (flót) n. timburfloti; netflá; s. fljóta (uppi); líða áfram (á vatni eða í loftinu); blakta; fleyta; setja á flot; setja á stofn; halda e-m uppi ([~ a scheme]); flæða (flóa) yfir; hleypa vatni á e-ð eða yfir e-ð
@@ -705,7 +705,7 @@ flocky l. hnoðróttur, með hnoðrum
 floe (fló) n. stór hafísjaki, ísspöng
 flog (flogg) s. berja, hýða
 flogging n. hýðing, húðstrýking
-flood (fl0dd) n. flóð; aðfall ([ebb and ~]); syndaflóð(ið); vatnavöxtur, vatnagangur; ógrynni; [half ~] hálffallinn sjór; s. flæða (flóa) yfir ([low-lying lands were ~-ed]); hleypa vatni yfir
+flood (fl0dd) n. flóð; aðfall ([ebb and ~]); syndaflóð(ið); vatnavöxtur, vatnagangur; ógrynni; [half ~] hálffallinn sjór; s. flæða (flóa) yfir ([low-lying lands were ~ed]); hleypa vatni yfir
 floodgate n. flóðgátt
 flood tide n. aðfall, flóð
 floor (flör) n. gólf; loft (í húsi); s. leggja gólf í; jarðvarpa, fella
@@ -730,7 +730,7 @@ flour (fláar) n. smátt mjöl, hveitimjöl; s. mala smátt; sáldra mjöli á
 floury l. mjölkynjaður; mjölugur
 flourish (fl0rrish) s. blómgast, dafna, standa með (miklum) blóma; gorta; krota, flúra; sveifla, bregða (sverði); fjölyrða (um e-ð [on, upon]); n. blómi; málskrúð; útflúr, krot; sveifla; lúðurþytur
 flout (flát) s. hæða, spotta, gera gys að ([~ at]); n. háð, spott, gabb
-flow (fló) s. fljóta, renna; falla að (um sjó, [ebb and ~]); leiða af e-u ([from]); láta flæða (renna) yfir; [the measure ~-s over] það rennur út úr málinu; n. flóð, aðfall; straumur, rennsli; gnótt; hljóðfall, hrynjandi
+flow (fló) s. fljóta, renna; falla að (um sjó, [ebb and ~]); leiða af e-u ([from]); láta flæða (renna) yfir; [the measure ~s over] það rennur út úr málinu; n. flóð, aðfall; straumur, rennsli; gnótt; hljóðfall, hrynjandi
 flower (fláar) n. blóm, blómstur; blómi; [in the ~ of one's age] í blóma aldurs síns; s. blómgast; vera í blóma sínum; skreyta með blómum; sauma blómstur í
 flowery l. blómskreyttur ([a ~ vale])
 fluctuant (flþktjúant) l. bylgjóttur; óstöðugur ([~ mood])
@@ -791,7 +791,7 @@ fogy n. [an old ~] gamall sérvitringur
 fogle n. silkivasaklútur
 fogram n. [an old ~] gamall sérvitringur
 foible n. breyskleiki, brestur, galli ([it has always been my ~])
-foil n. sljótt sverð; ófarir; s. sigra, bera ofurliði, yfirbuga; ónýta; bera af sér (högg); [to be ~-ed in one's hopes] bregðast vonir sínar
+foil n. sljótt sverð; ófarir; s. sigra, bera ofurliði, yfirbuga; ónýta; bera af sér (högg); [to be ~ed in one's hopes] bregðast vonir sínar
 foil n. málmþynna; gljáblað (til gyllingar eða undir gimsteina); kvikasilfur á spegilgleri
 foist s. smeygja (e-u) inn ([in]); koma (e-u) á (e-n [on]) með brögðum
 fold n. felling, brot; kvíar; rétt; (sauða)hjörð; s. leggja í fellingar; brjóta bréf; kvía; vefja, hylja, hjúpa ([~ it in paper, hills ~ed in mist]); [with ~ed arms] með krosslögðum handleggjum; [~ the hands] spenna greipar; [~ in one's arms] faðma að sér; [~ up] brjóta saman
@@ -1259,7 +1259,7 @@ fugitive (fjúdzhitiv) l. hverfull, óstöðugur; sem upplitast fljótt (um liti
 fugleman (fjúg'lman) n. hermaður sem er fremstur í fylkingu
 fugue (fjúg) n. fúga (í hljómlist)
 fulcrum (fplkram) n. veltuás
-fulfil (fúlfiíl') s. fullgera; efna, enda (loforð); láta rætast; uppfylla (bæn, ósk); [to be ~-led] ganga eftir, rætast
+fulfil (fúlfiíl') s. fullgera; efna, enda (loforð); láta rætast; uppfylla (bæn, ósk); [to be ~led] ganga eftir, rætast
 fulfilment n. efnd; fylling; uppfylling
 fulgent (fpldzhant) l. ljómandi, bjartur
 fulgid (fpldzhid) l. glampandi, skínandi
@@ -1301,7 +1301,7 @@ functional l. embættislegur; starfslegur
 functionary n. embættismaður, sýslunarmaður
 fund (f0nd) n. höfuðstóll, sjóður; ft. fé, peningar; ríkisskuldir, ríkisskuldabréf ([the public ~s]); forði; [to be in ~s] hafa peninga (fjárráð); s. ákveða vissar tekjur til greiðslu vaxta og afborgana af skuld(um); koma peningum í fasteignir eða ríkisskuldabréf
 fundament (fpndamant) n. afturendi, sitjandi
-fundamental l. sem er grundvöllurinn undir e-u ([to]); grundvallar-; undirstöðu-; upprunalegur; n. undirstöðuatriði ([~-s])
+fundamental l. sem er grundvöllurinn undir e-u ([to]); grundvallar-; undirstöðu-; upprunalegur; n. undirstöðuatriði ([~s])
 fundamentally ao. í grundvallaratriðum; upprunalega, frá upphafi; gjörsamlega
 funeral n. útför, jarðarför; greftrun; l. greftrunar-, útfarar-; [~ sermon] líkræða
 funereal l. útfarar- ([we marched at a ~ pace]); sorglegur; skuggalegur

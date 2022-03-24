@@ -36,10 +36,15 @@
 
 from typing import List
 
-from fastapi import FastAPI, Request
+from fastapi import FastAPI, Request, HTTPException
 from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import Response, JSONResponse
+
+from pymemcache.client.base import Client
+from fastapi_cache import FastAPICache
+from fastapi_cache.backends.memcached import MemcachedBackend
+from fastapi_cache.decorator import cache
 
 from db import EnskDatabase
 
@@ -65,7 +70,7 @@ res = e.read_all_entries()
 
 
 def _err(msg: str) -> JSONResponse:
-    """ Return JSON error message. """
+    """Return JSON error message."""
     return JSONResponse(content={"err": True, "errmsg": msg})
 
 
@@ -80,6 +85,7 @@ def _results(q: str, exact_match: bool = False) -> List:
         if (exact_match and ql == kl) or (not exact_match and ql in k["word"].lower()):
             w = k["word"]
             x = k["definition"]
+            p = k["page_num"]
             x = x.replace("[", "<em>")
             x = x.replace("]", "</em>")
             x = x.replace("~", k["word"])
@@ -87,7 +93,7 @@ def _results(q: str, exact_match: bool = False) -> List:
             wfnfixed = w.replace(" ", "_")
             audio_url = f"/static/audio/dict/{wfnfixed}.mp3"
             ipa = k.get("ipa") or ""
-            results.append({"w": w, "x": x, "i": ipa, "p": 1, "a": audio_url})
+            results.append({"w": w, "x": x, "i": ipa, "p": p, "a": audio_url})
 
     def sortfn(a):
         wl = a["w"].lower()
@@ -104,9 +110,15 @@ def _results(q: str, exact_match: bool = False) -> List:
     return results
 
 
+# @app.on_event("startup")
+# async def startup():
+#     client = Client(("pymemcached", 11211))
+#     FastAPICache.init(MemcachedBackend(client), prefix="fastapi-cache")
+
+
 @app.get("/")
 async def index(request: Request):
-    """ / main page """
+    """/ main page"""
     return TemplateResponse(
         "index.html",
         {
@@ -118,7 +130,7 @@ async def index(request: Request):
 
 @app.get("/search")
 async def search(request: Request, q: str):
-    """ Return page with search results for query. """
+    """Return page with search results for query."""
     results = _results(q)
 
     return TemplateResponse(
@@ -134,9 +146,10 @@ async def search(request: Request, q: str):
 
 @app.get("/item/{w}")
 async def item(request: Request, w):
-    """ Return page for a single dictionary word definition. """
+    """Return page for a single dictionary word definition."""
     results = _results(w, exact_match=True)
-
+    if not results:
+        raise HTTPException(status_code=404, detail="Síða fannst ekki")
     return TemplateResponse(
         "item.html",
         {
@@ -151,7 +164,7 @@ async def item(request: Request, w):
 
 @app.get("/files")
 async def files(request: Request):
-    """ Page containing download links to data files. """
+    """Page containing download links to data files."""
     return TemplateResponse(
         "files.html", {"request": request, "title": f"Gögn - {WEBSITE_NAME}"}
     )
@@ -159,15 +172,45 @@ async def files(request: Request):
 
 @app.get("/about")
 async def about(request: Request):
-    """ About page. """
+    """About page."""
     return TemplateResponse(
         "about.html", {"request": request, "title": f"Um - {WEBSITE_NAME}"}
     )
 
 
+@app.get("/all")
+# @cache(expire=86400)
+async def all(request: Request):
+    """Page with links to all entries."""
+    return TemplateResponse(
+        "all.html",
+        {"request": request, "title": f"Öll orðin - {WEBSITE_NAME}", "results": res},
+    )
+
+
+@app.get("/page/{n}")
+async def page(request: Request, n):
+    """Return page for a single dictionary word definition."""
+    n = int(n)
+    if n < 1 or n > 707:
+        raise HTTPException(status_code=404, detail="Blaðsíða fannst ekki")
+
+    pad = n - 1
+
+    return TemplateResponse(
+        "page.html",
+        {
+            "request": request,
+            "title": f"Zoëga bls. {n} - {WEBSITE_NAME}",
+            "n": n,
+            "npad": f"{pad:03}",
+        },
+    )
+
+
 @app.get("/zoega")
 async def zoega(request: Request):
-    """ Page with details about the Zoega dictionary. """
+    """Page with details about the Zoega dictionary."""
     return TemplateResponse(
         "zoega.html",
         {"request": request, "title": f"Orðabók Geirs T. Zoëga - {WEBSITE_NAME}"},
@@ -176,7 +219,7 @@ async def zoega(request: Request):
 
 @app.get("/apidoc")
 async def apidoc(request: Request):
-    """ Page with API documentation. """
+    """Page with API documentation."""
     return TemplateResponse(
         "apidoc.html", {"request": request, "title": f"Forritaskil - {WEBSITE_NAME}"}
     )
@@ -184,7 +227,7 @@ async def apidoc(request: Request):
 
 @app.get("/api/suggest/{q}")
 async def api_suggest(request: Request, q, limit: int = 10) -> JSONResponse:
-    """ Return autosuggestion results for partial string in input field. """
+    """Return autosuggestion results for partial string in input field."""
     results = _results(q)
     words = [x["w"] for x in results][:limit]
     return JSONResponse(content=words)
@@ -192,12 +235,12 @@ async def api_suggest(request: Request, q, limit: int = 10) -> JSONResponse:
 
 @app.get("/api/search/{q}")
 async def api_search(request: Request, q) -> JSONResponse:
-    """ Return search results in JSON format. """
+    """Return search results in JSON format."""
     results = _results(q)
     return JSONResponse(content={"results": results})
 
 
 @app.get("/sitemap.xml")
 async def sitemap(request: Request) -> Response:
-    """ Sitemap generated on-demand. """
+    """Sitemap generated on-demand."""
     return Response(content="", media_type="application/xml")

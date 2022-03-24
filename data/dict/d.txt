@@ -1093,7 +1093,7 @@ disfigure s. óprýða, lýta
 disfigurement n. óprýði
 disforest s. eyða skóg í landi
 disforested l. skóglaus
-disfranchise s. svipta þegnréttindum (t.d. kosningarétti, [the citizens were ~-d])
+disfranchise s. svipta þegnréttindum (t.d. kosningarétti, [the citizens were ~d])
 disfrock s. færa úr hempunni; [to be ~] missa hempuna
 disgorge s. selja upp, spýja; skila aftur; tæma (magann); [~ itself] falla, renna (út í [into])
 disgrace n. ónáð, óþokki; smán, svívirðing; s. smána, svívirða; leggja óþokka á e-n; [to be ~d] fá óþokka e-s
@@ -1652,100 +1652,101 @@ droit (drojt) n. tollur; aukageta
 droll (dról) l. skrítinn, skringilegur, skoplegur; n. æringi; s. gera gys að ([on, upon, at, with])
 drollery (drólori) n. skop, glettni; skrítla
 dromedary (drpmmidari) n. úlfaldi
-drone (drón) n. karlbýfluga; letingi; suða; s. vera iðjulaus; suða; [~ away/out the lifetime] eyða ævinni í iðjuleysi
+drone n. karlbýfluga; letingi; suða; s. vera iðjulaus; suða; [~ away/out the lifetime] eyða ævinni í iðjuleysi
 dronish l. latur, letilegur, iðjulaus
-droop (drúp) s. hanga (lafa) niður; drúpa; lúta; láta síga eða lúta ([~ the eyes or face]); vanmagnast
-drop (dropp) n. dropi; fall ([~ in temperature]); verðfall ([~ in prices]); eyrnalokkur; hlemmur; fortjald; sykurkúla; s. láta falla; missa niður; hætta við, sleppa; lægja (röddina); falla; leka, drjúpa ([sweat ~-ped from his brow]); detta niður; hníga; deyja (snögglega); [~ in] koma snöggvast inn; [the conversation ~-ped] datt niður; [~ out] fara snögglega í burtu
+droop s. hanga (lafa) niður; drúpa; lúta; láta síga eða lúta ([~ the eyes or face]); vanmagnast
+drop n. dropi; fall ([~ in temperature]); verðfall ([~ in prices]); eyrnalokkur; hlemmur; fortjald; sykurkúla; s. láta falla; missa niður; hætta við, sleppa; lægja (röddina); falla; leka, drjúpa ([sweat ~-ped from his brow]); detta niður; hníga; deyja (snögglega); [~ in] koma snöggvast inn; [the conversation ~-ped] datt niður; [~ out] fara snögglega í burtu
 droppings n. ft. mykja, tað
-drop scene (-sín) n. fortjald (í leikhúsi); endalok
+drop scene n. fortjald (í leikhúsi); endalok
 dropwort n. mjaðarjurt
 dropsical l. vatnssjúkur; hvaplegur
-dropsy (dropsi) n. vatnssýki
+dropsy n. vatnssýki
 dross n. málmfroða, sori; sindur; ryð; úrgangur
 drossy l. sorafullur (um málma); óhreinn
-drought (drát) n. þurrkar, regnleysi
-drove (dróv) n. rekstur; hjörð, hópur ([a ~ of sheep])
-drover (dróvar) n. fjárkaupmaður; fjárrekstrarmaður
-drown (drán) s. drekkja; flæða yfir; [to ~] drukkna; [to be ~-ed] að vera drekkt
-drowse (dráz) s. blunda, móka; gera daufan, sljóvga; [~ away time] eyða tímanum í iðjuleysi; n. blundur, mók
+drought n. þurrkar, regnleysi
+drove n. rekstur; hjörð, hópur ([a ~ of sheep])
+drover n. fjárkaupmaður; fjárrekstrarmaður
+drown s. drekkja; flæða yfir; [to ~] drukkna; [to be ~-ed] að vera drekkt
+drowse s. blunda, móka; gera daufan, sljóvga; [~ away time] eyða tímanum í iðjuleysi; n. blundur, mók
 drowsiness n. drungi, slen, deyfð
 drowsy l. drungafullur, syfjaður; svæfandi
 drub s. berja, lemja; stappa ([~ on the ground with the feet])
 drubbing n. barsmíð
 drudge s. strita, vinna baki brotnu; n. vinnuþræll
 drudgery n. stritvinna, þrælavinna
-drug n. lyfjavara; eiturlyf; lyfjaefni; óseljandi vara; s. blanda (eitri)
+drug n. lyf, lyfjavara; eiturlyf; lyfjaefni; óseljandi vara; s. blanda (eitri); byrla fyrir
 druggist n. lyfsali
 druggy l. lyfja-
 drugstore n. lyfjabúð
-drugget (dr0ggit) n. þykkur ullardúkur (einkum í gólfábreiður)
-drum (dr0mm) n. trumba, bumba ([beat the ~]); s. berja (bumbu)
+drugget n. þykkur ullardúkur (einkum í gólfábreiður)
+drum n. trumba, bumba ([beat the ~]); s. berja (bumbu)
 drumhead n. trumbuhöfuð; hljóðhimnan í eyranu
 drummer n. trumbuslagari, bumbuslagi
-drumly (dr0mli) l. skýjaður, dimmur; þungbúinn ([~ look]); gruggugur
-drunk (dr0Nk) l. drukkinn, ölóður, ölvaður
+drumly l. skýjaður, dimmur; þungbúinn ([~ look]); gruggugur
+drunk l. drukkinn, ölóður, ölvaður
 drunkard n. drykkjumaður
 drunken l. drukkinn, ölóður, ölvaður
 drunkenness n. drykkjuskapur, ofdrykkja
 drunkery n. drykkjukrá
-drupe (drjúp) n. steinávöxtur
-dry (dræ) l. þurr; ósætur; þyrstur; [~ dock] þurrkví; [~ goods] álnavara; s. þurrka; þorna
+drupe n. steinávöxtur
+dry l. þurr; ósætur; þyrstur; [~ goods] álnavara; s. þurrka; þorna
+dry dock n. þurrkví
 dryfoot ao. þurrum fótum
 dryly ao. þurrlega
 dryness n. þurrleiki
-dry-nurse (-nörs) n. barnfóstra (sem ekki hefur barnið á brjósti); s. fóstra (án þess að gefa brjóst)
+dry-nurse n. barnfóstra (sem ekki hefur barnið á brjósti); s. fóstra (án þess að gefa brjóst)
 dry rot n. sveppur, rotnun
-drysalter (-söltar) n. lyfjavörusali
+drysalter n. lyfjavörusali
 dryshod l. á þurrum fótum
 dryad n. skógardís
 dual l. tvískiptur, tvöfaldur; n. tvítala
 dualism n. frumtvenning; tvíhyggja
 dualist n. tvískiptingarmaður
 dualistic l. tvíhyggju-; tvískiptur
-duality (all'-iti) n. tvískipting
-dub (d0bb) s. dubba (slá) til riddara ([~ one a knight]); titla; bera (á leður); [~ at] pota í e-ð
-dubiety (djúbæ'iti) n. efasemi
-dubious (djúbias) l. efasamur, tvísýnn; efablandinn
+duality n. tvískipting
+dub s. dubba (slá) til riddara ([~ one a knight]); titla; bera (á leður); [~ at] pota í e-ð
+dubiety n. efasemi
+dubious l. efasamur, tvísýnn; efablandinn
 dubiousness n. efasemi, tvísýni
-dubitable (djú-bitab'l) l. vafasamur
+dubitable l. vafasamur
 dubitate s. vera í vafa, hika
 dubitation n. efasemd, hik
-ducal (djúkal) l. hertogalegur
-ducat (dpkkat) n. dúkati (peningur), gulldalur
-duchess (d0tshis) n. hertogafrú
-duchy (d0tshi) n. hertogadæmi
-duck (d0kk) n. þunnur segldúkur, strigi
+ducal l. hertogalegur
+ducat n. dúkati (peningur), gulldalur
+duchess n. hertogafrú
+duchy n. hertogadæmi
+duck n. þunnur segldúkur, strigi
 ducks n. ft. strigabuxur
-duck (d0kk) n. önd; hneiging (með höfðinu); [play (at) ~-s and drakes] láta steinvölur flytja kerlingar; [make ~-s and drakes of/with money] sóa fé; s. dýfa (stinga) höfðinu í vatn; kaffæra ([~ in, into, under water]); hneigja (höfuðið); stinga sér; hneigja sig snöggt
+duck n. önd; hneiging (með höfðinu); [play (at) ~-s and drakes] láta steinvölur flytja kerlingar; [make ~s and drakes of/with money] sóa fé; s. dýfa (stinga) höfðinu í vatn; kaffæra ([~ in, into, under water]); hneigja (höfuðið); stinga sér; hneigja sig snöggt
 ducking n. kaffæring
 duckling n. andarungi
-duct (d0kt) n. pípa
-ductile (dpktil) l. teygjanlegur; sveigjanlegur
+duct n. pípa
+ductile l. teygjanlegur; sveigjanlegur
 ductility n. teygjanleiki; auðsveipni
 dudgeon (d0dzhan) n. reiði; [take in ~] taka e-u illa, firtast af; [be in (a) high (great, deep) ~] vera fokvondur, stórreiður
-duds (d0dz) n. ft. fataræflar
-due (djú) l. skyldugur; fallinn í gjalddaga; tilhlýsilegur; réttur; [in ~ season] á sínum tíma; væntanlegur ([vessels ~]); [it is ~ to] e-m að þakka eða kenna; [become/fall ~] falla í gjalddaga; [the mail is ~ in an hour] pósturinn á að koma eftir klst; ao. [~ east] beint í austur, í háaustur; n. skylda ([taxes and dues]); réttur; tollur, gjald ([harbour ~-s]); [give one his ~] láta e-n njóta (unna e-m) sannmælis
-duel (djúal) n. einvígi; s. heyja einvígi
+duds n. ft. fataræflar
+due l. skyldugur; fallinn í gjalddaga; tilhlýsilegur; réttur; [in ~ season] á sínum tíma; væntanlegur ([vessels ~]); [it is ~ to] e-m að þakka eða kenna; [become/fall ~] falla í gjalddaga; [the mail is ~ in an hour] pósturinn á að koma eftir klst; ao. [~ east] beint í austur, í háaustur; n. skylda ([taxes and dues]); réttur; tollur, gjald ([harbour ~s]); [give one his ~] láta e-n njóta (unna e-m) sannmælis
+duel n. einvígi; s. heyja einvígi
 duelist n. einvígismaður
 duenna n. hirðmey (á Spáni); tilsjónarkona (með ungri stúlku)
-duet (djúett') n. tvísöngur, tveggja manna söngur
-duffer (dþffar) n. prangari; klaufi ([a ~ at dancing]); flón
+duet n. tvísöngur, tveggja manna söngur
+duffer n. prangari; klaufi ([a ~ at dancing]); flón
 duffing l. óekta, falsaður ([a ~ coin])
-dug (dþgg) n. speni
-dugong (dúgoN) n. sækýr
-duke (djúk) n. hertogi
-dukedom (-dam) n. hertogadæmi; hertogatign
-dulcet (d0lsit) l. mjúkur, þýður ([~ tones])
-dulcify (dplsifæ) s. gera sætt; blíðka, sefa; mýkja; tala blíðlega
-dull (d0ll) l. seinn; daufur; fjörlaus; ónæmur; leiðinlegur; sljór, bitlaus; drungalegur (um veður); [~ of hearing] heyrnardaufur; s. sljóvga; deyfa; sljóvgast, dofna
+dug n. speni
+dugong n. sækýr
+duke n. hertogi
+dukedom n. hertogadæmi; hertogatign
+dulcet l. mjúkur, þýður ([~ tones])
+dulcify s. gera sætt; blíðka, sefa; mýkja; tala blíðlega
+dull l. seinn; daufur; fjörlaus; ónæmur; leiðinlegur; sljór, bitlaus; drungalegur (um veður); [~ of hearing] heyrnardaufur; s. sljóvga; deyfa; sljóvgast, dofna
 dull-brained l. gáfnatregur
 dull-witted l. gáfnatregur
-dullard (dpllard) n. heimskingi
+dullard n. heimskingi
 dully ao. dauflega
-dullness (dþlnis) n. sljóleiki; bitleysi; deyfð; fjörleysi; seinlæti
-dulse (d0ls) n. söl
-duly (djúli) ao. tilhlýðilega; hæfilega; með skilum, skilvíslega
-dumb (d0mm) l. dumbur, mállaus; þögull
+dullness n. sljóleiki; bitleysi; deyfð; fjörleysi; seinlæti
+dulse n. söl
+duly ao. tilhlýðilega; hæfilega; með skilum, skilvíslega
+dumb l. dumbur, mállaus; þögull
 dumb-bell n. handvigt (til æfinga)
 dumbfound s. gera orðlausan
 dumbness n. málleysi

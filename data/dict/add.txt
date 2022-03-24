@@ -3,13 +3,13 @@ database n. gagnagrunnur; [the information was written to a ~]
 classroom n. kennslustofa, skólastofa
 coedit s. ritstýra með einhverjum öðrum; [he ~ed the dictionary]
 dune n. sandhóll (sem myndast úr foksandi), sandskafl
-rock n. rokktónlist; [play some of that old ~ and roll]
+rock n. rokktónlist; [play some of that old ~ and roll music]
 microwave n. örbylgja; [~ oven] örbylgjuofn; s. hita í örbylgjuofni
 helicopter n. þyrla
 computer n. tölva, reiknivél; e-r sem reiknar
 algorithm n. algrími, reiknirit
 heliocentrism n. sólmiðjukenning
-geoheliocentrism n. jarðsólmiðjukenning
+geoheliocentrism n. jarðsólmiðjukenning stjarnfræðingsins Tycho Brahe ([the Tychonic system])
 pseudoscience n. gervivísindi
 zombie n. uppvakningur
 verisimilitude n. sannlíki
@@ -44,8 +44,8 @@ geophysics n. jarðeðlisfræði
 theoretical physics n. fræðileg eðlisfræði
 astronaut n. geimfari
 cosmonaut n. geimfari
-jazz n. djasstónlist
-faeces n. saur, hægðir
+jazz n. djass, djasstónlist
+faeces n. ft. saur, hægðir
 hillbilly n. sveitavargur
 commensurable l. sammælanlegur
 sniper n. leyniskytta
@@ -79,9 +79,10 @@ jet n. þota (þrýstiloftsflugvél)
 automobile n. bifreið
 kleptocracy n. þjófræði (stjórnarfyrirkomulag þar sem æðstu ráðamenn stela frá almenningi)
 website n. vefsíða, vefsetur
+homepage n. heimasíða (á veraldarvefnum)
 screenshot n. skjáskot
 neoliberalism n. nýfrjálshyggja
-neoliberal l. nýfrjálshyggju-; n. nýfrjálshyggjumaður
+neoliberal l. nýfrjálshyggju-; n. nýfrjálshyggjumaður, nýfrjálshyggjusinni
 creativity n. sköpun, sköpunargáfa
 ecology n. vistfræði
 ecological l. vistfræðilegur, vistfræði-; [we are facing ecological collapse!]
@@ -91,8 +92,9 @@ girlfriend n. kærasta, unnusta; vinkona
 guestbook n. gestabók
 holocaust n. helför; [the Holocaust] helförin, þ.e. tortíming Gyðinga í seinni heimsstyrjöld
 masturbate s. fróa sér, runka sér
-masturbation n. sjálfsfróun
+masturbation n. sjálfsfróun, runk
 microphone n. hljóðnemi
+mic n. hljóðnemi (stytting á [microphone])
 mike n. hljoðnemi (stytting á [microphone])
 newsletter n. fréttabréf
 phone n. sími, símtæki; s. hringja úr símtæki (stytting á [telephone])
@@ -106,7 +108,7 @@ titanium n. títan, títaníum (málmur, frumefnið [Ti])
 tsunami n. flóðbylgja
 vibrator n. titrari (kynlífsleikfang)
 workplace n. vinnustaður
-milkshake n. mjólkurhristingur (drykkur)
+milkshake n. mjólkurhristingur
 spacesuit n. geimbúningur, búningur geimfara
 televise s. sjónvarpa
 motorway n. hraðbraut
@@ -149,7 +151,7 @@ homepage n. heimasíða (á veraldarvefnum)
 investor n. fjárfestir
 mega- fsk. ofur-
 methodology n. aðferðafræði; [his ~ was flawed] hann beitti gölluðum aðferðum
-movie n. kvikmynd (óforml.); [I'm going to the ~s] ég er farinn í bíó
+movie n. kvikmynd, bíómynd (óforml.); [I'm going to the ~s] ég er farinn í bíó
 necessarily ao. nauðsynlega
 pediatrician n. barnalæknir
 pediatric l. barnalæknisfræðilegur, barnalækninga-
@@ -175,6 +177,7 @@ anarchist n. stjórnleysissinni, anarkisti (sjá [anarchism])
 hepatitis n. lifrarbólga (sjúkdómur)
 spectrography n. litrófsfræði
 espresso n. espressó (sterkur og bragðmikill kaffidrykkur)
+expresso n. sjá [espresso]
 marxism n. marxismi (hugmyndafræði kennd við þýska fræðimanninn Karl Marx)
 marxist n. marxisti (fylgismaður kenninga Karls Marx, sjá [marxism])
 postmodern l. póstmódernískur (sjá [postmodernism])
@@ -182,6 +185,7 @@ postmodernism n. póstmódernismi (heimspeki- og menningarstefna sem tók við a
 postmodernist n. póstmódernisti (fylgismaður póstmódernisma, sjá [postmodernism])
 structuralism n. formgerðarstefna, strúkturalismi (rannsóknaraðferð til að útskýra kerfi tungumála með athugun á formum og reglum)
 multitasking n. fjölverkavinnsla (þegar mörg verk eru leyst samtímis)
+multitask s. vinna mörg verk samtímis
 ozone n. óson (fjölgervingsform súrefnis, O3)
 PTSD n. sjá [post-traumatic stress disorder]
 post-traumatic stress disorder n. áfallastreituröskun
@@ -208,7 +212,7 @@ simultaneously ao. samtímis, samtíða
 technician n. tæknimaður
 typically ao. dæmigert; yfirleitt
 viagra n. víagra (stinningarlyf)
-ninja n. japanskur launmorðingi
+ninja n. ninja (e.k. japanskur launmorðingi)
 quantum mechanics n. ft. skammtafræði
 quantum computer n. skammtatölva
 quantum computing n. skammtatölvun, skammtareikningur
@@ -278,7 +282,7 @@ stalinist n. stalínisti (fylgismaður stjórnaraðferða Jósefs Stalín); l. s
 leninist n. lenínisti (fylgismaður hugmyndafræði Vladimírs Lenín); l. lenínskur
 conglomeration n. samsteypa
 conglomerate n. samsteypa; s. steypa saman; l. [conglomerated] samsteyptur, samsettur
-cinema n. kvikmyndahús, bíó; kvikmyndabransinn
+cinema n. kvikmyndahús, bíó; kvikmyndalistin
 entertainment industry n. skemmtanabransinn, afþreyingarbransinn
 calculus n. stærðfræðigreining, diffur- og tegurreikningur, reiknivísi, örsmæðareikningur; tannsteinn
 recession n. kreppa; samdráttur, afturdráttur (sjá [recede])
@@ -302,8 +306,8 @@ haphazard n. tilviljunarkenndur, óskipulegur
 trooper n. (óbreyttur) hermaður, dáti
 interface n. viðmót; tenging; snertipunktur tveggja fyrirbæra
 bromance n. náið vinasamband tveggja karlmanna (samsett úr [brother] og [romance])
-selfie n. sjálfsmynd, ljósmynd sem e-r tekur af sjálfum sér
-paywall n. greiðslugátt
+selfie n. sjálfa, sjálfsmynd, ljósmynd sem e-r tekur af sjálfum sér
+paywall n. greiðslugátt, greiðsluveggur, greiðslumúr
 crowdsource s. lýðvirkja
 blockchain n. bálkakeðja
 roleplay n. hlutverkaleikur, spuni, spunaspil
@@ -372,12 +376,13 @@ crowdfunding n. lýðfjármögnun
 crowdfunded l. lýðfjármagnað
 circuit n. hringrás; rafrás, rafstraumsrás
 polypropylene n. fjölprópýlen, pólýprópýlen
+cassette n. (hljóð)snælda, kassetta
 audio cassette n. (hljóð)snælda, kassetta
 hard disk n. harður diskur (í tölvum)
 hard drive n. harður diskur (í tölvum)
 walkman n. vasadiskó (lítið tæki sem spilar hljóðsnældur)
 libertarianism n. frjálshyggja (stjórnmálastefna sem segir að setja beri ríkisvaldi þröng takmörk)
-libertarian l. frjálshyggju-; n. frjálshyggjumaður
+libertarian l. frjálshyggju-; n. frjálshyggjumaður, frjálshyggjusinni
 module n. (sjálfstæð) eining í kerfi
 modular l. samansett úr (sjálfstæðum) einingum
 oil tanker n. olíuskip, olíuflutningaskip
@@ -404,12 +409,12 @@ mailman n. bréfberi, póstmaður
 makeup n. (andlits)förðun, (andlits)farði, meik
 marina n. smábátahöfn
 nudist n. striplingur
-pipeline n. leiðsla, leiðslukerfi
+pipeline n. leiðsla; [~s] leiðslukerfi
 radio n. útvarp, útvarpstæki; s. útvarpa ([he radioed for help])
 realtor n. fasteignasali, fasteignamiðlari
 riverside n. árbakki; l. við árbakka, árbakka-
 renewable l. endurnýjanlegur; n. endurnýjanlegur hlutur
-renewables n. ft. endurnýjanlegar orkulindir
+renewables n. ft. endurnýjanlegar orkulindir; endurnýjanlegir hlutir
 prostate n. blöðruhálskirtill
 primarily ao. aðallega; fyrst og fremst; einkum
 playback n. spilun, afspilun
@@ -419,12 +424,20 @@ hardcover l. harðspjalda; n. harðspjalda bók
 genome n. erfðamengi, genamengi
 forbidden l. bannaður, forboðinn
 forgotten l. gleymdur
-freelance l. sjálfstætt starfandi ([freelance journalist])
+freelance l. sjálfstætt starfandi ([he's a freelance journalist])
 freelancer n. e-r sem er sjálfstætt starfandi
-newswire n. fréttastöð
+newswire n. fréttaveita, fréttastöð
 neurochemical l. taugaefnafræðilegur
 incommensurable l. ósammælanlegur
 vector n. vigur, vektor
-cannabis n. kannabis (plöntutegund, vímugjafi)
+cannabis n. kannabis (plöntutegund sem er vímugjafi)
 revenant n. afturganga, uppvakningur (bókst. e-r sem snýr aftur)
-bullshit n. kjaftæði; s. halda fram kjaftæði eða þvælu; blekkja; ljúga
+bullshit n. kjaftæði, þvæla; s. halda fram kjaftæði eða þvælu; blekkja; ljúga ([he was bullshitting all along])
+shades n. ft. skyggð gleraugu, sólgleraugu
+econometrics n. ft. hagmælingar; hagtölfræði
+cromulent l. ásættanlegur (grínorð úr teiknimyndaþáttunum [The Simpsons])
+cretin n. kretíni (vanþroska maður með óstarfhæfan skjaldkirtil); bjáni, asni, fífl, hálfviti, fáviti
+cretinism n. kretínismi (meðfæddur galli sem heftir starfsemi skjaldkirtils)
+doppelganger n. tvífari
+citizen n. borgari; ríkisborgari
+citizenship n. ríkisborgararéttur; ríkisfang

@@ -14,10 +14,12 @@ The author of the original dictionary, Geir T. Zoega (1857-1928),
 served as an English teacher and later rector at the Learned
 School of Reykjavík in the years 1883-1927. The first edition was
 published in 1896. The digitised and sanitised version presented
-here is based on the 1932 version edited by Þorsteinn Þorsteinsson.
+here is based on the much-improved 1932 edition edited by Þorsteinn
+Þorsteinsson.
 
-This version has been heavily edited and fixed in accordance with
-modern Icelandic orthography. Many errors have been corrected.
+The current version has been heavily edited, updated and fixed in
+accordance with modern Icelandic orthography. Many errors in the
+original text have also been corrected.
 
 ## Deployment
 
@@ -44,8 +46,7 @@ $ gunicorn app:app -w 1 -k uvicorn.workers.UvicornWorker -b "127.0.0.1:8080"
 
 ## Dictionary License
 
-This dictionary is in the public domain within the United States and
-all other countries where permitted.
+This dictionary is in the public domain within all countries where permitted.
 
 The authors waive copyright and related rights in the work worldwide
 through the CC0 1.0 Universal public domain dedication.
@@ -70,7 +71,7 @@ endorsement by the author or the affirmer.
 
 ## Source license
 
-Copyright (c) 2021-2022 Sveinbjorn Thordarson &lt;<a href="mailto:">sveinbjorn@sveinbjorn.org</a>&gt;
+Copyright (c) 2021-2022 Sveinbjorn Thordarson &lt;<a href="mailto:sveinbjorn@sveinbjorn.org">sveinbjorn@sveinbjorn.org</a>&gt;
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification,

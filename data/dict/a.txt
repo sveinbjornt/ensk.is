@@ -1351,8 +1351,8 @@ aridity n. þurrleiki
 aright ao. rétt, réttilega
 arise s. rísa upp, standa upp; rísa á fætur; koma upp (um sól og tungl); leiða, stafa (af [from])
 aristocracy n. aðall, aðalsstétt; höfðingjar
-aristocrat n. aðalsmaður, höfðingi
-aristocratic l. höfðinglegur; höfðingja- ([the so-called ~ party])
+aristocrat n. aðalsmaður, aðalskona, höfðingi
+aristocratic l. aðals-; höfðinglegur; höfðingja- ([the so-called ~ party])
 arithmetic n. reikningslist
 arithmetical l. reikningslegur
 arithmetician n. reikningsmaður ([a good ~])
@@ -1405,7 +1405,7 @@ arrowy l. eins og ör í lögun; örskjótur; örva- ([an ~ shower])
 arsenal n. hergagnabúr
 arsenic n. arsenik, rottueitur
 arson n. íkveiking
-art n. list, íþrótt; kunnátta; kænska, bragð; [the fine ~-s] fagrar listir
+art n. list, íþrótt; kunnátta; kænska, bragð; [the fine ~s] fagrar listir
 artful l. kænn, slægur; íþróttlegur
 artfulness n. kænska, bragðvísi
 arterial l. sem lýtur að slagæðum, slagæða-
@@ -1533,7 +1533,7 @@ assort s. raða, flokka; útbúa (búð) með vörutegundum; hafa mök við ([wi
 assortment n. niðurröðun; flokkun; vörubirgðir, vöruval ([an assortment of foods])
 assuage s. sefa, lina, draga úr
 assuagement n. linun, léttir
-assume s. taka (í félagsskap); taka á sig, fá; taka að sér; eigna sér; þykjast; gera ráð fyrir
+assume s. gera ráð fyrir; þykjast; taka (í félagsskap); taka á sig, fá; taka að sér; eigna sér
 assuming l. heimtufrekur; þóttafullur
 assumption n. himnaför Maríu (15. ágúst); þótti; tilgáta
 assumptive l. óefaður ([~ belief]); þóttafullur
@@ -1577,11 +1577,11 @@ asymmetrical l. ósamhliða, ósammælanlegur
 asymmetry n. skortur á samsvörun
 at fs. í, á, hjá, við; til, að; um; [~ first] í fyrstu; [~ last] loksins; [~ home] heima; [~ my uncle's] (heima) hjá frænda mínum; [~ school] í skóla; [~ a distance] í fjarska; [~ work] við vinnu; [~ a low price] við lágu verði; [arrive ~ a place] koma til e-s staðar; [~ once] undir eins; [~ break of dawn] í dögun; [~ five o'clock] klukkan fimm
 atheism n. guðleysi, trúleysi
-atheist n. guðleysingi
-atheistic l. guðlaus, óguðlegur, trúlaus
+atheist n. guðleysingi, trúleysingi
+atheistic l. guðlaus, trúlaus, óguðlegur
 athirst l. þyrstur
-athlete n. kappleikamaður, aflraunamaður
-athletic l. aflraunalegur; sterkur
+athlete n. íþróttamaður, kappleikamaður, aflraunamaður
+athletic l. íþróttalegur; aflraunalegur; sterkur
 athwart ao. þversum; á þverveginn; fs. þversum, yfirum
 atlas n. máttarstólpi; landsuppdráttabók, landkortabók
 atmosphere n. gufuhvolf; loft; andrúmsloft

@@ -18,13 +18,19 @@
 <div class="result grid-container">
 
     <div class="itemlinks">
-        <a href="/item/{{ r.w }}" title="Hlekkur"><img src="/static/img/link.svg"></a>
+        <a href="/item/{{ r.w }}" title="Skoða færsluna „{{ r.w }}“">
+            <img src="/static/img/link.svg" alt="Hlekkur">
+        </a>
     </div>
 
     <p>
-        <strong>{{ r.w }}</strong>
+        <strong>
+            <a href="/item/{{ r.w }}" class="result_link" title="Skoða færsluna „{{ r.w }}“">
+                {{ r.w }}
+            </a>
+        </strong>
         (<a href="{{ r.a }}" onClick="return play(this);" title="Spila hljóðupptöku af framburði">
-            <img src="/static/img/audio.svg">
+            <img src="/static/img/audio.svg" alt="Spila">
             {{ r.i }}
         </a>)
         {{ r.x|safe }}
@@ -41,5 +47,8 @@
 {% else %}
 <p><em>Engar niðurstöður fundust fyrir <strong>„{{ q }}“</strong></em>.</p>
 {% endif %}
+
+<br>
+<br>
 
 {% endblock %}

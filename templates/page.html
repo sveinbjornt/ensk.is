@@ -1,0 +1,37 @@
+{% extends "container.html" %}
+
+{% block meta %}
+  <meta name="description" content="">
+{% endblock %}
+
+{% block content %}
+
+<!-- {% include 'searchfield.html' %} -->
+
+<h1 style="margin-bottom:10px">Ensk-íslensk orðabók (1932), bls. {{ n|safe }}</h1>
+
+<div>
+    {% if n > 1 %}
+    <a href="/page/{{ n - 1 }}">
+        <img src="/static/img/left_arrow.svg" class="pag_arrow pag_left">
+    </a>
+    {% endif %}
+
+    {% if n <= 707 %}
+    <a href="/page/{{ n + 1 }}">
+        <img src="/static/img/right_arrow.svg" class="pag_arrow pag_right">    
+    </a>
+    {% endif %}
+</div>
+
+<div>
+    <a href="/static/img/pages/{{ npad }}.jpg">
+        <img src="/static/img/pages/{{ npad }}.jpg">
+    </a>
+</div>
+
+<br>
+<br>
+<br>
+
+{% endblock %}
