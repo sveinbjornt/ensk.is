@@ -52,6 +52,7 @@ ENWORD_TO_IPA = read_ipa("data/ipa/en_UK.txt")
 
 
 def ipa4entry(s: str) -> Optional[str]:
+    """Look up IPA for word."""
     ipa = ENWORD_TO_IPA.get(s)
     if not ipa and " " in s:
         wipa = s.split()
@@ -70,6 +71,8 @@ def ipa4entry(s: str) -> Optional[str]:
 
 
 def read_all_entries() -> EntryList:
+    """Read all entries from dictionary text files
+    and parse them."""
     r = read_pages()
     entries = []
     for line in r:
@@ -105,13 +108,15 @@ def generate_database(entries: EntryList) -> str:
     add_entries_to_db(entries)
     zipfn = "static/files/ensk_dict.db.zip"
     zip_file(DB_FILENAME, zipfn)
-    return DB_FILENAME
+    return zipfn
 
 
 def generate_csv(entries: EntryList) -> str:
     """Generate zipped CSV file in static/files/. Return file path."""
-    fields = ["word", "definition", "page_num"]
-    filename = "static/files/ensk_dict.csv"
+    fields = ["word", "definition", "ipa", "page_num"]
+    old_cwd = os.getcwd()
+    os.chdir("static/files/")
+    filename = "ensk_dict.csv"
     with open(filename, "w") as csvfile:
         csvwriter = csv.writer(csvfile)
         csvwriter.writerow(fields)
@@ -119,19 +124,23 @@ def generate_csv(entries: EntryList) -> str:
     zipfn = f"{filename}.zip"
     zip_file(filename, zipfn)
     os.remove(filename)
-    return zipfn
+    os.chdir(old_cwd)
+    return f"static/files/{zipfn}"
 
 
 def generate_text(entries: EntryList) -> str:
-    """Generate zipped text files in static/files/. Return file path."""
-    filename = "static/files/ensk_dict.txt"
+    """Generate zipped text file w. all entries in static/files/. Return file path."""
+    old_cwd = os.getcwd()
+    os.chdir("static/files/")
+    filename = "ensk_dict.txt"
     with open(filename, "w") as file:
         for e in entries:
             file.write(f"{e[0]} {e[1]}\n")
     zipfn = f"{filename}.zip"
     zip_file(filename, zipfn)
     os.remove(filename)
-    return zipfn
+    os.chdir(old_cwd)
+    return f"static/files/{zipfn}"
 
 
 def generate_pdf(entries: EntryList) -> str:
@@ -142,7 +151,7 @@ def generate_pdf(entries: EntryList) -> str:
 if __name__ == "__main__":
     """Command line invocation."""
     entries = read_all_entries()
-    #print(entries)
+    # print(entries)
     generate_database(entries)
     generate_csv(entries)
     generate_text(entries)

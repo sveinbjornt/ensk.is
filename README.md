@@ -8,7 +8,7 @@ This repository contains the data files and software for
 [ensk.is](https://ensk.is), a free and open public domain
 online English-Icelandic dictionary.
 
-## Dictionary background
+## Background
 
 The author of the original dictionary, Geir T. Zoega (1857-1928),
 served as an English teacher and later rector at the Learned
@@ -21,6 +21,8 @@ The current version has been heavily edited, updated and fixed in
 accordance with modern Icelandic orthography. Many errors in the
 original text have also been corrected.
 
+The raw dictionary text files are stored in [here](data/dict/).
+
 ## Deployment
 
 Set up Python virtual environment and install dependencies:
@@ -31,7 +33,7 @@ $ source venv/bin/activate
 $ pip install -r requirements.txt
 ```
 
-Build the dictionary data files from plain text source files,
+To build the dictionary data files from plain text source files,
 run the following command:
 
 ```

@@ -441,3 +441,5 @@ cretinism n. kretínismi (meðfæddur galli sem heftir starfsemi skjaldkirtils)
 doppelganger n. tvífari
 citizen n. borgari; ríkisborgari
 citizenship n. ríkisborgararéttur; ríkisfang
+donate s. gefa
+majordomo n. ráðsmaður, yfirmaður; bústjóri

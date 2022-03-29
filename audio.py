@@ -79,7 +79,7 @@ _OUT_FOLDER = "static/audio/dict/"
 
 def synthesize_all() -> None:
     """Read all dictionary words, speech-synthesize each word to
-    AIFF using the macOS speech synthesizer, and convert to MP3."""
+    AIFF using the macOS speech synthesizer, and then convert to MP3."""
     words = read_all_words()
     for w in words:
         aiff_path = synthesize_word(w, dest_folder=_OUT_FOLDER)

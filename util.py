@@ -148,12 +148,12 @@ def zip_file(inpath: str, outpath: str) -> None:
     """Zip a given file, overwrite to destination path."""
     if exists(outpath):
         os.remove(outpath)
-    with zipfile.ZipFile(outpath, "w") as zip_f:
+    with zipfile.ZipFile(outpath, "w", compression=zipfile.ZIP_DEFLATED) as zip_f:
         zip_f.write(inpath)
 
 
 def read_ipa(inpath: str) -> List[List]:
-    """ Read tab-separated file mappping English words to
+    """Read tab-separated file mappping English words to
     their IPA equivalent."""
     d = dict()
     with open(inpath) as file:

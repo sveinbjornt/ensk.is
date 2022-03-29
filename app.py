@@ -47,6 +47,7 @@ from fastapi_cache.backends.memcached import MemcachedBackend
 from fastapi_cache.decorator import cache
 
 from db import EnskDatabase
+from util import read_wordlist
 
 # Website settings
 WEBSITE_NAME = "Ensk.is"
@@ -65,8 +66,11 @@ TemplateResponse = templates.TemplateResponse
 # Initialize database singleton
 e = EnskDatabase()
 
-# Read all entries into memory
+# Read all dictionary entries into memory
 res = e.read_all_entries()
+
+# Read master English word list into memory
+enwords = read_wordlist("data/wordlists/words.txt")
 
 
 def _err(msg: str) -> JSONResponse:
@@ -131,7 +135,10 @@ async def index(request: Request):
 @app.get("/search")
 async def search(request: Request, q: str):
     """Return page with search results for query."""
+    q = q.strip()
     results = _results(q)
+
+    # if q in enwords:
 
     return TemplateResponse(
         "result.html",
