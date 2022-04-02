@@ -60,6 +60,10 @@ def ipa4entry(s: str) -> Optional[str]:
         for wp in wipa:
             lookup = ENWORD_TO_IPA.get(wp)
             if not lookup:
+                lookup = ENWORD_TO_IPA.get(wp.lower())
+            if not lookup:
+                lookup = ENWORD_TO_IPA.get(wp.capitalize())
+            if not lookup:
                 break
             else:
                 lookup = lookup.lstrip("/").rstrip("/")

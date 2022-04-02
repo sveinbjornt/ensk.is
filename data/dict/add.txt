@@ -443,3 +443,27 @@ citizen n. borgari; ríkisborgari
 citizenship n. ríkisborgararéttur; ríkisfang
 donate s. gefa
 majordomo n. ráðsmaður, yfirmaður; bústjóri
+operating system n. stýrikerfi
+user interface n. notendaviðmót, notendaskil
+pull request n. togbeiðni, dráttarbeiðni
+customization n. sérsnið
+trampoline n. trampólín
+stuntman n. áhættuleikari
+compiler n. e-r sem dregur saman (úr ritum); þýðandi (hugbúnaður)
+cardiovascular l. hjarta- og æða-; [cardiovascular system] hjarta- og æðakerfi
+bling n. glingur, skartgripir
+virginal l. meyjar-; ómengaður, tær, hreinn; n. e.k. semball
+telepath n. e-r sem er fjarskyggn
+telepathic l. fjarskyggn, fjarskynjandi
+telepathy n. fjarskyggni, fjarskynjun; hugsanaflutningur
+box-office n. miðasala
+biodiversity n. líffræðileg fjölbreytni, fjölbreytni lífríkis, líffjölbreytni
+bioengineering n. líftækni, lífverkfræði
+bioengineer n. líftæknifræðingur
+confidentiality n. trúnaður
+computation n. útreikningur
+lyrebird n. lýrufugl (e.k. spörfugl)
+porn n. stytting á [pornography]
+natural language processing n. máltækni, málgreining
+guerrilla n. skæruliði
+guerrilla warfare n. skæruhernaður

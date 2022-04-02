@@ -1498,13 +1498,13 @@ porcelain n. postulín
 porch n. forskyggni (við hús); anddyri, fordyri; súlnagöng
 porcine l. svína- ([the ~ species]); líkur svíni, svínslegur
 porcupine (pörkjúpæn) n. broddgöltur, broddsvín
-pore (pör) n. svitahola
-pore (pör) s. stara, blína; [~ over the books] liggja í bókunum, sökkva sér ofan í bækurnar
-pork (pörk) n. svínakjöt, flesk
+pore n. svitahola
+pore s. stara, blína; [~ over the books] liggja í bókunum, sökkva sér ofan í bækurnar
+pork n. svínakjöt, flesk
 porker n. alisvín
 porkling n. grís
 porky l. feitur
-pornography (-grafi) n. klám, klámrit, saurlífisrit
+pornography n. klám, klámrit, saurlífisrit
 porous (pöras) l. holóttur, gljúpur
 porphyry (pörfiri) n. porfýr (steinn)
 porpoise n. hnýsa

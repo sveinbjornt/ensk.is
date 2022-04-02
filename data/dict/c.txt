@@ -568,7 +568,7 @@ chamber n. (svefn)-herbergi; þingdeild, málstofa; [~ counsel] lögfræðilegur
 chamberlain n. herbergjastjóri konungs
 chambermaid n. þjónustustúlka, sem gætir svefnherbergja
 chamberpot n. næturgagn
-chameleon n. kameljón, eðlutegund, sem skiptir mjög litum
+chameleon n. kameljón (eðlutegund, sem skiptir mjög litum)
 chamfer s. hola; gera holrákir á (súlu); höggva (slípa) brún af; n. holrák á súlu
 chamois n. gemsa; þvottleður
 champ s. tyggja, bryðja; bíta í ([the horses ~ed their bits]); n. tuggning, bruðning
@@ -1544,8 +1544,8 @@ competitive l. samkeppnislegur, samkeppnis- ([~ enterprise])
 competitor n. keppinautur
 competitorship n. samkeppni
 competitory l. samkeppnislegur, samkeppnis- ([~ enterprise])
-compilation n. samning bókar (eftir ýmsum ritum); samtíningur, safnrit
-compile s. draga saman (úr ritum); semja (eftir ýmsum ritum)
+compilation n. samning bókar (eftir ýmsum ritum); samtíningur, safnrit; þýðing hugbúnaðarkóða
+compile s. draga saman (úr ritum); semja (eftir ýmsum ritum); þýða hugbúnaðarkóða
 complacence n. velþóknun; sjálfsánægja
 complacency n. velþóknun; sjálfsánægja
 complacent l. ánægður með sjálfan sig; sem lýsir sjálfsánægju
@@ -1740,7 +1740,7 @@ confidante n. trúnaðarkona
 confide s. treysta, reiða sig á ([in]); trúa e-m fyrir e-u; fela e-m e-ð ([to one])
 confidence n. traust, tiltrú; trúnaður ([to speak in ~ to one]); dirfska
 confident l. fullviss; öruggur; djarfur; n. alúðarvinur, trúnaðarmaður
-confidential l. heimullegur, trúnaðar-
+confidential l. trúnaðar-; heimullegur
 confidentially ao. í trúnaði
 configurate s. mynda, laga
 configuration n. myndun, lögun; afstaða (himintungla)
