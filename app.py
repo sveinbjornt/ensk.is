@@ -68,6 +68,7 @@ e = EnskDatabase()
 
 # Read all dictionary entries into memory
 res = e.read_all_entries()
+num_entries = len(res)
 
 # Read master English word list into memory
 enwords = read_wordlist("data/wordlists/words.txt")
@@ -181,7 +182,8 @@ async def files(request: Request):
 async def about(request: Request):
     """About page."""
     return TemplateResponse(
-        "about.html", {"request": request, "title": f"Um - {WEBSITE_NAME}"}
+        "about.html",
+        {"request": request, "title": f"Um - {WEBSITE_NAME}", "num_entries": num_entries},
     )
 
 
