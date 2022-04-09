@@ -93,6 +93,7 @@ guestbook n. gestabók
 holocaust n. helför; [the Holocaust] helförin, þ.e. tortíming Gyðinga í seinni heimsstyrjöld
 masturbate s. fróa sér, runka sér
 masturbation n. sjálfsfróun, runk
+masturbatory l. sjálsfróandi, sjálfsrunkandi
 microphone n. hljóðnemi
 mic n. hljóðnemi (stytting á [microphone])
 mike n. hljoðnemi (stytting á [microphone])
@@ -463,7 +464,8 @@ bioengineer n. líftæknifræðingur
 confidentiality n. trúnaður
 computation n. útreikningur
 lyrebird n. lýrufugl (e.k. spörfugl)
-porn n. stytting á [pornography]
+porn n. klám (óforml. stytting á [pornography])
 natural language processing n. máltækni, málgreining
 guerrilla n. skæruliði
 guerrilla warfare n. skæruhernaður
+neoclassical l. nýklassískur; [neoclassical architecture] nýklassísk byggingarlist
