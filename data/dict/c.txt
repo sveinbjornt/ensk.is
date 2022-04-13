@@ -1603,7 +1603,7 @@ compressible l. samþjappanlegur
 compression n. þrýsting; samþjöppun
 compressive l. sem lýtur að þrýstingu
 compressure n. samþrýsting
-comprise s. innibinda; ná yfir, fela í sér; [the house ~-s 10 rooms] í húsinu eru 10 herbergi
+comprise s. innibinda; ná yfir, fela í sér; [the house ~s 10 rooms] í húsinu eru 10 herbergi
 compromise n. samkomulag; málamiðlun; tilslökun; [make a ~] miðla málum; s. jafna (deilu), sættast á; slaka til; stofna í hættu ([~ one's reputation])
 comptroller n. yfirumsjónarmaður
 compulsion n. nauðung, þvingun
@@ -1619,7 +1619,7 @@ comrade n. félagi, lagsmaður
 comradely l. kumpánalegur
 comradeship n. lagsmennska
 con s. læra (með því að lesa oft); skoða; kanna; svindla, blekkja, svíkja; n. svindl, blekking, svik
-con ao. (stytt úr [contra] á móti); [pro or ~] með eða móti; n. [the pros and ~-s] það sem mælir með og móti
+con ao. (stytt úr [contra] á móti); [pro or ~] með eða móti; n. [the pros and ~s] það sem mælir með og móti
 concatenate s. tengja (hlekkja, skeyta) saman
 concatenation n. samtenging, samskeyting
 concave l. íholur, íhvolfur; n. hvelfing, himinhvelfing

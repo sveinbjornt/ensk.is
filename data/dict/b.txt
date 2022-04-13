@@ -142,7 +142,7 @@ barbed wire n. gaddavír; [barbed wire fence] gaddavírsgirðing
 barbarian l. ósiðaður; n. villimaður
 barbaric l. villimannlegur
 barbarism n. villimennska; menningarleysi; útlent eða óvandað orð
-barbarize s. spilla, spillast
+barbarize s. spilla, spillast; snúa til villimennsku, gera villimannslegan
 barbarity n. villimennska; grimmd, grimmdarverk
 barbarous l. villtur, villimannlegur; grimmúðlegur
 barbarousness n. villimennska; grimmúð
@@ -220,7 +220,7 @@ bass n. bassi (dýpsta karlmannsrödd, eða hljóðfæri)
 bassoon n. básúna (e.k. lúður)
 bast n. bast
 bastard l. óskilgetinn; óekta; n. óskilgetið afkvæmi, bastarður, laungetningur
-bastardize s. lýsa (kalla) e-n laungetinn
+bastardize s. lýsa (kalla) e-n laungetinn, óskilgetinn; spilla með blöndun við e-ð óæðra; úrkynja
 baste s. dýfa (steikarkjöti) í feiti; berja, lemja; staga saman
 bastinado s. berja (á iljarnar) með staf; n. iljastroka
 bastion n. víghyrning; varnarvirki
@@ -1355,7 +1355,7 @@ buttress n. skástoð (við múrvegg); s. styrkja, styðja
 buxom l. fjörugur, glaðlegur; þriflegur
 buy s. kaupa
 buyer n. kaupandi
-buzz s. suða; flögra; n. suða, kliður; kvis
+buzz s. suða; flögra; n. suð, kliður; kvis
 buzzing n. suða (í eyrum)
 buzzard n. músafálki
 by fs. & ao. hjá ([have not got it ~ me]); um ([travel to Prague ~ Dresden]); á (~ night, ~ day); framhjá ([go ~ him]); með ([take ~ force]); af ([written ~]); við; [ten feet ~] four 10 fet á lengd og 4 fet á breidd (eða hæð); [~ the pound] í pundatali; [~ the hundred, ~ hundreds] hundruðum saman; [go ~ ones and twos] einn og tveir í einu; [~ tomorrow] ekki síðar en á morgun; [older ~ two years] tveim árum eldri; [~ name] að nafni; [step ~ step] skref fyrir skref; [~ heart] utanbókar; [~ and ~] bráðum; smámsaman: [~ the by] meðal annara orða; eftir á að hyggja; [~ rights] að réttu lagi, með réttu

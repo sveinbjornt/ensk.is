@@ -282,7 +282,8 @@ superstate n. stórveldi; ríki myndað úr mörgum smærri ríkjum
 stalinist n. stalínisti (fylgismaður stjórnaraðferða Jósefs Stalín); l. stalínskur
 leninist n. lenínisti (fylgismaður hugmyndafræði Vladimírs Lenín); l. lenínskur
 conglomeration n. samsteypa
-conglomerate n. samsteypa; s. steypa saman; l. [conglomerated] samsteyptur, samsettur
+conglomerate n. samsteypa; s. steypa saman
+conglomerated l. samsteyptur, samsettur
 cinema n. kvikmyndahús, bíó; kvikmyndalistin
 entertainment industry n. skemmtanabransinn, afþreyingarbransinn
 calculus n. stærðfræðigreining, diffur- og tegurreikningur, reiknivísi, örsmæðareikningur; tannsteinn
@@ -290,7 +291,7 @@ recession n. kreppa; samdráttur, afturdráttur (sjá [recede])
 respectability n. virðugleiki; velsæmi
 shakedown n. fjárkúgun
 stereotype n. staðalímynd, staðalmynd
-sleazy l. subbulegur, ógeðfelldur
+sleazy l. subbulegur, ógeðfelldur, siðferðislega vafasamur
 vibrator n. titrari
 witchcraft n. nornafár, fjölkynngi, galdrar
 smug l. sjálfumglaður, sjálfsánægður
@@ -452,7 +453,7 @@ trampoline n. trampólín
 stuntman n. áhættuleikari
 compiler n. e-r sem dregur saman (úr ritum); þýðandi (hugbúnaður)
 cardiovascular l. hjarta- og æða-; [cardiovascular system] hjarta- og æðakerfi
-bling n. glingur, skartgripir
+bling n. glingur, skartgripir (óforml.)
 virginal l. meyjar-; ómengaður, tær, hreinn; n. e.k. semball
 telepath n. e-r sem er fjarskyggn
 telepathic l. fjarskyggn, fjarskynjandi
@@ -469,3 +470,18 @@ natural language processing n. máltækni, málgreining
 guerrilla n. skæruliði
 guerrilla warfare n. skæruhernaður
 neoclassical l. nýklassískur; [neoclassical architecture] nýklassísk byggingarlist
+basic l. grundvallar-, undirstöðu- ([~ principles]); basískur (efnafr.)
+hyponym n. undirheiti ([crow is a hyponym of bird])
+hypernym n. yfirheiti ([bird is a hypernym of crow])
+antonym n. andheiti ([dead is the antonym of alive])
+update s. uppfæra; n. uppfærsla; [software update] hugbúnaðaruppfærsla
+updated l. uppfærður
+upgrade s. uppfæra; n. uppfærsla
+upgraded l. uppfærður
+insurgency n. uppreisn
+hypertension n. háþrýstingur; óvenjulega hár blóðþrýstingur
+hyperventilate s. anda of hratt
+hyperventilation n. oföndun
+hyperactive l. ofvirkur
+hyperactivity n. ofvirkni
+upholstery n. bólstrun
