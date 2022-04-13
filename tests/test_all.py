@@ -34,6 +34,9 @@
 
 """
 
+from util import read_all_words
+
 
 def test_something():
-    pass
+    # Read and parse all definitions lines in text files
+    read_all_words()
