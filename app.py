@@ -47,7 +47,8 @@ from fastapi_cache.backends.memcached import MemcachedBackend
 from fastapi_cache.decorator import cache
 
 from db import EnskDatabase
-from util import read_wordlist
+from util import read_wordlist, read_pages
+
 
 # Website settings
 WEBSITE_NAME = "Ensk.is"
@@ -91,11 +92,11 @@ def _results(q: str, exact_match: bool = False) -> List:
             w = k["word"]
             x = k["definition"]
             p = k["page_num"]
-            x = x.replace("[", "<em>")
+            x = x.replace("[", "<em>")  # Italicize English words
             x = x.replace("]", "</em>")
-            x = x.replace("~", k["word"])
+            x = x.replace("~", w)  # Replace ~ symbol with English word
             # x = re.sub(r"\(.+?\)\s", " ", x, 1)
-            wfnfixed = w.replace(" ", "_")
+            wfnfixed = w.replace(" ", "_")  # Fix filename f. audio file
             audio_url = f"/static/audio/dict/{wfnfixed}.mp3"
             ipa = k.get("ipa") or ""
             results.append({"w": w, "x": x, "i": ipa, "p": p, "a": audio_url})
@@ -183,7 +184,11 @@ async def about(request: Request):
     """About page."""
     return TemplateResponse(
         "about.html",
-        {"request": request, "title": f"Um - {WEBSITE_NAME}", "num_entries": num_entries},
+        {
+            "request": request,
+            "title": f"Um - {WEBSITE_NAME}",
+            "num_entries": num_entries,
+        },
     )
 
 
@@ -194,6 +199,18 @@ async def all(request: Request):
     return TemplateResponse(
         "all.html",
         {"request": request, "title": f"Öll orðin - {WEBSITE_NAME}", "results": res},
+    )
+
+
+@app.get("/additions")
+# @cache(expire=86400)
+async def additions(request: Request):
+    """Page with links to all words that are additions to the original dictionary."""
+    add = read_pages(fn="add.txt")
+
+    return TemplateResponse(
+        "additions.html",
+        {"request": request, "title": f"Viðbætur - {WEBSITE_NAME}", "results": res},
     )
 
 

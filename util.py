@@ -34,7 +34,7 @@
 """
 
 
-from typing import List, Tuple
+from typing import List, Tuple, Optional, Dict
 
 import os
 import json
@@ -43,7 +43,7 @@ import csv
 from os.path import exists
 
 
-def read_pages() -> List[str]:
+def read_pages(fn: Optional[str] = None) -> List[str]:
     """Read all text files in the data/dict directory,
     return as single list of all lines."""
 
@@ -52,6 +52,8 @@ def read_pages() -> List[str]:
     result = []
 
     for file in files:
+        if fn and file != fn:
+            continue
         fp = os.path.join(base_path, file)
         if os.path.isfile(fp) == False:
             continue
@@ -152,9 +154,9 @@ def zip_file(inpath: str, outpath: str) -> None:
         zip_f.write(inpath)
 
 
-def read_ipa(inpath: str) -> List[List]:
+def read_ipa(inpath: str) -> Dict[str, str]:
     """Read tab-separated file mappping English words to
-    their IPA equivalent."""
+    their International Phonetic Alphabet equivalent."""
     d = dict()
     with open(inpath) as file:
         tsv_file = csv.reader(file, delimiter="\t")

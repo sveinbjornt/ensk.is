@@ -21,7 +21,7 @@ The current version has been heavily edited, updated and fixed in
 accordance with modern Icelandic orthography. Many errors in the
 original text have also been corrected.
 
-The raw dictionary text files are stored in [here](data/dict/).
+The raw dictionary text files are stored [here](data/dict/).
 
 ## Deployment
 
