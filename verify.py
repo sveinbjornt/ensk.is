@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 
-    Ensk.is - English-Icelandic dictionary
-    
+    Ensk.is - Free and open English-Icelandic dictionary
+
     Copyright (c) 2022, Sveinbjorn Thordarson <sveinbjorn@sveinbjorn.org>
     All rights reserved.
 

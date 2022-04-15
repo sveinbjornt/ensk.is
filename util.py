@@ -141,8 +141,7 @@ def page_for_word(w: str) -> int:
     global WORD_TO_PAGE
     if not WORD_TO_PAGE:
         with open("data/word2page.json", "r") as file:
-            data = file.read()
-            WORD_TO_PAGE = json.loads(data)
+            WORD_TO_PAGE = json.loads(file.read())
     return WORD_TO_PAGE.get(w, 0)
 
 
@@ -155,7 +154,7 @@ def zip_file(inpath: str, outpath: str) -> None:
 
 
 def read_ipa(inpath: str) -> Dict[str, str]:
-    """Read tab-separated file mappping English words to
+    """Read tab-separated file mapping English words to
     their International Phonetic Alphabet equivalent."""
     d = dict()
     with open(inpath) as file:
