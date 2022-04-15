@@ -160,8 +160,8 @@ negligible l. lítilfjörlegur ([~ quantity])
 negotiable l. umsemjanlegur; seljanlegur (um verðbréf)
 negotiate s. semja (við e-n um e-ð [with one for something]); fá (e-u) framgengt; selja (um verðbréf)
 negotiation n. samningur; samningstilraun; [enter into ~ with] fara að semja við e-n
-negotiator (nigó'shieitar) n. samningamaður; umsækjandi; kaupandi og seljandi; milligöngumaður
-negress (nígris) n. svertingjastúlka
+negotiator n. samningamaður; umsækjandi; kaupandi og seljandi; milligöngumaður
+negress n. svertingjastúlka
 negro n. blökkumaður, blámaður
 negus n. heit vínblanda
 neigh s. hneggja; n. hnegg
@@ -171,7 +171,7 @@ neighbourhood n. nábýli; nágrenni, grennd; nábúar; [in the ~ of] nálægt; 
 neighbouring l. nærliggjandi, nálægur
 neighbourly l. nágrannalegur, nábúalegur; vingjarnlegur
 neither l. hvorugur ([~ of them knows]); st. hvorki; (og) ekki heldur ([if you do not go, ~ shall I]); [~ ... nor] hvorki ... né
-nemesis n. hefninorn; hefnd, makleg málagjöld
+nemesis n. hefninorn; andstæðingur; hefnd, makleg málagjöld
 neo- fsk. ný-
 neologism (níoll'ödzhiz'm) n. nýyrði, nýgervingur; ný kenning
 neology (níoll'ödzhi) n. nýyrði, nýgervingur; ný kenning
@@ -196,14 +196,14 @@ nestling (nestlÍN) n. fuglsungi í hreiðri
 net (nett) n. net; s. ríða (net); veiða í net; leggja net yfir; umlykja með neti
 network n. net; [a ~ of railways] járnbrautanet
 net l. hreinn, óblandaður; sem eftir er að frádregnum umbúðum eða kostnaði ([~ profit]); [~ price] lægsta verð; s. græða (að frádregnum kostnaði); hafa (gefa) í hreinan ábata
-nether (neððor) l. neðri, niður-; ([~ lip, ~ jaw]); [~ regions] neðri byggðir, víti
+nether l. neðri, niður-; ([~ lip, ~ jaw]); [~ regions] neðri byggðir, víti
 nethermost l. neðstur
-nettle (net'I) n. netla, brenninetla; s. brenna með brenninetlu; móðga, erta
-neural (njúral) l. tauga-
-neuralgia (-al'dzhia) n. taugaverkur
-neuter (njútar) l. sem er með hvorugum, hlutlaus ([to stand ~]); (í málfræði) hvorugkyns; n. hvorugkyn
-neutral (njútral) l. sem er með hvorugum, hlutlaus; n. hlutleysingi
-neutrality (njútrall'iti) n. hlutleysi
+nettle n. netla, brenninetla; s. brenna með brenninetlu; móðga, erta
+neural l. tauga-
+neuralgia n. taugaverkur
+neuter l. sem er með hvorugum, hlutlaus ([to stand ~]); (í málfræði) hvorugkyns; n. hvorugkyn
+neutral l. sem er með hvorugum, hlutlaus; n. hlutleysingi
+neutrality n. hlutleysi
 neutralize s. gera hlutlaust (skaðlaust, áhrifalaust), ónýta ([~ the effect of])
 never ao. aldrei ([~ before, since, after]); alls ekki ([~ mind, ~ fear]); [~ more] aldrei framar; [~ so] hversu sem; [let him be ~ so rich] hversu ríkur sem hann er; [~ to be forgotten] ógleymanlegur
 never-ceasing l. þrotlaus
@@ -259,8 +259,8 @@ niggardly l. svíðinglegur, nískur; ao. svíðinglega
 nigger n. blökkumaður
 niggle n. dund, nostur; pár; s. dunda (við e-ð [at]); [~ along] fara hægt áfram
 niggling n. nostursemi; vöndun; l. smásmuglegur
-nigh (næ) l. nálægur; ao. nálægt, nærri því; [well ~] hartnær
-night (næt) n. nótt; kvöld; [make/have a ~ of it] eyða nóttinni (kvöldinu) í glaumi og gleði; [the ~ before last] í fyrra kvöld; [to ~] í kvöld; [last ~] í gærkvöldi; [at ~] á kvöldin; á nóttunni; [by ~] á nóttu; [in the ~] á nóttunni
+nigh l. nálægur; ao. nálægt, nærri því; [well ~] hartnær
+night n. nótt; kvöld; [make/have a ~ of it] eyða nóttinni (kvöldinu) í glaumi og gleði; [the ~ before last] í fyrra kvöld; [to ~] í kvöld; [last ~] í gærkvöldi; [at ~] á kvöldin; á nóttunni; [by ~] á nóttu; [in the ~] á nóttunni
 nightblind l. náttblindur
 nightfall n. kvöldkoma, dagsetur
 nightjar n. nátthrafn
@@ -295,41 +295,41 @@ nineteen l. nítján; ([twice ~ is 38])
 nineteenth l. nítjándi
 ninetieth l. nítugasti
 ninety l. níutíu
-ninny (ninni) n. auli, kjáni
-ninth (nænþ) l. níundi; n. níund
+ninny n. auli, kjáni
+ninth l. níundi; n. níund
 ninthly ao. í níunda lagi
 nip s. klípa; klípa (slíta, skera) af; skemma, deyða (um frost); láta kala; [~ in the bud] kyrkja í fæðingu; n. klíping; lítið stykki; skemmd; kal
 nipper n. framtönn í hesti; vasaþjófur
 nippers n. ft. töng; [a pair of nippers] tangir
 nipping l. napur ([~ weather, wind])
-nipple (nip'l) n. geirvarta, brjóstvarta, speni
-nirvana (narvá'na) n. algleymisástand Búddatrúarmanna
-nit (nitt) n. nit (í hári)
+nipple n. geirvarta, brjóstvarta, speni
+nirvana n. algleymisástand Búddatrúarmanna
+nit n. nit (í hári)
 nitty l. fullur af nit, nitugur
-nitid (nittid) l. bjartur, gljáandi
-nitrate (nætreit) n. nítrat (saltpéturssúrt salt)
-nitre (nætar) n. saltpétur
+nitid l. bjartur, gljáandi
+nitrate n. nítrat (saltpéturssúrt salt)
+nitre n. saltpétur
 nitric acid n. saltpéturssýra
-nitrogen (nætrödzhen) n. nitur, köfnunarefni
-nitrous (nætras) l. saltpéturskenndur ([~ water, salt])
-no (nó) ao. nei; ekki; [whether or not] hvort eða ekki; [~ more] ekki meira; ekki framar; l. enginn; [in ~ time] á svipstundu; [~ one] enginn
-nob (nobb) n. kollur, haus; stórborgari; s. slá e-n á höfuðið
+nitrogen n. nitur, köfnunarefni
+nitrous l. saltpéturskenndur ([~ water, salt])
+no ao. nei; ekki; [whether or not] hvort eða ekki; [~ more] ekki meira; ekki framar; l. enginn; [in ~ time] á svipstundu; [~ one] enginn
+nob n. kollur, haus; stórborgari; s. slá e-n á höfuðið
 nobility n. ættgöfgi; göfugmenni, aðall, aðalsstétt (þar til heyra [duke, marquess, earl, viscount og baron]); göfuglyndi
 noble l. göfugur, ættgöfugur; aðallegur; göfuglyndur; ágætur, frábær; n. göfugmenni, aðalsmaður
 nobleman n. aðalsmaður
 noble-minded (mændid) l. göfuglyndur
 nobleness n. göfugleiki, göfuglyndi, tign
-nobly (nóbli) ao. göfuglega; [~ born] af göfugum ættum
-noblesse (nobless') n. göfugleiki ([~ of thought]); göfugmenni, aðall
-nobody (nóboddi) n. enginn
+nobly ao. göfuglega; [~ born] af göfugum ættum
+noblesse n. göfugleiki ([~ of thought]); göfugmenni, aðall
+nobody n. enginn
 nock n. skora; s. gera skoru í
-nocturnal (noktör'nal) l. næturlegur, nætur- ([~ predator])
-nod (nodd) s. hneigja höfuðið; kinka kolli; dotta; [~ approbation] láta í ljós samþykki sitt með því því að hneigja höfuðið; n. hneiging ([a ~ of the head]); dott ([a sleepy ~]); bending ([they watched his ~])
-noddle (nod'l) n. haus, kollur; s. hneigja (höfuðið) ótt og titt, kinka kolli ([~ the head])
-noddy (noddi) n. auli, flón; hafsúla
-node (nód) n. hnútur, hnúður
-nodose (nödós') l. hnútóttur, hnýttur
-nodular (nódjúlar) l. hnútmyndaður
+nocturnal l. næturlegur, nætur- ([~ predator])
+nod s. hneigja höfuðið; kinka kolli; dotta; [~ approbation] láta í ljós samþykki sitt með því því að hneigja höfuðið; n. hneiging ([a ~ of the head]); dott ([a sleepy ~]); bending ([they watched his ~])
+noddle n. haus, kollur; s. hneigja (höfuðið) ótt og titt, kinka kolli ([~ the head])
+noddy n. auli, flón; hafsúla
+node n. hnútur, hnúður
+nodose l. hnútóttur, hnýttur
+nodular l. hnútmyndaður
 nodule n. hnúður, lítill kökkur
 nog n. trénagli
 noggin n. lítill bikar, staup ([a ~ of whisky])

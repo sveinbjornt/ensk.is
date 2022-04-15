@@ -275,16 +275,16 @@ participate s. taka þátt í
 participation n. hluttekning
 participator n. þátttakandi, hluttakandi
 participle n. hluttaksorð
-particle n. ögn, snefill
+particle n. ögn, snefill; eind, öreind (eðlisfr.)
 particular l. sérstakur ([for no ~ reason]); einkennilegur; áriðandi; nákvæmur; vandfýsinn (um e-ð about); n. einstakt atriði; atvik; [in ~] einkum; [in that ~] í því efni; [relate in ~s] segja nákvæmlega frá
 particularism n. útilokunarstefna; sérstæðisstefna
 particularity n. einstakt atvik; einkenni
 particularize s. nefna sérstaklega; fara út í einstök atriði; sundurliða
 particularly ao. sérstaklega; nákvæmlega; einkum
-parting (pártÍN) n. skilnaður, kveðja; burtför; skipting (hársins); [~ words] skilnaðarorð
-partisan (pártizan) n. flokksmaður, fylgismaður
-partisanship n. flokksfylgi
-partition (pártish'an) n. skipting, skilrúm, milliveggur; s. þilja í sundur, afhólfa; skipta í sundur
+parting n. skilnaður, kveðja; burtför; skipting (hársins); [~ words] skilnaðarorð
+partisan n. flokksmaður, fylgismaður; skæruliði; l. flokks-; [partisan politics] flokkastjórnmál
+partisanship n. flokksfylgi, flokkshollusta
+partition n. skipting, skilrúm, milliveggur; s. þilja í sundur, afhólfa; skipta í sundur
 partitive l. skiptandi, skipti-; sem táknar hluta úr heild ([~ genitive])
 partly (pártli) ao. sumpart, að nokkru (sumu) leyti ([~ in writing and ~ in print])
 partner (pártnar) n. félagi; hluttakandi; mótspilari ([~ at cards])
