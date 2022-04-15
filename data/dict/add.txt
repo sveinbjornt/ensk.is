@@ -488,6 +488,9 @@ upholstery n. bólstrun
 hagiography n. dýrlingasaga
 hagiographer n. dýrlingasöguritari
 hagiographical l. dýrlingasögulegt
+volcanology n. eldfjallafræði
+volcanological l. eldfjallafræðilegur
+volcanologist n. eldfjallafræðingur
 electron n. rafeind
 electronic l. rafrænn, raftæknilegur, raftækni-; rafeinda-
 electronics n. ft. raftækni, rafeindatækni; rafeindabúnaður
@@ -498,3 +501,9 @@ proton n. róteind
 meson n. miðeind
 photon n. ljóseind
 elementary particle n. öreind
+neonate n. nýburi
+boulevard n. breiðstræti
+reconstruction n. endurbygging, enduruppbygging
+vocational l. starfs-, fag-, iðn- ([vocational training]); köllunar-
+entrepreneur n. frumkvöðull, athafnamaður
+screensaver n. skjávari

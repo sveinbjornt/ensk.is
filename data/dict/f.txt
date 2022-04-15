@@ -516,9 +516,9 @@ firth n. fjörður, flói
 fisc n. ríkissjóður
 fiscal l. sem lýtur að ríkissjóði eða ríkistekjum; fjárhagslegur; [~ year] fjárhagsár; n. ríkisfjárstjóri; ríkissaksóknari (á Ítalíu, Spáni og í Portúgal)
 fish n. fiskur; s. fiska, veiða fisk; veiða upp
-fishbone n. fisk-bein
-fish breeding n. fiska-klak
-fish culture n. fiska-klak
+fishbone n. fiskbein
+fish breeding n. fiskaklak
+fish culture n. fiskaklak
 fisher n. fiskimaður
 fisherman n. fiskimaður
 fisherboat n. fiskibátur
@@ -1072,12 +1072,12 @@ framer (freimar) n. upphafsmaður, höfundur
 framework n. grind; sokkavefnaður
 franc (fraNk) n. franki (peningamynt)
 franchise n. einkaréttur; kosningarréttur ([elective ~]); undanþága; s. sjá [enfranchise]
-Franciscan (-sis'kan) n. grámunkur
-frangible (frándzhib'l) l. auðbrotinn, brjótanlegur
-frank (fráNk) l. hreinskilinn, einarður; falslaus; s. senda (bréf) póstgjaldslaust; flytja e-n ókeypis; n. bréf, sem eigi þarf að borga undir
+Franciscan n. grámunkur
+frangible l. auðbrotinn, brjótanlegur
+frank l. hreinskilinn, einarður; falslaus; s. senda (bréf) póstgjaldslaust; flytja e-n ókeypis; n. bréf, sem eigi þarf að borga undir
 frankly ao. hreinskilnislega
 frankness n. hreinlyndi, hreinskilni
-frankincense (fráNkinsans) n. reykelsi
+frankincense n. reykelsi
 Frankish l. forn-franskur
 franklin n. óðalsbóndi
 Frank n. Forn-Frakki
@@ -1249,52 +1249,52 @@ frying-pan n. steikarpanna
 fuchsia n. fúksia (jurt)
 fuddle s. drekka, þjóra; gera kenndan, ölvaðan
 fuddled l. ölvaður
-fudge (f0dzh) n. bull; lygasaga
-fuel (fjúal) n. eldsneyti, eldiviður; s. bera eldsneyti að, birgja að eldsneyti; glæða
+fudge n. bull; lygasaga
+fuel n. eldsneyti, eldiviður; s. bera eldsneyti að, birgja að eldsneyti; glæða
 fuff n. gustur, blástur; vonska; [get into ~] verða reiður; s. blása
-fugacious (fjúgei'shas) l. hverfull; roksamur
+fugacious l. hverfull; roksamur
 fugaciousness n. roksemi
 fugacity n. hverfulleiki, óstöðugleiki
-fugitive (fjúdzhitiv) l. hverfull, óstöðugur; sem upplitast fljótt (um liti); flýjandi; n. strokumaður, flóttamaður; útlagi
-fugleman (fjúg'lman) n. hermaður sem er fremstur í fylkingu
-fugue (fjúg) n. fúga (í hljómlist)
-fulcrum (fplkram) n. veltuás
-fulfil (fúlfiíl') s. fullgera; efna, enda (loforð); láta rætast; uppfylla (bæn, ósk); [to be ~led] ganga eftir, rætast
+fugitive l. hverfull, óstöðugur; sem upplitast fljótt (um liti); flýjandi; n. strokumaður, flóttamaður; útlagi
+fugleman n. hermaður sem er fremstur í fylkingu
+fugue n. fúga (í tónlist)
+fulcrum n. veltuás
+fulfil s. fullgera; efna, enda (loforð); láta rætast; uppfylla (bæn, ósk); [to be ~led] ganga eftir, rætast
 fulfilment n. efnd; fylling; uppfylling
 fulgent (fpldzhant) l. ljómandi, bjartur
-fulgid (fpldzhid) l. glampandi, skínandi
+fulgid l. glampandi, skínandi
 fulgor n. ljómi
 fulgour n. ljómi
-fulgural (fplgaral) l. sem lýtur að eldingum; [~ divination] spádómar af eldingum
+fulgural l. sem lýtur að eldingum; [~ divination] spádómar af eldingum
 fulgurant l. leiftrandi
-fuliginous (fjúlid'zhinos) l. sótugur, reykugur; dimmur
-full (fúll) l. fullur; saddur; fullger, fullkominn; þriflegur; bústinn ([~ in the face]); [~ brother, sister] albróðir, alsystir; [~ rehearsal] aðalæfing leikrits; [(at) ~ speed] með fullri ferð; [~ of days, years] saddur lífdaga; [~ summer] hásumar; [~ stop] punktur; [~ age] fullveðja aldur; ao. fullt, fyllilega; alveg; [he looked me ~ in the face] beint framan í mig; [~ many times] næsta oft; n. fylling (tunglsins); fullt tungl ([the ~ of the moon]); [in ~] með fullum stöfum; til fullnustu; [to pay in ~] borga allt að fullu; [to the ~] til fulls, alveg
+fuliginous l. sótugur, reykugur; dimmur
+full l. fullur; saddur; fullger, fullkominn; þriflegur; bústinn ([~ in the face]); [~ brother, sister] albróðir, alsystir; [~ rehearsal] aðalæfing leikrits; [(at) ~ speed] með fullri ferð; [~ of days, years] saddur lífdaga; [~ summer] hásumar; [~ stop] punktur; [~ age] fullveðja aldur; ao. fullt, fyllilega; alveg; [he looked me ~ in the face] beint framan í mig; [~ many times] næsta oft; n. fylling (tunglsins); fullt tungl ([the ~ of the moon]); [in ~] með fullum stöfum; til fullnustu; [to pay in ~] borga allt að fullu; [to the ~] til fulls, alveg
 full-blown l. alútsprunginn
-full-dressed (-drest) l. skrautbúinn
+full-dressed l. skrautbúinn
 full-grown l. fullvaxta; fullorðinn
 full-hearted l. hugprúður; einlægur; gerður af alhuga
 fullish l. fremur þykkur
 fully ao. fyllilega, algerlega
-full (fúll) s. þæfa
+full s. þæfa
 fuller n. þófari
 fuller's earth n. þófaraleir
 fullery n. þófarahús
 fulling n. þæfing, þóf
 fulling mill n. þófaramylna
-fulmar (fúlmar) n. fýlungur
-fulminant (f0l-) l. þrumandi
-fulminate (fþlmineit) s. þruma, drynja, gera hvell; bannfæra
+fulmar n. fýlungur
+fulminant l. þrumandi
+fulminate s. þruma, drynja, gera hvell; bannfæra
 fulmination n. hvellur; bannfæring
-fulness (fúllnis) n. fylling; gnótt
-fullness (fúllnis) n. fylling; gnótt
-fulsom (f0lsom) l. klígjulegur, væminn, viðbjóðslegur ([~ flattery])
-fumble (f0mb'l) s. fálma (eftir e-u [for, after]); fitla við e-ð ([~ with]); [~ one's way] þreifa sig áfram
+fulness n. fylling; gnótt
+fullness n. fylling; gnótt
+fulsom l. klígjulegur, væminn, viðbjóðslegur ([~ flattery])
+fumble s. fálma (eftir e-u [for, after]); fitla við e-ð ([~ with]); [~ one's way] þreifa sig áfram
 fumbler n. bögubósi, klaufi
-fume (fjúm) n. reykur, gufa; [in a ~] fokvondur; s. rjúka; gufa upp; hamast (af reiði)
-fumigate (fjúmigeit) s. hleypa reyk á eða í (til að eyða sóttnæmi); svala; reykja
+fume n. reykur, gufa; [in a ~] fokvondur; s. rjúka; gufa upp; hamast (af reiði)
+fumigate s. hleypa reyk á eða í (til að eyða sóttnæmi); svala; reykja
 fumigation n. svæling, reyking; gufa
-fumy (fjúmi) l. rjúkandi; reykkenndur
-fun (f0nn) n. gaman, skemmtun; [to make ~ of, poke ~ at (a person)] gera gys að; [in ~] í gamni; s. gera að gamni sínu
+fumy l. rjúkandi; reykkenndur
+fun n. gaman, skemmtun; [to make ~ of, poke ~ at (a person)] gera gys að; [in ~] í gamni; s. gera að gamni sínu
 funambulist n. línudansari
 function (f0Nkslian) n. starf, ætlunarverk; embætti; s. reka starf sitt, starfa
 functional l. embættislegur; starfslegur
@@ -1305,73 +1305,73 @@ fundamental l. sem er grundvöllurinn undir e-u ([to]); grundvallar-; undirstö�
 fundamentally ao. í grundvallaratriðum; upprunalega, frá upphafi; gjörsamlega
 funeral n. útför, jarðarför; greftrun; l. greftrunar-, útfarar-; [~ sermon] líkræða
 funereal l. útfarar- ([we marched at a ~ pace]); sorglegur; skuggalegur
-fungal (fpngal) l. sveppkynjaður, svepp-
-fungous (f0n-gas) l. sveppkynjaður, svepp-
-fungus (fpxgas) n. sveppur
-funk (£0Nk) n. hræðsla; högg: s. hrökkva undan af ótta; forðast; vera hræddur við e-n; skelfa, hræða
-funnel (f0nnal) n. trekt; reykháfur; s. blása ódaun á e-n; reykja; rjúka; gera ódaun
-funny (f0nni) l. fyndinn, skrítinn, skringilegur, hlægilegur
-fur (för) n. loðskinn, feldur; skóf (á tungu); skinnavara; s. brydda, fóðra með skinni; klæða í loðskinn; l. úr loðskinni, loðskinns-
-furbelow (förbiló) n. leggingar; bryddingar (á kjól eða pilsi); s. skreyta með leggingum
-furbish (förbish) s. fægja, fága ([~ up])
+fungal l. sveppkynjaður, svepp-
+fungous l. sveppkynjaður, svepp-
+fungus n. sveppur
+funk n. hræðsla; högg: s. hrökkva undan af ótta; forðast; vera hræddur við e-n; skelfa, hræða
+funnel n. trekt; reykháfur; s. blása ódaun á e-n; reykja; rjúka; gera ódaun
+funny l. fyndinn, skrítinn, skringilegur, hlægilegur
+fur n. loðskinn, feldur; skóf (á tungu); skinnavara; s. brydda, fóðra með skinni; klæða í loðskinn; l. úr loðskinni, loðskinns-
+furbelow n. leggingar; bryddingar (á kjól eða pilsi); s. skreyta með leggingum
+furbish s. fægja, fága ([~ up])
 furbisher n. fágari
 furbishment n. fágun
-furcate (förkeit) s. kvíslast
+furcate s. kvíslast
 furcated l. kvíslaður
 furcation n. kvíslun; kvísl
-furfur (förfar) n. sáðir; flasa, hreistur (af húðinni)
-furfuraceous (-ei'shas) l. líkur sáðum
+furfur n. sáðir; flasa, hreistur (af húðinni)
+furfuraceous l. líkur sáðum
 furfurous l. líkur sáðum
-furious (fjúrias) l. ofsalegur ([~ gale]); æðislegur; óður (af reiði); hamstola
+furious l. ofsalegur ([~ gale]); æðislegur; óður (af reiði); hamstola
 furiousness n. ofsi, æði
-furl (förl) s. brjóta saman; [~ the sails] festa segl (við rá eða siglu); vefjast, hringast
-furlong (förloN) n. 108 faðmar (1/8 úr enskri mílu)
-furlough (förló) n. heimfararleyfi; s. veita (hermanni) heimfararleyfi
-furnace (förnis) n. stór ofn, bræðsluofn; bökunarofn
-furnish (förnish) s. útbúa; útvega, láta í té, leggja til; búa að húsgögnum
+furl s. brjóta saman; [~ the sails] festa segl (við rá eða siglu); vefjast, hringast
+furlong n. 108 faðmar (1/8 úr enskri mílu)
+furlough n. heimfararleyfi; s. veita (hermanni) heimfararleyfi
+furnace n. stór ofn, bræðsluofn; bökunarofn
+furnish s. útbúa; útvega, láta í té, leggja til; búa að húsgögnum
 furnishment n. útbúnaður
-furor (fjúrör) n. ofsi, æði
-furrier (fprriar) n. loðskinnasali; skinnaskraddari
-furrow (f0rró) n. plógfar; hrukka (í andliti); skora; s. setja skorur eða hrukkur á; plægja
+furor n. ofsi, æði
+furrier n. loðskinnasali; skinnaskraddari
+furrow n. plógfar; hrukka (í andliti); skora; s. setja skorur eða hrukkur á; plægja
 furrowly l. hrukkóttur
-furry (föri) l. klæddur í loðskinn; loðskinns- ([~ coat])
-further (förðar) l. fjarlægari; frekari, meiri; ao. lengra (burtu); meir; enn fremur; s. auka, efla
+furry l. klæddur í loðskinn; loðskinns- ([~ coat])
+further l. fjarlægari; frekari, meiri; ao. lengra (burtu); meir; enn fremur; s. auka, efla
 furtherance n. efling
 furtherer n. eflari, stuðningsmaður
 furthermore ao. enn fremur, þar að auki
 furthermost l. fjarlægastur, ystur
 furthersome l. gagnlegur
 furthest l. fjarlægastur; síðastur; [at (the) ~] í seinasta lagi; ao. lengst í burtu
-furtive (förtiv) l. stolinn, hnuplaður; leynilegur; stelvís, þjófóttur
+furtive l. stolinn, hnuplaður; leynilegur; stelvís, þjófóttur
 furtively ao. leynilega, í laumi
-furuncle (fjúrpNk'l) n. kýli
-furuncular (fjúrpN'kjúlar) l. kýlis-
+furuncle n. kýli
+furuncular l. kýlis-
 fury n. æði, ofsi; refsinorn, kvenskass ([female ~])
 furze n. jurtarheiti
 furzy l. vaxinn furze; daufur, óskýr
-fuse (fjúz) s. bræða; steypa (sjóða) saman; vaxa saman; bráðna; n. tundurpípa (í sprengikúlu), sprengiþráður
+fuse s. bræða; steypa (sjóða) saman; vaxa saman; bráðna; n. tundurpípa (í sprengikúlu), sprengiþráður
 fusee n. sjá [fuse]; spinnill (í úri); kveikispýta; létt byssa ([fusil])
 fusibility n. bræðanleiki
-fusible (fjúzib'l) l. bræðanlegur
-fusil (fjúzil) n. létt byssa
-fusile (fjúzil) l. bræðanlegur; bráðinn; steyptur ([~ types])
-fusilier (fjúzilír') n. léttvopnaður fótgönguliðsmaður
-fusilade (fjúzileid') n. skothríð; s. skjóta niður
+fusible l. bræðanlegur
+fusil n. létt byssa
+fusile l. bræðanlegur; bráðinn; steyptur ([~ types])
+fusilier n. léttvopnaður fótgönguliðsmaður
+fusilade n. skothríð; s. skjóta niður
 fusion (fjúzhan) n. bræðsla; fljótandi ástand; samsteypa, samsuða
 fusionist n. samsteypumaður
-fuss (f0ss) n. hávaði, gauragangur, mikil læti; s. gera mikil læti ([make a ~ about])
+fuss n. hávaði, gauragangur, mikil læti; s. gera mikil læti ([make a ~ about])
 fussy l. sem gerir mikil læti (út af litlu efni); gera óróafullan
-fustian (fpstjan) n. e.k. þéttofinn baðmullardúkur; orðagjálfur ([~ language]); l. íburðarmikill
-fustic (fpstilc) n. gulur viður (litur)
-fustigate (fpstigeit) s. berja lemja
+fustian n. e.k. þéttofinn baðmullardúkur; orðagjálfur ([~ language]); l. íburðarmikill
+fustic n. gulur viður (litur)
+fustigate s. berja, lemja
 fustigation n. barsmíð
-fustiness (f0sti-) n. mygla, myglulykt
-fusty (f0sti) l. myglaður
+fustiness n. mygla, myglulykt
+fusty l. myglaður
 futile l. fánýtur, gagnslaus, árangurslaus
-futility (fjútill'iti) n. gagnsleysi, fánýti, árangursleysi
+futility n. gagnsleysi, fánýti, árangursleysi
 futilize s. gera fánýtt
-future (fjútjar) l. ókominn, óorðinn; [a ~ state, life] annað líf; n. framtíð; ókomin tíð; [for the ~] framvegis
-futurity (fjútjú'-riti) n. ókomin tíð, ókomnir tímar ([to inquire into the ~]); óorðinn viðburður; [in ~] héðan í frá
-fuze (fjúz) s. bræða; steypa (sjóða) saman; vaxa saman; bráðna; n. tundurpípa (í sprengikúlu), sprengiþráður
-fuzz (f0zz) s. tæjast (eða tæja) í sundur ([~ out]); n. hý, hýjungur
+future l. ókominn, óorðinn; [a ~ state, life] annað líf; n. framtíð; ókomin tíð; [for the ~] framvegis
+futurity n. ókomin tíð, ókomnir tímar ([to inquire into the ~]); óorðinn viðburður; [in ~] héðan í frá
+fuze s. bræða; steypa (sjóða) saman; vaxa saman; bráðna; n. tundurpípa (í sprengikúlu), sprengiþráður
+fuzz s. tæjast (eða tæja) í sundur ([~ out]); n. hý, hýjungur
 fuzzy l. hýjugur, úfinn, trosnaður
