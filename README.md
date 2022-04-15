@@ -11,15 +11,15 @@ online English-Icelandic dictionary.
 ## Background
 
 The author of the original dictionary, Geir T. Zoega (1857-1928),
-served as an English teacher and later rector at the Learned
+was an English language teacher and later rector at the Learned
 School of Reykjavík in the years 1883-1927. The first edition was
-published in 1896. The digitised and sanitised version presented
-here is based on the much-improved 1932 edition edited by Þorsteinn
-Þorsteinsson.
+published in 1896. The digitised, extended and sanitised version
+presented here is based on the much-improved 1932 edition edited
+by Þorsteinn Þorsteinsson.
 
-The current version has been heavily edited, updated and fixed in
-accordance with modern Icelandic orthography. Many errors in the
-original text have also been corrected.
+The current incarnation of the dictionary has been heavily edited,
+updated and fixed in accordance with modern Icelandic orthography.
+Many errors in the original text have also been corrected.
 
 The raw dictionary text files are stored [here](data/dict/).
 
