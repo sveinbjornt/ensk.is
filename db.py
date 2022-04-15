@@ -66,11 +66,13 @@ class EnskDatabase(object):
 
         return cls._instance
 
-    def conn(self) -> sqlite3.Connection:
+    def conn(self, read_only: bool = False) -> sqlite3.Connection:
         """Open database connection lazily."""
         if not self.db_conn:
             # Open database file in read-only mode via URI
-            db_uri = f"file:{self._dbname}"  # ?mode=ro"
+            db_uri = f"file:{self._dbname}"
+            if read_only:
+                db_uri += "?mode=ro"
             print(f"Opening database connection at {db_uri}")
             self.db_conn = sqlite3.connect(db_uri, uri=True, check_same_thread=False)
 
