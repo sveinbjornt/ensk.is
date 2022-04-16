@@ -1063,14 +1063,14 @@ fragment (fragmant) n. brot; moli
 fragmentary l. sem er í brotum eða molum ([his knowledge is ~])
 fragrance (freigrans) n. ilmur, angan
 fragrant (frei-) l. ilmandi, angandi
-frail (freil) l. veikur, óhraustur; breyskur; hrörlegur ([a ~ boat])
+frail l. veikur, óhraustur; breyskur; hrörlegur ([a ~ boat])
 frailness n. veikleiki; breyskleiki
 frailty n. veikleiki; breyskleiki
-frail (freil) n. sefkarfa
-frame (freim) s. setja saman, búa til, semja; laga; hugsa upp ([~ a plot]); hugsa sér ([~ to oneself]); setja í umgjörð, ramma; n. grind ([~ of a building, of a cart]) bygging; umgjörð, rammi; fyrirkomulag; skap ([~ of mind]); sokkavefstóll ([stocking-~]); [out of ~] í vondu skapi
-framer (freimar) n. upphafsmaður, höfundur
+frail n. sefkarfa
+frame s. setja saman, búa til, semja; laga; hugsa upp ([~ a plot]); hugsa sér ([~ to oneself]); setja í umgjörð, ramma; n. grind ([~ of a building, of a cart]) bygging; umgjörð, rammi; fyrirkomulag; skap ([~ of mind]); sokkavefstóll ([stocking-~]); [out of ~] í vondu skapi
+framer n. upphafsmaður, höfundur
 framework n. grind; sokkavefnaður
-franc (fraNk) n. franki (peningamynt)
+franc n. franki (peningamynt)
 franchise n. einkaréttur; kosningarréttur ([elective ~]); undanþága; s. sjá [enfranchise]
 Franciscan n. grámunkur
 frangible l. auðbrotinn, brjótanlegur
