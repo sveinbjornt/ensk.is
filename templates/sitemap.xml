@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>https://ensk.is/</loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://ensk.is/about</loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://ensk.is/zoega</loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://ensk.is/files</loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://ensk.is/all</loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://ensk.is/additions</loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    {% for w in words %}
+    <url>
+        <loc>https://ensk.is/item/{{ w }}</loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    {% endfor %}
+</urlset>

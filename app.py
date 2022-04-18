@@ -70,6 +70,7 @@ e = EnskDatabase()
 # Read all dictionary entries into memory
 res = e.read_all_entries()
 num_entries = len(res)
+words = frozenset([r["word"] for r in res])
 
 # Read master English word list into memory
 enwords = read_wordlist("data/wordlists/words.txt")
@@ -77,7 +78,7 @@ enwords = read_wordlist("data/wordlists/words.txt")
 
 def _err(msg: str) -> JSONResponse:
     """Return JSON error message."""
-    return JSONResponse(content={"err": True, "errmsg": msg})
+    return JSONResponse(content={"error": True, "errmsg": msg})
 
 
 def _results(q: str, exact_match: bool = False) -> List:
@@ -269,4 +270,8 @@ async def api_search(request: Request, q) -> JSONResponse:
 @app.get("/sitemap.xml")
 async def sitemap(request: Request) -> Response:
     """Sitemap generated on-demand."""
-    return Response(content="", media_type="application/xml")
+    return TemplateResponse(
+        "sitemap.xml",
+        {"request": request, "words": words},
+        media_type="application/xml",
+    )

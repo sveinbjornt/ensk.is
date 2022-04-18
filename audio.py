@@ -67,7 +67,7 @@ def synthesize_word(w: str, dest_folder=None) -> Optional[str]:
 _LAME_CLT = "/usr/local/bin/lame"  # Requires LAME install
 
 
-def aiff2mp3(infile_path: str, outfile_path: str = None):
+def aiff2mp3(infile_path: str) -> None:
     """Convert AIFF to MP3 using lame."""
     args = [_LAME_CLT]
     args.append(infile_path)
