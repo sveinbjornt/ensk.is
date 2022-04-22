@@ -82,9 +82,13 @@ def _err(msg: str) -> JSONResponse:
 
 
 def _results(q: str, exact_match: bool = False) -> List:
-    results = []
     if not q:
         return []
+
+    equal = []
+    swith = []
+    ewith = []
+    other = []
 
     ql = q.lower()
     for k in res:
@@ -100,19 +104,34 @@ def _results(q: str, exact_match: bool = False) -> List:
             wfnfixed = w.replace(" ", "_")  # Fix filename f. audio file
             audio_url = f"/static/audio/dict/{wfnfixed}.mp3"
             ipa = k.get("ipa") or ""
-            results.append({"w": w, "x": x, "i": ipa, "p": p, "a": audio_url})
+            item = {"w": w, "x": x, "i": ipa, "p": p, "a": audio_url}
+            if w == q:
+                equal.append(item)
+            elif w.startswith(q):
+                swith.append(item)
+            elif w.endswith(q):
+                ewith.append(item)
+            else:
+                other.append(item)
 
-    def sortfn(a):
-        wl = a["w"].lower()
-        if wl == ql:
-            return 0
-        if wl.startswith(ql):
-            return 1
-        if wl.endswith(ql):
-            return 2
-        return 999
+    equal.sort(key=lambda d: d["w"])
+    swith.sort(key=lambda d: d["w"])
+    ewith.sort(key=lambda d: d["w"])
+    other.sort(key=lambda d: d["w"])
 
-    results.sort(key=sortfn)
+    results = [*equal, *swith, *ewith, *other]
+
+    # def sortfn(a):
+    #     wl = a["w"].lower()
+    #     if wl == ql:
+    #         return 0
+    #     if wl.startswith(ql):
+    #         return 1
+    #     if wl.endswith(ql):
+    #         return 2
+    #     return 999
+
+    # results.sort(key=sortfn)
 
     return results
 
