@@ -114,6 +114,8 @@ def _results(q: str, exact_match: bool = False) -> List:
             else:
                 other.append(item)
 
+    exact_match_found = len(equal)
+
     equal.sort(key=lambda d: d["w"])
     swith.sort(key=lambda d: d["w"])
     ewith.sort(key=lambda d: d["w"])
@@ -133,7 +135,7 @@ def _results(q: str, exact_match: bool = False) -> List:
 
     # results.sort(key=sortfn)
 
-    return results
+    return results, exact_match_found
 
 
 # @app.on_event("startup")
@@ -158,7 +160,7 @@ async def index(request: Request):
 async def search(request: Request, q: str):
     """Return page with search results for query."""
     q = q.strip()
-    results = _results(q)
+    results, exact = _results(q)
 
     # if q in enwords:
 
@@ -169,6 +171,7 @@ async def search(request: Request, q: str):
             "title": f"{q} - {WEBSITE_NAME}",
             "q": q,
             "results": results,
+            "exact": exact
         },
     )
 
@@ -176,7 +179,7 @@ async def search(request: Request, q: str):
 @app.get("/item/{w}")
 async def item(request: Request, w):
     """Return page for a single dictionary word definition."""
-    results = _results(w, exact_match=True)
+    results, _ = _results(w, exact_match=True)
     if not results:
         raise HTTPException(status_code=404, detail="Síða fannst ekki")
     return TemplateResponse(
@@ -274,7 +277,7 @@ async def apidoc(request: Request):
 @app.get("/api/suggest/{q}")
 async def api_suggest(request: Request, q, limit: int = 10) -> JSONResponse:
     """Return autosuggestion results for partial string in input field."""
-    results = _results(q)
+    results, _ = _results(q)
     words = [x["w"] for x in results][:limit]
     return JSONResponse(content=words)
 
@@ -282,7 +285,7 @@ async def api_suggest(request: Request, q, limit: int = 10) -> JSONResponse:
 @app.get("/api/search/{q}")
 async def api_search(request: Request, q) -> JSONResponse:
     """Return search results in JSON format."""
-    results = _results(q)
+    results, _ = _results(q)
     return JSONResponse(content={"results": results})
 
 
