@@ -113,7 +113,7 @@ class EnskDatabase(object):
         conn.commit()
 
     def read_all_entries(self) -> List[Dict]:
-        """Read and return all entries for word query."""
+        """Read and return all entries."""
         conn = self.conn()
         sql = conn.cursor().execute("SELECT * FROM dictionary")
         return list(sql)  # Consume generator into list

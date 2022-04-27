@@ -51,12 +51,17 @@ EntryList = List[EntryType]
 ENWORD_TO_IPA = read_ipa("data/ipa/en_UK.txt")
 
 
+STATIC_FILES_PATH = "static/files/"
+
+
 def ipa4entry(s: str) -> Optional[str]:
     """Look up IPA for word."""
     ipa = ENWORD_TO_IPA.get(s)
     if not ipa and " " in s:
+        # It's a multi-word entry
         wipa = s.split()
         ipa4words = []
+        # Look up each individual word and assemble
         for wp in wipa:
             lookup = ENWORD_TO_IPA.get(wp)
             if not lookup:
@@ -110,16 +115,16 @@ def generate_database(entries: EntryList) -> str:
     """Generate SQLite database. Returns filename."""
     delete_db()
     add_entries_to_db(entries)
-    zipfn = "static/files/ensk_dict.db.zip"
+    zipfn = f"{STATIC_FILES_PATH}ensk_dict.db.zip"
     zip_file(DB_FILENAME, zipfn)
     return zipfn
 
 
 def generate_csv(entries: EntryList) -> str:
-    """Generate zipped CSV file in static/files/. Return file path."""
+    """Generate zipped CSV file. Return file path."""
     fields = ["word", "definition", "ipa", "page_num"]
     old_cwd = os.getcwd()
-    os.chdir("static/files/")
+    os.chdir(STATIC_FILES_PATH)
     filename = "ensk_dict.csv"
     with open(filename, "w") as csvfile:
         csvwriter = csv.writer(csvfile)
@@ -129,13 +134,13 @@ def generate_csv(entries: EntryList) -> str:
     zip_file(filename, zipfn)
     os.remove(filename)
     os.chdir(old_cwd)
-    return f"static/files/{zipfn}"
+    return f"{STATIC_FILES_PATH}{zipfn}"
 
 
 def generate_text(entries: EntryList) -> str:
-    """Generate zipped text file w. all entries in static/files/. Return file path."""
+    """Generate zipped text file w. all entries. Return file path."""
     old_cwd = os.getcwd()
-    os.chdir("static/files/")
+    os.chdir(STATIC_FILES_PATH)
     filename = "ensk_dict.txt"
     with open(filename, "w") as file:
         for e in entries:
@@ -144,11 +149,11 @@ def generate_text(entries: EntryList) -> str:
     zip_file(filename, zipfn)
     os.remove(filename)
     os.chdir(old_cwd)
-    return f"static/files/{zipfn}"
+    return f"{STATIC_FILES_PATH}{zipfn}"
 
 
 def generate_pdf(entries: EntryList) -> str:
-    """Generate PDF in static/files/. Return file path."""
+    """Generate PDF. Return file path."""
     return ""
 
 
