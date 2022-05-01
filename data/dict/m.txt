@@ -541,7 +541,7 @@ mediocrity n. meðalmennska, meðalmenni; meðallag, miðlungsskapur
 meditate s. hugleiða, hugsa um; hafa í hyggju
 meditation n. hugleiðing, umhugsun; hugvekja
 meditative l. hugsandi, íhugunarsamur
-Mediterranean l. Miðjarðarhafs-; [the ~] Miðjarðarhafið
+Mediterranean l. Miðjarðarhafs-; n. [the ~] Miðjarðarhafið
 medium n. miðja, miðbik; meðaltal; meðalstig; tilstyrkur ([by the ~ of]); milliliður, miðill; [at a ~] að meðaltali; l. meðal-, sem liggur mitt í milli; [he was of ~ height] meðalmaður á hæð
 mediumship n. tilverknaður, tilstyrkur; miðilshæfileiki
 mediumistic l. miðils-; [~ abilities, powers] miðilshæfileikar eða miðilsgáfa
@@ -1336,7 +1336,7 @@ mourn (mörn) s. syrgja e-n ([~ for one]); harma; bera sorgarbúning
 mourner n. syrgjandi; líkfylgdarmaður
 mournful l. sorgbitinn; sorglegur
 mourning n. sorg, harmur; sorgarbúningur; [to go into (put on) ~] klæðast sorgarbúningi
-mouse (más) n. mús; glóðarauga; s. veiða mýs; læðast um og leita ([~ for a thing])
+mouse (más) n. mús; glóðarauga; tæki til að hreyfa bendil á tölvuskjá; s. veiða mýs; læðast um og leita ([~ for a thing])
 mouse-coloured l. múslitaður, músgrár
 mouse-eaten (-ít'n) l. músétinn
 mouser n. músaveiðari (köttur, ugla)

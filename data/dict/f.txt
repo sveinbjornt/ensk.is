@@ -1301,7 +1301,8 @@ functional l. embættislegur; starfslegur
 functionary n. embættismaður, sýslunarmaður
 fund (f0nd) n. höfuðstóll, sjóður; ft. fé, peningar; ríkisskuldir, ríkisskuldabréf ([the public ~s]); forði; [to be in ~s] hafa peninga (fjárráð); s. ákveða vissar tekjur til greiðslu vaxta og afborgana af skuld(um); koma peningum í fasteignir eða ríkisskuldabréf
 fundament (fpndamant) n. afturendi, sitjandi
-fundamental l. sem er grundvöllurinn undir e-u ([to]); grundvallar-; undirstöðu-; upprunalegur; n. undirstöðuatriði ([~s])
+fundamental l. sem er grundvöllurinn undir e-u ([to]); grundvallar-; undirstöðu-; upprunalegur
+fundamentals n. ft. undirstöðuatriði ([the basic ~ of chemistry])
 fundamentally ao. í grundvallaratriðum; upprunalega, frá upphafi; gjörsamlega
 funeral n. útför, jarðarför; greftrun; l. greftrunar-, útfarar-; [~ sermon] líkræða
 funereal l. útfarar- ([we marched at a ~ pace]); sorglegur; skuggalegur

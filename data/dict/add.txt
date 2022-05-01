@@ -3,8 +3,9 @@ database n. gagnagrunnur; [the information was written to a ~]
 classroom n. kennslustofa, skólastofa
 coedit s. ritstýra með einhverjum öðrum; [he ~ed the dictionary]
 dune n. sandhóll (sem myndast úr foksandi), sandskafl
-rock n. rokktónlist; [play some of that old ~ and roll music]
-microwave n. örbylgja; [~ oven] örbylgjuofn; s. hita í örbylgjuofni
+rock n. rokktónlist; [play some of that ~ and roll music]
+microwave n. örbylgja; örbylgjuofn; s. hita í örbylgjuofni
+microwave oven n. örbylgjuofn
 helicopter n. þyrla
 computer n. tölva, reiknivél; e-r sem reiknar
 algorithm n. algrími, reiknirit
@@ -31,12 +32,12 @@ sustainability n. sjálfbærni
 sustainable l. sjálfbær
 unemployment n. atvinnuleysi
 username n. notandanafn
-video n. myndband
+video n. myndband, myndupptaka
 wishlist n. óskalisti
 carbon tax n. kolefnisskattur
 hippie n. hippi
 briefcase n. skjalataska
-television n. sjónvarp
+television n. sjónvarp; sjónvarpstæki
 garage n. bílskúr
 speedometer n. hraðamælir
 astrophysics n. stjarneðlisfræði
@@ -71,6 +72,7 @@ neo-Nazism n. nýnasismi
 fascism n. fasismi
 fascist n. fasisti
 telephone n. sími, símtæki; s. hringja (úr símtæki); [he ~d his mother] hann hringdi í móður sína
+telephony n. símtækni
 keyboard n. lyklaborð
 touch screen n. snertiskjár
 lemur n. lemúr (dýr af prímataættum á eyjunni Madagaskar)
@@ -509,8 +511,34 @@ vocational l. starfs-, fag-, iðn- ([vocational training]); köllunar-
 entrepreneur n. frumkvöðull, athafnamaður
 screensaver n. skjávari
 paradigmatic l. beygingardæmis-; fyrirmyndar-, fullkomið dæmi um e-ð
-dysfunction n. truflun, vanhæfni
+dysfunction n. bilun, truflun; vanhæfni
 dysfunctional l. bilaður, virkar ekki sem skyldi
 dyslexia n. lesblinda, lestrarörðugleiki
 dyslexic l. lesblindur
 dystrophy n. vanþroski, veiklun
+sonic l. hljóð-, hljóðbylgju-; hljóðhraða-
+hypersonic l. sem ferðast á fimmföldum hljóðhraða eða hraðar
+hypersensitivity n. ofurnæmni
+hypersensitive l. ofurnæmur
+hallowed l. heilagur, vígður
+fundamentalism n. bókstafstrú ([Christian fundamentalism is a force in US politics])
+fundamentalist n. bókstafstrúarmaður
+awareness n. vitund; meðvitund
+worried l. áhyggjufullur, kvíðafullur
+physically ao. líkamlega
+Macedonia n. Makedónía
+meaningful l. merkingarbær; þýðingarmikill, innihaldsríkur; verulegur
+homeland n. heimaland
+hometown n. heimabær
+lightweight l. léttur, léttvigtar-; n. léttvigt
+motivation n. hvati, hvatning, hvöt
+disturbed l. truflaður, ónáðaður; raskaður
+immunology n. ónæmisfræði
+aluminium n. ál
+aluminum n. ál (Band.)
+hardwood n. harðviður; gegnheill viður; l. harðviðar-
+vanilla n. vanilla; l. vanillu-
+orgasm n. fullnæging
+bacterial l. gerla-, bakteríu-
+hallucinatory l. ofskynjunar-
+hallucinogen n. ofskynjunarlyf, ofskynjunarefni
