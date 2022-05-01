@@ -75,7 +75,7 @@ telephone n. sími, símtæki; s. hringja (úr símtæki); [he ~d his mother] ha
 telephony n. símtækni
 keyboard n. lyklaborð
 touch screen n. snertiskjár
-lemur n. lemúr (dýr af prímataættum á eyjunni Madagaskar)
+lemur n. lemúr (dýr af prímataættum frá eyjunni Madagaskar)
 baseball n. hafnabolti (bandarísk íþrótt)
 jet n. þota (þrýstiloftsflugvél)
 automobile n. bifreið
@@ -542,3 +542,4 @@ orgasm n. fullnæging
 bacterial l. gerla-, bakteríu-
 hallucinatory l. ofskynjunar-
 hallucinogen n. ofskynjunarlyf, ofskynjunarefni
+accessibility n. aðgengi, aðgengileiki
