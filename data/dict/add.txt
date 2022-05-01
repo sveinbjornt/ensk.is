@@ -479,6 +479,7 @@ updated l. uppfærður
 upgrade s. uppfæra; n. uppfærsla
 upgraded l. uppfærður
 insurgency n. uppreisn
+dynastic l. ættar-, konungsættar-, aðalsættar-
 hypertension n. háþrýstingur; óvenjulega hár blóðþrýstingur
 hyperventilate s. anda of hratt
 hyperventilation n. oföndun
@@ -508,3 +509,8 @@ vocational l. starfs-, fag-, iðn- ([vocational training]); köllunar-
 entrepreneur n. frumkvöðull, athafnamaður
 screensaver n. skjávari
 paradigmatic l. beygingardæmis-; fyrirmyndar-, fullkomið dæmi um e-ð
+dysfunction n. truflun, vanhæfni
+dysfunctional l. bilaður, virkar ekki sem skyldi
+dyslexia n. lesblinda, lestrarörðugleiki
+dyslexic l. lesblindur
+dystrophy n. vanþroski, veiklun
