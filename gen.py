@@ -44,18 +44,23 @@ from util import read_pages, parse_line, page_for_word, zip_file, read_ipa
 from db import EnskDatabase, DB_FILENAME
 
 
-EntryType = Tuple[str, str, str, int]
+EntryType = Tuple[str, str, str, str, int]
 EntryList = List[EntryType]
 
 
-ENWORD_TO_IPA = read_ipa("data/ipa/en_UK.txt")
-
+ENWORD_TO_IPA_UK = read_ipa("data/ipa/en2ipa_uk.json")
+ENWORD_TO_IPA_US = read_ipa("data/ipa/en2ipa_us.json")
 
 STATIC_FILES_PATH = "static/files/"
 
 
-def ipa4entry(s: str) -> Optional[str]:
+def ipa4entry(s: str, lang="uk") -> Optional[str]:
     """Look up IPA for word."""
+    assert lang in ["uk", "us"]
+    if lang == "uk":
+        ENWORD_TO_IPA = ENWORD_TO_IPA_UK
+    else:
+        ENWORD_TO_IPA = ENWORD_TO_IPA_US
     ipa = ENWORD_TO_IPA.get(s)
     if not ipa and " " in s:
         # It's a multi-word entry
@@ -88,9 +93,10 @@ def read_all_entries() -> EntryList:
         wd = parse_line(line)
         w = wd[0]
         definition = wd[1]
-        ipa = ipa4entry(w) or ""
+        ipa_uk = ipa4entry(w) or ""
+        ipa_us = ipa4entry(w, lang="us") or ""
         pn = page_for_word(w)
-        entries.append(tuple([w, definition, ipa, pn]))
+        entries.append(tuple([w, definition, ipa_uk, ipa_us, pn]))
     return entries
 
 
@@ -106,9 +112,9 @@ def add_entries_to_db(entries: EntryList) -> None:
     """Insert all entries into database."""
     db = EnskDatabase()
     for e in entries:
-        (w, definition, ipa, pn) = e
+        (w, definition, ipa_uk, ipa_us, pn) = e
         print(f"Adding {w}")
-        db.add_entry(w, definition, ipa, pn)
+        db.add_entry(w, definition, ipa_uk, ipa_us, pn)
 
 
 def generate_database(entries: EntryList) -> str:

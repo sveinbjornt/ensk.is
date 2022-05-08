@@ -34,7 +34,7 @@
 
 """
 
-from typing import List
+from typing import List, Tuple
 
 from fastapi import FastAPI, Request, HTTPException
 from fastapi.templating import Jinja2Templates
@@ -81,9 +81,9 @@ def _err(msg: str) -> JSONResponse:
     return JSONResponse(content={"error": True, "errmsg": msg})
 
 
-def _results(q: str, exact_match: bool = False) -> List:
+def _results(q: str, exact_match: bool = False) -> Tuple[List, bool]:
     if not q:
-        return []
+        return [], False
 
     equal = []
     swith = []
@@ -103,8 +103,11 @@ def _results(q: str, exact_match: bool = False) -> List:
             # x = re.sub(r"\(.+?\)\s", " ", x, 1)
             wfnfixed = w.replace(" ", "_")  # Fix filename f. audio file
             audio_url = f"/static/audio/dict/{wfnfixed}.mp3"
-            ipa = k.get("ipa") or ""
-            item = {"w": w, "x": x, "i": ipa, "p": p, "a": audio_url}
+            ipa_uk = k.get("ipa_uk") or ""
+            ipa_us = k.get("ipa_us")
+            if ipa_uk == ipa_us:
+                ipa_us = None
+            item = {"w": w, "x": x, "i": ipa_uk, "i2": ipa_us, "p": p, "a": audio_url}
             if w == q:
                 equal.append(item)
             elif w.startswith(q):
@@ -114,7 +117,7 @@ def _results(q: str, exact_match: bool = False) -> List:
             else:
                 other.append(item)
 
-    exact_match_found = len(equal)
+    exact_match_found: bool = len(equal) > 0
 
     equal.sort(key=lambda d: d["w"])
     swith.sort(key=lambda d: d["w"])
@@ -171,7 +174,7 @@ async def search(request: Request, q: str):
             "title": f"{q} - {WEBSITE_NAME}",
             "q": q,
             "results": results,
-            "exact": exact
+            "exact": exact,
         },
     )
 

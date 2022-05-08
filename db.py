@@ -96,19 +96,22 @@ class EnskDatabase(object):
                 id INTEGER UNIQUE PRIMARY KEY NOT NULL,
                 word TEXT,
                 definition TEXT,
-                ipa TEXT,
+                ipa_uk TEXT,
+                ipa_us TEXT,
                 page_num INTEGER
             );
         """
 
         conn.cursor().execute(create_table_sql)
 
-    def add_entry(self, w: str, definition: str, ipa: str, page_num: int) -> None:
+    def add_entry(
+        self, w: str, definition: str, ipa_uk: str, ipa_us: str, page_num: int
+    ) -> None:
         """Add a single entry to the dictionary."""
         conn = self.conn()
         conn.cursor().execute(
-            "INSERT INTO dictionary (word, definition, ipa, page_num) VALUES (?,?,?,?)",
-            [w, definition, ipa, page_num],
+            "INSERT INTO dictionary (word, definition, ipa_uk, ipa_us, page_num) VALUES (?,?,?,?,?)",
+            [w, definition, ipa_uk, ipa_us, page_num],
         )
         conn.commit()
 

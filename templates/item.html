@@ -16,10 +16,18 @@
 </h1>
 
 <p>
-    (<a href="{{ results[0].a }}" onClick="return play(this);" title="Spila hljóðupptöku af framburði">
+    <strong>UK:</strong>
+    <a href="{{ results[0].a }}" onClick="return play(this);" title="Spila hljóðupptöku af framburði">
         <img src="/static/img/audio.svg">
         {{ results[0].i }}
-    </a>)
+    </a>
+    {% if results[0].i2 %}
+    <strong>BNA:</strong>
+    <a href="{{ results[0].a }}" onClick="return play(this);" title="Spila hljóðupptöku af framburði">
+        <img src="/static/img/audio.svg">
+        {{ results[0].i2 }}
+    </a>
+    {% endif %}
 </p>
 
 {% for r in results %}

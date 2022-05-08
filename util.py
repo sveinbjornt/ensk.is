@@ -154,11 +154,7 @@ def zip_file(inpath: str, outpath: str) -> None:
 
 
 def read_ipa(inpath: str) -> Dict[str, str]:
-    """Read tab-separated file mapping English words to
+    """Read file mapping English words to
     their International Phonetic Alphabet equivalent."""
-    d = dict()
-    with open(inpath) as file:
-        tsv_file = csv.reader(file, delimiter="\t")
-        for e in tsv_file:
-            d[e[0]] = e[1]
-    return d
+    with open(inpath, "r") as f:
+        return json.load(f)
