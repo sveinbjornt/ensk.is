@@ -48,4 +48,8 @@ from util import read_all_words
 
 def test_something():
     # Read and parse all definition lines in text files
-    read_all_words()
+    r = read_all_words()
+
+    # from gen import main
+
+    # main()

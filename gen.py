@@ -158,16 +158,20 @@ def generate_text(entries: EntryList) -> str:
     return f"{STATIC_FILES_PATH}{zipfn}"
 
 
-def generate_pdf(entries: EntryList) -> str:
-    """Generate PDF. Return file path."""
-    return ""
+# def generate_pdf(entries: EntryList) -> str:
+#     """Generate PDF. Return file path."""
+#     return ""
 
 
-if __name__ == "__main__":
-    """Command line invocation."""
+def main() -> None:
     entries = read_all_entries()
     # print(entries)
     generate_database(entries)
     generate_csv(entries)
     generate_text(entries)
     # generate_pdf(entries)
+
+
+if __name__ == "__main__":
+    """Command line invocation."""
+    main()
