@@ -51,11 +51,11 @@ def synthesize_word(w: str, dest_folder=None, voice="Daniel") -> Optional[str]:
     assert dest_folder is not None
     assert voice in ["Daniel", "Alex"]  # Daniel for UK English, Alex for US English
 
-    f = w.replace(" ", "_")
-    if voice == "Alex":
-        f += "_US"
+    subfolder = "uk" if voice == "Daniel" else "us"
 
-    if exists(f"{dest_folder}/{f}.mp3"):
+    f = w.replace(" ", "_")
+
+    if exists(f"{dest_folder}/{subfolder}/{f}.mp3"):
         # This word has already been synthesised
         return None
 
@@ -67,7 +67,7 @@ def synthesize_word(w: str, dest_folder=None, voice="Daniel") -> Optional[str]:
     # args.append("--file-format=WAVE")
     args.append("-o")
     fn = f"{f}.aiff"
-    outpath = f"{dest_folder}/{fn}"
+    outpath = f"{dest_folder}/{subfolder}/{fn}"
     args.append(outpath)
     args.append(w)
     subprocess.run(args)

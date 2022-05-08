@@ -97,17 +97,27 @@ def _results(q: str, exact_match: bool = False) -> Tuple[List, bool]:
             w = k["word"]
             x = k["definition"]
             p = k["page_num"]
-            x = x.replace("[", "<em>")  # Italicize English words
+            # Italicize English words
+            x = x.replace("[", "<em>")
             x = x.replace("]", "</em>")
-            x = x.replace("~", w)  # Replace ~ symbol with English word
-            # x = re.sub(r"\(.+?\)\s", " ", x, 1)
-            wfnfixed = w.replace(" ", "_")  # Fix filename f. audio file
-            audio_url = f"/static/audio/dict/{wfnfixed}.mp3"
+            # Replace ~ symbol with English word
+            x = x.replace("~", w)
+            # Fix filename f. audio file
+            wfnfixed = w.replace(" ", "_")
+            audio_url = f"/static/audio/dict/uk/{wfnfixed}.mp3"
+            audio_url_us = f"/static/audio/dict/us/{wfnfixed}.mp3"
             ipa_uk = k.get("ipa_uk") or ""
-            ipa_us = k.get("ipa_us")
-            if ipa_uk == ipa_us:
-                ipa_us = None
-            item = {"w": w, "x": x, "i": ipa_uk, "i2": ipa_us, "p": p, "a": audio_url}
+            ipa_us = k.get("ipa_us") or ""
+            # Create item dict
+            item = {
+                "w": w,
+                "x": x,
+                "i": ipa_uk,
+                "i2": ipa_us,
+                "p": p,
+                "a": audio_url,
+                "a2": audio_url_us,
+            }
             if w == q:
                 equal.append(item)
             elif w.startswith(q):

@@ -47,5 +47,5 @@ from util import read_all_words
 
 
 def test_something():
-    # Read and parse all definitions lines in text files
+    # Read and parse all definition lines in text files
     read_all_words()

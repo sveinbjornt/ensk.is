@@ -2,6 +2,13 @@
 
 {% block meta %}
 <meta name="description" content="Skilgreining á enska orðinu '{{ word|safe }}'">
+
+<script type="text/javascript">
+    function play(elm) {
+        new Audio(elm.href).play();
+        return false;
+    }
+</script>
 {% endblock %}
 
 {% block content %}
@@ -19,11 +26,13 @@
     <strong>UK:</strong>
     <a href="{{ results[0].a }}" onClick="return play(this);" title="Spila hljóðupptöku af framburði">
         <img src="/static/img/audio.svg">
+        {% if results[0].i2 %}
         {{ results[0].i }}
+        {% endif %}
     </a>
     {% if results[0].i2 %}
-    <strong>BNA:</strong>
-    <a href="{{ results[0].a }}" onClick="return play(this);" title="Spila hljóðupptöku af framburði">
+    <strong>US:</strong>
+    <a href="{{ results[0].a2 }}" onClick="return play(this);" title="Spila hljóðupptöku af framburði">
         <img src="/static/img/audio.svg">
         {{ results[0].i2 }}
     </a>

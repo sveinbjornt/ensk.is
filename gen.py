@@ -48,8 +48,8 @@ EntryType = Tuple[str, str, str, str, int]
 EntryList = List[EntryType]
 
 
-ENWORD_TO_IPA_UK = read_ipa("data/ipa/en2ipa_uk.json")
-ENWORD_TO_IPA_US = read_ipa("data/ipa/en2ipa_us.json")
+ENWORD_TO_IPA_UK = read_ipa("data/ipa/uk/en2ipa.json")
+ENWORD_TO_IPA_US = read_ipa("data/ipa/us/en2ipa.json")
 
 STATIC_FILES_PATH = "static/files/"
 
