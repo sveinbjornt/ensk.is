@@ -2,7 +2,7 @@
 """
 
     Ensk.is - Free and open English-Icelandic dictionary
-    
+
     Copyright (c) 2022, Sveinbjorn Thordarson <sveinbjorn@sveinbjorn.org>
     All rights reserved.
 
@@ -45,18 +45,28 @@ from util import read_all_words
 _SPEECHSYNTH_CLT = "/usr/bin/say"  # Requires macOS
 
 
-def synthesize_word(w: str, dest_folder=None) -> Optional[str]:
+def synthesize_word(w: str, dest_folder=None, voice="Daniel") -> Optional[str]:
     """Generate a speech-synthesised AIFF audio file from word.
-    Returns path to output file."""
+    Returns path to output file. Only works on macOS."""
     assert dest_folder is not None
-    if exists(f"{dest_folder}/{w}.mp3".replace(" ", "_")):
+    assert voice in ["Daniel", "Alex"]  # Daniel for UK English, Alex for US English
+
+    f = w.replace(" ", "_")
+    if voice == "Alex":
+        f += "_US"
+
+    if exists(f"{dest_folder}/{f}.mp3"):
+        # This word has already been synthesised
         return None
+
     args = [_SPEECHSYNTH_CLT]
-    args.append("-r")
-    args.append("89")
+    args.append("-v")
+    args.append(voice)
+    # args.append("-r")
+    # args.append("89")
     # args.append("--file-format=WAVE")
     args.append("-o")
-    fn = f"{w}.aiff".replace(" ", "_")
+    fn = f"{f}.aiff"
     outpath = f"{dest_folder}/{fn}"
     args.append(outpath)
     args.append(w)
@@ -64,7 +74,8 @@ def synthesize_word(w: str, dest_folder=None) -> Optional[str]:
     return outpath
 
 
-_LAME_CLT = "/usr/local/bin/lame"  # Requires LAME install
+# Requires LAME installed: brew install lame
+_LAME_CLT = "/usr/local/bin/lame"
 
 
 def aiff2mp3(infile_path: str) -> None:
@@ -83,6 +94,10 @@ def synthesize_all() -> None:
     words = read_all_words()
     for w in words:
         aiff_path = synthesize_word(w, dest_folder=_OUT_FOLDER)
+        if aiff_path:
+            mp3_path = aiff2mp3(aiff_path)
+            os.remove(aiff_path)
+        aiff_path = synthesize_word(w, dest_folder=_OUT_FOLDER, voice="Alex")
         if aiff_path:
             mp3_path = aiff2mp3(aiff_path)
             os.remove(aiff_path)

@@ -1433,7 +1433,7 @@ polypetalous l. margblaðaður (um blómstur)
 polysyllabic l. fleirkvæður
 polysyllable n. fleirkvætt orð
 polytechnic l. fjöllista- ([~ school, ~ institution])
-polytheísm n. fjölgyðistrú
+polytheism n. fjölgyðistrú
 polytheist n. fjölgyðismaður
 polytheistical l. fjölgyðistrúarlegur, fjölgyðis- ([~ religion])
 pomade n. hársmyrsl

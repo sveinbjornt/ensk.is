@@ -171,7 +171,7 @@ async def search(request: Request, q: str):
         "result.html",
         {
             "request": request,
-            "title": f"{q} - {WEBSITE_NAME}",
+            "title": f"„{q}“ - {WEBSITE_NAME}",
             "q": q,
             "results": results,
             "exact": exact,
