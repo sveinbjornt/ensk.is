@@ -27,7 +27,7 @@ haggardly ao. tryllingslega ([his eyes stared ~])
 haggle s. prútta, þrefa um verð; höggva til skemmda
 haggler n. prúttari
 hail s. heilsa; kalla á (skip á siglingu); [~ from] segjast koma frá (um skip); n. heilsun, kveðja; uh. [~ to you!] heill sé yður!
-hail n. hagl; s. hegla; [it ~-ed] það var haglél
+hail n. hagl; s. hegla; [it ~ed] það var haglél
 hail-shower n. hagldrífa
 hailstone n. haglkorn
 hailstorm n. haglél
@@ -133,7 +133,7 @@ hap n. tilviljun, hending; s. vilja til; [~ upon] hitta
 haphazard n. tilviljun; [at/by ~] upp á von og óvon; l. tilviljunarkenndur
 hapless l. ólánsamur
 haply ao. ef til vill
-happen s. vilja til, bera við, henda (e-n [~ to one]); [~ on, upon] rekast á, finna af tilviljun; [I ~-ed to be there] það vildi svo til að ég var þar
+happen s. vilja til, bera við, henda (e-n [~ to one]); [~ on, upon] rekast á, finna af tilviljun; [I ~ed to be there] það vildi svo til að ég var þar
 happening n. viðburður
 happiness n. gæfa; sæla; gleði
 happy l. sæll; lánsamur; glaður, ánægður; heppilegur ([a ~ reply])
@@ -295,7 +295,7 @@ headwind n. mótviðri
 headwork n. andlegt erfiði
 head workman n. formaður verkamanna
 heady l. framhleypinn, flumósa; einþykkur, þrár; ofsafenginn; stríður (um straum); áfengur (um drykk) [a ~ brew]
-head (hedd) s. vera (fara) á undan e-u; vera fyrir, stýra, skrifa fyrir ofan; setja hausa á (nagla); botna (tunnu); standa efstur (á skrá); komast fram fyrir eða fram úr ([~ off]); fara fyrir upptökin á, fara í kringum ([~ a river, lake]); spretta upp (um ár); stefna, halda; [the wind ~s us] vindurinn blæs beint á móti okkur; [an article ~-ed] grein með fyrirsögninni; [~-ed by a band] með söngflokk í fararbroddi
+head (hedd) s. vera (fara) á undan e-u; vera fyrir, stýra, skrifa fyrir ofan; setja hausa á (nagla); botna (tunnu); standa efstur (á skrá); komast fram fyrir eða fram úr ([~ off]); fara fyrir upptökin á, fara í kringum ([~ a river, lake]); spretta upp (um ár); stefna, halda; [the wind ~s us] vindurinn blæs beint á móti okkur; [an article ~ed] grein með fyrirsögninni; [~ed by a band] með söngflokk í fararbroddi
 header n. sá sem setur haus á nagla (títuprjóna); flokksforingi; stökk á höfuðið (í vatn)
 heading n. yfirskrift ([~ of a letter]); kafli (í bók)
 heal s. lækna; græða (sár, [~ up, over]); gróa, batna
@@ -307,7 +307,7 @@ health n. heilsa, heilbrigði; minni ([to drink the ~ of])
 healthful l. heilsugóður, heill heilsu; heilnæmur
 healthfulness n. heilsa; heilnæmi
 healthy l. heilsugóður; heilnæmur; heilsusamlegur
-heap n. hrúga; hópur; [all of a ~] allt í einu; [a ~ of times] margsinnis; s. hrúga (hauga) saman; [~-ed measure] kúfmál
+heap n. hrúga; hópur; [all of a ~] allt í einu; [a ~ of times] margsinnis; s. hrúga (hauga) saman; [~ed measure] kúfmál
 hear (hír) s. heyra; heyra til e-s; hlusta á; bænheyra; frétta (um e-ð [of, about]); yfirheyra, prófa ([~ a plaintiff]); [~ from one] frétta af e-m; [I heard him groan] ég heyrði hann stynja; [I ~ say (tell)] ég heyri sagt; [he would not ~ of her going] hann vildi ekki heyra það nefnt að hún færi
 hearer n. áheyrandi
 hearing n. heyrn; áheyrn; próf (í máli); [to get (to have) a ~] fá hljóð; [to give a ~] gefa hljóð; [dull of ~] með slæma heyrn
@@ -662,7 +662,7 @@ hobby n. áhugamál, áhugaefni; kappsmál; fálkategund; lítill hestur; reiðp
 hobbyhorse n. lítill hestur; reiðprik; tréhestur
 hobgoblin n. púki; grýla; glettinn álfur
 hobnail n. sóla- eða hælnagli; sveitakarl, búri
-hobnailed l. seymdur ([~-ed boots]); búralegur
+hobnailed l. seymdur ([~ed boots]); búralegur
 hobnob s. skeggræða (við [with]); drekka saman
 hock n. öklaliður á afturfæti; mjóendinn á svínslæri; Rínarvín
 hockey n. hokkí (e.k. knattleikur)
@@ -766,7 +766,7 @@ honour n. heiður, virðing, sómi, sæmd, tign; sómatilfinning; drengskaparor�
 honour s. heiðra; sæma; borga (víxil)
 honorable l. heiðarlegur, heiðvirður; sómasamlegur; valinkunnur; háborinn; háttvirtur ([the ~ member])
 honorably ao. heiðarlega, sómasamlega
-hood n. hetta; s. setja hettu á; [~-ed] með hettu á eða yfir höfðinu
+hood n. hetta; s. setja hettu á; [~ed] með hettu á eða yfir höfðinu
 hoodwink s. draga hettu niður fyrir augu (e-s); binda fyrir augu (e-s); blekkja, draga á tálar
 hoof n. hófur; klauf ([divided ~])
 hoofbeat n. hófadynur
@@ -831,7 +831,7 @@ horseshoe nail n. hestskónagli; hóffjöður
 horsetail n. hrosstagl
 horseway n. reiðvegur
 horsewhip n. keyri, svipa; s. slá með keyri
-horse s. ljá, útvega (e-m) hest; bera e-n á háhesti; [well ~-d] vel ríðandi
+horse s. ljá, útvega (e-m) hest; bera e-n á háhesti; [well ~d] vel ríðandi
 hortative l. hvetjandi; n. hvatningarræða
 hortatory l. hvetjandi
 horticultural l. sem lýtur að garðyrkju
@@ -893,41 +893,41 @@ housewifely l. húsmóðurlegur; hirðusamur, sparsamur
 housewifery n. búskapur; sparsemi, hirðusemi
 house s. hýsa, veita húsaskjól; flytja inn í hús; dvelja
 housel n. husl; s. husla
-housino (háziN) n. hýsing; hús; söðulklæði, reiðver, áklæði
-hovel (hovv'l) n. lélegur kofi, hreysi; hjallur, byrgi
+housino n. hýsing; hús; söðulklæði, reiðver, áklæði
+hovel n. lélegur kofi, hreysi; hjallur, byrgi
 hover s. sveima, svífa (í lausu lofti); flögra; reika (um e-n stað [about, over])
-how (há) ao. hvernig, hversu, hve
-howbeit (-bí'it) ao. samt sem áður, allt fyrir það
+how ao. hvernig, hversu, hve
+howbeit ao. samt sem áður, allt fyrir það
 however ao. hversu sem; ([his innocence, ~ manifest, could not save him] hversu augljóst sem það var); samt sem áður, þó
 howsoever ao. hversu sem
-howl (hál) s. ýla, ýlfra, væla, góla (eins og hundur eða úlfur)
+howl s. ýla, ýlfra, væla, góla (eins og hundur eða úlfur)
 howling n. ýlfur, gól, væl; þytur ([~ of the wind])
-hoy (hoj) n. lítið (strand)-ferðaskip; uh. hæ! ([he hallooed ~, stop])
+hoy n. lítið (strand)-ferðaskip; uh. hæ! ([he hallooed ~, stop])
 hoyden n. óhemja, frenja
 hoydenish l. frenjulegur ([his ~ manner])
-hub (h0bb) n. hjólnöf; miðdepill
-hubble-bubble (h0b'l-b0b'l) n. austur-indversk vatnspípa; gjálfur, niður, kliður
-hubbub (h0bbDb) n. hávaði, læti
-huckaback (h0kkabákk) n. grófur handklæðadúkur
-huckle (h0k'l) n. mjöðm
+hub n. hjólnöf; miðdepill
+hubble-bubble n. austur-indversk vatnspípa; gjálfur, niður, kliður
+hubbub n. hávaði, læti
+huckaback n. grófur handklæðadúkur
+huckle n. mjöðm
 huckleback n. herðakistill
-hucklebacked (-bákt) l. lotinn; sem hefur herðakistil
-huckster (h0kstar) n. smásölukaupmaður, smásali, mangari; s. prútta; versla í smákaupum
+hucklebacked l. lotinn; sem hefur herðakistil
+huckster n. smásölukaupmaður, smásali, mangari; s. prútta; versla í smákaupum
 huckstery n. mangaraverslun; ft. smávarningur
-huddle (h0d'l) s. hrúga (vöðla) saman (einnig [~ together, up]); fara í flýti yfir (e-t verk [over, through]); hroða (e-u) af ([up]); flykkjast, þyrpast; [~ on one's clothes] hypja sig í fötin; n. ruglingur, hrærigrautur; mannþröng
-hue (hjú) n. litur; blær; s. lita
-hue (hjú) n. óp; [~ and cry] óp og köll (á eftir manni)
-huff (h0ff) s. reiðast (e-u [at]); blása upp ([~ up]); skamma (e-n); sýna e-m fyrirlitningu, óvirða; móðga; styggja; n. reiði, gremja; [to take ~ at] styggjast af e-u
+huddle s. hrúga (vöðla) saman (einnig [~ together, up]); fara í flýti yfir (e-t verk [over, through]); hroða (e-u) af ([up]); flykkjast, þyrpast; [~ on one's clothes] hypja sig í fötin; n. ruglingur, hrærigrautur; mannþröng
+hue n. litur; blær; s. lita
+hue n. óp; [~ and cry] óp og köll (á eftir manni)
+huff s. reiðast (e-u [at]); blása upp ([~ up]); skamma (e-n); sýna e-m fyrirlitningu, óvirða; móðga; styggja; n. reiði, gremja; [to take ~ at] styggjast af e-u
 huffiness n. firtni
 huffish l. hrokafullur
 huffy l. firtinn, uppstökkur; hrokafullur
-hug (högg) s. faðma, þrýsta (að sér); taka (glímutökum); [~ the land] sigla nálægt landi; [~ the wind] sigla þvert; [~ oneself upon] vera hreykinn af, stæra sig af e-u; n. föðmun, faðmlag; glímutök
-huge (hjúdzh) l. afarstór, geysimikill
+hug s. faðma, þrýsta (að sér); taka (glímutökum); [~ the land] sigla nálægt landi; [~ the wind] sigla þvert; [~ oneself upon] vera hreykinn af, stæra sig af e-u; n. föðmun, faðmlag; glímutök
+huge l. afarstór, geysimikill
 hugely ao. geysilega, ákaflega
 hugger-mugger (h0gger-m0gg-ar) n. leynd, leyni ([in ~]); l. leynilegur; s. þagga niður; finnast leynilega
-hulk (h0lk) n. gamall skipsskrokkur
+hulk n. gamall skipsskrokkur
 hulky l. fyrirferðarmikill
-hull (h0ll) n. hýði, skurn; kjarni (í epli); skipsskrokkur; [to lie (at) ~] reka fyrir vindi (með seglin samantekin); [~ down] með skipsskrokkinn undir sjóndeildarhringnum; s. taka hýðið utan af; skjóta í skipsskrokkinn ([the ship had been ~-ed])
+hull n. hýði, skurn; kjarni (í epli); skipsskrokkur; [to lie (at) ~] reka fyrir vindi (með seglin samantekin); [~ down] með skipsskrokkinn undir sjóndeildarhringnum; s. taka hýðið utan af; skjóta í skipsskrokkinn ([the ship had been ~ed])
 hullabaloo n. ringulreið
 hum s. suða (um býflugur); niða (um læk); raula (lag); n. suða; niður; raul; uh. humm!
 human l. mannlegur; mennskur; [the ~ race] mannkynið; n. mannleg vera, manneskja
@@ -970,45 +970,45 @@ humour s. laga sig eftir skapi (e-s); haga sér eftir
 humoursome l. duttlungafullur, önugur; eftirlátur (e-m [to])
 hump n. kryppa, herðakistill; vont skap; s. setja kryppu á ([to ~ the back])
 humpback n. kroppinbakur
-humpbacked (-bákt) l. sem hefur herðakistil
-humpty-dumpty (h0mpti-d0mp-ti) n. stutt og digur persóna (með kryppu upp úr bakinu)
-humpy (h0mpi) l. hnúskóttur
-humus (hjúmas) n. gróðurmold
-hunch (h0nsh) s. ýta, hrinda; beygja í keng; n. þykk sneið; kryppa; herðakistill
+humpbacked l. sem hefur herðakistil
+humpty-dumpty n. stutt og digur persóna (með kryppu upp úr bakinu)
+humpy l. hnúskóttur
+humus n. gróðurmold
+hunch s. ýta, hrinda; beygja í keng; n. þykk sneið; kryppa; herðakistill
 hunched l. kengboginn
 hunchback n. kroppinbakur
-hundred (h0ndred) n. & l. hundrað
+hundred n. & l. hundrað
 hundredth l. hundraðasti
-hundredweight (-weit) n. vætt (50.8 kg.)
-Hungarian (h0Ngé'rian) l. ungverskur; n. Ungverji
-Hungary (h0Ngari) n. Ungverjaland
-hunger (h0Ngar) n. hungur, sultur; s. hungra, vera hungraður; svelta e-n ([~ into madness, ~ out])
+hundredweight n. vætt (50.8 kg.)
+Hungarian l. ungverskur; n. Ungverji
+Hungary n. Ungverjaland
+hunger n. hungur, sultur; s. hungra, vera hungraður; svelta e-n ([~ into madness, ~ out])
 hungrily ao. sultarlega, gráðuglega
-hungry (h0Ngri) l. hungraður, svangur; sólginn (í e-ð [for])
-hunk (h0Nk) n. stykki ([~ of bread])
-hunkers (h0Nkerz) n. ft.; [to sit on one's ~] sitja á hækjum, húka
+hungry l. hungraður, svangur; sólginn (í e-ð [for])
+hunk n. stykki ([~ of bread])
+hunkers n. ft.; [to sit on one's ~] sitja á hækjum, húka
 hunks n. nirfill, maurapúki ([a stingy old ~])
-hunt (h0nt) s. veiða (dýr, fugla); elta ([~ from place to place] úr einum stað í annan); fara yfir land og leita veiðidýra ([~ the country]); leita að e-u, sækjast eftir e-u ([for, after]); vera á veiðum; [~ down] elta (dýr) uppi, elta til dauða; [~ up] leita upp; [to go (out) ~-ing] fara á veiðar
+hunt s. veiða (dýr, fugla); elta ([~ from place to place] úr einum stað í annan); fara yfir land og leita veiðidýra ([~ the country]); leita að e-u, sækjast eftir e-u ([for, after]); vera á veiðum; [~ down] elta (dýr) uppi, elta til dauða; [~ up] leita upp; [to go (out) ~-ing] fara á veiðar
 hunter n. veiðimaður; veiðihestur; veiðihundur
 hunting n. veiði, veiðar
 hunting-box n. veiðihús (í skógi)
 hunt n. veiði, veiðiskapur; veiðiflokkur; veiðiland; leit
-huntress (h0nt-) n. veiðikona
-huntsman (h0nts-) n. veiðimaður
+huntress n. veiðikona
+huntsman n. veiðimaður
 huntship n. veiðilist, veiðimennska
-hurdle (hörd'l) n. tága- eða rimlafleki; rimlagirðing, grindur; s. afgirða með grindum ([~ off, out])
+hurdle n. tága- eða rimlafleki; rimlagirðing, grindur; s. afgirða með grindum ([~ off, out])
 hurds n. ft. úrkembingur úr hör eða hampi; strý; sjá [hards]
 hurdy-gurdy (hördi-gördi) n. óvandað strengjahljóðfæri
-hurl (hörl) s. fleygja, þeyta; steypa ([~ one from power])
+hurl s. fleygja, þeyta; steypa ([~ one from power])
 hurling n. kast, þeyting
-hurly-burly (hörli-börli) n. hávaði, gauragangur, hark
+hurly-burly n. hávaði, gauragangur, hark
 hurrah uh. húrra! s. hrópa húrra
 hurray uh. húrra! s. hrópa húrra
-hurricane (h0rrikein) n. hvirfilvindur, fellibylur; ofviðri
-hurry (h0rri) s. flýta, hraða; reka áfram; flýta sér; [~ on one's clothes] fara í fötin í flýti; n. hraði, flýtir, flaustur; [he was in a ~] það var asi á honum; [there is no ~] ekkert liggur á
-hurry-scurry (-sk0rri) ao. á ringulreið; eins og fætur toga; n. óðagot, flaustur; l. flausturs-; s. ana, þjóta ([~ away])
-hurst (ö) n. hæð, hóll; sandrif; eyri (í á)
-hurt (hört) s. meiða, skaða, særa; styggja; [I ~ my foot against a stone] ég rak fótinn í stein; n. skaði, sár, meiðsl
+hurricane n. hvirfilvindur, fellibylur; ofviðri
+hurry s. flýta, hraða; reka áfram; flýta sér; [~ on one's clothes] fara í fötin í flýti; n. hraði, flýtir, flaustur; [he was in a ~] það var asi á honum; [there is no ~] ekkert liggur á
+hurry-scurry ao. á ringulreið; eins og fætur toga; n. óðagot, flaustur; l. flausturs-; s. ana, þjóta ([~ away])
+hurst n. hæð, hóll; sandrif; eyri (í á)
+hurt s. meiða, skaða, særa; styggja; [I ~ my foot against a stone] ég rak fótinn í stein; n. skaði, sár, meiðsl
 hurtful l. skaðlegur; hættulegur
 hurtless l. meinlaus; óskaddur
 hurtle s. kasta, hrinda; rekast (á [against]); þjóta, geysast
@@ -1019,20 +1019,20 @@ husbandlike l. líkur (góðum) eiginmanni eða ráðdeildarmanni
 husbandman n. akuryrkjumaður, jarðyrkjumaður; búmaður
 husbandry n. jarðyrkja; sparsemi, ráðdeild; [rural ~] landbúnaður
 hush uh. þei! s. þagga niður í; svæfa (barn); bæla niður; þagna, verða hljóður; n. þögn, kyrrð
-hushed (hósht) l. lágur (um hljóð)
-husk (hösk) n. hýði (af korni, matbaunum o.s.frv.); s. taka hýðið af
+hushed l. lágur (um hljóð)
+husk n. hýði (af korni, matbaunum o.s.frv.); s. taka hýðið af
 husky l. hýðiskenndur; rámur (um málróm), hás; þurr
-hussar (húzár') n. léttvopnaður (upprunalega ungverskur) riddari
-hussif (hpzziff) n. lítið saumahylki, nálhús; sjá [housewife]
+hussar n. léttvopnaður (upprunalega ungverskur) riddari
+hussif n. lítið saumahylki, nálhús; sjá [housewife]
 hussy n. dækja
-huzzy (h0zi) n. dækja
+huzzy n. dækja
 hustings n. ft. ræðupallur (á kjörþingi); kjörþing
-hustle (h0st'l) s. hrinda, reka; ryðjast; rekast (á [against])
-huswife (h0zziff) n. sjá [housewife]
+hustle s. hrinda, reka; ryðjast; rekast (á [against])
+huswife n. sjá [housewife]
 hut n. kofi, hreysi; s. setja (hermenn) í búðir; hafa vetrarsetu, hafast við (dvelja) í búðum
 hutch n. kassi til að geyma korn (eða skepnur) í; s. setja í kassa
 huzza uh. húrra! s. hrópa húrra ([~ for one])
-hyacinth (hæasinþ) n. hýasinta, jasinta
+hyacinth n. hýasinta, jasinta
 hyades n. ft. sjöstirni
 hyaline n. spegilsléttur sjór; l. gagnsær sem gler
 hybrid n. kynblendingur; l. framkominn af tveim ólíkum tegundum (plantna eða dýra)
@@ -1043,14 +1043,14 @@ hydraulic l. vatnsafls-, gerður með vatnsafli
 hydraulics n. ft. vatnsaflfræði
 hydrogen n. vatnsefni, vetni
 hydromel n. hunangsvatn, mjöður
-hydrometer (hædromm'itar) n. vatnsþungamælir
-hydropathic ('paþik) l. vatnslækninga- ([~ bandages, ~ treatment])
-hydropathist (hædropp'-aþist) n. vatnslæknir
+hydrometer n. vatnsþungamælir
+hydropathic l. vatnslækninga- ([~ bandages, ~ treatment])
+hydropathist n. vatnslæknir
 hydropathy n. vatnslækningafræði
 hydrophobia n. vatnsfælni, hundaæði
 hydrostatics n. vatnstöðufræði, vatnsþrýstingarfræði
-hyemal (hæí'mal) l. vetrarlegur, vetrar-
-hyemate (hæimeit) s. hafa vetrarsetu, dvelja vetrarlangt
+hyemal l. vetrarlegur, vetrar-
+hyemate s. hafa vetrarsetu, dvelja vetrarlangt
 hyena n. hýena (villidýr)
 hygeian l. heilsufræðislegur, heilbrigðis-
 hygeist n. heilsufræðingur

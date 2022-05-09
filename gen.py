@@ -58,21 +58,21 @@ def ipa4entry(s: str, lang="uk") -> Optional[str]:
     """Look up IPA for word."""
     assert lang in ["uk", "us"]
     if lang == "uk":
-        ENWORD_TO_IPA = ENWORD_TO_IPA_UK
+        word2ipa = ENWORD_TO_IPA_UK
     else:
-        ENWORD_TO_IPA = ENWORD_TO_IPA_US
-    ipa = ENWORD_TO_IPA.get(s)
+        word2ipa = ENWORD_TO_IPA_US
+    ipa = word2ipa.get(s)
     if not ipa and " " in s:
         # It's a multi-word entry
         wipa = s.split()
         ipa4words = []
         # Look up each individual word and assemble
         for wp in wipa:
-            lookup = ENWORD_TO_IPA.get(wp)
+            lookup = word2ipa.get(wp)
             if not lookup:
-                lookup = ENWORD_TO_IPA.get(wp.lower())
+                lookup = word2ipa.get(wp.lower())
             if not lookup:
-                lookup = ENWORD_TO_IPA.get(wp.capitalize())
+                lookup = word2ipa.get(wp.capitalize())
             if not lookup:
                 break
             else:

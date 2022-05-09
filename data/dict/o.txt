@@ -45,7 +45,7 @@ oblation (oblei'shan) n. fórnargjöf
 obligated (-geitid) l. skuldbundinn, skyldur (til að gera e-ð)
 obligation n. skuldbinding; skylda, skyldukvöð
 obligatory (obligatari) l. skuldbindandi; skyldugur, skyldu-
-oblige (oblæ'dzh) s. neyða; skuldbinda; gera (e-m) greiða, gera bón (e-s); [I am much ~-d to you] ég er yður mjög skuldbundinn (þakklátur)
+oblige (oblæ'dzh) s. neyða; skuldbinda; gera (e-m) greiða, gera bón (e-s); [I am much ~d to you] ég er yður mjög skuldbundinn (þakklátur)
 obliging l. vingjarnlegur, vinsamlegur; greiðvikinn
 obligingness n. vinsemd, ljúfmennska, viðfelldni; greiðasemi
 oblique l. skáhallur; skakkur; óbeinn; leynilegur, myrkur; [in ~ terms] undir rós; [an ~ hint] leynileg bending
@@ -174,8 +174,8 @@ of (ovv) fs. af; um; í; frá; eftir; [blind ~ one eye] blindur á öðru auga; 
 off fs. & ao. af; frá; út úr; (í sjómannamáli) fyrir utan, út undan ([~ the Isle of Wight]); burtu; [I have just come ~ a journey] ég er nýkominn úr ferð; [he was not ~ the bed the whole day] hann fór ekki úr rúminu allan daginn; [be well ~] vera vel efnaður; [be badly (ill) ~] vera illa farinn, eiga við bág kjör að búa; [~ and on] upp og niður; öðru hverju; að og frá landi
 offal (offal) n. úrgangur; leifar; innmatur; úrgangsfiskur; rusl
 offcast (-kást) n. úrkast
-offence (offens') n. móðgun; afbrot, misgerð; reiði; hneyksli; árás, sókn ([arms of ~]); [give ~] vekja hneyksli; móðga; [take ~ at] styggjast af; misvirða; [caught in the ~] staðinn að verkinu
-offend (offend') s. móðga, styggja; gera reiðan; hneyksla; misgera; [be ~-ed at something] styggjast eða móðgast af e-u
+offence n. móðgun; afbrot, misgerð; reiði; hneyksli; árás, sókn ([arms of ~]); [give ~] vekja hneyksli; móðga; [take ~ at] styggjast af; misvirða; [caught in the ~] staðinn að verkinu
+offend s. móðga, styggja; gera reiðan; hneyksla; misgera; [be ~ed at something] styggjast eða móðgast af e-u
 offender n. misgerðarmaður; móðgari; syndari
 offensive l. móðgandi; hneykslanlegur; óþægilegur ([~ to the ear, ~ smell]); skaðlegur; árásar-, sóknar- ([~ arms]); n.; [the ~] sóknarstaða, sókn; [act on (give up) the ~] halda uppi (leggja niður) sókn
 offer (offar) s. bjóða; bjóða fram; láta í té, veita; fórna ([~ up]); bjóðast til e-s, að gera e-ð; reyna, dirfast; [when an opportunity -~] þegar tækifæri gefst; [~ resistance] veita mótstöðu; [~ violence to] beita e-n ofbeldi; n. boð, tilboð; [I made him an ~ he couldn't refuse] ég gerði tilboð sem hann gat ekki hafnað
@@ -304,25 +304,25 @@ opinion (öpin'jon) n. ætlun, hyggja, skoðun; álit; [public ~] almenningsáli
 opinionated (-eitid) l. sjálfbirgingslegur, þrár, þverúðarfullur
 opinionative (-eitiv) l. þrár
 opium (ópiom) n. ópíum, svefnlyf
-opossum (-am) n. pungrotta
+opossum n. pungrotta
 oppidan n. bæjarsveinn (við Eton-skóla); borgarbúi; l. borgar-
-opponent (öpó'nant) n. andstæðingur, mótstöðumaður, andmælandi; l. andstæður
+opponent n. andstæðingur, mótstöðumaður, andmælandi; l. andstæður
 opportune l. hentugur, hagkvæmur; heppilegur
-opportunism (-tjú'niz'm) n. hentistefna
+opportunism n. hentistefna
 opportunist n. tækifærissinni, hentistefnumaður
 opportunity n. færi, tækifæri ([seize the ~]); hentugur tími
-opposable (öpó'zab'l) l. sem má setja á móti ([the thumb is ~ to the other fingers])
-oppose (öpóz') s. setja á móti; standa á móti, berjast á móti; mæla á móti; [~-d to] gagnstæður, mótfallinn e-u
+opposable l. sem má setja á móti ([the thumb is ~ to the other fingers])
+oppose s. setja á móti; standa á móti, berjast á móti; mæla á móti; [~d to] gagnstæður, mótfallinn e-u
 opposer n. mótstöðumaður
-opposite (oppözit) l. mótsettur; andstæður, gagnstæður; n. mótsetning; gagnstæði
-opposition (oppözish'an) n. mótsetning; mótstaða, mótmæli; mótstöðuflokkur ([the leader of the ~]); andstæðingar
-oppress (öpress') s. bæla niður, undiroka, kúga; þjá, þjaka; [~ the stomach] ofbjóða maganum
-oppression (öpresh'an) n. undirokun; ánauð, áþján, kúgun; þrýsting
+opposite l. mótsettur; andstæður, gagnstæður; n. mótsetning; gagnstæði
+opposition n. mótsetning; mótstaða, mótmæli; mótstöðuflokkur ([the leader of the ~]); andstæðingar
+oppress s. bæla niður, undiroka, kúga; þjá, þjaka; [~ the stomach] ofbjóða maganum
+oppression n. undirokun; ánauð, áþján, kúgun; þrýsting
 oppressive l. þjakandi, harðstjórnarlegur; þungur, þungbær
 oppressor n. kúgari
-opprobrious (öprób'rias) l. svívirðilegur, skammarlegur; [~ words, language] skammaryrði, skammir
-opprobrium (öpró'briam) n. smán, skömm, minnkun, svívirðing
-oppugn (öpjún') s. ráðast á (með rökum); standa á móti
+opprobrious l. svívirðilegur, skammarlegur; [~ words, language] skammaryrði, skammir
+opprobrium n. smán, skömm, minnkun, svívirðing
+oppugn s. ráðast á (með rökum); standa á móti
 oppugnancy n. mótstaða
 oppugner n. mótstöðumaður, andstæðingur
 optative l. [~ mood] óskarháttur

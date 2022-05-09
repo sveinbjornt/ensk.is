@@ -84,7 +84,7 @@ kind l. góður, góðgjarn, vingjarnlegur, vænn; [it's ~ of you] það er vel 
 kindhearted l. brjóstgóður, góðgjarn
 kindly l. vingjarnlegur, mildur, blíður; ao. vingjarnlega, góðfúslega; [I should take it very ~] ég mundi meta það mikils
 kindness n. góðsemi, góðvild, greiði
-kindle s. kveikja; tendra upp; æsa; kvikna ([their mutual resentment ~-d again]); brenna, loga; [~ up the fire] kveikja upp eldinn
+kindle s. kveikja; tendra upp; æsa; kvikna ([their mutual resentment ~d again]); brenna, loga; [~ up the fire] kveikja upp eldinn
 kindler n. kveikjari
 kindred n. skyldleiki; ætt; ættingjar; [to claim ~ with] telja sig í ætt við; l. skyldur; líkur; [a ~ likeness] ættarmót
 kine n. ft. kýr, sjá [cow]
@@ -144,7 +144,7 @@ kneecap n. hnéskel
 kneepan n. hnéskel
 kneel (níl) s. knékrjúpa, knéfalla (fyrir e-m [to]); krjúpa á kné
 kneeling n. knéfall, knékrop
-knell (nell) n. líkhringing ([funeral ~]); s. hringja líkhringingu
+knell n. líkhringing ([funeral ~]); s. hringja líkhringingu
 knickerbockers n. ft. knjábuxur
 knick-knack (niknakk) n. smáglingur, glysmunir
 knife (næf) n. hnífur; [war to the ~] barátta til þrautar; s. reka í gegn með hnífi
@@ -156,27 +156,27 @@ knight errant n. farandriddari
 knighthood n. riddaratign; riddarastétt
 knightly l. riddaralegur; ao. riddaralega
 knightship n. riddaratign; riddarastétt
-knit (nitt) s. hnýta; prjóna; tengja, binda; [~ the brows] hnykla brýnnar, hleypa brúnum
+knit s. hnýta; prjóna; tengja, binda; [~ the brows] hnykla brýnnar, hleypa brúnum
 knitting n. prjónaskapur, prjón
 knitting-pin n. bandprjónn
-knob (nobb) n. hnappur; hnúður; húnn; hóll
+knob n. hnappur; hnúður; húnn; hóll
 knobbed l. kvistóttur; hnúskóttur; ósléttur; hólóttur
 knobby l. kvistóttur; hnúskóttur; ósléttur; hólóttur
-knock (nokk) s. slá; berja (að dyrum [at the door]); [~ about] hrekjast (flakka) um; lifa óreglulega; [~ down] fella, jarðvarpa; reka niður (staur); slá (e-m) á uppboði; [~ off] hætta vinnu; koma e-u frá; slá af (verði); hrökkva upp af, deyja; [~ on the head] rota með höggi í höfuðið; ónýta (áform); [be ~-ed on the head] farast fyrir, verða að engu; [~ one's head against] reka höfuðið í e-ð, reka sig á; [~ under] gefast upp; [~ up] berja (vekja) upp; þreyta, lýja; hrófa e-u upp; gefast upp af þreytu; rekast upp (á land [on the shore]); verð ólettur ([she got ~-d up])
-knock (nokk) n. högg; [there is a ~ at the door] það er barið að dyrum
+knock s. slá; berja (að dyrum [at the door]); [~ about] hrekjast (flakka) um; lifa óreglulega; [~ down] fella, jarðvarpa; reka niður (staur); slá (e-m) á uppboði; [~ off] hætta vinnu; koma e-u frá; slá af (verði); hrökkva upp af, deyja; [~ on the head] rota með höggi í höfuðið; ónýta (áform); [be ~ed on the head] farast fyrir, verða að engu; [~ one's head against] reka höfuðið í e-ð, reka sig á; [~ under] gefast upp; [~ up] berja (vekja) upp; þreyta, lýja; hrófa e-u upp; gefast upp af þreytu; rekast upp (á land [on the shore]); verð ólettur ([she got ~d up])
+knock n. högg; [there is a ~ at the door] það er barið að dyrum
 knockabout l. ofsalegur; hávær; [~ suit] ferðaföt
 knockdown l. ómótstæðilegur
 knocked price n. lægsta verð á uppboði
 knocker n. dyrahamar
 knocking n. barsmið, högg ([~ at the door])
 knockkneed l. innskeifur; veill, veigalítill ([a ~ argument])
-knoll (nól) n. hóll; þúfa
+knoll n. hóll; þúfa
 knoll s. hringja (líkhringing); n. (lík)hringing
-knot (nott) n. hnútur ([to tie/knit a ~]); hnýti; hópur, þyrping; kvistur (í tré); kné eða liður á strái; sjómíla; s. hnýta; flækja
+knot n. hnútur ([to tie/knit a ~]); hnýti; hópur, þyrping; kvistur (í tré); kné eða liður á strái; sjómíla; s. hnýta; flækja
 knotted l. hnýttur; kvistóttur; flókinn
 knotty l. hnýttur; kvistóttur; flókinn
 knout n. e.k. refsisvipa (í Rússlandi); s. berja með svipu
-know (nó) s. þekkja; vita; kunna ([to ~ one profession only]); [to come to ~] fá að vita; [~ how to swim] kunna að synda; [~ a lesson] kunna lexíu; n. [those in the ~] þeir sem vita (eða til þekkja)
+know s. þekkja; vita; kunna ([to ~ one profession only]); [to come to ~] fá að vita; [~ how to swim] kunna að synda; [~ a lesson] kunna lexíu; n. [those in the ~] þeir sem vita (eða til þekkja)
 knowable l. þekkjanlegur, vitanlegur
 knower n. þekkjari [no ~ of men] enginn mannþekkjari
 knowing l. sem hefur vit á, sem kann til (e-s [in]); kænn; glettinn, kímileitur; [a ~ look] glettnissvipur; n. vitund, þekking; [there is no ~ how] það er ekki hægt að vita (segja), hvernig

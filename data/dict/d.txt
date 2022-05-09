@@ -68,7 +68,7 @@ dapper l. lipur; snotur, hvatlegur
 dapperling n. hnokki, patti
 dapple l. mislitur; s. gera mislitt
 dapple-grey l. apalgrár, steingrár
-dare s. þora, dirfast; hafa hug til e-s, áræða; bjóða (e-m) byrgin, mana ([I ~ you]); [I would if I ~-d or durst] ef ég þyrði; [they ~-d or durst not come, they did not ~ to come] þeir þorðu ekki að koma; [I ~ say] ég þori (mér er óhætt) að segja
+dare s. þora, dirfast; hafa hug til e-s, áræða; bjóða (e-m) byrgin, mana ([I ~ you]); [I would if I ~d] ef ég þyrði; [they ~d not come, they did not ~ to come] þeir þorðu ekki að koma; [I ~ say] ég þori (mér er óhætt) að segja
 daredevil n. ofurhugi
 daring l. djarfur, hugaður; n. dirfska, hugrekki
 daringly ao. með dirfsku
@@ -264,7 +264,7 @@ decorative l. sem er til prýðis, skraut- ([~ arch])
 decorous l. sæmilegur; háttprúður, velsæmislegur
 decorticate s. taka hýðið (börkinn) utan af
 decorum n. velsæmi, látprýði, háttprýði ([rules of ~])
-decoy s. lokka, ginna; n. lokkari, ginnari; agn, tálbeita; tálfugl; [~-bird; ~-duck] n. ginningarönd (er lokkar aðrar endur að sér)
+decoy s. lokka, ginna; n. lokkari, ginnari; agn, tálbeita; tálfugl; [~-bird; ~-duck] ginningarönd (er lokkar aðrar endur að sér)
 decrease s. minnka (verða minni, gera minni); [~ in number] fækka; n. minnkun, rénun, fækkun
 decree n. tilskipun; ályktun; úrskurður, dómur; s. ákveða; úrskurða, dæma
 decrement n. rénun, rýrnun
@@ -554,7 +554,7 @@ deportment n. hegðun, aðferð; látbragð, framkoma ([lessons in ~])
 deposable l. sem víkja má úr embætti, afsetjanlegur
 deposal n. frávikning, afsetning
 depose s. leggja niður; steypa úr völdum ([~ a king]); víkja (e-m) úr embætti; bera vitni, votta (fyrir rétti)
-deposit s. leggja, setja niður; koma e-u fyrir til geymslu; leggja (fé) inn (í banka); setja(st) á botninn; [to be ~-ed] setjast á botninn (um annarleg efni í vatni); n. niðurburður; geymslufé; innlag í banka; veð
+deposit s. leggja, setja niður; koma e-u fyrir til geymslu; leggja (fé) inn (í banka); setja(st) á botninn; [to be ~ed] setjast á botninn (um annarleg efni í vatni); n. niðurburður; geymslufé; innlag í banka; veð
 depositary n. geymslumaður, fjárhaldsmaður; geymslustaður
 depository n. geymslumaður, fjárhaldsmaður; geymslustaður
 deposition n. ofantekning (Krists af krossinum); niðurlagning; innlag (í banka); niðurburður, árburður; framburður (vitnis)
@@ -644,7 +644,7 @@ designing l. undirhyggjufullur
 designate s. ákveða, tiltaka; benda á; nefna (í e-a stöðu [to, for an office])
 designation n. nefning; skipun (í e-a stöðu); nafn, heiti
 desirable l. æskilegur, eftirsóknarverður
-desire s. æskja, óska; beiðast, biðja ([~-d him to wait]); n. ósk, löngun; beiðni
+desire s. æskja, óska; beiðast, biðja ([~d him to wait]); n. ósk, löngun; beiðni
 desirous l. sólginn, fíkinn (í [of]); [to be ~ (of)] óska, vilja
 desist s. hætta (við [from])
 desk n. skrifborð, púlt; skólaborð
@@ -758,7 +758,7 @@ devise n. arfleiðsluskrá; arfleiðslugjöf (í fasteign)
 devisor n. arfleiðandi
 devoid l. tómur; laus (við [of])
 devolution n. hrun, fall; tilfall (arfs); flutningur, færsla (frá einum til annars); úrkynjun
-devolve s. velta (e-u) niður; leggja e-m (t.d. byrði eða skyldu) á herðar ([on, upon]); falla (komast) í hendur e-m ([to/into the hands of]); falla undir e-n að erfðum; lenda á e-m ([the chief labour ~-d on him]); úrkynjast
+devolve s. velta (e-u) niður; leggja e-m (t.d. byrði eða skyldu) á herðar ([on, upon]); falla (komast) í hendur e-m ([to/into the hands of]); falla undir e-n að erfðum; lenda á e-m ([the chief labour ~d on him]); úrkynjast
 devote s. helga (tíma sinn, alla krafta sína e-u málefni); ofurselja; [~ oneself to science] helga vísindunum starf sitt
 devoted l. hollur, trúr; ákafur; ofurseldur; ógæfusamur; [~ to duty] skyldurækinn
 devotee n. trúrækinn maður
@@ -854,7 +854,7 @@ digestive l. meltingar-; auðmeltur: n. meltingarlyf
 digest n. lögbók
 digger n. grafari; gullgrafari
 digging n. gröftur; gullnáma
-digit n. tá, fingur
+digit n. tá, fingur; tölustafur
 dignified l. veglegur
 dignify s. gera veglegan; sæma
 dignitary n. yfirklerkur
@@ -1080,7 +1080,7 @@ disencumber s. losa (við e-ð [of, from])
 disengage s. losa, leysa; losa sig, losna ([~ oneself])
 disengaged l. laus; frjáls; óstarfsettur
 disengagement n. lausn; næði, tóm
-disentangle s. greiða (flækju); losa; losna; [got ~-d] losnaði
+disentangle s. greiða (flækju); losa; losna; [got ~d] losnaði
 disenthral s. leysa úr ánauð
 disenthrall s. leysa úr ánauð
 disentitle s. svipta rétti
@@ -1152,7 +1152,7 @@ dismemberment n. sundurlimun
 dismiss s. sleppa ([~ an idea]); senda heim (hermenn); vísa burt; vísa úr vist eða embætti; slíta ([~ the assembly]); vísa frá (máli)
 dismissal n. burtsending; burtrekstur; afsetning; frávísun
 dismission n. burtsending; burtrekstur; afsetning; frávísun
-dismount s. stíga af baki eða úr vagni; kasta (taka) af baki; ryðja niður (fallbyssum); [he ~-ed his horse] hann fór af baki
+dismount s. stíga af baki eða úr vagni; kasta (taka) af baki; ryðja niður (fallbyssum); [he ~ed his horse] hann fór af baki
 disobedience n. óhlýðni
 disobedient l. óhlýðinn
 disobey s. óhlýðnast
@@ -1379,7 +1379,7 @@ divorce (divörs') n. hjónaskilnaður; s. gera hjónaskilnað; skiljast við, s
 divulgate s. gera uppskátt, segja frá; uppljóstra
 divulgation (-geishon) n. opinberun, uppljóstrun ([~ of a secret])
 divulge (div0l'dzh) s. gera kunnugt, birta, koma e-u upp
-dizen s. hlaða skrauti utan á ([~-ed with gold and jewels])
+dizen s. hlaða skrauti utan á ([~ed with gold and jewels])
 dizziness n. svimi, sundl
 dizzy l. svimagjarn; svimandi, sundlandi; s. láta sundla; rugla
 do (dú) s. gera; framkvæma; ljúka við; starfa; hegða sér, breyta; duga, nægja; [~ him harm] gera honum mein; [it does him credit] það er honum til sóma; [~ a room] taka til í herbergi; [he did Lear] hann lék Lear; [~ a distance] fara svo eða svo langa vegalengd; [~ or die] duga eða drepast; [to have done writing] hafa lokið við að skrifa; [have done!] hættu! [thy will be done] verði þinn vilji; [~ a sum] reikna dæmi; [~ well] ganga vel, heppnast ([your affairs are ~-ing well]); [how ~ you ~]? hvernig liður yður? sælir verið þér o.s.frv.; [~ away (with)] with gera enda á e-u, útrýma; [~ (to others) as you would be done by] breyttu við aðra, eins og þú vilt að aðrir breyti við þig; [~ for] gera út af við; [~ into English] þýða á ensku; [~ to death] drepa; [~ up] gera við; búa um (böggul); gera út af við; leika á e-n; hafa af e-m; [~ with] notast við; komast af með e-ð; [~ without] komast af án e-s, geta verið án e-s
@@ -1666,7 +1666,7 @@ drossy l. sorafullur (um málma); óhreinn
 drought n. þurrkar, regnleysi
 drove n. rekstur; hjörð, hópur ([a ~ of sheep])
 drover n. fjárkaupmaður; fjárrekstrarmaður
-drown s. drekkja; flæða yfir; [to ~] drukkna; [to be ~-ed] að vera drekkt
+drown s. drekkja; flæða yfir; [to ~] drukkna; [to be ~ed] að vera drekkt
 drowse s. blunda, móka; gera daufan, sljóvga; [~ away time] eyða tímanum í iðjuleysi; n. blundur, mók
 drowsiness n. drungi, slen, deyfð
 drowsy l. drungafullur, syfjaður; svæfandi

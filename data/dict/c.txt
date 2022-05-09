@@ -1579,7 +1579,7 @@ comply s. samþykkja ([~ with one's desires, requests]); láta undan
 component l. sem e-ð samanstendur af; n. efnispartur
 comport s. koma heim við, eiga við ([with]); [~ oneself] hegða sér
 comportment n. hegðun
-compose s. setja saman, mynda ([to be ~-d of] vera samsettur af); semja, rita; setja (prentletur); jafna (deilu), sefa, stilla; setja í stellingar
+compose s. setja saman, mynda ([to be ~d of] vera samsettur af); semja, rita; setja (prentletur); jafna (deilu), sefa, stilla; setja í stellingar
 composed l. stilltur
 composedness n. stilling
 composer n. rithöfundur; tónskáld
@@ -1687,7 +1687,7 @@ condemnatory l. fyrirdæmandi ([~ language])
 condensable l. þéttanlegur
 condensate s. þétta; þykkna; harðna
 condensation n. þétting; þéttleiki; samþjöppun; samdráttur
-condense s. þétta; draga saman, stytta; þéttast ([the moisture has ~-d])
+condense s. þétta; draga saman, stytta; þéttast ([the moisture has ~d])
 condescend s. lítillækka sig; leggja sig niður við, láta svo lítið að ([to] með nafnhætti)
 condescending l. lítillátur
 condescension n. tala niður til einhvers; lítillæti, ljúfmennska
@@ -1697,7 +1697,7 @@ condisciple n. skólabróðir; samlærisveinn
 condition n. skilmáli; kostur; skilyrði; ástand, ásigkomulag; staða [~ of life, change one's ~] (stað)festa ráð sitt; [in a ~ to] fær um að; [in excellent ~] í ágætu standi, í ágætum holdum; [under existing ~s] eins og nú standa sakir; [on (the) ~ that] með því skilyrði, að; s. áskilja sér; koma sér saman um; binda (e-ð) skilyrði
 conditional l. bundinn skilyrði, takmarkaður; [~ clause] skildagasetning; [he made his consent ~ upon] hann batt samþykki sitt því skilyrði að
 conditionally ao. með skilyrði
-conditioned l. -lyndur ([an ill-~ woman]); -lagaður; ásigkominn; staddur; takmarkaður
+conditioned l. -lyndur ([an ill-~ woman]); -lagaður; ásigkominn; staddur; takmarkaður; skilyrtur
 condolatory s. sem vottarhluttekning (samhryggð)
 condole s. samhryggjast (e-m [with])
 condolence n. samhryggð
@@ -2405,7 +2405,7 @@ crab n. krabbi; skógarepli
 crabbed l. önugur, afundinn; önuglyndur; flókinn, þungskilinn; ógreinilegur (um rithönd)
 crabbedness n. önugleiki
 crabby l. krabba- ([~ paw]); sjá [crabbed]
-crack n. brestur, brak; smellur, hvellur; sprunga, rifa; s. bresta, braka; springa, rifna; gera smell með (keyri); brjóta ([~ a nut]); sprengja; skaða, hnekkja; [his voice ~-s, is ~-ed] hann er í mútum; [~ a joke] segja fyndni; [~ a bottle] tæma flösku; l. afbragðs- ([~ boat, ~ horse])
+crack n. brestur, brak; smellur, hvellur; sprunga, rifa; s. bresta, braka; springa, rifna; gera smell með (keyri); brjóta ([~ a nut]); sprengja; skaða, hnekkja; [his voice ~s, is ~ed] hann er í mútum; [~ a joke] segja fyndni; [~ a bottle] tæma flösku; l. afbragðs- ([~ boat, ~ horse])
 crackbrained l. geggjaður
 cracked l. brostinn, sprunginn; rámur, hás; ringlaður
 cracker n. gortari, lygari; hvelleldur; hörð tvíbaka; -brjótur ([nutcracker])
@@ -2568,7 +2568,7 @@ crossroad n. þvervegur; vegamót
 crossway n. þvervegur; vegamót
 crossways ao. þversum
 crosswise ao. þversum
-cross s. krossa; gera krossmark á; krossleggja; fara yfir; liggja yfir um; mæta; hitta; fara fram hjá; koma í bága við; hindra; blanda (kynið); strika lit ([out, off]); [~ the path of] verða á vegi e-s; [that thought never ~-ed my mind] mér datt slíkt aldrei í hug
+cross s. krossa; gera krossmark á; krossleggja; fara yfir; liggja yfir um; mæta; hitta; fara fram hjá; koma í bága við; hindra; blanda (kynið); strika lit ([out, off]); [~ the path of] verða á vegi e-s; [that thought never ~ed my mind] mér datt slíkt aldrei í hug
 crossing n. gatnamót, vegamót; stígur (yfir um götu)
 crotchet n. fjórðungsnóta; duttlungur
 crotcheteer n. heilabrotamaður
@@ -2698,7 +2698,7 @@ curial l. sem lýtur að páfahirðinni
 curiosity n. forvitni; hnýsni; fágætur (eða markverður) hlutur
 curious l. forvitinn; hnýsinn; nákvæmur ([~ enquiry]); markverður; skrítinn; kynlegur
 curiousness n. forvitni; hnýsni
-curl n. liður (á hári), hárlokkur; liðun (hársins); [~-s of smoke] reykjarhringir; s. snúa saman; gera liði (á hár); ýfa, gára; hrökkva, liðast (um hár), þyrlast í; [the dog ~-ed himself up] (hringaði sig) [on the sofa]
+curl n. liður (á hári), hárlokkur; liðun (hársins); [~-s of smoke] reykjarhringir; s. snúa saman; gera liði (á hár); ýfa, gára; hrökkva, liðast (um hár), þyrlast í; [the dog ~ed himself up] (hringaði sig) [on the sofa]
 curly l. hrokkinn; hrokkinhærður ([curly-haired])
 curlew n. spói
 curmudgeon n. svíðingur, nirfill

@@ -291,7 +291,7 @@ impledge (-pled'zh) s. veðsetja; [~ one's faith] leggja við drengskap sinn
 implement n. verkfæri, áhald, tól; s. fullgera; efna
 implemental l. verkfæralegur
 impletion (-plí'shan) n. fylling
-implicate (-keit) s. flækja, bendla (e-n við e-ð [with]); fela í sér
+implicate s. flækja, bendla (e-n við e-ð [with]); fela í sér
 implication n. flæking; sjálfsögð ályktun, nauðsynleg afleiðing; [by ~] óbeinlínis
 implicative (-keitiv) l. sem felur e-ð í sér ([~ of]), undirskilinn
 implicit (-pliss'it) l. þegjandi ([~ promise]); skilyrðislaus ([~ faith])
@@ -334,7 +334,7 @@ impoverishment n. það að gera eða verða fátækari; rýrnun, afturför
 impracticability n. óframkvæmanleiki; ófærð (vegarins [of the road])
 impracticable l. óframkvæmanlegur; ómögulegur; óviðráðanlegur; ófær (um veg)
 impractical l. sjá [unpractical]
-imprecate (-keit) s. biðja (e-m) bölbæna ([~ curses upon his name, his head]); biðja um e-ð
+imprecate s. biðja (e-m) bölbæna ([~ curses upon his name, his head]); biðja um e-ð
 imprecation n. formæling; bölbænir
 imprecatory l. formælingar- ([~ passages])
 impregnable l. óvinnandi ([~ camp, fortress]); ósigrandi
@@ -658,7 +658,7 @@ index (indeks) n. vísir (á sólúri); efnisyfirlit, registur; vísifingur; [~ 
 India n. Indland
 India rubber n. gúttaperka, togleður
 Indian l. indverskur; af frumbyggjaættum vestanhafs; n. Indverji; indjáni (frumbyggi Nýja heimsins)
-indicate (-keit) s. benda á, gefa til kynna
+indicate s. benda á, gefa til kynna
 indication n. bending, merki
 indicative (-dikk'ativ) l. sem bendir á ([of]); n. framsöguháttur ([~ mode])
 indicator (indikeitar) n. sá eða það, sem bendir á eða gefur til kynna
@@ -901,16 +901,16 @@ ingredient (ingrí'diant) n. innihaldsefni, efnispartur
 ingress n. innganga; aðgangur
 inguinal (ÍNgwinal) l. sem heyrir til náranum, nára-
 ingulf s. gleypa (sloka) í sig; [~ oneself, to be ~ed] falla út í hafið; hverfa niður í jörðina (um á); sbr. [engulf]
-ingurgitate (ingör'dzhiteit) s. gleypa (sloka, svolgra) í sig
-inhabit (inhabb'it) s. byggja, búa í; búa; [much ~-ed] fjölbyggður
+ingurgitate s. gleypa (sloka, svolgra) í sig
+inhabit s. byggja, búa í; búa; [much ~ed] fjölbyggður
 inhabitable l. byggilegur
 inhabitancy n. íbúð, búseta
 inhabitant n. íbúi
 inhabitation n. búseta, dvöl
 inhalation n. innöndun
-inhale (inheil') s. anda að sér
-inharmonious (inharmó'nias) l. ósamræmur; hjáróma
-inhere (inhír') s. vera í ([~ in the mind]); heyra til
+inhale s. anda að sér
+inharmonious l. ósamræmur; hjáróma
+inhere s. vera í ([~ in the mind]); heyra til
 inherence n. ívera
 inherency n. ívera
 inherent l. íverandi; meðskapaður ([~ in our nature])
@@ -941,7 +941,7 @@ initiate (inish'ieit) s. kenna frumatriðin ([~ in the elements of]); taka upp �
 initiation n. byrjun; frumkennsla; vígsla
 initiative l. fyrstur, byrjunar-; n. byrjun; frumkvæði, frumkvæðisréttur ([to possess/have the ~])
 initiatory (inish'iatöri) l. byrjunar-; [~ step] fyrsta stig
-inject (indzhekt') s. hleypa (spýta, dæla t.d. vatni úr pípu) inn; [the eyes were ~-ed] blóðstokkin
+inject s. hleypa (spýta, dæla t.d. vatni úr pípu) inn; [the eyes were ~ed] blóðstokkin
 injection (indzhek'shan) n. innspýting
 injudicious (indzhúdish'as) l. óvitur; óviturlegur, óskynsamlegur
 injunction (indzh0N'ksan) n. áminning ([~-s of secrecy]); skipun
@@ -1239,7 +1239,7 @@ interject s. kasta inn á milli; skjóta e-u inn
 interjection n. innskot; upphrópun; [note of ~] upphrópunarmerki
 interjectional l. innskotslegur
 interlace s. flétta saman
-interlard s. leggja feitt kjöt saman við magurt; blanda e-ð (e-u [with]); [a talk ~-ed with oaths] samtal fullt af blótsyrðum
+interlard s. leggja feitt kjöt saman við magurt; blanda e-ð (e-u [with]); [a talk ~ed with oaths] samtal fullt af blótsyrðum
 interleaf n. óskrifað blað fest inn á milli blaða
 interleave s. festa óskrifuð blöð á milli blaða í prentaðri bók
 interline s. skrifa milli línanna

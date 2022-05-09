@@ -19,7 +19,7 @@ naked (neikid) l. nakinn; klæðlaus; ber ([with the ~ eye]); skjóllaus, varnar
 nakedly ao. berlega, bert
 nakedness n. nekt, berleiki
 namby-pamby (nambi-pambi) l. tilgerðarlegur, teprulegur; n. tepruskapur (í ræðu eða riti)
-name (neim) n. nafn, heiti; orðrómur; orðstír; [to call ~-s] uppnefna; skamma; [of great (high) ~] frægur; [one's (good) ~] góða mannorð; [by ~] að nafni ([know by ~]); [in the ~ of] í nafni e-s; [what's his ~] hvað heitir hann; s. kalla, nefna; gefa nafn; [he is ~-d after his grandfather] heitir eftir (eða í höfuðið á) afa sinum
+name (neim) n. nafn, heiti; orðrómur; orðstír; [to call ~-s] uppnefna; skamma; [of great (high) ~] frægur; [one's (good) ~] góða mannorð; [by ~] að nafni ([know by ~]); [in the ~ of] í nafni e-s; [what's his ~] hvað heitir hann; s. kalla, nefna; gefa nafn; [he is ~d after his grandfather] heitir eftir (eða í höfuðið á) afa sinum
 nameless l. nafnlaus; óþekktur
 namely ao. sem sé, nefnilega
 nameplate n. nafnspjald
@@ -256,7 +256,7 @@ niece n. bróður- eða systurdóttir
 niggard n. nirfill, svíðingur; l. svíðinglegur, nískur
 niggardliness n. svíðingsskapur, níska
 niggardly l. svíðinglegur, nískur; ao. svíðinglega
-nigger n. blökkumaður
+nigger n. blökkumaður (niðrandi)
 niggle n. dund, nostur; pár; s. dunda (við e-ð [at]); [~ along] fara hægt áfram
 niggling n. nostursemi; vöndun; l. smásmuglegur
 nigh l. nálægur; ao. nálægt, nærri því; [well ~] hartnær
@@ -421,7 +421,7 @@ notepaper n. bréfapappír (í litlum örkum)
 noteworthy l. eftirtektarverður
 nothing n. ekkert, ekki neitt; [good for ~] einskis nýtur; [come to ~] verða að engu
 nothingness n. óverandleiki; fánýti, hégómi
-notice n. gaumur, eftirtekt; stutt grein; tilkynning; auglýsing; viðvörun; fyrirvari; [take ~ of] gefa gaum; [at (a) short ~] með litlum fyrirvara; [at three days' ~] með þriggja daga fyrirvara; [come (to be brought) into ~] verða kunnugt; [receive ~ of] fá vitneskju um; [give ~ to quit] segja upp; s. taka eftir, gefa gaum; minnast á, geta um; [the tenants were ~-d to quit] leiguliðunum var sagt upp
+notice n. gaumur, eftirtekt; stutt grein; tilkynning; auglýsing; viðvörun; fyrirvari; [take ~ of] gefa gaum; [at (a) short ~] með litlum fyrirvara; [at three days' ~] með þriggja daga fyrirvara; [come (to be brought) into ~] verða kunnugt; [receive ~ of] fá vitneskju um; [give ~ to quit] segja upp; s. taka eftir, gefa gaum; minnast á, geta um; [the tenants were ~d to quit] leiguliðunum var sagt upp
 noticeable l. eftirtektarverður
 noticeboard n. auglýsingatafla
 notification n. tilkynning; auglýsing
@@ -471,7 +471,7 @@ nullify s. ónýta, ógilda, nema úr gildi
 nullity n. ónýting; markleysa ([a mere ~])
 numb (n0mm) l. dofinn, loppinn, stirður af kulda; s. gera dofinn eða stirðan
 numbness n. doði, dofi
-number (nþmbar) n. tala; fjöldi; númer; tölublað; hefti (af bók, [a story issued in ~-s]); ft. hljóðfall; ljóð; s. telja; setja tölur á, tölusetja; vera að tölu; [his days are ~-ed] dagar hans eru taldir
+number (nþmbar) n. tala; fjöldi; númer; tölublað; hefti (af bók, [a story issued in ~-s]); ft. hljóðfall; ljóð; s. telja; setja tölur á, tölusetja; vera að tölu; [his days are ~ed] dagar hans eru taldir
 numberless l. óteljandi
 numerable (njúmarab'l) l. sem tölu verður á komið, teljandi
 numeral (njúmaral) l. sem lýtur að tölum; tölulegur; n. tala; tölustafur; töluorð
