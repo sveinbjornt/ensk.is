@@ -44,13 +44,13 @@ b = Bin()
 
 r = read_pages()
 
-IS_WORDS_WHITELIST = read_wordlist("is.whitelist.txt")
+IS_WORDS_WHITELIST = read_wordlist("data/is.whitelist.txt")
 
-EN_WORDS_LIST = read_wordlist("all.txt")
-EN_WORDS_WHITELIST = read_wordlist("en.whitelist.txt")
+EN_WORDS_LIST = read_wordlist("data/wordlists/words.txt")
+EN_WORDS_WHITELIST = read_wordlist("data/en.whitelist.txt")
 EN_WORDS_LIST.extend(EN_WORDS_WHITELIST)
 
-CATEGORIES = read_wordlist("wordcats.txt")
+CATEGORIES = read_wordlist("data/catwords.txt")
 
 
 def warn(s: str, pn: int, ln: int):
@@ -204,7 +204,7 @@ def check_icelandic_words(line: str, pn: int, ln: int):
     for t in tokenize(defstr):
         if t.kind != 6:
             continue
-        
+
         txt = t.txt
         if txt in CATEGORIES:
             continue
@@ -233,12 +233,12 @@ for page_num, page in enumerate(r):
     for line_num, line in enumerate(page):
         pn = page_num + 1
         ln = line_num + 1
-        #print(f"{pn}:{ln}| {line}")
-        # check_spacing(line, pn, ln)
-        # check_punctuation(line, pn, ln)
+        # print(f"{pn}:{ln}| {line}")
+        check_spacing(line, pn, ln)
+        check_punctuation(line, pn, ln)
         # check_category(line, pn, ln)
         # check_bracket_use(line, pn, ln)
         # check_phonetic_junk(line, pn, ln)
         # check_icelandic_words(line, pn, ln)
         # check_english_words(line, pn, ln)
-        check_enword_def(line, pn, ln)
+        # check_enword_def(line, pn, ln)
