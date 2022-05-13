@@ -47,7 +47,7 @@ astronaut n. geimfari
 cosmonaut n. geimfari
 jazz n. djass, djasstónlist
 faeces n. ft. saur, hægðir
-hillbilly n. sveitavargur
+hillbilly n. sveitavargur, afdalamaður
 commensurable l. sammælanlegur
 sniper n. leyniskytta
 straitjacket n. spennitreyja
@@ -561,3 +561,18 @@ fundraising n. fjáröflun
 fennel n. fennika (jurt)
 Madagascar n. Madagaskar
 publishing n. útgáfustarfsemi ([they're the biggest name in ~])
+CV n. ferilskrá (stytt. á [curriculum vitae])
+press conference n. blaðamannafundur, fréttamannafundur
+AIDS n. alænmi, eyðni (stytt. á [acquired immunodeficiency syndrome])
+limousine n. limúsína (einnig ritað limmósína), eðalvagn, glæsivagn
+enquiry n. spurning; fyrirspurn; rannsókn
+dialogue n. samræða, samtal
+lightweight l. léttur; léttvægur, veigalítill; n. keppandi í léttvigt í íþróttum (t.d. hnefaleikum, [lightweight champion])
+logistic l. sem lýtur að skipulagi (á t.d. flutningi á vistum og búnaði)
+logistical l. sem lýtur að skipulagi (á t.d. flutningi á vistum og búnaði)
+logistics n. ft. (hernaðar)fræði sem fást við skipulag og flutninga á búnaði, vistum, mannafli, o.þ.h.
+long-term l. langtíma-; [in the long-term] til langs tíma litrófsfræði
+hinterland n. upplönd, afdalasvæði; sveitir í kringum þéttbýli
+con artist n. svikahrappur, svindlari, blekkingamaður, blekkingameistari
+optimize s. besta, hagræða, fínstilla, gera eitthvað betra eða skilvirkara
+optimization n. bestun, hagræðing, fínstilling, betrumbót; auka skilvirkni e-s
