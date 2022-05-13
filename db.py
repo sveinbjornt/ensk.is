@@ -113,7 +113,7 @@ class EnskDatabase(object):
             "INSERT INTO dictionary (word, definition, ipa_uk, ipa_us, page_num) VALUES (?,?,?,?,?)",
             [w, definition, ipa_uk, ipa_us, page_num],
         )
-        conn.commit()
+        # conn.commit()
 
     def read_all_entries(self) -> List[Dict]:
         """Read and return all entries."""

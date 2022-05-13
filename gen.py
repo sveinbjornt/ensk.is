@@ -115,6 +115,7 @@ def add_entries_to_db(entries: EntryList) -> None:
         (w, definition, ipa_uk, ipa_us, pn) = e
         print(f"Adding {w}")
         db.add_entry(w, definition, ipa_uk, ipa_us, pn)
+    db.conn().commit()
 
 
 def generate_database(entries: EntryList) -> str:
