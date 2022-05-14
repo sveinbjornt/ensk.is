@@ -580,3 +580,198 @@ optimum l. bestur, hagstæðastur; n. kjörstaða
 optimal l. eins gott og getur orðið
 seeress n. spákona, völva, seiðkona
 oral sex n. munnmök
+Afghanistan n. Afganistan
+Albania n. Albanía
+Algeria n. Alsír
+American Samoa n. Bandaríska Samóa
+Andorra n. Andorra
+Angola n. Angóla
+Antarctica n. Suðurskautslandið
+Argentina n. Argentína
+Armenia n. Armenía
+Aruba n. Arúba
+Australia n. Ástralía
+Azerbaijan n. Aserbaídsjan
+Bahamas n. Bahamaeyjar
+Bahrain n. Barein
+Bangladesh n. Bangladess
+Barbados n. Barbados
+Belarus n. Hvíta-Rússland
+Belize n. Belís
+Benin n. Benín
+Bermuda n. Bermúdaeyjar
+Bhutan n. Bútan
+Bolivia n. Bólivía
+Bosnia n. Bosnía
+Herzegovina n. Hersegóvína
+Botswana n. Botsvana
+Brunei n. Brúnei
+Bulgaria n. Búlgaría
+Burkina Faso n. Búrkína Fasó
+Burundi n. Búrúndí
+Cambodia n. Kambódía
+Cameroon n. Kamerún
+Canada n. Kanada
+Cape Verde n. Grænhöfðaeyjar
+Cayman Islands n. Caymaneyjar
+Central African Republic n. Mið-Afríkulýðveldið
+Chad n. Tsjad
+Chile n. Síle
+Christmas Island n. Jólaey
+Colombia n. Kólumbía
+Comoros n. Kómoreyjar
+Congo n. Kongó
+Costa Rica n. Kostaríka
+Croatia n. Króatía
+Cuba n. Kúba
+Cyprus n. Kýpur
+Czechia n. Tékkland
+Djibouti n. Djíbútí
+Dominica n. Dóminíka
+Dominican Republic n. Dóminíska lýðveldið
+Ecuador n. Ekvador
+Egypt n. Egyptaland
+Equatorial Guinea n. Miðbaugs-Gínea
+Eritrea n. Erítrea
+Estonia n. Eistland
+Eswatini n. Svasíland
+Ethiopia n. Eþíópía
+Falkland Islands n. Falklandseyjar
+Faroe Islands n. Færeyjar
+Fiji n. Fídjíeyjar
+Finland n. Finnland
+France n. Frakkland
+French Guiana n. Franska Gvæjana
+French Polynesia n. Franska Pólýnesía
+Gabon n. Gabon
+Gambia n. Gambía
+Georgia n. Georgía
+Germany n. Þýskaland
+Ghana n. Gana
+Gibraltar n. Gíbraltar
+Greenland n. Grænland
+Guadeloupe n. Gvadelúpeyjar
+Guam n. Gvam
+Guatemala n. Gvatemala
+Guernsey n. Guernsey
+Guinea n. Gínea
+Guinea-Bissau n. Gínea-Bissá
+Guyana n. Gvæjana
+Haiti n. Haítí
+Honduras n. Hondúras
+Indonesia n. Indónesía
+Iran n. Íran
+Iraq n. Írak
+Isle of Man n. Mön
+Israel n. Ísrael
+Italy n. Ítalía
+Jamaica n. Jamaíka
+Jersey n. Jersey
+Jordan n. Jórdanía
+Kazakhstan n. Kasakstan
+Kenya n. Kenía
+Kiribati n. Kíribatí
+Kuwait n. Kúveit
+Kyrgyzstan n. Kirgistan
+Laos n. Laos
+Latvia n. Lettland
+Lebanon n. Líbanon
+Lesotho n. Lesótó
+Liberia n. Líbería
+Libya n. Líbía
+Liechtenstein n. Liechtenstein
+Lithuania n. Litháen
+Luxembourg n. Lúxemborg
+Malawi n. Malaví
+Malaysia n. Malasía
+Maldives n. Maldíveyjar
+Mali n. Malí
+Malta n. Malta
+Marshall Islands n. Marshalleyjar
+Martinique n. Martiník
+Mauritania n. Máritanía
+Mauritius n. Máritíus
+Mayotte n. Mayotte
+Mexico n. Mexíkó
+Micronesia n. Míkrónesía
+Moldova n. Moldóva
+Monaco n. Mónakó
+Mongolia n. Mongólía
+Montenegro n. Svartfjallaland
+Morocco n. Marokkó
+Mozambique n. Mósambík
+Myanmar n. Mjanmar
+Burma n. Búrma
+Namibia n. Namibía
+Nauru n. Nárú
+Nepal n. Nepal
+Netherlands n. Holland
+New Caledonia n. Nýja-Kaledónía
+New Zealand n. Nýja-Sjáland
+Nicaragua n. Níkaragva
+Niger n. Níger
+Nigeria n. Nígería
+North Korea n. Norður-Kórea
+North Macedonia n. Norður-Makedónía
+Oman n. Óman
+Pakistan n. Pakistan
+Palau n. Palá
+Palestine n. Palestína
+Panama n. Panama
+Papua New Guinea n. Papúa Nýja-Gínea
+Paraguay n. Paragvæ
+Peru n. Perú
+Philippines n. Filippseyjar
+Portugal n. Portúgal
+Puerto Rico n. Púertó Ríkó
+Qatar n. Katar
+Romania n. Rúmenía
+Russia n. Rússland
+Rwanda n. Rúanda
+Samoa n. Samóa
+San Marino n. San Marínó
+Saudi Arabia n. Sádi-Arabía
+Senegal n. Senegal
+Serbia n. Serbía
+Seychelles n. Seychelles-eyjar
+Sierra Leone n. Síerra Leóne
+Singapore n. Singapúr
+Slovakia n. Slóvakía
+Slovenia n. Slóvenía
+Solomon Islands n. Salómonseyjar
+Somalia n. Sómalía
+South Africa n. Suður-Afríka
+South Korea n. Suður-Kórea
+South Sudan n. Suður-Súdan
+Sri Lanka n. Srí Lanka
+Sudan n. Súdan
+Suriname n. Súrínam
+Svalbard n. Svalbarði
+Switzerland n. Sviss
+Syria n. Sýrland
+Taiwan n. Taívan
+Tajikistan n. Tadsjikistan
+Tanzania n. Tansanía
+Thailand n. Taíland
+Timor-Leste n. Austur-Tímor
+Togo n. Tógó
+Tokelau n. Tókelá
+Tonga n. Tonga
+Tunisia n. Túnis
+Turkmenistan n. Túrkmenistan
+Tuvalu n. Túvalú
+Uganda n. Úganda
+Ukraine n. Úkraína
+United Arab Emirates n. Sameinuðu arabísku furstadæmin
+United Kingdom n. Bretland
+United States n. Bandaríkin
+Uruguay n. Úrúgvæ
+Uzbekistan n. Úsbekistan
+Vanuatu n. Vanúatú
+Vatican n. Vatíkanið í Róm
+Venezuela n. Venesúela
+Vietnam n. Víetnam
+Western Sahara n. Vestur-Sahara
+Yemen n. Jemen
+Zambia n. Sambía
+Zimbabwe n. Simbabve
