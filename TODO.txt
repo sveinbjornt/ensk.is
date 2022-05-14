@@ -1,8 +1,9 @@
 TODO list for ensk.is:
 
+DONE * CI testing via GitHub Actions
+DONE * Optimize DB generation (don't commit on each insert)
+
 * Write tests
-* CI testing via GitHub Actions
 * Find IPA phonetic spelling for *all* words via Wiktionary
-* Optimize DB generation (don't commit on each insert)
 * Feedback mechanism for missing words
 * Separate exact match from partial matches visually
