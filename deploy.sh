@@ -6,5 +6,6 @@
 /usr/bin/rsync \
 --exclude ".git" \
 --exclude "venv" \
+--delete \
 -av "." \
-root@sveinbjorn.org:/www/ensk.is/html/
+root@ensk.is:/www/ensk.is/html/
