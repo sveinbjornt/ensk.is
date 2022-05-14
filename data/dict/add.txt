@@ -653,7 +653,6 @@ Greenland n. Grænland
 Guadeloupe n. Gvadelúpeyjar
 Guam n. Gvam
 Guatemala n. Gvatemala
-Guernsey n. Guernsey
 Guinea n. Gínea
 Guinea-Bissau n. Gínea-Bissá
 Guyana n. Gvæjana
@@ -662,7 +661,7 @@ Honduras n. Hondúras
 Indonesia n. Indónesía
 Iran n. Íran
 Iraq n. Írak
-Isle of Man n. Mön
+Isle of Man n. Mön (eyja milli Bretlands og Írlands)
 Israel n. Ísrael
 Italy n. Ítalía
 Jamaica n. Jamaíka
@@ -775,3 +774,5 @@ Western Sahara n. Vestur-Sahara
 Yemen n. Jemen
 Zambia n. Sambía
 Zimbabwe n. Simbabve
+tsar n. Rússlandskeisari
+tsarina n. Rússlandskeisarynja
