@@ -1,13 +1,8 @@
 #!/usr/bin/env
 
-import requests
-import bs4
 import subprocess
-import re
 
 from db import EnskDatabase
-
-CAM_URL = "https://dictionary.cambridge.org/dictionary/english/aberrancy"
 
 entries = EnskDatabase().read_all_entries()
 
@@ -35,8 +30,3 @@ for e in no_ipa:
         c = s[-1]
 
     print(e + ": " + str(c) + ",")
-
-    # url = CAM_URL + e
-    # print(url)
-    # r = requests.get(url)
-    # print(r.text)

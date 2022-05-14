@@ -52,5 +52,5 @@ top10k = read_wordlist("data/wordlists/google-10000-english-usa.txt")
 for t in top10k:
     if t not in dict_words:
         if not t.endswith("s"):
-        #     if t[:-1] not in dict_words:
+            #     if t[:-1] not in dict_words:
             print(t)
