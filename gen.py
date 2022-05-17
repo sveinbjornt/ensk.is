@@ -97,6 +97,8 @@ def read_all_entries() -> EntryList:
         ipa_us = ipa4entry(w, lang="us") or ""
         pn = page_for_word(w)
         entries.append(tuple([w, definition, ipa_uk, ipa_us, pn]))
+
+    entries.sort(key=lambda d: d[0])  # Sort alphabetically by word
     return entries
 
 
