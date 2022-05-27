@@ -1,50 +1,50 @@
-gab (gább) n. munnur, kjaftur; mælgi; [to have the gift of the ~] geta talað vel fyrir sig, vera liðugt um málbeinið; s. masa, kjafta
-gabble (gáb'l) s. bulla, þvaðra; n. bull, þvaður
+gab n. munnur, kjaftur; mælgi; [to have the gift of the ~] geta talað vel fyrir sig, vera liðugt um málbeinið; s. masa, kjafta
+gabble s. bulla, þvaðra; n. bull, þvaður
 gabbler n. þvaðrari
 gaberdine (gabardín) n. e.k. úlpa
 gabion (geibian) n. hólkmynduð vígiskarfa ([~s filled with stones])
-gable (geib'l) n. gafl
+gable n. gafl
 gable-end n. gaflhlað, gafl
 gablet n. lítill gafl
-gaby (geibi) n. auli, flón
-gad (gadd) n. gaddur, broddur, fleygur; broddstafur
-gad (gádd) s. slangra, slæpast til og frá ([~ about])
+gaby n. auli, flón
+gad n. gaddur, broddur, fleygur; broddstafur
+gad s. slangra, slæpast til og frá ([~ about])
 gadabout n. landeyða, slæpingur
 gadder n. landeyða, slæpingur
 gadding n. slangur
 gadfly n. gaddafluga, broddfluga
 gadwall n. litla gráönd ([anas strepera])
-Gael (geil) n. írskur eða skoskur Kelti, Háskoti
+Gael n. írskur eða skoskur Kelti, Háskoti
 Gaeldom n. Háskotaland
 Gaelic l. keltneskur, háskoskur; n. háskoska, keltneska
-gaff (gáff) n. greypirá, seglás; ífæra; s. krækja (fisk)
-gaffer (gáffor) n. karltetur; kunningi; verkstjóri, formaður
-gag (gágg) s. kefla; troða upp í e-n; gabba; n. munnkefli, ginkefli
-gage (geidzh) s. veðsetja; leggja að veði ([~ one's life, one's head]); skuldbinda; n. veð, pantur; áskorun til bardaga ([~ of battle])
-gaggle (gág'l) s. gagga (um gæs)
-gaiety (gei-iti) n. glaðværð, kátína
-gaily (geili) ao. glaðlega; glæsilega; [~ dressed] skrautbúinn
-gain (gein) s. fá ([~ a victory]); ná (komast) til ([~ the opposite bank of a river]); vinna, ávinna sér; græða; [~ the day] fá sigur; [~ ground] vinna á; aukast; vaxa; [~ over] fá (e-n) á sitt mál, í fylgi með sér; [~ on] vinna á e-u, eyða ([the sea was ~ing on the land]); færast nær e-m, draga e-n upp ([the headmost ship was ~ing on the frigate]); komast í hylli hjá e-m; n. ábati, gróði, ávinningur; vöxtur, aukning ([the ~ in weight])
+gaff n. greypirá, seglás; ífæra; s. krækja (fisk)
+gaffer n. karltetur; kunningi; verkstjóri, formaður
+gag s. kefla; troða upp í e-n; gabba; n. munnkefli, ginkefli
+gage s. veðsetja; leggja að veði ([~ one's life, one's head]); skuldbinda; n. veð, pantur; áskorun til bardaga ([~ of battle])
+gaggle s. gagga (um gæs)
+gaiety n. glaðværð, kátína
+gaily ao. glaðlega; glæsilega; [~ dressed] skrautbúinn
+gain s. fá ([~ a victory]); ná (komast) til ([~ the opposite bank of a river]); vinna, ávinna sér; græða; [~ the day] fá sigur; [~ ground] vinna á; aukast; vaxa; [~ over] fá (e-n) á sitt mál, í fylgi með sér; [~ on] vinna á e-u, eyða ([the sea was ~ing on the land]); færast nær e-m, draga e-n upp ([the headmost ship was ~ing on the frigate]); komast í hylli hjá e-m; n. ábati, gróði, ávinningur; vöxtur, aukning ([the ~ in weight])
 gainable l. fáanlegur
 gainer n. vinnandi
 gainful l. ábatasamur, arðsamur
 gainings n. ft. gróði
 gainly l. geðslegur
-gainsay (geinsei) s. mótmæla; [there is no ~ing this] það er ekki hægt að mótmæla þessu
+gainsay s. mótmæla; [there is no ~ing this] það er ekki hægt að mótmæla þessu
 gainsayer n. mótmælandi
-gait (geit) n. gangur, göngulag
-gaiter (geitor) n. leggbjörg, legghlíf
-gala (geilo) n. viðhafnarbúningur ([~ dress]); viðhafnarsamkoma
-galactic (golákt'ik) l. mjólkur-; vetrarbrautar- ([~ circle])
-galaxy (gállaksi) n. vetrarbraut; glæsilegur hópur, glæsilegt safn
-gale (geil) n. hvassviðri, stormur
+gait n. gangur, göngulag
+gaiter n. leggbjörg, legghlíf
+gala n. viðhafnarbúningur ([~ dress]); viðhafnarsamkoma
+galactic l. mjólkur-; vetrarbrautar- ([~ circle])
+galaxy n. vetrarbraut; glæsilegur hópur, glæsilegt safn
+gale n. hvassviðri, stormur
 galimatias n. þvættingur, bull
-gall (göl) n. gall; beiskja, vonska, heift; blekepli
+gall n. gall; beiskja, vonska, heift; blekepli
 gallbladder n. gallblaðra, gallpungur
 gallless l. galllaus; góðlyndur
 gallnut n. blekhnot, blekepli
-gall (göl) s. nugga (gat á hörundið, kaðal til skemmda); fleiðra, meiða (t.d. hest undan reiðveri); særa, erta; n. sár, meiðsl, fleiður
-gallant (gállont) l. glæsilegur; göfuglyndur; hugaður, hraustur, vasklegur; kurteis, stimamjúkur (við kvennfólk); n. friðill; spjátrungur; s. vera stimamjúkur við; fylgja í kurteisisskyni
+gall s. nugga (gat á hörundið, kaðal til skemmda); fleiðra, meiða (t.d. hest undan reiðveri); særa, erta; n. sár, meiðsl, fleiður
+gallant l. glæsilegur; göfuglyndur; hugaður, hraustur, vasklegur; kurteis, stimamjúkur (við kvennfólk); n. friðill; spjátrungur; s. vera stimamjúkur við; fylgja í kurteisisskyni
 gallantly ao. hraustlega; kurteislega
 gallantry n. skraut; göfuglyndi, hugprýði; kurteisi (við kvennfólk); daður
 galled l. meiddur ([saddle-~] meiddur undan söðli)
@@ -88,46 +88,46 @@ gaming-house n. spilahús
 gaming table n. spilaborð
 gammer n. kerlingartetur (sbr. [gaffer])
 gammon n. reykt svínslæri; e.k. tafl; gabb; svik; s. salta og reykja; gabba, svíkja; vinna í tafli (kotru, sjá [backgammon])
-gamut (gammat) n. tónstigi
-gamy (geimi) l. sem veiðidýrabragð er af; veiðisæll ([a ~ district]); veiði-; hugaður, áræðinn
-gander (gandor) n. gæsarsteggur
-gang (gaN) n. óaldarflokkur ([a ~ of thieves]); hópar, deild ([a ~ of workmen])
+gamut n. tónstigi
+gamy l. sem veiðidýrabragð er af; veiðisæll ([a ~ district]); veiði-; hugaður, áræðinn
+gander n. gæsarsteggur
+gang n. óaldarflokkur ([a ~ of thieves]); hópar, deild ([a ~ of workmen])
 gangboard n. gangpallur (í skipi); landgönguborð, -bryggja
 gangplank n. gangpallur (í skipi); landgönguborð, -bryggja
 gangway n. göng milli sætaraða; miðþilfar
-ganglion (gaNg-) n. taugahnútur
-gangrene (gaNgrín) n. rotnun, drep (í holdi); s. hleypa drepi (í hold)
+ganglion n. taugahnútur
+gangrene n. rotnun, drep (í holdi); s. hleypa drepi (í hold)
 gangrenous l. sem drep er í
-gannet (gannit) n. hafsúla
-gantlope (gántlóp) n. liðsmannarefsing; [to run the ~] ganga (hlaupa) fram og aftur milli tveggja raða af hermönnum og vera barinn af þeim
+gannet n. hafsúla
+gantlope n. liðsmannarefsing; [to run the ~] ganga (hlaupa) fram og aftur milli tveggja raða af hermönnum og vera barinn af þeim
 gaol n. fangelsi (sjá [jail])
-gap (gapp) n. op, gat, sprunga, skarð; eyða ([~ in our knowledge])
-gape (geip) s. gapa, gína; geispa; glápa, góna (á e-ð [at, on, upon]); sækjast eftir ([after, for]); n. op, gin ([he opens his ~]); geisp; gláp, gón
+gap n. op, gat, sprunga, skarð; eyða ([~ in our knowledge])
+gape s. gapa, gína; geispa; glápa, góna (á e-ð [at, on, upon]); sækjast eftir ([after, for]); n. op, gin ([he opens his ~]); geisp; gláp, gón
 gap-toothed (-túðd) l. gistenntur
-garb (gárb) n. búningur, klæðnaður
-garbage (gárbidzh) n. rusl, úrgangur, úrkast; innyfli (úr skepnum)
-garble (gárb'l) s. tína úr; skemma; afbaka, rangfæra
-garbles (gárb'lz) n. ft. ryk, rusl
-garden (gárd'n) n. garður (sáðgarður, aldingarður, blómgarður); s. fást við (stunda) garðyrkju
+garb n. búningur, klæðnaður
+garbage n. rusl, úrgangur, úrkast; innyfli (úr skepnum)
+garble s. tína úr; skemma; afbaka, rangfæra
+garbles n. ft. ryk, rusl
+garden n. garður (sáðgarður, aldingarður, blómgarður); s. fást við (stunda) garðyrkju
 gardened l. yrktur sem garður; þakinn görðum; [a ~ house] hús með garði
 gardener n. garðyrkjumaður
 gardening n. garðyrkja, garðrækt
 garden stuff n. garðávextir, garðjurtir
-gare-fowl (gérfál) n. geirfugl
-garfish (gár-) n. geirnefur, geirsíli
-garganey (gárgoni) n. urtönd
-gargarism (gárgoriz'm) n. kokvatn, kverkavatn
-gargarize (gár-goræz) s. skola innan kverkarnar
-gargle (gárg'l) s. skola innan kverkarnar (munninn); n. kverkavatn
-garish (gérish) l. gljáandi, skínandi, bjartur; íburðarmikill
-garland (gárlond) n. blómhringur
-garlic (gárlik) n. hvítlaukur, geirlaukur
-garment (gármont) n. föt, fatnaður
-garner (garnor) n. kornbúr, korngeymsluhús; s. flytja (korn) inn í kornbúr; safna
-garnet (gárnit) n. granat (gimsteinn)
-garnish (gárnish) s. prýða, skreyta; brydda (fat); n. skraut
+gare-fowl n. geirfugl
+garfish n. geirnefur, geirsíli
+garganey n. urtönd
+gargarism n. kokvatn, kverkavatn
+gargarize s. skola innan kverkarnar
+gargle s. skola innan kverkarnar (munninn); n. kverkavatn
+garish l. gljáandi, skínandi, bjartur; íburðarmikill
+garland n. blómhringur
+garlic n. hvítlaukur, geirlaukur
+garment n. föt, fatnaður
+garner n. kornbúr, korngeymsluhús; s. flytja (korn) inn í kornbúr; safna
+garnet n. granat (gimsteinn)
+garnish s. prýða, skreyta; brydda (fat); n. skraut
 garnishment n. skraut, prýði ([for ~])
-garniture (gárnitjor) n. skraut, bryddingar, leggingar; útbúnaður
+garniture n. skraut, bryddingar, leggingar; útbúnaður
 garret n. þakherbergi
 garreteer n. sá sem býr í þakherbergi
 garrison n. varnarlið, setulið; staður sem setulið er í ([~-town]); s. setja lið í (kastala); vera í setu (um herlið)
@@ -175,42 +175,42 @@ gay l. kátur, glaðvær; gjálífur, léttúðugur; skær, ljós ([~ colours])
 gayety n. glaðværð, kátína
 gayly ao. glaðlega; glæsilega; [~ dressed] skrautbúinn
 gaze s. stara, blína (á e-ð [at, on, upon]); n. starandi augnaráð
-gazelle (gazell') n. gasella (antilóputegund)
-gazette (gezett') n. auglýsingablað; lögbirtingablað; s. auglýsa (embættaveitingar o.þ.h.)
+gazelle n. gasella (antilóputegund)
+gazette n. auglýsingablað; lögbirtingablað; s. auglýsa (embættaveitingar o.þ.h.)
 gazetteer n. fréttaritari; landfræðisleg orðabók
-gear (gír) n. gír; verkfæri, áhöld; akreiði; reiðver, reiðtygi ([riding ~]); búningur, föt; gangskiptir (í vél); [out of ~] í ólagi; s. klæða; láta akreiða á ([~ up]); falla í (um tennur í tveimur hjólum); agnúast ([~ into each other])
-gelatine (dzhellatin) n. hlaup
-gelatinous (dzhilátt'inas) l. hlaupkenndur ([the ~ part of the blood])
-gelatinate (dzhilátt'ineit) s. gera að hlaupi, láta storkna
-geld (geld) s. gelda, vana (hest)
+gear n. gír; verkfæri, áhöld; akreiði; reiðver, reiðtygi ([riding ~]); búningur, föt; gangskiptir (í vél); [out of ~] í ólagi; s. klæða; láta akreiða á ([~ up]); falla í (um tennur í tveimur hjólum); agnúast ([~ into each other])
+gelatine n. hlaup
+gelatinous l. hlaupkenndur ([the ~ part of the blood])
+gelatinate s. gera að hlaupi, láta storkna
+geld s. gelda, vana (hest)
 gelder n. geldingamaður ([horse ~])
 gelding n. vanaður hestur
-gelid (dzhelid) l. ískaldur
-gem (dzhemm) n. gimsteinn; s. setja (e-ð) gimsteinum
-gemini (dzhemminæ) n. ft. tvíburar (stjörnumerki)
-gemmation (dzhemmei'shan) n. brumknappar
-gemmy (dzhemmi) l. settur gimsteinum; gimsteina-
-gendarme (dzhendárm) n. lögregluliðsmaður
+gelid l. ískaldur
+gem n. gimsteinn; s. setja (e-ð) gimsteinum
+gemini n. ft. tvíburar (stjörnumerki)
+gemmation n. brumknappar
+gemmy l. settur gimsteinum; gimsteina-
+gendarme n. lögregluliðsmaður
 gendarmery n. lögreglulið
-gender (dzhendar) n. kyn; s. ala, fæða, geta af sér
+gender n. kyn; s. ala, fæða, geta af sér
 genealogic l. sem lýtur að ættartölum
 genealogical l. sem lýtur að ættartölum
 genealogist n. ættartölumaður, ættfræðingur
-genealogize (-dzhæz) s. rekja ættartölu e-s, rekja ættartölur
-genealogy (dzhíniáll'ödzhi) n. ættartala, ættfræði, ættvísi
-general (dzhennaral) l. sem nær yfir allt, almennur, algildur; [in ~] yfir höfuð að tala, yfirleitt; n. hershöfðingi, herforingi ([~ in the army])
+genealogize s. rekja ættartölu e-s, rekja ættartölur
+genealogy n. ættartala, ættfræði, ættvísi
+general l. sem nær yfir allt, almennur, algildur; [in ~] yfir höfuð að tala, yfirleitt; n. hershöfðingi, herforingi ([~ in the army])
 generalissimo n. æðsti hershöfðingi
 generality n. mestur hluti; [like the ~ of people] eins og allur þorri manna
 generalize s. gera almennt, heimfæra upp á alla
 generally ao. vanalega
 generalship n. hershöfðingjatign, hershöfðingjaembætti; kænska; [a piece of ~] herbragð
-generate (dzhennareit) s. geta af sér, fæða; framleiða; valda
+generate s. geta af sér, fæða; framleiða; valda
 generation n. getning, æxlun; framleiðsla; ætt, ættliður; mannsaldur, kynslóð; niðjar
 generative l. getnaðar-; framleiðandi ([~ cause])
 generator n. framleiðsluafl; framleiðari; rafall
-generic (dzhin-err'ik) l. almennur ([~ term, name])
-generosity (dzhennaross'iti) n. göfuglyndi, veglyndi; örlæti
-generous (dzhennaras) l. veglyndur, örlátur
+generic l. almennur ([~ term, name])
+generosity n. göfuglyndi, veglyndi; örlæti
+generous l. veglyndur, örlátur
 genesis n. uppruni
 genial l. lífgandi, frjóvgandi; hlýr, blíður, mildur (um loftslag); ljúfmannlegur; glaðlyndur
 geniality n. veðurblíða; glaðlyndi
@@ -266,58 +266,58 @@ gesticulation n. látbragð
 gesture n. látbragð, limaburður
 get s. fá, ná í, útvega; fá til; komast ([~ into, out of a place]); verða ([~ well, ready]); [~ by heart] læra utan að; [~ drunk] verða drukkinn; [it is ~ting dark] það er farið að dimma; [I did not ~ so far] ég komst ekki svo langt; [~ you gone] snáfaðu í burtu; [what have you got] hvað hafið þér? [~ along] komast áfram; komast af (án e-s [without something]); [~ along well together] koma sér vel saman; [~ at] komast að e-u, ná í e-ð; [~ away] komast, fara í burtu; [~ off] koma (e-u) burt; losast við; losna, komast burtu; [~ on] komast af (án e-s [without]); [~ on with one] koma sér saman við e-n; [~ on in the world] komast áfram í veröldinni; [~ out] fara (stíga) út (t.d. úr vagni); [~ over] fara, komast yfir; bíða (e-s) bætur; vinna bug á; [~ through] komast í gegnum; [~ through with a bill] koma laganýmæli fram; [~ up] reisa við; koma (e-u) til leiðar; standa upp; fara á fætur
 gettable l. fáanlegur
-gewgaw (gjúgö) n. leikfang, glys, glingur, barnaglingur
-ghastly (gástli) l. náfölur; draugslegur, ógurlegur, hræðilegur
-ghost (góst) n. andi; afturganga, draugur, vofa; [the Holy Ghost] heilagur andi; [to give up the ~] andast
+gewgaw n. leikfang, glys, glingur, barnaglingur
+ghastly l. náfölur; draugslegur, ógurlegur, hræðilegur
+ghost n. andi; afturganga, draugur, vofa; [the Holy Ghost] heilagur andi; [to give up the ~] andast
 ghostlike l. vofulegur, drauga-
 ghostly l. andlegur; draugslegur
-ghoul (gúl) n. náæta
-giant (dzhæant) n. risi, jötunn
+ghoul n. náæta
+giant n. risi, jötunn
 giantess n. tröllkona, skessa
 giantlike l. risalegur, tröllslegur
-giaour (dzhár) n. vantrúarmaður (hjá Múhameðstrúarmönnum)
+giaour n. vantrúarmaður (hjá Múhameðstrúarmönnum)
 gibber s. þvogla, bulla
 gibberish n. þvogl, bull, hrognamál ([unintelligible ~])
-gibbet (gibbit) n. gálgi; s. hengja (lík) í gálga (til smánar)
+gibbet n. gálgi; s. hengja (lík) í gálga (til smánar)
 gibbose l. bungumyndaður
 gibbosity n. bungumyndun; bunga
 gibbous l. bungumyndaður; [~ back] herðakistill, kryppa
-gibe (dzhæb) s. spotta, hæða; sneiða; n. spott, háð, skens
+gibe s. spotta, hæða; sneiða; n. spott, háð, skens
 giber n. háðfugl
-gibing (dzhæb-ín) l. spottandi, hæðinn
+gibing l. spottandi, hæðinn
 gibly ao. í háði
-giblets (dzhiblits) n. ft. innyfli (lifur, fóarn o.fl. úr gæs)
+giblets n. ft. innyfli (lifur, fóarn o.fl. úr gæs)
 giddily ao. í eða með svima
 giddiness n. svimi; staðfestuleysi, léttúð
-giddy (giddi) l. sem sundlar; sundlandi; léttúðugur, óstöðugur; s. valda svima; fá svima
+giddy l. sem sundlar; sundlandi; léttúðugur, óstöðugur; s. valda svima; fá svima
 giddy-brained l. gapalegur
 giddy-headed l. gapalegur
 giddyhead n. gapi, glanni
-gift (gift) n. gjöf; hæfileiki, gáfa; [to have the ~ of] vera náttúraður fyrir; s. veita að gjöf ([~ one with]), gefa e-m e-ð ([~ a thing to someone])
+gift n. gjöf; hæfileiki, gáfa; [to have the ~ of] vera náttúraður fyrir; s. veita að gjöf ([~ one with]), gefa e-m e-ð ([~ a thing to someone])
 gifted l. gáfaður, hæfileikaríkur
 giftedness n. gáfur
-gig (gigg) n. tvíhjólaður léttivagn; bátur; s. aka í léttivagni
-gigantic (dzhægan'tik) l. tröllslegur, risavaxinn; afskaplegur
-giggle (gig'l) s. flissa, skríkja; n. fliss, skríkjur
+gig n. tvíhjólaður léttivagn; bátur; s. aka í léttivagni
+gigantic l. tröllslegur, risavaxinn; afskaplegur
+giggle s. flissa, skríkja; n. fliss, skríkjur
 gigglement n. skríkjur
 giggler n. sá sem er síflissandi
-gild (gild) s. gylla; fegra
+gild s. gylla; fegra
 gilder n. gyllari
 gilding n. gylling
-gill (giíl) n. tálkn (í fiski); kjötflipi, sepi (undir nefi sumra fugla); hold undir eyrum og kjálkum; [rosy about the ~s] sællegur; [white (blue, yellow) about the ~s] dapur í bragði, fölleitur
-gill (dzhill) n. hálfpeli (1/4 úr pint)
-gimbals (dzhimb'lz) n. ft. jafnvægishringar ([the lamp swung in its ~])
-gimcrack (dzhimkrakk) n. smáglingur, glys; l. glyslegur
+gill n. tálkn (í fiski); kjötflipi, sepi (undir nefi sumra fugla); hold undir eyrum og kjálkum; [rosy about the ~s] sællegur; [white (blue, yellow) about the ~s] dapur í bragði, fölleitur
+gill n. hálfpeli (1/4 úr pint)
+gimbals n. ft. jafnvægishringar ([the lamp swung in its ~])
+gimcrack n. smáglingur, glys; l. glyslegur
 gimcracky l. glingurslegur
-gimlet (gimlit) n. nafar, bor; s. bora (með nafri)
-gin (dzhinn) n. gin, einiberjabrennivín; lyftivél; veiðivél (snara, net)
-ginger (dzhindzhor) n. engifer
+gimlet n. nafar, bor; s. bora (með nafri)
+gin n. gin, einiberjabrennivín; lyftivél; veiðivél (snara, net)
+ginger n. engifer
 gingerbread n. piparkaka, hunangskaka
-gingerly (dzhindzharli) ao. varlega, gætilega; l. varkár; gætilegur
-gipsy (dzhipsi) n. sígauni
-giraffe (dzhiráff') n. gíraffi
-girandole (dzhira'ndól) n. armstjaki; þyrilflugeldar
-gird (görd) s. girða um, lykja um; gyrða; [~ on a sword] gyrða sig sverði; [~ up the clothes] stytta sig; [~ at] hæða, smána; n. gjörð; sár verkjarhviða; sáryrði, sneið; biti í gólfi
+gingerly ao. varlega, gætilega; l. varkár; gætilegur
+gipsy n. sígauni
+giraffe n. gíraffi
+girandole n. armstjaki; þyrilflugeldar
+gird s. girða um, lykja um; gyrða; [~ on a sword] gyrða sig sverði; [~ up the clothes] stytta sig; [~ at] hæða, smána; n. gjörð; sár verkjarhviða; sáryrði, sneið; biti í gólfi
 girdle s. gyrða um; binda utan um; inniloka; n. gjörð, gyrðill, belti
 girdle-belt n. lindi, belti
 girl n. stúlka, stelpa
@@ -325,13 +325,13 @@ girlhood n. stúlkuár, uppeldisár stúlku ([she had known him from her ~])
 girlish l. ungæðislegur; stúlkulegur, ungmeyjarlegur
 girth n. gjörð, söðulgjörð; ummál; s. gyrða (hest eða söðul)
 gist n. mergur málsins, aðalatriði ([the ~ of the matter])
-give (givv) s. gefa; veita; kveða upp ([~ a decision, judgement]); láta undan; verða vægari (um veður); fara að hlána; [~ me the pen] fáðu mér pennann; [~ no sign of life] sýna ekkert lífsmark; [he gave a terrific scream] hann rak upp ógurlegt öskur; [~ way, ~ ground] víkja, hörfa undan; [~ battle] eiga orustu; [~ chase] elta; [~ ear] ljá eyra; [~ one to understand] láta e-n skilja á sér, gefa e-m í skyn; [~ one a call] heimsækja (e-n) stuttlega; [~ trouble] valda ónæði; [the weather ~s] það dregur úr kuldanum; [~ out] lýsa yfir, skýra frá; bila, þrjóta ([his strength gave out]); [~ oneself out to be a learned man] þykjast vera lærður maður; [it was given out, that] það var látið heita svo, að; [~ over] hætta við (t.d. tilraun); leggja niður ([~ up a habit, mode of life]); ofurselja, selja e-n í hendur e-m ([to one]); [~ him over (up) for lost] vera alveg úrkula vonar um hann, telja hann af; [~ up] gefa upp, láta af hendi; selja fram; slá e-u frá sér, hætta við, sleppa; [he gave himself up to study] hann sökkti sér niður í bóknám
+give s. gefa; veita; kveða upp ([~ a decision, judgement]); láta undan; verða vægari (um veður); fara að hlána; [~ me the pen] fáðu mér pennann; [~ no sign of life] sýna ekkert lífsmark; [he gave a terrific scream] hann rak upp ógurlegt öskur; [~ way, ~ ground] víkja, hörfa undan; [~ battle] eiga orustu; [~ chase] elta; [~ ear] ljá eyra; [~ one to understand] láta e-n skilja á sér, gefa e-m í skyn; [~ one a call] heimsækja (e-n) stuttlega; [~ trouble] valda ónæði; [the weather ~s] það dregur úr kuldanum; [~ out] lýsa yfir, skýra frá; bila, þrjóta ([his strength gave out]); [~ oneself out to be a learned man] þykjast vera lærður maður; [it was given out, that] það var látið heita svo, að; [~ over] hætta við (t.d. tilraun); leggja niður ([~ up a habit, mode of life]); ofurselja, selja e-n í hendur e-m ([to one]); [~ him over (up) for lost] vera alveg úrkula vonar um hann, telja hann af; [~ up] gefa upp, láta af hendi; selja fram; slá e-u frá sér, hætta við, sleppa; [he gave himself up to study] hann sökkti sér niður í bóknám
 given l. hneigður (til e-s [to])
 giver n. gjafari, gefandi; -gjafi (sbr. [law-~, light-~])
 gizzard n. fóarn, fuglsmagi; [to frat one's ~] kvarta og kveina
-glabrous (gleibras) l. snoðinn, sléttur (um stöngul og blöð)
-glacial (gleishal) l. ískaldur, jökulkaldur; jökul-, ís-; [~ period] ísöldin
-glacier (gleishar) n. jökull, skriðjökull
+glabrous l. snoðinn, sléttur (um stöngul og blöð)
+glacial l. ískaldur, jökulkaldur; jökul-, ís-; [~ period] ísöldin
+glacier n. jökull, skriðjökull
 glacis n. hallandi út frá víggirðingu, hæg brekka
 glad l. glaður; gleðilegur ([a ~ sight]); glaðlegur ([~ countenance]); [I am ~ of it] ég gleðst af því, mér þykir vænt um það
 gladly ao. með gleði
