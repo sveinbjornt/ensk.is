@@ -29,7 +29,10 @@ The raw dictionary text files are stored [here](data/dict/).
 
 ## Deployment
 
-Set up Python virtual environment and install dependencies:
+The ensk.is web application is implemented using the
+[FastAPI](https://fastapi.tiangolo.com/) framework.
+To deploy it, you need to set up a Python virtual
+environment and install dependencies:
 
 ```
 $ virtualenv -p /path/to/python3 venv
