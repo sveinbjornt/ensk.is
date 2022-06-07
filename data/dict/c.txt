@@ -564,7 +564,7 @@ chalky l. krítkenndur; hvítur sem krít
 challenge n. áskorun (til einvígis); kviðruðning; s. skora á; bjóða til einvígis; véfengja; krefjast, heimta ([~ attention])
 challengeable l. sem má véfengja
 chalybeate l. járnkynjaður, járnblandinn
-chamber n. (svefn)-herbergi; þingdeild, málstofa; [~ counsel] lögfræðilegur ráðunautur
+chamber n. (svefn)herbergi; þingdeild, málstofa; [~ counsel] lögfræðilegur ráðunautur
 chamberlain n. herbergjastjóri konungs
 chambermaid n. þjónustustúlka, sem gætir svefnherbergja
 chamberpot n. næturgagn
@@ -1619,7 +1619,7 @@ comrade n. félagi, lagsmaður
 comradely l. kumpánalegur
 comradeship n. lagsmennska
 con s. læra (með því að lesa oft); skoða; kanna; svindla, blekkja, svíkja; n. svindl, blekking, svik
-con ao. (stytt úr [contra] á móti); [pro or ~] með eða móti; n. [the pros and ~s] það sem mælir með og móti
+con ao. (stytt úr [contra], á móti); [pro or ~] með eða móti; n. [the pros and ~s] það sem mælir með og móti
 concatenate s. tengja (hlekkja, skeyta) saman
 concatenation n. samtenging, samskeyting
 concave l. íholur, íhvolfur; n. hvelfing, himinhvelfing
@@ -2487,7 +2487,7 @@ creep s. skriða; læðast; kenna hrolls; [my skin/flesh ~s] það fer hrollur u
 creeper n. skriðkvikindi; klifrari (fuglsheiti); e.k. skriðplanta
 cremate s. brenna (lík)
 cremation n. líkbrennsla
-cremator n. (lík)-brennsluofn
+cremator n. (lík)brennsluofn
 crematorium n. líkbrennslustofa
 crematory l. líkbrennslu-; n. líkbrennslustöð
 crenel n. skotskarð

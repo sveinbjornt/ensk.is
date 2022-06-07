@@ -1167,12 +1167,12 @@ disownment n. neitun
 disparage s. niðra, óvirða, rýra (í áliti)
 disparagement n. niðrun, óvirðing
 disparagingly ao. óvirðulega ([to speak ~ of])
-disparate (disparat) l. gagnólíkur
-disparity (dispárr'iti) n. mismunur; [~ of years] aldursmunur
-dispart (á) s. skilja e-ð í sundur, kljúfa; skiljast í sundur, klofna
-dispassionate (-pash'önat) l. geðstilltur, gætinn; óhlutdrægur
-dispatch (dispátsh') s. senda (í skyndi); afgreiða (e-n); ljúka e-u; ráða af dögum; n. sending ([~ of letters]); skjót afgreiðsla ([~ of business]); flýtir; embættisbréf
-dispeace (-pís) n. sundurlyndi, ófriður ([Scotland had elements of ~])
+disparate l. gagnólíkur
+disparity n. mismunur; [~ of years] aldursmunur
+dispart s. skilja e-ð í sundur, kljúfa; skiljast í sundur, klofna
+dispassionate l. geðstilltur, gætinn; óhlutdrægur
+dispatch s. senda (í skyndi); afgreiða (e-n); ljúka e-u; ráða af dögum; n. sending ([~ of letters]); skjót afgreiðsla ([~ of business]); flýtir; embættisbréf
+dispeace n. sundurlyndi, ófriður ([Scotland had elements of ~])
 dispel s. flæma burt, eyða
 dispensable l. sem má án vera; ónauðsynlegur
 dispensary n. lyfjabúð (fyrir fátæklinga)
@@ -1181,20 +1181,20 @@ dispense s. útbýta, úthluta; [~ with] leysa (undan e-u); sleppa ([let us ~ wi
 dispeople s. eyða (land að íbúum); sjá [depopulate]
 disperse s. dreifa, tvístra; breiða út; eyða ([~ a tumor, trouble]); dreifast, tvístrast
 dispersedly ao. dreift
-dispersion (-pör'shan) n. dreifing, tvístrun
+dispersion n. dreifing, tvístrun
 dispersive l. dreifandi
 dispirit s. gera huglausan (hnugginn)
 dispirited l. hnugginn, dapur í bragði
 displace s. flytja (í annan stað); víkja (e-m) úr embætti
 displacement n. flutningur; ristudjúp skipa
-display (-plei') s. breiða út til sýnis; sýna; n. sýning; viðhöfn; [to make a ~ of] trana e-u fram, monta af e-u
-displease (displíz') s. misþóknast, styggja
+display s. breiða út til sýnis; sýna; n. sýning; viðhöfn; [to make a ~ of] trana e-u fram, monta af e-u
+displease s. misþóknast, styggja
 displeased l. óánægður; [be ~ at/with] með e-ð
-displeasure (-plezh'or) n. misþokki, ónáð
-disport (-pórt') n. skemmtun, dægrastytting; s. [~ oneself] skemmta (leika) sér
+displeasure n. misþokki, ónáð
+disport n. skemmtun, dægrastytting; s. [~ oneself] skemmta (leika) sér
 disporting n. skemmtun, leikur
-disposable (dispó'zab'l) l. sem er til umráða, handbær
-disposal (-pó'zal) n. niðurröðun; ráðstöfun; sala ([~ by sale]); umráð; [in the scanty space at my ~] í því takmarkaða rými sem ég hef umráð yfir
+disposable l. sem er til umráða, handbær
+disposal n. niðurröðun; ráðstöfun; sala ([~ by sale]); umráð; [in the scanty space at my ~] í því takmarkaða rými sem ég hef umráð yfir
 dispose s. raða niður; gera hneigðan (til [to]); gera hæfan (til [for]); [~ of] ráðstafa, koma (e-u) fyrir; útkljá ([~ of a question]); nota; selja, farga
 disposed l. hneigður; [ill-~] illa fyrirkallaður
 disposer n. ráðstafari, ráðandi, stjórnari
@@ -1273,9 +1273,9 @@ dissolvent l. uppleysandi; n. upplausnarefni
 dissonance n. mishljóðan, ósamræmi
 dissonant l. sem lætur illa í eyrum; ósamhljóða (e-u [from, to])
 dissuade s. telja e-n af (e-u [from]), letja; ráða frá e-u
-dissuasion (-swei'zhan) n. úrtölur, latning
-dissuasive (-swei'siv) l. letjandi ([~ speech]); n. latning
-distaff (distaff) n. hörbrúða; kvennleggur; [on the ~ side] í kvennlegg
+dissuasion n. úrtölur, latning
+dissuasive l. letjandi ([~ speech]); n. latning
+distaff n. hörbrúða; kvennleggur; [on the ~ side] í kvennlegg
 distance n. fjarlægð; bil, millibil; vegalengd; þurrleiki, fálæti ([~ of manner]); [at a ~] í fjarska, álengdar; [out of ~] of langt í burtu; [in the ~] í fjarska; [visitors from a ~] komnir langt að; [to be within (shooting) ~] vera í skotfæri; [to keep one's ~] vera ekki of nærgöngull; s. fjarlægja; fara fram úr; fjarlægjast (e-n stað)
 distant l. fjarlægur; fjarskyldur; fálátur; [seven miles ~] sjö mílur í burtu; [to be on ~ terms with] vera í fáleikum við (e-n)
 distaste n. óbeit; ímigustur (á e-u [for]); s. hafa óbeit á; styggja
@@ -1318,96 +1318,96 @@ distribution n. úthlutun, útbýting; útbreiðsla; skipting
 distributive l. úthlutandi (hverjum sitt)
 distributor n. úthlutari
 district n. hérað; umdæmi
-distrust (-tr0st') s. vantreysta, tortryggja; n. vantraust, tortryggð
+distrust s. vantreysta, tortryggja; n. vantraust, tortryggð
 distrustful l. vantreystandi ([~ of]); vondaufur (um e-ð [as to]); tortryggilegur
 distrustfulness n. tortryggni; vonleysi
-disturb (distörb') s. raska ([~ his peace, rest]); ónáða, trufla
+disturb s. raska ([~ his peace, rest]); ónáða, trufla
 disturbance n. truflun, röskun; ónæði; uppþot
 disturber n. óróaseggur, friðarspillir ([~ of the public peace])
-disunion (-jú'njan) n. aðskilnaður; missætti, ágreiningur, sundurlyndi
-disunite (-júnæt') s. skilja í sundur; skiljast í sundur
+disunion n. aðskilnaður; missætti, ágreiningur, sundurlyndi
+disunite s. skilja í sundur; skiljast í sundur
 disuse n. notkunarleysi; [to fall into ~] leggjast niður; s. hætta að nota, leggja niður; venja (af [from])
 disused l. úreltur ([a ~ meaning])
-disyllabic (dæsilab'bik) l. tvíkvæður
-disyllable (dæsil'lab'l) n. tvíkvætt orð
-ditch (ditsh) n. skurður, varnarskurður, síki; s. grafa skurð um; þurrka upp með skurðum; ata
-dithyramb (diþþiramb) n. drykkjukvæði; stóryrðarit eða ræða
-dithyrambic (-am'bik) l. stóryrtur ([a writer of ~s])
+disyllabic l. tvíkvæður
+disyllable n. tvíkvætt orð
+ditch n. skurður, varnarskurður, síki; s. grafa skurð um; þurrka upp með skurðum; ata
+dithyramb n. drykkjukvæði; stóryrðarit eða ræða
+dithyrambic l. stóryrtur ([a writer of ~s])
 ditto ao. sömuleiðis; n. hið sama
-ditty (ditti) n. vísa
-diurnal (dæör'nol) l. daglegur; dag-; dags-; n. dagbók; dagblað
+ditty n. vísa
+diurnal l. daglegur; dag-; dags-; n. dagbók; dagblað
 diurnally ao. daglega
-divagate (dævageit) s. reika, hvarfla
-divagation (dævagei'-shan) n. útúrdúr, hvarflan (frá efninu)
-divan (divann') n. e.k. hvílubekkur; ríkisráð (í Tyrklandi)
-divaricate (dævar'ikeit) s. greinast, skiptast í sundur; glenna í sundur
+divagate s. reika, hvarfla
+divagation n. útúrdúr, hvarflan (frá efninu)
+divan n. e.k. hvílubekkur; ríkisráð (í Tyrklandi)
+divaricate s. greinast, skiptast í sundur; glenna í sundur
 divarication n. sundurgreining, glenning; ósamræmi
-dive (dæv) s. stinga sér, kafa; dýfa hendinni (niður í [into]); sökkva sér (niður í [into]); n. stunga, dýfa, dýfing; köfnun
-diver (dævor) n. kafari; vasaþjófur
-diverge (divör'dzh) s. ganga í sundur; gleiðka (um línur)
+dive s. stinga sér, kafa; dýfa hendinni (niður í [into]); sökkva sér (niður í [into]); n. stunga, dýfa, dýfing; köfnun
+diver n. kafari; vasaþjófur
+diverge s. ganga í sundur; gleiðka (um línur)
 divergence n. gleidd; [~ of opinions] skoðanamunur
 divergency n. gleidd
 divergent l. gleiður; sundurleitur ([~ notions])
-divers (dævarz) l. ýmsir, nokkrir
-diverse l. ólíkur; margvíslegur
+divers l. ýmsir, nokkrir
+diverse l. ólíkur; margvíslegur, fjölbreyttur
 diversely ao. ýmislega; í ýmsar áttir
-diversified (divör'sifæd) l. margbreyttur
-diversify s. gera margbreytilegt
+diversified l. margbreyttur
+diversify s. gera margbreytilegt, fjölbreytt
 diversion n. veiting (t.d. ár úr farvegi sínum); dægrastytting, skemmtun
-diversity (divör'siti) n. mismunur; margbreytni
+diversity n. mismunur; margbreytni
 divert s. snúa e-u (í aðra átt); skemmta
 diverting l. skemmtilegur ([a ~ story])
 divest s. afklæða; svipta (e-u [of]); færa úr; [~ oneself of] losa sig við e-ð
 divestment n. svipting
-dividable (divæ'dobl) l. deilanlegur
-divide (divæd') s. skipta; deila ([~ 36 by 4]); skilja í sundur; (láta) ganga til atkvæða; skiptast ([there the roads ~])
-dividend (divvidand) n. hluti (hvers eins af gróðanum), ágóðahluti; deilistofn
-divider (divæ'dar) n. deilir; ft. e.k. hringfari
+dividable l. deilanlegur
+divide s. skipta; deila ([~ 36 by 4]); skilja í sundur; (láta) ganga til atkvæða; skiptast ([there the roads ~])
+dividend n. hluti (hvers eins af gróðanum), ágóðahluti; deilistofn
+divider n. deilir; ft. e.k. hringfari
 divination n. spádómur; hugboð
-divinatory (di-vinn'otöri) l. spádóms- ([~ wand/rod]); ágiskunar-
-divine (di-væn') l. guðdómlegur; guðlegur; guðfræðilegur; [~ service] guðsþjónusta; n. guðfræðingur; prestur; s. spá; giska á, sjá fyrir
+divinatory l. spádóms- ([~ wand/rod]); ágiskunar-
+divine l. guðdómlegur; guðlegur; guðfræðilegur; [~ service] guðsþjónusta; n. guðfræðingur; prestur; s. spá; giska á, sjá fyrir
 divinely ao. guðdómlega
 diviner n. spámaður, töframaður
-divinity (di-vinn'iti) n. guðdómleiki; guðdómur, guð, goð; guðfræði
-diving (dævÍN) n. köfun
-diving bell (dævÍN-) n. kafaraklukka
-divisibility (divizibil'iti) n. deilanleiki
-divisible (diviz'-ib'I) l. deilanlegur, skiptilegur
-division (divizh'on) n. skipting; deiling; flokkur; deild (flotadeild, herdeild); sundurlyndi; atkvæðagreiðsla ([to demand a ~])
-divisor (divæ'zor) n. deilir
-divorce (divörs') n. hjónaskilnaður; s. gera hjónaskilnað; skiljast við, segja skilið við (konu sína/mann sinn)
+divinity n. guðdómleiki; guðdómur, guð, goð; guðfræði
+diving n. köfun
+diving bell n. kafaraklukka
+divisibility n. deilanleiki
+divisible l. deilanlegur, skiptilegur
+division n. skipting; deiling; flokkur; deild (flotadeild, herdeild); sundurlyndi; atkvæðagreiðsla ([to demand a ~])
+divisor n. deilir
+divorce n. hjónaskilnaður; s. gera hjónaskilnað; skiljast við, segja skilið við (konu sína/mann sinn)
 divulgate s. gera uppskátt, segja frá; uppljóstra
-divulgation (-geishon) n. opinberun, uppljóstrun ([~ of a secret])
-divulge (div0l'dzh) s. gera kunnugt, birta, koma e-u upp
+divulgation n. opinberun, uppljóstrun ([~ of a secret])
+divulge s. gera kunnugt, birta, koma e-u upp
 dizen s. hlaða skrauti utan á ([~ed with gold and jewels])
 dizziness n. svimi, sundl
 dizzy l. svimagjarn; svimandi, sundlandi; s. láta sundla; rugla
-do (dú) s. gera; framkvæma; ljúka við; starfa; hegða sér, breyta; duga, nægja; [~ him harm] gera honum mein; [it does him credit] það er honum til sóma; [~ a room] taka til í herbergi; [he did Lear] hann lék Lear; [~ a distance] fara svo eða svo langa vegalengd; [~ or die] duga eða drepast; [to have done writing] hafa lokið við að skrifa; [have done!] hættu! [thy will be done] verði þinn vilji; [~ a sum] reikna dæmi; [~ well] ganga vel, heppnast ([your affairs are ~-ing well]); [how ~ you ~]? hvernig liður yður? sælir verið þér o.s.frv.; [~ away (with)] with gera enda á e-u, útrýma; [~ (to others) as you would be done by] breyttu við aðra, eins og þú vilt að aðrir breyti við þig; [~ for] gera út af við; [~ into English] þýða á ensku; [~ to death] drepa; [~ up] gera við; búa um (böggul); gera út af við; leika á e-n; hafa af e-m; [~ with] notast við; komast af með e-ð; [~ without] komast af án e-s, geta verið án e-s
-do (dó) ao. sjá [ditto]
-do (dú) n. bragð, svik
-doable (dúob'l) l. gjörlegur
+do s. gera; framkvæma; ljúka við; starfa; hegða sér, breyta; duga, nægja; [~ him harm] gera honum mein; [it does him credit] það er honum til sóma; [~ a room] taka til í herbergi; [he did Lear] hann lék Lear; [~ a distance] fara svo eða svo langa vegalengd; [~ or die] duga eða drepast; [to have done writing] hafa lokið við að skrifa; [have done!] hættu! [thy will be done] verði þinn vilji; [~ a sum] reikna dæmi; [~ well] ganga vel, heppnast ([your affairs are ~-ing well]); [how ~ you ~]? hvernig liður yður? sælir verið þér o.s.frv.; [~ away (with)] with gera enda á e-u, útrýma; [~ (to others) as you would be done by] breyttu við aðra, eins og þú vilt að aðrir breyti við þig; [~ for] gera út af við; [~ into English] þýða á ensku; [~ to death] drepa; [~ up] gera við; búa um (böggul); gera út af við; leika á e-n; hafa af e-m; [~ with] notast við; komast af með e-ð; [~ without] komast af án e-s, geta verið án e-s
+do ao. sjá [ditto]
+do n. bragð, svik
+doable l. gjörlegur, geranlegur
 docile l. námfús; auðsveipur, viðráðanlegur, þægur
 docility n. námfýsi; auðsveipni, þægð ([to obey with ~])
 dock n. skipakví; s. setja í skipakví
 dockyard n. skipasmíðastöð
 dock n. (stýfður) stertur, dokkur; súra (jurt); s. stýfa, stytta; skerða ([~ the wages]); svipta (e-n e-u [of])
 docket n. merkiseðill; útdráttur (úr dómi); efnisskrá; s. merkja (vörusendingar); gera útdrátt úr
-doctor (doktar) n. læknir; doktor (nafnbót); s. lækna; laga, gera við; falsa
+doctor n. læknir; doktor (nafnbót); s. lækna; laga, gera við; falsa
 doctoral l. doktorslegur, doktors- ([~ title])
 doctorate n. doktorsnafnbót
 doctoress n. kvennlæknir
-docktailed (-teild) l. stýfður; með stýfðan stert ([a ~ horse])
-doctrinaire (-ér') l. kreddufastur; n. kreddumaður
+docktailed l. stýfður; með stýfðan stert ([a ~ horse])
+doctrinaire l. kreddufastur; n. kreddumaður
 doctrinal l. kenningarlegur; kreddulegur, kreddu-
-doctrine (dok-trin) n. kenning, lærdómssetning
-document (dokkjúmont) n. skírteini, sönnunarskjal; málskjal; s. útbúa með sönnunarskjölum; sanna (með skjölum)
+doctrine n. kenning, lærdómssetning
+document n. skírteini, sönnunarskjal; málskjal; s. útbúa með sönnunarskjölum; sanna (með skjölum)
 documentary l. skjallegur ([~ evidence, authorities]); n. heimildamynd
 documentation n. (skjalleg) röksemdafærsla
 dodder s. riða, skjálfa
 doddered l. visinn í toppinn, greinalaus ([a ~ oak])
-dodge (dodzh) s. stökkva til hliðar eða fram og aftur; laumast á eftir e-m; hafa brögð í frammi; koma sér undan (e-u); n. hliðarstökk; undanbragð. kænskubragð
+dodge s. stökkva til hliðar eða fram og aftur; laumast á eftir e-m; hafa brögð í frammi; koma sér undan (e-u); n. hliðarstökk; undanbragð. kænskubragð
 dodger n. bragðarefur
-doe (dó) n. blauða dádýrið, dáhind
+doe n. blauða dádýrið, dáhind
 doer n. gjörandi, framkvæmdarmaður ([~ of mischief])
 doff s. færa (sig) úr; taka ofan
 dog n. hundur
@@ -1435,17 +1435,17 @@ doit n. lítill (hollenskur) peningur; ögn ([not worth a ~, not to care a ~])
 doldrums n. ft. vont skap, ólund ([be in the ~]); logn; lognbelti ([Equatorial ~])
 dole n. hluti, skammtur; s. [~ out] skammta, útbýta, úthluta
 dole n. sorg, harmur
-doleful (dólfúll) l. sorglegur, raunalegur, sorgfullur; dapur í bragði
+doleful l. sorglegur, raunalegur, sorgfullur; dapur í bragði
 dolerite n. grágrýti
 dolichocephalic l. langhöfðaður
 doll n. brúða
 dollish l. líkur brúðu
-dollar (dollor) n. amerískur dalur ([100 cents])
-dolorous (dollöras) l. harmsfullur; sár ([a ~ thirst])
+dollar n. amerískur dalur ([100 cents])
+dolorous l. harmsfullur; sár ([a ~ thirst])
 dolorousness n. sárleiki; hryggð
 dolour n. sorg, harmur
-dolphin (dolfin) n. höfrungur
-dolt (dólt) n. klunni, heimskingi
+dolphin n. höfrungur
+dolt n. klunni, heimskingi
 doltish l. klunnalegur; heimskur
 domain n. landeign; ríkisfasteign; umráðasvæði; svið
 dome n. hvolfþak, bungulagaður fjallshnúkur
@@ -1494,74 +1494,74 @@ dotage n. elliglöp, órar
 dotal l. sem lýtur að heimanmundi ([~ gift])
 dotard n. gamalær maður
 dotation n. gjöf
-dote (dót) s. vera gamalær; unna úr hófi, sjá ekki sólina fyrir (e-m [on, upon])
-dotty (dotti) l. skjögrandi ([~ on his feet]); geggjaður
-double (d0b'l) l. tvöfaldur; óhreinlyndur; ao. [sleep ~] sofa (tveir) saman; [ride ~] tvímenna; [bend ~] kengbeygja; s. tvöfalda; brjóta saman ([up]); bretta upp; kreppa (hnefann); sigla fyrir (höfða); tvöfaldast; stökkva fram og aftur; hafa undirferli í frammi; [~ the parts] leika tvö hlutverk í sama leik; n. eftirmynd; fylgja; eftirrit; undirferli
+dote s. vera gamalær; unna úr hófi, sjá ekki sólina fyrir (e-m [on, upon])
+dotty l. skjögrandi ([~ on his feet]); geggjaður
+double l. tvöfaldur; óhreinlyndur; ao. [sleep ~] sofa (tveir) saman; [ride ~] tvímenna; [bend ~] kengbeygja; s. tvöfalda; brjóta saman ([up]); bretta upp; kreppa (hnefann); sigla fyrir (höfða); tvöfaldast; stökkva fram og aftur; hafa undirferli í frammi; [~ the parts] leika tvö hlutverk í sama leik; n. eftirmynd; fylgja; eftirrit; undirferli
 double-barrelled l. tvíhleyptur
 double-breasted l. tvíhnepptur
 double chin n. undirhaka
 doubledealer n. undirförull maður
 double-dealing n. undirferli; l. undirförull
 double-edged l. tvíeggjaður
-double-faced (-feist) l. hræsnisfullur
+double-faced l. hræsnisfullur
 double-hearted l. undirförull
 double-lock s. tvílæsa
 double-quick n. hraðganga
 double-tongued l. tvítyngdur, óhreinlyndur
-doublet (d0blit) n. e.k. treyja eða vesti; samstæða
-doubly (d0bli) ao. tvöfalt
-doubt (dát) s. efa, efast um; n. efi, vafi, efasemd; [no ~, without ~] eflaust
+doublet n. e.k. treyja eða vesti; samstæða
+doubly ao. tvöfalt
+doubt s. efa, efast um; n. efi, vafi, efasemd; [no ~, without ~] eflaust
 doubter n. efunarmaður
 doubtful l. efasamur, vafasamur; efablandinn, í vafa (um e-ð [of])
 doubtless l. efalaus, vafalaus; ao. eflaust
-dough (dó) n. deig
+dough n. deig
 doughy l. mjúkur sem deig; sem líkist deigi
-doughtiness (dáti-) n. hreysti, hugrekki
-doughty (dáti) l. hraustur, hugaður; vasklegur
-douse (dáz) s. skvetta vatni á e-n ([~ one with water])
-dove (d0vv) n. dúfa
+doughtiness n. hreysti, hugrekki
+doughty l. hraustur, hugaður; vasklegur
+douse s. skvetta vatni á e-n ([~ one with water])
+dove n. dúfa
 dovecot n. dúfnahús
 dovekie n. teista
 doveky n. teista
 dovetail s. geirnegla; n. geirnagli
-dovetailing (-teiliN) n. geirnegling
-dowager (dáidzhar) n. ekkja (af háum stigum); [queen ~] drottning sem er ekkja
-dowdy (dádi) n. subba; l. subbulegur (sjá [dowdyish])
-dowel (dáil) n. blindingur, trénagli, hauslaus nagli
-dower (dáar) n. heimanmundur, heimanfylgja; s. gefa heimanmund; útbúa (með e-u)
+dovetailing n. geirnegling
+dowager n. ekkja (af háum stigum); [queen ~] drottning sem er ekkja
+dowdy n. subba; l. subbulegur (sjá [dowdyish])
+dowel n. blindingur, trénagli, hauslaus nagli
+dower n. heimanmundur, heimanfylgja; s. gefa heimanmund; útbúa (með e-u)
 dowerless l. heimanfylgjulaus, félaus, fátækur
-dowlas (dálas) n. dólas (léreft)
-down (dán) n. dúnn; hýjungur
-down (dán) n. sandhóll, sandmelur
-down (dán) fs. niður, niður af, niður eftir; ao. niður; niðri; [he was ~ on (upon) him] hann réðst á hann; [~ with measles] veikur af mislingum
+dowlas n. dólas (léreft)
+down n. dúnn; hýjungur
+down n. sandhóll, sandmelur
+down fs. niður, niður af, niður eftir; ao. niður; niðri; [he was ~ on (upon) him] hann réðst á hann; [~ with measles] veikur af mislingum
 downcast l. niðurlútur; hnugginn
 downfall n. hrun; [~ of snow] snjókoma
 downhearted l. dapur
 downhill n. brekka; l. aflíðandi; ao. niður á við
-downpour (-pör) n. demba, hvolfa
+downpour n. demba, hvolfa
 downright l. hreinn og beinn; algjör; ao. hreint og beint
 downstairs ao. niðri; niður
 downward ao. niður; niður eftir; l. sem fer niður á við
 downwards ao. niður; niður eftir; l. sem fer niður á við
-downy (dáni) l. dúnugur; dúnmjúkur; [~ sleep] vær svefn
-dowry (dári) n. heimanmundur
-doxology (doksoll'ödzhi) n. lofdýrð
-doze (dóz) s. blunda, móka; [~ off] detta út af, sofna; n. blundur, mók
+downy l. dúnugur; dúnmjúkur; [~ sleep] vær svefn
+dowry n. heimanmundur
+doxology n. lofdýrð
+doze s. blunda, móka; [~ off] detta út af, sofna; n. blundur, mók
 dozen n. tylft
 doziness n. drungi, slen
 dozy l. drungalegur, doðalegur
 drab l. mógulur; n. grófur ullarklútur; skækja; subba
 drab boots n. ft. gul stígvéli
-drabble (drab'l) s. ösla í for og bleytu; gera forugt
-drachm (dramm) n. drakma (grískur peningur; lyfsalavigt)
+drabble s. ösla í for og bleytu; gera forugt
+drachm n. drakma (grískur peningur; lyfsalavigt)
 draconic l. strangur, harður ([~ law])
 draconian l. strangur, harður ([~ law])
-draff (draff) n. draf, dreggjar, úrgangur
+draff n. draf, dreggjar, úrgangur
 draffish l. óhreinn, gruggugur; einskis verður
 draffy l. óhreinn, gruggugur; einskis verður
-draft (dráft) n. víxill; dráttur; uppkast; liðsflokkur; s. gera uppdrátt (eða uppkast) að; semja; velja úr (liðsflokk)
+draft n. víxill; dráttur; uppkast; liðsflokkur; s. gera uppdrátt (eða uppkast) að; semja; velja úr (liðsflokk)
 draftsman n. teiknari
-drag (dragg) s. draga; dragast ([~ oneself along]); slæða (botninn); [~ on life] draga fram lífið; lágur vagn; hjólstöðvari; hindrun, tálmi
+drag s. draga; dragast ([~ oneself along]); slæða (botninn); [~ on life] draga fram lífið; lágur vagn; hjólstöðvari; hindrun, tálmi
 dragnet n. botnslæða, voð
 dragsman n. voðdráttarmaður
 draggle s. draga í forinni; óhreinkast; koma drattandi á eftir
@@ -1574,7 +1574,7 @@ dragonish l. líkur dreka; grimmur
 dragoon n. dragón (léttvopnaður riddari); s. beita hervaldi við; kúga, neyða, nauðga (e-m til e-s [into])
 drain s. láta renna burt; veita (vatni); tæma; ræsa (skera) fram, þurrka upp; renna burt; þorna; n. (lok)ræsi, skurður; tæming, eyðsla ([~ on the revenue])
 drainage n. framræsla, framskurður, uppþurrkun, lokræsing
-drake (dreik) n. andarsteggur
+drake n. andarsteggur
 dram n. kvintín (lyfsalavigt); ögn; staup; s. fá sér í staupinu; gefa e-m í staupinu
 drama n. sjónleikur, leikrit
 dramatic l. sjónleikslegur
@@ -1587,8 +1587,8 @@ draper n. klæðasali; [linen ~] léreftasali
 drapery n. klæðaverslun; vefnaðarvörur ([~ goods]); búningur
 drastic l. áhrifamikill ([~ remedies, ~ measures])
 drat uh. svei! [~ the boy] óhræsis strákurinn; [~ the girl] stelpusneypan
-draught (dráft) n. dráttur; súgur; teigur; fiskidráttur, veiði; ristudjúp (skips); uppdráttur; uppkast; víxill (sbr. [draft])
-draw (drö) s. draga; draga að sér; draga á eftir sér; sjúga; tappa af (vin); taka út (peninga); draga frá eða fyrir (tjald); bregða (sverði); draga upp ([~ the bow]); skera upp (fugl); draga upp, teikna; lýsa; semja, taka saman; [~ a deep breath] draga djúpt andann; [~ one's attention to] vekja (leiða) athygli e-s að e-u; [the ship ~-s ten feet of water] ristir tíu fet; [~ back] fá endurgoldinn (toll); draga sig í hlé; [~ in] styttast ([the evenings are ~-ing in]); [~ near] færast nær, nálgast; [~ on] baka, valda; gefa út víxil á (e-n); lokka e-n (til að gera e-ð); [as the evening drew on] eftir því sem leið á kvöldið; [the evenings are ~-ing on] kvöldin lengjast; [~ up] taka saman, semja; fylkja (liði); fylkja (raða) sér; stöðva (hest eða vagn); nema staðar
+draught n. dráttur; súgur; teigur; fiskidráttur, veiði; ristudjúp (skips); uppdráttur; uppkast; víxill (sbr. [draft])
+draw s. draga; draga að sér; draga á eftir sér; sjúga; tappa af (vin); taka út (peninga); draga frá eða fyrir (tjald); bregða (sverði); draga upp ([~ the bow]); skera upp (fugl); draga upp, teikna; lýsa; semja, taka saman; [~ a deep breath] draga djúpt andann; [~ one's attention to] vekja (leiða) athygli e-s að e-u; [the ship ~-s ten feet of water] ristir tíu fet; [~ back] fá endurgoldinn (toll); draga sig í hlé; [~ in] styttast ([the evenings are ~-ing in]); [~ near] færast nær, nálgast; [~ on] baka, valda; gefa út víxil á (e-n); lokka e-n (til að gera e-ð); [as the evening drew on] eftir því sem leið á kvöldið; [the evenings are ~-ing on] kvöldin lengjast; [~ up] taka saman, semja; fylkja (liði); fylkja (raða) sér; stöðva (hest eða vagn); nema staðar
 draw n. dráttur
 drawback n. endurgoldinn tollur; skerðing (á e-u [from]); bagi, tálmi, galli, agnúi (á e-u [to])
 drawbridge n. vindubrú
@@ -1629,29 +1629,29 @@ dribble s. drjúpa; slefa; láta drjúpa; n. dropi, leki
 dribblet n. smásumma; [to pay in/by ~-s] í smáskömmtum
 driblet n. smásumma; [to pay in/by ~-s] í smáskömmtum
 drift n. hrúga, dyngja; skafl ([snow~]); hópur; drífa, hríð; stefna; markmið; straumstefna; rek ([~ of ice]); hvöt, fýst; [I perceive your ~] að hverju þér stefnið; s. reka fyrir vindi; fjúka; hrúgast saman; hrúga (e-u) saman; feykja (snjó eða sandi) í skafla; þekja (með snjó eða sandi); fenna
-drift ice (-æs) n. rekís
+drift ice n. rekís
 drift sand n. roksandur
 driftwood n. rekaviður
 drill s. bora (með rennibor); venja við vopnaburð; kenna ([~ one in something]); sá í raðir; n. rennibor; heræfing; sáningarvél
-drink (drÍNk) s. drekka; [~ away one's reason] drekka frá sér vitið; n. drykkur; ölæði
+drink s. drekka; [~ away one's reason] drekka frá sér vitið; n. drykkur; ölæði
 drinkable l. drekkandi
 drinkables n. ft. ölföng
 drinker n. drykkjumaður
-drinking bout (-ÍN-bát) n. drykkja
+drinking bout n. drykkja
 drinking horn n. drykkjarhorn
 drinking song n. drykkjuvísa, drykkjukvæði
 drip s. drjúpa; láta drjúpa (á); [a wet garment ~-s] það lekur úr votu fati; [~ with perspiration] vera löðursveittur; n. dropi, leki
 drippings n. steikarflot
-drive (dræv) s. reka; knýja; aka (vagni eða í vagni); reka (fyrir vindi); stefna að e-u ([at]); drífa, þjóta, æða; [~ mad] gera óðan; [~ a business, a trade] reka verslun; n. akstur; akvegur (heim að húsi); ökuferð; viðarfleyting (á vorin)
+drive s. reka; knýja; aka (vagni eða í vagni); reka (fyrir vindi); stefna að e-u ([at]); drífa, þjóta, æða; [~ mad] gera óðan; [~ a business, a trade] reka verslun; n. akstur; akvegur (heim að húsi); ökuferð; viðarfleyting (á vorin)
 driver n. ökumaður
-drivel (driv'l) s. slefa; tala (breyta) heimskulega; n. slefa
+drivel s. slefa; tala (breyta) heimskulega; n. slefa
 driveler n. flón
-drizzle (driz'l) s. [it ~-s] það ýrir úr honum, það er úði; n. sallaregn, úði ([drizzling rain])
+drizzle s. [it ~-s] það ýrir úr honum, það er úði; n. sallaregn, úði ([drizzling rain])
 drizzly l. úðasamur ([a ~ morning])
-droit (drojt) n. tollur; aukageta
-droll (dról) l. skrítinn, skringilegur, skoplegur; n. æringi; s. gera gys að ([on, upon, at, with])
-drollery (drólori) n. skop, glettni; skrítla
-dromedary (drpmmidari) n. úlfaldi
+droit n. tollur; aukageta
+droll l. skrítinn, skringilegur, skoplegur; n. æringi; s. gera gys að ([on, upon, at, with])
+drollery n. skop, glettni; skrítla
+dromedary n. úlfaldi
 drone n. karlbýfluga; letingi; suða; s. vera iðjulaus; suða; [~ away/out the lifetime] eyða ævinni í iðjuleysi
 dronish l. latur, letilegur, iðjulaus
 droop s. hanga (lafa) niður; drúpa; lúta; láta síga eða lúta ([~ the eyes or face]); vanmagnast
@@ -1723,7 +1723,7 @@ duckling n. andarungi
 duct n. pípa
 ductile l. teygjanlegur; sveigjanlegur
 ductility n. teygjanleiki; auðsveipni
-dudgeon (d0dzhan) n. reiði; [take in ~] taka e-u illa, firtast af; [be in (a) high (great, deep) ~] vera fokvondur, stórreiður
+dudgeon n. reiði; [take in ~] taka e-u illa, firtast af; [be in (a) high (great, deep) ~] vera fokvondur, stórreiður
 duds n. ft. fataræflar
 due l. skyldugur; fallinn í gjalddaga; tilhlýsilegur; réttur; [in ~ season] á sínum tíma; væntanlegur ([vessels ~]); [it is ~ to] e-m að þakka eða kenna; [become/fall ~] falla í gjalddaga; [the mail is ~ in an hour] pósturinn á að koma eftir klst; ao. [~ east] beint í austur, í háaustur; n. skylda ([taxes and dues]); réttur; tollur, gjald ([harbour ~s]); [give one his ~] láta e-n njóta (unna e-m) sannmælis
 duel n. einvígi; s. heyja einvígi
@@ -1762,16 +1762,16 @@ dunderhead n. aulabárður, auli
 dunderpate n. aulabárður, auli
 dunderheaded l. heimskur, heimskulegur
 dung n. mykja, tað; s. teðja, bera á (völl)
-dung beetle (-bít'l) n. tordýfill
+dung beetle n. tordýfill
 dunghill n. mykjuhaugur
-dungeon (d0ndzhan) n. myrkvastofa, dýflissa; s. setja í dýflissu
-dunlin (d0nlin) n. lóuþræll (fugl)
-dunner (d0nnar) n. áleitinn skuldheimtumaður
-dunnish (d0nnish) l. móleitur
+dungeon n. myrkvastofa, dýflissa; s. setja í dýflissu
+dunlin n. lóuþræll (fugl)
+dunner n. áleitinn skuldheimtumaður
+dunnish l. móleitur
 dunno s. [don't know] veit ekki
-duodecimo (djúödess'imó) n. tólfblaðabrot; bók í tólfblaðabroti
-dupable (djúpab'l) l. auðtrúa
-dupe (djúp) n. maður, sem leikið er á; s. leika á, hafa e-n að leikfífli
+duodecimo n. tólfblaðabrot; bók í tólfblaðabroti
+dupable l. auðtrúa
+dupe n. maður, sem leikið er á; s. leika á, hafa e-n að leikfífli
 duplicate l. tvöfaldur; samstæður ([~ copy, ~ stamps]); n. samstæða; samrit; s. tvöfalda, leggja tvöfalt, búa til annað eintak af e-u
 duplication n. tvöföldun
 duplicity n. tvöfaldleiki; óhreinlyndi, undirferli
@@ -1808,9 +1808,9 @@ dyke n. sjá [dike]
 dynamic l. afl(fræði)legur
 dynamics n. ft. aflfræði
 dynamite n. dýnamít; tundur; s. sprengja með tundri
-dynamo (dænemó) n. rafvél, rafall
-dynasty (dinnasti) n. konungaætt
-dysentery (dissentari) n. blóðsótt, blóðkreppa, blóðkreppusótt
+dynamo n. rafvél, rafall
+dynasty n. konungaætt
+dysentery n. blóðsótt, blóðkreppa, blóðkreppusótt
 dyspepsia n. meltingarleysi, harðlífi
-dyspepsy (dispep'-si) n. meltingarleysi, harðlífi
-dysury (disjúri) n. þvagteppa
+dyspepsy n. meltingarleysi, harðlífi
+dysury n. þvagteppa
