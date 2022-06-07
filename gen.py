@@ -55,7 +55,7 @@ STATIC_FILES_PATH = "static/files/"
 
 
 def ipa4entry(s: str, lang="uk") -> Optional[str]:
-    """Look up IPA for word."""
+    """Look up International Phonetic Alphabet spelling for word."""
     assert lang in ["uk", "us"]
     if lang == "uk":
         word2ipa = ENWORD_TO_IPA_UK
@@ -94,12 +94,13 @@ def read_all_entries() -> EntryList:
         wd = parse_line(line)
         w = wd[0]
         definition = wd[1]
-        ipa_uk = ipa4entry(w) or ""
+        ipa_uk = ipa4entry(w, lang="uk") or ""
         ipa_us = ipa4entry(w, lang="us") or ""
         pn = page_for_word(w)
         entries.append(tuple([w, definition, ipa_uk, ipa_us, pn]))
 
     entries.sort(key=lambda d: d[0])  # Sort alphabetically by word
+
     return entries
 
 
@@ -115,9 +116,10 @@ def add_entries_to_db(entries: EntryList) -> None:
     """Insert all entries into database."""
     db = EnskDatabase()
     for e in entries:
-        (w, definition, ipa_uk, ipa_us, pn) = e
-        #print(f"Adding {w}")
-        db.add_entry(w, definition, ipa_uk, ipa_us, pn)
+        # (w, definition, ipa_uk, ipa_us, pn) = e
+        # print(f"Adding {w}")
+        # db.add_entry(w, definition, ipa_uk, ipa_us, pn)
+        db.add_entry(*e)
 
     db.conn().commit()
 
@@ -125,12 +127,13 @@ def add_entries_to_db(entries: EntryList) -> None:
 def generate_database(entries: EntryList) -> str:
     """Generate SQLite database. Returns filename."""
 
-    delete_db()  # Delete pre-existing database file
+    delete_db()  # Remove pre-existing database file
     add_entries_to_db(entries)  # Generate new db
 
     # Zip it
     zipfn = f"{STATIC_FILES_PATH}ensk_dict.db.zip"
     zip_file(DB_FILENAME, zipfn)
+
     return zipfn
 
 
@@ -193,13 +196,13 @@ def main() -> None:
 
     print("Generating SQLite3 database")
     generate_database(entries)
-    
+
     print("Generating CSV")
     generate_csv(entries)
-    
+
     print("Generating text")
     generate_text(entries)
-    
+
     # print("Generating PDF")
     # generate_pdf(entries)
 
