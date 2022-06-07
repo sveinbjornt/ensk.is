@@ -1,7 +1,7 @@
 aardvark n. jarðsvín (riðvaxið afrískt spendýr sem nærist aðallega á maurum)
 database n. gagnagrunnur; [the information was written to a ~]
 classroom n. kennslustofa, skólastofa
-coedit s. ritstýra með einhverjum öðrum; [he ~ed the dictionary]
+coedit s. ritstýra með einhverjum öðrum; [he ~ed the dictionary] hann var meðristjóri orðabókarinnar
 dune n. sandhóll (sem myndast úr foksandi), sandskafl
 rock n. rokktónlist; [play some of that ~ and roll music]
 microwave n. örbylgja; örbylgjuofn; s. hita í örbylgjuofni
@@ -789,7 +789,7 @@ multifaceted l. marghliða, margþættur, fjölbreyttur
 concept n. hugtak, almenn hugmynd
 conceptual l. hugtaka-
 conceptualize s. gera sér hugmynd um e-ð; gera e-ð að hugtaki
-polymer n. fjölliða (tegund af gerviefnum)
+polymer n. fjölliða (gerviefnategund)
 conditioning n. skilyrðing
 checklist n. gátlisti
 chassis n. botngrind, undirgrind, vagngrind
@@ -805,3 +805,4 @@ buddy n. félagi, lagsmaður, vinur
 querulant n. þrætugjarn maður, kverúlant, nöldurseggur
 carburetor n. blöndungur (í sprengihreyfli eða bílvél)
 carburettor n. blöndungur (í sprengihreyfli eða bílvél)
+dominatrix n. valdagyðja, kona sem öllu ræður (í sadómasókísku sambandi)

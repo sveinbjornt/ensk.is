@@ -42,8 +42,6 @@ from util import read_pages, read_wordlist, parse_line
 
 b = Bin()
 
-r = read_pages()
-
 IS_WORDS_WHITELIST = read_wordlist("data/is.whitelist.txt")
 
 EN_WORDS_LIST = read_wordlist("data/wordlists/words.txt")
@@ -229,12 +227,15 @@ def check_category(line: str, pn: int, ln: int):
         warn("no category for word", pn, ln)
 
 
+r = read_pages()
+
+
 for page_num, page in enumerate(r):
     for line_num, line in enumerate(page):
         pn = page_num + 1
         ln = line_num + 1
         # print(f"{pn}:{ln}| {line}")
-        check_spacing(line, pn, ln)
+        # check_spacing(line, pn, ln)
         check_punctuation(line, pn, ln)
         # check_category(line, pn, ln)
         # check_bracket_use(line, pn, ln)
