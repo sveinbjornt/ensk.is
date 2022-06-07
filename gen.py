@@ -88,6 +88,7 @@ def read_all_entries() -> EntryList:
     """Read all entries from dictionary text files
     and parse them."""
     r = read_pages()
+
     entries = []
     for line in r:
         wd = parse_line(line)
@@ -115,15 +116,19 @@ def add_entries_to_db(entries: EntryList) -> None:
     db = EnskDatabase()
     for e in entries:
         (w, definition, ipa_uk, ipa_us, pn) = e
-        print(f"Adding {w}")
+        #print(f"Adding {w}")
         db.add_entry(w, definition, ipa_uk, ipa_us, pn)
+
     db.conn().commit()
 
 
 def generate_database(entries: EntryList) -> str:
     """Generate SQLite database. Returns filename."""
-    delete_db()
-    add_entries_to_db(entries)
+
+    delete_db()  # Delete pre-existing database file
+    add_entries_to_db(entries)  # Generate new db
+
+    # Zip it
     zipfn = f"{STATIC_FILES_PATH}ensk_dict.db.zip"
     zip_file(DB_FILENAME, zipfn)
     return zipfn
@@ -132,8 +137,12 @@ def generate_database(entries: EntryList) -> str:
 def generate_csv(entries: EntryList) -> str:
     """Generate zipped CSV file. Return file path."""
     fields = ["word", "definition", "ipa", "page_num"]
+
+    # Change to static files dir
     old_cwd = os.getcwd()
     os.chdir(STATIC_FILES_PATH)
+
+    # Write the CSV and zip it
     filename = "ensk_dict.csv"
     with open(filename, "w") as csvfile:
         csvwriter = csv.writer(csvfile)
@@ -141,37 +150,57 @@ def generate_csv(entries: EntryList) -> str:
         csvwriter.writerows(entries)
     zipfn = f"{filename}.zip"
     zip_file(filename, zipfn)
+
+    # Restore previous CWD
     os.remove(filename)
     os.chdir(old_cwd)
+
     return f"{STATIC_FILES_PATH}{zipfn}"
 
 
 def generate_text(entries: EntryList) -> str:
     """Generate zipped text file w. all entries. Return file path."""
+
+    # Change to static files dir
     old_cwd = os.getcwd()
     os.chdir(STATIC_FILES_PATH)
+
+    # Write text file and zip it
     filename = "ensk_dict.txt"
     with open(filename, "w") as file:
         for e in entries:
             file.write(f"{e[0]} {e[1]}\n")
     zipfn = f"{filename}.zip"
     zip_file(filename, zipfn)
+
+    # Restore previous CWD
     os.remove(filename)
     os.chdir(old_cwd)
+
     return f"{STATIC_FILES_PATH}{zipfn}"
 
 
-# def generate_pdf(entries: EntryList) -> str:
-#     """Generate PDF. Return file path."""
-#     return ""
+def generate_pdf(entries: EntryList) -> str:
+    """Generate PDF. Return file path."""
+    raise NotImplementedError
 
 
 def main() -> None:
+    print("Reading entries...")
     entries = read_all_entries()
+    print(f"{len(entries)} entries read")
     # print(entries)
+
+    print("Generating SQLite3 database")
     generate_database(entries)
+    
+    print("Generating CSV")
     generate_csv(entries)
+    
+    print("Generating text")
     generate_text(entries)
+    
+    # print("Generating PDF")
     # generate_pdf(entries)
 
 

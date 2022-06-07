@@ -1262,9 +1262,9 @@ explicitness n. skýrleiki
 explode s. springa (með hvelli), bresta; sprengja; útrýma; hafna (kenningu, skoðun)
 exploit n. afreksverk, þrekvirki; s. vinna (námu); nota
 exploitation n. notkun, hagnýting, vinnsla (námu)
-exploration n. rannsókn (einkum landfræðileg)
-explorative l. rannsóknar-
-exploratory l. rannsóknar-
+exploration n. rannsókn (einkum landfræðileg); (land)könnun
+explorative l. rannsóknar-, könnunar-
+exploratory l. rannsóknar-, könnunar-; [exploratory expedition] könnunarleiðangur
 explore s. rannsaka, kanna
 explorer n. landkönnuður
 explosion n. hvellsprenging, brestur

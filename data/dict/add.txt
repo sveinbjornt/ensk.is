@@ -800,4 +800,6 @@ electrolyte n. raflausn, rafvaki; rafvökvi
 electrolysis n. rafgreining, rafsundrun
 redhead n. rauðhærð manneskja
 pub n. stytting á [public house]; krá, ölstofa, bar, pöbb
-LED n. stytting á [light emitting diode]; ljósdíóða, ljóstvistur
+LED n. stytting á [light emitting diode]; ljósdíóða, ljóstvistur, ljóstvískaut
+buddy n. félagi, lagsmaður, vinur
+querulant n. þrætugjarn maður, kverúlant, nöldurseggur
