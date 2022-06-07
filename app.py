@@ -310,3 +310,9 @@ async def sitemap(request: Request) -> Response:
         {"request": request, "words": words},
         media_type="application/xml",
     )
+
+
+@app.get("/robots.txt")
+async def robots(request: Request) -> Response:
+    """Robots.txt generated on-demand."""
+    return TemplateResponse("robots.txt", {"request": request}, media_type="text/plain")
