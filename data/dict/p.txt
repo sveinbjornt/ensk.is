@@ -1409,12 +1409,12 @@ poll tax n. nefskattur
 pollack n. lýr (fisktegund)
 pollard n. kollótt skepna, (naut, kind); tré, sem toppurinn er höggvinn af; s. höggva greinar af tré
 pollen n. plöntufrjóduft
-pollute (pöljút') s. óhreinka; spilla; saurga; ata
+pollute s. óhreinka; spilla; saurga; ata
 pollution n. óhreinkun, saurgun
 polo n. e.k. austurlenskur knattleikur
 polonaise n. pólskur dans
-polony (pöló'ni) n. fleskpylsa
-poltroon (trún') n. raggeit, bleyða
+polony n. fleskpylsa
+poltroon n. raggeit, bleyða
 poltroonery n. ragmennska; hugleysi
 poltroonish l. huglaus, ragur
 poly- fsk. forskeyti, sem þýðir: marg-, fjöl-
@@ -1492,13 +1492,13 @@ popularize s. gera alþýðlegt eða við alþýðuhæfi; breiða út meðal al�
 popularly ao. af almenningi, af alþýðu; alþýðlega
 populate (poppjúleit) s. byggja (land); [densely ~d] þéttbýll, þéttbyggður
 population n. bygging; íbúar; fólksfjöldi, fólkstala
-populous (poppjúlas) l. fjölmennur, fjölbyggður
+populous l. fjölmennur, fjölbyggður
 populousness n. þéttbýli
 porbeagle n. hámeri
 porcelain n. postulín
 porch n. forskyggni (við hús); anddyri, fordyri; súlnagöng
 porcine l. svína- ([the ~ species]); líkur svíni, svínslegur
-porcupine (pörkjúpæn) n. broddgöltur, broddsvín
+porcupine n. broddgöltur, broddsvín
 pore n. svitahola
 pore s. stara, blína; [~ over the books] liggja í bókunum, sökkva sér ofan í bækurnar
 pork n. svínakjöt, flesk
@@ -1506,16 +1506,16 @@ porker n. alisvín
 porkling n. grís
 porky l. feitur
 pornography n. klám, klámrit, saurlífisrit
-porous (pöras) l. holóttur, gljúpur
-porphyry (pörfiri) n. porfýr (steinn)
+porous l. holóttur, gljúpur
+porphyry n. porfýr (steinn)
 porpoise n. hnýsa
-porraceous (-ei'shas) l. lauk-grænn
-porridge (porridzh) n. hafragrautur, mjölgrautur, hafrasúpa
-porringer (porrindzhar) n. súpuskál, grautarskál
-port (pört) n. höfn; hafnarborg; borgarhlið; [~ charges, dues, duties] hafnargjöld
-port (port) n. op (ljósop, loftop, fallbyssugat) á skipshlið; bakborði á skipi
-port (pört) n. portvín
-port (pört) n. látbragð; limaburður, svipur ([the ~ of a gentleman])
+porraceous l. lauk-grænn
+porridge n. hafragrautur, mjölgrautur, hafrasúpa
+porringer n. súpuskál, grautarskál
+port n. höfn; hafnarborg; borgarhlið; [~ charges, dues, duties] hafnargjöld
+port n. op (ljósop, loftop, fallbyssugat) á skipshlið; bakborði á skipi
+port n. portvín
+port n. látbragð; limaburður, svipur ([the ~ of a gentleman])
 portable l. flytjanlegur, berandi; [~ goods] lausafé
 portage n. burður; burðarkaup; landræma milli vatna
 portal n. skrauthlið
@@ -1553,12 +1553,12 @@ positivism n. pósitívismi, raunspeki (heimspekikenning August Comte)
 possess s. eiga; hafa til að bera ([they ~ a special value for us]); hafa stjórn á ([~ one's mind]); gagntaka huga e-s; [~ oneself of] kasta eign sinni á, ná undir sig; [be ~ed of] eiga; [become ~ed of] eignast; [~ed by, of, with devils, evil spirit] djöfulóður; [~ed with business] önnum kafinn
 possession n. eign; eignarráð, eignarhald; [take ~ of] kasta eign sinni á; [keep (retain) ~ of] hafa í eignarhaldi, hafa eignarráð yfir e-u; eiga framvegis; [in ~ of] eigandi e-s
 possessive l. eignarlegur, eignar- ([~ pronoun]); [~ case] eignarfall
-possessor (pözes'sar) n. eigandi
+possessor n. eigandi
 possessory l. sem lýtur að eign, eignar-
 possibility n. möguleiki ([there is no ~ of his coming])
-possible (possib'l) l. mögulegur; [that is quite ~] getur vel verið; [all means ~] öll ráð, sem hugsast geta
+possible l. mögulegur; [that is quite ~] getur vel verið; [all means ~] öll ráð, sem hugsast geta
 possibly ao. mögulega, á einhvern (nokkurn) hátt ([if we ~ could]); ef til vill ([we shall ~ come])
-post (póst) n. stólpi; stoð; varðstaður; staða; sýsla; embætti; póstur, póstflutningur, póstferð; [ride ~] aka sem póstur; ríða mjög hart, allt hvað af tekur; [by return of ~] með næstu póstferð; [receive through ~] fá með pósti; s. festa upp (auglýsingu); setja, skipa (vörð); rita (færa) inn í höfuðbók; setja á póstinn (bréf); senda með pósti; ferðast með pósti; ferðast með hraða
+post n. stólpi; stoð; varðstaður; staða; sýsla; embætti; póstur, póstflutningur, póstferð; [ride ~] aka sem póstur; ríða mjög hart, allt hvað af tekur; [by return of ~] með næstu póstferð; [receive through ~] fá með pósti; s. festa upp (auglýsingu); setja, skipa (vörð); rita (færa) inn í höfuðbók; setja á póstinn (bréf); senda með pósti; ferðast með pósti; ferðast með hraða
 postage n. póstgjald, flutningsgjald (á bréfum og sendingum)
 postage stamp n. frímerki
 postal l. póstlegur
@@ -1573,15 +1573,15 @@ postmark n. póstmerki, póststimpill; s. stimpla
 postmaster n. póstmeistari
 postmaster-general n. póstmálastjóri
 post office n. pósthús
-postdate (póstdeit) s. dagsetja síðar en skrifað er; n. dagsetning eftir á
-postdiluvian (-ljú'vian) l. sem er eftir syndaflóðið; n. maður, sem lifir (hefir lifað) eftir syndaflóðið
-poster (póstar) n. pósthestur; (uppfest) auglýsingablað
+postdate s. dagsetja síðar en skrifað er; n. dagsetning eftir á
+postdiluvian l. sem er eftir syndaflóðið; n. maður sem lifir (hefur lifað) eftir syndaflóðið
+poster n. pósthestur; (uppfest) auglýsingablað
 posterior l. seinni, síðari (en [to]); aftari
 posteriors n. ft. eftirkomendur; sitjandi
 posteriority n. síðarleiki ([~ in point of time, ~ of birth])
 posteriorly ao. að aftan
 posterity n. eftirkomendur, niðjar
-postern (póstarn) n. bakdyr
+postern n. bakdyr
 posthumous l. fæddur eftir dauða föðurins; gefinn út eftir dauða höfundarins; [~ fame] frægð eftir dauðann
 posthumously ao. eftir dauðann, eftir dauða höfundarins
 postil n. skýringargrein við texta; postilla
@@ -1591,26 +1591,26 @@ post meridiem ao. (skammstafað [P.M.]) síðdegis, eftir hádegi ([3:20 P.M.])
 post mortem ao. eftir dauðann; [~ examination] líkskoðun
 postpone s. fresta; láta sitja á hakanum
 postponement n. frestun
-postscript (póstskript) n. eftirskrift
-postulant (postjúlont) n. umsækjandi
-posulate (postjúlat) n. ósönnuð setning; krafa; s. krefjast; gera ráð fyrir e-u; skoða sem sjálfsannað
+postscript n. eftirskrift
+postulant n. umsækjandi
+posulate n. ósönnuð setning; krafa; s. krefjast; gera ráð fyrir e-u; skoða sem sjálfsannað
 posulation n. krafa
-posture (postjar) n. staða; stelling; ástand; s. setja; setja (sig) í stellingar
-posy (pózi) n. spakmæli í ljóðum; blómhnýti, blómvöndur
-pot (pott) n. pottur; pottmál; krukka; kanna; s. sjóða (salta) niður; setja í pott eða krukku
+posture n. staða; stelling; ástand; s. setja; setja (sig) í stellingar
+posy n. spakmæli í ljóðum; blómhnýti, blómvöndur
+pot n. pottur; pottmál; krukka; kanna; s. sjóða (salta) niður; setja í pott eða krukku
 potable l. drekkanlegur, drekkandi ([the water was not ~])
-potage (pötázh') n. súpa
-potash (pottásh) n. pottaska, kalí
-potation (pötei'shan) n. drykkur; drykkja ([to abstain from ~])
+potage n. súpa
+potash n. pottaska, kalí
+potation n. drykkur; drykkja ([to abstain from ~])
 potato n. jarðepli, kartafla
 potato blight n. skemmd í kartöflum
-pot-bellied (-bellid) l. vambmikill
-potency (pótansi) n. máttur, kraftur, afl ([supernatural ~]); áhrif
-potent (pótant) l. máttugur, voldugur; kröftugur ([a ~ medicine])
-potentate (pótenteit) n. stórhöfðingi, valdhafi, drottnari
-potential (pöten'shal) l. sem getur verið, mögulegur
+pot-bellied l. vambmikill
+potency n. máttur, kraftur, afl ([supernatural ~]); áhrif
+potent l. máttugur, voldugur; kröftugur ([a ~ medicine])
+potentate n. stórhöfðingi, valdhafi, drottnari
+potential l. sem getur verið, mögulegur
 potentiality n. möguleiki; máttur
-pother (poððar) n. hávaði, læti; brölt; s. gera hávaða; ónáða
+pother n. hávaði, læti; brölt; s. gera hávaða; ónáða
 potherbs n. ft. súpujurtir
 pothole n. skessuketill
 pothook n. pottkrókur
@@ -1618,30 +1618,30 @@ pothouse n. ölstofa, drykkjustofa
 potion n. heilsudrykkur
 potlid n. potthlemmur
 potluck n. [take ~] gera sér að góðu það, sem fram er borið
-pottage (pottidzh) n. kjötsúpa
-potter (pottar) n. leirkerasmiður
+pottage n. kjötsúpa
+potter n. leirkerasmiður
 pottery n. leirkerasmiðja; leirker, leirílát
 potter s. dunda; fara í hægðum sínum, lalla; rugla, trufla
-pottle (pot'l) n. stór kanna; lítil karfa ([a ~ of strawberries])
-pouch (pátsh) n. pungur, pyngja; vasi; poki (pokadýra); s. stinga á sig, í vasann; gleypa ([~ the bait])
-poult (pólt) n. kjúklingur
+pottle n. stór kanna; lítil karfa ([a ~ of strawberries])
+pouch n. pungur, pyngja; vasi; poki (pokadýra); s. stinga á sig, í vasann; gleypa ([~ the bait])
+poult n. kjúklingur
 poulterer n. hænsnasali, fuglasali
-poultice (póltis) n. grautarbakstur; s. leggja bakstur við
-poultry (póltri) n. hænsni, alifuglar
-pounce (páns) n. kló á ránfugli; skrifsandur; [be on the ~ to] vera reiðubúinn til að; s. ráðast á, steypa sér niður á, hremma ([~ upon, on, at])
-pound (pánd) n. pund; gullpeningur (skammstafað £, t.d. £200); s. [to ~ it] veðja pundum
+poultice n. grautarbakstur; s. leggja bakstur við
+poultry n. hænsni, alifuglar
+pounce n. kló á ránfugli; skrifsandur; [be on the ~ to] vera reiðubúinn til að; s. ráðast á, steypa sér niður á, hremma ([~ upon, on, at])
+pound n. pund; gullpeningur (skammstafað £, t.d. £200); s. [to ~ it] veðja pundum
 poundage n. gjald af hverju pundi
 pound s. mylja, merja; lemja, berja
 pounder n. mar; stautur; högg; dynur
 pound n. kví, rétt (sem óskilafé er látið í); s. loka inni ([~ in])
-pour (pör) s. hella; skenkja; láta streyma; senda út; hella út ([~ out]); streyma, renna; [when it rains it ~s] sjaldan er ein báran stök; [it ~s with rain] það er húðarigning; n. straumur; demba ([~ of rain])
-pout (pát) n. það að teygja fram varirnar; ólundarkast, fýla ([in the ~s]); s. vera fúll; teygja fram (varirnar)
+pour s. hella; skenkja; láta streyma; senda út; hella út ([~ out]); streyma, renna; [when it rains it ~s] sjaldan er ein báran stök; [it ~s with rain] það er húðarigning; n. straumur; demba ([~ of rain])
+pout n. það að teygja fram varirnar; ólundarkast, fýla ([in the ~s]); s. vera fúll; teygja fram (varirnar)
 pouting l. ólundarfullur
-pout (pát) n. fisktegund
-pouter (pátar) n. dúfutegund
-poverty (povvarti) n. fátækt, skortur
+pout n. fisktegund
+pouter n. dúfutegund
+poverty n. fátækt, skortur
 poverty-stricken l. fátækur, fátæklegur
-powder (pádar) n. duft, dust; púður; s. mylja í duft; molna; strá hárdufti í hárið
+powder n. duft, dust; púður; s. mylja í duft; molna; strá hárdufti í hárið
 powder cart n. púðurvagn
 powder flask n. púðurhorn
 powder horn n. púðurhorn
@@ -1658,8 +1658,8 @@ practical joke n. áreitni, hrekkjabragð
 practicality n. gagnsemi; hagsýni
 practically ao. verklega
 practice n. vani; föst venja; æfing ([~ makes perfect]); leikur; notkun; framkvæmd; ([in ~]); reynsla; reynd; læknisstarfsemi ([he has a large ~]); lögfræðisstarfsemi; bragð; aðferð; [out of ~] orðinn óvanur
-practician (práktish'an) n. framkvæmdarmaður, starfsmaður
-practise (práktis) s. iðka; stunda; framkvæma; beita, viðhafa; temja sér; fremja; beita brögðum; æfa sig ([~ on piano]); gegna störfum; [~ as a lawyer] gegna málflutningsstörfum; [~ physic] fást við lækningar; [~ on his credulity] nota sér trúgirni hans
+practician n. framkvæmdarmaður, starfsmaður
+practise s. iðka; stunda; framkvæma; beita, viðhafa; temja sér; fremja; beita brögðum; æfa sig ([~ on piano]); gegna störfum; [~ as a lawyer] gegna málflutningsstörfum; [~ physic] fást við lækningar; [~ on his credulity] nota sér trúgirni hans
 practitioner n. starfsmaður; læknir ([~ of medicine]); málaflutningsmaður ([~ of law])
 pragmatic l. afskiptasamur um hag og gjörðir annara; þrár, þrályndur; óundanlátsamur; hagsýnn; framkvæmdar- ([~ people]); [~ history] saga, er sýnir orsakir og afleiðingar viðburðanna
 pragmatical l. sjá [pragmatic]
@@ -1670,22 +1670,22 @@ praiseworthy l. lofsverður
 pram n. flatbotnaður bátur, prammi
 prance s. hoppa upp (um viljuga hesta); vera mikill á lofti; spjátra sig
 prancer n. fjörugur (ólmur) hestur, gæðingur
-prandial (prandial) l. dagverðar-
-prank (praNk) n. leikur, galgopaskapur; hrekkur, gletta; ærsl, læti; s. skrautbúa, skreyta
+prandial l. dagverðar-
+prank n. leikur, galgopaskapur; hrekkur, gletta; ærsl, læti; s. skrautbúa, skreyta
 prankish l. glettinn; ærslafullur; pöróttur
-prate (preit) s. masa, þvaðra; n. mas, hégómatal
+prate s. masa, þvaðra; n. mas, hégómatal
 prater n. masari
 prattle s. masa; hjala (um börn); n. mas, hjal, bull
-pravity (právviti) n. spilling
-prawn (prön) n. rækja; marþvari (æt krabbategund)
-praxis (práksis) n. venja
-pray (prei) s. biðja (e-n); biðja um e-ð ([~ for]); biðjast fyrir; [~ for one] biðja fyrir e-m; [~ to God] biðja guð; [pray, tell me] gerið svo vel að segja mér
-prayer (preiar) n. biðjandi maður
-prayer (préar) n. bæn; [put up (offer) ~s to] senda upp bænir til; [say one's ~s] lesa bænir sínar
+pravity n. spilling
+prawn n. rækja; marþvari (æt krabbategund)
+praxis n. venja
+pray s. biðja (e-n); biðja um e-ð ([~ for]); biðjast fyrir; [~ for one] biðja fyrir e-m; [~ to God] biðja guð; [pray, tell me] gerið svo vel að segja mér
+prayer n. biðjandi maður
+prayer n. bæn; [put up (offer) ~s to] senda upp bænir til; [say one's ~s] lesa bænir sínar
 prayer book n. bænabók
 prayerful l. bænrækinn; bænar- ([with ~ eyes])
 prayer meeting n. bænasamkoma
-preach (prítsh) s. predika; [~ a sermon] halda (stól)ræðu; [~ down] predika á móti; vanda um; [~ up] predika; lofa, vegsama
+preach s. predika; [~ a sermon] halda (stól)ræðu; [~ down] predika á móti; vanda um; [~ up] predika; lofa, vegsama
 preacher n. predikari, kennimaður
 preachership n. predikunarembætti
 preachify s. halda umvöndunarræðu
@@ -1718,38 +1718,38 @@ preceptress n. kennslukona
 precinct n. takmörk; umdæmi
 precincts n. ft. vébönd
 precious l. dýrmætur, dýrindis; ágætur; [~ stone] gimsteinn; [~ metals] dýrir málmar (gull, silfur)
-precipice (presipis) n. þverhníptur klettur, þverhnípi, hamar
-precipitancy (prisipp'itansi) n. óðagot, flaustursemi; flan, framhleypni
-precipitant (prisipp'itant) l. flaustursamur; hvatvís
+precipice n. þverhníptur klettur, þverhnípi, hamar
+precipitancy n. óðagot, flaustursemi; flan, framhleypni
+precipitant l. flaustursamur; hvatvís
 precipitate s. steypa (á höfuðið), hrinda; flýta fyrir; láta setjast á botninn; steypast, hrapa; setjast á botninn; l. óðfluga; (of) fljótur á sér; flumósa; hvatvís(legur); snöggur; bráður
 precipitation n. fall, hrap; framhleypni, hvatvísi; úrkoma
 precipitous (prisipp'itas) l. snarbrattur; hvatvís, framhleypinn
-precise (prisæs') l. nákvæmur
+precise l. nákvæmur
 precisely ao. nákvæmlega
 preciseness n. nákvæmni
 precision n. nákvæmni
-preclude (priklúd') s. útiloka ([~ all doubt]); aftra, hindra
+preclude s. útiloka ([~ all doubt]); aftra, hindra
 preclusion n. útilokun, hindrun
-preclusive (priklú'-siv) l. aftrandi, hindrandi, útilokandi ([~ of])
-precocious (prikó'shas) l. bráðþroska, bráðgjör
+preclusive l. aftrandi, hindrandi, útilokandi ([~ of])
+precocious l. bráðþroska, bráðgjör
 precognition n. undanfarandi þekking; undanfarandi vitnarannsókn
 precocity n. bráðþroski
-preconceive (príkönsív') s. hugsa sér áður; [~d opinion] hleypidómur
-preconception (-könsep'shan) n. forhugsun; hleypidómur
-preconcert (príkönsört') s. koma sér saman um e-ð fyrirfram
-preconcert (-kon'sart) n. undanfarið samkomulag
-preconize (príkönæz) s. lofa, hrósa opinberlega; kalla fram með nafni; (um páfa) samþykkja opinberlega biskupskjör
-precursive (priKör'siv) l. undanfarandi, boðandi ([~ of])
-precursor (prikör'sðr) n. undanfari; fyrirrennari; fyrirboði
+preconceive s. hugsa sér áður; [~d opinion] hleypidómur
+preconception n. forhugsun; hleypidómur
+preconcert s. koma sér saman um e-ð fyrirfram
+preconcert n. undanfarið samkomulag
+preconize s. lofa, hrósa opinberlega; kalla fram með nafni; (um páfa) samþykkja opinberlega biskupskjör
+precursive l. undanfarandi, boðandi ([~ of])
+precursor n. undanfari; fyrirrennari; fyrirboði
 precursory l. undanfarandi, boðandi ([~ of])
 predacious l. sem lifir á ránum; [~ fishes] ránfiskar
-predate (prídeit') s. dagsetja fyrir tímann; vera frá fyrri tímum en
+predate s. dagsetja fyrir tímann; vera frá fyrri tímum en
 predator n. rándýr
-predatory (preddatari) l. ræningja-; rángjarn; [~ excursion] ránferð
-predecease (pridisís') s. deyja á undan e-m
-predecessor (prídisess'ar) n. fyrirrennari, formaður; forfaðir
+predatory l. ræningja-; rángjarn; [~ excursion] ránferð
+predecease s. deyja á undan e-m
+predecessor n. fyrirrennari, formaður; forfaðir
 predestinarian n. sá sem trúir á náðarútvalning; l. náðarútvalningar- ([~ theory])
-predestinate (prides'tineit) s. ákvarða fyrirfram; fyrirhuga; l. fyrirfram ákvarðaður ([~ to salvation]); fyrirhugaður
+predestinate s. ákvarða fyrirfram; fyrirhuga; l. fyrirfram ákvarðaður ([~ to salvation]); fyrirhugaður
 predestination n. ákvörðun fyrirfram; fyrirhugun; náðarútvalning; forlög
 predestine s. ákvarða fyrirfram; fyrirhuga
 predetermination n. ákvörðun fyrirfram
@@ -1774,92 +1774,92 @@ predominate s. ráða yfir; yfirgnæfa, ráða mestu
 preeminence n. æðri tign; yfirburðir
 preeminent l. frábær, fremstur
 preeminently ao. fremur öðrum; frábærlega; einkum, einkanlega
-pre-emption (príem'shan) n. forkaupsréttur ([~ of victuals])
+pre-emption n. forkaupsréttur ([~ of victuals])
 pre-emptive l. forkaups- ([~ right])
 preen s. laga fjaðrirnar (um fugla); laga sig, skreyta sig
 preengage s. skuldbinda fyrirfram; lofa fyrirfram
 preengagement n. undanfarið loforð
-pre-establish (prí-istab'lish) s. ákveða fyrirfram
-pre-exist (prí-egzist') s. vera til á undan
+pre-establish s. ákveða fyrirfram
+pre-exist s. vera til á undan
 pre-existence n. fyrri tilvera, fortilvera
 pre-existent l. sem hefur verið til áður ([~ state])
 preface (preffas) n. formáli; s. rita formála fyrir ([~ a book]); vera á undan e-u
 prefacer n. formálaritari
-prefatory (preffatari) l. [~ remarks/words] inngangsorð
-prefect (prífekt) n. héraðsstjóri; foringi, yfirmaður
-prefer (priför') s. bera upp ([~ a complaint, a request, an inquiry]); frama, hefja til tignar ([~ to a bishopric, to the rank of general]); taka fram yfir, kjósa, vilja heldur ([~ one to another, water to wine])
-preferable (preffarab'I) l. ákjósanlegri, æskilegri, betri (en [to])
-preference (preffarans) n. framyfirtekning; val; fyrirrúm; forgönguréttur (til skuldargreiðslu); [~ shares] forgangshlutabréf; [I can give her no ~ to her sister] ég get ekki tekið hana fram yfir systur hennar; [show a ~ to] hafa meiri mætur á, taka fram yfir; [by (in) ~] heldur, fremur
-preferential (-en'shal) l. sem gengur fyrir öðrum; [~ right] forgönguréttur; [~ shares, ~ stock] forgangshlutabréf
-preferment (priför'ment) n. upphefð, hafning til æðri tignar eða embættis; prestsembætti
+prefatory l. [~ remarks/words] inngangsorð
+prefect n. héraðsstjóri; foringi, yfirmaður
+prefer s. bera upp ([~ a complaint, a request, an inquiry]); frama, hefja til tignar ([~ to a bishopric, to the rank of general]); taka fram yfir, kjósa, vilja heldur ([~ one to another, water to wine])
+preferable l. ákjósanlegri, æskilegri, betri (en [to])
+preference n. framyfirtekning; val; fyrirrúm; forgönguréttur (til skuldargreiðslu); [~ shares] forgangshlutabréf; [I can give her no ~ to her sister] ég get ekki tekið hana fram yfir systur hennar; [show a ~ to] hafa meiri mætur á, taka fram yfir; [by (in) ~] heldur, fremur
+preferential l. sem gengur fyrir öðrum; [~ right] forgönguréttur; [~ shares, ~ stock] forgangshlutabréf
+preferment n. upphefð, hafning til æðri tignar eða embættis; prestsembætti
 prefiguration (prifiggjorei'-shen) n. fyrirmyndun; fyrirboðan
-prefigure (-fig'gar) s. fyrirboða; gera sér í hugarlund
-prefix (prifiks') s. setja (eða skeyta) framan við; n. forskeyti
+prefigure s. fyrirboða; gera sér í hugarlund
+prefix s. setja (eða skeyta) framan við; n. forskeyti
 prefixion n. viðauki framan við
 pregnable l. tækur (um kastala)
-pregnancy (pregnansi) n. ólétta; meðgöngutími; frjósemi
+pregnancy n. ólétta; meðgöngutími; frjósemi
 pregnant l. vanfær, þunguð, ólétt (um konu); með fangi (um dýr), fylfull, hvolpafull o.s.frv.; þýðingarmikill; efnisríkur; [~ with peril] hættufullur
 prehensile l. [~ tail] griphali (á apa)
 prehension n. grip, skilningur
-prehistoric (prihistor'ik) l. forsögulegur ([~ period])
-prehistory (prihis'tori) n. forsaga
-prejudge (prídzhþd'zh) s. dæma fyrirfram (of snemma)
+prehistoric l. forsögulegur ([~ period])
+prehistory n. forsaga
+prejudge s. dæma fyrirfram (of snemma)
 prejudgement n. hleypidómur
-prejudicate (-dzhú'dikeit) s. dæma fyrirfram (of snemma)
+prejudicate s. dæma fyrirfram (of snemma)
 prejudication n. hleypidómur
-prejudice (predzliúdis) n. fordómur, hleypidómur, hégilja; skaði, tjón, óhagur, bagi ([to the ~ of]); s. gera (e-n) mótfallinn; gera e-m ógagn, skaða; vinna huga e-s (með eða móti e-u [in favor of, against]); [to be ~d against] vera mótfallinn fyrirfram
-prejudicial (-dish'al) l. skaðlegur, sem er til hnekkis (e-u [to])
-prelacy (prellasi) n. yfirklerkastétt; yfirklerkdómur
-prelate (prelíat) n. yfirklerkur, biskup, preláti
-prelature (prel'otjar) n. yfirklerkastétt; yfirklerkdómur
+prejudice n. fordómur, hleypidómur, hégilja; skaði, tjón, óhagur, bagi ([to the ~ of]); s. gera (e-n) mótfallinn; gera e-m ógagn, skaða; vinna huga e-s (með eða móti e-u [in favor of, against]); [to be ~d against] vera mótfallinn fyrirfram
+prejudicial l. skaðlegur, sem er til hnekkis (e-u [to])
+prelacy n. yfirklerkastétt; yfirklerkdómur
+prelate n. yfirklerkur, biskup, preláti
+prelature n. yfirklerkastétt; yfirklerkdómur
 prelect s. halda fyrirlestur
-prelection (-lek'shan) n. fyrirlestur
+prelection n. fyrirlestur
 prelector n. fyrirlesari (einkum við háskóla)
-prelibation (prílæbei'shan) n. forsmekkur ([a ~ of heavenly bliss])
-preliminary (prilimm'inari) l. undirbúnings- ([~ knowledge]); bráðabirgða; n. inngangur; undirbúningur
+prelibation n. forsmekkur ([a ~ of heavenly bliss])
+preliminary l. undirbúnings- ([~ knowledge]); bráðabirgða; n. inngangur; undirbúningur
 prelude n. forspil; undanfari
 prelude s. spila á undan; vera undanfari (e-s)
 preludial l. undirbúnings-
 preludious l. undirbúnings-
 prelusion n. forspil; undirbúningur
 prelusive l. undirbúnings-
-premature (prematjúr) l. þroskaður of snemma; sem kemur (verður) of snemma; of bráðþroska; ótímabær; hvatvíslegur; [~ burial] kviksetning
+premature l. þroskaður of snemma; sem kemur (verður) of snemma; of bráðþroska; ótímabær; hvatvíslegur; [~ burial] kviksetning
 prematurely ao. of snemma; hvatvíslega
 prematurity n. bráðþroski; of mikill skjótleiki
 premeditate s. íhuga fyrirfram
 premeditatedly ao. með fyrirhuguðu (af ásettu) ráði
 premeditation n. íhugun fyrirfram; fyrirhugað ráð
 premier l. fyrstur, helstur; n. ráðuneytisforseti, forsætisráðherra
-premise (primæz') s. segja (á undan)
+premise s. segja (á undan)
 premise n. forsenda
-premiss (premmis) n. forsenda
-premises (premmisiz) n. ft. húseign, hús með lóð og útihúsum; [the school ~] skólahúsin
-premium (primjam) n. verðlaun; ábyrgðargjald, iðgjald; kennslukaup; [at a ~] fyrir ofan ákvæðisverð
-premonish (primonn'ish) s. vara við
-premonition (-ish'on) n. viðvörun
+premiss n. forsenda
+premises n. ft. húseign, hús með lóð og útihúsum; [the school ~] skólahúsin
+premium n. verðlaun; ábyrgðargjald, iðgjald; kennslukaup; [at a ~] fyrir ofan ákvæðisverð
+premonish s. vara við
+premonition n. viðvörun
 premonitor n. sá sem varar við
 premonitory l. sem er til viðvörunar (e-u [of])
 prentice n. námspiltur (sjá [apprentice])
 prenticeship n. námstími, námsár (sjá [apprenticeship])
-preoccupy (priokk'júpæ) s. taka undir sig á undan öðrum
+preoccupy s. taka undir sig á undan öðrum
 preoccupied l. sokkinn í hugsanir
-preordain (priordein') s. ákveða fyrirfram
+preordain s. ákveða fyrirfram
 preordination n. ákvörðun fyrirfram
-preparation (preparei'shon) n. undirbúningur (undir e-ð [for]); viðbúnaður; tilbúningur; útbúningur
-preparative (-parr'ativ) l. undirbúnings-; n. undirbúningur
+preparation n. undirbúningur (undir e-ð [for]); viðbúnaður; tilbúningur; útbúningur
+preparative l. undirbúnings-; n. undirbúningur
 preparatively ao. til undirbúnings
 preparatory l. [~ school] undirbúningsskóli; [~ to] sem er til undirbúnings undir
-prepare (pripér') s. undirbúa; búa til; búa sig undir; [~ for war] búa sig (búast) til ófriðar
-prepay (pripei') s. borga fyrirfram
+prepare s. undirbúa; búa til; búa sig undir; [~ for war] búa sig (búast) til ófriðar
+prepay s. borga fyrirfram
 prepayment n. borgun fyrirfram
-prepense (pripens') l. vísvitandi; [error ~] yfirsjón af ásettu ráði
+prepense l. vísvitandi; [error ~] yfirsjón af ásettu ráði
 preponderance n. yfirvigt, yfirþungi
 preponderant l. sem er þyngri á metunum, sem má sín meira
 preponderate s. vera þyngri en; mega sín meira (en [over]); yfirgnæfa
-preposition (prepözish'an) n. forsetning
+preposition n. forsetning
 prepositional l. forsetningarlegur
-prepositive (-poz'itiv) l. settur framan við; [~ particle] forskeyti
-prepossess (prípözess') s. eignast á undan; hafa áhrif á; [~ for, in favor of] gera meðmæltan (e-u)
+prepositive l. settur framan við; [~ particle] forskeyti
+prepossess s. eignast á undan; hafa áhrif á; [~ for, in favor of] gera meðmæltan (e-u)
 prepossessing l. laðandi, þægilegur í viðmóti
 prepossession n. fyrri eign eða eignartaka; hleypidómur; velvild
 prepossessor n. fyrri eigandi
@@ -1867,20 +1867,20 @@ preposterous l. fráleitur, fáránlegur; öfugur; fjarri öllum sanni
 prepotence n. yfirráð, veldi
 prepotency n. yfirráð, veldi
 prepotent l. mjög voldugur; ráðandi, ríkjandi
-prerequisite (prirekk'wizit) l. nauðsynlegur á undan
-prerogative (prirogg'ativ) n. einkaréttindi, forréttindi ([royal ~])
-presage (pressidzh) n. hugboð; forboði, viti; s. boða, vita á; hafa hugboð um; segja fyrir, spá
-presbyter (presbitar) n. safnaðaröldungur; prestur
+prerequisite l. nauðsynlegur á undan
+prerogative n. einkaréttindi, forréttindi ([royal ~])
+presage n. hugboð; forboði, viti; s. boða, vita á; hafa hugboð um; segja fyrir, spá
+presbyter n. safnaðaröldungur; prestur
 presbyterian l. öldunglegur, öldunga-; n. öldungastjórnarmaður
 presbytery n. kirkjulegt öldungaráð
 prescience n. forspá, framsýni
 prescient l. forspár, framsýnn
-prescind (prisind') s. sníða burt; slíta (frá e-u [from])
-prescribe (priskræb') s. skipa (mæla) fyrir; tiltaka (læknislyf handa sjúklingi)
-prescript (prí-) n. fyrirskipun
-prescription (-skrip'shan) n. fyrirskipun; læknisávísun; fyrning (skuldbindingar); notkunarhefð
+prescind s. sníða burt; slíta (frá e-u [from])
+prescribe s. skipa (mæla) fyrir; tiltaka (læknislyf handa sjúklingi)
+prescript n. fyrirskipun
+prescription n. fyrirskipun; læknisávísun; fyrning (skuldbindingar); notkunarhefð
 prescriptive l. fenginn með notkunarhefð ([~ right]); venjuhelgaður; fyrirskipandi ([~ rule])
-presence (prezans) n. viðurvist, nærvera, návist; tignarpersóna; framkoma, hegðun ([a man of noble ~]); [~ of mind] snarræði; [~ room, ~ chamber] áheyrnarsalur
+presence n. viðurvist, nærvera, návist; tignarpersóna; framkoma, hegðun ([a man of noble ~]); [~ of mind] snarræði; [~ room, ~ chamber] áheyrnarsalur
 present l. viðstaddur, nálægur, nærverandi, nærstaddur; núverandi, sem stendur yfir ([the ~ time]); sem er til taks, reiðubúinn; [at (in) the ~ day] nú á dögum; n. nútíð; yfirstandandi tíð; gjöf; [make a ~ of] gefa; [at ~] að svo stöddu, nú; [for the ~] fyrst um sinn
 presently ao. bráðum; undir eins
 present s. nefna e-n fyrir öðrum viðstöddum, kynna e-n; sýna; afhenda; bera upp (nýmæli); bera fram (kæru); kæra; mæla með e-m (til prestsembættis); gefa ([with]); ota, miða (byssu); [an opportunity ~ed itself] tækifæri gafst
@@ -1893,30 +1893,30 @@ preservable l. geymanlegur
 preservation n. geymsla; verndun; viðhald
 preservative l. verndandi, verndunar-; n. varnarmeðal
 preservatory l. verndandi, verndunar-; n. varnarmeðal
-preserve (prizörv') s. vernda, viðhalda, verja (fyrir [from]); geyma (aldin); sjóða niður; friða (veiðidýr, fugla); halda (e-u) við; [~d meat] niðursoðið kjöt; n. niðursoðið kjöt; niðursoðin aldin; niðursoðin matvæli; ft. dýragarður ([game ~s])
+preserve s. vernda, viðhalda, verja (fyrir [from]); geyma (aldin); sjóða niður; friða (veiðidýr, fugla); halda (e-u) við; [~d meat] niðursoðið kjöt; n. niðursoðið kjöt; niðursoðin aldin; niðursoðin matvæli; ft. dýragarður ([game ~s])
 preserver n. verndari, frelsari
-preside (prizæd') s. hafa forsæti, vera forseti; ráða fyrir ([over])
-presidence (prezidans) n. forstjórn, forráð
+preside s. hafa forsæti, vera forseti; ráða fyrir ([over])
+presidence n. forstjórn, forráð
 presidency n. forstjórn; forsæti; forsetadæmi
-president (prezidant) n. forseti, formaður
-presidential (-den'shal) l. forsetalegur; [~ election] forsetakosning
-presidentship (prezi-) n. forsetatign, forsetadæmi
-presignify (prisig'nifæ) s. benda á fyrir fram, boða, fyrirboða
+president n. forseti, formaður
+presidential l. forsetalegur; [~ election] forsetakosning
+presidentship n. forsetatign, forsetadæmi
+presignify s. benda á fyrir fram, boða, fyrirboða
 press s. þrengja (kreppa) að; þrýsta á ([~ on, upon]); kreista fergja; kúga, þvinga (til sjóliðsþjónustu); þrýsta (í faðm sér); leggja fast að, herða á (e-m); halda (e-u) fast fram; ganga ríkt eftir; þyrpast, troðast; [I am ~ed for money, for time] ég er félaus, hef nauman tíma; [he ~ed upon me] tróð upp á mig; [time ~es] tíminn er naumur, það liggur á; [~ for payment] ganga ríkt eftir borgun
 press n. prentvél, prentverk; pressa, farg; þvingun; mannþröng, troðningur; hraði, flaustur; fata- eða bókaskápur; [liberty of the ~] prentfrelsi; [pass (put) through the ~] láta prenta; [ready for the ~] búinn til prentunar; [~ of sail] öll segl, sem skipið þolir; [the (daily) ~] dagblöðin
 press gang n. flokkur manna, sem sendur var út til þess að taka menn nauðuga til sjóliðsþjónustu
 pressman n. prentari; blaðamaður
-pressing (pressÍN) l. þvingandi ([~ evils]); áriðandi, brýnn ([~ need]); áleitinn; [a ~ want] mikill skortur; n. þrýsting; fortölur
-pressure (preshar) n. þrýsting; þvingun; skortur; [relieve the ~ of taxes] létta á skattbyrðinni
+pressing l. þvingandi ([~ evils]); áriðandi, brýnn ([~ need]); áleitinn; [a ~ want] mikill skortur; n. þrýsting; fortölur
+pressure n. þrýsting; þvingun; skortur; [relieve the ~ of taxes] létta á skattbyrðinni
 prestige n. álit
 presto ao. (í söngfræði) skjótt
-presume (prizjúm') s. gera ráð fyrir, ætla, hyggja; þykjast (af e-u [upon]); dirfast; [~ upon] reiða sig (um of) á
-presumption (-zþm'shan) n. ætlun; líkindi, líkur; þótti; ofdirfska
-presumptive (-zþmp'tiv) l. sem menn halda að sé; [~ evidence/proof] sönnun, sem byggð er á líkum
+presume s. gera ráð fyrir, ætla, hyggja; þykjast (af e-u [upon]); dirfast; [~ upon] reiða sig (um of) á
+presumption n. ætlun; líkindi, líkur; þótti; ofdirfska
+presumptive l. sem menn halda að sé; [~ evidence/proof] sönnun, sem byggð er á líkum
 presumptively ao. að því er ætlað er
-presumptuous (-zþmp'tjúas) l. þóttafullur; ofdirfskufullur, óskammfeilinn
-presuppose (prísapóz') s. gera ráð fyrir (e-u) fyrirfram
-pretence (pritans') n. yfirvarp, yfirskin ([under the ~ of of helping]); átylla ([give one ~ to]); viðbára, fyrirsláttur; krafa
+presumptuous l. þóttafullur; ofdirfskufullur, óskammfeilinn
+presuppose s. gera ráð fyrir (e-u) fyrirfram
+pretence n. yfirvarp, yfirskin ([under the ~ of of helping]); átylla ([give one ~ to]); viðbára, fyrirsláttur; krafa
 pretend s. gera sér upp ([~ illness]); þykjast, látast ([~ to know]); láta sem ([~ that]); gera sér von um að fá ([~ to a woman]); kalla eftir e-u; gera tilkall (til [to]); [~ to learning] þykjast vera lærður
 pretended l. uppgerður
 pretender n. sá sem gerir kröfu (t.d. til ríkis [to the throne])
@@ -1927,10 +1927,10 @@ preterite l. umliðinn; n. umliðin tíð ([~ tense])
 pretermission n. úrfellir, undanfelling
 pretermit s. fella undan, sleppa e-u (úr); gera hlé á e-u
 preternatural l. ónáttúrlegur; óskiljanlegur
-pretext (pritekst) n. yfirvarp; viðbára, fyrirsláttur ([on, under the ~ of])
+pretext n. yfirvarp; viðbára, fyrirsláttur ([on, under the ~ of])
 prettiness n. snoturleiki
-pretty (pritti) l. snotur, laglegur, dáfríður; ao. dáindis, fremur; [~ well] dável
-prevail (priveil') s. verða (vera) yfirsterkari ([~ over, against]); ráða meiru; drottna, ríkja; vera algengur; [~ (up)on] fá til; [~ on oneself] fá af sér; [~ more with] mega sín meira hjá
+pretty l. snotur, laglegur, dáfríður; ao. dáindis, fremur; [~ well] dável
+prevail s. verða (vera) yfirsterkari ([~ over, against]); ráða meiru; drottna, ríkja; vera algengur; [~ (up)on] fá til; [~ on oneself] fá af sér; [~ more with] mega sín meira hjá
 prevailing l. ráðandi, ríkjandi ([avarice was his ~ passion])
 prevalence n. mest ráð eða áhrif, drottnun eða vald; tíðleiki ([~ of westerly winds])
 prevalency n. mest ráð eða áhrif, drottnun eða vald; tíðleiki ([~ of westerly winds])
@@ -1944,10 +1944,10 @@ preventable l. sem hægt er að hindra eða afstýra
 preventative l. hindrandi; n. varnarlyf; varnarráð
 prevention n. hindrun, öftrun
 preventive l. hindrandi; n. varnarlyf; varnarráð
-previous (prívias) l. undanfarandi, fyrri; [~ to] áður en
+previous l. undanfarandi, fyrri; [~ to] áður en
 previously ao. áður
-previse (privæz') s. sjá fyrir
-prevision (vizh'an) n. framsýni; hugboð
+previse s. sjá fyrir
+prevision n. framsýni; hugboð
 prey n. bráð, herfang; [beast of ~] rándýr; s. taka herfang; [~ (up)on] éta (herfangið); ræna; liggja þungt á ([~ upon one's mind])
 price n. verð ([what is the ~ of this?]); gildi; laun; [offered at a reduced ~] fyrir niðursett verð; [above (beyond, without) ~] ómetanlegur; [set a ~ on a person's head] leggja fé til höfuðs e-m; [at a low ~] á lágu verði; [at any ~] hvað sem það kostar; s. setja verð á; meta
 price current n. verðskrá
@@ -1957,8 +1957,8 @@ pricker n. alur
 pricking n. stunga, stingur
 prickle n. gaddur, broddur; s. smástinga, pikka
 prickly l. broddóttur, þyrnóttur
-pride (præd) n. dramb, stærilæti, stolt; skart; sómatilfinning ([proper ~]); [feel (take) ~ in] þykja sómi að, vera hreykinn af; [he is his mother's ~] hann er átrúnaðargoð móður sinnar; s. [~ oneself in (on, upon)] stæra sig af, vera hreykinn af
-priest (príst) n. prestur; s. prestvígja
+pride n. dramb, stærilæti, stolt; skart; sómatilfinning ([proper ~]); [feel (take) ~ in] þykja sómi að, vera hreykinn af; [he is his mother's ~] hann er átrúnaðargoð móður sinnar; s. [~ oneself in (on, upon)] stæra sig af, vera hreykinn af
+priest n. prestur; s. prestvígja
 priestcraft n. klerkaslægð
 priestess n. meyprestur; hofgyðja
 priesthood n. prestsembætti; prestastétt
@@ -1968,32 +1968,32 @@ priggery n. mont, sjálfsálit
 priggish l. montinn, upp með sér
 priggishness n. mont, sjálfsálit
 prim l. tilgerðarlegur; s. skreyta, dubba upp ([~ up]); setja á sig alvörusvip ([~ up]); herpa saman (varirnar [~ lips])
-primacy (præmasi) n. erkibiskupstign; yfirburðir, ágæti
-primal (præmal) l. frumlegur; forn; fyrstur, fremstur, helstur
-primary (præmari) l. fyrstur; helstur; upprunalegur, frumlegur, frum-; ([the ~ meaning of a word]); [~ education] barnafræðsla; [~ school] undirbúningsskóli, barnaskóli; n. aðalatriði; flugfjöður
-primate (præmat) n. prímati; erkibiskup; [Primate of all England] erkibiskupinn í Kantaraborg
-prime (præm) l. fyrstur, helstur; ógætur frábær; [~ cost] innkaupsverð; [~ number] frumtala; [~ minister] forsætisráðherra; n. blómi (broddur) lífsins ([be in the ~ of life]); frumtala; fyrsti hluti dags eða árs; morgun; vor; besti hluti; [~ of the moon] nýtt tungl, ný; s. draga undirlit á (léreft undir mólverk); leggja kveikjupúður á; [he is priming himself] hann er að drekka í sig áræði
-primer (primmar) n. stafrófskver; námsbók handa byrjendum
-primer (præmér) n. hvellhetta
-primeval (præmí'val) l. upprunalegur; [~ forest] frumskógur
-priming (præmÍN) n. kveikjupúður; undirlitur
-primitive (primmitiv) l. frumstæður, upphaflegur, frumlegur, frum-; n. frumorð
+primacy n. erkibiskupstign; yfirburðir, ágæti
+primal l. frumlegur; forn; fyrstur, fremstur, helstur
+primary l. fyrstur; helstur; upprunalegur, frumlegur, frum-; ([the ~ meaning of a word]); [~ education] barnafræðsla; [~ school] undirbúningsskóli, barnaskóli; n. aðalatriði; flugfjöður
+primate n. prímati; erkibiskup; [Primate of all England] erkibiskupinn í Kantaraborg
+prime l. fyrstur, helstur; ógætur frábær; [~ cost] innkaupsverð; [~ number] frumtala; [~ minister] forsætisráðherra; n. blómi (broddur) lífsins ([be in the ~ of life]); frumtala; fyrsti hluti dags eða árs; morgun; vor; besti hluti; [~ of the moon] nýtt tungl, ný; s. draga undirlit á (léreft undir mólverk); leggja kveikjupúður á; [he is priming himself] hann er að drekka í sig áræði
+primer n. stafrófskver; námsbók handa byrjendum
+primer n. hvellhetta
+primeval l. upprunalegur; [~ forest] frumskógur
+priming n. kveikjupúður; undirlitur
+primitive l. frumstæður, upphaflegur, frumlegur, frum-; n. frumorð
 primitiveness n. frumleiki
 primogenitor n. ættfaðir
 primogeniture n. frumburðarréttur ([right of ~])
 primordial l. upphaflegur, fyrstur
 primordially ao. upphaflega
 primrose n. vorrós (jurt)
-prince (prins) n. konungssonur, prins; stórhöfðingi, fursti; [Prince of Wales] ríkiserfingi á Englandi; [~ of the (Holy Roman) church] kardínáli; [~ royal] elsti sonur ríkjandi konungs, ríkiserfingi
+prince n. konungssonur, prins; stórhöfðingi, fursti; [Prince of Wales] ríkiserfingi á Englandi; [~ of the (Holy Roman) church] kardínáli; [~ royal] elsti sonur ríkjandi konungs, ríkiserfingi
 princedom n. furstadæmi, furstatign
 princely l. höfðinglegur; konunglegur
 princess n. prinsessa, konungsdóttir; stórhöfðingjafrú
 principal l. helstur, aðal- ([their ~ food, a ~ cause of of his failure]); [~ sentence, clause] aðalsetning; n. höfuðsmaður; húsbóndi ([I must consult my ~]); skólastjóri; höfuðstóll; höfuðatriði
-principality (-pall'iti) n. furstadæmi
+principality n. furstadæmi
 principally ao. einkum, aðallega
 principalship n. skólastjórastaða
-principle (prinsip'l) n. upphaf; frumefni; föst regla, meginregla, undirstaða; undirstöðuatriði ([first ~s of political economy]); lögmál ([~ of gravitation, moral ~])
-prink (prÍNk) s. dubba (sig) upp
+principle n. upphaf; frumefni; föst regla, meginregla, undirstaða; undirstöðuatriði ([first ~s of political economy]); lögmál ([~ of gravitation, moral ~])
+prink s. dubba (sig) upp
 print s. prenta; þrýsta (mynd eða merki) á, stimpla; n. prent; prentuð mynd; stálstunga, koparstunga; merki, spor, far ([finger~, foot~]); ft. [daily ~s] dagblöð; [a large (small) ~] stórt (smátt) letur; [in ~] ekki uppseldur (um bækur); á prenti; [out of ~] uppseldur
 printer n. prentari
 printing n. prent; prentlist
@@ -2003,7 +2003,7 @@ printing ink n. prentsverta
 printing paper n. prentpappír
 printseller n. prentmyndasali
 print shop n. prentmyndabúð
-prior (præar) l. fyrri, eldri; [~ mortgage] fyrsti veðréttur; [~ to] fyrr (fyrri) en; n. príor, klausturstjóri
+prior l. fyrri, eldri; [~ mortgage] fyrsti veðréttur; [~ to] fyrr (fyrri) en; n. príor, klausturstjóri
 priorate n. príorsembætti
 prioress n. príóressa (fyrir nunnuklaustri)
 priority n. forgangsréttur
@@ -2011,31 +2011,31 @@ priorship n. príorsembætti
 priory n. klaustur
 prism n. þrístrendur kristall, prisma
 prismatic l. prismatískur
-prison (priz'n) n. fangelsi, prísund
-prisoner (priznar) n. fangi, bandingi; [take ~] taka e-n höndum; [~ of state, state ~] ríkisfangi; [~ of war] herfangi
-pristine (pristin) l. forn, upphaflegur ([a ~ state of happiness])
-prithee (priði) s. [I pray thee] ég bið þig ([~, friend, be obliging])
-privacy (prævasi) n. einkalíf, einvera, einrúm, einverustaður; leynd, launung
-private (prævat) l. embættislaus, valdalaus; óbreyttur ([~ soldier]); einstakur, sérstakur; leynilegur, heimullegur ([the matter was kept ~]); einslegur ([~ conversation]); [~ house] íbúðarhús; [~ school] einkaskóli; [my ~ property] eign(ir), sem ég á sjálfur; [the funeral was strictly ~] greftrunin fór fram í mestu kyrrþey; [in ~] einslega (andstætt við [in public]), í kyrrþey, í einrúmi; leynilega; n. óbreyttur liðsmaður
+prison n. fangelsi, prísund
+prisoner n. fangi, bandingi; [take ~] taka e-n höndum; [~ of state, state ~] ríkisfangi; [~ of war] stríðsfangi, herfangi
+pristine l. forn, upphaflegur ([a ~ state of happiness])
+prithee s. [I pray thee] ég bið þig ([~, friend, be obliging])
+privacy n. einkalíf, einvera, einrúm, einverustaður; leynd, launung
+private l. embættislaus, valdalaus; óbreyttur ([~ soldier]); einstakur, sérstakur; leynilegur, heimullegur ([the matter was kept ~]); einslegur ([~ conversation]); [~ house] íbúðarhús; [~ school] einkaskóli; [my ~ property] eign(ir), sem ég á sjálfur; [the funeral was strictly ~] greftrunin fór fram í mestu kyrrþey; [in ~] einslega (andstætt við [in public]), í kyrrþey, í einrúmi; leynilega; n. óbreyttur liðsmaður
 privately ao. [in ~]
 privateness n. leynd; einvera
-privateer (prævatír') n. skip, sem á ófriðartímum hefur fengið leyfi ríkis síns til að taka og ræna kaupskip óvinanna, víkingaskip; s. sigla á víkingaskipi; ræna kaupskip
-privation (prævei'shan) n. skortur, bjargarleysi ([died of ~]); vöntun ([cold is the ~ of heat])
-privative (privativ) l. sviptandi; neitunar-; n. mótsetning, neitunarorð, neitun
-privilege (privvilidzh) n. einkaleyfi, einkaréttindi, réttur; s. veita einkaleyfi; undanþiggja ([~ one from])
-privily (privvili) ao. í kyrrþey, leynilega
-privity (privviti) n. samvitund; vitorð (um e-ð [to])
-privy (privvi) l. sérstakur, afvikinn ([a ~ place]); leynilegur; [~ to] samvitandi um, í vitorði um; [~ council] leyndarráð (konungs); [~ councillor] meðlimur leyndarráðs konungs; [~ seal] innsigli konungs sjálfs; innsiglisvörður ([Lord Privy Seal])
-privy (privvi) n. salerni
-prize (præz) n. verðlaun (t.d. í skólum); vinningur í happdrætti; hertekið skip; herfang; s. virða, meta; hertaka (skip); brjóta, sprengja upp (dyr); [~ essay] n. verðlaunaritgerð
-prize fight (-fæt) n. hnefaleikur, er barist er um verðlaun
-prize fighter (-fætar) n. hnefaleikamaður (sem keppir um verðlaun)
+privateer n. skip, sem á ófriðartímum hefur fengið leyfi ríkis síns til að taka og ræna kaupskip óvinanna, víkingaskip; s. sigla á víkingaskipi; ræna kaupskip
+privation n. skortur, bjargarleysi ([died of ~]); vöntun ([cold is the ~ of heat])
+privative l. sviptandi; neitunar-; n. mótsetning, neitunarorð, neitun
+privilege n. einkaleyfi, einkaréttindi, réttur; s. veita einkaleyfi; undanþiggja ([~ one from])
+privily ao. í kyrrþey, leynilega
+privity n. samvitund; vitorð (um e-ð [to])
+privy l. sérstakur, afvikinn ([a ~ place]); leynilegur; [~ to] samvitandi um, í vitorði um; [~ council] leyndarráð (konungs); [~ councillor] meðlimur leyndarráðs konungs; [~ seal] innsigli konungs sjálfs; innsiglisvörður ([Lord Privy Seal])
+privy n. salerni
+prize n. verðlaun (t.d. í skólum); vinningur í happdrætti; hertekið skip; herfang; s. virða, meta; hertaka (skip); brjóta, sprengja upp (dyr); [~ essay] n. verðlaunaritgerð
+prize fight n. hnefaleikur þar sem barist er um verðlaun
+prize fighter n. hnefaleikamaður (sem keppir um verðlaun)
 pro and con ao. með og móti; n. ft. [pros and cons] ástæður með og á móti
-probability (probbabill'iti) n. líkindi
-probable (probbab'l) l. sennilegur, líklegur
+probability n. líkindi
+probable l. sennilegur, líklegur
 probably ao. sennilega, líklega, að líkindum
-probate (próbat) n. prófun erfðaskrár; [~ duty] erfðaskattur; [~ court] skiptaréttur
-probation (pröbei'shan) n. reynsla, prófun; reynslutími
+probate n. prófun erfðaskrár; [~ duty] erfðaskattur; [~ court] skiptaréttur
+probation n. reynsla, prófun; reynslutími
 probational l. sem er til reynslu, próf- ([~ sermon, ~ year])
 probationary l. sem er til reynslu, próf- ([~ sermon, ~ year])
 probationer n. maður, sem verið er að reyna
@@ -2071,7 +2071,7 @@ procurator n. umboðsmaður
 procure s. útvega, fá; afla; koma til leiðar
 procurement n. aðstoð, tilstilli ([by the ~ of my uncle])
 prod n. stunga; broddur, oddur; s. stinga, reka í
-prodigal (proddigal) l. eyðslusamur, óspilunarsamur; [the ~ son] hinn glataði sonur; n. eyðsluseggur
+prodigal l. eyðslusamur, óspilunarsamur; [the ~ son] hinn glataði sonur; n. eyðsluseggur
 prodigality n. eyðslusemi, óspilunarsemi
 prodigalize s. eyða í óhófi
 prodigious l. undursamlegur; ógurlegur, frámunalegur
@@ -2149,31 +2149,31 @@ projecture n. framskot ([the ~ of the roof])
 prolapsus n. sig (legsig, baksig)
 prolegomena n. ft. formáli, inngangur
 prolepsis n. fyrirframtekning
-proletarian (-té'rian) l. sem lýtur að öreigum, öreiga-; n. öreigi
+proletarian l. sem lýtur að öreigum, öreiga-; n. öreigi
 proletarianism n. hagur eða stjórnmálaskoðanir öreigalýðs; öreigalýður
 proletariate n. öreigalýður, skríll; öreigar
 proletariat n. öreigalýður, skríll; öreigar
-proletary (prollitari) l. sem lýtur að öreigum, öreiga-; n. öreigi
-prolific (pröliff'ik) l. frjósamur ([of])
-prolificity (-fiss'iti) n. frjósemi
-prolix (próliks) l. langorður og leiðinlegur
-prolixity (-lik'siti) n. mælgi
-prolocutor (prollökjútar) n. framsögumaður, forseti (á prestastefnu)
-prologue (prólogg) n. formáli (einkum í ljóðum); s. rita formála fyrir
-prolong (pröloN') s. framlengja; lengja, draga (hljóð); láta haldast (lengur)
+proletary l. sem lýtur að öreigum, öreiga-; n. öreigi
+prolific l. frjósamur ([of])
+prolificity n. frjósemi
+prolix l. langorður og leiðinlegur
+prolixity n. mælgi
+prolocutor n. framsögumaður, forseti (á prestastefnu)
+prologue n. formáli (einkum í ljóðum); s. rita formála fyrir
+prolong  s. framlengja; lengja, draga (hljóð); láta haldast (lengur)
 prolongation n. lenging
 promenade n. skemmtiganga (skemmtireið, skemmtiakstur); skemmtigöngustaður; s. ganga (ríða, aka, sigla, róa) sér til skemmtunar
-prominence (promminans) n. framstandandi partur; yfirburðir, ágæti
-prominent (prominant) l. útstandandi eða framstandandi, framstæður; frábær, ágætur; mikill
-promiscuity (-kjú'iti) n. sambland; lauslæti
-promiscuous (prömis'kjúas) l. blandaður af handahófi, sem er án greinarmunar; lauslæti
+prominence n. framstandandi partur; yfirburðir, ágæti
+prominent l. útstandandi eða framstandandi, framstæður; frábær, ágætur; mikill
+promiscuity n. sambland; lauslæti
+promiscuous l. blandaður af handahófi, sem er án greinarmunar; lauslæti
 promiscuously ao. af handa hófi, hvað innan um annað; lauslætislega
-promise (prommis) n. loforð, heit; fyrirheit; [of great ~] mjög efnilegur; [the land of ~] fyrirheitna landið; [breach of ~] heitrof; s. lofa, heita ([I promise you this])
+promise n. loforð, heit; fyrirheit; [of great ~] mjög efnilegur; [the land of ~] fyrirheitna landið; [breach of ~] heitrof; s. lofa, heita ([I promise you this])
 promising l. líklegur, efnilegur, vænlegur
 promissory l. lofandi
 promissory note n. eiginvíxill
-promontory (prommöntari) n. höfði
-promote (prömót') s. styðja (að e-u); styrkja, efla, auka; hefja (til tignar [~ to higher office])
+promontory n. höfði
+promote s. styðja (að e-u); styrkja, efla, auka; hefja (til tignar [~ to higher office])
 promoter n. frömuður; styrktarmaður; upphafsmaður
 promotion n. efling, styrking; upphafning; upphefð
 promotive l. eflandi, styrkjandi ([~ of])
@@ -2183,36 +2183,36 @@ promptitude n. skjótleiki, hvatleiki, snarræði
 promptly ao. skjótt, greiðlega
 promptness n. skjótleiki
 promulgate s. kunngjöra, birta, auglýsa
-promulgation (-gei'shon) n. auglýsing, birting
-promulgator (-geit'ar) n. kunngjörari
-promulge (-m0l'-dzh) s. kunngjöra, birta, auglýsa
-prone (prón) l. liggjandi á grúfu; flatur ([fall/lie ~]); brattur; hneigður (til [to]); [~ to anger] uppstökkur, reiðigjarn
+promulgation n. auglýsing, birting
+promulgator n. kunngjörari
+promulge s. kunngjöra, birta, auglýsa
+prone l. liggjandi á grúfu; flatur ([fall/lie ~]); brattur; hneigður (til [to]); [~ to anger] uppstökkur, reiðigjarn
 pronely ao. á grúfu
 proneness n. tilhneiging ([~ to swoon])
-prong (proN) n. kvísl, heykvísl; álma á gaffli; agnhald (á öngli); s. stinga, taka (með gaffli eða kvísl)
+prong n. kvísl, heykvísl; álma á gaffli; agnhald (á öngli); s. stinga, taka (með gaffli eða kvísl)
 pronominal (prönomm'inal) l. fornafns-, fornafna-
 pronominally ao. sem fornafn
-pronoun (prónán) n. fornafn
-pronounce (prönáns') s. bera fram (orð, mál); segja (kveða) upp (dóm); halda (ræðu); segja; lýsa yfir; [~ on] kveða upp dóm um, segja álit sitt um; [~ for (in favour of), against] mæla með eða móti e-u
+pronoun n. fornafn
+pronounce s. bera fram (orð, mál); segja (kveða) upp (dóm); halda (ræðu); segja; lýsa yfir; [~ on] kveða upp dóm um, segja álit sitt um; [~ for (in favour of), against] mæla með eða móti e-u
 pronounced l. ákveðinn, skýr
 pronounceable l. framberanlegur (um orð)
 pronouncement n. yfirlýsing; yfirlýst skoðun
 pronouncing l. framburðar-; [~ dictionary] framburðarorðabók
-pronunciation (prönpnsiei'shan) n. framburður ([his ~ is often faulty])
-proof (prúf) n. sönnun; lagasönnun ([this requires no ~; in ~ of my assertion]); reynsla, prófun; próförk; prófmynd; l. fastur, sem getur staðið á móti; [he is ~ against steel] stál bítur ekki á hann
+pronunciation n. framburður ([his ~ is often faulty])
+proof n. sönnun; lagasönnun ([this requires no ~; in ~ of my assertion]); reynsla, prófun; próförk; prófmynd; l. fastur, sem getur staðið á móti; [he is ~ against steel] stál bítur ekki á hann
 proofreader n. prófarkalesari
 proofreading n. prófarkalestur
 proofsheet n. próförk
-prop (propp) n. stoð, skorða; stuðningsmaður; s. styðja, skorða
-propaedeutic (própidjú'tik) l. undirbúnings- ([~ studies])
+prop n. stoð, skorða; stuðningsmaður; s. styðja, skorða
+propaedeutic l. undirbúnings- ([~ studies])
 propaedeutics n. ft. undirbúningsnám, forspjallsvísindi
 propaganda n. áróður; útbreiðsla sérskoðana eða kenninga yfirleitt; útbreiðslustarfsemi; kaþólskur trúboðsskóli eða félag í Róm
 propagandism n. áróðursstarfsemi; útbreiðslustarfsemi
 propagandist n. áróðursmaður; maður, sem gerir sér far um að breiða út sérskoðanir og kenningar; meðlimur kaþólska trúboðsskólans í Róm
-propagate (proppageit) s. útbreiða ([~ belief, doctrine]); auka; framleiða; breiðast út, aukast, æxlast
+propagate s. útbreiða ([~ belief, doctrine]); auka; framleiða; breiðast út, aukast, æxlast
 propagation n. útbreiðsla; æxlun
-propagative (-geitiv) l. útbreiðslu-
-propagator (-geitar) n. sá sem útbreiðir ([a ~ of Christianity])
+propagative l. útbreiðslu-
+propagator n. sá sem útbreiðir ([a ~ of Christianity])
 propel s. reka (knýja) áfram
 propeller n. skrúfa (í gufuskipi, flugvél, o.s.frv.) ([screw ~])
 propense l. hneigður (til e-s [to])
