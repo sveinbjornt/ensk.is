@@ -1,52 +1,52 @@
-fable (feib'l) n. dæmisaga, skröksaga; tilbúningur, ósannindi; s. segja frá (eins og í dæmisögu); skrökva upp
+fable n. dæmisaga, skröksaga; tilbúningur, ósannindi; s. segja frá (eins og í dæmisögu); skrökva upp
 fabler n. skröksöguhöfundur
-fabric (fábbrik) n. bygging; vefnaður
+fabric n. bygging; vefnaður
 fabricate s. búa til; ljúga upp ; falsa
 fabrication n. smíði; tilbúningur; skrök, lygi; fölsun
-fabricator (-eitor) n. smiður; höfundur
-fabulist (fabbjúlist) n. dæmisagnahöfundur
-fabulous (fább-júlos) l. skröksögulegur ([~ monsters]); lygilegur, ósennilegur, ótrúlegur
-facade (fosád') n. framhlið
-face (feis) n. andlit; framhlið; yfirborð; flötur; svipur, útlit; augsýn; skífa (á úri eða klukku); ósvífni; [look a person in the ~] horfa framan í e-n; [set one's ~ against] sporna við; [make ~s] gretta sig; s. standa í móti; bjóða byrgin; þekja (prýða) að framan; brydda; vita, snúa út að ([~ on, to, eastwards]); [~ about] snúa sér við
-facer (feisor) n. snoppungur
-facet (fássit) n. fægiflötur (á gimsteini eða gleri); s. sniðslípa
-facetious (fosí'shos) l. fyndinn, gamansamur; hnyttilegur
-facial (feishol) l. andlits-
-facile (fássil) l. auðveldur; vingjarnlegur; ráðþægur, leiðitamur
-facilitate (fasill'iteit) s. gera auðveldara
-facility (fasill'iti) n. auðveldleiki; liðugleiki; ljúfmennska; ráðþægni; ft. léttir, hagsmunir
-facing (feisÍN) n. uppslag; brydding (á einkennisbúningi); ytra múrlag ([a ~ of white stone])
-facsimile (fáksimm'ili) n. nákvæm eftirstunga (eftirprentun) skrifleturs
-fact (fákt) n. staðreynd, sannreynd, verk, athöfn; atriði, hlutur; [nearer the ~] nær sanni; [in ~] í raun og veru
-faction (fákshan) n. flokkur (í stjórnmálum); flokkadráttur
-factious (fákshas) l. óeirðarfullur
-factitious (fáktish'as) l. íþróttalegur; uppgerður
+fabricator n. smiður; höfundur
+fabulist n. dæmisagnahöfundur
+fabulous l. skröksögulegur ([~ monsters]); lygilegur, ósennilegur, ótrúlegur
+facade n. framhlið
+face n. andlit; framhlið; yfirborð; flötur; svipur, útlit; augsýn; skífa (á úri eða klukku); ósvífni; [look a person in the ~] horfa framan í e-n; [set one's ~ against] sporna við; [make ~s] gretta sig; s. standa í móti; bjóða byrgin; þekja (prýða) að framan; brydda; vita, snúa út að ([~ on, to, eastwards]); [~ about] snúa sér við
+facer n. snoppungur
+facet n. fægiflötur (á gimsteini eða gleri); s. sniðslípa
+facetious l. fyndinn, gamansamur; hnyttilegur
+facial l. andlits-
+facile l. auðveldur; vingjarnlegur; ráðþægur, leiðitamur
+facilitate s. gera auðveldara
+facility n. auðveldleiki; liðugleiki; ljúfmennska; ráðþægni; ft. léttir, hagsmunir
+facing n. uppslag; brydding (á einkennisbúningi); ytra múrlag ([a ~ of white stone])
+facsimile n. nákvæm eftirstunga (eftirprentun) skrifleturs
+fact n. staðreynd, sannreynd, verk, athöfn; atriði, hlutur; [nearer the ~] nær sanni; [in ~] í raun og veru
+faction n. flokkur (í stjórnmálum); flokkadráttur
+factious l. óeirðarfullur
+factitious l. íþróttalegur; uppgerður
 factitiousness n. uppgerð
-factor (fáktar) n. umboðsmaður (kaupmanns)
+factor n. umboðsmaður (kaupmanns)
 factorage n. umboðssala; umboðslaun
 factory n. stór verksmiðja, umboðsverslunarhús
 facultative (fákkalteitiv) l. kjörfrjáls
-faculty (fákkalti) n. hæfileiki; háskóladeild; réttur, heimild; [the medical ~] læknastéttin
-fad (fádd) n. duttlungur
+faculty n. hæfileiki; háskóladeild; réttur, heimild; [the medical ~] læknastéttin
+fad n. duttlungur
 faddish l. duttlungafullur, sérvitur
-fade (feid) s. fölna, blikna; visna; smáhverfa ([~ away]); upplitast; óskýrast
+fade s. fölna, blikna; visna; smáhverfa ([~ away]); upplitast; óskýrast
 fadeless l. óvisnanlegur
 faerie n. álfur, álfkona
 faery n. álfur, álfkona
-fag (fágg) s. strita, streitast, þreyta; n. strit, erfiði; vikapiltur (í skóla)
+fag s. strita, streitast, þreyta; n. strit, erfiði; vikapiltur (í skóla)
 fag-end n. úrgangur; endi; útkjálki
-fagging (fággiN) n. strit, erfiði ([hard ~])
+fagging n. strit, erfiði ([hard ~])
 faggot n. lim (sem eldsneyti), hrísbaggi; s. binda (hrís) í bagga ([~ up])
 fagot n. lim (sem eldsneyti), hrísbaggi; s. binda (hrís) í bagga ([~ up])
-fail (feil) s. bregðast; bila; vanta, skorta; þrjóta; mistakast ([~ in something, ~ to do something]); þverra, verða gjaldþrota; [his heart ~ed him] hann missti huginn, lét hugfallast; n. [without ~] vissulega, áreiðanlega, efalaust
+fail s. bregðast; bila; vanta, skorta; þrjóta; mistakast ([~ in something, ~ to do something]); þverra, verða gjaldþrota; [his heart ~ed him] hann missti huginn, lét hugfallast; n. [without ~] vissulega, áreiðanlega, efalaust
 failing n. breyskleiki; galli
-failure (-jar) n. misbrestur, misheppnan, þurrður, skortur; gjaldþrot; [turn out a ~] reynast óhæfur, mislukkaður; mistakast
-fain (fein) l. feginn, glaður; ao. fúslega, gjarnan ([I would ~])
-faint (feint) l. máttfarinn, magnlaus; daufur (um ljós eða lit); huglaus; s. falla í ómegin; verða huglaus; dofna (um liti); n. yfirlið, öngvit
+failure  n. misbrestur, misheppnan, þurrður, skortur; gjaldþrot; [turn out a ~] reynast óhæfur, mislukkaður; mistakast
+fain l. feginn, glaður; ao. fúslega, gjarnan ([I would ~])
+faint l. máttfarinn, magnlaus; daufur (um ljós eða lit); huglaus; s. falla í ómegin; verða huglaus; dofna (um liti); n. yfirlið, öngvit
 fainthearted l. huglaus
 fainting n. yfirlið
 faintness n. magnleysi; svimi; hugleysi ([~ of heart]); daufleiki
-fair (fér) l. fagur; bjartur (um hörund); ljóshærður; skýr, greinilegur (um rithönd); hagstæður (um vind); hreinskilinn, svikalaus; óflekkaður (um mannorð); sanngjarn ([~ price]); dágóður, meðallagi góður; [~ play] réttsýni; hreinskilni; [a ~ copy] hreinskrift; [the ~ sex] kvenþjóðin; [in a ~ way to ruin] á beinni leið til glötunar; [in a ~ way of (towards) recovery] á góðum batavegi; ao. [copy ~] hreinskrifa; [bid (promise) ~] vera líklegur; n. markaður
+fair l. fagur; bjartur (um hörund); ljóshærður; skýr, greinilegur (um rithönd); hagstæður (um vind); hreinskilinn, svikalaus; óflekkaður (um mannorð); sanngjarn ([~ price]); dágóður, meðallagi góður; [~ play] réttsýni; hreinskilni; [a ~ copy] hreinskrift; [the ~ sex] kvenþjóðin; [in a ~ way to ruin] á beinni leið til glötunar; [in a ~ way of (towards) recovery] á góðum batavegi; ao. [copy ~] hreinskrifa; [bid (promise) ~] vera líklegur; n. markaður
 fair-faced l. bjartleitur; friður
 fair-haired l. ljóshærður
 fairly ao. hreinskilnislega; greinilega; alveg; dável
@@ -60,13 +60,13 @@ faithfully ao. trúlega, dyggilega; [Yours ~] yðar einlægur (undir bréfum)
 faithfulness n. tryggð, trúmennska, trúfesti, hollusta
 faithless l. sviksamlegur; ótrúr; ótryggur
 faithlessness n. trúleysi; ótrúmennska
-fake (feik) n. bragð, svik; uppspuni; falsaður hlutur; l. falsaður; gervi-; s. svíkja, falsa; ræna, særa
+fake n. bragð, svik; uppspuni; falsaður hlutur; l. falsaður; gervi-; s. svíkja, falsa; ræna, særa
 fakir s. fakír, indverskur förumunkur
-falchion (fölshan) n. stutt sverð
+falchion n. stutt sverð
 falcon n. fálki, valur
 falconer n. fálkaveiðimaður
-falconry (fökanri) n. fuglaveiðar með fálkum
-fall (föl) s. falla, detta; falla út, fjara; lækka, minnka; lægja (um veður); verða; [~ lame (silent, ill)] heltast (þagna, sýkjast); [~ vacant] losna (um embætti); [~ asleep] sofna; [~ short of] ná ekki; standa á baki (e-m), jafnast ekki við; [~ back] víkja undan; [~ behind] dragast aftur úr; [~ foul of] ráðast á; [~ in with] koma heim við; mæta; aðhyllast; [~ in love with] leggja ástarhug á; [~ off] falla frá; minnka, dofna ([the interest ~s off]); hnigna; [~ off in flesh] megrast, [~ on] byrja; gera áhlaup; [~ out] dragast aftur úr; verða; óvingast; [~ short of one's duty] vanrækja skyldu sína; [~ to] byrja á; fara í handalögmál; [~ under] heyra undir; n. fall, bylta; hrun; halli; lækkun (verðs [~ in the prices]); foss; haust
+falconry n. fuglaveiðar með fálkum
+fall s. falla, detta; falla út, fjara; lækka, minnka; lægja (um veður); verða; [~ lame (silent, ill)] heltast (þagna, sýkjast); [~ vacant] losna (um embætti); [~ asleep] sofna; [~ short of] ná ekki; standa á baki (e-m), jafnast ekki við; [~ back] víkja undan; [~ behind] dragast aftur úr; [~ foul of] ráðast á; [~ in with] koma heim við; mæta; aðhyllast; [~ in love with] leggja ástarhug á; [~ off] falla frá; minnka, dofna ([the interest ~s off]); hnigna; [~ off in flesh] megrast, [~ on] byrja; gera áhlaup; [~ out] dragast aftur úr; verða; óvingast; [~ short of one's duty] vanrækja skyldu sína; [~ to] byrja á; fara í handalögmál; [~ under] heyra undir; n. fall, bylta; hrun; halli; lækkun (verðs [~ in the prices]); foss; haust
 fallacious (felei'shas) l. villandi; táldrægur
 fallacy (fallasi) n. villa; skekkja; skökk ályktun
 fallibility (fallibill'iti) n. skeikanleiki
