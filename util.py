@@ -34,18 +34,55 @@
 """
 
 
-from typing import List, Tuple, Optional, Dict
+from typing import DefaultDict, List, Tuple, Optional, Dict, List
 
 import os
 import json
 import zipfile
-import csv
+from collections import defaultdict
 from os.path import exists
+
+
+def read_raw_pages(fn: Optional[str] = None) -> Dict[str, List]:
+    """Read all text files in the data/dict directory,
+    return as an alphabetically indexed dict of lines."""
+    base_path = "data/dict/"
+    files = sorted(os.listdir(base_path))
+    result = DefaultDict()
+    result = defaultdict(lambda: [])
+
+    for file in files:
+        if fn and file != fn:
+            continue
+        fp = os.path.join(base_path, file)
+        if os.path.isfile(fp) == False:
+            continue
+        if file.endswith(".txt") == False:
+            continue
+
+        with open(fp, "r") as f:
+            file_contents = f.read()
+        lines = file_contents.split("\n")
+
+        for ln in lines:
+            # Skip all empty lines and comments
+            lns = ln.strip()
+            if not lns or lns.startswith("#"):
+                continue
+            keyname = file[:-4]
+            result[keyname].append(ln)
+
+    return result
 
 
 def read_pages(fn: Optional[str] = None) -> List[str]:
     """Read all text files in the data/dict directory,
     return as single list of all lines."""
+
+    # alphabet2words = read_raw_pages()
+    # entry_list = []
+    # for k, v in alphabet2words.items():
+    #     entry_list.append()
 
     base_path = "data/dict/"
     files = sorted(os.listdir(base_path))

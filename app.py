@@ -218,12 +218,14 @@ async def files(request: Request):
 @app.get("/about")
 async def about(request: Request):
     """About page."""
+    single = str(num_entries).endswith("1") and not str(num_entries).endswith("11")
     return TemplateResponse(
         "about.html",
         {
             "request": request,
             "title": f"Um - {WEBSITE_NAME}",
             "num_entries": num_entries,
+            "singular": single,
         },
     )
 
