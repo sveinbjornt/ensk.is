@@ -195,7 +195,6 @@ async def item(request: Request, w):
 
 
 @app.get("/page/{n}")
-@cache_response
 async def page(request: Request, n):
     """Return page for a single dictionary page image."""
     n = int(n)
