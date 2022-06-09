@@ -94,7 +94,6 @@ girlfriend n. kærasta, unnusta; vinkona
 guestbook n. gestabók
 holocaust n. helför; [the Holocaust] helförin, þ.e. tortíming Gyðinga í seinni heimsstyrjöld
 masturbate s. fróa sér, runka sér
-masturbation n. sjálfsfróun, runk
 masturbatory l. sjálsfróandi, sjálfsrunkandi
 microphone n. hljóðnemi
 mic n. hljóðnemi (stytting á [microphone])
@@ -132,7 +131,7 @@ teleology n. markhyggja (sú kenning að endanleg útskýring á orsökum fyrirb
 teleological l. markhyggjulegur, markhyggju- (sjá [teleology])
 biosphere n. lífhvolf, lífríki
 fjord n. fjörður (sjá einnig [fiord])
-global warming n. jarðhlýnun, hlýnun jarðar
+global warming n. hnattræn hlýnun, hlýnun jarðar, jarðhlýnun
 fighter jet n. orustuþota, herþota
 jeep n. jeppi, torfærubifreið
 megacorporation n. risafyrirtæki, stórfyrirtæki
@@ -171,7 +170,7 @@ semester n. önn; hluti skólaárs
 antibody n. mótefni
 brochure n. bæklingur
 respected l. virtur
-python n. pýtonslanga (ættkvísl óeitraðra slangna sem fyrirfinnst í Afríku og í Asíu)
+python n. pýtonslanga (ættkvísl óeitraðra slangna sem finnst í Afríku og í Asíu)
 publicly ao. opinberlega
 groundwater n. grunnvatn
 earring n. eyrnalokkur
@@ -819,9 +818,10 @@ ziggurat n. musteristurn, musterispíramídi, stallapíramídi
 Zion n. Síon (hæð í borginni Jerúsalem í Palestínu)
 Zionism n. síonismi (sú stefna að stofna sjálfstætt ríki gyðinga í Palestínu)
 Zionist n. síonisti (sá sem aðhyllist síónisma, sjá [Zionism]); l. síonista-
-zeta n. stafur í gríska stafrófinu (Ζ eða ζ)
+zeta n. sjötti stafurinn í gríska stafrófinu (Ζ eða ζ)
 zeppelin n. loftfar, loftskip
 Zeus n. Seifur, æðsti guðinn í forn-grískri goðafræði
 zero gravity n. þyngdarleysi (t.d. í geimskipi eða geimstöð)
 amplifier n. magnari
 amp n. magnari (stytt. á [amplifier])
+erotica n. kynæsandi bækur, list eða myndefni
