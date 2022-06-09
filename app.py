@@ -30,7 +30,9 @@
     ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
     POSSIBILITY OF SUCH DAMAGE.
 
-    Main web application
+
+    FastAPI web application
+
 
 """
 
@@ -48,7 +50,7 @@ from fastapi_cache.decorator import cache
 
 from db import EnskDatabase
 from util import read_wordlist, read_pages
-
+from cache import cache_response
 
 # Website settings
 WEBSITE_NAME = "Ensk.is"
@@ -70,10 +72,10 @@ e = EnskDatabase()
 # Read all dictionary entries into memory
 res = e.read_all_entries()
 num_entries = len(res)
-words = frozenset([r["word"] for r in res])
+all_words = frozenset([r["word"] for r in res])
 
 # Read master English word list into memory
-enwords = read_wordlist("data/wordlists/words.txt")
+# enwords = read_wordlist("data/wordlists/words.txt")
 
 
 def _err(msg: str) -> JSONResponse:
@@ -93,7 +95,9 @@ def _results(q: str, exact_match: bool = False) -> Tuple[List, bool]:
     ql = q.lower()
     for k in res:
         kl = k["word"].lower()
-        if (exact_match and ql == kl) or (not exact_match and ql in k["word"].lower()):
+        if (exact_match and ql == kl) or (
+            not exact_match and ql.lower() in k["word"].lower()
+        ):
             w = k["word"]
             x = k["definition"]
             p = k["page_num"]
@@ -104,7 +108,7 @@ def _results(q: str, exact_match: bool = False) -> Tuple[List, bool]:
             x = x.replace("~", w)
             # Fix filename f. audio file
             wfnfixed = w.replace(" ", "_")
-            audio_url = f"/static/audio/dict/uk/{wfnfixed}.mp3"
+            audio_url_uk = f"/static/audio/dict/uk/{wfnfixed}.mp3"
             audio_url_us = f"/static/audio/dict/us/{wfnfixed}.mp3"
             ipa_uk = k.get("ipa_uk") or ""
             ipa_us = k.get("ipa_us") or ""
@@ -115,14 +119,16 @@ def _results(q: str, exact_match: bool = False) -> Tuple[List, bool]:
                 "i": ipa_uk,
                 "i2": ipa_us,
                 "p": p,
-                "a": audio_url,
+                "a": audio_url_uk,
                 "a2": audio_url_us,
             }
-            if w == q:
+            lw = w.lower()
+            lq = q.lower()
+            if lw == lq:
                 equal.append(item)
-            elif w.startswith(q):
+            elif lw.startswith(lq):
                 swith.append(item)
-            elif w.endswith(q):
+            elif lw.endswith(lq):
                 ewith.append(item)
             else:
                 other.append(item)
@@ -136,28 +142,11 @@ def _results(q: str, exact_match: bool = False) -> Tuple[List, bool]:
 
     results = [*equal, *swith, *ewith, *other]
 
-    # def sortfn(a):
-    #     wl = a["w"].lower()
-    #     if wl == ql:
-    #         return 0
-    #     if wl.startswith(ql):
-    #         return 1
-    #     if wl.endswith(ql):
-    #         return 2
-    #     return 999
-
-    # results.sort(key=sortfn)
-
     return results, exact_match_found
 
 
-# @app.on_event("startup")
-# async def startup():
-#     client = Client(("pymemcached", 11211))
-#     FastAPICache.init(MemcachedBackend(client), prefix="fastapi-cache")
-
-
 @app.get("/")
+@cache_response
 async def index(request: Request):
     """/ main page"""
     return TemplateResponse(
@@ -174,8 +163,6 @@ async def search(request: Request, q: str):
     """Return page with search results for query."""
     q = q.strip()
     results, exact = _results(q)
-
-    # if q in enwords:
 
     return TemplateResponse(
         "result.html",
@@ -207,54 +194,10 @@ async def item(request: Request, w):
     )
 
 
-@app.get("/files")
-async def files(request: Request):
-    """Page containing download links to data files."""
-    return TemplateResponse(
-        "files.html", {"request": request, "title": f"Gögn - {WEBSITE_NAME}"}
-    )
-
-
-@app.get("/about")
-async def about(request: Request):
-    """About page."""
-    single = str(num_entries).endswith("1") and not str(num_entries).endswith("11")
-    return TemplateResponse(
-        "about.html",
-        {
-            "request": request,
-            "title": f"Um - {WEBSITE_NAME}",
-            "num_entries": num_entries,
-            "singular": single,
-        },
-    )
-
-
-@app.get("/all")
-# @cache(expire=86400)
-async def all(request: Request):
-    """Page with links to all entries."""
-    return TemplateResponse(
-        "all.html",
-        {"request": request, "title": f"Öll orðin - {WEBSITE_NAME}", "results": res},
-    )
-
-
-@app.get("/additions")
-# @cache(expire=86400)
-async def additions(request: Request):
-    """Page with links to all words that are additions to the original dictionary."""
-    add = read_pages(fn="add.txt")
-
-    return TemplateResponse(
-        "additions.html",
-        {"request": request, "title": f"Viðbætur - {WEBSITE_NAME}", "results": res},
-    )
-
-
 @app.get("/page/{n}")
+@cache_response
 async def page(request: Request, n):
-    """Return page for a single dictionary word definition."""
+    """Return page for a single dictionary page image."""
     n = int(n)
     if n < 1 or n > 707:
         raise HTTPException(status_code=404, detail="Blaðsíða fannst ekki")
@@ -272,7 +215,55 @@ async def page(request: Request, n):
     )
 
 
+@app.get("/files")
+@cache_response
+async def files(request: Request):
+    """Page containing download links to data files."""
+    return TemplateResponse(
+        "files.html", {"request": request, "title": f"Gögn - {WEBSITE_NAME}"}
+    )
+
+
+@app.get("/about")
+@cache_response
+async def about(request: Request):
+    """About page."""
+    single = str(num_entries).endswith("1") and not str(num_entries).endswith("11")
+    return TemplateResponse(
+        "about.html",
+        {
+            "request": request,
+            "title": f"Um - {WEBSITE_NAME}",
+            "num_entries": num_entries,
+            "singular": single,
+        },
+    )
+
+
+@app.get("/all")
+@cache_response
+async def all(request: Request):
+    """Page with links to all entries."""
+    return TemplateResponse(
+        "all.html",
+        {"request": request, "title": f"Öll orðin - {WEBSITE_NAME}", "results": res},
+    )
+
+
+@app.get("/additions")
+@cache_response
+async def additions(request: Request):
+    """Page with links to all words that are additions to the original dictionary."""
+    add = read_pages(fn="add.txt")
+
+    return TemplateResponse(
+        "additions.html",
+        {"request": request, "title": f"Viðbætur - {WEBSITE_NAME}", "results": res},
+    )
+
+
 @app.get("/zoega")
+@cache_response
 async def zoega(request: Request):
     """Page with details about the Zoega dictionary."""
     return TemplateResponse(
@@ -282,11 +273,33 @@ async def zoega(request: Request):
 
 
 @app.get("/apidoc")
+@cache_response
 async def apidoc(request: Request):
     """Page with API documentation."""
     return TemplateResponse(
         "apidoc.html", {"request": request, "title": f"Forritaskil - {WEBSITE_NAME}"}
     )
+
+
+@app.get("/sitemap.xml")
+@cache_response
+async def sitemap(request: Request) -> Response:
+    """Sitemap generated on-demand."""
+    return TemplateResponse(
+        "sitemap.xml",
+        {"request": request, "words": all_words},
+        media_type="application/xml",
+    )
+
+
+@app.get("/robots.txt")
+@cache_response
+async def robots(request: Request) -> Response:
+    """Robots.txt generated on-demand."""
+    return TemplateResponse("robots.txt", {"request": request}, media_type="text/plain")
+
+
+# API endpoints
 
 
 @app.get("/api/suggest/{q}")
@@ -304,17 +317,12 @@ async def api_search(request: Request, q) -> JSONResponse:
     return JSONResponse(content={"results": results})
 
 
-@app.get("/sitemap.xml")
-async def sitemap(request: Request) -> Response:
-    """Sitemap generated on-demand."""
-    return TemplateResponse(
-        "sitemap.xml",
-        {"request": request, "words": words},
-        media_type="application/xml",
-    )
+@app.get("/api/item/{w}")
+async def api_item(request: Request, w) -> JSONResponse:
+    """Return single dictionary entry in JSON format."""
+    ws = w.strip()
+    results, exact = _results(ws, exact_match=True)
+    if not results or not exact:
+        return _err(f"No entry found for '{ws}'")
 
-
-@app.get("/robots.txt")
-async def robots(request: Request) -> Response:
-    """Robots.txt generated on-demand."""
-    return TemplateResponse("robots.txt", {"request": request}, media_type="text/plain")
+    return JSONResponse(content=results[0])

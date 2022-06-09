@@ -119,4 +119,14 @@ class EnskDatabase(object):
         """Read and return all entries."""
         conn = self.conn()
         sql = conn.cursor().execute("SELECT * FROM dictionary")
-        return list(sql)  # Consume generator into list
+        res = list(sql)  # Consume generator into list
+        res.sort(key=lambda x: x["word"].lower())
+        return res
+
+    def read_all_additions(self) -> List[Dict]:
+        """Read and return all entries not present in the original Zoega dictionary."""
+        conn = self.conn()
+        sql = conn.cursor().execute("SELECT * FROM dictionary WHERE page_num=0")
+        res = list(sql)  # Consume generator into list
+        res.sort(key=lambda x: x["word"].lower())
+        return res

@@ -4,7 +4,7 @@ import subprocess
 
 from db import EnskDatabase
 
-entries = EnskDatabase().read_all_entries()
+entries = EnskDatabase().read_all_additions()
 
 no_ipa = [e["word"] for e in entries if e["ipa_uk"] == ""]
 

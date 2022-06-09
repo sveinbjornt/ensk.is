@@ -31,26 +31,36 @@
     ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
     POSSIBILITY OF SUCH DAMAGE.
 
+
+    Caching functionality.
+
+
 """
 
-
-from db import EnskDatabase
-from pprint import pprint
-from util import read_wordlist
-
-# Initialize database singleton
-e = EnskDatabase()
-
-# Read all dictionary entries into memory
-res = e.read_all_entries()
-
-dict_words = [e["word"].lower() for e in res]
+from functools import wraps
 
 
-top10k = read_wordlist("data/wordlists/google-10000-english.txt")
+def cache_response(func):
+    """
+    Decorator that caches the response of a FastAPI async function.
 
-for t in top10k:
-    if t.lower() not in dict_words:
-        if not t.endswith("s"):
-            #     if t[:-1] not in dict_words:
-            print(t)
+    Example:
+    ```
+        app = FastAPI()
+
+        @app.get("/")
+        @cache_response
+        async def example():
+            return {"message": "Hello World"}
+    ```
+    """
+    response = None
+
+    @wraps(func)
+    async def wrapper(*args, **kwargs):
+        nonlocal response
+        if not response:
+            response = await func(*args, **kwargs)
+        return response
+
+    return wrapper

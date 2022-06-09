@@ -31,6 +31,10 @@
     ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
     POSSIBILITY OF SUCH DAMAGE.
 
+
+    Various utility functions.
+
+
 """
 
 
@@ -107,7 +111,7 @@ def read_pages(fn: Optional[str] = None) -> List[str]:
             if not lns or lns.startswith("#"):
                 continue
             result.append(ln)
-
+    result.sort(key=lambda x: x.lower())
     return result
 
 
@@ -118,6 +122,7 @@ def read_all_words() -> List[str]:
     for line in r:
         w, d = parse_line(line)
         words.append(w)
+    words.sort(key=lambda x: x.lower())
     return words
 
 

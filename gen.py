@@ -31,7 +31,9 @@
     ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
     POSSIBILITY OF SUCH DAMAGE.
 
-    Generate SQLite database from alphabetic dictionary text files
+
+    Generate SQLite database + other files from alphabetic dictionary text files
+
 
 """
 
@@ -99,7 +101,7 @@ def read_all_entries() -> EntryList:
         pn = page_for_word(w)
         entries.append(tuple([w, definition, ipa_uk, ipa_us, pn]))
 
-    entries.sort(key=lambda d: d[0])  # Sort alphabetically by word
+    entries.sort(key=lambda d: d[0].lower())  # Sort alphabetically by word
 
     return entries
 

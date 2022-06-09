@@ -31,6 +31,10 @@
     ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
     POSSIBILITY OF SUCH DAMAGE.
 
+
+    Functionality related to generating audio files from words.
+
+
 """
 
 from typing import Optional
