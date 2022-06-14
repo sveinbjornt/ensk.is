@@ -2,13 +2,13 @@ rabbet s. grópa, fella (plægja) saman; plægja (borð); n. gróp; nót
 rabbet plane n. gróphefill
 rabbi n. meistari, lögvitringur (hjá Gyðingum)
 rabbin n. meistari, lögvitringur (hjá Gyðingum)
-rabbit (rábbit) n. kanína
-rabble (ráb'l) n. rusl; skríll; s. gera (e-m) aðsúg
-rabid (rábbid) l. æðisgenginn, óður (um hunda)
+rabbit n. kanína
+rabble n. rusl; skríll; s. gera (e-m) aðsúg
+rabid l. æðisgenginn, óður (um hunda)
 rabidness n. æði
-rabies (reibiíz) n. hundaæði
-raccoon (rakún') n. þvottabjörn
-race (reis) n. kyn, ætt ([of noble ~]); kynflokkur ([the Mongolian ~, the human ~]); hröð ferð, skeið; kapphlaup ([foot~]); kappreið ([horse~]); kappróður, kappsigling ([boat-~]); stríður straumur, röst (í sjó); [run a ~] þreyta kapphlaup, reyna sig á hlaupi; [my ~ is run] æviskeið mitt er runnið
+rabies n. hundaæði
+raccoon n. þvottabjörn
+race n. kyn, ætt ([of noble ~]); kynflokkur ([the Mongolian ~, the human ~]); hröð ferð, skeið; kapphlaup ([foot~]); kappreið ([horse~]); kappróður, kappsigling ([boat-~]); stríður straumur, röst (í sjó); [run a ~] þreyta kapphlaup, reyna sig á hlaupi; [my ~ is run] æviskeið mitt er runnið
 race s. þreyta kapphlaup (kappreið, kappróður), reyna sig á hlaupi (á reið, róðri eða siglingu); reyna (hest) á hlaupi
 race boat n. kappróðrarbátur, kappsiglingabátur
 racecourse n. skeiðvöllur
@@ -17,18 +17,18 @@ racehorse n. kappreiðarhestur
 race meeting n. kappreiðar
 racer n. kapphlaupamaður, kappreiðarmaður; kappreiðarhestur
 rachitis n. sjá [rickets]
-racial (reishal) l. kynflokka-, þjóðkynja- ([~ difference, ~ distinction, ~ hatred])
-raciness (reisi-) n. kraftur, fjör
-rack (rákk) n. píslarbekkur, kvalatól, píslartól; píning, kvöl
+racial l. kynflokka-, þjóðkynja- ([~ difference, ~ distinction, ~ hatred])
+raciness n. kraftur, fjör
+rack n. píslarbekkur, kvalatól, píslartól; píning, kvöl
 rack s. þenja, teygja út; pína, kvelja (á píslartóli); hreinsa, skíra (vín); [~ one's brains] brjóta heilann (um); [~ the rent] færa upp leiguna fram úr hófi, okra á leigunni
 rack n. (diska)grind; snagafjöl til að hengja föt á; fóðurgrind fyrir skepnur; [live at ~ and manger] lifa í allsnægtum
 rack n. skýjarek, skýjafar, skýjaferð ([~ of clouds]); s. reka, líða yfir ([over, across] um ský); [go to ~ (and ruin)] fara í hundana
-racket (rákkit) n. knattnet; ft. e.k. knattleikur; skarkali, hávaði; snjóþrúga; s. gera hávaða; lifa gjálífi
+racket n. knattnet; ft. e.k. knattleikur; skarkali, hávaði; snjóþrúga; s. gera hávaða; lifa gjálífi
 rackety l. hávær; óróasamur
 rack-rent n. okurleiga (af jörð)
 racy l. bragðmikill, sterkur (um vín); kjarnmikill; fjörlegur
-raddle (rad'l) s. flétta saman; mála með rauðkrít; n. fléttugirðing; rauðkrít
-radial (reidial) l. sem gengur út frá miðdepli eins og geislar í hring eða spælar (rif) í hjóli; geisla-
+raddle s. flétta saman; mála með rauðkrít; n. fléttugirðing; rauðkrít
+radial l. sem gengur út frá miðdepli eins og geislar í hring eða spælar (rif) í hjóli; geisla-
 radiance n. ljómi
 radiant l. ljómandi, skínandi
 radiata n. ft. geisladýr
@@ -40,16 +40,16 @@ radically ao. frá rótum, algjörlega; upprunalega
 radish n. radísa, hreðka (næputegund)
 radium n. radíum (frumefni)
 radius n. radíus (í hring); hjólspæll
-raff (á) n. skríll; dóni
+raff n. skríll; dóni
 raffish l. ruddalegur, dónalegur; ósiðvandur
 raffle s. kasta (teningum um [for]); farga e-u með því að kasta um það; n. e.k. happdrætti, teningsspil; rusl
-raft (ráft) n. timburfloti; fleki; s. flytja (við) í flota eða flotum
-rafter (ráftar) n. raftur, sperra; s. refta, setja sperrur á
-raftsman (ráfts-) n. flotamaður
-rag (rágg) n. tuska, drusla; dula, rýja; snefill ([not a ~ of evidence]); ft. garmar, tötrar; [boiled to ~s] mauksoðinn; s. ávíta harðlega, setja ofan í við e-n; hrjá
-ragamuffin (rággampffin) n. úrþvætti, ræfill, afhrak; l. ræfilslegur
-rage (reidzh) n. æði, ofsi ([the ~ of the wind]); ofstopi; s. æða, hamast, vera bálreiður ([~ at, against]); geisa ([the plague ~s])
-ragged (rággid) l. tötralegur, garmalegur, rifinn og tættur; ósléttur, hrufóttur; gallaður, ófullkominn; [~ school] fátækraskóli
+raft n. timburfloti; fleki; s. flytja (við) í flota eða flotum
+rafter n. raftur, sperra; s. refta, setja sperrur á
+raftsman n. flotamaður
+rag n. tuska, drusla; dula, rýja; snefill ([not a ~ of evidence]); ft. garmar, tötrar; [boiled to ~s] mauksoðinn; s. ávíta harðlega, setja ofan í við e-n; hrjá
+ragamuffin n. úrþvætti, ræfill, afhrak; l. ræfilslegur
+rage n. æði, ofsi ([the ~ of the wind]); ofstopi; s. æða, hamast, vera bálreiður ([~ at, against]); geisa ([the plague ~s])
+ragged l. tötralegur, garmalegur, rifinn og tættur; ósléttur, hrufóttur; gallaður, ófullkominn; [~ school] fátækraskóli
 raging l. æðandi, hamslaus, ær, óður, uppvægur
 ragout n. ragú (kjötréttur)
 raid n. innrás (óvina); ránferð; s. fara ránferð, ræna
@@ -100,7 +100,7 @@ rancour n. óvildarhugur, kali, hatur ([a private ~])
 random n. tilviljun, hending; l. sem verður af handahófi; [a ~ shot (question)] skot (spurning) út í bláinn; [at ~] af handahófi, út í bláinn ([to speak at ~])
 range s. raða niður; flokka; hleypa út (akkerisfesti); fara um eða yfir; sigla fram með, þræða (ströndina); reika (um eða yfir); hvarfla; draga (um skotvopn); liggja í e-a stefnu ([islands ranging north]); vera jafn e-m ([with]) að tign; [~ along the coast] sigla fram með ströndinni; [the price ~d from eight pence to ten shillings] verðið var frá átta pence til tíu shillings
 range n. röð; eldavél; svæði, svið; reik; leyfi til að reika um ([the ewes have ~ over the stubbles]); skotlengd; beitarland; stefna ([~ of the hills]); [~ of mountains] fjallgarður; [out of (beyond) ~] fyrir utan skotmál
-ranger (reindzhar) n. flakkari, sporhundur; skógarvörður; ft. riddaraflokkur ([mounted ~s])
+ranger n. flakkari, sporhundur; skógarvörður; ft. riddaraflokkur ([mounted ~s])
 rank n. röð; þverröð fylkingar; lögtign, mannvirðing; stétt ([men of all ~s]); [take ~ of] vera æðri að tign, vera (e-m) fremri; [men of high ~] stórtignir menn; [reduce to the ~s] færa niður í tölu óbreyttra liðsmanna
 rank s. raða, flokka, skipa í flokk; ganga í röð; vera (í flokki); [~ first (foremost) among] vera fremstur á meðal; [he ~s high in public estimation] hann er í miklum metum af almenningi; [~ next to the king in birth and distinction] ganga næstur konungi að fæðingu og metorðum
 rank l. frjór; ákafur, rammur ([a ~ republican]); sem ofvöxtur er í ([~ grass]); ofsalegur, afskaplegur, ofsa- ([it blows a ~ storm]); of sterkur (um þef); illur, óheilnæmur ([~ climate]); þrár (á bragð)
@@ -130,7 +130,7 @@ rapture n. ofsakæti, unun, fögnuður; leiðsla
 rapturous l. ofsalegur (um gleði)
 rare l. sjaldgæfur, fágætur, fátíður; strjáll; þunnur (um loft)
 rarely ao. sjaldan; óvenjulega; ágætlega
-rarefaction (rérifák'shan) n. þynning (loftsins)
+rarefaction n. þynning (loftsins)
 rarefy s. þynna; þynnast
 rareness n. þunnleiki; sjaldgæti
 rarity n. fágætur hlutur; fágæti; strjálleiki; [be of the greatest ~] vera mjög fátíður eða fágætur
@@ -156,7 +156,7 @@ rateable l. hlutfallslegur; skattskyldur ([~ property])
 rateably ao. hlutfallslega
 rate s. skamma, ávíta harðlega; sneypa ([~ at one])
 rathe l. bráðþroskaður, snemmgróinn
-rather (ráðor) ao. fremur, heldur; [the ~ that] því fremur sem; [or ~] eða öllu heldur; [I had (I would) ~ do it] ég vildi heldur gera það
+rather ao. fremur, heldur; [the ~ that] því fremur sem; [or ~] eða öllu heldur; [I had (I would) ~ do it] ég vildi heldur gera það
 ratification n. staðfesting
 ratify s. staðfesta, samþykkja ([~ a compact])
 ratio n. hlutfall
@@ -178,22 +178,22 @@ rattlebrained l. gálaus; málugur; flumúsa
 rattleheaded l. gálaus; málugur; flumúsa
 rattlesnake n. skellinaðra
 rattletrap n. skrapatól, vagnskrifli; ft. glingur
-rattling (rátliN) n. skrölt; hrygla ([~ in the throat]); l. skröltandi, hringlandi; málskapsmikill; hraður, skjótur ([off we went at a ~ pace]); ao. [~ good] afbragðsgóður
-raucity (rösiti) n. hæsi, ræma
-raucous (rökas) l. hás, rámur
-ravage (rávvidzh) n. eyðing, herjun; hervirki; s. herja (á), eyða; ræna
-rave (reiv) s. tala óráð, hafa höfuðóra; æða, geisa (um sjó og veður); [~ on (about)] guma af e-u
-ravel (rávval) s. rekja upp; flækja; rakna upp, trosna ([~ out]); n. flækja
-ravelling (rávliN) n. úrrak
-raven (reiv'n) n. hrafn
-raven (ráv'n) s. ræna, leita að herfangi
+rattling n. skrölt; hrygla ([~ in the throat]); l. skröltandi, hringlandi; málskapsmikill; hraður, skjótur ([off we went at a ~ pace]); ao. [~ good] afbragðsgóður
+raucity n. hæsi, ræma
+raucous l. hás, rámur
+ravage n. eyðing, herjun; hervirki; s. herja (á), eyða; ræna
+rave s. tala óráð, hafa höfuðóra; æða, geisa (um sjó og veður); [~ on (about)] guma af e-u
+ravel s. rekja upp; flækja; rakna upp, trosna ([~ out]); n. flækja
+ravelling n. úrrak
+raven n. hrafn
+raven s. ræna, leita að herfangi
 ravenous l. rángjarn; gráðugur (í e-ð [of])
 ravenousness n. græðgi
 ravine n. gil; s. grafa niður gil
 ravish s. ræna; nema burtu með valdi; gagntaka, hrifa; nauðga
 ravisher n. ræningi, ránsmaður; nauðgari
 ravishment n. burtnám; hrifning; nauðgun
-raw (rö) l. hrár, ósoðinn; óunninn ([~ silk]); óverkaður ([~ hides]); óæfður, óreyndur ([~ troops, recruits]); óblandaður; hráslagalegur; skinnlaus, húðlaus; n. fleiður; [touch one on the ~] koma við kaun e-s; s. nudda hörundið af, fleiðra
+raw l. hrár, ósoðinn; óunninn ([~ silk]); óverkaður ([~ hides]); óæfður, óreyndur ([~ troops, recruits]); óblandaður; hráslagalegur; skinnlaus, húðlaus; n. fleiður; [touch one on the ~] koma við kaun e-s; s. nudda hörundið af, fleiðra
 rawboned l. grindhoraður
 rawness n. hrái, hráleiki; reynsluskortur, vankunnátta; hráslagi ([~ of the air])
 ray n. geisli; [not a ~ of hope] enginn vonarneisti; s. geisla, skína
@@ -255,96 +255,96 @@ rearguard n. afturliðsvörður
 rearmost l. aftastur
 rearward l. aftur- ([~ movement]); ao. aftur á bak ([move ~])
 rear s. hefja, lyfta; reisa ([~ the mast]); ala upp, koma upp (búpeningi); rækta ([~ plants, grain]); prjóna (um hest); gnæfa, mæna (upp up); n. [child-rearing] uppeldi
-rearmouse (rírmás) n. leðurblaka
-reascend (riasend') s. stíga aftur upp (á)
+rearmouse n. leðurblaka
+reascend s. stíga aftur upp (á)
 reascent n. enduruppganga
-reason (ríz'n) n. skynsemi; skynsemd; ástæða ([there is no ~ to suppose]); orsök; rök; sanngirni, sannsýni; vit ([there is ~ in what you say]); [give as a ~] bera fyrir sig; [he lost all ~] hann gekk af vitinu; [bring to ~] koma vitinu fyrir e-n; [speak ~] mæla af viti; [listen to ~] taka skynsamlegum rökum, láta sér segjast; [it stands to ~] það er skynsamlegt; [there is ~ in all things, there is ~ even in roasting an egg] hóf er á hverju best; [by ~ of] sökum, vegna; [by ~ that] af því að; [for some ~ (or other)] einhverra hluta vegna; [in ~] með sanngirni; [with ~] með réttu; [where prices are within ~] þar sem verðið er sannsýnilegt
+reason n. skynsemi; skynsemd; ástæða ([there is no ~ to suppose]); orsök; rök; sanngirni, sannsýni; vit ([there is ~ in what you say]); [give as a ~] bera fyrir sig; [he lost all ~] hann gekk af vitinu; [bring to ~] koma vitinu fyrir e-n; [speak ~] mæla af viti; [listen to ~] taka skynsamlegum rökum, láta sér segjast; [it stands to ~] það er skynsamlegt; [there is ~ in all things, there is ~ even in roasting an egg] hóf er á hverju best; [by ~ of] sökum, vegna; [by ~ that] af því að; [for some ~ (or other)] einhverra hluta vegna; [in ~] með sanngirni; [with ~] með réttu; [where prices are within ~] þar sem verðið er sannsýnilegt
 reason s. hugsa (skynsamlega); álykta; rökræða, ræða; [he is not to be ~ed with] það er ekki hægt að sannfæra hann (með rökum); [~ down a passion] sigra ástríður með skynsamlegum rökum; [~ him into (out of) a belief] fá hann til (ofan af því) að trúa
-reasonable (rízan-ab'l) l. skynsamur, skynsamlegur; sanngjarn, sannsýnn; sannsýnilegur
+reasonable l. skynsamur, skynsamlegur; sanngjarn, sannsýnn; sannsýnilegur
 reasonably ao. með sanngirni, með sannsýni; með rökum; hæfilega, sæmilega ([~ great])
 reasonableness n. sanngirni, sannsýni
 reasoner n. hugsunarfræðingur, rökfræðingur
 reasoning n. hugsun; skynsemisályktun; röksemdaleiðsla; [enter into a ~ on a subject] fara að rökræða e-t efni
 reasonless l. óskynsamlegur; skynlaus ([a ~ beast])
-reassemble (ríasem'b'l) s. safna saman aftur; safnast (koma) saman aftur ([they would ~ in London])
-reassert (riasört') s. staðhæfa aftur
-reassume (ríasjúm') s. taka upp aftur; taka aftur að sér
-reassumption (-spm'shan) n. endurtaka
-reassurance (ríasjú'rans) n. endurtrygging; ný fullvissan
-reassure (ríashjúr') s. endurtryggja; fullvissa aftur ([~ oneself of])
-reave (riv) s. ræna, svipta; kljúfa ([the rock was reft asunder])
-rebaptize (ríbáptæz') s. skíra upp aftur; gefa e-m nýtt nafn
-rebate (ribeit') s. sljóvga; minnka; slá af verði; draga úr e-u; grópa; n. afsláttur
-rebel (rebbal) n. uppreisnarmaður; l. uppreisnargjarn; uppreisnar- ([~ chief, army]); mótþróafullur; s. gera uppreisn; rísa upp á móti eða í gegn e-u ([against])
-rebellion (ribel'jan) n. uppreisn, uppreisn ([a ~ broke out])
-rebellious (ri-bel'jos) l. uppreisnargjarn, mótþróafullur; þrálátur ([a ~ disease])
-reborn (ríbðrn) l. endurborinn, endurfæddur
-rebound (ribánd') s. hrökkva af; kastast aftur; bergmála; [~ upon] lenda aftur á e-m; n. afturkast, endurkast
-rebuff (rib0ff') s. hrinda aftur; reka aftur, gera e-n afturreka; n. afturkast; synjun, afsvar; hindrun
-rebuild (ríbild') s. byggja (smíða) upp aftur; reisa við aftur
-rebuke (ribjúk') s. ávíta, finna að við, setja ofan í við; n. ávítur; ofanígjöf
+reassemble s. safna saman aftur; safnast (koma) saman aftur ([they would ~ in London])
+reassert s. staðhæfa aftur
+reassume s. taka upp aftur; taka aftur að sér
+reassumption n. endurtaka
+reassurance n. endurtrygging; ný fullvissan
+reassure s. endurtryggja; fullvissa aftur ([~ oneself of])
+reave s. ræna, svipta; kljúfa ([the rock was reft asunder])
+rebaptize s. skíra upp aftur; gefa e-m nýtt nafn
+rebate s. sljóvga; minnka; slá af verði; draga úr e-u; grópa; n. afsláttur
+rebel n. uppreisnarmaður; l. uppreisnargjarn; uppreisnar- ([~ chief, army]); mótþróafullur; s. gera uppreisn; rísa upp á móti eða í gegn e-u ([against])
+rebellion n. uppreisn, uppreisn ([a ~ broke out])
+rebellious l. uppreisnargjarn, mótþróafullur; þrálátur ([a ~ disease])
+reborn l. endurborinn, endurfæddur
+rebound s. hrökkva af; kastast aftur; bergmála; [~ upon] lenda aftur á e-m; n. afturkast, endurkast
+rebuff s. hrinda aftur; reka aftur, gera e-n afturreka; n. afturkast; synjun, afsvar; hindrun
+rebuild s. byggja (smíða) upp aftur; reisa við aftur
+rebuke s. ávíta, finna að við, setja ofan í við; n. ávítur; ofanígjöf
 rebukeful l. harður; aðfinnslusamur
-rebus (ríbas) n. gáta í myndum, myndgáta
-rebut (ríb0tt') s. hrinda (reka) aftur; hrekja ([~ a charge])
+rebus n. gáta í myndum, myndgáta
+rebut s. hrinda (reka) aftur; hrekja ([~ a charge])
 rebutment n. ósönnun, hrakning
 rebuttal n. ósönnun, hrakning
 recalcitrant l. mótþróafullur, þrjóskur
-recalcitrate (-treit) s. þrjóskast (á móti e-u [against, at]); spyrna fæti við e-u ([against, at])
-recalcitration (-trei'-shan) n. mótspyrna, þvermóðska
-recall (riköl') s. kalla aftur; endurkalla; ónýta; taka aftur (t.d. orð sín); minnast (e-s); vekja ([~ a feeling]); [~ to the mind] rifja upp fyrir sér, muna eftir e-u; n. afturköllun; afturtekning; ónýting (úrskurðar); [beyond/past ~] sem ekki verður aftur tekinn, óafturkallanlegur
-recant (rikant') s. taka aftur (orð sín)
+recalcitrate s. þrjóskast (á móti e-u [against, at]); spyrna fæti við e-u ([against, at])
+recalcitration n. mótspyrna, þvermóðska
+recall s. kalla aftur; endurkalla; ónýta; taka aftur (t.d. orð sín); minnast (e-s); vekja ([~ a feeling]); [~ to the mind] rifja upp fyrir sér, muna eftir e-u; n. afturköllun; afturtekning; ónýting (úrskurðar); [beyond/past ~] sem ekki verður aftur tekinn, óafturkallanlegur
+recant s. taka aftur (orð sín)
 recantation n. afturtekning, afturkall (orða sinna)
-recapitulate (rikapitt'júleit) s. taka upp aftur í stuttu máli, rifja upp, reifa (mál)
+recapitulate s. taka upp aftur í stuttu máli, rifja upp, reifa (mál)
 recapitulation n. stutt upptekning (höfuðatriða)
 recapitulatory l. endurtakandi
-recaption (ríkap'shon) n. endurtaka
+recaption n. endurtaka
 recaptor n. endurtökumaður
-recapture (rikap'tjor) s. vinna (ná) aftur; n. endurtaka
+recapture s. vinna (ná) aftur; n. endurtaka
 recast s. steypa (móta) upp aftur; reikna upp aftur; n. uppsteyping, uppsteypa; endursamning
 recede s. hörfa (þoka) undan; fjarlægjast; falla út ([the tide ~s]); e-u hnignar, fer aftur ([the nation will ~ from step to step]); [~ from] ganga frá e-u, hætta við; fara ofan af e-u, láta af e-u ([~ from an opinion])
-receipt (risít') n. móttaka; kvittunarseðill, kvittun; lyfseðill, læknisávísun; tekjur, inngreiðsla; [~ in full] aðal- eða allsherjarkvittun; s. kvitta, gefa móttökuvottorð (fyrir)
+receipt n. móttaka; kvittunarseðill, kvittun; lyfseðill, læknisávísun; tekjur, inngreiðsla; [~ in full] aðal- eða allsherjarkvittun; s. kvitta, gefa móttökuvottorð (fyrir)
 receipt book n. kvittanabók; matreiðslubók
-receivable (risí'vob'l) l. móttækilegur; gildur ([~ witness]); gjaldgengur ([~ in payment for taxes])
-receive (risív') s. taka á móti; meðtaka, fá ([~ a letter]); taka við, veita e-u viðtöku; verða fyrir (e-u), biða (t.d. tjón); [~ company] taka á móti gestum; [universally ~d] almennt viðurkenndur, algildur
+receivable l. móttækilegur; gildur ([~ witness]); gjaldgengur ([~ in payment for taxes])
+receive s. taka á móti; meðtaka, fá ([~ a letter]); taka við, veita e-u viðtöku; verða fyrir (e-u), biða (t.d. tjón); [~ company] taka á móti gestum; [universally ~d] almennt viðurkenndur, algildur
 receiver n. móttakandi, móttökumaður; gjaldheimtumaður; hylmari ([~ of stolen goods]); ílát, ker, geymir
 receiver general n. aðalféhirðir, ríkisféhirðir
-recency (risonsi) n. nýleiki
+recency n. nýleiki
 recense s. endurskoða (texta)
-recension (risen'shon) n. endurskoðun (texta); textaútgáfa; upptalning
+recension n. endurskoðun (texta); textaútgáfa; upptalning
 recensionist n. endurskoðari texta
-recent (rísont) l. nýr, nýlegur; nýafstaðinn
+recent l. nýr, nýlegur; nýafstaðinn
 recently ao. nýlega, fyrir skömmu
 recentness n. nýleiki
-receptacle (risep'tak'l) n. ílát, hirsla; fylgsni
-reception (risep'-shan) n. móttaka; viðtaka; [the rooms were prepared for his ~] til að taka á móti honum; [his ~ was frigid] honum var tekið fálega; [the proposal had a favorable ~] uppástungunni var vel tekið
-receptive (risep'tiv) l. sem getur tekið á móti ([of]), móttækilegur
-receptivity (riseptivv'iti) n. móttækileiki
+receptacle n. ílát, hirsla; fylgsni
+reception n. móttaka; viðtaka; [the rooms were prepared for his ~] til að taka á móti honum; [his ~ was frigid] honum var tekið fálega; [the proposal had a favorable ~] uppástungunni var vel tekið
+receptive l. sem getur tekið á móti ([of]), móttækilegur
+receptivity n. móttækileiki
 receptor n. heyrnartól á talsíma
-recess (risess') n. burthvarf; starfshlé; þinghlé; skot (inn í vegg); afvik; afvikinn staður; afkimi; [Christmas ~ of a school] jólaleyfi; s. setja á afvikinn stað; gera hvilft í
-recession (risesh'an) n. fráhvarf, burtför, fjarlæging, hvarf
+recess n. burthvarf; starfshlé; þinghlé; skot (inn í vegg); afvik; afvikinn staður; afkimi; [Christmas ~ of a school] jólaleyfi; s. setja á afvikinn stað; gera hvilft í
+recession n. fráhvarf, burtför, fjarlæging, hvarf
 recessional l. [~ hymn] útgöngusálmur
-recharge (ritshár'dzh) s. kæra aftur; ráðast á aftur; hlaða (fylla) aftur
-recipe (ressipi) n. uppskrift; læknisávísun, lyfseðill
-recipient (risipp'iant) l. móttakandi; n. viðtökumaður, viðtakandi
-reciprocal (risipn'rökal) l. gagnskiptilegur, gagnkvæmur, jafn á báðar hliðar ([~ love])
+recharge s. kæra aftur; ráðast á aftur; hlaða (fylla) aftur
+recipe n. uppskrift; læknisávísun, lyfseðill
+recipient l. móttakandi; n. viðtökumaður, viðtakandi
+reciprocal l. gagnskiptilegur, gagnkvæmur, jafn á báðar hliðar ([~ love])
 reciprocally ao. aftur á móti; að sínu leyti; hins vegar; á víxl
-reciprocate (risipp'rökeit) s. skiptast á; svara ([~ a sentiment]); hreyfa (hreyfast) fram og aftur; veita (gefa) hvor öðrum
+reciprocate s. skiptast á; svara ([~ a sentiment]); hreyfa (hreyfast) fram og aftur; veita (gefa) hvor öðrum
 reciprocation n. hreyfing fram og aftur; skipti á gjöfum ([~ of presents]); svar, samsvörun
-reciprocity (-pross'iti) n. gagnskiptileiki
-recital (risæ'tal) n. upplestur; frásaga; skýrsla; hljóðfæraleikur einstaks manns
-recitation (resitei'shan) n. upplestur
-recite (risæt') s. lesa upp; segja frá; flytja (ræðu)
+reciprocity n. gagnskiptileiki
+recital n. upplestur; frásaga; skýrsla; hljóðfæraleikur einstaks manns
+recitation n. upplestur
+recite s. lesa upp; segja frá; flytja (ræðu)
 reciter n. upplesari
-reck (rekk) s. hirða um ([of, for]); [it ~s me not] ég læt mig það einu gilda
+reck s. hirða um ([of, for]); [it ~s me not] ég læt mig það einu gilda
 reckless l. hirðulaus (um e-ð [of]); andvaralaus; ófyrirleitinn
 recklessness n. hirðuleysi, andvaraleysi
-reckon (rekkan) s. reikna; telja ([I ~ him wise]); telja í e-m flokki, með e-u ([in, among]); ætla, hyggja; [~ on (upon)] reiða sig á, treysta; [~ up] reikna saman; [~ with] taka tillit til e-s, vera við e-u búinn
+reckon s. reikna; telja ([I ~ him wise]); telja í e-m flokki, með e-u ([in, among]); ætla, hyggja; [~ on (upon)] reiða sig á, treysta; [~ up] reikna saman; [~ with] taka tillit til e-s, vera við e-u búinn
 reckoner n. reikningsmaður
 reckoning n. reikningur; leiðaráætlun (á sjó); [be out of one's ~] misreikna sig; [leave out of one's ~] telja ekki með
-reclaim (rikleim') s. heimta aftur; snúa (e-m) til betra lífernis og afturhvarfs ([~ one from a life of vice]); endurbæta, lagfæra; temja (einkum fugla til veiða); yrkja, þurrka upp, skera fram (óræktað land); [~ against] mótmæla e-u
-reclamation (re-ldamei'shan) n. heimting, krafa; afturhvarf (syndugs manns); mótmæli; ræktun (þurrkun, framræsla) óræktaðs lands
-recline (riklæn') s. halla e-u aftur ([~ the head]); halla sér aftur á bak, liggja aftur á bak
-recluse (riklús') l. aðskilinn, fráskilinn; einmanalegur; einsetumanns- ([~ life]); n. einsetumaður
+reclaim s. heimta aftur; snúa (e-m) til betra lífernis og afturhvarfs ([~ one from a life of vice]); endurbæta, lagfæra; temja (einkum fugla til veiða); yrkja, þurrka upp, skera fram (óræktað land); [~ against] mótmæla e-u
+reclamation n. heimting, krafa; afturhvarf (syndugs manns); mótmæli; ræktun (þurrkun, framræsla) óræktaðs lands
+recline s. halla e-u aftur ([~ the head]); halla sér aftur á bak, liggja aftur á bak
+recluse l. aðskilinn, fráskilinn; einmanalegur; einsetumanns- ([~ life]); n. einsetumaður
 reclusion n. einvera
 recognition n. viðurkenning; endurþekking; [in ~ of] í viðurkenningarskyni fyrir e-ð; [~ service] innsetningarguðsþjónusta
 recognizable l. þekkjanlegur
@@ -434,7 +434,7 @@ recurvated l. beygður aftur á bak
 recurve s. beygja aftur á bak
 recusancy n. mótþrói; óhlýðni
 recusant l. þrjóskufullur, mótþróafullur, óhlýðinn; [~ spirit] þrjóskuandi
-red (redd) l. rauður ([~ as blood]); rjóður ([~ lips]); rauðhærður; n. rauður litur; roði; [~ herring] reykt síld
+red l. rauður ([~ as blood]); rjóður ([~ lips]); rauðhærður; n. rauður litur; roði; [~ herring] reykt síld
 red-bearded l. rauðskeggjaður
 redbreast n. rauðbrystingur (söngfugl)
 redcoat n. enskur hermaður (í rauðri treyju)
@@ -460,65 +460,65 @@ redeem s. kaupa aftur; fá aftur; leysa úr veði, leysa út; kaupa e-n lausan, 
 redeemable l. sem má kaupa út
 redeemer n. endurlausnari
 redeeming l. [without one ~ quality] án nokkurs góðs eiginleika
-redeliver (rídilivv'ar) s. skila aftur; láta aftur lausan
+redeliver s. skila aftur; láta aftur lausan
 redelivery n. afturskilun; endursending
-redemand (rídimánd') s. heimta (krefja) aftur; n. afturheimting
-redemption (ridem'shan) n. útlausn ([~ of captives]); endurlausn; endurreisn, viðreisn ([day of ~ for Italy]); afplánun, friðþæging; [past/without ~] sem ekki á sér viðreisnar von, sem ekki verður reistur við
+redemand s. heimta (krefja) aftur; n. afturheimting
+redemption n. útlausn ([~ of captives]); endurlausn; endurreisn, viðreisn ([day of ~ for Italy]); afplánun, friðþæging; [past/without ~] sem ekki á sér viðreisnar von, sem ekki verður reistur við
 redemptive l. útlausnar-; endurlausnar ([~ work])
 redescend s. stíga niður aftur
-redintegrate (-greit) s. koma (e-u) á aftur, endurnýja
-redintegration (-grei'shan) n. endurnýjun, endurreisn
+redintegrate s. koma (e-u) á aftur, endurnýja
+redintegration n. endurnýjun, endurreisn
 redness n. rauður litur, roði; [to heat to ~] hita (e-ð) eldrautt
-redolence (reddölans) n. ilmur
-redolent (reddölant) l. ilmandi
-redouble (ridþ'b'l) s. tvöfalda, margfalda; tvöfaldast, margfaldast
-redoubt (ridát') n. vígi; s. óttast e-n
+redolence n. ilmur
+redolent l. ilmandi
+redouble s. tvöfalda, margfalda; tvöfaldast, margfaldast
+redoubt n. vígi; s. óttast e-n
 redoubtable l. hræðilegur
 redound s. kastast (falla) aftur (á e-n); falla í skaut e-s, hlotnast e-m ([~ to/upon]); verða; [it ~s to his honour] honum er það til sóma; n. afturkast; bergmál
-redress (ridress') s. koma (e-u) aftur í lag; ráða bætur á, bæta úr e-u, bæta e-ð ([~ the wrong, injury, harm]); bæta (e-m e-ð) upp ([~ a person for something]); lækna ([~ a disease]); [he was ~ed for the loss of property] honum var bætt eignatjónið; n. bót, bætur; [beyond ~] óbætanlegur; [without ~] bótalaust
+redress s. koma (e-u) aftur í lag; ráða bætur á, bæta úr e-u, bæta e-ð ([~ the wrong, injury, harm]); bæta (e-m e-ð) upp ([~ a person for something]); lækna ([~ a disease]); [he was ~ed for the loss of property] honum var bætt eignatjónið; n. bót, bætur; [beyond ~] óbætanlegur; [without ~] bótalaust
 redskin n. rauðskinni (indjáni)
 red-tapism n. skriffinnska
 red-tapist n. skriffinnur
 reduce s. koma (e-u) í (e-t) ástand; færa aftur í samt lag; kippa í liðinn; breyta (í [to]); færa saman, færa niður, minnka ([~d copy of a picture]); mylja (jarðveg [soil]); rýra, draga úr; leggja undir sig; vinna, taka ([~ a town, fortress]); þröngva ([~ one to obedience]); veikla (líkamann); skipa niður (í flokka); heimfæra (undir reglur); [~ to submission] undiroka, bæla undir sig; [~ to ashes] brenna til ösku; [~ order] koma reglu á; [~ to reason] koma vitinu fyrir (e-n); [~ to writing] skrásetja; [~d circumstances] bágur efnahagur
 reducible l. sem koma má í (e-t) ástand
-reduction (ridþk'shan) n. breyting (í e-ð annað); niðurfærsla, minnkun; afsláttur, lækkun (í verði); hertekning ([~ of a town])
-reductive (ridþk'tiv) l. afturfærandi; minnkandi
-redundancy (ridþn'dansi) n. ofgnótt, gnægð
+reduction n. breyting (í e-ð annað); niðurfærsla, minnkun; afsláttur, lækkun (í verði); hertekning ([~ of a town])
+reductive l. afturfærandi; minnkandi
+redundancy n. ofgnótt, gnægð
 redundant l. sem er um of ([the employment of ~ capital]); yfrinn, kappnógur; ríkulegur; of margorður; [the pronoun is ~] fornafninu er ofaukið
-reduplicate (ridjúp'likeit) s. tvöfalda; endurtaka; l. tvöfaldur, endurtekinn
+reduplicate s. tvöfalda; endurtaka; l. tvöfaldur, endurtekinn
 reduplication n. tvöföldun; endurtekning
 redwing n. skógarþröstur
-re-echo (ríekk'ó) s. enduróma, bergmála; n. bergmál
+re-echo s. enduróma, bergmála; n. bergmál
 reed n. sef; reyr; hljóðpípa úr reyr; vefjarskeið
 reeded l. reyrgróinn, sefgróinn
 reeden l. gerður úr reyr ([~ pipes])
 reedy l. reyrgróinn, sefgróinn
-re-edify (ríedd'ifæ) s. endurreisa ([~ a house, city])
-reef (rif) n. rif (í segli) ([take in a ~]); s. rifa (segl); [double-reefed] tvírifaður
-reef (ríf) n. rif, klettarif, sandrif (í sjó)
+re-edify s. endurreisa ([~ a house, city])
+reef n. rif (í segli) ([take in a ~]); s. rifa (segl); [double-reefed] tvírifaður
+reef n. rif, klettarif, sandrif (í sjó)
 reefy l. klettóttur; rifóttur
-reek (rík) n. reykur; gufa; fýla; s. rjúka; gufa
+reek n. reykur; gufa; fýla; s. rjúka; gufa
 reeky l. rjúkandi; reykugur
 reel n. spóla, vinda; tvinnakefli; hesputré; ríll (skoskur dans); [off the ~] í einni rennu, runu ([he won five races off the ~]); s. vinda upp; hespa; [~ out] vinda ofan (af)
-reel (ríl) s. reika, skjögra, riða; [my brain ~ed] mig svimaði; n. rið
-re-elect (rí-ilekt') s. endurkjósa
-re-election (-lek'shan) n. endurkosning
+reel s. reika, skjögra, riða; [my brain ~ed] mig svimaði; n. rið
+re-elect s. endurkjósa
+re-election n. endurkosning
 re-embark s. stíga aftur á skip; flytja aftur á skip
 re-enforce s. styrkja; efla (að liði); [reinforced concrete] járnbent steinsteypa
 re-enforcement n. liðstyrking, nýr liðsafli; aukning, efling
 re-engage s. skuldbinda aftur; hefja aftur orustu; ráða sig aftur
 re-enlist s. ráða e-n aftur í herþjónustu; ráða sig aftur í herþjónustu
-re-enter (rí-en'tor) s. ganga aftur inn (í [into, upon]); bóka aftur
-re-establish (rí-estab'lish) s. koma (e-u) aftur á; reisa við aftur
+re-enter s. ganga aftur inn (í [into, upon]); bóka aftur
+re-establish s. koma (e-u) aftur á; reisa við aftur
 re-establishment n. viðreisn, endurreisn
-reeve (riv) s. stinga kaðalenda í gegnum ([~ a rope through a block])
-re-exchange (rí-ekstshein'dzh) s. skipta aftur; n. endurskipting
-refection (rifek'shan) n. hressing; matur; máltíð
-refectory (rifekt'ari) n. matsalur, borðstofa (í klaustrum)
-refer (riför') s. visa til e-s, skírskota (vitna) til e-s; skjóta (e-u undir e-n); heimfæra (til e-s flokks); [~ oneself to] leita til; [~ to] eiga við; snerta; leita til; skírskota (vitna) til; fletta upp í (bók); [I ~red him to you] ég vísaði honum til þin
+reeve s. stinga kaðalenda í gegnum ([~ a rope through a block])
+re-exchange s. skipta aftur; n. endurskipting
+refection n. hressing; matur; máltíð
+refectory n. matsalur, borðstofa (í klaustrum)
+refer s. visa til e-s, skírskota (vitna) til e-s; skjóta (e-u undir e-n); heimfæra (til e-s flokks); [~ oneself to] leita til; [~ to] eiga við; snerta; leita til; skírskota (vitna) til; fletta upp í (bók); [I ~red him to you] ég vísaði honum til þin
 referable l. heimfæranlegur
 referrible l. heimfæranlegur
-referee (reffari') n. gerðarmaður
+referee n. gerðarmaður
 reference n. tilvísun; tilvitnun (í bók); skírskotun; tillit, samband; tilvísunarmerki ([mark of ~]); tilvísunarmaður (sem annar vísar til sér til meðmæla); meðmæli; [book of ~] bók til leiðbeiningar (t.d. orðabók); [in/with ~ to] með tilliti til, í sambandi við
 referendum n. þjóðaratkvæði
 referential l. tilvísunar-
@@ -593,51 +593,51 @@ regather s. safna aftur
 regatta n. kappsigling, kappróður
 regelate s. frjósa saman aftur
 regelation n. samfrosning
-regency (rídzhansi) n. ríkisstjórn (einkum í umboði annars)
-regenerate (ridzhenn'areit) s. endurfæða; endurnýja; myndast aftur; l. endurfæddur
+regency n. ríkisstjórn (einkum í umboði annars)
+regenerate s. endurfæða; endurnýja; myndast aftur; l. endurfæddur
 regeneration n. endurfæðing; nýmyndun
-regenerator (ridzhen'areitar) n. endurlífgari, endurskapari, endurnýjari
-regent (rídzhant) l. stjórnandi, ríkjandi; n. stjórnari, ríkisstjóri
+regenerator n. endurlífgari, endurskapari, endurnýjari
+regent l. stjórnandi, ríkjandi; n. stjórnari, ríkisstjóri
 regentship n. ríkisstjóraembætti, ríkisstjórn (í umboði annars)
-regicide (redzhisæd) n. konungsmorðingi; konungsmorð
-regime (rezhím') n. stjórnarfyrirkomulag
-regimen (redzhimon) n. stjórn, stjórnarfyrirkomulag; mataræðisreglur
-regiment (redzhimant) n. hersveit
+regicide n. konungsmorðingi; konungsmorð
+regime n. stjórnarfyrirkomulag
+regimen n. stjórn, stjórnarfyrirkomulag; mataræðisreglur
+regiment n. hersveit
 regimental l. hersveitar-
 regimentals n. ft. einkennisbúningur (liðsmanna)
-region (rídzhan) n. hérað; sveit, landshluti; svæði, svið; [the upper ~s] himininn; [lower, nether ~s] undirheimar, dauðraríkið
+region n. hérað; sveit, landshluti; svæði, svið; [the upper ~s] himininn; [lower, nether ~s] undirheimar, dauðraríkið
 regional l. héraðslegur; staðlegur
-register (redzhistar) n. bók, skrá, listi; skipaskrá ([Lloyd's ~ of British shipping]); kjörskrá ([~ of electors]); ofnspjald; [the ~ of his burial] greftrunarvottorð; [~ of mortgages] veðmálabók; [port of ~] skráningarhöfn; [parish ~] kirkjubækur; s. bóka, skrá; færa inn; [by a ~ed parcel] í ábyrgðarböggli; [the barometer ~s low] vísar (stendur) lágt
-registrar (redzhistrár) n. skráhaldari, bókari
-registration (redzhistrei'shan) n. bókun
-registry (redzhistri) n. bókun, skráning; skjöl; skráningarbók; [married at a ~] giftur borgaralegu hjónabandi; [~ office] vistráðningarstaður
-regnant (regnant) l. stjórnandi, ríkjandi ([the belief in witchcraft was ~])
-regorge (rigör'dzh) s. kasta upp aftur
+register n. bók, skrá, listi; skipaskrá ([Lloyd's ~ of British shipping]); kjörskrá ([~ of electors]); ofnspjald; [the ~ of his burial] greftrunarvottorð; [~ of mortgages] veðmálabók; [port of ~] skráningarhöfn; [parish ~] kirkjubækur; s. bóka, skrá; færa inn; [by a ~ed parcel] í ábyrgðarböggli; [the barometer ~s low] vísar (stendur) lágt
+registrar n. skráhaldari, bókari
+registration n. bókun
+registry n. bókun, skráning; skjöl; skráningarbók; [married at a ~] giftur borgaralegu hjónabandi; [~ office] vistráðningarstaður
+regnant l. stjórnandi, ríkjandi ([the belief in witchcraft was ~])
+regorge s. kasta upp aftur
 regrate s. kaupa upp (og selja út aftur í smáskömmtum)
 regress n. afturför, afturkoma; réttur til að taka við prestsembætti aftur; s. snúa (koma) aftur
-regression (rigresh'an) n. afturför, afturkoma
-regressive (rigress'iv) l. sem gengur (fer) aftur á bak
-regret (rigrett') s. sjá eftir, sakna; harma; [we ~ to say] oss tekur sárt (að þurfa) að segja; n. söknuður, eftirsjón; harmur
+regression n. afturför, afturkoma
+regressive l. sem gengur (fer) aftur á bak
+regret s. sjá eftir, sakna; harma; [we ~ to say] oss tekur sárt (að þurfa) að segja; n. söknuður, eftirsjón; harmur
 regretful l. harmsfullur, fullur af eftirsjá
-regular (reggjúlar) l. reglulegur; reglubundinn; lögákveðinn; [~ employment] föst atvinna; n. reglumunkur; reglulegur hermaður; ft. fast herlið ([~ forces])
+regular l. reglulegur; reglubundinn; lögákveðinn; [~ employment] föst atvinna; n. reglumunkur; reglulegur hermaður; ft. fast herlið ([~ forces])
 regularity n. regla, reglufesta
 regularize s. gera reglulegt, koma fastri reglu á e-ð
 regularly ao. reglulega; stöðugt
-regulate (reggjúleit) s. koma skipulagi á; stilla ([~ the clock])
+regulate s. koma skipulagi á; stilla ([~ the clock])
 regulation n. skipulag, fyrirkomulag; regla; ft. reglugjörð; [~ uniform] fyrirskipaður einkennisbúningur
 regulator n. stillir (verkfæri), stillihjól; órói í úri
-regurgitate (rigör'dzhiteit) s. streyma tilbaka; æla e-u upp aftur
-rehabilitate (ríhabiH'iteit) s. reisa við aftur; veita uppreisn
+regurgitate s. streyma tilbaka; æla e-u upp aftur
+rehabilitate s. reisa við aftur; veita uppreisn
 rehabilitation n. uppreisn (á æru); endurreisn, viðreisn
-rehash (ríhásh') s. sjóða upp aftur ([~ old ideas or opinions])
-rehearsal (rihör'sal) n. endurtekning; upplestur; frásaga; höfuðleikæfing
-rehearse (ri-hörs') s. endurtaka; lesa upp; segja frá; telja upp; æfa sig (á leikriti)
-reheat (ríhít') s. hita upp aftur
-reign (rein) n. stjórn, ríkisstjórn; stjórnarár; [under the ~ of] á ríkisstjórnarárum e-s; s. ríkja (yfir [over]); stjórna
+rehash s. sjóða upp aftur ([~ old ideas or opinions])
+rehearsal n. endurtekning; upplestur; frásaga; höfuðleikæfing
+rehearse s. endurtaka; lesa upp; segja frá; telja upp; æfa sig (á leikriti)
+reheat s. hita upp aftur
+reign n. stjórn, ríkisstjórn; stjórnarár; [under the ~ of] á ríkisstjórnarárum e-s; s. ríkja (yfir [over]); stjórna
 reimburse s. endurborga; gera skaðlausan; [~ oneself] sjá sér borgið við fjártjóni
 reimbursement n. endurgreiðsla, endurborgun
 reimpression n. endurprentun, ný útgáfa
-rein (rein) n. taumur; [give the ~s] slaka taumhaldið; [take the ~s] taka í (stjórnar)taumana; s. stýra, hafa taumhald á; [~ in/up] halda fast í taumana, halda við (hestinn)
+rein n. taumur; [give the ~s] slaka taumhaldið; [take the ~s] taka í (stjórnar)taumana; s. stýra, hafa taumhald á; [~ in/up] halda fast í taumana, halda við (hestinn)
 reinless l. laumlaus
 reincarnate s. endurholdgast
 reindeer n. hreindýr
@@ -663,67 +663,67 @@ rejuvenize s. yngja upp aftur
 rejuvenesce s. yngjast upp aftur
 rekindle s. kveikja upp aftur; kvikna (vakna) aftur
 relapse s. falla aftur; leggjast aftur (í e-ð illt); slá niður aftur; n. afturfall; [he had a ~ of his complaint] honum sló niður aftur, sjúkdómurinn tók sig upp aftur
-relate (rileit') s. segja frá; setja í samband (við [to]), tengja; [~ to] eiga skylt við, snerta
+relate s. segja frá; setja í samband (við [to]), tengja; [~ to] eiga skylt við, snerta
 related l. skyldur, venslaður (e-m [to])
 relater n. frásögumaður
-relation (rilei'shan) n. frásaga, frásögn; tillit ([in ~ to]); samband ([~ of ruler and subject]); skyldleiki; frændi, frænka; [commercial ~s] verslunarviðskipti
+relation n. frásaga, frásögn; tillit ([in ~ to]); samband ([~ of ruler and subject]); skyldleiki; frændi, frænka; [commercial ~s] verslunarviðskipti
 relationship n. samband; frændsemi, skyldleiki
-relative (rellativ) l. tilfærilegur, tilvísunar- ([~ pronoun]); háður; viðkomandi (e-u [to]); samanburðarlegur, tiltölulegur ([with ~ coolness]); hlutfallslegur; samsvarandi; [~ to] viðvíkjandi, um; n. ættingi; frændi; tilvísunarfornafn
-relativity (-tiv'viti) n. samsvörun, tilsvörun
-relax (rilaks') s. slaka á, lina á; draga úr; mýkja; hressa ([~ oneself]); linast, mýkjast; dofna
+relative l. tilfærilegur, tilvísunar- ([~ pronoun]); háður; viðkomandi (e-u [to]); samanburðarlegur, tiltölulegur ([with ~ coolness]); hlutfallslegur; samsvarandi; [~ to] viðvíkjandi, um; n. ættingi; frændi; tilvísunarfornafn
+relativity n. samsvörun, tilsvörun
+relax s. slaka á, lina á; draga úr; mýkja; hressa ([~ oneself]); linast, mýkjast; dofna
 relaxation n. linun, mýking; hlé; undanlát; hvíld, hressing
-relay n. nýir hestar, sem hafðir eru viðbúnir til skipta; s. setja (aðra hesta, menn) í staðinn
-relay (rílei') s. leggja aftur
-release (rilís) s. láta lausan; láta af (t.d. rétti sínum), sleppa; leysa e-n undan e-u, losa við e-ð ([~ one from]); n. lausn; léttir ([to me it would be a great ~ to]); kvittunarseðill, kvittun; uppgjöf (réttarkröfu)
+relay n. nýir hestar, sem hafðir eru viðbúnir til skipta; s. setja (aðra hesta, menn) í staðinn; senda áfram
+relay s. leggja aftur
+release s. láta lausan; láta af (t.d. rétti sínum), sleppa; leysa e-n undan e-u, losa við e-ð ([~ one from]); n. lausn; léttir ([to me it would be a great ~ to]); kvittunarseðill, kvittun; uppgjöf (réttarkröfu)
 releasement n. lausn
-relegate (relligeit) s. reka í útlegð, gera útlægan; vísa burt; fela (e-m e-ð) á hendur
+relegate s. reka í útlegð, gera útlægan; vísa burt; fela (e-m e-ð) á hendur
 relegation n. burtvísun; burtrekstur
-relent (rilent') s. láta undan, vægja; mýkjast
+relent s. láta undan, vægja; mýkjast
 relentless l. harðbrjóstaður, miskunnarlaus ([~ criticism])
-relevancy (rellivðnsi) n. þýðing
-relevant (rellivant) l. (málinu) viðkomandi ([arguments not ~ to the case]); samsvarandi (e-u [to])
+relevancy n. þýðing
+relevant l. (málinu) viðkomandi ([arguments not ~ to the case]); samsvarandi (e-u [to])
 reliability n. áreiðanleiki
-reliable (rilæ'ab'l) l. áreiðanlegur
+reliable l. áreiðanlegur
 reliance n. tiltrú, traust (á e-m [upon, on, in])
 reliant l. treystandi (e-u [on])
-relic (rellik) n. minjagripur; helgur dómur ([holy ~]); ft. leifar; [~s of antiquity] fornminjar, fornleifar
-relict (rellikt) n. eftirlifandi ekkja
-relief (rilíf') n. huggun, léttir, linun, fróun ([the medicine brought ~]); hjálp ([come to his ~]); aðstoð; fátækrastyrkur ([parochial ~]); liðveisla; aflausn (af verði); tilbreyting ([a blank wall without ~]); upphleypt mynd; [by way of ~] til tilbreytingar; [in full ~] mjög skýrt ([stand out in full ~]); [low ~] lágmynd; [high ~] hámynd
-relieve (rilív') s. lina, draga úr; létta ([~ the pressure of taxes]); bæta úr; hjálpa, veita lið ([~ a city]); leysa af verði ([~ guard]); [~ nature] hægja sér til baks eða kviðar, létta á sér; [~ one of] losa (e-n) við
-relievo (rilí'vó) n. upphleypt mynd; [in ~] upphleyptur
-religion (rilid'shðn) n. trúarbrögð, trú
+relic n. minjagripur; helgur dómur ([holy ~]); ft. leifar; [~s of antiquity] fornminjar, fornleifar
+relict n. eftirlifandi ekkja
+relief n. huggun, léttir, linun, fróun ([the medicine brought ~]); hjálp ([come to his ~]); aðstoð; fátækrastyrkur ([parochial ~]); liðveisla; aflausn (af verði); tilbreyting ([a blank wall without ~]); upphleypt mynd; [by way of ~] til tilbreytingar; [in full ~] mjög skýrt ([stand out in full ~]); [low ~] lágmynd; [high ~] hámynd
+relieve s. lina, draga úr; létta ([~ the pressure of taxes]); bæta úr; hjálpa, veita lið ([~ a city]); leysa af verði ([~ guard]); [~ nature] hægja sér til baks eða kviðar, létta á sér; [~ one of] losa (e-n) við
+relievo n. upphleypt mynd; [in ~] upphleyptur
+religion n. trúarbrögð, trú
 religionist n. trúmaður; oftrúarmaður
-religiosity (rilidzhios'iti) n. trúrækni
-religious (rilid'zhas) l. guðrækinn, trúrækinn; guðrækilegur; samviskusamur; [~ house] klaustur; [~ life] munklífi
+religiosity n. trúrækni
+religious l. guðrækinn, trúrækinn; guðrækilegur; samviskusamur; [~ house] klaustur; [~ life] munklífi
 religiously ao. samviskusamlega
 religiousness n. guðhræðsla, trúrækni
-relinquish (rilÍN'kwish) s. yfirgefa; slá (e-u) frá sér; gefa eftir; sleppa (e-u)
+relinquish s. yfirgefa; slá (e-u) frá sér; gefa eftir; sleppa (e-u)
 relinquishment n. eftirgjöf; uppgjöf
-reliquary (rellikwari) n. skrín með helgum dómum í, helgiskrín
+reliquary n. skrín með helgum dómum í, helgiskrín
 relique n. minjagripur
-relish (rellish) s. neyta með góðri lyst, þykja gott; hafa mætur á e-u; setja (gott) bragð á; vera góður á bragðið; [~ of a thing] hafa bragð (keim) af e-u; n. gott bragð; smekkbætir; smekkur; krydd; unaður; snefill, ögn ([a ~ of salt]); [have ~ for] hafa mætur á
+relish s. neyta með góðri lyst, þykja gott; hafa mætur á e-u; setja (gott) bragð á; vera góður á bragðið; [~ of a thing] hafa bragð (keim) af e-u; n. gott bragð; smekkbætir; smekkur; krydd; unaður; snefill, ögn ([a ~ of salt]); [have ~ for] hafa mætur á
 relishable l. bragðgóður, lostætur
 reluct s. hafa óbeit á ([at, against])
 reluctance n. tregða, ólyst
 reluctant l. tregur, ófús, nauðugur
 reluctate s. veita e-u mótstöðu ([against]); tregðast við (að gera e-ð)
-relume (ríljúm') s. kveikja aftur; lýsa upp aftur
-rely (rilæ') s. reiða sig (á [on, upon]); treysta ([can I ~ upon your secrecy])
-remain (rimein') s. vera kyrr (á e-m stað); dvelja ([~ three weeks in Paris]); vera eftir; vera ([let it ~ as it is]); haldast; halda áfram að vera ([~ faithful]); [it ~s to be proved] það er ósannað enn; [it ~s to be seen] það er óséð enn
-remainder (rimein'dar) n. afgangur, leifar, eftirstöðvar; bókaleifar
-remains (rimei'nz) n. ft. leifar, eftirleifar; jarðneskar leifar, lík; [the ~ of a meal] leifar eftir máltíð
+relume s. kveikja aftur; lýsa upp aftur
+rely s. reiða sig (á [on, upon]); treysta ([can I ~ upon your secrecy])
+remain s. vera kyrr (á e-m stað); dvelja ([~ three weeks in Paris]); vera eftir; vera ([let it ~ as it is]); haldast; halda áfram að vera ([~ faithful]); [it ~s to be proved] það er ósannað enn; [it ~s to be seen] það er óséð enn
+remainder n. afgangur, leifar, eftirstöðvar; bókaleifar
+remains n. ft. leifar, eftirleifar; jarðneskar leifar, lík; [the ~ of a meal] leifar eftir máltíð
 remand s. senda aftur (einkum fanga í gæsluvarðhald); kalla (heimta) aftur; n. endursetning í gæsluvarðhald
 remanet n. óútkljáð mál; óútrætt frumvarp
 remark n. eftirtekt; athugasemd; [worthy of ~] markverður; s. taka eftir; athuga, taka fram, gera athugasemdir (við e-ð [on])
 remarkable l. markverður, merkilegur; eftirtektarverður
 remarkably ao. eftirtakanlega, merkilega
 remarry s. giftast (kvænast) aftur (í annað sinn)
-remeasure (rímezh'ar) s. mæla aftur
-remediable (rimí'diab'I) l. sem má ráða bót á; læknanlegur
-remedial (rimi'dial) l. bætandi; læknandi
-remediless (remmidiless) l. ólæknandi
-remedy (remmidi) n. læknislyf; lækning; hjálp; ráð; uppbót; [past ~] ólæknandi; s. ráða bót á, bæta úr ([~ an evil]); lækna
-remember (rimem'bar) s. muna, muna eftir, minnast; [~ me to Mr. N] berðu hr. N kveðju mína, ég bið að heilsa hr. N; [he desired to be ~ed to all his friends] hann bað að heilsa öllum vinum sínum
+remeasure s. mæla aftur
+remediable l. sem má ráða bót á; læknanlegur
+remedial l. bætandi; læknandi
+remediless l. ólæknandi
+remedy n. læknislyf; lækning; hjálp; ráð; uppbót; [past ~] ólæknandi; s. ráða bót á, bæta úr ([~ an evil]); lækna
+remember s. muna, muna eftir, minnast; [~ me to Mr. N] berðu hr. N kveðju mína, ég bið að heilsa hr. N; [he desired to be ~ed to all his friends] hann bað að heilsa öllum vinum sínum
 rememberable l. minnisstæður
 remembrance n. endurminning, minni; minjagripur; ft. kveðjur; [put in ~ of] minna á; [in ~ of] til minningar um
 remember n. áminnari; skrifari við ríkisfjárhirsluna
@@ -1520,7 +1520,7 @@ rugose l. hrukkóttur
 ruin n. hrun; eyðing; niðurbrot; óhamingja, ógæfa; ft. rústir; [to go to ~] ganga af sér; [to bring to ~, to bring ~ on] steypa í ógæfu (glötun); s. eyða, spilla; steypa í ógæfu
 ruinous l. skaðlegur, skaðvænlegur; hrörlegur, af sér genginn ([an old and ~ place])
 ruinousness n. skaðvænleiki; hrörleiki
-rule (rúl) n. regla; fyrirmæli; úrskurður; (ríkis)stjórn, yfirráð ([under British ~]); reglustika; mælikvarði; [as a ~] venjulega; [~ of three] þríliða; [~ of thumb] þumalputtaregla, regla byggð á reynslu; [the four ~s] 4 höfuðgreinar í reikningi; s. stýra, stjórna, ráða fyrir; koma reglu (skipulagi) á; úrskurða, ákveða; strika ([~d paper]); [prices ~ higher (lower)] verðið er hærra (lægra)
+rule n. regla; fyrirmæli; úrskurður; (ríkis)stjórn, yfirráð ([under British ~]); reglustika; mælikvarði; [as a ~] venjulega; [~ of three] þríliða; [~ of thumb] þumalputtaregla, regla byggð á reynslu; [the four ~s] 4 höfuðgreinar í reikningi; s. stýra, stjórna, ráða fyrir; koma reglu (skipulagi) á; úrskurða, ákveða; strika ([~d paper]); [prices ~ higher (lower)] verðið er hærra (lægra)
 ruler n. reglustika; stjórnari
 ruling l. ráðandi, ríkjandi; n. úrskurður (dómstóls)
 rum n. romm; l. skrítinn, hjákátlegur ([a ~ thing])
@@ -1532,8 +1532,8 @@ rumination n. jórtur; umhugsun
 rummage s. leita vandlega; róta í e-u; n. nákvæm eftirleit
 rumour n. kvis, kvittur; orðrómur; s. bera út (kvitt); [it is ~ed that] það er talað (sagt) að
 rump n. torta, stertur; lend (á hesti); malir (á nautgrip)
-rumple (rpmp'l) s. böggla, setja hrukkur á; n. hrukka, felling, brot
-run (rpnn) s. hlaupa; flýja; renna, streyma; fljóta (í blóði [with blood]); renna, bráðna; hljóða (svo eða svo); liggja, ná (um veg); vera í hreyfingu (um vél); láta hlaupa (renna, ganga, sigla); hleypa; renna (e-u); setja í hreyfingu; stinga, reka; bræða; steypa (t.d. kúlur); flytja inn (tollskyldar vörur) á laun ([~ brandy]); [he that ~s may read] það má sjá með hálfu auga; [the sea ~s high] það er mikill sjógangur; [our provisions began to ~ short] tóku að þverra; [~ mad] verða vitstola; [~ a steamer] hafa gufuskip í förum; [~ a match, ~ a race against] reyta kapphlaup við; [~ at] ráðast á; [~ after] sækjast eftir; [~ away] flýja; strjúka; fælast (um hest); [~ down] falla út; sigla fram með; steypa (fella) um koll; aka yfir; sigla (skip) í kaf; niðra (e-m); [~ in with] vera (e-m) samdóma; [~ into] komast, steypa sér í, rekast á; [~ on] halda áfram; tala í sífellu; sneiða að (e-m); [~ out] renna út, liða (um tímann); breiðast út; [~ through] tæma, eyða; reka í gegnum; renna augum yfir; [the ink ~s through] blekið drepur í gegn; [~ up] renna upp, spretta; vaxa; láta vaxa (hækka); [~ up bills] komast í skuldir
+rumple s. böggla, setja hrukkur á; n. hrukka, felling, brot
+run s. hlaupa; flýja; renna, streyma; fljóta (í blóði [with blood]); renna, bráðna; hljóða (svo eða svo); liggja, ná (um veg); vera í hreyfingu (um vél); láta hlaupa (renna, ganga, sigla); hleypa; renna (e-u); setja í hreyfingu; stinga, reka; bræða; steypa (t.d. kúlur); flytja inn (tollskyldar vörur) á laun ([~ brandy]); [he that ~s may read] það má sjá með hálfu auga; [the sea ~s high] það er mikill sjógangur; [our provisions began to ~ short] tóku að þverra; [~ mad] verða vitstola; [~ a steamer] hafa gufuskip í förum; [~ a match, ~ a race against] reyta kapphlaup við; [~ at] ráðast á; [~ after] sækjast eftir; [~ away] flýja; strjúka; fælast (um hest); [~ down] falla út; sigla fram með; steypa (fella) um koll; aka yfir; sigla (skip) í kaf; niðra (e-m); [~ in with] vera (e-m) samdóma; [~ into] komast, steypa sér í, rekast á; [~ on] halda áfram; tala í sífellu; sneiða að (e-m); [~ out] renna út, liða (um tímann); breiðast út; [~ through] tæma, eyða; reka í gegnum; renna augum yfir; [the ink ~s through] blekið drepur í gegn; [~ up] renna upp, spretta; vaxa; láta vaxa (hækka); [~ up bills] komast í skuldir
 run n. hlaup; rennsli; straumur; aðsúgur (að banka, [upon]); eftirsókn; lækur; ferð, sjóferð, sigling ([one day's ~]); hljóðfall; beitarland; [at/in the long ~] þegar til lengdar lætur; [by the ~] snögglega; [like the common (general) ~] sem fólk er flest; [a ~ of misfortunes] hver ógæfan eftir aðra; [when the ~ of the piece had slackened] þegar aðsóknin að leiknum var farin að minnka
 runagate n. strokumaður
 runaway n. flóttamaður, strokumaður; l. [~ knock] ginningarbarsmíð (á dyr); [~ marriage] hjónaband eftir brottnám brúðarinnar
