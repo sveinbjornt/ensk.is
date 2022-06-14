@@ -114,14 +114,14 @@ illustration n. skýring; myndskreyting; mynd (í bók)
 illustrative l. skýrandi ([~ of])
 illustrious l. tiginn, göfugur; nafnfrægur; ágætur
 illustriousness n. göfugleiki, göfgi; frægð
-image (immidzh) n. mynd; ímynd; líking; skurðgoð; s. mynda; sýna (mynd e-s hlutar); spegla; tákna; [~ to oneself] ímynda sér
+image n. mynd; ímynd; líking; skurðgoð; s. mynda; sýna (mynd e-s hlutar); spegla; tákna; [~ to oneself] ímynda sér
 imageable l. ímyndanlegur
-imagery (immidzhari) n. myndir; myndaskart; líkingarfullt orðfæri
-imaginable (imad'zhinab'l) l. hugsanlegur
-imaginary (imad'zhinari) l. ímyndaður
+imagery n. myndir; myndaskart; líkingarfullt orðfæri
+imaginable l. hugsanlegur
+imaginary l. ímyndaður
 imagination n. ímyndun; ímyndunarafl
-imaginative (imad'zhinativ) l. ímyndunar-; hugvitssamur; hugmyndaríkur
-imagine (ima'zhin) s. ímynda (hugsa) sér; hugsa upp
+imaginative l. ímyndunar-; hugvitssamur; hugmyndaríkur
+imagine s. ímynda (hugsa) sér; hugsa upp
 imbecile l. veiklaður, sljór (á líkama eða sál); heimskulegur; n. fábjáni
 imbecility n. (vitsmuna) sljóleiki; vanmáttur
 imbed s. sjá [embed]
@@ -132,30 +132,30 @@ imbosom s. sjá [embody]
 imbower s. sjá [embody]
 imbricate l. liggjandi hver yfir öðrum, skaraður
 imbricated l. liggjandi hver yfir öðrum, skaraður
-ibroglio (imbró'ljó) n. flækja
-imbrue (imbrú') s. rjóða ([~ one's hands, sword/with blood])
-imbrute (-brút') s. gera dýrslegt
-imbue (imbjú') s. gegnvæta; lita ([~ with some colour]); innræta ([~ with opinions, feelings, habits])
+imbroglio n. flækja
+imbrue s. rjóða ([~ one's hands, sword/with blood])
+imbrute s. gera dýrslegt
+imbue s. gegnvæta; lita ([~ with some colour]); innræta ([~ with opinions, feelings, habits])
 imitability n. eftirlíkjanleiki
-imitable (immitab'l) l. eftirlíkjanlegur; eftirbreytnisverður
-imitate (immiteit) s. líkja eftir; stæla
+imitable l. eftirlíkjanlegur; eftirbreytnisverður
+imitate s. líkja eftir; stæla
 imitation n. eftirlíking; stæling
-imitative (immitei-tiv) l. eftirlíkjandi; gerður eftir e-u ([of])
+imitative l. eftirlíkjandi; gerður eftir e-u ([of])
 imitator n. eftirherma, hermikráka
 immaculate l. flekklaus, hreinn
 immane l. afskaplegur
-immanency (-ensi) n. ívera, ídvöl
+immanency n. ívera, ídvöl
 immanent l. ídveljandi
-immaterial (-tí'rial) l. ólíkamlegur, andlegur; óverulegur, þýðingarlaus
+immaterial l. ólíkamlegur, andlegur; óverulegur, þýðingarlaus
 immateriality n. líkamsleysi
 immaterialize s. gera líkamslausan (efnislausan)
-immature (-tjúr') l. óþroskaður
-immaturity (-tjú'riti) n. þroskaskortur
+immature l. óþroskaður
+immaturity n. þroskaskortur
 immeasurable l. ómælanlegur
 immeasurability n. ómælileiki
 immediate l. tafarlaus, viðstöðulaus; náinn; [the ~ neighbourhood] næsta nágrenni; [his ~ superior] næstu yfirmenn; [out of ~ danger] úr bráðri hættu
 immediately ao. beinlínis; undir eins
-immemorial (-mó'rial) l. óminnilegur, eldgamall; [from time ~] frá alda öðli, frá ómunatíð
+immemorial l. óminnilegur, eldgamall; [from time ~] frá alda öðli, frá ómunatíð
 immemorially ao. frá alda öðli
 immense l. ómælanlegur, afar stór; frábær
 immensely ao. ákaflega
@@ -163,71 +163,71 @@ immensity n. ómælanleiki; ógrynni, ósköpin öll
 immensurable l. ómælanlegur (sjá [immeasurable])
 immerge s. sökkva (e-u), kaffæra
 immerse s. sökkva (e-u), kaffæra
-immersion (imör'shon) n. kaffæring
-immethodical (-þodd'ikal) l. óreglubundinn ([~ reading])
+immersion n. kaffæring
+immethodical l. óreglubundinn ([~ reading])
 immigrant n. innflytjandi
-immigrate (-greit) s. flytja inn í land til bólfestu ([~ into a country])
-immigration (-grei'shon) n. innflutningur (fólks)
+immigrate s. flytja inn í land til bólfestu ([~ into a country])
+immigration n. innflutningur (fólks)
 imminence n. yfirvofan ([the ~ of the danger])
 imminent l. yfirvofandi
-immiscible (imiss'ib'l) l. óblandanlegur ([water and oil are ~])
+immiscible l. óblandanlegur ([water and oil are ~])
 immission n. innlátning, innhleyping ([~ of fresh air])
 immit s. láta inn, hleypa e-u inn
-immix (imik's) s. blanda í
+immix s. blanda í
 immixture n. íblöndun, samblöndun
-immobile (-mo'bil) l. óhreyfanlegur
+immobile l. óhreyfanlegur
 immobility n. óhreyfanleiki
-immobilize (-'bilæz) s. gera óhreyfanlegt, stöðva
-immoderate (imodd'arat) l. óhóflegur, fjarskalegur, hóflaus
+immobilize s. gera óhreyfanlegt, stöðva
+immoderate l. óhóflegur, fjarskalegur, hóflaus
 immoderation n. óhóf, ofsi, öfgar
-immodest (imodd'ist) l. ókurteis, framur; ósæmilegur, klúr
+immodest l. ókurteis, framur; ósæmilegur, klúr
 immodesty n. ókurteisi, óhæverska
 immolate s. fórnfæra, blóta; fórna
 immolation n. fórnfæring, blótun; fórnun
 immoral l. ósiðlegur ([~ conduct]); ósiðvandur
 immorality n. ósiðsemi; óráðvendni; löstur
-immortal (imör'tal) l. ódauðlegur; eilífur
-immortality (-tall'iti) n. ódauðleiki
-immortalize (imör'talæz) s. gera ódauðlegan, gera eilífan
+immortal l. ódauðlegur; eilífur
+immortality n. ódauðleiki
+immortalize s. gera ódauðlegan, gera eilífan
 immortally ao. eilíflega
-immovable (imú'vab'l) l. óhreyfanlegur, fastur; n. ft. fasteignir
-immune (imjún') l. ónæmur, ómóttækilegur (fyrir eitri [from poison])
-immunity (imjú'-niti) n. undanþága, lausn undan e-u ([~ from taxation]); ónæmi ([~ from infection])
-immunize (im'mjúnæz) s. gera ómótækan
+immovable l. óhreyfanlegur, fastur; n. ft. fasteignir
+immune l. ónæmur, ómóttækilegur (fyrir eitri [from poison])
+immunity n. undanþága, lausn undan e-u ([~ from taxation]); ónæmi ([~ from infection])
+immunize s. gera ómótækan
 immure s. byrgja inni
-immutability (imjútabilí'iti) n. óumbreytileiki
-immutable (imjú'-tab'l) l. óbreytanlegur, óhagganlegur
+immutability n. óumbreytileiki
+immutable l. óbreytanlegur, óhagganlegur
 imp n. púki; óþekktarangi; s. styrkja (vængi) með fjöðrum; auka, stækka
-impact (impakt) n. þrýsting; s. þrýsta e-u inn í e-ð
-impair (-pér') s. minnka; skemma, skaða; rýra
+impact n. þrýsting; s. þrýsta e-u inn í e-ð
+impair s. minnka; skemma, skaða; rýra
 impairment n. rýrð; skemmd
-impale (-peil') s. girða með staurum; reka (oddhvassan staur) í gegnum
-impalpable (impal'pab'l) l. óáþreifanlegur; ómerkjanlegur
-impanel (impann'ol) s. kveðja (í kviðdóm); semja skrá (yfir kviðdómara)
-imparity (-parr'iti) n. mismunur
-impark (impárk') s. girða í kringum (grasvöll); umgirða
-impart (impárt') s. veita, láta í té; segja frá, láta vita
-impartial (-pár'shal) l. óhlutdrægur, óvilhallur, réttsýnn
+impale s. girða með staurum; reka (oddhvassan staur) í gegnum
+impalpable l. óáþreifanlegur; ómerkjanlegur
+impanel s. kveðja (í kviðdóm); semja skrá (yfir kviðdómara)
+imparity n. mismunur
+impark s. girða í kringum (grasvöll); umgirða
+impart s. veita, láta í té; segja frá, láta vita
+impartial l. óhlutdrægur, óvilhallur, réttsýnn
 impartiality n. óhlutdrægni
 impartially ao. hlutdrægnislaust, án greinarmunar
 impartible l. óskiptanlegar
-impassable (impáss'ob'l) l. ógengur, ófær, ókleifur; óvinnandi
-impassibility (impassibill'iti) n. tilfinningarleysi
+impassable l. ógengur, ófær, ókleifur; óvinnandi
+impassibility n. tilfinningarleysi
 impassible l. tilfinningalaus, kaldur (fyrir)
-impassion (-pásh'an) s. æsa
+impassion s. æsa
 impassioned l. ástríðufullur
 impassive l. sem ekkert fær á, sem ekki lætur í ljós tilfinningar sínar
-impaste (-peist') s. smyrja þykkt (á [on])
-impatience (impei'shans) n. óþolinmæði, óþol, óþreyja
-impatient (-pei'shant) l. óþolinmóður (eftir e-u [for]); [~ of heat] sem þolir illa hita
-impawn (impðn') s. veðsetja
-impeach (-pítsh') s. kæra (einkum fyrir embættisbrot eða landráð); efast um; koma óorði á e-n
+impaste s. smyrja þykkt (á [on])
+impatience n. óþolinmæði, óþol, óþreyja
+impatient l. óþolinmóður (eftir e-u [for]); [~ of heat] sem þolir illa hita
+impawn s. veðsetja
+impeach s. kæra (einkum fyrir embættisbrot eða landráð); efast um; koma óorði á e-n
 impeacher n. ákærandi
 impeachment n. ákæra
 impeccable l. syndlaus; gallalaus, óskeikull
-impecunious (-kjú'nias) l. félaus
-impede (-pid') s. hindra, tálma
-impediment (-pedd'imant) n. hindrun, tálmun, fyrirstaða; ft. farangur
+impecunious l. félaus
+impede s. hindra, tálma
+impediment n. hindrun, tálmun, fyrirstaða; ft. farangur
 impel s. reka, knýja áfram; hvetja, eggja
 impellent n. hvetjandi afl ([~ power])
 impeller n. hvatamaður
@@ -236,100 +236,100 @@ impending l. yfirvofandi
 impendence n. yfirvofun
 impendency n. yfirvofun
 impendent l. yfirvofandi
-impenetrable (-penn'itrab'l) l. sem ekki verður farið í gegnum ([an ~ forest]); óskiljanlegur, órannsakanlegur ([~ mystery])
+impenetrable l. sem ekki verður farið í gegnum ([an ~ forest]); óskiljanlegur, órannsakanlegur ([~ mystery])
 impenitence n. iðrunarleysi, þverúð
 impenitency n. iðrunarleysi, þverúð
 impenitent l. iðrunarlaus, þverúðarfullur
 imperative l. bjóðandi, skipandi; bráðnauðsynlegur; n. boðháttur
-imperceptible (-parsep'tib'l) l. ósýnilegur, ómerkjanlegur
+imperceptible l. ósýnilegur, ómerkjanlegur
 imperceptive l. sem ekki tekur eftir eða verður var (við [of])
 impercipient l. sem ekki tekur eftir eða verður var (við [of])
-imperfect (-pör'fekt) l. ófullkominn; [the ~ (tense)] þálegtíð
-imperfection (-fek'shan) n. ófullkomleiki, galli
-imperforable (-pör'förab'l) l. sem ekki verður borað í gegnum
-imperforated (-eitid) l. ógegnumboraður, holulaus
-imperial (-pí'rial) l. keisaralegur; ríkis-; keisaradæmis-; [~ parliament] ríkisþingið í Lundúnum
+imperfect l. ófullkominn; [the ~ (tense)] þálegtíð
+imperfection n. ófullkomleiki, galli
+imperforable l. sem ekki verður borað í gegnum
+imperforated l. ógegnumboraður, holulaus
+imperial l. keisaralegur; ríkis-; keisaradæmis-; [~ parliament] ríkisþingið í Lundúnum
 imperialism n. heimsvaldastefna
 imperialist n. heimsvaldastefnumaður; heimskeisaravinur
 imperiality n. keisaratign
 imperialize s. gera keisaralegt; gera að keisararíki
 imperially ao. keisaralega; af keisaranum
-imperil (-perr'il) s. stofna í hættu
-imperious (-pí'rias) l. ríkilátur, ráðríkur; drottnunargjarn
+imperil s. stofna í hættu
+imperious l. ríkilátur, ráðríkur; drottnunargjarn
 imperiousness n. ríkilæti, ráðríki; drottnunargirnd
 imperishable l. ótortímanlegur
 impermanent l. óstöðugur, óvaranlegur, hverfull, hvikull
-impermeable (-pör'miab'l) l. ógagnfær, þéttur, vatnsheldur ([~ to water])
-impersonal (-pör'sönal) l. ópersónulegur
+impermeable l. ógagnfær, þéttur, vatnsheldur ([~ to water])
+impersonal l. ópersónulegur
 impersonality n. persónuleysi, ópersónuleiki
-impersonate (-pör'söneit) s. persónugera; sýna (persónu e-s); þykjast vera önnur manneskja
+impersonate s. persónugera; sýna (persónu e-s); þykjast vera önnur manneskja
 impersonation n. persónugerving
-impertinence (impör'tinans) n. ósvífni, óskammfeilni
-impertinency (-ensi) n. ósvífni, óskammfeilni
+impertinence n. ósvífni, óskammfeilni
+impertinency n. ósvífni, óskammfeilni
 impertinent l. óviðkomandi (e-u [to]); fráleitur ([~ folly]); ósvífinn, óskammfeilinn
-imperturbable (impartör'bab'l) l. óraskanlegur; óbilugur; rólegur
-imperviable (impör'viab'l) l. sjá [impervious]
-impervious (impör'vias) l. sem ekki verður farið í gegnum, ógagnfær(ilegur) ([~ desert]); þéttur ([~ fog]); [~ to conviction] ósannfæranlegur
-impetrate (-pitreit) s. koma e-u til leiðar (með bænum); biðja um
-impetuosity (-petjúoss'iti) n. ofsi
-impetuous (-pett'júas) l. ofsafenginn, bráður, ákafur
+imperturbable l. óraskanlegur; óbilugur; rólegur
+imperviable l. sjá [impervious]
+impervious l. sem ekki verður farið í gegnum, ógagnfær(ilegur) ([~ desert]); þéttur ([~ fog]); [~ to conviction] ósannfæranlegur
+impetrate s. koma e-u til leiðar (með bænum); biðja um
+impetuosity n. ofsi
+impetuous l. ofsafenginn, bráður, ákafur
 impetus n. hreyfiafl; hraði, skriður
-impiety (iinpæ'iti) n. guðleysi; ræktarleysi ([filial ~])
+impiety n. guðleysi; ræktarleysi ([filial ~])
 impignorate s. veðsetja
-impinge (impin'dzh) s. rekast, skella (á [on, against]); brjóta á móti ([on])
+impinge s. rekast, skella (á [on, against]); brjóta á móti ([on])
 impingement n. árekstur
-impious (impias) l. óguðlegur, guðlaus; ræktarlaus
+impious l. óguðlegur, guðlaus; ræktarlaus
 impiousness n. guðleysi
 impish l. púkalegur; óþekkur, hrekkjóttur, glettinn ([~ children])
-implacability (impleikabill'iti) n. óbilgirni, ósáttgirni
-implacable (implei'kab'l) l. ósáttgjarn, óbilgjarn
-implant (implánt') s. gróðursetja; innræta ([~ in the mind])
+implacability n. óbilgirni, ósáttgirni
+implacable l. ósáttgjarn, óbilgjarn
+implant s. gróðursetja; innræta ([~ in the mind])
 implantation n. gróðursetning; innræting
-implausible (implö'zib'l) l. ósennilegur, óálitlegur
-implead (implíd') s. lögsækja
-impledge (-pled'zh) s. veðsetja; [~ one's faith] leggja við drengskap sinn
+implausible l. ósennilegur, óálitlegur
+implead s. lögsækja
+impledge s. veðsetja; [~ one's faith] leggja við drengskap sinn
 implement n. verkfæri, áhald, tól; s. fullgera; efna
 implemental l. verkfæralegur
-impletion (-plí'shan) n. fylling
+impletion n. fylling
 implicate s. flækja, bendla (e-n við e-ð [with]); fela í sér
 implication n. flæking; sjálfsögð ályktun, nauðsynleg afleiðing; [by ~] óbeinlínis
-implicative (-keitiv) l. sem felur e-ð í sér ([~ of]), undirskilinn
-implicit (-pliss'it) l. þegjandi ([~ promise]); skilyrðislaus ([~ faith])
+implicative l. sem felur e-ð í sér ([~ of]), undirskilinn
+implicit l. þegjandi ([~ promise]); skilyrðislaus ([~ faith])
 implicitly ao. óbeinlinis; skilyrðislaust; hiklaust ([they believe ~ whatever ...])
 imploration n. ákall, innileg bæn
-implore (implör') s. ákalla; grátbiðja um
-imply (implæ') s. fela í sér; innibinda; undirskilja; þýða, merkja; gefa í skyn
+implore s. ákalla; grátbiðja um
+imply s. fela í sér; innibinda; undirskilja; þýða, merkja; gefa í skyn
 implied l. þegjandi, sjálfsagður ([~ assent])
-impolicy (impoll'isi) n. óhyggileg aðferð, vanhyggni
-impolite (impölæt') l. ókurteis
+impolicy n. óhyggileg aðferð, vanhyggni
+impolite l. ókurteis
 impoliteness n. ókurteisi
 impolitic l. óhyggilegur, óviturlegur ([it is ~ to])
 imponderable l. óveganlegur
-import (impört') s. flytja inn í landið (vörur); fela í sér, merkja, þýða; varða (miklu [greatly])
+import s. flytja inn í landið (vörur); fela í sér, merkja, þýða; varða (miklu [greatly])
 import n. innflutningur; innfluttar vörur ([~-s and exports]); þýðing, merking ([words of dubious ~]); mikilvægi ([of great ~])
 importable l. innflytjanlegur
-importance (-pör'tðns) n. mikilvægi, þýðing ([of great, small ~])
+importance n. mikilvægi, þýðing ([of great, small ~])
 important l. mikilvægur, þýðingarmikill, áríðandi; þóttamikill
 importation n. innflutningur ([~ of goods])
-importunacy (-tjúnasi) n. áleitni, þrábeiðni
-importunate (impör'tjúnat) l. nærgöngull, áleitinn
+importunacy n. áleitni, þrábeiðni
+importunate l. nærgöngull, áleitinn
 importune s. ónáða, gera átroðning; þrábiðja; nauða (kvabba) á e-m; l. nærgöngull, áleitinn
 importunity n. kvabb, nauð, áleitni; þrábeiðni; átroðningur
-impose (impóz') s. leggja á [~ upon (on)]; svíkja
-imposing (impózÍN) l. tigurlegur, stórkostlegur; tilkomumikill; ægilegur; heimtufrekur; sviksamur
+impose s. leggja á [~ upon (on)]; svíkja
+imposing l. tigurlegur, stórkostlegur; tilkomumikill; ægilegur; heimtufrekur; sviksamur
 imposition n. álagning ([~ of taxes, hands]); álaga, skattur; svik
 impossibility n. ómöguleiki
 impossible l. ómögulegur
-impost (impóst) n. álaga, skattur
+impost n. álaga, skattur
 impostor n. svikari
 impostorship n. sviksemi
-impostrous (-tras) l. sviksamlegur
-imposture (-pos'tshar) n. svik, sviksemi
+impostrous l. sviksamlegur
+imposture n. svik, sviksemi
 impotence n. vanmáttur; aflleysi; dugleysi eða getuleysi (til barngetnaðar)
-impotency (-tensi) n. vanmáttur; aflleysi; dugleysi eða getuleysi (til barngetnaðar)
+impotency n. vanmáttur; aflleysi; dugleysi eða getuleysi (til barngetnaðar)
 impotent l. afllaus, máttlaus; ónýtur; getulaus
-impound (impánd') s. byrgja inni; geyma; leggja löghald á ([~ goods])
-impoverish (-povv'arish) s. gera fátækan; gera lakari, rýrari
+impound s. byrgja inni; geyma; leggja löghald á ([~ goods])
+impoverish s. gera fátækan; gera lakari, rýrari
 impoverishment n. það að gera eða verða fátækari; rýrnun, afturför
 impracticability n. óframkvæmanleiki; ófærð (vegarins [of the road])
 impracticable l. óframkvæmanlegur; ómögulegur; óviðráðanlegur; ófær (um veg)
@@ -345,179 +345,179 @@ impresario n. leiðtogi listamanns
 imprescriptible l. sem ekki verður burtu tekinn ([~ rights])
 impress s. þrýsta í eða á; setja mark á (með þrýstingi); festa í huga annars ([~ one's beliefs on others]); þvinga, kúga, taka með valdi í herþjónustu, einkum í sjóliðið
 impress n. merki, far (eftir e-ð); mót, mark
-impressible (-'ib'I) l. næmur, viðkvæmur
-impression (-presh'an) n. merki (sem þrýst er á); áhrif; eintak (af bók); tölublað; útgáfa bókar
+impressible l. næmur, viðkvæmur
+impression n. merki (sem þrýst er á); áhrif; eintak (af bók); tölublað; útgáfa bókar
 impressionable l. næmur; áhrifagjarn
 impressment n. þrýsting (þvingun) til herþjónustu
 impressure n. áþrýst merki; áhrif
 imprimatur n. prentleyfi
 imprint s. þrýsta á; innræta; [~ in the mind, on the memory] festa í huga sér, í minni sér
 imprint n. mark, mót, far; nafn útgefanda (prentara), útgáfustaður (prentstaður) og ártal
-imprison (impri'z'n) s. setja í varðhald, fangelsi
+imprison s. setja í varðhald, fangelsi
 imprisonment n. fangelsun; varðhald, fangelsi
 improbability n. ósennileiki
 improbable l. ósennilegur
-improbity (-probb'iti) n. óráðvendni
-impromptu (-tjú) ao. af munni fram, undirbúningslaust; n. ræða eða ljóð, sem mælt er af munni fram; l. óundirbúinn ([~ speech])
+improbity n. óráðvendni
+impromptu ao. af munni fram, undirbúningslaust; n. ræða eða ljóð, sem mælt er af munni fram; l. óundirbúinn ([~ speech])
 improper l. óhentugur; ósæmilegur, óhæfur; rangur; óeiginlegur
 impropriate s. leggja kirkjueign eða tíundir í hendur leikmanna
-impropriety (-præ'iti) n. ósómi, óhæfa ([~ of conduct]); málvilla
-improvable (imprú'vab'l) l. bætanlegur; ræktanlegur ([~ land])
-improve (imprúv') s. bæta; efla, auka; nota, hagnýta sér ([~ the opportunity]); breyta (í e-ð betra [~ into]); batna, taka bótum; eflast, aukast; [~ on] bæta, gera betri
+impropriety n. ósómi, óhæfa ([~ of conduct]); málvilla
+improvable l. bætanlegur; ræktanlegur ([~ land])
+improve s. bæta; efla, auka; nota, hagnýta sér ([~ the opportunity]); breyta (í e-ð betra [~ into]); batna, taka bótum; eflast, aukast; [~ on] bæta, gera betri
 improvement n. bót, umbót, endurbót; bati; framför, fullkomnun
-improver (-prúvar) n. umbótamaður, lagfærari, sá sem bætir ([an ~ of the language])
-improvidence (-provv'idans) n. óforsjálni; fyrirhyggjuleysi
+improver n. umbótamaður, lagfærari, sá sem bætir ([an ~ of the language])
+improvidence n. óforsjálni; fyrirhyggjuleysi
 improvident l. óforsjáll, fyrirhyggjulaus
-improvisate (improvv'izeit) s. mæla af munni fram (einkum í ljóðum); gera (e-ð) undirbúningslaust
-improvisation (-vizei'shan) n. kvæði eða ræða mælt af munni fram undirbúningslaust
-improvisator (-vizeitar) n. talandi skáld
-improvise (væz') s. mæla af munni fram (einkum í ljóðum); gera (e-ð) undirbúningslaust
-imprudence (-prú'dans) n. vanhyggni, óforsjálni
+improvisate s. mæla af munni fram (einkum í ljóðum); gera (e-ð) undirbúningslaust
+improvisation n. kvæði eða ræða mælt af munni fram undirbúningslaust
+improvisator n. talandi skáld
+improvise s. mæla af munni fram (einkum í ljóðum); gera (e-ð) undirbúningslaust
+imprudence n. vanhyggni, óforsjálni
 imprudent l. óhygginn, óforsjáll; óhyggilegur
-impudence (impjúdans) n. ósvífni
-impudency (-ensi) n. ósvífni
-impudent (ini-pjúdant) l. ósvífinn, ófyrirleitinn
-impudicity (impjúdiss'iti) n. óskírlífi
-impugn (impjún') s. mótmæla; ráðast á
-impugnation (-pþgnei'-shan) n. renging, mótmæli
-impulse (impþls) n. framrekstur; áhrif ([yield to the ~-s of others]); hvöt; augnablikshugkvæmd; snögg tilhneiging
-impulsion (imp01'shan) n. framrekstur; snögg áhrif
-impulsive (impþl'siv) l. framknýjandi; sem lætur augnablikstilfinningu ráða, fljótfærinn; [~ force] hreyfiafl; [~ cause] frumorsök
-impunity (impjú'niti) n. refsingarleysi; [with ~] að ósekju; skaðlaust, að skaðlausu
-impure (impjúr') l. óhreinn; vanheilagur; saurugur
+impudence n. ósvífni
+impudency n. ósvífni
+impudent l. ósvífinn, ófyrirleitinn
+impudicity n. óskírlífi
+impugn s. mótmæla; ráðast á
+impugnation n. renging, mótmæli
+impulse n. framrekstur; áhrif ([yield to the ~-s of others]); hvöt; augnablikshugkvæmd; snögg tilhneiging
+impulsion n. framrekstur; snögg áhrif
+impulsive l. framknýjandi; sem lætur augnablikstilfinningu ráða, fljótfærinn; [~ force] hreyfiafl; [~ cause] frumorsök
+impunity n. refsingarleysi; [with ~] að ósekju; skaðlaust, að skaðlausu
+impure l. óhreinn; vanheilagur; saurugur
 impurity n. óhreinleiki; óhreinindi, óþverri
-imputable (impjú'tab'l) l. sem má kenna e-m ([no blame is ~ to him])
+imputable l. sem má kenna e-m ([no blame is ~ to him])
 imputation n. áburður, aðdróttun, ásökun, last; tileinkun ([the ~ of Christ's righteousness])
 imputative l. tileinkaður
-impute (impjút') s. kenna um, eigna
+impute s. kenna um, eigna
 imputrescible l. órotnanlegur
 in fs. í, á; [~ Shakespeare] hjá Shakespeare; [~ Latin] á latínu; [~ the university] við háskólann; [~ my opinion] eftir minni skoðun; [~ the morning] um morguninn; á morgnana; [not one ~ ten could read] ekki einn af tíu gat lesið; [~ three days] eftir þrjá daga; [~ as much as] að svo miklu leyti sem, af því að; ao. inn; inni, heima; [we are ~ for a shower] vér megum búast við að rigni; n. ft. [the ins] stjórnmálaflokkur, sem að völdum situr ([the ~-s and outs]); [~-s and outs] krókar, krókaleið
 inability n. vanmáttur; hæfileikaskortur
-inaccessible (-aksess'ib'l) l. sem ekki verður komist að; óaðgengilegur
-inaccuracy (inakk'júrasi) n. ónákvæmni
+inaccessible l. sem ekki verður komist að; óaðgengilegur
+inaccuracy n. ónákvæmni
 inaccurate l. ónákvæmur; rangur, skakkur
-inaction (inak'shan) n. aðgerðarleysi
-inactive (inak'tiv) l. a-gerðarlaus
+inaction n. aðgerðarleysi
+inactive l. aðgerðarlaus
 inactivity n. aðgerðarleysi
-inadequacy (inadd'ikwasi) n. ónógleiki; ófullkomleiki
-inadequate (-kwat) l. ónógur, ófullkominn
-inadhesive (-hí'siv) l. óviðloðandi
+inadequacy n. ónógleiki; ófullkomleiki
+inadequate l. ónógur, ófullkominn
+inadhesive l. óviðloðandi
 inadmissible l. óleyfilegur
-inadvertence (-vör'tans) n. athugaleysi, gáleysi; yfirsjón
+inadvertence n. athugaleysi, gáleysi; yfirsjón
 inadvertency n. athugaleysi, gáleysi; yfirsjón
 inadvertent l. athugalaus, hirðulaus; óviljandi
 inadvertently ao. í ógáti
-inalienable (inei'ljanab'l) l. óafhendilegur ([~ rights])
-inane (inein') l. tómur; aulalegur
-inanimate (inann'imat) l. líflaus
-inanimation (-mei'shan) n. lífleysi
+inalienable l. óafhendilegur ([~ rights])
+inane l. tómur; aulalegur
+inanimate l. líflaus
+inanimation n. lífleysi
 inanition n. magnleysi; tómleiki
-inanity (inann'iti) n. tómleiki; hégómi, fánýti; sinnuleysi
-inappetence (inápp'itans) n. lystarleysi
+inanity n. tómleiki; hégómi, fánýti; sinnuleysi
+inappetence n. lystarleysi
 inappetent l. lystarlaus
-inapplicable (ináp'Iikab'l) l. ónotanlegur, ónothæfur; óhæfilegur
+inapplicable l. ónotanlegur, ónothæfur; óhæfilegur
 inapplication n. ókostgæfni, leti; ónothæfi
-inapposite (-özit) l. óviðeigandi
-inappreciable (-pri'shiab'l) l. ómetanlegur; ómerkjanlegur
+inapposite l. óviðeigandi
+inappreciable l. ómetanlegur; ómerkjanlegur
 inapprehensible l. óskiljanlegur
 inapprehension n. skilningsleysi
 inapprehensive l. skilningslaus; hræðslulaus, óhræddur
-inapproachable (-prót'shab'l) l. ónálganlegur
-inappropriate (inapró'priat) l. óviðeigandi; óhentugur; óeiginlegur
-inapt (inápt') l. óhæfur, ólagaður; ólaginn, klaufalegur
+inapproachable l. ónálganlegur
+inappropriate l. óviðeigandi; óhentugur; óeiginlegur
+inapt l. óhæfur, ólagaður; ólaginn, klaufalegur
 inaptitude n. hæfileikaskortur; ólægni, klaufaháttur
 inaptness n. hæfileikaskortur; ólægni, klaufaháttur
-inarable (-é'rab'l) l. óplægjanlegur ([~ soil])
-inarticulate (-tikk'júlat) l. liðalaus; ógreinilegur, óhljóðgreindur, ósundurskilinn ([~ sounds]); mállaus
+inarable l. óplægjanlegur ([~ soil])
+inarticulate l. liðalaus; ógreinilegur, óhljóðgreindur, ósundurskilinn ([~ sounds]); mállaus
 inarticulation n. óskýrleiki í framburði
-inartificial (inártifish'al) l. óíþróttlegur; náttúrlegur; óbrotinn, látlaus; ólistfengur
+inartificial l. óíþróttlegur; náttúrlegur; óbrotinn, látlaus; ólistfengur
 inartistic l. óíþróttlegur, ólistfengur
 inartistical l. óíþróttlegur, ólistfengur
-inasmuch (inazmþt'sh) ao. [~ as] að svo miklu leyti sem; með því að, af því að
-inattention (inaten'shan) n. eftirtektarleysi, athugaleysi
+inasmuch ao. [~ as] að svo miklu leyti sem; með því að, af því að
+inattention n. eftirtektarleysi, athugaleysi
 inattentive l. eftirtektarlaus, athugalaus
 inaudible l. óheyranlegur
 inaugural l. vígslu-, byrjunar- ([~ address, lecture])
 inaugurate s. setja í embætti (með viðhöfn); vígja til notkunar (t.d. járnbraut)
 inauguration n. vígsla; viðhafnarleg byrjun
 inauguratory l. vígslu-, byrjunar- ([~ address, lecture])
-inauspicious (inöspish'as) l. óheillavænlegur ([~ events, rumours])
-inborn (inbörn) l. meðfæddur
-inbreathed (-bríðd) l. innblásinn
+inauspicious l. óheillavænlegur ([~ events, rumours])
+inborn l. meðfæddur
+inbreathed l. innblásinn
 inbred l. meðfæddur; skyldleikaræktaður
-incalculable (inkál'kjúlab'I) l. óreiknanlegur; ómetanlegur
+incalculable l. óreiknanlegur; ómetanlegur
 incandescence n. hvítglóandi ástand, hvítglóandi hiti
 incandescent l. hvítglóandi
-incantation (inkantei'shan) n. særing; særingarljóð, galdraljóð
+incantation n. særing; særingarljóð, galdraljóð
 incantatory l. særingar-; galdra-
 incapability n. óhæfileiki
-incapable (-kei'-peb'l) l. óhæfur til ([of]), ekki fær (um); n. ónytjungur
-incapacitate (inkapass'iteit) s. gera hæfan (til e-s [for])
-incapacity (inkapass'iti) n. vanmáttur, skortur á hæfileika
-incarcerate (inkár'sareit) s. setja í fangelsi, loka inni, fjötra
+incapable l. óhæfur til ([of]), ekki fær (um); n. ónytjungur
+incapacitate s. gera hæfan (til e-s [for])
+incapacity n. vanmáttur, skortur á hæfileika
+incarcerate s. setja í fangelsi, loka inni, fjötra
 incarceration n. haldsetning. fangelsun
 incarnadine l. holdlitaður, bleikrauður; rauður; n. holdslitur; rauður litur
-incarnate (inkárn'eit) s. íklæða holdi; íklæðast e-u; l. holdi klæddur, holdgaður; [the devil ~] sjálfur djöfullinn
+incarnate s. íklæða holdi; íklæðast e-u; l. holdi klæddur, holdgaður; [the devil ~] sjálfur djöfullinn
 incarnation n. holdgun; holdtekja; persónugerving
-incase (inkeis') s. sjá [encase]
-incautious (inkö'shas) l. óvarkár, ógætinn
+incase s. sjá [encase]
+incautious l. óvarkár, ógætinn
 incautiousness n. gáleysi
-incavated (inkaveitid) l. holur
-incave (inkei'v) s. innibyrgja; sjá [encave]
-incendiary (insen'diari) n. brennuvargur; æsingamaður; l. sem lýtur að brennu; íkveikju-; uppreisnar-, æsingar- ([~ publication])
-incense (insens) n. reykelsi; s. brenna reykelsi í kringum; fylla ilmi, gera ilmandi ([~ the air])
-incense (insens') s. æsa upp til reiði, gera reiðan
+incavated l. holur
+incave s. innibyrgja; sjá [encave]
+incendiary n. brennuvargur; æsingamaður; l. sem lýtur að brennu; íkveikju-; uppreisnar-, æsingar- ([~ publication])
+incense n. reykelsi; s. brenna reykelsi í kringum; fylla ilmi, gera ilmandi ([~ the air])
+incense s. æsa upp til reiði, gera reiðan
 incensed l. reiður, æstur
-incensory (insensöri) n. reykelsisker
-incentive (insen'tiv) l. hvetjandi, upphvatningar-; n. upphvatning, áeggjun, hvöt
-inception (insep'shan) n. byrjun
-inceptive (insep'tiv) l. byrjandi
-incertitude (-sör'titjúd) n. óvissa
+incensory n. reykelsisker
+incentive l. hvetjandi, upphvatningar-; n. upphvatning, áeggjun, hvöt
+inception n. byrjun
+inceptive l. byrjandi
+incertitude n. óvissa
 incessant l. óaflátanlegur, óþrotlegur
 incessantly ao. í sífellu, stöðugt
 incest n. frændsemisspell, sifjaspell
-incestuous (inses'tjúas) l. sekur um sifjaspell; sem hefur sifjaspell í för með sér ([~ marriage])
-inch (insh) n. þumlungur; [~ by ~] smám saman; [by ~-es] í þumlungatali; smátt og smátt; [to an ~] nákvæmlega; s. fikra sig áfram eða aftur á bak; færa smátt og smátt
-inchmeal (-míl) ao. smátt og smátt; smám saman
-inchoate (inkóeit) s. byrja; l. byrjunar- ([in an ~ state])
-inchoative (-kó'ativ) l. byrjunar-; [in its ~ stage] á byrjunarstigi
-incidence (insidans) n. ákoma, áfall; fallstefna; framkoma ([~ of a heavy gale]); [angle of ~] aðkastshorn
+incestuous l. sekur um sifjaspell; sem hefur sifjaspell í för með sér ([~ marriage])
+inch n. þumlungur; [~ by ~] smám saman; [by ~-es] í þumlungatali; smátt og smátt; [to an ~] nákvæmlega; s. fikra sig áfram eða aftur á bak; færa smátt og smátt
+inchmeal ao. smátt og smátt; smám saman
+inchoate s. byrja; l. byrjunar- ([in an ~ state])
+inchoative l. byrjunar-; [in its ~ stage] á byrjunarstigi
+incidence n. ákoma, áfall; fallstefna; framkoma ([~ of a heavy gale]); [angle of ~] aðkastshorn
 incident l. sem kemur fram við e-ð, er samfara e-u, eiginlegt e-u ([to, on]); sem fellur á e-ð ([the light ~ on a picture]); [~ to human nature] mannlegri náttúru eiginlegur
 incident n. atburður, atvik
 incidental l. tilviljunarlegur, sem verður af hendingu; [~ to] sem er e-u samfara
 incidentally ao. af hendingu
-incinerate (insinn'areit) s. brenna til ösku
+incinerate s. brenna til ösku
 incineration n. brennsla
 incipience n. byrjun
 incipiency n. byrjun
-incipient (insipp'iant) l. byrjandi
-incise (insæz') s. skera í; gera skoru í; skera út
-incision (in-sizh'an) n. (í)skurður, skora
-incisive (insæ'siv) l. skerandi; hvass, skarpur
-incisor (insæ'-sar) n. framtönn
-incisure (in-sízh'ar) n. skurður
-incitation (insitei'shan) n. áeggjun, hvöt
-incite (insæt') s. eggja, hvetja
+incipient l. byrjandi
+incise s. skera í; gera skoru í; skera út
+incision n. (í)skurður, skora
+incisive l. skerandi; hvass, skarpur
+incisor n. framtönn
+incisure n. skurður
+incitation n. áeggjun, hvöt
+incite s. eggja, hvetja
 incitement n. áeggjun, hvöt
-incivility (-vill'iti) n. ókurteisi
-inclemency (inklemm'ansi) n. óblíða (veðráttunnar)
+incivility n. ókurteisi
+inclemency n. óblíða (veðráttunnar)
 inclement l. óblíður ([~ climate])
-inclinable (-klæ'nab'l) l. hneigður (til e-s [to]), hlynntur, hliðhollur (e-m [to]); sem er hætt við e-u ([~ to stammer])
-inclination (inklinei'shan) n. halli; tilhneiging, löngun (til e-s [to/for])
-incline (inklæn') s. hallast; hafa löngun til, hneigjast að ([to]); láta hallast; beygja, hneigja ([~ the head]); [~ one's ear to] ljá e-u eyra, hlusta á e-ð; [~ one to believe that] fá e-n til að ætla, að
+inclinable l. hneigður (til e-s [to]), hlynntur, hliðhollur (e-m [to]); sem er hætt við e-u ([~ to stammer])
+inclination n. halli; tilhneiging, löngun (til e-s [to/for])
+incline s. hallast; hafa löngun til, hneigjast að ([to]); láta hallast; beygja, hneigja ([~ the head]); [~ one's ear to] ljá e-u eyra, hlusta á e-ð; [~ one to believe that] fá e-n til að ætla, að
 inclined l. hallur; hneigður, fús
-incline (inklæn') n. halli, hallandi, brekka ([we rode up a steep ~])
-inclose (inklóz') s. sjá [enclose]
-inclosure (-kló'zhar) n. sjá [enclosure]
-include (inklúd') s. innibinda, fela í sér; ná yfir; telja (reikna) með
-inclusion (inklú'zhan) n. meðtalning
-inclusive (inklú'siv) l. umlykjandi; víðtækur, yfirgripsmikill; sem felur e-ð í sér ([~ of]); meðtalinn; [both ~] að báðum meðtöldum
+incline n. halli, hallandi, brekka ([we rode up a steep ~])
+inclose s. sjá [enclose]
+inclosure n. sjá [enclosure]
+include s. innibinda, fela í sér; ná yfir; telja (reikna) með
+inclusion n. meðtalning
+inclusive l. umlykjandi; víðtækur, yfirgripsmikill; sem felur e-ð í sér ([~ of]); meðtalinn; [both ~] að báðum meðtöldum
 inclusively ao. meðtalið, að meðtöldum ([~ or exclusively])
 incoercible l. óyfirbuganlegur
-incogitable (inkod'zhitab'l) l. óhugsanlegur, óhugsandi
+incogitable l. óhugsanlegur, óhugsandi
 incognito l. óþekktur; n. óþekktur maður; ao. undir röngu nafni
 incognita l. óþekkt; n. óþekkt kona; ao. undir röngu nafni
-incognizable (inkog'nizab'I) l. óþekkjanlegur
+incognizable l. óþekkjanlegur
 incognizant l. sein er ókunnugt um e-ð ([of])
 incoherence n. ósamhengi; ósamræmi
 incoherency n. ósamhengi; ósamræmi
@@ -607,100 +607,100 @@ inculpation n. ásökun, álas
 inculpatory l. ásakandi, lastandi; [~ words] lastyrði
 incumbency n. skylda, kvöð; byrði, þyngsli; prestsembætti
 incumbent l. sem liggur ofan á ([on]) e-u; [it is (a duty) ~ on me] skylda sem á mér hvílir; n. sá sem hefur embætti (einkum prestsembætti) á hendi ([the ~ of a living])
-incur (inkör') s. komast í ([~ danger, ~ a debt]); baka sér ([~ inconvenience])
+incur s. komast í ([~ danger, ~ a debt]); baka sér ([~ inconvenience])
 incurable l. ólæknandi
 incurableness n. ólæknanleiki
 incurability n. ólæknanleiki
 incuriosity n. áhugaleysi
-incurious (inkjú'rios) l. hirðulaus; óforvitinn
-incursion (inkör'shon) n. innrás (óvina)
+incurious l. hirðulaus; óforvitinn
+incursion n. innrás (óvina)
 incursive l. innrásar-
-incurvate (inkör'veit) s. beygja
+incurvate s. beygja
 incurvation n. beyging, bugða
-incurve (inkör'v) s. beygja, beygjast inn á við
-indebted (indett'id) l. skuldugur; skuldbundinn; [to be ~ to one for something] eiga e-m e-ð að þakka
-indecency (indí'sonsi) n. ósómi; skortur á velsæmi; ósiðlæti
-indecent (indí'sont) l. ósæmilegur; ósiðsamur, ósiðlátur
-indecision (-sizh'on) n. efablendni, úrræðaleysi
-indecisive (-sæ'siv) l. efablandinn, ráðalaus; sem ekki gerir út um; óákveðinn
-indeclinable (-klæ'nob'l) l. óbeyjanlegur; n. óbeygjanlegt orð
+incurve s. beygja, beygjast inn á við
+indebted l. skuldugur; skuldbundinn; [to be ~ to one for something] eiga e-m e-ð að þakka
+indecency n. ósómi; skortur á velsæmi; ósiðlæti
+indecent l. ósæmilegur; ósiðsamur, ósiðlátur
+indecision n. efablendni, úrræðaleysi
+indecisive l. efablandinn, ráðalaus; sem ekki gerir út um; óákveðinn
+indeclinable l. óbeyjanlegur; n. óbeygjanlegt orð
 indecorous l. ósæmilegur
-indecorum (-kö'rom) n. ósómi
-indeed (indíd') ao. í sannleika, að vísu, raunar; svo
-indefatigable (-fatt'igob'l) l. óþreytandi ([~ in his pursuit])
-indefeasible (-fi'zib'l) l. óhaggandi, óafmáanlegur ([an ~ right])
-indefectible (-fekt'ib'l) l. óþrotlegur
+indecorum n. ósómi
+indeed ao. í sannleika, að vísu, raunar; svo
+indefatigable l. óþreytandi ([~ in his pursuit])
+indefeasible l. óhaggandi, óafmáanlegur ([an ~ right])
+indefectible l. óþrotlegur
 indefective l. gallalaus
 indefensible l. óverjandi; óafsakanlegur, óréttlætanlegur
-indefinable (-fæ'nob'l) l. ólýsanlegur
-indefinite (indeff'init) l. ótiltekinn, óákveðinn; ótakmarkaður
+indefinable l. ólýsanlegur
+indefinite l. ótiltekinn, óákveðinn; ótakmarkaður
 indelible l. óafmáanlegur
-indelicacy (indell'ikosi) n. rustaskapur, klúrleiki
+indelicacy n. rustaskapur, klúrleiki
 indelicate l. rustalegur, klúr
 indemnification n. skaðabætur; uppbót
-indemnify (indem'nifæ) s. gera skaðlausan; tryggja (gegn e-u [against]); [~ one for his loss] bæta e-m (upp) skaðann
+indemnify s. gera skaðlausan; tryggja (gegn e-u [against]); [~ one for his loss] bæta e-m (upp) skaðann
 indemnity n. skaðabætur; trygging; undanþága undan refsingu
 indemonstrable l. ósannanlegur
 indent s. höggva (skera) skörð í, skerða; gera far eða laut í (með höggi); slá eða þrýsta inn; skerast inn í ([~ the coast]); koma (e-m) fyrir (í iðnaðarnám); n. vogur, vík
 indent n. dæld
 indented l. tenntur; vogskorinn ([~ coast])
 indentation n. skora, skarð; vogur, vík
-indenture (inden'-tjor) n. skriflegur samningur; námssamningur; s. ráða e-n með námssamningi
+indenture n. skriflegur samningur; námssamningur; s. ráða e-n með námssamningi
 independence n. sjálfstæði, frelsi
 independent l. óháður (e-m [of]); sjálfstæður, frjáls
-indescribable (-skræ'bob'l) l. ólýsanlegur, ósegjanlegur
+indescribable l. ólýsanlegur, ósegjanlegur
 indescribables n. ft. brækur, buxur
 indestructible l. óeyðanlegur
-indeterminable (tör'minob'I) l. sem ekki verður ákveðinn
+indeterminable l. sem ekki verður ákveðinn
 indeterminate l. óákveðinn; óskýr, vafasamur
 indetermination n. hvikulleiki, hik
-index (indeks) n. vísir (á sólúri); efnisyfirlit, registur; vísifingur; [~ number] vísitala; s. semja registur yfir e-ð
+index n. vísir (á sólúri); efnisyfirlit, registur; vísifingur; [~ number] vísitala; s. semja registur yfir e-ð
 India n. Indland
 India rubber n. gúttaperka, togleður
 Indian l. indverskur; af frumbyggjaættum vestanhafs; n. Indverji; indjáni (frumbyggi Nýja heimsins)
 indicate s. benda á, gefa til kynna
 indication n. bending, merki
-indicative (-dikk'ativ) l. sem bendir á ([of]); n. framsöguháttur ([~ mode])
-indicator (indikeitar) n. sá eða það, sem bendir á eða gefur til kynna
+indicative l. sem bendir á ([of]); n. framsöguháttur ([~ mode])
+indicator n. sá eða það, sem bendir á eða gefur til kynna
 indicatory l. ábendandi, tilvísandi
-indict (indæt') s. stefna, kæra ([~ one for a crime])
+indict s. stefna, kæra ([~ one for a crime])
 indictable l. sem getur valdið kæru ([~ offences])
 indictee n. sakborningur, stefndi
 indictment n. kæra; kærurit, kæruskjal
 indifference n. afskiptaleysi, hirðuleysi; óhlutdrægni
 indifferent l. óvilhallur ([~ judge]); þýðingarlaus; lakur, lélegur ([in ~ condition]); afskiptalaus; [it is ~ to me] mér stendur á sama
 indifferentism n. afskiptaleysi (í trúarefnum)
-indigence (indidzhans) n. fátækt
-indigent (indidzhant) l. fátækur
-indigenous (indid'zhinas) l. innlendur, innlenskur
-indigestible (-dzhes'tib'l) l. ómeltanlegur
-indigestion (-dzhes'-tjan) n. meltingarleysi, meltingartruflun ([he was suffering from a bad case of ~])
-indigestive (-dzhes'tiv) l. sem hefur slæma meltingu
+indigence n. fátækt
+indigent l. fátækur
+indigenous l. innlendur, innlenskur
+indigestible l. ómeltanlegur
+indigestion n. meltingarleysi, meltingartruflun ([he was suffering from a bad case of ~])
+indigestive l. sem hefur slæma meltingu
 indignant l. (sár)reiður, gremjufullur ([at something, with a person])
 indignation n. reiði, gremja
 indignity n. móðgun, smánarleg meðferð, óhæfa, svívirðing
-indigo (indigó) n. blásteinn
+indigo n. blásteinn
 indirect l. óbeinn, krókóttur
-indirection (-rek'shon) n. krókaleið; [by ~] óbeinlínis
+indirection n. krókaleið; [by ~] óbeinlínis
 indirectly ao. ekki beint áfram, óbeinlínis
 indirectness n. óbein stefna; óhreinlyndi, undirferli
-indiscernible (-sör'nib'l) l. ósjáanlegur, ógreinanlegur
+indiscernible l. ósjáanlegur, ógreinanlegur
 indiscreet l. ógætinn, óvarkár; óþagmælskur, málugur; framur
-indiscretion (-kresh'an) n. óvarkárni; óþagmælska; framhleypni
+indiscretion n. óvarkárni; óþagmælska; framhleypni
 indiscriminate l. sem ekki gerir greinarmun; gerður án greinarmunar, af handahófi; almennur
 indiscriminately ao. án greinarmunar, af bandahófi, hver um annan þveran
 indiscriminating l. sem ekki gerir neinn greinarmun ([~ beneficence])
 indispensable l. ómissandi, bráðnauðsynlegur (e-m [for, to]); óhjákvæmilegur ([~ duty])
 indispose s. gera óhæfan (ófúsan); gera óvinveittan (e-m [against])
 indisposed l. lasinn; ófús, tregur; fráhverfur (e-m [towards])
-indisposition (-zish'on) n. ófýsi, tregða; lasleiki; óvild (til e-s [towards])
-indisputable (-pjú'tab'l) l. ómótmælanlegur, óefanlegur
+indisposition n. ófýsi, tregða; lasleiki; óvild (til e-s [towards])
+indisputable l. ómótmælanlegur, óefanlegur
 indissoluble l. óuppleysanlegur, órjúfanlegur
 indistinct l. ógreinilegur, óljós ([~ recollection])
 indistinctly ao. ógreinilega
 indistinguishable l. ósundurgreinanlegur; ómerkjanlegur
-indite (indæt') s. semja; rita
-individual (-vidd'júal) l. einstakur, sérstakur; einstaklegur; n. einstaklingur, persóna
+indite s. semja; rita
+individual l. einstakur, sérstakur; einstaklegur; n. einstaklingur, persóna
 individuality n. einstakleiki, einstaklingseðli, persónuleiki; einstaklingur
 individualize s. gera sérstaklegt; einkenna; nefna sérstaklega
 individually ao. einstaklega, hver um sig, hver í sínu lagi
@@ -800,7 +800,7 @@ infamy n. illræmi, svívirðing, vansæmd
 infancy n. bernska, barnsaldur
 infant n. ungbarn; spænskur prins; l. barnslegur, óþroskaður; ómálga, kornungur ([her ~ son])
 infanta n. spænsk prinsessa
-infanticide (-sæd) n. barnamorð; barnamorðingi
+infanticide n. barnamorð; barnamorðingi
 infantile l. barnslegur, ungæðislegur; bernsku-
 infantine l. barnslegur, ungæðislegur; bernsku-
 infantry n. fótgöngulið
@@ -814,11 +814,11 @@ infective l. smitandi, sóttnæmur, afsýkjandi
 infelicitous l. ólánsamur, óhappalegur
 infelicity n. ólán, óhapp
 infer s. leiða af sér, valda; fela í sér; draga ályktun, álykta (af [from])
-inference (in-farans) n. ályktun
-inferential (infaren'shal) l. sem lýtur að ályktun
-inferior (infí'riar) l. lægri; óæðri; lakari ([of ~ quality]); [~ to one in something] sem stendur að baki e-m í e-u; n. undirmaður ([he did not deign to speak to his ~s])
+inference n. ályktun
+inferential l. sem lýtur að ályktun
+inferior l. lægri; óæðri; lakari ([of ~ quality]); [~ to one in something] sem stendur að baki e-m í e-u; n. undirmaður ([he did not deign to speak to his ~s])
 inferiority n. lægri staða; lakari tegund; minni máttur ([his ~ in conversation])
-infernal (inför'nal) l. helvískur; andstyggilegur; [the ~s] undirheimabúar
+infernal l. helvískur; andstyggilegur; [the ~s] undirheimabúar
 infernalize s. gera djöfullegt
 infernally ao. á helvískan (andstyggilegan) hátt
 inferno n. víti; vítiseldur
@@ -834,72 +834,72 @@ infinitesimal l. óendanlega lítill (smár)
 infinitive l. óákveðinn; [the ~ (mood)] nafnháttur
 infinitude n. óendanleiki; ótal ([an ~ of])
 infinity n. óendanleiki; ótal ([an ~ of])
-infirm (inför'm) l. óstyrkur; lasburða, veikur ([old and ~])
+infirm l. óstyrkur; lasburða, veikur ([old and ~])
 infirmary n. sjúkrahús
 infirmity n. óstyrkur, veikleiki; sjúkdómur; breyskleiki
-infix (infik's) s. reka (festa) í; innræta; [~ in the mind] hugfesta
-inflame (infleim') s. setja eld í; hleypa bólgu í ([~ the eyes]); hleypa hita í; æsa; egna; þrútna, bólgna
+infix s. reka (festa) í; innræta; [~ in the mind] hugfesta
+inflame s. setja eld í; hleypa bólgu í ([~ the eyes]); hleypa hita í; æsa; egna; þrútna, bólgna
 inflammability n. eldfimi; bráðlyndi ([~ of temper])
-inflammable (inflámm'ab'l) l. eldnæmur, eldfimur; bráður
+inflammable l. eldnæmur, eldfimur; bráður
 inflammation n. logi, bál; æsing; bólga
 inflammatory l. æsandi; bólgu- ([~ sore])
 inflate s. blása upp; belgja upp; gera hreykinn ([~ with pride]); fylla með lofti
 inflated l. hrokafullur; íburðarmikill (um rithátt)
-inflation (inflei'-shan) n. uppblástur; hroki; íburður (í rithætti); verðbólga, óeðlileg verðhækkun (á verðbréfum o.fl.)
+inflation n. uppblástur; hroki; íburður (í rithætti); verðbólga, óeðlileg verðhækkun (á verðbréfum o.fl.)
 inflect s. beygja, sveigja
-inflection (inflek'shan) n. beyging, sveiging; bugða
+inflection n. beyging, sveiging; bugða
 inflectional l. beygingar-
 inflective l. beygjandi, beygingar-
-inflexed (inflek'st) l. innbeygður
+inflexed l. innbeygður
 inflexibility n. óbeygjanleiki, ósveigjanleiki
 inflexible l. óbeygjanlegur, ósveigjanlegur
 inflict s. leggja á ([~ punishment on]); veita ([~ a wound on])
-infliction (inflik'shon) n. álagning (refsingar); refsing
+infliction n. álagning (refsingar); refsing
 inflictive l. refsandi
 inflorescence n. blómskrúð
 inflow n. sjá [influx]
 influence n. áhrif; s. hafa áhrif á
-influential (-en'-shal) l. sem má sín mikils (hjá e-m [with]), hefur mikil áhrif á
-influenza (inflúen'za) n. kvefsótt
+influential l. sem má sín mikils (hjá e-m [with]), hefur mikil áhrif á
+influenza n. kvefsótt
 influx n. innstreymi, aðstreymi; aðsókn (af mönnum)
 inform s. láta vita, fræða um ([of]); [~ against] kæra, uppljóstra; [~ one with something] blása e-m í brjóst, vekja (t.d. löngun) hjá e-m
 informant n. sögumaður; kærandi; uppljóstrari
 information n. upplýsingar; vitneskja, vísbending; þekking, kunnátta; kæra ([lay an ~ against])
 informer n. ákærandi; sögumaður; uppljóstrari
-informal (infor'mal) l. óreglulegur, óformlegur; látlaus, viðhafnarlaus
+informal l. óreglulegur, óformlegur; látlaus, viðhafnarlaus
 informality n. óformlegheit; formgalli
-infraction (infrak'shan) n. brot ([~ of the law]); [~ of faith] tryggðarof
-infrequency (infrí'kvansi) n. fátíðleikur
+infraction n. brot ([~ of the law]); [~ of faith] tryggðarof
+infrequency n. fátíðleikur
 infrequent l. fátíður, fáséður
-infrigidate (infrid'zhideit) s. kæla
+infrigidate s. kæla
 infrigidation n. kæling
-infringe (infrin'dzh) s. brjóta. rjúfa; [~ on the rights of] veita (e-m) yfirgang, brjóta á réttindum e-s
+infringe s. brjóta. rjúfa; [~ on the rights of] veita (e-m) yfirgang, brjóta á réttindum e-s
 infringement n. brot, rof (á samningi); skerðing (réttar)
-infructuous (infrpk'tjúas) l. ófrjór; árangurslaus, gagnslaus
-infuriate (infjú'rieit) s. gera bálreiðan
+infructuous l. ófrjór; árangurslaus, gagnslaus
+infuriate s. gera bálreiðan
 infuriated l. bálreiður, uppvægur
-infuse (infjúz') s. hella inn, hella á; [~ new life into] vekja nýtt líf hjá
-infusible (-fjú'zib'l) l. óbræðanlegur
-infusion (infjú'zhan) n. áhelling; innblástur ([~ of ardour, zeal])
-infusoria (infjúsö'ria) n. ft. skólpdýr
-ingathering (ingáððariN) n. hirðing, uppskera ([the ~ of his hay])
-ingeminate (indzhem'ineit) s. tvítaka, endurtaka e-ð
+infuse s. hella inn, hella á; [~ new life into] vekja nýtt líf hjá
+infusible l. óbræðanlegur
+infusion n. áhelling; innblástur ([~ of ardour, zeal])
+infusoria n. ft. skólpdýr
+ingathering n. hirðing, uppskera ([the ~ of his hay])
+ingeminate s. tvítaka, endurtaka e-ð
 ingemination n. tvítekning, þrítekning
-ingenious (indzhi'nias) l. hugvitssamur; hugvitsamlegur ([an ~ contrivance])
-ingenuity (in-dzhinjú'iti) n. hugvit, skarpskyggni, ráðkænska
-ingenuous (indzhan'júas) l. göfugur; opinskár, hreinskilinn
+ingenious l. hugvitssamur; hugvitsamlegur ([an ~ contrivance])
+ingenuity n. hugvit, skarpskyggni, ráðkænska
+ingenuous l. göfugur; opinskár, hreinskilinn
 ingenuousness n. hreinskilni, hreinlyndi, einlægni
-inglorious (inglö'rias) l. frægðarlaus; ófrægilegur, vansæmandi
-ingot (ÍNgöt) n. málmstöng
-ingraft (ingráft') s. rótfesta, gróðursetja viðargrein í öðru tré
-ingrained (ingreind) l. rótgróinn ([an old ~ prejudice])
-ingratiate (ingrei'shieit) s. [~ one with/into the favour of] koma sér í mjúkinn við e-n, hjá e-m
+inglorious l. frægðarlaus; ófrægilegur, vansæmandi
+ingot n. málmstöng
+ingraft s. rótfesta, gróðursetja viðargrein í öðru tré
+ingrained l. rótgróinn ([an old ~ prejudice])
+ingratiate s. [~ one with/into the favour of] koma sér í mjúkinn við e-n, hjá e-m
 ingratiation n. það að koma sér við e-n
-ingratitude (ingratt'itjúd) n. óþakklæti, vanþakklæti
+ingratitude n. óþakklæti, vanþakklæti
 ingravescent l. versnandi
-ingredient (ingrí'diant) n. innihaldsefni, efnispartur
+ingredient n. innihaldsefni, efnispartur
 ingress n. innganga; aðgangur
-inguinal (ÍNgwinal) l. sem heyrir til náranum, nára-
+inguinal l. sem heyrir til náranum, nára-
 ingulf s. gleypa (sloka) í sig; [~ oneself, to be ~ed] falla út í hafið; hverfa niður í jörðina (um á); sbr. [engulf]
 ingurgitate s. gleypa (sloka, svolgra) í sig
 inhabit s. byggja, búa í; búa; [much ~ed] fjölbyggður
@@ -919,25 +919,25 @@ inheritable l. arfgengur
 inheritance n. arfur, erfð, arfleifð; [by ~] aðerfðum
 inheritor n. erfingi
 inheritress n. kvennerfingi
-inhesion (inhi'zhan) n. ívera
-inhibit (inhibb'it) s. aftra, hindra; banna
-inhibition (-bish'an) n. hindrun; bann
+inhesion n. ívera
+inhibit s. aftra, hindra; banna
+inhibition n. hindrun; bann
 inhibitory l. aftrandi, hindrandi
 inhospitable l. ógestrisinn
-inhospitality (-tall'iti) n. ógestrisni
-inhuman (inhjú'man) l. ómannúðlegur, grimmur; ómannlegur
-inhumane (-mein') l. ómannúðlegur
-inhumanity (-mann'iti) n. ómannúð, grimmd
-inhumate (inhjú'meit) s. jarða, greftra
+inhospitality n. ógestrisni
+inhuman l. ómannúðlegur, grimmur; ómannlegur
+inhumane l. ómannúðlegur
+inhumanity n. ómannúð, grimmd
+inhumate s. jarða, greftra
 inhumation n. greftrun
-inhume (inhjúm') s. jarða, greftra
+inhume s. jarða, greftra
 inimical l. óvinveittur; illviljaður; skaðlegur (e-u, fyrir e-ð [to])
 inimitable l. óeftirlíkjanlegur; óviðjafnanlegur ([~ beauty])
-iniquitous (inikk'witas) l. ranglátur, rangur
-iniquity (inikk'-witi) n. ranglæti, rangindi; misgerð
-initial (inish'al) l. byrjandi, byrjunar-; n. upphafsstafur
+iniquitous l. ranglátur, rangur
+iniquity n. ranglæti, rangindi; misgerð
+initial l. byrjandi, byrjunar-; n. upphafsstafur
 initially ao. upphaflega, í byrjun
-initiate (inish'ieit) s. kenna frumatriðin ([~ in the elements of]); taka upp í félag ([~ into a society]); byrja
+initiate s. kenna frumatriðin ([~ in the elements of]); taka upp í félag ([~ into a society]); byrja
 initiation n. byrjun; frumkennsla; vígsla
 initiative l. fyrstur, byrjunar-; n. byrjun; frumkvæði, frumkvæðisréttur ([to possess/have the ~])
 initiatory (inish'iatöri) l. byrjunar-; [~ step] fyrsta stig
@@ -987,20 +987,20 @@ inoccupation n. iðjuleysi
 inoculate (inokk'júleit) s. bólusetja; gróðursetja viðargrein (í annað tré); koma e-u inn hjá e-m ([~ one with wisdom, bad spirits])
 inoculation n. bólusetning; gróðursetning
 inoculator n. bólusetjari
-inodorous (inó'döras) l. þeflaus, lyktarlaus ([an ~ liquor])
+inodorous l. þeflaus, lyktarlaus ([an ~ liquor])
 inoffensive l. meinlaus, skaðlaus
-inofficial (-fish'al) l. óformlegur; óembættislegur
+inofficial l. óformlegur; óembættislegur
 inoperative l. áhrifalaus; ógildur
 inopportune l. óhentugur
 inordinate (inör'dinat) l. óhóflegur; óreglulegur; óreglusamur
 inorganic (inörgann'ik) l. ólífrænn ([~ matter]); líffæralaus
 inornate l. óbreyttur, látlaus, óskreyttur
-inquest, (ink'west) n. rannsókn; kviðdómur ([the grand ~, grand jury])
+inquest n. rannsókn; kviðdómur ([the grand ~, grand jury])
 inquire s. spyrja um, grennslast eftir ([after, for]); [~ into] rannsaka, prófa
 inquirer n. rannsóknari, eftirgrennslari; spyrjandi
-inquiry (inkwæ'ri) n. spurning; fyrirspurn; rannsókn
-inquisition (inkwizish'an) n. rannsókn; [the Court of Inquisition] rannsóknarrétturinn
-inquisitive (in-kwiz'itiv) l. spurull, forvitinn
+inquiry n. spurning; fyrirspurn; rannsókn
+inquisition n. rannsókn; [the Court of Inquisition] rannsóknarrétturinn
+inquisitive l. spurull, forvitinn
 inquisitiveness n. forvitni
 inquisitor (inkAvizz'itar) n. rannsóknardómari; rannsóknari
 inquisitorial l. rannsóknarlegur

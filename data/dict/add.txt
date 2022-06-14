@@ -149,7 +149,6 @@ gasoline n. bensín
 halloween n. hrekkjavaka
 headphones n. ft. heyrnartól
 homework n. heimavinna
-homepage n. heimasíða (á veraldarvefnum)
 investor n. fjárfestir
 mega- fsk. ofur-
 methodology n. aðferðafræði; [his ~ was flawed] hann beitti gölluðum aðferðum
@@ -200,7 +199,7 @@ hormone n. hormón, hormóni, vaki, kirtlavaki (boðefni sem fjölfruma lífvera
 lesbian n. lesbía, samkynhneigð kona; l. lesbískur
 nylon n. nælon (gerviefni)
 refinance s. endurfjármagna
-expertise n. sérfræðiþekking, sérþekking, sérfræðikunnátta
+expertise n. sérfræðiþekking, sérþekking, sérfræðikunnátta; [area of expertise] sérsvið
 internet n. internet, alnet, víðnet (oft skrifað með stórum staf, [the Internet])
 surfboard n. brimbretti
 rollerskate n. hjólaskauti; s. ferðast á hjólaskautum
@@ -465,7 +464,6 @@ biodiversity n. líffræðileg fjölbreytni, fjölbreytni lífríkis, líffjölb
 bioengineering n. líftækni, lífverkfræði
 bioengineer n. líftæknifræðingur
 confidentiality n. trúnaður
-computation n. útreikningur
 lyrebird n. lýrufugl (e.k. spörfugl)
 porn n. klám (óforml. stytting á [pornography])
 natural language processing n. máltækni, málgreining
@@ -825,3 +823,10 @@ zero gravity n. þyngdarleysi (t.d. í geimskipi eða geimstöð)
 amplifier n. magnari
 amp n. magnari (stytt. á [amplifier])
 erotica n. kynæsandi bækur, list eða myndefni
+gram n. gramm
+patriarchy n. feðraveldi
+matriarchy n. mæðraveldi
+matriarch n. ættmóðir
+matriarchal l. ættmæðra-
+zucchini n. kúrbítur
+courgette n. kúrbítur

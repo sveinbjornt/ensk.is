@@ -358,7 +358,7 @@ oratress n. mælskukona, ræðukona
 orb n. hringur; kringla; hnöttur; augasteinn, auga; tímaskeið; s. gera hnöttótt, kringlótt; umlykja, inniloka
 orbed l. kringlóttur, hringmyndaður, hnöttóttur
 orbicular l. kringlóttur, hringmyndaður, hnöttóttur
-orbit  n. braut himintungla, sporbaugur; augnatóft; augnaskinn (á fugli)
+orbit n. braut himintungla, sporbaugur; augnatóft; augnaskinn (á fugli)
 Orcadian l. orkneyskur; n. Orkneyingur
 orchard n. aldingarður
 orchestra n. hljóðfærasvið í leikhúsi milli leiksviðs og áhorfenda; hljóðfærasveit
@@ -452,19 +452,19 @@ ostiary n. dyravörður
 ostler n. hestasveinn (í gistingahúsi)
 ostracism n. skeljadómur, útlegðardómur
 ostracize s. gera útlægan með skeljadómi
-ostrich (ostritsh) n. strútur, strútsfugl; [~ feather] strútsfjöður
-other (þððar) l. annar; [each ~] hvor (hver) annan; [the ~] hinn; [the ~ day] um daginn; [every ~ day] annan hvern dag
+ostrich n. strútur, strútsfugl; [~ feather] strútsfjöður
+other l. annar; [each ~] hvor (hver) annan; [the ~] hinn; [the ~ day] um daginn; [every ~ day] annan hvern dag
 otherwise ao. öðruvísi, á annan hátt ([other people think ~]); annars kostar; að öðru leyti
-otiose (óshiós) l. iðjulaus; fánýtur
-otitis (otæ'tis) n. eyrnabólga
-otolith (ótöliþ) n. kvöm í fiskhaus
+otiose l. iðjulaus; fánýtur
+otitis n. eyrnabólga
+otolith n. kvöm í fiskhaus
 otology n. eyrnafræði
-otoscope (skóp) n. eyrnakanni; eyrnaspegill
+otoscope n. eyrnakanni; eyrnaspegill
 otter n. otur; e.k. veiðarfæri, lóð
 Ottoman l. tyrkneskur; n. Tyrki; (baklaus) hvílubekkur
-ought (öt) s. [I ~] ég á, mér ber; ég átti (ætti), mér bar (bæri); [you ~ to have] þú hefðir átt að
-ounce (áns) n. únsa (mælieining)
-our (ár) fn. (haft með nafnorði) vor, okkar
+ought s. [I ~] ég á, mér ber; ég átti (ætti), mér bar (bæri); [you ~ to have] þú hefðir átt að
+ounce n. únsa (mælieining)
+our fn. (haft með nafnorði) vor, okkar
 ours fn. okkar, vor
 ourself fn. vér (um konunga og rithöfunda)
 ourselves fn. við, vér; sjálfa oss (okkur sjálfa); (við, vér) sjálfir
@@ -567,18 +567,18 @@ outwit s. leika á (e-n)
 outwork s. vinna meira en
 outwork n. útvígi, útvirki
 outworn l. útslitinn
-ouzel (úz'l) n. e.k. þröstur ([ring ~]); [water ~] keldusvín
-oval (óval) l. eggmyndaður, eins og sporbaugur í lögun
+ouzel n. e.k. þröstur ([ring ~]); [water ~] keldusvín
+oval l. eggmyndaður, eins og sporbaugur í lögun
 ovalbumen n. hvíta í eggi
-ovary (óvari) n. eggjakerfi
-ovated (óveitid) l. eins og egg í lögun, eggmyndaður
-ovation (övei'shan) n. fagnaðarviðtaka; sigurhelgi (hjá Rómverjum)
-oven (0v'n) n. bökunarofn
+ovary n. eggjakerfi
+ovated l. eins og egg í lögun, eggmyndaður
+ovation n. fagnaðarviðtaka; sigurhelgi (hjá Rómverjum)
+oven n. bökunarofn
 over fs. & ao. yfir um; úti ([the day is ~]); [~ night] um nóttina; eftir ([to leave ~]); of ([not ~ well]); fyrir handan ([~ the water]); [it is all ~ with him] það er úti um hann; [~ against] andspænis; [~ again] einu sinni enn þá; að nýju; [~ and ~ again] hvað eftir annað
 overabound s. vera til í ofmikilli mergð eða gnótt
-overall (-öl) n. utanyfirfat; ft. utanyfirbuxur, reiðbuxur; vinnuföt
-overawe (ö') s. gagntaka með lotningarótta, ægja
-overbalance (-báll'ans) s. vera þyngri; [to ~ oneself] missa jafnvægið; n. yfirvigt; [a large ~] mikill meirihluti
+overall n. utanyfirfat; ft. utanyfirbuxur, reiðbuxur; vinnuföt
+overawe s. gagntaka með lotningarótta, ægja
+overbalance s. vera þyngri; [to ~ oneself] missa jafnvægið; n. yfirvigt; [a large ~] mikill meirihluti
 overbear s. undiroka
 overbearing l. hrokafullur, ofstopafullur
 overboard ao. útbyrðis, fyrir borð

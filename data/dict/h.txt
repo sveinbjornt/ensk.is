@@ -71,8 +71,8 @@ hallucination n. ofskynjun, ofheyrn, ofsjónir, kvikskynjun
 halo n. geislabaugur (utan um höfuð helgra manna); rosabaugur
 halt s. nema staðar, standa við; vera haltur; vera á báðum áttum; stöðva; n. viðstaða ([to make ~]); l. haltur
 halting l. haltur; hikandi, á báðum áttum
-halter (höltar) n. múll (við hest); hengingaról, snara; s. leggja múl við, mýla (hest); binda snöru um háls e-s, hengja e-n í snöru
-halting-place (höItÍN-pleis) n. áfangastaður
+halter n. múll (við hest); hengingaról, snara; s. leggja múl við, mýla (hest); binda snöru um háls e-s, hengja e-n í snöru
+halting-place n. áfangastaður
 halve s. helminga
 halyard n. kaðall til að draga segl o.fl. upp eða niður
 ham n. svínslæri (saltað eða reykt); hnésbót
@@ -80,8 +80,8 @@ hamstring n. hnésbótarsin; s. skera á hnésbótarsinarnar
 hamlet n. smáþorp
 hammer n. hamar; s. reka eða berja með hamri
 hammock n. hengirúm
-hamper n.stór karfa; s. fjötra, flækja, hindra; [~ a lock] ónýta, skemma lás
-hand (hánd) n. hönd; hlið; vísir (á klukku); rithönd; verkmaður; maður; [all ~-s on board perished] allir skipverjar létust; [they are already ~ and glove (~ in glove)] þeir eru þegar orðnir mestu mátar; [at the ~-s of] af e-s hendi, frá e-m; [to buy at the best ~] kaupa ódýrt; [at ~] við höndina ([near at ~]); fyrir höndum, í vændum ([great changes were at ~]); [at no ~] engan veginn; [on ~] fyrirliggjandi; [(embroidery) done by ~] handsaumaður, handunninn; [to take in ~] taka að sér; [the work is now well in ~] vel á veg komið; [off ~, out of ~] undirbúningslaust, þegar í stað; [to live from ~ to mouth] hafa til hnífs og skeiðar; [to have a ~ in] eiga þátt í (hlut að) e-n; [money in ~] reiðupeningar, handbært fé; [the mountains on either ~] á báðar hendur; [to come to ~] koma til skila (um bréf); [on all ~-s, on every ~] í (eða úr) öllum áttum, allsstaðar; af öllum; [to put the last (finishing) ~ to the work] leggja síðustu hönd á verkið; [~-s up!] hendurnar upp! s. hjálpa; rétta; afhenda, fá í hendur; taka (segl) saman ([~ a sail])
+hamper n. stór karfa; s. fjötra, flækja, hindra; [~ a lock] ónýta, skemma lás
+hand n. hönd; hlið; vísir (á klukku); rithönd; verkmaður; maður; [all ~-s on board perished] allir skipverjar létust; [they are already ~ and glove (~ in glove)] þeir eru þegar orðnir mestu mátar; [at the ~-s of] af e-s hendi, frá e-m; [to buy at the best ~] kaupa ódýrt; [at ~] við höndina ([near at ~]); fyrir höndum, í vændum ([great changes were at ~]); [at no ~] engan veginn; [on ~] fyrirliggjandi; [(embroidery) done by ~] handsaumaður, handunninn; [to take in ~] taka að sér; [the work is now well in ~] vel á veg komið; [off ~, out of ~] undirbúningslaust, þegar í stað; [to live from ~ to mouth] hafa til hnífs og skeiðar; [to have a ~ in] eiga þátt í (hlut að) e-n; [money in ~] reiðupeningar, handbært fé; [the mountains on either ~] á báðar hendur; [to come to ~] koma til skila (um bréf); [on all ~-s, on every ~] í (eða úr) öllum áttum, allsstaðar; af öllum; [to put the last (finishing) ~ to the work] leggja síðustu hönd á verkið; [~-s up!] hendurnar upp! s. hjálpa; rétta; afhenda, fá í hendur; taka (segl) saman ([~ a sail])
 handbarrow n. handbörur
 handbill n. prentað auglýsingablað
 handbook n. handbók
@@ -205,19 +205,19 @@ haruspicy n. innyflaspádómur
 harvest n. uppskera; uppskerutími; s. skera upp (korn); bera úr býtum; spara
 harvester n. uppskerumaður
 harvest home n. uppskeruveisla; uppskerulok
-hash (hash) s. brytja, saxa ([~ up]); saxað kjöt (blandað kálmeti)
-hasp (hásp) n. hespa (fyrir hurð); garnhespa; s. loka með hespu
-hastate (hasteit) l. spjótmyndaður ([~ weapons])
-haste (heist) n. flýtir, hraði; [to make ~] flýta sér; [hasten] s. flýta sér; flýta fyrir e-u
-hastily (heistili) ao. með hraða, í flýti; fljótfærnislega
-hastiness (heisti-) n. fljótræði, bráðlæti; flaustur, óðagot
-hasty (heisti) l. fljótlyndur, bráðlátur; hvatvíslegur; fljótþroska (um ávexti); [~ in temper] bráður í skapi; [~ pudding] mjölbúðingur, mjölgrautur
-hat (hatt) n. hattur
+hash s. brytja, saxa ([~ up]); saxað kjöt (blandað kálmeti)
+hasp n. hespa (fyrir hurð); garnhespa; s. loka með hespu
+hastate l. spjótmyndaður ([~ weapons])
+haste n. flýtir, hraði; [to make ~] flýta sér; [hasten] s. flýta sér; flýta fyrir e-u
+hastily ao. með hraða, í flýti; fljótfærnislega
+hastiness n. fljótræði, bráðlæti; flaustur, óðagot
+hasty l. fljótlyndur, bráðlátur; hvatvíslegur; fljótþroska (um ávexti); [~ in temper] bráður í skapi; [~ pudding] mjölbúðingur, mjölgrautur
+hat n. hattur
 hat brim n. hattbarð
 hatmaker n. hattari
 hatter n. hattari
-hatable (heitab'l) l. hatursverður, hatanlegur
-hatch (hatsh) s. klekja (unga) út; vera klakinn út; hugsa upp; n. útklakning; ungar (úr einu hreiðri); lúkugat á skipsþiljum og lokan yfir því
+hatable l. hatursverður, hatanlegur
+hatch s. klekja (unga) út; vera klakinn út; hugsa upp; n. útklakning; ungar (úr einu hreiðri); lúkugat á skipsþiljum og lokan yfir því
 hatchway n. lúkugat á skipsþiljum
 hatchel n. hörkambur, hampkambur; s. hreinsa hör eða hamp með kambi, kemba (hör)
 hatchet n. lítil öxi, handöxi; [to fling the ~] ýkja
@@ -228,7 +228,7 @@ hatefulness n. heiftúð, illvilji
 hater n. hatari
 hatred n. hatur; óbeit
 hauberk n. brynhálsbjörg
-haughtiness (höti-) n. dramb, hroki
+haughtiness n. dramb, hroki
 haughty l. drambsamur
 haul s. draga, draga upp ([~ in the net, ~ anchor]); toga (í e-ð [at, upon]); kalla e-n fyrir ([~ up]); beita upp í vindinn ([~ upon/to the wind, ~ the/her wind]); halda (sigla) í e-a átt; [~ off] fara (halda) undan; (um vindinn) ganga í aðra átt ([the wind ~ed to the southward, is ~ing round]); n. dráttur ([~ of a net]); fiskdráttur ([a good ~ of fish]); veiði, góður fengur
 haulm n. hálmur
@@ -295,7 +295,7 @@ headwind n. mótviðri
 headwork n. andlegt erfiði
 head workman n. formaður verkamanna
 heady l. framhleypinn, flumósa; einþykkur, þrár; ofsafenginn; stríður (um straum); áfengur (um drykk) [a ~ brew]
-head (hedd) s. vera (fara) á undan e-u; vera fyrir, stýra, skrifa fyrir ofan; setja hausa á (nagla); botna (tunnu); standa efstur (á skrá); komast fram fyrir eða fram úr ([~ off]); fara fyrir upptökin á, fara í kringum ([~ a river, lake]); spretta upp (um ár); stefna, halda; [the wind ~s us] vindurinn blæs beint á móti okkur; [an article ~ed] grein með fyrirsögninni; [~ed by a band] með söngflokk í fararbroddi
+head s. vera (fara) á undan e-u; vera fyrir, stýra, skrifa fyrir ofan; setja hausa á (nagla); botna (tunnu); standa efstur (á skrá); komast fram fyrir eða fram úr ([~ off]); fara fyrir upptökin á, fara í kringum ([~ a river, lake]); spretta upp (um ár); stefna, halda; [the wind ~s us] vindurinn blæs beint á móti okkur; [an article ~ed] grein með fyrirsögninni; [~ed by a band] með söngflokk í fararbroddi
 header n. sá sem setur haus á nagla (títuprjóna); flokksforingi; stökk á höfuðið (í vatn)
 heading n. yfirskrift ([~ of a letter]); kafli (í bók)
 heal s. lækna; græða (sár, [~ up, over]); gróa, batna
@@ -308,7 +308,7 @@ healthful l. heilsugóður, heill heilsu; heilnæmur
 healthfulness n. heilsa; heilnæmi
 healthy l. heilsugóður; heilnæmur; heilsusamlegur
 heap n. hrúga; hópur; [all of a ~] allt í einu; [a ~ of times] margsinnis; s. hrúga (hauga) saman; [~ed measure] kúfmál
-hear (hír) s. heyra; heyra til e-s; hlusta á; bænheyra; frétta (um e-ð [of, about]); yfirheyra, prófa ([~ a plaintiff]); [~ from one] frétta af e-m; [I heard him groan] ég heyrði hann stynja; [I ~ say (tell)] ég heyri sagt; [he would not ~ of her going] hann vildi ekki heyra það nefnt að hún færi
+hear s. heyra; heyra til e-s; hlusta á; bænheyra; frétta (um e-ð [of, about]); yfirheyra, prófa ([~ a plaintiff]); [~ from one] frétta af e-m; [I heard him groan] ég heyrði hann stynja; [I ~ say (tell)] ég heyri sagt; [he would not ~ of her going] hann vildi ekki heyra það nefnt að hún færi
 hearer n. áheyrandi
 hearing n. heyrn; áheyrn; próf (í máli); [to get (to have) a ~] fá hljóð; [to give a ~] gefa hljóð; [dull of ~] með slæma heyrn
 hearken s. hlusta, hlýða á
@@ -671,7 +671,7 @@ hocus-pocus n. sjónhverfingamaður; sjónhverfingar, brögð; s. gera sjónhver
 hod n. kalktrog
 hodman n. vikasveinn (múrara)
 hodge-podge n. réttur úr alls konar grænmeti og smáum kjötbitum; samsull; s. hræra saman
-hoe (hó) n. hlújárn; s. ræta upp illgresi með hlújárni; losa moldina kringum plöntur; [~ up] róta upp
+hoe n. hlújárn; s. ræta upp illgresi með hlújárni; losa moldina kringum plöntur; [~ up] róta upp
 hog n. alisvín; grís; göltur; [to go the whole ~] fara alla leið, gera e-ð til fulls; s. klippa snöggt, stýfa (fax af hesti)
 hog-backed l. með kryppu upp úr bakinu
 hoggish l. óþrifinn, sóðalegur; gráðugur
@@ -684,7 +684,7 @@ hoiden n. sjá [hoyden]
 hoist s. lyfta, draga (vinda) upp; n. lyftivél; uppdráttur
 hoity-toity n. gáski; l. gáskafullur, glensmikill
 hold s. halda, halda á; hafa á hendi ([~ an office]); rúma, taka; halda fast við (skoðun); handsama; ná í; halda (e-u) fram; telja, álita; gilda, eiga við ([~ true, good]); haldast, standa; vera kominn undir; [~ water] stinga við, hafa aftur á; vera vatnsheldur, leka ekki; standast raun; [~ a wager] veðja; [~ one's head high] bera höfuðið hátt; [~ one's breath] halda niðri í sér andanum; [~ one's own] duga; hafa yfirtökin; halda stöðu sinni; [I ~ it a bad sign] ég tel það ills vita; [~ forth] tala á mannfundum; [~ in] halda í skefjum; halda við (hest); stilla sig; þegja; [~ of] vera (e-m) háður; [~ on] halda (e-u) áfram; [~ on!] hættu!; [~ out] rétta út; þola; haldast, endast; [~ up] halda uppi; styðja; haldast ([if this wind ~-s up])
-hold (hóld) n. hald, tak, handfesta; varðhald; fangaklefi; fylgsni; bæli villidýra; virki (sbr. [stronghold]); farmrúm (í skipi); [to lose ~ of] missa tökin á e-u; [to be in ~] vera í varðhaldi
+hold n. hald, tak, handfesta; varðhald; fangaklefi; fylgsni; bæli villidýra; virki (sbr. [stronghold]); farmrúm (í skipi); [to lose ~ of] missa tökin á e-u; [to be in ~] vera í varðhaldi
 holdall n. ferðataska
 holdback n. hindrun; agnúi
 holder n. handhafi, eigandi
@@ -712,7 +712,7 @@ holy office n. rannsóknarrétturinn kaþólski
 holy water n. vígt vatn
 holy week n. dymbilvikan
 homage n. þegnskyldueiður, hollustueiður, hollusta, lotning, virðing; [to do ~ to] heita (e-m) hollustu; [to pay ~ to] sýna e-m lotningu; s. hylla, sýna e-m lotningu
-home (hóm) n. heimili; heimkynni; ao. heim; [to bring a charge ~ to one] sanna kæru upp á e-n; l. heimilislegur; innlenskur, innanlands; innanríkis ([~ department]); rækilegur; kjarkmikill ([a ~ expression]); [at ~] heima; [from ~] að heiman; [it will come ~ to him] það mun lenda á honum; [to make oneself at ~] gera sig heimakominn
+home n. heimili; heimkynni; ao. heim; [to bring a charge ~ to one] sanna kæru upp á e-n; l. heimilislegur; innlenskur, innanlands; innanríkis ([~ department]); rækilegur; kjarkmikill ([a ~ expression]); [at ~] heima; [from ~] að heiman; [it will come ~ to him] það mun lenda á honum; [to make oneself at ~] gera sig heimakominn
 homebaked l. heimabakaður
 homeborn l. innlendur
 homebred l. heimaalinn; óbreyttur; látlaus
@@ -924,7 +924,7 @@ huffy l. firtinn, uppstökkur; hrokafullur
 hug s. faðma, þrýsta (að sér); taka (glímutökum); [~ the land] sigla nálægt landi; [~ the wind] sigla þvert; [~ oneself upon] vera hreykinn af, stæra sig af e-u; n. föðmun, faðmlag; glímutök
 huge l. afarstór, geysimikill
 hugely ao. geysilega, ákaflega
-hugger-mugger (h0gger-m0gg-ar) n. leynd, leyni ([in ~]); l. leynilegur; s. þagga niður; finnast leynilega
+hugger-mugger n. leynd, leyni ([in ~]); l. leynilegur; s. þagga niður; finnast leynilega
 hulk n. gamall skipsskrokkur
 hulky l. fyrirferðarmikill
 hull n. hýði, skurn; kjarni (í epli); skipsskrokkur; [to lie (at) ~] reka fyrir vindi (með seglin samantekin); [~ down] með skipsskrokkinn undir sjóndeildarhringnum; s. taka hýðið utan af; skjóta í skipsskrokkinn ([the ship had been ~ed])
@@ -998,7 +998,7 @@ huntsman n. veiðimaður
 huntship n. veiðilist, veiðimennska
 hurdle n. tága- eða rimlafleki; rimlagirðing, grindur; s. afgirða með grindum ([~ off, out])
 hurds n. ft. úrkembingur úr hör eða hampi; strý; sjá [hards]
-hurdy-gurdy (hördi-gördi) n. óvandað strengjahljóðfæri
+hurdy-gurdy n. óvandað strengjahljóðfæri
 hurl s. fleygja, þeyta; steypa ([~ one from power])
 hurling n. kast, þeyting
 hurly-burly n. hávaði, gauragangur, hark

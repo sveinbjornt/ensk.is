@@ -289,7 +289,7 @@ deed n. dáð, verk ([in word and ~]); afreksverk; skjal; [~ of conveyance] afsa
 deedful l. afreksmikill ([~ life])
 deedless l. dáðlaus
 deem s. dæma, ætla, hyggja
-deemster (dímstar) n. dómari
+deemster n. dómari
 deep l. djúpur; dimmur (um lit); djúpsær ([~ reader]); viðsjáll; ao. djúpt; n. djúp, dýpi, haf
 deepen s. dýpka (gera eða verða dýpri); verða dimmari
 deeply ao. djúpt; ákaflega, mjög
@@ -348,7 +348,7 @@ deflection n. afvik, bugða
 deflexion n. afvik, bugða
 defloration n. afmeyjun; úrval
 deflower s. afmeyja; taka blómstrin af
-defoliation (difóliei'shan) n. lauffall
+defoliation n. lauffall
 deform s. afmynda, afskræma; breyta
 deformed l. vanskapaður, afskræmislegur, ljótur
 deformation n. afmyndun
@@ -452,7 +452,7 @@ demented l. óður, vitskertur
 demerit n. misgerð; galli, ókostur; ávirðing
 demeritorious l. lastverður, vítaverður
 demesne n. óðal, óðalseign; jarðeign; höfuðból; þjóðjörð ([state ~]); konungsjörð ([Royal ~, ~ of the crown])
-demi (demmi) l. hálf-
+demi l. hálf-
 demigod n. hálfguð
 demijohn n. leirbrúsi
 demise n. dauði (stórhöfðingja); afsal; s. gefa með erfðaskrá; afsala sér (í hendur erfingjum)
@@ -663,7 +663,7 @@ despite fs. þrátt fyrir ([in ~ of])
 despiteful l. illskufullur
 despoil s. ræna; svipta e-n e-u ([~ one of his arms])
 despoiler n. ræningi
-despoilment, n. rán, ránskapur
+despoilment n. rán, ránskapur
 despoliation n. rán, ránskapur
 despond s. láta hugfallast
 despondence n. örvænting; hugleysi, hugarvíl
@@ -902,7 +902,6 @@ dimple n. skarð í höku; spékoppur; s. mynda lautir eða smádældir (í e-ð
 dimpled l. með spékoppum eða skarði í höku, lautóttur; gáróttur ([a ~ sea])
 din n. dynur, gnýr, hávaði, skarkali; s. gera heyrnarlausan (með hávaða); gera hávaða, dynja
 dine s. éta dagverð, borða miðdegisverð; gefa e-m að borða, veita e-m miðdegisverð; [~ out] borða úti, að heiman, vera í miðdegisverði; [diner-out] n. maður, sem jafnaðarlega borðar miðdegisverð að heiman (sem boðsgestur)
-dinghey n. skipsbátur
 dinghy n. skipsbátur
 dinginess n. dimma, dekkja
 dingy l. óhreinn; dökkur, dimmur; tortryggilegur
@@ -1049,7 +1048,7 @@ discreet l. gætinn; þagmælskur, orðvar ([you are a ~ man])
 discrepancy n. ósamkvæmni, mótsögn
 discrepant l. ósamkvæmur, ólíkur
 discrete l. sérskilinn, aðskilinn; sundurgreinilegur
-discretion (diskresh'an) n. gætni, hyggni; geðþótti, vild ([at his own ~]); [in/within the ~ of] á valdi e-s; [to come to (the) years (age) of ~] til vits og ára; [to surrender at ~] gefast upp skilyrðislaust
+discretion n. gætni, hyggni; geðþótti, vild ([at his own ~]); [in/within the ~ of] á valdi e-s; [to come to (the) years (age) of ~] til vits og ára; [to surrender at ~] gefast upp skilyrðislaust
 discretional l. sjálfræðislegur, ótakmarkaður; sem er eftir eigin vild eða geðþótta
 discretionary l. sjálfræðislegur, ótakmarkaður; sem er eftir eigin vild eða geðþótta
 discretive l. sundurgreinandi ([a ~ particle])
@@ -1257,7 +1256,7 @@ dissight n. augnaraun
 dissimilar l. ólíkur (e-u [to])
 dissimilarity n. mismunur ([~ of pursuits])
 dissimilitude n. það að vera ólíkur, frábrigði
-dissimulate (-mjúleit) s. leyna; hræsna
+dissimulate s. leyna; hræsna
 dissimulation n. uppgerð, yfirdrepskapur, ólíkindalæti
 dissipate s. dreifa; eyða, sóa; dreifast, hverfa
 dissipated l. svallsamur, gjálífur

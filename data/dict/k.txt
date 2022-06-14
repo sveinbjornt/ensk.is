@@ -14,7 +14,7 @@ kedge n. varpakkeri
 keel n. kjölur; (flatbotnaður) kolabátur; s. hvolfa (um bát); velta (e-m) um koll ([~ one over, they ~ed over])
 keelage n. hafnargjald
 keelhaul s. draga undir kjöl (refsing)
-keelson (kelsan) n. kjölsvín
+keelson n. kjölsvín
 keen l. beittur, hvass ([~ edge, ~ eyes]); ákafur ([~ desire]); sár, napur (um kulda, vind, háð); skarpskyggn; [~ of scent] þefvís; [~ sense of one's duty] næm tilfinning um skyldu sína
 keen-edged l. beittur, egghvass
 keen-eyed l. hvasseygður, skarpskyggn
@@ -60,18 +60,18 @@ khan n. landstjóri (í Asíu)
 kibe n. frostbólga (á hælum)
 kick s. sparka; n. spark
 kicker n. slægur hestur
-kickshaws (kikkshös) n. ft. léttmeti; góðgæti; glingur, smámunir
-kid (kidd) n. krakki; kið, kiðlingur; s. bera (um geitur)
+kickshaws n. ft. léttmeti; góðgæti; glingur, smámunir
+kid n. krakki; kið, kiðlingur; s. bera (um geitur)
 kid-glove n. hanski úr geitarskinni; gljáhanski
-kidnap (kiddnapp) s. stela, ræna (mönnum, einkum börnum)
+kidnap s. stela, ræna (mönnum, einkum börnum)
 kidnapper n. barnaþjófur, mannræningi
-kidney (kidni) n. nýra; eðli; tegund, tagi ([of the right ~])
+kidney n. nýra; eðli; tegund, tagi ([of the right ~])
 kilderkin n. hálftunna
 kill s. drepa, stytta e-m aldur; slátra; [~ time] stytta sér stundir, eyða tímanum
 killer n. manndrápari; slátrari
 killing n. dráp, manndráp
 kiln n. þurrkunarofn; [lime ~] kalkbrennsluofn; s. ofnþurrka, ofnbaka
-kilndry s. ofnþurrka
+kiln-dry s. ofnþurrka
 kilo n. kíló; þúsund
 kilogram n. 1000 grömm, kílógramm
 kilogramme n. 1000 grömm, kílógramm
@@ -108,50 +108,50 @@ kinswoman n. frændkona
 kiosk n. tyrkneskt sumarhús; söluturn
 kipper n. svillax; reykt síld; s. salta og þurrka eða reykja (fisk)
 kirk s. leiða í kirkju; n. kirkja
-kirtle (kört'l) n. kyrtill
+kirtle n. kyrtill
 kiss s. kyssa; kyssast; n. koss
 kissable l. kyssilegur ([a ~ mouth])
 kiss-curl n. ennislokkur
 kit n. útbúnaður; stór fata; fiskakarfa; verkfæraskrín; [the whole ~ of them] allur hópurinn
-kitchen (kitshan) n. eldhús
+kitchen n. eldhús
 kitchener n. eldhússtjóri (í klaustri); eldavél
 kitchen garden n. matjurtagarður
 kitchenmaid n. eldhússtúlka
 kitchen midden n. forn sorphaugur
 kitchen wench n. eldabuska
-kite (kæt) n. flugdreki (úr pappír); [to fly a ~] setja upp flugdreka; gleða (fálkategund); s. svífa í loftinu
-kith (kiþþ) n. kunningsskapur; frændsemi; [~ and kin] frændur og vinir
+kite n. flugdreki (úr pappír); [to fly a ~] setja upp flugdreka; gleða (fálkategund); s. svífa í loftinu
+kith n. kunningsskapur; frændsemi; [~ and kin] frændur og vinir
 kithless l. öllum ókunnugur
-kitten (kit'n) n. kettlingur; s. gjóta (um kött)
+kitten n. kettlingur; s. gjóta (um kött)
 kittenish l. leikfullur, fjörlegur
-kittiwake (-weik) n. rita (fugl)
-kleptomania (-mei'nio) n. stelsýki
-knack (nakk) n. fimleiki, gott lag, tök ([to know the ~ of])
-knacker (nakkar) n. hestaslátrari
-knacky (nakki) l. kænn, fimur
-knag (nagg) n. kvistur (í viði); ugla, snagi (til að hengja á)
+kittiwake n. rita (fugl)
+kleptomania n. stelsýki
+knack n. fimleiki, gott lag, tök ([to know the ~ of])
+knacker n. hestaslátrari
+knacky l. kænn, fimur
+knag n. kvistur (í viði); ugla, snagi (til að hengja á)
 knaggy l. kvistóttur
-knapsack (napsakk) n. liðsmannataska (bundin á bakið); ferðataska
-knave (neiv) n. þorpari, fantur; gosi (í spilum)
+knapsack n. liðsmannataska (bundin á bakið); ferðataska
+knave n. þorpari, fantur; gosi (í spilum)
 knavery n. óknyttir, strákapör
-knavish (neivish) l. þorparalegur; sviksamur
+knavish l. þorparalegur; sviksamur
 knavely ao. sviksamlega
-knead (níd) s. hnoða (deig); nudda
+knead s. hnoða (deig); nudda
 kneadable l. hnoðanlegur
 kneeding-trough n. trog til að hnoða í deig
-knee (ní) n. kné, hné; liður (á grasi)
+knee n. kné, hné; liður (á grasi)
 kneecap n. hnéskel
 kneepan n. hnéskel
-kneel (níl) s. knékrjúpa, knéfalla (fyrir e-m [to]); krjúpa á kné
+kneel s. knékrjúpa, knéfalla (fyrir e-m [to]); krjúpa á kné
 kneeling n. knéfall, knékrop
 knell n. líkhringing ([funeral ~]); s. hringja líkhringingu
 knickerbockers n. ft. knjábuxur
-knick-knack (niknakk) n. smáglingur, glysmunir
-knife (næf) n. hnífur; [war to the ~] barátta til þrautar; s. reka í gegn með hnífi
+knick-knack n. smáglingur, glysmunir
+knife n. hnífur; [war to the ~] barátta til þrautar; s. reka í gegn með hnífi
 knifeblade n. hnífblað
 knifeboard n. fjöl til að slípa (fægja) á hnífa; tvöfaldur bekkur á þaki almenningsvagna
 knife-edge n. hnífsegg
-knight (næt) n. riddari; s. gera að riddara
+knight n. riddari; s. gera að riddara
 knight errant n. farandriddari
 knighthood n. riddaratign; riddarastétt
 knightly l. riddaralegur; ao. riddaralega
@@ -181,10 +181,10 @@ knowable l. þekkjanlegur, vitanlegur
 knower n. þekkjari [no ~ of men] enginn mannþekkjari
 knowing l. sem hefur vit á, sem kann til (e-s [in]); kænn; glettinn, kímileitur; [a ~ look] glettnissvipur; n. vitund, þekking; [there is no ~ how] það er ekki hægt að vita (segja), hvernig
 knowingly ao. af ásettu ráði; kunnáttulega, kænlega
-knowledge (nollidzh) n. þekking; kunnátta ([~ in an art]); [to my ~] að því er ég veit; [without my ~] án minnar vitundar
-known (nón) l. þekktur, alkunnur, viðurkenndur ([a man of ~ ability])
-knuckle (nþk'l) n. hnúi; bein (einkum leggjarhöfuð); skanki ([~ of veal, of ham]); s. berja með hnúunum; [~ down, ~ under] gefast upp
+knowledge n. þekking; kunnátta ([~ in an art]); [to my ~] að því er ég veit; [without my ~] án minnar vitundar
+known l. þekktur, alkunnur, viðurkenndur ([a man of ~ ability])
+knuckle n. hnúi; bein (einkum leggjarhöfuð); skanki ([~ of veal, of ham]); s. berja með hnúunum; [~ down, ~ under] gefast upp
 knucklebone n. leggjarhöfuð; vala
-knurl (nörl) n. kvistur (í við)
+knurl n. kvistur (í við)
 knurly l. kvistóttur
-kreng (kreN) n. hvalskrokkur (eftir að spikið hefur verið tekið)
+kreng n. hvalskrokkur (eftir að spikið hefur verið tekið)

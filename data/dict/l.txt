@@ -532,7 +532,7 @@ lieutenancy n. undirforingjaembætti; landsstjóraembætti; allir undirforingjar
 lieutenant n. undirforingi; landsstjóri, fylkisstjóri
 life (læf) n. líf; líferni; fjör; ævi; ævisaga; [many lives were lost] margir létu lífið; [at our time of ~] á vorum dögum; [for ~] ævilangt; [for one's ~] til að forða lífinu, eins og lífið eigi að leysa ([run for dear ~]); [cannot for the ~ of me] þó að ég ætti lífið að leysa; [to draw from (after) the ~] draga upp eftir lifandi fyrirmynd; [to the ~] ákaflega líkur; [as large as ~] í fullri líkamsstærð
 lifeboat n. björgunarbátur
-lifebouy n. björgunarhringur
+lifebuoy n. björgunarhringur
 lifeguard n. lífvörður
 lifehold n. lífsábúð
 lifeless l. líflaus, örendur

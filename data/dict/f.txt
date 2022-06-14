@@ -40,7 +40,7 @@ faggot n. lim (sem eldsneyti), hrísbaggi; s. binda (hrís) í bagga ([~ up])
 fagot n. lim (sem eldsneyti), hrísbaggi; s. binda (hrís) í bagga ([~ up])
 fail s. bregðast; bila; vanta, skorta; þrjóta; mistakast ([~ in something, ~ to do something]); þverra, verða gjaldþrota; [his heart ~ed him] hann missti huginn, lét hugfallast; n. [without ~] vissulega, áreiðanlega, efalaust
 failing n. breyskleiki; galli
-failure  n. misbrestur, misheppnan, þurrður, skortur; gjaldþrot; [turn out a ~] reynast óhæfur, mislukkaður; mistakast
+failure n. misbrestur, misheppnan, þurrður, skortur; gjaldþrot; [turn out a ~] reynast óhæfur, mislukkaður; mistakast
 fain l. feginn, glaður; ao. fúslega, gjarnan ([I would ~])
 faint l. máttfarinn, magnlaus; daufur (um ljós eða lit); huglaus; s. falla í ómegin; verða huglaus; dofna (um liti); n. yfirlið, öngvit
 fainthearted l. huglaus
@@ -698,7 +698,7 @@ float n. timburfloti; netflá; s. fljóta (uppi); líða áfram (á vatni eða �
 floatation n. það að halda e-u á floti eða uppi; flot; [plane of ~] flotflötur
 floating l. fljótandi; á sjó ([~ cargo]); breytilegur
 floaty l. léttur í vatni
-flocculent (flokkjúlont) l. hnökróttur, hnoðróttur; hýjaður
+flocculent l. hnökróttur, hnoðróttur; hýjaður
 flock n. flokkur, hópur, hjörð; hnoðri; s. flykkjast saman, hópa sig
 flockbed n. ullarsæng
 flocky l. hnoðróttur, með hnoðrum

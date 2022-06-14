@@ -132,7 +132,7 @@ pancake n. pönnukaka ([flat as a ~])
 panacea n. kynjalyf; allra meina bót
 panache n. (hjálm)-skúfur
 panada n. brauðsúpa
-panade  n. brauðsúpa
+panade n. brauðsúpa
 pandemic l. sem gengur yfir allt landið (um sóttir); n. landfarsótt
 pander s. koma (e-m) saman til lauslætis; stuðla að, þjóna (e-u illu); n. saurlífismangari
 pane n. gluggarúða, glerrúða; flötur, hlið; reitur
@@ -718,7 +718,7 @@ perpetuation n. stöðugt áframhald eða viðhald; [in ~ of his name] til ævin
 perpetuity (parpitjú'iti) n. stöðugleiki; eilífð; [in ~] um aldur og ævi
 perplex (parpleks') s. flækja; rugla; koma (e-m) í vandræði
 perplexity n. flækja, vafningur; vandi, vandræði
-perqusite (pörkwizit) n. aukageta; aukatekjur, hlunnindi
+perquisite n. aukageta; aukatekjur, hlunnindi
 perquisition (parkwizish'an) n. nákvæm rannsókn eða leit, húsrannsókn ([make a ~])
 perron n. trappa (við stórhýsi)
 perry (perri) n. perumjöður
@@ -833,7 +833,7 @@ pewterer n. pjátrari
 phaeton n. fjórhjólaður léttivagn
 phalanx n. fylking
 phalarope n. óðinshani
-phantasin n. hugarburður, heilaspuni; svipur; sýn
+phantasm n. hugarburður, heilaspuni; svipur; sýn
 phantom n. sýn; svipur, vofa, fyrirburður
 pharisaical l. hræsnisfullur
 pharisaism n. kenning Farísea; hræsni, yfirdrepskapur
@@ -1109,18 +1109,18 @@ pitiless l. miskunnarlaus, harðbrjóstaður
 pitman n. námumaður
 pitsaw n. langsög
 pittance n. matargjöf, ölmusugjöf; lítilræði; lítill hluti
-pity (pitti) n. meðaumkun; bágindi; [what a ~!] það er (var) leitt! hvaða bágindi! [it is a thousand pities] það er hörmulegt; [to have (take) ~ upon] kenna í brjósti um; s. aumkast yfir, kenna í brjósti um ([he is to be pitied, I ~ you if you think that])
-pivet n. ás sem e-ð snýst um eða á; sigurnagli; s. snúast á ás
+pity n. meðaumkun; bágindi; [what a ~!] það er (var) leitt! hvaða bágindi! [it is a thousand pities] það er hörmulegt; [to have (take) ~ upon] kenna í brjósti um; s. aumkast yfir, kenna í brjósti um ([he is to be pitied, I ~ you if you think that])
+pivot n. ás sem e-ð snýst um eða á; sigurnagli; s. snúast á ás
 placability n. sáttfýsi
 placable (pleikab'l) l. sáttfús
-placard (plakárd') n. auglýsingablað; auglýsing; s. festa upp t.d. á vegg (auglýsingu), auglýsa
-placate (pleikeit) s. friða, sætta
-place (pleis) n. staður; svæði; rúm; bústaður; staða, embætti; [give ~] rýma, víkja; [take ~] bera við; fara fram; [in the first (second) ~] í fyrsta (öðru) lagi; [in ~ of] í staðinn fyrir; [in his ~] í hans sporum; [in ~ and out of ~] í tíma og ótíma; [out of ~] embættislaus; óviðeigandi, ekki á réttum stað ([it would be out of ~ to examine it here])
+placard n. auglýsingablað; auglýsing; s. festa upp t.d. á vegg (auglýsingu), auglýsa
+placate s. friða, sætta
+place n. staður; svæði; rúm; bústaður; staða, embætti; [give ~] rýma, víkja; [take ~] bera við; fara fram; [in the first (second) ~] í fyrsta (öðru) lagi; [in ~ of] í staðinn fyrir; [in his ~] í hans sporum; [in ~ and out of ~] í tíma og ótíma; [out of ~] embættislaus; óviðeigandi, ekki á réttum stað ([it would be out of ~ to examine it here])
 place s. setja, leggja; koma (e-u) fyrir; koma e-m í stöðu; [~ faith (confidence) in] leggja trúnað á, treysta; [I am not similarly ~d] það er ekki eins ástatt fyrir mér; [~ out] setja fé á vöxtu
 placeless l. embættislaus; óstaðbundinn
 placeman n. embættismaður
 placenta n. legkaka, fylgja
-placid (plassid) l. rólegur; blíður; hæglátur; lygn
+placid l. rólegur; blíður; hæglátur; lygn
 placidity n. rólyndi, blíðlyndi; hógværð
 placidness n. rólyndi, blíðlyndi; hógværð
 placket (plakkit) n. pilsvasi (á millipilsi); pilsop
@@ -1593,8 +1593,8 @@ postpone s. fresta; láta sitja á hakanum
 postponement n. frestun
 postscript n. eftirskrift
 postulant n. umsækjandi
-posulate n. ósönnuð setning; krafa; s. krefjast; gera ráð fyrir e-u; skoða sem sjálfsannað
-posulation n. krafa
+postulate n. ósönnuð setning; krafa; s. krefjast; gera ráð fyrir e-u; skoða sem sjálfsannað
+postulation n. krafa
 posture n. staða; stelling; ástand; s. setja; setja (sig) í stellingar
 posy n. spakmæli í ljóðum; blómhnýti, blómvöndur
 pot n. pottur; pottmál; krukka; kanna; s. sjóða (salta) niður; setja í pott eða krukku
@@ -2160,7 +2160,7 @@ prolix l. langorður og leiðinlegur
 prolixity n. mælgi
 prolocutor n. framsögumaður, forseti (á prestastefnu)
 prologue n. formáli (einkum í ljóðum); s. rita formála fyrir
-prolong  s. framlengja; lengja, draga (hljóð); láta haldast (lengur)
+prolong s. framlengja; lengja, draga (hljóð); láta haldast (lengur)
 prolongation n. lenging
 promenade n. skemmtiganga (skemmtireið, skemmtiakstur); skemmtigöngustaður; s. ganga (ríða, aka, sigla, róa) sér til skemmtunar
 prominence n. framstandandi partur; yfirburðir, ágæti

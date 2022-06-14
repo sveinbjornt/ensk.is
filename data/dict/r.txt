@@ -1446,7 +1446,7 @@ rouble n. rúbla (rússneskur peningur)
 rouge n. rauður litur, sem er borinn á kinnar og varir, andlitsfarði; duft til að fægja gull og silfur
 rough l. ósléttur, ójafn, hrufóttur; úfinn; óslípaður ([a ~ diamond]); óhöggvinn, óunninn ([a ~ stone]); óvandaður (um smíði); stórgerður, grófur; vondur (um veður og sjó); óþýður (í viðmóti); ómenntaður; harður; lauslegur, ónákvæmur ([a ~ estimate]); klúr, ruddalegur; beiskur (um vín og mjöð); [a ~ passage] slæm ferð, hörð útivist; [through ~ and smooth] í bliðu og striðu; [the sea is rather ~] það er talsverð ólga í sjónum; n. ruddi, dóni; skafl (á skeifu); s. gera óslétt, hrufótt; ýfa upp ([up]); snupra; leika e-n illa; temja (hest til herþjónustu); [~ it] leggja sig í harðrétti (á ferðum)
 roughcast s. gera fyrsta uppkast að; draga stórgert kalk á
-roughtcoated l. stríðhærður (um dýr)
+rough-coated l. stríðhærður (um dýr)
 rough draw s. gera fyrsta uppkast að
 rough grind s. mala stórt
 rough-hew s. höggva lauslega til; gera uppkast að e-u

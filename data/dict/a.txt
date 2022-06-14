@@ -144,7 +144,7 @@ abstractedly ao. út af fyrir sig
 abstractedness n. leiðsla
 abstraction n. þjófnaður; hugmynd; athugaleysi; leiðsla
 abstruse l. torskilinn; leyndur
-abstruseness, n. torskiljanleiki
+abstruseness n. torskiljanleiki
 absurd l. fjarstæður; hlægilegur; absúrd
 absurdity n. fjarstæða, fásinna, heimska
 absurdness n. fjarstæða, fásinna, heimska
@@ -284,7 +284,7 @@ acorn n. akarn
 acoustic l. heyrnarlegur; hljómlegur
 acoustics n. hljómfræði
 acquaint s. láta vita (um e-ð [with]); [~ oneself with] kynna sér; [become ~ed with] kynnast e-u
-acquaintance n. kunningsskapur; viðkynning; kynni (af e-m [with]); kunningi; [make the ~ of] kynnast e-u
+acquaintance n. kunningsskapur; viðkynning; kynni (af e-m [with]); kunningi; [make the ~ of] kynnast e-u eða e-m
 acquaintanceship n. kunningsskapur
 acquainted l. kunnugur (e-m [with])
 acquiesce s. láta sér lynda ([in]); samþykkja
@@ -1699,7 +1699,7 @@ Austrian l. austurrískur
 authentic l. áreiðanlegur; ófalsaður, ekta; lögfullur
 authentically ao. áreiðanlega
 authenticate s. löggilda; staðfesta
-authenticatio n. staðfesting; löggilding
+authentication n. staðfesting; löggilding
 authenticity n. áreiðanleiki; ritvissa
 author n. rithöfundur; heimildarmaður; frumkvöðull (að e-u [of])
 authoress n. kvenrithöfundur

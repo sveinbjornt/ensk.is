@@ -171,19 +171,19 @@ eggshell n. eggskurn
 egg-trot n. seinagangur
 egg s. eggja (vanalega [~ on])
 egging n. eggjun ([~ forward, on])
-eglantine (eglantæn) n. rósviðartegund
+eglantine n. rósviðartegund
 egoism n. sjálfselska; eigingirni
 egoist n. eigingjarn maður
-egotism (ígötiz'm) n. eigingirni; sjálfsumtal; gort
+egotism n. eigingirni; sjálfsumtal; gort
 egotist n. eigingjarn maður
 egotistic l. eigingjarn; sjálfhælinn, raupsamur
 egotistical l. eigingjarn; sjálfhælinn, raupsamur
-egotize (ígötæz) s. tala ætíð um sjálfan sig; raupa, gorta
-egregious (igri'dzhias) l. frábær; frámunalegur ([~ folly])
-egress (ígress) n. útgangur
-egression (igresh'an) n. útganga
+egotize s. tala ætíð um sjálfan sig; raupa, gorta
+egregious l. frábær; frámunalegur ([~ folly])
+egress n. útgangur
+egression n. útganga
 egret n. hvítur hegri
-Egyptian (idzhip'shan) l. egypskur; n. Egyptalandsmaður, Egypti
+Egyptian l. egypskur; n. Egyptalandsmaður, Egypti
 Egyptologist n. sérfræðingur í fornfræði Egyptalands
 eh uh. ha!
 eider n. æður, æðarfugl
@@ -299,7 +299,7 @@ elope s. hlaupa burtu, strjúka (um konu, sem strýkur með friðli sínum, eða
 elopement n. flótti, strok
 eloquence n. mælska, málsnilld
 eloquent l. mælskur, málsnjall, vel máli farinn
-else (els) ao. annars, öðruvísi; [somebody (anybody, nobody, everybody) ~] einhver (o.s.frv.) annar; [something ~] eitthvað annað; [somewhere, (anywhere, everywhere, nowhere) ~] einhversstaðar (o.s.frv.) annarstaðar
+else ao. annars, öðruvísi; [somebody (anybody, nobody, everybody) ~] einhver (o.s.frv.) annar; [something ~] eitthvað annað; [somewhere, (anywhere, everywhere, nowhere) ~] einhversstaðar (o.s.frv.) annarstaðar
 elsewhere ao. annarstaðar, á öðrum stað
 elucidate s. skýra
 elucidation n. skýring
@@ -501,15 +501,15 @@ encyclopaedic l. alfræðilegur, yfirgripsmikill
 encyclopedic l. alfræðilegur, yfirgripsmikill
 end n. endi; endir, endalok; ævilok; tilgangur ([for/to this ~]); takmark ([gain one's ~]); stubbur, bútur; [at the ~] að lokum; [at the ~ of next week] í lok næstu viku; [be at an ~] vera þrotinn; vera á enda, úti; [in the ~] á endanum, að lokum; þegar til lengdar lætur ([cheapest in the ~]); [on ~] beint upp ([to stand on ~]); samfleytt ([for two months on ~]); [~s of the earth] endimörk jarðarinnar; [from ~ to ~] endanna á milli; [bring to an ~] leiða til lykta; [come to an ~] lykta, liða undir lok; [put an ~ to] gera enda á e-u; [to no ~] til einskis, árangurslaust; [shift (turn) ~ for ~] hafa endaskipti á e-u; sökkva (bát); [go ~ for ~ (~ over ~)] sökkva (um bát); [make both (two, the two) ~s meet] láta tekjur og gjöld standast á; [no ~ of] ósköpin öll af e-u, ótal; [~ on] með endann (stefnið) fram, á endann
 end s. enda, gera enda á; ljúka e-u; enda, hætta, vera úti; [~ in doing something] enda með því að gera e-ð
-endamage (endamm'idzh) s. skaða, spilla
+endamage s. skaða, spilla
 endamagement n. skaði, tjón, bagi
-endanger (endein'dzhor) s. stofna (e-m) í hættu
-endear (endír') s. gera kæran (ástsælan, vinsælan)
+endanger s. stofna (e-m) í hættu
+endear s. gera kæran (ástsælan, vinsælan)
 endearment n. yndi, unaður; blíðubrögð, kjass; [a name of ~] gælunafn
-endeavour (endevv'ar) n. tilraun, viðleitni; s. reyna, leitast við ([~ to do something]); [~ after more riches] sækjast eftir meiri auðæfum
-endemic (endemm'ik) l. innlendur ([~ plants, animals]); ílendur, landlægur (um sjúkdóm); n. landlægur sjúkdómur
+endeavour n. tilraun, viðleitni; s. reyna, leitast við ([~ to do something]); [~ after more riches] sækjast eftir meiri auðæfum
+endemic l. innlendur ([~ plants, animals]); ílendur, landlægur (um sjúkdóm); n. landlægur sjúkdómur
 endemical l. innlendur ([~ plants, animals]); ílendur, landlægur (um sjúkdóm)
-endenizen (endenn'izan) s. veita (e-m) borgararéttindi (þegnréttindi); [to be ~ed] fá borgararéttindi
+endenizen s. veita (e-m) borgararéttindi (þegnréttindi); [to be ~ed] fá borgararéttindi
 ender n. sá sem gerir enda á e-u
 ending n. endir, lok, endalok; ending (á orði)
 endless l. endalaus; óendanlegur; óþrjótandi
@@ -540,7 +540,7 @@ enfeoff s. [~ with] fá (e-m e-ð) í lén
 enfeoffment n. lénveiting; lénsbréf; lén
 enfetter s. fjötra
 enfilade n. skothríð eftir endilöngu; s. skjóta (á e-n stað) eftir endilöngu; strjúkast með e-u
-enforce (enförs') s. halda (e-u) fast fram ([~ a claim]); koma (e-u) fram með valdi; troða, neyða (e-u upp á e-n); neyða e-n, þrýsta e-m (til e-s); [~ the laws] sjá um, að lögunum sé vandlega hlýtt
+enforce s. halda (e-u) fast fram ([~ a claim]); koma (e-u) fram með valdi; troða, neyða (e-u upp á e-n); neyða e-n, þrýsta e-m (til e-s); [~ the laws] sjá um, að lögunum sé vandlega hlýtt
 enforcement n. þvingun; nauðgunarvald
 enfranchise s. leysa úr þrældómi; gefa (þræl) frelsi; veita þegnréttindi eða kosningarétt
 enfranchisement n. lausn úr þrældómi eða fangelsi; veiting þegnréttinda eða kosningarréttar ([political ~, women's ~])
@@ -581,32 +581,32 @@ enigmatical n. óskiljanlegur; dularfullur
 enigmatize s. gera óskiljanlegt
 enisle s. setja út í eyju; einangra
 enjoin s. leggja e-ð fyrir e-n, fyrirskipa (e-m [on, upon]); leggja ríkt á við e-n; (í lagamáli) banna
-enjoy (endzhoj') s. njóta (e-s); hafa gaman af ([he ~ed relating his adventure]); [I ~ed the repast] mér féll maturinn vel; [~ oneself] skemmta sér
+enjoy s. njóta (e-s); hafa gaman af ([he ~ed relating his adventure]); [I ~ed the repast] mér féll maturinn vel; [~ oneself] skemmta sér
 enjoyable l. skemmtilegur, unaðslegur
 enjoyment n. nautn, skemmtun
-enkindle (enkin'd'l) s. tendra, kveikja ([~ new life]); æsa ([~ the passions])
-enlace (enleis') s. vefja; flétta
-enlarge (enlar'dzh) s. færa út ([~ his territories, the boundaries]); stækka, víkka; auka; láta lausan; aukast, vaxa; fjölyrða (um [on, upon])
+enkindle s. tendra, kveikja ([~ new life]); æsa ([~ the passions])
+enlace s. vefja; flétta
+enlarge s. færa út ([~ his territories, the boundaries]); stækka, víkka; auka; láta lausan; aukast, vaxa; fjölyrða (um [on, upon])
 enlargement n. stækkun; víkkun; málalenging; lausn (úr varðhaldi)
-enlighten (enlæ'tan) s. kasta birtu á; fræða; upplýsa
+enlighten s. kasta birtu á; fræða; upplýsa
 enlightenment n. fræðsla, upplýsing
 enlink s. tengja (við [to, with])
 enlist s. ráða til herþjónustu; taka í þjónustu sína; skipa í flokk; ganga (ráða sig) í herþjónustu
 enlistment n. ráðning til herþjónustu
-enliven (enlæ'v'n) s. lífga, glæða ([~ trade]); fjörga
-enmity (enmiti) n. óvinátta, fjandskapur ([be at ~ with one])
-ennoble (enó'b'l) s. taka í tiginna manna stétt; gera göfugan
+enliven s. lífga, glæða ([~ trade]); fjörga
+enmity n. óvinátta, fjandskapur ([be at ~ with one])
+ennoble s. taka í tiginna manna stétt; gera göfugan
 ennoblement n. upphafning í göfugra manna stétt
-enormity (inör'miti) n. óhæfa, glæpur
-enormous (inör'mas) l. afskaplegur, fjarskalegur
-enough (inþff') l. nógur, nægur; n. nægð, nóg; ao. nógu; [good ~] nógu góður; [well ~] fullvel
-enounce (ináns') s. setja fram (skoðun); birta, auglýsa, lýsa yfir
+enormity n. óhæfa, glæpur
+enormous l. afskaplegur, fjarskalegur
+enough l. nógur, nægur; n. nægð, nóg; ao. nógu; [good ~] nógu góður; [well ~] fullvel
+enounce s. setja fram (skoðun); birta, auglýsa, lýsa yfir
 enow l. & ao. sjá [enough]
 enquire s. spyrja; sjá [inquire]
-enrage (enrei'dzh) s. æsa (espa) upp, gera sárreiðan
+enrage s. æsa (espa) upp, gera sárreiðan
 enraged l. uppvægur, hamslaus af reiði (við e-n [against])
-enrank (enraNk') s. skipa í röð (raðir), fylkja (hermönnum)
-enrapture (enráp'tshar) s. hrífa, gera frá sér numinn af fögnuði
+enrank s. skipa í röð (raðir), fylkja (hermönnum)
+enrapture s. hrífa, gera frá sér numinn af fögnuði
 enrich s. auðga ([~ oneself by trade, ~ science, the mind]); frjóvga ([~ the soil])
 enrichment n. auðgun
 enring s. umkringja
@@ -614,26 +614,26 @@ enrobe s. klæða, íklæða
 enrol s. skrá, rita (nafn e-s) á skrá; rita í hermannatölu; skrásetja; vefja (innan í [in/with])
 enroll s. skrá, rita (nafn e-s) á skrá; rita í hermannatölu; skrásetja; vefja (innan í [in/with])
 enrollment n. skráning; skrásetning
-enroot (enrút') s. rótfesta
-ensanguined (ensáN'gwind) l. blóðugur, blóðlitaður
-ensconce (enkons') s. [~ oneself] búa (vel) um sig; fela sig
-enshrine (enshræn') s. skrínleggja; geyma, varðveita
-enshroud (enshrád') s. hylja, hjúpa
-ensign (ensæn) n. merki, einkenni; tignarmark; fáni; merkisberi
+enroot s. rótfesta
+ensanguined l. blóðugur, blóðlitaður
+ensconce s. [~ oneself] búa (vel) um sig; fela sig
+enshrine s. skrínleggja; geyma, varðveita
+enshroud s. hylja, hjúpa
+ensign n. merki, einkenni; tignarmark; fáni; merkisberi
 ensilage n. súrheysverkun, súrhey
-ensile (ensæl') s. verka súrhey ([~ green forage])
-enslave (ensleiv') s. hneppa í þrældóm, gera að þræli
+ensile s. verka súrhey ([~ green forage])
+enslave s. hneppa í þrældóm, gera að þræli
 enslavement n. þrælkun, áþján
 enslaver n. þrælkari
-ensnare (ensnér') s. snara; veiða í tálsnöru, véla
+ensnare s. snara; veiða í tálsnöru, véla
 ensnarement n. tálsnara
-ensphere (ensfír') s. umkringja, umlykja; gera hnöttótt
-enstamp (enstámp') s. móta
-ensue (ensjú') s. fara (koma) á eftir
+ensphere s. umkringja, umlykja; gera hnöttótt
+enstamp s. móta
+ensue s. fara (koma) á eftir
 ensuing l. eftirfarandi
-ensure (enshúr') s. tryggja e-ð (gegn e-u [against, from]); sbr. [insure]
-enswathe (ensweið') s. sveipa, hjúpa, sbr. [inswathe]
-entail (enteil') n. ættarjörð (sem gengur í erfðir eftir föstum reglum og eigandinn má ekki selja eða láta í skiptum); erfðatal; arfur; s. festa jarðeign með erfðaskrá (í hendur margra eigenda hvers fram af öðrum, þannig að enginn einn eigandi hefur heimild til að arfleiða annan að henni); veita sem óhagganlega eign; leggja e-ð á herðar e-m ([upon]), baka (e-m [upon]); hafa í för með sér ([it ~s a great deal of expense])
+ensure s. tryggja e-ð (gegn e-u [against, from]); sbr. [insure]
+enswathe s. sveipa, hjúpa, sbr. [inswathe]
+entail n. ættarjörð (sem gengur í erfðir eftir föstum reglum og eigandinn má ekki selja eða láta í skiptum); erfðatal; arfur; s. festa jarðeign með erfðaskrá (í hendur margra eigenda hvers fram af öðrum, þannig að enginn einn eigandi hefur heimild til að arfleiða annan að henni); veita sem óhagganlega eign; leggja e-ð á herðar e-m ([upon]), baka (e-m [upon]); hafa í för með sér ([it ~s a great deal of expense])
 entangle s. flækja; véla
 entanglement n. flækja, benda
 enter s. ganga (fara, koma) inn í (einnig [~ into]) taka við (eign); rita (færa inn) í bók; ráða til sín ([~ a servant, workman]); koma e-m fyrir (í skóla eða þjónustu); gefa skýrslu um (tollskyldar vörur); [~ money (goods) to/against one] skrifa fé (vörur) í reikning e-s; [~ foreign service] ganga í herþjónustu erlendis; [~ a protest] bera fram mótmæli; [he ~s his tenth year] byrjar 10. árið; [~ into orders] gerast munkur; [~ into service] ganga í þjónustu; [~ into a secret] fá að vita um leyndarmál; [~ into a treaty] gera samning; [~ into conversation with] fara að tala við; [~ on (upon)] byrja á, hefja ([~ on a voyage]); taka við ([~ on an office]); ráðast í
@@ -663,40 +663,40 @@ entitle s. nefna, kalla; gefa nafnbót; veita rétt eða heimild (til e-s [to so
 entity n. vera, veruleiki
 entomb s. láta í gröf, grafa, jarða
 entombment n. greftrun
-entomologist (entömoll'ödzh-ist) n. skordýrafræðingur
-entomology (-oll'ödzhi) n. skordýrafræði
-entrails (entreilz) n. ft. innyfli; iður ([~ of the earth])
+entomologist n. skordýrafræðingur
+entomology n. skordýrafræði
+entrails n. ft. innyfli; iður ([~ of the earth])
 entrammel s. hefta, fjötra
-entrance (entrons) n. inngangur; innganga; innför; mynni; [at his ~ into office] þegar hann tók við embættinu; [~ money] inngöngueyrir
-entrance (entráns') s. gera e-n utan við sig eða frá sér numinn
+entrance n. inngangur; innganga; innför; mynni; [at his ~ into office] þegar hann tók við embættinu; [~ money] inngöngueyrir
+entrance s. gera e-n utan við sig eða frá sér numinn
 entrancement n. leiðsla, hrifning
-entrant (entront) n. komumaður, gestur; keppinautur
-entrap (entrapp') s. veiða í gildru; ánetja, véla; flækja (með spurningum)
+entrant n. komumaður, gestur; keppinautur
+entrap s. veiða í gildru; ánetja, véla; flækja (með spurningum)
 entrapment n. vélun, ánetjun
-entreat (entrit') s. biðja (um) mikillega, grátbæna
-entreatingly (-ín-li) ao. bænarlega ([look ~])
+entreat s. biðja (um) mikillega, grátbæna
+entreatingly ao. bænarlega ([look ~])
 entreaty n. (innileg) bæn
-entrench (entrensh') s. grafa síki utan um; víggirða með skotgryfjum; [~ upon] sýna yfirgang, ganga á ([~ upon the rights of the nobles]); sjá [intrench]
+entrench s. grafa síki utan um; víggirða með skotgryfjum; [~ upon] sýna yfirgang, ganga á ([~ upon the rights of the nobles]); sjá [intrench]
 entrenchment n. víggirðing (með varnarsíkjum)
-entrepot (aNt'rpó) n. vörugeymslustaður; verslunarmiðstöð
-entrust (entróst') s. trúa fyrir (e-u [with]), fela (e-m e-ð) á hendur
-entry (entri) n. innganga, innkoma; hátíðleg innför; innrás; inngangur (dyr, hlið, mynni); innfærsla (í bók, [make an ~ of]); póstur (í reikningi); skýrsla, sem gefin er í tollbúð um vörur í skipi ([bill of ~]); [book-keeping by double ~] tvöfalt bókhald
-entwine (entwæn') s. flétta; vefja utan um ([about/round]); faðma
+entrepot n. vörugeymslustaður; verslunarmiðstöð
+entrust s. trúa fyrir (e-u [with]), fela (e-m e-ð) á hendur
+entry n. innganga, innkoma; hátíðleg innför; innrás; inngangur (dyr, hlið, mynni); innfærsla (í bók, [make an ~ of]); póstur (í reikningi); skýrsla, sem gefin er í tollbúð um vörur í skipi ([bill of ~]); [book-keeping by double ~] tvöfalt bókhald
+entwine s. flétta; vefja utan um ([about/round]); faðma
 entwist s. flétta, snúa saman
-enucleate (injú'klieit) s. ná kjarnanum út; gera grein fyrir; skýra
+enucleate s. ná kjarnanum út; gera grein fyrir; skýra
 enucleation n. skýring
-enumerate (injú'mareit) s. telja upp
+enumerate s. telja upp
 enumeration n. talning, upptalning; manntal; skrá (yfir e-ð [of])
 enumerator n. sá sem telur, teljari
-enunciate (inpn'shieit) s. koma orðum að e-u, orða; auglýsa, birta; bera (fram) ræðu
-enunciation (-eishon) n. orðun; framburður (á ræðu)
-enunciative (-otiv) l. skýrandi ([of]); sem lýtur að ræðuframburði
-enunciator (inpn'-shieitor) n. boðari, birtandi
+enunciate s. koma orðum að e-u, orða; auglýsa, birta; bera (fram) ræðu
+enunciation n. orðun; framburður (á ræðu)
+enunciative l. skýrandi ([of]); sem lýtur að ræðuframburði
+enunciator n. boðari, birtandi
 envelop s. hjúpa, vefja; hylja; [~ed in clouds] hulinn skýjum
-envelope (ennvilóp) n. hjúpur, hula; bréfumslag
-envenom (envenn'om) s. eitra, blanda (e-ð) eitri; spilla
-enviable (enviob'l) l. öfundsverður
-envier (envior) n. öfundarmaður
+envelope n. hjúpur, hula; bréfumslag
+envenom s. eitra, blanda (e-ð) eitri; spilla
+enviable l. öfundsverður
+envier n. öfundarmaður, öfundari
 envious l. öfundsjúkur, öfundarfullur ([~ of something])
 environ s. lykja um, umkringja ([~ed with/by mountains])
 environment n. landið umhverfis; umhverfi
@@ -706,11 +706,11 @@ envoy n. minniháttar sendiherra; erindreki, umboðsmaður
 envy n. öfund, öfundsýki; s. öfunda; sjá ofsjónum yfir e-u
 enwomb s. geyma; grafa djúpt niður ([metals ~ed in the earth])
 enwrap s. vefja (innan í [in]), hjúpa ([~ped in white linen])
-enwreathe (enrið) s. umvefja
-eon (íon) n. öld
-eparch (eppárk) n. landstjóri, fylkisstjóri (á Grikklandi)
-epaulette (eppölet) n. axladjásn, axlaskúfur (á einkennisbúningi)
-ephemera (ifemm'oro) n. dægurfluga; l. sem stendur aðeins eitt dægur, dægurlangur (um sjúkdóma); sem lifir einn eða aðeins fáa daga (um skorkvikindi og blóm); skammgóður, skammvinnur
+enwreathe s. umvefja
+eon n. öld
+eparch n. landstjóri, fylkisstjóri (á Grikklandi)
+epaulette n. axladjásn, axlaskúfur (á einkennisbúningi)
+ephemera n. dægurfluga; l. sem stendur aðeins eitt dægur, dægurlangur (um sjúkdóma); sem lifir einn eða aðeins fáa daga (um skorkvikindi og blóm); skammgóður, skammvinnur
 ephemeris n. stjörnufræðileg árbók eða almanak (ft. [ephemerides])
 ephemeron n. dægurfluga
 ephemerous l. skammlífur, skammvinnur, stundar-
@@ -743,27 +743,27 @@ episcopacy n. biskupastjórn
 episcopal l. biskuplegur
 episcopal seat n. biskupsstóll, biskupsdæmi
 episcopal see n. biskupsstóll, biskupsdæmi
-episcopalian (-pei'lian) l. sem tilheyrir biskupakirkjunni; n. biskupatrúarmaður; biskupastjórnarmaður
-episcopate (ipis'köpet) n. biskupsdæmi; biskupsembætti
-episcopize (ipis'köpæz) s. vígja til biskups; koma e-u undir biskupakirkjuna ([~ the Colonies])
-episode (eppisód) n. innskotsgrein, innskotssaga, innskotsþáttur; útúrdúr
+episcopalian l. sem tilheyrir biskupakirkjunni; n. biskupatrúarmaður; biskupastjórnarmaður
+episcopate n. biskupsdæmi; biskupsembætti
+episcopize s. vígja til biskups; koma e-u undir biskupakirkjuna ([~ the Colonies])
+episode n. innskotsgrein, innskotssaga, innskotsþáttur; útúrdúr
 episodic l. innskotinn; tækifærislegur
 episodical l. innskotinn; tækifærislegur
-epistle (ipi's'I) n. pistill, sendibréf; ljóðabréf
-epistolary (ipis'tölari) l. bréfa-, bréflegur
+epistle n. pistill, sendibréf; ljóðabréf
+epistolary l. bréfa-, bréflegur
 epistoler n. bréfritari
 epistolize s. skrifa bréf til e-s; skrifa bréf
-epitaph (eppitáf) n. grafletur
-epithalamium (eppiþalei'miam) n. brúðkaupskvæði, brúðkaupsljóð
-epithet (eppiþat) n. lýsingarorð, kenninafn; s. nefna (kenninafni)
-epitome (ipitt'ömi) n. ágrip, útdráttur
-epitomize (ipitt'-ömæz) s. semja ágrip af; segja stuttlega frá
+epitaph n. grafletur
+epithalamium n. brúðkaupskvæði, brúðkaupsljóð
+epithet n. lýsingarorð, kenninafn; s. nefna (kenninafni)
+epitome n. ágrip, útdráttur
+epitomize s. semja ágrip af; segja stuttlega frá
 epoch n. tímaskipti; nýtt tímabil ([to make an ~])
-epode (eppód) n. epóda (e.k. kvæði)
-epopee (eppöpí) n. söguljóð
+epode n. epóda (e.k. kvæði)
+epopee n. söguljóð
 equability n. jafnleiki; jafnlyndi
 equable l. jafn; [an ~ temper] jafnlyndi
-equal (íkwal) l. jafn (e-u [to]); jafnstór, jafnmikill; vaxinn (e-u [to]); sanngjarn; [an ~ mind] jafnaðargeð; [~ vote] jöfn atkvæði; [other things being ~] að öðru jöfnu; n. jafnoki, jafningi, líki; s. gera jafnan; jafnast við
+equal l. jafn (e-u [to]); jafnstór, jafnmikill; vaxinn (e-u [to]); sanngjarn; [an ~ mind] jafnaðargeð; [~ vote] jöfn atkvæði; [other things being ~] að öðru jöfnu; n. jafnoki, jafningi, líki; s. gera jafnan; jafnast við
 equality n. jafnleiki; jöfnuður
 equalize s. gera jafnan (e-u [with/to]); jafna
 equally ao. jafn ([to divide ~]); jafn- ([~ good, important])
@@ -790,14 +790,14 @@ equip s. gera út (skip); búa, búa út
 equipage n. útbúningur, útbúnaður; farargögn; skrautvagn (með hestum)
 equipment n. útbúnaður ([hunting ~])
 equipoise n. jafnvægi; mótvægi; s. vega upp á móti, jafnvætta; halda (e-u) í jafnvægi
-equipollence (ikwipoll'ons) n. jafngildi
+equipollence n. jafngildi
 equipollent l. jafngildur, jafnmikill; n. jafngildi
-equiponderance (íkwipon'darans) n. jafnvægi
+equiponderance n. jafnvægi
 equiponderant l. jafnvægur, jafnþungur
 equiponderate s. vega upp á móti
-equitable (ekkwitab'l) l. sanngjarn, sannsýnilegur; réttsýnn, óhlutdrægur
+equitable l. sanngjarn, sannsýnilegur; réttsýnn, óhlutdrægur
 equitably ao. með sanngirni
-equitation (ekkwitei'shan) n. reið; reiðmennska; útreið
+equitation n. reið; reiðmennska; útreið
 equity n. sanngirni ([the ~ of his claim]); réttsýni
 equivalence n. jafngildi
 equivalent l. jafngildur; samsvarandi; sömu merkingar ([~ words]); [it would be ~ to] það mundi vera sama sem; n. jafngildi
@@ -829,7 +829,7 @@ erotic l. sem er um ást, ástar-; n. ástarljóð ([~ song])
 err s. villast, fara villt, skjátlast; vera rangur
 errancy n. villa; skjátlun
 erring l. rangur
-errand (errand) n. erindi; [upon an ~] í erindi; [to run (on) ~s] hlaupa erindi
+errand n. erindi; [upon an ~] í erindi; [to run (on) ~s] hlaupa erindi
 errand boy n. vikadrengur
 errant l. reikandi, flakkandi
 erratic l. reikandi, reikull; óstöðugur (í breytni); [~ blocks, boulders] ísaldarbjörg, ísruðningsbjörg
@@ -892,68 +892,68 @@ estimation n. virðing; áætlun; [to hold/have in high ~] hafa í miklum metum;
 estimator n. matsmaður
 estival l. sjá [aestival]
 estivate s. sjá [aestivate]
-estrade (istrád') n. lágur pallur
-estrange (istrein'dzh) s. fjarlægja; gera fráhverfan (e-m [from])
+estrade n. lágur pallur
+estrange s. fjarlægja; gera fráhverfan (e-m [from])
 estrangement n. fjarlæging; fráhvarf (hugarins); fáleikar, fáþykkja
-estray (istrei') n. óskiladýr; s. reika, ráfa (sjá [stray])
-estuary (estjúari) n. árós, ármynni
-esurience (isjú'rians) n. hungur, sultur
-ensurient l. hungraður
-etch (etsh) s. búa til myndir á málmplötu eða gler með skilvatni
-eternal (itör'nal) l. eilífur; ævinlegur; sífelldur, endalaus
+estray n. óskiladýr; s. reika, ráfa (sjá [stray])
+estuary n. árós, ármynni
+esurience n. hungur, sultur
+esurient l. hungraður
+etch s. búa til myndir á málmplötu eða gler með skilvatni
+eternal l. eilífur; ævinlegur; sífelldur, endalaus
 eternalize s. gera eilífan
 eternally ao. eilíflega; ævinlega
-eternity (itör'niti) n. eilífð
+eternity n. eilífð
 eternize s. gera eilífan
-ether (íþor) n. upploft; ljósvaki; eter
-ethereal (iþi'riol) l. upphiminslegur; loftlegur; ljósvakalegur
+ether n. upploft; ljósvaki; eter
+ethereal l. upphiminslegur; loftlegur; ljósvakalegur
 etherealize s. svæfa (sjúkling) með eter
 ethic l. siðfræðislegur
 ethical l. siðfræðislegur
-ethics (eþþiks) n. siðfræði
-Ethiopian (íþió'píon) l. eþíópskur; n. Eþíópi
-ethnic (eþnik) l. heiðinn; þjóðfræðislegur
+ethics n. siðfræði
+Ethiopian l. eþíópskur; n. Eþíópi
+ethnic l. heiðinn; þjóðfræðislegur, þjóðernis-
 ethnicism n. heiðni
-ethnographer (eþnog'grofor) n. þjóðfræðingur
+ethnographer n. þjóðfræðingur
 ethnographic l. þjóðfræðislegur
 ethnographical l. þjóðfræðislegur
-ethnography (-ogg'rofi) n. þjóðalýsing, þjóðfræði
-ethnological (-lod'-zhikol) l. þjóðfræðislegur
+ethnography n. þjóðalýsing, þjóðfræði
+ethnological l. þjóðfræðislegur
 ethnologist n. þjóðfræðingur
-ethnology (-oll'-ödzhi) n. þjóðalýsing, þjóðfræði
-etiquette (ettikett) n. hirðsiðir; hegðunarvenja
+ethnology n. þjóðalýsing, þjóðfræði
+etiquette n. hirðsiðir; hegðunarvenja
 etui n. hylki (einkum saumahylki)
 etwee n. hylki (einkum saumahylki)
-etymologic (ettimölod'-zhik) l. sem lýtur að uppruna og afleiðslu orða
-etymological (ettimölod'-zhik) l. sem lýtur að uppruna og afleiðslu orða
-etymologist (-oll'ödzhist) n. sá sem rekur uppruna orðanna, orðmyndunarfræðingur
-etymologize (-lödzhæz) s. rekja uppruna orða
-etymology (-oll'-ödzhi) n. uppruni og afleiðsla orða; orðmyndunarfræði, orðsifjafræði
-eucharist (júkorist) n. kvöldmáltíðarsakramenti, einkum brauðið ([give, receive the ~])
+etymologic l. sem lýtur að uppruna og afleiðslu orða
+etymological l. sem lýtur að uppruna og afleiðslu orða
+etymologist n. sá sem rekur uppruna orðanna, orðmyndunarfræðingur
+etymologize s. rekja uppruna orða
+etymology n. uppruni og afleiðsla orða; orðmyndunarfræði, orðsifjafræði
+eucharist n. kvöldmáltíðarsakramenti, einkum brauðið ([give, receive the ~])
 eucharistic l. sem lýtur að kvöldmáltíðarsakramentinu ([the ~ bread and wine])
 eucharistical l. sem lýtur að kvöldmáltíðarsakramentinu ([the ~ bread and wine])
-eulogist (júlödzist) n. loftunga
-eulogistic (-dzhis'tik) l. lof-, lofsamlegur
-eulogium (júlod'zhiem) n. lof, lofræða
+eulogist n. loftunga
+eulogistic l. lof-, lofsamlegur
+eulogium n. lof, lofræða
 eulogize s. lofa (í ræðu eða riti)
-eulogy (júlödzhi) n. lof, lofræða
-eunuch (júnök) n. geldingur (um mann)
+eulogy n. lof, lofræða
+eunuch n. geldingur (um mann)
 eunuchize s. gera að gelding
-euphemism (júfimiz'm) n. vægt orðatiltæki, fegrunarheiti
+euphemism n. vægt orðatiltæki, fegrunarheiti
 euphemistic l. mildur, vægur (um orð), fegrunar-
-euphonic (júfonn'ik) l. hljóðfegurðarlegur
+euphonic l. hljóðfegurðarlegur
 euphonical l. hljóðfegurðarlegur
-euphonious (-fó'nias) l. hljómfagur
-euphonize (júfönæz) s. gera hljómfagurt
-euphony (júföni) n. hljóðfegurð
-euphrasy (júfrasi) n. augnfró (jurt)
-euphuism (júfjúiz'm) n. íburður og tildur í rithætti
+euphonious l. hljómfagur
+euphonize s. gera hljómfagurt
+euphony n. hljóðfegurð
+euphrasy n. augnfró (jurt)
+euphuism n. íburður og tildur í rithætti
 euphuist n. íburðarmikill rithöfundur
 euphuistic l. íburðarmikill
-Europe (júröp) n. Evrópa, Norðurálfa
-European (-pi'an) l. Evrópu-; Norðurálfu-; n. Evrópumaður, Norðurálfubúi
-evacuant (ivak'júant) l. & n. búkhreinsandi (lyf)
-evacuate (ivakk'júeit) s. tæma (einkum magann eða innyflin); svipta (e-n e-u [of]); (um her) fara burt úr (landi eða borg); flytja burtu (íbúa eða herlið)
+Europe n. Evrópa, Norðurálfa
+European l. Evrópu-; Norðurálfu-; n. Evrópumaður, Norðurálfubúi
+evacuant l. búkhreinsandi; n. búkhreinsandi lyf
+evacuate s. tæma (einkum magann eða innyflin); svipta (e-n e-u [of]); (um her) fara burt úr (landi eða borg); flytja burtu (íbúa eða herlið)
 evacuation n. tæming; búkhreinsun ([~ by stool]); burtför (herliðs); burtflutningur (herliðs úr e-m stað)
 evade s. komast hjá eða undan ([the thief ~d capture]); sneiða hjá, forðast; fara undan (e-u) í flæmingi ([~ the question, the charge])
 evagation n. afhvarf (af réttri leið); útúrdúr
@@ -999,19 +999,19 @@ everlastingly ao. ævinlega, um allan aldur
 evermore ao. stöðugt, ævinlega, sí og æ
 eversion n. uppbretting ([~ of the eyelids])
 eversive l. sem kollvarpar ([~ of the laws of God])
-evert (ivört') s. kollvarpa, steypa; bretta upp (t.d. augnalokin)
-every (evri) l. sérhver, hver, allir; [~ one] sérhver, allir; [~ other year] annaðhvert ár; [~ third day] þriðji hver dagur; [~ now and then/again] alltaf öðru hverju, við og við
+evert s. kollvarpa, steypa; bretta upp (t.d. augnalokin)
+every l. sérhver, hver, allir; [~ one] sérhver, allir; [~ other year] annaðhvert ár; [~ third day] þriðji hver dagur; [~ now and then/again] alltaf öðru hverju, við og við
 everybody n. sérhver, allir
 everyday l. hversdagslegur ([~ clothes])
 everything n. allt
 everywhere ao. alls staðar, hvarvetna
-evict (ivikt') s. bera e-n út; byggja (e-m) út
-eviction (ivik'-shon) n. útbygging; útburður (af jörð, úr húsi)
-evidence (evvidons) n. auðsæi; vitnisburður; vitni; vitnaleiðsla ([it came out in the ~ that]); sönnun; [give ~ of] bera vott um, færa sönnur á; [call in ~] kalla (e-n) sem vitni; [perjured ~s] ljúgvottar; s. sýna, sanna; bera vitni um, staðfesta
+evict s. bera e-n út; byggja (e-m) út
+eviction n. útbygging; útburður (af jörð, úr húsi)
+evidence n. auðsæi; vitnisburður; vitni; vitnaleiðsla ([it came out in the ~ that]); sönnun; [give ~ of] bera vott um, færa sönnur á; [call in ~] kalla (e-n) sem vitni; [perjured ~s] ljúgvottar; s. sýna, sanna; bera vitni um, staðfesta
 evident l. augljós, auðsær, auðsýnn
-evidential (-den'shol) l. sem er til sönnunar; [be of ~ value] hafa sönnunargildi
-evidentiary (-den'shori) l. sem er til sönnunar; [be of ~ value] hafa sönnunargildi
-evil (ív'l) l. illur, vondur; n. böl, mein; ógæfa, ólán, ófögnuður; [to look with an ~ eye on] líta e-ð illu auga, hafa ímigust á
+evidential l. sem er til sönnunar; [be of ~ value] hafa sönnunargildi
+evidentiary l. sem er til sönnunar; [be of ~ value] hafa sönnunargildi
+evil l. illur, vondur; n. böl, mein; ógæfa, ólán, ófögnuður; [to look with an ~ eye on] líta e-ð illu auga, hafa ímigust á
 evil-affected l. illviljaður, óvinveittur
 evil-disposed l. illviljaður, óvinveittur
 evildoer n. illvirki, illgerðarmaður, illræðismaður
@@ -1019,13 +1019,13 @@ evil-minded l. illviljaður
 evilspeaking n. illmælgi, bakmælgi
 evince s. sanna, sýna fram á
 evincive l. sem sannar e-ð (of)
-eviscerate (iviss'oreit) s. taka innyflin út; skera upp (kviðinn á e-m)
-evitable (evvitob'l) l. hjákvæmilegur
-evite (ivæt') s. komast hjá e-u
-evocate (evvökeit) s. vekja upp (anda)
+eviscerate s. taka innyflin út; skera upp (kviðinn á e-m)
+evitable l. hjákvæmilegur
+evite s. komast hjá e-u
+evocate s. vekja upp (anda)
 evocation n. uppvakning
-evoke (ivók') s. kalla fram; lokka fram; vekja upp (draug)
-evolution (evvöljú'shon) n. framkoma; framrás ([the ~ of time]); framþróun; vöxtur ([~ of power, commerce]); hreyfing (herliðs; í dansi, leikfimi)
+evoke s. kalla fram; lokka fram; vekja upp (draug)
+evolution n. framkoma; framrás ([the ~ of time]); framþróun; vöxtur ([~ of power, commerce]); hreyfing (herliðs; í dansi, leikfimi)
 evolutional l. framþróunar-
 evolutionary l. framþróunar- ([~ theory, ~ law])
 evolve s. þróast (frá e-u [from]); greiða úr; leiða út; koma fram, spretta (af e-u [from])
@@ -1033,34 +1033,34 @@ evulsion n. útrifning, útdráttur ([to remove by ~])
 ewe n. ær
 ewe lamb n. gimbur
 ewe milk n. sauðamjólk
-ewer (júor) n. vatnskanna (sem tilheyrir þvottaskál)
-exacerbate (egzass'orbeit) s. æsa, egna, erta
+ewer n. vatnskanna (sem tilheyrir þvottaskál)
+exacerbate s. æsa, egna, erta
 exacerbation n. gremja; versnun ([~ of disease])
-exact (egzákt') l. nákvæmur; áreiðanlegur; s. krefja (e-n e-s), krefjast e-s (af e-m [of, from]); heimta saman (t.d. skuldir eða skatta); ganga ríkt eftir
+exact l. nákvæmur; áreiðanlegur; s. krefja (e-n e-s), krefjast e-s (af e-m [of, from]); heimta saman (t.d. skuldir eða skatta); ganga ríkt eftir
 exacting l. heimtufrekur, harður í kröfum, harðdrægur
-exaction (egzak'shan) n. heimting, krafa; innheimta; féfletting
+exaction n. heimting, krafa; innheimta; féfletting
 exactions n. ft. þungar álögur
 exactitude n. nákvæmni ([the ~ of the statement]); kostgæfni
 exactly ao. nákvæmlega; beint, beinlínis
 exactness n. nákvæmni ([the ~ of the statement])
-exactor (egzak'tar) n. fjárheimtumaður; féflettari, kúgari
-exaggerate (egzad'zhareit) s. ýkja, gera of mikið úr
+exactor n. fjárheimtumaður; féflettari, kúgari
+exaggerate s. ýkja, gera of mikið úr
 exaggeration n. ýkjur
-exaggerative (-ad'-zhorativ) l. ýkjufullur, ýktur; öfgafullur, ýkinn
-exaggeratory (-ad'zh'ratari) l. ýkjufullur, ýktur; öfgafullur, ýkinn
-exalt (egzölt') s. hefja upp; hefja (e-n) til metorða; hrósa, lofa
+exaggerative l. ýkjufullur, ýktur; öfgafullur, ýkinn
+exaggeratory l. ýkjufullur, ýktur; öfgafullur, ýkinn
+exalt s. hefja upp; hefja (e-n) til metorða; hrósa, lofa
 exaltation n. upphafning; hugaræsing, ofsakæti; aukning ([~ of our faculties])
 exalted l. háleitur, hár, tiginn ([~ station, personage])
 exam n. próf, rannsókn, prófun; yfirheyrsla
-examination (egzámminei'shan) n. rannsókn, prófun; yfirheyrsla ([~ of witnesses]); próf; [undergo an ~] láta reyna sig, vera reyndur; [pass one's ~] taka próf
-examine (egzamm'in) s. rannsaka, prófa, reyna; skoða; spyrja (vitni)
+examination n. rannsókn, prófun; yfirheyrsla ([~ of witnesses]); próf; [undergo an ~] láta reyna sig, vera reyndur; [pass one's ~] taka próf
+examine s. rannsaka, prófa, reyna; skoða; spyrja (vitni)
 examiner n. prófandi; rannsóknari
-example (egzám'p'l) n. dæmi (um e-ð, til e-s [of]); eftirdæmi, fyrirmynd; [make an ~ of (a person)] hegna e-m öðrum til viðvörunar; [set him the/a good ~] ganga á undan e-m með góðu eftirdæmi; [take an ~ by another's calamity] láta sér annars víti að varnaði verða; [for ~] til dæmis; [beyond (without) ~] dæmalaus
+example n. dæmi (um e-ð, til e-s [of]); eftirdæmi, fyrirmynd; [make an ~ of (a person)] hegna e-m öðrum til viðvörunar; [set him the/a good ~] ganga á undan e-m með góðu eftirdæmi; [take an ~ by another's calamity] láta sér annars víti að varnaði verða; [for ~] til dæmis; [beyond (without) ~] dæmalaus
 exampled l. [not ~] sem ekki er dæmi til
-exanimate (egzann'imat) l. örendur; sem örendur, í dauðadái
-exarch (ek'sark) n. landstjóri
+exanimate l. örendur; sem örendur, í dauðadái
+exarch n. landstjóri
 exarchate n. landstjóradæmi
-exasperate (egzas'pareit) s. reita til reiði, æsa, espa
+exasperate s. reita til reiði, æsa, espa
 exasperated l. reiður
 exasperation n. reiði; æsing
 excavate s. hola (út); grafa (t.d. brunn)
@@ -1068,7 +1068,7 @@ excavation n. gröftur; hola, gryfja
 excavator n. grafari; graftarvél
 exceed s. fara út yfir; fara fram úr; vera meiri en; [~ one's income] eyða meiru en efnin leyfa; [I am not ~ing when I say] ég ýki ekki, er ég segi; [it ~s the power of man] það er mannlegum kröftum ofvaxið
 exceedingly ao. mjög, fjarska
-excel (eksell') s. vera (e-m) fremri; vera frábær (ágætur í eða að e-u [in])
+excel s. vera (e-m) fremri; vera frábær (ágætur í eða að e-u [in])
 excellence n. ágæti, yfirburðir
 excellency n. virðingarávarp til stórhöfðingja, hágöfgi; ágæti
 excellent l. frábær, ágætur
@@ -1078,7 +1078,7 @@ excepting fs. nema
 exception n. undantekning; mótmæli (í lagamáli); [to make ~s to] mótmæla; [take ~ at/against] styggjast af
 exceptionable l. aðfinningaverður, hneykslanlegur; óvenjulegur
 exceptional l. óvenjulegur; afbrigðilegur
-exceptious (-sop'shos) l. aðfinningasamur, tiltektasamur
+exceptious l. aðfinningasamur, tiltektasamur
 exceptive l. undantekningar- ([~ clause]); sem er undanskilinn ([words ~ to this rule]); aðfinningasamur, hótfyndinn
 excerpt s. draga út (úr bók), gera útdrátt (úr bók); n. útdráttur, ágrip; sérprentun
 excess n. of, ofurmagn; ógegnd, óhóf; öfgar; [carry to ~] gera of mikið að (e-u); [in/to ~] fram úr hófi, í óhófi ([to eat, drink to ~])
@@ -1119,64 +1119,64 @@ excrete s. skilja (efni úr líkamanum)
 excretion n. saurindi (hægðir, hráki, hor)
 excruciate s. kvelja, pína
 excruciation n. píning, kvöl
-exculpate (ekskpl'peit) s. bera sakir af e-m, hreinsa (af [from])
+exculpate s. bera sakir af e-m, hreinsa (af [from])
 exculpation n. sakarafburður, afsökun
-exculpatory (ekskplp'-) l. afsakandi
-excursion (ekskör'shon) n. skemmtiferð ([make/go on an ~]); útúrdúr
+exculpatory l. afsakandi
+excursion n. skemmtiferð ([make/go on an ~]); útúrdúr
 excursionist n. maður í skemmtiferð
-excursive (ekskör'siv) l. reikull, hvarflandi, óstöðugur
-excusable (ekskjú'zab'I) l. afsakanlegur
+excursive l. reikull, hvarflandi, óstöðugur
+excusable l. afsakanlegur
 excusatory l. afsökunar-
-excuse (ekskjúz') s. afsaka; mæla e-u bót; n. afsökun, afbötun; átylla; [make an ~] afsaka sig; [send an ~] senda afboð; [ignorant beyond ~] ófyrirgefanlega fáfróður; [he is without any ~] hann hefur enga afsökun
-execrable (eksikrab'l) l. andstyggilegur, viðbjóðslegur
-execrate (eksikreit) s. bölva, formæla (e-m); hafa andstyggð á
+excuse s. afsaka; mæla e-u bót; n. afsökun, afbötun; átylla; [make an ~] afsaka sig; [send an ~] senda afboð; [ignorant beyond ~] ófyrirgefanlega fáfróður; [he is without any ~] hann hefur enga afsökun
+execrable l. andstyggilegur, viðbjóðslegur
+execrate s. bölva, formæla (e-m); hafa andstyggð á
 execration n. bölvun; viðbjóður; formæling
-execrative (eksikreitiv) l. fordæmandi
-executant (eksekjútant) n. sá sem framkvæmir, leikur á hljóðfæri
-execute (eksikjút) s. framkvæma; gegna (embætti, skyldu); gefa út (bréf eða skjal fyrir e-u); fullnægja (dómi); taka af lífi, lífláta
+execrative l. fordæmandi
+executant n. sá sem framkvæmir, leikur á hljóðfæri
+execute s. framkvæma; gegna (embætti, skyldu); gefa út (bréf eða skjal fyrir e-u); fullnægja (dómi); taka af lífi, lífláta
 execution n. framkvæmd; aftaka, líflát; lögtak; tjón; [put in (carry into) ~] framkvæma; [do great ~] valda miklu tjóni (eða mannfalli)
 executioner n. aftökumaður, böðull
-executive (ek-sekk'jútiv) l. framkvæmandi, framkvæmdar-; n. framkvæmdarvald
-executor (eksikjútar) n. framkvæmandi
-executory (-eksek'kjú-tari) l. sem lýtur að framkvæmd (skipunar, úrskurðar, laga o.fl.)
-exegesis (eksidzhí'sis) n. ritskýring
+executive l. framkvæmandi, framkvæmdar-; n. framkvæmdarvald
+executor n. framkvæmandi
+executory l. sem lýtur að framkvæmd (skipunar, úrskurðar, laga o.fl.)
+exegesis n. ritskýring
 exegetic l. skýringarlegur, sem skýrir e-ð
-exegetical (eksid-zhett'ikal) l. skýringarlegur, sem skýrir e-ð
-exemplar (egzem'plar) n. fyrirmynd; dæmi; eintak
+exegetical l. skýringarlegur, sem skýrir e-ð
+exemplar n. fyrirmynd; dæmi; eintak
 exemplarily ao. öðrum til viðvörunar ([~ punished]); frábærlega ([~ faithful])
 exemplary l. sem er til fyrirmyndar eða viðvörunar; frábær
-exemplification (-emplifikei'-shan) n. skýring (með dæmum); staðfest eftirrit; staðfesting
-exemplify (egzem'plifæ) s. skýra (sýna) með dæmum; fá (staðfest) eftirrit af (skjali)
-exempt (egzemt') s. taka (skilja) undan; leysa undan (e-u [from]); l. undanþeginn, laus (við [from])
-exemption (-em'shan) n. undanþága, undantekning; lausn (frá e-u [from])
-exequial (eksi'kwial) l. greftrunar- ([~ rites])
-exequies (eksi-kwiz) n. ft. útför
-exercise (eksarsæz) s. nota; fremja; starfsetja; venja (við); æfa; beita (valdi); þjá; n. notkun; iðkun; beiting; framkvæmd; æfing; hreyfing; stíll; [walk for ~] ganga sér til hreyfingar; [religious (devotional) ~] bænahald
+exemplification n. skýring (með dæmum); staðfest eftirrit; staðfesting
+exemplify s. skýra (sýna) með dæmum; fá (staðfest) eftirrit af (skjali)
+exempt s. taka (skilja) undan; leysa undan (e-u [from]); l. undanþeginn, laus (við [from])
+exemption n. undanþága, undantekning; lausn (frá e-u [from])
+exequial l. greftrunar- ([~ rites])
+exequies n. ft. útför
+exercise s. nota; fremja; starfsetja; venja (við); æfa; beita (valdi); þjá; n. notkun; iðkun; beiting; framkvæmd; æfing; hreyfing; stíll; [walk for ~] ganga sér til hreyfingar; [religious (devotional) ~] bænahald
 exercise book n. stílabók
-exercitation (egzarsitei'shan) n. beiting ([~ of one's faculties]); æfing ([rhetorical ~]); húslestur, bænahald ([spiritual ~s]); ritgerð, hugvekja
+exercitation n. beiting ([~ of one's faculties]); æfing ([rhetorical ~]); húslestur, bænahald ([spiritual ~s]); ritgerð, hugvekja
 exert s. beita, neyta ([they ~ed their utmost skill]); sýna; [~ oneself] reyna á sig
-exertion (egzör'shan) n. áreynsla, erfiði, fyrirhöfn
-exfoliate (egzfó'lieit) s. (af)-blaða(st); skrælna, flagna
+exertion n. áreynsla, erfiði, fyrirhöfn
+exfoliate s. (af)blaða(st); skrælna, flagna
 exfoliation n. blöðun, flögnun
-exhalation (eksolei'shan) n. útgufun; gufa
-exhale (egzheil') s. (láta) gufa út; anda (blása) e-u út
-exhaust (egzöst') s. tæma; eyða; gera örmagna; ræða (e-ð) til hlítar
+exhalation n. útgufun; gufa
+exhale s. (láta) gufa út; anda (blása) e-u út
+exhaust s. tæma; eyða; gera örmagna; ræða (e-ð) til hlítar
 exhausted l. tæmdur, tómur; örmagna, magnþrota; uppseldur
 exhaustible l. tæmanlegur
-exhaustion (-ös'-tshan) n. tæming, þrot, þurrður; þreyta, lúi
+exhaustion n. tæming, þrot, þurrður; þreyta, lúi
 exhaustive l. tæmandi
 exhaustless l. óþrotlegur
-exhibit (egzibb'it) s. sýna; leggja fram til sýnis; bera fram (kæru); lofa (verðlaunum [a prize]); gefa inn (læknislyf); n. framlagt skjal; sýnisgripur
-exhibition (-bish'an) n. sýning; inngjöf, notkun (lyfja); námsstyrkur (handa háskólanemendum); [universal ~] heimssýning; [make an ~ of oneself] gera sig hlægilegan
-exhibitioner (-bish'anar) n. háskólanemandi, sem hefur námsstyrk
-exhibitor (egzibb'itar) n. sýningarmaður, sýnandi
-exhilarate (egzill'areit) s. hressa, gleðja, kæta
+exhibit s. sýna; leggja fram til sýnis; bera fram (kæru); lofa (verðlaunum [a prize]); gefa inn (læknislyf); n. framlagt skjal; sýnisgripur
+exhibition n. sýning; inngjöf, notkun (lyfja); námsstyrkur (handa háskólanemendum); [universal ~] heimssýning; [make an ~ of oneself] gera sig hlægilegan
+exhibitioner n. háskólanemandi, sem hefur námsstyrk
+exhibitor n. sýningarmaður, sýnandi
+exhilarate s. hressa, gleðja, kæta
 exhilaration n. hressing, fjörgun; kæti
-exhort (egzhört') s. áminna; uppörva, hvetja; halda fast fram
+exhort s. áminna; uppörva, hvetja; halda fast fram
 exhortation n. hvatning, uppörvun
-exhortative (egzhör'-totiv) l. hvetjandi, uppörvandi
+exhortative l. hvetjandi, uppörvandi
 exhortatory l. hvetjandi, uppörvandi
-exhumation (ekshjúmei'shon) n. uppgröftur
+exhumation n. uppgröftur
 exhume s. grafa upp aftur (t.d. lík)
 exigence n. nauðsyn, neyð, bráð þörf
 exigency n. nauðsyn, neyð, bráð þörf

@@ -1,6 +1,6 @@
 saddlebow n. fiðlubogi; slipsi, borðahnýti
 snow-bunting n. snjótittlingur
-shassock (hassak) n. motta til að krjúpa á (í kirkju), knjákoddi
+shassock n. motta til að krjúpa á (í kirkju), knjákoddi
 sabbath n. sabbatsdagur; hvíldardagur
 sabbathize s. halda hvíldardag
 sable n. safali; safalaskinn; ft. sorgarbúningur; l. svartur, dökkur, dimmur ([a ~ cloud])
@@ -73,7 +73,7 @@ salad n. salatjurt; salat
 salary n. laun, árslaun; s. launa, gjalda (e-m) föst laun
 sale n. sala; útsala; uppboð ([public ~]); [to be on (for) ~] vera til sölu; [to offer for ~] hafa á boðstólum; [this article has a great (ready) ~] gengur vel út, selst vel
 saleable l. seljanlegur, útgengilegur
-salesman (seilzman) n. sölumaður; seljandi
+salesman n. sölumaður; seljandi
 saleswoman n. sölukona; búðarstúlka
 salient l. stökkvandi; framstandandi; áberandi; mikilvægur
 saline l. saltkynjaður, salt-; n. saltkelda
@@ -282,9 +282,9 @@ scarlatina n. flekkusótt, skarlatssótt
 scarlet n. skarlatslitur, skarlat; l. ljósrauður; [~ fever] skarlatssótt
 scarp n. vígisbrekka; s. gera bratt
 scarped l. brattur
-scarry (skári) l. klettóttur
-scary (skéri) l. hræðilegur
-scathe (skeið) n. skaði ([without ~]); s. skaða; eyða
+scarry l. klettóttur
+scary l. hræðilegur
+scathe n. skaði ([without ~]); s. skaða; eyða
 scatheless l. skaðlaus
 scatter s. dreifa, tvístra; ónýta ([~ hopes]); dreifast, tvístrast
 scatterbrain n. hugsunarlaus maður
@@ -357,10 +357,10 @@ scorch s. svíða, láta skrælna af hita; sviðna, skrælna
 score n. skora; strik; reikningur; skuld; ástæða; skor (tveir tugir); [upon the ~ of friendship] fyrir vináttusakir; [to go (set) off, start at a ~] þjóta af stað (um hest); [to quit ~s with one] gera upp reikninga við e-n, borga e-m að fullu; s. merkja með skorum eða strikum, skora, strika; skrifa í reikning (e-s); [~ out] strika út
 scoria n. sindur, gjall; ft. vikurkol
 scoraceous l. gjallmyndaður, gjall-
-scorn (skörn) s. fyrirlíta; forsmá; n. fyrirlitning; forsmán
+scorn s. fyrirlíta; forsmá; n. fyrirlitning; forsmán
 scornful l. forsmáandi, fyrirlítandi ([of])
 scornfully ao. með fyrirlitningu
-scorpion (skörpian) n. sporðdreki
+scorpion n. sporðdreki
 scot n. tillag; skattur; [to pay ~ and lot] svara sköttum og skyldum; [to pay one off ~ and lot] greiða e-m (skuld sína) að fullu og öllu
 scot-free l. óskaddur, óstraffaður ([to pass ~])
 Scot n. Skoti ([Mary, Queen of ~s])
@@ -371,17 +371,17 @@ scotch s. rispa; særa, lama ([the feeling is ~ed, not killed]); skorða (t.d. h
 scotticism n. skosk málvenja
 Scottish l. skoskur
 scoundrel n. fantur; l. þorparalegur, níðingslegur
-scour (skár) s. nugga, fægja; hreinsa, þvo, skola; hreinsa (iðrin); fara fljótt yfir ([~ the country]); þjóta ([~ off, on])
+scour s. nugga, fægja; hreinsa, þvo, skola; hreinsa (iðrin); fara fljótt yfir ([~ the country]); þjóta ([~ off, on])
 scourer n. hreinsari; stigamaður
 scourge n. svipa; refsing; plága; s. hýða; refsa, hirta
 scout n. njósnari; s. njósna; hafna með fyrirlitningu ([the idea was unanimously ~ed])
 scowl s. hnykla brýnnar, ygla sig; n. reiðulegur svipur; ólundarsvipur
 scrabble s. klóra, hripa; klifra, skríða á fjórum fótum; n. klór; klifur
-scrag (skrágg) n. horgrind; [~ of mutton] háls af kindarskrokki
+scrag n. horgrind; [~ of mutton] háls af kindarskrokki
 scragged l. horaður, horgrindarlegur; ósléttur, hrjúfur
 scraggy l. horaður, horgrindarlegur; ósléttur, hrjúfur
 scramble s. klifra (með höndum og fótum); reyna að hrifsa ([~ for]); n. klifur; hrifs; rifrildi, keppni (um [for])
-scrap (skrápp) n. stykki, biti, moli; útdráttur (úr riti); úrklippa (úr blaði)
+scrap n. stykki, biti, moli; útdráttur (úr riti); úrklippa (úr blaði)
 scrapbook n. útdráttabók
 scrap iron n. járnarusl
 scrap metal n. brotamálmur (sem steyptur er upp aftur)
@@ -446,9 +446,9 @@ sculpture n. myndasmíði; s. höggva, skera, grafa (myndir)
 scum n. froða; sori; úrkast, afhrak; s. veiða froðuna ofan af
 scummy l. þakinn froðu
 scumble s. deyfa (liti)
-scurf (sk0rf) n. skurfa; flasa; hrúður
+scurf n. skurfa; flasa; hrúður
 scurfy l. þakinn skurfum; hrúðraður
-skurrility n. skrípalæti, klúrleiki, klúryrði
+scurrility n. skrípalæti, klúrleiki, klúryrði
 scurrilous l. klúryrtur; dónalegur
 scurry s. þjóta burtu ([~ off]); n. flýtir, flaustur; þot
 scurvily ao. lúalega, ódrenglega
@@ -456,11 +456,11 @@ scurviness n. ódrengskapur
 scurvy l. veikur af skyrbjúg; lúalegur; n. skyrbjúgur
 scurvy-grass n. skarfakál
 scut n. skott (á héra)
-scutch (sk0tsh) s. berja laust; ná hýðinu af (hör)
+scutch s. berja laust; ná hýðinu af (hör)
 scutcheon n. merkiskjöldur; skráarlauf
 scuttle n. kolakassi, kolafata ([coal-~])
 scuttle n. lúkugat; hlemmur, hleri (yfir lúkugati); s. bora gat á, sökkva (skipi); bruna, þjóta ([he ~d out of the room banging the door])
-scythe (sæð) n. sigð, ljár; s. slá (með ljá)
+scythe n. sigð, ljár; s. slá (með ljá)
 scytheman n. sláttumaður
 sea n. sjór, haf; sjógangur, ósjór, stórsjór; [at ~] úti á sjó; í óvissu; [by ~] sjóleiðis, sjóveg; [to go to ~] gerast sjómaður; [to put to ~] leggja í haf; [with a considerable ~ running] í talsverðum sjógangi; [half ~s over] hálfdrukkinn
 sea bear n. hvítabjörn, ísbjörn; sæbjörn (seltegund)
@@ -556,7 +556,7 @@ sediment n. grugg á botni, dreggjar, undanlás
 sedimentary l. sem sest á botninn; [~ rocks] vatnagrjót
 sedition n. uppreisn
 seditious l. uppreisnarsamur, óeirðarfullur
-seduce (sidjús') s. tæla, lokka, ginna
+seduce s. tæla, lokka, ginna
 seducement n. ginning, tæling, freisting; afvegaleiðsla
 seduction n. ginning, tæling, freisting; afvegaleiðsla
 seductive l. tælandi, lokkandi, táldrægur
@@ -565,7 +565,7 @@ sedulousness n. kapp
 sedulity n. kapp
 see n. biskupssetur, biskupsstóll; páfastóll, páfadæmi ([the Holy See])
 see s. sjá; skilja; sjá um; heimsækja; hitta að máli; fylgja ([~ a lady home]); reyna (e-ð); [~ a joke] skilja gamanyrði; [~ a thing done] annast um, að e-ð sé gert; [~ the light] sjá dagsins ljós, fæðast; [I saw him fall] ég sá hann detta (falla); [he refused to ~ me] neitaði að hitta mig; [~ about] hugsa um; [~ after] leita að; gá að; [~ for] leita að; skyggnast um eftir; [~ into] sjá inn í; skilja; [~ out] horfa (hlýða) á e-ð til enda; [~ to] annast um, gæta að
-seed (síd) n. fræ; sáð, sæði; afkvæmi, afkomendur; s. sá sér út, kasta fræi; sá
+seed n. fræ; sáð, sæði; afkvæmi, afkomendur; s. sá sér út, kasta fræi; sá
 seed cake n. kúmenskaka
 seed leaf n. fræblað
 seedsman n. sáðmaður; fræsali
@@ -889,7 +889,7 @@ shelling n. hafragrjón; sprengikúlnakast
 shell jacket n. vinnutreyja (hermanna)
 shellproof l. sem sprengikúlur vinna ekki á
 shelly l. auðugur (fullur) af skeljum
-shelter (sheltar) n. hæli, skýli; vernd, skjól ([to seek ~]); s. skýla, hýsa; vernda; leita sér skjóls
+shelter n. hæli, skýli; vernd, skjól ([to seek ~]); s. skýla, hýsa; vernda; leita sér skjóls
 sheltie n. hjaltlenskur hestur
 shelty n. hjaltlenskur hestur
 shelve s. setja hillur í; leggja upp á hillu; leggja (e-ð) í lóg; hallast niður
@@ -1484,7 +1484,7 @@ smelling n. lykt, ilman, angan
 smelt s. bræða (málm úr málmgrýti)
 smeltery n. málmbræðsluhús
 smelting furnace n. málmbræðsluofn
-smile (smæl) s. brosa (að e-u [at]); [~ content] brosa af ánægju; [~ on] brosa við; n. bros; [a scornful ~] háðbros
+smile s. brosa (að e-u [at]); [~ content] brosa af ánægju; [~ on] brosa við; n. bros; [a scornful ~] háðbros
 smilingly ao. brosandi, með brosi
 smirch s. óhreinka, ata
 smirk s. brosa flírulega; n. flírubros, tilgerðarlegt bros
@@ -2152,7 +2152,7 @@ staggers n. ft. vanki (á hestum og nautpeningi), höfuðsótt (í kind)
 stagnancy n. kyrrstaða, stöðvun, hreyfingarleysi, deyfð, doði
 stagnant l. hreyfingarlaus, kyrrstæður; daufur; [~ pool] stöðupollur
 stagnate s. hætta að renna; vera hreyfingarlaus; standa í stað; vera daufur ([trade ~s])
-stagnahon n. kyrrstaða, stöðvun, hreyfingarleysi, deyfð, doði
+stagnation n. kyrrstaða, stöðvun, hreyfingarleysi, deyfð, doði
 stagy l. leikaralegur
 stagey l. leikaralegur
 staid l. ráðsettur, gætinn
@@ -2343,7 +2343,7 @@ stern sheets n. ft. skutur (í báti fyrir aftan þóftur)
 sternway n. hreyfing (skips) aftur á bak
 sternal l. brjóst-, bringu-
 sternum n. bringu-bein
-sternuation n. hnerri, hnerrar
+sternutation n. hnerri, hnerrar
 sternutative l. sem veldur hnerrum ([snuff is ~])
 sternutatory l. sem veldur hnerrum ([snuff is ~])
 stertorous l. korrandi ([~ breathing])
@@ -2770,8 +2770,8 @@ succession n. eftirkoma; röð; erfðir (einkum ríkiserfðir, [~ to the throne]
 successive l. (sem koma) hver á fætur öðrum; [for three ~ days] samfleytt í þrjá daga
 successively ao. hver á fætur öðrum, í röð
 successor n. eftirmaður
-succint l. samandreginn; stuttur, gagnorður
-succintly ao. stuttlega, með fáum orðum
+succinct l. samandreginn; stuttur, gagnorður
+succinctly ao. stuttlega, með fáum orðum
 succour s. koma til hjálpar; n. hjálp; liðveisla
 succulence n. safagnótt
 succulent l. vökvafullur, safamikill ([~ plants])

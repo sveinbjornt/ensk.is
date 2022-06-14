@@ -1,8 +1,8 @@
 gab n. munnur, kjaftur; mælgi; [to have the gift of the ~] geta talað vel fyrir sig, vera liðugt um málbeinið; s. masa, kjafta
 gabble s. bulla, þvaðra; n. bull, þvaður
 gabbler n. þvaðrari
-gaberdine (gabardín) n. e.k. úlpa
-gabion (geibian) n. hólkmynduð vígiskarfa ([~s filled with stones])
+gaberdine n. e.k. úlpa
+gabion n. hólkmynduð vígiskarfa ([~s filled with stones])
 gable n. gafl
 gable-end n. gaflhlað, gafl
 gablet n. lítill gafl
@@ -66,7 +66,7 @@ galloon n. borði, legging
 gallooned l. borðalagður ([~ with lace])
 gallop s. stökkva; ríða stökk; hleypa (hesti) á stökk; n. stökk ([to ride at a ~])
 galloper n. stökkhestur; maður sem ríður stökk
-galloppade n. gallopaði (dans); s. dansa gallopaði
+gallopade n. gallopaði (dans); s. dansa gallopaði
 gallows n. gálgi ([~-tree])
 galosh n. utanhafnarskór, skóhlíf
 galvanic l. galvanskur
@@ -103,7 +103,7 @@ gantlope n. liðsmannarefsing; [to run the ~] ganga (hlaupa) fram og aftur milli
 gaol n. fangelsi (sjá [jail])
 gap n. op, gat, sprunga, skarð; eyða ([~ in our knowledge])
 gape s. gapa, gína; geispa; glápa, góna (á e-ð [at, on, upon]); sækjast eftir ([after, for]); n. op, gin ([he opens his ~]); geisp; gláp, gón
-gap-toothed (-túðd) l. gistenntur
+gap-toothed l. gistenntur
 garb n. búningur, klæðnaður
 garbage n. rusl, úrgangur, úrkast; innyfli (úr skepnum)
 garble s. tína úr; skemma; afbaka, rangfæra
@@ -382,13 +382,13 @@ glen n. dalverpi; gil
 glib l. háll, sleipur; liðugur (um tungu)
 glibly ao. hæglega, liðugt
 glibness n. hálka; liðugleiki
-glide (glæd) s. renna, liða, svífa
+glide s. renna, liða, svífa
 glimmer s. skína dauft, týra; n. skíma, týra; blik; gljásteinn
-glimpse (glimps) n. leiftur, glampi; snögg sjón; [to catch a ~ of] sjá snöggvast, sjá í svip eða bregða fyrir; s. koma auga á, sjá í svip; lita snöggvast á e-ð ([at, upon])
+glimpse n. leiftur, glampi; snögg sjón; [to catch a ~ of] sjá snöggvast, sjá í svip eða bregða fyrir; s. koma auga á, sjá í svip; lita snöggvast á e-ð ([at, upon])
 glint s. glitra, skína ([~ in the sunlight]); n. bjarmi, skíma
 glissade s. renna (sér) niður brekku; n. rennsli niður brekku
-glisten (glis'n) s. tindra, glitra, glóa
-glister (glist-ar) s. tindra, glitra, glóa; n. glampi
+glisten s. tindra, glitra, glóa
+glister s. tindra, glitra, glóa; n. glampi
 glitter s. glitra, gljá, glóa, ljóma; n. ljómi
 glittering l. glitrandi
 gloam s. rökkva, húma
@@ -397,35 +397,35 @@ gloat s. blína; [~ over, on, upon] hlakka yfir (e-u illu)
 globe n. hnöttur, jarðarhnöttur; jarðlíkan, hnettill, kúla; kúpull (á lampa); s. gera (verða) hnöttótt
 globose l. hnöttóttur, hnattmyndaður; bungumyndaður
 globous l. hnöttóttur, hnattmyndaður; bungumyndaður
-globular (globbjúlar) l. hnöttóttur, hnattmyndaður; bungumyndaður
-globosity (glóboss'iti) n. hnattlögun
-globule (globbjúl) n. lítill hnöttur; kúla ([licorice ~s])
+globular l. hnöttóttur, hnattmyndaður; bungumyndaður
+globosity n. hnattlögun
+globule n. lítill hnöttur; kúla ([licorice ~s])
 globy l. hnöttóttur, kringlóttur; bungumyndaður
 gloom n. myrkur, drungi, dimma; hryggð, þunglyndi; s. draga dimmu á; vera þykkur (um veður, himininn); vera dapur, þungbúinn
 gloominess n. dimma, sorti; þunglyndi
 gloomy l. dimmur, daufur (um birtu); hryggur, dapur, þungbúinn, drungalegur
 gloriation n. fögnuður
-glorifiable (-fæab'l) l. vegsamlegur
-glorification (glörifikei'shan) n. vegsömun; dýrðarástand
-glorify (glörifæ) s. gera dýrðlegan; vegsama, dásama
-glorious (glörias) l. dýrðlegur, ágætur; sæmdarfullur; dásamlegur
-glory (glöri) n. dýrð; heiður, sæmd; vegsemd; frægð; dýrðarljómi (um höfuð heilags manns); s. stæra sig af e-u ([in])
+glorifiable l. vegsamlegur
+glorification n. vegsömun; dýrðarástand
+glorify s. gera dýrðlegan; vegsama, dásama
+glorious l. dýrðlegur, ágætur; sæmdarfullur; dásamlegur
+glory n. dýrð; heiður, sæmd; vegsemd; frægð; dýrðarljómi (um höfuð heilags manns); s. stæra sig af e-u ([in])
 gloss n. útskýring; gljái; slikja; blær; s. skýra, útlista; setja gljáa á, fága, fegra
 glossary n. orðasafn
 glossiness n. gljái
 glossy l. gljáandi; ásjálegur
 glottis n. raddrauf (í barkanum)
-glove (gI0vv) n. hanski, glófi, fingravettlingur; s. setja (draga) hanska á
-glover (gl0v-) n. glófari; hanskasali
-glow (gló) s. glóa, vera glóandi; n. glóandi hiti; roði
+glove n. hanski, glófi, fingravettlingur; s. setja (draga) hanska á
+glover n. glófari; hanskasali
+glow s. glóa, vera glóandi; n. glóandi hiti; roði
 glow-worm n. bjöllutegund, sem lýsir af
-glower (glóar) s. hvessa augun, horfa reiðulega (á e-n [at])
-gloze (glóz) s. smjaðra; fegra; skýra ([~ on, upon]); n. orðskýring; smjaður
-glue (glú) n. lim; s. líma; sameina
-gluey (glúi) l. límkenndur
-gluing (glúiN) n. líming
-glum (gl0mm) l. skapillur, önugur
-glumpy (gl0mpi) l. fúll á svip
+glower s. hvessa augun, horfa reiðulega (á e-n [at])
+gloze s. smjaðra; fegra; skýra ([~ on, upon]); n. orðskýring; smjaður
+glue n. lim; s. líma; sameina
+gluey l. límkenndur
+gluing n. líming
+glum l. skapillur, önugur
+glumpy l. fúll á svip
 glut s. offylla ([~ the market]); ofseðja; n. offylli; gnótt
 gluten n. glúten, plöntulím
 glutinous l. límkenndur, kvoðu-
@@ -492,105 +492,106 @@ golf n. golf, e.k. knattleikur
 gondola n. feneyskur bátur, gondóll
 gondolier n. formaður á feneyskum bát
 gone l. af [to go]; farinn, tapaður, burtu; [far ~] langt leiddur; [be ~] farðu (snáfaðu) í burtu!
-gonfalon (gonfalðn) n. fáni, merki, gunnfáni
-gonfanon (gonfanön) n. fáni, merki, gunnfáni
-gong (goN) n. borðklukka ([dinner-~])
-good (gúdd) l. góður (við e-n [to, towards]); góður og gildur ([a ~ excuse]); (um lyf) góður við e-u ([~ for wounds]); [to be ~ enough to, so ~ as to] vera svo vænn að, gera svo vel að (og); uh. gott! rétt! [~ six hours] rúmar (fullar) sex stundir; [for ~] fyrir fullt og allt; [~ for nothing] til einskis nýtur; [~ at] leikinn (fimur) í; [in ~] af alhuga, með kappi; [in ~ time] í tæka tíð; [he is as ~ as his word] hann efnir það sem hann lofar, hann er áreiðanlegur; [to make ~] bæta upp ([to make ~ a deficiency]); færa sönnur á; efna, standa vi e-ð ([one's promise]); koma (e-u) fram; [he made ~ his passage] hann ruddi sér braut; [to last ~] haldast óskemmdur; [as ~ as] sama sem ([to make no visits, or as ~ as none]); [to come to ~] verða til góðs, leiða gott af sér
+gonfalon n. fáni, merki, gunnfáni
+gonfanon n. fáni, merki, gunnfáni
+gong n. borðklukka ([dinner-~])
+good l. góður (við e-n [to, towards]); góður og gildur ([a ~ excuse]); (um lyf) góður við e-u ([~ for wounds]); [to be ~ enough to, so ~ as to] vera svo vænn að, gera svo vel að (og); uh. gott! rétt! [~ six hours] rúmar (fullar) sex stundir; [for ~] fyrir fullt og allt; [~ for nothing] til einskis nýtur; [~ at] leikinn (fimur) í; [in ~] af alhuga, með kappi; [in ~ time] í tæka tíð; [he is as ~ as his word] hann efnir það sem hann lofar, hann er áreiðanlegur; [to make ~] bæta upp ([to make ~ a deficiency]); færa sönnur á; efna, standa vi e-ð ([one's promise]); koma (e-u) fram; [he made ~ his passage] hann ruddi sér braut; [to last ~] haldast óskemmdur; [as ~ as] sama sem ([to make no visits, or as ~ as none]); [to come to ~] verða til góðs, leiða gott af sér
 good breeding n. kurteisi
-goodbye (-bæ) uh. vertu sæll, verið þér sælir! ([to bid, say ~ to]); n. kveðja
+goodbye uh. vertu sæll, verið þér sælir! ([to bid, say ~ to]); n. kveðja
 good-for-nothing l. til einskis hæfur (nýtur); n. ónytjungur
-good-humoured (-hjúmard) l. góðlyndur; glaðlyndur
+good-humoured l. góðlyndur; glaðlyndur
 goodish l. dágóður; riflegur ([a ~ sum of money])
 goodly l. þokkalegur, laglegur; mikill, talsverður; ágætur
 goodman n. húsbóndi (í ávarpi)
 good nature n. góðlyndi; góðmennska
-good-natured (-nei'tshard) l. góðlyndur
+good-natured l. góðlyndur
 goodness n. góðsemi, gæska; [~ of heart] hjartagæska; [the ship was sent ~ knows where] guð veit hvert; [for ~' sake] í guðs bænum; [~ gracious me] guð komi til
-goodwife (-wæf) n. húsmóðir
+goodwife n. húsmóðir
 goodwill n. góðvilji, velvilji; [the ~ of a business] firma-nafn og skiptavinir
 goody l. góðsamur; n. heillin mín (í ávarpi)
 good n. hagur ([for the ~ of mankind]); gæði ([the highest ~]); [it is no ~] það er gagnslaust, til einskis; ft. eigur; vörur
-goosander (gúsan'dar) n. stóra toppönd ([mergus merganser])
-goose n. (ft. [geese]) gæs; (ft. [gooses]) dragjárn (sem skraddarar draga á sauma)
-gooseberry (gúzberri) n. stöngulber
+goosander n. stóra toppönd ([mergus merganser])
+goose n. gæs (ft. [geese])
+gooses n. ft. dragjárn (sem skraddarar draga á sauma)
+gooseberry n. stöngulber
 gooseberry bush n. stöngulberjarunni
 gooseberry fool n. grautur úr stöngulberjum
 goosegrease n. gæsaflot
 goose-quill n. gæsarfjöður
-goosery (gúsari) n. gæsahús; gæsahópur; kjánalæti, aulalæti
-goosy (gúsi) l. gæsarlegur; heimskur, flónskulegur, aulalegur
+goosery n. gæsahús; gæsahópur; kjánalæti, aulalæti
+goosy l. gæsarlegur; heimskur, flónskulegur, aulalegur
 gorcock n. skoskur rjúpkarri
-gorcrow (görkró) n. svört kráka
+gorcrow n. svört kráka
 gore n. storknað blóð, blóðlifur; s. reka í gegn; reka undir, stanga; [~ each other] stangast
-gore (gór) n. geiri (í fati); þríhyrnd landspilda, landgeiri
-gorge (gördzh) n. kok, kverkar; (fjall)skarð, gil; s. gleypa, háma í sig ([~ oneself]); troða í, fylla
-gorgeous (gördzhas) l. skrautlegur, litfagur
+gore n. geiri (í fati); þríhyrnd landspilda, landgeiri
+gorge n. kok, kverkar; (fjall)skarð, gil; s. gleypa, háma í sig ([~ oneself]); troða í, fylla
+gorgeous l. skrautlegur, litfagur
 gorgeousness n. skraut, litfegurð
-gorget (gðrdzhit) n. hálsbjörg; hálsband, hálsmen
-gorgon (görgðn) n. kvennvera í grískri goðafræði
+gorget n. hálsbjörg; hálsband, hálsmen
+gorgon n. kvennvera í grískri goðafræði
 gorgonian l. gorgónskur
 gorgonize s. gera að steini, gera agndofa
 gormand n. sjá [gourmand]
 gormandize s. éta græðgislega (óhóflega), háma í sig
 gormandizer n. mathákur
-gory (göri) l. blóðugur, blóðstorkinn
-goshawk (gos-hök) n. dúfufálki
-gosling (gozIÍN) n. gæsarungi
-gospel (gospol) n. guðspjall; fagnaðarerindi ([to preach the ~])
+gory l. blóðugur, blóðstorkinn
+goshawk n. dúfufálki
+gosling n. gæsarungi
+gospel n. guðspjall; fagnaðarerindi ([to preach the ~])
 gossamer n. loftþræðir; smágjör og gisinn vefnaður, kóngulóarvefur
 gossip n. sögusmetta; mas, þvaður; s. masa, hjala; bera sögur
-Goth (goþþ) n. Goti
+Goth n. Goti
 Gothic l. gotneskur; n. gotneska
-Gothicism (-isiz'm) n. gotneskt snið byggingarlistar; ribbaldaskapur
+Gothicism n. gotneskt snið byggingarlistar; ribbaldaskapur
 gouge n. holmeitill, holjárn; s. hola ([~ out]); stinga augað út (með þumalfingrinum)
-goulard (gúlárd') n. blývatn ([Goulard's extract, Goulard water])
+goulard n. blývatn ([Goulard's extract, Goulard water])
 gourd n. grasker (ávöxtur); graskersflaska
-gourmand (gúrmand) n. sælkeri; átmaður
+gourmand n. sælkeri; átmaður
 gourmandism n. sælkeraskapur
-gout (gát) n. liðaveiki, gigt
+gout n. liðaveiki, gigt
 goutweed n. geitla, snókahvönn
 goutwort n. geitla, snókahvönn
-gouty (gáti) l. liðaveikur; gigtveikur; gigtar-; [~ twinges] gigtarstingir
-gout (gú) n. smekkur
-govern (gþvvarn) s. stjórna, stýra, ráða fyrir ([~ a country]); ráða við
+gouty l. liðaveikur; gigtveikur; gigtar-; [~ twinges] gigtarstingir
+gout n. smekkur
+govern s. stjórna, stýra, ráða fyrir ([~ a country]); ráða við
 governable l. viðráðanlegur, auðsveipur
 governance n. stjórn
 governess n. kennslukona
-government n. (land)-stjórn, ríkisstjórn; ráðuneyti ([His Majesty's ~]); stjórnarfyrirkomulag; yfirráð; [this may serve you for your ~] þér getið hagað yður eftir þessu
+government n. (land)stjórn, ríkisstjórn; ráðuneyti ([His Majesty's ~]); stjórnarfyrirkomulag; yfirráð; [this may serve you for your ~] þér getið hagað yður eftir þessu
 governmental l. landsstjórnar-, ríkisstjórnar-
 governor n. stjórnari; landstjóri, landshöfðingi; gamli maðurinn (um föður); húsbóndi
 gowk n. gaukur; flón
 gown n. kjóll; einkennisyfirhöfn (lækna, dómara og stúdenta); gangsloppur ([dressing-~]); prestshempa; kjóll; s. klæða í kjól o.s.frv.
-gownsman (gánz-) n. háskólamaður, stúdent; borgaralegur embættismaður (lögfræðingur, guðfræðingur, læknir)
-gozzard (gozzard) n. gæsahirðir
-grab (grább) n. hrifs; glefs; s. hrifsa, glefsa í; svæla undir sig; handtaka
-grabble (grab'l) s. fálma, þreifa fyrir sér; þreifa á, þukla; skríða (á fjórum fótum)
-grace (greis) n. yndi, yndisleikur; þokki; viðfelldni; prúðmennska; hylli, náð, miskunn; borðbæn; ft. þokkagyðjur; [to say ~] lesa borðbænina; [I am not in his good ~s] ég er ekki innundir hjá honum; [with a bad ~] nauðugur; [with a good ~] fúslega; með sóma; [days of ~] gjaldfrestur (fram yfir ákveðinn tíma); [your ~] náðugi herra; náðuga frú (í ávarpi); s. prýða, skreyta; sæma (e-n e-u)
+gownsman n. háskólamaður, stúdent; borgaralegur embættismaður (lögfræðingur, guðfræðingur, læknir)
+gozzard n. gæsahirðir
+grab n. hrifs; glefs; s. hrifsa, glefsa í; svæla undir sig; handtaka
+grabble s. fálma, þreifa fyrir sér; þreifa á, þukla; skríða (á fjórum fótum)
+grace n. yndi, yndisleikur; þokki; viðfelldni; prúðmennska; hylli, náð, miskunn; borðbæn; ft. þokkagyðjur; [to say ~] lesa borðbænina; [I am not in his good ~s] ég er ekki innundir hjá honum; [with a bad ~] nauðugur; [with a good ~] fúslega; með sóma; [days of ~] gjaldfrestur (fram yfir ákveðinn tíma); [your ~] náðugi herra; náðuga frú (í ávarpi); s. prýða, skreyta; sæma (e-n e-u)
 graceful l. yndislegur, fagur, þokkafullur; viðfelldinn
 graceless l. vondur, guðlaus; ósvífinn, án þokka
-gracious (greishas) l. náðugur, miskunnsamur; yndislegur; viðfelldinn, vingjarnlegur; [good ~! ~ me!] guð komi til!
+gracious l. náðugur, miskunnsamur; yndislegur; viðfelldinn, vingjarnlegur; [good ~! ~ me!] guð komi til!
 graciously ao. vinsamlega, með yndisþokka
 graciousness n. yndisþokki
-gradate (gradeit') s. (láta) smábreytast (í e-ð [into])
-gradation (gradei'shan) n. framför stig af stigi; röð
-grade (greid) n. stig; flokkur
-gradient (greid-jant) l. hallandi; n. vegarhalli
-gradual (graddjúal) l. (sem verður) smátt og smátt; seinn; n. grallari
+gradate s. (láta) smábreytast (í e-ð [into])
+gradation n. framför stig af stigi; röð
+grade n. stig; flokkur
+gradient l. hallandi; n. vegarhalli
+gradual l. (sem verður) smátt og smátt; seinn; n. grallari
 gradually ao. smám saman; hægt, seint
-graduate (graddjúeit) s. skipta í stig; veita lærdómsnafnbót (við háskóla); taka háskólapróf; breytast smátt og smátt (í [into]); [~ in theology] taka próf í guðfræði; n. sá sem hefur tekið háskólapróf, kandídat
+graduate s. skipta í stig; veita lærdómsnafnbót (við háskóla); taka háskólapróf; breytast smátt og smátt (í [into]); [~ in theology] taka próf í guðfræði; n. sá sem hefur tekið háskólapróf, kandídat
 graduation n. skipting (í stig); veiting lærdómsnafnbótar, fullnaðarpróf (við háskóla)
-graft (gráft) n. frjókvistur; skóflustunga ([a spade's ~]); s. setja frjókvist (í tré); festa (í, við, [to, upon])
-grain (grein) n. frækorn; (sand)korn; korn(matur); ögn, snefill ([not a ~ of truth]); taugar (í viði); purpuralitur; rauður litur; elda litur; tegund ([of the best ~]); skap; [in ~] ósvikinn, ekta; [a scoundrel in ~] stórbófi; [dyed in ~] sem er úr litaðri ull og litast ekki upp; [against the ~] nauðugt, með tregðu
+graft n. frjókvistur; skóflustunga ([a spade's ~]); s. setja frjókvist (í tré); festa (í, við, [to, upon])
+grain n. frækorn; (sand)korn; korn(matur); ögn, snefill ([not a ~ of truth]); taugar (í viði); purpuralitur; rauður litur; elda litur; tegund ([of the best ~]); skap; [in ~] ósvikinn, ekta; [a scoundrel in ~] stórbófi; [dyed in ~] sem er úr litaðri ull og litast ekki upp; [against the ~] nauðugt, með tregðu
 grainy l. kornóttur
 grallatorial l. [~ bird] vaðfugl
 grallatory l. [~ foot] vaðfótur
-graminivorous (grámminivv'-öras) l. grasétandi; [~ animal] grasæta
-grammar (grámmar) n. málmyndalýsing, málfræði; [bad ~] rangt mál, málleysa
+graminivorous l. grasétandi; [~ animal] grasæta
+grammar n. málmyndalýsing, málfræði; [bad ~] rangt mál, málleysa
 grammar school n. latínuskóli, lærður skóli, menntaskóli
 grammarian n. málfræðingur
 grammatical l. sem lýtur að málmyndalýsingu eða málfræði, málfræðis-
 grammatically ao. málfræðilega
-gramme (grám) n. gramm
+gramme n. gramm
 gramophone n. plötuspilari, grammófónn
 grammophone n. plötuspilari, grammófónn
 grample n. krabbi
@@ -606,11 +607,11 @@ grandsire n. afi; ættfaðir
 grandson n. sonar- eða dóttursonur
 grandam n. amma; gömul kona
 grandee n. stórmenni, stórgæðingur (á Spáni)
-grandeur (grándjar) n. tign, skraut
-grandiloquence (grándill'ö-kwens) n. orðagjálfur; gort
+grandeur n. tign, skraut
+grandiloquence n. orðagjálfur; gort
 grandiloquent l. raupsamur
-grandiloquous (-dill'ökwas) l. raupsamur
-grandiose (grándiós) l. mikilfenglegur, viðhafnarlegur
+grandiloquous l. raupsamur
+grandiose l. mikilfenglegur, viðhafnarlegur
 grandiosity n. mikilfengleiki
 grandisonant l. hljómmikill
 grandisonous l. hljómmikill
@@ -653,7 +654,7 @@ grate s. núa, nugga; nuggast við e-ð; mylja; nísta (tönnum); meiða, særa;
 grateful l. þakklátur; þakksamlegur; þægilegur ([a ~ sensation])
 gratefulness n. þakklátsemi
 grater n. rífjárn
-gratification (gráttifikei'shon) n. fullnaðargerð; ánægja, gleði; þóknun
+gratification n. fullnaðargerð; ánægja, gleði; þóknun
 gratified l. ánægður
 gratify s. gera fullnað; fullnægja; seðja ([~ one's curiosity]); gleðja; launa
 gratifying l. ánægjulegur
@@ -705,15 +706,15 @@ great-grandfather n. langafi
 great-grandson n. sonarsonar sonur
 greatly ao. mjög, stórum
 greatness n. stærð, mikilleiki; veldi
-greaves (grívz) n. ft. brynhosur; hamsar
-grebe (gríb) n. sefönd
-Grecian (gríshon) l. grískur; n. Grikki; grískumaður
-grecicize (grísæz) s. setja grískt snið á e-ð; taka á sig grískt snið
-Greece (grís) n. Grikkland
-greed (gríd) n. græðgi
+greaves n. ft. brynhosur; hamsar
+grebe n. sefönd
+Grecian l. grískur; n. Grikki; grískumaður
+grecicize s. setja grískt snið á e-ð; taka á sig grískt snið
+Greece n. Grikkland
+greed n. græðgi
 greediness n. græðgi
 greedy l. gráðugur, sólginn (í e-ð [of])
-green (grín) l. grænn; nýr, ferskur (um kjöt); óþroskaður; hrár (um nýfelldan við); fölur, bleikur (á svip); óvanur, óreyndur; kröftugur ([~ old age]); n. grænn litur; græn grasflöt; ft. grænar matjurtir; græn blöð, lauf; s. lita (gera) grænt; verða grænn, grænka ([~ over])
+green l. grænn; nýr, ferskur (um kjöt); óþroskaður; hrár (um nýfelldan við); fölur, bleikur (á svip); óvanur, óreyndur; kröftugur ([~ old age]); n. grænn litur; græn grasflöt; ft. grænar matjurtir; græn blöð, lauf; s. lita (gera) grænt; verða grænn, grænka ([~ over])
 greenery n. græn lauf, grænar greinar
 green goose n. ung gæs; auli
 greengrocer n. matjurtasali
@@ -726,16 +727,16 @@ greenroom n. leikaraherbergi (í leikhúsi)
 green sickness n. bleikjusótt, blóðleysi
 greensward n. grassvörður
 greeny l. grænleitur
-Greenlander (grínlandor) n. Grænlendingur
+Greenlander n. Grænlendingur
 Greenlandic l. grænlenskur; n. grænlenska
-greet (grit) s. heilsa, kasta kveðju á e-n
+greet s. heilsa, kasta kveðju á e-n
 greeting n. heilsan, kveðja
-gregarious (grigérios) l. sem hefst við í hópum (um dýr), félagslegur
+gregarious l. sem hefst við í hópum (um dýr), félagslegur
 Gregorian l. Gregoríusar-
-grenade (grineid') n. sprengikúla, handsprengja ([hand-~])
-grenadier (grenadír') n. (áður) hermaður, sem kastaði sprengikúlum; (síðar) valinn hermaður
+grenade n. sprengikúla, handsprengja ([hand-~])
+grenadier n. (áður) hermaður, sem kastaði sprengikúlum; (síðar) valinn hermaður
 gressorial l. gang- ([~ feet])
-grey (grei) l. grár; gráhærður; n. grár litur; grár hestur
+grey l. grár; gráhærður; n. grár litur; grár hestur
 greybeard n. gráskeggur
 greyfriar n. grámunkur
 grey-haired l. gráhærður
@@ -743,21 +744,21 @@ gray-haired l. gráhærður
 greyhound n. mjóhundur
 greyish l. gráleitur, ígrár
 greyness n. gráleiki; grár litur
-gridiron (griddæorn) n. steikarrist
-grief (gríf) n. sorg, harmur, hryggð
-grievance (grívans) n. umkvörtunarefni; mein, böl ([a public ~])
-grieve (grív) s. hryggja; angra; vera hryggur, syrgja, harma ([~ at, for, over])
-grievous (grívos) l. sár; hörmulegur; ákafur, þungbær; harður; afskaplegur, voðalegur
+gridiron n. steikarrist
+grief n. sorg, harmur, hryggð
+grievance n. umkvörtunarefni; mein, böl ([a public ~])
+grieve s. hryggja; angra; vera hryggur, syrgja, harma ([~ at, for, over])
+grievous l. sár; hörmulegur; ákafur, þungbær; harður; afskaplegur, voðalegur
 grievously ao. sárlega, ákaflega
 grievousness n. sárleiki
 griffin n. gammur (fugl)
 griffon n. gammur (fugl)
-grig (grigg) n. sandáll; galgopi
+grig n. sandáll; galgopi
 grill s. steikja á rist; n. steikarrist
-grilse (grils) n. ungur lax
+grilse n. ungur lax
 grim l. ógeðslegur, andstyggilegur; óbliður, harður ([~ necessity]); hörkulegur ([~ features]); miskunnarlaus ([~ fighting, battle]); ófrýnilegur; kuldalegur ([~ laughter, jest, pleasantry])
 grimness n. ófrýnileiki
-grimace (grimeis') n. gretta, skæla, bretta; s. skæla sig í andlitinu
+grimace n. gretta, skæla, bretta; s. skæla sig í andlitinu
 grime n. óhreinindi, gróm; s. óhreinka
 griminess n. óhreinleiki
 grimy l. óhreinn, grómtekinn, óþrifalegur
@@ -765,7 +766,7 @@ grin s. láta sjást í tennurnar, glotta; n. glott, háðsbros
 grind s. mala; mylja; slípa (gler); leggja á (stein), hrýna; nísla (tönnum); þjaka; molna; brýnast; strita; núast við e-ð ([on, against]); urga (um hljóð); [~ing taxation] harðar álögur; n. núningur; urg; erfiði, strit
 grinder n. malari; slípari, fágari; jaxl
 grinding-mill n. slípunarmylla
-grindstone (grændstón) n. malarsteinn
+grindstone n. malarsteinn
 grip n. grip, handtak ([~ of the hand, masonic ~]); handfang; meðalkafli ([~ of a sword]); greipar ([in the ~s of, out of the ~s of]); [to keep a tight ~ of] halda fast utan um; [at ~s with] í bardaga (glímu) við; [to come to ~s] komast í handalögmál; s. grípa, taka; bíta saman (tönnunum [one's teeth]); hrífa við ([the anchor ~s])
 gripe s. taka fast utan um; valda verkjum í maganum; kreppa að; sækja upp í vindinn (um skip); n. tak; handfang; meðalkafli (á sverði); ft. iðrakveisa, innantökur; [the ~ of the law] greipar (klær) laganna
 griping l. harðdrægur, ágengur, ágjarn; [~ pains in the belly] sárir verkir í maganum
@@ -774,7 +775,7 @@ grisly l. herfilegur, ljótur
 grist n. korn (sem á að mala), mölunarkorn; [that's ~ to his mill] honum er það ekki afslagur; [all is ~ that comes to his mill] hann græðir á öllu
 gristle n. brjósk
 gristly l. brjóskkynjaður, brjósk-
-grit (gritt) n. stórmalað haframjöl; grjón (-s); stórkornaður sandur; málmsandur; sandsteinn; kjarkur; [a hone of good ~] hein, sem brýnir vel; s. braka, marra; [~ one's teeth] nísta tönnum
+grit n. stórmalað haframjöl; grjón (-s); stórkornaður sandur; málmsandur; sandsteinn; kjarkur; [a hone of good ~] hein, sem brýnir vel; s. braka, marra; [~ one's teeth] nísta tönnum
 gritstone n. sandsteinn
 gritty l. sendinn; þakinn möl; kjarkmikill
 grizzle n. grár litur; s. gera gráleitt ([~ the hair]); grána, hærast; væla, vola (út af e-u [~ about something])
@@ -791,18 +792,18 @@ groggy l. ölvaður; riðandi, skjögrandi
 grogram n. stórgerður vefnaður (úr silki og úlfaldahári); fat (flík) úr grogram
 groin n. nári, lærkriki
 grommet n. kaðallykkja
-groom (grúm) n. hestasveinn; brúðgumi ([bride and ~]); hirðþjónn; s. gæta, hirða (hesta); snotra til, dubba upp ([~ up])
-groomsman (grúmz-) n. brúðgumasveinn
-groomy (grúmi) l. sem líkist hestasveini
-groove (grúv) n. gróp, skora; vanaferill ([to go on in the old ~]); s. grópa, gera skoru í, greypa
-grope (gróp) s. þreifa fyrir sér, fálma; [~ one's way] þreifa sig áfram; [~ out] grafast fyrir e-ð
-gropingly (grópÍNli) ao. með því að þreifa sig áfram
-gross (grós) l. stór, digur, feitur (um skepnur); þykkur (um loft); stórkostlegur; klúr; ókurteis; ósæmilegur; [~ receipt] tekjur með öllum kostnaði; [~ amount] heildarupphæð; [~ weight] vigt með öllum umbúðum; n. megin, meginhluti; gross (12 tylftir); [dealer in ~] stórkaupmaður
+groom n. hestasveinn; brúðgumi ([bride and ~]); hirðþjónn; s. gæta, hirða (hesta); snotra til, dubba upp ([~ up])
+groomsman n. brúðgumasveinn
+groomy l. sem líkist hestasveini
+groove n. gróp, skora; vanaferill ([to go on in the old ~]); s. grópa, gera skoru í, greypa
+grope s. þreifa fyrir sér, fálma; [~ one's way] þreifa sig áfram; [~ out] grafast fyrir e-ð
+gropingly ao. með því að þreifa sig áfram
+gross l. stór, digur, feitur (um skepnur); þykkur (um loft); stórkostlegur; klúr; ókurteis; ósæmilegur; [~ receipt] tekjur með öllum kostnaði; [~ amount] heildarupphæð; [~ weight] vigt með öllum umbúðum; n. megin, meginhluti; gross (12 tylftir); [dealer in ~] stórkaupmaður
 grossly ao. stórkostlega, frámunalega
 grossness n. þéttleiki; afskapleiki ([the ~ of the lie]); klúrleiki, ruddaskapur ([~ of conduct]); heimska
-grotesque (grótesk) l. kynlegur, afkáralegur, hlægilegur; n. skrípamynd; skrípaleikari
-grotto (grottó) n. hellir
-ground (gránd) n. grund; jörð, jarðvegur; landeign; lóð; grundvöllur; undirlitur ([~ colour]); ástæða, orsök; sjávarbotn, grunnur; ft. grútur (undan lýsi); kaffikorgur; [to break ~] losa akkerin frá botninum; [to take the ~] stranda, standa (um skip); [to keep (hold, maintain, stand) one's ~] halda (vel) stöðunni, standast; [to gain ~] færast nær; breiðast út; verða ágengt; [to feel the ~] kenna botns; [to give (lose) ~] víkja, hörfa undan; [to fall to the ~] verða að engu, ónýtast; [to stand ~] standa fastur fyrir, víkja ekki, halda velli; [on the ~ of ill-health] sökum vanheilsu; s. grundvalla ([self-discipline is ~ed on self-knowledge]); draga (undirlit) á; kenna e-m undirstöðuatriðin (í e-i grein); setja (leggja, koma, falla) niður á jörðina; standa á grynningum; [well ~ed] sem hefur við góð rök að styðjast; [well ~ed in Latin] vel heima í latinu
+grotesque l. kynlegur, afkáralegur, hlægilegur; n. skrípamynd; skrípaleikari
+grotto n. hellir
+ground n. grund; jörð, jarðvegur; landeign; lóð; grundvöllur; undirlitur ([~ colour]); ástæða, orsök; sjávarbotn, grunnur; ft. grútur (undan lýsi); kaffikorgur; [to break ~] losa akkerin frá botninum; [to take the ~] stranda, standa (um skip); [to keep (hold, maintain, stand) one's ~] halda (vel) stöðunni, standast; [to gain ~] færast nær; breiðast út; verða ágengt; [to feel the ~] kenna botns; [to give (lose) ~] víkja, hörfa undan; [to fall to the ~] verða að engu, ónýtast; [to stand ~] standa fastur fyrir, víkja ekki, halda velli; [on the ~ of ill-health] sökum vanheilsu; s. grundvalla ([self-discipline is ~ed on self-knowledge]); draga (undirlit) á; kenna e-m undirstöðuatriðin (í e-i grein); setja (leggja, koma, falla) niður á jörðina; standa á grynningum; [well ~ed] sem hefur við góð rök að styðjast; [well ~ed in Latin] vel heima í latinu
 groundage n. hafnargjald
 ground bait n. beita, agn (sem liggur á botninum)
 ground floor n. lægsta gólf
@@ -815,45 +816,45 @@ groundsill n. undirstöðustokkur (byggingar)
 groundswell n. undiralda, ylgja
 groundwork n. undirstaða, grundvöllur
 groundworm n. ánamaðkur
-groundsel (grándsal) n. brandbikar (jurt), krossgras
-group (grúp) n. hópur, þyrping; hópmynd; s. hópa; raða niður; flokka ([~ together]); hópast
-grouse (grás) n. orrafuglar (rjúpur, akurhænsni o.fl.); s. skjóta rjúpur
-grousing (grásÍN) n. rjúpnaveiðar
-grout (grát) n. stórmalað mjöl; undanlás, dreggjar, grugg; kalkhræringur
-grove (gróv) n. lundur; safn af trjám meðfram vegi
-grovel (grovval) s. grúfa, skríða; [~ling thoughts] auðvirðilegur hugsunarháttur
+groundsel n. brandbikar (jurt), krossgras
+group n. hópur, þyrping; hópmynd; s. hópa; raða niður; flokka ([~ together]); hópast
+grouse n. orrafuglar (rjúpur, akurhænsni o.fl.); s. skjóta rjúpur
+grousing n. rjúpnaveiðar
+grout n. stórmalað mjöl; undanlás, dreggjar, grugg; kalkhræringur
+grove n. lundur; safn af trjám meðfram vegi
+grovel s. grúfa, skríða; [~ling thoughts] auðvirðilegur hugsunarháttur
 groveller n. skriðdýr, e-r sem skríður
-grow (gró) s. vaxa; aukast; gróa, spretta; verða (með lýsingarorðum); yrkja, rækta (korn, kartöflur, tóbak o.s.frv.); [~ into fashion] verða að tísku; [days grew (in)to weeks] urðu að vikum; [~ old] verða gamall, eldast; [~ pale] fölna; [~ towards] líða undir, nálgast; [~ into favour with] vinna (smásaman) hylli e-s; [~ upon one] fá vald yfir e-m, gagntaka e-n; [in ~ing up] í uppvextinum
+grow s. vaxa; aukast; gróa, spretta; verða (með lýsingarorðum); yrkja, rækta (korn, kartöflur, tóbak o.s.frv.); [~ into fashion] verða að tísku; [days grew (in)to weeks] urðu að vikum; [~ old] verða gamall, eldast; [~ pale] fölna; [~ towards] líða undir, nálgast; [~ into favour with] vinna (smásaman) hylli e-s; [~ upon one] fá vald yfir e-m, gagntaka e-n; [in ~ing up] í uppvextinum
 grown-up n. & l. fullorðinn ([~ persons])
 grower n. sá sem vex o.s.frv.; yrkjandi, ræktari; [a slow ~] sem er seinn að vaxa
-growl (grál) s. urra; nöldra, mögla; n. urr; mögl
+growl s. urra; nöldra, mögla; n. urr; mögl
 growler n. nöldrari
-growth (gróþ) n. vöxtur; rækt, ræktun; afurðir, gróður; [a beard of a week's ~] vikugamalt skegg
-grub (gr0bb) s. grafa (upp) með rótum ([up]); n. maðkur, bjöllulirfa, matur (óformlegt)
-grudge (gr0dzh) s. sjá eftir e-u; horfa í e-ð ([~ the cost]); telja (e-ð) eftir (e-m); [they did not ~ us our ...] öfunduðu okkur ekki af ...; [he ~s no pains] hann telur ekki eftir sér neina fyrirhöfn; n. öfund, ímugustur, kali; [he never bore a ~ long] hann var ekki langrækinn
+growth n. vöxtur; rækt, ræktun; afurðir, gróður; [a beard of a week's ~] vikugamalt skegg
+grub s. grafa (upp) með rótum ([up]); n. maðkur, bjöllulirfa, matur (óformlegt)
+grudge s. sjá eftir e-u; horfa í e-ð ([~ the cost]); telja (e-ð) eftir (e-m); [they did not ~ us our ...] öfunduðu okkur ekki af ...; [he ~s no pains] hann telur ekki eftir sér neina fyrirhöfn; n. öfund, ímugustur, kali; [he never bore a ~ long] hann var ekki langrækinn
 grudger n. öfundarmaður, óvildarmaður
 grudging n. eftirtölur; öfund
 grudgingly ao. með tregðu, með eftirtölum
-gruel (grúil) n. mjölgrautur
-gruesome (grúsam) l. hryllilegur
-gruff (gr0ff) l. óþýður (í viðmóti); harður, hastur (í málrómi)
+gruel n. mjölgrautur
+gruesome l. hryllilegur
+gruff l. óþýður (í viðmóti); harður, hastur (í málrómi)
 gruffness n. óþýðleiki, harka; hrottaskapur
-grumble (grþmb'l) s. nöldra, mögla ([~ at, about, over]); urra; gnauða; n. nöldur, mögl; urr
+grumble s. nöldra, mögla ([~ at, about, over]); urra; gnauða; n. nöldur, mögl; urr
 grumbler n. nöldrari
-grumbletonian (-tó'nian) n. nöldrari
+grumbletonian n. nöldrari
 grumblingly ao. nöldrandi, möglandi
-grume (grúm) n. kökkur (í blóði)
-grummet (gr0mmit) n. kaðallykkja
-grumous (grúmas) l. kekkjóttur
-grumpy (gr0mpi) l. nöldrunarsamur, geðvondur
-grunt (gr0nt) s. rýta; urra; n. rýt; urr
+grume n. kökkur (í blóði)
+grummet n. kaðallykkja
+grumous l. kekkjóttur
+grumpy l. nöldrunarsamur, geðvondur
+grunt s. rýta; urra; n. rýt; urr
 grunting n. rýt ([~ of a hog])
-gruntle (grpnt'l) n. trýni, snoppa; s. nöldra, mögla
-guano (gúá'nó) n. fugladrit (sem áburður); tilbúinn áburður ([fish ~])
-guarantee (garantí') n. ábyrgð; trygging; ábyrgðarmaður; s. ábyrgjast, tryggja (e-m e-ð, e-n gegn e-u [against, from])
-guarantor (gárrantör') n. ábyrgðarmaður
-guaranty (gárr-anti) n. ábyrgð, trygging; s. ábyrgjast
-guard (gard) n. vörður, varðmaður; vernd, vörn; vagnstjóri; vagnlestarstjóri; úrfesti; sverðshjalt; [to mount ~] ganga á vörð; [to keep ~] vera á verði, halda vörð; [he was (kept) on his ~] hann var var um sig; s. vernda, verja; geyma, gæta; vera á verði, vera var um sig; brydda með skrautborða; [~ against] vara sig á
+gruntle n. trýni, snoppa; s. nöldra, mögla
+guano n. fugladrit (sem áburður); tilbúinn áburður ([fish ~])
+guarantee n. ábyrgð; trygging; ábyrgðarmaður; s. ábyrgjast, tryggja (e-m e-ð, e-n gegn e-u [against, from])
+guarantor n. ábyrgðarmaður
+guaranty n. ábyrgð, trygging; s. ábyrgjast
+guard n. vörður, varðmaður; vernd, vörn; vagnstjóri; vagnlestarstjóri; úrfesti; sverðshjalt; [to mount ~] ganga á vörð; [to keep ~] vera á verði, halda vörð; [he was (kept) on his ~] hann var var um sig; s. vernda, verja; geyma, gæta; vera á verði, vera var um sig; brydda með skrautborða; [~ against] vara sig á
 guardant l. verndandi; n. verndari
 guarded l. varkár, gætinn, var um sig
 guarder n. varðmaður; fátækrafulltrúi
@@ -905,20 +906,20 @@ gull s. leika á, svíkja; n. auli, einfeldningur; máfur
 gullibility n. trúgirni
 gullible l. auðtrúa, trúgjarn
 gullet n. vélinda, kok; djúpur árfarvegur; ármynni
-gully (g0lli) n. gil; djúpt ræsi; s. hola, grafa niður (jarðveg)
-gulp (g01p) s. sloka, teyga; gleypa ([~ down]); [~ up] æla upp; n. teygur ([at one ~]); munnsopi; slokhljóð (í hálsinum)
+gully n. gil; djúpt ræsi; s. hola, grafa niður (jarðveg)
+gulp s. sloka, teyga; gleypa ([~ down]); [~ up] æla upp; n. teygur ([at one ~]); munnsopi; slokhljóð (í hálsinum)
 gulpin n. auðtrúa maður
-gum (g0mm) n. gómur, tannhold; gúmmíkvoða, gúmmí; s. klístra, líma
+gum n. gómur, tannhold; gúmmíkvoða, gúmmí; s. klístra, líma
 gumboil n. tannkýli
 gumminess n. viðloðun
 gummmy l. gúmmíkenndur; kvoðukynjaður; klístrandi
-gummous (gpmmas) l. gúmmíkenndur; kvoðukynjaður; klístrandi
-gumption (gpmshan) n. vit, skynsemd, kænska
-gum tree (g0mtrí) n. gúmmítré
+gummous l. gúmmíkenndur; kvoðukynjaður; klístrandi
+gumption n. vit, skynsemd, kænska
+gum tree n. gúmmítré
 gun n. byssa, fallbyssa; s. skjóta; [go out ~ing] fara út að skjóta
 gunboat n. fallbyssubátur
 gunlock n. byssulás
-gunnage (-nidzh) n. allar fallbyssur á herskipi
+gunnage n. allar fallbyssur á herskipi
 gunner n. stórskyti
 gunnery n. stórskotalist; skothríð
 gunpowder n. byssupúður
@@ -926,38 +927,38 @@ gunshot n. skotvídd, skotdrag ([out of, within ~])
 gunsmith n. byssusmiður
 gunstock n. byssuskaft
 gunnel n. borðstokkur, skipsborð
-gunwale (g0nnel) n. borðstokkur, skipsborð
-gurgle (görg'l) s. niða (um læk); gjálfra; n. niður, gjálfur; slokhljóð
-gurgling (görglin) n. niður, gjálfur
-gurnard (görnard) n. urrari (fiskur)
-gurnet (görnit) n. urrari (fiskur)
-gush (g0sh) s. buna, fossa, streyma; n. gusa, buna
+gunwale n. borðstokkur, skipsborð
+gurgle s. niða (um læk); gjálfra; n. niður, gjálfur; slokhljóð
+gurgling n. niður, gjálfur
+gurnard n. urrari (fiskur)
+gurnet n. urrari (fiskur)
+gush s. buna, fossa, streyma; n. gusa, buna
 gushing l. viðkvæmur
-gusset (gpssit) n. þríhyrndur geiri í fati, spjald í skyrtu
-gust (g0st) n. smekkur, bragð; nautn
+gusset n. þríhyrndur geiri í fati, spjald í skyrtu
+gust n. smekkur, bragð; nautn
 gustation n. smekkur, bragð
 gustative l. sem lýtur að smekk ([~ nerve])
 gustatory l. sem lýtur að smekk ([~ nerve])
-gust (g0st) n. gustur, roka; ofsi; hviða
+gust n. gustur, roka; ofsi; hviða
 gusty l. stormasamur, byljóttur
-gut (g0tt) n. þarmur, görn; ft. innyfli; [blind ~] botnlangi; [great ~] ristill; s. taka innan úr; slægja (fisk); tæma
-gutta-percha (g0tta-pör'tsha) n. togleður, viðarkvoða
-gutter (g0ttar) n. ræsi, renna; þakrenna; s. hola; renna, streyma; renna niður (um kerti)
-guttle (g0t'l) s. éta með græðgi
-guttural (gþttaral) l. kverk-, kverklegur; [~ sound] kverkhljóð; n. kverkstafur
+gut n. þarmur, görn; ft. innyfli; [blind ~] botnlangi; [great ~] ristill; s. taka innan úr; slægja (fisk); tæma
+gutta-percha n. togleður, viðarkvoða
+gutter n. ræsi, renna; þakrenna; s. hola; renna, streyma; renna niður (um kerti)
+guttle s. éta með græðgi
+guttural l. kverk-, kverklegur; [~ sound] kverkhljóð; n. kverkstafur
 gutturalize s. bera fram með kverkhljóði
-guy (gæ) n. gaur, náungi; skrípamynd, hræða; [give the ~ to] hlaupa (strjúka) frá e-m; s. gera gys að ([~ at])
-guzzle (g0z'l) s. drekka iðulega; þamba ([~ beer])
+guy n. gaur, náungi; skrípamynd, hræða; [give the ~ to] hlaupa (strjúka) frá e-m; s. gera gys að ([~ at])
+guzzle s. drekka iðulega; þamba ([~ beer])
 guzzler n. þambari, drykkjumaður, fyllisvín
-gymnasiast (dzhimnei'ziast) n. nemandi í lærdómsdeild menntaskóla
-gymnasium (dzhimnei'ziam) n. fimleikahús; lærður skóli
-gymnast (dzhimnast) n. fimleikamaður
-gymnastic (dzhimnas'tik) l. leikfimislegur, leikfimi-, fimleika-; n. ft. [~s] leikfimi ([to practise ~s])
-gymnosophist (dzhimnoss'-öfist) n. indverskur heimspekingur
-gymnotus (dzhimnó'tas) n. hrökkáll
-gyneocracy (dzhænikok'rasi) n. kvennveldi, kvennstjórn
-gynecology n. kvennsjúkdómafræði
-gynarchy n. kvennveldi, kvennstjórn
+gymnasiast n. nemandi í lærdómsdeild menntaskóla
+gymnasium n. fimleikahús; lærður skóli
+gymnast n. fimleikamaður
+gymnastic l. leikfimislegur, leikfimi-, fimleika-; n. ft. [~s] leikfimi ([to practise ~s])
+gymnosophist n. indverskur heimspekingur
+gymnotus n. hrökkáll
+gyneocracy n. kvennaveldi, kvennastjórn
+gynecology n. kvensjúkdómafræði
+gynarchy n. kvennaveldi, kvennastjórn
 gypseous l. gipskynjaður
 gypsum n. gips
 gyrate s. snúast í hring

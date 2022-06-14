@@ -685,7 +685,7 @@ cheeky l. óskammfeilinn
 cheep s. tísta
 cheer n. yfirbragð; gleði, kæti; vistir, matur ([a table loaded with good ~]); uppörvun; fágnaðaróp; [be of good ~] vera hughraustur, hress; [when good ~'s lacking, our friends will be packing] úti er vinátta, þegar ölið er af könnunni; s. gleðja, kæta, telja hug í; hugga; [~ up] uppörva, hressa við; herða upp hugann, hýrna; fagna með gleðiópi
 cheerful l. glaður, glaðvær; gleðjandi, hýrgandi
-cheerfullness n. gleði, glaðværð
+cheerfulness n. gleði, glaðværð
 cheery l. glaðvær
 cheese n. ostur
 cheesemonger n. ostasali
@@ -1613,7 +1613,7 @@ compunction n. iðrun, samviskubit
 compunctious l. iðrandi, iðrunar- ([~ feeling])
 compurgation n. hreinsun annars af kæru með eiði
 computable l. reiknanlegur
-computation n. reikningur; [beyond ~] óreiknanlegur
+computation n. reikningur, útreikningur; [beyond ~] óreiknanlegur
 compute s. reikna
 comrade n. félagi, lagsmaður
 comradely l. kumpánalegur
@@ -2458,7 +2458,7 @@ crawl s. skríða, skreiðast; vera kvikur (af e-u [with]); klæja
 crayon n. teiknikrít
 craze s. brjála, æra; brjálast, ærast; n. æði, brjálun; æðisleg löngun
 crazed l. brjálaður
-crazy l. vitskertur, brjálaður, geðbilaður; hrörlegur ([a ~ house, ship]); 
+crazy l. vitskertur, brjálaður, geðbilaður; hrörlegur ([a ~ house, ship])
 creak s. marra, braka, hrikta í; n. marr, brak, hrikt
 cream n. rjómi; úrval; [~ of tartar] hreinsaður vínsteinn; s. veiða rjómann ofan af; láta rjóma í (kaffi, te); velja úr; [the milk ~s] rjómi sest ofan á mjólkina
 creamer n. rjómafleytir

@@ -277,7 +277,7 @@ unfinished l. ófullgerður
 unfit l. óhæfur; s. gera óhæfan (til [for])
 unfitting l. ósamboðinn
 unfix s. leysa, losa um
-unfited l. óstöðugur; óráðinn
+unfitted l. óstöðugur; óráðinn
 unflagging l. óbilugur, óþreytandi
 unfledged l. ófleygur
 unflinching l. ótrauður
@@ -383,7 +383,7 @@ unlearned l. ólærður
 unleavened l. ósýrður
 unless st. ef ekki; nema
 unlettered l. ómenntaður
-unlicenced l. óleyfður, óheimilaður; ólöggiltur
+unlicensed l. óleyfður, óheimilaður; ólöggiltur
 unlike l. ólíkur, ójafn
 unlikelihood n. ólíkindi; ósennileiki
 unlikeliness n. ólíkindi; ósennileiki
@@ -497,7 +497,7 @@ unrivalled l. óviðjafnanlegur
 unrobe s. afklæða
 unroll s. rekja í sundur; vinda ofan af
 unroof s. taka þakið af
-unrufled l. sléttur
+unruffled l. sléttur
 unruly l. óstjórnlegur, óstýrilátur; þrjóskur
 unsaddle s. spretta af
 unsafe l. ekki öruggur
@@ -518,7 +518,7 @@ unseat s. svipta (e-n) sæti; kasta (e-m) af baki
 unseemly l. óþokkalegur; ósæmilegur
 unseen l. óséður; ósýnilegur ([the ~ world])
 unselfish l. ósérplæginn
-unservicable l. óhentugur, ónýtur
+unserviceable l. óhentugur, ónýtur
 unsettle s. hagga; rugla
 unsettled l. óstöðugur, breytilegur ([~ weather]); gruggugur; óbyggður; óborgaður
 unsew s. spretta upp
@@ -606,6 +606,7 @@ unwilling l. óviljugur, ófús, tregur
 unwillingly ao. ófúslega
 unwillingness n. tregða
 unwind s. vinda ofan af; rekja í sundur
+unwise l. óvitur, óviturlegur, óhyggilegur
 unwished l. [~ for] ekki þráður
 unwittingly ao. óvitandi
 unwomanly l. ókvennlegur
