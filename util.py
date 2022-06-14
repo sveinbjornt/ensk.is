@@ -59,9 +59,9 @@ def read_raw_pages(fn: Optional[str] = None) -> Dict[str, List]:
         if fn and file != fn:
             continue
         fp = os.path.join(base_path, file)
-        if os.path.isfile(fp) == False:
+        if not os.path.isfile(fp):
             continue
-        if file.endswith(".txt") == False:
+        if not file.endswith(".txt"):
             continue
 
         with open(fp, "r") as f:
@@ -141,7 +141,7 @@ def read_wordlist(fn: str) -> List[str]:
             if line.startswith("#"):  # Skip comments
                 continue
             words.append(line)
-    return words
+    return list(set(words))
 
 
 CATEGORIES = read_wordlist("data/catwords.txt")

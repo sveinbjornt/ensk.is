@@ -37,12 +37,14 @@
 
 """
 
+from typing import Union
+
 import re
 
 from islenska import Bin
 from tokenizer import tokenize
 
-from util import read_pages, read_wordlist, parse_line
+from util import read_raw_pages, read_wordlist, parse_line
 
 b = Bin()
 
@@ -55,11 +57,11 @@ EN_WORDS_LIST.extend(EN_WORDS_WHITELIST)
 CATEGORIES = read_wordlist("data/catwords.txt")
 
 
-def warn(s: str, pn: int, ln: int):
+def warn(s: str, pn: Union[int, str], ln: int):
     print(f"{pn}:{ln} | {s}")
 
 
-def check_punctuation(line: str, pn: int, ln: int):
+def check_punctuation(line: str, pn, ln: int):
     if line.strip() == "":
         warn("empty line", pn, ln)
     if "  " in line:
@@ -76,6 +78,7 @@ def check_punctuation(line: str, pn: int, ln: int):
         or line.endswith(".")
         and not line.endswith("o.fl.")
         and not line.endswith("o.s.frv.")
+        and not line.endswith("o.þ.h.")
     ):
         warn("line ends with non-alphabetic character", pn, ln)
 
@@ -86,7 +89,7 @@ def check_punctuation(line: str, pn: int, ln: int):
         warn("() error", pn, ln)
 
 
-def check_spacing(line: str, pn: int, ln: int):
+def check_spacing(line: str, pn, ln: int):
     if "\t" in line:
         warn("tab character", pn, ln)
     if "  " in line:
@@ -97,7 +100,7 @@ def strip_words_in_square_brackets(s: str) -> str:
     return re.sub(r"\[.+\]", "", s)
 
 
-def check_bracket_use(line: str, pn: int, ln: int):
+def check_bracket_use(line: str, pn, ln: int):
     lc = strip_words_in_square_brackets(line)
 
     if "~" in lc:
@@ -105,25 +108,32 @@ def check_bracket_use(line: str, pn: int, ln: int):
         warn("~ char outside brackets", pn, ln)
 
 
-def check_phonetic_junk(s: str, pn: int, ln: int):
+def check_phonetic_junk(s: str, pn, ln: int):
     comp = s.split()
 
-    # if "'" in comp[0]:
-    #     warn(f"PHON IN DEF: {comp[0]}", pn, ln)
-
-    for c in comp[:3]:
-        if c.startswith("(") and c.endswith(")"):
-            warn(f"Phonetic junk {c}", pn, ln)
-
-    # if len(comp) < 3:
-    #     warn("Line has less than three components", pn, ln)
-    # if comp[0] in CATEGORIES:
-    #     warn("Missing word, first comp is category", pn, ln)
+    if len(comp) < 3:
+        warn("Line has less than three components", pn, ln)
+    if comp[0] in CATEGORIES:
+        warn("Missing word, first comp is category", pn, ln)
     # if comp[1] not in CATEGORIES and comp[2] not in CATEGORIES:
     #     warn("Category not in first three components", pn, ln)
 
+    ix = 0
 
-def check_english_words(line: str, pn: int, ln: int):
+    for c in comp:
+        if c in CATEGORIES:
+            break
+        else:
+            ix += 1
+
+    comp = comp[:ix]
+
+    for c in comp:
+        if c.startswith("(") and c.endswith(")"):
+            warn(f"Phonetic junk {c}", pn, ln)
+
+
+def check_english_words(line: str, pn, ln: int):
     res = re.findall(r"\[([^\]]+)", line)
     s = " ".join([r.strip() for r in res])
     words = s.split()
@@ -158,28 +168,39 @@ def check_english_words(line: str, pn: int, ln: int):
                     warn(f"English Word: '{w}'", pn, ln)
 
 
-def check_enword_def(line: str, pn: int, ln: int):
+def check_enword_def(line: str, pn, ln: int):
     (entry, definition) = parse_line(line)
     e = entry.strip()
+    if "," in e:
+        warn(f"Comma in entry: {e}", pn, ln)
     if "(" in e or ")" in e:
         warn(f"'{entry}' is fucked", pn, ln)
-    if e not in EN_WORDS_LIST:
-        warn(f"'{entry}' not in English word list", pn, ln)
-        kr = e.replace("-", "")
-        if kr in EN_WORDS_LIST:
-            print(f"{e} --> {kr}")
-        ks = e.replace("-", " ")
-        if ks in EN_WORDS_LIST:
-            print(f"{e} --> {ks}")
-        kc = e[:1].upper() + e[1:]
-        if kc in EN_WORDS_LIST:
-            print(f"{e} --> {kc}")
-        kd = e.replace(" ", "")
-        if kd in EN_WORDS_LIST:
-            print(f"{e} --> {kd}")
+
+    if " " in e:
+        words = e.split()
+    else:
+        words = [e]
+
+    for w in words:
+        e = w
+        if e not in EN_WORDS_LIST:
+            if e.lower() not in EN_WORDS_LIST and e.capitalize() not in EN_WORDS_LIST:
+                warn(f"'{entry}' not in English word list", pn, ln)
+        # kr = e.replace("-", "")
+        # if kr in EN_WORDS_LIST:
+        #     print(f"{e} --> {kr}")
+        # ks = e.replace("-", " ")
+        # if ks in EN_WORDS_LIST:
+        #     print(f"{e} --> {ks}")
+        # kc = e[:1].upper() + e[1:]
+        # if kc in EN_WORDS_LIST:
+        #     print(f"{e} --> {kc}")
+        # kd = e.replace(" ", "")
+        # if kd in EN_WORDS_LIST:
+        #     print(f"{e} --> {kd}")
 
 
-def check_icelandic_words(line: str, pn: int, ln: int):
+def check_icelandic_words(line: str, pn, ln: int):
     comp = line.split()
     if len(comp) < 3:
         warn("mangled formatting", pn, ln)
@@ -221,7 +242,7 @@ def check_icelandic_words(line: str, pn: int, ln: int):
                 warn(f"Icelandic Word: '{txt}' not found in BÍN", pn, ln)
 
 
-def check_category(line: str, pn: int, ln: int):
+def check_category(line: str, pn, ln: int):
     hascat = False
     for c in CATEGORIES:
         if f" {c} " in line:
@@ -231,19 +252,16 @@ def check_category(line: str, pn: int, ln: int):
         warn("no category for word", pn, ln)
 
 
-r = read_pages()
+r = read_raw_pages()
 
-
-for page_num, page in enumerate(r):
-    for line_num, line in enumerate(page):
-        pn = page_num + 1
-        ln = line_num + 1
-        # print(f"{pn}:{ln}| {line}")
-        # check_spacing(line, pn, ln)
-        check_punctuation(line, pn, ln)
-        # check_category(line, pn, ln)
-        # check_bracket_use(line, pn, ln)
-        # check_phonetic_junk(line, pn, ln)
-        # check_icelandic_words(line, pn, ln)
-        # check_english_words(line, pn, ln)
-        # check_enword_def(line, pn, ln)
+for letter, lines in r.items():
+    for ln, line in enumerate(lines):
+        ln = ln + 1
+        check_spacing(line, letter, ln)
+        check_punctuation(line, letter, ln)
+        check_category(line, letter, ln)
+        check_bracket_use(line, letter, ln)
+        check_phonetic_junk(line, letter, ln)
+        # check_icelandic_words(line, letter, ln)
+        # check_english_words(line, letter, ln)
+        # check_enword_def(line, letter, ln)
