@@ -37,6 +37,7 @@ jobs:
     - name: Test with pytest
       run: |
         python -m pytest
+        python verify.py
     - name: Generate dict
       run: |
         python gen.py
