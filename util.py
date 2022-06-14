@@ -166,7 +166,8 @@ def parse_line(s: str) -> Tuple:
         if not c:
             continue
         if c.startswith("(") and c.endswith(")"):
-            continue
+            # Looks like there's some phonetic junk left over
+            raise Exception(f"Invalid entry: {s}")
         wentries.append(c)
 
     word = " ".join(wentries)

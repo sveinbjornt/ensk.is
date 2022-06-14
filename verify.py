@@ -105,35 +105,22 @@ def check_spacing(line: str, pn, ln: int):
         warn("double spaces", pn, ln)
 
 
+def check_category(line: str, pn, ln: int):
+    hascat = False
+    for c in CATEGORIES:
+        if f" {c} " in line:
+            hascat = True
+            break
+    if not hascat:
+        warn("no category for word", pn, ln)
+
+
 def check_bracket_use(line: str, pn, ln: int):
     lc = strip_words_in_square_brackets(line)
 
     if "~" in lc:
         print(line)
         warn("~ char outside brackets", pn, ln)
-
-
-def check_phonetic_junk(s: str, pn, ln: int):
-    comp = s.split()
-
-    if len(comp) < 3:
-        warn("Line has less than three components", pn, ln)
-    if comp[0] in CATEGORIES:
-        warn("Missing word, first comp is category", pn, ln)
-
-    ix = 0
-
-    for c in comp:
-        if c in CATEGORIES:
-            break
-        else:
-            ix += 1
-
-    comp = comp[:ix]
-
-    for c in comp:
-        if c.startswith("(") and c.endswith(")"):
-            warn(f"Phonetic junk {c}", pn, ln)
 
 
 def check_english_words(line: str, pn, ln: int):
@@ -253,16 +240,6 @@ def check_icelandic_words(line: str, pn, ln: int):
                 warn(f"Icelandic Word not found in BÍN: '{txt}' ", pn, ln)
 
 
-def check_category(line: str, pn, ln: int):
-    hascat = False
-    for c in CATEGORIES:
-        if f" {c} " in line:
-            hascat = True
-            break
-    if not hascat:
-        warn("no category for word", pn, ln)
-
-
 def main():
     r = read_raw_pages()
 
@@ -273,7 +250,6 @@ def main():
             check_punctuation(line, letter, ln)
             check_category(line, letter, ln)
             check_bracket_use(line, letter, ln)
-            check_phonetic_junk(line, letter, ln)
             # check_icelandic_words(line, letter, ln)
             # check_english_words(line, letter, ln)
             # check_enword_def(line, letter, ln)
