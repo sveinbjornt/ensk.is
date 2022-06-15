@@ -32,38 +32,26 @@
     POSSIBILITY OF SUCH DAMAGE.
 
 
-    Find phonetic IPA spelling for words in the dictionary that don't have any.
+    Find and print out all duplicate word-key entries in the dictionary
+    for comparison and evaluation purposes.
 
 
 """
 
-import subprocess
 
 from db import EnskDatabase
 
-entries = EnskDatabase().read_all_additions()
 
-no_ipa = [e["word"] for e in entries if e["ipa_uk"] == ""]
+def main() -> int:
+    db = EnskDatabase()
 
-print(f"Num w. no IPA: {len(no_ipa)}")
+    entries = db.read_all_duplicates()
 
-for e in no_ipa:
-    if " " in e:
-        continue
+    for e in entries:
+        print(f"{e['word']}: {e['definition']}")
 
-    try:
-        out = subprocess.check_output(["ruby", "ipa-cambridge.rb", e])
-        out = out.decode().strip()
-    except Exception as e:
-        continue
+    return 0
 
-    if not out:
-        continue
-    comp = out.split("\n")
-    c = comp[0]
 
-    s = c.split(" ")
-    if len(s) > 1:
-        c = s[-1]
-
-    print(e + ": " + str(c) + ",")
+if __name__ == "__main__":
+    exit(main())

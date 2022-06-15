@@ -138,3 +138,14 @@ class EnskDatabase(object):
         res = list(selected)  # Consume generator into list
         res.sort(key=lambda x: x["word"].lower())
         return res
+
+    def read_all_duplicates(self) -> List[Dict]:
+        """Read and return all duplicate (i.e. same word) entries present in the dictionary
+        as a dict keyed by word."""
+        conn = self.conn()
+        # TODO: Make this work, return as dict keyed by word
+        selected = conn.cursor().execute(
+            "SELECT *, COUNT(*) FROM dictionary HAVING COUNT(*) > 1"  # FIXME
+        )
+        res = list(selected)  # Consume generator into list
+        return res
