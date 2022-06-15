@@ -58,34 +58,16 @@ class EnskDatabase(object):
     def __new__(cls):
         """Singleton pattern."""
         if cls._instance is None:
-            print("Instantiating database")
+            logging.info("Instantiating database")
             cls._instance = super(EnskDatabase, cls).__new__(cls)
             # Create database file and schema if no DB file exists
             if not Path(cls._dbname).is_file():
                 cls._instance.create()
-
         return cls._instance
-
-    def conn(self, read_only: bool = False) -> sqlite3.Connection:
-        """Open database connection lazily."""
-        if not self.db_conn:
-            # Open database file in read-only mode via URI
-            db_uri = f"file:{self._dbname}"
-            if read_only:
-                db_uri += "?mode=ro"
-            print(f"Opening database connection at {db_uri}")
-            self.db_conn = sqlite3.connect(db_uri, uri=True, check_same_thread=False)
-
-            # Return rows as key-value dicts
-            self.db_conn.row_factory = lambda c, r: dict(
-                zip([col[0] for col in c.description], r)
-            )
-
-        return self.db_conn
 
     def create(self) -> None:
         """Create database file and generate database schema."""
-        print(f"Creating database {self._dbname}")
+        logging.info(f"Creating database {self._dbname}")
 
         # Create database file
         conn = sqlite3.connect(self._dbname)
@@ -104,8 +86,33 @@ class EnskDatabase(object):
 
         conn.cursor().execute(create_table_sql)
 
+    def conn(self, read_only: bool = False) -> sqlite3.Connection:
+        """Open database connection lazily."""
+        if not self.db_conn:
+            # Open database file via URI
+            db_uri = f"file:{self._dbname}"
+            if read_only:
+                db_uri += "?mode=ro"
+            logging.info(f"Opening database connection at {db_uri}")
+            self.db_conn = sqlite3.connect(
+                db_uri, uri=True, check_same_thread=(read_only == False)
+            )
+
+            # Return rows as key-value dicts
+            self.db_conn.row_factory = lambda c, r: dict(
+                zip([col[0] for col in c.description], r)
+            )
+
+        return self.db_conn
+
     def add_entry(
-        self, w: str, definition: str, ipa_uk: str, ipa_us: str, page_num: int
+        self,
+        w: str,
+        definition: str,
+        ipa_uk: str,
+        ipa_us: str,
+        page_num: int,
+        commit=False,  # Whether to commit changes to database immediately
     ) -> None:
         """Add a single entry to the dictionary."""
         conn = self.conn()
@@ -113,20 +120,21 @@ class EnskDatabase(object):
             "INSERT INTO dictionary (word, definition, ipa_uk, ipa_us, page_num) VALUES (?,?,?,?,?)",
             [w, definition, ipa_uk, ipa_us, page_num],
         )
-        # conn.commit()
+        if commit:
+            conn.commit()
 
     def read_all_entries(self) -> List[Dict]:
         """Read and return all entries."""
         conn = self.conn()
-        sql = conn.cursor().execute("SELECT * FROM dictionary")
-        res = list(sql)  # Consume generator into list
+        selected = conn.cursor().execute("SELECT * FROM dictionary")
+        res = list(selected)  # Consume generator into list
         res.sort(key=lambda x: x["word"].lower())
         return res
 
     def read_all_additions(self) -> List[Dict]:
         """Read and return all entries not present in the original Zoega dictionary."""
         conn = self.conn()
-        sql = conn.cursor().execute("SELECT * FROM dictionary WHERE page_num=0")
-        res = list(sql)  # Consume generator into list
+        selected = conn.cursor().execute("SELECT * FROM dictionary WHERE page_num=0")
+        res = list(selected)  # Consume generator into list
         res.sort(key=lambda x: x["word"].lower())
         return res
