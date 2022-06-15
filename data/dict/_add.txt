@@ -190,7 +190,7 @@ multitasking n. fjölverkavinnsla (þegar mörg verk eru leyst samtímis)
 multitask s. vinna mörg verk samtímis
 ozone n. óson (fjölgervingsform súrefnis, O3)
 PTSD n. sjá [post-traumatic stress disorder]
-post-traumatic stress disorder n. áfallastreituröskun
+post-traumatic stress disorder n. áfallastreituröskun ([PTSD])
 download s. hala niður; n. niðurhal
 gothic l. gotneskur; [~ architecture] byggingarlist í gotneskum stíl miðalda
 metabolism n. efnaskipti
@@ -209,7 +209,7 @@ homosexual l. samkynhneigður; n. samkynhneigður einstaklingur
 homosexuality n. samkynhneigð
 cunnilingus n. munnmök
 bestseller n. metsölubók; vara sem selst í miklu magni
-roommate n. herbergisfélagi
+roommate n. herbergisfélagi, kammerat
 simultaneously ao. samtímis, samtíða
 technician n. tæknimaður
 typically ao. dæmigert; yfirleitt

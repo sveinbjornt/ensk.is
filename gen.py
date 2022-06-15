@@ -32,7 +32,7 @@
     POSSIBILITY OF SUCH DAMAGE.
 
 
-    Generate SQLite database + other files from alphabetic dictionary text files
+    Generate SQLite database + other files from raw dictionary text files.
 
 
 """

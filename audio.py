@@ -32,7 +32,7 @@
     POSSIBILITY OF SUCH DAMAGE.
 
 
-    Functionality related to generating audio files from words.
+    Functionality related to generating audio files from dictionary words.
 
 
 """
