@@ -18,14 +18,26 @@ The author of the original dictionary, Geir T. Zoega (1857-1928),
 was an English language teacher and later rector at the Learned
 School of Reykjavík in the years 1883-1927. The first edition was
 published in 1896. The digitised, extended and sanitised version
-presented here is based on the much-improved 1932 edition edited
-by Þorsteinn Þorsteinsson.
+presented here is based on the
+[much-improved 1932 edition](https://baekur.is/bok/000132498/0/2/Ensk-islenzk_ordabok)
+edited by Þorsteinn Þorsteinsson.
 
 The current incarnation of the dictionary has been heavily edited,
 updated and fixed in accordance with modern Icelandic orthography.
-Many errors in the original text have also been corrected.
+Many additions have been made to bring the vocabulary into the 21st
+century. Various errors in the original text have also been corrected.
 
 The raw dictionary text files are stored [here](data/dict/).
+
+Additions can be viewed [here](data/dict/_add.txt).
+
+## Download
+
+You can download the dictionary in the following formats:
+
+* [⇩ SQLite3 database](https://ensk.is/static/files/ensk_dict.db.zip)
+* [⇩ CSV document](https://ensk.is/static/files/ensk_dict.csv.zip)
+* [⇩ Plain text](https://ensk.is/static/files/ensk_dict.txt.zip)
 
 ## Deployment
 
