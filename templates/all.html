@@ -11,8 +11,8 @@
 <p>Hér er listi af öllum orðum í orðabókinni ásamt hlekkjum:</p>
 
 <p>
-  {% for r in results %}
-  <a href="/item/{{ r['word'] }}">{{ r["word"]|safe }}</a>
+  {% for w in words %}
+  <a href="/item/{{ w }}">{{ w|safe }}</a>
   <br>
   {% endfor %}
 </p>

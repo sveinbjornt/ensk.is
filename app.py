@@ -36,12 +36,16 @@
 
 """
 
-from typing import List, Tuple
+
+from typing import List, Dict, Tuple, Any
+
+import urllib
 
 from fastapi import FastAPI, Request, HTTPException
 from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import Response, JSONResponse
+from markupsafe import Markup
 
 from pymemcache.client.base import Client
 from fastapi_cache import FastAPICache
@@ -49,8 +53,9 @@ from fastapi_cache.backends.memcached import MemcachedBackend
 from fastapi_cache.decorator import cache
 
 from db import EnskDatabase
-from util import read_wordlist, read_pages
+from util import read_pages
 from cache import cache_response
+
 
 # Website settings
 WEBSITE_NAME = "Ensk.is"
@@ -70,17 +75,46 @@ TemplateResponse = templates.TemplateResponse
 e = EnskDatabase()
 
 # Read all dictionary entries into memory
-res = e.read_all_entries()
-num_entries = len(res)
-all_words = frozenset([r["word"] for r in res])
-
-# Read master English word list into memory
-# enwords = read_wordlist("data/wordlists/words.txt")
+entries = e.read_all_entries()
+num_entries = len(entries)
+all_words = [e["word"] for e in entries]
+additions = [a["word"] for a in e.read_all_additions()]
+num_additions = len(additions)
 
 
 def _err(msg: str) -> JSONResponse:
     """Return JSON error message."""
     return JSONResponse(content={"error": True, "errmsg": msg})
+
+
+def _format_item(item: Dict[str, Any]) -> Dict[str, Any]:
+    """Format dictionary entry for presentation."""
+    w = item["word"]
+    x = item["definition"]
+    p = item["page_num"]
+    # Italicize English words
+    x = x.replace("[", "<em>")
+    x = x.replace("]", "</em>")
+    # Replace ~ symbol with English word
+    x = x.replace("~", w)
+    # Fix filename f. audio file
+    wfnfixed = w.replace(" ", "_")
+    audio_url_uk = f"/static/audio/dict/uk/{wfnfixed}.mp3"
+    audio_url_us = f"/static/audio/dict/us/{wfnfixed}.mp3"
+    # Phonetic spelling
+    ipa_uk = item.get("ipa_uk") or ""
+    ipa_us = item.get("ipa_us") or ""
+    # Create item dict
+    item = {
+        "w": w,
+        "x": x,
+        "i": ipa_uk,
+        "i2": ipa_us,
+        "p": p,
+        "a": audio_url_uk,
+        "a2": audio_url_us,
+    }
+    return item
 
 
 def _results(q: str, exact_match: bool = False) -> Tuple[List, bool]:
@@ -93,36 +127,13 @@ def _results(q: str, exact_match: bool = False) -> Tuple[List, bool]:
     other = []
 
     ql = q.lower()
-    for k in res:
+    for k in entries:
         kl = k["word"].lower()
         if (exact_match and ql == kl) or (
             not exact_match and ql.lower() in k["word"].lower()
         ):
-            w = k["word"]
-            x = k["definition"]
-            p = k["page_num"]
-            # Italicize English words
-            x = x.replace("[", "<em>")
-            x = x.replace("]", "</em>")
-            # Replace ~ symbol with English word
-            x = x.replace("~", w)
-            # Fix filename f. audio file
-            wfnfixed = w.replace(" ", "_")
-            audio_url_uk = f"/static/audio/dict/uk/{wfnfixed}.mp3"
-            audio_url_us = f"/static/audio/dict/us/{wfnfixed}.mp3"
-            ipa_uk = k.get("ipa_uk") or ""
-            ipa_us = k.get("ipa_us") or ""
-            # Create item dict
-            item = {
-                "w": w,
-                "x": x,
-                "i": ipa_uk,
-                "i2": ipa_us,
-                "p": p,
-                "a": audio_url_uk,
-                "a2": audio_url_us,
-            }
-            lw = w.lower()
+            item = _format_item(k)
+            lw = item["w"].lower()
             lq = q.lower()
             if lw == lq:
                 equal.append(item)
@@ -135,10 +146,10 @@ def _results(q: str, exact_match: bool = False) -> Tuple[List, bool]:
 
     exact_match_found: bool = len(equal) > 0
 
-    equal.sort(key=lambda d: d["w"])
-    swith.sort(key=lambda d: d["w"])
-    ewith.sort(key=lambda d: d["w"])
-    other.sort(key=lambda d: d["w"])
+    equal.sort(key=lambda d: d["w"].lower())
+    swith.sort(key=lambda d: d["w"].lower())
+    ewith.sort(key=lambda d: d["w"].lower())
+    other.sort(key=lambda d: d["w"].lower())
 
     results = [*equal, *swith, *ewith, *other]
 
@@ -234,6 +245,7 @@ async def about(request: Request):
             "request": request,
             "title": f"Um - {WEBSITE_NAME}",
             "num_entries": num_entries,
+            "num_additions": num_additions,
             "singular": single,
         },
     )
@@ -245,19 +257,26 @@ async def all(request: Request):
     """Page with links to all entries."""
     return TemplateResponse(
         "all.html",
-        {"request": request, "title": f"Öll orðin - {WEBSITE_NAME}", "results": res},
+        {
+            "request": request,
+            "title": f"Öll orðin - {WEBSITE_NAME}",
+            "words": all_words,
+        },
     )
 
 
 @app.get("/additions")
 @cache_response
-async def additions(request: Request):
+async def additions_page(request: Request):
     """Page with links to all words that are additions to the original dictionary."""
-    add = read_pages(fn="add.txt")
-
     return TemplateResponse(
         "additions.html",
-        {"request": request, "title": f"Viðbætur - {WEBSITE_NAME}", "results": res},
+        {
+            "request": request,
+            "title": f"Viðbætur - {WEBSITE_NAME}",
+            "additions": additions,
+            "num_additions": num_additions,
+        },
     )
 
 

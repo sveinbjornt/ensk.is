@@ -9,4 +9,21 @@
 
 {% block content %}
 
+<h1>Viðbætur</h1>
+
+<p>Ritstjórn hefur bætt eftirfarandi {{ num_additions }} færslum við orðabókina:</p>
+
+<p>
+    {% for a in additions %}
+
+    <a href="/item/{{ a }}">{{ a }}</a>
+    <br>
+
+    {% endfor %}
+</p>
+
+<br>
+<br>
+<br>
+
 {% endblock %}
