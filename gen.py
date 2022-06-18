@@ -41,6 +41,7 @@ from typing import List, Tuple, Optional
 
 import os
 import csv
+import sqlite_utils
 
 from util import read_pages, parse_line, page_for_word, zip_file, read_ipa
 from db import EnskDatabase, DB_FILENAME
@@ -114,7 +115,7 @@ def delete_db() -> None:
         pass
 
 
-def add_entries_to_db(entries: EntryList) -> None:
+def add_entries_to_db(entries: EntryList) -> EnskDatabase:
     """Insert all entries into database."""
     db = EnskDatabase()
     for e in entries:
@@ -124,13 +125,17 @@ def add_entries_to_db(entries: EntryList) -> None:
         db.add_entry(*e)
 
     db.conn().commit()
+    return db
 
 
 def generate_database(entries: EntryList) -> str:
     """Generate SQLite database. Returns filename."""
 
     delete_db()  # Remove pre-existing database file
-    add_entries_to_db(entries)  # Generate new db
+    db = add_entries_to_db(entries)  # Generate new db
+    sqlite_utils.Database(db.db_conn).table("dictionary").enable_fts(
+        ("word", "definition")
+    )
 
     # Zip it
     zipfn = f"{STATIC_FILES_PATH}ensk_dict.db.zip"
