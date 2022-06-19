@@ -37,7 +37,7 @@
 """
 
 
-from typing import List, Dict, Tuple, Any
+from typing import List, Dict, Tuple, Any, Union
 
 import urllib
 
@@ -238,7 +238,10 @@ async def files(request: Request):
 @cache_response
 async def about(request: Request):
     """About page."""
-    single = str(num_entries).endswith("1") and not str(num_entries).endswith("11")
+
+    def sing_or_plur(s: Union[str, int]) -> bool:
+        return str(s).endswith("1") and not str(s).endswith("11")
+
     return TemplateResponse(
         "about.html",
         {
@@ -246,7 +249,8 @@ async def about(request: Request):
             "title": f"Um - {WEBSITE_NAME}",
             "num_entries": num_entries,
             "num_additions": num_additions,
-            "singular": single,
+            "entries_singular": sing_or_plur(num_entries),
+            "additions_singular": sing_or_plur(num_additions),
         },
     )
 
