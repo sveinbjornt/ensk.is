@@ -980,7 +980,7 @@ resource n. hjálparráð, bjargarlind; úrræði, útvegur ([flight was his onl
 resourceful l. úrræðagóður
 resourceless l. úrræðalaus; efnalaus
 respect s. virða, meta; snerta, lúta að; [~ oneself] vera vandur að virðingu sinni; [~ the person] fara í manngreinarálit; [as ~s] að því er snertir; n. virðing ([he has won the ~ of all]); tillit ([is true with ~ to the French]); ft. virðuleg kveðja; sendibréf; [have ~ to] lúta að e-u; gefa e-u gaum; [pay one's ~s to] heimsækja e-n í virðingarskyni; [~ of persons] manngreinarálit; [give my ~s to Mrs B] berið frú B kveðju mína; [in (with) ~ to, in ~ of] með tilliti til, að því er kemur til; [in all (many) ~s] að öllu (mörgu) leyti
-respectability n. heiðarleiki; heiðarlegur maður, sómamenni
+respectability n. virðugleiki, velsæmi; heiðarleiki; heiðarlegur maður, sómamenni
 respectable l. virðingarverður, heiðarlegur; sómasamlegur; sæmilegur, álitlegur
 respecter n. [~ of persons] sá sem fer í manngreinarálit, gerir sér mannamun
 respectful l. virðingarfullur; virðulegur

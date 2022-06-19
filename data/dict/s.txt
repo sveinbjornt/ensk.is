@@ -791,7 +791,7 @@ shag n. strítt (lubbalegt) hár; stórgerð ló; toppskarfur; e.k. tóbak
 shaggy l. stríðhærður, lubbalegur; loðinn
 shagreen n. vönduð leðurtegund (höfð til bókbands)
 shake s. skaka, hrista; hagga; hristast, skjálfa; [~ hands] takast í hendur; taka í höndina á (e-m [with]); [~ off] hrista af sér, losast við; n. hristingur, skjálfti; rifa, sprunga (í viði); handartak, handarband ([~ of the hand]); ft. kalda, köldusótt
-shakedown n. óvandað rúm, flatsæng
+shakedown n. fjárkúgun; óvandað rúm, flatsæng
 shaker n. sá sem hristir (hristist)
 shaking n. hristingur, skjálfti
 shaky l. rifinn, með rifum (um við); skjálfandi, riðandi ([a ~ hand]); valtur; hrörlegur; óáreiðanlegur
@@ -1353,7 +1353,7 @@ slay s. drepa, vega
 slayer n. vegandi, banamaður
 slay n. vefjarskeið
 sley n. vefjarskeið
-sleazy l. laus, gisinn, þunnur
+sleazy l. laus, gisinn, þunnur; subbulegur, ógeðfelldur, siðferðislega vafasamur
 sled n. sleði; s. flytja á sleða
 sledding n. sleðaflutningur; sleðafæri
 sledge n. sleði; s. flytja á sleða; aka á sleða
@@ -2059,7 +2059,7 @@ sprinkling n. skvetta; tíningur ([a ~ of spectators])
 sprint n. sprettur ([running ~]); kippur ([rowing ~]); s. hlaupa í sprettum, róa í kippum
 sprinter n. spretthlaupari
 sprit n. spritt
-sprite n. vofa, draugur
+sprite n. vofa, draugur, (svart)álfur, púki; mynd (í tölvugrafík)
 sprout s. spíra, byrja að vaxa; láta vaxa spírur á (útsæði); n. frjóstöngull, spíra, vísir
 spruce n. grenitré
 spruce beer n. öltegund (búin til úr sírópi og seyði úr greniviði)

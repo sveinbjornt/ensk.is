@@ -709,7 +709,6 @@ methought s. mér virtist, mér þótti (þátíð af [methinks])
 metonymy n. nafnskipti
 metre n. bragarháttur; metri (lengdarmál, mælieining)
 metric l. metra- ([~ measure, ~ system])
-metric system n. metrakerfið
 metrical l. sem lýtur að bragar-háttum; bragfræðilegur; sem lýtur að metramáli
 metric n. bragfræði
 metropolis n. höfuðborg, stórborg
@@ -736,7 +735,6 @@ mickle l. mikill (skoskt orð)
 microbe n. gerill, sóttkveikja
 micro fsk. (í samsetningum) smá- (t.d. [microdose], smáskammtur)
 microcosm n. smáheimur
-microprocessor n. örgjörvi
 microscope n. sjónauki, smásjá
 microscopic l. sem að eins sést í sjónauka, örsmár
 mid l. miður, mið-

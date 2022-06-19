@@ -13,7 +13,6 @@ heliocentrism n. sólmiðjukenning
 geoheliocentrism n. jarðsólmiðjukenning stjarnfræðingsins Tycho Brahe ([the Tychonic system])
 pseudoscience n. gervivísindi
 zombie n. uppvakningur
-verisimilitude n. sannlíki
 dinosaur n. risaeðla
 neurodegeneration n. taugahrörnun
 neurodegenerative l. taugahrörnunar-; [~ disorder] taugahrörnunarsjúkdómur
@@ -48,7 +47,6 @@ cosmonaut n. geimfari
 jazz n. djass, djasstónlist
 faeces n. ft. saur, hægðir
 hillbilly n. sveitavargur, afdalamaður
-commensurable l. sammælanlegur
 sniper n. leyniskytta
 straitjacket n. spennitreyja
 quantum physics n. skammtafræði
@@ -119,13 +117,11 @@ animalistic l. dýrslegur
 cyanide n. blásýra
 hydrocyanic acid n. blásýra
 prussic acid n. blásýra
-wolverine n. jarfi, fjallfress (stórt landdýr af marðarætt)
 ammunition n. skotfæri
 microchip n. örflaga
 microprocessor n. örgjörvi
 credit card n. kreditkort, krítarkort (rafrænt greiðslukort)
 jeans n. ft. gallabuxur
-entomology n. skordýrafræði
 entomological l. skordýrafræðilegur
 teleology n. markhyggja (sú kenning að endanleg útskýring á orsökum fyrirbæris, atburðar eða athafnar verði að hafa skírskotun til tilgangs eða ætlunar)
 teleological l. markhyggjulegur, markhyggju- (sjá [teleology])
@@ -174,7 +170,6 @@ publicly ao. opinberlega
 groundwater n. grunnvatn
 earring n. eyrnalokkur
 anarchism n. stjórnleysisstefna, anarkismi (hugmyndafræði sem einkennist af andstöðu við yfirvald og höfnun á réttmæti þess)
-anarchist n. stjórnleysissinni, anarkisti (sjá [anarchism])
 hepatitis n. lifrarbólga (sjúkdómur)
 spectrography n. litrófsfræði
 spectroscopy n. litrófsgreining, litrófsmæling
@@ -258,13 +253,10 @@ kilowatt n. kílóvatt (þúsund vött)
 workstation n. vinnustöð
 cougar n. fjallaljón; kynferðislega virk eldri kona (óforml.)
 calisthenics n. ft. leikfimiæfingar
-cache n. leynilegur geymslustaður; skyndiminni (í tölvu)
 automation n. sjálfvirkni; sjálfvirknivæðing
-automaton n. vélmenni; sjálfvirk vél, þjarkur
 automate s. sjálfvirknivæða
 bot n. (stytting á [robot]) vélmenni, þjarkur
 surveillance n. eftirlit
-tweezers n. ft. flísatöng, plokkari
 tweeze s. snyrta með flísatöng
 aerodrome n. flugvöllur, flugstöð
 airport n. flugvöllur, flugstöð
@@ -288,10 +280,7 @@ cinema n. kvikmyndahús, bíó; kvikmyndalistin
 entertainment industry n. skemmtanabransinn, afþreyingarbransinn
 calculus n. stærðfræðigreining, diffur- og tegurreikningur, reiknivísi, örsmæðareikningur; tannsteinn
 recession n. kreppa; samdráttur, afturdráttur (sjá [recede])
-respectability n. virðugleiki; velsæmi
-shakedown n. fjárkúgun
 stereotype n. staðalímynd, staðalmynd
-sleazy l. subbulegur, ógeðfelldur, siðferðislega vafasamur
 vibrator n. titrari
 witchcraft n. nornafár, fjölkynngi, galdrar
 smug l. sjálfumglaður, sjálfsánægður
@@ -299,9 +288,7 @@ sociological l. samfélagslegur, félagslegur, félagsvísindalegur
 societal l. samfélagslegur, félagslegur, þjóðfélagslegur
 sophisticated l. fágaður; háþróaður; margbrotinn
 spectacular l. stórbrotinn, tilkomumikill
-sprite n. (svart)álfur, púki; mynd (í tölvugrafík)
 zombify s. breyta í uppvakning (sjá [zombie])
-dissident n. andófsmaður; l. ósammála, andvígur
 dyke n. varnargarður; niðrandi orð yfir lesbíu
 gaoler n. fangavörður
 haphazard n. tilviljunarkenndur, óskipulegur
@@ -430,7 +417,6 @@ freelance l. sjálfstætt starfandi ([he's a freelance journalist])
 freelancer n. e-r sem er sjálfstætt starfandi
 newswire n. fréttaveita, fréttastöð
 neurochemical l. taugaefnafræðilegur
-incommensurable l. ósammælanlegur
 vector n. vigur, vektor
 cannabis n. kannabis (plöntutegund sem er vímugjafi)
 revenant n. afturganga, uppvakningur (bókst. e-r sem snýr aftur)
@@ -457,7 +443,6 @@ bling n. glingur, skartgripir (óforml.)
 virginal l. meyjar-; ómengaður, tær, hreinn; n. e.k. semball
 telepath n. e-r sem er fjarskyggn
 telepathic l. fjarskyggn, fjarskynjandi
-telepathy n. fjarskyggni, fjarskynjun; hugsanaflutningur
 box-office n. miðasala
 biodiversity n. líffræðileg fjölbreytni, fjölbreytni lífríkis, líffjölbreytni
 bioengineering n. líftækni, lífverkfræði
@@ -494,7 +479,6 @@ volcanologist n. eldfjallafræðingur
 electron n. rafeind
 electronic l. rafrænn, raftæknilegur, raftækni-; rafeinda-
 electronics n. ft. raftækni, rafeindatækni; rafeindabúnaður
-electroscope n. rafsjá
 electronic microscope n. rafeindasmásjá
 electronic warfare n. raftæknihernaður, rafrænn hernaður
 proton n. róteind
@@ -790,7 +774,6 @@ conditioning n. skilyrðing
 air conditioning n. loftræsting
 checklist n. gátlisti
 chassis n. botngrind, undirgrind, vagngrind
-hierophant n. forn-grískur (æðsti)prestur; sá sem túlkar heilaga leyndardóma
 hierophantic l. er varðar forn-grískan prest eða túlkun heilagra leyndardóma
 marketing n. markaðssetning, markaðsmál
 electrolyte n. raflausn, rafvaki; rafvökvi
@@ -807,7 +790,7 @@ pikeman n. hermaður vopnaður löngu spjóti
 glucose n. glúkósi, þrúgusykur
 dextrose n. dextrósi, þrúgusykur
 lactose n. mjólkursykur, laktósi
-lactose intolerance n. mjólkuróþol
+lactose intolerance n. mjólkuróþol, laktósaóþol
 amino acid n. amínósýra, hvítusýra
 zip n. þytur; s. þjótast, skjótast; hvína; opna eða loka rennilási; þjappa stafrænt skjal
 zoom s. þjóta; breyta vídd linsu (í ljósmyndun); þysja; [zoom in or out] þysja inn eða út
@@ -820,7 +803,7 @@ zeppelin n. loftfar, loftskip
 Zeus n. Seifur, æðsti guðinn í forn-grískri goðafræði
 zero gravity n. þyngdarleysi (t.d. í geimskipi eða geimstöð)
 amplifier n. magnari
-amp n. magnari (stytt. á [amplifier])
+amp n. magnari (stytt. á %[amplifier]%)
 erotica n. kynæsandi bækur, list eða myndefni
 gram n. gramm
 patriarchy n. feðraveldi
@@ -832,3 +815,9 @@ courgette n. kúrbítur
 Holland n. Holland
 tech n. stytting á [technology]
 tech giant n. tæknirisi
+catharsis n. búkhreinsun; hreinsun, geðhreinsun, hreinsun sem fylgir geðhrifum harmleiks
+aitch n. stafurinn H (h)
+haitch n. stafurinn H (h); írskt, ástralskt, skoskt afbrigði af %[aitch]%
+tipping point n. vendipunktur
+metric system n. metrakerfið
+zed n. bókstafurinn zeta (Z)

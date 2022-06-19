@@ -953,7 +953,7 @@ ananas n. ananas (aldin)
 anapaest n. bragliður, tvær stuttar samstöfur og ein löng
 anarchic l. stjórnlaus; óstjórnar-
 anarchical l. stjórnlaus; óstjórnar-
-anarchist n. stjórnleysingi
+anarchist n. stjórnleysingi, stjórnleysissinni, anarkisti (sjá [anarchism])
 anarchy n. stjórnleysi, óstjórn
 anathema n. bannfæring
 anathematize s. bannfæra; bölva
@@ -1721,7 +1721,7 @@ autography n. steinprentuð mynd
 automatic l. sjálfhreyfður; ósjálfráður
 automatically ao. ósjálfrátt
 automatism n. ósjálfráð athöfn; sjálfhreyfing
-automaton n. sjálfhreyfivél
+automaton n. sjálfhreyfivél, sjálfvirk vél; vélmenni, þjarkur
 automatous l. sjálfhreyfandi
 autonomous l. sjálfstjórnar-; sjálfráður, óháður
 autonomy n. sjálfstjórn, sjálfsforræði
@@ -1810,4 +1810,3 @@ azimuth n. hádegissjónbaugur; hvirfilhorn
 azure l. heiðblár, himinblár; n. himinblámi; s. lita heiðblátt; slá ljósum bjarma á e-ð
 aboveboard l. opinskátt
 aeon n. öld
-catharsis n. búkhreinsun; hreinsun, geðhreinsun, hreinsun sem fylgir geðhrifum harmleiks

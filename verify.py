@@ -166,6 +166,9 @@ def check_enword_def(line: str, pn, ln: int):
         warn(f"Comma in entry: {e}", pn, ln)
     if "." in e:
         warn(f"Period in entry: {e}", pn, ln)
+    if ";" in e:
+        warn(f"Semicomma in entry: {e}", pn, ln)
+
     if "(" in e or ")" in e:
         warn(f"'{entry}' is fucked", pn, ln)
 

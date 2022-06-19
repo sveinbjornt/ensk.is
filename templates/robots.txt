@@ -10,6 +10,9 @@ Disallow: /static/audio/*
 User-agent: Googlebot-Image
 Disallow: /
 
+User-agent: SemrushBot*
+Disallow: /
+
 User-agent: R6_*
 Disallow: /
 
@@ -28,8 +31,8 @@ Disallow: /
 User-agent: BLEXBot
 Disallow: /
 
-User-agent: oBot*
+User-agent: oBot
 Disallow: /
 
-User-agent: oBot
+User-agent: oBot*
 Disallow: /
