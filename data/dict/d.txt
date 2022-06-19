@@ -72,7 +72,7 @@ dare s. þora, dirfast; hafa hug til e-s, áræða; bjóða (e-m) byrgin, mana (
 daredevil n. ofurhugi
 daring l. djarfur, hugaður; n. dirfska, hugrekki
 daringly ao. með dirfsku
-daringness n. sjá [daring]
+daringness n. sjá %[daring]%
 dark l. dimmur; myrkur; dökkur; torskilinn; dulur í skapi; óþekktur ([a ~ horse]); n. myrkur; [be in the ~ about or on] vera ófróður um; [keep it ~, keep ~ about it] þegja yfir e-u; [the ~ ages] miðaldirnar
 dark-complexioned l. dökkur á hörund, dimmleitur
 darken s. gera dimmt eða dökkt; dimma, myrkva
@@ -96,7 +96,7 @@ date n. daðla
 date palm n. döðlupálmi
 dative n. þágufall
 datum n. heimildaratriði; staðreynd
-data n. ft. gögn (sjá [data])
+data n. ft. gögn (sjá %[data]%)
 daub s. klína, rjóðra; mála illa; n. lélegt málverk
 dauber n. lélegur málari, klínari
 daughter n. dóttir

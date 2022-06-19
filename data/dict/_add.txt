@@ -124,9 +124,9 @@ credit card n. kreditkort, krítarkort (rafrænt greiðslukort)
 jeans n. ft. gallabuxur
 entomological l. skordýrafræðilegur
 teleology n. markhyggja (sú kenning að endanleg útskýring á orsökum fyrirbæris, atburðar eða athafnar verði að hafa skírskotun til tilgangs eða ætlunar)
-teleological l. markhyggjulegur, markhyggju- (sjá [teleology])
+teleological l. markhyggjulegur, markhyggju- (sjá %[teleology]%)
 biosphere n. lífhvolf, lífríki
-fjord n. fjörður (sjá einnig [fiord])
+fjord n. fjörður (sjá einnig %[fiord]%)
 global warming n. hnattræn hlýnun, hlýnun jarðar, jarðhlýnun
 fighter jet n. orustuþota, herþota
 jeep n. jeppi, torfærubifreið
@@ -174,21 +174,21 @@ hepatitis n. lifrarbólga (sjúkdómur)
 spectrography n. litrófsfræði
 spectroscopy n. litrófsgreining, litrófsmæling
 espresso n. espressó (sterkur og bragðmikill kaffidrykkur)
-expresso n. sjá [espresso]
+expresso n. sjá %[espresso]%
 marxism n. marxismi (hugmyndafræði kennd við þýska fræðimanninn Karl Marx)
-marxist n. marxisti (fylgismaður kenninga Karls Marx, sjá [marxism])
-postmodern l. póstmódernískur (sjá [postmodernism])
+marxist n. marxisti (fylgismaður kenninga Karls Marx, sjá %[marxism]%)
+postmodern l. póstmódernískur (sjá %[postmodernism]%)
 postmodernism n. póstmódernismi (heimspeki- og menningarstefna sem tók við af módernisma)
-postmodernist n. póstmódernisti (fylgismaður póstmódernisma, sjá [postmodernism])
+postmodernist n. póstmódernisti (fylgismaður póstmódernisma, sjá %[postmodernism]%)
 structuralism n. formgerðarstefna, strúkturalismi (rannsóknaraðferð til að útskýra kerfi tungumála með athugun á formum og reglum)
 multitasking n. fjölverkavinnsla (þegar mörg verk eru leyst samtímis)
 multitask s. vinna mörg verk samtímis
 ozone n. óson (fjölgervingsform súrefnis, O3)
-PTSD n. sjá [post-traumatic stress disorder]
+PTSD n. sjá %[post-traumatic stress disorder]%
 post-traumatic stress disorder n. áfallastreituröskun ([PTSD])
 download s. hala niður; n. niðurhal
 metabolism n. efnaskipti
-nuke s. sprengja með kjarnorkuvopnum; n. kjarnorkuvopn (óforml.); sjá [nuclear weapon]
+nuke s. sprengja með kjarnorkuvopnum; n. kjarnorkuvopn (óforml.); sjá %[nuclear weapon]%
 hormone n. hormón, hormóni, vaki, kirtlavaki (boðefni sem fjölfruma lífvera framleiðir í kirtli og orka á ýmisleg lífsferli)
 lesbian n. lesbía, samkynhneigð kona; l. lesbískur
 nylon n. nælon (gerviefni)
@@ -279,7 +279,7 @@ conglomerated l. samsteyptur, samsettur
 cinema n. kvikmyndahús, bíó; kvikmyndalistin
 entertainment industry n. skemmtanabransinn, afþreyingarbransinn
 calculus n. stærðfræðigreining, diffur- og tegurreikningur, reiknivísi, örsmæðareikningur; tannsteinn
-recession n. kreppa; samdráttur, afturdráttur (sjá [recede])
+recession n. kreppa; samdráttur, afturdráttur (sjá %[recede]%)
 stereotype n. staðalímynd, staðalmynd
 vibrator n. titrari
 witchcraft n. nornafár, fjölkynngi, galdrar
@@ -288,7 +288,7 @@ sociological l. samfélagslegur, félagslegur, félagsvísindalegur
 societal l. samfélagslegur, félagslegur, þjóðfélagslegur
 sophisticated l. fágaður; háþróaður; margbrotinn
 spectacular l. stórbrotinn, tilkomumikill
-zombify s. breyta í uppvakning (sjá [zombie])
+zombify s. breyta í uppvakning (sjá %[zombie])
 dyke n. varnargarður; niðrandi orð yfir lesbíu
 gaoler n. fangavörður
 haphazard n. tilviljunarkenndur, óskipulegur
@@ -316,7 +316,7 @@ CD n. geisladiskur (stytting á [compact disc])
 sonar n. hljómsjá, ómsjá, sónar
 camcorder n. lítil kvikmyndatökuvél (samsett úr [camera] og [recorder])
 anarcho-capitalism n. anarkó-kapítalismi (sú stjórnmálastefna að afnema ríkið og færa allar þjónustur í hendur einkaaðila)
-anarcho-capitalist n. anarkó-kapítalisti (fylgismaður anarkó-kapítalisma, sjá [anarcho-capitalism])
+anarcho-capitalist n. anarkó-kapítalisti (fylgismaður anarkó-kapítalisma, sjá %[anarcho-capitalism]%)
 biodome n. lífhvelfing (lokað vistkerfi í hvelfingu)
 paedophile n. barnaníðingur; e-r sem haldinn er barnagirnd
 cyberspace n. netheimar
@@ -331,7 +331,7 @@ crossword n. krossgáta
 diesel n. dísill, dísilolía
 internship n. starfsnám, starfsþjálfun
 Islam n. íslam (eingyðistrú sem á upptök sín á Arabíuskaga)
-Islamic l. íslamskur (sjá [Islam])
+Islamic l. íslamskur (sjá %[Islam]%)
 passphrase n. aðgangsorð, lykilorð, aðgangsfrasi
 marijuana n. maríjúana (kannabislyf)
 metadata n. lýsigögn (gögn sem lýsa öðrum gögnum)
@@ -536,7 +536,7 @@ toolbox n. verkfærakista
 fructose n. ávaxtasykur, frúktósi
 conviction n. sannfæring, vissa; sakfelling, sakaráfelling
 harassment n. áreitni
-residential l. íbúða-; [residential area, district] íbúðahverfi; sjá [residence]
+residential l. íbúða-; [residential area, district] íbúðahverfi; sjá %[residence]%
 fundraising n. fjáröflun
 fennel n. fennika (jurt)
 Madagascar n. Madagaskar
@@ -797,7 +797,7 @@ zoom s. þjóta; breyta vídd linsu (í ljósmyndun); þysja; [zoom in or out] �
 ziggurat n. musteristurn, musterispíramídi, stallapíramídi
 Zion n. Síon (hæð í borginni Jerúsalem í Palestínu)
 Zionism n. síonismi (sú stefna að stofna sjálfstætt ríki gyðinga í Palestínu)
-Zionist n. síonisti (sá sem aðhyllist síónisma, sjá [Zionism]); l. síonista-
+Zionist n. síonisti (sá sem aðhyllist síónisma, sjá %[Zionism]%); l. síonista-
 zeta n. sjötti stafurinn í gríska stafrófinu (Ζ eða ζ)
 zeppelin n. loftfar, loftskip
 Zeus n. Seifur, æðsti guðinn í forn-grískri goðafræði

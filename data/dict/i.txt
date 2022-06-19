@@ -124,12 +124,12 @@ imaginative l. ímyndunar-; hugvitssamur; hugmyndaríkur
 imagine s. ímynda (hugsa) sér; hugsa upp
 imbecile l. veiklaður, sljór (á líkama eða sál); heimskulegur; n. fábjáni
 imbecility n. (vitsmuna) sljóleiki; vanmáttur
-imbed s. sjá [embed]
+imbed s. sjá %[embed]%
 imbibe s. drekka (soga) í sig ([~ knowledge, moisture])
-imbody s. sjá [embody]
-imbolden s. sjá [embody]
-imbosom s. sjá [embody]
-imbower s. sjá [embody]
+imbody s. sjá %[embody]%
+imbolden s. sjá %[embody]%
+imbosom s. sjá %[embody]%
+imbower s. sjá %[embody]%
 imbricate l. liggjandi hver yfir öðrum, skaraður
 imbricated l. liggjandi hver yfir öðrum, skaraður
 imbroglio n. flækja
@@ -160,7 +160,7 @@ immemorially ao. frá alda öðli
 immense l. ómælanlegur, afar stór; frábær
 immensely ao. ákaflega
 immensity n. ómælanleiki; ógrynni, ósköpin öll
-immensurable l. ómælanlegur (sjá [immeasurable])
+immensurable l. ómælanlegur (sjá %[immeasurable]%)
 immerge s. sökkva (e-u), kaffæra
 immerse s. sökkva (e-u), kaffæra
 immersion n. kaffæring
@@ -268,7 +268,7 @@ impertinence n. ósvífni, óskammfeilni
 impertinency n. ósvífni, óskammfeilni
 impertinent l. óviðkomandi (e-u [to]); fráleitur ([~ folly]); ósvífinn, óskammfeilinn
 imperturbable l. óraskanlegur; óbilugur; rólegur
-imperviable l. sjá [impervious]
+imperviable l. sjá %[impervious]%
 impervious l. sem ekki verður farið í gegnum, ógagnfær(ilegur) ([~ desert]); þéttur ([~ fog]); [~ to conviction] ósannfæranlegur
 impetrate s. koma e-u til leiðar (með bænum); biðja um
 impetuosity n. ofsi
@@ -333,7 +333,7 @@ impoverish s. gera fátækan; gera lakari, rýrari
 impoverishment n. það að gera eða verða fátækari; rýrnun, afturför
 impracticability n. óframkvæmanleiki; ófærð (vegarins [of the road])
 impracticable l. óframkvæmanlegur; ómögulegur; óviðráðanlegur; ófær (um veg)
-impractical l. sjá [unpractical]
+impractical l. sjá %[unpractical]%
 imprecate s. biðja (e-m) bölbæna ([~ curses upon his name, his head]); biðja um e-ð
 imprecation n. formæling; bölbænir
 imprecatory l. formælingar- ([~ passages])
@@ -459,11 +459,11 @@ incarceration n. haldsetning. fangelsun
 incarnadine l. holdlitaður, bleikrauður; rauður; n. holdslitur; rauður litur
 incarnate s. íklæða holdi; íklæðast e-u; l. holdi klæddur, holdgaður; [the devil ~] sjálfur djöfullinn
 incarnation n. holdgun; holdtekja; persónugerving
-incase s. sjá [encase]
+incase s. sjá %[encase]%
 incautious l. óvarkár, ógætinn
 incautiousness n. gáleysi
 incavated l. holur
-incave s. innibyrgja; sjá [encave]
+incave s. innibyrgja; sjá %[encave]%
 incendiary n. brennuvargur; æsingamaður; l. sem lýtur að brennu; íkveikju-; uppreisnar-, æsingar- ([~ publication])
 incense n. reykelsi; s. brenna reykelsi í kringum; fylla ilmi, gera ilmandi ([~ the air])
 incense s. æsa upp til reiði, gera reiðan
@@ -507,8 +507,8 @@ inclination n. halli; tilhneiging, löngun (til e-s [to/for])
 incline s. hallast; hafa löngun til, hneigjast að ([to]); láta hallast; beygja, hneigja ([~ the head]); [~ one's ear to] ljá e-u eyra, hlusta á e-ð; [~ one to believe that] fá e-n til að ætla, að
 inclined l. hallur; hneigður, fús
 incline n. halli, hallandi, brekka ([we rode up a steep ~])
-inclose s. sjá [enclose]
-inclosure n. sjá [enclosure]
+inclose s. sjá %[enclose]%
+inclosure n. sjá %[enclosure]%
 include s. innibinda, fela í sér; ná yfir; telja (reikna) með
 inclusion n. meðtalning
 inclusive l. umlykjandi; víðtækur, yfirgripsmikill; sem felur e-ð í sér ([~ of]); meðtalinn; [both ~] að báðum meðtöldum
@@ -714,7 +714,7 @@ indolent l. latur, daufur; [~ tumour] sem engin tilkenning er í
 indomitable l. óviðráðanlegur, óbugandi ([~ energy])
 indoor l. innanhúss- ([~ work, ~ servant])
 indoors ao. innanhúss; inn ([to go ~])
-indorse s. sjá [endorse]
+indorse s. sjá %[endorse]%
 indraft n. aðdráttur, innsog
 indraught n. aðdráttur, innsog
 indubitable l. óefanlegur, vafalaus
@@ -723,7 +723,7 @@ induce s. fá til ([~ one to believe]); koma til leiðar, valda ([~ fatigue, a c
 inducement n. hvöt
 induct s. leiða inn; setja inn (prest)
 induction n. innleiðsla; innsetning (prests); ályktun
-indue s. sjá [endue]
+indue s. sjá %[endue]%
 indulge s. láta eftir e-m, vera eftirlátur við e-n; [~ the hope that] lifa í þeirri von að; [he ~d himself with a glass of wine] hann fékk sér glas af víni; [he ~d himself in drunkenness] hann lagðist í ofdrykkju
 indulgence n. eftirlæti; vægð; aflát (í kaþólsku kirkjunni)
 indulgent l. (of) eftirlátur, (of) vægur
@@ -857,7 +857,7 @@ inflict s. leggja á ([~ punishment on]); veita ([~ a wound on])
 infliction n. álagning (refsingar); refsing
 inflictive l. refsandi
 inflorescence n. blómskrúð
-inflow n. sjá [influx]
+inflow n. sjá %[influx]%
 influence n. áhrif; s. hafa áhrif á
 influential l. sem má sín mikils (hjá e-m [with]), hefur mikil áhrif á
 influenza n. kvefsótt
@@ -1034,9 +1034,9 @@ inseparable l. óaðgreinanlegur, óaðskiljanlegur
 insert s. færa inn, stinga inn; setja (grein í blað)
 insertion n. innfærsla; innskot; innsetning
 inset n. innfallsstraumur; innskotsblað eða blöð; s. setja inn í
-inseverable l. sjá [inseparable]
+inseverable l. sjá %[inseparable]%
 inshore ao. nálægt landi; upp að landi
-inshrine s. sjá [enshrine]
+inshrine s. sjá %[enshrine]%
 inside fs. & ao. fyrir innan; l. innanverður, innvortis; n. innhverfa, innri hlið; innyfli
 insidious l. slægur, undirförull ([an ~ enemy]); sviksamlegur
 insight n. innsæi, innsýn, skilningur, glögg þekking, glöggskyggni
@@ -1228,7 +1228,7 @@ interference n. bági; afskipti (af e-u [in]); meðalganga
 interflow n. samrennsli, samblöndun
 interflow s. renna (blandast) saman
 interfluent l. sem rennur hvor í annan
-interfoliate s. sjá [interleave]
+interfoliate s. sjá %[interleave]%
 interfuse s. dreifa yfir eða inn á milli; hella í eða á milli; blanda (blandast) saman
 interfusion n. samblöndun
 interim n. millibil
@@ -1355,7 +1355,7 @@ intractable l. óviðráðanlegur, óstýrilátur
 intransigent l. óundanlátssamur, óbilgjarn; n. þverhöfði (í pólitík)
 intransitive l. áhrifslaus ([~ verbs]); n. áhrifslaus sögn
 intrant n. komumaður; nýnemi (í skóla), nýsveinn
-intrench s. sjá [entrench]
+intrench s. sjá %[entrench]%
 intrepid l. óragur, hugrakkur
 intrepidity n. hugrekki
 intricacy n. flækja, vafningur
@@ -1378,7 +1378,7 @@ intrude s. troða inn; troða sér inn, koma óboðinn
 intruder n. óboðinn gestur; rangur (ólöglegur) handhafi
 intrusion n. óboðin koma; áfergja, yfirgangur
 intrusive l. yfirgangsamur, áfjáður, nærgöngull
-intrust s. sjá [entrust]
+intrust s. sjá %[entrust]%
 intuition n. hugsýni; hugsýn, hugsjá
 intuitionist n. hugsýnismaður
 intuitive l. hugsýnn; hugsjálegur

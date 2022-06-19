@@ -1,5 +1,5 @@
 well-behaved l. siðprúður, e-r sem hegðar sér vel
-wabble n. sjá [wobble]
+wabble n. sjá %[wobble]%
 wad n. forhlað (í byssu); s. troða forhlaði í (byssu); fóðra (með vatti)
 wadding n. vatt (millifóður)
 wadable l. væður
@@ -12,7 +12,7 @@ waft s. blása, feykja, bera (í gegnum loftið); berast; svífa; n. blástur, g
 wafture n. veifing ([~ of the hand])
 wag s. veifa, hreyfa ótt og títt; dilla (rófunni); hreyfast; n. dingl með rófunni; æringi, galgopi
 wage s. veðja; leggja í hættu; [~ war] heyja stríð
-wage n. kaup; [living ~] kaup sem nægir til að lifa á; ft. sjá [wages]
+wage n. kaup; [living ~] kaup sem nægir til að lifa á; ft. sjá %[wages]%
 wager n. veðmál; [to lay (make) a ~] veðja; s. veðja; leggja í hættu
 wagerer n. veðjandi
 wages n. ft. kaup, kaupgjald; [to be in good ~] hafa gott kaup
@@ -165,7 +165,7 @@ waterlogged l. vatnsósa (um við); sem marar uppi (um skip)
 water main n. aðalvatnspípa
 waterman n. ferjumaður; ræðari
 watermark n. flóðmark; fjörumark; vatnsmerki (í pappír); s. setja vatnsmerki á (pappír)
-water-parting- n. sjá [watershed]
+water-parting- n. sjá %[watershed]%
 waterproof l. vatnsheldur; s. gera (dúk) vatnsheldan; n. vatnsheldur dúkur; regnkápa
 water rail n. keldusvín (vaðfugl)
 water rate n. vatnsskattur
@@ -233,7 +233,7 @@ weatherbeaten l. veðurbarinn, útitekinn
 weatherboard n. veðurborði; vindskeið
 weatherbound l. veðurtepptur, veðurfastur
 weathercock n. veðurviti, vindhani
-weathered l. sjá [weatherworn]
+weathered l. sjá %[weatherworn]%
 weather forecast n. veðurspá
 weather gall n. regnbogabrot (niður við sjóndeildarhringinn)
 weatherglass n. loftvog
@@ -241,7 +241,7 @@ weatherly l. [~ ship] gott skip til að sigla beitivind
 weathermost l. sem er mest á veðurborð
 weather report n. veðurskýrsla
 weatherwise l. veðurglöggur
-weatherworn l. slitinn, eyddur af áhrifum loftsins, veðraður (sjá [weathered])
+weatherworn l. slitinn, eyddur af áhrifum loftsins, veðraður (sjá %[weathered]%)
 weave s. vefa; flétta saman
 weaver n. vefari
 weaveress n. vefkona
@@ -381,7 +381,7 @@ wherein ao. hvar í, í hverju; sem ... í
 whereof ao. um hvað; sem ... um
 whereon ao. og síðan, eftir það
 whereupon ao. og síðan, eftir það
-wheresoever ao. sjá [wherever]
+wheresoever ao. sjá %[wherever]%
 wherewith ao. með hverju; sem ... með, og með því
 wherewithal ao. sem ... með; n. efni, föng ([has not the ~ to do it])
 wherry n. lítil hraðskreið ferja; s. flytja á ferju, ferja
@@ -401,7 +401,7 @@ Whiggery n. Viggaskoðanir eða kenningar
 Whiggish l. sem lýtur að Viggum eða kenningum þeirra
 Whiggism n. stjórnarstefna Vigga
 while n. stutt stund, hríð; [for a ~] um stund, um hríð; [a good ~] alllengi; [in a little ~] innan skamms; [once in a ~] öðru hvoru, með löngu millibili; [worth ~] ómaksins vert; st. á meðan; svo lengi sem; [~ out hunting] meðan hann var úti á veiðum; s. [~ away] eyða (tímanum)
-whiles st. sjá [while]
+whiles st. sjá %[while]%
 whilom l. fyrri, sem áður var ([her ~ favorite]); ao. fyrrum
 whilst st. meðan
 whim n. duttlungur, kenjar; e.k. lyftivél í námum
@@ -409,7 +409,7 @@ whimbrel n. spóategund
 whimmy l. duttlungafullur
 whimper s. vola, snökta, kjökra; n. vol, snökt, kjökur
 whimperer n. snöktari, kjökrari
-whimsey n. sjá [whim]
+whimsey n. sjá %[whim]%
 whimsical l. duttlungafullur; undarlegur
 whin n. þyrniblað
 whine s. skæla, væla, hrína; n. skæl, væl, ámátlegt hljóð
@@ -588,7 +588,7 @@ wing-feather n. flugfjöður
 wing-footed l. vængfættur
 wing-membrane n. flugfit
 wingshot l. vængskotinn; skotinn á flugi; n. skjóta fugl á flugi
-wingstroke n. sjá [wingbeat]
+wingstroke n. sjá %[wingbeat]%
 wingy l. vængjaður; skjótur
 wink s. depla (augum); drepa tittlinga; gefa bendingu með augunum; látast ekki sjá, sjá í gegnum fingur (með at); blikka; n. depl; augabragð; bending (með auganu); blundur, dúr; [I did not sleep a ~ all night] mér kom ekki dúr á auga í nótt
 winker n. augnaskýla, blaka (á beisli)
@@ -832,7 +832,7 @@ wrongheaded l. þverhöfðalegur
 wrongly ao. ranglega
 wrongness n. skekkja, villa
 wroth l. reiður
-wrought l. unninn, smíðaður ([a finely ~ necklace, ~ of gold]); ofinn, saumaður; sjá [worked]; [~ iron] smíðajárn
+wrought l. unninn, smíðaður ([a finely ~ necklace, ~ of gold]); ofinn, saumaður; sjá %[worked]%; [~ iron] smíðajárn
 wry l. skakkur, skældur; [to make a ~ face] gretta sig; s. skekkja; skæla
 wry-mouthed s. skakkmyntur
 wryness n. skekkja, skæling

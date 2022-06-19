@@ -4,7 +4,7 @@ pabulum n. fóður; andleg fæða
 pacable l. friðsamlegur
 pace n. skref (mælieining); gangur, göngulag; [quicken one's ~] greikka sporið; [keep ~ with] halda í við; fylgjast með; [walk at a quick ~] ganga hratt; [go the ~] ganga hratt; s. ganga fót fyrir fót; ganga (hægt) yfir; (mæla með því að) stíga; skeiða (um hest)
 pacer n. skeiðhestur
-pacha n. sjá pasha
+pacha n. sjá %[pasha]%
 pachyderm n. þykkhýðingur (dýr)
 pacific l. friðsamur; [the Pacific Ocean] Kyrrahafið
 pacification n. málamiðlun, sáttaumleitun, friðargerð
@@ -28,7 +28,7 @@ padding n. ítroð (bómull, flóki, hár); uppfylling, léttmeti (í tímaritum
 paddle s. busla (í vatni með höndum og fótum), ösla; róa (með tvíblaðaðri ár); þukla um ([on, with]); vappa; n. breiðblöðuð ár; spaði í hjóli á gufuskipi eða vatnsmylnu; [double ~] tvíblöðuð ár
 paddleboat n. hjólskip
 paddock n. froskur
-paddockstool n. gorkúla; sjá [toadstool]
+paddockstool n. gorkúla; sjá %[toadstool]%
 paddock n. umgirtur grasvöllur
 padlock n. hengilás; s. læsa með hengilás
 padnag n. skeiðhestur
@@ -62,7 +62,7 @@ painting n. málun; málaralist; málverk, litmynd
 pair n. tvennt, sem á saman, samstæða, par; [a ~ of stockings] sokkar; [these stockings are not a ~] eiga ekki saman; [in ~s] tveir og tveir; s. taka saman samstæður; eiga saman; maka sig, vinast (um fugla); [~ off] ganga burtu tveir og tveir
 pair-oar n. bátur róinn tveimur árum
 pairwise ao. tveir og tveir saman
-pajamas n. sjá [pyjamas]
+pajamas n. sjá %[pyjamas]%
 palace n. höll
 palaeontology n. forndýrafræði
 palaestra n. leikfimisskóli; aflraunaskóli
@@ -372,7 +372,7 @@ patriarch n. ættfaðir; yfirbiskup (í grísku kirkjunni)
 patriarchal l. ættföðurlegur; yfirbiskuplegur
 patriarchalism n. ættfeðrastjórn
 patrician l. aðalborinn; n. aðalsmaður, göfugmenni
-patricide n. föðurmorðingi; föðurmorð (sjá [parricide])
+patricide n. föðurmorðingi; föðurmorð (sjá %[parricide]%)
 patrimonial l. erfða- ([~ estate, ~ right])
 patrimony n. föðurleifð, erfðafé
 patriot n. föðurlandsvinur, ættjarðarvinur
@@ -505,7 +505,7 @@ peership n. aðalstign
 peer s. koma í ljós, gægjast fram ([~ out]); stara, horfa
 peevish l. önuglyndur; önugur, ónotalegur
 peevishness n. önuglyndi
-peewit n. sjá [pewit]
+peewit n. sjá %[pewit]%
 peg n. trénagli; tjaldhæll; snagi; [come down a ~] láta undan, lægja seglin; s. reka trénagla í, festa með trénöglum; hæla niður (tjald)
 pejorate s. gera verri; versna
 pejorative l. niðrandi; n. niðrandi orð
@@ -533,7 +533,7 @@ penal l. refsingarverður; hegningar-; [~ code] hegningarlögbók; [~ servitude]
 penalize s. hegna, refsa
 penalty n. refsing, hegning; fésekt; [on (under) ~ of death] að viðlagðri dauðarefsingu
 penance n. syndarefsing; syndabót, yfirbótarverk; s. refsa
-pence n. ft. sjá penny
+pence n. ft. sjá %[penny]%
 pencil n. blýantur ([lead ~]); griffill ([slate ~]); s. mála; teikna, draga upp; rita með blýanti
 pencraft n. ritlist
 pendant n. eyrnahringur, eyrnalokkar; dingull; toppveifa
@@ -675,7 +675,7 @@ peripatetic l. sem lýtur að heimspeki Aristótelesar; n. maður, sem fylgir he
 peripherical l. sem lýtur að ummáli hrings
 periphery n. ummál hrings
 periphrase s. segja e-ð með mörgum orðum, snúa (e-u) í lengra mál; n. snúningur í lengra mál
-periphrasis n. sjá [periphrase]
+periphrasis n. sjá %[periphrase]%
 periphrastical l. sagður með mörgum orðum (eða fleiri en þörf er á)
 perish s. farast, týnast, glatast; deyja; skemmast
 perishable l. sem hætt er við skemmdum (um aldin, fisk o.fl.), eða tortímingu
@@ -742,7 +742,7 @@ personable l. góður félagsskapur; vel vaxinn, laglegur
 personage n. tiginn maður ([an illustrious ~]); persóna ([a mythological ~])
 personal l. persónulegur; líkamlegur; ytri; nærgöngull, ófyrirleitinn; [~ property, ~ goods] lausafé
 personality n. persónuleiki
-personalize s. sjá [personify]
+personalize s. sjá %[personify]%
 personally ao. persónulega; sjálfur
 personalty n. lausafé
 personate s. líkja eftir (e-m), taka á sig gervi annars; þykjast (látast) vera (annar); leika (í leikriti)
@@ -988,7 +988,7 @@ pig-lead n. hálfhreinsað blý (í klumpum)
 piggish l. svínslegur, óþrifalegur; þrár, þrályndur ([~ mood])
 piggy n. gríslingur
 pigment n. litur, litarefni
-pigmy n. sjá [pygmy]
+pigmy n. sjá %[pygmy]%
 pigsty n. svínastía, grísastía
 pigtail n. gríshali; hárpískur í hnakkanum
 pike n. fleinn; spjót, lensa; heykvísl, heykrókur; (hey)galti; fjallstindur; s. stinga, reka í gegn
@@ -1066,7 +1066,7 @@ pipkin n. leirpottur
 piquancy n. barkandi bragð, remma, beiskja
 piquant l. barkandi, rammur, beiskur; egnandi
 pique n. móðgun, gremja; [took a ~ against me] reiddist (styggðist) við mig; [~ of honour] næm sómatilfinning; s. móðga, styggja; erta; egna; vekja (forvitni, áhuga); [~ oneself on] þykjast af e-u
-piquet n. sjá [picket]
+piquet n. sjá %[picket]%
 piracy n. sjóræningjaskapur; heimildarlaust eftirprent
 pirate n. sjóræningi; s. prenta í óleyfi rit annara; fremja rán á sjó
 piratical l. sjóræningjalegur, sjóræningja-; heimildarlaus
@@ -1262,7 +1262,7 @@ ploughtail n. handfang (á plógi)
 ploughwright n. plógasmiður
 plover n. lóa; [golden ~] heiðlóa
 plovery l. auðugur af lóum
-plow n. & s. sjá [plough]
+plow n. & s. sjá %[plough]%
 pluck s. rífa, kippa ([~ away, off, out]); plokka, reyta ([~ a bird]); tína; gera afturreka (frá prófi); [be ~ed] verða afturreka frá (prófi); [~ up one's courage, spirits, heart] herða upp hugann; n. slátur (hjarta, lifur og lungu úr skepnum); hugur, áræði, þor ([show your ~])
 plucky l. áræðinn, áræðisgóður, hugaður
 plug n. tappi; negla (í bát); s. setja tappa í; setja neglu í; troða í
@@ -1287,7 +1287,7 @@ plumous l. fjaðraður; fiðurkenndur, fiður-
 plump l. þriflegur; holdugur; fruntalegur ([a ~ lie]); ao. blátt áfram; afdráttarlaust, beint; uh. pomp! n. högg, skellur; hlunkur, dynkur; hópur, flokkur; regndemba; s. þenja (belgja) út; fita; láta detta þunglamalega; pompa; bólgna, þenjast út; hlamma ([~ oneself down on the grass]); fleipra út úr sér ([~ out]); [~ a vote] gefa aðeins einum atkvæði (er fleiri á að velja)
 plumper n. atkvæðaseðill með einu nafni
 plumply ao. blátt áfram; fruntalega
-plumpy l. sjá [plump]
+plumpy l. sjá %[plump]%
 plumy l. fjaðraður; fjaðurskreyttur
 plunder s. ræna; n. rán, ránsfé, herfang
 plunderer n. ræningi
@@ -1662,7 +1662,7 @@ practician n. framkvæmdarmaður, starfsmaður
 practise s. iðka; stunda; framkvæma; beita, viðhafa; temja sér; fremja; beita brögðum; æfa sig ([~ on piano]); gegna störfum; [~ as a lawyer] gegna málflutningsstörfum; [~ physic] fást við lækningar; [~ on his credulity] nota sér trúgirni hans
 practitioner n. starfsmaður; læknir ([~ of medicine]); málaflutningsmaður ([~ of law])
 pragmatic l. afskiptasamur um hag og gjörðir annara; þrár, þrályndur; óundanlátsamur; hagsýnn; framkvæmdar- ([~ people]); [~ history] saga, er sýnir orsakir og afleiðingar viðburðanna
-pragmatical l. sjá [pragmatic]
+pragmatical l. sjá %[pragmatic]%
 prairie n. stór grasslétta (í Norður-Ameríku)
 praise n. lof, hrós; vegsömun; s. lofa, hrósa; vegsama
 praiseful l. lofsamlegur
@@ -1839,7 +1839,7 @@ premonish s. vara við
 premonition n. viðvörun
 premonitor n. sá sem varar við
 premonitory l. sem er til viðvörunar (e-u [of])
-prentice n. námspiltur (sjá [apprentice])
+prentice n. námspiltur (sjá %[apprentice]%)
 prenticeship n. námstími, námsár (sjá [apprenticeship])
 preoccupy s. taka undir sig á undan öðrum
 preoccupied l. sokkinn í hugsanir

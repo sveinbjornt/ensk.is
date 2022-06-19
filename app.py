@@ -92,11 +92,11 @@ def _format_item(item: Dict[str, Any]) -> Dict[str, Any]:
     w = item["word"]
     x = item["definition"]
     p = item["page_num"]
+    # Replace ~ symbol with English word
+    x = x.replace("~", w)
     # Italicize English words
     x = x.replace("[", "<em>")
     x = x.replace("]", "</em>")
-    # Replace ~ symbol with English word
-    x = x.replace("~", w)
     # Fix filename f. audio file
     wfnfixed = w.replace(" ", "_")
     audio_url_uk = f"/static/audio/dict/uk/{wfnfixed}.mp3"

@@ -1,4 +1,4 @@
-Ma'am n. frú (sjá [Madam])
+Ma'am n. frú (stytting, sjá %[Madam]%)
 Mac n. sonur (haft fyrir framan keltnesk mannanöfn)
 macadamize s. mölsteypa (veg); slétta, jafna
 macaroni n. hveitispípur (ítalskur réttur)
@@ -282,7 +282,7 @@ marconigram n. Markonískeyti
 mare n. meri, hryssa
 marestail n. marhálmur
 margarine n. smjörlíki
-marge n. sjá [margin]
+marge n. sjá %[margin]%
 margin n. jaðar; rönd, barmur, spássía; afgangur ([~ of profit]); [allow (leave) a ~ for unforseen expenses] ætla fyrir ófyrirséðum kostnaði; s. gera rönd á; skrifa á spássíuna
 marginal l. skrifaður (prentaður) á spássíuna ([~ note]); jaðar-
 margrave n. markgreifi
@@ -331,7 +331,7 @@ marshy l. mýrlendur ([~ country])
 marshal n. marskálkur; æðsti herstjóri; s. láta ganga í röð; raða niður; fylkja; fylgja, vísa leið
 marshalship n. marskálkstign
 marsupial n. pokadýr, pungdýr
-mart n. markaður (sjá market); uppboðssalur; verslunarmiðstöð
+mart n. markaður (sjá %[market]%); uppboðssalur; verslunarmiðstöð
 marten n. mörður (rándýr)
 martial l. hermannlegur, vígamannlegur; hergjarn, herskár; [court ~] herdómur; [~ law] herréttur; hernaðarástand, hermannastjórn
 Martian n. Marsbúi
@@ -354,7 +354,7 @@ masker n. grímumaður
 maslin n. kornblendingur
 mason n. múrari; frímúrari ([free~])
 masonry n. múraraiðn, múrsmíði; frímúrarakenningar
-masque n. sjá mask
+masque n. sjá %[mask]%
 masquerade n. grímudansleikur, dulbúningur; s. vera í dularklæðum; dulbúa
 masquerader n. grímumaður; yfirdrepsmaður
 mass n. hrúga, flykki, bákn; fjöldi, stór hópur; [the ~-es] alþýðan
@@ -477,7 +477,7 @@ meadowsweet n. mjaðarjurt
 meadowy l. engja- ([a ~ plain])
 meagre l. magur; fátæklegur
 meagreness n. megurð
-meagrim n. sjá megrim
+meagrim n. sjá %[megrim]%
 meal n. máltíð; málsverður; málamjólk hverrar skepnu; [at ~s] á málum; [between ~s] milli máltíða; s. matast á málum
 meal n. rúgmjöl, haframjöl; s. gera mjölugt; mjöla; gera að mjöli eða dufti
 mealy l. mjölugur, mjölaður ([~ potatoes]); mjölkynjaður; rykugur
@@ -521,7 +521,7 @@ meddle s. [~ with/in] skipta sér af, sletta sér fram í
 meddler n. afskiptasamur maður, slettireka
 meddlesome l. afskiptasamur, hlutgjarn
 meddling l. afskiptasamur um hagi annara ([that ~ person])
-mediaeval l. sjá [medieval]
+mediaeval l. sjá %[medieval]%
 medial l. miður, meðal-
 mediate l. sem er mitt á milli; sem er óbeinlínis ([~ inference]); s. ganga í milli, miðla málum; semja (frið), koma (sættum) á; vera milliliður (á milli)
 mediation n. málamiðlun; sættaumleitun, meðalganga
@@ -662,7 +662,7 @@ mesenteric l. garnhimnu-
 mesentery n. garnhimna
 mesh n. möskvi; net; s. veiða (í net); ánetja; véla
 meshy l. möskvariðinn
-meslin n. sjá maslin
+meslin n. sjá %[maslin]%
 mesmeric l. sem lýtur að segulafli dýra; [a ~ trance, ~ sleep] segulmagnaður svefn
 mesmerism n. dáleiðsla; segulafl dýra
 mesmerize s. dáleiða; svæfa með dýrasegulafli
@@ -726,7 +726,7 @@ miaow s. mjálma; n. mjálm
 miasma n. eitrað efni í loftinu, sjúkdómsefni
 miasmatic l. fullur af sóttkveikjum ([~ poison])
 miasmatical l. fullur af sóttkveikjum ([~ poison])
-miaul n. & s. sjá [miaow]
+miaul n. & s. sjá %[miaow]%
 mice n. gljásteinn, glimmer
 micaceous l. gljásteins- ([~ shale, slate])
 mice n. ft. af [mouse]
@@ -816,7 +816,7 @@ milter n. svilfiskur (gagnstætt [spawner])
 mime n. eftirhermuleikur; skrípaleikari, eftirherma, loddari; s. leika með bendingum og pati; herma (líkja) eftir
 mimetic l. eftirlíkjandi
 mimic l. eftirlíkjandi; gerður eftir öðru, stældur; n. eftirherma; hermikráka; s. líkja (herma) eftir; stæla; [she ~-ked his manner of speaking] hermdi eftir talshætti hans
-mimical l. eftirlíkjandi; gerður eftir öðru, stældur, sjá [mimic]
+mimical l. eftirlíkjandi; gerður eftir öðru, stældur, sjá %[mimic]%
 mimicry n. eftirlíking, eftirhermur; svipbrigði
 minacious l. ógnandi
 minaret n. sívalur turn á tyrknesku bænhúsi
@@ -1090,7 +1090,7 @@ modiste n. skartsölukona
 modulate s. stilla, laga (röddina)
 modulation n. stilling raddarinnar; dillandi hljóð
 mohair n. ull af Angórageitinni; dúkur úr þeirri ull
-Mohammedan n. sjá [Mahommedan]
+Mohammedan n. sjá %[Mahommedan]%
 moiety n. helmingur
 moil s. óhreinka, ata (sig); strita, erfiða ([toil and ~]); n. óhreinn blettur; strit, erfiði
 moist l. rakur, deigur, votur; [~ sugar] púðursykur
@@ -1146,7 +1146,7 @@ Mongolian l. mongólskur; n. Mongóli
 mongrel l. af blönduðu kyni ([a ~ cur]); n. kynblendingur (einkum um dýr)
 monied l. auðugur (af peningum)
 monism n. einhyggja
-monition n. sjá [admonition]
+monition n. sjá %[admonition]%
 monitor n. áminnari; bekkjarumsjónarmaður; eðlutegund; turnskip
 monitorial l. aðvarandi, viðvörunar-; áminningar- ([~ words])
 monitory l. aðvarandi, viðvörunar-; áminningar- ([~ words])
@@ -1340,7 +1340,7 @@ mouse-coloured l. múslitaður, músgrár
 mouse-eaten l. músétinn
 mouser n. músaveiðari (köttur, ugla)
 mousetrap n. músagildra
-moussefine n. sjá múslín
+moussefine n. sjá %[muslin]%
 moustache n. yfirvaraskegg; [an old ~] gamall hermaður
 mousy l. líkur mús, músgrár; meinlaus sem mús; fullur af músum
 mouth n. munnur; (ár)mynni; (hellis)munni; munnpípa (á hljóðfæri); [by word of ~] munnlega; [make a wry ~] gretta sig; [make a ~ at, make ~-s at/upon] skæla munninn framan í (e-n); [down in the ~] dapur í bragði

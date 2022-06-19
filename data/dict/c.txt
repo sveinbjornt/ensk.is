@@ -48,7 +48,7 @@ calculation n. útreikningur; reikningur; áætlun
 calculator n. reiknivél; reikningsmaður
 calculus n. steinn; stærðfræðigreining; nýrnasteinn
 calculi n. ft. nýrnasteinar, gallsteinar
-caldron n. sjá [cauldron]
+caldron n. sjá %[cauldron]%
 calefactory l. hitandi, hita-
 calefaction n. upphitun
 calendar n. tímatal; almanak; skrá; skýrsla
@@ -224,7 +224,7 @@ capture n. handtaka, hertaka (t.d. skips á sjó); hertekið skip; herfang; vei�
 capuche n. hetta (á munkakápu)
 capuchin n. hettumunkur
 car n. bíll, bifreið; kerra, vagn
-carabine n. sjá [carbine]
+carabine n. sjá %[carbine]%
 caracol n. stökk, hopp; s. stökkva, hoppa
 caracole n. stökk, hopp; s. stökkva, hoppa
 carafe n. vatnsflaska
@@ -364,7 +364,7 @@ castigate s. refsa, hirta
 castigation n. refsing, hirting
 casting n. kast; steypa; [~s] steyptir munir; [~ of a drapery] fall, fellingar
 castle n. kastali, vígi, virki; herragarður; hrókur (í tafli); [~ in the air (in the clouds, in Spain)] loftkastali, skýjaborg; [~-builder] n. loftkastalamaður
-castor n. bifur, bjór (sjá [beaver]); bjórskinnshúfa; [~ oil] laxerolía
+castor n. bifur, bjór (sjá %[beaver]%); bjórskinnshúfa; [~ oil] laxerolía
 castor n. kryddbaukur; [~ sugar] sáldsykur
 castrate s. gelda. vana; stytta (rit)
 castration n. gelding
@@ -493,7 +493,7 @@ centaur n. kentár
 centenarian n. tíræður maður
 centenary l. hundrað ára; n. hundrað ára minningarhátíð; öld
 centennial l. hundrað ára gamall; n. hundrað ára minningarhátíð
-center n. sjá [centre]
+center n. sjá %[centre]%
 centesimal l. hundraðasti ([~ part])
 centigrade l. [~ thermometer] hundrað stiga hitamælir (Celsius)
 centigramme n. 1/100 úr grammi
@@ -637,7 +637,7 @@ charm n. töfrar, töfragripur, verndargripur; unaður, fegurð; s. töfra; gera
 charmer n. töfrari; töfrakona
 charming l. unaðslegur, yndislegur
 charnel-house n. beinahús (í kirkjugarði)
-charpie n. línskaf (sjá lint)
+charpie n. línskaf ([sjá %[lint]%)
 charry l. viðarkolakenndur
 chart n. sjókort, strandakort
 charter n. réttindabréf; leyfisbréf; stofnskrá, skipulagsskrá; s. veita einkaréttindi; taka (skip eða vagn) á leigu
@@ -677,7 +677,7 @@ cheatery n. svik, fjárprettir
 check n. skák; stöðvun. hindrun; mótstaða; hnekkir, tjón; aðhald; viðsett merki; miði, útgöngumiði; bankaávísun (sbr. [cheque]); kvittunarmiði; [keep in ~] halda e-m í skefjum; uh. skák; s. stöðva, hindra, hnekkja; stilla; prófa vandlega; halda í skefjum; segja skák, skáka
 checkbook n. ávisanabók
 checked l. köflóttur
-checker s. sjá [chequer]
+checker s. sjá %[chequer]%
 checkmate n. mát (í skák), s. máta; sigra
 cheek n. kinn; vangi, kjálki; ósvífni; ofdirfska; [~ by jowl] fast saman
 cheekiness n. óskammfeilni, frekja
@@ -726,7 +726,7 @@ chieftain n. höfðingi
 chieftaincy n. höfðingjastaða
 chilblain n. kuldapollur, kuldabólga, frostbólga
 child n. barn; [with ~] ólétt, börnuð, þunguð; [from a ~] frá barnsbeini
-children n. ft. börn ([the ~ are at play]); sjá [child]
+children n. ft. börn ([the ~ are at play]); sjá %[child]%
 childbed n. [die in ~] deyja af barnsburði
 childbirth n. barnsburður
 childhood n. barnsaldur, barnæska
@@ -771,7 +771,7 @@ chitterlings n. ft. slátur (einkum úr svínum)
 chivalrous l. riddaralegur
 chivalry n. riddaraskapur; [age of ~] riddaraöld
 chive n. graslaukur
-chivy n. sjá [chevy]
+chivy n. sjá %[chevy]%
 chloral n. klóral (svefnlyf)
 chlorine n. klór
 chloroform n. klóroform; s. svæfa (með klóroformi)
@@ -783,7 +783,7 @@ choice n. val, kosning; úrval; kostur; [make ~ of] velja; [have no ~ but] eiga 
 choiceness n. ágæti
 choir n. söngflokkur (í kirkju); kór; kórsöngur
 choke s. kæfa; kyrkja; ætla að kafna
-choke-full l. sjá [chock-full]
+choke-full l. sjá %[chock-full]%
 choler n. gall; reiði, bræði
 choleric l. reiðigjarn, bráðlyndur, bráður
 cholera n. kólera
@@ -1048,8 +1048,8 @@ climb n. klífa, klifrast
 climbable l. kleifur
 climber n. klifrari; klifurfugl
 clime n. jarðbelti; loftslag
-clinch s. sjá [clench]
-clincher-built l. sjá [clinker-built]
+clinch s. sjá %[clench]%
+clincher-built l. sjá %[clinker-built]%
 cling s. halda (sér) fast við eða í ([to]); loða við ([to]); loða saman ([~ together])
 clingy l. viðloðandi
 clinic n. heilsugæslustöð; lækniskennsla á sjúklingum
@@ -1164,7 +1164,7 @@ coastguard n. strandvörður
 coasting-vessel n. strandferðaskip
 coaster n. strandferðaskip; glasamotta
 coastwise ao. strandlengis
-coat n. frakki; kjóll (sjá [dress coat]); kápa; feldur, skinn; fuglshamur, slönguhamur; himna; skán; lag; hjúpur; hula; [~ of arms] merkisskjöldur; [~ of mail] spangabrynja; s. klæða; þekja; draga (lit) yfir; tilreykja (pípu)
+coat n. frakki; kjóll (sjá %[dress coat]%); kápa; feldur, skinn; fuglshamur, slönguhamur; himna; skán; lag; hjúpur; hula; [~ of arms] merkisskjöldur; [~ of mail] spangabrynja; s. klæða; þekja; draga (lit) yfir; tilreykja (pípu)
 coat hanger n. herðatré
 coating n. lag ([a thin ~ of]); fataefni, frakkaefni
 coax s. lokka, ginna; [~ one to do/into doing] til að gera e-ð
@@ -1358,7 +1358,7 @@ colonize s. byggja (land), setja nýlendu í; setjast að
 colonnade n. súlnaröð, súlnagöng
 colony n. nýlenda; nýlendufólk, nýlendumenn
 coloration n. litsetning
-color n. sjá [colour]
+color n. sjá %[colour]%
 colorific l. litandi
 colossal s. risavaxinn; stórkostlegur
 colossus n. risalíkneski; bákn
@@ -1475,7 +1475,7 @@ commonly ao. venjulega, eins og gerist og gengur
 commonplace n. alkunn setning eða skoðun; hversdagslegur viðburður; l. hversdagslegur, vanalegur
 commonplace book n. minnisbók, vasabók
 commons n. ft. alþýða; ótiginbornir menn; neðri þingdeildarmenn; vistir, vistaskammtur; [short ~] rýrir skammtar
-commonweal n. almenningsheill; ríki (sjá [commonwealth])
+commonweal n. almenningsheill; ríki (sjá %[commonwealth]%)
 commonwealth n. ríki, þjóðfélag; lýðveldi
 commotion n. ákafleg hreyfing; uppnám; uppþot
 commove s. setja í hreyfingu; fá á e-n
@@ -2001,7 +2001,7 @@ continue s. halda (e-u) áfram; halda við; fresta (máli); halda áfram að ver
 continuity n. samfesta; sífella
 continuous l. samfastur; samfelldur, óslitinn; stöðugur; [~ with] áfastur við
 continuously ao. stöðugt, í sífellu
-continuousness n. sjá [continuity]
+continuousness n. sjá %[continuity]%
 contort s. snúa; vinda; skæla
 contortion n. snúningur, skekking, skæling
 contour n. umdráttur (í dráttlist); rönd, brún
@@ -2040,7 +2040,7 @@ control n. takmörkun; umsjón; stjórn; stjórnandi (á sambandsfundum); s. tak
 controllable l. stjórnanlegur, viðráðanlegur
 controller n. yfirumsjónarmaður
 controversial l. umdeildur; vafasamur; deilu- ([~ writings]); þrætugjarn
-controversialist n. sjá [controvertist]
+controversialist n. sjá %[controvertist]%
 controversy n. ritdeila; trúardeila; þræta; [beyond/without ~] vafalaust
 controvert s. deila um; rengja, mótmæla
 controverter n. kappræðumaður; ritdeilumaður
@@ -2138,7 +2138,7 @@ copper-plate n. eirplata; koparstunga
 coppery l. kopar-; [~ particles] koparagnir
 coppice n. smáviður
 copra n. þurrkaður kókóhnotarkjarni
-copse n. smáviður, kjarrviður (sjá [coppice]); s. höggva af; þekja með smáskógi
+copse n. smáviður, kjarrviður (sjá %[coppice]%); s. höggva af; þekja með smáskógi
 copula n. tengiorð
 copulate s. maka sig (um dýr)
 copulation n. samtenging, samband; samræði
@@ -2404,7 +2404,7 @@ cozer n. svikari
 crab n. krabbi; skógarepli
 crabbed l. önugur, afundinn; önuglyndur; flókinn, þungskilinn; ógreinilegur (um rithönd)
 crabbedness n. önugleiki
-crabby l. krabba- ([~ paw]); sjá [crabbed]
+crabby l. krabba- ([~ paw]); sjá %[crabbed]%
 crack n. brestur, brak; smellur, hvellur; sprunga, rifa; s. bresta, braka; springa, rifna; gera smell með (keyri); brjóta ([~ a nut]); sprengja; skaða, hnekkja; [his voice ~s, is ~ed] hann er í mútum; [~ a joke] segja fyndni; [~ a bottle] tæma flösku; l. afbragðs- ([~ boat, ~ horse])
 crackbrained l. geggjaður
 cracked l. brostinn, sprunginn; rámur, hás; ringlaður
@@ -2453,7 +2453,7 @@ crave s. beiðast; krefjast; þrá (einnig [~ for] eða [~ after])
 craven l. ragur, huglaus; n. raggeit
 cravenly ao. ragmennskulega
 craw n. sarpur (í fugli)
-crawfish n. fljótakrabbi; sjá [crayfish]
+crawfish n. fljótakrabbi; sjá %[crayfish]%
 crawl s. skríða, skreiðast; vera kvikur (af e-u [with]); klæja
 crayon n. teiknikrít
 craze s. brjála, æra; brjálast, ærast; n. æði, brjálun; æðisleg löngun
@@ -2516,7 +2516,7 @@ criminality n. saknæmi, sekt
 criminate s. ákæra; sanna glæp á e-n; bera sakir á e-n; sakaráburður
 criminology n. glæpafræði
 criminous l. glæpsamlegur
-crimp s. gera liði á (hár); gára; lokka til sjómennsku eða herþjónustu; n. maður, sem lokkar menn til herþjónustu eða sjómennsku; l. sem molnar; stökkur (sjá [crisp])
+crimp s. gera liði á (hár); gára; lokka til sjómennsku eða herþjónustu; n. maður, sem lokkar menn til herþjónustu eða sjómennsku; l. sem molnar; stökkur (sjá %[crisp]%)
 crimson l. fagurrauður; n. fagurrauður litur; s. lita fagurrautt; roðna; [her (pale) face ~ed] hún roðnaði
 cringe s. kiprast saman; hneigja sig auðmjúklega; flaðra; n. auðvirðileg hneiging
 crinkle n. hrukka; felling; liður (á hári); s. gera hrukkur á
@@ -2587,7 +2587,7 @@ crowd n. mannþröng; þyrping; hópur; múgur; fjöldi; s. hrúga (þjappa e-u)
 crowded l. troðfullur
 crown n. blómhringur; kóróna; krúna, (konungs)ríki; króna (peningur); hvirfill; hnúkur; hattkollur; bunga á upphleyptum vegi ([~ of the causeway]); s. krýna; kóróna; skreyta
 crowning n. krýning
-crozier n. bagall, sjá [crosier]
+crozier n. bagall, sjá %[crosier]%
 crucial l. krossmyndaður, kross- ([~ flowers]); úrslitalegur
 crucible n. deigla
 crucifix n. róðukross
@@ -2643,7 +2643,7 @@ cuirassier n. brynjaður riddari
 cuisine n. eldhús; matreiðsla, eldamennska
 culinary l. sem lýtur að eldhúsi eða matartilbúningi
 cull s. velja, tína ([~ flowers])
-cullender n. sjá [colander]
+cullender n. sjá %[colander]%
 cully n. heimskingi
 culm n. kolasalli; smíðakol; grasstrá, hálmstrá, hálmur
 culminate s. komast á hæsta stig; standa hæst á lofti (um stjörnur)
@@ -2656,7 +2656,7 @@ cultivable l. yrkjanlegur
 cultivate s. yrkja, rækta; mennta ([~ one's mind]); stunda ([~ science])
 cultivation n. yrking, ræktun; stundun; menning
 cultivator n. jarðyrkjumaður; iðkandi ([~s of science])
-culturable l. sjá [cultivable]
+culturable l. sjá %[cultivable]%
 culture n. ræktun menning, menntun; s. rækta; mennta; stunda
 culver n. skógardúfa
 culvert n. steinræsi (vatnsræsi) neðanjarðar
@@ -2749,7 +2749,7 @@ cutler n. hnífasmiður; hnífakaupmaður
 cutlery n. hnífasmíði; eggjárnasmíði; eggjárn
 cutlet n. rifsteik
 cutpurse n. vasaþjófur
-cutter n. sá (eða það) sem sker o.s.frv. (sjá [cut]); skúta með einni siglu; herskipsbátur
+cutter n. sá (eða það) sem sker o.s.frv. (sjá %[cut]%); skúta með einni siglu; herskipsbátur
 cutthroat n. manndrápari, morðingi, stigamaður
 cutting l. skerandi; napur, meinlegur; n. úrklippa (úr blaði)
 cuttle n. kolkrabbi
@@ -2758,8 +2758,8 @@ cutty l. stuttur í spuna
 cycle n. hringur; öld, tímabil; flokkur (af kvæðum eða sögum um sama efni); reiðhjól, hjólhestur; s. hjóla
 cyclist n. hjólfari, hjólríðari, hjólari
 cyclone n. hvirfilvindur
-cyclopedia n. sjá [encyclopedia]
-cyclopaedia n. sjá [encyclopedia]
+cyclopedia n. sjá %[encyclopedia]%
+cyclopaedia n. sjá %[encyclopedia]%
 cyclopean l. stórkostlegur, tröllslegur
 cyclopian l. stórkostlegur, tröllslegur
 cyclops n. eineygður risi (í goðafræði Grikkja)

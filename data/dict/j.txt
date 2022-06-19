@@ -100,10 +100,10 @@ jewelry n. skartmunir (búnir gimsteinum)
 jib n. fokka; s. færa segl úr einni hlið í aðra; kastast til (um segl); vera staður, standa kyrr (um hest)
 jibboom n. fremri hluti bugspjóts
 jibber s. tala fljótt og óskilmerkilega
-jibe s. sjá [gibe]
+jibe s. sjá %[gibe]%
 jig n. e.k. dans; s. dansa
 jilt s. hafna elskhuga sínum n. e-r sem hafnar elskhuga sínum
-jimmy n. sjá [jemmy]
+jimmy n. sjá %[jemmy]%
 jingle s. hringla, glamra; n. hringl, glamur
 jingling n. hringl, glamur
 jingler n. glamrari
@@ -144,7 +144,7 @@ joke n. gaman; spaug; fyndni; athlægi; [practical ~] hrekkur, gletta, keskni; [
 joker n. gamansamur maður; [practical ~] meinfyndinn maður
 jokesome l. gamansamur
 jokingly ao. í gamni
-jole n. sjá [jowl]
+jole n. sjá %[jowl]%
 jollification n. glaðværð, kátína
 jolliness n. glaðværð, kátína
 jollity n. glaðværð, kátína
@@ -189,7 +189,7 @@ Judaical l. gyðinglegur
 Judaism n. Gyðingatrú, gyðingdómur
 Judaize s. gera gyðinglegt, fylgja gyðingasiðum
 judge s. dæma; dæma um, leggja dóm á; ætla, hyggja; n. dómari
-judgement n. sjá [judgment]
+judgement n. sjá %[judgment]%
 judgeship n. dómaratign; dómaraembætti
 judgment n. dómur; áfellisdómur; skoðun, ætlun; dómgreind, skilningur; [to pass ~ upon] leggja dóm á; [day of ~, judgment day] dómsdagur
 judicative l. dóms- ([~ power])
@@ -251,7 +251,7 @@ justification n. réttlæting, afsökun
 justificative l. réttlætandi
 justificatory l. réttlætandi
 justify s. réttlæta, verja, afsaka; sanna ([~ one's claim])
-justle s. sjá [jostle]
+justle s. sjá %[jostle]%
 jut s. skaga út eða fram ([~ out/forth]); n. framstandandi partur, útskot ([~ of a rock])
 Jutes n. ft. Jótar
 Jutland n. Jótland

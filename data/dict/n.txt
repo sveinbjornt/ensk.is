@@ -165,7 +165,7 @@ negress n. svertingjastúlka
 negro n. blökkumaður, blámaður
 negus n. heit vínblanda
 neigh s. hneggja; n. hnegg
-neighbor n. sjá [neighbour]
+neighbor n. sjá %[neighbour]%
 neighbour n. nágranni, nábúi; sessunautur ([my ~ at dinner]); náungi; l. nálægur; s. liggja nálægt
 neighbourhood n. nábýli; nágrenni, grennd; nábúar; [in the ~ of] nálægt; hér um bil
 neighbouring l. nærliggjandi, nálægur
@@ -187,7 +187,7 @@ nervine n. taugalyf
 nervous l. sterkur, kröftugur; taugastyrkjandi; taugaveikur, óstyrkur; kvíðafullur; [the ~ system] taugakerfið
 nervously ao. með kvíða, hræðslu; kröftuglega
 nervousness n. taugaveiklun, óstyrkur; kvíðasemi; kraftur, styrkleiki
-nervy l. sjá [nervous]
+nervy l. sjá %[nervous]%
 nescience n. fáfræði, vankunnátta
 nescient l. fákunnandi, fáfróður (um e-ð [of])
 nest n. hreiður; [~ of thieves] þjófabæli; s. gera hreiður; dvelja, hafast við; [~ oneself] koma sér fyrir, búa um sig; hafa eða gera hreiður sitt á e-m stað

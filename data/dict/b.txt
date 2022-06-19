@@ -32,7 +32,7 @@ backwardness n. tregða, leti
 backwash n. útsog
 bacon n. reykt eða saltað svínsflesk; [save one's ~] komast undan með heilu og höldnu
 bacterium n. gerill
-bacteria n. ft. gerlar (sjá [bacterium])
+bacteria n. ft. gerlar (sjá %[bacterium]%)
 bacteriologist n. gerlafræðingur
 bacteriology n. gerlafræði, bakteríufræði
 bad l. illur, vondur, slæmur; [he has a ~ eye] honum er illt í auga; [he has a ~ tooth] skemmda tönn
@@ -229,7 +229,7 @@ bat n. barefli; knatttré; högg; s. berja með barefli
 bat n. leðurblaka
 batable l. vafasamur
 batata n. sæt kartafla
-bate s. sjá [abate]
+bate s. sjá %[abate]%
 batch n. bakstur; hrúga, hópur ([a ~ of letters, visitors])
 bath n. bað, laug, baðker; [in a ~ of perspiration] löðursveittur
 bathe s. baða, lauga; baða sig
@@ -968,11 +968,11 @@ bounteousness n. örlæti
 bountiful l. örlátur (á e-ð [of])
 bounty n. örlæti; góðgerðasemi; gjöf; verðlaun
 bouquet n. blómvöndur
-bourgeon n. sjá [burgeon]
+bourgeon n. sjá %[burgeon]%
 bourn n. takmark; lækur
 bourne n. takmark; lækur
-bouse s. sjá [booze]
-bousy l. sjá [boozy]
+bouse s. sjá %[booze]%
+bousy l. sjá %[boozy]%
 bout n. deila, bardagi; [this ~] í þetta sinn; [~ of fisticuffs] hnefaleikur; [~ of drinking] drykkjusvall
 bovine l. uxa-; heimskur
 bow n. bogi ([shoot with a ~]); regnbogi; söðulbogi; [bend/draw a ~] draga upp boga
@@ -990,7 +990,7 @@ bowling-green n. knattleikaflötur
 bowlegged l. bjúgfættur
 bowman n. bogmaður
 bowsprit n. bugspjót, brandur
-bow-window n. sjá [bay-window]
+bow-window n. sjá %[bay-window]%
 box n. kassi, kista, koffort, stokkur, dósir; (jóla)gjöf ([Christmas ~]); vagnstjórasæti; stúka (í leikhúsi); veiðihús ([hunting ~]); s. láta í kassa ([~ up])
 box s. berja með hnefanum, reka (e-m) utan undir; berjast (í hnefaleik); n. [a ~ on the ear] löðrungur
 boxer n. boxari; hnefaleikamaður
@@ -1089,7 +1089,7 @@ brew s. brugga; blanda; vera í undirbúningi ([mischief is brewing]); n. brugg
 brewage n. blanda, drykkur
 brewer n. bruggari
 brewery n. ölheitustaður, ölgerðarstaður, ölgerð
-briar n. sjá [brier]
+briar n. sjá %[brier]%
 bribe n. múta, mútufé; s. múta
 briber n. mútugjafi
 bribery n. mútugjöf, mútuþága
@@ -1138,7 +1138,7 @@ British l. breskur ([the ~ people])
 Britisher n. breskur maður, Breti
 Briton n. Forn-Breti
 brittle l. stökkur, brothættur; fallvaltur
-broach n. steikarteinn; sjá [brooch]; s. stinga á (víntunnu); færa í tal, vekja máls á
+broach n. steikarteinn; sjá %[brooch]; s. stinga á (víntunnu); færa í tal, vekja máls á
 broad l. breiður, viður; víðáttumikill ([~ lands]); berorður, skýr ([~ hint]); klúr ([a ~ story]); yfirgripsmikill; frjálslegur (um skoðanir); frjálslyndur, umburðarlyndur; [by ~ sunlight] í glaða sólskini; [in ~ daylight] um hábjartan daginn
 broad-awake l. glaðvakandi
 broadcast s. útvarpa; ao. [to sow ~] sá með hendinni
@@ -1165,8 +1165,8 @@ bronchitis n. lungnakvef
 bronze n. brons (málmblendingur); s. setja bronslit á; gera tilfinningarlausan, herða
 brooch n. brjóstnál
 brood n. afsprengi dýra; afkvæmi, börn; s. liggja á eggjum; klekja út; búa yfir (e-u), vera að hugsa um ([on/over]); grúfa yfir (um myrkur, nótt, stormský)
-brood-hen n. sjá [breeding hen]
-brooding-hen n. sjá [breeding hen]
+brood-hen n. sjá %[breeding hen]%
+brooding-hen n. sjá %[breeding hen]%
 broodmare n. stóðmeri
 broody l. eggsjúk (um kvennfugl)
 brook n. lækur; s. þola (með neitun [the matter ~s no delay])
@@ -1180,7 +1180,7 @@ brother n. bróðir; trúbróðir, félagsbróðir
 brother-in-law n. mágur
 brotherhood n. bræðralag, bræðrasamband
 brotherly l. bróðurlegur ([divide it in a ~ fashion])
-brought l. sjá bring
+brought l. sjá %[bring]%
 bougham n. eineykisvagn (tví- eða fjórhjólaður)
 brow n. brún (fjalls-, kletta-, auga-); enni; [knit (bend) one's ~s] hnykla brýnnar
 browbeat s. hræða með hvössu augnaráði, ógna
@@ -1262,7 +1262,7 @@ bumptious l. hrokafullur
 bumptiousness n. hroki, sjálfsálit
 bun n. bolla (kaka)
 bunch n. vöndull; kippa ([~ of keys]); hrísla ([~ of grapes])
-buncombe n. sjá bunkum
+buncombe n. sjá %[bunkum]%
 bundle n. pinkill, böggull, stöngull; s. binda saman; [~ off] senda burtu í skyndi; þjóta burt
 bung n. spons í (tunnu); s. setja spons í, sponsa
 bungalow n. sumarhús
@@ -1277,7 +1277,7 @@ buoy n. dufl, tunnudufl (á sjó); s. halda uppi (á floti); marka með dufli
 buoyage n. dufl; duflalagning
 buoyancy n. uppburðarafl (vatnsins); liðugleiki; léttlyndi
 buoyant l. léttur í vatni; léttlyndur, vongóður
-bur n. sjá [burr]
+bur n. sjá %[burr]%
 burbot n. fisktegund
 burden n. byrði; burðarhæfi skips, rúmtak; viðkvæði; aðalefni (í bók, ræðu eða kvæði); [~ of proof] sönnunarskylda; [beast of ~] burðardýr; s. leggja byrði á; íþyngja
 burdensome l. örðugur, þungbær
@@ -1311,7 +1311,7 @@ bursarship n. gjaldkeraembætti; námsstyrkur
 bursary n. námsstyrkur (við skoska skóla)
 burst s. braka, bresta, springa, rifna ([~ with food, laughter, rage]); sprengja; [~ out] brjótast út, koma upp, hefjast snögglega (um stríð, sjúkdóm); [~ out with (a secret)] fleipra út úr sér; [~ out laughing] reka upp skellihlátur; [~ into tears] fara að gráta; [~ open the door] sprengja upp dyrnar; [~ing with fat] hjólspikaður, sem rær í spikinu; n. brestur, brak; sprunga; sprettur (á reið); [~ of laughter] skellihlátur, hlátursköll; [~ of tears] táraflóð; [~ of thunder] reiðarduna, skrugga; [at a (one) ~] í hvellinum
 bursting n. sprenging; [my heart beat almost to ~] svo að það ætlaði að springa
-burthen n. sjá [burden]
+burthen n. sjá %[burden]%
 bury s. grafa, greftra, jarða
 burying n. greftrun
 burying-ground n. grafreitur

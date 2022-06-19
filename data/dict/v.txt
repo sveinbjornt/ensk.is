@@ -196,7 +196,7 @@ verdure n. græn (grasi vaxin) jörð, grænka, grængresi
 verdurous l. grænn, grasivaxinn, blómlegur
 verge n. tignarstafur
 verge n. rönd, brún; barmur; rúm, svið ([~ for, to]); [on the ~ of ruin] á heljarþröminni; s. hallast; færast nær, nálgast ([upon, to, towards]); snúa í e-a átt
-vergeboard n. sjá [bargeboard]
+vergeboard n. sjá %[bargeboard]%
 verger n. sprotaberi; stafberi; kirkjuþjónn
 veridical l. sannsögull
 verifiable l. sannanlegur
@@ -419,7 +419,7 @@ vivisection n. uppskurður lifandi dýra, kvikskurður
 vixen n. tóa; kvenskass
 viz stytt. úr [videlicet], nefnilega; vanalega lesið [namely]
 vizier n. vesír, tyrkneskur ráðgjafi
-vizor n. sjá [visor]
+vizor n. sjá %[visor]%
 vocable n. orð
 vocabulary n. orðasafn
 vocal l. raddlegur, radd-; hljómandi, ómandi ([~ with their mirth]); munnlegur; [~ performer] söngvari
@@ -444,7 +444,7 @@ voidness n. tómleiki; skortur; ógildi
 volatile l. sem auðveldlega gufar upp; roksamur ([~ oils, ether is ~]); óstöðugur, hverfull, kvikur
 volatility n. roksemi; kviklyndi
 volatilize s. láta gufa upp; gufa upp ([~ off])
-volcanic l. jarðeldalegur; eldbrunninn; eldfjalla- ([~ ashes]); [~ eruption] eldgos; [~ glass] hrafntinna (sjá [obsidian])
+volcanic l. jarðeldalegur; eldbrunninn; eldfjalla- ([~ ashes]); [~ eruption] eldgos; [~ glass] hrafntinna (sjá %[obsidian]%)
 volcano n. eldfjall
 vole n. engjamús, stúfmús
 volition n. vilji
@@ -456,7 +456,7 @@ volubly ao. liðugt ([to talk ~])
 volume n. bindi ([a work in three ~s]); rúmtak, fyrirferð; megn ([a great ~]); mökkur ([~s of smoke]); [speak ~s] segja afarmikið ([her eyes spoke ~s])
 volumed l. fyrirferðarmikill; [two-volumed] í tveim bindum
 voluminous l. sem er mörg bindi; yfirgripsmikill; sem hefur ritað mikið ([a ~ writer])
-voluntary l. sjálfviljugur, sjálfboðinn; gerður af ásettu ráði; [~ church] fríkirkja; n. fríkirkjumaður; orgelspil á undan eða eftir guðsþjónustu; sjá [volunteer]
+voluntary l. sjálfviljugur, sjálfboðinn; gerður af ásettu ráði; [~ church] fríkirkja; n. fríkirkjumaður; orgelspil á undan eða eftir guðsþjónustu; sjá %[volunteer]%
 volunteer n. sjálfboðaliði; s. bjóða fram ([~ one's services]); gera e-ð sjálfkrafa; ganga sjálfviljugur í e-a þjónustu
 voluptuary n. munaðarlífsmaður
 voluptuous l. munuðlífur; lostasamur

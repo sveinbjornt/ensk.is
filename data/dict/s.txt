@@ -262,7 +262,7 @@ scantiness n. ónógleiki, skortur
 scantness n. ónógleiki, skortur
 scantling n. lítið stykki; ögn; stubbur, kubbur
 scanty l. lítill, rýr, ónógur ([a ~ supply]); [~ of words] fámæltur, fáorður
-scape n. & s. sjá [escape]
+scape n. & s. sjá %[escape]%
 scapegoat n. sektarlamb
 scapegrace n. ónytjungur, vandræðamaður
 scar n. ör (eftir sár); klettur, bjarg; s. gera öróttan; [~ over] gróa (um sár)
@@ -347,7 +347,7 @@ scoffer n. spottari
 scoffingly ao. í háði, hæðnislega
 scold s. ávíta, atyrða, skamma; skammast, rífast; n. skömmóttur kvenmaður, skammahylki
 scolding n. skammir, atyrðing; l. skömmóttur
-scollop n. sjá [scallop]
+scollop n. sjá %[scallop]%
 sconce n. vígi; hauskúpa, höfuð; kertastjaki (á vegg); borðviti; s. sekta ([~ one for breach of good manners])
 scone n. brauðkaka
 scoop n. ausa; austurtrog; s. ausa, þurrausa; moka; hola út
@@ -423,7 +423,7 @@ scrolled l. útflúraður
 scrub s. nugga hart, skrúbba ([~ a deck, a floor]); leggja hart að sér; strita; n. slitinn gólfsópur; lágur runnur; aumingi
 scrubbed l. kyrkingslegur; vesæll, armur; fyrilitlegur
 scrubby l. kyrkingslegur; vesæll, armur; fyrirlitlegur
-scrummage n. sjá [scrimmage]
+scrummage n. sjá %[scrimmage]%
 scrumptious l. ágætur
 scruple n. efasemd, hik; lítil vigt; smáræði; s. efast um; vera í efa (um [at]); víla fyrir sér; horfa í
 scrupulosity n. samviskusemi
@@ -901,7 +901,7 @@ sheriff n. fógeti, sýslumaður
 sheriffalty n. fógetadæmi
 sheriffdom n. fógetadæmi
 sherry n. sérrí (víntegund)
-shew s. sjá [show]
+shew s. sjá, sýna %[show]%
 shield n. skjöldur; vernd; s. vernda, varðveita
 shieldless l. skjaldarlaus; varnarlaus
 shift s. skipta um; breyta; flytja úr stað; flytja sig; breytast; snúa sér; ganga í aðra átt (um vind); skipta um skoðanir, snúast; hafa (nær)fataskipti; neyta bragða; [~ about] snúast alveg; [~ away] bola (e-m) í burt; [~ off] reyna að komast undan (e-u), losast við; [~ for oneself] sjá fyrir sér sjálfur; n. umskipti; breyting; snúningur; útvegur, (neyðar)úrræði; bragð, kænskuráð; kvennskyrta; [I can make ~ without it] ég get komist af án þess; [to make ~ with] bjargast við (e-ð)
@@ -911,7 +911,7 @@ shiftless l. úrræðalaus; klaufalegur
 shifty l. brögðóttur; slóttugur, prettóttur
 shilling n. enskur skildingur
 shilly-shally n. ráðaleysi; [to be at ~/to stand ~] vera á báðum áttum, standa ráðalaus
-shily ao. sjá [shyly]
+shily ao. sjá %[shyly]%
 shimmer s. glitra, blika; n. glampi
 shimmery l. glitrandi, gljáandi
 shin n. sköflungur

@@ -30,7 +30,7 @@ keg n. kaggi, kvartil
 kelp n. þangaska
 kelpie n. vatnaskrímsli, nykur
 kelpy n. vatnaskrímsli, nykur
-kelson n. sjá [keelson]
+kelson n. sjá %[keelson]%
 kelter n. gott lag; [out of ~] í ólagi; [in good ~] í góðu lagi
 kilter n. gott lag; [out of ~] í ólagi; [in good ~] í góðu lagi
 kemp n. toghár, tog
@@ -87,7 +87,7 @@ kindness n. góðsemi, góðvild, greiði
 kindle s. kveikja; tendra upp; æsa; kvikna ([their mutual resentment ~d again]); brenna, loga; [~ up the fire] kveikja upp eldinn
 kindler n. kveikjari
 kindred n. skyldleiki; ætt; ættingjar; [to claim ~ with] telja sig í ætt við; l. skyldur; líkur; [a ~ likeness] ættarmót
-kine n. ft. kýr, sjá [cow]
+kine n. ft. kýr, sjá %[cow]%
 kinetic l. hreyfingar-
 kinetics n. hreyfingarfræði, aflfræði
 king n. konungur; s. gera að konungi

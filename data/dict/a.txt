@@ -953,7 +953,7 @@ ananas n. ananas (aldin)
 anapaest n. bragliður, tvær stuttar samstöfur og ein löng
 anarchic l. stjórnlaus; óstjórnar-
 anarchical l. stjórnlaus; óstjórnar-
-anarchist n. stjórnleysingi, stjórnleysissinni, anarkisti (sjá [anarchism])
+anarchist n. stjórnleysingi, stjórnleysissinni, anarkisti (sjá %[anarchism]%)
 anarchy n. stjórnleysi, óstjórn
 anathema n. bannfæring
 anathematize s. bannfæra; bölva

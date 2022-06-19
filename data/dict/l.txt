@@ -44,7 +44,7 @@ lacy l. sem líkist kniplingum, kniplinga-
 lad n. piltur, drengur, strákur
 ladanum n. e.k. límkvoða
 ladder n. laus stigi
-laddie n. (skoska) sjá [lad]
+laddie n. (skoska) sjá %[lad]%
 lade s. hlaða, ferma
 laden l. hlaðinn (e-u [with]); s. hlaða
 lading n. hleðsla, farmur
@@ -411,7 +411,7 @@ legitimacy n. lögmæti; lögmæt fæðing, löggetning
 legitimate l. lögmætur, réttur; lögborinn, skilgetinn; s. gera lögmætt, löghelga; ættleiða (barn)
 legitimation n. löghelgun; ættleiðing
 legitimist n. lögerfðasinni
-legitimize s. gera lögmætt, löghlega; sjá [legitimate]
+legitimize s. gera lögmætt, löghelga; sjá %[legitimate]%
 legume n. belgávöxtur
 legumen n. belgávöxtur
 leguminous l. belg-, líkur belgávexti
@@ -518,7 +518,7 @@ lichgate n. sálarhlið
 lick s. sleikja, lepja; slá, berja; n. sleiking; sleikja; högg
 lickerish l. sólginn í góðan mat
 lickspittle n. (höfðingja)sleikja
-licorice n. sjá [liquorice]
+licorice n. sjá %[liquorice]%
 lid n. lok
 lidless l. loklaus
 lie n. lygi; [to tell ~-s] ljúga; [to give the ~ to] segja (e-n) ljúga; ósanna; [he has given the ~ to his former principles] hann hefur brugðist fyrri skoðunum sínum; s. ljúga ([he lied to me])
@@ -726,8 +726,8 @@ lizard n. eðla (skriðdýr)
 llama n. lamadýr
 load n. byrði; klyf, vagnhlass; hleðsla (í byssu); s. leggja (hlass, byrði, klyf) á; hlaða; ferma (skip)
 loading n. hleðsla, ferming
-loadstar n. sjá [lodestar]
-loadstone n. segulsteinn, leiðarsteinn, sjá [lodestone]
+loadstar n. sjá %[lodestar]%
+loadstone n. segulsteinn, leiðarsteinn, sjá %[lodestone]%
 loaf n. hleifur; [a ~ (of bread)] brauð; [two loaves (of bread)] tvö brauð; [a ~ of sugar] sykurtoppur
 loaf s. slæpast, slóra; [~ away time] eyða tímanum í iðjuleysi
 loafer n. slæpingur
@@ -772,7 +772,7 @@ locution n. talsháttur
 locutory n. talstofa, skrafstofa (í klaustri)
 lode n. málmæð; skurður
 lodestar n. leiðarstjarna, einkum pólstjarnan
-lodestone n. sjá [loadstone]
+lodestone n. sjá %[loadstone]%
 lodge s. hýsa; setja; leggja; koma (e-u) fyrir; geyma; festa; skjóta; senda (skeyti, kúlur); dvelja, eiga heima; leggjast í leg (um gras); festast, verða fastur; n. lítið hús; skógarhús; kofi (Indjána); dyravarðarhús; (frímúrara)stúka
 lodger n. leigjandi, leiguliði í húsi
 lodgment n. föst staða, fótfesta; hýsing; safn
@@ -840,8 +840,8 @@ lookout n. vörður; útsjón; útlit; varðberg; [to be on the ~] vera á varð
 loom n. vefstóll; [~ of an oar] árarhlemmur; s. vefa
 loom n. lómur (fugl)
 loom s. hilla upp, vera meiri tilsýndar en í raun og veru; [the land ~-s high] landið hillir upp; n. upphilling ([the ~ of a rock was seen])
-loon n. lómur; einnig stytting á orðinu [lunatic]
-loony n. stytting á [lunatic]; sjá [lunatic]
+loon n. lómur; einnig stytting á orðinu %[lunatic]% (óforml.)
+loony n. stytting á [lunatic]; sjá %[lunatic]%
 loop n. lykkja; hanki, hnesla
 loop s. gera lykkju á e-ð; festa hneslu í fat; gera skotgöt á vegg; [~ up the hair] festa upp hárið
 loophole n. ljós- og loftop í vegg; smuga; skotgat
@@ -856,7 +856,7 @@ loppings n. ft. afkvisti
 lope s. hlaupa, brokka
 lop-eared l. með lafandi eyrum
 loppy l. lafandi
-lopsided l. sjá [lapsided]
+lopsided l. sjá %[lapsided]%
 loquacious l. málugur, málskapsmikill; niðandi (um vatn)
 loquacity n. mælgi, málæði
 lorcha n. e.k. (kínverskt) skip
@@ -876,7 +876,7 @@ loss n. missir, töpun, tjón, skaði; [~ of time] tímatöf; [~ of appetite] ly
 lot n. hluti; hlutur, hlutkesti ([election by ~]); hlutskipti; hópur; [we shall have ~-s to do] ógrynni að starfa; [~-s of people] mesti mannfjöldi; [draw ~-s] draga hluti (um [for, between]); [cast ~-s] kasta hlutum (um [for, between]); [the ~ fell upon me] minn hlutur kom upp; [it falls to my (as my) ~] í mitt hlutskipti; [a bad ~] vondur maður, óþokki; [the (whole) ~] allur hópurinn
 lost l. af sögninni [to lose]; týndur, glataður (í [to])
 lot s. skipta (landi) í hluta; úthluta
-loth l. sjá [loath]
+loth l. sjá %[loath]%
 lotion n. þvottur (einkum hörundsins); hörundsáburður
 lottery n. happdrætti
 lotto n. happdrætti
@@ -887,7 +887,7 @@ loudmouthed l. háróma, hátalaður
 loudness n. hæð, styrkleikur (hljóðs); hávaði, háreysti
 loudspoken l. hámæltur
 loud-voiced l. hámæltur
-lough n. sjá [loch]
+lough n. sjá %[loch]%
 lounge s. slangra, reika; slæpast, eyða í iðjuleysi ([~ away time]); sitja (eða liggja) náðugt; [~ life away] lifa iðjuleysislífi; n. slangur; göngusvið iðjuleysingja; lítill legubekkur
 lounger n. landeyða, slæpingur
 lour s. vera þungbrýnn, dapur í bragði; (um himininn, veðrið) vera þungbúinn, syrta að, grúfa yfir ([on, over, upon])
@@ -941,7 +941,7 @@ lubricate s. smyrja; gera sleipt (liðugt)
 lubrication n. smurning
 lubricious l. háll; slímugur; óstöðugur
 lubricity n. liðugleiki; hálka; óstöðugleiki; lostasemi
-lubricous l. sjá [lubricious]
+lubricous l. sjá %[lubricious]%
 luce n. (fullvaxin) gedda
 lucent l. skínandi, bjartur
 lucid l. ljós, bjartur, tær, gagnsær; skýr (um hugsun, rithátt)
@@ -1018,14 +1018,14 @@ lustre n. gljái, ljómi; dýrðarljómi; ljósahjálmur
 lustrine n. gljásilki
 lustrous l. gljáandi, skínandi, ljómandi
 lustrum n. 5 ára tímabil
-lusty l. sjá [lust]
+lusty l. sjá %[lust]%
 lutanist n. sá sem leikur á lútu
 lute n. leirkítti; s. kítta
 lute n. lúta, gígja
 Lutheran l. lúterskur; n. Lúterstrúarmaður
 Lutheranism n. Lúterstrú
 Lutherize s. snúa til Lúterstrúar
-lutist n. sjá [lutanist]
+lutist n. sjá %[lutanist]%
 luxate s. snúa úr liði
 luxation n. snúningur úr liði; liðskekkja, liðhlaup
 luxuriance n. gnægð; ákafleg frjósemi
