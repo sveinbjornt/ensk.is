@@ -1,5 +1,5 @@
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
-[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+[![Python 3.7](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 [![Build](https://github.com/sveinbjornt/ensk.is/actions/workflows/python-app.yml/badge.svg)]()
 
 # ensk.is
@@ -44,7 +44,7 @@ You can download the dictionary in the following formats:
 The ensk.is web application is implemented using the
 [FastAPI](https://fastapi.tiangolo.com/) Python web framework.
 To deploy it, you need to set up a Python virtual
-environment (3.6+) and install dependencies:
+environment (3.7+) and install dependencies:
 
 ```
 $ virtualenv -p /path/to/python3 venv
@@ -59,7 +59,7 @@ run the following command:
 $ python gen.py
 ```
 
-Run the web application via `uvicorn`:
+Run the web application via [`uvicorn`](https://www.uvicorn.org/):
 
 ```
 $ uvicorn app:app --reload
