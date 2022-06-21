@@ -188,6 +188,12 @@ def page_for_word(w: str) -> int:
     return WORD_TO_PAGE.get(w, 0)
 
 
+def read_json(inpath: str) -> Dict[str, str]:
+    """Read and parse json file."""
+    with open(inpath, "r") as f:
+        return json.load(f)
+
+
 def zip_file(inpath: str, outpath: str) -> None:
     """Zip a given file, overwrite to destination path."""
     if exists(outpath):
@@ -196,8 +202,13 @@ def zip_file(inpath: str, outpath: str) -> None:
         zip_f.write(inpath)
 
 
-def read_ipa(inpath: str) -> Dict[str, str]:
-    """Read file mapping English words to their
-    International Phonetic Alphabet equivalent."""
-    with open(inpath, "r") as f:
-        return json.load(f)
+def human_size(path: str) -> str:
+    """Convert byte size to human readable string."""
+    size = os.stat(path).st_size
+    for x in ["B", "KB", "MB", "GB", "TB"]:
+        if size < 1024.0 and x != "KB" and x != "B":
+            return f"{size:.1f} {x}"
+        elif size < 1024.0:
+            return f"{size:.0f} {x}"
+        size /= 1024.0
+    return f"{size:.1f} TB"

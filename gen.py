@@ -44,7 +44,7 @@ import csv
 
 import sqlite_utils
 
-from util import read_pages, parse_line, page_for_word, zip_file, read_ipa
+from util import read_pages, parse_line, page_for_word, zip_file, read_json
 from db import EnskDatabase, DB_FILENAME
 
 
@@ -52,8 +52,8 @@ EntryType = Tuple[str, str, str, str, int]
 EntryList = List[EntryType]
 
 
-ENWORD_TO_IPA_UK = read_ipa("data/ipa/uk/en2ipa.json")
-ENWORD_TO_IPA_US = read_ipa("data/ipa/us/en2ipa.json")
+ENWORD_TO_IPA_UK = read_json("data/ipa/uk/en2ipa.json")
+ENWORD_TO_IPA_US = read_json("data/ipa/us/en2ipa.json")
 
 STATIC_FILES_PATH = "static/files/"
 

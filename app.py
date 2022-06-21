@@ -39,7 +39,6 @@
 
 from typing import List, Dict, Tuple, Any, Union
 
-import os
 import re
 
 from fastapi import FastAPI, Request, HTTPException
@@ -49,7 +48,7 @@ from fastapi.responses import Response, JSONResponse
 
 from db import EnskDatabase
 from cache import cache_response
-
+from util import human_size
 
 # Website settings
 WEBSITE_NAME = "Ensk.is"
@@ -227,17 +226,6 @@ async def page(request: Request, n):
 @cache_response
 async def files(request: Request):
     """Page containing download links to data files."""
-
-    def human_size(path: str) -> str:
-        """Convert byte size to human readable string."""
-        size = os.stat(path).st_size
-        for x in ["B", "KB", "MB", "GB", "TB"]:
-            if size < 1024.0 and x != "KB" and x != "B":
-                return f"{size:.1f} {x}"
-            elif size < 1024.0:
-                return f"{size:.0f} {x}"
-            size /= 1024.0
-        return f"{size:.1f} TB"
 
     sqlite_size = human_size("static/files/ensk_dict.db.zip")
     csv_size = human_size("static/files/ensk_dict.csv.zip")
