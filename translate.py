@@ -32,7 +32,7 @@
     POSSIBILITY OF SUCH DAMAGE.
 
 
-    Use translation services to translate words
+    Use machine translation services to translate words
     from English to Icelandic mechanically.
 
 """
@@ -42,22 +42,18 @@ import time
 import random
 
 import requests
-import pprint
 
-data = None
-with open("enis.json", "r") as f:
-    data = json.load(f)
-dictwords = list(data.keys())
+from util import read_all_words
 
-# pprint.pprint(dictwords)
+
+dictwords = read_all_words()
 
 
 TRANSLATE_URL = "https://velthyding.is/translate/"
 
+
 random.shuffle(dictwords)
 
-
-# {"model":"","contents":["guild"],"sourceLanguageCode":"en","targetLanguageCode":"is"}
 
 for w in dictwords:
     d = {

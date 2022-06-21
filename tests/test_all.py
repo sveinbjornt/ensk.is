@@ -34,7 +34,7 @@
 
 """
 
-from typing import List, Dict, Any
+from typing import Dict, Any
 
 import os
 import sys

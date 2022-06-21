@@ -54,7 +54,7 @@ for e in no_ipa:
     try:
         out = subprocess.check_output(["ruby", "ipa-cambridge.rb", e])
         out = out.decode().strip()
-    except Exception as e:
+    except Exception:
         continue
 
     if not out:
