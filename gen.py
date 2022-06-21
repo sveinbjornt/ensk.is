@@ -89,8 +89,7 @@ def ipa4entry(s: str, lang="uk") -> Optional[str]:
 
 
 def read_all_entries() -> EntryList:
-    """Read all entries from dictionary text files
-    and parse them."""
+    """Read all entries from dictionary text files and parse them."""
     r = read_pages()
 
     entries = []
@@ -177,11 +176,13 @@ def generate_text(entries: EntryList) -> str:
     old_cwd = os.getcwd()
     os.chdir(STATIC_FILES_PATH)
 
-    # Write text file and zip it
+    # Generate full dictionary text
+    txt = "\n".join([f"{e[0]} {e[1]}" for e in entries]).strip()
+
+    # Write to file and zip it
     filename = "ensk_dict.txt"
     with open(filename, "w") as file:
-        for e in entries:
-            file.write(f"{e[0]} {e[1]}\n")
+        file.write(txt)
     zipfn = f"{filename}.zip"
     zip_file(filename, zipfn)
 
