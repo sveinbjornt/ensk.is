@@ -3,4 +3,5 @@ jinja2>=3.1.2
 islenska>=0.4.3
 tokenizer>=3.4.1
 gunicorn>=20.1.0
+uvicorn>=0.17.6
 sqlite-utils>=3.27

@@ -59,10 +59,10 @@ run the following command:
 $ python gen.py
 ```
 
-Run the web application via `gunicorn`:
+Run the web application via `uvicorn`:
 
 ```
-$ gunicorn app:app -w 1 -k uvicorn.workers.UvicornWorker -b "127.0.0.1:8080"
+$ uvicorn app:app --reload
 ```
 
 ## Dictionary License
