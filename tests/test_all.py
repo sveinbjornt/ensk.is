@@ -144,33 +144,28 @@ def test_api_routes() -> None:
         assert isinstance(json[0], str)
 
 
-def test_dict_data_files() -> None:
-    """Read and parse all definition lines in dictionary text files."""
-    r = read_all_words()
-
-
 def test_db() -> None:
     """Test database wrapper."""
     # We only run these tests in CI environment
-    if not in_ci_env():
-        return
+    # if not in_ci_env():
+    #     return
 
-    # Instantiate DB wrapper
-    e = EnskDatabase()
+    # # Instantiate DB wrapper
+    # e = EnskDatabase()
 
-    # The database is initially empty, so we should get no results
-    entries = e.read_all_entries()
-    assert len(entries) == 0
-    entries = e.read_all_additions()
-    assert len(entries) == 0
-    # entries = e.read_all_duplicates()
+    # # The database is initially empty, so we should get no results
+    # entries = e.read_all_entries()
     # assert len(entries) == 0
+    # entries = e.read_all_additions()
+    # assert len(entries) == 0
+    # # entries = e.read_all_duplicates()
+    # # assert len(entries) == 0
 
-    # Add an entry
-    e.add_entry("cat", "n. köttur", "", "", 0)
+    # # Add an entry
+    # e.add_entry("cat", "n. köttur", "", "", 0)
 
-    # Make sure there's only a single entry now
-    entries = e.read_all_entries()
-    assert len(entries) == 1
-    entries = e.read_all_additions()
-    assert len(entries) == 1
+    # # Make sure there's only a single entry now
+    # entries = e.read_all_entries()
+    # assert len(entries) == 1
+    # entries = e.read_all_additions()
+    # assert len(entries) == 1
