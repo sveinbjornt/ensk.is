@@ -40,6 +40,7 @@ import os
 import sys
 
 from fastapi.testclient import TestClient
+from gen import delete_db
 from db import EnskDatabase
 
 # Add parent dir to path so we can import from there
@@ -143,28 +144,33 @@ def test_api_routes() -> None:
         assert isinstance(json[0], str)
 
 
+# NB: This test needs to run after all the other tests and
+# should be kept at the bottom of the source file.
 def test_db() -> None:
     """Test database wrapper."""
     # We only run these tests in CI environment
-    # if not in_ci_env():
-    #     return
+    if not in_ci_env():
+        return
 
-    # # Instantiate DB wrapper
-    # e = EnskDatabase()
+    # Delete any pre-existing database file
+    delete_db()
 
-    # # The database is initially empty, so we should get no results
-    # entries = e.read_all_entries()
+    # Instantiate DB wrapper
+    e = EnskDatabase()
+
+    # The database is initially empty, so we should get no results
+    entries = e.read_all_entries()
+    assert len(entries) == 0
+    entries = e.read_all_additions()
+    assert len(entries) == 0
+    # entries = e.read_all_duplicates()
     # assert len(entries) == 0
-    # entries = e.read_all_additions()
-    # assert len(entries) == 0
-    # # entries = e.read_all_duplicates()
-    # # assert len(entries) == 0
 
-    # # Add an entry
-    # e.add_entry("cat", "n. köttur", "", "", 0)
+    # Add an entry
+    e.add_entry("cat", "n. köttur", "", "", 0)
 
-    # # Make sure there's only a single entry now
-    # entries = e.read_all_entries()
-    # assert len(entries) == 1
-    # entries = e.read_all_additions()
-    # assert len(entries) == 1
+    # Make sure there's only a single entry now
+    entries = e.read_all_entries()
+    assert len(entries) == 1
+    entries = e.read_all_additions()
+    assert len(entries) == 1
