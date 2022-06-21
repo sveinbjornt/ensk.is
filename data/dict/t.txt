@@ -414,7 +414,7 @@ the gr. ákveðinn greinir; sá (sú, það); hinn (hin, hið); [at ~ time] á �
 theatre n. leikhús; sjónarsvið ([~ of war])
 theatrical l. leikhúslegur; leikara- ([~ company]); leikaralegur, ónáttúrlegur
 theatricals n. ft. leiksýningar ([private ~]); leikhúsmálefni, leikhúsútbúnaður; leikarar
-thee fn. þig (sjá [thou])
+thee fn. þig (sjá %[thou]%)
 theft n. þjófnaður; þýfi
 their fn. þeirra; sinn
 theirs fn. þeirra; sinn
@@ -550,10 +550,10 @@ threepenny l. sem kostar þrjú pence; lítilsverður
 threescore l. sextíu
 three-storied l. þrílyftur
 threnody n. sorgarljóð
-thresh s. þreskja, sjá [thrash]
+thresh s. þreskja, sjá %[thrash]%
 threshold n. þröskuldur
 thrice ao. þrisvar sinnum
-thrid s. þræða, rekja ([~ the mazes of the forest]); sjá [thread]
+thrid s. þræða, rekja ([~ the mazes of the forest]); sjá %[thread]%
 thrift n. velmegun; sparsemi; þróun; hagnaður; geldingahnappur, gullintoppur
 thriftily ao. sparsamlega; [be growing ~] dafna vel
 thriftiness n. sparsemi; blómgun
@@ -573,7 +573,7 @@ throatwash n. hálsskolvatn
 throaty l. (um hljóð) sem myndast í hálsinum (kokinu), hás
 throb s. slá (um æðar og hjarta); n. lífæðarsláttur; hjartsláttur; [~ of oars] áraglamm
 throe n. kvöl, þjáning; ft. fæðingarhríðir; [death ~s] dauðastríð, dauðakippir; s. þjást, kveljast
-throne n. hásæti, veldisstóll; [come to the ~] koma til valda; s. setja í hásæti; sjá [enthrone]
+throne n. hásæti, veldisstóll; [come to the ~] koma til valda; s. setja í hásæti; sjá %[enthrone]%
 throng n. þröng, mannþröng, þyrping, troðningur; s. þyrpast, flykkjast; troðast að (e-m)
 throstle n. söngþröstur; e.k. spunavél
 throttle n. barki, kverkar; s. taka fyrir kverkar á e-m, kyrkja; kafna
@@ -597,7 +597,7 @@ thunderer n. skrugguvaldur
 thundering l. þrumandi; afarmikill
 thunderous l. þrunginn þrumum; þrumandi; dynjandi ([~ applause])
 thunderstorm n. þrumuveður
-thunderstroke n. reiðarslag (sjá [thunderclap])
+thunderstroke n. reiðarslag (sjá %[thunderclap]%)
 thunderstruck l. þrumulostinn; höggdofa, agndofa
 thundery l. þrumu-; [~ weather] þrumuveður
 Thursday n. fimmtudagur
@@ -620,7 +620,7 @@ tickle s. kitla, fiðra við; [my foot ~s] mig klæjar í fótinn
 tickling n. kitl, fiðringur; löngun
 ticklish l. kitlugjarn; vandasamur; valtur ([a ~ boat])
 tidal l. sem lýtur að (eða er kominn undir) flóði og fjöru (eða sjávarföllum); [the ~ portion of the river] sá hluti árinnar sem fellur að og út í; [~ wave] flóðbylgja
-tide n. tími ([even~]); sjávarfall; aðfall og útfall, flóð og fjara ([high, low ~]); straumur; stefna; [the ~ is in/up] það er flóð; [the ~ is out/down] það er fjara; [the tide rises] það er aðfall; [work double ~s] vinna allt hvað af tekur; s. reka (róa, sigla, berast) með straumnum; henda (sjá [betide]); [~ over a difficulty] komast úr vanda
+tide n. tími ([even~]); sjávarfall; aðfall og útfall, flóð og fjara ([high, low ~]); straumur; stefna; [the ~ is in/up] það er flóð; [the ~ is out/down] það er fjara; [the tide rises] það er aðfall; [work double ~s] vinna allt hvað af tekur; s. reka (róa, sigla, berast) með straumnum; henda (sjá %[betide]%); [~ over a difficulty] komast úr vanda
 tidewaiter n. tollþjónn, tollvörður
 tidewave n. flóð flóðbylgja (sbr. [tidal wave])
 tidiness n. snyrtilegheit, snoturleiki
@@ -740,7 +740,7 @@ tonight ao. í kvöld; í nótt
 toad n. e.k. froskur
 toad-eater n. sníkjugestur; smjaðrari
 toadstool n. gorkúlutegund
-toady s. smjaðra; n. sjá [toad-eater]
+toady s. smjaðra; n. sjá %[toad-eater]%
 toadyism n. auðvirðilegt smjaður
 toast s. steikja á rist; hita, verma; n. steikt brauðsneið
 toaster n. brauðrist, ristavél, tæki sem brauð er steikt á
@@ -869,7 +869,7 @@ totally ao. alveg; gjörsamlega
 tote s. bera (byrði)
 totem n. ættarkumbl hjá Indjánum (í Norður-Ameríku)
 totter s. riða, reika, skjögra
-tottle s. suða, niða; sjá [toddle]
+tottle s. suða, niða; sjá %[toddle]%
 touch s. snerta; taka á, koma við; þreifa á; fá á hug (e-s); leika á (hljóðfæri); [~ at] koma við (í höfn); [~ on (upon)] liggja upp að; drepa (minnast) á; [~ up] dubba upp, hressa við, bæta, laga; n. snerting; tilfinning; snertur (af e-u); (penna)dráttur; prófun; [cold to the ~] kaldur viðkomu
 touchhole n. púðurgat
 touchiness n. stygglyndi
@@ -1041,7 +1041,7 @@ transmission n. sending; flutningur; afhending
 transmit s. senda; flytja; hleypa (t.d. ljósi) í gegnum
 transmitter n. sá sem sendir
 transmogrify s. ummynda, breyta e-u (í e-ð [into])
-transmontane l. sjá [tramontane]
+transmontane l. sjá %[tramontane]%
 transmutable l. umbreytilegur
 transmutation n. umbreyting
 transmute s. umbreyta, breyta e-u í e-ð ([into])
@@ -1056,21 +1056,21 @@ transplantation n. gróðursetning (á öðrum stað); flutningur (til annars st
 transport s. flytja; senda (glæpamann) úr landi; gagntaka, hrífa; n. flutningur; burtsending; flutningsskip; landrækur glæpamaður; áköf geðshræring; hrifning
 transportable n. flytjanlegur; sem varðar útlegð ([~ offence])
 transportation n. flutningur; flutningsmál
-transposal n. sjá [transposition]
+transposal n. sjá %[transposition]%
 transpose s. flytja (e-ð) til eða úr stað
 transposition n. flutningur úr stað; breyting á röðinni; stafavíxlun
-transship s. sjá [tranship]
+transship s. sjá %[tranship]%
 transubstantiate s. breyta í annað efni
 transubstantiation n. breyting brauðsins og vínsins í Krists líkama og blóð
 transudation n. svitnun
 transude s. svitna
 transversal l. sem er þversum, þver-
-transverse s. sjá [transversal]
+transverse s. sjá %[transversal]%
 trap n. gildra, dýrabogi, refasöx; snara; launsátur; fjaðravagn; [to be up to ~] vera slunginn; s. veiða í gildru; leggja gildru (fyrir [for])
 trapdoor n. hlemmur, hleri (í lofti eða gólfi); lúkugat
 trapper n. veiðimaður
 trap n. stallagrjót ([~ rock])
-trapan s. sjá [trepan]
+trapan s. sjá %[trepan]%
 trapes n. subba, ódámur; s. ganga sóðalega, vaða forina
 trappings n. ft. skrautleg reiðtygi; skrautbúnaður
 traps n. ft. farangur, föggur
@@ -1083,7 +1083,7 @@ traveller n. ferðamaður; farandsali ([commercial ~])
 travelling l. ferða-; [~ companion] förunautur; [~ expenses] ferðakostnaður; [~ costume] ferðaföt; n. ferðalag, ferðalög
 traverse l. þvers um, þver-; n. þvertré; ferð yfir ([he made a ~ of the mountain]); stigahaft; óhapp; hindrun; s. leggja þvert um; fara yfir eða í gegnum; liggja yfir ([footpaths traversing the country]); afstýra, hindra; neita, mótmæla fyrir (rétti); snúast (á ásenda)
 travesty s. gera (alvarlegt efni) hlægilegt, gera hlægilega eftirstælingu af e-u; n. hlægileg eftirstæling (afbökun)
-trawl n. botnvarpa (sjá [trawl line]); s. veiða með botnvörpu
+trawl n. botnvarpa (sjá %[trawl line]%); s. veiða með botnvörpu
 trawlboard n. botnvörpuhleri
 trawler n. botnvörpufiskari; botnvörpuskip, togari
 trawling n. botnvörpuveiðar
@@ -1157,7 +1157,7 @@ trickery n. svik, brögð
 trickish l. brögðóttur, hrekkjóttur; glettinn
 tricksome l. brögðóttur, hrekkjóttur; glettinn
 trickster n. hrekkjalimur, skelmir
-tricksy l. varasamur, viðsjáll (sjá [tricksome])
+tricksy l. varasamur, viðsjáll (sjá %[tricksome]%)
 trickle s. drjúpa, leka, renna í dropum ([water ~s from the eaves]); láta drjúpa; n. dropafall, leki
 tricklet n. lækjarsitra
 tricktrack n. e.k. tafl
@@ -1210,7 +1210,7 @@ tripudiate s. hoppa upp af gleði; trampa ofan á ([upon])
 trireme n. forngrískt herskip (með þrem áraröðum)
 trisect s. skipta (skera) í þrennt
 trisection n. þrískipting
-trismus n. ginklofi; sjá [lockjaw]
+trismus n. ginklofi; sjá %[lockjaw]%
 triste l. dapur, dapurlegur; ömurlegur
 trisyllabic l. þríkvæður ([~ word])
 trisyllable n. þríkvætt orð
@@ -1276,7 +1276,7 @@ truceless l. látlaus ([~ war])
 truck n. trukkur, flutningsvagn; s. flytja á vagni
 truck n. skiptiverslun; greiðsla kaupgjalds í vörum; skran, rusl; s. reka skiptiverslun; skipta á (e-u); láta e-ð í skiptum ([~ away])
 truckle n. tríssuhjól, tríssa; valtari; lághjóluð kerra; s. vera auðmjúkur (við); beygja sig (undir [to])
-truckle-bed n. sjá [trundle-bed]
+truckle-bed n. sjá %[trundle-bed]%
 truckler n. þýlyndur smjaðrari
 truckling l. þýlyndur
 truculence n. grimmd, ógurleiki
@@ -1433,7 +1433,7 @@ twaddler n. þvaðrari, gasprari
 twain l. tveir; [in ~] í tvennt
 twang s. hvína (um hertan streng); láta hvína í; leika (lag) á strengjahljóðfæri; skjóta (ör) af boga; n. hvinur; nefhljóðskækur (í málrómi, [nasal ~, ~ of the nose])
 twangy l. hvínandi, hvinmikill
-twattle s. sjá [twaddle]
+twattle s. sjá %[twaddle]%
 tweak s. klípa ([~ one by the nose]); rykkja, kippa ([~ off]); n. klíping; klípa; verkjarstingur
 tweed n. þunnt fataefni
 tweedle s. glamra (á hljóðfæri); lokka, ginna
@@ -1474,8 +1474,8 @@ two-handed l. tvíhendur; [a ~ sword] sverð sem lyft er með báðum höndum
 twopence n. ft. tveir peningar
 twopenny l. sem kostar 2 pence
 two-wheeled n. tvíhjólaður
-tymbal n. sjá [timbal]
-typal l. sjá [typical]
+tymbal n. sjá %[timbal]%
+typal l. sjá %[typical]%
 type n. tegund; mót; tákn; fyrirmyndardæmi; prentletur; s. fyrirmynda, tákna; vélrita
 typefounder n. letursteypari
 typewrite s. vélrita
@@ -1497,7 +1497,7 @@ tyrannize s. beita harðstjórn (við [over]), kúga (e-n [over])
 tyrannous l. harðstjórnarlegur; harðráður, grimmur
 tyranny n. harðstjórn
 tyrant n. harðstjóri
-tyre n. hjólbarði, hjólgjörð úr stáli eða járni; hjólhringur úr togleðri (um reiðhjól eða bifhjól); sjá [tire]
-tyro n. sjá [tiro]
+tyre n. hjólbarði, hjólgjörð úr stáli eða járni; hjólhringur úr togleðri (um reiðhjól eða bifhjól); sjá %[tire]%
+tyro n. sjá %[tiro]%
 Tyrolean l. týrólskur; n. Týrólarbúi
 Tyrolese l. týrólskur; [the ~] Týrólarbúar; n. Týrólarbúi

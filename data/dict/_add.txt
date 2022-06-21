@@ -288,7 +288,7 @@ sociological l. samfélagslegur, félagslegur, félagsvísindalegur
 societal l. samfélagslegur, félagslegur, þjóðfélagslegur
 sophisticated l. fágaður; háþróaður; margbrotinn
 spectacular l. stórbrotinn, tilkomumikill
-zombify s. breyta í uppvakning (sjá %[zombie])
+zombify s. breyta í uppvakning (sjá %[zombie]%)
 dyke n. varnargarður; niðrandi orð yfir lesbíu
 gaoler n. fangavörður
 haphazard n. tilviljunarkenndur, óskipulegur
@@ -821,3 +821,6 @@ haitch n. stafurinn H (h); írskt, ástralskt, skoskt afbrigði af %[aitch]%
 tipping point n. vendipunktur
 metric system n. metrakerfið
 zed n. bókstafurinn zeta (Z)
+seneschal n. ráðsmaður sem sér um eignir aðalsmanns (á miðöldum)
+awesome l. ægiþruninn, ógnarlegur; æðislegur, magnaður, undursamlegur; uh. frábært!
+consortium n. samtök, hópur (fjárfesta); auðhringur

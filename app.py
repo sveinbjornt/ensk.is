@@ -39,6 +39,7 @@
 
 from typing import List, Dict, Tuple, Any, Union
 
+import re
 import urllib
 
 from fastapi import FastAPI, Request, HTTPException
@@ -94,6 +95,10 @@ def _format_item(item: Dict[str, Any]) -> Dict[str, Any]:
     p = item["page_num"]
     # Replace ~ symbol with English word
     x = x.replace("~", w)
+    # TODO: Replace %[word]% with link to item
+    rx = re.compile("%\[(.+)\]%")
+    x = rx.sub(r"<strong><a href='/item/\1'>\1</a></strong>", x)
+    pass
     # Italicize English words
     x = x.replace("[", "<em>")
     x = x.replace("]", "</em>")

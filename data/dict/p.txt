@@ -1840,7 +1840,7 @@ premonition n. viðvörun
 premonitor n. sá sem varar við
 premonitory l. sem er til viðvörunar (e-u [of])
 prentice n. námspiltur (sjá %[apprentice]%)
-prenticeship n. námstími, námsár (sjá [apprenticeship])
+prenticeship n. námstími, námsár (sjá %[apprenticeship]%)
 preoccupy s. taka undir sig á undan öðrum
 preoccupied l. sokkinn í hugsanir
 preordain s. ákveða fyrirfram
@@ -2455,7 +2455,7 @@ pulverulent l. duftkenndur; auðmulinn
 puma n. púma (rándýr, stór köttur)
 pumice n. vikurkol; s. nudda (fága) með vikurkoli
 pumice stone n. vikurkol
-pummel n. sjá [pommel]
+pummel n. sjá %[pommel]%
 pump n. dæla, dæluvél, pumpa; vatnspóstur; dansskór; s. dæla, soga, pumpa; pósta; veiða upp úr (e-m)
 pump brake n. dælusveif
 pumping n. dæluaustur, dæling, pumpun

@@ -16,7 +16,7 @@ raceground n. skeiðvöllur
 racehorse n. kappreiðarhestur
 race meeting n. kappreiðar
 racer n. kapphlaupamaður, kappreiðarmaður; kappreiðarhestur
-rachitis n. sjá [rickets]
+rachitis n. sjá %[rickets]%
 racial l. kynflokka-, þjóðkynja- ([~ difference, ~ distinction, ~ hatred])
 raciness n. kraftur, fjör
 rack n. píslarbekkur, kvalatól, píslartól; píning, kvöl
@@ -146,7 +146,7 @@ rasp n. stórgerð þjöl; s. sverfa með stórgerðri þjöl; sarga
 raspberry n. hindber
 rat n. rotta, valska; verkfallsbrjótur; liðhlaupari; [smell a ~] fara að gruna; s. veiða rottur; gerast verkfallsbrjótur, liðhlaupari; svíkja flokk sinn
 rattrap n. rottugildra
-ratable l. sjá [rateable]
+ratable l. sjá %[rateable]%
 ratafia n. áfengur drykkur, e.k. kirsuberjabrennivín
 ratan n. indverskur reyr; reyrstafur
 rattan n. indverskur reyr; reyrstafur
@@ -641,7 +641,7 @@ rein n. taumur; [give the ~s] slaka taumhaldið; [take the ~s] taka í (stjórna
 reinless l. laumlaus
 reincarnate s. endurholdgast
 reindeer n. hreindýr
-reinforce s. sjá [re-enforce]
+reinforce s. sjá %[re-enforce]%
 reins n. ft. nýru
 reinsert s. setja inn
 reinstate s. setja aftur; (skipa) aftur í (e-ð, t.d. misst réttindi)
@@ -1192,7 +1192,7 @@ rhinoceros n. nashyrningur
 rhizome n. rótarstöngull
 rhomb n. skáhyrningur, tigull
 rhombic l. tigulmyndaður
-rhombus n. sjá [rhomb]; e.k. skarkoli
+rhombus n. sjá %[rhomb]%; e.k. skarkoli
 rhubarb n. rabarbari; rabarbarajurt
 rhumb n. kompásstrik
 rhyme n. rím, hending (í kveðskap); skáldskapur; [neither ~ nor reason] algjör vitleysa; s. gera hendingu, ríma; yrkja (með hendingum)

@@ -41,7 +41,7 @@ qualmy l. sem hefur velgju; [feel ~] finna til velgju, vera flökurt
 quandary n. vandræði, bobbi ([be in a great/sad ~])
 quantitative l. sem lýtur að magni eða stærð eða hljóðþunga ([~ accent, verse])
 quantity n. magn; mergð; gnótt; [a great (small) ~ of] mikið (lítið) af e-u; [a medicine taken in large quantities] lyf tekið í stórum skömmtum
-quantum n. skammta-; sjá [quantity]
+quantum n. skammta-; sjá %[quantity]%
 quarantine n. sóttkví, sóttvarnarhald; s. setja í sóttkví
 quarrell n. e.k. skeyti eða kólfur á lásboga
 quarrel n. þræta, deila; missætti; kæruefni, kæra; s. þræta, rífast, deila (við e-n um e-ð); vera ósáttur (við [with])
@@ -175,5 +175,5 @@ quote s. vitna í (bók); tilfæra, tilgreina; nefna verð á vörum
 quoth s. sagði, mælti ([~ he])
 quotidian l. daglegur; hversdagslegur
 quotient n. hlutatala, kvóti, deild
-quotum n. sjá [quota]
+quotum n. sjá %[quota]%
 quick-witted l. skarpskyggn

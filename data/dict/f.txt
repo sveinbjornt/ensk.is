@@ -111,12 +111,12 @@ fanfaronade n. gort, raup
 fang n. vígtönn; tannrót
 fanged l. búinn vígtönnum
 fanner n. kornhreinsunarvél, kornvinsari
-fantasm n. sjá [phantasm]
+fantasm n. sjá %[phantasm]%
 fantast n. draumóramaður
 fantastic l. ímyndunarfullur; fjarstæður; duttlungafullur; draumóralegur
 fantastical l. ímyndunarfullur; fjarstæður; duttlungafullur; draumóralegur
 fantasy n. ímyndun, hugarburður; duttlungar
-fantom n. sjá [phantom]
+fantom n. sjá %[phantom]%
 far l. fjarlægur ([in a ~ land]); ao. fjarri, langt í burt ([~ off, ~ away]); langt; miklu (með miðstigi); [~ better] miklu betri; [by ~] (með efsta stigi) lang-; [from ~] langt að; [~ and near] nær og fjær; [~ and wide] víðsvegar; [in so ~] að því leyti
 farce n. skrípaleikur; s. krydda (ræðu eða rit)
 farcical l. skrípaleikslegur ([my ~ marriage]); [~ play] skrípaleikur
@@ -132,10 +132,10 @@ farming n. jarðyrkja
 farmstead n. bóndabýli
 farrago n. samsull
 farrier n. hestajárnari; dýralæknir
-farriery n. dýralækningalist (sjá [veterinary])
+farriery n. dýralækningalist (sjá %[veterinary]%)
 farrow n. grísahópur; s. bera (um gyltur); l. kálflaus
 far-sighted l. fjarsýnn; framsýnn ([~ thinkers])
-farther l. fjarlægari; frekari, meiri (sjá [further]); ao. lengra
+farther l. fjarlægari; frekari, meiri (sjá %[further]%); ao. lengra
 farthest l. fjarlægastur; ao. lengst í burt
 farthing n. fjórðungur úr peningi
 farthingale n. pilsaglenna
@@ -187,7 +187,7 @@ faulty l. rangur, skakkur; lastaverður; gallaður
 faun n. skógarguð
 fauna n. dýraríki e-s lands
 fautor n. styrktarmaður
-favor n. sjá [favour]
+favor n. sjá %[favour]%
 favour n. hylli; góðvild; greiði; hagnaður; [to be in ~ of] vera meðmæltur e-u; [in high ~ with, high in ~ of] í miklum kærleikum við; ([we are in receipt of) your ~] yðar heiðraða bréf; [with (by) your ~] með yðar leyfi; s. vera meðmæltur, unna; gera auðveldara; styðja, efla, auka ([a water to ~ the growth of the hair]); [~ one with] veita e-m e-ð; [to be ~ed with] hafa fengið e-ð
 favourable l. vinveittur, hlynntur; hagstæður
 favourably ao. vingjarnlega
@@ -247,7 +247,7 @@ feel s. finna; finna til, kenna (e-s); þreifa á; þreifa fyrir sér; þreifa; 
 feeler n. fálmangi
 feeling l. viðkvæmur; næmur; n. tilfinning
 fee-simple n. óháð eignarjörð
-feet n. ft. fætur; sjá [foot]
+feet n. ft. fætur; sjá %[foot]%
 feetail n. takmörkuð eign í jörðu
 feign s. búa til (í huganum); gera sér upp; látast; [~ illness] látast vera sjúkur; [~ to be asleep, ~ sleep] látast sofa
 feigned l. uppgerður; [in a ~ hand] með breyttri hendi
@@ -474,7 +474,7 @@ finiteness n. endanleiki; takmörkun
 Finnic l. finnskur, frá Finnlandi
 Finnish l. finnskur, frá Finnlandi
 finny l. með uggum
-fiord n. fjörður (sjá einnig [fjord])
+fiord n. fjörður (sjá einnig %[fjord]%)
 fir n. fura ([red ~]); greni ([white ~])
 fir cone n. greniköngull
 fire n. eldur; eldsbruni, eldsvoði; bál, logi; skothríð; fjör, ákafi; [to set ~ to, set on ~] kveikja í; [to open ~] byrja að skjóta; [the curtain took ~] það kviknaði í gluggatjaldinu; s. leggja eld í, kveikja í; tendra, hleypa fjöri í; hleypa úr (byssu); skjóta; kvikna í; [~ up] rjúka upp (í reiði)
@@ -553,7 +553,7 @@ fitter n. sá sem útbýr
 fittings n. ft. útbúningur; tengihlutar pípulagna
 fit n. kast, flog ([~ of illness, laughter]); yfirlið ([fainting-~]); slag; rykkur; [by ~s (and starts)] með hríðum
 fitful l. rykkjóttur; breytilegur
-fitchew n. sjá [foumart]
+fitchew n. sjá %[foumart]%
 five l. fimm; n. fimm (í spilum)
 fives n. e.k. knattleikur
 five-fingered l. fimmfingraður
@@ -670,7 +670,7 @@ flexuous l. bugðóttur; sveigjanlegur
 flibbertigibbet n. skrafskjóða; púki
 flick n. laust högg; rykkur; smellur; kvikmynd (óforml.) s. slá laust (með keyri eða þ.k.); flögra; titra
 flicker s. baða vængjum; flögra; flökta, blakta; n. flökt, blakt
-flier n. sveifluhjól; flóttamaður (sjá [flyer])
+flier n. sveifluhjól; flóttamaður (sjá %[flyer]%)
 flight n. flótti; flug; fuglahópur (á flugi); [a ~ of stairs] stigi; [to put to ~] reka á flótta; [take a ~] fljúga upp; [to take ~] leggja á flótta
 flightiness n. hviklyndi, hringlandi
 flighty l. hviklyndur, hringlandalegur
@@ -887,7 +887,7 @@ forefeel s. finna fyrirfram
 forefend s. varna, aftra; verja
 forefinger n. vísifingur
 forefoot n. framfótur; framlöpp
-foregather s. sjá [forgather]
+foregather s. sjá %[forgather]%
 forego s. fara (ganga) á undan; sbr. [forgo]
 foregoer n. fyrirrennari
 foregoing l. undanfarandi
@@ -1071,7 +1071,7 @@ frame s. setja saman, búa til, semja; laga; hugsa upp ([~ a plot]); hugsa sér 
 framer n. upphafsmaður, höfundur
 framework n. grind; sokkavefnaður
 franc n. franki (peningamynt)
-franchise n. einkaréttur; kosningarréttur ([elective ~]); undanþága; s. sjá [enfranchise]
+franchise n. einkaréttur; kosningarréttur ([elective ~]); undanþága; s. sjá %[enfranchise]%
 Franciscan n. grámunkur
 frangible l. auðbrotinn, brjótanlegur
 frank l. hreinskilinn, einarður; falslaus; s. senda (bréf) póstgjaldslaust; flytja e-n ókeypis; n. bréf, sem eigi þarf að borga undir
@@ -1351,7 +1351,7 @@ fury n. æði, ofsi; refsinorn, kvenskass ([female ~])
 furze n. jurtarheiti
 furzy l. vaxinn furze; daufur, óskýr
 fuse s. bræða; steypa (sjóða) saman; vaxa saman; bráðna; n. tundurpípa (í sprengikúlu), sprengiþráður
-fusee n. sjá [fuse]; spinnill (í úri); kveikispýta; létt byssa ([fusil])
+fusee n. sjá %[fuse]%; spinnill (í úri); kveikispýta; létt byssa ([fusil])
 fusibility n. bræðanleiki
 fusible l. bræðanlegur
 fusil n. létt byssa

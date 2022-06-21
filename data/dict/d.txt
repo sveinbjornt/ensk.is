@@ -501,7 +501,7 @@ denominator n. nafngjafi; nefnari (í brotum)
 denotation n. táknun; merki, tákn; merking; þýðing
 denote s. tákna, merkja, þýða
 denounce s. birta hátíðlega, boða; ógna, hóta; lasta opinberlega; kæra; segja upp (samningi)
-denouncement n. formæling; sjá [denunciation]
+denouncement n. formæling; sjá %[denunciation]%
 dense l. þéttur, þykkur; skilningsdaufur ([~ head for figures])
 density n. þéttleiki, þykkleiki; [~ of population] þéttbýli
 dent n. skarð, skora; s. gera skorur í, skerða; dala, beygla
@@ -651,7 +651,7 @@ desk n. skrifborð, púlt; skólaborð
 desolate l. auður, óbyggður, eyði-; gleðisnauður, sorgfullur; s. eyða; gera (land) óbyggilegt
 desolation n. eyðing; auðn; hryggð
 despair s. örvænta; n. örvænting; [to be in ~ of] örvænta um; [his life is despaired of] hann er talinn af
-despatch n. & s. sjá [dispatch]
+despatch n. & s. sjá %[dispatch]%
 desperado n. ofurhugi (sem svífist einskis), angurgapi
 desperate l. örvæntingarfullur; vonlaus; óður; ótækur, afleitur; háskalegur
 desperately ao. ákaflega
@@ -784,7 +784,7 @@ diabetical l. sykursjúkur; sykursýkis-
 diadem n. djásn, kóróna
 diagnose s. greina eða ákveða (sjúkdóm)
 diagnosis n. sjúkdómsauðkenning, sjúkdómsgreining
-diagnostic l. sem lýtur að sjúkdómsgreiningu; sjá [diagnosis]
+diagnostic l. sem lýtur að sjúkdómsgreiningu; sjá %[diagnosis]%
 diagonal l. skáhallur; n. skálína
 diagonally ao. skáhalt
 diagram n. skýringarmynd, ritmynd
@@ -1177,7 +1177,7 @@ dispensable l. sem má án vera; ónauðsynlegur
 dispensary n. lyfjabúð (fyrir fátæklinga)
 dispensation n. útbýting, úthlutun; lausn (frá e-u); stjórn, ráðstöfun ([divine ~; by the ~ of Providence]); [the Jewish or Old Testament ~] hið forna lögmál, gyðingdómurinn; [the Christian ~] kristnin
 dispense s. útbýta, úthluta; [~ with] leysa (undan e-u); sleppa ([let us ~ with compliments]); vera án (e-s)
-dispeople s. eyða (land að íbúum); sjá [depopulate]
+dispeople s. eyða (land að íbúum); sjá %[depopulate]%
 disperse s. dreifa, tvístra; breiða út; eyða ([~ a tumor, trouble]); dreifast, tvístrast
 dispersedly ao. dreift
 dispersion n. dreifing, tvístrun
@@ -1382,7 +1382,7 @@ dizen s. hlaða skrauti utan á ([~ed with gold and jewels])
 dizziness n. svimi, sundl
 dizzy l. svimagjarn; svimandi, sundlandi; s. láta sundla; rugla
 do s. gera; framkvæma; ljúka við; starfa; hegða sér, breyta; duga, nægja; [~ him harm] gera honum mein; [it does him credit] það er honum til sóma; [~ a room] taka til í herbergi; [he did Lear] hann lék Lear; [~ a distance] fara svo eða svo langa vegalengd; [~ or die] duga eða drepast; [to have done writing] hafa lokið við að skrifa; [have done!] hættu! [thy will be done] verði þinn vilji; [~ a sum] reikna dæmi; [~ well] ganga vel, heppnast ([your affairs are ~-ing well]); [how ~ you ~]? hvernig liður yður? sælir verið þér o.s.frv.; [~ away (with)] with gera enda á e-u, útrýma; [~ (to others) as you would be done by] breyttu við aðra, eins og þú vilt að aðrir breyti við þig; [~ for] gera út af við; [~ into English] þýða á ensku; [~ to death] drepa; [~ up] gera við; búa um (böggul); gera út af við; leika á e-n; hafa af e-m; [~ with] notast við; komast af með e-ð; [~ without] komast af án e-s, geta verið án e-s
-do ao. sjá [ditto]
+do ao. sjá %[ditto]%
 do n. bragð, svik
 doable l. gjörlegur, geranlegur
 docile l. námfús; auðsveipur, viðráðanlegur, þægur
@@ -1525,7 +1525,7 @@ doveky n. teista
 dovetail s. geirnegla; n. geirnagli
 dovetailing n. geirnegling
 dowager n. ekkja (af háum stigum); [queen ~] drottning sem er ekkja
-dowdy n. subba; l. subbulegur (sjá [dowdyish])
+dowdy n. subba; l. subbulegur (sjá %[dowdyish]%)
 dowel n. blindingur, trénagli, hauslaus nagli
 dower n. heimanmundur, heimanfylgja; s. gefa heimanmund; útbúa (með e-u)
 dowerless l. heimanfylgjulaus, félaus, fátækur
@@ -1803,7 +1803,7 @@ dwelling-place n. verustaður
 dwindle s. minnka, rýrna
 dye s. lita; n. litur; litunarefni
 dyer n. litari
-dyke n. sjá [dike]
+dyke n. sjá %[dike]%
 dynamic l. afl(fræði)legur
 dynamics n. ft. aflfræði
 dynamite n. dýnamít; tundur; s. sprengja með tundri

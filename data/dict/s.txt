@@ -1273,7 +1273,7 @@ skim s. veiða (froðuna) ofan af, fleyta; liða yfir; snerta lauslega; liða á
 skimmer n. skeið til að fleyta með
 skimmed milk n. undanrenna
 skimmings n. ft. froða
-skimp l. & s. sjá [scrimp]
+skimp l. & s. sjá %[scrimp]%
 skin n. skinn, húð; hörund; hamur; hýði; skán; [colour of the ~] hörundslitur; s. flá, taka hýði af; skinnga ([a wound ~s over])
 skinflint n. svíðingur
 skinned l. fláður
@@ -1288,11 +1288,11 @@ skit n. háðrit ([a political ~]); skúr ([~ of rain]), él ([~ of snow])
 skittish l. styggur, fælinn; gáskafullur, léttúðugur, hviklyndur
 skittles n. ft. keilur, keiluleikur ([a game of ~])
 skua n. kjói (fugl)
-skulk s. sjá [sculk]
+skulk s. sjá %[sculk]%
 skull n. hauskúpa; heilakúpa
 skullcap n. kollhúfa
 skunk n. skunkur; þefdýr
-skurry s. & n. sjá [scurry]
+skurry s. & n. sjá %[scurry]%
 sky n. loft, himinn; loftslag
 sky blue l. himinblár
 skyey l. loftlegur, himinblár
@@ -1409,7 +1409,7 @@ slippery l. háll, sleipur; breytilegur, óstöðugur
 slipshod l. sem dregur skóna á eftir sér; hirðulaus
 slit s. rista (í lengjur); kljúfa; spretta upp í; rífa í sundur; n. löng rifa; skora, klauf
 sliver s. kljúfa, fletta (viði); n. lengja; sneið; grein
-slobber n. & s. sjá [slabber]
+slobber n. & s. sjá %[slabber]%
 sloe n. þyrnitegund
 slogan n. skoskt heróp
 sloop n. einmöstruð skúta
@@ -1437,7 +1437,7 @@ slowness n. seinleiki, seinlæti
 slow-witted l. skilningsdaufur, tornæmur
 slub n. togi, lopi
 sludge n. krapi, bleyta
-slue s. sjá [slew]
+slue s. sjá %[slew]%
 slug n. letingi; snigill
 sluggard n. iðjuleysingi, letingi
 sluggish l. latur, seinlátur; hægur ([~ current])
@@ -2256,7 +2256,7 @@ statutable l. lagalegur; lögákveðinn
 statute n. lög, lagaboð; samþykkt; [~ law] skrifuð lög
 statute book n. lögbók
 statutory l. lagalegur; lögákveðinn; [a ~ provision] lagaákvæði
-staunch l. sjá [stanch]
+staunch l. sjá %[stanch]%
 stave n. tunnustafur; erindi, vers; rim í stiga; s. fella í stafi; [~ off] reka burt; fresta
 stay s. bíða ([~ here until I return]); dvelja ([~ at a hotel, in town]); standa við; reiða sig (á [upon]); stöðva ([~ the progress of a disease]); halda (e-m) aftur; tefja; fresta ([~ a decision]); [~ away] koma ekki, sitja heima; [~ one's stomach] sefa hungrið; [~ dinner] bíða eftir miðdegisverði; [he is ~ing with] hann er í heimsókn hjá; n. vera, dvöl, viðstaða, bið; töf, hindrun; stoð; þol; höfuðbenda, stag (kaðall); ft. kot, lífstykki; [make a short (long) ~] standa stutt (lengi) við
 staylace n. lífstykkisreim
@@ -2527,7 +2527,7 @@ strangulation n. kyrking
 strangurious l. sem hefur þvagteppu
 strangury n. þvagteppa
 strap n. ól; slipól; s. refsa með ól; binda með ól; slípa (rakhníf)
-strata n. ft. sjá [stratum]
+strata n. ft. sjá %[stratum]%
 stratagem n. herbragð
 strategic l. herstjórnarlegur
 strategetics n. hernaðarlist, herstjórnaríþrótt
@@ -2601,7 +2601,7 @@ strongly ao. sterklega, rammlega ([~ fortified])
 strongroom n. herbergi sem er öruggt gegn innbrotsþjófum
 strop n. slípól; s. slípa (rakhníf, [~ a razor])
 strophe n. erindi, vísa
-strow s. sjá [strew]
+strow s. sjá %[strew]%
 structural l. byggingarlegur, sem lýtur að byggingarlagi
 structure n. bygging, smíði; byggingarlag
 struggle s. berjast, stríða; keppa; brjótast um; n. barátta ([the ~ for life]); stríð, strit, umbrot
@@ -2870,7 +2870,7 @@ sun n. sól; s. sóla, þurrka í sólskini; [~ oneself] baka sig í sólinni
 sunbeam n. sólargeisli
 sunburnt l. sólbrenndur
 sundial n. sólúr, sólskífa
-sundown n. sjá [sunset]
+sundown n. sjá %[sunset]%
 sun-dried l. sólþurrkaður ([~ tomatoes])
 sunless l. sólarlaus
 sunlight n. sólarljós
@@ -3145,12 +3145,12 @@ swish s. lemja með vendi, spansreyr eða tág; láta hvína, smella; n. högg, 
 Swiss l. svissneskur; n. Svisslendingur
 switch n. tág; s. slá, berja (með tág); breyta ([~ one's conduct])
 swivel n. sigurnagli; s. snúast (á ásenda)
-swob s. sjá [swab]
-swollen l. bólginn, þrútinn (sbr. [swell])
+swob s. sjá %[swab]%
+swollen l. bólginn, þrútinn (sbr. %[swell]%)
 swoon s. líða (falla) í ómegin; [she ~ed] það leið yfir hana; n. ómegin, óvit, yfirlið
 swooning n. yfirlið
 swoop s. steypa sér ofan á (um ránfugl); hremma, grípa; n. snögg árás; högg ([at a ~])
-swop s. sjá [swap]
+swop s. sjá %[swap]%
 sword n. sverð; [to put to the ~] höggva (menn) niður
 sword-cutler n. sverðasmiður
 swordfish n. sverðfiskur

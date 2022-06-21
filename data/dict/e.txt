@@ -337,7 +337,7 @@ embathe s. lauga, baða
 embattle s. fylkja (liði); víggirða; reisa vígturna á múr
 embay s. leggja (skipi) inn í fjörð; reka (skip) inn í flóa (um vind og straum); króa inni; inniloka
 embayment n. fjörður, vík
-embed s. leggja (eins og í rúm); umlykja; sjá einnig [imbed]
+embed s. leggja (eins og í rúm); umlykja; sjá %[imbed]%
 embellish s. skreyta, prýða; fegra
 embellishment n. fegrun; prýði; ýkjur
 ember n. einkum haft í ft. [~s] glóð, glæður, eimyrja
@@ -562,7 +562,7 @@ Englishwoman n. enskur kvenmaður, ensk kona
 english s. þýða á ensku; taka (orð) upp í ensku
 englut s. gleypa; seðja
 engorge s. gleypa, háma í sig; ([~d with blood]) blóðhlaupinn
-engraft s. sjá [ingraft]
+engraft s. sjá %[ingraft]%
 engrail s. setja skorður í röndina á
 engrailed l. með skorum í röndina ([an ~ coin])
 engrain s. rótfesta
@@ -572,7 +572,7 @@ engraver n. leturgrafari, myndskeri
 engraving n. leturgröftur; myndskurður; myndskurðarlist; koparstunga; mynd
 engross s. skrifa með stóru letri; rita upp; kaupa upp (í stórkaupum); svæla (leggja) undir sig; taka upp (tíma); gagntaka (hugann)
 engrossment n. stórkaup; hreinskrift; annir, starfsemi ([~ of the mind])
-engulf s. gleypa; sjá [ingulf]
+engulf s. gleypa; sjá %[ingulf]%
 enhance s. auka; hækka, setja upp (verð); ýkja
 enhancement n. aukning; verðhækkun
 enigma n. gáta, ráðgáta
@@ -601,8 +601,8 @@ enormity n. óhæfa, glæpur
 enormous l. afskaplegur, fjarskalegur
 enough l. nógur, nægur; n. nægð, nóg; ao. nógu; [good ~] nógu góður; [well ~] fullvel
 enounce s. setja fram (skoðun); birta, auglýsa, lýsa yfir
-enow l. & ao. sjá [enough]
-enquire s. spyrja; sjá [inquire]
+enow l. & ao. sjá %[enough]%
+enquire s. spyrja; sjá %[inquire]%
 enrage s. æsa (espa) upp, gera sárreiðan
 enraged l. uppvægur, hamslaus af reiði (við e-n [against])
 enrank s. skipa í röð (raðir), fylkja (hermönnum)
@@ -676,7 +676,7 @@ entrapment n. vélun, ánetjun
 entreat s. biðja (um) mikillega, grátbæna
 entreatingly ao. bænarlega ([look ~])
 entreaty n. (innileg) bæn
-entrench s. grafa síki utan um; víggirða með skotgryfjum; [~ upon] sýna yfirgang, ganga á ([~ upon the rights of the nobles]); sjá [intrench]
+entrench s. grafa síki utan um; víggirða með skotgryfjum; [~ upon] sýna yfirgang, ganga á ([~ upon the rights of the nobles]); sjá %[intrench]%
 entrenchment n. víggirðing (með varnarsíkjum)
 entrepot n. vörugeymslustaður; verslunarmiðstöð
 entrust s. trúa fyrir (e-u [with]), fela (e-m e-ð) á hendur
@@ -890,12 +890,12 @@ estimable l. virðingarverður
 estimate n. mat, áætlun; ft. fjárhagsáætlun, fjárlagafrumvarp; dómur (um e-ð [of]); álit ([to sink in the ~ of]); s. meta, virða; verðleggja; gera áætlun (um); dæma um; [~ at nothing] meta einskis
 estimation n. virðing; áætlun; [to hold/have in high ~] hafa í miklum metum; [in my ~] að mínu áliti
 estimator n. matsmaður
-estival l. sjá [aestival]
-estivate s. sjá [aestivate]
+estival l. sjá %[aestival]%
+estivate s. sjá %[aestivate]%
 estrade n. lágur pallur
 estrange s. fjarlægja; gera fráhverfan (e-m [from])
 estrangement n. fjarlæging; fráhvarf (hugarins); fáleikar, fáþykkja
-estray n. óskiladýr; s. reika, ráfa (sjá [stray])
+estray n. óskiladýr; s. reika, ráfa (sjá %[stray]%)
 estuary n. árós, ármynni
 esurience n. hungur, sultur
 esurient l. hungraður

@@ -15,7 +15,7 @@ ulceration n. gröftur, ígerð
 ulcerous l. sem grefur í
 ullage n. borð á íláti
 ulster n. síður og víður yfirfrakki
-ullaged l. klæddur í síðan og víðan yfirfrakka (sjá [ulster])
+ullaged l. klæddur í síðan og víðan yfirfrakka (sjá %[ulster]%)
 ulterior l. sem er hinu megin; frekari, meiri
 ultimate l. ystur; síðastur
 ultimately ao. að lokum, um síðir
@@ -35,7 +35,7 @@ umbo n. skjaldbunga
 umbonal l. bungumyndaður
 umbrage n. skuggi; öfundsýki; þykkja; [take ~ at] taka e-u illa
 umbrageous l. skuggasæll
-umbrella n. regnhlíf; sólhlíf (sjá [sunshade], [parasol])
+umbrella n. regnhlíf; sólhlíf (sjá %[sunshade]%, [parasol])
 umlaut n. hljóðvarp
 umpirage n. gerðarmannsstaða
 umpire n. gerðarmaður; oddamaður; verðlaunadómari
@@ -93,7 +93,7 @@ unbooted l. stígvélalaus
 unborn l. óborinn
 unbosom s. segja (e-ð í trúnaði); [~ oneself] segja allan hug sinn
 unbounded l. takmarkalaus; gegndarlaus
-unbowel s. taka innyflin út úr (sjá [disembowel])
+unbowel s. taka innyflin út úr (sjá %[disembowel]%)
 unbrace s. losa, slaka á
 unbred l. ómenntaður; ókurteis
 unbridle s. taka beislið af
@@ -404,7 +404,7 @@ unmannerly l. ósiðlátur; klúr ([an ~ joke])
 unmarketable l. óútgengilegur
 unmarried l. ókvæntur, ógiftur
 unmask s. taka grímuna af (sér); fletta ofan af ([~ a villain])
-unmatched l. óviðjafnanlegur (sjá [matchless])
+unmatched l. óviðjafnanlegur (sjá %[matchless]%)
 unmast s. taka möstrin úr
 unmeaning l. meiningarlaus; [an ~ face] sviplaust andlit
 unmeasurable l. ómælanlegur

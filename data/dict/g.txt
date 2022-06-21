@@ -87,7 +87,7 @@ gamester n. spilamaður (sem spilar um peninga)
 gaming-house n. spilahús
 gaming table n. spilaborð
 gammer n. kerlingartetur (sbr. [gaffer])
-gammon n. reykt svínslæri; e.k. tafl; gabb; svik; s. salta og reykja; gabba, svíkja; vinna í tafli (kotru, sjá [backgammon])
+gammon n. reykt svínslæri; e.k. tafl; gabb; svik; s. salta og reykja; gabba, svíkja; vinna í tafli (kotru, sjá %[backgammon]%)
 gamut n. tónstigi
 gamy l. sem veiðidýrabragð er af; veiðisæll ([a ~ district]); veiði-; hugaður, áræðinn
 gander n. gæsarsteggur
@@ -100,7 +100,7 @@ gangrene n. rotnun, drep (í holdi); s. hleypa drepi (í hold)
 gangrenous l. sem drep er í
 gannet n. hafsúla
 gantlope n. liðsmannarefsing; [to run the ~] ganga (hlaupa) fram og aftur milli tveggja raða af hermönnum og vera barinn af þeim
-gaol n. fangelsi (sjá [jail])
+gaol n. fangelsi (sjá %[jail]%)
 gap n. op, gat, sprunga, skarð; eyða ([~ in our knowledge])
 gape s. gapa, gína; geispa; glápa, góna (á e-ð [at, on, upon]); sækjast eftir ([after, for]); n. op, gin ([he opens his ~]); geisp; gláp, gón
 gap-toothed l. gistenntur
@@ -231,7 +231,7 @@ gentlefolk n. ft. heldri menn
 gentleman n. herramaður; tiginn maður, göfugmenni; heldri maður, fyrirmaður; heiðursmaður
 gentlemanlike l. herramannslegur; fyrirmannlegur, heldri manni samboðinn
 gentlemanly l. herramannslegur; fyrirmannlegur, heldri manni samboðinn
-gentleness n. blíða, hógværð (sjá [gentle])
+gentleness n. blíða, hógværð (sjá %[gentle]%)
 gentlewoman n. fyrirkona; þjónustumey (heldri konu)
 gently ao. blíðlega, vingjarnlega; hægt
 gentry n. fyrirmenn, heldra fólk, hinn lægri aðall
@@ -531,7 +531,7 @@ gorget n. hálsbjörg; hálsband, hálsmen
 gorgon n. kvennvera í grískri goðafræði
 gorgonian l. gorgónskur
 gorgonize s. gera að steini, gera agndofa
-gormand n. sjá [gourmand]
+gormand n. sjá %[gourmand]%
 gormandize s. éta græðgislega (óhóflega), háma í sig
 gormandizer n. mathákur
 gory l. blóðugur, blóðstorkinn
@@ -669,7 +669,7 @@ gratulant l. fagnandi
 gratulate s. fagna e-u; samfagna e-m
 gratulatory l. (sam)fagnaðar-
 gravamen n. angursefni; [the ~ of the charge] þyngsta kæruefnið
-grave s. grafa, skera (myndir eða letur); sjá [engrave]; n. gröf, leiði ([to make hay among the ~s])
+grave s. grafa, skera (myndir eða letur); sjá %[engrave]%; n. gröf, leiði ([to make hay among the ~s])
 graven image n. líkneski, skurðgoð
 graveclothes n. ft. líkklæði
 gravedigger n. grafari
@@ -691,7 +691,7 @@ gravitation n. þyngdarafl; þyngd; [law (principle) of ~] þyngdarlögmál
 gravitational l. þyngdar- ([~ power])
 gravity n. alvörugefni, alvörusvipur; hátíðleiki; mikilvægi, þýðing; þyngd; aðdráttarafl; þyngdarafl; dimmleiki hljóðsins; [specific ~] eðlisþyngd
 gravy n. flot (úr steiktu eða soðnu kjöti); ídýfa
-gray l. grár; sjá grey
+gray l. grár; sjá %[grey]%
 graze s. halda á beit; sitja yfir, gæta (fjár, sem er á beit); vera á beit; strjúkast við; [to drive cattle to ~] reka naut á haga; n. skot, sem strýkst við e-n; grunnt sár, skeina
 grazer n. skepna, sem er á beit
 grazier n. fjárræktari; fjársali
