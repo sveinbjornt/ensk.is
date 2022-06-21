@@ -40,7 +40,6 @@
 
 
 from db import EnskDatabase
-from pprint import pprint
 from util import read_wordlist
 
 # Initialize database singleton

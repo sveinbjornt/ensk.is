@@ -47,7 +47,6 @@ basepath, _ = os.path.split(os.path.realpath(__file__))
 src_path = os.path.join(basepath, "..")
 sys.path.append(src_path)
 
-from util import read_all_words
 from app import app
 
 

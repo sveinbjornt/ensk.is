@@ -37,7 +37,7 @@
 
 """
 
-from typing import Optional
+from typing import Optional, List
 
 import os
 import subprocess
@@ -92,19 +92,23 @@ def aiff2mp3(infile_path: str) -> None:
 _OUT_FOLDER = "static/audio/dict/"
 
 
-def synthesize_all() -> None:
+def synthesize_all() -> List[str]:
     """Read all dictionary words, speech-synthesize each word to
     AIFF using the macOS speech synthesizer, and then convert to MP3."""
     words = read_all_words()
+    mp3_paths = list()
     for w in words:
         aiff_path = synthesize_word(w, dest_folder=_OUT_FOLDER)
         if aiff_path:
             mp3_path = aiff2mp3(aiff_path)
             os.remove(aiff_path)
+            mp3_paths.append(mp3_path)
         aiff_path = synthesize_word(w, dest_folder=_OUT_FOLDER, voice="Alex")
         if aiff_path:
             mp3_path = aiff2mp3(aiff_path)
             os.remove(aiff_path)
+            mp3_paths.append(mp3_path)
+    return mp3_paths
 
 
 if __name__ == "__main__":

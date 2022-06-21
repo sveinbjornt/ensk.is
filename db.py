@@ -95,7 +95,7 @@ class EnskDatabase(object):
                 db_uri += "?mode=ro"
             logging.info(f"Opening database connection at {db_uri}")
             self.db_conn = sqlite3.connect(
-                db_uri, uri=True, check_same_thread=(read_only == False)
+                db_uri, uri=True, check_same_thread=(read_only is False)
             )
 
             # Return rows as key-value dicts

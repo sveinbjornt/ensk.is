@@ -38,7 +38,7 @@
 """
 
 
-from typing import DefaultDict, List, Tuple, Optional, Dict, List
+from typing import DefaultDict, List, Tuple, Optional, Dict
 
 import os
 import json
@@ -96,9 +96,9 @@ def read_pages(fn: Optional[str] = None) -> List[str]:
         if fn and file != fn:
             continue
         fp = os.path.join(base_path, file)
-        if os.path.isfile(fp) == False:
+        if os.path.isfile(fp) is False:
             continue
-        if file.endswith(".txt") == False:
+        if file.endswith(".txt") is False:
             continue
 
         with open(fp, "r") as file:

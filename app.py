@@ -88,7 +88,7 @@ def _format_item(item: Dict[str, Any]) -> Dict[str, Any]:
     # Replace ~ symbol with English word
     x = x.replace("~", w)
     # TODO: Replace %[word]% with link to item
-    rx = re.compile("%\[(.+)\]%")
+    rx = re.compile(r"%\[(.+)\]%")
     x = rx.sub(r"<strong><a href='/item/\1'>\1</a></strong>", x)
     pass
     # Italicize English words
