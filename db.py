@@ -62,10 +62,10 @@ class EnskDatabase(object):
             cls._instance = super(EnskDatabase, cls).__new__(cls)
             # Create database file and schema if no DB file exists
             if not Path(cls._dbname).is_file():
-                cls._instance.create()
+                cls._instance._create()
         return cls._instance
 
-    def create(self) -> None:
+    def _create(self) -> None:
         """Create database file and generate database schema."""
         logging.info(f"Creating database {self._dbname}")
 

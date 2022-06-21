@@ -197,7 +197,7 @@ def generate_pdf(entries: EntryList) -> str:
     raise NotImplementedError
 
 
-def main() -> None:
+def gen() -> None:
     print("Reading entries...")
     entries = read_all_entries()
     print(f"{len(entries)} entries read")
@@ -218,4 +218,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     """Command line invocation."""
-    main()
+    gen()

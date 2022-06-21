@@ -197,7 +197,7 @@ def zip_file(inpath: str, outpath: str) -> None:
 
 
 def read_ipa(inpath: str) -> Dict[str, str]:
-    """Read file mapping English words to
-    their International Phonetic Alphabet equivalent."""
+    """Read file mapping English words to their
+    International Phonetic Alphabet equivalent."""
     with open(inpath, "r") as f:
         return json.load(f)

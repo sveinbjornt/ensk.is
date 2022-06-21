@@ -247,7 +247,7 @@ def check_icelandic_words(line: str, pn, ln: int):
                 warn(f"Icelandic Word not found in BÍN: '{txt}' ", pn, ln)
 
 
-def main():
+def verify():
     r = read_raw_pages()
 
     for letter, lines in r.items():
@@ -265,4 +265,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    verify()

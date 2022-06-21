@@ -12,6 +12,9 @@ on:
 permissions:
   contents: read
 
+env:
+  IN_CI_ENVIRONMENT: 1
+
 jobs:
   build:
 

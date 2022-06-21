@@ -40,21 +40,13 @@
 from typing import List, Dict, Tuple, Any, Union
 
 import re
-import urllib
 
 from fastapi import FastAPI, Request, HTTPException
 from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import Response, JSONResponse
-from markupsafe import Markup
-
-from pymemcache.client.base import Client
-from fastapi_cache import FastAPICache
-from fastapi_cache.backends.memcached import MemcachedBackend
-from fastapi_cache.decorator import cache
 
 from db import EnskDatabase
-from util import read_pages
 from cache import cache_response
 
 
