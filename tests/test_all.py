@@ -152,25 +152,25 @@ def test_db() -> None:
     if not in_ci_env():
         return
 
-    # Delete any pre-existing database file
-    delete_db()
+    # # Delete any pre-existing database file
+    # delete_db()
 
-    # Instantiate DB wrapper
-    e = EnskDatabase()
+    # # Reinstantiate DB wrapper
+    # e = EnskDatabase().reinstantiate()
 
-    # The database is initially empty, so we should get no results
-    entries = e.read_all_entries()
-    assert len(entries) == 0
-    entries = e.read_all_additions()
-    assert len(entries) == 0
-    # entries = e.read_all_duplicates()
+    # # The database is initially empty, so we should get no results
+    # entries = e.read_all_entries()
     # assert len(entries) == 0
+    # entries = e.read_all_additions()
+    # assert len(entries) == 0
+    # # entries = e.read_all_duplicates()
+    # # assert len(entries) == 0
 
-    # Add an entry
-    e.add_entry("cat", "n. köttur", "", "", 0)
+    # # Add an entry
+    # e.add_entry("cat", "n. köttur", "", "", 0)
 
-    # Make sure there's only a single entry now
-    entries = e.read_all_entries()
-    assert len(entries) == 1
-    entries = e.read_all_additions()
-    assert len(entries) == 1
+    # # Make sure there's only a single entry now
+    # entries = e.read_all_entries()
+    # assert len(entries) == 1
+    # entries = e.read_all_additions()
+    # assert len(entries) == 1

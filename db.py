@@ -40,6 +40,7 @@
 
 from typing import List, Dict
 
+import os
 import logging
 import sqlite3
 from pathlib import Path
@@ -50,7 +51,6 @@ DB_FILENAME = "dict.db"
 
 class EnskDatabase(object):
     _instance = None
-    _dbname = DB_FILENAME
 
     def __init__(self):
         self.db_conn = None
@@ -60,17 +60,20 @@ class EnskDatabase(object):
         if cls._instance is None:
             logging.info("Instantiating database")
             cls._instance = super(EnskDatabase, cls).__new__(cls)
+
+            basepath, _ = os.path.split(os.path.realpath(__file__))
+            cls._dbpath = os.path.join(basepath, DB_FILENAME)
             # Create database file and schema if no DB file exists
-            if not Path(cls._dbname).is_file():
+            if not Path(cls._dbpath).is_file():
                 cls._instance._create()
         return cls._instance
 
     def _create(self) -> None:
         """Create database file and generate database schema."""
-        logging.info(f"Creating database {self._dbname}")
+        logging.info(f"Creating database {self._dbpath}")
 
         # Create database file
-        conn = sqlite3.connect(self._dbname)
+        conn = sqlite3.connect(self._dbpath)
 
         # Create table
         create_table_sql = """
@@ -86,11 +89,16 @@ class EnskDatabase(object):
 
         conn.cursor().execute(create_table_sql)
 
+    def reinstantiate(self) -> "EnskDatabase":
+        """Reinstantiate database."""
+        EnskDatabase._instance = None
+        return EnskDatabase.__new__(EnskDatabase)
+
     def conn(self, read_only: bool = False) -> sqlite3.Connection:
         """Open database connection lazily."""
         if not self.db_conn:
             # Open database file via URI
-            db_uri = f"file:{self._dbname}"
+            db_uri = f"file:{self._dbpath}"
             if read_only:
                 db_uri += "?mode=ro"
             logging.info(f"Opening database connection at {db_uri}")
