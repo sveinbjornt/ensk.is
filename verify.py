@@ -201,9 +201,11 @@ def check_enword_def(line: str, pn, ln: int):
 
 
 def check_icelandic_words(line: str, pn, ln: int):
+    """Inspect all Icelandic words in definition, make sure that they
+    are present in modern Icelandic vocabulary (BÍN)."""
     comp = line.split()
     if len(comp) < 3:
-        warn("mangled formatting", pn, ln)
+        warn("Mangled formatting", pn, ln)
         return
 
     splidx = None
@@ -215,12 +217,13 @@ def check_icelandic_words(line: str, pn, ln: int):
         elif comp[3] in CATEGORIES:
             splidx = 3
         else:
-            warn("no category set", pn, ln)
+            warn("No category set", pn, ln)
             return
     except Exception as e:
-        warn(f"error parsing category etc.: {e}", pn, ln)
+        warn(f"Error parsing category etc.: {e}", pn, ln)
         return
 
+    # Strip all English words included in definition
     defcomp = comp[splidx + 1 :]
     defstr = strip_words_in_square_brackets(" ".join(defcomp))
 
@@ -244,7 +247,7 @@ def check_icelandic_words(line: str, pn, ln: int):
             txt = txt.strip("-").strip("-")
             res = bin.lookup(txt)
             if not res[1]:
-                warn(f"Icelandic Word not found in BÍN: '{txt}' ", pn, ln)
+                warn(f"Icelandic word not found in BÍN: '{txt}' ", pn, ln)
 
 
 def verify():

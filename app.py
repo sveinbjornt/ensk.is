@@ -87,20 +87,19 @@ def _format_item(item: Dict[str, Any]) -> Dict[str, Any]:
     p = item["page_num"]
     # Replace ~ symbol with English word
     x = x.replace("~", w)
-    # TODO: Replace %[word]% with link to item
+    # Replace %[word]% with link to intra-dictionary entry
     rx = re.compile(r"%\[(.+)\]%")
     x = rx.sub(r"<strong><a href='/item/\1'>\1</a></strong>", x)
-    pass
     # Italicize English words
     x = x.replace("[", "<em>")
     x = x.replace("]", "</em>")
     # Fix filename f. audio file
-    wfnfixed = w.replace(" ", "_")
-    audio_url_uk = f"/static/audio/dict/uk/{wfnfixed}.mp3"
-    audio_url_us = f"/static/audio/dict/us/{wfnfixed}.mp3"
+    audiofn = w.replace(" ", "_")
+    audio_url_uk = f"/static/audio/dict/uk/{audiofn}.mp3"
+    audio_url_us = f"/static/audio/dict/us/{audiofn}.mp3"
     # Phonetic spelling
-    ipa_uk = item.get("ipa_uk") or ""
-    ipa_us = item.get("ipa_us") or ""
+    ipa_uk = item.get("ipa_uk", "")
+    ipa_us = item.get("ipa_us", "")
     # Create item dict
     item = {
         "w": w,
