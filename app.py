@@ -153,6 +153,7 @@ def _results(q: str, exact_match: bool = False) -> Tuple[List, bool]:
 
 
 @app.get("/")
+@app.head("/")
 @cache_response
 async def index(request: Request):
     """/ main page"""
