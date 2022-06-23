@@ -19,7 +19,7 @@ naked l. nakinn; klæðlaus; ber ([with the ~ eye]); skjóllaus, varnarlaus; hú
 nakedly ao. berlega, bert
 nakedness n. nekt, berleiki
 namby-pamby l. tilgerðarlegur, teprulegur; n. tepruskapur (í ræðu eða riti)
-name n. nafn, heiti; orðrómur; orðstír; [to call ~-s] uppnefna; skamma; [of great (high) ~] frægur; [one's (good) ~] góða mannorð; [by ~] að nafni ([know by ~]); [in the ~ of] í nafni e-s; [what's his ~] hvað heitir hann; s. kalla, nefna; gefa nafn; [he is ~d after his grandfather] heitir eftir (eða í höfuðið á) afa sinum
+name n. nafn, heiti; orðrómur; orðstír; [to call ~s] uppnefna; skamma; [of great (high) ~] frægur; [one's (good) ~] góða mannorð; [by ~] að nafni ([know by ~]); [in the ~ of] í nafni e-s; [what's his ~] hvað heitir hann; s. kalla, nefna; gefa nafn; [he is ~d after his grandfather] heitir eftir (eða í höfuðið á) afa sinum
 nameless l. nafnlaus; óþekktur
 namely ao. sem sé, nefnilega
 nameplate n. nafnspjald
@@ -27,7 +27,7 @@ namesake n. nafni; nafna
 nandu n. amerískur strútur
 nankeen n. nankin (vefnaður)
 nankeens n. ft. nankinsbuxur
-nap n. dúr, blundur ([to take a ~]); s. blunda; [catch/take one ~-ping] koma að e-m óvörum
+nap n. dúr, blundur ([to take a ~]); s. blunda; [catch/take one ~ping] koma að e-m óvörum
 nap n. ló, hnoðri (á klæði), loðna, dúnn (á plöntum); [to raise the ~] ýfa upp lóna
 napless l. aflóa, snjáður
 nappy l. loðinn; áfengur
@@ -63,7 +63,7 @@ natant l. fljótandi
 natation n. sund
 natatorial l. [~ birds] sundfuglar
 natatory l. sund- ([~ leg, membrane, skill])
-nation n. þjóð, þjóðflokkur; [law of ~-s] alþjóðalög; [most favored ~] sem nýtur bestu tollkjara
+nation n. þjóð, þjóðflokkur; [law of ~s] alþjóðalög; [most favored ~] þjóð sem nýtur bestu tollkjara
 national l. þjóðlegur; þjóðrækinn; þjóðernislegur; ríkis-, lands-; [~ church] ríkiskirkja; [~ debt] ríkisskuldir; [~ anthem] þjóðsöngur
 nationality n. þjóðerni; [what is his ~?] hverrar þjóðar er hann?
 nationalization n. þjóðnýting
@@ -103,7 +103,7 @@ navy n. floti, herskipastóll; [~ bill] flotavíxill; [~ court] sjóréttur
 nay ao. nei (nú vanalega [no]); n. nei, neikvæði ([my ~ is just as good as your aye]); (oft haft til áherslu) já, jafnvel, meira að segja: [I think, ~ I am sure]
 neap l. smár; n. smár straumur, smástreymi ([~ tide])
 neaped l. fjaraður uppi (um skip)
-near l. nálægur; nákominn; náinn, ná-; vinstri (um hesta, [the ~ fore leg]); spar, sparsamur, nískur; [~ escape] rétt slapp; [the ~-est way] beinasta leiðin; [~ is my coat, but ~-er is my skin] nær er skinnið en skyrtan; ao. nálægt, nærri, nær; nálega; s. nálgast, koma nær; [~ related] náskyldur
+near l. nálægur; nákominn; náinn, ná-; vinstri (um hesta, [the ~ fore leg]); spar, sparsamur, nískur; [~ escape] rétt slapp; [the ~est way] beinasta leiðin; [~ is my coat, but ~er is my skin] nær er skinnið en skyrtan; ao. nálægt, nærri, nær; nálega; s. nálgast, koma nær; [~ related] náskyldur
 nearly fs. við, hjá, nálægt; ao. næstum, nærri því, nálega; vandlega ([examine ~]); nánasarlega
 nearness n. nánd, nágrenni; nálægð; náið samband; náskyldleiki; níska
 near-sighted l. nærsýnn
@@ -139,7 +139,7 @@ neediness n. þröng, þörf; fátækt
 needless l. ónauðsynlegur, óþarfur
 needy l. þurfandi, nauðstaddur, fátækur
 needs ao. nauðsynlega; [I must ~ do it] ég kemst ekki hjá að gera það
-needle n. nál, saumnál; segulnál; [I have pins and ~-s in my feet] það er náladofi í fótunum á mér; s. sauma saman ([~ up]); smeygja (e-u) í gegn; [~ one's way] þræða sig áfram
+needle n. nál, saumnál; segulnál; [I have pins and ~s in my feet] það er náladofi í fótunum á mér; s. sauma saman ([~ up]); smeygja (e-u) í gegn; [~ one's way] þræða sig áfram
 needlecase n. nálhús
 needleful n. nálþráður
 needler n. nálasmiður
@@ -414,7 +414,7 @@ notably ao. eftirtakanlega, greinilega; einkum
 notarial l. sem er gerður af nótaríus, lögbókara ([~ certificate])
 notary n. nótaríus, þ.e. embættismaður, sem ritar nafn sitt undir skjöl til staðfestingar ([~ public]), lögbókari
 notch n. skora; skarð; s. gera skorur í, marka með skorum
-note n. tákn, merki; athugasemd; eftirtekt, athygli; seðill, miði; ávísun; bankaseðill (bank); mikilvægi, þýðing; nóta; sönghljóð; [take ~ of] setja á sig, gefa (e-u) gaum; [take ~-s] skrifa upp hjá sér; [preach from ~-s] predika upp af blöðum; [of great ~] mikils verður, þýðingarmikill; s. gefa gaum, taka eftir, verða var við; gera athugasemdir (skýringar) við; skrifa upp hjá sér; taka fram ([I shall only ~ this]); benda á, sýna ([black ashes ~ where the city stood])
+note n. tákn, merki; athugasemd; eftirtekt, athygli; seðill, miði; ávísun; bankaseðill (bank); mikilvægi, þýðing; nóta; sönghljóð; [take ~ of] setja á sig, gefa (e-u) gaum; [take ~s] skrifa upp hjá sér; [preach from ~s] predika upp af blöðum; [of great ~] mikils verður, þýðingarmikill; s. gefa gaum, taka eftir, verða var við; gera athugasemdir (skýringar) við; skrifa upp hjá sér; taka fram ([I shall only ~ this]); benda á, sýna ([black ashes ~ where the city stood])
 notebook n. minnisbók; vasabók
 noted l. nafnkunnur
 notepaper n. bréfapappír (í litlum örkum)
@@ -426,7 +426,7 @@ noticeable l. eftirtektarverður
 noticeboard n. auglýsingatafla
 notification n. tilkynning; auglýsing
 notify s. auglýsa; tilkynna, birta
-notion n. hugmynd; hugsun; tilhneiging, löngun ([have a ~ for something, to do something]); ft. smávarningur; [airy ~-s] hugarburður, loftkastali
+notion n. hugmynd; hugsun; tilhneiging, löngun ([have a ~ for something, to do something]); ft. smávarningur; [airy ~s] hugarburður, loftkastali
 notional l. hugmyndarlegur, ímyndaður
 notoriety n. alkunnugleiki; [a matter of ~] alkunnur hlutur
 notorious l. alræmdur; alkunnur, vitanlegur
@@ -471,7 +471,7 @@ nullify s. ónýta, ógilda, nema úr gildi
 nullity n. ónýting; markleysa ([a mere ~])
 numb l. dofinn, loppinn, stirður af kulda; s. gera dofinn eða stirðan
 numbness n. doði, dofi
-number n. tala; fjöldi; númer; tölublað; hefti (af bók, [a story issued in ~-s]); ft. hljóðfall; ljóð; s. telja; setja tölur á, tölusetja; vera að tölu; [his days are ~ed] dagar hans eru taldir
+number n. tala; fjöldi; númer; tölublað; hefti (af bók, [a story issued in ~s]); ft. hljóðfall; ljóð; s. telja; setja tölur á, tölusetja; vera að tölu; [his days are ~ed] dagar hans eru taldir
 numberless l. óteljandi
 numerable l. sem tölu verður á komið, teljandi
 numeral l. sem lýtur að tölum; tölulegur; n. tala; tölustafur; töluorð; [Roman numerals] rómverskir tölustafir

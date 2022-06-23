@@ -95,7 +95,7 @@ obstruct s. hlaða (eða girða) fyrir, þvergirða; teppa; hindra, stöðva
 obstruction n. þvergirðing, tepping; hindrun, stöðvun; máltöf (á þingi)
 obstructionist n. sá sem hindrar, að mál fái framgang á þingi
 obstructive l. hindrandi, teppandi ([of, to])
-obtain s. fá ([~ a livelihood]); vinna ([~ the victory]); haldast ([the custom still ~-s])
+obtain s. fá ([~ a livelihood]); vinna ([~ the victory]); haldast ([the custom still ~s])
 obtainable l. fáanlegur
 obtainer n. sá sem fær e-ð
 obtest s. grátbæna
@@ -130,7 +130,7 @@ occupant n. eignarnemi; eigandi; íbúandi ([~ of a house]); ábúandi
 occupation n. starf; iðn; eignarnám; eignarhald
 occupier n. eignarnemi; eignarráðandi
 occupy s. taka undir sig; setjast í e-n stað; byggja (e-n stað); hafa á valdi sínu; hafa á hendi (embætti); hafa eignarráð yfir; skipa eða fylla (autt rúm); starfsetja; [to ~ oneself with] fást við
-occur s. koma fyrir, finnast; bera við; detta (e-ð) í hug ([an idea just ~-red to me])
+occur s. koma fyrir, finnast; bera við; detta (e-ð) í hug ([an idea just ~red to me])
 occurrence n. atvik, tilviljun, viðburður; [of frequent ~] sem oft ber við
 ocean n. úthaf, haf
 oceanic l. útsævar-; úthafs
@@ -250,7 +250,7 @@ omniscient l. alvitur
 omnibus n. almenningsvagn, strætisbifreið
 on fs. á; um; við, hjá; eftir; [a treatise on] ritgerð um; [~ his return] við heimkomu hans; [~ foot] fótgangandi; [~ horseback] á hestbaki; [~ the wing] fljúgandi; [on pain of death] að viðlagðri dauðarefsingu; [be ~ a committee] vera í nefnd; [~ purpose] af ásettu ráði; ao. áfram; [and so ~] og svo framvegis; [~ a sudden] allt í einu; [read ~] halda áfram að lesa; [have ~] vera í (fötum)
 once ao. einu sinni; [~ upon a time] einhverju sinni; [(all) at ~] allt í einu, undir eins; [~ and again] hvað eftir annað; [~ more] einu sinni enn; [for ~] í eitt skipti (en ekki oftar), móti venju; [this ~] í þetta (eina) sinn
-one l. einn; nokkur, einhver; n. maður, menn (óákvarðað); [the little ~-s] börnin; [~ another] hver annan
+one l. einn; nokkur, einhver; n. maður, menn (óákvarðað); [the little ~s] börnin; [~ another] hver annan
 one-eyed l. eineygður
 one-handed l. einhendur
 one-horse l. dreginn af einum hesti, eineykis-
@@ -365,7 +365,7 @@ orchestra n. hljóðfærasvið í leikhúsi milli leiksviðs og áhorfenda; hlj�
 ordain s. setja (lög); ákvarða, ákveða, fyrirskipa; vígja (prest)
 ordainment n. fyrirskipun; guðdómleg ákvörðun ([divine ordainment])
 ordeal n. guðsdómur; skírsla; hörð raun; [~ by fire] járnburður
-order n. fyrirskipun, boð ([give ~-s that]); fyrirkomulag; röð ([in alphabetical ~]); regla ([love of ~, in good ~, ~ of things]); ákvörðun; vörupöntun; peningaávísun ([money ~, postal ~]); stétt (í samfélagi); orða ([Order of the Garter]); tegund ([talents of a high ~]); [~ of battle] fylking; [~ of the day] dagskrá; [~ of nature] náttúrulögmál; [moral ~] siðalögmál; [made to ~] gerður eftir pöntun; [is on ~] er í pöntun; [~ of monks/friars] munkaregla; [take (holy) ~-s] verða prestvígður; [be in ~-s] vera prestvígður; [in (full) ~-s] prestvígður; [in ~ to, in ~ that] til þess að; [out of ~] í ólagi; s. raða niður; ákveða; ráðleggja; skipa, bjóða; panta, biðja um
+order n. fyrirskipun, boð ([give ~s that]); fyrirkomulag; röð ([in alphabetical ~]); regla ([love of ~, in good ~, ~ of things]); ákvörðun; vörupöntun; peningaávísun ([money ~, postal ~]); stétt (í samfélagi); orða ([Order of the Garter]); tegund ([talents of a high ~]); [~ of battle] fylking; [~ of the day] dagskrá; [~ of nature] náttúrulögmál; [moral ~] siðalögmál; [made to ~] gerður eftir pöntun; [is on ~] er í pöntun; [~ of monks/friars] munkaregla; [take (holy) ~s] verða prestvígður; [be in ~s] vera prestvígður; [in (full) ~s] prestvígður; [in ~ to, in ~ that] til þess að; [out of ~] í ólagi; s. raða niður; ákveða; ráðleggja; skipa, bjóða; panta, biðja um
 order book n. pöntunarbók
 order form n. eyðublað undir pöntun
 ordering n. fyrirkomulag, regla

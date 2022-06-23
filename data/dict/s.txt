@@ -730,7 +730,7 @@ serum n. hið vatnskynjaða efni blóðsins, blóðvökvi; [~ of milk] mysa
 servant n. þjónn, vinnumaður ([man~]); þjónustustúlka, vinnukona ([maid~])
 serve s. þjóna, gegna embætti; vera í vist (hjá); bera (mat) á borð fyrir (e-n); vera hæfur (notaður) til; stoða, koma að haldi; vera í staðinn fyrir ([a sofa ~d him for a bed]); vera í herþjónustu; [~ one a trick] gera e-m óleik; [~ as a warning] vera til viðvörunar; [that ~s him right, he is rightly ~d] hann á það skilið; [~ the purpose of an altar] vera í altaris stað; [~ one with a writ, ~ a writ on one] stefna e-m; [~ summons on a person] birta e-m stefnu; [~ out] skammta; hefna sin á; [~ up dinner] bera miðdegismatinn á borð
 server n. þjónn, þjónustusveinn; bakki
-service n. þjónusta; herþjónusta; guðsþjónusta, messa ([divine ~]); gagn; greiði ([will you do me a ~?]); borðbúnaður ([dinner ~, tea ~]); [to do (render) ~] vinna e-m gagn, gera greiða; [his ~-s to literature] gagn það, er hann hefur unnið bókmenntunum; [to be of ~] vera til gagns; [to go (out) to ~] fara í vist; [be in ~] vera í vist
+service n. þjónusta; herþjónusta; guðsþjónusta, messa ([divine ~]); gagn; greiði ([will you do me a ~?]); borðbúnaður ([dinner ~, tea ~]); [to do (render) ~] vinna e-m gagn, gera greiða; [his ~s to literature] gagn það, er hann hefur unnið bókmenntunum; [to be of ~] vera til gagns; [to go (out) to ~] fara í vist; [be in ~] vera í vist
 serviceable l. hentugur; nýtur, gagnlegur; hjálpsamur; greiðvikinn
 service tree n. reyniviður
 servile l. þrælslegur; þrællundaður; auðvirðilegur; [~ war] þrælastríð; [~ spirit] þrællyndi, þýlyndi; [~ fear] þrælsótti
@@ -2315,7 +2315,7 @@ stenographical l. hraðritunar-; hraðritaður
 stenographist n. hraðritari
 stenography n. hraðritun
 stentorian l. heljarmikill ([~ voice, lungs])
-step s. ganga, stíga; [~ out] ganga út; stika stórum; [~ short] vera stuttstígur; [~ in, if you please] gerið svo vel að ganga inn; [~ in the boat] stíga út í bátinn; n. stig, skref; fet; fótspor; stigarim; stigahaft; siglustallur; [portable ~s, a set of ~s] laus trappa, lausastigi; [~ by ~, by ~-s] fet fyrir fet, smátt og smátt; [to tread (walk) in a person's ~s] feta í fótspor e-s; [take ~s in matter] gera gangskör að e-u; [a false ~] fótaskortur, fótamissir; [in ~] samstíga, samstígur (við e-n [with]); [out of ~] ósamstígur; [keep ~ with a person] halda í við e-n
+step s. ganga, stíga; [~ out] ganga út; stika stórum; [~ short] vera stuttstígur; [~ in, if you please] gerið svo vel að ganga inn; [~ in the boat] stíga út í bátinn; n. stig, skref; fet; fótspor; stigarim; stigahaft; siglustallur; [portable ~s, a set of ~s] laus trappa, lausastigi; [~ by ~, by ~s] fet fyrir fet, smátt og smátt; [to tread (walk) in a person's ~s] feta í fótspor e-s; [take ~s in matter] gera gangskör að e-u; [a false ~] fótaskortur, fótamissir; [in ~] samstíga, samstígur (við e-n [with]); [out of ~] ósamstígur; [keep ~ with a person] halda í við e-n
 step- fsk. í samsettum orðum: stjúp-
 stepbrother n. hálfbróðir
 stepdaughter n. stjúpdóttir

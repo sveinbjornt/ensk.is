@@ -78,8 +78,6 @@ def check_punctuation(line: str, pn, ln: int):
         warn("double spaces", pn, ln)
     if "{" in line or "}" in line:
         warn("curly brackets error", pn, ln)
-    # if "sjá " in line:
-    #     warn("'sjá' in line", pn, ln)
     if "=" in line:
         warn("= in line", pn, ln)
     if (

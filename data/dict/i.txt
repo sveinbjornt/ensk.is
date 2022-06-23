@@ -306,7 +306,7 @@ impoliteness n. ókurteisi
 impolitic l. óhyggilegur, óviturlegur ([it is ~ to])
 imponderable l. óveganlegur
 import s. flytja inn í landið (vörur); fela í sér, merkja, þýða; varða (miklu [greatly])
-import n. innflutningur; innfluttar vörur ([~-s and exports]); þýðing, merking ([words of dubious ~]); mikilvægi ([of great ~])
+import n. innflutningur; innfluttar vörur ([~s and exports]); þýðing, merking ([words of dubious ~]); mikilvægi ([of great ~])
 importable l. innflytjanlegur
 importance n. mikilvægi, þýðing ([of great, small ~])
 important l. mikilvægur, þýðingarmikill, áríðandi; þóttamikill
@@ -380,7 +380,7 @@ impudent l. ósvífinn, ófyrirleitinn
 impudicity n. óskírlífi
 impugn s. mótmæla; ráðast á
 impugnation n. renging, mótmæli
-impulse n. framrekstur; áhrif ([yield to the ~-s of others]); hvöt; augnablikshugkvæmd; snögg tilhneiging
+impulse n. framrekstur; áhrif ([yield to the ~s of others]); hvöt; augnablikshugkvæmd; snögg tilhneiging
 impulsion n. framrekstur; snögg áhrif
 impulsive l. framknýjandi; sem lætur augnablikstilfinningu ráða, fljótfærinn; [~ force] hreyfiafl; [~ cause] frumorsök
 impunity n. refsingarleysi; [with ~] að ósekju; skaðlaust, að skaðlausu
@@ -391,7 +391,7 @@ imputation n. áburður, aðdróttun, ásökun, last; tileinkun ([the ~ of Chris
 imputative l. tileinkaður
 impute s. kenna um, eigna
 imputrescible l. órotnanlegur
-in fs. í, á; [~ Shakespeare] hjá Shakespeare; [~ Latin] á latínu; [~ the university] við háskólann; [~ my opinion] eftir minni skoðun; [~ the morning] um morguninn; á morgnana; [not one ~ ten could read] ekki einn af tíu gat lesið; [~ three days] eftir þrjá daga; [~ as much as] að svo miklu leyti sem, af því að; ao. inn; inni, heima; [we are ~ for a shower] vér megum búast við að rigni; n. ft. [the ins] stjórnmálaflokkur, sem að völdum situr ([the ~-s and outs]); [~-s and outs] krókar, krókaleið
+in fs. í, á; [~ Shakespeare] hjá Shakespeare; [~ Latin] á latínu; [~ the university] við háskólann; [~ my opinion] eftir minni skoðun; [~ the morning] um morguninn; á morgnana; [not one ~ ten could read] ekki einn af tíu gat lesið; [~ three days] eftir þrjá daga; [~ as much as] að svo miklu leyti sem, af því að; ao. inn; inni, heima; [we are ~ for a shower] vér megum búast við að rigni; n. ft. [the ins] stjórnmálaflokkur, sem að völdum situr ([the ~s and outs]); [~s and outs] krókar, krókaleið
 inability n. vanmáttur; hæfileikaskortur
 inaccessible l. sem ekki verður komist að; óaðgengilegur
 inaccuracy n. ónákvæmni
@@ -477,7 +477,7 @@ incessant l. óaflátanlegur, óþrotlegur
 incessantly ao. í sífellu, stöðugt
 incest n. frændsemisspell, sifjaspell
 incestuous l. sekur um sifjaspell; sem hefur sifjaspell í för með sér ([~ marriage])
-inch n. þumlungur; [~ by ~] smám saman; [by ~-es] í þumlungatali; smátt og smátt; [to an ~] nákvæmlega; s. fikra sig áfram eða aftur á bak; færa smátt og smátt
+inch n. þumlungur; [~ by ~] smám saman; [by ~es] í þumlungatali; smátt og smátt; [to an ~] nákvæmlega; s. fikra sig áfram eða aftur á bak; færa smátt og smátt
 inchmeal ao. smátt og smátt; smám saman
 inchoate s. byrja; l. byrjunar- ([in an ~ state])
 inchoative l. byrjunar-; [in its ~ stage] á byrjunarstigi
@@ -944,7 +944,7 @@ initiatory l. byrjunar-; [~ step] fyrsta stig
 inject s. hleypa (spýta, dæla t.d. vatni úr pípu) inn; [the eyes were ~ed] blóðstokkin
 injection n. innspýting
 injudicious l. óvitur; óviturlegur, óskynsamlegur
-injunction n. áminning ([~-s of secrecy]); skipun
+injunction n. áminning ([~s of secrecy]); skipun
 injure s. skaða, meiða, skemma; skerða, spilla; styggja; móðga, gera á hluta (e-s)
 injurious l. skaðlegur; ranglátur, móðgandi, ærumeiðandi
 injury n. mein, skaði; meiðsli; ranglæti; móðgun
@@ -1087,8 +1087,8 @@ instability n. óstöðugleiki
 instable l. óstöðugur
 install s. setja inn; setja e-ð upp, koma e-u fyrir (t.d. lýsingartækjum)
 installation n. innsetning
-instalment n. innsetning; afborgun ([to pay by/in ~-s]); hluti, partur
-instance n. atvik, tilfelli; dæmi; [pressing ~-s] þrábeiðni; [at the ~ of] eftir áskorun (áeggjun) e-s; [for ~] til dæmis; [in the first ~] fyrst og fremst; [court of first ~] undirdómur; s. nefna sem dæmi
+instalment n. innsetning; afborgun ([to pay by/in ~s]); hluti, partur
+instance n. atvik, tilfelli; dæmi; [pressing ~s] þrábeiðni; [at the ~ of] eftir áskorun (áeggjun) e-s; [for ~] til dæmis; [in the first ~] fyrst og fremst; [court of first ~] undirdómur; s. nefna sem dæmi
 instancy n. þrábeiðni, áeggjan, ákafi
 instant l. samstundis; innilegur, ákafur; skjótur, bráður ([~ relief, ~ death]); yfirstandandi; yfirvofandi ([~ danger]); n. augnablik ([in an ~, on the ~])
 instantaneous l. samstundis; augnablikslegur; augnabliks-
@@ -1162,7 +1162,7 @@ integument n. þunn húð, himna
 intellect n. skilningur; vitsmunir, gáfur; vitmaður
 intellection n. skilningur
 intellective l. skilnings-, vitsmunalegur
-intellectual l. skilningslegur; andlegur, vitsmunalegur; [~-al being] skynsöm vera; n. vitsmunamaður; menntamaður
+intellectual l. skilningslegur; andlegur, vitsmunalegur; [~ being] skynsöm vera; n. vitsmunamaður; menntamaður
 intellectuality n. mannlegt hyggjuvit, skynsemi; vitsmunamaður
 intelligence n. vitsmunir, skilningur, greind; fregn; skynjandi vera
 intelligencer n. njósnari; fregnberi, sögumaður
@@ -1483,7 +1483,7 @@ Irishwoman n. írsk kona
 irk s. gera leiðan; [it ~s me (to, that)] mér leiðist (að)
 irksome l. leiðinlegur; erfiður
 irksomeness n. leiðindi
-iron n. járn; ft. fjötrar; [to have many ~-s in the fire] hafa margt í takinu; l. úr járni; s. strauja, slétta (föt með heitu járni); setja í járnfjötra; járnbenda, járna
+iron n. járn; ft. fjötrar; [to have many ~s in the fire] hafa margt í takinu, mörg járn í eldinum; l. úr járni; s. strauja, slétta (föt með heitu járni); setja í járnfjötra; járnbenda, járna
 ironbound l. járnbentur, járnvarinn; [an ~ coast] brött og klettótt strönd
 ironclad l. járnvarinn, brynjaður; n. járnbarði, járnskip
 iron grey l. járngrár, stálgrár

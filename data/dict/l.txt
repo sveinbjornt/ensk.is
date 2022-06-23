@@ -20,7 +20,7 @@ lachrymal l. tára- ([~ gland])
 lachrymatory l. tára-; n. táraker; vasaklútur
 lachrymose l. grátgjarn; táravekjandi; társtokkinn
 lacing n. reimun; reim
-lack s. skorta, vanta; [to be ~-ing] skorta, vanta; e-m er ábótavant (áfátt) í e-u ([in]); n. skortur, hörgull, ekla ([for ~ of])
+lack s. skorta, vanta; [to be ~ing] skorta, vanta; e-m er ábótavant (áfátt) í e-u ([in]); n. skortur, hörgull, ekla ([for ~ of])
 lackadaisical l. of viðkvæmur, volulegur
 lackaday uh. æ! guð komi til!
 lacker s. draga gljákvoðu á; n. gljákvoða
@@ -245,7 +245,7 @@ laudable l. lofsverður
 laudation n. lof, hrós
 laudatory l. lofandi; lofsamlegur
 laudanum n. svefnlyf, ópíumseyði
-laugh s. hlægja; [~ at] hlæja (brosa) að; spotta, gera gys að; n. hlátur; [have the ~ on one's side] hafa hláturinn með sér; [on the ~] hlæjandi; [he who ~-s last, laughs best] sá hlær best sem síðast hlær
+laugh s. hlægja; [~ at] hlæja (brosa) að; spotta, gera gys að; n. hlátur; [have the ~ on one's side] hafa hláturinn með sér; [on the ~] hlæjandi; [he who ~s last, laughs best] sá hlær best sem síðast hlær
 laughable l. hlægilegur
 laughingly ao. hlæjandi
 laughing-stock n. aðhlátursefni, athlægi; hlægifífl
@@ -257,7 +257,7 @@ laundress n. þvottakona
 laundry n. þvottur; þvottahús
 laundrywoman n. þvottakona
 laureate l. lárviðarkrýndur; [poet ~] hirðskáld; n. [poet ~]
-laurel n. lárviður ([to win one's ~-s])
+laurel n. lárviður ([to win one's ~s])
 laurelled l. lárviðarkrýndur
 lava n. hraun
 lavatory n. klósett, salerni, þvottastaður, snyrtiklefi; þvottahús
@@ -457,7 +457,7 @@ lethal l. banvænn
 lethargic l. svefnsjúkur; drungalegur, daufur, sofandi
 lethargical l. svefnsjúkur; drungalegur, daufur, sofandi
 lethargy n. svefnsýki; drungi, doði, deyfð
-letter n. bókstafur; sendibréf; ft. bókmenntir [~ of attorney] fullt umboð; [a man of ~-s] menntamaður, rithöfundur; s. merkja með bókstöfum; setja nafn bókar á kjölinn
+letter n. bókstafur; sendibréf; ft. bókmenntir [~ of attorney] fullt umboð; [a man of ~s] menntamaður, rithöfundur; s. merkja með bókstöfum; setja nafn bókar á kjölinn
 lettered l. menntaður
 lettuce n. salat, salatsjurt
 Levant n. löndin við austurhluta Miðjarðarhafs
@@ -521,8 +521,8 @@ lickspittle n. (höfðingja)sleikja
 licorice n. sjá %[liquorice]%
 lid n. lok
 lidless l. loklaus
-lie n. lygi; [to tell ~-s] ljúga; [to give the ~ to] segja (e-n) ljúga; ósanna; [he has given the ~ to his former principles] hann hefur brugðist fyrri skoðunum sínum; s. ljúga ([he lied to me])
-lie s. liggja ([~ asleep, sick]); [~ by] liggja kyrr (ónotaður); [~ down] leggjast niður; leggja sig til hvíldar; liggja; [~ in] liggja á sæng (um konu); [as far as in me ~-s, all that ~-s in my power] allt sem í mínu valdi stendur; [~ on (upon)] hvíla á e-m (um skyldu); vera kominn undir (e-m); [~ to] hafast við (um skip); [~ under] liggja undir, vera háöur; [it ~-s with you to] það er skylda yðar að, yður ber að; [~ up] liggja uppi; liggja í rúminu; n. lega ([the ~ of the land])
+lie n. lygi; [to tell ~s] ljúga; [to give the ~ to] segja (e-n) ljúga; ósanna; [he has given the ~ to his former principles] hann hefur brugðist fyrri skoðunum sínum; s. ljúga ([he lied to me])
+lie s. liggja ([~ asleep, sick]); [~ by] liggja kyrr (ónotaður); [~ down] leggjast niður; leggja sig til hvíldar; liggja; [~ in] liggja á sæng (um konu); [as far as in me ~s, all that ~s in my power] allt sem í mínu valdi stendur; [~ on (upon)] hvíla á e-m (um skyldu); vera kominn undir (e-m); [~ to] hafast við (um skip); [~ under] liggja undir, vera háöur; [it ~s with you to] það er skylda yðar að, yður ber að; [~ up] liggja uppi; liggja í rúminu; n. lega ([the ~ of the land])
 lief ao. ljúft, gjarna; [I had as ~ go] ég vildi eins gjarna fara
 liege l. þegnskyldur, lénskyldur; n. lénsmaður; trúr þegn; lénsdrottinn ([~ lord])
 lien n. eignarband, veðband
@@ -543,7 +543,7 @@ life preserver n. sundbelti; björgunarhringur; stafur (með blýi í endanum)
 life-size l. í fullri líkamsstærð
 lifetime n. ævi, ævidagar ([during his ~])
 life work n. ævistarf
-lift s. lyfta, hefja; stela ([~ cattle]); lyftast upp; svífa upp (um þoku eða reyk); [~ one's hands] vinna eið; [the fog ~-s] þokunni léttir
+lift s. lyfta, hefja; stela ([~ cattle]); lyftast upp; svífa upp (um þoku eða reyk); [~ one's hands] vinna eið; [the fog ~s] þokunni léttir
 lift n. lyfting; hafning; hjálp; lyftivél, lyfta; byrði (sem lyfta má í einu)
 ligament n. band; sin
 ligature n. umband
@@ -564,7 +564,7 @@ light-minded l. léttlyndur
 lightness n. léttleiki; hvatvísi; léttúð
 lightsome l. glaðlyndur; hvatlegur
 light s. stíga ofan (úr vagni); fara af baki ([down, off]); setjast (um fugla); [~ on, upon] lenda á e-m; koma í hlut e-s; hitta, rekast á e-ð
-lighten s. lýsa; ljóma, leiftra; hýrga; [it ~-s] eldingarganga
+lighten s. lýsa; ljóma, leiftra; hýrga; [it ~s] eldingarganga
 lighten s. létta ([~ the burden]); gera auðveldara; afferma
 lighter n. uppskipunarbátur, flatbotnaður byrðingur
 lighthouse n. viti
@@ -574,7 +574,7 @@ light-skirts n. lauslætiskvendi
 ligneous l. trékenndur; tré-
 lignify s. breyta í tré; tréna
 lignite n. brúnkol, surtarbrandur
-like l. líkur ([the picture is not ~]); svipaður; jafn, samur; líklegur; [to look ~] vera líkur; n. líki, jafningi, maki; [these and their ~-s] þeirra líkar; [to give ~ for ~] gjalda líku líkt; [~ draws to ~] hvað elskar sér líkt; ao. eins og; líkt
+like l. líkur ([the picture is not ~]); svipaður; jafn, samur; líklegur; [to look ~] vera líkur; n. líki, jafningi, maki; [these and their ~s] þeirra líkar; [to give ~ for ~] gjalda líku líkt; [~ draws to ~] hvað elskar sér líkt; ao. eins og; líkt
 likelihood n. líkindi; [in all ~] að öllum líkindum
 likely l. líklegur, sennilegur; [he is not ~ to return] það er ekki liklegt, að hann komi aftur; [most ~] að öllum líkindum
 liken s. líkja (bera) saman
@@ -788,12 +788,12 @@ log house n. bjálkahús
 logarithm n. logri, lógariþmi
 logarithmic l. logra-, lógariþma-
 logarithmical l. logra-, lógariþma-
-loggerhead n. klaufi, auli; [to come (go) to ~-s] fara að rífast
+loggerhead n. klaufi, auli; [to come (go) to ~s] fara að rífast
 logic n. rökfræði; rök
 logical l. rökréttur
 logician n. rökfræðingur
 logogriph n. e.k. orðagáta, bókstafagáta
-loin n. lend ([to gird up the ~-s]); malir, hrygglundir
+loin n. lend ([to gird up the ~s]); malir, hrygglundir
 loiter s. drolla, hangsa, slæpast; [~ away] eyða í iðjuleysi ([~ away the day])
 loiterer n. slæpingur
 loll s. sitja auðum höndum, liggja endilangur; lafa út (um tunguna); láta lafa út úr sér tunguna ([~ out])
@@ -839,7 +839,7 @@ looking-glass n. spegill
 lookout n. vörður; útsjón; útlit; varðberg; [to be on the ~] vera á varðbergi; vera að horfa eftir e-u ([for])
 loom n. vefstóll; [~ of an oar] árarhlemmur; s. vefa
 loom n. lómur (fugl)
-loom s. hilla upp, vera meiri tilsýndar en í raun og veru; [the land ~-s high] landið hillir upp; n. upphilling ([the ~ of a rock was seen])
+loom s. hilla upp, vera meiri tilsýndar en í raun og veru; [the land ~s high] landið hillir upp; n. upphilling ([the ~ of a rock was seen])
 loon n. lómur; einnig stytting á orðinu %[lunatic]% (óforml.)
 loony n. stytting á [lunatic]; sjá %[lunatic]%
 loop n. lykkja; hanki, hnesla
@@ -873,7 +873,7 @@ lorry n. flutningabíll; langur fjórhjólaður vöruflutningavagn; lítill kola
 lose s. missa, týna, tapa, glata; fara á mis við, verða af; seinka sér (um klukku); [~ flesh] megrast; [~ ground] missa hylli eða álit; [~ (one's) patience, ~ one's head] verða óþolinmóður; [will ~ you your place] mun kosta yður stöðuna; [~ one's temper] reiðast; [~ one's way] villast; [~ sight of] missa sjónar á; [he is lost] það er úti um hann; [be lost] týnast, farast (um skip og menn); glatast (um sálina); [lost in thought] sokkinn niður í hugsanir; [lost to shame] blygðunarlaus
 loser n. tapari, tapandi; [be (come off) a ~] tapa (á e-u [by])
 loss n. missir, töpun, tjón, skaði; [~ of time] tímatöf; [~ of appetite] lystarleysi; [be at a ~ what to do] vera í vandræðum um, hvað gera eigi, vera ráðalaus
-lot n. hluti; hlutur, hlutkesti ([election by ~]); hlutskipti; hópur; [we shall have ~-s to do] ógrynni að starfa; [~-s of people] mesti mannfjöldi; [draw ~-s] draga hluti (um [for, between]); [cast ~-s] kasta hlutum (um [for, between]); [the ~ fell upon me] minn hlutur kom upp; [it falls to my (as my) ~] í mitt hlutskipti; [a bad ~] vondur maður, óþokki; [the (whole) ~] allur hópurinn
+lot n. hluti; hlutur, hlutkesti ([election by ~]); hlutskipti; hópur; [we shall have ~s to do] ógrynni að starfa; [~s of people] mesti mannfjöldi; [draw ~s] draga hluti (um [for, between]); [cast ~s] kasta hlutum (um [for, between]); [the ~ fell upon me] minn hlutur kom upp; [it falls to my (as my) ~] í mitt hlutskipti; [a bad ~] vondur maður, óþokki; [the (whole) ~] allur hópurinn
 lost l. af sögninni [to lose]; týndur, glataður (í [to])
 lot s. skipta (landi) í hluta; úthluta
 loth l. sjá %[loath]%
@@ -966,7 +966,7 @@ lugubrious l. sorglegur; sorgar-
 lugubriously ao. sorglega
 lukewarm l. volgur; hálfvolgur ([the play received a lukewarm reception])
 lukewarmness n. hálfvelgja
-lull s. svæfa (með því að raula) ([~ a child to sleep]); þagga (bæla) niður; lægja ([the wind ~-s]); n. logn, hlé á stormi ([~ of the storm])
+lull s. svæfa (með því að raula) ([~ a child to sleep]); þagga (bæla) niður; lægja ([the wind ~s]); n. logn, hlé á stormi ([~ of the storm])
 lullaby uh. bíum bíum; n. vögguvísa; s. sefa, svæfa
 lumbago n. lendaverkur, bakverkur, vöðvagigt
 lumbar l. lenda- ([~ region, muscles])
