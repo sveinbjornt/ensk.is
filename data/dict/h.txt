@@ -684,7 +684,7 @@ hoiden n. sjá %[hoyden]%
 hoist s. lyfta, draga (vinda) upp; n. lyftivél; uppdráttur
 hoity-toity n. gáski; l. gáskafullur, glensmikill
 hold s. halda, halda á; hafa á hendi ([~ an office]); rúma, taka; halda fast við (skoðun); handsama; ná í; halda (e-u) fram; telja, álita; gilda, eiga við ([~ true, good]); haldast, standa; vera kominn undir; [~ water] stinga við, hafa aftur á; vera vatnsheldur, leka ekki; standast raun; [~ a wager] veðja; [~ one's head high] bera höfuðið hátt; [~ one's breath] halda niðri í sér andanum; [~ one's own] duga; hafa yfirtökin; halda stöðu sinni; [I ~ it a bad sign] ég tel það ills vita; [~ forth] tala á mannfundum; [~ in] halda í skefjum; halda við (hest); stilla sig; þegja; [~ of] vera (e-m) háður; [~ on] halda (e-u) áfram; [~ on!] hættu!; [~ out] rétta út; þola; haldast, endast; [~ up] halda uppi; styðja; haldast ([if this wind ~s up])
-hold n. hald, tak, handfesta; varðhald; fangaklefi; fylgsni; bæli villidýra; virki (sbr. [stronghold]); farmrúm (í skipi); [to lose ~ of] missa tökin á e-u; [to be in ~] vera í varðhaldi
+hold n. hald, tak, handfesta; varðhald; fangaklefi; fylgsni; bæli villidýra; virki (sbr. %[stronghold]%); farmrúm (í skipi); [to lose ~ of] missa tökin á e-u; [to be in ~] vera í varðhaldi
 holdall n. ferðataska
 holdback n. hindrun; agnúi
 holder n. handhafi, eigandi

@@ -152,7 +152,7 @@ octopod n. áttfætla; áttfættur kolkrabbi
 octosyllabic l. áttkvæður; n. áttkvæð ljóðlína
 octuple l. áttfaldur
 ocular l. sem lýtur að auganu, augna-, gerður með augunum ([~ measurement of distance]); n. augnagler í sjónauka
-ocular witness n. sjónarvottur (sbr. [eyewitness])
+ocular witness n. sjónarvottur (sbr. %[eyewitness]%)
 ocular deception n. missýning, sjónvilla
 ocular proof n. áþreifanleg sönnun
 oculist n. augnlæknir

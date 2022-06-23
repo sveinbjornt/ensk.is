@@ -275,7 +275,7 @@ fellow heir n. samarfi
 fellowship n. félagsskapur; samfélag, samneyti, mök; félagsreikningur
 fellow traveller n. samferðamaður
 felly n. hjólbogi
-felly ao. grimmilega; sbr. fell
+felly ao. grimmilega; sbr. %[fell]%
 felon n. glæpamaður
 felonious l. glæpsamlegur; grimmur, vondur; mannskæður (um vopn)
 felony n. glæpur, ódæðisverk
@@ -888,7 +888,7 @@ forefend s. varna, aftra; verja
 forefinger n. vísifingur
 forefoot n. framfótur; framlöpp
 foregather s. sjá %[forgather]%
-forego s. fara (ganga) á undan; sbr. [forgo]
+forego s. fara (ganga) á undan; sbr. %[forgo]%
 foregoer n. fyrirrennari
 foregoing l. undanfarandi
 foregone l. undanfarinn; fyrirfram ákveðinn, sjálfsagður ([a ~ conclusion])

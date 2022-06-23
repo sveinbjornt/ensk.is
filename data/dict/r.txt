@@ -1361,7 +1361,7 @@ rod n. stafur, sproti, teinn ([divining ~]); veiðistöng; mælistöng ([surveyo
 rodent l. nagandi; n. nagdýr ([burrowing ~s])
 rodomontade n. skrum, gort, raus; s. grobba, rausa
 rodster n. stangveiðari
-roe n. hrogn; [hard ~] hrogn; [soft ~] svil (sbr. [spawn])
+roe n. hrogn; [hard ~] hrogn; [soft ~] svil (sbr. %[spawn]%)
 roe n. rádýr; hind
 roebuck n. rábukkur
 roe deer n. rádýr

@@ -1011,7 +1011,7 @@ mist n. mistur, þoka; úði; s. hylja í þoku; hyljast þoku, verða dimmur
 mistake s. fara villt; villast; misskilja; [I mistook him for another] ég hélt, að hann væri annar, ég villtist á honum og öðrum; [to be ~n] skjátlast, fara villt; missýnast, yfirsjást; n. villa, misgáningur, misskilningur ([by ~])
 mistaken l. misskilinn; rangur
 mistakenly ao. ranglega, skakkt
-mister n. herra; sbr. [master]; s. kalla e-n herra
+mister n. herra; sbr. %[master]%; s. kalla e-n herra
 misterm s. rangnefna
 mistime s. framkvæma á röngum tíma; vanrækja hinn rétta tíma
 mistimed l. ótímabær
@@ -1024,7 +1024,7 @@ mistrustful l. tortrygginn
 mistrustfulness n. vantraust, tortryggni
 mistune s. stilla rangt (hljóðfæri)
 mistuned l. hjáróma
-misty l. þokufullur, dimmur; óskýr, óljós; sbr. mist
+misty l. þokufullur, dimmur; óskýr, óljós; sbr. %[mist]%
 misunderstand s. misskilja
 misunderstanding n. misskilningur; ágreiningur ([some ~ between them])
 misusage n. ill meðferð

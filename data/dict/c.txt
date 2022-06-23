@@ -66,7 +66,7 @@ calling n. kall, köllun; atvinna, lífsstaða, lífsköllun ([~ in life]); pres
 calligrapher n. skrautskrifari
 calligraphy n. skrautskrift, skrautritun
 callosity n. sigg
-callous l. harður (um hörundið); tilfinningarlaus
+callous l. harðbrjósta, harðlyndur, tilfinningalaus; harður (um hörundið)
 callow l. fjaðralaus; fiðurlaus, snoðinn; óreyndur
 calm l. kyrr; hægur, friðsamur; n. kyrrð; rósemi; logn; [dead ~] ládeyða; [it fell dead ~] það gerði blæja logn; s. stilla, sefa; [~ down] lægja (um vind)
 calmness n. kyrrð, stilling
@@ -405,7 +405,7 @@ cathedra n. biskupssæti í kirkju; biskupsstóll
 cathedral l. biskupslegur; n. dómkirkja, höfuðkirkja
 catheter n. þvagpípa
 catholic l. almennur; kaþólskur; n. kaþólskur maður
-catholicism n. kaþólsk trú, kaþólska
+Catholicism n. kaþólsk trú, kaþólska
 catholicity n. frjálslyndi
 catkin n. hreisturblóm
 catting n. kettlingur
@@ -620,7 +620,7 @@ chargeable l. sem er til byrðarauka; sem kennt verður um; kostnaðarsamur
 chargeless l. brauðlaus (um prest)
 charger n. bardagahestur; stórt kjötfat
 charily ao. varlega; sparlega
-chariness n. varúð; sparsemi (sbr. [chary])
+chariness n. varúð; sparsemi (sbr. %[chary]%)
 chariot n. skrautvagn; hervagn
 charioteer n. vagnstjóri
 charitable l. góðgjörðasamur, góðgjarn
@@ -635,7 +635,7 @@ Charles's Wain n. Karlsvagn (stjörnumerki)
 charlock n. akurkál
 charm n. töfrar, töfragripur, verndargripur; unaður, fegurð; s. töfra; gera frá sér numinn; sefa
 charmer n. töfrari; töfrakona
-charming l. unaðslegur, yndislegur
+charming l. heillandi, unaðslegur, yndislegur
 charnel-house n. beinahús (í kirkjugarði)
 charpie n. línskaf (sjá %[lint]%)
 charry l. viðarkolakenndur
@@ -655,7 +655,7 @@ chastener n. refsari
 chastise s. refsa
 chastisement n. refsing
 chastiser n. refsari
-chastity n. hreinlífi, skírlífi; sbr. [chaste]
+chastity n. hreinlífi, skírlífi; sjá %[chaste]%
 chasuble n. hökull
 chat n. spjall, mas, hjal; s. spjalla, masa, hjala, skeggræða
 chateau n. höll, herragarður
@@ -667,14 +667,14 @@ chatty l. ræðinn, skrafinn
 chauvinism n. rembingur, þjóðrembingur; [male ~] karlremba
 chauvinist n. þjóðskrumari; [male ~] karlremba
 chauvinistic l. þjóðrembings-
-chaw s. tyggja (sbr. [chew])
+chaw s. tyggja (sbr. %[chew]%)
 cheap l. ódýr; auðvirðilegur; lítilsvirtur; ao. ódýrt; fyrir lítið verð ([I got it ~])
 cheapen s. gera (eða verða) ódýrara; lítilsvirða
 cheapness n. ódýrleiki
 cheat s. svíkja, hafa af; gabba, ginna, leika á; eyða (tímanum); [~ at play] svíkja í spilum; n. prettur, svik; svikari
 cheater n. svikari
 cheatery n. svik, fjárprettir
-check n. skák; stöðvun. hindrun; mótstaða; hnekkir, tjón; aðhald; viðsett merki; miði, útgöngumiði; bankaávísun (sbr. [cheque]); kvittunarmiði; [keep in ~] halda e-m í skefjum; uh. skák; s. stöðva, hindra, hnekkja; stilla; prófa vandlega; halda í skefjum; segja skák, skáka
+check n. skák; stöðvun. hindrun; mótstaða; hnekkir, tjón; aðhald; viðsett merki; miði, útgöngumiði; bankaávísun (sbr. %[cheque]%); kvittunarmiði; [keep in ~] halda e-m í skefjum; uh. skák; s. stöðva, hindra, hnekkja; stilla; prófa vandlega; halda í skefjum; segja skák, skáka
 checkbook n. ávisanabók
 checked l. köflóttur
 checker s. sjá %[chequer]%
@@ -964,7 +964,7 @@ clang s. glamra, hringla; n. hringl, brak; garg (í sumum fuglum)
 clangor n. gjall, brak, gnýr ([~ of arms])
 clangorous l. gjallandi
 clank n. hringl, gnýr; s. (láta) hringla; smella
-clannish l. ættflokkslegur, ættar-; sbr. [clan]
+clannish l. ættflokkslegur, ættar-; sbr. %[clan]%
 clap s. skella (hurð); slá; smella ([~ duty on goods]); klappa saman lófum ([~ one's hands]); klappa (t.d. [on the shoulders]); snara (e-m í fangelsi [in prison]); [~ on all sails] setja upp öll segl; [~ up a bargain] gera kaup í skyndi; [~ eyes on] koma auga á e-ð; n. lófaklapp; skellur, smellur; þrumudynur ([~ of thunder])
 clapper n. kólfur í klukku; rella; tunga í málóðum manni; [she let her ~ run] það óð á henni
 clapperclaw s. klóra; skamma
@@ -1033,7 +1033,7 @@ clericalist n. klerkavinur, klerkasinni
 clerk n. skrifari, bókhaldari; djákni; [~ in holy orders] klerkur (djákni, prestur, biskup)
 clever l. fimur, liðugur; duglegur, gáfaður; kunnáttulegur
 cleverness n. fimleiki; gáfur; kunnátta
-clew n. hnykill; leiðarvísir, lykill (að e-u, [this affords a ~ to the whole]); skaut á segli; sbr. [clue]
+clew n. hnykill; leiðarvísir, lykill (að e-u, [this affords a ~ to the whole]); skaut á segli; sbr. %[clue]%
 click n. tif (í úri); skellur; s. tifa (um úr); skella, slá ([they ~ed their glasses together])
 client n. skjólstæðingur; viðskiptavinur
 clientage n. skjólstæðingaflokkur; skjólstæðingsskapur
@@ -1119,7 +1119,7 @@ club-foot n. bæklaður fótur, kleppfótur
 club-law n. hnefaréttur; s. láta hnefaréttinn ráða
 clubman n. kylfuberi; klúbbsfélagi
 cluck n. klak (hænu); s. klaka
-clue n. bandhnykill; leiðarvísir; lykill (að e-u [to]); þráður, samhengi (í sögu eða ræðu); sbr. [clew]
+clue n. bandhnykill; leiðarvísir; lykill (að e-u [to]); þráður, samhengi (í sögu eða ræðu); sbr. %[clew]%
 clump n. stykki, kleppur; klasi, hnappur (af trjám eða grösum); þykkur sóli; s. ganga þunglamalega; festa (negla) þykkan sóla undir; safna í hnapp
 clumpish l. þunglamalegur
 clumsiness n. klunnaskapur
@@ -1819,7 +1819,7 @@ conjointly l. sameiginlega, í sameiningu
 conjugal l. hjúskaparlegur, hjúskapar- ([~ life])
 conjugation n. sagnbeyging ([verbs of the strong ~])
 conjunction n. samsetning
-conjunctive l. samtengjanlegur; [~ mood] viðtengingarháttur (sbr. [ subjunctive mood])
+conjunctive l. samtengjanlegur; [~ mood] viðtengingarháttur (sbr. %[subjunctive]% mood)
 conjuncture n. samrás viðburða, atvik, ástand ([~ of affairs])
 conjuration n. særing
 conjure s. sárbæna; særa (anda); vekja upp; galdra
@@ -2102,7 +2102,7 @@ convoy s. fylgja (til varnar); n. fylgd, hlífarfylgd; kaupskipafloti með varna
 convulse s. skaka, hrista
 convulsion n. vöðvateygjur, krampi; bylting; umbrot; [~s of laughter] óstjórnlegur hlátur
 convulsive l. krampa-; ofsalegur ([~ and perilous reform])
-cony n. kanína (sbr. [rabbit])
+cony n. kanína (sbr. %[rabbit]%)
 coo s. kurra (um dúfu); hjala
 cook n. matreiðslumaður; matreiðslukona, eldakona; s. matreiða, elda, sjóða, steikja; falsa (reikninga)
 cooker n. suðuvél, suðuofn
@@ -2741,7 +2741,7 @@ customer n. viðskiptavinur
 customshouse n. tollbúð
 cut s. skera; höggva; höggva upp, fella (tré); kljúfa; slá (gras eða korn); klippa (hár); sníða (föt); höggva til; höggva út (myndir); grafa (í málm); grafa (skurð); skera upp úr (bók, einnig [~ open]); slípa (gler, gimsteina); gelda, vana; draga (í spilum, [~ cards]); bíta (um bittól); skerast; sníðast ([the cloth does not ~ well]); slá sig (um hest); fara þvert yfir ([~ across, over]); [~ capers] hoppa; [~ his acquaintance] hætta viðkynningu við hann; [~ one's way] ryðja sér braut; [~ a tooth (one's teeth)] taka tönn (tennur); [~ short] gera snöggan enda á; grípa fram í fyrir; [to ~ it short] í stuttu máli; [~ the coat according to the cloth] sníða sér stakk eftir vexti; [he ~ his finger] skar sig í fingurinn; [~ down] stytta; minnka; færa niður ([~ down expenses]); [~ in] grípa fram í; [~ off] skera af; afnema banna (samgöngur); stöðva; hindra; gera arflausan; hafa e-n af sér; valda dauða (fyrir örlög fram); [~ out] skera út; strika út, nema burt; bola (keppinaut) út; skara fram úr; sníða (föt); [~ up] höggva (skera) upp; uppræta; [~ up rough (or savage)] bregðast reiður við; [~ up (well)] deyja auðugur; n. lag; högg; sáryrði; mikið áfall; dráttur (í spilum); skurður; sneið ([~ of meat]); snið (á fötum); tegund; [short~] stutt leið, gagnvegur; [a second ~] seinni sláttur; há; [whose ~ is it] hver á að draga? [make a ~ at him] höggva til hans; [it was a ~ above me] einu striki of hátt fyrir mig; [~ and thrust] höggorusta; [draw ~s for] draga um; [~ and dried or dry] áður tilbúinn, ekki nýr (um skoðanir)
 cutaneous l. hörunds-, húð- ([~ disease])
-cute l. sætur, krúttlegur; skarpskyggn (sbr. [acute])
+cute l. sætur, krúttlegur; skarpskyggn (sbr. %[acute]%)
 cut-glass n. slípað gler
 cuticle n. hörund, hús
 cutlass n. stutt sverð, sax

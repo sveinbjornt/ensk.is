@@ -367,7 +367,7 @@ pathos n. viðkvæmni; ákafi, hiti ([to speak with ~])
 patience n. þolinmæði; langlundargeð; þolgæði; spilaþraut (fyrir einn); [I have no ~ with] get ekki fellt mig við
 patient l. þolinmóður; n. sjúklingur
 patiently ao. þolinmóðlega, með þolinmæði
-patness n. hentugleiki; sbr. pat
+patness n. hentugleiki; sbr. %[pat]%
 patriarch n. ættfaðir; yfirbiskup (í grísku kirkjunni)
 patriarchal l. ættföðurlegur; yfirbiskuplegur
 patriarchalism n. ættfeðrastjórn
@@ -561,7 +561,7 @@ penitentiary l. yfirbótar-, iðrunar-; n. betrunarhús; skriftafaðir
 penknife n. vasahnífur
 penman n. skrifari ([a good, bad ~]); rithöfundur; s. rita semja
 penmanship n. skrift, rithönd; ritlist ([good or bad ~])
-pennant n. löng og mjó veifa, toppveifa, oddveifa; sbr. [pendant]
+pennant n. löng og mjó veifa, toppveifa, oddveifa; sbr. %[pendant]%
 penniform l. fjöðurmyndaður
 penniless l. bláfátækur, félaus
 pennon n. löng og mjó veifa
@@ -823,7 +823,7 @@ pettiness n. smæð, óveruleiki
 pettish l. duttlungafullur, geðvondur, firtinn
 pettishness n. geðvonska, firtni
 pettitoes n. ft. grísatær
-petty l. lítill, smár; óverulegur, ómerkilegur; [~ jury] tólf manna kviðdómur (sbr. jury); [~ larceny] smáþjófnaður
+petty l. lítill, smár; óverulegur, ómerkilegur; [~ jury] tólf manna kviðdómur (sbr. %[jury]%); [~ larceny] smáþjófnaður
 petulance n. önuglyndi; keskni, ónot
 petulant l. keskinn; önuglyndur, firtinn
 pew n. (lokaður) kirkjustóll; s. setja stól í kirkju
@@ -2485,7 +2485,7 @@ punition n. refsing
 punitive l. refsingar-, hegningar- ([~ expedition])
 punitory l. refsingar-, hegningar- ([~ expedition])
 punnet n. aldinkarfa
-punster n. maður, sem er fyndinn í orðum (sbr. [pun])
+punster n. maður, sem er fyndinn í orðum (sbr. %[pun]%)
 punt n. flatbotnaður bátur, flatbytna; s. stjaka (flatbotnuðum bát); flytja á (flatbotnuðum) bát
 puny l. pinkulítill, smár
 pup n. hvolpur; kópi; s. gjóta

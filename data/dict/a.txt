@@ -609,7 +609,7 @@ agitation n. hristingur, hreyfing; geðshræring; æsingar; íhugun, umræða
 agitator n. æsingamaður
 aglet n. málmtittur á reim, doppa
 aglow ao. glóandi
-agnail n. ígerð undir nögl, aum nögl; andnögl (sbr. [hangnail])
+agnail n. ígerð undir nögl, aum nögl; andnögl (sbr. %[hangnail]%)
 agnate n. frændi í föðurætt
 agnation n. skyldleiki í beinan karllegg
 agnostic n. sá sem telur þekkingu á guði og hinum ósýnilega heimi ómögulega

@@ -5,7 +5,7 @@ tabby l. með bylgjumyndum (um vefnað); röndóttur ([~ cat]); n. e.k. silkivef
 tabernacle n. tjaldbúð; dvalarstaður; s. dvelja (um stundarsakir); hýsa
 tabes n. uppdráttarsýki
 tabid l. megrunarsjúkur
-table n. tafla, spjald (sbr. [tablet]); borð; taflborð; s. setja í töflur; leggja fram á þingborðið
+table n. tafla, spjald (sbr. %[tablet]%); borð; taflborð; s. setja í töflur; leggja fram á þingborðið
 tablecloth n. hvítur borðdúkur
 tablecover n. borðábreiða, borðdúkur
 tableland n. háslétta (brött á alla vegu)
@@ -622,7 +622,7 @@ ticklish l. kitlugjarn; vandasamur; valtur ([a ~ boat])
 tidal l. sem lýtur að (eða er kominn undir) flóði og fjöru (eða sjávarföllum); [the ~ portion of the river] sá hluti árinnar sem fellur að og út í; [~ wave] flóðbylgja
 tide n. tími ([even~]); sjávarfall; aðfall og útfall, flóð og fjara ([high, low ~]); straumur; stefna; [the ~ is in/up] það er flóð; [the ~ is out/down] það er fjara; [the tide rises] það er aðfall; [work double ~s] vinna allt hvað af tekur; s. reka (róa, sigla, berast) með straumnum; henda (sjá %[betide]%); [~ over a difficulty] komast úr vanda
 tidewaiter n. tollþjónn, tollvörður
-tidewave n. flóð flóðbylgja (sbr. [tidal wave])
+tidewave n. flóð flóðbylgja (sbr. %[tidal wave]%)
 tidiness n. snyrtilegheit, snoturleiki
 tidy l. snyrtilegur, snotur, þokkalegur; dálaglegur ([a ~ penny, a pretty penny]); n. stóla- eða sófaskýla; ermasvunta (á barn); s. laga til, taka til, snyrta til (í herbergi)
 tidings n. ft. tíðindi
@@ -827,7 +827,7 @@ topical l. staðlegur; tækifæris- ([a ~ poem])
 topographer n. staðfræðingur
 topographical l. staðfræðilegur; staðar-, staða- ([~ description of a locality])
 topography n. staðlýsing
-topping l. ágætur, frábær; [a ~ sea] brotsjór; sbr. [top]
+topping l. ágætur, frábær; [a ~ sea] brotsjór; sbr. %[top]%
 topple s. steypast áfram; detta um koll; kasta (fella) um koll
 topsy-turvy ao. um koll, á ringulreið; l. öfugur, umsnúinn
 torch n. kyndill, blys
@@ -1249,7 +1249,7 @@ trophy n. sigurmerki
 tropic n. hvarfbaugur; ft. [tropics] hitabelti
 tropical l. sem er milli hvarfbauganna, í hitabeltinu
 tropical winds n. ft. staðvindar
-tropical l. óeiginlegur (um orð eða orðatiltæki); sbr. [trope]; [~ writing] myndletur
+tropical l. óeiginlegur (um orð eða orðatiltæki); sbr. %[trope]%; [~ writing] myndletur
 trot s. brokka, skokka; láta brokka; n. brokk, skokk
 trotter n. brokkari, brokkhestur; löpp
 troubadour n. trúbador; farandsöngvari; miðaldaskáld í Suður-Frakklandi
@@ -1329,13 +1329,13 @@ tuberculize s. sýkja (sýkjast) af berklum
 tuberculosis n. berklar, berklaveiki
 tuberculous l. sem stafar af berklum; berklasjúkur
 tuberous l. hnúskóttur
-tubular l. pípumyndaður; holur; sbr. [tube]
+tubular l. pípumyndaður; holur; sbr. %[tube]%
 tuck n. felling (á fati); sælgæti, sætindi; góð máltíð ([~-in, ~-out]); s. vefja, sveipa; dúða; vefja (rúmfötin) utan um ([~ up]); draga saman ([he ~ed his legs under him]); bretta upp ([~ up one's sleeves]); dragast saman
 Tuesday n. þriðjudagur
 tuff n. móberg
 tuft n. lagður, skúfur, brúskur; (gras)toppur; safn (af trjám); tiginn stúdent (með gullskúf í húfunni); s. prýða með skúfum
 tufty l. skúfóttur, lagðóttur
-tug s. toga, rykkja (í e-ð [at]); strita; n. tak, rykkur; áreynsla; dráttarskip (sbr. [tugboat]); [~ of war] reipitog
+tug s. toga, rykkja (í e-ð [at]); strita; n. tak, rykkur; áreynsla; dráttarskip (sbr. %[tugboat]%); [~ of war] reipitog
 tuition n. umsjón; kennsla, fræðsla; kennslukaup ([~ fee, ~ money])
 tuitional l. [~ school] kaupskóli
 tuitionary l. sem lýtur að kennslu

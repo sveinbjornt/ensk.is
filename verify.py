@@ -45,7 +45,7 @@ import re
 from islenska import Bin
 from tokenizer import tokenize
 
-from util import read_raw_pages, read_wordlist, parse_line
+from util import read_raw_pages, read_wordlist, parse_line, read_all_words
 
 
 IS_WORDS_WHITELIST = read_wordlist("data/is.whitelist.txt")
@@ -55,6 +55,8 @@ EN_WORDS_WHITELIST = read_wordlist("data/en.whitelist.txt")
 EN_WORDS_LIST.extend(EN_WORDS_WHITELIST)
 
 CATEGORIES = read_wordlist("data/catwords.txt")
+
+ALL_DICT_WORDS = read_all_words()
 
 bin = None  # Lazily initialized BÍN instance
 
@@ -123,6 +125,16 @@ def check_bracket_use(line: str, pn, ln: int):
     if "~" in lc:
         print(line)
         warn("~ char outside brackets", pn, ln)
+
+
+def check_intradict_refs(line: str, pn, ln: int):
+    if not "%[" in line:
+        return
+
+    words_matched = re.findall(r"%\[(.+?)\]%", line)
+    for w in words_matched:
+        if w not in ALL_DICT_WORDS:
+            warn(f"Intra-dictionary reference to non-existent word {w}", pn, ln)
 
 
 def check_english_words(line: str, pn, ln: int):
@@ -258,6 +270,7 @@ def verify():
             check_punctuation(line, letter, ln)
             check_category(line, letter, ln)
             check_bracket_use(line, letter, ln)
+            check_intradict_refs(line, letter, ln)
             # check_icelandic_words(line, letter, ln)
             # check_english_words(line, letter, ln)
             # check_enword_def(line, letter, ln)

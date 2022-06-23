@@ -341,7 +341,7 @@ scion n. lítil grein; frjókvistur; afsprengur, afkomandi ([a ~ of a royal stoc
 scission n. klofning
 scissor s. klippa
 scissors n. ft. skæri ([a pair of ~])
-Sclavonian l. slavneskur; sbr. [Slavic]
+Sclavonian l. slavneskur; sbr. %[Slavic]%
 scoff s. spottast (hæðast) að ([at]); n. spott, háð
 scoffer n. spottari
 scoffingly ao. í háði, hæðnislega
@@ -387,7 +387,7 @@ scrap iron n. járnarusl
 scrap metal n. brotamálmur (sem steyptur er upp aftur)
 scrape s. klóra, skafa, rífa, nugga; sarga (á hljóðfæri); draga annan fótinn aftur um leið og heilsað er; [~ one's feet] þurrka af fótunum; [~ acquaintance with] koma sér í mjúkinn hjá; [~ up] reyta saman (peninga); n. djúp hneiging; vandræði, bobbi; [to be in a ~] vera í vanda staddur
 scraper n. skafa; nirfill
-scrappy l. sem samanstendur af molum eða brotum; sbr. [scrap]
+scrappy l. sem samanstendur af molum eða brotum; sbr. %[scrap]%
 scratch s. klóra, rifa; rispa; skafa; hripa; [~ out] strika út; n. klór; rispa, skeina; [to come up to the ~] ganga hiklaust í bardagann
 scrawl s. klóra, hripa ([~ a letter]); n. hrip, klór
 screak s. skrækja
@@ -857,7 +857,7 @@ sheath n. slíður, skeiðar
 sheathe s. sliðra, láta í skeiðar; klæða (skip) málmþynnum
 sheathing n. (málm)-þynnur utan á skipsskrokk
 sheave n. tríssuhjól
-shed s. hella út (blóði, tárum); fella (blöð, fjaðrir, tennur, horn); [the serpents ~ their skin] hleypa hömum; [a covering of oiled cloth ~s water] vatnið hrín ekki á, hripar af olíudúk; n. úthelling (sbr. [bloodshed]); vatnaskil, vörp (sbr. [water~])
+shed s. hella út (blóði, tárum); fella (blöð, fjaðrir, tennur, horn); [the serpents ~ their skin] hleypa hömum; [a covering of oiled cloth ~s water] vatnið hrín ekki á, hripar af olíudúk; n. úthelling (sbr. %[bloodshed]%); vatnaskil, vörp (sbr. %[watershed]%)
 shedder n. úthellari
 shed n. byrgi, skýli; kofi
 sheen n. skin, bjarmi
@@ -1245,7 +1245,7 @@ size n. þunnt lím, límvatn; gljákvoða; s. draga límvatn (gljákvoðu) á
 sizy l. límkenndur, kvoðulegur, seigur
 sizzle n. snark; s. snarka
 skald n. norrænt fornskáld
-skaldic l. skálda-; sbr. [scald]
+skaldic l. skálda-; sbr. %[scald]%
 skate n. skata
 skate n. skauti; [a pair of ~s] einir skautar; s. renna á skautum
 skateable l. sem fara má á skautum ([~ ice])
@@ -1345,7 +1345,7 @@ slaver n. slefa; s. slefa; slefa á e-ð
 slaverer n. slefari
 slavery l. slefukenndur
 slave trade n. þrælaverslun
-slavic l. slavneskur
+Slavic l. slavneskur
 slavish l. þrællundaður
 Slavonian l. slavneskur; n. Slavi; slavneska
 Slavonic l. slavneskur
@@ -1384,7 +1384,7 @@ slender l. grannur, mjór ([~ stem]); grannvaxinn ([~ girl]); veikur; lítilfjö
 sleuth n. spor, slóði
 sleuthhound n. sporhundur
 slew s. snúa (snara) sér í kring ([round])
-sley n. vefjarskeið, sbr. [slay]
+sley n. vefjarskeið, sbr. %[slay]%
 slice n. stykki, sneið ([a ~ of bread, cheese]); fiskspaði; s. skera í þunnar sneiðar, sneiða; skipta
 slick l. fimur; hreinn og beinn; ao. beint, alveg ([hit him ~ in the eye])
 slide s. renna; renna sér fótskriðu; líða; láta renna; smeygja; n. fótskriðusvell; rennibraut; fótskriða; rennilok
@@ -1826,7 +1826,7 @@ sparkle n. neisti; s. skjóta úr sér neistum, sindra; blika, glóa; freyða (u
 sparkling l. skínandi; freyðandi
 sparrow n. spörfugl
 sparrow hawk n. spörhaukur
-sparry l. sem líkist spati (sbr. spar)
+sparry l. sem líkist spati (sbr. %[spar]%)
 sparse l. dreifður, strjáll, gisinn
 sparsely ao. strjált, dreift
 Spartan l. spartverskur ([~ simplicity, ~ endurance, ~ discipline])

@@ -86,7 +86,7 @@ gamesome l. gamansamur
 gamester n. spilamaður (sem spilar um peninga)
 gaming-house n. spilahús
 gaming table n. spilaborð
-gammer n. kerlingartetur (sbr. [gaffer])
+gammer n. kerlingartetur (sbr. %[gaffer]%)
 gammon n. reykt svínslæri; e.k. tafl; gabb; svik; s. salta og reykja; gabba, svíkja; vinna í tafli (kotru, sjá %[backgammon]%)
 gamut n. tónstigi
 gamy l. sem veiðidýrabragð er af; veiðisæll ([a ~ district]); veiði-; hugaður, áræðinn
@@ -327,7 +327,7 @@ girth n. gjörð, söðulgjörð; ummál; s. gyrða (hest eða söðul)
 gist n. mergur málsins, aðalatriði ([the ~ of the matter])
 give s. gefa; veita; kveða upp ([~ a decision, judgement]); láta undan; verða vægari (um veður); fara að hlána; [~ me the pen] fáðu mér pennann; [~ no sign of life] sýna ekkert lífsmark; [he gave a terrific scream] hann rak upp ógurlegt öskur; [~ way, ~ ground] víkja, hörfa undan; [~ battle] eiga orustu; [~ chase] elta; [~ ear] ljá eyra; [~ one to understand] láta e-n skilja á sér, gefa e-m í skyn; [~ one a call] heimsækja (e-n) stuttlega; [~ trouble] valda ónæði; [the weather ~s] það dregur úr kuldanum; [~ out] lýsa yfir, skýra frá; bila, þrjóta ([his strength gave out]); [~ oneself out to be a learned man] þykjast vera lærður maður; [it was given out, that] það var látið heita svo, að; [~ over] hætta við (t.d. tilraun); leggja niður ([~ up a habit, mode of life]); ofurselja, selja e-n í hendur e-m ([to one]); [~ him over (up) for lost] vera alveg úrkula vonar um hann, telja hann af; [~ up] gefa upp, láta af hendi; selja fram; slá e-u frá sér, hætta við, sleppa; [he gave himself up to study] hann sökkti sér niður í bóknám
 given l. hneigður (til e-s [to])
-giver n. gjafari, gefandi; -gjafi (sbr. [law-~, light-~])
+giver n. gjafari, gefandi; -gjafi ([law-~, light-~])
 gizzard n. fóarn, fuglsmagi; [to frat one's ~] kvarta og kveina
 glabrous l. snoðinn, sléttur (um stöngul og blöð)
 glacial l. ískaldur, jökulkaldur; jökul-, ís-; [~ period] ísöldin

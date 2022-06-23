@@ -959,7 +959,7 @@ luculent l. bjartur; auðsær; ljós, skýr
 ludicrous l. hlægilegur, skringilegur
 ludicrously ao. hlægilega
 luff s. sigla á veður (upp í vindinn); n. veðurborði
-lug s. draga, toga ([~ by the ear]); n. eyra (einnig á íláti); fjörumaðkur, sbr. [lobworm]
+lug s. draga, toga ([~ by the ear]); n. eyra (einnig á íláti); fjörumaðkur, sbr. %[lobworm]%
 luggage n. farangur
 lugger n. logorta (skip)
 lugubrious l. sorglegur; sorgar-

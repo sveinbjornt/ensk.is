@@ -162,7 +162,6 @@ unctuous l. fitugur; þvalur ([~ minerals]); hátíðlegur (í ræðu)
 uncurrent l. ógjaldgengur ([~ coin, ~ money])
 uncut l. óklipptur; óskorinn; óhögginn; óuppskorinn
 undamaged l. óskaddaður, óskemmdur
-undated l. bylgjumyndaður (sbr. [undulated])
 undated l. ódagsettur
 undaunted l. óskelfdur, hugaður; [~ spirit] hugprýði
 undeceive s. leiða úr villu, opna augun á e-m
@@ -238,6 +237,7 @@ undress s. afklæða, færa úr fötunum; taka umbúðir af (sári); afklæða s
 undressed l. óklæddur; [~ leather] ósútað (óverkað) skinn
 undue l. ótilhlýðilegur; ekki kominn í gjalddaga
 undulate s. (láta) ganga í bylgjum
+undulated l. bylgjumyndaður
 undulation n. bylgjuhreyfing; bylgjugangur
 undulatory l. sem gengur í bylgjum; bylgjumyndaður; bylgju-
 undutiful l. óskyldurækinn; óhlýðinn
