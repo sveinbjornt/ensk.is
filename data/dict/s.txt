@@ -408,7 +408,7 @@ screw wrench n. skrúfulykill
 scribble s. hripa upp; hnoða (e-u) saman
 scribbler n. lélegur eða ómerkilegur rithöfundur
 scribe n. skrifari; ritningafróður maður (hjá Gyðingum)
-scrimage n. áflog
+scrimmage n. áflog, ryskingar; átakalína
 scrimp l. lítill, naumur; n. svíðingur; s. gera (e-ð) of lítið, klipa af (e-u)
 scrimpingly ao. sparlega, spart
 scrip n. skreppa, lítill poki; seðill; bráðabirgðahlutabréf
@@ -2188,6 +2188,7 @@ stammerer n. stamari
 stamp s. stappa ([~ one's feet]); þrýsta (marki) á (með e-u [with]); stimpla; frímerkja; móta, slá (peninga); [~ oneself as being no judge of (painting)] sýna að maður hefur ekki vit á e-u; [~ out] uppræta; n. stapp (með fótunum); mót, mark; frímerki; stimpill; tegund, tægi ([a man of the same ~])
 stampede n. æðislegur flótti (nautpenings eða hesta); snöggur ótti; s. reka á flótta, fæla
 stance n. staða; stæði; hússtæði, tjaldstæði ([a ~ for a house, for a tent])
+stanch l. sjá %[staunch]%
 staunch s. stöðva (blóðrás); sefa; stöðvast, hætta að renna; l. sterkur og þéttur; fastur (í skoðunum); staðfastur; trúr, tryggur; áreiðanlegur; ákafur
 stanchion n. skorða
 stand s. standa; standa kyrr, staðnæmast; haldast; vera; halda, stefna (um skip); standast, þola ([~ the cold, heat]); láta e-ð af hendi rakna; [as things (matters) ~] eftir því sem málunum er komið; [~ at trifles] hika við smámuni, láta smámuni fæla sig; [~ fire] standast skothríðina; [~ one's ground] halda stöðu sinni, halda velli; [~ treat] kosta veitingarnar; [~ against] standa á móti; [~ aside] ganga úr vegi, stíga til hliðar; [~ by] vera viðstaddur; aðstoða, verja; standa við; bregðast ekki ([~ by an agreement]); vera komið undir; [~ for] verja, styðja ([a person, his cause]); vera sama sem, þýða; stefna (um skip); [~ for nothing] vera einskisvirði; [~ for (a constituency)] bjóða sig fram (í e-u kjördæmi); [~ in need of] þarfnast, vanta; [~ indebted to] vera skuldbundinn e-m; [~ off] standa álengdar; færast undan; [we stood off the cape] vér vorum fram undan höfðanum; [~ off and on] sigla að og frá landi; vera á báðum áttum; [~ out] standa út, skaga fram; láta ekki undan; [~ out from] gnæfa yfir; [~ out for] halda (e-u) fram, verja; [~ to] standa við, efna ([~ to promise]); halda (e-u) föstu; [it ~s to reason] það er eðlilegt (auðvitað, auðskilið); [~ up] standa (rísa) upp; standa uppréttur; [~ up for] verja; [~ upon] meta mikils ([she stood upon her rank]), vera fastur á (e-u)
@@ -2256,7 +2257,6 @@ statutable l. lagalegur; lögákveðinn
 statute n. lög, lagaboð; samþykkt; [~ law] skrifuð lög
 statute book n. lögbók
 statutory l. lagalegur; lögákveðinn; [a ~ provision] lagaákvæði
-staunch l. sjá %[stanch]%
 stave n. tunnustafur; erindi, vers; rim í stiga; s. fella í stafi; [~ off] reka burt; fresta
 stay s. bíða ([~ here until I return]); dvelja ([~ at a hotel, in town]); standa við; reiða sig (á [upon]); stöðva ([~ the progress of a disease]); halda (e-m) aftur; tefja; fresta ([~ a decision]); [~ away] koma ekki, sitja heima; [~ one's stomach] sefa hungrið; [~ dinner] bíða eftir miðdegisverði; [he is ~ing with] hann er í heimsókn hjá; n. vera, dvöl, viðstaða, bið; töf, hindrun; stoð; þol; höfuðbenda, stag (kaðall); ft. kot, lífstykki; [make a short (long) ~] standa stutt (lengi) við
 staylace n. lífstykkisreim

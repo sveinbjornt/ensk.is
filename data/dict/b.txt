@@ -1075,9 +1075,9 @@ breeches n. ft. brækur
 breechloader n. afturhlæða (byssa)
 breed s. ala, fæða; framleiða, geta af sér; ala upp, rækta ([~ cattle]); kvikna; koma upp; n. kynferði; kyn
 breeding n. uppeldi; góðir siðir ([good ~])
-breeding-hen n. eggsjúk hæna
-breeding-mare n. stóðmeri
-breeding-place n. varpstöð
+breeding hen n. eggsjúk hæna
+breeding mare n. stóðmeri
+breeding place n. varpstöð
 breeze n. hægur vindur; þræta, uppþot
 breezy l. vindasamur; hvass, svalur
 brent-goose n. margæs, hrotgæs

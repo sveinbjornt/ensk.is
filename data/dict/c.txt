@@ -404,7 +404,8 @@ cathartic l. hreinsandi, geðhreinsandi; búkhreinsandi; n. búkhreinsunarlyf
 cathedra n. biskupssæti í kirkju; biskupsstóll
 cathedral l. biskupslegur; n. dómkirkja, höfuðkirkja
 catheter n. þvagpípa
-catholic l. almennur; kaþólskur; n. kaþólskur maður
+catholic l. almennur
+Catholic n. kaþólskur maður l. kaþólskur; [Catholic priest] kaþólskur prestur
 Catholicism n. kaþólsk trú, kaþólska
 catholicity n. frjálslyndi
 catkin n. hreisturblóm
@@ -2456,6 +2457,7 @@ craw n. sarpur (í fugli)
 crawfish n. fljótakrabbi; sjá %[crayfish]%
 crawl s. skríða, skreiðast; vera kvikur (af e-u [with]); klæja
 crayon n. teiknikrít
+crayfish n. vatnakrabbi, fljótakrabbi
 craze s. brjála, æra; brjálast, ærast; n. æði, brjálun; æðisleg löngun
 crazed l. brjálaður
 crazy l. vitskertur, brjálaður, geðbilaður; hrörlegur ([a ~ house, ship])

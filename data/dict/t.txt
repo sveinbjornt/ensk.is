@@ -620,9 +620,10 @@ tickle s. kitla, fiðra við; [my foot ~s] mig klæjar í fótinn
 tickling n. kitl, fiðringur; löngun
 ticklish l. kitlugjarn; vandasamur; valtur ([a ~ boat])
 tidal l. sem lýtur að (eða er kominn undir) flóði og fjöru (eða sjávarföllum); [the ~ portion of the river] sá hluti árinnar sem fellur að og út í; [~ wave] flóðbylgja
-tide n. tími ([even~]); sjávarfall; aðfall og útfall, flóð og fjara ([high, low ~]); straumur; stefna; [the ~ is in/up] það er flóð; [the ~ is out/down] það er fjara; [the tide rises] það er aðfall; [work double ~s] vinna allt hvað af tekur; s. reka (róa, sigla, berast) með straumnum; henda (sjá %[betide]%); [~ over a difficulty] komast úr vanda
+tide n. tími ([even~], %[Yuletide]%); sjávarfall; aðfall og útfall, flóð og fjara ([high, low ~]); straumur; stefna; [the ~ is in/up] það er flóð; [the ~ is out/down] það er fjara; [the tide rises] það er aðfall; [work double ~s] vinna allt hvað af tekur; s. reka (róa, sigla, berast) með straumnum; henda (sjá %[betide]%); [~ over a difficulty] komast úr vanda
 tidewaiter n. tollþjónn, tollvörður
-tidewave n. flóð flóðbylgja (sbr. %[tidal wave]%)
+tidewave n. flóð, flóðbylgja (sbr. %[tidal wave]%)
+tidal wave n. flóðbylgja
 tidiness n. snyrtilegheit, snoturleiki
 tidy l. snyrtilegur, snotur, þokkalegur; dálaglegur ([a ~ penny, a pretty penny]); n. stóla- eða sófaskýla; ermasvunta (á barn); s. laga til, taka til, snyrta til (í herbergi)
 tidings n. ft. tíðindi

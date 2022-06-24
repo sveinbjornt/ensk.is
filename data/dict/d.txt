@@ -1525,7 +1525,8 @@ doveky n. teista
 dovetail s. geirnegla; n. geirnagli
 dovetailing n. geirnegling
 dowager n. ekkja (af háum stigum); [queen ~] drottning sem er ekkja
-dowdy n. subba; l. subbulegur (sjá %[dowdyish]%)
+dowdy n. subba; l. subbulegur (sjá einnig %[dowdyish]%)
+dowdyish l. subbulegur
 dowel n. blindingur, trénagli, hauslaus nagli
 dower n. heimanmundur, heimanfylgja; s. gefa heimanmund; útbúa (með e-u)
 dowerless l. heimanfylgjulaus, félaus, fátækur
