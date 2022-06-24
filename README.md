@@ -1,5 +1,5 @@
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
-[![Python 3.7](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+[![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/)
 [![Build](https://github.com/sveinbjornt/ensk.is/actions/workflows/python-app.yml/badge.svg)]()
 
 # ensk.is
@@ -67,7 +67,7 @@ $ uvicorn app:app --reload
 
 ## Development
 
-All new dictionary entries should be appended to [ta/dict/_add.txt](data/dict/_add.txt).
+All new dictionary entries should be appended to [data/dict/_add.txt](data/dict/_add.txt).
 
 To verify the syntax and references of all entries, you can run:
 
