@@ -65,6 +65,16 @@ Run the web application via [`uvicorn`](https://www.uvicorn.org/):
 $ uvicorn app:app --reload
 ```
 
+## Development
+
+All new dictionary entries should be appended to [ta/dict/_add.txt](data/dict/_add.txt).
+
+To verify the syntax and references of all entries, you can run:
+
+```
+$ python verify.py
+```
+
 ## Dictionary License
 
 This dictionary is in the public domain within all countries where permitted.
