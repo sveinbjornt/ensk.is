@@ -1035,7 +1035,7 @@ clerk n. skrifari, bókhaldari; djákni; [~ in holy orders] klerkur (djákni, pr
 clever l. fimur, liðugur; duglegur, gáfaður; kunnáttulegur
 cleverness n. fimleiki; gáfur; kunnátta
 clew n. hnykill; leiðarvísir, lykill (að e-u, [this affords a ~ to the whole]); skaut á segli; sbr. %[clue]%
-click n. tif (í úri); skellur; s. tifa (um úr); skella, slá ([they ~ed their glasses together])
+click n. tif (í úri); smellur; skellur; s. tifa (um úr); smella; skella, slá ([they ~ed their glasses together])
 client n. skjólstæðingur; viðskiptavinur
 clientage n. skjólstæðingaflokkur; skjólstæðingsskapur
 clientele n. viðskiptavinir
@@ -1846,7 +1846,7 @@ consanguineous l. skyldur; [~ marriage] milli skyldra
 consanguinity n. frændsemi, skyldleiki
 conscience n. samviska ([good, bad, evil ~]); [liberty of ~] samviskufrelsi; [matter of ~] samviskusök; [for ~' sake] vegna samvisku minnar
 conscientious l. samviskusamur, samvisku-; skyldurækinn
-conscientiousness n. samviskusemi
+conscientiousness n. samviskusemi; skyldurækni
 conscionable l. samviskusamur
 conscious l. (sér) meðvitandi; gæddur meðvitund; þóttafullur
 consciousness n. meðvitund; [recover ~] rakna við aftur
