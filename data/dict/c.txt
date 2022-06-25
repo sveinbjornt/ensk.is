@@ -65,7 +65,7 @@ caller n. kallari, heimsækjandi, gestur
 calling n. kall, köllun; atvinna, lífsstaða, lífsköllun ([~ in life]); prestsembætti
 calligrapher n. skrautskrifari
 calligraphy n. skrautskrift, skrautritun
-callosity n. sigg
+callosity n. sigg, þykknun húðar
 callous l. harðbrjósta, harðlyndur, tilfinningalaus; harður (um hörundið)
 callow l. fjaðralaus; fiðurlaus, snoðinn; óreyndur
 calm l. kyrr; hægur, friðsamur; n. kyrrð; rósemi; logn; [dead ~] ládeyða; [it fell dead ~] það gerði blæja logn; s. stilla, sefa; [~ down] lægja (um vind)
@@ -155,7 +155,7 @@ canopy n. hásætishiminn; sængurhiminn; skýli; hvelfing; s. skýla, þekja, h
 canorous l. hljómfagur; hvellur ([a ~ peal of laughter])
 cant n. halli; s. sníða (horn) af; halla, reisa á rönd; hvolfa; kasta, velta ([~ him out of the saddle])
 cant n. þjófamál, skrílmál; hræsnismál; s. tala kjökrandi (og hræsnislega); tala þjófamállýsku
-cantankerous l. nöldrunarsamur ([a ~ husband])
+cantankerous l. nöldursamur, nöldrunarsamur ([a ~ husband])
 cantata n. hátíðaljóð
 canteen n. matsölubúð hermanna; skrín með eldhúss- og borðáhöldum; hermannaflaska
 canter n. hræsnari
@@ -1255,7 +1255,7 @@ cogitate s. hugsa
 cogitation n. hugsun, umhugsun
 cogitative l. hugsandi ([after a ~ pause])
 cognac n. koníak
-cognate l. skyldur (e-u [with]); n. ættingi, frændi; móðurfrændi
+cognate l. skyldur (e-u [with]), samstofna; n. ættingi, frændi; móðurfrændi
 cognation n. skyldleiki
 cognition n. þekking
 cognizable l. þekkjanlegur, skiljanlegur; [~ offence] misgerð, sem varðar við lög
@@ -2591,7 +2591,7 @@ crown n. blómhringur; kóróna; krúna, (konungs)ríki; króna (peningur); hvir
 crowning n. krýning
 crozier n. bagall, sjá %[crosier]%
 crucial l. krossmyndaður, kross- ([~ flowers]); úrslitalegur
-crucible n. deigla
+crucible n. deigla; eldraun
 crucifix n. róðukross
 crucifixion n. krossfesting
 cruciform l. krossmyndaður

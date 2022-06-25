@@ -533,9 +533,9 @@ bib s. sötra; smádrekka; n. hökuspeldi; brjóstspeldi
 bibber n. þjórari ([bibber of wine, beer])
 bible n. biblía, heilög ritning
 biblical l. biblíulegur
-bibliography n. bókfræði
-bibliomania n. bókasótt
-bibliomaniac n. vitlaus í bækur
+bibliography n. bókfræði; bókaskrá, heimildaskrá
+bibliomania n. bókasótt, bókaæði
+bibliomaniac n. sem er óður í bækur
 bibliophile n. bókavinur
 bibliopole n. bóksali (sem selur sjaldgæfar bækur)
 bibulous l. sem sogar í sig; drykkfelldur

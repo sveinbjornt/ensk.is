@@ -359,15 +359,15 @@ async def api_item(request: Request, w) -> JSONResponse:
     return JSONResponse(content=results[0])
 
 
-@app.post("/api/report_missing/{w}")
-async def api_report_missing(request: Request) -> JSONResponse:
-    """Report that a word is missing from the dictionary."""
-    if not w:
-        return _err("Missing 'w' parameter")
-    w = w.strip()
-    if not w:
-        return _err("Empty 'w' parameter")
-    if w in all_words:
-        return _err(f"Word '{w}' is already in the dictionary")
+# @app.post("/api/report_missing/{w}")
+# async def api_report_missing(request: Request) -> JSONResponse:
+#     """Report that a word is missing from the dictionary."""
+#     if not w:
+#         return _err("Missing 'w' parameter")
+#     w = w.strip()
+#     if not w:
+#         return _err("Empty 'w' parameter")
+#     if w in all_words:
+#         return _err(f"Word '{w}' is already in the dictionary")
 
-    return JSONResponse(content={"success": True})
+#     return JSONResponse(content={"success": True})

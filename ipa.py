@@ -41,6 +41,9 @@ import subprocess
 
 from db import EnskDatabase
 
+SKIP = frozenset(("barcode", "box-office", "roleplay"))
+
+
 entries = EnskDatabase().read_all_additions()
 
 no_ipa = [e["word"] for e in entries if e["ipa_uk"] == ""]
@@ -48,7 +51,7 @@ no_ipa = [e["word"] for e in entries if e["ipa_uk"] == ""]
 print(f"Num w. no IPA: {len(no_ipa)}")
 
 for e in no_ipa:
-    if " " in e:
+    if " " in e or e in SKIP:
         continue
 
     try:
@@ -66,4 +69,4 @@ for e in no_ipa:
     if len(s) > 1:
         c = s[-1]
 
-    print(e + ": " + str(c) + ",")
+    print(f'"{e}": "{str(c)}",')
