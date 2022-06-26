@@ -43,7 +43,7 @@ import os
 import subprocess
 from os.path import exists
 
-from util import read_all_words
+from dict import read_all_words
 
 
 _SPEECHSYNTH_CLT = "/usr/bin/say"  # Requires macOS

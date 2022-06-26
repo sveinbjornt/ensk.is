@@ -45,7 +45,8 @@ import re
 from islenska import Bin
 from tokenizer import tokenize
 
-from util import read_raw_pages, read_wordlist, parse_line, read_all_words
+from dict import read_raw_pages, parse_line, read_all_words
+from util import read_wordlist
 
 
 IS_WORDS_WHITELIST = read_wordlist("data/is.whitelist.txt")

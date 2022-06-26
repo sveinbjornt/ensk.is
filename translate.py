@@ -37,13 +37,12 @@
 
 """
 
-import json
 import time
 import random
 
 import requests
 
-from util import read_all_words
+from dict import read_all_words
 
 
 dictwords = read_all_words()

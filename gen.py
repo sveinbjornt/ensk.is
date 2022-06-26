@@ -44,8 +44,9 @@ import csv
 
 import sqlite_utils
 
-from util import read_pages, parse_line, page_for_word, zip_file, read_json
+from dict import read_pages, parse_line, page_for_word
 from db import EnskDatabase, DB_FILENAME
+from util import zip_file, read_json
 
 
 EntryType = Tuple[str, str, str, str, int]

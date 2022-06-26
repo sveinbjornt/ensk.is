@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from util import read_raw_pages, parse_line
+from dict import read_raw_pages, parse_line
 from db import EnskDatabase
 
 e = EnskDatabase()
