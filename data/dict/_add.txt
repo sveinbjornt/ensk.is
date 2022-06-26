@@ -678,6 +678,7 @@ Micronesia n. Míkrónesía
 Moldova n. Moldóva
 Monaco n. Mónakó
 Mongolia n. Mongólía
+Mongol n. Mongóli
 Montenegro n. Svartfjallaland
 Morocco n. Marokkó
 Mozambique n. Mósambík
@@ -938,3 +939,6 @@ nightlife n. næturlíf
 annoying l. pirrandi, ergjandi, truflandi
 supervision n. eftirlit, (yfir)umsjón
 time zone n. tímabelti
+hegemon n. forystuveldi, forræðisveldi, forysturíki
+hegemonic l. forystuveldis-, forystu-, forræðis-; sjá %[hegemony]%
+bloc n. fylking, þjóðafylking ([the Eastern bloc], [the Western bloc])
