@@ -242,7 +242,7 @@ genus n. ætt, kyn
 geognosy n. jarðlagafræði, jarðfræði
 geogony n. jarðmyndunarfræði
 geographer n. landafræðingur
-geographical l. landafræðilegur
+geographical l. landafræðilegur; sjá einnig %[geographic]%
 geography n. landafræði
 geological l. jarðfræðilegur
 geologist n. jarðfræðingur
@@ -253,8 +253,7 @@ geometrical l. rúmmálslegur; mælinga-
 geometrician n. rúmmálsfræðingur
 geometry n. mælingafræði, rúmmálsfræði
 gerfalcon n. geirfálki
-germ n. sýkill; frjóangi; s. skjóta frjóöngum; kvikna, lifna
-german l. náskyldur; [cousins ~] systkinabörn
+germ n. sýkill, baktería; frjóangi; s. skjóta frjóöngum; kvikna, lifna
 germane l. náskyldur, nátengdur
 German l. þýskur; n. Þjóðverji; þýska
 Germanic l. germanskur
@@ -263,7 +262,7 @@ germinate s. skjóta frjóöngum; geta af sér, framleiða
 gestation n. meðgöngutími ([period of ~])
 gesticulate s. baða höndum og hreyfa líkamann; pata
 gesticulation n. látbragð
-gesture n. látbragð, limaburður
+gesture n. látbragð, limaburður, tilburður; hreyfiskipun
 get s. fá, ná í, útvega; fá til; komast ([~ into, out of a place]); verða ([~ well, ready]); [~ by heart] læra utan að; [~ drunk] verða drukkinn; [it is ~ting dark] það er farið að dimma; [I did not ~ so far] ég komst ekki svo langt; [~ you gone] snáfaðu í burtu; [what have you got] hvað hafið þér? [~ along] komast áfram; komast af (án e-s [without something]); [~ along well together] koma sér vel saman; [~ at] komast að e-u, ná í e-ð; [~ away] komast, fara í burtu; [~ off] koma (e-u) burt; losast við; losna, komast burtu; [~ on] komast af (án e-s [without]); [~ on with one] koma sér saman við e-n; [~ on in the world] komast áfram í veröldinni; [~ out] fara (stíga) út (t.d. úr vagni); [~ over] fara, komast yfir; bíða (e-s) bætur; vinna bug á; [~ through] komast í gegnum; [~ through with a bill] koma laganýmæli fram; [~ up] reisa við; koma (e-u) til leiðar; standa upp; fara á fætur
 gettable l. fáanlegur
 gewgaw n. leikfang, glys, glingur, barnaglingur
@@ -297,7 +296,7 @@ gift n. gjöf; hæfileiki, gáfa; [to have the ~ of] vera náttúraður fyrir; s
 gifted l. gáfaður, hæfileikaríkur
 giftedness n. gáfur
 gig n. tvíhjólaður léttivagn; bátur; s. aka í léttivagni
-gigantic l. tröllslegur, risavaxinn; afskaplegur
+gigantic l. tröllslegur, risavaxinn, gríðarstór; afskaplegur
 giggle s. flissa, skríkja; n. fliss, skríkjur
 gigglement n. skríkjur
 giggler n. sá sem er síflissandi

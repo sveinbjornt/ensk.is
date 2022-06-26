@@ -38,9 +38,16 @@
 
 """
 
+import sys
 
 from db import EnskDatabase
 from util import read_wordlist
+
+
+# Path to wordlist file can be specified as first argument
+WORDLIST_PATH = "data/wordlists/google-10000-english.txt"
+if len(sys.argv) > 1:
+    WORDLIST_PATH = sys.argv[1]
 
 # Initialize database singleton
 e = EnskDatabase()
@@ -51,10 +58,9 @@ res = e.read_all_entries()
 dict_words = [e["word"].lower() for e in res]
 
 
-top10k = read_wordlist("data/wordlists/google-10000-english.txt")
+wds = read_wordlist("data/wordlists/google-10000-english.txt")
 
-for t in top10k:
+for t in wds:
     if t.lower() not in dict_words:
         if not t.endswith("s"):
-            #     if t[:-1] not in dict_words:
             print(t)
