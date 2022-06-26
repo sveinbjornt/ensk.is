@@ -41,7 +41,73 @@ import subprocess
 
 from db import EnskDatabase
 
-SKIP = frozenset(("barcode", "box-office", "roleplay"))
+SKIP = frozenset(
+    (
+        "barcode",
+        "box-office",
+        "roleplay",
+        "anarcho-capitalism",
+        "anarcho-capitalist",
+        "animalistic",
+        "Aruba",
+        "bibliographer",
+        "biodome",
+        "bioengineer",
+        "blowjob",
+        "coedit",
+        "cretinism",
+        "cromulent",
+        "encave",
+        "endogamous",
+        "gangbang",
+        "geoheliocentrism",
+        "Guadeloupe",
+        "Guam",
+        "guestbook",
+        "hagiographer",
+        "hagiographical",
+        "haitch",
+        "hierophantic",
+        "honkey",
+        "honkie",
+        "immunocompromisation",
+        "immunodeficient",
+        "inswathe",
+        "isomorphism",
+        "katana",
+        "Martinique",
+        "Mayotte",
+        "mediascape",
+        "megacorporation",
+        "neo-nazi",
+        "neo-nazism",
+        "neurochemical",
+        "neurodegeneration",
+        "newswire",
+        "newswoman",
+        "paleolithic",
+        "querulant",
+        "seeress",
+        "seneschal",
+        "sociobiology",
+        "spectrography",
+        "starship",
+        "Svalbard",
+        "telepath",
+        "tergum",
+        "thermophile",
+        "thermophilic",
+        "timbal",
+        "Timor-Leste",
+        "Tokelau",
+        "volcanological",
+        "wishlist",
+        "wyvern",
+        "xenolith",
+        "zombify",
+        "zoophilia",
+    )
+)
 
 
 entries = EnskDatabase().read_all_additions()
@@ -61,6 +127,7 @@ for e in no_ipa:
         continue
 
     if not out:
+        print(f"SKIP: {e}")
         continue
     comp = out.split("\n")
     c = comp[0]

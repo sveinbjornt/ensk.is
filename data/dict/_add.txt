@@ -79,7 +79,8 @@ baseball n. hafnabolti (bandarísk íþrótt)
 jet n. þota (þrýstiloftsflugvél)
 automobile n. bifreið
 kleptocracy n. þjófræði (stjórnarfyrirkomulag þar sem æðstu ráðamenn stela frá almenningi)
-website n. vefsíða, vefsetur
+website n. vefsíða, vefsetur (á veraldarvefnum)
+web page n. vefsíða (á veraldarvefnum)
 homepage n. heimasíða (á veraldarvefnum)
 screenshot n. skjáskot
 neoliberalism n. nýfrjálshyggja
@@ -886,3 +887,53 @@ Caledonia n. Kaledónía (forn-rómverskt heiti yfir það svæði sem er í dag
 pricing n. verðlagning
 manually ao. handvirkt
 callus n. sigg
+vacuum cleaner n. ryksuga
+bibliographer n. bókfræðingur
+bibliographic l. bókfræðilegur, bókfræði-
+motherboard n. móðurborð (í vélbúnaði)
+pasta n. pasta (deig gert úr hveiti)
+spaghetti n. spagettí, hveitilengjur (tegund af %[pasta]%)
+acrylic l. akríl-
+allergy n. ofnæmi
+organizer n. skipuleggjari, skipuleggjandi
+aerospace n. flugiðnaður, flugtækni, flugverkfræði
+aerospace engineer n. flugvélaverkfræðingur, flugtæknifræðingur
+aeronautical l. flugvéla-, flugfars-
+aeronautical engineer n. flugvélaverkfræðingur
+fuck s. (óforml.) ríða, stunda kynlíf; n. dráttur, kynmök, samfarir; uh. helvítis! andskotinn! djöfullinn!
+shit n. kúkur, saur, drulla; s. kúka, skíta; uh. fjandinn! fjandans!
+tergum n. bakskjöldur
+quadroon n. afkomandi hvítrar manneskju og kynblendings (úrelt)
+PIN n. persónunúmer, persónulegt kenninúmer (stytt. á [personal identification number])
+HIV n. eyðniveira, alnæmisveira (stytt. á [human immunodeficiency virus])
+surrealism n. súrrealismi, fjarstæðustefna (stefna í listum og bókmenntum)
+surreal n. súrrealískt, fjarstæðukennt, sem ber svip af súrrealisma (sá %[surrealism]%)
+sleaze n. viðbjóður, spilling, svindl
+flab n. spik, fita
+yuppie n. (óforml.) uppi, ung fagmanneskja í þéttbýli (frá [young, urban professional])
+visa n. vegabréfsáritun, áritun, dvalarleyfi ([my visa has expired])
+viral l. veiru-
+technique n. aðferð, tækni; [parenting techniques] uppeldisaðferðir
+threesome n. þremenningur
+vitamin n. vítamín, fjörefni
+swinger n. manneskja sem stundar makaskipti
+timer n. tímamælir, skeiðklukka
+timeline n. tímalína
+toxic l. eitraður
+toxicity n. eiturvirkni
+someone n. einhver
+safari n. (dýra)skoðunarferð
+rugby n. ruðningur (ensk íþrótt)
+blackjack n. spilið 21; kylfa
+bunny n. (ung) kanína
+capitol n. höfuðborg; musteri
+dystopia n. dystópía
+xerox s. ljósrita (í N-Ameríku, sjá %[photocopy]%); [xerox machine] ljósritunarvél
+photocopy s. ljósrita
+photocopier n. ljósritunarvél
+behavioural l. atferlis-, hegðunar-
+technocracy n. tækniveldi
+technocrat n. tækniveldissinni
+nightlife n. næturlíf
+annoying l. pirrandi, ergjandi, truflandi
+supervision n. eftirlit, (yfir)umsjón

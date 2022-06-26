@@ -1,6 +1,5 @@
 a gr. óákveðinn greinir ([a book] bók); fs. á
 an gr. óákveðinn greinir ([an axe] öxi)
-afoot l. & ao. fótgangandi
 aback ao. aftur á bak; afsíðis; upp í vindinn; [be taken ~] verða bilt við, verða hissa
 abaft ao. í afturhluta skips; fs. fyrir aftan
 abandon s. yfirgefa; hætta við; selja í hendur; ofurselja
@@ -551,7 +550,7 @@ afire ao. í loga ([on fire]); [set ~] kveikja í
 aflame ao. í bál; í báli, logandi; ljómandi
 afloat ao. á flot; á floti; úti á sjó; í sjóleiðangri; í umferð ([various rumours were ~])
 aflush ao. blossandi
-afoot ao. gangandi ([he was mounted and I ~]); í hreyfingu
+afoot ao. gangandi, fótgangandi ([he was mounted and I ~]); í hreyfingu
 afore fs. fyrir framan ([~ the mast]); ao. áður, á undan
 aforegoing l. undanfarandi
 aforehand ao. fyrir fram
@@ -713,8 +712,7 @@ alien l. annarlegur, annara manna, útlendur; ólíkur, frábrugðinn ([from]); 
 alienable l. sem selja má í hendur annara, afhendilegur
 alienate s. fæla burtu; selja öðrum í hendur
 alienation n. fráfæling; afhending, afsal; [~ of mind, mental ~] sturlun
-alight s. stíga niður ([~ from a carriage]); fara af baki ([~ from a horse]); koma niður; setjast (um fugla)
-alight l. logandi; uppljómaður ([all ~ with the morning sun])
+alight l. logandi; uppljómaður ([all ~ with the morning sun]); s. stíga niður ([~ from a carriage]); fara af baki ([~ from a horse]); koma niður; setjast (um fugla)
 alike ao. eins, jafnt; l. líkur
 aliment n. næring, matur
 alimentary l. næringar-
