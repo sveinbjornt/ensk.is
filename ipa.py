@@ -40,6 +40,7 @@
 import subprocess
 
 from db import EnskDatabase
+from util import is_ascii
 
 SKIP = frozenset(
     (
@@ -111,6 +112,9 @@ SKIP = frozenset(
         "monotonal",
         "sado-masochism",
         "tesseract",
+        "Gaea",
+        "Gaia",
+        "gyrocopter",
     )
 )
 
@@ -122,7 +126,7 @@ no_ipa = [e["word"] for e in entries if e["ipa_uk"] == ""]
 print(f"Num w. no IPA: {len(no_ipa)}")
 
 for e in no_ipa:
-    if " " in e or e in SKIP:
+    if " " in e or e in SKIP or not is_ascii(e):
         continue
 
     try:

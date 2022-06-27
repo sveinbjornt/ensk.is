@@ -88,3 +88,8 @@ def human_size(path: str) -> str:
             return f"{size:.0f} {x}"
         size /= 1024.0
     return f"{size:.1f} TB"
+
+
+def is_ascii(s) -> bool:
+    """Check if string is ASCII"""
+    return all(ord(c) < 128 for c in s)
