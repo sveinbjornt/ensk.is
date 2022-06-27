@@ -437,7 +437,9 @@ operating system n. stýrikerfi
 user interface n. notendaviðmót, notendaskil
 pull request n. togbeiðni, dráttarbeiðni
 customize s. sérsníða, sérstilla
+customise s. sjá %[customize]%
 customization n. sérsnið, sérstilling
+customisation n. sjá %[customization]%
 trampoline n. trampólín
 stuntman n. áhættuleikari
 compiler n. e-r sem dregur saman (úr ritum); þýðandi (hugbúnaður)
@@ -797,7 +799,7 @@ lactose n. mjólkursykur, laktósi
 lactose intolerance n. mjólkuróþol, laktósaóþol
 amino acid n. amínósýra, hvítusýra
 zip n. þytur; s. þjótast, skjótast; hvína; opna eða loka rennilási; þjappa stafrænt skjal
-zoom s. þjóta; breyta vídd linsu (í ljósmyndun); þysja; [zoom in or out] þysja inn eða út
+zoom s. þjóta; breyta vídd linsu (í ljósmyndun); þysja ([zoom in or out] þysja inn eða út)
 ziggurat n. musteristurn, musterispíramídi, stallapíramídi
 Zion n. Síon (hæð í borginni Jerúsalem í Palestínu)
 Zionism n. síonismi (sú stefna að stofna sjálfstætt ríki gyðinga í Palestínu)
@@ -1013,3 +1015,23 @@ periodic table n. lotukerfið
 coupon n. miði, afsláttarmiði
 corporate l. fyrirtækja-, félags-
 facilitator n. sá sem greiðkar fyrir einhverju, gerir eitthvað einfaldara (sjá %[facilitate]%); umræðustjóri
+scenario n. aðstæður, atburðarás ([consider the following ~])
+airline n. flugfélag
+wallpaper n. veggfóður; s. veggfóðra
+insider n. innherji
+cultural l. menningarlegur
+bookstore n. bókabúð
+prepared l. undirbúinn
+confirmed l. staðfestur; staðfastur ([he is a ~ bachelor])
+percent n. prósent, hundraðshluti
+inkjet n. bleksprautun; l. bleksprautu- ([an ~ printer])
+cholesterol n. kólesteról
+freeware n. ókeypis hugbúnaður
+acne n. unglingabólur, graftarbólur
+spyware n. njósnahugbúnaður
+architectural l. byggingarlistar-
+internationally ao. alþjóðlega
+copyrighted l. varið af höfundarétti
+patented l. varið af einkaleyfi
+subsection n. undirdeild, undirflokkur, undirkafli, undirhluti
+Babylon n. Babýlon (höfuðborg Babýlóniu til forna); auðug og spillt stórborg
