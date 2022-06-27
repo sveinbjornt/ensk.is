@@ -106,6 +106,11 @@ SKIP = frozenset(
         "xenolith",
         "zombify",
         "zoophilia",
+        "facticity",
+        "fibrillate",
+        "monotonal",
+        "sado-masochism",
+        "tesseract",
     )
 )
 

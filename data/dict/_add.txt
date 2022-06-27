@@ -135,7 +135,7 @@ jeep n. jeppi, torfærubifreið
 megacorporation n. risafyrirtæki, stórfyrirtæki
 clickable l. smellanlegur
 mediascape n. fjölmiðlaumhverfi, fjölmiðlaheimur (heimurinn eins og hann birtist í fjölmiðlum)
-snowboard n. snjóbretti
+snowboard n. snjóbretti; s. fara á snjóbretti
 newswoman n. fréttakona
 cookbook n. matreiðslubók, eldamennskubók
 cunt n. píka (óformlegt)
@@ -436,7 +436,8 @@ majordomo n. ráðsmaður, yfirmaður; bústjóri
 operating system n. stýrikerfi
 user interface n. notendaviðmót, notendaskil
 pull request n. togbeiðni, dráttarbeiðni
-customization n. sérsnið
+customize s. sérsníða, sérstilla
+customization n. sérsnið, sérstilling
 trampoline n. trampólín
 stuntman n. áhættuleikari
 compiler n. e-r sem dregur saman (úr ritum); þýðandi (hugbúnaður)
@@ -501,8 +502,8 @@ dyslexic l. lesblindur
 dystrophy n. vanþroski, veiklun
 sonic l. hljóð-, hljóðbylgju-; hljóðhraða-
 hypersonic l. sem ferðast á fimmföldum hljóðhraða eða hraðar
-hypersensitivity n. ofurnæmni
-hypersensitive l. ofurnæmur
+hypersensitivity n. ofurnæmni, ofurviðkvæmni
+hypersensitive l. ofurnæmur, ofurviðkvæmur
 hallowed l. heilagur, vígður
 fundamentalism n. bókstafstrú ([Christian ~ is a force in US politics])
 fundamentalist n. bókstafstrúarmaður
@@ -952,3 +953,48 @@ newbie n. nýgræðingur, byrjandi, grænjaxl
 VIP n. mjög mikilvæg manneskja (stytt. á [very important person])
 educated l. menntaður
 roulette n. rúlletta; [Russian roulette] rússnesk rúlletta
+sadism n. kvalalosti, sadismi, kvalafýsn
+sadist n. lostakvalari
+sadistic l. kvalalosta-
+masochism n. sjálfspíningarhvöt
+sado-masochism n. sadó-masókismi (sjá %[sadism]% og %[masochism]%)
+BDSM n. kynlíf sem einkennist af kvalalosta, pyntingu, drottnun og undirgefni (stytt. á [bondage, domination, sado-masochism])
+skeptic n. sjá %[sceptic]%
+skeptical l. sjá %[sceptical]%
+skepticism n. sjá %[scepticism]%
+facticity n. sá eiginleiki að vera staðreynd (sjá %[fact]%)
+halogen n. hópur frumefna, þ.e. flúor, klór, brómín, joð og astatín
+astatine n. astatín (frumefni)
+DNA n. deoxýríbósakjarnsýra, þ.e. erfðaefni, erfðavísir (stytt. á [deoxyribonucleic acid])
+PC n. einkatölva (stytt. á [personal computer]); pólitískur rétttrúnaður (stytt. á [political correctness])
+deontology n. skyldufræði, skyldusiðfræði (í heimspeki)
+deontological l. skyldufræðilegur, skyldusiðfræðilegur (sjá %[deontology]%)
+megafauna n. stór dýr, risadýr (sjá %[fauna]%)
+monotonal l. sjá %[monotonous]%
+montage n. myndblöndun, myndsamsetning, myndaröð
+digitalize s. koma á stafrænt snið (sjá %[digital]%)
+hardcore n. harðkjarni; l. harðkjarna-
+ministry n. ráðuneyti; boðun trúar, fagnaðarerindis
+nearby l. nálægt, í grenndinni, nærliggjandi
+payroll n. launaskrá; launagreiðslur
+refurbish s. gera upp, lagfæra, hressa upp á
+convinced l. sannfærður; [he was convinced that ...]
+kakistocracy n. stjórn hinna verstu
+prepaid n. fyrirframgreiddur, borgaður fyrirfram
+fascinating l. heillandi, töfrandi
+thoroughly ao. rækilega, vandlega, ítarlega
+benchmark n. viðmið, viðmiðun, afkastaprófun, afkastamæling; s. mæla afköst (út frá viðmiðum)
+sensitivity n. næmni, viðkvæmni
+transsexual n. kynskiptingur, trans manneskja; l. kynskiptings-, trans
+tranny n. (niðrandi) sjá %[transsexual]%
+trivia n. smámunir, lítilræði; spurningaleikur
+toolkit n. verkfærakista, verkfærakassi
+workout n. líkamsrækt, líkamsþjálfun
+protocol n. samskiptareglur, samskiptamáti
+fibrillate s. tifa, titra, flökta
+fibrillation n. tif, titringur, flökt (í hjartanu)
+teleportation n. fjarflutningur
+telekinesis n. fjarhreyfing
+neurosis n. taugaveiklun, hugsýki
+neurotic l. taugaveiklaður, hugsjúkur
+router n. beinir (tæki sem beinir gögnum milli staða)
