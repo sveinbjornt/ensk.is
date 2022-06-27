@@ -835,7 +835,7 @@ footing n. fótfesta; festa; staða; inngöngueyrir; aðalupphæð; [gain (get) 
 footlights n. ft. ljósaröð framan til á leiksviði
 footman n. þjónn (í einkennisbúningi); fótgöngumaður
 footmark n. fótspor; (í ft. fótaför)
-footnote n. neðanmálsathugasemd
+footnote n. neðanmálsgrein, neðanmálsathugasemd
 footpace n. hægur gangur; pallur; [to ride at a ~] ríða fót fyrir fót
 footpad n. stigamaður
 footpath n. gangstígur
@@ -931,14 +931,14 @@ forewarn s. vara (e-n) við
 forever ao. að eilífu
 forewoman n. verkstýra, kona sem segir fyrir verkum
 foreword n. formáli
-forfeit n. fésekt, bætur; pantur (í leik); [under a ~] að viðlagðri fésekt; l. tapaður, mistur; s. fyrirgera ([~ one's life]); brjóta af sér, missa; gjalda í sekt
+forfeit n. fésekt, bætur; pantur (í leik); [under a ~] að viðlagðri fésekt; l. tapaður, misstur; s. fyrirgera ([~ one's life]); brjóta af sér, missa; gjalda í sekt
 forfeiture n. fyrirgerð, missir ([~ of goods, life])
 forgather s. safnast saman; hitta ([with]); umgangast ([with])
 forfend s. aftra, afstýra
 forge n. afl (í smiðju); smiðja; s. smíða; falsa ([~ a document])
 forger n. falsari, lygari
 forgery n. fölsun
-forget s. gleyma; [I ~ ] ég man ekki
+forget s. gleyma; [I ~] ég man ekki
 forgetful l. gleyminn, minnislaus; gleymsku-; [~ of] sem gleymir e-u; afskiptalaus um e-ð
 forgetfulness n. gleymska, minnisleysi; hirðuleysi
 forget-me-not n. gleymmérei (blóm)

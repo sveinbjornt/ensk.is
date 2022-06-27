@@ -102,6 +102,11 @@ def check_punctuation(line: str, pn, ln: int):
     if line.count("%") % 2 != 0:
         warn("% error", pn, ln)
 
+    if "[ " in line:
+        warn("[ space error", pn, ln)
+    if " ]" in line:
+        warn("] space error", pn, ln)
+
 
 def check_spacing(line: str, pn, ln: int):
     if "\t" in line:
