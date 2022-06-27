@@ -21,7 +21,7 @@ robot n. vélmenni, vélþræll, þjarkur
 bathroom n. baðherbergi
 calcium n. kalk
 biotechnology n. líftækni
-biotech n. líftækni (stytting á [biotechnology])
+biotech n. líftækni (stytting á %[biotechnology]%)
 complicated l. flókinn
 camera n. myndavél, ljósmyndavél; kvikmyndaupptökuvél
 blowjob n. munnmök
@@ -96,10 +96,10 @@ holocaust n. helför; [the Holocaust] helförin, þ.e. tortíming Gyðinga í se
 masturbate s. fróa sér, runka sér
 masturbatory l. sjálsfróandi, sjálfsrunkandi
 microphone n. hljóðnemi
-mic n. hljóðnemi (stytting á [microphone])
-mike n. hljoðnemi (stytting á [microphone])
+mic n. hljóðnemi (stytting á %[microphone]%)
+mike n. hljoðnemi (stytting á %[microphone]%)
 newsletter n. fréttabréf
-phone n. sími, símtæki; s. hringja úr símtæki (stytting á [telephone])
+phone n. sími, símtæki; s. hringja úr símtæki (stytting á %[telephone]%)
 pizza n. pítsa, flatbaka (ítalskur réttur)
 programmer n. forritari
 recycling n. endurvinnsla, endurnýting
@@ -257,7 +257,7 @@ cougar n. fjallaljón; kynferðislega virk eldri kona (óforml.)
 calisthenics n. ft. leikfimiæfingar
 automation n. sjálfvirkni; sjálfvirknivæðing
 automate s. sjálfvirknivæða
-bot n. (stytting á [robot]) vélmenni, þjarkur
+bot n. (stytting á %[robot]%) vélmenni, þjarkur
 surveillance n. eftirlit
 tweeze s. snyrta með flísatöng
 aerodrome n. flugvöllur, flugstöð
@@ -314,7 +314,8 @@ valium n. valíum (kvíðastillandi lyf)
 vinyl n. vínill; vínilplata, hljómplata úr vínil
 kevlar n. kevlar (sterkt trefjaefni notað í skotheldum vestum); skothelt vesti
 cell phone n. farsími, GSM-sími, gemsi
-CD n. geisladiskur (stytting á [compact disc])
+CD n. geisladiskur (stytting á %[compact disc]%)
+compact disc n. geisladiskur
 sonar n. hljómsjá, ómsjá, sónar
 camcorder n. lítil kvikmyndatökuvél (samsett úr [camera] og [recorder])
 anarcho-capitalism n. anarkó-kapítalismi (sú stjórnmálastefna að afnema ríkið og færa allar þjónustur í hendur einkaaðila)
@@ -454,7 +455,7 @@ bioengineering n. líftækni, lífverkfræði
 bioengineer n. líftæknifræðingur
 confidentiality n. trúnaður
 lyrebird n. lýrufugl (e.k. spörfugl)
-porn n. klám (óforml. stytting á [pornography])
+porn n. klám (óforml. stytting á %[pornography]%)
 natural language processing n. máltækni, málgreining
 guerrilla n. skæruliði
 guerrilla warfare n. skæruhernaður
@@ -819,7 +820,7 @@ matriarchal l. ættmæðra-
 zucchini n. kúrbítur
 courgette n. kúrbítur
 Holland n. Holland
-tech n. stytting á [technology]
+tech n. stytting á %[technology]%
 tech giant n. tæknirisi
 catharsis n. búkhreinsun; hreinsun, geðhreinsun, hreinsun sem fylgir geðhrifum harmleiks
 aitch n. stafurinn H (h)
@@ -1035,3 +1036,4 @@ copyrighted l. varið af höfundarétti
 patented l. varið af einkaleyfi
 subsection n. undirdeild, undirflokkur, undirkafli, undirhluti
 Babylon n. Babýlon (höfuðborg Babýlóniu til forna); auðug og spillt stórborg
+betwixt fs. sjá %[between]%
