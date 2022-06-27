@@ -15,8 +15,8 @@
 
 <h1 style="margin-bottom:10px;">
     {{ word|safe }}
-    {% if results[0].p %}
-    <a href="/page/{{ results[0].p }}" title="Skoða blaðsíðu í orðabók">
+    {% if results[0].page %}
+    <a href="{{ results[0].page_url }}" title="Skoða blaðsíðu í orðabók">
         <img src="/static/img/book.svg" width="20">
     </a>
     {% endif %}
@@ -24,24 +24,24 @@
 
 <p>
     <strong>UK:</strong>
-    <a href="{{ results[0].a }}" onClick="return play(this);" title="Spila hljóðupptöku af framburði">
+    <a href="{{ results[0].audio_uk }}" onClick="return play(this);" title="Spila hljóðupptöku af framburði">
         <img src="/static/img/audio.svg">
-        {% if results[0].i %}
-        {{ results[0].i }}
+        {% if results[0].ipa_uk %}
+        {{ results[0].ipa_uk }}
         {% endif %}
     </a>
-    {% if results[0].i2 %}
+    {% if results[0].ipa_us %}
     <strong>US:</strong>
-    <a href="{{ results[0].a2 }}" onClick="return play(this);" title="Spila hljóðupptöku af framburði">
+    <a href="{{ results[0].audio_us }}" onClick="return play(this);" title="Spila hljóðupptöku af framburði">
         <img src="/static/img/audio.svg">
-        {{ results[0].i2 }}
+        {{ results[0].ipa_us }}
     </a>
     {% endif %}
 </p>
 
 {% for r in results %}
 <div class="result grid-container">
-    <p>{{ r.x|safe }}</p>
+    <p>{{ r.def|safe }}</p>
 </div>
 {% endfor %}
 

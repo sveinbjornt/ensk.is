@@ -53,6 +53,7 @@ from util import human_size
 # Website settings
 WEBSITE_NAME = "Ensk.is"
 WEBSITE_DESC = "Opin og frjáls ensk-íslensk orðabók"
+BASE_URL = "https://ensk.is"
 
 # Create app
 app = FastAPI(title=WEBSITE_NAME, openapi_url="/openapi.json")
@@ -84,31 +85,41 @@ def _format_item(item: Dict[str, Any]) -> Dict[str, Any]:
     """Format dictionary entry for presentation."""
     w = item["word"]
     x = item["definition"]
-    p = item["page_num"]
+
     # Replace ~ symbol with English word
     x = x.replace("~", w)
+
     # Replace %[word]% with link to intra-dictionary entry
     rx = re.compile(r"%\[(.+)\]%")
     x = rx.sub(r"<strong><a href='/item/\1'>\1</a></strong>", x)
+
     # Italicize English words
     x = x.replace("[", "<em>")
     x = x.replace("]", "</em>")
-    # Fix filename f. audio file
-    audiofn = w.replace(" ", "_")
-    audio_url_uk = f"/static/audio/dict/uk/{audiofn}.mp3"
-    audio_url_us = f"/static/audio/dict/us/{audiofn}.mp3"
+
     # Phonetic spelling
     ipa_uk = item.get("ipa_uk", "")
     ipa_us = item.get("ipa_us", "")
+
+    # Generate URLs to audio files
+    audiofn = w.replace(" ", "_")
+    audio_url_uk = f"{BASE_URL}/static/audio/dict/uk/{audiofn}.mp3"
+    audio_url_us = f"{BASE_URL}/static/audio/dict/us/{audiofn}.mp3"
+
+    # Original dictionary page
+    p = item["page_num"]
+    p_url = f"{BASE_URL}/page/{p}" if p > 0 else ""
+
     # Create item dict
     item = {
-        "w": w,
-        "x": x,
-        "i": ipa_uk,
-        "i2": ipa_us,
-        "p": p,
-        "a": audio_url_uk,
-        "a2": audio_url_us,
+        "word": w,
+        "def": x,
+        "ipa_uk": ipa_uk,
+        "ipa_us": ipa_us,
+        "audio_uk": audio_url_uk,
+        "audio_us": audio_url_us,
+        "page_num": p,
+        "page_url": p_url,
     }
     return item
 
@@ -129,7 +140,7 @@ def _results(q: str, exact_match: bool = False) -> Tuple[List, bool]:
             not exact_match and ql.lower() in k["word"].lower()
         ):
             item = _format_item(k)
-            lw = item["w"].lower()
+            lw = item["word"].lower()
             lq = q.lower()
             if lw == lq:
                 equal.append(item)
@@ -142,10 +153,10 @@ def _results(q: str, exact_match: bool = False) -> Tuple[List, bool]:
 
     exact_match_found: bool = len(equal) > 0
 
-    equal.sort(key=lambda d: d["w"].lower())
-    swith.sort(key=lambda d: d["w"].lower())
-    ewith.sort(key=lambda d: d["w"].lower())
-    other.sort(key=lambda d: d["w"].lower())
+    equal.sort(key=lambda d: d["word"].lower())
+    swith.sort(key=lambda d: d["word"].lower())
+    ewith.sort(key=lambda d: d["word"].lower())
+    other.sort(key=lambda d: d["word"].lower())
 
     results = [*equal, *swith, *ewith, *other]
 
@@ -337,7 +348,7 @@ async def robots(request: Request) -> Response:
 async def api_suggest(request: Request, q, limit: int = 10) -> JSONResponse:
     """Return autosuggestion results for partial string in input field."""
     results, _ = _results(q)
-    words = [x["w"] for x in results][:limit]
+    words = [x["word"] for x in results][:limit]
     return JSONResponse(content=words)
 
 

@@ -82,7 +82,16 @@ def test_pages_routes() -> None:
         assert response.status_code == 200
 
 
-REQ_ITEM_KEYS = ["w", "x", "i", "i2", "a", "a2"]
+REQ_ITEM_KEYS = [
+    "word",
+    "def",
+    "ipa_uk",
+    "ipa_us",
+    "audio_uk",
+    "audio_us",
+    "page_num",
+    "page_url",
+]
 
 
 def _verify_api_item(item: Dict[str, Any]) -> None:

@@ -23,23 +23,22 @@
 <div class="result grid-container">
 
     <div class="itemlinks">
-        <a href="/item/{{ r.w }}" title="Skoða færsluna „{{ r.w }}“">
+        <a href="/item/{{ r.word }}" title="Skoða færsluna „{{ r.word }}“">
             <img src="/static/img/link.svg" alt="Hlekkur">
         </a>
     </div>
 
     <p>
         <strong>
-            <a href="/item/{{ r.w }}" class="result_link" title="Skoða færsluna „{{ r.w }}“">
-                {{ r.w }}
+            <a href="/item/{{ r.word }}" class="result_link" title="Skoða færsluna „{{ r.word }}“">
+                {{ r.word }}
             </a>
         </strong>
-        (<a href="{{ r.a }}" onClick="return play(this);" title="Spila hljóðupptöku af framburði">
+        (<a href="{{ r.audio_uk }}" onClick="return play(this);" title="Spila hljóðupptöku af framburði">
             <img src="/static/img/audio.svg" alt="Spila">
-            {{ r.i }}
+            {{ r.ipa_uk }}
         </a>)
-        {{ r.x|safe }}
-        <!--(<a href="/static/files/src/enis1932/pages/{{ r.p - 1 }}.jpg">#{{ r.p }}</a>)-->
+        {{ r.def|safe }}
     </p>
 
 
