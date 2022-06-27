@@ -129,7 +129,7 @@ def check_bracket_use(line: str, pn, ln: int):
 
 
 def check_intradict_refs(line: str, pn, ln: int):
-    if not "%[" in line:
+    if "%[" not in line:
         return
 
     words_matched = re.findall(r"%\[(.+?)\]%", line)
@@ -196,19 +196,6 @@ def check_enword_def(line: str, pn, ln: int):
         if e not in EN_WORDS_LIST:
             if e.lower() not in EN_WORDS_LIST and e.capitalize() not in EN_WORDS_LIST:
                 warn(f"'{entry}' not in English word list", pn, ln)
-
-    # kr = e.replace("-", "")
-    # if kr in EN_WORDS_LIST:
-    #     print(f"{e} --> {kr}")
-    # ks = e.replace("-", " ")
-    # if ks in EN_WORDS_LIST:
-    #     print(f"{e} --> {ks}")
-    # kc = e[:1].upper() + e[1:]
-    # if kc in EN_WORDS_LIST:
-    #     print(f"{e} --> {kc}")
-    # kd = e.replace(" ", "")
-    # if kd in EN_WORDS_LIST:
-    #     print(f"{e} --> {kd}")
 
 
 def check_icelandic_words(line: str, pn, ln: int):
