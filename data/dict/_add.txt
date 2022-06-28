@@ -94,10 +94,10 @@ girlfriend n. kærasta, unnusta; vinkona
 guestbook n. gestabók
 holocaust n. helför; [the Holocaust] helförin, þ.e. tortíming Gyðinga í seinni heimsstyrjöld
 masturbate s. fróa sér, runka sér
-masturbatory l. sjálsfróandi, sjálfsrunkandi
+masturbatory l. sjálfsfróandi, sjálfsrunkandi
 microphone n. hljóðnemi
 mic n. hljóðnemi (stytting á %[microphone]%)
-mike n. hljoðnemi (stytting á %[microphone]%)
+mike n. hljóðnemi (stytting á %[microphone]%)
 newsletter n. fréttabréf
 phone n. sími, símtæki; s. hringja úr símtæki (stytting á %[telephone]%)
 pizza n. pítsa, flatbaka (ítalskur réttur)
@@ -182,7 +182,7 @@ marxist n. marxisti (fylgismaður kenninga Karls Marx, sjá %[marxism]%)
 postmodern l. póstmódernískur (sjá %[postmodernism]%)
 postmodernism n. póstmódernismi (heimspeki- og menningarstefna sem tók við af módernisma)
 postmodernist n. póstmódernisti (fylgismaður póstmódernisma, sjá %[postmodernism]%)
-structuralism n. formgerðarstefna, strúkturalismi (rannsóknaraðferð til að útskýra kerfi tungumála með athugun á formum og reglum)
+structuralism n. formgerðarstefna, strúktúralismi (rannsóknaraðferð til að útskýra kerfi tungumála með athugun á formum og reglum)
 multitasking n. fjölverkavinnsla (þegar mörg verk eru leyst samtímis)
 multitask s. vinna mörg verk samtímis
 ozone n. óson (fjölgervingsform súrefnis, O3)
@@ -268,7 +268,7 @@ airliner n. farþegaflugvél
 dashboard n. mælaborð
 fuselage n. bolur eða skrokkur á flugvél
 anchorman n. fréttaþulur
-anchorwoman n. fréttaþulur (kvk.)
+anchorwoman n. kvenkyns fréttaþulur
 news anchor n. fréttaþulur
 paleolithic l. steinaldar-
 neolithic l. nýsteinaldar-
@@ -763,7 +763,7 @@ Yemen n. Jemen
 Zambia n. Sambía
 Zimbabwe n. Simbabve
 tsar n. Rússlandskeisari
-tsarina n. Rússlandskeisarynja
+tsarina n. Rússlandskeisaradrottning
 unsubscribe s. segja upp áskrift
 camouflage n. felulitur, felubúningur, dulbúningur, dulklæði; s. felulita, felubúa
 endangered l. í hættu, í voða; [~ species] dýrategund í útrýmingarhættu
@@ -799,12 +799,12 @@ dextrose n. dextrósi, þrúgusykur
 lactose n. mjólkursykur, laktósi
 lactose intolerance n. mjólkuróþol, laktósaóþol
 amino acid n. amínósýra, hvítusýra
-zip n. þytur; s. þjótast, skjótast; hvína; opna eða loka rennilási; þjappa stafrænt skjal
+zip n. þytur; s. þjóta, skjótast; hvína; opna eða loka rennilási; þjappa stafrænt skjal
 zoom s. þjóta; breyta vídd linsu (í ljósmyndun); þysja ([~ in or out] þysja inn eða út)
 ziggurat n. musteristurn, musterispíramídi, stallapíramídi
 Zion n. Síon (hæð í borginni Jerúsalem í Palestínu)
 Zionism n. síonismi (sú stefna að stofna sjálfstætt ríki gyðinga í Palestínu)
-Zionist n. síonisti (sá sem aðhyllist síónisma, sjá %[Zionism]%); l. síonista-
+Zionist n. síonisti (sá sem aðhyllist síonisma, sjá %[Zionism]%); l. síonista-
 zeta n. sjötti stafurinn í gríska stafrófinu (Ζ eða ζ)
 zeppelin n. loftfar, loftskip
 Zeus n. Seifur, æðsti guðinn í forngrískri goðafræði
@@ -829,7 +829,7 @@ tipping point n. vendipunktur
 metric system n. metrakerfið
 zed n. bókstafurinn zeta (Z)
 seneschal n. ráðsmaður sem sér um eignir aðalsmanns (á miðöldum)
-awesome l. ægiþruninn, ógnarlegur; æðislegur, magnaður, undursamlegur; uh. frábært!
+awesome l. ægiþrunginn, ógnarlegur; æðislegur, magnaður, undursamlegur; uh. frábært!
 consortium n. samtök, hópur (fjárfesta); auðhringur
 memorabilia n. ft. minjagripir, minnisgripir, minningargripir, hlutir sem minna eiganda á fyrri upplifanir
 lithium n. litíum, litín, liþín
@@ -898,7 +898,7 @@ bibliographic l. bókfræðilegur, bókfræði-
 motherboard n. móðurborð (í vélbúnaði)
 pasta n. pasta (deig gert úr hveiti)
 spaghetti n. spagettí, hveitilengjur (tegund af %[pasta]%)
-acrylic l. akríl-
+acrylic l. akrýl-
 allergy n. ofnæmi
 organizer n. skipuleggjari, skipuleggjandi
 aerospace n. flugiðnaður, flugtækni, flugverkfræði
@@ -966,8 +966,8 @@ skeptic n. sjá %[sceptic]%
 skeptical l. sjá %[sceptical]%
 skepticism n. sjá %[scepticism]%
 facticity n. sá eiginleiki að vera staðreynd (sjá %[fact]%)
-halogen n. hópur frumefna, þ.e. flúor, klór, brómín, joð og astatín
-astatine n. astatín (frumefni)
+halogen n. hópur frumefna, þ.e. flúor, klór, bróm, joð og astat
+astatine n. astat (frumefni)
 DNA n. deoxýríbósakjarnsýra, þ.e. erfðaefni, erfðavísir (stytt. á [deoxyribonucleic acid])
 PC n. einkatölva (stytt. á [personal computer]); pólitískur rétttrúnaður (stytt. á [political correctness])
 deontology n. skyldufræði, skyldusiðfræði (í heimspeki)
@@ -1010,12 +1010,12 @@ Gaia n. gyðja jarðarinnar í grískri goðafræði
 Gaea n. sjá %[Gaia]%
 irritant n. e-ð sem ertir eða pirrar; sjá %[irritate]%
 organ donor n. líffæragjafi
-binge n. hám, ofát; ofdrykkja, fyllirí; s. háma í sig, éta yfir sig, drekka yfir sig
+binge n. hám, ofát; ofdrykkja, fyllirí; s. háma í sig (e-ð [~ on ...]), éta yfir sig, drekka yfir sig
 vice-regent n. varastjórnandi, vararíkisstjóri
 periodic table n. lotukerfið
 coupon n. miði, afsláttarmiði
 corporate l. fyrirtækja-, félags-
-facilitator n. sá sem greiðkar fyrir einhverju, gerir eitthvað einfaldara (sjá %[facilitate]%); umræðustjóri
+facilitator n. sá sem greiðkar fyrir einhverju, gerir eitthvað auðveldara (sjá %[facilitate]%); umræðustjóri
 scenario n. aðstæður, atburðarás ([consider the following ~])
 airline n. flugfélag
 wallpaper n. veggfóður; s. veggfóðra
@@ -1072,7 +1072,7 @@ psychopath n. brjálæðingur, snarbrjálaður (og siðblindur) geðsjúklingur
 psychopathic l. (snar)brjálaður
 psychopathy n. sturlun, brjálæði, siðblinda
 kleptomaniac n. stelsjúk manneskja
-crap n. skítur, kúkur; drasl; rugl, kjaftæði; l. lélegur, ömurlegur; s. skíta, kúka; uh. andkotans!
+crap n. skítur, kúkur; drasl; rugl, kjaftæði; l. lélegur, ömurlegur; s. skíta, kúka; uh. andskotans!
 longsword n. langsverð
 spadroon n. létt sverð
 claymore n. skoskt sverð; jarðsprengja
@@ -1095,6 +1095,7 @@ Aristotelian l. aristótelískur (eftir gríska heimspekingnum Aristótelesi)
 succubus n. kvendjöfull
 incubus n. illur andi sem herjar á konur í svefni
 behemoth n. stór og mikil ófreskja (úr Jobsbók í Biblíunni)
+gargoyle n. ufsagrýla
 Beelzebub n. Belsíbúbb (Satan)
 reggae n. reggí-tónlist
 activation n. virkjun (sjá %[activate]%)
@@ -1105,7 +1106,7 @@ byte n. bæti, bæt, tölvustafur (átta bita gagnaeining í tölvum)
 kilobyte n. kílóbæti, 1024 bæti (sjá %[byte]%)
 megabyte n. megabæti, 1024 kílóbæti (sjá %[byte]%)
 gigabyte n. gígabæti, 1024 megabæti (sjá %[byte]%)
-terabyte n. terabæti, 1024 gigabæti (sjá %[byte]%)
+terabyte n. terabæti, 1024 gígabæti (sjá %[byte]%)
 petabyte n. petabæti, 1024 terabæti (sjá %[byte]%)
 kike n. júði (niðrandi orð um Gyðinga)
 shylock n. okurlánari; júði (niðrandi orð um Gyðinga)

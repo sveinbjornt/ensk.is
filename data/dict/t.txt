@@ -125,7 +125,7 @@ tapering l. smámjókkandi
 tapestry n. veggtjald; rósað veggfóður; s. skreyta með rósofnum veggtjöldum
 tapir n. tapír (spendýr)
 tapis n. borðklæði; [to be on (upon) the ~] vera til umræðu
-tapster n. vín- eða öltappari, skenkjari á ölstofu
+tapster n. víntappari, öltappari, skenkjari á ölstofu
 tar n. tjara; sjómaður; s. tjarga, bika
 tarantella n. tarantella (ítalskur þjóðdans)
 tarantula n. risakönguló
@@ -214,7 +214,7 @@ tedium n. leiðindi
 teem s. vera fullur af e-u, úa og grúa (af [with]); geta af sér, fæða
 teeming l. auðugur, frjór; troðfullur ([the ~ streets])
 teens n. ft. táningarsár; þrettánda til nítjánda aldursár; [a girl in her ~] stúlka á táningsárum
-teeth n. ft. tennur (ft. af [tooth])
+teeth n. ft. tennur (ft. af %[tooth]%)
 teethe s. taka tennur
 teething n. tanntaka, tannkoma
 teetotal l. bindindis- ([~ pledge, ~ society])
@@ -729,7 +729,7 @@ title deed n. afsalsbréf, kaupbréf
 title page n. titilblað
 titmouse n. söngfuglsheiti
 titter s. flissa; n. fliss, skríkjur
-tittle n. titulí, minnsta ögn, snefill
+tittle n. titull, minnsta ögn, snefill
 tittle-tattle n. þvættingur
 titubate s. skjögra; stama, reka í vörðurnar
 titular l. að nafninu til, að nafnbót ([~ bishop]); nafnbótar-

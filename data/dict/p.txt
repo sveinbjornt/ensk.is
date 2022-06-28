@@ -452,7 +452,7 @@ pearl fishery n. perluveiðar; perluveiðastaður
 pearly l. perlum búinn; tær eins og perla
 peasant n. bóndi
 peasantry n. bændafólk, bændastétt, bændur
-pease n. ft. af [pea]
+pease n. ft. af %[pea]%
 peat n. mór
 peat bog n. mómýri
 peaty l. mókynjaður; móauðugur
@@ -575,7 +575,7 @@ pensioner n. eftirlaunamaður
 pensive l. hugsandi; þungbúinn, dapur
 pensiveness n. dapurleiki
 penstock n. flóðgátt
-pent ho. af [to pen]
+pent ho. af %[pen]%
 pent-up l. innibyrgður; stíflaður
 pentad n. fimmtala
 pentagon n. fimmhyrningur

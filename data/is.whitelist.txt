@@ -28,6 +28,9 @@ o.þ.h.
 þ.k.
 þ.e.a.s.
 óforml.
+bókst.
+bókst
+lat.
 ákv.
 # Forskeyti sem eru ekki í BÍN
 erki
@@ -43,3 +46,4 @@ tann
 hæðnis
 kven
 gjafi
+stjúp

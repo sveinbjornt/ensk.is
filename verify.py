@@ -43,7 +43,7 @@ from typing import Union
 import re
 
 from islenska import Bin
-from tokenizer import tokenize
+from tokenizer import tokenize, TOK
 
 from dict import read_raw_pages, parse_line, read_all_words
 from util import read_wordlist
@@ -71,7 +71,9 @@ def warn(s: str, pn: Union[int, str], ln: int):
 
 
 def strip_words_in_square_brackets(s: str) -> str:
-    return re.sub(r"\[.+\]", "", s)
+    sn = re.sub(r"\[.+\]", "", s)
+    sn = re.sub(r"%", "", sn)
+    return sn
 
 
 def check_punctuation(line: str, pn, ln: int):
@@ -206,29 +208,10 @@ def check_enword_def(line: str, pn, ln: int):
 def check_icelandic_words(line: str, pn, ln: int):
     """Inspect all Icelandic words in definition, make sure that they
     are present in modern Icelandic vocabulary (BÍN)."""
-    comp = line.split()
-    if len(comp) < 3:
-        warn("Mangled formatting", pn, ln)
-        return
-
-    splidx = None
-    try:
-        if comp[1] in CATEGORIES:
-            splidx = 1
-        elif comp[2] in CATEGORIES:
-            splidx = 2
-        elif comp[3] in CATEGORIES:
-            splidx = 3
-        else:
-            warn("No category set", pn, ln)
-            return
-    except Exception as e:
-        warn(f"Error parsing category etc.: {e}", pn, ln)
-        return
+    (_, definition) = parse_line(line)
 
     # Strip all English words included in definition
-    defcomp = comp[splidx + 1 :]
-    defstr = strip_words_in_square_brackets(" ".join(defcomp))
+    defstr = strip_words_in_square_brackets(definition)
 
     # Lazily instantiate BÍN
     global bin
@@ -236,7 +219,7 @@ def check_icelandic_words(line: str, pn, ln: int):
         bin = Bin()
 
     for t in tokenize(defstr):
-        if t.kind != 6:
+        if t.kind != TOK.WORD:  # We're only interested in words
             continue
 
         txt = t.txt
@@ -247,10 +230,11 @@ def check_icelandic_words(line: str, pn, ln: int):
 
         res = bin.lookup(txt)
         if not res[1]:
-            txt = txt.strip("-").strip("-")
+            txt = txt.strip("-")
             res = bin.lookup(txt)
             if not res[1]:
                 warn(f"Icelandic word not found in BÍN: '{txt}' ", pn, ln)
+                # print(defstr)
 
 
 def verify():

@@ -983,7 +983,7 @@ shore leave n. landgönguleyfi
 shoreless l. strandlaus; ómælanlegur, takmarkalaus
 shore n. skorða; s. skorða ([~ up a building])
 shoring n. skorðun; skorður
-shorn hlto. af [shear]; [~ of] sviptur ([a prince ~ of his honours])
+shorn hlto. af %[shear]%; [~ of] sviptur ([a prince ~ of his honours])
 short l. stuttur, skammur; lágur (vexti, [~ of stature]); stuttorður; (of) naumur, tæpur, lakur (um mál og vigt); ónógur; sem molnar auðveldlega; [a ~ sea] krappur sjór; [in ~] í stuttu máli; [~ of breath] andstuttur; [to be ~ of money] skorta fé; [his escape was nothing ~ of a miracle] undankoma hans gekk kraftaverki næst; [to cut ~] grípa fram í fyrir; [to fall ~] vera ónógur; þrjóta; [I fall ~ of] mig þrýtur (e-ð); [to run ~ of] fara að vanta ([to run ~ of provisions]); [to stop ~] staðnæmast snögglega; [to turn ~] snúa sér snögglega
 shortage n. ávöntun, skortur ([~ of meat]); þurrður
 short-breathed l. andstuttur
@@ -1037,7 +1037,7 @@ shrink s. hleypa (klæði); hlaupa (um klæði); skorpna; skreppa (hrökkva) sam
 shrinkage n. rýrnun; verðlækkun ([~ in price])
 shrive s. skrifta e-m; skrifta, játa syndir sínar
 shrivel s. skorpna, hrukkast; láta skorpna, gera hrukkótt
-shriven hlto. skriftaður
+shriven l. skriftaður; sjá %[shrive]%
 shroud n. hjúpur; líkklæði; reiði (á skipi); s. hylja, hjúpa ([~ed in mystery]); klæða í líkklæði
 Shrovetide n. föstuinngangur
 Shrove Tuesday n. þriðjudagur í föstuinngang; sprengikvöld
