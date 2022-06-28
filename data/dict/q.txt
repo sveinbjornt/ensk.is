@@ -119,7 +119,7 @@ quickset n. þyrnigirðing ([~ hedge])
 quick-sighted l. hvasseygður; glöggskyggn, skarpskyggn
 quick-sightedness n. glöggsýni, skarpskyggni
 quicksilver n. kvikasilfur
-quick-witted l. skarpvitur
+quick-witted l. skarpskyggn, skarpvitur, skarpur
 quid n. munntóbakstugga; pund (£)
 quiddity n. sanneðli; hártogun
 quidnunc n. fréttasnati
@@ -175,4 +175,3 @@ quoth s. sagði, mælti ([~ he])
 quotidian l. daglegur; hversdagslegur
 quotient n. hlutatala, kvóti, deild
 quotum n. sjá %[quota]%
-quick-witted l. skarpskyggn

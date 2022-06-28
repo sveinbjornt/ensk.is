@@ -115,6 +115,9 @@ SKIP = frozenset(
         "Gaea",
         "Gaia",
         "gyrocopter",
+        "Babylon",
+        "vice-regent",
+        "xenomorph",
     )
 )
 

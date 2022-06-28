@@ -1037,3 +1037,6 @@ patented l. varið af einkaleyfi
 subsection n. undirdeild, undirflokkur, undirkafli, undirhluti
 Babylon n. Babýlon (höfuðborg Babýlóniu til forna); auðug og spillt stórborg
 betwixt fs. sjá %[between]%
+stereo l. víðóma (með tveimur hljóðrásum); hljómtæki, hljómflutningstæki
+steroid n. steri; ft. [steroids] sterar, steralyf
+xenomorph n. geimvera, utanaðkomandi lífvera
