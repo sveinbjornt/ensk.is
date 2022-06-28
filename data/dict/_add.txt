@@ -1082,8 +1082,25 @@ trebuchet n. valslöngva, steinvarpa (umsátursvopn á miðöldum)
 ballista n. risastór lásbogi
 petard n. e.k. sprengja
 kobold n. hrekkjóttur álfur eða púki (í þýskri þjóðtrú)
-minotaur n. mínótár (í grískri goðafræði, skrímsli sem er hálfur maður, hálft naut)
+minotaur n. mínótár (úr grískri goðafræði, skrímsli sem er hálfur maður og hálft naut)
 banshee n. kvenvofa (í írskri þjóðtrú)
 phoenix n. Fönix (ódauðlegur eldfugl í grískri goðafræði)
 bogeyman n. vondi karlinn
 Scientology n. Vísindakirkjan
+Aristotelianism n. heimspeki gríska fræðimannsins Aristótelesar
+Aristotelian l. aristótelískur (eftir gríska heimspekingnum Aristótelesi)
+succubus n. kvendjöfull
+incubus n. illur andi sem herjar á konur í svefni
+behemoth n. stór og mikil ófreskja (úr Jobsbók í Biblíunni)
+Beelzebub n. Belsíbúbb (Satan)
+reggae n. reggí-tónlist
+activation n. virkjun (sjá %[activate]%)
+activate s. virkja, ræsa, kveikja á
+holistic l. heildrænn
+duo n. par, tvíeyki, tveir menn saman; tvenning; lag sem tveir eiga að syngja
+byte n. bæti, bæt, tölvustafur (átta bita gagnaeining í tölvum)
+kilobyte n. kílóbæti, 1024 bæti (sjá %[byte]%)
+megabyte n. megabæti, 1024 kílóbæti (sjá %[byte]%)
+gigabyte n. gígabæti, 1024 megabæti (sjá %[byte]%)
+terabyte n. terabæti, 1024 gigabæti (sjá %[byte]%)
+petabyte n. petabæti, 1024 terabæti (sjá %[byte]%)
