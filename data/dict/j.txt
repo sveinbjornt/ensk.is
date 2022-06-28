@@ -92,8 +92,8 @@ jetty n. hafnargarður; bryggja
 jetty l. kolsvartur, hrafnsvartur
 Jew n. Gyðingur
 Jewdom n. Gyðingdómur
-Jewess n. Gyðingastúlka
-Jewish l. gyðinglegur
+Jewess n. Gyðingastúlka, Gyðingakona
+Jewish l. gyðinglegur, af gyðingaættum
 jewel n. gimsteinn; gersemi, dýrgripur; s. búa (prýða) gimsteinum
 jeweler n. gimsteinakaupmaður; skrautgripasali
 jewelry n. skartmunir (búnir gimsteinum)
@@ -201,9 +201,9 @@ judicious l. skynsamur, greindur, skynsamlegur; skarpskyggn, vitur
 judiciously ao. skynsamlega
 judiciousness n. skynsemd, greind
 jug n. brúsi; (vatns)-krukka; s. sjóða (kjöt) í krukku
-juggle s. gera sjónhverfingar; gabba, leika á; n. sjónhverfingar; brögð; svik, gabb
+juggle s. gera sjónhverfingar; gabba, leika á; halda boltum á lofti; n. sjónhverfingar; brögð; svik, gabb
 juggler n. sjónhverfingamaður; svikari
-jugglery n. sjónhverfingar, brögð; svik
+jugglery n. sjónhverfingar, brögð, boltakast; svik
 jugular l. háls-; [the ~ vein] hálsæðin
 jugulate s. hálshöggva, drepa; kyrkja
 juice n. safi, vökvi (í plöntum og dýralíkömum)

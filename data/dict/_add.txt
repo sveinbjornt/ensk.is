@@ -1067,7 +1067,10 @@ algae n. ft. þörungar (et. %[alga]%)
 theogony n. goðakyn, tilurð goðanna
 sociopath n. siðblindingi, siðblind manneskja
 sociopathic l. siðblindur
-psychopath n. brjálæðingur, snarbrjálaður geðsjúklingur
+sociopathy n. siðblinda
+psychopath n. brjálæðingur, snarbrjálaður (og siðblindur) geðsjúklingur
+psychopathic l. (snar)brjálaður
+psychopathy n. sturlun, brjálæði, siðblinda
 kleptomaniac n. stelsjúk manneskja
 crap n. skítur, kúkur; drasl; rugl, kjaftæði; l. lélegur, ömurlegur; s. skíta, kúka; uh. andkotans!
 longsword n. langsverð
@@ -1104,3 +1107,11 @@ megabyte n. megabæti, 1024 kílóbæti (sjá %[byte]%)
 gigabyte n. gígabæti, 1024 megabæti (sjá %[byte]%)
 terabyte n. terabæti, 1024 gigabæti (sjá %[byte]%)
 petabyte n. petabæti, 1024 terabæti (sjá %[byte]%)
+kike n. júði (niðrandi orð um Gyðinga)
+shylock n. okurlánari; júði (niðrandi orð um Gyðinga)
+climatic l. loftslags- (sjá %[climate]%)
+climactic l. hápunkts-, hæsta stigs
+anticlimax n. spennufall (sjá %[climax]%)
+anticlimactic l. spennufalls- (sjá %[climactic]%)
+auxesis n. miklar ýkjur eða stigmögnun (í ræðulist)
+aardwolf n. jarðúlfur (afrískt spendýr)
