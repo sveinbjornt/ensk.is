@@ -1028,15 +1028,62 @@ percent n. prósent, hundraðshluti
 inkjet n. bleksprautun; l. bleksprautu- ([an ~ printer])
 cholesterol n. kólesteról
 freeware n. ókeypis hugbúnaður
-acne n. unglingabólur, graftarbólur
 spyware n. njósnahugbúnaður
+malware n. illkynja hugbúnaður
+shareware n. deilihugbúnaður
+adware n. hugbúnaður með auglýsingum
+acne n. unglingabólur, graftarbólur
 architectural l. byggingarlistar-
 internationally ao. alþjóðlega
 copyrighted l. varið af höfundarétti
 patented l. varið af einkaleyfi
 subsection n. undirdeild, undirflokkur, undirkafli, undirhluti
-Babylon n. Babýlon (höfuðborg Babýlóniu til forna); auðug og spillt stórborg
+Babylon n. Babýlon (höfuðborg Babýlóníu til forna); auðug og spillt stórborg
 betwixt fs. sjá %[between]%
 stereo l. víðóma (með tveimur hljóðrásum); hljómtæki, hljómflutningstæki
 steroid n. steri; ft. [steroids] sterar, steralyf
 xenomorph n. geimvera, utanaðkomandi lífvera
+kraken n. sæskrímsli, risakolkrabbi
+bowling n. keila (íþrótt)
+epistemology n. þekkingarfræði
+epistemological l. þekkingarfræðilegur
+leprechaun n. búálfur
+jotun n. jötunn
+orc n. orki
+orca n. háhyrningur
+modal logic n. háttarökfræði
+shite n. sjá %[shit]%
+political philosophy n. stjórnspeki, stjórnmálaheimspeki
+abattoir n. sláturhús
+cosmology n. heimsfræði, heimsmyndarfræði
+cosmological l. heimsfræðilegur
+ontology n. verufræði
+ontological l. verufræðilegur
+metaphilosophy n. heimspeki heimspekinnar, heimspekileg skoðun á aðferðafræði heimspeki
+natural philosophy n. náttúruspeki, náttúruvísindi ([the ~ of Isaac Newton])
+plankton n. svif, svifdýr
+alga n. sjá %[algae]%
+algae n. ft. þörungar (et. %[alga]%)
+theogony n. goðakyn, tilurð goðanna
+sociopath n. siðblindingi, siðblind manneskja
+sociopathic l. siðblindur
+psychopath n. brjálæðingur, snarbrjálaður geðsjúklingur
+kleptomaniac n. stelsjúk manneskja
+crap n. skítur, kúkur; drasl; rugl, kjaftæði; l. lélegur, ömurlegur; s. skíta, kúka; uh. andkotans!
+longsword n. langsverð
+spadroon n. létt sverð
+claymore n. skoskt sverð; jarðsprengja
+gladius n. rómverskt sverð
+machete n. sveðja
+épée n. sverð notað í ólympískum skylmingum
+epee n. sjá %[épée]%
+siege engine n. umsátursvopn, umsátursvél, umsáturstæki
+trebuchet n. valslöngva, steinvarpa (umsátursvopn á miðöldum)
+ballista n. risastór lásbogi
+petard n. e.k. sprengja
+kobold n. hrekkjóttur álfur eða púki (í þýskri þjóðtrú)
+minotaur n. mínótár (í grískri goðafræði, skrímsli sem er hálfur maður, hálft naut)
+banshee n. kvenvofa (í írskri þjóðtrú)
+phoenix n. Fönix (ódauðlegur eldfugl í grískri goðafræði)
+bogeyman n. vondi karlinn
+Scientology n. Vísindakirkjan

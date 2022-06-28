@@ -118,6 +118,13 @@ SKIP = frozenset(
         "Babylon",
         "vice-regent",
         "xenomorph",
+        "gladius",
+        "jotun",
+        "kobold",
+        "longsword",
+        "metaphilosophy",
+        "spadroon",
+        "theogony",
     )
 )
 

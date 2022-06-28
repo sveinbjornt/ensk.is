@@ -865,11 +865,11 @@ philhellene n. Grikkjavinur
 philhellenist n. Grikkjavinur
 philhellenic l. vinveittur Grikkjum
 philippic n. refsiræða
-philological l. málfræðilegur
-philologist n. málfræðingur
-philology n. málfræði ([comparative ~])
+philological l. málfræðilegur, textafræðilegur
+philologist n. málfræðingur, textafræðingur
+philology n. málfræði, textafræði ([comparative ~])
 philomel n. næturgali
-philosopher n. heimspekingur; eðlisfræðingur ([natural ~])
+philosopher n. heimspekingur; [natural ~] eðlisfræðingur, náttúruspekingur
 philosophical l. heimspekilegur; viturlegur
 philosophism n. skökk röksemdaleiðsla, villuheimspeki
 philosophize s. rannsaka (eðli hlutanna), hugsa og álykta heimspekilega
@@ -1184,7 +1184,7 @@ platinum n. platína, hvítagull
 platitude n. grunnhyggnisleg athugasemd
 platitudinous l. bragðlaus; daufur, grunnhyggnislegur
 Platonic l. platónskur (eftir heimspekingnum Platón); [~ love] andleg (fýsnarlaus) ást
-Platonism n. platónismi (heimspekiskenning Platóns)
+Platonism n. platónismi (heimspekikenning Platóns)
 platoon n. lítill fótgönguliðsflokkur; hópur; skothríð
 platter n. grunnt trog
 platter n. fléttari

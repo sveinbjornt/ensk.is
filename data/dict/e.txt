@@ -915,20 +915,20 @@ Ethiopian l. eþíópskur; n. Eþíópi
 ethnic l. heiðinn; þjóðfræðislegur, þjóðernis-
 ethnicism n. heiðni
 ethnographer n. þjóðfræðingur
-ethnographic l. þjóðfræðislegur
-ethnographical l. þjóðfræðislegur
+ethnographic l. þjóðfræðilegur
+ethnographical l. þjóðfræðilegur
 ethnography n. þjóðalýsing, þjóðfræði
-ethnological l. þjóðfræðislegur
+ethnological l. þjóðfræðilegur
 ethnologist n. þjóðfræðingur
 ethnology n. þjóðalýsing, þjóðfræði
 etiquette n. hirðsiðir; hegðunarvenja
 etui n. hylki (einkum saumahylki)
 etwee n. hylki (einkum saumahylki)
-etymologic l. sem lýtur að uppruna og afleiðslu orða
-etymological l. sem lýtur að uppruna og afleiðslu orða
-etymologist n. sá sem rekur uppruna orðanna, orðmyndunarfræðingur
+etymologic l. sem lýtur að uppruna og afleiðslu orða, orðsifja-
+etymological l. sem lýtur að uppruna og afleiðslu orða, orðsifja-
+etymologist n. orðsifjafræðingur, orðmyndunarfræðingur, sá sem rekur uppruna orða
 etymologize s. rekja uppruna orða
-etymology n. uppruni og afleiðsla orða; orðmyndunarfræði, orðsifjafræði
+etymology n. orðsifjafræði, orðmyndunarfræði; uppruni og afleiðsla orða
 eucharist n. kvöldmáltíðarsakramenti, einkum brauðið ([give, receive the ~])
 eucharistic l. sem lýtur að kvöldmáltíðarsakramentinu ([the ~ bread and wine])
 eucharistical l. sem lýtur að kvöldmáltíðarsakramentinu ([the ~ bread and wine])
