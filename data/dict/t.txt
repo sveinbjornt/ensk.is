@@ -749,7 +749,7 @@ toast s. drekka (mæla fyrir) minni e-s; n. minni, skál; skálræða; [to give 
 toastmaster n. skálameistari
 tobacco n. tóbak
 tobacconist n. tóbakssali
-tocksin n. viðvörunarklukka ([~ of alarm]), herklukka
+tocsin n. viðvörunarklukka ([~ of alarm]), herklukka
 toddle s. vappa, trítla; skjögra; n. vapp, valtur gangur
 toddler n. smákrakki
 toddy n. pálmavín; toddý
@@ -1379,7 +1379,7 @@ turbulent l. ofsafullur; óstýrilátur, uppreisnargjarn
 tureen n. stór súpuskál
 turf n. grassvörður; torf; mór; móhnaus; skeiðvöllur (til kappreiða); s. þekja með grassverði
 turf-pit n. mógröf
-tureeny l. auðugur af grassverði eða mó; þakinn grassverði; mókenndur; sem lýtur að kappreiðum
+turfy l. auðugur af grassverði eða mó; þakinn grassverði; mókenndur; sem lýtur að kappreiðum
 turgid l. bólginn, þrútinn; uppbelgdur; íburðarmikill
 turgidness n. bólga; íburður (í rithætti)
 turgidity n. bólga; íburður (í rithætti)

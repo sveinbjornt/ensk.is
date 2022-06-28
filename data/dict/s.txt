@@ -356,7 +356,7 @@ scorbutic l. veikur af skyrbjúg; skyrbjúgs-
 scorch s. svíða, láta skrælna af hita; sviðna, skrælna
 score n. skora; strik; reikningur; skuld; ástæða; skor (tveir tugir); [upon the ~ of friendship] fyrir vináttusakir; [to go (set) off, start at a ~] þjóta af stað (um hest); [to quit ~s with one] gera upp reikninga við e-n, borga e-m að fullu; s. merkja með skorum eða strikum, skora, strika; skrifa í reikning (e-s); [~ out] strika út
 scoria n. sindur, gjall; ft. vikurkol
-scoraceous l. gjallmyndaður, gjall-
+scoriaceous l. gjallmyndaður, gjall-
 scorn s. fyrirlíta; forsmá; n. fyrirlitning; forsmán
 scornful l. forsmáandi, fyrirlítandi ([of])
 scornfully ao. með fyrirlitningu
@@ -2069,7 +2069,6 @@ spud n. arfagref; s. reyta, rífa upp ([~ out, up])
 spume n. froða; s. freyða, löðra
 spumous l. freyðandi, löðrandi
 spumy l. freyðandi, löðrandi
-spungy l. sveppkynjaður; holóttur; gljúpur; mjúkur
 spunk n. tundur, eldsveppur; kjarkur, áræði
 spunky l. kjarkmikill, áræðinn ([a ~ sort of chap])
 spur n. spori; hvöt; höfuðrót á tré; skástoð; fjallsrani; [to set ~s to] keyra sporum; [on (upon) the ~ of the moment] í mesta flýti, undirbúningslaust; viðstöðulaust; s. keyra sporum; hvetja; skunda; hleypa (hesti)
@@ -2811,7 +2810,7 @@ suffocative l. kæfandi
 suffragan n. undirbiskup, aðstoðarbiskup
 suffrage n. atkvæði; atkvæðisréttur; samþykki; fyrirbæn
 suffragette n. kvenréttindakona
-sufffragist n. sá eða sú, sem berst fyrir auknum stjórnmálaréttindum, einkum kvenna
+suffragist n. sá eða sú, sem berst fyrir auknum stjórnmálaréttindum, einkum kvenna
 suffuse s. hella yfir, breiða yfir; draga (lit) yfir; [eyes ~d with tears] társtokkin augu
 suffusion n. yfirhelling; roði í andliti
 sugar n. sykur; s. sykra
@@ -2847,7 +2846,7 @@ sulphuric l. brennisteins-
 sulphuric acid n. brennisteinssýra
 sulphurize s. hleypa brennisteinsgufu á e-ð, reykja e-ð með brennisteini
 sulphurous l. brennisteinskenndur, brennisteinsborinn
-sulten n. soldán
+sultan n. soldán
 sultana n. soldánsdrottning
 sultriness n. molla
 sultry l. mollulegur
@@ -2978,7 +2977,7 @@ suppressive l. niðurbælandi; sefandi
 suppressor n. sá sem bælir niður
 suppurate s. grafa í; [the boil ~s] það grefur í kýlinu
 suppuration n. gröftur; ígerð
-suoremacy n. æðstu yfirráð, æðsta vald, drottinvald
+supremacy n. æðstu yfirráð, æðsta vald, drottinvald
 supreme l. æðstur, efstur
 supremely ao. mjög, ákaflega
 surcharge s. ofhlaða, leggja of þunga byrði á; offylla; yfirstimpla; n. ofhleðsla, of þung byrði; yfirstimplun
@@ -3035,7 +3034,7 @@ suspense n. óvissa; spenna, kvíði; hlé
 suspension n. upphenging; frestur; óvissa; stöðvun fjárgreiðslu ([~ of payment]); [~ of hostilities] vopnahlé
 suspension bridge n. hengibrú
 suspensive l. óviss, vafasamur; frestandi ([~ veto])
-supensory l. sem styður eða heldur uppi ([~ bandage]); frestunar-; n. lyftiband, undirband
+suspensory l. sem styður eða heldur uppi ([~ bandage]); frestunar-; n. lyftiband, undirband
 suspicion n. grunur, grunsemd; tortryggni
 suspicious l. tortrygginn ([the ignorant are ~]); tortryggilegur; grunsamlegur ([with a ~ glance])
 suspiciousness n. tortryggni; grunsamlegt útlit

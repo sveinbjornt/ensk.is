@@ -213,7 +213,7 @@ parasite n. sníkjudýr; smjaðrari; planta, sem vex út úr annarri plöntu; d�
 parasitic l. sem lifir á öðrum ([~ insects]); sníkjugestslegur
 parasitical l. sem lifir á öðrum ([~ insects]); sníkjugestslegur
 parasol n. sólhlíf
-paraboil s. hita í vatni fram undir suðu, hálfsjóða
+parboil s. hita í vatni fram undir suðu, hálfsjóða
 parcel n. partur, stykki; böggull, pakki; [by ~ post] með bögglapóstinum; s. hluta í sundur ([~ out])
 parch s. láta skrælna, þurrka, sviða (í sólarhita); skrælna, sviðna
 parchment n. pergament, bókfell
@@ -407,7 +407,7 @@ paviour n. steinleggjari, sem steinleggur stræti
 pavilion n. tjaldhús, tjald; skemmtihús
 pavonine l. páfuglslegur; litbreytilegur (sem páfuglsstél)
 paw n. löpp; hrammur; s. klóra, krafsa með framfótunum; strjúka
-pawi n. hamla
+pawl n. hamla
 pawn n. veð, handveð. pantur; [at (in) ~] veðsettur; s. veðsetja
 pawnbroker n. veðlánari, sem lánar gegn handveði
 pawnee n. veðhafi
@@ -917,7 +917,7 @@ physical l. náttúrufræðilegur; eðlisfræðilegur; líkamlegur
 physician n. læknir
 physicist n. eðlisfræðingur
 physics n. eðlisfræði
-physiognomer n. sá sem þekkir (eða þykist þekkja) skaplyndi manna af andlitsfalli þeirra
+physiognomer n. sjá %[physiognomist]%
 physiognomics n. sú kunnátta að þekkja skaplyndi manna af andlitsfalli þeirra, svipfræði
 physiognomist n. sá sem þekkir (eða þykist þekkja) skaplyndi manna af andlitsfalli þeirra
 physiognomy n. andlitsfall, svipur, yfirbragð
@@ -1377,8 +1377,7 @@ pole n. stöng; tjaldsúla; bátstjaki; mælistöng; lengdarmál; s. bera (flytj
 poleaxe n. háskeft öxi, bardagaöxi, vígöxi
 Pole n. Pólverji
 polecat n. marðartegund
-polentic l. ritdeilugjarn, þrætugjarn; ritdeilu-
-polemic n. ritdeilugjarn maður; ritdeila
+polemic l. ritdeilugjarn, þrætugjarn; ritdeilu-; n. ritdeilugjarn maður; ritdeila
 polemical l. ritdeilulegur
 police n. lögregla, löggæsla; lögreglulið; s. halda uppi reglu á e-m stað; verja, gæta ([~ the coast])
 policeman n. lögregluþjónn

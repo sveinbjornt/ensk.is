@@ -120,7 +120,7 @@ hang s. hengja; hengja (myndir eða veggtjöld) á; hanga, lafa; vera kominn und
 hangdog n. bófi; l. bófa- ([with a ~ air])
 hanger-on n. áhangandi
 hanging n. henging
-hanings n. ft. veggtjöld
+hangings n. ft. veggtjöld
 hangman n. böðull
 hangnail n. annögl
 hank n. hönk; hespa; viða
@@ -893,7 +893,7 @@ housewifely l. húsmóðurlegur; hirðusamur, sparsamur
 housewifery n. búskapur; sparsemi, hirðusemi
 house s. hýsa, veita húsaskjól; flytja inn í hús; dvelja
 housel n. husl; s. husla
-housino n. hýsing; hús; söðulklæði, reiðver, áklæði
+housing n. hýsing; hús; söðulklæði, reiðver, áklæði
 hovel n. lélegur kofi, hreysi; hjallur, byrgi
 hover s. sveima, svífa (í lausu lofti); flögra; reika (um e-n stað [about, over])
 how ao. hvernig, hversu, hve

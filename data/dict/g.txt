@@ -622,7 +622,7 @@ grant s. veita ([~ a request, wish]); kannast við, játa; [to take for ~ed] gan
 grantee n. sá sem fengið hefur einkaleyfi, leyfishafi
 granter n. veitandi
 granular l. kornóttur, sem líkist korni
-granuly l. kornóttur, sem líkist korni
+granulary l. kornóttur, sem líkist korni
 granulate s. gera að kornum; gera kornótt; verða að kornum
 granule n. lítið korn
 granulous l. smákornóttur
