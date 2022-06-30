@@ -1490,7 +1490,7 @@ popularity n. vinsæld, lýðhylli, alþýðuhylli ([the ~ of the poet])
 popularize s. gera alþýðlegt eða við alþýðuhæfi; breiða út meðal alþýðu; veita alþýðu þátt í e-u
 popularly ao. af almenningi, af alþýðu; alþýðlega
 populate s. byggja (land); [densely ~d] þéttbýll, þéttbyggður
-population n. bygging; íbúar; fólksfjöldi, fólkstala
+population n. íbúar; fólksfjöldi, fólkstala
 populous l. fjölmennur, fjölbyggður
 populousness n. þéttbýli
 porbeagle n. hámeri
