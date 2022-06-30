@@ -943,8 +943,8 @@ analogical l. samanburðarlegur
 analogize s. nota samanburð; vera í samræmi (við [with])
 analogous l. líkur; hliðstæður
 analogy n. samanburður, líking; samsvörun
-analyse s. sundurliða; skoða vandlega, gagnrýna; leysa upp
-analyze s. sundurliða; skoða vandlega, gagnrýna; leysa upp
+analyse s. sjá %[analyze]%
+analyze s. greina; sundurliða; skoða vandlega, gagnrýna; leysa upp
 analysis n. greining; sundurliðun; uppleysing
 analytical l. greinandi; sundurliðandi; uppleysandi
 ananas n. ananas (aldin)
