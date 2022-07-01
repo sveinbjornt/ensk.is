@@ -1346,7 +1346,7 @@ colloquial l. samtals-; tekinn úr daglegu máli ([~ phrase])
 colloquialism n. daglegt mál
 colloquialist n. (skemmtilegur) viðtalsmaður
 colloquy n. samtal
-collute s. hafa leynileg samtök
+collude s. hafa leynileg samtök
 collusion n. leynisamtök, leynimakk; svik
 collusive l. sviksamlegur
 colon n. tvístingur, tvípunktur (:)
@@ -2401,7 +2401,7 @@ coy l. feiminn
 coyness n. feimni
 cozen s. svíkja ([~ one for]); lokka ([~ into doing])
 cozenage n. sviksemi; svik, prettur
-cozer n. svikari
+cozener n. svikari (sjá %[cozen]%)
 crab n. krabbi; skógarepli
 crabbed l. önugur, afundinn; önuglyndur; flókinn, þungskilinn; ógreinilegur (um rithönd)
 crabbedness n. önugleiki
@@ -2542,7 +2542,7 @@ crockery n. leirker; leirkerasmíði, steinvara
 crocodile n. krókódíll
 crocus n. safranblóm
 croft n. tún, lítið akurlendi
-crocuser n. skoskur smábóndi
+crofter n. skoskur smábóndi
 crone n. kerling ([an old ~]); gömul rolla
 crony n. kunningi, vinur
 crook n. krókur; bugða; smalaprik (með krók á endanum); biskupsstafur, bagall

@@ -200,7 +200,6 @@ decalitre n. 10 lítrar
 decalogue n. tíulaga boðorð
 decamp s. taka upp herbúðir og fara af stað; halda snögglega burt, strjúka
 decampment n. burtför
-deceiter n. borðflaska
 decapitate s. hálshöggva
 decapitation n. hálshögg, aftaka
 decay s. ganga af sér; hrörna; visna, rotna; eyða, skemma; n. hrörnun, afturför, hnignun; rotnun; [fall into ~] ganga af sér; hrörna; falla í rústir
@@ -609,7 +608,6 @@ derogate s. takmarka (lög); falla í tign eða áliti; [~ from] draga úr, rýr
 derogation n. takmörkun (laga); rýrð, niðrun
 derogatory l. rýrandi, niðrandi ([to, from])
 derring-do n. hreystiverk, hetjuskapur ([deed of ~])
-dervis n. persneskur eða tyrkneskur förumunkur
 dervish n. persneskur eða tyrkneskur förumunkur
 descant s. syngja diskant; ræða, fjölyrða (um [on]); n. diskant; ritgjörð
 descend s. ganga (stiga, koma, falla) niður; gera landgöngu; ganga í arf; vera kominn af, eiga kyn sitt að rekja til (e-s [from])
@@ -762,7 +760,7 @@ devolve s. velta (e-u) niður; leggja e-m (t.d. byrði eða skyldu) á herðar (
 devote s. helga (tíma sinn, alla krafta sína e-u málefni); ofurselja; [~ oneself to science] helga vísindunum starf sitt
 devoted l. hollur, trúr; ákafur; ofurseldur; ógæfusamur; [~ to duty] skyldurækinn
 devotee n. trúrækinn maður
-dovotion n. guðhræðsla; bænahald; hollusta; skyldurækni ([~ to duty]); áhugi, ákafi
+devotion n. guðhræðsla; bænahald; hollusta; skyldurækni ([~ to duty]); áhugi, ákafi
 devotional l. guðrækilegur; [~ exercises] bænahald
 devour s. éta, rífa í sig, gleypa; eyða (um eld, vopn, sóttir)
 devout l. guðhræddur; guðrækilegur; einlægur ([~ wishes])
@@ -805,7 +803,7 @@ diaper n. rósað léreft; handklæðadúkur; þurrka, handklæði; s. vefa rós
 diaphanous l. gagnsær
 diaphragm n. þind
 diarrhea n. lífsýki, niðurgangur
-diarrrheal l. lífsýkis-, niðurgangs-
+diarrheal l. lífsýkis-, niðurgangs-
 diarist n. dagbókarhöfundur
 diary n. dagbók
 diatribe n. orðadeila; skammaræða
@@ -1125,7 +1123,7 @@ disinter s. grafa upp aftur
 disinterested l. óhlutdrægur, ósérplæginn
 disinterestedness n. ósérplægni
 disject s. slíta í sundur, tvístra
-dijection n. sundrun, tvístrun
+disjection n. sundrun, tvístrun
 disjoin s. skilja í sundur
 disjoint s. kippa úr liði; skekkja í liði; liða (taka) í sundur
 disjointed l. ósamanhangandi ([~ sentences])

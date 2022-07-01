@@ -359,7 +359,7 @@ tugboat n. dráttarbátur
 volt n. volt (mælieining)
 Celt n. Kelti
 xenolith n. xenólít (grjóttegund)
-decanter n. karafla
+decanter n. karafla, borðflaska
 genetics n. ft. erfðafræði
 genetic l. erfðafræðilegur, erfðafræði-; sem lýtur að tilurð e-s
 genetic engineering n. erfðatækni
@@ -936,6 +936,7 @@ blackjack n. spilið 21; kylfa
 bunny n. (ung) kanína
 capitol n. höfuðborg; musteri
 dystopia n. dystópía; skelfilegt, hræðilegt ríki; andstæðan af fyrirmyndarríki (sjá %[utopia]%)
+dystopian l. dystópískur (sjá %[dystopia]%)
 xerox s. ljósrita (í N-Ameríku, sjá %[photocopy]%); [~ machine] ljósritunarvél
 photocopy s. ljósrita
 photocopier n. ljósritunarvél
@@ -963,7 +964,7 @@ sadism n. kvalalosti, sadismi, kvalafýsn
 sadist n. lostakvalari
 sadistic l. kvalalosta-
 masochism n. sjálfspíningarhvöt
-sado-masochism n. sadó-masókismi (sjá %[sadism]% og %[masochism]%)
+sadomasochism n. sadómasókismi (sjá %[sadism]% og %[masochism]%)
 BDSM n. kynlíf sem einkennist af kvalalosta, pyntingu, drottnun og undirgefni (stytt. á [bondage, domination, sado-masochism])
 skeptic n. sjá %[sceptic]%
 skeptical l. sjá %[sceptical]%
@@ -1117,6 +1118,7 @@ climatic l. loftslags- (sjá %[climate]%)
 climactic l. hápunkts-, hæsta stigs
 anticlimax n. spennufall (sjá %[climax]%)
 anticlimactic l. spennufalls- (sjá %[climactic]%)
+yoyo n. jójó (leikfang)
 auxesis n. miklar ýkjur eða stigmögnun (í ræðulist)
 aardwolf n. jarðúlfur (afrískt spendýr)
 morning star n. morgunstjarna (plánetan Venus); gaddakylfa
@@ -1130,7 +1132,7 @@ logistician n. skipulagsfræðingur, flutningafræðingur, sérfræðingur í he
 hypertext n. stiklutexti, veftexti
 DVD n. mynddiskur, DVD-diskur (stytt. á [Digital Video Disc], bókst. stafrænn myndbandsdiskur)
 beautification n. fegrun
-beautician n. snyrtfræðingur, fegrunarfræðingur
+beautician n. snyrtifræðingur, fegrunarfræðingur
 ceasefire n. vopnahlé
 millipede n. þúsundfætla
 cherubic l. engillegur; saklaus, ljúfur
@@ -1141,3 +1143,7 @@ science fiction n. vísindaskáldskapur
 Yiddish n. jiddíska (tungumál evrópskra Gyðinga); l. jiddískur
 yoga n. jóga (e.k. slökunaræfingar)
 yowl n. langt óp eða öskur; s. æpa, öskra
+zaibatsu n. japönsk fyrirtækjasamsteypa
+zygote n. okfruma
+zygotic l. okfrumu-
+zipper n. rennilás

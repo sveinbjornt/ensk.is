@@ -446,7 +446,7 @@ whistle n. blístur; hljóðpípa; s. blístra; hvína, þjóta
 whit n. ögn, vitund; [not a ~] ekki agnar ögn, ekki hót; [every ~ as great] alveg eins stór
 white l. hvítur; náfölur (af ótta [with fear]); hreinn, óflekkaður; grár ([~ hair]); heillavænlegur ([a ~ day]); [to show the ~ feather] sýna hugleysi; n. hvíta (í auga og eggi); miðdepill (á skotspæni); hvítur maður; s. hvítta, kalkdraga
 white bait n. hvítsíld
-whiteear n. steindepill
+white-ear n. steindepill
 white heat n. hvítglóandi hiti
 white-hot l. hvítglóandi
 white-iron n. pjátur, blikk
