@@ -499,7 +499,7 @@ centesimal l. hundraðasti ([~ part])
 centigrade l. [~ thermometer] hundrað stiga hitamælir (Celsius)
 centigramme n. 1/100 úr grammi
 centimetre n. 1/100 úr metra
-centipede n. þúsundfætla
+centipede n. margfætla
 central l. sem er í miðið, mið-; aðal-, höfuð; [~ heating] miðstöðvarhitun; [~ exchange] símamiðstöð
 centrality n. miðleiki, miðbikslega
 centralization n. samdráttur á einn stað; miðstýring

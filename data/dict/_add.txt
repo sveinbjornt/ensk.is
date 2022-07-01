@@ -139,14 +139,14 @@ snowboard n. snjóbretti; s. fara á snjóbretti
 newswoman n. fréttakona
 cookbook n. matreiðslubók, eldamennskubók
 cunt n. píka (óformlegt)
-effectiveness n. skilvirkni
+effectiveness n. skilvirkni, virkni
 feedback n. endurgjöf
 functionality n. virkni
-furniture n. húsgögn; [he got rid of all his ~] hann losaði sig við húsgögn sín
+furniture n. húsgögn; [he got rid of all his ~] hann losaði sig við öll húsgögnin
 gasoline n. bensín
 halloween n. hrekkjavaka
-headphone n. heyrnartól (yfirleitt í ft. [headphones])
-headphones n. heyrnartól
+headphone n. heyrnartól (yfirleitt í ft. %[headphones]%)
+headphones n. ft. heyrnartól
 homework n. heimavinna
 investor n. fjárfestir
 mega- fsk. ofur-
@@ -253,7 +253,7 @@ watt n. vatt (mælieining)
 megawatt n. megavatt (milljón vött)
 gigawatt n. gígavatt (milljarður vatta)
 kilowatt n. kílóvatt (þúsund vött)
-workstation n. vinnustöð
+workstation n. vinnustöð; skrifborðstölva
 cougar n. fjallaljón; kynferðislega virk eldri kona (óforml.)
 calisthenics n. ft. leikfimiæfingar
 automation n. sjálfvirkni; sjálfvirknivæðing
@@ -284,7 +284,6 @@ entertainment industry n. skemmtanabransinn, afþreyingarbransinn
 calculus n. stærðfræðigreining, diffur- og tegurreikningur, reiknivísi, örsmæðareikningur; tannsteinn
 recession n. kreppa; samdráttur, afturdráttur (sjá %[recede]%)
 stereotype n. staðalímynd, staðalmynd
-vibrator n. titrari
 witchcraft n. nornafár, fjölkynngi, galdrar
 smug l. sjálfumglaður, sjálfsánægður
 sociological l. samfélagslegur, félagslegur, félagsvísindalegur
@@ -385,7 +384,7 @@ rollerblades n. ft. línuskautar
 plexiglass n. plexígler
 thermophile n. hitakær lífvera
 thermophilic l. hitakær (notað um lífverur sem dafna við háan hita)
-consultancy n. ráðgjöf
+consultancy n. ráðgjöf; ráðgjafarstofa
 demographic l. lýðfræðilegur
 demography n. lýðfræði
 demographics n. ft. lýðfræðiupplýsingar
@@ -481,7 +480,7 @@ hagiography n. helgisaga, dýrlingasaga; helgisagnaritun
 hagiographer n. helgisagnaritari, dýrlingasöguritari
 hagiographical l. helgisagna-, dýrlingasögu-
 volcanology n. eldfjallafræði
-volcanological l. eldfjallafræðilegur
+volcanological l. eldfjallafræðilegur, eldfjallafræði-
 volcanologist n. eldfjallafræðingur
 electron n. rafeind
 electronic l. rafrænn, raftæknilegur, raftækni-; rafeinda-
@@ -766,7 +765,7 @@ Zimbabwe n. Simbabve
 tsar n. Rússlandskeisari
 tsarina n. Rússlandskeisaradrottning
 unsubscribe s. segja upp áskrift
-camouflage n. felulitur, felubúningur, dulbúningur, dulklæði; s. felulita, felubúa
+camouflage n. felulitur, felubúningur, dulbúningur, dulklæði; s. felulita, felubúa, dulbúa, dulklæða
 endangered l. í hættu, í voða; [~ species] dýrategund í útrýmingarhættu
 occupational l. starfs-, atvinnu-; [~ hazard] atvinnuáhætta, áhætta sem fylgir e-i starfsemi
 endogenous l. kominn innan frá (lífveru) (líffræðilegt hugtak)
@@ -888,6 +887,9 @@ thriller n. reyfari, spennusaga, spennumynd
 fridge n. kæliskápur, ísskápur
 freezer n. frystir, frystikista, frystiklefi
 Yugoslavia n. Júgóslavía
+Yugoslavian l. júgóslavneskur; n. júgóslavi
+Yugoslavic l. júgóslavneskur (sjá einnig %[Yugoslavian]%)
+Yugoslav n. júgóslavi
 Soviet Union n. Sovétríkin
 Caledonia n. Kaledónía (fornrómverskt heiti yfir það svæði sem er í dag Skotland)
 pricing n. verðlagning
@@ -933,7 +935,7 @@ rugby n. ruðningur (ensk íþrótt)
 blackjack n. spilið 21; kylfa
 bunny n. (ung) kanína
 capitol n. höfuðborg; musteri
-dystopia n. dystópía
+dystopia n. dystópía; skelfilegt, hræðilegt ríki; andstæðan af fyrirmyndarríki (sjá %[utopia]%)
 xerox s. ljósrita (í N-Ameríku, sjá %[photocopy]%); [~ machine] ljósritunarvél
 photocopy s. ljósrita
 photocopier n. ljósritunarvél
@@ -984,7 +986,7 @@ payroll n. launaskrá; launagreiðslur
 refurbish s. gera upp, lagfæra, hressa upp á
 convinced l. sannfærður; [he was ~ that ...]
 kakistocracy n. stjórn hinna verstu
-prepaid n. fyrirframgreiddur, borgaður fyrirfram
+prepaid l. fyrirframgreiddur, borgaður fyrirfram
 fascinating l. heillandi, töfrandi
 thoroughly ao. rækilega, vandlega, ítarlega
 benchmark n. viðmið, viðmiðun, afkastaprófun, afkastamæling; s. mæla afköst (út frá viðmiðum)
@@ -993,7 +995,7 @@ transsexual n. kynskiptingur, trans manneskja; l. kynskiptings-, trans
 tranny n. (niðrandi) sjá %[transsexual]%
 trivia n. smámunir, lítilræði; spurningaleikur
 toolkit n. verkfærakista, verkfærakassi
-workout n. líkamsrækt, líkamsþjálfun
+workout n. líkamsrækt, líkamsþjálfun, líkamsæfing
 protocol n. samskiptareglur, samskiptamáti
 fibrillate s. tifa, titra, flökta
 fibrillation n. tif, titringur, flökt (í hjartanu)
@@ -1021,7 +1023,7 @@ scenario n. aðstæður, atburðarás ([consider the following ~])
 airline n. flugfélag
 wallpaper n. veggfóður; s. veggfóðra
 insider n. innherji
-cultural l. menningarlegur
+cultural l. menningarlegur, menningar-
 bookstore n. bókabúð
 prepared l. undirbúinn
 confirmed l. staðfestur; staðfastur ([he is a ~ bachelor])
@@ -1094,7 +1096,7 @@ Scientology n. Vísindakirkjan
 Aristotelianism n. heimspeki gríska fræðimannsins Aristótelesar
 Aristotelian l. aristótelískur (eftir gríska heimspekingnum Aristótelesi)
 succubus n. kvendjöfull
-incubus n. illur andi sem herjar á konur í svefni
+incubus n. illur andi sem leitar á konur í svefni
 behemoth n. stór og mikil ófreskja (úr Jobsbók í Biblíunni)
 gargoyle n. ufsagrýla
 Beelzebub n. Belsíbúbb (Satan)
@@ -1124,3 +1126,18 @@ menswear n. herrafatnaður
 womenswear n. kvenfatnaður
 hangover n. þynnka, timburmenn
 analyst n. greinandi, sérfræðingur, rýnir, e-r sem rýnir í gögn (sjá %[analyze]%)
+logistician n. skipulagsfræðingur, flutningafræðingur, sérfræðingur í hernaðarskipulagi (sjá %[logistics]%)
+hypertext n. stiklutexti, veftexti
+DVD n. mynddiskur, DVD-diskur (stytt. á [Digital Video Disc], bókst. stafrænn myndbandsdiskur)
+beautification n. fegrun
+beautician n. snyrtfræðingur, fegrunarfræðingur
+ceasefire n. vopnahlé
+millipede n. þúsundfætla
+cherubic l. engillegur; saklaus, ljúfur
+lyricism n. ljóðrænn stíll
+pragmatism n. raunsæi; verkhyggja (í heimspeki); sjá %[pragmatic]%
+pragmatist n. raunsær maður sem fylgir ekki kreddum; verkhyggjumaður (í heimspeki); sjá %[pragmatic]%
+science fiction n. vísindaskáldskapur
+Yiddish n. jiddíska (tungumál evrópskra Gyðinga); l. jiddískur
+yoga n. jóga (e.k. slökunaræfingar)
+yowl n. langt óp eða öskur; s. æpa, öskra

@@ -125,6 +125,12 @@ SKIP = frozenset(
         "metaphilosophy",
         "spadroon",
         "theogony",
+        "Aristotelian",
+        "Aristotelianism",
+        "auxesis",
+        "Beelzebub",
+        "Czechoslovakia",
+        "sociopathy",
     )
 )
 

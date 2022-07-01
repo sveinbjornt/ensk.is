@@ -255,7 +255,7 @@ parricidal l. sem lýtur að föðurmorði
 parricide n. föður eða móðurmorðingi; föðurmorð, móðurmorð; föðurlandssvik
 parrot n. páfagaukur; s. herma eftir, éta upp eftir e-m; hafa e-ð eftir; stagast á e-u
 parry s. bera af sér (högg); koma sér undan e-u, verjast e-u ([~ a question])
-parse s. greina í sundur; skýra (málfræðilega)
+parse s. greina í sundur; skýra (málfræðilega); þátta (í tölvunarfræði)
 parsimonious l. spar; sparsamur; nískur
 parsimony n. sparsemi; níska, aðsjálni
 parsley n. péturselja
@@ -264,9 +264,9 @@ parsonage n. prestssetur
 part n. partur, hluti; þáttur ([take ~ in a discussion]); hlutverk; málefni; ft. gáfur; [the work comes out in ~s] í heftum; [for my ~] að mínu leyti; [~s of a speech] partar ræðunnar; [in our ~s (of the country)] í vorum sveitum; [in these ~s] hér um slóðir; [in ~] að nokkru leyti; [on the ~ of] af hálfu e-s; [from all ~s] úr öllum áttum; [take ~ with (the ~ of)] styðja málstað e-s, draga taum e-s; [take in good (ill) ~] taka vel (eða illa) upp, taka e-u vel eða illa
 part s. skipta ([~ the hair]); skilja ([~ the combatants]); greina í sundur ([~ error from crime]); brjóta, slita; slitna, springa (um kaðal); skiljast ([~ good friends, here our roads ~ed]); fara; [~ out of this life] deyja; [~ with] skiljast við e-ð, missa; farga e-u; [~ company] skiljast (við e-n [from])
 partake s. taka þátt í ([~ in each other's joy]); [~ of] neyta, njóta (matar)
-partaker n. hluttakandi
+partaker n. hluttakandi, þátttakandi
 parterre n. blómareitur; afturhluti gólfs í leikhúsi
-partial l. sem er að eins að nokkru leyti ([~ success, ~ eclipse]); hlutdrægur, vilhallur; [be ~ to] vera meðmæltur e-m
+partial l. sem er aðeins að nokkru leyti eða að hluta til ([~ success, ~ eclipse]); hlutdrægur, vilhallur; [be ~ to] vera meðmæltur e-m
 partiality n. hlutdrægni; mætur (á [for])
 partially ao. að nokkru leyti, að hluta til
 partible l. skiptanlegur, deililegur
@@ -1660,7 +1660,7 @@ practice n. vani; föst venja; æfing ([~ makes perfect]); leikur; notkun; framk
 practician n. framkvæmdarmaður, starfsmaður
 practise s. iðka; stunda; framkvæma; beita, viðhafa; temja sér; fremja; beita brögðum; æfa sig ([~ on piano]); gegna störfum; [~ as a lawyer] gegna málflutningsstörfum; [~ physic] fást við lækningar; [~ on his credulity] nota sér trúgirni hans
 practitioner n. starfsmaður; læknir ([~ of medicine]); málaflutningsmaður ([~ of law])
-pragmatic l. afskiptasamur um hag og gjörðir annara; þrár, þrályndur; óundanlátsamur; hagsýnn; framkvæmdar- ([~ people]); [~ history] saga, er sýnir orsakir og afleiðingar viðburðanna
+pragmatic l. afskiptasamur um hag og gjörðir annara; þrár, þrályndur; óundanlátsamur; hagsýnn; athafnasamur; framkvæmdar- ([~ people]); raunsær; verkhyggju- (í heimspeki); [~ history] saga, er sýnir orsakir og afleiðingar viðburðanna
 pragmatical l. sjá %[pragmatic]%
 prairie n. stór grasslétta (í Norður-Ameríku)
 praise n. lof, hrós; vegsömun; s. lofa, hrósa; vegsama
