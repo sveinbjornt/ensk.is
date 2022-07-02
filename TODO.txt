@@ -3,6 +3,7 @@ TODO list for ensk.is:
 DONE * CI testing via GitHub Actions
 DONE * Optimize DB generation (don't commit on each insert)
 
+* Finish duplicates script
 * Fix double IPA entries for US English
 * Write tests
 * Find IPA phonetic spelling for *all* words via Wiktionary

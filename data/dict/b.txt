@@ -897,9 +897,8 @@ boom s. blómgast snögglega, þjóta upp (um verð, verslun o.fl.); hleypa upp 
 boon n. blessun; hagnaður; l. kátur ([a ~ companion])
 boor n. bóndi; búri; leiðinlegur eða frumstæður náungi
 boorish l. búralegur ([~ fellow, ~ manners])
-boot s. gagna ([it ~s not]); n. gagn; [to ~] að auki
+boot n. stígvél; s. gagna ([it ~s not]); n. gagn; [to ~] að auki
 bootless l. gagnslaus
-boot n. stígvél
 booted l. stígvélaður
 bootjack n. stígvélaklauf
 bootless l. stígvélalaus
@@ -907,7 +906,7 @@ bootmaker n. skósmiður
 booth n. búð
 boots n. vikapiltur í hóteli (burstar stígvél, fer sendiferðir o.fl.)
 booty n. herfang
-booze n. drykkja, svall; s. drekka, svalla
+booze n. áfengi; drykkja, svall; s. drekka, svalla
 boozy l. drykkfeldur; drukkinn
 borax n. bórax
 border n. rönd, brún; landamæri; s. lykja um; brydda; liggja að eða við ([upon]); nálgast e-ð ([on, upon])

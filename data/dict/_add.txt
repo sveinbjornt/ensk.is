@@ -296,7 +296,7 @@ gaoler n. fangavörður
 haphazard n. tilviljunarkenndur, óskipulegur
 trooper n. (óbreyttur) hermaður, dáti
 interface n. viðmót; tenging; snertipunktur tveggja fyrirbæra
-bromance n. náið vinasamband tveggja karlmanna (samsett úr [brother] og [romance])
+bromance n. náið vinasamband tveggja karlmanna (samsett úr %[brother]% og %[romance]%)
 selfie n. sjálfa, sjálfsmynd, ljósmynd sem e-r tekur af sjálfum sér
 paywall n. greiðslugátt, greiðsluveggur, greiðslumúr
 crowdsource s. lýðvirkja
@@ -989,7 +989,6 @@ convinced l. sannfærður; [he was ~ that ...]
 kakistocracy n. stjórn hinna verstu
 prepaid l. fyrirframgreiddur, borgaður fyrirfram
 fascinating l. heillandi, töfrandi
-thoroughly ao. rækilega, vandlega, ítarlega
 benchmark n. viðmið, viðmiðun, afkastaprófun, afkastamæling; s. mæla afköst (út frá viðmiðum)
 sensitivity n. næmni, viðkvæmni
 transsexual n. kynskiptingur, trans manneskja; l. kynskiptings-, trans
@@ -1138,7 +1137,7 @@ millipede n. þúsundfætla
 cherubic l. engillegur; saklaus, ljúfur
 lyricism n. ljóðrænn stíll
 pragmatism n. raunsæi; verkhyggja (í heimspeki); sjá %[pragmatic]%
-pragmatist n. raunsær maður sem fylgir ekki kreddum; verkhyggjumaður (í heimspeki); sjá %[pragmatic]%
+pragmatist n. raunsær maður (sem fylgir ekki kreddum); verkhyggjumaður (í heimspeki); sjá %[pragmatic]%
 science fiction n. vísindaskáldskapur
 Yiddish n. jiddíska (tungumál evrópskra Gyðinga); l. jiddískur
 yoga n. jóga (e.k. slökunaræfingar)
@@ -1147,3 +1146,10 @@ zaibatsu n. japönsk fyrirtækjasamsteypa
 zygote n. okfruma
 zygotic l. okfrumu-
 zipper n. rennilás
+reefer n. cannabis (óforml. slangur)
+amphetamine n. amfetamín (spítt, örvandi lyf)
+methamphetamine n. metamfetamín (örvandi lyf)
+meth n. sjá %[methamphetamine]%
+psilocybin n. sílósíbin (virka efnið í ofskynjunarsveppum)
+restart s. endurræsa
+sales n. ft. sala ([~ have been disappointing]); söludeild; sjá %[sale]%

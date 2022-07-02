@@ -132,6 +132,10 @@ SKIP = frozenset(
         "Czechoslovakia",
         "sociopathy",
         "Yugoslavic",
+        "cozener",
+        "disjection",
+        "thorough-paced",
+        "white-ear",
     )
 )
 
