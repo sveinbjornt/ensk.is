@@ -278,7 +278,8 @@ vice n. löstur, ódyggð; galli
 vice n. skrúfstykki
 vice fsk. undir-; vara-
 viceregency n. umboð
-viceregent n. umboðsmaður
+viceregent n. umboðsmaður; varastjórnandi, vararíkisstjóri
+vice-regent n. sjá %[viceregent]%
 vice-president n. varaforseti
 vice-regal l. undirkonunglegur
 viceroy n. jarl, undirkonungur
