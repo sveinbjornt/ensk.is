@@ -1154,3 +1154,9 @@ restart s. endurræsa
 sales n. ft. sala ([~ have been disappointing]); söludeild; sjá %[sale]%
 desktop n. yfirborð skrifborðs; skjáborð (í tölvuviðmóti); borðtölva ([~ computer])
 PTSD n. stytt. á %[post-traumatic stress disorder]%
+synchronicity n. samstilling; samræming; sjá %[synchronous]%
+asynchronous l. ósamstilltur; ósamræmdur; ekki samtímis; sjá %[synchronous]%
+discombobulate s. rugla, slá út af laginu, koma í uppnám
+discombobulated l. ruglaður, sleginn út af laginu
+discombobulation n. ruglingur, ringulreið; sjá %[discombobulate]%
+quintillion n. trilljón (10 í 18. veldi)
