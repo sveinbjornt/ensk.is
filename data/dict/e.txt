@@ -721,9 +721,8 @@ epic n. söguljóð
 epicure n. sælkeri, sællífismaður
 epicurean l. sem lýtur að kenningu Epikúrs; sællífislegur; n. lærisveinn Epikúrs; sællífismaður
 epicureanism n. heimspeki Epikúrs; sællífi, hóglífi
-epidemic l. [~ disease] landfarsótt
-epidemical l. [~ disease] landfarsótt
-epidemic n. landfarsótt; faraldur
+epidemical l. farsóttar-; [~ disease] landfarsótt
+epidemic n. landfarsótt, farsótt, faraldur
 epidermis n. hárhamur
 epiglottis n. barkalok, -blaðka
 epigram n. fyndnistaka, stutt fyndniskvæði

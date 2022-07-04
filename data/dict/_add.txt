@@ -1014,7 +1014,6 @@ Gaea n. sjá %[Gaia]%
 irritant n. e-ð sem ertir eða pirrar; sjá %[irritate]%
 organ donor n. líffæragjafi
 binge n. hám, ofát; ofdrykkja, fyllirí; s. háma í sig (e-ð [~ on ...]), éta yfir sig, drekka yfir sig
-vice-regent n. varastjórnandi, vararíkisstjóri
 periodic table n. lotukerfið
 coupon n. miði, afsláttarmiði
 corporate l. fyrirtækja-, félags-
@@ -1154,3 +1153,4 @@ psilocybin n. sílósíbin (virka efnið í ofskynjunarsveppum)
 restart s. endurræsa
 sales n. ft. sala ([~ have been disappointing]); söludeild; sjá %[sale]%
 desktop n. yfirborð skrifborðs; skjáborð (í tölvuviðmóti); borðtölva ([~ computer])
+PTSD n. stytt. á %[post-traumatic stress disorder]%
