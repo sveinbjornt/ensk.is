@@ -1126,7 +1126,7 @@ menswear n. herrafatnaður
 womenswear n. kvenfatnaður
 hangover n. þynnka, timburmenn
 analyst n. greinandi, sérfræðingur, rýnir, e-r sem rýnir í gögn (sjá %[analyze]%)
-logistician n. skipulagsfræðingur, flutningafræðingur, sérfræðingur í hernaðarskipulagi (sjá %[logistics]%)
+logistician n. skipulagsfræðingur, birgðafræðingur, flutningafræðingur, sérfræðingur í (hernaðar)skipulagi (sjá %[logistics]%)
 hypertext n. stiklutexti, veftexti
 DVD n. mynddiskur, DVD-diskur (stytt. á [Digital Video Disc], bókst. stafrænn myndbandsdiskur)
 beautification n. fegrun
@@ -1160,3 +1160,7 @@ discombobulate s. rugla, slá út af laginu, koma í uppnám
 discombobulated l. ruglaður, sleginn út af laginu
 discombobulation n. ruglingur, ringulreið; sjá %[discombobulate]%
 quintillion n. trilljón (10 í 18. veldi)
+xenophobe n. e-r sem hræðist útlendinga, útlendingahatari
+xenophobic l. útlendingahatandi, hræddur við útlendinga eða utanaðkomandi
+xylophone n. sílófónn (ásláttarhljóðfæri)
+xylophonist n. sílófónsleikari, ásláttarhljóðfærisleikari
