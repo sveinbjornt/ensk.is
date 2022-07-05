@@ -8,9 +8,9 @@ baboon n. bavíani (apategund)
 baboonery n. apalæti
 baby n. ungbarn
 babyhood n. barnsaldur, barndómur; barnæði
-bacchanal l. óhemjulegur; n. Bakkusardýrkandi; drykkjusvallari
-bacchanals n. ft. óhemjulegt drykkjusvall
-bacchanalian l. svallsamur; n. slarkari
+bacchanal l. óhemjulegur, svallsamur; n. Bakkusardýrkandi; drykkjusvallari
+bacchanals n. ft. óhemjulegt (drykkju)svall, orgía
+bacchanalian l. svallsamur, orgíu-; n. slarkari
 bacchant n. Bakkusardýrkandi
 bacchante l. Bakkynja
 bachelor n. kandídat ([~ of arts, science]); ókvæntur maður
@@ -927,7 +927,7 @@ bosh n. fásinna, bull ([to talk ~])
 bosk n. skógarþykkni
 bosky l. skóglendur
 bosom n. barmur, brjóst; faðmur, skaut ([in the ~ of the church])
-boss n. (málm)bóla; fyrirmaður; s. standa fyrir e-u ([~ the show])
+boss n. yfirmaður, fyrirmaður; (málm)bóla; s. standa fyrir e-u ([~ the show])
 botanical l. grasfræðilegur
 botanist n. grasfræðingur
 botanize s. safna jurtum, tína grös (til að rannsaka þau)
