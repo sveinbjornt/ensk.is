@@ -110,9 +110,9 @@ handsaw n. handsög
 handsel n. fyrsta notkun; fyrsta greiðsla, festarfé; nýársgjöf; s. nota í fyrsta sinn; bragða (reyna) e-ð fyrstur; vígja
 handshake n. handartak, handaband
 handshaking n. handartak, handaband
-handsome l. fallegur, laglegur; ríflegur ([a ~ pay])
-handsomely ao. fallega, laglega; fagurlega, ríflega, örlátlega
-handsomeness n. fríðleiki, fegurð; rífleiki
+handsome l. myndarlegur, fallegur, laglegur; ríflegur ([a ~ pay])
+handsomely ao. myndarlega, fallega, laglega; fagurlega, ríflega, örlátlega
+handsomeness n. myndarleiki, fríðleiki, fegurð; rífleiki
 handy l. lagvirkur, handhægur; hentugur; handbær, tiltækur
 handworked l. handunninn, handsmíðaður
 handwriting n. rithönd, hönd
@@ -156,7 +156,7 @@ hard-mouthed l. harðmynntur; þrár
 hardness n. harka
 hard-set l. illa staddur
 hardship n. erfiði; hrakningur; þraut, mannraun
-hardware n. járnvara; vélbúnaður
+hardware n. járnvara; tæki, vélbúnaður
 hardy l. harður, harðfengur, harðgerður ([a ~ plant]); djarfur, djarflegur
 harden s. herða; styrkja; stæla; harðna; herðast, stælast
 hards n. ft. úrkembingur úr hör eða hampi (sjá %[hurds]%)
@@ -170,11 +170,11 @@ hark s. hlusta (á [to]); [~!] þei! [hark ye, harkee] heyrið, hlustið!
 hark s. fara, koma ([~ away, off, forward, back]); [~ one on, forward] reka áfram með köllum, siga (hundum) áfram; [~ back] kalla e-n til baka
 harlequin n. trúður (í bendingaleik)
 harlequin duck n. straumönd
-harlot n. skækja, púta
-harlotry n. saurlifnaður, frillulífi
+harlot n. hóra, skækja, púta
+harlotry n. saurlifnaður, frillulíf, hórdómur
 harm n. mein, skaði, tjón; s. skaða, gera á hluta (e-s)
 harmful l. skaðlegur
-harmless l. meinlaus, ósaknæmur, skaðlaus
+harmless l. meinlaus, skaðlaus; ósaknæmur
 harmlessness n. óskaðsemi, meinleysi
 harmonic l. samræmislegur; hljómfagur; samstilltur
 harmonical l. samræmislegur; hljómfagur; samstilltur
@@ -184,7 +184,7 @@ harmonize s. vera samhljóða; koma heim við e-ð; eiga við e-ð ([with]); ver
 harmony n. samræmi; samhljóðan; samstilling; samlyndi, samkomulag
 harness n. aktygi, akreiði; spangabrynja; s. leggja aktygi við; útbúa
 harnessmaker n. söðlasmiður
-harp n. harpa; s. leika á hörpu; stagast á, klífa á ([on, upon])
+harp n. harpa; s. leika á hörpu; stagast á, klífa á, ílengjast í máli um ([on, upon])
 harper n. hörpuleikari
 harpist n. hörpuleikari
 harpoon n. hvalaskutull; s. skutla (hval)

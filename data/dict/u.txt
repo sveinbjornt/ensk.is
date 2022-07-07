@@ -81,7 +81,7 @@ unbeliever n. vantrúarmaður
 unbelieving l. vantrúaður, sem ekki trúir (á [in])
 unbend s. losa (t.d. bogastreng), lina á; hressa; hvíla sig, hressa sig
 unbending l. ósveigjanlegur
-unbiassed l. hleypidómalaus; óhlutdrægur, óvilhallur
+unbiased l. hleypidómalaus; óhlutdrægur, óvilhallur
 unbidden l. óboðinn
 unbind s. leysa
 unbit s. taka beislið af
@@ -552,12 +552,12 @@ unsurpassed l. óyfirstiginn, frábær
 unsuspected l. ógrunaður
 unsuspecting l. grunlaus
 unsuspicious l. grunlaus ([~ of evil]); ógrunsamlegur
-untainted l. flekklaus; óskemmdur
+untainted l. flekklaus, óflekkaður; óskemmdur
 untameable l. ótemjandi
 untamed l. ótaminn
 untanned l. ósútaður
-untarnished l. sem ekki er fallið á; óflekkaður
-untaught l. fáfróður
+untarnished l. sem ekki er fallið á; óflekkaður, flekklaus; óskemmdur
+untaught l. fáfróður, ólærður
 unteach s. láta gleyma
 unteachable l. ónámfús
 untenable l. sem ekki verður haldið; óverjandi

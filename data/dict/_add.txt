@@ -1189,7 +1189,7 @@ championship n. meistarakeppni (sjá %[champion]%)
 unavailable n. ótiltækur, ófáanlegur, ekki í boði
 xeno- fsk. ókunnugur, utanaðkomandi, erlendur (sjá t.d. %[xenophobe]%)
 lexicon n. orðasafn, orðauppflettirit
-computational l. tölvu-, tölvunar-; [~ linguistics] tölvumálvísindi
+computational l. tölvu-, tölvunar-; reikni-; [~ linguistics] tölvumálvísindi; [~ power] reiknikraftur
 lich n. lík; e.k. uppvakningur
 interpreted l. túlkaður, þýddur, skýrður (sjá %[interpret]%)
 bubonic l. nárakýlis- (sjá %[bubo]%); [~ plague] kýlapest (svarti dauði)
@@ -1203,3 +1203,4 @@ lymph node n. eitill
 ecumenical l. sjá %[oecumenical]%
 corpus n. búkur, bolur; málheild
 habeas corpus n. (úr lat.) réttur handtekins manns til að vera leiddur tafarlaust fyrir dómara
+arquebus n. e.k. gamaldags byssa (sjá einnig %[harquebus]%)
