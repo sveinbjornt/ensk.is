@@ -97,6 +97,13 @@ a.result_link {
     color: black;
 }
 
+.aboutimg {
+    width:25%;
+    float:right;
+    margin-left:20px;
+    margin-bottom:20px;
+}
+
 
 /* Autocompletion styles */
 .autocomplete-suggestions {
