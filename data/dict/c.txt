@@ -576,7 +576,7 @@ champ s. tyggja, bryðja; bíta í ([the horses ~ed their bits]); n. tuggning, b
 champagne n. kampavín ([a bottle of ~])
 champaign n. slétta, flatlendi, sléttlendi ([~ country])
 champignon n. ætisveppur
-champion n. bardagamaður, kappi; forvígismaður; [~ rower] róðrarmeistari; s. verja, halda uppi vörn fyrir ([~ a cause])
+champion n. bardagamaður, kappi, kempa; forvígismaður; [~ rower] róðrarmeistari; s. verja, halda uppi vörn fyrir ([~ a cause])
 chance n. hending, tilviljun; atvik; tækifæri; möguleiki; ft. líkindi, líkur ([the ~s are against it]); [take a ~] freista gæfunnar, taka áhættu; [stand the ~ of] eiga á hættu, að; eiga í vændum, að; [~ of war] stríðshamingja; [by ~] af tilviljun, af handahófi; s. vilja til, bera við; hætta á e-ð, til e-s; [chance it] láta það ráðast
 chancel n. kór í kirkju
 chancellor n. kanslari, ráðherra; [Chancellor of the Exchequer] fjármálaráðherra
@@ -2352,7 +2352,7 @@ court-card n. mannspil, málspil
 courteous l. kurteis, hæverskur; kurteislegur
 courteously ao. kurteislega
 courteousness n. kurteisi
-courtesan n. lauslætiskona, skækja, frilla
+courtesan n. lauslætiskona, skækja, frilla, gleðikona, vændiskona
 courtesy n. kurteisi
 court-guide n. hirðskrá
 courtier n. hirðmaður

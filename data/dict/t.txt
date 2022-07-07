@@ -324,8 +324,8 @@ termagant l. ofsalegur; n. kvennvargur, skass
 terminable l. takmarkanlegur, endanlegur
 terminal l. ystur; endasettur; enda-; flugstöð, rútustöð; sem verður á ákveðnum tímum ([~ payments, ~ examinations])
 terminate s. takmarka; gera enda á, enda; ljúka við; hætta; [~ in] enda á
-termination n. takmörkun; endir, endalok; tortíming; endir; ending (orðs)
-terminal l. sem lýtur að endingum, endingar-
+termination n. takmörkun; endir, endalok; endir; ending (orðs)
+terminational l. sem lýtur að endingum, endingar-
 terminology n. nafnaskrá (í e-i vísindagrein)
 terminus n. endastöðvar (á járnbraut); takmark
 termite n. hvítur maur

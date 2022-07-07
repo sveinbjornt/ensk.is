@@ -199,8 +199,8 @@ immutability n. óumbreytileiki
 immutable l. óbreytanlegur, óhagganlegur
 imp n. púki; óþekktarangi; s. styrkja (vængi) með fjöðrum; auka, stækka
 impact n. þrýsting; s. þrýsta e-u inn í e-ð
-impair s. minnka; skemma, skaða; rýra
-impairment n. rýrð; skemmd
+impair s. minnka, skerða, rýra; skemma, skaða
+impairment n. rýrð, minnkun, skerðing; skemmd, sköddun
 impale s. girða með staurum; reka (oddhvassan staur) í gegnum
 impalpable l. óáþreifanlegur; ómerkjanlegur
 impanel s. kveðja (í kviðdóm); semja skrá (yfir kviðdómara)
@@ -1297,7 +1297,7 @@ interpret s. túlka, þýða, skýra
 interpretable l. túlkanlegur, þýðanlegur; skýranlegur
 interpretation n. túlkun, þýðing, útskýring
 interpretative l. skýrandi ([of]); framkominn af skýringu
-interpreter n. túlkur, þýðandi
+interpreter n. túlkur, þýðandi, þýðari
 interregnum n. millibilsstjórn; hlé
 interrelation n. skyldleiki sín á milli
 interrelationship n. skyldleiki sín á milli

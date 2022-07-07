@@ -136,6 +136,14 @@ SKIP = frozenset(
         "disjection",
         "thorough-paced",
         "white-ear",
+        "gnoll",
+        "synonymicon",
+        "ghast",
+        "Pegasus",
+        "teleprocessing",
+        "treant",
+        "lich",
+        "xeno-",
     )
 )
 
@@ -143,13 +151,21 @@ SKIP = frozenset(
 entries = EnskDatabase().read_all_additions()
 
 no_ipa = [e["word"] for e in entries if e["ipa_uk"] == ""]
+not_ascii = [e for e in no_ipa if not is_ascii(e)]
+not_ignored = [
+    e for e in no_ipa if e not in SKIP and e not in not_ascii and " " not in e
+]
 
 print(f"Num w. no IPA: {len(no_ipa)}")
+print(f"Ignoring {len(not_ascii)} non-ASCII words")
+print(f"Ignoring {len(SKIP)} whitelisted words")
+
 
 for e in no_ipa:
     if " " in e or e in SKIP or not is_ascii(e):
         continue
 
+    # print(f"Checking {e}")
     try:
         out = subprocess.check_output(["ruby", "ipa-cambridge.rb", e])
         out = out.decode().strip()

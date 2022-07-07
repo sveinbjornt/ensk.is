@@ -557,7 +557,7 @@ lightweight l. léttur; léttvægur, veigalítill; n. keppandi í léttvigt í �
 logistic l. sem lýtur að skipulagi (á t.d. flutningi á vistum og búnaði)
 logistical l. sem lýtur að skipulagi (á t.d. flutningi á vistum og búnaði)
 logistics n. ft. (hernaðar)fræði sem fást við skipulag og flutninga á búnaði, vistum, mannafli, o.þ.h.
-long-term l. langtíma-; [in the ~] til langs tíma
+long-term l. langtíma-; [in the long term] til langs tíma
 hinterland n. upplönd, afdalasvæði; sveitir í kringum þéttbýli
 con artist n. svikahrappur, svindlari, blekkingamaður, blekkingameistari
 optimize s. besta, hagræða, fínstilla, gera eitthvað betra eða skilvirkara
@@ -1170,3 +1170,36 @@ orgy n. (kynlífs)svall, svallveisla, orgía
 dildo n. gervilimur (kynlífsleikfang)
 mage n. seiðkarl; sjá %[magician]%
 octopus n. kolkrabbi
+anhedonia n. vansæld, vansæla
+dysphoria n. eirðarleysi
+gnoll n. e.k. hundmenni, hundingi
+synonymicon n. samheitaorðabók (sjá einnig %[thesaurus]%)
+groundhog n. norður-amerískt múrmeldýr
+treant n. entur, trjámenni, trjámaður
+druid n. drúidi (fornkeltneskur prestur eða seiðkarl)
+ghast n. draugur, vofa
+Pegasus n. Pegasus, skáldfákur (vængjaður hestur í grískri goðafræði)
+homunculus n. smámenni
+ineffectiveness n. gagnsleysi, árangursleysi, áhrifaleysi (sjá %[ineffective]%)
+sphinx n. sfinx (goðsagnavera með líkama ljóns og mannshöfuð)
+telephone book n. símaskrá
+telephone directory n. símaskrá
+teleprocessing n. fjarvinnsla
+championship n. meistarakeppni (sjá %[champion]%)
+unavailable n. ótiltækur, ófáanlegur, ekki í boði
+xeno- fsk. ókunnugur, utanaðkomandi, erlendur (sjá t.d. %[xenophobe]%)
+lexicon n. orðasafn, orðauppflettirit
+computational l. tölvu-, tölvunar-; [~ linguistics] tölvumálvísindi
+lich n. lík; e.k. uppvakningur
+interpreted l. túlkaður, þýddur, skýrður (sjá %[interpret]%)
+bubonic l. nárakýlis- (sjá %[bubo]%); [~ plague] kýlapest (svarti dauði)
+unapproachable l. ónálganlegur (sjá einnig %[inapproachable]%)
+ethernet n. íðnet
+impaired l. skertur, minnkaður, rýrður; skemmdur, skaddaður
+inbox n. pósthólf, innhólf, skilaboðaskjóða
+thumbnail n. þumalnögl; smámynd ([~ image])
+pimp n. melludólgur; s. selja (vændi); koma á framfæri (óforml.)
+lymph node n. eitill
+ecumenical l. sjá %[oecumenical]%
+corpus n. búkur, bolur; málheild
+habeas corpus n. (úr lat.) réttur handtekins manns til að vera leiddur tafarlaust fyrir dómara
