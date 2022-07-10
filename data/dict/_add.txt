@@ -207,7 +207,7 @@ homosexuality n. samkynhneigð
 cunnilingus n. munnmök
 bestseller n. metsölubók; vara sem selst í miklu magni
 roommate n. herbergisfélagi, kammerat
-simultaneously ao. samtímis, samtíða
+simultaneously ao. samtímis, samtíða, á sama tíma
 technician n. tæknimaður
 typically ao. dæmigert; yfirleitt
 viagra n. víagra (stinningarlyf)
@@ -750,7 +750,7 @@ Tuvalu n. Túvalú
 Uganda n. Úganda
 Ukraine n. Úkraína
 United Arab Emirates n. Sameinuðu arabísku furstadæmin
-United Kingdom n. Bretland
+United Kingdom n. Bretland (Sameinaða konungdæmið)
 United States n. Bandaríkin
 Uruguay n. Úrúgvæ
 Uzbekistan n. Úsbekistan
@@ -829,9 +829,9 @@ tipping point n. vendipunktur
 metric system n. metrakerfið
 zed n. bókstafurinn zeta (Z)
 seneschal n. ráðsmaður sem sér um eignir aðalsmanns (á miðöldum)
-awesome l. ægiþrunginn, ógnarlegur; æðislegur, magnaður, undursamlegur; uh. frábært!
+awesome l. ægiþrunginn, ógnarlegur; æðislegur, magnaður, undursamlegur; uh. frábært! magnað!
 consortium n. samtök, hópur (fjárfesta); auðhringur
-memorabilia n. ft. minjagripir, minnisgripir, minningargripir, hlutir sem minna eiganda á fyrri upplifanir
+memorabilia n. ft. minjagripir, minnisgripir, minningagripir, hlutir sem minna eiganda á fyrri upplifanir
 lithium n. litíum, litín, liþín
 helium n. helíum (frumefni)
 fluorine n. flúor (frumefni)
@@ -942,10 +942,10 @@ photocopy s. ljósrita
 photocopier n. ljósritunarvél
 behavioural l. atferlis-, hegðunar-
 technocracy n. tækniveldi
-technocrat n. tækniveldissinni
+technocrat n. tækniveldissinni; tækniveldismaður, kerfiskarl
 nightlife n. næturlíf
 annoying l. pirrandi, ergjandi, truflandi
-supervision n. eftirlit, (yfir)umsjón
+supervision n. eftirlit, yfirsjón, (yfir)umsjón,
 time zone n. tímabelti
 hegemon n. forystuveldi, forræðisveldi, forysturíki
 hegemonic l. forystuveldis-, forystu-, forræðis-; sjá %[hegemony]%
@@ -1150,7 +1150,7 @@ amphetamine n. amfetamín (spítt, örvandi lyf)
 methamphetamine n. metamfetamín (örvandi lyf)
 meth n. sjá %[methamphetamine]%
 psilocybin n. sílósíbin (virka efnið í ofskynjunarsveppum)
-restart s. endurræsa
+restart s. endurræsa, endurhefja (sjá %[start]%)
 sales n. ft. sala ([~ have been disappointing]); söludeild; sjá %[sale]%
 desktop n. yfirborð skrifborðs; skjáborð (í tölvuviðmóti); borðtölva ([~ computer])
 PTSD n. stytt. á %[post-traumatic stress disorder]%
@@ -1202,7 +1202,7 @@ pimp n. melludólgur; s. selja (vændi); koma á framfæri (óforml.)
 lymph node n. eitill
 ecumenical l. sjá %[oecumenical]%
 corpus n. búkur, bolur; málheild
-habeas corpus n. (úr lat.) réttur handtekins manns til að vera leiddur tafarlaust fyrir dómara
+habeas corpus n. (úr lat.) réttur handtekins manns til að vera leiddur fyrir dómara án tafar
 arquebus n. e.k. gamaldags byssa (sjá einnig %[harquebus]%)
 environmental l. umhverfis-; sjá %[environment]%
 hydroelectric l. vatnsafls-, vatnsorku-; [hydroelectric power plant] vatnsaflsvirkjun, vatnsorkuver
@@ -1211,3 +1211,6 @@ boner n. standpína, holdris, reisn
 urologist n. þvagfæralæknir
 endocrinologist n. innkirtlalæknir, innkirtlasérfræðingur, innkirtlafræðingur
 ophthalmologist n. augnlæknir
+political correctness n. pólitískur rétttrúnaður
+rediscover n. enduruppgötva (sjá %[discover]%)
+re- fsk. endur-; sjá t.d. %[revolution], %[reload]%, %[rediscover]%

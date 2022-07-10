@@ -1163,7 +1163,7 @@ simulate s. líkjast; gera sér upp
 simulation n. yfirdrepsskapur, hræsni; eftirlíking
 simulative l. uppgerður, uppgerðar-
 simulator n. hræsnari
-simultaneous l. samtíða, samtíðis
+simultaneous l. samtíða, samtíðis, á sama tíma
 simultaneousness n. samtíðleiki
 sin n. synd; s. syndga
 sinful l. syndugur; syndsamlegur, óguðlegur
@@ -2941,7 +2941,7 @@ supervenient l. sem kemur síðar eða á eftir
 supervention n. aðkoma; viðburður
 supervise s. sjá um, hafa umsjón með e-u; yfirskoða
 supervisal n. umsjón
-supervisor n. umsjónarmaður; prófarkalesari
+supervisor n. (yfir)umsjónarmaður; prófarkalesari
 supinate s. snúa lófanum upp
 supine l. liggjandi aftur á bak (á bakinu, upp í loft); áhugalaus; makráður; n. sagnbót
 supineness n. hirðuleysi; leti
@@ -3194,7 +3194,7 @@ synchronal l. samtíðislegur
 synchronical l. samtíðislegur
 synchronism n. samtíðleiki
 synchronistic l. niðurraðaður eftir samtíðleik viðburða
-synchronize s. gerast (vera) samtíðis (e-u [with])
+synchronize s. gerast (vera) samtíðis (e-u [with]); samstilla, samhæfa
 synchronous l. samtímis; samstilltur; samhæfður
 syncopate s. draga saman (orð)
 syncope n. úrfelling stafs úr miðju orði, samdráttur; yfirlið
@@ -3210,7 +3210,7 @@ synoptical l. ágripslegur, yfirlitslegur
 synoptical l. ágripslegur, yfirlitslegur
 syntax n. orðskipunarfræði, málsgreinafræði
 synthesis n. samtenging, samsetning
-synthetic l. samtengjandi
+synthetic l. samtengjandi; gervi- ([~ materials])
 Syriac l. sýrlenskur; n. sýrlenska, einkum fornsýrlenska
 syringe n. lítil handsprauta; stólpípa; s. sprauta inn í
 system n. kerfi; fræðikerfi; vísindaleg niðurröðun; fyrirkomulag
