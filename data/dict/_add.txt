@@ -1187,7 +1187,7 @@ telephone directory n. símaskrá
 teleprocessing n. fjarvinnsla
 championship n. meistarakeppni (sjá %[champion]%)
 unavailable n. ótiltækur, ófáanlegur, ekki í boði
-xeno- fsk. ókunnugur, utanaðkomandi, erlendur (sjá t.d. %[xenophobe]%)
+xeno- fsk. ókunnugur, utanaðkomandi, erlendur, útlendur (sjá t.d. %[xenophobe]%)
 lexicon n. orðasafn, orðauppflettirit
 computational l. tölvu-, tölvunar-; reikni-; [~ linguistics] tölvumálvísindi; [~ power] reiknikraftur
 lich n. lík; e.k. uppvakningur
@@ -1204,3 +1204,10 @@ ecumenical l. sjá %[oecumenical]%
 corpus n. búkur, bolur; málheild
 habeas corpus n. (úr lat.) réttur handtekins manns til að vera leiddur tafarlaust fyrir dómara
 arquebus n. e.k. gamaldags byssa (sjá einnig %[harquebus]%)
+environmental l. umhverfis-; sjá %[environment]%
+hydroelectric l. vatnsafls-, vatnsorku-; [hydroelectric power plant] vatnsaflsvirkjun, vatnsorkuver
+geothermal l. jarðhita-, jarðvarma-; [geothermal power plant] jarðvarmavirkjun, jarðhitavirkjun
+boner n. standpína, holdris, reisn
+urologist n. þvagfæralæknir
+endocrinologist n. innkirtlalæknir, innkirtlasérfræðingur, innkirtlafræðingur
+ophthalmologist n. augnlæknir
