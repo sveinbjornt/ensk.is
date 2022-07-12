@@ -77,7 +77,7 @@ touch screen n. snertiskjár
 lemur n. lemúr (dýr af prímataættum frá eyjunni Madagaskar)
 baseball n. hafnabolti (bandarísk íþrótt)
 jet n. þota (þrýstiloftsflugvél)
-automobile n. bifreið
+automobile n. bifreið, bíll, sjálfrennireið
 kleptocracy n. þjófræði (stjórnarfyrirkomulag þar sem æðstu ráðamenn stela frá almenningi)
 website n. vefsíða, vefsetur (á veraldarvefnum)
 web page n. vefsíða (á veraldarvefnum)
@@ -87,20 +87,20 @@ neoliberalism n. nýfrjálshyggja
 neoliberal l. nýfrjálshyggju-; n. nýfrjálshyggjumaður, nýfrjálshyggjusinni
 creativity n. sköpun, sköpunargáfa
 ecology n. vistfræði
-ecological l. vistfræðilegur, vistfræði-; [we are facing ~ collapse!]
+ecological l. vistfræðilegur, vistfræði-; [we are facing ~ collapse]
 encryption n. dulkóðun
 encrypt s. dulkóða
 girlfriend n. kærasta, unnusta; vinkona
 guestbook n. gestabók
 holocaust n. helför; [the Holocaust] helförin, þ.e. tortíming Gyðinga í seinni heimsstyrjöld
-masturbate s. fróa sér, runka sér
-masturbatory l. sjálfsfróandi, sjálfsrunkandi
 microphone n. hljóðnemi
 mic n. hljóðnemi (stytting á %[microphone]%)
 mike n. hljóðnemi (stytting á %[microphone]%)
 newsletter n. fréttabréf
 phone n. sími, símtæki; s. hringja úr símtæki (stytting á %[telephone]%)
 pizza n. pítsa, flatbaka (ítalskur réttur)
+masturbate s. fróa sér, runka sér
+masturbatory l. sjálfsfróandi, sjálfsrunkandi
 programmer n. forritari
 recycling n. endurvinnsla, endurnýting
 recycle s. endurvinna, endurnýta
@@ -1214,3 +1214,4 @@ ophthalmologist n. augnlæknir
 political correctness n. pólitískur rétttrúnaður
 rediscover n. enduruppgötva (sjá %[discover]%)
 re- fsk. endur-; sjá t.d. %[revolution], %[reload]%, %[rediscover]%
+auto- fsk. sjálf-, sjálfs-; sjá t.d. %[automobile]%, %[autobiography]%, %[autonomy]%
