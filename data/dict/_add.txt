@@ -1187,7 +1187,6 @@ telephone directory n. símaskrá
 teleprocessing n. fjarvinnsla
 championship n. meistarakeppni (sjá %[champion]%)
 unavailable n. ótiltækur, ófáanlegur, ekki í boði
-xeno- fsk. ókunnugur, utanaðkomandi, erlendur, útlendur (sjá t.d. %[xenophobe]%)
 lexicon n. orðasafn, orðauppflettirit
 computational l. tölvu-, tölvunar-; reikni-; [~ linguistics] tölvumálvísindi; [~ power] reiknikraftur
 lich n. lík; e.k. uppvakningur
@@ -1213,6 +1212,18 @@ endocrinologist n. innkirtlalæknir, innkirtlasérfræðingur, innkirtlafræðin
 ophthalmologist n. augnlæknir, augnsérfræðingur
 political correctness n. pólitískur rétttrúnaður
 rediscover n. enduruppgötva (sjá %[discover]%)
+xeno- fsk. ókunnugur, utanaðkomandi, erlendur, útlendur (sjá t.d. %[xenophobe]%)
 re- fsk. endur-; sjá t.d. %[revolution]%, %[reload]%, %[rediscover]%
 auto- fsk. sjálf-, sjálfs-; sjá t.d. %[automobile]%, %[autobiography]%, %[autonomy]%
-pre- fsk. for-, áður-, á undan, fyrr; sjá t.d. %[presume]%, %[predict]%, %[premature]%
+pre- fsk. for-, áður-, á undan, fyrir, fyrr; of snemma; sjá t.d. %[presume]%, %[predict]%, %[premature]%
+post- fsk. á eftir e-u; sjá t.d. %[post mortem]%, %[postmodern]%
+counter- fsk. mót-, gegn-; andspænis, gagnvart; sjá t.d. %[counteract]%, %[counterfeit]%
+antisocial l. andfélagslegur
+antibiotic l. gegn sýklum; n. sýklalyf (yfirleitt í ft. [~s])
+anti-Semitism n. gyðingahatur, fordómar gagnvart gyðingum
+anti-Semite n. gyðingahatari
+anti-Semitic l. gyðingahatandi
+anti-inflammatory l. bólgueyðandi
+anti-aircraft l. gegn flugvélum; [~ system] loftvarnakerfi; [~ gun] loftvarnabyssa
+anti-clockwise l. & ao. rangsælis
+clockwise l. & ao. réttsælis

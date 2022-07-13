@@ -1190,7 +1190,7 @@ intently ao. með ákefð
 intentness n. ákefð; eftirtekt
 inter s. grafa, greftra
 interment n. greftrun, jarðarför
-inter- fsk. á milli, á víxl
+inter- fsk. á milli, á víxl; sjá t.d. %[interbreed]%, %[international]%
 interbreed s. blanda kyn sitt (um ólík dýr); blanda saman dýrategundum til kynbóta
 intercalary l. innskotinn; [~ day] hlaupársdagur; innskotsdagur
 intercalate s. skjóta inn á milli
