@@ -9,8 +9,8 @@ require 'nokogiri'
 require 'open-uri'
 
 BASE_URI='http://dictionary.cambridge.org'
-SEARCH_URI='http://dictionary.cambridge.org/search/british/?q=%s'
-EXACT_URI='http://dictionary.cambridge.org/dictionary/british/%s'
+SEARCH_URI='http://dictionary.cambridge.org/search/english/?q=%s'
+EXACT_URI='http://dictionary.cambridge.org/dictionary/english/%s'
 
 def get_pron(exact_uri)
   page = Nokogiri::HTML(open(exact_uri))
