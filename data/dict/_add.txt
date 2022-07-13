@@ -1221,19 +1221,20 @@ counter- fsk. mót-, gegn-; andspænis, gagnvart; sjá t.d. %[counteract]%, %[co
 intra- fsk. innan, innra-, innbyrðis, innvortis; sjá t.d. %[intravenous]%, %[intranet]%
 quasi- fsk. hálf-, hálfgerður, hálfpartinn, næstum, hér um bil, eins konar; [a ~religious concept] hálfpartinn trúarlegt hugtak
 neuro- fsk. tauga-; sjá t.d. %[neurochemical]%, %[neurodegeneration]%, %[neurologist]%
-hyper- fsk. ofur-, yfir-, of-; sjá t.d. %[hypercritical]%, %[hyperventilation]%
+hyper- fsk. yfir-, of-; sjá t.d. %[hypercritical]%, %[hyperventilation]%
 contra- fsk. á móti, gegn; sjá t.d. %[contradict]%, %[contravene]%
 antisocial l. andfélagslegur
 antibiotic l. gegn sýklum, andsýkla-; n. sýklalyf (yfirleitt í ft. [~s])
-anti-Semitism n. gyðingahatur, fordómar gagnvart gyðingum
-anti-Semite n. gyðingahatari
-anti-Semitic l. gyðingahatandi
+antibiotics n. ft. sjá %[antibiotic]%
+antisemitism n. gyðingahatur, fordómar í garð gyðinga
+antisemite n. gyðingahatari
+antisemitic l. gyðingahatandi
 anti-inflammatory l. bólgueyðandi
 anti-aircraft l. gegn flugvélum, loftvarna-; [~ system] loftvarnakerfi; [~ gun] loftvarnabyssa
 anti-clockwise l. & ao. rangsælis
 clockwise l. & ao. réttsælis
 IRC n. stytt. á [Internet Relay Chat]; spjallkerfi á internetinu
-intravenous l. innanæða-
+intravenous l. innan æðar, innanæðar-, í æð
 suboptimal l. ekki eins góður og kostur er á (sjá %[optimal]%)
 microorganism n. örvera
 prementioned l. fyrrnefndur
@@ -1241,3 +1242,10 @@ neurologist n. taugalæknir, taugasérfræðingur
 neurology n. taugafræði, taugasjúkdómafræði, taugalæknisfræði
 neurological l. tauga-, taugafræðilegur; [~ damage] taugaskemmdir
 demiurge n. heimssmiður (í kerfi Gnostika); undirgoð, undirguð
+superman n. ofurmaður, ofurmenni; yfirmenni (æðri tegund manns)
+icon n. táknmynd, tákn; líkneski; helgimynd, dýrlingamynd
+iconic l. táknrænn, táknmynda-
+iconoclastic l. helgimyndabrjótandi
+iconoclasm n. helgimyndabrot; trúarskoðun innan kristindóms
+iconography n. táknmyndafræði, táknmyndalist; helgimyndafræði
+iconographic l. táknmyndafræðilegur, helgimyndafræðilegur

@@ -144,6 +144,9 @@ SKIP = frozenset(
         "treant",
         "lich",
         "xeno-",
+        "arquebus",
+        "IRC",
+        "prementioned",
     )
 )
 
