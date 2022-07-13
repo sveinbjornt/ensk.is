@@ -1212,16 +1212,17 @@ endocrinologist n. innkirtlalæknir, innkirtlasérfræðingur, innkirtlafræðin
 ophthalmologist n. augnlæknir, augnsérfræðingur
 political correctness n. pólitískur rétttrúnaður
 rediscover n. enduruppgötva (sjá %[discover]%)
-xeno- fsk. ókunnugur, utanaðkomandi, erlendur, útlendur (sjá t.d. %[xenophobe]%)
+xeno- fsk. ókunnugur, utanaðkomandi, erlendur, útlendur; sjá t.d. %[xenophobe]%
 re- fsk. endur-; sjá t.d. %[revolution]%, %[reload]%, %[rediscover]%
 auto- fsk. sjálf-, sjálfs-; sjá t.d. %[automobile]%, %[autobiography]%, %[autonomy]%
-pre- fsk. for-, áður-, á undan, fyrir, fyrr; of snemma; sjá t.d. %[presume]%, %[predict]%, %[premature]%
+pre- fsk. for-, áður-, á undan, fyrir, fyrr; of snemma; sjá t.d. %[prementioned]%, %[predict]%, %[premature]%
 post- fsk. á eftir e-u; sjá t.d. %[post mortem]%, %[postmodern]%
 counter- fsk. mót-, gegn-; andspænis, gagnvart; sjá t.d. %[counteract]%, %[counterfeit]%
-intra- fsk. innan, innra-, innbyrðis; sjá t.d. %[intravenous]%, %[intranet]%
+intra- fsk. innan, innra-, innbyrðis, innvortis; sjá t.d. %[intravenous]%, %[intranet]%
 quasi- fsk. hálf-, hálfgerður, hálfpartinn, næstum, hér um bil, eins konar; [a ~religious concept] hálfpartinn trúarlegt hugtak
-neuro- fsk. tauga-; sjá t.d. %[neurochemical]%, %[neurodegeneration]%
+neuro- fsk. tauga-; sjá t.d. %[neurochemical]%, %[neurodegeneration]%, %[neurologist]%
 hyper- fsk. ofur-, yfir-, of-; sjá t.d. %[hypercritical]%, %[hyperventilation]%
+contra- fsk. á móti, gegn; sjá t.d. %[contradict]%, %[contravene]%
 antisocial l. andfélagslegur
 antibiotic l. gegn sýklum, andsýkla-; n. sýklalyf (yfirleitt í ft. [~s])
 anti-Semitism n. gyðingahatur, fordómar gagnvart gyðingum
@@ -1234,3 +1235,9 @@ clockwise l. & ao. réttsælis
 IRC n. stytt. á [Internet Relay Chat]; spjallkerfi á internetinu
 intravenous l. innanæða-
 suboptimal l. ekki eins góður og kostur er á (sjá %[optimal]%)
+microorganism n. örvera
+prementioned l. fyrrnefndur
+neurologist n. taugalæknir, taugasérfræðingur
+neurology n. taugafræði, taugasjúkdómafræði, taugalæknisfræði
+neurological l. tauga-, taugafræðilegur; [~ damage] taugaskemmdir
+demiurge n. heimssmiður (í kerfi Gnostika); undirgoð, undirguð

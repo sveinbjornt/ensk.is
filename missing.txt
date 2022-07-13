@@ -1,3 +1,5 @@
+iconography
+iconographic
 antialiasing
 antialias
 counterfactual
@@ -29,7 +31,6 @@ methanol
 kerosene
 cardiometabolic
 epanorthosis
-microorganism
 ecdemic
 convection
 subeffectiveness
@@ -248,7 +249,6 @@ sclerosis
 pre-emptive
 nerdish
 neuromyopathy
-neuro-
 neuter
 transgender
 nexus
