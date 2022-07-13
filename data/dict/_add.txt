@@ -958,11 +958,11 @@ vis-a-vis fs. sjá %[vis-à-vis]%
 vis-à-vis fs. gagnvart, andspænis, á móti
 newbie n. nýgræðingur, byrjandi, grænjaxl
 VIP n. mjög mikilvæg manneskja (stytt. á [very important person])
-educated l. menntaður
+educated l. menntaður, vel upplýstur; [an ~ guess] vel grundvölluð ágískun
 roulette n. rúlletta; [Russian ~] rússnesk rúlletta
-sadism n. kvalalosti, sadismi, kvalafýsn
-sadist n. lostakvalari
-sadistic l. kvalalosta-
+sadism n. kvalalosti, kvalafýsn, sadismi
+sadist n. lostakvalari, sadisti
+sadistic l. kvalalosta-, sadista-
 masochism n. sjálfspíningarhvöt
 sadomasochism n. sadómasókismi (sjá %[sadism]% og %[masochism]%)
 BDSM n. kynlíf sem einkennist af kvalalosta, pyntingu, drottnun og undirgefni (stytt. á [bondage, domination, sado-masochism])
@@ -1218,6 +1218,10 @@ auto- fsk. sjálf-, sjálfs-; sjá t.d. %[automobile]%, %[autobiography]%, %[aut
 pre- fsk. for-, áður-, á undan, fyrir, fyrr; of snemma; sjá t.d. %[presume]%, %[predict]%, %[premature]%
 post- fsk. á eftir e-u; sjá t.d. %[post mortem]%, %[postmodern]%
 counter- fsk. mót-, gegn-; andspænis, gagnvart; sjá t.d. %[counteract]%, %[counterfeit]%
+intra- fsk. innan, innra-, innbyrðis; sjá t.d. %[intravenous]%, %[intranet]%
+quasi- fsk. hálf-, hálfgerður, hálfpartinn, næstum, hér um bil, eins konar; [a ~religious concept] hálfpartinn trúarlegt hugtak
+neuro- fsk. tauga-; sjá t.d. %[neurochemical]%, %[neurodegeneration]%
+hyper- fsk. ofur-, yfir-, of-; sjá t.d. %[hypercritical]%, %[hyperventilation]%
 antisocial l. andfélagslegur
 antibiotic l. gegn sýklum, andsýkla-; n. sýklalyf (yfirleitt í ft. [~s])
 anti-Semitism n. gyðingahatur, fordómar gagnvart gyðingum
@@ -1227,3 +1231,6 @@ anti-inflammatory l. bólgueyðandi
 anti-aircraft l. gegn flugvélum, loftvarna-; [~ system] loftvarnakerfi; [~ gun] loftvarnabyssa
 anti-clockwise l. & ao. rangsælis
 clockwise l. & ao. réttsælis
+IRC n. stytt. á [Internet Relay Chat]; spjallkerfi á internetinu
+intravenous l. innanæða-
+suboptimal l. ekki eins góður og kostur er á (sjá %[optimal]%)
