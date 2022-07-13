@@ -1208,10 +1208,11 @@ environmental l. umhverfis-; sjá %[environment]%
 hydroelectric l. vatnsafls-, vatnsorku-; [hydroelectric power plant] vatnsaflsvirkjun, vatnsorkuver
 geothermal l. jarðhita-, jarðvarma-; [geothermal power plant] jarðvarmavirkjun, jarðhitavirkjun
 boner n. standpína, holdris, reisn
-urologist n. þvagfæralæknir
+urologist n. þvagfæralæknir, þvagfærasérfræðingur
 endocrinologist n. innkirtlalæknir, innkirtlasérfræðingur, innkirtlafræðingur
-ophthalmologist n. augnlæknir
+ophthalmologist n. augnlæknir, augnsérfræðingur
 political correctness n. pólitískur rétttrúnaður
 rediscover n. enduruppgötva (sjá %[discover]%)
-re- fsk. endur-; sjá t.d. %[revolution], %[reload]%, %[rediscover]%
+re- fsk. endur-; sjá t.d. %[revolution]%, %[reload]%, %[rediscover]%
 auto- fsk. sjálf-, sjálfs-; sjá t.d. %[automobile]%, %[autobiography]%, %[autonomy]%
+pre- fsk. for-, áður-, á undan, fyrr; sjá t.d. %[presume]%, %[predict]%, %[premature]%
