@@ -1061,7 +1061,7 @@ cosmology n. heimsfræði, heimsmyndarfræði
 cosmological l. heimsfræðilegur
 ontology n. verufræði
 ontological l. verufræðilegur
-metaphilosophy n. heimspeki heimspekinnar, heimspekileg skoðun á aðferðafræði heimspeki
+metaphilosophy n. heimspeki heimspekinnar, heimspekileg skoðun á aðferðum heimspekinnar
 natural philosophy n. náttúruspeki, náttúruvísindi ([the ~ of Isaac Newton])
 plankton n. svif, svifdýr
 alga n. sjá %[algae]%
@@ -1219,11 +1219,11 @@ pre- fsk. for-, áður-, á undan, fyrir, fyrr; of snemma; sjá t.d. %[presume]%
 post- fsk. á eftir e-u; sjá t.d. %[post mortem]%, %[postmodern]%
 counter- fsk. mót-, gegn-; andspænis, gagnvart; sjá t.d. %[counteract]%, %[counterfeit]%
 antisocial l. andfélagslegur
-antibiotic l. gegn sýklum; n. sýklalyf (yfirleitt í ft. [~s])
+antibiotic l. gegn sýklum, andsýkla-; n. sýklalyf (yfirleitt í ft. [~s])
 anti-Semitism n. gyðingahatur, fordómar gagnvart gyðingum
 anti-Semite n. gyðingahatari
 anti-Semitic l. gyðingahatandi
 anti-inflammatory l. bólgueyðandi
-anti-aircraft l. gegn flugvélum; [~ system] loftvarnakerfi; [~ gun] loftvarnabyssa
+anti-aircraft l. gegn flugvélum, loftvarna-; [~ system] loftvarnakerfi; [~ gun] loftvarnabyssa
 anti-clockwise l. & ao. rangsælis
 clockwise l. & ao. réttsælis
