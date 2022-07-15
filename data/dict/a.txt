@@ -879,7 +879,7 @@ amends n. ft. uppbót, skaðabætur
 amenity n. yndi, fegurð; blíða, blíðmæli
 amerce s. sekta; refsa ([~ one with])
 amercement n. sektun; fésekt
-American l. amerískur, vesturheims-; n. vesturheimsmaður
+American l. amerískur, vesturheims-; bandarískur; n. vesturheimsmaður, Ameríkani, Bandaríkjamaður
 Americanism n. orð eða talsháttur í ensku, sem er einkennilegur fyrir Ameríku; meðhald með Ameríku
 amethyst n. fjólublár gimsteinn
 amethystine l. fjólublár
@@ -1153,7 +1153,7 @@ aphelion n. sólfirð
 aphis n. blaðlús (ft. [aphides])
 aphonia n. raddmissir
 aphony n. raddmissir
-aphorism n. spakmæli
+aphorism n. spakmæli; kjarnyrði
 aphorist n. spakmælahöfundur
 aphoristic l. spakmælislegur, kjarnyrtur
 aphrodisiac l. lostavekjandi (lyf)
@@ -1448,7 +1448,7 @@ ashlar n. höggvið (teningsmyndað) grjót
 ashore ao. á land; á landi; [to run (a ship) ~] sigla (skipi) upp á grynningar, stranda
 ashy l. ösku-; öskugur; öskugrár; fölur
 Asia n. Asía, austurálfa
-Asiatic l. austurálfu-; n. austurálfumaður
+Asiatic l. sjá %[Asian]%
 aside ao. til hliðar; afsíðis; í burtu; [lay/set ~] sleppa e-u
 asinine l. asna-; asnalegur, heimskur
 ask s. spyrja ([~ him, ~ of a person]); biðja (um [for]); heimta ([it ~s for attention]); bjóða ([~ him to dinner]); [~ him a favour, ~ a favour of a person] biðja e-n um greiða; [~ about] spyrja um; [~ after one] s. spyrja eftir e-m
