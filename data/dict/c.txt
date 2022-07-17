@@ -2093,7 +2093,7 @@ convincible l. sannfæranlegur
 convivial l. samsætislegur; skemmtilegur
 convivialist n. samkvæmismaður
 conviviality n. glaðværð í samsætum
-convocation n. samanköllun; prestafundur, prestastefna; háskólaráð (í Oxford)
+convocation n. samanköllun, samankall; prestafundur, prestastefna; háskólaráð (í Oxford)
 convoke s. kalla saman
 convolute l. samanvafinn; n. vafningur
 convolution n. samanundning
@@ -2305,8 +2305,8 @@ countenance n. svipur, yfirbragð; andlit; stilling; fylgi, aðstoð ([give ~ to
 countenancer n. styrktarmaður, stuðningsmaður
 counter n. teljari; spilapeningur; búðarborð; bringa (á hesti); bakhluti á skó eða stígvéli
 counter l. gagnstæður; ao. gagnstætt, öfugt ([to go, act, ~ to]); s. mótmæla, andmæla
-counteract s. vera á móti; aftra
-counteraction n. gagnverkun; mótstaða
+counteract s. aftra, vinna gegn; vera á móti
+counteraction n. gagnverkun, öftrun; mótstaða
 counterbalance s. vega upp á móti, jafnvætta; n. mótvægi, andvægi
 countercharge n. gagnkæra, gagnsök
 counterclaim n. gagnkrafa; s. krefjast aftur á móti

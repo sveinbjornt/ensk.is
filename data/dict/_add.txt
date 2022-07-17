@@ -138,7 +138,7 @@ mediascape n. fjölmiðlaumhverfi, fjölmiðlaheimur (heimurinn eins og hann bir
 snowboard n. snjóbretti; s. fara á snjóbretti
 newswoman n. fréttakona
 cookbook n. matreiðslubók, eldamennskubók
-cunt n. píka (óformlegt)
+cunt n. píka (óforml.)
 effectiveness n. skilvirkni, virkni
 feedback n. endurgjöf
 functionality n. virkni
@@ -149,7 +149,7 @@ headphone n. heyrnartól (yfirleitt í ft. %[headphones]%)
 headphones n. ft. heyrnartól
 homework n. heimavinna
 investor n. fjárfestir
-mega- fsk. ofur-; risa-, stór-; mjög stór; sjá t.d. %[megabyte]%, %[megafauna]%
+mega- fsk. ofur-; risa-; mjög stór; sjá t.d. %[megabyte]%, %[megafauna]%
 methodology n. aðferðafræði; [his ~ was flawed] hann beitti gölluðum aðferðum
 movie n. kvikmynd, bíómynd (óforml.); [I'm going to the ~s] ég er farinn í bíó
 necessarily ao. nauðsynlega
@@ -327,7 +327,7 @@ pedophile n. sjá %[paedophile]%
 paedophilia n. barnagirnd, barnaníð
 pedophilia n. sjá %[paedophilia]%
 cyberspace n. netheimar
-mockumentary n. grínmynd í sniði heimildarmyndar
+mockumentary n. grín- eða háðmynd í sniði heimildarmyndar, heimildarháðmynd
 emoticon n. lyndistákn, tjákn
 hyperlink n. tengill (á veraldarvefnum)
 smiley l. glaðlyndur; brosandi; n. broskarl (tákn)
@@ -755,7 +755,7 @@ Uganda n. Úganda
 Ukraine n. Úkraína
 United Arab Emirates n. Sameinuðu arabísku furstadæmin
 United Kingdom n. Bretland (Sameinaða konungdæmið)
-United States of America n. Bandaríkin
+United States of America n. Bandaríki Norður-Ameríku, Bandaríkin
 United States n. sjá %[United States of America]%
 Uruguay n. Úrúgvæ
 Uzbekistan n. Úsbekistan
@@ -815,7 +815,7 @@ zeppelin n. loftfar, loftskip
 Zeus n. Seifur, æðsti guðinn í forngrískri goðafræði
 zero gravity n. þyngdarleysi (t.d. í geimskipi eða geimstöð)
 amplifier n. magnari
-amp n. magnari (stytt. á %[amplifier]%)
+amp n. magnari (stytting á %[amplifier]%)
 erotica n. kynæsandi bækur, list eða myndefni
 gram n. gramm
 patriarchy n. feðraveldi
@@ -917,8 +917,8 @@ fuck s. (óforml.) ríða, stunda kynlíf; n. dráttur, kynmök, samfarir; uh. h
 shit n. kúkur, saur, drulla; s. kúka, skíta; uh. fjandinn! fjandans!
 tergum n. bakskjöldur
 quadroon n. afkomandi hvítrar manneskju og kynblendings (úrelt)
-PIN n. persónunúmer, persónulegt kenninúmer (stytt. á [personal identification number])
-HIV n. eyðniveira, alnæmisveira (stytt. á [human immunodeficiency virus])
+PIN n. persónunúmer, persónulegt kenninúmer (stytting á [personal identification number])
+HIV n. eyðniveira, alnæmisveira (stytting á [human immunodeficiency virus])
 surrealism n. súrrealismi, fjarstæðustefna (stefna í listum og bókmenntum)
 surreal n. súrrealískt, fjarstæðukennt, sem ber svip af súrrealisma (sá %[surrealism]%)
 sleaze n. viðbjóður, spilling, svindl
@@ -962,7 +962,7 @@ incentivize s. hvetja, skapa hvata (til e-s)
 vis-a-vis fs. sjá %[vis-à-vis]%
 vis-à-vis fs. gagnvart, andspænis, á móti
 newbie n. nýgræðingur, byrjandi, grænjaxl
-VIP n. mjög mikilvæg manneskja (stytt. á [very important person])
+VIP n. mjög mikilvæg manneskja (stytting á [very important person])
 educated l. menntaður, vel upplýstur; [an ~ guess] vel grundvölluð ágískun
 roulette n. rúlletta; [Russian ~] rússnesk rúlletta
 sadism n. kvalalosti, kvalafýsn, sadismi
@@ -970,15 +970,15 @@ sadist n. lostakvalari, sadisti
 sadistic l. kvalalosta-, sadista-
 masochism n. sjálfspíningarhvöt
 sadomasochism n. sadómasókismi, löngun til að kvelja bæði sjálfan sig og aðra (sjá %[sadism]% og %[masochism]%)
-BDSM n. kynlíf sem einkennist af kvalalosta, pyntingu, drottnun og undirgefni (stytt. á [bondage, domination, sado-masochism])
+BDSM n. kynlíf sem einkennist af kvalalosta, pyntingu, drottnun og undirgefni (stytting á [bondage, domination, sado-masochism])
 skeptic n. sjá %[sceptic]%
 skeptical l. sjá %[sceptical]%
 skepticism n. sjá %[scepticism]%
 facticity n. sá eiginleiki að vera staðreynd (sjá %[fact]%)
 halogen n. hópur frumefna, þ.e. flúor, klór, bróm, joð og astat
 astatine n. astat (frumefni)
-DNA n. deoxýríbósakjarnsýra, þ.e. erfðaefni, erfðavísir (stytt. á [deoxyribonucleic acid])
-PC n. einkatölva (stytt. á [personal computer]); pólitískur rétttrúnaður (stytt. á [political correctness])
+DNA n. deoxýríbósakjarnsýra, þ.e. erfðaefni, erfðavísir (stytting á [deoxyribonucleic acid])
+PC n. einkatölva (stytting á [personal computer]); pólitískur rétttrúnaður (stytting á [political correctness])
 deontology n. skyldufræði, skyldusiðfræði (í heimspeki)
 deontological l. skyldufræðilegur, skyldusiðfræðilegur (sjá %[deontology]%)
 megafauna n. stór dýr, risadýr (sjá %[fauna]%)
@@ -1136,7 +1136,7 @@ hangover n. þynnka, timburmenn
 analyst n. greinandi, sérfræðingur, rýnir, e-r sem rýnir í gögn (sjá %[analyze]%)
 logistician n. skipulagsfræðingur, birgðafræðingur, flutningafræðingur, sérfræðingur í (hernaðar)skipulagi (sjá %[logistics]%)
 hypertext n. stiklutexti, veftexti
-DVD n. mynddiskur, DVD-diskur (stytt. á [Digital Video Disc], bókst. stafrænn myndbandsdiskur)
+DVD n. mynddiskur, DVD-diskur (stytting á [Digital Video Disc], bókst. stafrænn myndbandsdiskur)
 beautification n. fegrun
 beautician n. snyrtifræðingur, fegrunarfræðingur
 ceasefire n. vopnahlé
@@ -1161,7 +1161,7 @@ psilocybin n. sílósíbin (virka efnið í ofskynjunarsveppum)
 restart s. endurræsa, endurhefja (sjá %[start]%)
 sales n. ft. sala ([~ have been disappointing]); söludeild; sjá %[sale]%
 desktop n. yfirborð skrifborðs; skjáborð (í tölvuviðmóti); borðtölva ([~ computer])
-PTSD n. stytt. á %[post-traumatic stress disorder]%
+PTSD n. stytting á %[post-traumatic stress disorder]%
 synchronicity n. samstilling; samræming; sjá %[synchronous]%
 asynchronous l. ósamstilltur; ósamræmdur; ekki samtímis; sjá %[synchronous]%
 discombobulate s. rugla, slá út af laginu, koma í uppnám
@@ -1244,7 +1244,7 @@ anti-inflammatory l. bólgueyðandi
 anti-aircraft l. gegn flugvélum, loftvarna-; [~ system] loftvarnakerfi; [~ gun] loftvarnabyssa
 anticlockwise l. & ao. rangsælis
 clockwise l. & ao. réttsælis
-IRC n. stytt. á [Internet Relay Chat]; spjallkerfi á internetinu
+IRC n. stytting á [Internet Relay Chat]; spjallkerfi á internetinu
 intravenous l. innan æða, innanæða-, í æð
 suboptimal l. ekki eins góður og kostur er á (sjá %[optimal]%)
 microorganism n. örvera
@@ -1329,5 +1329,10 @@ meds n. ft. stytting á %[medicine]% (ft.)
 tweet s. tísta; n. tíst
 nary l. enginn, ekki nokkur, ekki neinn ([~ a soul in sight])
 colotomy n. ristilskurður
-WWW n. stytt. á [World Wide Web], Veraldarvefurinn
-annotated l. ritskýrt, með athugasemdum; sjá %[annotate]%
+WWW n. stytting á [World Wide Web]; Veraldarvefurinn
+annotated l. ritskýrður, með athugasemdum; sjá %[annotate]%
+scientism n. (öfga)vísindahyggja; sú kenning að aðferðir náttúruvísinda ráði við öll svið mannlegra fræða
+scientistic l. (öfga)vísindahyggju-; sjá %[scientism]%
+USA n. ft. stytting á %[United States of America]%
+US n. ft. Bandaríkin; stytting á %[United States]%
+UK n. Bretland; sytting á %[United Kingdom]%
