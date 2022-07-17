@@ -275,7 +275,7 @@ participate s. taka þátt í
 participation n. hluttekning
 participator n. þátttakandi, hluttakandi
 participle n. hluttaksorð
-particle n. ögn, snefill; eind, öreind (eðlisfr.)
+particle n. ögn, snefill; eind, öreind (í eðlisfræði)
 particular l. sérstakur ([for no ~ reason]); einkennilegur; áriðandi; nákvæmur; vandfýsinn (um e-ð about); n. einstakt atriði; atvik; [in ~] einkum; [in that ~] í því efni; [relate in ~s] segja nákvæmlega frá
 particularism n. útilokunarstefna; sérstæðisstefna
 particularity n. einstakt atvik; einkenni
@@ -983,8 +983,8 @@ pigeon-hearted l. huglaus
 pigeonry n. dúfnahús
 pigeon-toed l. innskeifur
 piggery n. svínastía, grísastía
-pig-iron n. hálfhreinsað járn (í klumpum)
-pig-lead n. hálfhreinsað blý (í klumpum)
+pig iron n. hálfhreinsað járn (í klumpum)
+pig lead n. hálfhreinsað blý (í klumpum)
 piggish l. svínslegur, óþrifalegur; þrár, þrályndur ([~ mood])
 piggy n. gríslingur
 pigment n. litur, litarefni

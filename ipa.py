@@ -157,6 +157,10 @@ SKIP = frozenset(
         "preter-",
         "pilum",
         "calisthenic",
+        "civilizational",
+        "doobie",
+        "pedophile",
+        "pedophilia",
     )
 )
 

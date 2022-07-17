@@ -249,7 +249,7 @@ def verify():
             check_bracket_use(line, letter, ln)
             check_intradict_refs(line, letter, ln)
             # check_icelandic_words(line, letter, ln)
-            # check_english_words(line, letter, ln)
+            check_english_words(line, letter, ln)
             # check_enword_def(line, letter, ln)
 
     exit(warnings > 0)

@@ -78,9 +78,9 @@ eclectic l. úrveljandi, úrvals-
 eclipse n. myrkvi; s. draga myrkva yfir, skyggja á; kasta skugga á, bera af
 ecliptic n. sólarbraut, sólbrautarbaugur
 eclogue n. hirðingjaljóð
-economic l. þjóðmegunarlegur, hagfræðilegur; sparsamur; sem er til hagsmuna (eða sparnaðar); efnahagslegur (sem snertir hið efnahagslega ástand)
-economical l. þjóðmegunarlegur, hagfræðilegur; sparsamur; sem er til hagsmuna (eða sparnaðar); efnahagslegur (sem snertir hið efnahagslega ástand)
-economics n. ft. þjóðmegunarfræði, hagfræði
+economic l. hagfræðilegur, þjóðmegunarlegur; sparsamur; sem er til hagsmuna (eða sparnaðar); efnahagslegur (sem snertir hið efnahagslega ástand)
+economical l. hagfræðilegur, þjóðmegunarlegur; sparsamur; sem er til hagsmuna (eða sparnaðar); efnahagslegur (sem snertir hið efnahagslega ástand)
+economics n. ft. hagfræði, þjóðmegunarfræði
 economist n. hagfræðingur, þjóðmegunarfræðingur; sparnaðarmaður
 economize s. spara; nota sparlega; hagnýta
 economy n. efnahagur; efnahagslegt ástand; [political ~] þjóðmegunarfræði; (hús)stjórn; fyrirkomulag, tilhögun; sparsemi, sparnaður
@@ -733,7 +733,7 @@ epigraph n. letur (t.d. á legsteini); einkunnarorð (fyrir bók eða kafla úr 
 epigraphic l. sem lýtur að áletrunum
 epigraphy n. áletranir; áletranafræði
 epilepsy n. flogaveiki, slagaveiki, niðurfallssýki
-epileptic l. niðurfallssjúkur, flogaveikur
+epileptic l. flogaveikur, slagveikur, niðurfallssjúkur
 epilogist n. höfundur eða framsögumaður eftirmála
 epilogue n. eftirmáli (í bundnu eða óbundnu máli)
 Epiphany n. þrettándinn

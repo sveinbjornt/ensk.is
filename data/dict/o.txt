@@ -127,13 +127,13 @@ occultist n. dulspekingur
 occultly ao. leynilega
 occupancy n. eignarnám; eignarhald
 occupant n. eignarnemi; eigandi; íbúandi ([~ of a house]); ábúandi
-occupation n. starf; iðn; eignarnám; eignarhald
-occupier n. eignarnemi; eignarráðandi
+occupation n. starf; iðn; eignarnám; eignarhald; herseta
+occupier n. eignarnemi; eignarráðandi; hersetuafl
 occupy s. taka undir sig; setjast í e-n stað; byggja (e-n stað); hafa á valdi sínu; hafa á hendi (embætti); hafa eignarráð yfir; skipa eða fylla (autt rúm); starfsetja; [to ~ oneself with] fást við
 occur s. koma fyrir, finnast; bera við; detta (e-ð) í hug ([an idea just ~red to me])
 occurrence n. atvik, tilviljun, viðburður; [of frequent ~] sem oft ber við
 ocean n. úthaf, haf
-oceanic l. útsævar-; úthafs
+oceanic l. útsjávar-; úthafs-
 ocellated l. dröfnóttur
 ochlocracy n. skrílveldi, múgveldi
 ochre n. járnkynjuð leirtegund (sem litað er úr)
@@ -165,7 +165,7 @@ ode n. stutt kvæði, óða
 odious l. illa þokkaður, óvinsæll; andstyggilegur
 odium n. hatur, óvild; [bring ~ upon] baka e-m óvild
 odoriferous l. ilmandi
-odour n. lykt, þefur; ilmur; [in bad ~] illa þokkaður
+odour n. lykt, þefur; ilmur; [in bad ~] illa þokkaður, í ónáð
 odorous l. ilmandi
 oedema n. bjúgur
 oecumenical l. almennur; [~ council] kirkjuþing

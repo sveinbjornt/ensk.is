@@ -2,9 +2,6 @@ futhark
 pictograph
 hypodermic
 transdermic
-narcissist
-narcissism
-narcolepsy
 nary
 preternuptial
 preterperfect
@@ -16,7 +13,6 @@ chitinous
 cat o' nine tails
 boomerang
 toke s.
-spliff
 locus
 colostomy
 urethra
@@ -139,8 +135,6 @@ finesse
 connectivity
 collectible
 collectibles
-compiler
-cholesterol
 characterization
 characterized
 qubit
@@ -153,7 +147,6 @@ browse
 sexuality n.
 syndication
 troubleshoot
-tutorial
 unauthorized
 unsigned
 waiver
@@ -215,7 +208,6 @@ monitor
 console
 napalm
 sarin
-tweet
 scan
 blog
 unfriend
@@ -232,7 +224,6 @@ Prozac
 web (WWW)
 markup
 tokenize
-teleport s.
 telemetry
 communitarianism
 authoritarian
@@ -252,7 +243,6 @@ cracker
 hack
 wi-fi
 mechatronic
-meds
 cyber-
 shemale
 cybersex

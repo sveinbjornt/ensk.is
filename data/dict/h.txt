@@ -363,8 +363,8 @@ hebdomadary l. vikulegur, viku- ([~ meeting])
 hebetate s. sljóvga
 hebetation n. sljóleiki
 Hebraic l. hebreskur
-hebreism n. hebreskt orðatiltæki; hebreskur hugsunarháttur
-hebreist n. hebreskumaður; Hebrei
+Hebraism n. hebreskt orðatiltæki; hebreskur hugsunarháttur
+Hebraist n. hebreskumaður; Hebrei
 Hebrew l. hebreskur; n. Hebrei, Gyðingur; hebreska
 hecatomb n. hundraðsfórn, hundraðsblót
 heckle n. hör- eða hampkambur; s. kemba (hör eða hamp)

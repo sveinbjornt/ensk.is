@@ -323,6 +323,9 @@ anarcho-capitalism n. anarkó-kapítalismi (sú stjórnmálastefna að afnema r�
 anarcho-capitalist n. anarkó-kapítalisti (fylgismaður anarkó-kapítalisma, sjá %[anarcho-capitalism]%)
 biodome n. lífhvelfing (lokað vistkerfi í hvelfingu)
 paedophile n. barnaníðingur; e-r sem haldinn er barnagirnd
+pedophile n. sjá %[paedophile]%
+paedophilia n. barnagirnd, barnaníð
+pedophilia n. sjá %[paedophilia]%
 cyberspace n. netheimar
 mockumentary n. grínmynd í sniði heimildarmyndar
 emoticon n. lyndistákn, tjákn
@@ -1002,7 +1005,9 @@ protocol n. samskiptareglur, samskiptamáti
 fibrillate s. tifa, titra, flökta
 fibrillation n. tif, titringur, flökt (í hjartanu)
 teleportation n. fjarflutningur
+teleport s. fjarflytja
 telekinesis n. fjarhreyfing
+telekinetic l. fjarhreyfingar-, gæddur fjarhreyfingarkröftum
 neurosis n. taugaveiklun, hugsýki
 neurotic l. taugaveiklaður, hugsjúkur
 router n. beinir (tæki sem beinir gögnum milli staða)
@@ -1159,6 +1164,7 @@ desktop n. yfirborð skrifborðs; skjáborð (í tölvuviðmóti); borðtölva (
 PTSD n. stytt. á %[post-traumatic stress disorder]%
 synchronicity n. samstilling; samræming; sjá %[synchronous]%
 asynchronous l. ósamstilltur; ósamræmdur; ekki samtímis; sjá %[synchronous]%
+asynchronous l. ósamstilltur; ósamræmdur; ekki samtímis; sjá %[synchronous]%
 discombobulate s. rugla, slá út af laginu, koma í uppnám
 discombobulated l. ruglaður, sleginn út af laginu
 discombobulation n. ruglingur, ringulreið; sjá %[discombobulate]%
@@ -1228,6 +1234,7 @@ contra- fsk. á móti, gegn; sjá t.d. %[contradict]%, %[contravene]%
 preter- fsk. handan, meira en; sjá t.d. %[preternatural]%, %[preterhuman]%
 praeter- fsk. handan, meira en; sjá %[preter-]%
 para- fsk. hliðstæður, nærliggjandi, samliggjandi, handan; sjá t.d. %[parasite]%, %[paranormal]%
+tele- fsk. fjar-; sjá t.d. %[telephone]%, %[telescope]%
 antisocial l. andfélagslegur
 antibiotic l. gegn sýklum, andsýkla-; n. sýklalyf (yfirleitt í ft. [~s])
 antibiotics n. ft. sjá %[antibiotic]%
@@ -1236,7 +1243,7 @@ antisemite n. gyðingahatari
 antisemitic l. gyðingahatandi, fjandsamlegur gyðingum
 anti-inflammatory l. bólgueyðandi
 anti-aircraft l. gegn flugvélum, loftvarna-; [~ system] loftvarnakerfi; [~ gun] loftvarnabyssa
-anti-clockwise l. & ao. rangsælis
+anticlockwise l. & ao. rangsælis
 clockwise l. & ao. réttsælis
 IRC n. stytt. á [Internet Relay Chat]; spjallkerfi á internetinu
 intravenous l. innan æða, innanæða-, í æð
@@ -1303,3 +1310,19 @@ Catalonia n. Katalónía (sjálfstjórnarsvæði á Spáni)
 paranormal l. yfirskilvitlegur, yfirnáttúrulegur, dulrænn
 Dick n. gælunafn yfir e-n sem heitir [Richard]
 ceramicist n. leirkerasmiður; sjá einnig %[ceramist]%
+civilizational l. siðmenningar-, siðmenningarlegur, heimsmenningarlegur (sjá %[civilization]%)
+spliff n. jóna, kannabisvindlingur (óforml.)
+doobie n. jóna, kannabisvindlingur (óforml.)
+narcolepsy n. drómasýki
+narcoleptic n. drómasjúkur; n. drómasjúkur einstaklingur
+epileptic l. flogaveikur; n. flogaveikur einstaklingur
+autism n. einhverfa (þroskaröskun)
+autism spectrum n. einhverfuróf
+autistic l. einhverfur
+narcissism n. sjálfsást, sjálfsdýrkun, narsissismi
+narcissistic l. sjálfselskandi, sjálfsdýrkandi, narsissískur, narsissistískur
+narcissist n. narsissisti, e-r sem elskar eða dýrkar sjálfan sig
+Athens n. Aþena (borg í Grikklandi)
+tutorial l. kennslu-, kennara-; n. kennsluefni, námsefni, leiðbeiningar; kennslustund
+meds n. ft. stytting á %[medicine]% (ft.)
+tweet s. tísta; n. tíst

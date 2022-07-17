@@ -904,8 +904,8 @@ dinghy n. skipsbátur
 dinginess n. dimma, dekkja
 dingy l. óhreinn; dökkur, dimmur; tortryggilegur
 dingle n. skógi vaxin kvos
-dining-room n. borðstofa
-dining-table n. matborð
+dining room n. borðstofa
+dining table n. matborð
 dinner n. miðdegisverður; veisla
 dint n. högg; far (eftir högg); [by ~ of] með (hjálp e-s); s. setja far í, dala
 diocesan n. klerkur eða íbúi í biskupsdæmi

@@ -1390,14 +1390,14 @@ Turkey stone n. heinbrýni
 Turkish l. tyrkneskur
 turmoil n. órói, hávaði
 turn s. snúa; venda (fötum); þýða (á aðra tungu, [~ into English]); renna (í rennismiðju); breyta í e-ð ([to, into, water into wine]); fara (komast) í kringum; láta súrna, sýra; hleypa (mjólk); gera ringlaðan ([~ one's head/brain]); snúa sér; snúast; breytast; verða ([~ pale]); súrna ([~ sour]); hlaupa; svima, sundla ([his head ~ed]); fá velgju ([his stomach ~ed]); vera kominn undir ([everything ~s on his answer]); [~ed fifty] komast á sextugsaldur; [~ a corner] fara fyrir horn; [~ a difficulty] sneiða hjá; [~ the scale] ríða baggamuninn; [~ the stomach] gera velgju; [~ to profit] gera arðsamt; [~ to account] koma að notum; hagnýta; [~ aside] afstýra; [~ away] reka burtu (úr vistinni); afstýra; [~ down] leggja á grúfu; skrúfa niður (lampa); [~ in] brjóta (fald); [~ off] reka burtu; [~ out] reka út; reka á beit; reka úr embætti; framleiða; snúa við ([made him ~ out his pockets]); reynast ([~ out to be something]); verða ([~ out soldier]); [~ over] velta um koll; selja í hendur; fletta (bók); fletta við; [he ~s over £500 a week] hann selur (verslar) fyrir; [~ round] snúa sér við; [~ to] byrja á e-u, að gera e-ð; [~ up] bretta upp; skrúfa upp (lampa); fletta upp (orði); koma í ljós; bjóðast (um tækifæri); [the sight ~ed me up] mér varð flökurt við þessa sjón; n. snúningur; umferð; gangur (fram og aftur); bugða; skipti; umskipti; breyting; röð; greiði, gagn ([he did me a good, an ill ~] greiða, ógreiða); lögun; háttur; stefna; tilhneiging; tilgangur; tækifæri; [they must take ~s at baling] skiptast á um að ausa; [to give ~ for ~] gjalda líku líkt; [to be of a bookish ~] vera hneigður til bóka; [of a humorous ~] gamansamur; [~ of mind] lunderni, skaplyndi; [at (in) my ~] þegar að mér kemur (kom); [by ~s] á víxl, til skiptis; [in ~] í röð, hver á fætur öðrum; [in the ~ of a hand] í einni svipan; [the tide is on the ~] það er (eða flóðið er) farið að bresta ([the tide is ~ing]); [to a ~] nákvæmlega; [the meat is done to a ~] mátulega steikt
-turn-bench n. rennibekkur (úrsmiðs)
+turn bench n. rennibekkur (úrsmiðs)
 turncap n. hjáskjól (á reykháfi)
 turncoat n. liðhlaupari
 turner n. rennismiður, rennari
 turnery n. renning; rennismíði
 turning n. snúningur; umbreyting; bugða, horn (á götu); vegamót, gatnamót, gata (vegur), sem liggur út úr annarri götu ([take the next ~ to the left]); ft. rennispænir
-turning-lathe n. rennibekkur
-turning-point n. punktur sem eitthvað snýst við, umskipti, tímamót
+turning lathe n. rennibekkur
+turning point n. punktur sem eitthvað snýst við, umskipti, tímamót
 turnkey n. fangavörður
 turnout n. verkfall; vörur framleiddar á tilteknum tíma; tekjur (að frádregnum kostnaði) verkfallsmaður; mannsöfnuður; beitiland; útbúnaður; aktæki, vagn með hestum
 turnover n. verslunarmagn, viðskiptavelta

@@ -708,7 +708,7 @@ chessboard n. taflborð, skákborð
 chessman n. maður eða peð í skák
 chessplayer n. taflmaður skákmaður
 chest n. brjóst, bringa; kista; sjóðhirsla; [~ of drawers] dragkista, kommóða; s. leggja í kistu
-chestnut n. kastaníuhnot; l. jarpur ([~ horse, hair])
+chestnut n. kastanía, kastaníuhneta; l. jarpur ([~ horse, hair])
 chevalier n. riddari
 cheviot n. e.k. ullardúkur
 chevy n. elting s. elta
@@ -1095,7 +1095,7 @@ clothesbag n. línfatapoki
 clothesbrush n. fatabursti
 clothes-peg n. þvotthalda, klemma
 clothes-press n. fataskápur
-clothes-wringer n. þvottvinda
+clothes wringer n. þvottvinda
 clothier n. klæðagjörðarmaður; klæðasali
 clothing n. klæðnaður
 cloud n. ský; mökkur; sægur ([~ of birds, insects, horsemen]); [under a ~] í vanda staddur; í ónáð; s. draga ský yfir; kasta skugga á; verða dimmur, dimma
@@ -2331,14 +2331,14 @@ countinghouse n. skrifstofa (í verslunarhúsi)
 countless l. ótölulegur
 country n. land; hérað; sveit (gagnstætt borgunum); ættland; [in the ~] uppi í sveit; [into the ~] upp í sveit; [~ cousin] frændi (frænka) ofan úr sveit; [~ party] bændaflokkur
 countrified l. sveitalegur ([~ manners])
-country-house n. landsetur
+country house n. landsetur
 countryman n. landsmaður; samlandi, landi; sveitamaður
 countrypeople n. sveitamenn, sveitafólk
 countryseat n. landsetur
 countrywoman n. sveitakona
 county n. greifadæmi, fylki
 county court n. héraðsdómstóll
-country-town n. höfuðborg (í greifadæmi)
+country town n. höfuðborg (í greifadæmi)
 couple n. hálstengsli (sem tveir hundar eru tengdir saman með); tvennt, sem á saman; hjón; tveir eða þrír; sperra; s. festa saman; samtengja; maka sig
 couplet n. erindi (tvær ljóðlínur með hendingum)
 coupling n. tengsl
