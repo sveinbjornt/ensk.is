@@ -91,7 +91,7 @@ def _format_item(item: Dict[str, Any]) -> Dict[str, Any]:
 
     # Replace %[word]% with link to intra-dictionary entry
     rx = re.compile(r"%\[(.+?)\]%")
-    x = rx.sub(r"<strong><a href='/item/\1'>\1</a></strong>", x)
+    x = rx.sub(r"<strong><em><a href='/item/\1'>\1</a></em></strong>", x)
 
     # Italicize English words
     x = x.replace("[", "<em>")

@@ -1164,7 +1164,6 @@ desktop n. yfirborð skrifborðs; skjáborð (í tölvuviðmóti); borðtölva (
 PTSD n. stytt. á %[post-traumatic stress disorder]%
 synchronicity n. samstilling; samræming; sjá %[synchronous]%
 asynchronous l. ósamstilltur; ósamræmdur; ekki samtímis; sjá %[synchronous]%
-asynchronous l. ósamstilltur; ósamræmdur; ekki samtímis; sjá %[synchronous]%
 discombobulate s. rugla, slá út af laginu, koma í uppnám
 discombobulated l. ruglaður, sleginn út af laginu
 discombobulation n. ruglingur, ringulreið; sjá %[discombobulate]%
@@ -1267,7 +1266,7 @@ nightstand n. náttborð
 night watchman n. næturvörður
 nil n. núll; ekkert
 nitrite n. nítrít (NO2)
-bong n. vatnspípa; bjölluhringing
+bong n. vatnspípa; hasspípa; bjölluhringing
 boob n. brjóst (óforml., oft í ft. [~s] (kvenmanns)brjóst); auli
 boobie n. sjá %[boob]%
 booby trap n. gildra
@@ -1283,6 +1282,7 @@ Arctic n. Norðurskautslandið (yfirleitt m. ákv. gr. [the ~])
 Arctic Circle n. Norðurheimskautsbaugur
 Antarctic Circle n. Suðurheimskautsbaugur
 North America n. Norður-Ameríka (heimsálfa)
+Central America n. Mið-Ameríka
 South America n. Suður-Ameríka (heimsálfa)
 Oceania n. Eyjaálfa (heimsálfa sem nær yfir Ástralíu og nærliggjandi eyjar)
 telegrapher n. símritari, símaþjónn
@@ -1322,7 +1322,12 @@ autistic l. einhverfur
 narcissism n. sjálfsást, sjálfsdýrkun, narsissismi
 narcissistic l. sjálfselskandi, sjálfsdýrkandi, narsissískur, narsissistískur
 narcissist n. narsissisti, e-r sem elskar eða dýrkar sjálfan sig
+personality disorder n. persónuleikaröskun
 Athens n. Aþena (borg í Grikklandi)
 tutorial l. kennslu-, kennara-; n. kennsluefni, námsefni, leiðbeiningar; kennslustund
 meds n. ft. stytting á %[medicine]% (ft.)
 tweet s. tísta; n. tíst
+nary l. enginn, ekki nokkur, ekki neinn ([~ a soul in sight])
+colotomy n. ristilskurður
+WWW n. stytt. á [World Wide Web], Veraldarvefurinn
+annotated l. ritskýrt, með athugasemdum; sjá %[annotate]%
