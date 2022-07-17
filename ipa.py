@@ -147,6 +147,16 @@ SKIP = frozenset(
         "arquebus",
         "IRC",
         "prementioned",
+        "boobie",
+        "criminological",
+        "Kiev",
+        "Lombardy",
+        "Oceanian",
+        "phonographer",
+        "praeter-",
+        "preter-",
+        "pilum",
+        "calisthenic",
     )
 )
 

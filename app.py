@@ -271,6 +271,7 @@ async def about(request: Request):
             "num_additions": num_additions,
             "entries_singular": sing_or_plur(num_entries),
             "additions_singular": sing_or_plur(num_additions),
+            "additions_percentage": f"{num_additions / num_entries * 100:.1f}%",
         },
     )
 

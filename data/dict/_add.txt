@@ -256,6 +256,7 @@ kilowatt n. kílóvatt (þúsund vött)
 workstation n. vinnustöð; skrifborðstölva
 cougar n. fjallaljón; kynferðislega virk eldri kona (óforml.)
 calisthenics n. ft. leikfimiæfingar
+calisthenic l. leikfimi-, leikfimiæfinga-
 automation n. sjálfvirkni; sjálfvirknivæðing
 automate s. sjálfvirknivæða
 bot n. (stytting á %[robot]%) vélmenni, þjarkur
@@ -338,7 +339,7 @@ Islamic l. íslamskur (sjá %[Islam]%)
 passphrase n. aðgangsorð, lykilorð, aðgangsfrasi
 marijuana n. maríjúana (kannabislyf)
 metadata n. lýsigögn (gögn sem lýsa öðrum gögnum)
-muslim n. múslími (sá sem aðhyllist íslamska trú); l. múslímskur
+Muslim n. múslími (sá sem aðhyllist íslamska trú, sjá %[Islam]%); l. múslímskur
 nutritional l. næringar-
 outsource s. útvista
 outsourcing n. útvistun
@@ -1170,9 +1171,9 @@ cryptocurrency n. rafmynt
 bacchanalia n. ft. svall, orgía (hjá Rómverjum til forna, kennd við guðinn Bakkus)
 orgy n. (kynlífs)svall, svallveisla, orgía
 dildo n. gervilimur (kynlífsleikfang)
-mage n. seiðkarl; sjá %[magician]%
+mage n. seiðkarl, galdrakarl; sjá %[magician]%
 octopus n. kolkrabbi
-anhedonia n. vansæld, vansæla
+anhedonia n. vansæld, vansæla, gleðileysi
 dysphoria n. eirðarleysi
 gnoll n. e.k. hundmenni, hundingi
 synonymicon n. samheitaorðabók (sjá einnig %[thesaurus]%)
@@ -1226,6 +1227,7 @@ hyper- fsk. yfir-, of-; sjá t.d. %[hypercritical]%, %[hyperventilation]%
 contra- fsk. á móti, gegn; sjá t.d. %[contradict]%, %[contravene]%
 preter- fsk. handan, meira en; sjá t.d. %[preternatural]%, %[preterhuman]%
 praeter- fsk. handan, meira en; sjá %[preter-]%
+para- fsk. hliðstæður, nærliggjandi, samliggjandi, handan; sjá t.d. %[parasite]%, %[paranormal]%
 antisocial l. andfélagslegur
 antibiotic l. gegn sýklum, andsýkla-; n. sýklalyf (yfirleitt í ft. [~s])
 antibiotics n. ft. sjá %[antibiotic]%
@@ -1237,7 +1239,7 @@ anti-aircraft l. gegn flugvélum, loftvarna-; [~ system] loftvarnakerfi; [~ gun]
 anti-clockwise l. & ao. rangsælis
 clockwise l. & ao. réttsælis
 IRC n. stytt. á [Internet Relay Chat]; spjallkerfi á internetinu
-intravenous l. innan æðar, innanæðar-, í æð
+intravenous l. innan æða, innanæða-, í æð
 suboptimal l. ekki eins góður og kostur er á (sjá %[optimal]%)
 microorganism n. örvera
 prementioned l. áðurnefndur, fyrrnefndur
@@ -1259,8 +1261,7 @@ night watchman n. næturvörður
 nil n. núll; ekkert
 nitrite n. nítrít (NO2)
 bong n. vatnspípa; bjölluhringing
-boob n. brjóst (óforml., oft í ft. [~s] (kvenmanns)brjóst); fáviti, hálfviti
-booby n. sjá %[boob]%
+boob n. brjóst (óforml., oft í ft. [~s] (kvenmanns)brjóst); auli
 boobie n. sjá %[boob]%
 booby trap n. gildra
 bookworm n. bókaormur
@@ -1295,5 +1296,10 @@ Old World n. Gamli heimurinn (álfurnar Evrópa, Asía og Afríka)
 criminological n. afbrotafræðilegur, glæpafræðilegur
 criminologist n. afbrotafræðingur, glæpafræðingur
 empathy n. samkennd, samúð, hluttekning
-empathetic l. samkenndarsamur, skilningsríkur, samúðarfullur, hluttekningarsamur
-empathize s. finna til með, hafa samúð með
+empathetic l. samkenndarsamur, samúðarfullur, tilfinningalega skilningsríkur, hluttekningarsamur
+empathize s. finna til með, hafa samúð með, skilja tilfinningalega, skilja hvernig e-m líður
+pilum n. rómverskt kastspjót
+Catalonia n. Katalónía (sjálfstjórnarsvæði á Spáni)
+paranormal l. yfirskilvitlegur, yfirnáttúrulegur, dulrænn
+Dick n. gælunafn yfir e-n sem heitir [Richard]
+ceramicist n. leirkerasmiður; sjá einnig %[ceramist]%

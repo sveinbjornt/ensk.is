@@ -238,9 +238,9 @@ manorial l. herragarðslegur, lénsgreifalegur
 manse n. prestssetur (í Skotlandi)
 mansion n. höfðingjasetur; stórt íveruhús
 mansion house n. höfðingjasetur, herragarður; aðsetur borgarstjóra í Lundúnum
-mantel n. arinhylla
-mantelpiece n. arinhylla
-mantelshelf n. arinhylla
+mantel n. arinhilla
+mantelpiece n. arinhilla
+mantelshelf n. arinhilla
 mantilla n. stór blæja um höfuð og háls; ermalaus herðakápa
 mantle n. möttull, kápa; s. hjúpa; skýla, hylja; breiðast út yfir; freyða; roðna (um kinnarnar, [her cheeks ~d])
 mantlet n. stutt herðakápa; kúluskýli
