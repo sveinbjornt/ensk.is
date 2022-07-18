@@ -1052,7 +1052,7 @@ copyrighted l. varið af höfundarétti
 patented l. varið af einkaleyfi
 subsection n. undirdeild, undirflokkur, undirkafli, undirhluti
 Babylon n. Babýlon (höfuðborg Babýloníu til forna); auðug og spillt stórborg
-Babylonian n. Babýlonsmaður (sjá %[Babylon]%)
+Babylonian l. babýlonskur; n. Babýlonsmaður (sjá %[Babylon]%)
 betwixt fs. sjá %[between]%
 stereo l. víðóma (með tveimur hljóðrásum); hljómtæki, hljómflutningstæki
 steroid n. steri; ft. [steroids] sterar, steralyf
@@ -1229,7 +1229,7 @@ re- fsk. endur-; sjá t.d. %[revolution]%, %[reload]%, %[rediscover]%
 auto- fsk. sjálf-, sjálfs-; sjá t.d. %[automobile]%, %[autobiography]%, %[autonomy]%
 pre- fsk. for-, áður-, á undan, fyrir, fyrr; of snemma; sjá t.d. %[prementioned]%, %[predict]%, %[premature]%
 post- fsk. á eftir e-u; sjá t.d. %[post mortem]%, %[postmodern]%
-counter- fsk. mót-, gegn-; andspænis, gagnvart; sjá t.d. %[counteract]%, %[counterfeit]%
+counter- fsk. mót-, gegn-; andspænis, gagnstæður; sjá t.d. %[counteract]%, %[counterfeit]%
 intra- fsk. innan, innra-, innbyrðis, innvortis; sjá t.d. %[intravenous]%, %[intranet]%
 quasi- fsk. hálf-, hálfgerður, hálfpartinn, næstum, hér um bil, eins konar; [a ~religious concept] hálfpartinn trúarlegt hugtak
 neuro- fsk. tauga-; sjá t.d. %[neurochemical]%, %[neurodegeneration]%, %[neurologist]%
@@ -1351,9 +1351,9 @@ criteria n. ft. sjá %[criterion]%
 originally ao. upphaflega, upprunalega; frumlega, einkennilega; sjá %[original]%
 infrared l. innrauður, infrarauður; [~ light] innrautt ljós
 biomass n. lífmassi
-NATO n. Atlantshafsbandalagið; stytting á %[North Atlantic Treaty Organization]%
+NATO n. Atlantshafsbandalagið; stytting á [North Atlantic Treaty Organization]
 polyphony n. fjölröddun, pólýfónía
-polyphonic l. fjölraddað
+polyphonic l. fjölraddaður
 basketball n. körfubolti, körfuknattleikur
 sensor n. skynjari, nemi; [motion ~] hreyfiskynjari
 browser n. vafri, netvafri, vefskoðari
@@ -1365,12 +1365,12 @@ config n. stytting á %[configuration]%
 bikini n. bikiní, baðföt
 resell s. endurselja
 reseller n. endursöluaðili, endursölumaður
-gel n. gel, hlaup
+gel n. gel, hlaup (stytting á %[gelatine]%)
 cookie n. smákaka; vefkaka (á veraldarvefnum)
 footwear n. skófatnaður, skótau, skóbúnaður
 interracial l. milli kynþátta
 racism n. kynþáttahatur, kynþáttafordómar, kynþáttahyggja, rasismi
-racist n. kynþáttahatari, rasisti; l. kynþáttahatandi, rasískur
+racist n. kynþáttahatari, rasisti; l. kynþáttahatandi, rasískur, kynþáttahyggju-
 euro n. evra (gjaldmiðill, €)
 petite l. fíngerður, smágerður, smávaxinn, lítill
 volleyball n. blak (knattleikur)
@@ -1383,3 +1383,11 @@ Hawaii n. Hawaii, Hawaiieyjar (stundum skrifað Havaí)
 teen n. táningur; l. tánings-, á táningsaldri; sjá %[teenage]%
 artwork n. listaverk; myndskreyting
 California n. Kalifornía (ríki í suðvesturhluta Bandaríkjanna)
+documented l. skjalfestur; skjalaður; sjá %[document]%
+futhark n. germanskt rúnaletur
+asshole n. rassgat; asni, hálfviti, fáviti, skíthæll ([he is such an ~])
+anus n. endaþarmsop, rassgat
+machine gun n. hríðskotabyssa
+Maxim gun n. hríðskotabyssa frá 19. öld
+howitzer n. e.k. fallbyssa
+machismo n. karlmennskustælar, ýkt karlmennska; karlremba

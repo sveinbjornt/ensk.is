@@ -681,6 +681,7 @@ owner n. eigandi
 ownerless l. eigandalaus
 ownership n. eignarréttur; eign ([~ of land])
 ox n. uxi, naut; ft. [oxen]
+oxen n. ft. sjá %[ox]%
 oxherd n. nautahjörð
 oxhide n. uxahúð, nautahúð
 oxidate s. sýra; sýrast

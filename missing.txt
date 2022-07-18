@@ -1,9 +1,12 @@
 replacement
 clone
+sonata
+mazurka
+nocturne
+sarabande
 gourmet
 dosage
 adjustable
-documented
 questionnaire
 nominated
 telecom
@@ -16,7 +19,6 @@ implementation
 bingo
 anyway
 catering
-futhark
 checkout
 rehab
 screening
@@ -233,6 +235,7 @@ substantially
 shipboard
 splatterdash n.
 somatic
+psychosomatic
 cull
 xenobiotic
 telemeter
@@ -274,6 +277,7 @@ propertarianism
 atavism
 atavistic
 gorgonzola
+ephebophilia
 ephebophile
 therapy
 therapist
