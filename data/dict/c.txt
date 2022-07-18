@@ -1388,7 +1388,7 @@ combatant n. bardagamaður
 combative l. gjarn á að berjast
 combativeness n. bardagafýsn
 comber n. ullarkembari; kembingarvél; brimboði
-combination n. sameining, samband; ft. samfestingar (skyrta og nærskjól í einu)
+combination n. samsetning, sameining, samband; ft. samfestingar (skyrta og nærskjól í einu)
 combine s. sameina; sameinast, samlagast (e-u [with]); gera samband
 combing n. kembing; hár, sem losnar við kembingu
 combustible l. eldfimur
@@ -1744,7 +1744,7 @@ confident l. fullviss; öruggur; djarfur; n. alúðarvinur, trúnaðarmaður
 confidential l. trúnaðar-; heimullegur
 confidentially ao. í trúnaði
 configurate s. mynda, laga
-configuration n. myndun, lögun; afstaða (himintungla)
+configuration n. myndun, lögun; afstaða (himintungla); stilling
 confine n. vanalega í ft. [~s]; takmörk, landamæri; s. takmarka; byrgja inni, hafa í varðhaldi; binda, halda; [be ~d to bed] liggja rúmfastur, liggja á sæng; [be ~d of a child] ala barn
 confinement n. takmörkun; varðhald; barnsburður ([just recovered from her ~])
 confirm s. styrkja, staðfesta; ferma; [a ~ed drunkard] forhertur drykkjumaður

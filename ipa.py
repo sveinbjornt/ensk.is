@@ -164,6 +164,9 @@ SKIP = frozenset(
         "colotomy",
         "scientism",
         "scientistic",
+        "Babylonian",
+        "config",
+        "California",
     )
 )
 

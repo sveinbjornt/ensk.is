@@ -460,6 +460,7 @@ bioengineer n. líftæknifræðingur
 confidentiality n. trúnaður
 lyrebird n. lýrufugl (e.k. spörfugl)
 porn n. klám (óforml. stytting á %[pornography]%)
+porno n. klám (óforml. stytting á %[pornography]%)
 natural language processing n. máltækni, málgreining
 guerrilla n. skæruliði
 guerrilla warfare n. skæruhernaður
@@ -767,6 +768,7 @@ Western Sahara n. Vestur-Sahara
 Yemen n. Jemen
 Zambia n. Sambía
 Zimbabwe n. Simbabve
+Korea n. Kórea
 tsar n. Rússlandskeisari
 tsarina n. Rússlandskeisaradrottning
 unsubscribe s. segja upp áskrift
@@ -896,6 +898,7 @@ Yugoslavian l. júgóslavneskur; n. júgóslavi
 Yugoslavic l. júgóslavneskur (sjá einnig %[Yugoslavian]%)
 Yugoslav n. júgóslavi
 Soviet Union n. Sovétríkin
+Soviet l. sovéskur; n. Sovétmaður
 Caledonia n. Kaledónía (fornrómverskt heiti yfir það svæði sem er í dag Skotland)
 pricing n. verðlagning
 manually ao. handvirkt
@@ -946,6 +949,7 @@ xerox s. ljósrita (í N-Ameríku, sjá %[photocopy]%); [~ machine] ljósritunar
 photocopy s. ljósrita
 photocopier n. ljósritunarvél
 behavioural l. atferlis-, hegðunar-
+behavioral l. sjá %[behavioural]%
 technocracy n. tækniveldi
 technocrat n. tækniveldissinni; tækniveldismaður, kerfiskarl
 nightlife n. næturlíf
@@ -1047,7 +1051,8 @@ internationally ao. alþjóðlega
 copyrighted l. varið af höfundarétti
 patented l. varið af einkaleyfi
 subsection n. undirdeild, undirflokkur, undirkafli, undirhluti
-Babylon n. Babýlon (höfuðborg Babýlóníu til forna); auðug og spillt stórborg
+Babylon n. Babýlon (höfuðborg Babýloníu til forna); auðug og spillt stórborg
+Babylonian n. Babýlonsmaður (sjá %[Babylon]%)
 betwixt fs. sjá %[between]%
 stereo l. víðóma (með tveimur hljóðrásum); hljómtæki, hljómflutningstæki
 steroid n. steri; ft. [steroids] sterar, steralyf
@@ -1234,6 +1239,7 @@ preter- fsk. handan, meira en; sjá t.d. %[preternatural]%, %[preterhuman]%
 praeter- fsk. handan, meira en; sjá %[preter-]%
 para- fsk. hliðstæður, nærliggjandi, samliggjandi, handan; sjá t.d. %[parasite]%, %[paranormal]%
 tele- fsk. fjar-; sjá t.d. %[telephone]%, %[telescope]%
+bio- fsk. líf-, lífs-; sjá t.d. %[biology]%, %[biography]%
 antisocial l. andfélagslegur
 antibiotic l. gegn sýklum, andsýkla-; n. sýklalyf (yfirleitt í ft. [~s])
 antibiotics n. ft. sjá %[antibiotic]%
@@ -1329,10 +1335,51 @@ meds n. ft. stytting á %[medicine]% (ft.)
 tweet s. tísta; n. tíst
 nary l. enginn, ekki nokkur, ekki neinn ([~ a soul in sight])
 colotomy n. ristilskurður
-WWW n. stytting á [World Wide Web]; Veraldarvefurinn
+WWW n. stytting á [World Wide Web]; veraldarvefurinn
 annotated l. ritskýrður, með athugasemdum; sjá %[annotate]%
 scientism n. (öfga)vísindahyggja; sú kenning að aðferðir náttúruvísinda ráði við öll svið mannlegra fræða
-scientistic l. (öfga)vísindahyggju-; sjá %[scientism]%
+scientistic l. (öfga)vísindahyggjulegur; sjá %[scientism]%
 USA n. ft. stytting á %[United States of America]%
 US n. ft. Bandaríkin; stytting á %[United States]%
 UK n. Bretland; sytting á %[United Kingdom]%
+USSR n. Sovétríkin; stytting á [Union of Soviet Socialist Republics], enska heiti Sovétríkjanna
+us fn. andlagsfall af %[we]%, okkur; [this concerns all of ~] þetta varðar okkur öll
+congressman n. þingmaður (á löggjafarþingi Bandaríkjanna)
+Java n. eyja í Indónesíu; kaffidrykkur; forritunarmál
+catalog n. sjá %[catalogue]%
+criteria n. ft. sjá %[criterion]%
+originally ao. upphaflega, upprunalega; frumlega, einkennilega; sjá %[original]%
+infrared l. innrauður, infrarauður; [~ light] innrautt ljós
+biomass n. lífmassi
+NATO n. Atlantshafsbandalagið; stytting á %[North Atlantic Treaty Organization]%
+polyphony n. fjölröddun, pólýfónía
+polyphonic l. fjölraddað
+basketball n. körfubolti, körfuknattleikur
+sensor n. skynjari, nemi; [motion ~] hreyfiskynjari
+browser n. vafri, netvafri, vefskoðari
+Atlantic l. Atlantshafs-
+role n. hlutverk
+role model n. fyrirmynd
+configure s. stilla; mynda, laga
+config n. stytting á %[configuration]%
+bikini n. bikiní, baðföt
+resell s. endurselja
+reseller n. endursöluaðili, endursölumaður
+gel n. gel, hlaup
+cookie n. smákaka; vefkaka (á veraldarvefnum)
+footwear n. skófatnaður, skótau, skóbúnaður
+interracial l. milli kynþátta
+racism n. kynþáttahatur, kynþáttafordómar, kynþáttahyggja, rasismi
+racist n. kynþáttahatari, rasisti; l. kynþáttahatandi, rasískur
+euro n. evra (gjaldmiðill, €)
+petite l. fíngerður, smágerður, smávaxinn, lítill
+volleyball n. blak (knattleikur)
+motel n. vegahótel (Band.): samsett úr %[motor]% og %[hotel]%
+combo n. stytting á %[combination]%
+stolen l. stolinn; sjá %[steal]%
+specialized l. sérhæfður; sjá %[specialize]%
+multimedia n. margmiðlun, margmiðlunarefni; l. margmiðlunar-
+Hawaii n. Hawaii, Hawaiieyjar (stundum skrifað Havaí)
+teen n. táningur; l. tánings-, á táningsaldri; sjá %[teenage]%
+artwork n. listaverk; myndskreyting
+California n. Kalifornía (ríki í suðvesturhluta Bandaríkjanna)
