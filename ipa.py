@@ -170,6 +170,14 @@ SKIP = frozenset(
         "Kyiv",
         "battlecruiser",
         "postcolonialism",
+        "APC",
+        "Canaan",
+        "man-o'-war",
+        "quadrireme",
+        "quinquereme",
+        "handjob",
+        "nunchucks",
+        "Siam",
     )
 )
 

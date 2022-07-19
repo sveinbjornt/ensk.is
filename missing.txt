@@ -1,10 +1,8 @@
 replacement
 clone
+ornery
 battlecruiser
 minesweeper
-quadrireme
-quinquereme
-Man-of-war
 wildebeest
 gnu
 safecracker
@@ -20,17 +18,12 @@ mazurka
 nocturne
 sarabande
 gourmet
-dosage
 adjustable
-questionnaire
-nominated
-telecom
 coordinator
 personnel
 layout
 affordable
 implementation
-bingo
 anyway
 catering
 checkout
@@ -48,9 +41,7 @@ collaborative
 voltage
 undefined
 elected
-footwear
 debug
-handjob
 soundtrack
 syndrome
 pictograph
@@ -94,9 +85,6 @@ fauchard
 guisarme
 voulge
 ranseur
-pilum
-methanol
-kerosene
 cardiometabolic
 epanorthosis
 ecdemic
@@ -108,7 +96,6 @@ quaternity
 subliminal
 bathos
 hung over
-quasar
 suppository
 primly
 balanced
@@ -182,12 +169,10 @@ quest
 condo
 condominium
 confrontation
-bedevil s.
 repo
 pivot
 devastating
 status quo
-sprinkler
 give up
 finesse
 connectivity
@@ -209,7 +194,6 @@ unauthorized
 unsigned
 waiver
 yahoo
-yeah
 sequence, v.
 bypass
 buyout
@@ -226,7 +210,6 @@ lexical
 indie
 reinnervate, v.
 reinnervation, n.
-nunchucks
 ballistic
 boolean
 livestream
@@ -278,7 +261,6 @@ unfollow
 gig
 gaming
 Aspartame
-contact lens
 Prozac
 markup
 tokenize
@@ -297,7 +279,6 @@ therapy
 therapist
 hyperspace
 online
-hacker
 cracker
 hack
 wi-fi
@@ -325,7 +306,6 @@ spotlight
 essentially
 footage
 financing
-gadget
 graph
 harassment
 heater
@@ -371,3 +351,4 @@ networking
 outstanding
 patio
 nationwide
+motherfucker

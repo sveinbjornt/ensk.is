@@ -745,6 +745,7 @@ Taiwan n. Taívan
 Tajikistan n. Tadsjikistan
 Tanzania n. Tansanía
 Thailand n. Taíland
+Thai l. taílenskur
 Timor-Leste n. Austur-Tímor
 Togo n. Tógó
 Tokelau n. Tókelá
@@ -917,6 +918,7 @@ aerospace engineer n. flugvélaverkfræðingur, flugtæknifræðingur
 aeronautical l. flugvéla-, flugfars-
 aeronautical engineer n. flugvélaverkfræðingur
 fuck s. (óforml.) ríða, stunda kynlíf; n. dráttur, kynmök, samfarir; uh. helvítis! andskotinn! djöfullinn!
+fucking l. andskotans, helvítis, djöfulsins (sjá %[fuck]%)
 shit n. kúkur, saur, drulla; s. kúka, skíta; uh. fjandinn! fjandans!
 tergum n. bakskjöldur
 quadroon n. afkomandi hvítrar manneskju og kynblendings (úrelt)
@@ -1406,9 +1408,36 @@ colonialist n. nýlendusinni, nýlenduherra; l. nýlendustefnu-, nýlenduherra-
 postcolonial l. eftirnýlendu-, eftirlendu-, síðnýlendu-
 postcolonialism n. síðnýlendustefna, eftirlendustefnu, eftirlendufræði
 galleon n. galíon (stórt úthafsflutningaskip)
-battlecruiser n. (orustu)beitiskip
+battlecruiser n. e.k. orustu- eða beitiskip
 Canaan n. Kanaansland
 literally ao. bókstaflega, orðrétt
 warthog n. vörtusvín
 ghostwriter n. leigupenni, skuggaskrifari
 APC n. brynvarður bíll (stytting á [armoured personnel carrier])
+SUV n. jeppi, jepplingur (stytting á [sport utility vehicle])
+dosage n. (lyfja)skammtur
+ornithopter n. blakvængja
+man-o'-war n. herskip
+man-of-war n. herskip
+quadrireme n. fornt herskip (með fjórum áraröðum)
+quinquereme n. fornt herskip (með fimm áraröðum)
+telecom n. sjá %[telecommunication]%
+nominated l. tilnefndur (sjá %[nominate]%)
+bookseller n. bóksali
+Siam n. Síam (Taíland)
+frat n. sjá %[fraternity]%
+hacker n. (tölvu)hakkari, tölvurefur, tölvugarpur; tölvuþrjótur
+contact lens n. augnlinsa, snertilinsa
+yeah ao. já (óforml.); uh. já!
+sprinkler n. (vatns)úðari; [~ system] úðakerfi
+bedevil s. angra, ergja, plága; rugla, trufla
+quasar n. dulstirni, kvasi
+kerosene n. steinolía, kerósín; [~ lamp] olíulampi
+methanol n. metanól
+handjob n. fróun með hönd(um)
+bingo n. bingó (spil)
+questionnaire n. spurningalisti
+nunchucks n. ft. e.k. bardagakylfur frá eyjunni Okinawa
+gadget n. græja, tæki
+extremist n. öfgamaður, öfgasinni; l. öfga-, öfgafullur
+extremism n. öfgastefna, öfgar
