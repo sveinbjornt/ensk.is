@@ -557,7 +557,6 @@ press conference n. blaðamannafundur, fréttamannafundur
 AIDS n. alnæmi, eyðni (stytting á [acquired immunodeficiency syndrome])
 limousine n. limúsína (einnig ritað limmósína), eðalvagn, glæsivagn
 enquiry n. spurning; fyrirspurn; rannsókn
-dialogue n. samræða, samtal
 lightweight l. léttur; léttvægur, veigalítill; n. keppandi í léttvigt í íþróttum (t.d. hnefaleikum, [~ champion])
 logistic l. sem lýtur að skipulagi (á t.d. flutningi á vistum og búnaði)
 logistical l. sem lýtur að skipulagi (á t.d. flutningi á vistum og búnaði)
@@ -1007,7 +1006,6 @@ tranny n. (niðrandi) sjá %[transsexual]%
 trivia n. smámunir, lítilræði; fróðleiksmoli; spurningaleikur
 toolkit n. verkfærakista, verkfærakassi
 workout n. líkamsrækt, líkamsþjálfun, líkamsæfing
-protocol n. samskiptareglur, samskiptamáti
 fibrillate s. tifa, titra, flökta
 fibrillation n. tif, titringur, flökt (í hjartanu)
 teleportation n. fjarflutningur

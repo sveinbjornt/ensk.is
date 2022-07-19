@@ -1,0 +1,57 @@
+{% extends "container.html" %}
+
+{% block meta %}
+<meta name="description" content="Sækja gögnin á bak við vefinn ensk.is">
+{% endblock %}
+
+{% block script %}
+{% endblock %}
+
+{% block content %}
+
+<h1>Tölfræði</h1>
+
+<table>
+    <tr>
+        <td></td>
+        <td><strong>Num</strong></td>
+        <td><strong>%</strong></td>
+    </tr>
+    <tr>
+        <td><strong>Entries</strong></td>
+        <td>{{ num_entries }}</td>
+        <td>100%</td>
+    </tr>
+    <tr>
+        <td><strong>Additions</strong></td>
+        <td>{{ num_additions }}</td>
+        <td>{{ perc_additions }}</td>
+    </tr>
+    <tr>
+        <td><strong>Missing Page</strong></td>
+        <td>{{ no_page }}</td>
+        <td>{{ perc_no_page }}</td>
+    </tr>
+    <tr>
+        <td><strong>Missing UK IPA</strong></td>
+        <td>{{ no_uk_ipa }}</td>
+        <td>{{ perc_no_uk_ipa }}</td>
+    </tr>
+    <tr>
+        <td><strong>Missing US IPA</strong></td>
+        <td>{{ no_us_ipa }}</td>
+        <td>{{ perc_no_us_ipa }}</td>
+    </tr>
+    <tr>
+        <td><strong>Duplicates</strong></td>
+        <td>{{ num_duplicates }}</td>
+        <td>{{ perc_duplicates }}</td>
+    </tr>
+</table>
+
+<br>
+<br>
+<br>
+<br>
+
+{% endblock %}

@@ -90,6 +90,11 @@ def human_size(path: str) -> str:
     return f"{size:.1f} TB"
 
 
+def perc(a, b):
+    """Calculate percentage of a/b and return as string."""
+    return f"{100 * a / b:.1f}%"
+
+
 def is_ascii(s) -> bool:
     """Check if string is ASCII"""
     return all(ord(c) < 128 for c in s)

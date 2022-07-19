@@ -48,7 +48,7 @@ from fastapi.responses import Response, JSONResponse
 
 from db import EnskDatabase
 from cache import cache_response
-from util import human_size
+from util import human_size, perc
 
 # Website settings
 WEBSITE_NAME = "Ensk.is"
@@ -312,6 +312,36 @@ async def zoega(request: Request):
     return TemplateResponse(
         "zoega.html",
         {"request": request, "title": f"Orðabók Geirs T. Zoëga - {WEBSITE_NAME}"},
+    )
+
+
+@app.get("/stats")
+@cache_response
+async def stats(request: Request):
+    """Page with statistics on dictionary entries."""
+
+    no_uk_ipa = len(e.read_all_without_ipa(lang="uk"))
+    no_us_ipa = len(e.read_all_without_ipa(lang="us"))
+    no_page = len(e.read_all_with_no_page())
+    num_duplicates = len(e.read_all_duplicates())
+
+    return TemplateResponse(
+        "stats.html",
+        {
+            "request": request,
+            "title": f"Tölfræði - {WEBSITE_NAME}",
+            "num_entries": num_entries,
+            "num_additions": num_additions,
+            "perc_additions": perc(num_additions, num_entries),
+            "no_uk_ipa": no_uk_ipa,
+            "no_us_ipa": no_us_ipa,
+            "perc_no_uk_ipa": perc(no_uk_ipa, num_entries),
+            "perc_no_us_ipa": perc(no_us_ipa, num_entries),
+            "no_page": no_page,
+            "perc_no_page": perc(no_page, num_entries),
+            "num_duplicates": num_duplicates,
+            "perc_duplicates": perc(num_duplicates, num_entries),
+        },
     )
 
 

@@ -151,9 +151,24 @@ class EnskDatabase(object):
         """Read and return all duplicate (i.e. same word) entries present in the dictionary
         as a dict keyed by word."""
         conn = self.conn()
-        # TODO: Make this work, return as dict keyed by word
         selected = conn.cursor().execute(
-            "SELECT *, COUNT(*) FROM dictionary HAVING COUNT(*) > 1"  # FIXME
+            "SELECT *, COUNT(*) FROM dictionary GROUP BY word HAVING COUNT(*) > 1"
         )
+        res = list(selected)  # Consume generator into list
+        return res
+
+    def read_all_without_ipa(self, lang="uk") -> List[Dict]:
+        """Read and return all entries without IPA."""
+        assert lang in ["uk", "us"]
+        ipa_col = "ipa_uk" if lang == "uk" else "ipa_us"
+        conn = self.conn()
+        selected = conn.cursor().execute(f"SELECT * FROM dictionary WHERE {ipa_col}=''")
+        res = list(selected)  # Consume generator into list
+        return res
+
+    def read_all_with_no_page(self) -> List[Dict]:
+        """Read and return all entries without IPA."""
+        conn = self.conn()
+        selected = conn.cursor().execute(f"SELECT * FROM dictionary WHERE page_num=0")
         res = list(selected)  # Consume generator into list
         return res
