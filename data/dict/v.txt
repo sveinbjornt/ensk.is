@@ -274,9 +274,8 @@ vibratory l. titrandi
 vicar n. varamaður; aðstoðarprestur
 vicarage n. (aðstoðar)prestsembætti; prestssetur
 vicarious l. sem er í stað annars ([~ work])
-vice n. löstur, ódyggð; galli
-vice n. skrúfstykki
-vice fsk. undir-; vara-; sjá t.d. %[viceroy]%, %[viceregent]%, %[vice-president]%
+vice n. löstur, ódyggð; galli; skrúfstykki
+vice- fsk. undir-; vara-; sjá t.d. %[viceroy]%, %[viceregent]%, %[vice-president]%
 viceregency n. umboð
 viceregent n. umboðsmaður; varastjórnandi, vararíkisstjóri
 vice-regent n. sjá %[viceregent]%
@@ -313,7 +312,7 @@ vile l. níðingslegur, svívirðilegur; andstyggilegur
 vileness n. níðingsskapur, fúlmennska
 vilification n. smánun
 vilify s. smána, svívirða, rægja
-villa n. landsetur
+villa n. landsetur, einbýlishús, villa
 village n. þorp
 villager n. þorpsbúi
 villain n. þorpari, varmenni

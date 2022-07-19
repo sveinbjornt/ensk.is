@@ -133,7 +133,7 @@ global warming n. hnattræn hlýnun, hlýnun jarðar, jarðhlýnun
 fighter jet n. orustuþota, herþota
 jeep n. jeppi, torfærubifreið
 megacorporation n. risafyrirtæki, stórfyrirtæki
-clickable l. smellanlegur
+clickable l. smellanlegur, smellvænn
 mediascape n. fjölmiðlaumhverfi, fjölmiðlaheimur (heimurinn eins og hann birtist í fjölmiðlum)
 snowboard n. snjóbretti; s. fara á snjóbretti
 newswoman n. fréttakona
@@ -241,8 +241,8 @@ sociobiology n. félagslíffræði
 samurai n. samúræi (japanskur stríðsmaður)
 Anzac n. ástralskur eða nýsjálenskur hermaður (í fyrri heimsstyrjöld)
 zoophilia n. dýragirnd
-teenager n. táningur
-teenage l. tánings-; á táningsaldri
+teenager n. táningur, unglingur
+teenage l. tánings-, unglings-; á táningsaldri, á unglingsaldri
 stadium n. leikvangur, völlur
 startup n. [~ (company, firm)] sprotafyrirtæki
 wobbly l. valtur
@@ -297,7 +297,7 @@ gaoler n. fangavörður
 haphazard n. tilviljunarkenndur, óskipulegur
 trooper n. (óbreyttur) hermaður, dáti
 interface n. viðmót; tenging; snertipunktur tveggja fyrirbæra
-bromance n. náið vinasamband tveggja karlmanna (samsett úr %[brother]% og %[romance]%)
+bromance n. brómans, náið vinasamband tveggja karlmanna (samsett úr %[brother]% og %[romance]%)
 selfie n. sjálfa, sjálfsmynd, ljósmynd sem e-r tekur af sjálfum sér
 paywall n. greiðslugátt, greiðsluveggur, greiðslumúr
 crowdsource s. lýðvirkja
@@ -404,7 +404,7 @@ literacy n. læsi, lestrarkunnátta
 mailman n. bréfberi, póstmaður
 makeup n. (andlits)förðun, (andlits)farði, meik
 marina n. smábátahöfn
-nudist n. striplingur
+nudist n. strípalingur, striplingur
 pipeline n. leiðsla; [~s] leiðslukerfi
 radio n. útvarp, útvarpstæki; s. útvarpa ([he ~ed for help])
 realtor n. fasteignasali, fasteignamiðlari
@@ -587,7 +587,7 @@ Bahamas n. Bahamaeyjar
 Bahrain n. Barein
 Bangladesh n. Bangladess
 Barbados n. Barbados
-Belarus n. Hvíta-Rússland
+Belarus n. Hvíta-Rússland, Belarús
 Belize n. Belís
 Benin n. Benín
 Bermuda n. Bermúdaeyjar
@@ -607,12 +607,12 @@ Cape Verde n. Grænhöfðaeyjar
 Cayman Islands n. Caymaneyjar
 Central African Republic n. Mið-Afríkulýðveldið
 Chad n. Tsjad
-Chile n. Síle
+Chile n. Chile, Síle
 Christmas Island n. Jólaey
 Colombia n. Kólumbía
 Comoros n. Kómoreyjar
 Congo n. Kongó
-Costa Rica n. Kostaríka
+Costa Rica n. Kosta Ríka
 Croatia n. Króatía
 Cuba n. Kúba
 Cyprus n. Kýpur
@@ -786,14 +786,14 @@ conceptualize s. gera sér hugmynd um e-ð; gera e-ð að hugtaki
 polymer n. fjölliða (gerviefnategund)
 conditioning n. skilyrðing
 air conditioning n. loftræsting
-checklist n. gátlisti
+checklist n. gátlisti, minnislisti
 chassis n. botngrind, undirgrind, vagngrind
 hierophantic l. er varðar forngrískan prest eða túlkun heilagra leyndardóma
 marketing n. markaðssetning, markaðsmál
 electrolyte n. raflausn, rafvaki; rafvökvi
 electrolysis n. rafgreining, rafsundrun
 redhead n. rauðhærð manneskja
-pub n. stytting á [public house]; krá, ölstofa, bar, pöbb
+pub n. stytting á [public house]; knæpa, krá, ölstofa, bar, pöbb
 LED n. stytting á [light emitting diode]; ljósdíóða, ljóstvistur, ljóstvískaut
 buddy n. félagi, lagsmaður, vinur
 querulant n. þrætugjarn maður, kverúlant, nöldurseggur
@@ -829,7 +829,7 @@ courgette n. kúrbítur
 Holland n. Holland
 tech n. stytting á %[technology]%
 tech giant n. tæknirisi
-catharsis n. búkhreinsun; hreinsun, geðhreinsun, hreinsun sem fylgir geðhrifum harmleiks
+catharsis n. kaþarsis, búkhreinsun; hreinsun, geðhreinsun, hreinsun sem fylgir geðhrifum harmleiks
 aitch n. stafurinn H (h)
 haitch n. stafurinn H (h); írskt, ástralskt, skoskt afbrigði af %[aitch]%
 tipping point n. vendipunktur
@@ -930,7 +930,7 @@ yuppie n. (óforml.) uppi, ung fagmanneskja í þéttbýli (frá [young, urban p
 visa n. vegabréfsáritun, áritun, dvalarleyfi ([my ~ has expired])
 viral l. veiru-
 technique n. aðferð, tækni; [parenting ~s] uppeldisaðferðir
-threesome n. þremenningur
+threesome n. þremenningur, trekantur
 vitamin n. vítamín, fjörefni
 swinger n. manneskja sem stundar makaskipti
 timer n. tímamælir, skeiðklukka
@@ -987,7 +987,7 @@ deontology n. skyldufræði, skyldusiðfræði (í heimspeki)
 deontological l. skyldufræðilegur, skyldusiðfræðilegur (sjá %[deontology]%)
 megafauna n. stór dýr, risadýr (sjá %[fauna]%)
 monotonal l. sjá %[monotonous]%
-montage n. myndblöndun, myndsamsetning, myndaröð
+montage n. myndblöndun, myndsamsetning, myndflétta, myndaröð
 digitalize s. koma á stafrænt snið (sjá %[digital]%)
 hardcore n. harðkjarni; l. harðkjarna-
 ministry n. ráðuneyti; boðun trúar, fagnaðarerindis
@@ -1002,7 +1002,7 @@ benchmark n. viðmið, viðmiðun, afkastaprófun, afkastamæling; s. mæla afk�
 sensitivity n. næmni, viðkvæmni
 transsexual n. kynskiptingur, trans manneskja; l. kynskiptings-, trans
 tranny n. (niðrandi) sjá %[transsexual]%
-trivia n. smámunir, lítilræði; spurningaleikur
+trivia n. smámunir, lítilræði; fróðleiksmoli; spurningaleikur
 toolkit n. verkfærakista, verkfærakassi
 workout n. líkamsrækt, líkamsþjálfun, líkamsæfing
 protocol n. samskiptareglur, samskiptamáti
@@ -1032,7 +1032,7 @@ facilitator n. sá sem greiðkar fyrir einhverju, gerir eitthvað auðveldara (s
 scenario n. aðstæður, atburðarás ([consider the following ~])
 airline n. flugfélag
 wallpaper n. veggfóður; s. veggfóðra
-insider n. innherji
+insider n. innherji, innanbúðarmaður
 cultural l. menningarlegur, menningar-
 bookstore n. bókabúð
 prepared l. undirbúinn
@@ -1176,7 +1176,7 @@ quintillion n. trilljón (10 í 18. veldi)
 xenophobe n. e-r sem hræðist útlendinga, útlendingahatari
 xenophobic l. útlendingahatandi, hræddur við útlendinga eða utanaðkomandi
 xylophone n. sílófónn (ásláttarhljóðfæri)
-xylophonist n. sílófónleikari, ásláttarhljóðfærisleikari
+xylophonist n. sílófónleikari, ásláttarhljóðfæraleikari
 cryptocurrency n. rafmynt
 bacchanalia n. ft. svall, orgía (hjá Rómverjum til forna, kennd við guðinn Bakkus)
 orgy n. (kynlífs)svall, svallveisla, orgía
@@ -1198,13 +1198,13 @@ sphinx n. sfinx (goðsagnavera með líkama ljóns og mannshöfuð)
 telephone book n. símaskrá
 telephone directory n. símaskrá
 teleprocessing n. fjarvinnsla
-championship n. meistarakeppni (sjá %[champion]%)
+championship n. mót, (meistara)keppni (sjá %[champion]%)
 unavailable n. ótiltækur, ófáanlegur, ekki í boði
 computational l. tölvu-, tölvunar-; reikni-; [~ linguistics] tölvumálvísindi; [~ power] reiknikraftur
 lich n. lík; e.k. uppvakningur
 interpreted l. túlkaður, þýddur, skýrður (sjá %[interpret]%)
 bubonic l. nárakýlis- (sjá %[bubo]%); [~ plague] kýlapest (svarti dauði)
-unapproachable l. ónálganlegur (sjá einnig %[inapproachable]%)
+unapproachable l. ónálganlegur (sjá einnig %[inapproachable]%); fjarlægur, lokaður
 ethernet n. íðnet
 impaired l. skertur, minnkaður, rýrður; skemmdur, skaddaður
 inbox n. pósthólf, innhólf, skilaboðaskjóða
@@ -1260,7 +1260,7 @@ neurology n. taugafræði, taugasjúkdómafræði, taugalæknisfræði
 neurological l. tauga-, taugafræðilegur; [~ damage] taugaskemmdir
 demiurge n. heimssmiður (í kerfi Gnostika); undirgoð, undirguð
 superman n. ofurmaður, ofurmenni; yfirmenni (æðri tegund manns)
-icon n. táknmynd, tákn; líkneski; helgimynd, dýrlingamynd
+icon n. táknmynd, tákn, íkon; líkneski; helgimynd, dýrlingamynd
 iconic l. táknrænn, táknmynda-; helgimynda-
 iconoclastic l. táknmyndabrjótandi, helgimyndabrjótandi
 iconoclasm n. helgimyndabrot; trúarskoðun innan kristindóms
@@ -1300,11 +1300,12 @@ Caribbean l. Karíbahafs-, karíbskur; n. [the ~] Karíbahaf; karíbskur maður
 ukulele n. úkúlele, smágítar (strengjahljóðfæri)
 Lombardy n. Langbarðaland
 Kiev n. Kænugarður (borg í Úkraínu)
+Kyiv n. Kænugarður (borg í Úkraínu)
 Constantinople n. Mikligarður (í dag borgin Istanbúl)
 Cologne n. Köln (borg í Þýskalandi)
 cologne n. ilmvatn, kölnarvatn, rakspíri
 London n. Lundúnir, London (höfuðborg Bretlands)
-New World n. Nýi heimurinn (álfurnar Suður- og Norður-Ameríka)
+New World n. Nýi heimurinn (álfurnar Suður- og Norður-Ameríka, og Eyjaálfa)
 Old World n. Gamli heimurinn (álfurnar Evrópa, Asía og Afríka)
 criminological n. afbrotafræðilegur, glæpafræðilegur
 criminologist n. afbrotafræðingur, glæpafræðingur
@@ -1372,7 +1373,7 @@ interracial l. milli kynþátta
 racism n. kynþáttahatur, kynþáttafordómar, kynþáttahyggja, rasismi
 racist n. kynþáttahatari, rasisti; l. kynþáttahatandi, rasískur, kynþáttahyggju-
 euro n. evra (gjaldmiðill, €)
-petite l. fíngerður, smágerður, smávaxinn, lítill
+petite l. fíngerður, smágerður, smávaxinn, lítill, lítilvaxinn
 volleyball n. blak (knattleikur)
 motel n. vegahótel (Band.): samsett úr %[motor]% og %[hotel]%
 combo n. stytting á %[combination]%
@@ -1380,14 +1381,34 @@ stolen l. stolinn; sjá %[steal]%
 specialized l. sérhæfður; sjá %[specialize]%
 multimedia n. margmiðlun, margmiðlunarefni; l. margmiðlunar-
 Hawaii n. Hawaii, Hawaiieyjar (stundum skrifað Havaí)
-teen n. táningur; l. tánings-, á táningsaldri; sjá %[teenage]%
-artwork n. listaverk; myndskreyting
+teen n. táningur, unglingur; l. tánings-, á táningsaldri; sjá %[teenage]%
+artwork n. listaverk, kúnstverk; myndskreyting(ar)
 California n. Kalifornía (ríki í suðvesturhluta Bandaríkjanna)
 documented l. skjalfestur; skjalaður; sjá %[document]%
 futhark n. germanskt rúnaletur
 asshole n. rassgat; asni, hálfviti, fáviti, skíthæll ([he is such an ~])
 anus n. endaþarmsop, rassgat
 machine gun n. hríðskotabyssa
-Maxim gun n. hríðskotabyssa frá 19. öld
+Maxim gun n. hríðskotabyssa frá 19. öld ([Whatever happens, we have got the Maxim, and they have not])
+Gatling gun n. frumstæð hríðskotabyssa
 howitzer n. e.k. fallbyssa
-machismo n. karlmennskustælar, ýkt karlmennska; karlremba
+machismo n. karlmennskustælar, ýkt eða yfirgengileg karlmennska; karlremba
+aircraft carrier n. flugmóðurskip
+cheetah n. blettatígur
+snow leopard n. snæhlébarði, snjóhlébarði
+mountain lion n. fjallaljón
+naval mine n. tundurdufl
+ibex n. steingeit
+kudu n. kúdú (afrísk antílóputegund)
+Palestinian l. palestínskur; n. Palestínumaður
+colonialism n. nýlendustefna
+colonialist n. nýlendusinni, nýlenduherra; l. nýlendustefnu-, nýlenduherra-
+postcolonial l. eftirnýlendu-, eftirlendu-, síðnýlendu-
+postcolonialism n. síðnýlendustefna, eftirlendustefnu, eftirlendufræði
+galleon n. galíon (stórt úthafsflutningaskip)
+battlecruiser n. (orustu)beitiskip
+Canaan n. Kanaansland
+literally ao. bókstaflega, orðrétt
+warthog n. vörtusvín
+ghostwriter n. leigupenni, skuggaskrifari
+APC n. brynvarður bíll (stytting á [armoured personnel carrier])

@@ -1,5 +1,20 @@
 replacement
 clone
+battlecruiser
+minesweeper
+quadrireme
+quinquereme
+Man-of-war
+wildebeest
+gnu
+safecracker
+mugger
+mug
+hijack
+hijacker
+carjacker
+skyjacker
+larcenist
 sonata
 mazurka
 nocturne
@@ -11,7 +26,6 @@ questionnaire
 nominated
 telecom
 coordinator
-literally
 personnel
 layout
 affordable
@@ -297,6 +311,8 @@ sclerosis
 pre-emptive
 nerdish
 neuromyopathy
+holograph (endurskoða)
+holographic
 neuter
 transgender
 nexus

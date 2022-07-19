@@ -106,8 +106,8 @@ canal n. síki, skurður, kanall
 canalize s. grafa skurð í gegnum
 canalization n. skurðagerð, skurðagröftur
 canary n. kanarífugl; e.k. spánskur dans
-cancel s. strika út, ógilda, aflýsa, afnema, hætta við
-cancellation n. útstrikun, ógilding, aflýsing, afnám
+cancel s. strika út, ógilda, aflýsa, afnema, hætta við; útiloka
+cancellation n. útstrikun, ógilding, aflýsing, afnám; útilokun
 cancer n. krabbi; krabbamein
 cancerate s. éta um sig; verða að krabbameini
 cancerous l. sem líkist krabbameini, krabbameins-
@@ -305,7 +305,7 @@ carpetless l. gólfábreiðulaus
 carriage n. burður, flutningur; burðargjald; látbragð, limaburður ([~ of the head, body]); hegðun; framkvæmd; vagn; [beast of ~] burðardýr; [two hours by ~] tveggja tíma akstur; [by water ~] sjóveg; [~ and pair] vagn með 2 hestum fyrir
 carriageable l. akfær ([~ road])
 carriage road n. akvegur
-carrier n. burðarmaður; ökumaður; bréfberi ([letter-])
+carrier n. burðarmaður; ökumaður; bréfberi ([letter-]); flugmóðurskip (sjá %[aircraft carrier]%)
 carrier-pigeon n. bréfdúfa
 carriole n. lítill vagn; sleði (í Kanada)
 carrion n. hræ
@@ -1349,7 +1349,7 @@ colloquy n. samtal
 collude s. hafa leynileg samtök
 collusion n. leynisamtök, leynimakk; svik
 collusive l. sviksamlegur
-colon n. tvístingur, tvípunktur (:)
+colon n. tvístingur, tvípunktur (:); ristill
 colonel n. sveitarforingi, ofursti
 colonelcy n. sveitarforingjatign eða embætti
 colonial l. nýlendulegur, nýlendu-; n. nýlendumaður

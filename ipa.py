@@ -167,6 +167,9 @@ SKIP = frozenset(
         "Babylonian",
         "config",
         "California",
+        "Kyiv",
+        "battlecruiser",
+        "postcolonialism",
     )
 )
 

@@ -1842,7 +1842,7 @@ spavined l. fótaveikur, haltur
 spawn n. hrogn, gota; s. hrygna, geta af sér
 spawner n. hrygna, gotfiskur
 speak s. tala ([~ of, about]); mæla; [~ a ship] kalla á skip til viðtals; [~ for] mæla með; vera formælandi e-s; [it ~s well for him] það mælir fram með honum; [~ one's mind] segja það sem manni býr í brjósti; [~ out] tala bert; [~ to] tala við; bera vitni um; [~ up] tala (vitna um) djarflega eða með ákafa; [~ up for] taka málstað e-s; [~ing acquaintance] málkunnugur e-m; [not on ~ing terms] talast ekki (lengur) við
-speaker n. ræðumaður; forseti í enska þinginu ([~ in the House of Commons])
+speaker n. ræðumaður; forseti í enska þinginu ([~ in the House of Commons]); hátalari
 speakership n. forsetatign
 speaking-trumpet n. kallpípa
 speaking-tube n. talpípa (í húsi eða milli húsa)
@@ -2082,7 +2082,7 @@ spurtle s. skvettast, gusast
 sputter s. skyrpa (í smádropum), frussa, frotta; tafsa; snarka ([green wood ~ing in the flame]); n. smádropar, sem spýtast út úr munninum, fruss, frott
 sputum n. hráki
 spy n. njósnari, njósnarmaður; s. njósna (um [on]); grennslast eftir, komast að; koma auga á ([he spied the troops in the distance]); kíkja
-spyglass n. vasakíkir
+spyglass n. sjónauki, vasakíkir
 spyhole n. gægjugat
 squab l. stuttur og feitur; fiðurlaus (um fuglaunga); ao. með þungu falli ([come down ~ on the floor]); n. dúfuungi; stuttur og digur maður; þykk (úttroðin) seta í stól eða legubekk
 squabbish l. stuttur og digur
