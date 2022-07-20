@@ -325,6 +325,8 @@ async def stats(request: Request):
     no_page = len(e.read_all_with_no_page())
     num_duplicates = len(e.read_all_duplicates())
 
+    wordstats = []
+
     return TemplateResponse(
         "stats.html",
         {
@@ -333,6 +335,8 @@ async def stats(request: Request):
             "num_entries": num_entries,
             "num_additions": num_additions,
             "perc_additions": perc(num_additions, num_entries),
+            "num_original": num_entries - num_additions,
+            "perc_original": perc(num_entries - num_additions, num_entries),
             "no_uk_ipa": no_uk_ipa,
             "no_us_ipa": no_us_ipa,
             "perc_no_uk_ipa": perc(no_uk_ipa, num_entries),
@@ -341,6 +345,7 @@ async def stats(request: Request):
             "perc_no_page": perc(no_page, num_entries),
             "num_duplicates": num_duplicates,
             "perc_duplicates": perc(num_duplicates, num_entries),
+            "wordstats": wordstats,
         },
     )
 
