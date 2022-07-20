@@ -24,6 +24,11 @@ h1 {
     margin-bottom: 1.0em;
 }
 
+h2 {
+    font-size: 1.25em;
+    margin-bottom: 1.0em;
+}
+
 a {
     color: rgb(13, 25, 83);
     text-decoration: underline;

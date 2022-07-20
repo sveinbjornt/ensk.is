@@ -131,21 +131,23 @@ class EnskDatabase(object):
         if commit:
             conn.commit()
 
+    def _consume(self, cursor: sqlite3.Cursor) -> List[Dict]:
+        """Consume cursor and return list of rows."""
+        res = list(cursor)  # Consume generator into list
+        res.sort(key=lambda x: x["word"].lower())
+        return res
+
     def read_all_entries(self) -> List[Dict]:
         """Read and return all entries."""
         conn = self.conn()
         selected = conn.cursor().execute("SELECT * FROM dictionary")
-        res = list(selected)  # Consume generator into list
-        res.sort(key=lambda x: x["word"].lower())
-        return res
+        return self._consume(selected)
 
     def read_all_additions(self) -> List[Dict]:
         """Read and return all entries not present in the original Zoega dictionary."""
         conn = self.conn()
         selected = conn.cursor().execute("SELECT * FROM dictionary WHERE page_num=0")
-        res = list(selected)  # Consume generator into list
-        res.sort(key=lambda x: x["word"].lower())
-        return res
+        return self._consume(selected)
 
     def read_all_duplicates(self) -> List[Dict]:
         """Read and return all duplicate (i.e. same word) entries present in the dictionary
@@ -163,12 +165,19 @@ class EnskDatabase(object):
         ipa_col = "ipa_uk" if lang == "uk" else "ipa_us"
         conn = self.conn()
         selected = conn.cursor().execute(f"SELECT * FROM dictionary WHERE {ipa_col}=''")
-        res = list(selected)  # Consume generator into list
-        return res
+        return self._consume(selected)
 
     def read_all_with_no_page(self) -> List[Dict]:
         """Read and return all entries without IPA."""
         conn = self.conn()
         selected = conn.cursor().execute(f"SELECT * FROM dictionary WHERE page_num=0")
-        res = list(selected)  # Consume generator into list
-        return res
+        return self._consume(selected)
+
+    def read_all_in_wordcat(self, cat=None) -> List[Dict]:
+        """Read all entries in a given word category."""
+        assert cat is not None
+        conn = self.conn()
+        selected = conn.cursor().execute(
+            f"SELECT * FROM dictionary WHERE definition LIKE '%{cat}. %'"
+        )
+        return self._consume(selected)
