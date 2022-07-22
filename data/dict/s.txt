@@ -787,7 +787,7 @@ shadow n. skuggi (af e-u); skjól, vernd; skuggamynd; [not a ~ of doubt] alls en
 shadowy l. forsæluríkur; dimmur, skuggalegur; óljós
 shady l. forsæluríkur; svalur; [the ~ side] skuggahliðin; [on the ~ side of forty] yfir fertugt
 shaft n. skaft; stólpaleggur; trébolur; vagnstöng; strompur; spjótskaft; kastspjót; ör; námugöng
-shag n. strítt (lubbalegt) hár; stórgerð ló; toppskarfur; e.k. tóbak
+shag n. strítt (lubbalegt) hár; stórgerð ló; toppskarfur; e.k. tóbak; kynmök (óforml.); s. ríða, eiga kynmök (óforml.)
 shaggy l. stríðhærður, lubbalegur; loðinn
 shagreen n. vönduð leðurtegund (höfð til bókbands)
 shake s. skaka, hrista; hagga; hristast, skjálfa; [~ hands] takast í hendur; taka í höndina á (e-m [with]); [~ off] hrista af sér, losast við; n. hristingur, skjálfti; rifa, sprunga (í viði); handartak, handarband ([~ of the hand]); ft. kalda, köldusótt
@@ -983,7 +983,7 @@ shore leave n. landgönguleyfi
 shoreless l. strandlaus; ómælanlegur, takmarkalaus
 shore n. skorða; s. skorða ([~ up a building])
 shoring n. skorðun; skorður
-shorn hlto. af %[shear]%; [~ of] sviptur ([a prince ~ of his honours])
+shorn l. af %[shear]%; [~ of] sviptur ([a prince ~ of his honours])
 short l. stuttur, skammur; lágur (vexti, [~ of stature]); stuttorður; (of) naumur, tæpur, lakur (um mál og vigt); ónógur; sem molnar auðveldlega; [a ~ sea] krappur sjór; [in ~] í stuttu máli; [~ of breath] andstuttur; [to be ~ of money] skorta fé; [his escape was nothing ~ of a miracle] undankoma hans gekk kraftaverki næst; [to cut ~] grípa fram í fyrir; [to fall ~] vera ónógur; þrjóta; [I fall ~ of] mig þrýtur (e-ð); [to run ~ of] fara að vanta ([to run ~ of provisions]); [to stop ~] staðnæmast snögglega; [to turn ~] snúa sér snögglega
 shortage n. ávöntun, skortur ([~ of meat]); þurrður
 short-breathed l. andstuttur
@@ -1623,7 +1623,7 @@ socle n. undirstaða (t.d. standmyndar), sökkull
 sod n. grashnaus; grassvörður; s. þekja með grassverði
 soda n. sódi; natron; sódavatn
 sodality n. félag
-sodden hlto. & l. illa bakaður, klesstur; gegnvotur; vatnsósa; s. gegnvæta, gera vatnsósa; sljóvga
+sodden l. illa bakaður, klesstur; gegnvotur; vatnsósa; s. gegnvæta, gera vatnsósa; sljóvga
 sodomite n. kynvillingur
 sodomy n. kynvilla
 soever ao. sem (í samsetningum); [who~] hver sem; [what~] hvað sem; [where~] hvar sem er

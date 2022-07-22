@@ -916,7 +916,7 @@ aerospace n. flugiðnaður, flugtækni, flugverkfræði
 aerospace engineer n. flugvélaverkfræðingur, flugtæknifræðingur
 aeronautical l. flugvéla-, flugfars-
 aeronautical engineer n. flugvélaverkfræðingur
-fuck s. (óforml.) ríða, stunda kynlíf; n. dráttur, kynmök, samfarir; uh. helvítis! andskotinn! djöfullinn!
+fuck s. (óforml.) ríða, eiga kynmök; n. dráttur, kynmök, samfarir; uh. helvítis! andskotinn! djöfullinn!
 fucking l. andskotans, helvítis, djöfulsins (sjá %[fuck]%)
 shit n. kúkur, saur, drulla; s. kúka, skíta; uh. fjandinn! fjandans!
 tergum n. bakskjöldur
@@ -1283,7 +1283,7 @@ defenestration n. kast (út um glugga)
 African l. afrískur; n. Afríkubúi, Afríkumaður
 Africa n. Afríka (heimsálfa)
 America n. Ameríka
-Arctic n. Norðurskautslandið (yfirleitt m. ákv. gr. [the ~])
+Arctic n. Norðurskautslandið (yfirleitt m. ákv. greini [the ~])
 Arctic Circle n. Norðurheimskautsbaugur
 Antarctic Circle n. Suðurheimskautsbaugur
 North America n. Norður-Ameríka (heimsálfa)
@@ -1292,7 +1292,7 @@ South America n. Suður-Ameríka (heimsálfa)
 Oceania n. Eyjaálfa (heimsálfa sem nær yfir Ástralíu og nærliggjandi eyjar)
 telegrapher n. símritari, símaþjónn
 Asian l. asískur, austurálfu-, frá austurálfu; n. Asíumaður, austurálfumaður
-Oceanian l. Eyjaálfu-, frá Eyjaálfu; Eyjaálfumaður
+Oceanian l. Eyjaálfu-, frá Eyjaálfu; n. Eyjaálfumaður
 Polynesia n. Pólýnesía (eyjaklasi í Kyrrahafi)
 Polynesian l. pólýnesískur
 Caribbean l. Karíbahafs-, karíbskur; n. [the ~] Karíbahaf; karíbskur maður
@@ -1438,3 +1438,4 @@ nunchucks n. ft. e.k. bardagakylfur frá eyjunni Okinawa
 gadget n. græja, tæki
 extremist n. öfgamaður, öfgasinni; l. öfga-, öfgafullur
 extremism n. öfgastefna, öfgar
+limey n. Englendingur, Breti (Band. slangur)

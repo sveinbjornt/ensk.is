@@ -49,6 +49,7 @@ from fastapi.responses import Response, JSONResponse
 from db import EnskDatabase
 from cache import cache_response
 from util import human_size, perc
+from dict import read_wordlist
 
 # Website settings
 WEBSITE_NAME = "Ensk.is"
@@ -325,7 +326,14 @@ async def stats(request: Request):
     no_page = len(e.read_all_with_no_page())
     num_duplicates = len(e.read_all_duplicates())
 
-    wordstats = []
+    CATEGORIES = read_wordlist("data/catwords.txt")
+
+    wordstats = {}
+    for c in CATEGORIES:
+        cat = c.rstrip(".")
+        wordstats[cat] = {}
+        wordstats[cat]["num"] = len(e.read_all_in_wordcat(cat))
+        wordstats[cat]["perc"] = perc(wordstats[cat]["num"], num_entries)
 
     return TemplateResponse(
         "stats.html",
