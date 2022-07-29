@@ -1004,7 +1004,7 @@ forwarder n. frömuður, styrktarmaður
 forwardness n. framgirni, ákafi; ófeilni; bráðþroski (barns eða gróðurs)
 forworn l. af sér genginn
 fosse n. virkisskurður, -gröf
-fossil l. steingerður, steinrunninn; n. steingervingur
+fossil n. steingervingur; [~ fuel] jarðefnaeldsneyti (t.d. olía, gas, kol)
 fossilize s. gera (eða verða) að steini
 fossorial l. grafandi; graftar-
 foster s. fóstra; ala; efla, auka

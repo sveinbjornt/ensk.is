@@ -178,6 +178,9 @@ SKIP = frozenset(
         "handjob",
         "nunchucks",
         "Siam",
+        "paleontological",
+        "paleontologist",
+        "paleontology",
     )
 )
 

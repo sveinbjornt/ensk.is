@@ -668,7 +668,7 @@ perihelium n. sólnánd
 peril n. hætta, háski; s. stofna e-u í hættu
 perilous l. hættulegur
 perilously ao. hættulega
-period n. tímabil; málsgrein; endir; punktur; [to put a ~ to] gera enda á
+period n. tímabil; málsgrein; endir; punktur; [to put a ~ to] gera enda á; blæðingar ([she's having her ~])
 periodical l. sem kemur aftur með jöfnu millibili; n. tímarit
 periodically ao. með jöfnu millibili; alltaf öðru hverju
 peripatetic l. sem lýtur að heimspeki Aristótelesar; n. maður, sem fylgir heimspeki Aristótelesar; ferðamaður; farandsali
@@ -1416,7 +1416,7 @@ polony n. fleskpylsa
 poltroon n. raggeit, bleyða
 poltroonery n. ragmennska; hugleysi
 poltroonish l. huglaus, ragur
-poly- fsk. forskeyti, sem þýðir: marg-, fjöl-
+poly- fsk. marg-, fjöl-
 polychromatic l. marglitur
 polygamist n. fjölkvænismaður
 polygamous l. fjölkvænislegur
