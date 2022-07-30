@@ -16,7 +16,6 @@ scoot s.
 scooter
 ornery
 contrarian
-minesweeper
 wildebeest
 gnu
 copacetic
@@ -36,8 +35,6 @@ adjustable
 coordinator
 personnel
 layout
-affordable
-implementation
 anyway
 catering
 checkout
@@ -53,7 +50,6 @@ locator
 affiliation
 collaborative
 voltage
-undefined
 elected
 debug
 soundtrack
@@ -147,9 +143,9 @@ succinctorium
 praxeology
 twat
 hijinx
+cognition (þarf að endurskoða)
 heater
 widescreen
-cognitive
 statewide
 consortium
 literal
@@ -195,8 +191,6 @@ collectibles
 characterization
 characterized
 qubit
-calibrate
-calibration
 buffer
 boost
 blog

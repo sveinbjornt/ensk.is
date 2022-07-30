@@ -1403,7 +1403,7 @@ Palestinian l. palestínskur; n. Palestínumaður
 colonialism n. nýlendustefna
 colonialist n. nýlendusinni, nýlenduherra; l. nýlendustefnu-, nýlenduherra-
 postcolonial l. eftirnýlendu-, eftirlendu-, síðnýlendu-
-postcolonialism n. síðnýlendustefna, eftirlendustefnu, eftirlendufræði
+postcolonialism n. síðnýlendustefna, eftirlendustefna, eftirlendufræði
 galleon n. galíon (stórt úthafsflutningaskip)
 battlecruiser n. e.k. orustu- eða beitiskip
 Canaan n. Kanaansland
@@ -1422,6 +1422,7 @@ telecom n. sjá %[telecommunication]%
 nominated l. tilnefndur (sjá %[nominate]%)
 bookseller n. bóksali
 Siam n. Síam (Taíland)
+Siamese l. síamskur (tælenskur); [~ cat] síamsköttur; [~ twins] síamstvíburar
 frat n. sjá %[fraternity]%
 hacker n. (tölvu)hakkari, tölvurefur, tölvugarpur; tölvuþrjótur
 contact lens n. augnlinsa, snertilinsa
@@ -1447,3 +1448,16 @@ clone s. klóna; einrækta; afrita; n. klón, klónn; e-ð sem er einræktað; l
 silverware n. silfuráhöld, silfurbúnaður, (silfur)borđbúnađur, (silfur)hnífapör, borðsilfur
 fossilized l. steingerður, steinrunninn
 carjacker n. bílþjófur
+ketamine n. ketamín (svæfingarlyf)
+implementation n. útfærsla, framkvæmd
+affordable l. á viðráðanlegu verði; sjá %[afford]%
+ASAP ao. eins fljótt og auðið er, eins fljótt og mögulega (stytting á [as soon as possible])
+minesweeper n. tundurduflaslæðari
+undefined l. óskilgreindur
+chamomile n. kamilla, kryddbaldursbrá (jurt)
+camomile n. kamilla, kryddbaldursbrá (jurt)
+cognitive l. vitsmuna-, vitsmunalegur, hugar-, skilvits-, skilvitslegur
+cognitive science n. hugfræði
+calibrate s. kvarða, fínstilla
+calibration n. kvörðun, fínstilling
+californium n. kalifornín, kaliforníum (frumefni)
