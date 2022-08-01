@@ -941,11 +941,11 @@ viral l. veiru-
 technique n. aðferð, tækni; [parenting ~s] uppeldisaðferðir
 threesome n. þremenningur, trekantur
 vitamin n. vítamín, fjörefni
-swinger n. manneskja sem stundar makaskipti
+swinger n. e-r sem stundar makaskipti
 timer n. tímamælir, skeiðklukka
 timeline n. tímalína
 toxic l. eitraður
-toxicity n. eiturvirkni
+toxicity n. eiturvirkni, eiturhrif
 someone n. einhver
 safari n. (dýra)skoðunarferð
 rugby n. ruðningur (ensk íþrótt)
@@ -1009,7 +1009,7 @@ prepaid l. fyrirframgreiddur, borgaður fyrirfram
 fascinating l. heillandi, töfrandi
 benchmark n. viðmið, viðmiðun, afkastaprófun, afkastamæling; s. mæla afköst (út frá viðmiðum)
 sensitivity n. næmni, viðkvæmni
-transsexual n. kynskiptingur, trans manneskja; l. kynskiptings-, trans
+transsexual n. kynskiptingur, trans manneskja; l. kynskiptings-, trans-
 tranny n. (niðrandi) sjá %[transsexual]%
 trivia n. smámunir, lítilræði; fróðleiksmoli; spurningaleikur
 toolkit n. verkfærakista, verkfærakassi
@@ -1063,7 +1063,7 @@ Babylon n. Babýlon (höfuðborg Babýloníu til forna); auðug og spillt stórb
 Babylonian l. babýlonskur; n. Babýlonsmaður (sjá %[Babylon]%)
 betwixt fs. sjá %[between]%
 stereo l. víðóma (með tveimur hljóðrásum); hljómtæki, hljómflutningstæki
-steroid n. steri; ft. [steroids] sterar, steralyf
+steroid n. steri; n. ft. [steroids] sterar, steralyf
 xenomorph n. geimvera, utanaðkomandi lífvera
 kraken n. sæskrímsli, risakolkrabbi
 bowling n. keila (íþrótt)
@@ -1373,7 +1373,7 @@ configure s. stilla; mynda, laga
 config n. stytting á %[configuration]%
 bikini n. bikiní, baðföt
 resell s. endurselja
-reseller n. endursöluaðili, endursölumaður
+reseller n. endursöluaðili, endursölumaður, endurseljandi
 gel n. gel, hlaup (stytting á %[gelatine]%)
 cookie n. smákaka; vefkaka (á veraldarvefnum)
 footwear n. skófatnaður, skótau, skóbúnaður
@@ -1389,12 +1389,12 @@ stolen l. stolinn; sjá %[steal]%
 specialized l. sérhæfður; sjá %[specialize]%
 multimedia n. margmiðlun, margmiðlunarefni; l. margmiðlunar-
 Hawaii n. Hawaii, Hawaii-eyjar (stundum skrifað Havaí)
-teen n. táningur, unglingur; l. tánings-, á táningsaldri; sjá %[teenage]%
+teen n. táningur, unglingur; l. tánings-, á táningsaldri, á unglingsaldri; sjá %[teenage]%
 artwork n. listaverk, kúnstverk; myndskreyting(ar)
 California n. Kalifornía (ríki í suðvesturhluta Bandaríkjanna)
 documented l. skjalfestur; skjalaður; sjá %[document]%
 futhark n. germanskt rúnaletur
-asshole n. rassgat; (óforml.) asni, hálfviti, fáviti, skíthæll ([he is such an ~])
+asshole n. rassgat; (óforml.) skíthæll ([he is such an ~])
 anus n. endaþarmsop, rassgat
 machine gun n. hríðskotabyssa
 Maxim gun n. hríðskotabyssa frá 19. öld ([Whatever happens, we have got the Maxim, and they have not])
@@ -1454,7 +1454,7 @@ paleontologist n. steingervingafræðingur
 paleontological l. steingervingafræðilegur
 cinematography n. kvikmyndataka, kvikmyndatökulist; kvikmyndagerð
 clone s. klóna; einrækta; afrita; n. klón, klónn; e-ð sem er einræktað; lífvera með sömu arfgerð og foreldrið; afrit
-silverware n. silfuráhöld, silfurbúnaður, (silfur)borðbúnađur, (silfur)hnífapör, borðsilfur
+silverware n. silfuráhöld, silfurbúnaður, (silfur)borðbúnaður, (silfur)hnífapör, borðsilfur
 fossilized l. steingerður, steinrunninn
 carjacker n. bílþjófur
 ketamine n. ketamín (svæfingarlyf)
@@ -1558,3 +1558,16 @@ clusterfuck n. (óforml.) klasaklúður, stórkostlegt klúður
 Calliope n. Kallíópa (grísk listagyðja)
 calliope n. gufuknúið orgel (hljóðfæri)
 melodica n. melódikka, blásturspíanó (hljóðfæri, e.k. blástursknúið hljómborð)
+mindfulness n. núvitund; gjörhygli, gerhygli
+racialism n. kynþáttahyggja
+multiracial l. fjölkynþátta-
+biracial l. tveggja kynþátta ([a ~ committee])
+nonracial l. kynþáttalaus, varðar ekki kynþætti
+revalue s. endurmeta
+toxigenic l. eiturmyndandi
+earphones n. ft. eyrnatól
+redesignate s. endurtilgreina
+recyclability n. endurvinnanleiki
+otoscopy n. eyrnaspeglun
+undermentioned l. neðangreindur, eftirtalinn
+unilateral l. einhliða, einhliðaður

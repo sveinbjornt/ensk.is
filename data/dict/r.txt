@@ -568,7 +568,7 @@ refuge n. hæli ([seek ~]); skýli; athvarf ([he is the ~ of the distressed]); �
 refugee n. hælisleitandi, landflóttamaður
 refulgence n. ljómi, birta
 refulgent l. ljómandi, geislandi, skínandi
-refund s. endurborga ([~ the expenses incurred by another]); bæta (e-m e-ð); skila aftur
+refund s. endurgreiða, endurborga ([~ the expenses incurred by another]); bæta (e-m e-ð); skila aftur
 refundment n. endurgreiðsla
 refurbish s. fága upp
 refusal n. neitun, synjun, höfnun; afsvar; forkaupsréttur ([have the ~ of, give a person the ~ of])
@@ -625,7 +625,7 @@ regularize s. gera reglulegt, koma fastri reglu á e-ð
 regularly ao. reglulega; stöðugt
 regulate s. koma skipulagi á; stilla ([~ the clock])
 regulation n. skipulag, fyrirkomulag; regla; ft. reglugjörð; [~ uniform] fyrirskipaður einkennisbúningur
-regulator n. stillir (verkfæri), stillihjól; órói í úri
+regulator n. eftirlitsaðili; stillir (verkfæri), stillihjól; órói í úri
 regurgitate s. streyma tilbaka; æla e-u upp aftur
 rehabilitate s. reisa við aftur; veita uppreisn
 rehabilitation n. uppreisn (á æru); endurreisn, viðreisn
@@ -718,7 +718,7 @@ remark n. eftirtekt; athugasemd; [worthy of ~] markverður; s. taka eftir; athug
 remarkable l. markverður, merkilegur; eftirtektarverður
 remarkably ao. eftirtakanlega, merkilega
 remarry s. giftast (kvænast) aftur (í annað sinn)
-remeasure s. mæla aftur
+remeasure s. mæla aftur, endurmæla
 remediable l. sem má ráða bót á; læknanlegur
 remedial l. bætandi; læknandi
 remediless l. ólæknandi
