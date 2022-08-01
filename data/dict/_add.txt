@@ -286,7 +286,7 @@ recession n. kreppa; samdráttur, afturdráttur (sjá %[recede]%)
 stereotype n. staðalímynd, staðalmynd
 witchcraft n. nornafár, fjölkynngi, galdrar
 smug l. sjálfumglaður, sjálfsánægður
-sociological l. samfélagslegur, félagslegur, félagsvísindalegur
+sociological l. (sam)félagsfræðilegur, félagsvísindalegur
 societal l. samfélagslegur, félagslegur, þjóðfélagslegur
 sophisticated l. fágaður; háþróaður; margbrotinn
 spectacular l. stórbrotinn, tilkomumikill
@@ -460,7 +460,8 @@ confidentiality n. trúnaður
 lyrebird n. lýrufugl (e.k. spörfugl)
 porn n. klám (óforml. stytting á %[pornography]%)
 porno n. klám (óforml. stytting á %[pornography]%)
-natural language processing n. máltækni, málgreining
+natural language processing n. máltækni, málvinnsla, málgreining
+language technology n. máltækni
 guerrilla n. skæruliði
 guerrilla warfare n. skæruhernaður
 neoclassical l. nýklassískur; [~ architecture] nýklassísk byggingarlist
@@ -554,12 +555,12 @@ publishing n. útgáfustarfsemi ([they're the biggest name in ~])
 CV n. ferilskrá (stytting á lat. [curriculum vitae])
 press conference n. blaðamannafundur, fréttamannafundur
 AIDS n. alnæmi, eyðni (stytting á [acquired immunodeficiency syndrome])
-limousine n. limúsína (einnig ritað limmósína), eðalvagn, glæsivagn
+limousine n. limúsína, limmósína, eðalvagn, glæsivagn
 enquiry n. spurning; fyrirspurn; rannsókn
 lightweight l. léttur; léttvægur, veigalítill; n. keppandi í léttvigt í íþróttum (t.d. hnefaleikum, [~ champion])
 logistic l. sem lýtur að skipulagi (á t.d. flutningi á vistum og búnaði)
 logistical l. sem lýtur að skipulagi (á t.d. flutningi á vistum og búnaði)
-logistics n. ft. (hernaðar)fræði sem fást við skipulag og flutninga á búnaði, vistum, mannafli, o.þ.h.
+logistics n. ft. (hernaðar)fræði sem fást við skipulag og flutning á búnaði, vistum, mannafli, o.þ.h.
 long-term l. langtíma-; [in the long term] til langs tíma
 hinterland n. upplönd, afdalasvæði; sveitir í kringum þéttbýli
 con artist n. svikahrappur, svindlari, blekkingamaður, blekkingameistari
@@ -788,7 +789,7 @@ air conditioning n. loftræsting
 checklist n. gátlisti, minnislisti
 chassis n. botngrind, undirgrind, vagngrind
 hierophantic l. er varðar forngrískan prest eða túlkun heilagra leyndardóma
-marketing n. markaðssetning, markaðsmál
+marketing n. markaðssetning, markaðsmál; markaðsdeild
 electrolyte n. raflausn, rafvaki; rafvökvi
 electrolysis n. rafgreining, rafsundrun
 redhead n. rauðhærð manneskja
@@ -838,12 +839,12 @@ seneschal n. ráðsmaður sem sér um eignir aðalsmanns (á miðöldum)
 awesome l. ægiþrunginn, ógnarlegur; æðislegur, magnaður, undursamlegur; uh. frábært! magnað!
 consortium n. samtök, hópur (fjárfesta); auðhringur
 memorabilia n. ft. minjagripir, minnisgripir, minningagripir, hlutir sem minna eiganda á fyrri upplifanir
-lithium n. litíum, litín, liþín
+lithium n. litíum, litín, liþín (frumefni)
 helium n. helíum (frumefni)
 fluorine n. flúor (frumefni)
 sodium n. natríum (frumefni)
 silicon n. kísill, sílikon (frumefni)
-sulfur n. brennisteinn (sjá einnig %[sulphur]%)
+sulfur n. brennisteinn (frumefni); sjá einnig %[sulphur]%
 potassium n. kalíum (frumefni)
 chromium n. króm (frumefni)
 bromine n. bróm (frumefni)
@@ -858,10 +859,13 @@ thorium n. þórín (frumefni)
 uranium n. úran (frumefni)
 osmium n. osmín, osmíum (frumefni)
 plutonium n. plúton, plútóníum (frumefni)
-europium n. evrópín, evrópíum
+europium n. evrópín, evrópíum (frumefni)
+californium n. kalifornín, kaliforníum (frumefni)
 Buddhism n. búddismi (austurlensk trúarbrögð)
+Buddhist n. búddisti (sjá %[Buddhism]%); l. búddista-
 nirvana n. nirvana, algleymi (ástand fullkomins friðar og blessunar í búddískri trú)
-Coptic n. Kopti, koptíska (tungumál Kopta í Egyptalandi); l. koptískur
+Copt n. sjá %[Coptic]%
+Coptic n. Kopti; koptíska (tungumál Kopta í Egyptalandi); l. koptískur
 burgeon s. blómstra, spíra; dafna, vaxa; [a ~ing community] ört vaxandi samfélag
 shyly l. feimnislega, gætilega, fælnislega
 inswathe s. sveipa, hjúpa; sbr. %[enswathe]%
@@ -875,13 +879,13 @@ immunodeficiency n. ónæmisbæklun, ónæmisbrestur
 immunodeficient l. ónæmisbæklaður, ónæmisbrostinn
 immunocompromisation n. ónæmisbæling, skerðing ónæmiskerfis
 immunocompromised l. ónæmisbældur, með skert ónæmiskerfi
-calloused l. hertur (um hörundið); [~ed hands] hendur með sigg; gerður kaldlyndur
+calloused l. hertur (um hörundið); orðinn kaldlyndur; [~ hands] hendur með sigg
 proudly l. af/með stolti, stærilæti, hroka
 climate change n. loftslagsbreytingar, veðurfarsbreytingar
 honky n. niðrandi orð um hvítt fólk
 honkey n. sjá %[honky]%
 honkie n. sjá %[honky]%
-Chink n. niðrandi orð um manneskju af kínverskum uppruna
+Chink n. niðrandi orð um e-n af kínverskum uppruna
 relocate s. flytja, endurstaðsetja
 relocation n. flutningur, endurstaðsetning
 isomorphism n. einsmótun
@@ -916,7 +920,7 @@ allergen n. ofnæmisvaldur
 allergenic l. ofnæmisvaldandi
 allergenicity n. ofnæmisvirkni
 organizer n. skipuleggjari, skipuleggjandi
-aerospace n. flugiðnaður, flugtækni, flugverkfræði
+aerospace n. flugiðnaður, flugtækni; flugverkfræði ([~ engineering])
 aerospace engineer n. flugvélaverkfræðingur, flugtæknifræðingur
 aeronautical l. flugvéla-, flugfars-
 aeronautical engineer n. flugvélaverkfræðingur
@@ -1201,6 +1205,7 @@ sphinx n. sfinx (goðsagnavera með líkama ljóns og mannshöfuð)
 telephone book n. símaskrá
 telephone directory n. símaskrá
 teleprocessing n. fjarvinnsla
+processing n. vinnsla (sjá %[process]%)
 championship n. mót, (meistara)keppni (sjá %[champion]%)
 unavailable n. ótiltækur, ófáanlegur, ekki í boði
 computational l. tölvu-, tölvunar-; reikni-; [~ linguistics] tölvumálvísindi; [~ power] reiknikraftur
@@ -1389,7 +1394,7 @@ artwork n. listaverk, kúnstverk; myndskreyting(ar)
 California n. Kalifornía (ríki í suðvesturhluta Bandaríkjanna)
 documented l. skjalfestur; skjalaður; sjá %[document]%
 futhark n. germanskt rúnaletur
-asshole n. rassgat; asni, hálfviti, fáviti, skíthæll ([he is such an ~])
+asshole n. rassgat; (óforml.) asni, hálfviti, fáviti, skíthæll ([he is such an ~])
 anus n. endaþarmsop, rassgat
 machine gun n. hríðskotabyssa
 Maxim gun n. hríðskotabyssa frá 19. öld ([Whatever happens, we have got the Maxim, and they have not])
@@ -1464,7 +1469,6 @@ cognitive l. vitsmuna-, vitsmunalegur, hugar-, skilvits-, skilvitslegur
 cognitive science n. hugfræði
 calibrate s. kvarða, fínstilla
 calibration n. kvörðun, fínstilling
-californium n. kalifornín, kaliforníum (frumefni)
 untraceable l. órekjanlegur
 karate n. karate (bardagaíþrótt)
 unromantic n. órómantískur
@@ -1494,7 +1498,7 @@ periodic l. sem kemur aftur með jöfnu millibili
 telemetry n. fjarmæling(ar)
 telemetric l. fjarmælinga-
 spotlight n. kastljós, sviðsljós; brennidepill
-informational l. upplýsandi, fræðandi, upplýsinga-
+informational l. upplýsandi, fræðandi, upplýsinga-; [~ booklet] upplýsingabæklingur
 latex n. mjólkursafi, latex (kvoðulausn notuð í gúmmíframleiðslu)
 urology n. þvagfæralækningar, þvagfæralæknisfræði
 urinalysis n. þvagrannsókn
@@ -1502,11 +1506,11 @@ phthalimide n. þalimíð
 dryer n. þurrkofn; þurrkari
 electrocution n. að fá raflost
 electrocute s. gefa e-u eða e-m raflost eða rafstuð
-urbanisation n. þéttbýlismyndun
+urbanisation n. þéttbýlismyndun, þéttbýlisvæðing
 conurbation n. þéttbýlissvæði
 voidability n. ógildanleiki
 intercultural n. þvermenningarlegur
-multidisciplinary n. þverfaglegur
+multidisciplinary n. fjölfaglegur, þverfaglegur
 clotting n. storknun
 diuretic n. þvagræsilyf
 incapacitation n. óstarfhæfni
@@ -1550,3 +1554,7 @@ neurochemistry n. taugaefnafræði
 neurotransmitter n. taugaboðefni
 dominator n. valdhafi; yfirdrottnari; sjá %[dominate]%
 yeast infection n. sveppasýking
+clusterfuck n. (óforml.) klasaklúður, stórkostlegt klúður
+Calliope n. Kallíópa (grísk listagyðja)
+calliope n. gufuknúið orgel (hljóðfæri)
+melodica n. melódikka, blásturspíanó (hljóðfæri, e.k. blástursknúið hljómborð)

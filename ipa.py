@@ -195,6 +195,8 @@ SKIP = frozenset(
         "overdosage",
         "recursiveness",
         "toxicodynamics",
+        "Copt",
+        "neurochemistry",
     )
 )
 
