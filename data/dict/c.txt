@@ -318,7 +318,7 @@ carter n. vagnmaður
 carthorse n. vagnhestur
 cartload n. vagnhlass
 cartwright n. vagnasmiður
-cartel n. ófriðarbréf ([~ of defiance]); samningur um lausnargjald eða skipti á föngum
+cartel n. auðhringur; ófriðarbréf ([~ of defiance]); samningur um lausnargjald eða skipti á föngum
 cartilage n. brjósk
 cartilaginous l. brjóskkenndur; brjósk-
 cartographer n. landakortateiknari
@@ -2694,8 +2694,8 @@ curdle s. hleypa; láta storkna; ysta; storkna
 cure n. lækning; læknislyf; umhyggja (fyrir sálum sóknarbarna); s. lækna ([~ a person of a disease]); græða (sár); þurrka, salta, reykja (kjöt eða fisk)
 cureless l. ólæknandi
 curer n. læknir, græðari ([~ of a disease]); sá sem verkar (þurrkar) fisk ([fish ~])
-curfew n. kvöldklukka; kvöldhringing
-curia n. páfahirð, -stjórn
+curfew n. kvöldklukka; kvöldhringing; útivistarbann
+curia n. páfahirð, páfastjórn
 curial l. sem lýtur að páfahirðinni
 curiosity n. forvitni; hnýsni; fágætur (eða markverður) hlutur
 curious l. forvitinn; hnýsinn; nákvæmur ([~ enquiry]); markverður; skrítinn; kynlegur

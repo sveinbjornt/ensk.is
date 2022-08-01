@@ -181,6 +181,9 @@ SKIP = frozenset(
         "paleontological",
         "paleontologist",
         "paleontology",
+        "lictor",
+        "sarabande",
+        "chitinous",
     )
 )
 
