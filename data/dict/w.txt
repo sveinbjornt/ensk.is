@@ -609,7 +609,7 @@ wire-draw s. draga vír (úr málmi); hártoga
 wire-drawer n. vírsmiður; hártogari
 wire-edge n. ró (í egg)
 wire-grate n. vírgrind
-wireless l. þráðlaus ([~ telegraphy])
+wireless l. þráðlaus; útvörpunar-; n. útvarp
 wire-puller n. undirróðrarmaður, baktjaldamaður ([political ~])
 wire-pulling n. undirróður
 wireworm n. harður kornmaðkur

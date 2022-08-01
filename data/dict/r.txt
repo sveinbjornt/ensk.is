@@ -520,7 +520,7 @@ referable l. heimfæranlegur
 referrible l. heimfæranlegur
 referee n. gerðarmaður
 reference n. tilvísun; tilvitnun (í bók); skírskotun; tillit, samband; tilvísunarmerki ([mark of ~]); tilvísunarmaður (sem annar vísar til sér til meðmæla); meðmæli; [book of ~] bók til leiðbeiningar (t.d. orðabók); [in/with ~ to] með tilliti til, í sambandi við
-referendum n. þjóðaratkvæði
+referendum n. þjóðaratkvæði; þjóðaratkvæðagreiðsla
 referential l. tilvísunar-
 refine s. hreinsa (t.d. vín, sykur); skíra (málma); gera ásjálegra; fága; hreinsast, skírast; verða kurteislegri
 refinement n. fágun, hreinsun, skíring; siðafágun, kurteislegir siðir; brögð
@@ -1008,7 +1008,7 @@ resting place n. hvíldarstaður
 rest n. afgangur, leifar, eftirstöðvar; [the ~] hinir; s. hvíla sig; halda áfram að vera; [~ content] vera ánægður
 restaurant n. veitingastaður; matsöluhús
 restitute s. skila aftur, bæta upp
-restitution n. afturskilun; bætur; [make ~ of] skila (e-u) aftur; bæta e-ð upp
+restitution n. endurheimt, afturskilun; bætur; [make ~ of] skila (e-u) aftur; bæta e-ð upp
 restive l. staður (um hest); þrár, þrályndur
 restiveness n. þrái
 restless l. hvíldarlaus, svefnlaus; eirðarlaus, óeirinn; óþekkur, baldinn

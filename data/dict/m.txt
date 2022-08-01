@@ -842,7 +842,7 @@ minify s. gera minni, draga úr e-u; gera lítið úr e-u
 minikin l. örsmár, ofurlítill
 minim n. agnarögn; dropi; hálfnóta
 minimal l. örsmár; minnstur, lægstur
-minimize s. gera mjög lítið úr
+minimize s. gera mjög lítið úr, lágmarka
 minimum n. minnsta upphæð, lágstig, lágmark
 mining n. námustarf, námugröftur, námurekstur
 minion n. vildarmaður, gæðingur, uppáhald

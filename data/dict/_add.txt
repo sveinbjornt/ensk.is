@@ -58,7 +58,6 @@ laptop n. fartölva
 cryptography n. dulkóðun, dulkóðunarfræði, dulmál
 mansplain s. hrútskýra (þegar karlmaður útskýrir e-ð á yfirlætisfullan hátt)
 podcast n. hlaðvarp (stafrænn útvarpsþáttur)
-wireless l. þráðlaus; útvörpunar-; n. útvarp
 lighter n. kveikjari
 email n. tölvupóstur (stytting á [electronic mail])
 e-mail n. tölvupóstur (stytting á [electronic mail])
@@ -857,7 +856,9 @@ bismuth n. bismút (frumefni)
 polonium n. pólon (frumefni)
 thorium n. þórín (frumefni)
 uranium n. úran (frumefni)
+osmium n. osmín, osmíum (frumefni)
 plutonium n. plúton, plútóníum (frumefni)
+europium n. evrópín, evrópíum
 Buddhism n. búddismi (austurlensk trúarbrögð)
 nirvana n. nirvana, algleymi (ástand fullkomins friðar og blessunar í búddískri trú)
 Coptic n. Kopti, koptíska (tungumál Kopta í Egyptalandi); l. koptískur
@@ -911,6 +912,9 @@ pasta n. pasta (deig gert úr hveiti)
 spaghetti n. spagettí, hveitilengjur (tegund af %[pasta]%)
 acrylic l. akrýl-
 allergy n. ofnæmi
+allergen n. ofnæmisvaldur
+allergenic l. ofnæmisvaldandi
+allergenicity n. ofnæmisvirkni
 organizer n. skipuleggjari, skipuleggjandi
 aerospace n. flugiðnaður, flugtækni, flugverkfræði
 aerospace engineer n. flugvélaverkfræðingur, flugtæknifræðingur
@@ -1487,3 +1491,58 @@ discotheque n. diskótek (skemmtistaður)
 disco n. diskótónlist; diskótek (stytting á %[discotheque]%)
 gorgonzola n. gorgonsólaostur (e.k. gráðostur)
 periodic l. sem kemur aftur með jöfnu millibili
+telemetry n. fjarmæling(ar)
+telemetric l. fjarmælinga-
+spotlight n. kastljós, sviðsljós; brennidepill
+informational l. upplýsandi, fræðandi, upplýsinga-
+latex n. mjólkursafi, latex (kvoðulausn notuð í gúmmíframleiðslu)
+urology n. þvagfæralækningar, þvagfæralæknisfræði
+urinalysis n. þvagrannsókn
+phthalimide n. þalimíð
+dryer n. þurrkofn; þurrkari
+electrocution n. að fá raflost
+electrocute s. gefa e-u eða e-m raflost eða rafstuð
+urbanisation n. þéttbýlismyndun
+conurbation n. þéttbýlissvæði
+voidability n. ógildanleiki
+intercultural n. þvermenningarlegur
+multidisciplinary n. þverfaglegur
+clotting n. storknun
+diuretic n. þvagræsilyf
+incapacitation n. óstarfhæfni
+asthenia n. þróttleysi
+sealant n. þéttiefni
+evisceration n. fjarlæging innyfla; kviðskurður
+trichromatic l. þrílita-, þrílitaður
+macroeconomic l. þjóðhagslegur
+macroeconomics n. ft. þjóðhagfræði, heildarhagfræði
+microeconomic l. rekstrarhagfræðilegur
+microeconomics n. ft. rekstrarhagfræði
+theremin n. þeremín (rafmagnshljóðfæri)
+felting n. þæfing
+piezo n. þrýstirafíhlutur
+macroprudential l. þjóðhagsvarúðar-
+rotor n. þyrill
+desiccation n. þurrkun
+condenser n. þéttir
+deckhouse n. þilfarshús
+usability n. nothæfni
+minimisation n. lágmörkun
+capacitor n. þéttir
+deactivate s. óvirkja
+deactivation n. óvirkjun
+urticaria n. ofsakláði
+overweight l. of þungur, í ofþyngd; n. ofþyngd
+antihistamine n. ofnæmislyf
+overdosage n. ofskömmtun
+overpayment n. ofgreiðsla
+resistivity n. eðlisviðnám
+recursive l. endurkvæmur
+recursion n. endurkvæmni
+recursiveness n. endurkvæmni
+toxicodynamics n. ft. eiturhrifafræði
+chilli n. chilipipar, eldpipar
+chili n. chilipipar, eldpipar
+reprocess s. endurvinna
+biophysics n. lífeðlisfræði
+biophysicist n. lífeðlisfræðingur

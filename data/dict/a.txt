@@ -584,7 +584,7 @@ agency n. milliganga; tilhlutun ([by the ~ of]); áhrif; kraftur; umboð; umboð
 agent n. gjörandi; orsök; undirrót; afl; umboðsmaður, erindreki
 agenda n. ft. umræðuefni á fundi, fundarskrá; minnisbók
 agglomerate s. hrúga saman; safnast saman; n. samansafn
-agglomeration n. samansafn
+agglomeration n. samansafn; þéttbýlisstaður
 agglutinate s. líma saman; l. límdur (við [to])
 agglutination n. samlíming
 aggrandize s. auka, efla; fegra; hefja

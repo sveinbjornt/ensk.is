@@ -735,8 +735,8 @@ persiflage n. spott
 persist s. halda áfram; halda fast við ([in]), vera stöðugur (í [in])
 persistence n. stöðugleiki; áframhald; þrákelkni
 persistency n. stöðugleiki; áframhald; þrákelkni
-persistent l. þolgóður; fastur; stöðugur; varanlegur
-persisting l. þolgóður; fastur; stöðugur; varanlegur
+persistent l. þrálátur; þolgóður; fastur; stöðugur; varanlegur
+persisting l. þrálátur; þolgóður; fastur; stöðugur; varanlegur
 person n. persóna, maður; líkamsvöxtur; [in ~] sjálfur; [his own ~] hann sjálfur; [your ~] þér sjálfur
 personable l. góður félagsskapur; vel vaxinn, laglegur
 personage n. tiginn maður ([an illustrious ~]); persóna ([a mythological ~])
@@ -1376,7 +1376,7 @@ pole n. póll, heimskaut
 pole n. stöng; tjaldsúla; bátstjaki; mælistöng; lengdarmál; s. bera (flytja) á stöngum; stjaka (bát)
 poleaxe n. háskeft öxi, bardagaöxi, vígöxi
 Pole n. Pólverji
-polecat n. marðartegund
+polecat n. þefvísla (marðartegund)
 polemic l. ritdeilugjarn, þrætugjarn; ritdeilu-; n. ritdeilugjarn maður; ritdeila
 polemical l. ritdeilulegur
 police n. lögregla, löggæsla; lögreglulið; s. halda uppi reglu á e-m stað; verja, gæta ([~ the coast])
@@ -1796,7 +1796,7 @@ prefigure s. fyrirboða; gera sér í hugarlund
 prefix s. setja (eða skeyta) framan við; n. forskeyti
 prefixion n. viðauki framan við
 pregnable l. tækur (um kastala)
-pregnancy n. ólétta; meðgöngutími; frjósemi
+pregnancy n. þungun, ólétta; meðgöngutími; frjósemi
 pregnant l. vanfær, þunguð, ólétt (um konu); með fangi (um dýr), fylfull, hvolpafull o.s.frv.; þýðingarmikill; efnisríkur; [~ with peril] hættufullur
 prehensile l. [~ tail] griphali (á apa)
 prehension n. grip, skilningur

@@ -698,7 +698,7 @@ detention n. kyrrsetning; hald; töf ([in case of ~])
 deter s. hræða, fæla (frá [from])
 determent n. fráfæling
 deterge s. hreinsa (sár)
-detergent l. hreinsandi
+detergent l. hreinsandi; n. hreinsiefni, þvottaefni
 deteriorate s. gera verra; versna; rýrna ([~ in value])
 deterioration n. versnun
 determinable l. sem verður ákveðinn
@@ -1774,7 +1774,7 @@ duplicate l. tvöfaldur; samstæður ([~ copy, ~ stamps]); n. samstæða; samrit
 duplication n. tvöföldun
 duplicity n. tvöfaldleiki; óhreinlyndi, undirferli
 durability n. varanleiki, hald, ending
-durable l. haldgóður, endingargóður
+durable l. haldgóður, endingargóður, þolinn
 durance n. varðhald
 duration n. lengd ([the average ~ of life]); [of short ~] skammvinnur, skammær
 during fs. í, um, meðan; [~ the night] um nóttina

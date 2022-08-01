@@ -184,6 +184,17 @@ SKIP = frozenset(
         "lictor",
         "sarabande",
         "chitinous",
+        "asthenia",
+        "phthalimide",
+        "piezo",
+        "trichromatic",
+        "voidability",
+        "allergenicity",
+        "biophysicist",
+        "deckhouse",
+        "overdosage",
+        "recursiveness",
+        "toxicodynamics",
     )
 )
 
@@ -213,7 +224,7 @@ for e in no_ipa:
         continue
 
     if not out:
-        print(f"SKIP: {e}")
+        print(f'SKIP: "{e}",')
         continue
     comp = out.split("\n")
     c = comp[0]
