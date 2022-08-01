@@ -152,7 +152,7 @@ immaterialize s. gera líkamslausan (efnislausan)
 immature l. óþroskaður
 immaturity n. þroskaskortur
 immeasurable l. ómælanlegur
-immeasurability n. ómælileiki
+immeasurability n. ómælanleiki
 immediate l. tafarlaus, viðstöðulaus; náinn; [the ~ neighbourhood] næsta nágrenni; [his ~ superior] næstu yfirmenn; [out of ~ danger] úr bráðri hættu
 immediately ao. beinlínis; undir eins
 immemorial l. óminnilegur, eldgamall; [from time ~] frá alda öðli, frá ómunatíð
