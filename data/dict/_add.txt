@@ -131,7 +131,8 @@ fjord n. fjörður (sjá einnig %[fiord]%)
 global warming n. hnattræn hlýnun, hlýnun jarðar, jarðhlýnun
 fighter jet n. orustuþota, herþota
 jeep n. jeppi, torfærubifreið
-megacorporation n. risafyrirtæki, stórfyrirtæki
+megacorporation n. stórfyrirtæki, risafyrirtæki, gríðarstórt fyrirtæki
+megacorp n. sjá %[megacorporation]%
 clickable l. smellanlegur, smellvænn
 mediascape n. fjölmiðlaumhverfi, fjölmiðlaheimur (heimurinn eins og hann birtist í fjölmiðlum)
 snowboard n. snjóbretti; s. fara á snjóbretti
@@ -404,7 +405,7 @@ mailman n. bréfberi, póstmaður
 makeup n. (andlits)förðun, (andlits)farði, meik
 marina n. smábátahöfn
 nudist n. strípalingur, striplingur
-pipeline n. leiðsla; [~s] leiðslukerfi
+pipeline n. leiðsla; n. ft. [~s] leiðslukerfi
 radio n. útvarp, útvarpstæki; s. útvarpa ([he ~ed for help])
 realtor n. fasteignasali, fasteignamiðlari
 riverside n. árbakki; l. við árbakka, árbakka-
@@ -935,7 +936,7 @@ surrealism n. súrrealismi, fjarstæðustefna (stefna í listum og bókmenntum)
 surreal n. súrrealískt, fjarstæðukennt, sem ber svip af súrrealisma (sá %[surrealism]%)
 sleaze n. viðbjóður, spilling, svindl
 flab n. spik, fita
-yuppie n. (óforml.) uppi, ung fagmanneskja í þéttbýli (frá [young, urban professional])
+yuppie n. (óforml.) uppi, ung fagmanneskja í þéttbýli (frá [young urban professional])
 visa n. vegabréfsáritun, áritun, dvalarleyfi ([my ~ has expired])
 viral l. veiru-
 technique n. aðferð, tækni; [parenting ~s] uppeldisaðferðir
@@ -1191,7 +1192,9 @@ dildo n. gervilimur (kynlífsleikfang)
 mage n. seiðkarl, galdrakarl; sjá %[magician]%
 octopus n. kolkrabbi
 anhedonia n. vansæld, vansæla, gleðileysi
-dysphoria n. eirðarleysi
+anhedonic l. vansæll, gleðilaus
+dysphoria n. eirðarleysi, þunglyndi, vanlíðan
+dysphoric l. eirðarlaus, þunglyndur, óhamingjusamur
 gnoll n. e.k. hundmenni, hundingi
 synonymicon n. samheitaorðabók (sjá einnig %[thesaurus]%)
 groundhog n. norður-amerískt múrmeldýr
@@ -1217,7 +1220,7 @@ ethernet n. íðnet
 impaired l. skertur, minnkaður, rýrður; skemmdur, skaddaður
 inbox n. pósthólf, innhólf, skilaboðaskjóða
 thumbnail n. þumalnögl; smámynd ([~ image])
-pimp n. melludólgur; s. selja (vændi); koma á framfæri (óforml.)
+pimp n. melludólgur, hórmangari; s. selja (vændi); koma á framfæri (óforml.)
 lymph node n. eitill
 ecumenical l. sjá %[oecumenical]%
 corpus n. búkur, bolur; málheild
@@ -1576,3 +1579,9 @@ taxidermy n. uppstoppun
 taxidermist n. uppstoppari
 taxidermic l. uppstoppunar-, uppstoppunarlegur
 fastidiousness n. vandlæti, vandfýsni
+EU n. stytt. á [European Union]; Evrópusambandið
+EV n. stytt. á %[electric vehicle]%; rafbíll, rafknúin bifreið
+electric vehicle n. rafbíll, rafknúin bifreið
+electric car n. rafbíll
+OS n. stytt. á %[operating system]%
+fraudster n. svikahrappur

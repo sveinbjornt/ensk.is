@@ -1781,7 +1781,7 @@ congelation n. storknun; frost; [point of ~] frostmark
 congenerous l. samkynjaður, samskonar
 congenial l. sama eðlis, náskyldur; skaplíkur ([~ neighbours] samlyndir nágrannar); hæfilegur
 congeniality n. skyldleiki, skaplíking
-congenital l. meðfæddur ([~ blindness, difference])
+congenital l. meðfæddur; [~ disease] meðfæddur sjúkdómur
 conger n. hafáll
 congeries n. samsafn
 congest s. safnast fyrir
@@ -1846,8 +1846,8 @@ conscience n. samviska ([good, bad, evil ~]); [liberty of ~] samviskufrelsi; [ma
 conscientious l. samviskusamur, samvisku-; skyldurækinn
 conscientiousness n. samviskusemi; skyldurækni
 conscionable l. samviskusamur
-conscious l. (sér) meðvitandi; gæddur meðvitund; þóttafullur
-consciousness n. meðvitund; [recover ~] rakna við aftur
+conscious l. meðvitaður; gæddur meðvitund; (sér) meðvitandi; þóttafullur
+consciousness n. meðvitund; [recover, regain ~] rakna við aftur
 conscribe s. bjóða út (liði), skrá (til herþjónustu)
 conscript l. skráður til herþjónustu; [~ fathers] ráðherrar (hjá Rómverjum); s. skrá (liðsmenn)
 conscription n. skráning (til herþjónustu), útboð

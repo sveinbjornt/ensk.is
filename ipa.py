@@ -203,6 +203,9 @@ SKIP = frozenset(
         "redesignate",
         "toxigenic",
         "taxidermic",
+        "anhedonic",
+        "dysphoric",
+        "megacorp",
     )
 )
 
