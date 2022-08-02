@@ -21,7 +21,7 @@ robot n. vélmenni, vélþræll, þjarkur
 bathroom n. baðherbergi
 calcium n. kalk
 biotechnology n. líftækni
-biotech n. líftækni (stytting á %[biotechnology]%)
+biotech n. líftækni (stytt. á %[biotechnology]%)
 complicated l. flókinn
 camera n. myndavél, ljósmyndavél; kvikmyndaupptökuvél
 blowjob n. munnmök
@@ -59,8 +59,8 @@ cryptography n. dulkóðun, dulkóðunarfræði, dulmál
 mansplain s. hrútskýra (þegar karlmaður útskýrir e-ð á yfirlætisfullan hátt)
 podcast n. hlaðvarp (stafrænn útvarpsþáttur)
 lighter n. kveikjari
-email n. tölvupóstur (stytting á [electronic mail])
-e-mail n. tölvupóstur (stytting á [electronic mail])
+email n. tölvupóstur (stytt. á [electronic mail])
+e-mail n. tölvupóstur (stytt. á [electronic mail])
 smartphone n. snjallsími
 telecommunication n. fjarskipti, fjarskiptatækni
 nazi n. nasisti; l. nasista-
@@ -93,10 +93,10 @@ girlfriend n. kærasta, unnusta; vinkona
 guestbook n. gestabók
 holocaust n. helför; [the Holocaust] helförin, þ.e. tortíming Gyðinga í seinni heimsstyrjöld
 microphone n. hljóðnemi
-mic n. hljóðnemi (stytting á %[microphone]%)
-mike n. hljóðnemi (stytting á %[microphone]%)
+mic n. hljóðnemi (stytt. á %[microphone]%)
+mike n. hljóðnemi (stytt. á %[microphone]%)
 newsletter n. fréttabréf
-phone n. sími, símtæki; s. hringja úr símtæki (stytting á %[telephone]%)
+phone n. sími, símtæki; s. hringja úr símtæki (stytt. á %[telephone]%)
 pizza n. pítsa, flatbaka (ítalskur réttur)
 masturbate s. fróa sér, runka sér
 masturbatory l. sjálfsfróandi, sjálfsrunkandi
@@ -259,7 +259,7 @@ calisthenics n. ft. leikfimiæfingar
 calisthenic l. leikfimi-, leikfimiæfinga-
 automation n. sjálfvirkni; sjálfvirknivæðing
 automate s. sjálfvirknivæða
-bot n. (stytting á %[robot]%) vélmenni, þjarkur
+bot n. (stytt. á %[robot]%) vélmenni, þjarkur
 surveillance n. eftirlit
 tweeze s. snyrta með flísatöng
 aerodrome n. flugvöllur, flugstöð
@@ -315,7 +315,7 @@ valium n. valíum (kvíðastillandi lyf)
 vinyl n. vínill; vínilplata, hljómplata úr vínil
 kevlar n. kevlar (sterkt trefjaefni notað í skotheldum vestum); skothelt vesti
 cell phone n. farsími, GSM-sími, gemsi
-CD n. geisladiskur (stytting á %[compact disc]%)
+CD n. geisladiskur (stytt. á %[compact disc]%)
 compact disc n. geisladiskur
 sonar n. hljómsjá, ómsjá, sónar
 camcorder n. lítil kvikmyndatökuvél (samsett úr %[camera]% og %[recorder]%)
@@ -459,8 +459,8 @@ bioengineering n. líftækni, lífverkfræði
 bioengineer n. líftæknifræðingur
 confidentiality n. trúnaður
 lyrebird n. lýrufugl (e.k. spörfugl)
-porn n. klám (óforml. stytting á %[pornography]%)
-porno n. klám (óforml. stytting á %[pornography]%)
+porn n. klám (óforml. stytt. á %[pornography]%)
+porno n. klám (óforml. stytt. á %[pornography]%)
 natural language processing n. máltækni, málvinnsla, málgreining
 language technology n. máltækni
 guerrilla n. skæruliði
@@ -553,9 +553,9 @@ fundraising n. fjáröflun
 fennel n. fennika (jurt)
 Madagascar n. Madagaskar
 publishing n. útgáfustarfsemi ([they're the biggest name in ~])
-CV n. ferilskrá (stytting á lat. [curriculum vitae])
+CV n. ferilskrá (stytt. á lat. [curriculum vitae])
 press conference n. blaðamannafundur, fréttamannafundur
-AIDS n. alnæmi, eyðni (stytting á [acquired immunodeficiency syndrome])
+AIDS n. alnæmi, eyðni (stytt. á [acquired immunodeficiency syndrome])
 limousine n. limúsína, limmósína, eðalvagn, glæsivagn
 enquiry n. spurning; fyrirspurn; rannsókn
 lightweight l. léttur; léttvægur, veigalítill; n. keppandi í léttvigt í íþróttum (t.d. hnefaleikum, [~ champion])
@@ -794,8 +794,8 @@ marketing n. markaðssetning, markaðsmál; markaðsdeild
 electrolyte n. raflausn, rafvaki; rafvökvi
 electrolysis n. rafgreining, rafsundrun
 redhead n. rauðhærð manneskja
-pub n. stytting á [public house]; knæpa, krá, ölstofa, bar, pöbb
-LED n. stytting á [light emitting diode]; ljósdíóða, ljóstvistur, ljóstvískaut
+pub n. stytt. á [public house]; knæpa, krá, ölstofa, bar, pöbb
+LED n. stytt. á [light emitting diode]; ljósdíóða, ljóstvistur, ljóstvískaut
 buddy n. félagi, lagsmaður, vinur
 querulant n. þrætugjarn maður, kverúlant, nöldurseggur
 carburetor n. blöndungur (í sprengihreyfli eða bílvél)
@@ -818,7 +818,7 @@ zeppelin n. loftfar, loftskip
 Zeus n. Seifur, æðsti guðinn í forngrískri goðafræði
 zero gravity n. þyngdarleysi (t.d. í geimskipi eða geimstöð)
 amplifier n. magnari
-amp n. magnari (stytting á %[amplifier]%)
+amp n. magnari (stytt. á %[amplifier]%)
 erotica n. kynæsandi bækur, list eða myndefni
 gram n. gramm
 patriarchy n. feðraveldi
@@ -828,7 +828,7 @@ matriarchal l. ættmæðra-
 zucchini n. kúrbítur
 courgette n. kúrbítur
 Holland n. Holland
-tech n. stytting á %[technology]%
+tech n. stytt. á %[technology]%
 tech giant n. tæknirisi
 catharsis n. kaþarsis, búkhreinsun; hreinsun, geðhreinsun, hreinsun sem fylgir geðhrifum harmleiks
 aitch n. stafurinn H (h)
@@ -892,7 +892,7 @@ relocation n. flutningur, endurstaðsetning
 isomorphism n. einsmótun
 isomorphic l. einsmótað
 isometric l. jafnlengdar-
-metro n. neðanjarðarlestarkerfi; stytting á %[metropolis]% eða %[metropolitan]%
+metro n. neðanjarðarlestarkerfi; stytt. á %[metropolis]% eða %[metropolitan]%
 format n. snið, form; s. sníða; forsníða ([he ~ted the hard drive])
 worldwide ao. á heimsvísu, um allan heim
 cursor n. bendill, bendir
@@ -930,8 +930,8 @@ fucking l. andskotans, helvítis, djöfulsins (sjá %[fuck]%)
 shit n. kúkur, saur, drulla; s. kúka, skíta; uh. fjandinn! fjandans!
 tergum n. bakskjöldur
 quadroon n. afkomandi hvítrar manneskju og kynblendings (úrelt)
-PIN n. persónunúmer, persónulegt kenninúmer (stytting á [personal identification number])
-HIV n. eyðniveira, alnæmisveira (stytting á [human immunodeficiency virus])
+PIN n. persónunúmer, persónulegt kenninúmer (stytt. á [personal identification number])
+HIV n. eyðniveira, alnæmisveira (stytt. á [human immunodeficiency virus])
 surrealism n. súrrealismi, fjarstæðustefna (stefna í listum og bókmenntum)
 surreal n. súrrealískt, fjarstæðukennt, sem ber svip af súrrealisma (sá %[surrealism]%)
 sleaze n. viðbjóður, spilling, svindl
@@ -976,7 +976,7 @@ incentivize s. hvetja, skapa hvata (til e-s)
 vis-a-vis fs. sjá %[vis-à-vis]%
 vis-à-vis fs. gagnvart, andspænis, á móti
 newbie n. nýgræðingur, byrjandi, grænjaxl
-VIP n. mjög mikilvæg manneskja (stytting á [very important person])
+VIP n. mjög mikilvæg manneskja (stytt. á [very important person])
 educated l. menntaður, vel upplýstur; [an ~ guess] vel grundvölluð ágiskun
 roulette n. rúlletta; [Russian ~] rússnesk rúlletta
 sadism n. kvalalosti, kvalafýsn, sadismi
@@ -984,15 +984,15 @@ sadist n. lostakvalari, sadisti
 sadistic l. kvalalosta-, sadista-
 masochism n. sjálfspíningarhvöt
 sadomasochism n. sadómasókismi, löngun til að kvelja bæði sjálfan sig og aðra (sjá %[sadism]% og %[masochism]%)
-BDSM n. kynlíf sem einkennist af kvalalosta, pyntingu, drottnun og undirgefni (stytting á [bondage, domination, sado-masochism])
+BDSM n. kynlíf sem einkennist af kvalalosta, pyntingu, drottnun og undirgefni (stytt. á [bondage, domination, sado-masochism])
 skeptic n. sjá %[sceptic]%
 skeptical l. sjá %[sceptical]%
 skepticism n. sjá %[scepticism]%
 facticity n. sá eiginleiki að vera staðreynd (sjá %[fact]%)
 halogen n. hópur frumefna, þ.e. flúor, klór, bróm, joð og astat
 astatine n. astat (frumefni)
-DNA n. deoxýríbósakjarnsýra, þ.e. erfðaefni, erfðavísir (stytting á [deoxyribonucleic acid])
-PC n. einkatölva (stytting á [personal computer]); pólitískur rétttrúnaður (stytting á [political correctness])
+DNA n. deoxýríbósakjarnsýra, þ.e. erfðaefni, erfðavísir (stytt. á [deoxyribonucleic acid])
+PC n. einkatölva (stytt. á [personal computer]); pólitískur rétttrúnaður (stytt. á [political correctness])
 deontology n. skyldufræði, skyldusiðfræði (í heimspeki)
 deontological l. skyldufræðilegur, skyldusiðfræðilegur (sjá %[deontology]%)
 megafauna n. stór dýr, risadýr (sjá %[fauna]%)
@@ -1150,7 +1150,7 @@ hangover n. þynnka, timburmenn
 analyst n. greinandi, sérfræðingur, rýnir, e-r sem rýnir í gögn (sjá %[analyze]%)
 logistician n. skipulagsfræðingur, birgðafræðingur, flutningafræðingur, sérfræðingur í (hernaðar)skipulagi (sjá %[logistics]%)
 hypertext n. stiklutexti, veftexti
-DVD n. mynddiskur, DVD-diskur (stytting á [Digital Video Disc], bókst. stafrænn myndbandsdiskur)
+DVD n. mynddiskur, DVD-diskur (stytt. á [Digital Video Disc], bókst. stafrænn myndbandsdiskur)
 beautification n. fegrun
 beautician n. snyrtifræðingur, fegrunarfræðingur
 ceasefire n. vopnahlé
@@ -1261,7 +1261,7 @@ anti-inflammatory l. bólgueyðandi
 anti-aircraft l. gegn flugvélum, loftvarna-; [~ system] loftvarnakerfi; [~ gun] loftvarnabyssa
 anticlockwise l. & ao. rangsælis
 clockwise l. & ao. réttsælis
-IRC n. stytting á [Internet Relay Chat]; spjallkerfi á internetinu
+IRC n. stytt. á [Internet Relay Chat]; spjallkerfi á internetinu
 intravenous l. innan æða, innanæða-, í æð
 suboptimal l. ekki eins góður og kostur er á (sjá %[optimal]%)
 microorganism n. örvera
@@ -1343,18 +1343,18 @@ narcissist n. narsissisti, e-r sem elskar eða dýrkar sjálfan sig
 personality disorder n. persónuleikaröskun
 Athens n. Aþena (borg í Grikklandi)
 tutorial l. kennslu-, kennara-; n. kennsluefni, námsefni, leiðbeiningar; kennslustund
-meds n. ft. stytting á %[medicine]% (ft.)
+meds n. ft. stytt. á %[medicine]% (ft.)
 tweet s. tísta; n. tíst
 nary l. enginn, ekki nokkur, ekki neinn ([~ a soul in sight])
 colotomy n. ristilskurður
-WWW n. stytting á [World Wide Web]; veraldarvefurinn
+WWW n. stytt. á [World Wide Web]; veraldarvefurinn
 annotated l. ritskýrður, með athugasemdum; sjá %[annotate]%
 scientism n. (öfga)vísindahyggja; sú kenning að aðferðir náttúruvísinda ráði við öll svið mannlegra fræða
 scientistic l. (öfga)vísindahyggjulegur; sjá %[scientism]%
-USA n. ft. stytting á %[United States of America]%
-US n. ft. Bandaríkin; stytting á %[United States]%
-UK n. Bretland; stytting á %[United Kingdom]%
-USSR n. Sovétríkin; stytting á [Union of Soviet Socialist Republics], enska heiti Sovétríkjanna
+USA n. ft. stytt. á %[United States of America]%
+US n. ft. Bandaríkin; stytt. á %[United States]%
+UK n. Bretland; stytt. á %[United Kingdom]%
+USSR n. Sovétríkin; stytt. á [Union of Soviet Socialist Republics], enska heiti Sovétríkjanna
 us fn. andlagsfall af %[we]%, okkur; [this concerns all of ~] þetta varðar okkur öll
 congressman n. þingmaður (á löggjafarþingi Bandaríkjanna)
 Java n. eyja í Indónesíu; kaffidrykkur; forritunarmál
@@ -1363,7 +1363,7 @@ criteria n. ft. sjá %[criterion]%
 originally ao. upphaflega, upprunalega; frumlega, einkennilega; sjá %[original]%
 infrared l. innrauður, infrarauður; [~ light] innrautt ljós
 biomass n. lífmassi
-NATO n. Atlantshafsbandalagið; stytting á [North Atlantic Treaty Organization]
+NATO n. Atlantshafsbandalagið; stytt. á [North Atlantic Treaty Organization]
 polyphony n. fjölröddun, pólýfónía
 polyphonic l. fjölraddaður
 basketball n. körfubolti, körfuknattleikur
@@ -1373,11 +1373,11 @@ Atlantic l. Atlantshafs-
 role n. hlutverk
 role model n. fyrirmynd
 configure s. stilla; mynda, laga
-config n. stytting á %[configuration]%
+config n. stytt. á %[configuration]%
 bikini n. bikiní, baðföt
 resell s. endurselja
 reseller n. endursöluaðili, endursölumaður, endurseljandi
-gel n. gel, hlaup (stytting á %[gelatine]%)
+gel n. gel, hlaup (stytt. á %[gelatine]%)
 cookie n. smákaka; vefkaka (á veraldarvefnum)
 footwear n. skófatnaður, skótau, skóbúnaður
 interracial l. milli kynþátta
@@ -1387,7 +1387,7 @@ euro n. evra (gjaldmiðill, €)
 petite l. fíngerður, smágerður, smávaxinn, lítill, lítilvaxinn
 volleyball n. blak (knattleikur)
 motel n. vegahótel (Band.): samsett úr %[motor]% og %[hotel]%
-combo n. stytting á %[combination]%
+combo n. stytt. á %[combination]%
 stolen l. stolinn; sjá %[steal]%
 specialized l. sérhæfður; sjá %[specialize]%
 multimedia n. margmiðlun, margmiðlunarefni; l. margmiðlunar-
@@ -1422,8 +1422,8 @@ Canaan n. Kanaansland
 literally ao. bókstaflega, orðrétt
 warthog n. vörtusvín
 ghostwriter n. leigupenni, skuggaskrifari
-APC n. brynvarinn bíll (stytting á [armoured personnel carrier])
-SUV n. jeppi, jepplingur (stytting á [sport utility vehicle])
+APC n. brynvarinn bíll (stytt. á [armoured personnel carrier])
+SUV n. jeppi, jepplingur (stytt. á [sport utility vehicle])
 dosage n. (lyfja)skammtur
 ornithopter n. blakvængja
 man-o'-war n. herskip
@@ -1463,7 +1463,7 @@ carjacker n. bílþjófur
 ketamine n. ketamín (svæfingarlyf)
 implementation n. útfærsla, framkvæmd
 affordable l. á viðráðanlegu verði; sjá %[afford]%
-ASAP ao. eins fljótt og auðið er, eins fljótt og mögulega (stytting á [as soon as possible])
+ASAP ao. eins fljótt og auðið er, eins fljótt og mögulega (stytt. á [as soon as possible])
 minesweeper n. tundurduflaslæðari
 undefined l. óskilgreindur
 chamomile n. kamilla, kryddbaldursbrá (jurt)
@@ -1495,7 +1495,7 @@ chitin n. kítín (efnið í stoðgrind margra skordýra)
 chitinous l. kítíns- (sjá %[chitin]%)
 statewide l. & ao. um allt ríkið
 discotheque n. diskótek (skemmtistaður)
-disco n. diskótónlist; diskótek (stytting á %[discotheque]%)
+disco n. diskótónlist; diskótek (stytt. á %[discotheque]%)
 gorgonzola n. gorgonsólaostur (e.k. gráðostur)
 periodic l. sem kemur aftur með jöfnu millibili
 telemetry n. fjarmæling(ar)
