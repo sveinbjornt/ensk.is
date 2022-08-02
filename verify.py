@@ -65,18 +65,21 @@ warnings = 0
 
 
 def warn(s: str, pn: Union[int, str], ln: int):
+    """Print warning message w. relevant file and line info."""
     print(f"{pn}:{ln} | {s}")
     global warnings
     warnings += 1
 
 
 def strip_words_in_square_brackets(s: str) -> str:
+    """Strip words in square brackets from string."""
     sn = re.sub(r"\[.+\]", "", s)
     sn = re.sub(r"%", "", sn)
     return sn
 
 
 def check_punctuation(line: str, pn, ln: int):
+    """Ensure that punctuation is used correctly in entry."""
     if line.strip() == "":
         warn("empty line", pn, ln)
     if "  " in line:
@@ -111,6 +114,7 @@ def check_punctuation(line: str, pn, ln: int):
 
 
 def check_spacing(line: str, pn, ln: int):
+    """Look for malformed whitespace in entry."""
     if "\t" in line:
         warn("tab character", pn, ln)
     if "  " in line:
@@ -118,6 +122,7 @@ def check_spacing(line: str, pn, ln: int):
 
 
 def check_category(line: str, pn, ln: int):
+    """Make sure word has a category."""
     hascat = False
     for c in CATEGORIES:
         if f" {c} " in line:
@@ -128,6 +133,7 @@ def check_category(line: str, pn, ln: int):
 
 
 def check_bracket_use(line: str, pn, ln: int):
+    """Make sure that brackets are used correctly."""
     lc = strip_words_in_square_brackets(line)
 
     if "~" in lc:
@@ -136,6 +142,7 @@ def check_bracket_use(line: str, pn, ln: int):
 
 
 def check_intradict_refs(line: str, pn, ln: int):
+    """Make sure all intra-dictionary references are valid, i.e. exist."""
     if "%[" not in line:
         return
 
@@ -145,42 +152,8 @@ def check_intradict_refs(line: str, pn, ln: int):
             warn(f"Intra-dictionary reference to non-existent word {w}", pn, ln)
 
 
-def check_english_words(line: str, pn, ln: int):
-    res = re.findall(r"\[([^\]]+)", line)
-    s = " ".join([r.strip() for r in res])
-    words = s.split()
-
-    for entry in words:
-        if not entry:
-            continue
-        for w in entry.split("/"):
-            if w[0].isdigit() and w[-1].isdigit():
-                continue
-            if w.startswith("£"):
-                continue
-            w = re.sub(r"('s)$", "", w)
-            w = (
-                w.rstrip(",")
-                .rstrip(")")
-                .lstrip("(")
-                .lstrip("'")
-                .rstrip("'")
-                .rstrip("-")
-                .rstrip("!")
-                .rstrip("?")
-                .rstrip("—")
-                .replace("(", "")
-                .replace(")", "")
-            )
-            if "~" in w:
-                continue
-            if w not in EN_WORDS_LIST:
-                wl = w.lower()
-                if wl not in EN_WORDS_LIST:
-                    warn(f"English Word: '{w}'", pn, ln)
-
-
 def check_enword_def(line: str, pn, ln: int):
+    """Check that English word is valid."""
     (entry, definition) = parse_line(line)
     e = entry.strip()
     if "," in e:
@@ -238,6 +211,8 @@ def check_icelandic_words(line: str, pn, ln: int):
 
 
 def verify():
+    """Main program function."""
+
     r = read_raw_pages()
 
     for letter, lines in r.items():

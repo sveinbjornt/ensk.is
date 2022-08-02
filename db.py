@@ -170,7 +170,7 @@ class EnskDatabase(object):
     def read_all_with_no_page(self) -> List[Dict]:
         """Read and return all entries without IPA."""
         conn = self.conn()
-        selected = conn.cursor().execute(f"SELECT * FROM dictionary WHERE page_num=0")
+        selected = conn.cursor().execute("SELECT * FROM dictionary WHERE page_num=0")
         return self._consume(selected)
 
     def read_all_in_wordcat(self, cat=None) -> List[Dict]:
