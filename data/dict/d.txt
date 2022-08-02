@@ -603,7 +603,7 @@ derivation n. afleiðsla
 derivative l. afleiddur; n. afleitt orð
 derive s. leiða (e-ð) af (e-u); fá; stafa af, rekja uppruna sinn til ([from]); [to be ~d from] vera kominn af
 derm n. húð, skinn
-dermatology n. húðfræði
+dermatology n. húðfræði; húðsjúkdómafræði
 derogate s. takmarka (lög); falla í tign eða áliti; [~ from] draga úr, rýra
 derogation n. takmörkun (laga); rýrð, niðrun
 derogatory l. rýrandi, niðrandi ([to, from])

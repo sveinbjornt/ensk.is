@@ -202,6 +202,7 @@ SKIP = frozenset(
         "recyclability",
         "redesignate",
         "toxigenic",
+        "taxidermic",
     )
 )
 

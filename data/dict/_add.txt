@@ -1541,9 +1541,9 @@ antihistamine n. ofnæmislyf
 overdosage n. ofskömmtun
 overpayment n. ofgreiðsla
 resistivity n. eðlisviðnám
-recursive l. endurkvæmur
-recursion n. endurkvæmni
-recursiveness n. endurkvæmni
+recursive l. endurkvæmur; [~ function] endurkvæmt fall
+recursion n. endurkvæmni (sjá %[recursion]%)
+recursiveness n. endurkvæmni (sjá %[recursiveness]%)
 toxicodynamics n. ft. eiturhrifafræði
 chilli n. chilipipar, eldpipar
 chili n. chilipipar, eldpipar
@@ -1571,3 +1571,8 @@ recyclability n. endurvinnanleiki
 otoscopy n. eyrnaspeglun
 undermentioned l. neðangreindur, eftirtalinn
 unilateral l. einhliða, einhliðaður
+dermatologist n. húðsjúkdómafræðingur, húðsjúkdómalæknir; húðfræðingur
+taxidermy n. uppstoppun
+taxidermist n. uppstoppari
+taxidermic l. uppstoppunar-, uppstoppunarlegur
+fastidiousness n. vandlæti, vandfýsni

@@ -775,7 +775,7 @@ equerry n. yfirmaður yfir hesthúsi konungs eða stórhöfðingja ([~ in ordina
 equestrian l. reiðmannlegur, riddaralegur, riddara-; ríðandi; n. reiðmaður; ríðandi maður
 equiangular l. jafnhyrndur
 equidistant l. jafnfjarlægur; jafnhliða (um línur)
-equilateral l. jafnhliðaður
+equilateral l. jafnhliða, jafnhliðaður
 equilibrate s. setja í jafnvægi; vega upp á móti; jafnvætta, vera jafnvægur (e-u [with])
 equilibration n. jafnvægi
 equilibrious l. jafnvægur

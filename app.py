@@ -272,7 +272,7 @@ async def about(request: Request):
             "num_additions": num_additions,
             "entries_singular": sing_or_plur(num_entries),
             "additions_singular": sing_or_plur(num_additions),
-            "additions_percentage": f"{num_additions / num_entries * 100:.1f}%",
+            "additions_percentage": perc(num_additions, num_entries),
         },
     )
 
@@ -302,6 +302,7 @@ async def additions_page(request: Request):
             "title": f"Viðbætur - {WEBSITE_NAME}",
             "additions": additions,
             "num_additions": num_additions,
+            "additions_percentage": perc(num_additions, num_entries),
         },
     )
 

@@ -1591,15 +1591,13 @@ compost n. samsetning; samsettur áburður; s. breyta í áburð
 composure n. ró, stilling
 compotation n. samdrykkja
 compotator n. drykkjufélagi
-compound s. blanda saman; setja saman; sættast á (mál); sættast; semja um (tilslökun á skuld); borga
-compound l. samsettur; [~ interest] vaxtavextir; n. samsett orð, samsetning
+compound s. blanda saman; setja saman; sættast á (mál); sættast; semja um (tilslökun á skuld); borga; l. samsettur; [~ interest] vaxtavextir; n. samsett orð, samsetning; efnasamband
 comprehend s. skilja; sjá; innihalda; fela í sér; ná yfir
 comprehensible l. skiljanlegur
 comprehension n. yfirgrip; skilningur; [dull (slow) of ~] skilningsdaufur
 comprehensive l. yfirgripsmikill; efnisríkur, efnismikill ([a ~ dictionary]); fjölhæfur
 comprehensiveness n. yfirgrip; yfirgripsmikill skilningur
-compress n. umbúðir, bakstur
-compress s. þrýsta, þjappa saman
+compress s. þrýsta, þjappa saman; n. umbúðir, bakstur
 compressible l. samþjappanlegur
 compression n. þrýsting; samþjöppun
 compressive l. sem lýtur að þrýstingu
