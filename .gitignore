@@ -81,3 +81,5 @@ $RECYCLE.BIN/
 
 static/audio/*
 *.db
+
+texts/*.txt
