@@ -206,6 +206,9 @@ SKIP = frozenset(
         "anhedonic",
         "dysphoric",
         "megacorp",
+        "epistemologically",
+        "Cartesianism",
+        "unsystematic",
     )
 )
 

@@ -1070,6 +1070,7 @@ kraken n. sæskrímsli, risakolkrabbi
 bowling n. keila (íþrótt)
 epistemology n. þekkingarfræði
 epistemological l. þekkingarfræðilegur
+epistemologically ao. þekkingarfræðilega
 leprechaun n. búálfur
 jotun n. jötunn
 orc n. orki
@@ -1574,6 +1575,7 @@ recyclability n. endurvinnanleiki
 otoscopy n. eyrnaspeglun
 undermentioned l. neðangreindur, eftirtalinn
 unilateral l. einhliða, einhliðaður
+unilaterally ao. einhliða
 dermatologist n. húðsjúkdómafræðingur, húðsjúkdómalæknir; húðfræðingur
 taxidermy n. uppstoppun
 taxidermist n. uppstoppari
@@ -1589,3 +1591,23 @@ logical fallacy n. rökvilla
 handball n. handbolti
 premature infant n. fyrirburi, barn sem fæðist fyrir tímann
 aerosol n. agnúði, úði
+Greek n. Grikki; gríska (tungumál); l. grískur
+mathematically ao. stærðfræðilega
+methodological l. aðferðafræðilegur
+unafraid l. óhræddur
+censorship n. ritskoðun
+worldview n. heimssýn
+undercurrent n. undiralda; undirstraumur
+infinitely ao. óendanlega
+homegrown l. heimaræktaður
+empiricist n. raunhyggjumaður (sjá %[empiricism]%)
+luminosity n. ljósafl
+unthinkable l. óhugsandi, óhugsanlegur
+socially ao. félagslega
+Cartesian l. sem tengist heimspeki René Descartes; n. fylgismaður heimspeki Descartes
+Cartesianism n. heimspeki René Descartes
+unsystematic l. ókerfisbundinn, óskipulegur
+enlightened l. upplýstur, fróður
+understandable l. skiljanlegur
+psychologically ao. sálfræðilega
+experimenter n. tilraunamaður
