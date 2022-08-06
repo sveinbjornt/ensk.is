@@ -1,12 +1,12 @@
 aardvark n. jarðsvín (riðvaxið afrískt spendýr sem nærist aðallega á maurum)
 database n. gagnagrunnur; [the information was written to a ~]
 classroom n. kennslustofa, skólastofa; [the pupils remained in the ~]
-coedit s. ritstýra með einhverjum öðrum; [he ~ed the dictionary] hann var meðritstjóri orðabókarinnar
+coedit s. meðritstýra, ritstýra ásamt öðrum; [he ~ed the dictionary] hann var meðritstjóri orðabókarinnar
 dune n. sandhóll (sem myndast úr foksandi), sandskafl
 rock n. rokktónlist; [play some of that ~ and roll music]
 microwave n. örbylgja; örbylgjuofn; s. hita í örbylgjuofni
 microwave oven n. örbylgjuofn
-helicopter n. þyrla
+helicopter n. þyrla; [~ pilot] þyrluflugmaður
 computer n. tölva, reiknivél; e-r sem reiknar
 algorithm n. algrími, reiknirit
 heliocentrism n. sólmiðjukenning
@@ -1588,3 +1588,4 @@ fraudster n. svikahrappur
 logical fallacy n. rökvilla
 handball n. handbolti
 premature infant n. fyrirburi, barn sem fæðist fyrir tímann
+aerosol n. agnúði, úði

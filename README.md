@@ -12,6 +12,14 @@ This repository contains the data files and software for
 [ensk.is](https://ensk.is), a free and open public domain
 online English-Icelandic dictionary.
 
+## Download
+
+You can download the dictionary in the following formats:
+
+* [⇩ SQLite3 database](https://ensk.is/static/files/ensk_dict.db.zip)
+* [⇩ CSV document](https://ensk.is/static/files/ensk_dict.csv.zip)
+* [⇩ Plain text](https://ensk.is/static/files/ensk_dict.txt.zip)
+
 ## Background
 
 The author of the original dictionary, Geir T. Zoega (1857-1928),
@@ -27,17 +35,11 @@ updated and fixed in accordance with modern Icelandic orthography.
 Many additions have been made to bring the vocabulary into the 21st
 century. Various errors in the original text have also been corrected.
 
+# Contributing
+
 The raw dictionary text files are stored [here](data/dict/).
 
 Additions can be viewed [here](data/dict/_add.txt).
-
-## Download
-
-You can download the dictionary in the following formats:
-
-* [⇩ SQLite3 database](https://ensk.is/static/files/ensk_dict.db.zip)
-* [⇩ CSV document](https://ensk.is/static/files/ensk_dict.csv.zip)
-* [⇩ Plain text](https://ensk.is/static/files/ensk_dict.txt.zip)
 
 ## Deployment
 
