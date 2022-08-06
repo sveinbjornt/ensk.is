@@ -1611,3 +1611,10 @@ enlightened l. upplýstur, fróður
 understandable l. skiljanlegur
 psychologically ao. sálfræðilega
 experimenter n. tilraunamaður
+speech synthesis n. talgerving
+speech recognition n. talgreining
+artificial intelligence n. gervigreind
+AI n. stytt. á %[artificial intelligence]%
+anthropomorphism n. manngerving, manngervastefna
+#anthropomorphized
+#anthropomorphic
