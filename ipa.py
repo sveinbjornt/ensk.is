@@ -222,6 +222,15 @@ SKIP = frozenset(
         "militarize",
         "remilitarize",
         "self-hatred",
+        "afterword",
+        "all-powerful",
+        "biostatistical",
+        "felicific",
+        "law-giver",
+        "malform",
+        "monarchism",
+        "theocrat",
+        "unenlightening",
     )
 )
 

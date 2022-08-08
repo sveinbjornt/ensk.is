@@ -1609,6 +1609,8 @@ Cartesianism n. heimspeki(stefna) René Descartes
 unsystematic l. ókerfisbundinn, óskipulegur
 enlightened l. upplýstur, fróður; búinn að sjá ljósið
 unenlightened l. óupplýstur, illa upplýstur, ófróður; ekki búinn að sjá ljósið
+enlightening l. upplýsandi
+unenlightening l. óupplýsandi
 understandable l. skiljanlegur
 psychologically ao. sálfræðilega
 experimenter n. tilraunamaður
@@ -1657,10 +1659,12 @@ Kurdish l. kúrdneskur; kúrdneska (tungumál)
 angst n. angist
 angst-ridden l. angistarfullur
 criminalize s. glæpavæða, banna, gera refsivert
-decriminalize s. afglæpavæða
+decriminalize s. afglæpavæða, afnema refsingar fyrir
 biometry n. lífmælingar
 biometrics n. lífmælingar
+biometric l. lífmælingalegur, lífmælinga-
 biostatistics n. líftölfræði
+biostatistical l. líftölfræðilegur, líftölfræði-
 militarize s. hervæða
 remilitarize s. endurhervæða
 militarization n. hervæðing
@@ -1669,4 +1673,27 @@ self-hatred n. sjálfshatur
 self-deceiving l. sjálfsblekkjandi
 self-deception n. sjálfsblekking
 self-criticism n. sjálfsgagnrýni
+self-government n. sjálfstjórn
 minefield n. jarðsprengjusvæði
+relaxing l. afslappandi
+implausibility n. ósennileiki
+afterword n. eftirmáli
+theocrat n. klerkastjórnarsinni, guðstjórnarsinni (sjá %[theocracy]%)
+malform s. afmynda, vanskapa
+malformed l. afmyndaður, vanskapaður
+felicific l. gleðilegur, gleðjandi, sælulegur
+all-powerful l. almáttugur, allsráðandi
+monarchist n. konungssinni, konungsveldissinni
+unanswered l. ósvaraður
+individualism n. einstaklingshyggja
+individualistic l. einstaklingshyggju-
+individualist n. einstaklingshyggumaður, einstaklingshyggjusinni
+monarchism n. konungsríkisstefna, konungsveldisstefna
+ideological l. hugmyndafræðilegur, hugmyndafræði-
+ideologically ao. hugmyndafræðilega
+ideologist n. hugmyndafræðingur
+ideology n. hugmyndafræði
+climatology n. veðurfarsfræði
+climatological l. veðurfarsfræðilegur, veðurfars-
+intelligentsia n. menntastétt, menntamannastétt
+sacrosanct l. heilagur, friðhelgur

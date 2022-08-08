@@ -376,7 +376,6 @@ repetitive
 unhelpful
 impermissible
 ceaselessly
-intelligentsia
 peddler
 lemma n.
 lemmatize s.
@@ -392,7 +391,6 @@ deistic
 wholeheartedly
 essentially
 compelling
-law-giver
 Newtonian
 Newtonianism
 anti-religious
@@ -440,8 +438,6 @@ specificity
 Islamism
 pivotal
 constringe s.
-climatology
-climatological
 determinist
 sophistication
 counterreaction
@@ -455,10 +451,6 @@ overemphasis
 overemphasize
 presupposition
 free trader
-ideological
-ideologically
-ideologist
-ideology
 Whig
 self-identity
 counterexample
@@ -473,12 +465,6 @@ meliorist
 meliorism
 deflationary
 deflation
-individualism
-individualistic
-individualist
-monarchist
-all-powerful
-unanswered
 independently
 diabolist
 self-contradiction
@@ -488,12 +474,9 @@ determinist
 determinism
 nation-state
 shanghai s.
-enlightening l.
-felicific l.
 self-satisfaction
 self-satisfied
 well-run l.
-theocrat
 classless
 self-determination
 so-called
@@ -505,7 +488,6 @@ discoverable
 normative l.
 arguable
 arguably
-malformed
 intersubjective l.
 hard-wired l.
 common-sensical l.
@@ -562,7 +544,6 @@ dysmorphic
 afterword
 extrapolate
 extrapolation
-implausibility
 perceptual
 selectivity
 curved
@@ -576,7 +557,6 @@ imposed
 selective
 involved
 unwarranted
-self-criticism
 philanderer
 self-satisfied
 temperamental
@@ -600,3 +580,4 @@ trafficking
 undocumented
 heartlessness
 serendipity
+impostor syndrome
