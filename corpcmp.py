@@ -10,7 +10,7 @@ from db import EnskDatabase
 lemmatizer = WordNetLemmatizer()
 
 
-with open("texts/ma.txt", "r") as f:
+with open("texts/quine.txt", "r") as f:
     corpus = f.read()
 
 # Initialize database singleton

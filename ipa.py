@@ -209,6 +209,19 @@ SKIP = frozenset(
         "epistemologically",
         "Cartesianism",
         "unsystematic",
+        "homebrew",
+        "phenomenological",
+        "relativistic",
+        "weltanschauung",
+        "weltschmerz",
+        "well-known",
+        "angst-ridden",
+        "biometry",
+        "biostatistics",
+        "kilocalorie",
+        "militarize",
+        "remilitarize",
+        "self-hatred",
     )
 )
 

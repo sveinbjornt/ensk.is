@@ -1605,16 +1605,68 @@ luminosity n. ljósafl
 unthinkable l. óhugsandi, óhugsanlegur
 socially ao. félagslega
 Cartesian l. sem tengist heimspeki René Descartes; n. fylgismaður heimspeki Descartes
-Cartesianism n. heimspeki René Descartes
+Cartesianism n. heimspeki(stefna) René Descartes
 unsystematic l. ókerfisbundinn, óskipulegur
-enlightened l. upplýstur, fróður
+enlightened l. upplýstur, fróður; búinn að sjá ljósið
+unenlightened l. óupplýstur, illa upplýstur, ófróður; ekki búinn að sjá ljósið
 understandable l. skiljanlegur
 psychologically ao. sálfræðilega
 experimenter n. tilraunamaður
 speech synthesis n. talgerving
+speech synthesizer n. talgervill
 speech recognition n. talgreining
 artificial intelligence n. gervigreind
 AI n. stytt. á %[artificial intelligence]%
+homebrew n. heimabrugg
+inculcation n. innræting
+limited l. takmarkaður; endanlegur
+desiccated l. þurrkaður, þurr (sjá %[desiccate]%)
+self-confident l. sjálfsöruggur, fullviss um sjálfan sig
+self-confidence n. sjálsöryggi
+zeitgeist n. tíðarandi (úr þýsku)
+weltschmerz n. lífsleiði, heimsangist, óánægja með ástand heimsins (úr þýsku)
+weltanschauung n. heimssýn (úr þýsku)
+world-weary l. lífsleiður, lífsþreyttur (bókst. heimsþreyttur)
+world-weariness n. lífsleiði, lífsþreyta
+obsession n. þráhyggja
+relativist n. afstæðishyggjumaður; l. afstæðishyggju-
+relativistic l. afstæðishyggju-
+relativism n. afstæðishyggja
+witch hunt n. nornaveiðar
+undramatic n. ódramatískur
+phenomenology n. fyrirbærafræði
+phenomenologist n. fyrirbærafræðingur
+phenomenological l. fyrirbærafræðilegur
+well-known l. vel eða almennt þekktur, frægur; vel vitaður; vel kunnugur
 anthropomorphism n. manngerving, manngervastefna
 #anthropomorphized
-#anthropomorphic
+anthropomorphic l. manngervingar-
+afterlife n. framhaldslíf, líf eftir dauðann
+asylum seeker n. hælisleitandi
+academia n. háskólasamfélagið, fræðasamfélagið; [he's in academia] hann er háskólamaður
+kilocalorie n. eitt þúsund hitaeiningar (sjá %[calorie]%)
+docent n. dósent
+PhD n. doktorsgráða, doktorspróf
+FRS n. stytt. á [Fellowship of the Royal Society]; meðlimur hins konunglega breska vísindafélags
+neural network n. tauganet
+maddening l. ærandi
+nightmarish l. martraðarkenndur, martraðar-
+malarial l. malaríu-
+Kurd n. Kúrdi
+Kurdish l. kúrdneskur; kúrdneska (tungumál)
+angst n. angist
+angst-ridden l. angistarfullur
+criminalize s. glæpavæða, banna, gera refsivert
+decriminalize s. afglæpavæða
+biometry n. lífmælingar
+biometrics n. lífmælingar
+biostatistics n. líftölfræði
+militarize s. hervæða
+remilitarize s. endurhervæða
+militarization n. hervæðing
+fine-tune s. fínstilla
+self-hatred n. sjálfshatur
+self-deceiving l. sjálfsblekkjandi
+self-deception n. sjálfsblekking
+self-criticism n. sjálfsgagnrýni
+minefield n. jarðsprengjusvæði
