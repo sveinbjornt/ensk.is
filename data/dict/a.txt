@@ -470,7 +470,7 @@ advertence n. gaumur, athygli
 advertise s. auglýsa; láta vita; vara við ([of])
 advertiser n. auglýsingablað; auglýsandi
 advertisement n. auglýsing
-advice n. ráð ([to give ~, to act on ~]); fregn ([according to last ~s]); tilkynning
+advice n. ráð ([to give ~, to act on ~]); ráðgjöf ([you pay for my advice]); fregn ([according to last ~s]); tilkynning
 adviser n. ráðgjafi
 advisor n. ráðgjafi
 advice boat n. njósnaskip
@@ -479,7 +479,7 @@ advise s. láta vita; ráða; ráðgast (við e-n [with])
 advised l. íhugaður
 advisedly ao. af ásettu ráði
 advisory l. ráðgefandi
-advocacy n. vörn
+advocacy n. vörn, málfærsla, málflutningur
 advocate n. málfærslumaður; talsmaður; s. verja, mæla fram með
 advocateship n. málfærslumannsembætti; málsvörn
 advowson n. veitingarréttur til kirkjulegs embættis

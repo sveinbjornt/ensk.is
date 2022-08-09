@@ -231,6 +231,10 @@ SKIP = frozenset(
         "monarchism",
         "theocrat",
         "unenlightening",
+        "left-wing",
+        "right-wing",
+        "obstipation",
+        "monoglot",
     )
 )
 

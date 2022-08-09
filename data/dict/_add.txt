@@ -1192,8 +1192,8 @@ orgy n. (kynlífs)svall, svallveisla, orgía
 dildo n. gervilimur (kynlífsleikfang)
 mage n. seiðkarl, galdrakarl; sjá %[magician]%
 octopus n. kolkrabbi
-anhedonia n. vansæld, vansæla, gleðileysi
-anhedonic l. vansæll, gleðilaus
+anhedonia n. vansæld, vansæla, gleðileysi, nautnaleysi
+anhedonic l. vansæll, gleðilaus, nautnalaus
 dysphoria n. eirðarleysi, þunglyndi, vanlíðan
 dysphoric l. eirðarlaus, þunglyndur, óhamingjusamur
 gnoll n. e.k. hundmenni, hundingi
@@ -1364,11 +1364,12 @@ criteria n. ft. sjá %[criterion]%
 originally ao. upphaflega, upprunalega; frumlega, einkennilega; sjá %[original]%
 infrared l. innrauður, infrarauður; [~ light] innrautt ljós
 biomass n. lífmassi
-NATO n. Atlantshafsbandalagið; stytt. á [North Atlantic Treaty Organization]
+NATO n. stytt. á [North Atlantic Treaty Organization]; Atlantshafsbandalagið
 polyphony n. fjölröddun, pólýfónía
 polyphonic l. fjölraddaður
-basketball n. körfubolti, körfuknattleikur
+basketball n. körfubolti, körfuknöttur; körfuknattleikur, körfuboltaleikur
 sensor n. skynjari, nemi; [motion ~] hreyfiskynjari
+motion sensor n. hreyfiskynjari
 browser n. vafri, netvafri, vefskoðari
 Atlantic l. Atlantshafs-
 role n. hlutverk
@@ -1601,7 +1602,7 @@ undercurrent n. undiralda; undirstraumur
 infinitely ao. óendanlega
 homegrown l. heimaræktaður
 empiricist n. raunhyggjumaður (sjá %[empiricism]%)
-luminosity n. ljósafl
+luminosity n. ljósafl; lýsing
 unthinkable l. óhugsandi, óhugsanlegur
 socially ao. félagslega
 Cartesian l. sem tengist heimspeki René Descartes; n. fylgismaður heimspeki Descartes
@@ -1641,7 +1642,6 @@ phenomenologist n. fyrirbærafræðingur
 phenomenological l. fyrirbærafræðilegur
 well-known l. vel eða almennt þekktur, frægur; vel vitaður; vel kunnugur
 anthropomorphism n. manngerving, manngervastefna
-#anthropomorphized
 anthropomorphic l. manngervingar-
 afterlife n. framhaldslíf, líf eftir dauðann
 asylum seeker n. hælisleitandi
@@ -1673,7 +1673,7 @@ self-hatred n. sjálfshatur
 self-deceiving l. sjálfsblekkjandi
 self-deception n. sjálfsblekking
 self-criticism n. sjálfsgagnrýni
-self-government n. sjálfstjórn
+self-government n. sjálfstjórn; sjálfstjórnarvald
 minefield n. jarðsprengjusvæði
 relaxing l. afslappandi
 implausibility n. ósennileiki
@@ -1683,17 +1683,51 @@ malform s. afmynda, vanskapa
 malformed l. afmyndaður, vanskapaður
 felicific l. gleðilegur, gleðjandi, sælulegur
 all-powerful l. almáttugur, allsráðandi
-monarchist n. konungssinni, konungsveldissinni
 unanswered l. ósvaraður
 individualism n. einstaklingshyggja
-individualistic l. einstaklingshyggju-
-individualist n. einstaklingshyggumaður, einstaklingshyggjusinni
-monarchism n. konungsríkisstefna, konungsveldisstefna
+individualistic l. einstaklingshyggjulegur, einstaklingshyggju-
+individualist n. einstaklingshyggjumaður, einstaklingshyggjusinni
+monarchist n. konungssinni, konungsveldissinni, einveldissinni
+monarchism n. einveldisstefna, konungsveldisstefna
+absolute monarch n. einvaldur
+absolute monarchy n. einveldisríki, ríki þar sem konungur er einvaldur og öllu ræður
 ideological l. hugmyndafræðilegur, hugmyndafræði-
 ideologically ao. hugmyndafræðilega
-ideologist n. hugmyndafræðingur
 ideology n. hugmyndafræði
+ideologue n. hugmyndafræðingur, talsmaður e-r hugmyndafræði
 climatology n. veðurfarsfræði
+climatologist n. veðurfarsfræðingur
 climatological l. veðurfarsfræðilegur, veðurfars-
 intelligentsia n. menntastétt, menntamannastétt
 sacrosanct l. heilagur, friðhelgur
+wholeheartedly ao. heilshugar, af heilum hug, af öllu hjarta
+unhelpful l. óhjálpsamur, óhjálplegur; ógagnlegur
+constipated l. með harðlífi, hægðatregðu
+right-wing l. hægrisinnaður, á hægri væng stjórnmála
+right-winger n. hægrimaður (í stjórnmálum)
+rightist n. hægrimaður (í stjórnmálum)
+left-wing l. vinstrisinnaður, á vinstri væng stjórnmála
+left-winger n. vinstrimaður (í stjórnmálum)
+leftist n. vinstrimaður (í stjórnmálum)
+centrist n. miðjumaður (í stjórnmálum)
+centrism n. miðjustefna (í stjórnmálum)
+obstipation n. alvarleg hægðatregða, harðlífi
+mentality n. hugarfar
+swimming pool n. sundlaug
+class system n. stéttakerfi
+Nordic l. norrænn; [the ~ countries, the ~s] Norðurlöndin
+tommy gun n. e.k. hríðskotabyssa
+mass production n. fjöldaframleiðsla
+monolingual l. eintyngdur
+multilingual l. fjöltyngdur
+monoglot n. eintyngd manneskja; l. eintyngdur
+genocide n. þjóðarmorð
+genocidal l. þjóðarmorðs-
+democratize s. lýðræðisvæða
+democratization n. lýðræðisvæðing
+pacifist n. friðarsinni
+pacifism n. friðarhyggja
+pacifistic n. friðarhyggju-
+
+#anthropomorphized
+

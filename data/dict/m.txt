@@ -127,7 +127,7 @@ malevolence n. illvilji, illgirni
 malevolent l. illviljaður, illgjarn
 malfeasance n. afbrot, afglöp í embættisrekstri
 malfeasant n. afbrotamaður
-malformation n. afmyndun, vansköpun
+malformation n. afmyndun, vansköpun, vanskapnaður
 malice n. illgirni; keskni; fjandskapur, hatur, óvildarhugur ([bear ~ towards])
 malicious l. illgjarn
 maliciousness n. illgirni, illska
@@ -927,7 +927,7 @@ misconduct n. ill hegðun; röng aðferð; yfirsjón; s. stýra illa eða rangle
 misconjecture s. giska skakkt á; n. skökk (röng) ágiskun
 misconstruction n. skökk þýðing
 misconstrue s. leggja skakka þýðingu í
-miscount n. skökk talning
+miscount n. skökk talning; s. telja skakkt
 miscreated l. vanskapaður
 miscreation n. vanskapnaður
 miscreant n. níðingur
