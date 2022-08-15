@@ -8,7 +8,8 @@ microwave n. örbylgja; örbylgjuofn; s. hita í örbylgjuofni
 microwave oven n. örbylgjuofn
 helicopter n. þyrla; [~ pilot] þyrluflugmaður
 computer n. tölva, reiknivél; e-r sem reiknar
-algorithm n. algrími, reiknirit
+algorithm n. algrím, reiknirit
+algorithmic l. reiknirits-, algríms-, algrímskur
 heliocentrism n. sólmiðjukenning
 heliocentric l. sólmiðju-
 geoheliocentrism n. jarðsólmiðjukenning stjarnfræðingsins Tycho Brahe ([the Tychonic system])
@@ -427,7 +428,7 @@ neurochemical l. taugaefnafræðilegur
 vector n. vigur, vektor
 cannabis n. kannabis (plöntutegund sem er vímugjafi)
 revenant n. afturganga, uppvakningur (bókst. e-r sem snýr aftur)
-bullshit n. kjaftæði, þvæla; s. halda fram kjaftæði eða þvælu; blekkja; ljúga ([he was ~ting all along])
+bullshit n. kjaftæði, þvæla; nautaskítur; s. halda fram kjaftæði eða þvælu; blekkja; ljúga ([he was ~ting all along])
 shades n. ft. skyggð gleraugu, sólgleraugu
 econometrics n. ft. hagmælingar; hagtölfræði
 cromulent l. ásættanlegur (grínorð úr teiknimyndaþáttunum [The Simpsons])
@@ -1182,6 +1183,7 @@ discombobulate s. rugla, slá út af laginu, koma í uppnám
 discombobulated l. ruglaður, sleginn út af laginu
 discombobulation n. ruglingur, ringulreið; sjá %[discombobulate]%
 quintillion n. trilljón (10 í 18. veldi)
+xenophobia n. útlendingahatur, útlendingaótti, ótti við útlendinga eða utanaðkomandi
 xenophobe n. e-r sem hræðist útlendinga, útlendingahatari
 xenophobic l. útlendingahatandi, hræddur við útlendinga eða utanaðkomandi
 xylophone n. sílófónn (ásláttarhljóðfæri)
@@ -1261,6 +1263,7 @@ antisemitic l. gyðingahatandi, fjandsamlegur gyðingum
 anti-inflammatory l. bólgueyðandi
 anti-aircraft l. gegn flugvélum, loftvarna-; [~ system] loftvarnakerfi; [~ gun] loftvarnabyssa
 anticlockwise l. & ao. rangsælis
+counterclockwise l. & ao. rangsælis
 clockwise l. & ao. réttsælis
 IRC n. stytt. á [Internet Relay Chat]; spjallkerfi á internetinu
 intravenous l. innan æða, innanæða-, í æð
@@ -1668,11 +1671,13 @@ biostatistical l. líftölfræðilegur, líftölfræði-
 militarize s. hervæða
 remilitarize s. endurhervæða
 militarization n. hervæðing
+remilitarization n. endurhervæðing
 fine-tune s. fínstilla
 self-hatred n. sjálfshatur
 self-deceiving l. sjálfsblekkjandi
 self-deception n. sjálfsblekking
 self-criticism n. sjálfsgagnrýni
+self-critical l. sjálfsgagnrýnandi, gagnrýnn á sjálfan sig
 self-government n. sjálfstjórn; sjálfstjórnarvald
 minefield n. jarðsprengjusvæði
 relaxing l. afslappandi
@@ -1716,7 +1721,7 @@ mentality n. hugarfar
 swimming pool n. sundlaug
 class system n. stéttakerfi
 Nordic l. norrænn; [the ~ countries, the ~s] Norðurlöndin
-tommy gun n. e.k. hríðskotabyssa
+tommy gun n. e.k. hríðskotabyssa ([Thompson submachine gun])
 mass production n. fjöldaframleiðsla
 monolingual l. eintyngdur
 multilingual l. fjöltyngdur
@@ -1728,6 +1733,101 @@ democratization n. lýðræðisvæðing
 pacifist n. friðarsinni
 pacifism n. friðarhyggja
 pacifistic n. friðarhyggju-
-
-#anthropomorphized
-
+sabotage n. skemmdarverk, spellvirki; skemmdarverkastarfsemi; s. skemma, spilla fyrir, eyðileggja
+saboteur n. skemmdarvargur, skemmdarverkamaður, spellvirki
+parsnip n. pastínakka, pastinakk, nípa (matjurt)
+unshaven l. órakaður
+income tax n. tekjuskattur
+foreseeable l. fyrirsjáanlegur
+unforeseeable l. ófyrirsjáanlegur
+greenfinch n. grænfinka (fuglategund)
+Martian n. marsbúi; l. marsneskur, frá reikistjörnunni Mars
+monist n. einhyggjumaður (sjá %[monism]%)
+unarmed l. óvopnaður, vopnlaus
+timeless l. tímalaus; sígildur
+timelessness n. tímaleysi
+timelessly ao. tímalaust
+supernova n. sprengistjarna; stjörnusprenging
+API n. stytt. á [Application Programming Interface]; forritaskil
+hedonism n. sældarhyggja, nautnahyggja, hedónismi; nautnalíf
+hedonist n. nautnaseggur, nautnahyggjumaður, nautnasinni, hedónisti
+hedonistic l. nautna-, nautnahyggju-, hedónista- (sjá %[hedonist]%)
+epicurism n. sjá %[epicureanism]%
+tuna n. túnfiskur
+albacore n. e.k. túnfiskur
+barracuda n. barrakúði (e.k. ránfiskur)
+sandpaper n. sandpappír
+unclear l. óljós, óskýr
+sweating n. svitnun
+self-defense n. sjálfsvörn
+tiredness n. þreyta
+shack n. skúr, hreysi, frumstæður kofi
+speedboat n. hraðbátur, spíttbátur
+motorboat n. vélbátur, mótorbátur
+periscope n. sjónpípa, hringsjá
+heterosexual l. gagnkynhneigður; n. gagnkynhneigð manneskja
+utopianism n. draumalandsstefna, staðleysustefna, trú á fyrirmyndarríki (sjá %[utopia]%)
+Philistine l. filistínskur; menningarsnauður; n. Filistei, Filisti; menningarsnauð manneskja
+specialization n. sérhæfing, sérhæfni
+Bolshevik n. bolséviki (sjá %[Bolshevism]%)
+Bolshevism n. Bolsévismi (stefna og aðferðir bolsévika í Rússlandi)
+moral philosophy n. siðfræði
+fingernail n. fingurnögl, nögl (á fingri)
+larcenist n. þjófur
+precociousness n. bráðþroski
+deflation n. verðhjöðnun
+ATM n. stytt. á [automated teller machine]; hraðbanki
+vampiric l. vampírulegur, vampíru-
+vampirish l. vampírulegur, vampíru-
+brainwash s. heilaþvo
+brainwashing n. heilaþvottur
+snobbery n. snobb, uppskafningsháttur, broddborgaraskapur, mont
+sine qua non l. nauðsynlegur (úr lat., bókst. án hvers ekki)
+overpowering l. yfirþyrmandi
+doorknob n. hurðarhúnn
+firearm n. skotvopn
+soccer n. fótbolti (Band.)
+cheekbone n. kinnbein
+Prussia n. Prússland
+hyperinflation n. óðaverðbólga
+paperwork n. pappírsvinna
+warship n. herskip
+roadblock n. vegatálmi; hindrun
+airstrike n. loftárás
+mass-produce s. fjöldaframleiða
+backseat n. aftursæti, baksæti
+Shetlands n. Hjaltlandseyjar
+fedora n. e.k. hattur
+streetcar n. götuvagn
+postwar l. eftirstríðs-
+bookbinding n. bókbindaraiðn
+middleman n. milligönguaðili, milligöngumaður, milliliður
+sibling n. systkin
+reinvent s. enduruppgötva
+weather-beaten l. veðurbarinn
+anthropogenic l. af mannavöldum, manngerður
+fertilizer n. áburður
+ecosystem n. vistkerfi
+spaceflight n. geimflug
+battleground n. vígvöllur
+Anglophone l. enskumælandi
+superstar n. stórstjarna
+arsonist n. brunavargur
+self-destruction n. sjálfstortíming, sjálfseyðing
+whisker n. veiðihár
+superwoman n. ofurkona
+boyfriend n. kærasti, unnusti
+lipstick n. varalitur
+grandpa n. afi (óforml., sjá %[grandfather]%)
+grandma n. amma (óforml., sjá %[grandmother]%)
+pseudocrater n. gervigígur
+radioactive l. geislavirkur
+radioactivity n. geislavirkni
+industrialization n. iðnvæðing
+industrialize s. iðnvæða
+Copenhagen n. Kaupmannahöfn
+schoolchild n. skólabarn
+Valhalla n. Valhöll
+doughnut n. kleinuhringur
+stranglehold n. kverkatak
+unconvinced l. ósannfærður

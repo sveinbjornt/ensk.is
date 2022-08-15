@@ -9,3 +9,4 @@ DONE * Optimize DB generation (don't commit on each insert)
 * Find IPA phonetic spelling for *all* words via Wiktionary
 * Feedback mechanism for missing words
 * Separate exact match from partial matches visually
+* Generate .dictionary file for macOS, make available for download

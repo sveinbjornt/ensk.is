@@ -1553,9 +1553,9 @@ snipe n. mýrisnípa, hrossagaukur ([common ~]); s. skjóta úr launsátri (sjá
 snivel n. hor (í nefi); s. hafa horrennsli; skæla (um börn); vola, kjökra
 sniveler n. volari
 snively l. horfullur; skælandi
-snob n. montari, uppskafningur, broddborgari
-snobbish l. uppskafningslegur, montinn
-snobbism n. uppskafningsháttur, broddborgaraskapur, mont
+snob n. sá eða sú sem er snobbaður, montari, uppskafningur, broddborgari
+snobbish l. snobbaður, uppskafningslegur, montinn
+snobbism n. snobb, uppskafningsháttur, broddborgaraskapur, mont
 snood n. hárband
 snooze s. blunda, móka; n. blundur. dúr
 snore s. hrjóta; n. hrota

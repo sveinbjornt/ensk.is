@@ -235,6 +235,16 @@ SKIP = frozenset(
         "right-wing",
         "obstipation",
         "monoglot",
+        "monist",
+        "pacifistic",
+        "epicurism",
+        "remilitarization",
+        "vampiric",
+        "vampirish",
+        "Prussia",
+        "pseudocrater",
+        "Shetlands",
+        "Valhalla",
     )
 )
 

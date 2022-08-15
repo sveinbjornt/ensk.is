@@ -11,7 +11,7 @@ ice-free l. íslaus ([~ port, waters])
 ice spur n. mannbroddur
 Iceland n. Ísland; [~ moss] fjallagrös; [~ spar] silfurberg
 Icelander n. Íslendingur
-Icelandic l. íslenskur
+Icelandic l. íslenskur; n. íslenska (tungumál)
 ichthyology n. fiskafræði
 ichthyologist n. fiskafræðingur
 icicle n. frostdingull, grýlukerti
@@ -249,7 +249,7 @@ imperfection n. ófullkomleiki, galli
 imperforable l. sem ekki verður borað í gegnum
 imperforated l. ógegnumboraður, holulaus
 imperial l. keisaralegur; ríkis-; keisaradæmis-; [~ parliament] ríkisþingið í Lundúnum
-imperialism n. heimsvaldastefna
+imperialism n. heimsvaldastefna, heimsveldisstefna
 imperialist n. heimsvaldastefnumaður; heimskeisaravinur
 imperiality n. keisaratign
 imperialize s. gera keisaralegt; gera að keisararíki
