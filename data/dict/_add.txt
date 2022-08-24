@@ -37,6 +37,7 @@ video n. myndband, myndupptaka
 wishlist n. óskalisti
 carbon tax n. kolefnisskattur
 hippie n. hippi
+hippy n. hippi
 briefcase n. skjalataska
 television n. sjónvarp; sjónvarpstæki
 garage n. bílskúr
@@ -88,6 +89,7 @@ neoliberal l. nýfrjálshyggju-; n. nýfrjálshyggjumaður, nýfrjálshyggjusinn
 creativity n. sköpun, sköpunargáfa
 ecology n. vistfræði
 ecological l. vistfræðilegur, vistfræði-; [we are facing ~ collapse]
+ecologist n. vistfræðingur
 encryption n. dulkóðun
 encrypt s. dulkóða
 girlfriend n. kærasta, unnusta; vinkona
@@ -161,6 +163,7 @@ reload s. endurhlaða
 handbag n. handtaska
 barcode n. strikamerki
 secularism n. veraldarhyggja (lögmálið að ríkisvald eigi að vera aðskilið frá trúfélögum)
+secularist n. veraldarhyggjusinni, veraldarhyggjumaður; sjá %[secularism]%
 press release n. fréttatilkynning; [he sent out a ~] hann sendi frá sér fréttatilkynningu
 hangar n. flugskýli, flugvélaskýli; skáli eða byrgi fyrir loftför
 buzzword n. tískuorð
@@ -276,8 +279,8 @@ news anchor n. fréttaþulur
 paleolithic l. steinaldar-
 neolithic l. nýsteinaldar-
 superstate n. stórveldi; ríki myndað úr mörgum smærri ríkjum
-stalinist n. stalínisti (fylgismaður stjórnaraðferða Jósefs Stalín); l. stalínskur
-leninist n. lenínisti (fylgismaður hugmyndafræði Vladimírs Lenín); l. lenínskur
+Stalinist n. stalínisti (fylgismaður stjórnaraðferða Jósefs Stalín); l. stalínskur
+Leninist n. lenínisti (fylgismaður hugmyndafræði Vladimírs Lenín); l. lenínskur
 conglomeration n. samsteypa
 conglomerate n. samsteypa; s. steypa saman
 conglomerated l. samsteyptur, samsettur
@@ -289,6 +292,7 @@ stereotype n. staðalímynd, staðalmynd
 witchcraft n. nornafár, fjölkynngi, galdrar
 smug l. sjálfumglaður, sjálfsánægður
 sociological l. (sam)félagsfræðilegur, félagsvísindalegur
+sociologist n. (sam)félagsfræðingur
 societal l. samfélagslegur, félagslegur, þjóðfélagslegur
 sophisticated l. fágaður; háþróaður; margbrotinn
 spectacular l. stórbrotinn, tilkomumikill
@@ -393,6 +397,7 @@ consultancy n. ráðgjöf; ráðgjafarstofa
 demographic l. lýðfræðilegur
 demography n. lýðfræði
 demographics n. ft. lýðfræðiupplýsingar, lýðfræðileg tölfræði
+demographer n. lýðfræðingur
 downtown n. miðbær, miðborg; l. & ao. miðbæjar-, í miðbænum ([I visited ~ San Francisco, it was a place ~])
 evaluation n. mat ([a comprehensive ~ of his performance])
 evaluate s. meta
@@ -496,6 +501,7 @@ electronic microscope n. rafeindasmásjá
 electronic warfare n. raftæknihernaður, rafrænn hernaður
 proton n. róteind
 meson n. miðeind
+neutrino n. fiseind
 photon n. ljóseind
 elementary particle n. öreind
 neonate n. nýburi
@@ -535,6 +541,7 @@ orgasm n. fullnæging
 bacterial l. gerla-, bakteríu-
 hallucinatory l. ofskynjunar-
 hallucinogen n. ofskynjunarlyf, ofskynjunarefni
+hallucinogenic l. ofskynjunarvaldandi; n. ofskynjunarvaldur
 accessibility n. aðgengi, aðgengileiki
 digital l. stafrænn
 eugenic l. kynbóta-, mannkynbóta-
@@ -781,6 +788,7 @@ endogenous l. kominn innan frá (lífveru) (líffræðilegt hugtak)
 endogamous l. innvensla-
 endogamy n. innvensl (hjúskapur innan sama ættflokks)
 multicultural l. fjölmenningar-; [~ society] fjölmenningarsamfélag
+multiculturalism n. fjölmenning, fjölmenningarstefna
 multifaceted l. marghliða, margþættur, fjölbreyttur
 concept n. hugtak, almenn hugmynd
 conceptual l. hugtaka-
@@ -863,6 +871,7 @@ osmium n. osmín, osmíum (frumefni)
 plutonium n. plúton, plútóníum (frumefni)
 europium n. evrópín, evrópíum (frumefni)
 californium n. kalifornín, kaliforníum (frumefni)
+manganese n. mangan (frumefni)
 Buddhism n. búddismi (austurlensk trúarbrögð)
 Buddhist n. búddisti (sjá %[Buddhism]%); l. búddista-
 nirvana n. nirvana, algleymi (ástand fullkomins friðar og blessunar í búddískri trú)
@@ -1514,7 +1523,8 @@ phthalimide n. þalimíð
 dryer n. þurrkofn; þurrkari
 electrocution n. að fá raflost
 electrocute s. gefa e-u eða e-m raflost eða rafstuð
-urbanisation n. þéttbýlismyndun, þéttbýlisvæðing
+urbanization n. þéttbýlismyndun, þéttbýlisvæðing
+suburbanization n. úthverfavæðing
 conurbation n. þéttbýlissvæði
 voidability n. ógildanleiki
 intercultural n. þvermenningarlegur
@@ -1528,9 +1538,10 @@ evisceration n. fjarlæging innyfla; kviðskurður
 trichromatic l. þrílita-, þrílitaður
 macroeconomic l. þjóðhagslegur
 macroeconomics n. ft. þjóðhagfræði, heildarhagfræði
+macroeconomist n. þjóðhagfræðingur
 microeconomic l. rekstrarhagfræðilegur
 microeconomics n. ft. rekstrarhagfræði
-theremin n. þeremín (rafmagnshljóðfæri)
+theremin n. þeremín (e.k. rafmagnshljóðfæri)
 felting n. þæfing
 piezo n. þrýstirafíhlutur
 macroprudential l. þjóðhagsvarúðar-
@@ -1663,6 +1674,7 @@ angst n. angist
 angst-ridden l. angistarfullur
 criminalize s. glæpavæða, banna, gera refsivert
 decriminalize s. afglæpavæða, afnema refsingar fyrir
+decriminalization n. afglæpavæðing
 biometry n. lífmælingar
 biometrics n. lífmælingar
 biometric l. lífmælingalegur, lífmælinga-
@@ -1684,6 +1696,7 @@ relaxing l. afslappandi
 implausibility n. ósennileiki
 afterword n. eftirmáli
 theocrat n. klerkastjórnarsinni, guðstjórnarsinni (sjá %[theocracy]%)
+theocratic l. klerkastjórnarlegur, klerkastjórnar-
 malform s. afmynda, vanskapa
 malformed l. afmyndaður, vanskapaður
 felicific l. gleðilegur, gleðjandi, sælulegur
@@ -1831,3 +1844,170 @@ Valhalla n. Valhöll
 doughnut n. kleinuhringur
 stranglehold n. kverkatak
 unconvinced l. ósannfærður
+circumlunar l. í kringum eða umhverfis tunglið
+cartography n. kortagerð
+nonreligious l. ekki trúaður, trúlaus
+handwritten l. handskrifaður
+antihero n. andhetja
+surrounded l. umkringdur (af [by])
+seagull n. mávur, máfur (fugl)
+Scandinavia n. Skandinavía
+Scandinavian l. skandinavískur; n. skandinavíska (tungumál)
+unpredictable l. ófyrirsjáanlegur
+flamethrower n. eldvarpa
+toothpaste n. tannkrem
+foreskin n. forhúð
+cliché n. klisja
+Scotland n. Skotland
+bookshop n. bókabúð
+chauffeur n. bílstjóri, vagnstjóri
+influencer n. áhrifavaldur
+sandstone n. sandsteinn
+snowman n. snjókarl
+city-state n. borgríki
+rainforest n. regnskógur
+yoghurt n. jógúrt
+billionaire n. milljarðamæringur
+cheerleader n. klappstýra
+weekend n. helgi
+kindergarten n. leikskóli
+mailbox n. póstkassi
+wavelength n. bylgjulengd
+doorbell n. dyrabjalla
+taxpayer n. skattgreiðandi
+backache n. bakverkur
+rapist n. nauðgari
+legalization n. lögleiðing
+peanut n. jarðhneta
+peanut butter n. hnetusmjör
+pharmacological l. lyfjafræðilegur
+neurosurgeon n. taugaskurðlæknir
+neuropsychologist n. taugasálfræðingur
+neuropsychological l. taugasálfræðilegur
+goldmine n. gullnáma
+telly n. sjónvarp (óforml.); sjá %[television]%
+apartheid n. aðskilnaðarstefna
+autobiographical l. sjálfsævisögulegur
+coconut n. kókoshneta
+leukemia n. hvítblæði
+underestimate s. vanmeta; vantelja
+professionalism n. fagmennska, atvinnumennska
+chimp n. simpansi (stytting á %[chimpanzee]%)
+horticulturalist n. sjá %[horticulturist]%
+watermelon n. vatnsmelóna (ávöxtur)
+self-discipline n. sjálfsagi
+sunflower n. sólblóm
+saltwater n. saltvatn
+dreamlike l. draumkenndur, líkur draumi
+unscientific l. óvísindalegur
+lightbulb n. ljósapera
+demonic l. djöfullegur
+megalomania n. mikilmennskubrjálæði, stórmennskubrjálæði
+megalomaniac n. e-r sem haldinn er mikilmennskubrjálæði
+megalomaniacal l. mikilmennskubrjálaður, stórmennskubrjálaður
+hectare n. hektari (10 þús. fermetrar)
+albino n. albínói
+unmistakeable l. sjá %[unmistakable]%
+quinoa n. kínóa
+chickpea n. kjúklingabaun
+cassava n. kassava, kassavarót
+basketry n. körfugerð
+potbelly n. ístra
+soapstone n. kléberg
+powerlessness n. vanmætti, máttleysi
+simian l. apalegur, apa-; n. api, dýr af apaætt
+uncorrupt l. óspilltur, óskemmdur
+behaviourism n. atferlishyggja
+behaviourist n. atferlishyggjusinni, atferlishyggjumaður
+graffiti n. veggjakrot, veggjalist
+oncology n. æxlafræði, krabbameinslæknisfræði
+unsayable l. ósegjanlegur
+trillion n. billjón (þúsund milljarðar)
+uselessness n. gagnsleysi
+parenthood n. foreldrahlutverk (sjá %[parent]%)
+café n. kaffihús
+memo n. minnisblað, minnismiði
+faceless l. andlitslaus
+millisecond n. millísekúnda (einn þúsundasti úr sekúndu)
+cordless l. þráðlaus, snúrulaus
+horsemeat n. hrossakjöt
+streetlight n. götuljós
+lamp post n. ljósastaur
+goldworker n. gullsmiður
+cityscape n. borgarmynd, borgarlandslag
+diarrhoea n. sjá %[diarrhea]%
+footsoldier n. fótgönguliði
+infantryman n. fótgönguliði
+cavalryman n. riddari, riddaraliði, hermaður á hestbaki
+graverobber n. grafræningi
+guardsman n. varðmaður
+crossbowman n. lásbogaskytta, lásbogaliði, hermaður með lásboga
+cannonball n. fallbyssukúla
+attacker n. árásarmaður, árásaraðili, tilræðismaður
+Persia n. Persía (gamalt heiti yfir Íran)
+Persian l. persneskur (íranskur)
+omnivore n. alæta
+omnivorous l. sem allt étur, alætu-
+antebellum l. fyrir stríð, fyrirstríðs-
+moorland n. mýrlendi
+imbalance n. ójafnvægi
+courtroom n. réttarsalur, dómssalur
+cardiologist n. hjartalæknir, hjartasérfræðingur
+motherland n. móðurland, fósturjörð
+armband n. armband
+privatization n. einkavæðing
+privatize s. einkavæða
+imprecise l. ónákvæmur
+interwar l. millistríðs-, millistríðsára- ([the ~ period])
+warlord n. stríðsherra, herkonungur
+Siberia n. Síbería (stórt svæði í Austur-Rússlandi)
+magma n. bergkvika
+hiccup n. hiksti
+swastika n. hakakross
+discoverable l. uppgötvanlegur
+bottleneck n. flöskuháls
+rethink s. endurhugsa
+firefighter n. slökkviliðsmaður
+bathtub n. baðker
+motorcade n. bílalest
+retroactivity n. afturvirkni
+separatism n. aðskilnaðarstefna
+culturally ao. menningarlega
+anti-democratic l. andlýðræðislegur
+undemocratic l. ólýðræðislegur
+Jewry n. gyðingdómur
+loudspeaker n. hátalari
+gunman n. byssumaður, skytta
+counter-offensive n. gagnárás, gagnsókn
+cadaver n. lík, nár, hræ
+passionless l. ástríðulaus
+maximization n. hámörkun
+unanimously ao. einróma, samhljóða
+genital l. kynfæra-, æxlunarfæra-
+genitals n. ft. kynfæri, æxlunarfæri
+ethicist n. siðfræðingur
+bulletproof l. skotheldur; [~ vest] skothelt vesti
+shotgun n. haglabyssa
+handgun n. skammbyssa
+slaveholder n. þrælahaldari
+Satanist n. satanisti
+Satanism n. satanismi
+subset n. undirmengi
+leaderless l. leiðtogalaus
+milkman n. mjólkurpóstur, mjólkurmaður, mjólkursendill
+Rhodesia n. Ródesía (landsvæði sem er í dag ríkin Sambía og Simbabve)
+manpower n. mannafli, mannafl
+monotheistic l. eingyðistrúarlegur, eingyðistrúar-
+womanizer n. kvennabósi, flagari
+choirboy n. kórdrengur
+willpower n. viljastyrkur
+ballerina n. ballettdansmær, ballerína
+vodka n. vodka, vodki (sterkur áfengisdrykkur)
+ashtray n. öskubakki
+insomniac n. svefnleysingi (sjá %[insomnia]%)
+migraine n. mígreni, höfuðverkur
+railcar n. lestarvagn
+cirrhosis n. skorpulifur ([~ of the liver])
+Esperanto n. esperantó
+Esperantist n. esperantisti
+Esperantism n. esperantismi

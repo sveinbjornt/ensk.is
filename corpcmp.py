@@ -7,8 +7,11 @@ from nltk.stem import WordNetLemmatizer
 
 from db import EnskDatabase
 
+from util import read_wordlist
+
 lemmatizer = WordNetLemmatizer()
 
+missing = read_wordlist("missing.txt")
 
 with open("texts/quine.txt", "r") as f:
     corpus = f.read()
@@ -26,6 +29,17 @@ words = word_tokenize(corpus)
 ps = PorterStemmer()
 for w in words:
     # rootWord = ps.stem(w)
+    if w.endswith("ing") or w.endswith("ed"):
+        continue
+    if w.endswith("."):
+        w = w[:-1]
+
     lemma = lemmatizer.lemmatize(w)
-    if lemma not in dict_words and lemma.lower() not in dict_words:
+    llow = lemma.lower()
+    if (
+        lemma not in dict_words
+        and llow not in dict_words
+        and lemma not in missing
+        and llow not in missing
+    ):
         print(lemma)
