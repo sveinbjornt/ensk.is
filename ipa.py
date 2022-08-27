@@ -263,6 +263,17 @@ SKIP = frozenset(
         "retroactivity",
         "slaveholder",
         "Rhodesia",
+        "Esperantism",
+        "Esperantist",
+        "parentless",
+        "railcar",
+        "bason",
+        "Carthage",
+        "Crete",
+        "Danube",
+        "provisionary",
+        "pseudoscientific",
+        "Sicily",
     )
 )
 

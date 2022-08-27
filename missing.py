@@ -57,10 +57,14 @@ res = e.read_all_entries()
 
 dict_words = [e["word"].lower() for e in res]
 
+# Missing list
+missing = read_wordlist("missing.txt")
+
 
 wds = read_wordlist("data/wordlists/google-10000-english.txt")
 
 for t in wds:
-    if t.lower() not in dict_words:
+    tl = t.lower()
+    if tl not in dict_words and tl not in missing:
         if not t.endswith("s"):
             print(t)

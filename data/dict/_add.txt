@@ -14,6 +14,7 @@ heliocentrism n. sólmiðjukenning
 heliocentric l. sólmiðju-
 geoheliocentrism n. jarðsólmiðjukenning stjarnfræðingsins Tycho Brahe ([the Tychonic system])
 pseudoscience n. gervivísindi
+pseudoscientific l. gervivísindalegt
 zombie n. uppvakningur
 dinosaur n. risaeðla
 neurodegeneration n. taugahrörnun
@@ -102,6 +103,7 @@ newsletter n. fréttabréf
 phone n. sími, símtæki; s. hringja úr símtæki (stytt. á %[telephone]%)
 pizza n. pítsa, flatbaka (ítalskur réttur)
 masturbate s. fróa sér, runka sér
+masturbator n. e-r sem fróar eða runkar sér (sjá %[masturbate]%)
 masturbatory l. sjálfsfróandi, sjálfsrunkandi
 programmer n. forritari
 recycling n. endurvinnsla, endurnýting
@@ -114,9 +116,9 @@ vibrator n. titrari (kynlífsleikfang)
 workplace n. vinnustaður
 milkshake n. mjólkurhristingur
 spacesuit n. geimbúningur, búningur geimfara
-televise s. sjónvarpa
+televise s. sjónvarpa, senda út í sjónvarpi (sjá %[television]%)
 motorway n. hraðbraut
-katana n. katana (japanskt sverð)
+katana n. katana (e.k. japanskt sverð)
 animalistic l. dýrslegur
 cyanide n. blásýra
 hydrocyanic acid n. blásýra
@@ -210,6 +212,7 @@ homosexual l. samkynhneigður; n. samkynhneigður einstaklingur
 homosexuality n. samkynhneigð
 cunnilingus n. munnmök
 bestseller n. metsölubók; vara sem selst í miklu magni
+bestselling l. söluhæstur; metsölu-
 roommate n. herbergisfélagi, kammerat
 simultaneously ao. samtímis, samtíða, á sama tíma
 technician n. tæknimaður
@@ -218,7 +221,7 @@ viagra n. víagra (stinningarlyf)
 ninja n. ninja (e.k. japanskur launmorðingi)
 quantum mechanics n. ft. skammtafræði
 quantum computer n. skammtatölva
-quantum computing n. skammtatölvun, skammtareikningur
+quantum computing n. skammtareikningur, skammtatölvun; skammtatölvunarfræði
 pantyhose n. sokkabuxur
 polyester n. pólýester (gerviefni)
 protein n. prótín, prótein (lífrænt efnasamband)
@@ -378,7 +381,7 @@ crowdfunded l. lýðfjármagnað, hópfjármagnað
 circuit n. hringrás; rafrás, rafstraumsrás; s. fara yfir, fara í kringum
 polypropylene n. fjölprópýlen, pólýprópýlen
 cassette n. (hljóð)snælda, kassetta
-audio cassette n. (hljóð)snælda, kassetta
+audio cassette n. (hljóð)snælda, (hljóð)spóla, kassetta
 hard disk n. harður diskur (í tölvum)
 hard drive n. harður diskur (í tölvum)
 walkman n. vasadiskó (lítið tæki sem spilar hljóðsnældur)
@@ -796,6 +799,7 @@ conceptualize s. gera sér hugmynd um e-ð; gera e-ð að hugtaki
 polymer n. fjölliða (gerviefnategund)
 conditioning n. skilyrðing
 air conditioning n. loftræsting
+air conditioner n. loftræstitæki
 checklist n. gátlisti, minnislisti
 chassis n. botngrind, undirgrind, vagngrind
 hierophantic l. er varðar forngrískan prest eða túlkun heilagra leyndardóma
@@ -1266,9 +1270,9 @@ bio- fsk. líf-, lífs-; sjá t.d. %[biology]%, %[biography]%
 antisocial l. andfélagslegur
 antibiotic l. gegn sýklum, andsýkla-; n. sýklalyf (yfirleitt í ft. [~s])
 antibiotics n. ft. sjá %[antibiotic]%
-antisemitism n. gyðingahatur, fordómar í garð gyðinga
-antisemite n. gyðingahatari
-antisemitic l. gyðingahatandi, fjandsamlegur gyðingum
+anti-Semitism n. gyðingahatur, fordómar í garð gyðinga
+anti-Semite n. gyðingahatari
+anti-Semitic l. gyðingahatandi, fjandsamlegur gyðingum
 anti-inflammatory l. bólgueyðandi
 anti-aircraft l. gegn flugvélum, loftvarna-; [~ system] loftvarnakerfi; [~ gun] loftvarnabyssa
 anticlockwise l. & ao. rangsælis
@@ -1892,7 +1896,7 @@ coconut n. kókoshneta
 leukemia n. hvítblæði
 underestimate s. vanmeta; vantelja
 professionalism n. fagmennska, atvinnumennska
-chimp n. simpansi (stytting á %[chimpanzee]%)
+chimp n. simpansi (stytt. á %[chimpanzee]%)
 horticulturalist n. sjá %[horticulturist]%
 watermelon n. vatnsmelóna (ávöxtur)
 self-discipline n. sjálfsagi
@@ -2011,3 +2015,85 @@ cirrhosis n. skorpulifur ([~ of the liver])
 Esperanto n. esperantó
 Esperantist n. esperantisti
 Esperantism n. esperantismi
+biochemical l. lífefnafræðilegur
+rowboat n. árabátur
+parentless l. foreldralaus
+wheelchair n. hjólastóll
+toenail n. tánögl
+baguette n. bagetta (ílangur brauðhleifur)
+backpack n. bakpoki
+homelessness n. heimilisleysi
+goldfish n. gullfiskur
+birthmark n. fæðingarblettur
+contextualize s. setja í samhengi (sjá %[context]%)
+rewrite s. endurskrifa
+negativity n. neikvæðni
+perfectionism n. fullkomnunarárátta, fullkomnunarhneigð, fullkomnunarstefna
+Sicily n. Sikiley
+hamburger n. hamborgari
+asparagus n. aspas
+policewoman n. lögreglukona, (kven)lögregluþjónn
+cello n. selló (hljóðfæri)
+caveman n. hellisbúi
+ketchup n. tómatsósa
+bartender n. barþjónn
+epidemiology n. faraldursfræði, farsóttafræði
+epidemiologist n. faraldursfræðingur, farsóttafræðingur
+pizzeria n. pítsustaður
+pepperoni n. pepperóní, kryddpylsa
+supercomputer n. ofurtölva
+gorilla n. górilla (stór api)
+cardholder n. korthafi
+Mesopotamia n. Mesópótamía (landið á milli fljótanna Efrat og Tígris)
+Danube n. Dóná
+Arabia n. Arabía
+visibly ao. sjáanlega
+pleb n. sjá %[plebeian]%
+bason n. sjá %[basin]%
+Crete n. Krít
+cartoonish l. teiknimyndalegur, skrípalegur
+jacuzzi n. nuddpottur, heitur pottur
+hot tub n. heitur pottur
+hot dog n. pylsa
+blue whale n. steypireyður (hvalur)
+minkie whale n. hrefna (hvalur)
+baleen whale n. skíðishvalur
+provisionary l. sjá %[provisional]%
+liberally ao. frjálslega
+Carthage n. Karþagó (borg í Norður-Afríku til forna)
+speechwriter n. ræðuhöfundur
+televangelism n. sjónvarpspredikun
+televangelist n. sjónvarpspredikari
+unprofessional l. ófagmannlegur
+trombonist n. trombónuleikari
+songwriter n. lagasmiður, lagahöfundur
+untouchable l. ósnertanlegur
+salesmanship n. sölumennska
+newsworthy l. fréttnæmur
+penicillin n. pensilín (fúkkalyf)
+paratrooper n. fallhlífahermaður
+stopwatch n. skeiðklukka
+dreamland n. draumaland
+unemployable l. óvinnufær, ekki hægt að ráða til vinnu
+neurobiologist n. taugalíffræðingur
+neurobiology n. taugalíffræði
+neurobiological l. taugalíffræðilegur
+neuroanatomy n. taugalíffærafræði
+voicemail n. talhólf; talhólfsskilaboð
+salesperson n. sölumaður, sölufulltrúi
+raconteur n. sögumaður, frásegjandi
+reread s. endurlesa
+prosciutto n. þunnskorin ítölsk skinka
+neuron n. taugungur, taugafruma
+phrenologist n. höfuðlagsfræðingur
+waistline n. mittismál; mitti
+telemarketer n. símasölumaður
+telemarketing n. símasölumennska
+carotene n. karótín
+enzyme n. ensím
+firewall n. eldveggur; brunaveggur
+sharpshooter n. (leyni)skytta
+cellphone n. farsími, gemsi, GSM-sími
+rifleman n. hermaður vopnaður riffli
+capitalistic l. auðvaldslegur; auðvaldsstefnulegur; kapítalískur
+dependability n. áreiðanleiki
