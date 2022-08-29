@@ -274,6 +274,13 @@ SKIP = frozenset(
         "provisionary",
         "pseudoscientific",
         "Sicily",
+        "cellphone",
+        "homeownership",
+        "neuroanatomy",
+        "neurobiological",
+        "neurobiologist",
+        "neurobiology",
+        "shieldbearer",
     )
 )
 
