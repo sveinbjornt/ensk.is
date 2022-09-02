@@ -2079,7 +2079,7 @@ neurobiologist n. taugalíffræðingur
 neurobiology n. taugalíffræði
 neurobiological l. taugalíffræðilegur
 neuroanatomy n. taugalíffærafræði
-voicemail n. talhólf; talhólfsskilaboð
+voicemail n. talhólf ([it went straight to ~]); talhólfsskilaboð ([he left a ~])
 salesperson n. sölumaður, sölufulltrúi
 raconteur n. sögumaður, frásegjandi
 reread s. endurlesa
@@ -2104,3 +2104,6 @@ homeowner n. húseigandi
 homeownership n. húseign
 alcoholism n. alkóhólismi, áfengissýki
 renegotiate s. endursemja
+circa ao. um það bil, sirka
+smoking area n. reykingasvæði
+rejuvenation n. endurnýjun, endurynging
