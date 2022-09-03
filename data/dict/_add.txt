@@ -2107,3 +2107,36 @@ renegotiate s. endursemja
 circa ao. um það bil, sirka
 smoking area n. reykingasvæði
 rejuvenation n. endurnýjun, endurynging
+chalkboard n. krítartafla, skólatafla
+Inuit n. Inúíti (frumbyggi Grænlands og nyrstu svæða N-Ameríku); l. inúískur
+orthopedia n. bæklunarlækningar
+orthopedic l. bæklungarlækninga-; n. bæklunarlæknir
+businesspeople n. ft. viðskiptafólk, verslunarfólk, kaupsýslumenn
+weightlifter n. kraftlyftingamaður
+weightlifting n. kraftlyftingar
+Abyssinia n. Abyssinía (gamalt heiti yfir landið Eþíópíu)
+Abyssinian l. abyssinskur (eþíópískur)
+Vulgate n. Vúlgata (latnesk þýðing á Biblíunni)
+Homeric l. hómerískur, kenndur við forngríska skáldið Hómer
+systematically ao. kerfisbundið, á skipulagðan hátt
+insurer n. e-r sem vátryggir, (vá)tryggingafélag
+uninsurable l. óvátryggjanlegur
+uninsured l. óvátryggður
+quarterback n. fyrirliði (í bandarískum fótbolta)
+voodoo n. vúdú (galdrar eða hjátrú af afrískum uppruna)
+placebo n. lyfleysa, gervilyf; [~ effect] þóknunarhrif
+retune s. endurstilla (hljóðfæri); sjá %[tune]%
+adrenaline n. adrenalín (hormón)
+workaholic l. vinnusjúkur; n. vinnufíkill, vinnualki
+workaholism n. vinnufíkn, vinnuárátta
+codependent l. meðvirkur
+codependency n. meðvirkni
+self-help n. sjálfshjálp
+patricidal l. föðurmorðs-, föðurmorðslegur
+webmaster n. vefstjóri, vefumsjónarmaður
+webpage n. vefsíða
+lockable l. læsanlegur (sjá %[lock]%)
+sanatorium n. heilsuhæli
+argumentative l. þrætugjarn, deilugjarn
+gunrunner n. skotvopnasmyglari
+palindrome n. samhverfa (orð sem er hægt er að lesa bæði aftur á bak og áfram)

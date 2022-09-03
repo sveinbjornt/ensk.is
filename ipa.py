@@ -281,6 +281,13 @@ SKIP = frozenset(
         "neurobiologist",
         "neurobiology",
         "shieldbearer",
+        "Abyssinia",
+        "Abyssinian",
+        "businesspeople",
+        "Homeric",
+        "orthopedia",
+        "Vulgate",
+        "patricidal",
     )
 )
 
