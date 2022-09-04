@@ -1804,7 +1804,6 @@ trucker
 matronly
 payslip
 sloppiness
-creditworthiness
 paralegal
 disinterest
 typeset
@@ -2218,7 +2217,6 @@ phantasmagoria
 takedown
 genre
 Indo-European
-gynaecocracy
 exclusionary
 artisanship
 phallus
@@ -2397,7 +2395,6 @@ recessionary
 slowdown
 lifeline
 robotics
-soybean
 liberalization
 protectionism
 shoehorn
@@ -2435,7 +2432,6 @@ gentrification
 fundraiser
 swanky
 doorman
-televangelist
 storefront
 shamble
 groundskeeper
@@ -2455,8 +2451,6 @@ thoughtfulness
 continuum
 burnout
 blackout
-sociobiological
-sociobiologist
 interdisciplinary
 functionalist
 functionalism
@@ -2501,7 +2495,6 @@ mongrelization
 Spartacist
 raciology
 raciological
-fratricidal
 officialize
 hygienist
 internalization
@@ -2535,7 +2528,6 @@ sweetie
 recitative
 intentionalist
 endpoint
-puppeteer
 offstage
 parachutist
 factual
@@ -2588,8 +2580,6 @@ interventionist
 noninterventionist
 everyman
 theodicy
-philosophic
-appendectomy
 evilness
 tricky
 self-preservation
@@ -2598,7 +2588,6 @@ high-minded
 psychologism
 causation
 manipulable
-unethical
 evaluative
 naïveté
 serviceability
@@ -2618,7 +2607,6 @@ metonymically
 sociologism
 psychologism
 wellspring
-monopolistic
 overgeneralization
 hero-worship
 liberationist
@@ -2653,7 +2641,6 @@ junta
 tercentenary
 sophomore
 healthcare
-dataset
 guardrail
 participatory
 pallbearer
@@ -2691,10 +2678,6 @@ firecracker
 hashtag
 stovepipe
 newscaster
-phobic
-phobia
-agoraphobia
-hydrophobia
 quid pro quo
 symbolization
 accelerationism
@@ -2703,9 +2686,7 @@ boogaloo
 propane
 environmentalist
 environmentalism
-subgroup
 unwinnable
-rejuvenation
 investigatory
 supermajority
 officeholder
@@ -2722,9 +2703,7 @@ synthesize
 synthesizer
 someplace
 interchangeability
-indivisibility
 Islamophobia
-ultranationalist
 sexually
 parallax
 opioid
@@ -2734,8 +2713,6 @@ microfilm
 imperium
 tsarism
 tsarist
-extrajudicial
-realpolitik
 histrionics
 realign
 self-improvement
@@ -2744,25 +2721,18 @@ striver
 epigone
 polyphonous
 autodidact
-choirmaster
-tug-of-war
-schoolmate
 exploiter
 seminarian
-candlelight
 unintelligible
-fin-de-siecle
 cofounder
 thornbush
 messianic
 surreptitiously
 secularization
 mutualism
-copycat
 gendarmerie
 barometric
 banditry
-melee
 cobblestone
 deliveryman
 confrontational
@@ -2774,7 +2744,6 @@ bootlicker
 obsequiously
 nitroglycerine
 commercialization
-airflow
 transcontinental
 artisanal
 pharaonic
@@ -2786,7 +2755,6 @@ attaché
 unionism
 minoritarian
 schismatism
-bicameral
 fragmentation
 ministership
 constitutionalist
@@ -2799,7 +2767,6 @@ ideational
 catechismic
 aftershock
 mayhem
-unenviable
 despondency
 bittersweet
 divorcee
@@ -2811,7 +2778,6 @@ autocratism
 hemophilia
 oxymoron
 overreliance
-metalworker
 motorcar
 delicatessen
 point-blank
@@ -2847,7 +2813,6 @@ unenthusiastic
 grassroots
 scratchy
 repellant
-punditry
 cubbyhole
 honorarium
 weatherman
@@ -2912,7 +2877,6 @@ junky
 junkie
 immersive
 tidbit
-windscreen
 defibrillator
 relive
 anorexic
@@ -2921,7 +2885,6 @@ bulimic
 bulimia
 dyspeptic
 dyspepsia
-anaesthesia
 bogus
 maverick
 hustler
@@ -2934,7 +2897,6 @@ riff
 stepdad
 trainee
 trouser
-unpronounceable
 self-destructive
 nutter
 self-harm
@@ -2985,7 +2947,6 @@ meme
 synaptic
 rediscovery
 chomp
-inflatable
 provider
 reconnect
 recalibrate
@@ -3062,7 +3023,6 @@ stratospheric
 scrounge
 placement
 technologist
-barista
 motivator
 Bayesian
 marketer
@@ -3087,7 +3047,6 @@ concerto
 bossa nova
 cutoff
 scanner
-mimeograph
 echelon
 alma mater
 summa cum laude
@@ -3109,7 +3068,6 @@ sweepstakes
 sweepstake
 kosher
 pesky
-creditworthy
 substandard
 yesteryear
 amok
@@ -3126,7 +3084,6 @@ mayoral
 chianti
 spokesperson
 inclusiveness
-reevaluate
 aggregator
 quantification
 runoff
@@ -3134,17 +3091,14 @@ decile
 reuse
 reusable
 sneaker
-osteoporosis
 prosecutorial
 constitutionality
 colophon
 systematizer
-quaintness
 nettlesome
 prickliness
 overestimate
 untellable
-workroom
 mantlepiece
 etcher
 monograph
@@ -3210,7 +3164,6 @@ hype
 bedside
 fireside
 persuader
-salesperson
 whimsy
 tireless
 broadly
@@ -3263,7 +3216,6 @@ delicately
 self-assertive
 self-knowledge
 teaset
-superficiality
 rentier
 vestigial
 chaise

@@ -288,6 +288,14 @@ SKIP = frozenset(
         "orthopedia",
         "Vulgate",
         "patricidal",
+        "agorophobic",
+        "bicameralism",
+        "gynecocracy",
+        "sociobiological",
+        "sociobiologist",
+        "tug-of-war",
+        "ultranationalism",
+        "ultranationalist",
     )
 )
 

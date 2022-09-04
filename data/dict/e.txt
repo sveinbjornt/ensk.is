@@ -906,9 +906,9 @@ eternize s. gera eilífan
 ether n. upploft; ljósvaki; eter
 ethereal l. upphiminslegur; loftlegur; ljósvakalegur
 etherealize s. svæfa (sjúkling) með eter
-ethic l. siðfræðislegur
-ethical l. siðfræðislegur
-ethics n. siðfræði
+ethic l. siðfræðilegur; n. siðfræði, siðferði
+ethical l. siðfræðilegur, siðferðilegur
+ethics n. siðfræði, siðferði
 Ethiopian l. eþíópskur; n. Eþíópi
 ethnic l. heiðinn; þjóðfræðislegur, þjóðernis-
 ethnicism n. heiðni

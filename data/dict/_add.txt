@@ -245,6 +245,8 @@ starship n. geimskip (stjörnuskip)
 modem n. mótald (búnaður sem mótar og afmótar merki)
 radar n. ratsjá, radar
 sociobiology n. félagslíffræði
+sociobiological l. félagslíffræðilegur
+sociobiologist n. félagslíffræðingur
 samurai n. samúræi (japanskur stríðsmaður)
 Anzac n. ástralskur eða nýsjálenskur hermaður (í fyrri heimsstyrjöld)
 zoophilia n. dýragirnd
@@ -403,7 +405,7 @@ demographics n. ft. lýðfræðiupplýsingar, lýðfræðileg tölfræði
 demographer n. lýðfræðingur
 downtown n. miðbær, miðborg; l. & ao. miðbæjar-, í miðbænum ([I visited ~ San Francisco, it was a place ~])
 evaluation n. mat ([a comprehensive ~ of his performance])
-evaluate s. meta
+evaluate s. meta, yfirvega
 firmware n. fastbúnaður (í tölvum)
 gangbang n. hópkynlíf
 informative l. upplýsandi, fróðlegur, lærdómsríkur, fræðandi
@@ -2140,3 +2142,55 @@ sanatorium n. heilsuhæli
 argumentative l. þrætugjarn, deilugjarn
 gunrunner n. skotvopnasmyglari
 palindrome n. samhverfa (orð sem er hægt er að lesa bæði aftur á bak og áfram)
+osteoporosis n. beinþynning
+quaintness n. einkennileiki, skringileiki, forntískuleiki
+reevaluate s. endurmeta, enduryfirvega
+creditworthiness n. lánshæfi
+creditworthy l. lánshæfur
+mimeograph n. fjölritunarvél, fjölritunartæki; s. fjölrita (með fjölritunarvél)
+barista n. kaffibarþjónn, þjónn á kaffihúsi
+inflatable l. uppblásanlegur
+unpronounceable l. óframberanlegt, ekki hægt að bera fram
+anaesthesia n. deyfing, svæfing; [spinal ~] mænudeyfing; [local anaesthesia] staðdeyfing
+windscreen n. framrúða; [~ wipers] rúðuþurrkur
+punditry n. álitsgjöf, skoðanir meintra sérfræðinga (sjá %[pundit]%)
+metalworker n. málmsmiður
+metalwork n. málmsmíði
+metalworking n. málmsmíði; málmvinnsla
+bicameral l. tveggja deilda; með tvær þingdeildir ([~ legislature])
+bicameralism n. sú stefna að skipta löggjafarþingi í tvær deildir
+airflow n. loftflæði, loftstreymi
+melee n. átök eða bardagi í návígi ([~ combat])
+copycat n. eftirherma, hermikráka
+fin de siècle n. lok aldarinnar, aldalok (úr frönsku)
+candlelight n. kertaljós
+tug-of-war n. reipitog
+schoolmate n. skólafélagi, skólabróðir, skólasystir
+choirmaster n. kórstjóri
+ultranationalist n. öfgaþjóðernissinni
+ultranationalism n. öfgaþjóðernisstefna
+indivisibility n. ódeilanleiki
+subgroup n. undirhópur, undirflokkur
+hydrophobia n. vatnsfælni, ótti við vatn
+hydrophobic l. vatnsfælinn, hræddur við vatn
+agoraphobia n. víðáttufælni, víðáttubrjálæði
+agorophobic l. torgageigur, víðáttufælinn
+phobia n. fælni, ótti, fóbía
+phobic l. fælinn, óttasleginn, fóbískur
+monopolistic l. einokunarlegur, einokunar- (sjá %[monopoly]%)
+busker n. götulistamaður, götuspilari
+superficiality n. yfirborðskennd, yfirborðsmennska
+workroom n. vinnustofa, vinnuherbergi
+unenviable l. óöfundsverður, ekki öfundsverður
+realpolitik n. raunsæisstjórnmál (úr þýsku)
+extrajudicial l. utan réttar, utan laga og reglna, utan dómstóla
+dataset n. gagnasafn
+unethical l. siðlaus, ósiðferðilegur, siðferðilega rangur
+appendectomy n. botnlanganám
+philosophic l. heimspekilegur
+puppeteer n. brúðuleikari
+fratricidal l. bróðurmorðs-
+soybean n. sojabaun
+gynecocracy n. kvenræði, kvenveldi, mæðraveldi
+neuroscience n. taugavísindi
+neuroscientist n. taugavísindamaður, taugafræðingur
