@@ -301,6 +301,7 @@ SKIP = frozenset(
         "multinationalism",
         "Trinitarian",
         "Trinitarianism",
+        "autocratism",
     )
 )
 

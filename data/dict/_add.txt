@@ -1000,6 +1000,7 @@ sadist n. lostakvalari, sadisti
 sadistic l. kvalalosta-, sadista-
 masochism n. sjálfspíningarhvöt
 sadomasochism n. sadómasókismi, löngun til að kvelja bæði sjálfan sig og aðra (sjá %[sadism]% og %[masochism]%)
+sadomasochistic n. sadómasókískur, kvalarlosta- (sjá %[sadomasochism])
 BDSM n. kynlíf sem einkennist af kvalalosta, pyntingu, drottnun og undirgefni (stytt. á [bondage, domination, sado-masochism])
 skeptic n. sjá %[sceptic]%
 skeptical l. sjá %[sceptical]%
@@ -1383,8 +1384,9 @@ originally ao. upphaflega, upprunalega; frumlega, einkennilega; sjá %[original]
 infrared l. innrauður, infrarauður; [~ light] innrautt ljós
 biomass n. lífmassi
 NATO n. stytt. á [North Atlantic Treaty Organization]; Atlantshafsbandalagið
-polyphony n. fjölröddun, pólýfónía
-polyphonic l. fjölraddaður
+polyphony n. margröddun, fjölröddun, pólýfónía
+polyphonic l. margraddaður, fjölraddaður
+polyphonous l. margraddaður, fjölraddaður
 basketball n. körfubolti, körfuknöttur; körfuknattleikur, körfuboltaleikur
 sensor n. skynjari, nemi; [motion ~] hreyfiskynjari
 motion sensor n. hreyfiskynjari
@@ -1441,7 +1443,6 @@ battlecruiser n. e.k. orustu- eða beitiskip
 Canaan n. Kanaansland
 literally ao. bókstaflega, orðrétt
 warthog n. vörtusvín
-ghostwriter n. leigupenni, skuggaskrifari
 APC n. brynvarinn bíll (stytt. á [armoured personnel carrier])
 SUV n. jeppi, jepplingur (stytt. á [sport utility vehicle])
 dosage n. (lyfja)skammtur
@@ -1652,11 +1653,12 @@ weltanschauung n. heimssýn (úr þýsku)
 world-weary l. lífsleiður, lífsþreyttur (bókst. heimsþreyttur)
 world-weariness n. lífsleiði, lífsþreyta
 obsession n. þráhyggja
+obsessive l. haldinn þráhyggju, með e-ð á heilanum
 relativist n. afstæðishyggjumaður; l. afstæðishyggju-
 relativistic l. afstæðishyggju-
 relativism n. afstæðishyggja
 witch hunt n. nornaveiðar
-undramatic n. ódramatískur
+undramatic n. ódramatískur (sjá %[dramatic]%)
 phenomenology n. fyrirbærafræði
 phenomenologist n. fyrirbærafræðingur
 phenomenological l. fyrirbærafræðilegur
@@ -2198,7 +2200,7 @@ neuroscientist n. taugavísindamaður, taugafræðingur
 soundtrack n. hljóðrás, hljóðrit; bakgrunnshljóð, bakgrunnstónlist
 syndrome n. heilkenni; [Downs ~] Downs-heilkenni
 lacrosse n. háfleikur (íþrótt)
-determinist n. nauðhyggjumaður (sjá %[determinism]%)
+determinist n. nauðhyggjumaður, nauðhyggjusinni (sjá %[determinism]%)
 determinism n. nauðhyggja (sú kenning að allt sem gerist ráðist nauðsynlega af undanfarandi orsökum)
 nation-state n. þjóðríki
 so-called l. svokallaður, svonefndur
@@ -2207,7 +2209,7 @@ civilized l. siðmenntaður; fágaður, háttprúður
 experimentation n. tilraunastarf, tilraunastarfsemi
 psyche n. sál, sálarlíf, hugarstarfsemi
 mentation n. hugarstarf
-psyched l. spenntur, æstur (óforml.)
+psyched l. spenntur, æstur (BNA, óforml.)
 positivist n. framhyggjumaður, framstefnumaður, pósitívisti
 positivism n. framhyggja, framstefna, pósitívismi (sú kenning að raunvísindi séu best til þess fallin að tryggja mannlegar framfarir)
 logical positivism n. rökfræðileg raunhyggja
@@ -2215,12 +2217,59 @@ Trinitarianism n. þrenningartrú, þrenningarátrúnaður, þrenningarkenning (
 boorishness n. ruddaskapur, búralegheit (sjá %[boorish]%)
 vagueness n. ónákvæmni, óákveðni
 syphilis n. sárasótt, sýfilis (kynsjúkdómur)
-syphilitic l. sárasóttarsmitaður, smitaður af sýfilis
+syphilitic l. sárasóttarsmitaður, smitaður af kynsjúkdómnum sýfilis
 self-respect n. sjálfsvirðing
 hellfire n. vítiseldur
 latinize s. snúa yfir á latínu, gera latneskt eða líkt latínu
 nationalism n. þjóðernishyggja, þjóðernisstefna
 nationalist n. þjóðernissinni, þjóðernishyggjusinni, þjóðernishyggjumaður
-nationalistic l. þjóðernislegur, þjóðernishyggjulegur
+nationalistic l. þjóðernislegur, þjóðernishyggjulegur, þjóðernisstefnulegur
 multinationalism n. fjölþjóðahyggja
 gunfire n. skothríð
+hemophilia n. dreyrasýki
+autocratism n. einvaldsstefna, einveldisstefna
+transoceanic l. þvert yfir úthaf
+counterintelligence n. gagnnjósnir
+merger n. samruni, sameining; [corporate ~] samruni fyrirtækja
+downloadable l. niðurhalanlegur, sækjanlegur (yfir netið)
+stepdad n. stjúpfaðir (óforml.); sjá %[stepfather]%
+objectify s. hlutgera
+objectified l. hlutgerður
+objectification n. hlutgerving
+rucksack n. bakpoki
+daemon n. sjá %[demon]%
+messy l. subbulegur, sóðalegur, óskipulegur
+messiness n. subbuskapur, sóðaskapur, óhreinindi; óreiða, ringulreið, glundroði
+schoolyard n. skólalóð
+neuropsychologist n. taugasálfræðingur
+obfuscation n. myrkvun; sjá %[obfuscate]%
+high-tech l. hátæknilegur, hátækni-
+ghostwriter n. leigupenni, skuggaskrifari
+ghostwrite s. skuggaskrifa, skrifa sem leigupenni í nafni e-s annars
+ghostwritten l. skuggaskrifaður (sjá %[ghostwrite]%)
+wildebeest n. e.k. antilópa
+gnu n. gnýr (e.k. afrískur uxi)
+Hispanic l. spænskur; af spænskum uppruna (BNA); n. manneskja af spænskum uppruna (BNA)
+Maoism n. maóismi (heimspeki Maó Zedong, kommúnistaleiðtoga Kína)
+Maoist n. maóisti (sjá %[Maoism]%)
+evilness n. illska, vonska
+artificiality n. gervileiki, gervimennska
+uncritical l. ógagnrýninn, óaðfinningasamur; óskarpskyggn (í dómum); sjá %[critical]%
+Cyrillic l. kyrillískur; [~ letters, alphabet] kyrillískt letur, stafróf
+extralegal l. utan (ramma) laganna, utan lagakerfisins
+hashtag n. myllumerki, kassamerki (#)
+environmentalist n. umhverfisverndarsinni, umhverfisverndarmaður; umhverfisfræðingur
+environmentalism n. umhverfisverndarstefna, umhverfisstefna, umhverfishyggja
+propane n. própan (jarðeldsneyti)
+banditry n. stigamennska (sjá %[bandit]%)
+obsequiously ao. auðvirðilega auðmjúkt
+obsequiousness n. auðvirðileg auðmýkt
+teaset n. testell
+self-knowledge n. sjálfsþekking
+Levant n. Austurlönd nær (landsvæðið fyrir botni Miðjarðarhafs)
+Levantine l. frá Austurlöndum nær (sjá %[Levant]%)
+persuader n. e-r sem sannfærir (sjá %[persuade]%)
+taxonomy n. flokkunarfræði
+taxonomic l. flokkunarfræðilegur
+taxonomist n. flokkunarfræðingur
+horseshit n. hrossaskítur, hestaskítur, hrossatað; kjaftæði (óforml.)
