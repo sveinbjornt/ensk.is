@@ -296,6 +296,11 @@ SKIP = frozenset(
         "tug-of-war",
         "ultranationalism",
         "ultranationalist",
+        "diabolist",
+        "latinize",
+        "multinationalism",
+        "Trinitarian",
+        "Trinitarianism",
     )
 )
 

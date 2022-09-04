@@ -21,7 +21,7 @@ vagary n. duttlungur, firra
 vagina n. leggöng
 vagrancy n. flakk; útúrdúr; óstöðugleiki ([~ of mind])
 vagrant l. flakkandi; n. flakkari, flækingur
-vague l. óákveðinn, óljós
+vague l. ónákvæmur, óákveðinn, óljós
 vail s. lægja ([~ a weapon]), taka ofan ([~ the hat, cap])
 vain l. hégómafullur, hégómagjarn; tómur, fánýtur ([a ~ hope]); árangurslaus; [in ~] til einskis; [to take in ~] hafa í fíflskaparmálum, leggja við hégóma
 vainglorious l. hégómagjarn, grobbinn
@@ -311,7 +311,7 @@ viking n. víkingur
 vile l. níðingslegur, svívirðilegur; andstyggilegur
 vileness n. níðingsskapur, fúlmennska
 vilification n. smánun
-vilify s. smána, svívirða, rægja
+vilify s. smána, svívirða, rægja, ófrægja
 villa n. landsetur, einbýlishús, villa
 village n. þorp
 villager n. þorpsbúi

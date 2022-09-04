@@ -1998,6 +1998,7 @@ handgun n. skammbyssa
 slaveholder n. þrælahaldari
 Satanist n. satanisti
 Satanism n. satanismi
+diabolist n. djöfladýrkandi; satanisti
 subset n. undirmengi
 leaderless l. leiðtogalaus
 milkman n. mjólkurpóstur, mjólkurmaður, mjólkursendill
@@ -2186,7 +2187,7 @@ realpolitik n. raunsæisstjórnmál (úr þýsku)
 extrajudicial l. utan réttar, utan laga og reglna, utan dómstóla
 dataset n. gagnasafn
 unethical l. siðlaus, ósiðferðilegur, siðferðilega rangur
-appendectomy n. botnlanganám
+appendectomy n. botnlanganám, botnlangataka
 philosophic l. heimspekilegur
 puppeteer n. brúðuleikari
 fratricidal l. bróðurmorðs-
@@ -2194,3 +2195,32 @@ soybean n. sojabaun
 gynecocracy n. kvenræði, kvenveldi, mæðraveldi
 neuroscience n. taugavísindi
 neuroscientist n. taugavísindamaður, taugafræðingur
+soundtrack n. hljóðrás, hljóðrit; bakgrunnshljóð, bakgrunnstónlist
+syndrome n. heilkenni; [Downs ~] Downs-heilkenni
+lacrosse n. háfleikur (íþrótt)
+determinist n. nauðhyggjumaður (sjá %[determinism]%)
+determinism n. nauðhyggja (sú kenning að allt sem gerist ráðist nauðsynlega af undanfarandi orsökum)
+nation-state n. þjóðríki
+so-called l. svokallaður, svonefndur
+uneventful l. óatburðaríkur (sjá %[eventful]%)
+civilized l. siðmenntaður; fágaður, háttprúður
+experimentation n. tilraunastarf, tilraunastarfsemi
+psyche n. sál, sálarlíf, hugarstarfsemi
+mentation n. hugarstarf
+psyched l. spenntur, æstur (óforml.)
+positivist n. framhyggjumaður, framstefnumaður, pósitívisti
+positivism n. framhyggja, framstefna, pósitívismi (sú kenning að raunvísindi séu best til þess fallin að tryggja mannlegar framfarir)
+logical positivism n. rökfræðileg raunhyggja
+Trinitarianism n. þrenningartrú, þrenningarátrúnaður, þrenningarkenning (þ.e. trú á þrískipt eðli guðdómsins)
+boorishness n. ruddaskapur, búralegheit (sjá %[boorish]%)
+vagueness n. ónákvæmni, óákveðni
+syphilis n. sárasótt, sýfilis (kynsjúkdómur)
+syphilitic l. sárasóttarsmitaður, smitaður af sýfilis
+self-respect n. sjálfsvirðing
+hellfire n. vítiseldur
+latinize s. snúa yfir á latínu, gera latneskt eða líkt latínu
+nationalism n. þjóðernishyggja, þjóðernisstefna
+nationalist n. þjóðernissinni, þjóðernishyggjusinni, þjóðernishyggjumaður
+nationalistic l. þjóðernislegur, þjóðernishyggjulegur
+multinationalism n. fjölþjóðahyggja
+gunfire n. skothríð
