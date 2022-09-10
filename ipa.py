@@ -302,6 +302,17 @@ SKIP = frozenset(
         "Trinitarian",
         "Trinitarianism",
         "autocratism",
+        "appeasable",
+        "evangelizer",
+        "extralegal",
+        "lobbyism",
+        "obsequiously",
+        "polyphonous",
+        "taxonomist",
+        "teaset",
+        "unappeasable",
+        "Achilles",
+        "cryptonym",
     )
 )
 

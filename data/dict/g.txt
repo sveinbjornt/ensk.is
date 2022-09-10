@@ -903,8 +903,8 @@ guise n. háttur; búningur; gervi, yfirskin; s. búa, klæða
 guitar n. gítar (hljóðfæri)
 gulf n. flói; hylur (í á eða sjó); hyldýpi; djúp; s. gleypa, svelgja ([~ down, in, up])
 gull s. leika á, svíkja; n. auli, einfeldningur; máfur
-gullibility n. trúgirni
-gullible l. auðtrúa, trúgjarn
+gullibility n. trúgirni, auðtrú
+gullible l. trúgjarn, auðtrúa
 gullet n. vélinda, kok; djúpur árfarvegur; ármynni
 gully n. gil; djúpt ræsi; s. hola, grafa niður (jarðveg)
 gulp s. sloka, teyga; gleypa ([~ down]); [~ up] æla upp; n. teygur ([at one ~]); munnsopi; slokhljóð (í hálsinum)

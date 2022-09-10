@@ -370,8 +370,8 @@ repetitive
 impermissible
 ceaselessly
 peddler
-lemma n.
-lemmatize s.
+lemma
+lemmatize
 deep-rooted
 infected
 extrapolation
@@ -393,7 +393,6 @@ anticlerical
 anticlericalism
 authorship
 humiliating
-undoubtedly
 unquestionably
 archetypical
 irreducible
@@ -433,7 +432,6 @@ specificity
 Islamism
 pivotal
 constringe
-determinist
 sophistication
 counterreaction
 interact
@@ -596,7 +594,6 @@ archaic
 bourgeois
 bourgeoisie
 deregionalize
-extramarital
 meaningless
 totalitarian
 totalitarianism
@@ -613,8 +610,6 @@ pretentiousness
 unfashionable
 wordless
 quietism
-Achilles
-dustbin
 theoretically
 ill-educated
 evil-spirited
@@ -626,7 +621,7 @@ hillside
 unendurable
 ever-growing
 dotted
-stuffing n.
+stuffing
 conventionalize
 sahib
 grandmotherly
@@ -658,8 +653,6 @@ selective
 selectivity
 unobservable
 unwarranted
-categorize
-categorization
 interrelated
 Georgian
 Elizabethan
@@ -1145,7 +1138,6 @@ factuality
 conceptualization
 intelligently
 courageously
-Stalinism
 voluntarist
 counterattack
 underway
@@ -1171,11 +1163,8 @@ self-sufficient
 rearmament
 redistribution
 redistributive
-breadbasket
 ephemeral
 breadline
-mechanization
-mechanize
 taiga
 deportee
 firepower
@@ -1189,7 +1178,6 @@ publicize
 enforcer
 inevitability
 preadolescent
-victimless
 retrojection
 naively
 anonymously
@@ -1199,7 +1187,6 @@ denazification
 demonize
 reorientation
 rapprochement
-unideological
 encirclement
 pluralism
 counterproductive
@@ -1218,7 +1205,6 @@ resettlement
 firebomb
 professoriate
 psychiatric
-euthanasia
 barbed
 interrogator
 fictional
@@ -1233,7 +1219,6 @@ fatherland
 masochistic
 noncommittal
 statelessness
-cryptonym
 tabula
 unbeatable
 agrarianism
@@ -2219,7 +2204,6 @@ ethnohistory
 offbeat
 variability
 attractor
-playfulness
 polychrome
 perimeter
 pictogram
@@ -2255,7 +2239,6 @@ sanctum
 labyrinthine
 pharaoh
 mummification
-scapula
 lavishness
 proto-
 gynocentric
@@ -2276,7 +2259,6 @@ reoccupation
 numerological
 exogamous
 neutralization
-reincarnation
 chiefship
 psychoanalytic
 cyclical
@@ -2285,12 +2267,10 @@ thuggish
 sidestep
 reconstitute
 boardwalk
-bibliographical
 sticker
 nonpartisan
 inflationary
 delusional
-median
 keystroke
 retiree
 rebalance
@@ -2369,7 +2349,6 @@ affordability
 lockbox
 unaffordable
 ironic
-stigmatization
 unreceptive
 demonization
 underpayment
@@ -2482,8 +2461,6 @@ constrictive
 panicky
 salvific
 ethnocultural
-toponym
-toponymy
 redevelopment
 intake
 sweetie
@@ -2532,7 +2509,6 @@ anxiogenic
 millenarianism
 conformism
 pathologize
-humanely
 e-book
 e-reader
 thereupon
@@ -2593,13 +2569,11 @@ amoral
 amorality
 anocracy
 accelerant
-audio
 dude
 bloke
 junta
 tercentenary
 sophomore
-healthcare
 guardrail
 participatory
 pallbearer
@@ -2629,7 +2603,6 @@ locational
 stymie
 rollback
 survivalist
-auditorium
 firecracker
 stovepipe
 newscaster
@@ -2649,7 +2622,6 @@ bullhorn
 bullwhip
 relearn
 multiethnic
-reelection
 unshakable
 synthesize
 synthesizer
@@ -2732,7 +2704,6 @@ downgrade
 admiralty
 rapaciousness
 schoolteacher
-credulousness
 camarilla
 cahoot
 ipso facto
@@ -2744,7 +2715,6 @@ backtrack
 reengage
 opportunistically
 nightshirt
-housework
 knockout
 squelch
 survivable
@@ -2786,13 +2756,11 @@ deviationist
 indigenization
 typescript
 self-assurance
-reelect
 unsupportive
 turnaround
 demo
 karma
 phentermine
-webcam
 locale
 deluxe
 untitled
@@ -2839,7 +2807,6 @@ trainee
 trouser
 self-destructive
 nutter
-self-harm
 jailbird
 aspirational
 unduly
@@ -2875,7 +2842,6 @@ cinematic
 apologizer
 numinous
 maximizer
-inadvisable
 oxytocin
 dopamine
 poltergeist
@@ -2912,10 +2878,8 @@ mundial
 haemorrhage
 melodic
 golly
-evangelism
 impecunity
 bootstrap
-algebraic
 quant
 e-commerce
 attentiveness
@@ -2928,7 +2892,6 @@ clueless
 avionics
 summation
 shopper
-lobbyist
 nerdy
 exponentially
 commuter
@@ -2966,6 +2929,7 @@ self-regulation
 white-collar
 hackathon
 miniscule
+minuscule
 squishy
 dropout
 extraversion
@@ -3021,8 +2985,6 @@ aggregator
 quantification
 runoff
 decile
-reuse
-reusable
 sneaker
 prosecutorial
 constitutionality
@@ -3046,8 +3008,6 @@ cisalpine
 transalpine
 aromatics
 censorial
-tediousness
-freeborn
 unskilfulness
 amphora
 genuflect
@@ -3136,7 +3096,6 @@ afresh
 parodic
 juvenilia
 Napoleonic
-reassessment
 outspokenness
 complementarity
 extra-territorial
@@ -3157,6 +3116,30 @@ diffuseness
 uneasiness
 superintendance
 conversible
-appeasable
-unappeasable
 pleasantness
+thespian
+peloton
+cyberpunk
+steampunk
+cybernetic
+cybernetics
+petrodollar
+blueprint
+megastructure
+monorail
+prefabricate
+gulag
+podium
+heteronym
+ethnonym
+retronym
+tautonym
+acronym
+metonym
+paronym
+allonym
+caconym
+autonym
+eponym
+exonym
+morphogenesis

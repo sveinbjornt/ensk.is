@@ -272,7 +272,7 @@ bot n. (stytt. á %[robot]%) vélmenni, þjarkur
 surveillance n. eftirlit
 tweeze s. snyrta með flísatöng
 aerodrome n. flugvöllur, flugstöð
-airport n. flugvöllur, flugstöð
+airport n. flugvöllur, flugstöð, flughöfn
 accelerator n. hraðall; bensíngjöf (á bifreið eða farartæki)
 mobile device n. fartæki
 airliner n. farþegaflugvél
@@ -285,7 +285,9 @@ paleolithic l. steinaldar-
 neolithic l. nýsteinaldar-
 superstate n. stórveldi; ríki myndað úr mörgum smærri ríkjum
 Stalinist n. stalínisti (fylgismaður stjórnaraðferða Jósefs Stalín); l. stalínskur
+Stalinism n. stalínismi (stefna Jósefs Stalín í Sovétríkjunum)
 Leninist n. lenínisti (fylgismaður hugmyndafræði Vladimírs Lenín); l. lenínskur
+Leninism n. lenínismi (hugmyndafræði Vladimírs Lenín)
 conglomeration n. samsteypa
 conglomerate n. samsteypa; s. steypa saman
 conglomerated l. samsteyptur, samsettur
@@ -382,6 +384,7 @@ crowdfunding n. lýðfjármögnun, hópfjármögnun
 crowdfunded l. lýðfjármagnað, hópfjármagnað
 circuit n. hringrás; rafrás, rafstraumsrás; s. fara yfir, fara í kringum
 polypropylene n. fjölprópýlen, pólýprópýlen
+audio n. hljóð
 cassette n. (hljóð)snælda, kassetta
 audio cassette n. (hljóð)snælda, (hljóð)spóla, kassetta
 hard disk n. harður diskur (í tölvum)
@@ -928,6 +931,7 @@ callus n. sigg
 vacuum cleaner n. ryksuga
 bibliographer n. bókfræðingur
 bibliographic l. bókfræðilegur, bókfræði-
+bibliographical l. bókfræðilegur, bókfræði-
 motherboard n. móðurborð (í vélbúnaði)
 pasta n. pasta (deig gert úr hveiti)
 spaghetti n. spagettí, hveitilengjur (tegund af %[pasta]%)
@@ -1000,7 +1004,7 @@ sadist n. lostakvalari, sadisti
 sadistic l. kvalalosta-, sadista-
 masochism n. sjálfspíningarhvöt
 sadomasochism n. sadómasókismi, löngun til að kvelja bæði sjálfan sig og aðra (sjá %[sadism]% og %[masochism]%)
-sadomasochistic n. sadómasókískur, kvalarlosta- (sjá %[sadomasochism])
+sadomasochistic n. sadómasókískur, kvalarlosta- (sjá %[sadomasochism]%)
 BDSM n. kynlíf sem einkennist af kvalalosta, pyntingu, drottnun og undirgefni (stytt. á [bondage, domination, sado-masochism])
 skeptic n. sjá %[sceptic]%
 skeptical l. sjá %[sceptical]%
@@ -1719,6 +1723,7 @@ absolute monarch n. einvaldur
 absolute monarchy n. einveldisríki, ríki þar sem konungur er einvaldur og öllu ræður
 ideological l. hugmyndafræðilegur, hugmyndafræði-
 ideologically ao. hugmyndafræðilega
+unideological l. óhugmyndafræðilegur
 ideology n. hugmyndafræði
 ideologue n. hugmyndafræðingur, talsmaður e-r hugmyndafræði
 climatology n. veðurfarsfræði
@@ -2273,3 +2278,47 @@ taxonomy n. flokkunarfræði
 taxonomic l. flokkunarfræðilegur
 taxonomist n. flokkunarfræðingur
 horseshit n. hrossaskítur, hestaskítur, hrossatað; kjaftæði (óforml.)
+appeasable l. sefanlegur, friðþægjanlegur
+unappeasable l. ósefanlegur, ófriðþægjanlegur
+reassessment n. endurmat (sjá %[assessment]%)
+freeborn l. frjálsborinn
+tediousness n. leiðindi (sjá %[tedious]%)
+reuse s. endurnota, endurnýta
+reusable l. endurnotanlegur, endurnýtanlegur
+algebraic l. algebru-, bókstafareiknings-
+lobbyism n. lobbýismi, pólitísk hagsmunagæsla
+lobbyist n. lobbýisti, hagsmunagæslumaður, e-r sem fæst við pólitíska hagsmunagæslu
+evangelism n. trúboð; kristniboð; boðburður
+evangelizer n. trúboði, boðberi
+inadvisable n. óráðlegur (sjá %[advisable]%)
+self-harm n. sjálfsskaði
+credulousness n. trúgirni, auðtrú
+categorize s. flokka
+categorization n. flokkun
+dustbin n. ruslafata, ruslatunna, ruslakarfa
+Achilles n. Akkilles (forngrísk hetja)
+extramarital l. utan hjónabands
+undoubtedly ao. án efa, eflaust, efalaust
+stigmatization n. brennimerking
+median n. miðgildi; l. miðgildis-
+reincarnation n. endurholdgun, endurfæðing
+spatula n. spaði
+playfulness n. gamansemi
+scapula n. herðablað
+webcam n. vefmyndavél
+reelect s. endurkjósa, endurvelja
+reelection n. endurkjör, endurkosning
+housework n. húsverk, heimilisstörf, heimilisverk
+auditorium n. (áheyrenda)salur, samkomusalur, hljómleikasalur
+healthcare n. heilbrigðisþjónusta
+humanely ao. mannúðlega, manneskjulega
+toponym n. örnefni, staðarnafn
+cryptonym n. dulnefni
+euthanasia n. líknardráp
+euthanize s. aflífa, deyða, lóga (sjá %[euthanasia]%)
+thanatology n. dauðafræði
+victimless l. án fórnarlambs
+mechanize s. vélvæða
+mechanization n. vélvæðing
+breadbasket n. brauðkarfa
+co-founder n. meðstofnandi

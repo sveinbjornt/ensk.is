@@ -167,9 +167,9 @@ academician n. meðlimur lista- og vísindafélaga
 academy n. háskóli; lista- og vísindafélag
 acanthus n. e.k. blóm
 accede s. taka við (t.d. embætti [to a post]), samþykkja ([~ to])
-accelerate s. flýta fyrir; vaxa að hraða
-acceleration n. flýtir; vaxandi hraði
-accelerative l. flýtandi
+accelerate s. flýta fyrir; vaxa að hraða, auka hraða
+acceleration n. flýtir; vaxandi hraði, hraðaaukning
+accelerative l. flýtandi, hraðaaukandi
 accent n. áhersla, áherslumerki; framburður, málrómur; s. leggja áherslu á; setja áherslumerki yfir
 accentuate s. leggja áherslu á; setja áherslumerki yfir
 accentuation n. áhersla
@@ -704,7 +704,7 @@ alegar n. öledik, súrt öl
 alert l. var um sig; fjörugur, hvatlegur; n. skyndilegt áhlaup; [on the ~] á varðbergi
 alertness n. hvatleiki
 alfresco ao. undir berum himni
-algebra n. tölvísi
+algebra n. bókstafareikningur, tölvísi, algebra
 algous l. þang-, þara-
 alias ao. annars, endranær
 alibi n. vera annars staðar, fjarvera ([proof of an ~])
@@ -1195,8 +1195,8 @@ apparitor n. réttarþjónn; háskólaþjónn
 appeal s. skjóta máli til æðra dóms, áfrýja; skírskota til, vitna til ([to]); n. málskot, áfrýjun; ákall; bæn
 appear s. koma í ljós; koma út (um bók); vitrast; vera augljós, virðast, sýnast; [it ~s to me] mér virðist
 appearance n. útlit; svipur; vofa; koma; útkoma (bókar)
-appease s. sefa, stilla, bæla niður
-appeasement n. sefun, fróun, friðun
+appease s. sefa, stilla, bæla niður, friðþægja
+appeasement n. sefun, fróun, friðun, friðþæging
 appellant n. áfrýjandi
 appellation n. nafn, heiti
 appellative n. sameiginlegt nafn
@@ -1502,7 +1502,7 @@ assertor n. talsmaður
 assertory l. staðhæfandi, staðfestingar- ([assertory oath])
 assess s. jafna niður (sköttum), leggja skatt á; meta, virða (eignir eða tekjur)
 assessable l. skattskyldur
-assessment n. niðurjöfnun; skattur, skattgjald; verðmat (á eignum og tekjum)
+assessment n. niðurjöfnun; skattur, skattgjald; mat; verðmat (á eignum og tekjum)
 assessor n. ráðunautur; niðurjöfnunarmaður; virðingarmaður
 asseverate s. staðhæfa, fullyrða hátíðlega
 asseveration n. hátíðleg staðhæfing

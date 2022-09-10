@@ -234,9 +234,9 @@ elective l. sem er kosinn, kjör- ([~ king]); kominn undir kosningu ([~ monarchy
 elector n. kjósandi; kjörfursti (í Þýskalandi)
 electoral l. kosningar- ([~ franchise]); kjörfurstalegur
 electoral district n. kjördæmi
-electorate n. kjörfurstatign; kjörfurstadæmi; (allir) kjósendur
+electorate n. (allir) kjósendur; kjörfurstatign; kjörfurstadæmi
 electorship n. kjörfurstadæmi
-electress n. kjörfurstafrú; kvennkjósandi
+electress n. kjörfurstafrú; kvenkjósandi
 electric l. rafmagns-
 electrical l. rafmagns-
 electrical eel n. hrökkáll
