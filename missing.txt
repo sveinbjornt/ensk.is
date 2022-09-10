@@ -1913,8 +1913,6 @@ proliferate
 clinician
 heritability
 neurophysiologist
-gene
-geneticist
 sterilize
 sterilization
 victimizer
@@ -1976,8 +1974,6 @@ kibbutz
 weightless
 self-justification
 extrasensory
-autobiographer
-gregariousness
 egomania
 egomaniac
 instantiate
@@ -1997,16 +1993,13 @@ self-conscious
 self-importance
 socialite
 orotundity
-unsubtle
 comestible
 shrillness
 drumbeat
 reunification
 impermanence
-unreality
 Anglophilia
 authorial
-mammalian
 functionalism
 self-pity
 denouement
@@ -2025,7 +2018,6 @@ ergonomic
 ergonomics
 domestication
 seasonality
-simplification
 prioritize
 subfield
 backlash
@@ -2050,7 +2042,6 @@ panhandler
 entourage
 exotica
 quirky
-cannibalistic
 competitiveness
 counterargument
 clear-sightedness
@@ -2084,7 +2075,6 @@ instinctual
 puzzlement
 chronometric
 monumentality
-bonobo
 patchiness
 autopilot
 dialogic
@@ -2117,7 +2107,6 @@ flotilla
 underwater
 shoreline
 commonsensical
-minimization
 cultivar
 urbanism
 Semitic
@@ -2144,7 +2133,6 @@ drifter
 interiority
 counterpoint
 agglutinative
-deterministic
 post-structuralism
 re-enactment
 encapsulate
@@ -2157,8 +2145,6 @@ introversion
 extroversion
 extrovert
 oddball
-matrilineal
-patrilineal
 phantasmagorical
 phantasmagoria
 takedown
@@ -2221,7 +2207,6 @@ orthogonal
 grid
 façade
 tortilla
-newfound
 self-deprecation
 arcane
 shaman
@@ -2238,9 +2223,7 @@ sanctum
 labyrinthine
 pharaoh
 mummification
-lavishness
 proto-
-gynocentric
 turquoise
 imperialistic
 extractive
@@ -2255,7 +2238,6 @@ fenland
 otherworldly
 orchestration
 reoccupation
-numerological
 exogamous
 neutralization
 chiefship
@@ -2271,8 +2253,6 @@ nonpartisan
 inflationary
 delusional
 keystroke
-retiree
-rebalance
 skyrocket
 holler
 folksy
@@ -2336,7 +2316,6 @@ devaluation
 recessionary
 slowdown
 lifeline
-robotics
 liberalization
 protectionism
 shoehorn
@@ -3079,7 +3058,6 @@ replay
 antitrust
 tripwire
 tagline
-indecisiveness
 seedling
 misstep
 hardscrabble
@@ -3127,7 +3105,6 @@ blueprint
 megastructure
 monorail
 prefabricate
-gulag
 podium
 heteronym
 ethnonym
@@ -3143,3 +3120,6 @@ eponym
 exonym
 morphogenesis
 whingy
+fletcher
+fletch
+necrotic

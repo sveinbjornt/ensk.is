@@ -19,7 +19,6 @@ zombie n. uppvakningur
 dinosaur n. risaeðla
 neurodegeneration n. taugahrörnun
 neurodegenerative l. taugahrörnunar-; [~ disorder] taugahrörnunarsjúkdómur
-robot n. vélmenni, vélþræll, þjarkur
 bathroom n. baðherbergi
 calcium n. kalk
 biotechnology n. líftækni
@@ -2044,7 +2043,7 @@ hamburger n. hamborgari
 asparagus n. aspas
 policewoman n. lögreglukona, (kven)lögregluþjónn
 cello n. selló (hljóðfæri)
-caveman n. hellisbúi
+caveman n. hellisbúi; frummaður
 ketchup n. tómatsósa
 bartender n. barþjónn
 epidemiology n. faraldursfræði, farsóttafræði
@@ -2207,6 +2206,7 @@ syndrome n. heilkenni; [Downs ~] Downs-heilkenni
 lacrosse n. háfleikur (íþrótt)
 determinist n. nauðhyggjumaður, nauðhyggjusinni (sjá %[determinism]%)
 determinism n. nauðhyggja (sú kenning að allt sem gerist ráðist nauðsynlega af undanfarandi orsökum)
+deterministic l. löggengur; nauðhyggjulegur
 nation-state n. þjóðríki
 so-called l. svokallaður, svonefndur
 uneventful l. óatburðaríkur (sjá %[eventful]%)
@@ -2323,3 +2323,38 @@ mechanization n. vélvæðing
 breadbasket n. brauðkarfa
 co-founder n. meðstofnandi
 concatenated l. samtengdur, hlekkjaður saman, skeyttur saman, samskeyttur
+robot n. vélmenni, vélþræll, þjarkur
+robotic l. sjálfstýrður; vélrænn; þjarka-, vélmennis-; [~ surgery] þjarkaskurðlækningar
+robotics n. ft. þjarkafræði, vélmennafræði (sjá %[robot]%)
+rebalance s. koma aftur í jafnvægi
+retiree n. eftirlaunaþegi, ellilífeyrisþegi, e-r sem hefur sest í helgan stein eða dregið sig í hlé (sjá %[retire]%)
+numerology n. talnafræði
+numerological l. talnafræðilegur
+numerologist n. talnafræðingur
+gynocentric l. kvenmiðaður
+lavishness n. örlæti, eyðslusemi
+newfound l. nýfundinn
+matrilineal l. í móðurlegg
+patrilineal l. í föðurlegg
+minimization n. lágmörkun, minnkun, smækkun
+bonobo n. bónóbó-api
+cannibalistic l. sem étur sig sjálft; mannætulegur, mannætu- ([the natives engage in ~ practices])
+simplification n. einföldun
+mammalian l. spendýra-, af spendýraætt
+unreality n. óraunveruleiki
+unsubtle l. óslægur; ónæmur; óskarpskyggn (Sjá %[subtle]%)
+autobiographer n. sjálfsævisöguritari, sjálfsævisöguhöfundur
+gregariousness n. félagslyndi; að halda sig í hópum
+groupthink n. hóplyndi
+chromosome n. litningur
+chromosphere n. lithvolf
+gene n. gen
+genetic l. gena-, erfða-; genetískur
+genome n. erfðamengi, genamengi
+geneticist n. erfðafræðingur, genafræðingur
+autophagia n. sjálfsát
+necropsy n. krufning
+nectarine n. nektarína
+nectarivore n. blómsykursæta, dýr sem nærist á blómsykri
+gulag n. gúlag (fangabúðir í Sovétríkjunum)
+indecisiveness n. óákveðni, efablendni, ráðaleysi

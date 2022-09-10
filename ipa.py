@@ -317,6 +317,10 @@ SKIP = frozenset(
         "Stalinism",
         "thanatology",
         "unideological",
+        "gynocentric",
+        "autophagia",
+        "necropsy",
+        "nectarivore",
     )
 )
 
