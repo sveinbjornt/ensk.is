@@ -2309,7 +2309,7 @@ webcam n. vefmyndavél
 reelect s. endurkjósa, endurvelja
 reelection n. endurkjör, endurkosning
 housework n. húsverk, heimilisstörf, heimilisverk
-auditorium n. (áheyrenda)salur, samkomusalur, hljómleikasalur
+auditorium n. áheyrendasalur, samkomusalur, hljómleikasalur
 healthcare n. heilbrigðisþjónusta
 humanely ao. mannúðlega, manneskjulega
 toponym n. örnefni, staðarnafn
@@ -2322,3 +2322,4 @@ mechanize s. vélvæða
 mechanization n. vélvæðing
 breadbasket n. brauðkarfa
 co-founder n. meðstofnandi
+concatenated l. samtengdur, hlekkjaður saman, skeyttur saman, samskeyttur

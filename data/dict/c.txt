@@ -391,7 +391,7 @@ catechism n. spurningakver
 catechist n. barnafræðari
 catechize s. spyrja börn (úr fræðunum); kenna fræðin
 categorical l. ákveðinn, eindreginn, vafalaus
-category n. frumsögn; hugsunargrein; hugtak; (hugmyndaflokkur)
+category n. flokkur, hugmyndaflokkur; frumsögn; hugsunargrein; hugtak
 catenate s. tengja saman
 cater s. útvega (e-m) matvæli ([for]); sjá fyrir e-m ([for, to]); [~ for newspapers] safna efni í dagblöð; n. fjarki (í spilum; fjórir á teningi)
 caterer n. vistastjóri
@@ -2228,12 +2228,12 @@ corroborate s. staðfesta
 corroboration n. staðfesting
 corroborative l. staðfestandi
 corrode s. éta í sundur, eyða
-corrosion n. eyðing
-corrosive l. etandi, eyðandi; beiskur, sár ([~ woe])
+corrosion n. æting, tæring, eyðing
+corrosive l. ætandi, tærandi, eyðandi; beiskur, sár ([~ woe])
 corrugate s. gera bárur eða hrukkur á
 corrugated l. hrukkóttur, báróttur
 corrugated iron n. bárujárn, þakjárn
-corrupt s. spilla, skemma; múta; afbaka; rotna, úldna; l. spilltur; afbakaður (um texta); [a ~ witness] vitni, sem hefur þegið mútur
+corrupt s. spilla, skemma; múta; afbaka; rotna, úldna; l. spilltur; afbakaður (um texta eða gögn); [a ~ witness] vitni sem hefur þegið mútur
 corruptibility n. hverfulleiki
 corruptible l. sem tekur (þiggur) mútur; undirorpinn eyðileggingu, hverfull
 corruption n. spilling, mútuþága; afbökun ([~ of a word])

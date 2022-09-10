@@ -1124,7 +1124,6 @@ interconnected
 defund s.
 thylacine
 pachyderm
-co-founder
 bioinformatics
 dunnart
 rewild
@@ -3143,3 +3142,4 @@ autonym
 eponym
 exonym
 morphogenesis
+whingy

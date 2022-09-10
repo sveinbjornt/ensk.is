@@ -313,6 +313,10 @@ SKIP = frozenset(
         "unappeasable",
         "Achilles",
         "cryptonym",
+        "co-founder",
+        "Stalinism",
+        "thanatology",
+        "unideological",
     )
 )
 
