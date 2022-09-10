@@ -2343,6 +2343,7 @@ simplification n. einföldun
 mammalian l. spendýra-, af spendýraætt
 unreality n. óraunveruleiki
 unsubtle l. óslægur; ónæmur; óskarpskyggn (Sjá %[subtle]%)
+necropsy n. krufning
 autobiographer n. sjálfsævisöguritari, sjálfsævisöguhöfundur
 gregariousness n. félagslyndi; að halda sig í hópum
 groupthink n. hóplyndi
@@ -2353,8 +2354,15 @@ genetic l. gena-, erfða-; genetískur
 genome n. erfðamengi, genamengi
 geneticist n. erfðafræðingur, genafræðingur
 autophagia n. sjálfsát
-necropsy n. krufning
 nectarine n. nektarína
 nectarivore n. blómsykursæta, dýr sem nærist á blómsykri
 gulag n. gúlag (fangabúðir í Sovétríkjunum)
 indecisiveness n. óákveðni, efablendni, ráðaleysi
+tireless l. óþreytandi
+polygraph n. lygamælir ([did you pass the ~ test?])
+overestimate s. ofmeta
+maximizer n. hámarkari, e-r sem hámarkar (sjá %[maximize]%)
+craps n. sjö-ellefu (e.k. teningaspil)
+washboard n. þvottabretti
+mom n. mamma (óforml.)
+mommy n. mamma (oforml.)

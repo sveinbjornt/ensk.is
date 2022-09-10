@@ -321,6 +321,7 @@ SKIP = frozenset(
         "autophagia",
         "necropsy",
         "nectarivore",
+        "maximizer",
     )
 )
 
