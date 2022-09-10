@@ -15,6 +15,7 @@ heliocentric l. sólmiðju-
 geoheliocentrism n. jarðsólmiðjukenning stjarnfræðingsins Tycho Brahe ([the Tychonic system])
 pseudoscience n. gervivísindi
 pseudoscientific l. gervivísindalegt
+pseudoscientist n. gervivísindamaður
 zombie n. uppvakningur
 dinosaur n. risaeðla
 neurodegeneration n. taugahrörnun
@@ -2024,7 +2025,10 @@ cirrhosis n. skorpulifur ([~ of the liver])
 Esperanto n. esperantó
 Esperantist n. esperantisti
 Esperantism n. esperantismi
+biochemistry n. lífefnafræði
+biochemist n. lífefnafræðingur
 biochemical l. lífefnafræðilegur
+biochemically ao. lífefnafræðilega
 rowboat n. árabátur
 parentless l. foreldralaus
 wheelchair n. hjólastóll
@@ -2366,3 +2370,12 @@ craps n. sjö-ellefu (e.k. teningaspil)
 washboard n. þvottabretti
 mom n. mamma (óforml.)
 mommy n. mamma (oforml.)
+philosophically ao. heimspekilega
+uninterpretable l. ótúlkanlegur
+predictability n. fyrirsjáanleiki
+game theory n. leikjafræði
+game-theoretic l. leikjafræðilegur
+redefinition n. endurskilgreining
+biologically ao. líffræðilega
+heroically ao. hetjulega
+unheroically ao. óhetjulega

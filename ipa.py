@@ -322,6 +322,10 @@ SKIP = frozenset(
         "necropsy",
         "nectarivore",
         "maximizer",
+        "game-theoretic",
+        "pseudoscientist",
+        "unheroically",
+        "uninterpretable",
     )
 )
 
