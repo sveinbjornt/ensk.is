@@ -458,7 +458,6 @@ deflationary
 deflation
 independently
 self-contradiction
-allegience
 supra-national
 shanghai s.
 self-satisfaction
@@ -1060,7 +1059,6 @@ codex
 unconventional
 coastline
 bimonthly
-caffeine
 tired-looking
 archival
 babysitter
@@ -1077,7 +1075,6 @@ availability
 longhouse
 lifestyle
 unfamiliarity
-generalization
 flatbread
 seawater
 geographically
@@ -1240,7 +1237,6 @@ pesticide
 rearrange
 commando
 pogrom
-lawlessness
 preemptive
 preemption
 escalation
@@ -1301,7 +1297,6 @@ dialectical
 containment
 undercover
 conspiratorial
-robotic
 fussiness
 retrospectively
 victimhood
@@ -1326,6 +1321,7 @@ prognathous
 eyeglass
 fower
 monoplane
+biplane
 cypher
 pursuer
 goggles
@@ -1383,7 +1379,6 @@ realignment
 totemic
 archetypal
 hairline
-gargantuan
 unorthodoxy
 deviance
 pederasty
@@ -1403,14 +1398,11 @@ incubator
 normality
 terracotta
 funerary
-haircut
 weaponry
 sunbeaten
 trustworthiness
-polytheistic
 lifespan
 honourable
-stubbornness
 overspill
 factional
 factionalism
@@ -1486,7 +1478,6 @@ thematic
 godforsaken
 objectively
 overwrite
-ultraviolent
 duplicitous
 showdown
 prequel
@@ -1494,7 +1485,6 @@ remake
 accolade
 suitability
 milieu
-marshland
 undiplomatic
 untruthful
 untrustworthy
@@ -1547,7 +1537,6 @@ metalwork
 hubristic
 sainthood
 lifelike
-belltower
 rinderpest
 interplay
 overpopulation
@@ -1566,10 +1555,8 @@ cryptically
 vengefulness
 townsfolk
 psychosis
-rebirth
 reputational
 shenanigan
-wanderlust
 forebear
 parisis
 chaperon
@@ -1617,17 +1604,14 @@ epochal
 unhistorical
 bloodlust
 bloodless
-grassland
 graveyard
 monopolization
 ascetism
 Arianism
 Arian
-colourful
 reinterpretation
 statistic
 Balkans
-phosphorous
 unknowable
 sketchiness
 graven
@@ -1714,7 +1698,6 @@ legalese
 proofread
 literalism
 formica
-stairwell
 parmesan
 workload
 mishmash
@@ -1754,7 +1737,6 @@ trucker
 matronly
 payslip
 sloppiness
-paralegal
 disinterest
 typeset
 addendum
@@ -3198,7 +3180,6 @@ renascence
 Neoplatonism
 Neoplatonist
 Neoplatonic
-childlessness
 classificatory
 meagerness
 seascape
@@ -3235,3 +3216,5 @@ phronetic
 frenetic
 Anglophobe
 Anglophobia
+overgeneralization
+generalization

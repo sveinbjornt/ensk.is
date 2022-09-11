@@ -2368,8 +2368,8 @@ overestimate s. ofmeta
 maximizer n. hámarkari, e-r sem hámarkar (sjá %[maximize]%)
 craps n. sjö-ellefu (e.k. teningaspil)
 washboard n. þvottabretti
-mom n. mamma (óforml.)
-mommy n. mamma (oforml.)
+mom n. mamma, móðir (óforml.)
+mommy n. mamma, móðir (oforml.)
 philosophically ao. heimspekilega
 uninterpretable l. ótúlkanlegur
 predictability n. fyrirsjáanleiki
@@ -2380,13 +2380,30 @@ biologically ao. líffræðilega
 heroically ao. hetjulega
 unheroically ao. óhetjulega
 tubercular l. berkla- (sjá %[tuberculosis]%)
-overgeneralization n. of mikil alhæfing
 lemma n. lemma
 lemmatize s. lemma
 toke s. reykja kannabis (óforml.)
-foxhound n. veiðihundur, refaveiðihundur
+foxhound n. veiðihundur
 unharmonious l. ósamræmur, ósamhljóða; óhljómfagur; ósamhuga, ósamlyndur
 warlock n. seiðkarl, galdrakarl
 adjustable l. stillanlegur
 prenuptial l. á undan brúðkaupi, fyrir brúðkaup; n. kaupmáli ([~ agreement])
 prenup n. stytt. á %[prenuptial]%
+cayman n. e.k. amerískur krókódíll
+caffeine n. koffín
+childlessness n. barnleysi
+paralegal n. aðstoðarmaður lögfræðings
+stairwell n. stigagangur
+phosphorous l. fosfórs-
+colourful l. litríkur, litskrúðugur
+grassland n. graslendi
+wanderlust n. ferðaþrá, flökkuþrá
+rebirth n. endurfæðing
+belltower n. klukkuturn
+marshland n. fen, fenjasvæði, votlendi, mýrlendi
+ultraviolent l. gríðarlega ofbeldisfullur
+stubbornness n. þrjóska, þvermóðska
+polytheistic l. fjölgyðistrúarlegur, fjölgyðis- ([~ religion])
+haircut n. klipping, hárgreiðsla
+gargantuan l. gríðarstór, risastór, rixavaxinn, gífurlegur
+lawlessness n. lögleysi, lögleysa; ranglæti

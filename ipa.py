@@ -328,6 +328,8 @@ SKIP = frozenset(
         "uninterpretable",
         "overgeneralization",
         "prenup",
+        "ultraviolent",
+        "belltower",
     )
 )
 
