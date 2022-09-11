@@ -12,6 +12,7 @@ gyroscope
 kafkaesque
 scoot s.
 scooter
+electric scooter
 ornery
 contrarian
 stochastic
@@ -23,7 +24,6 @@ mug
 hijack
 hijacker
 gourmet
-adjustable
 coordinator
 layout
 anyway
@@ -56,7 +56,6 @@ antialias
 counterfactual
 cat o' nine tails
 boomerang
-toke s.
 locus
 colostomy
 urethra
@@ -120,7 +119,6 @@ online
 deployment
 integration
 collectible
-illustrated
 manufacturing
 supercede
 goth
@@ -161,6 +159,7 @@ characterization
 personals
 quest
 confrontation
+confrontational
 repo
 pivot
 devastating
@@ -370,8 +369,6 @@ repetitive
 impermissible
 ceaselessly
 peddler
-lemma
-lemmatize
 deep-rooted
 infected
 extrapolation
@@ -544,7 +541,6 @@ hypocritically
 borderless
 Victorian
 borderline
-acronym
 hellhole
 everyone
 checkpoint
@@ -2522,7 +2518,6 @@ metonymically
 sociologism
 psychologism
 wellspring
-overgeneralization
 hero-worship
 liberationist
 desegregation
@@ -2634,7 +2629,6 @@ gendarmerie
 barometric
 cobblestone
 deliveryman
-confrontational
 particularistic
 Westernization
 personalism
@@ -2723,7 +2717,6 @@ usable
 anarchosyndicalist
 manqué
 protégé
-tubercular
 cockamamie
 counterproposal
 centralizer
@@ -3062,7 +3055,6 @@ helion
 skillet
 foreplay
 auspex
-warlock
 afresh
 parodic
 juvenilia
@@ -3080,7 +3072,6 @@ chaise
 second-hand
 mayoralty
 self-complacency
-foxhound
 blowsy
 precipitance
 diffuseness
@@ -3144,7 +3135,6 @@ typicality
 universalizability
 universalizable
 interminability
-unharmonious
 melange
 apocalypticism
 specifically
@@ -3174,7 +3164,6 @@ midpoint
 quantifier
 modifier
 probabilistic
-counter-factual
 pterodactyl
 topology
 explicability
@@ -3243,3 +3232,6 @@ historicist
 historicism
 relentlessness
 phronetic
+frenetic
+Anglophobe
+Anglophobia

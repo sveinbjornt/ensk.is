@@ -326,6 +326,8 @@ SKIP = frozenset(
         "pseudoscientist",
         "unheroically",
         "uninterpretable",
+        "overgeneralization",
+        "prenup",
     )
 )
 
