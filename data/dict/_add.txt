@@ -406,6 +406,7 @@ demographic l. lýðfræðilegur
 demography n. lýðfræði
 demographics n. ft. lýðfræðiupplýsingar, lýðfræðileg tölfræði
 demographer n. lýðfræðingur
+demographically ao. lýðfræðilega
 downtown n. miðbær, miðborg; l. & ao. miðbæjar-, í miðbænum ([I visited ~ San Francisco, it was a place ~])
 evaluation n. mat ([a comprehensive ~ of his performance])
 evaluate s. meta, yfirvega
@@ -1386,7 +1387,7 @@ catalog n. sjá %[catalogue]%
 criteria n. ft. sjá %[criterion]%
 originally ao. upphaflega, upprunalega; frumlega, einkennilega; sjá %[original]%
 infrared l. innrauður, infrarauður; [~ light] innrautt ljós
-biomass n. lífmassi
+biomass n. lífmassi; lífbrenni
 NATO n. stytt. á [North Atlantic Treaty Organization]; Atlantshafsbandalagið
 polyphony n. margröddun, fjölröddun, pólýfónía
 polyphonic l. margraddaður, fjölraddaður
@@ -1474,6 +1475,7 @@ bingo n. bingó (spil)
 questionnaire n. spurningalisti
 nunchucks n. ft. e.k. bardagakylfur frá eyjunni Okinawa
 gadget n. græja, tæki
+gadgetry n. græjur, tæki
 extremist n. öfgamaður, öfgasinni; l. öfga-, öfgafullur
 extremism n. öfgastefna, öfgar
 limey n. Englendingur, Breti (Band. slangur)
@@ -1598,6 +1600,7 @@ toxigenic l. eiturmyndandi
 earphones n. ft. eyrnatól
 redesignate s. endurtilgreina
 recyclability n. endurvinnanleiki
+recyclable l. endurvinnanlegur; n. endurvinnanlegur hlutir
 otoscopy n. eyrnaspeglun
 undermentioned l. neðangreindur, eftirtalinn
 unilateral l. einhliða, einhliðaður
@@ -1836,7 +1839,7 @@ fertilizer n. áburður
 ecosystem n. vistkerfi
 spaceflight n. geimflug
 battleground n. vígvöllur
-Anglophone l. enskumælandi
+Anglophone l. enskumælandi; n. e-r sem er enskumælandi
 superstar n. stórstjarna
 arsonist n. brunavargur
 self-destruction n. sjálfstortíming, sjálfseyðing
@@ -1925,7 +1928,7 @@ quinoa n. kínóa
 chickpea n. kjúklingabaun
 cassava n. kassava, kassavarót
 basketry n. körfugerð
-potbelly n. ístra
+potbelly n. ístra, bumba
 soapstone n. kléberg
 powerlessness n. vanmætti, máttleysi
 simian l. apalegur, apa-; n. api, dýr af apaætt
@@ -1974,6 +1977,7 @@ imprecise l. ónákvæmur
 interwar l. millistríðs-, millistríðsára- ([the ~ period])
 warlord n. stríðsherra, herkonungur
 Siberia n. Síbería (stórt svæði í Austur-Rússlandi)
+Siberian l. síberískur; n. Síberíubúi
 magma n. bergkvika
 hiccup n. hiksti
 swastika n. hakakross
@@ -2035,6 +2039,7 @@ wheelchair n. hjólastóll
 toenail n. tánögl
 baguette n. bagetta (ílangur brauðhleifur)
 backpack n. bakpoki
+backpacker n. bakpokaferðalangur
 homelessness n. heimilisleysi
 goldfish n. gullfiskur
 birthmark n. fæðingarblettur
@@ -2407,3 +2412,47 @@ polytheistic l. fjölgyðistrúarlegur, fjölgyðis- ([~ religion])
 haircut n. klipping, hárgreiðsla
 gargantuan l. gríðarstór, risastór, rixavaxinn, gífurlegur
 lawlessness n. lögleysi, lögleysa; ranglæti
+langoustine n. humar
+pickled l. súrsaður
+euphoniousness n. hljómfegurð (sjá %[euphonious]%)
+sellsword n. málaliði
+killjoy n. gleðispillir
+anecdotal l. frásagnarlegur, anekdótu-
+communitarian l. samfélagshyggju-; n. samfélagshyggjumaður
+communitarianism n. sam­fé­lags­hyggja
+militarily ao. hernaðarlega
+avocado n. lárpera, avókadó (ávöxtur)
+laughably ao. hlægilega
+condom n. smokkur (getnaðarvörn)
+concerto n. konsert, tónleikar (úr Ítölsku)
+technically ao. tæknilega
+skateboard n. hljólabretti; s. ferðast á hljólabretti
+emotionally ao. tilfinningalega
+embarrassingly ao. vandræðalega
+undeniably ao. óneitanlega
+macaque n. makakíapi
+blueberry n. bláber
+syrup n. síróp
+thirsty l. þyrstur
+deodorant n. svitalyktareyðir
+paperweight n. bréfapressa
+grapefruit n. greipaldin
+soulmate n. sálufélagi
+biofuel n. lífeldsneyti, lífrænt eldsneyti
+ethanol n. etanól, etýlalkóhól, vínandi
+painkiller n. verkjalyf, verkjastillandi lyf
+tableware n. borðbúnaður
+permafrost n. sífreri
+popcorn n. poppkorn
+sorghum n. dúrra, súdangras
+seaworthiness n. (um skip) sjófærni
+spiderweb n. köngulóarvefur
+Francophone l. frönskumælandi; n. e-r sem er frönskumælandi
+antifreeze n. frostlögur, frostvökvi
+mozzarella n. mozzarella-ostur
+borehole n. borhola
+oversimplify s. ofeinfalda, ofureinfalda, einfalda um of
+oversimplification n. ofeinföldun, ofureinföldun
+kibbutz n. samyrkjubú (í Ísrael)
+unpredictability n. ófyrirsjáanleiki
+mercantilist l. kaupauðgisstefnu-; n. kaupauðgisstefnusinni

@@ -330,6 +330,8 @@ SKIP = frozenset(
         "prenup",
         "ultraviolent",
         "belltower",
+        "euphoniousness",
+        "sellsword",
     )
 )
 

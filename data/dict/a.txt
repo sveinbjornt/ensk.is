@@ -975,8 +975,8 @@ and st. og
 andiron n. hlóðagrind
 androgyne n. viðrini
 androgynous l. tvítólaður, tvíkynjaður
-anecdote n. smásaga, skrítla
-anecdotist n. smásöguhófundur
+anecdote n. smásaga, skrítla, anekdóta, stutt frásögn
+anecdotist n. smásöguhófundur, e-r sem fer með stuttar sögur, skrítlur, anekdótur
 anemia n. blóðleysi
 anemograph n. vindmælir
 anemometer n. vindmælir
