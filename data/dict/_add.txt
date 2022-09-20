@@ -1862,6 +1862,7 @@ stranglehold n. kverkatak
 unconvinced l. ósannfærður
 circumlunar l. í kringum eða umhverfis tunglið
 cartography n. kortagerð
+cartographic l. kortagerðar-
 nonreligious l. ekki trúaður, trúlaus
 handwritten l. handskrifaður
 antihero n. andhetja
@@ -2449,10 +2450,35 @@ seaworthiness n. (um skip) sjófærni
 spiderweb n. köngulóarvefur
 Francophone l. frönskumælandi; n. e-r sem er frönskumælandi
 antifreeze n. frostlögur, frostvökvi
-mozzarella n. mozzarella-ostur
+mozzarella n. mozzarella-ostur (e.k. ítalskur ostur)
 borehole n. borhola
 oversimplify s. ofeinfalda, ofureinfalda, einfalda um of
 oversimplification n. ofeinföldun, ofureinföldun
 kibbutz n. samyrkjubú (í Ísrael)
 unpredictability n. ófyrirsjáanleiki
-mercantilist l. kaupauðgisstefnu-; n. kaupauðgisstefnusinni
+mercantilist l. kaupauðgisstefnu-, merkantílisma-; n. kaupauðgisstefnusinni, merkantílisti
+labor n. sjá %[labour]%
+grandkid n. barnabarn
+heirless l. erfingjalaus, án erfingja
+gynocracy n. sjá %[gyneocracy]%
+science fiction n. vísindaskáldskapur
+sci-fi n. stytt. á %[science fiction]%
+aesthetically ao. fagurfræðilega
+touristic l. túristalegur, túrista-
+patronym n. föðurnafn
+matronym n. móðurnafn
+matronymic l. móðurnafns; móðurnafn
+medievalist n. miðaldafræðingur
+insecticide n. skordýraeitur
+legibility n. læsileiki (sjá %[legible]%)
+illegibility n. ólæsileiki (sjá %[legible]%)
+trade union n. stéttarfélag, verkalýðsfélag
+myopia n. nærsýni
+myopic l. nærsýnn
+Sikh n. síki (fylgismaður síkisma, sjá %[Sikhism]%)
+Sikhism n. síkismi (e.k. indversk eingyðistrú)
+logically ao. rökrétt, röklega
+stochastic l. slembi-, hendingar-, tilviljunar-; [~ process] slembiferli
+psychoanalyze s. sálgreina, sálkanna
+psychoanalyst n. sálgreinir, sálkönnuður
+psychoanalysis n. ságreining, sálkönnun
