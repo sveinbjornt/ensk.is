@@ -336,6 +336,7 @@ SKIP = frozenset(
         "gynocracy",
         "matronym",
         "patronym",
+        "gerontocracy",
     )
 )
 

@@ -1653,7 +1653,7 @@ inculcation n. innræting
 limited l. takmarkaður; endanlegur
 desiccated l. þurrkaður, þurr (sjá %[desiccate]%)
 self-confident l. sjálfsöruggur, fullviss um sjálfan sig
-self-confidence n. sjálsöryggi
+self-confidence n. sjálfsöryggi
 zeitgeist n. tíðarandi (úr þýsku)
 weltschmerz n. lífsleiði, heimsangist, óánægja með ástand heimsins (úr þýsku)
 weltanschauung n. heimssýn (úr þýsku)
@@ -2411,7 +2411,7 @@ ultraviolent l. gríðarlega ofbeldisfullur
 stubbornness n. þrjóska, þvermóðska
 polytheistic l. fjölgyðistrúarlegur, fjölgyðis- ([~ religion])
 haircut n. klipping, hárgreiðsla
-gargantuan l. gríðarstór, risastór, rixavaxinn, gífurlegur
+gargantuan l. gríðarstór, risastór, risavaxinn, gífurlegur
 lawlessness n. lögleysi, lögleysa; ranglæti
 langoustine n. humar
 pickled l. súrsaður
@@ -2427,7 +2427,7 @@ laughably ao. hlægilega
 condom n. smokkur (getnaðarvörn)
 concerto n. konsert, tónleikar (úr Ítölsku)
 technically ao. tæknilega
-skateboard n. hljólabretti; s. ferðast á hljólabretti
+skateboard n. hjólabretti; s. ferðast á hjólabretti
 emotionally ao. tilfinningalega
 embarrassingly ao. vandræðalega
 undeniably ao. óneitanlega
@@ -2481,4 +2481,7 @@ logically ao. rökrétt, röklega
 stochastic l. slembi-, hendingar-, tilviljunar-; [~ process] slembiferli
 psychoanalyze s. sálgreina, sálkanna
 psychoanalyst n. sálgreinir, sálkönnuður
-psychoanalysis n. ságreining, sálkönnun
+psychoanalysis n. sálgreining, sálkönnun
+muscle-bound l. vöðvastæltur
+amphibian n. froskdýr, dýr sem lifir bæði í vatni og á landi
+gerontocracy n. öldungaveldi, öldungaræði
