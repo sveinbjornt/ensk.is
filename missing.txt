@@ -432,6 +432,7 @@ counterreaction
 interact
 interaction
 simplified
+curricular
 extracurricular
 Hegelian
 paternalism
@@ -584,7 +585,6 @@ archaic
 bourgeois
 bourgeoisie
 deregionalize
-meaningless
 totalitarian
 totalitarianism
 unpredictable
@@ -597,7 +597,6 @@ schizophrenia
 schizophrenic
 aspirin
 pretentiousness
-unfashionable
 wordless
 quietism
 theoretically
@@ -625,8 +624,6 @@ syntactic
 formulation
 wide-ranging
 global
-insofar
-epistemic
 intersubjective
 intersubjectivity
 foundational
@@ -760,7 +757,6 @@ asexual
 polyamorous
 disillusioned
 disillusionment
-atypical
 gigolo
 ex-husband
 cynicism (endurskoða skilgr.)
@@ -823,7 +819,6 @@ hibiscus
 supermarket
 stressful
 kingpin
-mongoose
 layover
 hot dog
 boondocks
@@ -851,7 +846,6 @@ coastline
 doomed
 disappearance
 romanticize
-bike
 bicycling
 coincidental
 maneuver
@@ -866,7 +860,6 @@ outcrop
 understatement
 shipmate
 crewman
-seabird
 northerly
 landmass
 fermented
@@ -932,16 +925,12 @@ lockdown
 slipperiness
 incommunicado
 turbine
-predictable
 preschool
 shipyard
 snowplow
-popsicle
 deregulation
 hallway
 forklift
-birthrate
-multilingualism
 intersectionality
 disassemble
 backdrop
@@ -976,9 +965,7 @@ battleground
 memorization
 signifier
 scraggly
-
 infiltrator
-hesitant
 disappear
 canyon
 hike
@@ -1081,9 +1068,7 @@ geothermally
 nonexistence
 fatalistic
 subglacial
-seismologist
 meltwater
-cashflow
 airspace
 overreact
 overreaction
@@ -1192,14 +1177,12 @@ socioeconomic
 resettlement
 firebomb
 professoriate
-psychiatric
 barbed
 interrogator
 fictional
 fictionalize
 fictionalization
 non-fiction
-earmuff
 lingerie
 phony
 ghetto
@@ -1253,7 +1236,6 @@ courtyard
 centrepiece
 destructiveness
 macabre
-prewar
 carnivalesque
 wetland
 reimposition
@@ -1281,11 +1263,8 @@ firestorm
 regroup
 disruptive
 camaraderie
-amateurish
 noncombatant
 crossfire
-repatriate
-repatriation
 odyssey
 resurgent
 resurgence
@@ -1340,7 +1319,6 @@ dreamless
 marguerite
 geranium
 periodization
-artilleryman
 belligerence
 forsaken
 escalate
@@ -1353,7 +1331,6 @@ seaway
 underfloor
 bathhouse
 bedrock
-governorship
 programmatic
 sepulchre
 exclusivity
@@ -1382,7 +1359,6 @@ unorthodoxy
 deviance
 pederasty
 pederast
-dementia
 racetrack
 sectarianism
 parabola
@@ -1397,8 +1373,6 @@ incubator
 normality
 terracotta
 funerary
-weaponry
-sunbeaten
 trustworthiness
 lifespan
 honourable
@@ -1407,13 +1381,11 @@ factional
 factionalism
 transformational
 hallmark
-osmosis
 nonetheless
 phoney
 Islamification
 segregation
 segregationist
-unstoppable
 redirection
 dismissive
 appurtenance
@@ -1457,10 +1429,8 @@ traditionalist
 vegan
 veganism
 plainlands
-knightliness
 wartime
 cachet
-cataphract
 moveable
 immoveable
 earthwork
@@ -1469,7 +1439,6 @@ simplistically
 farmable
 enforceable
 penchant
-resurface
 ethos
 chivalric
 glamourize
@@ -2631,7 +2600,7 @@ schismatism
 fragmentation
 ministership
 constitutionalist
-hesitancy
+
 resoluteness
 sociopolitical
 uniqueness
@@ -2830,7 +2799,6 @@ mundial
 haemorrhage
 melodic
 golly
-impecunity
 bootstrap
 quant
 e-commerce
@@ -3140,13 +3108,10 @@ conditionals
 ineliminable
 chloride
 ameliorist
-futurologists
-futurology
 midpoint
 quantifier
 modifier
 probabilistic
-pterodactyl
 topology
 explicability
 representable
@@ -3162,7 +3127,6 @@ defensibility
 Nietzschean
 perspectivism
 self-restraint
-peacefulness
 acquisitiveness
 sophistic
 victimization
@@ -3181,12 +3145,9 @@ Neoplatonism
 Neoplatonist
 Neoplatonic
 classificatory
-meagerness
 seascape
 pietist
 voluntariness
-Platonist
-Platonism
 individuate
 bafflement
 misconstrual
@@ -3606,7 +3567,6 @@ theoretician
 animator
 schoolbook
 patriarchical
-impecuniosity
 underconsumption
 nightwatchman
 unruliness

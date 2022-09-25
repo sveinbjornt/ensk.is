@@ -337,6 +337,15 @@ SKIP = frozenset(
         "matronym",
         "patronym",
         "gerontocracy",
+        "artilleryman",
+        "earmuff",
+        "impecuniosity",
+        "knightliness",
+        "multilingualism",
+        "sunbeaten",
+        "cataphract",
+        "meagerness",
+        "Platonist",
     )
 )
 

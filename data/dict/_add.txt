@@ -1754,6 +1754,7 @@ tommy gun n. e.k. hríðskotabyssa ([Thompson submachine gun])
 mass production n. fjöldaframleiðsla
 monolingual l. eintyngdur
 multilingual l. fjöltyngdur
+multilingualism n. fjöltyngi
 monoglot n. eintyngd manneskja; l. eintyngdur
 genocide n. þjóðarmorð
 genocidal l. þjóðarmorðs-
@@ -1870,6 +1871,7 @@ surrounded l. umkringdur (af [by])
 seagull n. mávur, máfur (fugl)
 Scandinavia n. Skandinavía
 Scandinavian l. skandinavískur; n. skandinavíska (tungumál)
+predictable l. fyrirsjáanlegur
 unpredictable l. ófyrirsjáanlegur
 flamethrower n. eldvarpa
 toothpaste n. tannkrem
@@ -2485,3 +2487,47 @@ psychoanalysis n. sálgreining, sálkönnun
 muscle-bound l. vöðvastæltur
 amphibian n. froskdýr, dýr sem lifir bæði í vatni og á landi
 gerontocracy n. öldungaveldi, öldungaræði
+impecunity n. féleysi, fátækt
+impecuniosity n. féleysi, fátækt
+hesitant l. hikandi, tvístígandi, á báðum áttum
+hesitancy n. hik, efablendni, tvístígandaháttur
+birthrate n. fæðingatíðni
+popsicle n. frostpinni, íspinni, sleikipinni
+resurface s. koma aftur upp á yfirborðið (sjá %[surface]%)
+knightliness n. riddaramennska, riddaraskapur
+stoppable l. stöðvanlegur
+unstoppable l. óstöðvanlegur
+sunbeaten l. sólbakaður
+weaponry n. vopnabúnaður
+dementia n. heilabilun, vitglöp, elliglöp, vitsmunaskerðing
+governorship n. landstjóraembætti
+artilleryman n. stórskotaliði
+repatriate s. senda aftur til heimalands
+repatriation n. sending aftur til heimalands
+amateurish l. viðvaningslegur
+prewar l. fyrir stríð
+earmuff n. eyrnaskjól
+psychiatric l. geðrænn, geðlægur, geðlæknisfræðilegur
+cashflow n. peningaflæði
+seismologist n. skjálftafræðingur, jarðskjálftafræðingur
+seabird n. sjófugl
+bike n. stytt. á %[bicycle]%; reiðhjól
+mongoose n. mongús
+atypical l. ódæmigerður, frábrigðilegur, afbrigðilegur
+cataphract n. brynja sem þekur allan líkamann; albrynjaður riddari
+osmosis n. osmósa, himnuflæði, osmósuflæði, gegnflæði
+epistemic l. þekkingar-, þekkingarlegur, þekkingarfræðilegur
+insofar ao. að því leyti, að því marki
+unfashionable l. ekki í tísku
+Platonist n. platónisti (fylgismaður heimspekikenninga Platóns)
+meagerness n. sjá %[meagreness]%
+peacefulness n. friðsemi
+pterodactyl n. e.k. vængjuð risaeðla
+futurologist n. framtíðarfræðingur
+futurology n. framtíðarfræði
+meaningless l. merkingarlaus, þýðingarlaus, tilgangslaus
+herbivore n. plöntuæta, dýr sem lifir á plöntufæðu
+insectivore n. skordýraæta, dýr sem lifir á skorkvikindum
+tyrannosaurus n. grameðla (risaeðlutegund)
+stegosaurus n. kambeðla (risaeðlutegund)
+velociraptor n. snareðla (risaeðlutegund)
