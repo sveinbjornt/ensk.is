@@ -1965,8 +1965,6 @@ cannonball n. fallbyssukúla
 attacker n. árásarmaður, árásaraðili, tilræðismaður
 Persia n. Persía (gamalt heiti yfir Íran)
 Persian l. persneskur (íranskur)
-omnivore n. alæta
-omnivorous l. sem allt étur, alætu-
 antebellum l. fyrir stríð, fyrirstríðs-
 moorland n. mýrlendi
 imbalance n. ójafnvægi
@@ -2193,7 +2191,7 @@ subgroup n. undirhópur, undirflokkur
 hydrophobia n. vatnsfælni, ótti við vatn
 hydrophobic l. vatnsfælinn, hræddur við vatn
 agoraphobia n. víðáttufælni, víðáttubrjálæði
-agorophobic l. torgageigur, víðáttufælinn
+agoraphobic l. víðáttufælinn, torgageigur
 phobia n. fælni, ótti, fóbía
 phobic l. fælinn, óttasleginn, fóbískur
 monopolistic l. einokunarlegur, einokunar- (sjá %[monopoly]%)
@@ -2367,7 +2365,6 @@ genome n. erfðamengi, genamengi
 geneticist n. erfðafræðingur, genafræðingur
 autophagia n. sjálfsát
 nectarine n. nektarína
-nectarivore n. blómsykursæta, dýr sem nærist á blómsykri
 gulag n. gúlag (fangabúðir í Sovétríkjunum)
 indecisiveness n. óákveðni, efablendni, ráðaleysi
 tireless l. óþreytandi
@@ -2522,12 +2519,27 @@ unfashionable l. ekki í tísku
 Platonist n. platónisti (fylgismaður heimspekikenninga Platóns)
 meagerness n. sjá %[meagreness]%
 peacefulness n. friðsemi
-pterodactyl n. e.k. vængjuð risaeðla
 futurologist n. framtíðarfræðingur
 futurology n. framtíðarfræði
 meaningless l. merkingarlaus, þýðingarlaus, tilgangslaus
-herbivore n. plöntuæta, dýr sem lifir á plöntufæðu
-insectivore n. skordýraæta, dýr sem lifir á skorkvikindum
+herbivore n. plöntuæta, dýr sem nærist á plöntufæðu
+insectivore n. skordýraæta, dýr sem nærist á skorkvikindum
+omnivore n. alæta
+omnivorous l. sem allt étur, alétandi, alætu-
+frugivore n. ávaxtaæta
+frugivorous l. sem nærist á ávöxtum, ávaxtaétandi
+piscivore n. fiskæta
+nectarivore n. blómsykursæta, dýr sem nærist á blómsykri
+nectarivorous l. blómsykursétandi, sem nærist á blómsykri
+pterodactyl n. e.k. vængjuð risaeðla
 tyrannosaurus n. grameðla (risaeðlutegund)
 stegosaurus n. kambeðla (risaeðlutegund)
 velociraptor n. snareðla (risaeðlutegund)
+belligerence n. stríðsgirni, deilugirni, ófriðsemi
+geranium n. e.k. blágresi
+sepulchre n. gröf, grafhvelfing
+coup n. valdarán (úr frönsku [coup d'état])
+trapezoid n. trapisa
+trapezoidal l. trapisulaga
+emirate n. furstadæmi (í Austurlöndum nær)
+randomness n. handahófskennd, slembni

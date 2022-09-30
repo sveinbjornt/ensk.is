@@ -288,7 +288,6 @@ SKIP = frozenset(
         "orthopedia",
         "Vulgate",
         "patricidal",
-        "agorophobic",
         "bicameralism",
         "gynecocracy",
         "sociobiological",
@@ -346,6 +345,10 @@ SKIP = frozenset(
         "cataphract",
         "meagerness",
         "Platonist",
+        "frugivore",
+        "frugivorous",
+        "piscivore",
+        "trapezoidal",
     )
 )
 
