@@ -9,7 +9,6 @@ doozy n.
 dynamic (endurskoða)
 astrodynamics
 gyroscope
-kafkaesque
 scoot s.
 scooter
 electric scooter
@@ -798,14 +797,13 @@ cellar-door
 gringo
 roadblock
 roundabout (endurskoða)
-monomaniacal l.
+monomaniacal
 uncontroversial
 sanctions
 brutalism
 brutalist
 glob
 pasha
-neoclassicism
 smithereen
 pylon
 genie
@@ -820,7 +818,6 @@ supermarket
 stressful
 kingpin
 layover
-hot dog
 boondocks
 splenetic
 skerry
@@ -834,7 +831,6 @@ baffling
 frozen
 wasteland
 untangle
-fingerprint
 fallout
 diplomat
 dishwashing
@@ -844,7 +840,6 @@ manic
 knitter
 coastline
 doomed
-disappearance
 romanticize
 bicycling
 coincidental
@@ -891,9 +886,7 @@ bloodbath
 macho
 Canadian
 installment
-seafood
 outboard
-childcare
 chitchat
 nanny
 arguable
@@ -907,8 +900,6 @@ spillage
 meltdown
 takeover
 sabbatical
-opportunistic
-reify
 glamorous
 extravaganza
 apocalypse
@@ -917,7 +908,6 @@ superpower
 overconfident
 power-hungry
 underscore
-microstate
 storytelling
 campus
 perfectionist
@@ -966,7 +956,6 @@ memorization
 signifier
 scraggly
 infiltrator
-disappear
 canyon
 hike
 moonwalk
@@ -1720,15 +1709,12 @@ carpaccio
 uncharacteristic
 pushiness
 smokescreen
-outflow
-raincoat
 cardboard
 edginess
 stabilization
 destabilization
 scam
 scammer
-standardize
 unbeknownst
 panelist
 profitability
@@ -1746,10 +1732,8 @@ manipulator
 rationalization
 schlock
 conferral
-frontline
 anti-depressant
 novella
-Australasia
 careerist
 malaise
 charmless
@@ -1829,7 +1813,7 @@ notepad
 corporatist
 bottom-feeder
 déluge
-unattractive
+
 psychotherapy
 psychotherapist
 nonsmoker
@@ -3297,7 +3281,6 @@ inelasticity
 inelastic
 neocolonial
 roster
-reliably
 chapterette
 disruptable
 midstream
@@ -3336,7 +3319,6 @@ moron
 moronic
 godawful
 nonstandard
-centrifuge
 isotope
 megaton
 kiloton
@@ -3354,13 +3336,11 @@ navigational
 bourbon
 persnickety
 subsector
-chokehold
 implode
 kibosh
 integrative
 iffy
 additive
-plywood
 subsidization
 tailspin
 subpar
@@ -3370,12 +3350,9 @@ subtropical
 subtropics
 agronomics
 waterwheel
-broccoli
 cashew
 sesame
-eggplant
 yam
-kiwi
 phosphate
 hellscape
 commodification
@@ -3430,7 +3407,6 @@ grail
 sweetener
 toehold
 sideshow
-randomness
 cutback
 metabolize
 geriatric
@@ -3444,7 +3420,6 @@ proppant
 carcinogenic
 carcinogen
 dinky
-emirate
 linchpin
 gangly
 reallocate
@@ -3473,7 +3448,6 @@ payer
 biome
 midsection
 synergize
-landfill
 inegalitarian
 drastically
 outage
@@ -3492,7 +3466,6 @@ standoff
 absorbable
 absorbing
 savant
-butane
 fluorescent
 miniaturize
 miniaturization
@@ -3509,10 +3482,8 @@ aboriculture
 shovelboard
 breathable
 user
-varmint
 cameral
 hornbeam
-cordwood
 monocultural
 polycultural
 lookalike
@@ -3556,14 +3527,11 @@ disorientation
 overtime
 synergistic
 pervasiveness
-frontline
 homologous
 theoretician
 animator
 schoolbook
-patriarchical
 underconsumption
-nightwatchman
 unruliness
 compressor
 formaldehyde
@@ -3583,3 +3551,6 @@ isolable
 unknowability
 slippage
 linearity
+proprioception
+realtime
+syncratic

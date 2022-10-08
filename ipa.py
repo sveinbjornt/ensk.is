@@ -349,6 +349,10 @@ SKIP = frozenset(
         "frugivorous",
         "piscivore",
         "trapezoidal",
+        "nectarivorous",
+        "microstate",
+        "patriarchical",
+        "cordwood",
     )
 )
 

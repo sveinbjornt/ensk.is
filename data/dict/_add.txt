@@ -2531,7 +2531,7 @@ frugivorous l. sem nærist á ávöxtum, ávaxtaétandi
 piscivore n. fiskæta
 nectarivore n. blómsykursæta, dýr sem nærist á blómsykri
 nectarivorous l. blómsykursétandi, sem nærist á blómsykri
-pterodactyl n. e.k. vængjuð risaeðla
+pterodactyl n. flugeðla (e.k. vængjuð risaeðla)
 tyrannosaurus n. grameðla (risaeðlutegund)
 stegosaurus n. kambeðla (risaeðlutegund)
 velociraptor n. snareðla (risaeðlutegund)
@@ -2543,3 +2543,35 @@ trapezoid n. trapisa
 trapezoidal l. trapisulaga
 emirate n. furstadæmi (í Austurlöndum nær)
 randomness n. handahófskennd, slembni
+kafkaesque l. eins og martraðarkennd skriffinnska eða skrifræði
+raincoat n. regnkápa, regnfrakki
+outflow n. útstreymi, útflæði
+standardize s. staðla (sjá %[standard]%)
+frontline n. framlína; fremsta víglína
+Australasia n. Ástralasía (svæði innan Eyjaálfu)
+unattractive l. óaðlaðandi
+neoclassicism n. nýklassík, nýklassísk stefna
+hot dog n. pylsa
+fingerprint n. fingrafar; s. skrá fingrafar e-s
+disappear s. hverfa
+disappearance n. hvarf
+seafood n. sjávarfang, sjávarafurðir, sjávarréttur
+childcare n. barnagæsla, barnapössun, umönnun barna
+opportunistic l. tækifæris-, hentistefnu- (sjá %[opportunist]%)
+reify s. hlutgera
+microstate n. örríki, smáríki
+goon n. skúrkur, hrotti, fantur, kjáni
+nightwatchman n. næturvörður
+patriarchical l. feðraveldis- (sjá %[patriarchy]%)
+varmint n. meindýr
+mangrove n. fenjaviðarskógur, strandfenjasvæði
+reliably ao. áreiðanlega
+centrifuge n. skilvinda
+chokehold n. kverkatak
+plywood n. krossviður
+kiwi n. kívíávöxtur, kíví, loðber; Nýsjálendingur (óforml.)
+eggplant n. eggaldin
+broccoli n. spergilkál, brokkólí
+landfill n. landfylling; sorphaugur
+butane n. bútan (gas)
+cordwood n. eldiviður, eldiviðardrumbar

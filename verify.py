@@ -154,7 +154,7 @@ def check_intradict_refs(line: str, pn, ln: int):
 
 def check_enword_def(line: str, pn, ln: int):
     """Check that English word is valid."""
-    (entry, definition) = parse_line(line)
+    (entry, _) = parse_line(line)
     e = entry.strip()
     if "," in e:
         warn(f"Comma in entry: {e}", pn, ln)

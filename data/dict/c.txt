@@ -505,7 +505,7 @@ centrality n. miðleiki, miðbikslega
 centralization n. samdráttur á einn stað; miðstýring
 centralize s. draga (stjórnarvald) saman á einn stað
 centre n. miðja, miðbik, miðdepill, miðpunktur; miðflokkur (á þingi); miðfylking; [~ of gravity] þungamiðja; s. setja í miðjuna; safnast utan um miðpunkt ([in, on, round, about]); [~ force] miðsóknarafl
-centrifugal l. [~ force] miðflóttaafl
+centrifugal l. miðflótta-; [~ force] miðflóttaafl
 centripetal l. miðsækinn
 centuple l. hundraðfaldur; s. hundraðfalda
 centurion n. hundraðshöfðingi
@@ -2337,12 +2337,12 @@ countrywoman n. sveitakona
 county n. greifadæmi, fylki
 county court n. héraðsdómstóll
 country town n. höfuðborg (í greifadæmi)
-couple n. hálstengsli (sem tveir hundar eru tengdir saman með); tvennt, sem á saman; hjón; tveir eða þrír; sperra; s. festa saman; samtengja; maka sig
+couple n. tvennt sem á saman; hjón, par; tveir eða þrír; sperra; hálstengsli (sem tveir hundar eru tengdir saman með); s. festa saman; samtengja; maka sig
 couplet n. erindi (tvær ljóðlínur með hendingum)
 coupling n. tengsl
 courage n. hugrekki, hugprýði, hugur
-courageous l. hugaður, hugrakkur
-courier n. hraðboði; fylgdarmaður (í ferðalagi)
+courageous l. hugrakkur, hugaður
+courier n. boðberi, sendiboði, hraðboði; fylgdarmaður (í ferðalagi)
 course n. rás, ferð; gangur; stefna, leið; farvegur ([water-~]); skeiðvöllur (race-~); æviskeið; aðferð, venja; ft. hegðun; röð (af fyrirlestrum); réttur (matar); gangverð á peningum og skuldabréfum ([~ of exchange]), gengi; segl ([fore, main-]); [change one's ~] breyta um stefnu; [hold the ~] halda stefnunni; [in ~ of construction] í smíðum; [a matter of ~] sjálfsagður hlutur; [in the ~ of years] þegar fram líða (liðu) stundir; [~ of events] rás viðburðanna; [in due ~] á sinum tíma; [of ~] auðvitað, vitanlega; s. elta (veiðidýr); láta hlaupa, hleypa (hesti); hlaupa, renna; stefna, halda
 courser n. veiðimaður; veiðihundur; kappreiðarhestur
 court n. garður (umgirt svæði), húsagarður; konungshöll; hirð; dómstóll ([~ of law, ~ of justice, judicature, police ~, criminal ~]); dómur, réttur; dómsalur; kurteisisheimsókn; afmarkaður reitur ([tennis ~]); ástarhót; [to pay (make) ~ to] reyna að koma sér í mjúkinn við, sýna ástarhót; s. sækjast eftir (hylli e-s); sýna ástarhót, biðla til; lokka
@@ -2377,15 +2377,14 @@ covetable l. eftirsóknarverður
 covetous l. gjarn (á [of]); sólginn, fíkinn í e-ð; ágjarn
 covetousness n. ágirnd
 covey n. afsprengi akurhænsna og rjúpna; hópur, flokkur
-cow s. kúga ([their spirit was cowed])
-cow n. kýr
-cowboy n. kúasmali; nautahirðir
+cow n. kýr; s. kúga ([their spirit was ~ed])
+cowboy n. kúreki, kúasmali; nautahirðir
 cowherd n. kúasmali
 cowhide n. kýrhúð; keyri; s. hýða, lemja
 cowhouse n. fjós
 cowpox n. kúabóla
 coward n. raggeit, bleyða, hugleysingi
-cowardice n. ragmennska, hugleysi
+cowardice n. ragmennska, bleyðuskapur, hugleysi
 cowardly l. ragur, huglaus, ragmennskulegur; ao. ragmennskulega
 cower s. hnipra sig saman
 cowl n. munkakápa (með hettu); munkahetta; reykháfshetta
