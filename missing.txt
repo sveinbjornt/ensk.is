@@ -5,7 +5,7 @@ bodacious
 bodaciously
 hellacious
 parametric
-doozy n.
+doozy
 dynamic (endurskoða)
 astrodynamics
 gyroscope
@@ -246,8 +246,6 @@ waterboard
 unfollow
 gig
 gaming
-Aspartame
-Prozac
 markup
 tokenize
 authoritarian
@@ -341,7 +339,6 @@ parapsychology
 grifter
 ham-fisted
 cack-handed
-grandmaster
 micromanage
 micromanagement
 bunkmate
@@ -372,7 +369,6 @@ extrapolation
 embellished
 institutionalize
 institutionalized
-eloquently
 preoccupation
 enthusiastically
 deistic
@@ -1263,7 +1259,6 @@ dysfunctionality
 reformulate
 discretely
 lethality
-pedagogical
 shortfall
 windfall
 semantic
@@ -1313,8 +1308,6 @@ exclusivity
 schismatics
 minutia
 hindsight
-Byzantium
-Byzantine
 travelogue
 mutant
 migrant
@@ -1364,6 +1357,7 @@ segregation
 segregationist
 redirection
 dismissive
+dismissiveness
 appurtenance
 nationhood
 sacral
@@ -1406,8 +1400,6 @@ veganism
 plainlands
 wartime
 cachet
-moveable
-immoveable
 earthwork
 simplistic
 simplistically
@@ -1429,7 +1421,6 @@ accolade
 suitability
 milieu
 undiplomatic
-untruthful
 untrustworthy
 ritualistic
 reintroduction
@@ -1471,12 +1462,9 @@ ruction
 interwoven
 fairytale
 hatchback
-maestro
-mountaintop
 showcase
 metalwork
 hubristic
-sainthood
 lifelike
 rinderpest
 interplay
@@ -1496,7 +1484,6 @@ cryptically
 vengefulness
 townsfolk
 psychosis
-reputational
 shenanigan
 forebear
 parisis
@@ -1520,16 +1507,11 @@ tantalizing
 manoeuvrable
 auspex
 systemic
-sultanate
 blueprint
 tribesman
-peace offering
-jigsaw
 longhand
 blotless
 artefact
-fingertip
-nepotistic
 predation
 disgruntlement
 polemicist
@@ -1635,14 +1617,12 @@ amortization
 juggernaut
 staffer
 capitalization
-legalese
 proofread
 literalism
 formica
 parmesan
 workload
 mishmash
-summerhouse
 conveyor
 eureka
 printout
@@ -1677,7 +1657,6 @@ superimpose
 trucker
 matronly
 payslip
-sloppiness
 disinterest
 typeset
 addendum
@@ -1761,7 +1740,6 @@ parasitism
 recalcitrance
 consumerism
 unscrupulousness
-untruthfulness
 psychobabble
 mea culpa
 ersatz
@@ -1801,7 +1779,6 @@ notepad
 corporatist
 bottom-feeder
 déluge
-
 psychotherapy
 psychotherapist
 nonsmoker
@@ -1945,7 +1922,6 @@ pastoralism
 counter-intuitive
 acromesomelic
 dysplasia
-dwarfism
 Palaeolithic
 Darwinism
 Darwinist
@@ -2038,7 +2014,6 @@ socialization
 savoir-faire
 industriousness
 toxin
-self-image
 clockwork
 storable
 theatricality
@@ -2203,7 +2178,6 @@ supplier
 backstop
 vigilante
 vigilantism
-bondholder
 distributional
 quadrillion
 monetization
@@ -2319,7 +2293,6 @@ apoliticism
 instrumentalization
 apolitical
 polarization
-rapidly
 counter-espionage
 officialization
 bloodline
@@ -2392,7 +2365,6 @@ evacuee
 salvific
 addressee
 telex
-short-term
 secretarial
 demobilize
 demobilization
@@ -2453,15 +2425,12 @@ tideland
 monopsonistic
 restrictionism
 popularization
-unsavoury
 appeaser
 Machiavellian
 amoral
 amorality
 anocracy
 accelerant
-dude
-bloke
 junta
 tercentenary
 sophomore
@@ -2566,7 +2535,6 @@ schismatism
 fragmentation
 ministership
 constitutionalist
-
 resoluteness
 sociopolitical
 uniqueness
@@ -2576,7 +2544,6 @@ catechismic
 aftershock
 mayhem
 despondency
-bittersweet
 divorcee
 unproven
 in absentia
@@ -2654,7 +2621,6 @@ deluxe
 untitled
 trainer
 retro-
-multi-
 techno
 mambo
 toner
@@ -2730,9 +2696,6 @@ cinematic
 apologizer
 numinous
 oxytocin
-dopamine
-poltergeist
-cashpoint
 grotesqueness
 ricochet
 meme
@@ -2964,7 +2927,6 @@ tagline
 seedling
 misstep
 hardscrabble
-dismissiveness
 dodecadic
 coronary
 helion
@@ -3234,7 +3196,6 @@ trifecta
 deniability
 importer
 diversification
-greenback
 electrum
 chokehold
 lockstep
@@ -3363,7 +3324,6 @@ helpfulness
 responsiveness
 snazzy
 decivilization
-genomics
 expansionary
 snark
 snarky
@@ -3530,3 +3490,53 @@ linearity
 proprioception
 realtime
 syncratic
+allegedly
+bacteriological
+melioidosis
+substation
+cyanate
+full-scale
+randomly
+large-scale
+chairperson
+serology
+phytoserology
+pathogenicity
+microbiology
+prefectural
+typhoid
+pee
+tester
+experimentee
+craftspeople
+formalin
+anthracis
+downwind
+atropine
+cellmate
+adrenal
+pituitary
+transmittal
+thymus
+metastasis
+metastasize
+metastasized
+exudative
+lesion
+declassify
+brucellosis
+salmonella
+encephalitis
+immunization
+undulant
+traceability
+cover-up
+substantiation
+escapee
+reservist
+presumably
+decryption
+potentially
+bedbug
+touchable
+siphonaptera

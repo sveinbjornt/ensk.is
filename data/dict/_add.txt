@@ -2581,7 +2581,7 @@ coolant n. kæliefni, kælivökvi
 kilotonne n. kílótonn (1000 tonn)
 kiloton n. kílótonn (1000 tonn)
 oxidization n. oxun, sýring (sjá %[oxidation]%)
-bourbon n. búrbón (e.k. bandarískt viskí uunnið m.a. úr korni); frönsk konungsætt ([House of Bourbon])
+bourbon n. búrbón (e.k. bandarískt viskí unnið m.a. úr korni); frönsk konungsætt ([House of Bourbon])
 phosphate n. fosfat (salt af fosfórsýru)
 yam n. mjölrót, jamrótarhnýði, kínakartafla; sæt kartafla (BNA)
 multistory l. marghæða, fjölhæða; [~ building] bygging með mörgum hæðum
@@ -2601,5 +2601,49 @@ testable l. prófanlegur, sem hægt er að prófa
 falsifiable l. afsannanlegur
 falsifiability n. afsannanleiki
 unfalsifiable l. óafsannanlegur
+falsifiability n. óafsannanleiki
 hunter-gatherer n. veiðimanna-safnari
 eurocentric l. evrópumiðaður, sem einblínir á Evrópu
+genomics n. ft. erfðafræði
+moveable l. hreyfanlegur
+immoveable l. óhreyfanlegur
+untruthful l. ósannsögull, ekki sannsögull
+untruthfulness n. ósannsögli
+sloppiness n. óvandvirkni
+summerhouse n. sumarbústaður, sumarhús
+legalese n. lagamál, fagmál lögfræðinga
+nepotistic l. frændhyglislegur, frændhyglis- (sjá %[nepotism]%)
+fingertip n. fingurgómur
+jigsaw n. púsluspil, stykkjaþraut, raðþraut, raðmynd ([~ puzzle])
+peace offering n. friðarfórn
+sultanate n. soldánsveldi
+reputational l. orðspors- (sjá %[reputation]%)
+sainthood n. dýrlingatala; [elevated to ~] tekinn í dýrlingatölu
+eloquently ao. mælskulega
+grandmaster n. stórmeistari
+pedagogical l. uppfræðslu-, uppeldislegur
+Byzantium n. Austrómverska keisaradæmið, Býsansríkið, Miklagarðsríkið
+Byzantine l. býsanskur, austrómverskur; flókinn ([~ rules and regulations])
+mountaintop n. fjallstindur
+maestro n. (tónlistar)meistari (úr ítölsku)
+dwarfism n. dvergvöxtur
+self-image n. sjálfsmynd
+bondholder n. skuldabréfaeigandi
+rapidly ao. skjótlega
+short-term l. skammtíma-; [~ memory] skammtímaminni; [~ goals] skammtímamarkmið
+dude n. gaur, gæi, náungi (óforml.)
+bloke n. gaur, gæi, náungi (óforml.)
+bittersweet l. ljúfsár; [~ memories] ljúfsárar minningar
+dopamine n. dópamín (taugaboðefni)
+cashpoint n. hraðbanki
+poltergeist n. ærsladraugur
+greenback n. peningaseðill, dollaraseðill (BNA, óforml.)
+secretly ao. leynilega, í laumi, á laun
+Manchuria n. Mansjúría (landsvæði í norðausturhluta Kína)
+Manchurian l. mansjúrískur (sjá %[Manchuria]%)
+dorm n. stytt. á %[dormitory]%
+coauthor n. meðhöfundur
+chainsaw n. vélsög, keðjusög
+pancreas n. bris, briskirtill
+hysterically ao. móðursýkislega
+spiritually ao. andlega

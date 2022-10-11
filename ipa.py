@@ -358,6 +358,11 @@ SKIP = frozenset(
         "Eurasia",
         "Sinophone",
         "unfalsifiable",
+        "unembarrassed",
+        "untruthfulness",
+        "Byzantium",
+        "Manchuria",
+        "Manchurian",
     )
 )
 

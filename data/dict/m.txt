@@ -679,8 +679,8 @@ metalline l. málm-, úr málmi
 metallist n. málmfróður maður
 metallography n. málmalýsing, málmfræði
 metallurgy n. málmvinnsla; málmvinnslufræði
-metamorphose s. breyta í aðra mynd
-metamorphosis n. myndbreyting; algjör breyting
+metamorphose s. breyta í aðra mynd; skipta um ham
+metamorphosis n. hamskipti; myndbreyting; algjör breyting
 metaphor n. óeiginlegt orðatiltæki
 metaphoric l. líkingarfullur, óeiginlegur
 metaphorical l. líkingarfullur, óeiginlegur
@@ -1544,3 +1544,4 @@ mythical l. goðsagnalegur, goðsagnakenndur
 mythological l. goðsagnalegur, goðfræðilegur
 mythologist n. goðfræðingur, goðsagnafræðingur
 mythology n. goðafræði
+endlessly ao. endalaust, óendanlega
