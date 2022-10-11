@@ -355,6 +355,9 @@ SKIP = frozenset(
         "cordwood",
         "kilotonne",
         "multistory",
+        "Eurasia",
+        "Sinophone",
+        "unfalsifiable",
     )
 )
 

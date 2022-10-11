@@ -363,7 +363,7 @@ pixel n. díll, punktur, myndeining (í stafrænni mynd)
 playboy n. glaumgosi
 playlist n. spilunarlisti; lagalisti
 plaza n. torg
-processor n. örgjörvi
+processor n. örgjörvi; úrvinnsluaðili (sjá %[process]%)
 word processor n. ritvinnsluforrit
 semiconductor n. hálfleiðari (í rafmagnsverkfræði)
 latency n. biðtími (í samskiptum yfir net)
@@ -1275,6 +1275,7 @@ praeter- fsk. handan, meira en; sjá %[preter-]%
 para- fsk. hliðstæður, nærliggjandi, samliggjandi, handan; sjá t.d. %[parasite]%, %[paranormal]%
 tele- fsk. fjar-; sjá t.d. %[telephone]%, %[telescope]%
 bio- fsk. líf-, lífs-; sjá t.d. %[biology]%, %[biography]%
+hydro- fsk. vatns-; sjá td. %[hydrogen]%, %[hydroelectric]%
 antisocial l. andfélagslegur
 antibiotic l. gegn sýklum, andsýkla-; n. sýklalyf (yfirleitt í ft. [~s])
 antibiotics n. ft. sjá %[antibiotic]%
@@ -2003,7 +2004,7 @@ maximization n. hámörkun
 unanimously ao. einróma, samhljóða
 genital l. kynfæra-, æxlunarfæra-
 genitals n. ft. kynfæri, æxlunarfæri
-ethicist n. siðfræðingur
+ethicist n. siðfræðingur, siðspekingur
 bulletproof l. skotheldur; [~ vest] skothelt vesti
 shotgun n. haglabyssa
 handgun n. skammbyssa
@@ -2203,15 +2204,15 @@ realpolitik n. raunsæisstjórnmál (úr þýsku)
 extrajudicial l. utan réttar, utan laga og reglna, utan dómstóla
 dataset n. gagnasafn
 unethical l. siðlaus, ósiðferðilegur, siðferðilega rangur
-appendectomy n. botnlanganám, botnlangataka
+appendectomy n. botnlangataka, botnlanganám
 philosophic l. heimspekilegur
 puppeteer n. brúðuleikari
-fratricidal l. bróðurmorðs-
+fratricidal l. bróðurmorðs-, sem varðar bróðurmorð
 soybean n. sojabaun
 gynecocracy n. kvenræði, kvenveldi, mæðraveldi
 neuroscience n. taugavísindi
-neuroscientist n. taugavísindamaður, taugafræðingur
-soundtrack n. hljóðrás, hljóðrit; bakgrunnshljóð, bakgrunnstónlist
+neuroscientist n. taugavísindamaður
+soundtrack n. hljóðrás, hljóðrit; bakgrunnshljóð, bakgrunnstónlist; [film/movie ~] kvikmyndatónlist
 syndrome n. heilkenni; [Downs ~] Downs-heilkenni
 lacrosse n. háfleikur (íþrótt)
 determinist n. nauðhyggjumaður, nauðhyggjusinni (sjá %[determinism]%)
@@ -2425,16 +2426,16 @@ avocado n. lárpera, avókadó (ávöxtur)
 laughably ao. hlægilega
 condom n. smokkur (getnaðarvörn)
 concerto n. konsert, tónleikar (úr Ítölsku)
-technically ao. tæknilega
+technically ao. tæknilega (séð)
 skateboard n. hjólabretti; s. ferðast á hjólabretti
 emotionally ao. tilfinningalega
-embarrassingly ao. vandræðalega
+embarrassingly ao. vandræðalega, feimnislega
 undeniably ao. óneitanlega
 macaque n. makakíapi
 blueberry n. bláber
 syrup n. síróp
 thirsty l. þyrstur
-deodorant n. svitalyktareyðir
+deodorant n. (svita)lyktareyðir
 paperweight n. bréfapressa
 grapefruit n. greipaldin
 soulmate n. sálufélagi
@@ -2501,14 +2502,14 @@ governorship n. landstjóraembætti
 artilleryman n. stórskotaliði
 repatriate s. senda aftur til heimalands
 repatriation n. sending aftur til heimalands
-amateurish l. viðvaningslegur
-prewar l. fyrir stríð
+amateurish l. viðvaningslegur, ófagmannlegur
+prewar l. fyrir stríð, fyrirstríðs-
 earmuff n. eyrnaskjól
-psychiatric l. geðrænn, geðlægur, geðlæknisfræðilegur
+psychiatric l. geðrænn, geðlægur; geðlæknisfræðilegur
 cashflow n. peningaflæði
 seismologist n. skjálftafræðingur, jarðskjálftafræðingur
 seabird n. sjófugl
-bike n. stytt. á %[bicycle]%; reiðhjól
+bike n. stytt. á %[bicycle]%; reiðhjól; vélhjól
 mongoose n. mongús
 atypical l. ódæmigerður, frábrigðilegur, afbrigðilegur
 cataphract n. brynja sem þekur allan líkamann; albrynjaður riddari
@@ -2555,7 +2556,7 @@ hot dog n. pylsa
 fingerprint n. fingrafar; s. skrá fingrafar e-s
 disappear s. hverfa
 disappearance n. hvarf
-seafood n. sjávarfang, sjávarafurðir, sjávarréttur
+seafood n. sjávarfang, sjávarafurðir, sjávarréttur, sjávarmeti
 childcare n. barnagæsla, barnapössun, umönnun barna
 opportunistic l. tækifærissinnaður, tækifæris-, hentistefnu- (sjá %[opportunist]%)
 reify s. hlutgera
@@ -2578,9 +2579,9 @@ cordwood n. eldiviður, eldiviðardrumbar
 hydropower n. vatnafl, vatnsorka
 coolant n. kæliefni, kælivökvi
 kilotonne n. kílótonn (1000 tonn)
-kiloton n. sjá %[kilotonne]%
+kiloton n. kílótonn (1000 tonn)
 oxidization n. oxun, sýring (sjá %[oxidation]%)
-bourbon n. búrbón (e.k. bandarískt viskí)
+bourbon n. búrbón (e.k. bandarískt viskí uunnið m.a. úr korni); frönsk konungsætt ([House of Bourbon])
 phosphate n. fosfat (salt af fosfórsýru)
 yam n. mjölrót, jamrótarhnýði, kínakartafla; sæt kartafla (BNA)
 multistory l. marghæða, fjölhæða; [~ building] bygging með mörgum hæðum
@@ -2591,3 +2592,14 @@ scrotum n. pungur, hreðjar
 redefine s. endurskilgreina (sjá %[define]%)
 bulldozer n. jarðýta
 mountainside n. fjallshlíð
+hillside n. hlíð, brekka, fjallshlíð
+Sinophone l. kínverskumælandi; n. e-r sem er kínverskumælandi
+Eurasia n. Evrasía (Evrópa og Asía sem ein heimsálfa)
+Eurasian l. evrasískur (sjá %[Eurasia]%)
+above-mentioned l. fyrrnefndur
+testable l. prófanlegur, sem hægt er að prófa
+falsifiable l. afsannanlegur
+falsifiability n. afsannanleiki
+unfalsifiable l. óafsannanlegur
+hunter-gatherer n. veiðimanna-safnari
+eurocentric l. evrópumiðaður, sem einblínir á Evrópu
