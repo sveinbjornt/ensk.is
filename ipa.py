@@ -353,6 +353,8 @@ SKIP = frozenset(
         "microstate",
         "patriarchical",
         "cordwood",
+        "kilotonne",
+        "multistory",
     )
 )
 

@@ -2557,7 +2557,7 @@ disappear s. hverfa
 disappearance n. hvarf
 seafood n. sjávarfang, sjávarafurðir, sjávarréttur
 childcare n. barnagæsla, barnapössun, umönnun barna
-opportunistic l. tækifæris-, hentistefnu- (sjá %[opportunist]%)
+opportunistic l. tækifærissinnaður, tækifæris-, hentistefnu- (sjá %[opportunist]%)
 reify s. hlutgera
 microstate n. örríki, smáríki
 goon n. skúrkur, hrotti, fantur, kjáni
@@ -2575,3 +2575,19 @@ broccoli n. spergilkál, brokkólí
 landfill n. landfylling; sorphaugur
 butane n. bútan (gas)
 cordwood n. eldiviður, eldiviðardrumbar
+hydropower n. vatnafl, vatnsorka
+coolant n. kæliefni, kælivökvi
+kilotonne n. kílótonn (1000 tonn)
+kiloton n. sjá %[kilotonne]%
+oxidization n. oxun, sýring (sjá %[oxidation]%)
+bourbon n. búrbón (e.k. bandarískt viskí)
+phosphate n. fosfat (salt af fosfórsýru)
+yam n. mjölrót, jamrótarhnýði, kínakartafla; sæt kartafla (BNA)
+multistory l. marghæða, fjölhæða; [~ building] bygging með mörgum hæðum
+beekeeper n. býflugnabóndi
+beekeeping n. býflugnarækt
+unruliness n. óstýrilæti (sjá %[unruly]%)
+scrotum n. pungur, hreðjar
+redefine s. endurskilgreina (sjá %[define]%)
+bulldozer n. jarðýta
+mountainside n. fjallshlíð

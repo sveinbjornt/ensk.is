@@ -334,9 +334,9 @@ defile n. þröngur vegur, þröngt skarð, kleifar; s. ganga hver á eftir öð
 defile s. ata, saurga, óhreinka, spilla
 defilement n. saurgun
 definable l. sem hægt er að ákveða
-define s. takmarka; ákveða; útlista, skýra
+define s. skilgreina, útlista, skýra; takmarka; ákveða
 definite l. ákveðinn, tiltekinn
-definition n. orðskýring, skilgreining
+definition n. skilgreining, orðskýring
 definitive l. ákveðinn; úrslitalegur, endanlegur; n. ákvörðunarorð
 definitively ao. gagngjört, til fulls ([to settle ~])
 deflagrate s. brenna (upp)
