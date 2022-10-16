@@ -34,7 +34,7 @@ sustainability n. sjálfbærni
 sustainable l. sjálfbær
 unemployment n. atvinnuleysi
 username n. notandanafn
-video n. myndband, myndupptaka
+video n. myndband, myndbandsupptaka
 wishlist n. óskalisti
 carbon tax n. kolefnisskattur
 hippie n. hippi
@@ -61,7 +61,7 @@ laptop n. fartölva
 cryptography n. dulkóðun, dulkóðunarfræði, dulmál
 mansplain s. hrútskýra (þegar karlmaður útskýrir e-ð á yfirlætisfullan hátt)
 podcast n. hlaðvarp (stafrænn útvarpsþáttur)
-lighter n. kveikjari
+lighter n. kveikjari)
 email n. tölvupóstur (stytt. á [electronic mail])
 e-mail n. tölvupóstur (stytt. á [electronic mail])
 smartphone n. snjallsími
@@ -95,7 +95,7 @@ encryption n. dulkóðun
 encrypt s. dulkóða
 girlfriend n. kærasta, unnusta; vinkona
 guestbook n. gestabók
-holocaust n. helför; [the Holocaust] helförin, þ.e. tortíming Gyðinga í seinni heimsstyrjöld
+holocaust n. helför; [the Holocaust] helförin, þ.e. kerfisbundin tortíming Gyðinga á síðustu árum seinni heimsstyrjaldar
 microphone n. hljóðnemi
 mic n. hljóðnemi (stytt. á %[microphone]%)
 mike n. hljóðnemi (stytt. á %[microphone]%)
@@ -108,6 +108,7 @@ masturbatory l. sjálfsfróandi, sjálfsrunkandi
 programmer n. forritari
 recycling n. endurvinnsla, endurnýting
 recycle s. endurvinna, endurnýta
+recycled l. endurunninn, endurnýttur
 ringtone n. hringitónn
 sunglasses n. ft. sólgleraugu, skyggð gleraugu
 titanium n. títan, títaníum (málmur, frumefnið [Ti])
@@ -2288,7 +2289,7 @@ persuader n. e-r sem sannfærir (sjá %[persuade]%)
 taxonomy n. flokkunarfræði
 taxonomic l. flokkunarfræðilegur
 taxonomist n. flokkunarfræðingur
-horseshit n. hrossaskítur, hestaskítur, hrossatað; kjaftæði (óforml.)
+horseshit n. hrossaskítur, hestaskítur, hrossatað; kjaftæði, bull (óforml.)
 appeasable l. sefanlegur, friðþægjanlegur
 unappeasable l. ósefanlegur, ófriðþægjanlegur
 reassessment n. endurmat (sjá %[assessment]%)
@@ -2690,3 +2691,25 @@ callousness n. harðúð, kaldlyndi, tilfinningaleysi (sjá %[callous]%)
 striptease n. nektardans, strípidans
 clean-shaven n. nauðrakaður, hreinrakaður, nýrakaður
 sabbatical n. rannsóknarleyfi; orlof, leyfi
+escapee n. strokufangi, flóttamaður
+theoretician n. kenningasmiður, kennismiður, fræðimaður
+carbonate n. kolsýrusalt, karbónat (efnasamband)
+asymptomatic l. einkennalaus, án einkenna
+desalinate s. afsalta, salteima, skilja salt frá vatni
+desalination n. afsöltun (á sjávarvatni), salteiming
+kumquat n. kúmkvat (e.k. ávöxtur)
+cancan n. kankan (e.k. franskur dans)
+blitzkrieg n. leifturstríð (úr þýsku)
+malnourishment n. vannæring, næringarskortur
+malnourished l. vannærður
+candlelit l. kertalýstur, lýstur með kertum
+Canberra n. Kanberra (höfuðborg Ástralíu)
+Paris n. París (höfuðborg Frakklands)
+lampshade n. lampaskermur
+undefeated l. ósigraður
+acquihire n. þegar fyrirtæki er keypt til þess að komast yfir starfsmenn þess frekar en vörur og þjónustur
+gerrymander s. hagræða kjördæmum
+gerrymandering n. kjördæmahagræðing
+Europeanize s. evrópuvæða
+Europeanization n. evrópuvæðing
+Indo-European l. indóevrópskur; n. Indóevrópumaður

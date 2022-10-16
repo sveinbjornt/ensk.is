@@ -20,12 +20,12 @@ iconoclast n. myndabrjótur, helgimyndabrjótur
 icterus n. gula
 icy l. ískaldur; freðinn; ís-
 idea n. hugmynd ([I have no ~ of it]); hugsun; hugsjón
-ideal n. hugsjón; hugsjónarmynd; l. hugsjónarlegur
-idealism n. hugsjónastefna, hugsjónamennska, hugsæisstefna
-idealist n. hugsjónamaður
+ideal n. hugsjón; hugsjónarmynd; l. hugsjónarlegur; upplagður, tilvalinn
+idealism n. hugsjónastefna, hugsjónamennska; hugsæisstefna (í heimspeki)
+idealist n. hugsjónamaður; hugsæisstefnumaður (í heimspeki)
 ideality n. hugsjónarleiki, hugsjón
 idealize s. gera hugsjónarlegt, setja hugsæisblæ á e-ð
-ideally ao. hugsjónarlega
+ideally ao. hugsjónarlega; fullkomnlega
 identical l. samur, samjafn
 identify s. gera (tvennt eða fleira) að einu; sanna samleik (e-s)
 identity n. samleikur ([he doubted his own ~])
@@ -885,7 +885,7 @@ ingathering n. hirðing, uppskera ([the ~ of his hay])
 ingeminate s. tvítaka, endurtaka e-ð
 ingemination n. tvítekning, þrítekning
 ingenious l. hugvitssamur; hugvitsamlegur ([an ~ contrivance])
-ingenuity n. hugvit, skarpskyggni, ráðkænska
+ingenuity n. hugvit, hugvitssemi, skarpskyggni, ráðkænska
 ingenuous l. göfugur; opinskár, hreinskilinn
 ingenuousness n. hreinskilni, hreinlyndi, einlægni
 inglorious l. frægðarlaus; ófrægilegur, vansæmandi
