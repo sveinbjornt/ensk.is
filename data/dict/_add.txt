@@ -900,7 +900,7 @@ immunodeficiency n. ónæmisbæklun, ónæmisbrestur
 immunodeficient l. ónæmisbæklaður, ónæmisbrostinn
 immunocompromisation n. ónæmisbæling, skerðing ónæmiskerfis
 immunocompromised l. ónæmisbældur, með skert ónæmiskerfi
-calloused l. hertur (um hörundið); orðinn kaldlyndur; [~ hands] hendur með sigg
+calloused l. hertur (um hörundið); orðinn kaldlyndur; sigggróinn; [~ hands] hendur með sigg
 proudly l. af/með stolti, stærilæti, hroka
 climate change n. loftslagsbreytingar, veðurfarsbreytingar
 honky n. niðrandi orð um hvítt fólk
@@ -2647,3 +2647,46 @@ chainsaw n. vélsög, keðjusög
 pancreas n. bris, briskirtill
 hysterically ao. móðursýkislega
 spiritually ao. andlega
+clockwork n. gangverk, úrverk, klukkuverk
+flotilla n. lítill floti, smáfloti, smáskipafloti
+oscilloscope n. sveiflusjá (rafrænt mælitæki)
+carpaccio n. (nauta)kjöt skorið í þunnar sneiðar
+cabana n. skáli, kofi (við strönd)
+proofread s. prófarkalesa
+coiffure n. hárgreiðsla
+paycheck n. launaseðill, launaumslag; laun
+uncountable l. óteljandi
+phoneme n. fónem, hljóðan, hljóðungur
+phonemic l. fónemískur, hljóðanlegur, hljóðungslegur, hljóðfræðilegur
+grapheme n. stafur, rittákn, grafem (grunneining ritkerfis)
+graphemic l. grafemískur, rittáknslegur
+sine qua non l. án hvers ekki (úr latínu)
+taxi n. leigubíll; s. ferðast um í eða flytja e-ð með leigubíl; aka á jörðu (um flugvélar)
+taxicab n. sjá %[taxi]%
+taxi driver n. leigubílstjóri
+taxi stand n. leigubílastöð
+tax-exempt l. skattfrjáls
+gangster n. glæpon, bófi, glæpamaður
+gangsterism n. (skipulögð) glæpastarfsemi
+commissar n. pólitískur fulltrúi (kommúnistaflokks Sovétríkjanna); ráðuneytisstjóri í Sovétríkjunum
+global l. alheims-, heims-, hnattrænn; víðtækur, allsherjar
+syntactic l. orðskipunarlegur, orðskipunar-, málskipunar-
+grandmotherly l. ömmulegur, ömmu-
+byproduct n. aukaafurð
+banal l. ómerkilegur, lítilsverður, hversdagslegur
+banality n. hversdagsleiki, ómerkilegheit ([the ~ of existence]); hversdagslegt orðalag, þreytt klisja
+all-powerful l. almáttugur, alvaldur, sem öllu ræður, sem er með vald yfir öllu ([an ~ god])
+maelstrom n. hringiða; glundroði
+pufferfish n. lundafiskur
+fugu n. lundafiskur
+loan shark n. okurlánari
+idealistic l. hugsjónalegur, hugsjóna-; hugsæis-, hughyggju-; óraunhæfur
+salon n. (stór) stofa, gestastofa; gallerí; snyrtistofa; [hair ~] hárgreiðslustofa; tískuverslun
+antireligious l. andtrúarlegur, gegn eða á móti trúarbrögðum
+perceptual l. skynjunar-, eftirtektar-, varurðar-
+serendipity n. slembilukka
+impostor syndrome n. loddaralíðan
+callousness n. harðúð, kaldlyndi, tilfinningaleysi (sjá %[callous]%)
+striptease n. nektardans, strípidans
+clean-shaven n. nauðrakaður, hreinrakaður, nýrakaður
+sabbatical n. rannsóknarleyfi; orlof, leyfi

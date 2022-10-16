@@ -472,13 +472,11 @@ common-sensical
 subjectivism
 non-subjective
 undistinguished
-salon
 stylistic
 misguided
 cosmopolitanism
 universalism
 universalist
-idealistic
 contractarian
 rationalistic
 emigré
@@ -492,16 +490,13 @@ endurant
 stop-gap
 pre-empt
 compelling
-antireligious
 marginalization
-maelstrom
 irreconcilability
 abductive
 self-proclaimed
 underdetermination
 ambivalence
 ambivalent
-all-powerful
 legalistic
 sophistication
 elitism
@@ -514,7 +509,6 @@ dysmorphia
 dysmorphic
 extrapolate
 extrapolation
-perceptual
 selectivity
 curved
 typesetter
@@ -546,8 +540,6 @@ reinvolve
 trafficking
 undocumented
 heartlessness
-serendipity
-impostor syndrome
 browse s.
 populist
 populism
@@ -573,8 +565,6 @@ prefabrication
 prefabricated
 evocative
 keynote
-banal
-banality
 unforgettable
 archaic
 bourgeois
@@ -599,7 +589,6 @@ ill-educated
 evil-spirited
 breakable
 unbreakable
-byproduct
 thatched
 hillside
 unendurable
@@ -608,15 +597,12 @@ dotted
 stuffing
 conventionalize
 sahib
-grandmotherly
 steamroll
 steamroller
 frightened
 crosshair
-syntactic
 formulation
 wide-ranging
-global
 intersubjective
 intersubjectivity
 foundational
@@ -632,17 +618,10 @@ interrelated
 Georgian
 Elizabethan
 self-centered
-clean-shaven
-commissar
 full-time
 eurocentrism
 public-spirited
 domesticity
-striptease
-gangster
-taxi
-taxi driver
-callousness
 incrimination
 Americanize
 wastepaper
@@ -707,7 +686,6 @@ replaceable
 mutatis mutandis
 inter alia
 ceteris paribus
-sine qua non
 thinkable
 unconquered
 aftereffect
@@ -719,8 +697,6 @@ developer
 schmuck
 acquiree
 acquihire
-grapheme
-phoneme
 emic
 Roma
 gypsy (sjá gipsy)
@@ -1541,13 +1517,11 @@ graven
 supremacist
 hideousness
 unsanitary
-uncountable
 meritocracy
 meritocratic
 ghoulish
 celebratory
 globetrotter
-shamanistic
 fantasist
 reclusive
 loucheness
@@ -1563,7 +1537,6 @@ curbside
 hodgepodge
 workhorse
 wipeout
-paycheck
 jobless
 teammate
 letterhead
@@ -1591,7 +1564,6 @@ toiletry
 suitcase
 inoperable
 headset
-coiffure
 co-workforce
 dossier
 horrendous
@@ -1617,7 +1589,6 @@ amortization
 juggernaut
 staffer
 capitalization
-proofread
 literalism
 formica
 parmesan
@@ -1667,12 +1638,10 @@ brownstone
 seamless
 sleepover
 airborne
-cabana
 organizational
 bespoke
 fait accompli
 consultant
-carpaccio
 uncharacteristic
 pushiness
 smokescreen
@@ -1903,7 +1872,6 @@ paternalist
 insightful
 radiator
 hotspot
-oscilloscope
 ergonomic
 ergonomics
 domestication
@@ -1993,7 +1961,6 @@ nucleation
 peonage
 estuarine
 intertidal
-flotilla
 underwater
 shoreline
 commonsensical
@@ -2014,7 +1981,6 @@ socialization
 savoir-faire
 industriousness
 toxin
-clockwork
 storable
 theatricality
 exteriority
@@ -2097,6 +2063,10 @@ tortilla
 self-deprecation
 arcane
 shaman
+shamanic
+shamanistic
+medicine man
+witch doctor
 wicca
 decentralization
 statelet
@@ -2119,7 +2089,6 @@ unresolvable
 reshuffle
 charnel
 breastplate
-shamanic
 swampland
 fenland
 otherworldly

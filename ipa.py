@@ -363,6 +363,7 @@ SKIP = frozenset(
         "Byzantium",
         "Manchuria",
         "Manchurian",
+        "graphemic",
     )
 )
 
