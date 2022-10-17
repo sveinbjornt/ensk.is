@@ -14,7 +14,7 @@ heliocentrism n. sólmiðjukenning
 heliocentric l. sólmiðju-
 geoheliocentrism n. jarðsólmiðjukenning stjarnfræðingsins Tycho Brahe ([the Tychonic system])
 pseudoscience n. gervivísindi
-pseudoscientific l. gervivísindalegt
+pseudoscientific l. gervivísindalegur
 pseudoscientist n. gervivísindamaður
 zombie n. uppvakningur
 dinosaur n. risaeðla
@@ -2116,14 +2116,14 @@ firewall n. eldveggur; brunaveggur
 sharpshooter n. (leyni)skytta
 cellphone n. farsími, gemsi, GSM-sími
 rifleman n. hermaður vopnaður riffli
-capitalistic l. auðvaldslegur; auðvaldsstefnulegur; kapítalískur
+capitalistic l. auðvaldslegur; auðvaldsstefnulegur, kapítalískur
 dependability n. áreiðanleiki
 shieldbearer n. skjaldberi, skjaldsveinn
 putsch n. tilraun til byltingar eða valdaráns
-driverless l. án ökumanns eða bílstjóra, ökumannslaus
+driverless l. án ökumanns eða bílstjóra, ökumannslaus, bílstjóralaus
 homeowner n. húseigandi
 homeownership n. húseign
-alcoholism n. alkóhólismi, áfengissýki
+alcoholism n. alkóhólismi, áfengissýki, áfengisfíkn
 renegotiate s. endursemja
 circa ao. um það bil, sirka
 smoking area n. reykingasvæði
@@ -2169,7 +2169,7 @@ creditworthy l. lánshæfur
 mimeograph n. fjölritunarvél, fjölritunartæki; s. fjölrita (með fjölritunarvél)
 barista n. kaffibarþjónn, þjónn á kaffihúsi
 inflatable l. uppblásanlegur
-unpronounceable l. óframberanlegt, ekki hægt að bera fram
+unpronounceable l. óframberanlegur, ekki hægt að bera fram (sjá %[pronounce]%)
 anaesthesia n. deyfing, svæfing; [spinal ~] mænudeyfing; [local anaesthesia] staðdeyfing
 windscreen n. framrúða; [~ wipers] rúðuþurrkur
 punditry n. álitsgjöf, skoðanir meintra sérfræðinga (sjá %[pundit]%)
@@ -2704,12 +2704,14 @@ malnourishment n. vannæring, næringarskortur
 malnourished l. vannærður
 candlelit l. kertalýstur, lýstur með kertum
 Canberra n. Kanberra (höfuðborg Ástralíu)
-Paris n. París (höfuðborg Frakklands)
+Paris n. París (höfuðborg Frakklands); grísk goðsagnapersóna
 lampshade n. lampaskermur
 undefeated l. ósigraður
-acquihire n. þegar fyrirtæki er keypt til þess að komast yfir starfsmenn þess frekar en vörur og þjónustur
+acquihire n. þegar fyrirtæki er keypt til þess að komast yfir starfsmenn þess frekar en vörur og þjónustur (samsetning af %[acquisition]% og %[hire]%)
 gerrymander s. hagræða kjördæmum
 gerrymandering n. kjördæmahagræðing
 Europeanize s. evrópuvæða
 Europeanization n. evrópuvæðing
 Indo-European l. indóevrópskur; n. Indóevrópumaður
+somnambulator n. svefngengill, svefngöngumaður
+godparent n. guðforeldri (sjá %[godfather]%, %[godmother]%)

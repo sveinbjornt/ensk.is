@@ -1421,7 +1421,7 @@ polychromatic l. marglitur
 polygamist n. fjölkvænismaður
 polygamous l. fjölkvænislegur
 polygamy n. margkvæni, fjölkvæni
-polyglot l. sem er á mörgum málum ([a ~ dictionary]); n. tungumálamaður, fjöltyngdur maður; bók, sem rituð er á mörgum málum
+polyglot l. fjöltungu-, sem er á mörgum málum ([a ~ dictionary]); n. tungumálamaður, fjöltyngdur maður; bók sem rituð er á mörgum málum
 polygon n. marghyrningur
 polyhedron n. marghliðungur
 polyhedrous l. marghliðaður
@@ -1433,7 +1433,7 @@ polysyllabic l. fleirkvæður
 polysyllable n. fleirkvætt orð
 polytechnic l. fjöllista- ([~ school, ~ institution])
 polytheism n. fjölgyðistrú
-polytheist n. fjölgyðismaður
+polytheist n. fjölgyðismaður, fjölgyðistrúarmaður
 polytheistical l. fjölgyðistrúarlegur, fjölgyðis- ([~ religion])
 pomade n. hársmyrsl
 pomatum n. hársmyrsl
@@ -1463,8 +1463,7 @@ pontoon n. flatbotnaður ferjubátur; brúarbátur
 pony l. lítill hestur
 poodle n. loðhundur
 pooh uh. svei!
-pool n. pollur; hylur (í á)
-pool n. spilapeningsskál
+pool n. pollur; hylur (í á); sundlaug ([swimming ~]); spilapeningsskál
 poop n. skutpallur, skutur; s. skella yfir skut skipsins (um bylgjur); fá sjó yfir skutinn
 poor l. fátækur, snauður, armur; vesæll, aumur; vesalings-, aumingja- ([the ~ child]); magur, rýr ([the crop was ~]); ófrjór; [the ~] fátæklingarnir; sveitarómagar
 poor law n. fátækralöggjöf
