@@ -61,7 +61,7 @@ laptop n. fartölva
 cryptography n. dulkóðun, dulkóðunarfræði, dulmál
 mansplain s. hrútskýra (þegar karlmaður útskýrir e-ð á yfirlætisfullan hátt)
 podcast n. hlaðvarp (stafrænn útvarpsþáttur)
-lighter n. kveikjari)
+lighter n. kveikjari
 email n. tölvupóstur (stytt. á [electronic mail])
 e-mail n. tölvupóstur (stytt. á [electronic mail])
 smartphone n. snjallsími
@@ -2715,3 +2715,10 @@ Europeanization n. evrópuvæðing
 Indo-European l. indóevrópskur; n. Indóevrópumaður
 somnambulator n. svefngengill, svefngöngumaður
 godparent n. guðforeldri (sjá %[godfather]%, %[godmother]%)
+tsarism n. keisaraeinveldi; keisarastefna (í Rússlandi)
+tsarist l. keisara-; [~ Russia] Rússland á tímum keisaraveldis; n. keisarasinni, stuðningsmaður keisara (í Rússlandi)
+czarism n. sjá %[tsarism]%
+czarist n. sjá %[tsarist]%
+hornlike l. hornkenndur, líkist horni
+conductivity n. leiðni, eðlisleiðni (hæfni efnis til að leiða rafmagn, varma, hljóð)
+web server n. vefþjónn

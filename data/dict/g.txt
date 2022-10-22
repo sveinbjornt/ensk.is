@@ -462,7 +462,7 @@ go-between n. milligöngumaður
 goblet n. drykkjarbikar
 goblin n. álfur; draugur
 god n. guð
-godchild n. barn sem maður hefur verið skírnarvottur að
+godchild n. barn sem maður hefur verið skírnarvottur að (sjá %[godparent]%)
 goddaughter n. stúlka sem maður hefur verið skírnarvottur að
 goddess n. gyðja
 godfather n. guðfaðir, skírnarvottur

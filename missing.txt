@@ -2455,8 +2455,6 @@ happenstance
 resourcefulness
 microfilm
 imperium
-tsarism
-tsarist
 histrionics
 realign
 self-improvement
@@ -3197,7 +3195,6 @@ nonperishable
 digitize
 digitization
 vanadium
-conductivity
 superconductivity
 superconductor
 smelter
@@ -3492,3 +3489,8 @@ bedbug
 touchable
 siphonaptera
 oligarch
+dogsbody
+chore
+variadic
+arity
+fracking
