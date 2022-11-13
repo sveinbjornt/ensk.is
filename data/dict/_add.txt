@@ -2722,3 +2722,4 @@ czarist n. sjá %[tsarist]%
 hornlike l. hornkenndur, líkist horni
 conductivity n. leiðni, eðlisleiðni (hæfni efnis til að leiða rafmagn, varma, hljóð)
 web server n. vefþjónn
+fiber n. sjá %[fibre]%

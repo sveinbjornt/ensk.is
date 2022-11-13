@@ -3494,3 +3494,6 @@ chore
 variadic
 arity
 fracking
+monaural
+monophonic
+stereophonic
