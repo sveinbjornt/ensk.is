@@ -1245,12 +1245,12 @@ expiration n. útöndun; útgufun; endi, lok (e-s tíma); andlát; [at the ~ of 
 expiratory l. útöndunar-
 expire s. anda frá sér; gufa upp; andast, deyja; enda; líða (um tímann); vera á enda; hætta
 expiry n. lok, endir; dauði
-explain s. skýra, útlista; gera grein fyrir; [~ away] eyða (draga úr) e-u með skýringum
-explainable l. sem hægt er að skýra
-explanation n. skýring, útlistun; [in ~ of] til skýringar e-u
+explain s. skýra, útskýra, útlista; gera grein fyrir; [~ away] eyða (draga úr) e-u með skýringum
+explainable l. sem hægt er að skýra, útskýranlegur
+explanation n. skýring, útskýring, útlistun; [in ~ of] til skýringar e-u
 explanatory l. skýrandi
 expletive l. fyllandi, fyllingar-; n. fyllingarorð
-explicable l. sem hægt er að skýra
+explicable l. sem hægt er að skýra, útskýranlegur
 explication n. skýring
 explicative l. skýrandi
 explicatory l. skýrandi

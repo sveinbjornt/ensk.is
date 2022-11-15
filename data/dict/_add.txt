@@ -2237,7 +2237,6 @@ syphilis n. sárasótt, sýfilis (kynsjúkdómur)
 syphilitic l. sárasóttarsmitaður, smitaður af kynsjúkdómnum sýfilis
 self-respect n. sjálfsvirðing
 hellfire n. vítiseldur
-latinize s. snúa yfir á latínu, gera latneskt eða líkt latínu
 nationalism n. þjóðernishyggja, þjóðernisstefna
 nationalist n. þjóðernissinni, þjóðernishyggjusinni, þjóðernishyggjumaður
 nationalistic l. þjóðernislegur, þjóðernishyggjulegur, þjóðernisstefnulegur
@@ -2723,3 +2722,26 @@ hornlike l. hornkenndur, líkist horni
 conductivity n. leiðni, eðlisleiðni (hæfni efnis til að leiða rafmagn, varma, hljóð)
 web server n. vefþjónn
 fiber n. sjá %[fibre]%
+bedbug n. veggjalús
+traceability n. rekjanleiki
+craftspeople n. ft. iðnaðarmenn, iðnaðarfólk
+microbiology n. örverufræði
+defoliate s. aflaufga
+desertification n. landeyðing, eyðimerkurmyndun
+superhero n. ofurhetja
+optometer n. sjónmælir
+optometry n. sjónmæling
+optometrist n. sjónmælingafræðingur
+mystique n. dulúð
+petit bourgeois n. (úr frönsku) smáborgari; l. smáborgaralegur
+turbine n. hverfill, túrbína
+forklift n. lyftari
+Newfoundland n. Nýfundnaland (eyja út fyrir ströndu Norður-Ameríku)
+unexplained l. óútskýrður, óútlistaður (sjá %[explain]%)
+geographically ao. landfræðilega
+snowmobile n. vélsleði, snjósleði
+storyline n. söguþráður
+airspace n. loftrými; lofthelgi ([we're about to enter Russian ~])
+counterattack n. gagnárás, gagnsókn; s. gera gagnárás
+taiga n. (norðlægt) barrskógabelti
+firebomb n. eldsprengja; s. sprengja með eldsprengjum

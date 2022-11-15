@@ -646,7 +646,6 @@ peacetime
 goose-step
 formalization
 constitutionalism
-mystique
 disintegration
 parvenu
 underdeveloped
@@ -656,7 +655,6 @@ highbrow
 lowbrow
 middle-class
 ruling-class
-petit bourgeois
 businessman
 light industry
 heavy industry
@@ -869,13 +867,11 @@ perfectionist
 lockdown
 slipperiness
 incommunicado
-turbine
 preschool
 shipyard
 snowplow
 deregulation
 hallway
-forklift
 intersectionality
 disassemble
 backdrop
@@ -976,10 +972,7 @@ stereotypical
 parliamentarian
 risky
 defense
-Newfoundland
-superhero
 hothead
-unexplained
 bowel
 codex
 unconventional
@@ -989,11 +982,9 @@ tired-looking
 archival
 babysit
 babysitter
-storyline
 smokey
 frozen
 tectonic
-snowmobile
 overprice
 overpriced
 flatlands
@@ -1004,7 +995,6 @@ lifestyle
 unfamiliarity
 flatbread
 seawater
-geographically
 farmland
 guesstimate
 grandparent
@@ -1013,7 +1003,6 @@ nonexistence
 fatalistic
 subglacial
 meltwater
-airspace
 overreact
 overreaction
 smog
@@ -1055,7 +1044,6 @@ conceptualization
 intelligently
 courageously
 voluntarist
-counterattack
 underway
 reimagine
 unification
@@ -1081,7 +1069,6 @@ redistribution
 redistributive
 ephemeral
 breadline
-taiga
 deportee
 firepower
 hasten
@@ -1118,7 +1105,6 @@ diaspora
 counterrevolution
 socioeconomic
 resettlement
-firebomb
 professoriate
 barbed
 interrogator
@@ -3259,7 +3245,6 @@ hydrological
 grunge
 grungy
 kebab
-desertification
 mudslide
 dehydrate
 dehydration
@@ -3426,7 +3411,6 @@ redesign
 developmentalist
 reconfigure
 inaccessibility
-defoliate
 reenactment
 semaphore
 whimsicality
@@ -3451,13 +3435,11 @@ chairperson
 serology
 phytoserology
 pathogenicity
-microbiology
 prefectural
 typhoid
 pee
 tester
 experimentee
-craftspeople
 formalin
 anthracis
 downwind
@@ -3478,14 +3460,12 @@ salmonella
 encephalitis
 immunization
 undulant
-traceability
 cover-up
 substantiation
 reservist
 presumably
 decryption
 potentially
-bedbug
 touchable
 siphonaptera
 oligarch

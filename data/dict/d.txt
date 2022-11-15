@@ -347,7 +347,7 @@ deflection n. afvik, bugða
 deflexion n. afvik, bugða
 defloration n. afmeyjun; úrval
 deflower s. afmeyja; taka blómstrin af
-defoliation n. lauffall
+defoliation n. lauffall, aflaufgun
 deform s. afmynda, afskræma; breyta
 deformed l. vanskapaður, afskræmislegur, ljótur
 deformation n. afmyndun
@@ -1263,7 +1263,7 @@ dissociate s. skilja í sundur, skilja frá e-u ([from])
 dissoluble l. uppleysanlegur; bræðanlegur
 dissolute l. lauslátur, ósiðlegur
 dissoluteness n. lauslæti, ósiðlæti
-dissolution n. upplausn; bræðsla, bráðnun ([~ of the ice]); afnám ([~ of the monasteries]); þingrof ([~ of Parliament]); dauði
+dissolution n. upplausn, sundurlausn; bræðsla, bráðnun ([~ of the ice]); afnám ([~ of the monasteries]); þingrof ([~ of Parliament]); dauði
 dissolvable l. uppleysanlegur; bræðanlegur
 dissolve s. leysa upp, bræða; slíta (fundi, félagsskap); rjúfa (þing); bráðna; eyðast; [~ in pleasures] gefa sig allan við skemmtunum; [~ into tears] fara að gráta, flóa í tárum
 dissolvent l. uppleysandi; n. upplausnarefni
