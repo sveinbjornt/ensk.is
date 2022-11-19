@@ -372,6 +372,9 @@ SKIP = frozenset(
         "hornlike",
         "Newfoundland",
         "optometer",
+        "self-governance",
+        "glassmaker",
+        "glassmaking",
     )
 )
 

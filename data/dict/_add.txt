@@ -1004,7 +1004,7 @@ roulette n. rúlletta; [Russian ~] rússnesk rúlletta
 sadism n. kvalalosti, kvalafýsn, sadismi
 sadist n. lostakvalari, sadisti
 sadistic l. kvalalosta-, sadista-
-masochism n. sjálfspíningarhvöt
+masochism n. sjálfspíningarhvöt, sjálfspíslarhvöt, masókismi
 sadomasochism n. sadómasókismi, löngun til að kvelja bæði sjálfan sig og aðra (sjá %[sadism]% og %[masochism]%)
 sadomasochistic n. sadómasókískur, kvalarlosta- (sjá %[sadomasochism]%)
 BDSM n. kynlíf sem einkennist af kvalalosta, pyntingu, drottnun og undirgefni (stytt. á [bondage, domination, sado-masochism])
@@ -2745,3 +2745,38 @@ airspace n. loftrými; lofthelgi ([we're about to enter Russian ~])
 counterattack n. gagnárás, gagnsókn; s. gera gagnárás
 taiga n. (norðlægt) barrskógabelti
 firebomb n. eldsprengja; s. sprengja með eldsprengjum
+masochist n. masókisti (sjá %[masochism]%)
+masochistic l. masókískur (sjá %[masochism]%)
+biplane n. gömul gerð af flugvél með tvöföldum vængjum
+monoplane n. flugvél með eitt sett af vængjum
+seaway n. sjóleið
+lifespan n. líftími, lífaldur, æviskeið
+unsentimental l. ótilfinninganæmur, óviðkvæmur
+milieu n. umhverfi
+prosthesis n. gervilimur
+prosthetic n. gervilimur; l. gervilims- ([~ clinic, leg])
+orthosis n. stoðtæki
+conquistador n. (spánskur) landvinningamaður (í Nýja heiminum)
+buggery n. endaþarmsmök
+spreadsheet n. töflureiknir
+videotape n. myndband, myndbandsspóla, myndbandsupptaka; s. taka upp á myndband, myndbandsspólu
+laundromat n. (almennings)þvottahús
+trucker n. vörubílstjóri, flutningabílstjóri
+windshield n. framrúða
+cardboard n. pappi; [~ box] pappakassi
+psychobabble n. sálfræðibull, sálfræðiþvæla
+citric l. sítrónu-; [~ acid] sítrónusýra
+woodpecker n. spæta (fugl)
+self-governance n. sjálfstjórn
+ruble n. rúbla (rússneskur gjaldmiðill, 100 kópekar)
+jihad n. heilagt stríð (múslíma)
+deliveryman n. sendill
+dogsbody n. þjónn, hjálparhella
+salmonella n. salmonella, bifstafur
+glassmaker n. glerblásari, glergerðarmaður
+glassmaking n. glergerð, glerblástur, glerframleiðsla
+grail n. gralbikar, kaleikur
+fungicide n. sveppadeyðir, sveppaeyðir
+pax n. friður (úr latínu); [~ Romana] Rómarfriður
+doormat n. dyramotta
+guacamole n. lárperumauk
