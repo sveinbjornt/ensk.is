@@ -109,6 +109,9 @@ a.result_link {
     margin-bottom:20px;
 }
 
+#wordcats td a {
+    text-decoration: none;
+}
 
 /* Autocompletion styles */
 .autocomplete-suggestions {
