@@ -2362,7 +2362,6 @@ chromosome n. litningur
 chromosphere n. lithvolf
 gene n. gen
 genetic l. gena-, erfða-; genetískur
-genome n. erfðamengi, genamengi
 geneticist n. erfðafræðingur, genafræðingur
 autophagia n. sjálfsát
 nectarine n. nektarína
@@ -2793,7 +2792,7 @@ unbreakable l. óbrjótandi, óbrjótanlegur
 ever-growing l. sívaxandi
 pretentiousness n. tilgerð
 wordless l. orðlaus
-sahib n. (hvítur) herramaður (í Indlandi á nýlendutímanum)
+sahib n. (evrópskur) herramaður (í Indlandi á nýlendutímanum)
 reformism n. umbótastefna
 snobbishness n. snobb, uppskafningsháttur
 smallholding n. smábú, smábýli; smábýlabúskapur
