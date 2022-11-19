@@ -1130,7 +1130,7 @@ epee n. sjá %[épée]%
 siege engine n. umsátursvopn, umsátursvél, umsáturstæki
 siege tower n. umsátursturn
 trebuchet n. valslöngva, steinvarpa (umsátursvopn á miðöldum)
-ballista n. risastór lásbogi
+ballista n. risastór lásbogi sem skýtur spjótum
 petard n. e.k. sprengja
 kobold n. hrekkjóttur álfur eða púki (í þýskri þjóðtrú)
 minotaur n. mínótár (úr grískri goðafræði, skrímsli sem er hálfur maður og hálft naut)
@@ -1145,7 +1145,7 @@ incubus n. illur andi sem leitar á konur í svefni
 behemoth n. stór og mikil ófreskja (úr Jobsbók í Biblíunni)
 gargoyle n. ufsagrýla
 Beelzebub n. Belsíbúbb (Satan)
-reggae n. reggí-tónlist
+reggae n. reggí-tónlist; [~ musician] reggí-tónlistarmaður
 activation n. virkjun (sjá %[activate]%)
 activate s. virkja, ræsa, kveikja á
 holistic l. heildrænn
@@ -1254,6 +1254,7 @@ arquebus n. e.k. gamaldags byssa (sjá einnig %[harquebus]%)
 environmental l. umhverfis-; sjá %[environment]%
 hydroelectric l. vatnsafls-, vatnsorku-; [hydroelectric power plant] vatnsaflsvirkjun, vatnsorkuver
 geothermal l. jarðhita-, jarðvarma-; [geothermal power plant] jarðvarmavirkjun, jarðhitavirkjun
+geothermally ao. jarðhitalegur, jarðvarmalegur
 boner n. standpína, holdris, reisn
 urologist n. þvagfæralæknir, þvagfærasérfræðingur
 endocrinologist n. innkirtlalæknir, innkirtlasérfræðingur, innkirtlafræðingur
@@ -1941,7 +1942,7 @@ uncorrupt l. óspilltur, óskemmdur
 behaviourism n. atferlishyggja
 behaviourist n. atferlishyggjusinni, atferlishyggjumaður
 graffiti n. veggjakrot, veggjalist
-oncology n. æxlafræði, krabbameinslæknisfræði
+oncology n. æxlafræði, krabbameinslækningar, krabbameinslæknisfræði
 unsayable l. ósegjanlegur
 trillion n. billjón (þúsund milljarðar)
 uselessness n. gagnsleysi
@@ -2544,7 +2545,7 @@ trapezoid n. trapisa
 trapezoidal l. trapisulaga
 emirate n. furstadæmi (í Austurlöndum nær)
 randomness n. handahófskennd, slembni
-kafkaesque l. eins og martraðarkennd skriffinnska eða skrifræði
+kafkaesque l. sem einkennist af martraðarkenndri skriffinnsku eða skrifræði
 raincoat n. regnkápa, regnfrakki
 outflow n. útstreymi, útflæði
 standardize s. staðla (sjá %[standard]%)
@@ -2750,7 +2751,7 @@ biplane n. gömul gerð af flugvél með tvöföldum vængjum
 monoplane n. flugvél með eitt sett af vængjum
 seaway n. sjóleið
 lifespan n. líftími, lífaldur, æviskeið
-unsentimental l. ótilfinninganæmur, óviðkvæmur
+unsentimental l. ótilfinninganæmur, óviðkvæmur, ótilfinningasamur
 milieu n. umhverfi
 prosthesis n. gervilimur
 prosthetic n. gervilimur; l. gervilims- ([~ clinic, leg])
@@ -2766,7 +2767,7 @@ cardboard n. pappi; [~ box] pappakassi
 psychobabble n. sálfræðibull, sálfræðiþvæla
 citric l. sítrónu-; [~ acid] sítrónusýra
 woodpecker n. spæta (fugl)
-self-governance n. sjálfstjórn
+self-governance n. sjálfstjórn; heimastjórn
 ruble n. rúbla (rússneskur gjaldmiðill, 100 kópekar)
 jihad n. heilagt stríð (múslíma)
 deliveryman n. sendill
@@ -2774,7 +2775,7 @@ dogsbody n. þjónn, hjálparhella
 salmonella n. salmonella, bifstafur
 glassmaker n. glerblásari, glergerðarmaður
 glassmaking n. glergerð, glerblástur, glerframleiðsla
-grail n. gralbikar, kaleikur
+grail n. (gral)bikar, kaleikur
 fungicide n. sveppadeyðir, sveppaeyðir
 pax n. friður (úr latínu); [~ Romana] Rómarfriður
 doormat n. dyramotta
@@ -2782,12 +2783,12 @@ guacamole n. lárperumauk
 goldsmithing n. gullsmíði
 goldsmithery n. gullsmíði
 suburbanize s. úthverfavæða
-grifter n. svindlari
+grifter n. svikahrappur, svindlari
 ham-fisted l. klaufalegur, klunnalegur, ólaginn
 bunkmate n. kojufélagi
 brilliance n. ljómi; snilld ([his ~ was evident to all])
 moreish l. (breskt slangur) þess eðlis að maður vill meira ([this crack is really ~])
-unforgettable l. ógleymanlegur
+unforgettable l. ógleymanlegur ([an ~ experience])
 breakable l. brjótanlegur
 unbreakable l. óbrjótandi, óbrjótanlegur
 ever-growing l. sívaxandi
@@ -2820,7 +2821,7 @@ supermarket n. matvöruverslun, kjörbúð, súpermarkaður
 stressful l. stressandi ([~ times])
 frozen l. frosinn, freðinn
 coastline n. strandlengja
-footballer n. knattspyrnumaður, fótboltamaður
+footballer n. knattspyrnumaður, fótboltamaður; fótboltakona, knattspyrnukona
 cameraman n. myndatökumaður, tökumaður; ljósmyndari
 oceanography n. haffræði
 oceanographer n. haffræðingur
@@ -2829,3 +2830,21 @@ oceanographically ao. haffræðilega
 calfskin n. kálfsskinn
 takeover n. yfirtaka; valdataka
 multinational l. fjölþjóðlegur; n. fjölþjóðlegt fyrirtæki
+smartwatch n. snjallúr
+grandparent n. afaforeldri (þ.e. afi eða amma); [his ~s] afi hans og amma/afar hans og ömmur
+backyard n. bakgarður
+supertanker n. risastórt olíuflutningaskip, risaolíuskip; risastórt skip sem flytur vökva
+seashell n. skel, sjávarskel
+weblog n. blogg, vefrit (sjá %[blog]%)
+blog n. blogg, vefrit (stytt. á [web log]); s. blogga, skrifa í vefrit
+blogger n. bloggari, höfundur vefrits
+novella n. nóvella (stutt skáldsaga eða löng smásaga)
+amnesia n. minnistap, minnisleysi, gleymska
+amnesiac n. minnisleysingi, sá sem er þjakaður af minnisleysi (sjá %[amnesia]%)
+numeracy n. talnalæsi
+homophobia n. hommafælni, hommahatur, ótti við samkynhneigða
+homophobe n. hommahatari, e-r sem óttast samkynhneigða
+homophobic l. hommafælinn, hommahatandi, hommahaturs-, hommafælnis-
+denigrate s. hallmæla, ófrægja, niðra
+denigration n. mannorðsspjöll, ófræging, hallmæli
+denigratory n. niðrandi, ófrægjandi, ærumeiðandi, mannorðsspillandi, hallmælandi

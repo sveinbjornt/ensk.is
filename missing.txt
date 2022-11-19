@@ -171,7 +171,6 @@ characterized
 qubit
 buffer
 boost
-blog
 browse
 sexuality
 syndication
@@ -235,7 +234,6 @@ console
 napalm
 sarin
 scan
-blog
 contraindicative
 contrapositive
 unfriend
@@ -966,8 +964,6 @@ flatbread
 seawater
 farmland
 guesstimate
-grandparent
-geothermally
 nonexistence
 fatalistic
 subglacial
@@ -1601,7 +1597,6 @@ rationalization
 schlock
 conferral
 anti-depressant
-novella
 careerist
 malaise
 charmless
@@ -1664,17 +1659,12 @@ disinhibition
 shitstorm
 fuckwit
 insensitivity
-amnesia
-numeracy
 spikey
 innumerate
 catalytic
 brazenness
 officialdom
-denigrate
 malefaction
-homophobia
-homophobic
 notepad
 corporatist
 bottom-feeder
@@ -1843,7 +1833,6 @@ ephemerality
 outlier
 evolutionism
 conspiracist
-denigration
 faraway
 troublemaker
 effacement
@@ -2794,7 +2783,6 @@ bedside
 fireside
 whimsy
 broadly
-blogger
 gimmick
 leatherworker
 saddleback
@@ -2979,12 +2967,10 @@ antiquarianism
 blamable
 marginality
 characterizable
-denigratory
 dissimulator
 Socratic
 reaffirmation
 elusiveness
-seashell
 self-absorption
 implicity
 acceptability
@@ -3102,8 +3088,6 @@ Zoroastrianism
 decolonialize
 decolonialization
 corral
-backyard
-supertanker
 frack
 graspable
 disruptor
@@ -3476,3 +3460,4 @@ septicaemia
 afterward
 unsteady
 catlike
+isogeothermal

@@ -387,6 +387,8 @@ SKIP = frozenset(
         "oceanographically",
         "phrenological",
         "unpretentiousness",
+        "denigratory",
+        "geothermally",
     )
 )
 
