@@ -2107,6 +2107,7 @@ reread s. endurlesa
 prosciutto n. þunnskorin ítölsk skinka
 neuron n. taugungur, taugafruma
 phrenologist n. höfuðlagsfræðingur
+phrenological l. höfuðlagsfræðilegur
 waistline n. mittismál; mitti
 telemarketer n. símasölumaður
 telemarketing n. símasölumennska
@@ -2812,3 +2813,19 @@ silencer n. hljóðdeyfir
 likeable l. viðkunnanlegur, viðfelldinn
 wristwatch n. armbandsúr
 Egyptology n. egypsk fræði
+hellhole n. skítapleis, hræðilegur staður, vítishola
+monomaniacal l. einæðislegur, með eitthvað eitt á heilanum
+uncontroversial l. óumdeildur
+supermarket n. matvöruverslun, kjörbúð, súpermarkaður
+stressful l. stressandi ([~ times])
+frozen l. frosinn, freðinn
+coastline n. strandlengja
+footballer n. knattspyrnumaður, fótboltamaður
+cameraman n. myndatökumaður, tökumaður; ljósmyndari
+oceanography n. haffræði
+oceanographer n. haffræðingur
+oceanographical l. haffræðilegur
+oceanographically ao. haffræðilega
+calfskin n. kálfsskinn
+takeover n. yfirtaka; valdataka
+multinational l. fjölþjóðlegur; n. fjölþjóðlegt fyrirtæki

@@ -383,6 +383,10 @@ SKIP = frozenset(
         "suburbanize",
         "Nile",
         "Egyptology",
+        "oceanographical",
+        "oceanographically",
+        "phrenological",
+        "unpretentiousness",
     )
 )
 
