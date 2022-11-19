@@ -1,0 +1,25 @@
+{% extends "container.html" %}
+
+{% block meta %}
+<meta name="description" content="Öll orðin í flokknum " {{ category }}" orðabókinni">
+{% endblock %}
+
+{% block content %}
+
+<h1>Öll orðin</h1>
+
+<p>Hér er listi af öllum orðum í flokknum "{{ category }}":</p>
+
+<p>
+  {% for w in words %}
+  <a href="/item/{{ w }}">{{ w|safe }}</a>
+  <br>
+  {% endfor %}
+</p>
+
+<br>
+<br>
+<br>
+<br>
+
+{% endblock %}

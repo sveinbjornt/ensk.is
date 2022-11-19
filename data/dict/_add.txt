@@ -1814,7 +1814,7 @@ vampirish l. vampírulegur, vampíru-
 brainwash s. heilaþvo
 brainwashing n. heilaþvottur
 snobbery n. snobb, uppskafningsháttur, broddborgaraskapur, mont
-sine qua non l. nauðsynlegur (úr lat., bókst. án hvers ekki)
+sine qua non l. nauðsynlegur (úr lat., án hvers ekki)
 overpowering l. yfirþyrmandi
 doorknob n. hurðarhúnn
 firearm n. skotvopn
@@ -1919,17 +1919,17 @@ watermelon n. vatnsmelóna (ávöxtur)
 self-discipline n. sjálfsagi
 sunflower n. sólblóm
 saltwater n. saltvatn
-dreamlike l. draumkenndur, líkur draumi
+dreamlike l. draumkenndur, draumi líkur
 unscientific l. óvísindalegur
 lightbulb n. ljósapera
-demonic l. djöfullegur
+demonic l. djöfullegur; [~ possession] andsetning, djöfulæði
 megalomania n. mikilmennskubrjálæði, stórmennskubrjálæði
-megalomaniac n. e-r sem haldinn er mikilmennskubrjálæði
-megalomaniacal l. mikilmennskubrjálaður, stórmennskubrjálaður
+megalomaniac n. e-r sem haldinn er mikilmennskubrjálæði, stórmennskubrjálæði
+megalomaniacal l. mikilmennskubrjálaður, stórmennskubrjálaður ([his ~ plan for world domination])
 hectare n. hektari (10 þús. fermetrar)
 albino n. albínói
 unmistakeable l. sjá %[unmistakable]%
-quinoa n. kínóa
+quinoa n. kínóa, hélunjólafræ
 chickpea n. kjúklingabaun
 cassava n. kassava, kassavarót
 basketry n. körfugerð
@@ -2660,7 +2660,6 @@ phoneme n. fónem, hljóðan, hljóðungur
 phonemic l. fónemískur, hljóðanlegur, hljóðungslegur, hljóðfræðilegur
 grapheme n. stafur, rittákn, grafem (grunneining ritkerfis)
 graphemic l. grafemískur, rittáknslegur
-sine qua non l. án hvers ekki (úr latínu)
 taxi n. leigubíll; s. ferðast um í eða flytja e-ð með leigubíl; aka á jörðu (um flugvélar)
 taxicab n. sjá %[taxi]%
 taxi driver n. leigubílstjóri
@@ -2780,3 +2779,5 @@ fungicide n. sveppadeyðir, sveppaeyðir
 pax n. friður (úr latínu); [~ Romana] Rómarfriður
 doormat n. dyramotta
 guacamole n. lárperumauk
+goldsmithing n. gullsmíði
+goldsmithery n. gullsmíði

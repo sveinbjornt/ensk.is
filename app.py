@@ -76,6 +76,14 @@ all_words = [e["word"] for e in entries]
 additions = [a["word"] for a in e.read_all_additions()]
 num_additions = len(additions)
 
+CATEGORIES = read_wordlist("data/catwords.txt")
+
+CAT2ENTRIES = {}
+
+for c in CATEGORIES:
+    cs = c.rstrip(".")
+    CAT2ENTRIES[cs] = e.read_all_in_wordcat(cs)
+
 
 def _err(msg: str) -> JSONResponse:
     """Return JSON error message."""
@@ -291,6 +299,23 @@ async def all(request: Request):
     )
 
 
+@app.get("/cat/{category}")
+async def cat(request: Request, category: str):
+    """Page with links to all entries in the given category."""
+    entries = CAT2ENTRIES.get(category, [])
+    words = [e["word"] for e in entries]
+
+    return TemplateResponse(
+        "cat.html",
+        {
+            "request": request,
+            "title": f"Öll orð í flokknum {category} - {WEBSITE_NAME}",
+            "words": words,
+            "category": category,
+        },
+    )
+
+
 @app.get("/additions")
 @cache_response
 async def additions_page(request: Request):
@@ -327,13 +352,11 @@ async def stats(request: Request):
     no_page = len(e.read_all_with_no_page())
     num_duplicates = len(e.read_all_duplicates())
 
-    CATEGORIES = read_wordlist("data/catwords.txt")
-
     wordstats = {}
-    for c in CATEGORIES:
+    for c in CAT2ENTRIES:
         cat = c.rstrip(".")
         wordstats[cat] = {}
-        wordstats[cat]["num"] = len(e.read_all_in_wordcat(cat))
+        wordstats[cat]["num"] = len(CAT2ENTRIES[c])
         wordstats[cat]["perc"] = perc(wordstats[cat]["num"], num_entries)
 
     return TemplateResponse(
@@ -390,7 +413,7 @@ async def robots(request: Request) -> Response:
 
 
 @app.get("/api/suggest/{q}")
-async def api_suggest(request: Request, q, limit: int = 10) -> JSONResponse:
+async def api_suggest(request: Request, q: str, limit: int = 10) -> JSONResponse:
     """Return autosuggestion results for partial string in input field."""
     results, _ = _results(q)
     words = [x["word"] for x in results][:limit]
@@ -398,14 +421,14 @@ async def api_suggest(request: Request, q, limit: int = 10) -> JSONResponse:
 
 
 @app.get("/api/search/{q}")
-async def api_search(request: Request, q) -> JSONResponse:
+async def api_search(request: Request, q: str) -> JSONResponse:
     """Return search results in JSON format."""
     results, _ = _results(q)
     return JSONResponse(content={"results": results})
 
 
 @app.get("/api/item/{w}")
-async def api_item(request: Request, w) -> JSONResponse:
+async def api_item(request: Request, w: str) -> JSONResponse:
     """Return single dictionary entry in JSON format."""
     ws = w.strip()
     results, exact = _results(ws, exact_match=True)
