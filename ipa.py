@@ -375,6 +375,12 @@ SKIP = frozenset(
         "self-governance",
         "glassmaker",
         "glassmaking",
+        "bunkmate",
+        "ever-growing",
+        "goldsmithery",
+        "goldsmithing",
+        "reformism",
+        "suburbanize",
     )
 )
 
