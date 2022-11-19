@@ -381,6 +381,8 @@ SKIP = frozenset(
         "goldsmithing",
         "reformism",
         "suburbanize",
+        "Nile",
+        "Egyptology",
     )
 )
 
