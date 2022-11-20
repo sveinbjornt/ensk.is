@@ -2836,7 +2836,7 @@ backyard n. bakgarður
 supertanker n. risastórt olíuflutningaskip, risaolíuskip; risastórt skip sem flytur vökva
 seashell n. skel, sjávarskel
 weblog n. blogg, vefrit (sjá %[blog]%)
-blog n. blogg, vefrit (stytt. á [web log]); s. blogga, skrifa í vefrit
+blog n. blogg, vefrit (stytt. á %[weblog]%); s. blogga, skrifa í vefrit
 blogger n. bloggari, höfundur vefrits
 novella n. nóvella (stutt skáldsaga eða löng smásaga)
 amnesia n. minnistap, minnisleysi, gleymska

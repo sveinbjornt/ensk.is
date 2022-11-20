@@ -1,5 +1,6 @@
 TODO list for ensk.is:
 
+* Fuzzy suggestions, matches
 * Finish duplicates script
 * Fix double IPA entries for US English
 * Use paralell corpora
