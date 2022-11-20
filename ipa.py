@@ -389,6 +389,9 @@ SKIP = frozenset(
         "unpretentiousness",
         "denigratory",
         "geothermally",
+        "brutishness",
+        "polyarchy",
+        "polycracy",
     )
 )
 
