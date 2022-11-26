@@ -1217,7 +1217,7 @@ dildo n. gervilimur (kynlífsleikfang)
 mage n. seiðkarl, galdrakarl; sjá %[magician]%
 octopus n. kolkrabbi
 anhedonia n. vansæld, vansæla, gleðileysi, nautnaleysi
-anhedonic l. vansæll, gleðilaus, nautnalaus
+anhedonic l. vansæll, gleðilaus, gleðisnauður, nautnalaus
 dysphoria n. eirðarleysi, þunglyndi, vanlíðan
 dysphoric l. eirðarlaus, þunglyndur, óhamingjusamur
 gnoll n. e.k. hundmenni, hundingi
@@ -1561,7 +1561,7 @@ theremin n. þeremín (e.k. rafmagnshljóðfæri)
 felting n. þæfing
 piezo n. þrýstirafíhlutur
 macroprudential l. þjóðhagsvarúðar-
-rotor n. þyrill
+rotor n. þyrill, snúður
 desiccation n. þurrkun
 condenser n. þéttir
 deckhouse n. þilfarshús
@@ -2060,6 +2060,7 @@ caveman n. hellisbúi; frummaður
 ketchup n. tómatsósa
 bartender n. barþjónn
 epidemiology n. faraldursfræði, farsóttafræði
+epidemiological l. faraldursfræðilegur, farsóttafræðilegur
 epidemiologist n. faraldursfræðingur, farsóttafræðingur
 pizzeria n. pítsustaður
 pepperoni n. pepperóní, kryddpylsa
@@ -2878,3 +2879,86 @@ rosebud n. rósaknappur, rósahnúður
 karaoke n. karókí
 genie n. andi ([he rubbed the lamp and a ~ appeared])
 pylon n. mastur; broddsúla; keila; [electrical ~] háspennumastur
+craftsmanship n. handbragð, handverk, verkkunnátta ([his ~ was impeccable])
+presupposition n. forsenda, forskilyrði
+presuppositional l. forsendubundinn
+unanswered l. ósvaraður
+Islamism n. íslömsk bókstafstrú
+psephology n. kosningafræði (tölfræðilegar rannsóknir á kosningum)
+seriously ao. alvarlega; í alvörunni
+unendurable l. óbærilegur, óþolanlegur, óþolandi
+anyone fn. hver sem er, nokkur, neinn
+peacetime n. friðartími, friðartímar
+light industry n. léttiðnaður
+heavy industry n. þungaiðnaður
+inter alia ao. meðal annars (úr latínu)
+ceteris paribus ao. að öllu jöfnu
+marlin n. oddnefur, marlín, merlingur (fisktegund)
+roadblock n. vegatálmi; hindrun
+seafarer n. sæfari
+bloodbath n. blóðbað
+warhead n. sprengjuoddur; [nuclear ~] kjarnaoddur
+battleground n. vígvöllur
+metallurgist n. málmfræðingur, málmvinnslufræðingur
+fatherland n. föðurland
+rhododendron n. lyngrós, alparós, róslyng
+townsfolk n. bæjarbúar
+unscrupulousness n. ófyrirleitni, ósvífni, samviskuleysi
+swampland n. mýrlendi
+apolitical l. ópólitískur
+microgram n. míkrógramm (0,000001 gramm)
+ferociousness n. grimmd, grimmúð, grimmýðgi
+iridium n. iridín (frumefni)
+rhodium n. ródín (frumefni)
+physique n. vaxtarlag, holdafar, líkamsbygging
+ratfish n. geirnyt
+tarasque n. e.k. evrópskur dreki, goðsagnavera
+patio n. verönd
+Hegelian l. hegelískur, sem tengist kenningum þýska heimspekingsins G. W. F. Hegel; n. fylgismaður kenninga Hegels
+historically ao. sögulega
+moneylender n. (okur)lánari, lánadrottinn
+deforestation n. skógareyðing, eyðing skóga
+diplomat n. stjórnarerindreki, ríkiserindreki, diplómati
+Baltic n. Eystrasaltið ([the ~ Sea]); Eystrasalts-; [the ~ states] Eystrasaltsríkin
+fermented l. gerjaður; sýrður
+shipyard n. slippur, skipasmíðastöð
+wholesaler n. heildsali
+paranoia n. vænisýki, ofsóknaræði, ofsóknarbrjálæði, ofsóknarbrjálun
+paranoid l. vænisjúkur, ofsóknaróður, ofsóknarbrjálaður ([it's not ~ if they're really out to get you])
+paranoiac n. ofsóknaróð eða vænisjúk manneskja (sjá %[paranoia]%)
+extraterrestrial l. utan jarðarinnar; n. geimvera
+prestigious l. virtur, mikilsvirtur
+unreliability n. óáreiðanleiki
+subhuman l. ekki alveg mennskur; n. undirmenni
+asphyxiate s. kæfa, kafna
+asphyxiation n. köfnun, kæfing, súrefnisskortur
+asphyxiant n. kæfiefni; l. kæfandi, kæfi-
+mitochondrion n. hvatberi, kyndikorn, orkukorn (frumulíffæri)
+mitochondrial l. hvatbera- (sjá %[mitochondrion]%)
+dehumanization n. afmennskun
+unhappiness n. óhamingja, vansæld
+parabola n. fleygbogi
+terracotta n. brenndur leir; l. leir-
+nonetheless ao. engu að síður
+ferrous l. úr járni, járnkenndur, járn-
+spinelessness n. hryggleysi; kjarkleysi; bakbeinsleysi
+supranational l. yfirþjóðlegur, yfirríkja-, sem er ofar eða æðri ríkjum
+backside n. bakhlið; afturendi; rass
+vegan n. vegani, grænkeri (e-r sem neytir ekki afurða úr dýraríkinu); l. grænkera-; [~ meal] grænkeramáltíð
+veganism n. veganismi, grænkerasiður (sjá %[vegan]%)
+godforsaken l. guðsvolaður
+astrolabe n. stjörnuskífa
+abacus n. talnagrind, reiknigrind
+slide rule n. reiknistokkur
+vengefulness n. hefnigirnd
+ovipositor n. varppípa
+formalin n. formalín
+pince-nez n. gleraugu sem fest eru á nefi
+novelette n. stutt skáldsaga
+critter n. kvikindi, smádýr
+subcontract s. ráða undirverktaka
+subcontractor n. undirverktaki
+megaton n. milljón tonn
+isotope n. samsæta, ísótópur
+allele n. samsæta, tvenndargen
+methane n. metan

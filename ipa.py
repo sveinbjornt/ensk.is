@@ -392,6 +392,13 @@ SKIP = frozenset(
         "brutishness",
         "polyarchy",
         "polycracy",
+        "Nubian",
+        "presuppositional",
+        "asphyxiant",
+        "dehumanization",
+        "Hegelian",
+        "ratfish",
+        "tarasque",
     )
 )
 

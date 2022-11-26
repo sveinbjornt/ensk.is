@@ -63,7 +63,6 @@ seismic
 seismicity
 hydroponic
 aquaponic
-tarasque
 djinn
 cockatrice
 manticore
@@ -327,7 +326,6 @@ entitle
 converter
 networking
 outstanding
-patio
 nationwide
 countrywide
 countywide
@@ -393,8 +391,6 @@ anthropomorphize
 anthropomorphized
 intellectually
 intimidating
-presupposition
-craftsmanship
 misguided
 hypothesize
 developmental
@@ -405,7 +401,6 @@ unprivileged
 purposiveness
 outraged
 underdetermined
-unanswered
 preformation
 patently
 generational
@@ -413,7 +408,6 @@ unease
 spearhead (revise, can also be verb)
 speedball
 specificity
-Islamism
 pivotal
 constringe
 sophistication
@@ -423,7 +417,6 @@ interaction
 simplified
 curricular
 extracurricular
-Hegelian
 paternalism
 paternalistic
 overemphasis
@@ -438,7 +431,6 @@ egalitarianism
 refashion
 industrialism
 industrialist
-psephology
 betterment
 meliorist
 meliorism
@@ -476,7 +468,6 @@ rationalistic
 emigré
 throwback
 irrationalism
-reverbation
 ostensibly
 immediacy
 endurant
@@ -540,9 +531,7 @@ Confucianism
 Confucian
 full-blooded
 intellectually
-seriously
 crate
-historically
 kindliness
 completeness
 habitually
@@ -576,7 +565,6 @@ ill-educated
 evil-spirited
 thatched
 hillside
-unendurable
 dotted
 stuffing
 conventionalize
@@ -611,7 +599,6 @@ wastepaper
 unappetizing
 downtrodden
 nerve-racked
-anyone
 overgrown
 reiteration
 pannikin
@@ -625,7 +612,6 @@ unofficial
 puritanical
 bawdiness
 good-tempered
-peacetime
 goose-step
 formalization
 constitutionalism
@@ -639,8 +625,6 @@ lowbrow
 middle-class
 ruling-class
 businessman
-light industry
-heavy industry
 magneto
 interconnect
 interconnected
@@ -656,11 +640,8 @@ unchallengeable
 English-speaking
 destroyer
 dominance
-moneylender
 replaceable
 mutatis mutandis
-inter alia
-ceteris paribus
 thinkable
 unconquered
 aftereffect
@@ -697,7 +678,6 @@ gaunt
 sunburn
 harsh-spoken
 contestant
-marlin
 broadbill
 attractiveness
 unintelligent
@@ -727,7 +707,6 @@ eudaemon
 eudaemonia
 cellar-door
 gringo
-roadblock
 roundabout (endurskoða)
 sanctions
 brutalism
@@ -750,14 +729,12 @@ skerry
 hypothermia
 bloomery
 davit
-deforestation
 serendipitous
 marginalize
 baffling
 wasteland
 untangle
 fallout
-diplomat
 dishwashing
 dishwasher
 seawater
@@ -770,10 +747,8 @@ coincidental
 maneuver
 determinant
 jogging
-seafarer
 pinpoint
 tabloid
-Baltic
 short-tempered
 outcrop
 understatement
@@ -781,7 +756,6 @@ shipmate
 crewman
 northerly
 landmass
-fermented
 nuance
 mastermind
 fabled
@@ -803,7 +777,6 @@ pricey
 reorient
 unsustainable
 seasonal
-bloodbath
 macho
 Canadian
 installment
@@ -833,7 +806,6 @@ lockdown
 slipperiness
 incommunicado
 preschool
-shipyard
 snowplow
 deregulation
 hallway
@@ -852,22 +824,16 @@ gambit
 showmanship
 blustery
 attendee
-warhead
 nonproliferation
 proliferation
 backstage
 houseguest
-wholesaler
 protester
 divisive
-paranoia
-paranoid
-paranoiac
 hawkish
 bouffant
 hairstyle
 shibboleth
-battleground
 memorization
 signifier
 scraggly
@@ -875,7 +841,6 @@ infiltrator
 canyon
 hike
 moonwalk
-extraterrestrial
 terrain
 caldera
 revegetate
@@ -891,7 +856,6 @@ pinstripe
 legwork
 seaside
 goalpost
-prestigious
 unmanned
 palagonite
 spaceman
@@ -1018,7 +982,6 @@ centralism
 traumatic
 collectivize
 collectivization
-unreliability
 conspiratorial
 paramilitary
 dynamism
@@ -1061,7 +1024,6 @@ provocateur
 conveyer
 offense
 nevermore
-metallurgist
 undergarment
 diaspora
 counterrevolution
@@ -1080,7 +1042,6 @@ ghetto
 ghettoblaster
 recolonization
 underclass
-fatherland
 noncommittal
 statelessness
 tabula
@@ -1100,7 +1061,6 @@ foodstuff
 redistribute
 knowledgeable
 stockpile
-subhuman
 guideline
 expendable
 mistreatment
@@ -1129,7 +1089,6 @@ macabre
 carnivalesque
 wetland
 reimposition
-prosthetic
 liaison
 underage
 interactive
@@ -1139,9 +1098,6 @@ hemoglobin
 momentarily
 tightrope
 putrefied
-asphyxiate
-mitochondrion
-mitochondrial
 foolishness
 revisionism
 revisionist
@@ -1169,7 +1125,6 @@ fussiness
 retrospectively
 victimhood
 distinctiveness
-dehumanization
 dysfunctionality
 reformulate
 discretely
@@ -1195,7 +1150,6 @@ plowman
 motorist
 viewpoint
 skyline
-rhododendron
 detonator
 lentonite
 dovecote
@@ -1209,7 +1163,6 @@ forsaken
 escalate
 parlous
 gatekeeper
-unhappiness
 overzealous
 subculture
 underfloor
@@ -1242,7 +1195,6 @@ pederasty
 pederast
 racetrack
 sectarianism
-parabola
 masterstroke
 transcendence
 transporter
@@ -1252,7 +1204,6 @@ roadmap
 superhighway
 incubator
 normality
-terracotta
 funerary
 trustworthiness
 honourable
@@ -1261,7 +1212,6 @@ factional
 factionalism
 transformational
 hallmark
-nonetheless
 phoney
 Islamification
 segregation
@@ -1275,20 +1225,15 @@ sacral
 melodramatic
 melodramatics
 steadily
-ferrous
 strategist
-unsentimental
 centrepiece
 walkway
 capitulary
 hoodlum
-spinelessness
 accumulator
 eponymous
 raider
 riverine
-backside
-supranational
 triangulate
 triangulated
 unfree
@@ -1306,8 +1251,6 @@ supportive
 leery
 candelabra
 traditionalist
-vegan
-veganism
 plainlands
 wartime
 cachet
@@ -1321,7 +1264,6 @@ ethos
 chivalric
 glamourize
 thematic
-godforsaken
 objectively
 overwrite
 duplicitous
@@ -1355,8 +1297,6 @@ quadrivium
 trivium
 acknowledgement
 scriptorium
-abacus
-astrolabe
 tinkerer
 scholasticism
 herbology
@@ -1384,14 +1324,11 @@ misalignment
 overindulge
 microbial
 replicate
-epidemiological
 flagellant
 regrettable
 downriver
 cryptic
 cryptically
-vengefulness
-townsfolk
 psychosis
 shenanigan
 forebear
@@ -1632,7 +1569,6 @@ handout
 parasitism
 recalcitrance
 consumerism
-unscrupulousness
 mea culpa
 ersatz
 kitsch
@@ -1994,7 +1930,6 @@ unresolvable
 reshuffle
 charnel
 breastplate
-swampland
 fenland
 otherworldly
 orchestration
@@ -2159,7 +2094,6 @@ reinstatement
 ideologization
 apoliticism
 instrumentalization
-apolitical
 polarization
 counter-espionage
 officialization
@@ -2617,7 +2551,6 @@ Luddite
 slurp
 alumnus
 alumni
-microgram
 maven
 ratchet
 stratosphere
@@ -2703,7 +2636,6 @@ monograph
 confines
 Pyrrhic
 seacoast
-ferociousness
 officiousness
 prefecture
 cisalpine
@@ -3056,8 +2988,6 @@ bullish
 bearish
 dollop
 dicey
-methane
-asphyxiation
 uncontrollably
 cetacean
 Zoroastrian
@@ -3097,23 +3027,17 @@ disassociation
 unsung
 shininess
 backer
-rhodium
-iridium
 facilitation
 standby
 moron
 moronic
 godawful
 nonstandard
-isotope
-megaton
 reactor
 patina
 alkaline
 geostrategic
 containerization
-subcontract
-subcontractor
 upmarket
 downmarket
 navigational
@@ -3155,7 +3079,6 @@ ginormous
 metabolic
 perishability
 imperishability
-critter
 spreadable
 segmentation
 microclimate
@@ -3341,7 +3264,6 @@ typhoid
 pee
 tester
 experimentee
-formalin
 anthracis
 downwind
 atropine
@@ -3387,7 +3309,6 @@ insanitary
 vastly
 vaguely
 modestly
-physique
 die-hard
 riff-raff
 revue
@@ -3404,7 +3325,6 @@ passionately
 defiantly
 sketchbook
 matey
-pince-nez
 starkness
 anti-capitalist
 lunchtime
@@ -3415,7 +3335,6 @@ anymore
 bounder
 firmly
 orangeade
-novelette
 harridan
 pepsin
 self-reproach

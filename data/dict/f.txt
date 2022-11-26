@@ -297,11 +297,11 @@ fender n. hlífðargrind; aringrind
 fennish l. mýrlendur, votlendur
 fenny l. mýrlendur; mýrar-
 feral l. villi-, ótaminn ([~ animals]); dýrslegur
-ferment n. ólga, gerð; æsingar; s. ólga, brjóta sig; hleypa ólgu í; æsa
-fermentation n. ólga, gerð æsing
+ferment n. ólga, gerð; æsingar; s. gerja; ólga, brjóta sig; hleypa ólgu í; æsa
+fermentation n. gerjun; ólga, gerð æsing
 fern n. burkni
 ferny l. vaxinn burkna ([a ferny ground])
-ferocious l. grimmur, grimmúðlegur
+ferocious l. grimmur, grimmúðlegur, grimmilegur
 ferocity n. grimmd, grimmúð; ft. grimmdarverk
 ferreous l. járnkynjaður
 ferret n. hreysikattartegund; skjalaband; s. reka upp úr fylgsni sinu; flæma (burt [off]); komast fyrir e-ð ([~ up, out])
