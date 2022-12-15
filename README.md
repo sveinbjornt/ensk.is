@@ -48,23 +48,23 @@ The ensk.is web application is implemented using the
 To deploy it, you need to set up a Python virtual
 environment (3.7+) and install dependencies:
 
-```
-$ virtualenv -p /path/to/python3 venv
-$ source venv/bin/activate
-$ pip install -r requirements.txt
+```sh
+virtualenv -p /path/to/python3 venv
+source venv/bin/activate
+pip install -r requirements.txt
 ```
 
 To build the dictionary data files from plain text source files,
 run the following command:
 
-```
-$ python gen.py
+```sh
+python gen.py
 ```
 
 Run the web application via [`uvicorn`](https://www.uvicorn.org/):
 
-```
-$ uvicorn app:app --reload
+```sh
+uvicorn app:app --reload
 ```
 
 ## Development
@@ -73,8 +73,8 @@ All new dictionary entries should be appended to [data/dict/_add.txt](data/dict/
 
 To verify the syntax and references of all entries, you can run:
 
-```
-$ python verify.py
+```sh
+python verify.py
 ```
 
 ## Dictionary License
@@ -106,7 +106,7 @@ endorsement by the author or the affirmer.
 
 ## Source license
 
-Copyright (c) 2021-2022 Sveinbjorn Thordarson &lt;<a href="mailto:sveinbjorn@sveinbjorn.org">sveinbjorn@sveinbjorn.org</a>&gt;
+Copyright (c) 2021-2022 Sveinbjorn Thordarson &lt;[sveinbjorn@sveinbjorn.org](mailto:sveinbjorn@sveinbjorn.org)&gt;
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification,

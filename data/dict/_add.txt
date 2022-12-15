@@ -2953,12 +2953,13 @@ slide rule n. reiknistokkur
 vengefulness n. hefnigirnd
 ovipositor n. varppípa
 formalin n. formalín
-pince-nez n. gleraugu sem fest eru á nefi
+pince-nez n. gleraugu sem eru fest á nefið
 novelette n. stutt skáldsaga
 critter n. kvikindi, smádýr
 subcontract s. ráða undirverktaka
 subcontractor n. undirverktaki
 megaton n. milljón tonn
 isotope n. samsæta, ísótópur
-allele n. samsæta, tvenndargen
+allele n. samsæta; tvenndargen
 methane n. metan
+exogenous n. útrænn, utanaðkomandi, sem verkar að utan, sem er kominn utan frá
