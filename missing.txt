@@ -3165,6 +3165,7 @@ absorbable
 absorbing
 savant
 fluorescent
+fluorescence
 miniaturize
 miniaturization
 variolation
@@ -3263,7 +3264,6 @@ prefectural
 typhoid
 pee
 tester
-experimentee
 anthracis
 downwind
 atropine
@@ -3358,3 +3358,5 @@ parka
 bourse
 prosopography
 monopsony
+ouroborosian
+décor

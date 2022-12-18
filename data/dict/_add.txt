@@ -2963,3 +2963,5 @@ isotope n. samsæta, ísótópur
 allele n. samsæta; tvenndargen
 methane n. metan
 exogenous n. útrænn, utanaðkomandi, sem verkar að utan, sem er kominn utan frá
+experimentee n. (manneskja sem er) viðfang rannsóknar
+emphysema n. lungnaþemba (sjúkdómur)
