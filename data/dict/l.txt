@@ -522,7 +522,7 @@ licorice n. sjá %[liquorice]%
 lid n. lok
 lidless l. loklaus
 lie n. lygi; [to tell ~s] ljúga; [to give the ~ to] segja (e-n) ljúga; ósanna; [he has given the ~ to his former principles] hann hefur brugðist fyrri skoðunum sínum; s. ljúga ([he lied to me])
-lie s. liggja ([~ asleep, sick]); [~ by] liggja kyrr (ónotaður); [~ down] leggjast niður; leggja sig til hvíldar; liggja; [~ in] liggja á sæng (um konu); [as far as in me ~s, all that ~s in my power] allt sem í mínu valdi stendur; [~ on (upon)] hvíla á e-m (um skyldu); vera kominn undir (e-m); [~ to] hafast við (um skip); [~ under] liggja undir, vera háöur; [it ~s with you to] það er skylda yðar að, yður ber að; [~ up] liggja uppi; liggja í rúminu; n. lega ([the ~ of the land])
+lie s. liggja ([~ asleep, sick]); [~ by] liggja kyrr (ónotaður); [~ down] leggjast niður; leggja sig til hvíldar; liggja; [~ in] liggja á sæng (um konu); [as far as in me ~s, all that ~s in my power] allt sem í mínu valdi stendur; [~ on (upon)] hvíla á e-m (um skyldu); vera kominn undir (e-m); [~ to] hafast við (um skip); [~ under] liggja undir, vera háöur; [it ~s with you to] það er skylda þín að, þér ber að; [~ up] liggja uppi; liggja í rúminu; n. lega ([the ~ of the land])
 lief ao. ljúft, gjarna; [I had as ~ go] ég vildi eins gjarna fara
 liege l. þegnskyldur, lénskyldur; n. lénsmaður; trúr þegn; lénsdrottinn ([~ lord])
 lien n. eignarband, veðband

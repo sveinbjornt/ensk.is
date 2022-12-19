@@ -399,6 +399,7 @@ SKIP = frozenset(
         "Hegelian",
         "ratfish",
         "tarasque",
+        "experimentee",
     )
 )
 
