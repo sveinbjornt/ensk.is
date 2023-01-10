@@ -2967,3 +2967,6 @@ experimentee n. (manneskja sem er) viðfang rannsóknar
 emphysema n. lungnaþemba (sjúkdómur)
 audiobook n. hljóðbók
 filicide n. sonarmorð eða dótturmorð
+aquaculture n. fiskeldi, fiskirækt; ræktun lífvera í ám, vötnum og sjó
+demersal l. botnlægur, sem lifir við botninn; [~ fish] botnfiskur
+monopsony n. staða þar sem aðeins er einn kaupandi

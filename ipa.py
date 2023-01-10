@@ -400,6 +400,8 @@ SKIP = frozenset(
         "ratfish",
         "tarasque",
         "experimentee",
+        "demersal",
+        "filicide",
     )
 )
 
