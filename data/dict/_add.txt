@@ -442,7 +442,7 @@ newswire n. fréttaveita, fréttastöð
 neurochemical l. taugaefnafræðilegur
 vector n. vigur, vektor
 cannabis n. kannabis (plöntutegund sem er vímugjafi)
-revenant n. afturganga, uppvakningur (bókst. e-r sem snýr aftur)
+revenant n. afturganga, uppvakningur; e-r sem snýr aftur (bókstafleg merking)
 bullshit n. kjaftæði, þvæla; nautaskítur; s. halda fram kjaftæði eða þvælu; blekkja; ljúga ([he was ~ting all along])
 shades n. ft. skyggð gleraugu, sólgleraugu
 econometrics n. ft. hagmælingar; hagtölfræði
@@ -1174,7 +1174,7 @@ hangover n. þynnka, timburmenn
 analyst n. greinandi, sérfræðingur, rýnir, e-r sem rýnir í gögn (sjá %[analyze]%)
 logistician n. skipulagsfræðingur, birgðafræðingur, flutningafræðingur, sérfræðingur í (hernaðar)skipulagi (sjá %[logistics]%)
 hypertext n. stiklutexti, veftexti
-DVD n. mynddiskur, DVD-diskur (stytt. á [Digital Video Disc], bókst. stafrænn myndbandsdiskur)
+DVD n. mynddiskur, DVD-diskur (stytt. á [Digital Video Disc], stafrænn myndbandsdiskur)
 beautification n. fegrun
 beautician n. snyrtifræðingur, fegrunarfræðingur
 ceasefire n. vopnahlé
@@ -1660,7 +1660,7 @@ self-confidence n. sjálfsöryggi
 zeitgeist n. tíðarandi (úr þýsku)
 weltschmerz n. lífsleiði, heimsangist, óánægja með ástand heimsins (úr þýsku)
 weltanschauung n. heimssýn (úr þýsku)
-world-weary l. lífsleiður, lífsþreyttur (bókst. heimsþreyttur)
+world-weary l. lífsleiður, lífsþreyttur, heimsþreyttur
 world-weariness n. lífsleiði, lífsþreyta
 obsession n. þráhyggja
 obsessive l. haldinn þráhyggju, með e-ð á heilanum
