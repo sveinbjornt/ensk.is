@@ -1,5 +1,6 @@
 TODO list for ensk.is:
 
+* Check for duplicates in missing.txt in verify.py
 * Fuzzy suggestions, matches
 * Finish duplicates script
 * Fix double IPA entries for US English

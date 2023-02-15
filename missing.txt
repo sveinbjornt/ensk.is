@@ -2330,6 +2330,7 @@ resoluteness
 sociopolitical
 uniqueness
 diehard
+ideation
 ideational
 catechismic
 aftershock
@@ -3363,3 +3364,6 @@ nous
 gyrotron
 cenobite
 synecdoche
+lapstrake
+milquetoast
+varmint
