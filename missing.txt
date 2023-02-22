@@ -745,7 +745,6 @@ romanticize
 bicycling
 coincidental
 maneuver
-determinant
 jogging
 pinpoint
 tabloid
@@ -3362,8 +3361,9 @@ ouroborosian
 décor
 nous
 gyrotron
-cenobite
 synecdoche
 lapstrake
 milquetoast
 varmint
+caliper
+dingbat

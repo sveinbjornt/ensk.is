@@ -46,7 +46,7 @@ import zipfile
 from os.path import exists
 
 
-def read_wordlist(fn: str) -> List[str]:
+def read_wordlist(fn: str, unique: bool = True) -> List[str]:
     """Read a file containing one word per line.
     Return all words as a list of unique words."""
     words = list()
@@ -61,7 +61,7 @@ def read_wordlist(fn: str) -> List[str]:
             if line.startswith("#"):  # Skip comments
                 continue
             words.append(line)
-    return list(set(words))
+    return list(set(words)) if unique else words
 
 
 def read_json(inpath: str) -> Dict[str, str]:

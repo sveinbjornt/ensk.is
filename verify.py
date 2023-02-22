@@ -210,6 +210,22 @@ def check_icelandic_words(line: str, pn, ln: int):
                 # print(defstr)
 
 
+def check_missing():
+    """Check integrity of missing.txt file."""
+    words = read_wordlist("missing.txt", unique=False)
+    unique = list(set(words))
+    print(len(words))
+    print(len(unique))
+    # print(words[-10:])
+    # print(unique[-10:])
+
+    if len(words) != len(unique):
+        for w in words:
+            if words.count(w) > 1:
+                print(f"Duplicate word in missing.txt: {w}")
+        exit(1)
+
+
 def verify():
     """Main program function."""
 
@@ -226,6 +242,8 @@ def verify():
             # check_icelandic_words(line, letter, ln)
             # check_english_words(line, letter, ln)
             # check_enword_def(line, letter, ln)
+
+    check_missing()
 
     exit(warnings > 0)
 
