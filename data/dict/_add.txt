@@ -298,7 +298,6 @@ calculus n. stærðfræðigreining, diffur- og tegurreikningur, reiknivísi, ör
 recession n. kreppa; samdráttur, afturdráttur (sjá %[recede]%)
 stereotype n. staðalímynd, staðalmynd
 witchcraft n. nornafár, fjölkynngi, galdrar
-smug l. sjálfumglaður, sjálfsánægður
 sociological l. (sam)félagsfræðilegur, félagsvísindalegur
 sociologist n. (sam)félagsfræðingur
 societal l. samfélagslegur, félagslegur, þjóðfélagslegur
@@ -2014,7 +2013,7 @@ slaveholder n. þrælahaldari
 Satanist n. satanisti
 Satanism n. satanismi
 diabolist n. djöfladýrkandi; satanisti
-subset n. undirmengi
+subset n. hlutmengi
 leaderless l. leiðtogalaus
 milkman n. mjólkurpóstur, mjólkurmaður, mjólkursendill
 Rhodesia n. Ródesía (landsvæði sem er í dag ríkin Sambía og Simbabve)
