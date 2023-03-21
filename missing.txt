@@ -340,7 +340,6 @@ experimentalism
 concerned
 meticulous
 meticulousness
-crux
 demonstrated
 justified
 purposefulness
@@ -434,8 +433,6 @@ industrialist
 betterment
 meliorist
 meliorism
-deflationary
-deflation
 independently
 self-contradiction
 supra-national
@@ -482,7 +479,6 @@ underdetermination
 ambivalence
 ambivalent
 legalistic
-sophistication
 elitism
 elitist
 betterment
@@ -583,7 +579,6 @@ informativeness
 hypostatize
 selective
 selectivity
-unobservable
 unwarranted
 interrelated
 Georgian
@@ -615,14 +610,12 @@ good-tempered
 goose-step
 formalization
 constitutionalism
-disintegration
 parvenu
 underdeveloped
 functionless
 tactic
 highbrow
 lowbrow
-middle-class
 ruling-class
 businessman
 magneto
@@ -660,7 +653,6 @@ stylometric
 petard n. (endurskoða núverandi skilgr.)
 kook
 hardline
-hardliner
 barbiturate
 benzedrine
 dacha
@@ -672,7 +664,6 @@ polyamorous
 disillusioned
 disillusionment
 gigolo
-ex-husband
 cynicism (endurskoða skilgr.)
 gaunt
 sunburn
@@ -3276,7 +3267,6 @@ metastasis
 metastasize
 metastasized
 exudative
-lesion
 declassify
 brucellosis
 encephalitis
@@ -3286,7 +3276,6 @@ cover-up
 substantiation
 reservist
 presumably
-decryption
 potentially
 touchable
 siphonaptera
@@ -3303,7 +3292,6 @@ slightly
 triumphantly
 dinnertime
 teatime
-birdlike
 empressement
 insanitary
 vastly
@@ -3325,7 +3313,6 @@ defiantly
 matey
 starkness
 anti-capitalist
-lunchtime
 unbusinesslike
 preternaturally
 anymore
@@ -3361,12 +3348,10 @@ gyrotron
 synecdoche
 lapstrake
 milquetoast
-varmint
 caliper
 dingbat
 syncretic
 syncretical
 syncreticism
 presenteeism
-smarmy
 ingratiating

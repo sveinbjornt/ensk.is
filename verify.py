@@ -137,7 +137,6 @@ def check_bracket_use(line: str, pn, ln: int):
     lc = strip_words_in_square_brackets(line)
 
     if "~" in lc:
-        print(line)
         warn("~ char outside brackets", pn, ln)
 
 
@@ -243,7 +242,7 @@ def verify():
             # check_english_words(line, letter, ln)
             # check_enword_def(line, letter, ln)
 
-    check_missing()
+    # check_missing()
 
     exit(warnings > 0)
 

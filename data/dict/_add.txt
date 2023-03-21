@@ -1808,6 +1808,7 @@ fingernail n. fingurnögl, nögl (á fingri)
 larcenist n. þjófur
 precociousness n. bráðþroski
 deflation n. verðhjöðnun
+deflationary l. verðhjöðnunar-
 ATM n. stytt. á [automated teller machine]; hraðbanki
 vampiric l. vampírulegur, vampíru-
 vampirish l. vampírulegur, vampíru-
@@ -2977,3 +2978,18 @@ arachnophobia n. köngulóafælni, ótti við köngulær, áttfætlufælni
 dreadfully ao. hræðilega, skelfilega, hrikalega
 timekeeper n. tímavörður, tímagæslumaður
 sketchbook n. skissubók, rissblokk
+smegma n. limfarði, reðurfarði, forhúðarostur
+smarmy l. smeðjulegur
+varmint n. meindýr; hvimleið manneskja
+ex-husband n. fyrrverandi eiginmaður
+hardliner n. harðlínumaður
+disintegration n. upplausn, sundurlausn
+middle-class l. miðstéttar-, millistéttar-, miðstéttarlegur, millistéttarlegur
+unobservable l. óskoðanlegur, óathuganlegur, ósjáanlegur
+sophistication n. fágun; háþróun ([the ~ of modern weaponry])
+crux n. kross; kjarni ([the ~ of the matter] kjarni málsins)
+lunchtime n. hádegisverðarhlé
+birdlike l. eins og fugl, fuglalegur
+decrypt s. dulráða, afkóða
+decryption n. dulráðning, afkóðun
+lesion n. löskun, vefskemmd, sár
