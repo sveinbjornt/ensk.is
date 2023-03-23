@@ -3178,8 +3178,8 @@ sylvan l. skógar-; skóglendur; n. skógarguð
 symbol n. ímynd; tákn, merki
 symbolic l. líkingarfullur; sem á að merkja
 symbolize s. sýna á líkingarfullan hátt; eiga að tákna
-symmetrical s. samsvarandi
-symmetry n. samsvörun
+symmetrical s. samhverfur, samsvarandi
+symmetry n. samhverfa, samsvörun
 sympathetic l. sem finnur til (hryggðar eða gleði) með öðrum, hluttekningarsamur; sem vekur samúð, samúðar-
 sympathize s. finna til með öðrum (samgleðjast, samhryggjast)
 sympathy n. samhyggja, samúð, meðaumkun, hluttekning

@@ -429,9 +429,9 @@ Delphic l. delfískur; tvíræður ([~ response])
 delta n. ármynni, árósar
 delude s. blekkja, leika á; [~ one into] lokka, fá (e-n) til (e-s)
 deluge n. vatnagangur, flóð; [the (universal) deluge] syndaflóðið; s. flæða yfir
-delusion n. blekking; villa; missýning
-delusive l. blekkjandi, villandi
-delusory l. blekkjandi, villandi
+delusion n. hugvilla; ranghumynd; blekking
+delusive l. villandi, blekkjandi
+delusory l. villandi, blekkjandi
 delve s. grafa, stinga upp (jarðveginn); rannsaka; [~ down] liggja bratt niður; n. gryfja; dæld
 demagogic l. lýðæsandi
 demagogue n. lýðforingi; lýðæsingamaður

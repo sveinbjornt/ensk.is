@@ -1895,9 +1895,6 @@ façade
 tortilla
 self-deprecation
 arcane
-shaman
-shamanic
-shamanistic
 medicine man
 witch doctor
 wicca
@@ -1908,8 +1905,6 @@ segmentary
 glyphic
 stonework
 figural
-psychoactive
-sanctum
 labyrinthine
 pharaoh
 mummification
@@ -1929,15 +1924,12 @@ neutralization
 chiefship
 psychoanalytic
 cyclical
-ahistorical
 thuggish
 sidestep
 reconstitute
 boardwalk
 sticker
 nonpartisan
-inflationary
-delusional
 keystroke
 skyrocket
 holler
@@ -2185,7 +2177,6 @@ unrealism
 reeducation
 maladjustment
 self-righteousness
-aggressiveness
 intergroup
 variousness
 metonymic
@@ -2216,7 +2207,6 @@ Machiavellian
 amoral
 amorality
 anocracy
-accelerant
 junta
 tercentenary
 guardrail
@@ -2276,8 +2266,6 @@ sexually
 parallax
 opioid
 happenstance
-resourcefulness
-microfilm
 imperium
 histrionics
 realign
@@ -2287,7 +2275,6 @@ striver
 epigone
 exploiter
 seminarian
-unintelligible
 cofounder
 thornbush
 messianic
@@ -2308,7 +2295,6 @@ artisanal
 pharaonic
 preparedness
 riverboat
-symmetric
 attaché
 unionism
 minoritarian
@@ -2341,7 +2327,6 @@ tamp
 downgrade
 admiralty
 rapaciousness
-schoolteacher
 camarilla
 cahoot
 ipso facto
@@ -2422,10 +2407,7 @@ junky
 junkie
 immersive
 tidbit
-defibrillator
 relive
-anorexic
-anorexia
 bulimic
 bulimia
 dyspeptic
@@ -2520,7 +2502,6 @@ analytics
 observational
 screwball
 clueless
-avionics
 summation
 shopper
 nerdy
@@ -2703,7 +2684,6 @@ replay
 antitrust
 tripwire
 tagline
-seedling
 misstep
 hardscrabble
 dodecadic
@@ -2868,7 +2848,6 @@ blamable
 marginality
 characterizable
 dissimulator
-Socratic
 reaffirmation
 elusiveness
 self-absorption
@@ -2913,7 +2892,6 @@ overwatch
 sebum
 lathe
 colocation
-herbicide
 petrochemical
 vulcanization
 hybridization
@@ -2954,8 +2932,6 @@ bauxite
 finicky
 duology
 seaborne
-coastward
-futuristic
 hydrocarbon
 workaround
 overkill
@@ -2971,7 +2947,6 @@ electrum
 chokehold
 lockstep
 makeover
-believability
 belly-up
 landline
 stepparent
@@ -2979,7 +2954,6 @@ bullish
 bearish
 dollop
 dicey
-uncontrollably
 cetacean
 Zoroastrian
 Zoroastrianism
@@ -2999,7 +2973,6 @@ disruptable
 midstream
 feedstock
 contaminant
-flammable
 intermittency
 tantalum
 nonperishable
@@ -3052,7 +3025,6 @@ sesame
 hellscape
 commodification
 silage
-financialization
 polyculture
 monoculture
 pollination
@@ -3062,7 +3034,6 @@ hydrology
 hydrological
 grunge
 grungy
-kebab
 mudslide
 dehydrate
 dehydration
@@ -3106,14 +3077,11 @@ monoethnic
 manageability
 unreachable
 proppant
-carcinogenic
-carcinogen
 dinky
 linchpin
 gangly
 reallocate
 transpacific
-Caucasian
 linkage
 dunk
 headwater
@@ -3131,8 +3099,6 @@ irredentist
 pushover
 bailout
 outcompete
-longboat
-aggressively
 payer
 biome
 midsection
@@ -3184,14 +3150,11 @@ temporally
 strickle
 leitmotif
 impenetrability
-emancipatory
-cropland
 pastureland
 decipherable
 indecipherable
 mappable
 marginalia
-squiggle
 willy-nilly
 directorship
 commoditization
@@ -3237,7 +3200,6 @@ unknowability
 slippage
 linearity
 proprioception
-realtime
 syncratic
 allegedly
 bacteriological
@@ -3245,7 +3207,6 @@ melioidosis
 substation
 cyanate
 full-scale
-randomly
 large-scale
 chairperson
 serology
