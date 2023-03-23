@@ -1018,8 +1018,8 @@ transgress s. brjóta; syndga, misgera
 transgression n. afbrot
 transgressor n. misgerðamaður, syndari
 tranship s. flytja úr einu skipi í annað, umhlaða ([~ the cargo])
-transience n. fallvaltleiki ([the ~ of all things])
-transiency n. fallvaltleiki ([the ~ of all things])
+transience n. fallvaltleiki, hverfulleiki ([the ~ of all things])
+transiency n. fallvaltleiki, hverfulleiki ([the ~ of all things])
 transit n. flutningur; flutningsleið; yfirferð; ferð ([our rapid ~ from place to place]); s. fara yfir
 transition n. breyting (úr einu óstandi í annað)
 transitional l. millibils- ([~ state])

@@ -554,7 +554,8 @@ hallucinogenic l. ofskynjunarvaldandi; n. ofskynjunarvaldur
 accessibility n. aðgengi, aðgengileiki
 digital l. stafrænn
 eugenic l. kynbóta-, mannkynbóta-
-eugenics n. ft. kynbótastefna, mannkynbætur
+eugenics n. ft. arfbætur, kynbótastefna, mannkynbætur
+eugenicist n. kynbótastefnumaður
 sexy l. kynþokkafullur, kynæsandi
 overview n. yfirlit, yfirsýn
 preview n. forskoðun, forsýn; s. forskoða, forsýna
@@ -3033,4 +3034,54 @@ shaman n. seiðmaður, töfralæknir, galdralæknir, sjamani
 shamanic l. seiðlækninga-, galdalækninga-, sjamanískur
 shamanistic l. seiðlækninga-, galdalækninga-, sjamanískur
 shamanism n. sjamanismi, seiðlækningaspeki
-
+witch doctor n. galdralæknir, töfralæknir
+counter-example n. gagndæmi
+obsolescence n. úrelding
+perimeter n. jaðar; umgjörð; ummál; sjónsviðsmælir
+pictogram n. teikn
+drifter n. flakkari, flækingur
+toxin n. eitur, eiturefni
+candlefish n. drungi, svartþorskur (e.k. fiskur)
+skeletal l. beinagrindar-, beinagrindarlegur
+autopilot n. sjálfstýring
+pigmentation n. litun
+conspiracist n. samsærismaður
+oligopoly n. fákeppni; fámennismarkaður
+sunspot n. sólblettur
+monetarism n. peningamagnshyggja
+monetarist n. peningamagnshyggjumaður, fylgismaður peningamagnshyggju í hagfræði (sjá %[monetarism]%)
+transient l. skammtíma-, skammvinnur, svipull, hverfull
+malefaction n. illgjörð, illgjörningur
+lobotomy n. geiraskurður, hvítuskurður, ennisblaðsskurður ([prefrontal ~])
+appetizer n. forréttur; lystauki
+versus fs. á móti, gegn ([Roe ~ Wade])
+cubicle n. afskermaður bás; vinnuklefi; lesherbergi
+letterhead n. bréfhaus, bréfsefni
+psychosis n. geðrof
+overpopulation n. offjölgun
+rinderpest n. nautgripapest
+segregation n. aðgreining, aðskilnaður
+segregationist n. aðskilnaðarsinni
+hemoglobin n. blóðrauði
+pogrom n. skipulagðar ofsóknir, fjöldamorð
+moonwalk n. tunglganga
+pansexual l. alkynhneigður
+carapace n. skjöldur (á dýrum)
+quantification n. mæling á magni, magnhæfing, magnfesting
+weaponization n. vopnavæðing
+petrochemical l. unnið úr jarðolíu eða gasi
+superconductivity n. ofurleiðni
+superconductor n. ofurleiðari
+superconductive l. ofurleiðandi
+microclimate n. nærviðri, nærloftslag, örveður
+helpfulness n. hjálpsemi
+transpacific l. þvert yfir Kyrrahafið
+leitmotif n. leiðarstef (úr þýsku)
+proprioception n. stöðu- og hreyfiskyn
+syncratic l. samstilltur
+bacteriological l. gerlafræðilegur, bakteríufræðilegur
+melioidosis n. snifubróðir
+encephalitis n. heilabólga
+brucellosis n. öldusótt
+adenoid l. kirtil-, kirtillíkur, kirtla-, eitla-
+pathogenicity n. meinvirkni
