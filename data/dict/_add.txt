@@ -713,7 +713,7 @@ Burma n. Búrma
 Namibia n. Namibía
 Nauru n. Nárú
 Nepal n. Nepal
-Netherlands n. Holland
+Netherlands n. Holland, Niðurlönd
 New Caledonia n. Nýja-Kaledónía
 New Zealand n. Nýja-Sjáland
 Nicaragua n. Níkaragva
@@ -840,7 +840,7 @@ amplifier n. magnari
 amp n. magnari (stytt. á %[amplifier]%)
 erotica n. kynæsandi bækur, list eða myndefni
 gram n. gramm
-patriarchy n. feðraveldi
+patriarchy n. feðraveldi, ættfeðrastjórn
 matriarchy n. mæðraveldi
 matriarch n. ættmóðir
 matriarchal l. ættmæðra-
