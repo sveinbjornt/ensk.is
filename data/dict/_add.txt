@@ -297,6 +297,7 @@ entertainment industry n. skemmtanabransinn, afþreyingarbransinn
 calculus n. stærðfræðigreining, diffur- og tegurreikningur, reiknivísi, örsmæðareikningur; tannsteinn
 recession n. kreppa; samdráttur, afturdráttur (sjá %[recede]%)
 stereotype n. staðalímynd, staðalmynd
+stereotypical l. dæmigerður, sem fylgir staðalmynd
 witchcraft n. nornafár, fjölkynngi, galdrar
 sociological l. (sam)félagsfræðilegur, félagsvísindalegur
 sociologist n. (sam)félagsfræðingur
@@ -1848,6 +1849,7 @@ Anglophone l. enskumælandi; n. e-r sem er enskumælandi
 superstar n. stórstjarna
 arsonist n. brunavargur
 self-destruction n. sjálfstortíming, sjálfseyðing
+self-destructive l. sjálfstortímandi, sjálfseyðandi
 whisker n. veiðihár
 superwoman n. ofurkona
 boyfriend n. kærasti, unnusti
@@ -2052,6 +2054,7 @@ contextualize s. setja í samhengi (sjá %[context]%)
 rewrite s. endurskrifa
 negativity n. neikvæðni
 perfectionism n. fullkomnunarárátta, fullkomnunarhneigð, fullkomnunarstefna
+perfectionist n. fullkomnunarsinni, sá sem haldinn er fullkomnunaráráttu
 Sicily n. Sikiley
 hamburger n. hamborgari
 asparagus n. aspas
@@ -3028,6 +3031,7 @@ accelerant n. hraðall (e-ð sem hraðar framvindu eða breytingu)
 delusional l. haldinn hugvillu eða ranghumyndum
 inflationary l. verðbólguhvetjandi, verðbólgumyndandi
 ahistorical l. ósögulegur
+unhistorical l. ósögulegur
 psychoactive l. geðvirkur, sem hefur áhrif á meðvitund
 sanctum n. athvarf, fylgsni
 shaman n. seiðmaður, töfralæknir, galdralæknir, sjamani
@@ -3084,4 +3088,113 @@ melioidosis n. snifubróðir
 encephalitis n. heilabólga
 brucellosis n. öldusótt
 adenoid l. kirtil-, kirtillíkur, kirtla-, eitla-
+pathogen n. meinvaldur; sýkill
 pathogenicity n. meinvirkni
+maneuverability n. hreyfigeta, hreyfanleiki, lipurð; stýrihæfni
+boastfulness n. grobb, mont, stærilæti
+consequentialist n. afleiðingarhyggjusinni, afleiðingarhyggjumaður, afleiðingarsiðfræðingur
+consequentialism n. afleiðingarhyggja, afleiðingarsiðfræði
+topology n. grannfræði
+subdiscipline n. undirgrein
+existentialism n. tilvistarstefna (í heimspeki)
+existentialist n. tilvistarsinni, tilvistarspekingur (sjá %[existentialism]%)
+cisalpine l. hérna megin Alpanna (Norður-Ítalía)
+transalpine l. handan Alpanna (Suðaustur-Frakkland)
+cataphora n. dvali (þar sem e-r bregst við ytri áhrifum þótt meðvitund sé skert)
+hackathon n. lausnamót, hakkarakeppni
+attentiveness n. athygli (sjá %[attention]%)
+autodidact n. e-r sem er sjálflærður
+autodidacticism n. sjálfsnám
+recalibrate s. endurkvarða, endurstilla
+sexless l. kynlaus
+trainee n. lærlingur, (vettvangs)nemi
+dyspeptic l. haldinn meltingartruflunum eða meltingarónot
+dyspepsia n. meltingartruflun, meltingarónot
+in absentia l. fjarverandi, í fjarveru, fjarstaddur (úr latínu)
+tercentenary n. 300 ára afmæli eða minningarhátíð
+prophylaxis n. forvörn, verndandi aðgerð, sjúkdómsvörn
+harmfulness n. skaðsemi, skaðræði
+polarization n. pólun, skautun
+counter-espionage n. gagnnjósnir
+miscegenation n. kynþáttablöndun
+eschatology n. heimsslitafræði
+eschatological l. heimsslita-, heimsslitalegur, heimsslitafræðilegur
+fundraiser n. fjáröflun, fjársöfnun; fjáröflunarsamkoma ([he attended the ~])
+devaluation n. gengisfelling, gengislækkun, gengissig, gengisfall
+devalue s. gengisfella, lækka gengi; vanmeta, meta lítils
+counterinsurgency n. það að kæfa niður uppreisn
+intransigence n. óbilgirni, óundanlátssemi, þrjóska, ósveigjanleiki
+sub-Saharan l. sunnan Sahara-eyðimerkur
+oxytocin n. oxýtósín, mjaltavaki, hríðahormón
+exponential l. veldis-, veldisvísis-
+exponentially ao. með veldisvexti, á veldishraða
+ambivalent l. tvísýnn, tvíbentur, á báðum áttum, með blendnar tilfinningar
+ambivalence n. tvísýni, tvíbendni
+documentarian n. heimildarmyndagerðarmaður
+shortwave n. stuttbylgja; l. stuttbylgju-
+pathologist n. meinafræðingur
+shithole n. skítapleis, skítabæli, ömurlegur staður
+fluorosis n. flúoreitrun, flúreitrun
+memoir n. endurminningar, æviminningar
+smog n. þreykur, reykþoka, reykjarmóða, mengunarský
+meltwater n. leysingarvatn
+subglacial l. undir jökli
+gambling n. fjárhættuspil
+pachyderm n. þykkskinnungur (ættkvísl spendýra)
+bioinformatics n. ft. lífgagnatækni
+monoxide n. mónoxíð, einoxíð
+roadside n. vegkantur; l. á vegkanti
+intelligently ao. gáfulega, vitsmunalega, skynsamlega
+unrealistic l. óraunhæfur, óraunsær
+undergarment n. undirfatnaður, undirföt, nærfatnaður, kyrtill
+counterrevolution n. gagnbylting
+professoriate n. prófessorastétt
+ghetto n. gettó, fátækrahverfi; Gyðingahverfi
+underclass n. undirstétt
+geopolitics n. ft. landfræðistjórnmál
+geopolitical l. landfræðistjórnmála-
+monophonic l. einóma, einrása
+stereophonic l. víðóma, tvírása
+undulant l. bylgjandi, sem gengur í bylgjum
+typhoid n. taugaveiki ([~ fever])
+immunization n. bólusetning, ónæming, ónæmisaðgerð
+adrenal l. nýrnagrenndar-, sem er við nýru; nýrnahettu-
+dehydrate s. afvatna, þurrka
+dehydration n. vökvatap, vökvaskortur, ofþornun
+cashew n. kasjúhneta
+smelter n. málmbræðsla, málmbræðsluofn
+physiocrat n. búauðgismaður (fylgismaður ákv. hagfræðikenningar á 18. öld)
+binational l. tvíþjóðlegur
+metabolic l. efnaskipta-
+pollination n. frævun
+pollinate s. fræva, frjóvga (plöntu)
+self-pollination n. sjálffrævun
+cross-pollination n. víxlfrævun
+subtropical l. hlýtempraður, heittempraður
+subtropics n. hlýtempraða beltið, heittempraða beltið
+intelligibility n. skiljanleiki
+Deuteronomy n. fimmta Mósebók (í Biblíunni)
+phlogiston n. brunaefni
+morphogenesis n. formmyndun, formþroskun
+cybernetic l. stýrifræðilegur
+cybernetics n. ft. stýrifræði
+bloodlust n. blóðþorsti
+monopolization n. einokun
+microbial l. örveru- ([~ flora])
+fairytale n. ævintýri
+cenobite n. munkur
+cenobitism n. munkalíf
+dialectical l. þrætubókar-, þrætubókarlegur, tvíhorfs-
+pesticide n. plágueyðir; skordýraeitur
+nazification n. nasistavæðing
+counterpropaganda n. gagnáróður
+junkyard n. ruslahaugur, skranport
+feminism n. femínismi, kvenfrelsisstefna, kvenréttindastefna
+feminist n. femínisti, kvenréttindasinni
+nonhereditary l. óarfgengur
+dishwasher n. uppvþottavél; uppvaskari
+splenetic l. geðvondur; miltissjúkur, miltis-
+Georgian l. georgískur; n. Georgíumaður
+schizophrenia n. geðklofi, kleyfhugasýki
+schizophrenic l. haldinn geðklofa, kleyfhuga; geðklofasjúklingur
+legalistic l. lagatæknilegur, lagabókstafs-

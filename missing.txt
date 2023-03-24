@@ -475,9 +475,6 @@ irreconcilability
 abductive
 self-proclaimed
 underdetermination
-ambivalence
-ambivalent
-legalistic
 elitism
 elitist
 betterment
@@ -551,8 +548,6 @@ outcrop
 blood-stained
 countryside
 curtailment
-schizophrenia
-schizophrenic
 aspirin
 quietism
 theoretically
@@ -580,7 +575,6 @@ selective
 selectivity
 unwarranted
 interrelated
-Georgian
 Elizabethan
 self-centered
 full-time
@@ -712,7 +706,6 @@ hibiscus
 kingpin
 layover
 boondocks
-splenetic
 skerry
 hypothermia
 bloomery
@@ -724,7 +717,6 @@ wasteland
 untangle
 fallout
 dishwashing
-dishwasher
 seawater
 manic
 knitter
@@ -788,7 +780,6 @@ power-hungry
 underscore
 storytelling
 campus
-perfectionist
 lockdown
 slipperiness
 incommunicado
@@ -799,13 +790,10 @@ hallway
 intersectionality
 disassemble
 backdrop
-nonhereditary
 manhunt
 avant-garde
 unhinged
 gravesite
-feminism
-feminist
 shakeup
 gambit
 showmanship
@@ -830,8 +818,6 @@ hike
 terrain
 caldera
 revegetate
-exponential
-ambivalence
 campsite
 shipload
 overgrazing
@@ -857,15 +843,12 @@ homogenous
 entrepreneurial
 quantify
 breakthrough
-documentarian
-shortwave
 kingmaker
 pan-
 unskilled
 unapologetic
 deadpan
 incoming
-junkyard
 unofficial
 brainiac
 nonessential
@@ -878,11 +861,8 @@ charisma
 charismatic
 middle-class
 uptight
-pathologist
-shithole
 coastal
 rationale
-stereotypical
 parliamentarian
 risky
 defense
@@ -890,14 +870,12 @@ hothead
 bowel
 codex
 unconventional
-coastline
 bimonthly
 tired-looking
 archival
 babysit
 babysitter
 smokey
-frozen
 tectonic
 overprice
 overpriced
@@ -913,13 +891,8 @@ farmland
 guesstimate
 nonexistence
 fatalistic
-subglacial
-meltwater
 overreact
 overreaction
-smog
-memoir
-fluorosis
 famished
 dioxide
 paralyzed
@@ -934,26 +907,20 @@ mogul
 reestablish
 fistfight
 grassroot
-gambling
 medic
 statehood
 ethnicity
 interconnected
 defund s.
 thylacine
-pachyderm
-bioinformatics
 dunnart
 rewild
 shrubland
 encyclopedic
-roadside
-monoxide
 tabulation
 datebook
 factuality
 conceptualization
-intelligently
 courageously
 voluntarist
 underway
@@ -987,7 +954,6 @@ sedentarization
 destabilize
 nonaggression
 indispensible
-unrealistic
 publicize
 enforcer
 inevitability
@@ -995,8 +961,6 @@ preadolescent
 retrojection
 naively
 anonymously
-counterpropaganda
-nazification
 denazification
 demonize
 reorientation
@@ -1010,12 +974,9 @@ provocateur
 conveyer
 offense
 nevermore
-undergarment
 diaspora
-counterrevolution
 socioeconomic
 resettlement
-professoriate
 barbed
 interrogator
 fictional
@@ -1024,10 +985,8 @@ fictionalization
 non-fiction
 lingerie
 phony
-ghetto
 ghettoblaster
 recolonization
-underclass
 noncommittal
 statelessness
 tabula
@@ -1038,8 +997,6 @@ unassailable
 assailable
 matériel
 redaction
-geopolitics
-geopolitical
 precondition
 preindustrial
 exterminatory
@@ -1051,7 +1008,6 @@ guideline
 expendable
 mistreatment
 consensual
-pesticide
 rearrange
 commando
 preemptive
@@ -1101,7 +1057,6 @@ resurgence
 triumphalism
 unpatriotic
 stateless
-dialectical
 containment
 undercover
 conspiratorial
@@ -1221,8 +1176,6 @@ triangulated
 unfree
 themselves
 anchorite
-cenobite
-cenobitism
 eremitism
 stylite
 upkeep
@@ -1291,7 +1244,6 @@ ostracization
 playbook
 ruction
 interwoven
-fairytale
 hatchback
 showcase
 metalwork
@@ -1302,7 +1254,6 @@ panzootic
 pneumonic
 misalignment
 overindulge
-microbial
 replicate
 flagellant
 regrettable
@@ -1348,12 +1299,8 @@ sidearm
 erstwhile
 cesspit
 epochal
-unhistorical
-bloodlust
 bloodless
 graveyard
-monopolization
-ascetism
 Arianism
 Arian
 reinterpretation
@@ -1950,7 +1897,6 @@ lifeblood
 catalyze
 prima facie
 envision
-devaluation
 recessionary
 slowdown
 lifeline
@@ -1988,7 +1934,6 @@ pollutant
 revamp
 resilience
 gentrification
-fundraiser
 swanky
 doorman
 storefront
@@ -2013,8 +1958,6 @@ interdisciplinary
 functionalist
 functionalism
 structuralist
-eschatology
-eschatological
 crystallization
 immanence
 legitimization
@@ -2041,11 +1984,8 @@ reinstatement
 ideologization
 apoliticism
 instrumentalization
-polarization
-counter-espionage
 officialization
 bloodline
-miscegenation
 mongrelization
 Spartacist
 raciology
@@ -2081,8 +2021,6 @@ intentionalist
 endpoint
 offstage
 factual
-prophylaxis
-harmfulness
 animalization
 paralogical
 legitimatory
@@ -2173,7 +2111,6 @@ amoral
 amorality
 anocracy
 junta
-tercentenary
 guardrail
 participatory
 pallbearer
@@ -2190,13 +2127,10 @@ swiftly
 rightfully
 Islamist
 flashpoint
-counterinsurgency
 nonprofit
 majoritarian
 hardball
-intransigence
 undercut
-sub-Saharan
 bomber
 exceptionalism
 locational
@@ -2279,7 +2213,6 @@ mayhem
 despondency
 divorcee
 unproven
-in absentia
 syndicalist
 tokenism
 oxymoron
@@ -2375,8 +2308,6 @@ tidbit
 relive
 bulimic
 bulimia
-dyspeptic
-dyspepsia
 bogus
 maverick
 hustler
@@ -2386,16 +2317,13 @@ bog-standard
 flashlight
 ballroom
 riff
-trainee
 trouser
-self-destructive
 nutter
 jailbird
 aspirational
 unduly
 picaresque
 driveway
-sexless
 billboard
 placeholder
 hedonic
@@ -2424,7 +2352,6 @@ freebie
 cinematic
 apologizer
 numinous
-oxytocin
 grotesqueness
 ricochet
 meme
@@ -2433,10 +2360,7 @@ rediscovery
 chomp
 provider
 reconnect
-recalibrate
 caveat
-autodidact
-autodidacticism
 multivalent
 plaque
 simulacrum
@@ -2460,7 +2384,6 @@ golly
 bootstrap
 quant
 e-commerce
-attentiveness
 underperformer
 payoff
 analytics
@@ -2470,7 +2393,7 @@ clueless
 summation
 shopper
 nerdy
-exponentially
+
 commuter
 bonanza
 jitter
@@ -2503,7 +2426,6 @@ cop
 paddy
 self-regulation
 white-collar
-hackathon
 miniscule
 minuscule
 squishy
@@ -2530,7 +2452,6 @@ oversupply
 bleary
 flummox
 flummoxed
-cataphora
 snippet
 sociometric
 socialize
@@ -2574,8 +2495,6 @@ Pyrrhic
 seacoast
 officiousness
 prefecture
-cisalpine
-transalpine
 aromatics
 censorial
 unskilfulness
@@ -2684,8 +2603,6 @@ thespian
 peloton
 cyberpunk
 steampunk
-cybernetic
-cybernetics
 petrodollar
 blueprint
 megastructure
@@ -2704,7 +2621,6 @@ caconym
 autonym
 eponym
 exonym
-morphogenesis
 whingy
 fletcher
 fletch
@@ -2724,10 +2640,7 @@ unsettlable
 reformulation
 enquirer
 unironic
-phlogiston
 existential
-existentialism
-existentialist
 intentionality
 subjectivist
 unrecoverable
@@ -2753,7 +2666,6 @@ artifact
 coexistence
 clear-cut
 inductivism
-subdiscipline
 specifiable
 conditionals
 ineliminable
@@ -2763,14 +2675,11 @@ midpoint
 quantifier
 modifier
 probabilistic
-topology
 explicability
 representable
 reflexivity
 enumerable
 routinize
-Deuteronomy
-intelligibility
 inexorably
 self-assertiveness
 anticipator
@@ -2781,8 +2690,6 @@ self-restraint
 acquisitiveness
 sophistic
 victimization
-consequentialist
-boastfulness
 idealization
 dilemmatic
 impasse
@@ -2847,7 +2754,6 @@ disincentive
 unworkable
 crunchy
 gooey
-maneuverability
 intrastate
 tundra
 spillover
@@ -2868,7 +2774,6 @@ inclusivity
 uptake
 replicable
 crapshoot
-pathogen
 formulative
 formulaic
 confederal
@@ -2906,7 +2811,6 @@ deniability
 importer
 diversification
 electrum
-chokehold
 lockstep
 makeover
 belly-up
@@ -2941,7 +2845,6 @@ nonperishable
 digitize
 digitization
 vanadium
-smelter
 hoover
 rechargeable
 Hobbesian
@@ -2976,29 +2879,21 @@ subsidization
 tailspin
 subpar
 shocker
-subtropical
-subtropics
 agronomics
 waterwheel
-cashew
 sesame
 hellscape
 commodification
 silage
 polyculture
 monoculture
-pollination
-pollinate
 schoolhouse
 hydrology
 hydrological
 grunge
 grungy
 mudslide
-dehydrate
-dehydration
 ginormous
-metabolic
 perishability
 imperishability
 spreadable
@@ -3020,7 +2915,6 @@ onrush
 interconnectedness
 entrepreneurship
 catchy
-binational
 deployable
 sweetener
 toehold
@@ -3102,7 +2996,6 @@ lookalike
 underbrush
 broadleaf
 softwood
-physiocrat
 temporally
 strickle
 impenetrability
@@ -3164,16 +3057,13 @@ large-scale
 chairperson
 serology
 phytoserology
-pathogenicity
 prefectural
-typhoid
 pee
 tester
 anthracis
 downwind
 atropine
 cellmate
-adrenal
 pituitary
 transmittal
 thymus
@@ -3182,8 +3072,6 @@ metastasize
 metastasized
 exudative
 declassify
-immunization
-undulant
 cover-up
 substantiation
 reservist
@@ -3196,15 +3084,12 @@ variadic
 arity
 fracking
 monaural
-monophonic
-stereophonic
 elaborately
 slightly
 triumphantly
 dinnertime
 teatime
 empressement
-insanitary
 vastly
 vaguely
 modestly
@@ -3212,7 +3097,6 @@ die-hard
 riff-raff
 revue
 unconsciously
-adenoid
 tenseness
 benedictine
 curtness
