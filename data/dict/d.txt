@@ -1272,7 +1272,7 @@ dissonant l. sem lætur illa í eyrum; ósamhljóða (e-u [from, to])
 dissuade s. telja e-n af (e-u [from]), letja; ráða frá e-u
 dissuasion n. úrtölur, latning
 dissuasive l. letjandi ([~ speech]); n. latning
-distaff n. hörbrúða; kvennleggur; [on the ~ side] í kvennlegg
+distaff n. hörbrúða; kvenleggur; [on the ~ side] í kvenlegg
 distance n. fjarlægð; bil, millibil; vegalengd; þurrleiki, fálæti ([~ of manner]); [at a ~] í fjarska, álengdar; [out of ~] of langt í burtu; [in the ~] í fjarska; [visitors from a ~] komnir langt að; [to be within (shooting) ~] vera í skotfæri; [to keep one's ~] vera ekki of nærgöngull; s. fjarlægja; fara fram úr; fjarlægjast (e-n stað)
 distant l. fjarlægur; fjarskyldur; fálátur; [seven miles ~] sjö mílur í burtu; [to be on ~ terms with] vera í fáleikum við (e-n)
 distaste n. óbeit; ímigustur (á e-u [for]); s. hafa óbeit á; styggja
@@ -1392,7 +1392,7 @@ docket n. merkiseðill; útdráttur (úr dómi); efnisskrá; s. merkja (vörusen
 doctor n. læknir; doktor (nafnbót); s. lækna; laga, gera við; falsa
 doctoral l. doktorslegur, doktors- ([~ title])
 doctorate n. doktorsnafnbót
-doctoress n. kvennlæknir
+doctoress n. kvenlæknir
 docktailed l. stýfður; með stýfðan stert ([a ~ horse])
 doctrinaire l. kreddufastur; n. kreddumaður
 doctrinal l. kenningarlegur; kreddulegur, kreddu-
@@ -1615,7 +1615,7 @@ dreggy l. gruggugur
 dregs n. ft. dreggjar, grugg
 drench s. rennvæta; [~ed to the skin] holdvotur, gagndrepa; n. drykkur, hægðasaup (handa dýrum); s. gefa (skepnum) inn hægðalyf
 drencher n. steypiregn
-dress s. matreiða; verka (skinn, fisk, kjöt); hreinsa og binda um (sár); skreyta (skip) flöggum; klæða; klæða sig, búa sig; n. klæðnaður, búningur; klæðaburður; skrautfatnaður; kvennkjóll
+dress s. matreiða; verka (skinn, fisk, kjöt); hreinsa og binda um (sár); skreyta (skip) flöggum; klæða; klæða sig, búa sig; n. klæðnaður, búningur; klæðaburður; skrautfatnaður; kvenkjóll
 dress coat n. kjóll (karlmannsfat)
 dresser n. sá sem matreiðir o.s.frv.; eldhúsborð
 dress-fabric n. kjóladúkur

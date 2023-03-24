@@ -280,11 +280,11 @@ felon n. glæpamaður
 felonious l. glæpsamlegur; grimmur, vondur; mannskæður (um vopn)
 felony n. glæpur, ódæðisverk
 felt n. flóki; flókahattur; s. gera þófið eða flókið; þófna, flókna
-female l. kvennlegur, kven-, mey-; [a ~ slave] ambátt; n. kvenmaður; kvenndýr
-femineity n. kvenneðli
-femininity n. kvenneðli
-feminine l. kvennlegur; viðkvæmur; kveifarlegur; kvennkyns; n. kvennkynsorð
-feminize s. gera kvennlegan eða líkan kvenmanni
+female l. kvenlegur, kven-, mey-; [a ~ slave] ambátt; n. kvenmaður; kvendýr
+femineity n. kveneðli
+femininity n. kveneðli
+feminine l. kvenlegur; viðkvæmur; kveifarlegur; kvenkyns; n. kvenkynsorð
+feminize s. gera kvenlegan eða líkan kvenmanni
 femoral l. lær- ([the ~ bone])
 fen n. fen, mýri, flói
 fence n. vörn; garður, girðing; skylmingalist; s. girða, verja ([well ~d from the wind]); skylmast

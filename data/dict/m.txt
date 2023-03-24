@@ -811,7 +811,7 @@ million n. milljón; ótal
 millionaire n. milljónamæringur, auðkýfingur
 millionary l. sem samanstendur af milljónum; milljónasti
 millionth l. milljónasti
-milt n. milti; svil (í karlfiski); s. frjóvga (hrogn kvennfisksins)
+milt n. milti; svil (í karlfiski); s. frjóvga (hrogn kvenfisksins)
 milter n. svilfiskur (gagnstætt [spawner])
 mime n. eftirhermuleikur; skrípaleikari, eftirherma, loddari; s. leika með bendingum og pati; herma (líkja) eftir
 mimetic l. eftirlíkjandi
@@ -978,8 +978,8 @@ mismanagement n. ill stjórn
 misname s. rangnefna
 misnomer n. rangnefni
 misogamist n. hjónabandshatari
-misogynist n. kvennhatari
-misogyny n. kvennhatur
+misogynist n. kvenhatari
+misogyny n. kvenhatur
 misplace s. setja á rangan stað; veita óverðugum e-ð
 misprint s. rangprenta; n. prentvilla
 misprision n. vanræksla; yfirhylming ([~ of treason])
@@ -1398,7 +1398,7 @@ mulch n. moðáburður, sem lagður er við rætur trés
 mulct n. fésekt; s. sekta; svipta ([to be ~/~ed of something])
 mule n. múll, múlasni; kynblendingur (um dýr og plöntur); auli; þrákálfur
 muleteer n. múlreki
-muliebrity n. kvennleiki; kvenndómur
+muliebrity n. kvenleiki; kvendómur
 mulish l. þrár, staður (eins og múlasni)
 mull s. krydda og hita vín
 mull n. múli, höfði; tóbaksbaukur (úr mjóenda horns)
@@ -1445,7 +1445,7 @@ munition n. hergögn; s. birgja að hergögnum ([~ for war])
 mural l. múr- ([~ paintings]); brattur sem múr
 murder n. morð, dráp, s. myrða, drepa
 murderer n. morðingi, manndrápari
-murderess n. kvennmorðingi (kona)
+murderess n. kvenmorðingi (kona)
 murderous l. morðgjarn; mannskæður ([a ~ encounter])
 muriatic l. saltur
 murk n. dimma

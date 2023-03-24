@@ -904,7 +904,7 @@ sherry n. sérrí (víntegund)
 shew s. sjá, sýna %[show]%
 shield n. skjöldur; vernd; s. vernda, varðveita
 shieldless l. skjaldarlaus; varnarlaus
-shift s. skipta um; breyta; flytja úr stað; flytja sig; breytast; snúa sér; ganga í aðra átt (um vind); skipta um skoðanir, snúast; hafa (nær)fataskipti; neyta bragða; [~ about] snúast alveg; [~ away] bola (e-m) í burt; [~ off] reyna að komast undan (e-u), losast við; [~ for oneself] sjá fyrir sér sjálfur; n. umskipti; breyting; snúningur; útvegur, (neyðar)úrræði; bragð, kænskuráð; kvennskyrta; [I can make ~ without it] ég get komist af án þess; [to make ~ with] bjargast við (e-ð)
+shift s. skipta um; breyta; flytja úr stað; flytja sig; breytast; snúa sér; ganga í aðra átt (um vind); skipta um skoðanir, snúast; hafa (nær)fataskipti; neyta bragða; [~ about] snúast alveg; [~ away] bola (e-m) í burt; [~ off] reyna að komast undan (e-u), losast við; [~ for oneself] sjá fyrir sér sjálfur; n. umskipti; breyting; snúningur; útvegur, (neyðar)úrræði; bragð, kænskuráð; kvenskyrta; [I can make ~ without it] ég get komist af án þess; [to make ~ with] bjargast við (e-ð)
 shifter n. bragðarefur
 shifting n. skipti; bragð; l. brögðóttur; [~ sand] roksandur
 shiftless l. úrræðalaus; klaufalegur
@@ -1022,7 +1022,7 @@ shower n. sturta; demba, skúr, él; s. láta rigna (streyma); rigna í skúrum
 showery l. regnsamur, skúróttur, éljafullur
 shrapnel n. e.k. sprengikúla eða brot úr sprengju
 shred s. skera í ræmur; n. ræma; [torn to ~s] sundurrifinn
-shrew n. kvennvargur, skass
+shrew n. kvenvargur, skass
 shrewish l. þrætugjarn, skömmóttur
 shrewd l. slægur, kænn; skarpvitur
 shrewdness n. slægð, kænska
@@ -1084,7 +1084,7 @@ sideboard n. hliðarborð (fyrir borðáhöld)
 sided l. hliðaður ([many-~])
 side dish n. aukamatur
 sidelong ao. til hliðar, hliðhalt; l. liggjandi á hliðinni; hallandi; hliðar-
-sidesaddle n. kvennsöðull
+sidesaddle n. kvensöðull
 side scene n. hliðarveggur (á leiksviði)
 sidewalk n. gangstétt (fram með húsum)
 sideward ao. til hliðar; l. hliðar- ([~ movement])
@@ -1493,8 +1493,8 @@ smith n. (járn)smiður; s. smíða
 smithery n. smiðja; járnsmíði
 smithy n. smiðja
 smitten l. gagntekinn; [~ with love] ástfanginn
-smock n. kvennskyrta, bolur; utanyfirskyrta
-smock-faced l. kvennlegur í andliti
+smock n. kvenskyrta, bolur; utanyfirskyrta
+smock-faced l. kvenlegur í andliti
 smock frock n. utanyfirskyrta, vinnuskyrta
 smoke n. reykur; [end in ~] verða að engu, verða árangurslaus; s. rjúka; reykja ([~ bacon, tobacco])
 smoke-dry s. reykja ([~ meat, fish])
@@ -1604,7 +1604,7 @@ soapy l. sápugur; sápu-
 soar s. fljúga (svífa) hátt í loft upp; n. hátt flug
 sob s. stynja, hafa ekka, snökta; hvína (um vind); n. grátekki, snökt
 sobbing n. grátekki, snökt
-sober l. allsgáður; ódrukkinn; bindindissamur; gætinn, stilltur, skynsamur; [in ~ earnest] í fullri alvöru; [a man in his ~ senses] allsgáður; s. gera ódrukkinn
+sober l. allsgáður; ódrukkinn; bindindissamur; gætinn, stilltur, skynsamur; [in ~ earnest] í fullri alvöru; [a man in his ~ senses] allsgáður; s. gera ódrukkinn; [~ up] hætta að drekka, verða allsgáður
 sober-minded l. gætinn, geðstilltur
 soberness n. hófsemi, bindindissemi; stilling, gætni; alvara
 sobriety n. hófsemi, bindindissemi; stilling, gætni; alvara
@@ -1735,7 +1735,7 @@ sophistical l. rangur, skakkur (um rökleiðslu)
 sophisticate s. falsa, svíkja
 sophistry n. villandi rökleiðsla
 soporiferous l. svæfandi; n. svefnlyf
-soprano n. sópran (hæsta kvennrödd)
+soprano n. sópran (hæsta kvenrödd)
 sorcerer n. galdramaður, seiðkarl
 sorceress n. galdrakona, seiðkona
 sorcery n. galdrar, töfrar, seiður
@@ -1929,7 +1929,7 @@ spindle n. snælda; stöng
 spindle-leg n. langleggur
 spindle-legged l. leggjalangur
 shanked l. leggjalangur
-spindle side n. kvennleggur; [on (by) the ~] í kvennlegg
+spindle side n. kvenleggur; [on (by) the ~] í kvenlegg
 spindrift n. særok
 spine n. hryggur; broddur; þyrnir
 spineless l. hrygglaus; kraftlaus, þreklaus
@@ -2438,7 +2438,7 @@ stole n. mjótt og langt silkiband sem enskir og kaþólskir prestar bera, stól
 stolid l. skilningsdaufur; heimskur; tilfinningarlaus, sljór ([a ~ face])
 stolidity n. heimska
 stomach n. magi; matarlyst; löngun, tilhneiging (til e-s [for]); [has a good ~] góða matarlyst; [it goes against/turns my ~] mér verður flökurt af því; s. þola, sætta sig við ([~ an affront])
-stomacher n. brjóstspeldi (í kvennkjól)
+stomacher n. brjóstspeldi (í kvenkjól)
 stomachic l. maga-; magastyrkjandi; n. magalyf
 stone n. steinn; eista; 14 ensk pund; [a ~'s throw] steinsnar; [to leave no ~ unturned] freista alls; s. grýta ([~ to death]); taka steina úr (aldini); hlaða úr grjóti ([~ a well]); steinleggja
 stone-blind l. steinblindur

@@ -51,7 +51,7 @@ lading n. hleðsla, farmur
 ladle n. ausa, sleif; s. ausa
 lady n. hefðarfrú, hefðarkona, lafði; frú; kona; húsfreyja ([~ of the house])
 ladyhood n. kvenndómur
-ladylike l. kvennlegur, samboðinn hefðarkonu
+ladylike l. dömulegur, kvenlegur, samboðinn hefðarkonu
 ladyship n. frúartign
 lag s. drolla, fara hægt; (um verk) standa fast, gera hvorki að reka né ganga; dragast aftur úr, lötra á eftir ([~ behind]); síga, lötra áfram ([~ on]); flytja sakamenn úr landi; taka höndum, ná í e-n; n. skussi (við nám), daufingi; útlægur sakamaður
 laggard l. seinn, seinlátur; n. silakeppur, slóði, drollari
@@ -648,7 +648,7 @@ linsey-woolsey n. dúkur úr hör og ull, vergarn
 lint n. línskaf, sáratæjur
 lintel n. dyratré, ofdyri; steinn yfir glugga eða dyrum
 lion n. ljón
-lioness n. kvennljón, ljónynja
+lioness n. ljónynja, kvenljón
 lionhearted l. hugaður sem ljón
 lionize s. sýna (ókunnum manni) það, sem markvert er; skoða það, sem markvert er (á e-m stað); hafa í hávegum
 lip n. vör ([upper, lower ~]); rönd, barmur; s. snerta með vörunum, bragða á e-u, segja í hálfum hljóðum

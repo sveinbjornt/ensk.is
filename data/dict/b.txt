@@ -392,7 +392,7 @@ belay s. festa (kaðal)
 belch s. ropa; gúlpa (gjósa) e-u upp; n. ropi
 belching n. ropi
 belcher n. marglitur hálsklútur
-beldame n. roskin kona; kvenskass; kvennvargur
+beldame n. roskin kona; kvenskass; kvenvargur
 beleaguer s. sitja (setjast) um (borg)
 beleaguerment n. umsát
 belfry n. klukkuturn; umsátursturn (á miðöldum), sjá %[siege tower]%
@@ -756,7 +756,7 @@ blossom-nosed l. rauðnefjaður
 blossomy l. blómlegur
 blot n. blettur, flekkur; blekklessa; s. bletta, óhreinka; strika út; þerra (með þerripappír)
 blotch n. nabbi, bóla (á hörundi), útsláttur; klessa
-blouse n. utanhafnarskyrta, vinnuskyrta; kvenntreyja
+blouse n. utanhafnarskyrta, vinnuskyrta; kventreyja
 blow n. högg ([I struck him a ~]); áfall, ógæfa; blástur; þytur; [fly~] víur; blómi ([in full ~]); [come to ~s] komast í handalögmál; [at one ~] í einu höggi
 blowfly n. maðkafluga
 blow s. springa út; blómgast
@@ -870,7 +870,7 @@ bone n. bein; [to the ~] inn að beini; [~ of contention (discord)] þrætuepli,
 boneless l. beinlaus
 bonesetter n. sá sem kippir í lið
 bonfire n. brenna
-bonnet n. skosk húfa; barðalaus kvennhattur; reykháfshetta; s. setja hatt (húfu) á e-n; þrýsta hattinum niður fyrir augu á e-m
+bonnet n. skosk húfa; barðalaus kvenhattur; reykháfshetta; s. setja hatt (húfu) á e-n; þrýsta hattinum niður fyrir augu á e-m
 bonny l. snotur; vænn
 bonus n. aukauppbót
 bony l. beinóttur, beinamikill
@@ -1167,7 +1167,7 @@ brood n. afsprengi dýra; afkvæmi, börn; s. liggja á eggjum; klekja út; búa
 brood-hen n. sjá %[breeding hen]%
 brooding-hen n. sjá %[breeding hen]%
 broodmare n. stóðmeri
-broody l. eggsjúk (um kvennfugl)
+broody l. eggsjúk (um kvenfugl)
 brook n. lækur; s. þola (með neitun [the matter ~s no delay])
 brooklet n. lítill lækur, lækjarspræna
 broom n. lyng; sópur, sófl (á skafti), vöndur; [a new ~] nýr maður í embætti; s. sópa
