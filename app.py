@@ -392,6 +392,7 @@ async def apidoc(request: Request):
 
 
 @app.get("/sitemap.xml")
+@app.head("/sitemap.xml")
 @cache_response
 async def sitemap(request: Request) -> Response:
     """Sitemap generated on-demand."""
@@ -403,6 +404,7 @@ async def sitemap(request: Request) -> Response:
 
 
 @app.get("/robots.txt")
+@app.head("/robots.txt")
 @cache_response
 async def robots(request: Request) -> Response:
     """Robots.txt generated on-demand."""
