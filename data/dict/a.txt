@@ -1696,8 +1696,8 @@ Austria n. Austurríki
 Austrian l. austurrískur
 authentic l. áreiðanlegur; ófalsaður, ekta; lögfullur
 authentically ao. áreiðanlega
-authenticate s. löggilda; staðfesta
-authentication n. staðfesting; löggilding
+authenticate s. löggilda; staðfesta; auðkenna
+authentication n. staðfesting; löggilding; auðkenning
 authenticity n. áreiðanleiki; ritvissa
 author n. rithöfundur; heimildarmaður; frumkvöðull (að e-u [of])
 authoress n. kvenrithöfundur
