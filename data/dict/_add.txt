@@ -2902,7 +2902,6 @@ roadblock n. vegatálmi; hindrun
 seafarer n. sæfari
 bloodbath n. blóðbað
 warhead n. sprengjuoddur; [nuclear ~] kjarnaoddur
-battleground n. vígvöllur
 metallurgist n. málmfræðingur, málmvinnslufræðingur
 fatherland n. föðurland
 rhododendron n. lyngrós, alparós, róslyng
@@ -3179,7 +3178,7 @@ morphogenesis n. formmyndun, formþroskun
 cybernetic l. stýrifræðilegur
 cybernetics n. ft. stýrifræði
 bloodlust n. blóðþorsti
-monopolization n. einokun
+monopolization n. einokun, einokunarvæðing
 microbial l. örveru- ([~ flora])
 fairytale n. ævintýri
 cenobite n. munkur
@@ -3190,11 +3189,12 @@ nazification n. nasistavæðing
 counterpropaganda n. gagnáróður
 junkyard n. ruslahaugur, skranport
 feminism n. femínismi, kvenfrelsisstefna, kvenréttindastefna
-feminist n. femínisti, kvenréttindasinni
+feminist n. femínisti, kvenréttindasinni, kvenfrelsissinnis
 nonhereditary l. óarfgengur
-dishwasher n. uppvþottavél; uppvaskari
+dishwasher n. uppþvottavél; uppvaskari
 splenetic l. geðvondur; miltissjúkur, miltis-
-Georgian l. georgískur; n. Georgíumaður
+Georgian l. georgískur (frá landinu Georgíu); georgískur (arkítektúr í Bretlandi á 18. öld og fyrri hluta 19. aldar); n. Georgíumaður
 schizophrenia n. geðklofi, kleyfhugasýki
-schizophrenic l. haldinn geðklofa, kleyfhuga; geðklofasjúklingur
+schizophrenic l. haldinn geðklofa, kleyfhuga; n. geðklofasjúklingur
 legalistic l. lagatæknilegur, lagabókstafs-
+morphia n. morfín
