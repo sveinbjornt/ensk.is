@@ -1137,7 +1137,7 @@ kobold n. hrekkjóttur álfur eða púki (í þýskri þjóðtrú)
 minotaur n. mínótár (úr grískri goðafræði, skrímsli sem er hálfur maður og hálft naut)
 banshee n. kvenvofa (í írskri þjóðtrú)
 phoenix n. Fönix (ódauðlegur eldfugl í grískri goðafræði)
-bogeyman n. vondi karlinn
+bogeyman n. vondi karlinn, vætturinn (í barnamáli)
 Scientology n. Vísindakirkjan
 Aristotelianism n. heimspeki gríska fræðimannsins Aristótelesar
 Aristotelian l. aristótelískur (eftir gríska heimspekingnum Aristótelesi)
@@ -1207,7 +1207,7 @@ discombobulated l. ruglaður, sleginn út af laginu
 discombobulation n. ruglingur, ringulreið; sjá %[discombobulate]%
 quintillion n. trilljón (10 í 18. veldi)
 xenophobia n. útlendingahatur, útlendingaótti, ótti við útlendinga eða utanaðkomandi
-xenophobe n. e-r sem hræðist útlendinga, útlendingahatari
+xenophobe n. bókst. e-r sem hræðist útlendinga eða utanaðkomandi, útlendingahatari
 xenophobic l. útlendingahatandi, hræddur við útlendinga eða utanaðkomandi
 xylophone n. sílófónn (ásláttarhljóðfæri)
 xylophonist n. sílófónleikari, ásláttarhljóðfæraleikari
@@ -1414,7 +1414,7 @@ footwear n. skófatnaður, skótau, skóbúnaður
 interracial l. milli kynþátta
 racism n. kynþáttahatur, kynþáttafordómar, kynþáttahyggja, rasismi
 racist n. kynþáttahatari, rasisti; l. kynþáttahatandi, rasískur, kynþáttahyggju-
-euro n. evra (gjaldmiðill, €)
+euro n. evra (evrópskur gjaldmiðill, €)
 petite l. fíngerður, smágerður, smávaxinn, lítill, lítilvaxinn
 volleyball n. blak (knattleikur)
 motel n. vegahótel (Band.): samsett úr %[motor]% og %[hotel]%
@@ -1422,7 +1422,7 @@ combo n. stytt. á %[combination]%
 stolen l. stolinn; sjá %[steal]%
 specialized l. sérhæfður; sjá %[specialize]%
 multimedia n. margmiðlun, margmiðlunarefni; l. margmiðlunar-
-Hawaii n. Hawaii, Hawaii-eyjar (stundum skrifað Havaí)
+Hawaii n. Hawaii, Hawaii-eyjar (stundum skrifað Havaí eða Havæ á íslensku)
 teen n. táningur, unglingur; l. tánings-, á táningsaldri, á unglingsaldri; sjá %[teenage]%
 artwork n. listaverk, kúnstverk; myndskreyting(ar)
 California n. Kalifornía (ríki í suðvesturhluta Bandaríkjanna)
@@ -1431,7 +1431,7 @@ futhark n. germanskt rúnaletur
 asshole n. rassgat; (óforml.) skíthæll ([he is such an ~])
 anus n. endaþarmsop, rassgat
 machine gun n. hríðskotabyssa
-Maxim gun n. hríðskotabyssa frá 19. öld ([Whatever happens, we have got the Maxim, and they have not])
+Maxim gun n. hríðskotabyssa frá 19. öld ([Whatever happens, we have got the ~, and they have not])
 Gatling gun n. frumstæð hríðskotabyssa
 howitzer n. e.k. fallbyssa
 machismo n. karlmennskustælar, ýkt eða yfirgengileg karlmennska; karlremba
@@ -1465,7 +1465,7 @@ nominated l. tilnefndur (sjá %[nominate]%)
 bookseller n. bóksali
 Siam n. Síam (Taíland)
 Siamese l. síamskur (tælenskur); [~ cat] síamsköttur; [~ twins] síamstvíburar
-frat n. sjá %[fraternity]%
+frat n. sjá %[fraternity]%; [~ boy] háskólaklíkustrákur
 hacker n. (tölvu)hakkari, tölvurefur, tölvugarpur; tölvuþrjótur
 contact lens n. augnlinsa, snertilinsa
 yeah ao. já (óforml.); uh. já!
@@ -1540,7 +1540,8 @@ phthalimide n. þalimíð
 dryer n. þurrkofn; þurrkari
 electrocution n. að fá raflost
 electrocute s. gefa e-u eða e-m raflost eða rafstuð
-urbanization n. þéttbýlismyndun, þéttbýlisvæðing
+urbanize s. borgarvæða, þéttbýlisvæða
+urbanization n. þéttbýlismyndun, þéttbýlisvæðing, borgarvæðing
 suburbanization n. úthverfavæðing
 conurbation n. þéttbýlissvæði
 voidability n. ógildanleiki
@@ -3201,10 +3202,10 @@ morphia n. morfín
 preternaturally ao. ónáttúrulega, handan náttúrunnar; óskiljanlega
 touchable l. snertanlegur
 overreact s. bregðast of harkalega við ([he was ~ing])
-overreaction n. ofviðbrögð, að bregðast of harkalega við
+overreaction n. ofviðbrögð, að bregðast of harkalega við ([it was an ~ to a mild threat])
 bacalao n. saltfiskur
 canyon n. gljúfur
-backstage n. baksvið; l. baksviðs-; ([let's meet ~])
+backstage n. baksvið ([let's meet ~]); l. baksviðs- ([~ shenanigans])
 gambit n. herkænska; bragð, brella; opnunarleikur í tafli
 unhinged l. ær, brjálaður, klikkaður, geðveikur (bókst. ekki í hjörunum)
 manhunt n. mannaveiðar
@@ -3214,5 +3215,37 @@ overconfident l. of eða óhóflega sjálfsöruggur
 podium n. ræðupallur; verðlaunapallur; ræðupúlt
 apocalypse n. heimsendir, heimsslit (úr opinberunarbók biblíunnar)
 apocalyptic l. heimsendis-, heimsslita-; (sjá %[apocalypse]%)
-unsustainable l. ósjálfbær, óviðhaldanlegur
+unsustainable l. ósjálfbær, ekki hægt að halda uppi, óviðhaldanlegur
 underdog n. lítilmagni, undirmálsmaður, sá sem er minni máttar
+orangeade n. sykraður appelsínudrykkur
+litmus n. lakkmúslitur; [~ paper] lakkmúspappír; [~ test] prófsteinn, fylgnipróf
+cutback n. (yfirleitt í ft. [~s]) niðurskurður, sparnaðaraðgerðir
+agronomics n. ft. búfræði
+agronomic l. búfræðilegur, búfræði-
+unsung l. ósunginn
+bauxite n. báxít (hráefni í ál)
+longshoreman n. hafnarverkamaður
+marshmallow n. sykurpúði
+peppercorn n. piparkorn
+tundra n. túndra, freðmýri
+renascence n. endurfæðing; endurreisn; sjá %%[renaissance]%%
+necrotic l. drep-, sem veldur eða tengist drepi í beini eða holdi
+leatherwork n. leðurmunir; leðurvinnsla
+leatherworking n. leðurvinnsla
+leatherworker n. sá sem fæst við leðurvinnslu (sjá %%[leatherworking]%%)
+synergy n. samlegð, samlegðaráhrif, samvirkni, samyrkja
+synergistic l. samvirkur, samverkandi; [~ effect] samlegðaráhrif
+monograph n. einefnisrit
+pseudorandom l. gervislembi-; [~ number generator] gervislembitalnagjafi (í tölvunarfræði)
+pseudoscalar n. gervitala; l. gervitölu-
+quasiparticle n. agnarígildi
+bulimia n. lotugræðgi, átköst, ofát, búlemía
+bulimic l. lotugræðgis-, búlemíu- (sjá %%[bulimia]%%)
+divorcee n. fráskilin kona eða maður
+despondency n. örvænting; hugleysi, hugarvíl
+mayhem n. glundroði, írafár, öngþveiti
+transcontinental l. sem fer eða liggur þvert yfir álfu eða meginland
+opioid n. ópíóíði, ópíumlyf
+Islamophobia n. ótti við múslíma og/eða íslam, múslímahatur
+Islamophobic l. sem óttast múslíma og/eða íslam, múslímahaturs-
+Islamist n. íslamisti, bókstafstrúaður múslími, öfgamúslími

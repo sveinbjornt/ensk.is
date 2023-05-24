@@ -738,7 +738,6 @@ landmass
 nuance
 mastermind
 fabled
-underdog
 colonizer
 slingshot
 breastfeed
@@ -754,7 +753,6 @@ sophistication
 cataclysmic
 pricey
 reorient
-unsustainable
 seasonal
 macho
 Canadian
@@ -767,13 +765,10 @@ arguably
 powerhouse
 mixed-race
 strong-arm
-podium
 spillage
 meltdown
 glamorous
 extravaganza
-apocalypse
-apocalyptic
 superpower
 underscore
 storytelling
@@ -2149,10 +2144,8 @@ synthesize
 synthesizer
 someplace
 interchangeability
-Islamophobia
 sexually
 parallax
-opioid
 happenstance
 imperium
 histrionics
@@ -2178,7 +2171,6 @@ personalism
 bootlicker
 nitroglycerine
 commercialization
-transcontinental
 artisanal
 pharaonic
 preparedness
@@ -2198,9 +2190,6 @@ ideation
 ideational
 catechismic
 aftershock
-mayhem
-despondency
-divorcee
 unproven
 syndicalist
 tokenism
@@ -2295,8 +2284,6 @@ junkie
 immersive
 tidbit
 relive
-bulimic
-bulimia
 bogus
 maverick
 hustler
@@ -2382,7 +2369,6 @@ clueless
 summation
 shopper
 nerdy
-
 commuter
 bonanza
 jitter
@@ -2476,9 +2462,7 @@ systematizer
 nettlesome
 prickliness
 untellable
-mantlepiece
 etcher
-monograph
 confines
 Pyrrhic
 seacoast
@@ -2526,7 +2510,6 @@ differentiator
 relational
 squeaky
 moniker
-synergy
 face-to-face
 transactional
 theretofore
@@ -2537,7 +2520,6 @@ fireside
 whimsy
 broadly
 gimmick
-leatherworker
 saddleback
 flipside
 benchpress
@@ -2613,7 +2595,6 @@ exonym
 whingy
 fletcher
 fletch
-necrotic
 operational
 subduction
 emotive
@@ -2687,7 +2668,6 @@ preempt
 preemption
 preemptive
 particularist
-renascence
 Neoplatonism
 Neoplatonist
 Neoplatonic
@@ -2735,7 +2715,6 @@ aphasia
 Americanization
 Americanize
 citrus
-urbanize
 deepwater
 foothill
 striation
@@ -2744,7 +2723,6 @@ unworkable
 crunchy
 gooey
 intrastate
-tundra
 spillover
 overwatch
 sebum
@@ -2775,16 +2753,12 @@ widget
 quesadilla
 cheesecake
 carton
-peppercorn
 safflower
 propylene
 spoilage
-marshmallow
 far-flung
-longshoreman
 deckhand
 portside
-bauxite
 finicky
 duology
 seaborne
@@ -2840,7 +2814,6 @@ Hobbesian
 orbital
 topographic
 disassociation
-unsung
 shininess
 backer
 facilitation
@@ -2868,7 +2841,6 @@ subsidization
 tailspin
 subpar
 shocker
-agronomics
 waterwheel
 sesame
 hellscape
@@ -2908,7 +2880,6 @@ deployable
 sweetener
 toehold
 sideshow
-cutback
 metabolize
 geriatric
 numerically
@@ -2926,7 +2897,6 @@ linkage
 dunk
 headwater
 seizable
-litmus
 freedman
 jank
 janky
@@ -3100,7 +3070,6 @@ unbusinesslike
 anymore
 bounder
 firmly
-orangeade
 harridan
 pepsin
 self-reproach
@@ -3147,3 +3116,4 @@ infiltrate (endurskoða)
 infiltration
 susurration
 defunct (endurskoða)
+ambigram
