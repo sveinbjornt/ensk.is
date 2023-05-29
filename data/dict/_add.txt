@@ -3228,11 +3228,11 @@ longshoreman n. hafnarverkamaður
 marshmallow n. sykurpúði
 peppercorn n. piparkorn
 tundra n. túndra, freðmýri
-renascence n. endurfæðing; endurreisn; sjá %%[renaissance]%%
+renascence n. endurfæðing; endurreisn; sjá %[renaissance]%
 necrotic l. drep-, sem veldur eða tengist drepi í beini eða holdi
 leatherwork n. leðurmunir; leðurvinnsla
 leatherworking n. leðurvinnsla
-leatherworker n. sá sem fæst við leðurvinnslu (sjá %%[leatherworking]%%)
+leatherworker n. sá sem fæst við leðurvinnslu (sjá %[leatherworking]%)
 synergy n. samlegð, samlegðaráhrif, samvirkni, samyrkja
 synergistic l. samvirkur, samverkandi; [~ effect] samlegðaráhrif
 monograph n. einefnisrit
@@ -3240,7 +3240,7 @@ pseudorandom l. gervislembi-; [~ number generator] gervislembitalnagjafi (í tö
 pseudoscalar n. gervitala; l. gervitölu-
 quasiparticle n. agnarígildi
 bulimia n. lotugræðgi, átköst, ofát, búlemía
-bulimic l. lotugræðgis-, búlemíu- (sjá %%[bulimia]%%)
+bulimic l. lotugræðgis-, búlemíu- (sjá %[bulimia]%)
 divorcee n. fráskilin kona eða maður
 despondency n. örvænting; hugleysi, hugarvíl
 mayhem n. glundroði, írafár, öngþveiti
@@ -3250,7 +3250,7 @@ islamophobia n. ótti við múslíma og/eða íslam, múslímahatur
 islamophobic l. sem óttast múslíma og/eða íslam, múslímahaturs-
 islamist n. íslamisti, bókstafstrúaður múslími, öfgamúslími
 extraterritorial l. utansvæðis-, utan lögsögu
-cosmopolitanism n. heimsborgarahyggja (sjá %%[cosmopolitan]%%)
+cosmopolitanism n. heimsborgarahyggja (sjá %[cosmopolitan]%)
 subtitle n. undirtitill, undirfyrirsögn, aukafyrirsögn; skjátexti (í mynböndum)
 industrialist n. iðnjöfur
 industrialism n. iðnvæðing, iðnvæðingarstefna
@@ -3261,18 +3261,18 @@ empirically ao. raunvíslega, byggt á reynslu, út frá reynslu
 anthropocentrism n. manngyðistrú
 anthropocentric l. mannhverfur, mannmiðaður
 anthropomorphize s. manngerva (eigna e-u ómennsku mannlega eiginleika)
-deistic l. sem tengist deisma, þ.e. trú á einn guð án opinberunar (sjá %%[deism]%%)
+deistic l. sem tengist deisma, þ.e. trú á einn guð án opinberunar (sjá %[deism]%)
 bombardier n. stórskotaliði
 yeti n. snjómaðurinn ógurlegi (goðsagnakennd vera)
 antialiasing n. afstöllun
-encoding n. kóðun; umtáknun; hnitun
+encoding n. kóðun; umtáknun; hnitun; snið
 encode s. kóða; umtákna
 airfare n. flugfargjald
 droplet n. smádropi
 globetrotter n. heimshornaflakkari
-Balkan l. Balkanskaga-, Balkanlanda-; frá Balkanskaga
+Balkan l. Balkanskaga-, Balkanlanda-; balkanskur, frá Balkanskaga
 Balkans n. ft. Balkanskagi, Balkanlönd
-reinterpretation n. endurtúlkun, endurþýðing (sjá %%[interpretation]%%)
+reinterpretation n. endurtúlkun, endurþýðing (sjá %[interpretation]%)
 mindset n. hugarfar
 interplay n. samspil ([the ~ between opposing forces])
 scholasticism n. skólaspeki (miðalda)
@@ -3280,3 +3280,20 @@ unorthodox l. óhefðbundinn, óvenjulegur; ekki rétttrúaður, villutrúaður
 unorthodoxy n. villutrú
 deviant l. afbrigðilegur; n. afbrigði, frávik
 deviance n. frávik, afbrigðilegheit
+contaminant n. aðskotaefni, mengandi efni; mengunarvera, mengandi örvera
+decolonialize s. afnýlenda, afnýlenduvæða
+decolonialization n. afnýlendum, afnýlenduvæðing
+amphora n. amfóra (e.k. leirker til forna)
+Bayesian l. bayeskur (sem tengist kenningum stærðfræðingsins Thomas Bayes); [~ statistics] bayesk tölfræði, Bayesartölfræði
+ornery n. ótuktarlegur
+Americanization n. ameríkuvæðing, bandaríkjavæðing
+Americanize s. ameríkuvæða; bandaríkjavæða
+Anglophobe n. sá sem er englendingafælinn (sjá %[Anglophobia]%)
+Anglophobic l. englendingafælinn (sjá %[Anglophobia]%)
+Anglophobia n. englendingafælni, fælni eða ótti við Englendinga eða enskumælandi fólk
+Anglosphere n. hinn enskumælandi heimur
+moonscape n. landslag sem er eins og á tunglinu (samsetning af %[moon]% og %[landscape]%)
+upriver l. & ao. ofar í ánni
+multilane l. með mörgum akreinum
+topographic l. staðlýsingar- (sjá %[topography]%)
+topographical l. staðlýsingar- (sjá %[topography]%)

@@ -12,7 +12,6 @@ gyroscope
 scoot s.
 scooter
 electric scooter
-ornery
 contrarian
 timestamp
 gnu
@@ -560,7 +559,7 @@ eurocentrism
 public-spirited
 domesticity
 incrimination
-Americanize
+
 wastepaper
 unappetizing
 downtrodden
@@ -2360,7 +2359,6 @@ scrounge
 placement
 technologist
 motivator
-Bayesian
 marketer
 portability
 cop
@@ -2437,7 +2435,6 @@ prefecture
 aromatics
 censorial
 unskilfulness
-amphora
 genuflect
 chronologist
 conciseness
@@ -2665,8 +2662,6 @@ historicism
 relentlessness
 phronetic
 frenetic
-Anglophobe
-Anglophobia
 overgeneralization
 generalization
 natalist
@@ -2678,8 +2673,6 @@ lackwit
 pumpernickel
 awestruck
 aphasia
-Americanization
-Americanize
 citrus
 deepwater
 foothill
@@ -2752,8 +2745,6 @@ dicey
 cetacean
 Zoroastrian
 Zoroastrianism
-decolonialize
-decolonialization
 corral
 frack
 graspable
@@ -2767,7 +2758,6 @@ chapterette
 disruptable
 midstream
 feedstock
-contaminant
 intermittency
 tantalum
 nonperishable
@@ -2832,9 +2822,6 @@ expansionary
 snark
 snarky
 lopsidedness
-multilane
-moonscape
-upriver
 conquerable
 intermittently
 hefty
