@@ -33,7 +33,6 @@ backup
 permalink
 derby
 impressive
-encoding
 lambda
 locator
 affiliation
@@ -46,11 +45,8 @@ pictographic
 hypodermic
 Latino
 transdermic
-preternuptial
 preterperfect
 corps
-antialiasing
-antialias
 counterfactual
 cat o' nine tails
 boomerang
@@ -66,8 +62,6 @@ aquaponic
 djinn
 cockatrice
 manticore
-yeti
-medusa (uppfæra)
 hellhound
 Bigfoot
 chimera
@@ -118,7 +112,6 @@ collectible
 manufacturing
 supercede
 goth
-bombardier
 noncommissioned
 levee (endurskoða núverandi skilgr.)
 succinctorium
@@ -225,7 +218,6 @@ slanted
 wafer
 weak-sighted
 unconscionable
-program
 monitor
 console
 napalm
@@ -276,7 +268,6 @@ transgender
 nexus
 mephistopheles
 deadline
-deviant
 differential
 dryer
 essentially
@@ -361,7 +352,6 @@ institutionalize
 institutionalized
 preoccupation
 enthusiastically
-deistic
 essentially
 compelling
 Newtonian
@@ -383,16 +373,11 @@ unjustified
 misconceived
 purposefulness
 inconducive
-anthropocentric
-anthropocentrism
-anthropomorphize
-anthropomorphized
 intellectually
 intimidating
 misguided
 hypothesize
 developmental
-empirically
 superstitiously
 adamantly
 unprivileged
@@ -412,9 +397,6 @@ sophistication
 counterreaction
 interact
 interaction
-simplified
-curricular
-extracurricular
 paternalism
 paternalistic
 overemphasis
@@ -427,8 +409,6 @@ counterexample
 egalitarian
 egalitarianism
 refashion
-industrialism
-industrialist
 betterment
 meliorist
 meliorism
@@ -441,7 +421,6 @@ self-satisfied
 well-run
 classless
 self-determination
-subtitle
 anti-rationalist
 motivate
 unmotivated
@@ -456,7 +435,6 @@ non-subjective
 undistinguished
 stylistic
 misguided
-cosmopolitanism
 universalism
 universalist
 contractarian
@@ -1112,8 +1090,6 @@ realignment
 totemic
 archetypal
 hairline
-unorthodoxy
-deviance
 pederasty
 pederast
 racetrack
@@ -1203,7 +1179,7 @@ entrepôt
 worthwhile
 longtime
 vermillion
-unorthodox
+
 vegetarianism
 vegetarian
 frictionless
@@ -1217,7 +1193,6 @@ trivium
 acknowledgement
 scriptorium
 tinkerer
-scholasticism
 herbology
 unionization
 roughly
@@ -1233,7 +1208,6 @@ showcase
 metalwork
 hubristic
 lifelike
-interplay
 panzootic
 pneumonic
 misalignment
@@ -1275,7 +1249,6 @@ predation
 disgruntlement
 polemicist
 deconstruct
-mindset
 crackdown
 lenience
 duress
@@ -1287,9 +1260,7 @@ bloodless
 graveyard
 Arianism
 Arian
-reinterpretation
 statistic
-Balkans
 unknowable
 sketchiness
 graven
@@ -1300,7 +1271,6 @@ meritocracy
 meritocratic
 ghoulish
 celebratory
-globetrotter
 fantasist
 reclusive
 loucheness
@@ -1310,7 +1280,6 @@ expansionist
 refurbishment
 rearrangement
 fizzy
-droplet
 curbside
 hodgepodge
 workhorse
@@ -1332,7 +1301,6 @@ interdependent
 leverage
 stabilize
 downside
-airfare
 pushback
 toiletry
 suitcase
@@ -1555,7 +1523,6 @@ unproblematic
 ad infinitum
 unimaginative
 winnable
-extraterritorial
 discriminatory
 uniquely
 enclave
@@ -2109,7 +2076,6 @@ misinformation
 alarmism
 swiftly
 rightfully
-Islamist
 flashpoint
 nonprofit
 majoritarian
