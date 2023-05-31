@@ -45,6 +45,7 @@ import logging
 import sqlite3
 from pathlib import Path
 
+from dict import CATEGORIES
 
 DB_FILENAME = "dict.db"
 
@@ -176,6 +177,9 @@ class EnskDatabase(object):
     def read_all_in_wordcat(self, cat=None) -> List[Dict]:
         """Read all entries in a given word category."""
         assert cat is not None
+
+        if cat + "." not in CATEGORIES:
+            return []
         conn = self.conn()
         selected = conn.cursor().execute(
             f"SELECT * FROM dictionary WHERE definition LIKE '%{cat}. %'"
