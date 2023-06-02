@@ -2377,11 +2377,11 @@ stillness n. kyrrð, ró
 still s. eima (brennivín); n. eimingarker
 stilt n. gangstöng
 stilted l. íburðarmikill, tigurlegur (um orðfæri)
-stimulant l. hressandi, æsandi; n. hressingarlyf; hvöt
-stimulate s. hvetja, eggja; hressa
-stimulative l. eggjandi, hvetjandi
-stimulation n. hvatning
-stimulus n. hvatning, uppörvun; æsandi áhrif ([under the ~ of hunger])
+stimulant l. hressandi, æsandi, örvandi; n. örvandi lyf, hressingarlyf; hvöt, örvun
+stimulate s. hvetja, eggja; hressa, örva
+stimulative l. eggjandi, hvetjandi, örvandi
+stimulation n. hvatning, örvun
+stimulus n. hvatning, uppörvun; áreiti; æsandi áhrif ([under the ~ of hunger])
 sting n. broddur; bit; stingur; verkur; s. stinga; kvelja, særa; [my hand (tooth) ~s] mig verkjar í höndina, tönnina
 stinging nettle n. brennigras
 stingless l. broddlaus
