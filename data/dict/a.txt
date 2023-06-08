@@ -142,13 +142,13 @@ abstracted l. laus ([from]); utan við sig; þungskilinn
 abstractedly ao. út af fyrir sig
 abstractedness n. leiðsla
 abstraction n. þjófnaður; hugmynd; athugaleysi; leiðsla
-abstruse l. torskilinn; leyndur
+abstruse l. torskilinn, torskiljanlegur; leyndur
 abstruseness n. torskiljanleiki
 absurd l. fjarstæður; hlægilegur; absúrd
 absurdity n. fjarstæða, fásinna, heimska
 absurdness n. fjarstæða, fásinna, heimska
-abundance n. gnótt; allsnægtir
-abundant l. kappnógur, ríkulegur; auðugur ([of, in])
+abundance n. gnægð, gnótt; allsnægtir
+abundant l. kappnógur, ríkulegur, gnægur; auðugur ([of, in])
 abuse s. misnota, nota ranglega; misbeita; misbjóða; skamma, úthúða; n. misnotkun, misbeiting; ósiður; skammir
 abuser n. misnotari, lastari
 abusive l. misnotandi; rangur; skömmóttur
@@ -158,8 +158,8 @@ abut s. liggja (að [on, upon])
 abutment n. endastólpi; brúarstöpull
 abuttals n. ft. landamerki
 abysm n. undirdjúp; víti
-abysmal l. botnlaus
-abyss n. hyldýpisgjá
+abysmal l. botnlaus; hræðilegur
+abyss n. hyldýpi, undirdjúp; (hyldýpis)gjá
 acacia n. jurtarheiti
 academic l. háskólalegur, fræðilegur; n. heimspekingur, háskólamaður; háskólanemandi
 academical l. háskólalegur
@@ -1354,7 +1354,7 @@ aristocratic l. aðals-; höfðinglegur; höfðingja- ([the so-called ~ party])
 arithmetic n. reikningslist
 arithmetical l. reikningslegur
 arithmetician n. reikningsmaður ([a good ~])
-ark n. örk; [the ~ of the covenant] sáttmálsörkin
+ark n. örk; [the Ark of the Covenant] sáttmálsörkin
 arm n. handleggur, armur; grein, kvísl; brík (á stól)
 arm s. vopna, hertygja; útbúa; hertygjast; grípa til vopna
 armed l. vopnaður

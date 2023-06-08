@@ -1486,17 +1486,17 @@ commune n. bæjar- eða sveitarfélag (í Frakklandi)
 commune s. tala saman (við [with]), hafa samneyti (mök) við e-n ([with]); ganga til altaris
 communicable l. miðlanlegur; ræðinn
 communicant n. altarisgöngumaður; sögumaður
-communicate s. miðla, veita; segja (e-m [to]) frá e-u; standa í sambandi (um herbergi); tala (við [with]); ganga (eða taka) til altaris
-communication n. samskipti, miðlun, yfirfærsla; frásögn; mök; samgöngur; samband
+communicate s. miðla, veita; segja (e-m [to]) frá e-u; standa í sambandi (um herbergi); tala, eiga í samskiptum (við [with]); ganga (eða taka) til altaris
+communication n. samskipti, miðlun, yfirfærsla; frásögn; samgöngur; samband
 communicative l. ræðinn
 communion n. sameining; félagsskapur; samneyti; kirkjufélag; samband; nautn heilagrar kvöldmáltíðar; altarissakramenti ([Holy Communion])
 communion bread n. altarisbrauð, bakstur
 communion cloth n. altarisdúkur
 communion cup n. kaleikur
 communion table n. altarisborð
-communism n. kommúnismi, sameignarkenning
-communist n. kommúnisti, sameignarmaður
-communistic l. sem lýtur að kommúnisma, sameignarkenningu
+communism n. kommúnismi, sameignarstefna, sameignarkenning
+communist n. kommúnisti, sameignarmaður, sameignarsinni
+communistic l. sem lýtur að kommúnisma, sameignarkenningu eða stefnu
 community n. sameiginleiki; samleiki; samfélag; borgfélag; sveitarfélag; þjóðfélag; ríki
 communize s. gera (t.d. land) að sameign
 commutable l. sem breyta má í annað

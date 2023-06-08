@@ -54,7 +54,7 @@ hillbilly n. sveitavargur, afdalamaður
 sniper n. leyniskytta
 straitjacket n. spennitreyja
 quantum physics n. skammtafræði
-spacecraft n. geimskip
+spacecraft n. geimskip, geimfar
 space shuttle n. geimferja, geimskutla
 aircraft n. flugvél, loftfar
 laptop n. fartölva
@@ -188,6 +188,7 @@ expresso n. sjá %[espresso]%
 marxism n. marxismi (hugmyndafræði kennd við þýska fræðimanninn Karl Marx)
 marxist n. marxisti (fylgismaður kenninga Karls Marx, sjá %[marxism]%)
 postmodern l. póstmódernískur (sjá %[postmodernism]%)
+postmodernistic l. póstmódernískur (sjá %[postmodernism]%)
 postmodernism n. póstmódernismi (heimspeki- og menningarstefna sem tók við af módernisma)
 postmodernist n. póstmódernisti (fylgismaður póstmódernisma, sjá %[postmodernism]%)
 structuralism n. formgerðarstefna, strúktúralismi (rannsóknaraðferð til að útskýra kerfi tungumála með athugun á formum og reglum)
@@ -635,6 +636,7 @@ Costa Rica n. Kosta Ríka
 Croatia n. Króatía
 Cuba n. Kúba
 Cyprus n. Kýpur
+Czech l. tékkneskur; n. Tékki
 Czechia n. Tékkland
 Djibouti n. Djíbútí
 Dominica n. Dóminíka
@@ -1126,7 +1128,7 @@ spadroon n. létt sverð
 claymore n. skoskt sverð; jarðsprengja
 gladius n. rómverskt sverð
 machete n. sveðja
-épée n. sverð notað í ólympískum skylmingum
+épée n. sverð sem notað er notað í ólympískum skylmingum
 epee n. sjá %[épée]%
 siege engine n. umsátursvopn, umsátursvél, umsáturstæki
 siege tower n. umsátursturn
@@ -1139,6 +1141,7 @@ banshee n. kvenvofa (í írskri þjóðtrú)
 phoenix n. Fönix (ódauðlegur eldfugl í grískri goðafræði)
 bogeyman n. vondi karlinn, vætturinn (í barnamáli)
 Scientology n. Vísindakirkjan
+Scientologist n. Vísindakirkjumeðlimur
 Aristotelianism n. heimspeki gríska fræðimannsins Aristótelesar
 Aristotelian l. aristótelískur (eftir gríska heimspekingnum Aristótelesi)
 succubus n. kvendjöfull
@@ -1232,6 +1235,7 @@ homunculus n. smámenni
 ineffectiveness n. gagnsleysi, árangursleysi, áhrifaleysi (sjá %[ineffective]%)
 sphinx n. sfinx (goðsagnavera með líkama ljóns og mannshöfuð)
 telephone book n. símaskrá
+phone book n. símaskrá
 telephone directory n. símaskrá
 teleprocessing n. fjarvinnsla
 processing n. vinnsla (sjá %[process]%)
@@ -1259,7 +1263,9 @@ geothermally ao. jarðhitalegur, jarðvarmalegur
 boner n. standpína, holdris, reisn
 urologist n. þvagfæralæknir, þvagfærasérfræðingur
 endocrinologist n. innkirtlalæknir, innkirtlasérfræðingur, innkirtlafræðingur
+endocrinology n. innkirtlalækningar, innkirtlafræði
 ophthalmologist n. augnlæknir, augnsérfræðingur
+ophthalmology n. augnlækningar
 political correctness n. pólitískur rétttrúnaður
 rediscover n. enduruppgötva (sjá %[discover]%)
 xeno- fsk. ókunnugur, utanaðkomandi, erlendur, útlendur; sjá t.d. %[xenophobe]%
@@ -2080,6 +2086,7 @@ pleb n. sjá %[plebeian]%
 bason n. sjá %[basin]%
 Crete n. Krít
 cartoonish l. teiknimyndalegur, skrípalegur
+cartoonishly ao. teiknimyndalega, skrípalega
 jacuzzi n. nuddpottur, heitur pottur
 hot tub n. heitur pottur
 hot dog n. pylsa
@@ -2468,7 +2475,6 @@ labor n. sjá %[labour]%
 grandkid n. barnabarn
 heirless l. erfingjalaus, án erfingja
 gynocracy n. sjá %[gyneocracy]%
-science fiction n. vísindaskáldskapur
 sci-fi n. stytt. á %[science fiction]%
 aesthetically ao. fagurfræðilega
 touristic l. túristalegur, túrista-
@@ -3290,7 +3296,7 @@ Americanization n. ameríkuvæðing, bandaríkjavæðing
 Americanize s. ameríkuvæða; bandaríkjavæða
 Anglophobe n. sá sem er englendingafælinn (sjá %[Anglophobia]%)
 Anglophobic l. englendingafælinn (sjá %[Anglophobia]%)
-Anglophobia n. englendingafælni, fælni eða ótti við Englendinga eða enskumælandi fólk
+Anglophobia n. englendingafælni, ótti við Englendinga eða enskumælandi fólk
 Anglosphere n. hinn enskumælandi heimur
 Francophile n. sá sem elskar Frakkland og/eða franska menningu
 Gallophile n. sá sem elskar Frakkland og/eða franska menningu
@@ -3299,3 +3305,32 @@ upriver l. & ao. ofar í ánni
 multilane l. með mörgum akreinum
 topographic l. staðlýsingar- (sjá %[topography]%)
 topographical l. staðlýsingar- (sjá %[topography]%)
+gnu n. stór afrísk antílópa
+hypodermic l. sem fer undir húðina, húðbeðs-; [~ needle] sprautunál, húðbeðsnál
+unbelievably ao. ótrúlega
+unpredictably ao. ófyrirsjáanlega
+justifiably ao. réttlætanlega
+mafia n. mafía, glæpahringur, glæpasamtök
+mafioso n. mafíósi, glæpamaður, glæponi
+noblewoman n. aðalskona
+rumor n. sjá %[rumour]%
+paralyze s. lama, gera aflvana (sjá einnig %[paralyse]%)
+Venice n. Feneyjar
+paternoster n. Faðirvorið (kristin bæn)
+self-sacrifice n. sjálfsfórn
+undergrad n. sjá %[undergraduate]%
+robotization n. vélmennavæðing
+quintile n. fimmtungur
+upload s. hala upp, hlaða upp; n. upphal
+uploadable l. upphalanlegur
+dockworker n. hafnarverkamaður
+flowerbed n. blómabeð
+spaceship n. geimskip, geimfar
+barf s. æla, gubba; n. æla, gubb
+sarcophagus n. steinkista, líkkista úr steini
+purposelessness n. tilgangsleysi
+meaninglessness n. merkingarleysi, þýðingarleysi
+tech-savvy l. tæknifróður, kunnugur tækni
+joule n. júl (mælieining)
+kilojoule n. kílójúl, þúsund júl (sjá mælieininguna %[joule]%)
+megajoule n. megajúl, milljón júl (sjá mælieininguna %[joule]%)
