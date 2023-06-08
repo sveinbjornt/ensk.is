@@ -7,12 +7,13 @@ rock n. rokktónlist; [play some of that ~ and roll music]
 microwave n. örbylgja; örbylgjuofn; s. hita í örbylgjuofni
 microwave oven n. örbylgjuofn
 helicopter n. þyrla; [~ pilot] þyrluflugmaður
-computer n. tölva, reiknivél; e-r sem reiknar
+computer n. tölva, reiknivél; e-r sem reiknar, reiknari
 algorithm n. algrím, reiknirit
 algorithmic l. reiknirits-, algríms-, algrímskur
 heliocentrism n. sólmiðjukenning
 heliocentric l. sólmiðju-
 geoheliocentrism n. jarðsólmiðjukenning stjarnfræðingsins Tycho Brahe ([the Tychonic system])
+geoheliocentric l. jarðsólmiðjukenningar- (sjá %[geoheliocentrism]%)
 pseudoscience n. gervivísindi
 pseudoscientific l. gervivísindalegur
 pseudoscientist n. gervivísindamaður
@@ -1327,15 +1328,19 @@ photographic l. ljósmynda-, ljósmyndunar-; [~ evidence] sönnunargögn í form
 phonographer n. hljóðritari
 defenestrate s. kasta út um glugga
 defenestration n. kast (út um glugga)
-African l. afrískur; n. Afríkubúi, Afríkumaður
 Africa n. Afríka (heimsálfa)
+African l. afrískur; n. Afríkubúi, Afríkumaður
 America n. Ameríka
-Arctic n. Norðurskautslandið (yfirleitt með ákv. greini [the ~])
+American l. amerískur
+Arctic n. Norðurskautslandið (yfirleitt með ákv. greini [the ~]); l. Norðurskauts-
 Arctic Circle n. Norðurheimskautsbaugur
 Antarctic Circle n. Suðurheimskautsbaugur
 North America n. Norður-Ameríka (heimsálfa)
+North American n. norðuramerískur
 Central America n. Mið-Ameríka
+Central American n. miðamerískur
 South America n. Suður-Ameríka (heimsálfa)
+South American n. suðuramerískur
 Oceania n. Eyjaálfa (heimsálfa sem nær yfir Ástralíu og nærliggjandi eyjar)
 telegrapher n. símritari, símaþjónn
 Asian l. asískur, austurálfu-, frá austurálfu; n. Asíumaður, austurálfumaður
@@ -3217,7 +3222,7 @@ unhinged l. ær, brjálaður, klikkaður, geðveikur (bókst. ekki í hjörunum)
 manhunt n. mannaveiðar
 gravesite n. grafreitur
 power-hungry l. valdaþyrstur, valdasjúkur, valdagráðugur
-overconfident l. of eða óhóflega sjálfsöruggur
+overconfident l. of eða óhóflega sjálfsöruggur, of öruggur með sjálfan sig
 podium n. ræðupallur; verðlaunapallur; ræðupúlt
 apocalypse n. heimsendir, heimsslit (úr opinberunarbók biblíunnar)
 apocalyptic l. heimsendis-, heimsslita-; (sjá %[apocalypse]%)
@@ -3280,16 +3285,16 @@ Balkan l. Balkanskaga-, Balkanlanda-; balkanskur, frá Balkanskaga
 Balkans n. ft. Balkanskagi, Balkanlönd
 reinterpretation n. endurtúlkun, endurþýðing (sjá %[interpretation]%)
 mindset n. hugarfar
-interplay n. samspil ([the ~ between opposing forces])
+interplay n. samspil ([the ~ between opposing factions])
 scholasticism n. skólaspeki (miðalda)
 unorthodox l. óhefðbundinn, óvenjulegur; ekki rétttrúaður, villutrúaður
-unorthodoxy n. villutrú
+unorthodoxy n. villutrú; speki sem stangast á við viðtekin sannleika
 deviant l. afbrigðilegur; n. afbrigði, frávik
 deviance n. frávik, afbrigðilegheit
 contaminant n. aðskotaefni, mengandi efni; mengunarvera, mengandi örvera
 decolonialize s. afnýlenda, afnýlenduvæða
 decolonialization n. afnýlendum, afnýlenduvæðing
-amphora n. amfóra (e.k. leirker til forna)
+amphora n. amfóra (e.k. leirker í Evrópu til forna)
 Bayesian l. bayeskur (sem tengist kenningum stærðfræðingsins Thomas Bayes); [~ statistics] bayesk tölfræði, Bayesartölfræði
 ornery n. ótuktarlegur
 Americanization n. ameríkuvæðing, bandaríkjavæðing
@@ -3302,7 +3307,7 @@ Francophile n. sá sem elskar Frakkland og/eða franska menningu
 Gallophile n. sá sem elskar Frakkland og/eða franska menningu
 moonscape n. landslag sem er eins og á tunglinu (samsetning af %[moon]% og %[landscape]%)
 upriver l. & ao. ofar í ánni
-multilane l. með mörgum akreinum
+multilane l. með mörgum akreinum (sjá %[multi-]% og %[lane]%)
 topographic l. staðlýsingar- (sjá %[topography]%)
 topographical l. staðlýsingar- (sjá %[topography]%)
 gnu n. stór afrísk antílópa
@@ -3334,3 +3339,11 @@ tech-savvy l. tæknifróður, kunnugur tækni
 joule n. júl (mælieining)
 kilojoule n. kílójúl, þúsund júl (sjá mælieininguna %[joule]%)
 megajoule n. megajúl, milljón júl (sjá mælieininguna %[joule]%)
+neofascist n. nýfasisti; l. nýfastistalegur
+neofascism n. nýfasismi
+brainstorm n. heilarok; s. reyna að fá hugmyndir um e-ð [let's ~ this!]
+hitchhike s. ferðast á puttanum
+hitchhiker n. puttaferðalangur
+hitchhiking n. að ferðast á puttanum, puttaferðalög
+shenanigan n. uppátæki; kjánaskapur
+Canterbury n. Kantaraborg
