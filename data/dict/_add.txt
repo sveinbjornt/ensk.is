@@ -2029,7 +2029,7 @@ leaderless l. leiðtogalaus
 milkman n. mjólkurpóstur, mjólkurmaður, mjólkursendill
 Rhodesia n. Ródesía (landsvæði sem er í dag ríkin Sambía og Simbabve)
 manpower n. mannafli, mannafl
-monotheistic l. eingyðistrúarlegur, eingyðistrúar-
+monotheistic l. eingyðistrúarlegur, eingyðistrúar-, eingyðislegur-
 womanizer n. kvennabósi, flagari
 choirboy n. kórdrengur
 willpower n. viljastyrkur
@@ -2508,7 +2508,7 @@ resurface s. koma aftur upp á yfirborðið (sjá %[surface]%)
 knightliness n. riddaramennska, riddaraskapur
 stoppable l. stöðvanlegur
 unstoppable l. óstöðvanlegur
-sunbeaten l. sólbakaður
+sunbeaten l. sólbakaður, sólbarinn
 weaponry n. vopnabúnaður
 dementia n. heilabilun, vitglöp, elliglöp, vitsmunaskerðing
 governorship n. landstjóraembætti
@@ -2609,7 +2609,7 @@ hillside n. hlíð, brekka, fjallshlíð
 Sinophone l. kínverskumælandi; n. e-r sem er kínverskumælandi
 Eurasia n. Evrasía (Evrópa og Asía sem ein heimsálfa)
 Eurasian l. evrasískur (sjá %[Eurasia]%)
-above-mentioned l. fyrrnefndur
+above-mentioned l. ofannefndur, fyrrnefndur
 testable l. prófanlegur, sem hægt er að prófa
 falsifiable l. afsannanlegur
 falsifiability n. afsannanleiki
@@ -2939,7 +2939,7 @@ paranoiac n. ofsóknaróð eða vænisjúk manneskja (sjá %[paranoia]%)
 extraterrestrial l. utan jarðarinnar; n. geimvera
 prestigious l. virtur, mikilsvirtur
 unreliability n. óáreiðanleiki
-subhuman l. ekki alveg mennskur; n. undirmenni
+subhuman l. ekki alveg mennskur, undirmennskur; n. undirmenni
 asphyxiate s. kæfa, kafna
 asphyxiation n. köfnun, kæfing, súrefnisskortur
 asphyxiant n. kæfiefni; l. kæfandi, kæfi-
