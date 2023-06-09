@@ -3,7 +3,7 @@
 
     Ensk.is - Free and open English-Icelandic dictionary
 
-    Copyright (c) 2022, Sveinbjorn Thordarson <sveinbjorn@sveinbjorn.org>
+    Copyright (c) 2023, Sveinbjorn Thordarson <sveinbjorn@sveinbjorn.org>
     All rights reserved.
 
     Redistribution and use in source and binary forms, with or without modification,
@@ -178,8 +178,10 @@ class EnskDatabase(object):
         """Read all entries in a given word category."""
         assert cat is not None
 
+        # Return empty list if category is not valid
         if cat + "." not in CATEGORIES:
             return []
+
         conn = self.conn()
         selected = conn.cursor().execute(
             f"SELECT * FROM dictionary WHERE definition LIKE '%{cat}. %'"

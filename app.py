@@ -36,10 +36,10 @@
 
 """
 
-
 from typing import List, Dict, Tuple, Any, Union
 
 import re
+from functools import wraps
 
 from fastapi import FastAPI, Request, HTTPException
 from fastapi.templating import Jinja2Templates
@@ -47,7 +47,6 @@ from fastapi.staticfiles import StaticFiles
 from fastapi.responses import Response, JSONResponse
 
 from db import EnskDatabase
-from cache import cache_response
 from util import human_size, perc
 from dict import read_wordlist
 
@@ -170,6 +169,32 @@ def _results(q: str, exact_match: bool = False) -> Tuple[List, bool]:
     results = [*equal, *swith, *ewith, *other]
 
     return results, exact_match_found
+
+
+def cache_response(func):
+    """
+    Decorator that indefinitely caches the response of a FastAPI async function.
+
+    Example:
+    ```
+        app = FastAPI()
+
+        @app.get("/")
+        @cache_response
+        async def example():
+            return {"message": "Hello World"}
+    ```
+    """
+    response = None
+
+    @wraps(func)
+    async def wrapper(*args, **kwargs):
+        nonlocal response
+        if not response:
+            response = await func(*args, **kwargs)
+        return response
+
+    return wrapper
 
 
 @app.get("/")

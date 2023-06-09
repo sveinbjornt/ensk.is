@@ -1,4 +1,10 @@
 #!/usr/bin/env python3
+#
+# Read a text file and print all words that are not in the dictionary
+# (and not in the missing list). This is useful for finding words that
+# are missing from the dictionary.
+# TODO: Work directly on epubs instead of text files
+#
 
 from nltk.stem import PorterStemmer
 from nltk.tokenize import sent_tokenize, word_tokenize

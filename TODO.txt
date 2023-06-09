@@ -12,3 +12,4 @@ TODO list for ensk.is:
 * Feedback mechanism for missing words
 * Separate exact match from partial matches visually
 * Generate .dictionary file for macOS, make available for download
+* Mobile app?
