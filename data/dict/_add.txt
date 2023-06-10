@@ -2437,7 +2437,7 @@ pickled l. súrsaður
 euphoniousness n. hljómfegurð (sjá %[euphonious]%)
 sellsword n. málaliði
 killjoy n. gleðispillir
-anecdotal l. frásagnarlegur, anekdótu-
+anecdotal l. frásagnarlegur, frásagnar-, anekdótu-
 communitarian l. samfélagshyggju-; n. samfélagshyggjumaður
 communitarianism n. sam­fé­lags­hyggja
 militarily ao. hernaðarlega
@@ -2640,8 +2640,8 @@ sainthood n. dýrlingatala; [elevated to ~] tekinn í dýrlingatölu
 eloquently ao. mælskulega
 grandmaster n. stórmeistari
 pedagogical l. uppfræðslu-, uppeldislegur
-Byzantium n. Austrómverska keisaradæmið, Býsansríkið, Miklagarðsríkið
-Byzantine l. býsanskur, austrómverskur; flókinn ([~ rules and regulations])
+Byzantium n. Austrómverska keisaradæmið, Býsansríki, Miklagarðsríki
+Byzantine l. býsanskur, austrómverskur; flókinn, skrifræðislegur ([~ rules and regulations])
 mountaintop n. fjallstindur
 maestro n. (tónlistar)meistari (úr ítölsku)
 dwarfism n. dvergvöxtur
@@ -2724,8 +2724,8 @@ Paris n. París (höfuðborg Frakklands); grísk goðsagnapersóna
 lampshade n. lampaskermur
 undefeated l. ósigraður
 acquihire n. þegar fyrirtæki er keypt til þess að komast yfir starfsmenn þess frekar en vörur og þjónustur (samsetning af %[acquisition]% og %[hire]%)
-gerrymander s. hagræða kjördæmum
-gerrymandering n. kjördæmahagræðing
+gerrymander s. hagræða kjördæmum (Band.)
+gerrymandering n. kjördæmahagræðing (Band.)
 Europeanize s. evrópuvæða
 Europeanization n. evrópuvæðing
 Indo-European l. indóevrópskur; n. Indóevrópumaður
@@ -3362,3 +3362,4 @@ birdcage n. fuglabúr
 mauve l. fjólublár
 childishly ao. barnalega ([he was behaving ~])
 teacup n. tebolli
+junta n. herforingjastjórn (úr spænsku)
