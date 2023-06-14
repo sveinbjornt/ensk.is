@@ -1000,7 +1000,7 @@ catalyst n. hvati, efnahvati (í efnafræði); orsakavaldur
 tesseract n. ferverpill (fjórvíður teningur)
 incentivize s. hvetja, skapa hvata (til e-s)
 vis-a-vis fs. sjá %[vis-à-vis]%
-vis-à-vis fs. gagnvart, andspænis, á móti
+vis-à-vis fs. gagnvart, andspænis, á móti; augliti til auglitis
 newbie n. nýgræðingur, byrjandi, grænjaxl
 VIP n. mjög mikilvæg manneskja (stytt. á [very important person])
 educated l. menntaður, vel upplýstur; [an ~ guess] vel grundvölluð ágiskun
@@ -1731,7 +1731,7 @@ theocratic l. klerkastjórnarlegur, klerkastjórnar-
 malform s. afmynda, vanskapa
 malformed l. afmyndaður, vanskapaður
 felicific l. gleðilegur, gleðjandi, sælulegur
-all-powerful l. almáttugur, allsráðandi
+all-powerful l. almáttugur, allsráðandi, alvaldur, sem öllu ræður, sem er með vald yfir öllu ([an ~ god])
 unanswered l. ósvaraður
 individualism n. einstaklingshyggja
 individualistic l. einstaklingshyggjulegur, einstaklingshyggju-
@@ -2292,14 +2292,14 @@ evilness n. illska, vonska
 artificiality n. gervileiki, gervimennska
 uncritical l. ógagnrýninn, óaðfinningasamur; óskarpskyggn (í dómum); sjá %[critical]%
 Cyrillic l. kyrillískur; [~ letters, alphabet] kyrillískt letur, stafróf
-extralegal l. utan (ramma) laganna, utan lagakerfisins
+extralegal l. utan (ramma) laganna, utakerfisins
 hashtag n. myllumerki, kassamerki (#)
 environmentalist n. umhverfisverndarsinni, umhverfisverndarmaður; umhverfisfræðingur
 environmentalism n. umhverfisverndarstefna, umhverfisstefna, umhverfishyggja
 propane n. própan (jarðeldsneyti)
 banditry n. stigamennska (sjá %[bandit]%)
-obsequiously ao. auðvirðilega auðmjúkt
-obsequiousness n. auðvirðileg auðmýkt
+obsequiously ao. auðvirðilega auðmjúkt, á smjaðrandi og undirgefin hátt
+obsequiousness n. auðvirðileg auðmýkt, smjaður og undirgefni
 teaset n. testell
 self-knowledge n. sjálfsþekking
 Levant n. Austurlönd nær (landsvæðið fyrir botni Miðjarðarhafs)
@@ -2309,7 +2309,7 @@ taxonomy n. flokkunarfræði
 taxonomic l. flokkunarfræðilegur
 taxonomist n. flokkunarfræðingur
 horseshit n. hrossaskítur, hestaskítur, hrossatað; kjaftæði, bull (óforml.)
-appeasable l. sefanlegur, friðþægjanlegur
+appeasable l. sefanlegur, friðþægjanan laglegur
 unappeasable l. ósefanlegur, ófriðþægjanlegur
 reassessment n. endurmat (sjá %[assessment]%)
 freeborn l. frjálsborinn
@@ -2377,7 +2377,7 @@ unsubtle l. óslægur; ónæmur; óskarpskyggn (Sjá %[subtle]%)
 necropsy n. krufning
 autobiographer n. sjálfsævisöguritari, sjálfsævisöguhöfundur
 gregariousness n. félagslyndi; að halda sig í hópum
-groupthink n. hóplyndi
+groupthink n. hjarðhugsun, hóplyndi
 chromosome n. litningur
 chromosphere n. lithvolf
 gene n. gen
@@ -2692,7 +2692,6 @@ grandmotherly l. ömmulegur, ömmu-
 byproduct n. aukaafurð
 banal l. ómerkilegur, lítilsverður, hversdagslegur
 banality n. hversdagsleiki, ómerkilegheit ([the ~ of existence]); hversdagslegt orðalag, þreytt klisja
-all-powerful l. almáttugur, alvaldur, sem öllu ræður, sem er með vald yfir öllu ([an ~ god])
 maelstrom n. hringiða; glundroði
 pufferfish n. lundafiskur
 fugu n. lundafiskur
@@ -3359,7 +3358,9 @@ hydrologist n. vatnafræðingur
 hydrological l. vatnafræðilegur, vatnafars-
 street urchin n. götubarn, götukrakki
 birdcage n. fuglabúr
-mauve l. fjólublár
+mauve l. fjólublár; n. liturinn fjólublár
 childishly ao. barnalega ([he was behaving ~])
 teacup n. tebolli
-junta n. herforingjastjórn (úr spænsku)
+junta n. herforingjastjórn
+hematology n. blóðsjúkdómalækningar, blóðsjúkdómafræði
+hematologist n. blóðsjúkdómalæknir, blóðsjúkdómafræðingur
