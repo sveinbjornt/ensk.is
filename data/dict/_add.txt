@@ -271,6 +271,7 @@ calisthenics n. ft. leikfimiæfingar
 calisthenic l. leikfimi-, leikfimiæfinga-
 automation n. sjálfvirkni; sjálfvirknivæðing
 automate s. sjálfvirknivæða
+automatable l. sjálfvirknivæðanlegt (sjá %[automate]%)
 bot n. (stytt. á %[robot]%) vélmenni, þjarkur
 surveillance n. eftirlit
 tweeze s. snyrta með flísatöng
@@ -3364,3 +3365,22 @@ teacup n. tebolli
 junta n. herforingjastjórn
 hematology n. blóðsjúkdómalækningar, blóðsjúkdómafræði
 hematologist n. blóðsjúkdómalæknir, blóðsjúkdómafræðingur
+nitwit n. bjáni, glópur, hálfviti
+bossy l. stjórnsamur, ráðríkur
+dreadlock n. dreddi; [a tall man with dreadlocks] hávaxinn maður með dredda
+peppermint n. piparminta; l. með piparmintubragði
+downsize s. skera niður, minnka við sig
+downsizing n. niðurskurður, minnkun á stærð
+slumlord n. leigusali sem leigir út íbúðir í niðurníðslu eða fátækrahverfum
+nonexistent l. ekki til, sem ekki hefur tilvist
+posse n. flokkur, leitarflokkur, liðsafli
+flatland n. flatlendi (oft í ft. [~s])
+codex n. handrit; bók; [Codex Wormianus] Ormsbók
+bowel l. innyfla-; [~ movements] hægðir, innyflahreyfingar
+hothead n. æsingamaður, e-r sem er hvatvís, skapmikill, bráðlátur
+sexism n. kynjamismunun, kynjamisrétti, kynjafordómar, karl- eða kvenremba
+sexist n. karlremba, kvenremba; l. kynjafordóma-, karlrembu-, kvenrembu-
+drumbeat n. trommusláttur
+ambassadorship n. sendiherrastarf, sendiherraembætti
+pneumonic l. lungna-
+Moscow n. Moskva (höfuðborg Rússlands)

@@ -469,6 +469,8 @@ SKIP = frozenset(
         "unorthodoxy",
         "uploadable",
         "weaponization",
+        "automatable",
+        "dreadlock",
     )
 )
 
