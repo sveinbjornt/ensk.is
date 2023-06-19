@@ -29,18 +29,21 @@ def synthesize_word(w: str, dest_folder=None, voice="Daniel") -> Optional[str]:
         # This word has already been synthesised
         return None
 
-    args = [_SPEECHSYNTH_CLT]
-    args.append("-v")
-    args.append(voice)
-    # args.append("-r")
-    # args.append("89")
-    # args.append("--file-format=WAVE")
-    args.append("-o")
+    cmd = [_SPEECHSYNTH_CLT]
+    cmd.append("-v")
+    cmd.append(voice)
+    # cmd.append("-r")
+    # cmd.append("89")
+    # cmd.append("--file-format=WAVE")
+    cmd.append("-o")
     fn = f"{f}.aiff"
+
+    # TODO: assert exists subfolder path
+
     outpath = f"{dest_folder}/{subfolder}/{fn}"
-    args.append(outpath)
-    args.append(w)
-    subprocess.run(args)
+    cmd.append(outpath)
+    cmd.append(w)
+    subprocess.run(cmd)
     return outpath
 
 

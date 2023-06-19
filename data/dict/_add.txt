@@ -367,10 +367,10 @@ pixel n. díll, punktur, myndeining (í stafrænni mynd)
 playboy n. glaumgosi
 playlist n. spilunarlisti; lagalisti
 plaza n. torg
-processor n. örgjörvi; úrvinnsluaðili (sjá %[process]%)
+processor n. örgjörvi; úrvinnsluforrit eða úrvinnsluaðili (sjá %[process]%)
 word processor n. ritvinnsluforrit
 semiconductor n. hálfleiðari (í rafmagnsverkfræði)
-latency n. biðtími (í samskiptum yfir net)
+latency n. biðtími (í samskiptum yfir net eða í eðlisfræðilegum ferlum)
 euphoria n. sæluvíma, alsæla
 euphoric l. í sæluvímu, alsæll
 restructuring n. endurskipulagning
@@ -3151,7 +3151,6 @@ smog n. þreykur, reykþoka, reykjarmóða, mengunarský
 meltwater n. leysingarvatn
 subglacial l. undir jökli
 gambling n. fjárhættuspil
-pachyderm n. þykkskinnungur (ættkvísl spendýra)
 bioinformatics n. ft. lífgagnatækni
 monoxide n. mónoxíð, einoxíð
 roadside n. vegkantur; l. á vegkanti
@@ -3379,8 +3378,12 @@ codex n. handrit; bók; [Codex Wormianus] Ormsbók
 bowel l. innyfla-; [~ movements] hægðir, innyflahreyfingar
 hothead n. æsingamaður, e-r sem er hvatvís, skapmikill, bráðlátur
 sexism n. kynjamismunun, kynjamisrétti, kynjafordómar, karl- eða kvenremba
-sexist n. karlremba, kvenremba; l. kynjafordóma-, karlrembu-, kvenrembu-
+sexist n. manneskja sem er karlremba eða kvenremba; l. kynjafordóma-, karlrembu-, kvenrembu- ([~ outlook, opinions])
 drumbeat n. trommusláttur
 ambassadorship n. sendiherrastarf, sendiherraembætti
 pneumonic l. lungna-
+pneumonitis n. millivefslungnabólga
 Moscow n. Moskva (höfuðborg Rússlands)
+oligarch n. ólígarki, fámennisstjórnarmaður (sjá %[oligarchy]%)
+dermal l. húð-, húðkerfis-
+subdermal l. undirhúðar-, undir húðinni
