@@ -471,6 +471,9 @@ SKIP = frozenset(
         "weaponization",
         "automatable",
         "dreadlock",
+        "Anglophilia",
+        "pneumonitis",
+        "subdermal",
     )
 )
 
@@ -479,14 +482,18 @@ entries = EnskDatabase().read_all_additions()
 
 no_ipa = [e["word"] for e in entries if e["ipa_uk"] == ""]
 not_ascii = [e for e in no_ipa if not is_ascii(e)]
+with_whitespace = [e for e in no_ipa if " " in e]
 not_ignored = [
-    e for e in no_ipa if e not in SKIP and e not in not_ascii and " " not in e
+    e
+    for e in no_ipa
+    if e not in SKIP and e not in not_ascii and e not in with_whitespace
 ]
 
 print(f"Num w. no IPA: {len(no_ipa)}")
 print(f"Ignoring {len(not_ascii)} non-ASCII words")
 print(f"Ignoring {len(SKIP)} whitelisted words")
-
+print(f"Ignoring {len(with_whitespace)} words with whitespace")
+print(f"Fetching IPA for {not_ignored}")
 
 for e in no_ipa:
     if " " in e or e in SKIP or not is_ascii(e):

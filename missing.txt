@@ -20,7 +20,6 @@ mug
 hijack
 hijacker
 gourmet
-coordinator
 layout
 anyway
 catering
@@ -105,7 +104,6 @@ inline
 online
 deployment
 integration
-collectible
 manufacturing
 supercede
 goth
@@ -121,7 +119,6 @@ widescreen
 consortium
 footage
 headline
-derby
 adaptor
 softball
 quad
@@ -154,7 +151,6 @@ give up
 connectivity
 collectible
 collectibles
-characterization
 characterized
 qubit
 buffer
@@ -163,7 +159,6 @@ browse
 sexuality
 syndication
 troubleshoot
-unauthorized
 unsigned
 waiver
 yahoo
@@ -268,14 +263,11 @@ deadline
 differential
 dryer
 essentially
-footage
 financing
 graph
 harassment
-heater
 highlight
 identification
-institutional
 instrumentation
 intel
 parabiosis
@@ -292,12 +284,10 @@ offence
 ongoing
 onto
 paintball
-peripheral
 programming
 promotional
 referral
 regulatory
-relatively
 relevance
 irrelevance
 throughput
@@ -328,8 +318,6 @@ concerned
 meticulous
 meticulousness
 demonstrated
-justified
-purposefulness
 purposive
 underlabourer
 proponent
@@ -343,13 +331,11 @@ ceaselessly
 peddler
 deep-rooted
 infected
-extrapolation
 embellished
 institutionalize
 institutionalized
 preoccupation
 enthusiastically
-essentially
 compelling
 Newtonian
 Newtonianism
@@ -424,14 +410,12 @@ unmotivated
 normative
 arguable
 arguably
-intersubjective
 hard-wired
 common-sensical
 subjectivism
 non-subjective
 undistinguished
 stylistic
-misguided
 universalism
 universalist
 contractarian
@@ -444,7 +428,6 @@ immediacy
 endurant
 stop-gap
 pre-empt
-compelling
 marginalization
 irreconcilability
 abductive
@@ -452,14 +435,12 @@ self-proclaimed
 underdetermination
 elitism
 elitist
-betterment
 relativity (endurskoða skilgr.)
 quintessential
 dysmorphia
 dysmorphic
 extrapolate
 extrapolation
-selectivity
 curved
 typesetter
 readjustment
@@ -467,11 +448,9 @@ genuinely
 repeating
 experimentally
 imposed
-selective
 involved
 unwarranted
 philanderer
-self-satisfied
 temperamental
 self-loathing
 hypocritically
@@ -497,7 +476,6 @@ panopticon
 Confucianism
 Confucian
 full-blooded
-intellectually
 crate
 kindliness
 completeness
@@ -548,7 +526,6 @@ informativeness
 hypostatize
 selective
 selectivity
-unwarranted
 interrelated
 Elizabethan
 self-centered
@@ -557,7 +534,6 @@ eurocentrism
 public-spirited
 domesticity
 incrimination
-
 wastepaper
 unappetizing
 downtrodden
@@ -569,7 +545,6 @@ differentiate
 differentiation
 identifiable
 unidentifiable
-generalization
 regimentation
 unofficial
 puritanical
@@ -642,7 +617,6 @@ unintelligent
 teeter
 windless
 conscientiously
-full-blooded
 unleash
 acrobatic
 acrobatics
@@ -659,7 +633,6 @@ Aryanism
 ethnostate
 cacophonous
 cacography
-caconym
 cacodemon
 eudaemon
 eudaemonia
@@ -672,7 +645,6 @@ brutalist
 glob
 pasha
 smithereen
-djinn
 psychosexual
 quinze
 jape
@@ -704,7 +676,6 @@ jogging
 pinpoint
 tabloid
 short-tempered
-outcrop
 understatement
 shipmate
 crewman
@@ -723,7 +694,6 @@ bewildered
 straightforward
 savvy
 stopover
-sophistication
 cataclysmic
 pricey
 reorient
@@ -734,8 +704,6 @@ installment
 outboard
 chitchat
 nanny
-arguable
-arguably
 powerhouse
 mixed-race
 strong-arm
@@ -809,7 +777,6 @@ unskilled
 unapologetic
 deadpan
 incoming
-unofficial
 brainiac
 nonessential
 announcer
@@ -842,7 +809,6 @@ longhouse
 lifestyle
 unfamiliarity
 flatbread
-seawater
 farmland
 guesstimate
 nonexistence
@@ -856,14 +822,12 @@ rightward
 leftward
 advisement
 mogul
-reestablish
 fistfight
 grassroot
 medic
 statehood
 ethnicity
-interconnected
-defund s.
+defund
 thylacine
 dunnart
 rewild
@@ -1011,7 +975,6 @@ unpatriotic
 stateless
 containment
 undercover
-conspiratorial
 fussiness
 retrospectively
 victimhood
@@ -1113,7 +1076,6 @@ melodramatic
 melodramatics
 steadily
 strategist
-centrepiece
 walkway
 capitulary
 hoodlum
@@ -1173,7 +1135,6 @@ vegetarianism
 vegetarian
 frictionless
 backwater
-oligarch
 oligarchic
 ornateness
 expeditionary
@@ -1221,7 +1182,6 @@ overlordship
 liminal
 megacity
 mangonel
-fearsome
 unbelievable
 tantalizing
 manoeuvrable
@@ -1357,7 +1317,6 @@ payslip
 disinterest
 typeset
 addendum
-stratosphere
 apologist
 brownstone
 seamless
@@ -1455,7 +1414,6 @@ spikey
 innumerate
 catalytic
 brazenness
-officialdom
 notepad
 corporatist
 bottom-feeder
@@ -1560,9 +1518,7 @@ comestible
 shrillness
 reunification
 impermanence
-Anglophilia
 authorial
-functionalism
 self-pity
 denouement
 diagnostician
@@ -1876,7 +1832,6 @@ storefront
 shamble
 groundskeeper
 fiefdom
-beltway
 carte blanche
 demote
 decouple
@@ -1933,7 +1888,6 @@ revelatory
 phenotype
 recruiter
 atomization
-infiltration
 systematization
 scientificity
 organicist
@@ -1941,7 +1895,6 @@ referent
 blacklist
 blacklisted
 otherness
-interethnic
 productivist
 calculative
 sectorial
@@ -1981,7 +1934,6 @@ unitary
 derealization
 bridgehead
 evacuee
-salvific
 addressee
 telex
 secretarial
@@ -2022,7 +1974,6 @@ metonymic
 metonymical
 metonymically
 sociologism
-psychologism
 wellspring
 hero-worship
 liberationist
@@ -2435,8 +2386,6 @@ craftily
 delator
 raspy
 halyard
-layover
-boondocks
 splenetic
 gimp
 casuist
@@ -2494,7 +2443,6 @@ coronary
 helion
 skillet
 foreplay
-auspex
 afresh
 parodic
 juvenilia
@@ -2524,10 +2472,8 @@ peloton
 cyberpunk
 steampunk
 petrodollar
-blueprint
 megastructure
 monorail
-prefabricate
 podium
 heteronym
 ethnonym
@@ -2544,14 +2490,12 @@ exonym
 whingy
 fletcher
 fletch
-operational
 subduction
 emotive
 emotivism
 emotivist
 intuitionism
 intuitionist
-contractarian
 Thomist
 Thomistic
 situatedness
@@ -2614,8 +2558,6 @@ dilemmatic
 impasse
 interiorization
 preempt
-preemption
-preemptive
 particularist
 Neoplatonism
 Neoplatonist
@@ -2647,7 +2589,6 @@ historicist
 historicism
 relentlessness
 phronetic
-frenetic
 overgeneralization
 generalization
 natalist
@@ -2975,8 +2916,6 @@ substantiation
 reservist
 presumably
 potentially
-oligarch
-chore
 variadic
 arity
 fracking
@@ -3066,7 +3005,6 @@ biorefinery
 freeloader
 freeload
 catchword
-counter-culture
 android
 soufflé
 cabby
@@ -3136,7 +3074,6 @@ intuitively
 jobholder
 strongman
 extortionist
-inherently
 second-guess
 comedic
 sanitizer
@@ -3182,7 +3119,6 @@ feverishly
 placatory
 ageless
 pisspot
-fait accompli
 bonhomie
 flawless
 luminescence
@@ -3251,7 +3187,6 @@ smelly
 forevermore
 revanchism
 revanchist
-prosopography
 palantir
 runtime
 wellingtons
@@ -3262,3 +3197,4 @@ drinking
 wifi
 threaded
 charabanc
+funicular

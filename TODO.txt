@@ -7,7 +7,7 @@ TODO list for ensk.is:
 * Use paralell corpora
 * Do lookup of english word cats for each entry and see if there is the appropriate correspondence
 * Write tests, extend verify.py
-* Rm phonetic spelling from DB files
+* Rm IPA data from the DB file made available for download
 * Find IPA phonetic spelling for *all* words via Wiktionary
 * Feedback mechanism for missing words
 * Separate exact match from partial matches visually
