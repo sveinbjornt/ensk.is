@@ -41,6 +41,7 @@ from typing import List, Tuple, Optional
 
 import os
 import csv
+import datetime
 
 import sqlite_utils
 
@@ -122,7 +123,6 @@ def add_entries_to_db(entries: EntryList) -> EnskDatabase:
     for e in entries:
         # (w, definition, ipa_uk, ipa_us, pn) = e
         # print(f"Adding {w}")
-        # db.add_entry(w, definition, ipa_uk, ipa_us, pn)
         db.add_entry(*e)
 
     db.conn().commit()
@@ -130,11 +130,30 @@ def add_entries_to_db(entries: EntryList) -> EnskDatabase:
     return db
 
 
-def generate_database(entries: EntryList) -> str:
-    """Generate SQLite database. Returns filename."""
+def add_metadata_to_db() -> EnskDatabase:
+    """Add metadata to database."""
+    db = EnskDatabase()
+    db.add_metadata("name", "ensk.is")
+    db.add_metadata("description", "Free and open English-Icelandic dictionary")
+    db.add_metadata("license", "Public domain")
+    db.add_metadata("website", "https://ensk.is")
+    db.add_metadata("source", "https://github.com/sveinbjornt/ensk.is")
+    db.add_metadata("editor", "Sveinbjorn Thordarson")
+    db.add_metadata("editor_email", "sveinbjorn@sveinbjorn.org")
+    db.add_metadata("generation_date", datetime.datetime.utcnow().isoformat())
+    return db
 
-    delete_db()  # Remove pre-existing database file
-    db = add_entries_to_db(entries)  # Generate new db
+
+def generate_database(entries: EntryList) -> str:
+    """Generate SQLite database and create a corresponding zip archive.
+    Returns path to zip file."""
+
+    # Remove pre-existing database file
+    delete_db()
+
+    # Create new db and add data
+    db = add_metadata_to_db()
+    db = add_entries_to_db(entries)
     sqlite_utils.Database(db.db_conn).table("dictionary").enable_fts(
         ("word", "definition")
     )
@@ -203,7 +222,6 @@ def gen() -> None:
     print("Reading entries...")
     entries = read_all_entries()
     print(f"{len(entries)} entries read")
-    # print(entries)
 
     print("Generating SQLite3 database")
     generate_database(entries)

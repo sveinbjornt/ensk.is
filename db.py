@@ -76,8 +76,8 @@ class EnskDatabase(object):
         # Create database file
         conn = sqlite3.connect(self._dbpath)
 
-        # Create table
-        create_table_sql = """
+        # Create dictionary table
+        create_dictionary_table_sql = """
             CREATE TABLE dictionary (
                 id INTEGER UNIQUE PRIMARY KEY NOT NULL,
                 word TEXT,
@@ -87,8 +87,16 @@ class EnskDatabase(object):
                 page_num INTEGER
             );
         """
+        conn.cursor().execute(create_dictionary_table_sql)
 
-        conn.cursor().execute(create_table_sql)
+        # Create metadata table
+        create_metadata_table_sql = """
+            CREATE TABLE metadata (
+                key TEXT UNIQUE PRIMARY KEY NOT NULL,
+                value TEXT
+            );
+        """
+        conn.cursor().execute(create_metadata_table_sql)
 
     def reinstantiate(self) -> "EnskDatabase":
         """Reinstantiate database."""
@@ -131,6 +139,14 @@ class EnskDatabase(object):
         )
         if commit:
             conn.commit()
+
+    def add_metadata(self, key: str, value: str) -> None:
+        """Add a single metadata entry to the database."""
+        conn = self.conn()
+        conn.cursor().execute(
+            "INSERT INTO metadata (key, value) VALUES (?,?)", [key, value]
+        )
+        conn.commit()
 
     def _consume(self, cursor: sqlite3.Cursor) -> List[Dict]:
         """Consume cursor and return list of rows."""

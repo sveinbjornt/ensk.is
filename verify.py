@@ -213,14 +213,16 @@ def check_missing():
     """Check integrity of missing.txt file."""
     words = read_wordlist("missing.txt", unique=False)
     unique = list(set(words))
-    print(len(words))
-    print(len(unique))
+    # print(len(words))
+    # print(len(unique))
     # print(words[-10:])
     # print(unique[-10:])
 
     if len(words) != len(unique):
+        already = set()
         for w in words:
-            if words.count(w) > 1:
+            if words.count(w) > 1 and w not in already:
+                already.add(w)
                 print(f"Duplicate word in missing.txt: {w}")
         exit(1)
 
@@ -242,7 +244,7 @@ def verify():
             # check_english_words(line, letter, ln)
             # check_enword_def(line, letter, ln)
 
-    # check_missing()
+    check_missing()
 
     exit(warnings > 0)
 
