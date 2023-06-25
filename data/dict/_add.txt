@@ -1036,7 +1036,7 @@ convinced l. sannfærður; [he was ~ that ...]
 kakistocracy n. stjórn hinna verstu
 prepaid l. fyrirframgreiddur, borgaður fyrirfram
 fascinating l. heillandi, töfrandi
-benchmark n. viðmið, viðmiðun, afkastaprófun, afkastamæling; s. mæla afköst (út frá viðmiðum)
+benchmark n. viðmið, viðmiðun; afkastaprófun, afkastamæling; s. mæla afköst (út frá viðmiðum)
 sensitivity n. næmni, viðkvæmni
 transsexual n. kynskiptingur, trans manneskja; l. kynskiptings-, trans-
 tranny n. (niðrandi) sjá %[transsexual]%
@@ -1361,7 +1361,7 @@ New World n. Nýi heimurinn (álfurnar Suður- og Norður-Ameríka, og Eyjaálfa
 Old World n. Gamli heimurinn (álfurnar Evrópa, Asía og Afríka)
 criminological n. afbrotafræðilegur, glæpafræðilegur
 criminologist n. afbrotafræðingur, glæpafræðingur
-empathy n. samkennd, samúð, hluttekning
+empathy n. samkennd, samúð, hluttekning, að finna til með einhverjum
 empathetic l. samkenndarsamur, samúðarfullur, tilfinningalega skilningsríkur, hluttekningarsamur
 empathize s. finna til með, hafa samúð með, skilja tilfinningalega, skilja hvernig e-m líður
 pilum n. rómverskt kastspjót
@@ -2904,7 +2904,7 @@ psephology n. kosningafræði (tölfræðilegar rannsóknir á kosningum)
 seriously ao. alvarlega; í alvörunni
 unendurable l. óbærilegur, óþolanlegur, óþolandi
 anyone fn. hver sem er, nokkur, neinn
-peacetime n. friðartími, friðartímar
+peacetime n. friðartími, friðartímar; [in ~] á friðartímum
 light industry n. léttiðnaður
 heavy industry n. þungaiðnaður
 inter alia ao. meðal annars (úr latínu)
@@ -3366,10 +3366,10 @@ hematology n. blóðsjúkdómalækningar, blóðsjúkdómafræði
 hematologist n. blóðsjúkdómalæknir, blóðsjúkdómafræðingur
 nitwit n. bjáni, glópur, hálfviti
 bossy l. stjórnsamur, ráðríkur
-dreadlock n. dreddi; [a tall man with dreadlocks] hávaxinn maður með dredda
+dreadlock n. dreddi (samofinn hárlokkur); [a tall man with dreadlocks] hávaxinn maður með dredda
 peppermint n. piparminta; l. með piparmintubragði
 downsize s. skera niður, minnka við sig
-downsizing n. niðurskurður, minnkun á stærð
+downsizing n. niðurskurður, minnkun á stærð eða umfangi
 slumlord n. leigusali sem leigir út íbúðir í niðurníðslu eða fátækrahverfum
 nonexistent l. ekki til, sem ekki hefur tilvist
 posse n. flokkur, leitarflokkur, liðsafli
@@ -3378,14 +3378,16 @@ codex n. handrit; bók; [Codex Wormianus] Ormsbók
 bowel l. innyfla-; [~ movements] hægðir, innyflahreyfingar
 hothead n. æsingamaður, e-r sem er hvatvís, skapmikill, bráðlátur
 sexism n. kynjamismunun, kynjamisrétti, kynjafordómar, karl- eða kvenremba
-sexist n. manneskja sem er karlremba eða kvenremba; l. kynjafordóma-, karlrembu-, kvenrembu- ([~ outlook, opinions])
+sexist n. karlremba, kvenremba, manneskja sem gerir upp á milli kynja; l. kynjafordóma-, karlrembu-, karlrembulegur, kvenrembu-, kvenrembulegur ([~ outlook, opinions])
 drumbeat n. trommusláttur
-ambassadorship n. sendiherrastarf, sendiherraembætti
+ambassadorship n. sendiherraembætti, sendiherrastarf
 pneumonic l. lungna-
 pneumonitis n. millivefslungnabólga
 Moscow n. Moskva (höfuðborg Rússlands)
 oligarch n. ólígarki, fámennisstjórnarmaður (sjá %[oligarchy]%)
-oligarchic l. fámennisstjórnar- (sjá %[oligarchy]%)
+oligarchic l. ólígarka-, fámennisstjórnar- (sjá %[oligarchy]%)
 dermal l. húð-, húðkerfis-
 subdermal l. undirhúðar-, undir húðinni
 Anglophilia n. ást á Englandi og/eða öllu ensku
+democratically ao. lýðræðislega
+undemocratically ao. ólýðræðislega
