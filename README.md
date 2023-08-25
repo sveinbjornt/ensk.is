@@ -1,5 +1,5 @@
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
-[![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/)
+[![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
 [![Build](https://github.com/sveinbjornt/ensk.is/actions/workflows/python-app.yml/badge.svg)]()
 
 # ensk.is
@@ -43,10 +43,10 @@ Additions can be viewed [here](data/dict/_add.txt).
 
 ## Deployment
 
-The ensk.is web application is implemented using the
+The ensk.is an ASGI web application implemented using the
 [FastAPI](https://fastapi.tiangolo.com/) Python web framework.
 To deploy it, you need to set up a Python virtual
-environment (3.7+) and install dependencies:
+environment (3.8+) and install dependencies:
 
 ```sh
 virtualenv -p /path/to/python3 venv
@@ -66,6 +66,8 @@ Run the web application via [`uvicorn`](https://www.uvicorn.org/):
 ```sh
 uvicorn app:app --reload
 ```
+
+Should also work with any other reasonable ASGI server.
 
 ## Development
 
