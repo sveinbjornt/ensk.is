@@ -3392,3 +3392,8 @@ Anglophilia n. ást á Englandi og/eða öllu ensku
 democratically ao. lýðræðislega
 undemocratically ao. ólýðræðislega
 lexical l. lesorðasafns-; orðabókar-, orðabókagerðar-
+institutionalize s. leggja inn á stofnun; stofnanavæða
+institutionalized l. lagður inn á stofnun; stofnanavæddur
+institutionalization n. stofnanavæðing; innlögn á stofnun
+ouroboros n. snákur, dreki eða ormur sem er að gleypa sjálfan sig
+ouroborosian l. eins og snákur að gleypa sjálfan sig (sjá %[ouroboros]%)
