@@ -11,7 +11,6 @@ computer n. tölva, reiknivél; e-r sem reiknar, reiknari
 algorithm n. algrím, reiknirit
 algorithmic l. reiknirits-, algríms-, algrímskur
 heliocentrism n. sólmiðjukenning
-heliocentric l. sólmiðju-
 geoheliocentrism n. jarðsólmiðjukenning stjarnfræðingsins Tycho Brahe ([the Tychonic system])
 geoheliocentric l. jarðsólmiðjukenningar- (sjá %[geoheliocentrism]%)
 pseudoscience n. gervivísindi
@@ -3397,3 +3396,8 @@ institutionalized l. lagður inn á stofnun; stofnanavæddur
 institutionalization n. stofnanavæðing; innlögn á stofnun
 ouroboros n. snákur, dreki eða ormur sem er að gleypa sjálfan sig
 ouroborosian l. eins og snákur að gleypa sjálfan sig (sjá %[ouroboros]%)
+Plato n. Platón (forngrískur heimspekingur)
+Neoplatonism n. nýplatónismi (heimspekistefna frá 3. öld e.Kr.)
+Neoplatonist n. nýplatónisti, fylgismaður nýplatónisma (sjá %[Neoplatonism]%)
+Neoplatonic l. nýplatónskur (sjá %[Neoplatonism]%)
+Helios n. Helíos (forngrískt sólgoð)

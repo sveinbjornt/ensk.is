@@ -474,6 +474,13 @@ SKIP = frozenset(
         "Anglophilia",
         "pneumonitis",
         "subdermal",
+        "Neoplatonic",
+        "Neoplatonism",
+        "Neoplatonist",
+        "ouroboros",
+        "ouroborosian",
+        "Plato",
+        "Helios",
     )
 )
 
