@@ -481,6 +481,8 @@ SKIP = frozenset(
         "ouroborosian",
         "Plato",
         "Helios",
+        "geoposition",
+        "self-examination",
     )
 )
 

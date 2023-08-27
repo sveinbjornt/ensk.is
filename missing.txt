@@ -1507,15 +1507,11 @@ trauma
 insouciant
 cross-examination
 cross-examine
-self-examination
-self-conscious
 self-importance
 socialite
 orotundity
 comestible
 shrillness
-reunification
-impermanence
 authorial
 self-pity
 denouement
@@ -1526,7 +1522,6 @@ balkanization
 agronomic
 visceral
 paternalist
-insightful
 radiator
 hotspot
 ergonomic
@@ -1534,7 +1529,6 @@ ergonomics
 domestication
 seasonality
 subfield
-backlash
 egoistic
 self-aggrandizement
 technocratic
@@ -1567,7 +1561,6 @@ ephemerality
 outlier
 evolutionism
 faraway
-troublemaker
 effacement
 protoplasmic
 outback
@@ -1611,7 +1604,6 @@ peonage
 estuarine
 intertidal
 underwater
-shoreline
 commonsensical
 cultivar
 urbanism
@@ -1663,7 +1655,6 @@ highlander
 aerodynamic
 morphological
 unforeseen
-overtone
 notation
 demiurgic
 sculptural
@@ -1850,7 +1841,6 @@ structuralist
 crystallization
 immanence
 legitimization
-
 stylization
 interethnic
 militancy
@@ -2036,7 +2026,6 @@ countermeasure
 birdshot
 backfire
 bullhorn
-bullwhip
 relearn
 multiethnic
 unshakable
@@ -2338,7 +2327,6 @@ pesky
 substandard
 yesteryear
 amok
-geoposition
 jackrabbit
 tracker
 mutate
@@ -2364,7 +2352,6 @@ untellable
 etcher
 confines
 Pyrrhic
-seacoast
 officiousness
 prefecture
 aromatics
@@ -2535,7 +2522,6 @@ ameliorist
 midpoint
 quantifier
 modifier
-probabilistic
 explicability
 representable
 reflexivity
@@ -3200,3 +3186,5 @@ anomy
 gadzooks
 areola
 ablation
+diatomite
+gyrfalcon
