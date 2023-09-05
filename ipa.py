@@ -483,6 +483,7 @@ SKIP = frozenset(
         "Helios",
         "geoposition",
         "self-examination",
+        "unpersuasive",
     )
 )
 

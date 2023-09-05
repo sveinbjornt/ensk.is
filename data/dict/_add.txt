@@ -502,6 +502,7 @@ hyperactivity n. ofvirkni
 upholstery n. bólstrun
 hagiography n. helgisaga, dýrlingasaga; helgisagnaritun
 hagiographer n. helgisagnaritari, dýrlingasöguritari
+hagiographic l. helgisagna-, dýrlingasögu-
 hagiographical l. helgisagna-, dýrlingasögu-
 volcanology n. eldfjallafræði
 volcanological l. eldfjallafræðilegur, eldfjallafræði-
@@ -3414,3 +3415,14 @@ impermanence n. óvaranleiki
 reunification n. endursameining, sameining á ný
 self-conscious l. sjálfsmeðvitaður, meðvitaður um sjálfan sig
 self-examination n. sjálfsskoðun, sjálfsrannsókn
+hysterectomy n. legnám
+unpersuasive l. ósannfærandi
+bedpost n. rúmstólpi
+gherkin n. smágúrka, gúrka
+artichoke n. þistilhjarta, ætiþistill
+homesickness n. heimþrá
+# stabilize
+# destabilize
+# stabilizer
+# stabilization
+# destabilization
