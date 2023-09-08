@@ -2488,7 +2488,7 @@ patronym n. föðurnafn
 matronym n. móðurnafn
 matronymic l. móðurnafns; móðurnafn
 medievalist n. miðaldafræðingur
-insecticide n. skordýraeitur
+insecticide n. skordýraeitur; skordýramorð
 legibility n. læsileiki (sjá %[legible]%)
 illegibility n. ólæsileiki (sjá %[legible]%)
 trade union n. stéttarfélag, verkalýðsfélag
@@ -3421,6 +3421,9 @@ bedpost n. rúmstólpi
 gherkin n. smágúrka, gúrka
 artichoke n. þistilhjarta, ætiþistill
 homesickness n. heimþrá
+fin whale n. langreyður
+blue whale n. steypireyður
+minke whale n. hrefna
 # stabilize
 # destabilize
 # stabilizer
