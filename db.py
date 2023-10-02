@@ -112,13 +112,17 @@ class EnskDatabase(object):
                 db_uri += "?mode=ro"
             logging.info(f"Opening database connection at {db_uri}")
             self.db_conn = sqlite3.connect(
-                db_uri, uri=True, check_same_thread=(read_only is False)
+                db_uri,
+                uri=True,
+                check_same_thread=(read_only is False),
             )
 
             # Return rows as key-value dicts
             self.db_conn.row_factory = lambda c, r: dict(
                 zip([col[0] for col in c.description], r)
             )
+
+            # self.db_conn.execute("PRAGMA cache_size=-10000")
 
         return self.db_conn
 
