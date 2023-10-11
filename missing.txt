@@ -1503,7 +1503,6 @@ moralism
 bohemian
 ego
 trauma
-insouciant
 cross-examination
 cross-examine
 self-importance
@@ -1512,7 +1511,6 @@ orotundity
 comestible
 shrillness
 authorial
-self-pity
 denouement
 diagnostician
 flagstone
@@ -3261,3 +3259,7 @@ cosmodrome
 spaceport
 sophomoric
 gallimaufry
+metrosexual
+metrology
+metronomic
+metroplex
