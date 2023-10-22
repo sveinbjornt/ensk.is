@@ -484,6 +484,9 @@ SKIP = frozenset(
         "geoposition",
         "self-examination",
         "unpersuasive",
+        "necrophile",
+        "necrophilism",
+        "self-annihilation",
     )
 )
 

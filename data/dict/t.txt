@@ -252,8 +252,7 @@ tempest n. ofviðri, stormur; ofsi; s. æsa upp ([~ the sea, the deep])
 tempestuous l. illviðrasamur; illviðris- ([a ~ night]); ofsalegur; ákafur
 tempestuousness n. ofsi
 templar n. templari, musterisriddari ([Knight Templar]); lögfræðingur
-temple n. hof; musteri; kirkja
-temple n. gagnauga, þunnvangi
+temple n. hof; musteri; kirkja; gagnauga, þunnvangi
 temporal l. sem lýtur að gagnaugunum; [~ bone] gagnaugabein
 temporal l. stundlegur, tímanlegur, veraldlegur
 temporality n. veraldleiki; ft. [temporalities] tekjur prests eða kirkju
@@ -297,9 +296,9 @@ tenfold l. tífaldur
 tennis n. tennis (e.k. knattleikur)
 tenor n. millirödd (í söng); stefna, hugsunarstefna; hugsun; efni ([the ~ of a discourse])
 tense n. tíð í málfræði t.d. [the present ~]
-tense l. þaninn, hertur
-tension n. þensla, þensluafl; áreynsla; fáleikar
-tent n. tjald; líntæja sem látin er ofan í sár til að halda því opnu; s. búa í tjaldi (tjöldum); halda sári opnu með líntæjum
+tense l. þaninn, hertur, spenntur; upptrekktur, órólegur
+tension n. spenna, óróleiki; þensla, þensluafl; áreynsla; fáleikar
+tent n. tjald; líntæja sem látin er ofan í sár til að halda því opnu; s. búa í tjaldi (tjöldun); halda sári opnu með líntæjum
 tented l. þakinn tjöldum
 tentpeg n. tjaldhæll
 tentacle n. fálmangi

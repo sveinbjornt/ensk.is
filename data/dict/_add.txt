@@ -3416,7 +3416,7 @@ reunification n. endursameining, sameining á ný
 self-conscious l. sjálfsmeðvitaður, meðvitaður um sjálfan sig
 self-examination n. sjálfsskoðun, sjálfsrannsókn
 hysterectomy n. legnám
-unpersuasive l. ósannfærandi
+unpersuasive l. ósannfærandi, ekki sannfærandi
 bedpost n. rúmstólpi
 gherkin n. smágúrka, gúrka
 cornichon n. smágúrka
@@ -3428,10 +3428,14 @@ minke whale n. hrefna
 metronome n. taktmælir
 self-pity n. sjálfsvorkunn, sjálfsmeðaumkun
 insouciant l. áhyggjulaus, kærulaus, afskiptalaus
+insouciance n. áhyggjuleysi, kæruleysi, afskiptaleysi
 necrophilia n. mök við lík; náfíkn, náfrygð
-necrophile n. náriðill, e-r sem á mök við lík
+necrophilism n. náfrygð
+necrophile n. sjá %[necrophiliac]%
 necrophiliac n. náriðill, e-r sem á mök við lík
 tinnitus n. eyrnasuð
+self-annihilation n. sjálfstortíming, sjálfseyðing
+transformative l. umbreytandi, mótandi, ummótandi
 # stabilize
 # destabilize
 # stabilizer
