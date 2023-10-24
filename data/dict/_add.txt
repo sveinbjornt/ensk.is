@@ -799,7 +799,7 @@ unsubscribe s. segja upp áskrift
 camouflage n. felulitur, felubúningur, dulbúningur, dulklæði; s. felulita, felubúa, dulbúa, dulklæða
 endangered l. í hættu, í voða; [~ species] dýrategund í útrýmingarhættu
 occupational l. starfs-, atvinnu-; [~ hazard] atvinnuáhætta, áhætta sem fylgir e-i starfsemi
-endogenous l. kominn innan frá (lífveru) (líffræðilegt hugtak)
+endogenous l. kominn innan frá (lífveru)
 endogamous l. innvensla-
 endogamy n. innvensl (hjúskapur innan sama ættflokks)
 multicultural l. fjölmenningar-; [~ society] fjölmenningarsamfélag
@@ -3436,6 +3436,7 @@ necrophiliac n. náriðill, e-r sem á mök við lík
 tinnitus n. eyrnasuð
 self-annihilation n. sjálfstortíming, sjálfseyðing
 transformative l. umbreytandi, mótandi, ummótandi
+endorphin n. endorfín
 # stabilize
 # destabilize
 # stabilizer
