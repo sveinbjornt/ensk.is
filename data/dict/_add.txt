@@ -2768,7 +2768,7 @@ biplane n. gömul gerð af flugvél með tvöföldum vængjum
 monoplane n. flugvél með eitt sett af vængjum
 seaway n. sjóleið
 lifespan n. líftími, lífaldur, æviskeið
-unsentimental l. ótilfinninganæmur, óviðkvæmur, ótilfinningasamur
+unsentimental l. ótilfinninganæmur, ótilfinningasamur, óviðkvæmur
 milieu n. umhverfi
 prosthesis n. gervilimur
 prosthetic n. gervilimur; l. gervilims- ([~ clinic, leg])
@@ -2784,14 +2784,14 @@ cardboard n. pappi; [~ box] pappakassi
 psychobabble n. sálfræðibull, sálfræðiþvæla
 citric l. sítrónu-; [~ acid] sítrónusýra
 woodpecker n. spæta (fugl)
-self-governance n. sjálfstjórn; heimastjórn
+self-governance n. sjálfstjórn
 ruble n. rúbla (rússneskur gjaldmiðill, 100 kópekar)
 jihad n. heilagt stríð (múslíma)
 deliveryman n. sendill
 dogsbody n. þjónn, hjálparhella
 salmonella n. salmonella, bifstafur
 glassmaker n. glerblásari, glergerðarmaður
-glassmaking n. glergerð, glerblástur, glerframleiðsla
+glassmaking n. glerblástur, glergerð, glerframleiðsla
 grail n. (gral)bikar, kaleikur
 fungicide n. sveppadeyðir, sveppaeyðir
 pax n. friður (úr latínu); [~ Romana] Rómarfriður
@@ -2811,7 +2811,7 @@ unbreakable l. óbrjótandi, óbrjótanlegur
 ever-growing l. sívaxandi
 pretentiousness n. tilgerð, tilgerðarleiki
 unpretentiousness n. tilgerðarleysi, látleysi
-wordless l. orðlaus
+wordless l. orðlaus, uppiskroppa með orð
 sahib n. (evrópskur) herramaður (í Indlandi á nýlendutímanum)
 reformism n. umbótastefna
 snobbishness n. snobb, uppskafningsháttur
@@ -2822,29 +2822,29 @@ gipsy n. sjá %[gypsy]%
 pikey n. sígauni (breskt slangur)
 platypus n. breiðnefur (ástralskt spendýr)
 rudely ao. dónalega, ókurteisislega
-horribly ao. hræðilega, hryllilega
+horribly ao. hræðilega, hryllilega, skelfilega
 securely ao. örugglega, vandlega, tryggilega ([~ fastened])
 Nile n. [the ~] Nílarfljót
 unforgivable l. ófyrirgefanlegur
 unnecessarily ao. ónauðsynlega
-silencer n. hljóðdeyfir
+silencer n. hljóðdeyfir; e-ð sem þaggar niður í e-u eða gerir e-ð hljótlátt
 likeable l. viðkunnanlegur, viðfelldinn
 wristwatch n. armbandsúr
 Egyptology n. egypsk fræði
-hellhole n. skítapleis, hræðilegur staður, vítishola
+hellhole n. vítishola, hræðilegur staður, skítapleis
 monomaniacal l. einæðislegur, með eitthvað eitt á heilanum
 uncontroversial l. óumdeildur
 supermarket n. matvöruverslun, kjörbúð, súpermarkaður
 stressful l. stressandi ([~ times])
-frozen l. frosinn, freðinn
+frozen l. frosinn, freðinn, frystur
 coastline n. strandlengja
-footballer n. knattspyrnumaður, fótboltamaður; fótboltakona, knattspyrnukona
+footballer n. knattspyrnumaður, fótboltamaður; knattspyrnukona, fótboltakona
 cameraman n. myndatökumaður, tökumaður; ljósmyndari
 oceanography n. haffræði
 oceanographer n. haffræðingur
 oceanographical l. haffræðilegur
 oceanographically ao. haffræðilega
-calfskin n. kálfsskinn
+calfskin n. kálfskinn, kálfsskinn
 takeover n. yfirtaka; valdataka
 multinational l. fjölþjóðlegur; n. fjölþjóðlegt fyrirtæki
 smartwatch n. snjallúr
@@ -2861,7 +2861,7 @@ amnesiac n. minnisleysingi, sá sem er þjakaður af minnisleysi (sjá %[amnesia
 numeracy n. talnalæsi
 homophobia n. hommafælni, hommahatur, ótti við samkynhneigða
 homophobe n. hommahatari, e-r sem óttast samkynhneigða
-homophobic l. hommafælinn, hommahatandi, hommahaturs-, hommafælnis-
+homophobic l. hommafælinn, hommahatandi, hommahaturs-, hommafælnis-, sem óttast samkynhneigð
 denigrate s. hallmæla, ófrægja, niðra
 denigration n. mannorðsspjöll, ófræging, hallmæli
 denigratory n. niðrandi, ófrægjandi, ærumeiðandi, mannorðsspillandi, hallmælandi
