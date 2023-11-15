@@ -459,12 +459,10 @@ everyone
 checkpoint
 activist
 Orwellian
-globalization
 antiglobalization
 nativist
 reinvolve
 trafficking
-undocumented
 heartlessness
 browse s.
 populist
@@ -475,7 +473,6 @@ Confucianism
 Confucian
 full-blooded
 crate
-kindliness
 completeness
 habitually
 forefront
@@ -707,7 +704,6 @@ mixed-race
 strong-arm
 spillage
 meltdown
-glamorous
 extravaganza
 superpower
 underscore
@@ -795,8 +791,6 @@ unconventional
 bimonthly
 tired-looking
 archival
-babysit
-babysitter
 smokey
 tectonic
 overprice
@@ -806,8 +800,6 @@ availability
 longhouse
 lifestyle
 unfamiliarity
-flatbread
-farmland
 guesstimate
 nonexistence
 fatalistic
@@ -820,7 +812,6 @@ rightward
 leftward
 advisement
 mogul
-fistfight
 grassroot
 medic
 statehood
@@ -873,7 +864,6 @@ inevitability
 preadolescent
 retrojection
 naively
-anonymously
 denazification
 demonize
 reorientation
@@ -1073,7 +1063,6 @@ melodramatic
 melodramatics
 steadily
 strategist
-walkway
 capitulary
 hoodlum
 accumulator
@@ -1201,7 +1190,6 @@ erstwhile
 cesspit
 epochal
 bloodless
-graveyard
 Arianism
 Arian
 statistic
@@ -1232,14 +1220,11 @@ jobless
 teammate
 craziness
 manipulative
-setback
 supervisory
 fictive
 hassle
 brash
 dealership
-windswept
-receptionist
 overdrive
 interdependent
 leverage
@@ -1263,7 +1248,6 @@ blurry
 nanotechnology
 mantra
 freefall
-uncompetitive
 mainframe
 nonchalance
 decode
@@ -1290,7 +1274,6 @@ payout
 somnolescent
 boardroom
 implosion
-effortless
 heist
 scalper
 static
@@ -1383,8 +1366,6 @@ counterblast
 handout
 parasitism
 recalcitrance
-consumerism
-mea culpa
 ersatz
 kitsch
 demotic
@@ -1417,7 +1398,6 @@ bottom-feeder
 déluge
 psychotherapy
 psychotherapist
-nonsmoker
 anecdotal
 unrepresentative
 ad nauseam
@@ -1549,8 +1529,6 @@ counterargument
 clear-sightedness
 clear-sighted
 baseline
-in absentia
-councilman
 sometime
 latecomer
 ephemerality
@@ -1587,7 +1565,6 @@ evolutionist
 territoriality
 summertime
 consumerist
-dichotomy
 liminality
 porosity
 theatrics
@@ -1638,10 +1615,7 @@ takedown
 genre
 exclusionary
 artisanship
-phallus
-phallic
 floodplain
-reconfiguration
 ceremonialism
 contender
 megalithic
@@ -2853,7 +2827,7 @@ janitorial
 voluntarily
 redesign
 developmentalist
-reconfigure
+
 inaccessibility
 reenactment
 semaphore
@@ -3041,8 +3015,6 @@ spate
 conservativism
 favorite
 sought-after
-workweek
-autoimmune
 piggyback
 nonsexual
 intuitively
@@ -3058,9 +3030,7 @@ extraordinarily
 basically
 concierge
 intercom
-hypermasculine
 hypercompetitive
-postproduction
 airbrush
 roofer
 roofie
@@ -3071,7 +3041,6 @@ localization
 delocalization
 translocalization
 prelocalization
-confetti
 managerialist
 managerialism
 boondogglery
@@ -3095,7 +3064,6 @@ placatory
 ageless
 pisspot
 bonhomie
-flawless
 luminescence
 sleight-of-hand
 innards
@@ -3109,14 +3077,12 @@ orgasmic
 eyehole
 hereinafter
 thereinafter
-weirdo
 nighttime
 petunia
 pinprick
 headlight
 knobbly
 tyke
-knickerbocker
 bidet
 tailcoat
 fruitcake
@@ -3137,9 +3103,7 @@ scrawny
 pointy
 creepy
 break-in
-glider
 about-face
-bathrobe
 snitch
 booger
 furiously
@@ -3262,10 +3226,15 @@ metrology
 metronomic
 metroplex
 tween
-sartorial
 ponce
 matinee
 dactylography
 collage
 shallows
 cataphile
+subitization
+soporific
+wannabe
+copium
+hopium
+quine

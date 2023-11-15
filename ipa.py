@@ -487,6 +487,8 @@ SKIP = frozenset(
         "necrophile",
         "necrophilism",
         "self-annihilation",
+        "pantalets",
+        "pantalettes",
     )
 )
 
