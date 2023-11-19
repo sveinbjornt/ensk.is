@@ -78,7 +78,6 @@ num_additions = len(additions)
 CATEGORIES = read_wordlist("data/catwords.txt")
 
 CAT2ENTRIES = {}
-
 for c in CATEGORIES:
     cs = c.rstrip(".")
     CAT2ENTRIES[cs] = e.read_all_in_wordcat(cs)
@@ -248,6 +247,7 @@ async def item(request: Request, w):
 
 
 @app.get("/page/{n}")
+@cache_response
 async def page(request: Request, n):
     """Return page for a single dictionary page image."""
     n = int(n)

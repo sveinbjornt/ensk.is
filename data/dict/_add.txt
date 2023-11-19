@@ -3261,10 +3261,10 @@ islamist n. íslamisti, bókstafstrúaður múslími, öfgamúslími
 extraterritorial l. utansvæðis-, utan lögsögu
 cosmopolitanism n. heimsborgarahyggja (sjá %[cosmopolitan]%)
 subtitle n. undirtitill, undirfyrirsögn, aukafyrirsögn; skjátexti (í mynböndum)
-industrialist n. iðnjöfur
-industrialism n. iðnvæðing, iðnvæðingarstefna
-extracurricular l. utan námskrár, utan skóla
-curricular l. námskrár-, sem tengist námskrá
+industrialist n. iðnjöfur; verksmiðjueigandi
+industrialism n. iðnvæðing; iðnvæðingarstefna
+extracurricular l. utan námskrár, utan skóla, utan skyldu eða starfs
+curricular l. námskrár-, sem tengist námskrá og/eða verkáætlun
 simplified l. einfaldaður
 empirically ao. raunvíslega, byggt á reynslu, út frá reynslu
 anthropocentrism n. manngyðistrú
@@ -3438,7 +3438,7 @@ transformative l. umbreytandi, mótandi, ummótandi
 endorphin n. endorfín
 bathrobe n. baðsloppur, sloppur
 glider n. svifdreki, sviffluga
-knickerbocker n. hnésíðar pokabuxur
+knickerbocker n. knésíðar pokabuxur
 pantalets n. ft. sjá %[pantalettes]%
 pantalettes n. ft. öklasíðar undirbuxur
 weirdo n. furðufugl, skrýtin manneskja
@@ -3446,7 +3446,7 @@ flawless l. gallalaus, óaðfinnanlegur, lýtalaus, fullkominn
 confetti n. skrautpappír, ræmur af (lituðum) skrautpappír
 postproduction n. eftirvinnsla, úrvinnsla, úrvinnslustig
 hypermasculine l. ofurkarlmannlegur
-autoimmune l. sjálfsónæmis-; [~ disease] sjálfsofnæmissjúkdómur
+autoimmune l. sjálfsofnæmis-; [~ disease] sjálfsofnæmissjúkdómur
 workweek n. vinnuvika
 reconfigure s. endurstilla
 reconfiguration n. endurstilling
@@ -3474,8 +3474,10 @@ uncompetitive l. ósamkeppnishæfur
 effortless l. áreynslulaus, fyrirhafnarlaus, erfiðislaus
 consumerism n. neysluhyggja
 nonsmoker n. manneskja sem reykir ekki
+anti-smoker n. andreykingamanneskja, einhver sem er á móti reykingum
 phallus n. getnaðarlimur, limur, tittlingur, typpi, völsi
 phallic l. getnaðarlims-, líkur getnaðarlim, völsalegur
+workspace n. vinnurými
 # stabilize
 # destabilize
 # stabilizer
