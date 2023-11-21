@@ -489,6 +489,8 @@ SKIP = frozenset(
         "self-annihilation",
         "pantalets",
         "pantalettes",
+        "unfalsifiability",
+        "Faroese",
     )
 )
 
