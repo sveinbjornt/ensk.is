@@ -1317,7 +1317,7 @@ slam s. skella aftur (hurð); skellast aftur ([~ to]); n. skellur
 slander n. óhróður, rógur; s. bera út óhróður um (e-n), rægja
 slanderer n. rógberi
 slanderous l. bakmálugur; illkvitnislegur; rógberandi
-slang n. skrílmál, óvandað talmál; s. nota óvandað mál; skamma
+slang n. slangur, skrílmál, óvandað talmál; s. nota óvandað mál; skamma
 slangy l. óvandaður halli, brekka; sneið, skenz; s. (um mál)
 slant l. skáhallur; s. láta hallast; koma skáhalt (í e-ð [on, against]); vera hallur; hallast
 slanting l. hallandi
@@ -1979,7 +1979,7 @@ spleeny l. ólundarfullur, önuglyndur, þunglyndur
 splendent l. skínandi, skær
 splendid l. ljómandi, fagur; skrautlegur, ágætur
 splendour n. ljómi, fegurð; dýrð, skraut
-splenetic l. önuglyndur; þunglyndur; n. þunglyndur (duttlungafullur) maður
+splenetic l. önuglyndur; þunglyndur; geðvondur; miltissjúkur, miltis- n. þunglyndur (duttlungafullur) maður
 splenic l. miltis-; [~ fever] miltisbruni
 splice s. þætta (flétta) saman (tvo kaðalenda); skeyta (fella) saman tvo borðenda; gefa saman (hjón)
 splint n. flaski; ft. spelkur; s. leggja spelkur við (beinbrot)
@@ -3205,7 +3205,6 @@ synonym n. samheiti, samnefni; sammerkingarorð, sammerkingur
 synonymous l. sömu merkingar ([with])
 synonymy n. samheiti, sammerking
 synopsis n. yfirlit, ágrip
-synoptical l. ágripslegur, yfirlitslegur
 synoptical l. ágripslegur, yfirlitslegur
 syntax n. orðskipunarfræði, málsgreinafræði
 synthesis n. samtenging, samsetning

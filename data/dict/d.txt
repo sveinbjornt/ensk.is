@@ -1809,6 +1809,6 @@ dynamite n. dýnamít; tundur; s. sprengja með tundri
 dynamo n. rafvél, rafall
 dynasty n. konungaætt
 dysentery n. blóðsótt, blóðkreppa, blóðkreppusótt
-dyspepsia n. meltingarleysi, harðlífi
-dyspepsy n. meltingarleysi, harðlífi
+dyspepsia n. meltingartruflun, meltingarónot, meltingarleysi, harðlífi
+dyspepsy n. meltingartruflun, meltingarónot, meltingarleysi, harðlífi
 dysury n. þvagteppa

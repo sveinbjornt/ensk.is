@@ -1465,7 +1465,7 @@ iodine n. joð (frumefni)
 iodism n. joðeitrun
 Ionian l. íónskur; [the ~ islands] íónsku eyjarnar
 Ionic l. íónskur; [the ~ dialect] íónska mállýskan
-Iranian l. íranskur
+Iranian l. íranskur, frá Íran; n. Írani
 irascibility n. reiðigirni, bráðlyndi
 irascible l. reiðigjarn, uppstökkur, bráðlyndur
 irate l. reiður
@@ -1573,7 +1573,7 @@ issueless l. barnlaus; gagnslaus
 issuer n. útgefandi
 isthmus n. eiði
 it fn. það; [~ rains] það rignir
-Italian l. ítalskur; n. ítali; ítalska
+Italian l. ítalskur; n. Ítali; ítalska
 Italianism n. ítölskusletta, ítalskt máleðli í öðrum málum; samúð með ítölum
 Italianize s. gera ítalskt, setja ítalskan blæ á e-ð
 Italic l. fornítalskur

@@ -1281,7 +1281,7 @@ aqueous l. vatnskenndur
 aquiline l. arnar-; [~ nose] arnarnef, kónganef
 Arab n. Arabi; arabískur hestur
 Arabian n. Arabi; l. arabískur
-Arabic l. arabískur
+Arabic l. arabískur, frá Arabíu; n. arabíska (tungumál)
 arabesque n. skornar eða málaðar skrautmyndir, laufamyndir, laufaskurður
 arable l. plægjanlegur, yrkilegur ([~ land])
 arbalest n. stór bogi, lásbogi
@@ -1495,11 +1495,10 @@ assient l. samþykkur
 assentor n. meðmælandi (þingmannsefnis)
 assert s. fullyrða, staðhæfa; verja ([~ a cause]); krefja, halda fram ([~ one's right])
 asserter n. verjandi
-assertor n. verjandi
+assertor n. verjandi; talsmaður
 assertion n. staðhæfing; vörn
 assertive l. kappmáll; ákveðinn
-assertor n. talsmaður
-assertory l. staðhæfandi, staðfestingar- ([assertory oath])
+assertory l. staðhæfandi, staðfestingar- ([~ oath])
 assess s. jafna niður (sköttum), leggja skatt á; meta, virða (eignir eða tekjur)
 assessable l. skattskyldur
 assessment n. niðurjöfnun; skattur, skattgjald; mat; verðmat (á eignum og tekjum)

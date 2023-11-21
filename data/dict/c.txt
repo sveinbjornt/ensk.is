@@ -46,7 +46,7 @@ calculable l. reiknanlegur
 calculate s. reikna; byggja, ætla
 calculation n. útreikningur; reikningur; áætlun
 calculator n. reiknivél; reikningsmaður
-calculus n. steinn; stærðfræðigreining; nýrnasteinn
+calculus n. steinn; nýrnasteinn; tannsteinn; stærðfræðigreining, diffur- og tegurreikningur, reiknivísi, örsmæðareikningur
 calculi n. ft. nýrnasteinar, gallsteinar
 caldron n. sjá %[cauldron]%
 calefactory l. hitandi, hita-
@@ -93,7 +93,7 @@ camel n. úlfaldi
 cameleer n. úlfaldareki
 camelopard n. gíraffi
 cameo n. gimsteinn með upphleyptum myndum
-camomile n. kamilla (jurt)
+camomile n. kamilla, kryddbaldursbrá (jurt)
 camp n. tjaldstaður; herbúðir; s. liggja í herbúðum; setja herbúðir; [~ out] liggja úti í tjöldum
 campaign n. herferð; s. vera í herþjónustu
 campaigner n. gamall hermaður
@@ -236,7 +236,6 @@ caravel n. seglskip (gömul tegund)
 caraway n. kúmengras
 caraway seed n. kúmen
 carbine n. stutt riddarabyssa ([a double-barrelled ~])
-carabine n. stutt riddarabyssa ([a double-barrelled ~])
 carbineer n. byssuriddari
 carbolic l. karból-; [~ soap] karbólsápa; [~ acid] karbólsýra
 carbon n. kolefni
@@ -703,10 +702,10 @@ cherish s. hlúa að; ala í brjósti sér ([~ resentment against])
 cherry n. kirsuber
 cherub n. kerúb (engill)
 chervil n. kjörvel (jurt)
-chess n. skáktafl; [play at ~] tefla skák
+chess n. skák, tafl, skáktafl; [play at ~] tefla skák
 chessboard n. taflborð, skákborð
 chessman n. maður eða peð í skák
-chessplayer n. taflmaður skákmaður
+chessplayer n. skákspilari, skákmaður, teflari
 chest n. brjóst, bringa; kista; sjóðhirsla; [~ of drawers] dragkista, kommóða; s. leggja í kistu
 chestnut n. kastanía, kastaníuhneta; l. jarpur ([~ horse, hair])
 chevalier n. riddari
@@ -1179,7 +1178,6 @@ cobra n. gleraugnaslanga
 cobweb n. kóngulóarvefur; [have (feel) a ~ in the throat] vera þurr í kverkunum
 cobwebbed l. þakinn köngulóarvef
 cobwebby l. líkur köngulóarvef
-cobwebbed l. líkur köngulóarvef
 cocaine n. kókaín (örvandi vímugjafi)
 cochineal n. skarlatslitur, purpuralitur
 cock n. hani; karlfugl; bógur (á byssu); krani (á tunnu); tunga, mundang (á vog); hanagal; vindhani ([weather-~]); heysæti; vísir (á sólskífu); s. setja (reisa) beint upp; draga upp bóginn (á byssu); sæta (hey); standa upp; [~ the eye] draga augað í pung; [~ the hat] setja hattinn út í aðra hliðina; næla upp hattbarðið; [a ~ed hat] þrístrendur hattur; [a ~ed up nose] uppbrett nef
