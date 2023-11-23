@@ -825,7 +825,7 @@ toper n. ofdrykkjumaður
 topic n. efni, umræðuefni ([a ~ of conversation]); grein, atriði; alkunn sannmæli; röksemd
 topical l. staðlegur; tækifæris- ([a ~ poem])
 topographer n. staðfræðingur
-topographical l. staðfræðilegur; staðar-, staða- ([~ description of a locality])
+topographical l. staðlýsingar-; staðfræðilegur; staðar-, staða- ([~ description of a locality])
 topography n. staðlýsing
 topping l. ágætur, frábær; [a ~ sea] brotsjór; sbr. %[top]%
 topple s. steypast áfram; detta um koll; kasta (fella) um koll
@@ -939,7 +939,7 @@ trade price n. stórkaupaverð
 trader n. verslunarmaður; kaupfar
 tradesman n. kaupmaður, verslunarmaður; iðnaðarmaður
 tradespeople n. kaupfólk, verslunarfólk
-trade union n. verkalýðsfélag, iðnfélag
+trade union n. stéttarfélag, verkalýðsfélag, iðnfélag
 tradewind n. staðvindur (við miðjarðarlínu)
 trading l. verslunar-; [~ company] verslunarfélag; n. verslun
 tradition n. hefð; sögusögn, munnmæli; erfikenning; afhending

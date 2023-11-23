@@ -1646,7 +1646,7 @@ aerosol n. agnúði, úði
 Greek n. Grikki; gríska (tungumál); l. grískur
 mathematically ao. stærðfræðilega
 methodological l. aðferðafræðilegur
-unafraid l. óhræddur
+unafraid l. óhræddur, óttalaus
 censorship n. ritskoðun
 worldview n. heimssýn
 undercurrent n. undiralda; undirstraumur
@@ -3455,7 +3455,7 @@ babysit s. passa börn
 babysitting n. barnapössun
 babysitter n. barnapía
 flatbread n. flatbrauð, flatkaka
-farmland n. ræktarland, ræktunarland, landsvæði sem hentar til landbúnaðar
+farmland n. ræktarland, ræktunarland, lendur sem henta til landbúnaðar
 fistfight n. hnefaleikar, slagsmál eða áflog með hnefum einum saman
 anonymously ao. á nafnlausan, ónafngreindan eða ónafngreinanlegan hátt
 walkway n. gangbraut, göngubrú, göngustígur
@@ -3463,14 +3463,16 @@ graveyard n. kirkjugarður, grafreitur
 setback n. bakslag
 windswept l. vindbarinn, vindblásinn
 receptionist n. móttökustjóri, móttökuritari
-uncompetitive l. ósamkeppnishæfur
+uncompetitive l. ósamkeppnishæfur, án samkeppni
 effortless l. áreynslulaus, fyrirhafnarlaus, erfiðislaus
 consumerism n. neysluhyggja
 nonsmoker n. manneskja sem reykir ekki
-anti-smoker n. andreykingamanneskja, einhver sem er á móti reykingum
-phallus n. getnaðarlimur, limur, tittlingur, typpi, völsi
-phallic l. getnaðarlims-, líkur getnaðarlim, völsalegur
+non-smoker n. manneskja sem reykir ekki
+anti-smoker n. andreykingamanneskja, einhver sem er mótfallinn reykingum
+phallus n. getnaðarlimur, limur, tittlingur, typpi
+phallic l. getnaðarlims-, líkur getnaðarlim
 workspace n. vinnurými
+error-prone l. villugjarn
 # stabilize
 # destabilize
 # stabilizer

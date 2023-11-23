@@ -633,7 +633,7 @@ overseas l. & ao. handanhafs ([~ trade]); fyrir handan haf
 oversee s. hafa eftirlit með
 overseer n. umsjónarmaður; fátækrafulltrúi ([~ of the poor])
 overset s. velta (e-u) um, hvolfa
-overshade s. kasta skugga (dimmu) á e-ð
+overshade s. kasta skugga eða dimmu á e-ð
 overshadow s. skyggja yfir; hlífa, vernda
 overshoe n. utanyfirskór, skóhlíf
 overshoot s. skjóta framhjá (markinu); fara fljótt (þjóta) yfir; [~ the mark] skjóta yfir markið; [~ oneself] hætta sér of langt; oftala sig
@@ -642,7 +642,7 @@ oversleep s. sofa framyfir; [~ the usual hour of rising] framyfir vanalegan fót
 oversleeve n. yfirermi
 overspread s. breiða (breiðast) út yfir; [the heaven was ~ with clouds] alskýjaður
 overstate s. ofherma; ýkja
-overstep s. yfirstíga
+overstep s. yfirstíga, stíga yfir
 overstock s. offylla ([~ the market]); n. of miklar birgðir
 overstore s. offylla
 overstrain s. ofreyna; n. ofreynsla
@@ -658,8 +658,8 @@ overtop s. mæna yfir
 overtopple s. kollvarpa
 overtower s. gnæfa yfir
 overture n. tilboð ([an ~ of marriage]); uppástunga; inngangsspil; [make ~s of peace] byrja að semja um frið; s. stinga upp á, bera fram (uppástungu)
-overturn s. steypa um koll, kollvarpa; hvolfa; [an ~ed boat] bátur á hvolfi
-overvalue s. meta of mikils
+overturn s. steypa um koll, kollvarpa; hvolfa, snúa á hvolf; [an ~ed boat] bátur á hvolfi
+overvalue s. meta of mikils, ofmeta
 overveil s. hylja blæju
 overwatched l. úrvinda af vökum
 overweening l. stærilátur, hrokafullur; óstjórnlegur ([an ~ passion for brandy])
