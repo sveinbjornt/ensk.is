@@ -13,3 +13,4 @@ TODO list for ensk.is:
 * Separate exact match from partial matches visually
 * Generate .dictionary file for macOS, make available for download
 * Mobile app?
+* Add step to verification process: check that adjectives are always defined using the masculine

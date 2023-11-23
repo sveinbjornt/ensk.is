@@ -268,7 +268,7 @@ calisthenics n. ft. leikfimiæfingar
 calisthenic l. leikfimi-, leikfimiæfinga-
 automation n. sjálfvirkni; sjálfvirknivæðing
 automate s. sjálfvirknivæða
-automatable l. sjálfvirknivæðanlegt (sjá %[automate]%)
+automatable l. sjálfvirknivæðanlegur (sjá %[automate]%)
 bot n. (stytt. á %[robot]%) vélmenni, þjarkur
 surveillance n. eftirlit
 tweeze s. snyrta með flísatöng
