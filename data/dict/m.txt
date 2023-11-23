@@ -143,21 +143,21 @@ malingery n. skrópar
 malison n. bölvun
 mall n. stór trésleggja; hnallur; e.k. knattleikur; skemmtigöngustaður; verslunarmiðstöð ([a shopping ~])
 mallard n. stokkönd
-malleability n. fletjanleiki, hamranleiki
-malleable l. fletjanlegur
+malleability n. fletjanleiki, hamranleiki, sveigjanleiki
+malleable l. fletjanlegur, hamranlegur, sveigjanlegur
 malleate s. slá út (fletja) með hamri ([~ metals])
 mallet n. tréhamar, kylfa
 malmsey n. sætt áfengt vín
-malnutrition n. ófullkomin næring
-malodorous l. illa þefjaður, illa lyktandi
-malodour n. óþefur, slæm lykt
+malnutrition n. næringarskortur, ófullkomin næring
+malodorous l. illa lyktandi, illa þefjaður, sem fnykur er af
+malodour n. óþefur, slæm lykt, ólykt
 malpractice n. misgerð; fjárdráttur; röng meðferð
 malt n. malt; s. melta (korn); verða að malti
 malt floor n. maltloft
 malt kiln n. maltkylna
 maltman n. maltgerðarmaður; maltsali
 maltster n. maltgerðarmaður; maltsali
-maltreat s. fara illa með; misþyrma
+maltreat s. fara illa með, misþyrma
 maltreatment n. ill meðferð, misþyrming
 malversation n. ótrúmennska, óráðvendni í embættisrekstri; fjárdráttur
 mamma n. mamma

@@ -491,6 +491,7 @@ SKIP = frozenset(
         "pantalettes",
         "unfalsifiability",
         "Faroese",
+        "error-prone",
     )
 )
 

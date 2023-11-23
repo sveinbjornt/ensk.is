@@ -3239,3 +3239,6 @@ copium
 hopium
 quine
 carabiner
+moquette
+flummox
+flummoxed
