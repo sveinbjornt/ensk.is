@@ -1200,7 +1200,7 @@ lyricism n. ljóðrænn stíll
 pragmatism n. raunsæi; verkhyggja (í heimspeki); sjá %[pragmatic]%
 pragmatist n. raunsær maður (sem fylgir ekki kreddum); verkhyggjumaður (í heimspeki); sjá %[pragmatic]%
 science fiction n. vísindaskáldskapur
-Yiddish n. jiddíska (tungumál evrópskra Gyðinga); l. jiddískur
+Yiddish n. jiddíska (háþýsk tunga töluð af gyðingum sem eiga rætur að rekja til Mið- og Austur-Evrópu); l. jiddískur
 yoga n. jóga (e.k. slökunaræfingar)
 yowl n. langt óp eða öskur; s. æpa, öskra
 zaibatsu n. japönsk fyrirtækjasamsteypa
@@ -3469,10 +3469,13 @@ consumerism n. neysluhyggja
 nonsmoker n. manneskja sem reykir ekki
 non-smoker n. manneskja sem reykir ekki
 anti-smoker n. andreykingamanneskja, einhver sem er mótfallinn reykingum
-phallus n. getnaðarlimur, limur, tittlingur, typpi
-phallic l. getnaðarlims-, líkur getnaðarlim
+phallus n. getnaðarlimur, limur, tittlingur, typpi; reðurtákn
+phallic l. getnaðarlims-, líkur getnaðarlim eða typpi; [~ symbol] reðurtákn
 workspace n. vinnurými
 error-prone l. villugjarn
+disambiguate s. einræða
+disambiguation n. einræðing
+pandemonium n. ringulreið, glundroði; vítishöll Satans í Paradísarmissi eftir 17. aldar skáldið John Milton
 # stabilize
 # destabilize
 # stabilizer

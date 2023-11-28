@@ -106,15 +106,15 @@ edificatory l. uppbyggilegur
 edifice n. bygging (einkum um stórt og veglegt hús)
 edify s. styrkja guðhræðslu og siðferði, uppbyggja
 edifying l. uppbyggilegur
-edit s. gefa út (bók eða blað)
+edit s. breyta; ritstýra eða gefa út (bók eða blað)
 edition n. útgáfa, prentun
 editor n. útgefandi; ritstjóri
 editorial l. ritstjórnar- ([~ article]); n. ritstjórnargrein
 editorship n. ritstjórn ([under the ~ of])
 editress n. ritstýra
 educate s. ala upp; fræða, mennta; venja
-education n. uppeldi; uppfræðsla, menning, menntun; uppeldisfræði ([examination in ~])
-educational l. uppeldislegur, uppfræðslu-, menningar-
+education n. uppeldi; menntun, uppfræðsla, menning; uppeldisfræði ([examination in ~])
+educational l. uppeldislegur, uppfræðslu-, mennta-, menningar-
 educationalist n. uppeldisfræðingur
 educationist n. uppeldisfræðingur
 educator n. fræðari
@@ -123,8 +123,8 @@ eduction n. útleiðsla, framleiðsla
 eel n. áll
 eelspear n. álastingur
 eel-trunk n. álakista (sem álar eru geymdir í lifandi)
-eerie l. hræðslufullur, kvíðafullur; ægilegur
-eery l. hræðslufullur, kvíðafullur; ægilegur
+eerie l. óhugnanlegur, ægilegur; hræðslufullur, kvíðafullur
+eery l. óhugnanlegur, ægilegur; hræðslufullur, kvíðafullur
 efface s. þurrka út (eða af); afmá; eyða
 effaceable l. afmáanlegur
 effect n. afleiðing; árangur; áhrif; [~s] ft. munir; lausafé; lausir aurar; húsgögn ([household ~s]); [bring to ~, carry into ~] framkvæma; [take ~] hafa tilætluð áhrif, hrífa; öðlast gildi (um lög og samninga); [of no ~] árangurslaus; [to the ~ that] á þá leið, að; [in ~] í rauninni; í raun og veru
@@ -224,7 +224,7 @@ elderly l. aldraður
 eldership n. frumburðarréttur; kirkjulegt öldungaráð
 eldest l. elstur ([my ~ son])
 eldern l. ylliviðar-
-eldritch l. voðalegur, ógurlegur
+eldritch l. skrýtinn, óeðlilegur; voðalegur, ógurlegur, ægilegur
 elect s. velja, kjósa ([they ~ed him their chief]); l. valinn; útvalinn; ágætur
 election n. kosning, kjör; val
 electioneer s. smala atkvæðum
