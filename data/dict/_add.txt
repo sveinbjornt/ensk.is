@@ -1222,7 +1222,7 @@ discombobulated l. ruglaður, sleginn út af laginu
 discombobulation n. ruglingur, ringulreið; sjá %[discombobulate]%
 quintillion n. trilljón (10 í 18. veldi)
 xenophobia n. útlendingahatur, útlendingaótti, ótti við útlendinga eða utanaðkomandi
-xenophobe n. bókst. e-r sem hræðist útlendinga eða utanaðkomandi, útlendingahatari
+xenophobe n. e-r sem hræðist útlendinga eða utanaðkomandi, útlendingahatari
 xenophobic l. útlendingahatandi, hræddur við útlendinga eða utanaðkomandi
 xylophone n. sílófónn (ásláttarhljóðfæri)
 xylophonist n. sílófónleikari, ásláttarhljóðfæraleikari
@@ -3210,7 +3210,7 @@ bacalao n. saltfiskur
 canyon n. gljúfur
 backstage n. baksvið ([let's meet ~]); l. baksviðs- ([~ shenanigans])
 gambit n. herkænska; bragð, brella; opnunarleikur í tafli
-unhinged l. ær, brjálaður, klikkaður, geðveikur (bókst. ekki í hjörunum)
+unhinged l. ær, brjálaður, klikkaður, geðveikur; ekki í hjörunum
 manhunt n. mannaveiðar
 gravesite n. grafreitur
 power-hungry l. valdaþyrstur, valdasjúkur, valdagráðugur
@@ -3473,7 +3473,7 @@ phallus n. getnaðarlimur, limur, tittlingur, typpi; reðurtákn
 phallic l. getnaðarlims-, líkur getnaðarlim eða typpi; [~ symbol] reðurtákn
 workspace n. vinnurými
 error-prone l. villugjarn
-disambiguate s. einræða
+disambiguate s. einræða (fækka kostum niður í einn)
 disambiguation n. einræðing
 pandemonium n. ringulreið, glundroði; vítishöll Satans í Paradísarmissi eftir 17. aldar skáldið John Milton
 # stabilize
