@@ -3476,6 +3476,9 @@ error-prone l. villugjarn
 disambiguate s. einræða (fækka kostum niður í einn)
 disambiguation n. einræðing
 pandemonium n. ringulreið, glundroði; vítishöll Satans í Paradísarmissi eftir 17. aldar skáldið John Milton
+psychometric l. sálmælinga-
+psychometrics n. ft. sálmælingar
+psychometry n. sálmæling
 # stabilize
 # destabilize
 # stabilizer
