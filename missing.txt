@@ -3251,3 +3251,5 @@ anorak
 idempotent
 idempotency
 nightshade
+stylize
+stylized

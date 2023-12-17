@@ -625,9 +625,9 @@ agreeably ao. þægilega; samkvæmt ([to])
 agreeableness n. þægindi
 agreement n. samkomulag; samningur; samkvæmni
 agrestic l. sveitalegur
-agricultural l. akuryrkjulegur
-agriculture n. akuryrkja; jarðyrkja
-agriculturist n. jarðyrkjumaður, bóndi
+agricultural l. landbúnaðar-; akuryrkju-, akuryrkjulegur
+agriculture n. landbúnaður; akuryrkja; jarðyrkja
+agriculturist n. landbúnaðarfræðingur; jarðyrkjumaður, bóndi
 agronomical l. sem lýtur að jarðyrkju
 agronomist n. jarðyrkjumaður, búfræðingur
 agronomy n. jarðyrkjufræði
@@ -1219,7 +1219,7 @@ appliance n. notkun; verkfæri; ft. tæki, tilfæringar
 applicability n. nýtileiki, viðeiganleiki
 applicable l. nýtilegur; heimfærilegur; viðeigandi
 applicant n. umsækjandi
-application n. viðlagning; hagnýting, notkun; heimfærsla; beiðni, umsókn ([~ for a post]); ástundun, kapp; [for external (outward) ~] til útvortis notkunar
+application n. viðlagning; hagnýting, notkun; heimfærsla; beiðni, umsókn ([~ for a post]); ástundun, kapp; [for external (outward) ~] til útvortis notkunar; forrit (í tölvu)
 applied l. notaður, hagnýtur ([~ psychology, mathematics])
 applot s. jafna (skipta) niður
 applotment n. niðurjöfnun

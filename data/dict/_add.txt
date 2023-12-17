@@ -3479,6 +3479,13 @@ pandemonium n. ringulreið, glundroði; vítishöll Satans í Paradísarmissi ef
 psychometric l. sálmælinga-
 psychometrics n. ft. sálmælingar
 psychometry n. sálmæling
+deuteranomaly n. litblinda
+smaragd n. smaragð (grænn gimsteinn); sjá %[emerald]%
+smaragdine l. smaragðs-; smaragðsgrænn
+socialize s. félagsmóta, félagsvæða; blanda geði við aðra ([he enjoyed socializing with his colleagues]); setja e-ð verksvið í hendur hins opinbera ([Sweden has socialized medical care])
+socialization n. félagsmótun; félagsvæðing, samfélagsvæðing; umgengni eða félagsleg samskipti við aðra; það að fela hinu opinbera framkvæmdir á tilteknu sviði ([socialization of medical care])
+agriculturalist n. landbúnaðarfræðingur; jarðyrkjumaður, bóndi
+app n. forrit, smáforrit, snjallforrit, snjallsímaforrit (sjá %[application]%)
 # stabilize
 # destabilize
 # stabilizer
