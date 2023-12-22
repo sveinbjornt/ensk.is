@@ -2310,7 +2310,7 @@ taxonomy n. flokkunarfræði
 taxonomic l. flokkunarfræðilegur
 taxonomist n. flokkunarfræðingur
 horseshit n. hrossaskítur, hestaskítur, hrossatað; kjaftæði, bull (óforml.)
-appeasable l. sefanlegur, friðþægjanan laglegur
+appeasable l. sefanlegur, friðþægjanlegur
 unappeasable l. ósefanlegur, ófriðþægjanlegur
 reassessment n. endurmat (sjá %[assessment]%)
 freeborn l. frjálsborinn
@@ -3415,7 +3415,6 @@ cornichon n. smágúrka
 artichoke n. þistilhjarta, ætiþistill
 homesickness n. heimþrá
 fin whale n. langreyður
-blue whale n. steypireyður
 minke whale n. hrefna
 metronome n. taktmælir
 self-pity n. sjálfsvorkunn, sjálfsmeðaumkun
@@ -3486,6 +3485,9 @@ socialize s. félagsmóta, félagsvæða; blanda geði við aðra ([he enjoyed s
 socialization n. félagsmótun; félagsvæðing, samfélagsvæðing; umgengni eða félagsleg samskipti við aðra; það að fela hinu opinbera framkvæmdir á tilteknu sviði ([socialization of medical care])
 agriculturalist n. landbúnaðarfræðingur; jarðyrkjumaður, bóndi
 app n. forrit, smáforrit, snjallforrit, snjallsímaforrit (sjá %[application]%)
+warez n. ft. stolinn hugbúnaður (netslangur)
+feces n. ft. saur, hægðir
+faeces n. ft. saur, hægðir
 # stabilize
 # destabilize
 # stabilizer

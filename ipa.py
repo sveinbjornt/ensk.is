@@ -492,6 +492,10 @@ SKIP = frozenset(
         "unfalsifiability",
         "Faroese",
         "error-prone",
+        "deuteranomaly",
+        "smaragd",
+        "smaragdine",
+        "warez",
     )
 )
 

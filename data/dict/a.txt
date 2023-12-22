@@ -1202,7 +1202,7 @@ appellation n. nafn, heiti
 appellative n. sameiginlegt nafn
 appellee n. sakborningur
 apellor n. sakaráberi
-append s. hengja (festa) við ([to])
+append s. hengja (festa, bæta) við ([to])
 appendage n. viðauki
 appendant l. sem hangir við ([to]), samfara
 appendix n. viðbót; n. ft. [appendices] viðbót, viðbætur
@@ -1705,14 +1705,14 @@ authority n. vald, valdsumboð, heimild; hefðarvald; myndugleiki; heimildarmað
 authorization n. staðfesting; heimilun; löggilding
 authorize s. samþykkja, staðfesta; veita fulla heimild; löggilda, löghelga
 autobiography n. sjálfsævisaga, sjálfslýsing
-autochthon n. frumbyggi
-autochthonic l. frumlegur
-autochthonous l. frumlegur
+autochthon n. frumbyggi, e-r sem er innfæddur
+autochthonic l. frumlegur, upprunalegur, innfæddur
+autochthonous l. frumlegur, upprunalegur, innfæddur
 autocracy n. einveldisstjórn
 autocrat n. einvaldsstjóri, einvaldur; einvaldssinni
 autocratic l. einvaldur; einvalds-
 autocratrix n. einvaldsdrottning
-autograph n. frumhandrit; eiginhandarrit; eiginhandar-; s. rita með eigin hendi
+autograph n. eiginhandaráritun; frumhandrit; s. rita með eigin hendi
 autographic l. eiginhandar-
 autography n. steinprentuð mynd
 automatic l. sjálfhreyfður; ósjálfráður

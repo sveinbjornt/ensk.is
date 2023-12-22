@@ -739,12 +739,12 @@ fluctuation n. bylgjugangur, óstöðugleiki, hvikulleiki
 flue n. hý, hýjungur
 flue n. ofnpípa; hitapípa
 fluency n. liðugleiki (í ræðu), málfimi
-fluent l. liðugur, málfimur
-fluently ao. liðugt
+fluent l. liðugur, málfimur, reiprennandi
+fluently ao. liðugt, reiprennandi
 fluey l. hýjugur
 fuff n. hý, hýjungur
 fuffy l. hýjugur; mjúkur
-fluid n. fljótandi líkami (lögur, loft, gufa); l. fljótandi
+fluid n. vökvi, fljótandi efni, kvikefni, lögur; l. fljótandi
 fluidity n. fljótanleiki; liðugleiki (í máli, [~ of speech])
 fluke n. akkerisflaug; flyðrutegund; slembilukka ([by a ~])
 flukey l. kominn undir tilviljun; óviss
