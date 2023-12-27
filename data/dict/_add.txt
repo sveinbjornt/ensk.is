@@ -2927,7 +2927,7 @@ tarasque n. e.k. evrópskur dreki, goðsagnavera
 patio n. verönd
 Hegelian l. hegelískur, sem tengist kenningum þýska heimspekingsins G. W. F. Hegel; n. fylgismaður kenninga Hegels
 historically ao. sögulega
-moneylender n. (okur)lánari, lánadrottinn
+moneylender n. (okur)lánari, lánardrottinn
 deforestation n. skógareyðing, eyðing skóga
 diplomat n. stjórnarerindreki, ríkiserindreki, diplómati
 Baltic n. Eystrasaltið ([the ~ Sea]); Eystrasalts-; [the ~ states] Eystrasaltsríkin
@@ -3487,7 +3487,6 @@ agriculturalist n. landbúnaðarfræðingur; jarðyrkjumaður, bóndi
 app n. forrit, smáforrit, snjallforrit, snjallsímaforrit (sjá %[application]%)
 warez n. ft. stolinn hugbúnaður (netslangur)
 feces n. ft. saur, hægðir
-faeces n. ft. saur, hægðir
 # stabilize
 # destabilize
 # stabilizer
