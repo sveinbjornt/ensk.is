@@ -765,8 +765,8 @@ fluvial l. sem lýtur að ám, ár-
 flux n. flóð; aðfall ([~ and reflux]); straumur, rennsli; [bloody ~] blóðsótt, blóðkreppa; s. bræða
 fluxion n. rennsli; breyting
 fly s. fljúga; flýja; blakta; láta fljúga eða blakta; [~ a kite] setja upp pappírsdreka; [~ at] fljúga á, ráðast á; [~ into a passion] verða fjúkandi (eða fok-) vondur; [~ off] ganga undan; [~ out] þjóta út; stökkva upp (í reiði)
-flyer n. fljúgandi skepna
-flier n. fljúgandi skepna
+flyer n. flugfarþegi; fljúgandi skepna; dreifibréf, dreifiseðill
+flier n. flugfarþegi; fljúgandi skepna
 flying l. fljúgandi; flaksandi; blaktandi; [with ~ colours] sigri hrósandi; [~ fish] flugfiskur
 fly n. fluga; léttivagn; sveifluhjól; flagglengd; [to change a ~ into an elephant] gera úlfalda úr mýflugunni
 flyblow n. víur, maðkur (í kjöti)
