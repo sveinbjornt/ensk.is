@@ -496,6 +496,11 @@ SKIP = frozenset(
         "smaragd",
         "smaragdine",
         "warez",
+        "autoworker",
+        "cosmodrome",
+        "daredevilry",
+        "idempotency",
+        "monkswood",
     )
 )
 

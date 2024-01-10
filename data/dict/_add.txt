@@ -3487,6 +3487,23 @@ agriculturalist n. landbúnaðarfræðingur; jarðyrkjumaður, bóndi
 app n. forrit, smáforrit, snjallforrit, snjallsímaforrit (sjá %[application]%)
 warez n. ft. stolinn hugbúnaður (netslangur)
 feces n. ft. saur, hægðir
+collage n. samklipp, (samsett) klippimynd, límmynd
+spaceport n. geimferðastöð, geimhöfn (sjá einnig %[cosmodrome]%)
+cosmodrome n. geimferðastöð, geimhöfn (sjá einnig %[spaceport]%)
+cravenness n. ragmennska, bleyði, gunguskapur, heigulsháttur
+monkswood n. bláhjálmar, freyjublóm, venusvagnar (ættkvísl jurta)
+Bavarian l. bæverskur, Bæjaralands-; n. Bæjari, Bæverji, Bæjaralendingur; bæverska (þýsk mállýska)
+millimetre n. millimetri (einn þúsundasti úr metra)
+millimeter n. millimetri (einn þúsundasti úr metra)
+wildflower n. villiblóm
+footer n. fótur, síðufótur, neðsti bálkur á síðu
+idempotent l. sjálfvalda; einkvæmur
+idempotency n. einkvæmni
+daredevilry n. fífldirfska
+schnapps n. snafs, vínsopi
+burnable l. brennanlegur
+autoworker n. starfsmaður í bílaverksmiðju
+manhole n. eftirlitshol, brunnur, mannop, fráveitubrunnur
 # stabilize
 # destabilize
 # stabilizer
