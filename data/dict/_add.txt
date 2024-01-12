@@ -718,8 +718,10 @@ Micronesia n. Míkrónesía
 Moldova n. Moldóva
 Monaco n. Mónakó
 Mongolia n. Mongólía
+
 Montenegro n. Svartfjallaland
 Morocco n. Marokkó
+Moroccan l. marokkóskur; n. Marokkói, Marokkómaður
 Mozambique n. Mósambík
 Myanmar n. Mjanmar
 Burma n. Búrma
@@ -732,6 +734,7 @@ New Zealand n. Nýja-Sjáland
 Nicaragua n. Níkaragva
 Niger n. Níger
 Nigeria n. Nígería
+Nigerian l. nígerískur, frá Nígeríu; n. Nígeríumaður, Nígeríubúi
 North Korea n. Norður-Kórea
 North Macedonia n. Norður-Makedónía
 Oman n. Óman
@@ -2964,6 +2967,7 @@ slide rule n. reiknistokkur
 vengefulness n. hefnigirnd
 ovipositor n. varppípa
 formalin n. formalín
+formaldehyde n. formaldehýð
 pince-nez n. gleraugu sem eru fest á nefið
 novelette n. stutt skáldsaga
 critter n. kvikindi, smádýr
@@ -3497,13 +3501,39 @@ millimetre n. millimetri (einn þúsundasti úr metra)
 millimeter n. millimetri (einn þúsundasti úr metra)
 wildflower n. villiblóm
 footer n. fótur, síðufótur, neðsti bálkur á síðu
-idempotent l. sjálfvalda; einkvæmur
+idempotent l. einkvæmur; sjálfvalda (í stærðfræði)
 idempotency n. einkvæmni
-daredevilry n. fífldirfska
+daredevilry n. fífldirfska, ofurhugun
 schnapps n. snafs, vínsopi
 burnable l. brennanlegur
 autoworker n. starfsmaður í bílaverksmiðju
-manhole n. eftirlitshol, brunnur, mannop, fráveitubrunnur
+manhole n. holræsisop, eftirlitshol, brunnur, mannop, fráveitubrunnur
+callously ao. á harðbrjósta, harðlyndan eða tilfinningalausan hátt (sjá %[callous]%)
+nonsexual l. ókynferðislegur
+sought-after l. eftirsóttur
+bazooka n. basúka, sprengjuvarpa
+cellmate n. klefafélagi
+schoolbook n. skólabók
+breathable l. öndunarhæfur, andanlegur
+wellingtons n. ft. gúmmístígvél ([wellington boots])
+wifi n. þráðlaust net
+wi-fi n. þráðlaust net
+trifoliate l. þrílaufa, þriggja laufa
+trifoliated l. þrílaufa, þriggja laufa
+half-life n. helmingunartími
+bidet n. skolskál, klyftalaug
+aficionado n. áhugamaður (um [of])
+mohawk n. hanakambur
+facetiousness n. gamansemi, spaugsemi
+teatime n. tetími
+patrilineage n. föðurætt, föðurættleggur, föðurleggur
+matrilineage n. móðurætt, móðurættleggur, móðurleggur
+freedman n. leysingi, frelsaður þræll, e-r sem hefur verið frelsaður úr ánauð
+trifecta n. þrenning, þrenna
+generalization n. alhæfing; almenn fullyrðing eða lögmál
+overgeneralization n. ofuralhæfing, alhæfing fram úr hófi
+petrified l. steingerður; agndofa af skelfingu
+menopause n. tíðahvörf, tíðalok (lok reglubundinna tíðablæðinga hjá konum)
 # stabilize
 # destabilize
 # stabilizer

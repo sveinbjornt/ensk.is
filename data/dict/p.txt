@@ -771,7 +771,7 @@ pertain s. heyra til ([to])
 pertinacious l. þrár, þrálátur; staðfastur
 pertinacity n. þrái; staðfesta
 pertinence n. viðeign, viðhæfi
-pertinent l. viðeigandi, vel fallinn
+pertinent l. viðeigandi, vel fallinn, sem kemur málinu við
 perturb s. raska; trufla, ónáða; glepja, tefja fyrir
 perturbation n. truflun; óregla, ringulreið
 peruke n. hárkolla
@@ -810,7 +810,7 @@ petrel n. stormfugl, fýlungur
 petrifaction n. steingerving; steingervingur
 petrifactive l. steingerandi
 petrification n. steingerving; steingervingur
-petrify s. gera að steini; gera agndofa; verða að steini
+petrify s. gera að steini, steingera; gera agndofa (af skelfingu); verða að steini
 petrograph n. steinrista, steinrún
 petrography n. bergfræði
 petrol n. hreinsuð steinolía; vélaolía

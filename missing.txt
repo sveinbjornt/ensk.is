@@ -2540,8 +2540,6 @@ historicist
 historicism
 relentlessness
 phronetic
-overgeneralization
-generalization
 natalist
 natalism
 antinatalist
@@ -2606,7 +2604,6 @@ repopulation
 endgame
 short-circuit
 spotter
-trifecta
 deniability
 importer
 diversification
@@ -2728,7 +2725,6 @@ linkage
 dunk
 headwater
 seizable
-freedman
 jank
 janky
 overly
@@ -2776,7 +2772,6 @@ homogenization
 politically
 aboriculture
 shovelboard
-breathable
 user
 cameral
 hornbeam
@@ -2800,8 +2795,6 @@ commoditization
 coziness
 ensemble
 demonym
-patrilineage
-matrilineage
 affine
 patriciate
 arduousness
@@ -2819,15 +2812,12 @@ synergistic
 pervasiveness
 homologous
 animator
-schoolbook
 underconsumption
 compressor
-formaldehyde
 janitorial
 voluntarily
 redesign
 developmentalist
-
 inaccessibility
 reenactment
 semaphore
@@ -2853,7 +2843,6 @@ tester
 anthracis
 downwind
 atropine
-cellmate
 pituitary
 transmittal
 thymus
@@ -2875,7 +2864,6 @@ elaborately
 slightly
 triumphantly
 dinnertime
-teatime
 empressement
 vastly
 vaguely
@@ -2906,7 +2894,6 @@ harshly
 toadlike
 curiously
 silently
-facetiousness
 peashooter
 kitbag
 washstand
@@ -3012,9 +2999,7 @@ litigatious
 spate
 conservativism
 favorite
-sought-after
 piggyback
-nonsexual
 intuitively
 jobholder
 strongman
@@ -3022,8 +3007,6 @@ extortionist
 second-guess
 comedic
 sanitizer
-aficionado
-mohawk
 extraordinarily
 basically
 concierge
@@ -3081,7 +3064,6 @@ pinprick
 headlight
 knobbly
 tyke
-bidet
 tailcoat
 fruitcake
 windowsill
@@ -3118,20 +3100,16 @@ teddy
 cock-and-bull
 stargazer
 palomino
-half-life
 tap-dance
 smelly
 forevermore
 revanchism
 revanchist
-palantir
 runtime
-wellingtons
 photoshop
 personalized
 cleaner n.
 drinking
-wifi
 threaded
 charabanc
 funicular
@@ -3155,7 +3133,6 @@ bandmaster
 carousal
 sallowness
 woodwork
-callously
 emplacement
 punctiliousness
 divisional
@@ -3241,3 +3218,5 @@ heteronormative
 cisgender
 trench coat
 dendrochronology
+parados
+tarmacadam

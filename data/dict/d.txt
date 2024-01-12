@@ -1796,9 +1796,9 @@ dwarfish l. dvergslegur; kyrkingslegur
 dwarfy l. dvergslegur; kyrkingslegur
 dwell s. dveljast, eiga heima; [~ on] fara mörgum orðum um
 dweller n. íbúi
-dwelling n. bústaður
+dwelling n. bústaður, dvalarstaður
 dwelling-house n. íbúðarhús
-dwelling-place n. verustaður
+dwelling-place n. verustaður, dvalarstaður, aðsetur
 dwindle s. minnka, rýrna
 dye s. lita; n. litur; litunarefni
 dyer n. litari

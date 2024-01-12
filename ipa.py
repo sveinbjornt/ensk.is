@@ -501,6 +501,12 @@ SKIP = frozenset(
         "daredevilry",
         "idempotency",
         "monkswood",
+        "sought-after",
+        "generalization",
+        "matrilineage",
+        "patrilineage",
+        "trifoliate",
+        "trifoliated",
     )
 )
 

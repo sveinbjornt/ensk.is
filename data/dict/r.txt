@@ -8,11 +8,11 @@ rabid l. æðisgenginn, óður (um hunda)
 rabidness n. æði
 rabies n. hundaæði
 raccoon n. þvottabjörn
-race n. kyn, ætt ([of noble ~]); kynflokkur ([the Mongolian ~, the human ~]); hröð ferð, skeið; kapphlaup ([foot~]); kappreið ([horse~]); kappróður, kappsigling ([boat-~]); stríður straumur, röst (í sjó); [run a ~] þreyta kapphlaup, reyna sig á hlaupi; [my ~ is run] æviskeið mitt er runnið
-race s. þreyta kapphlaup (kappreið, kappróður), reyna sig á hlaupi (á reið, róðri eða siglingu); reyna (hest) á hlaupi
+race n. kyn, ætt ([of noble ~]); kynflokkur, kynþáttur ([the Mongolian ~, the human ~]); hröð ferð, skeið; kapphlaup ([foot~]); kappreið ([horse~]); kappróður, kappsigling ([boat-~]); stríður straumur, röst (í sjó); [run a ~] þreyta kapphlaup, reyna sig á hlaupi; [my ~ is run] æviskeið mitt er runnið
+race s. þreyta kapphlaup (kappreið, kappakstur, kappróður), reyna sig á hlaupi (á reið, róðri eða siglingu); reyna (hest) á hlaupi
 race boat n. kappróðrarbátur, kappsiglingabátur
-racecourse n. skeiðvöllur
-raceground n. skeiðvöllur
+racecourse n. skeiðvöllur, kappakstursbraut
+raceground n. skeiðvöllur, kappakstursbraut
 racehorse n. kappreiðarhestur
 race meeting n. kappreiðar
 racer n. kapphlaupamaður, kappreiðarmaður; kappreiðarhestur
@@ -987,7 +987,7 @@ respectful l. virðingarfullur; virðulegur
 respectfully ao. virðingarfyllst; virðulega; [~ yours] með virðingu yðar (undir sendibréfum)
 respecting ao. að því er snertir, um
 respective l. tiltölulegur; hver (hvor) um sig, hver að sínu leyti
-respirable l. sem má anda að sér
+respirable l. sem má anda að sér, öndunarhæfur, andanlegur
 respiration n. andardráttur; hvíld (til að kasta mæðinni)
 respirator n. munnskýla (til að anda í gegnum)
 respiratory l. öndunar- ([~ illness])
