@@ -3,7 +3,7 @@
 
     Ensk.is - Free and open English-Icelandic dictionary
 
-    Copyright (c) 2023 Sveinbjorn Thordarson <sveinbjorn@sveinbjorn.org>
+    Copyright (c) 2021-2024 Sveinbjorn Thordarson <sveinbjorn@sveinbjorn.org>
 
     Redistribution and use in source and binary forms, with or without modification,
     are permitted provided that the following conditions are met:
