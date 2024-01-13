@@ -2499,7 +2499,7 @@ crescent l. vaxandi; í lögun eins og hálfmáni; n. vaxandi tungl, hálfmáni
 cress n. hrafnaklukka ([meadow ~])
 cresset n. e.k. ljósker, glóðarker
 crest n. kambur (á dýrum); öldukambur; fjaðraskúfur, hjálmskúfur; hjálmur; toppur; tindur; fjallshryggur; s. setja kamb (hrygg, topp) á e-ð; mynda kamb á e-u; komast upp á kamb; hringa sig, risa (um öldur)
-crestfallen l. huglaus, hnugginn
+crestfallen l. hnugginn, huglaus
 crevasse n. jökulsprunga
 crevice n. sprunga, rifa
 crew n. áhöfn (á skipi, í flugvél); hópur, flokkur ([a ~ of gypsies])
@@ -2509,12 +2509,12 @@ crick n. rígur (í hálsi eða baki)
 cricket n. e.k. enskur knattleikur; engispretta, krybba
 crier n. kallari
 crime n. afbrot, glæpur
-criminal l. saknæmur, glæpsamlegur; sekur (í glæp); sem lýtur að sakamálum; n. glæpamaður, óbótamaður
-criminality n. saknæmi, sekt
+criminal l. saknæmur, glæpsamlegur; sekur (í glæp); sakamála-, sem lýtur að sakamálum; n. glæpamaður, afbrotamaður, óbótamaður
+criminality n. saknæmi, sekt; glæpamennska
 criminate s. ákæra; sanna glæp á e-n; bera sakir á e-n; sakaráburður
 criminology n. afbrotafræði, glæpafræði
 criminous l. glæpsamlegur
-crimp s. gera liði á (hár); gára; lokka til sjómennsku eða herþjónustu; n. maður, sem lokkar menn til herþjónustu eða sjómennsku; l. sem molnar; stökkur (sjá %[crisp]%)
+crimp s. gera liði á (hár); gára; lokka til sjómennsku eða herþjónustu; n. maður sem lokkar aðra menn til herþjónustu eða sjómennsku; l. sem molnar; stökkur (sjá %[crisp]%)
 crimson l. fagurrauður; n. fagurrauður litur; s. lita fagurrautt; roðna; [her (pale) face ~ed] hún roðnaði
 cringe s. kiprast saman; hneigja sig auðmjúklega; flaðra; n. auðvirðileg hneiging
 crinkle n. hrukka; felling; liður (á hári); s. gera hrukkur á

@@ -1368,23 +1368,23 @@ Arctic n. Norðurskautslandið (yfirleitt með ákv. greini [the ~]); l. Norður
 Arctic Circle n. Norðurheimskautsbaugur
 Antarctic Circle n. Suðurheimskautsbaugur
 North America n. Norður-Ameríka (heimsálfa)
-North American n. norðuramerískur
+North American n. norðuramerískur; n. Norður-Ameríkani, Norður-Ameríkumaður
 Central America n. Mið-Ameríka
-Central American n. miðamerískur
+Central American n. miðamerískur; n. Mið-Ameríkani, Mið-Ameríkumaður
 South America n. Suður-Ameríka (heimsálfa)
-South American n. suðuramerískur
+South American n. suðuramerískur; n. Suður-Ameríkani, Suður-Ameríkumaður
 Oceania n. Eyjaálfa (heimsálfa sem nær yfir Ástralíu og nærliggjandi eyjar)
 telegrapher n. símritari, símaþjónn
-Asian l. asískur, austurálfu-, frá austurálfu; n. Asíumaður, austurálfumaður
+Asian l. asískur, austurálfu-, frá austurálfu; n. Asíumaður, Asíubúi, austurálfumaður
 Oceanian l. Eyjaálfu-, frá Eyjaálfu; n. Eyjaálfumaður
 Polynesia n. Pólýnesía (eyjaklasi í Kyrrahafi)
 Polynesian l. pólýnesískur
-Caribbean l. Karíbahafs-, karíbskur; n. [the ~] Karíbahaf; karíbskur maður
+Caribbean l. Karíbahafs-, karíbskur; n. karíbskur maður; [the ~] Karíbahaf
 ukulele n. úkúlele, smágítar (strengjahljóðfæri)
 Lombardy n. Langbarðaland
 Kiev n. Kænugarður (borg í Úkraínu)
 Kyiv n. Kænugarður (borg í Úkraínu)
-Constantinople n. Mikligarður (í dag borgin Istanbúl)
+Constantinople n. Mikligarður (í dag tyrkneska borgin Istanbúl)
 Cologne n. Köln (borg í Þýskalandi)
 cologne n. ilmvatn, kölnarvatn, rakspíri
 London n. Lundúnir, London (höfuðborg Bretlands)
@@ -1594,7 +1594,7 @@ asthenia n. þróttleysi
 sealant n. þéttiefni
 evisceration n. fjarlæging innyfla; kviðskurður
 trichromatic l. þrílita-, þrílitaður
-macroeconomic l. þjóðhagslegur
+macroeconomic l. þjóðhagslegur, þjóðhagfræðilegur
 macroeconomics n. ft. þjóðhagfræði, heildarhagfræði
 macroeconomist n. þjóðhagfræðingur
 microeconomic l. rekstrarhagfræðilegur
