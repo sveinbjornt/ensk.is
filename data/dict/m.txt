@@ -795,7 +795,7 @@ mill n. mylla; kvörn ([coffee ~]); verksmiðja ([cotton ~]); s. mala; móta, sl
 millstone n. myllusteinn ([upper, nether ~s])
 milltooth n. jaxl
 millwright n. myllusmiður
-millenarian n. & l. maður sem trúir á þúsundáraríki Krists
+millenarian l. er varðar trú á þúsundáraríki Krists; n. maður sem trúir á þúsundáraríki Krists
 millenary l. þúsund ára; þúsundfaldur; n. eitt þúsund ár
 millennial l. þúsund ára, sem stendur (hefur staðið) í eitt þúsund ár; þúsund ára afmæli (hátíð)
 millennium n. þúsundáraríki (Krists á jörðunni); þúsundáraafmæli; þúsund ár; árþúsund
@@ -1228,7 +1228,7 @@ moraine n. jökulalda
 moral l. siðferðislegur; siðgóður; [~ law] siðalögmál; n. siðalærdómur (t.d. í dæmisögu)
 morals n. ft. siðfræði; siðferði, siðir
 moralist n. siðafræðari, siðspekingur; vandlætari
-morality n. siðferði; siðalögmál; siðafræði
+morality n. siðferði; siðgæði; siðalögmál; siðafræði
 moralization n. siðferðisleg hugleiðing
 moralize s. siða; draga siðalærdóm út úr; gera siðferðislegar hugleiðingar
 moralizer n. siðferðispredikari, vandlætari

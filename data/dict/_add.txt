@@ -7,6 +7,8 @@ microwave n. örbylgja; örbylgjuofn; s. hita í örbylgjuofni
 microwave oven n. örbylgjuofn
 helicopter n. þyrla; [~ pilot] þyrluflugmaður
 computer n. tölva, reiknivél; e-r sem reiknar, reiknari
+computer science n. tölvunarfræði
+computer scientist n. tölvunarfræðingur
 algorithm n. algrím, reiknirit
 algorithmic l. reiknirits-, algríms-, algrímskur
 heliocentrism n. sólmiðjukenning
@@ -480,10 +482,14 @@ language technology n. máltækni
 guerrilla n. skæruliði
 guerrilla warfare n. skæruhernaður
 neoclassical l. nýklassískur; [~ architecture] nýklassísk byggingarlist
-basic l. grundvallar-, undirstöðu- ([~ principles]); basískur (efnafr.); n. ft. [~s] grundvallaratriði
+basic l. grundvallar-, undirstöðu- ([~ principles]); basískur (efnafr.); n. ft. [the ~s] grundvallaratriðin
 hyponym n. undirheiti ([crow is a ~ of bird])
 hypernym n. yfirheiti ([bird is a ~ of crow])
 antonym n. andheiti ([dead is the ~ of alive])
+software n. hugbúnaður
+software engineer n. hugbúnaðarverkfræðingur
+software development n. hugbúnaðarþróun
+software developer n. hugbúnaðarsmiður
 update s. uppfæra; n. uppfærsla; [software ~] hugbúnaðaruppfærsla
 updated l. uppfærður
 upgrade s. uppfæra; n. uppfærsla
@@ -547,7 +553,7 @@ aluminum n. ál (Band.)
 hardwood n. harðviður; gegnheill viður; l. harðviðar-
 vanilla n. vanilla; l. vanillu-
 orgasm n. fullnæging
-bacterial l. gerla-, bakteríu-
+bacterial l. gerla-, bakteríu-, örveru-
 hallucinatory l. ofskynjunar-
 hallucinogen n. ofskynjunarlyf, ofskynjunarefni
 hallucinogenic l. ofskynjunarvaldandi; n. ofskynjunarvaldur
@@ -590,10 +596,11 @@ optimal l. eins gott og getur orðið
 seeress n. spákona, völva, seiðkona
 oral sex n. munnmök
 Afghanistan n. Afganistan
-Afghan l. afganskur; n. Afgani, frá Afganistan
+Afghan l. afganskur, frá Afganistan; n. Afgani
 Albania n. Albanía
 Albanian l. albanskur, frá Albaníu; n. Albani, Albaníumaður; albanska
 Algeria n. Alsír
+Algerian l. alsírskur, frá Alsír; n. Alsíringur, Alsírbúi
 American Samoa n. Bandaríska Samóa
 Andorra n. Andorra
 Angola n. Angóla
@@ -639,9 +646,12 @@ Comoros n. Kómoreyjar
 Congo n. Kongó
 Costa Rica n. Kosta Ríka
 Croatia n. Króatía
+Croatian l. króatískur; n. Króati; króatíska
 Cuba n. Kúba
+Cuban l. kúbverskur; n. Kúbverji, Kúbumaður
 Cyprus n. Kýpur
-Czech l. tékkneskur; n. Tékki
+Czech l. tékkneskur; n. Tékki; tékkneska
+Czech Republic n. Tékkland
 Czechia n. Tékkland
 Djibouti n. Djíbútí
 Dominica n. Dóminíka
@@ -670,6 +680,8 @@ Germany n. Þýskaland
 Ghana n. Gana
 Gibraltar n. Gíbraltar
 Greenland n. Grænland
+Greenlander n. Grænlendingur
+Greenlandic l. grænlenskur; n. grænlenska
 Guadeloupe n. Gvadelúpeyjar
 Guam n. Gvam
 Guatemala n. Gvatemala
@@ -700,7 +712,8 @@ Lesotho n. Lesótó
 Liberia n. Líbería
 Libya n. Líbía
 Liechtenstein n. Liechtenstein
-Lithuania n. Litháen
+Lithuania n. Litáen
+Lithuanian l. litáískur; n. Litái; litáíska
 Luxembourg n. Lúxemborg
 Malawi n. Malaví
 Malaysia n. Malasía
@@ -713,7 +726,7 @@ Mauritania n. Máritanía
 Mauritius n. Máritíus
 Mayotte n. Mayotte
 Mexico n. Mexíkó
-Mexican l. mexíkóskur, mexíkanskur; n. Mexíkói, e-r frá Meíkó
+Mexican l. mexíkóskur, mexíkanskur; n. Mexíkói, Mexíkani
 Micronesia n. Míkrónesía
 Moldova n. Moldóva
 Monaco n. Mónakó
@@ -746,6 +759,7 @@ Papua New Guinea n. Papúa Nýja-Gínea
 Paraguay n. Paragvæ
 Peru n. Perú
 Philippines n. ft. Filippseyjar ([the ~])
+Philippine l. filipseyskur (frá Filippseyjum); n. Filippseyingur
 Portugal n. Portúgal
 Puerto Rico n. Púertó Ríkó
 Qatar n. Katar
@@ -778,13 +792,12 @@ Suriname n. Súrínam
 Svalbard n. Svalbarði
 Swaziland n. Svasíland
 Switzerland n. Sviss
-Swiss l. svissneskur; n. Svisslendingar ([the ~ people])
 Syria n. Sýrland
 Taiwan n. Taívan
 Tajikistan n. Tadsjikistan
 Tanzania n. Tansanía
 Thailand n. Taíland
-Thai l. taílenskur
+Thai l. taílenskur; n. Taílendingur
 Timor-Leste n. Austur-Tímor
 Togo n. Tógó
 Tokelau n. Tókelá
@@ -908,6 +921,7 @@ plutonium n. plúton, plútóníum (frumefni)
 europium n. evrópín, evrópíum (frumefni)
 californium n. kalifornín, kaliforníum (frumefni)
 manganese n. mangan (frumefni)
+vanadium n. vanadín, vanadíum (frumefni)
 Buddhism n. búddismi (austurlensk trúarbrögð)
 Buddhist n. búddisti (sjá %[Buddhism]%); l. búddista-
 Copt n. sjá %[Coptic]%
@@ -981,7 +995,7 @@ surrealism n. súrrealismi, fjarstæðustefna (stefna í listum og bókmenntum)
 surreal n. súrrealískt, fjarstæðukennt, sem ber svip af súrrealisma (sá %[surrealism]%)
 sleaze n. viðbjóður, spilling, svindl
 flab n. spik, fita
-yuppie n. (óforml.) uppi, ung fagmanneskja í þéttbýli (frá [young urban professional])
+yuppie n. (óforml.) uppi, ung fagmanneskja í þéttbýli (stytt. á [young urban professional])
 visa n. vegabréfsáritun, áritun, dvalarleyfi ([my ~ has expired])
 viral l. veiru-
 technique n. aðferð, tækni; [parenting ~s] uppeldisaðferðir
@@ -1719,7 +1733,7 @@ Kurdish l. kúrdneskur; kúrdneska (tungumál)
 angst n. angist
 angst-ridden l. angistarfullur
 criminalize s. glæpavæða, banna, gera refsivert
-decriminalize s. afglæpavæða, afnema refsingar fyrir
+decriminalize s. afglæpavæða, afnema refsingar fyrir ([~ drugs, prostitution])
 decriminalization n. afglæpavæðing
 biometry n. lífmælingar
 biometrics n. lífmælingar
@@ -1752,12 +1766,13 @@ individualism n. einstaklingshyggja
 individualistic l. einstaklingshyggjulegur, einstaklingshyggju-
 individualist n. einstaklingshyggjumaður, einstaklingshyggjusinni
 monarchist n. konungssinni, konungsveldissinni, einveldissinni
-monarchism n. einveldisstefna, konungsveldisstefna
+monarchism n. konungsstefna, konungsveldisstefna; einveldisstefna (sjá %[absolute monarchy]%)
 absolute monarch n. einvaldur
 absolute monarchy n. einveldisríki, ríki þar sem konungur er einvaldur og öllu ræður
 ideological l. hugmyndafræðilegur, hugmyndafræði-
 ideologically ao. hugmyndafræðilega
 unideological l. óhugmyndafræðilegur
+unideologically ao. óhugmyndafræðilega
 ideology n. hugmyndafræði
 ideologue n. hugmyndafræðingur, talsmaður e-r hugmyndafræði
 climatology n. veðurfarsfræði
@@ -3247,6 +3262,7 @@ leatherworking n. leðurvinnsla
 leatherworker n. sá sem fæst við leðurvinnslu (sjá %[leatherworking]%)
 synergy n. samlegð, samlegðaráhrif, samvirkni, samyrkja
 synergistic l. samvirkur, samverkandi; [~ effect] samlegðaráhrif
+synergize s. samvirkja
 monograph n. einefnisrit
 pseudorandom l. gervislembi-; [~ number generator] gervislembitalnagjafi (í tölvunarfræði)
 pseudoscalar n. gervitala; l. gervitölu-
@@ -3457,8 +3473,8 @@ in absentia ao. í fjarveru, að fjarstöddum (úr latínu)
 mea culpa uh. sökin er mín! (úr latínu)
 kindliness n. góðmennska, góðvild
 undocumented l. óskráður, óskjalaður
-globalize s. hnattvæða
-globalization n. hnattvæðing
+globalize s. hnattvæða, alþjóðavæða
+globalization n. hnattvæðing, alþjóðavæðing
 glamorous l. töfrandi, heillandi, ljómandi
 babysit s. passa börn
 babysitting n. barnapössun
@@ -3568,18 +3584,60 @@ hospitalized l. vistaður á sjúkrahúsi
 hypothyroidism n. skjaldvakabrestur, skjaldvakaskortur, vanvirkni skjaldkirtils
 psychotropic l. geðsækinn, sem hefur áhrif á sálarlíf; n. geðlyf ([~ drugs])
 nanotechnology n. nanótækni, dvergtækni
-meritocracy n. verðleikaveldi (stjórnarfar þar sem fólk kemst til valda sökum verðleika sinna)
+meritocracy n. verðleikaveldi (stjórnarfar eða skipulag þar sem fólk kemst til valda sökum verðleika sinna)
 meritocratic l. verðleika-, verðleikaveldis- (sjá %[meritocracy]%)
 counterweight n. andvægi, mótvægi
-enforceable l. framfylgjanlegur
+enforceable l. framfylgjanlegur; þvinganlegur
 transdermal l. sem fer í gegnum húðina; [~ patch] forðaplástur
 praxeology n. hegðunarfræði
-ballistic l. kast-, skot-, sprengi-, þeyti-; [~ missile] kastflaug, flugskeyti
-authoritarian l. valdboðs-, stýrandi; n. valdboðssinni
+ballistic l. kast-, skot-, þeyti-; [~ missile] kastflaug, flugskeyti
+authoritarian l. valdboðs-, valdboðslegur; n. valdboðssinni
 authoritarianism n. valdboðsstefna (stjórnarfar sem einkennist af miðstýringu og undirgefni borgara)
 neuromyopathy n. tauga- og vöðvakvilli
 ICBM n. langdrægt flugskeyti (stytt. á [intercontinental ballistic missile])
 eponym n. samnafn eða almennt heiti sem dregið er af sérnafni (t.d. %[geyser]%, dregið af Geysi)
+Thomist n. fylgismaður heimspeki og/eða guðfræði Tómasar frá Akvínó
+Thomistic l. er varðar heimspeki eða guðfræði Tómasar frá Akvínó
+aphasia n. málstol, tjástol, orðglöp
+pastoralism n. kvikfjárrækt, hjarðmennska
+pastoralist n. hirðingi; l. hirðingja- ([a ~ way of life])
+underconsumption n. vanneysla
+exudative l. vilsandi, vessandi
+biohazard n. lífsýnahætta, lífræn hætta
+lithosphere n. stinnhvolf, jarðskorpa, steinhvolf (ysti hluti skorpu jarðar)
+millenarianism n. trú á þúsundáraríki (Krists)
+chiliasm n. þúsúndáraríkistrú
+chiliast n. e-r sem trúir á þúsundáraríki (Krists)
+chiliastic l. þúsúndáraríkistrúar-, er varðar trú á þúsundáraríki (Krists)
+homogenization n. jöfnun, jafnblöndun
+fluorescence n. flúrljómi, flúrskin, flúrskíma, flúrgeislun
+fluorescent l. flúrljómandi, flúrlýsandi, flúrskímandi; [~ light] flúrljós
+interconnectedness n. innri tengsl, innbyrðis tengsl, samtengsl, millitengsl
+geriatric l. öldrunar-; [~ medicine] öldrunarlækningar
+counterexample n. gagndæmi, mótdæmi
+airborne l. vindborinn, loftborinn; sem dreifist með lofti ([~ disease, transmission])
+endocrine l. innkirtla-; innkirtill ([~ gland])
+neurophysiology n. taugalífeðlisfræði
+neurophysiologist n. taugalífeðlisfræðingur
+clinician n. klínískur læknir eða sérfræðingur
+heritability n. arfgengi
+catatonic l. stjarfur
+erogenous l. kynnæmur
+serology n. blóðvatnsfræði, sermifræði
+moratorium n. stöðvun, fresun, greiðslustöðvun
+haemorrhage n. blæðing; [brain ~] heilablæðing
+semicircle n. hálfhringur
+bacillus n. stafgerill, stafbaktería (örvera)
+semiology n. einkennafræði
+heterogeneity n. misleitni
+anxiogenic l. kvíðavaldandi; n. kvíðavaldandi lyf
+anxiolytic l. kvíðastillandi; n. kvíðastillandi lyf
+psychopathology n. sálsýkisfræði
+maladjustment n. mishæfing, aðlögunarörðugleikar
+transnational l. þverþjóðlegur, fjölþjóðlegur, sem nær þvert yfir landamæri þjóða
+disunity n. sundrung, óeining, ósamstaða
+amoral l. siðlaus, siðblindur; hvorki siðferðislegur né ósiðferðislegur
+amorality n. siðleysi, siðblinda; ónæmi fyrir siðferðiskennd
 # stabilize
 # destabilize
 # stabilizer
