@@ -507,6 +507,11 @@ SKIP = frozenset(
         "patrilineage",
         "trifoliate",
         "trifoliated",
+        "astrodynamics",
+        "managerialism",
+        "managerialist",
+        "marketization",
+        "multi-dimensional",
     )
 )
 

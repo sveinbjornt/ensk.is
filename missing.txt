@@ -7,10 +7,8 @@ hellacious
 parametric
 doozy
 dynamic (endurskoða)
-astrodynamics
 gyroscope
 scoot s.
-scooter
 electric scooter
 contrarian
 timestamp
@@ -58,7 +56,6 @@ aquaponic
 djinn
 cockatrice
 manticore
-hellhound
 Bigfoot
 chimera
 golem
@@ -1091,7 +1088,6 @@ earthwork
 simplistic
 simplistically
 farmable
-enforceable
 penchant
 ethos
 chivalric
@@ -1109,7 +1105,6 @@ undiplomatic
 untrustworthy
 ritualistic
 reintroduction
-counterweight
 springboard
 moonshot
 breakaway
@@ -1199,8 +1194,6 @@ graven
 supremacist
 hideousness
 unsanitary
-meritocracy
-meritocratic
 ghoulish
 celebratory
 fantasist
@@ -1245,7 +1238,6 @@ tarmac
 tranche
 trendy
 blurry
-nanotechnology
 mantra
 freefall
 mainframe
@@ -1310,8 +1302,6 @@ uncharacteristic
 pushiness
 smokescreen
 edginess
-stabilization
-destabilization
 scam
 scammer
 unbeknownst
@@ -1339,15 +1329,9 @@ schoolwork
 custodial
 scholarliness
 overprescription
-psychotropic
-hypothyroidism
 endocrine
-hospitalize
-hospitalization
 psychotic
-antipsychotic
 budgetary
-fetishistic
 faeculent
 argot
 officialdom
@@ -1359,8 +1343,6 @@ ungrammatical
 constrictor
 dysphasia
 inarticulacy
-collectivism
-collectivist
 appropriateness
 counterblast
 handout
@@ -1377,7 +1359,6 @@ premiership
 invulnerability
 downturn
 familial
-managerial
 Presbyterianism
 indebtedness
 cartelization
@@ -3022,38 +3003,28 @@ localization
 delocalization
 translocalization
 prelocalization
-managerialist
-managerialism
 boondogglery
 flak
 abjectly
 self-important
 catwalk
-marketization
 broadcaster
 accrual
-recalibration
 editorialist
 subcultural
 scrounger
 skiver
-three-dimensional
-two-dimensional
-multi-dimensional
 feverishly
 placatory
 ageless
 pisspot
 bonhomie
-luminescence
 sleight-of-hand
 innards
 breeder
 underpants
 bemusement
 gabardine
-chiropodist
-podiatrist
 orgasmic
 eyehole
 hereinafter
@@ -3169,7 +3140,6 @@ mulishness
 espousal
 flintlock
 shopfront
-antimony
 rickshaw
 panoramic
 reimpose
@@ -3185,7 +3155,6 @@ procrustean
 sophomoric
 gallimaufry
 metrosexual
-metrology
 metronomic
 metroplex
 tween
@@ -3204,7 +3173,6 @@ carabiner
 moquette
 patinazzz
 ithyphallic
-aneurysm
 dither
 astroturf
 astroturfing
@@ -3220,3 +3188,4 @@ trench coat
 dendrochronology
 parados
 tarmacadam
+trope n. endurskoða!

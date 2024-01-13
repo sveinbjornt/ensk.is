@@ -3452,11 +3452,12 @@ in absentia ao. í fjarveru, að fjarstöddum (úr latínu)
 mea culpa uh. sökin er mín! (úr latínu)
 kindliness n. góðmennska, góðvild
 undocumented l. óskráður, óskjalaður
+globalize s. hnattvæða
 globalization n. hnattvæðing
 glamorous l. töfrandi, heillandi, ljómandi
 babysit s. passa börn
 babysitting n. barnapössun
-babysitter n. barnapía
+babysitter n. barnapía, barnapassari
 flatbread n. flatbrauð, flatkaka
 farmland n. ræktarland, ræktunarland, lendur sem henta til landbúnaðar
 fistfight n. hnefaleikar, slagsmál eða áflog með hnefum einum saman
@@ -3534,6 +3535,37 @@ generalization n. alhæfing; almenn fullyrðing eða lögmál
 overgeneralization n. ofuralhæfing, alhæfing fram úr hófi
 petrified l. steingerður; agndofa af skelfingu
 menopause n. tíðahvörf, tíðalok (lok reglubundinna tíðablæðinga hjá konum)
+scooter n. vespa, létt bifhjól; hlaupahjól; [electric ~] rafhlaupahjól
+astrodynamics n. ft. geimbrautafræði
+astrodynamics l. geimbrautafræðilegur, geimbrauta-
+hellhound n. vítishundur, heljarhundur
+aneurysm n. slagæðargúlpur
+metrology n. mælitækni
+antimony n. antímon
+chiropodist n. fótaaðgerðafræðingur
+podiatrist n. fótaaðgerðafræðingur
+luminescence n. ljóm, ljómun
+three-dimensional l. þrívíður
+two-dimensional l. tvívíður
+multi-dimensional l. fjölvíður
+recalibration n. endurkvörðun, endurstilling
+marketization n. markaðsvæðing
+managerial l. stjórnunar-, sem lýtur að stjórnun
+managerialism n. stjórnunarhyggja, stjórnhyggja
+managerialist n. stjórnunarhyggjusinni, stjórnhyggjusinni
+collectivism n. sameignarstefna
+collectivist n. sameignarsinni
+fetishistic l. blætis-; sem tengist töfragripum
+antipsychotic l. sefandi; n. geðrofslyf, sefandi lyf
+hospitalization n. sjúkrahúsvistun
+hospitalize s. vista á sjúkrahúsi
+hospitalized l. vistaður á sjúkrahúsi
+hypothyroidism n. skjaldvakabrestur, skjaldvakaskortur, vanvirkni skjaldkirtils
+psychotropic l. geðsækinn, sem hefur áhrif á sálarlíf; n. geðlyf ([~ drugs])
+nanotechnology n. nanótækni, dvergtækni
+meritocracy n. verðleikaveldi (stjórnarfar þar sem fólk kemst til valda sökum verðleika sinna)
+meritocratic l. verðleika-, verðleikaveldis- (sjá %[meritocracy]%)
+counterweight n. andvægi, mótvægi
 # stabilize
 # destabilize
 # stabilizer
