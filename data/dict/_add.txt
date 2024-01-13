@@ -1665,7 +1665,7 @@ logical fallacy n. rökvilla
 handball n. handbolti
 premature infant n. fyrirburi, barn sem fæðist fyrir tímann
 aerosol n. agnúði, úði
-Greek n. Grikki; gríska (tungumál); l. grískur
+Greek l. grískur; n. Grikki; gríska (tungumálið); [it's all ~ to me!] ég skil ekkert!
 mathematically ao. stærðfræðilega
 methodological l. aðferðafræðilegur
 unafraid l. óhræddur, óttalaus
@@ -1796,19 +1796,23 @@ mentality n. hugarfar
 swimming pool n. sundlaug
 class system n. stéttakerfi
 Nordic l. norrænn; [the ~ countries, the ~s] Norðurlöndin
-tommy gun n. e.k. hríðskotabyssa ([Thompson submachine gun])
+tommy gun n. e.k. hríðskotabyssa (stytt. á [Thompson submachine gun])
 mass production n. fjöldaframleiðsla
 monolingual l. eintyngdur
+monolingualism n. eintyngi
+unilingual l. eintyngdur
+unilingualism n. eintyngi
 multilingual l. fjöltyngdur
 multilingualism n. fjöltyngi
 monoglot n. eintyngd manneskja; l. eintyngdur
+monoglottism n. eintyngi
 genocide n. þjóðarmorð
 genocidal l. þjóðarmorðs-
 democratize s. lýðræðisvæða
 democratization n. lýðræðisvæðing
 pacifist n. friðarsinni
 pacifism n. friðarhyggja
-pacifistic n. friðarhyggju-
+pacifistic n. friðarhyggju-, friðarhyggjulegur
 sabotage n. skemmdarverk, spellvirki; skemmdarverkastarfsemi; s. skemma, spilla fyrir, eyðileggja
 saboteur n. skemmdarvargur, skemmdarverkamaður, spellvirki
 parsnip n. pastínakka, pastinakk, nípa (matjurt)
@@ -3396,7 +3400,7 @@ bowel l. innyfla-; [~ movements] hægðir, innyflahreyfingar
 hothead n. æsingamaður, e-r sem er hvatvís, skapmikill, bráðlátur
 sexism n. kynjamismunun, kynjamisrétti, kynjafordómar, karl- eða kvenremba
 sexist n. karlremba, kvenremba, manneskja sem gerir upp á milli kynja; l. kynjafordóma-, karlrembu-, karlrembulegur, kvenrembu-, kvenrembulegur ([~ outlook, opinions])
-drumbeat n. trommusláttur
+drumbeat n. trommusláttur, trommutaktur
 ambassadorship n. sendiherraembætti, sendiherrastarf
 pneumonic l. lungna-
 pneumonitis n. millivefslungnabólga
@@ -3494,7 +3498,7 @@ consumerism n. neysluhyggja
 nonsmoker n. manneskja sem reykir ekki
 non-smoker n. manneskja sem reykir ekki
 anti-smoker n. andreykingamanneskja, einhver sem er mótfallinn reykingum
-phallus n. getnaðarlimur, limur, tittlingur, typpi; reðurtákn
+phallus n. getnaðarlimur, limur, typpi; reðurtákn
 phallic l. getnaðarlims-, líkur getnaðarlim eða typpi; [~ symbol] reðurtákn
 workspace n. vinnurými
 error-prone l. villugjarn
@@ -3638,6 +3642,7 @@ transnational l. þverþjóðlegur, fjölþjóðlegur, sem nær þvert yfir land
 disunity n. sundrung, óeining, ósamstaða
 amoral l. siðlaus, siðblindur; hvorki siðferðislegur né ósiðferðislegur
 amorality n. siðleysi, siðblinda; ónæmi fyrir siðferðiskennd
+smoked l. reyktur; [~ salmon] reyktur lax
 # stabilize
 # destabilize
 # stabilizer
