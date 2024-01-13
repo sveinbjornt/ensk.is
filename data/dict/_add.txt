@@ -718,7 +718,6 @@ Micronesia n. Míkrónesía
 Moldova n. Moldóva
 Monaco n. Mónakó
 Mongolia n. Mongólía
-
 Montenegro n. Svartfjallaland
 Morocco n. Marokkó
 Moroccan l. marokkóskur; n. Marokkói, Marokkómaður
@@ -728,8 +727,8 @@ Burma n. Búrma
 Namibia n. Namibía
 Nauru n. Nárú
 Nepal n. Nepal
-Netherlands n. Holland, Niðurlönd
-New Caledonia n. Nýja-Kaledónía
+Netherlands n. ft. Niðurlönd (Holland)
+New Caledonia n. Nýja-Kaledónía (sjá %[Caledonia]%)
 New Zealand n. Nýja-Sjáland
 Nicaragua n. Níkaragva
 Niger n. Níger
@@ -746,11 +745,12 @@ Panama n. Panama
 Papua New Guinea n. Papúa Nýja-Gínea
 Paraguay n. Paragvæ
 Peru n. Perú
-Philippines n. Filippseyjar
+Philippines n. ft. Filippseyjar ([the ~])
 Portugal n. Portúgal
 Puerto Rico n. Púertó Ríkó
 Qatar n. Katar
 Romania n. Rúmenía
+Romanian l. rúmenskur, frá Rúmeníu; n. Rúmeni; rúmenska
 Russia n. Rússland
 Rwanda n. Rúanda
 Samoa n. Samóa
@@ -758,10 +758,14 @@ San Marino n. San Marínó
 Saudi Arabia n. Sádi-Arabía
 Senegal n. Senegal
 Serbia n. Serbía
+Serb n. Serbi
+Serbian l. serbneskur; n. serbneska
 Seychelles n. Seychelles-eyjar
 Sierra Leone n. Síerra Leóne
 Singapore n. Singapúr
 Slovakia n. Slóvakía
+Slovak n. Slóvaki
+Slovakian l. slóvakískur, slóvaskur; slóvakíska
 Slovenia n. Slóvenía
 Solomon Islands n. Salómonseyjar
 Somalia n. Sómalía
@@ -774,6 +778,7 @@ Suriname n. Súrínam
 Svalbard n. Svalbarði
 Swaziland n. Svasíland
 Switzerland n. Sviss
+Swiss l. svissneskur; n. Svisslendingar ([the ~ people])
 Syria n. Sýrland
 Taiwan n. Taívan
 Tajikistan n. Tadsjikistan
@@ -789,7 +794,7 @@ Turkmenistan n. Túrkmenistan
 Tuvalu n. Túvalú
 Uganda n. Úganda
 Ukraine n. Úkraína
-Ukrainian l. úkraínskur; n. Úkraínumaður
+Ukrainian l. úkraínskur; n. Úkraínumaður; úkraínska
 United Arab Emirates n. Sameinuðu arabísku furstadæmin
 United Kingdom n. Bretland (Sameinaða konungdæmið)
 United States of America n. Bandaríki Norður-Ameríku, Bandaríkin
@@ -800,14 +805,14 @@ Vanuatu n. Vanúatú
 Vatican n. Vatíkanið í Róm
 Venezuela n. Venesúela
 Vietnam n. Víetnam
-Vietnamese l. víetnamskur
+Vietnamese l. víetnamskur; n. Víetnami; víetnamska
 Western Sahara n. Vestur-Sahara
 Yemen n. Jemen
 Zambia n. Sambía
 Zambian l. sambískur, frá Sambíu; Sambíumaður
 Zimbabwe n. Simbabve
 Korea n. Kórea
-Korean l. kóreskur, frá Kóreu; n. Kóreumaður
+Korean l. kóreskur, frá Kóreu; n. Kóreumaður; kóreska
 tsar n. Rússlandskeisari
 tsarina n. Rússlandskeisaradrottning
 unsubscribe s. segja upp áskrift ([~ from the newsletter] segja upp áskrift að fréttabréfi)
@@ -3566,6 +3571,15 @@ nanotechnology n. nanótækni, dvergtækni
 meritocracy n. verðleikaveldi (stjórnarfar þar sem fólk kemst til valda sökum verðleika sinna)
 meritocratic l. verðleika-, verðleikaveldis- (sjá %[meritocracy]%)
 counterweight n. andvægi, mótvægi
+enforceable l. framfylgjanlegur
+transdermal l. sem fer í gegnum húðina; [~ patch] forðaplástur
+praxeology n. hegðunarfræði
+ballistic l. kast-, skot-, sprengi-, þeyti-; [~ missile] kastflaug, flugskeyti
+authoritarian l. valdboðs-, stýrandi; n. valdboðssinni
+authoritarianism n. valdboðsstefna (stjórnarfar sem einkennist af miðstýringu og undirgefni borgara)
+neuromyopathy n. tauga- og vöðvakvilli
+ICBM n. langdrægt flugskeyti (stytt. á [intercontinental ballistic missile])
+eponym n. samnafn eða almennt heiti sem dregið er af sérnafni (t.d. %[geyser]%, dregið af Geysi)
 # stabilize
 # destabilize
 # stabilizer

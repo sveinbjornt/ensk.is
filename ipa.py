@@ -512,6 +512,8 @@ SKIP = frozenset(
         "managerialist",
         "marketization",
         "multi-dimensional",
+        "neuromyopathy",
+        "praxeology",
     )
 )
 

@@ -38,7 +38,6 @@ debugger
 pictograph
 pictographic
 Latino
-transdermic
 preterperfect
 corps
 counterfactual
@@ -107,7 +106,6 @@ goth
 noncommissioned
 levee (endurskoða núverandi skilgr.)
 succinctorium
-praxeology
 twat
 hijinx
 cognition (þarf að endurskoða)
@@ -175,7 +173,6 @@ lexical
 indie
 reinnervate, v.
 reinnervation, n.
-ballistic
 boolean
 livestream
 asset
@@ -224,8 +221,6 @@ gig
 gaming
 markup
 tokenize
-authoritarian
-authoritarianism
 propertarian
 propertarianism
 atavism
@@ -249,7 +244,6 @@ headcount
 sclerosis
 pre-emptive
 nerdish
-neuromyopathy
 holograph (endurskoða)
 holographic
 neuter
@@ -2421,7 +2415,6 @@ paronym
 allonym
 caconym
 autonym
-eponym
 exonym
 whingy
 fletcher
