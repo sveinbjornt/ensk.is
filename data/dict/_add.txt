@@ -618,6 +618,7 @@ Bahrain n. Barein
 Bangladesh n. Bangladess
 Barbados n. Barbados
 Belarus n. Hvíta-Rússland, Belarús
+Belarussian l. hvítrússneskur; n. Hvítrússi; hvítrússneska (tungumál)
 Belize n. Belís
 Benin n. Benín
 Bermuda n. Bermúdaeyjar
@@ -632,6 +633,7 @@ Bulgarian l. búlgarskur, frá Búlgaríu; n. Búlgari, Búlgaríumaður; búlga
 Burkina Faso n. Búrkína Fasó
 Burundi n. Búrúndí
 Cambodia n. Kambódía
+Cambodian l. kambódískur; n. Kambódíumaður; kambódíska, kmeríska (tungumál)
 Cameroon n. Kamerún
 Canada n. Kanada
 Canadian l. kanadískur, frá Kanada; n. Kanadamaður
@@ -650,9 +652,9 @@ Croatian l. króatískur; n. Króati; króatíska
 Cuba n. Kúba
 Cuban l. kúbverskur; n. Kúbverji, Kúbumaður
 Cyprus n. Kýpur
-Czech l. tékkneskur; n. Tékki; tékkneska
 Czech Republic n. Tékkland
 Czechia n. Tékkland
+Czech l. tékkneskur; n. Tékki; tékkneska (tungumál)
 Djibouti n. Djíbútí
 Dominica n. Dóminíka
 Dominican Republic n. Dóminíska lýðveldið
@@ -661,12 +663,12 @@ Egypt n. Egyptaland
 Equatorial Guinea n. Miðbaugs-Gínea
 Eritrea n. Erítrea
 Estonia n. Eistland
-Estonian l. eistneskur, frá Eistlandi; n. Eisti, Eistlendingur; eistneska
+Estonian l. eistneskur, frá Eistlandi; n. Eisti, Eistlendingur; eistneska (tungumál)
 Eswatini n. Svasíland
 Ethiopia n. Eþíópía
 Falkland Islands n. Falklandseyjar
 Faroe Islands n. Færeyjar
-Faroese l. færeyskur, úr Færeyjum; n. Færeyingur; færeyska
+Faroese l. færeyskur, úr Færeyjum; n. Færeyingur; færeyska (tungumál)
 Fiji n. Fídjíeyjar
 Finland n. Finnland
 Finn n. Finni
@@ -681,7 +683,7 @@ Ghana n. Gana
 Gibraltar n. Gíbraltar
 Greenland n. Grænland
 Greenlander n. Grænlendingur
-Greenlandic l. grænlenskur; n. grænlenska
+Greenlandic l. grænlenskur; n. grænlenska (tungumál)
 Guadeloupe n. Gvadelúpeyjar
 Guam n. Gvam
 Guatemala n. Gvatemala
@@ -696,6 +698,7 @@ Iraq n. Írak
 Iraqi l. írakskur, frá Írak; n. Íraki
 Isle of Man n. Mön (eyja milli Bretlands og Írlands)
 Israel n. Ísrael
+Israeli n. Ísraeli, Ísraelsmaður
 Italy n. Ítalía
 Jamaica n. Jamaíka
 Jersey n. Jersey
@@ -738,6 +741,7 @@ Mozambique n. Mósambík
 Myanmar n. Mjanmar
 Burma n. Búrma
 Namibia n. Namibía
+Namibian l. namibískur; n. Namibíumaður
 Nauru n. Nárú
 Nepal n. Nepal
 Netherlands n. ft. Niðurlönd (Holland)
@@ -751,6 +755,7 @@ North Korea n. Norður-Kórea
 North Macedonia n. Norður-Makedónía
 Oman n. Óman
 Pakistan n. Pakistan
+Pakistani l. pakistanskur; n. Pakistani
 Palau n. Palá
 Palestine n. Palestína
 Palestinian l. palestínskur, frá Palestínu; n. Palestínumaður
@@ -3560,7 +3565,7 @@ generalization n. alhæfing; almenn fullyrðing eða lögmál
 overgeneralization n. ofuralhæfing, alhæfing fram úr hófi
 petrified l. steingerður; agndofa af skelfingu
 menopause n. tíðahvörf, tíðalok (lok reglubundinna tíðablæðinga hjá konum)
-scooter n. vespa, létt bifhjól; hlaupahjól; [electric ~] rafhlaupahjól
+scooter n. vespa, létt bifhjól; hlaupahjól; [electric ~] rafhlaupahjól, rafskúta
 astrodynamics n. ft. geimbrautafræði
 astrodynamics l. geimbrautafræðilegur, geimbrauta-
 hellhound n. vítishundur, heljarhundur
@@ -3643,6 +3648,26 @@ disunity n. sundrung, óeining, ósamstaða
 amoral l. siðlaus, siðblindur; hvorki siðferðislegur né ósiðferðislegur
 amorality n. siðleysi, siðblinda; ónæmi fyrir siðferðiskennd
 smoked l. reyktur; [~ salmon] reyktur lax
+hero-worship n. hetjudýrkun
+fragmentation n. sundrung, klofnun, brotnun, molun ATH!!!!
+ministership n. ráðherraembætti; prestsembætti
+resoluteness n. fastræði; einbeittur vilji ATH!!!
+oxymoron n. mótsögn (í skáldamáli eða mælskulist)
+downgrade s. niðurfæra, lækka niður; skipta yfir í eldri eða verri útgáfu af e-u; n. niðurfærsla
+rapaciousness n. rángirni
+admiralty n. flotaforingjaráð, flotamálaráðuneyti
+indiscipline n. agaleysi
+gutless l. huglaus, kjarklaus, ragur
+gutlessness n. hugleysi, ragmennska, bleyði, heigulsháttur
+hideaway n. felustaður, athvarf
+counter-proposal n. gagntillaga, móttillaga
+phentermine n. fentermín (örvandi lyf)
+symphonic l. sinfónískur, sinfóníu-; [~ orchestra] sinfóníuhljómsveit
+denim n. dením, denímefni, gallaefni, gallabuxnaefni; [~ pants, jeans] gallabuxur
+second-hand l. notaður ([~ clothes]); óbeinn ([~ smoking]); sem fæst í gegnum e-n annan en frumaðila
+hydrocarbon n. vetniskolefni, kolvetni
+alkaline l. alkalískur, basískur
+humongous l. gríðarstór, feikistór, risavaxinn ([All hail the ~, the Lord Humongous!])
 # stabilize
 # destabilize
 # stabilizer

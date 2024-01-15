@@ -528,6 +528,17 @@ SKIP = frozenset(
         "anxiogenic",
         "chiliasm",
         "semiology",
+        "Belarussian",
+        "monoglottism",
+        "monolingualism",
+        "unilingual",
+        "unilingualism",
+        "counter-proposal",
+        "hero-worship",
+        "ministership",
+        "phentermine",
+        "resoluteness",
+        "second-hand",
     )
 )
 

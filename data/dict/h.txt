@@ -365,7 +365,7 @@ hebetation n. sljóleiki
 Hebraic l. hebreskur
 Hebraism n. hebreskt orðatiltæki; hebreskur hugsunarháttur
 Hebraist n. hebreskumaður; Hebrei
-Hebrew l. hebreskur; n. Hebrei, Gyðingur; hebreska
+Hebrew l. hebreskur; n. Hebrei, Gyðingur; hebreska (tungumál)
 hecatomb n. hundraðsfórn, hundraðsblót
 heckle n. hör- eða hampkambur; s. kemba (hör eða hamp)
 hectic l. brjóstveikislegur; n. brjóstveikishiti; tæringarroði
@@ -962,10 +962,10 @@ hummock n. hóll; þúfa; sjá %[hommock]%
 hummocky l. hólóttur
 humor n. sjá %[humour]%
 humoral l. sem lýtur eða stafar af vessum eða vökvum í líkamanum
-humorist n. grínisti; sérvitringur; æringi; kímnissagnahöfundur
+humorist n. grínisti; kímnisagnahöfundur; sérvitringur; æringi
 humorous l. duttlungafullur; sérvitur; gamansamur, fyndinn ([a ~ story])
-humorously ao. skringilega, hlægilega
-humour n. vökvi, vessi (í líkamanum); skap, geð; fyndni, kímni; [to take (catch) one in the ~] sitja um, að einhver sé í góðu skapi; [to put one into a good ~] koma (e-m) í gott skap; [to enter into the ~] taka gamninu; [out of ~] í illu skapi
+humorously ao. skringilega, hlægilega, í gríni
+humour n. vökvi, vessi (í líkamanum); skap, geð; fyndni, kímni, grín; [to take (catch) one in the ~] sitja um, að einhver sé í góðu skapi; [to put one into a good ~] koma (e-m) í gott skap; [to enter into the ~] taka gamninu; [out of ~] í illu skapi
 humour s. laga sig eftir skapi (e-s); haga sér eftir
 humoursome l. duttlungafullur, önugur; eftirlátur (e-m [to])
 hump n. kryppa, herðakistill; vont skap; s. setja kryppu á ([to ~ the back])
