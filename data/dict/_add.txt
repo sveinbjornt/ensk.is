@@ -3668,6 +3668,23 @@ second-hand l. notaður ([~ clothes]); óbeinn ([~ smoking]); sem fæst í gegnu
 hydrocarbon n. vetniskolefni, kolvetni
 alkaline l. alkalískur, basískur
 humongous l. gríðarstór, feikistór, risavaxinn ([All hail the ~, the Lord Humongous!])
+absurdly ao. fáránlega, á absúrd, hlægilegan eða fjarstæðukenndan hátt
+underdevelopment n. vanþróun
+eliminable l. útrýmanlegur
+ineliminable l. óútrýmanlegur
+foodstuff n. matvæli
+autarky n. efnahagslegt sjálfstæði; sjálfsnægt í efnahagsmálum; sjálfsþurftarbúskapur
+autarkic l. efnahagslega sjálfstæður eða sjálfum sér nægur; sjálfsþurftarbúskaps-
+limelight n. sviðsljós
+unspoken l. ósagður; [he left it ~] hann lét það ósagt
+charisma n. persónutöfrar, sjarmi, þokki
+charismatic l. heillandi, sjarmerandi, býr yfir persónutöfrum
+middle-class n. millistétt; l. millistéttar-, millistéttarlegur
+tired-looking l. þreytulegur í ásýnd
+lifestyle n. lífsstíll, lífsháttur, líferni
+guesstimate s. (óforml.) meta eða áætla byggt á ágískunum einum saman (sjá %[guess]% og %[estimate]%); n. mat byggt á ágískunum
+self-sufficiency n. sjálfsnægt, nægjusemi; sjálfsþurftarbúskapur
+self-sufficient l. sjálfum sér nægur, nægjusamur
 # stabilize
 # destabilize
 # stabilizer

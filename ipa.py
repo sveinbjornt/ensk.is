@@ -539,6 +539,10 @@ SKIP = frozenset(
         "phentermine",
         "resoluteness",
         "second-hand",
+        "autarkic",
+        "eliminable",
+        "ineliminable",
+        "tired-looking",
     )
 )
 

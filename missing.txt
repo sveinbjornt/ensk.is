@@ -748,8 +748,6 @@ investigative
 nonparticipation
 rapporteur
 reestablish
-limelight
-unspoken
 sympathizer
 homogenous
 entrepreneurial
@@ -768,9 +766,6 @@ breaststroke
 backstroke
 infrastructure
 sideburn
-charisma
-charismatic
-middle-class
 uptight
 coastal
 rationale
@@ -779,7 +774,6 @@ risky
 defense
 unconventional
 bimonthly
-tired-looking
 archival
 smokey
 tectonic
@@ -788,9 +782,7 @@ overpriced
 doorstep
 availability
 longhouse
-lifestyle
 unfamiliarity
-guesstimate
 nonexistence
 fatalistic
 famished
@@ -835,8 +827,6 @@ paramilitary
 dynamism
 immiseration
 undergird
-self-sufficiency
-self-sufficient
 rearmament
 redistribution
 redistributive
@@ -844,7 +834,6 @@ ephemeral
 breadline
 deportee
 firepower
-hasten
 sedentarization
 nonaggression
 indispensible
@@ -885,7 +874,6 @@ statelessness
 tabula
 unbeatable
 agrarianism
-autarkic
 unassailable
 assailable
 matériel
@@ -893,7 +881,6 @@ redaction
 precondition
 preindustrial
 exterminatory
-foodstuff
 redistribute
 knowledgeable
 stockpile
@@ -905,6 +892,7 @@ rearrange
 commando
 preemptive
 preemption
+escalate
 escalation
 disinformation
 broadsheet
@@ -991,7 +979,6 @@ dreamless
 marguerite
 periodization
 forsaken
-escalate
 parlous
 gatekeeper
 overzealous
@@ -2422,7 +2409,6 @@ clear-cut
 inductivism
 specifiable
 conditionals
-ineliminable
 chloride
 ameliorist
 midpoint
@@ -2641,7 +2627,6 @@ toehold
 sideshow
 metabolize
 numerically
-absurdly
 prebirth
 monoethnic
 manageability
@@ -2672,7 +2657,6 @@ midsection
 inegalitarian
 drastically
 outage
-underdevelopment
 breakout
 issuance
 slog

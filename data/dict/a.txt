@@ -897,10 +897,10 @@ amity n. vinátta
 ammonia n. ammoníak; [liquid ~] salmíakspíritus
 ammoniac l. salmíak
 ammunition n. herbúnaður (einkum púður og sprengiefni)
-amnesty n. gleymska; sektaruppgjöf (við uppreisnarmenn); s. gefa (e-m) upp sakir
+amnesty n. sektaruppgjöf; gleymska; s. gefa (e-m) upp sakir
 amnion n. líknabelgur
-among fs. á milli, á meðal, innan um, í; hjá
-amongst fs. á milli, á meðal, innan um, í; hjá
+among fs. á meðal, innan um, í, á milli; hjá
+amongst fs. á meðal, innan um, í, á milli; hjá
 amorous l. ástargjarn; ástfanginn (í [of]); ástar- ([~ distresses])
 amorously ao. með ástarhug
 amorphous l. ólögulegur, ósköpulegur ([~ mass])
@@ -1709,8 +1709,8 @@ autochthon n. frumbyggi, e-r sem er innfæddur
 autochthonic l. frumlegur, upprunalegur, innfæddur
 autochthonous l. frumlegur, upprunalegur, innfæddur
 autocracy n. einveldisstjórn
-autocrat n. einvaldsstjóri, einvaldur; einvaldssinni
-autocratic l. einvaldur; einvalds-
+autocrat n. einvaldur, einvaldsstjóri; einvaldssinni
+autocratic l. einveldis-, einvalds-
 autocratrix n. einvaldsdrottning
 autograph n. eiginhandaráritun; frumhandrit; s. rita með eigin hendi
 autographic l. eiginhandar-
