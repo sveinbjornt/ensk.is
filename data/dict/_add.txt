@@ -3685,6 +3685,23 @@ lifestyle n. lífsstíll, lífsháttur, líferni
 guesstimate s. (óforml.) meta eða áætla byggt á ágískunum einum saman (sjá %[guess]% og %[estimate]%); n. mat byggt á ágískunum
 self-sufficiency n. sjálfsnægt, nægjusemi; sjálfsþurftarbúskapur
 self-sufficient l. sjálfum sér nægur, nægjusamur
+ethnonym n. þjóðaheiti
+retronym n. afturvirkt orð eða nafn
+acronym n. skammnefni, skammstöfunarorð, skammyrði, upphafsstafanafn
+chloride n. klóríð
+hyperspecialization n. ofursérhæfing
+Taylorism n. taylorismi (verkstjórnun sem byggist á nákvæmum mælingum framleiðsluþátta)
+Taylorist n. fylgismaður taylorisma (sjá %[Taylorism]%)
+barbiturate n. barbitúrat (efni leitt af barbitúrsýru)
+landmass n. landflæmi; meginland
+deregulation n. afnám reglugerða
+transliteration n. umritun, umstöfun
+subculture n. menningarkimi; afrækt, undirrækt
+churchgoer n. kirkjugestur, sóknarbarn, kirkjurækinn maður eða kona
+pederasty n. sveinmök, mök við drengi
+pederast n. sá sem á mök við drengi (niðrandi)
+triangulate s. þríhyrningsmæla
+triangulated l. þríhyrningsmældur
 # stabilize
 # destabilize
 # stabilizer

@@ -543,6 +543,12 @@ SKIP = frozenset(
         "eliminable",
         "ineliminable",
         "tired-looking",
+        "ethnonym",
+        "hyperspecialization",
+        "pederasty",
+        "retronym",
+        "Taylorism",
+        "Taylorist",
     )
 )
 

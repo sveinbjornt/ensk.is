@@ -580,7 +580,6 @@ stylometric
 petard n. (endurskoða núverandi skilgr.)
 kook
 hardline
-barbiturate
 benzedrine
 dacha
 blowback
@@ -643,6 +642,7 @@ hypothermia
 bloomery
 davit
 serendipitous
+serendipitously
 marginalize
 baffling
 wasteland
@@ -665,7 +665,6 @@ understatement
 shipmate
 crewman
 northerly
-landmass
 nuance
 mastermind
 fabled
@@ -704,7 +703,6 @@ slipperiness
 incommunicado
 preschool
 snowplow
-deregulation
 hallway
 intersectionality
 disassemble
@@ -954,7 +952,6 @@ semantic
 semantics
 semantically
 semanticist
-transliteration
 diacritical
 seminar
 armageddon
@@ -982,7 +979,6 @@ forsaken
 parlous
 gatekeeper
 overzealous
-subculture
 underfloor
 bathhouse
 bedrock
@@ -994,7 +990,6 @@ hindsight
 travelogue
 mutant
 migrant
-churchgoer
 misjudgement
 reportage
 symbolism
@@ -1007,8 +1002,6 @@ realignment
 totemic
 archetypal
 hairline
-pederasty
-pederast
 racetrack
 sectarianism
 masterstroke
@@ -1046,8 +1039,6 @@ accumulator
 eponymous
 raider
 riverine
-triangulate
-triangulated
 unfree
 themselves
 anchorite
@@ -2357,16 +2348,14 @@ megastructure
 monorail
 podium
 heteronym
-ethnonym
-retronym
 tautonym
-acronym
 metonym
 paronym
 allonym
 caconym
 autonym
 exonym
+endonym
 whingy
 fletcher
 fletch
@@ -2409,7 +2398,6 @@ clear-cut
 inductivism
 specifiable
 conditionals
-chloride
 ameliorist
 midpoint
 quantifier
@@ -2490,7 +2478,6 @@ deglobalize
 deglobalization
 snowblower
 telecommute
-hyperspecialization
 interconnectivity
 interdependency
 inclusivity
@@ -2710,8 +2697,6 @@ arduousness
 brusqueness
 typification
 statist
-Taylorism
-Taylorist
 syndicalism
 monocephalic
 barrio
@@ -3111,3 +3096,4 @@ tarmacadam
 trope n. endurskoða!
 anomie
 anomy
+bric-a-brac

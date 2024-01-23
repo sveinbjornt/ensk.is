@@ -706,7 +706,7 @@ methodism n. kenning Meþódista
 Methodist n. Meþódisti
 methodize s. koma fastri reglu á; koma (e-u) haganlega fyrir
 methought s. mér virtist, mér þótti (þátíð af [methinks])
-metonymy n. nafnskipti
+metonymy n. nafnskipti, nafnhvörf
 metre n. bragarháttur; metri (lengdarmál, mælieining)
 metric l. metra- ([~ measure, ~ system])
 metrical l. sem lýtur að bragar-háttum; bragfræðilegur; sem lýtur að metramáli
