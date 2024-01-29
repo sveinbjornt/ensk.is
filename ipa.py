@@ -549,6 +549,8 @@ SKIP = frozenset(
         "retronym",
         "Taylorism",
         "Taylorist",
+        "Venetian",
+        "trivium",
     )
 )
 

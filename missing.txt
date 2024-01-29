@@ -246,7 +246,6 @@ pre-emptive
 nerdish
 holograph (endurskoða)
 holographic
-neuter
 transgender
 nexus
 mephistopheles
@@ -1091,7 +1090,6 @@ oligarchic
 ornateness
 expeditionary
 quadrivium
-trivium
 acknowledgement
 scriptorium
 tinkerer
@@ -3036,7 +3034,6 @@ kitschy
 counter-revolutionary
 scruffy
 vandalize
-troika
 positional
 fleshpot
 ragtag
@@ -3097,3 +3094,7 @@ trope n. endurskoða!
 anomie
 anomy
 bric-a-brac
+tardigrade
+valorisation
+Jungian
+dirigisme
