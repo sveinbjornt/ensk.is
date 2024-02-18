@@ -551,6 +551,7 @@ SKIP = frozenset(
         "Taylorist",
         "Venetian",
         "trivium",
+        "quadrivium",
     )
 )
 

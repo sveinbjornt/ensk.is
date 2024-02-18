@@ -3710,8 +3710,8 @@ duopoly n. tvíokun, tvíkeppni
 hallucinate s. ofskynja, sjá ofsjónir, heyra ofheyrnir
 troika n. þríeyki, þremenningabandalag; rússneskur vagn sem dreginn er af þremur hestum
 trivium n. þrívegur (þrjár af sjö listum í háskólum miðalda: málfræði, mælskufræði og rökfræði)
-
-
+quadrivium n. fjórvegur (fjórar af sjö listum í háskólum miðalda: tölvísi, flatarmálsfræði, stjarnfræði og sönglist)
+tardigrade n. bessadýr
 
 # stabilize
 # destabilize
