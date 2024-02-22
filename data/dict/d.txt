@@ -363,11 +363,11 @@ deftly ao. fimlega, knálega
 deftness n. fimleiki, knáleiki
 defunct l. andaður, látinn; [the ~] hinn andaði, látni
 defy s. bjóða (e-m) til bardaga; mana ([I ~ you to do it]); bjóða byrgin; standast ([the fortress defied their attacks])
-degeneracy n. afturför, spilling; úrkynjun
-degenerate s. úrættast, úrkynjast; l. úrkynja, úrættur
-degeneration n. hnignun
-degradation n. niðurlæging; spilling; afturför
-degrade s. niðurlægja svipta e-n embætti eða metorðum; óvirða; úrkynjast, hnigna
+degeneracy n. úrkynjun; afturför; spilling
+degenerate s. úrkynjast, úrættast; l. úrkynjaður, úrkynja, úrættur
+degeneration n. úrkynjun, hnignun; afturför
+degradation n. niðurlæging; afturför; spilling
+degrade s. niðurlægja; svipta e-n embætti eða metorðum; óvirða; úrkynjast, hnigna
 degree n. stig; mælistig; háskólapróf ([he took a good ~]); lærdómsnafnbót ([honorary ~]); flokkur; ættliður; [by (slow) ~s] smám saman, smátt og smátt; [to a high ~] allmjög, stórum
 dehisce s. opnast (um blóm)
 dehiscent l. sem opnast, gapandi
@@ -379,7 +379,7 @@ deify s. taka í guðatölu; trúa á, tigna sem guð
 deign s. sýna lítillæti, láta sér sóma (að gera e-ð)
 deism n. trú á einn guð (án opinberunar)
 deist n. sá sem trúir á einn guð, en ekki á opinberun
-deity n. guðdómur; guðdómseðli ([the ~ of Christ]); goð
+deity n. goð; guðdómur; guðdómseðli ([the ~ of Christ])
 deject s. hryggja
 dejected l. hnugginn, sorgbitinn, hryggur
 dejection n. hryggð; hægðir

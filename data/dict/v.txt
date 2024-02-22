@@ -324,7 +324,7 @@ villous l. loðinn
 villose l. loðinn
 vinaigrette n. ilmpytla, ilmglas, ilmdósir
 vindicate s. verja, halda (e-u) uppi ([~ our liberties, his rights]); réttlæta; sanna
-vindication n. vörn; réttlæting
+vindication n. vörn; réttlæting; sönnun
 vindicator n. verjandi, varnarmaður
 vindictive l. hefnigjarn
 vindictiveness n. hefnigirni
@@ -339,13 +339,13 @@ vintage n. vínuppskera
 vintager n. vínuppskerumaður
 vintner n. vínsali
 viny l. vínberja-; vínauðugur
-viola n. fiðla
+viola n. lágfiðla, víóla
 violable l. sem má vanhelga eða spilla
 violate s. brjóta, rjúfa; spilla, skemma; misbjóða; vanhelga, saurga
-violation n. brot, rof; vanhelgun ([~ of a sanctuary])
-violator n. sá sem brýtur, vanhelgar, rýfur; saurgari
+violation n. brot, rof; saurgun, vanhelgun ([~ of a sanctuary])
+violator n. sá sem brýtur, vanhelgar, rýfur, saurgar; saurgari
 violence n. ofbeldi; ofbeldisverk; ofsi
-violent l. ofbeldisfullur; ofsafullur; ofsalegur
+violent l. ofbeldisfullur; ofsafullur, ofsalegur
 violescent l. fjóluleitur
 violet n. fjóla; l. fjólublár
 violin n. fiðla, gígja
@@ -355,14 +355,14 @@ viper n. naðra, höggormur
 viperous l. eitraður; nöðrukenndur
 virago n. kvenskörungur; kvenvargur
 virescent l. grænleitur
-virgin n. mey; l. meylegur; hreinn, óflekkaður
+virgin n. mey, hrein mey; l. meylegur; hreinn, óflekkaður
 virginal n. e.k. hljóðfæri
 virginity n. meydómur
 viridescent l. grænleitur
 viridity n. grænn litur, grænka
 virile l. karlmannlegur
 virility n. karlmennska, manndómur
-virtual l. raunverulegur, virkilegur ([~ presence])
+virtual l. sýndar-; [~ reality] sýndarveruleiki; raunverulegur, virkilegur ([~ presence])
 virtually ao. að áhrifunum til, raunverulega
 virtue n. dyggð; kraftur ([the medicinal ~ of plants]); [in (by) ~ of] fyrir kraft e-s, sökum; [in ~ whereof] því til staðfestu
 virtuoso n. listamaður, afbragðsmaður í e-i mennt

@@ -3677,7 +3677,7 @@ autarky n. efnahagslegt sjálfstæði; sjálfsnægt í efnahagsmálum; sjálfsþ
 autarkic l. efnahagslega sjálfstæður eða sjálfum sér nægur; sjálfsþurftarbúskaps-
 limelight n. sviðsljós
 unspoken l. ósagður; [he left it ~] hann lét það ósagt
-charisma n. persónutöfrar, sjarmi, þokki
+charisma n. persónutöfrar, þokki, sjarmi
 charismatic l. heillandi, sjarmerandi, býr yfir persónutöfrum
 middle-class n. millistétt; l. millistéttar-, millistéttarlegur
 tired-looking l. þreytulegur í ásýnd
@@ -3698,8 +3698,8 @@ deregulation n. afnám reglugerða
 transliteration n. umritun, umstöfun
 subculture n. menningarkimi; afrækt, undirrækt
 churchgoer n. kirkjugestur, sóknarbarn, kirkjurækinn maður eða kona
-pederasty n. sveinmök, mök við drengi
-pederast n. sá sem á mök við drengi (niðrandi)
+pederasty n. sveinmök, mök við drengi; barnagirnd
+pederast n. sá sem á mök við drengi; barnaperri
 triangulate s. þríhyrningsmæla
 triangulated l. þríhyrningsmældur
 balaclava n. lambhúshetta (kennd við bæinn Balaklava á Krímskaga)
@@ -3707,7 +3707,7 @@ Venetian l. feneyskur, frá Feneyjum; n. Feneyingur
 spay s. gera ófrjóa, taka úr sambandi, fjarlægja eggastokka og leg
 sybaritic l. sællífur
 duopoly n. tvíokun, tvíkeppni
-hallucinate s. ofskynja, sjá ofsjónir, heyra ofheyrnir
+hallucinate s. ofskynja, sjá ofsjónir, heyra ofheyrnir, kvikskynja
 troika n. þríeyki, þremenningabandalag; rússneskur vagn sem dreginn er af þremur hestum
 trivium n. þrívegur (þrjár af sjö listum í háskólum miðalda: málfræði, mælskufræði og rökfræði)
 quadrivium n. fjórvegur (fjórar af sjö listum í háskólum miðalda: tölvísi, flatarmálsfræði, stjarnfræði og sönglist)
@@ -3769,6 +3769,8 @@ septicaemia n. blóðeitrun, blóðsýking
 directionless l. stefnulaus
 hypercompetitive l. ofursamkeppnis-, ofursamkeppnislegur, með mikilli samkepnni ([a ~ environment])
 duplicitous l. tvílyndur, óhreinlyndur, undirförull
+vindicated l. réttlættur; varður; sannaður
+grading n. flokkun; stigagjöf; einkunnagjöf
 # stabilize
 # destabilize
 # stabilizer

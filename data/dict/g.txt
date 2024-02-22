@@ -574,10 +574,10 @@ graciously ao. vinsamlega, með yndisþokka
 graciousness n. yndisþokki
 gradate s. (láta) smábreytast (í e-ð [into])
 gradation n. framför stig af stigi; röð
-grade n. stig; flokkur
-gradient l. hallandi; n. vegarhalli
+grade n. stig; flokkur; einkunn; skólastig ([he's in fifth ~]); s. setja í flokk eða gefa stig; gefa einkunn
+gradient l. hallandi; n. stigull; litastigull ([colour ~]); halli í vegi
 gradual l. (sem verður) smátt og smátt; seinn; n. grallari
-gradually ao. smám saman; hægt, seint
+gradually ao. smám saman; skref fyrir skref; að lokum; hægt, seint, rólega
 graduate s. skipta í stig; veita lærdómsnafnbót (við háskóla); taka háskólapróf; breytast smátt og smátt (í [into]); [~ in theology] taka próf í guðfræði; n. sá sem hefur tekið háskólapróf, kandídat
 graduation n. skipting (í stig); veiting lærdómsnafnbótar, fullnaðarpróf (við háskóla)
 graft n. frjókvistur; skóflustunga ([a spade's ~]); s. setja frjókvist (í tré); festa (í, við, [to, upon])
