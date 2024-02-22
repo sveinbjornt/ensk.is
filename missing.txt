@@ -4,7 +4,6 @@ gusto
 bodacious
 bodaciously
 hellacious
-parametric
 doozy
 dynamic (endurskoða)
 gyroscope
@@ -192,8 +191,6 @@ soulful
 substantially
 shipboard
 splatterdash n.
-somatic
-psychosomatic
 cull
 xenobiotic
 telemeter
@@ -241,7 +238,6 @@ shemale
 cybersex
 cybersquatting
 headcount
-sclerosis
 pre-emptive
 nerdish
 holograph (endurskoða)
@@ -468,7 +464,6 @@ forefront
 self-secure
 incendiarism
 humanization
-galvanization
 prefabricate
 prefabrication
 prefabricated
@@ -814,7 +809,6 @@ transformative
 cadre
 modernization
 historiosophy
-bureaucratic
 centralism
 traumatic
 collectivize
@@ -827,7 +821,6 @@ undergird
 rearmament
 redistribution
 redistributive
-ephemeral
 breadline
 deportee
 firepower
@@ -1098,7 +1091,6 @@ roughly
 knickers
 dogfight
 candidacy
-ostracization
 playbook
 ruction
 interwoven
@@ -1312,7 +1304,6 @@ inarticulacy
 appropriateness
 counterblast
 handout
-parasitism
 recalcitrance
 ersatz
 kitsch
@@ -1352,7 +1343,6 @@ procedural
 recidivism
 recidivist
 citizenry
-apparatchik
 decorator
 actuarial
 innocuousness
@@ -1435,7 +1425,6 @@ comestible
 shrillness
 authorial
 denouement
-diagnostician
 flagstone
 collegial
 balkanization
@@ -1448,7 +1437,6 @@ ergonomic
 ergonomics
 domestication
 seasonality
-subfield
 egoistic
 self-aggrandizement
 technocratic
@@ -1456,7 +1444,6 @@ generalist
 chiefdom
 counter-intuitive
 acromesomelic
-dysplasia
 Palaeolithic
 Darwinism
 Darwinist
@@ -1474,18 +1461,13 @@ clear-sighted
 baseline
 sometime
 latecomer
-ephemerality
 outlier
 evolutionism
 faraway
 effacement
-protoplasmic
 outback
 subspecies
 ingestion
-psychedelic
-psychedelics
-psychadelia
 coastland
 synchrony
 subcontinent
@@ -1502,7 +1484,6 @@ rooftop
 neurodivergent
 neurodivergence
 quantifiable
-anatomical
 fieldwork
 evolutionist
 territoriality
@@ -1512,10 +1493,8 @@ liminality
 porosity
 theatrics
 sharecropper
-polynomial
 riposte
 waterfowl
-nucleation
 peonage
 estuarine
 intertidal
@@ -1565,7 +1544,6 @@ megalithic
 uplander
 lowlander
 highlander
-aerodynamic
 morphological
 unforeseen
 notation
@@ -1596,7 +1574,6 @@ identifier
 delegitimize
 calendrical
 compositional
-orthogonal
 grid
 façade
 tortilla
@@ -1612,8 +1589,6 @@ glyphic
 stonework
 figural
 labyrinthine
-pharaoh
-mummification
 proto-
 imperialistic
 extractive
@@ -1668,7 +1643,6 @@ absorber
 beltway
 reshape
 roomful
-weaponize
 supplier
 backstop
 vigilante
@@ -1747,7 +1721,6 @@ thoughtfulness
 continuum
 burnout
 blackout
-interdisciplinary
 functionalist
 functionalism
 structuralist
@@ -2371,7 +2344,6 @@ existential
 intentionality
 subjectivist
 unrecoverable
-incommensurability
 typicality
 universalizability
 universalizable
@@ -2469,13 +2441,10 @@ overwatch
 sebum
 lathe
 colocation
-vulcanization
-hybridization
 deglobalize
 deglobalization
 snowblower
 telecommute
-interconnectivity
 interdependency
 inclusivity
 uptake
@@ -2559,7 +2528,6 @@ nonstandard
 reactor
 patina
 geostrategic
-containerization
 upmarket
 downmarket
 navigational
@@ -2582,8 +2550,6 @@ silage
 polyculture
 monoculture
 schoolhouse
-hydrology
-hydrological
 grunge
 grungy
 mudslide
@@ -2636,7 +2602,6 @@ pushover
 bailout
 outcompete
 payer
-biome
 midsection
 inegalitarian
 drastically
@@ -2691,7 +2656,6 @@ demonym
 affine
 patriciate
 arduousness
-brusqueness
 typification
 statist
 syndicalism
@@ -2731,13 +2695,9 @@ pee
 tester
 anthracis
 downwind
-atropine
 pituitary
 transmittal
 thymus
-metastasis
-metastasize
-metastasized
 declassify
 cover-up
 substantiation
@@ -2788,7 +2748,6 @@ washstand
 peardrop
 mauvish
 smoothly
-septicaemia
 afterward
 unsteady
 catlike
@@ -2811,8 +2770,6 @@ presenteeism
 ingratiating
 monotreme
 topiary
-tessellate
-tessellation
 gamine l. og no.
 infiltrate (endurskoða)
 infiltration
@@ -2859,9 +2816,9 @@ headspace
 onanistic
 artsy
 polyrhythm
+polyrhythmic
 conditioner
 convector
-biomedical
 caseworker
 bedazzle
 excursus
@@ -2875,7 +2832,6 @@ layoff
 motivational
 pusher
 speed-up
-directionless
 fryer
 actuary
 ska
@@ -2897,7 +2853,6 @@ extraordinarily
 basically
 concierge
 intercom
-hypercompetitive
 airbrush
 roofer
 roofie
@@ -2996,9 +2951,6 @@ anomy
 anomie
 gadzooks
 areola
-ablation
-diatomite
-gyrfalcon
 scarper
 thalassic
 brassard
@@ -3016,7 +2968,6 @@ bandsman
 bantam
 revetment
 batman
-sledgehammer
 undecipherable
 phosgene
 periscopic
@@ -3066,14 +3017,13 @@ dactylography
 shallows
 cataphile
 subitization
-soporific
 wannabe
 copium
 hopium
 quine
 carabiner
 moquette
-patinazzz
+patinazz
 ithyphallic
 dither
 astroturf
@@ -3099,8 +3049,10 @@ coon
 wanker
 homo-
 agrivoltaics
-homophone
 divot
-odyssey
 anthroposcene
-materiel
+bloat n.
+floater
+dysphemism
+homogenize
+homogenic

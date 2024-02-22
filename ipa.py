@@ -552,6 +552,16 @@ SKIP = frozenset(
         "Venetian",
         "trivium",
         "quadrivium",
+        "containerization",
+        "diatomite",
+        "interconnectivity",
+        "lithotripsy",
+        "anatomic",
+        "galvanization",
+        "incommensurability",
+        "ostracization",
+        "psychadelia",
+        "subfield",
     )
 )
 

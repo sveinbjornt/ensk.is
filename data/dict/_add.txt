@@ -3712,7 +3712,62 @@ troika n. þríeyki, þremenningabandalag; rússneskur vagn sem dreginn er af þ
 trivium n. þrívegur (þrjár af sjö listum í háskólum miðalda: málfræði, mælskufræði og rökfræði)
 quadrivium n. fjórvegur (fjórar af sjö listum í háskólum miðalda: tölvísi, flatarmálsfræði, stjarnfræði og sönglist)
 tardigrade n. bessadýr
-
+lithotripsy n. steinbrot, steinmolun
+UFO n. stytt. á [unidentified flying object]; fljúgandi furðuhlutur
+homophone n. samhljóma orð
+homograph n. samhljóma orð
+soporific l. svæfandi; n. svefnlyf
+diatomite n. kísilgúr
+ablation n. blæsing, leysing; brottnám
+tessellate s. stykkja; tígla
+tessellation n. tíglun
+metastasis n. meinvarp
+metastasize s. meinvarpast
+metastasized l. meinvarpað
+atropine n. atrópín
+biome n. lífbelti
+hydrology n. vatnafræði
+hydrological l. vatnafræðilegur
+containerize s. gámavæða
+containerization n. gámavæðing
+interconnectivity n. samtengjanleiki, samtengsl
+hybridization n. kynblöndun, samæxlun
+vulcanization n. gúmmísuða
+incommensurability n. ósammælanleiki, ósambærileiki
+galvanization n. sinkhúðun, galvanhúðun
+sclerosis n. herðing eða hersli í vef eða líffæri
+somatic l. líkamlegur, líkams-, sem á við líkamann
+psychosomatic l. geðvefrænn
+parametric l. stikaður, stikabundinn
+bureaucratic l. skrifræðislegur, skrifræðis-; [~ nonsense]
+ostracization n. útskúfun
+parasitism n. sníkjulíf, sníkjulífi
+apparatchik n. kerfiskarl, opinber starfsmaður, ríkisstarfsmaður
+diagnostician n. greinandi, sjúkdómsgreinandi
+subfield n. undirsvið; undirsvæði
+dysplasia n. misvöxtur, rangvöxtur
+ephemeral l. skammlífur, skammvinnur, skammær, hverfull
+ephemerality n. hverfulleiki, skammlífi
+protoplasmic l. frymis-
+psychedelic l. hugvíkkandi, skynörvandi; n. hugvíkkandi eða skynörvandi lyf
+psychadelia n. hugvíkkun, skynörvun
+anatomical l. líffærafræðilegur, líffæra-
+anatomic l. líffærafræðilegur, líffæra-
+polynomial l. margliða, fleirliða
+nucleation n. kjarnamyndun, kjörnun
+aerodynamic l. loftstreymis-, lofthreyfi-
+orthogonal l. hornréttur, rétthyrndur; þver, þverstæður
+mummification n. skrælnun, skorpnun
+pharaoh n. faraó (egypskur konungur)
+weaponize s. vopnavæða, gera vopn úr
+interdisciplinary l. þverfaglegur
+biomedical l. líf- og lækninga-, líf- og læknisfræðilegur
+gyrfalcon n. (stór) fálki, valur
+sledgehammer n. sleggja
+brusqueness n. fruntaskapur
+septicaemia n. blóðeitrun, blóðsýking
+directionless l. stefnulaus
+hypercompetitive l. ofursamkeppnis-, ofursamkeppnislegur
 # stabilize
 # destabilize
 # stabilizer
