@@ -1302,7 +1302,7 @@ arcanum n. leyndardómur; kynjalyf; ft. [arcana]
 arch n. bogi; hvelfing; [triumphal ~] sigurbogi; s. hvelfa; [~ the neck] hringa makkann; l. glettinn
 archly ao. glettnislega
 archness n. glettni
-arch fsk. erki- (í samsetningum)
+arch- fsk. erki- (í samsetningum) sbr. %[archbishop]%, %[archangel]%
 archangel n. erkiengill
 archbishop n. erkibiskup
 archbishopric n. erkibiskupsdæmi
@@ -1320,11 +1320,11 @@ archer n. bogamaður
 archery n. bogfimi
 archetype n. frummynd, erkitýpa
 archiepiscopal l. erkibiskupslegur
-archipelago n. eyjahaf
+archipelago n. eyjaklasi, eyjahaf
 architect n. byggingameistari, arkítekt
-architectonic l. sem lýtur að húsagerðarlist
-architecture n. byggingarlist, húsagerðarlist
-archives n. ft. skjalasafn, skjöl
+architectonic l. sem lýtur að húsagerðarlist, arkítektúrs-
+architecture n. byggingarlist, húsagerðarlist, arkítektúr
+archives n. ft. skjalasafn, skjöl, arkíf
 archivist n. skjalavörður
 archly l. með glettni
 archway n. hvelfing
@@ -1340,8 +1340,8 @@ argent l. silfurlitaður (t.d. í skjaldarmerkjafræði)
 argentiferous l. silfurborinn
 argentine l. silfurlitaður, skær; silfur-; n. nýsilfur
 argillaceous l. leirborinn, leir- ([~ earth])
-argue s. sanna, sýna; deila, þræta; færa rök að; ræða
-argument n. sönnun; umræða; deila; efnisyfirlit
+argue s. deila, þræta, rífast; sanna, sýna; færa rök fyrir; ræða
+argument n. deila, rifrildi; sönnun; umræða; efnisyfirlit
 argumentation n. röksemdaleiðsla; umræða, kappræða
 argute l. skarpskyggn
 arid l. þurr ([~ studies, ~ wasteland])
@@ -1367,7 +1367,7 @@ armhole n. handarkriki; handvegur ([put his thumbs within the ~s of his waistcoa
 armistice n. vopnahlé
 armlet n. armhringur; vik; kvísl
 armorial l. skjaldmerkja- ([~ books]); [~ bearings] skjaldarmerki
-armour n. hertygi, vopn
+armour n. brynja; hertygi, vopn; skriðdrekar
 armour-clad l. brynjaður; n. bryndreki
 armourer n. vopnasmiður
 armoury n. vopnabúr, hergagnabúr
@@ -1380,13 +1380,13 @@ arouse s. vekja ([~ suspicion])
 arrack n. arrak (vín)
 arraign s. stefna (fyrir dóm); kæra
 arraignment n. sakamálskæra
-arrange s. raða, skipa niður; fylkja; jafna ([~ a quarrel]); koma sér saman um e-ð ([~ matters]); undirbúa
-arrangement n. niðurröðun, fyrirkomulag; samkomulag, sátt; undirbúningur
+arrange s. raða, skipa niður, skipuleggja; fylkja; jafna ([~ a quarrel]); koma sér saman um e-ð ([~ matters]); undirbúa
+arrangement n. niðurröðun, fyrirkomulag, skipulag; samkomulag, sátt; undirbúningur
 arrant l. alræmdur, erki-
 array s. raða; fylkja; skrautbúa; n. röð; fylking; búningur
 arrear n. ógoldin skuld; eftirstöðvar
 arrearage n. ógoldin skuld; eftirstöðvar
-arrest s. stöðva; taka fastan; setja í varðhald; n. stöðvun; löghald; varðhald; [place/put under ~] leggja löghald á, gera upptækt
+arrest s. handtaka, taka fastan; setja í varðhald; stöðva; n. stöðvun; handtaka, löghald; varðhald; [place/put under ~] handtaka, leggja löghald á, gera upptækt
 arrestation n. stöðvun; handtaka
 arrestment n. stöðvun; handtaka
 arrival n. koma, aðkoma; komumaður; [on our ~] þegar við komum
@@ -1401,8 +1401,8 @@ arrowhead n. örvaroddur
 arrowheaded l. fleygmyndaður; [~ characters] fleygletur
 arrowy l. eins og ör í lögun; örskjótur; örva- ([an ~ shower])
 arsenal n. hergagnabúr
-arsenic n. arsenik, rottueitur
-arson n. íkveiking
+arsenic n. arsen, arsenik, rottueitur
+arson n. íkveikja, íkveiking
 art n. list, íþrótt; kunnátta; kænska, bragð; [the fine ~s] fagrar listir
 artful l. kænn, slægur; íþróttlegur
 artfulness n. kænska, bragðvísi
@@ -1419,16 +1419,14 @@ artificial l. tilbúinn ([~ manure]); uppgerðar-; tilgerðarlegur
 artillery n. stórskotalið; fallbyssur
 artisan n. handiðnamaður
 artist n. listamaður; listmálari
-artistic l. listlegur
-artless l. kunnáttulaus; náttúrlegur, óbrotinn; hreinskilinn
+artistic l. listrænn, listlegur
+artless l. kunnáttulaus; náttúrulegur, óbrotinn; hreinskilinn
 artlessly ao. blátt áfram; hreinskilnislega
 artlessness n. hreinskilni; viðhafnarleysi
 as ao. & st. eins, svo; eins og, sem; með því að; eftir því sem; [~ soon ~] jafnskjótt sem; [~ far ~] allt til; að svo miklu leyti sem; [~ for, ~ to] að því er snertir; [~ yet] nú, ennþá; [I knew ~ much] það vissi ég, ég bjóst við því
 ascend s. ganga (fara, koma) upp; fara (ganga) upp á; komast (til mannvirðinga)
 ascendancy n. yfirburðir; yfirráð; [gain ~ over] fá vald yfir
-ascendency n. yfirburðir; yfirráð; [gain ~ over] fá vald yfir
 ascendant l. upprennandi; ráðandi; n. yfirburðir; yfirráð; [be in the ~] vera ríkjandi, ráðandi, vera ofan á
-ascendent l. upprennandi; ráðandi; n. yfirburðir; yfirráð; [be in the ~] vera ríkjandi, ráðandi, vera ofan á
 ascension n. uppstigning
 ascent n. uppganga; brekka ([a steep ~])
 ascertain s. komast eftir, fá vissu um

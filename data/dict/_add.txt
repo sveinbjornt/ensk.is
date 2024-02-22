@@ -155,7 +155,7 @@ headphone n. heyrnartól (yfirleitt í ft. %[headphones]%)
 headphones n. ft. heyrnartól
 homework n. heimavinna
 investor n. fjárfestir
-mega- fsk. ofur-; risa-; mjög stór; sjá t.d. %[megabyte]%, %[megafauna]%
+mega- fsk. (í samsetningum) ofur-; risa-; mjög stór; sjá t.d. %[megabyte]%, %[megafauna]%
 methodology n. aðferðafræði; [his ~ was flawed] hann beitti gölluðum aðferðum
 movie n. kvikmynd, bíómynd (óforml.); [I'm going to the ~s] ég er farinn í bíó
 necessarily ao. nauðsynlega
@@ -3746,9 +3746,9 @@ apparatchik n. kerfiskarl, opinber starfsmaður, ríkisstarfsmaður
 diagnostician n. greinandi, sjúkdómsgreinandi
 subfield n. undirsvið; undirsvæði
 dysplasia n. misvöxtur, rangvöxtur
-ephemeral l. skammlífur, skammvinnur, skammær, hverfull
-ephemerality n. hverfulleiki, skammlífi
-protoplasmic l. frymis-
+ephemeral l. hverfull; skammlífur, skammvinnur, skammær
+ephemerality n. hverfulleiki; skammlífi
+protoplasmic l. frymis-, frumslíms-
 psychedelic l. hugvíkkandi, skynörvandi; n. hugvíkkandi eða skynörvandi lyf
 psychadelia n. hugvíkkun, skynörvun
 anatomical l. líffærafræðilegur, líffæra-
@@ -3767,7 +3767,8 @@ sledgehammer n. sleggja
 brusqueness n. fruntaskapur
 septicaemia n. blóðeitrun, blóðsýking
 directionless l. stefnulaus
-hypercompetitive l. ofursamkeppnis-, ofursamkeppnislegur
+hypercompetitive l. ofursamkeppnis-, ofursamkeppnislegur, með mikilli samkepnni ([a ~ environment])
+duplicitous l. tvílyndur, óhreinlyndur, undirförull
 # stabilize
 # destabilize
 # stabilizer

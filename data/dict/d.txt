@@ -1750,15 +1750,15 @@ dumbfound s. gera orðlausan
 dumbness n. málleysi
 dumb-show n. bendingaleikur
 dummy n. blindingur (í spilum)
-dump n. lítill peningur; hlunkur; ruslhrúga ([~ pile]); ft. ólund
+dump n. ruslhrúga ([~ pile, garbage ~]); skítapleis; lítill peningur; hlunkur; ft. ólund
 dumpish l. ólundarfullur, hnugginn
 dumpling n. eplabúðingur
 dumpy l. stuttur og digur
 dun l. dökkmórauður; n. móbrúnn hestur; áleitinn skuldheimtumaður; krafa; s. krefja e-n (um skuld); nauða á e-m
 dunce n. heimskingi
-dunderhead n. aulabárður, auli
-dunderpate n. aulabárður, auli
+dunderhead n. aulabárður, auli, heimskingi
 dunderheaded l. heimskur, heimskulegur
+dunderpate n. aulabárður, auli
 dung n. mykja, tað; s. teðja, bera á (völl)
 dung beetle n. tordýfill
 dunghill n. mykjuhaugur
@@ -1770,13 +1770,13 @@ dunno s. [don't know] veit ekki
 duodecimo n. tólfblaðabrot; bók í tólfblaðabroti
 dupable l. auðtrúa
 dupe n. maður, sem leikið er á; s. leika á, hafa e-n að leikfífli
-duplicate l. tvöfaldur; samstæður ([~ copy, ~ stamps]); n. samstæða; samrit; eftirrit; s. tvöfalda, leggja tvöfalt, búa til annað eintak af e-u
+duplicate l. tvöfaldur; samstæður ([~ copy, ~ stamps]); n. afrit; eftirrit; samstæða; samrit; s. tvöfalda, leggja tvöfalt, búa til annað eintak af e-u
 duplication n. tvöföldun
 duplicity n. tvöfaldleiki; óhreinlyndi, undirferli
 durability n. varanleiki, hald, ending
-durable l. haldgóður, endingargóður, þolinn
+durable l. endingargóður, þolinn, haldgóður
 durance n. varðhald
-duration n. lengd ([the average ~ of life]); [of short ~] skammvinnur, skammær
+duration n. lengd, tímalengd ([the average ~ of life]); [of short ~] skammvinnur, skammær
 during fs. í, um, meðan; [~ the night] um nóttina
 dusk l. dimmur; n. dimma, rökkur; s. skyggja, rökkva ([it began to ~])
 duskish l. dimmleitur; dökkleitur
@@ -1785,7 +1785,7 @@ dust n. ryk, dust, duft; s. dusta ryk af; gera rykugt
 duster n. rykþurrka
 dustpan n. sorpspaði
 dusty l. rykugur; dökkur, dimmur
-Dutch l. hollenskur; n. hollenska
+Dutch l. hollenskur; n. hollenska (tungumál)
 Dutchman n. Hollendingur
 duteous l. skyldurækinn; auðsveipur; hlýðinn
 dutiable l. tollskyldur ([~ goods])
@@ -1803,11 +1803,11 @@ dwindle s. minnka, rýrna
 dye s. lita; n. litur; litunarefni
 dyer n. litari
 dyke n. sjá %[dike]%
-dynamic l. afl(fræði)legur
+dynamic l. kviklegur; kraftmikill, atorkumikill; aflfræðilegur
 dynamics n. ft. aflfræði
-dynamite n. dýnamít; tundur; s. sprengja með tundri
+dynamite n. dýnamít; sprengiefni; tundur; s. sprengja með tundri
 dynamo n. rafvél, rafall
-dynasty n. konungaætt
+dynasty n. konungsætt, konungaætt, keisaraætt, ættarveldi
 dysentery n. blóðsótt, blóðkreppa, blóðkreppusótt
 dyspepsia n. meltingartruflun, meltingarónot, meltingarleysi, harðlífi
 dyspepsy n. meltingartruflun, meltingarónot, meltingarleysi, harðlífi
