@@ -303,7 +303,6 @@ sociological l. (sam)félagsfræðilegur, félagsvísindalegur
 sociologist n. (sam)félagsfræðingur
 societal l. samfélagslegur, félagslegur, þjóðfélagslegur
 sophisticated l. fágaður; háþróaður; margbrotinn
-spectacular l. stórbrotinn, tilkomumikill
 zombify s. breyta í uppvakning (sjá %[zombie]%)
 dyke n. varnargarður; niðrandi orð yfir lesbíu
 gaoler n. fangavörður
@@ -1465,7 +1464,7 @@ racist n. kynþáttahatari, rasisti; l. kynþáttahatandi, rasískur, kynþátta
 euro n. evra (evrópskur gjaldmiðill, €)
 petite l. fíngerður, smágerður, smávaxinn, lítill, lítilvaxinn
 volleyball n. blak (knattleikur)
-motel n. vegahótel (Band.): samsett úr %[motor]% og %[hotel]%
+motel n. vegahótel (Bandarískt, samsett úr %[motor]% og %[hotel]%)
 combo n. stytt. á %[combination]%
 stolen l. stolinn; sjá %[steal]%
 specialized l. sérhæfður; sjá %[specialize]%
@@ -2973,8 +2972,8 @@ extraterrestrial l. utan jarðarinnar; n. geimvera
 prestigious l. virtur, mikilsvirtur
 unreliability n. óáreiðanleiki
 subhuman l. ekki alveg mennskur, undirmennskur; n. undirmenni
-asphyxiate s. kæfa, kafna
-asphyxiation n. köfnun, kæfing, súrefnisskortur
+asphyxiate s. kæfa; kafna
+asphyxiation n. köfnun; kæfing; súrefnisskortur
 asphyxiant n. kæfiefni; l. kæfandi, kæfi-
 mitochondrion n. hvatberi, kyndikorn, orkukorn (frumulíffæri)
 mitochondrial l. hvatbera- (sjá %[mitochondrion]%)
@@ -3007,7 +3006,7 @@ isotope n. samsæta, ísótópur
 allele n. samsæta; tvenndargen
 methane n. metan
 exogenous n. útrænn, utanaðkomandi, sem verkar að utan, sem er kominn utan frá
-experimentee n. (manneskja sem er) viðfang rannsóknar
+experimentee n. (manneskja eða dýr sem er) viðfang rannsóknar
 emphysema n. lungnaþemba (sjúkdómur)
 audiobook n. hljóðbók
 filicide n. sonarmorð eða dótturmorð
@@ -3771,6 +3770,7 @@ hypercompetitive l. ofursamkeppnis-, ofursamkeppnislegur, með mikilli samkepnni
 duplicitous l. tvílyndur, óhreinlyndur, undirförull
 vindicated l. réttlættur; varður; sannaður
 grading n. flokkun; stigagjöf; einkunnagjöf
+tectonics n. ft. jarðskorpu­hreyf­ing­ar
 # stabilize
 # destabilize
 # stabilizer

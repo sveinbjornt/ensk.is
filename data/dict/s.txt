@@ -1190,9 +1190,9 @@ singleness n. einlægni, hreinskilni; einlífi
 singly ao. einstaklega, einn sér; [misfortune never comes ~] sjaldan er ein báran stök
 sing-song n. gjálfurhljóð; ymjandi; l. einræmislegur
 singular l. einstakur, einstaklegur; einkennilegur; óvenjulegur, fágætur; frábær, stakur; n. eintala
-singularity n. einkunn, einkenni; einstakleiki; fágæti
+singularity n. einstakleiki; einkenni; fágæti
 singularly ao. einstaklega, sérstaklega
-sinister l. óheillavænlegur
+sinister l. óheillavænlegur; ískyggilegur
 sinistral l. vinstri; sem snýr til vinstri
 sinistrous l. vinstri; óheillavænlegur
 sink s. sökkva; hníga (siga) niður ([the sun ~s]); minnka; láta siga niður; sökkva (e-u); stinga (e-u) niður; lækka, færa niður (vöruverð); verja, eyða (peningum); grafa ([~ a well]); gera út af við e-n, hætta að nota, gefa frá sér; hætta að tala um; leyna, þegja yfir (e-u); láta vera hljóðlaust ([~ the w in Greenwich]); [~ a debt] borga skuld smám saman; [his heart sank within him] honum féll allur ketill í eld; [his cheeks have sunk in] hann er orðinn kinnfiskasoginn; [he is ~ing fast] það dregur óðum af honum; n. vaskur ([the kitchen ~, the bathroom ~]); ræsi
@@ -1851,24 +1851,24 @@ spearman n. spjótmaður
 spec n. stytt úr [speculation]; [did on ~] í gróðaskyni; [it turned out a good ~] gróðafyrirtæki
 special l. sérstakur, sérstaklegur; auka-
 specialist n. sérfræðingur
-speciality n. sérstakleiki; sérkennileiki; sérstaklegt tilfelli; sérfræði, sérkunnátta; sérstaklegur hæfileiki
-specialty n. sérstakleiki; sérkennileiki; sérstaklegt tilfelli; sérfræði, sérkunnátta; sérstaklegur hæfileiki
-specialize s. ætla e-ð til sérstaklegrar notkunar; sérhæfa; sérgreina, afmarka
-specially ao. sérstaklega, einkum
+speciality n. sérfræði, sérkunnátta, sérhæfing; sérstaklegur hæfileiki; sérstakleiki; sérkennileiki; sérstaklegt tilfelli
+specialty n. sérfræði, sérkunnátta, sérhæfing; sérstaklegur hæfileiki; sérstakleiki; sérkennileiki; sérstaklegt tilfelli
+specialize s. ætla e-ð til sérstaklegrar notkunar; sérhæfa (sig); sérgreina, afmarka
+specially ao. sérlega, sérstaklega, einkum
 specie n. málmpeningur; reiðusilfur ([payment in ~, shortness of ~])
 species n. tegund, dýrategund
-specific l. sérstaklegur; eiginlegur; sérkennilegur ([~ for that school of painters]); tegundar- ([~ name of a plant]); eðlis- ([~ gravity]); nákvæmur ([~ statement]); n. sérlegt (óbrigðult) meðal
-specification n. afmörkun; nákvæm skýrsla (eða upptalning), sundurliðun; póstur, liður (í upptalningu)
-specify s. tilfæra (nefna) sérstaklega, telja upp
+specific l. sérstakur, sérstaklegur; eiginlegur; sérkennilegur ([~ for that school of painters]); tegundar- ([~ name of a plant]); eðlis- ([~ gravity]); nákvæmur ([~ statement]); n. sérlegt (óbrigðult) meðal
+specification n. tilgreining; afmörkun; nákvæm skýrsla (eða upptalning), sundurliðun; póstur, liður (í upptalningu)
+specify s. tilgreina, tilfæra (nefna) sérstaklega; telja upp
 specimen n. sýnishorn, dæmi
 specious l. álitlegur, glæsilegur; fagur (réttur) að ytra útliti, yfirvarps-
 speck n. blettur, depill; spik (á hvölum); s. bletta
 speckle n. lítill blettur, díli, drafna; s. gera dílótt (dröfnótt, deplótt)
-spectacle n. sjón; ft. gleraugu ([a pair of ~s]); [a deplorable ~] hörmuleg sjón
+spectacle n. sjón; sýning; [a deplorable ~] hörmuleg sjón; ft. gleraugu ([a pair of ~s])
 spectacled l. með gleraugu
 spectacle case n. gleraugnahús
 spectacle frame n. gleraugnaumgjörð
-spectacular l. sem lýtur að sjónleikum
+spectacular l. l. stórbrotinn, tilkomumikill; sem lýtur að sjónleikum
 spectator n. áhorfandi
 spectral l. vofulegur; litrófslegur, ljósbrotslegur
 spectre n. vofa, draugur
