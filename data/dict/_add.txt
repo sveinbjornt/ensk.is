@@ -3693,9 +3693,9 @@ Taylorism n. taylorismi (verkstjórnun sem byggist á nákvæmum mælingum framl
 Taylorist n. fylgismaður taylorisma (sjá %[Taylorism]%)
 barbiturate n. barbitúrat (efni leitt af barbitúrsýru)
 landmass n. landflæmi; meginland
-deregulation n. afnám reglugerða
+deregulation n. afregluvæðing, afnám reglugerða
 transliteration n. umritun, umstöfun
-subculture n. menningarkimi; afrækt, undirrækt
+subculture n. menningarkimi, undirmenning; afrækt, undirrækt
 churchgoer n. kirkjugestur, sóknarbarn, kirkjurækinn maður eða kona
 pederasty n. sveinmök, mök við drengi; barnagirnd
 pederast n. sá sem á mök við drengi; barnaperri
@@ -3726,6 +3726,7 @@ metastasized l. meinvarpað
 atropine n. atrópín
 biome n. lífbelti
 hydrology n. vatnafræði
+hydrologist n. vatnafræðingur
 hydrological l. vatnafræðilegur
 containerize s. gámavæða
 containerization n. gámavæðing
@@ -3739,7 +3740,7 @@ somatic l. líkamlegur, líkams-, sem á við líkamann
 psychosomatic l. geðvefrænn
 parametric l. stikaður, stikabundinn
 bureaucratic l. skrifræðislegur, skrifræðis-; [~ nonsense]
-ostracization n. útskúfun
+ostracization n. útskúfun; skeljardómur í Aþenu til forna
 parasitism n. sníkjulíf, sníkjulífi
 apparatchik n. kerfiskarl, opinber starfsmaður, ríkisstarfsmaður
 diagnostician n. greinandi, sjúkdómsgreinandi
@@ -3748,8 +3749,8 @@ dysplasia n. misvöxtur, rangvöxtur
 ephemeral l. hverfull; skammlífur, skammvinnur, skammær
 ephemerality n. hverfulleiki; skammlífi
 protoplasmic l. frymis-, frumslíms-
-psychedelic l. hugvíkkandi, skynörvandi; n. hugvíkkandi eða skynörvandi lyf
-psychadelia n. hugvíkkun, skynörvun
+psychedelic l. hugvíkkandi, hugbreytandi, skynörvandi, ofskynjunar-; n. hugvíkkandi, hugbreytandi eða skynörvandi lyf, ofskynjunarlyf
+psychadelia n. hugvíkkun, skynörvun, ofskynjun
 anatomical l. líffærafræðilegur, líffæra-
 anatomic l. líffærafræðilegur, líffæra-
 polynomial l. margliða, fleirliða
@@ -3765,12 +3766,13 @@ gyrfalcon n. (stór) fálki, valur
 sledgehammer n. sleggja
 brusqueness n. fruntaskapur
 septicaemia n. blóðeitrun, blóðsýking
-directionless l. stefnulaus
-hypercompetitive l. ofursamkeppnis-, ofursamkeppnislegur, með mikilli samkepnni ([a ~ environment])
+directionless l. stefnulaus, áttalaus
+hypercompetitive l. ofursamkeppnis-, ofursamkeppnislegur, með mjög mikilli samkepnni ([a ~ environment])
 duplicitous l. tvílyndur, óhreinlyndur, undirförull
 vindicated l. réttlættur; varður; sannaður
 grading n. flokkun; stigagjöf; einkunnagjöf
-tectonics n. ft. jarðskorpu­hreyf­ing­ar
+tectonics n. ft. jarðskorpu­hreyf­ing­ar ([plate ~])
+quickening n. hröðun; lífgun; fjörgun (fyrstu hreyfingar fósturs í móðurkviði); l. með auknum hraða ([at a ~ pace])
 # stabilize
 # destabilize
 # stabilizer
