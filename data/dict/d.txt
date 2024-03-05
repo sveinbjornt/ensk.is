@@ -1137,7 +1137,7 @@ dislocate s. færa úr liði; skekkja í liði; færa úr lagi; færa (flytja) �
 dislocation n. liðskekking, liðundning; sundrung, ruglingur
 dislodge s. reka burt; reka upp (veiðidýr); færa úr stað
 disloyal l. ótrúr; ólöghlýðinn
-disloyalty n. ótryggð, ótrúleiki
+disloyalty n. ótryggð; ólöghlýðni
 dismal l. dapurlegur, sorglegur; skuggalegur, eyðilegur
 dismals n. ft. þunglyndi; [to betake oneself to the ~] gerast þunglyndur
 dismantle s. fella reiða (á skipi); rífa niður (varnarvirki)
@@ -1679,7 +1679,7 @@ drugstore n. lyfjabúð
 drugget n. þykkur ullardúkur (einkum í gólfábreiður)
 drum n. trumba, bumba ([beat the ~]); s. berja (bumbu)
 drumhead n. trumbuhöfuð; hljóðhimnan í eyranu
-drummer n. trumbuslagari, bumbuslagi
+drummer n. trommari, trymbill, trumbuslagari
 drumly l. skýjaður, dimmur; þungbúinn ([~ look]); gruggugur
 drunk l. drukkinn, ölóður, ölvaður
 drunkard n. drykkjumaður

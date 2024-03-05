@@ -3696,6 +3696,7 @@ landmass n. landflæmi; meginland
 deregulation n. afregluvæðing, afnám reglugerða
 transliteration n. umritun, umstöfun
 subculture n. menningarkimi, undirmenning; afrækt, undirrækt
+subcultural l. menningarkima-, undirmenningar-; afræktaður, undirræktaður
 churchgoer n. kirkjugestur, sóknarbarn, kirkjurækinn maður eða kona
 pederasty n. sveinmök, mök við drengi; barnagirnd
 pederast n. sá sem á mök við drengi; barnaperri
@@ -3773,6 +3774,25 @@ vindicated l. réttlættur; varður; sannaður
 grading n. flokkun; stigagjöf; einkunnagjöf
 tectonics n. ft. jarðskorpu­hreyf­ing­ar ([plate ~])
 quickening n. hröðun; lífgun; fjörgun (fyrstu hreyfingar fósturs í móðurkviði); l. með auknum hraða ([at a ~ pace])
+adaption n. aðlögun
+bedspread n. rúmteppi
+chevron n. einkennismerki (sem er eins og V á hvolfi)
+communique n. opinber tilkynning
+sandbag n. sandpoki
+foxhole n. (lítil) skotgröf
+profiteer n. gróðapungur, gróðabraskari
+profiteering n. gróðabrask
+rickshaw n. rikksjó (tvíhjóla léttivagn sem dreginn er af manni)
+half-moon n. hálfmáni
+firelight n. eldsbjarmi
+multilevel l. á mörgum hæðum, á mörgum stigum
+cornflake n. kornflaga, morgunkorn
+jobholder n. launþegi, starfsmaður, e-r sem er með starf
+bedazzle s. heilla
+dutifully ao. skyldurækilega, af skyldurækni
+classicist n. fornfræðingur
+coda n. niðurlag, niðurlagskafli
+whistle-blower n. uppljóstrari
 # stabilize
 # destabilize
 # stabilizer

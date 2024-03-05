@@ -329,10 +329,10 @@ acuteness n. hvassleiki; skarpskyggni; næmleiki
 adage n. málsháttur
 adamant n. demant
 adamantine l. demantharður; órjúfanlegur
-adapt s. laga (eftir [to]); [~ a play from the French] semja leikrit eftir (með hliðsjón af) frönsku frumriti
-adaptability n. notanleiki; aðlögunarhæfni
-adaptable l. notanlegur
-adaptation n. notkun; nýtileiki; eftirlíking
+adapt s. aðlaga, aðlagast, laga (eftir [to]); [~ a play from the French] semja leikrit eftir (með hliðsjón af) frönsku frumriti
+adaptability n. aðlögunarhæfni; notanleiki
+adaptable l. aðlaganlegur; notanlegur
+adaptation n. aðlögun; eftirlíking; notkun; nýtileiki
 adays ao. [now ~] nú á dögum, á vorum dögum
 add s. bæta við, auka ([to]); [this ~s to our difficulties] eykur; leggja saman (einnig [~ up/together]); [he ~ed that] sagði ennfremur, að
 adder n. naðra

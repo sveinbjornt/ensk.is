@@ -2791,9 +2791,6 @@ soufflé
 cabby
 overpaid
 underpaid
-whistle-blower
-coda
-classicist
 disaggregation
 atop
 physicality
@@ -2819,11 +2816,9 @@ polyrhythmic
 conditioner
 convector
 caseworker
-bedazzle
 excursus
 sweater
 inherently
-dutifully
 sushi
 globally
 washer
@@ -2842,7 +2837,6 @@ conservativism
 favorite
 piggyback
 intuitively
-jobholder
 strongman
 extortionist
 second-guess
@@ -2870,7 +2864,6 @@ catwalk
 broadcaster
 accrual
 editorialist
-subcultural
 scrounger
 skiver
 feverishly
@@ -2883,6 +2876,8 @@ innards
 breeder
 underpants
 bemusement
+bemuse
+bemused
 gabardine
 orgasmic
 eyehole
@@ -2897,9 +2892,6 @@ tyke
 tailcoat
 fruitcake
 windowsill
-cornflake
-multilevel
-firelight
 blimey
 codswallop
 collapsible
@@ -2907,7 +2899,6 @@ stalagmite
 scruff
 grubby
 befuddle
-half-moon
 sniffy
 scrawny
 pointy
@@ -2972,14 +2963,11 @@ phosgene
 periscopic
 periscopical
 singsong
-communique
 hayloft
 branchless
 groundsheet
 scrum
-sandbag
 seminarist
-foxhole
 kitschy
 counter-revolutionary
 scruffy
@@ -2994,14 +2982,12 @@ mulishness
 espousal
 flintlock
 shopfront
-rickshaw
 panoramic
 reimpose
 orchestrate
 loose-knit
 peony
 crampon
-profiteer
 valedictorian
 procrustean
 sophomoric
@@ -3058,7 +3044,8 @@ homogenic
 dummy (endurskoða)
 trapopause
 lepidopterist
-chevron
-bedspread
 mildew (endurskilgreina)
 spiffy
+skeuomorph
+skeuomorphism
+schmooze
