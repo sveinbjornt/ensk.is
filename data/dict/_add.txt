@@ -269,7 +269,7 @@ cougar n. fjallaljón; kynferðislega virk eldri kona (óforml.)
 calisthenics n. ft. leikfimiæfingar
 calisthenic l. leikfimi-, leikfimiæfinga-
 automation n. sjálfvirkni; sjálfvirknivæðing
-automate s. sjálfvirknivæða
+automate s. sjálfvirknivæða, gera sjálfvirkt
 automatable l. sjálfvirknivæðanlegur (sjá %[automate]%)
 bot n. (stytt. á %[robot]%) vélmenni, þjarkur
 surveillance n. eftirlit
