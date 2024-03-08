@@ -572,6 +572,7 @@ SKIP = frozenset(
         "javelineer",
         "Jesuitic",
         "egocentrism",
+        "spelunk",
     )
 )
 

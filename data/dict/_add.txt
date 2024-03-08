@@ -481,6 +481,7 @@ language technology n. máltækni
 guerrilla n. skæruliði
 guerrilla warfare n. skæruhernaður
 neoclassical l. nýklassískur; [~ architecture] nýklassísk byggingarlist
+neoclassicism n. nýklassík, nýklassísk stefna
 basic l. grundvallar-, undirstöðu- ([~ principles]); basískur (efnafr.); n. ft. [the ~s] grundvallaratriðin
 hyponym n. undirheiti ([crow is a ~ of bird])
 hypernym n. yfirheiti ([bird is a ~ of crow])
@@ -2592,14 +2593,13 @@ trapezoid n. trapisa
 trapezoidal l. trapisulaga
 emirate n. furstadæmi (í Austurlöndum nær)
 randomness n. handahófskennd, slembni
-kafkaesque l. sem einkennist af martraðarkenndri skriffinnsku eða skrifræði
+kafkaesque l. kafkaískur, sem einkennist af martraðarkenndri skriffinnsku eða skrifræði
 raincoat n. regnkápa, regnfrakki
 outflow n. útstreymi, útflæði
-standardize s. staðla (sjá %[standard]%)
+standardize s. staðla, koma staðli á (sjá %[standard]%)
 frontline n. framlína; fremsta víglína
 Australasia n. Ástralasía (svæði innan Eyjaálfu)
 unattractive l. óaðlaðandi
-neoclassicism n. nýklassík, nýklassísk stefna
 hot dog n. pylsa
 fingerprint n. fingrafar; s. skrá fingrafar e-s
 disappear s. hverfa
@@ -3763,7 +3763,7 @@ aerodynamic l. loftstreymis-, lofthreyfi-
 orthogonal l. hornréttur, rétthyrndur; þver, þverstæður
 mummification n. skrælnun, skorpnun
 pharaoh n. faraó (egypskur konungur)
-weaponize s. vopnavæða, gera vopn úr
+weaponize s. vopnavæða, gera vopn úr, nota sem vopn
 interdisciplinary l. þverfaglegur
 biomedical l. líf- og lækninga-, líf- og læknisfræðilegur
 gyrfalcon n. (stór) fálki, valur
@@ -3779,7 +3779,7 @@ tectonics n. ft. jarðskorpu­hreyf­ing­ar ([plate ~])
 quickening n. hröðun; lífgun; fjörgun (fyrstu hreyfingar fósturs í móðurkviði); l. með auknum hraða ([at a ~ pace])
 adaption n. aðlögun
 bedspread n. rúmteppi
-chevron n. einkennismerki (sem er eins og V á hvolfi)
+chevron n. e.k. einkennismerki
 communique n. opinber tilkynning
 sandbag n. sandpoki
 foxhole n. (lítil) skotgröf
@@ -3831,7 +3831,8 @@ hijacker n. sá sem rænir flutningatæki, flugræningi
 catering n. veitingar, veitingaþjónusta
 screening n. skimun
 synapsis n. pörun
-synapse n. taugamót
+synapse n. taugamót, taugatengsl
+synaptic l. taugamóta-, taugatengsla-
 egocentric l. sjálfhverfur, sjálflægur
 egocentrism n. sjálfhverfa, sjálflægni
 broadleaf l. breiðblaða, með breiðum laufblöðum
@@ -3855,3 +3856,23 @@ recidivism n. síbrot
 psychotherapist n. sálfræðingur eða geðlæknir (sem sérhæfir sig í sálrænni meðferð)
 colophon n. baktitill
 intergovernmental l. milliríkja-
+spelunk n. hellir; s. skoða hella
+spelunker n. hellaskoðari
+spelunking n. hellaskoðun
+predation n. ránlíf; afrán
+statistic n. lýsitala; tölfræði; reiknihending
+unskilled l. ófaglærður; óleikinn; [~ labour] ófaglært vinnuafl
+repeatability n. endurtakanleiki
+repetitive l. sem endurtekur sig; ítrekaður
+mutualism n. samhjálp
+understatement n. úrdráttur; vanskráning
+playtime n. leiktími, frjáls leikur
+catalyze s. hvetja
+detonator n. tæki sem kveikir í, kveikitæki; forsprengja
+upstream ao. andstreymis, uppstreymis; l. á móti straumi; í bakátt
+exploitable l. hagnýtanlegur, nýtanlegur; sem hægt er að arðræna
+exploiter n. sá sem nýtir eða hagnýtir; arðræningi
+exploitative l. sem nýtir eða hagnýtir; arðrænandi, arðráns-
+markup n. álagning (á vörur); ívaf (í texta)
+supervisory l. eftirlits-
+seamless l. saumlaus

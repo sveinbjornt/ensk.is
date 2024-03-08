@@ -209,7 +209,6 @@ waterboard
 unfollow
 gig
 gaming
-markup
 tokenize
 propertarian
 propertarianism
@@ -645,7 +644,6 @@ jogging
 pinpoint
 tabloid
 short-tempered
-understatement
 shipmate
 crewman
 northerly
@@ -945,7 +943,6 @@ plowman
 motorist
 viewpoint
 skyline
-detonator
 lentonite
 dovecote
 waterway
@@ -1119,7 +1116,6 @@ tribesman
 longhand
 blotless
 artefact
-predation
 disgruntlement
 polemicist
 deconstruct
@@ -1545,7 +1541,6 @@ attractor
 arriviste
 standardization
 one-upmanship
-upstream
 identifier
 delegitimize
 calendrical
@@ -1646,7 +1641,6 @@ slowdown
 lifeline
 liberalization
 shoehorn
-exploitative
 aquaponics
 decarbonize
 stopgap
@@ -1892,7 +1886,6 @@ self-improvement
 frontiersman
 striver
 epigone
-exploiter
 seminarian
 cofounder
 thornbush
@@ -2042,7 +2035,6 @@ escapist
 earhole
 subtext
 realness
-playtime
 minimalist
 lungful
 freebie
@@ -2052,7 +2044,6 @@ numinous
 grotesqueness
 ricochet
 meme
-synaptic
 rediscovery
 chomp
 provider
@@ -2564,7 +2555,6 @@ jank
 janky
 overly
 overstatement
-exploitable
 lightly
 watercraft
 irredentist

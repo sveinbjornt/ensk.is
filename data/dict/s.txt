@@ -1265,10 +1265,10 @@ ski n. skíði; s. að skíða
 skid n. skorða, stokkur; hjólstöðvari, hemill; s. stöðva, skorða (hjól); renna áfram; renna til hliðar
 skiff n. lítill bátur; s. róa í skemmtibát; þeytast; snerta lauslega
 skilful l. duglegur, fimur, hagur, leikinn
-skilfully ao. fimlega, kunnáttulega
-skilfulness n. hagleikur, leikni
-skill n. hagleikur, leikni, kunnátta
-skilled l. sem kann að e-u, leikinn (í e-u)
+skilfully ao. fimlega, kunnáttulega, með færni
+skilfulness n. hagleikur, leikni, færni
+skill n. færni, leikni, kunnátta, fagkunnátta, verkkunnátta
+skilled l. sem kann e-ð, leikinn (í e-u); faglærður
 skim s. veiða (froðuna) ofan af, fleyta; liða yfir; snerta lauslega; liða áfram; [~ through a book] blaða í bók
 skimmer n. skeið til að fleyta með
 skimmed milk n. undanrenna
@@ -2241,13 +2241,13 @@ station n. staður; staða (í mannfélaginu); stöð (járnbrautarstöð; vagna
 stationary l. kyrr á sama stað; sem stendur í stað, kyrrstæður; stöðugur; fastur; staðlegur
 stationer n. ritfærasali, ritfangasali, pappírssali
 stationery n. ritfæri, ritföng
-statistical l. hagfræðilegur, talfræðilegur
-statistician n. hagfræðingur, talfræðingur
-statistics n. hagfræði, talfræði
+statistical l. tölfræðilegur
+statistician n. tölfræðingur
+statistics n. tölfræði
 statuary n. myndasmiður; myndasmiði
-statue n. standmynd, líkneski
-statuesque l. líkur líkneski; líflaus
-statuette n. lítil standmynd, lítil stytta
+statue n. stytta; standmynd, líkneski
+statuesque l. líkur styttu; líflaus
+statuette n. lítil stytta, lítil standmynd
 stature n. vöxtur; [short of ~] lítill (lágur) vexti
 status n. staða; ástand
 statutable l. lagalegur; lögákveðinn
