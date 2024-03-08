@@ -3716,6 +3716,9 @@ lithotripsy n. steinbrot, steinmolun
 UFO n. stytt. á [unidentified flying object]; fljúgandi furðuhlutur
 homophone n. samhljóma orð
 homograph n. samhljóma orð
+homophonic l. samhljóma; einradda
+homophonous l. samhljóma; einradda
+homophony n. samhljómur, þegar hljóð eru eins
 soporific l. svæfandi; n. svefnlyf
 diatomite n. kísilgúr
 ablation n. blæsing, leysing; brottnám
@@ -3790,9 +3793,23 @@ cornflake n. kornflaga, morgunkorn
 jobholder n. launþegi, starfsmaður, e-r sem er með starf
 bedazzle s. heilla
 dutifully ao. skyldurækilega, af skyldurækni
+homogamous l. samþroska
+homogamy n. að allt sé af sama kyni; einsblóma; einserfðaæxlun; innrækt; jafnvensl
 classicist n. fornfræðingur
 coda n. niðurlag, niðurlagskafli
 whistle-blower n. uppljóstrari
+homonymic l. samhljóða, eins og annað orð í framburði
+homo n. maður (í latínu); ættkvísl manndýra (sbr. [homo sapiens]); hommi, samkynhneigður maður (niðrandi)
+homo- fsk. sam-, jafn-, eins- (sbr. %[homosexual]%, %[homogenous]%)
+homologous l. samsvarandi; eðlislíkur
+homology n. samsvörun; eðlislíking
+homogenous l. samsvarandi, af sameiginlegum uppruna
+homogeny n. samsvörun, sameiginlegur uppruni
+homogenize s. gera einsleitan; jafna
+homogenization n. jöfnun, að gera einsleitan
+homogenate n. einsleitt efni
+mesa n. stapi, hæð eða fjall með flötum toppi
+nightshade n. náttskuggajurt; laukaskuggi; kvöldskuggi
 # stabilize
 # destabilize
 # stabilizer

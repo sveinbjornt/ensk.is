@@ -562,6 +562,13 @@ SKIP = frozenset(
         "ostracization",
         "psychadelia",
         "subfield",
+        "homogamous",
+        "homogamy",
+        "homogenate",
+        "homogeny",
+        "homology",
+        "homophonous",
+        "jobholder",
     )
 )
 
