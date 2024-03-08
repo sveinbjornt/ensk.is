@@ -2711,7 +2711,7 @@ taxi n. leigubíll; s. ferðast um í eða flytja e-ð með leigubíl; aka á j�
 taxicab n. sjá %[taxi]%
 taxi driver n. leigubílstjóri
 taxi stand n. leigubílastöð
-tax-exempt l. skattfrjáls
+tax-exempt l. skattfrjáls, undanþeginn frá skatti
 gangster n. glæpon, bófi, glæpamaður
 gangsterism n. (skipulögð) glæpastarfsemi
 commissar n. pólitískur fulltrúi (kommúnistaflokks Sovétríkjanna); ráðuneytisstjóri í Sovétríkjunum
@@ -3817,3 +3817,41 @@ destabilize s. gera óstöðugan, koma úr jafnvægi
 stabilizer n. jafnvægisbúnaður; stöðgari; stýriskambur; varðveisluefni (í efnafræði)
 stabilization n. stöðgun; festing; [price ~] verðlagsfesting
 destabilization n. óstöðgun, óstöðugleiki
+discography n. hljóðritaskrá, hljómplötuskrá, hljómplötulisti; hljómplötufræði; hryggþófamyndataka
+schlock n. rusl, drasl; l. verðlaus, ómerkilegur
+schmaltz n. væmni
+schmaltzy l. væminn
+smokescreen n. reykskjöldur sem villir fyrir eða felur
+replacement n. endurnýjun; afleysing; sem kemur í stað annars, staðgengill
+gyroscope n. snúða, spunakona; gýróskóp
+timestamp n. tímastimpill
+hijack s. að ræna flutningatæki eða flugvél; n. flugrán
+hijacking n. rán á flutningatæki eða flugvél
+hijacker n. sá sem rænir flutningatæki, flugræningi
+catering n. veitingar, veitingaþjónusta
+screening n. skimun
+synapsis n. pörun
+synapse n. taugamót
+egocentric l. sjálfhverfur, sjálflægur
+egocentrism n. sjálfhverfa, sjálflægni
+broadleaf l. breiðblaða, með breiðum laufblöðum
+broadleaved l. breiðblaða, með breiðum laufblöðum
+subduction n. sökkbelti ([~ zone])
+attaché n. sendiráðsritari; hermálafulltrúi ([military ~])
+subplot n. aukaflétta í söguþræði; hlutteikning; smáreitur
+psychotherapy n. sállækning, sálræn meðferð
+aspirin n. aspirín, asetýlsalisýlsýra
+switchboard n. skiptiborð, stjórntafla, rofatafla
+Aryan n. aríi; l. arískur (af forsögulegum indóevrópskum þjóðflokki kominn)
+cyber- fsk. sýndarheims-, net-, net-heima (sbr. %[cybernetics]%, %[cyberspace]%)
+connectivity n. tengjanleiki, tengni
+cypher n. dulkóti
+aversive l. fráhverfur; ógeðfelldur
+preschool n. forskóli; leikskólastig
+argot n. hópmál, sérmál notað innan e-s hóps, fangamál
+unmanned l. ómannaður
+recidivist n. síbrotamaður; síkomusjúklingur
+recidivism n. síbrot
+psychotherapist n. sálfræðingur eða geðlæknir (sem sérhæfir sig í sálrænni meðferð)
+colophon n. baktitill
+intergovernmental l. milliríkja-

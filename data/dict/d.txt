@@ -1017,8 +1017,8 @@ disconnect s. greina í sundur; losa
 disconnected l. ósamanhangandi, sundurlaus; fráskilinn
 disconnection n. sundurgreining, sundrung
 disconsolate l. óhuggandi; eyðilegur ([a ~ place])
-discontent n. óánægja, kurr
-discontented l. óánægður
+discontent n. óánægja, kurr; s. gera óánægjan
+discontented l. óánægður, ófullnægður
 discontentment n. óánægja
 discontinuance n. niðurlagning, hlé
 discontinuation n. niðurlagning, hlé

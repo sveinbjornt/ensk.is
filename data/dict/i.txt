@@ -1423,9 +1423,9 @@ invertebrate l. hrygglaus; staðfestulaus, stefnulaus; n. hrygglaust dýr ([~ an
 invest s. fjárfesta; [~ money in] verja peningum til; klæða, skrýða ([in, with]); gefa, veita tign eða embætti ([with]); umlykja; setja hergarð um, setjast um
 investiture n. klæðnaður; veiting tignar eða háembætta; veitingarréttur
 investment n. fjárfesting; klæðnaður; leigustaður, skuldastaður; hergirðing, umsát
-investigate s. grafast eftir, rannsaka; gera rannsókn
+investigate s. rannsaka, grafast eftir; gera rannsókn
 investigation n. rannsókn
-investigator n. rannsakari
+investigator n. rannsakandi, rannsakari
 inveteracy n. rótfesta; rótgróinn fjandskapur; þrálæti
 inveterate l. rótgróinn ([~ hostility]); þrálátur ([~ disease])
 invidious l. öfundsjúkur; illa þokkaður; sem vekur óvild
