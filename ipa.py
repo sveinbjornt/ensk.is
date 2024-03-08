@@ -569,6 +569,8 @@ SKIP = frozenset(
         "homology",
         "homophonous",
         "jobholder",
+        "javelineer",
+        "Jesuitic",
     )
 )
 

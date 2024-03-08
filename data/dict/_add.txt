@@ -869,7 +869,7 @@ dextrose n. dextrósi, þrúgusykur
 lactose n. mjólkursykur, laktósi
 lactose intolerance n. mjólkuróþol, laktósaóþol
 amino acid n. amínósýra, hvítusýra
-zip n. þytur; s. þjóta, skjótast; hvína; opna eða loka rennilási; þjappa stafrænt skjal
+zip n. þytur; rennilás; s. þjóta, skjótast; hvína; opna eða loka rennilási; þjappa stafrænt skjal
 zoom s. þjóta; breyta vídd linsu (í ljósmyndun); þysja ([~ in or out] þysja inn eða út)
 ziggurat n. musteristurn, musterispíramídi, stallapíramídi
 Zion n. Síon (hæð í borginni Jerúsalem í Palestínu)
@@ -3810,8 +3810,10 @@ homogenization n. jöfnun, að gera einsleitan
 homogenate n. einsleitt efni
 mesa n. stapi, hæð eða fjall með flötum toppi
 nightshade n. náttskuggajurt; laukaskuggi; kvöldskuggi
-# stabilize
-# destabilize
-# stabilizer
-# stabilization
-# destabilization
+Jesuitic l. sem líkist kristmunkum, jesúítum; hræsnisfullur, slóttugur, falskur
+javelineer n. spjótkastari
+stabilize s. gera stöðugan, koma í jafnvægi; verða stöðugur ([the situation ~d])
+destabilize s. gera óstöðugan, koma úr jafnvægi
+stabilizer n. jafnvægisbúnaður; stöðgari; stýriskambur; varðveisluefni (í efnafræði)
+stabilization n. stöðgun; festing; [price ~] verðlagsfesting
+destabilization n. óstöðgun, óstöðugleiki
