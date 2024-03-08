@@ -504,9 +504,8 @@ library n. bókasafn
 librate s. vera í jafnvægi; rugga, ramba
 libration n. jafnvægi; rugg
 libretto n. óperutexti
-licence n. leyfi; leyfisbréf; sjálfræði, stjórnleysi
+licence n. leyfi; leyfisbréf; sjálfræði, stjórnleysi; s. leyfa, veita leyfi til (e-s); heimila
 license s. leyfa, veita leyfi til (e-s); heimila
-licence s. leyfa, veita leyfi til (e-s); heimila
 licensee n. leyfishafi
 licenser n. leyfisgjafi
 licentiate n. lögheimilaður læknir eða guðfræðingur
@@ -821,7 +820,6 @@ longways ao. að endilöngu, á lengdina
 longwise ao. að endilöngu, á lengdina
 long-waisted l. síður í mittið ([a ~ gown]); búklangur
 long-winded l. sem dregur seint andann; langorður, leiðinlegur
-longwise ao. að endilöngu, á lengdina
 longeval l. langlífur
 longevity n. langlífi
 longevous l. langlífur

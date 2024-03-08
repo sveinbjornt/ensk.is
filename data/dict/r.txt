@@ -138,9 +138,8 @@ rascal n. fantur; bófi
 rascality n. fantaskapur, óþokkaskapur
 rascally l. fantalegur, níðingslegur
 rase s. skafa út; afmá, brjóta niður (vígi), jafna með jörðu ([~ to the ground]); rispa ([~ the skin])
-rash l. framhleypinn, hvatvís; hvatvíslegur
+rash l. framhleypinn, hvatvís; hvatvíslegur; n. útbrot á hörundi
 rashness n. hvatvísi, framhleypni, flan; fífldirfska
-rash n. útbrot á hörundi
 rasher n. þunn sneið (af kjöti eða fleski, [a ~ of bacon])
 rasp n. stórgerð þjöl; s. sverfa með stórgerðri þjöl; sarga
 raspberry n. hindber
@@ -185,8 +184,7 @@ ravage n. eyðing, herjun; hervirki; s. herja (á), eyða; ræna
 rave s. tala óráð, hafa höfuðóra; æða, geisa (um sjó og veður); [~ on (about)] guma af e-u
 ravel s. rekja upp; flækja; rakna upp, trosna ([~ out]); n. flækja
 ravelling n. úrrak
-raven n. hrafn
-raven s. ræna, leita að herfangi
+raven n. hrafn; s. ræna, leita að herfangi
 ravenous l. rángjarn; gráðugur (í e-ð [of])
 ravenousness n. græðgi
 ravine n. gil; s. grafa niður gil
@@ -570,7 +568,7 @@ refulgence n. ljómi, birta
 refulgent l. ljómandi, geislandi, skínandi
 refund s. endurgreiða, endurborga ([~ the expenses incurred by another]); bæta (e-m e-ð); skila aftur
 refundment n. endurgreiðsla
-refurbish s. fága upp
+refurbish s. fága upp, gera upp, lagfæra, hressa upp á
 refusal n. neitun, synjun, höfnun; afsvar; forkaupsréttur ([have the ~ of, give a person the ~ of])
 refuse s. neita, synja (um); hafna ([~ an offer, a gift]); [be ~d] fá afsvar ([I have never been ~d]); n. úrgangur, úrkast; l. úrgangs-; einskis verður
 refuse heap n. sorphaugur
@@ -1075,7 +1073,6 @@ retouch s. fara yfir aftur, penta í (t.d. ljósmyndir); n. snyrting, fegrun (lj
 retrace s. rekja aftur í tímann; fara yfir (skoða) aftur; rifja upp; [~ one's steps] fara aftur sama veg
 retract s. taka aftur (t.d. kæru), kalla aftur; draga til sín ([the snail ~s its claws]); draga sig í hlé; hætta (við [from])
 retractable l. afturkallanlegur
-retraction n. afturköllun
 retractile l. sem má draga til sín
 retraction n. afturköllun; samdráttur ([~ of a muscle])
 retractive l. sem má draga aftur
@@ -1204,8 +1201,7 @@ rhythmical l. hljóðfallslegur, í takt
 rib n. rif (í manni eða skepnu); röng (í skipi); álma (í regnhlíf); s. útbúa með rifjum; [~bed stockings] brugðnir sokkar
 ribald n. ribbaldi, dóni, hrotti; l. dónalegur, klúr
 ribaldry l. dónaskapur, klúrleiki
-ribbon n. band, silkiband, silkiborði; ræma; [torn to ribbons] sundurtættur
-ribbon s. prýða með böndum, borðaleggja
+ribbon n. band, silkiband, silkiborði; ræma; [torn to ribbons] sundurtættur; s. prýða með böndum, borðaleggja
 rice n. hrísgrjón
 rich l. auðugur, ríkur; dýrmætur; ágætur, frjósamur; saðsamur; mjög kryddaður, ljúffengur; [~ wine] sterkt vín
 riches n. ft. auðæfi
@@ -1402,9 +1398,8 @@ roof n. þak; hvelfing; gómur ([~ of the mouth]); s. leggja þak á; liggja ein
 roofage n. þakefni
 roofing n. þak, þekja; þakefni
 roofless l. þaklaus; skýlislaus
-rook n. blákráka; svikari (í spilum); s. svíkja (í spilum)
+rook n. hrókur (í skák); blákráka; svikari (í spilum); s. svíkja (í spilum)
 rookery n. krákulundur, krákuhreiður; sjófuglastöð
-rook n. hrókur (í skák)
 room n. rúm, rými ([take up too much ~, there is plenty of ~]); staður, herbergi, stofa; tilefni; [make ~ for another] þoka fyrir öðrum; [in his ~] í hans stað
 roomy l. rúmgóður, rúmur
 roost n. hænsnatré; fuglahópur; [at ~] hvílandi, sofandi; [go to ~] ganga til hvílu; s. sitja (á hænsnatré); hvílast; sofa

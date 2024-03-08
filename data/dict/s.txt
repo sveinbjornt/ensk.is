@@ -235,9 +235,8 @@ scabby l. kláðugur; auðvirðilegur, fyrirlitlegur
 scabbard n. slíður, skeiðar; s. slíðra ([~ the sword])
 scaffold n. pallur; aftökupallur; s. reisa pall (skorður) undir e-ð eða upp að e-u; leggja á pall; skorða
 scaffolding n. smíðapallur; vinnupallar; verkpallur, vinnupallur, stillas
-scald s. brenna (á sjóðheitu vatni eða gufu); skola úr heitu vatni; [~ milk] flóa mjólk; n. brunasár
+scald s. brenna (á sjóðheitu vatni eða gufu); skola úr heitu vatni; [~ milk] flóa mjólk; n. brunasár; skáld
 scalding l. sjóðheitur, brennheitur
-scald n. skáld
 scale n. skali; vogarskál; [a pair of ~s] metaskálar, vog; [to ride to ~] ríða til að láta vega sig (eftir endaða kappreið); [to turn the ~] ríða baggamuninn
 scalebeam n. vogarstöng
 scale n. hreistur; væra, flasa ( í höfði); sindur; vatnsskóf (í katli); s. hreistra (fisk); flysja; flagna, flosna frá ([off, away])
@@ -273,9 +272,8 @@ scarceness n. skortur, ekla ([~ of wine]); naumleiki; fágæti
 scarcity n. skortur, ekla ([~ of wine]); naumleiki; fágæti
 scare s. hræða snögglega, fæla; n. snöggur ótti, hræðsla
 scarecrow n. fuglahræða
-scarf n. trefill; hálshnýti, slipsi; lindi, (axla)-fetill
+scarf n. trefill; hálshnýti, slipsi; lindi, (axla)-fetill; sáraskeyting; s. skeyta (fella, grópa) saman (á endunum)
 scarfed l. með herðafetil
-scarf s. skeyta (fella, grópa) saman (á endunum); n. sáraskeyting
 scarification n. rispun hörundsins
 scarify s. rispa (hörundið); róta upp (jörðinni)
 scarlatina n. flekkusótt, skarlatssótt
@@ -458,8 +456,7 @@ scurvy-grass n. skarfakál
 scut n. skott (á héra)
 scutch s. berja laust; ná hýðinu af (hör)
 scutcheon n. merkiskjöldur; skráarlauf
-scuttle n. kolakassi, kolafata ([coal-~])
-scuttle n. lúkugat; hlemmur, hleri (yfir lúkugati); s. bora gat á, sökkva (skipi); bruna, þjóta ([he ~d out of the room banging the door])
+scuttle n. lúkugat; hlemmur, hleri (yfir lúkugati); kolakassi, kolafata ([coal-~]); s. bora gat á, sökkva (skipi); bruna, þjóta ([he ~d out of the room banging the door])
 scythe n. sigð, ljár; s. slá (með ljá)
 scytheman n. sláttumaður
 sea n. sjór, haf; sjógangur, ósjór, stórsjór; [at ~] úti á sjó; í óvissu; [by ~] sjóleiðis, sjóveg; [to go to ~] gerast sjómaður; [to put to ~] leggja í haf; [with a considerable ~ running] í talsverðum sjógangi; [half ~s over] hálfdrukkinn
@@ -914,9 +911,8 @@ shilly-shally n. ráðaleysi; [to be at ~/to stand ~] vera á báðum áttum, st
 shily ao. sjá %[shyly]%
 shimmer s. glitra, blika; n. glampi
 shimmery l. glitrandi, gljáandi
-shin n. sköflungur
 shinbone n. sköflungur
-shin s. klifra upp í ([~ a tree])
+shin n. sköflungur; s. klifra upp í ([~ a tree])
 shindy n. hávaði; áflog
 shine s. skína, ljóma; láta skína, gera ljómandi; n. ljómi; gljái; sólskin ([be it ~ or rain])
 shingle n. þakspónn; fjörumöl; s. þekja með spæni
@@ -1246,8 +1242,7 @@ sizy l. límkenndur, kvoðulegur, seigur
 sizzle n. snark; s. snarka
 skald n. norrænt fornskáld
 skaldic l. skálda-; sbr. %[scald]%
-skate n. skata
-skate n. skauti; [a pair of ~s] einir skautar; s. renna á skautum
+skate n. skauti; [a pair of ~s] skautar; skata; s. renna á skautum
 skateable l. sem fara má á skautum ([~ ice])
 skater n. skautamaður
 skedaddle s. taka til fótanna, flýja
@@ -1340,10 +1335,9 @@ slaughterous l. mannskæður
 Slav n. slavneskur maður, Slavi; l. slavneskur
 slave n. þræll, ambátt; s. þrælka
 slaver n. þrælaskip; þrælakaupmaður
-slavery n. þrældómur, þrælkun, ánauð
+slavery n. þrældómur, þrælkun, ánauð; l. slefukenndur
 slaver n. slefa; s. slefa; slefa á e-ð
 slaverer n. slefari
-slavery l. slefukenndur
 slave trade n. þrælaverslun
 Slavic l. slavneskur
 slavish l. þrællundaður
@@ -1764,9 +1758,8 @@ soundness n. heilbrigði; gallaleysi; öruggleiki; réttleiki
 sound n. sund; sundmagi; sárakanni; s. kanna (sár eða djúp); prófa; komast fyrir (e-ð)
 sounding n. könnun; ft. djúp sem kannað verður með grunnsökku; [to be out of ~s] finna engan botn (með grunnsökku)
 sounding line n. lína með grunnsökku
-soundless l. botnlaus
 sound n. hljóð, hljómur; s. hljóma, glymja; hljóða ([it ~s as if]); láta hljóma; láta heyrast (í framburði); blása í (lúður); blása til (atlögu, undanhalds o.s.frv.)
-soundless l. hljómlaus, hljóðlaus
+soundless l. hljómlaus, hljóðlaus; botnlaus
 soup n. kjötsúpa
 soup ladle n. súpuskeið
 sour l. súr; önugur; s. gera súrt, sýra; gera óánægðan eða gremjufullan; súrna; verða gremjufullur
@@ -2652,8 +2645,7 @@ stupid l. skilningsdaufur, heimskur; bjánalegur; sinnulaus, sljór
 stupidity n. heimska; sinnuleysi, sljóleiki
 stupor n. tilfinningarleysi ([~ of a limb]); sljóleiki, doði
 sturdiness n. styrkleiki; harka; ótrauðleiki
-sturdy l. harður; ótrauður; öflugur, sterkur
-sturdy n. vanki, höfuðsótt (í kindum)
+sturdy l. harður; ótrauður; öflugur, sterkur; sterkbyggður; n. vanki, höfuðsótt (í kindum)
 sturgeon n. styrja
 stutter s. stama, reka í vörðurnar; n. stam
 stutterer n. stamari
@@ -3058,9 +3050,8 @@ swagbelly n. hengimagi
 swagger s. láta reigingslega; stæra sig; n. reigingur; stærilæti; dramb
 swaggerer n. gortari, montari
 swain n. sveinn, yngismaður; sveitamaður; elskhugi, biðill
-swallow n. svala
+swallow s. svelgja, gleypa ([~ up]); renna niður ([~ down]); n. svala (fugl); kok; teigur ([take a ~ of water])
 swallowtail n. svölustél; klauffáni
-swallow s. svelgja, gleypa ([~ up]); renna niður ([~ down]); n. kok; teigur ([at one ~; take a ~ of water])
 swamp n. fen, mýri; s. sökkva (e-u); fylla (með vatni); kafsigla, sigla (skip) í kaf; fyllast, sökkva; [~ed with] á kafi í e-u; [~ed with work] önnum kafinn
 swampy l. mýrlendur ([a tract of ~ land])
 swan n. svanur, álft

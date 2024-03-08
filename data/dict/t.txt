@@ -735,7 +735,6 @@ titular l. að nafninu til, að nafnbót ([~ bishop]); nafnbótar-
 titulary n. heimildarhafi; nafnbótarhafi
 to fs. til, við; fyrir, handa; (með nafnhætti) að, til þess að; [~ and fro] fram og aftur
 today ao. í dag
-tomorrow ao. á morgun
 tonight ao. í kvöld; í nótt
 toad n. e.k. froskur
 toad-eater n. sníkjugestur; smjaðrari
@@ -1233,8 +1232,7 @@ trochaic l. trokeískur
 trochee n. langstuttur bragliður
 troglodyte n. hellisbúi
 Trojan l. tróverskur, Tróju- ([the ~ war]); n. Tróverji
-troll s. velta; hringsnúa; syngja; dorga; fiska (í); hringsnúast
-troll n. tröll, illvættur
+troll n. tröll, illvættur; s. velta; hringsnúa; syngja; dorga; fiska (í); hringsnúast
 trollop n. subba, ódámur
 trollopish l. subbulegur
 trollopy l. subbulegur

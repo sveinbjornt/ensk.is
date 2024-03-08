@@ -1035,12 +1035,11 @@ pinch s. klípa; kreista; þrengja að; herða að, kreppa; kvelja, þjá; halda
 pinchers n. ft. töng, tengur
 pinchfist n. nirfill
 pinchbeck n. tambak (blendingur úr kopar og sinki)
-pine n. fura, greni, grenitré
+pine n. fura, greni, grenitré; s. vera stúrinn; megrast, horast; dragast (veslast) upp ([~ away]); [~ for, after] þrá ákaft
 pineapple n. ananas (suðrænt aldin)
 pinecone n. greniköngull
 pinemarten n. skógarmörður (dýr)
 pinery n. ananasreitur, ananasgarður
-pine s. vera stúrinn; megrast, horast; dragast (veslast) upp ([~ away]); [~ for, after] þrá ákaft
 pinfold n. kvíar
 pinhead n. títuprjónshaus
 pinion n. vængbroddur; vængur; flugfjöður; armfjötur; hjól (í vél); s. binda vængina á; stýfa af vængjunum á; binda handleggi (hendur) e-s; fjötra
@@ -1701,8 +1700,7 @@ precautious l. forsjáll
 precede s. ganga fyrir ([such duties ~ all others]); fara (eða standa) á undan ([the words that ~]); vera á undan eða fyrir; láta e-ð ganga á undan
 precedence n. forréttur; yfirburðir; [take ~ of (over)] vera (e-m) fremri
 precedency n. yfirburðir
-precedent l. fyrri, undanfarandi
-precedent n. fordæmi ([there is no ~ for this, it is without ~])
+precedent l. fyrri, undanfarandi; n. fordæmi ([there is no ~ for this, it is without ~])
 precedent book n. formálabók
 precedented l. sem dæmi eru til um
 preceding l. undanfarandi, sem er næst á undan
@@ -1970,8 +1968,7 @@ primal l. frumlegur; forn; fyrstur, fremstur, helstur
 primary l. fyrstur; helstur; upprunalegur, frumlegur, frum-; ([the ~ meaning of a word]); [~ education] barnafræðsla; [~ school] undirbúningsskóli, barnaskóli; n. aðalatriði; flugfjöður
 primate n. prímati; erkibiskup; [Primate of all England] erkibiskupinn í Kantaraborg
 prime l. fyrstur, helstur; ógætur frábær; [~ cost] innkaupsverð; [~ number] frumtala; [~ minister] forsætisráðherra; n. blómi (broddur) lífsins ([be in the ~ of life]); frumtala; fyrsti hluti dags eða árs; morgun; vor; besti hluti; [~ of the moon] nýtt tungl, ný; s. draga undirlit á (léreft undir mólverk); leggja kveikjupúður á; [he is priming himself] hann er að drekka í sig áræði
-primer n. stafrófskver; námsbók handa byrjendum
-primer n. hvellhetta
+primer n. stafrófskver; námsbók handa byrjendum; hvellhetta
 primeval l. upprunalegur; [~ forest] frumskógur
 priming n. kveikjupúður; undirlitur
 primitive l. frumstæður, upphaflegur, frumlegur, frum-; n. frumorð
@@ -2338,8 +2335,7 @@ provocative l. ögrandi, áreitinn, ertinn; áreitnisfullur; vekjandi ([~ of men
 provoke s. ögra; vekja, kveikja; egna, erta; [~d at] gramur eða reiður af e-u
 provoking l. ögrandi; sárgrætilegur, hörmulegur; ertinn
 provost n. borgarstjóri (á Skotlandi); háskólastjóri
-prow n. framstafn (á skipi)
-prow l. frækinn
+prow n. framstafn (á skipi); l. frækinn
 prowess n. karlmennska, hreysti, fræknleikur
 prowl s. reika um (eftir bráð); fara um og ræna
 prowler n. ræningi
@@ -2353,8 +2349,7 @@ prudential l. varúðar-, varfærnis-
 prudentials n. ft. varúðarreglur
 prudery n. tepruskapur; tilgerðarsiðvendni
 prudish l. teprulegur, tilgerðarlegur
-prune s. sniða (óþarfar greinar) af; strjúka slétt ([~ his feathers])
-prune n. þurrkuð plóma, sveskja
+prune s. sniða (óþarfar greinar) af; strjúka slétt ([~ his feathers]); n. þurrkuð plóma, sveskja
 pruning n. afskurður, afsniðning
 pruning knife n. sniðill
 prurience n. kláði; losti
@@ -2459,10 +2454,8 @@ pumping n. dæluaustur, dæling, pumpun
 pump rod n. dælustöng
 pumpkin n. grasker
 pun n. orðaleikur; s. viðhafa orðaleik ([I ~ned and jested])
-punch n. gatajárn; gathögg; s. kýla, slá, berja; reka; höggva göt á
-punch n. púns ([rum ~])
+punch n. gatajárn; gathögg; púns ([rum ~]); trúður í enskum skrípaleikum; s. kýla, slá, berja; reka; höggva göt á
 punch bowl n. púnsskál
-punch n. trúður í enskum skrípaleikum
 punchinello n. trúður, fífl
 punctilio n. smámunasemi, smásmygli; [~ of honour] of næm sómatilfinning
 punctilious l. smámunasamur; mjög nákvæmur

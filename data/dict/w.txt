@@ -202,12 +202,11 @@ weak l. veikur, óhraustur; linur; daufur (um drykki); ístöðulaus, þreklaus
 weaken s. veikja; þynna; veikjast
 weak-eyed l. sjóndapur
 weakhanded l. fáliðaður
-weak-headed l. gáfnasljór
+weak-headed l. gáfnasljór, daufgerður
 weakhearted l. hugdeigur
 weakling n. veiklaður maður, aumingi
 weakly l. heilsutæpur, óhraustur; ao. veiklega, dauflega
 weak-minded l. daufgerður
-weak-headed l. daufgerður
 weakness n. veikleiki; breyskleiki, brestur, þrekleysi
 weak-sighted l. þreklaus, ístöðulaus
 weak-spirited l. þreklaus, ístöðulaus
@@ -286,9 +285,8 @@ weighty l. þungur; mikilvægur, þýðingarmikill
 weir n. stíflugarður (í á); kista (í á), laxakista
 weird n. forlög; l. göldróttur; nornalegur, leyndardómsfullur, undarlegur; [the ~ sisters] örlaganornirnar
 welcome l. velkominn; [~ news] fagnaðartíðindi; [you are ~ to it] yður er það velkomið; [to make (to bid) ~] bjóða velkominn, fagna; n. fagnaðarviðtökur; s. bjóða velkominn, fagna komu e-s
-weld n. gul litunarjurt
 wold n. gul litunarjurt
-weld s. sjóða (hnita) saman (járn)
+weld s. sjóða (hnita) saman (járn); n. gul litunarjurt
 welding n. samsuða
 welfare n. velferð, hamingja, heill ([the ~ of nations])
 welkin n. himinhvelfing, himinn (í skáldskap)
@@ -348,9 +346,8 @@ whatever fn. hvað sem ([~ may happen]); [there is no doubt ~] alls enginn vafi
 whatsoever fn. hvað sem ([~ may happen]); [there is no doubt ~] alls enginn vafi
 wheal n. bóla (á hörundi)
 wheat n. hveiti
-wheatear n. hveitiax
+wheatear n. hveitiax; steindepill
 wheaten l. sem er úr hveiti; hveiti- ([~ bread])
-wheatear n. steindepill
 wheedle s. smjaðra fyrir e-m; gabba; lokka, kjassa e-n (til e-s [into]); [~ something out of a person] lokka e-ð út úr e-m
 wheel n. hjól; rokkur ([spinning ~]); stýrishjól; hvel, kringla; snúningur; bylting; [break on the ~] hjólbrjóta; s. aka (e-u); sveifla, velta; renna; snúast; hjóla
 wheelbarrow n. hjólbörur

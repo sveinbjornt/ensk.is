@@ -272,7 +272,6 @@ automation n. sjálfvirkni; sjálfvirknivæðing
 automate s. sjálfvirknivæða, gera sjálfvirkt
 automatable l. sjálfvirknivæðanlegur (sjá %[automate]%)
 bot n. (stytt. á %[robot]%) vélmenni, þjarkur
-surveillance n. eftirlit
 tweeze s. snyrta með flísatöng
 aerodrome n. flugvöllur, flugstöð
 airport n. flugvöllur, flugstöð, flughöfn
@@ -372,7 +371,6 @@ euphoric l. í sæluvímu, alsæll
 restructuring n. endurskipulagning
 restructure s. endurskipuleggja
 tugboat n. dráttarbátur
-volt n. volt (mælieining)
 Celt n. Kelti
 xenolith n. xenólít (grjóttegund)
 decanter n. karafla, borðflaska
@@ -1068,7 +1066,6 @@ hardcore n. harðkjarni; l. harðkjarna-
 ministry n. ráðuneyti; boðun trúar, fagnaðarerindis
 nearby l. nálægt, í grenndinni, nærliggjandi
 payroll n. launaskrá; launagreiðslur
-refurbish s. gera upp, lagfæra, hressa upp á
 convinced l. sannfærður; [he was ~ that ...]
 kakistocracy n. stjórn hinna verstu
 prepaid l. fyrirframgreiddur, borgaður fyrirfram
@@ -2612,7 +2609,6 @@ microstate n. örríki, smáríki
 goon n. skúrkur, hrotti, fantur, kjáni
 nightwatchman n. næturvörður
 patriarchical l. feðraveldis- (sjá %[patriarchy]%)
-varmint n. meindýr
 mangrove n. fenjaviðarskógur, strandfenjasvæði
 reliably ao. áreiðanlega
 centrifuge n. skilvinda
