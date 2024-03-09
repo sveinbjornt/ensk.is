@@ -573,6 +573,9 @@ SKIP = frozenset(
         "Jesuitic",
         "egocentrism",
         "spelunk",
+        "nerdish",
+        "reeducation",
+        "populistic",
     )
 )
 

@@ -3064,7 +3064,7 @@ microfilm n. örfilma, míkrófilma
 resourcefulness n. útsjónarsemi
 accelerant n. hraðall (e-ð sem hraðar framvindu eða breytingu)
 delusional l. haldinn hugvillu eða ranghumyndum
-inflationary l. verðbólguhvetjandi, verðbólgumyndandi
+inflationary l. verðbólguhvetjandi, verðbólgumyndandi, verðbólguvaldandi; verðbólgu-
 ahistorical l. ósögulegur
 unhistorical l. ósögulegur
 psychoactive l. geðvirkur, sem hefur áhrif á meðvitund
@@ -3872,3 +3872,40 @@ exploitative l. sem nýtir eða hagnýtir; arðrænandi, arðráns-
 markup n. álagning (á vörur); ívaf (í texta)
 supervisory l. eftirlits-
 seamless l. saumlaus
+officialdom n. skrifræði, embættismannastétt
+parallax n. hliðrun; sjónstöðumunur, sýndarhliðrun
+guardrail n. öryggisgrind, vegrið
+unfairness n. ósanngirni
+internment n. fangelsun
+reeducation n. endurmenntun
+aftershock n. eftirskjálfti
+workload n. vinnuálag
+nerdish l. narðarlegur, nördalegur
+bourgeois l. borgarastéttarlegur, borgarastéttar-; [petit ~] smáborgaralegur, smáborgara-
+bourgeoisie n. borgarastéttin, miðstéttin; [petit ~] smáborgarastéttin
+sedation n. hugarró, róun
+moratorium n. stöðvun, frestun; greiðslustöðvun, greiðslufrestun
+provocateur n. undirróðursmaður, tálbeita ([agent ~]); ögrari
+adulthood n. fullorðinsaldur, fullorðinsár
+ransomware n. gíslatökubúnaður, gíslatökuhugbúnaður; [~ attack] gagnagíslataka
+addictive l. ávanabindandi
+Gentile n. heiðingi, e-r sem er ekki Gyðingur
+ethnicity n. þjóðerni
+anomie n. upplausn siðferðisgilda, siðrof
+anomia n. nafnstol, nefnistol
+typescript n. vélritað eintak
+populism n. lýðhyggja, popúlismi; lýðskrum
+populist n. lýðhyggjumaður, popúlisti; lýðskrumari
+populistic l. lýðhyggjulegur, popúlískur; lýðskrumskenndur
+résumé n. ferilskrá
+avant-garde l. framúrstefnulegur; n. framúrstefna
+epicentre n. miðpunktur; skjálftamiðja
+epicenter n. miðpunktur; skjálftamiðja
+subspecies n. undirtegund, deilitegund
+petunia n. tóbakshorn, petúnía, sjómannstryggð (plöntutegund)
+totalitarian l. alræðis-, alræðislegur; n. alræðishyggjumaður
+totalitarianism n. alræði, alræðisstjórn
+dysphasia n. málglöp, málskortur
+extrovert l. úthverfur; n. úthverf manneskja
+alopecia n. hárleysi, hármissir, hártap
+self-realization n. sjálfsefling

@@ -754,8 +754,8 @@ epistolize s. skrifa bréf til e-s; skrifa bréf
 epitaph n. grafletur
 epithalamium n. brúðkaupskvæði, brúðkaupsljóð
 epithet n. lýsingarorð, kenninafn; s. nefna (kenninafni)
-epitome n. ágrip, útdráttur
-epitomize s. semja ágrip af; segja stuttlega frá
+epitome n. ágrip, útdráttur, meginkjarni, samantekt; fullkomið dæmi
+epitomize s. semja ágrip af; segja stuttlega frá; vera fullkomið dæmi um
 epoch n. tímaskipti; nýtt tímabil ([to make an ~])
 epode n. epóda (e.k. kvæði)
 epopee n. söguljóð
