@@ -529,7 +529,6 @@ defeatism
 morale
 unlabelled
 economically
-catastrophic
 unchallengeable
 English-speaking
 destroyer
@@ -1771,16 +1770,11 @@ manipulable
 evaluative
 naïveté
 serviceability
-self-realization
 vicariously
 unrealism
-reeducation
 self-righteousness
 intergroup
 variousness
-metonymic
-metonymical
-metonymically
 sociologism
 wellspring
 liberationist

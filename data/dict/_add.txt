@@ -1092,7 +1092,7 @@ Gaea n. sjá %[Gaia]%
 irritant n. e-ð sem ertir eða pirrar; sjá %[irritate]%
 organ donor n. líffæragjafi
 binge n. hám, ofát; ofdrykkja, fyllirí; s. háma í sig (e-ð [~ on ...]), éta yfir sig, drekka yfir sig
-periodic table n. lotukerfið
+periodic table n. lotukerfið (í efnafræði)
 coupon n. miði, afsláttarmiði
 corporate l. fyrirtækja-, félags-
 facilitator n. sá sem greiðkar fyrir einhverju, gerir eitthvað auðveldara (sjá %[facilitate]%); umræðustjóri
@@ -3895,3 +3895,9 @@ extrovert l. úthverfur; n. úthverf manneskja
 alopecia n. hárleysi, hármissir, hártap
 self-realization n. sjálfsefling
 demeaning l. niðrandi, niðurlægjandi, lítillækkandi
+catastrophic l. hrikalegur, hörmulegur, skelfilegur, hrapallegur, katastrófískur
+catastrophically ao. hrikalega, hörmulega, skelfilega, hrapallega
+metonymy n. nafnhvörf
+metonymic l. nafnhvarfa-
+metonymical l. nafnhvarfa-
+metonymically ao. nafnhvarfalega (sjá %[metonymy]%)
