@@ -295,8 +295,6 @@ conglomerate n. samsteypa; s. steypa saman
 conglomerated l. samsteyptur, samsettur
 cinema n. kvikmyndahús, bíó; kvikmyndalistin
 entertainment industry n. skemmtanabransinn, afþreyingarbransinn
-recession n. kreppa; samdráttur, afturdráttur (sjá %[recede]%)
-stereotype n. staðalímynd, staðalmynd
 stereotypical l. dæmigerður, sem fylgir staðalmynd
 sociological l. (sam)félagsfræðilegur, félagsvísindalegur
 sociologist n. (sam)félagsfræðingur
@@ -306,7 +304,6 @@ zombify s. breyta í uppvakning (sjá %[zombie]%)
 dyke n. varnargarður; niðrandi orð yfir lesbíu
 gaoler n. fangavörður
 haphazard n. tilviljunarkenndur, óskipulegur
-trooper n. (óbreyttur) hermaður, dáti
 interface n. viðmót; tenging; snertipunktur tveggja fyrirbæra
 bromance n. brómans, náið vinasamband tveggja karlmanna (samsett úr %[brother]% og %[romance]%)
 selfie n. sjálfa, sjálfsmynd, ljósmynd sem e-r tekur af sjálfum sér
@@ -463,7 +460,6 @@ stuntman n. áhættuleikari
 compiler n. e-r sem dregur saman (úr ritum); þýðandi (hugbúnaður)
 cardiovascular l. hjarta- og æða-; [~ system] hjarta- og æðakerfi
 bling n. glingur, skartgripir (óforml.)
-virginal l. meyjar-; ómengaður, tær, hreinn; n. e.k. semball
 telepath n. e-r sem er fjarskyggn
 telepathic l. fjarskyggn, fjarskynjandi
 box-office n. miðasala
@@ -2210,7 +2206,6 @@ patricidal l. föðurmorðs-, föðurmorðslegur
 webmaster n. vefstjóri, vefumsjónarmaður
 webpage n. vefsíða
 lockable l. læsanlegur (sjá %[lock]%)
-sanatorium n. heilsuhæli
 argumentative l. þrætugjarn, deilugjarn
 gunrunner n. skotvopnasmyglari
 palindrome n. samhverfa (orð sem er hægt er að lesa bæði aftur á bak og áfram)
@@ -2922,7 +2917,6 @@ pylon n. mastur; broddsúla; keila; [electrical ~] háspennumastur
 craftsmanship n. handbragð, handverk, verkkunnátta ([his ~ was impeccable])
 presupposition n. forsenda, forskilyrði
 presuppositional l. forsendubundinn
-unanswered l. ósvaraður
 Islamism n. íslömsk bókstafstrú
 psephology n. kosningafræði (tölfræðilegar rannsóknir á kosningum)
 seriously ao. alvarlega; í alvörunni
@@ -3554,7 +3548,6 @@ facetiousness n. gamansemi, spaugsemi
 teatime n. tetími
 patrilineage n. föðurætt, föðurættleggur, föðurleggur
 matrilineage n. móðurætt, móðurættleggur, móðurleggur
-freedman n. leysingi, frelsaður þræll, e-r sem hefur verið frelsaður úr ánauð
 trifecta n. þrenning, þrenna
 generalization n. alhæfing; almenn fullyrðing eða lögmál
 overgeneralization n. ofuralhæfing, alhæfing fram úr hófi
@@ -3613,7 +3606,7 @@ millenarianism n. trú á þúsundáraríki (Krists)
 chiliasm n. þúsúndáraríkistrú
 chiliast n. e-r sem trúir á þúsundáraríki (Krists)
 chiliastic l. þúsúndáraríkistrúar-, er varðar trú á þúsundáraríki (Krists)
-homogenization n. jöfnun, jafnblöndun
+homogenization n. jöfnun, jafnblöndun; það ferli að gera e-ð einsleitt
 fluorescence n. flúrljómi, flúrskin, flúrskíma, flúrgeislun
 fluorescent l. flúrljómandi, flúrlýsandi, flúrskímandi; [~ light] flúrljós
 interconnectedness n. innri tengsl, innbyrðis tengsl, samtengsl, millitengsl
@@ -3628,7 +3621,6 @@ heritability n. arfgengi
 catatonic l. stjarfur
 erogenous l. kynnæmur
 serology n. blóðvatnsfræði, sermifræði
-moratorium n. stöðvun, fresun, greiðslustöðvun
 haemorrhage n. blæðing; [brain ~] heilablæðing
 semicircle n. hálfhringur
 bacillus n. stafgerill, stafbaktería (örvera)
@@ -3674,12 +3666,10 @@ limelight n. sviðsljós
 unspoken l. ósagður; [he left it ~] hann lét það ósagt
 charisma n. persónutöfrar, þokki, sjarmi
 charismatic l. heillandi, sjarmerandi, býr yfir persónutöfrum
-middle-class n. millistétt; l. millistéttar-, millistéttarlegur
 tired-looking l. þreytulegur í ásýnd
 lifestyle n. lífsstíll, lífsháttur, líferni
 guesstimate s. (óforml.) meta eða áætla byggt á ágískunum einum saman (sjá %[guess]% og %[estimate]%); n. mat byggt á ágískunum
 self-sufficiency n. sjálfsnægt, nægjusemi; sjálfsþurftarbúskapur
-self-sufficient l. sjálfum sér nægur, nægjusamur
 ethnonym n. þjóðaheiti
 retronym n. afturvirkt orð eða nafn
 acronym n. skammnefni, skammstöfunarorð, skammyrði, upphafsstafanafn
@@ -3725,9 +3715,6 @@ metastasize s. meinvarpast
 metastasized l. meinvarpað
 atropine n. atrópín
 biome n. lífbelti
-hydrology n. vatnafræði
-hydrologist n. vatnafræðingur
-hydrological l. vatnafræðilegur
 containerize s. gámavæða
 containerization n. gámavæðing
 interconnectivity n. samtengjanleiki, samtengsl
@@ -3736,7 +3723,6 @@ vulcanization n. gúmmísuða
 incommensurability n. ósammælanleiki, ósambærileiki
 galvanization n. sinkhúðun, galvanhúðun
 sclerosis n. herðing eða hersli í vef eða líffæri
-somatic l. líkamlegur, líkams-, sem á við líkamann
 psychosomatic l. geðvefrænn
 parametric l. stikaður, stikabundinn
 bureaucratic l. skrifræðislegur, skrifræðis-; [~ nonsense]
@@ -3802,7 +3788,6 @@ homology n. samsvörun; eðlislíking
 homogenous l. samsvarandi, af sameiginlegum uppruna
 homogeny n. samsvörun, sameiginlegur uppruni
 homogenize s. gera einsleitan; jafna
-homogenization n. jöfnun, að gera einsleitan
 homogenate n. einsleitt efni
 mesa n. stapi, hæð eða fjall með flötum toppi
 nightshade n. náttskuggajurt; laukaskuggi; kvöldskuggi
@@ -3909,3 +3894,4 @@ dysphasia n. málglöp, málskortur
 extrovert l. úthverfur; n. úthverf manneskja
 alopecia n. hárleysi, hármissir, hártap
 self-realization n. sjálfsefling
+demeaning l. niðrandi, niðurlægjandi, lítillækkandi

@@ -319,7 +319,7 @@ receptive l. sem getur tekið á móti ([of]), móttækilegur
 receptivity n. móttækileiki
 receptor n. heyrnartól á talsíma
 recess n. burthvarf; starfshlé; þinghlé; skot (inn í vegg); afvik; afvikinn staður; afkimi; [Christmas ~ of a school] jólaleyfi; s. setja á afvikinn stað; gera hvilft í
-recession n. fráhvarf, burtför, fjarlæging, hvarf
+recession n. fráhvarf, burtför, fjarlæging, hvarf; kreppa; samdráttur, afturdráttur (sjá %[recede]%)
 recessional l. [~ hymn] útgöngusálmur
 recharge s. kæra aftur; ráðast á aftur; hlaða (fylla) aftur
 recipe n. uppskrift; læknisávísun, lyfseðill
@@ -360,9 +360,8 @@ recommend s. mæla með; lofa, hrósa; ráða til; [~ oneself (one's soul) to Go
 recommendable l. meðmælingarverður, lofsverður
 recommendation n. meðmæli meðmæling
 recommendatory l. meðmælingar-, meðmæla- ([~ letter]); meðmælandi
-recompose s. setja aftur (í varðhald); vísa (frumvarpi) aftur til nefndar; drýgja aftur
+recompose s. setja aftur saman; stilla aftur ([~ the mind]); setja aftur (í varðhald); vísa (frumvarpi) aftur til nefndar; drýgja aftur
 recompense s. umbuna. launa, endurgjalda, bæta (e-m e-ð) upp; n. laun, umbun, endurgjald; uppbót ([~ for damages])
-recompose s. setja aftur saman; stilla aftur ([~ the mind])
 reconcilable l. sáttfús; samþýðilegur
 reconcile s. sætta; koma (e-u) í samræmi (við [with]); [~ oneself to] sætta sig við, láta sér lynda
 reconcilement n. sátt, sætt; samræmi; samrýming
@@ -549,8 +548,7 @@ refraction n. geislabrot
 refractive l. geislabrjótandi, geislabrots- ([~ power])
 refractor n. stjörnukíkir
 refractory l. þrjóskur, þrár; erfiður viðfangs; torbræddur (um málma)
-refrain s. halda í skefjum, hafa taum á, stilla; [~ from] stilla sig um, forðast; [~ from tears (from weeping)] geta tára bundist
-refrain n. viðkvæði, stef
+refrain s. halda í skefjum, hafa taum á, stilla; [~ from] stilla sig um, forðast; [~ from tears (from weeping)] geta tára bundist; n. viðkvæði, stef
 reframe s. endurmynda, endursemja
 refrangible l. brjótanlegur ([~ rays])
 refresh s. hressa; endurnýja; [~ one's memory as to] rifja e-ð upp fyrir sér
@@ -730,8 +728,7 @@ reminder n. áminnari; áminning
 reminiscence n. endurminning; minni
 reminiscent l. sem minnir (á [of]); minnugur (e-s [of]); n. sögumaður
 reminiscential l. endurminningar-; minnis-
-remise n. vagnaskúr; vandaður leiguvagn
-remise s. gefa upp; afstanda (e-ð við e-n); n. uppgjöf (t.d. á réttarkröfu), framsal
+remise n. vagnaskúr; vandaður leiguvagn; uppgjöf (t.d. á réttarkröfu), framsal; s. gefa upp; afstanda (e-ð við e-n)
 remiss l. daufur; skeytingarlaus, afskiptalaus
 remissible l. fyrirgefanlegur
 remission n. eftirgjöf; uppgjöf; hlé (á sjúkdómi); sending (peninga); fyrirgefning
@@ -1226,8 +1223,7 @@ riding-habit n. reiðföt (kvenna)
 rife l. algengur, almennur, tíður; auðugur (af e-u [of]); birgur (að e-u [with])
 rifeness n. tíðleiki
 riffraff n. sorp; úrkast
-rifle s. gera skorur (í hlaup á byssu); n. kúlubyssa, riffill
-rifle s. ræna, stela (frá e-m)
+rifle n. riffill; s. gera skorur (í hlaup á byssu); s. ræna, stela (frá e-m)
 rifler n. þjófur, ræningi
 rift n. rifa, sprunga; gjá; s. rifa, kljúfa; rifna, klofna
 rig s. útbúa; setja reiða á (skip); n. reiðasetning; útbúnaður ([~ out])
@@ -1257,9 +1253,8 @@ rigour n. stirðleiki; strangleiki ([with the utmost ~ of the law]); harka (einn
 rill n. lækjarspræna, lækjarsitra; s. renna (um læk); niða
 rillet n. lækjarsitra, lítill lækur
 rim n. rönd, barmur; umgjörð, hjólhringur; s. umlykja; setja hring um e-ð
-rime n. hrím, héla; s. hríma, héla
+rime n. hrím, héla; rím, hending; s. hríma, héla
 rimy l. hélaður, hélugur, hrímfrosinn
-rime n. rím, hending
 rimer n. rímari
 rimester n. rímari
 rimose l. með sprungum

@@ -27,9 +27,8 @@ pad n. (reið)þófi; hnakkdýna; löpp; s. troða (utan um)
 padding n. ítroð (bómull, flóki, hár); uppfylling, léttmeti (í tímaritum)
 paddle s. busla (í vatni með höndum og fótum), ösla; róa (með tvíblaðaðri ár); þukla um ([on, with]); vappa; n. breiðblöðuð ár; spaði í hjóli á gufuskipi eða vatnsmylnu; [double ~] tvíblöðuð ár
 paddleboat n. hjólskip
-paddock n. froskur
 paddockstool n. gorkúla; sjá %[toadstool]%
-paddock n. umgirtur grasvöllur
+paddock n. umgirtur grasvöllur; froskur
 padlock n. hengilás; s. læsa með hengilás
 padnag n. skeiðhestur
 paean n. lofsöngur (til Apollós)
@@ -164,7 +163,7 @@ pap n. geirvarta; konubrjóst; barnamatur
 papa n. pabbi
 papacy n. páfadómur; páfatign
 papal l. páfalegur
-papism n. páfatrú
+papism n. páfatrú; páfadómur
 papist n. páfatrúarmaður
 paparchy n. páfaveldi
 papaverous l. líkur (skyldur) valmúa (melasól)
@@ -174,7 +173,6 @@ paper currency n. bréfpeningar
 paper hangings n. ft. veggjabréf
 paperman n. pappírssali
 papilionaceous l. fiðrildislegur
-papism n. páfadómur; páfatrú
 papistical l. pápiskur
 papistry n. pápiska
 papyrus n. papírus; pappírssef; sefpappír
@@ -520,9 +518,8 @@ pellicular l. himnu-
 pell-mell ao. hvað innan um annað, á rúi og stúi, á ringulreið
 pellucid l. gagnsær, tær
 pellucidity n. gagnsæi
-pelt n. loðskinn, feldur; rökuð gæra
+pelt n. loðskinn, feldur; rökuð gæra; s. kasta (e-u); kasta í; þjóta; ráðast á e-n (með skömmum); [it ~s with rain] það rignir ákaft
 peltry n. loðskinnavara
-pelt s. kasta (e-u); kasta í; þjóta; ráðast á e-n (með skömmum); [it ~s with rain] það rignir ákaft
 peltate l. skjaldmyndaður
 pelvis n. mjaðmagrind
 pemmican n. þurrkað og smámulið kjöt til langferða; e.k. kæfa
@@ -543,7 +540,6 @@ pending l. óvís, vafasamur, yfirstandandi ([a treaty was then ~] stóð þá y
 pendulate s. dingla, sveiflast til og frá
 pendulous l. hangandi; rambandi
 pendulum n. dingull, órói (í klukku)
-pendulous l. hangandi
 penetrable l. gagnfærilegur; móttækilegur (fyrir áhrif)
 penetralia n. ft. innsti hluti í hofi eða musteri; afkimi
 penetrant l. sem þrengir sér inn eða í gegn; skarpskyggn
@@ -653,9 +649,8 @@ perform s. fullgera, leiða til lykta, framkvæma; sýna (á leiksviði); koma f
 performable l. framkvæmilegur; gjörlegur, gjörandi
 performance n. framkvæmd; verk; rit; leiksýning, íþróttasýning ([there are two ~s a day]); íþrótt
 performer n. framkvæmdarmaður; leikandi, leikari
-perfume n. ilmur; ilmefni
-perfume s. gera ilmandi
-perfumer n. ilmefnasali
+perfume n. ilmvatn, ilmefni; ilmur; s. gera ilmandi
+perfumer n. ilmvatnssali, ilmefnasali
 perfumery n. ilmefni; ilmefnagerð
 perfunctoriness n. hirðuleysi, hroðvirkni, slóðaskapur
 perfunctory l. slóðalegur, hirðulaus, hroðvirknislegur
@@ -1185,8 +1180,7 @@ platitudinous l. bragðlaus; daufur, grunnhyggnislegur
 Platonic l. platónskur (eftir heimspekingnum Platón); [~ love] andleg (fýsnarlaus) ást
 Platonism n. platónismi (heimspekikenning Platóns)
 platoon n. lítill fótgönguliðsflokkur; hópur; skothríð
-platter n. grunnt trog
-platter n. fléttari
+platter n. grunnt trog; fléttari
 plaudit n. lófaklapp
 plausibility n. sennileiki, líkindi; laðandi viðmót
 plausible l. álitlegur, sennilegur; laðandi í viðmóti
@@ -1677,8 +1671,7 @@ pravity n. spilling
 prawn n. rækja; marþvari (æt krabbategund)
 praxis n. venja
 pray s. biðja (e-n); biðja um e-ð ([~ for]); biðjast fyrir; [~ for one] biðja fyrir e-m; [~ to God] biðja guð; [pray, tell me] gerið svo vel að segja mér
-prayer n. biðjandi maður
-prayer n. bæn; [put up (offer) ~s to] senda upp bænir til; [say one's ~s] lesa bænir sínar
+prayer n. bæn; [put up (offer) ~s to] senda upp bænir til; [say one's ~s] lesa bænir sínar; biðjandi maður
 prayer book n. bænabók
 prayerful l. bænrækinn; bænar- ([with ~ eyes])
 prayer meeting n. bænasamkoma
@@ -1732,8 +1725,7 @@ precognition n. undanfarandi þekking; undanfarandi vitnarannsókn
 precocity n. bráðþroski
 preconceive s. hugsa sér áður; [~d opinion] hleypidómur
 preconception n. forhugsun; hleypidómur
-preconcert s. koma sér saman um e-ð fyrirfram
-preconcert n. undanfarið samkomulag
+preconcert s. koma sér saman um e-ð fyrirfram; n. undanfarið samkomulag
 preconize s. lofa, hrósa opinberlega; kalla fram með nafni; (um páfa) samþykkja opinberlega biskupskjör
 precursive l. undanfarandi, boðandi ([~ of])
 precursor n. undanfari; fyrirrennari; fyrirboði

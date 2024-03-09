@@ -897,10 +897,9 @@ boon n. blessun; hagnaður; l. kátur ([a ~ companion])
 boor n. bóndi; búri; leiðinlegur eða frumstæður náungi
 boorish l. ruddalegur, búralegur ([~ fellow, ~ manners])
 boot n. stígvél; s. gagna ([it ~s not]); n. gagn; [to ~] að auki
-bootless l. gagnslaus
+bootless l. gagnslaus; stígvélalaus
 booted l. stígvélaður
 bootjack n. stígvélaklauf
-bootless l. stígvélalaus
 bootmaker n. skósmiður
 booth n. búð
 boots n. vikapiltur í hóteli (burstar stígvél, fer sendiferðir o.fl.)

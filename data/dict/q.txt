@@ -1,5 +1,4 @@
-quack s. gagga (um endur og froska), garga; n. gagg, garg
-quack s. gorta, grobba; viðhafa skottulækningar; káka við (e-ð); skemma með káki; auglýsa með skrumi; n. skottulæknir ([~ doctor]); skrumari; [~ medicine] kynjalyf
+quack s. gagga (um endur og froska), garga; gorta, grobba; viðhafa skottulækningar; káka við (e-ð); skemma með káki; auglýsa með skrumi; n. skottulæknir ([~ doctor]); skrumari; [~ medicine] kynjalyf, skottulyf
 quackery n. skottulækningar; skrum
 quackish l. skrummikill; skottulæknislegur
 quacksalver n. skottulæknir
@@ -23,8 +22,7 @@ quaff s. teiga, sloka (belgja) í sig; [~ off] drekka í einum teig
 quag n. dúandi mýri, fen
 quaggy l. dúandi (um mýri); hvapkenndur
 quagmire n. fen, kviksyndi; ófæra
-quail s. guggna, láta hugfallast; láta e-n guggna
-quail n. kornhæna
+quail n. kornhæna; s. guggna, láta hugfallast; láta e-n guggna
 quaint l. einkennilegur, skringilegur, forntískulegur ([~ articles of furniture])
 quake s. skjálfa; dúa; [~ for fear] skjálfa af hræðslu; n. skjálfti, hristingur; jarðskjálftakippur
 quaker n. kvekari
@@ -47,9 +45,8 @@ quarrel n. þræta, deila; missætti; kæruefni, kæra; skeyti eða kólfur á l
 quarreller n. þrætugjarn maður
 quarrelsome l. þrætugjarn
 quarrier n. steinbrotsmaður, grjótnemi
-quarry n. steintak, grjótnáma; s. ná (grjóti) úr grjótnámu, brjóta upp grjót ([~ marble])
+quarry n. steintak, grjótnáma; veiðidýr (elt af fálkum eða veiðihundum); herfang; s. ná (grjóti) úr grjótnámu, brjóta upp grjót ([~ marble])
 quarryman n. steinbrotsmaður, grjótnemi
-quarry n. veiðidýr (elt af fálkum eða veiðihundum); herfang
 quart n. fjórðungur úr gallon eða rúmur lítri; lítramál
 quartan l. sem kemur fjórða hvern dag ([a ~ fever])
 quarter n. fjórði hluti, fjórðungur; stundarfjórðungur, kortér ([~ of an hour]); ársfjórðungur ([~ of the year]); vættarfjórðungur; kvartil (tungls); borgarhluti ([the Jewish ~]); hælleður á skó; kornmál; átt ([what ~ is the wind in] á hvaða átt er hann?); staður ([he had it from a good ~]); grið ([give, receive ~]); [in this ~] hér um slóðir; hérlendis; ft. bústaður; [close ~s] návígi; [beat to ~s] (á herskipi) kalla hermenn saman hvern á sinn stað; [take up one's ~s] setjast í; [from all ~s] úr öllum áttum; [in high ~s] á æðri stöðum

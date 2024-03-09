@@ -326,7 +326,6 @@ cartoon n. teiknimynd; skrípateikning; fyrirmyndaruppdráttur (á sterkum papp�
 cartoonist n. teiknimyndahöfundur; skrípateiknari
 cartridge n. púðurstikill, patróna, skothylki
 cartulary n. skjalabók, máldagabók
-chartulary n. skjalabók, máldagabók
 carve s. skera (höggva) út (myndir); skera niður (kjöt yfir borðum); [~ a way, a passage] höggva (ryðja) braut
 carver n. myndskeri
 carving n. myndskurður; útskornar myndir ([~s in wood])
@@ -340,8 +339,7 @@ casern n. hermannaskáli
 cash n. reiðufé, reiðupeningar; [be out (short) of ~] vera peningalaus; s. láta eða fá peninga fyrir (bankaseðil, víxil, ávísun), taka peninga út á (ávísun)
 cashbook n. gjaldabók, kassabók
 cashkeeper n. gjaldkeri
-cashier n. gjaldkeri
-cashier s. reka úr foringjastöðu ([all the officers were ~ed]); hafna
+cashier n. gjaldkeri; s. reka úr foringjastöðu ([all the officers were ~ed]); hafna
 cashmere n. kasmírvefnaður; kasmírsjal ([~ shawl])
 casing n. hylki, umbúðir, umgjörð ([iron ~])
 casino n. spilavíti; skemmtihús; samkomuhús; sönghús
@@ -1001,10 +999,9 @@ clawhammer n. klaufhamar
 clay n. leir, leirjörð; s. hreinsa með leiri; blanda (sendna jörð) leiri
 clayey l. leirkynjaður, leirborinn, leirugur, leir-
 clean l. hreinn; hreinlegur, þrifinn ([~ servant]); tær; skír; ao. alveg ([~ mad, wrong]); s. hreinsa; fága, bursta ([~ the boots])
-cleanly ao. hreinlega
+cleanly ao. hreinlega; l. hreinlátur, þrifinn
 cleanness n. hreinleiki
 cleanliness n. hreinlæti, þrifnaður
-cleanly l. hreinlátur, þrifinn
 cleanse s. hreinsa
 cleanser n. hreinsari
 cleansing n. hreinsun
@@ -1376,8 +1373,7 @@ coltish l. óstýrilátur
 coltsfoot n. hóffífill
 columbary n. dúfnahús
 column n. súla ([~ of water]); dálkur (í blaði); herfylking
-columnar l. súlumyndaður; prentaður í dálkum
-columnar n. basalt stuðlaberg
+columnar l. súlumyndaður; prentaður í dálkum; n. basalt stuðlaberg
 coma n. svefnsýki; fræloðna
 comatose l. svefnsjúkur
 comb n. kambur; hárgreiða; hanakambur; öldukambur; vaxkaka í býflugnabúi; [cut the ~ of] lægja rostann í e-m; s. kemba; greiða
@@ -1892,14 +1888,13 @@ consistory n. kardinálaráð; kardinálasamkoma; kirkjuráð
 consociate s. sameina
 consociation n. sameining, samfélag
 consolation n. huggun
-consonant l. samhljóða; n. samhljóði
 consolatory l. huggandi, huggunarríkur; huggunar-
 console s. hugga, hughreysta
 consolidate s. herða, þétta, festa, styrkja; sameina í eitt; storkna, harðna; sameinast
 consolidation n. þétting; styrking; sameining; storknun
 consols n. ft. ensk ríkisskuldabréf ([Consolidated Annuities])
 consonance n. samræmi, samhljóðan
-consonant l. samkvæmur, samhljóða ([with, to]); n. samhljóðandi
+consonant l. samkvæmur, samhljóða ([with, to]); n. samhljóði, samhljóðandi
 consort n. hjúskaparfélagi, eiginmaður, eiginkona; samferðaskip; s. samtengja; koma saman; hafa mök (við [with])
 conspectus n. yfirlit
 conspicuous l. auðkennilegur; auðséður; alkunnur; frægur; áberandi ([~ by its absence])
@@ -2641,7 +2636,6 @@ cuirassier n. brynjaður riddari
 cuisine n. eldhús; matreiðsla, eldamennska
 culinary l. sem lýtur að eldhúsi eða matartilbúningi
 cull s. velja, tína ([~ flowers])
-cullender n. sjá %[colander]%
 cully n. heimskingi
 culm n. kolasalli; smíðakol; grasstrá, hálmstrá, hálmur
 culminate s. komast á hæsta stig; standa hæst á lofti (um stjörnur)

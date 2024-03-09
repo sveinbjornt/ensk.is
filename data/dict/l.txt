@@ -387,9 +387,8 @@ legality n. lögmæti
 legalize s. lögleiða, löggilda, löghelga
 legally ao. löglega, að lögum
 legatary n. arfþegi, arftakandi
-legate n. sendiherra (páfa)
+legate n. sendiherra (páfa); s. arfleiða e-n að e-u, ánafna e-m e-ð
 legateship n. sendiherratign
-legate s. arfleiða e-n að e-u, ánafna e-m e-ð
 legatee n. arfþegi, arftakandi
 legator n. arfleifandi
 legation n. sending, einkum fulltrúa páfa; sendiför; sendiherrasveit; bústaður sendiherra

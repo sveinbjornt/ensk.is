@@ -165,8 +165,7 @@ tatterdemalion n. mannræfill
 tattle s. masa, þvaðra; bera sögur; n. söguburður, fleipur
 tattler n. masari, fleiprari,
 tattling l. lausmáll
-tattoo n. bumbusláttur að kvöldi dags, til merkis um að liðsmenn eigi að fara til herbergja sinna; s. berja ótt og títt
-tattoo s. húðflúra, þ.e.a.s. stinga hörundið og bera lit í, rispa myndir á (hörund); n. húðflúr
+tattoo s. húðflúra, þ.e.a.s. stinga hörundið og bera lit í, rispa myndir á (hörund); berja ótt og títt; n. húðflúr; bumbusláttur að kvöldi dags, til merkis um að liðsmenn eigi að fara til herbergja sinna
 taunt s. smána, ámæla harðlega; brigsla (um e-ð [with]); n. hæðiyrði, brigsl
 taunt l. hár (um mastur)
 taut l. hertur (um streng); þaninn; strangur
@@ -295,8 +294,7 @@ tenet n. kenning; trúarsetning ([the ~s of the church])
 tenfold l. tífaldur
 tennis n. tennis (e.k. knattleikur)
 tenor n. millirödd (í söng); stefna, hugsunarstefna; hugsun; efni ([the ~ of a discourse])
-tense n. tíð í málfræði t.d. [the present ~]
-tense l. þaninn, hertur, spenntur; upptrekktur, órólegur
+tense l. þaninn, hertur, spenntur; upptrekktur, órólegur; n. tíð í málfræði (t.d. [the present ~] nútíð)
 tension n. spenna, óróleiki; þensla, þensluafl; áreynsla; fáleikar
 tent n. tjald; líntæja sem látin er ofan í sár til að halda því opnu; s. búa í tjaldi (tjöldun); halda sári opnu með líntæjum
 tented l. þakinn tjöldum
@@ -335,8 +333,7 @@ terrene l. jarðlegur, jarðar-; jarðneskur; [~ animal] landdýr; n. jarðarbú
 terrestrial l. jarðlegur, jarðar-; jarðneskur; [~ animal] landdýr; n. jarðarbúi
 terrible l. hræðilegur, ógurlegur
 terribly ao. hræðilega
-terrier n. hundategund
-terrier n. jarðamatsbók
+terrier n. hundategund; jarðamatsbók
 terrific l. hryllilegur, hræðilegur, óttalegur (forn.); frábær
 terrify s. hrylla, hræða, skelfa
 territorial l. landeignarlegur, jarðeigandi ([~ aristocracy]); héraðslegur; landhelgis-; [within the ~ waters] í landhelgi
@@ -650,9 +647,7 @@ till n. peningaskúffa (í búðarborði)
 till s. yrkja; plægja
 tillable l. yrkilegur, ræktanlegur
 tillage n. yrking, ræktun, jarðrækt
-tiller n. jarðyrkjumaður, bóndi
-tiller n. stýrissveif, stjórnvölur
-tiller n. lítil peningaskúffa
+tiller n. jarðyrkjumaður, bóndi; stýrissveif, stjórnvölur; lítil peningaskúffa
 tillie-vallie n. þvættingur
 tilt n. regntjald (yfir bát eða vagni); s. tjalda yfir
 tilt n. spjótlag; burtreið; skæra, orðasenna; [come (ride) full ~ against them] koma þjótandi á móti þeim; s. fara í burtreið; berjast; þjóta af stað; leggja, stinga; kasta, henda; steypa (e-u úr vagni)
@@ -793,7 +788,6 @@ tongs n. ft. tangir, eldtangir
 tongue n. tunga; tungumál; oddi, tangi; þorn í hringju; kólfur (í klukku); mundang ([~ of a balance]); [to hold one's ~] þegja; [he has a well oiled ~] honum er hægt um mál; s. skamma, lasta; þvaðra; beita tungunni (við hljóðfæri); reka út úr sér tunguna; plægja (borð)
 tongue-tied l. mállaus, orðlaus, hljóður
 tonguy l. málliðugur, málugur, munnhvatur
-tonight ao. í nótt; í kvöld
 tonic l. (tauga)styrkjandi, hressandi; n. hressingarlyf
 tonnage n. rúmmál skips (í tonnum); gjald (af tonnum)
 tonsil n. hálskirtill
@@ -969,8 +963,7 @@ traitorism n. svikráð
 traitorous l. sviksamlegur
 traitorously ao. sviksamlega
 traitress n. svikari (um kvenmann)
-traject s. hleypa (e-u) í gegn
-traject n. ferjustaður; yfirför
+traject s. hleypa (e-u) í gegn; n. ferjustaður; yfirför
 trajection n. flutningur
 trajectory n. hnattbraut, kúlubraut
 tram n. kjálki á handbörum (vagni); kolavagn í námum; vagnspor
@@ -1240,7 +1233,7 @@ trombone n. trombóna (e.k. lúður)
 tromp n. blásturvél (við bræðsluofna)
 trompe n. blásturvél (við bræðsluofna)
 troop n. flokkur, hópur ([~ of children, ~ of soldiers]); riddaraflokkur ([~ of horse]); ft. liðsafli, lið; s. hópast, safnasthafa mök við ([with]); fara, halda (~ home, off, away); ganga í röð; koma (fara) í hópum; hafa mök við ([with]); fara, halda ([~ home, off, away]); ganga í röð; koma (fara) í hópum
-trooper n. riddari; riddarahestur
+trooper n. (óbreyttur) hermaður, dáti, liðsmaður, riddari; [storm ~] stormsveitarmaður
 trope n. óeiginlegt orðtæki
 trophied l. skreyttur sigurmerkjum
 trophy n. sigurmerki

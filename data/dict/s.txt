@@ -620,7 +620,7 @@ self-reliance n. sjálfstraust
 self-rule n. sjálfstjórn
 self-same l. alveg sami
 self-seeking l. eigingjarn; n. eigingirni
-self-sufficient l. sjálfbirgingslegur; sjálfum sér nógur; þóttafullur
+self-sufficient l. sjálfum sér nægur, sjálfbirgingslegur; þóttafullur
 self-will n. einþykkni, óráðþægni
 self-willed l. einþykkur, óráðþægur
 sell s. selja; seljast, ganga út; [~ a person up] (láta) selja eignir (skuldunauts) á uppboði; [~ off] selja upp (allar vörurnar)
@@ -854,9 +854,8 @@ sheath n. slíður, skeiðar
 sheathe s. sliðra, láta í skeiðar; klæða (skip) málmþynnum
 sheathing n. (málm)-þynnur utan á skipsskrokk
 sheave n. tríssuhjól
-shed s. hella út (blóði, tárum); fella (blöð, fjaðrir, tennur, horn); [the serpents ~ their skin] hleypa hömum; [a covering of oiled cloth ~s water] vatnið hrín ekki á, hripar af olíudúk; n. úthelling (sbr. %[bloodshed]%); vatnaskil, vörp (sbr. %[watershed]%)
+shed s. hella út (blóði, tárum); fella (blöð, fjaðrir, tennur, horn); [the serpents ~ their skin] hleypa hömum; [a covering of oiled cloth ~s water] vatnið hrín ekki á, hripar af olíudúk; n. byrgi, skýli; kofi; úthelling (sbr. %[bloodshed]%); vatnaskil, vörp (sbr. %[watershed]%)
 shedder n. úthellari
-shed n. byrgi, skýli; kofi
 sheen n. skin, bjarmi
 sheep n. kind, sauðkind, rolla; sauðfé
 sheepcot n. fjárbyrgi
@@ -946,10 +945,8 @@ shirt n. karlmannsskyrta; [~ of mail] hringabrynja; [near is my ~ but nearer is 
 shirtfront n. brjóst (í skyrtu)
 shirting n. skyrtuefni, skyrtuléreft
 shirtsleeve n. skyrtuermi; [in one's ~s] snöggklæddur, á skyrtunni
-shiver n. flís; moli; [to break into ~s] mölbrjóta; s. mölbrjóta; mölbrotna
-shivery l. stökkur, brothættur ([~ glass])
-shiver s. skjálfa (af kulda); kenna hrolls; n. skjálfti; hrollur
-shivery l. skjálfandi, skjálfta-; kulvís
+shiver s. skjálfa (af kulda); kenna hrolls; mölbrjóta; mölbrotna; n. skjálfti; hrollur; flís; moli; [to break into ~s] mölbrjóta
+shivery l. skjálfandi, skjálfta-; kulvís; stökkur, brothættur ([~ glass])
 shoal n. mergð; torfa ([a ~ of fish]); sandrif, grynning; l. grunnur; s. flokkast saman, vera í hópum; grynnast, verða grunnur ([the water ~s]); [we are ~ing our water rapidly] vatnið grynnist óðum
 shoaliness n. grunnleiki
 shoaly l. grunnur, fullur af grynningum
@@ -974,10 +971,9 @@ shoplifter n. búðarþjófur, búðarhnuplari
 shoplifting n. búðarþjófnaður, búðarhnupl
 shopman n. búðarmaður
 shoppy l. búðarlegur, mangaralegur; með mörgum búðum
-shore n. strönd; land; árbakki
+shore n. strönd; land; árbakki; skorða; s. skorða ([~ up a building])
 shore leave n. landgönguleyfi
 shoreless l. strandlaus; ómælanlegur, takmarkalaus
-shore n. skorða; s. skorða ([~ up a building])
 shoring n. skorðun; skorður
 shorn l. af %[shear]%; [~ of] sviptur ([a prince ~ of his honours])
 short l. stuttur, skammur; lágur (vexti, [~ of stature]); stuttorður; (of) naumur, tæpur, lakur (um mál og vigt); ónógur; sem molnar auðveldlega; [a ~ sea] krappur sjór; [in ~] í stuttu máli; [~ of breath] andstuttur; [to be ~ of money] skorta fé; [his escape was nothing ~ of a miracle] undankoma hans gekk kraftaverki næst; [to cut ~] grípa fram í fyrir; [to fall ~] vera ónógur; þrjóta; [I fall ~ of] mig þrýtur (e-ð); [to run ~ of] fara að vanta ([to run ~ of provisions]); [to stop ~] staðnæmast snögglega; [to turn ~] snúa sér snögglega
@@ -1037,10 +1033,9 @@ shriven l. skriftaður; sjá %[shrive]%
 shroud n. hjúpur; líkklæði; reiði (á skipi); s. hylja, hjúpa ([~ed in mystery]); klæða í líkklæði
 Shrovetide n. föstuinngangur
 Shrove Tuesday n. þriðjudagur í föstuinngang; sprengikvöld
-shrub n. runnur
+shrub n. runni; kjarr; e.k. áfengisblanda
 shrubbery n. hrískjarr
 shrubby l. vaxinn hrískjarri
-shrub n. e.k. áfengisblanda
 shrug s. yppta öxlum ([~ one's shoulders]); n. axlayppting
 shudder s. skjálfa af kulda eða hræðslu; n. hrollur
 shuffle s. hrinda fram og aftur; blanda (rugla) saman; stokka (spil); beita brögðum; hafa undanbrögð eða vífilengjur; draga fæturna á gólfinu; [~ off] losast við; hrinda af sér; [~ in] troða sér inn; [~ it into his pocket] lauma því í vasa hans; n. stokkun; ruglingur; brögð, undanbrögð
@@ -1334,9 +1329,8 @@ slaughterhouse n. slátrarabúð
 slaughterous l. mannskæður
 Slav n. slavneskur maður, Slavi; l. slavneskur
 slave n. þræll, ambátt; s. þrælka
-slaver n. þrælaskip; þrælakaupmaður
+slaver n. þrælaskip; þrælakaupmaður; s. slefa; slefa á e-ð
 slavery n. þrældómur, þrælkun, ánauð; l. slefukenndur
-slaver n. slefa; s. slefa; slefa á e-ð
 slaverer n. slefari
 slave trade n. þrælaverslun
 Slavic l. slavneskur
@@ -1450,8 +1444,7 @@ sluttery n. sóðaskapur
 sluttish l. sóðalegur
 sly l. slægur; kænn; [on the ~] í laumi
 slyness n. slægð
-smack s. smella (með vörunum eða svipu); kyssa (með smelli); smjatta; hafa bragð eða keim (af [of]); n. smellur; smellkoss; bragð, keimur (af e-u)
-smack n. fiskiskúta
+smack s. smella (með vörunum eða svipu); kyssa (með smelli); smjatta; hafa bragð eða keim (af [of]); n. smellur; smellkoss; bragð, keimur (af e-u); fiskiskúta
 smacking l. [~ breeze] blásandi byr
 small l. smár, lítill; lítilförlegur; lítilmannlegur ([I call it ~ of him]); [the ~ cards] lágspilin; [a ~ matter] smámunir; [in (the) ~] í smáu; [to feel ~] fyrirverða sig; [~ beer] þunnt öl; n. mjór (eða þunnur) hluti; ft. stuttbuxur; [the ~ of the back] spjaldhryggur, mjóhryggur; [the ~ of the leg] mjóaleggur
 small arms n. ft. handskotvopn (byssur, skammbyssur)
@@ -1683,7 +1676,7 @@ solvable l. uppleysanlegur; ráðanlegur; borganlegur
 solve s. leysa úr ([~ a difficulty, ~ a question]); ráða (gátu)
 solvency n. gjaldhæfi, gjaldfærleiki
 solvent l. uppleysandi; gjaldhæfur, gjaldfær
-somatic l. líkamlegur
+somatic l. líkamlegur, líkams-, sem á við líkamann
 sombre l. dimmur, myrkur; þungbúinn
 sombreness n. þunglyndi
 sombrous l. dimmur, myrkur; þungbúinn
@@ -2121,9 +2114,8 @@ squirt s. láta buna; n. lítil sprauta (dæla); vatnsbuna
 stab s. stinga ([~ an eel]); reka í gegn, leggja; niðra (e-u) á laun; [~ at one] leggja (vopni) til e-s; n. stunga, lag (með spjóti); leynileg niðrun, rógur ([~ in the back])
 stabber n. morðingi, flugumaður
 stability n. stöðugleiki
-stable l. fastur, stöðugur; staðgóður
 stableness n. stöðugleiki, staðfesta
-stable n. hesthús, fjós, peningshús; s. setja (hest) inn í hesthús; setja (skepnur) á gjöf; vera í fjósi
+stable l. fastur, stöðugur; staðgóður; n. hesthús, fjós, peningshús; s. setja (hest) inn í hesthús; setja (skepnur) á gjöf; vera í fjósi
 stableboy n. fjósadrengur
 stabling n. hýsing; peningshús, hesthús
 stack n. stór (uppmjór) stakkur (af heyi, korni, hálmi); hár reykháfur; s. stakka, hlaða upp
@@ -2317,7 +2309,7 @@ stepper n. brokkhestur, brokkari
 stepping stone n. steinn til að stikla á yfir bleytu eða læk, stilla
 stereometry n. þykkvamálsfræði
 stereoscope n. myndsjá (e.k. sjónpípa)
-stereotype n. fastaletur; s. prenta með fastaletri
+stereotype n. staðalímynd, staðalmynd; fastaletur; s. gera að staðalímynd; prenta með fastaletri
 stereotyped l. prentaður með fastaletri, steypuprentaður; óbreyttur, fastur
 sterile l. ófrjór, geldur; árangurslaus ([~ effort])
 sterility n. ófrjósemi

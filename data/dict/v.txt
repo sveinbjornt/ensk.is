@@ -130,8 +130,7 @@ velocity n. hraði; [uniform (equal) ~] jafn hraði
 velvet n. flos, (silki)flauel
 velveteen n. baðmullarflauel
 velvety l. mjúkur sem flauel; flauels-
-venal l. sem lýtur að æðum; æða- ([~ blood])
-venal l. sem er til sölu, falur; mútuþægur
+venal l. sem er til sölu, falur; mútuþægur; sem lýtur að æðum; æða- ([~ blood])
 venality n. mútuþægni
 vend s. selja (í smásölu); breiða út (skoðanir)
 vendee n. kaupandi
@@ -356,7 +355,7 @@ viperous l. eitraður; nöðrukenndur
 virago n. kvenskörungur; kvenvargur
 virescent l. grænleitur
 virgin n. mey, hrein mey; l. meylegur; hreinn, óflekkaður
-virginal n. e.k. hljóðfæri
+virginal l. meyjar-; ómengaður, tær, hreinn; n. e.k. semball
 virginity n. meydómur
 viridescent l. grænleitur
 viridity n. grænn litur, grænka
@@ -419,7 +418,6 @@ vivisection n. uppskurður lifandi dýra, kvikskurður
 vixen n. tóa; kvenskass
 viz ao. stytting úr [videlicet] (lat.), nefnilega; vanalega lesið [namely]
 vizier n. vesír, tyrkneskur ráðgjafi
-vizor n. sjá %[visor]%
 vocable n. orð
 vocabulary n. orðasafn
 vocal l. raddlegur, radd-; hljómandi, ómandi ([~ with their mirth]); munnlegur; [~ performer] söngvari

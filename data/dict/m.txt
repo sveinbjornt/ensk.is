@@ -310,8 +310,7 @@ marl n. mergill, kalkleir; s. bera mergil á
 marmalade n. marmelaði (aldinsafi soðinn með sykri)
 marmoreal l. úr marmara, marmara-
 marmot n. múrmeldýr
-maroon n. strokuþræll; útileguþræll; s. yfirgefa, skilja eftir á eyðiströnd eða ey; slæpast
-maroon l. dökkrauður, dumbrauður; n. dökkrauður litur
+maroon n. strokuþræll; útileguþræll; dökkrauður litur; s. yfirgefa, skilja eftir á eyðiströnd eða ey; slæpast; l. dökkrauður, dumbrauður
 marque n. leyfisbréf til víkingsskapar; víkingaskip
 marquee n. stórt tjald; foringjatjald
 marquess n. markgreifi (næstur hertoga að tign)
@@ -894,7 +893,6 @@ misanthrope n. mannhatari
 misanthropist n. mannhatari
 misanthropic l. mannhatursfullur; mannhaturslegur
 misanthropical l. mannhatursfullur; mannhaturslegur
-misanthropist n. mannhatari
 misanthropy n. mannhatur
 misapplication n. röng notkun
 misapply s. nota ranglega, misbeita; verja illa
@@ -1387,11 +1385,9 @@ muffineer n. salt- eða sykurbaukur
 muffle s. muldra; hjúpa, sveipa, hylja, dúða ([~ oneself, one's throat]); deyfa (t.d. trumbuhljóð)
 muffler n. andlitsskýla; hálsklútur; hljóðdeyfir; ft. hnefaleikahanskar; þykkir vettlingar
 mufti n. tyrkneskur prestur eða lögfræðingur; hversdagsbúningur
-mug n. drykkjarkanna; bikar; andlit, smetti; [to cut ~s] gretta sig
-muggy l. ölvaður
-mug n. mugga, þoka
-muggy l. rakur, molíulegur, muggulegur ([~ air, evening])
-mulatto n. kynblendingur (þar sem annað foreldrið er hvítt, en hitt svart)
+mug n. bolli, drykkjarkanna, bikar; andlit, smetti; [to cut ~s] gretta sig; mugga, þoka
+muggy l. rakur, molíulegur, muggulegur ([~ air, evening]); ölvaður
+mulatto n. múlatti, kynblendingur (þar sem annað foreldrið er hvítt, en hitt svart)
 mulberry n. mórberjarunni
 mulberry tree n. mórberjatré
 mulch n. moðáburður, sem lagður er við rætur trés
@@ -1500,7 +1496,6 @@ muster book n. liðsmannaskrá; skipshafnarskrá
 muster roll n. liðsmannaskrá; skipshafnarskrá
 mustermaster n. liðsmannabókari, skráningarstjóri
 mustiness n. mygla
-musty l. myglaður
 mutability n. breytileiki, óstöðugleiki
 mutable l. breytilegur; óstöðugur
 mutation n. breyting
@@ -1531,12 +1526,11 @@ myrtiform l. líkur myrtu
 myrtle n. myrta (sígræn jurt)
 myself fn. (ég) sjálfur ([I saw it ~]); (sjálfan) mig ([I have hurt ~]); [the third is ~] sá þriðji er ég
 mysterious l. leyndardómsfullur, dularfullur
-mystery n. leyndardómur; leyndarmál; kirkjulegur sjónleikur; ft. dultrúarsiðir (hjá Grikkjum); [make a ~ of] halda e-u leyndu, fara leynt með e-ð
-mystic l. leyndardómsfullur, dulspekilegur; dulrænn; dularfullur
+mystery n. ráðgáta; leyndardómur; leyndarmál; kirkjulegur sjónleikur; ft. [mysteries] dultrúarsiðir (hjá Grikkjum); [make a ~ of] halda e-u leyndu, fara leynt með e-ð
+mystic n. dultrúarmaður, dulspekingur; l. leyndardómsfullur, dulspekilegur; dulrænn; dularfullur
 mystical l. leyndardómsfullur, dulspekilegur; dulrænn; dularfullur
-mystic n. dultrúarmaður, dulspekingur
 mysticism n. dultrú, dulspeki
-mystification n. gabb
+mystification n. gabb, blekking; gáta
 mystify s. gabba, villa e-m sjónir, leika á e-n; gera e-ð óljóst eða dularfullt
 myth n. goðsögn; mýta; skröksaga
 mythic l. goðsagnalegur, goðsagnakenndur

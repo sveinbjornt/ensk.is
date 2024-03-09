@@ -1202,8 +1202,7 @@ interception n. handsömun; hindrun, stöðvun; útilokun
 intercession n. meðalganga, bænastaður ([upon the ~ of]); málamiðlun
 intercessor n. meðalgöngumaður
 intercessory l. miðlunar-; [~ prayer] fyrirbæn
-interchange s. skipta, hafa skipti á; skiptast á ([~ commodities, gifts, words])
-interchange n. skipti, (verslunar)viðskipti
+interchange s. skipta, hafa skipti á; skiptast á ([~ commodities, gifts, words]); n. skipti, (verslunar)viðskipti
 interchangeable l. skiptanlegur ([with]); sem er á víxl
 interchangeably ao. á víxl
 interclude s. byrgja úti
@@ -1224,8 +1223,7 @@ interested l. sem á hlut í e-u, hefur áhuga á e-u ([in]); áhugasamur; hlutd
 interesting l. áhugaverður, skemmtilegur, merkilegur
 interfere s. fara í bága (við [with]); skipta sér af ([in/with]); sletta sér fram í, skerast í leikinn
 interference n. bági; afskipti (af e-u [in]); meðalganga
-interflow n. samrennsli, samblöndun
-interflow s. renna (blandast) saman
+interflow n. samrennsli, samblöndun; s. renna (blandast) saman
 interfluent l. sem rennur hvor í annan
 interfoliate s. sjá %[interleave]%
 interfuse s. dreifa yfir eða inn á milli; hella í eða á milli; blanda (blandast) saman
@@ -1324,8 +1322,7 @@ interval n. millibil (í tíma og rúmi); [in his ~s of sobriety] þegar hann (�
 intervene s. koma (verða) á milli; bera að höndum; ganga í milli
 intervenient l. sem kemur eða er í milli
 intervention n. málamiðlun; meðalganga
-interview n. málfundur; viðtal ([to have an ~ with])
-interview s. eiga viðtal við e-n
+interview n. viðtal ([to have an ~ with]); málfundur; s. taka viðtal við e-n
 interviewer n. sá sem tekur viðtal við e-n
 interweave s. vefa saman
 intestacy n. dauði án löggildrar erfðaskrár
