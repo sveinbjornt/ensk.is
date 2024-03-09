@@ -619,7 +619,7 @@ lineal l. samsettur af línum; sem er í beinan ættlegg; [~ descent] beinn ætt
 lineally ao. í beinan ættlegg
 lineament n. andlitsfall, andlitsdráttur; venjulega í fleirtölu ([lineaments])
 linear l. línulegur; samsettur af línum; línubeinn; [~ measure] lengdarmál
-linen n. lín, hörléreft; léreftsföt, línföt; l. sem er úr líni; lín-, lérefts-
+linen n. léreft, lín, hörléreft; léreftsföt, línföt; l. sem er úr líni, lérefti; lín-, lérefts-
 linendraper n. línsali
 linen drapery n. léreftaverslun
 linen press n. línfataskápur
@@ -642,13 +642,13 @@ linnet n. lítill söngfugl
 linoleum n. línól, gólfdúkur
 linseed n. línfræ, hörfræ; [~ oil] línolía; fernisolía ([boiled ~ oil])
 linsey-woolsey n. dúkur úr hör og ull, vergarn
-lint n. línskaf, sáratæjur
+lint n. kusk; línskaf, sáratæjur
 lintel n. dyratré, ofdyri; steinn yfir glugga eða dyrum
 lion n. ljón
 lioness n. ljónynja, kvenljón
 lionhearted l. hugaður sem ljón
-lionize s. sýna (ókunnum manni) það, sem markvert er; skoða það, sem markvert er (á e-m stað); hafa í hávegum
-lip n. vör ([upper, lower ~]); rönd, barmur; s. snerta með vörunum, bragða á e-u, segja í hálfum hljóðum
+lionize s. hafa í hávegum; sýna (ókunnum manni) það, sem markvert er; skoða það, sem markvert er (á e-m stað)
+lip n. vör ([upper, lower ~]); rönd, barmur;  s. snerta með vörunum, bragða á e-u, segja í hálfum hljóðum
 lip salve n. varasmyrsl, varasalvi
 liquation n. bræðing, bræðsla; bráðnun
 liquefaction n. bræðing, bræðsla; bráðnun
@@ -656,15 +656,15 @@ liquefiable l. bræðanlegur
 liquefy s. bræða; bráðna
 liquescent n. bræðanlegur; fljótandi
 liqueur n. líkjör, mjög áfeng kryddveig
-liquid l. fljótandi; tær, skær ([~ lustre]); hreinn, skær (um hljóð); óstöðugur ([~ convictions]); n. lögur, vökvi; dumbstafur
-liquidate s. greiða (skuld); jafna, útkljá (reikning, skuldir)
-liquidation n. skuldarlúkning, skuldajöfnuður, reikningsjöfnun
+liquid l. fljótandi; tær, skær ([~ lustre]); hreinn, skær (um hljóð); óstöðugur ([~ convictions]); n. vökvi, lögur; dumbstafur
+liquidate s. greiða (skuld); jafna, útkljá (reikning, skuldir); eyða, útrýma (óforml.)
+liquidation n. skuldarlúkning, skuldajöfnuður, reikningsjöfnun; útrýming, eyðing
 liquidator n. reikningsjafnari
-liquidity n. fljótandi ástand; hreinleiki, skærleiki (hljóðsins)
-liquor n. lögur; áfengur drykkur ([hard ~]); soð; seyði; [in ~, the worse for ~] ölvaður, drukkinn; s. bera feiti (olíu) á leður; bleyta (malt) í vatni; fá sér í staupinu
+liquidity n. fljótandi ástand; hreinleiki, skærleiki (hljóðsins); greiðslugeta, greiðsluflæði, reiðufjárhæfni, reiðufjárgeta
+liquor n. áfengur drykkur ([hard ~]); lögur; soð; seyði; [in ~, the worse for ~] ölvaður, drukkinn; s. bera feiti (olíu) á leður; bleyta (malt) í vatni; fá sér í staupinu
 liquorice n. lakkrís
 liquorish l. sem þykir gott í staupinu, ölkær
-lisp s. vera blestur í máli, vera smámæltur; hvísla, segja í hálfum hljóðum; n. niður; þytur; [he had a slight ~] hann var lítið eitt blesmæltur
+lisp s. vera blestur í máli, vera smámæltur; hvísla, segja í hálfum hljóðum; n. smámæli; niður; þytur; [he had a slight ~] hann var lítið eitt smámæltur
 lisping l. blestur, smámæltur
 lissome l. liðugur, mjúkur
 list n. listi, skrá; borði, jaðar; halli (á skipi); ft. grindur (um burtreiðarvöll); bardagavöllur; s. skrá (hermenn); [~ (oneself) for service] ganga í herþjónustu

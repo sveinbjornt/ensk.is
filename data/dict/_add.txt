@@ -3775,6 +3775,7 @@ cornflake n. kornflaga, morgunkorn
 jobholder n. launþegi, starfsmaður, e-r sem er með starf
 bedazzle s. heilla
 dutifully ao. skyldurækilega, af skyldurækni
+dutifulness n. skyldurækni
 homogamous l. samþroska
 homogamy n. að allt sé af sama kyni; einsblóma; einserfðaæxlun; innrækt; jafnvensl
 classicist n. fornfræðingur
@@ -3897,7 +3898,11 @@ self-realization n. sjálfsefling
 demeaning l. niðrandi, niðurlægjandi, lítillækkandi
 catastrophic l. hrikalegur, hörmulegur, skelfilegur, hrapallegur, katastrófískur
 catastrophically ao. hrikalega, hörmulega, skelfilega, hrapallega
-metonymy n. nafnhvörf
+metonymy n. nafnhvörf, merkingarskipti (þegar einhver eiginleiki fyrirbæris er hafður um fyrirbærið)
 metonymic l. nafnhvarfa-
 metonymical l. nafnhvarfa-
 metonymically ao. nafnhvarfalega (sjá %[metonymy]%)
+ideograph n. myndleturstákn
+pictograph n. myndletur
+pictographic l. myndleturs-
+pictography n. myndletrun, myndasöguletrun; myndletur

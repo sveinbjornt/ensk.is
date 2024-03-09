@@ -27,8 +27,6 @@ collaborative
 elected
 debug
 debugger
-pictograph
-pictographic
 Latino
 preterperfect
 corps
@@ -2962,3 +2960,4 @@ spiffy
 skeuomorph
 skeuomorphism
 schmooze
+digraph

@@ -578,6 +578,9 @@ SKIP = frozenset(
         "populistic",
         "metonymical",
         "metonymically",
+        "dutifulness",
+        "pictographic",
+        "pictography",
     )
 )
 
