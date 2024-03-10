@@ -9,6 +9,7 @@ helicopter n. þyrla; [~ pilot] þyrluflugmaður
 computer n. tölva, reiknivél; e-r sem reiknar, reiknari
 computer science n. tölvunarfræði
 computer scientist n. tölvunarfræðingur
+computing n. tölvun, tölvuvinnsla
 algorithm n. algrím, reiknirit
 algorithmic l. reiknirits-, algríms-, algrímskur
 heliocentrism n. sólmiðjukenning
@@ -435,7 +436,7 @@ freelancer n. e-r sem er sjálfstætt starfandi
 newswire n. fréttaveita, fréttastöð
 neurochemical l. taugaefnafræðilegur
 vector n. vigur, vektor
-cannabis n. kannabis (plöntutegund sem er vímugjafi)
+cannabis n. kannabis (jurt sem er vímugjafi)
 revenant n. afturganga, uppvakningur; e-r sem snýr aftur (bókstafleg merking)
 bullshit n. kjaftæði, þvæla; nautaskítur; s. halda fram kjaftæði eða þvælu; blekkja; ljúga ([he was ~ting all along])
 shades n. ft. skyggð gleraugu, sólgleraugu
@@ -517,7 +518,9 @@ neonate n. nýburi
 boulevard n. breiðstræti
 reconstruction n. endurbygging, enduruppbygging
 vocational l. starfs-, fag-, iðn- ([~ training]); köllunar-
-entrepreneur n. frumkvöðull, athafnamaður
+entrepreneur n. athafnamaður, frumkvöðull
+entrepreneurial l. athafnamennsku-, frumkvöðla-, framtaks-
+entrepreneurship n. athafnamennska, frumkvæði, framtakssemi, brautryðjandastarf
 screensaver n. skjávari
 paradigmatic l. beygingardæmis-; fyrirmyndar-, fullkomið dæmi um e-ð
 dysfunction n. bilun, truflun; vanhæfni
@@ -3758,6 +3761,7 @@ duplicitous l. tvílyndur, óhreinlyndur, undirförull
 vindicated l. réttlættur; varður; sannaður
 grading n. flokkun; stigagjöf; einkunnagjöf
 tectonics n. ft. jarðskorpu­hreyf­ing­ar ([plate ~])
+tectonic l. jarðskorpu-; [a ~ shift] gríðarleg breyting
 quickening n. hröðun; lífgun; fjörgun (fyrstu hreyfingar fósturs í móðurkviði); l. með auknum hraða ([at a ~ pace])
 adaption n. aðlögun
 bedspread n. rúmteppi
@@ -3888,7 +3892,7 @@ avant-garde l. framúrstefnulegur; n. framúrstefna
 epicentre n. miðpunktur; skjálftamiðja
 epicenter n. miðpunktur; skjálftamiðja
 subspecies n. undirtegund, deilitegund
-petunia n. tóbakshorn, petúnía, sjómannstryggð (plöntutegund)
+petunia n. tóbakshorn, petúnía, sjómannstryggð (jurt)
 totalitarian l. alræðis-, alræðislegur; n. alræðishyggjumaður
 totalitarianism n. alræði, alræðisstjórn
 dysphasia n. málglöp, málskortur
@@ -3906,3 +3910,74 @@ ideograph n. myndleturstákn
 pictograph n. myndletur
 pictographic l. myndleturs-
 pictography n. myndletrun, myndasöguletrun; myndletur
+sigmatism n. smámæli
+carceral l. fangelsis-, fangelsunar-
+solipsism n. sjálfsveruhyggja
+mutate s. stökkbreyta, ummynda
+mutant n. stökkbrigði
+mutation n. stökkbreyting
+deckhand n. háseti
+portside l. bakborðsmegin
+electrum n. elektrum (málmblanda silfurs og gulls)
+parliamentarian n. þingmaður
+sterilize s. dauðhreinsa, smitsæfa; gera ófrjóan, vana
+sterilization n. dauðhreinsun, sótthreinsun; ófrjósemisaðgerð, vönun
+crystallization n. kristallsmyndun
+status quo n. óbreytt ástand (úr latínu)
+artefact n. gervingur; listrænn munur, smíðisgripur
+artifact n. gervingur; listrænn munur, smíðisgripur
+longhouse n. langhús, skáli, landnámsbær
+sunburn n. sólbruni
+sunburned l. sólbrenndur
+dioxide n. tvísýringur, tvíoxíð ([carbon ~] koltvísýringur)
+carbon dioxide n. koltvísýringur, koltvíoxíð, kolsýra, koltvíildi
+parapsychology n. dulsálarfræði, dulsálfræði
+corporatism n. samráðsskipan, samráðskerfi; samráðsstefna
+seascape n. sjávarmynd
+seaside n. strönd, sjávarsíða
+redistribution n. endurúthlutun, endurdreifing, endurskipting
+redistributive l. endurúthlutandi, endurskiptandi; [~ tax] jöfnunarskattur
+preform s. formynda, formóta
+preformed l. formyndaður, formótaður
+preformation n. formyndun, formótun
+therapy n. meðferð
+therapist n. meðferðaraðili; ráðgjafi; sálfræðingur; [physical ~] sjúkraþjálfi
+dealership n. umboð; [car ~] bílaumboð
+sebum n. húðfeiti
+familial l. fjölskyldu-, ættar-; ættgengur ([~ disease])
+seasonal l. árstíðabundinn
+seasonality n. árstíðarsveiflur
+non-fiction n. rit sem ekki eru skáldrit
+unidirectional l. einstefnu-
+pluralism n. fjölhyggja; fjölræði; fjölbýli
+safflower n. safflúr, litunarþistill, litunarkollur (jurt)
+matériel n. efni, búnaður; herbúnaður
+bomber n. sprengjuvél, sprengjuflugvél
+consultant n. ráðgjafi, ráðgefandi sérfræðingur
+extrapolate s. bryggja, framreikna, útgíska
+extrapolation n. bryggjun, framreikningur, útgískun
+lathe n. rennibekkur
+collectivize s. samyrkjuvæða; þjóðnýta
+collectivization n. samyrkjuvæðing; þjóðnýting
+nexus n. tengidepill; orsakaflétta; tengslakjarni; tengslanet
+interact s. eiga í (gagnvirkum) samskiptum eða venslum; [~ with someone] eiga í samskiptum við e-n
+interaction n. samskipti; gagnvirkni, gagnkvæm áhrif; víxlverkun; gagnverkun
+interactive l. gagnvirkur; víxlverkandi; samtengdur; samskipta-
+interactively ao. samskiptalega; gagnverkandi; víxlverkandi
+revue n. revía; leikhús
+constrictive l. þrengjandi; kyrkjandi; samandragandi
+misinformation n. rangar eða misvísandi upplýsingar
+inelastic l. óteyginn; ónæmur; ófjaðrandi
+inelasticity n. óteygni; ónæmi; ófjöðrun
+paroxysmal l. köstóttur
+causation n. orsökun, orsakatengsl
+aftereffect n. eftirhrif
+chaperone n. velsæmisvörður, siðgæðisvörður; s. [~ someone] gæta velsæmis eða siðgæðis e-s
+coastland n. strandlendi, strandlengja
+substandard l. ófullnægjandi, lélegur, óvandaður, stenst ekki gæðakröfur
+voyeur n. gægir, sjónfróari
+voyeurism n. sjónfróun
+catalytic l. hvetjandi-; efnahvarfs-; n. efnahvarfi
+psychosexual l. kynsálar-; [~ development] kynsálþróun
+counterfactual l. staðleysu-, staðlaus, óraunveruleika-, gegn staðreyndum; n. öfugmæli, staðleysa, setning sem fæst við óraunveruleika
+placelessness n. staðleysa

@@ -67,7 +67,6 @@ balanced
 skating
 integrated
 automotive
-computing
 operational
 underlying
 packing
@@ -77,8 +76,6 @@ significantly
 coordinate
 coordination
 coordinator
-voyeur
-voyeurism
 container
 analog
 analogue
@@ -130,7 +127,6 @@ confrontational
 repo
 pivot
 devastating
-status quo
 give up
 collectible
 collectibles
@@ -214,8 +210,6 @@ garderobe
 agog
 ephebophilia
 ephebophile
-therapy
-therapist
 hyperspace
 cracker
 hack
@@ -229,7 +223,6 @@ pre-emptive
 holograph (endurskoða)
 holographic
 transgender
-nexus
 mephistopheles
 deadline
 differential
@@ -279,7 +272,6 @@ nationwide
 countrywide
 countywide
 motherfucker
-parapsychology
 cack-handed
 micromanage
 micromanagement
@@ -337,7 +329,6 @@ unprivileged
 purposiveness
 outraged
 underdetermined
-preformation
 patently
 generational
 unease
@@ -348,8 +339,6 @@ pivotal
 constringe
 sophistication
 counterreaction
-interact
-interaction
 paternalism
 paternalistic
 overemphasis
@@ -408,8 +397,7 @@ relativity (endurskoða skilgr.)
 quintessential
 dysmorphia
 dysmorphic
-extrapolate
-extrapolation
+
 curved
 typesetter
 readjustment
@@ -535,7 +523,6 @@ replaceable
 mutatis mutandis
 thinkable
 unconquered
-aftereffect
 laissez-faire
 bystander
 peformant
@@ -563,7 +550,6 @@ disillusionment
 gigolo
 cynicism (endurskoða skilgr.)
 gaunt
-sunburn
 harsh-spoken
 contestant
 broadbill
@@ -650,7 +636,6 @@ stopover
 cataclysmic
 pricey
 reorient
-seasonal
 macho
 Canadian
 installment
@@ -703,7 +688,6 @@ viable
 heavyweight
 pinstripe
 legwork
-seaside
 goalpost
 unmanned
 palagonite
@@ -713,7 +697,6 @@ nonparticipation
 rapporteur
 reestablish
 sympathizer
-entrepreneurial
 quantify
 breakthrough
 kingmaker
@@ -732,23 +715,19 @@ sideburn
 uptight
 coastal
 rationale
-parliamentarian
 risky
 defense
 unconventional
 bimonthly
 archival
-tectonic
 overprice
 overpriced
 doorstep
 availability
-longhouse
 unfamiliarity
 nonexistence
 fatalistic
 famished
-dioxide
 paralyzed
 gunpoint
 clothesline
@@ -780,16 +759,12 @@ modernization
 historiosophy
 centralism
 traumatic
-collectivize
-collectivization
 conspiratorial
 paramilitary
 dynamism
 immiseration
 undergird
 rearmament
-redistribution
-redistributive
 breadline
 deportee
 firepower
@@ -834,7 +809,6 @@ unbeatable
 agrarianism
 unassailable
 assailable
-matériel
 redaction
 precondition
 preindustrial
@@ -871,8 +845,6 @@ wetland
 reimposition
 liaison
 underage
-interactive
-interactively
 chancellery
 momentarily
 tightrope
@@ -918,7 +890,6 @@ armageddon
 prognathous
 eyeglass
 fower
-cypher
 pursuer
 goggles
 whorl
@@ -947,7 +918,6 @@ schismatics
 minutia
 hindsight
 travelogue
-mutant
 migrant
 misjudgement
 reportage
@@ -1076,7 +1046,6 @@ cryptically
 forebear
 parisis
 chaperon
-chaperone
 contraption
 slapstick
 artistry
@@ -1097,7 +1066,6 @@ blueprint
 tribesman
 longhand
 blotless
-artefact
 disgruntlement
 polemicist
 deconstruct
@@ -1141,7 +1109,6 @@ supervisory
 fictive
 hassle
 brash
-dealership
 overdrive
 interdependent
 leverage
@@ -1218,7 +1185,6 @@ sleepover
 organizational
 bespoke
 fait accompli
-consultant
 uncharacteristic
 pushiness
 edginess
@@ -1272,7 +1238,6 @@ reconviction
 premiership
 invulnerability
 downturn
-familial
 Presbyterianism
 indebtedness
 cartelization
@@ -1306,8 +1271,6 @@ activism
 bowdlerization
 passant
 proliferate
-sterilize
-sterilization
 victimizer
 expropriator
 rehabilitative
@@ -1338,7 +1301,6 @@ transgressive
 roughage
 solipsist
 solipsistic
-solipsism
 suburbanite
 sartorial
 patois
@@ -1383,7 +1345,6 @@ hotspot
 ergonomic
 ergonomics
 domestication
-seasonality
 egoistic
 self-aggrandizement
 technocratic
@@ -1414,7 +1375,6 @@ faraway
 effacement
 outback
 ingestion
-coastland
 synchrony
 subcontinent
 subcontinental
@@ -1663,7 +1623,6 @@ blackout
 functionalist
 functionalism
 structuralist
-crystallization
 immanence
 legitimization
 stylization
@@ -1711,7 +1670,6 @@ otherness
 productivist
 calculative
 sectorial
-constrictive
 panicky
 salvific
 ethnocultural
@@ -1738,7 +1696,6 @@ mismatch
 habituation
 ritualization
 demonstrator
-paroxysmal
 unitary
 derealization
 bridgehead
@@ -1763,7 +1720,6 @@ self-preservation
 high-mindedness
 high-minded
 psychologism
-causation
 manipulable
 evaluative
 naïveté
@@ -1797,12 +1753,10 @@ participatory
 pallbearer
 aggrievement
 factionalize
-corporatism
 personalistic
 separateness
 superfaction
 ethnonationalist
-misinformation
 alarmism
 swiftly
 rightfully
@@ -1811,7 +1765,6 @@ nonprofit
 majoritarian
 hardball
 undercut
-bomber
 exceptionalism
 locational
 stymie
@@ -2105,12 +2058,10 @@ sweepstakes
 sweepstake
 kosher
 pesky
-substandard
 yesteryear
 amok
 jackrabbit
 tracker
-mutate
 wellness
 trove
 downbeat
@@ -2314,7 +2265,6 @@ interiorization
 preempt
 particularist
 classificatory
-seascape
 pietist
 voluntariness
 individuate
@@ -2358,8 +2308,6 @@ gooey
 intrastate
 spillover
 overwatch
-sebum
-lathe
 colocation
 deglobalize
 deglobalization
@@ -2382,12 +2330,9 @@ widget
 quesadilla
 cheesecake
 carton
-safflower
 propylene
 spoilage
 far-flung
-deckhand
-portside
 finicky
 duology
 seaborne
@@ -2400,7 +2345,6 @@ spotter
 deniability
 importer
 diversification
-electrum
 lockstep
 makeover
 belly-up
@@ -2418,8 +2362,6 @@ frack
 graspable
 disruptor
 onshore
-inelasticity
-inelastic
 neocolonial
 roster
 chapterette
@@ -2435,7 +2377,6 @@ hoover
 rechargeable
 Hobbesian
 orbital
-topographic
 disassociation
 shininess
 backer
@@ -2489,7 +2430,6 @@ conquerable
 intermittently
 hefty
 onrush
-entrepreneurship
 catchy
 deployable
 sweetener
@@ -2635,7 +2575,6 @@ vaguely
 modestly
 die-hard
 riff-raff
-revue
 unconsciously
 tenseness
 benedictine
@@ -2961,3 +2900,9 @@ skeuomorph
 skeuomorphism
 schmooze
 digraph
+sepsis
+vascularity
+adulterate (endurskilgreina)
+miosis
+semiosis
+hypotension

@@ -1309,10 +1309,10 @@ distraught l. ruglaður
 distress n. neyð, eymd, bágindi; sjávarháski ([a ship in ~]); fjárnám, lögtak; lögtaksmunir; ft. (fjár)kröggur, vandræði; [to levy a ~ upon] taka lögtaki; [~ rockets] flugeldar frá skipi í sjávarháska; s. þjá; hryggja; taka lögtaki hjá e-m
 distressed l. bágstaddur, nauðstaddur; bágur, vesæll ([~ situation])
 distressful l. sorglegur; bágstaddur ([the most ~ districts]); [~ cries] neyðaróp
-distribute s. úthluta; skipta (í parta, flokka [into parts, classes])
-distribution n. úthlutun, útbýting; útbreiðsla; skipting
+distribute s. úthluta; dreifa; skipta (í parta, flokka [into parts, classes])
+distribution n. úthlutun, útbýting; dreifing; útbreiðsla; skipting
 distributive l. úthlutandi (hverjum sitt)
-distributor n. úthlutari
+distributor n. úthlutari, dreifari
 district n. hérað; umdæmi
 distrust s. vantreysta, tortryggja; n. vantraust, tortryggð
 distrustful l. vantreystandi ([~ of]); vondaufur (um e-ð [as to]); tortryggilegur

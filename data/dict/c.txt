@@ -1314,8 +1314,8 @@ collect s. safna; innheimta (skatta, skuldir); ráða (af e-u); safnast; [~ ones
 collected l. stilltur
 collectedly ao. í heild sinni; stillilega
 collectedness n. stilling
-collection n. safn; innheimta; stilling
-collective l. samsafnaður; sameiginlegur
+collection n. safn, samansafn; innheimta; stilling
+collective l. samsafnaður; sameiginlegur; n. samyrkjubú
 collective noun n. safnorð
 collectively ao. sameiginlega, í heild
 collector n. safnari; gjaldkeri; innheimtumaður
@@ -1921,7 +1921,7 @@ constitutional l. eðlisfarslegur; verulegur; stjórnskipulegur, samkvæmur stj�
 constitutive l. verulegur; sem e-ð er samsett af; [~ parts] frumpartar
 constrain s. neyða, þvinga; reyra, binda
 constraint n. þvingun; nauðung, ófrelsi
-constrict s. draga saman
+constrict s. draga saman; þrengja; kyrkja
 constriction n. samandráttur; kyrking; þrenging
 construct s. reisa, smíða, búa til; draga upp ([~ a triangle])
 construction n. bygging, smíði; þýðing ([put a bad ~ upon his refusal]); skýring; orðaskipun; [in course of (under) ~] í smíðum, í byggingu

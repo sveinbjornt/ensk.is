@@ -581,6 +581,13 @@ SKIP = frozenset(
         "dutifulness",
         "pictographic",
         "pictography",
+        "carceral",
+        "collectivize",
+        "portside",
+        "preformation",
+        "sigmatism",
+        "unidirectional",
+        "paroxysmal",
     )
 )
 
