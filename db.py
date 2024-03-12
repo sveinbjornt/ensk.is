@@ -194,6 +194,14 @@ class EnskDatabase(object):
         selected = conn.cursor().execute("SELECT * FROM dictionary WHERE page_num=0")
         return self._consume(selected)
 
+    def read_all_capitalized(self) -> List[Dict]:
+        """Read and return all entries with capitalized words."""
+        conn = self.conn()
+        selected = conn.cursor().execute(
+            "SELECT * FROM dictionary WHERE word GLOB '[A-Z]*'"
+        )
+        return self._consume(selected)
+
     def read_all_in_wordcat(self, cat=None) -> List[Dict]:
         """Read all entries in a given word category."""
         assert cat is not None

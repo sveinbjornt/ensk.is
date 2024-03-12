@@ -374,6 +374,7 @@ async def stats(request: Request):
     no_uk_ipa = len(e.read_all_without_ipa(lang="uk"))
     no_us_ipa = len(e.read_all_without_ipa(lang="us"))
     no_page = len(e.read_all_with_no_page())
+    num_capitalized = len(e.read_all_capitalized())
     num_duplicates = len(e.read_all_duplicates())
 
     wordstats = {}
@@ -399,6 +400,8 @@ async def stats(request: Request):
             "perc_no_us_ipa": perc(no_us_ipa, num_entries),
             "no_page": no_page,
             "perc_no_page": perc(no_page, num_entries),
+            "num_capitalized": num_capitalized,
+            "perc_capitalized": perc(num_capitalized, num_entries),
             "num_duplicates": num_duplicates,
             "perc_duplicates": perc(num_duplicates, num_entries),
             "wordstats": wordstats,
