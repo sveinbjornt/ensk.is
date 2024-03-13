@@ -91,6 +91,7 @@ neoliberal l. nýfrjálshyggju-; n. nýfrjálshyggjumaður, nýfrjálshyggjusinn
 creativity n. sköpun, sköpunargáfa
 ecology n. vistfræði
 ecological l. vistfræðilegur, vistfræði-; [we are facing ~ collapse]
+ecologically ao. vistfræðilega
 ecologist n. vistfræðingur
 encryption n. dulkóðun
 encrypt s. dulkóða
@@ -284,29 +285,32 @@ fuselage n. bolur eða skrokkur á flugvél
 anchorman n. fréttaþulur
 anchorwoman n. kvenkyns fréttaþulur
 news anchor n. fréttaþulur
-paleolithic l. steinaldar-
-neolithic l. nýsteinaldar-
-superstate n. stórveldi; ríki myndað úr mörgum smærri ríkjum
-Stalinist n. stalínisti (fylgismaður stjórnaraðferða Jósefs Stalín); l. stalínskur
+Paleolithic n. fornsteinöld, ársteinöld; l. fornsteinaldar-
+Palaeolithic n. fornsteinöld, ársteinöld; l. fornsteinaldar-
+Neolithic l. nýsteinaldar-
+Mesolithic n. miðsteinöld; l. miðsteinaldar-
+superstate n. stórveldi, ofurveldi; öflugt ríki myndað úr mörgum smærri ríkjum
+Stalinist n. stalínisti (fylgismaður stefnu Jósefs Stalín í Sovétríkjunum); l. stalínskur
 Stalinism n. stalínismi (stefna Jósefs Stalín í Sovétríkjunum)
 Leninist n. lenínisti (fylgismaður hugmyndafræði Vladimírs Lenín); l. lenínskur
 Leninism n. lenínismi (hugmyndafræði Vladimírs Lenín)
 conglomeration n. samsteypa
 conglomerate n. samsteypa; s. steypa saman
 conglomerated l. samsteyptur, samsettur
-cinema n. kvikmyndahús, bíó; kvikmyndalistin
+cinema n. kvikmyndahús, bíó; kvikmyndalistin, kvikmyndabransinn
 entertainment industry n. skemmtanabransinn, afþreyingarbransinn
-stereotypical l. dæmigerður, sem fylgir staðalmynd
+stereotypical l. dæmigerður, sem fylgir staðalmynd, staðalmyndar-
 sociological l. (sam)félagsfræðilegur, félagsvísindalegur
 sociologist n. (sam)félagsfræðingur
+social scientist n. félagsvísindamaður, félagsvísindakona
 societal l. samfélagslegur, félagslegur, þjóðfélagslegur
 sophisticated l. fágaður; háþróaður; margbrotinn
 zombify s. breyta í uppvakning (sjá %[zombie]%)
-dyke n. varnargarður; niðrandi orð yfir lesbíu
+dyke n. varnargarður; lesbía (niðrandi)
 gaoler n. fangavörður
 haphazard n. tilviljunarkenndur, óskipulegur
-interface n. viðmót; tenging; snertipunktur tveggja fyrirbæra
-bromance n. brómans, náið vinasamband tveggja karlmanna (samsett úr %[brother]% og %[romance]%)
+interface n. viðmót; tenging; snertipunktur tveggja fyrirbæra, þar sem tvö fyrirbæri mætast
+bromance n. brómans (óforml.), náið vinasamband tveggja karlmanna (samsett úr %[brother]% og %[romance]%)
 selfie n. sjálfa, sjálfsmynd, ljósmynd sem e-r tekur af sjálfum sér
 paywall n. greiðslugátt, greiðsluveggur, greiðslumúr
 crowdsource s. lýðvirkja
@@ -350,7 +354,7 @@ Islam n. íslam (eingyðistrú sem á upptök sín á Arabíuskaga)
 Islamic l. íslamskur (sjá %[Islam]%)
 passphrase n. aðgangsorð, lykilorð, aðgangsfrasi
 marijuana n. maríjúana (kannabislyf)
-metadata n. lýsigögn (gögn sem lýsa öðrum gögnum)
+metadata n. lýsigögn, gögn sem lýsa öðrum gögnum
 Muslim n. múslími (sá sem aðhyllist íslamska trú, sjá %[Islam]%); l. múslímskur
 nutritional l. næringar-
 outsource s. útvista
@@ -381,6 +385,9 @@ crowdfunded l. lýðfjármagnað, hópfjármagnað
 circuit n. hringrás; rafrás, rafstraumsrás; s. fara yfir, fara í kringum
 polypropylene n. fjölprópýlen, pólýprópýlen
 audio n. hljóð
+audio quality n. hljómgæði, hljóðgæði
+audio channel n. hljóðrás
+audio spectrum n. hljóðróf
 cassette n. (hljóð)snælda, kassetta
 audio cassette n. (hljóð)snælda, (hljóð)spóla, kassetta
 hard disk n. harður diskur (í tölvum)
@@ -616,6 +623,7 @@ Bangladesh n. Bangladess
 Barbados n. Barbados
 Belarus n. Hvíta-Rússland, Belarús
 Belarussian l. hvítrússneskur; n. Hvítrússi; hvítrússneska (tungumál)
+Belorussian l. sjá %[Belarussian]%
 Belize n. Belís
 Benin n. Benín
 Bermuda n. Bermúdaeyjar
@@ -711,6 +719,7 @@ Lebanon n. Líbanon
 Lesotho n. Lesótó
 Liberia n. Líbería
 Libya n. Líbía
+Libyan l. líbískur; n. Líbíumaður
 Liechtenstein n. Liechtenstein
 Lithuania n. Litáen
 Lithuanian l. litáískur; n. Litái; litáíska
@@ -1415,6 +1424,7 @@ narcissistic l. sjálfselskandi, sjálfsdýrkandi, narsissískur, narsissistísk
 narcissist n. narsissisti, e-r sem elskar eða dýrkar sjálfan sig
 personality disorder n. persónuleikaröskun
 Athens n. Aþena (borg í Grikklandi)
+Athenian l. aþenskur; n. Aþeningur
 tutorial l. kennslu-, kennara-; n. kennsluefni, námsefni, leiðbeiningar; kennslustund
 meds n. ft. stytt. á %[medicine]% (ft.)
 tweet s. tísta; n. tíst
@@ -1470,7 +1480,7 @@ Hawaii n. Hawaii, Hawaii-eyjar (stundum skrifað Havaí eða Havæ á íslensku)
 teen n. táningur, unglingur; l. tánings-, á táningsaldri, á unglingsaldri; sjá %[teenage]%
 artwork n. listaverk, kúnstverk; myndskreyting(ar)
 California n. Kalifornía (ríki í suðvesturhluta Bandaríkjanna)
-documented l. skjalfestur; skjalaður; sjá %[document]%
+documented l. skjalfestur; skjalaður; skráður; sjá %[document]%
 futhark n. germanskt rúnaletur
 asshole n. rassgat; (óforml.) skíthæll ([he is such an ~])
 anus n. endaþarmsop, rassgat
@@ -1734,6 +1744,7 @@ Kurdish l. kúrdneskur; kúrdneska (tungumál)
 angst n. angist
 angst-ridden l. angistarfullur
 criminalize s. glæpavæða, banna, gera refsivert
+criminalization n. glæpavæðing, bann
 decriminalize s. afglæpavæða, afnema refsingar fyrir ([~ drugs, prostitution])
 decriminalization n. afglæpavæðing
 biometry n. lífmælingar
@@ -1880,6 +1891,7 @@ Shetlands n. Hjaltlandseyjar
 fedora n. e.k. hattur
 streetcar n. götuvagn
 postwar l. eftirstríðs-
+post-war l. eftirstríðs-
 bookbinding n. bókbindaraiðn
 middleman n. milligönguaðili, milligöngumaður, milliliður
 sibling n. systkin
@@ -2133,6 +2145,7 @@ baleen whale n. skíðishvalur
 provisionary l. sjá %[provisional]%
 liberally ao. frjálslega
 Carthage n. Karþagó (borg í Norður-Afríku til forna)
+Carthaginian l. karþagóskur; n. Karþagómaður
 speechwriter n. ræðuhöfundur
 televangelism n. sjónvarpspredikun
 televangelist n. sjónvarpspredikari
@@ -2262,6 +2275,7 @@ fratricidal l. bróðurmorðs-, sem varðar bróðurmorð
 soybean n. sojabaun
 gynecocracy n. kvenræði, kvenveldi, mæðraveldi
 neuroscience n. taugavísindi
+neuroscientific l. taugavísindalegur
 neuroscientist n. taugavísindamaður
 soundtrack n. hljóðrás, hljóðrit; bakgrunnshljóð, bakgrunnstónlist; [film/movie ~] kvikmyndatónlist
 syndrome n. heilkenni; [Downs ~] Downs-heilkenni
@@ -2428,6 +2442,7 @@ uninterpretable l. ótúlkanlegur
 predictability n. fyrirsjáanleiki
 game theory n. leikjafræði
 game-theoretic l. leikjafræðilegur
+game-theoretical l. leikjafræðilegur
 redefinition n. endurskilgreining
 biologically ao. líffræðilega
 heroically ao. hetjulega
@@ -2522,7 +2537,8 @@ myopic l. nærsýnn
 Sikh n. síki (fylgismaður síkisma, sjá %[Sikhism]%)
 Sikhism n. síkismi (e.k. indversk eingyðistrú)
 logically ao. rökrétt, röklega
-stochastic l. slembi-, hendingar-, tilviljunar-; [~ process] slembiferli
+stochastic l. slembinn, tilviljanakenndur, slembi-, hendingar-, tilviljunar-; [~ process] slembiferli
+stochasticity n. slembni, hending, tilviljanakennd
 psychoanalyze s. sálgreina, sálkanna
 psychoanalyst n. sálgreinir, sálkönnuður
 psychoanalysis n. sálgreining, sálkönnun
@@ -2603,6 +2619,7 @@ seafood n. sjávarfang, sjávarafurðir, sjávarréttur, sjávarmeti
 childcare n. barnagæsla, barnapössun, umönnun barna
 opportunistic l. tækifærissinnaður, tækifæris-, hentistefnu- (sjá %[opportunist]%)
 reify s. hlutgera
+reification n. hlutgerving
 microstate n. örríki, smáríki
 goon n. skúrkur, hrotti, fantur, kjáni
 nightwatchman n. næturvörður
@@ -2853,6 +2870,7 @@ silencer n. hljóðdeyfir; e-ð sem þaggar niður í e-u eða gerir e-ð hljót
 likeable l. viðkunnanlegur, viðfelldinn
 wristwatch n. armbandsúr
 Egyptology n. egypsk fræði
+Egyptological l. egyptafræðilegur
 hellhole n. vítishola, hræðilegur staður, skítapleis
 monomaniacal l. einæðislegur, með eitthvað eitt á heilanum
 uncontroversial l. óumdeildur
@@ -2889,7 +2907,9 @@ denigration n. mannorðsspjöll, ófræging, hallmæli
 denigratory n. niðrandi, ófrægjandi, ærumeiðandi, mannorðsspillandi, hallmælandi
 sophomore l. annað í röð ([my ~ year in college], [his ~ album]); n. nemandi á öðru ári í skóla
 e-book n. rafbók
+ebook n. rafbók
 e-reader n. rafbókalesari
+ereader n. rafbókalesari
 brutishness n. grimmd, hrottaskapur
 parachutist n. fallhlífarstökkvari; fallhlífarhermaður
 polyarchy n. fjölræði (stjórn margra aðila)
@@ -2973,7 +2993,8 @@ mitochondrial l. hvatbera- (sjá %[mitochondrion]%)
 dehumanization n. afmennskun
 unhappiness n. óhamingja, vansæld
 parabola n. fleygbogi
-terracotta n. brenndur leir; l. leir-
+parabolic l. fleygboga-
+terracotta n. brenndur leir; l. leir-, leirbrenndur
 nonetheless ao. engu að síður
 ferrous l. úr járni, járnkenndur, járn-
 spinelessness n. hryggleysi; kjarkleysi; bakbeinsleysi
@@ -3468,21 +3489,26 @@ autoimmune l. sjálfsofnæmis-; [~ disease] sjálfsofnæmissjúkdómur
 workweek n. vinnuvika
 reconfigure s. endurstilla
 reconfiguration n. endurstilling
-dichotomy n. tvískipting
-councilman n. fulltrúi, ráðsmaður, borgarráðsmaður
+dichotomy n. tvískipting, skipting í tvennt
+dichotomize s. skipta í tvennt (á afgerandi hátt)
+dichotomized l. skiptur í tvennt, tvískiptur
+dichotomous l. tvískiptur, skiptur í tvennt, tvískiptingar-
+dichotomist n. sá sem skiptir í tvennt, tvískiptingarmaður
+dichotomization n. tvískiptingarvæðing, tvískiptingartilhneiging
+councilman n. fulltrúi, ráðsmaður, borgarráðsmaður, borgarfulltrúi
 in absentia ao. í fjarveru, að fjarstöddum (úr latínu)
 mea culpa uh. sökin er mín! (úr latínu)
 kindliness n. góðmennska, góðvild
-undocumented l. óskráður, óskjalaður
+undocumented l. óskráður, óskjalaður, óskjalfestur
 globalize s. hnattvæða, alþjóðavæða
 globalization n. hnattvæðing, alþjóðavæðing
 glamorous l. töfrandi, heillandi, ljómandi
 babysit s. passa börn
-babysitting n. barnapössun
-babysitter n. barnapía, barnapassari
+babysitting n. barnapössun, barnagæsla
+babysitter n. barnapía, barnfóstra, barnapassari, barnagæslumaður
 flatbread n. flatbrauð, flatkaka
 farmland n. ræktarland, ræktunarland, lendur sem henta til landbúnaðar
-fistfight n. hnefaleikar, slagsmál eða áflog með hnefum einum saman
+fistfight n. hnefaleikar, slagsmál eða áflog þar sem aðeins hnefum er beitt
 anonymously ao. á nafnlausan, ónafngreindan eða ónafngreinanlegan hátt
 walkway n. gangbraut, göngubrú, göngustígur
 graveyard n. kirkjugarður, grafreitur
@@ -3596,6 +3622,8 @@ authoritarianism n. valdboðsstefna (stjórnarfar sem einkennist af miðstýring
 neuromyopathy n. tauga- og vöðvakvilli
 ICBM n. langdrægt flugskeyti (stytt. á [intercontinental ballistic missile])
 eponym n. samnafn eða almennt heiti sem dregið er af sérnafni (t.d. %[geyser]%, dregið af Geysi)
+eponymy n. samnefni
+eponymous l. samnefndur
 Thomist n. fylgismaður heimspeki og/eða guðfræði Tómasar frá Akvínó
 Thomistic l. er varðar heimspeki eða guðfræði Tómasar frá Akvínó
 aphasia n. málstol, tjástol, orðglöp
@@ -3981,3 +4009,122 @@ catalytic l. hvetjandi-; efnahvarfs-; n. efnahvarfi
 psychosexual l. kynsálar-; [~ development] kynsálþróun
 counterfactual l. staðleysu-, staðlaus, óraunveruleika-, gegn staðreyndum; n. öfugmæli, staðleysa, setning sem fæst við óraunveruleika
 placelessness n. staðleysa
+inescapably ao. óflýjanlega, óhjákvæmilega
+understandably ao. skiljanlega
+strangely ao. undarlega, skringilega, furðulega
+predictably ao. fyrirsjáanlega
+blithely ao. glaðlega
+tastelessness n. bragðleysi; smekkleysi
+imperfectly ao. ófullkomnlega
+unperfectly ao. ófullkomnlega
+historiographical l. sagnaritunar-
+parakeet n. e.k. páfagaukur
+Ordovician n. ordóvisíum-tímabilið
+phagocyte n. átfruma
+statistically ao. tölfræðilega
+genetically ao. erfðafræðilega
+anthropologically ao. mannfræðilega
+handwoven l. handofinn
+impersonally ao. ópersónulega
+flexibly ao. sveigjanlega, á sveigjanlegan hátt
+context-free l. samhengisfrjáls, samhengislaus; [~ grammar] samhengisfrjáls málfræði
+theologically ao. guðfræðilega
+kayaker n. kajakræðari, kajakmaður
+adventurousness n. ævintýramennska, ævintýraþrá
+Huguenot n. húgenotti (franskur mótmælandi)
+sheepdog n. fjárhundur
+negatively ao. á neikvæðan hátt
+unequally ao. ójafnt, ójafnlega, á ójafnan hátt
+carefully ao. vandlega, varlega, gætilega
+undernourishment n. vannæring
+increasingly ao. í auknum mæli
+spear-thrower n. spjótkastari
+beating n. barsmíðar ([he took a ~])
+archenemy n. erkióvinur
+memoirist n. æviminningaritari
+war-weary l. stríðsþreyttur
+permanency n. varanleiki
+orchid n. orkídea, brönugras
+overproduce s. offramleiða, framleiða of mikið
+exceptionally ao. einstaklega, sérlega, einkar, með afbrigðum, fádæma
+prequel n. forleikur, forspil
+Taoism n. taóismi, daóismi (kínversk heimspeki og trúarbrögð)
+Taoist n. taóisti, daóisti
+Caledonia n. Kaledónía (fornrómverskt heiti yfir Skotland)
+Caledonian l. kaledónískur; n. Kaledóníumaður (sjá %[Caledonia]%)
+Adriatic n. Adríahaf (hafið milli Ítalíu- og Balkanskaga); l. adríatískur
+warmonger n. stríðsæsingamaður
+vulva n. kvensköp
+claustrophobia n. innilokunarfælni, öngfælni; innilokundarkennd
+claustrophobic l. innilokunarfælinn, öngfælinn; sem skapar innilokunarkennd
+Phoenicia n. Fönikía, Föníka (fornt veldi í Kananslandi)
+Phoenician l. fönískur, fönikískur; n. Fönikíumaður
+Peloponnese n. Pelópsskagi (skagi í Grikklandi)
+Peloponnesian l. Pelópsskaga-; [~ War] Pelópsskagastríðið
+Cretaceous n. krítartímabil; l. krítartímabils-
+exogamy n. útkvæni, útmægðir; útæxlun, óskyldraæxlun
+exogamous l. útkvæntur; útæxlaður (sjá %[exogamy]%)
+labyrinthine l. völundarhúss-, líkur völundarhúsi; flókinn
+statelet n. smáríki; lítið þjóðríki
+epigenetic l. umframerfða-
+epigenetically l. umframerfða-
+prenatal l. forburðar-, fyrir fæðingu
+Sparta n. Sparta (borgríki í Grikklandi til forna)
+Assyria n. Assyría (fornt stórveldi)
+Assyrian l. assyrískur; n. Assyríumaður; assyríska
+Britannia n. heiti Bretlands á tímum Rómverja; persónugerving Bretlands (stríðskona með þrífork og skjöld)
+decontextualize s. taka úr samhengi
+patrilocal n. karlbýli; l. karlbýlis- (þar sem kona býr með fjölskyldu karlsins)
+appurtenance n. fylgihlutur, fylgibúnaður; fylgiréttindi
+sclerotic l. herslis-, stirðnandi
+value-free l. gildislaus
+cronyism n. vinhygli, frændhygli
+germination n. spírun
+biogeography n. líflandafræði
+biogeographic l. líflandafræðilegur, líflandafræði-
+biogeographical l. líflandafræðilegur, líflandafræði-
+biogeographically ao. líflandafræðilega
+biocultural l. lífmenningarlegur
+ethology n. hátternisfræði, atferlisfræði
+ethologist n. hátternisfræðingur, atferlisfræðingur
+multilateralism n. marghliðunarhyggja, marghliðunarstefna; marghliða samvinna eða samræður
+overcapacity n. umframgeta, of mikil framleiðslugeta, umframframleiðslugeta
+taro n. þerrirót, taró
+meta-analysis n. safngreining, yfirgreining, samgreining
+neuroendocrine l. taugainnkirtla-
+neuroendocrinology n. taugainnkirtlafræði
+syllabary n. atkvæðatáknróf
+addressee n. viðtakandi; viðmælandi
+polyandry n. fjölveri (þegar kona á marga eiginmenn)
+polyandrous l. fjölveris- (sjá %[polyandry]%)
+intergenerational l. milli kynslóða, millikynslóða-
+Neanderthal n. Neanderdalsmaður (útdauð manntegund); l. Neanderdalsmanna-
+valence n. gildi eða gildistala (frumefnis)
+IQ n. greindarvísitala (stytt. á [intelligence quotient])
+cybercrime n. netglæpir
+fellatio n. tott, reðursog, munnmök
+warlordism n. stríðsherraveldi
+feminization n. kvengerving; kvenvæðing
+Russification n. rússavæðing
+Caucasus n. Kákasusfjöll; [in the ~] í Kákasusfjöllum
+Muscovite n. Moskvubúi, Moskvumaður; l. frá Moskvu, Moskvu-
+Finno-Ugric l. finnsk-úgrískur (tungumálaætt)
+abortionist n. fóstureyðir, e-r sem framkvæmir fóstureyðingar
+biomolecular l. lífsameinda-
+archaeologically ao. fornleifafræðilega
+demilitarization n. afvopnun
+stupidification n. heimskun, heimskuvæðing
+chronologically ao. í tímaröð, raðað eftir tímasetningu
+sedentism n. kyrrseta, föst búseta
+overspecialization n. of mikil sérhæfing
+counterevidence n. gagnstæð eða andstæð sönnungargögn, sönnunargögn sem sýna hið gagnstæða
+bric-a-brac n. glingur, drasl, ómerkilegir munir
+blitheness n. glaðværð; blíða
+habilitation n. hæfing
+disinvestment n. eignalosun, að draga til baka fjárfestingar
+groundskeeper n. húsvörður, landvörður, umsjónarmaður
+# multipolar
+# multipolarity
+# unipole
+# unipolar
+# unipolarity

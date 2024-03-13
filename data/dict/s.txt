@@ -1814,7 +1814,7 @@ sparrow hawk n. spörhaukur
 sparry l. sem líkist spati (sbr. %[spar]%)
 sparse l. dreifður, strjáll, gisinn
 sparsely ao. strjált, dreift
-Spartan l. spartverskur ([~ simplicity, ~ endurance, ~ discipline])
+Spartan l. spartverskur, spartverjalegur ([~ simplicity, ~ endurance, ~ discipline]); n. Spartverji
 spasm n. krampi, krampaflog, sinadráttur, sinateygja; hviða ([a ~ of coughing])
 spasmodic l. krampakenndur; sem gerist í rykkjum ([~ efforts]); n. krampalyf
 spat n. hrogn skelfiska
@@ -1859,7 +1859,7 @@ spectator n. áhorfandi
 spectral l. vofulegur; litrófslegur, ljósbrotslegur
 spectre n. vofa, draugur
 spectroscope n. litsjá, ljóskönnuður
-spectrum n. litróf, ljósband, ljósbrotslitur; [~ analysis] litrófskönnun
+spectrum n. róf; litróf, ljósband, ljósbrotslitur; [~ analysis] litrófskönnun
 specular l. spegilfagur, spegilsléttur
 speculate s. hugsa, brjóta heilann (um [upon, as to]); kaupa vörur í von um verðhækkun og ábatasama sölu ([~ in stocks])
 speculation n. heilabrot, umhugsun; gróðafyrirtæki; gróðabrall
@@ -3123,7 +3123,7 @@ swipe n. mikið högg; s. slá mikið högg
 swirl s. þyrla(st), hringsnúa(st); n. hringiða, iðukast
 swish s. lemja með vendi, spansreyr eða tág; láta hvína, smella; n. högg, skellur; þytur, niður, gjálfur ([the ~ of the waves])
 Swiss l. svissneskur; n. Svisslendingur
-switch n. tág; s. slá, berja (með tág); breyta ([~ one's conduct])
+switch n. rofi; skipti; tág; s. skipta; breyta; víxla; [~ on/off] kveikja, slökkva á; slá, berja (með tág)
 swivel n. sigurnagli; s. snúast (á ásenda)
 swob s. sjá %[swab]%
 swollen l. bólginn, þrútinn (sbr. %[swell]%)
@@ -3131,10 +3131,10 @@ swoon s. líða (falla) í ómegin; [she ~ed] það leið yfir hana; n. ómegin,
 swooning n. yfirlið
 swoop s. steypa sér ofan á (um ránfugl); hremma, grípa; n. snögg árás; högg ([at a ~])
 swop s. sjá %[swap]%
-sword n. sverð; [to put to the ~] höggva (menn) niður
+sword n. sverð; [to put to the ~] höggva (menn) niður, drepa
 sword-cutler n. sverðasmiður
 swordfish n. sverðfiskur
-sword hand n. hægrihönd
+sword hand n. hægri hönd
 swordplay n. skylmingar
 swordplayer n. skylmingamaður
 swordsman n. bardagamaður; skylmingamaður
@@ -3146,10 +3146,10 @@ sycophancy n. smjaður
 sycophant n. smjaðrari, höfðingjasleikja; s. smjaðra fyrir e-m
 syenite n. sýenít (steintegund sem líkist granít)
 syllabic l. samstöfulegur
-syllabically ao. eftir samstöfum
-syllabicate s. skipta í samstöfur
-syllabify s. skipta í samstöfur
-syllable n. samstafa, atkvæði
+syllabically ao. eftir samstöfum, atkvæðum
+syllabicate s. skipta í samstöfur, atkvæði
+syllabify s. skipta í samstöfur, atkvæði
+syllable n. atkvæði, samstafa
 syllabus n. efnisyfirlit, ágrip, útdráttur
 syllogism n. skynsemisályktun
 syllogistic l. sem lýtur að skynsemisályktunum

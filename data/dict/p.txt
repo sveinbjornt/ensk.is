@@ -743,7 +743,7 @@ personalty n. lausafé
 personate s. líkja eftir (e-m), taka á sig gervi annars; þykjast (látast) vera (annar); leika (í leikriti)
 personation n. eftirlíking, eftirmynd; persónugerving
 personification n. persónugerving
-personify s. íklæða dauðan hlut eða hugmynd persónuleika, gera að persónu
+personify s. gera að persónu, íklæða dauðan hlut eða hugmynd persónuleika
 perspective l. gagnsælegur; n. sjónarhorn; fjarsýni, gagnsýni, innsýni
 perspicacious l. glöggskyggn, skarpskyggn; hvasseygur
 perspicaciousness n. glöggskyggni, skarpskyggni
@@ -1413,7 +1413,7 @@ poly- fsk. marg-, fjöl-
 polychromatic l. marglitur, fjöllita
 polygamist n. fjölkvænismaður
 polygamous l. fjölkvænislegur
-polygamy n. margkvæni, fjölkvæni
+polygamy n. fjölkvæni, margkvæni
 polyglot l. fjöltungu-, sem er á mörgum málum ([a ~ dictionary]); n. tungumálamaður, fjöltyngdur maður; bók sem rituð er á mörgum málum
 polygon n. marghyrningur
 polyhedron n. marghliðungur

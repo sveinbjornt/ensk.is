@@ -76,13 +76,13 @@ abolish s. eyða, útrýma
 abolishable l. eyðanlegur
 abolishment n. eyðing; afnám
 abolition n. eyðing; afnám (þrælaverslunarinnar)
-abolitionist n. formælandi þrælaverslunarafnáms
+abolitionist n. formælandi þrælaverslunarafnáms, þrælahaldsandstæðingur; afnámssinni
 abominable l. andstyggilegur
 abominate s. hafa andstyggð á
 abomination n. andstyggð, viðbjóður, svívirðing
 aboriginal l. frumlegur, frum-; n. frumbyggi
 aborigines n. ft. frumbyggjar
-abort s. leysast höfn, fæða of snemma, eyða fóstri, hætta við
+abort s. hætta við; leysast höfn; eyða fóstri
 abortion n. fóstureyðing, þungunarrof, vanfæðing, ótímabær burður
 abortive l. árangurslaus, misheppnaður
 abound s. vera nógur; vera auðugur (fullur) af ([in, with])
@@ -1238,8 +1238,8 @@ appraiser n. matsmaður, virðingarmaður
 appraisor n. matsmaður, virðingarmaður
 appreciable l. sjáanlegur, merkjanlegur, eftirtakanlegur
 appreciate s. meta, virða; gera verðmeiri; vaxa í verði
-appreciation n. mat; verðhækkun
-appreciative l. metandi
+appreciation n. mat; þakklæti; verðhækkun
+appreciative l. metandi; þakklátur
 apprehend s. taka fastan; verða var við; sjá, skilja; óttast
 apprehensible l. skiljanlegur
 apprehension n. handsömun; skilningur; ótti, kvíði; [quick of ~] skilningsgóður, næmur (tornæmur)
@@ -1248,7 +1248,7 @@ apprentice n. lærlingur, iðnnemi, kennslupiltur; viðvaningur; s. koma fyrir (
 apprenticeship n. nám; námstími; námsvist
 apprise s. láta vita
 apprize s. virða, meta
-approach s. færast nær, nálgast; n. nálgun; innsigling; aðgangur
+approach s. nálgast, færast nær; n. nálgun; innsigling; aðgangur
 approachable l. sem komist verður að, sem hægt er að nálgast ([~ by boat])
 approachless l. sem eigi verður komist að
 approbation n. staðfesting ([to receive the royal ~]); samþykki ([by ~ of]); hrós
@@ -1260,10 +1260,10 @@ approval n. samþykki
 approve s. samþykkja, fallast á ([~ of]); sýna, sanna, staðfesta; [~ oneself] reynast, vera
 approved l. viðurkenndur
 approximate l. líkur; nálega réttur; s. færa nær; nálgast ([~ to])
-approximately ao. nálega, nokkurn veginn
+approximately ao. um það bil, nokkurn veginn, nálega
 approximation n. nálgun
-appurtenances n. ft. áhöld, tæki; allt, sem fylgir
-appurtenant l. tilheyrandi
+appurtenances n. ft. allt sem fylgir, fylgihlutir, fylgibúnaður; áhöld, tæki
+appurtenant l. tilheyrandi, meðfylgjandi, fylgi-
 apricot n. apríkósa (aldin)
 April n. aprílmánuður
 a priori ao. að óreyndu, á undan, fyrir fram (úr latínu)

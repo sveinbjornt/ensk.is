@@ -564,8 +564,8 @@ challengeable l. sem má véfengja
 chalybeate l. járnkynjaður, járnblandinn
 chamber n. (svefn)herbergi; þingdeild, málstofa; [~ counsel] lögfræðilegur ráðunautur
 chamberlain n. herbergjastjóri konungs
-chambermaid n. þjónustustúlka, sem gætir svefnherbergja
-chamberpot n. næturgagn
+chambermaid n. þjónustustúlka sem gætir svefnherbergja
+chamberpot n. næturgagn, hlandpottur
 chameleon n. kameljón (eðlutegund sem skiptir mjög litum)
 chamfer s. hola; gera holrákir á (súlu); höggva (slípa) brún af; n. holrák á súlu
 chamois n. gemsa; þvottleður
@@ -1204,13 +1204,13 @@ cocksy l. hreykinn, montinn
 cocksure l. alveg viss, í engum vafa (um [of]); fullviss (um [of])
 cocktail n. kokteill (e.k. áfengur drykkur); hestur með stýfðu tagli
 cocky l. hreykinn, montinn
-cocoa n. kakópálmi; kakóduft, kakó
+cocoa n. kakó, kakóduft; kakópálmi
 cocoon n. lirfuhýði, silkiormshýði; s. spinna hýði um sig
 coction n. suða
 cod n. þorskur; [dried ~] þurrkaður saltfiskur; s. veiða þorsk; [go ~ding] fara á þorskveiðar
 codfish n. þorskur
 coddle s. hlúa að, dekra fyrir ([~ up]); sjóða (við hægan eld)
-code n. kóði, lögbók, lagabók
+code n. kóði; lögbók, lagabók; táknróf
 codicil n. viðauki við arfleiðsluskrá
 codification n. niðurskipun laga í lögbók, lagasamsteypa
 codify s. skipa lögum í lögbók, steypa saman lögum í einn bálk; koma föstu skipulagi á
@@ -1654,7 +1654,7 @@ conclude s. enda; álykta; gera (samning); ákveða, fastráða
 conclusion n. endir; niðurstaða; ályktun; samning ([~ of peace]); [in ~] að lyktum
 conclusive l. sem gerir út um, ræður úrslitum; sannfærandi
 concoct s. sjóða saman, brugga
-concoction n. tilbúningur
+concoction n. samsuða, tilbúningur, brugg
 concomitant l. samfarandi; n. samfari, förunautur
 concord n. samlyndi; sætt; samræmi
 concordance n. samhljóðan
