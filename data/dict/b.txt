@@ -13,7 +13,7 @@ bacchanals n. ft. óhemjulegt (drykkju)svall, orgía
 bacchanalian l. svallsamur, orgíu-; n. slarkari
 bacchant n. Bakkusardýrkandi
 bacchante l. Bakkynja
-bachelor n. kandídat ([~ of arts, science]); ókvæntur maður
+bachelor n. ókvæntur maður, piparsveinn, einhleypingur; kandídat ([~ of arts, science])
 back n. bak, hryggur; bakflötur; bakki (á hníf); kjölur (á bók); [~ of the hand] handarbak; ao. aftur; aftur á bak; til baka; [some years ~] fyrir nokkrum árum; s. hjálpa, verja; ýta (færa) aftur á bak; fara aftur á bak; [~ a sail] setja segl upp í vindinn; [~ out] fara aftur á bak ([~ out of the room])
 backbite s. rægja
 backbiter n. rógberi
@@ -395,7 +395,7 @@ beldame n. roskin kona; kvenskass; kvenvargur
 beleaguer s. sitja (setjast) um (borg)
 beleaguerment n. umsát
 belfry n. klukkuturn; umsátursturn (á miðöldum), sjá %[siege tower]%
-Belgian l. belgískur
+Belgian l. belgískur; n. Belgi
 Belgium n. Belgía
 belie s. ljúga á e-n, rægja; ósanna (t.d. orð e-s); bregðast e-u, svíkja ([~ one's promise])
 belief n. trú (á e-ð [in]); átrúnaður, skoðun
@@ -411,7 +411,7 @@ bellfounder n. klukkusteypari
 bellrope n. klukkustrengur
 bellwether n. forustusauður
 belle n. fríðleikskona
-bellicose l. herskár
+bellicose l. herskár, hernaðargjarn, ófriðsamur
 belligerent l. herskár; sem á í ófriði ([the ~ parties]); hernaðar-; n. þjóð sem á í ófriði
 bellow s. belja, öskra; drynja; n. öskur, drunur
 bellows n. smiðjubelgur, blástursbelgur ([a pair of ~])
@@ -649,7 +649,7 @@ blackfriar n. svartmunkur
 blackguard n. bófi, þorpari
 blackguardly l. þorparalegur
 blackletter n. gotneskt letur
-blackmail n. nauðungargjald, nauðungarskattur; s. kúga fé af e-m
+blackmail n. fjárkugun, nauðungargjald, nauðungarskattur; s. kúga fé af e-m
 black pudding n. blóðmör
 blacksmith n. járnsmiður
 blacken s. sverta; sortna

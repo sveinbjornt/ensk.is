@@ -588,7 +588,7 @@ enlace s. vefja; flétta
 enlarge s. færa út ([~ his territories, the boundaries]); stækka, víkka; auka; láta lausan; aukast, vaxa; fjölyrða (um [on, upon])
 enlargement n. stækkun; víkkun; málalenging; lausn (úr varðhaldi)
 enlighten s. kasta birtu á; fræða; upplýsa
-enlightenment n. fræðsla, upplýsing; [the Enlightenment] upplýsingin á 18. öld, upplýsingaröld
+enlightenment n. upplýsing; fræðsla; [the Enlightenment] upplýsingin á 18. öld, upplýsingaröld
 enlink s. tengja (við [to, with])
 enlist s. ráða til herþjónustu; taka í þjónustu sína; skipa í flokk; ganga (ráða sig) í herþjónustu
 enlistment n. ráðning til herþjónustu
@@ -755,7 +755,7 @@ epitaph n. grafletur
 epithalamium n. brúðkaupskvæði, brúðkaupsljóð
 epithet n. lýsingarorð, kenninafn; s. nefna (kenninafni)
 epitome n. ágrip, útdráttur, meginkjarni, samantekt; fullkomið dæmi
-epitomize s. semja ágrip af; segja stuttlega frá; vera fullkomið dæmi um
+epitomize s. vera fullkomið dæmi um; semja ágrip af; segja stuttlega frá
 epoch n. tímaskipti; nýtt tímabil ([to make an ~])
 epode n. epóda (e.k. kvæði)
 epopee n. söguljóð

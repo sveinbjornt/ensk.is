@@ -25,18 +25,18 @@ cadger n. varningsmaður; götusali; beiningamaður
 cadi n. dómari (hjá Tyrkjum og Aröbum)
 caecum n. botnlangi
 caftan n. tyrkneskur kyrtill
-cage n. búr; fuglabúr; s. inniloka; setja (fugl) í búr
+cage n. búr; fuglabúr; s. inniloka;s setja í búr
 cairn n. steindys, varða
 caisson n. hergagnavagn
 caitiff n. níðingur, ódrengur
 cajole s. smjaðra fyrir; lokka (út úr [out of])
 cajoler n. smjaðrari
-cajolement n. fagurgali, smjaður
+cajolement n. smjaður
 cajolery n. fagurgali, smjaður
 cake n. kaka; s. storkna, harðna (einnig [~ together])
 calabash n. grasker (ávöxtur, einnig skurnin af ávextinum, sem má nota sem ílát)
 calamitous l. skaðlegur, óheillavænlegur
-calamity n. stórslys, mikil ógæfa
+calamity n. stórslys, hörmungar, mikil ógæfa
 calash n. skyggnisvagn; vagnskyggni; kvenhetta
 calcareous l. kalkborinn, kalkkenndur ([~ shell, ~ earth])
 calcify s. breyta(st) í kalk
@@ -90,7 +90,7 @@ calyx n. blómsturbikar
 cambist n. víxlakaupmaður, víxlari
 cambric n. e.k. hvítt léreft ([linen ~])
 camel n. úlfaldi
-cameleer n. úlfaldareki
+cameleer n. úlfaldareki, úlfaldahirðingi
 camelopard n. gíraffi
 cameo n. gimsteinn með upphleyptum myndum
 camomile n. kamilla, kryddbaldursbrá (jurt)
@@ -98,7 +98,7 @@ camp n. tjaldstaður; herbúðir; s. liggja í herbúðum; setja herbúðir; [~ 
 campaign n. herferð; s. vera í herþjónustu
 campaigner n. gamall hermaður
 campbed n. ferðarúm, beddi
-camphor n. kamfóra; [~ essence] kamfórudropar
+camphor n. kamfóra; [~ oil] kamfóruolía; [~ essence] kamfórudropar
 camphorated l. kamfóru- ([~ oil])
 can n. kanna; dós
 can s. get; aðeins haft í nútíð og þátíð ([I can, I could])

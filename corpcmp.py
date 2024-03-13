@@ -6,6 +6,8 @@
 # TODO: Work directly on epubs instead of text files
 #
 
+import re
+
 from nltk.stem import PorterStemmer
 from nltk.tokenize import sent_tokenize, word_tokenize
 
@@ -34,11 +36,17 @@ dict_words = [e["word"].lower() for e in res]
 words = word_tokenize(corpus)
 ps = PorterStemmer()
 for w in words:
-    # rootWord = ps.stem(w)
-    if w.endswith("ing") or w.endswith("ed"):
-        continue
+    w = re.sub("\d+$", "", w)
     if w.endswith("."):
         w = w[:-1]
+    if w.endswith("…"):
+        w = w[:-1]
+    if w.endswith("ing") or w.endswith("ed"):
+        continue
+    if w.endswith("s"):
+        n = w[:-1]
+        if n in dict_words or n.lower() in dict_words:
+            continue
 
     lemma = lemmatizer.lemmatize(w)
     llow = lemma.lower()

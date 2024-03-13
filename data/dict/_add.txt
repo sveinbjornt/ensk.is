@@ -649,6 +649,7 @@ Chad n. Tsjad
 Chile n. Chile, Síle
 Christmas Island n. Jólaey
 Colombia n. Kólumbía
+Colombian l. kólumbískur; n. Kólumbíumaður, Kólumbíubúi
 Comoros n. Kómoreyjar
 Congo n. Kongó
 Costa Rica n. Kosta Ríka
@@ -708,6 +709,7 @@ Italy n. Ítalía
 Jamaica n. Jamaíka
 Jersey n. Jersey
 Jordan n. Jórdanía
+Jordanian l. jórdanskur; n. Jórdani
 Kazakhstan n. Kasakstan
 Kenya n. Kenía
 Kiribati n. Kíribatí
@@ -828,6 +830,7 @@ Uzbekistan n. Úsbekistan
 Vanuatu n. Vanúatú
 Vatican n. Vatíkanið í Róm
 Venezuela n. Venesúela
+Venezuelan l. venesúelskur; n. Venesúelabúi, Venesúelabúi
 Vietnam n. Víetnam
 Vietnamese l. víetnamskur; n. Víetnami; víetnamska
 Western Sahara n. Vestur-Sahara
@@ -933,6 +936,8 @@ europium n. evrópín, evrópíum (frumefni)
 californium n. kalifornín, kaliforníum (frumefni)
 manganese n. mangan (frumefni)
 vanadium n. vanadín, vanadíum (frumefni)
+strontium n. strontín, strontíum (frumefni)
+cesium n. sesín, sesíum (frumefni)
 Buddhism n. búddismi (austurlensk trúarbrögð)
 Buddhist n. búddisti (sjá %[Buddhism]%); l. búddista-
 Copt n. sjá %[Coptic]%
@@ -2334,7 +2339,7 @@ evilness n. illska, vonska
 artificiality n. gervileiki, gervimennska
 uncritical l. ógagnrýninn, óaðfinningasamur; óskarpskyggn (í dómum); sjá %[critical]%
 Cyrillic l. kyrillískur; [~ letters, alphabet] kyrillískt letur, stafróf
-extralegal l. utan (ramma) laganna, utakerfisins
+extra-legal l. utan (ramma) laganna, utan lagakerfisins
 hashtag n. myllumerki, kassamerki (#)
 environmentalist n. umhverfisverndarsinni, umhverfisverndarmaður; umhverfisfræðingur
 environmentalism n. umhverfisverndarstefna, umhverfisstefna, umhverfishyggja
@@ -3469,6 +3474,7 @@ insouciant l. áhyggjulaus, kærulaus, afskiptalaus
 insouciance n. áhyggjuleysi, kæruleysi, afskiptaleysi
 necrophilia n. mök við lík; náfíkn, náfrygð
 necrophilism n. náfrygð
+necrophilic l. náfrygðar-
 necrophile n. sjá %[necrophiliac]%
 necrophiliac n. náriðill, e-r sem á mök við lík
 tinnitus n. eyrnasuð
@@ -4123,8 +4129,55 @@ blitheness n. glaðværð; blíða
 habilitation n. hæfing
 disinvestment n. eignalosun, að draga til baka fjárfestingar
 groundskeeper n. húsvörður, landvörður, umsjónarmaður
-# multipolar
-# multipolarity
-# unipole
-# unipolar
-# unipolarity
+sequoia n. rauðviður
+rhapsodic l. íburðarmikill, málskrúðsmikill
+lamppost n. ljósastaur
+electrician n. rafvirki
+militaristic l. hernaðarlegur, hernaðar-, herveldis-, herveldislegur
+class-consciousness n. stéttarvitund, stéttarmeðvitund
+mercilessly ao. miskunnarlaust, án miskunnar
+unprintable l. óprentanlegur
+bookshelf n. bókahilla
+Filipino n. Filippseyingur, Filippseyjamaður; l. filippseyskur; filippseyska
+York n. Jórvík (borg í Norður-Englandi)
+abnormally ao. óeðlilega, afbrigðilega, óvenjulega
+informally ao. óformlega
+valkyrie n. valkyrja
+blackmailer n. fjárkúgari
+cactus n. kaktus
+measurably ao. mælanlega
+immeasurably ao. ómælanlega
+think-tank n. hugveita
+playroom n. leikherbergi
+candle-glow n. kertaljómi
+stupidly ao. heimskulega
+postcode n. póstnúmer
+vice-chancellor n. varakanslari
+filmmaker n. kvikmyndagerðarmaður
+filmmaking n. kvikmyndagerð
+rollercoaster n. rússíbani
+tax-free l. skattfrjáls, tollfrjáls, undanþeginn skatti
+interbellum l. milli stríða, millistríðs-
+recording n. upptaka, hljóðrit
+asbestos n. asbest
+shockwave n. höggbylgja
+theologist n. guðfræðingur
+push-up n. armbeygja
+Hollander n. Hollendingur
+raindrop n. regndropi
+landmine n. jarðsprengja
+self-doubt n. sjálfsefi
+hypnosis n. dáleiðsla
+warmly ao. hlýlega
+lab n. stytt. á %[laboratory]%
+pheromone n. ferómón
+impossibly ao. ómögulega
+burger n. sjá %[hamburger]%
+seatbelt n. sætisbelti
+suspiciously ao. grunsamlega
+flatscreen n. flatskjár
+pretense n. sjá %[pretence]%
+unnavigable l. óskipgengur ([the river was ~])
+nymphomania n. vergirni, óvenju mikil kynhvöt konu
+nymphomaniac n. vergjörn kona, kona með óvenju mikla kynhvöt
+technocentric l. tæknimiðaður
