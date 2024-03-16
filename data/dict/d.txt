@@ -1597,7 +1597,7 @@ drawn l. [~ battle] jöfn orusta; [a ~ game] jafntefli; [a ~ butter] bráðið (
 dray n. áburðarvagn; ölvagn ([~-cart]); n. ölvagnsstjóri
 dread n. hræðsla, ótti; l. hræðilegur, ógurlegur; s. hræðast, óttast
 dreadful l. hræðilegur, skelfilegur
-dreadnought l. óttalaus; n. þykkur ullardúkur; bryndreki (feiknarstórt herskip)
+dreadnought n. feiknarstórt herskip; þykkur ullardúkur; l. óttalaus
 dream n. draumur; s. dreyma
 dreamer n. draummaður
 dreamery n. draumórar

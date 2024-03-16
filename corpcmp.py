@@ -36,7 +36,7 @@ dict_words = [e["word"].lower() for e in res]
 words = word_tokenize(corpus)
 ps = PorterStemmer()
 for w in words:
-    w = re.sub("\d+$", "", w)
+    w = re.sub(r"\d+$", "", w)
     if w.endswith("."):
         w = w[:-1]
     if w.endswith("…"):

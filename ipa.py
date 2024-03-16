@@ -658,6 +658,13 @@ SKIP = frozenset(
         "preindustrial",
         "Anatolia",
         "tsardom",
+        "cucurbit",
+        "landlessness",
+        "mapmaking",
+        "postindustrial",
+        "steam-driven",
+        "Taylorization",
+        "Taylorize",
     )
 )
 

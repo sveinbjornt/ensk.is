@@ -46,7 +46,9 @@ television n. sjónvarp; sjónvarpstæki
 garage n. bílskúr
 speedometer n. hraðamælir
 astrophysics n. stjarneðlisfræði
+astrophysicist n. stjarneðlisfræðingur
 geophysics n. jarðeðlisfræði
+geophysicist n. jarðeðlisfræðingur
 theoretical physics n. fræðileg eðlisfræði
 astronaut n. geimfari
 cosmonaut n. geimfari
@@ -225,6 +227,7 @@ typically ao. dæmigert; yfirleitt
 viagra n. víagra (stinningarlyf)
 ninja n. ninja (e.k. japanskur launmorðingi)
 quantum mechanics n. ft. skammtafræði
+quantum mechanical l. skammtafræðilegur
 quantum computer n. skammtatölva
 quantum computing n. skammtareikningur, skammtatölvun; skammtatölvunarfræði
 pantyhose n. sokkabuxur
@@ -607,6 +610,7 @@ Algerian l. alsírskur, frá Alsír; n. Alsíringur, Alsírbúi
 American Samoa n. Bandaríska Samóa
 Andorra n. Andorra
 Angola n. Angóla
+Angolan l. angólskur; n. Angólamaður, Angólabúi
 Antarctica n. Suðurskautslandið (heimsálfa)
 Argentina n. Argentína
 Argentinian l. argentínskur, frá Argentínu; n. Argentínumaður
@@ -828,6 +832,7 @@ Syrian l. sýrlenskur; n. Sýrlendingur
 Taiwan n. Taívan
 Tajikistan n. Tadsjikistan
 Tanzania n. Tansanía
+Tanzanian l. tansanískur; n. Tansani, Tansaníubúi
 Thailand n. Taíland
 Thai l. taílenskur; n. Taílendingur
 Timor-Leste n. Austur-Tímor
@@ -1988,6 +1993,7 @@ rapist n. nauðgari
 legalization n. lögleiðing
 peanut n. jarðhneta
 peanut butter n. hnetusmjör
+groundnut n. jarðhneta
 pharmacological l. lyfjafræðilegur
 neurosurgeon n. taugaskurðlæknir
 neuropsychologist n. taugasálfræðingur
@@ -1999,6 +2005,7 @@ autobiographical l. sjálfsævisögulegur
 coconut n. kókoshneta
 leukemia n. hvítblæði
 underestimate s. vanmeta; vantelja
+underestimation n. vanmat
 professionalism n. fagmennska, atvinnumennska
 chimp n. simpansi (stytt. á %[chimpanzee]%)
 horticulturalist n. sjá %[horticulturist]%
@@ -2008,6 +2015,7 @@ sunflower n. sólblóm
 saltwater n. saltvatn
 dreamlike l. draumkenndur, draumi líkur
 unscientific l. óvísindalegur
+unscientifically ao. óvísindalega
 lightbulb n. ljósapera
 demonic l. djöfullegur; [~ possession] andsetning, djöfulæði
 megalomania n. mikilmennskubrjálæði, stórmennskubrjálæði
@@ -2019,6 +2027,7 @@ unmistakeable l. sjá %[unmistakable]%
 quinoa n. kínóa, hélunjólafræ
 chickpea n. kjúklingabaun
 cassava n. kassava, kassavarót
+manioc n. kassava, kassavarót
 basketry n. körfugerð
 potbelly n. ístra, bumba
 soapstone n. kléberg
@@ -2807,6 +2816,8 @@ bedbug n. veggjalús
 traceability n. rekjanleiki
 craftspeople n. ft. iðnaðarmenn, iðnaðarfólk
 microbiology n. örverufræði
+microbiological l. örverufræðilegur
+microbiologist n. örverufræðingur
 defoliate s. aflaufga
 desertification n. landeyðing, eyðimerkurmyndun
 superhero n. ofurhetja
@@ -2907,6 +2918,7 @@ footballer n. knattspyrnumaður, fótboltamaður; knattspyrnukona, fótboltakona
 cameraman n. myndatökumaður, tökumaður; ljósmyndari
 oceanography n. haffræði
 oceanographer n. haffræðingur
+oceanographic l. haffræðilegur
 oceanographical l. haffræðilegur
 oceanographically ao. haffræðilega
 calfskin n. kálfskinn, kálfsskinn
@@ -3349,6 +3361,7 @@ droplet n. smádropi
 globetrotter n. heimshornaflakkari
 Balkan l. Balkanskaga-, Balkanlanda-; balkanskur, frá Balkanskaga
 Balkans n. ft. Balkanskagi, Balkanlönd ([the ~])
+reinterpret s. endurtúlka, endurþýða
 reinterpretation n. endurtúlkun, endurþýðing (sjá %[interpretation]%)
 mindset n. hugarfar
 interplay n. samspil ([the ~ between opposing factions])
@@ -3735,6 +3748,8 @@ chloride n. klóríð
 hyperspecialization n. ofursérhæfing
 Taylorism n. taylorismi (verkstjórnun sem byggist á nákvæmum mælingum framleiðsluþátta)
 Taylorist n. fylgismaður taylorisma (sjá %[Taylorism]%)
+Taylorize s. innleiða taylorisma (sjá %[Taylorism]%)
+Taylorization n. innleiðing taylorisma (sjá %[Taylorism]%)
 barbiturate n. barbitúrat (efni leitt af barbitúrsýru)
 landmass n. landflæmi; meginland
 deregulation n. afregluvæðing, afnám reglugerða
@@ -4215,6 +4230,7 @@ clickbait n. smellbeita
 shallows n. ft. grynningar, grynning
 hyperspace n. stiklurými
 preindustrial l. fyrir iðnbyltingu
+postindustrial l. eftir iðnbyltingu
 bicycling n. hjólreiðar
 self-enhancement n. sjálfshafning
 tsardom n. keisaradæmi; keisaratign
@@ -4225,3 +4241,31 @@ boilerplate n. fastatexti, geymdur texti (texti sem er notaður ítrekað í mö
 ammonium n. ammóníum
 colophon n. baktitill
 quantifiable l. mælanlegur
+devilishly ao. djöfullega
+needlessly ao. óþarflega, að óþörfu
+mapmaking n. kortagerð
+mapmaker n. kortagerðarmaður
+considerably ao. talsvert
+steam-driven l. gufuknúinn
+dollhouse n. dúkkuhús
+mycology n. sveppafræði
+mycologist n. sveppafræðingur
+cucurbit n. kúrbítur; grasker
+preferably ao. helst
+genotype n. arfgerð, erfðafar
+pharmacopoeia n. lyfjabók, lyfjaskrá
+iatrogenic l. meðferðartengdur, af læknisvöldum, af völdum læknismeðferðar
+schoolgirl n. skólastelpa, skólastúlka
+undercount s. vantelja
+painstakingly ao. vandlega
+city-dweller n. borgarbúi
+bitterly ao. biturlega
+aborigine n. frumbyggi
+transvestite n. klæðskiptingur
+grayish l. gráleitur, ígrár
+cantaloupe n. e.k. melóna
+blunderbuss n. e.k. gamaldags byssa, framhlaðningur
+animism n. andatrú, sálnatrú
+landlessness n. landleysi
+Tibet n. Tíbet
+Tibetan l. tíbeskur; n. Tíbeti
