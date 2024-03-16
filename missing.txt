@@ -210,7 +210,6 @@ garderobe
 agog
 ephebophilia
 ephebophile
-hyperspace
 cracker
 hack
 wi-fi
@@ -612,7 +611,6 @@ manic
 knitter
 doomed
 romanticize
-bicycling
 coincidental
 maneuver
 jogging
@@ -813,7 +811,6 @@ unassailable
 assailable
 redaction
 precondition
-preindustrial
 exterminatory
 redistribute
 knowledgeable
@@ -1391,7 +1388,6 @@ renegotiation
 rooftop
 neurodivergent
 neurodivergence
-quantifiable
 fieldwork
 evolutionist
 territoriality
@@ -2074,7 +2070,6 @@ decile
 sneaker
 prosecutorial
 constitutionality
-colophon
 systematizer
 nettlesome
 prickliness
@@ -2852,7 +2847,6 @@ tween
 ponce
 matinee
 dactylography
-shallows
 cataphile
 subitization
 wannabe
@@ -3020,8 +3014,6 @@ resource-poor
 de facto
 strappado
 trans-
-et cetera
-etc
 positivistic
 tribalism
 suprahistorical
@@ -3129,7 +3121,6 @@ separately
 double-park
 universalistic
 nonlinear
-self-enhancement
 overconfidence
 misperception
 ineptness
@@ -3294,7 +3285,6 @@ harmoniousness
 gratefully
 generously
 famously
-Anatolia
 phlegmatism
 paradisiacal
 rosewood
@@ -3347,7 +3337,6 @@ khanate
 kowtow
 reaffirm
 Solomonic
-tsardom
 pressurize
 depressurize
 exceptionalist
@@ -3362,7 +3351,6 @@ exclusiveness
 unalike
 workingman
 credo
-secretaryship
 wastrel
 scug
 glorifier
@@ -3414,7 +3402,6 @@ impressionistic
 sangfroid
 poorhouse
 manservant
-anarchistic
 hardbitten
 sunburst
 cabalist
@@ -3451,7 +3438,6 @@ bifocal
 Sodom
 billiard
 containable
-pornographic
 Aphrodite
 doyenne
 chinchilla
@@ -3539,8 +3525,6 @@ horsefly
 annunciatory
 unctuousness
 hagiology
-plowshare
-whisperer
 eyepatch
 superficially
 thumbscrew
@@ -3558,7 +3542,6 @@ wistfulness
 Thatcherism
 voiceover
 relaunch
-pollster
 flip-flop
 precarity
 minarchy
@@ -3589,20 +3572,16 @@ disillusioning
 levelheadedness
 restrained
 floodwater
-toxicology
-toxicologist
 psychogenic
 desensitize
 desensitized
 desensitization
 newsworthiness
-clickbait
 cliffside
 parasitoid
 clobber
 outscore
 organically
-piglet
 droopy
 ultrasocial
 quintessentially
@@ -3635,7 +3614,6 @@ anytime
 misfire
 clincher
 wiretap
-physiologically
 surprisingly
 breaktime
 muppet
@@ -3643,7 +3621,6 @@ crosswalk
 nocebo
 loudmouth
 sociopathological
-shamelessness
 dupery
 crackpot
 billable
@@ -3674,7 +3651,6 @@ Hasidic
 oxymoronic
 thankfully
 selectively
-dehumanize
 sui generis
 diplomatically
 importantly
@@ -3725,3 +3701,5 @@ unconditionally
 cleverly
 battlefront
 impulsiveness
+tangential
+tangentially

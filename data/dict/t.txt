@@ -92,8 +92,7 @@ tan s. súta; gera sólbrenndan (útitekinn); barka (segl); sútast ([leather ~s
 tanhouse n. sútunarhús
 tanyard n. sútaragarður
 tandem n. tvíhjólaður vagn með tveim hestum fyrir; reiðhjól fyrir tvo eða þrjá; ao. hver (hvor) á eftir öðrum ([sledges drawn by three horses in ~])
-tang n. bragð, óbragð; hnissubragð; þefur; keimur
-tang n. tangi (á hníf, sverði, þjöl, ljá o.s.frv.); þang ([sea ~])
+tang n. bragð, óbragð; hnissubragð; þefur; keimur; tangi (á hníf, sverði, þjöl, ljá o.s.frv.); þang ([sea ~])
 tangency n. snortning, viðkoma
 tangent l. snertandi; n. snertilína; [to go (fly) off on a ~] hverfa (snúa sér) snögglega frá e-u
 tangible l. áþreifanlegur, átakanlegur
@@ -103,7 +102,7 @@ tangly l. þakinn þangi
 tank n. regnþró; stór kassi úr járni, (vatns-, olíu-, gas-) geymir; skriðdreki (brynjuð bifreið)
 tankard n. drykkjarker með loki, bjórkolla
 tannable l. sútanlegur
-tanner n. sútari
+tanner n. sútari; blikksmiður
 tannery n. sútunarhús
 tannin n. sútunarefni
 tanning n. sútun, börkun; skinnaverkun
@@ -131,16 +130,14 @@ tarantella n. tarantella (ítalskur þjóðdans)
 tarantula n. risakönguló
 tardiness n. seinleiki, seinlæti
 tardy l. seinn, seinlátur, seinfær; seinkvæmur
-tare n. umfeðmingsgras; [the parable of the ~s of the field] dæmisagan um illgresið á akrinum
-tare n. umbúðaþungi; s. draga frá umbúðaþungann
+tare n. umfeðmingsgras; [the parable of the ~s of the field] dæmisagan um illgresið á akrinum; umbúðaþungi; s. draga frá umbúðaþungann
 targe n. targa, skjöldur
 target n. skotmark; skotspónn; markmið; kringlóttur skjöldur, targa
 tariff n. vöruskrá, tollskrá; tollur; verðskrá; s. setja á tollskrá
 tarn n. tjörn; fen, flói
 tarnish s. láta falla á, taka gljáann af; láta litast upp; óhreinka; flekka; missa gljáann; upplitast; fölna; n. upplitun; blettur (á mannorði)
 tarpaulin n. tjargaður segldúkur; sjóhattur; sjómaður
-tarry s. dvelja, bíða
-tarry l. tjörugur; tjörukenndur; tjöru- ([~ substance])
+tarry s. dvelja, bíða; l. tjörugur; tjörukenndur; tjöru- ([~ substance])
 tart l. súr; beiskur, napur; harður
 tartish l. ísúr
 tart n. skorpukaka, terta
@@ -195,10 +192,9 @@ teaching n. kennsla; kenning
 teal n. urtönd, urt
 team n. teymi, hópur, flokkur; dýrahópur; tveir eða fleiri hestar eða uxar, sem beittir eru fyrir sama flutningsvagn; s. beita hesta fyrir vagn
 teamster n. vagnstjóri á flutningsvagni
-tear n. tár
+tear n. tár; rifa, sprunga; slit ([~ and wear]); s. rífa (slíta) í sundur; rífa; slíta; rispa; rifna; æða, þjóta ([~ off, on])
 tearful l. tárugur, grátinn
 tearless l. táralaus, ógrátinn
-tear s. rífa (slíta) í sundur; rífa; slíta; rispa; rifna; æða, þjóta ([~ off, on]); n. rifa, sprunga; slit ([~ and wear])
 tearing l. ákafur, óhemjulegur, óður; stríður ([~ current])
 tease s. tæja, kemba (ull); ýfa upp (lóna); stríða, erta
 teasel n. þófaraþistill; l. ýfa upp lóna á ([~ woollen cloth])
@@ -252,8 +248,7 @@ tempestuous l. illviðrasamur; illviðris- ([a ~ night]); ofsalegur; ákafur
 tempestuousness n. ofsi
 templar n. templari, musterisriddari ([Knight Templar]); lögfræðingur
 temple n. hof; musteri; kirkja; gagnauga, þunnvangi
-temporal l. sem lýtur að gagnaugunum; [~ bone] gagnaugabein
-temporal l. stundlegur, tímanlegur, veraldlegur
+temporal l. stundlegur, tímanlegur, veraldlegur; sem lýtur að gagnaugunum; [~ bone] gagnaugabein
 temporality n. veraldleiki; ft. [temporalities] tekjur prests eða kirkju
 temporarily ao. um stundar sakir
 temporary l. tímabundinn, sem er til bráðabirgða, um stundar sakir
@@ -578,8 +573,7 @@ throughout fs. alveg í gegnum; ao. út í gegn; [~ the country] yfir (um) allt 
 throw s. kasta, fleygja; fella til jarðar; snúa, tvinna; [~ off] kasta (hrinda) af sér; [~ out] henda, hafna; bera upp (spurningu); reka upp (hljóð); bola í burtu; [~ up] kasta frá sér; kasta (selja) upp; hlaða upp; [~ up the sponge] gefast upp; n. kast; áhætta; [stone's ~] steinsnar
 thrower n. kastari; tvinnari
 thrum n. þráðarendi (í vef), afvikur ([~s]); s. urga, sarga (á hljóðfæri)
-thrush n. þröstur
-thrush n. munnskóf, munnangur
+thrush n. þröstur; munnskóf, munnangur
 thrust s. þrýsta, stinga; leggja (til e-s [at]); troða sér; n. þrýsting; stunga; árás
 thud n. dynkur, hlunkur, dynur ([~ of the horses' feet]); s. dynja
 thumb n. þumalfingur; s. setja fingraför á; óhreinka; þrýsta niður með þumalfingri ([~ down the tobacco in his pipe])
@@ -671,7 +665,6 @@ timidness n. hræðsla, feimni
 tin n. tin; blikk, pjátur; blikkdós; s. tina; geyma í loftþéttum blikkdósum
 tin-foil n. næfurþunnt tinblað, stanjól
 tan-man n. blikksmiður
-tanner n. blikksmiður
 tansmith n. blikksmiður
 tanware n. blikkvörur
 tincture n. lit(blær); keimur; seyði; s. setja blæ á, lita
@@ -736,9 +729,8 @@ toad-eater n. sníkjugestur; smjaðrari
 toadstool n. gorkúlutegund
 toady s. smjaðra; n. sjá %[toad-eater]%
 toadyism n. auðvirðilegt smjaður
-toast s. steikja á rist; hita, verma; n. steikt brauðsneið
+toast s. steikja á rist; hita, verma; drekka (mæla fyrir) minni e-s; n. ristuð brauðsneið; minni, skál; skálræða; [to give a ~] mæla fyrir minni (skál)
 toaster n. brauðrist, ristavél, tæki sem brauð er steikt á
-toast s. drekka (mæla fyrir) minni e-s; n. minni, skál; skálræða; [to give a ~] mæla fyrir minni (skál)
 toastmaster n. skálameistari
 tobacco n. tóbak
 tobacconist n. tóbakssali
@@ -762,8 +754,7 @@ tolerance n. umburðarlyndi
 tolerant l. umburðarlyndur
 tolerate s. þola, umbera; fella sig við
 toleration n. umburðarlyndi
-toll n. seinhringing, líkhringing; s. hringja (líkklukku)
-toll n. tollur, skattur; afgjald; s. greiða (gjalda) toll; taka (heimta) toll
+toll n. tollur, skattur; afgjald; seinhringing, líkhringing; s. greiða (gjalda) toll; taka (heimta) toll; hringja (líkklukku)
 tollage n. tollur; tolltekjur
 toller n. tollheimtumaður
 toll-free l. undanþeginn tolli
@@ -1238,9 +1229,8 @@ trope n. óeiginlegt orðtæki
 trophied l. skreyttur sigurmerkjum
 trophy n. sigurmerki
 tropic n. hvarfbaugur; ft. [tropics] hitabelti
-tropical l. sem er milli hvarfbauganna, í hitabeltinu
+tropical l. sem er milli hvarfbauganna, í hitabeltinu; óeiginlegur (um orð eða orðatiltæki); sbr. %[trope]%; [~ writing] myndletur
 tropical winds n. ft. staðvindar
-tropical l. óeiginlegur (um orð eða orðatiltæki); sbr. %[trope]%; [~ writing] myndletur
 trot s. brokka, skokka; láta brokka; n. brokk, skokk
 trotter n. brokkari, brokkhestur; löpp
 troubadour n. trúbador; farandsöngvari; miðaldaskáld í Suður-Frakklandi

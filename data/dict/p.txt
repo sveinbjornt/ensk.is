@@ -91,7 +91,7 @@ palisade n. staur; stauragirðing; s. girða með stauragarði, umgirða
 palish l. fölleitur
 pall n. viðhafnarkápa páfa og erkibiskupa; líkkistuklæði; s. hylja með svörtu klæði
 pall s. verða bragðdaufur; dofna; deyfa ([~ the senses]); ofmetta, gera leiðan, þreyta ([~ the stomach, ~ readers])
-palladium n. líkneski gyðjunnar Pallas; hlífiskjöldur
+palladium n. palladín, palladíum (frumefni); líkneski gyðjunnar Pallas; hlífiskjöldur
 pallet n. rúmflet
 palliate s. hylja; fegra, afsaka; lina (sjúkdóm)
 palliation n. fegrun; afsökun; ([in ~ of his evil deeds]); linun, fróun
@@ -488,7 +488,7 @@ pedestrian l. fótgangandi; n. fótgöngumaður
 pedestrianism n. ganga, göngur
 pedestrianize s. fara gangandi, ganga
 pedigree n. ættartala; ættleggur, ætterni
-pediment n. burst, gaflhlað
+pediment n. burst, gaflhlað, gaflbrík, bjór
 pedlar n. varningsmaður, farandsali
 pedometer n. skrefmælir
 peek s. gægjast ([~ in, out])
@@ -773,7 +773,7 @@ peruke n. hárkolla
 perusal n. yfirlestur, lestur ([the ~ of the Bible])
 peruse s. lesa (vandlega) yfir
 peruser n. yfirlesari
-Peruvian l. perúskur, frá Perú; [~ bark] kínabörkur
+Peruvian l. perúskur, frá Perú; [~ bark] kínabörkur; n. Perúmaður
 pervade s. ganga í gegnum; vera í; [the silence and desolation that ~d everything] sem gagntók allt (hvíldi yfir öllu)
 pervasive l. sem fer (leitar) í gegnum e-ð
 perverse l. rangur; rangsnúinn, þverúðarfullur, þrjóskur
@@ -1817,10 +1817,9 @@ premeditate s. íhuga fyrirfram
 premeditatedly ao. með fyrirhuguðu (af ásettu) ráði
 premeditation n. íhugun fyrirfram; fyrirhugað ráð
 premier l. fyrstur, helstur; n. ráðuneytisforseti, forsætisráðherra
-premise s. segja (á undan)
-premise n. forsenda
+premise n. forsenda; s. segja (á undan)
 premiss n. forsenda
-premises n. ft. húseign, hús með lóð og útihúsum; [the school ~] skólahúsin
+premises n. ft. húseign, hús með lóð og útihúsum; [the school ~] skólahúsin; forsendur
 premium n. verðlaun; ábyrgðargjald, iðgjald; kennslukaup; [at a ~] fyrir ofan ákvæðisverð
 premonish s. vara við
 premonition n. viðvörun
@@ -2503,7 +2502,7 @@ purlin n. mæniás
 purling n. (lækjar)-niður; brugðning (í prjóni)
 purloin s. hnupla, stela
 purloiner n. hnuplari, þjófur
-purple n. purpuri, purpuralitur; purpuraklæði; höfðingjadómur; l. purpuralegur, blárauður; s. lita í purpuralit, lita blárautt
+purple n. fjólublár; purpuri, purpuralitur; purpuraklæði; höfðingjadómur; l. fjólublár, blárauður, purpuralegur; s. lita fjólublátt, lita blárautt, lita í purpuralit
 purport n. tilgangur; þýðing; efni (í ræðu eða riti); s. þýða; innihalda; eiga að vera ([a letter ~ing to be written by you])
 purpose n. tilgangur, áform, ásetningur; fyrirætlun; [on ~] af ásettu ráði; [speak to ~] eins og við á; [to no ~] árangurslaust, til einskis, tilgangslaust; [for the ~ of] vegna, sökum; [to the ~] hentugur, vel fallinn, viðeigandi; s. áforma, hafa í hyggju, ætla
 purposeful l. gerður af ásettu ráði

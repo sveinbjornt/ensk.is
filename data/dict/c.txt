@@ -599,7 +599,7 @@ chap n. kaupandi; náungi, kumpáni, snáði, piltur
 chape n. döggskór
 chapel n. kapella, bænhús; kirkja (utanþjóðkirkjumanna); prentsmiðja; [~ of ease] útkirkja
 chapelry n. útkirkjusókn; utanþjóðkirkjusókn
-chaperone n. roskin kona til fylgdar ungri hefðarmey; s. fylgja í velsæmisskyni
+chaperone n. velsæmisvörður, siðgæðisvörður;roskin kona til fylgdar ungri hefðarmey; s. [~ someone] gæta velsæmis eða siðgæðis e-s, fylgja í velsæmisskyni
 chaplain n. prestur (kapellu-, hirð-, her-, skips-)
 chaplaincy n. hirð-, her- eða skipsprestsembætti
 chaplet n. höfuðsveigur úr blómum; talnaband
@@ -1193,8 +1193,7 @@ cock-brained l. heimskur
 cockchafer n. aldinbori (bjöllutegund)
 cocker s. hafa eftirlæti á; dekra fyrir ([~ up])
 cockerel n. ungur hani; þrætugjarn unglingur
-cockle n. kornrós
-cockle n. báruskel
+cockle n. kornrós; báruskel
 cockleshell n. báruskel; hörpudiskur; bolli, bytta (um bát)
 cockney n. Lundúnabúi (með sérkennilegan málkeim)
 cockney dialect n. Lundúnamállýska
@@ -1476,8 +1475,7 @@ commotion n. ákafleg hreyfing; uppnám; uppþot
 commove s. setja í hreyfingu; fá á e-n
 communal l. borgfélagslegur, sveitar-
 communalize s. gera að eign bæjar- eða sveitarfélagsins
-commune n. bæjar- eða sveitarfélag (í Frakklandi)
-commune s. tala saman (við [with]), hafa samneyti (mök) við e-n ([with]); ganga til altaris
+commune n. bæjar- eða sveitarfélag; kommúna; s. tala saman (við [with]), hafa samneyti við e-n ([with]); ganga til altaris
 communicable l. miðlanlegur; ræðinn
 communicant n. altarisgöngumaður; sögumaður
 communicate s. miðla, veita; segja (e-m [to]) frá e-u; standa í sambandi (um herbergi); tala, eiga í samskiptum (við [with]); ganga (eða taka) til altaris
@@ -1784,7 +1782,7 @@ congestion n. samhrúgun; blóðsókn
 congestive l. sem veldur blóðsókn
 conglobate s. sameina (í kúlu)
 conglobe s. sameina (í kúlu)
-conglomerate s. safna (safnast) saman í eitt
+conglomerate n. samsteypa; s. steypa saman, safna (safnast) saman í eitt
 conglutinate s. líma (festa) saman; loða saman; gróa saman
 conglutination n. samlíming
 congratulate s. samfagna (e-m)
@@ -2580,7 +2578,6 @@ crowd n. mannþröng; þyrping; hópur; múgur; fjöldi; s. hrúga (þjappa e-u)
 crowded l. troðfullur
 crown n. blómhringur; kóróna; krúna, (konungs)ríki; króna (peningur); hvirfill; hnúkur; hattkollur; bunga á upphleyptum vegi ([~ of the causeway]); s. krýna; kóróna; skreyta
 crowning n. krýning
-crozier n. bagall, sjá %[crosier]%
 crucial l. krossmyndaður, kross- ([~ flowers]); úrslitalegur
 crucible n. deigla; eldraun
 crucifix n. róðukross

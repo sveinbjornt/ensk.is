@@ -182,6 +182,7 @@ publicly ao. opinberlega
 groundwater n. grunnvatn
 earring n. eyrnalokkur
 anarchism n. stjórnleysisstefna, anarkismi (hugmyndafræði sem einkennist af andstöðu við yfirvald og höfnun á réttmæti þess)
+anarchistic l. stjórnleysis-, anarkistískur (sjá %[anarchism]%)
 hepatitis n. lifrarbólga (sjúkdómur)
 spectrography n. litrófsfræði
 spectroscopy n. litrófsgreining, litrófsmæling
@@ -295,7 +296,6 @@ Stalinism n. stalínismi (stefna Jósefs Stalín í Sovétríkjunum)
 Leninist n. lenínisti (fylgismaður hugmyndafræði Vladimírs Lenín); l. lenínskur
 Leninism n. lenínismi (hugmyndafræði Vladimírs Lenín)
 conglomeration n. samsteypa
-conglomerate n. samsteypa; s. steypa saman
 conglomerated l. samsteyptur, samsettur
 cinema n. kvikmyndahús, bíó; kvikmyndalistin, kvikmyndabransinn
 entertainment industry n. skemmtanabransinn, afþreyingarbransinn
@@ -308,7 +308,6 @@ sophisticated l. fágaður; háþróaður; margbrotinn
 zombify s. breyta í uppvakning (sjá %[zombie]%)
 dyke n. varnargarður; lesbía (niðrandi)
 gaoler n. fangavörður
-haphazard n. tilviljunarkenndur, óskipulegur
 interface n. viðmót; tenging; snertipunktur tveggja fyrirbæra, þar sem tvö fyrirbæri mætast
 bromance n. brómans (óforml.), náið vinasamband tveggja karlmanna (samsett úr %[brother]% og %[romance]%)
 selfie n. sjálfa, sjálfsmynd, ljósmynd sem e-r tekur af sjálfum sér
@@ -478,6 +477,7 @@ confidentiality n. trúnaður
 lyrebird n. lýrufugl (e.k. spörfugl)
 porn n. klám (óforml. stytt. á %[pornography]%)
 porno n. klám (óforml. stytt. á %[pornography]%)
+pornographic l. klæminn, klám-; [~ literature] klámrit
 natural language processing n. máltækni, málvinnsla, málgreining
 language technology n. máltækni
 guerrilla n. skæruliði
@@ -545,7 +545,6 @@ fundamentalist n. bókstafstrúarmaður
 awareness n. vitund; meðvitund
 worried l. áhyggjufullur, kvíðafullur
 physically ao. líkamlega
-Macedonia n. Makedónía
 meaningful l. merkingarbær; þýðingarmikill, innihaldsríkur; verulegur
 homeland n. heimaland
 hometown n. heimabær
@@ -647,17 +646,20 @@ Cayman Islands n. Caymaneyjar
 Central African Republic n. Mið-Afríkulýðveldið
 Chad n. Tsjad
 Chile n. Chile, Síle
+Chilean l. chileskur, síleskur; n. Chile-maður eða Sílemaður
 Christmas Island n. Jólaey
 Colombia n. Kólumbía
 Colombian l. kólumbískur; n. Kólumbíumaður, Kólumbíubúi
 Comoros n. Kómoreyjar
 Congo n. Kongó
 Costa Rica n. Kosta Ríka
+Costa Rican l. kostarískur; Kosta Ríka-maður
 Croatia n. Króatía
 Croatian l. króatískur; n. Króati; króatíska
 Cuba n. Kúba
 Cuban l. kúbverskur; n. Kúbverji, Kúbumaður
 Cyprus n. Kýpur
+Cypriot l. kýpverskur; n. Kýpverji
 Czech Republic n. Tékkland
 Czechia n. Tékkland
 Czech l. tékkneskur; n. Tékki; tékkneska (tungumál)
@@ -684,6 +686,7 @@ French Polynesia n. Franska Pólýnesía
 Gabon n. Gabon
 Gambia n. Gambía
 Georgia n. Georgía
+Georgian l. georgískur (frá landinu Georgíu); georgískur (arkítektúr í Bretlandi á 18. öld og fyrri hluta 19. aldar, kennt við konunga þess tíma); n. Georgíumaður; georgíska
 Germany n. Þýskaland
 Ghana n. Gana
 Gibraltar n. Gíbraltar
@@ -699,6 +702,7 @@ Guyana n. Gvæjana
 Haiti n. Haítí
 Honduras n. Hondúras
 Indonesia n. Indónesía
+Indonesian l. indónesískur; n. Indónesi
 Iran n. Íran
 Iraq n. Írak
 Iraqi l. írakskur, frá Írak; n. Íraki
@@ -718,19 +722,26 @@ Kyrgyzstan n. Kirgistan
 Laos n. Laos
 Latvia n. Lettland
 Lebanon n. Líbanon
+Lebanese l. líbanskur; n. Líbani
 Lesotho n. Lesótó
 Liberia n. Líbería
+Liberian l. líberískur; n. Líberíumaður
 Libya n. Líbía
 Libyan l. líbískur; n. Líbíumaður
 Liechtenstein n. Liechtenstein
 Lithuania n. Litáen
 Lithuanian l. litáískur; n. Litái; litáíska
 Luxembourg n. Lúxemborg
+Macedonia n. Makedónía
+Macedonian l. makedónískur; n. Makedóni; makedóníska
 Malawi n. Malaví
 Malaysia n. Malasía
+Malaysian l. malasískur; n. Malasi
+Malay l. malasískur; n. Malasi; malasíska
 Maldives n. Maldíveyjar
 Mali n. Malí
 Malta n. Malta
+Maltese l. maltneskur, maltverskur; n. Maltverji, Möltumaður
 Marshall Islands n. Marshalleyjar
 Martinique n. Martiník
 Mauritania n. Máritanía
@@ -755,6 +766,7 @@ Nepal n. Nepal
 Netherlands n. ft. Niðurlönd (Holland)
 New Caledonia n. Nýja-Kaledónía (sjá %[Caledonia]%)
 New Zealand n. Nýja-Sjáland
+New Zealander n. Nýsjálendingur
 Nicaragua n. Níkaragva
 Niger n. Níger
 Nigeria n. Nígería
@@ -770,6 +782,7 @@ Palestinian l. palestínskur, frá Palestínu; n. Palestínumaður
 Panama n. Panama
 Papua New Guinea n. Papúa Nýja-Gínea
 Paraguay n. Paragvæ
+Paraguayan l. paragvæskur; n. Paragvæi
 Peru n. Perú
 Philippines n. ft. Filippseyjar ([the ~])
 Philippine l. filipseyskur (frá Filippseyjum); n. Filippseyingur
@@ -786,7 +799,7 @@ Saudi Arabia n. Sádi-Arabía
 Senegal n. Senegal
 Serbia n. Serbía
 Serb n. Serbi
-Serbian l. serbneskur; n. serbneska
+Serbian l. serbneskur; n. serbneska; Serbi
 Seychelles n. Seychelles-eyjar
 Sierra Leone n. Síerra Leóne
 Singapore n. Singapúr
@@ -794,18 +807,24 @@ Slovakia n. Slóvakía
 Slovak n. Slóvaki
 Slovakian l. slóvakískur, slóvaskur; slóvakíska
 Slovenia n. Slóvenía
+Slovene n. Slóveni
+Slovenian l. slóvenskur; n. Slóveni
 Solomon Islands n. Salómonseyjar
 Somalia n. Sómalía
+Somali l. sómalískur; n. Sómali
+Somalian l. sómalískur; n. Sómali
 South Africa n. Suður-Afríka
 South Korea n. Suður-Kórea
 South Sudan n. Suður-Súdan
 Sri Lanka n. Srí Lanka
 Sudan n. Súdan
+Sudanese l. súdanskur
 Suriname n. Súrínam
 Svalbard n. Svalbarði
 Swaziland n. Svasíland
 Switzerland n. Sviss
 Syria n. Sýrland
+Syrian l. sýrlenskur; n. Sýrlendingur
 Taiwan n. Taívan
 Tajikistan n. Tadsjikistan
 Tanzania n. Tansanía
@@ -826,7 +845,9 @@ United Kingdom n. Bretland (Sameinaða konungdæmið)
 United States of America n. Bandaríki Norður-Ameríku, Bandaríkin
 United States n. sjá %[United States of America]%
 Uruguay n. Úrúgvæ
+Uruguayan l. úrúgvæskur; n. Úrúgvæi
 Uzbekistan n. Úsbekistan
+Uzbek l. úsbekskur; n. Úsbeki; úsbekska (tungumál)
 Vanuatu n. Vanúatú
 Vatican n. Vatíkanið í Róm
 Venezuela n. Venesúela
@@ -849,7 +870,8 @@ occupational l. starfs-, atvinnu-; [~ hazard] atvinnuáhætta, áhætta sem fylg
 endogenous l. kominn innan frá (lífveru)
 endogamous l. innvensla-
 endogamy n. innvensl (hjúskapur innan sama ættflokks)
-multicultural l. fjölmenningar-; [~ society] fjölmenningarsamfélag
+multicultural l. fjölmenningarlegur, fjölmenningar-; [~ society] fjölmenningarsamfélag
+multiculturally ao. fjölmenninegarlega
 multiculturalism n. fjölmenning, fjölmenningarstefna
 multifaceted l. marghliða, margþættur, fjölbreyttur
 concept n. hugtak, almenn hugmynd
@@ -921,7 +943,6 @@ sulfur n. brennisteinn (frumefni); sjá einnig %[sulphur]%
 potassium n. kalíum (frumefni)
 chromium n. króm (frumefni)
 bromine n. bróm (frumefni)
-palladium n. palladín, palladíum (frumefni)
 cadmium n. kadmín, kadmíum (frumefni)
 barium n. barín, baríum (frumefni)
 tungsten n. volfram, wolfram (frumefni)
@@ -2068,7 +2089,6 @@ cadaver n. lík, nár, hræ
 passionless l. ástríðulaus
 maximization n. hámörkun
 unanimously ao. einróma, samhljóða
-genital l. kynfæra-, æxlunarfæra-
 genitals n. ft. kynfæri, æxlunarfæri
 ethicist n. siðfræðingur, siðspekingur
 bulletproof l. skotheldur; [~ vest] skothelt vesti
@@ -2659,11 +2679,11 @@ mountainside n. fjallshlíð
 hillside n. hlíð, brekka, fjallshlíð
 Sinophone l. kínverskumælandi; n. e-r sem er kínverskumælandi
 Eurasia n. Evrasía (Evrópa og Asía sem ein heimsálfa)
-Eurasian l. evrasískur (sjá %[Eurasia]%)
+Eurasian l. evrasískur (sjá %[Eurasia]%); n. Evrasíumaður, Evrasíubúi
 above-mentioned l. ofannefndur, fyrrnefndur
 testable l. prófanlegur, sem hægt er að prófa
 falsifiable l. afsannanlegur
-falsifiability n. afsannanleiki, óafsannanleiki
+falsifiability n. afsannanleiki
 unfalsifiable l. óafsannanlegur
 unfalsifiability n. óafsannanleiki
 hunter-gatherer n. veiðimanna-safnari
@@ -2954,7 +2974,9 @@ peacetime n. friðartími, friðartímar; [in ~] á friðartímum
 light industry n. léttiðnaður
 heavy industry n. þungaiðnaður
 inter alia ao. meðal annars (úr latínu)
-ceteris paribus ao. að öllu jöfnu
+ceteris paribus ao. að öllu jöfnu (úr latínu)
+et cetera ao. og svo framvegis (úr latínu)
+etc ao. stytt. á %[et cetera]%
 marlin n. oddnefur, marlín, merlingur (fisktegund)
 seafarer n. sæfari
 bloodbath n. blóðbað
@@ -2995,6 +3017,7 @@ asphyxiation n. köfnun; kæfing; súrefnisskortur
 asphyxiant n. kæfiefni; l. kæfandi, kæfi-
 mitochondrion n. hvatberi, kyndikorn, orkukorn (frumulíffæri)
 mitochondrial l. hvatbera- (sjá %[mitochondrion]%)
+dehumanize s. afmennska
 dehumanization n. afmennskun
 unhappiness n. óhamingja, vansæld
 parabola n. fleygbogi
@@ -3098,7 +3121,7 @@ shamanistic l. seiðlækninga-, galdalækninga-, sjamanískur
 shamanism n. sjamanismi, seiðlækningaspeki
 witch doctor n. galdralæknir, töfralæknir
 counter-example n. gagndæmi
-obsolescence n. úrelding
+obsolescence n. úrelding, fyrning
 perimeter n. jaðar; umgjörð; ummál; sjónsviðsmælir
 pictogram n. teikn
 drifter n. flakkari, flækingur
@@ -3166,7 +3189,7 @@ recalibrate s. endurkvarða, endurstilla
 sexless l. kynlaus
 trainee n. lærlingur, (vettvangs)nemi
 dyspeptic l. haldinn meltingartruflunum eða meltingarónot
-in absentia l. fjarverandi, í fjarveru, fjarstaddur (úr latínu)
+in absentia l. fjarverandi, í fjarveru, fjarstaddur, að fjarstöddum (úr latínu)
 tercentenary n. 300 ára afmæli eða minningarhátíð
 prophylaxis n. forvörn, verndandi aðgerð, sjúkdómsvörn
 harmfulness n. skaðsemi, skaðræði
@@ -3248,7 +3271,6 @@ feminism n. femínismi, kvenfrelsisstefna, kvenréttindastefna
 feminist n. femínisti, kvenréttindasinni, kvenfrelsissinnis
 nonhereditary l. óarfgengur
 dishwasher n. uppþvottavél; uppvaskari
-Georgian l. georgískur (frá landinu Georgíu); georgískur (arkítektúr í Bretlandi á 18. öld og fyrri hluta 19. aldar, kennt við konunga þess tíma); n. Georgíumaður
 schizophrenia n. geðklofi, kleyfhugasýki
 schizophrenic l. haldinn geðklofa, kleyfhuga; n. geðklofasjúklingur
 legalistic l. lagatæknilegur, lagabókstafs-
@@ -3502,7 +3524,6 @@ dichotomous l. tvískiptur, skiptur í tvennt, tvískiptingar-
 dichotomist n. sá sem skiptir í tvennt, tvískiptingarmaður
 dichotomization n. tvískiptingarvæðing, tvískiptingartilhneiging
 councilman n. fulltrúi, ráðsmaður, borgarráðsmaður, borgarfulltrúi
-in absentia ao. í fjarveru, að fjarstöddum (úr latínu)
 mea culpa uh. sökin er mín! (úr latínu)
 kindliness n. góðmennska, góðvild
 undocumented l. óskráður, óskjalaður, óskjalfestur
@@ -3590,7 +3611,7 @@ petrified l. steingerður; agndofa af skelfingu
 menopause n. tíðahvörf, tíðalok (lok reglubundinna tíðablæðinga hjá konum)
 scooter n. vespa, létt bifhjól; hlaupahjól; [electric ~] rafhlaupahjól, rafskúta
 astrodynamics n. ft. geimbrautafræði
-astrodynamics l. geimbrautafræðilegur, geimbrauta-
+astrodynamic l. geimbrautafræðilegur, geimbrauta-
 hellhound n. vítishundur, heljarhundur
 aneurysm n. slagæðargúlpur
 metrology n. mælitækni
@@ -3936,7 +3957,6 @@ self-realization n. sjálfsefling
 demeaning l. niðrandi, niðurlægjandi, lítillækkandi
 catastrophic l. hrikalegur, hörmulegur, skelfilegur, hrapallegur, katastrófískur
 catastrophically ao. hrikalega, hörmulega, skelfilega, hrapallega
-metonymy n. nafnhvörf, merkingarskipti (þegar einhver eiginleiki fyrirbæris er hafður um fyrirbærið)
 metonymic l. nafnhvarfa-
 metonymical l. nafnhvarfa-
 metonymically ao. nafnhvarfalega (sjá %[metonymy]%)
@@ -3949,7 +3969,6 @@ carceral l. fangelsis-, fangelsunar-
 solipsism n. sjálfsveruhyggja
 mutate s. stökkbreyta, ummynda
 mutant n. stökkbrigði
-mutation n. stökkbreyting
 deckhand n. háseti
 portside l. bakborðsmegin
 electrum n. elektrum (málmblanda silfurs og gulls)
@@ -4006,7 +4025,6 @@ inelasticity n. óteygni; ónæmi; ófjöðrun
 paroxysmal l. köstóttur
 causation n. orsökun, orsakatengsl
 aftereffect n. eftirhrif
-chaperone n. velsæmisvörður, siðgæðisvörður; s. [~ someone] gæta velsæmis eða siðgæðis e-s
 coastland n. strandlendi, strandlengja
 substandard l. ófullnægjandi, lélegur, óvandaður, stenst ekki gæðakröfur
 voyeur n. gægir, sjónfróari
@@ -4181,3 +4199,29 @@ unnavigable l. óskipgengur ([the river was ~])
 nymphomania n. vergirni, óvenju mikil kynhvöt konu
 nymphomaniac n. vergjörn kona, kona með óvenju mikla kynhvöt
 technocentric l. tæknimiðaður
+piglet n. gríslingur
+toxicology n. eiturefnafræði
+toxicologist n. eiturefnafræðingur
+toxicological l. eiturefnafræðilegur
+pollster n. skoðanakönnuður
+whisperer n. hvíslari
+plowshare n. plógjárn
+secretaryship n. ritaraembætti
+multivariate l. fjölbreytu-, fjölþátta-, margvíður; [~ analysis] fjölbreytugreining, fjölþáttagreining, margvíð greining
+corrigendum n. leiðréttingamiði; prentvillulisti
+physiologically ao. lífeðlisfræðilega
+shamelessness n. blygðunarleysi
+clickbait n. smellbeita
+shallows n. ft. grynningar, grynning
+hyperspace n. stiklurými
+preindustrial l. fyrir iðnbyltingu
+bicycling n. hjólreiðar
+self-enhancement n. sjálfshafning
+tsardom n. keisaradæmi; keisaratign
+czardom n. keisaradæmi; keisaratign
+Anatolia n. Anatólía, Litla-Asía (stór skagi í Suðvestur-Asíu)
+Asia Minor n. Litla-Asía (stór skagi í Suðvestur-Asíu)
+boilerplate n. fastatexti, geymdur texti (texti sem er notaður ítrekað í mörgum skjölum)
+ammonium n. ammóníum
+colophon n. baktitill
+quantifiable l. mælanlegur

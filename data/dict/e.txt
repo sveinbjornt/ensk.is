@@ -666,8 +666,7 @@ entomologist n. skordýrafræðingur
 entomology n. skordýrafræði
 entrails n. ft. innyfli; iður ([~ of the earth])
 entrammel s. hefta, fjötra
-entrance n. inngangur; innganga; innför; mynni; [at his ~ into office] þegar hann tók við embættinu; [~ money] inngöngueyrir
-entrance s. gera e-n utan við sig eða frá sér numinn
+entrance n. inngangur; innganga; innför; mynni; [at his ~ into office] þegar hann tók við embættinu; [~ money] inngöngueyrir; s. gera e-n utan við sig eða frá sér numinn, dáleiða
 entrancement n. leiðsla, hrifning
 entrant n. komumaður, gestur; keppinautur
 entrap s. veiða í gildru; ánetja, véla; flækja (með spurningum)
@@ -909,7 +908,7 @@ etherealize s. svæfa (sjúkling) með eter
 ethic l. siðfræðilegur; n. siðfræði, siðferði
 ethical l. siðfræðilegur, siðferðilegur
 ethics n. siðfræði, siðferði
-Ethiopian l. eþíópskur; n. Eþíópi
+Ethiopian l. eþíópískur; n. Eþíópi
 ethnic l. heiðinn; þjóðfræðislegur, þjóðernis-
 ethnicism n. heiðni
 ethnographer n. þjóðfræðingur

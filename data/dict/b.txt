@@ -295,8 +295,7 @@ beautiful l. fagur, fallegur
 beautifully ao. fagurlega, fallega
 beautify s. fegra, gera fallegan
 beauty n. fegurð
-beaver n. bifur; bifurskinn
-beaver n. blik á hjálmi, nefbjörg
+beaver n. bifur, bjór; blik á hjálmi, nefbjörg
 beavered l. með nefbjörg
 becalm s. stilla, kyrra; [be ~ed] liggja í logni (um skip)
 because st. af því að; [~ of] sökum, vegna
@@ -345,9 +344,7 @@ beery l. bjórkenndur; ölvaður (af bjór)
 beestings n. ft. broddur úr nýbæru; [curds of ~] ábristir
 beet n. e.k. rófa; [white ~] sykurrófa
 beetroot n. sykurrófa, rauðrófa
-beetle n. bjalla (skorkvikindi)
-beetle n. kylfa, sleggja
-beetle s. standa (slúta) fram
+beetle n. bjalla (skorkvikindi); kylfa, sleggja; s. standa (slúta) fram
 beetle-bowed l. hvassbrýndur, loðbrýndur
 befall s. henda (e-n), vilja (e-m) til; bera við,
 befit s. eiga við, sæma, sóma (e-m)
@@ -839,7 +836,7 @@ bogle n. grýla; draugur
 bogey n. djöfull; grýla
 boil n. graftarkýli
 boil s. sjóða; ólga; n. suða ([the water comes to a ~])
-boiler n. suðumaður; gufuketill
+boiler n. gufuketill; suðumaður
 boiling n. suða; l. sjóðandi
 boiling-point n. suðumark
 boisterous l. stormasamur ([a ~ passage of twenty days]); hávær; ofsafenginn

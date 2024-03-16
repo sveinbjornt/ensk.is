@@ -668,8 +668,7 @@ relative l. tilfærilegur, tilvísunar- ([~ pronoun]); háður; viðkomandi (e-u
 relativity n. samsvörun, tilsvörun
 relax s. slappa af, slaka á, lina á; draga úr; mýkja; hressa ([~ oneself]); linast, mýkjast; dofna
 relaxation n. linun, mýking; hlé; undanlát; afslöppun, hvíld, hressing
-relay n. nýir hestar, sem hafðir eru viðbúnir til skipta; s. setja (aðra hesta, menn) í staðinn; senda áfram
-relay s. leggja aftur
+relay n. nýir hestar, sem hafðir eru viðbúnir til skipta; leggja aftur; s. setja (aðra hesta, menn) í staðinn; senda áfram
 release s. láta lausan; láta af (t.d. rétti sínum), sleppa; leysa e-n undan e-u, losa við e-ð ([~ one from]); n. lausn; léttir ([to me it would be a great ~ to]); kvittunarseðill, kvittun; uppgjöf (réttarkröfu)
 releasement n. lausn
 relegate s. reka í útlegð, gera útlægan; vísa burt; fela (e-m e-ð) á hendur
@@ -722,7 +721,6 @@ remedy n. læknislyf; lækning; hjálp; ráð; uppbót; [past ~] ólæknandi; s.
 remember s. muna, muna eftir, minnast; [~ me to Mr. N] berðu hr. N kveðju mína, ég bið að heilsa hr. N; [he desired to be ~ed to all his friends] hann bað að heilsa öllum vinum sínum
 rememberable l. minnisstæður
 remembrance n. endurminning, minni; minjagripur; ft. kveðjur; [put in ~ of] minna á; [in ~ of] til minningar um
-remember n. áminnari; skrifari við ríkisfjárhirsluna
 remind s. minna (á [of])
 reminder n. áminnari; áminning
 reminiscence n. endurminning; minni
@@ -786,8 +784,7 @@ renovation n. endurnýjun; viðgerð
 renovator n. endurnýjari
 renown n. frægð, orðstír
 renowned l. frægur, nafntogaður
-rent n. rifa; sprunga, glufa
-rent n. leiga, húsleiga; afgjald, eftirgjald ([~ of land]); s. leigja, selja á leigu; taka á leigu; vera leigður
+rent n. leiga, húsleiga; afgjald, eftirgjald ([~ of land]); rifa; sprunga, glufa; s. leigja, selja á leigu; taka á leigu; vera leigður
 rentable l. sem verður leigður (öðrum)
 rental n. landskuldaskrá; leiga, tekjur
 renter n. leiguliði, landseti
@@ -1387,8 +1384,7 @@ Romany n. tatari; tataramál
 romp n. gáskafull stúlka; ólæti; s. ólátast, ólmast
 romping l. gáskafullur, ærslafullur
 rompish l. gáskafullur, ærslafullur
-rood n. ekrufjórðungur
-rood n. róðukross
+rood n. ekrufjórðungur; róðukross
 roof n. þak; hvelfing; gómur ([~ of the mouth]); s. leggja þak á; liggja eins og þak yfir; skýla, hýsa
 roofage n. þakefni
 roofing n. þak, þekja; þakefni

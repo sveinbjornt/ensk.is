@@ -528,9 +528,8 @@ depasture s. bíta (gras); beita (land); beita fé í land, á landi annars ([a 
 depauperate s. gera fátækari
 depend s. hanga; vera kominn undir e-u eða upp á e-n ([~ on a person for maintenance, support]); reiða sig á ([~ on])
 dependable l. áreiðanlegur, ábyggilegur
-dependant n. sá sem er upp á aðra kominn, skjólstæðingur; ft. skyldulið; ómagar
+dependant n. sá sem er upp á aðra kominn, skjólstæðingur; ft. skyldulið; ómagar; niðurhangandi; háður; kominn undir (e-u); kominn upp á e-n ([on, upon])
 dependence n. það að vera kominn undir e-u eða upp á e-n; traust; samband ([the child should be sensible of his ~ on his parents], að það er komið upp á foreldra sína)
-dependant l. niðurhangandi; háður; kominn undir (e-u); kominn upp á e-n ([on, upon])
 dependent l. niðurhangandi; háður; kominn undir (e-u); kominn upp á e-n ([on, upon])
 dependency n. hjálenda, lýðlenda
 depict s. mála; mynda; tákna; lýsa (í orðum)
@@ -927,7 +926,7 @@ dipsomaniac n. drykkjuóður maður
 dipterous l. tvívængjaður
 diptych n. altarisbrík
 dire l. hryllilegur, hörmulegur
-direful l. ógurlegur, skelfilegur
+direful l. ógurlegur, skelfilegur, hryllilegur, hörmulegur
 direct l. beinn ([in a ~ line, ~ taxes]); hreinn og beinn, hreinskilinn; ao. beint, beina leið ([he went ~ to heaven]); s. beina; leiðbeina; stýra; vísa (e-m veg); fyrirskipa, bjóða; skrifa utan á
 directable l. stýranlegur
 directible l. stýranlegur
@@ -938,7 +937,6 @@ directness n. réttleiki, bein stefna; hreinskilni
 director n. stjórnari, forstjóri; framkvæmdarstjóri
 directorate n. stjórnarnefnd, stjórn
 directory n. stjórnarnefnd; vegvísunarbók (í bæjum), bæjarskrá; l. leiðbeinandi
-direful l. hryllilegur, hörmulegur
 dirge n. sorgarljóð
 dirigible l. stýranlegur; n. loftfar
 dirk n. laghnífur, handsax; s. stinga (með laghníf)

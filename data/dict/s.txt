@@ -49,9 +49,8 @@ saga n. íslensk fornsaga; fjölskyldusaga ([The Godfather Saga])
 sagacious l. skarpskyggn, skarpviturlegur ([~ conjecture]); skynugur (um dýr); þefnæmur (um hunda)
 sagaciousness n. skarpskyggni
 sagacity n. skarpskyggni
-sage l. vitur; viturlegur; n. vitringur
+sage l. vitur; viturlegur; n. vitringur; salvía (jurt)
 sageness n. viska
-sage n. salvía (jurt)
 sago n. sagógrjón
 sail n. segl; skip, seglskip; sjóferð, sigling ([the ~ was delightful]); [a fleet of thirty ~] 30 skipa floti; [to strike ~] fella segl; [in full ~] með öllum seglum; s. sigla; fara af stað (einnig um gufuskip); svífa, liða; sigla yfir; stýra (skipi)
 sailable l. skipgengur
@@ -81,8 +80,7 @@ salinity n. selta
 saliva n. munnvatn
 salivate s. slefa
 salivation n. of mikil aðsókn af munnvatni; slefun
-sallow n. gráviðir
-sallow l. gulgrár (í framan), fölleitur; s. gera gulgráan (fölleitan)
+sallow n. gráviðir; l. gulgrár (í framan), fölleitur; s. gera gulgráan (fölleitan)
 sally n. útrás (úr borg, sem setið er um); fyndni ([a ~ of wit]); kast ([~ of passion]); gáski, léttúð; s. [~ out] brjótast (ráðast) út; [~ forth, off] leggja af stað
 salmon n. lax; [~ weir] laxakista
 saloon n. stór salur
@@ -104,8 +102,7 @@ salubrity n. heilnæmi, hollusta
 salutary l. heilnæmur; heilsusamlegur, gagnlegur
 salutation n. heilsun, kveðja
 salutatory l. heilsunar-, kveðju-
-salute s. heilsa, sýna e-m virðingu, viðurkenna viðurvist e-s formlega ([we who are about to die ~ you!])
-salute n. heilsun; kveðja; koss; kveðjuskot ([to fire a ~])
+salute s. heilsa, sýna e-m virðingu, viðurkenna viðurvist e-s formlega ([we who are about to die ~ you!]); n. heilsun; kveðja; koss; kveðjuskot ([to fire a ~])
 salvable l. frelsanlegur, bjarganlegur (um skip)
 salvage n. björgun ([~ of life, of property]); bjarglaun ([~ money]); bjargaðir munir; s. bjarga
 salvation n. frelsun; sáluhjálp; [~ army] sáluhjálparher, hjálpræðisher
@@ -802,7 +799,7 @@ shallowness n. grunnleiki; grunnhyggni
 sham n. blekking, svik; uppgerð, skrópar; l. uppgerður, uppgerðar-; sem aðeins er til sýnis (til málamyndar); [a ~ fight] orustusýning; s. gera sér upp; látast; [~ illness] látast vera sjúkur
 shambles n. ft. slátrarabúð, slátrunarhús
 shame n. skömm, afmán, smán, minnkun; blygðunarsemi; [for ~!] svei, skammastu þin! [to put to ~] gera (e-m) skömm; s. gera (e-m) skömm; skammast sín
-shamefaced l. feiminn, uppburðarlítill; blygðunarsamur; skömmustulegur
+shamefaced l. skömmustulegur; blygðunarsamur; feiminn, uppburðarlítill
 shameful l. svívirðilegur, skammarlegur
 shamefulness n. skömm, smán
 shameless l. blygðunarlaus
@@ -1340,7 +1337,6 @@ Slavonic l. slavneskur
 slay s. drepa, vega
 slayer n. vegandi, banamaður
 slay n. vefjarskeið
-sley n. vefjarskeið
 sleazy l. laus, gisinn, þunnur; subbulegur, ógeðfelldur, siðferðislega vafasamur
 sled n. sleði; s. flytja á sleða
 sledding n. sleðaflutningur; sleðafæri
@@ -1413,9 +1409,8 @@ sloth n. leti, dugleysi, ómennska; letidýr
 slothful l. latur, duglaus
 slouch s. vera niðurlútur; hanga, slúta; ganga (sitja, standa) klunnalega, draga á eftir sér fæturna; þrýsta niður; láta (hattinn) slúta; n. klunnalegt göngulag
 slough n. forarpollur; fen
-sloughy l. blautur, mýrlendur
+sloughy l. blautur, mýrlendur; hrúðurkynjaður
 slough n. höggormshamur; hrúður (ofan af sári); s. skipta um ham; losna (um hrúður)
-sloughy l. hrúðurkynjaður
 sloven n. sóði; l. sóðalegur, óþrifinn
 slovenliness n. sóðaskapur, óþrifnaður
 slovenly l. sóðalegur, óþrifinn
@@ -1730,8 +1725,7 @@ sordidness n. saurugleiki; ágirnd, níska, svíðingsskapur
 sore n. sár, fleiður, kýli; böl; l. sár, aumur, viðkvæmur; [~ eyes] bólgin augu; [he has a ~ throat] honum er illt í hálsi
 sorely ao. sárlega, ákaflega, mjög ([to grieve one ~])
 soreness n. sárindi, eymsli
-sorrel l. dumbrauður, jarpur; n. dumbrauður litur; jarpur hestur
-sorrel n. súra
+sorrel n. súra; l. dumbrauður; jarpur; n. dumbrauður litur; jarpur hestur
 sorrow n. sorg, harmur, böl; s. syrgja
 sorrowful l. sorgfullur, hryggur; sorglegur ([~ accident])
 sorry l. hryggur, hryggilegur; lélegur, lítilfjörlegur ([a ~ excuse]); [I am ~ to say] það hryggir mig að þurfa að segja; [I am/feel ~ for him] ég kenni í brjósti um hann
@@ -2046,9 +2040,8 @@ sprinter n. spretthlaupari
 sprit n. spritt
 sprite n. vofa, draugur, (svart)álfur, púki; mynd (í tölvugrafík)
 sprout s. spíra, byrja að vaxa; láta vaxa spírur á (útsæði); n. frjóstöngull, spíra, vísir
-spruce n. grenitré
 spruce beer n. öltegund (búin til úr sírópi og seyði úr greniviði)
-spruce l. skrautbúinn, prúðbúinn; s. skrautbúa; dubba upp
+spruce n. grenitré; l. skrautbúinn, prúðbúinn; s. skrautbúa; dubba upp
 spry l. fjörugur, sprækur
 spud n. arfagref; s. reyta, rífa upp ([~ out, up])
 spume n. froða; s. freyða, löðra
@@ -2148,13 +2141,10 @@ stairway n. stigi (í húsi)
 stake n. staur; píslarstaur (sem píslarvotturinn var bundinn við, meðan hann var að brenna); spilafé; veðfé; hætta; [at ~] í veði, í húfi ([his honour is at ~]); [to perish at the ~] vera brenndur á báli; s. festa, binda við staur; girða með staurum; spila um; hætta (veðja) e-u; leggja í hættu; [~ out] marka með stöngum ([~ out a road])
 stakeholder n. gæslumaður veðfjár; hagsmunaaðili
 stalactite n. dropasteinn
-stale l. daufur, bragðlaus; gamall, uppþornaður ([~ bread]); margnotaður; hversdagslegur; s. deyfa, gera kraftlaust
+stale l. daufur, bragðlaus; gamall, uppþornaður ([~ bread]); margnotaður; hversdagslegur; s. deyfa, gera kraftlaust; míga (um hest); n. langt skaft; [~ of a rake] hrífuskaft
 staleness n. deyfubragð; skemmd (á mat sökum elli)
-stale n. langt skaft; [~ of a rake] hrífuskaft
-stale s. míga (um hest)
 stalemate n. patt í skák; s. gera (e-n) patt; koma (e-m) í bobba
-stalk n. stöngull, leggur; strá; fjöðurstafur
-stalk s. stika; ganga hægt á eftir, læðast að (veiðidýrum [~ down]); n. tigulegur gangur
+stalk n. stöngull, leggur; strá; fjöðurstafur; s. stika; ganga hægt á eftir, elta, læðast að (veiðidýrum [~ down]); n. tigulegur gangur
 stalker n. veiðimaður (sem skýtur gemsur, hirti, hreindýr); eltihrellir
 stalking horse n. hestur sem veiðimaðurinn felur sig bakvið; skálkaskjól, yfirvarp
 stalky l. líkur stöngli ([~ legs]); stönglóttur
@@ -2315,9 +2305,8 @@ sterile l. ófrjór, geldur; árangurslaus ([~ effort]); sótthreinsaður, dauð
 sterility n. ófrjósemi
 sterilized l. dauðhreinsaður; gerilsneyddur; gerður ófrjór
 sterling l. sleginn úr skírum málmi ([is of ~ gold, silver]), ófalsaður, ekta; frábær, ágætur ([a work of ~ merit])
-stern l. harðleitur; strangur; harður; harðbrjóstaður
+stern l. harðleitur; strangur; harður; harðbrjóstaður; n. afturhluti (skips), skutur; [~ foremost] aftur á bak
 sternness n. harka, strangleiki; alvörusvipur
-stern n. afturhluti (skips), skutur; [~ foremost] aftur á bak
 sternfast n. skutfesti
 sternmost l. aftastur ([the ~ ship])
 sternpost n. afturstafn
@@ -2457,7 +2446,6 @@ storekeeper n. vöruhússumsjónarmaður; smákaupmaður
 storeroom n. forðabúr
 storeship n. vistaflutningaskip
 storey n. hæð (í húsi)
-story n. hæð (í húsi)
 storied l. sögulegur; skreyttur sögulegum myndum; (í samsetningum) -lyftur, -loftaður ([two-~] tvílyftur)
 stork n. storkur
 storm n. stormur, óveður, illviðri, kafaldshríð; áhlaup ([take a place by ~]); ofsi; s. gera ákaft áhlaup á (víggirtan stað); hamast, æða; [it ~s] það er óveður (stormur)
@@ -2468,7 +2456,7 @@ storminess n. stormasemi; ofsi
 storm-stayed l. veðurtepptur
 storm-stead l. veðurtepptur
 stormy l. stormasamur; ofsalegur, ákafur
-story n. saga, frásaga, frásögn
+story n. saga, frásaga, frásögn; hæð (í húsi)
 storybook n. sögubók
 storyteller n. sögumaður
 stoup n. ker með vígðu vatni (í kaþólskum kirkjum)
@@ -2641,8 +2629,7 @@ sturdy l. harður; ótrauður; öflugur, sterkur; sterkbyggður; n. vanki, höfu
 sturgeon n. styrja
 stutter s. stama, reka í vörðurnar; n. stam
 stutterer n. stamari
-sty n. svínastía, svínabæli ([pigsty]); s. byrgja inni (í stíu)
-sty n. vogrís (á auga)
+sty n. svínastía, svínabæli ([pigsty]); vogrís (á auga); s. byrgja inni (í stíu)
 stye n. vogrís (á auga)
 Stygian l. sem lýtur að ánni Styx; undirheimalegur
 style n. orðfæri, ritháttur, stíll; snið (á listaverkum); venja; tíska; aðferð; titill; tímatal ([old ~, new ~]); grafall; vísir (á sólúri); s. titla; nefna

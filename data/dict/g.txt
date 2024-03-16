@@ -41,7 +41,7 @@ gale n. hvassviðri, stormur
 galimatias n. þvættingur, bull
 gall n. gall; beiskja, vonska, heift; blekepli
 gallbladder n. gallblaðra, gallpungur
-gallless l. galllaus; góðlyndur
+gallless l. galllaus; góðlyndur; beiskjulaus
 gallnut n. blekhnot, blekepli
 gall s. nugga (gat á hörundið, kaðal til skemmda); fleiðra, meiða (t.d. hest undan reiðveri); særa, erta; n. sár, meiðsl, fleiður
 gallant l. glæsilegur; göfuglyndur; hugaður, hraustur, vasklegur; kurteis, stimamjúkur (við kvennfólk); n. friðill; spjátrungur; s. vera stimamjúkur við; fylgja í kurteisisskyni
@@ -60,7 +60,6 @@ gallinaceous l. hænsna- ([~ fowls])
 galling l. meiðandi, særandi
 gallist n. léttiskúta
 gallipot n. smyrslakrukka úr leir
-gallless l. galllaus, beiskjulaus
 gallon n. gallon
 galloon n. borði, legging
 gallooned l. borðalagður ([~ with lace])
@@ -216,7 +215,7 @@ genial l. lífgandi, frjóvgandi; hlýr, blíður, mildur (um loftslag); ljúfma
 geniality n. veðurblíða; glaðlyndi
 genialize s. gera blíðan
 genialness n. ljúfmennska
-genital l. æxlunar-
+genital l. æxlunar-, kynfæra-, æxlunarfæra-
 genitive n. eignarfall (í málfræði, [~ case])
 genitor n. faðir
 genius n. gáfur, hugvit; hugvitsmaður, snillingur; [a man of ~] vitsmunamaður
@@ -758,7 +757,7 @@ grill s. steikja á rist; n. steikarrist
 grilse n. ungur lax
 grim l. ógeðslegur, andstyggilegur; óbliður, harður ([~ necessity]); hörkulegur ([~ features]); miskunnarlaus ([~ fighting, battle]); ófrýnilegur; kuldalegur ([~ laughter, jest, pleasantry])
 grimness n. ófrýnileiki
-grimace n. gretta, skæla, bretta; s. skæla sig í andlitinu
+grimace n. gretta, skæla, bretta; s. gretta sig, skæla sig í andlitinu
 grime n. óhreinindi, gróm; s. óhreinka
 griminess n. óhreinleiki
 grimy l. óhreinn, grómtekinn, óþrifalegur
@@ -811,12 +810,11 @@ groundless l. ástæðulaus
 groundlessness n. ástæðuleysi
 groundling n. grunnungur (fisktegund)
 ground rent n. lóðarleiga
-groundsel n. undirstöðustokkur (byggingar)
+groundsel n. undirstöðustokkur (byggingar); brandbikar, krossgras (jurt)
 groundsill n. undirstöðustokkur (byggingar)
 groundswell n. undiralda, ylgja
 groundwork n. undirstaða, grundvöllur
 groundworm n. ánamaðkur
-groundsel n. brandbikar (jurt), krossgras
 group n. hópur, þyrping; hópmynd; s. hópa; raða niður; flokka ([~ together]); hópast
 grouse n. orrafuglar (rjúpur, akurhænsni o.fl.); s. skjóta rjúpur
 grousing n. rjúpnaveiðar

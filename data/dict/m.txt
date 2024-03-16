@@ -705,7 +705,7 @@ methodism n. kenning Meþódista
 Methodist n. Meþódisti
 methodize s. koma fastri reglu á; koma (e-u) haganlega fyrir
 methought s. mér virtist, mér þótti (þátíð af [methinks])
-metonymy n. nafnskipti, nafnhvörf
+metonymy n. nafnskipti, nafnhvörf; merkingarskipti (þegar einhver eiginleiki fyrirbæris er hafður um fyrirbærið sjálft)
 metre n. bragarháttur; metri (lengdarmál, mælieining)
 metric l. metra- ([~ measure, ~ system])
 metrical l. sem lýtur að bragar-háttum; bragfræðilegur; sem lýtur að metramáli
@@ -865,13 +865,12 @@ mint n. mynta (plöntutegund)
 minuet n. hægur dans; e.k. danslag
 minus l. & ao. mínus, að frádregnu ([7 ~ 4 is equal to 3])
 minute l. smár; lítilfjörlegur; nákvæmur; smásmuglegur
-minutely ao. mjög nákvæmlega, grandgæfilega
+minutely ao. mjög nákvæmlega, grandgæfilega; á hverri mínútu, á hverju augnabliki ([to expect one ~])
 minuteness n. nákvæmni; smámunasemi
 minute n. mínúta; uppkast; minnisgrein; ft. gerðabók; s. búa til uppkast að; skrifa sér til minnis; rita í gerðabók, bókfæra; reikna eftir mínútum ([~ the time])
 minute book n. uppkastabók; minnisbók
 minute gun n. byssa, sem skotið er af á hverri mínútu (sem neyðarmerki); neyðarskot
 minute hand n. mínútuvísir (á klukku)
-minutely ao. á hverri mínútu, á hverju augnabliki ([to expect one ~])
 minutiae n. minnstu smáatriði
 minx n. gála, flenna, skella
 miracle n. kraftaverk; furðuverk
@@ -1498,7 +1497,7 @@ mustermaster n. liðsmannabókari, skráningarstjóri
 mustiness n. mygla
 mutability n. breytileiki, óstöðugleiki
 mutable l. breytilegur; óstöðugur
-mutation n. breyting
+mutation n. breyting, stökkbreyting
 mute l. mállaus; dumbur (um stafi); hljóðlaus ([the e in late is ~]); þögull; n. þegjandi persóna; málleysingi; dumbstafur; s. deyfa hljóð í (hljóðfæri)
 mutilate s. lemstra, limlesta; skemma
 mutilation n. limlesting; skemmdir
