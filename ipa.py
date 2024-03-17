@@ -666,6 +666,10 @@ SKIP = frozenset(
         "Taylorization",
         "Taylorize",
         "unpersonable",
+        "climacteric",
+        "gyrotron",
+        "Mesopotamian",
+        "psychogenic",
     )
 )
 

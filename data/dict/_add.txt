@@ -2162,6 +2162,7 @@ supercomputer n. ofurtölva
 gorilla n. górilla (stór api)
 cardholder n. korthafi
 Mesopotamia n. Mesópótamía (landið á milli fljótanna Efrat og Tígris)
+Mesopotamian l. mesópótamískur (sjá %[Mesopotamia]%)
 Danube n. Dóná
 Arabia n. Arabía
 visibly ao. sjáanlega
@@ -4277,3 +4278,14 @@ unpersonable l. óviðkunnanlegur, ekki góður félagsskapur
 sub n. kafbátur (óformleg stytting á %[submarine]%)
 creaky l. brakandi, marrandi, hriktandi
 potentially ao. mögulega
+Roma n. Rómafólk, sígaunar (þjóðflokkur flökkufólks)
+untitled n. án titils, nafnlaus, ónefndur, ótitlaður
+gyrotron n. segulspunarafali
+climacteric n. breytingaskeið, aldurshvörf; tíðahvörf
+overexploit s. ofnýta
+psychogenic l. sálrænn, af sálrænum toga, geðrættur
+crosswalk n. gangbraut
+hypothermia n. ofkæling, lágur líkamshiti
+hypothermic l. ofkælingar-
+solidification n. storknun; þétting; hersli
+peripheral l. jaðar-; n. jaðarbúnaður, jaðartæki, fylgitæki
