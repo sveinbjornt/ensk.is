@@ -4160,13 +4160,15 @@ counterevidence n. gagnstæð eða andstæð sönnungargögn, sönnunargögn sem
 bric-a-brac n. glingur, drasl, ómerkilegir munir
 blitheness n. glaðværð; blíða
 habilitation n. hæfing
-disinvestment n. eignalosun, að draga til baka fjárfestingar
+disinvest s. draga til baka fjárfestingar (í [from]), affjárfesta
+disinvestment n. eignalosun, affjárfesting
 groundskeeper n. húsvörður, landvörður, umsjónarmaður
 sequoia n. rauðviður
 rhapsodic l. íburðarmikill, málskrúðsmikill
 lamppost n. ljósastaur
 electrician n. rafvirki
 militaristic l. hernaðarlegur, hernaðar-, herveldis-, herveldislegur
+class-conscious l. meðvitaður um stétt (sína)
 class-consciousness n. stéttarvitund, stéttarmeðvitund
 mercilessly ao. miskunnarlaust, án miskunnar
 unprintable l. óprentanlegur
@@ -4210,9 +4212,9 @@ seatbelt n. sætisbelti
 suspiciously ao. grunsamlega
 flatscreen n. flatskjár
 pretense n. sjá %[pretence]%
-unnavigable l. óskipgengur ([the river was ~])
-nymphomania n. vergirni, óvenju mikil kynhvöt konu
-nymphomaniac n. vergjörn kona, kona með óvenju mikla kynhvöt
+unnavigable l. óskipgengur, sem ekki er hægt að sigla um ([the river was ~])
+nymphomania n. vergirni, óvenjumikil kynhvöt konu, kynlífsárátta
+nymphomaniac n. vergjörn kona, kona með óvenjumikla kynhvöt, kona haldin kynlífsáráttu
 technocentric l. tæknimiðaður
 piglet n. gríslingur
 toxicology n. eiturefnafræði
@@ -4233,14 +4235,14 @@ preindustrial l. fyrir iðnbyltingu
 postindustrial l. eftir iðnbyltingu
 bicycling n. hjólreiðar
 self-enhancement n. sjálfshafning
-tsardom n. keisaradæmi; keisaratign
-czardom n. keisaradæmi; keisaratign
+tsardom n. keisaradæmi; keisaraveldi; keisaratign
+czardom n. keisaradæmi; keisaraveldi; keisaratign
 Anatolia n. Anatólía, Litla-Asía (stór skagi í Suðvestur-Asíu)
 Asia Minor n. Litla-Asía (stór skagi í Suðvestur-Asíu)
 boilerplate n. fastatexti, geymdur texti (texti sem er notaður ítrekað í mörgum skjölum)
 ammonium n. ammóníum
 colophon n. baktitill
-quantifiable l. mælanlegur
+quantifiable l. mælanlegur, magnmælanlegur
 devilishly ao. djöfullega
 needlessly ao. óþarflega, að óþörfu
 mapmaking n. kortagerð
@@ -4269,3 +4271,9 @@ animism n. andatrú, sálnatrú
 landlessness n. landleysi
 Tibet n. Tíbet
 Tibetan l. tíbeskur; n. Tíbeti
+jobless l. starfslaus, atvinnulaus
+chlamydia n. klamydía (kynsjúkdómur)
+unpersonable l. óviðkunnanlegur, ekki góður félagsskapur
+sub n. kafbátur (óformleg stytting á %[submarine]%)
+creaky l. brakandi, marrandi, hriktandi
+potentially ao. mögulega

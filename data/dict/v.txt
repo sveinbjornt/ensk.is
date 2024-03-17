@@ -57,7 +57,7 @@ valueless l. einskisverður
 valve n. vænghurð; spjald; vindspeldi; loki (í vél)
 vamp n. yfirleður (á skó); s. setja nýtt yfirleður á, bæta; [~ up] dubba upp
 vampire n. vampíra, blóðsuga; [~ bat] leðurblökutegund
-van n. framlið, forvarðalið; (stytt úr [caravan]) farangursvagn (á járnbraut), flutningavagn
+van n. vagn, farangursvagn, flutningavagn (stytt. á [caravan]); framlið, forvarðalið (sjá %[vanguard]%)
 vandalism n. skemmdir og eyðing (listaverka og bóka að sið Vandala)
 vane n. veðurviti; þanir á fjöður, mylnuvængur
 vanguard n. forvarðalið, fylkingarbroddur
@@ -75,7 +75,7 @@ vaporize s. breyta í gufu; gufa upp
 vaporous l. fullur af gufu; fánýtur
 vapour n. gufa, eimur; ft. þunglyndi; s. gufa upp; gorta, grobba; láta borginmannlega
 vapoury l. duttlungafullur; þunglyndur
-variable l. breytilegur; mismunandi; óstöðugur
+variable l. breytilegur; mismunandi; óstöðugur; n. breyta; breytistærð
 variance n. sundurþykkja, ósamlyndi; [at ~ with] ósáttur við
 variation n. breyting; mismunur; misvísun (kompásnálarinnar)
 varicose l. þrútinn (um æðar)

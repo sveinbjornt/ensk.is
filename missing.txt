@@ -900,7 +900,6 @@ skyline
 lentonite
 dovecote
 waterway
-unpersonable
 untidiness
 dreamless
 marguerite
@@ -940,6 +939,7 @@ hideout
 roadmap
 superhighway
 incubator
+abnormality
 normality
 funerary
 trustworthiness
@@ -954,7 +954,6 @@ Islamification
 redirection
 dismissive
 dismissiveness
-
 nationhood
 sacral
 melodramatic
@@ -1099,7 +1098,6 @@ curbside
 hodgepodge
 workhorse
 wipeout
-jobless
 teammate
 craziness
 manipulative
@@ -1933,7 +1931,6 @@ glitch
 soteriology
 unavailability
 tearfulness
-creaky
 thoroughness
 unlovable
 worthlessness
@@ -2556,7 +2553,6 @@ cover-up
 substantiation
 reservist
 presumably
-potentially
 variadic
 arity
 fracking
@@ -3874,3 +3870,7 @@ teleconnection
 uniformitarianism
 advection
 asymmetrically
+quantified
+unquantified
+variably
+quibbling

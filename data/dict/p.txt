@@ -733,7 +733,7 @@ persistency n. stöðugleiki; áframhald; þrákelkni
 persistent l. þrálátur; þolgóður; fastur; stöðugur; varanlegur
 persisting l. þrálátur; þolgóður; fastur; stöðugur; varanlegur
 person n. persóna, maður; líkamsvöxtur; [in ~] sjálfur; [his own ~] hann sjálfur; [your ~] þér sjálfur
-personable l. góður félagsskapur; vel vaxinn, laglegur
+personable l. viðkunnanlegur, góður félagsskapur; vel vaxinn, laglegur
 personage n. tiginn maður ([an illustrious ~]); persóna ([a mythological ~])
 personal l. persónulegur; líkamlegur; ytri; nærgöngull, ófyrirleitinn; [~ property, ~ goods] lausafé
 personality n. persónuleiki
@@ -1579,27 +1579,27 @@ postil n. skýringargrein við texta; postilla
 postilion n. forreiðarmaður
 postillion n. forreiðarmaður
 post meridiem ao. (skammstafað [P.M.]) síðdegis, eftir hádegi ([3:20 P.M.])
-post mortem ao. eftir dauðann; [~ examination] líkskoðun
+postmortem ao. eftir dauðann; [~ examination] líkskoðun
 postpone s. fresta; láta sitja á hakanum
 postponement n. frestun
 postscript n. eftirskrift
 postulant n. umsækjandi
-postulate n. ósönnuð setning; krafa; s. krefjast; gera ráð fyrir e-u; skoða sem sjálfsannað
+postulate s. skoða sem sjálfsannað; gera ráð fyrir e-u; krefjast; n. ósönnuð setning; krafa
 postulation n. krafa
 posture n. staða; stelling; ástand; s. setja; setja (sig) í stellingar
 posy n. spakmæli í ljóðum; blómhnýti, blómvöndur
 pot n. pottur; pottmál; krukka; kanna; kannabis; s. sjóða (salta) niður; setja í pott eða krukku
-potable l. drekkanlegur, drekkandi ([the water was not ~])
+potable l. drekkanlegur, drekkandi, sem hægt er að drekka ([the water was not ~])
 potage n. súpa
 potash n. pottaska, kalí
 potation n. drykkur; drykkja ([to abstain from ~])
-potato n. jarðepli, kartafla
+potato n. kartafla, jarðepli,
 potato blight n. skemmd í kartöflum
-pot-bellied l. vambmikill
+pot-bellied l. vambmikill, kviðmikill
 potency n. máttur, kraftur, afl ([supernatural ~]); áhrif
 potent l. máttugur, voldugur; kröftugur ([a ~ medicine])
 potentate n. stórhöfðingi, valdhafi, drottnari
-potential l. sem getur verið, mögulegur
+potential l. mögulegur, sem getur verið; n. möguleiki; mætti; spenna
 potentiality n. möguleiki; máttur
 pother n. hávaði, læti; brölt; s. gera hávaða; ónáða
 potherbs n. ft. súpujurtir

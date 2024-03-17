@@ -2159,7 +2159,7 @@ stammer s. stama; n. stam
 stammerer n. stamari
 stamp s. stappa ([~ one's feet]); þrýsta (marki) á (með e-u [with]); stimpla; frímerkja; móta, slá (peninga); [~ oneself as being no judge of (painting)] sýna að maður hefur ekki vit á e-u; [~ out] uppræta; n. stapp (með fótunum); mót, mark; frímerki; stimpill; tegund, tægi ([a man of the same ~])
 stampede n. æðislegur flótti (nautpenings eða hesta); snöggur ótti; s. reka á flótta, fæla
-stance n. staða; stæði; hússtæði, tjaldstæði ([a ~ for a house, for a tent])
+stance n. staða; afstaða; stæði; hússtæði, tjaldstæði ([a ~ for a house, for a tent])
 stanch l. sjá %[staunch]%
 staunch s. stöðva (blóðrás); sefa; stöðvast, hætta að renna; l. sterkur og þéttur; fastur (í skoðunum); staðfastur; trúr, tryggur; áreiðanlegur; ákafur
 stanchion n. skorða
@@ -2653,10 +2653,10 @@ subduer n. undirokari, kúgari
 subedit s. gefa út sem meðritstjóri
 subeditor n. meðritstjóri
 subjacent l. neðri
-subject l. undirgefinn; undirorpinn, háður; [to be ~ to warts] eiga vanda til að fá vörtur; n. þegn; (umræðu)efni; hlutur; námsgrein; umsagningur (í málfræði); s. leggja (brjóta) undir sig; undiroka; gera undirorpinn (e-u [to]); [~ to a rigid test] prófa (reyna) vandlega
+subject n. viðfangsefni; umræðuefni; hlutur; námsgrein; umsagningur (í málfræði); þegn; l. undirgefinn; undirorpinn, háður; [to be ~ to warts] eiga vanda til að fá vörtur; s. leggja (brjóta) undir sig; undiroka; gera undirorpinn (e-u [to]); [~ to a rigid test] prófa (reyna) vandlega
 subjection n. undirokun; undirgefni, hlýðni
 subjective l. hugrænn, huglægur
-subjectivity n. persónueðli; hugræna
+subjectivity n. huglægi, huglægni; hugræna; persónueðli
 subject matter n. umræðuefni, viðfangsefni
 subjoin s. bæta við
 subjugate s. undiroka
@@ -2674,9 +2674,9 @@ submerge s. dýfa (sökkva) ofan í; kaffæra; flæða yfir; stinga sér; fara �
 submergence n. kaffæring; flóð; drukknun
 submersion n. kaffæring; flóð; drukknun
 submission n. undirgefni; hlýðni
-submissive l. undirgefinn; auðmjúkur
-submit s. leggja (e-ð) undir úrskurð; gefast upp; láta undan; sætta sig við, hlíta (e-u, [~ to one's fate, to necessity])
-subordinate l. háður; minni háttar, óæðri; undir-; [~ clause] aukasetning; n. undirmaður; s. meta minna; gera háðan
+submissive l. undirgefinn; auðmjúkur; hlýðinn
+submit s. leggja (e-ð) undir úrskurð; gefast upp; láta undan; sætta sig við, hlíta (e-u, [~ to one's fate])
+subordinate l. minni háttar, óæðri; undir-; [~ clause] aukasetning; háður; n. undirmaður; s. meta minna; gera háðan; gera að undirmanni
 subordination n. óæðri tign; hlýðni (einkum liðsmanna við yfirmenn sína); undirlægjuskapur
 suborn s. lokka e-n til meinsæris; koma til leiðar (með slægð eða brögðum); múta e-m, kaupa e-n (t.d. vitni)
 subornation n. lokkun (til meinsæris eða illræðis); mútugjöf, mútur

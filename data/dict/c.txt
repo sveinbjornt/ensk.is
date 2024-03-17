@@ -606,8 +606,7 @@ chaplet n. höfuðsveigur úr blómum; talnaband
 chapman n. kaupmaður; varningsmaður
 chappy l. sprunginn (um hörund), fullur af sprungum
 chapter n. kafli, kapítuli; kórsbræðrasamkoma
-char n. bleikja (silungur)
-char s. svíða (við til kola)
+char n. bleikja (silungur); s. svíða (við til kola)
 character n. merki; bókstafur; letur; rithönd; einkenni; skaplyndi, lunderni; fastur vilji, staðfesta; gott mannorð; lundernislýsing; vitnisburður; maður (með sérstökum skapeinkennum); persóna (í skáldsögu eða leikriti); s. letra; lýsa; auðkenna
 characteristic l. einkennilegur; n. einkenni
 characterize s. lýsa (einkennum); auðkenna
@@ -2450,17 +2449,17 @@ crayfish n. vatnakrabbi, fljótakrabbi
 craze s. brjála, æra; brjálast, ærast; n. æði, brjálun; æðisleg löngun
 crazed l. brjálaður
 crazy l. vitskertur, brjálaður, geðbilaður; hrörlegur ([a ~ house, ship])
-creak s. marra, braka, hrikta í; n. marr, brak, hrikt
+creak s. braka, marra, hrikta í; n. brak, marr, hrikt
 cream n. rjómi; úrval; [~ of tartar] hreinsaður vínsteinn; s. veiða rjómann ofan af; láta rjóma í (kaffi, te); velja úr; [the milk ~s] rjómi sest ofan á mjólkina
 creamer n. rjómafleytir
 creamery n. smjörbú; rjóma- og mjólkursölustaður
 creamy l. rjómaborinn; sem líkist rjóma, rjóma-; mjúkur ([~ words]); rjómalitaður, gulleitur, hvítur
 crease n. brot (í fati eða pappír), hrukka; s. gera hrukkur eða brot í, brjóta; hrukkast
 create s. skapa; stofna; framleiða; valda; gera; gera (e-n) að (e-u), kjósa
-creation n. sköpun; tilbúningur; kosning
+creation n. sköpun; tilbúningur
 creative l. skapandi, sköpunar-
 creator n. skapari
-creature n. skepna; kvikindi; maður; [poor ~] vesalingurinn!
+creature n. skepna; kvikindi; sköpuð vera; maður; [poor ~!] vesalingurinn!
 credence n. trúnaður; [to give ~ to] leggja trúnað á; [letter of ~] meðmælingarbréf
 credentials n. ft. meðmælingarbréf, (einkum) umboðsskjal sendiherra
 credibility n. trúanleiki

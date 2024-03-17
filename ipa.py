@@ -665,6 +665,7 @@ SKIP = frozenset(
         "steam-driven",
         "Taylorization",
         "Taylorize",
+        "unpersonable",
     )
 )
 
