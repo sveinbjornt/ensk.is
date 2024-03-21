@@ -1136,9 +1136,9 @@ executioner n. aftökumaður, böðull
 executive l. framkvæmandi, framkvæmdar-; n. framkvæmdarvald
 executor n. framkvæmandi
 executory l. sem lýtur að framkvæmd (skipunar, úrskurðar, laga o.fl.)
-exegesis n. ritskýring
-exegetic l. skýringarlegur, sem skýrir e-ð
-exegetical l. skýringarlegur, sem skýrir e-ð
+exegesis n. ritskýring, ritskýringarlist
+exegetic l. , ritskýringar-, skýringarlegur, sem skýrir e-ð
+exegetical l. , ritskýringar-, skýringarlegur, sem skýrir e-ð
 exemplar n. fyrirmynd; dæmi; eintak
 exemplarily ao. öðrum til viðvörunar ([~ punished]); frábærlega ([~ faithful])
 exemplary l. sem er til fyrirmyndar eða viðvörunar; frábær

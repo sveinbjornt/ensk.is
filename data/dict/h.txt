@@ -492,7 +492,7 @@ heritable l. sem gengur í erfðir, arfgengur, erfða-
 heritage n. arfur, arfleifð, erfðafé
 heritance n. arfur
 hermaphrodite l. tvíkynjaður; tvítóla; n. tvíkynja vera
-hermeneutics n. ritskýringarlist ([Biblical ~])
+hermeneutics n. ft. túlkunarfræði, ritskýringarlist ([Biblical ~])
 hermetic l. loftþéttur; [~ art, philosophy, science] gullgerðarlist
 hermit n. einsetumaður
 hermitage n. einsetustaður, einsetumannabústaður

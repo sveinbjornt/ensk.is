@@ -670,6 +670,10 @@ SKIP = frozenset(
         "gyrotron",
         "Mesopotamian",
         "psychogenic",
+        "barbarization",
+        "collectivistic",
+        "mercantilistic",
+        "thievishness",
     )
 )
 

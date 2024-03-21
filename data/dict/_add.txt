@@ -789,7 +789,8 @@ Paraguay n. Paragvæ
 Paraguayan l. paragvæskur; n. Paragvæi
 Peru n. Perú
 Philippines n. ft. Filippseyjar ([the ~])
-Philippine l. filipseyskur (frá Filippseyjum); n. Filippseyingur
+Philippine l. filipseyskur, frá Filippseyjum; n. Filippseyingur
+Filipino n. Filippseyingur; l. filipseyskur, frá Filippseyjum
 Portugal n. Portúgal
 Puerto Rico n. Púertó Ríkó
 Qatar n. Katar
@@ -1347,7 +1348,7 @@ xeno- fsk. ókunnugur, utanaðkomandi, erlendur, útlendur; sjá t.d. %[xenophob
 re- fsk. endur-; sjá t.d. %[revolution]%, %[reload]%, %[rediscover]%
 auto- fsk. sjálf-, sjálfs-; sjá t.d. %[automobile]%, %[autobiography]%, %[autonomy]%
 pre- fsk. for-, áður-, á undan, fyrir, fyrr; of snemma; sjá t.d. %[prementioned]%, %[predict]%, %[premature]%
-post- fsk. á eftir e-u; sjá t.d. %[post mortem]%, %[postmodern]%
+post- fsk. á eftir e-u; sjá t.d. %[postmortem]%, %[postmodern]%
 counter- fsk. mót-, gegn-; andspænis, gagnstæður; sjá t.d. %[counteract]%, %[counterfeit]%
 intra- fsk. innan, innra-, innbyrðis, innvortis; sjá t.d. %[intravenous]%, %[intranet]%
 quasi- fsk. hálf-, hálfgerður, hálfpartinn, næstum, hér um bil, eins konar; [a ~religious concept] hálfpartinn trúarlegt hugtak
@@ -2553,6 +2554,7 @@ oversimplification n. ofeinföldun, ofureinföldun
 kibbutz n. samyrkjubú (í Ísrael)
 unpredictability n. ófyrirsjáanleiki
 mercantilist l. kaupauðgisstefnu-, merkantílisma-; n. kaupauðgisstefnusinni, merkantílisti
+mercantilistic l. kaupauðgisstefnu-, merkantílisma-
 labor n. sjá %[labour]%
 grandkid n. barnabarn
 heirless l. erfingjalaus, án erfingja
@@ -3643,6 +3645,7 @@ managerialism n. stjórnunarhyggja, stjórnhyggja
 managerialist n. stjórnunarhyggjusinni, stjórnhyggjusinni
 collectivism n. sameignarstefna
 collectivist n. sameignarsinni
+collectivistic l. sameignarstefnu-, sameignarsinna-
 fetishistic l. blætis-; sem tengist töfragripum
 antipsychotic l. sefandi; n. geðrofslyf, sefandi lyf
 hospitalization n. sjúkrahúsvistun
@@ -4289,3 +4292,10 @@ hypothermia n. ofkæling, lágur líkamshiti
 hypothermic l. ofkælingar-
 solidification n. storknun; þétting; hersli
 peripheral l. jaðar-; n. jaðarbúnaður, jaðartæki, fylgitæki
+barbarization n. villimennskun, snúningur til villimennsku
+Prometheus n. Prómeþeifur (persóna í grískri goðafræði sem stal eldinum handa mannfólkinu)
+Promethean l. prómeþeifskur, Prómeþeifs- (sjá %[Prometheus]%)
+mood disorder n. lyndisröskun, lyndistruflun
+unavoidably ao. óhjákvæmilega
+incomparably ao. ósambærilega
+thievishness n. stelvísi, þjófgirni
