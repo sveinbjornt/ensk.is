@@ -1068,7 +1068,7 @@ nightlife n. næturlíf
 annoying l. pirrandi, ergjandi, truflandi
 supervision n. eftirlit, yfirsjón, (yfir)umsjón,
 time zone n. tímabelti
-hegemon n. forystuveldi, forræðisveldi, forysturíki
+hegemon n. forystuveldi, forræðisveldi, forysturíki, oddaveldi
 hegemonic l. forystuveldis-, forystu-, forræðis-; sjá %[hegemony]%
 bloc n. fylking, þjóðafylking ([the Eastern ~], [the Western ~])
 geographic l. landafræðilegur; sjá einnig %[geographical]%
@@ -3008,13 +3008,13 @@ ferociousness n. grimmd, grimmúð, grimmýðgi
 iridium n. iridín (frumefni)
 rhodium n. ródín (frumefni)
 physique n. vaxtarlag, holdafar, líkamsbygging
-ratfish n. geirnyt
+ratfish n. geirnyt, hámús
 tarasque n. e.k. evrópskur dreki, goðsagnavera
 patio n. verönd
 Hegelian l. hegelískur, sem tengist kenningum þýska heimspekingsins G. W. F. Hegel; n. fylgismaður kenninga Hegels
 historically ao. sögulega
 moneylender n. (okur)lánari, lánardrottinn
-deforestation n. skógareyðing, eyðing skóga
+deforestation n. skógeyðing, skógareyðing, eyðing skóga
 diplomat n. stjórnarerindreki, ríkiserindreki, diplómati
 Baltic n. Eystrasaltið ([the ~ Sea]); Eystrasalts-; [the ~ states] Eystrasaltsríkin
 fermented l. gerjaður; sýrður
@@ -4295,7 +4295,13 @@ peripheral l. jaðar-; n. jaðarbúnaður, jaðartæki, fylgitæki
 barbarization n. villimennskun, snúningur til villimennsku
 Prometheus n. Prómeþeifur (persóna í grískri goðafræði sem stal eldinum handa mannfólkinu)
 Promethean l. prómeþeifskur, Prómeþeifs- (sjá %[Prometheus]%)
-mood disorder n. lyndisröskun, lyndistruflun
+mood disorder n. lyndisröskun, lyndistruflun, skapröskun
 unavoidably ao. óhjákvæmilega
 incomparably ao. ósambærilega
 thievishness n. stelvísi, þjófgirni
+biodegradable n. lífbrjótanlegur, lífbrotgjarn, lífhverfur; n. lífbrjótanlegt efni
+biodegradability n. lífbrjótanleiki, náttúrueyðanleiki, rotnanleiki
+biodegradation n. sjá %[biodegradability]%
+acrobatic l. loftfimleika-, fimleika-, línudans-
+acrobatics n. ft. loftfimleikar, fimleikar
+microdose n. smáskammtur, örskammtur; s. taka smáskammta eða örskammta

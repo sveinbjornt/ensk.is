@@ -732,10 +732,10 @@ mice n. ft. af %[mouse]%
 Michaelmas n. Mikjálsmessa (29. september)
 mickle l. mikill (skoskt orð)
 microbe n. gerill, sóttkveikja
-micro- fsk. (í samsetningum) smá- (t.d. [microdose], smáskammtur)
+micro- fsk. (í samsetningum) smá- (t.d. %[microdose]%, smáskammtur), ör- (t.d. %[microwave]%, örbylgja)
 microcosm n. smáheimur
 microscope n. sjónauki, smásjá
-microscopic l. sem að eins sést í sjónauka, örsmár
+microscopic l. sem aðeins sést í sjónauka, örsmár
 mid l. miður, mið-
 midday n. hádegi; l. hádegis-
 midnight n. miðnætti
@@ -826,8 +826,7 @@ mind s. taka eftir; gá að, hafa gætur á; hirða um; (sjaldan) muna eftir; mi
 minded l. -viljaður, -lyndur ([nobly ~]); [if he be so ~] ef honum býður svo við að horfa
 mindful l. athugull, gaumgæfinn ([~ of his health]); minnugur (e-s [of])
 mindless l. hugsunarlaus; óskynsamur
-mine fn. minn
-mine n. náma; púðurgröf; sprengigröf; tundurdufl, sprengivél; s. grafa í námu; grafa sprengigröf; grafa göng (um dýr); leggja tundurvélar; grafa púðurgröf undir; grafa grundvöllinn undan; steypa
+mine fn. minn; n. náma; púðurgröf; sprengigröf; tundurdufl, sprengivél; s. grafa í námu; grafa sprengigröf; grafa göng (um dýr); leggja tundurvélar; grafa púðurgröf undir; grafa grundvöllinn undan; steypa
 miner n. námumaður; málmnemi
 mineral n. steinn; málmsteinn; l. steina-; [~ springs] málmdámaðar lindir; heilsubrunnar; [the ~ kingdom] steinaríkið
 mineralize s. breyta í stein; gera (vatn) málmdámað; safna steinum
@@ -1180,8 +1179,8 @@ monotheist n. eingyðistrúarmaður
 monotone s. lesa, tala, syngja einræmislega; raula
 monotonous l. einræmislegur, tilbreytingarlaus, leiðinlegur
 monotony n. einræmi; tilbreytingarleysi
-monsoon n. monsún (staðvindur í Indlandshafinu)
-monster n. ferlíki, skrímsli, ófreskja; varmenni, grimmdarseggur
+monsoon n. monsún, monsúnvindur (staðvindur í Indlandshafinu)
+monster n. skrímsli, ófreskja, ferlíki; varmenni, grimmdarseggur
 monstrance n. upphaldsker (í kaþólsku kirkjunni)
 monstrosity n. vanskapnaður; afskapleiki
 monstrous l. ferlegur, vanskapaður; afskaplegur; afskræmislegur; viðbjóðslegur
