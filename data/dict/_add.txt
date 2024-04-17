@@ -3244,8 +3244,8 @@ counterrevolution n. gagnbylting
 professoriate n. prófessorastétt
 ghetto n. gettó, fátækrahverfi; Gyðingahverfi
 underclass n. undirstétt
-geopolitics n. ft. landfræðistjórnmál
-geopolitical l. landfræðistjórnmála-
+geopolitics n. ft. landfræðistjórnmál, landfræðipólitík, heimsstjórnmál, heimspólitík
+geopolitical l. landfræðistjórnmála-, landfræðipólitískur, heimsstjórnmála-, heimspólitískur
 monophonic l. einóma, einrása
 stereophonic l. víðóma, tvírása
 undulant l. bylgjandi, sem gengur í bylgjum
@@ -3756,15 +3756,20 @@ Taylorize s. innleiða taylorisma (sjá %[Taylorism]%)
 Taylorization n. innleiðing taylorisma (sjá %[Taylorism]%)
 barbiturate n. barbitúrat (efni leitt af barbitúrsýru)
 landmass n. landflæmi; meginland
+deregulate s. afregluvæða, afnema reglugerðir
+deregulated l. afregluvæddur
 deregulation n. afregluvæðing, afnám reglugerða
+transliterate s. umrita, umstafa
+transliterated l. umritaður, umstafaður
 transliteration n. umritun, umstöfun
 subculture n. menningarkimi, undirmenning; afrækt, undirrækt
 subcultural l. menningarkima-, undirmenningar-; afræktaður, undirræktaður
-churchgoer n. kirkjugestur, sóknarbarn, kirkjurækinn maður eða kona
+churchgoer n. kirkjugestur, sóknarbarn, kirkjurækin manneskja
 pederasty n. sveinmök, mök við drengi; barnagirnd
 pederast n. sá sem á mök við drengi; barnaperri
-triangulate s. þríhyrningsmæla
-triangulated l. þríhyrningsmældur
+triangulate s. þríhyrningamæla
+triangulated l. þríhyrningamældur
+triangulation n. þríhyrningamæling
 balaclava n. lambhúshetta (kennd við bæinn Balaklava á Krímskaga)
 Venetian l. feneyskur, frá Feneyjum; n. Feneyingur
 spay s. gera ófrjóa, taka úr sambandi, fjarlægja eggastokka og leg
@@ -4305,3 +4310,14 @@ biodegradation n. sjá %[biodegradability]%
 acrobatic l. loftfimleika-, fimleika-, línudans-
 acrobatics n. ft. loftfimleikar, fimleikar
 microdose n. smáskammtur, örskammtur; s. taka smáskammta eða örskammta
+inbreed s. innrækta
+inbreeding n. innrækt, innræktun, skyldleikaræktun, skyldleikaæxlun
+gynecologist n. kvensjúkdómalæknir
+patois n. mállýska; svæðisbundið mál; hversdagsmál, slangur
+Edinburgh n. Edinborg (höfuðborg Skotlands)
+misconceived l. misskilinn, rangskilinn, vanhugsaður
+misspecification n. rangskilgreining
+justified l. réttlætanlegur, réttlættur; jafnaður (um texta)
+unjustified l. óréttlætanlegur, óréttlættur; ójafnaður (um texta)
+egalitarian l. jafnaðar-, jafnaðarlegur, jafnréttis-; n. jafnréttis- eða jafnaðarsinni
+egalitarianism n. jafnaðarhyggja, jafnaðarstefna, jafnréttisstefna

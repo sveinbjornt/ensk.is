@@ -842,7 +842,7 @@ minim n. agnarögn; dropi; hálfnóta
 minimal l. örsmár; minnstur, lægstur
 minimize s. gera mjög lítið úr, lágmarka
 minimum n. minnsta upphæð, lágstig, lágmark
-mining n. námustarf, námugröftur, námurekstur
+mining n. námugröftur, námuvinnsla, námustarf, námurekstur
 minion n. vildarmaður, gæðingur, uppáhald
 minister n. ráðherra ([~ for foreign affairs]); sendiherra; prestur; s. veita láta í té; [~ to] þjóna; sjá um, sjá fyrir (e-u); bæta úr (þörfum)
 ministerial l. þjónandi; ráðherralegur; stjórnar-, fylgjandi stjórninni; embættislegur; kirkjulegur, prestslegur; n. stjórnarsinni
@@ -918,7 +918,7 @@ mischievous l. skaðlegur; illgjarn; hrekkjóttur
 mischievousness n. skaðsemi; illgirni; hrekkvísi
 miscible l. blandanlegur
 misconceive s. misskilja, rangskilja
-misconception n. misskilningur
+misconception n. misskilningur; ranghugmynd
 misconduct n. ill hegðun; röng aðferð; yfirsjón; s. stýra illa eða ranglega; [~ oneself] hegða sér ranglega
 misconjecture s. giska skakkt á; n. skökk (röng) ágiskun
 misconstruction n. skökk þýðing
@@ -1064,7 +1064,7 @@ mockery n. háð, spott; gabb; athlægi
 mockingly ao. í háði; hæðilega
 modal l. háttslegur; sem lýtur að forminu; skilmálabundinn ([~ legacy]); n. skildagasetning
 mode n. háttur ([~ of life]); tíska, venja
-model n. eftirlíki, mót; módel; fyrirmynd; s. mynda; laga (eftir e-u [on, upon, after])
+model n. líkan, módel; fyrirmynd; eftirlíki, mót; fyrirsæta; s. mynda; laga (eftir e-u [on, upon, after]); vera fyrirsæta
 moderate l. stilltur, hófsamur; gætinn, varfærinn, hægfara (í pólitík); s. stilla, tempra, sefa, minnka; stýra fundi, vera fundarstjóri
 moderation n. temprun, stilling, hóf, gætni
 moderator n. sá sem stillir; fundarstjóri

@@ -22,7 +22,7 @@ You can download the dictionary in the following formats:
 
 ## Background
 
-The author of the original dictionary, Geir T. Zoega (1857-1928),
+The author of the original dictionary, Geir T. Zoëga (1857-1928),
 was an English language teacher and later rector at the Learned
 School of Reykjavík in the years 1883-1927. The first edition was
 published in 1896. The digitised, extended and sanitised version
@@ -33,7 +33,7 @@ edited by Þorsteinn Þorsteinsson.
 The current incarnation of the dictionary has been heavily edited,
 updated and fixed in accordance with modern Icelandic orthography.
 Many additions have been made to bring the vocabulary into the 21st
-century. Various errors in the original text have also been corrected.
+century. Various errors in the original text were also corrected.
 
 # Contributing
 

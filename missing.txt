@@ -138,6 +138,7 @@ browse
 sexuality
 syndication
 troubleshoot
+troubleshooting
 unsigned
 waiver
 yahoo
@@ -311,9 +312,6 @@ archetypical
 irreducible
 sensationalist
 sensationalism
-justified
-unjustified
-misconceived
 purposefulness
 inconducive
 intellectually
@@ -345,8 +343,6 @@ presupposition
 free trader
 Whig
 self-identity
-egalitarian
-egalitarianism
 refashion
 betterment
 meliorist
@@ -1300,7 +1296,6 @@ solipsistic
 urbanite
 suburbanite
 sartorial
-patois
 lèse-majesté
 hooligan
 derisively
@@ -3972,3 +3967,19 @@ nepheloscope
 spandrel
 peter s. (peter out)
 priapism
+data mining
+segmentize
+prohibited
+upskirt
+accounting
+decor
+registered
+stuck
+dedicated
+enclosed
+coaching
+cumshot
+logging
+streaming
+drilling
+wiring

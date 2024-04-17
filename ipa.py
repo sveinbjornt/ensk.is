@@ -114,6 +114,7 @@ SKIP = frozenset(
         "tesseract",
         "Gaea",
         "Gaia",
+        "misspecification",
         "gyrocopter",
         "Babylon",
         "vice-regent",
@@ -674,6 +675,7 @@ SKIP = frozenset(
         "collectivistic",
         "mercantilistic",
         "thievishness",
+        "biodegradability",
     )
 )
 

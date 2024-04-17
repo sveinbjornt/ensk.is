@@ -309,6 +309,25 @@ async def about(request: Request):
     )
 
 
+@app.get("/english_icelandic_dictionary")
+@cache_response
+async def english(request: Request):
+    """English page."""
+
+    return TemplateResponse(
+        "english.html",
+        {
+            "request": request,
+            "title": f"{WEBSITE_NAME} - Free and open English-Icelandic dictionary",
+            "num_entries": num_entries,
+            "num_additions": num_additions,
+            "entries_singular": num_entries,
+            "additions_singular": num_additions,
+            "additions_percentage": perc(num_additions, num_entries),
+        },
+    )
+
+
 @app.get("/all")
 @cache_response
 async def all(request: Request):

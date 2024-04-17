@@ -1,0 +1,81 @@
+{% extends "container.html" %}
+
+{% block meta %}
+<meta name="description" content="ensk.is - Free and open English-Icelandic dictionary">
+
+{% endblock %}
+
+{% block script %}
+{% endblock %}
+
+{% block content %}
+
+<h1>About ensk.is</h1>
+
+<p><a href="/"><strong>ensk.is</strong></a> provides access to a
+    <em>free and open public domain online English-Icelandic dictionary.</em>
+</p>
+
+<p>The author of the original dictionary, Geir T. Zoëga (1857-1928), was an
+    English language teacher and later rector at the Learned School of Reykjavík
+    in the years 1883-1927. The first edition was published in 1896. The digitised,
+    extended and sanitised version presented here is based on the much-improved
+    1932 edition edited by Þorsteinn Þorsteinsson.</p>
+
+<p>The current incarnation of the dictionary has been heavily edited, updated
+    and fixed in accordance with modern Icelandic orthography. Many additions have
+    been made to bring the vocabulary into the 21st century. Various errors in the
+    original text were also corrected.</p>
+
+<p></p>The dictionary currently contains <a href="/all">{{ num_entries }}
+    {{ "definitions" if entries_singular else "definitions" }}</a>,
+thereof
+<a href="/additions">{{ num_additions }}</a>
+additions ({{ additions_percentage }}). More statistics <a href="/stats">here</a>.
+</p>
+
+<p>The current editor is <a href="mailto:sveinbjorn@sveinbjorn.org">Sveinbjörn Þórðarson</a>.</p>
+
+<br>
+
+<h1>License</h1>
+
+<p>This dictionary is in the <strong>public domain</strong> within all countries where permitted
+    under a Creative Commons Zero (CC0) license. The source files for the dictionary
+    and web application are available on <a href="https://github.com/sveinbjornt/ensk.is">GitHub</a>
+</p>
+
+<br>
+
+<h1>Privacy</h1>
+
+<p>This website does not use cookies, does not store user searches, does not require
+    JavaScript, and does not use services such as Google Analytics to collect visitor
+    statistics.</p>
+
+<br>
+
+<h1>Donations</h1>
+
+<p>It takes time and money to run and improve this online dictionary.
+    If you would like to support the project, you can transfer
+    funds to Sveinbjörn Þórðarson (editor) kt. 311281-5189, account number 0111-26-005189.</p>
+
+<p>Alternatively, you can use PayPal:
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+    <input type="hidden" name="cmd" value="_s-xclick">
+    <input type="hidden" name="hosted_button_id" value="BDT58J7HYKAEE">
+    <input type="image" src="https://www.paypalobjects.com/WEBSCR-640-20110306-1/en_US/i/btn/btn_donate_LG.gif"
+        border="0" name="submit" alt="PayPal" width="92" height="26">
+</form>
+
+</p>
+
+
+<br>
+<br>
+<br>
+<br>
+
+{% endblock %}
