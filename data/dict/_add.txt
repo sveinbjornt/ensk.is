@@ -4321,3 +4321,6 @@ justified l. réttlætanlegur, réttlættur; jafnaður (um texta)
 unjustified l. óréttlætanlegur, óréttlættur; ójafnaður (um texta)
 egalitarian l. jafnaðar-, jafnaðarlegur, jafnréttis-; n. jafnréttis- eða jafnaðarsinni
 egalitarianism n. jafnaðarhyggja, jafnaðarstefna, jafnréttisstefna
+google s. gúgla (fletta upp í vefleitarvél)
+priapism n. sístaða getnaðarlims
+data mining n. gagnagröfur, gagnanám
