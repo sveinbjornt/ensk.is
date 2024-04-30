@@ -676,6 +676,9 @@ SKIP = frozenset(
         "mercantilistic",
         "thievishness",
         "biodegradability",
+        "abortifacient",
+        "corporatocracy",
+        "priapism",
     )
 )
 
