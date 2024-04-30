@@ -42,9 +42,6 @@ from typing import Union
 
 import re
 
-from islenska import Bin
-from tokenizer import tokenize, TOK
-
 from dict import read_raw_pages, parse_line, read_all_words
 from util import read_wordlist
 
@@ -180,6 +177,9 @@ def check_enword_def(line: str, pn, ln: int):
 def check_icelandic_words(line: str, pn, ln: int):
     """Inspect all Icelandic words in definition, make sure that they
     are present in modern Icelandic vocabulary (BÍN)."""
+    from islenska import Bin
+    from tokenizer import tokenize, TOK
+
     (_, definition) = parse_line(line)
 
     # Strip all English words included in definition
