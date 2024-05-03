@@ -4325,6 +4325,10 @@ google s. gúgla (fletta upp í vefleitarvél)
 priapism n. sístaða (getnaðarlims)
 data mining n. gagnagröfur, gagnanám
 corporatocracy n. stjórn stórfyrirtækja, fyrirtækjaræði
-abortifacient n. fóstureyðingarlyf, e-ð sem veldur fóstureyðingu
+abortifacient n. fóstureyðingarlyf, e-ð sem eyðir fóstri
 trustworthiness n. áreiðanleiki, trúðverðugleiki
 untrustworthy l. óáreiðanlegur, ekki traustsins verður, óskilríkur
+radiology n. geislafræði, geislalæknisfræði
+radiologist n. geislalæknir, röntgenlæknir
+schadenfreude n. þórðargleði, gleði yfir óförum annarra
+
