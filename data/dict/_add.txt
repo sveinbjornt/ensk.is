@@ -3246,6 +3246,7 @@ ghetto n. gettó, fátækrahverfi; Gyðingahverfi
 underclass n. undirstétt
 geopolitics n. ft. landfræðistjórnmál, landfræðipólitík, heimsstjórnmál, heimspólitík
 geopolitical l. landfræðistjórnmála-, landfræðipólitískur, heimsstjórnmála-, heimspólitískur
+geopolitician n. heimspólitíkus, heimsstjórnmálamaður, landfræðistjórnmálamaður
 monophonic l. einóma, einrása
 stereophonic l. víðóma, tvírása
 undulant l. bylgjandi, sem gengur í bylgjum
@@ -4331,4 +4332,6 @@ untrustworthy l. óáreiðanlegur, ekki traustsins verður, óskilríkur
 radiology n. geislafræði, geislalæknisfræði
 radiologist n. geislalæknir, röntgenlæknir
 schadenfreude n. þórðargleði, gleði yfir óförum annarra
-
+quadragenarian n. manneskja á fimmtugsaldri; l. á fimmtugsaldri
+pentagenarian n. manneskja á sextugsaldri; l. á sextugsaldri
+electric scooter n. rafhlaupahjól, rafbifhjól
