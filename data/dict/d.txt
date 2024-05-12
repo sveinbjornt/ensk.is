@@ -1156,8 +1156,8 @@ disorder n. óregla; uppþot; ruglingur; vesöld, kvilli; s. rugla, trufla; gera
 disorderly l. óreglulegur; róstusamur; óstýrilátur ([~ conduct]); ólögheimilaður ([~ houses]); ao. óreglulega
 disorganization n. sundrung, ringulreið
 disorganize s. sundra, koma (e-u) á ringulreið
-disown s. kannast ekki við, neita, hafna
-disownment n. neitun
+disown s. afneita, kannast ekki við, neita, hafna
+disownment n. afneitun
 disparage s. niðra, óvirða, rýra (í áliti)
 disparagement n. niðrun, óvirðing
 disparagingly ao. óvirðulega ([to speak ~ of])

@@ -1747,15 +1747,14 @@ sounding n. könnun; ft. djúp sem kannað verður með grunnsökku; [to be out 
 sounding line n. lína með grunnsökku
 sound n. hljóð, hljómur; s. hljóma, glymja; hljóða ([it ~s as if]); láta hljóma; láta heyrast (í framburði); blása í (lúður); blása til (atlögu, undanhalds o.s.frv.)
 soundless l. hljómlaus, hljóðlaus; botnlaus
-soup n. kjötsúpa
+soup n. súpa
 soup ladle n. súpuskeið
 sour l. súr; önugur; s. gera súrt, sýra; gera óánægðan eða gremjufullan; súrna; verða gremjufullur
 sauerkraut n. súrkál
 sourish l. ísúr
 sourness n. súrleiki; önuglyndi
 source n. uppspretta, upptök ([the ~s of the Nile]); heimildarrit, heimild fyrir e-u; [~ of income] tekjustofn
-souse n. saltlögur; saltkjöt; súrt kjöt; s. leggja í saltlög; kaffæra; hella yfir ([~ one with])
-souse s. steypa sér ofan á (um ránfugla, [~ on, upon])
+souse n. saltlögur; saltkjöt; súrt kjöt; s. leggja í saltlög; kaffæra; hella yfir ([~ one with]); steypa sér ofan á (um ránfugla, [~ on, upon])
 south n. suður, suðurátt; suðurland; suðurlönd; l. suðlægur; syðri; ao. í suður; á sunnan (um vind); [~ of] fyrir sunnan
 south-east n. suðaustur
 southerly l. suðlægur
@@ -1768,8 +1767,7 @@ southwester n. sjóhattur; útsynningur
 souvenir n. minjagripur
 sovereign l. æðstur; helstur; einvaldur; fullvalda ([~ state]); óháður; óbrigðull ([~ remedy]); [~ power] æðsta vald; fullveldi; n. stjórnari; lands-drottinn; einvaldsstjóri; enskur gullpeningur
 sovereignty n. æðsta vald, æðstu yfirráð; fullveldi
-sow n. gylta, sýr
-sow s. sá (e-u eða til e-s)
+sow n. gylta, sýr; s. sá (e-u eða til e-s)
 sower n. sáðmaður
 sowing machine n. sáningarvél, sáðvél
 soy n. soja
@@ -1788,14 +1786,12 @@ spangly l. skínandi, glitrandi
 Spaniard n. Spánverji
 spaniel n. lítill loðhundur, fuglahundur; smjaðrari
 Spanish l. spænskur; n. spænska, spænsk tunga
-spank s. skella, slá með lófanum; rassskella; stika stórt; ganga greitt
+spank s. rassskella; skella, slá með lófanum; stika stórt; ganga greitt
 spanking l. ásjálegur; hraður; [at a ~ rate] á fleygiferð; [~ breeze] blásandi byr; n. rassskelling
 spanner n. skrúflykill
 span-new l. spánnýr
-spar n. seglviður (rá, siglutré o.s.frv.); sperra, raftur
+spar n. hnefasláttur; hnefaleikur; seglviður (rá, siglutré o.s.frv.); sperra, raftur; spat (steintegund); [Iceland ~] silfurberg; s. slá út hnefanum (eins og hnefaleikamaður); þræta, rífast
 spar deck n. efra þilfar, yfirþilfar
-spar n. spat (steintegund); [Iceland ~] silfurberg
-spar s. slá út hnefanum (eins og hnefaleikamaður); þræta, rífast; n. hnefasláttur; hnefaleikur
 spare s. spara, halda spart (vera spar) á (e-u); vera án; hlífa, þyrma; [to have to ~] hafa afgangs eða aflögu; l. naumur, rýr ([a ~ diet]); magur, grannur ([a man of ~ frame]); sem er umfram, afgangs, óþarfur; vara-; [a ~ anchor] varaakkeri; [~ bed] gestarúm, aukarúm; [~ room] gestaherbergi; [~ hour] tómstund
 sparing l. spar (á [of]); naumur; sjaldgætur; [~ of one's words] fáorður
 sparingness n. sparsemi
