@@ -1,0 +1,4 @@
+islenska>=0.4.3
+tokenizer>=3.4.1
+gunicorn>=20.1.0
+nltk>=3.7

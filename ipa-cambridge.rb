@@ -2,7 +2,7 @@
 
 # Query Cambridge online dictionary for IPA pronunciation of English words.
 #
-# A tad slow and messy, but works (as of 2010-11-29).
+# A tad slow and messy, but works (as of 2024-05-14).
 
 require 'rubygems'
 require 'nokogiri'
