@@ -2644,7 +2644,8 @@ subconscious l. undirmeðvitað; n. undirmeðvitund
 subcutaneous l. sem liggur undir húðinni
 subdivide s. skipta (hlutunum) aftur
 subdivision n. undirskipting
-subdue s. leggja undir sig, undiroka; yfirbuga; kúga; [~d] daufur, hægur, lágur ([~d colour, light, tone])
+subdue s. leggja undir sig, undiroka; yfirbuga; kúga
+subdued l. daufur, hægur, lágur ([~ colour, light, tone]); sjá %[subdue]%
 subduer n. undirokari, kúgari
 subedit s. gefa út sem meðritstjóri
 subeditor n. meðritstjóri

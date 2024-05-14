@@ -4284,7 +4284,6 @@ Tibetan l. tíbeskur; n. Tíbeti
 jobless l. starfslaus, atvinnulaus
 chlamydia n. klamydía (kynsjúkdómur)
 unpersonable l. óviðkunnanlegur, ekki góður félagsskapur
-sub n. kafbátur (óformleg stytting á %[submarine]%)
 creaky l. brakandi, marrandi, hriktandi
 potentially ao. mögulega
 Roma n. Rómafólk, sígaunar (þjóðflokkur flökkufólks)
@@ -4336,3 +4335,9 @@ quadragenarian n. manneskja á fimmtugsaldri; l. á fimmtugsaldri
 pentagenarian n. manneskja á sextugsaldri; l. á sextugsaldri
 electric scooter n. rafhlaupahjól, rafbifhjól
 sea cow n. sækýr
+sub n. stytt. kafbátur (%[submarine]%); samlokubátur; forfallakennari (%[substitute teacher]%); undirgefni aðilinn í (kynlífs)sambandi (andstætt við %[dom]%)
+substitute teacher n. forfallakennari
+dom n. stytt. yfirdrottnari (%[dominator]%) eða valdagyðja (%[dominatrix]%) í (kynlífs)sambandi
+paedomorphosis n. ungskepi
+neoteny n. síbernska; lirfuskeiðslenging
+harmonica n. munnharpa

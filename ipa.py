@@ -679,6 +679,11 @@ SKIP = frozenset(
         "abortifacient",
         "corporatocracy",
         "priapism",
+        "geopolitician",
+        "neoteny",
+        "paedomorphosis",
+        "pentagenarian",
+        "quadragenarian",
     )
 )
 
