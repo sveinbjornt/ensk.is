@@ -44,7 +44,7 @@ from functools import wraps
 from fastapi import FastAPI, Request, HTTPException
 from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
-from fastapi.responses import Response, JSONResponse
+from fastapi.responses import Response, UJSONResponse as JSONResponse
 
 from db import EnskDatabase
 from util import human_size, perc
