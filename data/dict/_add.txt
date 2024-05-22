@@ -1029,7 +1029,7 @@ aerospace engineer n. flugvélaverkfræðingur, flugtæknifræðingur
 aeronautical l. flugvéla-, flugfars-
 aeronautical engineer n. flugvélaverkfræðingur
 fuck s. (óforml.) ríða, eiga kynmök; n. dráttur, kynmök, samfarir; uh. helvítis! andskotinn! djöfullinn!
-fucking l. andskotans, helvítis, djöfulsins (sjá %[fuck]%)
+fucking l. andskotans, helvítis, djöfulsins (áhersluorð, sjá %[fuck]%)
 shit n. kúkur, saur, drulla; s. kúka, skíta; uh. fjandinn! fjandans!
 tergum n. bakskjöldur
 PIN n. persónunúmer, persónulegt kenninúmer (stytt. á [personal identification number])
@@ -4341,3 +4341,9 @@ dom n. stytt. yfirdrottnari (%[dominator]%) eða valdagyðja (%[dominatrix]%) í
 paedomorphosis n. ungskepi
 neoteny n. síbernska; lirfuskeiðslenging
 harmonica n. munnharpa
+dermatitis n. húðbólga, skinnþroti
+swidden n. sviðjur (land rutt með eldi)
+bullfrog n. baulfroskur
+
+# melodic
+# melodically

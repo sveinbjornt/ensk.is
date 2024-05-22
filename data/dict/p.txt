@@ -666,7 +666,7 @@ perilously ao. hættulega
 period n. tímabil; málsgrein; endir; punktur; [to put a ~ to] gera enda á; blæðingar ([she's having her ~])
 periodical l. sem kemur aftur með jöfnu millibili; n. tímarit
 periodically ao. með jöfnu millibili; alltaf öðru hverju
-peripatetic l. sem lýtur að heimspeki Aristótelesar; n. maður, sem fylgir heimspeki Aristótelesar; ferðamaður; farandsali
+peripatetic l. sem lýtur að heimspeki Aristótelesar; n. maður sem fylgir heimspeki Aristótelesar; ferðamaður; farandsali
 peripherical l. sem lýtur að ummáli hrings
 periphery n. ummál hrings
 periphrase s. segja e-ð með mörgum orðum, snúa (e-u) í lengra mál; n. snúningur í lengra mál
@@ -812,7 +812,7 @@ petrol n. hreinsuð steinolía; vélaolía
 petroleum n. steinolía
 petticoat n. pils
 pettifog s. fást við smámál; beita lagakrókum; þræta (um [about])
-pettifogger n. málaflutningsmaður, sem fæst við smámál, lagasnápur
+pettifogger n. málaflutningsmaður sem fæst við smámál, lagasnápur
 pettifoggery n. lagaflækjur, málkrókar
 pettiness n. smæð, óveruleiki
 pettish l. duttlungafullur, geðvondur, firtinn
@@ -1502,10 +1502,7 @@ porpoise n. hnýsa
 porraceous l. lauk-grænn
 porridge n. hafragrautur, mjölgrautur, hafrasúpa
 porringer n. súpuskál, grautarskál
-port n. höfn; hafnarborg; borgarhlið; [~ charges, dues, duties] hafnargjöld
-port n. op (ljósop, loftop, fallbyssugat) á skipshlið; bakborði á skipi
-port n. portvín
-port n. látbragð; limaburður, svipur ([the ~ of a gentleman])
+port n. höfn; hafnarborg; borgarhlið; op (ljósop, loftop, fallbyssugat) á skipshlið; bakborði á skipi; púrtvín; látbragð; limaburður, svipur ([the ~ of a gentleman])
 portable l. flytjanlegur, berandi; [~ goods] lausafé
 portage n. burður; burðarkaup; landræma milli vatna
 portal n. skrauthlið
@@ -2022,7 +2019,7 @@ probate n. prófun erfðaskrár; [~ duty] erfðaskattur; [~ court] skiptaréttur
 probation n. reynsla, prófun; reynslutími
 probational l. sem er til reynslu, próf- ([~ sermon, ~ year])
 probationary l. sem er til reynslu, próf- ([~ sermon, ~ year])
-probationer n. maður, sem verið er að reyna
+probationer n. maður sem verið er að reyna, maður í reynslulausn
 probative l. sem er til reynslu; sönnunar-
 probe n. sárakanni; s. kanna (sár); rannsaka nákvæmlega
 probity n. ráðvendni
@@ -2077,7 +2074,7 @@ profess s. lýsa yfir; kannast við; játa (trú); segja; segjast ([~ oneself]);
 professed l. viðurkenndur, alkunnur
 professedly ao. sem kunnugt er; í orði kveðnu
 profession n. yfirlýsing; játning; staða, embætti, atvinna ([carpenter by ~, the military ~]); [the three learned ~s] guðfræði, lögfræði, læknisfræði
-professional l. embættislegur; fagmannlegur; [~ man] maður, sem er í æðri stöðu (læknir, lögfræðingur, guðfræðingur); maður, sem gerir e-a list eða íþrótt að ævistarfi sem atvinnu (andstæðan við [amateur])
+professional l. embættislegur; fagmannlegur; [~ man] maður sem er í faglærðri stöðu (læknir, lögfræðingur, guðfræðingur); maður sem gerir e-a list eða íþrótt að ævistarfi sem atvinnu (andstæðan við [amateur])
 professor n. játandi; kennari (einkum við háskóla), prófessor
 professorial l. kennara-, prófessora-; [the ~ chair] háskólakennaraembætti
 professorship n. kennaraembætti (við háskóla eða æðri skóla)
@@ -2192,7 +2189,7 @@ propaedeutic l. undirbúnings- ([~ studies])
 propaedeutics n. ft. undirbúningsnám, forspjallsvísindi
 propaganda n. áróður; útbreiðsla sérskoðana eða kenninga yfirleitt; útbreiðslustarfsemi; kaþólskur trúboðsskóli eða félag í Róm
 propagandism n. áróðursstarfsemi; útbreiðslustarfsemi
-propagandist n. áróðursmaður; maður, sem gerir sér far um að breiða út sérskoðanir og kenningar; meðlimur kaþólska trúboðsskólans í Róm
+propagandist n. áróðursmaður, áróðursmeistari; maður sem gerir sér far um að breiða út sérskoðanir og kenningar; meðlimur kaþólska trúboðsskólans í Róm
 propagate s. útbreiða ([~ belief, doctrine]); auka; framleiða; breiðast út, aukast, æxlast
 propagation n. útbreiðsla; æxlun
 propagative l. útbreiðslu-
@@ -2395,7 +2392,7 @@ puerile l. barnæðislegur
 puerility n. barnæði, barnaskapur, hégómi
 puerperal l. barnsfara- ([~ fever])
 puff n. snöggur blástur með munninum; gustur; dráttur (reykur úr vindli); oflof, skrum; s. blása (út reyknum); belgja út; oflofa; mása, vera mæðinn
-puffer n. gortari; maður, sem býður til málamynda á uppboðum
+puffer n. gortari; maður sem býður til málamynda á uppboðum
 puffery n. skrum; gort
 puffing n. skrum; gort
 puffy l. þrútinn, uppbelgdur; montinn; daufur, dimmur (um hljóð)
@@ -2465,7 +2462,7 @@ punition n. refsing
 punitive l. refsingar-, hegningar- ([~ expedition])
 punitory l. refsingar-, hegningar- ([~ expedition])
 punnet n. aldinkarfa
-punster n. maður, sem er fyndinn í orðum (sbr. %[pun]%)
+punster n. maður sem er fyndinn í orðum (sbr. %[pun]%)
 punt n. flatbotnaður bátur, flatbytna; s. stjaka (flatbotnuðum bát); flytja á (flatbotnuðum) bát
 puny l. pinkulítill, smár
 pup n. hvolpur; kópi; s. gjóta

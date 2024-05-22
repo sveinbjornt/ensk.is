@@ -330,7 +330,7 @@ lean l. magur
 leanness n. megurð
 lean-faced l. magur í andliti
 leap s. hlaupa, stökkva; stökkva yfir; n. stökk, hopp
-leapfrog n. höfrungaleikur; [to play at ~] leika höfrungaleik
+leapfrog n. höfrungaleikur; s. leika höfrungaleik, stökkva fram úr
 leap year n. hlaupár
 learn s. læra; fá að vita, frétta
 learned l. lærður, fróður; vísindalegur
@@ -832,14 +832,11 @@ look n. augnaráð, augnatillit; svipur, yfirbragð; útlit
 looker-on n. áhorfandi
 looking-glass n. spegill
 lookout n. vörður; útsjón; útlit; varðberg; [to be on the ~] vera á varðbergi; vera að horfa eftir e-u ([for])
-loom n. vefstóll; [~ of an oar] árarhlemmur; s. vefa
-loom n. lómur (fugl)
-loom s. hilla upp, vera meiri tilsýndar en í raun og veru; [the land ~s high] landið hillir upp; n. upphilling ([the ~ of a rock was seen])
+loom n. vefstóll; lómur (fugl); [~ of an oar] árarhlemmur; upphilling ([the ~ of a rock was seen]); s. gnæfa yfir, vofa yfir, hilla upp, vera meiri tilsýndar en í raun og veru; [the land ~s high] landið hillir upp
 loon n. lómur; einnig stytt. á orðinu %[lunatic]% (óforml.)
 loony n. stytt. á %[lunatic]%
-loop n. lykkja; hanki, hnesla
-loop s. gera lykkju á e-ð; festa hneslu í fat; gera skotgöt á vegg; [~ up the hair] festa upp hárið
-loophole n. ljós- og loftop í vegg; smuga; skotgat
+loop n. lykkja; hanki, hnesla; s. gera lykkju á e-ð; festa hneslu í fat; gera skotgöt á vegg; [~ up the hair] festa upp hárið
+loophole n. smuga; skotgat; ljós- og loftop í vegg
 loose s. leysa; losa ([wine ~d his tongue]); láta lausan; sleppa; skjóta (hleypa) úr byssu (á e-ð [at]); l. laus; laus í sér ([~ earth]); gisinn; víður (um föt); lauslátur; óáreiðanlegur; ónákvæmur; linur ([~ bowels]); [break ~] slíta sig lausan; losna; koma upp; [some of the pages have come ~] hafa losnað; [let ~] láta laust; [with a ~ rein] með lausu taumhaldi; [~ soil] gljúpur jarðvegur; [~ tongue] lausmáll; n. óhindruð rás ([give a ~ to feelings etc.])
 loosely ao. lauslega; hirðulauslega
 loosen s. losa um ([~ a person's tongue]); leysa; losna; lina á e-u

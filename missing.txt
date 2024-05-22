@@ -1961,7 +1961,6 @@ gurney
 upbeat
 debutante
 mundial
-melodic
 golly
 bootstrap
 quant
@@ -3754,7 +3753,6 @@ assimilable
 intensiveness
 rotational
 productionist
-swidden
 alkalization
 agroeconomic
 schematization
@@ -3997,3 +3995,4 @@ paralinguistic
 paralinguistics
 woke
 wokeism
+theophoric

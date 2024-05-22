@@ -934,7 +934,7 @@ city n. borg, bær, staður
 civet n. desdýr, þefköttur ([~ cat]); moskus
 civic l. borgmannlegur, borgara-; borglegur, borgar-
 civil l. borgara- ([~ war, ~ rights]); borgaralegur, þegnlegur; kurteis(legur); einka-; [Civil List] hirðeyrir; [Civil Service] embættisþjónusta; [~ servant] embættismaður, starfsmaður ríkisins
-civilian n. lögfræðingur; kennari í lögum; maður, sem er ekki í herþjónustu; embættismaður
+civilian n. óbreyttur borgari, maður sem er ekki í herþjónustu; lögfræðingur; kennari í lögum; embættismaður
 civility n. kurteisi
 civilization n. siðmenning, menning, menntun; heimsmenning
 civilize s. siðmennta, mennta, siða
@@ -2162,14 +2162,13 @@ corkage n. tappa fé af vini, sem veitingamaður leggur ekki til
 corkscrew n. tappatogari
 corky l. korkkenndur; léttur; fjörugur
 cormorant n. skarfur
-corn n. korn; hveiti; maís; s. gera (púður) að kornum; strá salti í, salta ([corned beef])
+corn n. korn; hveiti; maís; líkþorn; s. gera (púður) að kornum; strá salti í, salta ([~ed beef])
 corn-chandler n. kornkaupmaður
 cornfield n. kornakur
 corn-flag n. sverðlilja
 cornfloor n. láfi
 cornflower n. kornblóm
-cornloft n. kornforðabúr, -hlaða
-corn n. líkþorn
+cornloft n. kornforðabúr, kornhlaða
 corncutter n. líkþornaskeri, líkþornalæknir
 cornea n. hornhimna (á auganu)
 corneus l. hornkenndur, horn-; [~ membrane] hornhimna
@@ -2183,7 +2182,7 @@ Cornish l. frá Cornwall
 cornist n. lúðurþeytari
 cornucopia n. nægtarhorn ([Ceres with her bounteous ~])
 cornuted l. með hornum, hyrndur; kokkálaður
-corny l. kornauðugur
+corny l. væminn; hallærislegur, asnalegur; kornauðugur
 corolla n. blómkróna
 corollary n. afályktun, eðlileg afleiðing
 coronach n. líksöngur

@@ -684,6 +684,7 @@ SKIP = frozenset(
         "paedomorphosis",
         "pentagenarian",
         "quadragenarian",
+        "swidden",
     )
 )
 
