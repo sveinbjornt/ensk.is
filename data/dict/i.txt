@@ -298,8 +298,8 @@ implicit l. þegjandi ([~ promise]); skilyrðislaus ([~ faith])
 implicitly ao. óbeinlinis; skilyrðislaust; hiklaust ([they believe ~ whatever ...])
 imploration n. ákall, innileg bæn
 implore s. ákalla; grátbiðja um
-imply s. fela í sér; innibinda; undirskilja; þýða, merkja; gefa í skyn
-implied l. þegjandi, sjálfsagður ([~ assent])
+imply s. gefa í skyn; fela í sér; innibinda; undirskilja; þýða, merkja
+implied l. gefið í skyn; þegjandi, sjálfsagður ([~ assent])
 impolicy n. óhyggileg aðferð, vanhyggni
 impolite l. ókurteis
 impoliteness n. ókurteisi

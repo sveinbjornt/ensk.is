@@ -48,6 +48,8 @@ from pathlib import Path
 from dict import CATEGORIES
 
 DB_FILENAME = "dict.db"
+CACHED_STATEMENTS = 1024
+CACHE_SIZE_KB = 1024 * 32  # 32 MB
 
 
 class EnskDatabase(object):
@@ -115,14 +117,14 @@ class EnskDatabase(object):
                 db_uri,
                 uri=True,
                 check_same_thread=(read_only is False),
+                cached_statements=CACHED_STATEMENTS,
             )
+            self.db_conn.cursor().execute(f"PRAGMA cache_size = -{CACHE_SIZE_KB}")
 
             # Return rows as key-value dicts
             self.db_conn.row_factory = lambda c, r: dict(
                 zip([col[0] for col in c.description], r)
             )
-
-            # self.db_conn.execute("PRAGMA cache_size=-10000")
 
         return self.db_conn
 

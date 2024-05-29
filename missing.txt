@@ -79,7 +79,6 @@ container
 analog
 analogue
 guaranteed
-alleged
 modified
 inline
 online
@@ -2522,7 +2521,6 @@ unknowability
 slippage
 linearity
 syncratic
-allegedly
 substation
 cyanate
 full-scale
@@ -3996,3 +3994,8 @@ paralinguistics
 woke
 wokeism
 theophoric
+relations n. ft.
+velure
+yikes
+baloney
+guru

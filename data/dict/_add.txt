@@ -4344,6 +4344,13 @@ harmonica n. munnharpa
 dermatitis n. húðbólga, skinnþroti
 swidden n. sviðjur (land rutt með eldi)
 bullfrog n. baulfroskur
-
+optical character recognition n. ljóslestur, myndlestur, stafgreining
+arboretum n. trjásafn, trjágarður
+ambulator n. göngumaður, gangandi maður
+chyron n. borði með texta neðarlega í sjónvarpsfréttum
 # melodic
 # melodically
+# grouch
+# grouchy
+# alleged
+# allegedly
