@@ -39,6 +39,7 @@
 from typing import List, Dict, Tuple, Any, Union
 
 import re
+import aiofiles
 from functools import wraps
 
 from fastapi import FastAPI, Request, HTTPException
@@ -210,11 +211,21 @@ async def index(request: Request):
     )
 
 
+async def _save_missing_word(word: str):
+    """Save word to missing words list."""
+    async with aiofiles.open("missing_words.txt", "a") as file:
+        await file.write(f"{word}\n")
+
+
 @app.get("/search")
 async def search(request: Request, q: str):
     """Return page with search results for query."""
     q = q.strip()
     results, exact = _results(q)
+
+    if not exact or not results:
+        if re.match(r"^[a-zA-Z]+$", q):
+            await _save_missing_word(q)
 
     return TemplateResponse(
         "result.html",

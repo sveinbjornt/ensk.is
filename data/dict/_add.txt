@@ -4348,6 +4348,8 @@ optical character recognition n. ljóslestur, myndlestur, stafgreining
 arboretum n. trjásafn, trjágarður
 ambulator n. göngumaður, gangandi maður
 chyron n. borði með texta neðarlega í sjónvarpsfréttum
+# hubris
+# hubristic
 # melodic
 # melodically
 # grouch
