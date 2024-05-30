@@ -35,7 +35,7 @@ updated and fixed in accordance with modern Icelandic orthography.
 Many additions have been made to bring the vocabulary into the 21st
 century. Various errors in the original text were also corrected.
 
-# Contributing
+## Contributing
 
 The raw dictionary text files are stored [here](data/dict/).
 
