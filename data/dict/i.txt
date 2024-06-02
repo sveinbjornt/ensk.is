@@ -460,7 +460,7 @@ incarnate s. íklæða holdi; íklæðast e-u; l. holdi klæddur, holdgaður; [t
 incarnation n. holdgun; holdtekja; persónugerving
 incase s. sjá %[encase]%
 incautious l. óvarkár, ógætinn
-incautiousness n. gáleysi
+incautiousness n. gáleysi, óvarkárni
 incavated l. holur
 incave s. innibyrgja; sjá %[encave]%
 incendiary n. brennuvargur; æsingamaður; l. sem lýtur að brennu; íkveikju-; uppreisnar-, æsingar- ([~ publication])
@@ -468,13 +468,13 @@ incense n. reykelsi; s. brenna reykelsi í kringum; fylla ilmi, gera ilmandi ([~
 incense s. æsa upp til reiði, gera reiðan
 incensed l. reiður, æstur
 incensory n. reykelsisker
-incentive l. hvetjandi, upphvatningar-; n. upphvatning, áeggjun, hvöt
+incentive n. hvati, upphvatning, áeggjun, hvöt; l. hvetjandi, upphvatningar-
 inception n. byrjun
 inceptive l. byrjandi
 incertitude n. óvissa
-incessant l. óaflátanlegur, óþrotlegur
-incessantly ao. í sífellu, stöðugt
-incest n. frændsemisspell, sifjaspell
+incessant l. óaflátanlegur, óþrotlegur, sífelldur
+incessantly ao. sífellt, í sífellu, stöðugt
+incest n. sifjaspell, frændsemisspell
 incestuous l. sekur um sifjaspell; sem hefur sifjaspell í för með sér ([~ marriage])
 inch n. tomma, þumlungur; [~ by ~] smám saman; [by ~es] í þumlungatali; smátt og smátt; [to an ~] nákvæmlega; s. fikra sig áfram eða aftur á bak; færa smátt og smátt
 inchmeal ao. smátt og smátt; smám saman

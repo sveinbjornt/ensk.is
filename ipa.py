@@ -686,6 +686,7 @@ SKIP = frozenset(
         "quadragenarian",
         "swidden",
         "ambulator",
+        "tasseography",
     )
 )
 

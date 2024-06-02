@@ -4312,7 +4312,8 @@ acrobatics n. ft. loftfimleikar, fimleikar
 microdose n. smáskammtur, örskammtur; s. taka smáskammta eða örskammta
 inbreed s. innrækta
 inbreeding n. innrækt, innræktun, skyldleikaræktun, skyldleikaæxlun
-gynecologist n. kvensjúkdómalæknir
+gynecologist n. kvensjúkdómalæknir, kvensjúkdómasérfræðingur
+gynecological l. kvensjúkdómafræðilegur, kvensjúkdómalækninga-, kvensjúkdóma-
 patois n. mállýska; svæðisbundið mál; hversdagsmál, slangur
 Edinburgh n. Edinborg (höfuðborg Skotlands)
 misconceived l. misskilinn, rangskilinn, vanhugsaður
@@ -4348,8 +4349,12 @@ optical character recognition n. ljóslestur, myndlestur, stafgreining
 arboretum n. trjásafn, trjágarður
 ambulator n. göngumaður, gangandi maður
 chyron n. borði með texta neðarlega í sjónvarpsfréttum
-# hubris
-# hubristic
+tasseography n. sú list að lesa spádóma úr telaufum
+supersonic l. hljóðfrár, yfir hljóðhraða, sem fer með meiri hraða en hljóð
+hubris n. dramb, ofdramb, hroki
+hubristic l. dramblegur, hrokafullur
+campfire n. varðeldur
+# amygdala
 # melodic
 # melodically
 # grouch
