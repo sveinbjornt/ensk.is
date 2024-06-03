@@ -675,7 +675,6 @@ revegetate
 campsite
 shipload
 overgrazing
-viable
 heavyweight
 pinstripe
 legwork
@@ -714,7 +713,6 @@ archival
 overprice
 overpriced
 doorstep
-availability
 unfamiliarity
 nonexistence
 fatalistic
@@ -3634,6 +3632,7 @@ selectively
 sui generis
 diplomatically
 importantly
+viable
 unviable
 restitutive
 brilliantly
@@ -3997,3 +3996,17 @@ guru
 splurge
 visitorship
 baulk
+amyloid
+queef
+amygdala
+epithermal
+hippocampus
+punchline
+campy
+checkers
+sphincter
+humourist
+earplug
+magenta
+crypto-
+limescale

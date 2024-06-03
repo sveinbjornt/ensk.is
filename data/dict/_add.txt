@@ -1246,6 +1246,7 @@ yoyo n. jójó (leikfang)
 auxesis n. miklar ýkjur eða stigmögnun (í ræðulist)
 aardwolf n. jarðúlfur (afrískt spendýr)
 morning star n. morgunstjarna (plánetan Venus); gaddakylfa
+Venus n. plánetan Venus; rómversk ástar- og frjósemisgyðja
 blimp n. loftbelgur, loftfar, loftskip
 Czechoslovakia n. Tékkóslóvakía
 menswear n. herrafatnaður
@@ -1334,6 +1335,7 @@ habeas corpus n. (úr lat.) réttur handtekins manns til að vera leiddur fyrir 
 arquebus n. e.k. gamaldags byssa (sjá einnig %[harquebus]%)
 environmental l. umhverfis-; sjá %[environment]%
 hydroelectric l. vatnsafls-, vatnsorku-; [hydroelectric power plant] vatnsaflsvirkjun, vatnsorkuver
+hydroelectricity n. vatnsaflsorka, vatnsorka, vatnsaflsrafmagn
 geothermal l. jarðhita-, jarðvarma-; [geothermal power plant] jarðvarmavirkjun, jarðhitavirkjun
 geothermally ao. jarðhitalegur, jarðvarmalegur
 boner n. standpína, holdris, reisn
@@ -4354,10 +4356,12 @@ supersonic l. hljóðfrár, yfir hljóðhraða, sem fer með meiri hraða en hlj
 hubris n. dramb, ofdramb, hroki
 hubristic l. dramblegur, hrokafullur
 campfire n. varðeldur
-# amygdala
-# melodic
-# melodically
-# grouch
-# grouchy
-# alleged
-# allegedly
+melodic l. melódískur, hljómfagur
+melodically ao. á melódískan, hljómfagran hátt
+alleged l. meintur, fullyrtur
+allegedly ao. sem meint er, sem fullyrt er
+grouch n. geðvonska, nöldur; nöldurseggur, kvartari; s. nöldra, kvarta
+grouchy l. geðvondur, nöldrandi, kvartandi
+grouchily ao. á geðvondan eða nöldrandi hátt
+fulfillment n. sjá %[fulfilment]%
+availability n. fáanleiki, tiltækileiki

@@ -481,15 +481,14 @@ inchmeal ao. smátt og smátt; smám saman
 inchoate s. byrja; l. byrjunar- ([in an ~ state])
 inchoative l. byrjunar-; [in its ~ stage] á byrjunarstigi
 incidence n. ákoma, áfall; fallstefna; framkoma ([~ of a heavy gale]); [angle of ~] aðkastshorn
-incident l. sem kemur fram við e-ð, er samfara e-u, eiginlegt e-u ([to, on]); sem fellur á e-ð ([the light ~ on a picture]); [~ to human nature] mannlegri náttúru eiginlegur
-incident n. atburður, atvik
+incident n. atburður, atvik; l. sem kemur fram við e-ð, er samfara e-u, eiginlegt e-u ([to, on]); sem fellur á e-ð ([the light ~ on a picture]); [~ to human nature] mannlegri náttúru eiginlegur
 incidental l. tilviljunarlegur, sem verður af hendingu; [~ to] sem er e-u samfara
 incidentally ao. af hendingu
 incinerate s. brenna til ösku
 incineration n. brennsla
 incipience n. byrjun
 incipiency n. byrjun
-incipient l. byrjandi
+incipient l. byrjandi, byrjunar-
 incise s. skera í; gera skoru í; skera út
 incision n. skurður, ískurður, skora
 incisive l. skerandi; hvass, skarpur
@@ -499,8 +498,8 @@ incitation n. áeggjun, hvöt
 incite s. eggja, hvetja
 incitement n. áeggjun, hvöt
 incivility n. ókurteisi
-inclemency n. óblíða (veðráttunnar)
-inclement l. óblíður ([~ climate])
+inclemency n. óblíða (veðráttunnar); miskunnarleysi
+inclement l. óblíður ([~ climate]); ómiskunnarsamur
 inclinable l. hneigður (til e-s [to]), hlynntur, hliðhollur (e-m [to]); sem er hætt við e-u ([~ to stammer])
 inclination n. halli; tilhneiging, löngun (til e-s [to/for])
 incline s. hallast; hafa löngun til, hneigjast að ([to]); láta hallast; beygja, hneigja ([~ the head]); [~ one's ear to] ljá e-u eyra, hlusta á e-ð; [~ one to believe that] fá e-n til að ætla, að
@@ -512,7 +511,7 @@ include s. innibinda, fela í sér; ná yfir; telja (reikna) með
 inclusion n. meðtalning
 inclusive l. umlykjandi; víðtækur, yfirgripsmikill; sem felur e-ð í sér ([~ of]); meðtalinn; [both ~] að báðum meðtöldum
 inclusively ao. meðtalið, að meðtöldum ([~ or exclusively])
-incoercible l. óyfirbuganlegur
+incoercible l. óyfirbuganlegur, óþvinganlegur
 incogitable l. óhugsanlegur, óhugsandi
 incognito l. óþekktur; n. óþekktur maður; ao. undir röngu nafni
 incognita l. óþekkt; n. óþekkt kona; ao. undir röngu nafni
