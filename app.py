@@ -238,6 +238,9 @@ async def _save_missing_word(word: str):
 async def search(request: Request, q: str):
     """Return page with search results for query."""
     q = q.strip()
+    if len(q) < 2:
+        return _err("Query too short")
+
     results, exact = _results(q)
 
     if not exact or not results:
@@ -507,6 +510,9 @@ async def api_suggest(request: Request, q: str, limit: int = 10) -> JSONResponse
 @app.get("/api/search/{q}")
 async def api_search(request: Request, q: str) -> JSONResponse:
     """Return search results in JSON format."""
+    if len(q) < 2:
+        return _err("Query too short")
+
     results, _ = _results(q)
     return JSONResponse(content={"results": results})
 

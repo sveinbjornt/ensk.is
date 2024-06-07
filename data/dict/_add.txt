@@ -3358,7 +3358,7 @@ extracurricular l. utan námskrár, utan skóla, utan skyldu eða starfs
 curricular l. námskrár-, sem tengist námskrá og/eða verkáætlun
 simplified l. einfaldaður
 empirically ao. raunvíslega, byggt á reynslu, út frá reynslu
-anthropocentrism n. manngyðistrú
+anthropocentrism n. mannhverfa, mannmiðun
 anthropocentric l. mannhverfur, mannmiðaður
 anthropomorphize s. manngerva (eigna e-u ómennsku mannlega eiginleika)
 deistic l. sem tengist deisma, þ.e. trú á einn guð án opinberunar (sjá %[deism]%)
@@ -4445,3 +4445,4 @@ changelessness n. breytingaleysi, óbreytileiki
 disproportionately ao. á ósamsvarandi hátt, í óeðlilegu hlutfalli, óhóflega
 riddler n. gátumaður, þrautamaður
 snuff film n. myndbandsupptaka sem sýnir morð
+Anthropocene n. mannöldin
