@@ -1606,9 +1606,8 @@ potion n. heilsudrykkur
 potlid n. potthlemmur
 potluck n. [take ~] gera sér að góðu það, sem fram er borið
 pottage n. kjötsúpa
-potter n. leirkerasmiður
+potter n. leirkerasmiður; s. dunda; fara í hægðum sínum, lalla; rugla, trufla
 pottery n. leirkerasmiðja; leirker, leirílát
-potter s. dunda; fara í hægðum sínum, lalla; rugla, trufla
 pottle n. stór kanna; lítil karfa ([a ~ of strawberries])
 pouch n. pungur, pyngja; vasi; poki (pokadýra); s. stinga á sig, í vasann; gleypa ([~ the bait])
 poult n. kjúklingur
@@ -2424,8 +2423,7 @@ pulsate s. slá (um æð)
 pulsation n. hjartsláttur, æðasláttur; titringur
 pulsative l. sláandi
 pulsatory l. sláandi
-pulse n. slagæð, lífæð; s. slá
-pulse n. belgávextir
+pulse n. slagæð, lífæð; púls, sláttur slagæðar; belgávextir; s. slá
 pulverizable l. sem hægt er að mylja í duft
 pulverization n. mulning
 pulverize s. mylja (molna) í duft

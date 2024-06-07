@@ -389,8 +389,7 @@ screak s. skrækja
 scream s. öskra, æpa; veina; væla ([I heard the owl ~]); n. öskur, vein óp ([~ of terror])
 screech s. skrækja; n. skrækur
 screed n. rifa; rifhljóð; löng runa; ræma; ritgerð ([literary ~])
-screen n. skjár; skýli, hlíf (gegn ljósi, hita, kulda, regni o.fl.); s. skýla; fela
-screen n. stórgert sáld, sandsáld; s. sákla
+screen n. skjár; skýli, hlíf (gegn ljósi, hita, kulda, regni o.fl.); stórgert sáld, sandsáld; s. skýla; fela; sákla
 screened coals n. ft. kol, sem mylsnan hefur verið sálduð úr
 screenings n. ft. úrgangur
 screw n. skrúfa, skrúfnagli; svíðingur; jálkur; s. skrúfa; skrúfa fast; skæla (t.d. andlitið); kreista; kúga
@@ -1340,9 +1339,8 @@ slay n. vefjarskeið
 sleazy l. laus, gisinn, þunnur; subbulegur, ógeðfelldur, siðferðislega vafasamur
 sled n. sleði; s. flytja á sleða
 sledding n. sleðaflutningur; sleðafæri
-sledge n. sleði; s. flytja á sleða; aka á sleða
+sledge n. sleði; sleggja ([~hammer]); s. flytja á sleða; aka á sleða; slá með sleggju
 sledging n. sleðaflutningur, sleðafæri
-sledge n. sleggja ([~hammer]); s. slá með sleggju
 sleech n. leðja, efja
 sleek l. sléttur, mjúkur, gljáandi ([~ hair]); mjúkmáll; s. slétta, gera gljáandi; sefa
 sleeken s. slétta, gera gljáandi; sefa
@@ -1621,8 +1619,7 @@ softspoken l. blíðmáll
 sogged l. gegnvotur, vatnsósa
 soggy l. gegnvotur, vatnsósa
 soho uh. hæ, hæ!
-soil n. jarðvegur ([good, poor, rich ~]); land; [one's native ~] ættland
-soil s. ata, óhreinka; teðja; saurga; n. óhreinindi, skarn; tað, áburður
+soil n. jarðvegur ([good, poor, rich ~]); land; [one's native ~] ættland; óhreinindi, skarn; tað, áburður; s. ata, óhreinka, gera óhreint; teðja; saurga
 sojourn s. dvelja (um stundar sakir); n. dvöl ([during our ~ in Egypt])
 sojourner n. aðkomumaður
 solace n. huggun; hugsvölun; s. hugga; hugsvala; hughreysta
@@ -1633,8 +1630,7 @@ soldier n. hermaður, liðsmaður
 soldiering n. herþjónusta, hernaður
 soldierly l. hermannlegur
 soldiery n. hermannastétt; hermenn
-sole n. il; sóli; koli; s. setja sóla undir, sóla (skó)
-sole l. einn ([his ~ reason is this])
+sole n. il; sóli; koli; s. setja sóla undir, sóla (skó); l. einn ([his ~ reason is this])
 solely ao. aðeins, eingöngu
 solecism n. málvilla, rangmæli; afkáraskapur ([~ in manners])
 solecist n. málspillir
@@ -2109,8 +2105,7 @@ stableboy n. fjósadrengur
 stabling n. hýsing; peningshús, hesthús
 stack n. stór (uppmjór) stakkur (af heyi, korni, hálmi); hár reykháfur; s. stakka, hlaða upp
 staff n. stafur, flaggstöng (ft. [staves]); skaft (ft. [staffs]); yfirforingjaráð ([the general staff]); [the editorial ~ of a newspaper] ritstjórnarliðið
-stag n. hjörtur, hreinn
-stag s. athuga, hafa gætur á e-m; komast fyrir e-ð; kæra, koma upp um e-n ([~ against one])
+stag n. hjörtur, hreinn; s. steggja; athuga, hafa gætur á e-m; komast fyrir e-ð; kæra, koma upp um e-n ([~ against one])
 stage n. pallur; bryggja; leiksvið; áfangi; áfangastaður; póststöð; póstvagn; stig; [by easy ~s] í hægum áföngum; s. sýna á leiksviði
 stagebox n. stúka í leikhúsi (nálægt leiksviðinu)
 stagecoach n. póstvagn; farþegavagn
@@ -2263,8 +2258,7 @@ steep s. bleyta, láta blotna
 steeple n. (kirkju)turn; klukkuturn
 steeplechase n. kappreið yfir torfærur
 steeplechasing n. kappreið yfir torfærur
-steer n. ungt geldneyti
-steer s. stýra (skipi)
+steer s. stýra (skipi); n. ungt geldneyti
 steerage n. stjórn (skips); lakara farrými, annað farrými; [~ passengers] farþegar á öðru farrými
 steerageway n. nægileg ferð til þess að skipið láti að stýrinu
 steering wheel n. stýrishjól
@@ -2481,8 +2475,7 @@ strait-handed l. nískur
 straitlaced l. fastreyrður; siðvandur; smásmuglegur
 straitness n. þröngleiki; skortur; örðugleiki; [~ of circumstances] efnaskortur
 strait-waistcoat n. spennitreyja
-strand n. strönd; s. reka í land, stranda; setja (skip) á land
-strand n. þáttur (í kaðli); [a rope of four ~s] fjórþættur kaðall; s. slíta kaðalþátt
+strand s. reka í land, stranda; setja (skip) á land; slíta kaðalþátt; n. strönd; þáttur (í kaðli); [a rope of four ~s] fjórþættur kaðall
 strange l. útlendur; ókunnur; undarlegur ([very ~ in his manners]); óvenjulegur; annarlegur ([worship ~ gods])
 strangeness n. ókunnugleiki; undarlegleiki
 stranger n. útlendingur; ókunnugur ([I am a ~ here]); gestur; [he is a ~ to me] hann er mér ókunnugur

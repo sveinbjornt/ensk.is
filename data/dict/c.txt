@@ -2291,22 +2291,21 @@ count n. talning, tala; reikningur; sakaratriði; [take (make) ~ of] gefa gaum a
 countable l. teljanlegur ([they are ~ by the thousand])
 countenance n. svipur, yfirbragð; andlit; stilling; fylgi, aðstoð ([give ~ to]); [put out of ~] gera feiminn, trufla; [keep one's ~] stilla sig (um að hlægja); s. styðja, uppörva
 countenancer n. styrktarmaður, stuðningsmaður
-counter n. teljari; spilapeningur; búðarborð; bringa (á hesti); bakhluti á skó eða stígvéli
-counter l. gagnstæður; ao. gagnstætt, öfugt ([to go, act, ~ to]); s. mótmæla, andmæla
+counter l. gagnstæður; ao. gagnstætt, öfugt, andstætt ([to go, act ~ to]); s. mótmæla, andmæla, vinna gegn; n. teljari; spilapeningur; búðarborð; bringa (á hesti); bakhluti á skó eða stígvéli
 counteract s. aftra, vinna gegn; vera á móti
-counteraction n. gagnverkun, öftrun; mótstaða
+counteraction n. gagnverkun, öftrun; mótstaða, andstaða
 counterbalance s. vega upp á móti, jafnvætta; n. mótvægi, andvægi
 countercharge n. gagnkæra, gagnsök
 counterclaim n. gagnkrafa; s. krefjast aftur á móti
 countercurrent n. gagnstreymi, öfugstreymi
 counter-evidence n. gagnsönnun
 counterfeit l. eftirgerður, óekta; falsaður; uppgerður; n. eftirlíking, stæling; fölsun; s. líkja eftir; stæla; falsa; gera sér upp
-counterfeiter n. peningafalsari
+counterfeiter n. falsari, peningafalsari
 countermand s. taka aftur; kalla aftur; afpanta
 countermarch s. ganga aftur (í gagnstæða átt)
 counterorder n. gagnskipun; s. taka aftur (skipun)
 counterpane n. rúmábreiða
-counterpart n. samrit, eftirrit
+counterpart n. mótsvari, hliðstæða; samrit, eftirrit
 counterpoise n. mótvægi, jafnvægi; s. vega upp á móti, jafnvætta; halda í jafnvægi
 counterpoison n. gagneitur
 countersign s. skrifa undir með öðrum (til frekari staðfestingar); staðfesta; n. varðorð, orðtak
@@ -2316,7 +2315,7 @@ countervail s. vega upp á móti; bæta upp ([~ damage, trouble])
 counterwind n. andviðri
 countess n. greifafrú
 countinghouse n. skrifstofa (í verslunarhúsi)
-countless l. ótölulegur
+countless l. óteljandi, óteljanlegur, ótölulegur
 country n. land; hérað; sveit (gagnstætt borgunum); ættland; [in the ~] uppi í sveit; [into the ~] upp í sveit; [~ cousin] frændi (frænka) ofan úr sveit; [~ party] bændaflokkur
 countrified l. sveitalegur ([~ manners])
 country house n. landsetur
@@ -2324,14 +2323,14 @@ countryman n. landsmaður; samlandi, landi; sveitamaður
 countrypeople n. sveitamenn, sveitafólk
 countryseat n. landsetur
 countrywoman n. sveitakona
-county n. greifadæmi, fylki
+county n. hreppur, fylki; greifadæmi
 county court n. héraðsdómstóll
-country town n. höfuðborg (í greifadæmi)
+county town n. höfuðborg (í hreppi eða greifadæmi)
 couple n. tvennt sem á saman; hjón, par; tveir eða þrír; sperra; hálstengsli (sem tveir hundar eru tengdir saman með); s. festa saman; samtengja; maka sig
 couplet n. erindi (tvær ljóðlínur með hendingum)
 coupling n. tengsl
 courage n. hugrekki, hugprýði, hugur
-courageous l. hugrakkur, hugaður
+courageous l. hugrakkur, hugaður, hugdjarfur
 courier n. boðberi, sendiboði, hraðboði; fylgdarmaður (í ferðalagi)
 course n. rás, ferð; gangur; stefna, leið; farvegur ([water-~]); skeiðvöllur (race-~); æviskeið; aðferð, venja; ft. hegðun; röð (af fyrirlestrum); réttur (matar); gangverð á peningum og skuldabréfum ([~ of exchange]), gengi; segl ([fore, main-]); [change one's ~] breyta um stefnu; [hold the ~] halda stefnunni; [in ~ of construction] í smíðum; [a matter of ~] sjálfsagður hlutur; [in the ~ of years] þegar fram líða (liðu) stundir; [~ of events] rás viðburðanna; [in due ~] á sinum tíma; [of ~] auðvitað, vitanlega; s. elta (veiðidýr); láta hlaupa, hleypa (hesti); hlaupa, renna; stefna, halda
 courser n. veiðimaður; veiðihundur; kappreiðarhestur

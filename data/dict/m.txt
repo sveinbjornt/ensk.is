@@ -195,8 +195,7 @@ manfully ao. karlmannlega
 manfulness n. karlmennska, hugrekki
 mange n. kláði á dýrum
 manger n. jata
-mangle s. höggva í sundur; lemstra; skemma, spilla með höggum; afbaka (texta)
-mangle n. keflivél; s. kefla línvörur (slétta í keflivél)
+mangle s. höggva í sundur; lemstra; skemma, spilla með höggum; afbaka (texta); kefla línvörur (slétta í keflivél); n. keflivél
 mango n. mangóávöxtur; mangótré
 mangy l. kláðugur
 manhood n. manndómur; fullorðinsaldur; karlmennska
@@ -390,9 +389,8 @@ mastitis n. bólga í kvennbrjóstum
 mastodon n. e.k. fíll (útdauður)
 mastoid l. í lögun eins og konubrjóst
 masturbation n. sjálfsfróun, sjálfsflekkun
-mat n. motta; flygsa; s. breiða mottur á; flétta; [~ together] flókna
+mat n. motta; flygsa; s. breiða mottur á; flétta; [~ together] flókna; deyfa (liti); l. daufur, gljáalaus ([~ gold])
 matted l. samfléttaður; flókinn
-mat l. daufur, gljáalaus ([~ gold]); s. deyfa (liti)
 matte l. daufur, gljáalaus ([~ gold]); s. deyfa (liti)
 matador n. griðungsbani (í nautaati); hátromp í sumum spilum
 match n. eldspýta
@@ -477,8 +475,7 @@ meadowy l. engja- ([a ~ plain])
 meagre l. magur; fátæklegur
 meagreness n. megurð
 meagrim n. sjá %[megrim]%
-meal n. máltíð; málsverður; málamjólk hverrar skepnu; [at ~s] á málum; [between ~s] milli máltíða; s. matast á málum
-meal n. rúgmjöl, haframjöl; s. gera mjölugt; mjöla; gera að mjöli eða dufti
+meal n. máltíð; málsverður; rúgmjöl, haframjöl; s. matast á málum; gera mjölugt; mjöla; gera að mjöli eða dufti
 mealy l. mjölugur, mjölaður ([~ potatoes]); mjölkynjaður; rykugur
 mealymouthed l. talandi óbeint; blíðmáll, mjúkmáll
 mean l. fyrirlitlegur; auðvirðilegur; lítilmótlegur; nískur

@@ -34,6 +34,8 @@ broadband n. breiðband (hröð nettenging)
 subcommittee n. undirnefnd
 sustainability n. sjálfbærni
 sustainable l. sjálfbær
+unsustainability n. ósjálfbærni
+unsustainable l. ósjálfbær, ekki hægt að halda uppi, óviðhaldanlegur
 unemployment n. atvinnuleysi
 username n. notandanafn
 video n. myndband, myndbandsupptaka
@@ -3212,6 +3214,9 @@ tercentenary n. 300 ára afmæli eða minningarhátíð
 prophylaxis n. forvörn, verndandi aðgerð, sjúkdómsvörn
 harmfulness n. skaðsemi, skaðræði
 polarization n. pólun, skautun
+polarize s. skauta, pólarísera
+depolarize s. afskauta, afpólarísera
+depolarization n. afskautun, afpólarísering
 counter-espionage n. gagnnjósnir
 miscegenation n. kynþáttablöndun
 eschatology n. heimsslitafræði
@@ -3310,7 +3315,6 @@ overconfident l. of eða óhóflega sjálfsöruggur, of öruggur með sjálfan s
 podium n. ræðupallur; verðlaunapallur; ræðupúlt
 apocalypse n. heimsendir, heimsslit (úr opinberunarbók biblíunnar)
 apocalyptic l. heimsendis-, heimsslita-; (sjá %[apocalypse]%)
-unsustainable l. ósjálfbær, ekki hægt að halda uppi, óviðhaldanlegur
 underdog n. lítilmagni, undirmálsmaður, sá sem er minni máttar
 orangeade n. sykraður appelsínudrykkur
 litmus n. lakkmúslitur; [~ paper] lakkmúspappír; [~ test] prófsteinn, fylgnipróf
@@ -4427,3 +4431,16 @@ synchronization n. samstilling, samhæfing
 punctually ao. tímanlega, á réttum tíma ([she arrived ~])
 animism n. andatrú
 animist n. andatrúarmaður
+archive n. skjalasafn, skjalamappa, skjöl, arkíf; s. greyma í skjalasafni
+magna cum laude l. með miklum heiðri ([he graduated ~]) (úr latínu)
+blackcurrant n. sólber
+cassis n. sólber
+earplug n. eyrnatappi
+humourist n. sjá %[humorist]%
+cheddar n. cheddar-ostur (einnig ritað séddarostur)
+unwholesomeness n. óheilnæmni, óhollusta
+riverhead n. upptök ár
+seaport n. hafnarborg, sjávarhöfn
+changelessness n. breytingaleysi, óbreytileiki
+disproportionately ao. á ósamsvarandi hátt, í óeðlilegu hlutfalli, óhóflega
+riddler n. gátumaður, þrautamaður

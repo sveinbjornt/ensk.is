@@ -163,11 +163,10 @@ tattle s. masa, þvaðra; bera sögur; n. söguburður, fleipur
 tattler n. masari, fleiprari,
 tattling l. lausmáll
 tattoo s. húðflúra, þ.e.a.s. stinga hörundið og bera lit í, rispa myndir á (hörund); berja ótt og títt; n. húðflúr; bumbusláttur að kvöldi dags, til merkis um að liðsmenn eigi að fara til herbergja sinna
-taunt s. smána, ámæla harðlega; brigsla (um e-ð [with]); n. hæðiyrði, brigsl
-taunt l. hár (um mastur)
+taunt s. smána, ámæla harðlega; brigsla (um e-ð [with]); n. hæðiyrði, brigsl; l. hár (um mastur)
 taut l. hertur (um streng); þaninn; strangur
 tautological l. sem segir sig sjálft, sem endurtekur sömu orð eða hugsun að óþörfu
-tautology n. óþörf endurtekning, upptaka, e-ð sem segir sig sjálft
+tautology n. óþörf endurtekning, e-ð sem segir sig sjálft
 tavern n. veitingahús
 taw s. verka (skinn) hvítt
 tawer n. hvítskinnaverkari
@@ -273,11 +272,8 @@ tendance n. þjónusta; hjúkrun
 tendant l. þjónandi
 tendency n. tilhneiging; stefna; tilgangur
 tendentious l. ritaður (saminn) með ákveðnu markmiði, til stuðnings e-i skoðun eða málefni
-tender n. gæslumaður; hjúkrari; sá sem sinnir e-m
-tender n. fylgiskip, vistaskip; kolavagn (á járnbraut)
-tender s. bjóða fram; bjóða e-m e-ð; n. framboð, tilboð; gjaldmiðill; [legal ~] lögmætur gjaldeyrir
-tender l. grannur; mjúkur meyr; blautgerður; viðkvæmur, blíður; brjóstgóður; varfærinn; [~ of (for, on behalf of)] sem lætur sér annt um e-ð
-tender-hearted l. brjóstgóður, viðkvæmur
+tender n. framboð, tilboð; gjaldmiðill; [legal ~] lögmætur gjaldeyrir; gæslumaður; hjúkrari; sá sem sinnir e-m; fylgiskip, vistaskip; kolavagn (á járnbraut); s. bjóða fram; bjóða e-m e-ð; grannur; mjúkur, meyr; blautgerður; viðkvæmur, blíður; brjóstgóður; varfærinn; [~ of (for, on behalf of)] sem lætur sér annt um e-ð
+tender-hearted l. brjóstgóður, viðkvæmur, hjartahlýr
 tenderly ao. mjúklega, blíðlega; innilega, heitt; vægilega, gætilega
 tenderness n. grannleiki; meyrleiki; mýkt; viðkvæmni; blíða; brjóstgæði; nákvæmni, varfærni
 tendon n. sin
@@ -742,10 +738,9 @@ toe n. tá; [the great ~] stóra táin; s. snerta (eða ná) með tánum
 toffee n. sírópssykur
 toffy n. sírópssykur
 together ao. saman; í senn; í einu; [for hours ~] stundum saman; [five days ~] fimm daga í röð; [~ with] ásamt, með
-toil s. strita, vinna; n. örðug vinna, strit, erfiði
+toil s. strita, vinna; n. örðug vinna, strit, erfiði; veiðinet, snara
 toiler n. sá sem leggur á sig harða vinnu
 toilsome l. örðugur, fyrirhafnarmikill
-toil n. veiðinet, snara
 toilet n. salerni, klósett; búningsborð; búningur; [to make one's ~] búa sig, klæða sig
 token n. tákn, merki; minjagripur; [in ~ of] til merkis um; s. tákna, merkja; boða
 tolerable l. þolanlegur, bærilegur

@@ -389,8 +389,7 @@ recoverable l. afturfáanlegur; bætanlegur; læknanlegur, læknandi
 recovery n. afturfengur; bati, afturbati; [past ~] sem ekki fæst aftur; ólæknandi
 recreancy n. ragmennska; níðingsskapur
 recreant l. ragur, huglaus; níðingslegur; [turn ~ to God] gerast guðníðingur; n. bleyða, ragmenni; níðingur
-recreate s. skapa (mynda) að nýju, endurskapa; endurkjósa
-recreate s. hressa; skemmta; hressa sig, lyfta sér upp, hafa ofan af fyrir sér ([~ oneself with something])
+recreate s. skapa (mynda) að nýju, endurskapa; endurkjósa; hressa; skemmta; hressa sig, lyfta sér upp, hafa ofan af fyrir sér ([~ oneself with something])
 recreation n. afþreying; hressing; skemmtun; endursköpun; endurkosning
 recreative l. hressandi; skemmtandi
 recrement n. úrgangur, sori
@@ -1181,9 +1180,9 @@ rheumatism n. gigt, liðaveiki
 rhine n. opinn skurður
 rhinoceros n. nashyrningur
 rhizome n. rótarstöngull
-rhomb n. skáhyrningur, tigull
+rhomb n. skáhyrningur, tígull
 rhombic l. tigulmyndaður
-rhombus n. sjá %[rhomb]%; e.k. skarkoli
+rhombus n. sjá %[rhomb]%; e.k. skarkoli; tígull
 rhubarb n. rabarbari; rabarbarajurt
 rhumb n. kompásstrik
 rhyme n. rím, hending (í kveðskap); skáldskapur; [neither ~ nor reason] algjör vitleysa; s. gera hendingu, ríma; yrkja (með hendingum)
@@ -1206,8 +1205,7 @@ rickets n. ft. beinkröm, enska sýkin
 rickety l. sjúkur af beinkröm; liðaveikur; hrörlegur
 rid s. losa (við [of]); l. laus (við [of]); [get ~ of] losna við
 riddance n. lausn, frelsun; [he is a good ~] það er gott að vera laus við hann
-riddle n. gisið sáld; s. sælda; bora smágöt á ([a house ~d with shot])
-riddle n. gáta, ráðgáta; s. ráða (gátu); tala tvírætt
+riddle n. gáta, ráðgáta; gisið sáld; s. sælda; bora smágöt á ([a house ~d with shot]); ráða (gátu); tala tvírætt
 ride s. ríða; aka ([~ in a carriage]); [~ a horse] ríða hesti; [~ a race] ríða kappreið; [~ double] tvímenna; [~ at anchor] liggja við akkeri; [~ a gale out] standast storm í höfn; n. reið, útreið; akstur; reiðvegur, akbraut
 rider n. ríðandi maður, reiðmaður; viðauki, viðaukatillaga
 ridge n. hryggur á fjalli eða bylgju ([~ of a mountain, ~ of a wave]); mænir; s. mynda hrygg á ([~ the soil])
@@ -1453,8 +1451,7 @@ rouse s. vekja; hvetja, eggja; reka upp; vakna; n. drykkja
 rout n. hávaðaflokkur; uppþot; mannmargt kvöldsamkvæmi; tvístrun (herliðs); flótti; s. reka á flótta, tvístra; róta upp (með trýninu); reka á fætur ([~ up, out]); reka
 route n. vegur, leið ([go by a different ~]); [en ~ for] á leið til
 routine l. venjuleg störf, vanaiðja, vani; [to settle into fixed ~] verða að fastri venju
-rove s. ráfa, reika (um)
-rove n. lopi, togi (af ull), lyppa
+rove s. ráfa, reika (um); n. lopi, togi (af ull), lyppa
 rover n. vegfarandi; flakkari; sjóræningi, víkingur
 roving l. reikandi, umfarandi ([~ sailor]); n. reik, flakk
 row n. röð ([a ~ of houses]); [to lie in a ~] liggja í röð

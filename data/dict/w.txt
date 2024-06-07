@@ -183,8 +183,7 @@ waverer n. sá sem er á báðum áttum, hikandi
 waveson n. rekald
 wavy l. sem gengur í bylgjum, bylgjóttur, öldóttur; óstöðugur ([~ opinions]); liðaður, hrokkinn (um hár)
 wavy-haired l. hrokkinhærður
-wax s. vaxa (um tunglið); verða ([~ strong, angry, old])
-wax n. vax; lakk ([sealing ~]); eyrnamergur ([ear~]); s. vexa
+wax n. vax; lakk ([sealing ~]); eyrnamergur ([ear~]); s. vexa; vaxa (um tunglið); verða ([~ strong, angry, old])
 waxen l. úr vaxi, vax-
 waxy l. vaxkynjaður; mjúkur sem vax; fölleitur
 way n. vegur, leið; braut; ráð, útvegur ([~ out]); aðferð, háttur; vani; [have one's ~, one's own ~] koma vilja sinum fram; [go the ~ of all the earth, ~ of all flesh, of nature] fara veg allrar veraldar, deyja; [lose one's ~] villast; [take one's ~ to (towards)] fara til; [go (take) one's own ~] fara sinna ferða; [by the ~] á leiðinni, á ferðinni; lauslega (sagt); meðal annara orða; [came by ~ of London] í gegnum London; [by ~ of apology] sem afsökun; [on the ~] á leiðinni; [in the family ~] ólett, þunguð, vanfær; [in the ~] til hindrunar; [in the ~ of dress] að því er snertir klæðnað; [a long ~ off] langt í burtu; [on the ~ to] á leiðinni til; [out of the ~] ekki til hindrunar; fjarstaddur; afskekktur; fjarri sanni, ósanngjarn; óvanalegur; [the ship is under ~] komið af stað (um skip); [every ~] að öllu leyti; á allan hátt; [no ~] á engan hátt, engan veginn ([no ~ inferior]); [give ~] láta undan; [make ~] doka úr vegi; [make (win) one's ~] ryðja sér braut, koma sér fram; [lead the ~] ganga á undan; [ask the ~] spyrja til vegar; [a long ~ off] langt í burtu; [the ~ in] inngangurinn; [~ out] útgangur; úrræði; [~s and means] útvegir og ráð
@@ -218,8 +217,7 @@ weanling n. barn, nývanið af brjósti; fráfærulamb
 weapon n. vopn
 weaponed l. vopnaður
 weaponless l. vopnlaus
-wear s. bera (utan á sér); vera á (fati), hafa, bera (vopn og klæði); slíta (fötum, [he ~s his trousers out at the knees]); eyða; má, afmá ([the inscription has been worn away]); halda, endast; slitna (um föt); eyðast; mást; [~ away/out] eyða, slíta (e-u) upp; gera örmagna; [as the day wore on] eftir því sem á daginn leið; [~ one's hair long (short)] ganga með langt (stutt) hár; [~ a sour look] vera súr (fýlulegur) á svipinn; [~ one's years well] bera aldurinn vel, vera unglegur eftir aldri; n. slit; hald ([this stuff has no ~ in it] er endingarlaust); búningur; notkun (fata); [~ and tear] slit (af notkun)
-wear n. stíflugarður (í á)
+wear s. bera (utan á sér); vera á (fati), hafa, bera (vopn og klæði); slíta (fötum, [he ~s his trousers out at the knees]); eyða; má, afmá ([the inscription has been worn away]); halda, endast; slitna (um föt); eyðast; mást; [~ away/out] eyða, slíta (e-u) upp; gera örmagna; [as the day wore on] eftir því sem á daginn leið; [~ one's hair long (short)] ganga með langt (stutt) hár; [~ a sour look] vera súr (fýlulegur) á svipinn; [~ one's years well] bera aldurinn vel, vera unglegur eftir aldri; n. slit; hald ([this stuff has no ~ in it] er endingarlaust); búningur; notkun (fata); [~ and tear] slit (af notkun); n. stíflugarður (í á)
 weariness n. þreyta; leiðindi; óþolinmæði
 wearing n. notkun, brúkun; slit
 wear-apparel n. íveruföt, hversdagsföt
@@ -611,9 +609,8 @@ wiriness n. seigja, seigla
 wiry l. svipaður vír; vír-; seigur, sinasterkur
 wisdom n. viska, speki; hyggindi
 wisdom tooth n. vísdómstönn
-wise l. vitur, hygginn; hyggilegur, viturlegur; [be none the ~r] vera engu nær; [~ saw] spakmæli
+wise l. vitur, hygginn; hyggilegur, viturlegur; [be none the ~r] vera engu nær; n. háttur; [in any ~] á nokkurn hátt; [in no ~] á engan hátt; [in this ~] þannig
 wiseacre n. maður sem þykist vera spekingur
-wise n. háttur; [in any ~] á nokkurn hátt; [in no ~] á engan hátt; [in this ~] þannig
 wish n. ósk; löngun ([he has a great ~ to go to sea]); s. æskja, óska (e-s, einnig [~ for]); [I ~ you to do it] ég óska (vil) að þér gerið það; [I ~] ég vildi óska að; [~ well (to)] árna (e-m) góðs, vilja e-m vel; [~ joy] samgleðjast; [~ed for] eftiræsktur
 wishful l. löngunarfullur; sem óskar (e-s [of])
 wish-wash n. skólp (ónýtur drykkur)

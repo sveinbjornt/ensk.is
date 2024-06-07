@@ -699,6 +699,11 @@ SKIP = frozenset(
         "Russophobia",
         "overtaxation",
         "silviculture",
+        "changelessness",
+        "depolarization",
+        "depolarize",
+        "humourist",
+        "unsustainability",
     )
 )
 
