@@ -930,8 +930,8 @@ anabaptism n. endurskírn
 Anabaptist n. endurskírari
 Anabaptistic l. endurskírnar-
 anabaptize s. skíra upp aftur, endurskíra
-anachronism n. tímatalsvilla, tímaskekkja
-anachronistic l. ósamkvæmur nútímanum
+anachronism n. tímaskekkja, tímatalsvilla
+anachronistic l. ósamkvæmur nútímanum, tímaskekkju-
 anaemia n. blóðleysi
 anaesthetic l. tilfinningarlaus ([~ state]); [~ operation] læknisaðgerð samfara svæfingu
 anaesthetize s. gera tilfinningarlausan, deyfa, svæfa ([~ a patient])
@@ -940,7 +940,7 @@ anal l. endaþarms-; [~ sex] endaþarmsmök
 anal fin n. gotraufaruggi (á fiski)
 analogical l. samanburðarlegur
 analogize s. nota samanburð; vera í samræmi (við [with])
-analogous l. líkur; hliðstæður
+analogous l. hliðstæður; líkur
 analogy n. samanburður, líking; samsvörun
 analyse s. sjá %[analyze]%
 analyze s. greina; sundurliða; skoða vandlega, gagnrýna; leysa upp
