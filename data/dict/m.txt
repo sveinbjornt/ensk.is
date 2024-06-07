@@ -604,7 +604,7 @@ mendicancy n. verðgangur, betl
 mendicant l. sem lifir á bónbjörgum; n. förumaður, beiningamaður; förumunkur
 mendicate s. betla, sníkja
 mendication n. sníkjur, betl
-mendicity n. bónbjargir; bláfátækt, örbirgð
+mendicity n. bláfátækt, örbirgð; bónbjargir
 menial l. þjónslegur, þýlegur; óvirðulegur ([~ offices]); n. þjónn, vinnuhjú ([~ servant])
 meningitis n. heilahimnubólga
 mensal l. mánaðarlegur
@@ -635,12 +635,11 @@ merciful l. miskunnsamur; vorkunnsamur
 merciless l. miskunnarlaus, harðbrjósta; vægðarlaus
 mercilessness n. miskunnarleysi
 mercurial l. hviklyndur; fjörugur; sem kvikasilfur er í; [the ~ wand] stafur Merkúrs; n. kvikasilfurslyf ([~ preparation])
-Mercury n. guðinn og hnötturinn Merkúr
+Mercury n. guðinn og plánetan Merkúr
 mercury n. kvikasilfur
 mercy n. náð, miskunn; meðaumkun; [be at the ~ of] vera á valdi e-s; [have ~ on, upon] aumkast yfir e-n; [sister of ~] líknarsystir
-mere l. óblandaður; tómur; eintómur, einber ([a ~ swindler])
+mere l. óblandaður; tómur; eintómur, einber ([a ~ swindler]); n. tjörn; landamæri
 merely ao. að eins, eingöngu
-mere n. tjörn; landamæri
 meretricious l. skækjulegur; svikinn; lokkandi
 merganser n. stóra toppönd, gulönd
 merge s. sökkva, láta e-ð hverfa í (renna saman við) annað meira; hverfa, renna saman við, breytast (í [in, into])

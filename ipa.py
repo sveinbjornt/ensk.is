@@ -687,6 +687,18 @@ SKIP = frozenset(
         "swidden",
         "ambulator",
         "tasseography",
+        "cum",
+        "cumshot",
+        "velure",
+        "musicological",
+        "Sodom",
+        "stonemasonry",
+        "watercooler",
+        "battleworthiness",
+        "battleworthy",
+        "Russophobia",
+        "overtaxation",
+        "silviculture",
     )
 )
 

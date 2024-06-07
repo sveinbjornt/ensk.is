@@ -49,6 +49,7 @@ astrophysics n. stjarneðlisfræði
 astrophysicist n. stjarneðlisfræðingur
 geophysics n. jarðeðlisfræði
 geophysicist n. jarðeðlisfræðingur
+geophysical l. jarðeðlisfræðilegur
 theoretical physics n. fræðileg eðlisfræði
 astronaut n. geimfari
 cosmonaut n. geimfari
@@ -2720,7 +2721,7 @@ eloquently ao. mælskulega
 grandmaster n. stórmeistari
 pedagogical l. uppfræðslu-, uppeldislegur
 Byzantium n. Austrómverska keisaradæmið, Býsansríki, Miklagarðsríki
-Byzantine l. býsanskur, austrómverskur; flókinn, skrifræðislegur ([~ rules and regulations])
+Byzantine l. býsanskur, austrómverskur; flókinn, skrifræðislegur ([~ rules and regulations]); n. Býsansmaður, Austrómverji
 mountaintop n. fjallstindur
 maestro n. (tónlistar)meistari (úr ítölsku)
 dwarfism n. dvergvöxtur
@@ -3833,6 +3834,7 @@ pharaoh n. faraó (egypskur konungur)
 weaponize s. vopnavæða, gera vopn úr, nota sem vopn
 interdisciplinary l. þverfaglegur
 biomedical l. líf- og lækninga-, líf- og læknisfræðilegur
+biomedicine n. líflækningar, líflæknisfræði
 gyrfalcon n. (stór) fálki, valur
 sledgehammer n. sleggja
 brusqueness n. fruntaskapur
@@ -4365,3 +4367,63 @@ grouchy l. geðvondur, nöldrandi, kvartandi
 grouchily ao. á geðvondan eða nöldrandi hátt
 fulfillment n. sjá %[fulfilment]%
 availability n. fáanleiki, tiltækileiki
+hippocampus n. dreki (heilastöð); sæhestur
+sphincter n. þrengir, þrengivöðvi, lokuvöðvi, hringvöðvi
+magenta l. fjólublár, blárauður; n. fjólublár litur, blárauður litur
+cum n. sæði, brund; s. fá sáðlát, brunda; fs. með (úr latínu, sbr. %[magna cum laude]%)
+cumshot n. sáðlát, brundun
+gonorrhea n. lekandi (kynsjúkdómur)
+esthetic l. sjá %[aesthetic]%
+suede n. rúskinn; l. rúskinns-
+nuance n. blæbrigði
+armoured l. brynjaður, brynvarinn
+realisation n. sjá %[realization]%
+wimp n. aumingi, ræfill
+wimpish l. aumingjalegur, ræfilslegur
+wimpy l. aumingjalegur, ræfilslegur
+violently ao. ákaflega, ruddalega, á ofbelidsfullan hátt
+epoxy n. epoxý; [~ resin] epoxý kvoði
+aggrieved l. móðgaður ([the ~ party])
+velure n. velúr (e.k. flauelsefni); l. velúrs-, úr velúr
+lanyard n. e-s konar skipsreim eða reipi
+fart n. prump, fret, viðrekstur; s. prumpa, freta, reka við
+staccato l. stuttaralegur; ao. stuttaralega
+illiquid l. torseljanlegur, bundinn (um eignir, [~ assets])
+illiquidity n. lausafjárskortur
+activist n. aðgerðasinni; [environmental ~] umhverfisverndarsinni
+heartlessness n. miskunnarleysi, harðlyndi; hugleysi, kjarkleysi
+Sodom n. Sódóma (borg syndara í Gamla testamentinu)
+Aphrodite n. Afródíta (grísk ástargyðja)
+horseless l. hestlaus
+Bavaria n. Bæjaraland (svæði í Suður-Þýskalandi)
+Bavarian l. bæverskur; n. Bæjari; bæverska
+corrupter n. spillari, e-r sem spillir ([~ of the youth])
+musicology n. tónlistarfræði
+musicologist n. tónlistarfræðingur
+musicological l. tónlistarfræðilegur
+stonemasonry n. steinsmíði, steinhögg; múrun
+horsefly n. kleggi
+smugness n. sjálfumgleði, sjálfsánægja
+watercooler n. vatnskælir
+Afrikaner n. Búi (Suður-Afríkumaður af hollenskum uppruna)
+Afrikaans n. afríkanska (germanskt mál talað af Búum í Suður-Afríku)
+viable l. vænlegur, lífvænlegur; framkvæmanlegur; raunhæfur; gjaldgengur
+unviable l. ekki lífvænlegur, ólífvænlegur; óframkvæmanlegur; óraunhæfur; ógjaldgengur
+overwhelmingly ao. feikilega, yfirgnæfandi
+morgue n. líkhús
+Russophobia n. hræðsla, andúð eða hatur gagnvart Rússlandi, Rússum eða rússneskri menningu
+battleworthy l. bardagahæfur
+battleworthiness n. bardagahæfni
+encyclopedist n. alfræðingur; ritari alfræðiorðabóka
+encyclopaedist n. sjá %[encyclopedist]%
+prescientific l. forvísindalegur, sem kom á undan vísindum
+biotic l. lífrænn
+silviculture n. skógrækt, viðarrækt
+muscleman n. vöðvatröll
+sinology n. kínafræði, fræðigrein sem fæst við sögu og menningu Kína
+sinologist n. sérfræðingur í sögu og menningu Kína
+overtaxation n. ofsköttun
+synchronization n. samstilling, samhæfing
+punctually ao. tímanlega, á réttum tíma ([she arrived ~])
+animism n. andatrú
+animist n. andatrúarmaður
