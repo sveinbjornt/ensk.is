@@ -1563,10 +1563,9 @@ snowy winter n. snjóavetur
 snub s. sneypa, snupra; n. snuprur
 snub nose n. klumbunef
 snub-nosed l. stuttnefjaður
-snuff n. skar (á ljósi); s. taka af skarið
+snuff n. neftóbak; skar (á ljósi); s. taka af skarið; anda að sér; soga upp í nefið; þefa, nasa, snuðra; taka í nefið
 snuffers n. ft. skarbítur, ljósaskæri ([a pair of ~])
-snuff s. anda að sér; soga upp í nefið; þefa, nasa, snuðra; taka í nefið; n. neftóbak; [to take ~] taka í nefið; [to take (a thing) in ~] firtast við
-snuffbox n. neftóbaksdósir
+snuffbox n. neftóbaksdós
 snuffy l. sem lyktar af neftóbaki; ataður í neftóbaki; önugur
 snuffle s. vera nefmæltur
 snug l. sem er í skjóli; þægilegur, notalegur; hlýr; [a ~ income] dágóðar tekjur; s. liggja fast upp að ([a child ~s to its mother])
@@ -1574,8 +1573,8 @@ snuggle s. búa notalega um (sig), koma sér notalega fyrir
 so ao. svo, þannig; eins; þess vegna; st. svo framarlega sem, ef; [I believe ~] ég held það; [the more ~ as] það því fremur sem
 soak s. leggja í bleyti; gegnbleyta; liggja í bleyti; vera rennvotur; súpa á; [water ~s into the earth] sígur ofan í jörðina; n. bleyti
 soaking n. [to get a ~] verða gagndrepa
-soaky l. rennvotur, gagndrepa
-soaked l. rennvotur, gagndrepa
+soaky l. rennvotur, gagndrepa, gegnblautur
+soaked l. rennvotur, gagndrepa, gegnblautur, gegnbleyttur
 soap n. sápa; s. bera sápu í
 soap boiler n. sápusuðumaður
 soap bubble n. sápukúla
@@ -2250,11 +2249,10 @@ steel engraving n. stálstunga
 steeliness n. stálharka
 steely l. stálharður; úr stáli
 steelyard n. reisla
-steep l. brattur; n. brattur staður, brekka
+steep l. brattur; n. brattur staður, brekka; s. bleyta, láta blotna
 steepen s. verða brattur
 steepness n. brattleiki, bratti
 steep-pitched l. háreistur ([a ~ roof])
-steep s. bleyta, láta blotna
 steeple n. (kirkju)turn; klukkuturn
 steeplechase n. kappreið yfir torfærur
 steeplechasing n. kappreið yfir torfærur

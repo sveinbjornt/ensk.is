@@ -168,9 +168,8 @@ taut l. hertur (um streng); þaninn; strangur
 tautological l. sem segir sig sjálft, sem endurtekur sömu orð eða hugsun að óþörfu
 tautology n. óþörf endurtekning, e-ð sem segir sig sjálft
 tavern n. veitingahús
-taw s. verka (skinn) hvítt
+taw s. verka (skinn) hvítt; n. stór marmarakúla
 tawer n. hvítskinnaverkari
-taw n. stór marmarakúla
 tawdry l. íburðarmikill, glingurslegur, smekklaus
 tawny l. gulmórauður; sólbrenndur; n. gulmórauður litur
 tax n. skattur, álaga; s. leggja skatt (eða byrði) á; reyna á ([~ the patience]); kenna um, saka um ([~ a man with perfidy]); meta; virða
@@ -870,8 +869,7 @@ tousle s. strúa, ýfa (hárið)
 tout s. sníkja sér meðmæli eða lof; [to ~ for customers] (reyna að) krækja í viðskiptavini
 tow s. draga, toga, hafa (skip) í togi; vera í togi; n. úrkembingur (úr hör eða hampi); dráttarkaðall ([~line, ~rope]); tog; bátur í togi; [in ~] í togi, í eftirdragi; [take in ~] taka og draga á eftir sér, taka aftan í
 towage n. tog, dráttur (skips); dráttarkaup
-toward l. hagstæður ([a ~ breeze]); sem er að gerast ([to see what is ~]); námfús
-toward fs. til, í áttina til; við; nærfellt, um ([~ three o'clock])
+toward fs. til, í áttina til; við; nærfellt, um ([~ three o'clock]); l. hagstæður ([a ~ breeze]); sem er að gerast ([to see what is ~]); námfús
 towards fs. til, í áttina til; við; nærfellt, um ([~ three o'clock])
 towardly l. hagstæður; efnilegur, námfús; vingjarnlegur
 towel n. handklæði; s. þurrka (með handklæði); lemja, berja

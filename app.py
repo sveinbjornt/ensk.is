@@ -45,7 +45,7 @@ from functools import wraps
 from fastapi import FastAPI, Request, HTTPException
 from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
-from fastapi.responses import Response, UJSONResponse as JSONResponse
+from fastapi.responses import Response, RedirectResponse, UJSONResponse as JSONResponse
 
 from db import EnskDatabase
 from util import human_size, perc
@@ -318,6 +318,14 @@ async def about(request: Request):
             "additions_percentage": perc(num_additions, num_entries),
         },
     )
+
+
+@app.get("/english")
+@cache_response
+async def english_redirect(request: Request):
+    """Redirect to /english_icelandic_dictionary."""
+
+    return RedirectResponse(url="/english_icelandic_dictionary", status_code=301)
 
 
 @app.get("/english_icelandic_dictionary")
