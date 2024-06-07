@@ -41,8 +41,8 @@
 from typing import DefaultDict, List, Tuple, Optional, Dict
 
 import os
-import json
 from collections import defaultdict
+import orjson as json
 
 from util import read_wordlist
 

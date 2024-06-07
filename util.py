@@ -41,9 +41,10 @@
 from typing import List, Dict
 
 import os
-import json
 import zipfile
 from os.path import exists
+
+import orjson as json
 
 
 def read_wordlist(fn: str, unique: bool = True) -> List[str]:
@@ -67,7 +68,7 @@ def read_wordlist(fn: str, unique: bool = True) -> List[str]:
 def read_json(inpath: str) -> Dict[str, str]:
     """Read and parse json file."""
     with open(inpath, "r") as f:
-        return json.load(f)
+        return json.loads(f.read())
 
 
 def zip_file(inpath: str, outpath: str) -> None:

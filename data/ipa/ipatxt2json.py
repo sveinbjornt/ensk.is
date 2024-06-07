@@ -6,7 +6,7 @@ import json
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
-        print("Usage: python3 conv.py <filename>")
+        print("Usage: python3 ipatxt2json.py <filename>")
         sys.exit(1)
 
     d = dict()

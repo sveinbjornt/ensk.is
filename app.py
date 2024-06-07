@@ -45,11 +45,17 @@ from functools import wraps
 from fastapi import FastAPI, Request, HTTPException
 from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
-from fastapi.responses import Response, RedirectResponse, UJSONResponse as JSONResponse
+from fastapi.responses import (
+    Response,
+    RedirectResponse,
+    JSONResponse as FastAPIJSONResponse,
+)
+import orjson
 
 from db import EnskDatabase
 from util import human_size, perc
 from dict import read_wordlist
+
 
 # Website settings
 WEBSITE_NAME = "Ensk.is"
@@ -82,6 +88,17 @@ CAT2ENTRIES = {}
 for c in CATEGORIES:
     cs = c.rstrip(".")
     CAT2ENTRIES[cs] = e.read_all_in_wordcat(cs)
+
+
+class CustomJSONResponse(FastAPIJSONResponse):
+    """JSON response using the high-performance orjson library to serialize the data."""
+
+    def render(self, content: Any) -> bytes:
+        assert orjson is not None, "orjson must be installed to use CustomJSONResponse"
+        return orjson.dumps(content)
+
+
+JSONResponse = CustomJSONResponse
 
 
 def _err(msg: str) -> JSONResponse:
