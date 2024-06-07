@@ -389,6 +389,7 @@ async def all(request: Request):
         {
             "request": request,
             "title": f"Öll orðin - {WEBSITE_NAME}",
+            "num_words": len(all_words),
             "words": all_words,
         },
     )
@@ -433,12 +434,12 @@ async def original(request: Request):
     """Page with links to all words that are original."""
     original = [e["word"] for e in e.read_all_original()]
     return TemplateResponse(
-        "duplicates.html",
+        "original.html",
         {
             "request": request,
-            "title": f"Upphafleg orð - {WEBSITE_NAME}",
+            "title": f"Upprunaleg orð - {WEBSITE_NAME}",
             "num_original": len(original),
-            "duplicates": original,
+            "original": original,
         },
     )
 

@@ -20,14 +20,6 @@
         <loc>https://ensk.is/files</loc>
         <changefreq>weekly</changefreq>
     </url>
-    <url>
-        <loc>https://ensk.is/all</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>https://ensk.is/additions</loc>
-        <changefreq>weekly</changefreq>
-    </url>
     {% for w in words %}
     <url>
         <loc>https://ensk.is/item/{{ w|replace(" ", "%20") }}</loc>

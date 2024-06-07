@@ -1353,8 +1353,7 @@ arithmetic n. reikningslist
 arithmetical l. reikningslegur
 arithmetician n. reikningsmaður ([a good ~])
 ark n. örk; [the Ark of the Covenant] sáttmálsörkin
-arm n. handleggur, armur; grein, kvísl; brík (á stól)
-arm s. vopna, hertygja; útbúa; hertygjast; grípa til vopna
+arm n. handleggur, armur; grein, kvísl; brík (á stól); s. vopna, hertygja; útbúa; hertygjast; grípa til vopna
 armed l. vopnaður
 arms n. ft. handleggir; vopn; [take up ~, to rise up in ~] grípa til vopna
 armada n. herskipafloti
@@ -1435,11 +1434,10 @@ asceticism n. meinlætalifnaður, meinlætalíf, meinlætislíf
 ascribe s. eigna, tileinka; kenna um
 ascription n. tileinkun, eignun
 aseptic l. órotnanlegur
-ash n. askur (tréheiti)
 ashen l. gerður úr aski, eski-; náfölur ([his face turned ~])
-ash n. aska; ft. [~es] aska
+ash n. aska; askur (trétegund)
 ashly l. öskugrár, öskugur; náfölur
-ashamed l. sneyptur, skömmustulegur, sem skammast sín (fyrir e-ð [of])
+ashamed l. skömmustulegur, sneyptur, sem skammast sín (fyrir e-ð [of])
 ashlar n. höggvið (teningsmyndað) grjót
 ashore ao. á land; á landi; [to run (a ship) ~] sigla (skipi) upp á grynningar, stranda
 ashy l. ösku-; öskugur; öskugrár; fölur
