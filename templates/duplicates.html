@@ -1,0 +1,25 @@
+{% extends "container.html" %}
+
+{% block meta %}
+<meta name="description" content="Öll orð sem eru samstæður (duplicates)">
+{% endblock %}
+
+{% block content %}
+
+<h1>Samstæður</h1>
+
+<p>Hér er listi af öllum orðum sem eru samstæður ({{ num_duplicates }} talsins):</p>
+
+<p>
+  {% for w in duplicates %}
+  <a href="/item/{{ w }}">{{ w|safe }}</a>
+  <br>
+  {% endfor %}
+</p>
+
+<br>
+<br>
+<br>
+<br>
+
+{% endblock %}

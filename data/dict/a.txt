@@ -287,7 +287,7 @@ acquaintanceship n. kunningsskapur
 acquainted l. kunnugur (e-m [with])
 acquiesce s. láta sér lynda ([in]); samþykkja
 acquiescence n. samþykki; undirgefni (undir e-ð [in])
-acquiescent l. friðsamur, nægjusamur
+acquiescent l. samþykkur, friðsamur, nægjusamur
 acquirable l. fáanlegur
 acquire s. ná, fá, afla ([to ~ riches])
 acquirement n. öflun; nám; kunnátta
@@ -895,7 +895,7 @@ amiss ao. ranglega; skakkt, illa; úr lagi; [take ~] misskilja, þykkjast af
 amity n. vinátta
 ammonia n. ammoníak; [liquid ~] salmíakspíritus
 ammoniac l. salmíak
-ammunition n. herbúnaður (einkum púður og sprengiefni)
+ammunition n. skotfæri, herbúnaður (einkum púður og sprengiefni)
 amnesty n. sakaruppgjöf; gleymska; s. gefa (e-m) upp sakir
 amnion n. líknabelgur
 among fs. á meðal, innan um, í, á milli; hjá
@@ -954,7 +954,7 @@ anarchist n. stjórnleysingi, stjórnleysissinni, anarkisti (sjá %[anarchism]%)
 anarchy n. stjórnleysi, óstjórn
 anathema n. bannfæring
 anathematize s. bannfæra; bölva
-anatomical l. sem lýtur að líkskurði eða líffærafræði; sem lýtur að sundurliðun
+anatomical l. líffærafræðilegur, líffæra-, sem lýtur að líkskurði eða líffærafræði; sem lýtur að sundurliðun
 anatomist n. líkskeri; líffærafræðingur; sundurliðari
 anatomize s. skera upp (lík); sundurliða
 anatomy n. líkskurður; líkskurðarfræði; líffærafræði; sundurliðun
@@ -1299,7 +1299,7 @@ arc n. bogi; baugur ([~ of a meridian])
 arcade n. bogagöng; spilasalur
 arcanum n. leyndardómur; kynjalyf; ft. [arcana]
 arch n. bogi; hvelfing; [triumphal ~] sigurbogi; s. hvelfa; [~ the neck] hringa makkann; l. glettinn
-archly ao. glettnislega
+archly ao. glettnislega, með glettni
 archness n. glettni
 arch- fsk. erki- (í samsetningum) sbr. %[archbishop]%, %[archangel]%
 archangel n. erkiengill
@@ -1325,7 +1325,6 @@ architectonic l. sem lýtur að húsagerðarlist, arkítektúrs-
 architecture n. byggingarlist, húsagerðarlist, arkítektúr
 archives n. ft. skjalasafn, skjöl, arkíf
 archivist n. skjalavörður
-archly l. með glettni
 archway n. hvelfing
 arctic l. norðurheimskauts- ([the ~ pole, ~ circle])
 ardent l. heitur, ákafur; áfengur

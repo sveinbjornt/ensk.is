@@ -14,7 +14,7 @@
 <!-- Database stats -->
 
 
-<table>
+<table id="general_stats">
     <tr>
         <td>
             <h2 style="margin-bottom:0">Gagnagrunnur</h2>
@@ -23,17 +23,17 @@
         <td><strong>Hlutfall</strong></td>
     </tr>
     <tr>
-        <td><strong>Færslur</strong></td>
+        <td><a href="/all"><strong>Færslur</strong></a></td>
         <td>{{ num_entries }}</td>
         <td>100%</td>
     </tr>
     <tr>
-        <td><strong>Upprunalegar</strong></td>
+        <td><a href="/original"><strong>Upprunalegar</strong></a></td>
         <td>{{ num_original }}</td>
         <td>{{ perc_original }}</td>
     </tr>
     <tr>
-        <td><strong>Viðbætur</strong></td>
+        <td><a href="/additions"><strong>Viðbætur</strong></a></td>
         <td>{{ num_additions }}</td>
         <td>{{ perc_additions }}</td>
     </tr>
@@ -53,12 +53,12 @@
         <td>{{ perc_no_us_ipa }}</td>
     </tr>
     <tr>
-        <td><strong>Með hástafi</strong></td>
+        <td><a href="/capitalized"><strong>Með hástafi</strong></a></td>
         <td>{{ num_capitalized }}</td>
         <td>{{ perc_capitalized }}</td>
     </tr>
     <tr>
-        <td><strong>Samstæður</strong></td>
+        <td><a href="/duplicates"><strong>Samstæður</strong></a></td>
         <td>{{ num_duplicates }}</td>
         <td>{{ perc_duplicates }}</td>
     </tr>

@@ -5,7 +5,7 @@ import random
 
 import requests
 
-from db import EnskDatabase
+# from db import EnskDatabase
 
 
 def main() -> int:

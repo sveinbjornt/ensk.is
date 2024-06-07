@@ -343,6 +343,16 @@ async def about(request: Request):
     )
 
 
+@app.get("/zoega")
+@cache_response
+async def zoega(request: Request):
+    """Page with details about the Zoega dictionary."""
+    return TemplateResponse(
+        "zoega.html",
+        {"request": request, "title": f"Orðabók Geirs T. Zoëga - {WEBSITE_NAME}"},
+    )
+
+
 @app.get("/english")
 @cache_response
 async def english_redirect(request: Request):
@@ -401,6 +411,54 @@ async def cat(request: Request, category: str):
     )
 
 
+@app.get("/capitalized")
+@cache_response
+async def capitalized(request: Request):
+    """Page with links to all words that are capitalized."""
+    capitalized = [e["word"] for e in e.read_all_capitalized()]
+    return TemplateResponse(
+        "capitalized.html",
+        {
+            "request": request,
+            "title": f"Hástafir - {WEBSITE_NAME}",
+            "num_capitalized": len(capitalized),
+            "capitalized": capitalized,
+        },
+    )
+
+
+@app.get("/original")
+@cache_response
+async def original(request: Request):
+    """Page with links to all words that are original."""
+    original = [e["word"] for e in e.read_all_original()]
+    return TemplateResponse(
+        "duplicates.html",
+        {
+            "request": request,
+            "title": f"Upphafleg orð - {WEBSITE_NAME}",
+            "num_original": len(original),
+            "duplicates": original,
+        },
+    )
+
+
+@app.get("/duplicates")
+@cache_response
+async def duplicates(request: Request):
+    """Page with links to all words that are duplicates."""
+    duplicates = [e["word"] for e in e.read_all_duplicates()]
+    return TemplateResponse(
+        "duplicates.html",
+        {
+            "request": request,
+            "title": f"Samstæður - {WEBSITE_NAME}",
+            "num_duplicates": len(duplicates),
+            "duplicates": duplicates,
+        },
+    )
+
+
 @app.get("/additions")
 @cache_response
 async def additions_page(request: Request):
@@ -414,16 +472,6 @@ async def additions_page(request: Request):
             "num_additions": num_additions,
             "additions_percentage": perc(num_additions, num_entries),
         },
-    )
-
-
-@app.get("/zoega")
-@cache_response
-async def zoega(request: Request):
-    """Page with details about the Zoega dictionary."""
-    return TemplateResponse(
-        "zoega.html",
-        {"request": request, "title": f"Orðabók Geirs T. Zoëga - {WEBSITE_NAME}"},
     )
 
 

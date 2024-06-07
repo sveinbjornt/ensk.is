@@ -131,7 +131,6 @@ animalistic l. dýrslegur
 cyanide n. blásýra
 hydrocyanic acid n. blásýra
 prussic acid n. blásýra
-ammunition n. skotfæri
 microchip n. örflaga
 microprocessor n. örgjörvi
 credit card n. kreditkort, krítarkort (rafrænt greiðslukort)
@@ -312,7 +311,6 @@ social scientist n. félagsvísindamaður, félagsvísindakona
 societal l. samfélagslegur, félagslegur, þjóðfélagslegur
 sophisticated l. fágaður; háþróaður; margbrotinn
 zombify s. breyta í uppvakning (sjá %[zombie]%)
-dyke n. varnargarður; lesbía (niðrandi)
 gaoler n. fangavörður
 interface n. viðmót; tenging; snertipunktur tveggja fyrirbæra, þar sem tvö fyrirbæri mætast
 bromance n. brómans (óforml.), náið vinasamband tveggja karlmanna (samsett úr %[brother]% og %[romance]%)
@@ -382,7 +380,7 @@ Celt n. Kelti
 xenolith n. xenólít (grjóttegund)
 decanter n. karafla, borðflaska
 genetics n. ft. erfðafræði
-genetic l. erfðafræðilegur, erfðafræði-; sem lýtur að tilurð e-s
+genetic l. erfðafræðilegur, erfðafræði-, erfða-; sem lýtur að tilurð e-s
 genetic engineering n. erfðatækni
 crowdfund s. lýðfjármagna, hópfjármagna
 crowdfunding n. lýðfjármögnun, hópfjármögnun
@@ -698,8 +696,6 @@ Germany n. Þýskaland
 Ghana n. Gana
 Gibraltar n. Gíbraltar
 Greenland n. Grænland
-Greenlander n. Grænlendingur
-Greenlandic l. grænlenskur; n. grænlenska (tungumál)
 Guadeloupe n. Gvadelúpeyjar
 Guam n. Gvam
 Guatemala n. Gvatemala
@@ -1010,7 +1006,6 @@ Yugoslavic l. júgóslavneskur (sjá einnig %[Yugoslavian]%)
 Yugoslav n. Júgóslavi
 Soviet Union n. Sovétríkin
 Soviet l. sovéskur; n. Sovétmaður
-Caledonia n. Kaledónía (fornrómverskt heiti yfir það svæði sem er í dag Skotland)
 pricing n. verðlagning
 manually ao. handvirkt
 callus n. sigg
@@ -2385,7 +2380,6 @@ obsequiously ao. auðvirðilega auðmjúkt, á smjaðrandi og undirgefin hátt
 obsequiousness n. auðvirðileg auðmýkt, smjaður og undirgefni
 teaset n. testell
 self-knowledge n. sjálfsþekking
-Levant n. Austurlönd nær (landsvæðið fyrir botni Miðjarðarhafs)
 Levantine l. frá Austurlöndum nær (sjá %[Levant]%)
 persuader n. e-r sem sannfærir (sjá %[persuade]%)
 taxonomy n. flokkunarfræði
@@ -2464,7 +2458,6 @@ groupthink n. hjarðhugsun, hóplyndi
 chromosome n. litningur
 chromosphere n. lithvolf
 gene n. gen
-genetic l. gena-, erfða-; genetískur
 geneticist n. erfðafræðingur, genafræðingur
 autophagia n. sjálfsát
 nectarine n. nektarína
@@ -3827,8 +3820,7 @@ ephemerality n. hverfulleiki; skammlífi
 protoplasmic l. frymis-, frumslíms-
 psychedelic l. hugvíkkandi, hugbreytandi, skynörvandi, ofskynjunar-; n. hugvíkkandi, hugbreytandi eða skynörvandi lyf, ofskynjunarlyf
 psychadelia n. hugvíkkun, skynörvun, ofskynjun
-anatomical l. líffærafræðilegur, líffæra-
-anatomic l. líffærafræðilegur, líffæra-
+anatomic l. sjá %[anatomical]%
 polynomial l. margliða, fleirliða
 nucleation n. kjarnamyndun, kjörnun
 aerodynamic l. loftstreymis-, lofthreyfi-
@@ -4191,7 +4183,6 @@ class-consciousness n. stéttarvitund, stéttarmeðvitund
 mercilessly ao. miskunnarlaust, án miskunnar
 unprintable l. óprentanlegur
 bookshelf n. bókahilla
-Filipino n. Filippseyingur, Filippseyjamaður; l. filippseyskur; filippseyska
 York n. Jórvík (borg í Norður-Englandi)
 abnormally ao. óeðlilega, afbrigðilega, óvenjulega
 informally ao. óformlega
@@ -4400,7 +4391,6 @@ Sodom n. Sódóma (borg syndara í Gamla testamentinu)
 Aphrodite n. Afródíta (grísk ástargyðja)
 horseless l. hestlaus
 Bavaria n. Bæjaraland (svæði í Suður-Þýskalandi)
-Bavarian l. bæverskur; n. Bæjari; bæverska
 corrupter n. spillari, e-r sem spillir ([~ of the youth])
 musicology n. tónlistarfræði
 musicologist n. tónlistarfræðingur
@@ -4416,6 +4406,9 @@ unviable l. ekki lífvænlegur, ólífvænlegur; óframkvæmanlegur; óraunhæfu
 overwhelmingly ao. feikilega, yfirgnæfandi
 morgue n. líkhús
 Russophobia n. hræðsla, andúð eða hatur gagnvart Rússlandi, Rússum eða rússneskri menningu
+Russophobe n. e-r sem hræðist eða hefur andúð á Rússlandi eða Rússum
+Francophobia n. hræðsla, andúð eða hatur gagnvart Frakklandi, Frökkum eða franskri menningu
+Francophobe n. e-r sem hræðist eða hefur andúð á Frakklandi eða Frökkum
 battleworthy l. bardagahæfur
 battleworthiness n. bardagahæfni
 encyclopedist n. alfræðingur; ritari alfræðiorðabóka
@@ -4429,7 +4422,6 @@ sinologist n. sérfræðingur í sögu og menningu Kína
 overtaxation n. ofsköttun
 synchronization n. samstilling, samhæfing
 punctually ao. tímanlega, á réttum tíma ([she arrived ~])
-animism n. andatrú
 animist n. andatrúarmaður
 archive n. skjalasafn, skjalamappa, skjöl, arkíf; s. greyma í skjalasafni
 magna cum laude l. með miklum heiðri ([he graduated ~]) (úr latínu)
@@ -4447,3 +4439,9 @@ riddler n. gátumaður, þrautamaður
 snuff film n. myndbandsupptaka sem sýnir morð
 Anthropocene n. mannöldin
 statistical analysis n. tölfræðigreining, tölfræðileg greining
+marginalia n. spássíugrein, spássíuathugasemd
+disequilibrium n. ójafnvægi; misvægi; jafnvægismissir, jafnvægisskortur
+cultivar n. ræktunarafbrigði, kvæmi
+self-employment n. sjálfsmennska, vinna fyrir sig sjálfan
+meltdown n. bráðnun, bræðsluslys (í kjarnaofni)
+built-in l. innbyggður, ílægur

@@ -1,0 +1,25 @@
+{% extends "container.html" %}
+
+{% block meta %}
+<meta name="description" content="Öll orð sem voru upprunalega í orðabókinni">
+{% endblock %}
+
+{% block content %}
+
+<h1>Upprunaleg</h1>
+
+<p>Hér er listi af öllum upprunalegu orðunum ({{ num_original }} talsins):</p>
+
+<p>
+  {% for w in original %}
+  <a href="/item/{{ w }}">{{ w|safe }}</a>
+  <br>
+  {% endfor %}
+</p>
+
+<br>
+<br>
+<br>
+<br>
+
+{% endblock %}
