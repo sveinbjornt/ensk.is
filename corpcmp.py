@@ -9,7 +9,7 @@
 import re
 
 from nltk.stem import PorterStemmer
-from nltk.tokenize import sent_tokenize, word_tokenize
+from nltk.tokenize import word_tokenize
 
 from nltk.stem import WordNetLemmatizer
 

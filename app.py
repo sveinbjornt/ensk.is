@@ -45,7 +45,11 @@ from functools import wraps
 from fastapi import FastAPI, Request, HTTPException
 from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
-from fastapi.responses import Response, RedirectResponse, ORJSONResponse
+from fastapi.responses import (
+    Response,
+    RedirectResponse,
+    JSONResponse as FastAPIJSONResponse,
+)
 import orjson
 
 from db import EnskDatabase
@@ -86,7 +90,18 @@ for c in CATEGORIES:
     cs = c.rstrip(".")
     CAT2ENTRIES[cs] = e.read_all_in_wordcat(cs)
 
-JSONResponse = ORJSONResponse
+
+class CustomJSONResponse(FastAPIJSONResponse):
+    """JSON response using the high-performance orjson library to serialize the data."""
+
+    def render(self, content: Any) -> bytes:
+        assert (
+            orjson is not None
+        ), "orjson must be installed to use CustomJSONResponse class"
+        return orjson.dumps(content)
+
+
+JSONResponse = CustomJSONResponse
 
 
 def _err(msg: str) -> JSONResponse:
@@ -218,7 +233,7 @@ async def index(request: Request):
 
 async def _save_missing_word(word: str):
     """Save word to missing words list."""
-    async with aiofiles.open("missing_words.txt", "a") as file:
+    async with aiofiles.open("missing_words.txt", "a+") as file:
         await file.write(f"{word}\n")
 
 
