@@ -69,7 +69,7 @@ templates = Jinja2Templates(directory="templates")
 TemplateResponse = templates.TemplateResponse
 
 # Initialize database singleton
-e = EnskDatabase()
+e = EnskDatabase(read_only=True)
 
 # Read all dictionary entries into memory
 entries = e.read_all_entries()
@@ -80,6 +80,7 @@ num_additions = len(additions)
 
 CATEGORIES = read_wordlist("data/catwords.txt")
 
+# Get all entries in each category and store in dict
 CAT2ENTRIES = {}
 for c in CATEGORIES:
     cs = c.rstrip(".")

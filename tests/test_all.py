@@ -61,6 +61,8 @@ client = TestClient(app)
 PAGE_ROUTES = [
     "/",
     "/about",
+    "/english",
+    "/english_icelandic_dictionary",
     "/files",
     "/item/vindictive",
     "/page/1",

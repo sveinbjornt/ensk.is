@@ -55,10 +55,11 @@ CACHE_SIZE_KB = 1024 * 32  # 32 MB
 class EnskDatabase(object):
     _instance = None
 
-    def __init__(self):
+    def __init__(self, read_only=False):
         self.db_conn = None
+        self.read_only = read_only
 
-    def __new__(cls):
+    def __new__(cls, read_only=False):
         """Singleton pattern."""
         if cls._instance is None:
             logging.info("Instantiating database")
@@ -66,6 +67,7 @@ class EnskDatabase(object):
 
             basepath, _ = os.path.split(os.path.realpath(__file__))
             cls._dbpath = os.path.join(basepath, DB_FILENAME)
+            cls.read_only = read_only
             # Create database file and schema if no DB file exists
             if not Path(cls._dbpath).is_file():
                 cls._instance._create()
@@ -105,20 +107,24 @@ class EnskDatabase(object):
         EnskDatabase._instance = None
         return EnskDatabase.__new__(EnskDatabase)
 
-    def conn(self, read_only: bool = False) -> sqlite3.Connection:
+    def conn(self) -> sqlite3.Connection:
         """Open database connection lazily."""
         if not self.db_conn:
             # Open database file via URI
             db_uri = f"file:{self._dbpath}"
-            if read_only:
+            if self.read_only:
                 db_uri += "?mode=ro"
+                print("READ ONLY")
+
             logging.info(f"Opening database connection at {db_uri}")
             self.db_conn = sqlite3.connect(
                 db_uri,
                 uri=True,
-                check_same_thread=(read_only is False),
+                check_same_thread=(self.read_only is False),
                 cached_statements=CACHED_STATEMENTS,
             )
+
+            # Set cache size
             self.db_conn.cursor().execute(f"PRAGMA cache_size = -{CACHE_SIZE_KB}")
 
             # Return rows as key-value dicts
