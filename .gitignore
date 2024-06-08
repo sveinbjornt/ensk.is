@@ -83,3 +83,4 @@ static/audio/*
 *.db
 
 texts/*.txt
+missing_words.txt

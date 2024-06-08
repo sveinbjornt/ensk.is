@@ -121,10 +121,19 @@ def check_spacing(line: str, pn, ln: int):
 def check_category(line: str, pn, ln: int):
     """Make sure word has a category."""
     hascat = False
+    hasdupcat = False
     for c in CATEGORIES:
+
         if f" {c} " in line:
             hascat = True
             break
+        if line.count(f"{c} ") > 1:
+            hasdupcat = True
+            break
+
+    if hasdupcat:
+        warn("duplicate category", pn, ln)
+
     if not hascat:
         warn("no category for word", pn, ln)
 

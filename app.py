@@ -188,6 +188,8 @@ def _results(q: str, exact_match: bool = False) -> Tuple[List, bool]:
 
     results = [*equal, *swith, *ewith, *other]
 
+    # If no results found, try removing trailing 's' from query
+    # and search again since it might be a plural form
     if len(results) == 0 and exact_match == False and len(q) >= 3 and q.endswith("s"):
         return _results(q[:-1], exact_match=True)
 

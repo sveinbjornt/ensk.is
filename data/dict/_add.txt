@@ -1093,7 +1093,7 @@ facticity n. sá eiginleiki að vera staðreynd (sjá %[fact]%)
 halogen n. hópur frumefna, þ.e. flúor, klór, bróm, joð og astat
 astatine n. astat (frumefni)
 DNA n. deoxýríbósakjarnsýra, þ.e. erfðaefni, erfðavísir (stytt. á [deoxyribonucleic acid])
-PC n. einkatölva (stytt. á [personal computer]); pólitískur rétttrúnaður (stytt. á [political correctness])
+PC n. einkatölva (stytt. á [personal computer]); pólitískur rétttrúnaður ([political correctness])
 deontology n. skyldufræði, skyldusiðfræði (í heimspeki)
 deontological l. skyldufræðilegur, skyldusiðfræðilegur (sjá %[deontology]%)
 megafauna n. stór dýr, risadýr (sjá %[fauna]%)
@@ -2238,7 +2238,7 @@ weightlifting n. kraftlyftingar
 Abyssinia n. Abyssinía (gamalt heiti yfir landið Eþíópíu)
 Abyssinian l. abyssinskur (eþíópískur)
 Vulgate n. Vúlgata (latnesk þýðing á Biblíunni)
-Homeric l. hómerskur, kenndur við forngríska skáldið Hómer
+Homeric l. hómerskur, Hómers-, kenndur við forngríska skáldið Hómer
 systematically ao. kerfisbundið, á skipulagðan hátt
 insurer n. e-r sem vátryggir, (vá)tryggingafélag
 uninsurable l. óvátryggjanlegur
@@ -4441,18 +4441,18 @@ meltdown n. bráðnun, bræðsluslys (í kjarnaofni)
 built-in l. innbyggður, ílægur
 broken-hearted l. harmþrunginn
 child-rearing n. uppeldi
-bowling n. keiluleikur (e.k. knattleikur)
+bowling n. keila, keiluleikur
 caste system n. stéttakerfi (sjá %[caste]%)
 Zaire n. Saír (fyrrum heiti ríkisins Kongó)
 savory l. sjá %[savoury]%
 unsavory l. sjá %[unsavoury]%
 jarl n. jarl
-couture n. tíska; hátíska ([haute ~]); tískubransinn
+couture n. sérsniðin tískuföt; tíska; hátíska ([haute ~]); tískubransinn
 corresponding l. samsvarandi
 correspondingly ao. á samsvarandi hátt
 behavior n. sjá %[behaviour]%
 theater n. sjá %[theatre]%
 exciting l. spennandi, æsandi
 unexciting l. óspennandi
-extra-terrestrial l. utan jarðarinnar, úr geimnum kominn, geim-; n. geimvera
+extra-terrestrial l. utan jarðarinnar, úr geimnum kominn, geim-; n. geimvera ([~ being, creature, lifeform])
 Rhodes n. Ródos (eyja í austurhluta Miðjarðarhafsins)
