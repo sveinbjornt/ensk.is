@@ -164,7 +164,7 @@ hare n. héri
 harebrained l. léttúðugur, gapalegur ([~ folly])
 harehearted l. huglaus
 harelip n. skarð í efri vör
-harem n. kvennabúr (hjá Tyrkjum og austurlandabúum)
+harem n. kvennabúr (hjá Tyrkjum og Austurlandabúum)
 haricot n. e.k. kjötréttur, ragú
 hark s. hlusta (á [to]); [~!] þei! [hark ye, harkee] heyrið, hlustið!
 hark s. fara, koma ([~ away, off, forward, back]); [~ one on, forward] reka áfram með köllum, siga (hundum) áfram; [~ back] kalla e-n til baka
@@ -243,10 +243,8 @@ havoc n. eyðilegging, tjón, skaði ([make ~]); s. eyða ([~ the land])
 haw n. lítill garður (hjá húsi)
 haw s. segja [haw] ([hum and ~])
 haw-haw s. hlæja tröllslega
-hawk n. haukur, fálki; s. veiða með haukum
-hawk s. selja, bjóða til sölu (með köllum)
+hawk n. haukur, fálki; ræsking; s. veiða með haukum; selja, bjóða til sölu (með köllum); ræskja sig; [~ up] ræskja upp úr sér
 hawker n. mangari, farandsali
-hawk s. ræskja sig; [~ up] ræskja upp úr sér; n. ræsking
 hawking n. fálkaveiðar
 hawse n. gat á skipsborði fyrir akkerisfestina ([~hole])
 hawser n. skipskaðall
@@ -749,14 +747,13 @@ hone n. hein, heinbrýni; s. brýna með heinbrýni
 honest l. ráðvandur, heiðvirður, hreinskilinn
 honestly ao. ráðvandlega
 honesty n. ráðvendni; hreinskilni ([~ is the best policy])
-honey n. hunang
+honey n. hunang; s. gera sætt; tala sætt
 honey-bag n. hunangsblaðra (á býflugu)
 honeycomb n. vaxkaka með hunangi (í býflugnabúi)
 honeycombed l. holóttur
 honeymoon n. fyrsti mánuður eftir brúðkaupið, hveitibrauðsdagar
 honey-mouthed l. mjúkmáll
 honey-tongued l. mjúkmáll
-honey s. gera sætt; tala sætt
 honeyed l. sætur eins og hunang; sem hunang er á, hunangs-
 honied l. sætur eins og hunang; sem hunang er á, hunangs-
 honor n. sjá %[honour]%
@@ -780,9 +777,8 @@ hooker n. dugga, skúta; vændiskona
 hooknose n. kónganef
 hooknosed l. með kónganef
 hooky l. krókóttur, hlykkjóttur
-hoop n. tunnugjörð, svigagjörð; hringur; s. gyrða (tunnu)
+hoop n. tunnugjörð, svigagjörð; hringur; s. gyrða (tunnu); hrópa, kalla
 hooper n. laggari, beykir
-hoop s. hrópa, kalla
 hooping-cough n. kíghósti, andarteppuhósti
 hoopoe n. herfugl
 hoopoo n. herfugl

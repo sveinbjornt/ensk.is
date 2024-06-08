@@ -703,9 +703,8 @@ methodize s. koma fastri reglu á; koma (e-u) haganlega fyrir
 methought s. mér virtist, mér þótti (þátíð af [methinks])
 metonymy n. nafnskipti, nafnhvörf; merkingarskipti (þegar einhver eiginleiki fyrirbæris er hafður um fyrirbærið sjálft)
 metre n. bragarháttur; metri (lengdarmál, mælieining)
-metric l. metra- ([~ measure, ~ system])
-metrical l. sem lýtur að bragar-háttum; bragfræðilegur; sem lýtur að metramáli
-metric n. bragfræði
+metric l. metra- ([~ measure, ~ system]); n. bragfræði
+metrical l. sem lýtur að bragarháttum; bragfræðilegur; sem lýtur að metramáli
 metropolis n. höfuðborg, stórborg
 metropolitan l. höfuðborgar-, stórborgar-; erkibiskupslegur; n. erkibiskup
 mettle n. hugrekki; kjarkur; fjör; [put (set) a person upon/to his ~] hleypa fjöri og þroska í e-n
@@ -1283,12 +1282,11 @@ mostly ao. mestmegnis, að mestu leyti
 mote n. duftkorn, ar; ögn
 moth n. mölfluga, mölur
 moth-eaten l. mölétinn
-mother n. móðir; [she was as a ~ to him] hún gekk honum í móður stað; s. vera í móður stað; taka að sér sem móðir
+mother n. móðir; [she was as a ~ to him] hún gekk honum í móður stað; grugg (einkum í ediki); s. vera í móður stað, taka að sér sem móðir; verða gruggugur, gruggast
 mother-in-law n. tengdamóðir
 motherhood n. móðerni
 motherly l. móðurlegur; ao. móðurlega
 mother tongue n. móðurmál
-mother n. grugg (einkum í ediki); s. verða gruggugur, gruggast
 mothery l. gruggugur
 mothy l. mölétinn; fullur af möl
 motif n. undirstöðuefni í skáldskap (yrkisefni) eða listaverki

@@ -40,7 +40,7 @@ faggot n. lim (sem eldsneyti), hrísbaggi; samkynhneigður maður (niðrandi); s
 fagot n. lim (sem eldsneyti), hrísbaggi; s. binda (hrís) í bagga ([~ up])
 fail s. bregðast; bila; vanta, skorta; þrjóta; mistakast ([~ in something, ~ to do something]); þverra, verða gjaldþrota; [his heart ~ed him] hann missti huginn, lét hugfallast; n. [without ~] vissulega, áreiðanlega, efalaust
 failing n. breyskleiki; galli
-failure n. misbrestur, misheppnan, þurrður, skortur; gjaldþrot; [turn out a ~] reynast óhæfur, mislukkaður; mistakast
+failure n. mislukkun, misheppnun, misbrestur; gjaldþrot; [turn out a ~] reynast óhæfur, mislukkaður, mistakast
 fain l. feginn, glaður; ao. fúslega, gjarnan ([I would ~])
 faint l. máttfarinn, magnlaus; daufur (um ljós eða lit); huglaus; s. falla í ómegin; verða huglaus; dofna (um liti); n. yfirlið, öngvit
 fainthearted l. huglaus
@@ -343,10 +343,9 @@ fetlock n. hófskegg
 fetor n. óþefur, ódaunn
 fetter n. fjötur, fótfjötur; s. fjötra
 fetus n. fóstur, burður; fang
-feud n. ófríður; fjandskapur
-feud n. lén
+feud n. fjandskapur; ófríður; lén
 feudal l. sem lýtur að léni, léns-
-feudalism n. lénsdómur
+feudalism n. lénskerfi, lénsdómur
 feudalist n. lénsstjórnarmaður
 feudality n. lénsfyrirkomulag; lénsstjórn
 feudatory l. léns-; n. lénsmaður
@@ -1016,11 +1015,9 @@ foul-spoken l. klúryrtur, klæminn
 foumart n. marðartegund
 found s. stofna; grundvalla (e-ð á e-u [on, upon])
 foundation n. stofnun; grundvöllur, undirstaða
-founder n. stofnandi, upphafsmaður
+founder n. stofnandi, upphafsmaður; (málm)steypari; s. farast, sökkva (um skip); mistakast; steypast af baki; heltast; verða fastur, liggja í (um hest)
 foundress n. stofnari (um kvenmann)
 found s. steypa (úr málmi)
-founder n. (málm)steypari
-founder s. farast, sökkva (um skip); mistakast; steypast af baki; heltast; verða fastur, liggja í (um hest)
 founderous l. sem veldur falli
 foundry n. málmsteypa, steypusmiðja
 foundling n. fundið barn

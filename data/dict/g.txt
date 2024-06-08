@@ -7,12 +7,11 @@ gable n. gafl
 gable-end n. gaflhlað, gafl
 gablet n. lítill gafl
 gaby n. auli, flón
-gad n. gaddur, broddur, fleygur; broddstafur
-gad s. slangra, slæpast til og frá ([~ about])
+gad n. gaddur, broddur, fleygur; broddstafur; s. slangra, slæpast til og frá ([~ about])
 gadabout n. landeyða, slæpingur
 gadder n. landeyða, slæpingur
 gadding n. slangur
-gadfly n. gaddafluga, broddfluga
+gadfly n. broddfluga, gaddafluga
 gadwall n. litla gráönd ([anas strepera])
 Gael n. írskur eða skoskur Kelti, Háskoti
 Gaeldom n. Háskotaland
@@ -547,11 +546,10 @@ goulard n. blývatn ([Goulard's extract, Goulard water])
 gourd n. grasker (ávöxtur); graskersflaska
 gourmand n. sælkeri; átmaður
 gourmandism n. sælkeraskapur
-gout n. liðaveiki, gigt
+gout n. liðaveiki, gigt; smekkur
 goutweed n. geitla, snókahvönn
 goutwort n. geitla, snókahvönn
 gouty l. liðaveikur; gigtveikur; gigtar-; [~ twinges] gigtarstingir
-gout n. smekkur
 govern s. stjórna, stýra, ráða fyrir ([~ a country]); ráða við
 governable l. viðráðanlegur, auðsveipur
 governance n. stjórn
@@ -588,7 +586,7 @@ graminivorous l. grasétandi; [~ animal] grasæta
 grammar n. málmyndalýsing, málfræði; [bad ~] rangt mál, málleysa
 grammar school n. latínuskóli, lærður skóli, menntaskóli
 grammarian n. málfræðingur
-grammatical l. sem lýtur að málmyndalýsingu eða málfræði, málfræðis-
+grammatical l. sem lýtur að málfræði eða málmyndalýsingu, málfræði-
 grammatically ao. málfræðilega
 gramme n. gramm
 gramophone n. plötuspilari, grammófónn
@@ -933,11 +931,10 @@ gurnet n. urrari (fiskur)
 gush s. buna, fossa, streyma; n. gusa, buna
 gushing l. viðkvæmur
 gusset n. þríhyrndur geiri í fati, spjald í skyrtu
-gust n. smekkur, bragð; nautn
+gust n. gustur, roka; ofsi; hviða; smekkur, bragð; nautn
 gustation n. smekkur, bragð
 gustative l. sem lýtur að smekk ([~ nerve])
 gustatory l. sem lýtur að smekk ([~ nerve])
-gust n. gustur, roka; ofsi; hviða
 gusty l. stormasamur, byljóttur
 gut n. þarmur, görn; ft. innyfli; [blind ~] botnlangi; [great ~] ristill; s. taka innan úr; slægja (fisk); tæma
 gutta-percha n. togleður, viðarkvoða

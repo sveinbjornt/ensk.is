@@ -188,6 +188,9 @@ def _results(q: str, exact_match: bool = False) -> Tuple[List, bool]:
 
     results = [*equal, *swith, *ewith, *other]
 
+    if len(results) == 0 and exact_match == False and len(q) >= 3 and q.endswith("s"):
+        return _results(q[:-1], exact_match=True)
+
     return results, exact_match_found
 
 
@@ -566,6 +569,7 @@ async def api_search(request: Request, q: str) -> JSONResponse:
         return _err("Query too short")
 
     results, _ = _results(q)
+
     return JSONResponse(content={"results": results})
 
 

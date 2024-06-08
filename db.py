@@ -114,7 +114,6 @@ class EnskDatabase(object):
             db_uri = f"file:{self._dbpath}"
             if self.read_only:
                 db_uri += "?mode=ro"
-                print("READ ONLY")
 
             logging.info(f"Opening database connection at {db_uri}")
             self.db_conn = sqlite3.connect(

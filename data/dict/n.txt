@@ -229,7 +229,7 @@ news vendor n. blaðsölumaður, blaðasali
 newt n. eðlutegund
 new year n. nýár
 next l. næstur (e-m [to]); ao. því næst, svo; næst ([what ~?]); [the ~ youngest] hinn næstyngsti; [~ to nothing] næstum ekkert; [~ but one] næstnæstur; [~ door neighbour] næsti nágranni; [~ Monday] á mánudaginn kemur; [~ spring] að vori
-nexus n. samband
+nexus n. tengidepill; orsakaflétta; tengslakjarni; tengslanet; samband
 nib n. fuglsnef; oddur (einkum á penna); s. ydda, skera odd (snáp) á (fjaðurpenna)
 nibble s. bíta í (at); narta í; smálasta; n. nart
 nibbler n. nartari
@@ -383,9 +383,8 @@ Norse l. fornnorskur; n. fornnorska
 Norseman n. norrænn maður; Norðmaður
 north n. norður; norðanátt, norðanvindur; l. norður-; norðan-; norðlægur; ao. norður, í norður; [~ of the river] fyrir norðan ána
 northeast n. norðaustur
-northeasterly l. norðaustlægur
+northeasterly l. norðaustlægur; ao. norðaustlega; norður eftir
 northeastern l. norðaustlægur
-northeasterly l. norðlægur; ao. norðarlega; norður eftir
 northern l. norðlægur, norður-
 northern lights n. norðurljós
 northerner n. Norðlendingur

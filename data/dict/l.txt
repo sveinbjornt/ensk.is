@@ -317,10 +317,8 @@ leaf n. lauf, blað; hurðvængur; borðvængur; [to put forth leaves] laufgast;
 leafage n. lauf, blöð
 leaflet n. smáblað
 leafy l. laufgaður, laufmikill
-league n. samband; s. gera samband
-leaguer n. bandamaður
-league n. lengdarmál (3 enskar mílur)
-leaguer n. herbúðir umsátarmanna; umsát; s. sitja um
+league n. samband; lengdarmál (þrjár enskar mílur); s. gera samband
+leaguer n. bandamaður; herbúðir umsátarmanna; umsát; s. sitja um
 leak n. leki; [to spring a ~] verða lekur; s. leka; [~ out] kvisast
 leakage n. leki
 leaky l. lekur; skrafinn, málugur
@@ -562,9 +560,8 @@ light-minded l. léttlyndur
 lightness n. léttleiki; hvatvísi; léttúð
 lightsome l. glaðlyndur; hvatlegur
 light s. stíga ofan (úr vagni); fara af baki ([down, off]); setjast (um fugla); [~ on, upon] lenda á e-m; koma í hlut e-s; hitta, rekast á e-ð
-lighten s. lýsa; ljóma, leiftra; hýrga; [it ~s] eldingarganga
-lighten s. létta ([~ the burden]); gera auðveldara; afferma
-lighter n. uppskipunarbátur, flatbotnaður byrðingur
+lighten s. létta ([~ the burden]); gera auðveldara; afferma; lýsa; ljóma, leiftra; hýrga; [it ~s] eldingarganga
+lighter n. kveikjari; uppskipunarbátur, flatbotnaður byrðingur
 lightning n. elding
 lights n. ft. dýralungu
 light-skirts n. lauslætiskvendi
@@ -752,13 +749,12 @@ locative l. staðar-; n. staðarfall
 loch n. stöðuvatn
 lock n. lás, skrá; byssulás; gáttarstífla, flóðgátt; [under ~ and key] harðlæstur niður; s. læsa; [~ in/up] loka (byrgja) inni; lokast; [~ out] loka úti; gera verkbann
 lockage n. gáttarstífla; stíflugjald
-locker n. föst kista (í skipi); forðakista
+locker n. skápur, hirsla, stokkur, hólf; föst kista (í skipi); forðakista
 lockout n. verkbann, vinnuteppa
 lockup n. lokun; fangelsi
 lock n. (hár)lokkur, (ullar)-lagður
 locked-jaw n. ginklofi, klums
 lock-jaw n. ginklofi, klums
-locker n. skápur, hirsla, stokkur, hólf
 locket n. nisti
 locksmith n. lása- eða skráasmiður
 locomotion n. hreyfing (úr einum stað í annan)

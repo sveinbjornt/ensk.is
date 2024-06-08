@@ -26,12 +26,14 @@ o.s.frv.
 o.þ.h.
 þ.h.
 þ.k.
+m.a.
 þ.e.a.s.
 óforml.
 bókst.
 bókst
 lat.
 ákv.
+þús.
 # Forskeyti sem eru ekki í BÍN
 erki
 tví
@@ -47,3 +49,4 @@ hæðnis
 kven
 gjafi
 stjúp
+BNA

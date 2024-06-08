@@ -158,8 +158,7 @@ cant n. þjófamál, skrílmál; hræsnismál; s. tala kjökrandi (og hræsnisle
 cantankerous l. nöldursamur, nöldrunarsamur ([a ~ husband])
 cantata n. hátíðaljóð
 canteen n. matsölubúð hermanna; skrín með eldhúss- og borðáhöldum; hermannaflaska
-canter n. hræsnari
-canter s. stökkva, valhoppa; láta stökkva; ríða valhopp; n. hægt stökk, valhopp
+canter s. stökkva, valhoppa; láta stökkva; ríða valhopp; n. hægt stökk, valhopp; hræsnari
 cantharides n. ft. spansfluga, brunafluga
 canticle n. lofsöngur; ft. lofkvæði Salómons
 cantle n. stykki, geiri; efri söðulbogi
@@ -291,8 +290,7 @@ carol n. lofsöngur; gleðisöngur; s. syngja (gleðisöng)
 carotid n. hálslífæð ([~ artery])
 carouse s. sitja að drykkju
 carousel n. hringekja; drykkja
-carp n. vatnakarfi
-carp s. finna að ([at])
+carp n. vatnakarfi; s. finna að ([at])
 carping l. aðfinningasamur, aðfinnslusamur
 carpenter n. timbursmiður, trésmiður; s. vinna að trésmíði
 carpentry n. trésmíðisiðn; trésmíði
@@ -351,21 +349,19 @@ cassia n. kanelbörkur
 cassock n. prestshempa
 cast s. kasta, fleygja; hafna; stinga upp; leggja saman; steypa (úr málmi); verpast, skekkjast (um við); [~ dice] kasta teningum; [~ anchor] varpa akkerum; [~ a hook, a fishing line] renna öngli, færi; [~ accounts] reikna; [~ about] velta fyrir sér, hugsa um; [~ away] kasta burtu (frá sér); [the vessel was ~ away] fórst, týndist; [~ off] útskúfa; hafna; hrinda af sér; [~ up] leggja saman; n. kast; steypa; eftirsteypa; lögun, snið; mót; blær; tegund; samlagning; [~ of characters/parts] niðurskipun hlutverka (í leik); [(the paper has) a bluish ~] bláleitan blæ; [stake all on the ~ of a die] láta allt vera komið undir einu teningskasti; [~ iron] steypujárn; [~-off] l. lagður niður, aflagnar- ([~-off clothes])
 castaway l. útskúfaður, gagnslaus; n. afhrak; skipbrotsmaður
-caster n. kastari; steypari
+caster n. kastari; steypari; reiknari; [a set of ~s] glasastóll
 casting n. kast; steypa; l. sem ræður úrslitum ([~ vote, ~ weight])
 caste n. stétt (á Indlandi)
 castellan n. hallarráðsmaður
 castellated l. búinn vígturnum ([a ~ building])
-caster n. kastari; reiknari; [a set of ~s] glasastóll
 castigate s. refsa, hirta
 castigation n. refsing, hirting
 casting n. kast; steypa; [~s] steyptir munir; [~ of a drapery] fall, fellingar
 castle n. kastali, vígi, virki; herragarður; hrókur (í tafli); [~ in the air (in the clouds, in Spain)] loftkastali, skýjaborg; [~-builder] n. loftkastalamaður
-castor n. bifur, bjór (sjá %[beaver]%); bjórskinnshúfa; [~ oil] laxerolía
-castor n. kryddbaukur; [~ sugar] sáldsykur
+castor n. bifur, bjór (sjá %[beaver]%); bjórskinnshúfa; kryddbaukur; [~ oil] laxerolía; [~ sugar] sáldsykur
 castrate s. gelda. vana; stytta (rit)
 castration n. gelding
-casual l. tilviljunarlegur; óviss
+casual l. frjálslegur, kærulaus, hversdagslegur, óformlegur, afslappaður; tilviljunarlegur; óviss
 casually ao. af hendingu, af tilviljun
 casualty n. hending; slys
 casualties n. ft. fallnir (særðir) í orustu
@@ -493,7 +489,7 @@ centenary l. hundrað ára; n. hundrað ára minningarhátíð; öld
 centennial l. hundrað ára gamall; n. hundrað ára minningarhátíð
 center n. sjá %[centre]%
 centesimal l. hundraðasti ([~ part])
-centigrade l. [~ thermometer] hundrað stiga hitamælir (Celsius)
+centigrade l. [~ thermometer] hundrað stiga hitamælir (selsíus)
 centigramme n. 1/100 úr grammi
 centimetre n. 1/100 úr metra
 centipede n. margfætla
@@ -981,10 +977,9 @@ classbook n. skólabók
 classer n. [third-~] farþegi á þriðja farrými
 classfellow n. bekkjarbróðir
 classmate n. bekkjarbróðir
-classic l. fyrirmyndarlegur, ágætur; gullaldar- (einkum miðað við gullöld bókmennta og lista hjá Grikkjum og Rómverjum); sögulega frægur ([~ ground])
+classic l. fyrirmyndarlegur, ágætur; gullaldar- (einkum miðað við gullöld bókmennta og lista hjá Grikkjum og Rómverjum); sögulega frægur ([~ ground]); n. fornaldarrithöfundur (hjá Grikkjum og Rómverjum); sígildur (fyrirmyndar) rithöfundur eða listamaður
 classical education n. fræðsla í grískum og latneskum fræðum
 classical l. fyrirmyndarlegur, ágætur; gullaldar- (einkum miðað við gullöld bókmennta og lista hjá Grikkjum og Rómverjum); sögulega frægur ([~ ground])
-classic n. fornaldarrithöfundur (hjá Grikkjum og Rómverjum); sígildur (fyrirmyndar) rithöfundur eða listamaður
 classicism n. lærdómur í (meðhald með) fornum fræðum
 classification n. niðurskipting; flokkun
 classify s. skipa í flokka
@@ -1264,7 +1259,7 @@ cohabitation n. samlífi, sambúð (sem hjón)
 coheir n. samarfi, samerfingi
 coheiress n. samarfa
 cohere s. loða saman; vera samhljóða, eiga við ([with])
-coherence n. samloðan; samhljóðan, samræmi
+coherence n. samloðun; samhljóðan, samræmi
 coherent l. samfastur; samhljóða
 coherently ao. í samhengi
 cohesion n. samhengi, samhengisafl
@@ -1547,8 +1542,7 @@ complainer n. kærandi; kvartandi
 complaint n. kvörtun; kveinstafir; harmatölur; kæra; kæruefni; sjúkdómur ([~s of the throat])
 complaisance n. kurteisi
 complaisant l. kurteis, eftirlátur
-complement n. fylling, uppfylling; full tala; full skipshöfn
-complement s. bæta upp (það sem á vantar)
+complement s. bæta upp (það sem á vantar); n. fylling, uppfylling; full tala; full skipshöfn
 complemental l. sem er til fyllingar eða uppbótar
 complementary l. sem er til fyllingar eða uppbótar
 complete l. algjör, fullkominn; heill; allur; s. fullgjöra; ljúka við; fylla (töluna á); gera fullkominn
@@ -2117,8 +2111,7 @@ coot n. blesönd
 copal n. kópal (viðarkvoða)
 copartner n. samfélagi
 copartnership n. samfélag
-cope n. biskupskápa; hvelfing ([~ of heaven]); s. hvelfast yfir
-cope s. keppa; reisa rönd (við); [to be able to ~ with] jafnast við, standa (e-m) á sporði
+cope n. biskupskápa; hvelfing ([~ of heaven]); s. keppa; reisa rönd (við); ráða við; [to be able to ~ with] jafnast við, standa (e-m) á sporði; hvelfast yfir
 copestone n. toppsteinn
 copious l. efnisríkur; fjölorður; orðmargur ([a ~ language]); ríkulegur
 copiously ao. ríkulega; rækilega
@@ -2258,7 +2251,7 @@ cost n. verð, kostnaður; ft. málskostnaður; [prime ~, ~ price] innkaupsverð
 costless l. kostnaðarlaus
 costermonger n. götusali (sem selur aldini, grænmeti, fisk o.fl. á götunum)
 costive l. harðlífur; nískur
-costiveness n. harðlifi, hægðaleysi
+costiveness n. harðlífi, hægðaleysi
 costliness n. kostnaður, dýrleiki
 costly l. kostnaðarsamur; dýr ([all ornament ought to be ~])
 costume n. búningur; tíska í klæðaburði
@@ -2535,8 +2528,7 @@ crook n. krókur; bugða; smalaprik (með krók á endanum); biskupsstafur, baga
 crooked l. krókóttur, hlykkjóttur; bjúgur, boginn; rangsnúinn, spilltur
 crookedness n. hlykkur; óhreinlyndi
 croon n. raul; s. raula
-crop n. sarpur
-crop n. jarðargróði, afurðir; uppskera; s. kroppa; skera upp; stýfa, skella (af eyrum eða tagli); klippa snöggt; [~ up] gægjast upp; koma upp; [~ out] koma í ljós
+crop n. jarðargróði, afurðir; uppskera; sarpur; s. kroppa; skera upp; stýfa, skella (af eyrum eða tagli); klippa snöggt; [~ up] gægjast upp; koma upp; [~ out] koma í ljós
 croquet n. króket (enskur leikur með trékúlum)
 crosier n. biskupsstafur, bagall
 crozier n. biskupsstafur, bagall
@@ -2697,8 +2689,7 @@ curricle n. tvíeykisvagn
 curriculum n. námsskeið ([~ of study])
 currier n. sá sem verkar og litar sútuð skinn; leðurverkari
 currish l. hundslegur ([his ~ nature]); geðvondur
-curry n. karrí (réttur úr smáskornu kjöti með karrídufti í)
-curry s. verka (sútuð skinn); kemba (hesti); lúberja; [~ favour with] koma sér í mjúkinn við
+curry n. karrí (réttur úr smáskornu kjöti með karrídufti í); s. verka (sútuð skinn); kemba (hesti); lúberja; [~ favour with] koma sér í mjúkinn við
 currycomb n. hrossa-kambur; s. kemba (með hrossakambi)
 curse s. formæla, bölva, blóta, ragna; n. formæling, bölvun; bannfæring; blót, ragn
 cursed l. bölvaður

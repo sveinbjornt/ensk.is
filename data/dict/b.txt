@@ -49,8 +49,7 @@ bagatelle n. lítilræði
 baggage n. farangur
 bagging n. pokastrigi; l. víður (um föt)
 bah uh. svei!
-bail s. ausa; sbr. %[bale]%
-bail n. ábyrgð, veð; ábyrgðarmaður; [go ~ for] ábyrgjast; s. láta lausan gegn ábyrgð; ganga í ábyrgð fyrir
+bail n. ábyrgð, veð; ábyrgðarmaður; [go ~ for] ábyrgjast; s. láta lausan gegn ábyrgð; ganga í ábyrgð fyrir; ausa (sjá %[bale]%)
 bailable l. sem má láta lausan gegn ábyrgð
 bailee n. sá sem geymir tryggingarfé
 bailiff n. fógeti; ráðsmaður, ármaður (á búi)
@@ -70,17 +69,14 @@ baldness n. hárleysi; nekt
 baldachin n. gullofinn dúkur; baldakín; hásætishiminn
 balderdash n. orðagjálfur; s. blanda (e-ð e-u [with])
 baldric n. (sverðs)fetill
-bale s. ausa ([~ the boat out])
-bale n. stór vörustrangi
-bale n. böl; skaði
+bale n. böl; skaði; stór vörustrangi; s. ausa ([~ the boat out])
 baleful l. skaðlegur
 balefulness n. skaðsemi
 baleen n. hvalskíði
 balefire n. bláeldur; vitaeldur; brenna (til gamans)
 balk n. akurrein; bjálki; hindrun; s. hindra; blekkja; ónýta
 balky l. staður (um hest)
-ball n. hnöttur; kúla, bolti; hnykill; [~ of the eye] augasteinn; [~ of the foot] táberg; s. hnoða; vinda í hnykil; hlaupa í kekki
-ball n. dansleikur
+ball n. hnöttur; kúla, bolti; hnykill; [~ of the eye] augasteinn; [~ of the foot] táberg; dansleikur; s. hnoða; vinda í hnykil; hlaupa í kekki
 ballad n. þjóðsögukvæði, strengleikakvæði; götuvísa
 ballast n. kjölfesta, seglfesta; s. láta seglfestu í skip
 ballet n. bendingadans
@@ -103,8 +99,7 @@ banderole n. oddveifa (með sýlingu í endann)
 bandit n. stigamaður
 bandog n. festarhundur
 bandoleer n. axlafetill
-bandy n. knatttré; s. slá (knött) fram og aftur; [~ words] deila
-bandy l. bjúgur ([~ legs])
+bandy n. knatttré; s. slá (knött) fram og aftur; [~ words] deila; l. bjúgur ([~ legs])
 bandy-legged l. bjúgfættur
 bane n. eitur; bani, glötun
 baneful l. eitraður, banvænn; skaðlegur
@@ -113,16 +108,15 @@ banian n. indverskur kaupmaður
 banish s. reka í útlegð
 banishment n. burtrekstur
 banister n. pílári, rimill
-bank n. árbakki; rif í sjó; grynningar; skýjabakki; s. lykja um; hrúga upp; [it ~s up] það dregur í (svartan) bakka
-bank n. banki; s. leggja (fé) í banka; [~ of issue] seðlabanki
+bank n. banki; árbakki; rif í sjó; grynningar; skýjabakki; s. leggja (fé) í banka; lykja um; hrúga upp; [it ~s up] það dregur í (svartan) bakka
 bank bill n. bankavíxill
 bank credit n. lánstraust í banka
-banker n. bankari, bankastjóri
-banking n. bankastörf ([~ transactions])
+banker n. bankamaður, bankastjóri
+banking n. bankastarfsemi, bankastörf ([~ transactions])
 banknote n. bankaseðill
 bankrupt l. gjaldþrota; n. gjaldþrota maður; s. gera gjaldþrota
 bankruptcy n. gjaldþrot
-banner n. merki, fáni
+banner n. fáni, merki
 bannock n. flatbrauð, byggkaka (á Skotlandi)
 banns n. ft. lýsing til hjónabands ([to ask, publish, put up the ~])
 banquet n. hóf, stórveisla; s. veita mat og drykk ríkulega; borða og drekka óspart
@@ -162,8 +156,7 @@ bargain n. kaup; kjarakaup; samningur; [make a ~] gera góð kaup; [into the ~] 
 bargainer n. mangari
 barge n. stór skrautbátur; flutningsbátur á ám; byrðingur; s. flytja með flutningsbáti; ryðjast ([~ into a meeting, he ~d past me])
 bargeboard n. vindskeið (á þaki)
-bark n. börkur; skip, bátur; barkskip; s. birkja (við); súta
-bark n. gelt; s. gelta
+bark n. börkur; skip, bátur; barkskip; gelt; s. gelta; birkja (við); súta
 barley n. bygg
 barm n. gerð, ólga
 barn n. hlaða
@@ -224,8 +217,7 @@ baste s. dýfa (steikarkjöti) í feiti; berja, lemja; staga saman
 bastinado s. berja (á iljarnar) með staf; n. iljastroka
 bastion n. víghyrning; varnarvirki
 bastioned l. búinn víghyrning
-bat n. barefli; knatttré; högg; s. berja með barefli
-bat n. leðurblaka
+bat n. leðurblaka; barefli; knatttré; högg; s. berja með barefli
 batable l. vafasamur
 batata n. sæt kartafla
 bate s. sjá %[abate]%
@@ -235,8 +227,7 @@ bathe s. baða, lauga; baða sig
 bathing n. böðun
 battalion n. herfylking
 baton n. stafur ([marshal's ~]); tónsproti
-batten n. planki, gólfborð
-batten s. þrífast, fitna; styrkja
+batten s. þrífast, fitna; styrkja; n. planki, gólfborð
 batter s. slá, berja; beygla, brengla; skjóta niður (virki)
 battering ram n. múrbrjótur
 battery n. skotbyrgi; stórskotaliðsflokkur; atför, frumhlaup; [electrical ~] rafgeymir, batterí
@@ -251,10 +242,8 @@ bawbee n. skyldingur
 bawd n. skækja
 bawdy l. klúr
 bawl s. öskra, æpa; n. öskur
-bay n. fjörður, flói
-bay l. jarpur ([~ horse])
+bay n. fjörður, flói; gelt; [at ~] í varnarstöðu (um dýr); í kreppu ([keep the enemy at ~]); s. gelta; l. jarpur ([~ horse])
 bayard n. jarpur hestur
-bay s. gelta; n. gelt; [at ~] í varnarstöðu (um dýr); í kreppu ([keep the enemy at ~; bring to ~])
 bayonet n. byssustingur
 bay-tree n. lárviður
 bay-window n. framskotsgluggi
@@ -262,20 +251,19 @@ bazaar n. basar; austurlenskt sölutorg
 be s. vera; verða; [where am I to sit] hvar á ég að sitja? [ask her how her mother is] hvernig móður hennar líður; [how are you] hvernig líður yður; sælir (verið þér); [how is it that I see you here] hvernig víkur því við, að..? [he has been to Rome] hefur verið í Róm; [what are you at] hvað eruð þér að gera? [he was not to be saved] það var ekki hægt að bjarga honum; [I am writing] ég er að skrifa; [while the house was building] meðan húsið var í smíðum
 beach n. strönd, fjara; s. setja (skip) upp í fjöru
 beacon n. viti, vitaeldur; varðturn; s. lýsa, uppljóma
-bead n. perla, tala; n. ft. talnaband; s. skreyta með perlum
+bead n. perla, tala; s. skreyta með perlum
+beads n. ft. talnaband
 beadle n. kirkjuþjónn; háskólaþjónn; réttarþjónn
 beady l. líkur perlu ([~ eyes])
 beak n. fuglsnef; skipstrjóna; s. höggva í
 beaked l. nefmyndaður, trjónumyndaður
 beaker n. bikar
-beam n. bjálki, biti; vefjarrifur; vogarstöng; vagnstöng
+beam n. bjálki, biti; vefjarrifur; vogarstöng; vagnstöng; n. geisli; s. geisla, skína
 beam-ends n. ft. endarnir á bitunum undir þilfarinu; [to be on the ~] liggja á hliðinni (um skip); vera í hættu eða vanda staddur
-beam n. geisli; s. geisla, skína
 beamy l. ljómandi, skínandi
 bean n. baun
-bear n. björn, bjarndýr
 bear-baiting n. bjarndýraat
-bear s. bera; þola; standast; fæða, ala; ala í brjósti sínu ([~ one a grudge]); [~ oneself] bera sig, hegða sér; [~ in mind] hafa hugfast; [~ away] bera úr bítum, vinna ([~ away the prize]); víkja undan (um skip); [~ back] reka aftur á bak; [~ down] sökkva (skipi); yfirbuga; [~ hard on (upon)] ganga nærri e-m; [~ out] staðfesta; [~ towards] stýra (stefna) á; [~] að halda sér uppi, gefast ekki upp; [~ upon] lúta að e-u, snerta, koma við; [~ with] vorkenna e-m, sýna þolinmæði
+bear n. björn, bjarndýr; s. bera; þola; standast; fæða, ala; ala í brjósti sínu ([~ one a grudge]); [~ oneself] bera sig, hegða sér; [~ in mind] hafa hugfast; [~ away] bera úr bítum, vinna ([~ away the prize]); víkja undan (um skip); [~ back] reka aftur á bak; [~ down] sökkva (skipi); yfirbuga; [~ hard on (upon)] ganga nærri e-m; [~ out] staðfesta; [~ towards] stýra (stefna) á; [~] að halda sér uppi, gefast ekki upp; [~ upon] lúta að e-u, snerta, koma við; [~ with] vorkenna e-m, sýna þolinmæði
 bearable l. bærilegur
 bearer n. burðarmaður, handhafi
 beard n. skegg s. bjóða byrginn
@@ -299,8 +287,7 @@ beaver n. bifur, bjór; blik á hjálmi, nefbjörg
 beavered l. með nefbjörg
 becalm s. stilla, kyrra; [be ~ed] liggja í logni (um skip)
 because st. af því að; [~ of] sökum, vegna
-beck n. lækur
-beck n. bending; hneiging
+beck n. lækur; bending; hneiging
 beckon s. benda; hneigja
 becloud s. hylja (þoku eða skýi)
 beclouded l. skýjaður
@@ -508,8 +495,7 @@ betrayer n. svikari
 betroth s. trúlofa
 betrothal n. trúlofun
 betrothment n. trúlofun
-better l. betri; [you had ~ go] þér ættuð heldur að fara; [to get the ~ of] bera hærri hlut; ao. betur; s. bæta, betra; [~ oneself] bæta sig
-better n. veðjandi
+better n. veðjandi; l. betri; [you had ~ go] þér ættuð heldur að fara; [to get the ~ of] bera hærri hlut; ao. betur; s. bæta, betra; [~ oneself] bæta sig
 bettor n. veðjandi
 between fs. á milli; [between ourselves] okkar á milli (og ekki annara)
 bevel n. hornmælir; sljótt horn; l. skáhallur; s. höggva brún af, sniðslípa, sniðskera
@@ -573,8 +559,7 @@ bilious l. gallsjúkur; gall-
 bilk s. svíkja; leika á; blekkja; hafa af (e-m); n. svikari
 bill n. nef (á fugli); akkerisflaug; atgeir; s. nugga saman nefjum; klappast og kyssast
 bill n. frumvarp, nýmæli; reikningur; auglýsingarskjal; skrifleg kæra, kæruskjal; víxill ([~ of exchange]); [~ of building] smíðisbréf (skips); [~ of entry] vöruskrá (til tollbúðar); [~ of divorce] skilnaðarskjal; [~ of health] heilsuvottorð; [~ of fare] matseðill; [~ of lading] farmbréf, móttökuskírteini skipstjóra; [~ of sale] kaupbréf; [find a true ~] úrskurða kæru réttmæta, vísa henni til dómsúrskurðar; [ignore a ~] vísa kæru frá
-billet n. trédrumbur, trékubbur (til eldsneytis)
-billet n. seðill; vistarseðill (hermanna); s. skipa (hermönnum) í dvöl ([~ soldiers on the people])
+billet n. seðill; vistarseðill (hermanna); trédrumbur, trékubbur (til eldsneytis); s. skipa (hermönnum) í dvöl ([~ soldiers on the people])
 billiards n. ft. knattborðsleikur
 billiard-table n. knattborð
 billingsgate n. skrílmál, skammir
@@ -646,7 +631,7 @@ blackfriar n. svartmunkur
 blackguard n. bófi, þorpari
 blackguardly l. þorparalegur
 blackletter n. gotneskt letur
-blackmail n. fjárkugun, nauðungargjald, nauðungarskattur; s. kúga fé af e-m
+blackmail n. fjárkúgun, nauðungargjald, nauðungarskattur; s. kúga fé af e-m
 black pudding n. blóðmör
 blacksmith n. járnsmiður
 blacken s. sverta; sortna
@@ -686,8 +671,7 @@ blaze n. logi, blossi ([in a ~]); ljómi; blesa (á hrossum); merki (í tré); s
 blazon n. skjaldmerki; (skjaldmerkja)lýsing; básúnun; s. lýsa skjaldmerkjum; skreyta; mála; básúna, víðfrægja
 blazery n. skjaldmerkjafræði
 bleach s. bleikja; gera hvítt, hvítna; blikna
-bleak l. kaldur, hráslagalegur; veðurbarinn; gróðurlaus
-bleak n. bleikja (silungur)
+bleak l. kaldur, hráslagalegur; veðurbarinn; gróðurlaus; n. bleikja (silungur)
 blear l. dapur (um augun); s. deyfa (sjónina)
 bleary-eyed l. voteygður; sjóndapur
 bleat s. jarma; n. jarmur
@@ -775,8 +759,7 @@ blueness n. blámi
 blue-rock n. dúfa
 blue-stocking n. lærð kona
 bluestone n. blásteinn
-bluff n. gabb, blekking, ógnun, hótun (og ekki annað); s. gabba, villa, hóta, ógna
-bluff l. ruddalegur; berorður; brattur; n. brött strönd
+bluff n. gabb, blekking; ógnun, hótun; brött strönd; s. gabba, blekkja, villa; hóta, ógna; l. ruddalegur; berorður; brattur
 bluff-bowed l. stafnbrattur
 bluffness n. brattleiki; hreinskilni; þjösnaskapur
 bluish l. bláleitur
@@ -834,8 +817,7 @@ boggy l. mýrlendur ([boggy hollows])
 boggle s. fælast (um hest); hika, vera á báðum áttum; ([it boggles the mind that]) það er manni ofviða að
 bogle n. grýla; draugur
 bogey n. djöfull; grýla
-boil n. graftarkýli
-boil s. sjóða; ólga; n. suða ([the water comes to a ~])
+boil s. sjóða; ólga; n. suða ([the water comes to a ~]); graftarkýli
 boiler n. gufuketill; suðumaður
 boiling n. suða; l. sjóðandi
 boiling-point n. suðumark
@@ -978,15 +960,13 @@ bower n. laufskáli; dyngja; bústaður
 bowery l. skuggsæll
 bow-hand n. vinstri hönd
 bowie knife n. hnífur, rýtingur
-bowl n. skál; pípuhaus; spónblað ([the ~ of the spoon])
-bowl n. trékúla; ft. e.k. knattleikur; s. velta (renna) kúlum
+bowl n. skál; pípuhaus; spónblað ([the ~ of the spoon]); trékúla; s. velta (renna) kúlum
 bowling-green n. knattleikaflötur
 bowlegged l. bjúgfættur
 bowman n. bogmaður
 bowsprit n. bugspjót, brandur
 bow-window n. sjá %[bay-window]%
-box n. kassi, kista, koffort, stokkur, dósir; (jóla)gjöf ([Christmas ~]); vagnstjórasæti; stúka (í leikhúsi); veiðihús ([hunting ~]); s. láta í kassa ([~ up])
-box s. berja með hnefanum, reka (e-m) utan undir; berjast (í hnefaleik); n. [a ~ on the ear] löðrungur
+box n. kassi, kista, koffort, stokkur, dósir; (jóla)gjöf ([Christmas ~]); [a ~ on the ear] löðrungur; vagnstjórasæti; stúka (í leikhúsi); veiðihús ([hunting ~]); s. láta í kassa ([~ up]); berja með hnefanum, reka (e-m) utan undir; berjast (í hnefaleik)
 boxer n. boxari; hnefaleikamaður
 boxing n. box; hnefaleikur
 boxing-day n. annar dagur í jólum
@@ -1001,7 +981,7 @@ bracelet n. armband
 brachylogy n. stutt orðalag
 bracing l. hressandi
 bracken n. burkni
-bracket n. krappi, brik (undir hillu); ft. hornklofar; s. setja í hornklofa
+bracket n. krappi, brík (undir hillu); ft. hornklofar; s. setja í hornklofa
 brackish l. saltur; sem seltubragð er af ([we found the water ~])
 brad n. hauslaus nagli
 brag s. gorta; n. gort
@@ -1037,8 +1017,7 @@ bravo uh. ágætt!; n. leigður morðingi; flugumaður
 brawl n. deila, áflog; s. fljúgast á, gera hávaða; niða
 brawn n. vöðvakjöt; súrsað svínakjöt; s. ala svín
 brawny l. vöðvasterkur, vöðvamikill, fastholda
-bray n. rymur; skarkali; s. rymja; glamra; skrölta
-bray s. mylja smátt
+bray n. rymur; skarkali; s. rymja; glamra; skrölta; mylja smátt
 braze s. kveikja (málm); herða, stæla; lita sem messing
 brazen l. úr messing; messings-; óskammfeilinn
 brazen-faced l. óskammfeilinn
@@ -1112,7 +1091,7 @@ bright l. bjartur, skær; kátur; fyndinn; gáfaður; ao. bjart ([shine ~, ~ly])
 brightness n. birta; fjör; greind, gáfur
 Bright's disease n. e.k. nýrnabólga
 brilliancy n. ljómi, skin; skraut, fegurð
-brilliant l. ljómandi; glæsilegur; ágætur; n. demant
+brilliant l. ljómandi; skínandi; glæsilegur; ágætur; hæfileikaríkur
 brim n. rönd, barmur; hattbarð; s. fylla á barma; vera barmafullur
 brimful l. bakkafullur, fleytifullur
 brimstone n. brennisteinn
@@ -1145,17 +1124,16 @@ broaden s. breikka, víkka
 brocade n. glitvefnaður
 brocaded l. glitofinn
 brocket n. veturgamall hjörtur
-brogue n. (írskur) málkeimur; óvandaður írskur skófatnaður
-broil s. steikja á glóð eða rist; n. kjöt, sem er steikt á glóð
-broil s. deila; n. uppþot, ryskingar
-broke l. af sögninni [to break]; blankur, peningalaus
-broken l. af sögninni [to break], brotinn, slitinn; [~ victuals] matarleifar; [~ English] bjöguð enska; [~ money] smápeningar; [~ constitution] bilaður (farinn) að heilsu; [~ in body and mind] farinn á sál og líkama; [~ health] farinn að heilsu
+brogue n. sterkur málkeimur; óvandaður írskur eða skoskur skófatnaður
+broil s. steikja á glóð eða rist; standa í deilum, deila; n. kjöt, sem er steikt á glóð; uppþot, ryskingar
+broke l. blankur, peningalaus
+broken l. brotinn, slitinn; [~ victuals] matarleifar; [~ English] bjöguð enska; [~ money] smápeningar; [~ constitution] bilaður (farinn) að heilsu; [~ in body and mind] farinn á sál og líkama; [~ health] farinn að heilsu
 brokenhearted l. harmþrunginn
 broken-spirited l. harmþrunginn
-broker n. brakún verslunarmiðill, miðlari; skransali; veðlánari
+broker n. miðlari, verslunarmiðill; skransali; veðlánari
 brokerage n. miðlaraiðn; miðlaralaun
 bronchia n. ft. lungnapípur
-bronchitis n. lungnakvef
+bronchitis n. barkakitlabólga, berkjukvef, lungnakvef
 bronze n. brons (málmblendingur); s. setja bronslit á; gera tilfinningarlausan, herða
 brooch n. brjóstnál
 brood n. afsprengi dýra; afkvæmi, börn; s. liggja á eggjum; klekja út; búa yfir (e-u), vera að hugsa um ([on/over]); grúfa yfir (um myrkur, nótt, stormský)
@@ -1298,7 +1276,7 @@ burn s. brenna (eyða með, eyðast af, eldi); [the house was burnt down] brann 
 burner n. brennari; ljóspípa (í lampa)
 burnish s. fægja, fága; gera gljáandi; skina
 burnisher n. fágari
-burr n. loðgresi; ró (á egg); harður kverkaframburður á stafnum r
+burr n. loðgresi; ró (á egg); harður kverkaframburður á stafnum R
 burrow n. tóugreni; jarðhola, lundahola; s. grafa (sér holu)
 bursar n. gjaldkeri (við háskóla); styrkþegi (við skoska háskóla)
 bursarship n. gjaldkeraembætti; námsstyrkur
@@ -1321,8 +1299,7 @@ businesslike l. líkur kaupsýslumanni; vel fyrir komið, skipulegur
 busk n. skíðisteinn (í koti)
 buskin n. hástígvél, háskór
 buskined l. hástígvélaður, á háskóm
-buss n. koss; s. kyssa
-buss n. hollenskt síldarveiðaskip (tví- eða þrímastrað)
+buss n. koss; hollenskt síldarveiðaskip (tví- eða þrímastrað); s. kyssa
 bust n. brjóstmynd; brjóstlíkneski; brjóst, bringa
 bustard n. trappgæs
 bustle n. ys, þys, fyrirgangur, hávaði; bardagi; [be (all) in a ~] eiga mjög annríkt; s. ysja, þysja, hafa mikinn fyrirgang

@@ -42,7 +42,7 @@ easily ao. auðveldlega
 easiness n. auðveldleiki; makræði; hóglyndi
 east n. austur, austurátt; austurhluti lands, austurland; Austurlönd; l. austlægur, austur-, austan-; ao. austur, í austur; [~ of (to the ~ of)] fyrir austan
 easterly l. austlægur; ao. í austur; austarlega; á austan
-eastern l. austrænn; Austurlanda-; austlægur; austur-; n. austurlandabúi
+eastern l. austrænn; Austurlanda-; austlægur; austur-; n. Austurlandabúi
 easternmost l. austastur
 eastward ao. í austur, austur á bóginn
 Easter n. páskar
@@ -276,7 +276,7 @@ elide s. sleppa (e-u); fella (staf eða atkvæði) úr; ógilda
 eligibility n. kjörgengi; ft. kostir
 eligible l. kjörgengur; ákjósanlegur; eftirsóknarverður; hentugur
 eliminate s. útrýma, eyða; reka út; nema burtu; leiða fram eða út
-elimination n. útrýming, tortíming; burtnám, burtnumning
+elimination n. útrýming, tortíming; burtnám, brottnám
 elision n. úrfelling (stafs eða atkvæðis)
 elite n. elíta, úrval ([the ~ of society])
 elixir n. heilsudrykkur, kynjalyf, elixír ([~ of life])
@@ -431,7 +431,7 @@ employment n. notkun; starfi, starf; atvinna ([carry on an ~])
 empoison s. eitra, blanda eitri, láta eitur í (mat, drykk); spilla
 emporium n. vörusafnstaður, markaður, kaupstöð
 empower s. veita fullt umboð; gera hæfan eða færan, veita e-m völd (til [to])
-empress n. keisarynja, keisaradrottning
+empress n. keisaraynja, keisaradrottning
 emprise n. fyrirtæki; fræknleikur ([deeds of high, bold, chivalrous ~])
 emptiness n. tómleiki
 empty l. tómur; snauður (að e-u [of]); auður ([~ chair]); fánýtur, hégómlegur; n. tómur vagn, tómt ílát; s. tæma; tæmast, verða auður; [~ (itself) into] falla út í
@@ -713,9 +713,8 @@ ephemeris n. stjörnufræðileg árbók eða almanak (ft. [ephemerides])
 ephemeron n. dægurfluga
 ephemerous l. skammlífur, skammvinnur, stundar-
 ephor n. umsjónarmaður (í Spörtu); ft. ephori
-epic l. sem lýtur að söguljóðum; [an ~ poet] söguljóðaskáld
+epic l. epískur, stórbrotinn, sögulegur, sem lýtur að söguljóðum; [an ~ poet] söguljóðaskáld; n. söguljóð
 epical l. sem lýtur að söguljóðum; [an ~ poet] söguljóðaskáld
-epic n. söguljóð
 epicure n. sælkeri, sællífismaður
 epicurean l. sem lýtur að kenningu Epikúrs; sællífislegur; n. lærisveinn Epikúrs; sællífismaður
 epicureanism n. heimspeki Epikúrs; sællífi, hóglífi
@@ -731,7 +730,7 @@ epigraph n. letur (t.d. á legsteini); einkunnarorð (fyrir bók eða kafla úr 
 epigraphic l. sem lýtur að áletrunum
 epigraphy n. áletranir; áletranafræði
 epilepsy n. flogaveiki, slagaveiki, niðurfallssýki
-epileptic l. flogaveikur, slagveikur, niðurfallssjúkur
+epileptic l. flogaveikur, slagveikur, niðurfallssjúkur; n. flogaveik manneskja
 epilogist n. höfundur eða framsögumaður eftirmála
 epilogue n. eftirmáli (í bundnu eða óbundnu máli)
 Epiphany n. þrettándinn

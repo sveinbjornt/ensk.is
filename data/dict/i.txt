@@ -337,8 +337,7 @@ imprecate s. biðja (e-m) bölbæna ([~ curses upon his name, his head]); biðja
 imprecation n. formæling; bölbænir
 imprecatory l. formælingar- ([~ passages])
 impregnable l. óvinnandi ([~ camp, fortress]); ósigrandi
-impregnate l. barnshafandi; frjóvgaður; þrunginn; gagndreyptur (af e-u [with])
-impregnate s. gera barnshafandi; frjóvga; gagnsýra, gagndreypa
+impregnate s. gera barnshafandi; frjóvga; gagnsýra, gagndreypa; l. barnshafandi; frjóvgaður; þrunginn; gagndreyptur (af e-u [with])
 impregnation n. frjóvgun; gagndreyping
 impresario n. leiðtogi listamanns
 imprescriptible l. sem ekki verður burtu tekinn ([~ rights])
@@ -464,8 +463,7 @@ incautiousness n. gáleysi, óvarkárni
 incavated l. holur
 incave s. innibyrgja; sjá %[encave]%
 incendiary n. brennuvargur; æsingamaður; l. sem lýtur að brennu; íkveikju-; uppreisnar-, æsingar- ([~ publication])
-incense n. reykelsi; s. brenna reykelsi í kringum; fylla ilmi, gera ilmandi ([~ the air])
-incense s. æsa upp til reiði, gera reiðan
+incense n. reykelsi; s. brenna reykelsi í kringum; fylla ilmi, gera ilmandi ([~ the air]); æsa upp til reiði, gera reiðan
 incensed l. reiður, æstur
 incensory n. reykelsisker
 incentive n. hvati, upphvatning, áeggjun, hvöt; l. hvetjandi, upphvatningar-
@@ -598,7 +596,7 @@ incrust s. setja skorpu á
 incrustation n. hrúður
 incubate s. liggja á eggjum
 incubation n. álega (á eggjum); meðgöngutími sjúkdóms
-incubus n. mara, martröð ([to sit like an ~ upon one])
+incubus n. mara, martröð, illur andi sem leitar á konur í svefni
 inculcate s. brýna fyrir e-m; innræta ([on, upon])
 inculpate s. ásaka, kenna um
 inculpation n. ásökun, álas
@@ -1131,9 +1129,8 @@ insular l. eylegur, eyja- ([~ climate]); n. eyjarskeggi
 insularity n. eyjahugsunarháttur, nærsýni í skoðunum
 insulate s. einangra
 insulation n. einangrun
-insult n. móðgun, smán
-insult s. móðga, smána
-insulter n. smánari
+insult n. móðgun, smán; s. móðga, smána
+insulter n. móðgari, smánari
 insulting l. móðgandi
 insuperable l. óyfirstíganlegur ([~ difficulties]); [an ~ objection] óræk mótbára
 insupportable l. óþolandi, óbærilegur ([to become ~])
@@ -1388,8 +1385,7 @@ inutile l. fánýtur, gagnslaus
 inutility n. gagnsleysi
 invade s. ráðast inn í, gera innrás; fara með her inn í; ráðast á
 invader n. árásarmaður, innrásarmaður, innrásaraðili
-invalid l. ógildur; ómætur
-invalid l. veikur, óhraustur; n. veik eða fötluð manneskja; s. setja á sjúkraskrána; gera óvígan
+invalid l. ógildur; ómætur; veikur, óhraustur; n. veik eða fötluð manneskja; s. setja á sjúkraskrána; gera óvígan
 invalidate s. ógilda, ónýta ([to ~ his evidence])
 invalidation n. ógilding, ónýting
 invalidity n. ómæti, ógildi ([~ of an agreement]); heilsubilun, örorka
@@ -1596,4 +1592,3 @@ itself fn. sjálft sig, sjálfan sig; sjálft (um hluti og dýr)
 ivied l. vaxinn vafningsviði ([ivy])
 ivory n. fílabein; tannefni; ft. tennur; l. (sem er) úr fílabeini
 ivy n. vafningsviður, bergflétta
-ivied l. vaxinn vafningsviði ([ivy])

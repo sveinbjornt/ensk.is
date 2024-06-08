@@ -330,8 +330,7 @@ deficiency n. vöntun, skortur; ófullkomleiki; tekjuhalli
 deficient l. ónógur; sem er ábótavant í e-u ([in])
 deficit n. sjóðþurrður, tekjuhalli
 defier n. sá sem býður byrgin
-defile n. þröngur vegur, þröngt skarð, kleifar; s. ganga hver á eftir öðrum
-defile s. ata, saurga, óhreinka, spilla
+defile s. ata, saurga, óhreinka, spilla; ganga hver á eftir öðrum; n. þröngur vegur, þröngt skarð, kleifar
 defilement n. saurgun
 definable l. sem hægt er að ákveða
 define s. skilgreina, útlista, skýra; takmarka; ákveða
@@ -429,14 +428,14 @@ Delphic l. delfískur; tvíræður ([~ response])
 delta n. ármynni, árósar
 delude s. blekkja, leika á; [~ one into] lokka, fá (e-n) til (e-s)
 deluge n. vatnagangur, flóð; [the (universal) deluge] syndaflóðið; s. flæða yfir
-delusion n. hugvilla; ranghumynd; blekking
+delusion n. hugvilla; ranghugmynd; blekking
 delusive l. villandi, blekkjandi
 delusory l. villandi, blekkjandi
 delve s. grafa, stinga upp (jarðveginn); rannsaka; [~ down] liggja bratt niður; n. gryfja; dæld
-demagogic l. lýðæsandi
-demagogue n. lýðforingi; lýðæsingamaður
-demagoguery n. lýðæsingar
-demagogy n. lýðæsingar; lýðæsarar
+demagogic l. lýðæsandi, lýðskrums-
+demagogue n. lýðskrumari, lýðforingi; lýðæsingamaður
+demagoguery n. lýðskrum; lýðæsingar
+demagogy n. lýðskrum; lýðæsingar; lýðæsarar
 demand s. heimta; krefjast; þarfnast; spyrja (um); n. krafa; eftirspurn (eftir vörum); [payable on ~] þegar krafist verður; [in ~] eftirsóttur
 demandant n. spyrjandi; kærandi; krefjandi
 demander n. sá sem heimtar
@@ -1404,7 +1403,7 @@ dodger n. bragðarefur
 doe n. blauða dádýrið, dáhind
 doer n. gjörandi, framkvæmdarmaður ([~ of mischief])
 doff s. færa (sig) úr; taka ofan
-dog n. hundur
+dog n. hundur; s. elta e-n (eins og hundur); siga hundum á e-n
 dogcart n. veiðivagn
 dog-cheap l. sem fæst fyrir gjafverð, hundódýr
 dog days n. ft. hundadagar
@@ -1412,7 +1411,6 @@ dogfish n. háfur
 doghearted l. harðbrjóstaður
 dog Latin n. hrognalatína
 dogsleep n. laus svefn
-dog s. elta e-n (eins og hundur); siga hundum á e-n
 dogged l. þrár; [~ resistance] hörð mótstaða
 doggish l. hundslegur; geðvondur
 doggy n. seppi; l. hunda- ([~ nature])
@@ -1605,8 +1603,7 @@ dreamful l. dreymandi, eins og í draumi
 dreamy l. dreymandi, eins og í draumi ([a ~ recollection])
 dreariness n. dapurleiki, auðn
 dreary l. skuggalegur, eyðilegur, ömurlegur, dapur
-dredge n. botnskafa; ostrunet; s. veiða ostrur (í dragnet); ná e-u upp með botnsköfu
-dredge s. strá á (mjöli)
+dredge n. botnskafa; ostrunet; s. veiða ostrur (í dragnet); ná e-u upp með botnsköfu; strá á (mjöli)
 dreggish l. gruggugur
 dreggy l. gruggugur
 dregs n. ft. dreggjar, grugg

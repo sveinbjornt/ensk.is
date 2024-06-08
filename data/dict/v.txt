@@ -192,8 +192,7 @@ verdigris n. eirgræna, eirryð
 verdigrised l. eirgrænn
 verdure n. græn (grasi vaxin) jörð, grænka, grængresi
 verdurous l. grænn, grasivaxinn, blómlegur
-verge n. tignarstafur
-verge n. rönd, brún; barmur; rúm, svið ([~ for, to]); [on the ~ of ruin] á heljarþröminni; s. hallast; færast nær, nálgast ([upon, to, towards]); snúa í e-a átt
+verge n. tignarstafur; rönd, brún; barmur; rúm, svið ([~ for, to]); [on the ~ of ruin] á heljarþröminni; s. hallast; færast nær, nálgast ([upon, to, towards]); snúa í e-a átt
 vergeboard n. sjá %[bargeboard]%
 verger n. sprotaberi; stafberi; kirkjuþjónn
 veridical l. sannsögull
@@ -456,7 +455,7 @@ voluminous l. sem er mörg bindi; yfirgripsmikill; sem hefur ritað mikið ([a ~
 voluntary l. sjálfviljugur, sjálfboðinn; gerður af ásettu ráði; [~ church] fríkirkja; n. fríkirkjumaður; orgelspil á undan eða eftir guðsþjónustu; sjá %[volunteer]%
 volunteer n. sjálfboðaliði; s. bjóða fram ([~ one's services]); gera e-ð sjálfkrafa; ganga sjálfviljugur í e-a þjónustu
 voluptuary n. munaðarlífsmaður
-voluptuous l. munuðlífur; lostasamur
+voluptuous l. munuðlifur; lostasamur
 voluptuousness n. lostasemi
 volute n. flúr (á súluhöfði)
 vomit s. selja upp; kasta upp; n. uppsala, spýja; uppsölulyf

@@ -2005,8 +2005,7 @@ privative l. sviptandi; neitunar-; n. mótsetning, neitunarorð, neitun
 privilege n. einkaleyfi, einkaréttindi, réttur; s. veita einkaleyfi; undanþiggja ([~ one from])
 privily ao. í kyrrþey, leynilega
 privity n. samvitund; vitorð (um e-ð [to])
-privy l. sérstakur, afvikinn ([a ~ place]); leynilegur; [~ to] samvitandi um, í vitorði um; [~ council] leyndarráð (konungs); [~ councillor] meðlimur leyndarráðs konungs; [~ seal] innsigli konungs sjálfs; innsiglisvörður ([Lord Privy Seal])
-privy n. salerni
+privy n. salerni; l. sérstakur, afvikinn ([a ~ place]); leynilegur; [~ to] samvitandi um, í vitorði um; [~ council] leyndarráð (konungs); [~ councillor] meðlimur leyndarráðs konungs; [~ seal] innsigli konungs sjálfs; innsiglisvörður ([Lord Privy Seal])
 prize n. verðlaun (t.d. í skólum); vinningur í happdrætti; hertekið skip; herfang; s. virða, meta; hertaka (skip); brjóta, sprengja upp (dyr); [~ essay] n. verðlaunaritgerð
 prize fight n. hnefaleikur þar sem barist er um verðlaun
 prize fighter n. hnefaleikamaður (sem keppir um verðlaun)
