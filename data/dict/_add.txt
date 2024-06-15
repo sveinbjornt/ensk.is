@@ -4244,7 +4244,6 @@ Anatolia n. Anatólía, Litla-Asía (stór skagi í Suðvestur-Asíu)
 Asia Minor n. Litla-Asía (stór skagi í Suðvestur-Asíu)
 boilerplate n. fastatexti, geymdur texti (texti sem er notaður ítrekað í mörgum skjölum)
 ammonium n. ammóníum
-colophon n. baktitill
 quantifiable l. mælanlegur, magnmælanlegur
 devilishly ao. djöfullega
 needlessly ao. óþarflega, að óþörfu
@@ -4471,5 +4470,8 @@ cobbled l. steinlagður, steini lagður ([~ streets])
 dolomite n. dólómít (steintegund)
 killer whale n. háhyrningur
 white grampus n. mjaldur
-
+cancel culture n. útilokunarmenning
+cackling n. gagg; illkvitnislegur hlátur
+filename n. skjalaheiti, skrárheiti
+file extension n. nafnauki (við tölvuskjal)
 # exfoliant

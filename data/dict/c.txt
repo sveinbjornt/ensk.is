@@ -1,19 +1,19 @@
 cab n. leiguvagn með einum hesti fyrir; s. flytja (aka) í leiguvagni
 cabman n. vagnstjóri
-cabal n. svikræði, leynisamtök; s. beita brögðum, hafa leynisamtök
+cabal n. leynisamtök, svikræði; s. beita brögðum, hafa leynisamtök
 caballer n. bragðarefur
 cabbage n. kál; kálhöfuð; afklippur; s. hnupla
 cabbala n. leynispeki
-cabalistic l. leyndardómsfullur
-cabin n. kofi; káeta
+cabalistic l. leyndardómsfullur; leynisamtaka-, svikræðis-
+cabin n. kofi, káeta
 cabinet n. ráðsamkomusalur; ráðuneyti; skápur; [Cabinet Minister] forsætisráðherra; [~ council, ~ meeting] ríkisráð
-cabinet-maker n. húsgagnasmiður
+cabinet-maker n. húsgagnasmiður, skápasmiður
 cable n. kapall, kaðall, akkerisfesti; sæsími; s. reyra; binda; senda símskeyti (með sæsíma)
 caboose n. eldakompa (í skipi); eldstó, eldavél
 cacao n. kakóbaun; kakótré
 cachalot n. búrhveli
-cackle s. klaka (um hænu); þvaðra; n. klak; mas
-cache n. geymslustaður; geymdur forði, leynilegur geymslustaður; skyndiminni (í tölvu); s. láta niður til geymslu; vista í skyndiminni
+cackle s. gagga, klaka (um hænu); þvaðra; hlæja illkvitnislega; n. gagg, klak; mas
+cache n. geymslustaður; geymdur forði, leynilegur geymslustaður; skyndiminni (í tölvu); s. láta niður til geymslu; vista í skyndiminni (tölvu)
 cacophony n. mishljóðan
 cad n. vagnstjóri; dóni; rusti
 caddish l. rustalegur
@@ -100,13 +100,13 @@ campaigner n. gamall hermaður
 campbed n. ferðarúm, beddi
 camphor n. kamfóra; [~ oil] kamfóruolía; [~ essence] kamfórudropar
 camphorated l. kamfóru- ([~ oil])
-can n. kanna; dós
-can s. get; aðeins haft í nútíð og þátíð ([I can, I could])
+can n. kanna; dós; s. geta; aðeins haft í nútíð og þátíð ([I can, I could], ég get, ég gæti)
+could s. gæti (sjá %[can]%)
 canal n. síki, skurður, kanall
-canalize s. grafa skurð í gegnum
-canalization n. skurðagerð, skurðagröftur
+canalize s. grafa skurð eða síki í gegnum
+canalization n. skurðagerð, skurðagröftur, síkisgröftur
 canary n. kanarífugl; e.k. spánskur dans
-cancel s. strika út, ógilda, aflýsa, afnema, hætta við; útiloka
+cancel s. aflýsa, afnema, strika út, ógilda, hætta við; útiloka
 cancellation n. útstrikun, ógilding, aflýsing, afnám; útilokun
 cancer n. krabbi; krabbamein
 cancerate s. éta um sig; verða að krabbameini
@@ -829,7 +829,7 @@ chrysanthemum n. e.k. blóm
 chub n. karfategund
 chubby n. þykkleitur, búlduleitur, feitur ([a ~ boy])
 chuck n. [my ~!] heillin mín!
-chuck s. klaka (um hænu); slá undir hökuna; kasta, henda; [~ away (chance)] kasta frá sér; [~ up to the sponge] gefast upp; [~ out] reka á dyr; n. klak; klapp (undir hökuna); kast
+chuck s. kasta, henda; [~ away (chance)] kasta frá sér; [~ up to the sponge] gefast upp; [~ out] reka á dyr; gagga, klaka (um hænu); slá undir hökuna; n. klak; klapp (undir hökuna); kast
 chuckle s. hlæja leynilega, skríkja; hlakka yfir ([over]); n. skríkjur
 chucklehead n. auli, einfeldningur
 chuckleheaded l. aulalegur, einfaldur
@@ -935,7 +935,7 @@ civility n. kurteisi
 civilization n. siðmenning, menning, menntun; heimsmenning
 civilize s. siðmennta, mennta, siða
 civilizer n. siðmenntari, siðfágari, menningarfrömuður
-clack s. klaka; tala í sífellu; smella; n. smellur, skellur; kliður, málæði
+clack s. klaka, gagga; tala í sífellu; smella; n. smellur, skellur; kliður, málæði
 clad l. klæddur
 claim s. krefjast, heimta; þykjast; [~ descent from] telja ætt sína til; n. krafa; [have a ~ against (upon) the estate] eiga kröfu í búið; [lay ~ to] gera kröfu til e-s
 claimant n. krefjandi, kröfumaður
@@ -1109,7 +1109,7 @@ clubber n. klúbbsfélagi
 club-foot n. bæklaður fótur, kleppfótur
 club-law n. hnefaréttur; s. láta hnefaréttinn ráða
 clubman n. kylfuberi; klúbbsfélagi
-cluck n. klak (hænu); s. klaka
+cluck n. gagg, klak (hænu); s. gagga, klaka
 clue n. bandhnykill; leiðarvísir; lykill (að e-u [to]); þráður, samhengi (í sögu eða ræðu); sbr. %[clew]%
 clump n. stykki, kleppur; klasi, hnappur (af trjám eða grösum); þykkur sóli; s. ganga þunglamalega; festa (negla) þykkan sóla undir; safna í hnapp
 clumpish l. þunglamalegur
@@ -1301,8 +1301,7 @@ collaterally ao. hlið við hlið; óbeinlínis; samhliða, jafnhliða (e-u [wit
 collation n. samanburður; veiting (prestsembættis); létt máltíð
 collator n. sá sem ber saman, hefur rétt til að veita prestsembætti
 colleague n. embættisbróðir
-collect n. kirkjubæn, kollekta
-collect s. safna; innheimta (skatta, skuldir); ráða (af e-u); safnast; [~ oneself] ná sér, jafna sig, átta sig
+collect s. safna; innheimta (skatta, skuldir); ráða (af e-u); safnast; [~ oneself] ná sér, jafna sig, átta sig; n. kirkjubæn, kollekta
 collected l. stilltur
 collectedly ao. í heild sinni; stillilega
 collectedness n. stilling
@@ -1396,18 +1395,18 @@ comfortable l. þægilegur; [make oneself ~] koma sér þægilega fyrir, láta f
 comfortably ao. þægilega
 comforter n. huggari; trefill
 comfortless l. óhuggandi; huggunarlaus; óþægilegur
-comic l. grín-; kímnislegur, hlægilegur; gleðileikslegur
-comical l. grín-; kímnislegur, hlægilegur; gleðileikslegur
+comic l. grín-, kímnislegur, hlægilegur, gleðileikslegur; n. grínisti
+comical l. grín-, kímnislegur, hlægilegur, gleðileikslegur
 comity n. kurteisi
 comma n. komma; [inverted ~s] gæsalappir („ “)
 command s. skipa, bjóða; ráða yfir; stýra; stjórna ([~ one's temper]); horfa (gnæfa); [~ a view over] hafa útsýn yfir; n. skipun, boð; herstjórn; vald, yfirráð; [at/by his ~] eftir skipun hans; [was in ~ of] hafði yfirráð yfir; [great ~ of language] vald á
 command-in-chief n. æðsta herstjórn
-commandant n. kastalastjóri; borgarstjóri
-commander n. stjórnari; herforingi; yfirforingi (á minni herskipum)
+commandant n. kastalastjóri; borgarstjóri; stjóri
+commander n. stjórnari, stjóri; herforingi; yfirforingi (á minni herskipum)
 commander-in-chief n. yfirhershöfðingi
-commanding l. bjóðandi; tigurlegur; yfirgnæfandi
-commandment n. boð, boðorð
-commemorate s. minnast (í virðingarskyni); vera til minningar um
+commanding l. valdsmannslegur, tigulegur; yfirgnæfandi; bjóðandi
+commandment n. boðorð
+commemorate s. minnast (í virðingarskyni); halda upp á; vera til minningar um
 commemoration n. minning; minningarhátíð; [in ~ of] til minningar um
 commemorative l. sem er til minningar um; ([~ of something]) til minningar um eitthvað
 commence s. byrja; hefjast
@@ -2254,11 +2253,11 @@ costiveness n. harðlífi, hægðaleysi
 costliness n. kostnaður, dýrleiki
 costly l. kostnaðarsamur; dýr ([all ornament ought to be ~])
 costume n. búningur; tíska í klæðaburði
-cosy l. þægilegur, notalegur; hlýr ([~ rooms]); n.; [tea cosy] tevermir, tehetta; [egg ~] eggvermir
-cozy l. þægilegur, notalegur; hlýr ([~ rooms]); n. [tea cosy] tevermir, tehetta; [egg ~] eggvermir
-cot n. kofi, lítið hús; byrgi, skýli ([sheep ~]); hengirúm (í skipi); barnarúm; vagga
+cosy l. þægilegur, notalegur, huggulegur; hlýr ([~ rooms]); n.; [tea cosy] tevermir, tehetta; [egg ~] eggvermir
+cozy l. þægilegur, notalegur, huggulegur; hlýr ([~ rooms]); n. [tea cosy] tevermir, tehetta; [egg ~] eggvermir
+cot n. barnarúm; vagga; hengirúm (í skipi); byrgi, skýli; kofi, lítið hús
 cote n. byrgi, skýli ([sheep~])
-coterie n. félag, klúbbur
+coterie n. félag, klúbbur, hringur (af fólki)
 cottage n. lítið hús til sumardvalar í sveit, sveitahús
 cottager n. íbúandi í sveitahúsi; sveitamaður
 cotton n. baðmull; baðmullardúkur; tvinni; s. lynda (við [with]); koma sér saman; [~ up] sættast; [~ to] hafa gætur á, aðhyllast
@@ -2276,7 +2275,7 @@ coulter n. plógjárn, plógskeri, ristill
 council n. ráðstefna; kirkjuþing; ráð, ríkisráð ([~ of state])
 council chamber n. þingstofa
 councillor n. ráðgjafi; ráðherra
-counsel n. ráð; ráðagerð; fyrirætlun; lögfræðingaráð; málfærslumaður; [to take ~ with] bera saman ráð sín við, eiga ráð við; [to keep one's (own) ~] leyna (þegja yfir) fyrirætlunum sínum; s. ráða (e-m); ráða til (e-s)
+counsel n. ráð, ráðgjöf; ráðagerð; fyrirætlun; lögfræðingaráð; málfærslumaður; [to take ~ with] bera saman ráð sín við, eiga ráð við; [to keep one's (own) ~] leyna (þegja yfir) fyrirætlunum sínum; s. gefa ráð; ráða (e-m); ráða til (e-s)
 counsellor n. ráðgjafi, ráðunautur
 count n. greifi (útlendur titill, sem samsvarar [earl] á ensku)
 count n. talning, tala; reikningur; sakaratriði; [take (make) ~ of] gefa gaum að; s. telja; telja með; telja, skoða ([it was ~ed a great exploit to]); reikna; reiða sig á ([on, upon]); teljast; [~ for (much, little)] vera (mikils, lítils) metinn; [~ up] telja (leggja) saman; [~ out the House] fresta þingfundi, þegar mættir þingmenn eru of fáir
