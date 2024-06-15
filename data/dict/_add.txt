@@ -4458,6 +4458,9 @@ extra-terrestrial l. utan jarðarinnar, úr geimnum kominn, geim-; n. geimvera (
 Rhodes n. Ródos (eyja í austurhluta Miðjarðarhafsins)
 Eskimo n. Eskimói
 dengue fever n. beinbrunasótt
-exfoliative l. flögnunar-, afblöðunar-
+exfoliative l. afblöðunar-, flögnunar-, sem lýtur að flögnun
 diva n. díva, söngstjarna, söngdrottning, tónlistarkona sem nýtur mikillar frægðar og aðdáunar; sterk, sjálfsörugg manneskja sem krefst mikils og vekur mikla athygli
+sepsis n. blóðsótt, blóðsýking; graftarsótt, sýklasótt
+perturbed l. truflaður, ringlaður, raskaður
+unperturbed l. ótruflaður, óraskaður, óringlaður
 # exfoliant

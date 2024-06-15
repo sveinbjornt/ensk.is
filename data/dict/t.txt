@@ -1347,8 +1347,8 @@ turbaned l. með túrban
 turbary n. mómýri
 turbid l. gruggugur; þykkur, þéttur ([~ air, sky]); órólegur ([~ sleep]); ruglingslegur
 turbot n. sandhverfa (fiskur af flyðruætt)
-turbulence n. óeirð, ofsi, æsing
-turbulent l. ofsafullur; óstýrilátur, uppreisnargjarn
+turbulence n. ókyrrð, óeirð, ofsi, æsing, iða; loftsveipir
+turbulent l. ofsafullur, ókyrr; óstýrilátur, uppreisnargjarn
 tureen n. stór súpuskál
 turf n. grassvörður; torf; mór; móhnaus; skeiðvöllur (til kappreiða); s. þekja með grassverði
 turf-pit n. mógröf

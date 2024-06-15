@@ -536,6 +536,12 @@ async def apidoc(request: Request):
     )
 
 
+@app.get("/favicon.ico")
+@app.head("/favicon.ico")
+async def favicon(request: Request):
+    return RedirectResponse(url="/static/img/favicon.ico", status_code=301)
+
+
 @app.get("/sitemap.xml")
 @app.head("/sitemap.xml")
 @cache_response
