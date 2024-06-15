@@ -197,19 +197,7 @@ def _results(q: str, exact_match: bool = False) -> Tuple[List, bool]:
 
 
 def cache_response(func):
-    """
-    Decorator that indefinitely caches the response of a FastAPI async function.
-
-    Example:
-    ```
-        app = FastAPI()
-
-        @app.get("/")
-        @cache_response
-        async def example():
-            return {"message": "Hello World"}
-    ```
-    """
+    """Decorator that indefinitely caches the response of a FastAPI async function."""
     response = None
 
     @wraps(func)
@@ -268,6 +256,7 @@ async def search(request: Request, q: str):
 
 
 @app.get("/item/{w}")
+@app.head("/item/{w}")
 async def item(request: Request, w):
     """Return page for a single dictionary word definition."""
     results, _ = _results(w, exact_match=True)
@@ -286,6 +275,7 @@ async def item(request: Request, w):
 
 
 @app.get("/page/{n}")
+@app.head("/page/{n}")
 async def page(request: Request, n):
     """Return page for a single dictionary page image."""
     n = int(n)
@@ -306,6 +296,7 @@ async def page(request: Request, n):
 
 
 @app.get("/files")
+@app.head("/files")
 @cache_response
 async def files(request: Request):
     """Page containing download links to data files."""
@@ -327,6 +318,7 @@ async def files(request: Request):
 
 
 @app.get("/about")
+@app.head("/about")
 @cache_response
 async def about(request: Request):
     """About page."""
@@ -349,6 +341,7 @@ async def about(request: Request):
 
 
 @app.get("/zoega")
+@app.head("/zoega")
 @cache_response
 async def zoega(request: Request):
     """Page with details about the Zoega dictionary."""
@@ -359,6 +352,7 @@ async def zoega(request: Request):
 
 
 @app.get("/english")
+@app.head("/english")
 @cache_response
 async def english_redirect(request: Request):
     """Redirect to /english_icelandic_dictionary."""
@@ -367,6 +361,7 @@ async def english_redirect(request: Request):
 
 
 @app.get("/english_icelandic_dictionary")
+@app.head("/english_icelandic_dictionary")
 @cache_response
 async def english(request: Request):
     """English page."""
@@ -386,6 +381,7 @@ async def english(request: Request):
 
 
 @app.get("/all")
+@app.head("/all")
 @cache_response
 async def all(request: Request):
     """Page with links to all entries."""
@@ -401,6 +397,7 @@ async def all(request: Request):
 
 
 @app.get("/cat/{category}")
+@app.head("/cat/{category}")
 async def cat(request: Request, category: str):
     """Page with links to all entries in the given category."""
     entries = CAT2ENTRIES.get(category, [])
@@ -418,6 +415,7 @@ async def cat(request: Request, category: str):
 
 
 @app.get("/capitalized")
+@app.head("/capitalized")
 @cache_response
 async def capitalized(request: Request):
     """Page with links to all words that are capitalized."""
@@ -434,6 +432,7 @@ async def capitalized(request: Request):
 
 
 @app.get("/original")
+@app.head("/original")
 @cache_response
 async def original(request: Request):
     """Page with links to all words that are original."""
@@ -450,6 +449,7 @@ async def original(request: Request):
 
 
 @app.get("/duplicates")
+@app.head("/duplicates")
 @cache_response
 async def duplicates(request: Request):
     """Page with links to all words that are duplicates."""
@@ -466,6 +466,7 @@ async def duplicates(request: Request):
 
 
 @app.get("/additions")
+@app.head("/additions")
 @cache_response
 async def additions_page(request: Request):
     """Page with links to all words that are additions to the original dictionary."""
@@ -482,6 +483,7 @@ async def additions_page(request: Request):
 
 
 @app.get("/stats")
+@app.head("/stats")
 @cache_response
 async def stats(request: Request):
     """Page with statistics on dictionary entries."""
@@ -525,6 +527,7 @@ async def stats(request: Request):
 
 
 @app.get("/apidoc")
+@app.head("/apidoc")
 @cache_response
 async def apidoc(request: Request):
     """Page with API documentation."""
