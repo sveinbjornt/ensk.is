@@ -451,17 +451,17 @@ thesis n. lærdómssetning; verkefni (í skóla); ritgerð ([doctoral ~]); ft. [
 thews n. ft. vöðvar; kraftar
 thewy l. vöðvasterkur
 they fn. þeir, þær, þau
-thick l. þykkur; þéttur; dimmur; óskýr; [to speak ~] vera ioðmæltur; [~ of hearing] þungheyrður
+thick l. þykkur; þéttur; dimmur; óskýr; heimskur, vitlaus; [to speak ~] vera loðmæltur; [~ of hearing] þungheyrður
 thicken s. þétta; gera (e-ð) þykkt eða þykkara; þykkna; þéttast; aukast
 thicket n. þykkur skógarrunnur
-thick-headed l. skilningsdaufur
+thick-headed l. skilningsdaufur, heimskur, vitlaus
 thickness n. þykkleiki, digurð; [~ of hearing] heyrnardeyfð
 thickly ao. þykkt; þétt
 thickset l. þéttur, þéttvaxinn, samanrekinn
 thief n. þjófur
 thieve s. stela
 thievery n. þjófnaður
-thievish l. þjófóttur, þjófgefinn, stelvís
+thievish l. þjófóttur, stelvís, þjófgefinn
 thigh n. læri
 thighbone n. lærleggur
 thighjoint n. mjaðmarliður
@@ -470,20 +470,21 @@ thimble n. fingurbjörg
 thimbleful n. fingurbjörg af e-u
 thin l. þunnur; mjór, grannur, magur; fáskipaður, illa sóttur ([~ meeting]); s. þynna; þynnast
 thinness n. þynnka; megurð; strjálleiki, fæð
-thin-skinned l. hörundsár
+thin-skinned l. hörundsár, viðkvæmur
 thine fn. þinn
-thing n. hlutur; [the poor ~] vesalingurinn; [my ~s] farangur minn, böggur mínar
+thing n. hlutur; [the poor ~] vesalingurinn; [my ~s] farangur minn, böggur mínar, eignir mínar
 think s. hugsa; ætla, hyggja, halda; [~ much of] meta mikils
 thinker n. hugsuður, hugsandi maður; spekingur, djúphyggjumaður ([a deep ~])
 thinking n. hugsun; ætlun, hyggja
 third l. þriðji; n. þriðji hluti
 thirdly ao. í þriðja lagi
-thirst n. þorsti; s. þyrsta
+thirst n. þorsti; s. þyrsta (eftir [for])
 thirteen l. þrettán
 thirteenth l. þrettándi
 thirtieth l. þrítugasti
 thirty l. þrjátíu
-this fn. þessi; [~ morning] í morgun; [~ day next week] þennan dag í næstu viku; ft. [these]
+this fn. þessi; [~ morning] í morgun; [~ day next week] þennan dag í næstu viku
+these fn. ft. þessir, þessar, þessi, þetta ([~ people] þetta fólk)
 thistle n. þistill
 thistly l. vaxinn þistlum; broddóttur
 thither ao. þangað
@@ -493,15 +494,15 @@ thong n. þvengur, ól, reim; s. berja með ól, lemja
 thorax n. brjóst, bringa
 thorn n. þyrnir; þyrnirunni
 thorny l. þyrnafullur; broddóttur
-thorough l. algjör, fullkominn, vandlegur
-thoroughbred l. prýðilega menntaður; hreinkynjaður (um hesta)
+thorough l. ítarlegur, gagnger, vandlegur, algjör, fullkominn
+thoroughbred l. prýðilega menntaður; hreinkynjaður (um ræktun dýra)
 thoroughfare n. fjölfarið stræti, aðalstræti; farleið (skipa); [no ~] öll umferð bönnuð
-thoroughgoing l. gagngjör
-thoroughly ao. rækilega, vandlega, ítarlega
+thoroughgoing l. gagnger, gagngjör
+thoroughly ao. rækilega, vandlega, ítarlega, algerlega
 thorough-paced l. fullkominn; rammur
 thorp n. þorp
 thou fn. þú; s. þúa
-though st. þó að, þótt; þó; [as ~] rétt eins og
+though st. þótt, þó að; þó; [as ~] rétt eins og
 thought n. hugsun; umhugsun; ætlun; ögn ([a ~ longer]); [on (upon) second ~] við nákvæmari íhugun
 thoughtful l. hugsandi; alvörugefinn; hugsunarsamur, aðgætinn
 thoughtless l. hugsunarlaus

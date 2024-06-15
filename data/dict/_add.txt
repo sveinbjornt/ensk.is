@@ -4469,4 +4469,7 @@ debugging n. aflúsun, kembing, villukembing (leiðrétting á villum í hugbún
 debugger n. aflúsunarhugbúnaður, villukembir (sjá %[debug]%)
 cobbled l. steinlagður, steini lagður ([~ streets])
 dolomite n. dólómít (steintegund)
+killer whale n. háhyrningur
+white grampus n. mjaldur
+
 # exfoliant

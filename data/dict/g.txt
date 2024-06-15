@@ -583,31 +583,31 @@ grainy l. kornóttur
 grallatorial l. [~ bird] vaðfugl
 grallatory l. [~ foot] vaðfótur
 graminivorous l. grasétandi; [~ animal] grasæta
-grammar n. málmyndalýsing, málfræði; [bad ~] rangt mál, málleysa
+grammar n. málfræði, málmyndalýsing; [bad ~] rangt mál, málleysa, léleg málfræði
 grammar school n. latínuskóli, lærður skóli, menntaskóli
 grammarian n. málfræðingur
-grammatical l. sem lýtur að málfræði eða málmyndalýsingu, málfræði-
+grammatical l. málfræði-, sem lýtur að málfræði eða málmyndalýsingu,
 grammatically ao. málfræðilega
 gramme n. gramm
 gramophone n. plötuspilari, grammófónn
 grammophone n. plötuspilari, grammófónn
 grample n. krabbi
-grampus n. háhyrningur (hvalur); [white ~] mjaldur
+grampus n. háhyrningur
 granary n. kornhlaða, kornloft, kornbúr, kornforðabúr
 grand l. stór, mikill; ágætur, fagur; veglegur
 grandchild n. barnabarn
 granddad n. afi
-granddaughter n. sonar- eða dótturdóttir
-grandfather n. föður- eða móðurfaðir, afi
-grandmother n. amma
-grandsire n. afi; ættfaðir
-grandson n. sonar- eða dóttursonur
+granddaughter n. sonar- eða dótturdóttir, kvenkyns barnabarn
+grandfather n. afi, föður- eða móðurfaðir
+grandmother n. amma, föður- eða móðurmóðir
+grandsire n. ættfaðir; afi
+grandson n. sonar- eða dóttursonur, karlkyns barnabarn
 grandam n. amma; gömul kona
 grandee n. stórmenni, stórgæðingur (á Spáni)
 grandeur n. tign, skraut
-grandiloquence n. orðagjálfur; gort
-grandiloquent l. raupsamur
-grandiloquous l. raupsamur
+grandiloquence n. orðagjálfur; gort; stórmæli
+grandiloquent l. raupsamur, stórmæltur
+grandiloquous l. raupsamur, stórmæltur
 grandiose l. mikilfenglegur, viðhafnarlegur
 grandiosity n. mikilfengleiki
 grandisonant l. hljómmikill
