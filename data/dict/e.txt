@@ -127,8 +127,7 @@ eerie l. óhugnanlegur, ægilegur; hræðslufullur, kvíðafullur
 eery l. óhugnanlegur, ægilegur; hræðslufullur, kvíðafullur
 efface s. þurrka út (eða af); afmá; eyða
 effaceable l. afmáanlegur
-effect n. afleiðing; árangur; áhrif; [~s] ft. munir; lausafé; lausir aurar; húsgögn ([household ~s]); [bring to ~, carry into ~] framkvæma; [take ~] hafa tilætluð áhrif, hrífa; öðlast gildi (um lög og samninga); [of no ~] árangurslaus; [to the ~ that] á þá leið, að; [in ~] í rauninni; í raun og veru
-effect s. koma til leiðar; framkvæma; gjöra
+effect n. afleiðing; árangur; áhrif; [~s] ft. munir; lausafé; lausir aurar; húsgögn ([household ~s]); [bring to ~, carry into ~] framkvæma; [take ~] hafa tilætluð áhrif, hrífa; öðlast gildi (um lög og samninga); [of no ~] árangurslaus; [to the ~ that] á þá leið, að; [in ~] í rauninni; í raun og veru; s. koma til leiðar; framkvæma; gjöra
 effective l. sem hefur (tilætluð) áhrif; áhrifamikill; raunverulegur; starfhæfur; vopnfær
 effectively ao. í rauninni; algerlega; kröftuglega
 effectless l. áhrifalaus; gagnslaus
@@ -204,8 +203,7 @@ ejaculatory prayer n. bænarkvak
 eject s. kasta út; reka út eða burt; bera út (af eign)
 ejection n. útkast; burtrekstur
 ejectment n. burtrekstur, útrekstur; útburður (af eign)
-eke s. auka; [~ out] bæta upp; drýgja (mat eða drykk); lengja, fylla (upp); [~ out a subsistence] hafa ofan af fyrir sér (með e-u [by])
-eke ao. einnig, og
+eke s. auka; [~ out] bæta upp; drýgja (mat eða drykk); lengja, fylla (upp); [~ out a subsistence] hafa ofan af fyrir sér (með e-u [by]); ao. einnig, og
 elaborate l. vandaður, vandvirknislegur; nákvæmur ([an ~ explanation, study]); s. búa til vandvirknislega, vanda; mynda, framleiða; ræða nánar ([would you care to ~?])
 elaboration n. tilbúningur; vöndun; myndun
 elain n. olíuefni
@@ -867,10 +865,9 @@ esprit n. fjör og fyndni í ræðu og riti, andríki
 espy s. njósna; verða var við, koma auga á; gæta, horfa
 Esquimaux n. Eskimói
 esquire n. skjaldsveinn, riddarasveinn; herra (skammstafað Esq.)
-essay n. tilraun ([to make an ~ at something]); ritgerð (um e-ð [on])
-essay s. reyna, prófa; freista (e-s)
-essayal n. raun; [to make ~] of reyna
-essayist n. ritgerðahöfundur
+essay n. ritgerð (um e-ð [on]); tilraun ([to make an ~ at something]); s. reyna, prófa; freista (e-s)
+essayal n. raun; [to make ~ of] reyna
+essayist n. ritgerðahöfundur, ritgerðasmiður
 essence n. (andleg) vera; undirstöðuefni; innra eðli (hlutarins); aðalefni, kjarni; heilsuvökvi; ilmvökvi
 essential l. verulegur; nauðsynlegur; mikilvægur; n. höfuðatriði
 essentiality n. veruleiki
@@ -1347,8 +1344,7 @@ extortionate l. harður í kröfum; [at ~ prices] fyrir ránverð
 extortioner n. kúgari
 extortive l. kúgunar- ([~ power])
 extra ao. auka- ([~ pay]); óvenjulega ([~ fine tallow]); að auki, aukreitis; n. aukaatriði; viðaukablað; aukaborgun
-extract s. draga út ([~ a tooth]); veiða e-ð (upp úr e-m [from]); gera útdrátt úr (bók)
-extract n. útdráttur; seyði
+extract n. útdráttur; seyði; s. draga út ([~ a tooth]); veiða e-ð (upp úr e-m [from]); gera útdrátt úr (bók)
 extraction n. útdráttur; seyði; ætterni
 extradite s. framselja (erlendan glæpamann)
 extradition n. framsal

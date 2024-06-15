@@ -1378,9 +1378,8 @@ do n. bragð, svik
 doable l. gjörlegur, geranlegur
 docile l. námfús; auðsveipur, viðráðanlegur, þægur
 docility n. námfýsi; auðsveipni, þægð ([to obey with ~])
-dock n. skipakví; s. setja í skipakví
 dockyard n. skipasmíðastöð
-dock n. (stýfður) stertur, dokkur; súra (jurt); s. stýfa, stytta; skerða ([~ the wages]); svipta (e-n e-u [of])
+dock n. skipakví; (stýfður) stertur, dokkur; súra (jurt); s. setja í skipakví; stýfa, stytta; skerða ([~ the wages]); svipta (e-n e-u [of])
 docket n. merkiseðill; útdráttur (úr dómi); efnisskrá; s. merkja (vörusendingar); gera útdrátt úr
 doctor n. læknir; doktor (nafnbót); s. lækna; laga, gera við; falsa
 doctoral l. doktorslegur, doktors- ([~ title])
@@ -1703,9 +1702,8 @@ ducal l. hertogalegur
 ducat n. dúkati (peningur), gulldalur
 duchess n. hertogafrú
 duchy n. hertogadæmi
-duck n. þunnur segldúkur, strigi
 ducks n. ft. strigabuxur
-duck n. önd; hneiging (með höfðinu); [play (at) ~s and drakes] láta steinvölur flytja kerlingar; [make ~s and drakes of/with money] sóa fé; s. dýfa (stinga) höfðinu í vatn; kaffæra ([~ in, into, under water]); hneigja (höfuðið); stinga sér; hneigja sig snöggt
+duck n. önd; hneiging (með höfðinu); [play (at) ~s and drakes] láta steinvölur flytja kerlingar; [make ~s and drakes of/with money] sóa fé; þunnur segldúkur, strigi; s. dýfa (stinga) höfðinu í vatn; kaffæra ([~ in, into, under water]); hneigja (höfuðið); stinga sér; hneigja sig snöggt
 ducking n. kaffæring
 duckling n. andarungi
 duct n. pípa

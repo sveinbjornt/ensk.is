@@ -193,9 +193,8 @@ favourable l. vinveittur, hlynntur; hagstæður
 favourably ao. vingjarnlega
 favourite n. vildarmaður, uppáhald; l. uppáhalds-
 favouritism n. meðhald
-fawn n. hindarkálfur; s. bera (um hind)
 fawn-coloured l. gulbrúnn, mórauður
-fawn s. flaðra (upp um [upon])
+fawn s. flaðra (upp um [upon]); bera (um hind); n. hindarkálfur
 fawner n. flaðrari
 fawning n. flaður
 fay n. álfkona, huldukona
@@ -274,8 +273,7 @@ fellow feeling n. samhyggja
 fellow heir n. samarfi
 fellowship n. félagsskapur; samfélag, samneyti, mök; félagsreikningur
 fellow traveller n. samferðamaður
-felly n. hjólbogi
-felly ao. grimmilega; sbr. %[fell]%
+felly n. hjólbogi; ao. grimmilega; sbr. %[fell]%
 felon n. glæpamaður
 felonious l. glæpsamlegur; grimmur, vondur; mannskæður (um vopn)
 felony n. glæpur, ódæðisverk
@@ -453,9 +451,7 @@ find s. finna; hitta; útvega ([~ money, bail, security]); kveða upp ([the jury
 findable l. finnanlegur
 finder n. finnandi
 finding n. fundur, uppgötvun; úrskurður (kviðdóms)
-fine n. fésekt, útlát; s. sekta
-fine n. [in ~] að lokum
-fine l. fallegur, fagur; smár, fínn; hreinn, tær (um lög); skír (um málma); egghvass, beittur; næmur ([a ~ ear]); s. skíra (vín eða málma); skírast, verða glær; [~ away, down] þynna; þynnast, smáeyðast
+fine l. fallegur, fagur; smár, fínn; hreinn, tær (um lög); skír (um málma); egghvass, beittur; næmur ([a ~ ear]); s. sekta; skíra (vín eða málma); skírast, verða glær; [~ away, down] þynna; þynnast, smáeyðast; n. fésekt, útlát; s. ao. [in ~] að lokum
 fine-draw s. sauma saman (rifu), svo að ekki beri á saumnum
 fine-drawn l. grannur; hárfínn
 fineness n. fegurð; grannleiki, fínleiki; skírleiki (málma)
@@ -668,7 +664,7 @@ flexuous l. bugðóttur; sveigjanlegur
 flibbertigibbet n. skrafskjóða; púki
 flick n. laust högg; rykkur; smellur; kvikmynd (óforml.) s. slá laust (með keyri eða þ.k.); flögra; titra
 flicker s. baða vængjum; flögra; flökta, blakta; n. flökt, blakt
-flier n. sveifluhjól; flóttamaður (sjá %[flyer]%)
+flier n. n. flugfarþegi; fljúgandi skepna; sveifluhjól; flóttamaður (sjá %[flyer]%)
 flight n. flótti; flug; fuglahópur (á flugi); [a ~ of stairs] stigi; [to put to ~] reka á flótta; [take a ~] fljúga upp; [to take ~] leggja á flótta
 flightiness n. hviklyndi, hringlandi
 flighty l. hviklyndur, hringlandalegur
@@ -763,7 +759,6 @@ flux n. flóð; aðfall ([~ and reflux]); straumur, rennsli; [bloody ~] blóðs�
 fluxion n. rennsli; breyting
 fly s. fljúga; flýja; blakta; láta fljúga eða blakta; [~ a kite] setja upp pappírsdreka; [~ at] fljúga á, ráðast á; [~ into a passion] verða fjúkandi (eða fok-) vondur; [~ off] ganga undan; [~ out] þjóta út; stökkva upp (í reiði)
 flyer n. flugfarþegi; fljúgandi skepna; dreifibréf, dreifiseðill
-flier n. flugfarþegi; fljúgandi skepna
 flying l. fljúgandi; flaksandi; blaktandi; [with ~ colours] sigri hrósandi; [~ fish] flugfiskur
 fly n. fluga; léttivagn; sveifluhjól; flagglengd; [to change a ~ into an elephant] gera úlfalda úr mýflugunni
 flyblow n. víur, maðkur (í kjöti)
