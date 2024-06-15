@@ -3241,10 +3241,10 @@ counterrevolution n. gagnbylting
 professoriate n. prófessorastétt
 ghetto n. gettó, fátækrahverfi; Gyðingahverfi
 underclass n. undirstétt
-geopolitics n. ft. landfræðistjórnmál, landfræðipólitík, heimsstjórnmál, heimspólitík
-geopolitical l. landfræðistjórnmála-, landfræðipólitískur, heimsstjórnmála-, heimspólitískur
-geopolitician n. heimspólitíkus, heimsstjórnmálamaður, landfræðistjórnmálamaður
-monophonic l. einóma, einrása
+geopolitics n. ft. stjórnmál heimsins, heimsstjórnmál, heimspólitík, landfræðistjórnmál, landfræðipólitík
+geopolitical l. heimsstjórnmála-, heimspólitískur, landfræðistjórnmála-, landfræðipólitískur
+geopolitician n. heimspólitíkus, heimsstjórnmálamaður, landfræðistjórnmálamaður, landfræðipólitíkus
+monophonic l. einóma, einrása, einhljóma
 stereophonic l. víðóma, tvírása
 undulant l. bylgjandi, sem gengur í bylgjum
 typhoid n. taugaveiki ([~ fever])
@@ -4456,3 +4456,8 @@ exciting l. spennandi, æsandi
 unexciting l. óspennandi
 extra-terrestrial l. utan jarðarinnar, úr geimnum kominn, geim-; n. geimvera ([~ being, creature, lifeform])
 Rhodes n. Ródos (eyja í austurhluta Miðjarðarhafsins)
+Eskimo n. Eskimói
+dengue fever n. beinbrunasótt
+exfoliative l. flögnunar-, afblöðunar-
+diva n. díva, söngstjarna, söngdrottning, tónlistarkona sem nýtur mikillar frægðar og aðdáunar; sterk, sjálfsörugg manneskja sem krefst mikils og vekur mikla athygli
+# exfoliant
