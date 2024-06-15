@@ -843,11 +843,10 @@ eruptive l. gjósandi; myndaður við eldgos ([~ rocks]); [~ disease] útbrotasj
 erysipelas n. heimakoma (sjúkdómur)
 escalade s. klifra (komast) upp á (virkismúr á stigum); n. uppganga (á múr)
 escapade n. strok (úr varðhaldi), flótti ([to make an ~]); léttúðarfullt tiltæki
-escape n. undankoma, flótti; leki ([~ of gas]); björgunarstigi ([fire-~]); [there is no ~] ekkert undanfæri; [make one's ~] komast undan; [have a narrow ~] komast naumlega undan
-escape s. komast undan; sleppa; komast hjá (e-u); forðast; dyljast fyrir (e-m); [it ~d me] mér varð á að segja það; [his name ~s me] ég kem ekki fyrir mig, hvað hann heitir
+escape s. komast undan; sleppa; komast hjá (e-u); forðast; dyljast fyrir (e-m); [it ~d me] mér varð á að segja það; [his name ~s me] ég kem ekki fyrir mig, hvað hann heitir; n. undankoma, flótti; leki ([~ of gas]); björgunarstigi ([fire-~]); [there is no ~] ekkert undanfæri; [make one's ~] komast undan; [have a narrow ~] komast naumlega undan
 escapement n. hemill í úri
 escape valve n. öryggisspjald
-escarp n. (virkis)-brekka; s. gera brekku
+escarp n. (virkis)brekka; s. gera brekku
 escarpment n. brekka; hallandi
 escheat s. gera (land) upptækt; falla undir (konung eða ríkið); n. jarðeign, sem fellur undir konung eða ríkið
 eschew s. forðast, sneiða hjá ([~ evil, all connection with])

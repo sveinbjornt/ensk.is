@@ -25,8 +25,7 @@ dalliance n. kjass, flírulæti; glens
 dally s. kjassast, leika sér; drolla
 Daltonian n. litblindur maður
 daltonism n. litblinda (blandar saman grænu og rauðu)
-dam n. týja
-dam n. stífla, flóðgarður; s. hlaða fyrir, stífla (oft [to ~ up])
+dam n. stífla, flóðgarður; týja; s. hlaða fyrir, stífla (oft [to ~ up])
 damage n. skaði, tjón; ft. skaðabætur; s. skaða, skemma; spilla fyrir ([you will only ~ your cause]); skemmast
 damageable l. sem er hætt við að skemmast ([goods easily ~]); skaðlegur
 damascene s. rista rósir í stál
@@ -653,8 +652,7 @@ desperately ao. ákaflega
 desperation n. örvænting, örvinglun; æði, sturlun
 despicable l. fyrirlitlegur, auðvirðilegur
 despise s. fyrirlíta; hafna
-despite n. illska; mótþrói; [to do ~ to] svívirða
-despite fs. þrátt fyrir ([in ~ of])
+despite fs. þrátt fyrir ([in ~ of]); n. illska; mótþrói; [to do ~ to] svívirða
 despiteful l. illskufullur
 despoil s. ræna; svipta e-n e-u ([~ one of his arms])
 despoiler n. ræningi
@@ -747,9 +745,8 @@ devilkin n. smádjöfull
 devilry n. djöflagangur; djöfullegt athæfi
 devious l. afskekktur; hlykkjóttur; reikandi, reikull
 devisable l. arfgæfur
-devise s. hugsa upp, finna upp; gefa (einkum fasteign) með arfleiðsluskrá
+devise s. hugsa upp, finna upp; gefa (einkum fasteign) með arfleiðsluskrá; n. arfleiðsluskrá; arfleiðslugjöf (í fasteign)
 deviser n. upphafsmaður
-devise n. arfleiðsluskrá; arfleiðslugjöf (í fasteign)
 devisor n. arfleiðandi
 devoid l. tómur; laus (við [of])
 devolution n. hrun, fall; tilfall (arfs); flutningur, færsla (frá einum til annars); úrkynjun
@@ -1425,8 +1422,7 @@ dogmatize s. gera fullyrðingar (um e-ð [upon])
 doing n. athöfn, verk ([it is all his ~]); framkvæmd ([much talking, and little ~])
 doit n. lítill (hollenskur) peningur; ögn ([not worth a ~, not to care a ~])
 doldrums n. ft. vont skap, ólund ([be in the ~]); logn; lognbelti ([Equatorial ~])
-dole n. hluti, skammtur; s. [~ out] skammta, útbýta, úthluta
-dole n. sorg, harmur
+dole n. hluti, skammtur; atvinnuleysisbætur ([on the ~]); sorg, harmur; s. [~ out] skammta, útbýta, úthluta
 doleful l. sorglegur, raunalegur, sorgfullur; dapur í bragði
 dolerite n. grágrýti
 dolichocephalic l. langhöfðaður

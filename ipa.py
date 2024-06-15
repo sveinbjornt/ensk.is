@@ -710,6 +710,9 @@ SKIP = frozenset(
         "extra-terrestrial",
         "Rhodes",
         "exfoliative",
+        "debugger",
+        "debugging",
+        "unturbulent",
     )
 )
 

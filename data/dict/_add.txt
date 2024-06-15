@@ -4463,4 +4463,10 @@ diva n. díva, söngstjarna, söngdrottning, tónlistarkona sem nýtur mikillar 
 sepsis n. blóðsótt, blóðsýking; graftarsótt, sýklasótt
 perturbed l. truflaður, ringlaður, raskaður
 unperturbed l. ótruflaður, óraskaður, óringlaður
+unturbulent l. kyrr, ekki ókyrr; stýrilátur
+debug s. aflúsa, kemba, villukemba (leiðrétta villlur í hugbúnaði)
+debugging n. aflúsun, kembing, villukembing (leiðrétting á villum í hugbúnaði)
+debugger n. aflúsunarhugbúnaður, villukembir (sjá %[debug]%)
+cobbled l. steinlagður, steini lagður ([~ streets])
+dolomite n. dólómít (steintegund)
 # exfoliant

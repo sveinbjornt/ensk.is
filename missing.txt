@@ -24,8 +24,6 @@ locator
 affiliation
 collaborative
 elected
-debug
-debugger
 Latino
 preterperfect
 corps
