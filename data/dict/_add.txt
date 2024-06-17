@@ -278,7 +278,7 @@ calisthenic l. leikfimi-, leikfimiæfinga-
 automation n. sjálfvirkni; sjálfvirknivæðing
 automate s. sjálfvirknivæða, gera sjálfvirkt
 automatable l. sjálfvirknivæðanlegur (sjá %[automate]%)
-bot n. (stytt. á %[robot]%) vélmenni, þjarkur
+bot n. (stytt. á %[robot]%) vélmenni, þjarkur, vélþræll
 tweeze s. snyrta með flísatöng
 aerodrome n. flugvöllur, flugstöð
 airport n. flugvöllur, flugstöð, flughöfn
@@ -1447,9 +1447,9 @@ spliff n. jóna, kannabisvindlingur (óforml.)
 doobie n. jóna, kannabisvindlingur (óforml.)
 narcolepsy n. drómasýki
 narcoleptic n. drómasjúkur; n. drómasjúkur einstaklingur
-autism n. einhverfa (þroskaröskun)
+autism n. einhverfa, sjálfhverfa (þroskaröskun)
 autism spectrum n. einhverfuróf
-autistic l. einhverfur
+autistic l. einhverfur, sjálfhverfur
 narcissism n. sjálfsást, sjálfsdýrkun, narsissismi
 narcissistic l. sjálfselskandi, sjálfsdýrkandi, narsissískur, narsissistískur
 narcissist n. narsissisti, e-r sem elskar eða dýrkar sjálfan sig
@@ -2430,7 +2430,7 @@ mechanization n. vélvæðing
 breadbasket n. brauðkarfa
 co-founder n. meðstofnandi
 concatenated l. samtengdur, hlekkjaður saman, skeyttur saman, samskeyttur
-robot n. vélmenni, vélþræll, þjarkur
+robot n. vélmenni, þjarkur, vélþræll
 robotic l. sjálfstýrður; vélrænn; þjarka-, vélmennis-; [~ surgery] þjarkaskurðlækningar
 robotics n. ft. þjarkafræði, vélmennafræði (sjá %[robot]%)
 rebalance s. koma aftur í jafnvægi
@@ -3401,7 +3401,7 @@ Venice n. Feneyjar
 paternoster n. Faðirvorið (kristin bæn)
 self-sacrifice n. sjálfsfórn
 undergrad n. sjá %[undergraduate]%
-robotization n. vélmennavæðing
+robotization n. vélmennavæðing, þjarkvæðing
 quintile n. fimmtungur
 upload s. hala upp, hlaða upp; n. upphal
 uploadable l. upphalanlegur
