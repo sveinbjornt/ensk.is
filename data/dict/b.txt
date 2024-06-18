@@ -792,7 +792,7 @@ boast s. gorta, grobba, monta; stæra sig, vera hreykinn (af e-u [of]) n. gort, 
 boaster n. gortari, grobbari, montari
 boastful l. grobbinn, montinn (af e-u [of, in])
 boasting n. gort, grobb, mont
-boat n. bátur, skip, s. flytja (á bát eða skipi); fara (róa, sigla) á báti
+boat n. bátur, skip; s. flytja (á bát eða skipi); fara (róa, sigla) á báti
 boathook n. bátshaki
 boathouse n. naust
 boating n. skemmtiróður á bátum

@@ -1836,11 +1836,12 @@ specimen n. sýnishorn, dæmi
 specious l. álitlegur, glæsilegur; fagur (réttur) að ytra útliti, yfirvarps-
 speck n. blettur, depill; spik (á hvölum); s. bletta
 speckle n. lítill blettur, díli, drafna; s. gera dílótt (dröfnótt, deplótt)
-spectacle n. sjón; sýning; [a deplorable ~] hörmuleg sjón; ft. gleraugu ([a pair of ~s])
+spectacle n. sjón; sýning; [a deplorable ~] hörmuleg sjón
+spectacles n. ft. gleraugu ([a pair of ~s]); sýningar
 spectacled l. með gleraugu
 spectacle case n. gleraugnahús
 spectacle frame n. gleraugnaumgjörð
-spectacular l. l. stórbrotinn, tilkomumikill; sem lýtur að sjónleikum
+spectacular l. stórbrotinn, tilkomumikill; sem lýtur að sjónleikum
 spectator n. áhorfandi
 spectral l. vofulegur; litrófslegur, ljósbrotslegur
 spectre n. vofa, draugur

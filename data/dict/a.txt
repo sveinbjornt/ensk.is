@@ -836,7 +836,7 @@ amaranthine l. eilífur
 amass s. hrúga saman, raka saman ([~ a fortune])
 amateur n. (ólærður) áhugamaður; (list)unnandi
 amatorial l. ástar-
-amaze n. undrun, s. vekja undrun, gera forviða
+amaze n. undrun; s. vekja undrun, gera forviða
 amazed l. forviða
 amazement n. undrun
 amazing l. furðanlegur; frábær, magnaður (óforml.)
@@ -1616,7 +1616,7 @@ attestation n. vitnisburður; sönnun ([in ~ of]); undirskrift í viðurvist vot
 attic n. þakherbergi
 Attic l. attískur, frá Attíku
 atticism n. attnesk málvenja; smekkvísi í máli
-attire s. klæða, búa, n. klæðnaður, búningur
+attire n. klæðnaður, búningur; s. klæða, búa
 attitude n. staða, stellingar; framkoma, hegðun; [~ of mind] hugarástand; [to strike an ~] setja sig í stellingar
 attitudinize s. vera tilgerðarlegur í látbragði, bera sig tilgerðarlega
 attorney n. umboðsmaður; málaflutningsmaður; [power of ~] fullt umboð

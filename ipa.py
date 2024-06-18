@@ -713,6 +713,10 @@ SKIP = frozenset(
         "debugger",
         "debugging",
         "unturbulent",
+        "ambipedal",
+        "palletization",
+        "tripedal",
+        "tripodal",
     )
 )
 

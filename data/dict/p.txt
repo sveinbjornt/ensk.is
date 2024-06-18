@@ -74,13 +74,13 @@ palatial l. hallarlegur; mikilfenglegur ([~ edifices])
 palatinate n. hallargreifadæmi
 palatine n. hallargreifi ([count ~])
 palaver n. samræða; hégómatal; s. skjalla; masa, skeggræða
-pale l. bleikur, fölur; ljós; s. blikna; fölna; gera fölan
-pale-faced l. fölur í andliti
+pale l. fölur, bleikur; ljós; s. blikna; fölna; gera fölan
+pale-faced l. andlitsfölur, fölur í andliti
 palehearted l. huglaus
 paleness n. fölleiki
 pale n. staur, stólpi (í girðingu); umráðasvið ([within/outside/beyond the ~]); ft. girðing, umgirt svæði; s. girða með grindum, umgirða ([~ in])
 paleography n. forn rithönd; fornletrafræði
-paleology n. fornfræði
+paleology n. fornfræði, forngripafræði
 paletot n. yfirfrakki
 palette n. palletta; spjald sem málarar blanda liti á, litaspjald
 palfrey n. reiðhestur; kvenhestur
@@ -92,7 +92,7 @@ palish l. fölleitur
 pall n. viðhafnarkápa páfa og erkibiskupa; líkkistuklæði; s. hylja með svörtu klæði
 pall s. verða bragðdaufur; dofna; deyfa ([~ the senses]); ofmetta, gera leiðan, þreyta ([~ the stomach, ~ readers])
 palladium n. palladín, palladíum (frumefni); líkneski gyðjunnar Pallas; hlífiskjöldur
-pallet n. rúmflet
+pallet n. vörubretti, hleðslubretti, flutningsbretti, palletta; rúmflet
 palliate s. hylja; fegra, afsaka; lina (sjúkdóm)
 palliation n. fegrun; afsökun; ([in ~ of his evil deeds]); linun, fróun
 palliative l. afsakandi; linandi; n. fróunarlyf
@@ -198,8 +198,8 @@ paralogism n. röng ályktun
 paralogy n. röng ályktun
 paralogize s. draga ranga ályktun
 paralyse s. lama, gera aflvana
-paralysis n. aflleysi, lömun
-paralytic l. afllaus, visinn
+paralysis n. lömun, aflleysi
+paralytic l. afllaus, aflvana, visinn
 paramount l. æðstur, mestur; [~ to] æðri (meiri) e-u; [of ~ importance] einkar mikilvægt; n. yfirdrottnari ([lord ~])
 paramour n. elskhugi, friðill; hjákona
 parapet n. brjóstvörn, brjóstvirki; handrið (með brú)
@@ -551,7 +551,7 @@ penguin n. mörgæs
 peninsula n. skagi; nes
 peninsular l. skagamyndaður
 penitence n. iðrun
-penitent l. iðrandi. n. iðrandi syndari, skriftabarn
+penitent l. iðrandi; n. iðrandi syndari, skriftabarn
 penitential l. iðrunar-; iðrunarfullur
 penitentiary l. yfirbótar-, iðrunar-; n. betrunarhús; skriftafaðir
 penknife n. vasahnífur
