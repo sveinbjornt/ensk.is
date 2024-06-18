@@ -4491,5 +4491,15 @@ mugger n. ræningi
 paralysed l. lamaður, aflvana
 burglarize s. brjótast inn, fremja innbrotsþjófnað
 osteoarthritis n. slitgigt, liðahrörnun
-anyway ao. hvort eð er, hvort sem er, samt, samt sem áður; allavega
+anyway ao. hvort eð er, hvort sem er, samt, samt sem áður, engu að síður; allavega
+rehab n. meðferð; endurhæfing; afvötnun
+urethra n. þvagrás
+aquifer n. (grunnvatns)veitir, grunnvatnsgeymir
+colostomy n. ristilraufun; [~ bag] hægðapoki
+headline n. fyrirsögn, fréttafyrirsögn, yfirskrift á síðu; höfuðlína
+copilot n. aðstoðarflugmaður
+verminous l. meindýra- (sjá %[vermin]%)
+disinfestation n. meindýraeyðing, óværueyðing
+diablerie n. svartagaldur, djöflagaldur, fjölkynngi; djöfullegheit
+diablery n. sjá %[diablerie]%
 # exfoliant

@@ -11,7 +11,6 @@ copacetic
 gourmet
 layout
 checkout
-rehab
 backup
 permalink
 derby
@@ -27,9 +26,6 @@ corps
 cat o' nine tails
 boomerang
 locus
-colostomy
-urethra
-aquifer
 induced
 seismic
 seismicity
@@ -92,7 +88,6 @@ heater
 widescreen
 consortium
 footage
-headline
 adaptor
 softball
 quad
@@ -104,7 +99,6 @@ peripheral
 hunker
 input
 housing
-archive
 listing
 rating
 media
@@ -145,7 +139,6 @@ complicit
 complicity
 surveil
 scuba
-pilot
 plane
 lexical
 indie
@@ -4020,3 +4013,4 @@ wyrm
 foyer
 cringey
 expired
+impoundment

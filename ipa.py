@@ -717,6 +717,9 @@ SKIP = frozenset(
         "palletization",
         "tripedal",
         "tripodal",
+        "diablerie",
+        "diablery",
+        "disinfestation",
     )
 )
 
