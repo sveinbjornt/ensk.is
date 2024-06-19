@@ -60,10 +60,11 @@ from dict import read_wordlist
 # Website settings
 WEBSITE_NAME = "Ensk.is"
 WEBSITE_DESC = "Opin og frjáls ensk-íslensk orðabók"
+WEBSITE_VERSION = "1.0"
 BASE_URL = "https://ensk.is"
 
 # Create app
-app = FastAPI(title=WEBSITE_NAME, openapi_url="/openapi.json")
+app = FastAPI(title=WEBSITE_NAME, description=WEBSITE_DESC, version=WEBSITE_VERSION)
 
 # Static files
 app.mount("/static", StaticFiles(directory="static"), name="static")
@@ -280,7 +281,7 @@ async def page(request: Request, n):
     """Return page for a single dictionary page image."""
     n = int(n)
     if n < 1 or n > 707:
-        raise HTTPException(status_code=404, detail="Blaðsíða fannst ekki")
+        raise HTTPException(status_code=404, detail="Síða fannst ekki")
 
     pad = n - 1
 

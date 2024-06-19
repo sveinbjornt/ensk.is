@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 
     Ensk.is - Free and open English-Icelandic dictionary
@@ -37,7 +36,6 @@
 
 """
 
-
 from typing import List, Dict
 
 import os
@@ -62,6 +60,7 @@ def read_wordlist(fn: str, unique: bool = True) -> List[str]:
             if line.startswith("#"):  # Skip comments
                 continue
             words.append(line)
+
     return list(set(words)) if unique else words
 
 
