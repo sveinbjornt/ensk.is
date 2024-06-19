@@ -89,9 +89,8 @@ dashing l. snarplegur; snarlegur; fleygi- ([at a dashing rate]); skrautgjarn
 dastard n. raggeit, bleyða; l. ragur, huglaus
 dastardly l. ragmennskulegur
 dastardliness n. ragmennska
-date n. dagsetning; ártal, tími; [out of ~] úreltur; [up to ~] til þessa dags; nýtísku-; s. dagsetja; vera dagsettur; eiga uppruna sinn að rekja til ([from]), telja, reikna (frá e-m tíma)
+date n. daðla; dagsetning; stefnumót; ártal, tími; [out of ~] úreltur; [up to ~] til þessa dags, nýtísku-; s. dagsetja; vera dagsettur; eiga uppruna sinn að rekja til ([from]), telja, reikna (frá e-m tíma); fara á stefnumót með (e-m [someone])
 dateless l. ódagsettur; óendanlegur; ævagamall
-date n. daðla
 date palm n. döðlupálmi
 dative n. þágufall
 datum n. heimildaratriði; staðreynd
@@ -821,8 +820,7 @@ didactics n. ft. kennslufræði ([the art of teaching])
 diddle s. eyða ([~ away time]); svíkja, hafa af e-m; drepa
 die s. deyja, andast, látast, sálast; líða undir lok; [~ of a malady (hunger, thirst)] deyja úr sjúkdómi (hungri, þorsta); [~ from a wound] deyja úr sári; [~ away] deyja smám saman, smáhverfa; líða í ómegin; [~ off] deyja hver á fætur öðrum; smáhverfa; [~ out] deyja út, líða undir lok; [~ of/with laughing] springa af hlátri; [~ an early death] deyja ungur
 die n. teningur (ft. [dice]); peningamót (ft. [dies])
-diet n. ríkisþing
-diet n. mataræði, tiltekið fæði; s. veita (e-m) fæði; tiltaka fæði handa (e-m); lifa hóflega
+diet n. mataræði, tiltekið fæði; ríkisþing; s. veita (e-m) fæði; tiltaka fæði handa (e-m); lifa hóflega, fylgja ströngu mataræði
 dietary l. mataræðislegur; n. mataræði, matarskammtur
 dietics n. heilsufræði (með tilliti til mataræðis)
 differ s. vera ólíkur (e-m [from]); vera ósamdóma (e-m [from, with])

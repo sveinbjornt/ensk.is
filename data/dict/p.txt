@@ -610,9 +610,8 @@ perceptible l. eftirtakanlegur, skynjanlegur
 perceptibly ao. merkjanlega
 perception n. sjón; skynjun; eftirtekt, varurð
 perceptive l. skynjandi; skilnings-, skynjunar- ([~ faculty])
-perch n. mælistöng; setstöng; hænsnaprik; [take one's ~] setjast; s. setjast (á stöng, grein eða tré); húka (um fugla)
+perch n. mælistöng; setstöng; hænsnaprik; [take one's ~] setjast; aborri (fiskur); s. setjast (á stöng, grein eða tré); húka (um fugla)
 perched l. sem er hátt uppi; [the convent is ~ed on a crag] stendur uppi á kletti
-perch n. aborri (fiskur)
 perchance ao. ef til vill
 percher n. trjáfugl
 percipient l. skynjandi; n. skynjandi vera
@@ -1081,11 +1080,10 @@ pistole n. spænskur peningur
 piston n. dælubulla
 pit n. gjá; náma; gröf, gryfja; víti; handarkriki ([arm~]); bóluör; gólfið (í leikhúsi); staður, þar sem hanaat fer fram; [~ of the stomach] hjartagróf; s. setja holur í; setja á móti ([against]); [~ted with the smallpox] bólugrafinn
 pit-a-pat ao. tikk-tikk; [his heart went ~] hann hafði ákafan hjartslátt; n. hjartsláttur; trítl, ótt og títt fótatak ([the ~ of the horse's hooves])
-pitch n. bik, tjara; s. bika
+pitch n. bik, tjara; tindur; efsti toppur; dýfa; hæð; tónhæð; halli (á þaki); stig; [soar a high ~] svífa hátt upp; s. bika; reka niður; festa; reisa (tjald); setja (herbúðir); kasta; stilla (hljóðfæri); steypast; höggva (um skip); [a ~ed battle] höfuðorusta; [~ into] ráðastá; [~ upon a day] taka til dag
 pitch-black l. biksvartur
 pitch-dark l. koldimmur
 pitch darkness n. niðamyrkur
-pitch n. tindur; efsti toppur; dýfa; hæð; tónhæð; halli (á þaki); stig; [soar a high ~] svífa hátt upp; s. reka niður; festa; reisa (tjald); setja (herbúðir); kasta; stilla (hljóðfæri); steypast; höggva (um skip); [a ~ed battle] höfuðorusta; [~ into] ráðastá; [~ upon a day] taka til dag
 pitcher n. stór leirkrukka, vatnskrukka
 pitchfork n. heykrókur, heykvísl; s. fleygja, þeyta; hrinda
 pitching n. kast; dýfur (um skip); steinlagður vegur
@@ -1621,9 +1619,8 @@ pound s. mylja, merja; lemja, berja
 pounder n. mar; stautur; högg; dynur
 pound n. kví, rétt (sem óskilafé er látið í); s. loka inni ([~ in])
 pour s. hella; skenkja; láta streyma; senda út; hella út ([~ out]); streyma, renna; [when it rains it ~s] sjaldan er ein báran stök; [it ~s with rain] það er húðarigning; n. straumur; demba ([~ of rain])
-pout n. það að teygja fram varirnar; ólundarkast, fýla ([in the ~s]); s. vera fúll; teygja fram (varirnar)
+pout n. það að teygja fram varirnar; ólundarkast, fýla ([in the ~s]); s. vera fúll; teygja fram (varirnar); n. fisktegund
 pouting l. ólundarfullur
-pout n. fisktegund
 pouter n. dúfutegund
 poverty n. fátækt, skortur
 poverty-stricken l. fátækur, fátæklegur

@@ -1452,8 +1452,7 @@ commode n. kommóða, dragkista; hægðastóll ([night ~])
 commodious l. hagkvæmur; rúmgóður
 commodity n. verslunarvara
 commodore n. yfirsjóliðsforingi (milli [captain] og [rear admiral]), flotadeildarforingi ([~ of the first class])
-common l. sameiginlegur ([~ cause]); almennur, algengur; óbreyttur ([~ sailor]); vanalegur, hversdagslegur ([a ~ occurrence]); almúgalegur; auðvirðilegur; [~ council] bæjarstjórn; [~ school] alþýðuskóli; [~ sense] heilbrigð skynsemi; [the ~ people] almúginn, alþýðan; [~ gender] samkyn; [~ law] venjulög; [out of the ~] óvenjulegur; [in ~] í félagsskap, saman; [have something in ~] eiga eitthvað sameiginlegt
-common n. afréttur; ítak; [~ of pasturage] réttur til beitar (í annars landi)
+common l. sameiginlegur ([~ cause]); almennur, algengur; óbreyttur ([~ sailor]); vanalegur, hversdagslegur ([a ~ occurrence]); almúgalegur; auðvirðilegur; [~ council] bæjarstjórn; [~ school] alþýðuskóli; [~ sense] heilbrigð skynsemi; [the ~ people] almúginn, alþýðan; [~ gender] samkyn; [~ law] venjulög; [out of the ~] óvenjulegur; [in ~] í félagsskap, saman; [have something in ~] eiga eitthvað sameiginlegt; n. afréttur; ítak; [~ of pasturage] réttur til beitar (í annars landi)
 commonage n. beitarréttur; sameiginlegt beitiland
 commonalty n. alþýða; félag ([the ~ of watermen])
 commoner n. alþýðumaður, ótiginn maður; þingmaður í neðri þingdeild ([House of Commons])

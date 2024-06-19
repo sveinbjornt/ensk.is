@@ -1124,6 +1124,7 @@ implosion
 heist
 scalper
 static
+antistatic
 shambolic
 modus operandi
 riskiness
@@ -3831,7 +3832,6 @@ paramountcy
 ensurance
 associationist
 contraceptive
-denudation
 folkway
 hypostasize
 hypostasized
@@ -3845,7 +3845,6 @@ transcendentalism
 transcendentalist
 copyholder
 hermetically
-crustacean
 tribalistic
 nominalist
 modality
@@ -3957,7 +3956,6 @@ organza
 consolidated
 chalet
 brilliantine
-smalltalk
 frustrating
 transducer
 descale
@@ -3966,7 +3964,6 @@ framing
 scheduling
 accused
 promo
-cooking
 racing
 parking
 generated
@@ -4017,3 +4014,4 @@ spectrogram
 ravishing
 ravishingly
 inundated
+circumdenudation

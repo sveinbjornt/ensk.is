@@ -720,6 +720,8 @@ SKIP = frozenset(
         "diablerie",
         "diablery",
         "disinfestation",
+        "diabase",
+        "denudation",
     )
 )
 
