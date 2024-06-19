@@ -70,9 +70,12 @@ PAGE_ROUTES = [
     "/zoega",
     "/all",
     "/additions",
+    "/original",
+    "/duplicates",
+    "/capitalized",
     "/robots.txt",
     "/sitemap.xml",
-    "/apidoc",
+    "/favicon.ico",
 ]
 
 
