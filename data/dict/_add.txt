@@ -3445,10 +3445,10 @@ hematologist n. blóðsjúkdómalæknir, blóðsjúkdómafræðingur
 nitwit n. bjáni, glópur, hálfviti
 bossy l. stjórnsamur, ráðríkur
 dreadlock n. dreddi (samofinn hárlokkur); [a tall man with dreadlocks] hávaxinn maður með dredda
-peppermint n. piparminta; l. með piparmintubragði
+peppermint n. piparminta; l. með piparmintubragði ([~ tea])
 downsize s. skera niður, minnka við sig
 downsizing n. niðurskurður, minnkun á stærð eða umfangi
-slumlord n. leigusali sem leigir út íbúðir í niðurníðslu eða fátækrahverfum
+slumlord n. leigudrottinn, leigusali sem leigir út íbúðir í niðurníðslu eða fátækrahverfum
 nonexistent l. ekki til, sem ekki hefur tilvist
 posse n. flokkur, leitarflokkur, liðsafli
 flatland n. flatlendi (oft í ft. [~s])
@@ -4502,4 +4502,15 @@ verminous l. meindýra- (sjá %[vermin]%)
 disinfestation n. meindýraeyðing, óværueyðing
 diablerie n. svartagaldur, djöflagaldur, fjölkynngi; djöfullegheit
 diablery n. sjá %[diablerie]%
+diabase n. díabas (bergtegund)
+ovaries n. ft. eggjastokkar
+spokesperson n. talsmaður, talskona, talsmanneskja, formælandi
+enchanting l. töfrandi; heillandi
+reshape s. endurmóta, endurlaga, endursníða (sjá %[shape]%)
+minutia n. lítið smáatriði (yfirleitt í ft., sjá %[minutiae]%)
+endlessly ao. endalaust, óendanlega
+disembowelment n. kviðrista (sjá %[disembowel]%)
 # exfoliant
+# diacritic
+# diacritical
+

@@ -834,12 +834,12 @@ miniature n. smá litmynd (eftir annarri stærri, [portrait in ~]); [in ~] í sm
 minify s. gera minni, draga úr e-u; gera lítið úr e-u
 minikin l. örsmár, ofurlítill
 minim n. agnarögn; dropi; hálfnóta
-minimal l. örsmár; minnstur, lægstur
-minimize s. gera mjög lítið úr, lágmarka
-minimum n. minnsta upphæð, lágstig, lágmark
+minimal l. örsmár; minnstur, lægstur, lágmarks-
+minimize s. gera mjög lítið úr, lágmarka, halda í lágmarki
+minimum n. minnsta upphæð, lágstig, lágmark; l. lágmarks-
 mining n. námugröftur, námuvinnsla, námustarf, námurekstur
-minion n. vildarmaður, gæðingur, uppáhald
-minister n. ráðherra ([~ for foreign affairs]); sendiherra; prestur; s. veita láta í té; [~ to] þjóna; sjá um, sjá fyrir (e-u); bæta úr (þörfum)
+minion n. útsendari, flugumaður, handbendill, skósveinn, þjónn; vildarmaður, gæðingur, uppáhald
+minister n. ráðherra ([~ for foreign affairs]); sendiherra; prestur; s. veita, láta í té; [~ to] þjóna; sjá um, sjá fyrir (e-u); bæta úr (þörfum)
 ministerial l. þjónandi; ráðherralegur; stjórnar-, fylgjandi stjórninni; embættislegur; kirkjulegur, prestslegur; n. stjórnarsinni
 ministrant l. þjónandi; n. þjónustumaður; þjónustustúlka
 ministration n. þjónusta; aðstoð; prestsleg staða; kennimannsembætti; kennidómur, klerkastétt; ráðuneyti; [enter the ~] komast í prestsstöðu; verða ráðherra; [study for the ~] lesa til að verða prestur
@@ -847,15 +847,14 @@ minium n. menja (rauðleitur litur)
 miniver n. e.k. loðskinn
 mink n. rándýr af marðarætt, sundmörður
 minnow n. vatnakarfi; hornsíli
-minor l. minni; lítilfjörlegur; ekki fjár síns ráðandi, ófullveðja, ómyndugur; n. ómyndugur maður
-minority n. ómyndugsaldur; minnihluti (atkvæða)
+minor l. minniháttar; minni; lítilfjörlegur; ekki fjár síns ráðandi, ófullveðja, ómyndugur; n. ómyndugur maður; barn undir lögræðisaldri
+minority n. minnihluti; minnihlutahópur; ómyndugsaldur, aldur undir lögræðisaldri
 Minorite n. grámunkur
 minster n. klausturkirkja; dómkirkja
-minstrel n. söngvari; skáld
+minstrel n. söngvari, farandsöngvari, hirðsöngvari; skáld, ljóðskáld, hirðskáld
 minstrelsy n. skáldskaparlist; skáldskapur; söngvar; miðaldasöngvarar
-mint s. peningasmiðja; mikil gnótt, ógrynni ([~ of money]); s. slá, móta
+mint n. mynta (plöntutegund); piparminta; peningasmiðja; mikil gnótt, ógrynni ([~ of money]); s. slá, móta
 mintage n. slegnir peningar; peningasláttur; sláttuskattur
-mint n. mynta (plöntutegund)
 minuet n. hægur dans; e.k. danslag
 minus l. & ao. mínus, að frádregnu ([7 ~ 4 is equal to 3])
 minute l. smár; lítilfjörlegur; nákvæmur; smásmuglegur
@@ -866,9 +865,9 @@ minute book n. uppkastabók; minnisbók
 minute gun n. byssa, sem skotið er af á hverri mínútu (sem neyðarmerki); neyðarskot
 minute hand n. mínútuvísir (á klukku)
 minutiae n. minnstu smáatriði
-minx n. gála, flenna, skella
+minx n. gella, gála, flenna, skella
 miracle n. kraftaverk; furðuverk
-miraculous l. yfirnáttúrlegur; undursamlegur
+miraculous l. yfirnáttúrlegur, kraftaverks-; undursamlegur
 mirage n. hillingar
 mire n. fen, forarbleyta; leðja; s. festa (eða ata) í leðju; sökkva (verða fastur) í leðju
 mirror n. spegill; s. endurspegla
@@ -879,7 +878,7 @@ miry l. blautur, forugur
 mis- fsk. áherslulaust forskeyti: mis-, rang-, van-, ó-
 misadventure n. óhapp, slys
 misadventurous l. óhappasæll
-misadvise s. gefa ill ráð
+misadvise s. gefa ill eða misvísandi ráð
 misallege s. tilgreina ranglega, misherma
 misalliance n. ójafn ráðahagur; [to make/contract a ~] taka niður fyrir sig
 misanthrope n. mannhatari
@@ -893,7 +892,7 @@ misapprehend s. misskilja
 misapprehension n. misskilningur
 misbecome s. vansæma, sæma illa
 misbecoming l. vansæmandi, ósæmilegur
-misbegotten l. laungetinn
+misbegotten l. laungetinn; vangetinn
 misbehave s. hegða sér illa
 misbehaviour n. vond (ótilhlýðileg) hegðun
 misbelief n. vantrú, röng trú
@@ -1171,9 +1170,9 @@ monosyllabic l. einkvæður, eins atkvæðis
 monosyllable n. eins atkvæðis orð
 monotheism n. eingyðistrú
 monotheist n. eingyðistrúarmaður
-monotone s. lesa, tala, syngja einræmislega; raula
-monotonous l. einræmislegur, tilbreytingarlaus, leiðinlegur
-monotony n. einræmi; tilbreytingarleysi
+monotone s. lesa, tala, syngja einræmislega; raula; l. blæbrigðalítill, einræmislegur, tilbreytingarlaus
+monotonous l. einræmislegur, einhæfur, tilbreytingarlaus, leiðinlegur, blæbrigðalítill
+monotony n. einræmi, einhæfni, tilbreytingarleysi, hversdagsleiki, leiðindi
 monsoon n. monsún, monsúnvindur (staðvindur í Indlandshafinu)
 monster n. skrímsli, ófreskja, ferlíki; varmenni, grimmdarseggur
 monstrance n. upphaldsker (í kaþólsku kirkjunni)
@@ -1523,11 +1522,10 @@ mystic n. dultrúarmaður, dulspekingur; l. leyndardómsfullur, dulspekilegur; d
 mystical l. leyndardómsfullur, dulspekilegur; dulrænn; dularfullur
 mysticism n. dultrú, dulspeki
 mystification n. gabb, blekking; gáta
-mystify s. gabba, villa e-m sjónir, leika á e-n; gera e-ð óljóst eða dularfullt
+mystify s. gera e-ð óljóst eða dularfullt; gabba, villa e-m sjónir, leika á e-n
 myth n. goðsögn; mýta; skröksaga
-mythic l. goðsagnalegur, goðsagnakenndur
-mythical l. goðsagnalegur, goðsagnakenndur
-mythological l. goðsagnalegur, goðfræðilegur
-mythologist n. goðfræðingur, goðsagnafræðingur
-mythology n. goðafræði
-endlessly ao. endalaust, óendanlega
+mythic l. goðsagnalegur, goðsagnakenndur, goðsagna- ([~ creatures, beings])
+mythical l. goðsagnalegur, goðsagnakenndur, goðsagna- ([~ creatures, beings])
+mythological l. goðsagnalegur, goðfræðilegur, goðsagna- ([~ creatures, beings])
+mythologist n. goðsagnafræðingur, goðfræðingur
+mythology n. goðafræði, goðsagnafræði

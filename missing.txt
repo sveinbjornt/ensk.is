@@ -858,7 +858,6 @@ semantic
 semantics
 semantically
 semanticist
-diacritical
 seminar
 armageddon
 prognathous
@@ -888,7 +887,6 @@ bedrock
 programmatic
 exclusivity
 schismatics
-minutia
 hindsight
 travelogue
 migrant
@@ -1471,7 +1469,9 @@ neutralization
 chiefship
 psychoanalytic
 cyclical
+thug
 thuggish
+thuggery
 sidestep
 reconstitute
 boardwalk
@@ -1505,7 +1505,6 @@ Keynesianism
 earner
 absorber
 beltway
-reshape
 roomful
 supplier
 backstop
@@ -2027,7 +2026,6 @@ downbeat
 gaffe
 fetal
 mayoral
-spokesperson
 inclusiveness
 aggregator
 runoff
@@ -2895,7 +2893,6 @@ unlit
 subpopulation
 transhistorical
 trivially
-disembowelment
 inattentiveness
 common-sense
 recategorize
@@ -4014,3 +4011,8 @@ foyer
 cringey
 expired
 impoundment
+dialer
+autodialer
+spectrogram
+ravishing
+ravishingly

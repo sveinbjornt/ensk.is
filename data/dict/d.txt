@@ -748,7 +748,7 @@ devisable l. arfgæfur
 devise s. hugsa upp, finna upp; gefa (einkum fasteign) með arfleiðsluskrá; n. arfleiðsluskrá; arfleiðslugjöf (í fasteign)
 deviser n. upphafsmaður
 devisor n. arfleiðandi
-devoid l. tómur; laus (við [of])
+devoid l. laus (við [of]); tómur
 devolution n. hrun, fall; tilfall (arfs); flutningur, færsla (frá einum til annars); úrkynjun
 devolve s. velta (e-u) niður; leggja e-m (t.d. byrði eða skyldu) á herðar ([on, upon]); falla (komast) í hendur e-m ([to/into the hands of]); falla undir e-n að erfðum; lenda á e-m ([the chief labour ~d on him]); úrkynjast
 devote s. helga (tíma sinn, alla krafta sína e-u málefni); ofurselja; [~ oneself to science] helga vísindunum starf sitt
@@ -764,7 +764,7 @@ dewfall n. náttfall
 dewlap n. hes (á nautgrip)
 dewworm n. ánamaðkur
 dewy l. döggvotur; daggar- ([~ beads])
-dexterity n. fimleiki, lagni
+dexterity n. handfimi, fimleiki, lagni, handlagni
 dexterous l. fimur, laginn, lagvirkur
 dextrous l. fimur, laginn, lagvirkur
 dextrin n. dextrín
