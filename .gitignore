@@ -84,3 +84,4 @@ static/audio/*
 
 texts/*.txt
 missing_words.txt
+venv
