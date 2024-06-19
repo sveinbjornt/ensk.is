@@ -527,16 +527,6 @@ async def stats(request: Request):
     )
 
 
-@app.get("/apidoc")
-@app.head("/apidoc")
-@cache_response
-async def apidoc(request: Request):
-    """Page with API documentation."""
-    return TemplateResponse(
-        "apidoc.html", {"request": request, "title": f"Forritaskil - {WEBSITE_NAME}"}
-    )
-
-
 @app.get("/favicon.ico")
 @app.head("/favicon.ico")
 async def favicon(request: Request):
@@ -547,7 +537,6 @@ async def favicon(request: Request):
 @app.head("/sitemap.xml")
 @cache_response
 async def sitemap(request: Request) -> Response:
-    """Sitemap generated on-demand."""
     return TemplateResponse(
         "sitemap.xml",
         {"request": request, "words": all_words},
@@ -559,7 +548,6 @@ async def sitemap(request: Request) -> Response:
 @app.head("/robots.txt")
 @cache_response
 async def robots(request: Request) -> Response:
-    """Robots.txt generated on-demand."""
     return TemplateResponse("robots.txt", {"request": request}, media_type="text/plain")
 
 
