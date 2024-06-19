@@ -140,7 +140,7 @@ def add_metadata_to_db() -> EnskDatabase:
     db.add_metadata("source", "https://github.com/sveinbjornt/ensk.is")
     db.add_metadata("editor", "Sveinbjorn Thordarson")
     db.add_metadata("editor_email", "sveinbjorn@sveinbjorn.org")
-    db.add_metadata("generation_date", datetime.datetime.utcnow().isoformat())
+    db.add_metadata("generation_date", datetime.datetime.now(datetime.UTC).isoformat())
     return db
 
 

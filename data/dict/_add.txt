@@ -351,6 +351,7 @@ smiley l. glaðlyndur; brosandi; n. broskarl (tákn)
 spam n. ruslpóstur; unnin kjötvara í niðursuðudósum; s. senda ruslpóst
 spammer n. sendandi ruslpósts
 nerd n. nörd, njörður, sérvitringur, lúði
+nerdy l. nördalegur, sérvitur, lúðalegur
 crossword n. krossgáta
 diesel n. dísill, dísilolía
 internship n. starfsnám, starfsþjálfun
@@ -1875,6 +1876,7 @@ API n. stytt. á [Application Programming Interface]; forritaskil
 hedonism n. sældarhyggja, nautnahyggja, hedónismi; nautnalíf
 hedonist n. nautnaseggur, nautnahyggjumaður, nautnasinni, hedónisti
 hedonistic l. nautna-, nautnahyggju-, hedónista- (sjá %[hedonist]%)
+hedonic l. sældar-, nautna-, ánægju-
 epicurism n. sjá %[epicureanism]%
 tuna n. túnfiskur
 albacore n. e.k. túnfiskur
@@ -4521,6 +4523,16 @@ thumbscrew n. þumalskrúfa (pyntingatæki); e.k. skrúfa
 fallout n. (geislavirkt) ofanfall, úrfall, úrfelli, ryk
 downwind l. undan vindi
 chairperson n. fundarstjóri; forseti, formaður
+splenetic l. miltissjúkur; geðstirður
+decile n. tíundarmark
+lungful n. lungnafylli
+repellant l. sjá %[repellent]%
+neuroticism n. hugsýki, taugaveiklun
+okay l. & ao. allt í lagi, ókei; uh. allt í lagi! ég skil!; s. samþykkja (óformlegt, [he ~ed it])
+OK l. sjá %[okay]%
+demote s. lækka í stöðu
+demotion n. stöðulækkun
+admittedly ao. vissulega, að vísu
 # exfoliant
 # diacritic
 # diacritical

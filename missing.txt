@@ -1570,7 +1570,6 @@ storefront
 shamble
 fiefdom
 carte blanche
-demote
 decouple
 binder
 folder
@@ -1821,7 +1820,6 @@ reinstitute
 unenthusiastic
 grassroots
 scratchy
-repellant
 cubbyhole
 honorarium
 weatherman
@@ -1893,7 +1891,6 @@ picaresque
 driveway
 billboard
 placeholder
-hedonic
 glitch
 soteriology
 unavailability
@@ -1909,7 +1906,6 @@ earhole
 subtext
 realness
 minimalist
-lungful
 freebie
 cinematic
 apologizer
@@ -1949,13 +1945,10 @@ screwball
 clueless
 summation
 shopper
-nerdy
 commuter
 bonanza
 jitter
 kerfuffle
-okay
-OK
 congregant
 unpayable
 disproven
@@ -1987,7 +1980,6 @@ minuscule
 squishy
 dropout
 extraversion
-neuroticism
 afoul
 onboard
 cinch
@@ -2029,7 +2021,6 @@ mayoral
 inclusiveness
 aggregator
 runoff
-decile
 sneaker
 prosecutorial
 constitutionality
@@ -2059,7 +2050,6 @@ craftily
 delator
 raspy
 halyard
-splenetic
 gimp
 casuist
 casuistry
@@ -2476,6 +2466,9 @@ statist
 syndicalism
 monocephalic
 barrio
+disorient
+disorientate
+disoriented
 disorientation
 overtime
 pervasiveness
@@ -3534,7 +3527,6 @@ doorstop
 peacenik
 allergic
 symbolically
-admittedly
 palaeobotanist
 bankroll
 whodunit
@@ -3724,7 +3716,6 @@ periodicity
 conjunctural
 man-made
 delapidation
-demotion
 definitional
 insanitation
 skeletonization
