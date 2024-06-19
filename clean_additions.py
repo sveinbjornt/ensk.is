@@ -1,16 +1,18 @@
 #!/usr/bin/env python3
 
+# Find all words in the database that are considered
+# additions but are not in the _add.txt file. This
+# lets us discover which words present in the original
+# dictionary lack a page number due to changes.
+
 from dict import read_raw_pages, parse_line
 from db import EnskDatabase
 
 e = EnskDatabase()
 
-
 add = [x["word"] for x in e.read_all_additions()]
 
 raw = read_raw_pages(fn="_add.txt")["_add"]
-
-# print(raw)
 
 radd = []
 

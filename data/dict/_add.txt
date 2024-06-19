@@ -86,6 +86,8 @@ baseball n. hafnabolti (bandarísk íþrótt)
 jet n. þota (þrýstiloftsflugvél)
 automobile n. bifreið, bíll, sjálfrennireið
 kleptocracy n. þjófræði (stjórnarfyrirkomulag þar sem æðstu ráðamenn stela frá almenningi)
+kleptocrat n. þjófóttur ráðamaður (sjá %[kleptocracy]%)
+kleptocratic l. þjófræðis-, þjófóttur (sjá %[kleptocracy]%)
 website n. vefsíða, vefsetur (á veraldarvefnum)
 web page n. vefsíða (á veraldarvefnum)
 homepage n. heimasíða (á veraldarvefnum)
@@ -4514,6 +4516,9 @@ cooking n. eldamennska, matreiðsla, matargerð
 small talk n. rabb, mas, kurteisishjal
 crustacean n. krabbadýr
 denudation n. berun; svipting
+single-mindedness n. stefnufesta, einbeiting
+thumbscrew n. þumalskrúfa (pyntingatæki); e.k. skrúfa
+fallout n. (geislavirkt) ofanfall, úrfall, úrfelli, ryk
 # exfoliant
 # diacritic
 # diacritical
