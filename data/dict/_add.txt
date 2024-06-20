@@ -1,4 +1,4 @@
-aardvark n. jarðsvín (riðvaxið afrískt spendýr sem nærist aðallega á maurum)
+aardvark n. jarðsvín (riðvaxið afrískt spendýr með langan rana, sem nærist aðallega á maurum)
 database n. gagnagrunnur; [the information was written to a ~]
 classroom n. kennslustofa, skólastofa; [the pupils remained in the ~]
 coedit s. meðritstýra, ritstýra ásamt öðrum; [he ~ed the dictionary] hann var meðritstjóri orðabókarinnar
@@ -4528,12 +4528,13 @@ decile n. tíundarmark
 lungful n. lungnafylli
 repellant l. sjá %[repellent]%
 neuroticism n. hugsýki, taugaveiklun
-okay l. & ao. allt í lagi, ókei; uh. allt í lagi! ég skil!; s. samþykkja (óformlegt, [he ~ed it])
+okay l. & ao. allt í lagi, ókei; uh. allt í lagi! ég skil!; s. samþykkja (óforml., [he ~ed it])
 OK l. sjá %[okay]%
-demote s. lækka í stöðu
-demotion n. stöðulækkun
-admittedly ao. vissulega, að vísu
-# exfoliant
-# diacritic
-# diacritical
-
+demote s. lækka í stöðu, lækka í tign; færa niður; niðurlægja
+demotion n. stöðulækkun; lækkun, niðurfærsla
+admittedly ao. vissulega, að vísu, verður að viðurkennast
+façade n. sjá %[facade]%
+refrigerated l. kældur, geymdur í kæliskáp
+reacquaintance n. endurkynni
+thyroid n. skjaldkirtill, skjaldbrjósk; l. skjaldkirtils-, skjaldbrjósks-
+flavor n. sjá %[flavour]%

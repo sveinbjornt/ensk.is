@@ -616,8 +616,8 @@ flattish l. nokkuð flatur
 flatter s. smjaðra
 flatterer n. smjaðrari
 flattery n. smjaður
-flatulence n. uppþembingur, vindgangur
-flatulent l. uppþembdur; uppbelgjandi
+flatulence n. vindgangur, uppþembingur, aftansöngur, prump
+flatulent l. prumpandi, vindgangandi, uppþembdur, uppbelgjandi
 flatwise ao. flatt, á flathliðina ([he fell ~ on the ground])
 flaunt s. blakta, flaksast; berast mikið á; trana (e-u) fram
 flaunting l. sem berst mikið á, mikill á lofti; skrautlegur
@@ -644,13 +644,13 @@ flee s. flýja ([he fled his country])
 fleece n. reyfi; gæra; s. rýja, klippa (kindur); féfletta; [a sheep well ~d] ullarmikil kind
 fleecy l. ullarmikill; ullar-
 fleer s. spotta, gabba ([~ at]); n. spott, gabb, háð
-fleet n. floti, flotadeild; skipastóll; l. fljótur; s. skunda, þjóta; veiða (rjómann) ofan af, fleyta
-fleeting l. hverfull
-fleetness n. flýtir, hraði
-Flemish l. flæmskur
+fleet n. floti, flotadeild; skipastóll; l. fljótur ([~ of foot]); s. skunda, þjóta; veiða (rjómann) ofan af, fleyta
+fleeting l. hverfull, skammær, stundlegur, skammvinnur
+fleetness n. flýtir, hraði; hverfulleiki
+Flemish l. flæmskur; n. flæmska
 flench s. skera hval
 flense s. skera hval
-flesh n. kjöt; hold ([~ and blood]); fiskur ([the ~ of the cod is very nutritious]); [to be in ~] vera í góðum holdum; [to get ~] fitna; [to lose ~] megrast
+flesh n. kjöt; hold ([~ and blood]); [to be in ~] vera í góðum holdum; [to get ~] fitna; [to lose ~] megrast
 flesh-colour n. holdslitur
 fleshless l. magur
 fleshly l. holdlegur
