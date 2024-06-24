@@ -190,40 +190,40 @@ saturation n. mettun (í efnafræðilegum skilningi), gegnvæting
 Saturday n. laugardagur
 saturnalian l. ofsakátur; óhemjulegur
 saturnine l. fályndur, fjörlaus; (í efnafræði) blý-; [~ poisoning] blýeitrun
-satyr n. skógargoð
+satyr n. satýr, skógargoð, skógartröll
 sauce n. sósa, ídýfa; s. krydda; smána (í orðum)
 sauceboat n. sósuskál
-saucepan n. skaftpottur
+saucepan n. skaftpottur, pottur, panna
 saucer n. undirskál
 sauciness n. ósvífni, óskammfeilni
 saucy l. ósvífinn, óskammfeilinn
 saunter s. ganga í hægðum sínum, reika
 saunterer n. slæpingur
-sausage n. bjúga, pylsa
+sausage n. pylsa, bjúga
 savage l. villtur; grimmur; n. villimaður
 savagedom n. villimennska, villimannalýður
 savagely ao. villimannlega, grimmdarlega, ómannúðlega
-savageness n. villidómur, grimmd
-savagery n. villidómur, grimmd
+savageness n. villimennska, villidómur, grimmd
+savagery n. villimennska, villidómur, grimmd
 savanna n. stór grasslétta
 savannah n. stór grasslétta
 save s. frelsa, bjarga; varðveita; hlífa; spara, leggja (peninga) fyrir, vista; koma nógu snemma til að nota, ná í ([~ the tide, the post]); fs. fyrir utan, nema ([all ~ the priest were murdered])
 saver n. björgunarmaður, frelsari; sparsemdarmaður
 saving l. sparsamur; skaðlaus ([a ~ bargain]); [a ~ clause] fyrirvari; n. sparnaður; ft. sparaðir peningar; fs. fyrir utan, nema
-savingly ao. sparsamlega
+savingly ao. sparsamlega, sparlega
 savingness n. sparsemi
 savings bank n. sparisjóður
-saviour n. frelsari; björgunarmaður; [the Saviour] frelsarinn
-savour n. bragð; ilmur; kraftur; s. hafa (það eða það) bragð; hafa keim af ([his conduct ~s of pride])
+saviour n. frelsari; bjargvættur, björgunarmaður; [the Saviour] frelsarinn
+savour n. bragð; ilmur; kraftur; s. njóta (bragðs, lyktar); hafa keim af ([his conduct ~s of pride])
 savouriness n. þægilegt bragð; ilmur
-savourless l. bragðlaus
-savoury l. bragðgóður, ljúffengur; ilmandi
+savourless l. bragðlaus, óljúffengur
+savoury l. bragðgóður, bragðmikill, ljúffengur; ilmandi
 saw n. orðskviður, sannmæli, spakmæli
 saw n. sög; s. saga; sagast
 sawdust n. sag
 sawmill n. sögunarvél
 sawyer n. sögunarmaður
-Saxon l. (engil)saxneskur; n. saxneskur maður
+Saxon l. (engil)saxneskur; n. Saxi, saxneskur maður
 say s. segja; lesa (bæn, messu); hafa upp; tala; [he is said to have been absent] sagt er að hann hafi verið fjarstaddur; [to ~ the truth] satt að segja; [I ~!] heyrðu! heyrið þér!; n. [to have a ~ in the matter] hafa atkvæði um e-ð; [I have had my ~] ég hef talað út
 saying n. orðatiltæki; ummæli; spakmæli
 scab n. hrúður; kláði (á kindum); s. gróa, hrúðra (um sár)
@@ -291,13 +291,13 @@ scene n. leiksvið; atriði (í leik); viðburður; sjónsvið; staður (sem eit
 scenery n. útbúnaður (á leiksviði), leiktjöld; landslag
 scenic l. leiksviðslegur
 scent s. þefa, lykta; gera ilmandi; n. þefur, lykt ([~ of hay]); ilmur; lyktnæmi; [to get ~ of] komast á snoðir um; [to put a person on (off) the ~] koma e-m á rétta (af réttri) leið; [a dog of nice ~] þefvis (sporvís) hundur; [on the right (wrong) ~] á réttri (rangri) leið
-scented l. ilmandi
+scented l. ilmandi, lyktandi
 scentless l. lyktarlaus
-sceptic n. efunarmaður; vantrúarmaður
-sceptical l. efunarsamur
-scepticism n. efunarsemi; efahyggja; vantrú
-sceptre n. veldissproti; s. veita (e-m) veldissprota (konungsvald)
-sceptred l. sem ber veldissprota; konunglegur
+sceptic n. efahyggjumaður, efamaður, efunarmaður, e-r sem efast; vantrúarmaður
+sceptical l. efandi, efunarsamur, efa-, efahyggju-; vantrúar-
+scepticism n. efahyggja; efi; efunarsemi; vantrú
+sceptre n. veldissproti, valdasproti; s. veita (e-m) veldissprota (konungsvald)
+sceptred l. sem ber veldissprota, valdasprota; konunglegur
 schedule n. fylgiskjal; skrá; áætlun; [~ of prices] verðskrá; s. skrá
 scheme n. áform, fyrirætlun; ráð; ágrip, yfirlit; s. leggja ráð á um
 schemer n. ráðabruggari

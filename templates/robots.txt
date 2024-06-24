@@ -37,6 +37,9 @@ Disallow: /
 User-agent: oBot*
 Disallow: /
 
+User-agent: barkrowler
+Disallow: /
+
 User-agent: *
 Disallow: /cgi-bin/*
 Disallow: /static/img/*
