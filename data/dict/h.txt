@@ -138,7 +138,7 @@ happening n. viðburður
 happiness n. gæfa; sæla; gleði
 happy l. sæll; lánsamur; glaður, ánægður; heppilegur ([a ~ reply])
 harangue n. stutt viðhafnarræða (fyrir fjölmennri samkomu); s. ávarpa með viðhafnarræðu
-harass s. þreyta; hrjá, ónáða, ofsækja; n. armæða, órói
+harass s. áreita; þreyta; hrjá, ónáða, ofsækja; n. armæða, órói
 harbinger n. fyrirboði, undanfari; s. boða, fyrirboða
 harbour n. höfn; hæli; s. hýsa; skýla; bera (ala) í brjósti sér ([~ such ideas]); búa yfir ([~ the worst designs]); dvelja, hafast við; liggja í höfn
 harbourage n. hýsing, hæli; skipalægi
@@ -890,7 +890,7 @@ housewifely l. húsmóðurlegur; hirðusamur, sparsamur
 housewifery n. búskapur; sparsemi, hirðusemi
 house s. hýsa, veita húsaskjól; flytja inn í hús; dvelja
 housel n. husl; s. husla
-housing n. hýsing; hús; söðulklæði, reiðver, áklæði
+housing n. hýsing; hús; húsnæði; söðulklæði, reiðver, áklæði
 hovel n. lélegur kofi, hreysi; hjallur, byrgi
 hover s. sveima, svífa (í lausu lofti); flögra; reika (um e-n stað [about, over])
 how ao. hvernig, hversu, hve

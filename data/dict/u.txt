@@ -146,7 +146,7 @@ unconfined l. ótakmarkaður; óbundinn
 unconnected l. ósamtengdur
 unconquerable l. ósigrandi, óvinnandi
 unconscionable l. ósanngjarn; gífurlegur
-unconscious l. meðvitundarlaus; óvitandi
+unconscious l. meðvitundarlaus; óvitandi; n. dulvitund
 unconstitutional l. sem er gagnstæður stjórnarskipunarlögum e-s lands
 unstrained l. óþvingaður; náttúrulegur, látlaus
 uncontrollable l. óviðráðanlegur, óstjórnlegur
@@ -352,7 +352,7 @@ uninterrupted l. sem ekki er hlé á, sífelldur, óaflátanlegur
 union n. sameining; ríkjasamband; félag; hjónaband; verkalýðsfélag, stéttarfélag; eindrægni, samheldni, samkomulag ([they lived together in perfect ~]); [~ flag, ~ jack] sambandsfáni breska ríkisins; [~ velvet] hálfsilki
 unionist n. verklýðsfélagsmaður; sambandsmaður
 unipersonal l. einpersónulegur
-unique l. einstakur, óviðjafnanlegur
+unique l. einstakur, óviðjafnanlegur, einkvæmur
 unison n. samhljómur; samhljóðan, samræmi ([in ~ with])
 unisonal l. einhljóma, samhljóma
 unisonous l. einhljóma, samhljóma

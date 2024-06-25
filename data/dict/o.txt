@@ -428,9 +428,9 @@ orthoepy n. hljóðfræði; réttur framburður
 orthographer n. staffræðingur
 orthographical l. stafsetningar-; réttritunar-; [~ mistake] ritvilla
 orthography n. réttritun, staffræði
-oscillate s. riða, rugga, ramba
-oscillation n. ramb, rugg; titringur
-oscillatory l. riðandi, rambandi ([~ motion to and fro])
+oscillate s. riða, rugga, ramba, sveiflast; titra
+oscillation n. ramb, rugg, sveiflun; titringur
+oscillatory l. riðandi, ruggandi, rambandi, sveiflandi ([~ motion to and fro]); titrandi
 oscitant l. geispandi; sljór
 oscule n. sogmunnur
 osier n. víðir; tág

@@ -1043,7 +1043,7 @@ shunt s. færa járnbrautarlest út af höfuðbrautinni (út á hliðarbraut)
 shut s. loka, láta aftur; lokast; [~ out] útiloka; [~ in] læsa (loka) inni; [the night ~s in] nóttin dettur á; [~ up] loka, loka (byrgja) inni; þagga niður í e-m; þagna; n. læsing, lokun
 shutter n. gluggahleri
 shuttered l. lokaður með hlerum
-shuttle n. spólustokkur, skytta
+shuttle n. spólustokkur, skytta; skutla, ferja; s. skutla, ferja
 shuttlecock n. fjaðrahnöttur
 shy l. styggur, fælinn (um hest); ómannblendinn; feiminn; varfær, gætinn; [to be ~ of] forðast; s. hrökkva við, fælast (um hest)
 shyness n. feimni; gætni; fælni
@@ -2624,8 +2624,8 @@ Stygian l. sem lýtur að ánni Styx; undirheimalegur
 style n. orðfæri, ritháttur, stíll; snið (á listaverkum); venja; tíska; aðferð; titill; tímatal ([old ~, new ~]); grafall; vísir (á sólúri); s. titla; nefna
 stylish l. skrautlegur, sem er eftir tískunni
 stylet n. prjónn, alur; e.k. sárakanni
-styptic l. & n. blóðstöðvandi (lyf)
-stylist n. ritsnillingur
+styptic l. blóðstöðvandi; n. blóðstöðvandi lyf
+stylist n. ritsnillingur; stílisti
 suasion n. fortölur
 suave l. blíður, þýður, mildur ([~ person, speech])
 suavity n. blíða, þýðleiki (í viðmóti)
@@ -2887,7 +2887,7 @@ supernumerary l. sem er umfram; óþarfur
 superpose s. leggja ofan á
 superscribe s. skrifa yfir; skrifa utan á
 superscription n. yfirskrift; áskrift
-supersede s. koma (setja) í staðinn fyrir; nema úr gildi ([~ a decree]); útrýma; gera óþarft
+supersede s. leysa af hólmi, taka við af, koma (setja) í staðinn fyrir; nema úr gildi ([~ a decree]); útrýma; gera óþarft
 supersensual l. yfirskilvitlegur
 superstition n. hjátrú, hindurvitni
 superstitious l. hjátrúarfullur

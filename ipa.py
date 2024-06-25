@@ -725,6 +725,10 @@ SKIP = frozenset(
         "reacquaintance",
         "unipolarity",
         "unipole",
+        "polymorph",
+        "polymorphically",
+        "polymorphously",
+        "clear-sightedness",
     )
 )
 

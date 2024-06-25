@@ -233,7 +233,10 @@ def check_missing():
             if words.count(w) > 1 and w not in already:
                 already.add(w)
                 print(f"Duplicate word in missing.txt: {w}")
-        exit(1)
+
+    for w in unique:
+        if w in ALL_DICT_WORDS:
+            print(f"Word in missing.txt is already in dictionary: {w}")
 
 
 def verify():

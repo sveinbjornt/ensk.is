@@ -556,6 +556,7 @@ meaningful l. merkingarbær; þýðingarmikill, innihaldsríkur; verulegur
 homeland n. heimaland
 hometown n. heimabær
 motivation n. hvati, hvatning, hvöt
+motivational l. hvata-, hvatningar-
 disturbed l. truflaður, ónáðaður; raskaður
 immunology n. ónæmisfræði
 aluminium n. ál
@@ -1419,6 +1420,7 @@ Central American n. miðamerískur; n. Mið-Ameríkani, Mið-Ameríkumaður
 South America n. Suður-Ameríka (heimsálfa)
 South American n. suðuramerískur; n. Suður-Ameríkani, Suður-Ameríkumaður
 Oceania n. Eyjaálfa (heimsálfa sem nær yfir Ástralíu og nærliggjandi eyjar)
+telegraphy n. símritun
 telegrapher n. símritari, símaþjónn
 Asian l. asískur, austurálfu-, frá austurálfu; n. Asíumaður, Asíubúi, austurálfumaður
 Oceanian l. Eyjaálfu-, frá Eyjaálfu; n. Eyjaálfumaður
@@ -2635,6 +2637,7 @@ tyrannosaurus n. grameðla (risaeðlutegund)
 stegosaurus n. kambeðla (risaeðlutegund)
 velociraptor n. snareðla (risaeðlutegund)
 belligerence n. stríðsgirni, deilugirni, ófriðsemi
+belligerency n. stríðsgirni, deilugirni, ófriðsemi
 geranium n. e.k. blágresi
 sepulchre n. gröf, grafhvelfing
 coup n. valdarán (úr frönsku [coup d'état])
@@ -3727,22 +3730,23 @@ phentermine n. fentermín (örvandi lyf)
 symphonic l. sinfónískur, sinfóníu-; [~ orchestra] sinfóníuhljómsveit
 denim n. dením, denímefni, gallaefni, gallabuxnaefni; [~ pants, jeans] gallabuxur
 second-hand l. notaður ([~ clothes]); óbeinn ([~ smoking]); sem fæst í gegnum e-n annan en frumaðila
-hydrocarbon n. vetniskolefni, kolvetni
+hydrocarbon n. vetniskolefni, kolvetni; [~ fuel] jarðeldsneyti
 alkaline l. alkalískur, basískur
 humongous l. gríðarstór, feikistór, risavaxinn ([All hail the ~, the Lord Humongous!])
 absurdly ao. fáránlega; á absúrd eða fjarstæðukenndan hátt
-underdevelopment n. vanþróun
+underdeveloped l. vanþróaður, vanþroskaður
+underdevelopment n. vanþróun, vanþroski
 eliminable l. útrýmanlegur
 ineliminable l. óútrýmanlegur
 foodstuff n. matvæli
 autarky n. efnahagslegt sjálfstæði; sjálfsnægt í efnahagsmálum; sjálfsþurftarbúskapur
-autarkic l. efnahagslega sjálfstæður eða sjálfum sér nægur; sjálfsþurftarbúskaps-
+autarkic l. efnahagslega sjálfstæður, sjálfum sér nægur í efnahagsmálum; sjálfsþurftarbúskaps-
 limelight n. sviðsljós
 unspoken l. ósagður; [he left it ~] hann lét það ósagt
 charisma n. persónutöfrar, þokki, sjarmi
-charismatic l. heillandi, sjarmerandi, býr yfir persónutöfrum
+charismatic l. heillandi, sjarmerandi, töfrandi, býr yfir persónutöfrum
 tired-looking l. þreytulegur í ásýnd
-lifestyle n. lífsstíll, lífsháttur, líferni
+lifestyle n. lífsstíll, líferni, lífsháttur
 guesstimate s. (óforml.) meta eða áætla byggt á ágiskunum einum saman (sjá %[guess]% og %[estimate]%); n. mat byggt á ágiskunum
 self-sufficiency n. sjálfsnægt, nægjusemi; sjálfsþurftarbúskapur
 ethnonym n. þjóðaheiti
@@ -3920,7 +3924,7 @@ recidivist n. síbrotamaður; síkomusjúklingur
 recidivism n. síbrot
 psychotherapist n. sálfræðingur eða geðlæknir (sem sérhæfir sig í sálrænni meðferð)
 colophon n. baktitill
-intergovernmental l. milliríkja-
+intergovernmental l. milliríkja-, milli ríkisstjórna
 spelunk n. hellir; s. skoða hella
 spelunker n. hellaskoðari
 spelunking n. hellaskoðun
@@ -3939,7 +3943,7 @@ exploitable l. hagnýtanlegur, nýtanlegur; sem hægt er að arðræna
 exploiter n. sá sem nýtir eða hagnýtir; arðræningi
 exploitative l. sem nýtir eða hagnýtir; arðrænandi, arðráns-
 markup n. álagning (á vörur); ívaf (í texta)
-supervisory l. eftirlits-
+supervisory l. eftirlits-; [~ role] eftirlitshlutverk, eftirlitsstarf
 seamless l. saumlaus
 officialdom n. skrifræði, embættismannastétt
 parallax n. hliðrun; sjónstöðumunur, sýndarhliðrun
@@ -4543,6 +4547,7 @@ conscientiously ao. samviskusamlega
 cost-effectiveness n. hagkvæmni
 cost-effective l. hagkvæmur
 coastal l. strand-; [~ town] strandbyggð, strandbær
+ego n. sjálf
 superego n. yfirsjálf
 hydrosphere n. vatnshvolf, vatnshvel; vatnshjúpur
 multipolar l. fjölskauta, fjölpóla
@@ -4554,3 +4559,30 @@ unconsciousness n. meðvitundarleysi
 unconsciously ao. ómeðvitað, á meðvitundarlausan eða ómeðvitaðan hátt
 eggcup n. eggjabikar
 kitty n. kisa, köttur
+supersession n. yfirtaka (sjá %[supersede]%)
+polymorph s. fjölforma, fjölmynda
+polymorphism n. fjölbreytni, margbreytni
+polymorphous l. margbreytilegur, fjölbreytilegur
+polymorphic l. margbreytilegur, fjölbreytilegur
+polymorphically ao. margbreytilega, fjölbreytilega
+polymorphously ao. margbreytilega, fjölbreytilega
+uniqueness n. einstakleiki; einkvæmni
+uniquely ao. einstaklega, sérlega; á einkvæman hátt
+rosewood n. rósviður; l. rósviðar-
+oscillator n. áriðill, sveifill, sveifluvaki, sveiflugjafi
+typesetter n. letursetjari; prentsmiður
+typeset s. (undir)búa til prentunar, setja til prentunar
+typesetting n. letursetning, prentsetning
+economically ao. efnahagslega, hagfræðilega
+uneconomic l. óhagkvæmur, óhentugur, óefnahagslegur
+uneconomical l. óhagkvæmur, óhentugur, óefnahagslegur
+digitize s. stafgera, setja í stafrænt form
+digitization n. stafgerving, stöfun (sjá %[digitize]%)
+seismicity n. jarðskjálftavirkni
+complicit l. samsekur; meðvirkur
+empowerment n. valdefling, efling; umboðsveiting
+clear-sightedness n. glöggskyggni
+vegetarianism n. grænmetisát, grænkerasiður
+hairdryer n. hárþurrka
+embryology n. fósturfræði
+bachelorhood n. piparsveinslíf, hið ókvænta líf
