@@ -4524,6 +4524,7 @@ fallout n. (geislavirkt) ofanfall, úrfall, úrfelli, ryk
 downwind l. undan vindi
 chairperson n. fundarstjóri; forseti, formaður
 splenetic l. miltissjúkur; geðstirður
+splenectomy n. miltisnám
 decile n. tíundarmark
 lungful n. lungnafylli
 repellant l. sjá %[repellent]%
@@ -4536,6 +4537,20 @@ admittedly ao. vissulega, að vísu, verður að viðurkennast
 façade n. sjá %[facade]%
 refrigerated l. kældur, geymdur í kæliskáp
 reacquaintance n. endurkynni
-thyroid n. skjaldkirtill, skjaldbrjósk; l. skjaldkirtils-, skjaldbrjósks-
+thyroid n. skjaldkirtill, skjaldbrjósk ([~ gland]); l. skjaldkirtils-, skjaldbrjósks- ([~ cancer, disease])
 flavor n. sjá %[flavour]%
 conscientiously ao. samviskusamlega
+cost-effectiveness n. hagkvæmni
+cost-effective l. hagkvæmur
+coastal l. strand-; [~ town] strandbyggð, strandbær
+superego n. yfirsjálf
+hydrosphere n. vatnshvolf, vatnshvel; vatnshjúpur
+multipolar l. fjölskauta, fjölpóla
+multipolarity n. fjölskautun, fjölpólun
+unipole n. einpóll, einskaut
+unipolar l. einkauta, einpóla
+unipolarity n. einskautun, einpólun
+unconsciousness n. meðvitundarleysi
+unconsciously ao. ómeðvitað, á meðvitundarlausan eða ómeðvitaðan hátt
+eggcup n. eggjabikar
+kitty n. kisa, köttur

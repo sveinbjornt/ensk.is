@@ -722,6 +722,9 @@ SKIP = frozenset(
         "disinfestation",
         "diabase",
         "denudation",
+        "reacquaintance",
+        "unipolarity",
+        "unipole",
     )
 )
 
