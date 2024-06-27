@@ -683,19 +683,18 @@ perjurer n. meinsærismaður
 perjury n. meinsæri, rangur eiður
 perk s. vera hnakkakerrtur; bera (höfuðið) hátt; hreykja sér upp ([~ up])
 perky l. hnakkakertur, sperrtur
-permanence n. varanleiki; stöðugleiki; hald; [for a ~] til frambúðar
+permanence n. varanleiki; stöðugleiki; hald
 permanent l. varanlegur; stöðugur; óumbreytanlegur; fastur ([~ abode])
-permanently ao. varanlega, stöðugt, fyrir fullt og fast
-permeability n. gagnfærileiki
+permanently ao. varanlega, stöðugt, fyrir fullt og allt
+permeability n. gagnfærileiki, gegndræpi
 permeable l. gagnfærilegur, gljúpur
 permeate s. síast (fara) í gegnum
-permeation n. gagnsíun
-permissible l. leyfilegur
-permission n. leyfi
-permissive l. leyfður, leyfilegur
-permit s. leyfa
-permit n. skriflegt eða formlegt (opinbert) leyfi
-permutation n. skipti (á e-u); breyting
+permeation n. gegndræping, gegnsíun
+permissible l. leyfilegur, heimill
+permission n. leyfi, heimild
+permissive l. leyfður, leyfilegur, heimill; sem leyfir mikið ([~ parents])
+permit s. leyfa; n. skriflegt eða formlegt (opinbert) leyfi
+permutation n. breyting, umbreyting; skipti (á e-u)
 pern n. hauktegund
 pernicious l. skaðlegur, skaðvænn, banvænn
 perorate s. halda ræðu; enda ræðu
