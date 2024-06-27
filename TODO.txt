@@ -3,12 +3,13 @@ TODO list for ensk.is:
 * Fuzzy suggestions, matches
 * Fix double IPA entries for US English
 * Use paralell corpora
-* Do lookup of english word cats for each entry and see if there is the appropriate correspondence
+* Do lookup of English word cats for each entry and see if there is the appropriate correspondence
 * Write tests, extend verify.py
 * Rm IPA data from the DB file made available for download
 * Find IPA phonetic spelling for *all* words via Wiktionary
 * Feedback mechanism for missing words
 * Separate exact match from partial matches visually
 * Generate .dictionary file for macOS, make available for download
-* Mobile app?
-* Add step to verification process: check that adjectives are always defined using the masculine
+* Mobile app? Packaged Web Application with local fallback?
+* Add step to verify.py: check that adjectives are always defined using the masculine
+* In item view, parse and break down the different word cat definitions and examples, show to user in a nice, easily understandable way
