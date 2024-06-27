@@ -1,0 +1,25 @@
+{% extends "container.html" %}
+
+{% block meta %}
+<meta name="description" content="Öll orð sem eru ekki ASCII">
+{% endblock %}
+
+{% block content %}
+
+<h1>Ekki ASCII</h1>
+
+<p>Hér er listi af öllum orðum sem eru ekki ASCII ({{ num_nonascii }} talsins):</p>
+
+<p>
+  {% for w in nonascii %}
+  <a href="/item/{{ w }}">{{ w|safe }}</a>
+  <br>
+  {% endfor %}
+</p>
+
+<br>
+<br>
+<br>
+<br>
+
+{% endblock %}

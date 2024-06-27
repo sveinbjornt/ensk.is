@@ -15,9 +15,9 @@ cachalot n. búrhveli
 cackle s. gagga, klaka (um hænu); þvaðra; hlæja illkvitnislega; n. gagg, klak; mas
 cache n. geymslustaður; geymdur forði, leynilegur geymslustaður; skyndiminni (í tölvu); s. láta niður til geymslu; vista í skyndiminni (tölvu)
 cacophony n. mishljóðan
-cad n. vagnstjóri; dóni; rusti
-caddish l. rustalegur
-cadaverous l. lík-, ná-; náfölur; [~ odour/smell] nálykt
+cad n. vagnstjóri; dóni, ruddi
+caddish l. ruddalegur, dónalegur
+cadaverous l. lík-, ná-; náfölur; [~ odour, smell] nálykt
 caddy n. tedós
 cadence n. hljóðfall, takt
 cadet n. yngri sonur eða bróðir; herskólasveinn
@@ -1256,18 +1256,17 @@ cohabit s. búa saman (einkum um ógift hjú)
 cohabitant n. sambýlismaður
 cohabitation n. samlífi, sambúð (sem hjón)
 coheir n. samarfi, samerfingi
-coheiress n. samarfa
+coheiress n. samarfa, kvenkyns samerfingi
 cohere s. loða saman; vera samhljóða, eiga við ([with])
 coherence n. samloðun; samhljóðan, samræmi
 coherent l. samfastur; samhljóða
-coherently ao. í samhengi
+coherently ao. í samhengi, á samhljóða eða samfastan hátt
 cohesion n. samhengi, samhengisafl
 cohesive l. samhengislegur, samloðandi; [~ power] viðloðunarafl
 cohibit s. halda í skefjum
-cohort n. skor (1/10 úr rómverskri hersveit); flokkur
-coif n. húfa
-coil n. kaðall undinn upp í hringi; hringur; hvirfing, vafningur ([~ of rope]); flækja; rafspennukefli (í bíl); s. vinda kaðal í hringi; vefja; hringa (sig utan um [round]); [the dog ~s itself up] hringar sig saman
-coil n. hávaði, hark; erfiði, armæða, strit ([this mortal ~])
+cohort n. skor (einn tíundi úr rómverskri hersveit); flokkur
+coif n. húfa, hetta
+coil n. kaðall undinn upp í hringi; hringur; hvirfing, vafningur ([~ of rope]); flækja; rafspennukefli (í bíl); hávaði, hark; erfiði, armæða, strit ([this mortal ~]); s. vinda kaðal í hringi; vefja; hringa (sig utan um [round]); [the dog ~s itself up] hringar sig saman
 coin n. peningur; mynt; peningar; s. slá (peninga); móta; búa til; mynda (ný orð)
 coinage n. peningaslátta; mótun; peningar; tilbúningur; [~ of one's brain] heilaspuni
 coiner n. peningamótari; peningafalsari

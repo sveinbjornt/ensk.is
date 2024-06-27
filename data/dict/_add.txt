@@ -556,7 +556,7 @@ meaningful l. merkingarbær; þýðingarmikill, innihaldsríkur; verulegur
 homeland n. heimaland
 hometown n. heimabær
 motivation n. hvati, hvatning, hvöt
-motivational l. hvata-, hvatningar-
+motivational l. hvata-, hvatningar-; [~ speaker] hvatningarræðumaður
 disturbed l. truflaður, ónáðaður; raskaður
 immunology n. ónæmisfræði
 aluminium n. ál
@@ -1910,7 +1910,7 @@ vampirish l. vampírulegur, vampíru-
 brainwash s. heilaþvo
 brainwashing n. heilaþvottur
 snobbery n. snobb, uppskafningsháttur, broddborgaraskapur, mont
-sine qua non l. nauðsynlegur (úr lat., án hvers ekki)
+sine qua non l. nauðsynlegur (úr latínu, bókstf. án hvers ekki)
 overpowering l. yfirþyrmandi
 doorknob n. hurðarhúnn
 firearm n. skotvopn
@@ -1944,7 +1944,7 @@ superstar n. stórstjarna
 arsonist n. brunavargur
 self-destruction n. sjálfstortíming, sjálfseyðing
 self-destructive l. sjálfstortímandi, sjálfseyðandi
-whisker n. veiðihár
+whisker n. veiðihár; e.k. skeggstíll
 superwoman n. ofurkona
 boyfriend n. kærasti, unnusti
 lipstick n. varalitur
@@ -4504,7 +4504,7 @@ rehab n. meðferð; endurhæfing; afvötnun
 urethra n. þvagrás
 aquifer n. (grunnvatns)veitir, grunnvatnsgeymir
 colostomy n. ristilraufun; [~ bag] hægðapoki
-headline n. fyrirsögn, fréttafyrirsögn, yfirskrift á síðu; höfuðlína
+headline n. fyrirsögn, fréttafyrirsögn; yfirskrift á síðu; höfuðlína
 copilot n. aðstoðarflugmaður
 verminous l. meindýra- (sjá %[vermin]%)
 disinfestation n. meindýraeyðing, óværueyðing
@@ -4558,7 +4558,7 @@ unipolarity n. einskautun, einpólun
 unconsciousness n. meðvitundarleysi
 unconsciously ao. ómeðvitað, á meðvitundarlausan eða ómeðvitaðan hátt
 eggcup n. eggjabikar
-kitty n. kisa, köttur
+kitty n. kisa, kisi, köttur
 supersession n. yfirtaka (sjá %[supersede]%)
 polymorph s. fjölforma, fjölmynda
 polymorphism n. fjölbreytni, margbreytni
@@ -4571,18 +4571,21 @@ uniquely ao. einstaklega, sérlega; á einkvæman hátt
 rosewood n. rósviður; l. rósviðar-
 oscillator n. áriðill, sveifill, sveifluvaki, sveiflugjafi
 typesetter n. letursetjari; prentsmiður
-typeset s. (undir)búa til prentunar, setja til prentunar
+typeset s. (undir)búa til prentunar, setja til prentunar, letursetja
 typesetting n. letursetning, prentsetning
 economically ao. efnahagslega, hagfræðilega
 uneconomic l. óhagkvæmur, óhentugur, óefnahagslegur
 uneconomical l. óhagkvæmur, óhentugur, óefnahagslegur
-digitize s. stafgera, setja í stafrænt form
+digitize s. stafgera, setja í eða snúa yfir á stafrænt form
 digitization n. stafgerving, stöfun (sjá %[digitize]%)
 seismicity n. jarðskjálftavirkni
 complicit l. samsekur; meðvirkur
 empowerment n. valdefling, efling; umboðsveiting
 clear-sightedness n. glöggskyggni
 vegetarianism n. grænmetisát, grænkerasiður
-hairdryer n. hárþurrka
+hairdryer n. hárþurrka, hárblásari
 embryology n. fósturfræði
 bachelorhood n. piparsveinslíf, hið ókvænta líf
+cliffside n. klettaveggur, klettar; bjargbrún, klettabrún
+organically ao. á lífrænan hátt, á lífrænan máta, lífrænt
+jitterbug n. sveifludans

@@ -53,7 +53,7 @@ from fastapi.responses import (
 import orjson
 
 from db import EnskDatabase
-from util import human_size, perc
+from util import human_size, perc, is_ascii
 from dict import read_wordlist
 
 
@@ -82,6 +82,9 @@ num_entries = len(entries)
 all_words = [e["word"] for e in entries]
 additions = [a["word"] for a in e.read_all_additions()]
 num_additions = len(additions)
+nonascii = [e["word"] for e in entries if not is_ascii(e["word"])]
+num_nonascii = len(nonascii)
+
 
 CATEGORIES = read_wordlist("data/catwords.txt")
 
@@ -449,6 +452,22 @@ async def original(request: Request):
     )
 
 
+@app.get("/nonascii")
+@app.head("/nonascii")
+@cache_response
+async def nonascii_route(request: Request):
+    """Page with links to all words that contain non-ASCII characters."""
+    return TemplateResponse(
+        "nonascii.html",
+        {
+            "request": request,
+            "title": f"Ekki ASCII - {WEBSITE_NAME}",
+            "num_nonascii": len(nonascii),
+            "nonascii": nonascii,
+        },
+    )
+
+
 @app.get("/duplicates")
 @app.head("/duplicates")
 @cache_response
@@ -520,6 +539,8 @@ async def stats(request: Request):
             "perc_no_page": perc(no_page, num_entries),
             "num_capitalized": num_capitalized,
             "perc_capitalized": perc(num_capitalized, num_entries),
+            "num_nonascii": num_nonascii,
+            "perc_nonascii": perc(num_nonascii, num_entries),
             "num_duplicates": num_duplicates,
             "perc_duplicates": perc(num_duplicates, num_entries),
             "wordstats": wordstats,

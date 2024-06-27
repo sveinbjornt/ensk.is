@@ -122,9 +122,9 @@ quidnunc n. fréttasnati
 quiescence n. hvíld, ró, kyrrð
 quiescent l. hreyfingarlaus, kyrr; hljóðlaus ([a ~ letter])
 quiet l. hljóðlátur, kyrr, kyrrlátur; hægur, spakur, friðsamur; n. ró, friður, kyrrð; [remain at ~] vera kyrr; [in peace and ~] í friði og ró; s. stilla, kyrra, friða; sefa, bæla niður (ótta, grunsemd); sefast, stillast
-quieten s. sefa; sefast ([~ down])
-quietly ao. hljóðlega; friðsamlega
-quietness n. rósemi, stilling
+quieten s. sefa, róa; sefast, róast ([~ down])
+quietly ao. hljóðlega; friðsamlega; af stillingu
+quietness n. rósemi, stilling, rólegheit
 quietude n. kyrrð, rósemi
 quietus n. aðalkvittun; dauði ([he got his ~ in a duel])
 quill n. fjöður; fjöðurstafur; fjöðurpenni; broddur (á broddgelti); vefjarspóla; hljóðpípa
@@ -155,17 +155,17 @@ quixotic l. lygilegur, fjarstæður
 quixotism n. fjarstæða
 quiz n. spurningaleikur; gabb, háð, fyndni; sérvitringur; s. spotta, gera gys að e-m
 quizzer n. spottari
-quizzical l. hæðinn; hlægilegur
+quizzical l. hæðinn; hlægilegur; furðulegur
 quod n. fangelsi
 quodlibet n. hártogun
 quoin n. horn (að utan); hyrningarsteinn; fleygur; s. festa með fleyg
 quoit n. kastskífa, kasthringur; s. kasta, fleygja
 quondam l. fyrri, sem var forðum ([my ~ friends])
 quorum n. lögmætur fjöldi nefndar eða fundar ([six was to be a ~]); dómnefnd; flokkur
-quota n. hluti, skerfur
-quotable l. tilvitnanlegur
+quota n. hluti, skerfur, kvóti
+quotable l. tilvitnanlegur, sem auðvelt er að vitna í
 quotation n. tilvitnun, tilvísun; verð (á vörum); [quotation marks, signs of ~] tilvísunarmerki, gæsalappir („ “)
-quote s. vitna í (bók); tilfæra, tilgreina; nefna verð á vörum
+quote s. vitna í (bók, ummæli); tilfæra, tilgreina; nefna verð á vörum ([~ prices])
 quoth s. sagði, mælti ([~ he])
 quotidian l. daglegur; hversdagslegur
 quotient n. hlutatala, kvóti, deild

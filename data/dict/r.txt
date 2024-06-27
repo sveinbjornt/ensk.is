@@ -822,7 +822,7 @@ repentance n. iðrun
 repentant l. iðrunarfullur; [~ tears] iðrunartár; n. iðrandi syndari
 repeople s. byggja aftur (mönnum, [~ a country])
 repercussion n. afturkast (hljóðs eða ljósgeisla)
-repercussive l. endurómandi
+repercussive l. endurómandi, með eftirköst
 repertoire n. leikritaskrá e-s, söngritaskrá e-s
 repertory n. safn (af alls konar fróðleik), safnrit
 repetend n. lota í tugabrotum; lotubrot; endurtekið orð, viðkvæði
@@ -833,8 +833,8 @@ repiner n. nöldurseggur
 repiningly ao. með óánægju, með þykkju
 replace s. setja aftur (á sama stað eða í sömu stöðu); skipa (setja) annan eða annað í stað e-s ([~ by/with]); koma í stað e-s ([be ~d by]); fá annað jafngott í staðinn
 replant s. gróðursetja að nýju; setja aftur (á e-n stað [in])
-replenish s. fylla aftur
-replenishment n. fylling; nýjar birgðir
+replenish s. fylla aftur, endurfylla, uppfylla, endurnýja
+replenishment n. fylling, endurfylling; nýjar birgðir
 replete l. fullur, troðfullur (af e-u [with])
 repletion n. uppfylling; offylli ([eat to ~])
 replevin n. útlausn, innlausn (lögtekinna muna)
