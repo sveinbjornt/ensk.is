@@ -73,6 +73,8 @@ PAGE_ROUTES = [
     "/original",
     "/duplicates",
     "/capitalized",
+    "/nonascii",
+    "/stats",
     "/robots.txt",
     "/sitemap.xml",
     "/favicon.ico",
