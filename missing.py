@@ -45,7 +45,7 @@ from util import read_wordlist
 
 
 # Path to wordlist file can be specified as first argument
-WORDLIST_PATH = "data/wordlists/google-10000-english.txt"
+WORDLIST_PATH = "data/wordlists/wiki-100k.txt"
 if len(sys.argv) > 1:
     WORDLIST_PATH = sys.argv[1]
 
@@ -61,7 +61,7 @@ dict_words = [e["word"].lower() for e in res]
 missing = read_wordlist("missing.txt")
 
 
-wds = read_wordlist("data/wordlists/google-10000-english.txt")
+wds = read_wordlist(WORDLIST_PATH)
 
 for t in wds:
     tl = t.lower()

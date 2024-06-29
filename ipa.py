@@ -729,6 +729,15 @@ SKIP = frozenset(
         "polymorphically",
         "polymorphously",
         "clear-sightedness",
+        "cliffside",
+        "pescatarianism",
+        "bibliophilia",
+        "bibliophilism",
+        "bidimensional",
+        "metaphysician",
+        "paleological",
+        "phono-",
+        "conventionalize",
     )
 )
 

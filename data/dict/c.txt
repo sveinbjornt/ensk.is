@@ -494,9 +494,9 @@ centigramme n. 1/100 úr grammi
 centimetre n. 1/100 úr metra
 centipede n. margfætla
 central l. sem er í miðið, mið-; aðal-, höfuð; [~ heating] miðstöðvarhitun; [~ exchange] símamiðstöð
-centrality n. miðleiki, miðbikslega
+centrality n. miðleiki
 centralization n. samdráttur á einn stað; miðstýring
-centralize s. draga (stjórnarvald) saman á einn stað
+centralize s. draga (stjórnarvald) saman á einn (miðlægan) stað
 centre n. miðja, miðbik, miðdepill, miðpunktur; miðflokkur (á þingi); miðfylking; [~ of gravity] þungamiðja; s. setja í miðjuna; safnast utan um miðpunkt ([in, on, round, about]); [~ force] miðsóknarafl
 centrifugal l. miðflótta-; [~ force] miðflóttaafl
 centripetal l. miðsækinn
@@ -1831,7 +1831,7 @@ conscionable l. samviskusamur
 conscious l. meðvitaður; gæddur meðvitund; (sér) meðvitandi; þóttafullur
 consciousness n. meðvitund; [recover, regain ~] rakna við aftur
 conscribe s. bjóða út (liði), skrá (til herþjónustu)
-conscript l. skráður til herþjónustu; [~ fathers] ráðherrar (hjá Rómverjum); s. skrá (liðsmenn)
+conscript l. skráður til herþjónustu; n. óbreyttur borgari skráður til herþjónustu; s. skrá (liðsmenn)
 conscription n. skráning (til herþjónustu), útboð
 consecrate s. helga; vígja ([~ a church, churchyard, bishop])
 consecration n. helgun; vígsla
@@ -2041,7 +2041,7 @@ convenient l. þægilegur; hentugur, haganlegur ([if it is ~ to you])
 convent n. klaustur
 conventicle n. leynileg trúarsamkoma
 convention n. samkoma, fundur; samkomulag, samningur
-conventional l. samningslegur, umsaminn; vanabundinn; venjulegur, algengur
+conventional l. vanabundinn, hefðbundinn; samningslegur, umsaminn; venjulegur, algengur
 conventionalism n. vani, vanafesta
 conventionality n. vanafesta, föst venja
 conventionary l. sem er eftir samningi, samningsbundinn

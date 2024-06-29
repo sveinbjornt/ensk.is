@@ -2529,6 +2529,7 @@ concerto n. konsert, tónleikar (úr Ítölsku)
 technically ao. tæknilega (séð)
 skateboard n. hjólabretti; s. ferðast á hjólabretti
 emotionally ao. tilfinningalega
+embarrassing l. vandræðalegt; niðurlægjandi
 embarrassingly ao. vandræðalega, feimnislega
 undeniably ao. óneitanlega
 macaque n. makakíapi
@@ -3640,6 +3641,7 @@ podiatrist n. fótaaðgerðafræðingur
 luminescence n. ljóm, ljómun
 three-dimensional l. þrívíður
 two-dimensional l. tvívíður
+bidimensional l. tvívíður
 multi-dimensional l. fjölvíður
 recalibration n. endurkvörðun, endurstilling
 marketization n. markaðsvæðing
@@ -4582,10 +4584,29 @@ seismicity n. jarðskjálftavirkni
 complicit l. samsekur; meðvirkur
 empowerment n. valdefling, efling; umboðsveiting
 clear-sightedness n. glöggskyggni
-vegetarianism n. grænmetisát, grænkerasiður
+vegetarianism n. grænmetisát, grænkerasiður; sá siður að borða ekki kjöt
 hairdryer n. hárþurrka, hárblásari
 embryology n. fósturfræði
-bachelorhood n. piparsveinslíf, hið ókvænta líf
+bachelorhood n. piparsveinslíf, hið ókvænta líf, einhleypni
 cliffside n. klettaveggur, klettar; bjargbrún, klettabrún
 organically ao. á lífrænan hátt, á lífrænan máta, lífrænt
 jitterbug n. sveifludans
+unconventional l. óhefðbundinn, óvenjulegur, óvanabundinn
+pescatarian l. fiskáts-, sjávarfangsáts- ([~ diet]); n. fiskæta, sjávarfangsæta, manneskja sem neytir aðeins sjávarfangs
+pescatarianism n. fiskát, mataræði þar sem aðeins er borðað sjávarfang
+jogging n. skokk (sjá %[jog]%)
+meow uh. mjá! (mjálm í ketti)
+femur n. lærleggur, lærbein, lærliður
+phonological l. hljóðfræðilegur
+phonologically ao. hljóðfræðilega
+phono- fsk. hljóð- (sbr. %[phonography]%, %[phonology]%)
+neighborhood n. sjá %[neighbourhood]%
+eulogise s. sjá %[eulogize]%
+barefooted l. berfættur
+paleological l. fornfræðilegur, forngripafræðilegur (sjá %[paleology]%)
+bibliophilia n. ást á bókum, bókaást
+bibliophilism n. ást á bókum, bókaást
+reminisce s. endurminnast, minnast
+metaphysician n. frumspekingur
+feathered l. fjaðraður
+conventionalize s. gera að hefð eða vana

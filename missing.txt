@@ -407,7 +407,6 @@ evil-spirited
 thatched
 dotted
 stuffing
-conventionalize
 steamroll
 steamroller
 frightened
@@ -555,7 +554,6 @@ doomed
 romanticize
 coincidental
 maneuver
-jogging
 pinpoint
 tabloid
 short-tempered
@@ -600,6 +598,7 @@ intersectionality
 disassemble
 backdrop
 shakeup
+showman
 showmanship
 blustery
 attendee
@@ -652,7 +651,6 @@ uptight
 rationale
 risky
 defense
-unconventional
 bimonthly
 archival
 overprice
@@ -1099,6 +1097,7 @@ organizational
 bespoke
 fait accompli
 uncharacteristic
+uncharacteristically
 pushiness
 edginess
 scam
@@ -1242,6 +1241,7 @@ orotundity
 comestible
 authorial
 denouement
+dénouement
 flagstone
 collegial
 collegiality
@@ -2248,6 +2248,7 @@ geostrategic
 upmarket
 downmarket
 navigational
+pernickety
 persnickety
 subsector
 implode
@@ -3914,3 +3915,47 @@ lambasted
 invigorating
 goober
 cavitation
+hydrated
+dehydrated
+whiny
+widowed
+brawler
+frisbee
+dope
+dopeness
+omicron
+cynical (endurskoða)
+morpheme
+conferencing
+well-adjusted
+carpogenic
+angiology
+academize
+academicism
+featherweight
+showboat
+sidelock
+cosmosophy
+dequeue
+trainload
+lobotomize
+endomorphism
+Elamite
+emollience
+emollient (endurskoða)
+discreetly
+paladin
+luxuriously
+magnanimously
+misinformed
+pitifully
+whelmed
+posting
+composting
+tenderfoot
+transformer
+masthead
+tracer
+garbled
+corselet
+thitherward
