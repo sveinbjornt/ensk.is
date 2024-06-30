@@ -4619,3 +4619,4 @@ palaeology n. sjá %[paleology]%
 contaminated s. mengaður, saurgaður, spilltur
 decontaminated l. afmengaður, afsaurgaður, hreinsaður
 uncontaminated l. ómengaður, ósaurgaður, hreinn
+thymus n. hóstarkirtill

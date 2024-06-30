@@ -713,12 +713,12 @@ chicken n. kjúklingur, hænuungi; n. ft. hænsni
 chick n. kjúklingur, hænuungi; n. ft. hænsni
 chicory n. kaffirót
 chide s. ávíta, skamma
-chief n. foringi, höfðingi, yfirmaður, goði; l. fremstur, helstur; aðal-; megin-; [~ justice] háyfirdómari; ao. [~ of all (don't forget)] umfram allt (ekki gleyma)
-chiefly l. höfðinglegur; ao. einkum
+chief n. foringi, höfðingi, yfirmaður, goði; l. fremstur, helstur; aðal-; megin-; [~ justice] háyfirdómari; ao. [~ of all] umfram allt
+chiefly ao. aðallega, einkum; l. höfðinglegur
 chieftain n. höfðingi, goði
-chieftaincy n. höfðingjastaða, goðorð
+chieftaincy n. höfðingjastaða, höfðingjadæmi, goðorð
 chilblain n. kuldapollur, kuldabólga, frostbólga
-child n. barn; [with ~] ólétt, börnuð, þunguð; [from a ~] frá barnsbeini
+child n. barn; [with ~] ólétt, börnuð, þunguð
 children n. ft. börn ([the ~ are at play]); sjá %[child]%
 childbed n. [die in ~] deyja af barnsburði
 childbirth n. barnsburður, barnsfæðing
