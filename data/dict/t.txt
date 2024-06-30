@@ -239,7 +239,7 @@ temperance n. hóf, hófsemi; bindindissemi; bindindi
 temperate l. tempraður; hófsamur, hóflegur
 temperateness n. hófsemi, stilling
 temperature n. hitastig, hiti
-tempered l. vel eða illa lyndur; -lyndur
+tempered l. vel eða illa lyndur; -lyndur; hertur (um málm)
 tempering n. temprun; hersla (málms)
 tempest n. ofviðri, stormur; ofsi; s. æsa upp ([~ the sea, the deep])
 tempestuous l. illviðrasamur; illviðris- ([a ~ night]); ofsalegur; ákafur
@@ -248,13 +248,13 @@ templar n. templari, musterisriddari ([Knight Templar]); lögfræðingur
 temple n. hof; musteri; kirkja; gagnauga, þunnvangi
 temporal l. stundlegur, tímanlegur, veraldlegur; sem lýtur að gagnaugunum; [~ bone] gagnaugabein
 temporality n. veraldleiki; ft. [temporalities] tekjur prests eða kirkju
-temporarily ao. um stundar sakir
+temporarily ao. tímabundið, um stundar sakir
 temporary l. tímabundinn, sem er til bráðabirgða, um stundar sakir
 temporize s. aka seglum eftir vindi; semja, miðla málum
 tempt s. freista (e-s); ginna, lokka
-temptation n. freisting, freistni
+temptation n. freisting, freistni; ginning, lokkun
 tempter n. freistari
-tempting l. freistandi, ginnandi
+tempting l. freistandi, ginnandi, lokkandi
 ten l. tíu; n. tugur, tía
 tenable l. verjanlegur
 tenacious l. fastheldinn; seigur; þrár; [a ~ memory] gott minni; [~ of life] lífseigur

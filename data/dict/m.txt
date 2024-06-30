@@ -907,16 +907,16 @@ miscellaneous l. blandaður, ýmislegs efnis; fjölbreyttur
 miscellany n. sambland; samtíningur, rit ýmislegs efnis
 mischance n. óhapp ([a piece of ~]); [by ~] af óhappi
 mischarge s. rangskrifa kröfu (í reikning); n. rangskrifuð krafa (í reikningi)
-mischief n. skaði, tjón; mein, hrekkur; skemmdir; ógæfa
+mischief n. skaði, tjón, brell, spellvirki; mein, hrekkur, óskundi; skemmdir; ógæfa
 mischievous l. skaðlegur; illgjarn; hrekkjóttur
 mischievousness n. skaðsemi; illgirni; hrekkvísi
 miscible l. blandanlegur
-misconceive s. misskilja, rangskilja
-misconception n. misskilningur; ranghugmynd
-misconduct n. ill hegðun; röng aðferð; yfirsjón; s. stýra illa eða ranglega; [~ oneself] hegða sér ranglega
-misconjecture s. giska skakkt á; n. skökk (röng) ágiskun
-misconstruction n. skökk þýðing
-misconstrue s. leggja skakka þýðingu í
+misconceive s. misskilja, rangskilja, vanhugsa
+misconception n. misskilningur, ranghugmynd, vanhugsun
+misconduct n. ill hegðun, vanhegðun; röng aðferð; yfirsjón; s. stýra illa eða ranglega; [~ oneself] hegða sér ranglega
+misconjecture s. giska skakkt á; n. skökk eða röng ágiskun
+misconstruction n. skökk þýðing, mistúlkun
+misconstrue s. leggja skakka þýðingu í, túlka á rangan hátt
 miscount n. skökk talning; s. telja skakkt
 miscreated l. vanskapaður
 miscreation n. vanskapnaður

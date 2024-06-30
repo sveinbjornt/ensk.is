@@ -2066,7 +2066,7 @@ graverobber n. grafræningi
 guardsman n. varðmaður
 crossbowman n. lásbogaskytta, lásbogaliði, hermaður með lásboga
 cannonball n. fallbyssukúla
-attacker n. árásarmaður, árásaraðili, tilræðismaður
+attacker n. árásarmaður, árásaraðili, tilræðismaður, sóknaraðili, ásækjandi
 Persia n. Persía (gamalt heiti yfir Íran)
 antebellum l. fyrir stríð, fyrirstríðs-
 moorland n. mýrlendi
@@ -3147,12 +3147,13 @@ candlefish n. drungi, svartþorskur (e.k. fiskur)
 skeletal l. beinagrindar-, beinagrindarlegur
 autopilot n. sjálfstýring
 pigmentation n. litun
-conspiracist n. samsærismaður
-oligopoly n. fákeppni; fámennismarkaður
+conspiracist n. samsærismaður, samsæriskenningamaður
+oligopoly n. fákeppni; fákeppnismarkaður, fámennismarkaður
 sunspot n. sólblettur
 monetarism n. peningamagnshyggja
 monetarist n. peningamagnshyggjumaður, fylgismaður peningamagnshyggju í hagfræði (sjá %[monetarism]%)
-transient l. skammtíma-, skammvinnur, svipull, hverfull
+transcience n. hverfulleiki
+transient l. skammtíma-, skammvinnur, svipull, hverfull (sjá %[transcience]%)
 malefaction n. illgjörð, illgjörningur
 lobotomy n. geiraskurður, hvítuskurður, ennisblaðsskurður ([prefrontal ~])
 appetizer n. forréttur; lystauki
@@ -4576,8 +4577,8 @@ typesetter n. letursetjari; prentsmiður
 typeset s. (undir)búa til prentunar, setja til prentunar, letursetja
 typesetting n. letursetning, prentsetning
 economically ao. efnahagslega, hagfræðilega
-uneconomic l. óhagkvæmur, óhentugur, óefnahagslegur
-uneconomical l. óhagkvæmur, óhentugur, óefnahagslegur
+uneconomic l. óhagkvæmur; óhentugur; óefnahagslegur
+uneconomical l. óhagkvæmur; óhentugur; óefnahagslegur
 digitize s. stafgera, setja í eða snúa yfir á stafrænt form
 digitization n. stafgerving, stöfun (sjá %[digitize]%)
 seismicity n. jarðskjálftavirkni
@@ -4589,7 +4590,7 @@ hairdryer n. hárþurrka, hárblásari
 embryology n. fósturfræði
 bachelorhood n. piparsveinslíf, hið ókvænta líf, einhleypni
 cliffside n. klettaveggur, klettar; bjargbrún, klettabrún
-organically ao. á lífrænan hátt, á lífrænan máta, lífrænt
+organically ao. á lífrænan hátt eða máta, lífrænt
 jitterbug n. sveifludans
 unconventional l. óhefðbundinn, óvenjulegur, óvanabundinn
 pescatarian l. fiskáts-, sjávarfangsáts- ([~ diet]); n. fiskæta, sjávarfangsæta, manneskja sem neytir aðeins sjávarfangs
@@ -4599,17 +4600,22 @@ meow uh. mjá! (mjálm í ketti)
 femur n. lærleggur, lærbein, lærliður
 phonological l. hljóðfræðilegur
 phonologically ao. hljóðfræðilega
-phono- fsk. hljóð- (sbr. %[phonography]%, %[phonology]%)
+phono- fsk. hljóð- (í samsetningum, sbr. %[phonography]%, %[phonology]%)
 neighborhood n. sjá %[neighbourhood]%
 eulogise s. sjá %[eulogize]%
 barefooted l. berfættur
 paleological l. fornfræðilegur, forngripafræðilegur (sjá %[paleology]%)
+palaeological l. sjá %[paleological]%
 bibliophilia n. ást á bókum, bókaást
 bibliophilism n. ást á bókum, bókaást
 reminisce s. endurminnast, minnast
 metaphysician n. frumspekingur
 feathered l. fjaðraður
-conventionalize s. gera að hefð eða vana
-characteristically ao. á einkennandi hátt; í samræmi við skapgerð eða skaplyndi, sjálfum sér líkur
-uncharacteristically ao. á óeinkennandi hátt; ólíkt sjálfum sér, í ósamræmi við skapgerð, óvanalega
-uncharacteristic l. óeinkennilegur, óeinkennandi; ólíkur sjálfum sér (sjá %[characteristic]%)
+conventionalize s. gera að hefð eða vana (sjá %[convention]%)
+characteristically ao. á einkennandi hátt; í samræmi við skapgerð eða skaplyndi, sjálfum sér líkt; að vanda
+uncharacteristically ao. á óeinkennandi hátt; ólíkt sjálfum sér, í ósamræmi við skapgerð; óvanalega
+uncharacteristic l. óeinkennilegur, óeinkennandi; ólíkur sjálfum sér (sjá %[characteristic]%); óvanalegur
+palaeology n. sjá %[paleology]%
+contaminated s. mengaður, saurgaður, spilltur
+decontaminated l. afmengaður, afsaurgaður, hreinsaður
+uncontaminated l. ómengaður, ósaurgaður, hreinn

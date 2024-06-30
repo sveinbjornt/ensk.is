@@ -1591,10 +1591,10 @@ atrociousness n. afskapleg grimmd; grimmdarverk, hryðjuverk
 atrocity n. afskapleg grimmd; grimmdarverk, hryðjuverk
 atrophy n. kyrkingur; rýrnunarsýki; s. setja kyrking í, kyrkja
 attach s. festa (við, [~ a thing to another]); binda sig við ([~ oneself to]); leggja (trúnað) á ([~ credence to, different meaning to]); taka fastan; kyrrsetja ([the goods were ~ed]); laða að sér; loða við ([no blame ~es to it])
-attachable l. kyrrsetjanlegur
-attached l. hollur, vinveittur, fylginn (e-m [to])
-attachment n. hollusta, vinátta; kyrrsetning
-attack s. ráðast á; sækja að; [~ed with a disease] sýktur af; n. árás, áhlaup
+attachable l. kyrrsetjanlegur; viðhengjanlegur
+attached l. hollur, vinveittur, fylginn (e-m [to]), hengdur við
+attachment n. hollusta, vinátta; kyrrsetning; viðhengi
+attack s. ráðast á, sækja að; n. árás, áhlaup, sókn
 attackable l. sem hægt er að ráðast á
 attain s. ná, fá
 attainable l. náanlegur, fáanlegur
@@ -1602,8 +1602,8 @@ attainment n. öflun; hæfilegleiki, atgervi, kunnátta
 attainder n. missir eigna og borgaralegra réttinda
 attaint s. dæma (landráðamann) til lífláts eða útlegðar; gagntaka (um sjúkdóm); flekka
 attemper s. blanda, tempra; sefa, stilla; laga eftir ([to])
-attempt s. reyna; ráðast á; veita banatilræði; n. tilraun; banatilræði, fjörráð ([~ upon the life of])
-attend s. hlýða á ([to]); gefa gaum að; gæta; stunda, hirða um, hjúkra; þjóna ([~ upon]); fylgja; vera viðstaddur ([~ a lecture]); [~ church] sækja kirkju
+attempt s. reyna; ráðast á; gera tilraun til; veita banatilræði; n. tilraun; banatilræði
+attend s. vera viðstaddur, mæta á ([~ a lecture]); hlýða á ([to]); gefa gaum að; gæta; stunda, hirða um, hjúkra; þjóna ([~ upon]); fylgja
 attendance n. þjónusta; fylgd; nærvera; allir viðstaddir; aðsókn; [medical ~] læknishjúkrun
 attendant l. þjónandi ([~ upon]); samfara (e-u [upon]); viðstaddur ([the ~ crowd]); n. þjónn; förunautur; [a diligent ~ at church] kirkjurækinn maður
 attention n. eftirtekt, athygli ([attract ~]), gaumur; ft. ([~s]) kurteisisatlot; [pay ~ to] gefa gaum að

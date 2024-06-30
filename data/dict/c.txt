@@ -713,15 +713,15 @@ chicken n. kjúklingur, hænuungi; n. ft. hænsni
 chick n. kjúklingur, hænuungi; n. ft. hænsni
 chicory n. kaffirót
 chide s. ávíta, skamma
-chief n. foringi, höfðingi; l. fremstur, helstur; aðal-; megin-; [~ justice] háyfirdómari; ao. [~ of all (don't forget)] umfram allt (ekki gleyma)
+chief n. foringi, höfðingi, yfirmaður, goði; l. fremstur, helstur; aðal-; megin-; [~ justice] háyfirdómari; ao. [~ of all (don't forget)] umfram allt (ekki gleyma)
 chiefly l. höfðinglegur; ao. einkum
-chieftain n. höfðingi
-chieftaincy n. höfðingjastaða
+chieftain n. höfðingi, goði
+chieftaincy n. höfðingjastaða, goðorð
 chilblain n. kuldapollur, kuldabólga, frostbólga
 child n. barn; [with ~] ólétt, börnuð, þunguð; [from a ~] frá barnsbeini
 children n. ft. börn ([the ~ are at play]); sjá %[child]%
 childbed n. [die in ~] deyja af barnsburði
-childbirth n. barnsburður
+childbirth n. barnsburður, barnsfæðing
 childhood n. barnsaldur, barnæska
 childish l. barnalegur, barnslegur; barnæðislegur
 childishness n. barnaskapur
@@ -1887,14 +1887,14 @@ conspectus n. yfirlit
 conspicuous l. auðkennilegur; auðséður; alkunnur; frægur; áberandi ([~ by its absence])
 conspicuousness n. augsýnileiki; frægð
 conspiracy n. samsæri
-conspirator n. samsærismaður
+conspirator n. samsærismaður, ráðagerðarmaður
 conspire s. gera samsæri (samblástur); gera samtök um ([~ his ruin, ~ an attack]); vinna saman
 conspue s. hrækja á e-ð
 constable n. kastalavörður; lögregluþjónn ([police ~]); [to outrun the ~] komast í skuldir
 constabulary n. lögreglulið; l. lögreglu- ([~ force])
 constancy n. stöðugleiki; staðfesta
-constant l. stöðugur; stöðuglyndur, staðfastur
-constantly ao. stöðugt, jafnan
+constant l. stöðugur; stöðuglyndur, staðfastur; sífelldur
+constantly ao. stöðugt, jafnan; sífellt
 constellation n. samstirni, stjörnumerki ([the ~ Orion])
 consternate s. skelfa
 consternation n. skelfing, ofboð
@@ -1911,38 +1911,38 @@ constraint n. þvingun; nauðung, ófrelsi
 constrict s. draga saman; þrengja; kyrkja
 constriction n. samandráttur; kyrking; þrenging
 construct s. reisa, smíða, búa til; draga upp ([~ a triangle])
-construction n. bygging, smíði; þýðing ([put a bad ~ upon his refusal]); skýring; orðaskipun; [in course of (under) ~] í smíðum, í byggingu
+construction n. bygging, smíði; þýðing ([put a bad ~ upon his refusal]); skýring; orðaskipun; [under ~] í smíðum, í byggingu
 constructional l. byggingarlegur; sem lýtur að skýringum
 constructive l. skapandi; byggingarlegur, smíðislegur; óbeinn
-construe s. skýra, þýða; skilja (svo eða svo); taka saman orð í setningu
-consubstantial l. samefnislegur, sama eðlis
+construe s. skilja (á vissan máta); skýra, þýða; taka saman orð í setningu
+consubstantial l. samefnislegur, sama efnis
 consuetude n. venja
 consuetudinal l. venjuhelgaður
-consul n. ræðismaður (hjá Rómverjum); verslunarerindreki, konsúll
-consular l. konsúls- ([~ dignity]); konsúla-
+consul n. ræðismaður; verslunarerindreki, konsúll
+consular l. ræðismanns-, konsúls-, konsúla-
 consulate n. ræðismennska (hjá Rómverjum); konsúlsembætti; konsúlssetur
 consulship n. konsúlsembætti
 consult s. ráðgast; leita ráða hjá ([with]); spyrja ráða ([~ a physician]); taka tillit til
-consultation n. ráðaleitun; ráðstefna
+consultation n. ráðgjöf, ráðaleitun; ráðstefna
 consultative l. ráðgefandi ([~ body, power])
 consume s. eyða; éta (eða drekka) upp; sóa; brenna upp; veslast upp
 consumedly ao. afskaplega
-consumer n. neytandi; eyðandi
+consumer n. neytandi; eyðandi; sá sem neytir
 consummate s. fullgera, fremja; l. algjör, fullkominn
 consummation n. fullkomnun; endir; takmark, markmið
-consumption n. eyðing; eyðsla; tæring ([pulmonary ~]); uppdráttarsýki; neysla
+consumption n. neysla; eyðing, eyðsla; tæring ([pulmonary ~]); uppdráttarsýki; neysla
 consumptive l. eyðandi; brjóstveikur; n. brjóstveikissjúklingur
-contact n. snerting, viðkoma; [to come into ~ with] komast í náið samband við, hafa afskipti af
-contagion n. afsýking, smitun; smitandi sjúkdómur; siðferðisleg sýking
+contact n. snerting, viðkoma, samskipti; [to come into ~ with] komast í náið samband eða snertingu við, hafa afskipti af
+contagion n. smitun, sýking, afsýking; smitandi sjúkdómur
 contagious l. sóttnæmur, smitandi
 contain s. taka, rúma; innihalda, hafa í sér fólgið; halda í skefjum; stilla; [could not ~ himself for joy] réð sér ekki fyrir gleði; [what does this bag ~?] hvað er í þessum poka? [a pound ~s 16 ounces] í pundi eru 16 lóð
-contaminate s. saurga, spilla; l. saurugur
-contamination n. saurgun, svívirðing
+contaminate s. saurga, spilla, menga; l. saurugur
+contamination n. saurgun, spilling, mengun, svívirðing
 contemn s. fyrirlíta, forsmá; meta að engu
-contemplate s. skoða, virða fyrir sér; íhuga; gera ráð fyrir; hafa í hyggju; hugsa
-contemplation n. skoðun; umhugsun
-contemplative l. hugsandi
-contemporaneous l. samtíða; jafngamall (e-m [with])
+contemplate s. skoða, virða fyrir sér; hugsa, íhuga, pæla í, hugleiða; hafa í hyggju; gera ráð fyrir
+contemplation n. hugleiðsla, umhugsun, hugsun; skoðun
+contemplative l. hugsi, hugsandi, þenkjandi, hugleiðandi
+contemporaneous l. samtíða, samtíma-; jafngamall (e-m [with])
 contemporaneously ao. samtíðis (e-u [with])
 contemporary l. samtíða ([~ events]); jafngamall; n. samtíðarmaður; jafnaldri
 contempt n. fyrirlitning; [have/hold in ~] fyrirlíta; [bring one into ~] gera e-n fyrirlitlegan
@@ -1951,7 +1951,7 @@ contemptuous l. háðulegur; forsmáandi
 contemptuously ao. fyrirlitlega, með fyrirlitningu
 contend s. berjast, stríða; deila (við e-n [with, against], um e-ð [for, about]); fullyrða halda e-u fram; keppa (um e-ð [for])
 content l. ánægður; (í efri málstofunni í enska þinginu) samþykkur, já; [non ~] ósamþykkur, nei; n. ánægja; rúmtak, rúmmál ([cubical ~]); [~s] ft. innihald; efni; [table of ~s] efnisyfirlit; [to his heart's ~] svo að hann er (var) hjartanlega ánægður; s. gera ánægðan; [~ oneself (with)] láta sér (e-ð) nægja
-contented l. ánægður
+contented l. ánægður (með hlutskipti sín)
 contentedness n. ánægja
 contentment n. ánægja
 contention n. þræta, deila; keppni, kapp; staðhæfing; [bone of ~] misklíðarefni, bitbein

@@ -3957,3 +3957,5 @@ garbled
 corselet
 thitherward
 sasquatch
+chiastic
+temp
