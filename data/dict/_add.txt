@@ -3203,9 +3203,9 @@ attentiveness n. athygli (sjá %[attention]%)
 autodidact n. e-r sem er sjálflærður
 autodidacticism n. sjálfsnám
 recalibrate s. endurkvarða, endurstilla
-sexless l. kynlaus
-trainee n. lærlingur, (vettvangs)nemi
-dyspeptic l. haldinn meltingartruflunum eða meltingarónot
+sexless l. kynlaus; kynlífslaus
+trainee n. lærlingur, (vettvangs)nemi, starfsnemi
+dyspeptic l. haldinn meltingartruflunum eða meltingarónot; geðvondur; bölsýnn
 in absentia l. fjarverandi, í fjarveru, fjarstaddur, að fjarstöddum (úr latínu)
 tercentenary n. 300 ára afmæli eða minningarhátíð
 prophylaxis n. forvörn, verndandi aðgerð, sjúkdómsvörn
@@ -4610,3 +4610,6 @@ reminisce s. endurminnast, minnast
 metaphysician n. frumspekingur
 feathered l. fjaðraður
 conventionalize s. gera að hefð eða vana
+characteristically ao. á einkennandi hátt; í samræmi við skapgerð eða skaplyndi, sjálfum sér líkur
+uncharacteristically ao. á óeinkennandi hátt; ólíkt sjálfum sér, í ósamræmi við skapgerð, óvanalega
+uncharacteristic l. óeinkennilegur, óeinkennandi; ólíkur sjálfum sér (sjá %[characteristic]%)
