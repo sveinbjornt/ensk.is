@@ -1,5 +1,5 @@
-aardvark n. jarðsvín (riðvaxið afrískt spendýr með langan rana, sem nærist aðallega á maurum)
-database n. gagnagrunnur; [the information was written to a ~]
+aardvark n. jarðsvín (riðvaxið afrískt spendýr með langan rana)
+database n. gagnagrunnur, gagnasafn
 classroom n. kennslustofa, skólastofa; [the pupils remained in the ~]
 coedit s. meðritstýra, ritstýra ásamt öðrum; [he ~ed the dictionary] hann var meðritstjóri orðabókarinnar
 dune n. sandhóll (sem myndast úr foksandi), sandskafl
@@ -4608,7 +4608,7 @@ paleological l. fornfræðilegur, forngripafræðilegur (sjá %[paleology]%)
 palaeological l. sjá %[paleological]%
 bibliophilia n. ást á bókum, bókaást
 bibliophilism n. ást á bókum, bókaást
-reminisce s. endurminnast, minnast
+reminisce s. endurminnast, minnast, rifja upp
 metaphysician n. frumspekingur
 feathered l. fjaðraður
 conventionalize s. gera að hefð eða vana (sjá %[convention]%)
@@ -4620,3 +4620,4 @@ contaminated s. mengaður, saurgaður, spilltur
 decontaminated l. afmengaður, afsaurgaður, hreinsaður
 uncontaminated l. ómengaður, ósaurgaður, hreinn
 thymus n. hóstarkirtill
+equidistance n. jöfn fjarlægð

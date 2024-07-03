@@ -2361,9 +2361,9 @@ cowherd n. kúasmali
 cowhide n. kýrhúð; keyri; s. hýða, lemja
 cowhouse n. fjós
 cowpox n. kúabóla
-coward n. raggeit, bleyða, hugleysingi
-cowardice n. ragmennska, bleyðuskapur, hugleysi
-cowardly l. ragur, huglaus, ragmennskulegur; ao. ragmennskulega
+coward n. heigull, skræfa, raggeit, bleyða, hugleysingi
+cowardice n. hugleysi, ragmennska, bleyðuskapur, heigulsháttur
+cowardly l. huglaus, ragur, ragmennskulegur, heigulslegur; ao. ragmennskulega, heigulslega
 cower s. hnipra sig saman
 cowl n. munkakápa (með hettu); munkahetta; reykháfshetta
 cowslip n. kúreki (jurt)
