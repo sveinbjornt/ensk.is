@@ -4499,13 +4499,13 @@ etiology n. orsakafræði; sjúkdómafræði; uppruni eða orsök sjúkdóms
 aetiology n. orsakafræði; sjúkdómafræði; uppruni eða orsök sjúkdóms
 spastic l. spastískur; krampa-, síbeygju-
 spasticity n. síbeygjukrampar
-tripedal l. þrífættur
+tripedal l. þrífættur, þrífóts-
 tripodal l. þrífættur, þrífóts-
-mugger n. ræningi
+mugger n. ræningi, göturæningi
 paralysed l. lamaður, aflvana
 burglarize s. brjótast inn, fremja innbrotsþjófnað
 osteoarthritis n. slitgigt, liðahrörnun
-anyway ao. hvort eð er, hvort sem er, samt, samt sem áður, engu að síður; allavega
+anyway ao. hvort eð er, hvort sem er, samt, samt sem áður, engu að síður, allavega; uh. allavega!
 rehab n. meðferð; endurhæfing; afvötnun
 urethra n. þvagrás
 aquifer n. (grunnvatns)veitir, grunnvatnsgeymir
@@ -4631,3 +4631,6 @@ floozy n. sjá %[floozie]%
 explicably ao. útskýranlega, skiljanlega
 inexplicably ao. óútskýranlega, óskiljanlega
 khanate n. höfðingjaveldi, stórhöfðingjaveldi (í Asíu)
+Tokyo n. Tókýó (höfuðborg Japans)
+Bigfoot n. Snjómaðurinn ógurlegi (goðsagnakennd vera)
+boomerang n. búmerang (ástralskt kastvopn)

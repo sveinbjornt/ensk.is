@@ -17,6 +17,8 @@ def main() -> int:
 
     for w in words:
         word = w.strip()
+        if "(" in word:
+            continue
         url = f"https://idord.arnastofnun.is/d/api/es/agg/dictionaries/?ord={word}"
         response = requests.get(url)
 

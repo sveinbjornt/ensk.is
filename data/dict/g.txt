@@ -210,8 +210,8 @@ generic l. almennur ([~ term, name])
 generosity n. göfuglyndi, veglyndi; örlæti
 generous l. veglyndur, örlátur
 genesis n. uppruni
-genial l. lífgandi, frjóvgandi; hlýr, blíður, mildur (um loftslag); ljúfmannlegur; glaðlyndur
-geniality n. veðurblíða; glaðlyndi
+genial l. lífgandi, frjóvgandi; hlýr, blíður, mildur (um loftslag); ljúfmannlegur; glaðlyndur, hress
+geniality n. veðurblíða; glaðlyndi, hressleiki
 genialize s. gera blíðan
 genialness n. ljúfmennska
 genital l. æxlunar-, kynfæra-, æxlunarfæra-

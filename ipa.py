@@ -738,6 +738,11 @@ SKIP = frozenset(
         "paleological",
         "phono-",
         "conventionalize",
+        "equidistance",
+        "khanate",
+        "palaeological",
+        "palaeology",
+        "transcience",
     )
 )
 
