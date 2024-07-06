@@ -794,6 +794,7 @@ Peru n. Perú
 Philippines n. ft. Filippseyjar ([the ~])
 Philippine l. filippseyskur, frá Filippseyjum; n. Filippseyingur
 Filipino n. Filippseyingur; l. filippseyskur, frá Filippseyjum
+Filipina n. Filippseyjakona
 Portugal n. Portúgal
 Puerto Rico n. Púertó Ríkó
 Qatar n. Katar
@@ -897,6 +898,7 @@ marketing n. markaðssetning, markaðsmál; markaðsdeild
 electrolyte n. raflausn, rafvaki; rafvökvi
 electrolysis n. rafgreining, rafsundrun
 redhead n. rauðhærð manneskja
+redheaded l. rauðhærður
 pub n. stytt. á [public house]; knæpa, krá, ölstofa, bar, pöbb
 LED n. stytt. á [light emitting diode]; ljósdíóða, ljóstvistur, ljóstvískaut
 buddy n. félagi, lagsmaður, vinur
@@ -4439,6 +4441,7 @@ riverhead n. upptök ár
 seaport n. hafnarborg, sjávarhöfn
 changelessness n. breytingaleysi, óbreytileiki
 disproportionately ao. á ósamsvarandi hátt, í óeðlilegu hlutfalli, óhóflega
+proportionately ao. hlutfallslega
 riddler n. gátumaður, þrautamaður
 snuff film n. myndbandsupptaka sem sýnir morð
 Anthropocene n. mannöldin
@@ -4604,6 +4607,7 @@ phono- fsk. hljóð- (í samsetningum, sbr. %[phonography]%, %[phonology]%)
 neighborhood n. sjá %[neighbourhood]%
 eulogise s. sjá %[eulogize]%
 barefooted l. berfættur
+palaeology n. sjá %[paleology]%
 paleological l. fornfræðilegur, forngripafræðilegur (sjá %[paleology]%)
 palaeological l. sjá %[paleological]%
 bibliophilia n. ást á bókum, bókaást
@@ -4615,9 +4619,15 @@ conventionalize s. gera að hefð eða vana (sjá %[convention]%)
 characteristically ao. á einkennandi hátt; í samræmi við skapgerð eða skaplyndi, sjálfum sér líkt; að vanda
 uncharacteristically ao. á óeinkennandi hátt; ólíkt sjálfum sér, í ósamræmi við skapgerð; óvanalega
 uncharacteristic l. óeinkennilegur, óeinkennandi; ólíkur sjálfum sér (sjá %[characteristic]%); óvanalegur
-palaeology n. sjá %[paleology]%
 contaminated s. mengaður, saurgaður, spilltur
 decontaminated l. afmengaður, afsaurgaður, hreinsaður
 uncontaminated l. ómengaður, ósaurgaður, hreinn
 thymus n. hóstarkirtill
 equidistance n. jöfn fjarlægð
+gaslighting n. gaslýsing
+proportionally ao. hlutfallslega
+floozie n. skækja, mella, vændiskona
+floozy n. sjá %[floozie]%
+explicably ao. útskýranlega, skiljanlega
+inexplicably ao. óútskýranlega, óskiljanlega
+khanate n. höfðingjaveldi, stórhöfðingjaveldi (í Asíu)
