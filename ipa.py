@@ -745,6 +745,9 @@ SKIP = frozenset(
         "transcience",
         "Shetlander",
         "Shetlandic",
+        "mycological",
+        "nimbyism",
+        "thitherward",
     )
 )
 

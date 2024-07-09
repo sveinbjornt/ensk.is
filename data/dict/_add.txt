@@ -2638,6 +2638,7 @@ piscivore n. fiskæta
 nectarivore n. blómsykursæta, dýr sem nærist á blómsykri
 nectarivorous l. blómsykursétandi, sem nærist á blómsykri
 pterodactyl n. flugeðla (e.k. vængjuð risaeðla)
+pterosaur n. flugeðla (e.k. vængjuð risaeðla)
 tyrannosaurus n. grameðla (risaeðlutegund)
 stegosaurus n. kambeðla (risaeðlutegund)
 velociraptor n. snareðla (risaeðlutegund)
@@ -3914,7 +3915,7 @@ egocentrism n. sjálfhverfa, sjálflægni
 broadleaf l. breiðblaða, með breiðum laufblöðum
 broadleaved l. breiðblaða, með breiðum laufblöðum
 subduction n. sökkbelti ([~ zone])
-attaché n. sendiráðsritari; hermálafulltrúi ([military ~])
+attaché n. sendiráðsritari; hermálafulltrúi ([military ~]); menningarmálafulltrúi ([cultural ~])
 subplot n. aukaflétta í söguþræði; hlutteikning; smáreitur
 psychotherapy n. sállækning, sálræn meðferð
 aspirin n. aspirín, asetýlsalisýlsýra
@@ -4231,8 +4232,8 @@ suspiciously ao. grunsamlega
 flatscreen n. flatskjár
 pretense n. sjá %[pretence]%
 unnavigable l. óskipgengur, sem ekki er hægt að sigla um ([the river was ~])
-nymphomania n. vergirni, óvenjumikil kynhvöt konu, kynlífsárátta
-nymphomaniac n. vergjörn kona, kona með óvenjumikla kynhvöt, kona haldin kynlífsáráttu
+nymphomania n. vergirni, óvenjumikil kynhvöt (konu), kynlífsárátta
+nymphomaniac n. vergjörn kona, kona með óvenjumikla kynhvöt, (kona) haldin kynlífsáráttu
 technocentric l. tæknimiðaður
 piglet n. gríslingur
 toxicology n. eiturefnafræði
@@ -4385,7 +4386,7 @@ realisation n. sjá %[realization]%
 wimp n. aumingi, ræfill
 wimpish l. aumingjalegur, ræfilslegur
 wimpy l. aumingjalegur, ræfilslegur
-violently ao. ákaflega, ruddalega, á ofbeldisfullan hátt
+violently ao. ákaflega, ofsalega, ruddalega, á ofbeldisfullan hátt
 epoxy n. epoxý; [~ resin] epoxý kvoði
 aggrieved l. móðgaður ([the ~ party])
 velure n. velúr (e.k. flauelsefni); l. velúrs-, úr velúr
@@ -4418,8 +4419,8 @@ Russophobia n. hræðsla, andúð eða hatur gagnvart Rússlandi, Rússum eða r
 Russophobe n. e-r sem hræðist eða hefur andúð á Rússlandi eða Rússum
 Francophobia n. hræðsla, andúð eða hatur gagnvart Frakklandi, Frökkum eða franskri menningu
 Francophobe n. e-r sem hræðist eða hefur andúð á Frakklandi eða Frökkum
-battleworthy l. bardagahæfur
-battleworthiness n. bardagahæfni
+battleworthy l. bardagahæfur, orustuhæfur
+battleworthiness n. bardagahæfni, orustuhæfni
 encyclopedist n. alfræðingur; ritari alfræðiorðabóka
 encyclopaedist n. sjá %[encyclopedist]%
 prescientific l. forvísindalegur, sem kom á undan vísindum
@@ -4427,8 +4428,8 @@ biotic l. lífrænn
 silviculture n. skógrækt, viðarrækt
 muscleman n. vöðvatröll
 sinology n. kínafræði, fræðigrein sem fæst við sögu og menningu Kína
-sinologist n. sérfræðingur í sögu og menningu Kína
-overtaxation n. ofsköttun
+sinologist n. kínafræðingur, sérfræðingur í sögu og menningu Kína
+overtaxation n. ofsköttun, of mikil skattlagning; ofreynsla
 synchronization n. samstilling, samhæfing
 punctually ao. tímanlega, á réttum tíma ([she arrived ~])
 animist n. andatrúarmaður
@@ -4442,9 +4443,9 @@ cheddar n. cheddar-ostur (einnig ritað séddarostur)
 unwholesomeness n. óheilnæmni, óhollusta
 riverhead n. upptök ár
 seaport n. hafnarborg, sjávarhöfn
-changelessness n. breytingaleysi, óbreytileiki
+changelessness n. breytingaleysi, óbreytileiki, stöðnun
 disproportionately ao. á ósamsvarandi hátt, í óeðlilegu hlutfalli, óhóflega
-proportionately ao. hlutfallslega
+proportionately ao. hlutfallslega, á samsvarandi hátt, í eðlilegu hlutfalli
 riddler n. gátumaður, þrautamaður
 snuff film n. myndbandsupptaka sem sýnir morð
 Anthropocene n. mannöldin
@@ -4453,10 +4454,10 @@ marginalia n. spássíugrein, spássíuathugasemd
 disequilibrium n. ójafnvægi; misvægi; jafnvægismissir, jafnvægisskortur
 cultivar n. ræktunarafbrigði, kvæmi
 self-employment n. sjálfsmennska, vinna fyrir sig sjálfan
-meltdown n. bráðnun, bræðsluslys (í kjarnaofni)
+meltdown n. bráðnun, bræðsluslys (í kjarnaofni [nuclear ~])
 built-in l. innbyggður, ílægur
 broken-hearted l. harmþrunginn
-child-rearing n. uppeldi
+child-rearing n. uppeldi (barna)
 bowling n. keila, keiluleikur
 caste system n. stéttakerfi (sjá %[caste]%)
 Zaire n. Saír (fyrrum heiti ríkisins Kongó)
@@ -4542,7 +4543,7 @@ decile n. tíundarmark
 lungful n. lungnafylli
 repellant l. sjá %[repellent]%
 neuroticism n. hugsýki, taugaveiklun
-okay l. & ao. allt í lagi, ókei; uh. allt í lagi! ég skil!; s. samþykkja (óforml., [he ~ed it])
+okay l. & ao. allt í lagi, ókei, sæmilegur; uh. allt í lagi! ég skil!; s. samþykkja (óforml., [he ~ed it])
 OK l. sjá %[okay]%
 demote s. lækka í stöðu, lækka í tign; færa niður; niðurlægja
 demotion n. stöðulækkun; lækkun, niðurfærsla
@@ -4591,7 +4592,7 @@ seismicity n. jarðskjálftavirkni
 complicit l. samsekur; meðvirkur
 empowerment n. valdefling, efling; umboðsveiting
 clear-sightedness n. glöggskyggni
-vegetarianism n. grænmetisát, grænkerasiður; sá siður að borða ekki kjöt
+vegetarianism n. grænmetisát; sá siður að borða ekki kjöt
 hairdryer n. hárþurrka, hárblásari
 embryology n. fósturfræði
 bachelorhood n. piparsveinslíf, hið ókvænta líf, einhleypni
@@ -4600,7 +4601,7 @@ organically ao. á lífrænan hátt eða máta, lífrænt
 jitterbug n. sveifludans
 unconventional l. óhefðbundinn, óvanabundinn, óvenjulegur
 pescatarian l. fiskáts-, sjávarfangsáts- ([~ diet]); n. fiskæta, sjávarfangsæta, manneskja sem neytir aðeins sjávarfangs
-pescatarianism n. fiskát, mataræði þar sem aðeins er borðað sjávarfang
+pescatarianism n. fiskát, mataræði þar sem aðeins sjávarfang (og mögulega grænmeti) er lagt sér til munns
 jogging n. skokk (sjá %[jog]%)
 meow uh. mjá! (mjálm í ketti)
 femur n. lærleggur, lærbein, lærliður
@@ -4641,7 +4642,17 @@ gastroenterologist n. meltingarlæknir
 gastroenterology n. meltingarfærafræði, meltingarlækningar
 lido n. útisundlaug
 GDP n. verg landsframleiðsla (stytt. á [gross domestic product])
+GNP n. verg þjóðarframleiðsla (stytt. á [gross national product])
 vigilante n. sjálfskipaður löggæslumaður, maður sem tekur lögin í eigin hendur
 vigilantism n. sjálfskipuð löggæsla, þegar óbreyttir borgarar taka lögin í eigin hendur
 accusative n. þolfall (í málfræði, [~ case]); l. þolfalls-; ásakandi, ásökunar- (sjá %[accuse]%)
-NIMBY uh. ekki í mínum bakgarði! (stytt. á [not in my backyard])
+NIMBY uh. ekki í mínum bakgarði! (slagorð, stytt. á [not in my backyard])
+nimbyism n. sú stefna að vilja ekki að e-ð gerist í sínu hverfi eða nágrenni (sjá %[NIMBY]%)
+anima n. sál, innri sjálf (í sálfræði)
+thitherward ao. í þá átt, þangað
+nuanced l. blæbrigðaríkur, blæbrigðinæmur, með blæbrigðum
+webzine n. veftímarit (samsett úr %[web]% og %[magazine]%)
+dialysis n. skilun, (himnu)síun, (himnu)skiljun
+haemodialysis n. blóðskilun
+# TODO: polyamorous
+# TODO: polyamory

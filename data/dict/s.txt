@@ -2921,31 +2921,31 @@ supplicatory l. biðjandi; bænar-; auðmjúkur
 supply s. birgja (að e-u [with]); leggja e-ð til ([~ money]); útvega, sjá fyrir ([~ provisions]); koma í staðinn fyrir ([~ the place of]); bæta úr ([~ wants]); n. forði, birgðir; gnótt; aðflutningur; fjárveiting; [~ and demand] framboð og eftirspurn; [cut off (the) supplies] hefta aðflutninga; hætta að veita fé (til e-s)
 support s. styðja ([~ a cause, a candidate]); styrkja; halda (bera) uppi; bera, þola ([I can ~ life no longer]); sjá fyrir, hafa ofan af fyrir ([~ a family]); halda (e-u) fram; verja; sanna; [~ the character of King Lear] leika Lear konung; n. stuðningur ([give ~ to]); stoð; aðstoð, hjálp; vörn ([speak in ~ of]); lífsuppeldi ([~ of life])
 supportable l. styðjanlegur; þolanlegur, bærilegur; sem verja má, verjandi
-supporter n. stuðningsmaður; hjálpari; varnarmaður
+supporter n. stuðningsmaður, fylgismaður; hjálpari; varnarmaður
 supposable l. sem gera má ráð fyrir
 suppose s. gera ráð fyrir, búast við; hyggja, halda, ímynda sér
-supposed l. ímyndaður
-supposing st. ef ([~ your father saw you, what would he say?])
-supposition n. ætlun; hyggja, ágiskun
+supposed l. ímyndaður, meintur, áætlaður
+supposing st. ef, gerandi ráð fyrir ([~ your father saw you, what would he say?])
+supposition n. ætlun; hyggja, ágiskun; ímyndun
 suppositional l. ímyndaður, (aðeins) hugsaður
 supposititious l. leynilega látinn í stað annars ([~ child]); falsaður; óekta
 suppress s. bæla niður, kæfa niður; þagga niður, þegja yfir; stilla, sefa, stöðva
-suppressible l. sem bæla má niður
+suppressible l. sem bæla eða kæfa má niður, niðurbælanlegur, niðurkæfanlegur; sefanlegur
 suppression n. niðurkæfing; afnám ([~ of monasteries]); sefun, stöðvun
 suppressive l. niðurbælandi; sefandi
-suppressor n. sá sem bælir niður
+suppressor n. sá sem bælir niður, niðurbælari, sefari
 suppurate s. grafa í; [the boil ~s] það grefur í kýlinu
 suppuration n. gröftur; ígerð
 supremacy n. æðstu yfirráð, æðsta vald, drottinvald
 supreme l. æðstur, efstur
-supremely ao. mjög, ákaflega
+supremely ao. mjög, ákaflega, gríðarlega
 surcharge s. ofhlaða, leggja of þunga byrði á; offylla; yfirstimpla; n. ofhleðsla, of þung byrði; yfirstimplun
 sure l. viss, vís; óbrigðull ([a ~ remedy]); áreiðanlegur; öruggur ([put it in a ~ place]); [he is ~ to come] það er víst, að hann kemur; [to make ~ of] tryggja sér (e-ð); fá vissu um; [make ~ that] fullvissa sig um að; [I feel ~ that] ég tel víst að; [I am ~ I can't see] ég get sannarlega ekki séð; [to be ~] áreiðanlega, vafalaust
 sure-footed l. fótvís, fastur á fótunum
 surely ao. sannarlega, víst; með vissu ([no man could say ~ how])
 surety n. vissa ([of a ~] vissulega); veð; ábyrgð, ábyrgðarmaður; [stand ~ for another] ganga (vera) í ábyrgð fyrir annan
 suretyship n. ábyrgð
-surf n. brim; s. fara á brimbretti
+surf n. brim; s. skemmta sér á brimbretti; vafra ([~ the internet]); l. brimbretta-
 surface n. yfirborð; s. koma upp á yfirborðið
 surfeit s. offylla, ofseðja; éta yfir sig; n. offylli, ofát; óbeit
 surfeiter n. átvagl, mathákur
