@@ -774,15 +774,15 @@ diabetic l. sykursjúkur; sykursýkis-
 diabetical l. sykursjúkur; sykursýkis-
 diadem n. djásn, kóróna
 diagnose s. greina eða ákveða (sjúkdóm)
-diagnosis n. sjúkdómsauðkenning, sjúkdómsgreining
-diagnostic l. sem lýtur að sjúkdómsgreiningu; sjá %[diagnosis]%
+diagnosis n. sjúkdómsauðkenning, (sjúkdóms)greining
+diagnostic l. sem lýtur að (sjúkdóms)greiningu; sjá %[diagnosis]%
 diagonal l. skáhallur; n. skálína
 diagonally ao. skáhalt
 diagram n. skýringarmynd, ritmynd
-dial n. sólskífa; úrskífa
+dial s. hringja ([~ a number]); n. sólskífa; úrskífa
 dialect n. mállýska
-dialectic l. sem lýtur að mállýskum eða rökfimi; rökfimis-; n. rökfimi, rökfræði, þrætubók, þrætubókarlist (einnig [~s])
-dialectician n. rökræðuspekingur
+dialectic l. sem lýtur að mállýskum eða rökfimi; rökfimis-; mállýsku-; n. rökfimi, rökfræði, þrætubók, þrætubókarlist (einnig [~s])
+dialectician n. rökræðuspekingur, þrætubókarspekingur
 dialogist n. samtalsmaður; samtalshöfundur
 dialogize s. tala, ræða (við e-n [with])
 dialogue n. samtal, viðræða, samræða

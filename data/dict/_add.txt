@@ -449,14 +449,15 @@ newswire n. fréttaveita, fréttastöð
 neurochemical l. taugaefnafræðilegur
 vector n. vigur, vektor
 cannabis n. kannabis (jurt sem er vímugjafi)
-revenant n. afturganga, uppvakningur; e-r sem snýr aftur (bókstafleg merking)
+revenant n. afturganga, uppvakningur; e-r sem snýr aftur
 bullshit n. kjaftæði, þvæla; nautaskítur; s. halda fram kjaftæði eða þvælu; blekkja; ljúga ([he was ~ting all along])
 shades n. ft. skyggð gleraugu, sólgleraugu
 econometric l. hagmælinga-, hagtölfræði-
 econometrics n. ft. hagmælingar; hagtölfræði
 cromulent l. ásættanlegur (grínorð úr teiknimyndaþáttunum [The Simpsons])
-cretin n. kretíni (vanþroska maður með óstarfhæfan skjaldkirtil); bjáni, asni, fífl, hálfviti, fáviti
-cretinism n. kretínismi (meðfæddur galli sem heftir starfsemi skjaldkirtils)
+cretin n. kretíni, kretíndvergur, kyrkivaxinn maður (vanþroska maður með óstarfhæfan skjaldkirtil); bjáni, asni, fífl, hálfviti, fáviti
+cretinism n. kyrkivöxtur, kretínismi (meðfæddur galli sem heftir starfsemi skjaldkirtils)
+cretinous l. kyrkivaxtar-, kretína-, kretíndverga; fávitalegur, bjánalegur
 doppelganger n. tvífari
 citizen n. borgari; ríkisborgari
 citizenship n. ríkisborgararéttur; ríkisfang
@@ -3915,7 +3916,7 @@ egocentrism n. sjálfhverfa, sjálflægni
 broadleaf l. breiðblaða, með breiðum laufblöðum
 broadleaved l. breiðblaða, með breiðum laufblöðum
 subduction n. sökkbelti ([~ zone])
-attaché n. sendiráðsritari; hermálafulltrúi ([military ~]); menningarmálafulltrúi ([cultural ~])
+attaché n. sendiráðsritari; fulltrúi; hermálafulltrúi ([military ~]); menningarmálafulltrúi ([cultural ~])
 subplot n. aukaflétta í söguþræði; hlutteikning; smáreitur
 psychotherapy n. sállækning, sálræn meðferð
 aspirin n. aspirín, asetýlsalisýlsýra
@@ -4305,9 +4306,9 @@ crosswalk n. gangbraut
 hypothermia n. ofkæling, lágur líkamshiti
 hypothermic l. ofkælingar-
 solidification n. storknun; þétting; hersli
-peripheral l. jaðar-; n. jaðarbúnaður, jaðartæki, fylgitæki
-barbarization n. villimennskun, snúningur til villimennsku
-Prometheus n. Prómeþeifur (persóna í grískri goðafræði sem stal eldinum handa mannfólkinu)
+peripheral l. jaðar-; [~ vision] jaðarsjón; n. jaðarbúnaður, jaðartæki, fylgitæki
+barbarization n. villimennskun, villimennskuvæðing, snúningur til villimennsku
+Prometheus n. Prómeþeifur (persóna í grískri goðafræði sem stal eldi frá goðunum)
 Promethean l. prómeþeifskur, Prómeþeifs- (sjá %[Prometheus]%)
 mood disorder n. lyndisröskun, lyndistruflun, skapröskun
 unavoidably ao. óhjákvæmilega
@@ -4457,7 +4458,7 @@ self-employment n. sjálfsmennska, vinna fyrir sig sjálfan
 meltdown n. bráðnun, bræðsluslys (í kjarnaofni [nuclear ~])
 built-in l. innbyggður, ílægur
 broken-hearted l. harmþrunginn
-child-rearing n. uppeldi (barna)
+child-rearing n. uppeldi (barna), barnauppeldi
 bowling n. keila, keiluleikur
 caste system n. stéttakerfi (sjá %[caste]%)
 Zaire n. Saír (fyrrum heiti ríkisins Kongó)
@@ -4595,7 +4596,9 @@ clear-sightedness n. glöggskyggni
 vegetarianism n. grænmetisát; sá siður að borða ekki kjöt
 hairdryer n. hárþurrka, hárblásari
 embryology n. fósturfræði
-bachelorhood n. piparsveinslíf, hið ókvænta líf, einhleypni
+bachelorhood n. piparsveinslíf, einhleypi, ókvænt ástand karlmanns
+spinsterhood n. piparmeyjarlíf, einhleypi, ókvænt ástand kvenmanns
+spinsterish l. piparmeyjar-, piparmeyjarlegt
 cliffside n. klettaveggur, klettar; bjargbrún, klettabrún
 organically ao. á lífrænan hátt eða máta, lífrænt
 jitterbug n. sveifludans
@@ -4648,11 +4651,12 @@ vigilantism n. sjálfskipuð löggæsla, þegar óbreyttir borgarar taka lögin 
 accusative n. þolfall (í málfræði, [~ case]); l. þolfalls-; ásakandi, ásökunar- (sjá %[accuse]%)
 NIMBY uh. ekki í mínum bakgarði! (slagorð, stytt. á [not in my backyard])
 nimbyism n. sú stefna að vilja ekki að e-ð gerist í sínu hverfi eða nágrenni (sjá %[NIMBY]%)
-anima n. sál, innri sjálf (í sálfræði)
+anima n. sál, innra sjálf (í sálfræði)
 thitherward ao. í þá átt, þangað
-nuanced l. blæbrigðaríkur, blæbrigðinæmur, með blæbrigðum
+nuanced l. blæbrigðaríkur, blæbrigðanæmur, með blæbrigðum
 webzine n. veftímarit (samsett úr %[web]% og %[magazine]%)
 dialysis n. skilun, (himnu)síun, (himnu)skiljun
 haemodialysis n. blóðskilun
+WMD n. gjöreyðingarvopn, gereyðingarvopn (stytt. á [weapon(s) of mass destruction])
 # TODO: polyamorous
 # TODO: polyamory

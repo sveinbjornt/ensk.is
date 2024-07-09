@@ -344,9 +344,7 @@ leastwise ao. að minnsta kosti
 leather n. leður; l. úr leðri, leður-; s. leðurbúa; berjast með leðuról
 leather-dresser n. sútari
 leathery l. leðurkynjaður; seigur
-leave n. leyfi; kveðja, skilnaður; [to ask ~ to] biðja um leyfi að; [to take (one's) ~ of] kveðja e-n
-leave s. skilja eftir, skilja við, fara frá, yfirgefa; láta eftir sig (konu, börn, eignir); fara af stað; [to be left to oneself] vera látinn eiga sig; [~ alone] skipta sér ekki af e-u; [~ behind] skilja eftir; fara fram úr e-m; [~ for] fara af stað til (e-s staðar); [~ off] hætta við, hætta; leggja niður (föt, venjur); [~ off raining] hætta að rigna; [~ out] sleppa úr, gleyma úr; [~ with] skilja eftir hjá e-m
-leave s. fá blöð, laufgast
+leave s. skilja eftir, skilja við, fara frá, yfirgefa; láta eftir sig (konu, börn, eignir); fara af stað; [to be left to oneself] vera látinn eiga sig; [~ alone] skipta sér ekki af e-u; [~ behind] skilja eftir; fara fram úr e-m; [~ for] fara af stað til (e-s staðar); [~ off] hætta við, hætta; leggja niður (föt, venjur); [~ off raining] hætta að rigna; [~ out] sleppa úr, gleyma úr; [~ with] skilja eftir hjá e-m; fá blöð, laufgast; n. leyfi; kveðja, skilnaður; [to ask ~ to] biðja um leyfi að; [to take (one's) ~ of] kveðja e-n
 leaved l. laufgaður; blaðaður ([three-~]); vængjaður (um hurð)
 leaven n. súrdeig; s. sýra
 leave-taking n. kveðja
@@ -521,9 +519,8 @@ lie n. lygi; [to tell ~s] ljúga; [to give the ~ to] segja (e-n) ljúga; ósanna
 lie s. liggja ([~ asleep, sick]); [~ by] liggja kyrr (ónotaður); [~ down] leggjast niður; leggja sig til hvíldar; liggja; [~ in] liggja á sæng (um konu); [as far as in me ~s, all that ~s in my power] allt sem í mínu valdi stendur; [~ on (upon)] hvíla á e-m (um skyldu); vera kominn undir (e-m); [~ to] hafast við (um skip); [~ under] liggja undir, vera háöur; [it ~s with you to] það er skylda þín að, þér ber að; [~ up] liggja uppi; liggja í rúminu; n. lega ([the ~ of the land])
 lief ao. ljúft, gjarna; [I had as ~ go] ég vildi eins gjarna fara
 liege l. þegnskyldur, lénskyldur; n. lénsmaður; trúr þegn; lénsdrottinn ([~ lord])
-lien n. eignarband, veðband
+lien n. eignarband, veðband; staður; [in ~ of] í staðinn fyrir, sem borgun (laun) fyrir
 lientery n. lífsýki, sótt
-lien n. staður; [in ~ of] í staðinn fyrir; sem borgun (laun) fyrir
 lieutenancy n. undirforingjaembætti; landsstjóraembætti; allir undirforingjar
 lieutenant n. undirforingi; landsstjóri, fylkisstjóri
 life n. líf; líferni; fjör; ævi; ævisaga; [many lives were lost] margir létu lífið; [at our time of ~] á vorum dögum; [for ~] ævilangt; [for one's ~] til að forða lífinu, eins og lífið eigi að leysa ([run for dear ~]); [cannot for the ~ of me] þó að ég ætti lífið að leysa; [to draw from (after) the ~] draga upp eftir lifandi fyrirmynd; [to the ~] ákaflega líkur; [as large as ~] í fullri líkamsstærð
