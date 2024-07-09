@@ -2946,9 +2946,9 @@ novella n. nóvella (stutt skáldsaga eða löng smásaga)
 amnesia n. minnistap, minnisleysi, gleymska
 amnesiac n. minnisleysingi, sá sem er þjakaður af minnisleysi (sjá %[amnesia]%)
 numeracy n. talnalæsi
-homophobia n. hommafælni, hommahatur, ótti við samkynhneigða
-homophobe n. hommahatari, e-r sem óttast samkynhneigða
-homophobic l. hommafælinn, hommahatandi, hommahaturs-, hommafælni-, sem óttast samkynhneigð
+homophobia n. hommafælni, hommahatur, hatur á eða ótti við samkynhneigða
+homophobe n. hommahatari, e-r sem óttast eða hatar samkynhneigða
+homophobic l. hommafælinn, hommahatandi, hommahaturs-, hommafælni-, sem óttast eða hatar samkynhneigða
 denigrate s. hallmæla, ófrægja, niðra
 denigration n. mannorðsspjöll, ófræging, hallmæli
 denigratory n. niðrandi, ófrægjandi, ærumeiðandi, mannorðsspillandi, hallmælandi
@@ -4238,21 +4238,21 @@ piglet n. gríslingur
 toxicology n. eiturefnafræði
 toxicologist n. eiturefnafræðingur
 toxicological l. eiturefnafræðilegur
-pollster n. skoðanakönnuður
+pollster n. skoðanakönnuður, skoðanakönnunasérfræðingur
 whisperer n. hvíslari
 plowshare n. plógjárn
 secretaryship n. ritaraembætti
 multivariate l. fjölbreytu-, fjölþátta-, margvíður; [~ analysis] fjölbreytugreining, fjölþáttagreining, margvíð greining
 corrigendum n. leiðréttingamiði; prentvillulisti
 physiologically ao. lífeðlisfræðilega
-shamelessness n. blygðunarleysi
+shamelessness n. blygðunarleysi, skömmustuleysi
 clickbait n. smellbeita
 shallows n. ft. grynningar, grynning
 hyperspace n. stiklurými
 preindustrial l. fyrir iðnbyltingu
 postindustrial l. eftir iðnbyltingu
-bicycling n. hjólreiðar
-self-enhancement n. sjálfshafning
+bicycling n. hjólreiðar; l. hjólreiða-
+self-enhancement n. sjálfshafning, sjálfsbót
 tsardom n. keisaradæmi; keisaraveldi; keisaratign
 czardom n. keisaradæmi; keisaraveldi; keisaratign
 Anatolia n. Anatólía, Litla-Asía (stór skagi í Suðvestur-Asíu)
@@ -4260,15 +4260,16 @@ Asia Minor n. Litla-Asía (stór skagi í Suðvestur-Asíu)
 boilerplate n. fastatexti, geymdur texti (texti sem er notaður ítrekað í mörgum skjölum)
 ammonium n. ammóníum
 quantifiable l. mælanlegur, magnmælanlegur
-devilishly ao. djöfullega
+devilishly ao. djöfullega, andskoti
 needlessly ao. óþarflega, að óþörfu
 mapmaking n. kortagerð
 mapmaker n. kortagerðarmaður
-considerably ao. talsvert
+considerably ao. talsvert, verulega
 steam-driven l. gufuknúinn
 dollhouse n. dúkkuhús
 mycology n. sveppafræði
 mycologist n. sveppafræðingur
+mycological l. sveppafræðilegur
 cucurbit n. kúrbítur; grasker
 preferably ao. helst
 genotype n. arfgerð, erfðafar
@@ -4505,6 +4506,7 @@ tripedal l. þrífættur, þrífóts-
 tripodal l. þrífættur, þrífóts-
 mugger n. ræningi, göturæningi
 paralysed l. lamaður, aflvana
+burgle s. brjótast inn, fremja innbrotsþjófnað
 burglarize s. brjótast inn, fremja innbrotsþjófnað
 osteoarthritis n. slitgigt, liðahrörnun
 anyway ao. hvort eð er, hvort sem er, samt, samt sem áður, engu að síður, allavega; uh. allavega!
@@ -4535,7 +4537,6 @@ thumbscrew n. þumalskrúfa (pyntingatæki); e.k. skrúfa
 fallout n. (geislavirkt) ofanfall, úrfall, úrfelli, ryk
 downwind l. undan vindi
 chairperson n. fundarstjóri; forseti, formaður
-splenetic l. miltissjúkur; geðstirður
 splenectomy n. miltisnám
 decile n. tíundarmark
 lungful n. lungnafylli
@@ -4568,8 +4569,8 @@ unconsciously ao. ómeðvitað, á meðvitundarlausan eða ómeðvitaðan hátt
 eggcup n. eggjabikar
 kitty n. kisa, kisi, köttur
 supersession n. yfirtaka (sjá %[supersede]%)
-polymorph s. fjölforma, fjölmynda
-polymorphism n. fjölbreytni, margbreytni
+polymorph s. fjölforma, fjölmynda, margmynda
+polymorphism n. margbreytni, fjölbreytni
 polymorphous l. margbreytilegur, fjölbreytilegur
 polymorphic l. margbreytilegur, fjölbreytilegur
 polymorphically ao. margbreytilega, fjölbreytilega
@@ -4640,3 +4641,7 @@ gastroenterologist n. meltingarlæknir
 gastroenterology n. meltingarfærafræði, meltingarlækningar
 lido n. útisundlaug
 GDP n. verg landsframleiðsla (stytt. á [gross domestic product])
+vigilante n. sjálfskipaður löggæslumaður, maður sem tekur lögin í eigin hendur
+vigilantism n. sjálfskipuð löggæsla, þegar óbreyttir borgarar taka lögin í eigin hendur
+accusative n. þolfall (í málfræði, [~ case]); l. þolfalls-; ásakandi, ásökunar- (sjá %[accuse]%)
+NIMBY uh. ekki í mínum bakgarði! (stytt. á [not in my backyard])

@@ -1182,7 +1182,7 @@ proliferate
 victimizer
 expropriator
 rehabilitative
-burgle
+
 syrinx
 anticipatory
 counter-culture
@@ -1438,8 +1438,6 @@ beltway
 roomful
 supplier
 backstop
-vigilante
-vigilantism
 distributional
 quadrillion
 monetization
@@ -3993,3 +3991,5 @@ sinkhole
 chartreuse
 whisked
 Rolodex
+refactor
+neon
