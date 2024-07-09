@@ -1272,11 +1272,11 @@ apropos l. hentugur; ao. eftir á að hyggja; [~ of] að því er snertir e-ð
 apt l. hæfur; hentugur; vel viðeigandi ([an ~ reply]); hneigður; [I am ~ to] mér er hætt við að, ég er fljótur til að ([~ to forgive])
 aptness n. hæfileiki (til e-s [for]); tilhneiging
 aptitude n. hæfileiki (til e-s [for]); tilhneiging
-aquamarine n. blágrænn gimsteinn (beryl)
+aquamarine n. blágrænn gimsteinn (beryl); l. blágrænn
 aquarium n. fiskabúr, vatnsker (til að geyma í lifandi fiska)
 aquatic l. sem vex eða lifir í vatni; n. vatnsplanta
-aqueduct n. vatnsveitustokkur, vatnsrenna
-aqueous l. vatnskenndur
+aqueduct n. vatnsveitustokkur, vatnsrenna, vatnsleiðsla, vatnsveita
+aqueous l. vatnskenndur, vatns-
 aquiline l. arnar-; [~ nose] arnarnef, kónganef
 Arab n. Arabi; arabískur hestur
 Arabian n. Arabi; l. arabískur

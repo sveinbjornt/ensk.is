@@ -1920,13 +1920,15 @@ soccer n. fótbolti (Band.)
 cheekbone n. kinnbein
 Prussia n. Prússland
 hyperinflation n. óðaverðbólga
-paperwork n. pappírsvinna
-warship n. herskip
+paperwork n. pappírsvinna; skriffinnska
+warship n. herskip, orrustuskip
 roadblock n. vegatálmi; hindrun
 airstrike n. loftárás
 mass-produce s. fjöldaframleiða
 backseat n. aftursæti, baksæti
 Shetlands n. Hjaltlandseyjar
+Shetlander n. Hjalti, maður frá Hjaltlandseyjum
+Shetlandic l. hjaltneskur, frá Hjaltlandseyjum
 fedora n. e.k. hattur
 streetcar n. götuvagn
 postwar l. eftirstríðs-
@@ -4553,7 +4555,7 @@ conscientiously ao. samviskusamlega
 cost-effectiveness n. hagkvæmni
 cost-effective l. hagkvæmur
 coastal l. strand-; [~ town] strandbyggð, strandbær
-ego n. sjálf
+ego n. sjálf, sjálfsmynd
 superego n. yfirsjálf
 hydrosphere n. vatnshvolf, vatnshvel; vatnshjúpur
 multipolar l. fjölskauta, fjölpóla
@@ -4595,7 +4597,7 @@ bachelorhood n. piparsveinslíf, hið ókvænta líf, einhleypni
 cliffside n. klettaveggur, klettar; bjargbrún, klettabrún
 organically ao. á lífrænan hátt eða máta, lífrænt
 jitterbug n. sveifludans
-unconventional l. óhefðbundinn, óvenjulegur, óvanabundinn
+unconventional l. óhefðbundinn, óvanabundinn, óvenjulegur
 pescatarian l. fiskáts-, sjávarfangsáts- ([~ diet]); n. fiskæta, sjávarfangsæta, manneskja sem neytir aðeins sjávarfangs
 pescatarianism n. fiskát, mataræði þar sem aðeins er borðað sjávarfang
 jogging n. skokk (sjá %[jog]%)
@@ -4634,3 +4636,7 @@ khanate n. höfðingjaveldi, stórhöfðingjaveldi (í Asíu)
 Tokyo n. Tókýó (höfuðborg Japans)
 Bigfoot n. Snjómaðurinn ógurlegi (goðsagnakennd vera)
 boomerang n. búmerang (ástralskt kastvopn)
+gastroenterologist n. meltingarlæknir
+gastroenterology n. meltingarfærafræði, meltingarlækningar
+lido n. útisundlaug
+GDP n. verg landsframleiðsla (stytt. á [gross domestic product])

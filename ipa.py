@@ -743,6 +743,8 @@ SKIP = frozenset(
         "palaeological",
         "palaeology",
         "transcience",
+        "Shetlander",
+        "Shetlandic",
     )
 )
 
