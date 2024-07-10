@@ -744,7 +744,7 @@ devilkin n. smádjöfull
 devilry n. djöflagangur; djöfullegt athæfi
 devious l. afskekktur; hlykkjóttur; reikandi, reikull
 devisable l. arfgæfur
-devise s. hugsa upp, finna upp; gefa (einkum fasteign) með arfleiðsluskrá; n. arfleiðsluskrá; arfleiðslugjöf (í fasteign)
+devise s. hugsa upp, finna upp; gefa (einkum fasteign) með erfðaskrá; n. erfðaskrá; arfleiðslugjöf (í fasteign)
 deviser n. upphafsmaður
 devisor n. arfleiðandi
 devoid l. laus (við [of]); tómur
@@ -779,7 +779,7 @@ diagnostic l. sem lýtur að (sjúkdóms)greiningu; sjá %[diagnosis]%
 diagonal l. skáhallur; n. skálína
 diagonally ao. skáhalt
 diagram n. skýringarmynd, ritmynd
-dial s. hringja ([~ a number]); n. sólskífa; úrskífa
+dial s. hringja ([~ a number]); snúa (til baka, [~ back]) n. sólskífa; úrskífa
 dialect n. mállýska
 dialectic l. sem lýtur að mállýskum eða rökfimi; rökfimis-; mállýsku-; n. rökfimi, rökfræði, þrætubók, þrætubókarlist (einnig [~s])
 dialectician n. rökræðuspekingur, þrætubókarspekingur

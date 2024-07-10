@@ -235,21 +235,21 @@ accrue s. spretta (af [from]), vaxa; falla undir e-n [to]
 accumulate s. safna, hrúga saman; safnast
 accumulation n. safn, samhrúgun
 accumulative l. sem safnast hefur saman
-accuracy n. nákvæmni
-accurate l. nákvæmur; vandvirkur
+accuracy n. nákvæmni, hittni
+accurate l. nákvæmur; vandvirkur; hittinn
 accurately ao. nákvæmlega
-accurateness n. nákvæmni
+accurateness n. nákvæmni; hittni
 accurse s. bölva
 accursed l. bölvaður; andstyggilegur
 accurst l. bölvaður; andstyggilegur
-accusal n. ákæra, sakargift
-accusant n. ákærandi
-accusation n. ákæra
+accusal n. ákæra, ásökun, sakargift
+accusant n. ákærandi, ásakandi
+accusation n. ákæra, ásökun
 accusatory l. ásakandi; kæru-
 accuse s. kæra (fyrir [of]); ásaka, lasta; [the ~d party] sakborningur
 accuser n. sakaráberi, ákærandi
 accustom s. venja (við [to])
-accustomed l. vanur; venjulegur
+accustomed l. vanur (e-u [to]); venjulegur
 ace n. ás (í spilum); ögn; [within an ~ of] það munaði engu, að
 acephalous l. höfuðlaus; foringjalaus, forystulaus
 acerb l. súr, beiskur; napur

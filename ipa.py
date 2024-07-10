@@ -748,6 +748,8 @@ SKIP = frozenset(
         "mycological",
         "nimbyism",
         "thitherward",
+        "dynode",
+        "WMD",
     )
 )
 

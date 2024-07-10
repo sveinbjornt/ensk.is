@@ -588,7 +588,7 @@ storytelling
 campus
 lockdown
 slipperiness
-incommunicado
+
 snowplow
 hallway
 intersectionality
@@ -1891,8 +1891,6 @@ cop
 paddy
 self-regulation
 white-collar
-miniscule
-minuscule
 squishy
 dropout
 extraversion
@@ -3995,3 +3993,7 @@ brontosaurus
 triceratops
 drenched
 salmiac
+spermicide
+aspermatic
+aspermatic
+endosperm

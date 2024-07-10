@@ -513,7 +513,7 @@ endlong ao. eftir endilöngu, endilangt
 endorse s. rita (nafn sitt) aftan á (víxil), ábekja; staðfesta
 endorsement n. áritun (aftan á víxil), ábeking, víxilframsal; staðfesting
 endorser n. víxilframseljandi, ábekingur
-endow s. sjá (e-m) fyrir föstum tekjum (með gjafabréfi eða arfleiðsluskrá); gæða, búa (e-n hæfileikum); [~ed school] sem hefur fastar tekjur
+endow s. sjá (e-m) fyrir föstum tekjum (með gjafabréfi eða erfðaskrá); gæða, búa (e-n hæfileikum); [~ed school] sem hefur fastar tekjur
 endowment n. fasteign eða sjóður, sem e-t félag eða stofnun fær tekjur af; hæfileiki, gáfa
 endue s. íklæðast, taka á sig, fara í; færa (klæða) í ([with]); búa e-n (hæfileikum)
 endurable l. þolanlegur, bærilegur; haldgóður
@@ -1025,7 +1025,7 @@ ewe n. ær
 ewe lamb n. gimbur
 ewe milk n. sauðamjólk
 ewer n. vatnskanna (sem tilheyrir þvottaskál)
-exacerbate s. æsa, egna, erta
+exacerbate s. æsa, egna, erta, gera verra
 exacerbation n. gremja; versnun ([~ of disease])
 exact l. nákvæmur; áreiðanlegur; s. krefja (e-n e-s), krefjast e-s (af e-m [of, from]); heimta saman (t.d. skuldir eða skatta); ganga ríkt eftir
 exacting l. heimtufrekur, harður í kröfum, harðdrægur

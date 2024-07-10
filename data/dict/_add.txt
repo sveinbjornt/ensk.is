@@ -4658,5 +4658,12 @@ webzine n. veftímarit (samsett úr %[web]% og %[magazine]%)
 dialysis n. skilun, (himnu)síun, (himnu)skiljun
 haemodialysis n. blóðskilun
 WMD n. gjöreyðingarvopn, gereyðingarvopn (stytt. á [weapon(s) of mass destruction])
+incommunicado l. í einangrun, einangraður; ekki í samskiptum, án samskipta, samskiptalaus
+dynode n. dínóða, þrepaskaut
+krill n. áta, kríli, ljósáta
+cocksucker n. e-r sem sýgur typpi, skíthæll, fífl, hálfviti, asni (óforml.)
+feisty l. viljugur, fjörugur, gáskafullur
 # TODO: polyamorous
 # TODO: polyamory
+# TODO: miniscule
+# TODO: minuscule

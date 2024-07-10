@@ -714,8 +714,8 @@ greedy l. gráðugur, sólginn (í e-ð [of])
 green l. grænn; nýr, ferskur (um kjöt); óþroskaður; hrár (um nýfelldan við); fölur, bleikur (á svip); óvanur, óreyndur; kröftugur ([~ old age]); n. grænn litur; græn grasflöt; ft. grænar matjurtir; græn blöð, lauf; s. lita (gera) grænt; verða grænn, grænka ([~ over])
 greenery n. græn lauf, grænar greinar
 green goose n. ung gæs; auli
-greengrocer n. matjurtasali
-greengrocery n. grænmetisbúð; matjurtir
+greengrocer n. matjurtasali, matvörusali
+greengrocery n. grænmetisbúð, matvörubúð; matjurtir
 greenhorn n. græningi, viðvaningur
 greenhouse n. gróðrarhús (fyrir plöntur)
 greenish l. grænleitur; ígrænn
@@ -782,7 +782,7 @@ groan s. stynja, andvarpa; braka í (viði, [the swaying branches ~ed]); [~ for]
 groaning n. stunur; brak
 groat n. peningur
 groats n. ft. mulin hafragrjón
-grocer n. kaupmaður sem selur nýlenduvörur (kaffi, sykur, tegras, grjón o.fl.), kryddsali
+grocer n. kaupmaður, verslunarmaður
 grocery n. nýlenduvörur, ft. [groceries] innkaupavörur
 grog n. ósæt áfengisblanda
 groggy l. ölvaður; riðandi, skjögrandi
@@ -795,8 +795,8 @@ groomy l. sem líkist hestasveini
 groove n. gróp, skora; vanaferill ([to go on in the old ~]); s. grópa, gera skoru í, greypa
 grope s. þreifa fyrir sér, fálma; [~ one's way] þreifa sig áfram; [~ out] grafast fyrir e-ð
 gropingly ao. með því að þreifa sig áfram
-gross l. stór, digur, feitur (um skepnur); þykkur (um loft); stórkostlegur; klúr; ókurteis; ósæmilegur; [~ receipt] tekjur með öllum kostnaði; [~ amount] heildarupphæð; [~ weight] vigt með öllum umbúðum; n. megin, meginhluti; gross (12 tylftir); [dealer in ~] stórkaupmaður
-grossly ao. stórkostlega, frámunalega
+gross l. stór, digur, feitur; þykkur (um loft); klúr, ókurteis, ósæmilegur, ógeðslegur; vergur; [~ receipt] tekjur með öllum kostnaði; [~ amount] heildarupphæð; [~ weight] vigt með öllum umbúðum; n. megin, meginhluti; gross (12 tylftir); [dealer in ~] stórkaupmaður
+grossly ao. stórkostlega, frámunalega; ógeðslega
 grossness n. þéttleiki; afskapleiki ([the ~ of the lie]); klúrleiki, ruddaskapur ([~ of conduct]); heimska
 grotesque l. kynlegur, afkáralegur, hlægilegur; n. skrípamynd; skrípaleikari
 grotto n. hellir

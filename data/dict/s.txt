@@ -1873,7 +1873,8 @@ spender n. eyðandi; eyðsluseggur
 spendthrift n. eyðsluseggur, eyðslukló, eyðslumaður, óspilunarseggur, óspilunarkind
 sperm n. sæði; hrogn
 spermaceti n. hvalsauki, hvalsambur
-spermaceti whale n. búrhveli, búrhvalur
+spermaceti whale n. búrhvalur, búrhveli
+sperm whale n. búrhvalur, búrhveli
 spew s. spýja, selja upp
 sphenoid l. fleygmyndaður; n. fleygbein ([~ bone])
 sphere n. kúla; himinhnöttur; himinn; starfssvið, verkahringur ([~ of action, ~ of operation]); staða, stétt

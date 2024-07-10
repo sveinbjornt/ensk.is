@@ -530,10 +530,10 @@ medicate s. blanda (læknislyfi) í; lækna; [~d waters] ölkeldur; [~d baths] b
 medication n. (lyfja)blöndun; lyfjanotkun ([he's on heavy ~])
 medicinal l. læknandi; lækninga-
 medicinally ao. [take it ~] eins og læknislyf
-medicine n. læknisfræði; læknislyf; s. lækna; gefa inn lyf ([~ the sick])
+medicine n. lyf, læknislyf; læknisfræði; s. lækna; gefa inn lyf ([~ the sick])
 medieval n. miðalda-; [the ~ ages] miðaldirnar
-mediocre l. sem er í meðallagi, lakur; n. miðlungsmaður
-mediocrity n. meðalmennska, meðalmenni; meðallag, miðlungsskapur
+mediocre l. í meðallagi, lakur, meðalllags-, miðlungs-; n. miðlungsmaður
+mediocrity n. meðalmennska, meðallag, miðlungsskapur; meðalmenni
 meditate s. hugleiða, hugsa um; hafa í hyggju
 meditation n. hugleiðing, umhugsun; hugvekja
 meditative l. hugsandi, íhugunarsamur
