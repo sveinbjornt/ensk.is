@@ -4663,10 +4663,17 @@ dynode n. dínóða, þrepaskaut
 krill n. áta, kríli, ljósáta
 cocksucker n. e-r sem sýgur typpi, skíthæll, fífl, hálfviti, asni (óforml.)
 feisty l. viljugur, fjörugur, gáskafullur
-hello uh. halló, sæll, blessaður; [say ~] heilsa
+hello uh. halló, sæll, blessaður; [say ~] heilsa (upp á)
 hullo uh. halló, sæll, blessaður
-hi uh. hæ, sæll, blessaður
+hi uh. hæ, sæll, blessaður; [say ~] heilsa (upp á)
 aesthete n. fagurkeri
+epizootic l. faralds-, farsóttar-, sem sýkir dýr sömu tegundar
+intergroup l. millihópa-
+seawater n. sjór, sjávarvatn
+disinhibition n. afhömlun
+syrinx n. neðra barkakýli, raddhylki
+rheumatoid l. gigtar-, gigtarlegur, gigtlíkur
+rheumatoidal l. gigtar-, gigtarlegur, gigtlíkur
 # TODO: polyamorous
 # TODO: polyamory
 # TODO: miniscule
