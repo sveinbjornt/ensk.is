@@ -919,7 +919,7 @@ ziggurat n. musteristurn, musterispíramídi, stallapíramídi
 Zion n. Síon (hæð í borginni Jerúsalem í Palestínu)
 Zionism n. síonismi (sú stefna að stofna sjálfstætt ríki gyðinga í Palestínu)
 Zionist n. síonisti (sá sem aðhyllist síonisma, sjá %[Zionism]%); l. síonista-
-zeta n. sjötti stafurinn í gríska stafrófinu (Ζ eða ζ)
+zeta n. sjötti stafurinn í gríska stafrófinu (ζ)
 zeppelin n. loftfar, loftskip
 Zeus n. Seifur, æðsti guðinn í forngrískri goðafræði
 zero gravity n. þyngdarleysi (t.d. í geimskipi eða geimstöð)
@@ -4663,6 +4663,10 @@ dynode n. dínóða, þrepaskaut
 krill n. áta, kríli, ljósáta
 cocksucker n. e-r sem sýgur typpi, skíthæll, fífl, hálfviti, asni (óforml.)
 feisty l. viljugur, fjörugur, gáskafullur
+hello uh. halló, sæll, blessaður; [say ~] heilsa
+hullo uh. halló, sæll, blessaður
+hi uh. hæ, sæll, blessaður
+aesthete n. fagurkeri
 # TODO: polyamorous
 # TODO: polyamory
 # TODO: miniscule
