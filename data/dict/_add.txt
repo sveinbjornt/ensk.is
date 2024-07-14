@@ -4683,7 +4683,17 @@ physiotherapy n. sjúkraþjálfun
 endosperm n. fræhvíta
 spermicide n. sáðfrumnaeyðir
 triceratops n. nashyrningseðla
-brontosaurus n. þórseðla
+brontosaurus n. þórseðla (risaeðlutegund)
+corselet n. lífstykki
+beluga n. mjaldur
+frisbee n. frisbí, svifdiskur
+welfarism n. velferðarstefna
+foraging n. fæðuöflun, fæðuleit
+clockmaker n. úrsmiður, klukkusmiður
+testosterone n. testosterón (hormón)
+estrogen n. estrógen, kvenhormón
+rooster n. hani
+beeswax n. býflugnavax
 # TODO: polyamorous
 # TODO: polyamory
 # TODO: miniscule

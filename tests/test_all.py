@@ -40,7 +40,8 @@ import os
 import sys
 
 from fastapi.testclient import TestClient
-from gen import delete_db
+
+# from gen import delete_db
 from db import EnskDatabase
 
 # Add parent dir to path so we can import from there

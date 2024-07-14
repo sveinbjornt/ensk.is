@@ -56,6 +56,10 @@ div.result {
     margin-bottom: 0.7em;
 }
 
+div.result:hover {
+    background-color: #f9f9f9;
+}
+
 div.result a {
     text-decoration: none;
 }
