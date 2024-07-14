@@ -750,6 +750,9 @@ SKIP = frozenset(
         "thitherward",
         "dynode",
         "WMD",
+        "disinhibition",
+        "nanotech",
+        "rheumatoidal",
     )
 )
 

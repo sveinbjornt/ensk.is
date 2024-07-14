@@ -3666,6 +3666,7 @@ hospitalized l. vistaður á sjúkrahúsi
 hypothyroidism n. skjaldvakabrestur, skjaldvakaskortur, vanvirkni skjaldkirtils
 psychotropic l. geðsækinn, sem hefur áhrif á sálarlíf; n. geðlyf ([~ drugs])
 nanotechnology n. nanótækni, dvergtækni
+nanotech n. nanótækni, dvergtækni (stytt. á %[nanotechnology]%)
 meritocracy n. verðleikaveldi (stjórnarfar eða skipulag þar sem fólk kemst til valda sökum verðleika sinna)
 meritocratic l. verðleika-, verðleikaveldis- (sjá %[meritocracy]%)
 counterweight n. andvægi, mótvægi
@@ -4674,6 +4675,15 @@ disinhibition n. afhömlun
 syrinx n. neðra barkakýli, raddhylki
 rheumatoid l. gigtar-, gigtarlegur, gigtlíkur
 rheumatoidal l. gigtar-, gigtarlegur, gigtlíkur
+Hebrides n. ft. Suðureyjar (eyjaklasi við vesturströnd Skotlands)
+fireworks n. ft. flugeldar
+hologram n. heilmynd, almynd
+physiotherapist n. sjúkraþjálfari
+physiotherapy n. sjúkraþjálfun
+endosperm n. fræhvíta
+spermicide n. sáðfrumnaeyðir
+triceratops n. nashyrningseðla
+brontosaurus n. þórseðla
 # TODO: polyamorous
 # TODO: polyamory
 # TODO: miniscule
