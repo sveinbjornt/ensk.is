@@ -1370,13 +1370,11 @@ divulge s. gera kunnugt, birta, koma e-u upp
 dizen s. hlaða skrauti utan á ([~ed with gold and jewels])
 dizziness n. svimi, sundl
 dizzy l. svimagjarn; svimandi, sundlandi; s. láta sundla; rugla
-do s. gera; framkvæma; ljúka við; starfa; hegða sér, breyta; duga, nægja; [~ him harm] gera honum mein; [it does him credit] það er honum til sóma; [~ a room] taka til í herbergi; [he did Lear] hann lék Lear; [~ a distance] fara svo eða svo langa vegalengd; [~ or die] duga eða drepast; [to have done writing] hafa lokið við að skrifa; [have done!] hættu! [thy will be done] verði þinn vilji; [~ a sum] reikna dæmi; [~ well] ganga vel, heppnast ([your affairs are ~ing well]); [how ~ you ~]? hvernig liður yður? sælir verið þér o.s.frv.; [~ away (with)] with gera enda á e-u, útrýma; [~ (to others) as you would be done by] breyttu við aðra, eins og þú vilt að aðrir breyti við þig; [~ for] gera út af við; [~ into English] þýða á ensku; [~ to death] drepa; [~ up] gera við; búa um (böggul); gera út af við; leika á e-n; hafa af e-m; [~ with] notast við; komast af með e-ð; [~ without] komast af án e-s, geta verið án e-s
-do ao. sjá %[ditto]%
-do n. bragð, svik
+do s. gera; framkvæma; ljúka við; starfa; hegða sér, breyta; duga, nægja; [~ him harm] gera honum mein; [it does him credit] það er honum til sóma; [~ a room] taka til í herbergi; [he did Lear] hann lék Lear; [~ a distance] fara svo eða svo langa vegalengd; [~ or die] duga eða drepast; [to have done writing] hafa lokið við að skrifa; [have done!] hættu! [thy will be done] verði þinn vilji; [~ a sum] reikna dæmi; [~ well] ganga vel, heppnast ([your affairs are ~ing well]); [how ~ you ~]? hvernig liður yður? sælir verið þér o.s.frv.; [~ away (with)] with gera enda á e-u, útrýma; [~ (to others) as you would be done by] breyttu við aðra, eins og þú vilt að aðrir breyti við þig; [~ for] gera út af við; [~ into English] þýða á ensku; [~ to death] drepa; [~ up] gera við; búa um (böggul); gera út af við; leika á e-n; hafa af e-m; [~ with] notast við; komast af með e-ð; [~ without] komast af án e-s, geta verið án e-s; ao. sjá %[ditto]%; n. bragð, svik
 doable l. gjörlegur, geranlegur
-docile l. námfús; auðsveipur, viðráðanlegur, þægur
-docility n. námfýsi; auðsveipni, þægð ([to obey with ~])
-dockyard n. skipasmíðastöð
+docile l. auðsveipur, viðráðanlegur, þægur; námfús
+docility n. auðsveipni, þægð ([to obey with ~]); námfýsi
+dockyard n. skipasmíðastöð, slippur
 dock n. skipakví; (stýfður) stertur, dokkur; súra (jurt); s. setja í skipakví; stýfa, stytta; skerða ([~ the wages]); svipta (e-n e-u [of])
 docket n. merkiseðill; útdráttur (úr dómi); efnisskrá; s. merkja (vörusendingar); gera útdrátt úr
 doctor n. læknir; doktor (nafnbót); s. lækna; laga, gera við; falsa

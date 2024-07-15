@@ -95,6 +95,7 @@ rating
 media
 relatively
 computed
+compute (endurskoða)
 adaptive
 funky
 characterization
@@ -109,7 +110,6 @@ give up
 collectible
 collectibles
 characterized
-qubit
 buffer
 boost
 browse
@@ -1816,6 +1816,7 @@ earhole
 subtext
 realness
 minimalist
+minimalism
 freebie
 cinematic
 apologizer
@@ -1872,8 +1873,6 @@ alumnus
 alumni
 maven
 ratchet
-stratosphere
-stratospheric
 scrounge
 placement
 technologist
@@ -1941,10 +1940,8 @@ officiousness
 prefecture
 aromatics
 censorial
-unskilfulness
 genuflect
 chronologist
-conciseness
 situate
 sensibly
 wantonly
@@ -2517,7 +2514,6 @@ sushi
 globally
 washer
 layoff
-
 pusher
 speed-up
 fryer
@@ -2528,7 +2524,6 @@ litigator
 litigatious
 spate
 conservativism
-favorite
 piggyback
 intuitively
 strongman
@@ -2566,7 +2561,6 @@ ageless
 pisspot
 bonhomie
 sleight-of-hand
-innards
 breeder
 underpants
 bemusement
@@ -2865,7 +2859,6 @@ shogun
 shogunate
 occlusion
 non-violence
-dyad
 terroristic
 brutally
 counterterrorism
@@ -2964,8 +2957,6 @@ ineptness
 dangerousness
 neurocircuitry
 obligate
-stepchild
-bowstring
 kinfolk
 affinal
 representational
@@ -3834,7 +3825,6 @@ disembodied
 caddy (endurskoða)
 oink
 edgelord
-wyrm
 foyer
 cringey
 expired
@@ -3934,7 +3924,6 @@ scallion
 transdiagnostic
 reassign
 outrank
-burp
 minced
 heteromorphism
 heteromorphic
@@ -3957,7 +3946,6 @@ slavocracy
 agent provocateur
 calomel
 moneybox
-bowtie
 demystify
 rifling
 sinkhole
@@ -3988,3 +3976,17 @@ pawed
 reboot
 neurotypical
 muted
+unnerving
+mandated
+probiotics
+leaderboard
+bullseye
+impeached
+downer
+futon
+deskilling
+multiplex
+multiplexing
+duplex
+duplexity
+semiduplex

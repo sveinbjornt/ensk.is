@@ -753,6 +753,10 @@ SKIP = frozenset(
         "disinhibition",
         "nanotech",
         "rheumatoidal",
+        "welfarism",
+        "bowtie",
+        "wyrm",
+        "unskilfulness",
     )
 )
 

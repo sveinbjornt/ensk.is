@@ -2735,7 +2735,7 @@ dwarfism n. dvergvöxtur
 self-image n. sjálfsmynd
 bondholder n. skuldabréfaeigandi
 rapidly ao. skjótlega
-short-term l. skammtíma-; [~ memory] skammtímaminni; [~ goals] skammtímamarkmið
+short-term l. skammtíma-, til skamms tíma; [~ memory] skammtímaminni; [~ goals] skammtímamarkmið
 dude n. gaur, gæi, náungi (óforml.)
 bloke n. gaur, gæi, náungi (óforml.)
 bittersweet l. ljúfsár; [~ memories] ljúfsárar minningar
@@ -4039,7 +4039,7 @@ familial l. fjölskyldu-, ættar-; ættgengur ([~ disease])
 seasonal l. árstíðabundinn
 seasonality n. árstíðarsveiflur
 non-fiction n. rit sem ekki eru skáldrit
-unidirectional l. einstefnu-
+unidirectional l. einstefnu-, sem fer í eina átt
 pluralism n. fjölhyggja; fjölræði; fjölbýli
 safflower n. safflúr, litunarþistill, litunarkollur (jurt)
 matériel n. efni, búnaður; herbúnaður
@@ -4654,7 +4654,7 @@ NIMBY uh. ekki í mínum bakgarði! (slagorð, stytt. á [not in my backyard])
 nimbyism n. sú stefna að vilja ekki að e-ð gerist í sínu hverfi eða nágrenni (sjá %[NIMBY]%)
 anima n. sál, innra sjálf (í sálfræði)
 thitherward ao. í þá átt, þangað
-nuanced l. blæbrigðaríkur, blæbrigðanæmur, með blæbrigðum
+nuanced l. blæbrigðaríkur, með blæbrigðum, blæbrigðanæmur
 webzine n. veftímarit (samsett úr %[web]% og %[magazine]%)
 dialysis n. skilun, (himnu)síun, (himnu)skiljun
 haemodialysis n. blóðskilun
@@ -4662,14 +4662,14 @@ WMD n. gjöreyðingarvopn, gereyðingarvopn (stytt. á [weapon(s) of mass destru
 incommunicado l. í einangrun, einangraður; ekki í samskiptum, án samskipta, samskiptalaus
 dynode n. dínóða, þrepaskaut
 krill n. áta, kríli, ljósáta
-cocksucker n. e-r sem sýgur typpi, skíthæll, fífl, hálfviti, asni (óforml.)
+cocksucker n. e-r sem sýgur typpi, hommi (niðrandi); skíthæll, fífl, hálfviti, asni (óforml.)
 feisty l. viljugur, fjörugur, gáskafullur
 hello uh. halló, sæll, blessaður; [say ~] heilsa (upp á)
 hullo uh. halló, sæll, blessaður
 hi uh. hæ, sæll, blessaður; [say ~] heilsa (upp á)
 aesthete n. fagurkeri
 epizootic l. faralds-, farsóttar-, sem sýkir dýr sömu tegundar
-intergroup l. millihópa-
+intergroup l. millihópa-, milli hópa ([~ rivalry, warfare])
 seawater n. sjór, sjávarvatn
 disinhibition n. afhömlun
 syrinx n. neðra barkakýli, raddhylki
@@ -4688,12 +4688,27 @@ corselet n. lífstykki
 beluga n. mjaldur
 frisbee n. frisbí, svifdiskur
 welfarism n. velferðarstefna
-foraging n. fæðuöflun, fæðuleit
+foraging n. fæðuöflun, fæðuleit (sjá %[forage]%)
 clockmaker n. úrsmiður, klukkusmiður
-testosterone n. testosterón (hormón)
-estrogen n. estrógen, kvenhormón
+testosterone n. testosterón (karlhormón)
+estrogen n. estrógen (kvenhormón)
 rooster n. hani
 beeswax n. býflugnavax
+stepchild n. stjúpbarn
+bowstring n. bogastrengur
+dyad n. tvennd, tvenna
+innards n. ft. innyfli
+favorite n. sjá %[favourite]%
+bowtie n. þverslaufa
+burp s. ropa; n. rop
+wyrm n. ormur, lindormur, dreki
+qubit n. skammtabiti, kúbiti ([quantum bit])
+happily ao. hamingjusamlega, glaðlega, lánsamlega
+conciseness n. gagnyrði, stuttyrði (sjá %[concise]%)
+unskilfulness n. óhagleikni, vanfærni
+stratosphere n. heiðhvolf
+stratospheric l. heiðhvolfs-
+
 # TODO: polyamorous
 # TODO: polyamory
 # TODO: miniscule

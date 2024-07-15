@@ -191,7 +191,7 @@ favor n. sjá %[favour]%
 favour n. hylli; góðvild; greiði; hagnaður; [to be in ~ of] vera meðmæltur e-u; [in high ~ with, high in ~ of] í miklum kærleikum við; ([we are in receipt of) your ~] yðar heiðraða bréf; [with (by) your ~] með yðar leyfi; s. vera meðmæltur, unna; gera auðveldara; styðja, efla, auka ([a water to ~ the growth of the hair]); [~ one with] veita e-m e-ð; [to be ~ed with] hafa fengið e-ð
 favourable l. vinveittur, hlynntur; hagstæður
 favourably ao. vingjarnlega
-favourite n. vildarmaður, uppáhald; l. uppáhalds-
+favourite n. uppáhald; vildarmaður; l. uppáhalds-
 favouritism n. meðhald
 fawn-coloured l. gulbrúnn, mórauður
 fawn s. flaðra (upp um [upon]); bera (um hind); n. hindarkálfur
@@ -844,7 +844,7 @@ foppery n. spjátrungsháttur, hégómaskapur, tepruskapur; glingur
 foppish l. spjátrungslegur, hégómlegur, andhælislegur ([bowing in a ~ manner])
 for fs. fyrir; handa; sakir, vegna ([~ fear, I tremble ~ him]); til; um, í ([~ a long time]); eftir ([to send ~]); st. því að; [~ instance] til dæmis; [~ his age] eftir aldri; [~ this purpose] í þessum tilgangi; [~ two years] í tvö ár; [I ~ one] ég að mínu leyti; [~ sale] til sölu; [to weep ~ joy] gráta af gleði; [~ all that] þrátt fyrir það, samt sem áður; [~ nothing] til einskis; [good ~ nothing] engu nýtur; [~ shame!] svei! [O ~ a horse!] gaman væri að hafa hest!
 forage n. skepnufóður; fóðuröflun, fóðurföng; s. afla fóðurs eða vista; ræna; sjá e-m fyrir fóðri eða vistum
-forager n. fóðurfangamaður
+forager n. fóðurfangamaður, fæðuaflari, fæðusafnari
 forasmuch ao. [~ as] að því leyti sem
 foray n. innrás, ránferð; s. ræna, herja ([~ on a place])
 forbear s. halda sér frá; varast; forðast; vera vorkunnlátur við, umbera; n. forfaðir
