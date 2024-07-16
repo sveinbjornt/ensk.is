@@ -587,7 +587,6 @@ storytelling
 campus
 lockdown
 slipperiness
-
 snowplow
 hallway
 intersectionality
@@ -613,7 +612,6 @@ scraggly
 infiltrator
 hike
 terrain
-caldera
 revegetate
 campsite
 shipload
@@ -1800,7 +1798,6 @@ unduly
 picaresque
 driveway
 billboard
-placeholder
 glitch
 soteriology
 unavailability
@@ -3990,3 +3987,8 @@ multiplexing
 duplex
 duplexity
 semiduplex
+ploy
+zen
+mentorship
+abseil
+fugue (endurskoða) (fugue state?)

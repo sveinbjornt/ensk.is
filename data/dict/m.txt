@@ -600,21 +600,21 @@ mendacity n. lygi, ósannindi; ósannsögli
 mendicancy n. verðgangur, betl
 mendicant l. sem lifir á bónbjörgum; n. förumaður, beiningamaður; förumunkur
 mendicate s. betla, sníkja
-mendication n. sníkjur, betl
+mendication n. betl, sníkjur
 mendicity n. bláfátækt, örbirgð; bónbjargir
-menial l. þjónslegur, þýlegur; óvirðulegur ([~ offices]); n. þjónn, vinnuhjú ([~ servant])
+menial l. þjónslegur, þýlegur; ómerkilegur, óvirðulegur ([~ offices]); lítilmótlegur, lítilfjörlegur; n. þjónn, vinnuhjú ([~ servant])
 meningitis n. heilahimnubólga
 mensal l. mánaðarlegur
 menses n. ft. tíðir (kvenna)
-menstrual l. mánaðarlegur; [~ flux] tíðir kvenna
+menstrual l. mánaðarlegur; tíða-; [~ flux] tíðir kvenna
 menstruate l. hafa tíðir
 menstruation n. tíðir (kvenna)
 mensurable l. mælanlegur
 mensuration n. mæling; mælingarlist
-mental l. sálarlegur, sem lýtur að huga eða geðsmunum ([his ~ state]); [~ arithmetic, ~ computation] hugarreikningur
-mentally ao. í huganum, með sjálfum sér; [~ and physically] á sál og líkama
+mental l. sálarlegur, andlegur, huga-, sem lýtur að huga eða geðsmunum ([his ~ state]); [~ arithmetic, ~ computation] hugarreikningur
+mentally ao. í huganum, með sjálfum sér, andlega; [~ and physically] á sál og líkama
 mention n. umtal. umræða; [make ~ of] minnast á; s. nefna; minnast á, geta um; [don't ~ it!] minnist þér ekki á það!
-mentor n. (vitur og trúr) ráðgjafi
+mentor n. leiðbeinandi, lærimeistari, lærifaðir, kennari, (vitur og trúr) ráðgjafi
 menu n. matseðill; valblað
 mephitic l. sem óþefur er að, daunillur
 mephitis n. ódaunn

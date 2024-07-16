@@ -4704,10 +4704,15 @@ burp s. ropa; n. rop
 wyrm n. ormur, lindormur, dreki
 qubit n. skammtabiti, kúbiti ([quantum bit])
 happily ao. hamingjusamlega, glaðlega, lánsamlega
-conciseness n. gagnyrði, stuttyrði (sjá %[concise]%)
-unskilfulness n. óhagleikni, vanfærni
+conciseness n. gagnyrði, stuttyrði, sá eiginleiki að vera stuttorður (sjá %[concise]%)
+unskilfulness n. óhagleikni, vanfærni (sjá %[unskilful]%)
 stratosphere n. heiðhvolf
 stratospheric l. heiðhvolfs-
+placeholder n. staðgengill
+caldera n. askja, sigketill
+Dacia n. Dakía (landsvæði sem er í dag hluti af Rúmeníu)
+Dacian n. Dakíumaður (sjá %[Dacia]%); l. frá Dakíu, dakískur
+whatnot n. hvaðeina, ýmislegt; svoleiðis, þess lags
 
 # TODO: polyamorous
 # TODO: polyamory
