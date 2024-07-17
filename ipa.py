@@ -757,6 +757,14 @@ SKIP = frozenset(
         "bowtie",
         "wyrm",
         "unskilfulness",
+        "Dacia",
+        "Dacian",
+        "dysrhythmia",
+        "heteromorphic",
+        "heteromorphism",
+        "mycoplasma",
+        "slave-trade",
+        "vitalism",
     )
 )
 

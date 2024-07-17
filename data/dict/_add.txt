@@ -4703,6 +4703,7 @@ bowtie n. þverslaufa
 burp s. ropa; n. rop
 wyrm n. ormur, lindormur, dreki
 qubit n. skammtabiti, kúbiti ([quantum bit])
+quantum bit n. skammtabiti, kúbiti ([qubit])
 happily ao. hamingjusamlega, glaðlega, lánsamlega
 conciseness n. gagnyrði, stuttyrði, sá eiginleiki að vera stuttorður (sjá %[concise]%)
 unskilfulness n. óhagleikni, vanfærni (sjá %[unskilful]%)
@@ -4713,6 +4714,23 @@ caldera n. askja, sigketill
 Dacia n. Dakía (landsvæði sem er í dag hluti af Rúmeníu)
 Dacian n. Dakíumaður (sjá %[Dacia]%); l. frá Dakíu, dakískur
 whatnot n. hvaðeina, ýmislegt; svoleiðis, þess lags
+reboot s. endurræsa
+heteromorphism n. misformun, fjölformun
+heteromorphic l. misforma, fjölforma
+arrhythmia n. takttruflun, sveiflutruflun, sláttarglöp
+dysrhythmia n. takttruflun, sveiflutruflun, sláttarglöp
+mycoplasma n. berfrymingar
+mycobacterium n. mýkóbaktería
+vitalism n. lífhyggja, lífsorkukenning
+slave-trade n. þrælaverslun
+electrodynamics n. ft. rafsegulfræði
+phytoplankton n. jurtasvif, plöntusvif
+battlefront n. víglína, vígstöðvar
+gunship n. orrustuskip, þungvopnað herskip; orustuþyrla ([helicopter ~])
+clichéd l. klénn, klisjukenndur
+paleobotany n. plöntusteingervingafræði, forngrasafræði
+paleobotanist n. forngrasafræðingur, plöntusteingervingafræðingur
+plutocratic l. auðveldis-, auðræðis- (sjá %[plutocracy]%)
 
 # TODO: polyamorous
 # TODO: polyamory
