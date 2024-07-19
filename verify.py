@@ -109,6 +109,13 @@ def check_punctuation(line: str, pn, ln: int):
     if " ]" in line:
         warn("] space error", pn, ln)
 
+    # segm = line.split(";")
+    # for s in segm:
+    #     if not "." in s:
+    #         continue
+    #     if len(s.rstrip(".")) < 3:
+    #         warn("short segment", pn, ln)
+
 
 def check_spacing(line: str, pn, ln: int):
     """Look for malformed whitespace in entry."""

@@ -310,21 +310,21 @@ termless l. takmarkalaus
 termagant l. ofsalegur; n. kvenvargur, skass
 terminable l. takmarkanlegur, endanlegur
 terminal l. ystur; endasettur; enda-; flugstöð, rútustöð; sem verður á ákveðnum tímum ([~ payments, ~ examinations])
-terminate s. takmarka; gera enda á, enda; ljúka við; hætta; [~ in] enda á
-termination n. takmörkun; endir, endalok; endir; ending (orðs)
+terminate s. gera (binda) enda á, enda; ljúka við; hætta; takmarka; [~ in] enda á
+termination n. endir, endalok; ending (orðs); takmörkun
 terminational l. sem lýtur að endingum, endingar-
-terminology n. nafnaskrá (í e-i vísindagrein)
-terminus n. endastöðvar (á járnbraut); takmark
+terminology n. nafnaskrá, orðaforði, íðorð (í e-i vísindagrein)
+terminus n. endastöð, endastöðvar (á járnbraut); takmark
 termite n. hvítur maur
 tern n. kría, þerna
-ternary l. þrí-; [the ~ number] þrítalan; n.; [in ternaries] þrír og þrír
+ternary l. þrí-; [the ~ number] þrítalan; n. [in ternaries] þrír og þrír
 terrace n. hjalli; flatt þak
 terrene l. jarðlegur, jarðar-; jarðneskur; [~ animal] landdýr; n. jarðarbúi
 terrestrial l. jarðlegur, jarðar-; jarðneskur; [~ animal] landdýr; n. jarðarbúi
 terrible l. hræðilegur, ógurlegur
 terribly ao. hræðilega
 terrier n. hundategund; jarðamatsbók
-terrific l. hryllilegur, hræðilegur, óttalegur (forn.); frábær
+terrific l. stórkostlegur, frábær; hryllilegur, hræðilegur, óttalegur (forn.)
 terrify s. hrylla, hræða, skelfa
 territorial l. landeignarlegur, jarðeigandi ([~ aristocracy]); héraðslegur; landhelgis-; [within the ~ waters] í landhelgi
 territory n. landeign, umdæmi; hérað; land, sem enn er ekki tekið upp í ríkjatöluna (í Bandaríkjunum)
