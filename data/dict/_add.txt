@@ -886,13 +886,13 @@ multiculturally ao. fjölmenninegarlega
 multiculturalism n. fjölmenning, fjölmenningarstefna
 multifaceted l. marghliða, margþættur, fjölbreyttur
 concept n. hugtak, almenn hugmynd
-conceptual l. hugtaka-
+conceptual l. hugtækur, hugtaka-, hugtaks-
 conceptualize s. gera sér hugmynd um e-ð; gera e-ð að hugtaki
 polymer n. fjölliða (gerviefnategund)
 conditioning n. skilyrðing
 air conditioning n. loftræsting
-air conditioner n. loftræstitæki
-checklist n. gátlisti, minnislisti
+air conditioner n. loftræstitæki, loftræstingarbúnaður
+checklist n. gátlisti, minnislisti, verkefnalisti
 chassis n. botngrind, undirgrind, vagngrind
 hierophantic l. er varðar forngrískan prest eða túlkun heilagra leyndardóma
 marketing n. markaðssetning, markaðsmál; markaðsdeild
@@ -900,7 +900,8 @@ electrolyte n. raflausn, rafvaki; rafvökvi
 electrolysis n. rafgreining, rafsundrun
 redhead n. rauðhærð manneskja
 redheaded l. rauðhærður
-pub n. stytt. á [public house]; knæpa, krá, ölstofa, bar, pöbb
+pub n. knæpa, krá, ölstofa, bar, pöbb; stytt. á %[public house]%
+public house n. knæpa, krá, ölstofa, bar, pöbb
 LED n. stytt. á [light emitting diode]; ljósdíóða, ljóstvistur, ljóstvískaut
 buddy n. félagi, lagsmaður, vinur
 querulant n. þrætugjarn maður, kverúlant, nöldurseggur
@@ -4749,7 +4750,12 @@ armageddon n. Harmagedón (úrslitaorrusta milli góðs og ills í abrahamískum
 esophagus n. sjá %[oesophagus]%
 pasteurize s. gerilsneyða
 pasteurization n. gerilsneyðing
-# TODO: polyamorous
-# TODO: polyamory
-# TODO: miniscule
-# TODO: minuscule
+panning n. skotrun
+substitutability n. staðgengi, staðgengni
+calomel n. kvikasilfursklóríð
+crudely ao. á óverkaðan, óunnin eða grófan hátt; ruddalega
+actuary n. tryggingafræðingur
+actuarial l. tryggingafræðilegur
+Victorian l. viktoríanskur, Viktoríutímabils-, frá valdatíð Viktoríu Bretlandsdrottningu
+handheld l. lófa, lófatækur
+
