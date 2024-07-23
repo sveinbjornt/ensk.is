@@ -765,6 +765,10 @@ SKIP = frozenset(
         "mycoplasma",
         "slave-trade",
         "vitalism",
+        "paleobotanist",
+        "paleobotany",
+        "lobotomize",
+        "lobotomization",
     )
 )
 

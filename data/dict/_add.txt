@@ -2225,6 +2225,7 @@ carotene n. karótín
 enzyme n. ensím
 firewall n. eldveggur; brunaveggur
 sharpshooter n. (leyni)skytta
+sharpshooting n. skotfimi
 cellphone n. farsími, gemsi, GSM-sími
 rifleman n. hermaður vopnaður riffli
 capitalistic l. auðvaldslegur; auðvaldsstefnulegur, kapítalískur
@@ -2588,6 +2589,7 @@ stochasticity n. slembni, hending, tilviljanakennd
 psychoanalyze s. sálgreina, sálkanna
 psychoanalyst n. sálgreinir, sálkönnuður
 psychoanalysis n. sálgreining, sálkönnun
+psychoanalytic l. sálgreiningar-, sálkönnunar-
 muscle-bound l. vöðvastæltur
 amphibian n. froskdýr, dýr sem lifir bæði í vatni og á landi
 gerontocracy n. öldungaveldi, öldungaræði
@@ -3162,6 +3164,8 @@ transcience n. hverfulleiki
 transient l. skammtíma-, skammvinnur, svipull, hverfull (sjá %[transcience]%)
 malefaction n. illgjörð, illgjörningur
 lobotomy n. geiraskurður, hvítuskurður, ennisblaðsskurður ([prefrontal ~])
+lobotomization n. ennisblaðsskurður (sjá %[lobotomy]%)
+lobotomize s. framkvæma ennisblaðsskurð
 appetizer n. forréttur; lystauki
 versus fs. á móti, gegn ([Roe ~ Wade])
 cubicle n. afskermaður bás; vinnuklefi; lesherbergi
@@ -3749,6 +3753,7 @@ underdevelopment n. vanþróun, vanþroski
 eliminable l. útrýmanlegur
 ineliminable l. óútrýmanlegur
 foodstuff n. matvæli
+autarchy n. alveldi, alræðisveldi; efnahagslegt sjálfstæði; sjálfsnægt í efnahagsmálum; sjálfsþurftarbúskapur
 autarky n. efnahagslegt sjálfstæði; sjálfsnægt í efnahagsmálum; sjálfsþurftarbúskapur
 autarkic l. efnahagslega sjálfstæður, sjálfum sér nægur í efnahagsmálum; sjálfsþurftarbúskaps-
 limelight n. sviðsljós
@@ -4731,7 +4736,19 @@ clichéd l. klénn, klisjukenndur
 paleobotany n. plöntusteingervingafræði, forngrasafræði
 paleobotanist n. forngrasafræðingur, plöntusteingervingafræðingur
 plutocratic l. auðveldis-, auðræðis- (sjá %[plutocracy]%)
-
+lollipop n. sleikipinni, sleikjó
+cuspidor n. hrákadallur
+shush uh. uss, suss, þegiðu; s. ussa, sussa
+nonlinear l. ólínulegur
+enclave n. innskotssvæði, hólmlenda
+gatekeeper n. dyravörður, hliðvörður
+Aztec n. Asteki; l. asteskur, Asteka-
+duvet n. sæng, dúnsæng
+gynaecology n. kvensjúkdómafræði, kvensjúkdómalækningar, kvenlækningar
+armageddon n. Harmagedón (úrslitaorrusta milli góðs og ills í abrahamískum trúarbrögðum)
+esophagus n. sjá %[oesophagus]%
+pasteurize s. gerilsneyða
+pasteurization n. gerilsneyðing
 # TODO: polyamorous
 # TODO: polyamory
 # TODO: miniscule
