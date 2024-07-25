@@ -4714,7 +4714,7 @@ happily ao. hamingjusamlega, glaðlega, lánsamlega
 conciseness n. gagnyrði, stuttyrði, sá eiginleiki að vera stuttorður (sjá %[concise]%)
 unskilfulness n. óhagleikni, vanfærni (sjá %[unskilful]%)
 stratosphere n. heiðhvolf
-stratospheric l. heiðhvolfs-
+stratospheric l. heiðhvolfs-; gífurlegur
 placeholder n. staðgengill
 caldera n. askja, sigketill
 Dacia n. Dakía (landsvæði sem er í dag hluti af Rúmeníu)
@@ -4753,7 +4753,7 @@ pasteurization n. gerilsneyðing
 panning n. skotrun
 substitutability n. staðgengi, staðgengni
 calomel n. kvikasilfursklóríð
-crudely ao. á óverkaðan, óunnin eða grófan hátt; ruddalega
+crudely ao. á óverkaðan, óunninn eða grófan hátt, gróflega; ruddalega
 actuary n. tryggingafræðingur
 actuarial l. tryggingafræðilegur
 Victorian l. viktoríanskur, Viktoríutímabils-, frá valdatíð Viktoríu Bretlandsdrottningu
@@ -4767,3 +4767,15 @@ Mesozoic n. miðlífsöld; l. miðlífsaldar-
 panhandler n. beiningamaður, betlari
 herniated l. kviðslitinn
 cardsharp n. spilahrappur
+shiv n. rakhnífur, hnífur, rýtingur
+troth n. tryggð, trúmennska; sannleikur (sjá %[truth]%)
+hotelier n. hótelstjóri, hóteleigandi, sá sem rekur hótel
+chipmunk n. íkorni, jarðíkorni
+Cornishman n. maður frá Cornwall
+Yorkshireman n. maður frá Yorkshire
+Scots n. skoska, skosk mállýska
+shootout n. skotbardagi, byssubardagi; vítaspyrnukeppni (í fótbolta)
+Hawaii n. Havaí, Havaíeyjar
+Hawaiian n. Havaíbúi; havaíska; l. haváieyskur
+banqueting n. veisluhald (sjá %[banquet]%)
+indology n. indlandsfræði

@@ -420,11 +420,11 @@ empire n. keisaraveldi, keisaradæmi; ríki; vald, yfirráð; [the British Empir
 empiric l. grundvallaður á reynslu; n. skottulæknir
 empirical l. grundvallaður á reynslu
 empiricism n. raunhyggja; reynsluþekking; skottulækningar
-employ n. atvinna; starfi; þjónusta ([in the ~ of]); [out of ~] atvinnulaus; s. nota e-ð (til e-s [in, for]); láta (e-n) starfa, veita (e-m) vinnu; starfsetja
-employable l. notanlegur, notandi
+employ n. atvinna; starf; þjónusta ([in the ~ of]); [out of ~] atvinnulaus; s. nota e-ð (til e-s [in, for]); láta (e-n) starfa, veita (e-m) vinnu; starfsetja
+employable l. notanlegur, notandi; ráðanlegur (til vinnu)
 employee n. starfsmaður; [government ~] starfsmaður ríkisins
 employer n. vinnuveitandi; húsbóndi
-employment n. notkun; starfi, starf; atvinna ([carry on an ~])
+employment n. notkun; starf; atvinna
 empoison s. eitra, blanda eitri, láta eitur í (mat, drykk); spilla
 emporium n. vörusafnstaður, markaður, kaupstöð
 empower s. veita fullt umboð; gera hæfan eða færan, veita e-m völd (til [to])

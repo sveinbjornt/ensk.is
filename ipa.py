@@ -770,6 +770,8 @@ SKIP = frozenset(
         "lobotomize",
         "lobotomization",
         "tribalistic",
+        "cardsharp",
+        "indology",
     )
 )
 
