@@ -769,6 +769,7 @@ SKIP = frozenset(
         "paleobotany",
         "lobotomize",
         "lobotomization",
+        "tribalistic",
     )
 )
 
