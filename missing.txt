@@ -599,7 +599,6 @@ attendee
 nonproliferation
 proliferation
 houseguest
-protester
 divisive
 hawkish
 bouffant
@@ -610,12 +609,10 @@ signifier
 scraggly
 infiltrator
 hike
-terrain
 revegetate
 campsite
 shipload
 overgrazing
-heavyweight
 pinstripe
 legwork
 goalpost
@@ -3990,3 +3987,6 @@ cubby
 tonsillitis
 structured
 assiduously
+strigil
+gruffly
+gryphon
