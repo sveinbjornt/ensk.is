@@ -955,9 +955,9 @@ disallow s. vera (e-u) mótfallinn; hafna; banna; bera á móti e-u
 disallowance n. höfnun, neitun
 disappoint s. bregðast (e-m); gabba, blekkja
 disappointment n. vonblekking, vonbrigði ([a feeling of ~])
-disapprobation n. misþóknun
-disapproval n. misþóknun
-disapprove s. fallast ekki á, hafna; mislíka; [I ~ (of)] mér mislíkar e-ð
+disapprobation n. misþóknun, vanþóknun
+disapproval n. misþóknun, vanþóknun
+disapprove s. fallast ekki á, hafna; mislíka, misþóknast; [I ~ (of)] mér mislíkar e-ð
 disarm s. svipta (e-n) vopnum, afvopna; leggja niður vopnin
 disarmament n. niðurlagning vopna, afvopnun
 disarrange s. aflaga; rugla
@@ -1737,9 +1737,9 @@ dumpish l. ólundarfullur, hnugginn
 dumpling n. eplabúðingur
 dumpy l. stuttur og digur
 dun l. dökkmórauður; n. móbrúnn hestur; áleitinn skuldheimtumaður; krafa; s. krefja e-n (um skuld); nauða á e-m
-dunce n. heimskingi
-dunderhead n. aulabárður, auli, heimskingi
-dunderheaded l. heimskur, heimskulegur
+dunce n. heimskingi, bjáni
+dunderhead n. aulabárður, auli, heimskingi, vitleysingur, bjáni
+dunderheaded l. heimskur, heimskulegur, vitlaus
 dunderpate n. aulabárður, auli
 dung n. mykja, tað; s. teðja, bera á (völl)
 dung beetle n. tordýfill
@@ -1748,7 +1748,7 @@ dungeon n. dýflissa, myrkvastofa; s. setja í dýflissu
 dunlin n. lóuþræll (fugl)
 dunner n. áleitinn skuldheimtumaður
 dunnish l. móleitur
-dunno s. [don't know] veit ekki
+dunno s. veit ekki (stytt. á [don't know])
 duodecimo n. tólfblaðabrot; bók í tólfblaðabroti
 dupable l. auðtrúa
 dupe n. maður sem leikið er á, sem er hafður að fífli; s. leika á, hafa e-n að leikfífli
@@ -1758,9 +1758,9 @@ duplicity n. tvöfaldleiki; óhreinlyndi, undirferli
 durability n. varanleiki, hald, ending
 durable l. endingargóður, þolinn, haldgóður
 durance n. varðhald
-duration n. lengd, tímalengd ([the average ~ of life]); [of short ~] skammvinnur, skammær
+duration n. tímalengd ([the average ~ of life]); [of short ~] skammvinnur, skammær
 during fs. í, um, meðan; [~ the night] um nóttina
-dusk l. dimmur; n. dimma, rökkur; s. skyggja, rökkva ([it began to ~])
+dusk n. dimma, rökkur; l. dimmur; s. skyggja, rökkva ([it began to ~])
 duskish l. dimmleitur; dökkleitur
 dusky l. dimmur, skuggsýnn
 dust n. ryk, dust, duft; s. dusta ryk af; gera rykugt
