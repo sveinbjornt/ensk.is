@@ -4776,7 +4776,7 @@ Yorkshireman n. maður frá Yorkshire
 Scots n. skoska, skosk mállýska
 shootout n. skotbardagi, byssubardagi; vítaspyrnukeppni (í fótbolta)
 Hawaii n. Havaí, Havaíeyjar
-Hawaiian n. Havaíbúi; havaíska; l. haváieyskur
+Hawaiian n. Havaíbúi, Havaímaður; havaíska; l. haváieyskur
 banqueting n. veisluhald (sjá %[banquet]%)
 indology n. indlandsfræði (fræðigrein sem fæst við sögu og menningu Indlandsskaga)
 protester n. mótmælandi
@@ -4785,5 +4785,9 @@ heavyweight n. þungavigt; l. þungavigtar- ([~ boxing]), þungvægur
 grumpiness n. geðvonska, vont skap, nöldursemi
 guessable l. giskanlegur (sjá %[guess]%)
 guitarist n. gítarleikari
-clarinettist n. klarínettuleikari
+clarinettist n. klarínettleikari, klarínettuleikari
 pussy-whipped l. undir konuríki (sjá einnig %[hen-pecked]%)
+aloha uh. halló, sæll (havaísk kveðja)
+alfalfa n. refasmári, lúserna
+malarkey n. bull, kjaftæði, þvættingur, vitleysa
+agave n. liljuætt

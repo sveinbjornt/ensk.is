@@ -772,6 +772,7 @@ SKIP = frozenset(
         "tribalistic",
         "cardsharp",
         "indology",
+        "pussy-whipped",
     )
 )
 

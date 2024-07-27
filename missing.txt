@@ -529,7 +529,6 @@ glob
 smithereen
 quinze
 jape
-agave
 hibiscus
 kingpin
 layover
@@ -3995,3 +3994,8 @@ renege
 psychophysiological
 reshipment
 transshipment
+subsidance
+svelte
+marmite
+pfennig
+cilantro
