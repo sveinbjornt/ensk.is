@@ -521,8 +521,8 @@ lief ao. ljúft, gjarna; [I had as ~ go] ég vildi eins gjarna fara
 liege l. þegnskyldur, lénskyldur; n. lénsmaður; trúr þegn; lénsdrottinn ([~ lord])
 lien n. eignarband, veðband; staður; [in ~ of] í staðinn fyrir, sem borgun (laun) fyrir
 lientery n. lífsýki, sótt
-lieutenancy n. undirforingjaembætti; landsstjóraembætti; allir undirforingjar
-lieutenant n. undirforingi; landsstjóri, fylkisstjóri
+lieutenancy n. undirforingjaembætti, lautinantstign; landsstjóraembætti; allir undirforingjar
+lieutenant n. undirforingi, lautinant; landsstjóri, fylkisstjóri
 life n. líf; líferni; fjör; ævi; ævisaga; [many lives were lost] margir létu lífið; [at our time of ~] á vorum dögum; [for ~] ævilangt; [for one's ~] til að forða lífinu, eins og lífið eigi að leysa ([run for dear ~]); [cannot for the ~ of me] þó að ég ætti lífið að leysa; [to draw from (after) the ~] draga upp eftir lifandi fyrirmynd; [to the ~] ákaflega líkur; [as large as ~] í fullri líkamsstærð
 lifeboat n. björgunarbátur
 lifebuoy n. björgunarhringur

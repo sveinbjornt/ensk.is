@@ -1136,6 +1136,7 @@ premiership
 invulnerability
 downturn
 Presbyterianism
+Presbyterian (endurskoða)
 indebtedness
 cartelization
 presenter
@@ -1155,6 +1156,7 @@ déluge
 unrepresentative
 ad nauseam
 procedural
+procedurally
 citizenry
 decorator
 innocuousness
@@ -2605,14 +2607,12 @@ runtime
 photoshop
 personalized
 cleaner
-drinking
 threaded
 charabanc
 funicular
 perineum
 parkour
 firelance
-gadzooks
 areola
 scarper
 thalassic
@@ -3183,7 +3183,6 @@ lockkeeper
 unshatterable
 unrepentant
 saintliness
-wrathfully
 torch-bearer
 footloose
 unreason
@@ -3956,7 +3955,6 @@ mentorship
 abseil
 fugue (endurskoða) (fugue state?)
 atrium
-hydrocephalus
 tempura
 wuss
 diegesis
@@ -3970,7 +3968,6 @@ minuscule
 nightcap
 bannister
 metacognitive
-Carpathian
 impressed
 unimpressed
 spearmint
@@ -3983,7 +3980,6 @@ rehire
 scintilla
 nifty
 cubby
-tonsillitis
 structured
 assiduously
 strigil
@@ -3999,3 +3995,10 @@ svelte
 marmite
 pfennig
 cilantro
+unwavering
+skirmisher
+rooky
+vaginal
+escrow
+hurtfulness
+moratory

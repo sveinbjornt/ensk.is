@@ -67,6 +67,7 @@ aircraft n. flugvél, loftfar
 laptop n. fartölva
 cryptography n. dulkóðun, dulkóðunarfræði, dulmál
 mansplain s. hrútskýra (þegar karlmaður útskýrir e-ð á yfirlætisfullan hátt)
+mansplaining n. hrútskýring (sjá %[mansplain]%)
 podcast n. hlaðvarp (stafrænn útvarpsþáttur)
 email n. tölvupóstur (stytt. á [electronic mail])
 e-mail n. tölvupóstur (stytt. á [electronic mail])
@@ -2594,6 +2595,7 @@ psychoanalytic l. sálgreiningar-, sálkönnunar-
 muscle-bound l. vöðvastæltur
 amphibian n. froskdýr, dýr sem lifir bæði í vatni og á landi
 gerontocracy n. öldungaveldi, öldungaræði
+gerontology n. öldungafræði
 impecunity n. féleysi, fátækt
 impecuniosity n. féleysi, fátækt
 hesitant l. hikandi, tvístígandi, á báðum áttum
@@ -4791,3 +4793,13 @@ aloha uh. halló, sæll (havaísk kveðja)
 alfalfa n. refasmári, lúserna
 malarkey n. bull, kjaftæði, þvættingur, vitleysa
 agave n. liljuætt
+tonsillitis n. eitlubólga
+Carpathian n. Karpatafjöll ([the ~s])
+hydrocephalus n. vatnshöfuð
+gadzooks uh. jeminn!
+drinking n. drykkja
+wrathfully ao. reiðilega
+characterise s. sjá %[characterize]%
+rookie n. nýliði, nýgræðingur, byrjandi
+semen n. sæði, sæðisvökvi, brund
+line of sight n. sjónlína
