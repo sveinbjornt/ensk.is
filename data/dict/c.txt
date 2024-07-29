@@ -369,10 +369,10 @@ cat n. köttur, kattardýr; [like a ~ about hot milk] eins og köttur í kringum
 cataclysm n. vatnsflóð
 catacomb n. neðanjarðar grafhvelfing, grafhýsi
 catafalque n. líkpallur; e.k. líkvagn
-catalepsy n. e.k. svefnsýki
+catalepsy n. dástjarfi (e.k. svefnsýki)
 cataleptic l. svefnsjúkur, stjarfur
 catalogue n. skrá, safnskrá; pöntunarlisti s. semja skrá yfir, skrásetja
-catapult n. slöngvivél, vígslanga; s. slöngva
+catapult n. valslöngva, slöngvivél, vígslanga; s. slöngva
 cataract n. stór foss; ský (vagl) á auga; s. fossa
 catarrh n. kvef (með horrennsli)
 catarrhal l. kvef- ([~ affection])
@@ -659,7 +659,7 @@ chatterbox n. þvaðrari, málskrafsmaður
 chatty l. ræðinn, skrafinn
 chauvinism n. rembingur, þjóðrembingur; [male ~] karlremba
 chauvinist n. þjóðskrumari; [male ~] karlremba
-chauvinistic l. þjóðrembings-
+chauvinistic l. þjóðrembings-, rembu-, rembings-
 chaw s. tyggja (sbr. %[chew]%)
 cheap l. ódýr; auðvirðilegur; lítilsvirtur; ao. ódýrt; fyrir lítið verð ([I got it ~])
 cheapen s. gera (eða verða) ódýrara; lítilsvirða

@@ -760,11 +760,10 @@ honor n. sjá %[honour]%
 honorary l. heiðurs-
 honorary member n. heiðursfélagi
 honorific l. heiðrandi ([~ titles])
-honour n. heiður, virðing, sómi, sæmd, tign; sómatilfinning; drengskaparorð; ft. fjögur hæstu tromp (í spilum); [to do the ~s (of the table, of the house)] standa fyrir veitingum; [funeral ~s] greftrunarviðhöfn; [he graduated with (high) ~s] hann tók háskólapróf með ágætiseinkunn; [in ~ of, to the ~ of, in ~ to] til heiðurs e-m eða e-u, til að heiðra e-n; [on (upon) my ~] að viðlögðum drengskap mínum ([this I declare upon my ~])
-honour s. heiðra; sæma; borga (víxil)
+honour s. heiðra; sæma; borga (víxil); n. heiður, virðing, sómi, sæmd, tign; sómatilfinning; drengskaparorð; ft. fjögur hæstu tromp (í spilum); [to do the ~s (of the table, of the house)] standa fyrir veitingum; [funeral ~s] greftrunarviðhöfn; [he graduated with (high) ~s] hann tók háskólapróf með ágætiseinkunn; [in ~ of, to the ~ of, in ~ to] til heiðurs e-m eða e-u, til að heiðra e-n; [on (upon) my ~] að viðlögðum drengskap mínum ([this I declare upon my ~])
 honorable l. heiðarlegur, heiðvirður; sómasamlegur; valinkunnur; háborinn; háttvirtur ([the ~ member])
 honorably ao. heiðarlega, sómasamlega
-hood n. hetta; s. setja hettu á; [~ed] með hettu á eða yfir höfðinu
+hood n. hetta; hverfi (óforml. stytt. á %[neighbourhood]%); s. setja hettu á; [~ed] með hettu á eða yfir höfðinu
 hoodwink s. draga hettu niður fyrir augu (e-s); binda fyrir augu (e-s); blekkja, draga á tálar
 hoof n. hófur; klauf ([divided ~])
 hoofbeat n. hófadynur

@@ -88,7 +88,7 @@ ecstasy n. ofsagleði; ofsi; leiðsla; [~ of rage] óstjórnlegt æði; [be in e
 ecstatic l. frá sér numinn; ofsalegur ([~ pleasure])
 ecstatical l. frá sér numinn; ofsalegur ([~ pleasure])
 ectoplasm n. útfrymi
-eczema n. útsláttur, útbrot
+eczema n. exem, útsláttur, útbrot
 edacious l. gráðugur
 edacity n. græðgi
 eddy n. hringiða; s. hringsnúast; kastast (sveiflast) í hring; þyrlast upp; þyrla upp
@@ -739,14 +739,14 @@ episcopal see n. biskupsstóll, biskupsdæmi
 episcopalian l. sem tilheyrir biskupakirkjunni; n. biskupatrúarmaður; biskupastjórnarmaður
 episcopate n. biskupsdæmi; biskupsembætti
 episcopize s. vígja til biskups; koma e-u undir biskupakirkjuna ([~ the Colonies])
-episode n. innskotsgrein, innskotssaga, innskotsþáttur; útúrdúr
+episode n. þáttur, hluti; atvik; innskotsgrein, innskotssaga, innskotsþáttur; útúrdúr
 episodic l. innskotinn; tækifærislegur
 episodical l. innskotinn; tækifærislegur
 epistle n. pistill, sendibréf; ljóðabréf
 epistolary l. bréfa-, bréflegur
 epistoler n. bréfritari
 epistolize s. skrifa bréf til e-s; skrifa bréf
-epitaph n. grafletur
+epitaph n. grafletur, grafskrift, skrift á legsteini
 epithalamium n. brúðkaupskvæði, brúðkaupsljóð
 epithet n. lýsingarorð, kenninafn; s. nefna (kenninafni)
 epitome n. ágrip, útdráttur, meginkjarni, samantekt; fullkomið dæmi
@@ -754,10 +754,10 @@ epitomize s. vera fullkomið dæmi um; semja ágrip af; segja stuttlega frá
 epoch n. tímaskipti; nýtt tímabil ([to make an ~])
 epode n. epóda (e.k. kvæði)
 epopee n. söguljóð
-equability n. jafnleiki; jafnlyndi
+equability n. jafnlyndi; jafnleiki
 equable l. jafn; [an ~ temper] jafnlyndi
 equal l. jafn (e-u [to]); jafnstór, jafnmikill; vaxinn (e-u [to]); sanngjarn; [an ~ mind] jafnaðargeð; [~ vote] jöfn atkvæði; [other things being ~] að öðru jöfnu; n. jafnoki, jafningi, líki; s. gera jafnan; jafnast við
-equality n. jafnleiki; jöfnuður
+equality n. jöfnuður; jafnleiki
 equalize s. gera jafnan (e-u [with/to]); jafna
 equally ao. jafn ([to divide ~]); jafn- ([~ good, important])
 equanimity n. jafnlyndi, jafnaðargeð; rósemi

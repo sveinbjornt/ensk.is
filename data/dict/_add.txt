@@ -4803,3 +4803,14 @@ characterise s. sjá %[characterize]%
 rookie n. nýliði, nýgræðingur, byrjandi
 semen n. sæði, sæðisvökvi, brund
 line of sight n. sjónlína
+sun-worship n. sóldýrkun
+sun-worshipper n. sóldýrkandi
+devil-worshipper n. djöfladýrkandi
+devil-worship n. djöfladýrkun
+scattergun n. haglabyssa
+subsonic l. undir hljóðhraða
+antipsoriatic l. sórastillandi
+unitary l. einingar- ([~ state]); einoka ([~ matrix])
+self-evaluation n. sjálfsmat
+decarbonize s. afkola
+decarbonization n. afkolun

@@ -776,6 +776,10 @@ SKIP = frozenset(
         "indology",
         "pussy-whipped",
         "gadzooks",
+        "devil-worshipper",
+        "sun-worship",
+        "antipsoriatic",
+        "devil-worship",
     )
 )
 
