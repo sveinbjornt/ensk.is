@@ -679,8 +679,6 @@ cadre
 modernization
 historiosophy
 centralism
-traumatic
-conspiratorial
 paramilitary
 dynamism
 immiseration
@@ -854,7 +852,6 @@ fearsome
 hideout
 roadmap
 superhighway
-incubator
 abnormality
 normality
 funerary
@@ -1023,7 +1020,6 @@ headset
 co-workforce
 dossier
 horrendous
-cafeteria
 shill
 flamenco
 tarmac
@@ -1207,7 +1203,6 @@ paraphilia
 weightless
 self-justification
 extrasensory
-egomania
 egomaniac
 instantiate
 instantiation
@@ -1216,6 +1211,11 @@ dramatis persona
 moralism
 bohemian
 trauma
+traumatic
+traumatically
+traumatize
+traumatized
+traumatization
 cross-examination
 self-importance
 socialite
@@ -1654,7 +1654,6 @@ synthesize
 synthesizer
 someplace
 interchangeability
-sexually
 happenstance
 imperium
 histrionics
@@ -2188,7 +2187,6 @@ corral
 frack
 graspable
 disruptor
-onshore
 neocolonial
 roster
 chapterette
@@ -2762,7 +2760,6 @@ macro-aggression
 micro-aggressions
 Pleistocene
 great-grandchild
-cross-cultural
 prehistorical
 widescale
 professionalization
@@ -3109,7 +3106,6 @@ backstreet
 travertine
 shirker
 alleyway
-zero-sum
 periplus
 assertiveness
 diminishment
@@ -3995,7 +3991,6 @@ cilantro
 unwavering
 skirmisher
 rooky
-vaginal
 escrow
 hurtfulness
 moratory
@@ -4008,3 +4003,5 @@ epitope
 audiovisual
 visualization
 visualisation
+Cambrian
+conformal
