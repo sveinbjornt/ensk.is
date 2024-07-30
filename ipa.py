@@ -780,6 +780,8 @@ SKIP = frozenset(
         "sun-worship",
         "antipsoriatic",
         "devil-worship",
+        "Carpathians",
+        "circumnavigable",
     )
 )
 

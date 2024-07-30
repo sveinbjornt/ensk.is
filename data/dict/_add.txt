@@ -1877,7 +1877,7 @@ monist n. einhyggjumaður (sjá %[monism]%)
 unarmed l. óvopnaður, vopnlaus
 timeless l. tímalaus; sígildur
 timelessness n. tímaleysi
-timelessly ao. tímalaust
+timelessly ao. tímalaust; sígilt
 supernova n. sprengistjarna; stjörnusprenging
 API n. stytt. á [Application Programming Interface]; forritaskil
 hedonism n. sældarhyggja, nautnahyggja, hedónismi; nautnalíf
@@ -1889,7 +1889,7 @@ tuna n. túnfiskur
 albacore n. e.k. túnfiskur
 barracuda n. barrakúði (e.k. ránfiskur)
 sandpaper n. sandpappír
-unclear l. óljós, óskýr
+unclear l. óljós, óskýr, ógagnsær
 sweating n. svitnun
 self-defense n. sjálfsvörn
 tiredness n. þreyta
@@ -1902,7 +1902,7 @@ utopianism n. draumalandsstefna, staðleysustefna, trú á fyrirmyndarríki (sj�
 Philistine l. filistínskur; menningarsnauður; n. Filistei, Filisti; menningarsnauð manneskja
 specialization n. sérhæfing, sérhæfni
 Bolshevik n. bolséviki (sjá %[Bolshevism]%)
-Bolshevism n. Bolsévismi (stefna og aðferðir bolsévika í Rússlandi)
+Bolshevism n. bolsévismi (stefna bolsévika í Sovétríkjunum)
 moral philosophy n. siðfræði
 fingernail n. fingurnögl, nögl (á fingri)
 larcenist n. þjófur
@@ -4766,7 +4766,7 @@ intertribal l. á milli ættflokka eða ættbálka ([~ warfare] stríð milli æ
 Triassic n. trías, tríastímabil; l. tríasar-, tríastímabils-
 Jurassic n. júra, júratímabil; l. júra-, júratímabils-
 Mesozoic n. miðlífsöld; l. miðlífsaldar-
-panhandler n. beiningamaður, betlari
+panhandler n. betlari, beiningamaður
 herniated l. kviðslitinn
 cardsharp n. spilahrappur
 shiv n. rakhnífur, hnífur, rýtingur
@@ -4794,7 +4794,7 @@ alfalfa n. refasmári, lúserna
 malarkey n. bull, kjaftæði, þvættingur, vitleysa
 agave n. liljuætt
 tonsillitis n. eitlubólga
-Carpathian n. Karpatafjöll ([the ~s])
+Carpathians n. ft. Karpatafjöll ([the ~])
 hydrocephalus n. vatnshöfuð
 gadzooks uh. jeminn!
 drinking n. drykkja
@@ -4814,3 +4814,6 @@ unitary l. einingar- ([~ state]); einoka ([~ matrix])
 self-evaluation n. sjálfsmat
 decarbonize s. afkola
 decarbonization n. afkolun
+circumnavigable l. sem hægt er að sigla í kringum (sjá %[circumnavigate]%)
+charged l. hlaðinn (raforku) ([~ battery])
+stingray n. stingskata

@@ -13,3 +13,4 @@ TODO list for ensk.is:
 * Mobile app? Packaged Web Application with local fallback?
 * Add step to verify.py: check that adjectives are always defined using the masculine
 * In item view, parse and break down the different word cat definitions and examples, show to user in a nice, easily understandable way
+* If no result found, lemmatize word and try again? Be smart?

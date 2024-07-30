@@ -314,10 +314,10 @@ actively ao. í verkinu; öfluglega, kappsamlega
 activity n. framtakssemi; fjör; fimleiki
 actor n. gjörandi; leikari
 actress n. leikkona
-actual l. verulegur; núverandi
-actuality n. veruleiki
-actualize s. gera e-ð verulegt ([~ a possibility]); lýsa e-u eins og það er í raun og veru
-actually ao. í raun og veru; nú
+actual l. verulegur, raunverulegur; núverandi
+actuality n. veruleiki, raunveruleiki
+actualize s. gera e-ð (raun)verulegt ([~ a possibility]); lýsa e-u eins og það er í raun og veru
+actually ao. í raun og veru; faktískt; nú
 actuate s. setja í hreyfingu; knýja áfram
 acuity n. hvassleiki, skerpa ([~ of understanding])
 aculeated l. búinn broddum
