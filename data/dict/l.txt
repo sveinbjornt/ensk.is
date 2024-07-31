@@ -602,7 +602,7 @@ limp s. vera haltur, haltra; n. helti; l. linur, mjúkur ([~ material]); linger�
 limpet n. olnbogaskel
 limpid l. tær, gagnsær
 limpidity n. tærleiki, gagnsæi
-limpness n. tærleiki, gagnsæi
+limpidness n. tærleiki, gagnsæi
 limpness n. linleiki; ístöðuleysi ([~ of character])
 limy l. kalkkynjaður, kalk-
 linden n. lind, linditré

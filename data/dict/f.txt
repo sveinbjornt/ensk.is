@@ -49,7 +49,7 @@ faintness n. magnleysi; svimi; hugleysi ([~ of heart]); daufleiki
 fair l. fagur; bjartur (um hörund); ljóshærður; skýr, greinilegur (um rithönd); hagstæður (um vind); hreinskilinn, svikalaus; óflekkaður (um mannorð); sanngjarn ([~ price]); dágóður, meðallagi góður; [~ play] réttsýni; hreinskilni; [a ~ copy] hreinskrift; [the ~ sex] kvenþjóðin; [in a ~ way to ruin] á beinni leið til glötunar; [in a ~ way of (towards) recovery] á góðum batavegi; ao. [copy ~] hreinskrifa; [bid (promise) ~] vera líklegur; n. markaður
 fair-faced l. bjartleitur; friður
 fair-haired l. ljóshærður
-fairly ao. hreinskilnislega; greinilega; alveg; dável
+fairly ao. hreinskilnislega; greinilega; alveg; dável, þokkalega
 fairness n. fegurð; hreinskilni
 fair-spoken n. blíðmáll, kurteis
 fairing n. markaðargjöf
@@ -1007,11 +1007,10 @@ foul-mouthed l. klúryrtur, klæminn
 foulness n. óhreinleiki; sviksemi
 foul-spoken l. klúryrtur, klæminn
 foumart n. marðartegund
-found s. stofna; grundvalla (e-ð á e-u [on, upon])
+found s. stofna; grundvalla (e-ð á e-u [on, upon]); steypa (úr málmi)
 foundation n. stofnun; grundvöllur, undirstaða
 founder n. stofnandi, upphafsmaður; (málm)steypari; s. farast, sökkva (um skip); mistakast; steypast af baki; heltast; verða fastur, liggja í (um hest)
 foundress n. stofnari (um kvenmann)
-found s. steypa (úr málmi)
 founderous l. sem veldur falli
 foundry n. málmsteypa, steypusmiðja
 foundling n. fundið barn

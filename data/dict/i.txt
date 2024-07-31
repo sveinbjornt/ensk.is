@@ -341,16 +341,14 @@ impregnate s. gera barnshafandi; frjóvga; gagnsýra, gagndreypa; l. barnshafand
 impregnation n. frjóvgun; gagndreyping
 impresario n. leiðtogi listamanns
 imprescriptible l. sem ekki verður burtu tekinn ([~ rights])
-impress s. þrýsta í eða á; setja mark á (með þrýstingi); festa í huga annars ([~ one's beliefs on others]); þvinga, kúga, taka með valdi í herþjónustu, einkum í sjóliðið
-impress n. merki, far (eftir e-ð); mót, mark
+impress s. þrýsta í eða á; setja mark á (með þrýstingi); festa í huga annars ([~ one's beliefs on others]); þvinga, kúga, taka með valdi í herþjónustu, einkum í sjóliðið; n. merki, far (eftir e-ð); mót, mark
 impressible l. næmur, viðkvæmur
 impression n. merki (sem þrýst er á); áhrif; eintak (af bók); tölublað; útgáfa bókar
 impressionable l. næmur; áhrifagjarn
 impressment n. þrýsting (þvingun) til herþjónustu
 impressure n. áþrýst merki; áhrif
 imprimatur n. prentleyfi
-imprint s. þrýsta á; innræta; [~ in the mind, on the memory] festa í huga sér, í minni sér
-imprint n. mark, mót, far; nafn útgefanda (prentara), útgáfustaður (prentstaður) og ártal
+imprint s. þrýsta á; innræta; [~ in the mind, on the memory] festa í huga sér, í minni sér; n. mark, mót, far; nafn útgefanda (prentara), útgáfustaður (prentstaður) og ártal
 imprison s. setja í varðhald, fangelsi
 imprisonment n. fangelsun; varðhald, fangelsi
 improbability n. ósennileiki
@@ -500,9 +498,8 @@ inclemency n. óblíða (veðráttunnar); miskunnarleysi
 inclement l. óblíður ([~ climate]); ómiskunnarsamur
 inclinable l. hneigður (til e-s [to]), hlynntur, hliðhollur (e-m [to]); sem er hætt við e-u ([~ to stammer])
 inclination n. halli; tilhneiging, löngun (til e-s [to/for])
-incline s. hallast; hafa löngun til, hneigjast að ([to]); láta hallast; beygja, hneigja ([~ the head]); [~ one's ear to] ljá e-u eyra, hlusta á e-ð; [~ one to believe that] fá e-n til að ætla, að
+incline s. hallast; hafa löngun til, hneigjast að ([to]); láta hallast; beygja, hneigja ([~ the head]); [~ one's ear to] ljá e-u eyra, hlusta á e-ð; [~ one to believe that] fá e-n til að ætla, að; n. halli, hallandi, brekka ([we rode up a steep ~])
 inclined l. hallur; hneigður, fús
-incline n. halli, hallandi, brekka ([we rode up a steep ~])
 inclose s. sjá %[enclose]%
 inclosure n. sjá %[enclosure]%
 include s. innibinda, fela í sér; ná yfir; telja (reikna) með
