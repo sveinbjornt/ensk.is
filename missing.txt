@@ -655,6 +655,7 @@ rightward
 advisement
 mogul
 grassroot
+grassroots
 medic
 statehood
 defund
@@ -1714,7 +1715,7 @@ survivable
 materiel
 reinstitute
 unenthusiastic
-grassroots
+
 scratchy
 cubbyhole
 honorarium
@@ -2373,7 +2374,6 @@ prefectural
 pee
 tester
 anthracis
-pituitary
 transmittal
 declassify
 cover-up
@@ -2387,7 +2387,6 @@ monaural
 elaborately
 slightly
 triumphantly
-dinnertime
 empressement
 vastly
 vaguely
@@ -3429,7 +3428,6 @@ painfully
 interventionism
 therein
 governor-general
-nullification
 correctly
 unconditionally
 cleverly
@@ -3458,7 +3456,6 @@ noncompliance
 registrant
 linguistically
 standardizable
-impeccably
 unsympathetic
 megaproject
 astoundingly
@@ -3507,7 +3504,6 @@ collectivizer
 misrepresentative
 monotonic
 subsystem
-ingeniousness
 multifunctional
 polyvalent
 associational
@@ -3518,7 +3514,6 @@ gaucherie
 landrush
 periodicity
 conjunctural
-man-made
 delapidation
 definitional
 insanitation
@@ -3536,7 +3531,6 @@ backland
 undersea
 headhunter
 jigger
-antipodean
 pauperization
 millenialist
 waterhole
@@ -3567,7 +3561,6 @@ reductionism
 interhemispheric
 interdecadal
 capacitator
-thermocline
 teleconnection
 uniformitarianism
 advection
@@ -3594,7 +3587,6 @@ misread
 overexpansion
 intermittence
 degenerative
-immutably
 centricity
 gainless
 primitivity
@@ -3618,7 +3610,6 @@ hypostasized
 sectional
 bakehouse
 atomistic
-breadfruit
 Chartism
 Chartist
 transcendentalism
@@ -3837,7 +3828,6 @@ morpheme
 conferencing
 well-adjusted
 carpogenic
-angiology
 academize
 academicism
 featherweight
@@ -3853,7 +3843,6 @@ emollient (endurskoða)
 discreetly
 transponder
 luxuriously
-magnanimously
 misinformed
 pitifully
 whelmed
@@ -3903,7 +3892,6 @@ refactoring
 neon
 Nimrod (endurskoða)
 drenched
-salmiac
 aspermatic
 prizetaker
 prizewinner
@@ -3977,7 +3965,6 @@ psychophysiological
 reshipment
 transshipment
 subsidance
-svelte
 marmite
 pfennig
 cilantro
@@ -3996,7 +3983,6 @@ epitope
 audiovisual
 visualization
 visualisation
-Cambrian
 conformal
 middled
 lunger

@@ -787,6 +787,9 @@ SKIP = frozenset(
         "Mesoamerica",
         "Mesoamerican",
         "Phrygia",
+        "amygdal",
+        "angiology",
+        "salmiac",
     )
 )
 
