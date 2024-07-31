@@ -782,6 +782,11 @@ SKIP = frozenset(
         "devil-worship",
         "Carpathians",
         "circumnavigable",
+        "boyar",
+        "kopek",
+        "Mesoamerica",
+        "Mesoamerican",
+        "Phrygia",
     )
 )
 

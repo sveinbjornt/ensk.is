@@ -205,7 +205,6 @@ license s.
 licensing
 mainstream
 mounted
-offshore
 offline
 offence (endurskoða)
 ongoing
@@ -375,7 +374,6 @@ reinvolve
 trafficking
 browse s.
 panopticon
-Confucianism
 Confucian
 Confucius
 full-blooded
@@ -2737,8 +2735,6 @@ quasi-religious
 re-evaluation
 tongue-in-cheek
 high-profile
-Mesoamerica
-Mesoamerican
 hemoclysm
 regenerative
 palaeontologist
@@ -2758,7 +2754,6 @@ infanticidal
 circuitry
 macro-aggression
 micro-aggressions
-Pleistocene
 great-grandchild
 prehistorical
 widescale
@@ -2853,7 +2848,6 @@ isolationist
 imbrication
 neo-colonialism
 neo-colonialist
-Amerindian
 Anglocentrism
 Anglocentric
 ethnocentric
@@ -2900,7 +2894,6 @@ combinatorial
 gradualism
 ballistics
 underswell
-Montenegrin
 thusly
 infantilization
 ressentiment
@@ -3858,7 +3851,7 @@ Elamite
 emollience
 emollient (endurskoða)
 discreetly
-paladin
+transponder
 luxuriously
 magnanimously
 misinformed
@@ -4005,3 +3998,8 @@ visualization
 visualisation
 Cambrian
 conformal
+middled
+lunger
+psychicism
+adeptship
+ouija

@@ -763,6 +763,7 @@ Moldova n. Moldóva
 Monaco n. Mónakó
 Mongolia n. Mongólía
 Montenegro n. Svartfjallaland
+Montenegrin n. Svartfellingur; svartfellska; l. svartfellskur
 Morocco n. Marokkó
 Moroccan l. marokkóskur; n. Marokkói, Marokkómaður
 Mozambique n. Mósambík
@@ -4823,9 +4824,22 @@ labile l. óstöðugur, líklegur til að breytast
 lability n. óstöðugleiki
 zero-sum n. núllsumma; [~ game] jafnvirðisleikur, núllsummuleikur; l. núllsummu-
 onshore l. á landi
+offshore l. (úti) á sjó
 incubator n. hitakassi, hitaskápur, nýburakassi, klakskápur; [~ space] nýgræðingsrými
 cross-cultural l. þvermenningarlegur, milli menninga
 cafeteria n. kaffistofa; kaffihús
 sexually ao. kynferðislega, með kynlífi, í gegnum kynlíf ([~ transmitted disease])
 willful l. sjá %[wilful]%
 vaginal l. legganga-, skeiðar-
+kopek n. kópeki (rússnesk smámynt)
+boyar n. bojari (rússneskur aðalsmaður)
+Amerindian n. frumbyggi Ameríku; indjáni; l. sem er frumbyggi Ameríku, indjána-, af indjánaættum
+Pleistocene n. ísöld
+Mesoamerica n. Mið-Ameríka
+Mesoamerican l. miðamerískur; n. Mið-Ameríkumaður
+Confucianism n. konfúsíusarhyggja
+firefly n. eldfluga, blysbjalla
+Pliocene n. plíósen, plíósentími, plíósentímabil
+paladin n. hetjulegur riddari
+Phrygia n. Frýgía (land eða ríki sem var í Litlu-Asíu)
+Phrygian l. frýgískur, frýgverskur; n. Frýgíumaður (sjá %[Phrygia]%)
