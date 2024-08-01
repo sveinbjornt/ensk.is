@@ -3275,7 +3275,7 @@ typhoid n. taugaveiki ([~ fever])
 immunization n. bólusetning, ónæming, ónæmisaðgerð
 adrenal l. nýrnagrenndar-, sem er við nýru; nýrnahettu-
 dehydrate s. afvatna, þurrka
-dehydration n. vökvatap, vökvaskortur, ofþornun
+dehydration n. vökvatap, vökvaskortur, ofþornun, afvötnun
 cashew n. kasjúhneta
 smelter n. málmbræðsla, málmbræðsluofn
 physiocrat n. búauðgismaður (fylgismaður ákv. hagfræðikenningar á 18. öld)
@@ -4882,6 +4882,7 @@ Sumerian n. Súmeri; súmerska; l. súmerskur
 audiovisual l. hljóðmyndrænn, hljóðrænn og myndrænn, hljóð- og mynd-, hljóðmynda-, sjónheyrnar-
 miasm n. sjá %[miasma]%
 overqualified l. of hæfur, of menntaður ([he's ~ for the job])
+superqualified l. gríðarlega hæfur, ofurhæfur
 divided l. skiptur (upp í einingar), skiptur (á milli aðila [between]), sundraður, sundurskiptur; deildur
 fragmented l. sundraður, sundurskiptur; mulinn
 unvoiced l. óraddaður ([~ consonants]); ekki borinn fram með raddhljóði; ósagður ([an ~ complaint])
@@ -4898,9 +4899,22 @@ multifunctional l. fjölvirkur
 social network n. félagsnet, samfélagsnet; samfélagsmiðill
 social media n. ft. samfélagsmiðlar
 throughput n. gegnumstreymi, streymi; afköst
-hydrated l. vatnaður, vatnshaldinn
+hydrated l. vatnaður, vatnshaldinn, vökvaður
 hydration n. vötnun, vökvun
 dehydrated l. afvatnaður, þurrkaður
-externalization n. úthverfing
-externalize s. gera ytri, utanverðan; úthverfa
+externalization n. úthverfing (sjá %[externalize]%)
+externalize s. gera ytri, utanverðan, setja fyrir utan; úthverfa
 hitman n. leigumorðingi
+decisively ao. á afgerandi hátt, á einbeittan hátt
+pathologize s. sjúkdómsvæða
+theodicy n. guðfræðileg réttlæting, réttlæting á eiginleikum guðs
+secularization n. veraldarvæðing; afhelgun; upptaka á eignum klaustra og kirkja; aðskilnaður ríkis og kirkju
+barometric l. loftþyngdar-, loftþrýstings-
+Westernization n. vesturlandavæðing
+nitroglycerin n. nítróglyserín
+ideation n. hugmyndamótun, hugmyndasköpun; hugleiðingar ([suicidal ~])
+ideational l. hugmyndamótunar-, hugmyndasköpunar-
+cheesecake n. ostakaka
+importer n. innflutningsaðili, innflytjandi, innflutningsfyrirtæki, e-r sem flytur inn (vörur)
+cetacean n. hvalur; l. hvala-, af hvalaætt
+subsidization n. niðurgreiðsla, niðurgreiðslustefna

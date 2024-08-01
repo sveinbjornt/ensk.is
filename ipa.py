@@ -793,6 +793,8 @@ SKIP = frozenset(
         "miasm",
         "Sumerian",
         "intertemporal",
+        "secularization",
+        "superqualified",
     )
 )
 
