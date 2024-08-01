@@ -220,8 +220,8 @@ internet n. internet, alnet, víðnet (oft skrifað með stórum staf, [the Inte
 surfboard n. brimbretti
 rollerskate n. hjólaskauti; s. ferðast á hjólaskautum
 geyser n. goshver
-penis n. typpi, getnaðarlimur
-cunnilingus n. munnmök, að fara niður á konu
+penis n. typpi, getnaðarlimur, göndull
+cunnilingus n. munnmök, að fara niður á konu, að sleikja píku
 bestseller n. metsölubók; vara sem selst í miklu magni
 bestselling l. söluhæstur; metsölu-
 roommate n. herbergisfélagi, kammerat
@@ -4829,7 +4829,7 @@ cross-cultural l. þvermenningarlegur, milli menninga
 cafeteria n. kaffistofa; kaffihús
 sexually ao. kynferðislega, með kynlífi, í gegnum kynlíf ([~ transmitted disease])
 willful l. sjá %[wilful]%
-vaginal l. legganga-, skeiðar-
+vaginal l. legganga-, skeiðar-; er lýtur að kynfærum kvenna, píkulegur
 kopek n. kópeki (rússnesk smámynt)
 boyar n. bojari (rússneskur aðalsmaður)
 Amerindian n. frumbyggi Ameríku; indjáni; l. sem er frumbyggi Ameríku, indjána-, af indjánaættum
@@ -4870,16 +4870,22 @@ underpayment n. vangreiðsla, vanborgun, vanlaunun
 cashless l. án reiðufjár ([~ payment])
 tarmac n. malbik, jarðbik, asfalt; flugbraut ([on the ~])
 disinterest n. áhugaleysi; óhlutdrægni, ósérplægni
-psychotic l. geðveikur, geðtruflaður, sturlaður; n. geðsjúklingur
+psychotic l. geðveikur, geðtruflaður, sturlaður, haldinn geðhrifum; n. geðsjúklingur, sturlaður maður
 psychotic break n. stundarbrjálæði
 standup n. uppistand; [~ comedy] uppistandsgrín, grín á sviði; l. fínn, heiðarlegur, áreiðanlegur ([he's a ~ guy])
 standup comedian n. uppistandari, grínisti á sviði
-summertime n. sumartími, sumarmánuðir; [in the ~] á sumrin
+summertime n. sumartími, sumartíð, sumarmánuðir; [in the ~] á sumrin
 wintertime n. vetur, vetrarlag, vetrarmánuðir, vetrartími, vetrartíð; [in ~] á veturna
 Sumerian n. Súmeri; súmerska; l. súmerskur
-audiovisual l. hljóð- og mynd-, hljóðrænn og myndrænn, hljóðmynda-
+audiovisual l. hljóðmyndrænn, hljóðrænn og myndrænn, hljóð- og mynd-, hljóðmynda-, sjónheyrnar-
 miasm n. sjá %[miasma]%
-overqualified l. of hæfur, of menntaður
-divided l. skiptur (upp í einingar), skiptur (á milli aðila), sundraður, sundurskiptur; deildur
-fragmented l. sundurskiptur, sundraður, mulinn
-unvoiced l. óraddaður ([~ consonants]); ekki borinn fram með raddhljóði; ósagður ([~ complaints])
+overqualified l. of hæfur, of menntaður ([he's ~ for the job])
+divided l. skiptur (upp í einingar), skiptur (á milli aðila [between]), sundraður, sundurskiptur; deildur
+fragmented l. sundraður, sundurskiptur; mulinn
+unvoiced l. óraddaður ([~ consonants]); ekki borinn fram með raddhljóði; ósagður ([an ~ complaint])
+coronavirus n. kórónuveira
+antiviral l. veirueyðandi, veiruhamlandi
+antigen n. mótefnisvaki
+antigenic l. mótefnisvaka-, vaka-
+brewing n. bruggun
+earthbound l. jarðbundinn; á leið til jarðar
