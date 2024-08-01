@@ -795,8 +795,8 @@ diamond-cutter n. demantaslípari
 diaper n. rósað léreft; handklæðadúkur; þurrka, handklæði; s. vefa rósir í, skreyta rósamyndum
 diaphanous l. gagnsær
 diaphragm n. þind
-diarrhea n. lífsýki, niðurgangur
-diarrheal l. lífsýkis-, niðurgangs-
+diarrhea n. niðurgangur, lífsýki
+diarrheal l. niðurgangs-, lífsýkis-
 diarist n. dagbókarhöfundur
 diary n. dagbók
 diatribe n. orðadeila; skammaræða
@@ -809,9 +809,9 @@ dickens n. skolli ([what the ~?])
 dicky n. þjónssæti (á vagni)
 dictate s. lesa (e-m) fyrir; fyrirskipa, bjóða; n. fyrirskipun, boð ([the ~s of conscience])
 dictation n. hljóðritun ([~ software]); fyrirlestur (til uppskriftar); fyrirmæli
-dictator n. alræðismaður, einvaldur
-dictatorial l. alveldislegur; ráðríkislegur, ráðríkur
-dictatorship n. alræðismennska, einveldi
+dictator n. einræðisherra, alræðismaður, einvaldur
+dictatorial l. einræðislegur, einræðis-, alveldislegur; ráðríkislegur, ráðríkur
+dictatorship n. einræði, alræðismennska, einveldi
 diction n. orðfæri, stíll
 dictionary n. orðabók
 dictum n. ummæli; álit, yfirlýsing (dómara) (ft. [dicta])

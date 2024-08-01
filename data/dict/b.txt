@@ -128,13 +128,13 @@ baptismal l. skírnar-; [~ name] skírnarnafn
 baptist n. skírari; endurskírari
 baptize s. skíra
 bar n. (málm)stöng; slá, slagbrandur; sker, grynningar (fyrir framan hafnarmynni); hindrun; dómgrindur: dómstóll; málfærslumannastétt; drykkjarsöluborð (í veitingahúsi); [go (to be called) to the ~] gerast málfærslumaður; s. byrgja; reka slagbrand fyrir; þvergirða; hindra; banna
-barkeeper n. veitingamaður
-barmaid n. veitingastúlka
+barkeeper n. veitingamaður, barþjónn
+barmaid n. veitingastúlka, barstúlka
 barroom n. drykkjarstofa
 barb n. hár (á plöntum); agnhald (á öngli); krókur (á ör); s. setja agnhald á öngul eða krók á ör; gadda
 barbed wire n. gaddavír; [barbed wire fence] gaddavírsgirðing
-barbarian l. ósiðaður; n. villimaður
-barbaric l. villimannlegur
+barbarian n. villimaður; l. ósiðaður
+barbaric l. villimannlegur, ósiðaður
 barbarism n. villimennska; menningarleysi; útlent eða óvandað orð
 barbarize s. spilla, spillast; snúa til villimennsku, gera villimannslegan
 barbarity n. villimennska; grimmd, grimmdarverk
@@ -569,10 +569,10 @@ billowy l. bylgjóttur
 billy-goat n. hafur
 bimanous l. tvíhendur
 binary l. tvennur, tví-
-bin n. byrða, kassi
+bin n. ruslafata, ruslakarfa; byrða, kassi; [loony ~] geðsjúkrahæli (óforml.); s. henda í ruslið, setja í ruslafötu
 bind s. binda, festa; skuldbinda ([~ over to appear, to keep the peace]); [I'll be bound] ég skal ábyrgjast; [~ apprentice] koma (e-m) fyrir í iðnaðarnám; [~ up] binda um (sár)
 bindery n. bókbandsstofa
-binding n. band (á bók)
+binding n. band (á bók); l. bindandi, skuldbindandi ([~ agreement])
 bing n. bingur, hrúga
 binnacle n. kompásskýli (á hafskipi)
 binocle n. kíkir (fyrir bæði augun)
@@ -583,13 +583,13 @@ biographical l. ævisögulegur
 biography n. ævisaga
 biological l. líffræðilegur
 biologist n. líffræðingur
-biology n. líffræði; líffærafræði
-biped n. tvífætla; l. tvífættur
-bipedal l. tvífættur
+biology n. líffræði
+biped n. tvífætla, tvífætlingur; l. tvífættur
+bipedal l. tvífættur, með tvo fætur
 bipolar l. sem hefur tvo póla
 birch n. birki; sófl, vöndur ([~ rod]); s. flengja (með vendi)
 birchen l. gerður úr birki; birki-
-bird n. fugl; [~'s eye] tyrkneskt tóbak; [~'s eye view] flugsýn, útsýn úr lofti; [~'s-nest] n. hreiður; s. leita að hreiðrum ([to go ~'s-nesting])
+bird n. fugl; [~'s eye view] flugsýn, útsýni úr lofti; [~'s-nest] hreiður; stúlka, kona (óforml.); [strange ~] furðufugl; s. leita að hreiðrum ([to go ~'s-nesting])
 birth n. fæðing, burður; uppruni; [by ~] að fæðingu; [give ~ to] fæða, ala
 birthday n. afmælisdagur
 birthplace n. fæðingarstaður

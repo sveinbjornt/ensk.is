@@ -4607,7 +4607,7 @@ hairdryer n. hárþurrka, hárblásari
 embryology n. fósturfræði
 bachelorhood n. piparsveinslíf, einhleypi, ókvænt ástand karlmanns
 spinsterhood n. piparmeyjarlíf, einhleypi, ókvænt ástand kvenmanns
-spinsterish l. piparmeyjar-, piparmeyjarlegt
+spinsterish l. piparmeyjar-, piparmeyjarleg
 cliffside n. klettaveggur, klettar; bjargbrún, klettabrún
 organically ao. á lífrænan hátt eða máta, lífrænt
 jitterbug n. sveifludans
@@ -4840,8 +4840,8 @@ Confucianism n. konfúsíusarhyggja
 firefly n. eldfluga, blysbjalla
 Pliocene n. plíósen, plíósentími, plíósentímabil
 Cambrian n. kambríumtímabil
-paladin n. hetjulegur riddari
-Phrygia n. Frýgía (land eða ríki sem var í Litlu-Asíu)
+paladin n. hetjulegur riddari, hvítur riddari
+Phrygia n. Frýgía (land eða ríki sem var í Litlu-Asíu til forna)
 Phrygian l. frýgískur, frýgverskur; n. Frýgíumaður (sjá %[Phrygia]%)
 svelte l. grannvaxinn
 salmiac n. salmíak (ammóníumklóríð)
@@ -4853,7 +4853,7 @@ immutably ao. óumbreytanlega, óbreytanlega, óhagganlega
 thermocline n. hitaskiptalag
 antipodean n. andfætlingur, andfætingur; l. andfætlinga-
 man-made l. manngerður, smíðað af mönnum, af manna völdum
-ingeniousness n. hugvitssemi
+ingeniousness n. hugvitssemi, ráðkænska
 impeccably l. á gallalausan eða óskeikulan hátt, óskeikullega
 nullification n. ónýting, ógilding, afnám, núllun
 dinnertime n. kvöldverðartími, kvöldmatartími, kvöldverðarleyti, kvöldmatarleyti
@@ -4864,11 +4864,21 @@ blacklist n. svartur listi; s. setja á svartan lista, útiloka, banna
 blacklisted l. settur á svartan lista, útilokaður, bannaður
 gymnastics n. ft. fimleikar, leikfimi
 burnout n. útbruni; kulnun í starfi
-polluter n. mengari, mengill
-pollutant n. mengunarvaldur, mengunarefni, mengill
-underpayment n. vangreiðsla, vanborgun
+polluter n. mengari, mengunarvaldur, mengill
+pollutant n. mengunarefni, mengunarvaldur, mengill
+underpayment n. vangreiðsla, vanborgun, vanlaunun
 cashless l. án reiðufjár ([~ payment])
-tarmac n. malbik, jarðbik, asfalt; flugbraut
+tarmac n. malbik, jarðbik, asfalt; flugbraut ([on the ~])
 disinterest n. áhugaleysi; óhlutdrægni, ósérplægni
 psychotic l. geðveikur, geðtruflaður, sturlaður; n. geðsjúklingur
 psychotic break n. stundarbrjálæði
+standup n. uppistand; [~ comedy] uppistandsgrín, grín á sviði; l. fínn, heiðarlegur, áreiðanlegur ([he's a ~ guy])
+standup comedian n. uppistandari, grínisti á sviði
+summertime n. sumartími, sumarmánuðir; [in the ~] á sumrin
+wintertime n. vetur, vetrarlag, vetrarmánuðir, vetrartími, vetrartíð; [in ~] á veturna
+Sumerian n. Súmeri; súmerska; l. súmerskur
+audiovisual l. hljóð- og mynd-, hljóðrænn og myndrænn, hljóðmynda-
+miasm n. sjá %[miasma]%
+overqualified l. of hæfur
+divided l. skiptur (upp í einingar), skiptur (á milli aðila), sundraður, sundurskiptur; deildur
+fragmented l. sundurskiptur, sundraður, mulinn

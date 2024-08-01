@@ -664,10 +664,10 @@ urban l. borgar-
 urbane l. kurteis, mannúðlegur
 urbanity n. kurteisi
 urchin n. strákhnokki; stelpa; ígulker ([sea ~])
-urge s. knýja, reka áfram; halda e-u fast fram; mæla ákaft með; herða á, leggja hart að e-m ([~ one to do a thing]); biðja innilega um; [wave ~s wave] ein bylgja kemur eftir aðra
-urgency n. bráð nauðsyn; ákefð; innilegar bænir
+urge s. hvetja, knýja, reka áfram; halda e-u fast fram; mæla ákaft með; herða á, leggja hart að e-m ([~ one to do a thing]); biðja innilega um
+urgency n. bráð nauðsyn; ákefð
 urgent l. áríðandi, brýnn; ákafur
-urgently ao. ákaflega
+urgently ao. ákaflega, á áriðandi hátt
 urinal n. þvagskál, pissuskál; migubás, miguskál; þvagglas
 urinary l. þvag-; [~ bladder] hlandblaðra
 urinate s. pissa, kasta af sér vatni, láta þvagið
@@ -687,16 +687,16 @@ usucaption n. hefð
 usufruct n. afnotaréttur
 usurer n. okrari, okurlánari
 usurious l. okur-
-usurp s. taka heimildarlaust undir sig
-usurpation n. heimildarlaus eignartaka, valdarán
-usurper n. ránsmaður, valdaránsmaður
+usurp s. taka heimildarlaust undir sig; fremja valdarán
+usurpation n. heimildarlaus eignartaka; valdarán
+usurper n. valdaránsmaður, ránsmaður
 usury n. okur, okurlán
 utensil n. áhald; ílát; [kitchen ~s] eldhúsáhöld
 uterus n. leg
 utilitarian l. nytsemislegur, nytjahyggju-; n. nytjahyggjumaður
 utilitarianism n. nytjahyggja, nytsemiskenning
 utility n. nytsemi, gagnsemi
-utilization n. hagnýting
+utilization n. hagnýting, nýting
 utilize s. nota, hagnýta sér, nýta sér, gera arðsamt
 utmost l. ystur ([the ~ limits]); mestur ([he showed the ~ reluctance]); [try your ~] reyndu allt sem á þínu valdi stendur
 utopia n. draumaland, fyrirmyndarríki; staðleysa, fjarstæða

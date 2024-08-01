@@ -525,14 +525,14 @@ fishing-frog n. blágóma (fiskur)
 fishing-rod n. veiðistöng
 fishing-station n. fiskiver, veiðistöð
 fishing-tackle n. veiðarfæri
-fishmarket n. fisktorg
+fishmarket n. fisktorg, fiskmarkaður
 fishmonger n. fisksali
 fish oil n. fisklýsi
 fishpond n. fiskitjörn
 fish-teeming l. fiskisæll ([~ coasts])
-fishy l. svipaður fiski; fiskisæll; óáreiðanlegur, tvísýnn; daufur, eyðilegur á svip ([~ eyed]); [~ taste] fiskbragð
-fishwoman n. kona, sem selur fisk
-fishwife n. kona, sem selur fisk
+fishy l. svipaður fiski; fiskisæll; óáreiðanlegur, tvísýnn, vafasamur; daufur, eyðilegur á svip ([~ eyed]); [~ taste] fiskbragð
+fishwoman n. kona sem selur fisk
+fishwife n. kona sem selur fisk
 fissile l. kljúfanlegur
 fissility n. kljúfanleiki
 fission n. klofning
@@ -542,7 +542,7 @@ fistic l. hnefa- ([~ combat])
 fisticuffs n. hnefaleikur
 fistula n. pípa
 fit l. hæfur, hentugur; vel fallinn (til [for]); s. gera hæfan; laga (eftir e-u to); máta ([~ on a garment]); hæfa, sæma; ganga að ([the key ~s to the lock]); útbúa ([~ out]); vera mátulegur; fara (um föt); n. [be a bad (an excellent) ~] fara illa (ágætlega)
-fitness n. hentugleiki, hæfileiki
+fitness n. hentugleiki, hæfileiki; [~ training] líkamsrækt
 fitter n. sá sem útbýr
 fittings n. ft. útbúningur; tengihlutar pípulagna
 fit n. kast, flog ([~ of illness, laughter]); yfirlið ([fainting-~]); slag; rykkur; [by ~s (and starts)] með hríðum

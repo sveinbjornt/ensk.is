@@ -790,6 +790,8 @@ SKIP = frozenset(
         "amygdal",
         "angiology",
         "salmiac",
+        "miasm",
+        "Sumerian",
     )
 )
 
