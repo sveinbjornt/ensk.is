@@ -4879,6 +4879,7 @@ wintertime n. vetur, vetrarlag, vetrarmánuðir, vetrartími, vetrartíð; [in ~
 Sumerian n. Súmeri; súmerska; l. súmerskur
 audiovisual l. hljóð- og mynd-, hljóðrænn og myndrænn, hljóðmynda-
 miasm n. sjá %[miasma]%
-overqualified l. of hæfur
+overqualified l. of hæfur, of menntaður
 divided l. skiptur (upp í einingar), skiptur (á milli aðila), sundraður, sundurskiptur; deildur
 fragmented l. sundurskiptur, sundraður, mulinn
+unvoiced l. óraddaður ([~ consonants]); ekki borinn fram með raddhljóði; ósagður ([~ complaints])

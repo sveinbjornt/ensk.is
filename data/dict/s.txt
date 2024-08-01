@@ -2791,7 +2791,7 @@ suitable l. hæfilegur ([~ compensation]); hentugur; vel til fallinn
 suitably ao. á hæfilegan hátt
 suite n. föruneyti, fylgd; svíta; röð ([a ~ of rooms])
 suitor n. umsækjandi; biðill; málsaðili
-sulk s. vera með ólund
+sulk s. vera með ólund, vera í fýlu
 sulkiness n. ólund, fýla
 sulks n. ft. ólund, fýla
 sulky l. ólundarfullur; fúll; n. léttivagn
@@ -2812,7 +2812,7 @@ sultriness n. molla
 sultry l. mollulegur
 sum n. summa; upphæð; reikningsdæmi; aðalinntak; [in ~] í stuttu máíi; [to do a ~] reikna dæmi; s. reikna; [~ up] leggja saman; taka upp aftur í stuttu máli, reifa mál ([~ up a case])
 summarize s. segja stuttlega frá; taka saman stuttlega
-summary l. stuttorður, stuttur; umsvifalítill; [~ justice] skyndidómur; n. aðalinntak, ágrip
+summary n. samantekt, yfirlit, ágrip, aðalinntak; l. stuttorður, stuttur; umsvifalítill; [~ justice] skyndidómur
 summer n. sumar; s. vera um sumarið eða á sumrin
 summer house n. sumarhús; garðhús; sumarbústaður
 summerly l. sumarlegur
