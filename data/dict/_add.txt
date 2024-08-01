@@ -309,6 +309,7 @@ entertainment industry n. skemmtanabransinn, afþreyingarbransinn
 stereotypical l. dæmigerður, sem fylgir staðalmynd, staðalmyndar-
 sociological l. (sam)félagsfræðilegur, félagsvísindalegur
 sociologist n. (sam)félagsfræðingur
+social science n. félagsvísindi
 social scientist n. félagsvísindamaður, félagsvísindakona
 societal l. samfélagslegur, félagslegur, þjóðfélagslegur
 sophisticated l. fágaður; háþróaður; margbrotinn
@@ -410,7 +411,7 @@ rollerblades n. ft. línuskautar
 plexiglass n. plexígler
 thermophile n. hitakær lífvera
 thermophilic l. hitakær (notað um lífverur sem dafna við háan hita)
-consultancy n. ráðgjöf; ráðgjafarstofa
+consultancy n. ráðgjöf; ráðgjafarstofa, ráðgjafarfyrirtæki
 demographic l. lýðfræðilegur
 demography n. lýðfræði
 demographics n. ft. lýðfræðiupplýsingar, lýðfræðileg tölfræði
@@ -1194,6 +1195,7 @@ ontology n. verufræði
 ontological l. verufræðilegur
 metaphilosophy n. heimspeki heimspekinnar, heimspekileg skoðun á aðferðum heimspekinnar
 natural philosophy n. náttúruspeki, náttúruvísindi ([the ~ of Isaac Newton])
+natural science n. náttúruvísindi
 plankton n. svif, svifdýr
 alga n. sjá %[algae]%
 algae n. ft. þörungar (et. %[alga]%)
@@ -4051,7 +4053,7 @@ unidirectional l. einstefnu-, sem fer í eina átt
 pluralism n. fjölhyggja; fjölræði; fjölbýli
 safflower n. safflúr, litunarþistill, litunarkollur (jurt)
 matériel n. efni, búnaður; herbúnaður
-bomber n. sprengjuvél, sprengjuflugvél
+bomber n. sprengjuflugvél, sprengjuvél
 consultant n. ráðgjafi, ráðgefandi sérfræðingur
 extrapolate s. bryggja, framreikna, útgíska
 extrapolation n. bryggjun, framreikningur, útgískun
@@ -4889,3 +4891,16 @@ antigen n. mótefnisvaki
 antigenic l. mótefnisvaka-, vaka-
 brewing n. bruggun
 earthbound l. jarðbundinn; á leið til jarðar
+contraceptive n. getnaðarvörn; l. getnaðarvarnar-
+intertemporal l. milli tímabila
+prolonged l. langvarandi, framlengdur
+multifunctional l. fjölvirkur
+social network n. félagsnet, samfélagsnet; samfélagsmiðill
+social media n. ft. samfélagsmiðlar
+throughput n. gegnumstreymi, streymi; afköst
+hydrated l. vatnaður, vatnshaldinn
+hydration n. vötnun, vökvun
+dehydrated l. afvatnaður, þurrkaður
+externalization n. úthverfing
+externalize s. gera ytri, utanverðan; úthverfa
+hitman n. leigumorðingi

@@ -216,7 +216,6 @@ referral
 regulatory
 relevance
 irrelevance
-throughput
 throttle (endurskoða)
 engram
 botched
@@ -504,7 +503,6 @@ unintelligent
 teeter
 windless
 unleash
-prolonged
 stringiness
 underside
 underbelly
@@ -1542,7 +1540,6 @@ radicalization
 brutalization
 definiteness
 externalize
-externalization
 decisively
 detainee
 exhaustiveness
@@ -3050,7 +3047,6 @@ covariation
 communicability
 assortativity
 invariance
-intertemporal
 neurohormonal
 differentially
 dorsolateral
@@ -3493,7 +3489,6 @@ collectivizer
 misrepresentative
 monotonic
 subsystem
-multifunctional
 polyvalent
 associational
 diagnostically
@@ -3592,7 +3587,6 @@ parallelogram
 paramountcy
 ensurance
 associationist
-contraceptive
 folkway
 hypostasize
 hypostasized
@@ -3804,8 +3798,6 @@ lambasted
 invigorating
 goober
 cavitation
-hydrated
-dehydrated
 whiny
 widowed
 brawler
