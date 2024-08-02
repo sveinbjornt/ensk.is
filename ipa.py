@@ -795,6 +795,9 @@ SKIP = frozenset(
         "intertemporal",
         "secularization",
         "superqualified",
+        "asthenic",
+        "inegalitarian",
+        "Sumer",
     )
 )
 

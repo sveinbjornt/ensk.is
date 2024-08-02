@@ -4878,7 +4878,8 @@ standup n. uppistand; [~ comedy] uppistandsgrín, grín á sviði; l. fínn, hei
 standup comedian n. uppistandari, grínisti á sviði
 summertime n. sumartími, sumartíð, sumarmánuðir; [in the ~] á sumrin
 wintertime n. vetur, vetrarlag, vetrarmánuðir, vetrartími, vetrartíð; [in ~] á veturna
-Sumerian n. Súmeri; súmerska; l. súmerskur
+Sumer n. Súmer (fornt ríki í Mesópótamíu)
+Sumerian n. Súmeri; súmerska; l. súmerskur (sjá %[Sumer]%)
 audiovisual l. hljóðmyndrænn, hljóðrænn og myndrænn, hljóð- og mynd-, hljóðmynda-, sjónheyrnar-
 miasm n. sjá %[miasma]%
 overqualified l. of hæfur, of menntaður ([he's ~ for the job])
@@ -4895,7 +4896,7 @@ earthbound l. jarðbundinn; á leið til jarðar
 contraceptive n. getnaðarvörn; l. getnaðarvarnar-
 intertemporal l. milli tímabila
 prolonged l. langvarandi, framlengdur
-multifunctional l. fjölvirkur
+multifunctional l. fjölvirkur, með fleiri en eina virkni
 social network n. félagsnet, samfélagsnet; samfélagsmiðill
 social media n. ft. samfélagsmiðlar
 throughput n. gegnumstreymi, streymi; afköst
@@ -4907,7 +4908,7 @@ externalize s. gera ytri, utanverðan, setja fyrir utan; úthverfa
 hitman n. leigumorðingi
 decisively ao. á afgerandi hátt, á einbeittan hátt
 pathologize s. sjúkdómsvæða
-theodicy n. guðfræðileg réttlæting, réttlæting á eiginleikum guðs
+theodicy n. guðfræðileg réttlæting, réttlæting á eiginleikum guðs, guðfræðilegt uppgjör við tilvist illsku
 secularization n. veraldarvæðing; afhelgun; upptaka á eignum klaustra og kirkja; aðskilnaður ríkis og kirkju
 barometric l. loftþyngdar-, loftþrýstings-
 Westernization n. vesturlandavæðing
@@ -4917,4 +4918,13 @@ ideational l. hugmyndamótunar-, hugmyndasköpunar-
 cheesecake n. ostakaka
 importer n. innflutningsaðili, innflytjandi, innflutningsfyrirtæki, e-r sem flytur inn (vörur)
 cetacean n. hvalur; l. hvala-, af hvalaætt
-subsidization n. niðurgreiðsla, niðurgreiðslustefna
+subsidization n. niðurgreiðsla; niðurgreiðslustefna
+gangly l. renglulegur
+asthenic l. þróttlaus; renglulegur
+inegalitarian l. ójafnaðar-, ójafnaðarlegur, ójafnréttis-
+drastically ao. á áhrifamikinn eða róttækan hátt
+midsection n. miðja; mitti, skrokkur, magi
+vaguely ao. ónákvæmlega, á óákveðin eða ónákvæman hátt
+modestly ao. hæversklega, á hæverskan eða siðprúðan hátt, af siðprýði
+triumphantly ao. sigri hrósandi, á sigursælan hátt
+riff-raff n. ruslaralýður, skríll, illþýði, pakk
