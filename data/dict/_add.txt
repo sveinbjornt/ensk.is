@@ -591,7 +591,7 @@ fundraising n. fjáröflun
 fennel n. fennika (jurt)
 Madagascar n. Madagaskar
 publishing n. útgáfustarfsemi ([they're the biggest name in ~])
-CV n. ferilskrá (stytt. á lat. [curriculum vitae])
+CV n. ferilskrá (stytt. á latneska [curriculum vitae])
 press conference n. blaðamannafundur, fréttamannafundur
 AIDS n. alnæmi, eyðni (stytt. á [acquired immunodeficiency syndrome])
 limousine n. limúsína, limmósína, eðalvagn, glæsivagn
@@ -1339,7 +1339,7 @@ pimp n. melludólgur, hórmangari; s. selja (vændi); koma á framfæri (óforml
 lymph node n. eitill
 ecumenical l. sjá %[oecumenical]%
 corpus n. búkur, bolur; málheild
-habeas corpus n. (úr lat.) réttur handtekins manns til að vera leiddur fyrir dómara án tafar
+habeas corpus n. (úr latínu) réttur handtekins manns til að vera leiddur fyrir dómara án tafar
 arquebus n. e.k. gamaldags byssa (sjá einnig %[harquebus]%)
 environmental l. umhverfis-; sjá %[environment]%
 hydroelectric l. vatnsafls-, vatnsorku-; [hydroelectric power plant] vatnsaflsvirkjun, vatnsorkuver
@@ -1748,18 +1748,19 @@ speech recognition n. talgreining
 artificial intelligence n. gervigreind, vitlíki
 AI n. stytt. á %[artificial intelligence]%
 homebrew n. heimabrugg
+homebrewer n. heimabruggari
 inculcation n. innræting
 limited l. takmarkaður; endanlegur
 desiccated l. þurrkaður, þurr (sjá %[desiccate]%)
 self-confident l. sjálfsöruggur, fullviss um sjálfan sig
-self-confidence n. sjálfsöryggi
+self-confidence n. sjálfsöryggi, sjálfstrú, fullvissa um sjálfan sig
 zeitgeist n. tíðarandi (úr þýsku)
-weltschmerz n. lífsleiði, heimsangist, óánægja með ástand heimsins (úr þýsku)
+weltschmerz n. heimsangist, óánægja með ástand heimsins (úr þýsku)
 weltanschauung n. heimssýn (úr þýsku)
 world-weary l. lífsleiður, lífsþreyttur, heimsþreyttur
 world-weariness n. lífsleiði, lífsþreyta
 obsession n. þráhyggja
-obsessive l. haldinn þráhyggju, með e-ð á heilanum
+obsessive l. haldinn þráhyggju, með e-ð á heilanum; n. maður haldinn þráhyggju
 relativist n. afstæðishyggjumaður; l. afstæðishyggju-
 relativistic l. afstæðishyggju-
 relativism n. afstæðishyggja
@@ -1768,7 +1769,7 @@ undramatic n. ódramatískur (sjá %[dramatic]%)
 phenomenology n. fyrirbærafræði
 phenomenologist n. fyrirbærafræðingur
 phenomenological l. fyrirbærafræðilegur
-well-known l. vel eða almennt þekktur, frægur; vel vitaður; vel kunnugur
+well-known l. vel þekktur; vel vitaður; vel kunnugur; almennt þekktur, frægur
 anthropomorphism n. manngerving, manngervastefna
 anthropomorphic l. manngervingar-
 afterlife n. framhaldslíf, líf eftir dauðann
@@ -2404,7 +2405,7 @@ horseshit n. hrossaskítur, hestaskítur, hrossatað; kjaftæði, bull (óforml.
 appeasable l. sefanlegur, friðþægjanlegur
 unappeasable l. ósefanlegur, ófriðþægjanlegur
 reassessment n. endurmat (sjá %[assessment]%)
-freeborn l. frjálsborinn
+freeborn l. frjálsborinn, fæddur sem frjáls maður
 tediousness n. leiðindi (sjá %[tedious]%)
 reuse s. endurnota, endurnýta
 reusable l. endurnotanlegur, endurnýtanlegur
@@ -2426,23 +2427,24 @@ stigmatization n. brennimerking
 median n. miðgildi; l. miðgildis-
 reincarnation n. endurholdgun, endurfæðing
 spatula n. spaði
-playfulness n. gamansemi
+playfulness n. gamansemi, leiksemi
 scapula n. herðablað
 webcam n. vefmyndavél
 reelect s. endurkjósa, endurvelja
 reelection n. endurkjör, endurkosning
-housework n. húsverk, heimilisstörf, heimilisverk
+housework n. heimilisstörf, heimilisverk, húsverk
 auditorium n. áheyrendasalur, samkomusalur, hljómleikasalur
 healthcare n. heilbrigðisþjónusta
 humanely ao. mannúðlega, manneskjulega
 toponym n. örnefni, staðarnafn
-cryptonym n. dulnefni
-euthanasia n. líknardráp
+cryptonym n. dulnefni, leyninafn
+euthanasia n. líknardráp, miskunnarsamt dráp
 euthanize s. aflífa, deyða, lóga (sjá %[euthanasia]%)
 thanatology n. dauðafræði
 victimless l. án fórnarlambs
 mechanize s. vélvæða
-mechanization n. vélvæðing
+mechanized l. vélvæddur ([~ warfare])
+mechanization n. vélvæðing ([~ of the fishing fleet])
 breadbasket n. brauðkarfa
 co-founder n. meðstofnandi
 concatenated l. samtengdur, hlekkjaður saman, skeyttur saman, samskeyttur
@@ -2596,7 +2598,8 @@ psychoanalysis n. sálgreining, sálkönnun
 psychoanalytic l. sálgreiningar-, sálkönnunar-
 muscle-bound l. vöðvastæltur
 amphibian n. froskdýr, dýr sem lifir bæði í vatni og á landi
-gerontocracy n. öldungaveldi, öldungaræði
+gerontocracy n. öldungaveldi, öldungaræði, öldungastjórn
+gerontocratic l. öldungaveldis-, öldungaræðis-, öldungastjórnar-
 gerontology n. öldungafræði
 impecunity n. féleysi, fátækt
 impecuniosity n. féleysi, fátækt
@@ -2717,6 +2720,7 @@ unfalsifiable l. óafsannanlegur
 unfalsifiability n. óafsannanleiki
 hunter-gatherer n. veiðimanna-safnari
 eurocentric l. evrópumiðaður, sem einblínir á Evrópu
+eurocentrism n. evrópumiðað sjónarhorn, einblíning á Evrópu
 genomics n. ft. erfðafræði
 moveable l. hreyfanlegur
 immoveable l. óhreyfanlegur
@@ -2889,7 +2893,7 @@ glassmaker n. glerblásari, glergerðarmaður
 glassmaking n. glerblástur, glergerð, glerframleiðsla
 grail n. (gral)bikar, kaleikur
 fungicide n. sveppadeyðir, sveppaeyðir
-pax n. friður (úr latínu); [~ Romana] Rómarfriður
+pax n. friður (úr latínu); [~ Romana] Rómarfriður; [~ Americana] Bandaríkjafriður
 doormat n. dyramotta
 guacamole n. lárperumauk
 goldsmithing n. gullsmíði
@@ -3482,7 +3486,7 @@ hothead n. æsingamaður, e-r sem er hvatvís, skapmikill, bráðlátur
 sexism n. kynjamismunun, kynjamisrétti, kynjafordómar, karl- eða kvenremba
 sexist n. karlremba, kvenremba, manneskja sem gerir upp á milli kynja; l. kynjafordóma-, karlrembu-, karlrembulegur, kvenrembu-, kvenrembulegur ([~ outlook, opinions])
 drumbeat n. trommusláttur, trommutaktur
-ambassadorship n. sendiherraembætti, sendiherrastarf
+ambassadorship n. sendiherraembætti, sendiherrastarf, sendiherrastaða
 pneumonic l. lungna-
 pneumonitis n. millivefslungnabólga
 Moscow n. Moskva (höfuðborg Rússlands)
@@ -4761,7 +4765,7 @@ crudely ao. á óverkaðan, óunninn eða grófan hátt, gróflega; ruddalega
 actuary n. tryggingafræðingur
 actuarial l. tryggingafræðilegur
 Victorian l. viktoríanskur, Viktoríutímabils-, frá valdatíð Viktoríu Bretlandsdrottningu
-handheld l. lófa, lófatækur
+handheld l. lófa-, lófatækur
 tribalism n. ættbálkahyggja; ættarsamfélag, ættflokkasamfélag
 tribalistic l. ættflokka-, ættbálka-, ættflokkalegur, ættbálkalegur
 intertribal l. á milli ættflokka eða ættbálka ([~ warfare] stríð milli ættflokka)
@@ -4909,7 +4913,7 @@ hitman n. leigumorðingi
 decisively ao. á afgerandi hátt, á einbeittan hátt
 pathologize s. sjúkdómsvæða
 theodicy n. guðfræðileg réttlæting, réttlæting á eiginleikum guðs, guðfræðilegt uppgjör við tilvist illsku
-secularization n. veraldarvæðing; afhelgun; upptaka á eignum klaustra og kirkja; aðskilnaður ríkis og kirkju
+secularization n. veraldarvæðing; afhelgun; aðskilnaður ríkis og kirkju; upptaka á eignum klaustra og kirkja
 barometric l. loftþyngdar-, loftþrýstings-
 Westernization n. vesturlandavæðing
 nitroglycerin n. nítróglyserín
@@ -4922,9 +4926,19 @@ subsidization n. niðurgreiðsla; niðurgreiðslustefna
 gangly l. renglulegur
 asthenic l. þróttlaus; renglulegur
 inegalitarian l. ójafnaðar-, ójafnaðarlegur, ójafnréttis-
-drastically ao. á áhrifamikinn eða róttækan hátt
+drastically ao. á áhrifamikinn, umfangsmikinn eða róttækan hátt ([she altered her life ~])
 midsection n. miðja; mitti, skrokkur, magi
 vaguely ao. ónákvæmlega, á óákveðin eða ónákvæman hátt
 modestly ao. hæversklega, á hæverskan eða siðprúðan hátt, af siðprýði
 triumphantly ao. sigri hrósandi, á sigursælan hátt
 riff-raff n. ruslaralýður, skríll, illþýði, pakk
+per se ao. sem slíkur, út af fyrir sig (úr latínu)
+hashish n. hass
+stoner n. freðhaus, grasreykingamaður, kannabisfíkill (óforml.)
+pothead n. freðhaus, grasreykingamaður, kannabisfíkill (óforml.)
+rigor mortis n. dauðastirðnun (úr latínu)
+copywriter s. (auglýsinga)textahöfundur, textasmiður
+copywriting n. textasmíði (fyrir markaðssetningu, auglýsingar, o.s.frv.)
+unjustly ao. óréttilega, óréttvíslega
+moonshiner n. landabruggari
+relatives n. ft. ættingjar

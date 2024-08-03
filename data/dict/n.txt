@@ -2,7 +2,7 @@ nab s. grípa, hrifsa
 nabob n. landstjóri (á Indlandi); auðkýfingur, ríkisbubbi
 nacre n. perlumóðir
 nacreous l. perlumóður-
-nadir n. ilpunktur (gagnstætt [zenith])
+nadir n. ilpunktur, lágpunktur (gagnstætt [zenith])
 nag n. lítill reiðhestur
 nag s. jagast (við e-n [at])
 naggy l. jögunarsamur
@@ -137,7 +137,7 @@ need n. nauðsyn, þörf ([my ~s are few]); neyð, nauð ([a friend in ~ is a fr
 needful l. nauðsynlegur, ómissandi (e-m [to, for])
 neediness n. þröng, þörf; fátækt
 needless l. ónauðsynlegur, óþarfur
-needy l. þurfandi, nauðstaddur, fátækur
+needy l. þurfandi; bágstaddur, nauðstaddur, fátækur
 needs ao. nauðsynlega; [I must ~ do it] ég kemst ekki hjá að gera það
 needle n. nál, saumnál; segulnál; [I have pins and ~s in my feet] það er náladofi í fótunum á mér; s. sauma saman ([~ up]); smeygja (e-u) í gegn; [~ one's way] þræða sig áfram
 needlecase n. nálhús

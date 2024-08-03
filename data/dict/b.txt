@@ -190,21 +190,21 @@ baritone n. hábassi, barítón, barítónrödd
 basal l. undirstöðu-
 basalt n. stuðlaberg, basalt
 basaltic l. stuðlabergs-, basalt-
-base l. lágur; auðvirðilegur; ódrengilegur; [~ coin] falspeningur; n. grundvöllur, undirstaða; s. grundvalla
+base n. grundvöllur, undirstaða; herstöð ([military ~]); miðstöð ([~ of operations]); s. grundvalla, byggja á, nota sem undirstöðu; l. lágur; auðvirðilegur; ódrengilegur; [~ coin] falspeningur
 baseborn l. af lágum stigum; óskilgetinn
-baseless l. ástæðulaus
-basement n. lægsta gólf í húsi (að nokkru leyti niðri í jörðinni), íbúðarkjallari
+baseless l. ástæðulaus, án grundvallar, án undirstöðu
+basement n. kjallari, íbúðarkjallari, lægsta gólf í húsi (að nokkru leyti niðri í jörðinni)
 baseness n. ódrengskapur, varmennska
 bash s. slá inn
 bashful l. feiminn, einurðarlítill
 bashfully ao. feimnislega
 bashfulness n. feimni, einurðarleysi
 basil n. ilmjurt
-basilica n. réttarsalur; kirkja
-basilisk n. kynjadýr
+basilica n. kirkja; réttarsalur
+basilisk n. kynjadýr, stór eðla úr goðsögnum
 basin n. skál; vatnsdæld
 basis n. grundvöllur, undirstaða; undirstöðuefni (í efnafræði)
-bask s. baða sig í sólskininu
+bask s. baða sig (í sólskininu)
 basket n. karfa; s. láta (kasta) í körfu
 basking-shark n. beinhákarl
 bas-relief n. upphleypt mynd, lágmynd
@@ -1326,14 +1326,14 @@ buttress n. skástoð (við múrvegg); s. styrkja, styðja
 buxom l. fjörugur, glaðlegur; þriflegur
 buy s. kaupa
 buyer n. kaupandi
-buzz s. suða; flögra; n. suð, kliður; kvis
+buzz s. suða; flögra; n. suð, kliður; kvis; æsingur
 buzzing n. suða (í eyrum)
 buzzard n. músafálki
 by fs. & ao. hjá ([have not got it ~ me]); um ([travel to Prague ~ Dresden]); á (~ night, ~ day); framhjá ([go ~ him]); með ([take ~ force]); af ([written ~]); við; [ten feet ~] four 10 fet á lengd og 4 fet á breidd (eða hæð); [~ the pound] í pundatali; [~ the hundred, ~ hundreds] hundruðum saman; [go ~ ones and twos] einn og tveir í einu; [~ tomorrow] ekki síðar en á morgun; [older ~ two years] tveim árum eldri; [~ name] að nafni; [step ~ step] skref fyrir skref; [~ heart] utanbókar; [~ and ~] bráðum; smámsaman: [~ the by] meðal annara orða; eftir á að hyggja; [~ rights] að réttu lagi, með réttu
 byblow n. holukrakki
 by-election n. aukakosning
 by-hours n. ft. tómstundir
-bygone l. umliðinn
+bygone l. liðinn, umliðinn ([~ times])
 bylaw n. samþykkt ([regulations or ~])
 byname n. viðurnefni; auknefni
 bypath n. afgata; hliðarvegur

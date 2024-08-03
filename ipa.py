@@ -798,6 +798,9 @@ SKIP = frozenset(
         "asthenic",
         "inegalitarian",
         "Sumer",
+        "gerontocratic",
+        "homebrewer",
+        "moonshiner",
     )
 )
 
