@@ -482,7 +482,7 @@ mean l. fyrirlitlegur; auðvirðilegur; lítilmótlegur; nískur
 meany ao. fyrirlitlega
 mean l. meðal-; [~ distance] meðalfjarlægð; [~ time] meðaltími; n. meðaltal; meðalhóf, meðalvegur ([keep the golden ~])
 mean s. ætla, hafa í hyggju; ætla sér; meina, eiga við ([whom do you ~?]); þýða; hafa e-ð í huga ([~ mischief, business]); [~ one well, ill] vilja e-m vel, illa; [he was meant for a soldier] ætlaður til að vera hermaður
-meaning n. ætlun, hyggja; merking, þýðing ([the ~ of a word]); tilgangur
+meaning n. merking, þýðing ([the ~ of a word]); ætlun, hyggja; tilgangur
 meaningly ao. af ásettu ráði
 meander s. liggja (ganga, renna) í bugðum; n. bugða ([flow in ~s])
 meandering l. bugðóttur
@@ -925,9 +925,9 @@ misdate s. dagsetja skakkt
 misdeal s. gefa skakkt (í spilum); n. skökk gjöf
 misdeed n. illgerð, illvirki, ódæðisverk ([he repented his ~s])
 misdemean s. [~ oneself] misgera, hegða sér illa
-misdemeanour n. misgerð, yfirsjón, lagabrot
-misdirect s. segja skakkt til; villa; skrifa skakkt utan á
-misdirection n. röng utanáskrift; afvegaleiðsla
+misdemeanour n. misgerð, yfirsjón, minniháttar lagabrot
+misdirect s. misvísa; segja skakkt til; villa; skrifa skakkt utan á
+misdirection n. misvísun; afvegaleiðsla; röng utanáskrift
 misdo s. misgera
 misdoer n. illgerðamaður
 misdoing n. misgerð
@@ -945,10 +945,10 @@ misformed l. vanskapaður
 misfortune n. ógæfa, óhamingja; óhapp
 misgive s. fylla efasemd og kvíða; bregðast; [my heart ~s me] ég býst ekki við neinu góðu
 misgiving n. kvíði, efasemd, grunur
-misgovern s. stjórna illa
+misgovern s. stjórna illa, klúðra stjórn e-s
 misgovernment n. ill stjórn, misstjórn
 misguidance n. afvegaleiðsla
-misguide s. leiða í villu, afvegaleiða
+misguide s. afvegaleiða, leiða í villu
 mishandle s. fara illa með e-n, leika e-n illa, misþyrma
 mishap n. óhapp, slys
 mishear s. misheyra, heyra skakkt

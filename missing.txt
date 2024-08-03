@@ -275,7 +275,6 @@ purposefulness
 inconducive
 intellectually
 intimidating
-misguided
 hypothesize
 developmental
 superstitiously
@@ -771,7 +770,6 @@ redirect
 firestorm
 regroup
 disruptive
-camaraderie
 noncombatant
 crossfire
 odyssey
@@ -3724,6 +3722,7 @@ scathing
 glowing
 colloquially
 mooch
+moocher
 moochy
 disembodied
 caddy (endurskoða)
@@ -3758,7 +3757,6 @@ zonation
 ozonation
 christic
 dispensationalism
-dumbass
 starcher
 puncher
 gasket
@@ -3836,7 +3834,6 @@ canonized
 trip (endurskoða)
 colosseum
 pitch (endurskoða)
-slavocracy
 agent provocateur
 moneybox
 demystify
@@ -3858,7 +3855,6 @@ rushed
 streetsmart
 undead
 calmly
-deserted
 shortbread
 drumroll
 reenforce
@@ -3883,7 +3879,6 @@ duplexity
 semiduplex
 ploy
 zen
-mentorship
 abseil
 fugue (endurskoða) (fugue state?)
 atrium
@@ -3891,7 +3886,6 @@ tempura
 wuss
 diegesis
 hooplehead
-assayer
 nonce (endurskoða)
 polyamorous
 polyamory
@@ -3915,7 +3909,6 @@ cubby
 structured
 assiduously
 strigil
-gruffly
 gryphon
 wiggle
 renege
@@ -3934,8 +3927,6 @@ hurtfulness
 moratory
 cosplay
 restroom
-comradery
-bellboy
 pineal
 epitope
 visualization
@@ -3963,4 +3954,3 @@ simoon
 kamikaze
 kibitz
 blotter
-moonshiner

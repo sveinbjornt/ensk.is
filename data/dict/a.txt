@@ -1472,9 +1472,9 @@ ass n. asni ([make an ~ of oneself]); rass
 assagai n. kastspjót (notað í Suður-Afríku)
 assail s. gera áhlaup á, ráðast á
 assailant n. árásarmaður
-assassin n. launmorðingi, morðingi
+assassin n. morðingi, launmorðingi
 assassinate s. myrða, launmyrða
-assassination n. morð
+assassination n. morð, launmorð
 assault n. árás, áhlaup; s. ráðast á ([~ a fortress])
 assay n. raun, reynsla, prófun (málma); s. reyna (skírleika málms)
 assay master n. málmreynir, málmprófari
