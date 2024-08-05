@@ -364,6 +364,14 @@ async def english_redirect(request: Request):
     return RedirectResponse(url="/english_icelandic_dictionary", status_code=301)
 
 
+@app.get("/apple-touch-icon.png")
+@cache_response
+async def apple_touch_icon_redirect(request: Request):
+    """Redirect to /apple-touch-icon.png"""
+
+    return RedirectResponse(url="/static/img/apple-touch-icon.png", status_code=301)
+
+
 @app.get("/english_icelandic_dictionary")
 @app.head("/english_icelandic_dictionary")
 @cache_response

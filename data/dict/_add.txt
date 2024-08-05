@@ -1,6 +1,6 @@
 aardvark n. jarðsvín (riðvaxið afrískt spendýr með langan rana)
 database n. gagnagrunnur, gagnasafn
-classroom n. kennslustofa, skólastofa; [the pupils remained in the ~]
+classroom n. kennslustofa, skólastofa
 coedit s. meðritstýra, ritstýra ásamt öðrum; [he ~ed the dictionary] hann var meðritstjóri orðabókarinnar
 dune n. sandhóll (sem myndast úr foksandi), sandskafl
 microwave n. örbylgja; örbylgjuofn; s. hita í örbylgjuofni
@@ -1066,7 +1066,7 @@ bunny n. (ung) kanína
 capitol n. höfuðborg; musteri
 dystopia n. dystópía; skelfilegt, hræðilegt ríki; andstæðan af fyrirmyndarríki (sjá %[utopia]%)
 dystopian l. dystópískur (sjá %[dystopia]%)
-xerox s. ljósrita (í N-Ameríku, sjá %[photocopy]%); [~ machine] ljósritunarvél
+xerox s. ljósrita (í N-Ameríku, sjá %[photocopy]%); n. ljósritað afrit; [~ machine] ljósritunarvél
 photocopy s. ljósrita
 photocopier n. ljósritunarvél
 behavioural l. atferlis-, hegðunar-
@@ -4947,7 +4947,7 @@ relatives n. ft. ættingjar
 gruffly ao. hranalega, óþýðlega
 mentorship n. leiðsögn; ráðgjafahlutverk, leiðsegjandahlutverk
 assayer n. matsmaður; efnagreiningarmaður; málmgreiningarmaður
-deserted l. yfirgefinn, mannlaus, liggur í eyði
+deserted l. yfirgefinn, mannlaus, sem liggur í eyði
 dumbass n. fífl, bjáni, asni; l. heimskur (óforml.)
 bellboy n. vikapiltur
 camaraderie n. kumpánaskapur, góður félagsandi, góður kunningsskapur, lagsmennska
@@ -4964,4 +4964,4 @@ untidiness n. sóðaskapur, óþrifleiki, skortur á umhirðu, umhirðuleysi
 countlessly ao. ótal, óteljandi
 countlessness l. óteljanleiki
 uncountableness l. óteljanleiki
-
+uncountability l. óteljanleiki

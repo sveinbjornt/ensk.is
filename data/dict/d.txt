@@ -1614,8 +1614,8 @@ drift ice n. rekís
 drift sand n. roksandur
 driftwood n. rekaviður
 drill s. bora (með rennibor); venja við vopnaburð; kenna ([~ one in something]); sá í raðir; n. rennibor; heræfing; sáningarvél
-drink s. drekka; [~ away one's reason] drekka frá sér vitið; n. drykkur; ölæði
-drinkable l. drekkandi
+drink s. drekka; n. drykkur
+drinkable l. drekkandi, drekkanlegur
 drinkables n. ft. ölföng
 drinker n. drykkjumaður
 drinking bout n. drykkja
