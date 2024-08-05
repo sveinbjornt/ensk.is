@@ -1372,19 +1372,20 @@ tele- fsk. fjar-; sjá t.d. %[telephone]%, %[telescope]%
 bio- fsk. líf-, lífs-; sjá t.d. %[biology]%, %[biography]%
 hydro- fsk. vatns-; sjá td. %[hydrogen]%, %[hydroelectric]%
 geo- fsk. jarð-, heims-, hnatt-; sjá t.d. %[geology]%, %[geopolitics]%
-antisocial l. andfélagslegur
+antisocial l. andfélagslegur ([~ behaviour])
 antibiotic l. gegn sýklum, andsýkla-; n. sýklalyf (yfirleitt í ft. [~s])
 antibiotics n. ft. sjá %[antibiotic]%
 anti-Semitism n. gyðingahatur, fordómar í garð gyðinga
 anti-Semite n. gyðingahatari
 anti-Semitic l. gyðingahatandi, fjandsamlegur gyðingum
 anti-inflammatory l. bólgueyðandi
-anti-aircraft l. gegn flugvélum, loftvarna-; [~ system] loftvarnakerfi; [~ gun] loftvarnabyssa
+anti-aircraft l. gegn flugvélum eða loftförum, loftvarna-; [~ system] loftvarnakerfi; [~ gun] loftvarnabyssa
 anticlockwise l. & ao. rangsælis
 counterclockwise l. & ao. rangsælis
 clockwise l. & ao. réttsælis
-IRC n. stytt. á [Internet Relay Chat]; spjallkerfi á internetinu
+IRC n. stytt. á [Internet Relay Chat] (spjallkerfi á internetinu)
 intravenous l. innan æða, innanæða-, í æð
+intravenously ao. í æð
 suboptimal l. ekki eins góður og kostur er á (sjá %[optimal]%)
 microorganism n. örvera
 prementioned l. áðurnefndur, fyrrnefndur
@@ -4951,3 +4952,16 @@ dumbass n. fífl, bjáni, asni; l. heimskur (óforml.)
 bellboy n. vikapiltur
 camaraderie n. kumpánaskapur, góður félagsandi, góður kunningsskapur, lagsmennska
 misguided l. afvegaleiddur, illa úthugsaður
+phlebotomist n. blóðtökumaður
+venipuncture n. bláæðarástunga
+air defence n. loftvarnir
+chemotherapy n. efnameðferð, lyfjameðferð
+angiogenesis n. æðamyndun
+angiogenic l. æðamyndandi
+nerve-wracking l. stressandi, kvíðavaldandi, taugaveiklandi
+nerve-racking l. sjá %[nerve-wracking]%
+untidiness n. sóðaskapur, óþrifleiki, skortur á umhirðu, umhirðuleysi
+countlessly ao. ótal, óteljandi
+countlessness l. óteljanleiki
+uncountableness l. óteljanleiki
+

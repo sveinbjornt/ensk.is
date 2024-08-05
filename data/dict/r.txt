@@ -320,14 +320,14 @@ receptor n. heyrnartól á talsíma
 recess n. burthvarf; starfshlé; þinghlé; skot (inn í vegg); afvik; afvikinn staður; afkimi; [Christmas ~ of a school] jólaleyfi; s. setja á afvikinn stað; gera hvilft í
 recession n. fráhvarf, burtför, fjarlæging, hvarf; kreppa; samdráttur, afturdráttur (sjá %[recede]%)
 recessional l. [~ hymn] útgöngusálmur
-recharge s. kæra aftur; ráðast á aftur; hlaða (fylla) aftur
+recharge s. hlaða (fylla) aftur, endurhlaða, endurfylla; kæra aftur, endurákæra; ráðast á aftur
 recipe n. uppskrift; læknisávísun, lyfseðill
 recipient l. móttakandi; n. viðtökumaður, viðtakandi
-reciprocal l. gagnskiptilegur, gagnkvæmur, jafn á báðar hliðar ([~ love])
+reciprocal l. gagnkvæmur, gagnskiptilegur, jafn á báðar hliðar ([~ love])
 reciprocally ao. aftur á móti; að sínu leyti; hins vegar; á víxl
 reciprocate s. skiptast á; svara ([~ a sentiment]); hreyfa (hreyfast) fram og aftur; veita (gefa) hvor öðrum
 reciprocation n. hreyfing fram og aftur; skipti á gjöfum ([~ of presents]); svar, samsvörun
-reciprocity n. gagnskiptileiki
+reciprocity n. gagnkvæmni, gagnskiptileiki
 recital n. upplestur; frásaga; skýrsla; hljóðfæraleikur einstaks manns
 recitation n. upplestur
 recite s. lesa upp; segja frá; flytja (ræðu)
@@ -365,15 +365,15 @@ reconcilable l. sáttfús; samþýðilegur
 reconcile s. sætta; koma (e-u) í samræmi (við [with]); [~ oneself to] sætta sig við, láta sér lynda
 reconcilement n. sátt, sætt; samræmi; samrýming
 reconciliation n. sátt, sætt; samræmi; samrýming
-reconciliatory l. sem lýtur að sætt og samlyndi, sættandi
+reconciliatory l. sættandi, sátta-, sem lýtur að sátt og samlyndi
 recondite l. hulinn, leyndur ([~ causes]); djúpur, þungskilinn ([~ studies])
 reconnaissance n. hernaðarleg landsskoðun, landskönnun; njósnarferð
 reconnoitre s. skoða, kanna land (í hernaði); [~ the movements of the enemy] njósna um andstæðinginn; [~ the state of the weather] gá til veðurs
 reconquer s. vinna aftur, leggja aftur undir sig
 reconquest n. endurvinning
-reconsider s. íhuga (skoða) aftur
-reconsideration n. endurnýjuð skoðun
-reconstruct s. reisa (byggja) upp aftur; mynda að nýju
+reconsider s. endurskoða, enduríhuga, íhuga (skoða) aftur
+reconsideration n. endurnýjuð skoðun, enduríhugun
+reconstruct s. endurbyggja, reisa (byggja) upp aftur; mynda að nýju
 reconvene s. safna saman aftur; safnast (koma) saman aftur
 reconvert s. snúa e-m aftur til fyrri skoðana
 record s. bóka; skrásetja, færa í letur; segja frá; n. skrá; skjal; skýrsla; vitnisburður; hámark í e-i íþrótt, mesta afrek, met (í kappleik); [~s] skjalasafn; [the greatest general on ~] mesti hershöfðingi, sem sögur fara af; [beat/break the ~] skara fram úr (því, sem áður hefur verið gert); [that is not on ~] þess er ekki getið í sögunni; [worthy of ~] frásöguverður; [keeper of the ~s] skjalavörður

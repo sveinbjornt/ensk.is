@@ -802,6 +802,9 @@ SKIP = frozenset(
         "homebrewer",
         "moonshiner",
         "dumbass",
+        "angiogenic",
+        "venipuncture",
+        "countlessness",
     )
 )
 

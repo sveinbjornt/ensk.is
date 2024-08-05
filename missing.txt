@@ -73,7 +73,6 @@ integration
 manufacturing
 goth
 noncommissioned
-levee (endurskoða núverandi skilgr.)
 succinctorium
 twat
 hijinx
@@ -809,7 +808,6 @@ skyline
 lentonite
 dovecote
 waterway
-untidiness
 dreamless
 marguerite
 periodization
@@ -3954,3 +3952,10 @@ simoon
 kamikaze
 kibitz
 blotter
+flèche
+fleche n. sjá %[flèche]%
+tout court
+faux pas
+faux
+frag
+flypast

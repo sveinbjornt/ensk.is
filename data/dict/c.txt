@@ -100,7 +100,7 @@ campaigner n. gamall hermaður
 campbed n. ferðarúm, beddi
 camphor n. kamfóra; [~ oil] kamfóruolía; [~ essence] kamfórudropar
 camphorated l. kamfóru- ([~ oil])
-can n. kanna; dós; s. geta; aðeins haft í nútíð og þátíð ([I can, I could], ég get, ég gæti)
+can n. kanna; dós; reka starfsmann ([he got ~ned]); s. geta; aðeins haft í nútíð og þátíð ([I can, I could], ég get, ég gæti)
 could s. gæti (sjá %[can]%)
 canal n. síki, skurður, kanall
 canalize s. grafa skurð eða síki í gegnum
@@ -115,7 +115,7 @@ cancroid l. sem líkist krabbameini, krabba-
 candelabrum n. ljósastika, ljósahjálmur
 candescent l. hvítglóandi
 candid l. hreinskilinn; einlægur
-candidly ao. hreinskilnislega
+candidly ao. hreinskilnislega, í fullri hreinskilni
 candidness n. hreinskilni, einlægni
 candidate n. umsækjandi (um embætti); þingmannsefni, frambjóðandi ([~ for election])
 candidature n. þingmennskuframboð
@@ -2299,7 +2299,7 @@ countervail s. vega upp á móti; bæta upp ([~ damage, trouble])
 counterwind n. andviðri
 countess n. greifafrú
 countinghouse n. skrifstofa (í verslunarhúsi)
-countless l. óteljandi, óteljanlegur, ótölulegur
+countless l. óteljandi, óteljanlegur, ótölulegur; ao. ótal
 country n. land; hérað; sveit (gagnstætt borgunum); ættland; [in the ~] uppi í sveit; [into the ~] upp í sveit; [~ cousin] frændi (frænka) ofan úr sveit; [~ party] bændaflokkur
 countrified l. sveitalegur ([~ manners])
 country house n. landsetur
