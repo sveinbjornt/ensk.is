@@ -805,6 +805,16 @@ SKIP = frozenset(
         "angiogenic",
         "venipuncture",
         "countlessness",
+        "ejective",
+        "mayhaps",
+        "uncountability",
+        "uncountableness",
+        "sigil",
+        "Thrace",
+        "Thracian",
+        "macroclimate",
+        "pediatrist",
+        "Gaulish",
     )
 )
 

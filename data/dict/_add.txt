@@ -168,6 +168,7 @@ methodology n. aðferðafræði; [his ~ was flawed] hann beitti gölluðum aðfe
 movie n. kvikmynd, bíómynd (óforml.); [I'm going to the ~s] ég er farinn í bíó
 necessarily ao. nauðsynlega
 pediatrician n. barnalæknir
+pediatrist n. barnalæknir
 pediatric l. barnalæknisfræðilegur, barnalækninga-
 printable l. prentanlegur
 reload s. endurhlaða
@@ -2615,7 +2616,7 @@ unstoppable l. óstöðvanlegur
 sunbeaten l. sólbakaður, sólbarinn
 weaponry n. vopnabúnaður
 dementia n. heilabilun, vitglöp, elliglöp, vitsmunaskerðing
-governorship n. landstjóraembætti
+governorship n. landstjóraembætti, ríkisstjóraembætti
 artilleryman n. stórskotaliði
 repatriate s. senda aftur til heimalands
 repatriation n. sending aftur til heimalands
@@ -3435,6 +3436,7 @@ quintile n. fimmtungur
 upload s. hala upp, hlaða upp; n. upphal
 uploadable l. upphalanlegur
 dockworker n. hafnarverkamaður
+docker n. hafnarverkamaður
 flowerbed n. blómabeð
 spaceship n. geimskip, geimfar
 barf s. æla, gubba; n. æla, gubb
@@ -4967,3 +4969,21 @@ uncountableness l. óteljanleiki
 uncountability l. óteljanleiki
 trap house n. eiturlyfjagreni
 mayhaps ao. kannski, ef til vill, máske
+ejective n. þrýstihljóð; l. útkasts-, útkastandi
+chiropractor n. hnykkjari, hnykklæknir, kírópraktor
+pimply l. bólugrafinn
+coleslaw n. hrásalat
+sigil n. innsigli
+Thrace n. Þrakía (landsvæði í Grikklandi til forna)
+Thracian l. þrakverskur; n. Þrakverji
+Barbary Coast n. Barbaríið (strandhéruð Norður-Afríku)
+Dadaism n. dadaismi (listastefna)
+Gaulish l. gallverskur, frá Gallíu
+Stockholm n. Stokkhólmur (borg í Svíþjóð)
+Oslo n. Osló (borg í Noregi)
+curcuma n. gullinrót, kúrkúma, túrmerik
+charcuterie n. kjötbúð; unnar kjötvörur
+polder n. sæland (láglendi neðan sjávarmáls)
+cathode n. bakskaut, katóða
+macroclimate n. veðurfar á stóru svæði
+gubernatorial l. landstjóra-, landstjóralegur, ríkisstjóra-, ríkisstjóralegur (sjá %[governor]%)
