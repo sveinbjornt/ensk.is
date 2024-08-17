@@ -815,6 +815,9 @@ SKIP = frozenset(
         "macroclimate",
         "pediatrist",
         "Gaulish",
+        "physiocratic",
+        "physiocratism",
+        "drugged-out",
     )
 )
 

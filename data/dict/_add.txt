@@ -1946,7 +1946,7 @@ middleman n. milligönguaðili, milligöngumaður, milliliður
 sibling n. systkin
 reinvent s. enduruppgötva
 weather-beaten l. veðurbarinn
-anthropogenic l. af mannavöldum, manngerður
+anthropogenic l. manngerður, mannmótaður, af manna völdum
 fertilizer n. áburður
 ecosystem n. vistkerfi
 spaceflight n. geimflug
@@ -3285,6 +3285,8 @@ dehydration n. vökvatap, vökvaskortur, ofþornun, afvötnun
 cashew n. kasjúhneta
 smelter n. málmbræðsla, málmbræðsluofn
 physiocrat n. búauðgismaður (fylgismaður ákv. hagfræðikenningar á 18. öld)
+physiocratic l. búauðgis- (sjá %[physiocratism]%)
+physiocratism n. búauðgisstefna (hagfræðikenning frá 18. öld)
 binational l. tvíþjóðlegur
 metabolic l. efnaskipta-
 pollination n. frævun
@@ -4987,3 +4989,12 @@ polder n. sæland (láglendi neðan sjávarmáls)
 cathode n. bakskaut, katóða
 macroclimate n. veðurfar á stóru svæði
 gubernatorial l. landstjóra-, landstjóralegur, ríkisstjóra-, ríkisstjóralegur (sjá %[governor]%)
+cheapskate n. nirfill, nískupúki, svíðingur
+tightwad n. nirfill, nískupúki, svíðingur
+lackluster l. sjá %[lacklustre]%
+vigor n. sjá %[vigour]%
+impressive l. tilkomumikill, impónerandi
+spacial l. sjá %[spatial]%
+drugged-out l. útúrdópaður, undir áhrifum (sterkra) lyfja
+druggie n. dópisti, lyfjafíkill
+corvid n. hröfnungur, fugl af sporfuglaætt; l. hröfnunga-
