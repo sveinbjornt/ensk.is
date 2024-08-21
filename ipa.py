@@ -818,6 +818,8 @@ SKIP = frozenset(
         "physiocratic",
         "physiocratism",
         "drugged-out",
+        "corvid",
+        "myelopathy",
     )
 )
 

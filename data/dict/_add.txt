@@ -4989,8 +4989,8 @@ polder n. sæland (láglendi neðan sjávarmáls)
 cathode n. bakskaut, katóða
 macroclimate n. veðurfar á stóru svæði
 gubernatorial l. landstjóra-, landstjóralegur, ríkisstjóra-, ríkisstjóralegur (sjá %[governor]%)
-cheapskate n. nirfill, nískupúki, svíðingur
 tightwad n. nirfill, nískupúki, svíðingur
+cheapskate n. nirfill, nískupúki, svíðingur
 lackluster l. sjá %[lacklustre]%
 vigor n. sjá %[vigour]%
 impressive l. tilkomumikill, impónerandi
@@ -4998,3 +4998,9 @@ spacial l. sjá %[spatial]%
 drugged-out l. útúrdópaður, undir áhrifum (sterkra) lyfja
 druggie n. dópisti, lyfjafíkill
 corvid n. hröfnungur, fugl af sporfuglaætt; l. hröfnunga-
+mayo n. stytt. á %[mayonnaise]%
+myelopathy n. mænukvilli, beinmergskvilli
+gardenia n. geislamaðra
+spatiotemporal l. tímarúms-, rúmtíma-
+vibraphone n. víbrafónn (hljóðfæri)
+bandstand n. hljómskáli
