@@ -2761,7 +2761,6 @@ phylogenetic
 neighbourliness
 unachievable
 singleton
-ultrasound
 non-consensual
 democide
 panopticism
@@ -3012,6 +3011,7 @@ salivary
 prolactin
 enforceability
 genomic
+essentialism
 essentialist
 cypionate
 covariation
@@ -3690,7 +3690,6 @@ parking
 generated
 bailey
 injured
-cleanup
 positioning
 classified
 camping
@@ -4009,3 +4008,7 @@ fisheries
 sparky
 gulch
 flop (endurskoða)
+satisfying
+unsatisfying
+dissatisfying
+frosting

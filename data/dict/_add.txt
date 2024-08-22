@@ -1355,7 +1355,7 @@ ophthalmologist n. augnlæknir, augnsérfræðingur
 ophthalmology n. augnlækningar
 political correctness n. pólitískur rétttrúnaður
 rediscover n. enduruppgötva (sjá %[discover]%)
-xeno- fsk. ókunnugur, utanaðkomandi, erlendur, útlendur; sjá t.d. %[xenophobe]%
+xeno- fsk. ókunnugur, utanaðkomandi, erlendur, útlendur (sjá t.d. %[xenophobe]%, %[xenomorph]%)
 re- fsk. endur-; sjá t.d. %[revolution]%, %[reload]%, %[rediscover]%
 auto- fsk. sjálf-, sjálfs-; sjá t.d. %[automobile]%, %[autobiography]%, %[autonomy]%
 pre- fsk. for-, áður-, á undan, fyrir, fyrr; of snemma; sjá t.d. %[prementioned]%, %[predict]%, %[premature]%
@@ -4980,7 +4980,7 @@ Thrace n. Þrakía (landsvæði í Grikklandi til forna)
 Thracian l. þrakverskur; n. Þrakverji
 Barbary Coast n. Barbaríið (strandhéruð Norður-Afríku)
 Dadaism n. dadaismi (listastefna)
-Gaulish l. gallverskur, frá Gallíu
+Gaulish l. gallverskur, gallískur, frá Gallíu
 Stockholm n. Stokkhólmur (borg í Svíþjóð)
 Oslo n. Osló (borg í Noregi)
 curcuma n. gullinrót, kúrkúma, túrmerik
@@ -5003,4 +5003,7 @@ myelopathy n. mænukvilli, beinmergskvilli
 gardenia n. geislamaðra
 spatiotemporal l. tímarúms-, rúmtíma-
 vibraphone n. víbrafónn (hljóðfæri)
-bandstand n. hljómskáli
+bandstand n. hljómskáli, hljómsveitarpallur
+neurogenesis n. taugamyndun
+ultrasound n. úthljóð, yfirhljóð
+cleanup n. hreinsun, tiltekt
