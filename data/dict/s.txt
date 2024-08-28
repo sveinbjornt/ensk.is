@@ -662,10 +662,10 @@ sentence n. dómur; spakmæli; málsgrein, setning; [give (pronounce, pass) ~] k
 sentential l. sem lýtur að málsgrein
 sententious l. auðugur af spakmælum; kjarnyrtur
 sentient l. skynjandi; [~ apparatus] skynjunarfæri
-sentiment n. tilfinning; skoðun; hugsun; hugarfar; viðkvæmni; spakmæli
-sentimental l. tilfinninganæmur, (of) viðkvæmur
-sentimentalism n. (of) mikil viðkvæmni
-sentimentality n. (of) mikil viðkvæmni
+sentiment n. tilfinning; skoðun; hugsun; hugarfar; viðkvæmni, tilfinningasemi; spakmæli
+sentimental l. tilfinninganæmur, (of) viðkvæmur, (óhóflega) tilfinningasamur
+sentimentalism n. (of) mikil viðkvæmni, (óhófleg) tilfinningasemi
+sentimentality n. (of) mikil viðkvæmni, (óhófleg) tilfinningasemi
 sentimentalist n. (of) viðkvæmur maður, tilfinningamaður
 sentinel n. varðmaður; s. halda vörð yfir; setja vörð yfir
 sentry n. vörður, varðmaður
@@ -676,7 +676,7 @@ separation n. sundurgreining; (hjóna)skilnaður ([~ from bed and board] að bor
 separatist n. aðskilnaðarsinni; sértrúarmaður
 sepia n. blekfiskur
 sepoy n. indverskur hermaður (í þjónustu Englendinga)
-September n. septembermánuður
+September n. september (mánuður)
 septennial l. sem gerist sjöunda hvert ár; sem stendur um sjö ár
 septentrion n. norður(átt)
 septuagenarian n. sjötugur maður

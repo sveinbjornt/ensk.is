@@ -52,7 +52,6 @@ skating
 integrated
 automotive
 operational
-underlying
 packing
 zoning
 boutique
@@ -298,7 +297,6 @@ presupposition (endurskoða)
 free trader
 self-identity
 refashion
-betterment
 meliorist
 independently
 self-contradiction
@@ -1192,6 +1190,7 @@ self-justification
 extrasensory
 egomaniac
 instantiate
+instantiated
 instantiation
 imperfectibility
 dramatis persona
@@ -1456,6 +1455,8 @@ wildlife
 particulate
 revamp
 resilience
+gentrify
+gentrified
 gentrification
 swanky
 doorman
@@ -2459,7 +2460,6 @@ pusher
 speed-up
 fryer
 ska
-consciously
 litigator
 litigatious
 spate
@@ -2635,7 +2635,6 @@ ithyphallic
 dither
 astroturf
 astroturfing
-jalopy
 dungaree
 anorak
 stylize
@@ -3996,7 +3995,6 @@ renumeration
 displaced
 recurring
 thumbtack
-direwolf
 exasperating
 hauler
 yucky
@@ -4012,3 +4010,28 @@ satisfying
 unsatisfying
 dissatisfying
 frosting
+esotericism
+adiabatic
+diabatic
+mojo
+incel
+waxing
+waning
+pipsqueak
+Saturnalia
+passively
+monohydrate
+soppiness
+cerebellum
+crispness
+ampulate
+oxidative
+retardant
+stinky
+unisex
+morph
+shapeshifter
+bolllock(s)
+unsolicited
+alternating
+wildcard

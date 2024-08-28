@@ -4587,7 +4587,8 @@ unipole n. einpóll, einskaut
 unipolar l. einkauta, einpóla
 unipolarity n. einskautun, einpólun
 unconsciousness n. meðvitundarleysi
-unconsciously ao. ómeðvitað, á meðvitundarlausan eða ómeðvitaðan hátt
+unconsciously ao. ómeðvitað, á meðvitundarlausan eða ómeðvitaðan hátt, ekki að yfirlögðu ráði
+consciously ao. vísvitandi, að yfirlögðu ráði, viljandi; meðvitað, á meðvitaðan hátt, með meðvitund
 eggcup n. eggjabikar
 kitty n. kisa, kisi, köttur
 supersession n. yfirtaka (sjá %[supersede]%)
@@ -5005,5 +5006,13 @@ spatiotemporal l. tímarúms-, rúmtíma-
 vibraphone n. víbrafónn (hljóðfæri)
 bandstand n. hljómskáli, hljómsveitarpallur
 neurogenesis n. taugamyndun
-ultrasound n. úthljóð, yfirhljóð
+ultrasound n. úthljóð, yfirhljóð; ómspeglun; ómgreining, úthljóðsgreining ([~ diagnosis])
 cleanup n. hreinsun, tiltekt
+lookup n. uppfletting; sjá %[look]% og %[up]%
+jalopy n. bíldrusla
+direwolf n. stór úlfur, skelfilegur úlfur
+supercede s. sjá %[supersede]%
+oblast n. fylki, hérað, umdæmi (í Rússlandi og öðrum löndum)
+underlying l. undirliggjandi, undirrótar-, grundvallar-
+betterment n. betrun, umbót
+Septuagint n. Sjötíumannaþýðingin (grísk þýðing hebresku biblíunnar)

@@ -820,6 +820,12 @@ SKIP = frozenset(
         "drugged-out",
         "corvid",
         "myelopathy",
+        "direwolf",
+        "lookup",
+        "hermeneutical",
+        "oblast",
+        "supercede",
+        "Septuagint",
     )
 )
 
