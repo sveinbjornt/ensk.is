@@ -1706,7 +1706,7 @@ otoscopy n. eyrnaspeglun
 undermentioned l. neðangreindur, eftirtalinn
 unilateral l. einhliða, einhliðaður
 unilaterally ao. einhliða
-dermatologist n. húðsjúkdómafræðingur, húðsjúkdómalæknir; húðfræðingur
+dermatologist n. húðsjúkdómafræðingur, húðsjúkdómalæknir, húðfræðingur
 taxidermy n. uppstoppun
 taxidermist n. uppstoppari
 taxidermic l. uppstoppunar-, uppstoppunarlegur
@@ -5016,3 +5016,18 @@ oblast n. fylki, hérað, umdæmi (í Rússlandi og öðrum löndum)
 underlying l. undirliggjandi, undirrótar-, grundvallar-
 betterment n. betrun, umbót
 Septuagint n. Sjötíumannaþýðingin (grísk þýðing hebresku biblíunnar)
+cannon fodder n. fallbyssufóður
+shapeshifter n. hamskiptingur
+stinky l. illa lyktandi, illa þefjandi
+fulfill s. sjá %[fulfil]%
+semantic l. merkingarlegur, merkingarfræðilegur
+semantics n. ft. merkingarfræði
+semantically ao. merkingarlega, merkingarfræðilega
+semanticist n. merkingarfræðingur
+peristalsis n. iðrahreyfing, maga- og garnahreyfingar
+entrenched l. víggirtur; rótgróinn
+monohydrate n. einhýdrat
+humerus n. upphandleggsbein, upparmsleggur, upphandleggur
+ulna n. öln, olnbogabein
+ulnar l. olnboga-, alnar-
+tattletale n. klagari, kjaftakind

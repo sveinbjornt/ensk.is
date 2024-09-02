@@ -826,6 +826,8 @@ SKIP = frozenset(
         "oblast",
         "supercede",
         "Septuagint",
+        "shapeshifter",
+        "monohydrate",
     )
 )
 
