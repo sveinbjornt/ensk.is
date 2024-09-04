@@ -828,6 +828,8 @@ SKIP = frozenset(
         "Septuagint",
         "shapeshifter",
         "monohydrate",
+        "nepo",
+        "webster",
     )
 )
 

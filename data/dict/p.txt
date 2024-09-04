@@ -1642,7 +1642,7 @@ practically ao. verklega
 practice n. vani; föst venja; æfing ([~ makes perfect]); leikur; notkun; framkvæmd; ([in ~]); reynsla; reynd; læknisstarfsemi ([he has a large ~]); lögfræðisstarfsemi; bragð; aðferð; [out of ~] orðinn óvanur
 practician n. framkvæmdarmaður, starfsmaður
 practise s. iðka; stunda; framkvæma; beita, viðhafa; temja sér; fremja; beita brögðum; æfa sig ([~ on piano]); gegna störfum; [~ as a lawyer] gegna málflutningsstörfum; [~ physic] fást við lækningar; [~ on his credulity] nota sér trúgirni hans
-practitioner n. starfsmaður; læknir ([~ of medicine]); málaflutningsmaður ([~ of law])
+practitioner n. starfsmaður, iðkandi; læknir ([~ of medicine]); málaflutningsmaður ([~ of law])
 pragmatic l. afskiptasamur um hag og gjörðir annara; þrár, þrályndur; óundanlátsamur; hagsýnn; athafnasamur; framkvæmdar- ([~ people]); raunsær; verkhyggju- (í heimspeki); [~ history] saga, er sýnir orsakir og afleiðingar viðburðanna
 pragmatical l. sjá %[pragmatic]%
 prairie n. stór grasslétta (í Norður-Ameríku)
@@ -1703,7 +1703,7 @@ precipitancy n. óðagot, flaustursemi; flan, framhleypni
 precipitant l. flaustursamur; hvatvís
 precipitate s. steypa (á höfuðið), hrinda; flýta fyrir; láta setjast á botninn; steypast, hrapa; setjast á botninn; l. óðfluga; (of) fljótur á sér; flumósa; hvatvís(legur); snöggur; bráður
 precipitation n. fall, hrap; framhleypni, hvatvísi; úrkoma
-precipitous l. snarbrattur; hvatvís, framhleypinn
+precipitous l. snarbrattur, þverhníptur; hvatvís, framhleypinn
 precise l. nákvæmur
 precisely ao. nákvæmlega
 preciseness n. nákvæmni
