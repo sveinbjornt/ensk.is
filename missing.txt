@@ -19,7 +19,6 @@ locator
 affiliation
 collaborative
 elected
-Latino
 preterperfect
 corps
 cat o' nine tails
@@ -1053,6 +1052,7 @@ leftover
 brainpower
 blockbuster
 superimpose
+superimposition
 matronly
 payslip
 addendum
@@ -3270,7 +3270,6 @@ boosterism
 neonatal
 ranking
 part-time
-brinkmanship
 gridlock
 flamboyance
 bimodal
@@ -3883,8 +3882,6 @@ polyamory
 miniscule
 minuscule
 bannister
-impressed
-unimpressed
 spearmint
 probing
 sagging
@@ -4056,6 +4053,29 @@ quib
 invitee
 overhype
 tactile
-heterozygosity
 invasiveness
 sacrum
+sextile
+sideral
+armillary
+comorbid
+comorbidity
+wetback
+insulator
+overbite
+gauche
+faze
+unfazed
+cultured
+escalope
+celluloid
+phase (endurskoða)
+psionic
+psi
+spectra
+homologic
+homological
+homologically
+hyperrealistic
+undervaluation
+overvaluation

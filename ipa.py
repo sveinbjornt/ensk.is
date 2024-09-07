@@ -830,6 +830,9 @@ SKIP = frozenset(
         "monohydrate",
         "nepo",
         "webster",
+        "thermoregulator",
+        "mononymous",
+        "mononymously",
     )
 )
 

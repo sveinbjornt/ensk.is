@@ -1204,10 +1204,10 @@ theogony n. goðakyn, tilurð goðanna
 sociopath n. siðblindingi, siðblind manneskja
 sociopathic l. siðblindur
 sociopathy n. siðblinda
-psychopath n. brjálæðingur, snarbrjálaður (og siðblindur) geðsjúklingur
+psychopath n. brjálæðingur, snarbrjálaður (siðblindur) geðsjúklingur
 psychopathic l. (snar)brjálaður
 psychopathy n. sturlun, brjálæði, siðblinda
-kleptomaniac n. stelsjúk manneskja
+kleptomaniac n. stelsjúk manneskja, stelsjúklingur (sjá %[kleptomania]%)
 crap n. skítur, kúkur; drasl; rugl, kjaftæði; l. lélegur, ömurlegur; s. skíta, kúka; uh. andskotans!
 longsword n. langsverð
 spadroon n. létt sverð
@@ -3143,7 +3143,7 @@ schoolteacher n. skólakennari
 symmetric s. samhverfur, samsvarandi
 unintelligible l. óskiljanlegur
 microfilm n. örfilma, míkrófilma
-resourcefulness n. útsjónarsemi
+resourcefulness n. úrræðasemi; útsjónarsemi
 accelerant n. hraðall (e-ð sem hraðar framvindu eða breytingu)
 delusional l. haldinn hugvillu eða ranghugmyndum
 inflationary l. verðbólguhvetjandi, verðbólgumyndandi, verðbólguvaldandi; verðbólgu-
@@ -5047,7 +5047,7 @@ entropy n. óreiða
 nepo n. stytt. á %[nepotism]% (óforml.)
 webster n. vefari
 faux l. falskur, óekta (úr frönsku)
-speakeasy n. ölstofa eða knæpa (á bannárunum í BNA)
+speakeasy n. ölstofa eða knæpa (á bannárunum í Bandaríkjunum)
 escrow n. varsla; vörslureikningur, geymslureikningur
 metacognition n. hugvitund (þekking á eigin hugsun eða vitund)
 metacognitive l. hugvitunar- (sjá %[metacognition]%)
@@ -5058,5 +5058,23 @@ beret n. alpahúfa
 gopher n. e.k. jarðíkorni
 electromagnetic l. rafsegul-; rafsegulfræðilegur
 electromagnetism n. rafsegulmagn; rafsegulfræði
-biased l. hlutdrægur, vilhallur
+biased l. hlutdrægur, óhlutlaus, ekki hlutlaus; vilhallur eða óvilhallur ([~ in favour of, against])
 chowder n. e.k. þykk súpa
+vasectomy n. sáðrásarúrnám
+castrated l. geldur, geltur, vanaður
+uncastrated l. ógeldur, ógeltur, óvanaður
+endoscopy n. holsjárskoðun, holspeglun
+impressed l. hrifinn, impóneraður
+unimpressed l. ekki hrifinn, ekki impóneraður
+stimuli n. ft. sjá %[stimulus]%
+thermostat n. hitastillir, hitastýring
+thermoregulator n. hitastillir
+lymphedema n. vessabjúgur
+heterozygosity n. arfblendni
+cellophane n. sellófan
+brinkmanship n. að tefla á tæpasta vað, hættuspil
+mononymous l. með eitt nafn
+mononymously ao. undir einu nafni, með einu nafni
+dendrite n. gripla, taugafrumugripla
+extrauterine l. utanlegs-
+Latino l. rómansk-amerískur; n. manneskja frá Rómönsku Ameríku

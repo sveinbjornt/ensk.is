@@ -837,7 +837,7 @@ pharmaceutist n. lyfjafræðingur
 pharmacist n. lyfjafræðingur
 pharmacology n. lyfjafræði
 pharmacopaeia n. lyfjaskrá (með lýsingu á tilbúningi og notkun lyfjanna)
-pharmacy n. lyfjabúð; lyfjatilbúningur
+pharmacy n. lyfjabúð, apótek; lyfjatilbúningur
 pharos n. viti
 pharynx n. kok
 phase n. útlitsbreyting; kvartil (tunglsins)
@@ -849,8 +849,8 @@ phial n. lítil flaska; (meðala)glas; s. geyma í glasi
 philander s. láta dátt, daðra (við [with])
 philandering n. daður
 philanthropic l. mannúðlegur, mannvinarlegur, velviljaður mannkyninu
-philanthropist n. mannvinur
-philanthropy n. mannkærleiki, mannúð
+philanthropist n. mannvinur, velgerðarmaður, velgjörðamaður
+philanthropy n. mannkærleiki, mannúð; velgerðarmál
 philatelist n. frímerkjasafnari
 philately n. frímerkjasöfnun
 philharmonic l. söngelskandi
