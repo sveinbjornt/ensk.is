@@ -1561,7 +1561,7 @@ telecom n. sjá %[telecommunication]%
 nominated l. tilnefndur (sjá %[nominate]%)
 bookseller n. bóksali
 Siam n. Síam (Taíland)
-Siamese l. síamskur (tælenskur); [~ cat] síamsköttur; [~ twins] síamstvíburar
+Siamese l. síamskur (taílenskur); [~ cat] síamsköttur; [~ twins] síamstvíburar
 frat n. sjá %[fraternity]%; [~ boy] háskólaklíkustrákur
 hacker n. (tölvu)hakkari, tölvurefur, tölvugarpur; tölvuþrjótur
 contact lens n. augnlinsa, snertilinsa
@@ -5031,7 +5031,7 @@ humerus n. upphandleggsbein, upparmsleggur, upphandleggur
 ulna n. öln, olnbogabein
 ulnar l. olnboga-, alnar-
 tattletale n. klagari, kjaftakind
-unisex l. fyrir bæði kynin ([~ bathroom, ~ design])
+unisex l. fyrir bæði kynin ([~ bathroom, ~ clothing])
 soppiness n. væmni
 pipsqueak n. örverpi
 briskly ao. fjöruglega, snarplega
@@ -5047,7 +5047,7 @@ entropy n. óreiða
 nepo n. stytt. á %[nepotism]% (óforml.)
 webster n. vefari
 faux l. falskur, óekta (úr frönsku)
-speakeasy n. ölstofa eða knæpa (á bannárunum í Bandaríkjunum)
+speakeasy n. ölstofa, knæpa (á bannárunum í Bandaríkjunum)
 escrow n. varsla; vörslureikningur, geymslureikningur
 metacognition n. hugvitund (þekking á eigin hugsun eða vitund)
 metacognitive l. hugvitunar- (sjá %[metacognition]%)
@@ -5078,3 +5078,21 @@ mononymously ao. undir einu nafni, með einu nafni
 dendrite n. gripla, taugafrumugripla
 extrauterine l. utanlegs-
 Latino l. rómansk-amerískur; n. manneskja frá Rómönsku Ameríku
+undervaluation n. vanmat; of lág verðlegging
+overvaluation n. ofmat; of há verðlegging
+frictionless l. núningslaus; þægilegur
+overwrite s. skrifa yfir, yfirskrifa
+penchant n. hneigð, tilhneiging
+candelabra n. ft. sjá %[candelabrum]%
+hoodlum n. bófi, óþokki
+abnormality n. afbrigðileiki, afbrigðilegheit
+sandstorm n. sandstormur, sandbylur
+toadlike l. froskalegur, líkur froski
+anti-capitalist l. andkapítalískur; n. andkapítalisti
+tenseness n. spenna (sjá %[tense]%)
+pee n. piss, þvag, hland; s. pissa, míga, kasta af sér vatni
+affine l. vildar-; [~ function] vildarfall
+user n. notandi
+mudslide n. aurskriða, aurflóð
+Ceylon n. gamalt heiti yfir eyjuna Sri Lanka
+rehire s. endurráða, ráða aftur til vinnu

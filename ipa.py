@@ -833,6 +833,10 @@ SKIP = frozenset(
         "thermoregulator",
         "mononymous",
         "mononymously",
+        "extrauterine",
+        "affine",
+        "toadlike",
+        "Ceylon",
     )
 )
 

@@ -836,7 +836,6 @@ fearsome
 hideout
 roadmap
 superhighway
-abnormality
 normality
 funerary
 honourable
@@ -857,7 +856,6 @@ melodramatics
 steadily
 strategist
 capitulary
-hoodlum
 accumulator
 raider
 riverine
@@ -872,7 +870,6 @@ template
 hilltop
 supportive
 leery
-candelabra
 traditionalist
 plainlands
 wartime
@@ -881,13 +878,11 @@ earthwork
 simplistic
 simplistically
 farmable
-penchant
 ethos
 chivalric
 glamourize
 thematic
 objectively
-overwrite
 showdown
 remake
 accolade
@@ -902,7 +897,6 @@ entrepôt
 worthwhile
 longtime
 vermillion
-frictionless
 backwater
 ornateness
 expeditionary
@@ -2199,7 +2193,6 @@ monoculture
 schoolhouse
 grunge
 grungy
-mudslide
 ginormous
 perishability
 imperishability
@@ -2272,7 +2265,6 @@ overwinter
 politically
 aboriculture
 shovelboard
-user
 cameral
 hornbeam
 monocultural
@@ -2294,7 +2286,6 @@ commoditization
 coziness
 ensemble
 demonym
-affine
 patriciate
 arduousness
 typification
@@ -2330,7 +2321,6 @@ full-scale
 large-scale
 phytoserology
 prefectural
-pee
 tester
 anthracis
 transmittal
@@ -2348,7 +2338,6 @@ slightly
 empressement
 vastly
 die-hard
-tenseness
 benedictine
 curtness
 blurb
@@ -2358,7 +2347,6 @@ passionately
 defiantly
 matey
 starkness
-anti-capitalist
 unbusinesslike
 anymore
 bounder
@@ -2367,7 +2355,6 @@ harridan
 pepsin
 self-reproach
 harshly
-toadlike
 curiously
 silently
 peashooter
@@ -3489,7 +3476,6 @@ commensality
 doublespeak
 pelvic
 carload
-sandstorm
 bargeman
 brushwood
 bannerman
@@ -3888,7 +3874,6 @@ sagging
 idolization
 Oxbridge
 employed
-rehire
 scintilla
 nifty
 cubby
@@ -4077,5 +4062,17 @@ homologic
 homological
 homologically
 hyperrealistic
-undervaluation
-overvaluation
+squint (endurskoða)
+hypercalcemia
+neuraxial
+torque
+boffin
+qualia
+ipsilateral
+ipsilaterally
+intertextual
+structuration
+apatite
+fluoridation
+fluoridize
+periostea

@@ -58,7 +58,7 @@ calfless l. kálfalaus ([~ legs])
 calibre n. vídd á byssuhlaupi; pípuvídd; tegund
 calico n. baðmullardúkur; [printed ~ shirts]
 caliph n. kalífi
-caliphate n. kalífaveldi
+caliphate n. kalífaveldi, kalífadæmi
 calk n. skafl (á skeifu); broddur (undir stígvélahæl); s. setja skafl á skeifu; skaflajárna
 call s. kalla; kalla á; nefna; vekja; [~ a council] kalla saman fund; [~ at] koma við (á e-m stað); [~ for] heimta; [~ on/upon] ákalla; heimsækja; [~ in a doctor] kalla á (sækja) lækni; [~ out] bjóða út (liði); [~ to memory (to mind)] muna eftir; [~ in question] efast um; n. kall; köllun; krafa; þörf; heimsókn; [~ of ceremony] viðhafnar-
 caller n. kallari; heimsækjandi, gestur
@@ -112,7 +112,7 @@ cancer n. krabbi; krabbamein
 cancerate s. éta um sig; verða að krabbameini
 cancerous l. sem líkist krabbameini, krabbameins-
 cancroid l. sem líkist krabbameini, krabba-
-candelabrum n. ljósastika, ljósahjálmur
+candelabrum n. kertastjaki; ljósastika, ljósahjálmur
 candescent l. hvítglóandi
 candid l. hreinskilinn; einlægur
 candidly ao. hreinskilnislega, í fullri hreinskilni
@@ -357,7 +357,7 @@ castigation n. refsing, hirting
 casting n. kast; steypa; [~s] steyptir munir; [~ of a drapery] fall, fellingar; l. sem ræður úrslitum ([~ vote, ~ weight])
 castle n. kastali, vígi, virki; herragarður; hrókur (í tafli); [~ in the air (in the clouds, in Spain)] loftkastali, skýjaborg; [~-builder] n. loftkastalamaður
 castor n. bifur, bjór (sjá %[beaver]%); bjórskinnshúfa; kryddbaukur; [~ oil] laxerolía; [~ sugar] sáldsykur
-castrate s. gelda. vana; stytta (rit)
+castrate s. gelda, vana; stytta (rit)
 castration n. gelding
 casual l. frjálslegur, kærulaus, hversdagslegur, óformlegur, afslappaður; tilviljunarlegur; óviss
 casually ao. af hendingu, af tilviljun

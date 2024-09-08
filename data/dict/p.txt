@@ -743,9 +743,9 @@ personation n. eftirlíking, eftirmynd; persónugerving
 personification n. persónugerving
 personify s. gera að persónu, íklæða dauðan hlut eða hugmynd persónuleika
 perspective l. gagnsælegur; n. sjónarhorn; fjarsýni, gagnsýni, innsýni
-perspicacious l. glöggskyggn, skarpskyggn; hvasseygur
-perspicaciousness n. glöggskyggni, skarpskyggni
-perspicacity n. glöggskyggni, skarpskyggni
+perspicacious l. skarpskyggn, glöggskyggn; hvasseygur
+perspicaciousness n. skarpskyggni, glöggskyggni
+perspicacity n. skarpskyggni, glöggskyggni
 perspicuity n. skýrleiki
 perspicuous l. skýr, ljós, glöggur
 perspiration n. útgufun, sviti; [be in a ~] vera löðursveittur

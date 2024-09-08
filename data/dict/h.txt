@@ -752,7 +752,7 @@ honey n. hunang; s. gera sætt; tala sætt
 honey-bag n. hunangsblaðra (á býflugu)
 honeycomb n. vaxkaka með hunangi (í býflugnabúi)
 honeycombed l. holóttur
-honeymoon n. brúðkaupsferð, fyrsti mánuður eftir brúðkaupið, hveitibrauðsdagar
+honeymoon n. brúðkaupsferð; fyrsti mánuður eftir brúðkaupið, hveitibrauðsdagar
 honey-mouthed l. mjúkmáll
 honey-tongued l. mjúkmáll
 honeyed l. sætur eins og hunang; sem hunang er á, hunangs-
@@ -890,9 +890,9 @@ housewifely l. húsmóðurlegur; hirðusamur, sparsamur
 housewifery n. búskapur; sparsemi, hirðusemi
 house s. hýsa, veita húsaskjól; flytja inn í hús; dvelja
 housel n. husl; s. husla
-housing n. hýsing; hús; húsnæði; söðulklæði, reiðver, áklæði
+housing n. húsnæði; hús; hýsing; söðulklæði, reiðver, áklæði
 hovel n. lélegur kofi, hreysi; hjallur, byrgi
-hover s. sveima, svífa (í lausu lofti); flögra; reika (um e-n stað [about, over])
+hover s. svífa, sveima (í lausu lofti); flögra; reika (um e-n stað [about, over])
 how ao. hvernig, hversu, hve
 howbeit ao. samt sem áður, allt fyrir það
 however ao. hversu sem; ([his innocence, ~ manifest, could not save him] hversu augljóst sem það var); samt sem áður, þó
