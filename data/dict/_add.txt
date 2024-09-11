@@ -719,19 +719,23 @@ Iraq n. Írak
 Iraqi l. írakskur, frá Írak; n. Íraki
 Isle of Man n. Mön (eyja milli Bretlands og Írlands)
 Israel n. Ísrael
-Israeli n. Ísraeli, Ísraelsmaður
+Israeli l. ísraelskur; n. Ísraeli, Ísraelsmaður
 Italy n. Ítalía
 Jamaica n. Jamaíka
+Jamaican l. jamaískur; n. Jamaíki
 Jersey n. Jersey
 Jordan n. Jórdanía
 Jordanian l. jórdanskur; n. Jórdani
 Kazakhstan n. Kasakstan
+Kazakh l. kasakskur; n. Kasaki
 Kenya n. Kenía
+Kenyan l. kenískur; n. Keníumaður
 Kiribati n. Kíribatí
 Kuwait n. Kúveit
 Kyrgyzstan n. Kirgistan
 Laos n. Laos
 Latvia n. Lettland
+Latvian l. lettneskur; n. Letti; lettneska
 Lebanon n. Líbanon
 Lebanese l. líbanskur; n. Líbani
 Lesotho n. Lesótó
@@ -752,7 +756,7 @@ Malay l. malasískur; n. Malasi; malasíska
 Maldives n. Maldíveyjar
 Mali n. Malí
 Malta n. Malta
-Maltese l. maltneskur, maltverskur; n. Maltverji, Möltumaður
+Maltese l. maltneskur, maltverskur; n. Maltverji, Möltumaður; maltneska
 Marshall Islands n. Marshalleyjar
 Martinique n. Martiník
 Mauritania n. Máritanía
@@ -775,6 +779,8 @@ Namibia n. Namibía
 Namibian l. namibískur; n. Namibíumaður
 Nauru n. Nárú
 Nepal n. Nepal
+Nepalese l. nepalskur; n. Nepali
+Nepali l. nepalskur; n. nepalska
 Netherlands n. ft. Niðurlönd (Holland)
 New Caledonia n. Nýja-Kaledónía (sjá %[Caledonia]%)
 New Zealand n. Nýja-Sjáland
@@ -1234,7 +1240,7 @@ succubus n. kvendjöfull
 behemoth n. stór og mikil ófreskja (úr Jobsbók í Biblíunni)
 gargoyle n. ufsagrýla
 Beelzebub n. Belsíbúbb (Satan)
-reggae n. reggí-tónlist; [~ musician] reggí-tónlistarmaður
+reggae n. reggí, reggítónlist; [~ musician] reggítónlistarmaður
 activation n. virkjun (sjá %[activate]%)
 activate s. virkja, ræsa, kveikja á
 holistic l. heildrænn
@@ -5096,3 +5102,7 @@ user n. notandi
 mudslide n. aurskriða, aurflóð
 Ceylon n. gamalt heiti yfir eyjuna Sri Lanka
 rehire s. endurráða, ráða aftur til vinnu
+bellybutton n. nafli
+periosteum n. beinhimna
+periosteal l. beinhimnu-
+toroidal l. holhrings-

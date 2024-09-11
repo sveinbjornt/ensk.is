@@ -837,6 +837,7 @@ SKIP = frozenset(
         "affine",
         "toadlike",
         "Ceylon",
+        "toroidal",
     )
 )
 
