@@ -91,6 +91,8 @@ kleptocrat n. þjófóttur ráðamaður (sjá %[kleptocracy]%)
 kleptocratic l. þjófræðis-, þjófóttur (sjá %[kleptocracy]%)
 website n. vefsíða, vefsetur (á veraldarvefnum)
 web page n. vefsíða (á veraldarvefnum)
+webreader n. veflesari
+web reader n. veflesari
 homepage n. heimasíða (á veraldarvefnum)
 screenshot n. skjáskot
 neoliberalism n. nýfrjálshyggja
