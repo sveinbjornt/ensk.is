@@ -5,8 +5,8 @@ tabby l. með bylgjumyndum (um vefnað); röndóttur ([~ cat]); n. e.k. silkivef
 tabernacle n. tjaldbúð; dvalarstaður; s. dvelja (um stundarsakir); hýsa
 tabes n. uppdráttarsýki
 tabid l. megrunarsjúkur
-table n. tafla, spjald (sbr. %[tablet]%); borð; taflborð; s. setja í töflur; leggja fram á þingborðið
-tablecloth n. hvítur borðdúkur
+table n. borð; taflborð; tafla, spjald (sbr. %[tablet]%); s. setja í töflur; leggja fram á þingborðið
+tablecloth n. borðdúkur
 tablecover n. borðábreiða, borðdúkur
 tableland n. háslétta (brött á alla vegu)
 tablespoon n. matskeið
@@ -14,7 +14,7 @@ tabletalk n. borðræður
 tableturning n. borðdans
 tableau n. mynd, hópmynd
 tablet n. lítið spjald; s. festa (hengja) spjald á
-taboo n. bann, forboð; s. banna (að nota eða nálgast e-ð)
+taboo n. bann, banndómur, bannhelgi, forboð, tabú; s. banna (að nota eða nálgast e-ð)
 tabour n. lítil bumba; s. berja (bumbu)
 tabouret n. lítill, baklaus stóll; saumagrind
 tabular l. töflumyndaður, flatur
@@ -1454,7 +1454,7 @@ typal l. sjá %[typical]%
 type n. tegund; mót; tákn; fyrirmyndardæmi; prentletur; s. fyrirmynda, tákna; vélrita
 typefounder n. letursteypari
 typewrite s. vélrita
-typewriter n. vélritari; ritvél
+typewriter n. ritvél; vélritari
 typhoon n. hvirfilvindur
 typhous l. taugaveikis-
 typhus n. taugaveiki

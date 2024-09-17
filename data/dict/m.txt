@@ -199,7 +199,7 @@ mangle s. höggva í sundur; lemstra; skemma, spilla með höggum; afbaka (texta
 mango n. mangóávöxtur; mangótré
 mangy l. kláðugur
 manhood n. manndómur; fullorðinsaldur; karlmennska
-mania n. æði, vitleysa; áköf löngun; sótt
+mania n. æði, manía; áköf löngun; sótt
 maniac l. óður, vitskertur; n. vitstola maður, vitfirringur
 maniacal l. óður, æðislegur
 manicure n. hand- og naglasnyrting; s. snyrta hendur og neglur
@@ -737,11 +737,11 @@ midnight n. miðnætti
 midden n. sorphaugur
 middle l. sem er í miðju, miður, mið-, meðal-; [a man of ~ life] miðaldra maður; [~ voice] miðmynd (í málfræði); [the Middle Ages] miðaldir; n. miðja, miðbik
 middle-aged l. miðaldra
-middlemost l. sem er í miðju
+middlemost l. sem er (mest) í miðju
 middle-sized l. meðalstór
 middling l. meðal-, miðlungs-
 midge n. mýfluga
-midget n. dvergmenni
+midget n. dvergur, dvergmenni (niðrandi)
 midland l. sem er uppi í landinu; [~ counties] upplöndin; n. uppland
 midriff n. þind
 midship n. mitt skip
@@ -752,7 +752,7 @@ Midsummer Day n. Jónsmessa
 midway n. miður vegur; l. sem er miðs vegar; ao. miðleiðis
 midwife n. ljósmóðir, yfirsetukona; s. leiða í ljós ([~ into daylight])
 midwifery n. ljósmæðrafræði, yfirsetukvennafræði; yfirsetukunnátta
-midwinter n. miður vetur
+midwinter n. miður vetur; ao. um miðjan vetur
 mien n. svipur, útlit
 miff n. vont skap; deila; s. styggja(st)
 might n. máttur, afl, vald; [with ~ and main] af alefli
@@ -892,9 +892,9 @@ misapprehend s. misskilja
 misapprehension n. misskilningur
 misbecome s. vansæma, sæma illa
 misbecoming l. vansæmandi, ósæmilegur
-misbegotten l. laungetinn; vangetinn
-misbehave s. hegða sér illa
-misbehaviour n. vond (ótilhlýðileg) hegðun
+misbegotten l. vangetinn; laungetinn
+misbehave s. hegða sér illa, vera ótilhlýðilegur
+misbehaviour n. vond eða slæm (ótilhlýðileg) hegðun, ótilhlýðileiki
 misbelief n. vantrú, röng trú
 misbelieve s. hafa ranga trú, vera rangtrúaður
 misbeliever n. vantrúarmaður
@@ -903,13 +903,13 @@ miscalculate s. reikna skakkt, misreikna
 miscalculation n. misreikningur
 miscarriage n. ill málalok; vanskil (á bréfum); ótímabær burður, fósturlát; [~ of justice] rangur dómur
 miscarry s. bregðast, misheppnast; farast, týnast, misfarast, koma ekki til skila; leysast höfn, skiljast við höfnina (um konu), láta fóstri
-miscellaneous l. blandaður, ýmislegs efnis; fjölbreyttur
+miscellaneous l. alls konar, blandaður, ýmislegs efnis; fjölbreyttur
 miscellany n. sambland; samtíningur, rit ýmislegs efnis
 mischance n. óhapp ([a piece of ~]); [by ~] af óhappi
 mischarge s. rangskrifa kröfu (í reikning); n. rangskrifuð krafa (í reikningi)
 mischief n. skaði, tjón, brell, spellvirki; mein, hrekkur, óskundi; skemmdir; ógæfa
-mischievous l. skaðlegur; illgjarn; hrekkjóttur
-mischievousness n. skaðsemi; illgirni; hrekkvísi
+mischievous l. hrekkjóttur; skaðlegur; illgjarn
+mischievousness n. hrekkvísi; skaðsemi; illgirni
 miscible l. blandanlegur
 misconceive s. misskilja, rangskilja, vanhugsa
 misconception n. misskilningur, ranghugmynd, vanhugsun

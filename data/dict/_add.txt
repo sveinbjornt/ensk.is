@@ -612,6 +612,7 @@ seeress n. spákona, völva, seiðkona
 oral sex n. munnmök
 Afghanistan n. Afganistan
 Afghan l. afganskur, frá Afganistan; n. Afgani
+afghani n. afgani (afganskur gjaldmiðill)
 Albania n. Albanía
 Albanian l. albanskur, frá Albaníu; n. Albani, Albaníumaður; albanska
 Algeria n. Alsír
@@ -1866,7 +1867,7 @@ monolingual l. eintyngdur
 monolingualism n. eintyngi
 unilingual l. eintyngdur
 unilingualism n. eintyngi
-multilingual l. fjöltyngdur
+multilingual l. fjöltyngdur, á mörgum tungumálum
 multilingualism n. fjöltyngi
 monoglot n. eintyngd manneskja; l. eintyngdur
 monoglottism n. eintyngi
@@ -1890,7 +1891,7 @@ timeless l. tímalaus; sígildur
 timelessness n. tímaleysi
 timelessly ao. tímalaust; sígilt
 supernova n. sprengistjarna; stjörnusprenging
-API n. stytt. á [Application Programming Interface]; forritaskil
+API n. forritaskil (stytt. á [Application Programming Interface])
 hedonism n. sældarhyggja, nautnahyggja, hedónismi; nautnalíf
 hedonist n. nautnaseggur, nautnahyggjumaður, nautnasinni, hedónisti
 hedonistic l. nautna-, nautnahyggju-, hedónista- (sjá %[hedonist]%)
@@ -2186,7 +2187,7 @@ supercomputer n. ofurtölva
 gorilla n. górilla (stór api)
 cardholder n. korthafi
 Mesopotamia n. Mesópótamía (landið á milli fljótanna Efrat og Tígris)
-Mesopotamian l. mesópótamiskur (sjá %[Mesopotamia]%)
+Mesopotamian l. mesópótamískur (sjá %[Mesopotamia]%)
 Danube n. Dóná
 Arabia n. Arabía
 visibly ao. sjáanlega
@@ -2705,7 +2706,7 @@ coolant n. kæliefni, kælivökvi
 kilotonne n. kílótonn (1000 tonn)
 kiloton n. kílótonn (1000 tonn)
 oxidization n. oxun, sýring (sjá %[oxidation]%)
-bourbon n. búrbón (e.k. bandarískt viskí unnið m.a. úr korni); frönsk konungsætt ([House of Bourbon])
+bourbon n. búrbón, búrbónviskí (bandarískt viskí bruggað úr korni); frönsk konungsætt ([House of Bourbon])
 phosphate n. fosfat (salt af fosfórsýru)
 yam n. mjölrót, jamrótarhnýði, kínakartafla; sæt kartafla (BNA)
 multistory l. marghæða, fjölhæða; [~ building] bygging með mörgum hæðum
@@ -3697,6 +3698,7 @@ counterweight n. andvægi, mótvægi
 enforceable l. framfylgjanlegur; þvinganlegur
 transdermal l. sem fer í gegnum húðina; [~ patch] forðaplástur
 praxeology n. hegðunarfræði
+praxiology n. hegðunarfræði
 ballistic l. kast-, skot-, þeyti-; [~ missile] kastflaug, flugskeyti
 authoritarian l. valdboðs-, valdboðslegur; n. valdboðssinni
 authoritarianism n. valdboðsstefna (stjórnarfar sem einkennist af miðstýringu og undirgefni borgara)
@@ -3839,6 +3841,7 @@ biome n. lífbelti
 containerize s. gámavæða
 containerization n. gámavæðing
 interconnectivity n. samtengjanleiki, samtengsl
+hybridisation n. sjá %[hybridization]%
 hybridization n. kynblöndun, samæxlun
 vulcanization n. gúmmísuða
 incommensurability n. ósammælanleiki, ósambærileiki
@@ -5106,3 +5109,72 @@ bellybutton n. nafli
 periosteum n. beinhimna
 periosteal l. beinhimnu-
 toroidal l. holhrings-
+wetback n. mexíkóskur innflytjandi í Bandaríkjunum (niðrandi)
+substation n. undirstöð
+self-actualization n. sjálfsbirting
+classless l. stéttlaus
+disassemble s. taka í sundur
+symbolism n. táknfræði, táknun
+Tasmania n. Tasmanía (eyja sunnan við Ástralíu)
+northerly l. norðlægur ([~ wind])
+sociolect n. félagsleg málgerð, stéttamállýska
+internalization n. innhverfing
+singleton n. einstaksmengi
+intersubjectivity n. samhuglægni
+intersubjective l. samhuglægur
+backlog n. ólokin verkefni, ófrágengin verkefni, listi ólokinna verkefna
+organisation n. sjá %[organization]%
+pixie n. ljósálfur, álfadís, álfur
+fratriage n. arfur sem rennur til yngri bróður
+brachiosaurus n. finngálkn
+yuan n. júan (kínverskt myntheiti)
+octane n. oktan
+hooligan n. dólgur, ófriðarseggur; [football ~] fótboltabulla
+myxedema n. slímbjúgur
+summarise s. sjá %[summarize]%
+chickenpox n. hlaupabóla
+varicella n. hlaupabóla
+joystick n. stýripinni, gleðipinni
+storytelling n. frásögn; frásagnarlist
+worthwhile l. verðugur, þess virði, ómaksins virði, ómaksins vert, erfiðisins virði, tilvinnandi
+bordello n. vændishús, hóruhús
+donut n. sjá %[doughnut]%
+ossified l. orðinn að beini; ósveigjanlegur, fastur í sínum venjum; gamaldags
+femicide n. kvendráp, kvenmorð
+bronchial l. berkju-; [~ asthma] kafmæði
+dietitian n. næringarfræðingur, manneldisfræðingur
+dietician n. sjá %[dietitian]%
+psycholinguistic l. málsálarfræðilegur
+psycholinguistics n. ft. málsálarfræði, sálfræðileg málvísindi
+decompress s. afþjappa
+decompression n. afþjöppun
+multidimensional l. fjölvíður, fjölvídda-
+lupus n. rauðir úlfar (sjálfsofnæmissjúkdómur)
+Rastafarian n. rastafari; l. rastafara-
+torque n. snúningsátak, snúningsvægi
+Hun n. Húni (af þjóðflokki Húna)
+Hunnic l. húnskur (sjá %[Hun]%); húnska, húnsk tunga
+defeatist n. uppgjafarsinni; l. uppgjafar-
+defeatism n. uppgjafarstefna
+English-speaking l. enskumælandi
+boondocks n. ft. sveitabyggðir
+manic l. ær, hamstola, óður, manískur, oflætis-
+pedicure n. fótsnyrting
+short-tempered l. bráðlyndur, uppstökkur, skapstyggur
+houseguest n. gestur, húsgestur, gestur á heimilinu
+sideburns n. ft. bartar
+clothesline n. þvottasnúra
+unification n. sameining
+rearmament n. endurvopnun
+barbed l. gadda-, með göddum (sjá %[barb]%)
+africanist n. afríkufræðingur
+streamlined l. straumlínulaga, straumlínulagaður
+streamline n. straumlína; s. gera straumlínulagað; hagræða, einfalda
+login n. innskráning
+self-consciousness n. sjálfsvitund, sjálfsmeðvitund
+mainframe n. stórtölva, megintöla
+viability n. lífvæni, lífvænleiki
+slipperiness n. hálka
+overcompensate s. ofbæta (fyrir e-ð); ofgreiða
+overcompensation n. ofbætur (fyrir e-ð); ofgreiðsla
+inhalable l. innöndunarlegur, aðöndunarlegur, öndunarhæfur, sem hægt er að anda að sér (sjá %[inhale]%)

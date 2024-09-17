@@ -838,6 +838,15 @@ SKIP = frozenset(
         "toadlike",
         "Ceylon",
         "toroidal",
+        "intersubjectivity",
+        "self-actualization",
+        "fratriage",
+        "myxedema",
+        "praxiology",
+        "English-speaking",
+        "Hunnic",
+        "psycholinguistic",
+        "africanist",
     )
 )
 

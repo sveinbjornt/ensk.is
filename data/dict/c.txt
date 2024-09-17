@@ -178,7 +178,7 @@ capacious l. rúmgóður, rúmur, víður; [a ~ mind] hleypidómalaus hugur
 capacitate s. gera hæfan (til [for])
 capacity n. móttækisgáfa; hæfileiki; skilningur, gáfur; möguleiki; rúmtak; [in the ~ of a judge] sem dómari
 caparison n. söðulklæði, reiðver; klæðnaður; s. skrautbúa, skreyta
-cap-á-pie ao. frá hvirfli til ilja
+cap-à-pie ao. frá hvirfli til ilja
 cape n. slag (á kápu); [~d cloak] kápa með slagi
 cape n. höfði, nes
 caper s. stökkva, hoppa; n. hopp, stökk
@@ -1166,7 +1166,7 @@ cobwebbed l. þakinn köngulóarvef
 cobwebby l. líkur köngulóarvef
 cocaine n. kókaín (örvandi vímugjafi)
 cochineal n. skarlatslitur, purpuralitur
-cock n. hani; karlfugl; bógur (á byssu); krani (á tunnu); tunga, mundang (á vog); hanagal; vindhani ([weather-~]); heysæti; vísir (á sólskífu); s. setja (reisa) beint upp; draga upp bóginn (á byssu); sæta (hey); standa upp; [~ the eye] draga augað í pung; [~ the hat] setja hattinn út í aðra hliðina; næla upp hattbarðið; [a ~ed hat] þrístrendur hattur; [a ~ed up nose] uppbrett nef
+cock n. hani; karlfugl; bógur (á byssu); krani (á tunnu); tunga, mundang (á vog); hanagal; vindhani ([weather-~]); heysæti; vísir (á sólskífu); typpi; s. setja (reisa) beint upp; draga upp bóginn (á byssu); sæta (hey); standa upp; [~ the eye] draga augað í pung; [~ the hat] setja hattinn út í aðra hliðina; næla upp hattbarðið; [a ~ed hat] þrístrendur hattur; [a ~ed up nose] uppbrett nef
 cock-crow n. hanagal; afturelding
 cockeyed l. rangeygður
 cockfight n. hanaat
@@ -1190,7 +1190,7 @@ cockneyism n. Lundúnaframburður
 cockroach n. kakkalakki (skorkvikindi)
 cocksy l. hreykinn, montinn
 cocksure l. alveg viss, í engum vafa (um [of]); fullviss (um [of])
-cocktail n. kokteill (e.k. áfengur drykkur); hestur með stýfðu tagli
+cocktail n. kokteill (blandaður áfengur drykkur); hestur með stýfðu tagli
 cocky l. hreykinn, montinn
 cocoa n. kakó, kakóduft; kakópálmi
 cocoon n. lirfuhýði, silkiormshýði; s. spinna hýði um sig
@@ -1576,7 +1576,7 @@ comprehensive l. yfirgripsmikill; efnisríkur, efnismikill ([a ~ dictionary]); f
 comprehensiveness n. yfirgrip; yfirgripsmikill skilningur
 compress s. þrýsta, þjappa saman; n. umbúðir, bakstur
 compressible l. samþjappanlegur
-compression n. þrýsting; samþjöppun
+compression n. þrýsting; samþjöppun; þjöppun
 compressive l. sem lýtur að þrýstingu
 compressure n. samþrýsting
 comprise s. innibinda; ná yfir, fela í sér; [the house ~s 10 rooms] í húsinu eru 10 herbergi

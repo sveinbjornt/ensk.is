@@ -13,22 +13,22 @@ sacerdotalism n. klerkaveldi
 sack n. sekkur, poki; [to get the ~] vera rekinn; s. láta í poka
 sackcloth n. pokastrigi
 sacking n. pokastrigi
-sack s. eyða, herja á; ræna (hertekinn bæ); n. rán ([the ~ of Troy])
+sack s. reka úr starfi; eyða, herja á; ræna (hertekinn bæ); n. rán ([the ~ of Troy])
 sackbut n. e.k. lúður
-sacrament n. (kvöldmáltíðar-)sakramenti
+sacrament n. (kvöldmáltíðar)sakramenti
 sacramental l. sakramentis-; heilagur ([~ obligation])
-sacred l. heilagur; helgaður (e-m [to]); kirkjulegur; órjúfanlegur
+sacred l. heilagur, helgur (e-m [to]); kirkjulegur; órjúfanlegur
 sacredness n. heilagleiki, helgi
 sacrifice n. fórn; tap; [at a ~] undir kaupverði, með tapi; s. fórna; fórnfæra; leggja í sölurnar ([~ one's life])
 sacrificer n. fórnari; fórnarprestur
 sacrificial l. fórnar-
-sacrilege n. kirkjurán; saurgun helgra dóma
-sacrilegious l. óheilagur, óguðlegur
-sacrilegist n. kirkjuránsmaður, helgidómsvanhelgari
+sacrilege n. vanhelgun; kirkjurán; saurgun helgra dóma
+sacrilegious l. óheilagur, óguðlegur, vanhelgandi
+sacrilegist n. kirkjuránsmaður, helgidómsvanhelgari, vanhelgari
 sacrist n. kirkjuvörður (sem hefur umsjón yfir munum kirkjunnar)
 sacristan n. kirkjuvörður (sem hefur umsjón yfir munum kirkjunnar)
 sacristy n. skrúðhús
-sad l. hryggur, dapur; sorglegur; dimmur (um lit)
+sad l. hryggur, dapur, leiður; sorglegur; dimmur (um lit)
 sadden s. hryggja; hryggjast
 sadness n. hryggð
 saddle n. söðull, hnakkur; hryggur (úr hjartardýri eða kind); s. leggja á, söðla; leggja (kvöð) byrði á e-n ([~ one with a burden])
@@ -686,7 +686,7 @@ sepulchral l. grafarlegur; greftrunar-; [~ stone] legsteinn
 sepulcher n. gröf; legstaður; s. greftra, jarða
 sepulture n. greftrun
 sequacious l. fylgispakur; rökmáll ([~ thinker])
-sequel n. framhald ([the ~ of a story]); afleiðing; [in the ~] í því, sem á eftir fer, seinna
+sequel n. framhald ([the ~ of a story]); afleiðing; [in the ~] í því sem á eftir fer, seinna
 sequence n. röð; afleiðing
 sequent l. eftirfarandi
 sequester s. kyrrsetja (eignir e-s að lögum); taka lögtaki; fjarlægja; [~ oneself from the world] taka sig út úr heiminum; [a ~ed spot] einverustaður, afvikinn staður
@@ -767,7 +767,7 @@ sex n. kyn; [both ~es] karlar og konur, bæði kynin; [the fairer ~] konur; kynm
 sexagenarian n. sextugur maður
 sexagenary l. sextugur maður
 sexennial l. sem gerist á sex ára fresti
-sextant n. hringsjöttungur; sextant (stjörnufræðilegt mæliverkfæri)
+sextant n. hringsjöttungur; sextungur, sextant (stjörnufræðilegt mæliverkfæri)
 sexton n. hringjari; messudjákni; yfirgrafari
 sexual l. kyn- ([~ organs] kynfæri, [~ relations] kynmök); kynferðislegur ([~ harassment] kynferðisleg áreitni); samræðis- ([~ desire] samræðisfýsn)
 shabbily ao. sóðalega, óþrifalega, tötralega
@@ -2146,7 +2146,7 @@ stall-fed l. alinn, gefinn
 stall-feed s. ala (skepnur í húsi)
 stallion n. graðhestur; graðfoli, stóðhestur
 stalwart l. hugaður, kjarkmikill; karlmannlegur
-stamen n. duftberi
+stamen n. duftberi, frævill
 stamina n. ft. fastir líkamshlutar; frumefni; höfuðatriði; styrkur, lífsþróttur, þol
 stammer s. stama; n. stam
 stammerer n. stamari
@@ -2679,7 +2679,7 @@ subscription n. undirskrift; (fjár)tillag; samskot
 subsequent l. eftirfarandi, seinni
 subsequently ao. síðar, seinna
 subserve s. stuðla að, gagna
-subservience n. gagnsemi; tilstilli
+subservience n. undirgefni; gagnsemi; tilstilli
 subserviency n. gagnsemi; tilstilli
 subservient l. gagnlegur, hentugur; þjónandi
 subside s. setjast (um grugg); síga (um land); hniga; minnka, lægja ([the storm ~s]); sjatna
@@ -3136,8 +3136,8 @@ sylph n. loftandi, loftdís
 sylphid n. lítil loftdís
 sylvan l. skógar-; skóglendur; n. skógarguð
 symbol n. ímynd; tákn, merki
-symbolic l. líkingarfullur; sem á að merkja
-symbolize s. sýna á líkingarfullan hátt; eiga að tákna
+symbolic l. táknrænn, líkingarfullur; sem á að merkja
+symbolize s. sýna á líkingarfullan hátt; eiga að tákna, tákna
 symmetrical s. samhverfur, samsvarandi
 symmetry n. samhverfa, samsvörun
 sympathetic l. sem finnur til (hryggðar eða gleði) með öðrum, hluttekningarsamur; sem vekur samúð, samúðar-

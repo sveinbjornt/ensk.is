@@ -304,7 +304,6 @@ shanghai s.
 self-satisfaction
 self-satisfied
 well-run
-classless
 self-determination
 anti-rationalist
 motivate
@@ -402,8 +401,6 @@ frightened
 crosshair
 formulation
 wide-ranging
-intersubjective
-intersubjectivity
 foundational
 indeterminacy
 luminiferous
@@ -451,12 +448,9 @@ magneto
 interconnect
 interconnected
 interconnection
-defeatist
-defeatism
 morale
 unlabelled
 unchallengeable
-English-speaking
 destroyer
 dominance
 replaceable
@@ -522,7 +516,6 @@ jape
 hibiscus
 kingpin
 layover
-boondocks
 bloomery
 davit
 serendipitous
@@ -532,7 +525,6 @@ baffling
 wasteland
 untangle
 dishwashing
-manic
 knitter
 doomed
 romanticize
@@ -540,10 +532,8 @@ coincidental
 maneuver
 pinpoint
 tabloid
-short-tempered
 shipmate
 crewman
-northerly
 mastermind
 fabled
 colonizer
@@ -571,14 +561,11 @@ spillage
 extravaganza
 superpower
 underscore
-storytelling
 campus
 lockdown
-slipperiness
 snowplow
 hallway
 intersectionality
-disassemble
 backdrop
 shakeup
 showman
@@ -587,7 +574,6 @@ blustery
 attendee
 nonproliferation
 proliferation
-houseguest
 divisive
 hawkish
 bouffant
@@ -625,7 +611,6 @@ announcer
 breaststroke
 backstroke
 infrastructure
-sideburn
 uptight
 rationale
 risky
@@ -641,7 +626,6 @@ fatalistic
 famished
 paralyzed
 gunpoint
-clothesline
 rightward
 advisement
 mogul
@@ -664,7 +648,6 @@ voluntaristic
 voluntarism
 underway
 reimagine
-unification
 cadre
 modernization
 historiosophy
@@ -673,7 +656,6 @@ paramilitary
 dynamism
 immiseration
 undergird
-rearmament
 breadline
 deportee
 firepower
@@ -700,7 +682,6 @@ nevermore
 diaspora
 socioeconomic
 resettlement
-barbed
 interrogator
 fictional
 fictionalize
@@ -818,7 +799,6 @@ travelogue
 migrant
 misjudgement
 reportage
-symbolism
 cakewalk
 multi-ethnic
 tribespeople
@@ -894,7 +874,6 @@ springboard
 moonshot
 breakaway
 entrepôt
-worthwhile
 longtime
 vermillion
 backwater
@@ -1005,7 +984,6 @@ trendy
 blurry
 mantra
 freefall
-mainframe
 nonchalance
 decode
 receivership
@@ -1069,7 +1047,6 @@ coverage
 distortionary
 disgorgement
 intensification
-backlog
 fungible
 manipulator
 rationalization
@@ -1168,7 +1145,6 @@ urbanite
 suburbanite
 sartorial
 lèse-majesté
-hooligan
 derisively
 penological
 fantasize
@@ -1246,7 +1222,6 @@ chronometric
 monumentality
 patchiness
 dialogic
-self-consciousness
 renegotiation
 rooftop
 neurodivergent
@@ -1318,7 +1293,6 @@ recap
 diffusionist
 ascendance
 upsurge
-viability
 peccary
 blender
 schema
@@ -1494,7 +1468,6 @@ raciology
 raciological
 officialize
 hygienist
-internalization
 revelatory
 phenotype
 recruiter
@@ -1732,7 +1705,7 @@ tidbit
 relive
 bogus
 maverick
-hustler
+
 judgemental
 fetishization
 bog-standard
@@ -1911,7 +1884,6 @@ readmission
 nonverbal
 selflessness
 self-promotion
-self-actualization
 communicator
 differentiator
 relational
@@ -2315,7 +2287,6 @@ isolable
 unknowability
 slippage
 linearity
-substation
 cyanate
 full-scale
 large-scale
@@ -2744,7 +2715,6 @@ sociality
 phylogenetic
 neighbourliness
 unachievable
-singleton
 non-consensual
 democide
 panopticism
@@ -2817,7 +2787,6 @@ broiler
 endangerment
 conservationist
 timescale
-Tasmania
 Tasmanian
 acidification
 defoliant
@@ -3246,6 +3215,8 @@ relaunch
 flip-flop
 precarity
 minarchy
+minarchism
+minarchist
 trolley
 well-off
 fibre-optic
@@ -3374,7 +3345,6 @@ impulsiveness
 tangential
 tangentially
 villagization
-Africanist
 successfully
 monocrop
 polycrop
@@ -3414,7 +3384,6 @@ hierarchically
 routinization
 appropriable
 showpiece
-streamline
 cultigen
 truckload
 self-congratulatory
@@ -3653,8 +3622,6 @@ synchronously
 inspiring
 uninspiring
 awe-inspiring
-overcompensate
-overcompensation
 organza
 consolidated
 chalet
@@ -3691,7 +3658,6 @@ satisfied
 imaging
 changelog
 incorporated
-login
 alternatively
 limiting
 Calvary (endurskoða)
@@ -3744,7 +3710,6 @@ confidently
 hijab
 finfish
 cornflour
-organisation
 lambast
 lambasted
 invigorating
@@ -3916,7 +3881,6 @@ compartmentalize
 miraculously
 loveable
 unloveable
-sociolect
 simoon
 kamikaze
 kibitz
@@ -3935,8 +3899,8 @@ macroscopic
 macrobiotic
 mayhap
 jaywalk
+jaywalker
 jaywalking
-ossified
 grody
 sensitize
 checkmark
@@ -4046,7 +4010,6 @@ sideral
 armillary
 comorbid
 comorbidity
-wetback
 insulator
 overbite
 gauche
@@ -4066,7 +4029,6 @@ hyperrealistic
 squint (endurskoða)
 hypercalcemia
 neuraxial
-torque
 boffin
 qualia
 ipsilateral
@@ -4084,22 +4046,89 @@ vuvuzela
 phew
 grandnephew
 bebop
-Rastafarian
 Rastafarianism
 monochord
 ageism
-lupus
 triage
-fratriage
 scalable
 cascading
-decompression
-multidimensional
 shimmy
-octane
+shim
 isothermal
-myxedema
-psycholinguistic
-psycholinguistics
 receptiveness
 characterless
+renminbi
+ligation
+grooming
+pelmet
+champer
+beveled
+tracheal
+overcrowding
+overcrowd
+lymphoma
+roadworthiness
+decentralize
+chill (endurskoða, sögn)
+perineural
+meningeal
+irrevocably
+verbalization
+cloudiness
+scrunch
+savor s.
+leptospirosis
+anamorphic
+tablet (endurskoða)
+tactics (endurskoða)
+imposer
+squiffy
+paparazzi
+paparazzo
+hustler
+hustle (endurskoða)
+hustling
+gerbil
+apprehensively
+automatization
+sorority
+freak (endurskoða)
+flapper
+deconstructive
+chronograph
+ahem
+dysphagia
+busman
+curation
+acrimoniously
+haptic
+roundtrip
+flaming
+depressed
+pollinator
+brummel
+sassy
+poppycock
+cephalon
+bootleg
+bootlegger
+bootlegging
+contributary
+shantytown
+merlon
+multiplicative
+multiplicatively
+appalled
+upstate
+carbonation
+markdown
+chuffed
+divestiture
+grimoire
+jaded
+jadedness
+harping
+capillaries
+cavorting
+conjuring
+windsurf
