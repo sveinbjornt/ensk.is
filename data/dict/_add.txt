@@ -1,4 +1,16 @@
 aardvark n. jarðsvín (riðvaxið afrískt spendýr með langan rana)
+kennitala n. kennitala
+id number n. kennitala
+identification number n. kennitala
+electronic id n. auðkenni
+new icelander n. íslendingur sem var ekki fæddist á Íslandi
+old icelander n. Íslendingur fæddist á Íslandi
+new icelanders n. framtíð
+FKA New Icelanders n. FKA Framtíð
+Huldumal n. nemendafelagið á HÍ fyrir nemendur í ISE námsbraut
+Association of Businesswomen in Iceland n. Félag Kvenna í Atvinnulífinu
+inlanders n. innlendingur
+potluck n. pálínuboð
 database n. gagnagrunnur, gagnasafn
 classroom n. kennslustofa, skólastofa
 coedit s. meðritstýra, ritstýra ásamt öðrum; [he ~ed the dictionary] hann var meðritstjóri orðabókarinnar
@@ -91,6 +103,8 @@ kleptocrat n. þjófóttur ráðamaður (sjá %[kleptocracy]%)
 kleptocratic l. þjófræðis-, þjófóttur (sjá %[kleptocracy]%)
 website n. vefsíða, vefsetur (á veraldarvefnum)
 web page n. vefsíða (á veraldarvefnum)
+webreader n. veflesari
+web reader n. veflesari
 homepage n. heimasíða (á veraldarvefnum)
 screenshot n. skjáskot
 neoliberalism n. nýfrjálshyggja
@@ -111,7 +125,7 @@ mike n. hljóðnemi (stytt. á %[microphone]%)
 newsletter n. fréttabréf
 phone n. sími, símtæki; s. hringja úr símtæki (stytt. á %[telephone]%)
 pizza n. pítsa, flatbaka (ítalskur réttur)
-masturbate s. fróa sér, runka sér
+masturbate s. fróa sér, runka sér, kippi í
 masturbator n. e-r sem fróar eða runkar sér (sjá %[masturbate]%)
 masturbatory l. sjálfsfróandi, sjálfsrunkandi
 programmer n. forritari
