@@ -1,4 +1,8 @@
 aardvark n. jarðsvín (riðvaxið afrískt spendýr með langan rana)
+kennitala n. kennitala
+id number n. kennitala
+identification number n. kennitala
+electronic id n. auðkenni
 database n. gagnagrunnur, gagnasafn
 classroom n. kennslustofa, skólastofa
 coedit s. meðritstýra, ritstýra ásamt öðrum; [he ~ed the dictionary] hann var meðritstjóri orðabókarinnar
