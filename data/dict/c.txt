@@ -83,8 +83,8 @@ calumnious l. bakmálugur, illkvittnislegur
 calumny n. rógur, ósannur áburður, álygi
 Calvary n. hauskúpustaður
 calve s. eiga kálf, bera (um kú, hind, hval)
-Calvinism n. Kalvínstrú
-Calvinist n. Kalvínstrúarmaður
+Calvinism n. kalvínismi, kalvínstrú
+Calvinist n. kalvínisti, kalvínstrúarmaður
 calvish l. kálfslegur, aulalegur, heimskur
 calyx n. blómsturbikar
 cambist n. víxlakaupmaður, víxlari
@@ -156,7 +156,7 @@ canorous l. hljómfagur; hvellur ([a ~ peal of laughter])
 cant n. halli; þjófamál, skrílmál; hræsnismál; s. sníða (horn) af; halla, reisa á rönd; hvolfa; kasta, velta ([~ him out of the saddle]); tala kjökrandi (og hræsnislega); tala þjófamállýsku
 cantankerous l. nöldursamur, nöldrunarsamur ([a ~ husband])
 cantata n. hátíðaljóð
-canteen n. matsölubúð hermanna; skrín með eldhúss- og borðáhöldum; hermannaflaska
+canteen n. mötuneyti; matsölubúð hermanna; skrín með eldhúss- og borðáhöldum; hermannaflaska
 canter s. stökkva, valhoppa; láta stökkva; ríða valhopp; n. hægt stökk, valhopp; hræsnari
 cantharides n. ft. spansfluga, brunafluga
 canticle n. lofsöngur; ft. lofkvæði Salómons
@@ -841,7 +841,7 @@ churchwarden n. kirkjuvörður
 churchy l. kirkjufastur
 churchyard n. kirkjugarður
 churl n. ótiginn maður; bóndamaður; dóni; nirfill
-churlish l. rustalegur, dónalegur; nískur
+churlish l. rustalegur, dónalegur, ruddalegur; nískur
 churn n. strokkur; s. strokka
 churnstaff n. bulla í strokk
 chute n. fall; brekka

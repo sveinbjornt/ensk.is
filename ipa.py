@@ -847,6 +847,21 @@ SKIP = frozenset(
         "Hunnic",
         "psycholinguistic",
         "africanist",
+        "Christological",
+        "Christologist",
+        "Christology",
+        "illiberalism",
+        "inhalable",
+        "spectrogram",
+        "Tatar",
+        "Corinth",
+        "Corsica",
+        "Corsican",
+        "defectiveness",
+        "ecdysiast",
+        "galactorrhea",
+        "ipsilaterally",
+        "lactorrhea",
     )
 )
 

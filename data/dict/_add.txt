@@ -165,6 +165,8 @@ homework n. heimavinna
 investor n. fjárfestir
 mega- fsk. (í samsetningum) ofur-; risa-; mjög stór; sjá t.d. %[megabyte]%, %[megafauna]%
 methodology n. aðferðafræði; [his ~ was flawed] hann beitti gölluðum aðferðum
+methodological l. aðferðafræðilegur
+methodologically ao. aðferðafræðilega
 movie n. kvikmynd, bíómynd (óforml.); [I'm going to the ~s] ég er farinn í bíó
 necessarily ao. nauðsynlega
 pediatrician n. barnalæknir
@@ -496,6 +498,7 @@ guerrilla warfare n. skæruhernaður
 neoclassical l. nýklassískur; [~ architecture] nýklassísk byggingarlist
 neoclassicism n. nýklassík, nýklassísk stefna
 basic l. grundvallar-, undirstöðu- ([~ principles]); basískur (efnafr.); n. ft. [the ~s] grundvallaratriðin
+basically ao. í grundvallaratriðum; í grófum dráttum
 hyponym n. undirheiti ([crow is a ~ of bird])
 hypernym n. yfirheiti ([bird is a ~ of crow])
 antonym n. andheiti ([dead is the ~ of alive])
@@ -510,7 +513,7 @@ upgraded l. uppfærður
 insurgency n. uppreisn
 dynastic l. ættar-, konungsættar-, aðalsættar-
 hypertension n. háþrýstingur; óvenjulega hár blóðþrýstingur
-hyperventilate s. anda of hratt
+hyperventilate s. anda of hratt, ofanda
 hyperventilation n. oföndun
 hyperactive l. ofvirkur
 hyperactivity n. ofvirkni
@@ -1730,7 +1733,6 @@ premature infant n. fyrirburi, barn sem fæðist fyrir tímann
 aerosol n. agnúði, úði
 Greek l. grískur; n. Grikki; gríska (tungumálið); [it's all ~ to me!] ég skil ekkert!
 mathematically ao. stærðfræðilega
-methodological l. aðferðafræðilegur
 unafraid l. óhræddur, óttalaus
 censorship n. ritskoðun
 worldview n. heimssýn
@@ -2124,6 +2126,7 @@ passionless l. ástríðulaus
 maximization n. hámörkun
 unanimously ao. einróma, samhljóða
 genitals n. ft. kynfæri, æxlunarfæri
+genitalia n. ft. kynfæri, æxlunarfæri
 ethicist n. siðfræðingur, siðspekingur
 bulletproof l. skotheldur; [~ vest] skothelt vesti
 shotgun n. haglabyssa
@@ -3843,6 +3846,7 @@ containerization n. gámavæðing
 interconnectivity n. samtengjanleiki, samtengsl
 hybridisation n. sjá %[hybridization]%
 hybridization n. kynblöndun, samæxlun
+hybridized l. kynblandaður, samæexlaður
 vulcanization n. gúmmísuða
 incommensurability n. ósammælanleiki, ósambærileiki
 galvanization n. sinkhúðun, galvanhúðun
@@ -4197,7 +4201,7 @@ feminization n. kvengerving; kvenvæðing
 Russification n. rússavæðing
 Caucasus n. Kákasusfjöll; [in the ~] í Kákasusfjöllum
 Muscovite n. Moskvubúi, Moskvumaður; l. frá Moskvu, Moskvu-
-Finno-Ugric l. finnsk-úgrískur (tungumálaætt)
+Finno-Ugric l. finnsk-úgrískur; n. finn-úgríska (tungumálaætt)
 abortionist n. fóstureyðir, e-r sem framkvæmir fóstureyðingar
 biomolecular l. lífsameinda-
 archaeologically ao. fornleifafræðilega
@@ -4321,6 +4325,7 @@ landlessness n. landleysi
 Tibet n. Tíbet
 Tibetan l. tíbeskur; n. Tíbeti
 jobless l. starfslaus, atvinnulaus
+joblessness n. starfsleysi, atvinnuleysi; skortur á störfum, atvinnuskortur
 chlamydia n. klamydía (kynsjúkdómur)
 unpersonable l. óviðkunnanlegur, ekki góður félagsskapur
 creaky l. brakandi, marrandi, hriktandi
@@ -4618,7 +4623,7 @@ economically ao. efnahagslega, hagfræðilega
 uneconomic l. óhagkvæmur; óhentugur; óefnahagslegur
 uneconomical l. óhagkvæmur; óhentugur; óefnahagslegur
 digitize s. stafgera, setja í eða snúa yfir á stafrænt form
-digitization n. stafgerving, stöfun (sjá %[digitize]%)
+digitization n. stafgerving, stöfun, stafræn yfirfærsla (sjá %[digitize]%)
 seismicity n. jarðskjálftavirkni
 complicit l. samsekur; meðvirkur
 empowerment n. valdefling, efling; umboðsveiting
@@ -4704,6 +4709,8 @@ disinhibition n. afhömlun
 syrinx n. neðra barkakýli, raddhylki
 rheumatoid l. gigtar-, gigtarlegur, gigtlíkur
 rheumatoidal l. gigtar-, gigtarlegur, gigtlíkur
+rheumatologist n. gigtarlæknir
+rheumatology n. gigtarlækningar
 Hebrides n. ft. Suðureyjar (eyjaklasi við vesturströnd Skotlands)
 fireworks n. ft. flugeldar
 hologram n. heilmynd, almynd
@@ -5178,3 +5185,62 @@ slipperiness n. hálka
 overcompensate s. ofbæta (fyrir e-ð); ofgreiða
 overcompensation n. ofbætur (fyrir e-ð); ofgreiðsla
 inhalable l. innöndunarlegur, aðöndunarlegur, öndunarhæfur, sem hægt er að anda að sér (sjá %[inhale]%)
+Tatar n. Tatari
+pariah n. e-r sem er útskúfaður (úr samfélaginu), úrhrak
+pager n. símboði, boðtæki
+beeper n. símboði, boðtæki
+egregiously ao. frámunalega
+recombination n. endursameining
+née l. með fæðingarnafn (um kvænta konu sem hefur tekið upp eftirnafn eiginmanns), t.d. [Jane Doe née Smith]
+nee l. sjá %[née]%
+faintly ao. dauflega
+fisheries n. ft. fiskimið; sjávarútvegur
+fishing grounds n. ft. fiskimið
+extraordinarily ao. óvenjulega, frámunalega; gríðarlega
+concierge n. móttökustjóri; umsjónarmaður, umsjónarkona; hótelþjónn
+hoover n. ryksuga
+Christology n. kristsfræði, kristfræði
+Christological l. kristsfræðilegur
+Christologist n. kristsfræðingur
+Greek fire n. óslökkvandi eldur, grískur eldur (sjá einnig %[wildfire]%)
+command line n. skipanalína
+morpheme n. myndan, morfem
+spectrogram n. litrófsmynd, rófmynd, rófrit, litrófsrit
+pentagram n. fimmhyrnd stjarna
+normative l. gildishlaðinn
+illiberalism n. ófrjálslyndi
+firestorm n. eldhaf, eldhríð
+scepter n. sjá %[sceptre]%
+peacekeeper n. friðargæsluliði, friðargæslumaður, e-r sem heldur friðinn
+matrices n. ft. fylki (sjá %[matrix]%)
+Corinth n. Korinta (borg í Grikklandi)
+Corinthian l. korintískur; n. Korintumaður
+Berlin n. Berlín
+Berliner n. Berlínarbúi
+Vienna n. Vínarborg, Vín
+Corsica n. Korsíka
+Corsican l. korsíkanskur; n. korsíska
+ecdysiast n. fatafella, nektardansmær
+aftercare n. eftirmeðferð
+trilobite n. þríbroti (útdauður flokkur liðdýra)
+ipsilateral l. samhliðar-, á sömu hlið, samlægur
+ipsilaterally ao. samhliða
+galactorrhea n. mjólkurflæði, mjólkurrennsli
+lactorrhea n. mjólkurflæði, mjólkurrennsli
+morph s. umbreytast; n. myndbrigði (í málvísindum)
+transferability n. flytjanleiki, flutningshæfni (sjá %[transfer]%)
+protégé n. skjólstæðingur
+protege n. sjá %[protégé]%
+unenthusiastic l. óákafur, lítt áhugasamur
+firecracker n. púðurkerling
+defectiveness n. göllun, ófullkomleiki, ábótavöntun
+envision s. sjá fyrir sér
+modernization n. nútímavæðing
+quantify s. mæla (magn); magnhæfa, magnfesta, magngreina
+quantified l. mældur (í magni); magnfestur, magngreindur
+unquantified l. ómældur (í magni); ómagnfestur, ómagngreindur
+quantifier n. magnari
+humidify s. koma raka í; væta, bleyta
+humidifier n. rakatæki
+churlishness n. dónaskapur, ruddaskapur; níska
+Mennonite n. mennoníti (fylgismaður kenninga hollenska guðfræðingsins Menno)

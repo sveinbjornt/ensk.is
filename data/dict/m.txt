@@ -916,7 +916,7 @@ misconception n. misskilningur, ranghugmynd, vanhugsun
 misconduct n. ill hegðun, vanhegðun; röng aðferð; yfirsjón; s. stýra illa eða ranglega; [~ oneself] hegða sér ranglega
 misconjecture s. giska skakkt á; n. skökk eða röng ágiskun
 misconstruction n. skökk þýðing, mistúlkun
-misconstrue s. leggja skakka þýðingu í, túlka á rangan hátt
+misconstrue s. leggja skakka þýðingu í, túlka á rangan hátt, mistúlka
 miscount n. skökk talning; s. telja skakkt
 miscreated l. vanskapaður
 miscreation n. vanskapnaður
@@ -940,7 +940,7 @@ misery n. bágindi, eymd, vesældómur; ógæfa
 miserere n. iðrunarsálmur (51. sálmur Davíðs)
 misesteem n. lítilsvirðing; s. dæma skakkt um e-ð
 misestimate s. meta skakkt
-misfit n. flík, sem fer illa; s. fara e-m illa (um fatnað)
+misfit n. utangarðsmaður; flík, sem fer illa; s. fara e-m illa (um fatnað)
 misformed l. vanskapaður
 misfortune n. ógæfa, óhamingja; óhapp
 misgive s. fylla efasemd og kvíða; bregðast; [my heart ~s me] ég býst ekki við neinu góðu
@@ -1062,11 +1062,11 @@ model n. líkan, módel; fyrirmynd; eftirlíki, mót; fyrirsæta; s. mynda; laga
 moderate l. stilltur, hófsamur; gætinn, varfærinn, hægfara (í pólitík); s. stilla, tempra, sefa, minnka; stýra fundi, vera fundarstjóri
 moderation n. temprun, stilling, hóf, gætni
 moderator n. sá sem stillir; fundarstjóri
-modern l. nútíðar-, nýtísku-; [the ~ languages] nýju málin; n. nútímamaður, mest í fleirtölu
-modernism n. nútíðareinkenni, mállýska, andi, kenning
-modernist n. aðdáari nýja tímans; nýtískumaður
-modernity n. nýtíska, nýtískuskoðanir; bragur
-modernize s. laga eftir nýja tímanum
+modern l. nútíðar-, nútíma-, nýtísku-; [the ~ languages] nýju málin; n. nútímamaður (mest í fleirtölu)
+modernism n. módernismi; nútímaeinkenni, nútímamállýska, nútímaandi, nútímakenning
+modernist n. módernisti; aðdáandi nýja tímans; nýtískumaður
+modernity n. nútími; nýtíska, nýtískuskoðanir; bragur
+modernize s. nútímavæða, laga eftir nýja tímanum
 modernly ao. á síðari (eða þessum) tímum
 modest l. hæverskur, siðprúður; lítill, smár ([a ~ sum])
 modesty n. hæverska, siðprýði

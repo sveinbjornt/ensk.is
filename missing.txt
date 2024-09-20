@@ -289,6 +289,7 @@ pivotal
 constringe
 counterreaction
 paternalism
+paternalist
 paternalistic
 overemphasis
 overemphasize
@@ -308,7 +309,6 @@ self-determination
 anti-rationalist
 motivate
 unmotivated
-normative
 arguable
 arguably
 hard-wired
@@ -598,7 +598,6 @@ nonparticipation
 rapporteur
 reestablish
 sympathizer
-quantify
 breakthrough
 kingmaker
 pan-
@@ -649,7 +648,6 @@ voluntarism
 underway
 reimagine
 cadre
-modernization
 historiosophy
 centralism
 paramilitary
@@ -743,7 +741,6 @@ accommodationist
 reconstitution
 Jewishness
 redirect
-firestorm
 regroup
 disruptive
 noncombatant
@@ -1002,6 +999,7 @@ printout
 slideshow
 nostalgic
 boondoggle
+boondogglery
 slammer
 payout
 somnolescent
@@ -1182,7 +1180,6 @@ collegiality
 balkanization
 visceral
 viscerally
-paternalist
 radiator
 hotspot
 ergonomic
@@ -1362,7 +1359,6 @@ counterintuitive
 picky
 underemployment
 overemployment
-joblessness
 buildup
 Keynesian
 Keynesianism
@@ -1387,7 +1383,6 @@ voilà
 widowmaker
 lifeblood
 prima facie
-envision
 recessionary
 slowdown
 lifeline
@@ -1540,7 +1535,6 @@ intranational
 advisability
 reexamine
 interdependence
-defectiveness
 defector
 organismic
 actualization
@@ -1572,7 +1566,6 @@ locational
 stymie
 rollback
 survivalist
-firecracker
 stovepipe
 newscaster
 quid pro quo
@@ -1649,7 +1642,6 @@ squelch
 survivable
 materiel
 reinstitute
-unenthusiastic
 scratchy
 cubbyhole
 honorarium
@@ -1668,7 +1660,6 @@ decommission
 usable
 anarchosyndicalist
 manqué
-protégé
 cockamamie
 centralizer
 unsusceptible
@@ -2000,7 +1991,6 @@ specifiable
 conditionals
 ameliorist
 midpoint
-quantifier
 modifier
 explicability
 representable
@@ -2124,7 +2114,6 @@ feedstock
 intermittency
 tantalum
 nonperishable
-hoover
 rechargeable
 Hobbesian
 orbital
@@ -2426,9 +2415,6 @@ extortionist
 second-guess
 comedic
 sanitizer
-extraordinarily
-basically
-concierge
 intercom
 airbrush
 roofer
@@ -2440,7 +2426,7 @@ localization
 delocalization
 translocalization
 prelocalization
-boondogglery
+
 flak
 abjectly
 self-important
@@ -2849,7 +2835,6 @@ wallaby
 crosscut
 slugfest
 recombine
-recombination
 unilineal
 papaya
 maximal
@@ -3416,7 +3401,6 @@ polyvalent
 associational
 diagnostically
 unabridgeable
-Mennonite
 gaucherie
 landrush
 periodicity
@@ -3425,10 +3409,8 @@ delapidation
 definitional
 insanitation
 skeletonization
-pariah
 self-organization
 undernutrition
-churlishness
 newsprint
 synergism
 patel
@@ -3459,7 +3441,6 @@ proletarianization
 undercapitalization
 dessicationist
 acclimation
-humidify
 rainmaker
 marginalist
 monsoonal
@@ -3472,8 +3453,6 @@ uniformitarianism
 advection
 symmetrically
 asymmetrically
-quantified
-unquantified
 variably
 quibbling
 blazer
@@ -3677,7 +3656,6 @@ expired
 impoundment
 dialer
 autodialer
-spectrogram
 ravishing
 ravishingly
 inundated
@@ -3722,7 +3700,6 @@ dope
 dopeness
 omicron
 cynical (endurskoða)
-morpheme
 conferencing
 well-adjusted
 carpogenic
@@ -3871,6 +3848,7 @@ conformal
 middled
 lunger
 psychicism
+adept (endurskoða)
 adeptship
 ouija
 gumshoe
@@ -3913,23 +3891,21 @@ pretzel
 disheartened
 earthshaking
 reintroduce
+contortionism
 contortionist
 endodontics
 rulership
 unnerved
 cuddly
-transferability
 Megalodon
 micromobility
 governmentally
 digest (endurskoða)
 ding
-née
 dyspraxia
 eidetic
 embalmer
 labia
-faintly
 displaced
 recurring
 thumbtack
@@ -3940,7 +3916,6 @@ medulla
 cross-pollinate
 cross-pollinated
 reprovingly
-fisheries
 sparky
 gulch
 flop (endurskoða)
@@ -3962,7 +3937,6 @@ crispness
 ampulate
 oxidative
 retardant
-morph
 bolllock(s)
 unsolicited
 alternating
@@ -4031,8 +4005,6 @@ hypercalcemia
 neuraxial
 boffin
 qualia
-ipsilateral
-ipsilaterally
 intertextual
 structuration
 apatite
@@ -4132,3 +4104,52 @@ capillaries
 cavorting
 conjuring
 windsurf
+heptadecagon
+punk
+grindcore
+bimetallic
+swing (music)
+scrooge
+redcurrant
+conniption
+hootenanny
+backstory
+mainlander
+thalassocracy
+hookah
+shisha
+phish
+phishing
+trailblazer
+drool
+propagandistic
+erg
+futural
+airlift
+brainstem
+reoccur
+reoccurrence
+punctuated
+personified
+flippantly
+effortful
+dishevel
+snooty
+rogueish
+casuistic
+casuistical
+casuistically
+subtype
+agrammatism
+agrammatical
+vivo
+dysgraphia
+proprioceptive
+pastiche
+kiss-off
+sequitur
+non-sequitur
+metapolitical
+moderately
+chutzpah
+humidor
