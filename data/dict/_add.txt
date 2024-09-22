@@ -2818,7 +2818,7 @@ clean-shaven n. nauðrakaður, hreinrakaður, nýrakaður
 sabbatical n. rannsóknarleyfi; orlof, leyfi
 escapee n. strokufangi, flóttamaður
 theoretician n. kenningasmiður, kennismiður, fræðimaður
-carbonate n. kolsýrusalt, karbónat (efnasamband)
+carbonate n. kolsýrusalt, karbónat (efnasamband); s. kolsýra
 asymptomatic l. einkennalaus, án einkenna
 desalinate s. afsalta, salteima, skilja salt frá vatni
 desalination n. afsöltun (á sjávarvatni), salteiming
@@ -4471,7 +4471,7 @@ animist n. andatrúarmaður
 archive n. skjalasafn, skjalamappa, skjöl, arkíf; s. geyma í skjalasafni
 magna cum laude l. með miklum heiðri ([he graduated ~]) (úr latínu)
 blackcurrant n. sólber
-cassis n. sólber
+cassis n. sólber; sólberjavín, sólberjalíkjör
 earplug n. eyrnatappi
 humourist n. sjá %[humorist]%
 cheddar n. cheddar-ostur (einnig ritað séddarostur)
@@ -5215,9 +5215,10 @@ peacekeeper n. friðargæsluliði, friðargæslumaður, e-r sem heldur friðinn
 matrices n. ft. fylki (sjá %[matrix]%)
 Corinth n. Korinta (borg í Grikklandi)
 Corinthian l. korintískur; n. Korintumaður
-Berlin n. Berlín
+Berlin n. Berlín (borg í Þýskalandi)
 Berliner n. Berlínarbúi
 Vienna n. Vínarborg, Vín
+Viennese l. frá Vín, Vínar-; n. ft. Vínarbúar
 Corsica n. Korsíka
 Corsican l. korsíkanskur; n. korsíska
 ecdysiast n. fatafella, nektardansmær
@@ -5243,4 +5244,45 @@ quantifier n. magnari
 humidify s. koma raka í; væta, bleyta
 humidifier n. rakatæki
 churlishness n. dónaskapur, ruddaskapur; níska
-Mennonite n. mennoníti (fylgismaður kenninga hollenska guðfræðingsins Menno)
+Mennonite n. mennoníti (fylgismaður kenninga hollenska guðfræðingsins Menno); l. mennoníta-
+capillaries n. ft. háræðar
+cleft lip n. skarð í vör; skarð í góm
+carbonation n. kolsýring (sjá %[carbonate]%)
+reintroduce s. endurinnleiða, innleiða aftur; koma (e-u) aftur á; kynna aftur til sögunnar; koma e-m aftur í kynni við, kynna e-n aftur
+orthographic l. sjá %[orthographical]%
+abolished l. afnuminn; eyddur, útrýmdur
+risky l. áhættusamur, hættulegur
+apraxia n. verkstol; hreyfistol
+moderately ao. hóflega
+tutu n. tútú (e.k. ballettkjóll)
+symptomatology n. einkennafræði; einkennamynd
+parkinsonism n. heilkenni lamariðu, lamariða, riðulömun
+dysgraphia n. rithömlun
+brainstem n. heilastofn
+rogueish l. sjá %[roguish]%
+airlift n. loftbrú; s. flytja loftleiðis
+redcurrant n. rifsber
+bimetallic l. tvímálma, úr tveimur málmum
+grimoire n. seiðbók, galdrabók
+gramary n. galdralist; lærdómur; sjá %[grammar]%
+depressed l. þunglyndur, hryggur; þrýstur niður, bældur niður
+pollinator n. frjóberi, frævari
+roundtrip n. ferð fram og til baka; báðar leiðir
+sorority n. systrafélag
+dysphagia n. kyngingarerfiðleikar
+cloudiness n. skýjað veður; skýjahula
+irrevocably ao. óafturkallanlega; óriftanlega
+receptiveness n. móttækileiki
+expat n. sjá %[expatriate]%
+sanctions n. ft. refsiaðgerðir; viðskiptaþvinganir
+cacophonous l. mishljóma
+Arianism n. aríanismi, aríusarstefna (guðfræðileg kenning innan kristindóms kennd við munkinn Aríus)
+Arian n. aríusarsinni (sjá %[Arianism]%); l. aríanisma-, aríusarstefnu- ([~ heresy])
+apnea n. öndunarstöðvun, öndunarstopp, andhlé; [sleep ~] kæfisvefn
+apnoea n. sjá %[apnea]%
+blindingly ao. blindandi, ljómandi skært; gríðarlega, mjög, afskaplega, rosalega ([~ obvious, ~ fast])
+esotericism n. dulspeki, dulhyggja; dulhyggjustefna
+compartmental l. hólfa-, klefa-, flokka-
+compartmentalize s. skipta í hólf eða klefa; flokka
+compartmentalization s. skipting í hólf eða klefa; flokkun; skipulag þar sem skipt er í aðgreind hólf
+fools' gold n. glópagull

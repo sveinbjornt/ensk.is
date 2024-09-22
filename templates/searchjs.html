@@ -47,6 +47,7 @@
         // Enable autocompletion suggestions
         new autoComplete({
             selector: 'input[name="q"]',
+            submit: true,
             source: function (term, response) {
                 var qval = document.getElementById("q").value;
                 ajax_get('/api/suggest/' + qval, function (data) { response(data); });

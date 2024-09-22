@@ -1455,11 +1455,11 @@ type n. tegund; mót; tákn; fyrirmyndardæmi; prentletur; s. fyrirmynda, tákna
 typefounder n. letursteypari
 typewrite s. vélrita
 typewriter n. ritvél; vélritari
-typhoon n. hvirfilvindur
+typhoon n. fellibylur, hvirfilvindur
 typhous l. taugaveikis-
 typhus n. taugaveiki
-typical l. dæmigert; sem fyrirmyndar e-ð, líkingarfullur; sem hefur öll séreinkenni e-s flokks
-typify s. sýna á líkingarfullan hátt, tákna
+typical l. dæmigerður; sem fyrirmyndar e-ð, líkingarfullur; sem hefur öll séreinkenni e-s flokks
+typify s. sýna á líkingarfullan hátt, tákna, vera dæmigert eintak af e-u
 typist n. vélritari
 typographer n. prentari
 typographic l. prentlegur; prentaður

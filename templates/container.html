@@ -19,6 +19,7 @@
   <meta property="og:image" content="https://ensk.is/static/img/opengraph.png">
   <meta property="og:type" content="website">
   <meta property="fb:app_id" content="enskpunkturis">
+  <meta property="og:url" content="https://ensk.is{{ request.path }}">
 
   <meta name="google-site-verification" content="cMgO9BRAmccIqLnGN2xv1zKob87a2f09BkYoQzA1NL4">
 
@@ -30,7 +31,6 @@
 
   {% block script %}
   {% endblock %}
-
 </head>
 
 <body>
@@ -58,9 +58,7 @@
       </li>
       <li><a href="/about">Um</a></li>
       <li><a href="/files">Gögn</a></li>
-      <!--<li><a href="/api">API</a></li>-->
       <li><a href="/english_icelandic_dictionary">
-
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 30" width="24" height="12">
             <clipPath id="s">
               <path d="M0,0 v30 h60 v-30 z" />
@@ -76,27 +74,21 @@
               <path d="M30,0 v30 M0,15 h60" stroke="#C8102E" stroke-width="6" />
             </g>
           </svg>
-
         </a>
       </li>
     </ul>
   </nav>
 
   <div class="grid-container">
-
     <div class="grid-x grid-padding-x" style="margin-top: 60px;">
       <div class="large-3 medium-2 small-1 cell"></div>
       <div class="large-6 medium-8 small-10 cell">
-
         {% block content -%}
         {%- endblock %}
-
       </div>
       <div class="large-3 medium-2 small-1 cell"></div>
     </div>
-
   </div>
-
 
 </body>
 

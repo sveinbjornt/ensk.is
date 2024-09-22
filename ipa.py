@@ -862,6 +862,14 @@ SKIP = frozenset(
         "galactorrhea",
         "ipsilaterally",
         "lactorrhea",
+        "Mennonite",
+        "symptomatology",
+        "Arianism",
+        "gramary",
+        "grimoire",
+        "rogueish",
+        "compartmental",
+        "esotericism",
     )
 )
 
