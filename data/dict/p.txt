@@ -793,8 +793,7 @@ pestilence n. drepsótt, landfarsótt; sóttnæmi, óhollusta
 pestilent l. óheilnæmur; skaðvænlegur; banvænn
 pestilential l. óheilnæmur; skaðvænlegur; banvænn
 pestle n. stautur (í mortéli); s. mylja (í mortéli)
-pet n. ólundarkast, fýla
-pet n. gæludýr; uppáhald; s. láta vel að, hafa dálæti á, klappa, kjassa; l. uppáhalds- ([~ theory]); [~ name] gælunafn
+pet n. gæludýr; uppáhald; ólundarkast, fýla; s. láta vel að, hafa dálæti á, klappa, kjassa; l. uppáhalds- ([~ theory]); [~ name] gælunafn
 petal n. krónublað
 petition n. bæn, umbeiðni, bænarskrá; s. biðja um ([~ for something]); senda bænarskrá til (e-s)
 petitionary l. bænar-, biðjandi
@@ -1281,12 +1280,12 @@ plumpy l. sjá %[plump]%
 plumy l. fjaðraður; fjaðurskreyttur
 plunder s. ræna; n. rán, ránsfé, herfang
 plunderer n. ræningi
-plunge s. steypa, sökkva (í [into]); stinga, dýfa; steypa sér; stinga sér í kaf ([~ into the water]); höggva, taka dýfur (um skip); ausa (um hest); [~d in debt] skuldunum vafinn; n. steyping; kafhlaup; dýfa; vandræði
+plunge s. steypa, sökkva (í [into]); stinga, dýfa; steypa sér; stinga sér í kaf ([~ into the water]); höggva, taka dýfur (um skip); ausa (um hest); [~d in debt] skuldunum vafinn; n. steyping; kafhlaup; dýfa; snöggt hrap niður á við; vandræði
 plunge bath n. djúp sundlaug
 plunger n. kafari; riddari
 plunk s. slá á (hertan) streng; hlammast niður; n. högg, dynkur
 plural l. fleirtölu- ([~ word]); n. fleirtala
-pluralist n. prestur, sem þjónar fleiri brauðum en einu
+pluralist n. prestur, sem þjónar fleiri brauðum en einu; fjölhyggjusinni
 plurality n. meirihluti; fjöldi; þjónusta fleiri brauða í senn; [~ of votes] meirihluti atkvæða, atkvæðamagn
 pluralize s. setja fleirtöluendingu á; þjóna fleiri brauðum í senn
 plurally ao. í fleirtölu
@@ -1412,7 +1411,7 @@ polygamous l. fjölkvænislegur
 polygamy n. fjölkvæni, margkvæni
 polyglot l. fjöltungu-, sem er á mörgum málum ([a ~ dictionary]); n. tungumálamaður, fjöltyngdur maður; bók sem rituð er á mörgum málum
 polygon n. marghyrningur
-polyhedron n. marghliðungur
+polyhedron n. marghliðungur, margflötungur
 polyhedrous l. marghliðaður
 polymath n. fjölfræðingur
 polymathy n. fjölfræði

@@ -871,6 +871,9 @@ SKIP = frozenset(
         "compartmental",
         "esotericism",
         "laguna",
+        "Nestorian",
+        "Nestorianism",
+        "polyhedral",
     )
 )
 

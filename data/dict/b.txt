@@ -103,7 +103,7 @@ bandy n. knatttré; s. slá (knött) fram og aftur; [~ words] deila; l. bjúgur 
 bandy-legged l. bjúgfættur
 bane n. eitur; bani, glötun
 baneful l. eitraður, banvænn; skaðlegur
-bang s. slá, berja; skella, skellast (um hurð); n. högg, skellur; dynkur, hvellur; [go ~] springa með hvelli
+bang s. slá, berja; skella, skellast (um hurð); ríða (óforml.); n. högg, skellur; dynkur, hvellur; [go ~] springa með hvelli
 banian n. indverskur kaupmaður
 banish s. reka í útlegð
 banishment n. burtrekstur
@@ -131,18 +131,18 @@ bar n. (málm)stöng; slá, slagbrandur; sker, grynningar (fyrir framan hafnarmy
 barkeeper n. veitingamaður, barþjónn
 barmaid n. veitingastúlka, barstúlka
 barroom n. drykkjarstofa
-barb n. hár (á plöntum); agnhald (á öngli); krókur (á ör); s. setja agnhald á öngul eða krók á ör; gadda
+barb n. hár (á plöntum); agnhald (á öngli); krókur (á ör); gaddur; s. setja agnhald á öngul eða krók á ör; gadda
 barbed wire n. gaddavír; [barbed wire fence] gaddavírsgirðing
 barbarian n. villimaður; l. ósiðaður
 barbaric l. villimannlegur, ósiðaður
 barbarism n. villimennska; menningarleysi; útlent eða óvandað orð
 barbarize s. spilla, spillast; snúa til villimennsku, gera villimannslegan
 barbarity n. villimennska; grimmd, grimmdarverk
-barbarous l. villtur, villimannlegur; grimmúðlegur
+barbarous l. villtur, villimannslegur; grimmúðlegur
 barbarousness n. villimennska; grimmúð
 barbecue n. dýr steikt í heilu lagi; s. steikja (dýr) í heilu lagi
-barber n. skeggrakari
-barbican n. e.k. vígturn
+barber n. rakari, skeggrakari
+barbican n. vígturn
 bard n. (keltneskt) skáld
 bare l. ber, nakinn; snauður; s. bera, gera beran
 barefaced l. óskammfeilinn
@@ -326,7 +326,7 @@ beechen l. beyki- ([~ wood]); gerður úr beykitré
 beef n. uxakjöt; ft. [beeves] uxar
 beefsteak n. nautasteik
 beefy l. kjötmikill, vöðvamikill, kröftugur
-beer n. bjór, öl; [small ~] lítill bjór; [I think no small ~ of it] mér þykir mikið til þess koma
+beer n. bjór, öl
 beery l. bjórkenndur; ölvaður (af bjór)
 beestings n. ft. broddur úr nýbæru; [curds of ~] ábristir
 beet n. e.k. rófa; [white ~] sykurrófa
@@ -351,7 +351,7 @@ begin s. byrja, hefja, byrja á e-u ([~ to do, it has begun to be done, it has b
 beginner n. byrjandi
 beginning n. byrjun, upphaf
 begird s. gyrða; umlykja
-begone uh. snáfaðu í burtu!
+begone uh. snáfaðu í burtu!; burt með þig!
 begrime s. ata
 begrudge s. telja eftir
 beguile s. blekkja, svíkja; lokka ([~ a person of, out of/into doing]); [~ time] stytta sér stundir

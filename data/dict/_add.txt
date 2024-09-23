@@ -1452,8 +1452,7 @@ Lombardy n. Langbarðaland
 Kiev n. Kænugarður (borg í Úkraínu)
 Kyiv n. Kænugarður (borg í Úkraínu)
 Constantinople n. Mikligarður (í dag tyrkneska borgin Istanbúl)
-Cologne n. Köln (borg í Þýskalandi)
-cologne n. ilmvatn, kölnarvatn, rakspíri
+cologne n. ilmvatn, kölnarvatn, rakspíri; [Cologne] Köln (borg í Þýskalandi)
 London n. Lundúnir, London (höfuðborg Bretlands)
 New World n. Nýi heimurinn (álfurnar Suður- og Norður-Ameríka, og Eyjaálfa)
 Old World n. Gamli heimurinn (álfurnar Evrópa, Asía og Afríka)
@@ -1966,6 +1965,7 @@ superstar n. stórstjarna
 arsonist n. brunavargur
 self-destruction n. sjálfstortíming, sjálfseyðing
 self-destructive l. sjálfstortímandi, sjálfseyðandi
+self-destruct s. tortíma sér, eyða sjálfum sér
 whisker n. veiðihár; e.k. skeggstíll
 superwoman n. ofurkona
 boyfriend n. kærasti, unnusti
@@ -4920,7 +4920,7 @@ antigen n. mótefnisvaki
 antigenic l. mótefnisvaka-, vaka-
 brewing n. bruggun
 earthbound l. jarðbundinn; á leið til jarðar
-contraceptive n. getnaðarvörn; l. getnaðarvarnar-
+contraceptive n. getnaðarvörn; l. getnaðarvarnar-, sem kemur í veg fyrir getnað
 intertemporal l. milli tímabila
 prolonged l. langvarandi, framlengdur
 multifunctional l. fjölvirkur, með fleiri en eina virkni
@@ -4937,7 +4937,7 @@ decisively ao. á afgerandi hátt, á einbeittan hátt
 pathologize s. sjúkdómsvæða
 theodicy n. guðfræðileg réttlæting, réttlæting á eiginleikum guðs, guðfræðilegt uppgjör við tilvist illsku
 secularization n. veraldarvæðing; afhelgun; aðskilnaður ríkis og kirkju; upptaka á eignum klaustra og kirkja
-barometric l. loftþyngdar-, loftþrýstings-
+barometric l. loftþrýstings-, loftþyngdar-, sem mælir loftþrýsting
 Westernization n. vesturlandavæðing
 nitroglycerin n. nítróglyserín
 ideation n. hugmyndamótun, hugmyndasköpun; hugleiðingar ([suicidal ~])
@@ -5176,7 +5176,7 @@ clothesline n. þvottasnúra
 unification n. sameining
 rearmament n. endurvopnun
 barbed l. gadda-, með göddum (sjá %[barb]%)
-africanist n. afríkufræðingur
+africanist n. afríkufræðingur, sérfræðingur í málefnum Afríku
 streamlined l. straumlínulaga, straumlínulagaður
 streamline n. straumlína; s. gera straumlínulagað; hagræða, einfalda
 login n. innskráning
@@ -5298,4 +5298,24 @@ Yank n. sjá %[Yankee]%
 prankster n. hrekkjalómur, hrekkjadólgur
 voice-over n. talsetning
 voiceover n. sjá %[voice-over]%
-
+deerskin n. dádýraskinn
+crypto- fsk. dul-; leyndar-; dulinn, falinn, leyndur (sjá t.d. %[cryptography]%, %[cryptonym]%)
+Nestorianism n. nestoríanismi (guðfræðikenning kennd við patríarkann Nestoríos)
+Nestorian l. nestorískur (sjá %[Nestorianism]%)
+nautilus n. perlusnekkja, kuggur
+polyhedral l. með margar hliðar, með marga fleti
+ocelot n. pardusköttur
+bobcat n. rauðgaupa
+caracal n. eyðimerkurgaupa
+recklessly ao. hirðuleysislega
+mannequin n. gína
+lubricator n. sleipiefni; sleipiefnisberi
+Aquarius n. vatnsberi (stjörnumerki)
+armor n. sjá %[armour]%
+make-up n. sjá %[makeup]%
+Kathmandu n. Katmandú
+Dublin n. Dyflinni (borg á Írlandi)
+Algiers n. Algeirsborg
+Naples n. Napólí
+Johannesburg n. Jóhannesarborg
+Istanbul n. Istanbúl, Mikligarður (borg í Tyrklandi)

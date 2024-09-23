@@ -1039,8 +1039,8 @@ retaliative l. hefnandi, hefndar-
 retaliatory l. hefnandi, hefndar-
 retard s. seinka; skjóta á frest; aftra; n. seinkun; [be in the ~ of] standa á baki e-m
 retardation n. seinkun; tálmun
-retardative l. seinkandi
-retardatory l. seinkandi
+retardative l. seinkandi, hægjandi á, haldandi aftur
+retardatory l. seinkandi, hægjandi á, haldandi aftur
 retardment n. seinkun; tálmun
 retch s. ætla að selja upp; selja (kasta) upp
 retell s. endursegja
@@ -1052,7 +1052,7 @@ reticular l. netmyndaður; líkur neti
 reticulated l. netmyndaður; líkur neti
 reticule n. sauma- eða prjónapoki
 reticulum n. fagri keppur
-retina n. nethimnan (á auganu)
+retina n. sjóna, sjónhimna, nethimna (á auganu)
 retiform l. netmyndaður
 retinue n. fylgd, föruneyti, sveit manna (með stórhöfðingja)
 retire s. hörfa undan; draga sig út (úr [from]); fara ([~ to a place]); ganga til hvílu ([~ to rest]); fara frá, fá lausn (frá embætti); fara burtu með (t.d. herlið); færa burtu; veita lausn úr embætti; leysa inn (víxil)
