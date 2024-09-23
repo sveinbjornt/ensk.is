@@ -881,6 +881,7 @@ Vietnam n. Víetnam
 Vietnamese l. víetnamskur; n. Víetnami; víetnamska
 Western Sahara n. Vestur-Sahara
 Yemen n. Jemen
+Yemeni l. jemenskur; n. Jemeni
 Zambia n. Sambía
 Zambian l. sambískur, frá Sambíu; Sambíumaður
 Zimbabwe n. Simbabve
@@ -2088,7 +2089,7 @@ guardsman n. varðmaður
 crossbowman n. lásbogaskytta, lásbogaliði, hermaður með lásboga
 cannonball n. fallbyssukúla
 attacker n. árásarmaður, árásaraðili, tilræðismaður, sóknaraðili, ásækjandi
-Persia n. Persía (gamalt heiti yfir Íran)
+Persia n. Persía, Persaveldi
 antebellum l. fyrir stríð, fyrirstríðs-
 moorland n. mýrlendi
 imbalance n. ójafnvægi
@@ -5164,6 +5165,7 @@ Hunnic l. húnskur (sjá %[Hun]%); húnska, húnsk tunga
 defeatist n. uppgjafarsinni; l. uppgjafar-
 defeatism n. uppgjafarstefna
 English-speaking l. enskumælandi
+English speaker n. enskumælandi manneskja
 boondocks n. ft. sveitabyggðir
 manic l. ær, hamstola, óður, manískur, oflætis-
 pedicure n. fótsnyrting
@@ -5275,14 +5277,25 @@ irrevocably ao. óafturkallanlega; óriftanlega
 receptiveness n. móttækileiki
 expat n. sjá %[expatriate]%
 sanctions n. ft. refsiaðgerðir; viðskiptaþvinganir
-cacophonous l. mishljóma
+cacophonous l. mishljóma, mishljóðandi
 Arianism n. aríanismi, aríusarstefna (guðfræðileg kenning innan kristindóms kennd við munkinn Aríus)
 Arian n. aríusarsinni (sjá %[Arianism]%); l. aríanisma-, aríusarstefnu- ([~ heresy])
 apnea n. öndunarstöðvun, öndunarstopp, andhlé; [sleep ~] kæfisvefn
 apnoea n. sjá %[apnea]%
-blindingly ao. blindandi, ljómandi skært; gríðarlega, mjög, afskaplega, rosalega ([~ obvious, ~ fast])
+blindingly ao. blindandi, ljómandi skærlega; gríðarlega, mjög, afskaplega, rosalega ([~ obvious, ~ fast])
 esotericism n. dulspeki, dulhyggja; dulhyggjustefna
 compartmental l. hólfa-, klefa-, flokka-
 compartmentalize s. skipta í hólf eða klefa; flokka
 compartmentalization s. skipting í hólf eða klefa; flokkun; skipulag þar sem skipt er í aðgreind hólf
-fools' gold n. glópagull
+fool's gold n. glópagull
+pyrite n. glópagull, brennisteinskís, járnkís, pýrít
+laguna n. strandlón
+quadriplegia n. ferlömun (lömun fjögurra útlima)
+quadriplegic l. lamaður á fjórum útlimum (sjá %[quadriplegia]%)
+white-collar l. hvítflibba-; [~ job] hvítflibbastarf; [~ crime] hvítflibbaglæpir
+blue-collar l. bláflibba-; [~ worker] bláflibbastarfsmaður, verkamaður, starfsmaður á plani
+Yank n. sjá %[Yankee]%
+prankster n. hrekkjalómur, hrekkjadólgur
+voice-over n. talsetning
+voiceover n. sjá %[voice-over]%
+

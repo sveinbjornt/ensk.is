@@ -870,6 +870,7 @@ SKIP = frozenset(
         "rogueish",
         "compartmental",
         "esotericism",
+        "laguna",
     )
 )
 

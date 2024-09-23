@@ -1786,7 +1786,6 @@ portability
 cop
 paddy
 self-regulation
-white-collar
 squishy
 dropout
 extraversion
@@ -2839,7 +2838,6 @@ detectable
 undetectable
 séance
 coreligionist
-prankster
 herder
 parochialism
 Austronesia
@@ -3188,7 +3186,6 @@ upfront
 spatially
 wistfulness
 Thatcherism
-voiceover
 relaunch
 flip-flop
 precarity
@@ -3211,12 +3208,15 @@ gridlock
 flamboyance
 bimodal
 disillusioning
+levelheaded
+levelheadedly
 levelheadedness
 restrained
 floodwater
 desensitize
 desensitized
 desensitization
+sensitization
 newsworthiness
 parasitoid
 clobber
@@ -4134,3 +4134,23 @@ shortchanged
 charbroil
 autophony
 autophonous
+surcease
+arousal
+deerskin
+hypoxia
+conservatorship
+grounded
+hanky
+yardbird
+jive
+dressage
+postmistress
+confirmand
+fringe (endurskoða)
+middy
+guarana
+noninvasive
+trendline
+plotline
+unaccredited
+ectothermic

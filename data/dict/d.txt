@@ -952,13 +952,13 @@ disagreeable l. óþægilegur
 disagreement n. mismunur; sundurþykkja, ágreiningur; ósamræmi
 disallow s. vera (e-u) mótfallinn; hafna; banna; bera á móti e-u
 disallowance n. höfnun, neitun
-disappoint s. bregðast (e-m); gabba, blekkja
-disappointment n. vonblekking, vonbrigði ([a feeling of ~])
+disappoint s. valda vonbrigðum, bregðast (e-m)
+disappointment n. vonbrigði ([a feeling of ~])
 disapprobation n. misþóknun, vanþóknun
 disapproval n. misþóknun, vanþóknun
 disapprove s. fallast ekki á, hafna; mislíka, misþóknast; [I ~ (of)] mér mislíkar e-ð
-disarm s. svipta (e-n) vopnum, afvopna; leggja niður vopnin
-disarmament n. niðurlagning vopna, afvopnun
+disarm s. afvopna, svipta (e-n) vopnum; leggja niður vopnin
+disarmament n. afvopnun, niðurlagning vopna
 disarrange s. aflaga; rugla
 disarrangement n. ruglingur
 disarray n. ruglingur; s. rugla; afklæða
@@ -1008,14 +1008,14 @@ disconnected l. ósamanhangandi, sundurlaus; fráskilinn
 disconnection n. sundurgreining, sundrung
 disconsolate l. óhuggandi; eyðilegur ([a ~ place])
 discontent n. óánægja, kurr; s. gera óánægjan
-discontented l. óánægður, ófullnægður
+discontented l. óánægður, ófullnægður, ósáttur
 discontentment n. óánægja
 discontinuance n. niðurlagning, hlé
 discontinuation n. niðurlagning, hlé
 discontinue s. leggja niður (venjur); hætta að halda (blað)
 discontinuity n. samhengisleysi
 discontinuous l. sundurlaus; ósamanhangandi
-discord n. ósamræmi; sundurþykkja; s. vera ósammála, ósamhljóða (e-u [with])
+discord n. ósamræmi, sundrung; sundurþykkja; s. vera ósammála, ósamhljóða (e-u [with])
 discordance n. ósamhljóðan
 discordant l. ósamhljóða ([to, from, with]); ósamræmur
 discount n. afsláttur (af verði); afföll (á víxlum), forvextir; [be at a ~] standa undir nafnverði; seljast mjög ódýrt ([silks are at ~]); vera í litlum metum; s. kaupa eða selja (víxil) með afföllum; draga frá, gera fyrir ýkjum í frásögn ([~ a statement]); rýra, draga úr ([~ the enjoyment]); búast við e-u fyrirfram ([~ an event])
