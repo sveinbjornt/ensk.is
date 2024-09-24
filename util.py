@@ -90,9 +90,12 @@ def human_size(path: str) -> str:
     return f"{size:.1f} TB"
 
 
-def perc(a, b):
+def perc(a, b, icelandic=False) -> str:
     """Calculate percentage of a/b and return as string."""
-    return f"{100 * a / b:.1f}%"
+    s = f"{100 * a / b:.1f}%"
+    if icelandic:
+        return s.replace(".", ",")  # Icelandic decimal separator
+    return s
 
 
 def is_ascii(s) -> bool:
