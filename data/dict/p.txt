@@ -1598,8 +1598,8 @@ potherbs n. ft. súpujurtir
 pothole n. skessuketill
 pothook n. pottkrókur
 pothouse n. ölstofa, drykkjustofa
-potion n. heilsudrykkur
-potlid n. potthlemmur
+potion n. heilsudrykkur, seyði; [magic ~] töfradrykkur
+potlid n. pottlok, potthlemmur
 potluck n. [take ~] gera sér að góðu það, sem fram er borið
 pottage n. kjötsúpa, súpa, pottréttur
 potter n. leirkerasmiður; s. dunda; fara í hægðum sínum, lalla; rugla, trufla
@@ -1613,7 +1613,7 @@ poultry n. hænsni, alifuglar
 pounce n. kló á ránfugli; skrifsandur; [be on the ~ to] vera reiðubúinn til að; s. ráðast á, steypa sér niður á, hremma ([~ upon, on, at])
 pound n. pund; gullpeningur (skammstafað £, t.d. £200); s. [to ~ it] veðja pundum
 poundage n. gjald af hverju pundi
-pound s. mylja, merja; lemja, berja
+pound s. mylja, merja; lemja, berja; ríða fast (óforml.)
 pounder n. mar; stautur; högg; dynur
 pound n. kví, rétt (sem óskilafé er látið í); s. loka inni ([~ in])
 pour s. hella; skenkja; láta streyma; senda út; hella út ([~ out]); streyma, renna; [when it rains it ~s] sjaldan er ein báran stök; [it ~s with rain] það er húðarigning; n. straumur; demba ([~ of rain])
@@ -1652,8 +1652,8 @@ pram n. flatbotnaður bátur, prammi
 prance s. hoppa upp (um viljuga hesta); vera mikill á lofti; spjátra sig
 prancer n. fjörugur (ólmur) hestur, gæðingur
 prandial l. dagverðar-
-prank n. leikur, galgopaskapur; hrekkur, gletta; ærsl, læti; s. skrautbúa, skreyta
-prankish l. glettinn; ærslafullur; pöróttur
+prank n. hrekkur, hrekkjabragð, gletta; leikur, galgopaskapur; ærsl, læti; s. skrautbúa, skreyta
+prankish l. hrekkjóttur; glettinn; ærslafullur; pöróttur
 prate s. masa, þvaðra; n. mas, hégómatal
 prater n. masari
 prattle s. masa; hjala (um börn); n. mas, hjal, bull

@@ -874,6 +874,8 @@ SKIP = frozenset(
         "Nestorian",
         "Nestorianism",
         "polyhedral",
+        "Kathmandu",
+        "lubricator",
     )
 )
 

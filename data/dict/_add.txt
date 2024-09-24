@@ -1470,13 +1470,13 @@ civilizational l. siðmenningar-, siðmenningarlegur, heimsmenningarlegur (sjá 
 spliff n. jóna, kannabisvindlingur (óforml.)
 doobie n. jóna, kannabisvindlingur (óforml.)
 narcolepsy n. drómasýki
-narcoleptic n. drómasjúkur; n. drómasjúkur einstaklingur
+narcoleptic n. drómasjúkur; n. drómasjúkur einstaklingur, drómasjúklingur
 autism n. einhverfa, sjálfhverfa (þroskaröskun)
 autism spectrum n. einhverfuróf
 autistic l. einhverfur, sjálfhverfur
 narcissism n. sjálfsást, sjálfsdýrkun, narsissismi
 narcissistic l. sjálfselskandi, sjálfsdýrkandi, narsissískur, narsissistískur
-narcissist n. narsissisti, e-r sem elskar eða dýrkar sjálfan sig
+narcissist n. narsissisti, e-r sem virkilega elskar eða dýrkar sjálfan sig
 personality disorder n. persónuleikaröskun
 Athens n. Aþena (borg í Grikklandi)
 Athenian l. aþenskur; n. Aþeningur
@@ -1537,7 +1537,7 @@ artwork n. listaverk, kúnstverk; myndskreyting(ar)
 California n. Kalifornía (ríki í suðvesturhluta Bandaríkjanna)
 documented l. skjalfestur; skjalaður; skráður; sjá %[document]%
 futhark n. germanskt rúnaletur
-asshole n. rassgat; (óforml.) skíthæll ([he is such an ~])
+asshole n. rassgat; (óforml.) skíthæll, leiðindamanneskja ([he is such an ~])
 anus n. endaþarmsop, rassgat
 machine gun n. hríðskotabyssa
 Maxim gun n. hríðskotabyssa frá 19. öld ([Whatever happens, we have got the ~, and they have not])
@@ -1789,7 +1789,7 @@ academia n. háskólasamfélagið, fræðasamfélagið; [he's in academia] hann 
 kilocalorie n. eitt þúsund hitaeiningar (sjá %[calorie]%)
 docent n. dósent
 PhD n. doktorsgráða, doktorspróf
-FRS n. stytt. á [Fellowship of the Royal Society]; meðlimur hins konunglega breska vísindafélags
+FRS n. meðlimur hins konunglega breska vísindafélags; stytt. á [Fellow of the Royal Society]
 neural network n. tauganet
 maddening l. ærandi
 nightmarish l. martraðarkenndur, martraðar-
@@ -5310,7 +5310,6 @@ caracal n. eyðimerkurgaupa
 recklessly ao. hirðuleysislega
 mannequin n. gína
 lubricator n. sleipiefni; sleipiefnisberi
-Aquarius n. vatnsberi (stjörnumerki)
 armor n. sjá %[armour]%
 make-up n. sjá %[makeup]%
 Kathmandu n. Katmandú
@@ -5319,3 +5318,17 @@ Algiers n. Algeirsborg
 Naples n. Napólí
 Johannesburg n. Jóhannesarborg
 Istanbul n. Istanbúl, Mikligarður (borg í Tyrklandi)
+Kurdistan n. Kúrdistan (svæði í Mið-Austurlöndum)
+Middle East n. Mið-Austurlönd
+Far East n. Austurlönd fjær
+breastplate n. brjóstplata, brynja sem ver bringuna
+Aquarius n. Vatnsberinn (stjörnumerki)
+Aries n. Hrúturinn (stjörnumerki)
+Taurus n. Nautið (stjörnumerki)
+Gemini n. Tvíburarnir (stjörnumerki)
+Cancer n. Krabbinn (stjörnumerki)
+Leo n. Ljónið (stjörnumerki)
+Virgo n. Meyjan (stjörnumerki)
+Libra n. Vogin (stjörnumerki)
+Scorpio n. Sporðdrekinn (stjörnumerki)
+Sagittarius n. Bogmaðurinn (stjörnumerki)
