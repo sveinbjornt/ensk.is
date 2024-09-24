@@ -529,7 +529,6 @@ coincidental
 maneuver
 pinpoint
 tabloid
-shipmate
 crewman
 mastermind
 fabled
@@ -587,7 +586,7 @@ overgrazing
 pinstripe
 legwork
 goalpost
-palagonite
+
 spaceman
 investigative
 nonparticipation
@@ -707,7 +706,6 @@ preemption
 escalate
 escalation
 disinformation
-broadsheet
 post-apocalyptic
 serviceman
 brinksmanship
@@ -823,6 +821,7 @@ dismissive
 dismissiveness
 nationhood
 sacral
+sacralize
 melodramatic
 melodramatics
 steadily
@@ -926,7 +925,6 @@ sidearm
 erstwhile
 cesspit
 epochal
-bloodless
 unknowable
 sketchiness
 graven
@@ -1202,7 +1200,6 @@ evolutionism
 faraway
 effacement
 outback
-ingestion
 synchrony
 subcontinent
 subcontinental
@@ -2030,8 +2027,6 @@ relentlessness
 phronetic
 natalist
 natalism
-antinatalist
-antinatalism
 scofflaw
 lackwit
 pumpernickel
@@ -2273,7 +2268,6 @@ large-scale
 phytoserology
 prefectural
 tester
-anthracis
 transmittal
 declassify
 cover-up
@@ -2897,7 +2891,6 @@ fallopian
 legalist
 specialness
 substrate
-sacralize
 mainline
 tentatively
 farmhand
@@ -3911,7 +3904,6 @@ satisfying
 unsatisfying
 dissatisfying
 frosting
-adiabatic
 diabatic
 mojo
 incel
@@ -3964,7 +3956,6 @@ invitee
 overhype
 tactile
 invasiveness
-sacrum
 sextile
 sideral
 armillary
@@ -4005,8 +3996,6 @@ grandnephew
 bebop
 Rastafarianism
 monochord
-ageism
-triage
 scalable
 cascading
 shimmy
@@ -4044,7 +4033,6 @@ hustle (endurskoða)
 hustling
 gerbil
 apprehensively
-automatization
 freak (endurskoða)
 flapper
 deconstructive
@@ -4174,3 +4162,9 @@ superfecta
 stenogram
 awakening
 pram (endurskoða)
+contranym
+visualizer
+marocain
+staging
+executed
+snapper

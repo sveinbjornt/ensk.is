@@ -876,6 +876,11 @@ SKIP = frozenset(
         "polyhedral",
         "Kathmandu",
         "lubricator",
+        "anthracis",
+        "autoionization",
+        "automatization",
+        "mythicize",
+        "palagonite",
     )
 )
 
