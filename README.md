@@ -30,9 +30,9 @@ presented here is based on the
 [much-improved 1932 edition](https://baekur.is/bok/000132498/0/2/Ensk-islenzk_ordabok)
 edited by Þorsteinn Þorsteinsson.
 
-The current incarnation of the dictionary has been heavily edited,
-updated and fixed in accordance with modern Icelandic orthography.
-Many additions have been made to bring the vocabulary into the 21st
+The current incarnation of the dictionary has been heavily edited and
+updated extensively to accord with modern Icelandic orthography.
+Many additions were made to bring the vocabulary into the 21st
 century. Various errors in the original text were also corrected.
 
 ## Contributing
