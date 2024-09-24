@@ -2067,7 +2067,7 @@ profess s. lýsa yfir; kannast við; játa (trú); segja; segjast ([~ oneself]);
 professed l. viðurkenndur, alkunnur
 professedly ao. sem kunnugt er; í orði kveðnu
 profession n. yfirlýsing; játning; staða, embætti, atvinna ([carpenter by ~, the military ~]); [the three learned ~s] guðfræði, lögfræði, læknisfræði
-professional l. embættislegur; fagmannlegur; [~ man] maður sem er í faglærðri stöðu (læknir, lögfræðingur, guðfræðingur); maður sem gerir e-a list eða íþrótt að ævistarfi sem atvinnu (andstæðan við [amateur])
+professional l. fagmannlegur, atvinnumannslegur; embættislegur; [~ man] maður sem er í faglærðri stöðu (læknir, lögfræðingur, guðfræðingur); maður sem gerir e-a list eða íþrótt að ævistarfi sem atvinnu (andstæðan við [amateur])
 professor n. játandi; kennari (einkum við háskóla), prófessor
 professorial l. kennara-, prófessora-; [the ~ chair] háskólakennaraembætti
 professorship n. kennaraembætti (við háskóla eða æðri skóla)

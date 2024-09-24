@@ -2033,8 +2033,11 @@ autobiographical l. sjálfsævisögulegur
 coconut n. kókoshneta
 leukemia n. hvítblæði
 underestimate s. vanmeta; vantelja
-underestimation n. vanmat
+underestimation n. vanmat; vantalning
 professionalism n. fagmennska, atvinnumennska
+professionally ao. fagmannlega, atvinnumannslega
+professionalize s. fagvæða
+professionalization n. fagvæðing
 chimp n. simpansi (stytt. á %[chimpanzee]%)
 horticulturalist n. sjá %[horticulturist]%
 watermelon n. vatnsmelóna (ávöxtur)
@@ -2045,11 +2048,11 @@ dreamlike l. draumkenndur, draumi líkur
 unscientific l. óvísindalegur
 unscientifically ao. óvísindalega
 lightbulb n. ljósapera
-demonic l. djöfullegur; [~ possession] andsetning, djöfulæði
+demonic l. djöfullegur, djöfla-; [~ possession] andsetning, djöfulæði
 megalomania n. mikilmennskubrjálæði, stórmennskubrjálæði
 megalomaniac n. e-r sem haldinn er mikilmennskubrjálæði, stórmennskubrjálæði
 megalomaniacal l. mikilmennskubrjálaður, stórmennskubrjálaður ([his ~ plan for world domination])
-hectare n. hektari (10 þús. fermetrar)
+hectare n. hektari (tíu þúsund fermetrar)
 albino n. albínói
 unmistakeable l. sjá %[unmistakable]%
 quinoa n. kínóa, hélunjólafræ
@@ -5346,8 +5349,10 @@ adiabatic l. innrænn; óverminn; jafnvarma
 palagonite n. mógler, basaltgler
 anthracis n. miltisbrandsbaktería
 mythicize s. gera að goðsögn
-mythologize s. gera að goðsögn
+mythologize s. gera að goðsögn, gera goðsagnarkenndan
 autoionization n. sjálfsjónun
 dissociation n. hugrof, klofnun, persónuleikarof (í sálfræði); aðgreining
 plexus n. flétta, flækja
 homeostasis n. samvægi
+integration n. heildun; blöndun, innlimun, aðlögun; samþætting, sameining
+wellspring n. (óþrjótandi) uppspretta, uppsprettulind, brunnur
