@@ -53,7 +53,7 @@ from fastapi.responses import (
 import orjson
 
 from db import EnskDatabase
-from util import human_size, perc, is_ascii
+from util import icelandic_human_size, perc, is_ascii
 from dict import read_wordlist
 
 
@@ -305,9 +305,9 @@ async def page(request: Request, n):
 async def files(request: Request):
     """Page containing download links to data files."""
 
-    sqlite_size = human_size("static/files/ensk_dict.db.zip")
-    csv_size = human_size("static/files/ensk_dict.csv.zip")
-    text_size = human_size("static/files/ensk_dict.txt.zip")
+    sqlite_size = icelandic_human_size("static/files/ensk_dict.db.zip")
+    csv_size = icelandic_human_size("static/files/ensk_dict.csv.zip")
+    text_size = icelandic_human_size("static/files/ensk_dict.txt.zip")
 
     return TemplateResponse(
         "files.html",

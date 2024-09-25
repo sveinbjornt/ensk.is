@@ -90,6 +90,12 @@ def human_size(path: str) -> str:
     return f"{size:.1f} TB"
 
 
+def icelandic_human_size(path: str) -> str:
+    """Convert byte size to human readable string in Icelandic."""
+    s = human_size(path)
+    return s.replace(".", ",")
+
+
 def perc(a, b, icelandic=False) -> str:
     """Calculate percentage of a/b and return as string."""
     s = f"{100 * a / b:.1f}%"
