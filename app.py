@@ -50,6 +50,7 @@ from fastapi.responses import (
     RedirectResponse,
     JSONResponse as FastAPIJSONResponse,
 )
+from starlette.middleware.base import BaseHTTPMiddleware
 import orjson
 
 from db import EnskDatabase
@@ -103,6 +104,17 @@ class CustomJSONResponse(FastAPIJSONResponse):
             orjson is not None
         ), "orjson must be installed to use CustomJSONResponse class"
         return orjson.dumps(content)
+
+
+# Create a middleware class
+class AddCustomHeaderMiddleware(BaseHTTPMiddleware):
+    async def dispatch(self, request: Request, call_next):
+        response = await call_next(request)
+        response.headers["Content-Language"] = "is, en"
+        return response
+
+
+app.add_middleware(AddCustomHeaderMiddleware)
 
 
 JSONResponse = CustomJSONResponse
