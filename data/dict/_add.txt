@@ -79,6 +79,7 @@ neo-nazi n. nýnasisti
 neo-nazism n. nýnasismi
 fascism n. fasismi
 fascist n. fasisti
+fascistic l. fasískur, fasistalegur
 telephony n. símtækni
 keyboard n. lyklaborð
 touch screen n. snertiskjár
@@ -467,7 +468,7 @@ doppelganger n. tvífari
 citizen n. borgari; ríkisborgari
 citizenship n. ríkisborgararéttur; ríkisfang
 donate s. gefa
-majordomo n. ráðsmaður, yfirmaður; bústjóri
+majordomo n. ráðsmaður, bryti, yfirmaður; bústjóri
 operating system n. stýrikerfi
 user interface n. notendaviðmót, notendaskil
 pull request n. togbeiðni, dráttarbeiðni
@@ -692,6 +693,7 @@ Estonian l. eistneskur, frá Eistlandi; n. Eisti, Eistlendingur; eistneska (tung
 Eswatini n. Svasíland
 Ethiopia n. Eþíópía
 Falkland Islands n. Falklandseyjar
+Falklands n. Falklandseyjar
 Faroe Islands n. Færeyjar
 Faroese l. færeyskur, úr Færeyjum; n. Færeyingur; færeyska (tungumál)
 Fiji n. Fídjíeyjar
@@ -701,7 +703,9 @@ France n. Frakkland
 French Guiana n. Franska Gvæjana
 French Polynesia n. Franska Pólýnesía
 Gabon n. Gabon
+Gabonese l. gabonskur; n. Gaboni
 Gambia n. Gambía
+Gambian l. gambískur; n. Gambi, Gambíumaður
 Georgia n. Georgía
 Georgian l. georgískur (frá landinu Georgíu); georgískur (arkítektúr í Bretlandi á 18. öld og fyrri hluta 19. aldar, kennt við konunga þess tíma); n. Georgíumaður; georgíska
 Germany n. Þýskaland
@@ -843,6 +847,8 @@ South Sudan n. Suður-Súdan
 Sri Lanka n. Srí Lanka
 Sudan n. Súdan
 Sudanese l. súdanskur
+South Sudan n. Suður-Súdan
+South Sudanese l. suðursúdanskur; n. Suður-Súdani
 Suriname n. Súrínam
 Svalbard n. Svalbarði
 Swaziland n. Svasíland
@@ -1065,15 +1071,15 @@ viral l. veiru-
 technique n. aðferð, tækni; [parenting ~s] uppeldisaðferðir
 threesome n. þremenningur, trekantur
 vitamin n. vítamín, fjörefni
-swinger n. e-r sem stundar makaskipti
+swinger n. e-r sem stundar makaskipti, makaskiptir
 timer n. tímamælir, skeiðklukka
 timeline n. tímalína
 toxic l. eitraður
-toxicity n. eiturvirkni, eiturhrif
+toxicity n. eiturvirkni, eiturhrif, eitrun
 someone n. einhver
 safari n. (dýra)skoðunarferð
 rugby n. ruðningur (ensk íþrótt)
-blackjack n. spilið 21; kylfa
+blackjack n. spilið tuttugu og einn; kylfa
 bunny n. (ung) kanína
 capitol n. höfuðborg; musteri
 dystopia n. dystópía; skelfilegt, hræðilegt ríki; andstæðan af fyrirmyndarríki (sjá %[utopia]%)
@@ -1338,7 +1344,7 @@ teleprocessing n. fjarvinnsla
 processing n. vinnsla (sjá %[process]%)
 championship n. mót, (meistara)keppni (sjá %[champion]%)
 unavailable n. ótiltækur, ófáanlegur, ekki í boði
-computational l. tölvu-, tölvunar-; reikni-; [~ linguistics] tölvumálvísindi; [~ power] reiknikraftur
+computational l. reikni-, reiknifræðilegur, reiknilegur ; [~ linguistics] reiknileg málvísindi; [~ power] reikniafl
 lich n. lík; e.k. uppvakningur
 interpreted l. túlkaður, þýddur, skýrður (sjá %[interpret]%)
 bubonic l. nárakýlis- (sjá %[bubo]%); [~ plague] kýlapest (svarti dauði)
@@ -1835,7 +1841,7 @@ individualist n. einstaklingshyggjumaður, einstaklingshyggjusinni
 monarchist n. konungssinni, konungsveldissinni, einveldissinni
 monarchism n. konungsstefna, konungsveldisstefna; einveldisstefna (sjá %[absolute monarchy]%)
 absolute monarch n. einvaldur
-absolute monarchy n. einveldisríki, ríki þar sem konungur er einvaldur og öllu ræður
+absolute monarchy n. einveldi, einveldisríki, ríki þar sem konungur er einvaldur og öllu ræður
 ideological l. hugmyndafræðilegur, hugmyndafræði-
 ideologically ao. hugmyndafræðilega
 unideological l. óhugmyndafræðilegur
@@ -2214,8 +2220,8 @@ liberally ao. frjálslega
 Carthage n. Karþagó (borg í Norður-Afríku til forna)
 Carthaginian l. karþagóskur; n. Karþagómaður
 speechwriter n. ræðuhöfundur
-televangelism n. sjónvarpspredikun
-televangelist n. sjónvarpspredikari
+televangelism n. sjónvarpspredikun (samsett úr %[television]% og %[evangelism]%)
+televangelist n. sjónvarpspredikari (samsett úr %[television]% og %[evangelist]%)
 unprofessional l. ófagmannlegur
 trombonist n. trombónuleikari
 songwriter n. lagasmiður, lagahöfundur
@@ -5351,8 +5357,63 @@ anthracis n. miltisbrandsbaktería
 mythicize s. gera að goðsögn
 mythologize s. gera að goðsögn, gera goðsagnarkenndan
 autoionization n. sjálfsjónun
+deionize s. afjóna
+deionization n. afjónun
 dissociation n. hugrof, klofnun, persónuleikarof (í sálfræði); aðgreining
 plexus n. flétta, flækja
 homeostasis n. samvægi
 integration n. heildun; blöndun, innlimun, aðlögun; samþætting, sameining
-wellspring n. (óþrjótandi) uppspretta, uppsprettulind, brunnur
+wellspring n. (óþrjótandi) uppspretta, brunnur, uppsprettulind
+mammogram n. brjóstamynd
+colonisation n. sjá %[colonization]%
+misandry n. karlhatur, karlfyrirlitning
+misandrist n. karlhatari, kvenremba
+gender studies n. ft. kynjafræði
+antifeminist n. andfemínisti; l. andfemínista-, andfemínískur
+schizoid l. hugkleyfur; n. kleyfhugi
+polestar n. pólstjarna
+propagandistic l. áróðurskenndur, áróðurslegur
+propagandistically ao. áróðurslega
+catnip n. kattarnípa, kattarmynta
+catmint n. kattarnípa, kattarmynta
+cha n. te
+honeysuckle n. toppar, geitatoppar (ættkvísl runna)
+second-class l. í öðrum flokki; annars flokks
+redesign s. endurhanna; n. endurhönnun (sjá %[design]%)
+redesigned l. endurhannaður
+coitus n. kynmök, samfarir
+coital l. kynmaka-, samfara-
+file format n. skjalasnið
+steerable l. stýranlegur
+diaspora n. dreifing eða útbreiðsla þjóðar utan heimalandsins
+acupuncture n. nálastungulækningar
+arduousness n. örðugleiki, torveldni
+coziness n. huggulegheit, notalegheit
+Kosovo n. Kósóvó
+Kosovar l. kósovóskur; n. Kósovói
+Kosovan l. kósovóskur; n. Kósovói
+Burmese l. búrmanskur
+East Timor n. Austur-Tímor
+Cabo Verde n. Grænhöfðaeyjar
+Bosnian l. bosnískur; n. Bosníumaður
+Herzegovina n. Hersegóvína
+Salvadoran l. salvadorskur; n. Salvadori
+filtered l. síaður
+unfiltered l. ósíaður
+demanding l. krefjandi
+undemanding l. ókrefjandi, ekki krefjandi
+tangerine n. tangerína, mandarína, klementína
+math n. stærðfræði (stytt. á %[mathematics]%)
+maths n. stærðfræði (stytt. á %[mathematics]%)
+ovum n. egg
+atherosclerosis n. fituhrörnun, æðakölkun
+motorcyclist n. mótorhjólamaður
+rubella n. rauðir hundar (sjúkdómur)
+overprotective l. ofverndandi, sem verndar of mikið
+overprotect s. ofvernda
+overprotection n. ofvernd, ofverndun
+Carolingian l. karólínskur, Karlunga- (af franskri konungsætt); n. Karlungur; karólínskt letur
+Merovingian n. Mervíkingur (af franskri konungsætt); l. mervíkings-
+third-rate l. þriðja flokks, afar lélegur
+cultivatable l. ræktanlegur
+uncultivatable l. óræktanlegur

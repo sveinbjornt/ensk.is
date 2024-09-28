@@ -670,7 +670,6 @@ variant
 conveyer
 offense
 nevermore
-diaspora
 socioeconomic
 resettlement
 interrogator
@@ -1665,7 +1664,6 @@ trainer
 techno
 mambo
 toner
-math
 outreach
 upcoming
 gamma
@@ -1684,7 +1682,6 @@ tidbit
 relive
 bogus
 maverick
-
 judgemental
 fetishization
 bog-standard
@@ -2229,11 +2226,9 @@ mappable
 willy-nilly
 directorship
 commoditization
-coziness
 ensemble
 demonym
 patriciate
-arduousness
 typification
 statist
 syndicalism
@@ -2249,7 +2244,6 @@ animator
 compressor
 janitorial
 voluntarily
-redesign
 developmentalist
 inaccessibility
 reenactment
@@ -3016,8 +3010,6 @@ upper-class
 lower-class
 horsecab
 life-long
-cultivatable
-uncultivatable
 intramural
 unfriendliness
 overdone
@@ -4079,7 +4071,6 @@ phish
 phishing
 trailblazer
 drool
-propagandistic
 erg
 futural
 reoccur
@@ -4166,3 +4157,32 @@ staging
 executed
 snapper
 integrate (þarf virkilega að endurskoða)
+solar plexus
+sigma
+unregulated
+polysemeia
+embolism (endurskoða)
+overwhelmed
+tomboyish
+yashmak
+tastemaker
+crummy
+formatting
+reformat
+aligned
+misaligned
+unaligned
+exfiltrate
+mislabel
+mislabelled
+geezer
+sentience
+relatable
+correlatable
+unrelatable
+fallback
+kitch
+uptick
+predicted
+unpredicted
+sobering

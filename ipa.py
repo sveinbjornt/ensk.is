@@ -881,6 +881,23 @@ SKIP = frozenset(
         "automatization",
         "mythicize",
         "palagonite",
+        "deionization",
+        "deionize",
+        "professionalization",
+        "professionalize",
+        "Falklands",
+        "Kosovan",
+        "Kosovar",
+        "Kosovo",
+        "propagandistic",
+        "propagandistically",
+        "Salvadoran",
+        "second-class",
+        "Carolingian",
+        "cultivatable",
+        "Merovingian",
+        "overprotect",
+        "uncultivatable",
     )
 )
 

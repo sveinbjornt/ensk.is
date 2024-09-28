@@ -956,20 +956,20 @@ mishearing n. misheyrn
 misimprove s. nota (verja) ranglega; skemma
 misinform s. segja skakkt til, segja (e-m) ranglega frá
 misintelligence n. röng frásögn; misskilningur; ágreiningur, missætti
-misinterpret s. þýða skakkt
-misinterpretation n. misþýðing
+misinterpret s. þýða skakkt; misskilja, leggja rangan skilning í
+misinterpretation n. misþýðing; misskilningur
 misjudge s. dæma ranglega, leggja rangan dóm á
 mislay s. leggja á rangan (eða óvísan) stað; týna
-mislead s. leiða afvega, villa
+mislead s. leiða afvega, villa fyrir
 misleading l. villandi ([~ expressions])
 mislike s. mislíka
 mismanage s. stýra (stjórna) illa
-mismanagement n. ill stjórn
+mismanagement n. ill stjórn, óstjórn
 misname s. rangnefna
 misnomer n. rangnefni
 misogamist n. hjónabandshatari
-misogynist n. kvenhatari
-misogyny n. kvenhatur
+misogynist n. kvenhatari, karlremba
+misogyny n. kvenhatur, kvenfyrirlitning, karlremba
 misplace s. setja á rangan stað; veita óverðugum e-ð
 misprint s. rangprenta; n. prentvilla
 misprision n. vanræksla; yfirhylming ([~ of treason])
