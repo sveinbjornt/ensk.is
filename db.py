@@ -159,10 +159,18 @@ class EnskDatabase(object):
         )
         conn.commit()
 
-    def _consume(self, cursor: sqlite3.Cursor) -> List[Dict]:
+    def read_metadata(self) -> dict[str, str]:
+        """Read all metadata entries from the database."""
+        conn = self.conn()
+        selected = conn.cursor().execute("SELECT * FROM metadata")
+        res = self._consume(selected, order=False)
+        return {row["key"]: row["value"] for row in res}
+
+    def _consume(self, cursor: sqlite3.Cursor, order: bool = True) -> List[Dict]:
         """Consume cursor and return list of rows."""
         res = list(cursor)  # Consume generator into list
-        res.sort(key=lambda x: x["word"].lower())
+        if order:
+            res.sort(key=lambda x: x["word"].lower())
         return res
 
     def read_all_entries(self) -> List[Dict]:

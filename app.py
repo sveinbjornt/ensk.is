@@ -41,6 +41,7 @@ from typing import List, Dict, Tuple, Any, Union
 import re
 import aiofiles
 from functools import wraps
+from datetime import datetime
 
 from fastapi import FastAPI, Request, HTTPException
 from fastapi.templating import Jinja2Templates
@@ -85,7 +86,7 @@ additions = [a["word"] for a in e.read_all_additions()]
 num_additions = len(additions)
 nonascii = [e["word"] for e in entries if not is_ascii(e["word"])]
 num_nonascii = len(nonascii)
-
+metadata = e.read_metadata()
 
 CATEGORIES = read_wordlist("data/catwords.txt")
 
@@ -321,6 +322,9 @@ async def files(request: Request):
     csv_size = icelandic_human_size("static/files/ensk_dict.csv.zip")
     text_size = icelandic_human_size("static/files/ensk_dict.txt.zip")
 
+    date_object = datetime.fromisoformat(metadata.get("generation_date", ""))
+    formatted_date = date_object.strftime("%d/%m/%Y")
+
     return TemplateResponse(
         "files.html",
         {
@@ -329,6 +333,7 @@ async def files(request: Request):
             "sqlite_size": sqlite_size,
             "csv_size": csv_size,
             "text_size": text_size,
+            "last_updated": formatted_date,
         },
     )
 
@@ -593,6 +598,12 @@ async def robots(request: Request) -> Response:
 
 
 # API endpoints
+
+
+@app.get("/api/metadata")
+async def api_metadata(request: Request) -> JSONResponse:
+    """Return metadata about the dictionary."""
+    return JSONResponse(content=metadata)
 
 
 @app.get("/api/suggest/{q}")
