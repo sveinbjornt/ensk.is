@@ -898,6 +898,8 @@ SKIP = frozenset(
         "Merovingian",
         "overprotect",
         "uncultivatable",
+        "neurogram",
+        "urogram",
     )
 )
 
