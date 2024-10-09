@@ -802,7 +802,7 @@ grotto n. hellir
 ground n. grund; jörð, jarðvegur; landeign; lóð; grundvöllur; undirlitur ([~ colour]); ástæða, orsök; sjávarbotn, grunnur; ft. grútur (undan lýsi); kaffikorgur; [to break ~] losa akkerin frá botninum; [to take the ~] stranda, standa (um skip); [to keep (hold, maintain, stand) one's ~] halda (vel) stöðunni, standast; [to gain ~] færast nær; breiðast út; verða ágengt; [to feel the ~] kenna botns; [to give (lose) ~] víkja, hörfa undan; [to fall to the ~] verða að engu, ónýtast; [to stand ~] standa fastur fyrir, víkja ekki, halda velli; [on the ~ of ill-health] sökum vanheilsu; s. grundvalla ([self-discipline is ~ed on self-knowledge]); draga (undirlit) á; kenna e-m undirstöðuatriðin (í e-i grein); setja (leggja, koma, falla) niður á jörðina; standa á grynningum; [well ~ed] sem hefur við góð rök að styðjast; [well ~ed in Latin] vel heima í latinu
 groundage n. hafnargjald
 ground bait n. beita, agn (sem liggur á botninum)
-ground floor n. lægsta gólf
+ground floor n. jarðhæð; lægsta gólf
 groundless l. ástæðulaus
 groundlessness n. ástæðuleysi
 groundling n. grunnungur (fisktegund)
@@ -810,7 +810,7 @@ ground rent n. lóðarleiga
 groundsel n. undirstöðustokkur (byggingar); brandbikar, krossgras (jurt)
 groundsill n. undirstöðustokkur (byggingar)
 groundswell n. undiralda, ylgja
-groundwork n. undirstaða, grundvöllur
+groundwork n. undirstaða, grundvöllur; undirbúningur, grunnvinna
 groundworm n. ánamaðkur
 group n. hópur, þyrping; hópmynd; s. hópa; raða niður; flokka ([~ together]); hópast
 grouse n. orrafuglar (rjúpur, akurhænsni o.fl.); s. skjóta rjúpur
