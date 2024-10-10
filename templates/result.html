@@ -21,7 +21,7 @@
 {% endif %}
 
 {% for r in results %}
-<div class="result grid-container">
+<div class="result grid-container" onclick="location.href='/item/{{ r.word }}'">
 
     <div class="itemlinks">
         <a href="/item/{{ r.word }}" title="Skoða færsluna „{{ r.word }}“">
@@ -35,7 +35,7 @@
                 {{ r.word }}
             </a>
         </strong>
-        (<a href="{{ r.audio_uk }}" onClick="return play(this);" title="Spila hljóðupptöku af framburði">
+        (<a href="{{ r.audio_uk }}" onClick="return play(this); return;" title="Spila hljóðupptöku af framburði">
             <img src="/static/img/audio.svg" alt="Spila">
             {{ r.ipa_uk }}
         </a>)

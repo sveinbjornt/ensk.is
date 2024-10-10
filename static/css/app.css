@@ -5,6 +5,7 @@ body {
         "Fira Sans", "Droid Sans", "Helvetica Neue",
         sans-serif;
     background-color: #f7f7f7;
+    color: #111;
 }
 
 .menu {
@@ -58,6 +59,8 @@ div.result {
 
 div.result:hover {
     background-color: #f9f9f9;
+    cursor: pointer;
+    border: 1px solid #ddd;
 }
 
 div.result a {
@@ -103,14 +106,14 @@ div.itemslinks>svg {
 }
 
 a.result_link {
-    color: black;
+    color: #111;
 }
 
 .aboutimg {
-    width:25%;
-    float:right;
-    margin-left:20px;
-    margin-bottom:20px;
+    width: 25%;
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 20px;
 }
 
 #wordcats td a, #general_stats td a {
