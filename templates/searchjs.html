@@ -1,9 +1,9 @@
 <script>
     function ajax_get(url, callback) {
+        // Make an AJAX GET request
         var xmlhttp = new XMLHttpRequest();
         xmlhttp.onreadystatechange = function () {
             if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
-                //console.log('responseText:' + xmlhttp.responseText);
                 try {
                     var data = JSON.parse(xmlhttp.responseText);
                 } catch (err) {
@@ -18,9 +18,8 @@
     }
 
     function caret_to_end(end) {
+        // Move caret to end of input field
         var len = end.value.length;
-
-        // Mostly for Web Browsers
         if (end.setSelectionRange) {
             end.focus();
             end.setSelectionRange(len, len);
@@ -34,6 +33,7 @@
     }
 
     function play(elm) {
+        // Play audio file
         new Audio(elm.href).play();
         return false;
     }
@@ -42,8 +42,8 @@
         // Focus on search input field
         var elm = document.getElementById("q");
         elm.focus();
+        // Move caret to end of input field
         caret_to_end(elm);
-
         // Enable autocompletion suggestions
         new autoComplete({
             selector: 'input[name="q"]',
@@ -53,7 +53,6 @@
                 ajax_get('/api/suggest/' + qval, function (data) { response(data); });
             }
         });
-
     };
 </script>
 <script src="/static/js/autocomplete.min.js"></script>
