@@ -1410,6 +1410,7 @@ prementioned l. áðurnefndur, fyrrnefndur
 neurologist n. taugalæknir, taugasérfræðingur
 neurology n. taugafræði, taugasjúkdómafræði, taugalæknisfræði
 neurological l. tauga-, taugafræðilegur; [~ damage] taugaskemmdir
+neurologically ao. taugafræðilega
 demiurge n. heimssmiður (í kerfi Gnostika); undirgoð, undirguð
 superman n. ofurmaður, ofurmenni; yfirmenni (æðri tegund manns)
 icon n. táknmynd, tákn, íkon; líkneski; helgimynd, dýrlingamynd
@@ -2541,7 +2542,8 @@ wanderlust n. ferðaþrá, flökkuþrá
 rebirth n. endurfæðing
 belltower n. klukkuturn
 marshland n. fen, fenjasvæði, votlendi, mýrlendi
-ultraviolent l. gríðarlega ofbeldisfullur
+ultraviolent l. grimmilega ofbeldisfullur; ofbeldisfullur sér til skemmtunar
+ultraviolence n. grimmilegt ofbeldi; ofbeldi sér til skemmtunar
 stubbornness n. þrjóska, þvermóðska
 polytheistic l. fjölgyðistrúarlegur, fjölgyðis- ([~ religion])
 haircut n. klipping, hárgreiðsla
@@ -2865,6 +2867,7 @@ microbiology n. örverufræði
 microbiological l. örverufræðilegur
 microbiologist n. örverufræðingur
 defoliate s. aflaufga
+defoliant n. aflaufgunarefni; aflaufgunartæki
 desertification n. landeyðing, eyðimerkurmyndun
 superhero n. ofurhetja
 optometer n. sjónmælir
@@ -5442,4 +5445,39 @@ barracks n. ft. hermannaskálar, hermannabústaðir
 pellagra n. húðkröm
 readability n. læsileiki
 orthodontist n. tannréttir
-glottal l. raddbanda-
+glottal l. raddbanda-; [~ stop] raddbandalokhljóð
+decentralize s. dreifa (valdi, stjórnsýslu, rekstri)
+decentralized l. dreifður, valddreifður, ómiðstýrður, ekki miðstýrður ([~ government, system])
+centralized l. miðstýrður, miðlægur ([~ government, system])
+roadworthiness n. sá eiginleiki að vera hæfur til nota á vegi (sjá %[roadworthy]%)
+alright uh. allt í lagi! ([all right])
+root canal n. rótargöng
+marmite n. marmít (e.k. breskt álegg)
+polygyny n. fjölkvæni
+polygynous l. fjölkvæntur
+punisher n. refsari
+half-brother n. hálfbróðir
+half-sister n. hálfsystir
+kinfolk n. skyldmenni, ættingjar, frændfólk
+percentile n. hundraðshlutamark, hundraðsmark
+acidification n. súrnun, sýring
+Tasmanian l. tasmanískur; n. Tasmaníubúi, Tasmaníumaður; [~ wolf] tasmaníuúlfur
+ethnocentric l. þjóðhverfur
+isolationism n. einangrunarstefna
+isolationist l. einangrunarsinni
+interregional l. millisvæða-
+vibe n. bylgja (stytt. á %[vibration]%); stemning, andrúmsloft
+awkwardly ao. klaufalega, klunnalega, ófimlega; afkáralega; óþægilega
+egocentricity n. sjálfhverfa, sjálflægni
+infanticidal l. barnamorðs-
+dactylography n. fingrafarafræði
+landline n. landlína, jarðlína
+enthralling l. töfrandi, gagntakandi
+hindquarters n. ft. afturlhuti (líkamans)
+salami n. (ítölsk) spægipylsa
+overstimulate s. oförva
+overstimulated l. oförvaður
+overstimulation n. oförvun
+unicameral l. einnar deildar; með eina þingdeild ([~ legislature])
+unicameralism l. sú stefna að hafa löggjafarþing í einni deild
+ultraviolet l. útfjólublár, útblár; ([~ light]) útfjólublátt ljós; n. útblámi

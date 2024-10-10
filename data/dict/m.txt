@@ -806,7 +806,7 @@ millionaire n. milljónamæringur, auðkýfingur
 millionary l. sem samanstendur af milljónum; milljónasti
 millionth l. milljónasti
 milt n. milti; svil (í karlfiski); s. frjóvga (hrogn kvenfisksins)
-milter n. svilfiskur (gagnstætt [spawner])
+milter n. svilfiskur (gagnstætt %[spawner]%)
 mime n. eftirhermuleikur; skrípaleikari, eftirherma, loddari; s. leika með bendingum og pati; herma (líkja) eftir
 mimetic l. eftirlíkjandi
 mimic l. eftirlíkjandi; gerður eftir öðru, stældur; n. eftirherma; hermikráka; s. líkja (herma) eftir; stæla; [she ~ked his manner of speaking] hermdi eftir talshætti hans

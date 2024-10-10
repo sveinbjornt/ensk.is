@@ -2,7 +2,7 @@ nab s. grípa, hrifsa
 nabob n. landstjóri (á Indlandi); auðkýfingur, ríkisbubbi
 nacre n. perlumóðir
 nacreous l. perlumóður-
-nadir n. ilpunktur, lágpunktur (gagnstætt [zenith])
+nadir n. ilpunktur, lágpunktur (gagnstætt %[zenith]%)
 nag n. lítill reiðhestur
 nag s. jagast (við e-n [at])
 naggy l. jögunarsamur
@@ -100,7 +100,7 @@ navigation n. sigling(ar); siglingafræði; sjómennska
 navigator n. siglingamaður; sjómaður
 navvy n. járnbrautarverkamaður; síkisgrafari
 navy n. floti, herskipastóll; [~ bill] flotavíxill; [~ court] sjóréttur
-nay ao. nei (nú vanalega [no]); n. nei, neikvæði ([my ~ is just as good as your aye]); (oft haft til áherslu) já, jafnvel, meira að segja: [I think, ~ I am sure]
+nay ao. nei (nú vanalega %[no]%); n. nei, neikvæði ([my ~ is just as good as your aye]); (oft haft til áherslu) já, jafnvel, meira að segja ([I think, ~ I am sure])
 neap l. smár; n. smár straumur, smástreymi ([~ tide])
 neaped l. fjaraður uppi (um skip)
 near l. nálægur; nákominn; náinn, ná-; vinstri (um hesta, [the ~ fore leg]); spar, sparsamur, nískur; [~ escape] rétt slapp; [the ~est way] beinasta leiðin; [~ is my coat, but ~er is my skin] nær er skinnið en skyrtan; ao. nálægt, nærri, nær; nálega; s. nálgast, koma nær; [~ related] náskyldur

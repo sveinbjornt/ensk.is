@@ -6,7 +6,7 @@ zealotry n. ákafi, ofsi; vandlætingasemi
 zealous l. ákafur
 zealousness n. ákafi, ákefð
 zebra n. sebrahestur
-zenith n. himinhvirfill; hápunktur, hæsta stig (gagnstætt [nadir])
+zenith n. himinhvirfill; hápunktur, hæsta stig (gagnstætt %[nadir]%)
 zephyr n. vestanvindur, bliður andvari; [~ worsted, ~ yarn] siffurgarn, ísaumsgarn
 zero n. núll; núllpunktur; frostmark (á hitamæli)
 zest n. ánægjutilfinning; kryddbragð; nautn; s. krydda, setja kryddbragð á ([~ wine])

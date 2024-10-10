@@ -15,7 +15,7 @@ yaw s. rugga; fara út af réttri leið (um skip)
 yawl n. skipsbátur; kæna; s. öskra, ýlfra; n. ýlfur
 yawn s. geispa; gapa, gína; opnast; n. geispi; gap
 ye fn. þið, þér ([how d'ye do? what d'ye think])
-yea ao. já (gagnstætt [nay])
+yea ao. já (gagnstætt %[nay]%)
 yean s. bera (um geitur og ær)
 yeanling n. lamb; kiðlingur
 year n. ár; [he was (up) in ~s] farinn að eldast; [~ by ~] ár eftir ár, ár frá ári; [of recent ~s] á seinni árum; [at this time of the ~] á þessum árstíma; [last ~] í fyrra; [young for his ~s] ungur eftir aldri
@@ -36,7 +36,7 @@ yelp s. gjamma, gelta; gagga; n. gjamm, gelt; gagg
 yeoman n. sjálfseignarbóndi; hirðþjónn; [~ of the guard] lífvörður
 yeomanry n. sjálfseignarbændur; riddaraliðssveit á Bretlandi
 yerk s. slá (um hesta)
-yes ao. já (gagnstætt [no])
+yes ao. já (gagnstætt %[no]%)
 yester l. sem var í gær
 yesterday n. gærdagur(inn), dagurinn í gær; ao. í gær
 yesterday night n. kvöldið í gær; n. í nótt (er var); í gærkvöldi

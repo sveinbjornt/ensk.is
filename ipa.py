@@ -900,6 +900,13 @@ SKIP = frozenset(
         "uncultivatable",
         "neurogram",
         "urogram",
+        "dactylography",
+        "infanticidal",
+        "polygynous",
+        "punisher",
+        "roadworthiness",
+        "unicameralism",
+        "Tasmanian",
     )
 )
 

@@ -390,7 +390,7 @@ whichever fn. hver sem
 whichsoever fn. hver sem
 whiff n. blástur (reykjarstroka) út úr munninum; gustur; kolategund; [he took a ~ of his pipe] reykti einn reyk úr pípunni sinni; s. blása (púa) fram úr sér
 whiffle s. flögra, blakta; vera á reiki (í skoðunum)
-Whig n. maður úr flokki Vigga (gagnstætt Tory)
+Whig n. maður úr flokki Vigga (gagnstætt %[Tory]%)
 Whiggery n. Viggaskoðanir eða kenningar
 Whiggish l. sem lýtur að Viggum eða kenningum þeirra
 Whiggism n. stjórnarstefna Vigga
