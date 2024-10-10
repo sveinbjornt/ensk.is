@@ -568,7 +568,7 @@ motivational l. hvata-, hvatningar-; [~ speaker] hvatningarræðumaður
 disturbed l. truflaður, ónáðaður; raskaður
 immunology n. ónæmisfræði
 aluminium n. ál
-aluminum n. ál (Band.)
+aluminum n. ál (BNA)
 hardwood n. harðviður; gegnheill viður; l. harðviðar-
 vanilla n. vanilla; l. vanillu-
 orgasm n. fullnæging
@@ -1045,6 +1045,7 @@ bibliographical l. bókfræðilegur, bókfræði-
 motherboard n. móðurborð (í vélbúnaði)
 pasta n. pasta (deig gert úr hveiti)
 spaghetti n. spagettí, hveitilengjur (tegund af %[pasta]%)
+cannelloni n. e.k. pasta
 acrylic l. akrýl-
 allergy n. ofnæmi
 allergen n. ofnæmisvaldur
@@ -1533,7 +1534,7 @@ racist n. kynþáttahatari, rasisti; l. kynþáttahatandi, rasískur, kynþátta
 euro n. evra (evrópskur gjaldmiðill, €)
 petite l. fíngerður, smágerður, smávaxinn, lítill, lítilvaxinn
 volleyball n. blak (knattleikur)
-motel n. vegahótel (Bandarískt, samsett úr %[motor]% og %[hotel]%)
+motel n. vegahótel (BNA, samsett úr %[motor]% og %[hotel]%)
 combo n. stytt. á %[combination]%
 stolen l. stolinn; sjá %[steal]%
 specialized l. sérhæfður; sjá %[specialize]%
@@ -1596,7 +1597,7 @@ gadget n. græja, tæki
 gadgetry n. græjur, tæki
 extremist n. öfgamaður, öfgasinni; l. öfga-, öfgafullur
 extremism n. öfgastefna, öfgar
-limey n. Englendingur, Breti (Band. slangur)
+limey n. Englendingur, Breti (BNA slangur)
 paleontology n. steingervingafræði, fornlíffræði
 paleontologist n. steingervingafræðingur
 paleontological l. steingervingafræðilegur
@@ -1940,7 +1941,7 @@ sine qua non l. nauðsynlegur (úr latínu, bókstf. án hvers ekki)
 overpowering l. yfirþyrmandi
 doorknob n. hurðarhúnn
 firearm n. skotvopn
-soccer n. fótbolti (Band.)
+soccer n. fótbolti (BNA)
 cheekbone n. kinnbein
 Prussia n. Prússland
 hyperinflation n. óðaverðbólga
@@ -2845,8 +2846,8 @@ Paris n. París (höfuðborg Frakklands); grísk goðsagnapersóna
 lampshade n. lampaskermur
 undefeated l. ósigraður
 acquihire n. þegar fyrirtæki er keypt til þess að komast yfir starfsmenn þess frekar en vörur og þjónustur (samsetning af %[acquisition]% og %[hire]%)
-gerrymander s. hagræða kjördæmum (Band.)
-gerrymandering n. kjördæmahagræðing (Band.)
+gerrymander s. hagræða kjördæmum (BNA)
+gerrymandering n. kjördæmahagræðing (BNA)
 Europeanize s. evrópuvæða
 Europeanization n. evrópuvæðing
 Indo-European l. indóevrópskur; n. Indóevrópumaður
@@ -5412,7 +5413,7 @@ ovum n. egg
 atherosclerosis n. fituhrörnun, æðakölkun
 motorcyclist n. mótorhjólamaður
 rubella n. rauðir hundar (sjúkdómur)
-overprotective l. ofverndandi, sem verndar of mikið
+overprotective l. ofverndandi, sem verndar óhóflega
 overprotect s. ofvernda
 overprotected l. ofverndaður
 overprotection n. ofvernd, ofverndun
@@ -5455,7 +5456,7 @@ root canal n. rótargöng
 marmite n. marmít (e.k. breskt álegg)
 polygyny n. fjölkvæni
 polygynous l. fjölkvæntur
-punisher n. refsari
+punisher n. refsari (sjá %[punish]%)
 half-brother n. hálfbróðir
 half-sister n. hálfsystir
 kinfolk n. skyldmenni, ættingjar, frændfólk
@@ -5465,19 +5466,23 @@ Tasmanian l. tasmanískur; n. Tasmaníubúi, Tasmaníumaður; [~ wolf] tasmaníu
 ethnocentric l. þjóðhverfur
 isolationism n. einangrunarstefna
 isolationist l. einangrunarsinni
-interregional l. millisvæða-
+interregional l. millisvæða- ([~ competition, conflict, co-operation])
 vibe n. bylgja (stytt. á %[vibration]%); stemning, andrúmsloft
 awkwardly ao. klaufalega, klunnalega, ófimlega; afkáralega; óþægilega
 egocentricity n. sjálfhverfa, sjálflægni
 infanticidal l. barnamorðs-
 dactylography n. fingrafarafræði
 landline n. landlína, jarðlína
-enthralling l. töfrandi, gagntakandi
+enthralling l. töfrandi, gagntakandi, hrífandi
 hindquarters n. ft. afturlhuti (líkamans)
 salami n. (ítölsk) spægipylsa
 overstimulate s. oförva
 overstimulated l. oförvaður
 overstimulation n. oförvun
-unicameral l. einnar deildar; með eina þingdeild ([~ legislature])
-unicameralism l. sú stefna að hafa löggjafarþing í einni deild
+unicameral l. einnar deildar; með eina þingdeild ([~ legislature]); í einu herbergi
+unicameralism l. sú stefna að hafa löggjafarþing í einni deild (þ.e.a.s. ekki tvískipt, sjá %[bicameralism]%)
 ultraviolet l. útfjólublár, útblár; ([~ light]) útfjólublátt ljós; n. útblámi
+stock market n. hlutabréfamarkaður, verðbréfamarkaður, kauphöll
+upstate l. norðar í fylkinu, í upphéröðum, nyrðra (BNA)
+Iliad n. Ilíonskviða ([the ~])
+odyssey n. ævintýraleiðangur, langur leiðangur; [the Odyssey] Ódysseifskviða

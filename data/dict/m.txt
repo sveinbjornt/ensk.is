@@ -46,7 +46,7 @@ magnesia n. beiskjusalt, magnesíum oxíð
 magnesium n. magnesíum
 magnet n. segull, seguljárn, segulstál; segulsteinn
 magnetic l. segulmagnaður; aðlaðandi í viðmóti; [~ bar] segulmögnuð járnstöng
-magnetics n. segulaflsfræði
+magnetics n. ft. segulaflsfræði
 magnetism n. segulafl, segulmagn; aðdráttarafl
 magnetize s. hleypa segulmagni í, segulmagna
 magnetizer n. segulmagnari; dávaldur

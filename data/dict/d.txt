@@ -822,7 +822,7 @@ die s. deyja, andast, látast, sálast; líða undir lok; [~ of a malady (hunger
 die n. teningur (ft. [dice]); peningamót (ft. [dies])
 diet n. mataræði, tiltekið fæði; ríkisþing; s. veita (e-m) fæði; tiltaka fæði handa (e-m); lifa hóflega, fylgja ströngu mataræði
 dietary l. mataræðislegur; n. mataræði, matarskammtur
-dietics n. heilsufræði (með tilliti til mataræðis)
+dietics n. ft. heilsufræði (með tilliti til mataræðis)
 differ s. vera ólíkur (e-m [from]); vera ósamdóma (e-m [from, with])
 difference n. mismunur, munur (á e-u [between]); ágreiningur, deila; [~ of opinion] skoðanamunur; [it makes a great ~] það munar (stendur á) miklu; [it makes no ~] mér stendur á sama; s. gera ólíkt; greina í sundur
 different l. ólíkur, frábrugðinn (e-m [from, to]); ýmislegur; [at ~ periods] á ýmsum tímum
@@ -1409,7 +1409,7 @@ doggerel l. illa ortur; n. leirburður
 dogma n. trúarsetning, kredda
 dogmatic l. sem lýtur að trúarsetningum, kreddulegur
 dogmatical l. sem lýtur að trúarsetningum, kreddulegur
-dogmatics n. trúfræði
+dogmatics n. ft. trúfræði
 dogmatism n. ósannaðar fullyrðingar, kreddufesta
 dogmatist n. fullyrðingamaður, kreddumaður
 dogmatize s. gera fullyrðingar (um e-ð [upon])

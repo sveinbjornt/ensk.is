@@ -2203,14 +2203,14 @@ statement n. framburður, skýrsla; frásögn
 statesman n. stjórnvitringur, stjórnfræðingur
 statesmanlike l. stjórnvitringslegur
 statesmanship n. stjórnviska, stjórnkænska
-statics n. jafnvægisfræði
+statics n. ft. jafnvægisfræði
 station n. staður; staða (í mannfélaginu); stöð (járnbrautarstöð; vagnastöð; lögreglustöð); lífsstaða ([~ in life]); embætti; [man of exalted ~] í hárri stöðu; s. setja; skipa á e-n stað; [~ oneself] taka sér stöðu
 stationary l. kyrr á sama stað; sem stendur í stað, kyrrstæður; stöðugur; fastur; staðlegur
 stationer n. ritfærasali, ritfangasali, pappírssali
 stationery n. ritfæri, ritföng
 statistical l. tölfræðilegur
 statistician n. tölfræðingur
-statistics n. tölfræði
+statistics n. ft. tölfræði
 statuary n. myndasmiður; myndasmiði
 statue n. stytta; standmynd, líkneski
 statuesque l. líkur styttu; líflaus
@@ -2489,7 +2489,7 @@ strap n. ól; slipól; s. refsa með ól; binda með ól; slípa (rakhníf)
 strata n. ft. sjá %[stratum]%
 stratagem n. herbragð
 strategic l. herstjórnarlegur
-strategetics n. hernaðarlist, herstjórnaríþrótt
+strategetics n. ft. hernaðarlist, herstjórnaríþrótt
 strategy n. hernaðarlist, herstjórnaríþrótt
 strath n. breiður fjalldalur
 stratification n. lagmyndun

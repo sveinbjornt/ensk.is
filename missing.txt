@@ -400,6 +400,7 @@ crosshair
 formulation
 wide-ranging
 foundational
+determinacy
 indeterminacy
 luminiferous
 informativeness
@@ -736,7 +737,6 @@ regroup
 disruptive
 noncombatant
 crossfire
-odyssey
 resurgent
 resurgence
 triumphalism
@@ -4018,7 +4018,6 @@ merlon
 multiplicative
 multiplicatively
 appalled
-upstate
 markdown
 chuffed
 divestiture
@@ -4246,7 +4245,6 @@ unreconciled
 instrumental (endurskoða)
 whippy
 jizz
-stockmarket
 anomic
 phenotypic
 rodeo
@@ -4255,3 +4253,15 @@ wholeness
 passerby
 ganglia
 quarters
+abridged
+unabridged
+compute (nýi skilningurinn)
+mortarboard
+stalking
+retread
+tycoon
+leotard
+hilariously
+demotivated
+yay
+misophonia

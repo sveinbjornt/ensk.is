@@ -31,7 +31,7 @@ tact n. næm tilfinning (fyrir því sem við á); skynbragð, vit
 tactful l. vel viðeigandi; sem veit hvað við á
 tactical l. herskipunarlegur; sem lýtur að hentugustu aðferð
 tactician n. herskipunarmeistari
-tactics n. herskipunarlist
+tactics n. ft. herskipunarlist
 tadpole n. froskungi
 taenia n. bendilormur
 taffeta n. þunnsilki
@@ -431,7 +431,7 @@ theosophical l. guðspekilegur
 theosophist n. guðspekingur
 theosophy n. guðspeki
 therapeutic l. læknandi; læknisfræðilegur
-therapeutics n. lækningafræði
+therapeutics n. ft. lækningafræði
 therapeutist n. læknir
 there ao. þar; þangað; [~ is] það er; [~ are] það eru; [~ came many strangers to the town] margir útlendir menn komu til borgarinnar
 thereabout ao. þar í grenndinni; hér um bil

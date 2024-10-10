@@ -280,7 +280,7 @@ acolyte n. kirkjuþjónn, fylgismaður
 aconite n. eiturjurt
 acorn n. akarn
 acoustic l. heyrnarlegur; hljómlegur
-acoustics n. hljómfræði
+acoustics n. ft. hljómfræði
 acquaint s. láta vita (um e-ð [with]); [~ oneself with] kynna sér; [become ~ed with] kynnast e-u
 acquaintance n. kunningsskapur; viðkynning; kynni (af e-m [with]); kunningi; [make the ~ of] kynnast e-u eða e-m
 acquaintanceship n. kunningsskapur
@@ -491,13 +491,13 @@ aery n. arnarhreiður
 aeriform l. loftkynjaður
 aerolite n. loftsteinn
 aeronaut n. loftfari
-aeronautics n. loftsiglingar
+aeronautics n. ft. loftsiglingar
 aeroplane n. flugvél
 aerostat n. loftfar
 aeruginous l. eirgrænn
 aerugo n. eirgræna, eirryð
 aesthetic l. fagurfræðilegur; smekkvís
-aesthetics n. fagurfræði, listafræði
+aesthetics n. ft. fagurfræði, listafræði
 aestival l. sumarlegur
 aestivation n. sumardá
 aestivate s. liggja í sumardái
@@ -1164,7 +1164,7 @@ apocryphal l. vafasamur, vafa-
 apodictic l. áreiðanlegur, bersýnilegur, skilyrðislaus
 apogee n. jarðfirð; fjarlægasti punktur; hápunktur, toppur
 apologetic l. verjandi; afsakandi
-apologetics n. trúvarnarfræði
+apologetics n. ft. trúvarnarfræði
 apologize s. afsaka ([for]); afsaka sig
 apologue n. dæmisaga
 apology n. vörn, varnarrit; afsökun; [an ~ for breakfast] lítilfjörlegur morgunverður

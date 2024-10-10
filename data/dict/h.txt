@@ -1044,7 +1044,7 @@ hydropathic l. vatnslækninga- ([~ bandages, ~ treatment])
 hydropathist n. vatnslæknir
 hydropathy n. vatnslækningafræði
 hydrophobia n. vatnsfælni, ótti við vatn
-hydrostatics n. vatnstöðufræði, vatnsþrýstingarfræði
+hydrostatics n. ft. vatnstöðufræði, vatnsþrýstingarfræði
 hyemal l. vetrarlegur, vetrar-
 hyemate s. hafa vetrarsetu, dvelja vetrarlangt
 hyena n. hýena (villidýr)
