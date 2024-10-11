@@ -62,7 +62,11 @@ div.item {
 }
 
 div.item ul {
-    margin-left: 2.0em;
+    margin-left: 1.6em;
+}
+
+div.ipa {
+    margin-bottom: 1.0em;
 }
 
 div.wordcat {

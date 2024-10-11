@@ -1485,8 +1485,7 @@ porcelain n. postulín
 porch n. forskyggni (við hús); anddyri, fordyri; súlnagöng
 porcine l. svína- ([the ~ species]); líkur svíni, svínslegur
 porcupine n. broddgöltur, broddsvín
-pore n. svitahola
-pore s. stara, blína; [~ over the books] liggja í bókunum, sökkva sér ofan í bækurnar
+pore n. hola; svitahola; s. stara, blína; [~ over the books] liggja í bókunum, sökkva sér ofan í bækurnar
 pork n. svínakjöt, flesk
 porker n. alisvín
 porkling n. grís
@@ -1498,7 +1497,7 @@ porpoise n. hnýsa
 porraceous l. lauk-grænn
 porridge n. hafragrautur, mjölgrautur, hafrasúpa
 porringer n. súpuskál, grautarskál
-port n. höfn; hafnarborg; borgarhlið; op (ljósop, loftop, fallbyssugat) á skipshlið; bakborði á skipi; púrtvín; látbragð; limaburður, svipur ([the ~ of a gentleman])
+port n. höfn; hafnarborg; borgarhlið; op (ljósop, loftop, fallbyssugat) á skipshlið; bakborð á skipi; púrtvín; látbragð; limaburður, svipur ([the ~ of a gentleman])
 portable l. flytjanlegur, berandi; [~ goods] lausafé
 portage n. burður; burðarkaup; landræma milli vatna
 portal n. skrauthlið
@@ -1963,7 +1962,7 @@ prince n. konungssonur, prins; stórhöfðingi, fursti; [Prince of Wales] ríkis
 princedom n. furstadæmi, furstatign
 princely l. höfðinglegur; konunglegur
 princess n. prinsessa, konungsdóttir; stórhöfðingjafrú
-principal l. helstur, aðal- ([their ~ food, a ~ cause of of his failure]); [~ sentence, clause] aðalsetning; n. höfuðsmaður; húsbóndi ([I must consult my ~]); skólastjóri; höfuðstóll; höfuðatriði
+principal l. helstur, aðal- ([their ~ food, a ~ cause of his failure]); [~ sentence, clause] aðalsetning; n. höfuðsmaður; húsbóndi ([I must consult my ~]); skólastjóri; höfuðstóll; höfuðatriði
 principality n. furstadæmi
 principally ao. einkum, aðallega
 principalship n. skólastjórastaða

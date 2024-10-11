@@ -51,7 +51,7 @@ calculi n. ft. nýrnasteinar, gallsteinar
 caldron n. sjá %[cauldron]%
 calefactory l. hitandi, hita-
 calefaction n. upphitun
-calendar n. tímatal; almanak; skrá; skýrsla
+calendar n. dagatal; tímatal; almanak; skrá; skýrsla
 calender n. dúk- eða pappírspressa; s. pressa, slétta, gljá (dúka eða pappír)
 calf n. kálfur; [a cow in/with ~] kálffull kýr; kálfi ([~ of the leg])
 calfless l. kálfalaus ([~ legs])
@@ -68,7 +68,7 @@ calligraphy n. skrautskrift, skrautritun
 callosity n. sigg, þykknun húðar
 callous l. harðbrjósta, harðlyndur, tilfinningalaus; harður (um hörundið)
 callow l. fjaðralaus; fiðurlaus, snoðinn; óreyndur
-calm l. kyrr; hægur, friðsamur; n. kyrrð; rósemi; logn; [dead ~] ládeyða; [it fell dead ~] það gerði blæja logn; s. stilla, sefa; [~ down] lægja (um vind)
+calm l. rólegur, kyrr; hægur, friðsamur; n. kyrrð; rósemi; logn; [dead ~] ládeyða; [it fell dead ~] það gerði blæja logn; s. stilla, sefa; [~ down] lægja (um vind)
 calmness n. kyrrð, stilling
 caloric n. hitaefni, hiti
 calorie n. hitaeining
@@ -975,7 +975,7 @@ classfellow n. bekkjarbróðir
 classmate n. bekkjarbróðir
 classic l. fyrirmyndarlegur, ágætur; gullaldar- (einkum miðað við gullöld bókmennta og lista hjá Grikkjum og Rómverjum); sögulega frægur ([~ ground]); n. fornaldarrithöfundur (hjá Grikkjum og Rómverjum); sígildur (fyrirmyndar) rithöfundur eða listamaður
 classical education n. fræðsla í grískum og latneskum fræðum
-classical l. fyrirmyndarlegur, ágætur; gullaldar- (einkum miðað við gullöld bókmennta og lista hjá Grikkjum og Rómverjum); sögulega frægur ([~ ground])
+classical l. klassískur; fyrirmyndarlegur, ágætur; gullaldar- (einkum miðað við gullöld bókmennta og lista hjá Grikkjum og Rómverjum); sögulega frægur ([~ ground])
 classicism n. lærdómur í (meðhald með) fornum fræðum
 classification n. niðurskipting; flokkun
 classify s. skipa í flokka
@@ -1394,7 +1394,7 @@ comic l. grín-, kímnislegur, hlægilegur, gleðileikslegur; n. grínisti
 comical l. grín-, kímnislegur, hlægilegur, gleðileikslegur
 comity n. kurteisi
 comma n. komma; [inverted ~s] gæsalappir („ “)
-command s. skipa, bjóða; ráða yfir; stýra; stjórna ([~ one's temper]); horfa (gnæfa); [~ a view over] hafa útsýn yfir; n. skipun, boð; herstjórn; vald, yfirráð; [at/by his ~] eftir skipun hans; [was in ~ of] hafði yfirráð yfir; [great ~ of language] vald á
+command s. skipa, bjóða; ráða yfir; stýra; stjórna ([~ one's temper]); horfa (gnæfa); [~ a view over] hafa útsýn yfir; n. skipun, boð; herstjórn; vald, yfirráð; [at/by his ~] eftir skipun hans; [was in ~ of] hafði yfirráð yfir; [great ~ of] vald á
 command-in-chief n. æðsta herstjórn
 commandant n. kastalastjóri; borgarstjóri; stjóri
 commander n. stjórnari, stjóri; herforingi; yfirforingi (á minni herskipum)

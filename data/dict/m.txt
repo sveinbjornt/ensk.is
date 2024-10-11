@@ -131,7 +131,7 @@ malformation n. afmyndun, vansköpun, vanskapnaður
 malice n. illgirni; keskni; fjandskapur, hatur, óvildarhugur ([bear ~ towards])
 malicious l. illgjarn
 maliciousness n. illgirni, illska
-malign l. illviljaður, illgjarn; skaðvænn; illkynjaður; s. rægja, tala illa um, ófrægja
+malign l. illviljaður, illgjarn; skaðvænn; illkynjaður ([~ tumor]); s. rægja, tala illa um, ófrægja
 malignancy n. illska, illgirni; skaðvæni
 malignant l. illgjarn; illkynjaður (um sjúkdóma), skæður
 maligner n. hatursmaður, óvildarmaður
@@ -159,7 +159,7 @@ maltman n. maltgerðarmaður; maltsali
 maltster n. maltgerðarmaður; maltsali
 maltreat s. fara illa með, misþyrma
 maltreatment n. ill meðferð, misþyrming
-malversation n. ótrúmennska, óráðvendni í embættisrekstri; fjárdráttur
+malversation n. ótrúmennska; óráðvendni í embættisrekstri; fjárdráttur
 mamma n. mamma
 mammal n. spendýr
 mammon n. mammon; jarðnesk auðæfi
@@ -175,7 +175,7 @@ manacle n. handfjötur; s. leggja handfjötra á; fjötra
 manage s. stýra, stjórna; fara með, beita, nota (verkfæri); ráða við; temja, hlífa; [he ~d to] honum tókst að; hagaði svo til (kom því svo fyrir), að
 manageable l. viðráðanlegur, meðfærilegur; eftirlátur
 management n. stjórn; forráð; kænska
-manager n. stjórnari; forstöðumaður; forráðamaður; [acting ~] framkvæmdarstjóri
+manager n. stjórnandi, stjórnari; forstöðumaður; forráðamaður; [acting ~] framkvæmdarstjóri
 manatee n. sækýr
 manciple n. háskólabryti
 mandarin n. kínverskur embættismaður
@@ -228,7 +228,7 @@ mannerliness n. kurteisi í viðmóti
 mannerly l. þægilegur í viðmóti, viðkunnanlegur
 mannikin n. dvergur; afstyrmi; mannlíki
 mannish l. karlmannlegur; fullorðinslegur
-manoeuvre n. bragð, herkænskubragð; stöðubreyting herfylkingar eða herskips; s. beita brögðum; breyta skjótt stöðu sinni (um fylking og herskip)
+manoeuvre n. bragð, herkænskubragð; stöðubreyting herfylkingar eða herskips; s. beita brögðum; breyta skjótt stöðu sinni (um fylkingu eða herskip)
 manometer n. loft-, gufu-, gasþrýstimælir
 manor n. stór jörð; höfuðból; lénsgreifadæmi; [the lord of the ~] lénsgreifinn
 manor house n. herragarður

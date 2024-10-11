@@ -1767,10 +1767,10 @@ sower n. sáðmaður
 sowing machine n. sáningarvél, sáðvél
 soy n. soja
 spa n. ölkelda; baðstaður
-space n. rúm ([take up too much ~]); bil ([~ between]); tímabil ([~ of time]); tími ([after a short ~]); geimurinn ([outer space]); s. gera bil milli orða, glenna (letur)
+space n. rúm, rými ([take up too much ~]); bil ([~ between]); tímabil ([~ of time]); tími ([after a short ~]); geimurinn ([outer space]); s. gera bil milli orða, glenna (letur)
 spacious l. rúmgóður; víður
 spaciousness n. rými; víðátta
-spade n. reka; spaði (í spilum); [to call a ~ a ~] nefna hlutina með réttu nafni, tala bert; [queen of ~s] spaðadrottning; s. stinga með reku
+spade n. reka; spaði; [to call a ~ a ~] nefna hlutina með réttu nafni, tala bert; [queen of ~s] spaðadrottning; s. stinga með reku
 spadille n. spaðaás í lomberspili
 Spain n. Spánn
 spalpeen n. ómenni, ræfill
@@ -1991,11 +1991,11 @@ spooney l. heimskur, bjánalegur; bráðskotinn (í [on])
 spoor n. spor ([~ of cattle]); s. rekja spor dýra ([~ elephants])
 sporadic l. dreifður, sem er á víð og dreif
 sporran n. loðskinnstaska (sem Há-Skotar bera framan á sér)
-sport n. gaman, skemmtun, gamanleikur; bersvæðisíþróttir (svo sem fugla-, dýra-og fiskveiðar, aflraunir og fimleikar); leikfang, leiksoppur ([the ~ of fortune]); [~ of words] orðaleikur; [to have ~ with] gera gys að; [in ~] að gamni; s. leika sér; stunda bersvæðisíþróttir (veiðar o.s.frv.); monta með ([~ a gold watch]); [~ the door] læsa dyrunum; [~ oneself] skemmta sér
+sport n. íþrótt; gaman, skemmtun, gamanleikur; leikfang, leiksoppur ([the ~ of fortune]); [~ of words] orðaleikur; [to have ~ with] gera gys að; [in ~] að gamni; s. leika sér; stunda íþróttir; monta með ([~ a gold watch]); [~ the door] læsa dyrunum; [~ oneself] skemmta sér
 sportful l. gamansamur, kátur
 sporting l. veiði-; [~ dog] veiðihundur
 sportive l. kátur, gamansamur
-sportsman n. maður sem stundar bersvæðisíþróttir, íþróttamaður, sportsmaður; veiðimaður
+sportsman n. maður sem stundar íþróttir, íþróttamaður, sportsmaður; veiðimaður
 sportship n. veiðimannskunnátta, veiðimennska; íþróttamennska
 spot n. staður; blettur; skiki ([a ~ of ground]); [upon the ~] þegar í stað; s. setja blett á; merkja (við)
 spotless l. flekklaus, óflekkaður

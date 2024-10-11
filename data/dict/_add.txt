@@ -4894,7 +4894,7 @@ breadfruit n. brauðaldin
 immutably ao. óumbreytanlega, óbreytanlega, óhagganlega
 thermocline n. hitaskiptalag
 antipodean n. andfætlingur, andfætingur; l. andfætlinga-
-man-made l. manngerður, smíðað af mönnum, af manna völdum
+man-made l. manngerður, smíðaður af mönnum, af manna völdum
 ingeniousness n. hugvitssemi, ráðkænska
 impeccably l. á gallalausan eða óskeikulan hátt, óskeikullega
 nullification n. ónýting, ógilding, afnám, núllun
@@ -5486,3 +5486,5 @@ stock market n. hlutabréfamarkaður, verðbréfamarkaður, kauphöll
 upstate l. norðar í fylkinu, í upphéröðum, nyrðra (BNA)
 Iliad n. Ilíonskviða ([the ~])
 odyssey n. ævintýraleiðangur, langur leiðangur; [the Odyssey] Ódysseifskviða
+sparkling wine n. freyðivín
+sparkling water n. sódavatn, kolsýrt vatn

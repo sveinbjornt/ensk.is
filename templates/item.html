@@ -22,7 +22,7 @@
     {% endif %}
 </h1>
 
-<p>
+<div class="ipa">
     <strong>UK:</strong>
     <a href="{{ results[0].audio_uk }}" onClick="return play(this);" title="Spila hljóðupptöku af framburði">
         <img src="/static/img/audio.svg">
@@ -40,7 +40,7 @@
         {{ results[0].ipa_us }}
     </a>
     {% endif %}
-</p>
+</div>
 
 <!-- {% for r in results %}
 <div class="result grid-container">
