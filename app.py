@@ -56,7 +56,7 @@ import orjson
 
 from db import EnskDatabase
 from util import icelandic_human_size, perc, is_ascii
-from dict import read_wordlist
+from dict import read_wordlist, unpack_definition
 
 
 # Website settings
@@ -272,6 +272,21 @@ async def search(request: Request, q: str):
     )
 
 
+CAT_TO_NAME = {
+    "n.": "nafnorð",
+    "l.": "lýsingarorð",
+    "s.": "sagnorð",
+    "ao.": "atviksorð",
+    "fsk.": "forskeyti",
+    "st.": "samtenging",
+    "gr.": "greinir",
+    "fs.": "forsetning",
+    "uh.": "upphrópun",
+    "fn.": "fornafn",
+    "stytt.": "stytting",
+}
+
+
 @app.get("/item/{w}")
 @app.head("/item/{w}")
 async def item(request: Request, w):
@@ -279,6 +294,12 @@ async def item(request: Request, w):
     results, _ = _results(w, exact_match=True)
     if not results:
         raise HTTPException(status_code=404, detail="Síða fannst ekki")
+    from dict import parse_line
+
+    comp = unpack_definition(results[0]["def"])
+
+    comp = {CAT_TO_NAME[k]: v for k, v in comp.items()}
+
     return TemplateResponse(
         "item.html",
         {
@@ -287,6 +308,7 @@ async def item(request: Request, w):
             "q": w,
             "results": results,
             "word": w,
+            "comp": comp,
         },
     )
 

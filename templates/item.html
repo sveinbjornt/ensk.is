@@ -42,11 +42,22 @@
     {% endif %}
 </p>
 
-{% for r in results %}
+<!-- {% for r in results %}
 <div class="result grid-container">
     <p>{{ r.def|safe }}</p>
 </div>
-{% endfor %}
+{% endfor %} -->
+
+<div class="item">
+    {% for c in comp %}
+    <div class="wordcat">{{ c }}</div>
+    <ul>
+        {% for r in comp[c] %}
+        <li>{{ r|safe }}</li>
+        {% endfor %}
+    </ul>
+    {% endfor %}
+</div>
 
 <br>
 <br>

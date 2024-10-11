@@ -57,6 +57,20 @@ div.result {
     margin-bottom: 0.7em;
 }
 
+div.item {
+    margin-bottom: 0.5em;
+}
+
+div.item ul {
+    margin-left: 2.0em;
+}
+
+div.wordcat {
+    font-weight: 600;
+    margin-bottom: 0.5em;
+    /* font-style: italic; */
+}
+
 div.result:hover {
     background-color: #f1f1f1;
     cursor: pointer;

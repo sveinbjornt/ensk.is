@@ -134,6 +134,31 @@ def parse_line(s: str) -> Tuple:
     return (word, definition)
 
 
+def startswith_category(s: str) -> Optional[tuple[str, int]]:
+    """Check if a given string starts with a known word category."""
+    for c in CATEGORIES:
+        if s.strip().startswith(c):
+            return (c, s.index(c) + len(c))
+    return None
+
+
+def unpack_definition(s: str) -> dict:
+    comp = s.split(";")
+    currcat = None
+    out = defaultdict(list)
+
+    for c in comp:
+        sw = startswith_category(c)
+        if sw == None:
+            out[currcat].append(c.strip())
+            continue
+        cat, idx = sw
+        currcat = cat
+        out[currcat].append(c[idx:].strip())
+
+    return dict(out)
+
+
 WORD_TO_PAGE = None
 
 
