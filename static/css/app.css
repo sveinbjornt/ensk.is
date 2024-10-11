@@ -58,7 +58,7 @@ div.result {
 }
 
 div.result:hover {
-    background-color: #f9f9f9;
+    background-color: #f1f1f1;
     cursor: pointer;
     border: 1px solid #ddd;
 }
