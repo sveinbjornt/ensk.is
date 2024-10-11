@@ -829,8 +829,7 @@ boldness n. dirfska; ófeilni
 bole n. trébolur
 boll n. fræbelgur
 bolster n. (undir)-koddi; s. hlaða koddum undir; styrkja; troða út ([out/up])
-bolt n. járnslá; gaddur, skipsnagli; kólfur; þrumufleygur, þruma ([like a ~ from the blue]); stökk; s. stökkva; strjúka; hlaupa burt; reka út; fleipra fram úr sér ([out]); gleypa (ótuggið), háma í sig; láta járnslá fyrir (hurð); reka gadda (nagla) í; bera beináburð á
-bolt s. sálda; rannsaka; n. sáld
+bolt n. járnslá; gaddur, skipsnagli; kólfur; þrumufleygur, þruma ([like a ~ from the blue]); stökk; sáld; s. stökkva; strjúka; hlaupa burt; reka út; fleipra fram úr sér ([out]); gleypa (ótuggið), háma í sig; láta járnslá fyrir (hurð); reka gadda (nagla) í; bera beináburð á; sálda; rannsaka
 bolter n. mjölsáld
 bolt-rope n. lík á segli
 bomb n. sprengikúla
@@ -869,9 +868,7 @@ booklet n. bæklingur
 bookman n. bókamaður
 bookcellar n. bóksali
 booktrade n. bókverslun
-boom n. dynur; s. dynja, drynja; bruna áfram ([she came booming])
-boom n. seglás; þvergirðing (hafnar eða ár)
-boom s. blómgast snögglega, þjóta upp (um verð, verslun o.fl.); hleypa upp verði, veita bráðan viðgang (með skrumi); n. bráður uppgangur, snögg blómgun
+boom n. dynur; bráður uppgangur; snögg blómgun; seglás; þvergirðing (hafnar eða ár); s. dynja, drynja; bruna áfram ([she came booming]); blómgast snögglega; þjóta upp (um verð, verslun o.fl.); hleypa upp verði; veita bráðan viðgang (með skrumi)
 boon n. blessun; hagnaður; l. kátur ([a ~ companion])
 boor n. bóndi; búri; leiðinlegur eða frumstæður náungi
 boorish l. ruddalegur, búralegur ([~ fellow, ~ manners])

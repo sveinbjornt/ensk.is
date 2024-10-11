@@ -872,7 +872,7 @@ cinquefoil n. fimmlaufajurt
 cipher n. núll; ómerkingur ([a mere ~]); tala, tölustafur; leyniletur; fangamark; s. reikna ([~ out]); rita með leyniletri
 circle n. hringur; mannhringur; dómhringur; flokkur (í þjóðfélaginu); [the arctic (antarctic) ~] norður- (suður-) heimskautsbaugurinn; s. umgyrða, umlykja ([~ in]); hreyfast í kringum ([~ round, about])
 circlet n. smáhringur; höfuðgjörð (til prýðis)
-circuit n. umgjörð, ummál, hringur; umferð, hringferð (ferðadómara); dómsumdæmi; krókaleið ([fetch/make a ~]); [short ~] skammhlaup (í rafmagnsfræði); [go on the ~] fara í þingferðir; s. hreyfast (ferðast) í kringum
+circuit n. hringrás; rafrás, rafstraumsrás; umgjörð, ummál, hringur; umferð, hringferð (ferðadómara); dómsumdæmi; krókaleið ([fetch/make a ~]); [short ~] skammhlaup (í rafmagnsfræði); [go on the ~] fara í þingferðir; s. hreyfast (ferðast, fara) í kringum
 circuitous l. krókóttur, óbeinn
 circuity n. krókaleið
 circular l. hringmyndaður, kringlóttur; hringfarandi; n. umburðarbréf ([~ letter])
@@ -2403,10 +2403,8 @@ crane n. trana (fuglsheiti); krani, lyftivél, lyfta; sogdæla; s. hefja, lyfta 
 cranberry n. trönuber
 crang n. hvalkjöt
 cranium n. heilakúpa, hauskúpa
-crank n. sveif; orðaleikur; kenjar
+crank n. rugludallur; sveif; orðaleikur; kenjar; l. kátur, hreykinn; valtur (um skip)
 cranky l. geðstirður; duttlungafullur; bugðóttur, hlykkjóttur; hrörlegur, veiklulegur
-crank l. kátur, hreykinn
-crank l. valtur (um skip)
 crankle s. fara (renna) í bugðum; n. bugða, hlykkur
 crannied l. með sprungum eða rifum ([a ~ wall])
 cranny n. sprunga, rifa, skora ([in the crannies of a cliff])
