@@ -121,8 +121,6 @@ def add_entries_to_db(entries: EntryList) -> EnskDatabase:
     """Insert all entries into database."""
     db = EnskDatabase()
     for e in entries:
-        # (w, definition, ipa_uk, ipa_us, pn) = e
-        # print(f"Adding {w}")
         db.add_entry(*e)
 
     db.conn().commit()
@@ -218,7 +216,7 @@ def generate_pdf(entries: EntryList) -> str:
     raise NotImplementedError
 
 
-def gen() -> None:
+def main() -> None:
     print("Reading entries...")
     entries = read_all_entries()
     print(f"{len(entries)} entries read")
@@ -238,4 +236,4 @@ def gen() -> None:
 
 if __name__ == "__main__":
     """Command line invocation."""
-    gen()
+    main()

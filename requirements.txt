@@ -5,3 +5,7 @@ uvicorn>=0.17.6
 sqlite-utils>=3.27
 aiofiles>=23.2.1
 orjson>=3.10.3
+islenska>=1.0.0
+tokenizer>=3.4.3
+nltk>=3.7
+requests>=2.32.3

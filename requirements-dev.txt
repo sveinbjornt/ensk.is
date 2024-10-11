@@ -1,4 +1,0 @@
-islenska>=1.0.0
-tokenizer>=3.4.3
-nltk>=3.7
-requests>=2.32.3
