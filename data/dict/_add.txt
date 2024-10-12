@@ -420,7 +420,7 @@ demography n. lýðfræði
 demographics n. ft. lýðfræðiupplýsingar, lýðfræðileg tölfræði
 demographer n. lýðfræðingur
 demographically ao. lýðfræðilega
-downtown n. miðbær, miðborg; l. & ao. miðbæjar-, í miðbænum ([I visited ~ San Francisco, it was a place ~])
+downtown n. miðbær, miðborg; l. miðbæjar-, í miðbænum; ao. miðbæjar-, í miðbænum
 evaluation n. mat ([a comprehensive ~ of his performance])
 evaluate s. meta, yfirvega
 firmware n. fastbúnaður (í tölvum)
@@ -1398,9 +1398,9 @@ anti-Semite n. gyðingahatari
 anti-Semitic l. gyðingahatandi, fjandsamlegur gyðingum
 anti-inflammatory l. bólgueyðandi
 anti-aircraft l. gegn flugvélum eða loftförum, loftvarna-; [~ system] loftvarnakerfi; [~ gun] loftvarnabyssa
-anticlockwise l. & ao. rangsælis
-counterclockwise l. & ao. rangsælis
-clockwise l. & ao. réttsælis
+anticlockwise l. rangsælis; ao. rangsælis
+counterclockwise l. rangsælis; ao. rangsælis
+clockwise l. réttsælis; ao. réttsælis
 IRC n. stytt. á [Internet Relay Chat] (spjallkerfi á internetinu)
 intravenous l. innan æða, innanæða-, í æð
 intravenously ao. í æð
@@ -1637,7 +1637,7 @@ exothermic l. útverminn, fráhita-
 silverfish n. silfurskotta
 chitin n. kítín (efnið í stoðgrind margra skordýra)
 chitinous l. kítíns- (sjá %[chitin]%)
-statewide l. & ao. um allt ríkið
+statewide l. um allt ríkið; ao. um allt ríkið
 discotheque n. diskótek (skemmtistaður)
 disco n. diskótónlist; diskótek (stytt. á %[discotheque]%)
 gorgonzola n. gorgonsólaostur (e.k. gráðostur)
@@ -3440,7 +3440,7 @@ Anglosphere n. hinn enskumælandi heimur
 Francophile n. sá sem elskar Frakkland og/eða franska menningu
 Gallophile n. sá sem elskar Frakkland og/eða franska menningu
 moonscape n. landslag sem er eins og á tunglinu (samsetning af %[moon]% og %[landscape]%)
-upriver l. & ao. ofar í ánni
+upriver l. ofar í ánni; ao. ofar í ánni
 multilane l. með mörgum akreinum (sjá %[multi-]% og %[lane]%)
 topographic l. staðlýsingar- (sjá %[topography]%)
 hypodermic l. sem fer undir húðina, húðbeðs-; [~ needle] sprautunál, húðbeðsnál
@@ -4591,7 +4591,7 @@ decile n. tíundarmark
 lungful n. lungnafylli
 repellant l. sjá %[repellent]%
 neuroticism n. hugsýki, taugaveiklun
-okay l. & ao. allt í lagi, ókei, sæmilegur; uh. allt í lagi! ég skil!; s. samþykkja (óforml., [he ~ed it])
+okay l. allt í lagi, ókei, sæmilegur; ao. allt í lagi, ókei, sæmilegur; uh. allt í lagi! ég skil!; s. samþykkja (óforml., [he ~ed it])
 OK l. sjá %[okay]%
 demote s. lækka í stöðu, lækka í tign; færa niður; niðurlægja
 demotion n. stöðulækkun; lækkun, niðurfærsla
