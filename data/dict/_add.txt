@@ -1244,7 +1244,7 @@ epee n. sjá %[épée]%
 siege engine n. umsátursvopn, umsátursvél, umsáturstæki
 siege tower n. umsátursturn
 trebuchet n. valslöngva, steinvarpa (umsátursvopn á miðöldum)
-ballista n. risastór lásbogi sem skýtur spjótum
+ballista n. ballista (risastór lásbogi sem skýtur spjótum)
 petard n. e.k. sprengja
 kobold n. hrekkjóttur álfur eða púki (í þýskri þjóðtrú)
 minotaur n. mínótár (úr grískri goðafræði, skrímsli sem er hálfur maður og hálft naut)
@@ -1964,10 +1964,11 @@ fedora n. e.k. hattur
 streetcar n. götuvagn
 postwar l. eftirstríðs-
 post-war l. eftirstríðs-
-bookbinding n. bókbindaraiðn
+bookbinding n. bókbindaraiðn, bókbindaralist
 middleman n. milligönguaðili, milligöngumaður, milliliður
 sibling n. systkin
 reinvent s. enduruppgötva
+reinvention n. enduruppgötvun
 weather-beaten l. veðurbarinn
 anthropogenic l. manngerður, mannmótaður, af manna völdum
 fertilizer n. áburður
@@ -3418,6 +3419,7 @@ yeti n. snjómaðurinn ógurlegi (goðsagnakennd vera)
 antialiasing n. afstöllun
 encoding n. kóðun; umtáknun; hnitun; snið
 encode s. kóða; umtákna
+decode s. afkóða
 airfare n. flugfargjald
 droplet n. smádropi
 globetrotter n. heimshornaflakkari
@@ -5499,3 +5501,4 @@ intercontinental l. milli heimsálfa
 loincloth n. lendaskýla, lendaklæði
 biceps n. ft. tvíhöfðavöðvi; upphandleggsvöðvar
 bellicosity n. stríðsæsingur; stríðsæði, stríðsgirni
+philologically ao. textafræðilega

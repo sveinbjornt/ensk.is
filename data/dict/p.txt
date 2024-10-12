@@ -112,8 +112,8 @@ Palm Sunday n. pálmasunnudagur
 palmy l. vaxinn pálmaviði; sigursæll; blómlegur ([~ state]), blóma- ([~ days])
 palp n. þreifingarangi (á skorkvikindum)
 palpability n. áþreifanleiki
-palpable l. áþreifanleglegur; augljós
-palpably ao. áþreifanlega
+palpable l. áþreifanleglegur; tilfinnanlegur; augljós
+palpably ao. áþreifanlega; tilfinnanlega
 palpation n. áþreifing, snerting
 palpitate s. slá (bærast) ótt og títt (um hjartað)
 palpitation n. hjartsláttur
@@ -829,7 +829,7 @@ phantasm n. draugur, vofa; hugarburður, heilaspuni; svipur; sýn
 phantom n. sýn; svipur, vofa, fyrirburður
 pharisaical l. hræsnisfullur
 pharisaism n. kenning Farísea; hræsni, yfirdrepskapur
-Pharisee n. Farísei, hræsnari
+Pharisee n. Farísei; hræsnari
 pharmaceutical l. lyfjafræðilegur
 pharmaceutics n. ft. lyfjafræði
 pharmaceutist n. lyfjafræðingur
@@ -848,8 +848,8 @@ phial n. lítil flaska; (meðala)glas; s. geyma í glasi
 philander s. láta dátt, daðra (við [with])
 philandering n. daður
 philanthropic l. mannúðlegur, mannvinarlegur, velviljaður mannkyninu
-philanthropist n. mannvinur, velgerðarmaður, velgjörðamaður
-philanthropy n. mannkærleiki, mannúð; velgerðarmál
+philanthropist n. mannvinur, velgerðarmaður, velgjörðamaður, góðgerðarmaður
+philanthropy n. góðgerðarstarf, velgerðarmál; mannkærleiki, mannúð
 philatelist n. frímerkjasafnari
 philately n. frímerkjasöfnun
 philharmonic l. söngelskandi
@@ -857,8 +857,8 @@ philhellene n. Grikkjavinur
 philhellenist n. Grikkjavinur
 philhellenic l. vinveittur Grikkjum
 philippic n. refsiræða
-philological l. málfræðilegur, textafræðilegur
-philologist n. málfræðingur, textafræðingur
+philological l. textafræðilegur
+philologist n. textafræðingur
 philology n. málfræði, textafræði ([comparative ~])
 philomel n. næturgali
 philosopher n. heimspekingur; [natural ~] eðlisfræðingur, náttúruspekingur

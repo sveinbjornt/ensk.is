@@ -971,7 +971,6 @@ blurry
 mantra
 freefall
 nonchalance
-decode
 receivership
 unredeemable
 amortization
@@ -4265,3 +4264,5 @@ proportioned
 well-proportioned
 sparring
 disinclination (endurskoða)
+dine (endurskoða)
+boarding school (endurskoða)

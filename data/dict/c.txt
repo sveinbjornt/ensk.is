@@ -1590,7 +1590,7 @@ compunctious l. iðrandi, iðrunar- ([~ feeling])
 compurgation n. hreinsun annars af kæru með eiði
 computable l. reiknanlegur
 computation n. reikningur, útreikningur; [beyond ~] óreiknanlegur
-compute s. reikna
+compute s. reikna; n. reikniafl sem magn
 comrade n. félagi, lagsmaður, kammerat, kumpáni
 comradely l. kumpánalegur
 comradeship n. lagsmennska, kumpánaskapur
@@ -1602,13 +1602,13 @@ concavity n. íhvolfa
 conceal s. leyna, fela, hylja
 concealment n. dul, leynd; dulsmál ([~ of birth]); fylgsni ([place of ~]); [in ~] í leyni
 concede s. játa, kannast við; veita ([the money was ~d])
-conceit n. sjálfsálit, sjálfsþótti; duttlungur; ímyndun ([wise in his own ~]); tilgerðarleg fyndni; [out of ~ with] leiður á e-u; s. ímynda sér; ætla, hyggja
-conceited l. þóttafullur, hégómlegur
+conceit n. sjálfsálit, sjálfsþótti; hégómi; duttlungur; ímyndun ([wise in his own ~]); tilgerðarleg fyndni; [out of ~ with] leiður á e-u; s. ímynda sér; ætla, hyggja
+conceited l. hégómafullur, þóttafullur, hégómlegur
 conceivable l. hugsanlegur
 conceive s. fá (velvildarhug, grun, óbeit); hugsa upp; hugsa sér; hyggja; skilja; stíla, orða ([~d in plain terms]); geta (afsprengi); verða þunguð
 concent n. samhljóðan
-concentrate s. draga (safna) saman á einn stað; safnast (sameinast) á einn stað
-concentration n. samsafn; samdráttur á einn stað
+concentrate s. einbeita sér; draga (safna) saman á einn stað; safnast (sameinast) á einn stað; n. þykkni ([orange ~])
+concentration n. einbeiting; samsafn; samdráttur á einn stað
 concentre s. sameina, draga saman á einn stað; festa hugann á (e-u einu); þjappa saman; safnast utan um einn stað
 concenter s. sameina, draga saman á einn stað; festa hugann á (e-u einu); þjappa saman; safnast utan um einn stað
 concentric l. sem hefur sameiginlegan miðpunkt, sammiðja ([a ~ wheel])
