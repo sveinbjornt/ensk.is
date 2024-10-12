@@ -1,10 +1,12 @@
 <script>
+    // Prevent empty search submission
     function validate_search() {
-        return !(document.getElementById("q").value == "");
+        return !(document.getElementById("q").value.trim() == "");
     }
 </script>
 
-<h1>Ensk-íslensk orðabók</h1>
+<h1 class="heading">Ensk-íslensk orðabók</h1>
+<h2 class="english_subheading">English-Icelandic dictionary</h2>
 
 <form action="/search" method="GET" name="search" accept-charset="utf-8" onsubmit="validate_search();">
     <div class="grid-x">

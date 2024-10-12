@@ -30,6 +30,17 @@ h2 {
     margin-bottom: 1.0em;
 }
 
+h1.heading {
+    margin-bottom: 0.0em;
+}
+
+h2.english_subheading {
+    font-size: 0.9em;
+    margin-bottom: 1.0em;
+    margin-left: 0.1em;
+    color: #555
+}
+
 a {
     color: rgb(13, 25, 83);
     text-decoration: underline;
