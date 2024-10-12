@@ -463,13 +463,13 @@ otter n. otur; e.k. veiðarfæri, lóð
 Ottoman l. tyrkneskur; n. Tyrki; (baklaus) hvílubekkur
 ought s. [I ~] ég á, mér ber; ég átti (ætti), mér bar (bæri); [you ~ to have] þú hefðir átt að
 ounce n. únsa (mælieining)
-our fn. (haft með nafnorði) vor, okkar
+our fn. (haft með nafnorði) okkar, vor
 ours fn. okkar, vor
 ourself fn. vér (um konunga og rithöfunda)
-ourselves fn. við, vér; sjálfa oss (okkur sjálfa); (við, vér) sjálfir
+ourselves fn. við, vér; okkur sjálfa, sjálfa oss; (við, vér) sjálfir
 oust s. svipta (e-u [of]); reka burt, útrýma
 ouster n. burtrekstur
-out ao. út; úti; [be ~] vera úti (að heiman, í burtu; undir berum himni); vera á enda, vera þrotinn; vera slokknaður ([the fire is ~]); vera útsprunginn; vera kominn upp, skína (um stjörnur); skjátlast ([he was ~ in his reckoning]); [go ~ at the door] ganga út um dyrnar; [~ of cash] peningalaus; [~ of print] uppseldur (um bók); [~ of breath] sprengmóður; [time ~ of mind] (frá) ómuna tíð; [~ of one's mind] gleymdur, úr minni liðinn, vitstola; [~ of hand] tafarlaust; [I was quite ~ of myself with joy] ég réð mér ekki fyrir gleði; [~ of temper] í illu skapi; [~ at elbow] með olnbogann út úr; illa staddur; [~ upon him!] skollinn taki hann!; [from ~ the dungeon came a groan] út úr dýflissunni
+out ao. út; úti; [be ~] vera úti (að heiman, í burtu, undir berum himni); vera á enda, vera þrotinn; vera slokknaður ([the fire is ~]); vera útsprunginn; vera kominn upp, skína (um stjörnur); skjátlast ([he was ~ in his reckoning]); [go ~ at the door] ganga út um dyrnar; [~ of cash] peningalaus; [~ of print] uppseldur (um bók); [~ of breath] sprengmóður; [time ~ of mind] (frá) ómuna tíð; [~ of one's mind] gleymdur, úr minni liðinn, vitstola; [~ of hand] tafarlaust; [I was quite ~ of myself with joy] ég réð mér ekki fyrir gleði; [~ of temper] í illu skapi; [~ at elbow] með olnbogann út úr; illa staddur
 outs n. ft. sá stjórnmálaflokkur, sem ekki fer með völdin ([every thing the Ins do the Outs denounce])
 out- fsk. haft sem forskeyti í fjölmörgum samsetningum í merkingunni: út, yfir, meira en, betur en, lengra en, fram úr, upp o.fl.
 outbalance s. vega meira en
@@ -484,9 +484,9 @@ outcome n. niðurstaða, útkoma
 outcry n. hátt kall, óp, neyðaróp; s. æpa hærra en
 outdistance s. hlaupa (aka, sigla) fram úr
 outdo s. skara fram úr, bera af
-outdoor l. utanhúss, utanbæjar
-outdoor work n. vinna utanhúss (úti undir berum himni), útiverk
-outdoors ao. utanhúss, undir berum himni
+outdoor l. utandyra, utanhúss, utanbæjar
+outdoor work n. vinna utandyra (úti undir berum himni), útiverk
+outdoors ao. utandyra, utanhúss, undir berum himni
 outer l. ytri
 outermost l. ystur
 outface s. horfa hvasst á e-n (svo að hann líti undan); bjóða e-m byrginn

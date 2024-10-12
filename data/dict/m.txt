@@ -172,7 +172,7 @@ man-eater n. mannæta
 man-of-war n. herskip
 manslaughter n. manndráp, víg
 manacle n. handfjötur; s. leggja handfjötra á; fjötra
-manage s. stýra, stjórna; fara með, beita, nota (verkfæri); ráða við; temja, hlífa; [he ~d to] honum tókst að; hagaði svo til (kom því svo fyrir), að
+manage s. stýra, stjórna; fara með, beita, nota (verkfæri); ráða við; temja, hlífa; [he ~d to] honum tókst að; hagaði svo til (kom því svo fyrir) að
 manageable l. viðráðanlegur, meðfærilegur; eftirlátur
 management n. stjórn; forráð; kænska
 manager n. stjórnandi, stjórnari; forstöðumaður; forráðamaður; [acting ~] framkvæmdarstjóri
@@ -721,12 +721,11 @@ miasma n. eitrað efni í loftinu, sjúkdómsefni
 miasmatic l. fullur af sóttkveikjum ([~ poison])
 miasmatical l. fullur af sóttkveikjum ([~ poison])
 miaul n. & s. sjá %[miaow]%
-mice n. gljásteinn, glimmer
 micaceous l. gljásteins- ([~ shale, slate])
-mice n. ft. af %[mouse]%
+mice n. ft. af %[mouse]%; gljásteinn, glimmer
 Michaelmas n. Mikjálsmessa (29. september)
 mickle l. mikill (skoskt orð)
-microbe n. gerill, sóttkveikja
+microbe n. örvera, gerill, sóttkveikja
 micro- fsk. (í samsetningum) smá- (t.d. %[microdose]%, smáskammtur), ör- (t.d. %[microwave]%, örbylgja)
 microcosm n. smáheimur
 microscope n. sjónauki, smásjá

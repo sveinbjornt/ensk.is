@@ -767,12 +767,16 @@ Maltese l. maltneskur, maltverskur; n. Maltverji, Möltumaður; maltneska
 Marshall Islands n. Marshalleyjar
 Martinique n. Martiník
 Mauritania n. Máritanía
+Mauritanian l. máritanskur; n. Máritani
 Mauritius n. Máritíus
+Mauritian l. máritanskur; n. Máritani
 Mayotte n. Mayotte
 Mexico n. Mexíkó
 Mexican l. mexíkóskur, mexíkanskur; n. Mexíkói, Mexíkani
 Micronesia n. Míkrónesía
+Micronesian l. míkrónesískur; n. Míkrónesíumaður, Míkrónesi
 Moldova n. Moldóva
+Moldovan l. moldóvskur; n. Moldóvi
 Monaco n. Mónakó
 Mongolia n. Mongólía
 Montenegro n. Svartfjallaland
@@ -780,23 +784,28 @@ Montenegrin n. Svartfellingur; svartfellska; l. svartfellskur
 Morocco n. Marokkó
 Moroccan l. marokkóskur; n. Marokkói, Marokkómaður
 Mozambique n. Mósambík
+Mozambican l. mósambískur; n. Mósambíki
 Myanmar n. Mjanmar
+Myanmarese l. mjanmarskur; n. Mjanmarai
 Burma n. Búrma
+Burmese l. búrmanskur
 Namibia n. Namibía
 Namibian l. namibískur; n. Namibíumaður
 Nauru n. Nárú
 Nepal n. Nepal
 Nepalese l. nepalskur; n. Nepali
 Nepali l. nepalskur; n. nepalska
-Netherlands n. ft. Niðurlönd (Holland)
+Netherlands n. ft. Niðurlönd
 New Caledonia n. Nýja-Kaledónía (sjá %[Caledonia]%)
 New Zealand n. Nýja-Sjáland
 New Zealander n. Nýsjálendingur
 Nicaragua n. Níkaragva
+Nicaraguan l. níkaragskur; n. Níkaragvamaður
 Niger n. Níger
 Nigeria n. Nígería
 Nigerian l. nígerískur, frá Nígeríu; n. Nígeríumaður, Nígeríubúi
 North Korea n. Norður-Kórea
+North Korean l. norðurkóreskur; n. Norður-Kóreumaður
 North Macedonia n. Norður-Makedónía
 Oman n. Óman
 Pakistan n. Pakistan
@@ -842,7 +851,6 @@ Somali l. sómalískur; n. Sómali
 Somalian l. sómalískur; n. Sómali
 South Africa n. Suður-Afríka
 South Korea n. Suður-Kórea
-South Sudan n. Suður-Súdan
 Sri Lanka n. Srí Lanka
 Sudan n. Súdan
 Sudanese l. súdanskur
@@ -1538,7 +1546,6 @@ combo n. stytt. á %[combination]%
 stolen l. stolinn; sjá %[steal]%
 specialized l. sérhæfður; sjá %[specialize]%
 multimedia n. margmiðlun, margmiðlunarefni; l. margmiðlunar-
-Hawaii n. Hawaii, Hawaii-eyjar (stundum skrifað Havaí eða Havæ á íslensku)
 teen n. táningur, unglingur; l. tánings-, á táningsaldri, á unglingsaldri; sjá %[teenage]%
 artwork n. listaverk, kúnstverk; myndskreyting(ar)
 California n. Kalifornía (ríki í suðvesturhluta Bandaríkjanna)
@@ -3579,7 +3586,7 @@ pantalettes n. ft. öklasíðar undirbuxur
 weirdo n. furðufugl, skrýtin manneskja
 flawless l. gallalaus, óaðfinnanlegur, lýtalaus, fullkominn
 confetti n. skrautpappír, ræmur af (lituðum) skrautpappír
-postproduction n. eftirvinnsla, úrvinnsla, úrvinnslustig
+postproduction n. eftirvinnsla, úrvinnsla, úrvinnslustig, eftirvinnslustig
 hypermasculine l. ofurkarlmannlegur
 autoimmune l. sjálfsofnæmis-; [~ disease] sjálfsofnæmissjúkdómur
 workweek n. vinnuvika
@@ -3591,22 +3598,22 @@ dichotomized l. skiptur í tvennt, tvískiptur
 dichotomous l. tvískiptur, skiptur í tvennt, tvískiptingar-
 dichotomist n. sá sem skiptir í tvennt, tvískiptingarmaður
 dichotomization n. tvískiptingarvæðing, tvískiptingartilhneiging
-councilman n. fulltrúi, ráðsmaður, borgarráðsmaður, borgarfulltrúi
+councilman n. fulltrúi, ráðsmaður; borgarráðsmaður, borgarfulltrúi ([city ~])
 mea culpa uh. sökin er mín! (úr latínu)
 kindliness n. góðmennska, góðvild
 undocumented l. óskráður, óskjalaður, óskjalfestur
-globalize s. hnattvæða, alþjóðavæða
-globalization n. hnattvæðing, alþjóðavæðing
+globalize s. hnattvæða
+globalization n. hnattvæðing
 glamorous l. töfrandi, heillandi, ljómandi
-babysit s. passa börn
+babysit s. passa börn, gæta barna (fyrir foreldra)
 babysitting n. barnapössun, barnagæsla
-babysitter n. barnapía, barnfóstra, barnapassari, barnagæslumaður
+babysitter n. barnapía, barnfóstra, barnapassari
 flatbread n. flatbrauð, flatkaka
 farmland n. ræktarland, ræktunarland, lendur sem henta til landbúnaðar
 fistfight n. hnefaleikar, slagsmál eða áflog þar sem aðeins hnefum er beitt
 anonymously ao. á nafnlausan, ónafngreindan eða ónafngreinanlegan hátt
 walkway n. gangbraut, göngubrú, göngustígur
-graveyard n. kirkjugarður, grafreitur
+graveyard n. grafreitur, kirkjugarður
 setback n. bakslag
 windswept l. vindbarinn, vindblásinn
 receptionist n. móttökustjóri, móttökuritari
@@ -4818,7 +4825,7 @@ Cornishman n. maður frá Cornwall
 Yorkshireman n. maður frá Yorkshire
 Scots n. skoska, skosk mállýska
 shootout n. skotbardagi, byssubardagi; vítaspyrnukeppni (í fótbolta)
-Hawaii n. Havaí, Havaíeyjar
+Hawaii n. Hawaii, Hawaii-eyjar (stundum skrifað Havaí eða Havæ á íslensku)
 Hawaiian n. Havaíbúi, Havaímaður; havaíska; l. haváieyskur
 banqueting n. veisluhald (sjá %[banquet]%)
 indology n. indlandsfræði (fræðigrein sem fæst við sögu og menningu Indlandsskaga)
@@ -5136,6 +5143,9 @@ classless l. stéttlaus
 disassemble s. taka í sundur
 symbolism n. táknfræði, táknun
 Tasmania n. Tasmanía (eyja sunnan við Ástralíu)
+Tasmanian l. tasmanískur; n. Tasmaníubúi, Tasmaníumaður
+Tasmanian wolf n. pokaúlfur, tasmaníuúlfur, tasmaníutígur
+Tasmanian tiger n. pokaúlfur, tasmaníuúlfur, tasmaníutígur
 northerly l. norðlægur ([~ wind])
 sociolect n. félagsleg málgerð, stéttamállýska
 internalization n. innhverfing
@@ -5147,9 +5157,10 @@ organisation n. sjá %[organization]%
 pixie n. ljósálfur, álfadís, álfur
 fratriage n. arfur sem rennur til yngri bróður
 brachiosaurus n. finngálkn
-yuan n. júan (kínverskt myntheiti)
+yuan n. júan (kínversk mynt)
 octane n. oktan
-hooligan n. dólgur, ófriðarseggur; [football ~] fótboltabulla
+hooligan n. dólgur, ófriðarseggur
+football hooligan n. fótboltabulla
 myxedema n. slímbjúgur
 summarise s. sjá %[summarize]%
 chickenpox n. hlaupabóla
@@ -5209,7 +5220,7 @@ nee l. sjá %[née]%
 faintly ao. dauflega
 fisheries n. ft. fiskimið; sjávarútvegur
 fishing grounds n. ft. fiskimið
-extraordinarily ao. óvenjulega, frámunalega; gríðarlega
+extraordinarily ao. óvenjulega, frámunalega
 concierge n. móttökustjóri; umsjónarmaður, umsjónarkona; hótelþjónn
 hoover n. ryksuga
 Christology n. kristsfræði, kristfræði
@@ -5233,7 +5244,7 @@ Berliner n. Berlínarbúi
 Vienna n. Vínarborg, Vín
 Viennese l. frá Vín, Vínar-; n. ft. Vínarbúar
 Corsica n. Korsíka
-Corsican l. korsíkanskur; n. korsíska
+Corsican l. korsíkanskur; n. korsíska; Korsíkumaður, Korsíkani
 ecdysiast n. fatafella, nektardansmær
 aftercare n. eftirmeðferð
 trilobite n. þríbroti (útdauður flokkur liðdýra)
@@ -5394,11 +5405,9 @@ coziness n. huggulegheit, notalegheit
 Kosovo n. Kósóvó
 Kosovar l. kósovóskur; n. Kósovói
 Kosovan l. kósovóskur; n. Kósovói
-Burmese l. búrmanskur
 East Timor n. Austur-Tímor
 Cabo Verde n. Grænhöfðaeyjar
 Bosnian l. bosnískur; n. Bosníumaður
-Herzegovina n. Hersegóvína
 Salvadoran l. salvadorskur; n. Salvadori
 filtered l. síaður
 unfiltered l. ósíaður
@@ -5460,7 +5469,6 @@ half-sister n. hálfsystir
 kinfolk n. skyldmenni, ættingjar, frændfólk
 percentile n. hundraðshlutamark, hundraðsmark
 acidification n. súrnun, sýring
-Tasmanian l. tasmanískur; n. Tasmaníubúi, Tasmaníumaður; [~ wolf] tasmaníuúlfur
 ethnocentric l. þjóðhverfur
 isolationism n. einangrunarstefna
 isolationist l. einangrunarsinni
@@ -5479,10 +5487,15 @@ overstimulated l. oförvaður
 overstimulation n. oförvun
 unicameral l. einnar deildar; með eina þingdeild ([~ legislature]); í einu herbergi
 unicameralism l. sú stefna að hafa löggjafarþing í einni deild (þ.e.a.s. ekki tvískipt, sjá %[bicameralism]%)
-ultraviolet l. útfjólublár, útblár; ([~ light]) útfjólublátt ljós; n. útblámi
+ultraviolet l. útfjólublár, útblár; [~ light] útfjólublátt ljós; n. útblámi
 stock market n. hlutabréfamarkaður, verðbréfamarkaður, kauphöll
 upstate l. norðar í fylkinu, í upphéröðum, nyrðra (BNA)
 Iliad n. Ilíonskviða ([the ~])
 odyssey n. ævintýraleiðangur, langur leiðangur; [the Odyssey] Ódysseifskviða
 sparkling wine n. freyðivín
 sparkling water n. sódavatn, kolsýrt vatn
+thornbush n. þyrnirunni
+intercontinental l. milli heimsálfa
+loincloth n. lendaskýla, lendaklæði
+biceps n. ft. tvíhöfðavöðvi; upphandleggsvöðvar
+bellicosity n. stríðsæsingur; stríðsæði, stríðsgirni
