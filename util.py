@@ -36,8 +36,6 @@
 
 """
 
-from typing import List, Dict
-
 import os
 import zipfile
 from os.path import exists
@@ -45,10 +43,10 @@ from os.path import exists
 import orjson as json
 
 
-def read_wordlist(fn: str, unique: bool = True) -> List[str]:
+def read_wordlist(fn: str, unique: bool = True) -> list[str]:
     """Read a file containing one word per line.
     Return all words as a list of unique words."""
-    words = list()
+    words = []
 
     with open(fn, "r") as file:
         file_contents = file.read()
@@ -64,16 +62,19 @@ def read_wordlist(fn: str, unique: bool = True) -> List[str]:
     return list(set(words)) if unique else words
 
 
-def read_json(inpath: str) -> Dict[str, str]:
+def read_json(inpath: str) -> dict[str, str]:
     """Read and parse json file."""
     with open(inpath, "r") as f:
         return json.loads(f.read())
 
 
-def zip_file(inpath: str, outpath: str) -> None:
+def zip_file(inpath: str, outpath: str, overwrite: bool = True) -> None:
     """Zip a given file, overwrite to destination path."""
     if exists(outpath):
-        os.remove(outpath)
+        if overwrite:
+            os.remove(outpath)
+        else:
+            raise FileExistsError(f"File {outpath} already exists")
     with zipfile.ZipFile(outpath, "w", compression=zipfile.ZIP_DEFLATED) as zip_f:
         zip_f.write(inpath)
 

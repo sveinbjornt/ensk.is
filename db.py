@@ -37,9 +37,6 @@
 
 """
 
-
-from typing import List, Dict
-
 import os
 import logging
 import sqlite3
@@ -166,32 +163,32 @@ class EnskDatabase(object):
         res = self._consume(selected, order=False)
         return {row["key"]: row["value"] for row in res}
 
-    def _consume(self, cursor: sqlite3.Cursor, order: bool = True) -> List[Dict]:
+    def _consume(self, cursor: sqlite3.Cursor, order: bool = True) -> list[dict]:
         """Consume cursor and return list of rows."""
         res = list(cursor)  # Consume generator into list
         if order:
             res.sort(key=lambda x: x["word"].lower())
         return res
 
-    def read_all_entries(self) -> List[Dict]:
+    def read_all_entries(self) -> list[dict]:
         """Read and return all entries."""
         conn = self.conn()
         selected = conn.cursor().execute("SELECT * FROM dictionary")
         return self._consume(selected)
 
-    def read_all_original(self) -> List[Dict]:
+    def read_all_original(self) -> list[dict]:
         """Read and return all original entries from the Zoega dictionary."""
         conn = self.conn()
         selected = conn.cursor().execute("SELECT * FROM dictionary WHERE page_num!=0")
         return self._consume(selected)
 
-    def read_all_additions(self) -> List[Dict]:
+    def read_all_additions(self) -> list[dict]:
         """Read and return all entries not present in the original Zoega dictionary."""
         conn = self.conn()
         selected = conn.cursor().execute("SELECT * FROM dictionary WHERE page_num=0")
         return self._consume(selected)
 
-    def read_all_duplicates(self) -> List[Dict]:
+    def read_all_duplicates(self) -> list[dict]:
         """Read and return all duplicate (i.e. same word) entries present in the dictionary
         as a dict keyed by word."""
         conn = self.conn()
@@ -201,7 +198,7 @@ class EnskDatabase(object):
         res = list(selected)  # Consume generator into list
         return res
 
-    def read_all_without_ipa(self, lang="uk") -> List[Dict]:
+    def read_all_without_ipa(self, lang="uk") -> list[dict]:
         """Read and return all entries without IPA."""
         assert lang in ["uk", "us"]
         ipa_col = "ipa_uk" if lang == "uk" else "ipa_us"
@@ -209,13 +206,13 @@ class EnskDatabase(object):
         selected = conn.cursor().execute(f"SELECT * FROM dictionary WHERE {ipa_col}=''")
         return self._consume(selected)
 
-    def read_all_with_no_page(self) -> List[Dict]:
+    def read_all_with_no_page(self) -> list[dict]:
         """Read and return all entries without IPA."""
         conn = self.conn()
         selected = conn.cursor().execute("SELECT * FROM dictionary WHERE page_num=0")
         return self._consume(selected)
 
-    def read_all_capitalized(self) -> List[Dict]:
+    def read_all_capitalized(self) -> list[dict]:
         """Read and return all entries with capitalized words."""
         conn = self.conn()
         selected = conn.cursor().execute(
@@ -223,7 +220,7 @@ class EnskDatabase(object):
         )
         return self._consume(selected)
 
-    def read_all_in_wordcat(self, cat=None) -> List[Dict]:
+    def read_all_in_wordcat(self, cat=None) -> list[dict]:
         """Read all entries in a given word category."""
         assert cat is not None
 

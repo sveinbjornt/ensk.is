@@ -38,7 +38,7 @@
 """
 
 
-from typing import DefaultDict, List, Tuple, Optional, Dict
+from typing import DefaultDict, Tuple, Optional
 
 import os
 from collections import defaultdict
@@ -50,7 +50,7 @@ from util import read_wordlist
 CATEGORIES = read_wordlist("data/catwords.txt")
 
 
-def read_raw_pages(fn: Optional[str] = None) -> Dict[str, List]:
+def read_raw_pages(fn: Optional[str] = None) -> dict[str, list]:
     """Read all text files in the data/dict directory,
     return as an alphabetically indexed dict of lines."""
     base_path = "data/dict/"
@@ -82,7 +82,7 @@ def read_raw_pages(fn: Optional[str] = None) -> Dict[str, List]:
     return result
 
 
-def read_pages(fn: Optional[str] = None) -> List[str]:
+def read_pages(fn: Optional[str] = None) -> list[str]:
     """Read all text files in the data/dict directory,
     return as single list of all lines."""
 
@@ -95,7 +95,7 @@ def read_pages(fn: Optional[str] = None) -> List[str]:
     return entry_list
 
 
-def read_all_words() -> List[str]:
+def read_all_words() -> list[str]:
     """Return a list of all dictionary words."""
     r = read_pages()
     words = []
@@ -135,7 +135,8 @@ def parse_line(s: str) -> Tuple:
 
 
 def startswith_category(s: str) -> Optional[tuple[str, int]]:
-    """Check if a given string starts with a known word category."""
+    """Check if a given string starts with a known word category.
+    Returns a tuple of the category and the index at which it ends."""
     for c in CATEGORIES:
         if s.strip().startswith(c):
             return (c, s.index(c) + len(c))
@@ -143,13 +144,15 @@ def startswith_category(s: str) -> Optional[tuple[str, int]]:
 
 
 def unpack_definition(s: str) -> dict:
+    """Unpack a definition string into a dictionary of categories
+    mapped to a list of words in that category."""
     comp = s.split(";")
     currcat = None
     out = defaultdict(list)
 
     for c in comp:
         sw = startswith_category(c)
-        if sw == None:
+        if sw is None:
             out[currcat].append(c.strip())
             continue
         cat, idx = sw

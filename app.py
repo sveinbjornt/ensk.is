@@ -36,7 +36,7 @@
 
 """
 
-from typing import List, Dict, Tuple, Any, Union
+from typing import Any, Union
 
 import re
 import aiofiles
@@ -126,7 +126,7 @@ def _err(msg: str) -> JSONResponse:
     return JSONResponse(content={"error": True, "errmsg": msg})
 
 
-def _format_item(item: Dict[str, Any]) -> Dict[str, Any]:
+def _format_item(item: dict[str, Any]) -> dict[str, Any]:
     """Format dictionary entry for presentation."""
     w = item["word"]
     x = item["definition"]
@@ -169,7 +169,7 @@ def _format_item(item: Dict[str, Any]) -> Dict[str, Any]:
     return item
 
 
-def _results(q: str, exact_match: bool = False) -> Tuple[List, bool]:
+def _results(q: str, exact_match: bool = False) -> tuple[list, bool]:
     if not q:
         return [], False
 
@@ -294,10 +294,11 @@ async def item(request: Request, w):
     results, _ = _results(w, exact_match=True)
     if not results:
         raise HTTPException(status_code=404, detail="Síða fannst ekki")
-    from dict import parse_line
 
+    # Parse definition string into components
     comp = unpack_definition(results[0]["def"])
 
+    # Translate category abbreviations to human-friendly words
     comp = {CAT_TO_NAME[k]: v for k, v in comp.items()}
 
     return TemplateResponse(

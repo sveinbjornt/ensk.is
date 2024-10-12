@@ -3,7 +3,7 @@
     Functionality related to generating audio files for dictionary words.
 """
 
-from typing import Optional, List
+from typing import Optional
 
 import os
 import subprocess
@@ -61,7 +61,7 @@ def aiff2mp3(infile_path: str) -> None:
 _OUT_FOLDER = "static/audio/dict/"
 
 
-def synthesize_all() -> List[str]:
+def synthesize_all() -> list[str]:
     """Read all dictionary words, speech-synthesize each word to
     AIFF using the macOS speech synthesizer, and then convert to MP3."""
     words = read_all_words()

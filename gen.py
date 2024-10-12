@@ -37,7 +37,7 @@
 
 """
 
-from typing import List, Tuple, Optional
+from typing import Optional
 
 import os
 import csv
@@ -50,8 +50,8 @@ from db import EnskDatabase, DB_FILENAME
 from util import zip_file, read_json
 
 
-EntryType = Tuple[str, str, str, str, int]
-EntryList = List[EntryType]
+EntryType = tuple[str, str, str, str, int]
+EntryList = list[EntryType]
 
 
 ENWORD_TO_IPA_UK = read_json("data/ipa/uk/en2ipa.json")
