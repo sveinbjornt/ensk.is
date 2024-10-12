@@ -1627,9 +1627,9 @@ powder flask n. púðurhorn
 powder horn n. púðurhorn
 powder magazine n. púðurgeymsluhús
 powdery l. duftkynjaður, duftkenndur; auðmulinn
-power n. máttur, megn, afl; fullt umboð ([~ of attorney]); vald; veldi; herafli; gáfa, hæfileiki; [those in ~] þeir, sem hafa völdin; [come into ~] fá völdin, komast til valda; [it is out of my ~] það er ekki á mínu valdi
-powerful l. voldugur; öflugur; sterkur
-powerless l. máttlaus; vanmáttugur
+power n. máttur, megn, afl; vald; veldi; herafli; gáfa, hæfileiki; fullt umboð ([~ of attorney]); [those in ~] þeir sem hafa völdin; [come into ~] komast til valda; [it is out of my ~] það er ekki á mínu valdi
+powerful l. voldugur; öflugur; máttugur; sterkur
+powerless l. máttlaus, vanmáttugur; valdalaus, án valds
 pox n. sárasótt
 practicability n. framkvæmanleiki
 practicable l. framkvæmanlegur; mögulegur; gjörlegur; fær (um veg)

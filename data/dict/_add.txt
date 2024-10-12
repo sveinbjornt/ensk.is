@@ -393,7 +393,6 @@ genetic engineering n. erfðatækni
 crowdfund s. lýðfjármagna, hópfjármagna
 crowdfunding n. lýðfjármögnun, hópfjármögnun
 crowdfunded l. lýðfjármagnað, hópfjármagnað
-circuit n. hringrás; rafrás, rafstraumsrás; s. fara yfir, fara í kringum
 polypropylene n. fjölprópýlen, pólýprópýlen
 audio n. hljóð
 audio quality n. hljómgæði, hljóðgæði
@@ -3691,7 +3690,7 @@ luminescence n. ljóm, ljómun
 three-dimensional l. þrívíður
 two-dimensional l. tvívíður
 bidimensional l. tvívíður
-multi-dimensional l. fjölvíður
+multidimensional l. fjölvíður, fjölvídda-
 recalibration n. endurkvörðun, endurstilling
 marketization n. markaðsvæðing
 managerial l. stjórnunar-, sem lýtur að stjórnun
@@ -5169,7 +5168,6 @@ psycholinguistic l. málsálarfræðilegur
 psycholinguistics n. ft. málsálarfræði, sálfræðileg málvísindi
 decompress s. afþjappa
 decompression n. afþjöppun
-multidimensional l. fjölvíður, fjölvídda-
 lupus n. rauðir úlfar (sjálfsofnæmissjúkdómur)
 Rastafarian n. rastafari; l. rastafara-
 torque n. snúningsátak, snúningsvægi

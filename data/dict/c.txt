@@ -2387,9 +2387,9 @@ cracksman n. innbrotsþjófur
 cracky l. með sprungum; hálfgeggjaður
 cradle n. vagga, rugga; s. leggja í vöggu, vagga, rugga (e-u)
 craft n. fimleiki; slægð; iðn; skip, bátur; bátar
-craftiness n. slægð; prettvísi
+craftiness n. slægð, lævísi, slóttugheit
 craftsman n. iðnaðarmaður
-crafty l. slægur, prettvís
+crafty l. slægur, lævís, slóttugur, klækur
 crag n. hamar, klettur; klettasnös
 cragged l. klettóttur
 cragsman n. klifrari í klettum
@@ -2403,7 +2403,7 @@ crane n. trana (fuglsheiti); krani, lyftivél, lyfta; sogdæla; s. hefja, lyfta 
 cranberry n. trönuber
 crang n. hvalkjöt
 cranium n. heilakúpa, hauskúpa
-crank n. rugludallur; sveif; orðaleikur; kenjar; l. kátur, hreykinn; valtur (um skip)
+crank n. rugludallur, furðufugl, sérvitringur; geðvondur maður; sveif; orðaleikur; kenjar; l. kátur, hreykinn; óstöðugur, valtur (um skip); s. snúa í gang (með sveif)
 cranky l. geðstirður; duttlungafullur; bugðóttur, hlykkjóttur; hrörlegur, veiklulegur
 crankle s. fara (renna) í bugðum; n. bugða, hlykkur
 crannied l. með sprungum eða rifum ([a ~ wall])
