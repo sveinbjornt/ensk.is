@@ -21,10 +21,6 @@ for line in raw:
     radd.append(w)
 
 
-# for r in radd:
-#     if r not in add:
-#         print(r)
-
 for a in add:
     if a not in radd:
         print(a)
