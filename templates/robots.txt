@@ -1,8 +1,5 @@
 Sitemap: https://ensk.is/sitemap.xml
-crawl-delay: 5
-
-User-agent: Googlebot-Image
-Disallow: /
+crawl-delay: 3
 
 User-agent: SemrushBot*
 Disallow: /
@@ -38,6 +35,9 @@ User-agent: oBot*
 Disallow: /
 
 User-agent: barkrowler
+Disallow: /
+
+User-agent: MJ12bot
 Disallow: /
 
 User-agent: *
