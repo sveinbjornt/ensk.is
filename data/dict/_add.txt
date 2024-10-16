@@ -1627,7 +1627,7 @@ untraceable l. órekjanlegur
 karate n. karate (bardagaíþrótt)
 unromantic n. órómantískur
 condominium n. íbúðablokk; blokkaríbúð
-condo n. sjá %[condominium]%
+condo n. stytt. á %[condominium]%
 suppository n. stikkpilla; endaþarmsstíll
 praetor n. prætor (rómverskur embættismaður)
 lictor n. liktor (rómverskur embættismaður)
@@ -1653,7 +1653,7 @@ telemetry n. fjarmæling(ar)
 telemetric l. fjarmælinga-
 spotlight n. kastljós, sviðsljós; brennidepill
 informational l. upplýsandi, fræðandi, upplýsinga-; [~ booklet] upplýsingabæklingur
-latex n. mjólkursafi, latex (kvoðulausn notuð í gúmmíframleiðslu)
+latex n. mjólkursafi; latex (kvoðulausn notuð í gúmmíframleiðslu)
 urology n. þvagfæralækningar, þvagfæralæknisfræði
 urinalysis n. þvagrannsókn
 phthalimide n. þalimíð
@@ -5519,12 +5519,21 @@ marooned l. yfirgefinn, skilinn eftir á eyðiströnd eða eyju
 furore n. sjá %[furor]%
 colostrum n. broddmjólk
 Maronite n. maroníti (kristinn Líbani); l. maronískur
-unachievable l. óframkvæmanlegur, ófáanlegur, ómögulegur
+unachievable l. óframkvæmanlegur, ófáanlegur, ómögulegur, ónáandi; andstæða %[achievable]%
 cranial l. kúpu-, höfuðkúpu-, heilakúpu (sjá %[cranium]%)
 driveway n. innkeyrsla; heimreið
 rooftop n. húsþak, þak
-NDA n. trúnaðarsamningur; stytt. á [non-disclosure agreement]
+NDA n. trúnaðarsamningur (stytt. á [non-disclosure agreement])
 Scouse n. Liverpool-enska, Liverpool-hreimur
 Liverpudlian l. frá Liverpool; n. Liverpool-búi
 printout n. útprentun
 chapped l. sprunginn (um hörund), fullur af sprungum; [~ lips] þurrar, sprungnar varir
+unfeminine l. ókvenlegur
+unmasculine l. ókarlmannlegur
+Scythian n. Skyþíumaður, Skyþi (forn hirðingjaþjóð); l. skyþískur
+endocarditis n. hjartaþelsbólga
+cokehead n. kókhaus, kókaínfíkill, kókaínisti
+cocainist n. kókhaus, kókaínfíkill, kókaínisti
+coke fiend n. kókhaus, kókaínfíkill
+dictaphone n. hljóðritunartæki
+cock-eyed l. sjá %[cockeyed]%

@@ -912,6 +912,8 @@ SKIP = frozenset(
         "Iliad",
         "radula",
         "Maronite",
+        "Scythian",
+        "cocainist",
     )
 )
 
