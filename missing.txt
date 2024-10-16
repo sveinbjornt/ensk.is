@@ -983,7 +983,6 @@ parmesan
 mishmash
 conveyor
 eureka
-printout
 slideshow
 nostalgic
 boondoggle
@@ -1208,7 +1207,6 @@ monumentality
 patchiness
 dialogic
 renegotiation
-rooftop
 neurodivergent
 neurodivergence
 fieldwork
@@ -1692,7 +1690,6 @@ jailbird
 aspirational
 unduly
 picaresque
-driveway
 billboard
 glitch
 soteriology
@@ -2657,7 +2654,6 @@ processual
 preliterate
 sensationalize
 predominantly
-cranial
 survivability
 monocausal
 prehuman
@@ -2667,7 +2663,6 @@ palaeopathology
 sociality
 phylogenetic
 neighbourliness
-unachievable
 non-consensual
 democide
 panopticism
@@ -4096,7 +4091,6 @@ animate (endurskoða)
 curveball
 nestor
 kalends
-Maronite
 clunk
 clunky
 whoosh
@@ -4278,3 +4272,10 @@ crumpled
 symbolistic
 polythene
 condolences (endurskoða)
+ace (endurskoða, sögn - he aced the test)
+incongruous (endurskoða)
+trivialization
+unlikable
+unlikeable
+automaticity
+relaxed

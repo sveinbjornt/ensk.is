@@ -1703,15 +1703,15 @@ precipitate s. steypa (á höfuðið), hrinda; flýta fyrir; láta setjast á bo
 precipitation n. fall, hrap; framhleypni, hvatvísi; úrkoma
 precipitous l. snarbrattur, þverhníptur; hvatvís, framhleypinn
 precise l. nákvæmur
-precisely ao. nákvæmlega
+precisely ao. nákvæmlega; uh. nákvæmlega! einmitt!
 preciseness n. nákvæmni
 precision n. nákvæmni
 preclude s. útiloka ([~ all doubt]); aftra, hindra
 preclusion n. útilokun, hindrun
 preclusive l. aftrandi, hindrandi, útilokandi ([~ of])
-precocious l. bráðþroska, bráðgjör
-precognition n. undanfarandi þekking; undanfarandi vitnarannsókn
+precocious l. bráðþroska, snemmþroska, fljótur til þroska; bráðger, bráðgjör
 precocity n. bráðþroski
+precognition n. undanfarandi þekking; undanfarandi vitnarannsókn
 preconceive s. hugsa sér áður; [~d opinion] hleypidómur
 preconception n. forhugsun; hleypidómur
 preconcert s. koma sér saman um e-ð fyrirfram; n. undanfarið samkomulag

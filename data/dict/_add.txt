@@ -786,7 +786,7 @@ Moroccan l. marokkóskur; n. Marokkói, Marokkómaður
 Mozambique n. Mósambík
 Mozambican l. mósambískur; n. Mósambíki
 Myanmar n. Mjanmar
-Myanmarese l. mjanmarskur; n. Mjanmarai
+Myanmarese l. mjanmarskur; n. Mjanmari
 Burma n. Búrma
 Burmese l. búrmanskur
 Namibia n. Namibía
@@ -5499,7 +5499,7 @@ sparkling water n. sódavatn, kolsýrt vatn
 thornbush n. þyrnirunni
 intercontinental l. milli heimsálfa
 loincloth n. lendaskýla, lendaklæði
-biceps n. ft. tvíhöfðavöðvi; upphandleggsvöðvar
+biceps n. ft. tvíhöfðavöðvar; upphandleggsvöðvar
 bellicosity n. stríðsæsingur; stríðsæði, stríðsgirni
 philologically ao. textafræðilega
 impotently ao. á getulausan eða vanmáttugan hátt
@@ -5515,3 +5515,16 @@ shatterproof l. brotheldur
 non-breakable l. óbrjótanlegur
 sugarcoat s. sykurhúða; fegra
 hermeneutical l. túlkunarfræðilegur; ritskýringar-
+marooned l. yfirgefinn, skilinn eftir á eyðiströnd eða eyju
+furore n. sjá %[furor]%
+colostrum n. broddmjólk
+Maronite n. maroníti (kristinn Líbani); l. maronískur
+unachievable l. óframkvæmanlegur, ófáanlegur, ómögulegur
+cranial l. kúpu-, höfuðkúpu-, heilakúpu (sjá %[cranium]%)
+driveway n. innkeyrsla; heimreið
+rooftop n. húsþak, þak
+NDA n. trúnaðarsamningur; stytt. á [non-disclosure agreement]
+Scouse n. Liverpool-enska, Liverpool-hreimur
+Liverpudlian l. frá Liverpool; n. Liverpool-búi
+printout n. útprentun
+chapped l. sprunginn (um hörund), fullur af sprungum; [~ lips] þurrar, sprungnar varir

@@ -40,7 +40,9 @@
             <img src="/static/img/audio.svg" alt="Spila">
             {{ r.ipa_uk }}
         </a>)
-        {{ r.def|safe }}
+        <span onclick="event.stopPropagation();">
+            {{ r.def|safe }}
+        </span>
     </p>
 
 
