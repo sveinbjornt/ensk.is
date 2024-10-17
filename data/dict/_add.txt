@@ -4443,7 +4443,7 @@ realisation n. sjá %[realization]%
 wimp n. aumingi, ræfill
 wimpish l. aumingjalegur, ræfilslegur
 wimpy l. aumingjalegur, ræfilslegur
-violently ao. ákaflega, ofsalega, ruddalega, á ofbeldisfullan hátt
+violently ao. ákaflega, ofsalega, ruddalega; með ofbeldi, á ofbeldisfullan hátt
 epoxy n. epoxý; [~ resin] epoxý kvoði
 aggrieved l. móðgaður ([the ~ party])
 velure n. velúr (e.k. flauelsefni); l. velúrs-, úr velúr
@@ -5537,3 +5537,8 @@ cocainist n. kókhaus, kókaínfíkill, kókaínisti
 coke fiend n. kókhaus, kókaínfíkill
 dictaphone n. hljóðritunartæki
 cock-eyed l. sjá %[cockeyed]%
+abridged l. styttur, minnkaður, skertur
+unabridged l. óstyttur, óminnkaður, óskertur
+unabridgeable l. óstyttanlegur, óminnkanlegur, óskerðanlegur
+chain mail n. hringabrynja
+brigandine n. miðaldabrynja

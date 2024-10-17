@@ -911,18 +911,18 @@ circumvent s. fara í kringum; leika á, svíkja
 circumvention n. brögð, klókindi
 circumvolution n. snúningur; bugða, krókur
 circumvolve s. snúa í kring; snúast í kring
-circus n. hringhús (til íþróttasýninga); hringsvæði
+circus n. sirkus; hringhús (til íþróttasýninga); hringsvæði
 cirque n. hringsvæði
 cirrus n. hrísluský
 cist n. kista, forn steinkista, líkkista
 cistern n. vatnsgeymir, vatnskassi, regnþró
 citadel n. virki, kastali
-citation n. stefna; tilvitnun, tilvísun
-cite s. stefna; vitna (vísa) til (bókar eða höfundar); nefna sem dæmi; tilfæra, tilgreina
+citation n. tilvitnun, tilvísun; stefna
+cite s. vitna (vísa) til (bókar eða höfundar); nefna sem dæmi; tilfæra, tilgreina; stefna
 citron n. sítróna (aldin)
 city n. borg, bær, staður
 civet n. desdýr, þefköttur ([~ cat]); moskus
-civic l. borgmannlegur, borgara-; borglegur, borgar-
+civic l. borgmannlegur, borgara-; borgaralegur, borgara-, borgar-
 civil l. borgara- ([~ war, ~ rights]); borgaralegur, þegnlegur; kurteis(legur); einka-; [Civil List] hirðeyrir; [Civil Service] embættisþjónusta; [~ servant] embættismaður, starfsmaður ríkisins
 civilian n. óbreyttur borgari, maður sem er ekki í herþjónustu; lögfræðingur; kennari í lögum; embættismaður
 civility n. kurteisi
@@ -1109,7 +1109,7 @@ clump n. stykki, kleppur; klasi, hnappur (af trjám eða grösum); þykkur sóli
 clumpish l. þunglamalegur
 clumsiness n. klunnaskapur
 clumsy l. þunglamalegur, luralegur, klunnalegur
-cluster n. klasi; þyrping, hnappur; s. þyrpast, safnast í hnapp
+cluster n. klasi; þyrping; hnappur; s. þyrpast; safnast í hnapp
 clutch s. grípa, þrífa, hremma; halda fast utan um; n. grip, tak; ft. klær, greipar ([fall into one's ~es])
 clutter s. gera hávaða, þysja; hrúga e-u saman ([together]); n. hávaði, skarkali
 coach n. ferðavagn, farþegavagn; vagn á járnbraut; kennari, sem undirbýr undir próf; s. ferðast með póstvagni; undirbúa undir próf

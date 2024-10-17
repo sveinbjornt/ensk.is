@@ -307,13 +307,13 @@ vigorous l. kröftugur, öflugur
 viking n. víkingur
 vile l. níðingslegur, svívirðilegur; andstyggilegur
 vileness n. níðingsskapur, fúlmennska
-vilification n. smánun
-vilify s. smána, svívirða, rægja, ófrægja
+vilification n. smánun, svívirðing, ræging, ófræging, að gera e-n að illmenni
+vilify s. smána, svívirða, rægja, ófrægja, gera að illmenni
 villa n. landsetur, einbýlishús, villa
-village n. þorp
+village n. þorp, smábær
 villager n. þorpsbúi
-villain n. þorpari, varmenni
-villainous l. þorparalegur, níðingslegur, ódrenglegur; [a ~ person] níðingur
+villain n. þorpari, illmenni, varmenni
+villainous l. þorparalegur, níðingslegur, ódrenglegur, illmennis-; [a ~ person] níðingur, fantur
 villainy n. þorparaháttur, ódrengskapur, varmennska
 villein n. þræll
 villeinage n. þrældómur, ánauð
@@ -338,9 +338,9 @@ vintner n. vínsali
 viny l. vínberja-; vínauðugur
 viola n. lágfiðla, víóla
 violable l. sem má vanhelga eða spilla
-violate s. brjóta, rjúfa; spilla, skemma; misbjóða; vanhelga, saurga
-violation n. brot, rof; saurgun, vanhelgun ([~ of a sanctuary])
-violator n. sá sem brýtur, vanhelgar, rýfur, saurgar; saurgari
+violate s. brjóta, rjúfa; spilla, skemma; misbjóða; vanhelga, saurga; nauðga
+violation n. brot, rof; saurgun, vanhelgun ([~ of a sanctuary]); nauðgun
+violator n. sá sem brýtur, vanhelgar, rýfur, saurgar; saurgari; nauðgari
 violence n. ofbeldi; ofbeldisverk; ofsi
 violent l. ofbeldisfullur; ofsafullur, ofsalegur
 violescent l. fjóluleitur
