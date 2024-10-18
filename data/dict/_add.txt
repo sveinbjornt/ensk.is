@@ -5542,3 +5542,9 @@ unabridged l. óstyttur, óminnkaður, óskertur
 unabridgeable l. óstyttanlegur, óminnkanlegur, óskerðanlegur
 chain mail n. hringabrynja
 brigandine n. miðaldabrynja
+organelle n. frumulíffæri
+gym n. líkamsræktarstöð (stytt. á %[gymnasium]%); fimleikar, leikfimi (stytt. á %[gymnastics]%)
+gym teacher n. leikfimiskennari
+pelagic l. úthafs-; uppsjávar-
+fungible l. skiptanlegur, útskiptanlegur
+nonfungible l. óskiptanlegur, óútskiptanlegur

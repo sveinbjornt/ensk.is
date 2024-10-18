@@ -916,6 +916,7 @@ SKIP = frozenset(
         "cocainist",
         "cock-eyed",
         "unabridgeable",
+        "brigandine",
     )
 )
 
