@@ -97,6 +97,17 @@ for c in CATEGORIES:
     CAT2ENTRIES[cs] = e.read_all_in_wordcat(cs)
 
 
+# Create a middleware class to set custom headers
+class AddCustomHeaderMiddleware(BaseHTTPMiddleware):
+    async def dispatch(self, request: Request, call_next):
+        response = await call_next(request)
+        response.headers["Content-Language"] = "is, en"
+        return response
+
+app.add_middleware(AddCustomHeaderMiddleware)
+
+
+# Custom JSON response class that uses ultrafast orjson for serialization
 class CustomJSONResponse(FastAPIJSONResponse):
     """JSON response using the high-performance orjson library to serialize the data."""
 
@@ -105,18 +116,6 @@ class CustomJSONResponse(FastAPIJSONResponse):
             orjson is not None
         ), "orjson must be installed to use CustomJSONResponse class"
         return orjson.dumps(content)
-
-
-# Create a middleware class
-class AddCustomHeaderMiddleware(BaseHTTPMiddleware):
-    async def dispatch(self, request: Request, call_next):
-        response = await call_next(request)
-        response.headers["Content-Language"] = "is, en"
-        return response
-
-
-app.add_middleware(AddCustomHeaderMiddleware)
-
 
 JSONResponse = CustomJSONResponse
 
@@ -231,7 +230,7 @@ def cache_response(func):
 @app.head("/")
 @cache_response
 async def index(request: Request):
-    """/ main page"""
+    """Index page"""
     return TemplateResponse(
         "index.html",
         {
