@@ -229,10 +229,6 @@ def check_missing():
     """Check integrity of missing.txt file."""
     words = read_wordlist("missing.txt", unique=False)
     unique = list(set(words))
-    # print(len(words))
-    # print(len(unique))
-    # print(words[-10:])
-    # print(unique[-10:])
 
     if len(words) != len(unique):
         already = set()
