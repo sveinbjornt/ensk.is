@@ -3155,7 +3155,7 @@ emancipatory l. frelsandi (úr ánauð)
 aggressiveness n. árásargirni, árásargirnd, árásarhneigð
 aggressively ao. á árásargjarnan hátt
 longboat n. langskip; árabátur; björgunarbátur
-Caucasian n. Kákasusmaður; manneskja sem er hvít á hörund; l. kákasískur, ættaður úr Kákasusfjöllum
+Caucasian n. Kákasusmaður; manneskja sem er hvít á hörund; l. kákasískur, ættaður úr Kákasusfjöllum; hvítur á hörund
 carcinogen n. krabbameinsvaldur, krabbameinsvaldandi efni
 carcinogenic l. krabbameinsvaldandi
 kebab n. kebab (maríneraðir kjötbitar á teini)
@@ -3180,7 +3180,6 @@ resourcefulness n. úrræðasemi; útsjónarsemi
 accelerant n. hraðall (e-ð sem hraðar framvindu eða breytingu)
 delusional l. haldinn hugvillu eða ranghugmyndum
 inflationary l. verðbólguhvetjandi, verðbólgumyndandi, verðbólguvaldandi; verðbólgu-
-ahistorical l. ósögulegur
 unhistorical l. ósögulegur
 psychoactive l. geðvirkur, sem hefur áhrif á meðvitund
 sanctum n. athvarf, fylgsni
@@ -5425,7 +5424,7 @@ math n. stærðfræði (stytt. á %[mathematics]%)
 maths n. stærðfræði (stytt. á %[mathematics]%)
 ovum n. egg
 atherosclerosis n. fituhrörnun, æðakölkun
-motorcyclist n. mótorhjólamaður
+motorcyclist n. mótorhjólamaður, vélhjólamaður, bifhjólamaður
 rubella n. rauðir hundar (sjúkdómur)
 overprotective l. ofverndandi, sem verndar óhóflega
 overprotect s. ofvernda
@@ -5563,9 +5562,10 @@ zoological garden n. dýragarður
 stepmom n. stjúpmóðir, stjúpa; sjá %[stepmother]%
 disinformation n. rangar, villandi eða misvísandi upplýsingar; útbreiðsla misvísandi upplýsinga; falsfréttir
 fake news n. ft. falsfréttir
-Kremlin n. Kreml (borgarvirki í Moskvu, bústaður forseta Rússlands); rússnesk stjórnvöld; sovésk stjórnvöld
+Kremlin n. Kreml (borgarvirki í Moskvu sem er bústaður forseta Rússlands); rússnesk stjórnvöld; sovésk stjórnvöld
 Transnistria n. Transnistría
 anime n. japanskar teiknimyndir
+manga n. japönsk teiknimyndablöð
 cyber-attack n. tölvuárás, netárás
 rosarium n. rósagarður
 well-proportioned l. í góðum hlutföllum
@@ -5575,6 +5575,9 @@ acrimoniously ao. beisklega, biturlega, með heift
 codename n. dulnefni; kenninafn; þróunarnafn
 ahistorical l. ósögulegur; ekki samkvæmt sögunni eða sagnfræðinni; án sögulegs eða sagnfræðilegs samhengis
 djinn n. e-s konar andi (í arabískum þjóðsögum)
-primatology n. fremdardýrafræði
-primatologist n. fremdardýrafræðingur
+primatology n. fremdardýrafræði, prímatafræði
+primatologist n. fremdardýrafræðingur, prímatafræðingur
 paradoxically ao. á þversagnarkenndan hátt, þversagnarlega
+MDMA n. metýlendíoxýmetamfetamín, alsæla (vímuefni); sjá %[ecstasy]%
+limitlessness n. takmarkaleysi, ótakmörkun
+soft-spoken l. mjúkmæltur, mjúkmáll, blíðmæltur, blíðmáll, mildur í máli

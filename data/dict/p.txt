@@ -1946,11 +1946,11 @@ prim l. tilgerðarlegur; s. skreyta, dubba upp ([~ up]); setja á sig alvörusvi
 primacy n. erkibiskupstign; yfirburðir, ágæti
 primal l. frumlegur; forn; fyrstur, fremstur, helstur
 primary l. fyrstur; helstur; upprunalegur, frumlegur, frum-; ([the ~ meaning of a word]); [~ education] barnafræðsla; [~ school] undirbúningsskóli, barnaskóli; n. aðalatriði; flugfjöður
-primate n. prímati; erkibiskup; [Primate of all England] erkibiskupinn í Kantaraborg
-prime l. fyrstur, helstur; ógætur frábær; [~ cost] innkaupsverð; [~ number] frumtala; [~ minister] forsætisráðherra; n. blómi (broddur) lífsins ([be in the ~ of life]); frumtala; fyrsti hluti dags eða árs; morgun; vor; besti hluti; [~ of the moon] nýtt tungl, ný; s. draga undirlit á (léreft undir mólverk); leggja kveikjupúður á; [he is priming himself] hann er að drekka í sig áræði
+primate n. prímati, fremdardýr; erkibiskup; [Primate of all England] erkibiskupinn í Kantaraborg
+prime l. fyrstur, helstur; ógætur frábær; [~ cost] innkaupsverð; [~ number] frumtala; [~ minister] forsætisráðherra; n. blómi (broddur) lífsins ([be in the ~ of life]); prímtala, frumtala; fyrsti hluti dags eða árs; morgun; vor; besti hluti; [~ of the moon] nýtt tungl, ný; s. draga undirlit á (léreft undir mólverk); leggja kveikjupúður á; [he is priming himself] hann er að drekka í sig áræði
 primer n. stafrófskver; námsbók handa byrjendum; hvellhetta
 primeval l. upprunalegur; [~ forest] frumskógur
-priming n. kveikjupúður; undirlitur
+priming n. kveikjupúður; undirlitur; skilyrðing
 primitive l. frumstæður, upphaflegur, frumlegur, frum-; n. frumorð
 primitiveness n. frumleiki
 primogenitor n. ættfaðir

@@ -830,7 +830,7 @@ infirmary n. sjúkrahús
 infirmity n. óstyrkur, veikleiki; sjúkdómur; breyskleiki
 infix s. reka (festa) í; innræta; [~ in the mind] hugfesta
 inflame s. setja eld í; hleypa bólgu í ([~ the eyes]); hleypa hita í; æsa; egna; þrútna, bólgna
-inflammability n. eldfimi; bráðlyndi ([~ of temper])
+inflammability n. eldfimi, eldnæmi; bráðlyndi ([~ of temper])
 inflammable l. eldnæmur, eldfimur; bráður
 inflammation n. logi, bál; æsing; bólga
 inflammatory l. æsandi; bólgu- ([~ sore])

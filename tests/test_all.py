@@ -38,18 +38,16 @@ from typing import Dict, Any
 
 import os
 import sys
+from http import HTTPStatus
 
 from fastapi.testclient import TestClient
-
-# from gen import delete_db
-from db import EnskDatabase
 
 # Add parent dir to path so we can import from there
 basepath, _ = os.path.split(os.path.realpath(__file__))
 src_path = os.path.join(basepath, "..")
 sys.path.append(src_path)
 
-from app import app
+from app import app # noqa: E402
 
 
 def in_ci_env() -> bool:
@@ -87,7 +85,7 @@ def test_pages_routes() -> None:
 
     for route in PAGE_ROUTES:
         response = client.get(route)
-        assert response.status_code == 200
+        assert response.status_code == HTTPStatus.OK
 
 
 REQ_ITEM_KEYS = [
@@ -123,13 +121,13 @@ def test_api_routes() -> None:
     # /api/item/<word>
     for route in ITEM_API_ROUTES:
         response = client.get(route)
-        assert response.status_code == 200
+        assert response.status_code == HTTPStatus.OK
         _verify_api_item(response.json())
 
     # /api/search/<word>
     for route in SEARCH_API_ROUTES:
         response = client.get(route)
-        assert response.status_code == 200
+        assert response.status_code == HTTPStatus.OK
         json = response.json()
         assert "results" in json
         assert len(json["results"]) > 10
@@ -137,7 +135,7 @@ def test_api_routes() -> None:
             _verify_api_item(r)
     for route in SINGLE_SEARCH_API_ROUTES:
         response = client.get(route)
-        assert response.status_code == 200
+        assert response.status_code == HTTPStatus.OK
         json = response.json()
         assert "results" in json
         assert len(json["results"]) == 1
@@ -146,7 +144,7 @@ def test_api_routes() -> None:
     # /api/suggest/<word>
     for route in SUGGEST_API_ROUTES:
         response = client.get(route)
-        assert response.status_code == 200
+        assert response.status_code == HTTPStatus.OK
         json = response.json()
         assert isinstance(json, list)
         assert len(json) == 10
@@ -154,7 +152,7 @@ def test_api_routes() -> None:
             assert isinstance(i, str)
     for route in SINGLE_SUGGEST_API_ROUTES:
         response = client.get(route)
-        assert response.status_code == 200
+        assert response.status_code == HTTPStatus.OK
         json = response.json()
         assert isinstance(json, list)
         assert len(json) == 1
@@ -163,11 +161,13 @@ def test_api_routes() -> None:
 
 # NB: This test needs to run after all the other tests and
 # should be kept at the bottom of the source file.
-def test_db() -> None:
-    """Test database wrapper."""
-    # We only run these tests in CI environment
-    if not in_ci_env():
-        return
+# def test_db() -> None:
+#     """Test database wrapper."""
+#     # We only run these tests in CI environment
+#     if not in_ci_env():
+#         return
+
+#     from db import EnskDatabase
 
     # # Delete any pre-existing database file
     # delete_db()

@@ -1354,7 +1354,6 @@ quadrillion
 monetization
 shutdown
 soundbite
-soft-spoken
 forecaster
 endnote
 overfill
@@ -2707,7 +2706,6 @@ tailor-made
 quincentennial
 unfound
 sexualization
-primatologist
 underpinnings
 photojournalist
 dodgeball
@@ -4300,3 +4298,5 @@ directiveness
 decondition
 zirconia
 symbiote
+Panglossian
+Panglossic
