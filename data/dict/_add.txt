@@ -3200,6 +3200,8 @@ skeletal l. beinagrindar-, beinagrindarlegur
 autopilot n. sjálfstýring
 pigmentation n. litun
 conspiracist n. samsærismaður, samsæriskenningamaður
+conspiracy theory n. samsæriskenning
+conspiracy theorist n. samsæriskenningamaður
 oligopoly n. fákeppni; fákeppnismarkaður, fámennismarkaður
 sunspot n. sólblettur
 monetarism n. peningamagnshyggja
@@ -3257,6 +3259,8 @@ hackathon n. lausnamót, hakkarakeppni
 attentiveness n. athygli (sjá %[attention]%)
 autodidact n. e-r sem er sjálflærður
 autodidacticism n. sjálfsnám
+autodidactic l. sjálflærður, sjálfsnáms-
+self-learning n. sjálfsnám; l. sjálfsnáms-
 recalibrate s. endurkvarða, endurstilla
 sexless l. kynlaus; kynlífslaus
 trainee n. lærlingur, (vettvangs)nemi, starfsnemi
@@ -4338,7 +4342,7 @@ schoolgirl n. skólastelpa, skólastúlka
 undercount s. vantelja
 painstakingly ao. vandlega
 city-dweller n. borgarbúi
-bitterly ao. biturlega
+bitterly ao. biturlega, beisklega
 aborigine n. frumbyggi
 transvestite n. klæðskiptingur
 grayish l. gráleitur, ígrár
@@ -4364,7 +4368,7 @@ crosswalk n. gangbraut
 hypothermia n. ofkæling, lágur líkamshiti
 hypothermic l. ofkælingar-
 solidification n. storknun; þétting; hersli
-peripheral l. jaðar-; [~ vision] jaðarsjón; n. jaðarbúnaður, jaðartæki, fylgitæki
+peripheral l. jaðar-, á jaðrinum; [~ vision] jaðarsjón; n. jaðarbúnaður, jaðartæki, fylgitæki
 barbarization n. villimennskun, villimennskuvæðing, snúningur til villimennsku
 Prometheus n. Prómeþeifur (persóna í grískri goðafræði sem stal eldi frá goðunum)
 Promethean l. prómeþeifskur, Prómeþeifs- (sjá %[Prometheus]%)
@@ -4997,7 +5001,6 @@ dumbass n. fífl, bjáni, asni; l. heimskur (óforml.)
 bellboy n. vikapiltur
 camaraderie n. kumpánaskapur, góður félagsandi, góður kunningsskapur, lagsmennska
 misguided l. afvegaleiddur, illa úthugsaður
-phlebotomist n. blóðtökumaður
 venipuncture n. bláæðarástunga
 air defence n. loftvarnir
 chemotherapy n. efnameðferð, lyfjameðferð
@@ -5558,3 +5561,20 @@ paraplegic n. þverlami (manneskja sem er lömuð á neðri útlimum); l. þverl
 hairpin n. hárnál, hárpinni; kröpp beygja
 zoological garden n. dýragarður
 stepmom n. stjúpmóðir, stjúpa; sjá %[stepmother]%
+disinformation n. rangar, villandi eða misvísandi upplýsingar; útbreiðsla misvísandi upplýsinga; falsfréttir
+fake news n. ft. falsfréttir
+Kremlin n. Kreml (borgarvirki í Moskvu, bústaður forseta Rússlands); rússnesk stjórnvöld; sovésk stjórnvöld
+Transnistria n. Transnistría
+anime n. japanskar teiknimyndir
+cyber-attack n. tölvuárás, netárás
+rosarium n. rósagarður
+well-proportioned l. í góðum hlutföllum
+drool s. slefa; n. slef
+hookah n. vatnspípa
+acrimoniously ao. beisklega, biturlega, með heift
+codename n. dulnefni; kenninafn; þróunarnafn
+ahistorical l. ósögulegur; ekki samkvæmt sögunni eða sagnfræðinni; án sögulegs eða sagnfræðilegs samhengis
+djinn n. e-s konar andi (í arabískum þjóðsögum)
+primatology n. fremdardýrafræði
+primatologist n. fremdardýrafræðingur
+paradoxically ao. á þversagnarkenndan hátt, þversagnarlega

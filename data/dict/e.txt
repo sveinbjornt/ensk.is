@@ -5,7 +5,7 @@ eagerness n. ákefð, ílöngun, fíkn (í e-ð [for, of])
 eagle n. örn; tíu dollara gullpeningur
 eagle-eyed l. arneygur, hvasseygur
 eaglet n. arnarungi
-ear n. eyra (einnig á íláti); handarhald; hanki; [over (head and) ~s, up to the ~s in debt] skuldunum vafinn; [turn a deaf ~ to] skjóta skolleyrunum við e-u; [pull/drag by the ~s] draga á eyrunum; [set by the ~s] siga (etja) e-m saman; [sing/play by ~] syngja (leika á hljóðfæri) nótnalaust, eftir eyra; [have itching ~s] vera forvitinn
+ear n. eyra; handarhald; hanki; [over (head and) ~s, up to the ~s in debt] skuldunum vafinn; [turn a deaf ~ to] skjóta skolleyrunum við e-u; [pull/drag by the ~s] draga á eyrunum; [set by the ~s] siga (etja) e-m saman; [sing/play by ~] syngja (leika á hljóðfæri) nótnalaust, eftir eyra; [have itching ~s] vera forvitinn; ax (á korni); s. skjóta öxum; [the rye was beginning to ~] öx voru farin að koma á rúginn
 earache n. hlustarverkur
 eardrops n. ft. eyrnalokkar
 earless l. eyrnalaus; heyrnarlaus; hanka- eða handarhaldslaus
@@ -16,7 +16,6 @@ earshot n. heyrnarvídd ([out of ~, within ~])
 ear-trumpet n. heyrnarpípa
 earwig n. eyrnapadda (skordýr); s. koma sér í mjúkinn hjá e-m (með söguburði); setja ofan í við e-n einslega
 earwitness n. heyrnarvottur
-ear n. ax (á korni); s. skjóta öxum; [the rye was beginning to ~] öx voru farin að koma á rúginn
 earl n. jarl (lægri en [marquis] að tign, en æðri en [viscount])
 earldom n. jarldómur
 early l. sem er snemma dags; snemmkvæmur; snemmgrær; öndverður; skjótur; [keep ~ hours] fara snemma á fætur og snemma að hátta; [the ~ bird gets the worm] morgunstund hefur gull í mund; [an ~ riser] árrisull maður; [at an ~ hour] snemma dags; [in the ~ part of his life] á öndverðri ævi hans; ao. snemma dags; árla; snemma
@@ -26,10 +25,10 @@ earnest n. alvara; festarfé (sem goldið er fyrirfram til að tryggja kaupsamni
 earnestly ao. alvarlega, einlæglega; í alvöru
 earnestness n. einlægni, alvara
 earth n. jörð, jarðarhnöttur(inn); jarðvegur, mold; jarðhola, (tóu)gren; s. þekja (jurtarætur) með mold ([~ up]); smjúga (skríða) í grenið; reka (tóu) í gren sitt
-earthen l. moldar- ([~ floor]); leir- ([~ vessel]); jarðlegur
+earthen l. moldar- ([~ floor]); leir- ([~ vessel]); jarð-, jarðlegur
 earthenware n. leirker, leirvara
 earthfast l. jarðfastur
-earthling n. jarðarbyggi
+earthling n. jarðarbúi, jarðarbyggi
 earthly l. jarðneskur; veraldlegur; jarðlegur
 earthly-minded l. veraldlega hugsandi
 earthquake n. jarðskjálfti
@@ -38,7 +37,7 @@ earthy l. jarðlegur; jarðneskur; moldar- ([~ taste])
 ease n. ró; næði; hægð, þægindi; léttir, linun; [at ~] í ró, rólegur; [live at ~] í alls nægtum; s. létta, fróa; mýkja, lina; losa við ([of])
 easement n. léttir, linun
 easel n. myndatrönur (listmálara)
-easily ao. auðveldlega
+easily ao. auðveldlega, léttilega
 easiness n. auðveldleiki; makræði; hóglyndi
 east n. austur, austurátt; austurhluti lands, austurland; Austurlönd; l. austlægur, austur-, austan-; ao. austur, í austur; [~ of (to the ~ of)] fyrir austan
 easterly l. austlægur; ao. í austur; austarlega; á austan
@@ -965,10 +964,9 @@ evaporize s. láta gufa upp; gufa upp; eyðast; hverfa
 evasion n. undankoma; undanfærsla; vífilengjur, fyrirsláttur; [without ~] vífilengjulaust
 evasive l. óákveðinn; undanfærslu- ([an ~ answer])
 eve n. kvöld; kvöldið fyrir hátíð; aðfangadagskvöld ([Christmas Eve]); [was on the ~ of being lost] var nærri því tapaður
-even n. aftan
 evensong n. aftansöngur, kvöldsöngur
 eventide n. kvöldtími, kvöld
-even l. flatur, sléttur; jafn (um stærð og tölur); [to be ~ with] hefna sin á (e-m), ná sér niðri á e-m; ao jafnvel; s. slétta, jafna
+even l. flatur, sléttur; jafn (um stærð og tölur); [to be ~ with] hefna sin á (e-m), ná sér niðri á e-m; ao jafnvel; s. slétta, jafna; n. aftan
 even-handed l. óhlutdrægur, réttlátur
 evenly ao. jafnt; með jafnaðargeði; óvilhalt
 evenness n. jafnleiki, sléttleiki; óhlutdrægni

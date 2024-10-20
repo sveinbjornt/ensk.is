@@ -633,8 +633,7 @@ indemnification n. skaðabætur; uppbót
 indemnify s. gera skaðlausan; tryggja (gegn e-u [against]); [~ one for his loss] bæta e-m (upp) skaðann
 indemnity n. skaðabætur; trygging; undanþága undan refsingu
 indemonstrable l. ósannanlegur
-indent s. höggva (skera) skörð í, skerða; gera far eða laut í (með höggi); slá eða þrýsta inn; skerast inn í ([~ the coast]); koma (e-m) fyrir (í iðnaðarnám); n. vogur, vík
-indent n. dæld
+indent s. höggva (skera) skörð í, skerða; gera far eða laut í (með höggi); slá eða þrýsta inn; skerast inn í ([~ the coast]); koma (e-m) fyrir (í iðnaðarnám); n. vogur, vík; dæld
 indented l. tenntur; vogskorinn ([~ coast])
 indentation n. skora, skarð; vogur, vík
 indenture n. skriflegur samningur; námssamningur; s. ráða e-n með námssamningi
@@ -843,8 +842,8 @@ inflection n. beyging, sveiging; bugða
 inflectional l. beygingar-
 inflective l. beygjandi, beygingar-
 inflexed l. innbeygður
-inflexibility n. óbeygjanleiki, ósveigjanleiki
-inflexible l. óbeygjanlegur, ósveigjanlegur
+inflexibility n. ósveigjanleiki, óbeygjanleiki
+inflexible l. ósveigjanlegur, óbeygjanlegur
 inflict s. leggja á ([~ punishment on]); veita ([~ a wound on])
 infliction n. álagning (refsingar); refsing
 inflictive l. refsandi
@@ -1146,8 +1145,7 @@ intangible l. óáþreifanlegur, ósnertanlegur
 integer n. heil tala, heild
 integral l. heill, óskiptur; n. heild; heil tala; ómissandi í heildina ([~ part of the court])
 integrant n. ómissandi hluti
-integrate l. heill, óskertur
-integrate s. fullkomna, bæta upp ([~ one another]); sameina í heild
+integrate s. sameina í heild; fullkomna, bæta upp ([~ one another]); l. heill, óskertur
 integrity n. heilleiki, heild; ráðvendni; réttsýni; hreinskilni
 integument n. þunn húð, himna
 intellect n. skilningur; vitsmunir, gáfur; vitmaður

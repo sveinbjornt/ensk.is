@@ -26,7 +26,6 @@ locus
 induced
 hydroponic
 aquaponic
-djinn
 cockatrice
 manticore
 golem
@@ -704,7 +703,6 @@ preemptive
 preemption
 escalate
 escalation
-disinformation
 post-apocalyptic
 serviceman
 brinksmanship
@@ -2675,7 +2673,6 @@ premodern
 generalizable
 bleacher
 first-hand
-Kremlin
 resource-poor
 de facto
 strappado
@@ -2912,7 +2909,6 @@ famously
 phlegmatism
 paradisiacal
 tyrannically
-paradoxically
 inextricably
 bushfire
 boxwood
@@ -3989,7 +3985,6 @@ chronograph
 ahem
 busman
 curation
-acrimoniously
 haptic
 flaming
 brummel
@@ -4024,12 +4019,10 @@ hootenanny
 backstory
 mainlander
 thalassocracy
-hookah
 shisha
 phish
 phishing
 trailblazer
-drool
 erg
 futural
 reoccur
@@ -4158,6 +4151,7 @@ foreignness
 idiographic
 idiographical
 inaugurated
+covalence
 covalent
 foodway
 lacquered
@@ -4246,7 +4240,6 @@ yay
 misophonia
 intrapersonal
 proportioned
-well-proportioned
 sparring
 disinclination (endurskoða)
 dine (endurskoða)
@@ -4293,6 +4286,17 @@ lightheaded
 descriptivism
 descriptivist
 evidently
-rosarium
 neuroplasticity
 excruciating
+low-level
+high-level
+predomination
+sandwiched
+cagily
+en masse
+supercharge
+supercharged
+directiveness
+decondition
+zirconia
+symbiote

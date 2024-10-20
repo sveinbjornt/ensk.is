@@ -364,7 +364,6 @@ filicide
 adsorber
 agronomic
 agronomics
-ahistorical
 Anglophobe
 Anglophobia
 Anglophobic
@@ -871,3 +870,6 @@ cocainist
 cock-eyed
 unabridgeable
 brigandine
+Transnistria
+rosarium
+well-proportioned
