@@ -66,6 +66,8 @@ space shuttle n. geimferja, geimskutla
 aircraft n. flugvél, loftfar
 laptop n. fartölva
 cryptography n. dulkóðun, dulkóðunarfræði, dulmál
+cryptographer n. dulkóðunarfræðingur, dulritunarfræðingur, dulmálsfræðingur
+cryptographic l. dulkóðunar-, dulmáls-, dulritunar-
 mansplain s. hrútskýra (þegar karlmaður útskýrir e-ð á yfirlætisfullan hátt)
 mansplaining n. hrútskýring (sjá %[mansplain]%)
 podcast n. hlaðvarp (stafrænn útvarpsþáttur)
@@ -5543,8 +5545,16 @@ unabridgeable l. óstyttanlegur, óminnkanlegur, óskerðanlegur
 chain mail n. hringabrynja
 brigandine n. miðaldabrynja
 organelle n. frumulíffæri
-gym n. líkamsræktarstöð (stytt. á %[gymnasium]%); fimleikar, leikfimi (stytt. á %[gymnastics]%)
+gym n. líkamsræktarstöð (stytting á %[gymnasium]%); fimleikar, leikfimi (stytting á %[gymnastics]%)
 gym teacher n. leikfimiskennari
 pelagic l. úthafs-; uppsjávar-
 fungible l. skiptanlegur, útskiptanlegur
 nonfungible l. óskiptanlegur, óútskiptanlegur
+eclampsia n. krampi
+colitis n. ristilbólga
+analgesic n. verkjalyf, verkjastillandi lyf, verkjadeyfandi lyf
+ataxia n. hreyfiglöp
+paraplegic n. þverlami (manneskja sem er lömuð á neðri útlimum); l. þverlömunar-, lamaður á neðri útlimum
+hairpin n. hárnál, hárpinni; kröpp beygja
+zoological garden n. dýragarður
+stepmom n. stjúpmóðir, stjúpa; sjá %[stepmother]%
