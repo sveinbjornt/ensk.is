@@ -34,7 +34,7 @@
 
 """
 
-from typing import Dict, Any
+from typing import Any
 
 import os
 import sys
@@ -100,7 +100,7 @@ REQ_ITEM_KEYS = [
 ]
 
 
-def _verify_api_item(item: Dict[str, Any]) -> None:
+def _verify_api_item(item: dict[str, Any]) -> None:
     keys = item.keys()
     for rk in REQ_ITEM_KEYS:
         assert rk in keys

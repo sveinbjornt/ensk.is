@@ -154,7 +154,7 @@ def check_bracket_use(line: str, pn, ln: int):
 
 
 def check_intradict_refs(line: str, pn, ln: int):
-    """Make sure all intra-dictionary references are valid, i.e. exist."""
+    """Make sure all intra-dictionary references exist."""
     if "%[" not in line:
         return
 
@@ -191,8 +191,8 @@ def check_enword_def(line: str, pn, ln: int):
 
 
 def check_icelandic_words(line: str, pn, ln: int):
-    """Inspect all Icelandic words in definition, make sure that they
-    are present in modern Icelandic vocabulary (BÍN)."""
+    """Inspect all Icelandic words in definition, make sure that
+    they are present in modern Icelandic vocabulary (BÍN)."""
     from islenska import Bin
     from tokenizer import tokenize, TOK
 
@@ -242,9 +242,7 @@ def check_missing():
             print(f"Word in missing.txt is already in dictionary: {w}")
 
 
-def verify():
-    """Main program function."""
-
+def main():
     r = read_raw_pages()
 
     for letter, lines in r.items():
@@ -265,4 +263,4 @@ def verify():
 
 
 if __name__ == "__main__":
-    verify()
+    main()

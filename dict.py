@@ -38,7 +38,7 @@
 """
 
 
-from typing import DefaultDict, Tuple, Optional
+from typing import DefaultDict, Optional
 
 import os
 from collections import defaultdict
@@ -106,7 +106,7 @@ def read_all_words() -> list[str]:
     return words
 
 
-def parse_line(s: str) -> Tuple:
+def parse_line(s: str) -> tuple:
     """Parse a single line entry into its constitutent parts
     i.e. word and definition strings, and return as tuple."""
     comp = s.split()
