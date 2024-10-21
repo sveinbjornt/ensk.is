@@ -423,8 +423,6 @@ nerve-racked
 overgrown
 reiteration
 pannikin
-differentiate
-differentiation
 identifiable
 unidentifiable
 regimentation
@@ -1163,6 +1161,7 @@ flagstone
 collegial
 collegiality
 balkanization
+viscera
 visceral
 viscerally
 radiator
@@ -3506,7 +3505,6 @@ visitorship
 baulk
 amyloid
 queef
-amygdala
 epithermal
 punchline
 campy
@@ -4305,3 +4303,4 @@ mana
 overdetermined
 magnum opus
 astrakhan
+schlocky

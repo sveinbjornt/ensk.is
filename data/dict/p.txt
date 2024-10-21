@@ -2270,19 +2270,19 @@ protectorate n. verndarríki; ríkisstjóraembætti
 protectorial l. verndar-
 protectorship n. ríkisstjóraembætti; vernd
 protectress n. verndarkona
-protest s. mótmæla; fullyrða, staðhæfa, lýsa yfir; afsegja ([~ a bill]); [she ~ed her innocence] hún fullyrti, að hún væri saklaus; n. mótmæli; afsagnargerð, afsögn (víxils); yfirlýsing (um sjóskaða á vörum)
-protestant n. & l. mótmælandi
+protest s. mótmæla; fullyrða, staðhæfa, lýsa yfir; afsegja ([~ a bill]); [she ~ed her innocence] hún fullyrti að hún væri saklaus; n. mótmæli; afsagnargerð, afsögn (víxils); yfirlýsing (um sjóskaða á vörum)
+protestant n. mótmælandi (í trúarefnum); l. mótmælanda-
 protestantism n. mótmælendatrú
 protestation n. hátíðleg yfirlýsing; mótmæli
 protocol n. frumskjal, uppkast (að samningi); samskiptareglur, samskiptamáti; s. gera uppkast
 protoplasm n. frumslím, frymi
 protoplast n. frummynd
 prototype n. frummynd, frumgerð, fyrirmynd
-protract s. draga, fresta; [a ~ed visit] löng heimsókn
+protract s. draga, fresta, lengja
 protraction n. dráttur
 protractor n. hornamælir
-protrude s. hrinda áfram; standa út eða fram
-protrusion n. framhrundning; framskögun
+protrude s. standa út eða fram; hrinda áfram
+protrusion n. framskögun; framhrundning
 protrusive l. framstandandi; framknýjandi; áleitinn
 protuberance n. upphækkun, hæð, hóll; kúla (á holdi)
 protuberant l. útstandandi eða framstandandi ([a ~ nose])
@@ -2293,9 +2293,9 @@ provedore n. bryti
 proven l. sannaður; [not ~] ósannaður
 provenance n. uppruni
 provender n. þurrt skepnufóður (svo sem hey og korn)
-proverb n. málsháttur; orðskviður
-proverbial l. orðskviðarlegur; alkunnur; [become ~] verða að máltæki
-proverbist n. orðskviða- eða málsháttasafnari
+proverb n. málsháttur; spakmæli; orðskviður
+proverbial l. alkunnur; málshátta-, spakmæla-, orðskviðulegur; ; [become ~] verða að máltæki
+proverbist n. málshátta-, spakmæla- eða orðskviðasafnari
 provide s. útvega, sjá fyrir (e-u); ákveða (með lögum); [~ with] birgja að, útbúa með; [~ against] sjá við (e-u), afstýra; [~ for] annast um, sjá um; [~d that] svo framarlega sem, ef
 providence n. forsjá; forsjón ([divine ~]); framsýni; fyrirhyggja
 provident l. fyrirhyggjusamur, forsjáll, framsýnn

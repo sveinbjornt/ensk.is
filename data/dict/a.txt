@@ -393,13 +393,13 @@ administer s. stjórna, ráða fyrir; veita, útbýta; gefa inn (lyf); annast um
 administration n. stjórn, stjórnarráð, stjórnsýsla; úthlutun; inngjöf
 administrative l. stjórnlegur, stjórnsýslulegur
 administrator n. stjórnari, forráðamaður
-admirable l. aðdáanlegur
-admirably ao. aðdáanlega
+admirable l. aðdáanlegur; lofsverður
+admirably ao. aðdáanlega; á lofsverðan hátt
 admirableness n. aðdáanleiki
 admiral n. flotaforingi, sjóliðsforingi, aðmíráll; aðmírálsskip
 admiralship n. flotaforingjatign, aðmírálstign; flotastjórn
-admiration n. undrun; aðdáun
-admire s. undrast; dást að
+admiration n. aðdáun; virðing; undrun
+admire s. dá, dást að; líta upp til; bera virðingu fyrir; undrast
 admirer n. aðdáandi
 admissible l. leyfilegur
 admission n. aðganga, upptaka ([~ to a society]); viðurkenning, játning
@@ -411,12 +411,12 @@ admonish s. áminna; vara við ([of/against])
 admonition n. áminning; viðvörun
 admonitory l. áminnandi
 ado n. fyrirhöfn, umstang, umsvif ([without further ~])
-adolescence n. æskualdur, æska
-adolescent l. uppvaxandi; n. unglingur
-adopt s. taka í barns stað, ættleiða; taka upp (sið, aðferð, orð), aðhyllast; [an ~ed child] kjörbarn, ættleitt barn
+adolescence n. unglingsaldur, unglingsárin, kynþroskaárin, æskualdur, æska
+adolescent n. unglingur; l. uppvaxandi; unglings- ([~ behaviour])
+adopt s. ættleiða; taka í barns stað; taka upp (sið, aðferð, orð), aðhyllast; [an ~ed child] ættleitt barn, kjörbarn
 adoption n. ættleiðing, ættleiðsla; upptekning; val
-adoptive l. ættleiddur; aðfenginn; [~ son] kjörsonur, ættleiddur sonur
-adorable l. tilbeiðsluverður, guðdómlegur
+adoptive l. ættleiddur; aðfenginn; [~ son] ættleiddur sonur, kjörsonur
+adorable l. tilbeiðsluverður, guðdómlegur; sætur, hrífandi ([an ~ child])
 adoration n. tilbeiðsla, dýrkun
 adore s. tilbiðja, dýrka; unna hugástum
 adorer n. dýrkandi; aðdáandi

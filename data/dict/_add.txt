@@ -3325,6 +3325,7 @@ physiocratic l. búauðgis- (sjá %[physiocratism]%)
 physiocratism n. búauðgisstefna (hagfræðikenning frá 18. öld)
 binational l. tvíþjóðlegur
 metabolic l. efnaskipta-
+metabolically ao. efnaskiptalega, er varðar efnaskipti
 pollination n. frævun
 pollinate s. fræva, frjóvga (plöntu)
 self-pollination n. sjálffrævun
@@ -5604,3 +5605,9 @@ ADHD n. athyglisbrestur (taugaröskun); stytt. á [attention deficit hyperactivi
 esterification n. estramyndun
 trivialization n. það að gera lítið úr (e-u)
 trivialize s. gera lítið úr, gera ómerkilegt
+protracted l. langvinnur, langdreginn, langvarandi
+differentiate s. aðgreina, greina á milli; deilda, diffra
+differentiation n. aðgreining, greining á milli; deildun, diffrun
+death squad n. dauðasveit
+execution squad n. aftökusveit
+amygdala n. amygdala, mandla (hluti af randkerfi heilans)

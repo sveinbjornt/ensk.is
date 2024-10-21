@@ -878,3 +878,5 @@ ahistorical
 colibri
 Dionysian
 whitelisted
+trivialization
+decametre
