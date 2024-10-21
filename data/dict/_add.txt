@@ -2289,7 +2289,7 @@ Abyssinia n. Abyssinía (gamalt heiti yfir landið Eþíópíu)
 Abyssinian l. abyssinskur (eþíópískur)
 Vulgate n. Vúlgata (latnesk þýðing á Biblíunni)
 Homeric l. hómerskur, Hómers-, kenndur við forngríska skáldið Hómer
-systematically ao. kerfisbundið, á skipulagðan hátt
+systematically ao. kerfisbundið, á kerfisbundinn hátt, á skipulagðan hátt
 insurer n. e-r sem vátryggir, (vá)tryggingafélag
 uninsurable l. óvátryggjanlegur
 uninsured l. óvátryggður
@@ -3877,7 +3877,7 @@ hybridization n. kynblöndun, samæxlun
 hybridized l. kynblandaður, samæexlaður
 vulcanization n. gúmmísuða
 incommensurability n. ósammælanleiki, ósambærileiki
-galvanization n. sinkhúðun, galvanhúðun
+galvanization n. sinkhúðun, galvanhúðun; virkjun, hvatning
 sclerosis n. herðing eða hersli í vef eða líffæri
 psychosomatic l. geðvefrænn
 parametric l. stikaður, stikabundinn
@@ -5611,3 +5611,4 @@ differentiation n. aðgreining, greining á milli; deildun, diffrun
 death squad n. dauðasveit
 execution squad n. aftökusveit
 amygdala n. amygdala, mandla (hluti af randkerfi heilans)
+rustling n. þjófnaður eða stuldur á búfénaði; l. skrjáfandi
