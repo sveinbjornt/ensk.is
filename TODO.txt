@@ -1,6 +1,6 @@
 TODO list for ensk.is:
 
-* Fuzzy suggestions, matches
+* Fuzzy suggestions, matches ("Did you mean X, Y or Z?")
 * Fix double IPA entries for US English
 * Use paralell corpora
 * Do lookup of English word cats for each entry and see if there is the appropriate correspondence
@@ -15,3 +15,4 @@ TODO list for ensk.is:
 * If no result found, lemmatize word and try again? Be smart?
 * Dark mode!
 * aiosqlite?
+* Support search for strings shorter than 3 chars, but only deliver exact results

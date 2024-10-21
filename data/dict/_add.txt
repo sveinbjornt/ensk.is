@@ -1072,8 +1072,8 @@ tergum n. bakskjöldur
 PIN n. persónunúmer, persónulegt kenninúmer (stytt. á [personal identification number])
 HIV n. eyðniveira, alnæmisveira (stytt. á [human immunodeficiency virus])
 surrealism n. súrrealismi, fjarstæðustefna (stefna í listum og bókmenntum)
-surreal n. súrrealískt, fjarstæðukennt, sem ber svip af súrrealisma (sá %[surrealism]%)
-sleaze n. viðbjóður, spilling, svindl
+surreal n. súrrealískur, fjarstæðukenndur, sem ber svip af súrrealisma (sá %[surrealism]%)
+sleaze n. viðbjóður, spilling, svindl, subbuskapur, ógeðfeldni
 flab n. spik, fita
 yuppie n. (óforml.) uppi, ung fagmanneskja í þéttbýli (stytt. á [young urban professional])
 visa n. vegabréfsáritun, áritun, dvalarleyfi ([my ~ has expired])
@@ -1116,7 +1116,7 @@ vis-a-vis fs. sjá %[vis-à-vis]%
 vis-à-vis fs. gagnvart, andspænis, á móti; augliti til auglitis
 newbie n. nýgræðingur, byrjandi, grænjaxl
 VIP n. mjög mikilvæg manneskja (stytt. á [very important person])
-educated l. menntaður, vel upplýstur; [an ~ guess] vel grundvölluð ágiskun
+educated l. menntaður; vel upplýstur; [an ~ guess] vel grundvölluð ágiskun
 roulette n. rúlletta; [Russian ~] rússnesk rúlletta
 sadism n. kvalalosti, kvalafýsn, sadismi
 sadist n. lostakvalari, sadisti
@@ -3099,7 +3099,7 @@ supranational l. yfirþjóðlegur, yfirríkja-, sem er ofar eða æðri ríkjum
 backside n. bakhlið; afturendi; rass
 vegan n. vegani, grænkeri (e-r sem neytir ekki afurða úr dýraríkinu); l. grænkera-; [~ meal] grænkeramáltíð
 veganism n. veganismi, grænkerasiður (sjá %[vegan]%)
-godforsaken l. guðsvolaður
+godforsaken l. guðsvolaður, yfirgefinn af guði
 astrolabe n. stjörnuskífa
 abacus n. talnagrind, reiknigrind
 slide rule n. reiknistokkur
@@ -5486,7 +5486,7 @@ infanticidal l. barnamorðs-
 dactylography n. fingrafarafræði
 landline n. landlína, jarðlína
 enthralling l. töfrandi, gagntakandi, hrífandi
-hindquarters n. ft. afturlhuti (líkamans)
+hindquarters n. ft. afturhluti (líkamans)
 salami n. (ítölsk) spægipylsa
 overstimulate s. oförva
 overstimulated l. oförvaður
@@ -5570,8 +5570,8 @@ cyber-attack n. tölvuárás, netárás
 rosarium n. rósagarður
 well-proportioned l. í góðum hlutföllum
 drool s. slefa; n. slef
-hookah n. vatnspípa
-acrimoniously ao. beisklega, biturlega, með heift
+hookah n. (miðausturlensk) vatnspípa
+acrimoniously ao. beisklega, biturlega, með heift, í illindum
 codename n. dulnefni; kenninafn; þróunarnafn
 ahistorical l. ósögulegur; ekki samkvæmt sögunni eða sagnfræðinni; án sögulegs eða sagnfræðilegs samhengis
 djinn n. e-s konar andi (í arabískum þjóðsögum)
@@ -5581,4 +5581,15 @@ paradoxically ao. á þversagnarkenndan hátt, þversagnarlega
 MDMA n. metýlendíoxýmetamfetamín, alsæla (vímuefni); sjá %[ecstasy]%
 limitlessness n. takmarkaleysi, ótakmörkun
 soft-spoken l. mjúkmæltur, mjúkmáll, blíðmæltur, blíðmáll, mildur í máli
-colibri n. kolibrí (fugl); sjá %[hummingbird]%)
+colibri n. kolibrífugl (sjá %[hummingbird]%)
+isolable l. sem hægt er að einangra, einangranlegur (sjá %[isolate]%)
+isolating l. einangrandi
+insulating l. einangrandi
+cyberwarfare n. rafrænn hernaður, tölvuhernaður, nethernaður
+Revelations n. ft. [Book of ~] opinberunarbók Jóhannesar (í biblíunni)
+colonoscopy n. ristilspeglun
+cellist n. sellóleikari
+Dionysian l. díónýsískur
+winemaking n. víngerð, vínframleiðsla, vínbruggun
+winemaker n. víngerðarmaður, vínbruggari, vínframleiðandi
+bourse n. evrópsk verðbréfakauphöll

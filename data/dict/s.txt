@@ -700,9 +700,9 @@ sere l. þurr
 serenade n. söngur og hljóðfæraleikur að kvöldi dags eða á næturþeli (einkum undir gluggum unnustu); s. flytja (unnustu) ástarljóð að kvöldi dags
 serene l. heiður, heiðríkur; rólegur, kyrrlátur
 serenity n. heiðríkja; rósemi
-serf n. þræll, ánauðarbóndi ([~ of the soil])
-serfdom n. þrældómur, ánauð, bændaánauð
-serfhood n. þrældómur, ánauð, bændaánauð
+serf n. þræll; ánauðarbóndi ([~ of the soil])
+serfdom n. þrældómur, ánauð; bændaánauð
+serfhood n. þrældómur, ánauð; bændaánauð
 serge n. grófur ullardúkur, stórt vaxkerti (í kirkjum)
 sergeant n. undirforingi; málflutningsmaður (úr efsta flokki, [~ at law])
 sergeant-at-arms n. lögreglumeistari í enska þinginu
