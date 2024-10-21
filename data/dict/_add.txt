@@ -3961,7 +3961,7 @@ schmaltz n. væmni
 schmaltzy l. væminn
 smokescreen n. reykskjöldur sem villir fyrir eða felur
 replacement n. endurnýjun; afleysing; sem kemur í stað annars, staðgengill
-gyroscope n. snúða, spunakona; gýróskóp
+gyroscope n. snúða, spunakona; gýróskóp, snúður
 timestamp n. tímastimpill
 hijack s. að ræna flutningatæki eða flugvél; n. flugrán
 hijacking n. rán á flutningatæki eða flugvél
@@ -4917,6 +4917,8 @@ Dubai n. Dúbaí (hafnarborg í Sameinuðu arabísku furstadæmunum)
 Emirati l. frá Sameinuðu arabísku furstadæmunum; n. maður frá Sameinuðu arabísku furstadæmunum (sjá %[United Arab Emirates]%)
 blacklist n. svartur listi; s. setja á svartan lista, útiloka, banna
 blacklisted l. settur á svartan lista, útilokaður, bannaður
+whitelist n. hvítur listi; s. setja á hvítan lista, leyfa, gefa aðgang
+whitelisted l. settur á hvítan lista, leyfður
 gymnastics n. ft. fimleikar, leikfimi
 burnout n. útbruni; kulnun í starfi
 polluter n. mengari, mengunarvaldur, mengill
@@ -5593,3 +5595,12 @@ Dionysian l. díónýsískur
 winemaking n. víngerð, vínframleiðsla, vínbruggun
 winemaker n. víngerðarmaður, vínbruggari, vínframleiðandi
 bourse n. evrópsk verðbréfakauphöll
+accelerometer n. hröðunarmælir
+chronometer n. skipsklukka; nákvæm klukka
+nanometre n. nanómeter, millímíkron
+decametre n. dekametri (10 metrar)
+OCD n. áráttu-þráhyggjuröskun; stytt. á [obsessive–compulsive disorder]
+ADHD n. athyglisbrestur (taugaröskun); stytt. á [attention deficit hyperactivity disorder]
+esterification n. estramyndun
+trivialization n. það að gera lítið úr (e-u)
+trivialize s. gera lítið úr, gera ómerkilegt

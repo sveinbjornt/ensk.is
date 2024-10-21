@@ -2295,7 +2295,6 @@ unsteady
 catlike
 isogeothermal
 parka
-bourse
 prosopography
 décor
 nous
@@ -2700,7 +2699,6 @@ Anglocentrism
 Anglocentric
 problematize
 blip
-trivialize
 tailor-made
 quincentennial
 unfound
@@ -4260,7 +4258,6 @@ polythene
 condolences (endurskoða)
 ace (endurskoða, sögn - he aced the test)
 incongruous (endurskoða)
-trivialization
 unlikable
 unlikeable
 automaticity
@@ -4301,13 +4298,10 @@ Panglossian
 Panglossic
 runt
 maenads
-esterification
 antidotary
 deadbolt
 sexting
 mana
 overdetermined
-OCD
-whitelist
-whitelisted
 magnum opus
+astrakhan

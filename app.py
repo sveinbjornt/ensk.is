@@ -226,6 +226,11 @@ def cache_response(func):
     return wrapper
 
 
+@app.exception_handler(404)
+def not_found_exception_handler(request: Request, exc: HTTPException):
+    return TemplateResponse("404.html", {"request": request}, status_code=404)
+
+
 @app.get("/")
 @app.head("/")
 @cache_response
