@@ -466,9 +466,9 @@ sea calf n. selur, kópi
 sea egg n. ígulker
 sea elephant n. blöðruselur
 seafaring l. sjófarandi; [~ class] sjómannastétt; [~ life] sjómannalíf
-sea fight n. sjóorusta
+sea fight n. sjóorrusta, sjóbardagi, bardagi á hafi úti
 sea hen n. langvía
-sea level n. sjávarflötur, sjávarmál
+sea level n. sjávarmál, sjávarflötur
 seaman n. sjómaður
 seamanship n. sjómennska, sjókæni
 seamark n. leiðarmerki (á sjó)
@@ -483,7 +483,7 @@ sea swallow n. rita
 sea urchin n. ígulker
 seaward ao. til sjávar; l. sem liggur með eða nálægt sjó
 seaweed n. þang, þari; marhálmur
-sea wolf n. steinbitur
+sea wolf n. steinbítur
 seaworthy l. (um skip) sjófær, haffær
 sea wrack n. bóluþang
 seal n. selur
@@ -1267,7 +1267,7 @@ skinny l. skinnkenndur; magur, grannur
 skip s. hoppa; hlaupa (stökkva) yfir (í lestri); n. hopp, stökk
 skipper n. hoppari; galgopi; skipstjóri á litlu kaupskipi
 skirl n. skrækur; s. skrækja
-skirmish n. smáorusta; orðadeila; s. berjast í smáorustum
+skirmish n. smáorrusta; orðadeila; s. berjast í smáorustum
 skirt n. (frakka)laf; pils; jaðar, rönd; útskækill; þind (í skepnu); s. lykja um, liggja að röndinni (jaðrinum) á; [a plain ~ed by rows of trees] slétta, sem er umlukt af trjáröðum
 skit n. háðrit ([a political ~]); skúr ([~ of rain]), él ([~ of snow])
 skittish l. styggur, fælinn; gáskafullur, léttúðugur, hviklyndur

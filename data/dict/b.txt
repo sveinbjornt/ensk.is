@@ -230,8 +230,8 @@ baton n. stafur ([marshal's ~]); tónsproti
 batten s. þrífast, fitna; styrkja; n. planki, gólfborð
 batter s. slá, berja; beygla, brengla; skjóta niður (virki)
 battering ram n. múrbrjótur
-battery n. skotbyrgi; stórskotaliðsflokkur; atför, frumhlaup; [electrical ~] rafgeymir, batterí
-battle n. orusta; s. berjast
+battery n. batterí, rafgeymir ([electrical ~]); barsmíðar; skotbyrgi; stórskotaliðsflokkur; atför, frumhlaup
+battle n. orrusta, bardagi; s. berjast
 battle array n. fylking
 battlefield n. vígvöllur
 battlement n. brjóstvirki með skörðum

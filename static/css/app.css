@@ -68,8 +68,8 @@ div.result {
     margin-bottom: 0.7em;
 }
 
-div.item {
-    margin-bottom: 0.5em;
+span.result_definition_text {
+    cursor: default !important;
 }
 
 div.item ul {

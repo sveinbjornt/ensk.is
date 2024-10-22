@@ -1078,7 +1078,7 @@ pistole n. spænskur peningur
 piston n. dælubulla
 pit n. gjá; náma; gröf, gryfja; víti; handarkriki ([arm~]); bóluör; gólfið (í leikhúsi); staður, þar sem hanaat fer fram; [~ of the stomach] hjartagróf; s. setja holur í; setja á móti ([against]); [~ted with the smallpox] bólugrafinn
 pit-a-pat ao. tikk-tikk; [his heart went ~] hann hafði ákafan hjartslátt; n. hjartsláttur; trítl, ótt og títt fótatak ([the ~ of the horse's hooves])
-pitch n. bik, tjara; tindur; efsti toppur; dýfa; hæð; tónhæð; halli (á þaki); stig; [soar a high ~] svífa hátt upp; s. bika; reka niður; festa; reisa (tjald); setja (herbúðir); kasta; stilla (hljóðfæri); steypast; höggva (um skip); [a ~ed battle] höfuðorusta; [~ into] ráðastá; [~ upon a day] taka til dag
+pitch n. bik, tjara; tindur; efsti toppur; dýfa; hæð; tónhæð; halli (á þaki); stig; [soar a high ~] svífa hátt upp; s. bika; reka niður; festa; reisa (tjald); setja (herbúðir); kasta; stilla (hljóðfæri); steypast; höggva (um skip); [a ~ed battle] höfuðorrusta; [~ into] ráðastá; [~ upon a day] taka til dag
 pitch-black l. biksvartur
 pitch-dark l. koldimmur
 pitch darkness n. niðamyrkur
@@ -1655,10 +1655,10 @@ prank n. hrekkur, hrekkjabragð, gletta; leikur, galgopaskapur; ærsl, læti; s.
 prankish l. hrekkjóttur; glettinn; ærslafullur; pöróttur
 prate s. masa, þvaðra; n. mas, hégómatal
 prater n. masari
-prattle s. masa; hjala (um börn); n. mas, hjal, bull
+prattle s. masa; þvaðra; hjala (um börn); n. mas, hjal, þvaður, bull
 pravity n. spilling
 prawn n. rækja; marþvari (æt krabbategund)
-praxis n. venja
+praxis n. venja; notkun, hagnýting
 pray s. biðja (e-n); biðja um e-ð ([~ for]); biðjast fyrir; [~ for one] biðja fyrir e-m; [~ to God] biðja guð; [pray, tell me] gerið svo vel að segja mér
 prayer n. bæn; [put up (offer) ~s to] senda upp bænir til; [say one's ~s] lesa bænir sínar; biðjandi maður
 prayer book n. bænabók
@@ -1678,7 +1678,7 @@ precarious n. óvís, óviss, vafasamur, tvísýnn; ískyggilegur, hættulegur (
 precariousness n. óvissa, tvísýni
 precaution n. varúð, gætni, forsjálni; varúðarregla ([measure of ~]); [for ~, for ~s sake] fyrir varúðar sakir, til vonar og vara; s. vara við
 precautionary l. viðvörunar-; varúðar-; [a ~ tale]
-precautious l. forsjáll
+precautious l. forsjáll, gætinn
 precede s. ganga fyrir ([such duties ~ all others]); fara (eða standa) á undan ([the words that ~]); vera á undan eða fyrir; láta e-ð ganga á undan
 precedence n. forréttur; yfirburðir; [take ~ of (over)] vera (e-m) fremri
 precedency n. yfirburðir
