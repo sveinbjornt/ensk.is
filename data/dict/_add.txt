@@ -3773,7 +3773,7 @@ semiology n. einkennafræði
 heterogeneity n. misleitni
 anxiogenic l. kvíðavaldandi; n. kvíðavaldandi lyf
 anxiolytic l. kvíðastillandi; n. kvíðastillandi lyf
-psychopathology n. sálsýkisfræði
+psychopathology n. sálsýkisfræði; sálsýki
 maladjustment n. mishæfing, aðlögunarörðugleikar
 transnational l. þverþjóðlegur, fjölþjóðlegur, sem nær þvert yfir landamæri þjóða
 disunity n. sundrung, óeining, ósamstaða
@@ -3781,7 +3781,7 @@ amoral l. siðlaus, siðblindur; hvorki siðferðislegur né ósiðferðislegur
 amorality n. siðleysi, siðblinda; ónæmi fyrir siðferðiskennd
 smoked l. reyktur; [~ salmon] reyktur lax
 hero-worship n. hetjudýrkun
-fragmentation n. sundrung, klofnun, brotnun, molun ATH!!!!
+fragmentation n. sundrung, klofnun, brotnun, molun
 ministership n. ráðherraembætti; prestsembætti
 resoluteness n. fastræði; einbeittur vilji ATH!!!
 oxymoron n. mótsögn (í skáldamáli eða mælskulist)
@@ -4209,14 +4209,15 @@ biogeographically ao. líflandafræðilega
 biocultural l. lífmenningarlegur
 ethology n. hátternisfræði, atferlisfræði
 ethologist n. hátternisfræðingur, atferlisfræðingur
-multilateralism n. marghliðunarhyggja, marghliðunarstefna; marghliða samvinna eða samræður
+ethological l. hátternisfræðilegur, atferlisfræðilegur
+multilateralism n. marghliðunarhyggja, marghliðunarstefna; marghliða samvinna eða samræður; stefna eða fyrirkomulag þar sem margir aðilar koma að borðinu
 overcapacity n. umframgeta, of mikil framleiðslugeta, umframframleiðslugeta
 taro n. þerrirót, taró
 meta-analysis n. safngreining, yfirgreining, samgreining
 neuroendocrine l. taugainnkirtla-
 neuroendocrinology n. taugainnkirtlafræði
 syllabary n. atkvæðatáknróf
-addressee n. viðtakandi; viðmælandi
+addressee n. viðtakandi; viðmælandi, sá sem er ávarpaður
 polyandry n. fjölveri (þegar kona á marga eiginmenn)
 polyandrous l. fjölveris- (sjá %[polyandry]%)
 intergenerational l. milli kynslóða, millikynslóða-
