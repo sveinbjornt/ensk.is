@@ -610,6 +610,7 @@ long-term l. langtíma-; [in the long term] til langs tíma
 hinterland n. upplönd, afdalasvæði; sveitir í kringum þéttbýli
 con artist n. svikahrappur, svindlari, blekkingamaður, blekkingameistari
 optimize s. besta, hagræða, fínstilla, gera eitthvað betra eða skilvirkara
+optimized l. bestaður, hagræddur, fínstilltur, gerður skilvirkari
 optimization n. bestun, hagræðing, fínstilling, betrumbót; auka skilvirkni e-s
 optimum l. bestur, hagstæðastur; n. kjörstaða
 optimal l. eins gott og getur orðið
@@ -3655,9 +3656,8 @@ spaceport n. geimferðastöð, geimhöfn (sjá einnig %[cosmodrome]%)
 cosmodrome n. geimferðastöð, geimhöfn (sjá einnig %[spaceport]%)
 cravenness n. ragmennska, bleyði, gunguskapur, heigulsháttur
 monkswood n. bláhjálmar, freyjublóm, venusvagnar (ættkvísl jurta)
-Bavarian l. bæverskur, Bæjaralands-; n. Bæjari, Bæverji, Bæjaralendingur; bæverska (þýsk mállýska)
-millimetre n. millimetri (einn þúsundasti úr metra)
-millimeter n. millimetri (einn þúsundasti úr metra)
+millimetre n. millímetri (einn þúsundasti úr metra)
+millimeter n. millímetri (einn þúsundasti úr metra)
 wildflower n. villiblóm
 footer n. fótur, síðufótur, neðsti bálkur á síðu
 idempotent l. einkvæmur; sjálfvalda (í stærðfræði)
@@ -3957,7 +3957,8 @@ stabilizer n. jafnvægisbúnaður; stöðgari; stýriskambur; varðveisluefni (�
 stabilization n. stöðgun; festing; [price ~] verðlagsfesting
 destabilization n. óstöðgun, óstöðugleiki
 discography n. hljóðritaskrá, hljómplötuskrá, hljómplötulisti; hljómplötufræði; hryggþófamyndataka
-schlock n. rusl, drasl; l. verðlaus, ómerkilegur
+schlock n. rusl, drasl; l. lélegur, lággæða-, verðlaus, ómerkilegur
+schlocky l. lélegt, verðlaust, ómerkilegt, í lágum gæðum
 schmaltz n. væmni
 schmaltzy l. væminn
 smokescreen n. reykskjöldur sem villir fyrir eða felur
@@ -4406,7 +4407,7 @@ radiologist n. geislalæknir, röntgenlæknir
 schadenfreude n. þórðargleði, gleði yfir óförum annarra
 quadragenarian n. manneskja á fimmtugsaldri; l. á fimmtugsaldri
 pentagenarian n. manneskja á sextugsaldri; l. á sextugsaldri
-electric scooter n. rafhlaupahjól, rafbifhjól
+electric scooter n. rafhlaupahjól, rafbifhjól, rafskúta
 sea cow n. sækýr
 sub n. stytt. kafbátur (%[submarine]%); samlokubátur; forfallakennari (%[substitute teacher]%); undirgefni aðilinn í (kynlífs)sambandi (andstætt við %[dom]%)
 substitute teacher n. forfallakennari
@@ -4464,6 +4465,7 @@ Sodom n. Sódóma (borg syndara í Gamla testamentinu)
 Aphrodite n. Afródíta (grísk ástargyðja)
 horseless l. hestlaus
 Bavaria n. Bæjaraland (svæði í Suður-Þýskalandi)
+Bavarian l. bæverskur, Bæjaralands-; n. Bæjari, Bæverji, Bæjaralendingur; bæverska (þýsk mállýska)
 corrupter n. spillari, e-r sem spillir ([~ of the youth])
 musicology n. tónlistarfræði
 musicologist n. tónlistarfræðingur
@@ -5613,3 +5615,17 @@ death squad n. dauðasveit
 execution squad n. aftökusveit
 amygdala n. amygdala, mandla (hluti af randkerfi heilans)
 rustling n. þjófnaður eða stuldur á búfénaði; l. skrjáfandi
+internationalization n. alþjóðavæðing
+epiphenomenon n. fylgifyrirbæri
+cerebellum n. litli heili, hnykill
+Neptune n. Neptúnus (pláneta, rómverskt goð)
+Uranus n. Úranus (pláneta, grískt goð)
+Jupiter n. Júpíter (pláneta, rómverskt goð)
+perijove n. Júpíternánd
+cardio- fsk. hjarta-
+distill s. sjá %[distil]%
+non-reciprocal l. ógagnkvæmur
+thermonuclear l. kjarnasamruna-, samruna-
+hydrogen bomb n. vetnissprengja
+blowback n. bakslag, afturköst, neikvæðar (ófyrirséðar) afleiðingar; bakskot
+oviduct n. eggrás, eggjaleiðari, eggrás, legpípa

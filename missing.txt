@@ -624,7 +624,6 @@ grassroots
 medic
 statehood
 defund
-thylacine
 dunnart
 rewild
 shrubland
@@ -1277,6 +1276,7 @@ schema
 ethnohistory
 offbeat
 variability
+invariability
 attractor
 arriviste
 standardization
@@ -1420,7 +1420,6 @@ interethnic
 militancy
 postgraduate
 reintegration
-internationalization
 colloquium
 normalization
 associative
@@ -2688,7 +2687,6 @@ brutally
 counterterrorism
 flair
 decolonization
-epiphenomenon
 anaemic
 anemic
 imbrication
@@ -3852,7 +3850,6 @@ waxing
 waning
 Saturnalia
 passively
-cerebellum
 crispness
 ampulate
 oxidative
@@ -4303,7 +4300,27 @@ mana
 overdetermined
 magnum opus
 astrakhan
-schlocky
-thylacine
 majorly
 batch (endurskoða)
+non-starter
+subjectively
+gyrus
+goofy
+Impressionist
+Impressionism
+flattering
+unflattering
+responsibly
+irresponsibly
+theophanic
+preconceived
+including
+neurodynamic
+round robin
+diphorphism
+cuckoldry
+cuckolded
+cuck
+bushveld
+marmoset
+tamarin

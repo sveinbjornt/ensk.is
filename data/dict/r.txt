@@ -324,7 +324,7 @@ recharge s. hlaða (fylla) aftur, endurhlaða, endurfylla; kæra aftur, endurák
 recipe n. uppskrift; læknisávísun, lyfseðill
 recipient l. móttakandi; n. viðtökumaður, viðtakandi
 reciprocal l. gagnkvæmur, gagnskiptilegur, jafn á báðar hliðar ([~ love])
-reciprocally ao. aftur á móti; að sínu leyti; hins vegar; á víxl
+reciprocally ao. gagnkvæmlega; aftur á móti; að sínu leyti; hins vegar; á víxl
 reciprocate s. skiptast á; svara ([~ a sentiment]); hreyfa (hreyfast) fram og aftur; veita (gefa) hvor öðrum
 reciprocation n. hreyfing fram og aftur; skipti á gjöfum ([~ of presents]); svar, samsvörun
 reciprocity n. gagnkvæmni, gagnskiptileiki

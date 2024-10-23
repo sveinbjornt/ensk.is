@@ -993,7 +993,7 @@ brainpan n. heilakúpa
 brake n. burkni; runnur; hemill, hamla, hjólskorða
 bramble n. brómberjarunni
 brambleberry n. brómber
-bran n. sáðir
+bran n. sáðir m
 branch n. grein; armur, kvísl; námsgrein, vísindagrein ([~ of knowledge, of learning]); álma ([~ of a chandelier]); s. skjóta limum (um tré); kvíslast
 branchlet n. smágrein
 branchline n. hliðarbraut
@@ -1003,7 +1003,7 @@ brand-new l. glænýr; spánnýr ([a ~ uniform])
 bran-new l. glænýr; spánnýr ([a ~ uniform])
 brandish s. bregða, sveifla, veifa ([~ a sword/spear/cudgel]); n. sveifla
 brandy n. brennivín, konjak ([French ~])
-brass n. látún, messing; peningar; óskammfeilni
+brass n. látún, messing; peningar; óskammfeilni; yfirmennirnir ([the ~])
 brassy l. messings-; óskammfeilinn
 brat n. krakki
 brattle s. skrölta
