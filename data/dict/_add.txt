@@ -480,7 +480,6 @@ customisation n. sjá %[customization]%
 trampoline n. trampólín
 stuntman n. áhættuleikari
 compiler n. e-r sem dregur saman (úr ritum); þýðandi (hugbúnaður)
-cardiovascular l. hjarta- og æða-; [~ system] hjarta- og æðakerfi
 bling n. glingur, skartgripir (óforml.)
 telepath n. e-r sem er fjarskyggn
 telepathic l. fjarskyggn, fjarskynjandi
@@ -1750,12 +1749,12 @@ premature infant n. fyrirburi, barn sem fæðist fyrir tímann
 aerosol n. agnúði, úði
 Greek l. grískur; n. Grikki; gríska (tungumálið); [it's all ~ to me!] ég skil ekkert!
 mathematically ao. stærðfræðilega
-unafraid l. óhræddur, óttalaus
+unafraid l. óhræddur, ekki hræddur
 censorship n. ritskoðun
-worldview n. heimssýn
+worldview n. heimssýn, veraldarsýn
 undercurrent n. undiralda; undirstraumur
-infinitely ao. óendanlega
-homegrown l. heimaræktaður
+infinitely ao. óendanlega, út í óendanleika
+homegrown l. heimaræktaður, heimaalinn
 empiricist n. raunhyggjumaður (sjá %[empiricism]%)
 luminosity n. ljósafl; lýsing
 unthinkable l. óhugsandi, óhugsanlegur
@@ -2115,7 +2114,10 @@ antebellum l. fyrir stríð, fyrirstríðs-
 moorland n. mýrlendi
 imbalance n. ójafnvægi
 courtroom n. réttarsalur, dómssalur
-cardiologist n. hjartalæknir, hjartasérfræðingur
+cardio- fsk. hjarta-
+cardiology n. hjartalækningar, hjartasjúkdómafræði
+cardiologist n. hjartalæknir, hjartasérfræðingur, hjartasjúkdómafræðingur
+cardiovascular l. hjarta- og æða-; [~ system] hjarta- og æðakerfi
 motherland n. móðurland, fósturjörð
 armband n. armband
 privatization n. einkavæðing
@@ -2507,7 +2509,7 @@ autobiographer n. sjálfsævisöguritari, sjálfsævisöguhöfundur
 gregariousness n. félagslyndi; að halda sig í hópum
 groupthink n. hjarðhugsun, hóplyndi
 chromosome n. litningur
-chromosphere n. lithvolf
+chromosomal l. litninga-
 gene n. gen
 geneticist n. erfðafræðingur, genafræðingur
 autophagia n. sjálfsát
@@ -2520,8 +2522,10 @@ overestimate s. ofmeta
 maximizer n. hámarkari, e-r sem hámarkar (sjá %[maximize]%)
 craps n. sjö-ellefu (e.k. teningaspil)
 washboard n. þvottabretti
+chromosphere n. lithvolf
 mom n. mamma, móðir (óforml.)
 mommy n. mamma, móðir (óforml.)
+mum n. mamma, móðir (óforml.); l. þögull ([keep ~, ~'s the word]); s. leika látbragðsleik
 philosophically ao. heimspekilega
 uninterpretable l. ótúlkanlegur
 predictability n. fyrirsjáanleiki
@@ -3084,6 +3088,7 @@ unreliability n. óáreiðanleiki
 subhuman l. ekki alveg mennskur, undirmennskur; n. undirmenni
 asphyxiate s. kæfa; kafna
 asphyxiation n. köfnun; kæfing; súrefnisskortur
+asphyxiating l. kafnandi; kæfandi; skortandi súrefni
 asphyxiant n. kæfiefni; l. kæfandi, kæfi-
 mitochondrion n. hvatberi, kyndikorn, orkukorn (frumulíffæri)
 mitochondrial l. hvatbera- (sjá %[mitochondrion]%)
@@ -3598,6 +3603,7 @@ confetti n. skrautpappír, ræmur af (lituðum) skrautpappír
 postproduction n. eftirvinnsla, úrvinnsla, úrvinnslustig, eftirvinnslustig
 hypermasculine l. ofurkarlmannlegur
 autoimmune l. sjálfsofnæmis-; [~ disease] sjálfsofnæmissjúkdómur
+autoimmunity n. sjálfsofnæmi
 workweek n. vinnuvika
 reconfigure s. endurstilla
 reconfiguration n. endurstilling
@@ -5615,7 +5621,7 @@ differentiation n. aðgreining, greining á milli; deildun, diffrun
 death squad n. dauðasveit
 execution squad n. aftökusveit
 amygdala n. amygdala, mandla (hluti af randkerfi heilans)
-rustling n. þjófnaður eða stuldur á búfénaði; l. skrjáfandi
+rustling n. stuldur á búfénaði; skrjáf; l. skrjáfandi
 internationalization n. alþjóðavæðing
 epiphenomenon n. fylgifyrirbæri
 cerebellum n. litli heili, hnykill
@@ -5623,10 +5629,21 @@ Neptune n. Neptúnus (pláneta, rómverskt goð)
 Uranus n. Úranus (pláneta, grískt goð)
 Jupiter n. Júpíter (pláneta, rómverskt goð)
 perijove n. Júpíternánd
-cardio- fsk. hjarta-
 distill s. sjá %[distil]%
 non-reciprocal l. ógagnkvæmur
 thermonuclear l. kjarnasamruna-, samruna-
 hydrogen bomb n. vetnissprengja
 blowback n. bakslag, afturköst, neikvæðar (ófyrirséðar) afleiðingar; bakskot
 oviduct n. eggrás, eggjaleiðari, eggrás, legpípa
+uterine l. leg-
+exon n. táknröð, tjáröð (svæði í genum)
+combinatorics n. ft. talningarfræði, samtakagreining
+thusly ao. þannig, á þennan veg, á þennan hátt; á þann hátt sem sýndur er
+self-correction n. sjálfsleiðrétting
+epigenetics n. ft. umframerfðir, hjáerfðir
+ergo ao. þar af leiðandi, þess vegna
+morphological n. myndunarfræðilegur (sjá %[morphology]%)
+anaemic l. blóðlaus
+anemic l. blóðlaus
+engorgement n. offylli; hám; blóðsókn
+progesterone n. prógesterón (meðgönguhormón)

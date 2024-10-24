@@ -91,6 +91,7 @@ relatively
 computed
 compute (endurskoða)
 adaptive
+adaptiveness
 funky
 characterization
 personals
@@ -469,7 +470,6 @@ kook
 hardline
 benzedrine
 dacha
-blowback
 commissary (endurskoða skilgr.)
 gamine
 asexual
@@ -1259,7 +1259,6 @@ contender
 megalithic
 lowlander
 highlander
-morphological
 unforeseen
 notation
 demiurgic
@@ -2687,8 +2686,6 @@ brutally
 counterterrorism
 flair
 decolonization
-anaemic
-anemic
 imbrication
 neo-colonialism
 neo-colonialist
@@ -2731,11 +2728,11 @@ combinatorial
 gradualism
 ballistics
 underswell
-thusly
+infantilize
+infantilized
 infantilization
 ressentiment
 minimalization
-self-correction
 emancipationist
 transvaluation
 homesteader
@@ -4333,3 +4330,13 @@ contralto
 mezzo-soprano
 castrato
 soubrette
+olfaction
+estrus
+adelphic
+imprinting
+monozygotic
+heterozygotic
+combinatoric
+whereto
+unrewarding
+rewarding

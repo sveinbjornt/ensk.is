@@ -78,7 +78,7 @@ TemplateResponse = templates.TemplateResponse
 # Initialize database singleton
 e = EnskDatabase(read_only=True)
 
-# Read all dictionary entries into memory
+# Read everything we want from the database into memory
 entries = e.read_all_entries()
 num_entries = len(entries)
 all_words = [e["word"] for e in entries]
@@ -231,8 +231,8 @@ def not_found_exception_handler(request: Request, exc: HTTPException):
     return TemplateResponse("404.html", {"request": request}, status_code=404)
 
 
-@app.get("/")
-@app.head("/")
+@app.get("/", include_in_schema=False)
+@app.head("/", include_in_schema=False)
 @cache_response
 async def index(request: Request):
     """Index page"""
@@ -251,7 +251,7 @@ async def _save_missing_word(word: str):
         await file.write(f"{word}\n")
 
 
-@app.get("/search")
+@app.get("/search", include_in_schema=False)
 async def search(request: Request, q: str):
     """Return page with search results for query."""
     q = q.strip()
@@ -291,8 +291,8 @@ CAT_TO_NAME = {
 }
 
 
-@app.get("/item/{w}")
-@app.head("/item/{w}")
+@app.get("/item/{w}", include_in_schema=False)
+@app.head("/item/{w}", include_in_schema=False)
 async def item(request: Request, w):
     """Return page for a single dictionary word definition."""
     results, _ = _results(w, exact_match=True)
@@ -318,8 +318,8 @@ async def item(request: Request, w):
     )
 
 
-@app.get("/page/{n}")
-@app.head("/page/{n}")
+@app.get("/page/{n}", include_in_schema=False)
+@app.head("/page/{n}", include_in_schema=False)
 async def page(request: Request, n):
     """Return page for a single dictionary page image."""
     n = int(n)
@@ -339,8 +339,8 @@ async def page(request: Request, n):
     )
 
 
-@app.get("/files")
-@app.head("/files")
+@app.get("/files", include_in_schema=False)
+@app.head("/files", include_in_schema=False)
 @cache_response
 async def files(request: Request):
     """Page containing download links to data files."""
@@ -365,8 +365,8 @@ async def files(request: Request):
     )
 
 
-@app.get("/about")
-@app.head("/about")
+@app.get("/about", include_in_schema=False)
+@app.head("/about", include_in_schema=False)
 @cache_response
 async def about(request: Request):
     """About page."""
@@ -388,8 +388,8 @@ async def about(request: Request):
     )
 
 
-@app.get("/zoega")
-@app.head("/zoega")
+@app.get("/zoega", include_in_schema=False)
+@app.head("/zoega", include_in_schema=False)
 @cache_response
 async def zoega(request: Request):
     """Page with details about the Zoega dictionary."""
@@ -399,8 +399,8 @@ async def zoega(request: Request):
     )
 
 
-@app.get("/english")
-@app.head("/english")
+@app.get("/english", include_in_schema=False)
+@app.head("/english", include_in_schema=False)
 @cache_response
 async def english_redirect(request: Request):
     """Redirect to /english_icelandic_dictionary."""
@@ -408,7 +408,7 @@ async def english_redirect(request: Request):
     return RedirectResponse(url="/english_icelandic_dictionary", status_code=301)
 
 
-@app.get("/apple-touch-icon.png")
+@app.get("/apple-touch-icon.png", include_in_schema=False)
 @cache_response
 async def apple_touch_icon_redirect(request: Request):
     """Redirect to /apple-touch-icon.png"""
@@ -416,8 +416,8 @@ async def apple_touch_icon_redirect(request: Request):
     return RedirectResponse(url="/static/img/apple-touch-icon.png", status_code=301)
 
 
-@app.get("/english_icelandic_dictionary")
-@app.head("/english_icelandic_dictionary")
+@app.get("/english_icelandic_dictionary", include_in_schema=False)
+@app.head("/english_icelandic_dictionary", include_in_schema=False)
 @cache_response
 async def english(request: Request):
     """English page."""
@@ -436,8 +436,8 @@ async def english(request: Request):
     )
 
 
-@app.get("/all")
-@app.head("/all")
+@app.get("/all", include_in_schema=False)
+@app.head("/all", include_in_schema=False)
 @cache_response
 async def all(request: Request):
     """Page with links to all entries."""
@@ -452,8 +452,8 @@ async def all(request: Request):
     )
 
 
-@app.get("/cat/{category}")
-@app.head("/cat/{category}")
+@app.get("/cat/{category}", include_in_schema=False)
+@app.head("/cat/{category}", include_in_schema=False)
 async def cat(request: Request, category: str):
     """Page with links to all entries in the given category."""
     entries = CAT2ENTRIES.get(category, [])
@@ -470,8 +470,8 @@ async def cat(request: Request, category: str):
     )
 
 
-@app.get("/capitalized")
-@app.head("/capitalized")
+@app.get("/capitalized", include_in_schema=False)
+@app.head("/capitalized", include_in_schema=False)
 @cache_response
 async def capitalized(request: Request):
     """Page with links to all words that are capitalized."""
@@ -487,8 +487,8 @@ async def capitalized(request: Request):
     )
 
 
-@app.get("/original")
-@app.head("/original")
+@app.get("/original", include_in_schema=False)
+@app.head("/original", include_in_schema=False)
 @cache_response
 async def original(request: Request):
     """Page with links to all words that are original."""
@@ -504,8 +504,8 @@ async def original(request: Request):
     )
 
 
-@app.get("/nonascii")
-@app.head("/nonascii")
+@app.get("/nonascii", include_in_schema=False)
+@app.head("/nonascii", include_in_schema=False)
 @cache_response
 async def nonascii_route(request: Request):
     """Page with links to all words that contain non-ASCII characters."""
@@ -520,8 +520,8 @@ async def nonascii_route(request: Request):
     )
 
 
-@app.get("/duplicates")
-@app.head("/duplicates")
+@app.get("/duplicates", include_in_schema=False)
+@app.head("/duplicates", include_in_schema=False)
 @cache_response
 async def duplicates(request: Request):
     """Page with links to all words that are duplicates."""
@@ -537,8 +537,8 @@ async def duplicates(request: Request):
     )
 
 
-@app.get("/additions")
-@app.head("/additions")
+@app.get("/additions", include_in_schema=False)
+@app.head("/additions", include_in_schema=False)
 @cache_response
 async def additions_page(request: Request):
     """Page with links to all words that are additions to the original dictionary."""
@@ -554,8 +554,8 @@ async def additions_page(request: Request):
     )
 
 
-@app.get("/stats")
-@app.head("/stats")
+@app.get("/stats", include_in_schema=False)
+@app.head("/stats", include_in_schema=False)
 @cache_response
 async def stats(request: Request):
     """Page with statistics on dictionary entries."""
@@ -600,14 +600,14 @@ async def stats(request: Request):
     )
 
 
-@app.get("/favicon.ico")
-@app.head("/favicon.ico")
+@app.get("/favicon.ico", include_in_schema=False)
+@app.head("/favicon.ico", include_in_schema=False)
 async def favicon(request: Request):
     return RedirectResponse(url="/static/img/favicon.ico", status_code=301)
 
 
-@app.get("/sitemap.xml")
-@app.head("/sitemap.xml")
+@app.get("/sitemap.xml", include_in_schema=False)
+@app.head("/sitemap.xml", include_in_schema=False)
 @cache_response
 async def sitemap(request: Request) -> Response:
     return TemplateResponse(
@@ -617,8 +617,8 @@ async def sitemap(request: Request) -> Response:
     )
 
 
-@app.get("/robots.txt")
-@app.head("/robots.txt")
+@app.get("/robots.txt", include_in_schema=False)
+@app.head("/robots.txt", include_in_schema=False)
 @cache_response
 async def robots(request: Request) -> Response:
     return TemplateResponse("robots.txt", {"request": request}, media_type="text/plain")

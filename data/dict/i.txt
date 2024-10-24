@@ -917,7 +917,7 @@ inhibitory l. aftrandi, hindrandi
 inhospitable l. ógestrisinn
 inhospitality n. ógestrisni
 inhuman l. ómannúðlegur, grimmur; ómannlegur
-inhumane l. ómannúðlegur
+inhumane l. ómannúðlegur, grimmur
 inhumanity n. ómannúð, grimmd
 inhumate s. jarða, greftra
 inhumation n. greftrun
@@ -1218,7 +1218,7 @@ interfluent l. sem rennur hvor í annan
 interfoliate s. sjá %[interleave]%
 interfuse s. dreifa yfir eða inn á milli; hella í eða á milli; blanda (blandast) saman
 interfusion n. samblöndun
-interim n. millibil
+interim n. millibil, millitíð; l. millibils-, millitíðar-
 interimistic l. millibilslegur, sem er til bráðabirgða
 interior l. innri, innanverður; n. innri hluti, innyfli; [Secretary of the Interior] innanríkisráðherra
 interjacent l. milliliggjandi ([~ between ...])

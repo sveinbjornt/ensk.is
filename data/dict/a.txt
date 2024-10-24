@@ -123,12 +123,12 @@ absolve s. leysa e-n undan e-u ([from]); veita e-m syndalausn; sýkna ([of] e-n 
 absonant l. ósamræmur ([to, from]); fjarstæður
 absorb s. drekka (soga) í sig; gleypa; [~ed in a book] sokkinn ofan í bók
 absorbent l. sem sogar í sig
-absorption n. upptaka
-absorptive l. sogandi, sog-
+absorption n. upptaka; gleyping
+absorptive l. sogandi, sog-; gleypandi
 abstain s. halda sér frá, varna við e-u ([from]); vera í bindindi
 abstainer n. bindindismaður
-abstemious l. bindindissamur; sparneytinn
-abstemiousness n. bindindissemi; hófsemi
+abstemious l. bindindissamur; hófsamur; sparneytinn
+abstemiousness n. bindindissemi; hófsemi; sparsemi
 abstention n. vörnun við e-u ([~ from Sunday service])
 absterge s. hreinsa
 abstergent l. hreinsandi; n. hreinsunarlyf
@@ -703,7 +703,7 @@ alegar n. öledik, súrt öl
 alert l. var um sig; fjörugur, hvatlegur; n. skyndilegt áhlaup; [on the ~] á varðbergi
 alertness n. árvekni, hvatleiki
 alfresco ao. undir berum himni
-algebra n. bókstafareikningur, tölvísi, algebra
+algebra n. algebra, bókstafareikningur, tölvísi
 algous l. þang-, þara-
 alias ao. annars, endranær
 alibi n. vera annars staðar, fjarvera, fjarvistarsönnun ([proof of an ~])

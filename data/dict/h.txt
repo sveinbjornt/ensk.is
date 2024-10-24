@@ -164,7 +164,7 @@ hare n. héri
 harebrained l. léttúðugur, gapalegur ([~ folly])
 harehearted l. huglaus
 harelip n. skarð í efri vör
-harem n. kvennabúr (hjá Tyrkjum og Austurlandabúum)
+harem n. kvennabúr
 haricot n. e.k. kjötréttur, ragú
 hark s. hlusta (á [to]); [~!] þei! [hark ye, harkee] heyrið, hlustið!
 hark s. fara, koma ([~ away, off, forward, back]); [~ one on, forward] reka áfram með köllum, siga (hundum) áfram; [~ back] kalla e-n til baka
@@ -931,7 +931,7 @@ humanism n. mannseðli; fornmenntaástundun; menningarstefna; húmanismi
 humanist n. húmanisti; hugvísindamaður; fornmenntamaður
 humanistic l. húmanískur; hugvísindalegur; fornmenntalegur
 humanistical l. húmanískur; hugvísindalegur; fornmenntalegur
-humanitarian n. mannvinur; l. mannúðar-
+humanitarian l. mannúðar-; n. mannvinur ([he is a true ~])
 humanity n. mannkyn; mannlegt eðli, manndómur; mannúð, manngæska
 humanities n. ft. hugvísindi; latneskar og grískar fornmenntir
 humanize s. gera líkan manni; veita mannlegt eðli; gera mannúðlegan, siða, mennta
