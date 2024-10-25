@@ -135,7 +135,7 @@ def _format_item(item: dict[str, Any]) -> dict[str, Any]:
 
     # Replace %[word]% with link to intra-dictionary entry
     rx = re.compile(r"%\[(.+?)\]%")
-    x = rx.sub(r"<strong><em><a href='/item/\1'>\1</a></em></strong>", x)
+    x = rx.sub(rf"<strong><em><a href='{BASE_URL}/item/\1'>\1</a></em></strong>", x)
 
     # Italicize English words
     x = x.replace("[", "<em>")
@@ -661,6 +661,26 @@ async def api_item(request: Request, w: str) -> JSONResponse:
         return _err(f"No entry found for '{ws}'")
 
     return JSONResponse(content=results[0])
+
+@app.get("/api/item/parsed/{w}")
+async def api_item_parsed(request: Request, w: str) -> JSONResponse:
+    """Return single dictionary entry in JSON format with parsed definition."""
+    ws = w.strip()
+    results, exact = _results(ws, exact_match=True)
+    if not results or not exact:
+        return _err(f"No entry found for '{ws}'")
+
+    result = results[0]
+
+    # Parse definition string into components
+    comp = unpack_definition(result["def"])
+
+    # Translate category abbreviations to human-friendly words
+    comp = {CAT_TO_NAME[k]: v for k, v in comp.items()}
+
+    result["parsed"] = comp
+
+    return JSONResponse(content=result)
 
 
 # @app.post("/api/report_missing/{w}")
