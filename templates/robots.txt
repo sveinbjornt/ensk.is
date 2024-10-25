@@ -41,7 +41,15 @@ User-agent: MJ12bot
 Disallow: /
 
 User-agent: *
+Disallow: /cgi-bin/
 Disallow: /cgi-bin/*
+Disallow: /static/img/
 Disallow: /static/img/*
+Disallow: /static/files/
 Disallow: /static/files/*
+Disallow: /static/audio/
 Disallow: /static/audio/*
+Disallow: /static/audio/dict/uk/
+Disallow: /static/audio/dict/uk/*
+Disallow: /static/audio/dict/us/
+Disallow: /static/audio/dict/us/*
