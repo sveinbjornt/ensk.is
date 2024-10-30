@@ -1382,9 +1382,9 @@ docktailed l. stýfður; með stýfðan stert ([a ~ horse])
 doctrinaire l. kreddufastur; n. kreddumaður
 doctrinal l. kenningarlegur; kreddulegur, kreddu-
 doctrine n. kenning, lærdómssetning
-document n. skírteini, sönnunarskjal; málskjal; s. útbúa með sönnunarskjölum; sanna (með skjölum)
-documentary l. skjallegur, skjala- ([~ evidence, authorities]); n. heimildarmynd
-documentation n. (skjalleg) röksemdafærsla; skjalfesting; skjölun
+document n. skírteini, sönnunarskjal; málskjal; s. skjala; skjalfesta; útbúa með sönnunarskjölum; sanna (með skjölum)
+documentary n. heimildarmynd; l. skjallegur, skjala- ([~ evidence, authorities])
+documentation n. (skjalleg) röksemdafærsla; skjalfesting; skjölun, skjalfesting
 dodder s. riða, skjálfa
 doddered l. visinn í toppinn, greinalaus ([a ~ oak])
 dodge s. stökkva til hliðar eða fram og aftur; laumast á eftir e-m; hafa brögð í frammi; koma sér undan (e-u); n. hliðarstökk; undanbragð. kænskubragð

@@ -1841,7 +1841,7 @@ consentaneous l. samkvæmur e-u, í samræmi við ([with])
 consentient l. samþykkur, samhljóða, sammála
 consequence n. afleiðing; ályktun; mikilvægi; [a person of ~] atkvæðamaður; [nothing of ~] ekkert markvert; [in ~] þess vegna; [in ~ of] sökum
 consequent l. eftirfarandi; þarafleiðandi; sjálfum sér samkvæmur
-consequential l. sem leiðir af öðru; atvikslegur; sjálfum sér samkvæmur; atkvæðamikill; þóttafullur
+consequential l. sem leiðir af öðru; sem hefur afleiðingar; atvikslegur; sjálfum sér samkvæmur; atkvæðamikill; þóttafullur
 consequentiality n. mikilmennska, þótti
 consequently ao. þess vegna
 conservation n. varðveisla; viðhald

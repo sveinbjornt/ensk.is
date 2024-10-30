@@ -68,12 +68,11 @@ maidservant n. vinnukona
 maiden n. mey, stúlka; l. meylegur; nýr, sem reyndur er í fyrsta sinn; [~ name] meyjarnafn; [~ speech] fyrsta ræða á þingi, jómfrúræða; [~ soldier] óreyndur
 maidenhead n. meydómur
 maidenhood n. meydómur
-maidenish l. meyjarlegur, teprulegur
+maidenish l. meyjarlegur; teprulegur
 maidenly l. meylegur, kvenlegur
-mail n. hringabrynja, spangabrynja ([coat of ~]); s. færa í brynju
-mail n. póstur ([send by ~]); póstpoki, bréfapoki ([~ bag]); s. senda með pósti ([~ some letters for him])
+mail n. póstur ([send by ~]); póstpoki, bréfapoki ([~ bag]); hringabrynja, spangabrynja ([coat of ~]); s. senda með pósti ([~ some letters for him]); færa í brynju
 mail coach n. póstvagn
-maim s. lemstra; skaða, meiða; n. lemstrun; meiðsl
+maim s. limlesta; lemstra; skaða, meiða; n. limlesting; lemstrun; meiðsl
 main l. megin-, aðal-, helstur ([the ~ body of the army, the ~ point, ~ line of a railway]); [have an eye to the ~ chance] hugsa um sinn eigin hag
 main n. megn, kraftur; meginhluti, megin ([the ~ of the cargo was landed]); aðalpípa, aðalræsi, aðalleiðsla; úthaf ([~ sea]); fastaland, meginland; aðalatriði; [in the ~] í öllum aðalatriðum, aðallega; [with might and ~] af alefli
 mainland n. meginland, fastaland

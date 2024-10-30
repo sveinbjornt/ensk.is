@@ -545,12 +545,12 @@ incongruity n. ósamkvæmni, mótsögn
 incongruous l. ósamkvæmur; fjarstæður, fráleitur
 inconsequence n. ósamkvæmni
 inconsequent l. ósamkvæmur
-inconsequential l. lítilvægur ([an ~ circumstance])
-inconsiderable l. lítilfjörlegur
-inconsiderate l. ónærgætinn; athugalaus
-inconsideration n. ónærgætni, athugaleysi
+inconsequential l. lítilvægur, án afleiðinga sem máli skipta ([an ~ circumstance])
+inconsiderable l. lítilfjörlegur, varla marktækur
+inconsiderate l. ótillitssamur; ónærgætinn; athugalaus
+inconsideration n. ótillitssemi; ónærgætni; athugaleysi
 inconsistency n. ósamkvæmni; staðfestuleysi
-inconsistent l. ósamkvæmur (e-u [with]); staðfestulaus
+inconsistent l. ósamkvæmur (e-u [with]), ekki samkvæmur (sjálfum sér); staðfestulaus, óreglubundinn
 inconsolable l. óhuggandi
 inconsonance n. ósamræmi; ósamkvæmni
 inconsonant l. ósamkvæmur, ósamræmilegur ([with, to])
@@ -1522,8 +1522,8 @@ irresolution n. efablendni, hik
 irresolvable l. óuppleysanlegur
 irrespective l. óháður e-u ([of])
 irrespectively ao. [~ of] án tillits til
-irresponsibility n. ábyrgðarleysi
-irresponsible l. ábyrgðarlaus
+irresponsibility n. ábyrgðarleysi, skortur á ábyrgð
+irresponsible l. ábyrgðarlaus, óábyrgur
 irretrievable l. óbætanlegur, óafturfáanlegur
 irreverence n. virðingarskortur
 irreverent l. virðingarlaus

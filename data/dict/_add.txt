@@ -797,7 +797,8 @@ Nauru n. Nárú
 Nepal n. Nepal
 Nepalese l. nepalskur; n. Nepali
 Nepali l. nepalskur; n. nepalska
-Netherlands n. ft. Niðurlönd
+Netherlands n. ft. Niðurlönd(in) ([the ~])
+Netherlander n. Niðurlendingur, Hollendingur
 New Caledonia n. Nýja-Kaledónía (sjá %[Caledonia]%)
 New Zealand n. Nýja-Sjáland
 New Zealander n. Nýsjálendingur
@@ -1287,6 +1288,7 @@ blimp n. loftbelgur, loftfar, loftskip
 Czechoslovakia n. Tékkóslóvakía
 menswear n. herrafatnaður
 womenswear n. kvenfatnaður
+sportswear n. íþróttafatnaður
 hangover n. þynnka, timburmenn
 analyst n. greinandi, sérfræðingur, rýnir, e-r sem rýnir í gögn (sjá %[analyze]%)
 logistician n. skipulagsfræðingur, birgðafræðingur, flutningafræðingur, sérfræðingur í (hernaðar)skipulagi (sjá %[logistics]%)
@@ -1761,7 +1763,6 @@ unthinkable l. óhugsandi, óhugsanlegur
 socially ao. félagslega
 Cartesian l. sem tengist heimspeki René Descartes; n. fylgismaður heimspeki Descartes
 Cartesianism n. heimspeki(stefna) René Descartes
-unsystematic l. ókerfisbundinn, óskipulegur
 enlightened l. upplýstur, fróður; búinn að sjá ljósið
 unenlightened l. óupplýstur, illa upplýstur, ófróður; ekki búinn að sjá ljósið
 enlightening l. upplýsandi
@@ -2293,6 +2294,10 @@ Abyssinian l. abyssinskur (eþíópískur)
 Vulgate n. Vúlgata (latnesk þýðing á Biblíunni)
 Homeric l. hómerskur, Hómers-, kenndur við forngríska skáldið Hómer
 systematically ao. kerfisbundið, á kerfisbundinn hátt, á skipulagðan hátt
+systemic l. kerfisbundinn, kerfislegur
+systemically ao. á kerfisbundinn hátt, kerfislega
+unsystematic l. ókerfisbundinn, óskipulegur, án kerfis
+unsystematical l. ókerfisbundinn, óskipulegur, án kerfis
 insurer n. e-r sem vátryggir, (vá)tryggingafélag
 uninsurable l. óvátryggjanlegur
 uninsured l. óvátryggður
@@ -3602,8 +3607,8 @@ flawless l. gallalaus, óaðfinnanlegur, lýtalaus, fullkominn
 confetti n. skrautpappír, ræmur af (lituðum) skrautpappír
 postproduction n. eftirvinnsla, úrvinnsla, úrvinnslustig, eftirvinnslustig
 hypermasculine l. ofurkarlmannlegur
-autoimmune l. sjálfsofnæmis-; [~ disease] sjálfsofnæmissjúkdómur
-autoimmunity n. sjálfsofnæmi
+autoimmune l. sjálfsofnæmis-, sjálfsnæmis-; [~ disease] sjálfsofnæmissjúkdómur
+autoimmunity n. sjálfsofnæmi, sjálfsnæmi
 workweek n. vinnuvika
 reconfigure s. endurstilla
 reconfiguration n. endurstilling
@@ -5374,7 +5379,7 @@ Libra n. Vogin (stjörnumerki)
 Scorpio n. Sporðdrekinn (stjörnumerki)
 Sagittarius n. Bogmaðurinn (stjörnumerki)
 triage n. neyðarflokkun, flokkun á grundvelli þarfa eða neyðar
-ageism n. aldursfordómar, fordómar gagnvart öldruðum
+ageism n. aldursfordómar, fordómar gagnvart öldruðum; mismunun á grundvelli aldurs
 ingestion n. innbyrðing, inntaka, neysla
 sacrum n. spjaldbein
 bloodless l. blóðlaus, án blóðs
@@ -5649,3 +5654,19 @@ engorgement n. offylli; hám; blóðsókn
 progesterone n. prógesterón (meðgönguhormón)
 rigidly ao. stirðlega; stranglega; harðlega
 hemolytic l. rauðaleysandi
+hyperdontia n. oftenning, tannmergð
+sinusitis n. skútabólga
+scumbag n. skíthæll, drullusokkur
+mudslinger n. leðjukastari
+mudslinging n. leðjukast
+mishmash n. hrærigrautur, samtíningur, óreiðukennd samblanda
+maiming n. limlesting; lemstrun
+nightgown n. náttkjóll
+eco- fsk. vist-, umhverfis-; sjá t.d. %[ecology]%, %[ecosystem]%
+pimpernel n. nónblóm
+acoustical n. heyrnarlegur; hljómlegur
+monozygotic l. eineggja
+olfaction n. þefskyn, lyktarskyn
+marmoset n. silkiapi
+intermezzo n. millispil
+irresponsibly ao. á óábyrgan eða ábyrgðarlausan hátt
