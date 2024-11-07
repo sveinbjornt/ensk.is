@@ -188,8 +188,8 @@ thesaurus n. samheitaorðabók
 semester n. önn; hluti skólaárs
 antibody n. mótefni
 brochure n. bæklingur
-respected l. virtur
-python n. pýtonslanga (ættkvísl óeitraðra slangna sem finnst í Afríku og í Asíu)
+respected l. virtur, sem nýtur virðingar
+python n. pýtonslanga (ættkvísl óeitraðra slangna sem finnst í Afríku og í Asíu); [Python] forritunarmál
 publicly ao. opinberlega
 groundwater n. grunnvatn
 earring n. eyrnalokkur
@@ -5666,7 +5666,34 @@ eco- fsk. vist-, umhverfis-; sjá t.d. %[ecology]%, %[ecosystem]%
 pimpernel n. nónblóm
 acoustical n. heyrnarlegur; hljómlegur
 monozygotic l. eineggja
+dizygotic l. tvíeggja
 olfaction n. þefskyn, lyktarskyn
 marmoset n. silkiapi
 intermezzo n. millispil
 irresponsibly ao. á óábyrgan eða ábyrgðarlausan hátt
+embolus n. blóðrek
+bolus n. munnbiti, tugga; stakur skammtur
+meerkat n. jarðköttur
+screenwriter n. (kvikmynda)handritshöfundur, höfundur handrita fyrir myndefni
+igloo n. snjóhús
+semicolon n. semíkomma
+graphologist n. rithandarfræðingur, rithandarsérfræðingur
+chopstick n. (asískur) matarprjónn
+tantalise s. sjá %[tantalize]%
+asteroid n. smástirni; loftsteinn
+planetoid n. smástirni
+contralateral l. gagnstæður, hinum megin
+metabolite n. umbrotsefni
+sociolinguistics n. ft. félagsmálvísindi, félagsmálfræði
+penlight n. pennaljós, lítið vasaljós
+urbanite n. þéttbýlismaður, þéttbýlisbúi, borgarbúi
+suburbanite n. úthverfabúi, úthverfamaður
+scoliosis n. hryggskekkja
+univariate l. einbreytu-, einvíður
+ribcage n. brjóstkassi
+cooperation n. sjá %[co-operation]%
+waveform n. bylgjulögun, bylgjuform
+Raeto-Romance n. retórómanska (tungumál talað í Sviss)
+Romansh n. retórómanska (tungumál talað í Sviss)
+semiotic l. táknfræðilegur
+semiotics n. ft. táknfræði

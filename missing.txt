@@ -67,7 +67,7 @@ online
 deployment
 manufacturing
 goth
-noncommissioned
+commissioned
 succinctorium
 twat
 hijinx
@@ -953,6 +953,7 @@ downside
 pushback
 toiletry
 suitcase
+operable
 inoperable
 headset
 co-workforce
@@ -1120,8 +1121,6 @@ transgressive
 roughage
 solipsist
 solipsistic
-urbanite
-suburbanite
 sartorial
 lèse-majesté
 derisively
@@ -1220,7 +1219,6 @@ underwater
 commonsensical
 urbanism
 Semitic
-chopstick
 woodworker
 reinvestment
 individuation
@@ -1373,6 +1371,7 @@ unaffordable
 ironic
 unreceptive
 demonization
+demonisation
 boomer
 deindustrialize
 deindustrialization
@@ -3637,6 +3636,8 @@ emollient (endurskoða)
 discreetly
 transponder
 luxuriously
+informed
+uninformed
 misinformed
 pitifully
 whelmed
@@ -4379,3 +4380,54 @@ sneakers
 milling
 inverted
 confrontation (endurskoða!)
+trigeminal
+overstay
+autophagy
+ambulant
+rentee
+geometrically
+frostnip
+frostnipped
+barbless
+idiopathic
+rearguard (endurskoða)
+stridency
+yank
+scupper
+avariciously
+pooper
+poop deck
+acidic
+nonacidic
+bitchy
+jiggle
+bulldoze
+craving
+saturated
+extractor
+pronatalism
+extraocular
+miseducation
+mandibular
+reignite
+acedia
+hidden
+pillock
+educatee
+unpick
+sparkler
+octet
+inlaid
+focalize
+ontogeny
+soberly
+chronobiology
+restate
+nonsequential
+metrically
+synovial
+intervertebral
+descriptor
+dealbreaker
+zoonotic
+diced

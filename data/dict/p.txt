@@ -896,7 +896,7 @@ photographical l. sem lýtur að ljósmyndagerð
 photographist n. ljósmyndari
 photography n. ljósmyndun; ljósmyndunarlist; ljósmyndagerð
 photosphere n. ljóshvolf
-phrase n. talsháttur, orðatiltæki; orðfæri; orðin tóm ([we have had enough of ~s]); [these are empty ~s] þetta er tómt orðagjálfur; [in your own ~] eins og þér sjálfur komist að orði; s. komast að orði; orða; kalla, nefna
+phrase n. talsháttur, orðatiltæki, frasi; orðfæri; orðin tóm ([we have had enough of ~s]); [these are empty ~s] þetta er tómt orðagjálfur; [in your own ~] eins og þér sjálfur komist að orði; s. komast að orði; orða; kalla, nefna
 phraseology n. orðaval, orðfæri, stíll; mál
 phrenetic l. ofsafullur, ofsafenginn
 phrenitis n. heilabólga
@@ -1452,7 +1452,7 @@ pony l. lítill hestur
 poodle n. loðhundur
 pooh uh. svei!
 pool n. pollur; hylur (í á); sundlaug ([swimming ~]); spilapeningsskál
-poop n. skutpallur, skutur; s. skella yfir skut skipsins (um bylgjur); fá sjó yfir skutinn
+poop n. kúkur; skutpallur, skutur; s. kúka; skella yfir skut skipsins (um bylgjur); fá sjó yfir skutinn
 poor l. fátækur, snauður, armur; vesæll, aumur; vesalings-, aumingja- ([the ~ child]); magur, rýr ([the crop was ~]); ófrjór; [the ~] fátæklingarnir; sveitarómagar
 poor law n. fátækralöggjöf
 poorly l. vesæll, lasinn; ao. fátæklega; vesællega, illa
