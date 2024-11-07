@@ -1,42 +1,41 @@
 #!/usr/bin/env python3
 """
 
-    Ensk.is - Free and open English-Icelandic dictionary
+Ensk.is - Free and open English-Icelandic dictionary
 
-    Copyright (c) 2021-2024 Sveinbjorn Thordarson <sveinbjorn@sveinbjorn.org>
+Copyright (c) 2021-2024 Sveinbjorn Thordarson <sveinbjorn@sveinbjorn.org>
 
-    Redistribution and use in source and binary forms, with or without modification,
-    are permitted provided that the following conditions are met:
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
 
-    1. Redistributions of source code must retain the above copyright notice, this
-    list of conditions and the following disclaimer.
+1. Redistributions of source code must retain the above copyright notice, this
+list of conditions and the following disclaimer.
 
-    2. Redistributions in binary form must reproduce the above copyright notice, this
-    list of conditions and the following disclaimer in the documentation and/or other
-    materials provided with the distribution.
+2. Redistributions in binary form must reproduce the above copyright notice, this
+list of conditions and the following disclaimer in the documentation and/or other
+materials provided with the distribution.
 
-    3. Neither the name of the copyright holder nor the names of its contributors may
-    be used to endorse or promote products derived from this software without specific
-    prior written permission.
+3. Neither the name of the copyright holder nor the names of its contributors may
+be used to endorse or promote products derived from this software without specific
+prior written permission.
 
-    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
-    ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
-    WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
-    IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT,
-    INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
-    NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
-    PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
-    WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
-    ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
-    POSSIBILITY OF SUCH DAMAGE.
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT,
+INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
+NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
 
 
-    FastAPI web application
-
+FastAPI web application
 
 """
 
-from typing import Any, Union
+from typing import Any
 
 import re
 import aiofiles
@@ -55,18 +54,32 @@ from starlette.middleware.base import BaseHTTPMiddleware
 import orjson
 
 from db import EnskDatabase
-from util import icelandic_human_size, perc, is_ascii
+from util import icelandic_human_size, perc, is_ascii, sing_or_plur
 from dict import read_wordlist, unpack_definition
 
 
 # Website settings
 WEBSITE_NAME = "Ensk.is"
-WEBSITE_DESC = "Opin og frjáls ensk-íslensk orðabók"
+WEBSITE_DESCRIPTION = "Opin og frjáls ensk-íslensk orðabók"
 WEBSITE_VERSION = "1.0"
-BASE_URL = "https://ensk.is"
+WEBSITE_LICENSE = "Public domain"
+WEBSITE_EDITOR = "Sveinbjorn Thordarson"
+WEBSITE_EMAIL = "sveinbjorn@sveinbjorn.org"
+WEBSITE_BASE_URL = "https://ensk.is"
 
 # Create app
-app = FastAPI(title=WEBSITE_NAME, description=WEBSITE_DESC, version=WEBSITE_VERSION)
+app = FastAPI(
+    title=WEBSITE_NAME,
+    description=WEBSITE_DESCRIPTION,
+    version=WEBSITE_VERSION,
+    contact={
+        "name": WEBSITE_EDITOR,
+        "email": WEBSITE_EMAIL,
+    },
+    license_info={
+        "name": WEBSITE_LICENSE,
+    },
+)
 
 # Static files
 app.mount("/static", StaticFiles(directory="static"), name="static")
@@ -99,10 +112,13 @@ for c in CATEGORIES:
 
 # Create a middleware class to set custom headers
 class AddCustomHeaderMiddleware(BaseHTTPMiddleware):
+    """Add custom headers to all responses."""
+
     async def dispatch(self, request: Request, call_next):
         response = await call_next(request)
         response.headers["Content-Language"] = "is, en"
         return response
+
 
 app.add_middleware(AddCustomHeaderMiddleware)
 
@@ -116,6 +132,7 @@ class CustomJSONResponse(FastAPIJSONResponse):
             orjson is not None
         ), "orjson must be installed to use CustomJSONResponse class"
         return orjson.dumps(content)
+
 
 JSONResponse = CustomJSONResponse
 
@@ -135,7 +152,9 @@ def _format_item(item: dict[str, Any]) -> dict[str, Any]:
 
     # Replace %[word]% with link to intra-dictionary entry
     rx = re.compile(r"%\[(.+?)\]%")
-    x = rx.sub(rf"<strong><em><a href='{BASE_URL}/item/\1'>\1</a></em></strong>", x)
+    x = rx.sub(
+        rf"<strong><em><a href='{WEBSITE_BASE_URL}/item/\1'>\1</a></em></strong>", x
+    )
 
     # Italicize English words
     x = x.replace("[", "<em>")
@@ -147,12 +166,12 @@ def _format_item(item: dict[str, Any]) -> dict[str, Any]:
 
     # Generate URLs to audio files
     audiofn = w.replace(" ", "_")
-    audio_url_uk = f"{BASE_URL}/static/audio/dict/uk/{audiofn}.mp3"
-    audio_url_us = f"{BASE_URL}/static/audio/dict/us/{audiofn}.mp3"
+    audio_url_uk = f"{WEBSITE_BASE_URL}/static/audio/dict/uk/{audiofn}.mp3"
+    audio_url_us = f"{WEBSITE_BASE_URL}/static/audio/dict/us/{audiofn}.mp3"
 
     # Original dictionary page
     p = item["page_num"]
-    p_url = f"{BASE_URL}/page/{p}" if p > 0 else ""
+    p_url = f"{WEBSITE_BASE_URL}/page/{p}" if p > 0 else ""
 
     # Create item dict
     item = {
@@ -169,6 +188,7 @@ def _format_item(item: dict[str, Any]) -> dict[str, Any]:
 
 
 def _results(q: str, exact_match: bool = False) -> tuple[list, bool]:
+    """Return processed search results for a bareword textual query."""
     if not q:
         return [], False
 
@@ -240,25 +260,25 @@ async def index(request: Request):
         "index.html",
         {
             "request": request,
-            "title": f"{WEBSITE_NAME} - {WEBSITE_DESC}",
+            "title": f"{WEBSITE_NAME} - {WEBSITE_DESCRIPTION}",
         },
     )
-
-
-async def _save_missing_word(word: str):
-    """Save word to missing words list."""
-    async with aiofiles.open("missing_words.txt", "a+") as file:
-        await file.write(f"{word}\n")
 
 
 @app.get("/search", include_in_schema=False)
 async def search(request: Request, q: str):
     """Return page with search results for query."""
+
     q = q.strip()
     if len(q) < 2:
         return _err("Query too short")
 
     results, exact = _results(q)
+
+    async def _save_missing_word(word: str):
+        """Save word to missing words list."""
+        async with aiofiles.open("missing_words.txt", "a+") as file:
+            await file.write(f"{word}\n")
 
     if not exact or not results:
         if re.match(r"^[a-zA-Z]+$", q):
@@ -276,6 +296,7 @@ async def search(request: Request, q: str):
     )
 
 
+# To JSON configuration file?
 CAT_TO_NAME = {
     "n.": "nafnorð",
     "l.": "lýsingarorð",
@@ -295,6 +316,7 @@ CAT_TO_NAME = {
 @app.head("/item/{w}", include_in_schema=False)
 async def item(request: Request, w):
     """Return page for a single dictionary word definition."""
+
     results, _ = _results(w, exact_match=True)
     if not results:
         raise HTTPException(status_code=404, detail="Síða fannst ekki")
@@ -370,10 +392,6 @@ async def files(request: Request):
 @cache_response
 async def about(request: Request):
     """About page."""
-
-    def sing_or_plur(s: Union[str, int]) -> bool:
-        return str(s).endswith("1") and not str(s).endswith("11")
-
     return TemplateResponse(
         "about.html",
         {
@@ -404,7 +422,6 @@ async def zoega(request: Request):
 @cache_response
 async def english_redirect(request: Request):
     """Redirect to /english_icelandic_dictionary."""
-
     return RedirectResponse(url="/english_icelandic_dictionary", status_code=301)
 
 
@@ -412,7 +429,6 @@ async def english_redirect(request: Request):
 @cache_response
 async def apple_touch_icon_redirect(request: Request):
     """Redirect to /apple-touch-icon.png"""
-
     return RedirectResponse(url="/static/img/apple-touch-icon.png", status_code=301)
 
 
@@ -421,7 +437,6 @@ async def apple_touch_icon_redirect(request: Request):
 @cache_response
 async def english(request: Request):
     """English page."""
-
     return TemplateResponse(
         "english.html",
         {
@@ -458,7 +473,6 @@ async def cat(request: Request, category: str):
     """Page with links to all entries in the given category."""
     entries = CAT2ENTRIES.get(category, [])
     words = [e["word"] for e in entries]
-
     return TemplateResponse(
         "cat.html",
         {
@@ -656,16 +670,19 @@ async def api_search(request: Request, q: str) -> JSONResponse:
 async def api_item(request: Request, w: str) -> JSONResponse:
     """Return single dictionary entry in JSON format."""
     ws = w.strip()
+
     results, exact = _results(ws, exact_match=True)
     if not results or not exact:
         return _err(f"No entry found for '{ws}'")
 
     return JSONResponse(content=results[0])
 
+
 @app.get("/api/item/parsed/{w}")
 async def api_item_parsed(request: Request, w: str) -> JSONResponse:
     """Return single dictionary entry in JSON format with parsed definition."""
     ws = w.strip()
+
     results, exact = _results(ws, exact_match=True)
     if not results or not exact:
         return _err(f"No entry found for '{ws}'")
