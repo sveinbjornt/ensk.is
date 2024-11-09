@@ -631,7 +631,7 @@ Argentina n. Argentína
 Argentinian l. argentínskur, frá Argentínu; n. Argentínumaður
 Armenia n. Armenía
 Armenian l. armenskur, frá Armeníu; n. Armeni; armenska
-Aruba n. Arúba
+Aruba n. Arúba (eyja í Karíbahafi)
 Australia n. Ástralía
 Australian l. ástralskur, frá Ástralíu; n. Ástrali, Ástralíumaður
 Azerbaijan n. Aserbaídsjan
@@ -5697,3 +5697,17 @@ Raeto-Romance n. retórómanska (tungumál talað í Sviss)
 Romansh n. retórómanska (tungumál talað í Sviss)
 semiotic l. táknfræðilegur
 semiotics n. ft. táknfræði
+headband n. ennisband
+octet n. áttund; átta bita bæti
+sneakers n. ft. strigaskór, íþróttaskór
+Normandy n. Normandí (svæði í Norður-Frakklandi)
+phonics n. ft. hljóðlestur
+phenotype n. svipgerð, svipfar
+phenotypic l. svipgerðar-, svipfars-
+jousting n. burtreiðar
+capybara n. flóðsvín
+grassfire n. sinubruni
+interdimensional l. milli vídda
+hatchery n. klakstöð
+interosseous l. milli beina
+brainy n. stórgáfaður, gáfaður, afburðagreindur, greindur
