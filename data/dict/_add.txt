@@ -4292,6 +4292,7 @@ asbestos n. asbest
 shockwave n. höggbylgja
 theologist n. guðfræðingur
 push-up n. armbeygja
+pushup n. armbeygja
 Hollander n. Hollendingur
 raindrop n. regndropi
 landmine n. jarðsprengja
@@ -4572,6 +4573,7 @@ file extension n. nafnauki (í heiti tölvuskjals)
 aubergine n. eggaldin
 amoeba n. amba, amaba, angalýja, slímdýr, teygjudýr
 defrost s. affrysta, þíða
+defrosted l. affrystur, þiðinn
 floss n. tannþráður; s. hreinsa tennur með tannþræði
 candy floss n. sykurfrauð
 palletization n. brettapökkun
@@ -5720,7 +5722,16 @@ overemphasize s. leggja of mikla áherslu á
 oil rig n. olíuborpallur; olíustöð
 rhetorically ao. mælskulega
 overstay l. dvelja of lengi; dvelja lengur en ([~ one's welcome])
-cock-a-doodle-doo n. gaggalagú
+cock-a-doodle-doo uh. gaggalagú!
 piste n. braut, slóð; skíðabrekka, skíðabraut
 tattooed l. húðflúraður, hörundsflúraður, tattóveraður, tattúveraður
 tattooist n. húðflúrari, hörundsflúrari
+dachshund n. greifingjahundur
+frosting n. ísing
+sanitize s. hreinsa, gjörhreinsa
+sanitizer n. hreinsari, sótthreinsari; sótthreinsiefni, hreinsiefni
+sanitized l. hreinsaður, gjörhreinsaður
+insanitation n. óhreinlæti, skortur á hreinlæti
+tropopause n. veðrahvörf, veðramörk
+neuroplasm n. taugafrymi
+neuroplasty n. taugarlögun
