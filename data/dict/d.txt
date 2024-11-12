@@ -1028,19 +1028,19 @@ discourtesy n. ókurteisi
 discover s. uppgötva, finna; komast að (e-u); sýna, gera uppskátt
 discoverer n. finnandi
 discovery n. fundur ([the ~ of America]); uppgötvun ([the voyage was one of ~])
-discredit n. óálit, óorð ([to bring ~ on]); vantraust, ótrú; s. trúa ekki; koma óorði á; veikja trúna á e-u
+discredit s. koma óorði á; veikja trúna á e-u; trúa ekki; n. óálit, óorð ([to bring ~ on]); vantraust, ótrú
 discreditable l. vansæmandi
-discreet l. gætinn; þagmælskur, orðvar ([you are a ~ man])
+discreet l. gætinn, hygginn; þagmælskur, orðvar ([you are a ~ man])
 discrepancy n. ósamkvæmni, mótsögn
 discrepant l. ósamkvæmur, ólíkur
-discrete l. sérskilinn, aðskilinn; sundurgreinilegur
+discrete l. sérskilinn, aðskilinn, afmarkaður; slitinn; stakur, stakrænn; strjáll; sundurgreinanlegur
 discretion n. gætni, hyggni; geðþótti, vild ([at his own ~]); [in/within the ~ of] á valdi e-s; [to come to (the) years (age) of ~] til vits og ára; [to surrender at ~] gefast upp skilyrðislaust
 discretional l. sjálfræðislegur, ótakmarkaður; sem er eftir eigin vild eða geðþótta
 discretionary l. sjálfræðislegur, ótakmarkaður; sem er eftir eigin vild eða geðþótta
 discretive l. sundurgreinandi ([a ~ particle])
 discriminate s. greina í sundur; gera mun á; [~ right from wrong] greina rétt frá röngu; [~ against one] vera hlutdrægur við e-n; l. skynsamlegur ([~ charity])
 discriminating l. sundurgreinandi; greindur; skarpskyggn; [~ rate/duty] skattur eða tollur sem fer eftir því hver í hlut á
-discrimination n. sundurgreining; greinarmunur
+discrimination n. sundurgreining, aðgreining; greinarmunur; mismunun
 discriminative l. einkennilegur; glöggskyggn, glöggur; [~ mark] auðkenni
 discursive l. reikandi; yfirgripsmikill; ályktandi
 discus n. kastskífa
@@ -1049,9 +1049,9 @@ discussion n. umræða ([liberty of ~]); neysla
 disdain s. fyrirlíta, lítilsvirða; forsmá; n. fyrirlitning
 disdainful l. lítilsvirðandi, forsmáandi ([of])
 disease n. sjúkdómur; s. sýkja
-diseased l. sjúkur
+diseased l. sjúkur, sýktur, haldinn sjúkdómi
 disedge s. deyfa, sljóvga
-disembark s. setja (menn eða vörur) á land; ganga á land
+disembark s. ganga á land, stíga frá borði; setja (menn eða vörur) á land
 disembarkation n. landsetning; landganga ([the ~ of the troops])
 disembarrass s. leysa, losa (úr vanda)
 disembarrassment n. lausn, leysing (úr vanda)

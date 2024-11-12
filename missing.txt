@@ -2374,7 +2374,6 @@ strongman
 extortionist
 second-guess
 comedic
-sanitizer
 intercom
 airbrush
 roofer
@@ -2386,7 +2385,6 @@ localization
 delocalization
 translocalization
 prelocalization
-
 flak
 abjectly
 self-important
@@ -3326,7 +3324,6 @@ periodicity
 conjunctural
 delapidation
 definitional
-insanitation
 skeletonization
 self-organization
 undernutrition
@@ -3838,7 +3835,6 @@ flop (endurskoða)
 satisfying
 unsatisfying
 dissatisfying
-frosting
 diabatic
 mojo
 incel
@@ -4440,6 +4436,7 @@ subtotal
 swoosh
 triforium
 goof
+juggle (endurskoða)
 juggling
 spritz
 aperiodicity
@@ -4447,3 +4444,8 @@ fortified
 devilment
 diachronic
 cynic (endurskoða)
+canoodle
+polychronic
+homeschooled
+muffled
+fudge (endurskoða)

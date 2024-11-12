@@ -1193,8 +1193,8 @@ frontispiece n. framhlið, framgafl; mynd á móti titilblaði
 frontless l. ósvífinn, óskammfeilinn
 frontlet n. ennisband
 frost n. frost; kuldi í viðmóti; [white ~, hoar ~] hrím, héla; [glazed ~] ísing
-frostbite n. frostbólga
-frostbitten l. kalinn
+frostbite n. kal, frostbólga
+frostbitten l. kalinn, frostbólginn
 frosted l. frosinn; hrímgaður
 frostwork n. frostrósir
 frosty l. frost-; frostkaldur; hélaður; hélugrár (um hár)
