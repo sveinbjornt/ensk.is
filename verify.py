@@ -1,46 +1,48 @@
 #!/usr/bin/env python3
 """
 
-    Ensk.is - Free and open English-Icelandic dictionary
+Ensk.is - Free and open English-Icelandic dictionary
 
-    Copyright (c) 2021-2024, Sveinbjorn Thordarson <sveinbjorn@sveinbjorn.org>
-    All rights reserved.
+Copyright (c) 2021-2024, Sveinbjorn Thordarson <sveinbjorn@sveinbjorn.org>
+All rights reserved.
 
-    Redistribution and use in source and binary forms, with or without modification,
-    are permitted provided that the following conditions are met:
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
 
-    1. Redistributions of source code must retain the above copyright notice, this
-    list of conditions and the following disclaimer.
+1. Redistributions of source code must retain the above copyright notice, this
+list of conditions and the following disclaimer.
 
-    2. Redistributions in binary form must reproduce the above copyright notice, this
-    list of conditions and the following disclaimer in the documentation and/or other
-    materials provided with the distribution.
+2. Redistributions in binary form must reproduce the above copyright notice, this
+list of conditions and the following disclaimer in the documentation and/or other
+materials provided with the distribution.
 
-    3. Neither the name of the copyright holder nor the names of its contributors may
-    be used to endorse or promote products derived from this software without specific
-    prior written permission.
+3. Neither the name of the copyright holder nor the names of its contributors may
+be used to endorse or promote products derived from this software without specific
+prior written permission.
 
-    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
-    ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
-    WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
-    IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT,
-    INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
-    NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
-    PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
-    WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
-    ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
-    POSSIBILITY OF SUCH DAMAGE.
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT,
+INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
+NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
 
 
-    Check formatting and integrity of raw text dictionary entries.
+Check formatting and integrity of raw text dictionary entries.
 
 
 """
 
-
 from typing import Union
 
 import re
+import time
+
+import requests
 
 from dict import read_raw_pages, parse_line, read_all_words
 from util import read_wordlist
@@ -130,7 +132,6 @@ def check_category(line: str, pn, ln: int):
     hascat = False
     hasdupcat = False
     for c in CATEGORIES:
-
         if f" {c} " in line:
             hascat = True
             break
@@ -216,13 +217,25 @@ def check_icelandic_words(line: str, pn, ln: int):
         if txt in IS_WORDS_WHITELIST:
             continue
 
+        not_in_bin = False
+
         res = bin.lookup(txt)
         if not res[1]:
             txt = txt.strip("-")
             res = bin.lookup(txt)
             if not res[1]:
-                warn(f"Icelandic word not found in BÍN: '{txt}' ", pn, ln)
-                # print(defstr)
+                not_in_bin = True
+
+        if not_in_bin:
+            res = requests.get(f"https://malid.is/api_proxy/othekkt/{txt}")
+            if res.status_code == 200:
+                res = res.json()
+                flettur = res[0]["othekktlisti"]["flettur"]
+                if len(flettur) != 0 and txt in flettur:
+                    continue
+                else:
+                    warn(f"Icelandic word not found: '{txt}' ", pn, ln)
+            time.sleep(1)
 
 
 def check_missing():

@@ -106,8 +106,8 @@ canal n. síki, skurður, kanall
 canalize s. grafa skurð eða síki í gegnum
 canalization n. skurðagerð, skurðagröftur, síkisgröftur
 canary n. kanarífugl; e.k. spánskur dans
-cancel s. aflýsa, afnema, strika út, ógilda, hætta við; útiloka
-cancellation n. útstrikun, ógilding, aflýsing, afnám; útilokun
+cancel s. aflýsa, afnema, strika út, ógilda, hætta við; útiloka, slaufa
+cancellation n. útstrikun, ógilding, aflýsing, afnám; útilokun, slaufun
 cancer n. krabbi; krabbamein
 cancerate s. éta um sig; verða að krabbameini
 cancerous l. sem líkist krabbameini, krabbameins-
@@ -460,7 +460,7 @@ celerity n. hraði, flýtir
 celery n. seljurót, sellerí
 celestial l. himneskur, himin-; [~ map] stjörnukort; [the Celestial Empire] Kínaveldi; n. himnesk vera
 celibacy n. ókvæni, einlífi, skírlífi
-celibate n. einlífis- eða skírlífismaneskja; l. einlífur, skírlífur
+celibate n. einlífis- eða skírlífismanneskja; l. einlífur, skírlífur
 cell n. klefi, kompa; sella; fruma
 cellar n. kjallari, jarðhús; [wine ~] vínkjallari; s. geyma í kjallara
 cellarage n. kjallararúm

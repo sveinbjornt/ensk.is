@@ -1855,8 +1855,8 @@ speechless l. mállaus ([~ with rage]); þegjandi, hljóður
 speed s. flýta sér, hraða sér; þjóta, skunda; heppnast, farnast ([how have you sped?]); flýta fyrir; styðja að (e-u); senda burtu í flýti; [God ~ you] guð fylgi þér; n. flýtir; hraði ([at full ~]); velgengni, árangur ([the more haste, the worse ~])
 speedily ao. skjótlega, skjótt
 speediness n. hraði, fljótleiki
-speedy l. fljótur, skjótur
-spell n. töfraþula; töfrar; s. töfra, heilla
+speedy l. fljótur, skjótur, hraður
+spell n. galdur, töfraþula; töfrar; s. töfra, heilla
 spellbound l. töfraður, heillaður
 spell n. óákveðin tímalengd; [he only halted a short ~] stutta stund; [a long ~ of service] langur (óslitinn) þjónustutími; [a ~ of fine (cold) weather] góðviðriskafli (kuldakast); [give one a ~] hvíla e-n frá vinnu; [by ~s] alltaf öðru hverju, við og við; [for a ~] um tíma, um stundarbil; s. vinna í annars stað, hvíla e-n, taka við af e-m ([~ one another])
 spell s. stafa, stafsetja; tákna, merkja, vera sama sem ([~ ruin]); [~ for] mælast til e-s, tala utan að e-u; [~ out] stafa sig fram úr e-u; ráða í e-ð, skynja e-ð; skilja, ráða e-ð ([~ out the lessons of nature])
@@ -2275,7 +2275,7 @@ stenography n. hraðritun
 stentorian l. heljarmikill ([~ voice, lungs])
 step s. ganga, stíga; [~ out] ganga út; stika stórum; [~ short] vera stuttstígur; [~ in, if you please] gerið svo vel að ganga inn; [~ in the boat] stíga út í bátinn; n. stig, skref; fet; fótspor; stigarim; stigahaft; siglustallur; [portable ~s, a set of ~s] laus trappa, lausastigi; [~ by ~, by ~s] fet fyrir fet, smátt og smátt; [to tread (walk) in a person's ~s] feta í fótspor e-s; [take ~s in matter] gera gangskör að e-u; [a false ~] fótaskortur, fótamissir; [in ~] samstíga, samstígur (við e-n [with]); [out of ~] ósamstígur; [keep ~ with a person] halda í við e-n
 step- fsk. í samsettum orðum: stjúp-
-stepbrother n. hálfbróðir
+stepbrother n. stjúpbróðir, hálfbróðir
 stepdaughter n. stjúpdóttir
 stepfather n. stjúpfaðir; stjúpi
 stepmother n. stjúpmóðir, stjúpa

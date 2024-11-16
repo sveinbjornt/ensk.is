@@ -35,7 +35,7 @@ abductor n. ránsmaður
 abeam ao. þvers, þversum
 abear s. þola, fella sig sig við ([she could not ~ that man])
 abearance n. hegðun ([good ~])
-abecedarian l. stafrófs-, slöfunar-, sem er í stafrófsröð; n. stöfunarnemandi; stöfunarkennari; fáfræðingur
+abecedarian l. stafrófs-, stöfunar-, sem er í stafrófsröð; n. stöfunarnemandi; stöfunarkennari; fáfræðingur
 abed ao. í rúminu; rúmfastur ([he was ~ with gout])
 aberrance n. afhvarf, villa
 aberrancy n. afhvarf, villa
@@ -166,8 +166,8 @@ academician n. meðlimur lista- og vísindafélaga
 academy n. háskóli; lista- og vísindafélag
 acanthus n. e.k. blóm
 accede s. taka við (t.d. embætti [to a post]), samþykkja ([~ to])
-accelerate s. flýta fyrir; vaxa að hraða, auka hraða
-acceleration n. flýtir; vaxandi hraði, hraðaaukning
+accelerate s. vaxa að hraða, auka hraða; flýta fyrir
+acceleration n. hröðun, vaxandi hraði, hraðaaukning; flýtir
 accelerative l. flýtandi, hraðaaukandi
 accent n. áhersla, áherslumerki; framburður, málrómur; s. leggja áherslu á; setja áherslumerki yfir
 accentuate s. leggja áherslu á; setja áherslumerki yfir
@@ -203,7 +203,7 @@ accompany s. fylgja; vera e-u samfara; syngja eða spila undir; [accompanied wit
 accomplice n. vitorðsmaður, glæpafélagi, samsekingur, samsekur aðili
 accomplish s. framkvæma; ljúka við, enda ([~ a journey]); fullgjöra, fullkomna
 accomplished l. fullkominn; [highly ~] hámenntaður
-accomplishment n. framkvæmd; ft. fullkomnleikar, atgervi
+accomplishment n. framkvæmd; afrek; atgervi
 accord n. samhljóðan; sátt; samningur; [of one's own ~] sjálfkrafa; [with one ~] í einu hljóði; s. koma sér saman; vera samhljóðandi ([with]); jafna (deilu); veita
 accordance n. samhljóðan, samræmi ([in ~ with]); veiting
 accordant l. samkvæmur, samhljóða e-u ([with, to])

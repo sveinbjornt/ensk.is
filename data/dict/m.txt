@@ -61,8 +61,8 @@ magniloquent l. raupsamur; gífurmæltur
 magnitude n. stærð ([the ~ of the planets]); mikilleikur
 magpie n. skaði, skjór (þjófóttur fugl)
 mahogany n. mahónítré; mahóníborð; [have one's feet under another man's ~] éta við annars borð, vera öðrum háður
-Mahometan n. Múhameðstrúarmaður
-Mahometanism n. Múhameðstrú
+Mahometan n. múslími
+Mahometanism n. íslam, múhameðstrú
 maid n. mey; þjónustustúlka; [servant ~ of honour] hirðmey
 maidservant n. vinnukona
 maiden n. mey, stúlka; l. meylegur; nýr, sem reyndur er í fyrsta sinn; [~ name] meyjarnafn; [~ speech] fyrsta ræða á þingi, jómfrúræða; [~ soldier] óreyndur
@@ -262,7 +262,7 @@ maple n. hlynur
 maple tree n. hlynur
 mar s. skemma, spilla
 marabou n. Afríkustorkur
-marabout n. Múhameðstrúaður einsetumaður (í Norður-Afríku)
+marabout n. íslamskur einsetumaður (í Norður-Afríku)
 marasmic l. tæringar-
 marasmus n. tæring, uppdráttarsýki; [~ senilis] ellihrumleiki
 maraud s. herja ([on, upon]); ræna (um hermenn)
@@ -1264,8 +1264,8 @@ mortise n. nót (í borði); [~ chisel] sporjárn; s. festa saman; plægja saman
 mortuary l. greftrunar-, lík-; n. líkhús
 mosaic n. mósaík, litsteinamynd (mynd sem er gerð úr lituðum smásteinum eða glerbrotum)
 moselle n. moselvín
-Moslem n. múslími, Múhameðstrúarmaður (forn.); l. múslímskur, múhamedanskur; sjá %[Islam]%
-mosque n. musteri, bænahús (Múhameðstrúarmanna)
+Moslem n. múslími, múhameðstrúarmaður (forn.); l. múslímskur; sjá %[Islam]%
+mosque n. bænahús múslíma
 mosquito n. e.k. mýfluga
 moss n. mosi; mómýri; [Icelandic ~] fjallagrös
 moss-grown l. mosavaxinn
@@ -1466,7 +1466,7 @@ musket-range n. skotvídd
 musketry n. byssumenn; skot úr hyssum ([sound of ~])
 muslin n. músselin (smágjör vefnaður)
 mussel n. skelfiskur, kræklingur; krákuskel ([mussel shell])
-Mussulman n. Múhameðstrúarmaður
+Mussulman n. múslími, múhameðstrúarmaður
 must s. [I ~] ég verð ([you ~ find it]); ég hlýt ([he ~ be mad]); [I ~ not] ég má ekki
 must n. aldinlögur, mjöður
 must s. gera myglaðan; mygla (og súrna); n. mygla; súr
