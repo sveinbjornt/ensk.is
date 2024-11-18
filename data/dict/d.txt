@@ -1073,9 +1073,9 @@ disentomb s. taka upp úr gröfinni aftur, grafa upp
 disestablish s. gera aðskilnað ríkis og kirkju ([~ the church])
 disesteem n. virðingarskortur; rýrð; s. lítilsvirða
 disfavour n. óþokki, ónáð; [in my ~] mér er í óhag, til vansa; s. sýna e-m óvild, hafa óþokka á e-m
-disfiguration n. óprýði, lýti
-disfigure s. óprýða, lýta
-disfigurement n. óprýði
+disfiguration n. afmyndun, afskræming, óprýði, lýti
+disfigure s. afmynda, afskræma, óprýða, lýta
+disfigurement n. afmyndun, afskræming, óprýði
 disforest s. eyða skóg í landi
 disforested l. skóglaus
 disfranchise s. svipta þegnréttindum (t.d. kosningarétti, [the citizens were ~d])
