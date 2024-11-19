@@ -106,6 +106,7 @@ ecologist n. vistfræðingur
 encryption n. dulkóðun
 encrypt s. dulkóða
 girlfriend n. kærasta, unnusta; vinkona
+ex-girlfriend n. fyrrverandi kærasta eða unnusta; fyrrverandi vinkona
 guestbook n. gestabók
 holocaust n. helför; [the Holocaust] helförin, þ.e. kerfisbundin tortíming Gyðinga á síðustu árum seinni heimsstyrjaldar
 microphone n. hljóðnemi
@@ -1988,7 +1989,9 @@ superwoman n. ofurkona
 boyfriend n. kærasti, unnusti
 lipstick n. varalitur
 grandpa n. afi (óforml., sjá %[grandfather]%)
+grandpapa n. afi (óforml., sjá %[grandfather]%)
 grandma n. amma (óforml., sjá %[grandmother]%)
+grandmama n. amma (óforml., sjá %[grandmother]%)
 pseudocrater n. gervigígur
 radioactive l. geislavirkur
 radioactivity n. geislavirkni
@@ -5744,3 +5747,8 @@ beige l. drappaður, drapplitaður, ljósbrúnn, grábrúnn; óspennandi; n. dra
 disfigured l. afmyndaður, afskræmdur
 hoarsely ao. með hásri röddu
 blowtorch n. lóðlampi
+handcuffed l. handjárnaður, í handfjötrum
+handcuffs n. ft. handjárn
+wittiness n. hnyttni, fyndni
+ex-wife n. fyrrverandi eiginkona
+ex- fsk. fyrrverandi (sbr. %[ex-wife]%, %[ex-husband]%)
