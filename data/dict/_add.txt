@@ -3282,6 +3282,7 @@ tercentenary n. 300 ára afmæli eða minningarhátíð
 prophylaxis n. forvörn, verndandi aðgerð, sjúkdómsvörn
 harmfulness n. skaðsemi, skaðræði
 polarization n. pólun, skautun
+polarisation n. pólun, skautun
 polarize s. skauta, pólarísera
 depolarize s. afskauta, afpólarísera
 depolarization n. afskautun, afpólarísering
@@ -5632,6 +5633,7 @@ death squad n. dauðasveit
 execution squad n. aftökusveit
 amygdala n. amygdala, mandla (hluti af randkerfi heilans)
 rustling n. stuldur á búfénaði; skrjáf; l. skrjáfandi
+rustler n. þjófur sem stelur búfénaði, sauðaþjófur, hestaþjófur, naugripaþjófur
 internationalization n. alþjóðavæðing
 epiphenomenon n. fylgifyrirbæri
 cerebellum n. litli heili, hnykill
@@ -5698,7 +5700,7 @@ univariate l. einbreytu-, einvíður
 ribcage n. brjóstkassi
 cooperation n. sjá %[co-operation]%
 waveform n. bylgjulögun, bylgjuform
-Raeto-Romance n. retórómanska (tungumál talað í Sviss)
+Raeto-Romance n. retórómanska (tungumál sem talað er í Sviss)
 Romansh n. retórómanska (tungumál talað í Sviss)
 semiotic l. táknfræðilegur
 semiotics n. ft. táknfræði
@@ -5752,3 +5754,25 @@ handcuffs n. ft. handjárn
 wittiness n. hnyttni, fyndni
 ex-wife n. fyrrverandi eiginkona
 ex- fsk. fyrrverandi (sbr. %[ex-wife]%, %[ex-husband]%)
+breastfeed s. hafa barn á brjósti, gefa barninu brjóst
+breastfeeding n. brjóstagjöf
+deadline n. tímamörk, eindagi, skilafrestur
+argyria n. silfursverting; silfureitrun
+saturnism n. blýeitrun
+deadliness n. banvæni
+tête-à-tête l. augliti til auglitis (úr frönsku)
+tempo n. taktur; hraði
+carbonated l. kolsýrður
+fervor n. sjá %[fervour]%
+discoloured l. upplitaður; aflitaður
+discolored l. upplitaður; aflitaður
+sitcom n. gamanþáttur, gamanþáttaröð (stytt. á [situation comedy])
+didgeridoo n. diggerídú (ástralskt blásturshljóðfæri)
+destroyer n. eyðileggjari, eyðir (sjá %[destroy]%); lítið, hraðskreitt herskip
+Albion n. fornt heiti yfir Bretland ([perfidious ~])
+situational l. stöðu-, legu-; háð stöðu, legu eða aðstæðum
+Freudian l. freudískur (sjá %[Freudianism]%)
+Freudianism n. freudismi (sálfræðikenningar Sigmunds Freud)
+commandeer s. gera (e-ð) upptækt (með gerræðisvaldi eða í hernaðarskyni), taka í herþjónustu
+equalizer n. jafnari
+wallaby n. vallabía (ástralskt pokadýr)
