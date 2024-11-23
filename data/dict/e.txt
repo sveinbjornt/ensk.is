@@ -832,7 +832,7 @@ error n. villa; yfirsjón, ávirðing ([to commit an ~]); [to be in ~] skjátlas
 erubescence n. roði
 eructation n. ropi, ropar; eldgos
 erudite l. fróður; sem ber vott um lærdóm
-erudition n. fróðleikur, lærdómur
+erudition n. fróðleikur, lærdómur, umfangsmikil þekking
 erupt s. koma upp (um tennur); gjósa
 eruption n. eldsuppkoma; gos; útrás (vopnaðra manna); útbrot (á hörundi)
 eruptive l. gjósandi; myndaður við eldgos ([~ rocks]); [~ disease] útbrotasjúkdómur

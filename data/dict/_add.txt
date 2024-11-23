@@ -1941,8 +1941,8 @@ precociousness n. bráðþroski
 deflation n. verðhjöðnun
 deflationary l. verðhjöðnunar-
 ATM n. stytt. á [automated teller machine]; hraðbanki
-vampiric l. vampírulegur, vampíru-
-vampirish l. vampírulegur, vampíru-
+vampiric l. vampírulegur, vampíru-, blóðsugu-
+vampirish l. vampírulegur, vampíru-, blóðsugu-
 brainwash s. heilaþvo
 brainwashing n. heilaþvottur
 snobbery n. snobb, uppskafningsháttur, broddborgaraskapur, mont
@@ -2603,7 +2603,7 @@ ethanol n. etanól, etýlalkóhól, vínandi
 painkiller n. verkjalyf, verkjastillandi lyf
 tableware n. borðbúnaður
 permafrost n. sífreri
-popcorn n. poppkorn
+popcorn n. poppkorn, popp
 sorghum n. dúrra, súdangras
 seaworthiness n. (um skip) sjófærni
 spiderweb n. köngulóarvefur
@@ -3737,7 +3737,7 @@ hypothyroidism n. skjaldvakabrestur, skjaldvakaskortur, vanvirkni skjaldkirtils
 psychotropic l. geðsækinn, sem hefur áhrif á sálarlíf; n. geðlyf ([~ drugs])
 nanotechnology n. nanótækni, dvergtækni
 nanotech n. nanótækni, dvergtækni (stytt. á %[nanotechnology]%)
-meritocracy n. verðleikaveldi (stjórnarfar eða skipulag þar sem fólk kemst til valda sökum verðleika sinna)
+meritocracy n. verðleikaveldi (stjórnarfar eða skipulag þar sem fólk rís til metorða sökum verðleika)
 meritocratic l. verðleika-, verðleikaveldis- (sjá %[meritocracy]%)
 counterweight n. andvægi, mótvægi
 enforceable l. framfylgjanlegur; þvinganlegur
@@ -5200,7 +5200,7 @@ worthwhile l. verðugur, þess virði, ómaksins virði, ómaksins vert, erfiði
 bordello n. vændishús, hóruhús
 donut n. sjá %[doughnut]%
 ossified l. orðinn að beini; ósveigjanlegur, fastur í sínum venjum; gamaldags
-femicide n. kvendráp, kvenmorð
+femicide n. kvennamorð
 bronchial l. berkju-; [~ asthma] kafmæði
 dietitian n. næringarfræðingur, manneldisfræðingur
 dietician n. sjá %[dietitian]%
@@ -5776,3 +5776,14 @@ Freudianism n. freudismi (sálfræðikenningar Sigmunds Freud)
 commandeer s. gera (e-ð) upptækt (með gerræðisvaldi eða í hernaðarskyni), taka í herþjónustu
 equalizer n. jafnari
 wallaby n. vallabía (ástralskt pokadýr)
+Counter-Reformation n. Gagnsiðbótin ([the ~])
+bilaterally ao. á tvíhliða hátt, með tveimur hliðum
+bilateralism n. sú stefna að gera tvíhliða samninga
+oarfish n. síldakóngur
+tuya n. stapi, móbergsstapi
+orbital l. brautar-, sporbrautar-, sporbaugs-, brautgengur (sjá %[orbit]%)
+typeface n. leturgerð
+mysteriously ao. á dularfullan hátt
+cabaret n. kabarett
+skinny-dip s. synda nakinn
+skinny-dipping n. að synda nakinn, nakið sund
