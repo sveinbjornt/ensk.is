@@ -508,7 +508,7 @@ thoughtful l. hugsandi; alvörugefinn; hugsunarsamur, aðgætinn
 thoughtless l. hugsunarlaus
 thoughtlessly ao. í ógáti
 thoughtlessness n. hugsunarleysi
-thousand l. & n. þúsund
+thousand l. þúsund; n. þúsund
 thousandfold l. þúsundfaldur
 thousandth l. þúsundasti; n. þúsundasti hluti
 thraldom n. þrældómur
@@ -808,8 +808,8 @@ topping l. ágætur, frábær; [a ~ sea] brotsjór; sbr. %[top]%
 topple s. steypast áfram; detta um koll; kasta (fella) um koll
 topsy-turvy ao. um koll, á ringulreið; l. öfugur, umsnúinn
 torch n. kyndill, blys
-torchbearer n. blysberi
-torchlight n. blys; [~ procession] blysför
+torchbearer n. kyndilberi, blysberi
+torchlight n. blys; ljós af kyndli; [~ procession] blysför
 torment n. kvöl, pynting, pynding; s. kvelja, pynda, pynta, pína
 tormentor n. kvalari, pyntari, pyndari
 tornado n. hvirfilbylur
@@ -954,7 +954,7 @@ tram car n. sporvagn
 tram road n. sporvegur
 tramway n. sporvegur
 trammel n. e.k. háfnet; e.k. haft (á hesta sem kennt er að skeiða); hindrun; s. hefta, hindra
-tramontane l. & n. (maður) sem býr fyrir handan fjöllin; útlendur; útlendingur
+tramontane l. sem býr fyrir handan fjöllin; útlendur; n. e-r sem býr handan við fjöllin; útlendingur
 tramp s. troða undir fótum; trampa; ferðast (á fæti); n. fótatak ([~ of footsteps]); ganga, gönguför; umrenningur, maður sem lifir á götunni
 tramper n. umrenningur
 trample s. troða undir fótum ([~ under foot, under one's feet]); troða niður ([~ down])

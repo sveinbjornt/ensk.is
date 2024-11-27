@@ -290,7 +290,7 @@ elocution n. framburður og áhersla (á ræðu)
 elocutionary l. sem lýtur að framburði ([~ effect, ~ gift])
 elongate s. lengja; lengjast
 elongation n. lenging
-elope s. hlaupa burtu, strjúka (um konu, sem strýkur með friðli sínum, eða stúlku, sem strýkur að heiman með unnusta sínum)
+elope s. hlaupa burtu, strjúka (um konu sem strýkur með friðli sínum, eða stúlku sem strýkur að heiman með unnusta sínum)
 elopement n. flótti, strok
 eloquence n. mælska, málsnilld
 eloquent l. mælskur, málsnjall, vel máli farinn
@@ -389,11 +389,11 @@ emerited l. sem hefur þjónað sína tíð út ([~ soldiers]); reyndur, uppgjaf
 emersion n. uppkoma (t.d. upp úr hafinu)
 emery n. smergill (jarðtegund sem er notuð til að slípa og fága málma, steina og gler)
 emetic n. uppsölulyf
-emigrant n. útflytjandi, vesturfari
+emigrant n. útflytjandi; vesturfari
 emigrant ship n. útflutningaskip
-emigrate s. flytja af landi, fara alfarinn af landi burt
-emigration n. útflutningur, útflutningar; [~ agent] útflutningastjóri
-eminence n. hæð (á landi); upphefð; yfirburðir; heiðurstitill kardinála ([his ~]); [to rise to ~] komast til vegs og metorða
+emigrate s. flytja af landi, fara af landi brott, flytja til útlanda
+emigration n. brottflutningur, útflutningur, útflutningar; [~ agent] útflutningastjóri
+eminence n. upphefð; yfirburðir; hæð (á landi); heiðurstitill kardinála ([his ~]); [to rise to ~] komast til metorða
 eminent l. uppstandandi ([a very ~ nose]); tiginn; hár (um stöðu); frábær, ágætur ([~ as a speaker])
 eminently ao. frábærlega ([~ qualified])
 emir n. arabískur höfðingi, fursti eða landstjóri; heiðursnafnbót afkomenda Múhameðs spámanns
@@ -1083,7 +1083,7 @@ excise n. neyslutollur (á innlendum varningi); s. skera (sníða) af eða burtu
 exciseman n. tollþjónn
 excision n. afskurður ([~ of the ear]); útstrikun, úrfellir ([~ of a passage from a book]); útskúfun (úr kirkjunni)
 excitable l. uppstökkur, bráður; viðkvæmur
-excitant l. & n. æsandi, örvandi (lyf)
+excitant l. æsandi, örvandi; n. örvandi lyf
 excitation n. æsing
 excite s. eggja, hvetja; æsa; vekja, kveikja (löngun, áhuga, uppreisn); [get ~d] komast í geðshræringu, æsast
 excited l. æstur, spenntur

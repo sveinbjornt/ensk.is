@@ -1,7 +1,7 @@
 Ma'am n. frú (stytting, sjá %[Madam]%)
-Mac n. sonur (haft fyrir framan keltnesk mannanöfn)
+Mac n. sonur (haft fyrir framan keltnesk mannanöfn, t.d. MacDonald, MacReady); Apple Macintosh tölva
 macadamize s. mölsteypa (veg); slétta, jafna
-macaroni n. hveitispípur (ítalskur réttur)
+macaroni n. núðlur, hveitispípur (ítalskur réttur)
 macaroon n. möndlukaka
 mace n. kylfa, gaddakylfa; veldissproti; piparúði
 macerate s. bleyta; megra
@@ -821,9 +821,9 @@ mine fn. minn; n. náma; púðurgröf; sprengigröf; tundurdufl, sprengivél; s.
 miner n. námumaður; málmnemi
 mineral n. steinn; málmsteinn; l. steina-; [~ springs] málmdámaðar lindir; heilsubrunnar; [the ~ kingdom] steinaríkið
 mineralize s. breyta í stein; gera (vatn) málmdámað; safna steinum
-mineralogical l. steinfræðilegur
-mineralogist n. steinafræðingur
-mineralogy n. steinafræði
+mineralogical l. steindafræðilegur, steinfræðilegur
+mineralogist n. steindafræðingur, steinafræðingur
+mineralogy n. steindafræði, steinafræði
 mingle s. blanda; blandast; [~ with] hafa mök við
 miniate s. mála (lita) með menju (rauðum lit)
 miniature n. smá litmynd (eftir annarri stærri, [portrait in ~]); [in ~] í smáum stíl; s. teikna eða mála (þess konar) smámyndir; sýna í smáum stíl
@@ -1406,8 +1406,8 @@ multure n. mölun; mölunarlaun
 mum l. þögull; n. mamma; uh. þei! s. ganga með grímu eða í dularklæðum; leika í bendingaleik
 mumble s. muðla, tauta; japla (á e-u)
 mumblingly ao. tautandi, í hálfum hljóðum
-mummer n. (bendinga)leikari
-mummery n. dulbúningur; grímuleikur, skrípaleikur; yfirdrepsskapur
+mummer n. (bendinga)leikari, látbragðsleikari
+mummery n. dulbúningur; grímuleikur, skrípaleikur, látbragðsleikur; yfirdrepsskapur
 mummify s. smyrja og þurrka lík ([~ a dead body])
 mummy n. múmía (smurt og þornað lík); [to beat to a ~] berja til óbóta
 mump s. japla, tyggja; nöldra; biðja kjökrandi, sníkja

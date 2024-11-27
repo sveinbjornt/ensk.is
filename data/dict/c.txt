@@ -429,7 +429,7 @@ cautious l. gætinn, varkár
 cautiously ao. gætilega, varkárlega
 cautiousness n. gætni, varkárni
 cavalcade n. flokkur ríðandi manna; s. ríða í flokk
-cavalier n. riddari; snyrtimaður; l. snyrtimannlegur; mikillátur
+cavalier l. mikillátur; snyrtimannlegur; n. riddari; snyrtimaður
 cavalierly ao. snyrtimannlega; drembilega
 cavalry n. riddaralið; [seven thousand ~] sjö þúsundir riddaraliðs
 cave n. hellir; óánægt flokksbrot; s. hola, grafa (holu); [~ in] hrynja (um mold úr grafarvegg); guggna, gefast upp
@@ -1205,7 +1205,7 @@ cod-liver oil n. þorskalýsi
 coeditor n. meðritstjóri
 co-education n. samkennsla pilta og stúlkna
 coefficiency n. samverknaður
-coefficient l. & n. samverkandi; margfaldari, stuðull
+coefficient l. samverkandi; n. margfaldari, stuðull
 coequal l. jafn (e-u [with]); n. jafningi
 coequality n. jafningjastaða, jafnleiki
 coerce s. halda í skefjum með valdi; þröngva, þrýsta (til e-s [into])
@@ -1331,12 +1331,12 @@ collusive l. sviksamlegur, samráðslegur
 colon n. tvípunktur; ristill (líffæri)
 colonel n. ofursti, sveitarforingi
 colonelcy n. sveitarforingjatign eða embætti
-colonial l. nýlendulegur, nýlendu-; n. nýlendumaður
+colonial l. nýlendu-, nýlendulegur; n. nýlendumaður
 colonist n. nýlendumaður; landnámsmaður
 colonization n. bygging (lands), landnám
 colonize s. byggja (land), setja nýlendu í; setjast að
 colonnade n. súlnaröð, súlnagöng
-colony n. nýlenda; nýlendufólk, nýlendumenn
+colony n. nýlenda
 coloration n. litsetning
 color n. sjá %[colour]%
 colorific l. litandi
@@ -2245,7 +2245,7 @@ costliness n. kostnaður, dýrleiki
 costly l. kostnaðarsamur; dýr ([all ornament ought to be ~])
 costume n. búningur; tíska í klæðaburði
 cosy l. þægilegur, notalegur, huggulegur; hlýr ([~ rooms]); n. [tea cosy] tevermir, tehetta; [egg ~] eggvermir
-cozy l. þægilegur, notalegur, huggulegur; hlýr ([~ rooms]); n. [tea cosy] tevermir, tehetta; [egg ~] eggvermir
+cozy l. þægilegur, notalegur, huggulegur, kósí; hlýr ([~ rooms]); n. [tea cosy] tevermir, tehetta; [egg ~] eggvermir
 cot n. barnarúm; vagga; hengirúm (í skipi); byrgi, skýli; kofi, lítið hús
 cote n. byrgi, skýli ([sheep~])
 coterie n. félag, klúbbur, hringur (af fólki)

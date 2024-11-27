@@ -1282,7 +1282,7 @@ anticlimactic l. spennufalls- (sjá %[climactic]%)
 yoyo n. jójó (leikfang)
 auxesis n. miklar ýkjur eða stigmögnun (í ræðulist)
 aardwolf n. jarðúlfur (afrískt spendýr)
-morning star n. morgunstjarna (plánetan Venus); gaddakylfa
+morning star n. morgunstjarna (plánetan Venus); gaddakylfa (með keðju)
 Venus n. plánetan Venus; rómversk ástar- og frjósemisgyðja
 blimp n. loftbelgur, loftfar, loftskip
 Czechoslovakia n. Tékkóslóvakía
@@ -3063,6 +3063,7 @@ seafarer n. sæfari
 bloodbath n. blóðbað
 warhead n. sprengjuoddur; [nuclear ~] kjarnaoddur
 metallurgist n. málmfræðingur, málmvinnslufræðingur
+metallurgical l. málmfræðilegur, málmvinnslu-
 fatherland n. föðurland
 rhododendron n. lyngrós, alparós, róslyng
 townsfolk n. bæjarbúar
@@ -5749,8 +5750,8 @@ beige l. drappaður, drapplitaður, ljósbrúnn, grábrúnn; óspennandi; n. dra
 disfigured l. afmyndaður, afskræmdur
 hoarsely ao. með hásri röddu
 blowtorch n. lóðlampi
-handcuffed l. handjárnaður, í handfjötrum
-handcuffs n. ft. handjárn
+handcuffed l. handjárnaður, fjötraður, í handfjötrum
+handcuffs n. ft. handjárn, fjötrar
 wittiness n. hnyttni, fyndni
 ex-wife n. fyrrverandi eiginkona
 ex- fsk. fyrrverandi (sbr. %[ex-wife]%, %[ex-husband]%)
@@ -5783,7 +5784,52 @@ oarfish n. síldakóngur
 tuya n. stapi, móbergsstapi
 orbital l. brautar-, sporbrautar-, sporbaugs-, brautgengur (sjá %[orbit]%)
 typeface n. leturgerð
-mysteriously ao. á dularfullan hátt
+mysteriously ao. á dularfullan eða leyndardómsfullan hátt
 cabaret n. kabarett
 skinny-dip s. synda nakinn
 skinny-dipping n. að synda nakinn, nakið sund
+regenerative l. endurmyndandi, endurnýjandi
+inattentiveness n. athyglisleysi, skortur á athygli
+hypoprosexia n. athyglisleysi
+common sense n. heilbrigð skynsemi
+common-sense l. af eða út frá heilbrigðri skynsemi ([~ explanation])
+common-sensical l. af eða út frá heilbrigðri skynsemi ([~ explanation])
+emigré n. e-r sem býr utan heimalands síns, e-r sem flutti frá heimalandi sínu
+dedicated l. tileinkaður; ánafnaður; vígður; helgaður
+yellow fever n. mýgulusótt
+bowerbird n. laufskálafugl
+bodybuilding n. vaxtarrækt
+bodybuilder n. vaxtarræktarmaður; vöðvatröll, vöðvafjall
+beefcake n. vöðvatröll, vöðvastæltur maður (óforml.)
+butch l. (mjög) karlmannlegur í útliti eða hegðun (óforml.); n. karlmannleg lesbía (niðrandi)
+nutcracker n. hnetubrjótur
+earlobe n. eyrnasnepill
+gonad n. kynkyrtill
+roughneck n. ruddi, groddi, rusti, þjösni; verkamaður
+redneck n. sveitadurgur, sveitalubbi, sveitavargur, durtur
+disarticulate s. aflima, stýfa
+disarticulation n. stýfing (aflimun)
+misallocation n. röng úthlutun
+cojones n. ft. eistu; kjarkur, hugrekki
+demonology n. djöflafræði
+demonologist n. djöflafræðingur
+dobermann n. dobermann-hundur, dofri
+tuxedo n. smóking; kjólföt
+limerick n. limra
+comeuppance n. makleg málagjöld
+excommunicator n. bannfærari
+whistleblower n. uppljóstrari
+whistleblowing n. uppljóstrun, afhjúpun
+neurotoxin n. taugaeitur
+dismembered l. sundurlimaður
+dismembering n. sundurlimun
+exacerbated s. æstur, egndur, ertur, gerður verri
+moocher n. afæta, sníkjudýr, e-r sem lifir af öðrum, beiningamaður
+cellulose n. beðmi, sellulósi, tréni
+lipocyte n. fitufruma
+totipotency n. alhæfni
+omnicompetence n. alhæfni
+mesothelioma n. miðþekjuæxli
+
+# mooch
+# moochy

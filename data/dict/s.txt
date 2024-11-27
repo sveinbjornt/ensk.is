@@ -585,7 +585,8 @@ seizure n. grip, taka; handtekning ([~ of a thief]); kyrrsetning; kyrrsettar vö
 seldom ao. sjaldan
 select s. velja úr; l. útvalinn; ágætur
 selection n. úrval, val ([a ~ of poems])
-self l. & fn. sjálfur; í samsetningum: sjálf-, sjálfs-
+self fn. sjálfur; n. sjálf
+self- fsk. sjálf-, sjálfs- (sjá t.d. %[self-respect]%, %[self-evident]%)
 self-abasement n. sjálfslæging
 self-acting l. sjálfvirkur ([~ motion])
 self-applause n. sjálfshól
@@ -603,8 +604,8 @@ self-inflicted l. sjálfskapaður ([~ injury])
 self-interest n. eigingirni
 self-interested l. eigingjarn
 self-invited l. sjálfboðinn, óboðinn
-selfish l. eigingjarn
-selfishness n. eigingirni
+selfish l. eigingjarn; sjálfselskur
+selfishness n. eigingirni; sjálfselska
 selfless l. óeigingjarn
 self-made l. sjálfgjör; [a ~ man] maður sem hefur komið sér upp af eigin rammleik
 self-murder n. sjálfsmorð
@@ -1097,7 +1098,7 @@ signalise s. gefa merki; talast við með merkjum (flöggum); gera frægan; bend
 signaler n. sá sem gefur merki
 signaller n. sá sem gefur merki
 signally ao. mikillega, átakanlega
-signatory l. & n. sem ritar undir samning ([the signatories to the treaty of Berlin])
+signatory n. e-r sem ritar undir samning ([the signatories to the treaty of Berlin]); l. undirritunar-
 signature n. merki; undirskrift, nafn; fangamark
 signet n. innsigli
 significance n. þýðing, mikilvægi
@@ -2034,7 +2035,7 @@ spud n. arfagref; s. reyta, rífa upp ([~ out, up])
 spume n. froða; s. freyða, löðra
 spumous l. freyðandi, löðrandi
 spumy l. freyðandi, löðrandi
-spunk n. tundur, eldsveppur; kjarkur, áræði
+spunk n. tundur, eldsveppur; kjarkur, áræðni; sæði (óforml.)
 spunky l. kjarkmikill, áræðinn ([a ~ sort of chap])
 spur n. spori; hvöt; höfuðrót á tré; skástoð; fjallsrani; [to set ~s to] keyra sporum; [on (upon) the ~ of the moment] í mesta flýti, undirbúningslaust; viðstöðulaust; s. keyra sporum; hvetja; skunda; hleypa (hesti)
 spurgall s. særa með sporum; n. sár eftir spora
@@ -2866,7 +2867,7 @@ superfine l. örsmár ([~ flour]); mjög vandaður, mjög góður; of nákvæmur
 superfluity n. (of)gnótt, óþarfi; munaðarvara
 superfluous l. óþarfur
 superheat s. hita (gufu) fram yfir suðumark vatns
-superhuman l. ofurmennskur, meira en mennskur; guðdómlegur
+superhuman l. ofurmennskur, meira en mennskur; guðdómlegur; n. ofurmenni
 superintend s. hafa umsjón yfir, ráða fyrir; stýra
 superintendence n. umsjón
 superintendent n. umsjónarmaður, forstöðumaður
@@ -2894,7 +2895,7 @@ supervenient l. sem kemur síðar eða á eftir
 supervention n. aðkoma; viðburður
 supervise s. sjá um, hafa umsjón með e-u; yfirskoða
 supervisal n. umsjón
-supervisor n. (yfir)umsjónarmaður; prófarkalesari
+supervisor n. (yfir)umsjónarmaður; leiðbeinandi; prófarkalesari
 supinate s. snúa lófanum upp
 supine l. liggjandi aftur á bak (á bakinu, upp í loft); áhugalaus; makráður; n. sagnbót
 supineness n. hirðuleysi; leti

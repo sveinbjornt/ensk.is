@@ -700,6 +700,27 @@ async def api_item_parsed(request: Request, w: str) -> JSONResponse:
     return JSONResponse(content=result)
 
 
+@app.get("/api/item/parsed/many/")
+async def api_item_parsed_many(request: Request, q: str) -> JSONResponse:
+    q = q.strip()
+
+    words = [w.strip() for w in q.split(",")]
+
+    res = {}
+    for w in words:
+        results, exact = _results(w, exact_match=True)
+        if not results or not exact:
+            continue
+        result = results[0]
+        # Parse definition string into components
+        comp = unpack_definition(result["def"])
+        # Translate category abbreviations to human-friendly words
+        comp = {CAT_TO_NAME[k]: v for k, v in comp.items()}
+        res[w] = comp
+
+    return JSONResponse(content=res)
+
+
 # @app.post("/api/report_missing/{w}")
 # async def api_report_missing(request: Request) -> JSONResponse:
 #     """Report that a word is missing from the dictionary."""

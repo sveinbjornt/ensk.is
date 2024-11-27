@@ -522,7 +522,7 @@ incommensurable l. ósambærilegur, ósammælanlegur
 incommode s. ónáða
 incommodious l. óþægilegur, óhentugur
 incommodity n. óþægindi
-incommunicable l. ósegjanlegur
+incommunicable l. ósegjanlegur, ótjáanlegur
 incommutable l. sem ekki verður skipt við annað; óbreytanlegur
 incomparable l. ósambærilegur; óviðjafnanlegur; ekki samanberandi (við [with])
 incompatibility n. ósamrýmanleiki, ósamþýðanleiki
@@ -598,7 +598,7 @@ inculpate s. ásaka, kenna um
 inculpation n. ásökun, álas
 inculpatory l. ásakandi, lastandi; [~ words] lastyrði
 incumbency n. skylda, kvöð; byrði, þyngsli; prestsembætti
-incumbent l. sem liggur ofan á ([on]) e-u; [it is (a duty) ~ on me] skylda sem á mér hvílir; n. sá sem hefur embætti (einkum prestsembætti) á hendi ([the ~ of a living])
+incumbent l. sem gegnir eins og stendur embætti eða stöðu; sem liggur ofan á ([on]) e-u; [it is (a duty) ~ on me] skylda sem á mér hvílir; n. sá sem hefur embætti (einkum prestsembætti) á hendi ([the ~ of a living])
 incur s. komast í ([~ danger, ~ a debt]); baka sér ([~ inconvenience])
 incurable l. ólæknandi
 incurableness n. ólæknanleiki
@@ -685,15 +685,15 @@ indispensable l. ómissandi, bráðnauðsynlegur (e-m [for, to]); óhjákvæmile
 indispose s. gera óhæfan (ófúsan); gera óvinveittan (e-m [against])
 indisposed l. lasinn; ófús, tregur; fráhverfur (e-m [towards])
 indisposition n. ófýsi, tregða; lasleiki; óvild (til e-s [towards])
-indisputable l. ómótmælanlegur, óefanlegur
+indisputable l. ómótmælanlegur, óumdeilanlegur, óefanlegur
 indissoluble l. óuppleysanlegur, órjúfanlegur
 indistinct l. ógreinilegur, óljós ([~ recollection])
 indistinctly ao. ógreinilega
-indistinguishable l. ósundurgreinanlegur; ómerkjanlegur
+indistinguishable l. ósundurgreinanlegur, óaðgreinanlegur; ómerkjanlegur
 indite s. semja; rita
-individual l. einstakur, sérstakur; einstaklegur; n. einstaklingur, persóna
+individual n. einstaklingur, persóna; l. einstakur, sérstakur; einstaklegur
 individuality n. einstakleiki, einstaklingseðli, persónuleiki; einstaklingur
-individualize s. gera sérstaklegt; einkenna; nefna sérstaklega
+individualize s. gera sérstaklegt; gera að einstaklingi; einkenna; nefna sérstaklega
 individually ao. einstaklega, hver um sig, hver í sínu lagi
 indivisible l. ódeilanlegur
 indocile l. ónámfús, tornæmur; óstýrilátur; óþekkur

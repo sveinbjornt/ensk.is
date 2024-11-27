@@ -70,21 +70,20 @@ jeopardize s. stefna í hættu
 jeopardy n. hætta, áhætta
 jerboa n. stökkmús
 jeremiad n. kvein, harmatölur ([to utter doleful ~s])
-jerk s. kasta, henda (steini); rykkja, kippa; hrinda; hrökkva ([the door ~ed open]); [~ off] runka sér; n. rykkur, kippur; kast; hrinding; leiðindamanneskja, hálfviti ([he's such a ~])
-jerky l. rykkjóttur, kippóttur
+jerk s. kasta, henda (steini); rykkja, kippa; hrinda; hrökkva ([the door ~ed open]); [~ off] runka sér; n. rykkur, kippur; kast; hrinding; leiðindamanneskja, ruddi ([he's such a ~])
+jerky l. rykkjóttur, kippóttur; n. þurrkað kjöt
 jerkin n. peysa, treyja
 jerque s. gera tollskoðun í skipi; skoða skipsskjölin
 jersey n. ullarpeysa
 jest s. gera að gamni sínu; gera gys að; n. gaman ([~ and earnest]); spaug; athlægi ([to be the ~ of]); [in ~] í gamni
-jester n. æringi; hirðfífl
-jestingly ao. í gamni
+jester n. hirðfífl; æringi
+jestingly ao. í gamni, í gríni
 Jesuit n. jesúíti, kristmunkur; [~'s bark] kínabörkur
-Jesuitical l. sem líkist kristmunkum, jesúítum; hræsnisfullur, slóttugur, falskur
-Jesuitism n. trúarskoðun, kenningar kristmunka, jesúítareglunnar
-Jesuitry n. trúarskoðun, kenningar kristmunka, jesúítareglunnar
-jet n. þota; mjög hörð steinkolategund sem skrautmunir eru búnir til úr
+Jesuitical l. sem líkist jesúítum, kristmunkum; hræsnisfullur, slóttugur, falskur (úrelt)
+Jesuitism n. trúarskoðun, kenningar kristmunka, kenningar jesúítareglunnar
+Jesuitry n. trúarskoðun, kenningar kristmunka, kenningar jesúítareglunnar
+jet n. þota; buna, gusa; mjög hörð steinkolategund sem skrautmunir eru búnir til úr; s. skvetta; skvettast, spýtast
 jet-black l. kolsvartur, hrafnsvartur
-jet n. buna, gusa; s. skvetta; skvettast, spýtast
 jetsam n. vörur, sem kastað er útbyrðis til að létta á skipi í sjávarháska
 jetson n. vörur, sem kastað er útbyrðis til að létta á skipi í sjávarháska
 jettison s. kasta (vörum) útbyrðis; n. útkast (varnings)
