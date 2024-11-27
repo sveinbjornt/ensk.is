@@ -287,7 +287,7 @@ unfolding n. framför, vöxtur
 unforgiving l. ófyrirgefandi, ósáttfús, langrækinn
 unfortunate l. ógæfusamur; óheppinn (með [in])
 unfortunately ao. því miður; til allrar ógæfu ([~ for me])
-unfounded l. ástæðulaus
+unfounded l. ástæðulaus, tilhæfulaus
 unfrequent l. ótíður, sjaldgæfur ([of ~ occurrence])
 unfriended l. vinalaus
 unfriendly l. óvinveittur; óhagstæður ([weather ~ for health])
@@ -524,7 +524,7 @@ unserviceable l. óhentugur, ónýtur
 unsettle s. hagga; rugla
 unsettled l. óstöðugur, breytilegur ([~ weather]); gruggugur; óbyggður; óborgaður
 unsew s. spretta upp
-unshackle s. leysa (úr fjötrum)
+unshackle s. leysa úr fjötrum, affjötra
 unshaken l. óhaggaður; óbifanlegur
 unsheathe s. draga úr slíðrum ([~ a sword])
 unsheltered l. skýlislaus, skjóllaus

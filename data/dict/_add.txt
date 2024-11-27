@@ -5750,8 +5750,8 @@ beige l. drappaður, drapplitaður, ljósbrúnn, grábrúnn; óspennandi; n. dra
 disfigured l. afmyndaður, afskræmdur
 hoarsely ao. með hásri röddu
 blowtorch n. lóðlampi
-handcuffed l. handjárnaður, fjötraður, í handfjötrum
-handcuffs n. ft. handjárn, fjötrar
+handcuffed l. handjárnaður, handfjötraður, í handfjötrum
+handcuffs n. ft. handjárn, handfjötrar
 wittiness n. hnyttni, fyndni
 ex-wife n. fyrrverandi eiginkona
 ex- fsk. fyrrverandi (sbr. %[ex-wife]%, %[ex-husband]%)
@@ -5824,12 +5824,17 @@ neurotoxin n. taugaeitur
 dismembered l. sundurlimaður
 dismembering n. sundurlimun
 exacerbated s. æstur, egndur, ertur, gerður verri
-moocher n. afæta, sníkjudýr, e-r sem lifir af öðrum, beiningamaður
+moocher n. afæta, sníkjudýr, e-r sem lifir af öðrum, beiningamaður, betlari
+mooch s. sníkja, lifa af öðrum, betla
 cellulose n. beðmi, sellulósi, tréni
 lipocyte n. fitufruma
 totipotency n. alhæfni
 omnicompetence n. alhæfni
 mesothelioma n. miðþekjuæxli
-
-# mooch
-# moochy
+shackled l. fjötraður
+trashcan n. ruslafata, ruslakarfa, ruslatunna
+cellulite n. appelsínuhúð
+Manichean n. maníki (sjá %[Manicheanism]%); l. maníkískur
+Manicheanism n. maníkeismi (trúarbrögð)
+superparasite n. sníkilssníkill
+standoffish n. fjarlægur, dulur (í skapi), fálátur; ófélagslyndur, óvingjarnlegur
