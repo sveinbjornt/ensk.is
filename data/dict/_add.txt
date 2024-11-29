@@ -1406,8 +1406,11 @@ antisocial l. andfélagslegur ([~ behaviour])
 antibiotic l. gegn sýklum, andsýkla-; n. sýklalyf (yfirleitt í ft. [~s])
 antibiotics n. ft. sjá %[antibiotic]%
 anti-Semitism n. gyðingahatur, fordómar í garð gyðinga
+antisemitism n. gyðingahatur, fordómar í garð gyðinga
 anti-Semite n. gyðingahatari
+antisemite n. gyðingahatari
 anti-Semitic l. gyðingahatandi, fjandsamlegur gyðingum
+antisemitic l. gyðingahatandi, fjandsamlegur gyðingum
 anti-inflammatory l. bólgueyðandi
 anti-aircraft l. gegn flugvélum eða loftförum, loftvarna-; [~ system] loftvarnakerfi; [~ gun] loftvarnabyssa
 anticlockwise l. rangsælis; ao. rangsælis
@@ -2082,7 +2085,7 @@ manioc n. kassava, kassavarót
 basketry n. körfugerð
 potbelly n. ístra, bumba
 soapstone n. kléberg
-powerlessness n. vanmætti, máttleysi
+powerlessness n. vanmætti, máttleysi, valdaleysi
 simian l. apalegur, apa-; n. api, dýr af apaætt
 uncorrupt l. óspilltur, óskemmdur
 behaviourism n. atferlishyggja
@@ -5838,3 +5841,9 @@ Manichean n. maníki (sjá %[Manicheanism]%); l. maníkískur
 Manicheanism n. maníkeismi (trúarbrögð)
 superparasite n. sníkilssníkill
 standoffish n. fjarlægur, dulur (í skapi), fálátur; ófélagslyndur, óvingjarnlegur
+provably ao. sannanlega
+interstellar l. milli stjarna
+masseur n. (karlkyns) nuddari
+masseuse n. (kvenkyns) nuddari
+observability n. skoðanleiki, sjáanleiki
+defined l. skilgreindur, útlistaður, skýrður; takmarkaður
