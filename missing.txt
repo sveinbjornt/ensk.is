@@ -1321,6 +1321,7 @@ scorekeeper
 scoreboard
 autostereogram
 internalize
+internalized
 convertibility
 deflator
 sideline
@@ -1734,6 +1735,7 @@ shopper
 commuter
 bonanza
 jitter
+jittery
 kerfuffle
 congregant
 unpayable
@@ -4611,3 +4613,14 @@ subornate
 ball-bearing
 unencumbered
 epithalamus
+supramaximal
+infographic
+iridescence
+affectionately
+effluvia
+cervico-
+disconfirm
+disconfirmation
+conflicted
+intradermal
+

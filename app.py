@@ -102,6 +102,8 @@ num_nonascii = len(nonascii)
 metadata = e.read_metadata()
 
 CATEGORIES = read_wordlist("data/catwords.txt")
+KNOWN_MISSING_WORDS = read_wordlist("missing.txt")
+
 
 # Get all entries in each category and store in dict
 CAT2ENTRIES = {}
@@ -281,7 +283,7 @@ async def search(request: Request, q: str):
             await file.write(f"{word}\n")
 
     if not exact or not results:
-        if re.match(r"^[a-zA-Z]+$", q):
+        if re.match(r"^[a-zA-Z]+$", q) and q not in KNOWN_MISSING_WORDS:
             await _save_missing_word(q)
 
     return TemplateResponse(
