@@ -1097,8 +1097,8 @@ exclusive l. sem útilokar allt annað eða alla aðra; einka-; einn; [~ right] 
 exclusively ao. eingöngu, aðeins
 excogitate s. hugsa upp
 excogitation n. upphugsun
-excommunicate s. bannfæra, setja í bann, setja út af sakramentunum
-excommunication n. bannfæring; bann
+excommunicate s. bannfæra, setja í bann; setja út af sakramentunum; útiloka úr samfélaginu
+excommunication n. bannfæring; bann; útilokun úr samfélaginu
 excoriate s. nudda hörundið af, gera skinnlausan, fleiðra
 excoriation n. skinnleysi, afnuddun hörundsins, afrif, fleiður
 excrement n. saurindi; saur

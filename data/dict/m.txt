@@ -722,10 +722,10 @@ mice n. ft. af %[mouse]%; gljásteinn, glimmer
 Michaelmas n. Mikjálsmessa (29. september)
 mickle l. mikill (skoskt orð)
 microbe n. örvera, gerill, sóttkveikja
-micro- fsk. (í samsetningum) smá- (t.d. %[microdose]%, smáskammtur), ör- (t.d. %[microwave]%, örbylgja)
+micro- fsk. smá- (t.d. %[microdose]%, smáskammtur); ör- (t.d. %[microwave]%, örbylgja)
 microcosm n. smáheimur
-microscope n. sjónauki, smásjá
-microscopic l. sem aðeins sést í sjónauka, örsmár
+microscope n. smásjá, sjónauki
+microscopic l. sem aðeins sést í sjónauka; örsmár
 mid l. miður, mið-
 midday n. hádegi; l. hádegis-
 midnight n. miðnætti

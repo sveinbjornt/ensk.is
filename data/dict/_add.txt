@@ -5831,7 +5831,7 @@ moocher n. afæta, sníkjudýr, e-r sem lifir af öðrum, beiningamaður, betlar
 mooch s. sníkja, lifa af öðrum, betla
 cellulose n. beðmi, sellulósi, tréni
 lipocyte n. fitufruma
-totipotency n. alhæfni
+totipotency n. algeta, alhæfni
 omnicompetence n. alhæfni
 mesothelioma n. miðþekjuæxli
 shackled l. fjötraður
@@ -5841,9 +5841,13 @@ Manichean n. maníki (sjá %[Manicheanism]%); l. maníkískur
 Manicheanism n. maníkeismi (trúarbrögð)
 superparasite n. sníkilssníkill
 standoffish n. fjarlægur, dulur (í skapi), fálátur; ófélagslyndur, óvingjarnlegur
-provably ao. sannanlega
+provably ao. sannanlega, á sannanlegan hátt
 interstellar l. milli stjarna
 masseur n. (karlkyns) nuddari
 masseuse n. (kvenkyns) nuddari
-observability n. skoðanleiki, sjáanleiki
+observability n. skoðanleiki, sjáanleiki, athuganleiki
 defined l. skilgreindur, útlistaður, skýrður; takmarkaður
+miscalculated l. misreiknaður, skakkt reiknaður
+recessionary l. kreppu-; kreppuvaldandi; samdráttar-, afturdráttar-, samdragandi
+sitar n. sítar (indverskt strengjahljóðfæri)
+excommunicant n. bannfærður einstaklingur, e-r sem hefur verið bannfærður

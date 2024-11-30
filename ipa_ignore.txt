@@ -928,3 +928,7 @@ totipotency
 whistleblowing
 observability
 maquis
+excommunicant
+constructor
+destructor
+festering
