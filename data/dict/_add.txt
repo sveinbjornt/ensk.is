@@ -458,7 +458,7 @@ neurochemical l. taugaefnafræðilegur
 vector n. vigur, vektor
 cannabis n. kannabis (jurt sem er vímugjafi)
 revenant n. afturganga, uppvakningur; e-r sem snýr aftur
-bullshit n. kjaftæði, þvæla; nautaskítur; s. halda fram kjaftæði eða þvælu; blekkja; ljúga ([he was ~ting all along])
+bullshit n. bull, kjaftæði, þvæla; nautaskítur; s. bulla, halda fram kjaftæði eða þvælu; blekkja, afvegaleiða; ljúga ([he was ~ting all along])
 shades n. ft. skyggð gleraugu, sólgleraugu
 econometric l. hagmælinga-, hagtölfræði-
 econometrics n. ft. hagmælingar; hagtölfræði
@@ -3036,7 +3036,7 @@ turquoise n. túrkis (skrautsteinn); l. grænblár, blágrænn
 polychrome l. marglitur, fjöllita
 thermodynamic l. varmafræðilegur, varmaaflfræðilegur, varmaafls-
 thermodynamics n. ft. varmafræði, varmaaflfræði ([the second law of ~])
-prioritize s. forgangsraða
+prioritize s. forgangsraða, setja í forgang
 prioritization n. forgangsröðun
 carefree n. áhyggjulaus
 pointlessness n. tilgangsleysi
@@ -3817,7 +3817,7 @@ denim n. dením, denímefni, gallaefni, gallabuxnaefni; [~ pants, jeans] gallabu
 second-hand l. notaður ([~ clothes]); óbeinn ([~ smoking]); sem fæst í gegnum e-n annan en frumaðila
 hydrocarbon n. vetniskolefni, kolvetni; [~ fuel] jarðeldsneyti
 alkaline l. alkalískur, basískur
-humongous l. gríðarstór, feikistór, risavaxinn ([All hail the ~, the Lord Humongous!])
+humongous l. gríðarstór, feikistór, risavaxinn
 absurdly ao. fáránlega; á absúrd eða fjarstæðukenndan hátt
 underdeveloped l. vanþróaður, vanþroskaður
 underdevelopment n. vanþróun, vanþroski
@@ -3827,6 +3827,7 @@ foodstuff n. matvæli
 autarchy n. alveldi, alræðisveldi; efnahagslegt sjálfstæði; sjálfsnægt í efnahagsmálum; sjálfsþurftarbúskapur
 autarky n. efnahagslegt sjálfstæði; sjálfsnægt í efnahagsmálum; sjálfsþurftarbúskapur
 autarkic l. efnahagslega sjálfstæður, sjálfum sér nægur í efnahagsmálum; sjálfsþurftarbúskaps-
+autarchic l. efnahagslega sjálfstæður, sjálfum sér nægur í efnahagsmálum; sjálfsþurftarbúskaps-
 limelight n. sviðsljós
 unspoken l. ósagður; [he left it ~] hann lét það ósagt
 charisma n. persónutöfrar, þokki, sjarmi
@@ -5851,3 +5852,10 @@ miscalculated l. misreiknaður, skakkt reiknaður
 recessionary l. kreppu-; kreppuvaldandi; samdráttar-, afturdráttar-, samdragandi
 sitar n. sítar (indverskt strengjahljóðfæri)
 excommunicant n. bannfærður einstaklingur, e-r sem hefur verið bannfærður
+clitoris n. snípur
+ovulation n. egglos
+trimester n. þriggja mánaða tímabil, ársfjórðungur
+testicular l. eistna-
+perimetrium n. leghála
+motility n. hreyfanleiki
+phimosis n. forhúðarþröng

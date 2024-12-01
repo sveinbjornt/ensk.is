@@ -932,3 +932,5 @@ excommunicant
 constructor
 destructor
 festering
+perimetrium
+phimosis

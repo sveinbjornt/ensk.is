@@ -1130,7 +1130,7 @@ broken-spirited l. harmþrunginn
 broker n. miðlari, verslunarmiðill; skransali; veðlánari
 brokerage n. miðlaraiðn; miðlaralaun
 bronchia n. ft. lungnapípur
-bronchitis n. barkakitlabólga, berkjukvef, lungnakvef
+bronchitis n. barkakitlabólga, berkjukvef, lungnakvef, bronkítis
 bronze n. brons (málmblendingur); s. setja bronslit á; gera tilfinningarlausan, herða
 brooch n. brjóstnál
 brood n. afsprengi dýra; afkvæmi, börn; s. liggja á eggjum; klekja út; búa yfir (e-u), vera að hugsa um ([on/over]); grúfa yfir (um myrkur, nótt, stormský)
@@ -1211,12 +1211,11 @@ bulbous l. laukmyndaður
 bulge n. bumba, bunga; s. bunga út ([~ out])
 bulk n. búlki, skipsfarmur; stærð, fyrirferð; meginhluti; [to sell in ~] selja í einu lagi, selja í stórsölu
 bulky l. fyrirferðarmikill, stór
-bull n. griðungur, naut, boli
+bull n. griðungur, naut, boli; páfabréf; fásinna; kjaftæði (stytt. á %[bullshit]%)
 bulldog n. bolhundur
 bullfight n. nautaat
 bullfighter n. nautabani, nautvígamaður
 bull's-eye n. kúpt rúðugler, kúpt rúða
-bull n. páfabréf; fásinna
 bullet n. byssukúla
 bulletin n. stutt fréttaskýrsla s. senda út skeyti um e-ð
 bullion n. gull og silfur í stöngum; málmforði banka
