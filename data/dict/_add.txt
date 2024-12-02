@@ -3287,9 +3287,10 @@ prophylaxis n. forvörn, verndandi aðgerð, sjúkdómsvörn
 harmfulness n. skaðsemi, skaðræði
 polarization n. pólun, skautun
 polarisation n. pólun, skautun
-polarize s. skauta, pólarísera
-depolarize s. afskauta, afpólarísera
-depolarization n. afskautun, afpólarísering
+polarize s. skauta, póla, pólarísera
+polarized l. skautað, pólað, pólaríserað
+depolarize s. afskauta, afpóla, afpólarísera
+depolarization n. afskautun, afpólun, afpólarísering
 counter-espionage n. gagnnjósnir
 miscegenation n. kynþáttablöndun
 eschatology n. heimsslitafræði
@@ -4003,7 +4004,7 @@ psychotherapy n. sállækning, sálræn meðferð
 aspirin n. aspirín, asetýlsalisýlsýra
 switchboard n. skiptiborð, stjórntafla, rofatafla
 Aryan n. aríi; l. arískur (af forsögulegum indóevrópskum þjóðflokki kominn)
-cyber- fsk. sýndarheims-, net-, net-heima (sbr. %[cybernetics]%, %[cyberspace]%)
+cyber- fsk. sýndarheims-, net-, netheima- (sbr. %[cybernetics]%, %[cyberspace]%)
 connectivity n. tengjanleiki, tengni
 cypher n. dulkóti
 aversive l. fráhverfur; ógeðfelldur
@@ -5595,7 +5596,7 @@ Kremlin n. Kreml (borgarvirki í Moskvu sem er bústaður forseta Rússlands); r
 Transnistria n. Transnistría
 anime n. japanskar teiknimyndir
 manga n. japönsk teiknimyndablöð
-cyber-attack n. tölvuárás, netárás
+cyberattack n. tölvuárás, netárás
 rosarium n. rósagarður
 well-proportioned l. í góðum hlutföllum
 drool s. slefa; n. slef

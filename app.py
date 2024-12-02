@@ -283,7 +283,7 @@ async def search(request: Request, q: str):
             await file.write(f"{word}\n")
 
     if not exact or not results:
-        if re.match(r"^[a-zA-Z]+$", q) and q not in KNOWN_MISSING_WORDS:
+        if re.match(r"^[a-zA-Z]+$", q) and q.lower() not in KNOWN_MISSING_WORDS:
             await _save_missing_word(q)
 
     return TemplateResponse(
