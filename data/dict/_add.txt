@@ -1740,7 +1740,7 @@ unilaterally ao. einhliða
 dermatologist n. húðsjúkdómafræðingur, húðsjúkdómalæknir, húðfræðingur
 taxidermy n. uppstoppun
 taxidermist n. uppstoppari
-taxidermic l. uppstoppunar-, uppstoppunarlegur
+taxidermic l. uppstoppunar-
 fastidiousness n. vandlæti, vandfýsni
 EU n. stytt. á [European Union]; Evrópusambandið
 EV n. stytt. á %[electric vehicle]%; rafbíll, rafknúin bifreið
@@ -3260,6 +3260,7 @@ encephalitis n. heilabólga
 brucellosis n. öldusótt
 adenoid l. kirtil-, kirtillíkur, kirtla-, eitla-
 pathogen n. meinvaldur; sýkill
+pathogenic l. meinvirkur; sýkjandi
 pathogenicity n. meinvirkni
 maneuverability n. hreyfigeta, hreyfanleiki, lipurð; stýrihæfni
 boastfulness n. grobb, mont, stærilæti
@@ -5854,9 +5855,25 @@ recessionary l. kreppu-; kreppuvaldandi; samdráttar-, afturdráttar-, samdragan
 sitar n. sítar (indverskt strengjahljóðfæri)
 excommunicant n. bannfærður einstaklingur, e-r sem hefur verið bannfærður
 clitoris n. snípur
+ovulate s. losa egg
 ovulation n. egglos
 trimester n. þriggja mánaða tímabil, ársfjórðungur
 testicular l. eistna-
 perimetrium n. leghála
 motility n. hreyfanleiki
 phimosis n. forhúðarþröng
+mini- fsk. smá-, míní-
+microbiome n. örverumengi
+miniskirt n. mínípils, stuttpils, mjög stutt pils
+Jute n. Jóti
+crotch n. klof; klyftir
+bowhead whale n. norðhvalur, grænlandssléttbakur, grænlandshvalur
+gormless l. vitlaus, heimskur, heimskulegur; óreyndur, barnalegur
+braindead l. heiladauður
+vitalization n. lífgun
+revitalization n. endurlífgun
+disgorgement n. spýja; spýjun; gubb, æla, uppkast (sjá %[disgorge]%)
+naively ao. barnalega, einfeldningslega; náttúrulega, án tilgerðar
+effluvia n. ft. af %[effluvium]%
+postpartum l. eftirfæðingar-, eftir fæðingu
+tilde n. tilda, bylgjutákn

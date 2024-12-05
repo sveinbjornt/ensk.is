@@ -142,8 +142,8 @@ malingery n. skrópar
 malison n. bölvun
 mall n. stór trésleggja; hnallur; e.k. knattleikur; skemmtigöngustaður; verslunarmiðstöð ([a shopping ~])
 mallard n. stokkönd
-malleability n. fletjanleiki, hamranleiki, sveigjanleiki
-malleable l. fletjanlegur, hamranlegur, sveigjanlegur
+malleability n. fletjanleiki, hamranleiki, sveigjanleiki, mótanleiki
+malleable l. fletjanlegur, hamranlegur, sveigjanlegur, mótanlegur
 malleate s. slá út (fletja) með hamri ([~ metals])
 mallet n. tréhamar, kylfa
 malmsey n. sætt áfengt vín
@@ -825,7 +825,7 @@ mineralogist n. steindafræðingur, steinafræðingur
 mineralogy n. steindafræði, steinafræði
 mingle s. blanda; blandast; [~ with] hafa mök við
 miniate s. mála (lita) með menju (rauðum lit)
-miniature n. smá litmynd (eftir annarri stærri, [portrait in ~]); [in ~] í smáum stíl; s. teikna eða mála (þess konar) smámyndir; sýna í smáum stíl
+miniature n. smá litmynd (eftir annarri stærri, [portrait in ~]); [in ~] í smáum stíl; lítil stytta eða módel; s. teikna eða mála (þess konar) smámyndir; sýna í smáum stíl
 minify s. gera minni, draga úr e-u; gera lítið úr e-u
 minikin l. örsmár, ofurlítill
 minim n. agnarögn; dropi; hálfnóta

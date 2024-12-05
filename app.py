@@ -130,9 +130,6 @@ class CustomJSONResponse(FastAPIJSONResponse):
     """JSON response using the high-performance orjson library to serialize the data."""
 
     def render(self, content: Any) -> bytes:
-        assert (
-            orjson is not None
-        ), "orjson must be installed to use CustomJSONResponse class"
         return orjson.dumps(content)
 
 
@@ -234,7 +231,7 @@ def _results(q: str, exact_match: bool = False) -> tuple[list, bool]:
     return results, exact_match_found
 
 
-def cache_response(func):
+def cache_response(func) -> Any:
     """Decorator that indefinitely caches the response of a FastAPI async function."""
     response = None
 
@@ -290,7 +287,7 @@ async def search(request: Request, q: str):
         "result.html",
         {
             "request": request,
-            "title": f"„{q}“ - {WEBSITE_NAME}",
+            "title": f"Niðurstöður fyrir „{q}“ - {WEBSITE_NAME}",
             "q": q,
             "results": results,
             "exact": exact,

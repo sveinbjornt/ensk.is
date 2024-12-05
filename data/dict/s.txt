@@ -953,14 +953,14 @@ shoddy n. þræðir úr upptánum (gömlum) ullardúk
 shoe n. skór; skeifa ([horse~]); járn undir sleða; s. skóa; járna
 shoeblack n. skóburstari
 shoeleather n. skóleður
-shoemaker n. skóari, skósmiður
+shoemaker n. skósmiður, skóari
 shoot s. skjóta; hleypa (e-u) fyrir ([~ a bolt]); ýta, hrinda; tæma, steypa úr (vagni eða poka); láta spretta út úr sér ([~ buds]); fara (róa, sigla) fljótt í gegnum eða undir ([~ a bridge, ~ a rapid]); skjótast; þjóta; hrapa (um stjörnu); vaxa, spretta; [~ ahead of] komast (fara) fram úr; [~ at a mark] skjóta til marks; [~ at a target] í (skot)spón; [~ out] skaga fram; n. ung grein; skárenna; (vatns)buna; hraðstreymi (í á)
-shooter n. skotmaður, skytta
+shooter n. skytta, skotmaður
 shooting n. skot; veiðistöðvar; [to return from ~] koma heim af veiðum
 shooting star n. stjörnuhrap, vígahnöttur
-shop n. búð; smíðahús, verkstæði; s. ganga í búðir ([to go ~ping]); kaupa í búðum
+shop n. búð, verslun; smíðahús, verkstæði; s. kaupa í búðum, versla; ganga í búðir, fara í verslunarför ([to go ~ping])
 shopboard n. búðarborð
-shopkeeper n. smákaupmaður
+shopkeeper n. kaupmaður, smákaupmaður, verslunareigandi, búðareigandi, verslunarmaður
 shoplifter n. búðarþjófur, búðarhnuplari
 shoplifting n. búðarþjófnaður, búðarhnupl
 shopman n. búðarmaður
