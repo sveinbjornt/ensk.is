@@ -625,10 +625,10 @@ granule n. lítið korn
 granulous l. smákornóttur
 grape n. þrúga, vínber; járnarusl til að skjóta ([~shot])
 grapevine n. vínviður
-graphic l. sem lýtur að málaralist, teiknun, leturgrefti
+graphic l. sem lýtur að málaralist, teiknun, leturgrefti; grafískur
 graphical l. sem lýtur að málaralist, teiknun, leturgrefti ([the ~ arts]); ritlegur, rit-; skýr, ljós; [his great ~ power] hinn mikli hæfileiki hans til að lýsa (segja frá) ljóst
-graphically ao. skýrt
-graphite n. blýantsefni, ritblý
+graphically ao. skýrt; á teiknaðan eða myndrænan hátt
+graphite n. blýantsefni, ritblý, grafít
 graphology n. rithandarfræði
 graphomania n. ritæði
 grapnel n. smáakkeri, dreki; stafnljár
