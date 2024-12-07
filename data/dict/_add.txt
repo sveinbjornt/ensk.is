@@ -1949,7 +1949,7 @@ vampirish l. vampírulegur, vampíru-, blóðsugu-
 brainwash s. heilaþvo
 brainwashing n. heilaþvottur
 snobbery n. snobb, uppskafningsháttur, broddborgaraskapur, mont
-sine qua non l. nauðsynlegur (úr latínu, bókst. án hvers ekki)
+sine qua non l. nauðsynlegur, án hvers ekki (úr latínu)
 overpowering l. yfirþyrmandi
 doorknob n. hurðarhúnn
 firearm n. skotvopn
@@ -3419,7 +3419,7 @@ pseudoscalar n. gervitala; l. gervitölu-
 quasiparticle n. agnarígildi
 bulimia n. lotugræðgi, átköst, ofát, búlemía
 bulimic l. lotugræðgis-, búlemíu- (sjá %[bulimia]%)
-divorcee n. fráskilin kona eða maður
+divorcee n. fráskilin manneskja
 despondency n. örvænting; hugleysi, hugarvíl
 mayhem n. glundroði, írafár, öngþveiti
 transcontinental l. sem fer eða liggur þvert yfir álfu eða meginland
@@ -5868,18 +5868,25 @@ miniskirt n. mínípils, stuttpils, mjög stutt pils
 Jute n. Jóti
 crotch n. klof; klyftir
 bowhead whale n. norðhvalur, grænlandssléttbakur, grænlandshvalur
-gormless l. vitlaus, heimskur, heimskulegur; óreyndur, barnalegur
+gormless l. vitlaus, heimskur, heimskur; óreyndur, barnalegur
 braindead l. heiladauður
 vitalization n. lífgun
 revitalization n. endurlífgun
-disgorgement n. spýja; spýjun; gubb, æla, uppkast (sjá %[disgorge]%)
+disgorgement n. spýja, spýjun; gubb, æla, uppkast (sjá %[disgorge]%)
 naively ao. barnalega, einfeldningslega; náttúrulega, án tilgerðar
 effluvia n. ft. af %[effluvium]%
 postpartum l. eftirfæðingar-, eftir fæðingu
 tilde n. tilda, bylgjutákn
 endosome n. innblaðra
 brain drain n. spekileki
-chronologist n. tímatalsfræðingur
+chronologist n. tímatalsfræðingur; tímatalsritari
 semilunar l. hálfmána-
 graphic design n. grafísk hönnun
-divorced l. fráskilinn; skilinn frá, aftengdur ([~ from reality])
+divorced l. fráskilinn (úr hjónabandi); skilinn frá, aftengdur ([~ from reality])
+ex nihilo l. úr eða frá engu (úr latínu)
+Spanish flu n. spænska veikin ([the Spanish influenza])
+appendicitis n. botnlangabólga
+warhammer n. stríðshamar
+spellcasting n. það að kasta galdri, töfrar, galdrar
+spellcaster n. töframaður, galdramaður, sá sem kastar göldrum
+infotainment n. afþreyingarefni sem upplýsir
