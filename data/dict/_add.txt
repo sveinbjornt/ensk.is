@@ -5868,7 +5868,7 @@ miniskirt n. mínípils, stuttpils, mjög stutt pils
 Jute n. Jóti
 crotch n. klof; klyftir
 bowhead whale n. norðhvalur, grænlandssléttbakur, grænlandshvalur
-gormless l. vitlaus, heimskur, heimskur; óreyndur, barnalegur
+gormless l. vitlaus, heimskur; óreyndur, barnalegur
 braindead l. heiladauður
 vitalization n. lífgun
 revitalization n. endurlífgun
@@ -5890,3 +5890,5 @@ warhammer n. stríðshamar
 spellcasting n. það að kasta galdri, töfrar, galdrar
 spellcaster n. töframaður, galdramaður, sá sem kastar göldrum
 infotainment n. afþreyingarefni sem upplýsir
+offline l. ekki tengdur, ótengdur, ónettengdur; ekki uppi, niðri (um vélræna þjóna)
+spellbound l. undir álögum, undir áhrifum galdurs; heillaður, hugfanginn
