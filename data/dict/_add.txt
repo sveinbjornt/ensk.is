@@ -5868,7 +5868,7 @@ miniskirt n. mínípils, stuttpils, mjög stutt pils
 Jute n. Jóti
 crotch n. klof; klyftir
 bowhead whale n. norðhvalur, grænlandssléttbakur, grænlandshvalur
-gormless l. vitlaus, heimskur, heimskur; óreyndur, barnalegur
+gormless l. vitlaus, heimskur; óreyndur, barnalegur
 braindead l. heiladauður
 vitalization n. lífgun
 revitalization n. endurlífgun
@@ -5979,3 +5979,5 @@ botched l. klúðrað, misheppnað
 programming n. forritun
 license s. fá eða hafa leyfi fyrir einhverju (oft skírteini) frá viðeigandi leyfisveitanda
 differential l. mismuna-; [~ diagnosis] mismunagreining; n. mismunadrif (búnaður svo dekk megi snúast mishratt á bíl) 
+offline l. ekki tengdur, ótengdur, ónettengdur; ekki uppi, niðri (um vélræna þjóna)
+spellbound l. undir álögum, undir áhrifum galdurs; heillaður, hugfanginn
