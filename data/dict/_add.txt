@@ -228,7 +228,7 @@ surfboard n. brimbretti
 rollerskate n. hjólaskauti; s. ferðast á hjólaskautum
 geyser n. goshver
 penis n. typpi, getnaðarlimur, göndull
-cunnilingus n. munnmök, að fara niður á konu, að sleikja píku
+cunnilingus n. munnmök, það að fara niður á konu, það að sleikja píku
 bestseller n. metsölubók; vara sem selst í miklu magni
 bestselling l. söluhæstur; metsölu-
 roommate n. herbergisfélagi, kammerat
@@ -5814,15 +5814,15 @@ gonad n. kynkyrtill
 roughneck n. ruddi, groddi, rusti, þjösni; verkamaður
 redneck n. sveitadurgur, sveitalubbi, sveitavargur, durtur
 disarticulate s. aflima, stýfa
-disarticulation n. stýfing (aflimun)
-misallocation n. röng úthlutun
+disarticulation n. stýfing, aflimun
+misallocation n. röng úthlutun, misúthlutun
 cojones n. ft. eistu; kjarkur, hugrekki
 demonology n. djöflafræði
 demonologist n. djöflafræðingur
 dobermann n. dobermann-hundur, dofri
 tuxedo n. smóking; kjólföt
 limerick n. limra
-comeuppance n. makleg málagjöld
+comeuppance n. makleg málagjöld ([he got his ~])
 excommunicator n. bannfærari
 whistleblower n. uppljóstrari
 whistleblowing n. uppljóstrun, afhjúpun
@@ -5881,14 +5881,14 @@ endosome n. innblaðra
 brain drain n. spekileki
 chronologist n. tímatalsfræðingur; tímatalsritari
 semilunar l. hálfmána-
-graphic design n. grafísk hönnun
+graphic design n. grafísk hönnun, myndræn hönnun
 divorced l. fráskilinn (úr hjónabandi); skilinn frá, aftengdur ([~ from reality])
 ex nihilo l. úr eða frá engu (úr latínu)
 Spanish flu n. spænska veikin ([the Spanish influenza])
 appendicitis n. botnlangabólga
 warhammer n. stríðshamar
 spellcasting n. það að kasta galdri, töfrar, galdrar
-spellcaster n. töframaður, galdramaður, sá sem kastar göldrum
+spellcaster n. töframaður, galdramaður, sá sem töfrar eða kastar göldrum
 infotainment n. afþreyingarefni sem upplýsir
 hoagie n. samlokubátur
 lymphocyte n. hvítfruma (hvítt blóðkorn), eitilfruma
@@ -5898,29 +5898,29 @@ muesli n. múslí
 dowel n. díll (viðarpinni fyrir samfestingar í trésmíði)
 annulled l. gerður ógildur (þ.e. samningur, gjarnan ógilding hjúskapar)
 speeding n. ofsaakstur, akstur yfir hámarkshraða
-hyphenated l. (ritað) með bandstriki
+hyphenated l. (ritaður) með bandstriki
 onboarding n. byrðing (t.d. flugvélar eða báts); grunnþjálfun nýliða (t.d. í fyrirtæki)
 flatter s. veita fagurmæli, skjalla, hrósa, lofa, upphefja; að e-ð fari manni vel (um fatnað)
-cramped l. stappað, troðfyllt, troðið (um rými eða atburð, t.d. kvikmyndasalur, tónleikar); skortur á athafnafrelsi (vegna plássleysis)
+cramped l. stappaður, troðfylltur, troðinn (um rými eða atburð, t.d. kvikmyndasalur, tónleikar); skortur á athafnafrelsi (vegna plássleysis)
 klutz n. klaufi
 toned l. skorinn (um ásýnd líkama, það sést móta fyrir vöðvum)
-budding n. blómstrandi, á uppleið (frami einhvers)
-asexual l. ókynhneigður, upplifir skerta kynferðislegan áhuga (óháð kyni)
-smithereen n. [blow up into smithereens] að springa í tætlur 
+budding l. blómstrandi, á uppleið (frami einhvers)
+asexual l. ókynhneigður, upplifir skertan kynferðislegan áhuga (óháð kyni)
+smithereen n. [blow up into smithereens] að springa í tætlur
 layover n. millilending (þegar ferðast er með flugvél)
 kingpin n. glæpakóngur, glæpaforingi, mafíuforingi
-doomed l. dauðadæmdir, vonlaus
+doomed l. dæmdur, dauðadæmdur, vonlaus, steyptur í glötun
 mastermind n. að vera heilinn á bak við eitthvað, snillingur, hugmyndasmiður, hönnuður, (gjarnan notað um glæpi eða illverk)
 slingshot n. slöngva, teygjubyssa
 hijinx n. brall, uppákomur, brek, sprell, strákapör
 zoning n. deiliskipulag
 focal l. að vera í brennipunkti
 footage n. myndband, myndefni; ræma (sem geymir myndefni)
-computed l. reiknað; gert í tölvu; [~ tomography] sneiðmyndataka
-relatively a. tiltölulega
-characterized l. [~ by something] einkennast af e-u; [~ by someone] lýst eða skilgreint af einhverjum
-sequence n. röð, runa; [in ~] í röð, hver á eftir öðrum;
-bypass s. fara hjáleið, fara framhjá  ; n. [~ surgery] hjáveituaðgerð
+computed l. reiknaður; gerður í tölvu; [~ tomography] sneiðmyndataka
+relatively ao. tiltölulega
+characterized l. [~ by something] einkennast af e-u; [~ by someone] lýstur eða skilgreindur af einhverjum
+sequence n. röð, runa; [in ~] í röð, hver á eftir öðrum
+bypass s. fara hjáleið, fara framhjá; n. [~ surgery] hjáveituaðgerð
 surveil s. njósna um e-n, fylgjast með e-m á laun
 choreograph s. hanna dans, semja dans
 choreography n. danshönnun, dansgerð, danssmíði
@@ -5929,55 +5929,60 @@ namespace n. nafnarúm, nafnamengi
 rating n. einkunn, skor; flokkur, flokkun (t.d. lágmarksaldur fyrir kvikmyndir)
 hypothesize s. geta sér til um, gera sér í hugarlund; mynda kenningu
 paternalism n. forræðishyggja
-paternalist l. forræðishyggið
+paternalist l. forræðishygginn
 paternalistic l. hafa tilhneigingu til forræðishyggju
 filibuster n. málþóf
 follicular l. eggjastokka-
 score n. skor, stig, einkunn; s. skora, skora mark; skora e-ð (rista í)
 thruster n. hreyfill (fyrir þotur, eldflaugar og geimför)
 geosynchronous l. [~ orbit] jarðsnúningsbundinn sporbaugur
-histamine n. lostefni, histamín 
+histamine n. lostefni, histamín
 inactivate s. afvirkja
-sequencing s. [gene ~] raðgreina erfðaefnis
+sequencing s. [gene ~] raðgreina erfðaefni
 parametrize s. stika (e-ð)
 airway n. öndunarvegur
-muffled l. hljóðdeyft, kæft (um hljóð)
+muffled l. hljóðdeyfður, kæft (um hljóð)
 cynic n. svartsýn manneskja
-fortified l. að búið að styrkja e-ð eða efla (t.d. veggur, vín, hugur)
-dilapidated l. niðurnítt (t.d. hús)
+fortified l. að búið að styrkja e-ð eða efla (t.d. veggur, vín, hugur); víggyrtur ([a ~ town])
+dilapidated l. niðurníddur (t.d. hús)
 spoiled s. dekraður; skemmt, úldið (t.d. mjólk)
 juggle s. halda (e-u) á lofti (t.d. boltum, verkefnum)
 juggling n. sjá %[juggle]%
 sparkler n. stjörnuljós
 hidden l. hulinn, falinn
 saturated l. mettaður
-craving n. þrá, sterk löngun 
+craving n. þrá, sterk löngun
 jiggle s. dilla (t.d. bossa)
-yank s. toga í e-ð; [~ his chain] stríða einhverjum 
-idiopathic s. e-ð sem ekki er hægt að skýra með kerfisbundnum hætti
+yank s. toga í e-ð; [~ his chain] stríða einhverjum
+idiopathic l. sem ekki er hægt að skýra með kerfisbundnum hætti
 beta n. gríski stafurinn beta; prófunarferli á hugbúnaði eða kerfi; l. síðri eða annars flokks
-overestimated l. ofmetið
+overestimated l. ofmetinn
 estrus n. tíðir, tíðahringur, blæðingar
-oestrous n. sjá %[estrus]%
+oestrous n. tíða-, tíðahrings-, blæðinga- (sjá %[estrus]%)
 excluded l. útilokaður
-slot n. rauf, rifa, hólf, lúga; setja í rauf;
-aphantasia n. Skortur á getu til myndrænnar ímyndunar
+slot n. rauf, rifa, hólf, lúga; setja í rauf
+aphantasia n. skortur á getu til myndrænnar ímyndunar
 motivate s. hvetja e-n; [feel motivated] finna fyrir hvata
-arguably a. umdeilanlega
-arguable l. umdeilanlegt
+arguably ao. umdeilanlega
+arguable l. umdeilanlegur; sem hægt er að færa rök fyrir ([it is ~ that])
 meliorist n. umbótahyggjusinni
 pivotal l. að hafa spilað lykilhlutverki (í e-u)
 specificity n. sértækni (það að vera sértækt)
-unease n. ónot, ónotatilfinning
-irreducible l. ókljúfanlegur, óþættanlegur, ósmækkanlegur
+unease n. ónot, ónotatilfinning, óróleiki
+irreducible l. ókljúfanlegur, óþættanlegur, ósmækkanlegur, ósmættanlegur
 sensationalism n. æsifréttamennska, æsifregnastíll
 proponent n. stuðningsmaður, stuðningsaðili (e-s framtaks), hvatamaður
-infected l. sýktur
+infected l. sýktur, smitaður
 preoccupation n. að vera upptekinn við e-ð
-revealed l. uppljóstrað, afhjúpað
-botched l. klúðrað, misheppnað
+revealed l. uppljóstraður, afhjúpaður
+botched l. klúðraður, misheppnaður; [~ job] hálfkák
 programming n. forritun
-license s. fá eða hafa leyfi fyrir einhverju (oft skírteini) frá viðeigandi leyfisveitanda
-differential l. mismuna-; [~ diagnosis] mismunagreining; n. mismunadrif (búnaður svo dekk megi snúast mishratt á bíl) 
-offline l. ekki tengdur, ótengdur, ónettengdur; ekki uppi, niðri (um vélræna þjóna)
+license s. fá eða hafa leyfi fyrir einhverju (oft skírteini) frá viðeigandi leyfisveitanda; n. leyfi, notkunarleyfi, leyfisskírteini
+differential l. mismuna-; [~ diagnosis] mismunagreining; n. mismunadrif (búnaður svo dekk megi snúast mishratt á bíl)
 spellbound l. undir álögum, undir áhrifum galdurs; heillaður, hugfanginn
+offline l. ekki tengdur, ótengdur, ónettengdur, ekki í samskiptum við umheiminn; ekki uppi, niðri (um vélræna þjóna)
+captivating l. gagntakandi, grípandi, fangandi ([a ~ performance])
+WC stytt. á [water closet], klósett
+pancreatitis n. brisbólga
+pentatonic l. fimmtóna-
+sulphate n. súlfat

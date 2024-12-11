@@ -212,8 +212,8 @@ captainship n. yfirforingjaembætti
 caption n. fyrirsögn, millifyrirsögn; myndatexti, myndlýsing; löghald; vottorð
 captious l. fláráður, hótfyndinn
 captiousness n. fláræði, undirferli; hótfyndni
-captivate s. gagntaka, fá á
-captivation n. gagntekning
+captivate s. gagntaka, fá á, grípa, fanga
+captivation n. gagntekning (sjá %[captivate]%)
 captive l. hernuminn, fanginn, sem er í fangelsi ([a ~ lion]); [~ balloon] flugbelgur fastur í bandi; n. bandingi, fangi
 captivity n. varðhald; ánauð; herleiðing
 captor n. sá sem hertekur

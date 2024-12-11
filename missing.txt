@@ -170,7 +170,6 @@ pre-emptive (endurskoða)
 holograph (endurskoða)
 holographic
 transgender
-differential
 essentially
 financing
 graph
@@ -188,7 +187,6 @@ offence (endurskoða)
 ongoing
 onto
 paintball
-programming
 promotional
 referral
 regulatory
@@ -196,7 +194,6 @@ relevance
 irrelevance
 throttle (endurskoða)
 engram
-botched
 infested
 pickup
 pickup truck
@@ -487,7 +484,6 @@ maneuver
 pinpoint
 tabloid
 crewman
-mastermind
 fabled
 colonizer
 groundbreaking
@@ -648,6 +644,8 @@ knowledgeable
 stockpile
 guideline
 expendable
+mistreat
+mistreated
 mistreatment
 consensual
 rearrange
@@ -4591,7 +4589,6 @@ gormless (endurskoða)
 scarred
 mesenchyme
 spell (endurskoða)
-pancreatitis
 integrator
 hemodynamic
 infograph
@@ -4599,8 +4596,21 @@ douche
 douchebag
 cervix
 oregano
-sulphate
 jumpy
 horrified
-pentatonic
-WC
+blurred
+halftime
+parkway
+suspended
+stalled
+downwash
+squaddie
+subarctic
+epicycle
+capstone
+tinted
+stinted
+strategize
+impaler
+overlapping
+
