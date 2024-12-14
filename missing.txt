@@ -4605,7 +4605,6 @@ suspended
 stalled
 downwash
 squaddie
-subarctic
 epicycle
 capstone
 tinted
@@ -4613,4 +4612,4 @@ stinted
 strategize
 impaler
 overlapping
-
+licensed
