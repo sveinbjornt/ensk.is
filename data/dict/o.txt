@@ -360,7 +360,7 @@ orbicular l. kringlóttur, hringmyndaður, hnöttóttur
 orbit n. sporbraut, braut himintungla, sporbaugur; augnatóft; augnaskinn (á fugli)
 Orcadian l. orkneyskur; n. Orkneyingur
 orchard n. aldingarður
-orchestra n. hljóðfærasvið í leikhúsi milli leiksviðs og áhorfenda; hljóðfærasveit
+orchestra n. hljóðfærasveit, stór hljómsveit; hljóðfærasvið í leikhúsi milli leiksviðs og áhorfenda
 ordain s. setja (lög); ákvarða, ákveða, fyrirskipa; vígja (prest)
 ordainment n. fyrirskipun; guðdómleg ákvörðun ([divine ordainment])
 ordeal n. guðsdómur; skírsla; hörð raun; [~ by fire] járnburður

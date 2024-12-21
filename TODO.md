@@ -16,3 +16,4 @@
 * [ ] Dark mode!
 * [ ] aiosqlite?
 * [ ] Support search for strings shorter than 3 chars, but only deliver exact results
+* [ ] Support regex search using * character

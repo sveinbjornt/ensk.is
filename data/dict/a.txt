@@ -1000,7 +1000,7 @@ anglicism n. enskt máleðli
 anglicize s. gera enskt
 anglomania n. áköf aðdáun á öllu ensku
 Anglophile n. ensksinnaður, sá sem elskar England og/eða enska menningu
-Anglo-Saxon l. engilsaxneskur; n. Engilsaxi; engilsaxneska
+Anglo-Saxon n. Engilsaxi; engilsaxneska; l. engilsaxneskur
 angrily ao. í reiði, reiðilega
 angry l. reiður (við e-n [with]); reiðilegur ([~ countenance, look])
 anguish n. kvöl, pína; angist; s. kvelja
@@ -1472,8 +1472,8 @@ ass n. asni ([make an ~ of oneself]); rass
 assagai n. kastspjót (notað í Suður-Afríku)
 assail s. gera áhlaup á, ráðast á
 assailant n. árásarmaður
-assassin n. morðingi, launmorðingi
-assassinate s. myrða, launmyrða
+assassin n. launmorðingi, morðingi
+assassinate s. myrða, launmyrða, myrða á laun
 assassination n. morð, launmorð
 assault n. árás, áhlaup; s. ráðast á ([~ a fortress])
 assay n. raun, reynsla, prófun (málma); s. reyna (skírleika málms)

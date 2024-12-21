@@ -735,9 +735,9 @@ homily n. predikun; (áminningar)ræða
 homing n. heimferð, heimför
 homing pigeon n. bréfdúfa
 hommock n. strýtumyndaður hóll
-homeopath n. smáskammtalæknir
-homeopathist n. smáskammtalæknir
-homeopathy n. smáskammtalækningar
+homeopath n. smáskammtalæknir; skottulæknir
+homeopathist n. smáskammtalæknir; skottulæknir
+homeopathy n. smáskammtalækningar; skottulækningar
 homogeneity n. samkynjun; einsleitni; heild af sama uppruna
 homogeneous l. samkynjaður, samkynja
 homologate s. samþykkja

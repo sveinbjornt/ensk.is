@@ -16,7 +16,7 @@ earshot n. heyrnarvídd ([out of ~, within ~])
 ear-trumpet n. heyrnarpípa
 earwig n. eyrnapadda (skordýr); s. koma sér í mjúkinn hjá e-m (með söguburði); setja ofan í við e-n einslega
 earwitness n. heyrnarvottur
-earl n. jarl (lægri en [marquis] að tign, en æðri en [viscount])
+earl n. jarl (lægri en %[marquis]% að tign, en æðri en %[viscount]%)
 earldom n. jarldómur
 early l. sem er snemma dags; snemmkvæmur; snemmgrær; öndverður; skjótur; [keep ~ hours] fara snemma á fætur og snemma að hátta; [the ~ bird gets the worm] morgunstund hefur gull í mund; [an ~ riser] árrisull maður; [at an ~ hour] snemma dags; [in the ~ part of his life] á öndverðri ævi hans; ao. snemma dags; árla; snemma
 earn s. vinna fyrir (e-u); ávinna sér; innvinna sér, afla
