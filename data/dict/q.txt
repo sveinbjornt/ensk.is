@@ -95,9 +95,9 @@ question n. spurning; umræðuefni; (píningar)rannsókn; skoðunarmál; efi; m�
 questionable l. vafasamur; efasamur; tortryggilegur
 questionableness n. óvissa; vafasemi
 questioner n. spyrjandi
-questionless l. vafalaus
-question mark n. spurningarmerki
-question stop n. spurningarmerki
+questionless l. vafalaus, án spurninga, án athugasemda
+question mark n. spurningarmerki (?)
+question stop n. spurningarmerki (?)
 queue n. röð (manna, vagna); hárflétta (hárpískur) aftan úr hnakkanum; s. setja í röð; flétta (hárið) í písk
 quibble n. undanbragð; hártogun; orðaleikur; s. hafa undanbrögð í frammi; hártoga
 quibbler n. hártogari, málkrókamaður

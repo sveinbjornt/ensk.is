@@ -1,5 +1,9 @@
 # TODO list for ensk.is
 
+* [ ] Deduplicate words in the database
+* [ ] Add more words
+* [ ] Add more examples
+* [ ] Resolve mulitple word categoriesx
 * [ ] Fuzzy suggestions, matches ("Did you mean X, Y or Z?")
 * [ ] Fix double IPA entries for US English
 * [ ] Use paralell corpora
@@ -16,3 +20,4 @@
 * [ ] Dark mode!
 * [ ] aiosqlite?
 * [ ] Support search for strings shorter than 3 chars, but only deliver exact results
+* [ ] Support regex search using * character

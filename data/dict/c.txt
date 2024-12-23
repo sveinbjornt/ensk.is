@@ -66,7 +66,7 @@ calling n. kall, köllun; atvinna, lífsstaða, lífsköllun ([~ in life]); pres
 calligrapher n. skrautskrifari, skrautritari
 calligraphy n. skrautskrift, skrautritun
 callosity n. sigg, þykknun húðar
-callous l. harðbrjósta, harðlyndur, tilfinningalaus; harður (um hörundið)
+callous l. harðbrjósta, harðlyndur, tilfinningalaus; harður (um hörundið); sigggróinn
 callow l. fjaðralaus; fiðurlaus, snoðinn; óreyndur
 calm l. rólegur, kyrr; hægur, friðsamur; n. kyrrð; rósemi; logn; [dead ~] ládeyða; [it fell dead ~] það gerði blæja logn; s. stilla, sefa; [~ down] lægja (um vind)
 calmness n. kyrrð, stilling
@@ -488,7 +488,7 @@ center n. sjá %[centre]%
 centesimal l. hundraðasti ([~ part])
 centigrade l. [~ thermometer] hundrað stiga hitamælir (selsíus)
 centigramme n. 1/100 úr grammi
-centimetre n. 1/100 úr metra
+centimetre n. sentimetri (einn hundraðasti úr metra)
 centipede n. margfætla
 central l. sem er í miðið, mið-; aðal-, höfuð; [~ heating] miðstöðvarhitun; [~ exchange] símamiðstöð
 centrality n. miðleiki
@@ -538,7 +538,7 @@ chaffing n. ertni
 chaffy l. fullur af ögnum; einskisverður, ónýtur
 chafingdish n. glóðarker
 chagrin n. gremja, skapraun; s. skaprauna
-chain n. festi, keðja ft. fjötrar; s. binda með festi; fjötra
+chain n. keðja, festi; [~s] fjötrar; s. fjötra, binda með festi
 chain-armour n. hringabrynja
 chain-bridge n. hengibrú
 chair n. stóll; dómarasæti; kennaraembætti (við háskóla); forsetatign; forseti ([address the ~]); forsæti; [be put into (called to) the ~] vera kosinn fundarstjóri; [appeal to the ~] skjóta máli sínu til fundarstjóra; [take a ~] setjast; [take the ~] setjast í forsetastólinn; [be in the ~] vera fundarstjóri; s. setja á stól; bera á (gull)stól
@@ -798,10 +798,10 @@ chrismation n. smurning
 chrismatory n. olíuker
 Christ n. Kristur
 christen s. kristna, skíra; [he was ~ed John] hann var skírður John
-christening n. skírn
+christening n. skírn, kristnun
 christendom n. kristindómur, kristni
-Christian l. kristinn, kristilegur; [~ name] skírnarnafn; n. kristinn maður
-Christianity n. kristin trú, kristni
+Christian l. kristinn, kristilegur; [~ name] skírnarnafn; n. kristinn manneskja
+Christianity n. kristni, kristin trú
 Christianization n. kristnun; kristnitaka
 Christianize s. kristna, snúa til kristni
 Christianly ao. kristilega
@@ -813,17 +813,17 @@ chromatic l. litlegur, litar-
 chromatics n. ft. litafræði
 chrome n. króm (málmur)
 chronic l. langvinnur (um sjúkdóma), rótgróinn
-chronicle n. annáll, árbók; frásaga; s. færa í letur, segja frá
-chronicler n. annálaritari
+chronicle n. annáll, árbók; frásaga; s. færa í letur, segja frá, annála
+chronicler n. annálaritari, annálahöfundur
 chronological l. tímatalslegur, tímatals-; tímatalsfræðilegur
 chronology n. tímatal; tímatalsfræði
-chronometer n. tímamælir, krónómetri (mjög nákvæm stundaklukka)
+chronometer n. tímamælir, krónómetri (mjög nákvæm stundaklukka); skipsklukka
 chronometry n. vísindaleg (mjög nákvæm) tímamæling
 chrysalid n. púpa
 chrysanthemum n. e.k. blóm
 chub n. karfategund
 chubby n. þykkleitur, búlduleitur, feitur ([a ~ boy])
-chuck s. kasta, henda; [~ away (chance)] kasta frá sér; [~ up to the sponge] gefast upp; [~ out] reka á dyr; gagga, klaka (um hænu); slá undir hökuna; n. klak; klapp (undir hökuna); kast; [my ~!] heillin mín!
+chuck s. kasta, henda; [~ away (chance)] kasta frá sér; [~ up to the sponge] gefast upp; [~ out] reka á dyr; gagga, klaka (um hænu); slá undir hökuna; n. klak; klapp (undir hökuna); kast
 chuckle s. hlæja leynilega, skríkja; hlakka yfir ([over]); n. skríkjur
 chucklehead n. auli, einfeldningur
 chuckleheaded l. aulalegur, einfaldur
@@ -2611,8 +2611,8 @@ culinary l. sem lýtur að eldhúsi eða matartilbúningi
 cull s. velja, tína ([~ flowers])
 cully n. heimskingi
 culm n. kolasalli; smíðakol; grasstrá, hálmstrá, hálmur
-culminate s. komast á hæsta stig; standa hæst á lofti (um stjörnur)
-culmination n. hæsta stig; háganga (himintungla)
+culminate s. komast á hæsta stig; ná hápunkti; standa hæst á lofti (um stjörnur)
+culmination n. hæsta stig; hápunktur; háganga (himintungla)
 culpability n. saknæmi
 culpable l. brotlegur; vítaverður ([~ negligence]); sekur
 culprit n. sakborningur; sökudólgur

@@ -85,12 +85,13 @@ fascistic l. fasískur, fasistalegur
 telephony n. símtækni
 keyboard n. lyklaborð
 touch screen n. snertiskjár
-lemur n. lemúr (dýr af prímataættum frá eyjunni Madagaskar)
+lemur n. lemúr (dýr af ætt prímata frá eyjunni Madagaskar)
 baseball n. hafnabolti (bandarísk íþrótt)
-jet n. þota (þrýstiloftsflugvél)
+jet n. þota, þrýstiloftsflugvél
+jet fighter n. herþota, orustuþota
 automobile n. bifreið, bíll, sjálfrennireið
 kleptocracy n. þjófræði (stjórnarfyrirkomulag þar sem æðstu ráðamenn stela frá almenningi)
-kleptocrat n. þjófóttur ráðamaður (sjá %[kleptocracy]%)
+kleptocrat n. þjófóttur ráðamaður, þjófræðismaður (sjá %[kleptocracy]%)
 kleptocratic l. þjófræðis-, þjófóttur (sjá %[kleptocracy]%)
 website n. vefsíða, vefsetur (á veraldarvefnum)
 web page n. vefsíða (á veraldarvefnum)
@@ -141,7 +142,7 @@ microchip n. örflaga
 microprocessor n. örgjörvi
 credit card n. kreditkort, krítarkort (rafrænt greiðslukort)
 jeans n. ft. gallabuxur
-entomological l. skordýrafræðilegur
+entomological l. skordýrafræðilegur, skordýrafræði-
 teleology n. markhyggja (sú kenning að endanleg útskýring á orsökum fyrirbæris, atburðar eða athafnar verði að hafa skírskotun til tilgangs eða ætlunar)
 teleological l. markhyggjulegur, markhyggju- (sjá %[teleology]%)
 biosphere n. lífhvolf, lífríki
@@ -226,17 +227,17 @@ expertise n. sérfræðiþekking, sérþekking, sérfræðikunnátta; [area of ~
 internet n. internet, alnet, víðnet (oft skrifað með stórum staf, [the Internet])
 surfboard n. brimbretti
 rollerskate n. hjólaskauti; s. ferðast á hjólaskautum
-geyser n. goshver
-penis n. typpi, getnaðarlimur, göndull
+geyser n. goshver, hver
+penis n. typpi, getnaðarlimur, limur, göndull
 cunnilingus n. munnmök, það að fara niður á konu, það að sleikja píku
 bestseller n. metsölubók; vara sem selst í miklu magni
 bestselling l. söluhæstur; metsölu-
 roommate n. herbergisfélagi, kammerat
 simultaneously ao. samtímis, samtíða, á sama tíma
 technician n. tæknimaður
-typically ao. dæmigert; yfirleitt
+typically ao. dæmigert; yfirleitt; að vanda
 viagra n. víagra (stinningarlyf)
-ninja n. ninja (e.k. japanskur launmorðingi)
+ninja n. ninja (japanskur launmorðingi)
 quantum mechanics n. ft. skammtafræði
 quantum mechanical l. skammtafræðilegur
 quantum computer n. skammtatölva
@@ -271,7 +272,7 @@ Anzac n. ástralskur eða nýsjálenskur hermaður (í fyrri heimsstyrjöld)
 zoophilia n. dýragirnd
 teenager n. táningur, unglingur
 teenage l. tánings-, unglings-; á táningsaldri, á unglingsaldri
-stadium n. leikvangur, völlur
+stadium n. leikvangur, völlur; íþróttavöllur, íþróttavangur
 startup n. [~ (company, firm)] sprotafyrirtæki
 wobbly l. valtur
 workflow n. verkferli, verkskipulag, verkflæði
@@ -1473,7 +1474,7 @@ ukulele n. úkulele, smágítar (strengjahljóðfæri)
 Lombardy n. Langbarðaland
 Kiev n. Kænugarður (borg í Úkraínu)
 Kyiv n. Kænugarður (borg í Úkraínu)
-Constantinople n. Mikligarður (í dag tyrkneska borgin Istanbúl)
+Constantinople n. Mikligarður, Konstantínópel (í dag tyrkneska borgin Istanbúl)
 cologne n. ilmvatn, kölnarvatn, rakspíri; [Cologne] Köln (borg í Þýskalandi)
 London n. Lundúnir, London (höfuðborg Bretlands)
 New World n. Nýi heimurinn (álfurnar Suður- og Norður-Ameríka, og Eyjaálfa)
@@ -1621,7 +1622,7 @@ fossilized l. steingerður, steinrunninn
 carjacker n. bílþjófur
 ketamine n. ketamín (svæfingarlyf)
 implementation n. útfærsla, framkvæmd
-affordable l. á viðráðanlegu verði; sjá %[afford]%
+affordable l. á viðráðanlegu verði; sem maður hefur ráð á; sem gengur eftir, sem hægt er að sjá eftir; sjá %[afford]%
 ASAP ao. eins fljótt og auðið er, eins fljótt og mögulega (stytt. á [as soon as possible])
 minesweeper n. tundurduflaslæðari
 undefined l. óskilgreindur
@@ -3368,12 +3369,13 @@ cenobitism n. munkalíf
 dialectical l. þrætubókar-, þrætubókarlegur, tvíhorfs-
 pesticide n. plágueyðir; skordýraeitur
 nazification n. nasistavæðing
+denazification n. afnasistavæðing, það að fjarlægja nasista
 counterpropaganda n. gagnáróður
 junkyard n. ruslahaugur, skranport
 feminism n. femínismi, kvenfrelsisstefna, kvenréttindastefna
-feminist n. femínisti, kvenréttindasinni, kvenfrelsissinnis
-nonhereditary l. óarfgengur
-dishwasher n. uppþvottavél; uppvaskari
+feminist n. femínisti, kvenréttindasinni, kvenfrelsissinni
+nonhereditary l. óarfgengur, sem gengur ekki í arf
+dishwasher n. uppþvottavél; uppvaskari (t.d. á veitingastað)
 schizophrenia n. geðklofi, kleyfhugasýki
 schizophrenic l. haldinn geðklofa, kleyfhuga; n. geðklofasjúklingur
 legalistic l. lagatæknilegur, lagabókstafs-
@@ -4003,7 +4005,7 @@ subduction n. sökkbelti ([~ zone])
 attaché n. sendiráðsritari; fulltrúi; hermálafulltrúi ([military ~]); menningarmálafulltrúi ([cultural ~])
 subplot n. aukaflétta í söguþræði; hlutteikning; smáreitur
 psychotherapy n. sállækning, sálræn meðferð
-aspirin n. aspirín, asetýlsalisýlsýra
+aspirin n. aspirín, asetýlsalisýlsýra (verkjalyf)
 switchboard n. skiptiborð, stjórntafla, rofatafla
 Aryan n. aríi; l. arískur (af forsögulegum indóevrópskum þjóðflokki kominn)
 cyber- fsk. sýndarheims-, net-, netheima- (sbr. %[cybernetics]%, %[cyberspace]%)
@@ -4214,9 +4216,9 @@ epigenetic l. umframerfða-
 epigenetically l. umframerfða-
 prenatal l. forburðar-, fyrir fæðingu
 Sparta n. Sparta (borgríki í Grikklandi til forna)
-Assyria n. Assyría (fornt stórveldi)
+Assyria n. Assyría (stórveldi í Miðausturlöndum til forna)
 Assyrian l. assyrískur; n. Assyríumaður; assyríska
-Britannia n. heiti Bretlands á tímum Rómverja; persónugerving Bretlands (stríðskona með þrífork og skjöld)
+Britannia n. heiti Bretlands á tímum Rómverja til forna; persónugerving Bretlands (stríðskona með þrífork og skjöld)
 decontextualize s. taka úr samhengi
 patrilocal n. karlbýli; l. karlbýlis- (þar sem kona býr með fjölskyldu karlsins)
 appurtenance n. fylgihlutur, fylgibúnaður; fylgiréttindi
@@ -5551,6 +5553,7 @@ shatterproof l. brotheldur
 non-breakable l. óbrjótanlegur
 sugarcoat s. sykurhúða; fegra
 hermeneutical l. túlkunarfræðilegur; ritskýringar-
+hermeneutic l. sjá %[hermeneutical]%
 marooned l. yfirgefinn, skilinn eftir á eyðiströnd eða eyju
 furore n. sjá %[furor]%
 colostrum n. broddmjólk
@@ -5626,9 +5629,10 @@ winemaking n. víngerð, vínframleiðsla, vínbruggun
 winemaker n. víngerðarmaður, vínbruggari, vínframleiðandi
 bourse n. evrópsk verðbréfakauphöll
 accelerometer n. hröðunarmælir
-chronometer n. skipsklukka; nákvæm klukka
 nanometre n. nanómetri, millímíkron
-decametre n. dekametri (10 metrar)
+nanometer n. nanómetri, millímíkron
+decametre n. dekametri (tíu metrar)
+decameter n. dekametri (tíu metrar)
 OCD n. áráttu-þráhyggjuröskun; stytt. á [obsessive–compulsive disorder]
 ADHD n. athyglisbrestur (taugaröskun); stytt. á [attention deficit hyperactivity disorder]
 esterification n. estramyndun
@@ -5935,7 +5939,7 @@ filibuster n. málþóf
 follicular l. eggjastokka-, eggjabús-
 score n. skor, stig, einkunn; s. skora, skora mark; skora e-ð (rista í)
 thruster n. hreyfill (fyrir þotur, eldflaugar og geimför)
-geosynchronous l. [~ orbit] jarðsnúningsbundinn sporbaugur
+geosynchronous l. jarðsnúningsbundinn; [~ orbit] jarðsnúningsbundinn sporbaugur
 histamine n. lostefni, histamín
 inactivate s. afvirkja
 sequence n. röð, runa; [in ~] í röð, hver á eftir öðrum; s. raðgreina ([~ genes])
@@ -5956,31 +5960,32 @@ craving n. þrá, sterk löngun
 jiggle s. dilla (t.d. bossa)
 yank s. toga í e-ð; [~ his chain] stríða einhverjum
 idiopathic l. sem ekki er hægt að skýra með kerfisbundnum hætti
-beta n. gríski bókstafurinn beta; prófunarferli á hugbúnaði eða kerfi; l. síðri eða annars flokks
+beta n. gríski bókstafurinn beta; prófunarferli á hugbúnaði eða kerfi; l. síðri eða annars flokks ([~ male, ~ quality])
 overestimated l. ofmetinn
 estrus n. tíðir, tíðahringur, blæðingar
 oestrous n. tíða-, tíðahrings-, blæðinga- (sjá %[estrus]%)
 excluded l. útilokaður
 slot n. rauf, rifa, hólf, lúga; setja í rauf
 aphantasia n. skortur á getu til myndrænnar ímyndunar
-motivate s. hvetja e-n; [feel motivated] finna fyrir hvata
-arguably ao. umdeilanlega
+motivate s. hvetja e-n; skapa hvata; [feel motivated] finna fyrir hvata
+arguably ao. umdeilanlega, sem hægt er að færa rök fyrir
 arguable l. umdeilanlegur; sem hægt er að færa rök fyrir ([it is ~ that])
-meliorist n. umbótahyggjusinni
-pivotal l. að hafa spilað lykilhlutverki (í e-u)
-specificity n. sértækni (það að vera sértækt)
-unease n. ónot, ónotatilfinning, óróleiki
+meliorist n. umbótahyggjusinni, umbótasinni
+pivotal l. sem spilar lykilhlutverk (í e-u)
+specificity n. sértækni (það að vera sértækt, sjá %[specific]%)
+unease n. ónot, ónotatilfinning, óróleiki, óþægindi
 irreducible l. ókljúfanlegur, óþættanlegur, ósmækkanlegur, ósmættanlegur
 sensationalism n. æsifréttamennska, æsifregnastíll
-proponent n. stuðningsmaður, stuðningsaðili (e-s framtaks), hvatamaður
+sensationalistic l. æsifrétta-, æsifregna- ([~ journalism, gossip])
+proponent n. stuðningsmaður, stuðningsaðili (e-s framtaks), hvatamaður, talsmaður
 infected l. sýktur, smitaður
-preoccupation n. að vera upptekinn við e-ð
-revealed l. uppljóstraður, afhjúpaður
+preoccupation n. það að vera upptekinn við e-ð
+revealed l. uppljóstraður, afhjúpaður, sýndur
 botched l. klúðraður, misheppnaður; [~ job] hálfkák
 programming n. forritun
 license s. fá eða hafa leyfi fyrir einhverju (oft skírteini) frá viðeigandi leyfisveitanda; n. leyfi, notkunarleyfi, leyfisskírteini
-differential l. mismuna-; [~ diagnosis] mismunagreining; n. mismunadrif (búnaður svo dekk megi snúast mishratt á bíl)
-spellbound l. undir álögum, undir áhrifum galdurs; heillaður, hugfanginn
+differential l. mismuna-; diffur- ([~ equation] diffurjafna); [~ diagnosis] mismunagreining; n. mismunadrif (búnaður svo dekk megi snúast mishratt á bíl)
+spellbound l. undir álögum, undir áhrifum galdurs; heillaður, hugfanginn ([he was ~ by the performance])
 offline l. ekki tengdur, ótengdur, ónettengdur, ekki í samskiptum við umheiminn; ekki uppi, niðri (um vélræna þjóna)
 captivating l. gagntakandi, grípandi, fangandi ([a ~ performance])
 WC stytt. á [water closet], klósett
@@ -5989,3 +5994,40 @@ pentatonic l. fimmtóna-
 sulphate n. súlfat
 subarctic l. rétt sunnan við norðurheimskautsbaug
 enshittification n. skítvæðing, skítnun (um þjónustu eða hugbúnaður)
+Basque n. Baski, frá Baskalandi (sjálfstjórnarsvæði á Spáni); baskneska; l. baskneskur
+Catalan n. Katalóni, Katalóníumaður (sjá %[Catalonia]%); katalónska; l. katalónskur
+Catalonian l. sjá %[Catalan]%
+Breton n. Bretóni; bretónska; l. bretónskur
+centimeter n. sentimetri (einn hundraðasti úr metra)
+filesystem n. skráakerfi (yfirleitt skrifað [file system])
+mesmerizing l. dáleiðandi
+clipboard n. klemmuspjald
+herpes n. áblástur, herpes
+pubic l. klyfta-, klof-; kynfæra- ([~ hair])
+epicycle n. aukahringur
+epicyclic l. aukahrings-
+epicyclical l. aukahrings-
+unified l. sameinaður
+reunify s. endursameina
+reunified l. endursameinaður
+morosely ao. á önuglyndan hátt (sjá %[morose]%)
+overlapping l. yfirliggjandi; sem liggur hver yfir öðrum (sjá %[overlap]%)
+capstone n. höfuðsteinn; hápunktur
+hemodynamic l. blóðaflfræðilegur
+bonbon n. sælgæti, nammi
+shitty l. skítlegur, ömurlegur, skíta- ([~ job, life])
+Doric l. dórískur, sem tengist Dórum (forngrískum þjóðflokki); [~ columns] dórískar súlur
+frenemy n. falsvinur; sá sem er bæði vinur og óvinur (samsett úr %[friend]% og %[enemy]%)
+cyclical l. sem fer í hringi; sveiflubundinn, lotubundinn
+cyclic l. sjá %[cyclical]%
+tricyclic l. þríhringja-
+tricyclical l. þríhringja-
+dyskinesia n. hreyfibilun, hreyfitruflun
+dyskinetic l. hreyfibilunar-, hreyfitruflunar-
+hypophonia n. vanröddun
+dysphonia n. mishljómur, mishljóðan
+Warsaw n. Varsjá (höfuðborg Póllands)
+mousepad n. músamotta
+huckleberry n. steinabláber, aðalbláber
+goosebumps n. ft. gæsahúð
+inquietude n. ókyrrð, órói, kvíði (andstæðan af %[quietude]%)
