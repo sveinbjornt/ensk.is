@@ -489,11 +489,11 @@ encrustment n. skorpa, skel, hörð skán
 encumber s. þyngja (e-n) niður, ofþyngja (e-m); leggja (kvaðir, byrði, hindranir) á; [the estate is greatly ~ed] það hvíla miklar skuldir á jörðinni
 encumbrance n. trafali, erfiðleiki; handbendi; hindrun, farartálmi; kvöð, veðband
 encurtain s. hjúpa, fela
-encyclical n. & l. umburðarbréf páfa ([~ letter])
-encyclopaedia n. alfræðibók
-encyclopedia n. alfræðibók
-encyclopaedic l. alfræðilegur, yfirgripsmikill
-encyclopedic l. alfræðilegur, yfirgripsmikill
+encyclical n. umburðarbréf páfa ([~ letter])
+encyclopaedia n. alfræðibók, alfræðiorðabók
+encyclopedia n. alfræðibók, alfræðiorðabók
+encyclopaedic l. alfræðilegur; yfirgripsmikill
+encyclopedic l. alfræðilegur; yfirgripsmikill
 end n. endi; endir, endalok; ævilok; tilgangur ([for/to this ~]); takmark ([gain one's ~]); stubbur, bútur; [at the ~] að lokum; [at the ~ of next week] í lok næstu viku; [be at an ~] vera þrotinn; vera á enda, úti; [in the ~] á endanum, að lokum; þegar til lengdar lætur ([cheapest in the ~]); [on ~] beint upp ([to stand on ~]); samfleytt ([for two months on ~]); [~s of the earth] endimörk jarðarinnar; [from ~ to ~] endanna á milli; [bring to an ~] leiða til lykta; [come to an ~] lykta, liða undir lok; [put an ~ to] gera enda á e-u; [to no ~] til einskis, árangurslaust; [shift (turn) ~ for ~] hafa endaskipti á e-u; sökkva (bát); [go ~ for ~ (~ over ~)] sökkva (um bát); [make both (two, the two) ~s meet] láta tekjur og gjöld standast á; [no ~ of] ósköpin öll af e-u, ótal; [~ on] með endann (stefnið) fram, á endann
 end s. enda, gera enda á; ljúka e-u; enda, hætta, vera úti; [~ in doing something] enda með því að gera e-ð
 endamage s. skaða, spilla

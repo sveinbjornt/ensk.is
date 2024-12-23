@@ -511,9 +511,9 @@ good n. hagur ([for the ~ of mankind]); gæði ([the highest ~]); [it is no ~] �
 goosander n. stóra toppönd ([mergus merganser])
 goose n. gæs (ft. [geese])
 gooses n. ft. dragjárn (sem skraddarar draga á sauma)
-gooseberry n. stöngulber
-gooseberry bush n. stöngulberjarunni
-gooseberry fool n. grautur úr stöngulberjum
+gooseberry n. stöngulber, stikilber
+gooseberry bush n. stöngulberjarunni, stikilberjarunni
+gooseberry fool n. grautur úr stöngulberjum, stikilberjum
 goosegrease n. gæsaflot
 goose-quill n. gæsarfjöður
 goosery n. gæsahús; gæsahópur; kjánalæti, aulalæti

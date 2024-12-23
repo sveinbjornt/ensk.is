@@ -960,3 +960,5 @@ tricyclical
 denazification
 dyskinesia
 dyskinetic
+hypophonia
+mousepad

@@ -1622,7 +1622,7 @@ fossilized l. steingerður, steinrunninn
 carjacker n. bílþjófur
 ketamine n. ketamín (svæfingarlyf)
 implementation n. útfærsla, framkvæmd
-affordable l. á viðráðanlegu verði; sjá %[afford]%
+affordable l. á viðráðanlegu verði; sem maður hefur ráð á; sem gengur eftir, sem hægt er að sjá eftir; sjá %[afford]%
 ASAP ao. eins fljótt og auðið er, eins fljótt og mögulega (stytt. á [as soon as possible])
 minesweeper n. tundurduflaslæðari
 undefined l. óskilgreindur
@@ -6001,7 +6001,7 @@ filesystem n. skráakerfi (yfirleitt skrifað [file system])
 mesmerizing l. dáleiðandi
 clipboard n. klemmuspjald
 herpes n. áblástur, herpes
-pubic l. klyfta-, klof-
+pubic l. klyfta-, klof-; kynfæra- ([~ hair])
 epicycle n. aukahringur
 epicyclic l. aukahrings-
 epicyclical l. aukahrings-
@@ -6014,7 +6014,7 @@ capstone n. höfuðsteinn; hápunktur
 hemodynamic l. blóðaflfræðilegur
 bonbon n. sælgæti, nammi
 shitty l. skítlegur, ömurlegur, skíta- ([~ job, life])
-Doric l. dórískur, sem tengist Dórum (forngrískum þjóðflokki)
+Doric l. dórískur, sem tengist Dórum (forngrískum þjóðflokki); [~ columns] dórískar súlur
 frenemy n. falsvinur; sá sem er bæði vinur og óvinur (samsett úr %[friend]% og %[enemy]%)
 cyclical l. sem fer í hringi; sveiflubundinn, lotubundinn
 cyclic l. sjá %[cyclical]%
@@ -6025,3 +6025,7 @@ dyskinetic l. hreyfibilunar-, hreyfitruflunar-
 hypophonia n. vanröddun
 dysphonia n. mishljómur, mishljóðan
 Warsaw n. Varsjá (höfuðborg Póllands)
+mousepad n. músamotta
+huckleberry n. steinabláber, aðalbláber
+goosebumps n. ft. gæsahúð
+inquietude n. ókyrrð, órói, kvíði (andstæðan af %[quietude]%)
