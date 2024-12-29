@@ -285,7 +285,7 @@ partisanship n. flokksfylgi, flokkshollusta
 partition n. skipting, skilrúm, milliveggur; s. þilja í sundur, afhólfa; skipta í sundur
 partitive l. skiptandi, skipti-; sem táknar hluta úr heild ([~ genitive])
 partly ao. sumpart, að nokkru (sumu) leyti ([~ in writing and ~ in print])
-partner n. félagi; hluttakandi; mótspilari ([~ at cards])
+partner n. félagi; hluttakandi; meðeigandi ([business ~]); mótspilari ([~ at cards])
 partnership n. félagskapur ([~ in business]); hluttaka
 partridge n. akurhæna
 parturient l. fæðandi; fæðingar- ([~ throes]); þrunginn (e-u [with])
@@ -967,11 +967,11 @@ pietism n. oftrúarstefna
 pietist n. oftrúarmaður
 pietistic n. oftrúarlegur, oftrúarfullur
 pietistical n. oftrúarlegur, oftrúarfullur
-piety n. rækt, ræktarsemi; guðhræðsla, guðrækni
+piety n. guðhræðsla, guðrækni; rækt, ræktarsemi
 pig n. grís; aflangur blý- eða járnklumpur; [buy a ~ in a poke] kaupa e-ð óséð; s. fæða (um gyltu); liggja saman eins og grísir
 pigeon n. dúfa
 pigeonhole n. handraði, hólf; s. svíkja e-n í spilum
-pigeon-hearted l. huglaus
+pigeon-hearted l. huglaus, með hjarta dúfu
 pigeonry n. dúfnahús
 pigeon-toed l. innskeifur
 piggery n. svínastía, grísastía

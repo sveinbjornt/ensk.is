@@ -518,17 +518,17 @@ deny s. neita, bera á móti e-u; afneita; [to ~ a thing to a person] neita e-m 
 deodorize s. losa við vondan og skaðlegan daun; sótthreinsa
 deodorization n. sótthreinsun
 depart s. fara (burt, af stað); víkja ([~ from a rule]); andast ([~ from life, ~ this life])
-department n. (stjórnar)deild; starfssvið; grein (í bókmenntum)
+department n. deild, stjórnardeild; starfssvið; skor; grein (í bókmenntum)
 departmental l. deildar-
-departure n. burtför, fráhvarf ([~ from truth])
+departure n. burtför, brottför, fráhvarf ([~ from truth])
 depasture s. bíta (gras); beita (land); beita fé í land, á landi annars ([a right of depasturing sheep on the land of another]); fæða, ala ([the run will ~ about 400 sheep]); vera á beit
 depauperate s. gera fátækari
-depend s. hanga; vera kominn undir e-u eða upp á e-n ([~ on a person for maintenance, support]); reiða sig á ([~ on])
+depend s. hanga; vera háður; vera kominn undir e-u eða upp á e-n ([~ on a person for maintenance, support]); reiða sig á ([~ on])
 dependable l. áreiðanlegur, ábyggilegur
 dependant n. sá sem er upp á aðra kominn, skjólstæðingur; ft. skyldulið; ómagar; niðurhangandi; háður; kominn undir (e-u); kominn upp á e-n ([on, upon])
 dependence n. það að vera kominn undir e-u eða upp á e-n; traust; samband ([the child should be sensible of his ~ on his parents], að það er komið upp á foreldra sína)
 dependent l. niðurhangandi; háður; kominn undir (e-u); kominn upp á e-n ([on, upon])
-dependency n. hjálenda, lýðlenda
+dependency n. hjálenda, lýðlenda; fíkn; að vera háður (e-u)
 depict s. mála; mynda; tákna; lýsa (í orðum)
 depiction n. lýsing
 depicture s. mála; mynda; tákna; lýsa (í orðum)
@@ -995,7 +995,7 @@ discolourment n. upplitun; flekkur
 discomfit s. sigra, reka á flótta; trufla
 discomfited l. truflaður, sneyptur
 discomfiture n. ósigur; truflun; óhapp
-discomfort n. óþægindi; s. hryggja, gera e-m óþægindi
+discomfort n. óþægindi, vanlíðan; s. hryggja, gera e-m óþægindi
 discommend s. lasta, niðra; ráða frá e-u
 discommendable l. vítaverður
 discompose s. raska, trufla
@@ -1199,7 +1199,7 @@ disputatious l. kappræðugjarn, þrætugjarn
 dispute s. deila, fara í kappræðu við e-n um e-ð ([against a person on/about]); berjast um; reyna að varna, standa í móti e-u; rengja ([~ his rights]); ræða e-ð ([~ a question]); n. kappræða, deila; ágreiningur; [a matter in ~] deiluefni; [beyond (past) ~] vafalaust
 disqualification n. það sem gerir e-n óhæfan; hæfileikaskortur; hindrun
 disqualify s. gera óhæfan (til [for])
-disquiet s. ónáða, áreita; l. órólegur, órór; n. órói, kvíði
+disquiet s. ónáða, áreita; l. órólegur, órór; n. órói, kvíði ([a sense of ~])
 disquietude n. ókyrrð, órói, kvíði (andstæðan af %[quietude]%)
 disquisition n. rannsókn; vísindaleg ritgerð (um [on])
 disregard n. vanrækt, fyrirlitning; s. vanrækja, fyrirlíta
