@@ -2729,6 +2729,7 @@ reify s. hlutgera
 reification n. hlutgerving
 microstate n. örríki, smáríki
 goon n. skúrkur, hrotti, fantur, kjáni
+gooner n. gónsjúk manneskja; manneskja haldin klámfíkn
 nightwatchman n. næturvörður
 patriarchical l. feðraveldis- (sjá %[patriarchy]%)
 mangrove n. fenjaviðarskógur, strandfenjasvæði
@@ -5992,6 +5993,7 @@ pancreatitis n. brisbólga
 pentatonic l. fimmtóna-
 sulphate n. súlfat
 subarctic l. rétt sunnan við norðurheimskautsbaug
+enshittification n. skítvæðing, skítnun (um þjónustu eða hugbúnaður)
 Basque n. Baski, frá Baskalandi (sjálfstjórnarsvæði á Spáni); baskneska; l. baskneskur
 Catalan n. Katalóni, Katalóníumaður (sjá %[Catalonia]%); katalónska; l. katalónskur
 Catalonian l. sjá %[Catalan]%
