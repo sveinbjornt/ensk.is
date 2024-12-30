@@ -5993,7 +5993,7 @@ pancreatitis n. brisbólga
 pentatonic l. fimmtóna-
 sulphate n. súlfat
 subarctic l. rétt sunnan við norðurheimskautsbaug
-enshittification n. skítvæðing, skítnun (um þjónustu eða hugbúnaður)
+enshittification n. skítvæðing, skítnun (um þjónustu eða hugbúnað)
 Basque n. Baski, frá Baskalandi (sjálfstjórnarsvæði á Spáni); baskneska; l. baskneskur
 Catalan n. Katalóni, Katalóníumaður (sjá %[Catalonia]%); katalónska; l. katalónskur
 Catalonian l. sjá %[Catalan]%
@@ -6033,3 +6033,19 @@ goosebumps n. ft. gæsahúð
 inquietude n. ókyrrð, órói, kvíði (andstæðan af %[quietude]%)
 Akkadian n. Akkadíumaður; akkadíska; l. akkadískur
 Hittite n. Hittíti; hittíska; l. hittískur
+xerostomia n. munnþurrkur
+psycho n. stytt. á %[psychopath]%; l. stytt. á %[psychopathic]%
+cooperate s. sjá %[co-operate]%
+realise s. sjá %[realize]%
+spiced l. kryddaður
+quango n. stofnun sem er einungis hálfpartinn á vegum ríkisins (stytt. á [quasi-nongovernmental organization])
+biopsy n. vefjasýni, vefsýni (í læknisfræði)
+psychodynamics n. ft. sálaraflfræði
+psychodynamic l. sálaraflfræðilegur
+piranha n. píranafiskur
+anaplasia n. óvöxtur
+hyperplasia n. ofvöxtur, vefjaauki
+fractal n. brotamynd; l. brota-
+Holocene n. mannöld, nútími
+turd n. kúkur
+biopic n. ævisöguleg (kvik)mynd
