@@ -4539,7 +4539,7 @@ disproportionately ao. á ósamsvarandi hátt, í óeðlilegu hlutfalli, óhófl
 proportionately ao. hlutfallslega, á samsvarandi hátt, í eðlilegu hlutfalli
 riddler n. gátumaður, þrautamaður
 snuff film n. myndbandsupptaka sem sýnir morð
-Anthropocene n. mannöldin
+Anthropocene n. mannöld
 statistical analysis n. tölfræðigreining, tölfræðileg greining
 marginalia n. spássíugrein, spássíuathugasemd
 disequilibrium n. ójafnvægi; misvægi; jafnvægismissir, jafnvægisskortur
@@ -6060,3 +6060,15 @@ illusionary l. tálmynda-; blekkingar-; sjónhverfinga-; hugarburðar-
 disillusioned l. vonsvikinn; afblekktur
 disillusionment n. vonbrigði, vonsvik; afblekking
 disillusioning l. sem veldur vonbrigðum, vonsvíkjandi; sem opnar augun á, afblekkjandi
+confusingly ao. ruglingslega (sjá %[confuse]%)
+ecocentric l. umhverfismiðaður
+minarchy n. lágmarksríki
+minarchism n. lágmarksríkisstefna
+minarchist n. lágmarksríkissinni
+well-off l. vel stæður
+eyepatch n. augnleppur, leppur fyrir auga
+incomprehensibility n. óskiljanleiki
+unsymmetrical l. ekki samhverfur (andstæðan við %[symmetrical]%)
+ornithophage n. fuglaæta
+ornithophagy n. fuglaát
+diabolic l. djöfullegur, helvískur
