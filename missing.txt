@@ -434,8 +434,7 @@ benzedrine
 dacha
 commissary (endurskoða skilgr.)
 gamine
-disillusioned
-disillusionment
+
 gigolo
 cynicism (endurskoða skilgr.)
 gaunt
@@ -3068,7 +3067,6 @@ part-time
 gridlock
 flamboyance
 bimodal
-disillusioning
 levelheaded
 levelheadedly
 levelheadedness
@@ -3369,7 +3367,6 @@ disestablishmentarian
 disestablishmentarianism
 elaborateness
 unfreedom
-illusionary
 collectivity
 liberalistic
 absenteeism
@@ -4603,14 +4600,12 @@ programming (endurskoða)
 okayed
 Thuringia
 Thuringian
-Alsatian
 impactful
 joyfully
 kibble
 socialized
 gumdrop
 squidgy
-micron
 hidalgo
 mestizo
 eudaimonia
@@ -4618,13 +4613,11 @@ cluttered
 sweatshirt
 sweatpants
 cingulate
-unassertive
 gobbledygook
 fairway
 flashback
 curtly
 illuminist
-disquieting
 piercing (endurskoða)
 lummox
 zinger
@@ -4634,7 +4627,6 @@ brouhaha
 breakdancing
 breakdance
 derailment
-iguana
 ruminative
 distorted
 allostasis
@@ -4648,5 +4640,4 @@ stenhouse
 springtail
 outdated
 maladaptation
-synodic
 proofing
