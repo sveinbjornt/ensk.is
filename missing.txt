@@ -433,8 +433,6 @@ hardline
 benzedrine
 dacha
 commissary (endurskoða skilgr.)
-gamine
-
 gigolo
 cynicism (endurskoða skilgr.)
 gaunt
@@ -2228,7 +2226,7 @@ pepsin
 self-reproach
 harshly
 curiously
-silently
+
 peashooter
 kitbag
 washstand
@@ -2236,7 +2234,6 @@ peardrop
 mauvish
 smoothly
 afterward
-unsteady
 catlike
 isogeothermal
 parka
@@ -2498,7 +2495,6 @@ valorisation
 Jungian
 dirigisme
 coon
-wanker
 agrivoltaics
 divot
 bloat n.
@@ -4629,3 +4625,7 @@ springtail
 outdated
 maladaptation
 proofing
+intracellular
+protozoa
+protozoan
+aroused

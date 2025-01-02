@@ -3961,9 +3961,9 @@ homogamous l. samþroska
 homogamy n. að allt sé af sama kyni; einsblóma; einserfðaæxlun; innrækt; jafnvensl
 classicist n. fornfræðingur
 coda n. niðurlag, niðurlagskafli
-whistle-blower n. uppljóstrari
+whistle-blower n. uppljóstrari; flautublásari, sá sem blæs flautu
 homonymic l. samhljóða, eins og annað orð í framburði
-homo n. maður (í latínu); ættkvísl manndýra (sbr. [homo sapiens]); hommi, samkynhneigður maður (niðrandi)
+homo n. maður (í latínu); ættkvísl manndýra (sbr. [homo sapiens], hinn viti borni maður); hommi, samkynhneigður maður (niðrandi)
 homo- fsk. sam-, jafn-, eins- (sbr. %[homosexual]%, %[homogenous]%)
 homologous l. samsvarandi; eðlislíkur
 homology n. samsvörun; eðlislíking
@@ -6072,3 +6072,10 @@ unsymmetrical l. ekki samhverfur (andstæðan við %[symmetrical]%)
 ornithophage n. fuglaæta
 ornithophagy n. fuglaát
 diabolic l. djöfullegur, helvískur
+unsteady l. óstöðugur; óstaðfastur; ójafn
+silently ao. hljóðlega, án hljóðs; í þögn, á þögulan hátt (sjá %[silent]%)
+wanker n. auli, hálfviti, aumingi (slangur, bókst. runkari)
+pangolin n. hreisturdýr
+flu n. flensa (stytt. á %[influenza]%)
+fungi n. ft. sjá %[fungus]%
+catflap n. kattalúga
