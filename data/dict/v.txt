@@ -385,12 +385,12 @@ visitor n. gestur
 visor n. hjálmblik; gríma; der (á húfu)
 vizor n. hjálmblik; gríma; der (á húfu)
 vista n. gagnsýni (milli trjáraða)
-visual l. sjónar- ([~ nerve]); sjáanlegur, sýnilegur
-visualize s. gera sýnilegan
+visual l. sjónar- ([~ nerve]); sjáanlegur, sýnilegur; sjónrænn
+visualize s. gera sýnilegan; sjá fyrir sér
 vital l. lífs- ([~ air, the ~ spark is extinct]); lifandi; mjög áríðandi, bráðnauðsynlegur; sem varðar lífið ([a ~ error]); [~ organ] líffæri
 vitality n. lífsafl
-vitalize s. lífga
-vitally ao. [~ important] lífsnauðsynlegur
+vitalize s. lífga; fjörga
+vitally ao. mjög, bráðnauðsynleg; [~ important] lífsnauðsynlegur
 vitiate s. spilla; aflaga; ónýta, ógilda
 vitiation n. spilling; ónýting, ógilding
 vitreous l. glerkynjaður, gler-
