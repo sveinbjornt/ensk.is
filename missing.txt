@@ -470,6 +470,7 @@ davit
 serendipitous
 serendipitously
 marginalize
+marginalized
 baffling
 wasteland
 untangle
@@ -533,7 +534,6 @@ overgrazing
 pinstripe
 legwork
 goalpost
-
 spaceman
 investigative
 nonparticipation
@@ -1305,7 +1305,6 @@ voilà
 widowmaker
 lifeblood
 prima facie
-slowdown
 lifeline
 liberalization
 shoehorn
@@ -1797,7 +1796,6 @@ communicator
 differentiator
 relational
 squeaky
-moniker
 face-to-face
 transactional
 theretofore
@@ -4118,7 +4116,6 @@ instrumental (endurskoða)
 whippy
 jizz
 anomic
-rodeo
 spooky
 wholeness
 passerby
@@ -4287,7 +4284,6 @@ rentee
 geometrically
 frostnip
 frostnipped
-barbless
 rearguard (endurskoða)
 stridency
 scupper
@@ -4347,7 +4343,6 @@ canoodle
 polychronic
 homeschooled
 fudge (endurskoða)
-meaningfulness
 cherished
 zoomer
 bustling
@@ -4402,9 +4397,7 @@ Bonapartist
 providentially
 halfpence
 lumberman
-genially
 throttled
-unfettered
 indignantly
 unthought
 unobtrusively
@@ -4455,8 +4448,6 @@ jerkwad
 bro
 psychedelia
 murmur (endurskoða)
-playact
-playacting
 talesman
 tales
 tuyeres
@@ -4478,7 +4469,6 @@ payola
 heavy-handedness
 stooge
 bumbling
-seahorse
 ashcan
 scruples
 badass
@@ -4503,7 +4493,6 @@ uninstall
 peduncle
 criss-cross
 tic
-cast-iron
 subornate
 ball-bearing
 unencumbered
@@ -4537,7 +4526,6 @@ intersex
 intersexuality
 snack
 subtextual
-minigun
 minidisk
 minivan
 minibar
@@ -4606,7 +4594,6 @@ piercing (endurskoða)
 lummox
 zinger
 allomorph
-pedestrianize (endurskoða)
 brouhaha
 breakdancing
 breakdance
@@ -4630,8 +4617,6 @@ plethysmography
 papyrology
 bristlemouth
 mise-en-scène
-audiophile
-pornographer
 fashionista
 latifundia
 civilisatrice
@@ -4643,3 +4628,25 @@ hypotonia
 shellack
 shellacking
 sexualize
+fucked
+alien (endurskoða)
+snootiness
+antioxidant
+debrief
+debriefing
+upstanding
+cryo-
+cryogenic
+cryogenics
+cryonic
+cryonics
+soundscape
+flatus
+distributed
+glycogen
+diathesis
+intrigued
+monometallic
+banneret
+man-at-arms
+toga

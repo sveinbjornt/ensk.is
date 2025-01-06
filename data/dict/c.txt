@@ -1258,10 +1258,10 @@ coherently ao. í samhengi, á samhljóða eða samfastan hátt
 cohesion n. samhengi, samhengisafl
 cohesive l. samhengislegur, samloðandi; [~ power] viðloðunarafl
 cohibit s. halda í skefjum
-cohort n. skor (einn tíundi úr rómverskri hersveit); flokkur
+cohort n. flokkur, hópur; aldurshópur, aldursflokkur; fylgismenn, áhangendur; skor (einn tíundi úr rómverskri hersveit)
 coif n. húfa, hetta
 coil n. kaðall undinn upp í hringi; hringur; hvirfing, vafningur ([~ of rope]); flækja; rafspennukefli (í bíl); hávaði, hark; erfiði, armæða, strit ([this mortal ~]); s. vinda kaðal í hringi; vefja; hringa (sig utan um [round]); [the dog ~s itself up] hringar sig saman
-coin n. peningur; mynt; peningar; s. slá (peninga); móta; búa til; mynda (ný orð)
+coin n. peningur; mynt; peningar; s. slá (peninga); móta; búa til; mynda (ný orð eða frasa)
 coinage n. peningaslátta; mótun; peningar; tilbúningur; [~ of one's brain] heilaspuni
 coiner n. peningamótari; peningafalsari
 coincide s. falla saman; vera samhljóða
@@ -2669,7 +2669,7 @@ curlew n. spói
 curmudgeon n. svíðingur, nirfill
 curmudgeonly l. svíðingslegur, nirfilslegur
 currant n. kúrenna (þurrkuð smávínber); rifsber
-currency n. gjaldeyrir, gangeyrir; gjaldgengi; útbreiðsla; [during the ~ of the lease] svo lengi sem leigumálinn stendur (stóð)
+currency n. gjaldmiðill, gjaldeyrir, gangeyrir; gjaldgengi; útbreiðsla; [during the ~ of the lease] svo lengi sem leigumálinn stendur (stóð)
 current l. sem er að líða; gjaldgengur ([~ coin]); algengur; [the ~ month] þessi mánuður; [it goes ~ that] það er í almæli, að; n. straumur; vatnshalli; rás (viðburða)
 currently ao. liðugt ([to read ~])
 curricle n. tvíeykisvagn

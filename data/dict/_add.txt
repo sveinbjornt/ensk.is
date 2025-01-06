@@ -494,6 +494,8 @@ lyrebird n. lýrufugl (e.k. spörfugl)
 porn n. klám (óforml. stytt. á %[pornography]%)
 porno n. klám (óforml. stytt. á %[pornography]%)
 pornographic l. klæminn, klám-; [~ literature] klámrit
+pornographer n. klámsali, klámframleiðandi (sjá %[pornography]%)
+porn star n. klámstjarna
 natural language processing n. máltækni, málvinnsla, málgreining
 language technology n. máltækni
 guerrilla n. skæruliði
@@ -563,6 +565,7 @@ awareness n. vitund; meðvitund
 worried l. áhyggjufullur, kvíðafullur
 physically ao. líkamlega
 meaningful l. merkingarbær; þýðingarmikill, innihaldsríkur; verulegur
+meaningfulness n. merkingarbærni
 homeland n. heimaland
 hometown n. heimabær
 motivation n. hvati, hvatning, hvöt
@@ -1067,7 +1070,7 @@ aerospace n. flugiðnaður, flugtækni; flugverkfræði ([~ engineering])
 aerospace engineer n. flugvélaverkfræðingur, flugtæknifræðingur
 aeronautical l. flugvéla-, flugfars-
 aeronautical engineer n. flugvélaverkfræðingur
-fuck s. (óforml.) ríða, eiga kynmök; n. dráttur, kynmök, samfarir; uh. helvítis! andskotinn! djöfullinn!
+fuck s. (óforml.) ríða, eiga kynmök; ráðast að e-m, vega að e-m ([~ with somone]); n. dráttur, kynmök, samfarir; uh. helvítis! andskotinn! djöfullinn!
 fucking l. andskotans, helvítis, djöfulsins (áhersluorð, sjá %[fuck]%)
 shit n. kúkur, saur, drulla; s. kúka, skíta; uh. fjandinn! fjandans!
 tergum n. bakskjöldur
@@ -2135,7 +2138,7 @@ warlord n. stríðsherra, herkonungur
 Siberia n. Síbería (stórt svæði í Austur-Rússlandi)
 Siberian l. síberískur; n. Síberíubúi
 magma n. bergkvika
-hiccup n. hiksti
+hiccup n. hiksti; s. hiksta
 swastika n. hakakross
 discoverable l. uppgötvanlegur
 bottleneck n. flöskuháls
@@ -5356,7 +5359,7 @@ quadriplegic l. lamaður á fjórum útlimum (sjá %[quadriplegia]%)
 white-collar l. hvítflibba-; [~ job] hvítflibbastarf; [~ crime] hvítflibbaglæpir
 blue-collar l. bláflibba-; [~ worker] bláflibbastarfsmaður, verkamaður, starfsmaður á plani
 Yank n. sjá %[Yankee]%
-prankster n. hrekkjalómur, hrekkjadólgur
+prankster n. hrekkjalómur, hrekkjadólgur, hrekkjari
 voice-over n. talsetning
 voiceover n. sjá %[voice-over]%
 deerskin n. dádýraskinn
@@ -5393,7 +5396,7 @@ Virgo n. Meyjan (stjörnumerki)
 Libra n. Vogin (stjörnumerki)
 Scorpio n. Sporðdrekinn (stjörnumerki)
 Sagittarius n. Bogmaðurinn (stjörnumerki)
-triage n. neyðarflokkun, flokkun á grundvelli þarfa eða neyðar
+triage n. neyðarflokkun, flokkun eða úthlutun á grundvelli þarfa þegar neyð skellur á
 ageism n. aldursfordómar, fordómar gagnvart öldruðum; mismunun á grundvelli aldurs
 ingestion n. innbyrðing, inntaka, neysla
 sacrum n. spjaldbein
@@ -6089,3 +6092,21 @@ cinephilia n. ást á kvikmyndum
 bounty hunter n. mannaveiðari
 visually ao. sjónrænt, á sjónrænan eða sýnilegan hátt
 vasculature n. æðakerfi
+rapeseed n. repjufræ, repja
+head-hunting n. hausaveiðar
+minigun n. e.k. hríðskotabyssa
+cast iron n. steypujárn
+seahorse n. sæhestur
+playact s. vera með leikaraskap
+playacting n. leikaraskapur
+fettered l. fjötraður
+unfettered l. ófjötraður
+genially ao. líflega; hlýlega, blíðlega, ljúfmannlega (sjá %[genial]%)
+barbless l. gaddalaus (sjá %[barb]%)
+rodeo n. kúrekasýning, kúrekaleikar
+audiophile n. hljómburðarunnandi, e-r sem er sérlegur áhugamaður um hljómgæði
+hysteresis n. heldni, segulheldni
+asphyxia n. köfnun
+moniker n. viðurnefni
+slowdown n. hæging; hægagangur
+deceleration n. hæging

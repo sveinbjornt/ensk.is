@@ -484,9 +484,9 @@ pedantic l. smámunasamur
 pedantry n. smámunasemi
 peddle s. ferðast um og selja; reka smáverslun
 pedestal n. fótpallur
-pedestrian l. fótgangandi; n. fótgöngumaður
+pedestrian l. fótgangandi; er varðar hinn almenna borgara; n. fótgöngumaður, gangandi manneskja
 pedestrianism n. ganga, göngur
-pedestrianize s. fara gangandi, ganga
+pedestrianize s. fara gangandi, ganga; fótgönguvæða; útbúa e-ð fyrir hinn almenna (fótgangandi) borgara
 pedigree n. ættartala; ættleggur, ætterni
 pediment n. burst, gaflhlað, gaflbrík, bjór
 pedlar n. varningsmaður, farandsali
@@ -1550,7 +1550,7 @@ postbag n. póstbréfapoki
 postcard n. bréfspjald; spjaldbréf
 post-chaise n. póstvagn
 posthaste n. mikill hraði, fleygiferð; ao. með miklum hraða
-postman n. póstur
+postman n. póstur, póstberi
 postmark n. póstmerki, póststimpill; s. stimpla
 postmaster n. póstmeistari
 postmaster-general n. póstmálastjóri
