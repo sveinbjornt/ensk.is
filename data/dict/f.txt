@@ -924,8 +924,8 @@ forfeit n. fésekt, bætur; pantur (í leik); [under a ~] að viðlagðri fések
 forfeiture n. fyrirgerð, missir ([~ of goods, life])
 forgather s. safnast saman; hitta ([with]); umgangast ([with])
 forfend s. aftra, afstýra
-forge n. afl (í smiðju); smiðja; s. smíða; falsa ([~ a document])
-forger n. falsari, lygari
+forge n. smiðja; afl (í smiðju); s. smíða; falsa ([~ a document])
+forger n. falsari
 forgery n. fölsun
 forget s. gleyma; [I ~] ég man ekki
 forgetful l. gleyminn, minnislaus; gleymsku-; [~ of] sem gleymir e-u; afskiptalaus um e-ð

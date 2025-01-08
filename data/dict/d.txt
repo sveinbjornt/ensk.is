@@ -532,7 +532,7 @@ dependency n. hjálenda, lýðlenda; fíkn; að vera háður (e-u)
 depict s. mála; mynda; tákna; lýsa (í orðum)
 depiction n. lýsing
 depicture s. mála; mynda; tákna; lýsa (í orðum)
-deplete s. tæma
+deplete s. tæma; klára
 depletion n. tæming; blóðtaka
 deplorable l. hörmulegur ([~ ignorance, consequences])
 deplore s. harma, syrgja
@@ -542,7 +542,7 @@ depone s. votta, bera vitni (fyrir rétti)
 deponent n. vottur; vitni (fyrir rétti); [~ verb] aflagssögn
 depopulate s. eyða (land) að íbúum
 depopulation n. eyðing (íbúanna)
-deport s. flytja burt; reka í útlegð; [~ oneself] hegða sér
+deport s. flytja burt; reka úr landi; reka í útlegð; [~ oneself] hegða sér
 deportation n. burtflutningur (í útlegð)
 deportment n. hegðun, aðferð; látbragð, framkoma ([lessons in ~])
 deposable l. sem víkja má úr embætti, afsetjanlegur

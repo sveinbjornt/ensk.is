@@ -547,7 +547,7 @@ thriftiness n. sparsemi; blómgun
 thriftless l. ósparsamur; eyðslusamur
 thrifty l. sparsamur; velmegandi; blómlegur
 thrill n. hrollur, titringur; [a ~ of delight] ákafur fögnuður; s. gagntaka; ganga í gegnum; skjálfa, titra
-thrilling l. hrífandi, áhrifamikill
+thrilling l. hrífandi, áhrifamikill, spennandi
 thrive s. þrífast, þróast, dafna; blómgast
 thriving l. blómlegur; velmegandi; n. blómgun, döfnun; velmegun
 throat n. háls; kok, kverkar; óst; [to have a sore ~] vera illt í hálsi; [to seize one by the ~] taka fyrir kverkar e-s
@@ -581,7 +581,7 @@ thunderclap n. reiðarslag
 thundercloud n. þrumuský
 thunderer n. skrugguvaldur
 thundering l. þrumandi; afarmikill
-thunderous l. þrunginn þrumum; þrumandi; dynjandi ([~ applause])
+thunderous l. þrumandi; þrunginn þrumum; dynjandi ([~ applause])
 thunderstorm n. þrumuveður
 thunderstroke n. reiðarslag (sjá %[thunderclap]%)
 thunderstruck l. þrumulostinn; höggdofa, agndofa
@@ -596,15 +596,12 @@ thyself fn. sjálfan þig; (þú) sjálfur
 thyme n. blóðberg
 thymy l. vaxinn blóðbergi
 tiara n. persneskt höfuðfat; þrefalda kóróna páfans
-tick n. lán; reikningur; [to buy (up)on ~] taka út í reikning ([to buy on credit])
-tick n. lús (á skepnum); færilús
-tick n. sængurver; sængurdúkur
+tick s. dikka (um klukku); n. ganghljóð (í klukku); lán; reikningur; [to buy (up)on ~] taka út í reikning ([to buy on credit]); lús (á skepnum); færilús; sængurver; sængurdúkur
 ticking n. sængurdúkur
-tick s. dikka (um klukku); n. ganghljóð (í klukku)
 ticket n. aðgöngumiði; farseðill; miði, seðill; skírteini; merkiseðill (á vörum); s. festa seðil á, merkja
 tickle s. kitla, fiðra við; [my foot ~s] mig klæjar í fótinn
 tickling n. kitl, fiðringur; löngun
-ticklish l. kitlugjarn; vandasamur; valtur ([a ~ boat])
+ticklish l. kitlinn, kitlugjarn; vandasamur; valtur ([a ~ boat])
 tidal l. sem lýtur að (eða er kominn undir) flóði og fjöru (eða sjávarföllum); [the ~ portion of the river] sá hluti árinnar sem fellur að og út í; [~ wave] flóðbylgja
 tide n. tími ([even~], %[Yuletide]%); sjávarfall; aðfall og útfall, flóð og fjara ([high, low ~]); straumur; stefna; [the ~ is in/up] það er flóð; [the ~ is out/down] það er fjara; [the tide rises] það er aðfall; [work double ~s] vinna allt hvað af tekur; s. reka (róa, sigla, berast) með straumnum; henda (sjá %[betide]%); [~ over a difficulty] komast úr vanda
 tidewaiter n. tollþjónn, tollvörður

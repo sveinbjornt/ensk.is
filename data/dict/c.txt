@@ -776,11 +776,10 @@ choler n. gall; reiði, bræði
 choleric l. reiðigjarn, bráðlyndur, bráður
 cholera n. kólera
 cholerine n. lífsýki
-choose s. kjósa, velja
-chop s. höggva, kljúfa; brytja, saxa; [~ in] grípa fram í; [the wind ~s round] vindurinn snýr sér; [~ logic] deila; n. högg; rifbein með kjötinu á; [chopping sea] krappur sjór, krappsævi
+choose s. velja, kjósa
+chop s. höggva, kljúfa; brytja, saxa; [~ in] grípa fram í; [the wind ~s round] vindurinn snýr sér; [~ logic] deila; n. högg; rifbein með kjötinu á; [chopping sea] krappur sjór, krappsævi; kjálki; ft. gin, kjaftur; [~s of the Channel] mynnið á Ermarsundi
 chopper n. kjötöxi; þyrla (óforml.)
 chopping-knife n. söxunarjárn
-chop n. kjálki; ft. gin, kjaftur; [~s of the Channel] mynnið á Ermarsundi
 choral l. sunginn í kór; kór-; n. messusöngur
 choralist n. kórsöngvari
 chorally ao. í kór
@@ -789,7 +788,7 @@ chorister n. kórsöngvari; kórsveinn ([~ boy])
 chorography n. héraðslýsing
 chortle s. skríkja hátt
 chorus n. söngflokkur, kór; kórsöngur; [in ~] allir í einu, í kór; viðlag; s. syngja (segja) í kór, taka (allir) undir í einu
-chosen l. kjörinn, kosinn; [~ friend] alúðarvinur
+chosen l. kjörinn, kosinn, valinn; [~ friend] alúðarvinur
 chough n. snjókráka
 chouse s. gabba, svíkja
 chrestomathy n. sýnisbók (í tungumáli, bókmenntum)
@@ -799,8 +798,8 @@ chrismatory n. olíuker
 Christ n. Kristur
 christen s. kristna, skíra; [he was ~ed John] hann var skírður John
 christening n. skírn, kristnun
-christendom n. kristindómur, kristni
-Christian l. kristinn, kristilegur; [~ name] skírnarnafn; n. kristinn manneskja
+Christendom n. kristindómur, kristni
+Christian l. kristinn, kristilegur; [~ name] skírnarnafn; n. kristin manneskja
 Christianity n. kristni, kristin trú
 Christianization n. kristnun; kristnitaka
 Christianize s. kristna, snúa til kristni

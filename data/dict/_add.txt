@@ -3129,7 +3129,7 @@ vengefulness n. hefnigirnd
 ovipositor n. varppípa
 formalin n. formalín
 formaldehyde n. formaldehýð
-pince-nez n. gleraugu sem eru fest á nefið
+pince-nez n. nefklípugleraugu, nefgleraugu, gleraugu sem eru fest á nefið
 novelette n. stutt skáldsaga
 critter n. kvikindi, smádýr
 subcontract s. ráða undirverktaka
@@ -3243,7 +3243,8 @@ rinderpest n. nautgripapest
 segregation n. aðgreining, aðskilnaður
 segregationist n. aðskilnaðarsinni
 hemoglobin n. blóðrauði
-pogrom n. skipulagðar ofsóknir, fjöldamorð
+haemoglobin n. blóðrauði
+pogrom n. skipulagðar ofsóknir, fjöldamorð (á gyðingum)
 moonwalk n. tunglganga
 pansexual l. alkynhneigður
 carapace n. skjöldur (á dýrum)
@@ -4614,7 +4615,7 @@ headline n. fyrirsögn, fréttafyrirsögn; yfirskrift á síðu; höfuðlína
 copilot n. aðstoðarflugmaður
 verminous l. meindýra- (sjá %[vermin]%)
 disinfestation n. meindýraeyðing, óværueyðing
-diablerie n. svartagaldur, djöflagaldur, fjölkynngi; djöfullegheit
+diablerie n. djöflagaldur, svartagaldur, fjölkynngi; djöfullegheit
 diablery n. sjá %[diablerie]%
 diabase n. díabas (bergtegund)
 ovaries n. ft. eggjastokkar
@@ -6031,6 +6032,7 @@ hypophonia n. vanröddun
 dysphonia n. mishljómur, mishljóðan
 Warsaw n. Varsjá (höfuðborg Póllands)
 mousepad n. músamotta
+pinstriped l. teinóttur (mynstur á klæðum)
 huckleberry n. steinabláber, aðalbláber
 goosebumps n. ft. gæsahúð
 inquietude n. ókyrrð, órói, kvíði (andstæðan af %[quietude]%)
@@ -6069,12 +6071,13 @@ minarchy n. lágmarksríki
 minarchism n. lágmarksríkisstefna
 minarchist n. lágmarksríkissinni
 well-off l. vel stæður
+heart disease n. hjartasjúkdómur
 eyepatch n. augnleppur, leppur fyrir auga
 incomprehensibility n. óskiljanleiki
 unsymmetrical l. ekki samhverfur (andstæðan við %[symmetrical]%)
 ornithophage n. fuglaæta
 ornithophagy n. fuglaát
-diabolic l. djöfullegur, helvískur
+diabolic l. djöfullegur, djöflalegur, helvískur
 unsteady l. óstöðugur; óstaðfastur; ójafn
 silently ao. hljóðlega, án hljóðs; í þögn, á þögulan hátt (sjá %[silent]%)
 wanker n. auli, hálfviti, aumingi (slangur, bókst. runkari)
@@ -6090,6 +6093,7 @@ arthropod n. liðdýr
 cinephile n. kvikmyndaunnandi, kvikmyndaáhugamaður
 cinephilia n. ást á kvikmyndum
 bounty hunter n. mannaveiðari
+bounty hunting n. mannaveiðar, mannaveiði
 visually ao. sjónrænt, á sjónrænan eða sýnilegan hátt
 vasculature n. æðakerfi
 rapeseed n. repjufræ, repja
@@ -6097,10 +6101,10 @@ head-hunting n. hausaveiðar
 minigun n. e.k. hríðskotabyssa
 cast iron n. steypujárn
 seahorse n. sæhestur
-playact s. vera með leikaraskap
-playacting n. leikaraskapur
-fettered l. fjötraður
-unfettered l. ófjötraður
+playact s. vera með leikaraskap, þykjast
+playacting n. leikaraskapur, þykjustuleikur
+fettered l. fjötraður, bundinn, heftur
+unfettered l. ófjötraður, óbundinn, óheftur
 genially ao. líflega; hlýlega, blíðlega, ljúfmannlega (sjá %[genial]%)
 barbless l. gaddalaus (sjá %[barb]%)
 rodeo n. kúrekasýning, kúrekaleikar
@@ -6110,3 +6114,24 @@ asphyxia n. köfnun
 moniker n. viðurnefni
 slowdown n. hæging; hægagangur
 deceleration n. hæging
+unreceptive l. ómóttækilegur, ekki móttækilegur (fyrir [to])
+monometallic l. (gert) úr einum málmi
+soundscape n. hljóðmynd, tónheimur
+geocentric l. jarðmiðju-
+heartbreaking l. harmþrunginn, ástarsorgar-, sem veldur djúpri sorg
+heartbroken l. harmi þrunginn, í ástarsorg, haldinn djúpri sorg
+pintle n. teinn, pinni
+pineal l. heilakönguls-; köngullaga; [~ gland] heilaköngull
+paraplegia n. þverlömun
+peace treaty n. friðarsamningur, friðarsáttmáli
+peacenik n. friðarsinni, hernaðarandstæðingur (niðrandi)
+keychain n. lyklakippa
+widowed l. orðinn að ekkju eða ekkli
+fornicator n. hórkarl, riðill
+oink n. hrín (hljóð sem svín gefa frá sér); s. hrína
+changelog n. breytingaskrá, breytingasaga
+shopping n. innkaup, verslun
+shopping bag n. innkaupapoki, verslunarpoki
+seabed n. sjávarbotn, hafsbotn
+satiated l. saddur, mettur
+carrack n. karkari (sterkbyggt farmskip)
