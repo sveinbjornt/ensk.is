@@ -621,9 +621,9 @@ ling n. langa (fiskur); lyng
 linger s. dvelja, bíða: draga fram lífið, tóra; vera seinn á sér, drolla, þrá ([after]); [~ out] draga á langinn
 lingering l. seinn; seinvirkur ([~ poison]); langvinnur ([~ illness, disease])
 lingeringly ao. seint, hægt og hægt
-lingo n. (útlent) mál; hrognamál
+lingo n. (útlent) mál; hrognamál; slangur
 lingual l. tungu- ([~ sound]); tungumála- ([~ studies])
-linguist n. málvísindafræðingur, málfræðingur, tungumálamaður
+linguist n. málvísindafræðingur, málvísindamaður, málfræðingur, tungumálamaður
 linguistic l. málvísindalegur, málfræðilegur
 linguistic talent n. tungumálagáfa
 linguistics n. ft. málvísindi, málfræði, tungumálanám
@@ -738,7 +738,7 @@ lobworm n. fjörumaðkur
 local l. staðlegur; staðar-; [~ government] sveitarstjórn, bæjarstjórn; [~ option] réttur til að gera samþykktir
 locality n. staður; svæði; staðareinkenni; ft. staðhættir
 localize s. staðsetja, marka e-u stað
-locate s. setja; ákveða (e-u) stað; [~ oneself] setjast að
+locate s. staðsetja; setja; ákveða (e-u) stað; [~ oneself] setjast að
 located l. búsettur, búandi
 location n. setning, staða, lega; leiga
 locative l. staðar-; n. staðarfall

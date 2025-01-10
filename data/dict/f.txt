@@ -419,7 +419,7 @@ file cutter n. þjalasmiður
 filings n. ft. svarf
 filial l. sonarlegur, dótturlegur
 filiation n. samband barna við föðurinn; feðrun; ættleiðsla, ættarsamband
-filibuster n. sjóræningi, víkingur; s. ræna, fara með ránskap; beita yfirgangi
+filibuster n. málþóf; sjóræningi, víkingur; s. beita yfirgangi; ræna, fara með ránskap
 filigree n. víravirki ([~ work])
 fill s. fylla; seðja; hella (á staup); skipa (embætti); fyllast; n. fylli, nægja; [eat one's ~] éta fylli sína
 fillet n. flak, fiskflak; lund, vöðvakjöt, kjötströngull; hárband, skarband; s. binda (hárband) um
@@ -728,8 +728,7 @@ flowery l. blómskreyttur ([a ~ vale]); [flowery language] skrúðmælgi
 fluctuant l. bylgjóttur; óstöðugur ([~ mood])
 fluctuate s. ganga í bylgjum; vera á reiki; vera óráðinn; hækka og lækka (í verði)
 fluctuation n. bylgjugangur, óstöðugleiki, hvikulleiki
-flue n. hý, hýjungur
-flue n. ofnpípa; hitapípa
+flue n. hý, hýjungur; ofnpípa; hitapípa
 fluency n. liðugleiki (í ræðu), málfimi
 fluent l. liðugur, málfimur, reiprennandi
 fluently ao. liðugt, reiprennandi
@@ -1049,10 +1048,9 @@ fragment n. brot; moli
 fragmentary l. sem er í brotum eða molum ([his knowledge is ~])
 fragrance n. ilmur, angan
 fragrant l. ilmandi, angandi
-frail l. veikur, óhraustur; breyskur; hrörlegur ([a ~ boat])
+frail l. veikur, óhraustur; breyskur; hrörlegur ([a ~ boat]); n. sefkarfa
 frailness n. veikleiki; breyskleiki
 frailty n. veikleiki; breyskleiki
-frail n. sefkarfa
 frame s. setja saman, búa til, semja; laga; hugsa upp ([~ a plot]); hugsa sér ([~ to oneself]); setja í umgjörð, ramma; n. grind ([~ of a building, of a cart]) bygging; umgjörð, rammi; fyrirkomulag; skap ([~ of mind]); sokkavefstóll ([stocking-~]); [out of ~] í vondu skapi
 framer n. upphafsmaður, höfundur
 framework n. grind; sokkavefnaður

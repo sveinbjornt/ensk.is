@@ -447,7 +447,7 @@ demented l. óður, vitskertur
 demerit n. misgerð; galli, ókostur; ávirðing
 demeritorious l. lastverður, vítaverður
 demesne n. óðal, óðalseign; jarðeign; höfuðból; þjóðjörð ([state ~]); konungsjörð ([Royal ~, ~ of the crown])
-demi- fsk. hálf-; sjá t.d. %[demigod]%
+demi- fsk. hálf- (sjá t.d. %[demigod]%, %[demiurge]%)
 demigod n. hálfguð, hálfgoð
 demijohn n. leirbrúsi
 demise n. dauði (stórhöfðingja); afsal; s. gefa með erfðaskrá; afsala sér (í hendur erfingjum)
@@ -1567,8 +1567,7 @@ drapery n. klæðaverslun; vefnaðarvörur ([~ goods]); búningur
 drastic l. áhrifamikill, róttækur, drastískur ([~ remedies]); [~ measures] örþrifaráð
 drat uh. svei! [~ the boy] óhræsis strákurinn; [~ the girl] stelpusneypan
 draught n. dráttur; súgur; teigur; fiskidráttur, veiði; ristudjúp (skips); uppdráttur; uppkast; víxill (sbr. %[draft]%)
-draw s. draga; draga að sér; draga á eftir sér; sjúga; tappa af (vin); taka út (peninga); draga frá eða fyrir (tjald); bregða (sverði); draga upp ([~ the bow]); skera upp (fugl); draga upp, teikna; lýsa; semja, taka saman; [~ a deep breath] draga djúpt andann; [~ one's attention to] vekja (leiða) athygli e-s að e-u; [the ship ~s ten feet of water] ristir tíu fet; [~ back] fá endurgoldinn (toll); draga sig í hlé; [~ in] styttast ([the evenings are ~ing in]); [~ near] færast nær, nálgast; [~ on] baka, valda; gefa út víxil á (e-n); lokka e-n (til að gera e-ð); [as the evening drew on] eftir því sem leið á kvöldið; [the evenings are ~ing on] kvöldin lengjast; [~ up] taka saman, semja; fylkja (liði); fylkja (raða) sér; stöðva (hest eða vagn); nema staðar
-draw n. dráttur
+draw s. draga; draga að sér; draga á eftir sér; sjúga; tappa af (vín); taka út (peninga); draga frá eða fyrir (tjald); bregða (sverði); draga upp ([~ the bow]); skera upp (fugl); draga upp, teikna; lýsa; semja, taka saman; [~ a deep breath] draga djúpt andann; [~ one's attention to] vekja (leiða) athygli e-s að e-u; [the ship ~s ten feet of water] ristir tíu fet; [~ back] fá endurgoldinn (toll); draga sig í hlé; [~ in] styttast ([the evenings are ~ing in]); [~ near] færast nær, nálgast; [~ on] baka, valda; gefa út víxil á (e-n); lokka e-n (til að gera e-ð); [as the evening drew on] eftir því sem leið á kvöldið; [the evenings are ~ing on] kvöldin lengjast; [~ up] taka saman, semja; fylkja (liði); fylkja (raða) sér; stöðva (hest eða vagn); nema staðar; n. dráttur; jafntefli
 drawback n. endurgoldinn tollur; skerðing (á e-u [from]); bagi, tálmi, galli, agnúi (á e-u [to])
 drawbridge n. vindubrú
 drawee n. víxilgreiðandi

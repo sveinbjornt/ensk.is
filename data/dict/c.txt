@@ -621,9 +621,9 @@ charlatanism n. skottulækningar; svik
 charlatanry n. skottulækningar; svik
 Charles's Wain n. Karlsvagn (stjörnumerki)
 charlock n. akurkál
-charm n. töfrar, töfragripur, verndargripur; unaður, fegurð; s. töfra; gera frá sér numinn; sefa
-charmer n. töfrari; töfrakona
-charming l. heillandi, unaðslegur, yndislegur
+charm n. töfrar; töfragripur, verndargripur; unaður, fegurð; sjarmi; s. töfra, heilla; gera frá sér numinn; sefa
+charmer n. töfrari; töfrakona; sjarmör
+charming l. heillandi, sjarmerandi, unaðslegur, yndislegur
 charnel-house n. beinahús (í kirkjugarði)
 charpie n. línskaf (sjá %[lint]%)
 charry l. viðarkolakenndur
@@ -2475,7 +2475,7 @@ crew n. áhöfn (á skipi, í flugvél); hópur, flokkur ([a ~ of gypsies])
 crib n. jata; bás; barnarúm; s. innibyrgja; hnupla
 cribbage n. e.k. spil; hnupl
 crick n. rígur (í hálsi eða baki)
-cricket n. e.k. enskur knattleikur; engispretta, krybba
+cricket n. krikket (enskur knattleikur); engispretta, krybba
 crier n. kallari
 crime n. afbrot, glæpur
 criminal l. saknæmur, glæpsamlegur; sekur (í glæp); sakamála-, sem lýtur að sakamálum; n. glæpamaður, afbrotamaður, óbótamaður

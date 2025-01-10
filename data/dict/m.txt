@@ -164,7 +164,7 @@ mammal n. spendýr
 mammon n. mammon; jarðnesk auðæfi
 mammonist n. mammonsdýrkandi
 mammonite n. mammonsdýrkandi
-mammoth n. loðfíll, mammút, mammútdýr; l. feiknastór
+mammoth n. loðfíll, mammút, mammútdýr; l. feiknastór, gríðarstór
 mammy n. mamma
 man n. maður; karlmaður; eiginmaður; þjónn; [be one's own ~] vera sjálfum sér ráðandi; s. manna, skipa e-ð mönnum
 man-eater n. mannæta
@@ -556,15 +556,15 @@ megalith n. stór steinn, klettur
 megaphone n. áhald til að auka hljóðið, gjallarhorn
 megatherium n. risaletidýr (útdautt)
 megrim n. höfuðverkur; ft. duttlungar, ólund
-melancholic l. þunglyndur
-melancholy n. þunglyndi, hugsýki; l. þunglyndur, hugsjúkur; dapur, dapurlegur
+melancholic l. þunglyndur; niðurdrepandi
+melancholy n. þunglyndi, hugsýki; l. þunglyndur, hugsjúkur; dapur, dapurlegur, niðurdrepandi
 meliorate s. bæta, endurbæta; batna
-melioration n. endurbót, bötnun ([~ of the evil])
-meliorism n. sú kenning að heimurinn geti batnað fyrir tilstilli mannanna, umbótastefna
+melioration n. endurbót; bötnun ([~ of the evil])
+meliorism n. umbótastefna, sú kenning að heimurinn geti batnað fyrir tilstilli mannanna
 melliferous l. sem framleiðir hunang
 mellifluent l. hunangssætur, sætur sem hunang
 mellifluous l. hunangssætur, sætur sem hunang
-mellow l. mjúkur, meyr; fullþroskaður (um ávexti); kenndur (af víni); s. gera mjúkt eða meyrt; veita fullþroska; mýkjast, meyrna; verða fullþroska
+mellow l. mjúkur, meyr; ljúfur, slakur, afslappaður; fullþroskaður (um ávexti); kenndur (af víni); s. gera mjúkt eða meyrt; veita fullþroska; mýkjast, meyrna; verða fullþroska
 mellowness n. mýkt, mjúkleiki, meyrleiki; þroski
 melodious l. hljómfagur, melódískur
 melodize s. gera hljómfagurt; semja lag við
@@ -581,8 +581,8 @@ membranaceous l. himnukenndur, himnu-
 membranous l. himnukenndur, himnu-
 membrane n. himna
 memento n. endurminning; minningarmark
-memoirs n. minningarrit; sjálfsævisaga
-memorable l. minnisverður, minnisstæður
+memoirs n. ft. minningarit; endurminningar; sjálfsævisaga
+memorable l. minnisstæður, minnisverður
 memorandum n. minnisgrein, athugasemd til minnis
 memorial l. minningar- ([~ service, gift]); n. minnisvarði, minningarmark; álitsskjal, bænarskrá
 memorialist n. umsækjandi; ævisöguritari
@@ -951,12 +951,12 @@ mishearing n. misheyrn
 misimprove s. nota (verja) ranglega; skemma
 misinform s. segja skakkt til, segja (e-m) ranglega frá
 misintelligence n. röng frásögn; misskilningur; ágreiningur, missætti
-misinterpret s. þýða skakkt; misskilja, leggja rangan skilning í
-misinterpretation n. misþýðing; misskilningur
+misinterpret s. þýða skakkt; mistúlka; misskilja, leggja rangan skilning í
+misinterpretation n. misþýðing; mistúlkun; misskilningur
 misjudge s. dæma ranglega, leggja rangan dóm á
 mislay s. leggja á rangan (eða óvísan) stað; týna
-mislead s. leiða afvega, villa fyrir
-misleading l. villandi ([~ expressions])
+mislead s. leiða afvega, afvegaleiða, villa fyrir
+misleading l. villandi ([~ expressions]); afvegaleiðandi
 mislike s. mislíka
 mismanage s. stýra (stjórna) illa
 mismanagement n. ill stjórn, óstjórn

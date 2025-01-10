@@ -157,7 +157,7 @@ immediate l. tafarlaus, viðstöðulaus; náinn; [the ~ neighbourhood] næsta n�
 immediately ao. beinlínis; undir eins
 immemorial l. óminnilegur, eldgamall; [from time ~] frá alda öðli, frá ómunatíð
 immemorially ao. frá alda öðli
-immense l. ómælanlegur, afar stór; frábær
+immense l. afar stór, ómælanlegur; frábær
 immensely ao. ákaflega
 immensity n. ómælanleiki; ógrynni, ósköpin öll
 immensurable l. ómælanlegur (sjá %[immeasurable]%)
@@ -181,7 +181,7 @@ immobilize s. gera óhreyfanlegt, stöðva
 immoderate l. óhóflegur, fjarskalegur, hóflaus
 immoderation n. óhóf, ofsi, öfgar
 immodest l. ókurteis, framur; ósæmilegur, klúr
-immodesty n. ókurteisi, óhæverska
+immodesty n. ókurteisi, óhæverska, skortur á hæversku
 immolate s. fórnfæra, blóta; fórna
 immolation n. fórnfæring, blótun; fórnun
 immoral l. ósiðlegur ([~ conduct]); ósiðvandur
@@ -191,17 +191,17 @@ immortality n. ódauðleiki
 immortalize s. gera ódauðlegan, gera eilífan
 immortally ao. eilíflega
 immovable l. óhreyfanlegur, fastur; n. ft. fasteignir
-immune l. ónæmur, ómóttækilegur (fyrir eitri [from poison])
+immune l. ónæmur, ómóttækilegur
 immunity n. undanþága, lausn undan e-u ([~ from taxation]); ónæmi ([~ from infection])
-immunize s. gera ómótækan
+immunize s. gera ónæman, gera ómóttækan
 immure s. byrgja inni
 immutability n. óumbreytileiki
-immutable l. óbreytanlegur, óhagganlegur
+immutable l. óumbreytanlegur, óbreytanlegur, óhagganlegur
 imp n. púki; óþekktarangi; s. styrkja (vængi) með fjöðrum; auka, stækka
 impact n. þrýsting; s. þrýsta e-u inn í e-ð
-impair s. minnka, skerða, rýra; skemma, skaða
-impairment n. rýrð, minnkun, skerðing; skemmd, sköddun
-impale s. girða með staurum; reka (oddhvassan staur) í gegnum
+impair s. rýra, skerða, minnka; skemma, skaða
+impairment n. rýrð, skerðing, minnkun; skemmd, sköddun
+impale s. girða með staurum; reka (oddhvassan staur) í gegnum; stjaksetja
 impalpable l. óáþreifanlegur; ómerkjanlegur
 impanel s. kveðja (í kviðdóm); semja skrá (yfir kviðdómara)
 imparity n. mismunur

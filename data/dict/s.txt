@@ -2315,11 +2315,11 @@ sticking-plaster n. heftiplástur
 sticky l. límkenndur, seigur ([damp a ~ dough])
 stickle s. berjast með ákefð (fyrir e-i skoðun); draga taum e-s ([~ for one])
 stickler n. talsmaður, formælandi (e-s [of, for])
-stiff l. stinnur; stirðnaður; óliðlegur, ólipur, stirður (í framkomu); þrár; harður ([~ contest]); örðugur, erfiður ([a ~ slope, climb, subject]); sterkur ([~ glass of grog]); [~ denial] harðneitun; [~ neck] rígur í hálsi
+stiff l. stinnur; stirðnaður; óliðlegur, ólipur, stífur, stirður (í framkomu); þrár; harður ([~ contest]); örðugur, erfiður ([a ~ slope, climb, subject]); sterkur ([~ glass of grog]); [~ denial] harðneitun; [~ neck] rígur í hálsi
 stiffen s. gera stinnt; stirðna
 stiffish l. fremur stirður
 stiff-necked l. þrár, þrályndur
-stiffness n. stinnleiki, stirðleiki
+stiffness n. stífleiki, stinnleiki, stirðleiki
 stifle s. kæfa, bæla niður; kafna
 stifling n. kæfandi
 stigma n. brennimark; skammarmark
@@ -2691,7 +2691,7 @@ substantiality n. veruleiki, sjálfstæði; líkamleiki; sterkleiki
 substantiate s. sanna
 substantive l. verulegur; óháður; n. nafnorð
 substantively ao. eftir eðli sinu; með nafnorðseðli
-substitute s. setja í staðinn (fyrir [for]); n. aðstoðarmaður, varamaður; það sem haft er í stað annars, uppbót
+substitute s. setja í staðinn (fyrir [for]); n. aðstoðarmaður, varamaður; það sem haft er í stað annars, uppbót; forfallakennari
 substitution n. setning e-s í stað annars
 substratum n. undirstaða, undirlag
 substructure n. grundvöllur, undirstaða, undirbygging

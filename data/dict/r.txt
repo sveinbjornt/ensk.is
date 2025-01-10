@@ -208,7 +208,7 @@ reactionary l. afturhaldssamur; n. afturhaldsmaður
 reactionist n. afturhaldsmaður
 reactive l. andverkandi; afturverkandi
 read s. lesa; lesa upp; þýða, ráða (gátu); [~ one a lesson] lesa yfir e-m, gefa e-m ráðningu; [~ out loud] lesa (e-ð) upphátt; [~ up] lesa vandlega; [the passage ~s thus] staðurinn hljóðar þannig; [it ~s like a parody] hljóðar (hljómar) eins og; [the bill was read for the first time] var til fyrstu umræðu; [well read in] vel lesinn í (eða vel heima í)
-readable l. læsilegur; lesverður
+readable l. læsilegur; lesanlegur; lesverður
 reader n. lesari; fyrirlesari, kennari; lesbók (í tungumáli)
 readership n. fyrirlesaraembætti, kennaraembætti (við háskóla)
 reading n. lestur; yfirlestur; upplestur; lesmáti ([the best ~]); lesmál ([there is plenty of ~ in it]); umræða á þingi ([the second ~ of a bill]); skilningur, skoðun ([what is your ~ of the facts?])
@@ -288,7 +288,7 @@ rebuttal n. ósönnun, hrakning
 recalcitrant l. mótþróafullur, þrjóskur
 recalcitrate s. þrjóskast (á móti e-u [against, at]); spyrna fæti við e-u ([against, at])
 recalcitration n. mótspyrna, þvermóðska
-recall s. kalla aftur; endurkalla; ónýta; taka aftur (t.d. orð sín); minnast (e-s); vekja ([~ a feeling]); [~ to the mind] rifja upp fyrir sér, muna eftir e-u; n. afturköllun; afturtekning; ónýting (úrskurðar); [beyond/past ~] sem ekki verður aftur tekinn, óafturkallanlegur
+recall s. kalla aftur; endurkalla; ónýta; taka aftur (t.d. orð sín); minnast (e-s); vekja ([~ a feeling]); [~ to the mind] rifja upp fyrir sér, muna eftir e-u; n. afturköllun; afturtekning; endurköllun; ónýting (úrskurðar); [beyond/past ~] sem ekki verður aftur tekinn, óafturkallanlegur
 recant s. taka aftur (orð sín)
 recantation n. afturtekning, afturkall (orða sinna)
 recapitulate s. taka upp aftur í stuttu máli, rifja upp, reifa (mál)

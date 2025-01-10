@@ -12,10 +12,8 @@ gourmet
 layout
 checkout
 backup
-permalink
 derby
 lambda
-locator
 affiliation
 collaborative
 elected
@@ -79,14 +77,11 @@ quad
 unauthorized
 accompanying
 hunker
-input
 listing
-media
 compute (endurskoða)
 adaptive
 adaptiveness
 funky
-characterization
 personals
 quest (endurskoða)
 confrontation (endurskoða)
@@ -102,8 +97,6 @@ boost
 browse
 sexuality
 syndication
-troubleshoot
-troubleshooting
 unsigned
 waiver
 yahoo
@@ -114,7 +107,6 @@ plane (endurskoða)
 indie
 reinnervate, v.
 reinnervation, n.
-livestream
 poop (endurskoða)
 gruelling
 redskin (endurskoða)
@@ -124,7 +116,6 @@ risible (endurskoða)
 serrate s.
 shard (endurskoða)
 soulful
-substantially
 shipboard
 splatterdash n.
 cull (endurskoða)
@@ -151,7 +142,6 @@ waterboard
 unfollow
 gig (endurskoða)
 gaming
-tokenize
 propertarian
 propertarianism
 atavism
@@ -194,6 +184,7 @@ relevance
 irrelevance
 throttle (endurskoða)
 engram
+infest (endurskoða)
 infested
 pickup
 pickup truck
@@ -206,7 +197,6 @@ outstanding
 nationwide
 countrywide
 countywide
-motherfucker
 cack-handed
 micromanage
 micromanagement
@@ -750,7 +740,6 @@ hideout
 roadmap
 superhighway
 normality
-funerary
 honourable
 overspill
 factional
@@ -857,6 +846,7 @@ blueprint
 tribesman
 longhand
 blotless
+disgruntled
 disgruntlement
 polemicist
 deconstruct
@@ -878,6 +868,7 @@ ghoulishly
 celebratory
 fantasist
 reclusive
+louche
 loucheness
 unremarkable
 unrecognizable
@@ -927,7 +918,6 @@ formica
 parmesan
 conveyor
 eureka
-slideshow
 nostalgic
 boondoggle
 boondogglery
@@ -982,7 +972,6 @@ depressant
 anti-depressant
 careerist
 malaise
-charmless
 blockage
 self-indulgence
 schoolwork
@@ -991,7 +980,6 @@ scholarliness
 overprescription
 budgetary
 faeculent
-schoolmarm
 incremental
 incrementally
 virtuosity
@@ -1005,7 +993,6 @@ recalcitrance
 ersatz
 kitsch
 demotic
-self-righteous
 multimillionaire
 self-incrimination
 reconviction
@@ -1222,7 +1209,6 @@ variability
 invariability
 attractor
 arriviste
-standardization
 one-upmanship
 identifier
 delegitimize
@@ -1445,7 +1431,6 @@ naïveté
 serviceability
 vicariously
 unrealism
-self-righteousness
 variousness
 sociologism
 liberationist
@@ -1499,7 +1484,6 @@ officeholder
 countermeasure
 birdshot
 backfire
-bullhorn
 relearn
 multiethnic
 unshakable
@@ -1703,7 +1687,6 @@ maven
 ratchet
 scrounge
 placement
-technologist
 motivator
 marketer
 portability
@@ -1825,7 +1808,6 @@ tagline
 misstep
 hardscrabble
 dodecadic
-coronary
 helion
 skillet
 foreplay
@@ -1905,7 +1887,6 @@ inductivism
 specifiable
 conditionals
 ameliorist
-midpoint
 modifier
 explicability
 representable
@@ -1946,7 +1927,6 @@ reaffirmation
 elusiveness
 self-absorption
 implicity
-acceptability
 self-aware
 historicist
 historicism
@@ -1958,7 +1938,6 @@ scofflaw
 lackwit
 pumpernickel
 awestruck
-citrus
 deepwater
 foothill
 striation
@@ -2012,7 +1991,6 @@ bearish
 dollop
 dicey
 Zoroastrian
-Zoroastrianism
 corral
 frack
 graspable
@@ -2065,7 +2043,6 @@ monoculture
 schoolhouse
 grunge
 grungy
-ginormous
 perishability
 imperishability
 spreadable
@@ -2118,7 +2095,6 @@ issuance
 slog
 navigability
 sandbar
-sidekick
 smorgasbord
 alumina
 regionalize
@@ -2136,7 +2112,6 @@ cadastrally
 synoptic
 overwinter
 politically
-aboriculture
 shovelboard
 cameral
 hornbeam
@@ -2223,7 +2198,6 @@ pepsin
 self-reproach
 harshly
 curiously
-
 peashooter
 kitbag
 washstand
@@ -2292,7 +2266,6 @@ hiphop
 repurpose
 headspace
 onanistic
-artsy
 polyrhythm
 polyrhythmic
 conditioner
@@ -2356,7 +2329,6 @@ hereinafter
 thereinafter
 nighttime
 pinprick
-headlight
 knobbly
 tyke
 tailcoat
@@ -2532,7 +2504,6 @@ re-evaluation
 tongue-in-cheek
 high-profile
 hemoclysm
-palaeontologist
 interpretive
 heuristic
 heuristics
@@ -2547,7 +2518,6 @@ circuitry
 macro-aggression
 micro-aggressions
 great-grandchild
-prehistorical
 widescale
 debunk
 debunking
@@ -2566,8 +2536,8 @@ self-constraint
 relativize
 directional
 figuration
-unquestioningly
 mischaracterize
+mischaracterization
 quantitatively
 qualitatively
 contextualization
@@ -2594,7 +2564,6 @@ fraymaker
 Counter-Enlightenment
 humanitarianism
 interrelatedness
-philosophe
 premodern
 generalizable
 bleacher
@@ -2626,11 +2595,9 @@ Anglocentric
 problematize
 blip
 tailor-made
-quincentennial
 unfound
 sexualization
 underpinnings
-photojournalist
 dodgeball
 weathervane
 starkly
@@ -2669,7 +2636,6 @@ emancipationist
 transvaluation
 homesteader
 deculturation
-postdoc
 teamwork
 prefrontal
 letterbox
@@ -2688,7 +2654,6 @@ double-park
 universalistic
 overconfidence
 misperception
-ineptness
 dangerousness
 neurocircuitry
 obligate
@@ -2748,7 +2713,6 @@ deregulatory
 embeddedness
 multiparty
 Cistercian
-Augustinian
 purgatorial
 mélange
 sandglass
@@ -2821,7 +2785,6 @@ intragroup
 perceptiveness
 harmoniousness
 gratefully
-generously
 famously
 phlegmatism
 paradisiacal
@@ -2829,11 +2792,8 @@ tyrannically
 inextricably
 bushfire
 boxwood
-unifier
-unbound
 abundantly
 cynically
-boatyard
 synoecism
 trackway
 challenger
@@ -2847,7 +2807,6 @@ defuse
 beachhead
 backstreet
 travertine
-shirker
 alleyway
 periplus
 assertiveness
@@ -2860,10 +2819,8 @@ chokepoint
 woodblock
 seasonally
 fairyland
-laxness
 reintensify
 expansionistic
-overambitious
 follow-up
 kowtow
 reaffirm
@@ -2874,9 +2831,6 @@ exceptionalist
 rimland
 enormously
 overspend
-malignance
-Sino-
-lankiness
 high-flown
 exclusiveness
 unalike
@@ -2889,7 +2843,6 @@ Mephistopheles
 Mephistophelian
 cricketer
 deathward
-upper-class
 lower-class
 horsecab
 life-long
@@ -2913,10 +2866,8 @@ large-minded
 large-mindedness
 wife-beater
 germinal
-strikebreaker
 lockkeeper
 unshatterable
-unrepentant
 saintliness
 torch-bearer
 footloose
@@ -2926,7 +2877,6 @@ impressionist
 impressionistic
 sangfroid
 poorhouse
-manservant
 hardbitten
 sunburst
 cabalist
@@ -3180,7 +3130,7 @@ unambiguously
 noncompliance
 registrant
 linguistically
-standardizable
+
 unsympathetic
 megaproject
 astounding
@@ -3921,6 +3871,7 @@ flippantly
 effortful
 dishevel
 snooty
+snootiness
 casuistic
 casuistical
 casuistically
@@ -4060,7 +4011,6 @@ extremities
 intonational
 retropulsion
 mastoiditis
-standardized
 Hegelianism
 crawdad
 ebullism
@@ -4558,7 +4508,6 @@ squaddie
 tinted
 stinted
 strategize
-impaler
 licensed
 programming (endurskoða)
 okayed
@@ -4614,15 +4563,12 @@ civilisatrice
 tellurian
 deltoid
 contractive
-hemiplegia
 hypotonia
 shellack
 shellacking
 sexualize
 fucked
 alien (endurskoða)
-snootiness
-antioxidant
 debrief
 debriefing
 upstanding
@@ -4631,25 +4577,40 @@ cryogenic
 cryogenics
 cryonic
 cryonics
-flatus
 distributed
 glycogen
 diathesis
 intrigued
 banneret
-man-at-arms
 toga
 irreceptive
 succumbed
 required
 pugnaciously
-gratuitousness
 stiffly
 shakily
+snicker
 snickering
 rectus
-sarcophagi
 syncopation
 syncopated
 refreshing
 refreshingly
+sculpt
+deprived
+diddly
+elicitation
+noncommunicable
+vestibular
+modeling
+classless (endurskoða)
+limited liability
+impact (endurskoða)
+recalled
+chart (endurskoða)
+relationality
+gyro
+draining
+derived
+entrecôte
+broderie

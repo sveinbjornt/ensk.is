@@ -158,7 +158,7 @@ abutment n. endastólpi; brúarstöpull
 abuttals n. ft. landamerki
 abysm n. undirdjúp; víti
 abysmal l. botnlaus; hræðilegur
-abyss n. hyldýpi, undirdjúp; (hyldýpis)gjá
+abyss n. hyldýpi, undirdjúp; hyldýpisgjá
 acacia n. akasíutré
 academic l. háskólalegur, fræðilegur; n. heimspekingur, háskólamaður; háskólanemandi
 academical l. háskólalegur
@@ -168,13 +168,13 @@ acanthus n. e.k. blóm
 accede s. taka við (t.d. embætti [to a post]), samþykkja ([~ to])
 accelerate s. vaxa að hraða, auka hraða; flýta fyrir
 acceleration n. hröðun, vaxandi hraði, hraðaaukning; flýtir
-accelerative l. flýtandi, hraðaaukandi
+accelerative l. flýtandi, hraðaaukandi, hraðandi
 accent n. áhersla, áherslumerki; framburður, málrómur; s. leggja áherslu á; setja áherslumerki yfir
 accentuate s. leggja áherslu á; setja áherslumerki yfir
 accentuation n. áhersla
-accept s. taka við; þiggja; samþykkja (víxil)
+accept s. taka við; þiggja; samþykkja; sætta sig við
 acceptable l. ásættanlegur, aðgengilegur; geðþekkur
-acceptableness n. atgætileiki
+acceptableness n. atgætileiki, ásættanleiki
 acceptance n. móttaka, viðtaka; samþykking (víxils); samþykktur víxill; [without ~ of persons] án manngreinarálits
 acceptation n. samþykki; merking
 accepter n. viðtökumaður, þiggjandi
@@ -537,7 +537,7 @@ affluent l. ríkulegur; auðugur (af e-u [in]); n. þverá
 afflux n. aðstreymi
 afford s. veita; gefa af sér; hafa efni á, rísa undir ([I can not ~ it])
 afforest s. breyta í skóglendi, planta (land) skógi
-afforestation n. skógarplöntun
+afforestation n. skógrækt, skóggræðsla, skógarplöntun
 affranchise s. leysa úr ánauð
 affray n. áflog, uppþot
 affright s. fæla, hræða; n. hræðsla, skelfing

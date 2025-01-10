@@ -807,7 +807,7 @@ erasement n. afmáning; gjöreyðing
 erasure n. útskaf
 ere fs. fyrir, á undan; st. áður en; [~long] áður en langt um liður, innan skamms; [~while] ao. fyrir skömmu; áður
 erect l. uppréttur, beinn ([to walk, stand ~]); upplyftur; s. reisa, reisa upp; setja, stofna; smíða, reisa ([~ a building])
-erection n. reisn, reising; holdris; stofnun; bygging
+erection n. reisn, reising; holdris, standpína; stofnun; bygging
 eremite n. einsetumaður
 eremitical l. einsetumannlegur
 ergot n. korndrep; skemmd í rúgi
@@ -1125,7 +1125,7 @@ executant n. sá sem framkvæmir, leikur á hljóðfæri
 execute s. framkvæma; gegna (embætti, skyldu); gefa út (bréf eða skjal fyrir e-u); fullnægja (dómi); taka af lífi, lífláta
 execution n. framkvæmd; aftaka, líflát; lögtak; tjón; [put in (carry into) ~] framkvæma; [do great ~] valda miklu tjóni (eða mannfalli)
 executioner n. aftökumaður, böðull
-executive l. framkvæmandi, framkvæmdar-; n. framkvæmdarvald
+executive l. framkvæmandi, framkvæmdar-; n. framkvæmdarvald, framkvæmdarstjórn
 executor n. framkvæmandi
 executory l. sem lýtur að framkvæmd (skipunar, úrskurðar, laga o.fl.)
 exegesis n. ritskýring, ritskýringarlist

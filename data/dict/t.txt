@@ -737,7 +737,7 @@ toil s. strita, vinna; n. örðug vinna, strit, erfiði; veiðinet, snara
 toiler n. sá sem leggur á sig harða vinnu
 toilsome l. örðugur, fyrirhafnarmikill
 toilet n. salerni, klósett; búningsborð; búningur; [to make one's ~] búa sig, klæða sig
-token n. tákn, merki; minjagripur; [in ~ of] til merkis um; s. tákna, merkja; boða
+token n. tákn, merki; tóki; minjagripur; [in ~ of] til merkis um; s. tákna, merkja; boða
 tolerable l. þolanlegur, bærilegur
 tolerably ao. bærilega
 tolerance n. umburðarlyndi
@@ -829,11 +829,11 @@ torso n. bolur eða búkur (af líkneski)
 tortoise n. skjaldbaka
 tortuous l. snúinn, krókóttur, bugðóttur
 tortuosity n. snúningur; bugður
-torture n. kvöl; píning; s. kvelja; pína (til sagna)
-torturer n. kvalari, pyntari; böðull
-torturous l. kveljandi
-Tory n. íhaldsmaður (á Englandi)
-Toryism n. íhaldsstefna í stjórnmálum (á Englandi)
+torture n. pynting; kvöl; píning; s. kvelja; pynta, pína
+torturer n. pyntari, kvalari; böðull
+torturous l. kveljandi, pyntandi
+Tory n. íhaldsmaður (í Bretlandi)
+Toryism n. íhaldsstefna í stjórnmálum (í Bretlandi)
 toss s. kasta upp í loft; kasta til; hrekja; kastast til og frá; velkjast, hrekjast; [~ (the) oars] reisa árarnar (í virðingarskyni); [~ off] teiga út; [~ up] kasta pening upp sem hlutkesti; n. kast; hlutkesti
 toss-up n. tilviljun; [it is a ~ whether she comes or not] það er alveg óvíst, hvort hún kemur eða ekki
 total l. allur, algjör; fullkominn; n. aðalupphæð, öll upphæðin; s. nema að upphæð ([~ to, up to]); telja saman ([~ up])
@@ -1150,7 +1150,7 @@ trigger n. gikkur (á byssulás); hjólskorða; [to pull the ~ at/on] skjóta á
 trigonometrical l. sem lýtur að þríhyrningafræði
 trigonometry n. þríhyrningafræði
 trilateral l. þríhliðaður
-trilingual l. sem er á þrem málum; sem talar þrjú mál
+trilingual l. sem er á þrem málum; sem talar þrjú mál; þrítyngdur
 triliteral l. sem er þrír stafir; n. orð, sem er þrír stafir
 trill n. dillun raddarinnar (í söng); s. syngja með dillandi röddu
 trilogy n. þríleikur, þrjár samanhangandi kvikmyndir, þrjú samanhangandi rit eða leikrit
