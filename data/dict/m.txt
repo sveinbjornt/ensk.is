@@ -852,10 +852,9 @@ mint n. mynta (plöntutegund); piparminta; peningasmiðja; mikil gnótt, ógrynn
 mintage n. slegnir peningar; peningasláttur; sláttuskattur
 minuet n. hægur dans; e.k. danslag
 minus l. mínus, að frádregnu; ao. mínus, að frádregnu
-minute l. smár; lítilfjörlegur; nákvæmur; smásmuglegur
+minute n. mínúta; uppkast; minnisgrein; [~s] gerðabók; l. smár; lítilfjörlegur; nákvæmur; smásmuglegur; s. búa til uppkast að; skrifa sér til minnis; rita í gerðabók, bókfæra; reikna eftir mínútum ([~ the time])
 minutely ao. mjög nákvæmlega, grandgæfilega; á hverri mínútu, á hverju augnabliki ([to expect one ~])
 minuteness n. nákvæmni; smámunasemi
-minute n. mínúta; uppkast; minnisgrein; ft. gerðabók; s. búa til uppkast að; skrifa sér til minnis; rita í gerðabók, bókfæra; reikna eftir mínútum ([~ the time])
 minute book n. uppkastabók; minnisbók
 minute gun n. byssa, sem skotið er af á hverri mínútu (sem neyðarmerki); neyðarskot
 minute hand n. mínútuvísir (á klukku)
@@ -1265,11 +1264,11 @@ mosaic n. mósaík, litsteinamynd (mynd sem er gerð úr lituðum smásteinum e�
 moselle n. moselvín
 Moslem n. múslími, múhameðstrúarmaður (forn.); l. múslímskur; sjá %[Islam]%
 mosque n. bænahús múslíma
-mosquito n. e.k. mýfluga
-moss n. mosi; mómýri; [Icelandic ~] fjallagrös
+mosquito n. moskítófluga, mýfluga
+moss n. mosi; mómýri
 moss-grown l. mosavaxinn
 mossy l. mosavaxinn; mosa- ([~ turf])
-most l. mestur; flestir; [~ people] flestir menn; [at (the) ~] í mesta lagi; [for the ~ part] mestmegnis, að mestu leyti; [for ~ of the time] mestallan tímann; ao. mest; mjög
+most l. mestur; flestir; [~ people] flest fólk; [at (the) ~] í mesta lagi; [for the ~ part] mestmegnis, að mestu leyti; [for ~ of the time] mestallan tímann; ao. mest; mjög
 mostly ao. mestmegnis, að mestu leyti
 mote n. duftkorn, ar; ögn
 moth n. mölfluga, mölur

@@ -234,8 +234,7 @@ realize s. framkvæma; hugsa sér; skilja, gera sér grein fyrir ([~ the situati
 really ao. sannarlega; í raun og veru
 realm n. ríki, konungsríki
 realty n. fasteign
-ream n. rís (af pappír, 20 bækur)
-ream s. víkka (gat eða rifu); freyða; fleyta (rjómann) ofan af
+ream s. víkka (gat eða rifu); freyða; fleyta (rjómann) ofan af; n. rís (af pappír, 20 bækur)
 reanimate s. endurlífga ([~ a drowned man]); endurhressa, hressa við; lifna við
 reanimation n. endurlífgun
 reap s. skera (korn); skera upp, uppskera; fá, öðlast
@@ -382,8 +381,7 @@ recorder n. bókari; dómsmálaritari; dómari (í sumum bæjum); frásögumaðu
 recount s. segja (nákvæmlega) frá e-u; n. telja (reikna) upp aftur; n. endurtalning
 recoup s. bæta (e-m e-ð) upp; draga e-ð frá, halda e-u eftir; [~ oneself] gera sig skaðlausan
 recourse n. hæli, athvarf; aðgangur (að e-m); gagnkrafa; [have ~ to] grípa til (e-s úrræðis t.d. [to violence]); [have ~ to one for advice] leita ráða e-s
-recover s. þekja (klæða) aftur
-recover s. fá aftur, ná aftur; finna aftur; fá (e-ð) bætt ([~ a loss]); bíða (e-s) bætur; lækna; ná sér aftur ([~ oneself]) eftir e-ð; batna ([~ from a malady]); [~ one's health] fá aftur heilsuna; [~ one's legs] koma aftur fyrir sig fótunum
+recover s. fá aftur, ná aftur; finna aftur; fá (e-ð) bætt ([~ a loss]); bíða (e-s) bætur; lækna; ná sér aftur ([~ oneself]) eftir e-ð; batna ([~ from a malady]); [~ one's health] fá aftur heilsuna; [~ one's legs] koma aftur fyrir sig fótunum; þekja (klæða) aftur, endurþekja
 recoverable l. afturfáanlegur; bætanlegur; læknanlegur, læknandi
 recovery n. afturfengur; bati, afturbati; [past ~] sem ekki fæst aftur; ólæknandi
 recreancy n. ragmennska; níðingsskapur

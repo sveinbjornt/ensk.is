@@ -481,16 +481,16 @@ libel n. níð, níðrit; meiðyrði; kærurit; [~ case, ~ suit] meiðyrðamál;
 libeler n. níðritari
 libelous l. ærumeiðandi
 liberal l. frjálslyndur; hleypidómalaus; frjálsmannlegur; örlátur; ríkulegur; [~ education] æðri menntun; n. frjálslyndur maður
-liberalism n. frjálslyndi (í stjórnmálum)
+liberalism n. frjálslyndi, frjálslyndisstefna (í stjórnmálum)
 liberalist n. frjálslyndur maður
 liberality n. frjálslyndi; örlæti
 liberalize s. gera frjálslyndan eða hleypidómalausan
 liberate s. gefa (e-m) frelsi; frelsa, leysa (úr, undan [from])
-liberation n. lausn, frelsun
+liberation n. frelsun, lausn
 liberator n. frelsari
 libertine l. lauslátur, ósiðugur; óguðlegur; n. fríhyggjumaður; siðleysingi
 libertinism n. ósiðlæti, lauslæti; fríhyggja (í trúarefnum)
-liberty n. frelsi; frjálsræði; réttindi; leyfi; [at ~] frjáls, laus; [I am at ~ to go] það er á sjálfs míns valdi að fara; [to set at ~] láta lausan; [~ of the press] prentfrelsi; [~ of trade] verslunarfrelsi; [to take the ~ to] leyfa sér að; [to take liberties with one] vera nærgöngull við, gera sér dælt við
+liberty n. frelsi; frjálsræði; réttindi; leyfi; [at ~] frjáls, laus; [I am at ~ to go] það er á sjálfs míns valdi að fara; [to set at ~] láta lausan; [~ of the press] prentfrelsi, fjölmiðlafrelsi; [~ of trade] verslunarfrelsi; [to take the ~ to] leyfa sér að; [to take liberties with one] vera nærgöngull við, gera sér dælt við
 libidinous l. lostafullur, lostagjarn; lostasamlegur
 librarian n. bókavörður, starfsmaður á bókasafni
 librarianship n. bókavarðarembætti
@@ -498,8 +498,7 @@ library n. bókasafn
 librate s. vera í jafnvægi; rugga, ramba
 libration n. jafnvægi; rugg
 libretto n. óperutexti
-licence n. leyfi; leyfisbréf; sjálfræði, stjórnleysi; s. leyfa, veita leyfi til (e-s); heimila
-license s. leyfa, veita leyfi til (e-s); heimila
+licence n. leyfi, notkunarleyfi; leyfisbréf, leyfisskírteini; sjálfræði, stjórnleysi; s. leyfa, veita leyfi til (e-s); heimila
 licensee n. leyfishafi
 licenser n. leyfisgjafi
 licentiate n. lögheimilaður læknir eða guðfræðingur

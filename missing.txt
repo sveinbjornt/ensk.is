@@ -989,7 +989,6 @@ inarticulacy
 appropriateness
 counterblast
 handout
-recalcitrance
 ersatz
 kitsch
 demotic
@@ -1010,10 +1009,7 @@ shitstorm
 fuckwit
 insensitivity
 spikey
-innumerate
-innumeracy
 brazenness
-notepad
 corporatist
 bottom-feeder
 déluge
@@ -1058,6 +1054,7 @@ solipsistic
 sartorial
 lèse-majesté
 derisively
+penology
 penological
 fantasize
 quietistic
@@ -1103,7 +1100,6 @@ egoistic
 self-aggrandizement
 technocratic
 generalist
-chiefdom
 counter-intuitive
 acromesomelic
 Darwinism
@@ -1840,7 +1836,6 @@ steampunk
 petrodollar
 megastructure
 monorail
-heteronym
 tautonym
 metonym
 paronym
@@ -1850,8 +1845,6 @@ autonym
 exonym
 endonym
 whingy
-fletcher
-fletch
 emotive
 emotivism
 emotivist
@@ -1893,7 +1886,6 @@ representable
 reflexivity
 enumerable
 routinize
-inexorably
 self-assertiveness
 anticipator
 defensibility
@@ -4353,11 +4345,9 @@ seance
 keelboat
 environmentally
 smasher
-arbitrarily
 lipid
 calendula
 heteronomous
-quantifiability
 risotto
 blither
 blithering
@@ -4404,10 +4394,8 @@ deservingness
 greaser
 tonelessly
 rhapsodize (endurskoða)
-bootblack
-shoeshiner
-papier-mâché
 payola
+heavy-handed
 heavy-handedness
 stooge
 bumbling
@@ -4508,7 +4496,6 @@ squaddie
 tinted
 stinted
 strategize
-licensed
 programming (endurskoða)
 okayed
 Thuringia
@@ -4614,3 +4601,11 @@ draining
 derived
 entrecôte
 broderie
+mortifying (endurskoða)
+jackhammer
+pyrosis
+pincer (endurskoða)
+augmentive
+restock
+restocking
+restocked

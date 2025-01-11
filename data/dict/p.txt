@@ -89,8 +89,7 @@ paling n. staurar; stauragirðing ([~ fence])
 palinode n. bragarbót
 palisade n. staur; stauragirðing; s. girða með stauragarði, umgirða
 palish l. fölleitur
-pall n. viðhafnarkápa páfa og erkibiskupa; líkkistuklæði; s. hylja með svörtu klæði
-pall s. verða bragðdaufur; dofna; deyfa ([~ the senses]); ofmetta, gera leiðan, þreyta ([~ the stomach, ~ readers])
+pall n. viðhafnarkápa páfa og erkibiskupa; líkkistuklæði; s. verða bragðdaufur; dofna; deyfa ([~ the senses]); ofmetta, gera leiðan, þreyta ([~ the stomach, ~ readers]); hylja með svörtu klæði
 palladium n. palladín, palladíum (frumefni); líkneski gyðjunnar Pallas; hlífiskjöldur
 pallet n. vörubretti, hleðslubretti, flutningsbretti, palletta; rúmflet
 palliate s. hylja; fegra, afsaka; lina (sjúkdóm)
@@ -406,11 +405,10 @@ pavilion n. tjaldhús, tjald; skemmtihús
 pavonine l. páfuglslegur; litbreytilegur (sem páfuglsstél)
 paw n. löpp; hrammur; s. klóra, krafsa með framfótunum; strjúka
 pawl n. hamla
-pawn n. veð, handveð. pantur; [at (in) ~] veðsettur; s. veðsetja
+pawn n. peð (í skáktafli); veð, handveð. pantur; [at (in) ~] veðsettur; s. veðsetja
 pawnbroker n. veðlánari, sem lánar gegn handveði
 pawnee n. veðhafi
 pawner n. veðsetjari, veðsali
-pawn n. peð (í skáktafli)
 pay s. borga, gjalda, greiða; svara kostnaði; tjarga, bika (skip); [~ attention to] gefa (e-u) gaum; [~ honour to] sýna (e-m) heiður; [~ a visit] heimsækja; [~ up] borga (greiða) að fullu; [~ out (away) a rope] slaka á kaðli, gefa hann út; n. laun, kaup; máli; borgun
 payable l. sem á að borgast; [become ~] falla í gjalddaga
 payday n. borgunardagur, launadagur
@@ -994,16 +992,16 @@ piles n. ft. gylliniæð
 pilfer s. hnupla
 pilferer n. hnuplari, smáþjófur
 pilfering n. hnupl
-pilgrim n. pilagrímur
+pilgrim n. pílagrímur
 pilgrimage n. pílagrímsferð, pílagrímsför; s. fara pílagrímsför ([~ to the Holy Land])
 pilgrimize s. fara pílagrímsför
-pill n. dálítil lyfjakúla; pilla; kúla
+pill n. pilla; dálítil lyfjakúla; kúla
 pillage n. ránskapur; s. ræna
 pillager n. ræningi
 pillar n. stólpi; stöpull; súla; s. styðja (með stólpum)
 pillion n. hnakkdýna; (söðul)þófi (handa konum að sitja á bakvið reiðmanninn)
-pillorize s. setja í gapastokkinn
-pillory n. gapastokkur; s. setja í gapastokkinn
+pillorize s. setja í gapastokk
+pillory n. gapastokkur; s. setja í gapastokk
 pillow n. koddi; s. leggja á kodda
 pillowcase n. koddaver
 pillowslip n. koddaver
@@ -1014,8 +1012,8 @@ pilot n. flugmaður; hafnsögumaður, lóðs; s. vísa (skipi) leið
 pilotage n. hafnsögugjald; hafnsaga
 pilous l. loðinn, hærður
 pimento n. píment (e.k. kryddber)
-pimple n. nabbi, bóla (á hörundi)
-pimpled l. sem er með nöbbum, nöbbóttur
+pimple n. bóla (á hörundi); nabbi
+pimpled l. bólugrafinn; sem er með nöbbum, nöbbóttur
 pin n. teinn; prjónn, títuprjónn; bandprjónn ([knitting ~]); skrúfa (á strengjahljóðfæri); gaddur (í öxulenda); s. næla (með prjónum); kvía
 pincushion n. nálakoddi
 pinafore n. barnasvunta, ermasvunta
@@ -1610,11 +1608,9 @@ poulterer n. hænsnasali, fuglasali
 poultice n. grautarbakstur; s. leggja bakstur við
 poultry n. hænsni, alifuglar
 pounce n. kló á ránfugli; skrifsandur; [be on the ~ to] vera reiðubúinn til að; s. ráðast á, steypa sér niður á, hremma ([~ upon, on, at])
-pound n. pund; gullpeningur (skammstafað £, t.d. £200); s. [to ~ it] veðja pundum
+pound n. pund; gullpeningur (skammstafað £, t.d. £200); kví, rétt (sem óskilafé er látið í); s. mylja, merja; lemja, berja; ríða fast (óforml.); loka inni ([~ in]); [to ~ it] veðja pundum
 poundage n. gjald af hverju pundi
-pound s. mylja, merja; lemja, berja; ríða fast (óforml.)
 pounder n. mar; stautur; högg; dynur
-pound n. kví, rétt (sem óskilafé er látið í); s. loka inni ([~ in])
 pour s. hella; skenkja; láta streyma; senda út; hella út ([~ out]); streyma, renna; [when it rains it ~s] sjaldan er ein báran stök; [it ~s with rain] það er húðarigning; n. straumur; demba ([~ of rain])
 pout n. það að teygja fram varirnar; ólundarkast, fýla ([in the ~s]); s. vera fúll; teygja fram (varirnar); n. fisktegund
 pouting l. ólundarfullur

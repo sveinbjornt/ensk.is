@@ -479,7 +479,7 @@ advised l. íhugaður
 advisedly ao. af ásettu ráði
 advisory l. ráðgefandi
 advocacy n. vörn, málfærsla, málflutningur
-advocate n. málfærslumaður; talsmaður; s. verja, mæla fram með
+advocate n. málfærslumaður; talsmaður, málflutningsmaður; s. verja, mæla fram með
 advocateship n. málfærslumannsembætti; málsvörn
 advowson n. veitingarréttur til kirkjulegs embættis
 adze n. skaröxi
@@ -1287,10 +1287,10 @@ arbalest n. stór bogi, lásbogi
 arbiter n. gjörðarmaður; dómari
 arbitrament n. gjörð, úrskurður, dómur
 arbitrariness n. gjörræði; hugþótti
-arbitrary l. einráður; gerræðislegur; duttlungafullur; hugþóttalegur
-arbitrate s. vera gjörðarmaður ([on, upon]); leggja (mál) í gjörð
-arbitration n. gjörð
-arbitrator n. gjörðarmaður
+arbitrary l. gerræðislegur; einráður; duttlungafullur; hugþóttalegur
+arbitrate s. vera gjörðarmaður ([on, upon]); miðla málum; leggja (mál) í gjörð
+arbitration n. gjörð, gerðardómur
+arbitrator n. gjörðarmaður; málamiðlari
 arboraceous l. trékenndur, viðar-
 arboreal l. trjálegur; trjá-
 arborescent l. trékenndur, líkur tré

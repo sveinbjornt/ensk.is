@@ -562,7 +562,7 @@ chamberpot n. næturgagn, hlandpottur
 chameleon n. kameljón (eðlutegund sem skiptir mjög litum)
 chamfer s. hola; gera holrákir á (súlu); höggva (slípa) brún af; n. holrák á súlu
 chamois n. gemsa; þvottleður
-champ s. tyggja, bryðja; bíta í ([the horses ~ed their bits]); n. tuggning, bruðning
+champ s. tyggja, bryðja; bíta í ([the horses ~ed their bits]); n. tuggning, bruðning; kappi, kempa (stytt. á %[champion]%)
 champagne n. kampavín ([a bottle of ~])
 champaign n. slétta, flatlendi, sléttlendi ([~ country])
 champignon n. ætisveppur
@@ -1190,7 +1190,7 @@ cocksure l. alveg viss, í engum vafa (um [of]); fullviss (um [of])
 cocktail n. kokteill (blandaður áfengur drykkur); hestur með stýfðu tagli
 cocky l. hreykinn, montinn
 cocoa n. kakó, kakóduft; kakópálmi
-cocoon n. lirfuhýði, egghýði, egghylki; silkiormshýði; s. spinna hýði um sig
+cocoon n. púpa, lirfuhýði, egghýði, egghylki; silkiormshýði; s. spinna hýði um sig
 coction n. suða
 cod n. þorskur; [dried ~] þurrkaður saltfiskur; s. veiða þorsk; [go ~ding] fara á þorskveiðar
 codfish n. þorskur
@@ -1807,7 +1807,7 @@ connexion n. samtenging; samband; skyldleiki; venslamaður; skiptavinur
 connective l. samtengjandi; n. samtengingarorð
 connivance n. þegjandi samþykki
 connive s. loka augunum (fyrir at), látast ekki sjá
-connoisseur n. sá sem ber skyn á (e-ð), hefur vit á (e-u)
+connoisseur n. sá sem ber skyn á (e-ð), hefur vit á (e-u), þekkjari
 connotation n. merking
 connote s. merkja, tákna
 connubial l. hjónabands-, hjúskapar-, hjóna- ([~ love])

@@ -686,7 +686,7 @@ sepulcher n. gröf; legstaður; s. greftra, jarða
 sepulture n. greftrun
 sequacious l. fylgispakur; rökmáll ([~ thinker])
 sequel n. framhald ([the ~ of a story]); afleiðing; [in the ~] í því sem á eftir fer, seinna
-sequence n. röð; afleiðing
+sequence n. röð, runa; [in ~] í röð, hver á eftir öðrum; afleiðing; s. raðgreina ([~ genes])
 sequent l. eftirfarandi
 sequester s. kyrrsetja (eignir e-s að lögum); taka lögtaki; fjarlægja; [~ oneself from the world] taka sig út úr heiminum; [a ~ed spot] einverustaður, afvikinn staður
 sequestrate s. kyrrsetja
@@ -2083,7 +2083,7 @@ squeamish l. velgjugjarn, klígjugjarn; viðkvæmur, vandlátur; hörundsár
 squeamishness n. velgja, ógleði; vandlæti
 squeeze s. kreista ([~ an orange]); þrýsta; þrengja sér, troða sér; n. kreisting, þrýsting
 squib n. hvelleldur; níðrit, háðrit; s. snarka; skensa, sneiða
-squid n. kolkrabbi
+squid n. smokkfiskur, kolkrabbi
 squill n. strandlaukur (læknisjurt); dýr af krabbakyni
 squinny l. grannur, mjór
 squint l. rangeygður; s. vera rangeygður; gjóta augunum; n. rangeygð; hornauga
@@ -2100,7 +2100,7 @@ stable l. fastur, stöðugur; staðgóður; n. hesthús, fjós, peningshús; s. 
 stableboy n. fjósadrengur
 stabling n. hýsing; peningshús, hesthús
 stack n. stór (uppmjór) stakkur (af heyi, korni, hálmi); hár reykháfur; s. stakka, hlaða upp
-staff n. stafur, flaggstöng (ft. [staves]); skaft (ft. [staffs]); yfirforingjaráð ([the general staff]); [the editorial ~ of a newspaper] ritstjórnarliðið
+staff n. stafur, flaggstöng (ft. [staves]); skaft (ft. [staffs]); starfsfólk; yfirforingjaráð ([the general staff]); [the editorial ~ of a newspaper] ritstjórnarliðið
 stag n. hjörtur, hreinn; s. steggja; athuga, hafa gætur á e-m; komast fyrir e-ð; kæra, koma upp um e-n ([~ against one])
 stage n. pallur; bryggja; leiksvið; áfangi; áfangastaður; póststöð; póstvagn; stig; [by easy ~s] í hægum áföngum; s. sýna á leiksviði
 stagebox n. stúka í leikhúsi (nálægt leiksviðinu)
@@ -2571,8 +2571,7 @@ stubbly l. broddóttur ([a ~ beard])
 stubborn l. þrár, þrálátur; stöðugur; harður; ósveigjanlegur, harðsnúinn; staður (um hest)
 stucco n. gipskalk; gipsmynd; s. draga gipskalk á
 stuck-up l. drembinn, hreykinn (af peningum eða tign)
-stud n. skástoð; málmbóla (til prýðis); brjósthnappur; ermahnappur; s. setja e-ð málmbólum eða hnöppum, seyma; [~ded with] settur, þakinn e-u ([~ded with stars])
-stud n. stóð
+stud n. skástoð; stóð; stóðhestur; foli; málmbóla (til prýðis); brjósthnappur; ermahnappur; s. setja e-ð málmbólum eða hnöppum, seyma; [~ded with] settur, þakinn e-u ([~ded with stars])
 stud groom n. stóðvörður
 stud horse n. stóðhross
 studding-sail n. hlésegl
@@ -3164,7 +3163,7 @@ syntax n. orðskipunarfræði, málsgreinafræði
 synthesis n. samtenging, samsetning; gerving; [speech ~] talgerving
 synthetic l. samtengjandi, samtengt, samþættandi; tilbúinn; gervi- ([~ materials] gerviefni)
 Syriac l. sýrlenskur; n. sýrlenska, einkum fornsýrlenska
-syringe n. lítil handsprauta; stólpípa; s. sprauta inn í
+syringe n. sprauta, lítil handsprauta; stólpípa; s. sprauta inn í
 system n. kerfi; fræðikerfi; vísindaleg niðurröðun; fyrirkomulag
 systematic l. kerfisbundinn; kerfislegur; niðurraðaður eftir vísindalegum reglum
 systematical l. kerfisbundinn; kerfislegur; niðurraðaður eftir vísindalegum reglum

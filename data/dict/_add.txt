@@ -1259,7 +1259,7 @@ banshee n. kvenvofa (í írskri þjóðtrú)
 phoenix n. Fönix (ódauðlegur eldfugl í grískri goðafræði)
 bogeyman n. vondi karlinn, vætturinn (í barnamáli)
 Scientology n. Vísindakirkjan
-Scientologist n. Vísindakirkjumeðlimur
+Scientologist n. Vísindakirkjumeðlimur, Vísindakirkjumaður
 Aristotelianism n. heimspeki gríska fræðimannsins Aristótelesar
 Aristotelian l. aristótelískur (eftir gríska heimspekingnum Aristótelesi)
 succubus n. kvendjöfull
@@ -3970,7 +3970,7 @@ classicist n. fornfræðingur
 coda n. niðurlag, niðurlagskafli
 whistle-blower n. uppljóstrari; flautublásari, sá sem blæs flautu
 homonymic l. samhljóða, eins og annað orð í framburði
-homo n. maður (í latínu); ættkvísl manndýra (sbr. [homo sapiens], hinn viti borni maður); hommi, samkynhneigður maður (niðrandi)
+homo n. maður (í latínu); ættkvísl manndýra (sbr. [homo sapiens], hinn viti borni maður); hommi, samkynhneigður maður (niðrandi, stytt. á %[homosexual]%)
 homo- fsk. sam-, jafn-, eins- (sbr. %[homosexual]%, %[homogenous]%)
 homologous l. samsvarandi; eðlislíkur
 homology n. samsvörun; eðlislíking
@@ -4356,6 +4356,7 @@ Asia Minor n. Litla-Asía (stór skagi í Suðvestur-Asíu)
 boilerplate n. fastatexti, geymdur texti (texti sem er notaður ítrekað í mörgum skjölum)
 ammonium n. ammóníum
 quantifiable l. mælanlegur, magnmælanlegur
+quantifiability n. mælanleiki, magnmælanleiki
 devilishly ao. djöfullega, andskoti
 needlessly ao. óþarflega, að óþörfu
 mapmaking n. kortagerð
@@ -5948,7 +5949,6 @@ thruster n. hreyfill (fyrir þotur, eldflaugar og geimför)
 geosynchronous l. jarðsnúningsbundinn; [~ orbit] jarðsnúningsbundinn sporbaugur
 histamine n. lostefni, histamín
 inactivate s. afvirkja
-sequence n. röð, runa; [in ~] í röð, hver á eftir öðrum; s. raðgreina ([~ genes])
 sequencing s. [gene ~] raðgreining erfðaefnis
 parametrize s. stika (e-ð)
 airway n. öndunarvegur
@@ -5989,9 +5989,7 @@ preoccupation n. það að vera upptekinn við e-ð
 revealed l. uppljóstraður, afhjúpaður, sýndur
 botched l. klúðraður, misheppnaður; [~ job] hálfkák
 programming n. forritun
-license s. fá eða hafa leyfi fyrir einhverju (oft skírteini) frá viðeigandi leyfisveitanda; n. leyfi, notkunarleyfi, leyfisskírteini
 differential l. mismuna-; diffur- ([~ equation] diffurjafna); [~ diagnosis] mismunagreining; n. mismunadrif (búnaður svo dekk megi snúast mishratt á bíl)
-spellbound l. undir álögum, undir áhrifum galdurs; heillaður, hugfanginn ([he was ~ by the performance])
 offline l. ekki tengdur, ótengdur, ónettengdur, ekki í samskiptum við umheiminn; ekki uppi, niðri (um vélræna þjóna)
 captivating l. gagntakandi, grípandi, fangandi ([a ~ performance])
 WC stytt. á [water closet], klósett
@@ -6217,3 +6215,22 @@ melanin n. melanín, sortuefni, sorta
 sarcophagi n. ft. steinkistur, líkkistur úr steini (ft. af %[sarcophagus]%)
 gratuitousness n. ástæðuleysi, tilefnisleysi, ófyrirsynja
 man-at-arms n. vígbúinn (þungvopnaður) hermaður
+licensed l. leyfður, heimilaður; löggiltur ([~ accountant, technician])
+papier-mâché n. pappamassi; l. úr pappamassa, pappamassa-
+bootblack n. skóburstari, skópússari
+shoeshiner n. skóburstari, skópússari
+arbitrarily ao. gerræðislega
+endometriosis n. legslímuvilla
+heteronym n. orð sem er stafsett eins og annað orð en er öðruvísi í framburði og hefur aðra merkingu (t.d. %[bow]%)
+bowyer n. bogasmiður
+inexorably ao. óhjákvæmilega
+princeling n. lítill prins, minniháttar prins
+chiefdom n. höfðingjadæmi, höfðingdómur
+notepad n. minnisbók, skrifblokk, minnisblokk
+innumerate l. ólæs á tölur
+innumeracy n. skortur á talnalæsi, talnaólæsi
+recalcitrance n. mótþrói, þrjóska
+Warsaw Pact n. Varsjárbandalagið (hernaðarbandalag Sovétríkjanna og annarra kommúnistaríkja á tímum Kalda stríðsins)
+fletcher n. örva- og bogasmiður
+fletch s. smíða örvar (og boga)
+fletching n. örvasmíði, bogasmíði
