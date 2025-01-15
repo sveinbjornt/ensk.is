@@ -15,7 +15,6 @@ backup
 derby
 lambda
 affiliation
-collaborative
 elected
 preterperfect
 corps
@@ -97,6 +96,7 @@ boost
 browse
 sexuality
 syndication
+syndicated
 unsigned
 waiver
 yahoo
@@ -772,6 +772,7 @@ laypeople
 template
 hilltop
 supportive
+unsupportive
 leery
 traditionalist
 plainlands
@@ -1497,7 +1498,6 @@ striver
 epigone
 seminarian
 cofounder
-messianic
 surreptitiously
 gendarmerie
 cobblestone
@@ -1566,7 +1566,6 @@ collegium
 deviationist
 indigenization
 self-assurance
-unsupportive
 turnaround
 demo
 karma
@@ -1574,11 +1573,11 @@ locale
 deluxe
 trainer
 techno
+technobabble
 mambo
 toner
 outreach
 upcoming
-gamma
 toolbar
 dialog
 dimensional
@@ -1586,7 +1585,6 @@ connector
 logo
 driven
 boneyard
-wank
 junky
 junkie
 immersive
@@ -1598,7 +1596,6 @@ judgemental
 fetishization
 bog-standard
 flashlight
-ballroom
 riff
 trouser
 nutter
@@ -1608,6 +1605,7 @@ unduly
 picaresque
 billboard
 glitch
+glitchy
 soteriology
 unavailability
 tearfulness
@@ -1630,7 +1628,6 @@ numinous
 grotesqueness
 ricochet
 meme
-rediscovery
 chomp
 provider
 reconnect
@@ -1685,7 +1682,6 @@ scrounge
 placement
 motivator
 marketer
-portability
 cop
 paddy
 self-regulation
@@ -1773,7 +1769,6 @@ self-promotion
 communicator
 differentiator
 relational
-squeaky
 face-to-face
 transactional
 theretofore
@@ -2032,7 +2027,6 @@ commodification
 silage
 polyculture
 monoculture
-schoolhouse
 grunge
 grungy
 perishability
@@ -2085,7 +2079,6 @@ outage
 breakout
 issuance
 slog
-navigability
 sandbar
 smorgasbord
 alumina
@@ -2474,7 +2467,6 @@ vascularity
 adulterate (endurskilgreina)
 miosis
 semiosis
-hypotension
 crenelled
 crenellated
 crenellations
@@ -2483,7 +2475,6 @@ bioarchaeology
 bioarchaeological
 osteoarchaeology
 lifeways
-extensively
 keenly
 marketability
 socio-economic
@@ -2609,7 +2600,6 @@ conservationist
 timescale
 constructivism
 constructivist
-interdisciplinarity
 emotionology
 constative
 self-exploration
@@ -3354,6 +3344,7 @@ queef
 epithermal
 punchline
 campy
+campiness
 limescale
 catty
 pompadour
@@ -4317,7 +4308,6 @@ tremblant
 circumstantially
 unequivocally
 electrified
-ventilated
 pression
 charred
 quivering
@@ -4336,7 +4326,6 @@ indignantly
 unthought
 unobtrusively
 compter
-blubbery
 intuitive (endurskoða)
 boosted
 mosaicism
@@ -4438,7 +4427,6 @@ conflicted
 intradermal
 undeterred
 Procrustean
-nitrogenous
 outpocketing
 sniffle
 strudel
@@ -4520,7 +4508,6 @@ curtly
 illuminist
 lummox
 zinger
-allomorph
 brouhaha
 breakdancing
 breakdance
@@ -4609,3 +4596,53 @@ augmentive
 restock
 restocking
 restocked
+squad (endurskoða)
+squadron (endurskoða)
+augmented
+abducted
+kidnapped
+chug (endurskoða)
+succor
+heralded
+unheralded
+salvageable
+ideophone
+writhing
+naturalized
+globus
+ululate
+ululation
+intimidated
+disenfranchise
+disenfranchised
+disenfranchisement
+audiologist
+Buddhahood
+Burgundy
+precession
+sealing (endurskoða)
+brownnose
+rotorcraft
+phossy
+miscast
+miscasting
+casting (endurskoða)
+enervating
+karmic
+subacute
+pandy
+bandolier
+cashiered
+shillelagh
+taunt (endurskoða)
+denuded
+aplenty
+pinwheel
+bushmanship
+stigmergy
+stigmergic
+welcoming
+unwelcoming
+capitalization
+capitalize (endurskoða)
+demoralization (endurskoða)

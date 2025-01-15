@@ -2874,6 +2874,7 @@ candlelit l. kertalýstur, lýstur með kertum
 Canberra n. Kanberra (höfuðborg Ástralíu)
 Paris n. París (höfuðborg Frakklands); grísk goðsagnapersóna
 lampshade n. lampaskermur
+defeated l. sigraður
 undefeated l. ósigraður
 acquihire n. þegar fyrirtæki er keypt til þess að komast yfir starfsmenn þess frekar en vörur og þjónustur (samsetning af %[acquisition]% og %[hire]%)
 gerrymander s. hagræða kjördæmum (BNA)
@@ -3585,7 +3586,7 @@ probabilistic l. líkindafræðilegur
 seacoast n. sjávarströnd
 geoposition n. hnattræn staðsetning, staðsetning á hnettinum; s. staðsetja á hnettinum
 bullwhip n. svipa
-overtone n. yfirtónn
+overtone n. yfirtónn; undirtónn
 shoreline n. strandlengja
 troublemaker n. vandræðagemsi, vandræðagemlingur, vandræðagripur (e-r sem skapar vandræði)
 backlash n. bakslag
@@ -3933,6 +3934,7 @@ mummification n. skrælnun, skorpnun
 pharaoh n. faraó (egypskur konungur)
 weaponize s. vopnavæða, gera vopn úr, nota sem vopn
 interdisciplinary l. þverfaglegur
+interdisciplinarity n. þverfaglegheit
 biomedical l. líf- og lækninga-, líf- og læknisfræðilegur
 biomedicine n. líflækningar, líflæknisfræði
 gyrfalcon n. (stór) fálki, valur
@@ -5702,7 +5704,7 @@ embolus n. blóðrek
 bolus n. munnbiti, tugga; stakur skammtur
 meerkat n. jarðköttur
 screenwriter n. (kvikmynda)handritshöfundur, höfundur handrita fyrir myndefni
-igloo n. snjóhús
+igloo n. snjóhús (Inúíta)
 semicolon n. semíkomma
 graphologist n. rithandarfræðingur, rithandarsérfræðingur
 chopstick n. (asískur) matarprjónn
@@ -6081,6 +6083,7 @@ ornithophagy n. fuglaát
 diabolic l. djöfullegur, djöflalegur, helvískur
 unsteady l. óstöðugur; óstaðfastur; ójafn
 silently ao. hljóðlega, án hljóðs; í þögn, á þögulan hátt (sjá %[silent]%)
+wank n. runk
 wanker n. auli, hálfviti, aumingi (slangur, bókst. runkari)
 pangolin n. hreisturdýr
 flu n. flensa (stytt. á %[influenza]%)
@@ -6170,12 +6173,12 @@ photojournalist n. fréttaljósmyndari
 quincentennial n. fimm hundruð ára afmæli
 philosophe n. heimspekingur (sérstaklega notað um franska heimspekinga upplýsingaaldar)
 prehistorical l. forsögulegur
-tranquilizer n. róandi lyf; e-r sem róar eða stillir
+tranquilizer n. róandi lyf; e-r sem róar eða stillir (e-n)
 flatus n. vindgangur, viðrekstur
 antioxidant n. andoxunarefni, þráavarnarefni
 hemiplegia n. helftarlömun
 manservant n. þjónn, einkaþjónn, heimilisþjónn
-unrepentant n. iðrunarlaus
+unrepentant l. iðrunarlaus, án iðrunar, án eftirsjár, sem iðrast einskis
 strikebreaker n. verkfallsbrjótur
 overambitious l. ofmetnaðarfullur, ofmetnaðargjarn
 boatyard n. slippur, skipasmíðastöð
@@ -6234,3 +6237,50 @@ Warsaw Pact n. Varsjárbandalagið (hernaðarbandalag Sovétríkjanna og annarra
 fletcher n. örva- og bogasmiður
 fletch s. smíða örvar (og boga)
 fletching n. örvasmíði, bogasmíði
+collaborative l. samstarfs-, samvinnu-
+Swahili n. svahílí (suðurafrískt tungumál)
+chug s. þamba, drekka hratt; n. teygur, stór sopi
+squeaky l. tístandi; hvínandi
+federalism n. sambandsríkjastefna, sambandsríkjahyggja
+messianic l. spámanns-, spámannslegur, messíasar-; [~ complex] spámannsbrjálæði
+vinyard n. víngarður
+sealing n. selveiði, selveiðar
+possum n. pokarotta
+pharyngeal l. kok-
+laryngeal l. barkakýlis-
+laryngoscope n. barkakýlissjá
+laryngoscopy n. barkakýlisspeglun
+gamification n. leikjavæðing, leikvæðing
+gamify s. leikjavæða, leikvæða
+allomorph n. myndbrigði
+nitrogenous l. nitur-, niturs-, köfnunarefnis-
+ventilated l. loftræstur, viðraður (sjá %[ventilate]%)
+decagon n. tíhyrningur
+decagonal l. tíhyrndur
+nonagon n. níhyrningur
+enneagon n. níhyrningur
+enneagonal l. níhyrndur
+vermiform l. ormlaga
+portability n. flytjanleiki
+oops uh. úps!
+ballroom n. danssalur; [~ dancing] samkvæmisdans
+gamma n. gamma (þriðji stafur gríska stafrófsins)
+swimsuit n. sundbúningur, sundföt
+dinnerware n. borðbúnaður (fyrir kvöldverð)
+subacute l. hægbráður, meðalbráður
+crabs n. ft. flatlús
+Comte n. greifi (í Frakklandi)
+Comtesse n. greifynja (í Frakklandi)
+cecum n. botnristill
+fella n. sjá %[fellow]%
+blubbery ao. eins og spik (í áferð, útliti, o.s.frv.)
+shoelaces n. ft. skóreimar; [tie one's ~] reima skóna
+magnifying glass n. stækkunargler
+Jainism n. Jaínismi (indversk trúabrögð)
+polluted l. mengaður, óhreinkaður; saurgaður; ataður
+unpolluted l. ómengaður; ósaurgaður
+rediscovery n. enduruppgötvun; endurfundur
+extensively ao. á yfirgripsmikinn eða víðtækan hátt
+hypotension n. vanþrýstingur, lágþrýstingur
+navigability n. sjófærni, skipfærni
+schoolhouse n. skólahus, skólabygging

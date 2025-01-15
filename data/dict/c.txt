@@ -851,8 +851,8 @@ cicatrize s. græða (sár); gróa (um sár)
 cicerone n. leiðsögumaður (einkum á listasöfnum)
 cider n. eplamjöður
 cigar n. vindill
-cigarette n. vindlingur
-cigarette holder n. munnstykki
+cigarette n. sígaretta, vindlingur
+cigarette holder n. munnstykki fyrir sígarettu
 cigar shop n. vindlabúð
 cilia n. augnhár
 cimmerian l. koldimmur; [~ darkness] svartnættismyrkur, niðamyrkur
@@ -2104,7 +2104,7 @@ copestone n. toppsteinn
 copious l. efnisríkur; fjölorður; orðmargur ([a ~ language]); ríkulegur
 copiously ao. ríkulega; rækilega
 copiousness n. gnótt; orðgnótt
-copper n. kopar, eir; eirpeningar; eirketill
+copper n. kopar, eir; eirpeningar; eirketill; lögregluþjónn (óforml.)
 copper-plate n. eirplata; koparstunga
 coppery l. kopar-; [~ particles] koparagnir
 coppice n. smáviður

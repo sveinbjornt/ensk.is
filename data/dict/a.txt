@@ -944,7 +944,7 @@ analogous l. hliðstæður; líkur
 analogy n. samanburður, líking; samsvörun
 analyse s. sjá %[analyze]%
 analyze s. greina; sundurliða; skoða vandlega, gagnrýna; leysa upp
-analysis n. greining; sundurliðun; uppleysing
+analysis n. greining; sundurliðun; uppleysing; rökgreining
 analytical l. greinandi; sundurliðandi; uppleysandi; rökgreiningar-
 ananas n. ananas (aldin)
 anapaest n. bragliður, tvær stuttar samstöfur og ein löng
@@ -1204,7 +1204,7 @@ apellor n. sakaráberi
 append s. hengja (festa, bæta) við ([to])
 appendage n. viðauki
 appendant l. sem hangir við ([to]), samfara
-appendix n. viðbót; n. ft. [appendices] viðbót, viðbætur
+appendix n. viðbót; botnlangi
 appertain s. heyra undir ([to]); heyra e-m eða e-u til ([to])
 appetence n. fýsn, löngun, þrá (eftir e-u [for, of, after])
 appetency n. fýsn, löngun, þrá (eftir e-u [for, of, after])
@@ -1464,7 +1464,7 @@ aspersorium n. ker með vígðu vatni í
 asphalt n. asfalt, malbik, jarðbik; s. malbika (veg)
 asphyxiated l. kafnaður ([an ~ animal])
 aspirant n. umsækjandi
-aspiration n. andardráttur; eftirlangan
+aspiration n. eftirlangan, löngun, eftirsókn; andardráttur
 aspire s. sækjast eftir ([at, to]); hefjast upp
 aspiring l. metorðagjarn; n. metorðagirnd
 asquint ao. til hliðar; skáhalt, á ská; [look ~] gjóta augunum; vera rangeygður

@@ -156,7 +156,7 @@ venom n. eitur
 venomous l. eitraður; illgjarn
 venous l. æðóttur; sem er í blóðæðunum ([~ blood])
 vent n. loftop; útrás; [give ~ to] hleypa út; [get ~] fá útrás; kvisast ([get ~]); s. hleypa út (um op); láta í ljós; [~ one's anger] svala reiði sinni
-ventilate s. viðra; hleypa nýju lofti inn í, loftræsa; ræða, hugleiða ([~ a question]); láta í ljós, gera kunnugt
+ventilate s. viðra; hleypa nýju lofti inn í, loftræsta; ræða, hugleiða ([~ a question]); láta í ljós, gera kunnugt
 ventilation n. viðrun; loftræsting, loftskipting; umræður ([~ of a question])
 ventilator n. loftræstitæki, vifta; vindspeldi, loftspjald; loftop
 ventral l. sem lýtur að kviðnum (maganum); [~ fin] kviðuggi
@@ -455,7 +455,7 @@ voluminous l. sem er mörg bindi; yfirgripsmikill; sem hefur ritað mikið ([a ~
 voluntary l. sjálfviljugur, sjálfboðinn; gerður af ásettu ráði; [~ church] fríkirkja; n. fríkirkjumaður; orgelspil á undan eða eftir guðsþjónustu; sjá %[volunteer]%
 volunteer n. sjálfboðaliði; s. bjóða fram ([~ one's services]); gera e-ð sjálfkrafa; ganga sjálfviljugur í e-a þjónustu
 voluptuary n. munaðarlífsmaður
-voluptuous l. lostasamur, nautnasamur; lokkandi; munuðlifur
+voluptuous l. lostasamur, nautnasamur; lokkandi; munuðlífur
 voluptuousness n. lostasemi, nautnasemi
 volute n. flúr (á súluhöfði)
 vomit s. selja upp; kasta upp; n. uppsala, spýja; uppsölulyf

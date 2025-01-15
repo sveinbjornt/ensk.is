@@ -2066,9 +2066,9 @@ squalor n. óhreinindi
 squama n. hreistur
 squamose l. hreistrugur
 squamous l. hreistrugur
-squander s. eyða, sóa
-squanderer n. eyðsluvargur
-square l. ferhyrndur; ferstrendur; rétthyrndur; ferhyrnings-, fer- ([~ mile, ~ metre]); þreklegur; réttur; hreinskilinn, hreinlyndislegur ([~ dealing]); vandaður ([~ in everything]); beinn ([~ question]); [ten feet ~] á hvern veg (af fjórum); jafn ([~ accounts]); [to act on the ~] fara hreinlyndislega að, vera hreinskilinn; [to be (up)on the ~ with] eiga (e-m) ekkert ógoldið, vera sáttur við e-n; [all ~] allt í lagi, allt eins og það á að vera; n. ferningur; ferhyrnt svæði (torg) í borgum; reitur á taflborði: hornmælir (trésmiða); breiðfylking; s. gera ferhyrnt eða rétthyrnt; höggva (tré) ferstrent; lagfæra; laga, haga (e-u eftir [by]); jafna ([I have ~d it with the lad]); margfalda (tölu) með sjálfri sér; koma heim við ([with]), vera samkvæmur; [~ accounts] gera upp reikninga; [~ up a debt] ljúka skuld
+squander s. eyða, sóa, kasta á glæ
+squanderer n. eyðsluvargur, sóari, e-r sem kastar e-u á glæ
+square l. ferhyrndur; ferstrendur; rétthyrndur; ferhyrnings-, fer- ([~ mile, ~ metre]); þreklegur; stífur, ósvalur, ekki kúl; réttur; hreinskilinn, hreinlyndislegur ([~ dealing]); vandaður ([~ in everything]); beinn ([~ question]); [ten feet ~] á hvern veg (af fjórum); jafn ([~ accounts]); [to act on the ~] fara hreinlyndislega að, vera hreinskilinn; [to be (up)on the ~ with] eiga (e-m) ekkert ógoldið, vera sáttur við e-n; [all ~] allt í lagi, allt eins og það á að vera; n. ferningur; ferhyrnt svæði (torg) í borgum; reitur á taflborði; hornmælir (trésmiða); breiðfylking; s. gera ferhyrnt eða rétthyrnt; höggva (tré) ferstrent; lagfæra; laga, haga (e-u eftir [by]); jafna ([I have ~d it with the lad]); margfalda (tölu) með sjálfri sér; koma heim við ([with]), vera samkvæmur; [~ accounts] gera upp reikninga; [~ up a debt] ljúka skuld
 square-built l. stuttur og digur, þrýstinn
 squareness n. ferhyrnd lögun
 square-rigged l. með ráseglum
@@ -2781,7 +2781,7 @@ suicidal l. sem lýtur að sjálfsmorði
 suicide n. sjálfsmorð; sjálfsmorðingi; s. fremja sjálfsmorð ([commit ~])
 suit n. bæn, umsókn; bónorð; málsókn ([lawsuit]), mál; samaneigandi hlutir ([a ~ of curtains]); klæðnaður ([~ of clothes, ~ of mourning]); litur (í spilum); [to follow ~] gegna lit; gera hið sama (og annar); [to bring a ~] höfða mál; s. laga (eftir [to]); hæfa, eiga við (einnig [with]); vera (e-m) hentugt; gera til hæfis; gera ánægðan; klæða, búa
 suitable l. hæfilegur ([~ compensation]); hentugur; vel til fallinn
-suitably ao. á hæfilegan hátt
+suitably ao. á hæfilegan hátt, hæfilega
 suite n. föruneyti, fylgd; svíta; röð ([a ~ of rooms])
 suitor n. umsækjandi; biðill; málsaðili
 sulk s. vera með ólund, vera í fýlu

@@ -466,11 +466,11 @@ demoniacal l. djöfulóður; djöfullegur
 demonism n. djöflatrú ([belief in ~])
 demonolatry n. andadýrkun
 demonstrable l. sýnilegur; sannanlegur
-demonstrate s. færa sönnur á, sanna; sýna; ögra
+demonstrate s. færa sönnur á, sanna; sýna; ögra, mótmæla
 demonstration n. vottur, merki; ögrun; röksemdaleiðsla; full sönnun; [prove to ~] sanna til fulls
 demonstrative l. sem sýnir e-ð ([~ of God's providence]); sannandi, sönnunar-; opinskár
 demoralization n. siðspilling
-demoralize s. siðspilla, spilla siðum; draga kjark úr e-m (einkum herliði)
+demoralize s. draga kjark úr e-m (einkum herliði); siðspilla, spilla siðum
 demulcent l. linandi, verkeyðandi
 demur s. hika; færast undan, mótmæla (e-u [to, at]); n. hik; mótmæli; undanfærsla
 demure l. alvörugefinn, siðlátur; tilgerðarlega hæverskur
@@ -1027,7 +1027,7 @@ discourteous l. ókurteis
 discourtesy n. ókurteisi
 discover s. uppgötva, finna; komast að (e-u); sýna, gera uppskátt
 discoverer n. finnandi
-discovery n. fundur ([the ~ of America]); uppgötvun ([the voyage was one of ~])
+discovery n. uppgötvun ([the voyage was one of ~]); fundur ([the ~ of America])
 discredit s. koma óorði á; veikja trúna á e-u; trúa ekki; n. óálit, óorð ([to bring ~ on]); vantraust, ótrú
 discreditable l. vansæmandi
 discreet l. gætinn, hygginn; þagmælskur, orðvar ([you are a ~ man])

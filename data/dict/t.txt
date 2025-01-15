@@ -974,7 +974,7 @@ transcript n. eftirrit; eftirlíking
 transcription n. endurritun; eftirritun
 transept n. þvergöng, armur, stúka (í krosskirkju)
 transfer s. flytja yfir um; fá (öðrum) í hendur; n. flutningur
-transferable l. sem selja má öðrum í hendur ([tickets are not ~]); flytjanlegur
+transferable l. flytjanlegur; sem selja má öðrum í hendur ([tickets are not ~])
 transference n. flutningur úr einum stað í annan
 transfiguration n. ummyndun (Krists)
 transfigure s. ummynda

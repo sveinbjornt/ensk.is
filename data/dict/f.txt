@@ -33,7 +33,7 @@ fade s. fölna, blikna; visna; smáhverfa ([~ away]); upplitast; óskýrast
 fadeless l. óvisnanlegur
 faerie n. álfur, álfkona
 faery n. álfur, álfkona
-fag s. strita, streitast, þreyta; n. strit, erfiði; vikapiltur (í skóla); samkynhneigður maður (niðrandi)
+fag s. strita, streitast, þreyta; n. strit, erfiði; vikapiltur (í skóla); sígaretta; samkynhneigður maður (niðrandi)
 fag-end n. úrgangur; endi; útkjálki
 fagging n. strit, erfiði ([hard ~])
 faggot n. lim (sem eldsneyti), hrísbaggi; samkynhneigður maður (niðrandi); s. binda (hrís) í bagga ([~ up])
@@ -53,7 +53,7 @@ fairly ao. hreinskilnislega; greinilega; alveg; dável, þokkalega
 fairness n. fegurð; hreinskilni
 fair-spoken n. blíðmáll, kurteis
 fairing n. markaðargjöf
-fairy n. álfur, álfkona
+fairy n. álfur, álfkona; samkynhneigður maður (niðrandi)
 faith n. trú ([the Christian ~]); trúnaður; tryggð; traust ([nothing can change my ~ in you]); heit ([break one's ~]); [give ~ to] leggja trúnað á e-ð; [in good ~] í grandleysi; [in the ~ of] í trausti til e-s; [in ~ thereof] þessu til staðfestingar
 faithful l. trúr, tryggur; trúaður
 faithfully ao. trúlega, dyggilega; [Yours ~] yðar einlægur (undir bréfum)
@@ -228,7 +228,7 @@ fecund l. frjór
 fecundate s. frjóvga
 fecundation n. frjóvgun
 fecundity n. frjósemi
-federal l. sambandslegur, sambands-
+federal l. sambandslegur, sambands-, sambandsríkja-
 federalist n. sambandsvinur (fylgismaður Washingtons)
 federalize s. sameina (í sambandsríki)
 federate l. sambands-; s. gera samband

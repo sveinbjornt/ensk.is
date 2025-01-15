@@ -21,7 +21,7 @@ ultimate l. ystur; síðastur
 ultimately ao. að lokum, um síðir
 ultimatum n. síðasta sáttaboð
 ultimo ao. í fyrra mánuði
-ultra- fsk. ákaflega; fyrir handan; sjá t.d. %[ultramarine]%, %[ultraliberal]%
+ultra- fsk. ákaflega; fyrir handan; út-; sjá t.d. %[ultramarine]%, %[ultraliberal]%
 ultraism n. svæsni (í stjórnarefnum)
 ultraist n. öfgamaður
 ultraliberal l. ákaflega frjálslyndur
@@ -62,7 +62,7 @@ unaltered l. óbreyttur
 unambiguous l. ótvíræður, einræður
 unambiguousness n. ótvíræðni, einræðni
 unambitious l. metnaðarlaus, ekki metorðagjarn; óheimtufrekur
-unanimity n. eindrægni, einróma samkomulag, samdómur
+unanimity n. eindrægni, einróma samkomulag, samdómur, einróma samþykki
 unanimous l. einróma, samdóma, sammála (um e-ð [for/as to, in doing something]); samhljóða; [with ~ consent] (samþykkt) í einu hljóði
 unanswerable l. sem ekki verður svarað; órækur
 unassuming l. hæverskur, látlaus
@@ -210,14 +210,14 @@ undertake s. taka að sér, takast á hendur, ábyrgjast
 undertaker n. sá sem tekur e-ð að sér, einkum umsjón með greftrunum
 undertaking n. fyrirtæki; (skriflegt) loforð
 undertenant n. leiguliði annars leiguliða
-undertone n. lág rödd; [in an ~] í hálfum hljóðum
+undertone n. lág rödd; [in an ~] í hálfum hljóðum, í lagum rómi
 undertow n. útsog; undiralda
 undervalue s. virða (verðleggja) of lágt; lítilsvirða; vanmeta; n. of lágt verð; lítilsvirðing
 underwear n. nærföt, nærfatnaður
 underwood n. smáskógur
 underwork s. vinna fyrir minna kaup en
 underworld n. undirheimar; [criminal underworld] glæpaheimar, neðanjarðarstarfsemi utan laga og reglna
-underwrite s. rita nafn sitt undir; taka í ábyrgð (skip eða farm)
+underwrite s. rita nafn sitt undir; taka í ábyrgð (skip, farm, lán, o.s.frv.)
 underwriter n. ábyrgðarmaður
 undeserved l. óverðskuldaður
 undeserving l. óverðugur (e-s [of])
@@ -604,8 +604,8 @@ unwell l. lasinn, óhress
 unwept l. ógrátinn
 unwholesome l. óheilnæmur, óhollur
 unwieldy l. óhandhægur, þunglamalegur
-unwilling l. óviljugur, ófús, tregur
-unwillingly ao. ófúslega
+unwilling l. óviljugur, ófús, tregur, gegn vilja (sínum)
+unwillingly ao. ófúslega, gegn vilja (sínum)
 unwillingness n. tregða
 unwind s. vinda ofan af; rekja í sundur
 unwise l. óvitur, óviturlegur, óhyggilegur
@@ -655,12 +655,12 @@ uproot s. uppræta
 upset s. trufla, óróa; velta um koll ([the carriage was ~]); steypa; n. kollsteyping, kollvörpun; l. í uppnámi; kollvarpaður; [~ price] lægsta söluverð
 upshot n. endalykt, niðurstaða ([the ~ of it all was])
 upside n. efri hlið; [~ down] á hvolfi; á ringulreið
-upstairs ao. uppi á lofti
+upstairs ao. uppi á lofti, á efri hæð
 upstart n. sá sem skyndilega fær auð eða metorð
 upstroke n. uppdráttur (í skrift)
 upward ao. upp á við; til himins; [from this time ~] upp frá þessum tíma; [~ of] fram yfir; [~ of a hundred] yfir hundrað, fleiri en hundrað
 upwards ao. upp á við; til himins; [from this time ~] upp frá þessum tíma; [~ of] fram yfir; [~ of a hundred] yfir hundrað, fleiri en hundrað
-urban l. borgar-
+urban l. borgar-, þéttbýlis-
 urbane l. kurteis, mannúðlegur
 urbanity n. kurteisi
 urchin n. strákhnokki; stelpa; ígulker ([sea ~])
@@ -686,10 +686,10 @@ usually ao. vanalega, venjulega
 usucaption n. hefð
 usufruct n. afnotaréttur
 usurer n. okrari, okurlánari
-usurious l. okur-
-usurp s. taka heimildarlaust undir sig; fremja valdarán
-usurpation n. heimildarlaus eignartaka; valdarán
-usurper n. valdaránsmaður, ránsmaður
+usurious l. okur-, okurlána-
+usurp s. fremja valdarán; taka heimildarlaust undir sig
+usurpation n. valdarán; heimildarlaus eignartaka
+usurper n. valdaránsmaður, ránsmaður; sá sem tekur völdin frá e-m
 usury n. okur, okurlán
 utensil n. áhald; ílát; [kitchen ~s] eldhúsáhöld
 uterus n. leg
