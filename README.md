@@ -108,7 +108,7 @@ endorsement by the author or the affirmer.
 
 ## Source license
 
-Copyright (c) 2021-2024 Sveinbjorn Thordarson &lt;[sveinbjorn@sveinbjorn.org](mailto:sveinbjorn@sveinbjorn.org)&gt;.
+Copyright (c) 2021-2025 Sveinbjorn Thordarson &lt;[sveinbjorn@sveinbjorn.org](mailto:sveinbjorn@sveinbjorn.org)&gt;.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification,

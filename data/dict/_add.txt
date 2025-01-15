@@ -5944,7 +5944,7 @@ rating n. einkunn, skor; flokkur, flokkun (t.d. lágmarksaldur fyrir kvikmyndir)
 hypothesize s. geta sér til um, gera sér í hugarlund; mynda kenningu
 paternalism n. forræðishyggja
 paternalist l. forræðishyggjumaður
-paternalistic l. hafa tilhneigingu til forræðishyggju, forræðishygginn 
+paternalistic l. hafa tilhneigingu til forræðishyggju, forræðishygginn
 follicular l. eggjastokka-, eggjabús-
 score n. skor, stig, einkunn; s. skora, skora mark; skora e-ð (rista í)
 thruster n. hreyfill (fyrir þotur, eldflaugar og geimför)

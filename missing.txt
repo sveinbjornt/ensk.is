@@ -914,6 +914,8 @@ amortization
 juggernaut
 staffer
 capitalization
+undercapitalization
+overcapitalization
 literalism
 formica
 parmesan
@@ -1530,7 +1532,6 @@ cahoot
 ipso facto
 reestablishment
 reemergence
-federalism
 exoticism
 backtrack
 reengage
@@ -2941,7 +2942,6 @@ charismata
 beatification
 canonization
 prayerbook
-melanin
 woodcarver
 hickory
 mandala
@@ -3200,7 +3200,6 @@ aridification
 anopheline
 patrimonialism
 proletarianization
-undercapitalization
 dessicationist
 acclimation
 rainmaker
@@ -4629,7 +4628,6 @@ miscasting
 casting (endurskoða)
 enervating
 karmic
-subacute
 pandy
 bandolier
 cashiered
@@ -4643,6 +4641,5 @@ stigmergy
 stigmergic
 welcoming
 unwelcoming
-capitalization
 capitalize (endurskoða)
 demoralization (endurskoða)

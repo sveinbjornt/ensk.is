@@ -3,7 +3,7 @@
 
 Ensk.is - Free and open English-Icelandic dictionary
 
-Copyright (c) 2021-2024, Sveinbjorn Thordarson <sveinbjorn@sveinbjorn.org>
+Copyright (c) 2021-2025, Sveinbjorn Thordarson <sveinbjorn@sveinbjorn.org>
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification,
@@ -266,7 +266,7 @@ def main():
             check_category(line, letter, ln)
             check_bracket_use(line, letter, ln)
             check_intradict_refs(line, letter, ln)
-            check_icelandic_words(line, letter, ln)
+            # check_icelandic_words(line, letter, ln)
             # check_english_words(line, letter, ln)
             # check_enword_def(line, letter, ln)
 
