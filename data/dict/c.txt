@@ -827,7 +827,7 @@ chuckle s. hlæja leynilega, skríkja; hlakka yfir ([over]); n. skríkjur
 chucklehead n. auli, einfeldningur
 chuckleheaded l. aulalegur, einfaldur
 chuff n. ruddi; nirfill
-chum s. búa saman (í herbergi); [~ a person on another] koma e-m fyrir hjá e-m; n. sambýlismaður; [they are great ~s] miklir vinir
+chum n. sambýlismaður; [they are great ~s] miklir vinir; s. búa saman (í herbergi); [~ a person on another] koma e-m fyrir hjá e-m
 chump n. kubbur, drumbur; heimskingi
 chumpy l. kubbslegur
 chunk n. þykkt stykki

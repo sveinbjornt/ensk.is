@@ -850,8 +850,8 @@ Slovakia n. Slóvakía
 Slovak n. Slóvaki
 Slovakian l. slóvakískur, slóvaskur; slóvakíska
 Slovenia n. Slóvenía
-Slovene n. Slóveni
-Slovenian l. slóvenskur; n. Slóveni
+Slovene n. Slóveni; slóvenska
+Slovenian l. slóvenskur; n. Slóveni; slóvenska
 Solomon Islands n. Salómonseyjar
 Somalia n. Sómalía
 Somali l. sómalískur; n. Sómali
@@ -881,6 +881,8 @@ Tokelau n. Tókelá
 Tonga n. Tonga
 Tunisia n. Túnis
 Turkmenistan n. Túrkmenistan
+Turkmenistani n. Túrkmeni
+Turkmen n. túrkmenska; Túrkmeni; l. túrkmenskur
 Tuvalu n. Túvalú
 Uganda n. Úganda
 Ukraine n. Úkraína
@@ -942,7 +944,7 @@ buddy n. félagi, lagsmaður, vinur
 querulant n. þrætugjarn maður, kverúlant, nöldurseggur
 carburetor n. blöndungur (í sprengihreyfli eða bílvél)
 carburettor n. blöndungur (í sprengihreyfli eða bílvél)
-dominatrix n. valdagyðja, kona sem öllu ræður (í sadómasókísku sambandi)
+dominatrix n. valdgyðja, kona sem öllu ræður (í sadómasókísku sambandi)
 pikeman n. hermaður vopnaður löngu spjóti
 glucose n. glúkósi, þrúgusykur
 dextrose n. dextrósi, þrúgusykur
@@ -5234,7 +5236,7 @@ torque n. snúningsátak, snúningsvægi
 Hun n. Húni (af þjóðflokki Húna)
 Hunnic l. húnskur (sjá %[Hun]%); húnska, húnsk tunga
 defeatist n. uppgjafarsinni; l. uppgjafar-
-defeatism n. uppgjafarstefna
+defeatism n. uppgjafarstefna, uppgjafarmóður, uppgjafarviðhorf
 English-speaking l. enskumælandi
 English speaker n. enskumælandi manneskja
 boondocks n. ft. sveitabyggðir
@@ -6276,11 +6278,16 @@ fella n. sjá %[fellow]%
 blubbery ao. eins og spik (í áferð, útliti, o.s.frv.)
 shoelaces n. ft. skóreimar; [tie one's ~] reima skóna
 magnifying glass n. stækkunargler
-Jainism n. Jaínismi (indversk trúabrögð)
-polluted l. mengaður, óhreinkaður; saurgaður; ataður
+Jainism n. jaínismi (indversk trúabrögð)
+polluted l. mengaður; óhreinkaður; saurgaður; ataður
 unpolluted l. ómengaður; ósaurgaður
 rediscovery n. enduruppgötvun; endurfundur
 extensively ao. á yfirgripsmikinn eða víðtækan hátt
 hypotension n. vanþrýstingur, lágþrýstingur
-navigability n. sjófærni, skipfærni
+navigability n. sjófærni, skipfærni; færð
 schoolhouse n. skólahus, skólabygging
+Balto-Slavic l. baltóslavneskt (tungumál)
+Mephistopheles n. Mefistófeles (djöfull)
+Mephistophelian l. djöfullegur (sjá %[Mephistopheles]%)
+chummy l. vingjarnlegur, kumpánalegur
+wheezing l. másandi

@@ -2822,8 +2822,6 @@ credo
 wastrel
 scug
 glorifier
-Mephistopheles
-Mephistophelian
 cricketer
 deathward
 lower-class
@@ -4643,3 +4641,11 @@ welcoming
 unwelcoming
 capitalize (endurskoða)
 demoralization (endurskoða)
+thrift (endurskoða)
+orichalcum
+prissy
+prissiness
+chestplate
+consumable
+inconsumable (endurskoða)
+messengership
