@@ -870,6 +870,7 @@ Switzerland n. Sviss
 Syria n. Sýrland
 Syrian l. sýrlenskur; n. Sýrlendingur
 Taiwan n. Taívan
+Taiwanese l. taívanskur
 Tajikistan n. Tadsjikistan
 Tanzania n. Tansanía
 Tanzanian l. tansanískur; n. Tansani, Tansaníubúi
@@ -1703,7 +1704,7 @@ condenser n. þéttir
 deckhouse n. þilfarshús
 usability n. nothæfni
 minimisation n. lágmörkun
-capacitor n. þéttir
+capacitor n. þéttir, rafþéttir
 deactivate s. óvirkja
 deactivation n. óvirkjun
 urticaria n. ofsakláði
@@ -2515,6 +2516,7 @@ newfound l. nýfundinn
 matrilineal l. í móðurlegg
 patrilineal l. í föðurlegg
 minimization n. lágmörkun, minnkun, smækkun
+minimizer n. lágmarkari, minnkari, smækkari, e-r sem lágmarkar e-ð
 bonobo n. bónóbó-api
 cannibalistic l. sem étur sig sjálft; mannætulegur, mannætu- ([the natives engage in ~ practices])
 simplification n. einföldun
@@ -2530,6 +2532,7 @@ chromosomal l. litninga-
 gene n. gen
 geneticist n. erfðafræðingur, genafræðingur
 autophagia n. sjálfsát
+autophagy n. sjálfsát
 nectarine n. nektarína
 gulag n. gúlag (fangabúðir í Sovétríkjunum)
 indecisiveness n. óákveðni, efablendni, ráðaleysi
@@ -4835,7 +4838,7 @@ gunship n. orrustuskip, þungvopnað herskip; orustuþyrla ([helicopter ~])
 clichéd l. klénn, klisjukenndur
 paleobotany n. plöntusteingervingafræði, forngrasafræði
 paleobotanist n. forngrasafræðingur, plöntusteingervingafræðingur
-plutocratic l. auðveldis-, auðræðis- (sjá %[plutocracy]%)
+plutocratic l. auðveldis-, auðvalds-, auðræðis- (sjá %[plutocracy]%)
 lollipop n. sleikipinni, sleikjó
 cuspidor n. hrákadallur
 shush uh. uss, suss, þegiðu; s. ussa, sussa
@@ -5395,6 +5398,7 @@ Kurdistan n. Kúrdistan (svæði í Mið-Austurlöndum)
 Middle East n. Mið-Austurlönd
 Far East n. Austurlönd fjær
 breastplate n. brjóstplata, brynja sem ver bringuna
+chestplate n. brjóstplata, brynja sem ver bringuna
 Aquarius n. Vatnsberinn (stjörnumerki)
 Aries n. Hrúturinn (stjörnumerki)
 Taurus n. Nautið (stjörnumerki)
@@ -6291,3 +6295,24 @@ Mephistopheles n. Mefistófeles (djöfull)
 Mephistophelian l. djöfullegur (sjá %[Mephistopheles]%)
 chummy l. vingjarnlegur, kumpánalegur
 wheezing l. másandi
+capacitance n. rýmd, rafrýmd, rafhleðsla
+Jesus n. Jesús; uh. Jesús!
+computerize s. tölvuvæða
+computerized l. tölvuvæddur
+jizz s. brunda; n. brundur, sæði, sáðvökvi
+biomechanics n. ft. lífaflfræði
+biomechanical l. lífaflfræðilegur
+periodontitis n. tannslíðursbólga
+caramel n. karamella
+caramelize s. sulta, brúna, karamellísera
+caramelized l. sultaður, brúnaður, karamellíseraður ([~ potatoes])
+endocytosis n. innfrumun
+tomboyish l. strákastelpulegur (sjá %[tomboy]%)
+sissy n. kvenlegur strákur eða karlmaður, stelpustrákur (niðrandi); skræfa, gunga, raggeit, hugleysingi
+cariogenic l. tannskemmandi, sem veldur tannátu
+carious l. tannátu-
+goober n. jarðhneta; heimskingi, einfeldningur (óforml.)
+sluggardly l. iðjulaus, latur
+sluggardliness n. iðjuleysi, leti
+misread s. mislesa, misskilja, mistúlka
+monsoonal l. monsún- (sjá %[monsoon]%)

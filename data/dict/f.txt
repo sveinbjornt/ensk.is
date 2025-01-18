@@ -674,14 +674,13 @@ flinch s. víkja, hörfa undan ([from]); kveinka sér
 fling s. fleygja, kasta, þeyta, henda; fella; slá; sneiða, skensa; hendast, þeytast, þjóta ([~ out of the room]); [~ up] hætta við; n. kast; skens, aðkast, háðsyrði; [to have a ~ at] spotta, skensa
 flint n. tinnusteinn
 flinty l. tinnu-; steinharður; harðbrjóstaður
-flip n. sjómannadrykkur
-flip n. snöggt högg; rykkur; glampi; s. slá; rykkja, kippa; kasta
-flippancy n. mælgi; léttúð
-flippant l. málugur; léttúðugur
+flip n. snöggt högg; rykkur; umsnúningur; glampi; sjómannadrykkur; s. snúa; slá; rykkja, kippa; kasta
+flippancy n. léttúð; mælgi
+flippant l. léttúðugur; málugur
 flipper n. hreifi (á sel), bæxli (á hval)
-flirt s. kasta, fleygja; veifa; hlaupa fram og aftur; daðra, vera óstöðugur í ástum; n. kast; daðurkvendi
-flirtation n. daður, fleðulæti
-flirtatious l. ástleitinn, daðurgjarn
+flirt s. reyna við, daðra, vera óstöðugur í ástum; kasta, fleygja; veifa; hlaupa fram og aftur; n. daðrari; kast
+flirtation n. daður, viðreynsla, fleðulæti
+flirtatious l. daðrandi, daðurgjarn, ástleitinn
 flisk s. hoppa, leika sér
 flit s. fljúga; flögra, flytjast
 flitch n. söltuð flesksíða ([~ of bacon]); flak ([~ of halibut])

@@ -1301,7 +1301,7 @@ arcanum n. leyndardómur; kynjalyf; ft. [arcana]
 arch n. bogi; hvelfing; [triumphal ~] sigurbogi; s. hvelfa; [~ the neck] hringa makkann; l. glettinn
 archly ao. glettnislega, með glettni
 archness n. glettni
-arch- fsk. erki- (í samsetningum) sbr. %[archbishop]%, %[archangel]%
+arch- fsk. erki- (í samsetningum, sbr. %[archbishop]%, %[archangel]%)
 archangel n. erkiengill
 archbishop n. erkibiskup
 archbishopric n. erkibiskupsdæmi

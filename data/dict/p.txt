@@ -1133,12 +1133,11 @@ plaintive l. raunalegur, sorglegur
 plait n. hárflétta; felling; s. flétta; fella
 plan n. flataruppdráttur; áform, ráð, ráðagerð; s. draga upp, gera uppdrátt að e-u; áforma, leggja á ráð um; haga (e-u) til
 planchet n. málmplata (til peningasláttu)
-plane n. flötur; slétta; hefill; l. flatur, jafn; s. slétta; hefla
-plane n. hlynur
+plane n. flötur; slétta; hefill; hlynur; flugvél; l. flatur, jafn; s. slétta; hefla
 plane tree n. hlynur
 planet n. reikistjarna; pláneta
 planetarium n. sólkerfismynd
-planetary l. reikistjörnulegur
+planetary l. reikistjörnu-, plánetu-
 plangent l. hvellur; gjálfrandi (um sjávarhljóð)
 planimetry n. flatarmálsfræði
 planish s. fletja (slétta) málm (með smáhöggum)
