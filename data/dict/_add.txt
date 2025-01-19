@@ -2535,6 +2535,7 @@ autophagia n. sjálfsát
 autophagy n. sjálfsát
 nectarine n. nektarína
 gulag n. gúlag (fangabúðir í Sovétríkjunum)
+decisiveness n. ákveðni, ráðfesta
 indecisiveness n. óákveðni, efablendni, ráðaleysi
 tireless l. óþreytandi
 polygraph n. lygamælir ([did you pass the ~ test?])
@@ -5397,8 +5398,8 @@ Istanbul n. Istanbúl, Mikligarður (borg í Tyrklandi)
 Kurdistan n. Kúrdistan (svæði í Mið-Austurlöndum)
 Middle East n. Mið-Austurlönd
 Far East n. Austurlönd fjær
-breastplate n. brjóstplata, brynja sem ver bringuna
-chestplate n. brjóstplata, brynja sem ver bringuna
+breastplate n. brjóstplata, málmstykki (brynja) sem ver bringuna
+chestplate n. brjóstplata, málmstykki (brynja) sem ver bringuna
 Aquarius n. Vatnsberinn (stjörnumerki)
 Aries n. Hrúturinn (stjörnumerki)
 Taurus n. Nautið (stjörnumerki)
@@ -6316,3 +6317,18 @@ sluggardly l. iðjulaus, latur
 sluggardliness n. iðjuleysi, leti
 misread s. mislesa, misskilja, mistúlka
 monsoonal l. monsún- (sjá %[monsoon]%)
+undersea ao. neðansjávar; l. neðansjávar-
+undernutrition n. næringarskortur, vannæring, skortur á næringu
+truckload n. bílfarmur, bílhlass
+linguistically ao. málvísindalega, málfræðilega
+therein ao. þar í, í því
+loudmouth n. hávær blaðurskjóða
+wiretap n. hlerun (á fjarsamskiptum)
+doomsayer n. bölsýnismaður, dómsdagsspámaður, bölsýnisspámaður
+flamboyance n. glampi; skrúði; litadýrð
+hagiology n. helgisagnafræði
+iota n. agnarögn ([I care not one ~]); jóta (níundi stafurinn í gríska stafrófinu)
+gavel n. fundarhamar, hamar dómara eða uppboðshaldara
+cuirasse n. brynja, herklæði
+persimmon n. persimóna, persimónía (aldin)
+quarrelsomeness n. þrætugirni, deilugirni

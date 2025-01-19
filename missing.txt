@@ -2782,7 +2782,6 @@ trackway
 challenger
 pragmatically
 dynast
-quarrelsomeness
 commandery
 legalism
 centrally
@@ -2864,7 +2863,6 @@ cabalist
 unimportance
 expressionless
 catcall
-persimmon
 annexationist
 ringside
 flagpole
@@ -2882,7 +2880,6 @@ strenuously
 worrisome
 toneless
 rimless
-cuirasse
 epaulet
 conscienceless
 railing
@@ -2899,7 +2896,6 @@ unrealizable
 royally
 interparliamentary
 cupid
-gavel
 Victorianism
 aplomb
 entente
@@ -2924,7 +2920,6 @@ imaginings
 Teutonism
 librettist
 steppingstone
-iota
 misborn
 waterskin
 burlap
@@ -2936,6 +2931,7 @@ appositive
 pastrami
 kraut
 overexposure
+charism
 charismata
 beatification
 canonization
@@ -2952,7 +2948,6 @@ monsignor
 amputee
 annunciatory
 unctuousness
-hagiology
 superficially
 catchment
 individualization
@@ -2976,7 +2971,6 @@ neonatal
 ranking
 part-time
 gridlock
-flamboyance
 bimodal
 levelheaded
 levelheadedly
@@ -3005,7 +2999,6 @@ whodunit
 timeframe
 intentionally
 stowaway
-doomsayer
 pretrial
 heavy-set
 ballyhoo
@@ -3017,12 +3010,10 @@ dispatcher
 anytime
 misfire
 clincher
-wiretap
 surprisingly
 breaktime
 muppet
 nocebo
-loudmouth
 sociopathological
 dupery
 crackpot
@@ -3082,7 +3073,6 @@ bloody-minded
 bloody-mindedness
 painfully
 interventionism
-therein
 governor-general
 correctly
 unconditionally
@@ -3109,8 +3099,6 @@ indefiniteness
 unambiguously
 noncompliance
 registrant
-linguistically
-
 unsympathetic
 megaproject
 astounding
@@ -3122,7 +3110,6 @@ upturn
 functionally
 purely
 woefully
-decisiveness
 sparseness
 densely
 separator
@@ -3132,7 +3119,6 @@ routinization
 appropriable
 showpiece
 cultigen
-truckload
 self-congratulatory
 brainchild
 coerciveness
@@ -3170,14 +3156,13 @@ delapidation
 definitional
 skeletonization
 self-organization
-undernutrition
 newsprint
 synergism
 patel
 self-protection
 appointee
 backland
-undersea
+headhunting
 headhunter
 jigger
 pauperization
@@ -4640,3 +4625,5 @@ oneupmanship
 replenished
 elastance
 ravaging
+fecklessness
+ponytail
