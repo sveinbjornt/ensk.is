@@ -285,7 +285,7 @@ weird n. forlög; l. göldróttur; nornalegur, leyndardómsfullur, undarlegur; [
 welcome l. velkominn; [~ news] fagnaðartíðindi; [you are ~ to it] yður er það velkomið; [to make (to bid) ~] bjóða velkominn, fagna; n. fagnaðarviðtökur; s. bjóða velkominn, fagna komu e-s
 wold n. gul litunarjurt
 weld s. sjóða (hnita) saman (járn); n. gul litunarjurt
-welding n. samsuða
+welding n. samsuða, rafsuða, logsuða, málmsuða
 welfare n. velferð, hamingja, heill ([the ~ of nations])
 welkin n. himinhvelfing, himinn (í skáldskap)
 well n. lind, uppspretta; brunnur; ft. heilsubrunnur; s. spretta upp, renna, vella
@@ -297,7 +297,7 @@ well-apparelled l. vel búinn
 wellbeing n. vellíðan
 wellborn l. af góðum ættum
 well-bred l. vel uppalinn, siðaður
-well-doer n. réttlátur maður
+well-doer n. réttlátur maður, góðgjörðamaður
 well-doing n. vellíðan; ráðvendni
 well-favoured l. fríður
 well-intentioned l. velviljaður
