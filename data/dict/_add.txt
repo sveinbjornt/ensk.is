@@ -639,12 +639,14 @@ Armenian l. armenskur, frá Armeníu; n. Armeni; armenska
 Aruba n. Arúba (eyja í Karíbahafi)
 Australia n. Ástralía
 Australian l. ástralskur, frá Ástralíu; n. Ástrali, Ástralíumaður
-Azerbaijan n. Aserbaídsjan
+Azerbaijan n. Aserbaísjan, Aserbaídsjan
+Azerbaijani n. Aseri, Aserbaísjani
 Bahamas n. Bahamaeyjar
 Bahrain n. Barein
 Bangladesh n. Bangladess
 Barbados n. Barbados
 Belarus n. Hvíta-Rússland, Belarús
+Belarussia n. Hvíta-Rússland, Belarús
 Belarussian l. hvítrússneskur; n. Hvítrússi; hvítrússneska (tungumál)
 Belorussian l. sjá %[Belarussian]%
 Belize n. Belís
@@ -782,7 +784,9 @@ Mexican l. mexíkóskur, mexíkanskur; n. Mexíkói, Mexíkani
 Micronesia n. Míkrónesía
 Micronesian l. míkrónesískur; n. Míkrónesíumaður, Míkrónesi
 Moldova n. Moldóva
+Moldavia n. Moldóva
 Moldovan l. moldóvskur; n. Moldóvi
+Moldavian l. moldóvskur; n. Moldóvi
 Monaco n. Mónakó
 Mongolia n. Mongólía
 Montenegro n. Svartfjallaland
@@ -2349,6 +2353,7 @@ metalworking n. málmsmíði; málmvinnsla
 bicameral l. tveggja deilda; með tvær þingdeildir ([~ legislature])
 bicameralism n. sú stefna að skipta löggjafarþingi í tvær deildir
 airflow n. loftflæði, loftstreymi
+mêlée n. átök eða bardagi í návígi ([~ combat])
 melee n. átök eða bardagi í návígi ([~ combat])
 copycat n. eftirherma, hermikráka
 fin de siècle n. lok aldarinnar, aldalok (úr frönsku)
@@ -3339,7 +3344,8 @@ roadside n. vegkantur; l. á vegkanti
 intelligently ao. gáfulega, vitsmunalega, skynsamlega
 unrealistic l. óraunhæfur, óraunsær
 undergarment n. undirfatnaður, undirföt, nærfatnaður, kyrtill
-counterrevolution n. gagnbylting
+counter-revolution n. gagnbylting
+counter-revolutionary l. gagnbyltingar-
 professoriate n. prófessorastétt
 ghetto n. gettó, fátækrahverfi; Gyðingahverfi
 underclass n. undirstétt
@@ -6300,6 +6306,7 @@ capacitance n. rýmd, rafrýmd, rafhleðsla
 Jesus n. Jesús; uh. Jesús!
 computerize s. tölvuvæða
 computerized l. tölvuvæddur
+computerization n. tölvuvæðing
 jizz s. brunda; n. brundur, sæði, sáðvökvi
 biomechanics n. ft. lífaflfræði
 biomechanical l. lífaflfræðilegur
@@ -6381,3 +6388,10 @@ aimlessness n. stefnuleysi, tilgangsleysi, markmiðsleysi
 floriate s. skreyta með blómum
 floriated l. skreyttur með blómum
 floriation n. blómaskreyting
+incredibly ao. ótrúlega
+UN n. ft. Sameinuðu þjóðirnar (stytt. á [United Nations])
+United Nations n. ft. Sameinuðu þjóðirnar
+POW n. stríðsfangi (stytt. á [prisoner of war])
+arteriosclerosis n. slagæðaherðing
+Crimea n. Krímea, Krímskagi
+unintentionally ao. óviljandi, ekki af ásettu ráði
