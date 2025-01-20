@@ -740,9 +740,9 @@ worktable n. vinnuborð, saumaborð
 workwoman n. verkakona; saumakona
 world n. veröld, heimur; jarðríki; [the end of the ~] heimsendir; [would go to the ~s' end] veröldina á enda; [in the ~] í heiminum; (oft aðeins til áherslu): [nothing in the ~] alls ekkert; [what in the ~ am I to do?] hvað á ég að gera?; [all precautions in the ~] allar hugsanlegar varúðarreglur; [citizen of the ~] heimsborgari; [~ without end] eilíflega
 world-famous l. heimsfrægur
-worldliness n. veraldlegur hugsunarháttur, veraldleiki
+worldliness n. veraldleiki, veraldlegur hugsunarháttur
 worldling n. þessa heims barn, heimsbarn
-worldly l. veraldlegur; tímanlegur, stundlegur ([~ ambition])
+worldly l. veraldlegur ([~ ambition])
 worldly-minded l. veraldlega hugsandi
 world-renowned l. heimsfrægur
 worm n. ormur; maðkur; skrúfugangur; s. draga hægt (út [out]); [~ oneself into] smeygja sér inn í

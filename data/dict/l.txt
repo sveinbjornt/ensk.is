@@ -690,18 +690,17 @@ littoral l. strandlegur, strand-; n. strandlendi, strönd
 liturgic l. sem lýtur að tíðagerð eða helgisið
 liturgical l. sem lýtur að tíðagerð eða helgisið
 liturgy n. messugerðartilhögun, helgisiður, tíðagerð
-live s. lifa; búa, eiga heima; [~ a virtuous life] lifa dyggðugu lífi; [~ by (on, upon)] lifa af; [~ down a calumny] ósanna bakmælgi með grandvörum lifnaði; [~ on] lifa á e-u; [~ out] afbera ([~ out a storm]); [~ up to one's income] lifa eftir efnum; l. lifandi; fjörugur
+live s. lifa; búa, eiga heima; [~ a virtuous life] lifa dyggðugu lífi; [~ by (on, upon)] lifa af; [~ down a calumny] ósanna bakmælgi með grandvörum lifnaði; [~ on] lifa á e-u; [~ out] afbera ([~ out a storm]); [~ up to one's income] lifa eftir efnum; l. lifandi; fjörugur; í beinni útsendingu
 livestock n. kvikfénaður, búfé
 liveable l. sem líft er í; viðunanlegur, bærilegur; [~ with people] sem hægt er að lynda við
 livelihood n. lífsuppeldi; lífsviðurværi, atvinna; [to earn (gain, get) one's ~] hafa ofan af fyrir sér
 liveliness n. fjör
 lively l. fjörugur; fjörlegur
 livelong l. liðlangur; [the ~ day] liðlangan daginn
-liver n. lifandi; íbúi; [a good ~] dyggðugur maður; [loose ~] léttúðugur maður
-liver n. lifur
+liver n. lifur (líffæri); lifandi; íbúi; [a good ~] dyggðugur maður; [loose ~] léttúðugur maður
 liver oil n. þorskalýsi
 liverwort n. lifrarjurt
-liveried l. klæddur í prjónabúning
+liveried l. skrautklæddur; í einkennisbúningi; klæddur í prjónabúning
 livery n. afsal (fasteignar); afsalsbréf; skrautlegur þjónsbúningur; einkennisbúningur; s. klæða í einkennisbúning; skreyta
 livid l. blár (sem af mari); blýblár
 lividity n. blámi, blýlitur

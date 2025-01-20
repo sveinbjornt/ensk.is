@@ -312,9 +312,9 @@ bedeck s. þekja, prýða
 bedew s. döggva, væta
 bedim s. myrkva (augun, sálina)
 bedizen s. glysbúa, dubba
-Bedlam n. vitfirringaspítali í Lundúnum
+Bedlam n. vitfirringaspítali í Lundúnum; glundroði, vitfirring
 Bedlamite n. vitfirringur; l. vitskertur, vitlaus
-bedouin n. Bedúíni
+Bedouin n. Bedúíni
 bedust s. gera rykugan
 bedraggle s. ata, káma
 bee n. býfluga
@@ -323,9 +323,9 @@ beeline n. bein lína
 beech n. beykitré
 beech tree n. beykitré
 beechen l. beyki- ([~ wood]); gerður úr beykitré
-beef n. uxakjöt; ft. [beeves] uxar
+beef n. nautakjöt, uxakjöt; ft. [beeves] uxar
 beefsteak n. nautasteik
-beefy l. kjötmikill, vöðvamikill, kröftugur
+beefy l. kjötmikill; vöðvamikill, kröftugur
 beer n. bjór, öl
 beery l. bjórkenndur; ölvaður (af bjór)
 beestings n. ft. broddur úr nýbæru; [curds of ~] ábristir
@@ -333,18 +333,18 @@ beet n. e.k. rófa; [white ~] sykurrófa
 beetroot n. sykurrófa, rauðrófa
 beetle n. bjalla (skorkvikindi); kylfa, sleggja; s. standa (slúta) fram
 beetle-bowed l. hvassbrýndur, loðbrýndur
-befall s. henda (e-n), vilja (e-m) til; bera við,
+befall s. henda (e-n), vilja (e-m) til; bera við
 befit s. eiga við, sæma, sóma (e-m)
 befog s. hylja í þoku
-befool s. gera gys að; draga á tálar
+befool s. gera gys að; draga á tálar, blekkja
 before fs. fyrir framan; fyrir; fram fyrir; frammi fyrir ([appear ~ the judge]); [~ Christ (BC)] fyrir Kristsburð; ao. áður ([long ~]); fyrir, á undan ([go ~]); st. áður en, fyrr en
 beforehand ao. fyrirfram; á undan; [be ~ with] verða fyrri til en; [be ~ with the world] hafa góð efni
-befoul s. saurga, ata
+befoul s. saurga, ata, spilla
 befriend s. vera (e-m) vinveittur, vera e-m hagstæður
-beg s. biðja; biðja ölmusu; skoða sem sannað ([~ the question]); [I ~ your pardon] ég bið yður fyrirgefningar; [I ~ (leave) to] ég leyfi mér að
+beg s. biðja; betla, biðja ölmusu; skoða sem sannað ([~ the question]); [I ~ your pardon] ég bið yður fyrirgefningar; [I ~ (leave) to] ég leyfi mér að
 begad uh. það veit guð
-beggar n. beiningamaður; s. gera fátækan; [it ~s all description] því verður ekki með orðum lýst
-beggarly l. aumur, vesæll, bágborinn
+beggar n. betlari, beiningamaður; s. gera fátækan; [it ~s all description] því verður ekki með orðum lýst; [it ~ all belief] því verður tæpast trúað
+beggarly l. aumur, vesæll, bágborinn, eins og betlari
 beggary n. örbirgð; [reduce to ~] koma (e-m) á vonarvöl
 beget s. geta (afkvæmi); geta af sér, valda
 begin s. byrja, hefja, byrja á e-u ([~ to do, it has begun to be done, it has been begun]); hefjast; [to ~ with] í fyrsta lagi; [he began by saying] hann byrjaði á því að segja

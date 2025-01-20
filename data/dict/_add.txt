@@ -2920,7 +2920,7 @@ unexplained l. óútskýrður, óútlistaður (sjá %[explain]%)
 geographically ao. landfræðilega
 snowmobile n. vélsleði, snjósleði
 storyline n. söguþráður
-airspace n. loftrými; lofthelgi ([we're about to enter Russian ~])
+airspace n. loftrými; lofthelgi ([we are about to enter Russian ~])
 counterattack n. gagnárás, gagnsókn; s. gera gagnárás
 taiga n. (norðlægt) barrskógabelti
 firebomb n. eldsprengja; s. sprengja með eldsprengjum
@@ -4549,7 +4549,7 @@ humourist n. sjá %[humorist]%
 cheddar n. cheddar-ostur (einnig ritað séddarostur)
 unwholesomeness n. óheilnæmni, óhollusta
 riverhead n. upptök ár
-seaport n. hafnarborg, sjávarhöfn
+seaport n. hafnarborg, sjávarhöfn, höfn við hafið, sjávarbær
 changelessness n. breytingaleysi, óbreytileiki, stöðnun
 disproportionately ao. á ósamsvarandi hátt, í óeðlilegu hlutfalli, óhóflega
 proportionately ao. hlutfallslega, á samsvarandi hátt, í eðlilegu hlutfalli
@@ -6260,7 +6260,7 @@ laryngoscopy n. barkakýlisspeglun
 gamification n. leikjavæðing, leikvæðing
 gamify s. leikjavæða, leikvæða
 allomorph n. myndbrigði
-nitrogenous l. nitur-, niturs-, köfnunarefnis-
+nitrogenous l. nitur-, niturs-, köfnunarefnis-, nitursmyndandi
 ventilated l. loftræstur, viðraður (sjá %[ventilate]%)
 decagon n. tíhyrningur
 decagonal l. tíhyrndur
@@ -6323,7 +6323,7 @@ truckload n. bílfarmur, bílhlass
 linguistically ao. málvísindalega, málfræðilega
 therein ao. þar í, í því
 loudmouth n. hávær blaðurskjóða
-wiretap n. hlerun (á fjarsamskiptum)
+wiretap n. hlerun (á fjarsamskiptum); s. hlera (fjarsamskipti), koma upp hlerunarbúnaði
 doomsayer n. bölsýnismaður, dómsdagsspámaður, bölsýnisspámaður
 flamboyance n. glampi; skrúði; litadýrð
 hagiology n. helgisagnafræði
@@ -6332,3 +6332,45 @@ gavel n. fundarhamar, hamar dómara eða uppboðshaldara
 cuirasse n. brynja, herklæði
 persimmon n. persimóna, persimónía (aldin)
 quarrelsomeness n. þrætugirni, deilugirni
+ambulant l. fær um að ganga, göngufær; n. göngumaður
+Manchukuo n. Mandsjúkó (leppríki Japans í Norðaustur-Kína á tímum seinni heimsstyrjaldar)
+world war n. heimsstyrjöld
+WW1 n. fyrri heimsstyrjöld, 1914-1918 ([World War One])
+WW2 n. seinni heimsstyrjöld, 1939-1945 ([World War Two])
+WWI n. fyrri heimsstyrjöld, 1914-1918 ([World War One])
+WWII n. seinni heimsstyrjöld, 1939-1945 ([World War Two])
+bawdiness n. klúrleiki, klúrheit
+ill-educated l. illa menntaður, illa upp alinn, illa fræddur
+curtailment n. stytting, skerðing, minnkun
+philanderer n. flagari, daðrari
+icosahedron n. tvítugflötungur (tuttugu hliða teningur)
+cricketer n. krikketspilari, krikketmaður
+unalike l. ólíkur, ekki líkur
+escapism n. flótti frá veruleikanum, flótti frá hversdagsleikanum
+use case n. notkunartilfelli, notkunartilvik
+Buddhahood n. búddadómur
+pathophysiology n. lífeðlismeinafræði
+aphagia n. kyngingarstol
+gastrointestinal l. maga- og garna-
+enchanted l. töfraður; heillaður, gagntekinn, hrifinn, frá sér numinn
+disenchanted l. leystur úr álögum; fráhverfur, vonsvikinn
+gobbledygook n. þvæla, þvaður, bull, hrognamál, óskiljanleg þvæla
+indescribably ao. ólýsanlega
+dendrologist n. trjáfræðingur
+cheerless l. gleðisnauður, gleðilaus, dapur
+pullover n. peysa
+ordinarily ao. venjulega, yfirleitt
+motherless l. móðurlaus
+emotionless l. tilfinningalaus, tilfinningasnauður
+favoritism n. sjá %[favouritism]%
+eye-socket n. augntóft
+welder n. málmsuðumaður
+workbench n. vinnubekkur, vinnuborð
+aperitif n. fordrykkur, lystauki
+gallstone n. gallsteinn
+southeast n. suðaustur
+southeastern l. suðaustlægur
+southwest n. suðvestur
+southwestern l. suðvestlægur
+criminally ao. glæpsamlega
+leather-bound l. leðurbundinn
