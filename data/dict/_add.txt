@@ -2910,11 +2910,12 @@ microbiology n. örverufræði
 microbiological l. örverufræðilegur
 microbiologist n. örverufræðingur
 defoliate s. aflaufga
-defoliant n. aflaufgunarefni; aflaufgunartæki
+defoliant n. aflaufgari; aflaufgunarefni; aflaufgunartæki
 desertification n. landeyðing, eyðimerkurmyndun
 superhero n. ofurhetja
 optometer n. sjónmælir
 optometry n. sjónmæling
+optometric l. sjónmælinga-
 optometrist n. sjónmælingafræðingur
 mystique n. dulúð
 petit bourgeois n. (úr frönsku) smáborgari; l. smáborgaralegur
@@ -3216,7 +3217,7 @@ accelerant n. hraðall (e-ð sem hraðar framvindu eða breytingu)
 delusional l. haldinn hugvillu eða ranghugmyndum
 inflationary l. verðbólguhvetjandi, verðbólgumyndandi, verðbólguvaldandi; verðbólgu-
 unhistorical l. ósögulegur
-psychoactive l. geðvirkur, sem hefur áhrif á meðvitund
+psychoactive l. geðvirkur, sem hefur áhrif á hugvitund
 sanctum n. athvarf, fylgsni
 shaman n. seiðmaður, töfralæknir, galdralæknir, sjamani
 shamanic l. seiðlækninga-, galdralækninga-, sjamanískur
@@ -5924,8 +5925,10 @@ pantsing s. girða niður um einhvern (sem hrekkur)
 obliged l. vera í þakkarskuld við e-n, þakklátur
 muesli n. múslí
 dowel n. díll (viðarpinni fyrir samfestingar í trésmíði)
-annulled l. gerður ógildur (þ.e. samningur, gjarnan ógilding hjúskapar)
-speeding n. ofsaakstur, akstur yfir hámarkshraða
+annull s. ógilda (samning, hjónaband, o.s.frv.)
+annullation n. ógilding (samnings, hjónabands, o.s.frv.)
+annulled l. gerður ógildur (þ.e. samningur, hjónaband, o.s.frv.)
+speeding n. hraðakstur, ofsaakstur, akstur yfir hámarkshraða
 hyphenated l. (ritaður) með bandstriki
 onboarding n. byrðing (t.d. flugvélar eða báts); grunnþjálfun nýliða (t.d. í fyrirtæki)
 flatter s. veita fagurmæli, skjalla, hrósa, lofa, upphefja; að e-ð fari manni vel (um fatnað)
@@ -6346,7 +6349,7 @@ WW1 n. fyrri heimsstyrjöld, 1914-1918 ([World War One])
 WW2 n. seinni heimsstyrjöld, 1939-1945 ([World War Two])
 WWI n. fyrri heimsstyrjöld, 1914-1918 ([World War One])
 WWII n. seinni heimsstyrjöld, 1939-1945 ([World War Two])
-bawdiness n. klúrleiki, klúrheit
+bawdiness n. klúrleiki, klúrheit, dólgur
 ill-educated l. illa menntaður, illa upp alinn, illa fræddur
 curtailment n. stytting, skerðing, minnkun
 philanderer n. flagari, daðrari
@@ -6361,7 +6364,7 @@ aphagia n. kyngingarstol
 gastrointestinal l. maga- og garna-
 enchanted l. töfraður; heillaður, gagntekinn, hrifinn, frá sér numinn
 disenchanted l. leystur úr álögum; fráhverfur, vonsvikinn
-gobbledygook n. þvæla, þvaður, bull, hrognamál, óskiljanleg þvæla
+gobbledygook n. bull, hrognamál, óskiljanleg þvæla, tæknilegt þvaður
 indescribably ao. ólýsanlega
 dendrologist n. trjáfræðingur
 cheerless l. gleðisnauður, gleðilaus, dapur
@@ -6373,7 +6376,7 @@ favoritism n. sjá %[favouritism]%
 eye-socket n. augntóft
 welder n. málmsuðumaður
 workbench n. vinnubekkur, vinnuborð
-aperitif n. fordrykkur, lystauki
+aperitif n. fordrykkur; lystauki; forréttur
 gallstone n. gallsteinn
 southeast n. suðaustur
 southeastern l. suðaustlægur
@@ -6394,4 +6397,5 @@ United Nations n. ft. Sameinuðu þjóðirnar
 POW n. stríðsfangi (stytt. á [prisoner of war])
 arteriosclerosis n. slagæðaherðing
 Crimea n. Krímea, Krímskagi
-unintentionally ao. óviljandi, ekki af ásettu ráði
+unintentionally ao. óviljandi, ekki af ásettu ráði, án tilætlunar
+well-educated l. vel menntaður; vel upp alinn

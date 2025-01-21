@@ -1035,7 +1035,6 @@ WW1
 WW2
 WWI
 WWII
-ill-educated
 aphagia
 Buddhahood
 eye-socket
@@ -1049,3 +1048,6 @@ Belarussia
 Crimea
 Moldavia
 POW
+annull
+annullation
+optometric
