@@ -3506,7 +3506,7 @@ hypodermic l. sem fer undir húðina, húðbeðs-; [~ needle] sprautunál, húð
 unbelievably ao. ótrúlega
 unpredictably ao. ófyrirsjáanlega
 justifiably ao. réttlætanlega
-mafia n. mafía, glæpahringur, glæpasamtök
+mafia n. mafía, glæpahringur, glæpasamtök, skipulögð glæpastarfsemi
 mafioso n. mafíósi, glæpamaður, glæponi
 noblewoman n. aðalskona
 rumor n. sjá %[rumour]%
@@ -6296,7 +6296,7 @@ Jainism n. jaínismi (indversk trúabrögð)
 polluted l. mengaður; óhreinkaður; saurgaður; ataður
 unpolluted l. ómengaður; ósaurgaður
 rediscovery n. enduruppgötvun; endurfundur
-extensively ao. á yfirgripsmikinn eða víðtækan hátt
+extensively ao. á yfirgripsmikinn eða víðtækan hátt; í löngu máli
 hypotension n. vanþrýstingur, lágþrýstingur
 navigability n. sjófærni, skipfærni; færð
 schoolhouse n. skólahus, skólabygging
@@ -6314,7 +6314,7 @@ jizz s. brunda; n. brundur, sæði, sáðvökvi
 biomechanics n. ft. lífaflfræði
 biomechanical l. lífaflfræðilegur
 periodontitis n. tannslíðursbólga
-caramel n. karamella
+caramel n. karamella; l. karamellu-
 caramelize s. sulta, brúna, karamellísera
 caramelized l. sultaður, brúnaður, karamellíseraður ([~ potatoes])
 endocytosis n. innfrumun
@@ -6364,25 +6364,26 @@ aphagia n. kyngingarstol
 gastrointestinal l. maga- og garna-
 enchanted l. töfraður; heillaður, gagntekinn, hrifinn, frá sér numinn
 disenchanted l. leystur úr álögum; fráhverfur, vonsvikinn
-gobbledygook n. bull, hrognamál, óskiljanleg þvæla, tæknilegt þvaður
+gobbledygook n. bull, hrognamál, óskiljanleg þvæla, (tæknilegt) þvaður
 indescribably ao. ólýsanlega
 dendrologist n. trjáfræðingur
 cheerless l. gleðisnauður, gleðilaus, dapur
 pullover n. peysa
-ordinarily ao. venjulega, yfirleitt
+ordinarily ao. venjulega, yfirleitt, á venjulegum degi
 motherless l. móðurlaus
-emotionless l. tilfinningalaus, tilfinningasnauður
+emotionless l. tilfinningalaus, tilfinningasnauður, harðbrjósta
 favoritism n. sjá %[favouritism]%
 eye-socket n. augntóft
+eyesocket n. augntóft
 welder n. málmsuðumaður
 workbench n. vinnubekkur, vinnuborð
 aperitif n. fordrykkur; lystauki; forréttur
 gallstone n. gallsteinn
 southeast n. suðaustur
-southeastern l. suðaustlægur
+southeastern l. suðaustlægur, suðaustrænn
 southwest n. suðvestur
-southwestern l. suðvestlægur
-criminally ao. glæpsamlega
+southwestern l. suðvestlægur, suðvestrænn
+criminally ao. glæpsamlega, glæpalega
 leather-bound l. leðurbundinn
 leather-clad l. leðurklæddur
 rightward ao. hægra megin; til hægri
@@ -6398,4 +6399,5 @@ POW n. stríðsfangi (stytt. á [prisoner of war])
 arteriosclerosis n. slagæðaherðing
 Crimea n. Krímea, Krímskagi
 unintentionally ao. óviljandi, ekki af ásettu ráði, án tilætlunar
-well-educated l. vel menntaður; vel upp alinn
+well-educated l. vel menntaður, vel fræddur; vel upp alinn; í góðu fóstri
+organized crime n. skipulögð glæpastarfsemi, mafía
