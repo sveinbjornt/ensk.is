@@ -4911,3 +4911,6 @@ pullout
 cetus
 thalidomide
 doomerism
+anthroponymy
+onomastic
+onomastics

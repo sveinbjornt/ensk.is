@@ -3507,7 +3507,7 @@ unbelievably ao. ótrúlega
 unpredictably ao. ófyrirsjáanlega
 justifiably ao. réttlætanlega
 mafia n. mafía, glæpahringur, glæpasamtök, skipulögð glæpastarfsemi
-mafioso n. mafíósi, glæpamaður, glæponi
+mafioso n. mafíósi, meðlimur glæpasamtaka, glæpamaður, glæponi
 noblewoman n. aðalskona
 rumor n. sjá %[rumour]%
 paralyze s. lama, gera aflvana (sjá einnig %[paralyse]%)
@@ -5869,7 +5869,7 @@ mesothelioma n. miðþekjuæxli
 shackled l. fjötraður
 trashcan n. ruslafata, ruslakarfa, ruslatunna
 cellulite n. appelsínuhúð
-Manichean n. maníki (sjá %[Manicheanism]%); l. maníkískur
+Manichean n. maníki (sjá %[Manicheanism]%); l. maníkískur; sem skiptist í gott og illt
 Manicheanism n. maníkeismi (trúarbrögð)
 superparasite n. sníkilssníkill
 standoffish n. fjarlægur, dulur (í skapi), fálátur; ófélagslyndur, óvingjarnlegur

@@ -2150,9 +2150,9 @@ prompter n. áminnari, hvíslari (við sjónleik); hvatamaður
 promptitude n. skjótleiki, hvatleiki, snarræði
 promptly ao. skjótt, greiðlega
 promptness n. skjótleiki
-promulgate s. kunngjöra, birta, auglýsa
-promulgation n. auglýsing, birting
-promulgator n. kunngjörari
+promulgate s. kunngjöra, birta, auglýsa, dreifa
+promulgation n. auglýsing, birting, dreifing
+promulgator n. kunngjörari, dreifari, auglýsari
 promulge s. kunngjöra, birta, auglýsa
 prone l. liggjandi á grúfu; flatur ([fall/lie ~]); brattur; hneigður (til [to]); [~ to anger] uppstökkur, reiðigjarn
 pronely ao. á grúfu
