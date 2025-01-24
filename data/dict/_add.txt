@@ -6363,7 +6363,7 @@ pathophysiology n. lífeðlismeinafræði
 aphagia n. kyngingarstol
 gastrointestinal l. maga- og garna-
 enchanted l. töfraður; heillaður, gagntekinn, hrifinn, frá sér numinn
-disenchanted l. leystur úr álögum; fráhverfur, vonsvikinn
+disenchanted l. leystur úr álögum; fráhverfur; fallinn frá fyrri hrifningu; vonsvikinn; búinn að missa trúna á e-ð ([with])
 gobbledygook n. bull, hrognamál, óskiljanleg þvæla, (tæknilegt) þvaður
 indescribably ao. ólýsanlega
 dendrologist n. trjáfræðingur
@@ -6393,11 +6393,22 @@ floriate s. skreyta með blómum
 floriated l. skreyttur með blómum
 floriation n. blómaskreyting
 incredibly ao. ótrúlega
-UN n. ft. Sameinuðu þjóðirnar (stytt. á [United Nations])
+UN n. [the UN] Sameinuðu þjóðirnar (stytt. á [United Nations])
 United Nations n. ft. Sameinuðu þjóðirnar
 POW n. stríðsfangi (stytt. á [prisoner of war])
 arteriosclerosis n. slagæðaherðing
 Crimea n. Krímea, Krímskagi
 unintentionally ao. óviljandi, ekki af ásettu ráði, án tilætlunar
-well-educated l. vel menntaður, vel fræddur; vel upp alinn; í góðu fóstri
+well-educated l. vel menntaður, vel fræddur; vel upp alinn; vel fóstraður, í góðu fóstri
 organized crime n. skipulögð glæpastarfsemi, mafía
+stochastically ao. af slembni, á tilviljanakenndan hátt, eftir hendingu
+Paleozoic n. fornlífsöld; l. fornlífsaldar-
+mutilated l. limlestur, lemstraður; skemmdur
+larvae n. ft. lirfur (sjá %[larva]%)
+cacti n. ft. kaktusar (sjá %[cactus]%)
+hydrography n. vatnamælingar, sjómælingar
+hydrographic l. vatnamælinga-, sjómælinga-
+paresis n. máttminnkun, slýni, vöðvamáttleysi, hreyfiskerðing
+cardiomyopathy n. hjartavöðvakvilli
+hypoxia n. súrefnisskortur
+hypoxic l. súrefnisskorts-
