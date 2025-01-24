@@ -1248,13 +1248,13 @@ buoyant l. léttur í vatni; léttlyndur, vongóður
 bur n. sjá %[burr]%
 burbot n. fisktegund
 burden n. byrði; burðarhæfi skips, rúmtak; viðkvæði; aðalefni (í bók, ræðu eða kvæði); [~ of proof] sönnunarskylda; [beast of ~] burðardýr; s. leggja byrði á; íþyngja
-burdensome l. örðugur, þungbær
-bureau n. skrifborð (með skúffum); (stjórnar)skrifstofa
+burdensome l. þungbær, örðugur, sem er byrði
+bureau n. skrifborð (með skúffum); skrifstofa, stjórnarskrifstofa
 bureaucracy n. skrifræði, skrifstofustjórn, skrifstofuveldi; embættismenn; skriffinnska
-bureaucrat n. skrifstofuembættismaður, skrifræðismaður, skriffinnskumaður, kerfiskarl
-bureaucratism n. skriffinnska
+bureaucrat n. skrifstofuembættismaður, skrifræðismaður, skriffinnskumaður, kerfiskarl, kerfiskona
+bureaucratism n. skriffinnska, skriffinnskustefna
 burgess n. borgari
-burgh n. kaupstaður, bær (í Skotlandi)
+burgh n. kaupstaður, bær (í Skotlandi, t.d. %[Edinburgh]%)
 burgher n. borgari
 burglar n. innbrotsþjófur
 burglary n. innbrot, innbrotsþjófnaður

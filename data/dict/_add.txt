@@ -6289,8 +6289,8 @@ Comte n. greifi (í Frakklandi)
 Comtesse n. greifynja (í Frakklandi)
 cecum n. botnristill
 fella n. sjá %[fellow]%
-blubbery ao. eins og spik (í áferð, útliti, o.s.frv.)
-shoelaces n. ft. skóreimar; [tie one's ~] reima skóna
+blubbery l. spik-; eins og spik (í áferð, útliti, o.s.frv.)
+shoelaces n. ft. skóreimar; [tie one's ~] reima skóna sína
 magnifying glass n. stækkunargler
 Jainism n. jaínismi (indversk trúabrögð)
 polluted l. mengaður; óhreinkaður; saurgaður; ataður
@@ -6300,7 +6300,7 @@ extensively ao. á yfirgripsmikinn eða víðtækan hátt; í löngu máli
 hypotension n. vanþrýstingur, lágþrýstingur
 navigability n. sjófærni, skipfærni; færð
 schoolhouse n. skólahus, skólabygging
-Balto-Slavic l. baltóslavneskt (tungumál)
+Balto-Slavic l. baltóslavneskt (tungumál); n. baltóslavneska
 Mephistopheles n. Mefistófeles (djöfull)
 Mephistophelian l. djöfullegur (sjá %[Mephistopheles]%)
 chummy l. vingjarnlegur, kumpánalegur
@@ -6399,7 +6399,7 @@ POW n. stríðsfangi (stytt. á [prisoner of war])
 arteriosclerosis n. slagæðaherðing
 Crimea n. Krímea, Krímskagi
 unintentionally ao. óviljandi, ekki af ásettu ráði, án tilætlunar
-well-educated l. vel menntaður, vel fræddur; vel upp alinn; vel fóstraður, í góðu fóstri
+well-educated l. vel menntaður, vel fræddur; vel upp alinn, vel fóstraður
 organized crime n. skipulögð glæpastarfsemi, mafía
 stochastically ao. af slembni, á tilviljanakenndan hátt, eftir hendingu
 Paleozoic n. fornlífsöld; l. fornlífsaldar-
@@ -6412,3 +6412,7 @@ paresis n. máttminnkun, slýni, vöðvamáttleysi, hreyfiskerðing
 cardiomyopathy n. hjartavöðvakvilli
 hypoxia n. súrefnisskortur
 hypoxic l. súrefnisskorts-
+hemo- fsk. blóð- (t.d. %[hemoglobin]%, %[hemophilia]%)
+raper n. nauðgari; reipigerðarmaður (í Norður-Englandi)
+anthroponymy n. mannanafnafræði, mannsnafnafræði, þau fræði sem fást við mannanöfn og uppruna þeirra
+doomerism n. bölsýni, dómsdagstrú
