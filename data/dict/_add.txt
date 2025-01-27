@@ -463,6 +463,7 @@ bullshit n. bull, kjaftæði, þvæla; nautaskítur; s. bulla, halda fram kjaft�
 shades n. ft. skyggð gleraugu, sólgleraugu
 econometric l. hagmælinga-, hagtölfræði-
 econometrics n. ft. hagmælingar; hagtölfræði
+econometrician n. hagtölfræðingur, sérfræðingur í hagmælingum
 cromulent l. ásættanlegur (grínorð úr teiknimyndaþáttunum [The Simpsons])
 cretin n. kretíni, kretíndvergur, kyrkivaxinn maður (vanþroska maður með óstarfhæfan skjaldkirtil); bjáni, asni, fífl, hálfviti, fáviti
 cretinism n. kyrkivöxtur, kretínismi (meðfæddur galli sem heftir starfsemi skjaldkirtils)
@@ -6416,3 +6417,8 @@ hemo- fsk. blóð- (t.d. %[hemoglobin]%, %[hemophilia]%)
 raper n. nauðgari; reipigerðarmaður (í Norður-Englandi)
 anthroponymy n. mannanafnafræði, mannsnafnafræði, þau fræði sem fást við mannanöfn og uppruna þeirra
 doomerism n. bölsýni, dómsdagstrú
+tastebuds n. ft. bragðlaukar
+IVF n. glasafrjóvgun (stytt. á [in vitro fertilization])
+durian n. dáraaldin (asískur ávöxtur)
+loveless n. ástlaus, ástarlaus ([theirs was a ~ marriage])
+lovelessness n. ástleysi, ástarleysi, kærleiksleysi
