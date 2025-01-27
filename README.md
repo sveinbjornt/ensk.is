@@ -31,7 +31,7 @@ presented here is based on the
 edited by Þorsteinn Þorsteinsson.
 
 The current incarnation of the dictionary has been heavily edited and
-updated extensively to accord with modern Icelandic orthography.
+extensively updated to accord with modern Icelandic orthography.
 Many additions were made to bring the vocabulary into the 21st
 century. Various errors in the original text were also corrected.
 
@@ -83,8 +83,7 @@ python verify.py
 
 This dictionary itself is in the public domain within all countries where permitted.
 
-The authors waive copyright and related rights in the work worldwide
-through the
+The authors waive copyright and related rights in the work worldwide through the
 [Creative Commons 0 (CC0) 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
 public domain dedication.
 

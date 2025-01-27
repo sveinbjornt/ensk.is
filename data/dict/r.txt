@@ -775,9 +775,9 @@ renitent l. mótstöðu-; harður; mótþróafullur
 rennet n. hleypir, kæsir; e.k. epli
 renounce s. hafna, afneita, afsala sér; vilja ekki kannast við; gegna ekki (lit í spilum)
 renouncement n. höfnun, neitun, afneitun
-renovate s. endurnýja; gera við
-renovation n. endurnýjun; viðgerð
-renovator n. endurnýjari
+renovate s. endurnýja; endurbæta; gera við; gera upp
+renovation n. endurnýjun; endurbót; viðgerð
+renovator n. endurnýjari; endurbætari
 renown n. frægð, orðstír
 renowned l. frægur, nafntogaður
 rent n. leiga, húsleiga; afgjald, eftirgjald ([~ of land]); rifa; sprunga, glufa; s. leigja, selja á leigu; taka á leigu; vera leigður

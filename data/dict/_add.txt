@@ -3077,8 +3077,8 @@ anyone fn. hver sem er, nokkur, neinn
 peacetime n. friðartími, friðartímar; [in ~] á friðartímum
 light industry n. léttiðnaður
 heavy industry n. þungaiðnaður
-inter alia ao. meðal annars (úr latínu)
-ceteris paribus ao. að öllu jöfnu (úr latínu)
+inter alia ao. meðal annars, þar á meðal (úr latínu)
+ceteris paribus ao. að öllu jöfnu, allt verandi jafnt (úr latínu)
 et cetera ao. og svo framvegis (úr latínu)
 etc ao. stytt. á %[et cetera]%
 marlin n. oddnefur, marlín, merlingur (fisktegund)
@@ -3183,14 +3183,14 @@ lunchtime n. hádegisverðarhlé
 birdlike l. eins og fugl, fuglalegur
 decrypt s. dulráða, afkóða
 decryption n. dulráðning, afkóðun
-lesion n. löskun, vefskemmd, sár
-randomly ao. handahófslega, af handahófi
+lesion n. löskun, sár, vefskemmd
+randomly ao. handahófslega, af handahófi, af slembni
 realtime n. rauntími; l. í rauntíma ([~ video compression])
 squiggle n. krot, hrip; s. krota, hripa, skrifa flausturslega; engjast, hrökkvast
 cropland n. ræktunarland, uppskeruland
 emancipatory l. frelsandi (úr ánauð)
-aggressiveness n. árásargirni, árásargirnd, árásarhneigð
-aggressively ao. á árásargjarnan hátt
+aggressiveness n. árásargirni, árásargirnd, árásarhneigð, mannýgð
+aggressively ao. á árásargjarnan hátt, af árásargirni
 longboat n. langskip; árabátur; björgunarbátur
 Caucasian n. Kákasusmaður; manneskja sem er hvít á hörund; l. kákasískur, ættaður úr Kákasusfjöllum; hvítur á hörund
 carcinogen n. krabbameinsvaldur, krabbameinsvaldandi efni
@@ -5295,7 +5295,7 @@ morpheme n. myndan, morfem
 spectrogram n. litrófsmynd, rófmynd, rófrit, litrófsrit
 pentagram n. fimmhyrnd stjarna
 normative l. gildishlaðinn
-illiberalism n. ófrjálslyndi
+illiberalism n. ófrjálslyndi; þröngsýni; níska, skortur á örlæti
 firestorm n. eldhaf, eldhríð
 scepter n. sjá %[sceptre]%
 peacekeeper n. friðargæsluliði, friðargæslumaður, e-r sem heldur friðinn
@@ -6419,6 +6419,16 @@ anthroponymy n. mannanafnafræði, mannsnafnafræði, þau fræði sem fást vi�
 doomerism n. bölsýni, dómsdagstrú
 tastebuds n. ft. bragðlaukar
 IVF n. glasafrjóvgun (stytt. á [in vitro fertilization])
-durian n. dáraaldin (asískur ávöxtur)
-loveless n. ástlaus, ástarlaus ([theirs was a ~ marriage])
-lovelessness n. ástleysi, ástarleysi, kærleiksleysi
+durian n. dáraaldin (illa lyktandi asískur ávöxtur)
+loveless n. ástlaus, ástarlaus ([theirs was a ~ marriage]); kærleikslaus
+lovelessness n. ástleysi, ástarleysi; kærleiksleysi
+freethinking l. fríþenkjandi, frjálst þenkjandi, fríhyggju-
+comparator n. samberi
+renovated l. endurnýjaður, endurbættur, sem búið er að gera upp
+megacity n. risastórborg, risaborg
+megalopolis n. risastórborg; samsteypa stórborga; risastórt samvaxið borgarsvæði
+Tahiti n. Tahítí (eyja í Kyrrahafinu)
+elderberry n. ylliber
+neutron n. nifteind
+positron n. jáeind
+Budapest n. Búdapest (höfuðborg Ungverjalands)
