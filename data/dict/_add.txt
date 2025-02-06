@@ -573,6 +573,8 @@ motivation n. hvati, hvatning, hvöt
 motivational l. hvata-, hvatningar-; [~ speaker] hvatningarræðumaður
 disturbed l. truflaður, ónáðaður; raskaður
 immunology n. ónæmisfræði
+immunologist n. ónæmisfræðingur
+immunological l. ónæmisfræðilegur, ónæmisfræði-
 aluminium n. ál
 aluminum n. ál (BNA)
 hardwood n. harðviður; gegnheill viður; l. harðviðar-
@@ -3891,7 +3893,7 @@ triangulation n. þríhyrningamæling
 balaclava n. lambhúshetta (kennd við bæinn Balaklava á Krímskaga)
 Venetian l. feneyskur, frá Feneyjum; n. Feneyingur
 spay s. gera ófrjóa, taka úr sambandi, fjarlægja eggjastokka og leg
-sybaritic l. sællífur
+sybaritic l. sællífur; sælulífs-, munaðarlífs-
 duopoly n. tvíokun, tvíkeppni
 hallucinate s. ofskynja, sjá ofsjónir, heyra ofheyrnir, kvikskynja
 troika n. þríeyki, þremenningabandalag; rússneskur vagn sem dreginn er af þremur hestum
@@ -6415,7 +6417,7 @@ hypoxia n. súrefnisskortur
 hypoxic l. súrefnisskorts-
 hemo- fsk. blóð- (t.d. %[hemoglobin]%, %[hemophilia]%)
 raper n. nauðgari; reipigerðarmaður (í Norður-Englandi)
-anthroponymy n. mannanafnafræði, mannsnafnafræði, þau fræði sem fást við mannanöfn og uppruna þeirra
+anthroponymy n. mannanafnafræði, þau fræði sem fást við mannanöfn og uppruna þeirra
 doomerism n. bölsýni, dómsdagstrú
 tastebuds n. ft. bragðlaukar
 IVF n. glasafrjóvgun (stytt. á [in vitro fertilization])
@@ -6425,10 +6427,16 @@ lovelessness n. ástleysi, ástarleysi; kærleiksleysi
 freethinking l. fríþenkjandi, frjálst þenkjandi, fríhyggju-
 comparator n. samberi
 renovated l. endurnýjaður, endurbættur, sem búið er að gera upp
-megacity n. risastórborg, risaborg
+megacity n. risastórborg, gríðarlega stór borg, risaborg, ofurborg
 megalopolis n. risastórborg; samsteypa stórborga; risastórt samvaxið borgarsvæði
 Tahiti n. Tahítí (eyja í Kyrrahafinu)
 elderberry n. ylliber
 neutron n. nifteind
 positron n. jáeind
 Budapest n. Búdapest (höfuðborg Ungverjalands)
+cul-de-sac n. botngata, blindgata, botnlangagata
+dead end n. botngata, blindgata, botnlangagata
+boson n. bóseind, bósóna
+particulate l. agna-; n. ögn; [~ matter] agnaefni
+vertebrae n. ft. hryggjarliðir (sjá %[vertebra]%)
+catamite n. ungur drengur í kynferðislegu sambandi við eldri mann

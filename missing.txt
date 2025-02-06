@@ -831,7 +831,6 @@ polyptych
 vibrant
 overlordship
 liminal
-megacity
 mangonel
 unbelievable
 tantalizing
@@ -1311,7 +1310,6 @@ proactive
 proactively
 upend
 wildlife
-particulate
 revamp
 resilience
 gentrify
@@ -1517,6 +1515,7 @@ syndicalist
 tokenism
 overreliance
 motorcar
+deli
 delicatessen
 point-blank
 initiator
@@ -2119,6 +2118,7 @@ statist
 syndicalism
 monocephalic
 barrio
+oriented
 disorient
 disorientate
 disoriented
@@ -3509,6 +3509,7 @@ neurotypical
 muted
 unnerving
 mandated
+probiotic
 probiotics
 leaderboard
 bullseye
@@ -4743,7 +4744,6 @@ ragpicker
 vulgarization
 suspenseful
 girder
-positron
 tightly
 slurry
 grassplot
@@ -4875,7 +4875,6 @@ sycophantism
 military-industrial
 putschist
 cannibalization
-cul-de-sac
 bombing
 confiscatory
 carmaker
@@ -4941,3 +4940,24 @@ logorrhea
 farmworker
 spoutiness
 hazing
+lingua franca
+dead end (endurskoða)
+basting
+quokka
+theonym
+gamesmanship
+babu
+babushka
+Beowulf
+illustrator
+animated
+reanimated
+rumbling
+grumbling
+staggered
+Sardinia
+scalability
+spermatogonia
+sandman
+pneuma-
+volumetric
