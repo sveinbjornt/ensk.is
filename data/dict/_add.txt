@@ -2860,7 +2860,8 @@ byproduct n. aukaafurð
 banal l. ómerkilegur, lítilsverður, hversdagslegur
 banality n. hversdagsleiki, ómerkilegheit ([the ~ of existence]); hversdagslegt orðalag, þreytt klisja
 maelstrom n. hringiða; glundroði
-pufferfish n. lundafiskur
+pufferfish n. lundafiskur, kúlufiskur
+blowfish n. kúlufiskur
 fugu n. lundafiskur
 loan shark n. okurlánari
 idealistic l. hugsjónalegur, hugsjóna-; hugsæis-, hughyggju-; óraunhæfur
@@ -6440,3 +6441,16 @@ boson n. bóseind, bósóna
 particulate l. agna-; n. ögn; [~ matter] agnaefni
 vertebrae n. ft. hryggjarliðir (sjá %[vertebra]%)
 catamite n. ungur drengur í kynferðislegu sambandi við eldri mann
+Ulysses n. Ódysseifur
+Sardinia n. Sardinía (eyja í Miðjarðarhafi)
+illustrator n. myndskreytir, teiknari
+Beowulf n. Bjólfur; Bjólfskviða (fornenskt miðaldakvæði)
+spermatogonia n. ft. sáðstofnfrumur (sjá %[spermatogonia]%)
+spermatogonium n. sáðstofnfruma
+soapbox n. ræðustóll, predikunarstóll
+peafowl n. ft. páfuglar
+testes n. ft. eistu
+mescaline n. meskalín (ofskynjunarlyf)
+pegmatite n. pegmatít (e.k. granít)
+coccidiosis n. hníslasótt
+quokka n. stutthalafía (e.k. lítil kengúra)
