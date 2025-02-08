@@ -155,7 +155,7 @@ abusively ao. ranglega; með skömmum
 abusiveness n. hrakyrði, skammir
 abut s. liggja (að [on, upon])
 abutment n. endastólpi; brúarstöpull
-abuttals n. ft. landamerki
+abuttals nft. landamerki
 abysm n. undirdjúp; víti
 abysmal l. botnlaus; hræðilegur
 abyss n. hyldýpi, undirdjúp; hyldýpisgjá
@@ -280,7 +280,7 @@ acolyte n. kirkjuþjónn, fylgismaður
 aconite n. eiturjurt
 acorn n. akarn
 acoustic l. heyrnarlegur; hljómlegur
-acoustics n. ft. hljómfræði
+acoustics nft. hljómfræði
 acquaint s. láta vita (um e-ð [with]); [~ oneself with] kynna sér; [become ~ed with] kynnast e-u
 acquaintance n. kunningsskapur; viðkynning; kynni (af e-m [with]); kunningi; [make the ~ of] kynnast e-u eða e-m
 acquaintanceship n. kunningsskapur
@@ -491,13 +491,13 @@ aery n. arnarhreiður
 aeriform l. loftkynjaður
 aerolite n. loftsteinn
 aeronaut n. loftfari
-aeronautics n. ft. loftsiglingar
+aeronautics nft. loftsiglingar
 aeroplane n. flugvél
 aerostat n. loftfar
 aeruginous l. eirgrænn
 aerugo n. eirgræna, eirryð
 aesthetic l. fagurfræðilegur; smekkvís
-aesthetics n. ft. fagurfræði, listafræði
+aesthetics nft. fagurfræði, listafræði
 aestival l. sumarlegur
 aestivation n. sumardá
 aestivate s. liggja í sumardái
@@ -567,7 +567,7 @@ aftergrass n. há, seinni slægja
 aftermath n. afleiðing, tímabil eftir e-n atburð
 aftermost l. aftastur, næstur skutnum
 afternoon n. eftirmiðdagur; [in the ~] síðdegis
-afterpains n. ft. eftirhríðir
+afterpains nft. eftirhríðir
 afterthought n. síðari hugsun, eftirhyggja
 afterwards ao. síðar, seinna, eftir á
 afterwise l. eftirhygginn
@@ -581,7 +581,7 @@ age n. aldur; ævi; mannsaldur, fullorðinsaldur, kynslóð; tímabil, öld ([th
 aged l. aldraður; [~ fifteen] 15 ára
 agency n. milliganga; tilhlutun ([by the ~ of]); áhrif; kraftur; umboð; umboðsskrifstofa; [Reuter's ~] fréttastofa Reuters
 agent n. gjörandi; orsök; undirrót; afl; umboðsmaður, erindreki
-agenda n. ft. umræðuefni á fundi, fundarskrá; minnisbók
+agenda nft. umræðuefni á fundi, fundarskrá; minnisbók
 agglomerate s. hrúga saman; safnast saman; n. samansafn
 agglomeration n. samansafn; þéttbýlisstaður
 agglutinate s. líma saman; l. límdur (við [to])
@@ -842,7 +842,7 @@ amazement n. undrun
 amazing l. furðanlegur; frábær, magnaður (óforml.)
 amazingly ao. furðanlega, mjög
 Amazon n. skjaldmey, herská kona
-ambages n. ft. vafningar, vífilengjur
+ambages nft. vafningar, vífilengjur
 ambassador n. sendiherra
 ambassadorial l. sendiherralegur
 amber n. raf
@@ -874,7 +874,7 @@ amenable l. ábyrgur; [~ to counsel] ráðþægur
 amend s. leiðrétta; bæta; gera breytingartillögu við; batna
 amendable l. bætanlegur
 amendment n. leiðrétting; breytingartillaga ([move ~ on] bera upp breytingartillögu við); umbót; endurbót; bati
-amends n. ft. uppbót, skaðabætur
+amends nft. uppbót, skaðabætur
 amenity n. yndi, fegurð; blíða, blíðmæli
 amerce s. sekta; refsa ([~ one with])
 amercement n. sektun; fésekt
@@ -907,7 +907,7 @@ amort l. hnugginn
 amortize s. smálúka skuld með ákveðnum greiðslum
 amount n. upphæð; fjöldi; s. vera að upphæð, nema (e-u [to]); vera jafngildur, vera sama sem ([his fears almost ~ to madness])
 amour n. ástabrall, ástir
-amphibia n. ft. láðs- og lagardýr
+amphibia nft. láðs- og lagardýr
 amphibious l. sem lifir bæði í vatni og á landi
 amphibology n. tvírætt hjal eða orðalag
 amphibological l. tvíræður
@@ -1025,7 +1025,7 @@ anker n. kvartil (lagarmál)
 ankle n. ökli
 anklet n. öklahringur
 annalist n. árbókarhöfundur; sagnaritari
-annals n. ft. árbækur
+annals nft. árbækur
 anneal s. herða, tempra (járn eða gler); smákæla
 annex s. festa, tengja (við [to]); innlima (land); n. viðbætir, viðauki
 annexation n. viðtenging, sameining; innlimun
@@ -1077,7 +1077,7 @@ antagonize s. standa í móti, eyða áhrifum e-s
 antarctic l. suðurheimskauts- ([the ~ regions]); [the ~ pole] suðurheimskautið
 antarthritic l. góður við gigt; n. gigtarlyf
 antecedent l. undanfarandi
-antecedents n. ft. fyrri viðburðir
+antecedents nft. fyrri viðburðir
 antecessor n. fyrirrennari
 antechamber n. forsalur, biðstofa
 antedate s. dagsetja of snemma; flýta fyrir; vera á undan
@@ -1097,7 +1097,7 @@ anthropologist n. mannfræðingur
 anthropology n. mannfræði
 anti- fsk. á móti, mót-, gagn-, and- (í samsetningum); sjá t.d. %[antidote]%, %[antichrist]%, %[antipathy]%
 antic l. hjákátlegur, bjánalegur; n. trúður
-antics n. ft. skrípalæti
+antics nft. skrípalæti
 antichristian l. andstæður kristindóminum
 antichrist n. falskristur, andkristur
 anticipate s. eyða fyrirfram; verða fyrri til en; íhuga fyrirfram; finna á sér; búast við; [~ payment] borga fyrir gjalddaga
@@ -1109,14 +1109,14 @@ antipathetic l. andstæður, gagnstæður
 antipathy n. andúð, óbeit, viðbjóður
 antipodal l. andstæður
 antipode n. andstæðingur (e-s)
-antipodes n. ft. andfætingar
+antipodes nft. andfætingar
 antiquarian l. fornfræðilegur; n. fornfræðingur
 antiquary l. fornfræðilegur; n. fornfræðingur
 antiquate s. gera úreltan; setja fornlegan blæ á
 antiquated l. forn; úr gildi genginn, úreltur
 antique l. gamall, forn, fornlegur; n. forngripur
 antiquity n. hár aldur; fornöld
-antiquities n. ft. fornminjar, fornleifar
+antiquities nft. fornminjar, fornleifar
 antiseptic l. rotverjandi, rotvarnar-; n. rotvarnarlyf
 antithesis n. mótsetning
 antithetic l. gagnstæður
@@ -1164,7 +1164,7 @@ apocryphal l. vafasamur, vafa-
 apodictic l. áreiðanlegur, bersýnilegur, skilyrðislaus
 apogee n. jarðfirð; fjarlægasti punktur; hápunktur, toppur
 apologetic l. verjandi; afsakandi
-apologetics n. ft. trúvarnarfræði
+apologetics nft. trúvarnarfræði
 apologize s. afsaka ([for]); afsaka sig
 apologue n. dæmisaga
 apology n. vörn, varnarrit; afsökun; [an ~ for breakfast] lítilfjörlegur morgunverður
@@ -1261,7 +1261,7 @@ approved l. viðurkenndur
 approximate l. líkur; nálega réttur; s. færa nær; nálgast ([~ to])
 approximately ao. um það bil, nokkurn veginn, nálega
 approximation n. nálgun
-appurtenances n. ft. allt sem fylgir, fylgihlutir, fylgibúnaður; áhöld, tæki
+appurtenances nft. allt sem fylgir, fylgihlutir, fylgibúnaður; áhöld, tæki
 appurtenant l. tilheyrandi, meðfylgjandi, fylgi-
 apricot n. apríkósa (aldin)
 April n. aprílmánuður
@@ -1323,7 +1323,7 @@ archipelago n. eyjaklasi, eyjahaf
 architect n. byggingameistari, arkítekt
 architectonic l. sem lýtur að húsagerðarlist, arkítektúrs-
 architecture n. byggingarlist, húsagerðarlist, arkítektúr
-archives n. ft. skjalasafn, skjöl, arkíf
+archives nft. skjalasafn, skjöl, arkíf
 archivist n. skjalavörður
 archway n. hvelfing
 arctic l. norðurheimskauts- ([the ~ pole, ~ circle])
@@ -1355,7 +1355,7 @@ arithmetician n. reikningsmaður ([a good ~])
 ark n. örk; [the Ark of the Covenant] sáttmálsörkin
 arm n. handleggur, armur; grein, kvísl; brík (á stól); s. vopna, hertygja; útbúa; hertygjast; grípa til vopna
 armed l. vopnaður
-arms n. ft. handleggir; vopn; [take up ~, to rise up in ~] grípa til vopna
+arms nft. handleggir; vopn; [take up ~, to rise up in ~] grípa til vopna
 armada n. herskipafloti
 armament n. herbúnaður; herskipafloti; herafli
 armature n. vopn
@@ -1499,7 +1499,7 @@ assessor n. ráðunautur; niðurjöfnunarmaður; virðingarmaður
 asseverate s. staðhæfa, fullyrða hátíðlega
 asseveration n. hátíðleg staðhæfing
 asset n. eign, haldbær eign
-assets n. ft. eignir til skuldagreiðslu í dánar- eða þrotabúi; [~ and liabilities/debts] eignir og skuldir (í búi)
+assets nft. eignir til skuldagreiðslu í dánar- eða þrotabúi; [~ and liabilities/debts] eignir og skuldir (í búi)
 assiduity n. iðni, atorkusemi; ft. stimamýkt
 assiduous l. kostgæfinn, atorkusamur; stöðugur
 assiduousness n. elja, atorkusemi
@@ -1513,7 +1513,7 @@ assist s. vera viðstaddur ([~ at an entertainment]); hjálpa ([~ one in a thing
 assistance n. hjálp, aðstoð ([give ~, render ~])
 assistant l. hjálplegur (e-m [to]); n. aðstoðarmaður
 assize n. lögákveðið verðlag ([~ of bread]); taxti
-assizes n. ft. dómþing, þar sem sakamál eru dæmd af kviðdómi
+assizes nft. dómþing, þar sem sakamál eru dæmd af kviðdómi
 associable l. samþýðanlegur (e-u [with])
 associate s. sameina; ganga í félag; hafa mök við ([with]); l. [~ judge] meðdómari; n. félagi; bandamaður; meðlimur
 association n. félag; samband; mök; endurminning ([pleasant ~s])
@@ -1679,7 +1679,7 @@ auscult s. hlusta (lungun eða hjartað)
 auscultation n. hlustun (lungnanna eða hjartans)
 auscultatory l. hlustunar-
 auspicate s. spá (góðu eða illu); vígja (fyrirtæki með hátíðlegri viðhöfn); byrja, hefja
-auspices n. ft. fuglspá; hamingjuboði; vernd, umsjón
+auspices nft. fuglspá; hamingjuboði; vernd, umsjón
 auspicious l. heillavænlegur, hagstæður, hamingjusamur
 austere l. óþýður, harður; siðavandur
 austerity n. óþýðleiki; strangleiki; harka; aðhaldsstefna í fjármálum; ft. meinlætalifnaður ([the austerities of an anchorite])
@@ -1720,7 +1720,7 @@ autoptic l. sjálfsjáandi ([an autoptic witness] sjónarvottur)
 autumn n. haust
 autumnal l. haustlegur, haust ([~ rain])
 auxiliary l. hjálpandi, hjálpar-; n. hjálparmaður; hjálparsögn
-auxiliaries n. ft. hjálparlið
+auxiliaries nft. hjálparlið
 avail s. gagna, stoða, duga; [~ oneself of] færa sér í nyt, nota; n. gagn, not; [of no ~] gagnslaus
 available l. fáanlegur, tiltækur, laus; sem menn hafa umráð yfir; notanlegur; gildur ([~ in law])
 availably ao. með hagnaði

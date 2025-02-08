@@ -26,7 +26,7 @@ dally s. kjassast, leika sér; drolla
 Daltonian n. litblindur maður
 daltonism n. litblinda (blandar saman grænu og rauðu)
 dam n. stífla, flóðgarður; týja; s. hlaða fyrir, stífla (oft [to ~ up])
-damage n. skaði, tjón; ft. skaðabætur; s. skaða, skemma; spilla fyrir ([you will only ~ your cause]); skemmast
+damage n. skaði, tjón; nft. [~s] skaðabætur; s. skaða, skemma; spilla fyrir ([you will only ~ your cause]); skemmast
 damageable l. sem er hætt við að skemmast ([goods easily ~]); skaðlegur
 damascene s. rista rósir í stál
 damask n. damask (rósaður vefnaður); s. vefa rósir í; setja rósamyndir í stál
@@ -94,7 +94,7 @@ dateless l. ódagsettur; óendanlegur; ævagamall
 date palm n. döðlupálmi
 dative n. þágufall
 datum n. heimildaratriði; staðreynd
-data n. ft. gögn (sjá %[data]%)
+data nft. gögn (sjá %[data]%)
 daub s. klína, rjóðra; mála illa; n. lélegt málverk
 dauber n. lélegur málari, klínari
 daughter n. dóttir
@@ -141,7 +141,7 @@ deafness n. heyrnarleysi
 deal n. gjöf í spilum; borð, planki (úr furu eða greni); hluti; [it's your ~] þér eigið að gefa; [a good (great) ~] töluvert, mikið; ao. miklu ([a great ~ better]); s. úthluta, útbýta; gefa (í spilum); versla (með [in]); fást við, eiga (skipta) við ([with]); breyta ([~ honorably, cruelly with/by one]); [~ a blow] slá högg
 dealboard n. furuborð
 dealer n. gefandi (í spilum); kaupmaður; [a plain ~] vandaður maður; [small ~] smásali
-dealing n. hegðun háttalag; kaupverslun; ft. mök, viðskipti
+dealing n. hegðun háttalag; kaupverslun; nft. viðskipti, mök
 dean n. yfirprestur (við dómkirkju); prófastur; deildarforseti (við háskóla)
 deanery n. prófastsembætti; prófastsdæmi; prófastssetur
 deanship n. prófastsembætti
@@ -799,9 +799,9 @@ diarist n. dagbókarhöfundur
 diary n. dagbók
 diatribe n. orðadeila; skammaræða
 dibble n. gróðursetningarteinn; s. gróðursetja (með teini); gera (stinga) holur ([he was dibbling in his garden])
-dibs n. ft. smásteinar, völur (barnaleikfang); spilapeningar; aurar
+dibs nft. smásteinar, völur (barnaleikfang); spilapeningar; aurar
 dicacity n. hæðni; mælgi
-dice n. ft. (af %[die]%) teningar ([play at/with ~]); s. spila með teningum, spila áhættuspil; eyða (sóa) með teningaspili ([~ away])
+dice nft. (af %[die]%) teningar ([play at/with ~]); s. spila með teningum, spila áhættuspil; eyða (sóa) með teningaspili ([~ away])
 dicer n. áhættuspilari
 dickens n. skolli ([what the ~?])
 dicky n. þjónssæti (á vagni)
@@ -814,12 +814,12 @@ diction n. orðfæri, stíll
 dictionary n. orðabók
 dictum n. ummæli; álit, yfirlýsing (dómara) (ft. [dicta])
 didactic l. fræðandi; [~ poetry] fræðiskáldskapur
-didactics n. ft. kennslufræði ([the art of teaching])
+didactics nft. kennslufræði ([the art of teaching])
 diddle s. eyða ([~ away time]); svíkja, hafa af e-m; drepa
 die s. deyja, andast, látast, sálast; líða undir lok; [~ of a malady (hunger, thirst)] deyja úr sjúkdómi (hungri, þorsta); [~ from a wound] deyja úr sári; [~ away] deyja smám saman, smáhverfa; líða í ómegin; [~ off] deyja hver á fætur öðrum; smáhverfa; [~ out] deyja út, líða undir lok; [~ of/with laughing] springa af hlátri; [~ an early death] deyja ungur; n. teningur (ft. [dice]); peningamót (ft. [dies])
 diet n. mataræði, tiltekið fæði; ríkisþing; s. veita (e-m) fæði; tiltaka fæði handa (e-m); lifa hóflega, fylgja ströngu mataræði
 dietary l. mataræðislegur; n. mataræði, matarskammtur
-dietics n. ft. heilsufræði (með tilliti til mataræðis)
+dietics nft. heilsufræði (með tilliti til mataræðis)
 differ s. vera ólíkur (e-m [from]); vera ósamdóma (e-m [from, with])
 difference n. mismunur, munur (á e-u [between]); ágreiningur, deila; [~ of opinion] skoðanamunur; [it makes a great ~] það munar (stendur á) miklu; [it makes no ~] mér stendur á sama; s. gera ólíkt; greina í sundur
 different l. ólíkur, frábrugðinn (e-m [from, to]); ýmislegur; [at ~ periods] á ýmsum tímum
@@ -1126,7 +1126,7 @@ dislodge s. reka burt; reka upp (veiðidýr); færa úr stað
 disloyal l. ótrúr; ólöghlýðinn
 disloyalty n. ótryggð; ólöghlýðni
 dismal l. dapurlegur, sorglegur; skuggalegur, eyðilegur
-dismals n. ft. þunglyndi; [to betake oneself to the ~] gerast þunglyndur
+dismals nft. þunglyndi; [to betake oneself to the ~] gerast þunglyndur
 dismantle s. fella reiða (á skipi); rífa niður (varnarvirki)
 dismast s. brjóta siglutré (möstur) úr (skipi), gera masturlaust
 dismasted l. masturlaus
@@ -1394,7 +1394,7 @@ doff s. færa (sig) úr; taka ofan
 dog n. hundur; s. elta e-n (eins og hundur); siga hundum á e-n
 dogcart n. veiðivagn
 dog-cheap l. sem fæst fyrir gjafverð, hundódýr
-dog days n. ft. hundadagar
+dog days nft. hundadagar
 dogfish n. háfur
 doghearted l. harðbrjóstaður
 dog Latin n. hrognalatína
@@ -1406,13 +1406,13 @@ doggerel l. illa ortur; n. leirburður
 dogma n. trúarsetning, kredda
 dogmatic l. sem lýtur að trúarsetningum, kreddulegur
 dogmatical l. sem lýtur að trúarsetningum, kreddulegur
-dogmatics n. ft. trúfræði
+dogmatics nft. trúfræði
 dogmatism n. ósannaðar fullyrðingar, kreddufesta
 dogmatist n. fullyrðingamaður, kreddumaður
 dogmatize s. gera fullyrðingar (um e-ð [upon])
 doing n. athöfn, verk ([it is all his ~]); framkvæmd ([much talking, and little ~])
 doit n. lítill (hollenskur) peningur; ögn ([not worth a ~, not to care a ~])
-doldrums n. ft. vont skap, ólund ([be in the ~]); logn; lognbelti ([Equatorial ~])
+doldrums nft. vont skap, ólund ([be in the ~]); logn; lognbelti ([Equatorial ~])
 dole n. hluti, skammtur; atvinnuleysisbætur ([on the ~]); sorg, harmur; s. [~ out] skammta, útbýta, úthluta
 doleful l. sorglegur, raunalegur, sorgfullur; dapur í bragði
 dolerite n. grágrýti
@@ -1529,7 +1529,7 @@ dozen n. tylft
 doziness n. drungi, slen
 dozy l. drungalegur, doðalegur
 drab l. mógulur; n. grófur ullarklútur; skækja; subba
-drab boots n. ft. gul stígvéli
+drab boots nft. gul stígvéli
 drabble s. ösla í for og bleytu; gera forugt
 drachm n. drakma (grískur peningur; lyfsalavigt)
 draconic l. strangur, harður ([~ law])
@@ -1590,7 +1590,7 @@ dreary l. skuggalegur, eyðilegur, ömurlegur, dapur
 dredge n. botnskafa; ostrunet; s. veiða ostrur (í dragnet); ná e-u upp með botnsköfu; strá á (mjöli)
 dreggish l. gruggugur
 dreggy l. gruggugur
-dregs n. ft. dreggjar, grugg
+dregs nft. dreggjar, grugg
 drench s. gegnbleyta, rennvæta; [~ed to the skin] holdvotur, gagndrepa; n. drykkur, hægðasaup (handa dýrum); s. gefa (skepnum) inn hægðalyf
 drencher n. steypiregn
 dress s. matreiða; verka (skinn, fisk, kjöt); hreinsa og binda um (sár); skreyta (skip) flöggum; klæða; klæða sig, búa sig; n. klæðnaður, búningur; klæðaburður; skrautfatnaður; kvenkjóll
@@ -1611,7 +1611,7 @@ driftwood n. rekaviður
 drill s. bora (með rennibor); venja við vopnaburð; kenna ([~ one in something]); sá í raðir; n. rennibor; heræfing; sáningarvél
 drink s. drekka; n. drykkur
 drinkable l. drekkandi, drekkanlegur
-drinkables n. ft. ölföng
+drinkables nft. ölföng
 drinker n. drykkjumaður
 drinking bout n. drykkja
 drinking horn n. drykkjarhorn
@@ -1632,7 +1632,7 @@ drone n. flygildi, dróni; karlbýfluga; letingi; suða; s. vera iðjulaus; suð
 dronish l. latur, letilegur, iðjulaus
 droop s. hanga (lafa) niður; drúpa; lúta; láta síga eða lúta ([~ the eyes or face]); vanmagnast
 drop n. dropi; fall ([~ in temperature]); verðfall ([~ in prices]); eyrnalokkur; hlemmur; fortjald; sykurkúla; s. láta falla; missa niður; hætta við, sleppa; lægja (röddina); falla; leka, drjúpa ([sweat ~ped from his brow]); detta niður; hníga; deyja (snögglega); [~ in] koma snöggvast inn; [the conversation ~ped] datt niður; [~ out] fara snögglega í burtu
-droppings n. ft. mykja, tað
+droppings nft. mykja, tað
 drop scene n. fortjald (í leikhúsi); endalok
 dropwort n. mjaðarjurt
 dropsical l. vatnssjúkur; hvaplegur
@@ -1691,7 +1691,7 @@ ducal l. hertogalegur
 ducat n. dúkati (peningur), gulldalur
 duchess n. hertogafrú
 duchy n. hertogadæmi
-ducks n. ft. strigabuxur
+ducks nft. strigabuxur; endur (sjá %[duck]%)
 duck n. önd; hneiging (með höfðinu); [play (at) ~s and drakes] láta steinvölur flytja kerlingar; [make ~s and drakes of/with money] sóa fé; þunnur segldúkur, strigi; s. dýfa (stinga) höfðinu í vatn; kaffæra ([~ in, into, under water]); hneigja (höfuðið); stinga sér; hneigja sig snöggt
 ducking n. kaffæring
 duckling n. andarungi
@@ -1699,7 +1699,7 @@ duct n. pípa
 ductile l. teygjanlegur; sveigjanlegur
 ductility n. teygjanleiki; auðsveipni
 dudgeon n. reiði; [take in ~] taka e-u illa, firtast af; [be in (a) high (great, deep) ~] vera fokvondur, stórreiður
-duds n. ft. fataræflar
+duds nft. fataræflar
 due l. skyldugur; fallinn í gjalddaga; tilhlýsilegur; réttur; [in ~ season] á sínum tíma; væntanlegur ([vessels ~]); [it is ~ to] e-m að þakka eða kenna; [become/fall ~] falla í gjalddaga; [the mail is ~ in an hour] pósturinn á að koma eftir klst; ao. [~ east] beint í austur, í háaustur; n. skylda ([taxes and dues]); réttur; tollur, gjald ([harbour ~s]); [give one his ~] láta e-n njóta (unna e-m) sannmælis
 duel n. einvígi; s. heyja einvígi
 duelist n. einvígismaður
@@ -1781,7 +1781,7 @@ dye s. lita; n. litur; litunarefni
 dyer n. litari
 dyke n. varnargarður (sjá %[dike]%); lesbía (niðrandi)
 dynamic l. kviklegur; kraftmikill, atorkumikill; aflfræðilegur
-dynamics n. ft. aflfræði
+dynamics nft. aflfræði
 dynamite n. dýnamít; sprengiefni; tundur; s. sprengja með tundri
 dynamo n. rafvél, rafall
 dynasty n. konungsætt, konungaætt, keisaraætt, ættarveldi, valdaætt

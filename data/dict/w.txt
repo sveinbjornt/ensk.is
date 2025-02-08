@@ -15,7 +15,7 @@ wage s. veðja; leggja í hættu; [~ war] heyja stríð
 wage n. kaup; [living ~] kaup sem nægir til að lifa á; ft. sjá %[wages]%
 wager n. veðmál; [to lay (make) a ~] veðja; s. veðja; leggja í hættu
 wagerer n. veðjandi
-wages n. ft. kaup, kaupgjald; [to be in good ~] hafa gott kaup
+wages nft. kaup, kaupgjald; [to be in good ~] hafa gott kaup
 waggery n. glens, glettur, glettni
 waggish l. glensfullur, glettinn
 waggishness n. glettni
@@ -173,7 +173,7 @@ watershed n. vatnaskil, vörp; [watershed moment] tímamót
 water-soaked l. vatnsósa
 water-spout n. skýstrokkur
 watertight l. þéttur (um skip)
-waterworks n. ft. vatnsveita, vatnsveitustöð
+waterworks nft. vatnsveita, vatnsveitustöð
 watery l. vatnskenndur; votur; vatns- ([~ taste])
 wattle n. tág; ft. tágagirðing; sepi (undir hálsinum á hana og fiski); s. girða með tágafléttum; flétta úr tágum ([a ~d hedge])
 wave n. bylgja, alda, bára; bending; blakt; s. blakta, flögra; bylgja, gera bylgjumynd að; veifa ([~ the hat]); gefa e-m bendingu
@@ -262,7 +262,7 @@ wee l. ofurlítill ([a ~ insect]); [a ~ bit] ofurlítil ögn; n. piss, hland; s.
 weed n. illgresi, óræktargras; þang; vindill; kannabis (óforml.); s. reyta illgresi úr ([~ a garden]); uppræta; losa (við [of]); [~ out] fjarlægja, kemba burt
 weeding-hook n. krókur til að reyta illgresi
 weedy l. fullur af illgresi
-weeds n. ft. sorgarbúningur; [a widow's ~] ekkjubúningur
+weeds nft. sorgarbúningur; [a widow's ~] ekkjubúningur
 week n. vika
 weekday n. virkur dagur
 weekly l. vikulegur; viku-; ao. einu sinni í viku; n. vikublað
@@ -429,7 +429,7 @@ whirligig n. snarkringla, skopparakringla; hringökuvagn
 whirlpool n. hringiða
 whirlwind n. hvirfilvindur, hvirfilbylur
 whisk n. snögg hreyfing; vindgustur; visk; lítill sópur; þyrill, hrísla (til að hræra eða þeyta egg, rjóma o.fl.); s. sópa; hræra (í); þeytast, þjóta af stað; [~ off] sópa burtu ([~ off the flies]); [~ by one] stroka fram hjá e-m
-whiskers n. ft. kinnaskegg, kjálkaskegg; veiðihár á ketti
+whiskers nft. kinnaskegg, kjálkaskegg; veiðihár á ketti
 whiskered l. með kinnaskeggi
 whisky n. viskí (skoskt brennivín)
 whiskey n. viskí (skoskt brennivín)
@@ -459,7 +459,7 @@ Whit-Monday n. annar í hvítasunnu
 Whitsunday n. hvítasunnudagur
 Whitsuntide n. hvítasunna
 whittle n. tálguhnífur; s. tálga, telgja ([~ wood]); [~ away] sólunda
-whittlings n. ft. tálguspænir
+whittlings nft. tálguspænir
 whiz s. þjóta, hvína; n. þytur, hvinur
 whizz s. þjóta, hvína; n. þytur, hvinur
 who fn. hver; sem, er
@@ -555,7 +555,7 @@ windmill n. vindmylna
 windpipe n. loftpípa, barki
 winding l. bugðóttur, hlykkjóttur, krókóttur; n. bugða, hlykkur
 winding-sheet n. líkklæði
-winding stairs n. ft. snúinn stigi
+winding stairs nft. snúinn stigi
 windlass n. vinda, akkerisvinda; s. draga upp með vindu
 window n. gluggi; s. setja glugga í; [a house well ~ed] vel búið að gluggum
 window-blind n. gluggatjald
@@ -585,12 +585,12 @@ wink s. depla (augum); drepa tittlinga; gefa bendingu með augunum; látast ekki
 winker n. augnaskýla, blaka (á beisli)
 winner n. vinnandi; sigurvegari
 winning l. laðandi
-winnings n. ft. vinningur
+winnings nft. vinningur
 winnow s. hreinsa (korn) með blæstri, vinsa; rannsaka
 winsome l. ljúfmannlegur; þægilegur
 winsomeness n. ljúfmennska
 winter n. vetur; s. hafa vetursetu; fóðra, gefa (peningi) á veturna
-winter quarters n. ft. vetursetustaður; veturseta
+winter quarters nft. vetursetustaður; veturseta
 wintry l. vetrarlegur, vetrar- ([~ weather, landscape])
 winy l. vínkenndur, vín-
 wipe s. þerra, þurrka; hreinsa; [~ ones eyes] þurrka sér um augun; [~ out] þurrka út; afmá; n. afþurrkun; ofanígjöf; sneið, skens
@@ -628,7 +628,7 @@ withdrawal n. burttekt; úttekt; afturköllun; úrsögn (úr félagi); burtför;
 withe n. víðitág
 wither s. visna, skrælna; fölna ([flowers and beauty ~]); láta visna
 withered l. visinn
-withers n. ft. herðakambur (á hesti)
+withers nft. herðakambur (á hesti)
 withershins ao. rangsælis
 wither-wrung l. sligaður í herðum, bógsiga
 withhold s. halda aftur; synja um, neita um ([~ one's consent, support]); [~ this pleasure from us] varna oss þessarar ánægju
@@ -729,7 +729,7 @@ working l. vinnandi; vinnu- ([~ ability]); [~ people] verkafólk, starfsfólk; n
 working-class l. af verkamannastétt
 working day n. vinnudagur
 working-drawing n. teikning til að vinna eftir
-working-expenses n. ft. reksturskostnaður
+working-expenses nft. reksturskostnaður
 workman n. verkmaður; verkamaður
 workmanlike l. verklegur, smiðslegur; vandaður
 workmanly l. verklegur, smiðslegur; vandaður
@@ -809,7 +809,7 @@ writhe s. vinda, snúa (með afli); rangfæra, snúa út úr; byltast um, engjas
 writing n. skrift; ritmáti, still; letur; rit; skjal
 writing desk n. skrifborð
 writing master n. skriftarkennari
-writing materials n. ft. skrifföng
+writing materials nft. skrifföng
 writing paper n. skrifpappír
 written s. skrifaður; skriflegur ([a ~ answer, ~ permission])
 wrong l. rangur, skakkur; [to be ~, in the ~] hafa rangt fyrir sér; n. óréttur, ranglæti; s. gera (e-m) rangt til, gera á hluta (e-s)

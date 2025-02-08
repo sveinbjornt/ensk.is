@@ -31,7 +31,7 @@ raddle s. flétta saman; mála með rauðkrít; n. fléttugirðing; rauðkrít
 radial l. sem gengur út frá miðdepli eins og geislar í hring eða spælar (rif) í hjóli; geisla-
 radiance n. ljómi
 radiant l. ljómandi, skínandi
-radiata n. ft. geisladýr
+radiata nft. geisladýr
 radiate s. útgeisla, skína, ljóma, blika
 radiation n. skin, ljómi, geislakast, útgeislun, geislun
 radical l. róttækur; sem lýtur að rót eða rótum, rótar-; sem er í innsta eðli hlutarins, undirstöðu- ([~ error, ~ rottenness of human nature]); gerður frá rótum, algjör ([~ change, ~ cure]); frumlegur, frum- ([~ rock]); rótgróinn; róttækur í skoðunum; [~ word] rótarorð; n. róttæklingur; gerbótamaður; orðrót, rótarorð; frumefni
@@ -54,7 +54,7 @@ raging l. æðandi, hamslaus, ær, óður, uppvægur
 ragout n. ragú (kjötréttur)
 raid n. innrás (óvina); ránferð; s. fara ránferð, ræna
 rail n. keldusvín ([water ~])
-rail n. langband (í grindagirðingu); járnbrautarteinn; ft. teinar; grindur, handrið; [travel by ~] ferðast á járnbraut; s. girða með grindum
+rail n. langband (í grindagirðingu); járnbrautarteinn; nft. teinar; grindur, handrið; [travel by ~] ferðast á járnbraut; s. girða með grindum
 railroad n. járnbraut
 railway n. járnbraut; s. ferðast á járnbraut
 rail s. spotta; skamma, lasta ([at, against])
@@ -119,7 +119,7 @@ rape s. nauðga; n. nauðgun; brottnám (konu); smjörkál
 rapid l. fljótur, skjótur, hraður; stríður
 rapidity n. skjótleiki, hraði, flýtir
 rapidness n. skjótleiki, hraði, flýtir
-rapids n. ft. stríður straumur, hávaðar (í á)
+rapids nft. stríður straumur, hávaðar (í á)
 rapier n. e.k. mjótt sverð
 rapscallion n. þrjótur, þorpari, níðingur, fantur
 rapine n. rán, ránskapur
@@ -573,8 +573,8 @@ refute s. hrekja, ósanna ([~ a statement, opinion])
 regain s. ná aftur, fá aftur; [~ consciousness] rakna við aftur; [~ one's footing] koma fyrir sig fótunum aftur
 regal l. konunglegur
 regale s. hressa; veita (beina); gleðja; skemmta; lifa ríkmannlega; n. hressing; veisla
-regalia n. ft. tignarmörk konungs og stórhöfðingja, er sitja að ríkjum; tignarmerki
-regality n. konungstign; ft. konungsréttindi
+regalia nft. tignarmörk konungs og stórhöfðingja, er sitja að ríkjum; tignarmerki
+regality n. konungstign; nft. konungsréttindi
 regard s. skoða, virða fyrir sér; gefa gaum að; hirða um ([he does not ~ my advice]); meta; snerta, ná til (e-s); [it does not ~ me] það tekur ekki til mín; [as ~s] að því er snertir (kemur til); [~ the person] fara í manngreinarálit; n. augnaráð; skoðun; eftirtekt, gaumur; tillit; virðing ([have a little, great, ~ for him, for his judgment]); ft. kveðja ([give my ~s to the family]); [pay no ~] gefa engan gaum, taka ekkert tillit til; [with (in) ~ to] með tilliti til; [in his ~] í hans garð, honum til handa
 regardant l. [a lion ~] sem lítur aftur fyrir sig (á skjaldarmerki)
 regardful l. aðgætinn, gaumgæfinn ([of])
@@ -596,7 +596,7 @@ regime n. stjórnarfyrirkomulag
 regimen n. stjórn, stjórnarfyrirkomulag; mataræðisreglur
 regiment n. hersveit
 regimental l. hersveitar-
-regimentals n. ft. einkennisbúningur (liðsmanna)
+regimentals nft. einkennisbúningur (liðsmanna)
 region n. hérað; sveit, landshluti; svæði, svið; [the upper ~s] himininn; [lower, nether ~s] undirheimar, dauðraríkið
 regional l. héraðslegur; staðlegur
 register n. bók, skrá, listi; skipaskrá ([Lloyd's ~ of British shipping]); kjörskrá ([~ of electors]); ofnspjald; [the ~ of his burial] greftrunarvottorð; [~ of mortgages] veðmálabók; [port of ~] skráningarhöfn; [parish ~] kirkjubækur; s. bóka, skrá; færa inn; [by a ~ed parcel] í ábyrgðarböggli; [the barometer ~s low] vísar (stendur) lágt
@@ -634,7 +634,7 @@ reinless l. laumlaus
 reincarnate s. endurholdgast
 reindeer n. hreindýr
 reinforce s. sjá %[re-enforce]%
-reins n. ft. nýru
+reins nft. nýru
 reinsert s. setja inn
 reinstate s. setja aftur; (skipa) aftur í (e-ð, t.d. misst réttindi)
 reinsurance n. endurtrygging
@@ -646,7 +646,7 @@ reject s. hrinda frá sér; synja um, neita um; hafna e-u; gera e-n afturreka ([
 rejection n. höfnun, neitun, synjun ([~ of a proposition])
 rejoice s. vera glaður, fagna (e-u [in, at]); gleðja ([the news ~d him]); [I am ~d to hear it] það gleður mig að heyra; [~ in another's misfortune] gleðjast af óförum annara
 rejoicing n. fögnuður
-rejoicings n. ft. fagnaðarlæti
+rejoicings nft. fagnaðarlæti
 rejoin s. sameina aftur; hitta aftur; svara (kæru); koma saman aftur, hittast aftur
 rejoinder n. (seinna) svar (málsverjanda)
 rejoint s. setja aftur saman, múra upp í (sprungur)
@@ -702,7 +702,7 @@ relume s. kveikja aftur; lýsa upp aftur
 rely s. reiða sig (á [on, upon]); treysta ([can I ~ upon your secrecy])
 remain s. vera kyrr (á e-m stað); dvelja ([~ three weeks in Paris]); vera eftir; vera ([let it ~ as it is]); haldast; halda áfram að vera ([~ faithful]); [it ~s to be proved] það er ósannað enn; [it ~s to be seen] það er óséð enn
 remainder n. afgangur, leifar, eftirstöðvar; bókaleifar
-remains n. ft. leifar, eftirleifar; jarðneskar leifar, lík; [the ~ of a meal] leifar eftir máltíð
+remains nft. leifar, eftirleifar; jarðneskar leifar, lík; [the ~ of a meal] leifar eftir máltíð
 remand s. senda aftur (einkum fanga í gæsluvarðhald); kalla (heimta) aftur; n. endursetning í gæsluvarðhald
 remanet n. óútkljáð mál; óútrætt frumvarp
 remark n. eftirtekt; athugasemd; [worthy of ~] markverður; s. taka eftir; athuga, taka fram, gera athugasemdir (við e-ð [on])
@@ -1102,7 +1102,7 @@ reveille n. fótaferðarbumbusláttur eða lúðurblástur
 revel s. svalla, slarka; [~ in] njóta (e-s) óhóflega; [~ in luxury] lifa í gegndarlausu óhófi; n. svall, slark, hávaðasöm drykkjuveisla
 reveller n. svallari, slarkari
 revelry n. svall, slark, hávaðasöm veisla ([drunken ~])
-revelation n. opinberun; ft. opinberunarbók Jóhannesar ([the Book of Revelations])
+revelation n. opinberun; nft. opinberunarbók Jóhannesar ([the Book of Revelations])
 revenge s. hefna e-s; [~ oneself on, to be ~d on a person] hefna sín á e-m; [~ an injury on one] hefna e-m fyrir meingerð; n. hefnd; hefndargirnd
 revengeful l. hefnigjarn, hefndargjarn
 revenger n. hefnari
@@ -1194,11 +1194,11 @@ ribaldry l. dónaskapur, klúrleiki
 ribbon n. band, silkiband, silkiborði; ræma; [torn to ribbons] sundurtættur; s. prýða með böndum, borðaleggja
 rice n. hrísgrjón
 rich l. auðugur, ríkur; dýrmætur; ágætur, frjósamur; saðsamur; mjög kryddaður, ljúffengur; [~ wine] sterkt vín
-riches n. ft. auðæfi
+riches nft. auðæfi
 richly ao. ríkulega, í ríkum mæli
 richness n. auðlegð; frjósemi; kraftur
 rick n. þakinn hey- eða kornstakkur; s. setja upp í stakk
-rickets n. ft. beinkröm, enska sýkin
+rickets nft. beinkröm, enska sýkin
 rickety l. sjúkur af beinkröm; liðaveikur; hrörlegur
 rid s. losa (við [of]); l. laus (við [of]); [get ~ of] losna við
 riddance n. lausn, frelsun; [he is a good ~] það er gott að vera laus við hann

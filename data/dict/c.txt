@@ -47,7 +47,7 @@ calculate s. reikna; byggja, ætla
 calculation n. útreikningur; reikningur; áætlun
 calculator n. reiknivél; reikningsmaður
 calculus n. steinn; nýrnasteinn; tannsteinn; stærðfræðigreining, diffur- og tegurreikningur, reiknivísi, örsmæðareikningur
-calculi n. ft. nýrnasteinar, gallsteinar
+calculi nft. nýrnasteinar, gallsteinar
 caldron n. sjá %[cauldron]%
 calefactory l. hitandi, hita-
 calefaction n. upphitun
@@ -147,7 +147,7 @@ canny l. kænn, slægur
 canoe n. kanó (bátur frumbyggja Norður-Ameríku)
 canon n. kanóna; kirkjuréttur; frumregla; kórsbróðir, kanúki
 canonical l. kanónískur, samkvæmur kirkjuréttinum; undirstöðu-
-canonicals n. ft. prestsskrúði
+canonicals nft. prestsskrúði
 canonize s. taka í helgra manna tölu; staðfesta
 canonry n. kanúkatign, kanúkaembætti
 canonship n. kanúkatign, kanúkaembætti
@@ -158,7 +158,7 @@ cantankerous l. nöldursamur, nöldrunarsamur ([a ~ husband])
 cantata n. hátíðaljóð
 canteen n. mötuneyti; matsölubúð hermanna; skrín með eldhúss- og borðáhöldum; hermannaflaska
 canter s. stökkva, valhoppa; láta stökkva; ríða valhopp; n. hægt stökk, valhopp; hræsnari
-cantharides n. ft. spansfluga, brunafluga
+cantharides nft. spansfluga, brunafluga
 canticle n. lofsöngur; ft. lofkvæði Salómons
 cantle n. stykki, geiri; efri söðulbogi
 canto n. söngur (þáttur úr löngu kvæði)
@@ -361,7 +361,7 @@ castration n. gelding
 casual l. frjálslegur, kærulaus, hversdagslegur, óformlegur, afslappaður; tilviljunarlegur; óviss
 casually ao. af hendingu, af tilviljun
 casualty n. hending; slys
-casualties n. ft. fallnir (særðir) í orustu
+casualties nft. fallnir (særðir) í orustu
 cat n. köttur, kattardýr; [like a ~ about hot milk] eins og köttur í kringum heitan graut
 cataclysm n. vatnsflóð
 catacomb n. neðanjarðar grafhvelfing, grafhýsi
@@ -376,7 +376,7 @@ catarrhal l. kvef- ([~ affection])
 catastrophe n. hamfarir, stórslys, hörmung, hörmulegt slys, mikil ógæfa, katastrófa
 catch s. grípa, taka; ná, ná í ([~ the train]); fá; veiða; sjá, heyra, skilja; [~ (a) cold] fá kvef; [the lock has caught] það hefur hlaupið fyrir í skránni; [~ sight of] koma auga á; [~ hold of] ná tökum á e-u, ná í e-ð; [~ at his breath] standa á öndinni; [~ one in a theft, in stealing] standa e-n að þjófnaði; [caught him on the nose] hitti hann á nefið; [he was caught out in a storm] stormur skall á hann; [~ up] ná (í); grípa (taka) fram í fyrir e-m; [~ up a habit] taka upp sið; [the wood caught fire] það kviknaði í skóginum; [the river was caught over] áin var lögð; n. tak, hald; veiði; veiðiskapur; hagur; halda, handfang; tálsnara
 catching l. afsýkjandi, smitandi; óstöðugur ([~ weather])
-catechetics n. ft. spurningafræði
+catechetics nft. spurningafræði
 catechism n. spurningakver
 catechist n. barnafræðari
 catechize s. spyrja börn (úr fræðunum); kenna fræðin
@@ -506,11 +506,11 @@ ceramic l. sem lýtur að leirkerasmíði ([~ work])
 ceramics n. leirkerasmíði
 ceramist n. leirkerasmiður
 cereal l. kornlegur
-cereals n. ft. kornjurtir, korntegundir; kornmeti
+cereals nft. kornjurtir, korntegundir; kornmeti
 cerebral l. sem lýtur að heilanum, heila- ([~ congestion])
 cerebritis n. heilabólga
 cerebrum n. heili
-cerements n. ft. líkvefjur, náklæði
+cerements nft. líkvefjur, náklæði
 ceremonial l. viðhafnarlegur, hátíðlegur; n. viðhafnarregla, viðhafnarsiður
 ceremonious l. viðhafnarlegur, hátíðlegur; formfastur
 ceremoniousness n. hátíðleiki, formfesta
@@ -704,8 +704,8 @@ chibouk n. löng tyrknesk pípa
 chic n. listfengi, stíll; l. tískulegur, skrautlegur
 chicane n. lagaflækjur, hártogun; s. viðhafa lagaflækjur
 chicanery n. lagaflækjur, hártogun
-chicken n. kjúklingur, hænuungi; n. ft. hænsni
-chick n. kjúklingur, hænuungi; n. ft. hænsni
+chicken n. kjúklingur, hænuungi; nft. hænsni
+chick n. kjúklingur, hænuungi; nft. hænsni
 chicory n. kaffirót
 chide s. ávíta, skamma
 chief n. foringi, höfðingi, yfirmaður, goði; l. fremstur, helstur; aðal-; megin-; [~ justice] háyfirdómari; ao. [~ of all] umfram allt
@@ -714,7 +714,7 @@ chieftain n. höfðingi, goði
 chieftaincy n. höfðingjastaða, höfðingjadæmi, goðorð
 chilblain n. kuldapollur, kuldabólga, frostbólga
 child n. barn; [with ~] ólétt, börnuð, þunguð
-children n. ft. börn ([the ~ are at play]); sjá %[child]%
+children nft. börn ([the ~ are at play]); sjá %[child]%
 childbed n. [die in ~] deyja af barnsburði
 childbirth n. barnsburður, barnsfæðing
 childhood n. barnsaldur, barnæska
@@ -747,7 +747,7 @@ chink n. glasahljóð, málmhljóð; peningar; s. glamra, hringla
 chinky l. með sprungum, rifum
 chintz n. sirz
 chip n. höggspónn; flís; sneið; [he is a ~ of the old block] lifandi eftirmyndin hans föður síns; s. höggva smátt; höggva til; flísast
-chippings n. ft. flísar ([~ of stones])
+chippings nft. flísar ([~ of stones])
 chiromancer n. lófalesari
 chiromancy n. lófalestur
 chirp s. kvaka, tísta; n. kvak, tíst
@@ -755,7 +755,7 @@ chirpy l. kátur, fjörugur
 chisel n. meitill; sporjárn; s. meitla, höggva með meitli; svíkja
 chit n. krakki; stelpa
 chit-chat n. skraf, mas
-chitterlings n. ft. slátur (einkum úr svínum)
+chitterlings nft. slátur (einkum úr svínum)
 chivalrous l. riddaralegur
 chivalry n. riddaraskapur; [age of ~] riddaraöld
 chive n. graslaukur
@@ -809,7 +809,7 @@ Christmas carol n. jólasöngur
 Christmas Eve n. aðfangadagskvöld jóla
 Christmas tree n. jólatré
 chromatic l. litlegur, litar-
-chromatics n. ft. litafræði
+chromatics nft. litafræði
 chrome n. króm (málmur)
 chronic l. langvinnur (um sjúkdóma), rótgróinn
 chronicle n. annáll, árbók; frásaga; s. færa í letur, segja frá, annála
@@ -1044,7 +1044,7 @@ clinometer n. hallamælir
 clip s. grípa (klípa) fast utan um; n. þvotthalda, klemma
 clip s. klippa; stýfa; n. afklippa; afklippt ull; stýfing
 clipper n. (kinda)klippari; fljótur hestur; hraðskreytt skip
-clippers n. ft. skæri
+clippers nft. skæri
 clipping n. klipping; stýfing
 clique n. flokkur (fremur niðrandi), lagsflokkur, klíka
 cliquish l. klíkukenndur
@@ -1073,7 +1073,7 @@ clot n. kökkur, hnaus; blóðtappi, blóðlifur, blóðsigi; s. hlaupa saman í
 clotty l. kekkjóttur, klepróttur
 cloth n. klæði; dúkur; staða, stétt (einkum prestastétt); [lay the ~] breiða dúk á borð; [remove the ~] taka dúk af borði; [cut the coat according to the ~] sníða sér stakk eftir vexti
 clothe s. klæða; klæðast
-clothes n. ft. klæði, föt; línföt
+clothes nft. klæði, föt; línföt
 clothesbag n. línfatapoki
 clothesbrush n. fatabursti
 clothes-peg n. þvotthalda, klemma
@@ -1139,7 +1139,7 @@ coalescence n. samvöxtur, samruni
 coalescent l. sem rennur saman í eitt
 coalition n. sameining; samband, bandalag
 coaly l. kolugur; kolsvartur
-coamings n. ft. umbúningur um lúgugat á þilfari
+coamings nft. umbúningur um lúgugat á þilfari
 coapt s. leggja rétt saman ([~ the edges of a wound])
 coarse l. stórgerður, grófur; klúr, ruddalegur ([~ language, ~ expression]); óvandaður (um fæðu)
 coarseness n. ruddaskapur, klúrleiki; grófleiki
@@ -1155,7 +1155,7 @@ coax s. lokka, ginna; [~ one to do/into doing] til að gera e-ð
 cobalt n. kóbalt (málmur)
 cobble n. hnullungur; ft. kastkol; s. steinleggja (stræti); bæta (skó, [~ up])
 cobbler n. skóbætari; klaufi
-cob coals n. ft. kastkol, húsakol
+cob coals nft. kastkol, húsakol
 coble n. flatbotnaður bátur
 cobra n. gleraugnaslanga
 cobweb n. kóngulóarvefur; [have (feel) a ~ in the throat] vera þurr í kverkunum
@@ -1224,7 +1224,7 @@ coffeehouse n. kaffihús, kaffistofa, kaffisöluhús
 coffee mill n. kaffikvörn
 coffeepot n. kaffikanna
 coffeeroom n. kaffistofa; matsalur (á hóteli)
-coffer n. peningaskrín; ft. fjársjóður, fjárhirsla
+coffer n. peningaskrínft. fjársjóður, fjárhirsla
 coffin n. líkkista; s. kistuleggja ([the body was ~ed])
 cog n. hjóltönn; s. setja tennur í hjól; svíkja (í teningskasti)
 cogency n. áhrif; sannfæringarafl
@@ -1341,7 +1341,7 @@ color n. sjá %[colour]%
 colorific l. litandi
 colossal s. risavaxinn; stórkostlegur
 colossus n. risalíkneski; bákn
-colour n. litur; hörundslitur, roði (í kinnum); ytra útlit; blær, yfirskin; ft. flagg, fáni; [change ~] fölna; roðna; [display ~s] flagga; s. lita, draga lit á; fegra; litkast, roðna
+colour n. litur; hörundslitur, roði (í kinnum); ytra útlit; blær, yfirskin; flagg, fáni; [change ~] fölna; roðna; [display ~s] flagga; s. lita, draga lit á; fegra; litkast, roðna
 colourable l. sennilegur; uppgerður, sviksamlegur
 colour-blind l. litblindur
 coloured l. litaður; mislitur
@@ -1378,7 +1378,7 @@ comeliness n. þokki, friðleikur; velsæmi
 comely l. snotur, laglegur
 come-off n. niðurstaða, endir; fyrirsláttur, viðbára
 comer n. komumaður; [the first ~] sá sem fyrst kemur
-comestibles n. ft. matvæli ([he packed the ~])
+comestibles nft. matvæli ([he packed the ~])
 comet n. halastjarna
 cometary l. sem lýtur að eða er líkur halastjörnum
 comfit n. sætindi, kryddbakstur, sykurbakstur; s. sykurbaka
@@ -1451,7 +1451,7 @@ commoner n. alþýðumaður, ótiginn maður; þingmaður í neðri þingdeild (
 commonly ao. venjulega, eins og gerist og gengur
 commonplace n. alkunn setning eða skoðun; hversdagslegur viðburður; l. hversdagslegur, vanalegur
 commonplace book n. minnisbók, vasabók
-commons n. ft. alþýða; ótiginbornir menn; neðri þingdeildarmenn; vistir, vistaskammtur; [short ~] rýrir skammtar
+commons nft. alþýða; ótiginbornir menn; neðri þingdeildarmenn; vistir, vistaskammtur; [short ~] rýrir skammtar
 commonweal n. almenningsheill; ríki (sjá %[commonwealth]%)
 commonwealth n. ríki, þjóðfélag; lýðveldi
 commotion n. ákafleg hreyfing; uppnám; uppþot
@@ -1492,7 +1492,7 @@ comparison n. samanburður ([in ~ with]); samlíking; stigbreyting (lýsingaror�
 compart s. skipta sundur; hólfa
 compartment n. hólf; klefi (í járnbrautarvagni)
 compass n. ummál; takmörk; kompás, áttaviti ([mariner's ~]); hringfari ([pair of compasses]); krókaleið ([go, fetch a ~]); [beyond the ~ of our sight (knowledge)] fyrir utan sjónarsvið (þekkingarsvið) okkar; s. umkringja; lykja um; ferðast í kringum; koma (e-u) fram; ná, öðlast; skilja til fulls; brugga, búa yfir
-compasses n. ft. sirkill, hringfari ([a pair of ~])
+compasses nft. sirkill, hringfari ([a pair of ~])
 compassion n. meðaumkun; [to take/have ~ on] aumkast yfir, kenna í brjósti um
 compassionable l. brjóstumkennanlegur
 compassionate l. meðaumkunarsamur; brjóstgóður; s. kenna í brjósti um, vorkenna
@@ -1871,7 +1871,7 @@ consolatory l. huggandi, huggunarríkur; huggunar-
 console s. hugga, hughreysta
 consolidate s. herða, þétta, festa, styrkja; sameina í eitt; storkna, harðna; sameinast
 consolidation n. þétting; styrking; sameining; storknun
-consols n. ft. ensk ríkisskuldabréf ([Consolidated Annuities])
+consols nft. ensk ríkisskuldabréf ([Consolidated Annuities])
 consonance n. samræmi, samhljóðan
 consonant l. samkvæmur, samhljóða ([with, to]); n. samhljóði, samhljóðandi
 consort n. hjúskaparfélagi, eiginmaður, eiginkona; samferðaskip; s. samtengja; koma saman; hafa mök (við [with])
@@ -2254,7 +2254,7 @@ cotton n. baðmull; baðmullardúkur; tvinni; s. lynda (við [with]); koma sér 
 cottongrass n. fífa
 cotton factory n. baðmullarverksmiðja
 cotton mill n. baðmullarverksmiðja
-cotton prints n. ft. baðmullarrósavefnaður
+cotton prints nft. baðmullarrósavefnaður
 cotton-wool n. óhreinsuð baðmull
 cottony l. baðmullarkenndur; loðinn ([leaves ~ underneath])
 couch s. leggja; hneigja; fella (spjót til atlögu); semja, orða ([~ in terms, words, language]); taka ský af auga; hylja; liggja, hvílast; liggja í leyni; n. hvíla, ból; legubekkur, sófi; lag ([a thin ~ of varnish])
@@ -2438,7 +2438,7 @@ creative l. skapandi, sköpunar-
 creator n. skapari
 creature n. skepna; kvikindi; sköpuð vera; maður; [poor ~!] vesalingurinn!
 credence n. trúnaður; [to give ~ to] leggja trúnað á; [letter of ~] meðmælingarbréf
-credentials n. ft. meðmælingarbréf, (einkum) umboðsskjal sendiherra
+credentials nft. meðmælingarbréf, (einkum) umboðsskjal sendiherra
 credibility n. trúanleiki
 credible l. trúanlegur
 credibly ao. trúanlega
@@ -2580,7 +2580,7 @@ crusade n. krossferð; s. fara krossferð
 crusader n. krossfari
 crush s. kreista, kremja; mylja; böggla; knosa; bæla niður ([~ free inquiry]); bera ofurliði, yfirbuga; n. kramning; tortíming; fjölmenni, ös; fjölmennt samkvæmi
 crust n. skorpa; hrúður; skel, skurn; s. setja skorpu eða hrúður á; fá skorpu, hrúðra
-crustacea n. ft. krabbadýr
+crustacea nft. krabbadýr
 crusty l. skorpukenndur, harður; önugur, hryssingslegur (í viðmóti)
 crutch n. hækja ([a pair of ~-es]); s. styðja; ganga við hækju
 cry s. æpa, kalla; hljóða, gráta; bjóða til sölu (á götum); [~ down] banna; lasta, niðra; [~ up] lofa mikillega; n. kall, óp; hljóð, grátur; [to give ~ after] æpa á eftir e-m

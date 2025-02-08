@@ -7,7 +7,7 @@ eagle-eyed l. arneygur, hvasseygur
 eaglet n. arnarungi
 ear n. eyra; handarhald; hanki; [over (head and) ~s, up to the ~s in debt] skuldunum vafinn; [turn a deaf ~ to] skjóta skolleyrunum við e-u; [pull/drag by the ~s] draga á eyrunum; [set by the ~s] siga (etja) e-m saman; [sing/play by ~] syngja (leika á hljóðfæri) nótnalaust, eftir eyra; [have itching ~s] vera forvitinn; ax (á korni); s. skjóta öxum; [the rye was beginning to ~] öx voru farin að koma á rúginn
 earache n. hlustarverkur
-eardrops n. ft. eyrnalokkar
+eardrops nft. eyrnalokkar
 earless l. eyrnalaus; heyrnarlaus; hanka- eða handarhaldslaus
 earmark n. eyrnamark (á kind)
 earpick n. eyrnaskefill
@@ -20,7 +20,7 @@ earl n. jarl (lægri en %[marquis]% að tign, en æðri en %[viscount]%)
 earldom n. jarldómur
 early l. sem er snemma dags; snemmkvæmur; snemmgrær; öndverður; skjótur; [keep ~ hours] fara snemma á fætur og snemma að hátta; [the ~ bird gets the worm] morgunstund hefur gull í mund; [an ~ riser] árrisull maður; [at an ~ hour] snemma dags; [in the ~ part of his life] á öndverðri ævi hans; ao. snemma dags; árla; snemma
 earn s. vinna fyrir (e-u); ávinna sér; innvinna sér, afla
-earnings n. ft. það sem aflað er, arður, vinningur
+earnings nft. það sem aflað er, arður, vinningur
 earnest n. alvara; festarfé (sem goldið er fyrirfram til að tryggja kaupsamning); trygging; [I am in real ~] mér er full alvara; l. alvarlegur, einlægur
 earnestly ao. alvarlega, einlæglega; í alvöru
 earnestness n. einlægni, alvara
@@ -50,11 +50,11 @@ easy chair n. hægindastóll
 easy-going l. þýður (um hest); makráður
 eat s. éta, snæða, borða; [~ one's words] éta ofan í sig (orð sín)
 eatable l. ætur, ætilegur
-eatables n. ft. matvæli
+eatables nft. matvæli
 eater n. átmaður
 eating n. matur; át; [good ~] góður átu
 eating house n. matsöluhús
-eaves n. ft. þakbrún, þakskegg
+eaves nft. þakbrún, þakskegg
 eavesdrop s. hlera, standa á hleri
 eavesdropper n. hlerari, njósnari
 ebb n. fjara; útfall; hnignun; [be at a low (the lowest) ~] vera í litlum (mjög litlum) metum; s. falla út; [~ away] þverra ([as his strength ~ed away]); [~ out] fjara út
@@ -79,7 +79,7 @@ ecliptic n. sólarbraut, sólbrautarbaugur
 eclogue n. hirðingjaljóð
 economic l. hagfræðilegur, þjóðmegunarlegur; sparsamur; sem er til hagsmuna (eða sparnaðar); efnahagslegur (sem snertir hið efnahagslega ástand)
 economical l. hagfræðilegur, þjóðmegunarlegur; sparsamur; sem er til hagsmuna (eða sparnaðar); efnahagslegur (sem snertir hið efnahagslega ástand)
-economics n. ft. hagfræði, þjóðmegunarfræði
+economics nft. hagfræði, þjóðmegunarfræði
 economist n. hagfræðingur, þjóðmegunarfræðingur; sparnaðarmaður
 economize s. spara; nota sparlega; hagnýta
 economy n. efnahagur; efnahagslegt ástand; [political ~] þjóðmegunarfræði; (hús)stjórn; fyrirkomulag, tilhögun; sparsemi, sparnaður
@@ -98,7 +98,7 @@ edgewise ao. á ská; á rönd
 edging n. borði, brydding
 edgy l. beittur, egghvass
 edible l. ætur
-edibles n. ft. matvæli, matur ([~ and drinkables])
+edibles nft. matvæli, matur ([~ and drinkables])
 edict n. lagaskipun, tilskipun
 edification n. uppbygging, trúarstyrking
 edificatory l. uppbyggilegur
@@ -215,7 +215,7 @@ elbow n. olbogi; bugða (á vegi eða á); [up to the ~s] önnum kafinn; [out at
 elbowchair n. hægindastóll
 elbow room n. rúm til að geta hreyft sig, svigrúm
 elder l. eldri; n. öldungur (í kirkjunni); ylliviður, yllir
-elders n. ft. eldri menn; [my ~] eldri menn en ég
+elders nft. eldri menn; [my ~] eldri menn en ég
 elderly l. aldraður
 eldership n. frumburðarréttur; kirkjulegt öldungaráð
 eldest l. elstur ([my ~ son])
@@ -336,7 +336,7 @@ embed s. leggja (eins og í rúm); umlykja; sjá %[imbed]%
 embellish s. skreyta, prýða; fegra
 embellishment n. fegrun; prýði; ýkjur
 ember n. einkum haft í ft. [~s] glóð, glæður, eimyrja
-ember-days n. ft. imbrudagar
+ember-days nft. imbrudagar
 ember-diver n. himbrimi
 embergoose n. himbrimi
 ember-week n. sæluvika
@@ -660,7 +660,7 @@ entomb s. láta í gröf, grafa, jarða
 entombment n. greftrun
 entomologist n. skordýrafræðingur
 entomology n. skordýrafræði
-entrails n. ft. innyfli; iður ([~ of the earth])
+entrails nft. innyfli; iður ([~ of the earth])
 entrammel s. hefta, fjötra
 entrance n. inngangur; innganga; innför; mynni; [at his ~ into office] þegar hann tók við embættinu; [~ money] inngöngueyrir; s. gera e-n utan við sig eða frá sér numinn, dáleiða
 entrancement n. leiðsla, hrifning
@@ -694,7 +694,7 @@ envier n. öfundarmaður, öfundari
 envious l. öfundsjúkur, öfundarfullur ([~ of something])
 environ s. lykja um, umkringja ([~ed with/by mountains])
 environment n. umhverfi; landið umhverfis
-environs n. ft. landið umhverfis borg, umhverfi ([the ~ of a town])
+environs nft. landið umhverfis borg, umhverfi ([the ~ of a town])
 envisage s. horfa beint framan í e-ð, bjóða byrgin ([~ danger]); skoða, virða fyrir sér
 envoy n. minniháttar sendiherra; erindreki, umboðsmaður
 envy n. öfund, öfundsýki; s. öfunda; sjá ofsjónum yfir e-u
@@ -850,14 +850,14 @@ escort n. fylgdarlið; föruneyti; s. fylgja (e-m) til varnar eða heiðurs
 esculent l. ætur
 escutcheon n. merkiskjöldur ([a blot on his ~])
 esoteric l. heimullegur, dularfullur
-esoterics n. ft. dulspeki
+esoterics nft. dulspeki
 espalier n. e.k. grindur, limgerði
 especial l. sérstakur, sérstaklegur ([of ~ importance])
 especially ao. einkum, sér í lagi
 espial n. njósn ([a hole of ~])
 espionage n. njósnir
 esplanade n. autt svæði milli virkis og borgar; virkisflöt
-espousals n. ft. trúlofun
+espousals nft. trúlofun
 espouse s. kvongast, giftast; fastna; taka að sér, aðhyllast ([~ a cause, doctrine, theory])
 esprit n. fjör og fyndni í ræðu og riti, andríki
 espy s. njósna; verða var við, koma auga á; gæta, horfa
@@ -877,7 +877,7 @@ estafette n. ríðandi hraðboði ([an ~ was dispatched])
 estate n. stétt (í þjóðfélaginu); jarðeign, fasteign; bú (dánarbú, þrotabú); ástand
 esteem n. virðing, met ([in high, low ~]); s. virða, meta ([~ highly, little]); telja; skoða; hyggja
 estimable l. virðingarverður
-estimate n. mat, áætlun; ft. fjárhagsáætlun, fjárlagafrumvarp; dómur (um e-ð [of]); álit ([to sink in the ~ of]); s. meta, virða; verðleggja; gera áætlun (um); dæma um; [~ at nothing] meta einskis
+estimate n. mat, áætlun; nft. fjárhagsáætlun, fjárlagafrumvarp; dómur (um e-ð [of]); álit ([to sink in the ~ of]); s. meta, virða; verðleggja; gera áætlun (um); dæma um; [~ at nothing] meta einskis
 estimation n. virðing; áætlun; [to hold/have in high ~] hafa í miklum metum; [in my ~] að mínu áliti
 estimator n. matsmaður
 estival l. sjá %[aestival]%
@@ -1028,7 +1028,7 @@ exacerbation n. gremja; versnun ([~ of disease])
 exact l. nákvæmur; áreiðanlegur; s. krefja (e-n e-s), krefjast e-s (af e-m [of, from]); heimta saman (t.d. skuldir eða skatta); ganga ríkt eftir
 exacting l. heimtufrekur, harður í kröfum, harðdrægur
 exaction n. heimting, krafa; innheimta; féfletting
-exactions n. ft. þungar álögur
+exactions nft. þungar álögur
 exactitude n. nákvæmni ([the ~ of the statement]); kostgæfni
 exactly ao. nákvæmlega; beint, beinlínis
 exactness n. nákvæmni ([the ~ of the statement])
@@ -1139,7 +1139,7 @@ exemplify s. skýra (sýna) með dæmum; fá (staðfest) eftirrit af (skjali)
 exempt s. taka (skilja) undan; leysa undan (e-u [from]); l. undanþeginn, laus (við [from])
 exemption n. undanþága, undantekning; lausn (frá e-u [from])
 exequial l. greftrunar- ([~ rites])
-exequies n. ft. útför
+exequies nft. útför
 exercise s. nota; fremja; starfsetja; venja (við); æfa; beita (valdi); þjá; n. notkun; iðkun; beiting; framkvæmd; æfing; hreyfing; stíll; [walk for ~] ganga sér til hreyfingar; [religious (devotional) ~] bænahald
 exercise book n. stílabók
 exercitation n. beiting ([~ of one's faculties]); æfing ([rhetorical ~]); húslestur, bænahald ([spiritual ~s]); ritgerð, hugvekja
@@ -1315,14 +1315,14 @@ extent n. víðátta, stærð; yfirgrip; [to a great ~] að miklum mun; [I don't
 extenuate s. megra ([~ the body]); þynna ([~ the air]); rýra; draga úr, gera lítið úr (e-u); afsaka
 extenuation n. megurð; megrun; rýring; afsökun
 extenuatory l. afsakandi, fegrandi ([~ phrases])
-exterior l. ytri; utanverður; n. ft. [~s] ytra útlit
+exterior l. ytri; utanverður; nft. [~s] ytra útlit
 exteriorly ao. að utan; hið ytra
 exterminate n. uppræta; gereyða
 extermination n. uppræting, gjöreyðing
 exterminator n. upprætari
 external l. ytri, utanverður; sem kemur að utan; [~ trade] verslun við útlönd
 externally ao. að utan
-externals n. ft. ytri einkenni, ytra útlit
+externals nft. ytri einkenni, ytra útlit
 extinct l. slokknaður, útbrunninn ([an ~ volcano]); liðinn undir lok; genginn úr gildi (um lög)
 extinction n. slokknun; dauði; gjöreyðing; afnám ([~ of the national debt])
 extinctive l. eyðandi ([~ agency])

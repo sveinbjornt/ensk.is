@@ -9,7 +9,7 @@ baboonery n. apalæti
 baby n. ungbarn
 babyhood n. barnsaldur, barndómur; barnæði
 bacchanal l. óhemjulegur, svallsamur; n. Bakkusardýrkandi; drykkjusvallari
-bacchanals n. ft. óhemjulegt (drykkju)svall, orgía
+bacchanals nft. óhemjulegt (drykkju)svall, orgía
 bacchanalian l. svallsamur, orgíu-; n. slarkari
 bacchant n. Bakkusardýrkandi
 bacchante l. Bakkynja
@@ -32,7 +32,7 @@ backwardness n. tregða, leti
 backwash n. útsog
 bacon n. beikon (reykt eða saltað svínakjöt); [save one's ~] komast undan með heilu og höldnu
 bacterium n. gerill
-bacteria n. ft. gerlar (sjá %[bacterium]%)
+bacteria nft. gerlar (sjá %[bacterium]%)
 bacteriologist n. gerlafræðingur
 bacteriology n. gerlafræði, bakteríufræði
 bad l. illur, vondur, slæmur; [he has a ~ eye] honum er illt í auga; [he has a ~ tooth] skemmda tönn
@@ -118,7 +118,7 @@ bankrupt l. gjaldþrota; n. gjaldþrota maður; s. gera gjaldþrota
 bankruptcy n. gjaldþrot
 banner n. fáni, merki
 bannock n. flatbrauð, byggkaka (á Skotlandi)
-banns n. ft. lýsing til hjónabands ([to ask, publish, put up the ~])
+banns nft. lýsing til hjónabands ([to ask, publish, put up the ~])
 banquet n. hóf, stórveisla; s. veita mat og drykk ríkulega; borða og drekka óspart
 banqueting room n. veislusalur
 banter s. gera gys að, erta; n. ertni, glens, glettur
@@ -252,14 +252,14 @@ be s. vera; verða; [where am I to sit] hvar á ég að sitja? [ask her how her 
 beach n. strönd, fjara; s. setja (skip) upp í fjöru
 beacon n. viti, vitaeldur; varðturn; s. lýsa, uppljóma
 bead n. perla, tala; s. skreyta með perlum
-beads n. ft. talnaband
+beads nft. talnaband
 beadle n. kirkjuþjónn; háskólaþjónn; réttarþjónn
 beady l. líkur perlu ([~ eyes])
 beak n. fuglsnef; skipstrjóna; s. höggva í
 beaked l. nefmyndaður, trjónumyndaður
 beaker n. bikar
 beam n. bjálki, biti; vefjarrifur; vogarstöng; vagnstöng; n. geisli; s. geisla, skína
-beam-ends n. ft. endarnir á bitunum undir þilfarinu; [to be on the ~] liggja á hliðinni (um skip); vera í hættu eða vanda staddur
+beam-ends nft. endarnir á bitunum undir þilfarinu; [to be on the ~] liggja á hliðinni (um skip), vera í hættu eða vanda staddur
 beamy l. ljómandi, skínandi
 bean n. baun
 bear-baiting n. bjarndýraat
@@ -295,7 +295,7 @@ become s. verða, sæma; fara (e-m vel eða illa); [what has ~ of him] hvað hef
 becoming l. hæfilegur; sem fer vel
 bed n. rúm; beður ([~ of roses]); beð (í garði); sáðreitur; jarðlag; árfarvegur; [go to ~] fara að hátta; [be ill in ~] liggja veikur; [be in ~ with] liggja veikur af; [die in one's ~] á sóttarsæng; [be brought to ~ of a child] ala barn; [do/make a ~] búa um rúm; [be separated from ~ and board] skilin að borði og sæng; [~ of death] banabeður, banasæng; s. hálta; setja (planta) í beð ([~ out])
 bedchamber n. svefnherbergi
-bedclothes n. ft. rúmföt
+bedclothes nft. rúmföt
 bedfellow n. rekkjunautur
 bedgown n. náttkjóll
 bedridden l. rúmfastur, karlægur
@@ -328,7 +328,7 @@ beefsteak n. nautasteik
 beefy l. kjötmikill; vöðvamikill, kröftugur
 beer n. bjór, öl
 beery l. bjórkenndur; ölvaður (af bjór)
-beestings n. ft. broddur úr nýbæru; [curds of ~] ábristir
+beestings nft. broddur úr nýbæru; [curds of ~] ábristir
 beet n. e.k. rófa; [white ~] sykurrófa
 beetroot n. sykurrófa, rauðrófa
 beetle n. bjalla (skorkvikindi); kylfa, sleggja; s. standa (slúta) fram
@@ -406,7 +406,7 @@ bellybound l. sem er harðlíft
 bellyful n. kviðfylli, magafylli
 bellyworm n. njálgur, spólormur
 belong s. heyra til; [this book ~s to me] ég á þessa bók
-belongings n. ft. eignir, munir
+belongings nft. eignir, munir
 beloved l. elskaður (af [by]); vinsæll
 below fs. undir, fyrir neðan; [it is ~ me] mér ósamboðið; ao. niðri; á jörðinni; í undirheimum
 belt n. belti, lindi; ól; s. gyrða með belti; umgyrða
@@ -560,7 +560,7 @@ bilk s. svíkja; leika á; blekkja; hafa af (e-m); n. svikari
 bill n. nef (á fugli); akkerisflaug; atgeir; s. nugga saman nefjum; klappast og kyssast
 bill n. frumvarp, nýmæli; reikningur; auglýsingarskjal; skrifleg kæra, kæruskjal; víxill ([~ of exchange]); [~ of building] smíðisbréf (skips); [~ of entry] vöruskrá (til tollbúðar); [~ of divorce] skilnaðarskjal; [~ of health] heilsuvottorð; [~ of fare] matseðill; [~ of lading] farmbréf, móttökuskírteini skipstjóra; [~ of sale] kaupbréf; [find a true ~] úrskurða kæru réttmæta, vísa henni til dómsúrskurðar; [ignore a ~] vísa kæru frá
 billet n. seðill; vistarseðill (hermanna); trédrumbur, trékubbur (til eldsneytis); s. skipa (hermönnum) í dvöl ([~ soldiers on the people])
-billiards n. ft. knattborðsleikur
+billiards nft. knattborðsleikur
 billiard-table n. knattborð
 billingsgate n. skrílmál, skammir
 billion n. milljarður, eitt þúsund milljónir
@@ -577,7 +577,7 @@ bing n. bingur, hrúga
 binnacle n. kompásskýli (á hafskipi)
 binocle n. kíkir (fyrir bæði augun)
 binocular l. ætlaður báðum augum ([~ telescope])
-binoculars n. ft. kíkir
+binoculars nft. kíkir
 biographer n. ævisöguritari
 biographical l. ævisögulegur
 biography n. ævisaga
@@ -611,7 +611,7 @@ bite s. bita; bíta í; (um fisk) taka beitu; hrífa (um akkeri); [~ the dust/gr
 biting l. bítandi; ramur, beiskur; nístandi, sárkaldur; napur, sáryrtur
 bitter l. beiskur; sár, bitur
 bitterness n. beiskja; gremja
-bitters n. ft. bitter-brennivín
+bitters nft. bitter-brennivín
 bittern n. stjörnuhegri (fugl)
 bitumen n. jarðbik
 bituminous l. jarðbikskenndur, úr jarðbiki
@@ -748,7 +748,7 @@ blub s. skæla, gráta ákaft
 blubber n. spik; hvalspik; selspik; grátur; s. skæla, gráta ákaft
 bludgeon n. lurkur, barefli ([armed with swords and ~s]); s. lemja með lurk eða barefli
 blue l. blár; dapur í bragði; þunglyndur; [(he was) ~ in the face] agndofa; [look ~] vera þungbúinn á svipinn; [drink till all's ~] drekka sig blindfullan; [~ talk] lauslætishjal; [true ~] ósvikinn; [be in a ~ funk] vera dauðhræddur; [~ blood] ættgöfgi; [~ devils, feeling blue] þunglyndi; [~ water] rúmsævi, reginhaf; [once in a ~ moon] aðeins örsjaldan; n. blár litur; blár himinn; rúmsjór ([~ water]); blámi; blákka; [like a bolt from the ~] eins og þruma úr heiðskíru lofti; s. blákka (lín); lita (gera) blátt
-blues n. ft. þunglyndi; [a fit of ~] þunglyndiskast; blústónlist
+blues nft. þunglyndi; [a fit of ~] þunglyndiskast; blústónlist
 bluebell n. bláklukka (blóm)
 blue-blooded l. ættgöfugur
 blue-bottle n. kornblómstur; maðkafluga
@@ -782,7 +782,7 @@ blusterous l. ofsafenginn
 bo uh. bú! [say ~ to a goose] þora að mjamta
 boa n. risaslanga (í Suður-Ameríku) ([a vicious boa constrictor])
 boar n. göltur
-board n. borð, fjöl; borðhald, kostur, matur; stjórnarnefnd; tafla, veggspjald ([black -~]), pappaspjald ([card~]); spjald á bók; [~ of trade] verslunarráð; [sweep the ~] sópa öllum spilunum eða vinningnum af borðinu; [groaning ~] sem svignar undir réttunum; [~ and lodging] kostur og húsnæði; [separated from bed and ~] að borði og sæng; [go by the ~] falla útbyrðis; [over ~] útbyrðis, fyrir borð; [on ~] út á skip, út á skipi; s. þilja, klæða með borðum; leggja að skipi, ganga á skip; selja (e-m) mat (kost); vera til fæðis (í kosti) hjá e-m ([with]); n. ft. [boards] leiksvið, ([on the ~]); pappaband ([a book in ~])
+board n. borð, fjöl; borðhald, kostur, matur; stjórnarnefnd; tafla, veggspjald ([black -~]), pappaspjald ([card~]); spjald á bók; [~ of trade] verslunarráð; [sweep the ~] sópa öllum spilunum eða vinningnum af borðinu; [groaning ~] sem svignar undir réttunum; [~ and lodging] kostur og húsnæði; [separated from bed and ~] að borði og sæng; [go by the ~] falla útbyrðis; [over ~] útbyrðis, fyrir borð; [on ~] út á skip, út á skipi; s. þilja, klæða með borðum; leggja að skipi, ganga á skip; selja (e-m) mat (kost); vera til fæðis (í kosti) hjá e-m ([with]); nft. [boards] leiksvið, ([on the ~]); pappaband ([a book in ~])
 boarder n. kostþegi
 boarding n. borðaklæðning; uppganga á skip; kostur (matur)
 boardinghouse n. matsöluhús
@@ -915,7 +915,7 @@ bother s. ónáða; vera til óþæginda; [~ one's brain] brjóta heilann (um e-
 botheration n. ami, ónæði
 bottle n. flaska; s. láta á (flösku)
 bottlecase n. flöskuhylki
-bottle-ends n. ft. flöskubrot
+bottle-ends nft. flöskubrot
 bottlehead n. andarnefja
 bottle-label n. flöskumiði
 bottlenose n. klumbunef; andarnefja
@@ -952,7 +952,7 @@ bow n. bogi ([shoot with a ~]); regnbogi; söðulbogi; [bend/draw a ~] draga upp
 bow n. framstafn; kinnungur
 bow s. hneigja, beygja; hneigja sig; n. hneiging; samþykki
 bowdlerize s. hreinsa bók eða rithöfund
-bowels n. ft. innyfli; iður ([~ of the earth]); meðaumkun
+bowels nft. innyfli; iður ([~ of the earth]); meðaumkun
 bower n. laufskáli; dyngja; bústaður
 bowery l. skuggsæll
 bow-hand n. vinstri hönd
@@ -1041,7 +1041,7 @@ breathing n. andardráttur; augnablik; andvari
 breathless l. sem ekki nær öndinni, lafmóður; líflaus, örendur; raddlaus (um hljóð)
 breccia n. þursaberg
 breech n. afturhluti
-breeches n. ft. brækur
+breeches nft. brækur
 breechloader n. afturhlæða (byssa)
 breed s. ala, fæða; framleiða, geta af sér; ala upp, rækta ([~ cattle]); kvikna; koma upp; n. kynferði; kyn
 breeding n. uppeldi; góðir siðir ([good ~])
@@ -1051,7 +1051,7 @@ breeding place n. varpstöð
 breeze n. hægur vindur; þræta, uppþot
 breezy l. vindasamur; hvass, svalur
 brent-goose n. margæs, hrotgæs
-brethren n. ft. meðbræður
+brethren nft. meðbræður
 brevet n. nafnbótarskjal; [~ rank] nafnbótarstaða; s. veita e-m nafnbótarstöðu
 breviary n. bænabók (kaþólskra klerka); tíðabók
 brevity n. stuttleiki
@@ -1129,7 +1129,7 @@ brokenhearted l. harmþrunginn
 broken-spirited l. harmþrunginn
 broker n. miðlari, verslunarmiðill; skransali; veðlánari
 brokerage n. miðlaraiðn; miðlaralaun
-bronchia n. ft. lungnapípur
+bronchia nft. lungnapípur
 bronchitis n. barkakitlabólga, berkjukvef, lungnakvef, bronkítis
 bronze n. brons (málmblendingur); s. setja bronslit á; gera tilfinningarlausan, herða
 brooch n. brjóstnál
@@ -1190,7 +1190,7 @@ buckram n. stinnt léreft
 buckskin n. hjartarleður; þykkur dúkur
 buckwheat n. bókhveiti (jurt)
 bucolic l. hjarðmannlegur
-bucolics n. ft. hjarðkvæði
+bucolics nft. hjarðkvæði
 bud n. blómknappur, brum; s. fá brum, fara að spretta
 budge s. hreyfa sig úr sporunum; færa úr stað
 budget n. fjárhagsáætlun; baggi, birgðir
@@ -1328,7 +1328,7 @@ buzzard n. músafálki
 by fs. & ao. hjá ([have not got it ~ me]); um ([travel to Prague ~ Dresden]); á (~ night, ~ day); framhjá ([go ~ him]); með ([take ~ force]); af ([written ~]); við; [ten feet ~] four 10 fet á lengd og 4 fet á breidd (eða hæð); [~ the pound] í pundatali; [~ the hundred, ~ hundreds] hundruðum saman; [go ~ ones and twos] einn og tveir í einu; [~ tomorrow] ekki síðar en á morgun; [older ~ two years] tveim árum eldri; [~ name] að nafni; [step ~ step] skref fyrir skref; [~ heart] utanbókar; [~ and ~] bráðum; smámsaman: [~ the by] meðal annara orða; eftir á að hyggja; [~ rights] að réttu lagi, með réttu
 byblow n. holukrakki
 by-election n. aukakosning
-by-hours n. ft. tómstundir
+by-hours nft. tómstundir
 bygone l. liðinn, umliðinn ([~ times])
 bylaw n. samþykkt ([regulations or ~])
 byname n. viðurnefni; auknefni

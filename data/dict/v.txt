@@ -49,7 +49,7 @@ valley n. dalur
 valorous l. hughraustur, vasklegur, hugrakkur, frækinn
 valour n. hughreysti, hugrekki, frækni
 valuable l. dýrmætur, fémætur; mikilsverður, gagnlegur
-valuables n. ft. fémætir munir, dýrgripir
+valuables nft. fémætir munir, dýrgripir
 valuation n. virðing, mat; verðlag
 valuator n. matsmaður
 value n. gildi; verð; verðmæti; andvirði; [of great (little, no) ~] mikils (lítils, einskis) virði; [set much ~ on (upon)] meta mikils; s. meta ([~d it at four pounds]); virða mikils
@@ -88,7 +88,7 @@ variola n. bóla, bólusótt
 variolous l. bóluveikur; bólu-
 various l. ýmislegur, margvíslegur; breytilegur
 varix n. æðahnútur
-varices n. ft. æðahnútur
+varices nft. æðahnútur
 varlet n. þjónn; bófi, þorpari; þjónalið
 varnish n. gljákvoða; gljái; s. bera gljákvoðu á; fegra
 vary s. breyta; gera breytilegt; breytast; vera misjafn; vera ólíkur (e-m [from])
@@ -205,7 +205,7 @@ verisimilitude n. sannlíki; líkindi
 veritable l. sannur, sannarlegur
 verity n. sannleikur; [of ~] í sannleika
 verjuice n. súr mjöður
-vermicelli n. ft. hveitispípur, núðlur (ítalskur réttur)
+vermicelli nft. hveitispípur, núðlur (ítalskur réttur)
 vermicular l. líkur ormi í lögun eða hreyfingum, ormslegur, orma-
 vermiculate l. líkur ormi í lögun eða hreyfingum, ormslegur, orma-
 vermiculation n. ormsleg hreyfing
@@ -263,7 +263,7 @@ vexation n. ertni, áreitni; gremja
 vexatious l. áreitinn, meinlegur; örðugur, þungbær ([a ~ occurrence])
 viaduct n. dalbrú (sem vegur er lagður yfir)
 vial n. lítil flaska, glas
-viands n. ft. matvæli
+viands nft. matvæli
 viaticum n. nesti
 vibrate s. sveifla, vingsa; titra, hristast; sveiflast
 vibration n. titringur, sveifla
@@ -292,7 +292,7 @@ victorious l. sigursæll
 victory n. sigur
 victual s. sjá (e-m) fyrir vistum
 victualler n. vistasali; vistaskip
-victuals n. ft. vistir, matvæli; [broken ~] matarleifar
+victuals nft. vistir, matvæli; [broken ~] matarleifar
 videlicet ao. nefnilega, sem sé (skammstafað [viz], sbr. [to wit])
 vie s. keppa (við [with])
 view n. sjón, sýn; útsýni; skoðun; hyggja; skilningur; sjónarmið ([point of ~]); áform, tilgangur; [be in ~] vera í sýn, sýnilegur, sjást; [in full ~] í augsýn; [with this ~] í þessum tilgangi; [on ~] til sýnis; s. skoða, virða fyrir sér

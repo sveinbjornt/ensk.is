@@ -147,7 +147,7 @@ lanner n. suðræn fálkategund
 lanolin n. ullarfeiti
 lantern n. ljósker; [Jack with a ~] mýrarljós
 lantern-jawed l. kinnfiskasoginn
-lantern jaws n. ft. holar kinnar
+lantern jaws nft. holar kinnar
 lap n. skaut, kelta; laf (á frakka); sleikja; niður, gjálfur; s. vefja (utan um), sveipa; lepja ([~ up]); gjálfra (um vatn); svolgra; [~ over] liggja yfir (eins og borð í skarsúð)
 lapdog n. kjölturakki
 lapful n. full kelta ([a ~ of roses])
@@ -286,7 +286,7 @@ laxative l. losandi, búkhreinsandi; n. hægðalyf
 laxity n. lausleiki; linleiki; hirðuleysi; ónákvæmni ([a ~ of language])
 lay s. leggja, setja; bæla niður ([~ the dust]); sefa, stilla; veðja; liggja (rangt fyrir [lie]); [~ eggs] verpa; [~ the table] bera á borð; [~ a ghost] kveða niður draug; [~ the land] sigla úr landsýn, sigla land í hvarf; [~ a woman] hjálpa konu í barnsnauð; [~ a wager, a bet] veðja; [~ hold of] grípa; taka undir sig; [~ waste] eyða; [~ open] bera, gera bert; sýna; [~ about one] herða sig, neyta allrar orku; [~ aside] leggja e-ð af sér; leggja niður; [~ by] leggja (koma) fyrir (til geymslu); geyma; safna (t.d. peningum); [~ by the heels] fjötra, setja í járn; [~ down] leggja niður (t.d. tign eða vopn); halda (setja) fram (skoðun); [~ down the law] þýða lögin; [~ down one's life] láta lífið; [~ in] safna; birgja sig að; [~ out] leggja fram; gera út af við e-n; klæða lík til sýnis; verja peningum; [~ out a garden] skipta garði í reiti; [~ oneself out for] búast til e-s, leggja stund á; [~ to] kenna um ([~ to a person's charge]); [~ up] leggja upp; safna; taka ofan skipsreiða; [to be laid up] leggjast (liggja) rúmfastur; [~ upon] veðja um; [~ the blame upon] kenna um
 lay n. lag; lega
-lay days n. ft. legudagar (skips)
+lay days nft. legudagar (skips)
 lay n. kvæði; ljóð
 lay l. veraldlegur, leikur; [~ habit] leikmannabúningur
 layman n. leikmaður, ólærður maður
@@ -310,7 +310,7 @@ leadership n. forysta
 leading l. fremstur, helstur; ráðandi
 leading article n. ritstjórnargrein; aðalvara
 leading wind n. hagstæður vindur, byr
-leading-strings n. ft. taumband; [be in ~] vera ósjálfstæður, ósjálfbjarga
+leading-strings nft. taumband; [be in ~] vera ósjálfstæður, ósjálfbjarga
 leady l. blýgrár ([~ gray])
 leaf n. lauf, blað; hurðvængur; borðvængur; [to put forth leaves] laufgast; s. fá blöð, laufast
 leafage n. lauf, blöð
@@ -347,7 +347,7 @@ leave s. skilja eftir, skilja við, fara frá, yfirgefa; láta eftir sig (konu, 
 leaved l. laufgaður; blaðaður ([three-~]); vængjaður (um hurð)
 leaven n. súrdeig; s. sýra
 leave-taking n. kveðja
-leavings n. ft. leifar (af mat eða drykk), afgangur
+leavings nft. leifar (af mat eða drykk), afgangur
 lecher n. saurlífismaður
 lecherous l. saurlífur
 lechery n. saurlifnaður, saurlífi
@@ -371,7 +371,7 @@ leechcraft n. blóðtökulækningar; læknislist (fornt)
 leek n. graslaukur
 leer s. gjóta augunum (til e-s [upon]); n. hornauga, gota (með augunum)
 leeringly ao. með glettnisfullu (kímileitu) augnaráði
-lees n. ft. dreggjar
+lees nft. dreggjar
 left l. (sem er) eftir; vinstri; ao. til vinstri handar, vinstra megin; n. vinstri hönd ([~ hand])
 left-handed l. örvhendur; vafasamur, tvísýnn
 leftward ao. vinstra megin; til vinstri
@@ -540,7 +540,7 @@ ligament n. band; sin
 ligature n. umband
 light n. ljós; birta; ft. vit, skynsemi; [to bring (come) to ~] leiða (koma) í ljós; l. ljós, ljósleitur, bjartur, bjartleitur; s. kveikja ([~ a fire]); kveikja á ([~ a lamp]); lýsa (t.d. herbergi); lýsa e-m; [her whole countenance lit up with delight] gleðin skein úr öllu andliti hennar
 light-coloured l. ljósleitur
-light dues n. ft. vitagjald
+light dues nft. vitagjald
 lighthouse n. viti
 lighting n. lýsing
 lightship n. vitaskip
@@ -558,7 +558,7 @@ light s. stíga ofan (úr vagni); fara af baki ([down, off]); setjast (um fugla)
 lighten s. létta ([~ the burden]); gera auðveldara; afferma; lýsa; ljóma, leiftra; hýrga; [it ~s] eldingarganga
 lighter n. kveikjari; uppskipunarbátur, flatbotnaður byrðingur
 lightning n. elding
-lights n. ft. dýralungu
+lights nft. dýralungu
 light-skirts n. lauslætiskvendi
 ligneous l. trékenndur; tré-
 lignify s. breyta í tré; tréna
@@ -625,7 +625,7 @@ lingual l. tungu- ([~ sound]); tungumála- ([~ studies])
 linguist n. málvísindafræðingur, málvísindamaður, málfræðingur, tungumálamaður
 linguistic l. málvísindalegur, málfræðilegur
 linguistic talent n. tungumálagáfa
-linguistics n. ft. málvísindi, málfræði, tungumálanám
+linguistics nft. málvísindi, málfræði, tungumálanám
 lining n. fóður ([~ of a coat])
 link n. hlekkur; (sambands)liður ([the missing ~]); lykkja (í prjóni); kyndill, blys; ft. bugður á ám; s. hlekkja (tengja) saman
 linkboy n. kyndilberi
@@ -670,7 +670,7 @@ literal l. bókstaflegur; orðréttur
 literalize s. skilja (þýða) eftir bókstafnum
 literary l. bóklegur, bókmennta- ([~ history]); [~ man] menntamaður
 literate l. læs, menntaður, bóklærður; bókmenntalegur; n. menntamaður
-literati n. ft. menntamenn, lærðir menn
+literati nft. menntamenn, lærðir menn
 literature n. bókmenntir, bókvísi; [light ~] skemmtibækur
 lithe l. liðugur; mjúkur
 lithesome l. liðugur; mjúkur
@@ -833,7 +833,7 @@ looseness n. lausleiki; los; ónákvæmni; lauslæti; lífsýki, sótt
 loot s. ræna (hertekna borg); taka að herfangi; n. herfang, rán
 looter n. ræningi, þjófur
 lop s. skella (stýfa) af; höggva (greinar) af ([lika ~ off, away]); hanga, lafa; hangsa, ráfa ([~ about]); láta lafa; n. afhoggnar greinar, afkvisti
-loppings n. ft. afkvisti
+loppings nft. afkvisti
 lope s. hlaupa, brokka
 lop-eared l. með lafandi eyrum
 loppy l. lafandi

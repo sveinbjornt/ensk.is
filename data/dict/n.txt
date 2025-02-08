@@ -26,7 +26,7 @@ nameplate n. nafnspjald
 namesake n. nafni; nafna
 nandu n. amerískur strútur
 nankeen n. nankin (vefnaður)
-nankeens n. ft. nankinsbuxur
+nankeens nft. nankinsbuxur
 nap n. dúr, blundur ([to take a ~]); s. blunda; [catch/take one ~ping] koma að e-m óvörum
 nap n. ló, hnoðri (á klæði), loðna, dúnn (á plöntum); [to raise the ~] ýfa upp lóna
 napless l. aflóa, snjáður
@@ -43,13 +43,13 @@ narrate s. segja frá
 narration n. frásaga, frásögn
 narrative l. frásögulegur; n. frásaga, saga
 narrator n. sögumaður
-narrow l. þröngur, mjór; lítill; þröngsýnn, smásmuglegur; naumur; [~ circumstances] bágur efnahagur; [he made a ~ escape] hann komst naumlega undan; [after a ~ examination] eftir nákvæma rannsókn; [~ cloth] einbreiður dúkur; [the ~ seas] sundin milli Englands og Frakklands, Englands og Írlands; n. ft. mjótt sund; s. gera mjótt, mjókka; þrengja (kreppa) að; verða mjór eða þröngur, mjókka, þrengjast
+narrow l. þröngur, mjór; lítill; þröngsýnn, smásmuglegur; naumur; [~ circumstances] bágur efnahagur; [he made a ~ escape] hann komst naumlega undan; [after a ~ examination] eftir nákvæma rannsókn; [~ cloth] einbreiður dúkur; [the ~ seas] sundin milli Englands og Frakklands, Englands og Írlands; nft. mjótt sund; s. gera mjótt, mjókka; þrengja (kreppa) að; verða mjór eða þröngur, mjókka, þrengjast
 narrow-breasted l. mjór um brjóstið; nískur
 narrowly ao. náið; naumlega, nauðulega; [to escape ~] komast naumlega undan
 narrow-minded l. þröngsýnn
 narrow-mindedness n. þröngsýni
 narrowness n. mjódd, þröngleiki; naumleiki; smásmygli, smámunasemi
-narrows n. ft. þrengsli
+narrows nft. þrengsli
 narwhal n. náhveli
 nasal l. neflegur, nef-; n. nefhljóð
 nasality n. nefhljómur
@@ -268,7 +268,7 @@ nightlong l. náttlangur
 nightly l. náttlegur; nætur-; ao. á hverri nóttu; á hverju kvöldi
 nightman n. salernahreinsari
 nightmare n. martröð
-nightquarters n. ft. náttstaður
+nightquarters nft. náttstaður
 night school n. kvöldskóli
 night soil n. salernisáburður
 nightwalker n. náttgöngumaður; þjófur
@@ -300,7 +300,7 @@ ninth l. níundi; n. níund
 ninthly ao. í níunda lagi
 nip s. klípa; klípa (slíta, skera) af; skemma, deyða (um frost); láta kala; [~ in the bud] kyrkja í fæðingu; n. klíping; lítið stykki; skemmd; kal
 nipper n. framtönn í hesti; vasaþjófur
-nippers n. ft. töng; [a pair of nippers] tangir
+nippers nft. töng; [a pair of nippers] tangir
 nipping l. napur ([~ weather, wind])
 nipple n. geirvarta, brjóstvarta, speni
 nirvana n. nirvana, algleymi, algleymisástand Búddatrúarmanna
@@ -360,7 +360,7 @@ nonconformist n. utanþjóðkirkjumaður (í Englandi)
 nonconformity n. utanþjóðkirkjutrú; ósamræmi
 nondescript l. sem torvelt er að lýsa; óvenjulegur, fáséður (hlutur)
 none n. enginn, engir
-nones n. ft. nóntíðir, nóna
+nones nft. nóntíðir, nóna
 nonpareil l. & n. óviðjafnanlegur (maður eða hlutur); n. e.k. smáletur
 nonplus n. mestu vandræði, ráðaleysi ([to be at a ~]); s. koma (e-m) í mestu vandræði, gera ráðalausan
 nonplussed l. ráðalaus
@@ -482,7 +482,7 @@ numerical l. sem er í tölum
 numerous l. fjölmennur, margir; margvíslegu
 numerousness n. fjöldi, mergð
 numismatic l. sem lýtur að peningamyntum eða minnispeningum
-numismatics n. ft. myntfræði
+numismatics nft. myntfræði
 numismatist n. myntfræðingur; áhugamaður um peningamyntir
 nummary l. peninga-
 numskull n. auli
@@ -492,7 +492,7 @@ nuncupative l. [~ will] munnleg arfleiðsla (í vitna viðurvist)
 nunnery n. nunnuklaustur
 nunnish l. nunnu-
 nuptial n. brúðkaups-
-nuptials n. ft. hjónavígsla, brúðkaup
+nuptials nft. hjónavígsla, brúðkaup
 nurse n. hjúkrunarkona, vökukona; fóstra, barnfóstra; s. fóstra, gefa (barni) að sjúga; hjúkra ([~ the sick]); hlynna að; strjúka hægt ([~ the knees]); ala upp; ala, geyma í brjósti sér ([~ a grievance])
 nurse-child n. fósturbarn; brjóstabarn
 nursemaid n. barnfóstra
@@ -504,7 +504,7 @@ nursling n. fósturbarn; ljúflingur
 nurture n. næring, fæða; uppfóstur; [nature passes ~] náttúran er náminu ríkari; s. næra, fæða; ala, fóstra upp
 nut n. hneta; hnot; holskrúfa, ró; [small ~] heslihnot; [off his ~] ekki með öllum mjalla; s. tína hnetur
 nut-brown l. hnetubrúnn, hnotbrúnn
-nutcrackers n. ft. hnetubrjótur, hnotbrjótur ([a pair of ~])
+nutcrackers nft. hnetubrjótur, hnotbrjótur ([a pair of ~])
 nutgall n. blekber
 nutmeg n. múskat, múskathnot
 nutshell n. hnotskurn
@@ -515,7 +515,7 @@ nutrimental l. nærandi
 nutrition n. næring; næringarefni
 nutritious l. nærandi, næringarríkur, saðsamur; næringar-; n. næringarefni, fæða
 nutritive l. nærandi, næringarríkur, saðsamur; næringar-; n. næringarefni, fæða
-nuts n. ft. hnetur; [to be ~] að vera ruglaður, geðbilaður
+nuts nft. hnetur; [to be ~] að vera ruglaður, geðbilaður
 nutty l. auðugur af hnetum; eins og hneta á bragðið; kjarnmikill
 nuzzle s. róta með trýninu (um svín); snuðra; nugga nefinu upp að e-u ([against, at]); fela andlitið; [the child ~s in the mother's bosom] felur sig við barm móðurinnar
 nymph n. vatnadís; fríð mey

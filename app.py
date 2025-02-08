@@ -298,6 +298,7 @@ async def search(request: Request, q: str):
 # To JSON configuration file?
 CAT_TO_NAME = {
     "n.": "nafnorð",
+    "nft.": "nafnorð (í fleirtölu)",
     "l.": "lýsingarorð",
     "s.": "sagnorð",
     "ao.": "atviksorð",

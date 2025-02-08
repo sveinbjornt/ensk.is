@@ -101,7 +101,7 @@ fanaticize s. æsa upp; hamast
 fanciful l. ímyndunarfullur; hugsmíðislegur, fjarstæður
 fancy n. ímyndunarafl; ímyndun; duttlungur; löngun, tilhneiging; s. ímynda sér; gera sér í hugarlund; getast að
 fancy ball n. grímudansleikur
-fancy goods n. ft. glingur, glysvarningur
+fancy goods nft. glingur, glysvarningur
 fancy shop n. glysbúð
 fancy wood n. skrautviður
 fane n. musteri, hof
@@ -246,7 +246,7 @@ feel s. finna; finna til, kenna (e-s); þreifa á; þreifa fyrir sér; þreifa; 
 feeler n. fálmangi
 feeling l. viðkvæmur; næmur; n. tilfinning
 fee-simple n. óháð eignarjörð
-feet n. ft. fætur; sjá %[foot]%
+feet nft. fætur; sjá %[foot]%
 feetail n. takmörkuð eign í jörðu
 feign s. búa til (í huganum); gera sér upp; látast; [~ illness] látast vera sjúkur; [~ to be asleep, ~ sleep] látast sofa
 feigned l. uppgerður; [in a ~ hand] með breyttri hendi
@@ -287,7 +287,7 @@ femoral l. lær-, lærleggs-, lærbeins- ([the ~ bone])
 fen n. fen, mýri, flói
 fence n. vörn; garður, girðing; skylmingalist; s. girða, verja ([well ~d from the wind]); skylmast
 fencer n. skylmingamaður
-fencibles n. ft. landvarnarliðsmenn
+fencibles nft. landvarnarliðsmenn
 fencing n. skylmingar; girðing(ar); vörn
 fencing-school n. skylmingaskóli
 fend s. bægja burt; [~ off] bera af sér (högg); sjá fyrir e-m; [~ for oneself] sjá sér borgið
@@ -386,7 +386,7 @@ field day n. liðkönnunardagur
 fieldfare n. e.k. þröstur
 field glass n. tvíeygður kíkir
 field marshal n. yfirhershöfðingi
-field sports n. ft. bersvæðisíþróttir, hersvæðisskemmtanir, dýraveiðar
+field sports nft. bersvæðisíþróttir, hersvæðisskemmtanir, dýraveiðar
 fieldstone n. grásteinn
 fiend n. illur andi, fjandi
 fiendish l. helvískur, djöfullegur
@@ -401,7 +401,7 @@ fifteenth l. fimmtándi
 fifth n. fimmtungur, fimmti partur; l. fimmti
 fifthly ao. í fimmta lagi
 fiftieth l. fimmtugasti
-fifty l. fimmtíu; n. ft. [the fifties] árin milli 50 og 60 ([in the fifties])
+fifty l. fimmtíu; nft. [the fifties] árin milli 50 og 60 ([in the fifties])
 fig n. fíkjutré; fíkja; [I don't care a ~ for it] ég hirði ekki hót um það
 fight s. berjast; fljúgast á; berjast við; láta berjast; stjórna (liði, skipum) í bardaga; [~ one's way] berjast (brjótast) áfram; [~ shy of] forðast; n. bardagi; áflog
 fighter n. bardagamaður, baráttumaður, stríðsmaður ([long live the ~s!])
@@ -416,7 +416,7 @@ filch s. hnupla
 filcher n. hnuplari
 file n. skrá, skjal; skjalakippa; þjöl; röð (hermanna); lítill flokkur; band eða vír sem skjöl eru dregin upp á; [in single ~] í halarófu; [rank and ~] óbreyttir liðsmenn; s. draga upp á band; raða (skjölum); ganga í halarófu, hver á eftir öðrum ([~ off]); sverfa; slétta, fága
 file cutter n. þjalasmiður
-filings n. ft. svarf
+filings nft. svarf
 filial l. sonarlegur, dótturlegur
 filiation n. samband barna við föðurinn; feðrun; ættleiðsla, ættarsamband
 filibuster n. málþóf; sjóræningi, víkingur; s. beita yfirgangi; ræna, fara með ránskap
@@ -473,7 +473,7 @@ fir n. fura ([red ~]); greni ([white ~])
 fir cone n. greniköngull
 fire n. eldur; eldsbruni, eldsvoði; bál, logi; skothríð; fjör, ákafi; [to set ~ to, set on ~] kveikja í; [to open ~] byrja að skjóta; [the curtain took ~] það kviknaði í gluggatjaldinu; s. leggja eld í, kveikja í; tendra, hleypa fjöri í; hleypa úr (byssu); skjóta; kvikna í; [~ up] rjúka upp (í reiði)
 fire alarm n. brunakall, brunabjalla
-firearms n. ft. skotvopn
+firearms nft. skotvopn
 fireball n. vígahnöttur
 firebrand n. eldibrandur
 firebrick n. eldtraustur múrsteinn
@@ -481,7 +481,7 @@ fire brigade n. slökkviliðssveit
 fire engine n. slökkvidæla, sprauta
 fire escape n. björgunarstigi
 fireflaught n. elding, leiftur ([like a ~])
-fire irons n. ft. eldfæri (skörungur, tangir, skófla)
+fire irons nft. eldfæri (skörungur, tangir, skófla)
 fire ladder n. brunastigi
 firelock n. tinnubyssa
 fireman n. slökkviliðsmaður; kyndari (við gufuvél)
@@ -499,10 +499,10 @@ firm l. fastur ([to stand ~]); þéttur; staðfastur; n. verslunarhús, firma; s
 firmament n. himinfesting
 firmness n. þéttleiki, harka; festa, staðfesta, fastlyndi
 first l. fyrstur, fremstur; ao. fyrst; [at ~] í fyrstu; [at ~ sight/view] í fljótu bragði; [from the ~] frá upphafi; n. fyrsta rödd; [~ of exchange] primavíxill; [~ cost] innkaupsverð
-first cousins n. ft. systkinabörn
+first cousins nft. systkinabörn
 firstborn l. frumgetinn, frumborinn, elstur; n. frumburður
 first-class l. fyrsta flokks; frábær, ágætur; ao. ágætlega; n. fyrsta flokks herskip; afbragð
-first fruits n. ft. frumgróði
+first fruits nft. frumgróði
 firstling n. frumburður
 firstly ao. í fyrsta lagi
 first-rate l. fyrsta flokks; frábær, ágætur; ao. ágætlega; n. fyrsta flokks herskip; afbragð
@@ -544,7 +544,7 @@ fistula n. pípa
 fit l. hæfur, hentugur; vel fallinn (til [for]); s. gera hæfan; laga (eftir e-u to); máta ([~ on a garment]); hæfa, sæma; ganga að ([the key ~s to the lock]); útbúa ([~ out]); vera mátulegur; fara (um föt); n. [be a bad (an excellent) ~] fara illa (ágætlega)
 fitness n. hentugleiki, hæfileiki; [~ training] líkamsrækt
 fitter n. sá sem útbýr
-fittings n. ft. útbúningur; tengihlutar pípulagna
+fittings nft. útbúningur; tengihlutar pípulagna
 fit n. kast, flog ([~ of illness, laughter]); yfirlið ([fainting-~]); slag; rykkur; [by ~s (and starts)] með hríðum
 fitful l. rykkjóttur; breytilegur
 fitchew n. sjá %[foumart]%
@@ -817,10 +817,10 @@ foot n. fótur; fet; fótgöngulið; bragliður; neðsti (lægsti) hluti af e-u 
 footboard n. fótskör, fótskemill
 footboy n. þjónn (í einkennisbúningi)
 footfall n. fótatak ([her ~ was so light])
-footguards n. ft. gönguvarðlið
+footguards nft. gönguvarðlið
 foothold n. fótfesta
 footing n. fótfesta; festa; staða; inngöngueyrir; aðalupphæð; [gain (get) a ~] fóta sig; [place on equal ~] gera jafnt undir höfði
-footlights n. ft. ljósaröð framan til á leiksviði
+footlights nft. ljósaröð framan til á leiksviði
 footman n. þjónn (í einkennisbúningi); fótgöngumaður
 footmark n. fótspor; (í ft. fótaför)
 footnote n. neðanmálsgrein, neðanmálsathugasemd
@@ -1284,7 +1284,7 @@ functionary n. embættismaður, sýslunarmaður
 fund n. höfuðstóll, sjóður; ft. fé, peningar; ríkisskuldir, ríkisskuldabréf ([the public ~s]); forði; [to be in ~s] hafa peninga (fjárráð); s. ákveða vissar tekjur til greiðslu vaxta og afborgana af skuld(um); koma peningum í fasteignir eða ríkisskuldabréf
 fundament n. afturendi, sitjandi
 fundamental l. sem er grundvöllurinn undir e-u ([to]); grundvallar-; undirstöðu-; upprunalegur
-fundamentals n. ft. undirstöðuatriði ([the basic ~ of chemistry])
+fundamentals nft. undirstöðuatriði ([the basic ~ of chemistry])
 fundamentally ao. í grundvallaratriðum; upprunalega, frá upphafi; gjörsamlega
 funeral n. útför, jarðarför; greftrun; l. greftrunar-, útfarar-; [~ sermon] líkræða
 funereal l. útfarar- ([we marched at a ~ pace]); sorglegur; skuggalegur

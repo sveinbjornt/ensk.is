@@ -19,7 +19,7 @@ hackney n. leiguhestur; reiðhestur
 hackney coach n. leiguvagn
 hackneyed l. hversdagslegur, margstaglaður, margsvældur
 haddock n. ýsa
-haemorrhoids n. ft. %[hemorrhoids]%
+haemorrhoids nft. %[hemorrhoids]%
 haft n. skaft, skefti, hefti; s. skefta (hníf, öxi)
 hag n. galdranorn
 haggard l. villtur, tryllingslegur; horaður
@@ -120,7 +120,7 @@ hang s. hengja; hengja (myndir eða veggtjöld) á; hanga, lafa; vera kominn und
 hangdog n. bófi; l. bófa- ([with a ~ air])
 hanger-on n. áhangandi
 hanging n. henging
-hangings n. ft. veggtjöld
+hangings nft. veggtjöld
 hangman n. böðull
 hangnail n. annögl
 hank n. hönk; hespa; viða
@@ -159,7 +159,7 @@ hardship n. erfiði; hrakningur; þraut, mannraun
 hardware n. járnvara; tæki, vélbúnaður
 hardy l. harður, harðfengur, harðgerður ([a ~ plant]); djarfur, djarflegur
 harden s. herða; styrkja; stæla; harðna; herðast, stælast
-hards n. ft. úrkembingur úr hör eða hampi (sjá %[hurds]%)
+hards nft. úrkembingur úr hör eða hampi (sjá %[hurds]%)
 hare n. héri
 harebrained l. léttúðugur, gapalegur ([~ folly])
 harehearted l. huglaus
@@ -279,7 +279,7 @@ headmistress n. skólastýra
 head money n. nefskattur
 headmost l. fremstur
 headpiece n. hjálmur; höfuðfat; gáfur; gáfumaður; höfðalag ([~ of a bed])
-headquarters n. ft. höfuðstöðvar
+headquarters nft. höfuðstöðvar
 headsail n. framsegl
 headship n. forysta, æðsta tign
 headsman n. aftökumaður, böðull
@@ -287,7 +287,7 @@ headspring n. uppspretta, upptök
 headstall n. höfuðleður á beisli
 headstone n. hyrningarsteinn; (uppréttur) legsteinn
 headstrong l. ákafur; þrályndur
-headwaters n. ft. upptök (árinnar [of the river])
+headwaters nft. upptök (árinnar [of the river])
 headway n. framskrið (skips); framgangur ([to make ~]); hæð (brúarboga, dyragáttar)
 headwear n. höfuðfat
 headwind n. mótviðri
@@ -328,7 +328,7 @@ heartless l. miskunnarlaus, harðbrjósta; huglaus; kjarklaus; ófrjór (um land
 heartrending l. sár
 heartsick l. hugsjúkur
 heartsome l. fjörgandi; kátur, fjörugur
-heartstrings n. ft. hjartataugar
+heartstrings nft. hjartataugar
 heart-whole l. óskelfdur; óskaddur á hjartanu: hreinskilinn, einlægur
 heartwood n. innri (harði) viðurinn í tré, kjarnviður
 hearty l. hjartanlegur, einlægur, alúðlegur; fjörugur, ákafur; kröftugur, styrkjandi (um fæði); sterkur (um, við)
@@ -434,7 +434,7 @@ hemispherical l. hálfkúlumyndaður
 hemistich n. hálft erindi, hálf ljóðlína
 hemlock n. eitruð jurt, óðjurt
 hemorrhage n. blóðrás, mikill blóðmissir
-hemorrhoids n. ft. gyllinæð
+hemorrhoids nft. gyllinæð
 hemp n. hampur; hampjurt
 hempen l. úr hampi, hamp- ([~ cord])
 hemstitch n. gatasaumur; s. sauma gatasaum
@@ -490,7 +490,7 @@ heritable l. sem gengur í erfðir, arfgengur, erfða-
 heritage n. arfur, arfleifð, erfðafé
 heritance n. arfur
 hermaphrodite l. tvíkynjaður; tvítóla; n. tvíkynja vera
-hermeneutics n. ft. túlkunarfræði, ritskýringarlist ([Biblical ~])
+hermeneutics nft. túlkunarfræði, ritskýringarlist ([Biblical ~])
 hermetic l. loftþéttur; [~ art, philosophy, science] gullgerðarlist
 hermit n. einsetumaður
 hermitage n. einsetustaður, einsetumannabústaður
@@ -550,7 +550,7 @@ hierocracy n. prestaveldi
 hieroglyph n. egypskt myndletur, helgirúnir; leyniletur; s. rita með helgirúnum
 hieroglyphic l. ritaður helgirúnum ([~ writing]); líkingarfullur
 hieroglyphical l. helgirúna-; torskilinn
-hieroglyphs n. ft. helgirúnir; táknmyndir, táknrúnir; leynirúnir
+hieroglyphs nft. helgirúnir; táknmyndir, táknrúnir; leynirúnir
 hierology n. helgifræði, trúfræði
 hierophant n. yfirprestur hjá Forn-Grikkjum, forngrískur (æðsti)prestur; sá sem túlkar heilaga leyndardóma
 higgle s. fara um og selja; prútta (um verð)
@@ -567,7 +567,7 @@ high-heeled l. háhælaður
 highland n. hálendi; [the Highlands of Scotland] Hálöndin í Skotlandi
 Highlander n. hálendingur; Háskoti
 highlife n. lifnaðarháttur tiginna manna og auðmanna
-high-lows n. ft. hálfstígvél
+high-lows nft. hálfstígvél
 highly ao. mjög; lofsamlega ([to speak ~ of])
 high-mettled l. fjörugur, ákafur; hugprúður
 high-minded l. göfuglyndur; drambsamur
@@ -641,7 +641,7 @@ hither ao. hingað; l. sem nær liggur
 hithermost l. næstur hér megin
 hitherto ao. hingað; hingað til
 hive n. býflugnabú; heimkynni; hópur, sægur; s. safna (býflugum); veita e-m húsaskjól, hýsa; safnast; búa saman; [~ off] flykkjast burtu
-hives n. ft. útsláttur, útbrot
+hives nft. útsláttur, útbrot
 ho uh. hó! hæ!
 hoar l. grár af elli; hélugrár; s. grána; mygla; n. hrím, héla
 hoary l. hvítur, grár (af hélu eða elli); virðulegur af elli
@@ -727,7 +727,7 @@ homeward ao. heimleiðis, heim á leið; [~ bound] búinn til heimferðar, sem e
 homewards ao. heimleiðis, heim á leið; [~ bound] búinn til heimferðar, sem er á heimleið (um skip)
 homicidal l. manndráps-, morð-
 homicide n. manndráp, víg; manndrápari, morðingi
-homiletics n. ft. predikunarfræði
+homiletics nft. predikunarfræði
 homilist n. predikari
 homily n. predikun; (áminningar)ræða
 homing n. heimferð, heimför
@@ -781,7 +781,7 @@ hoopoe n. herfugl
 hoopoo n. herfugl
 hoot s. hrópa, æpa (að e-m); væla (um ugluna); [~ at] æpa að e-m (til smánar); n. ugluvæl; hróp, köll (til smánar)
 hop s. hoppa, skoppa; dansa; n. hopp, skopp
-hops n. ft. humall, humlar; s. setja humlabragð á (e-ð)
+hops nft. humall, humlar; s. setja humlabragð á (e-ð)
 hope s. vona ([~ for]); n. von
 hopeful l. vongóður, bjartsýnn; efnilegur, vænlegur
 hopeless l. vonlaus, sem engin von er um; örvæntingarfullur
@@ -813,7 +813,7 @@ horsebreaker n. hestatemjari
 horse-dealer n. hestakaupmaður
 horse dung n. hrossatað
 horseflesh n. hrossakjöt; [to have a knowledge of ~] hafa vit á hestum
-horse guards n. ft. riddaravarðsveit; herstjórnarráð
+horse guards nft. riddaravarðsveit; herstjórnarráð
 horsehair n. hrosshár
 horselaugh n. hrossahlátur
 horseman n. reiðmaður, riddari
@@ -851,7 +851,7 @@ hostler n. hestasveinn (í veitingahúsi); sjá %[ostler]%
 hot l. heitur; beiskur, barkandi; ákafur, æstur, bráðlyndur; kynferðislega aðlaðandi (óforml.)
 hotbed n. vermireitur; gróðrarstía
 hotbrained l. bráðlyndur, uppstökkur; sjá %[hotheaded]%
-hot coppers n. ft. timburmenn (eftir ölvun)
+hot coppers nft. timburmenn (eftir ölvun)
 hotfoot ao. í skyndi
 hotheaded l. bráðlyndur, uppstökkur
 hothouse n. gróðurhús, vermihús
@@ -906,7 +906,7 @@ huckle n. mjöðm
 huckleback n. herðakistill
 hucklebacked l. lotinn; sem hefur herðakistil
 huckster n. smásölukaupmaður, smásali, mangari; s. prútta; versla í smákaupum
-huckstery n. mangaraverslun; ft. smávarningur
+huckstery n. mangaraverslun; nft. smávarningur
 huddle s. hrúga (vöðla) saman (einnig [~ together, up]); fara í flýti yfir (e-t verk [over, through]); hroða (e-u) af ([up]); flykkjast, þyrpast; [~ on one's clothes] hypja sig í fötin; n. ruglingur, hrærigrautur; mannþröng
 hue n. litur; blær; óp; [~ and cry] óp og köll (á eftir manni); s. lita
 huff s. reiðast (e-u [at]); blása upp ([~ up]); skamma (e-n); sýna e-m fyrirlitningu, óvirða; móðga; styggja; n. reiði, gremja; [to take ~ at] styggjast af e-u
@@ -930,7 +930,7 @@ humanistic l. húmanískur; hugvísindalegur; fornmenntalegur
 humanistical l. húmanískur; hugvísindalegur; fornmenntalegur
 humanitarian l. mannúðar-; n. mannvinur ([he is a true ~])
 humanity n. mannkyn; mannlegt eðli, manndómur; mannúð, manngæska
-humanities n. ft. hugvísindi; latneskar og grískar fornmenntir
+humanities nft. hugvísindi; latneskar og grískar fornmenntir
 humanize s. gera líkan manni; veita mannlegt eðli; gera mannúðlegan, siða, mennta
 humankind n. mannkyn
 humanly ao. mannlega ([~ speaking]); sem maður
@@ -978,7 +978,7 @@ hunger n. hungur, sultur; s. hungra, vera hungraður; svelta e-n ([~ into madnes
 hungrily ao. sultarlega, gráðuglega
 hungry l. hungraður, svangur; sólginn (í e-ð [for])
 hunk n. stykki ([~ of bread])
-hunkers n. ft.; [to sit on one's ~] sitja á hækjum, húka
+hunkers nft. [to sit on one's ~] sitja á hækjum, húka
 hunks n. nirfill, maurapúki ([a stingy old ~])
 hunt s. veiða (dýr, fugla); elta ([~ from place to place] úr einum stað í annan); fara yfir land og leita veiðidýra ([~ the country]); leita að e-u, sækjast eftir e-u ([for, after]); vera á veiðum; [~ down] elta (dýr) uppi, elta til dauða; [~ up] leita upp; [to go (out) ~ing] fara á veiðar
 hunter n. veiðimaður; veiðihestur; veiðihundur
@@ -989,7 +989,7 @@ huntress n. veiðikona
 huntsman n. veiðimaður
 huntship n. veiðilist, veiðimennska
 hurdle n. tága- eða rimlafleki; rimlagirðing, grindur; s. afgirða með grindum ([~ off, out])
-hurds n. ft. úrkembingur úr hör eða hampi; strý; sjá %[hards]%
+hurds nft. úrkembingur úr hör eða hampi; strý; sjá %[hards]%
 hurdy-gurdy n. óvandað strengjahljóðfæri
 hurl s. fleygja, þeyta; steypa ([~ one from power])
 hurling n. kast, þeyting
@@ -1018,21 +1018,21 @@ hussar n. léttvopnaður (upprunalega ungverskur) riddari
 hussif n. lítið saumahylki, nálhús; sjá %[housewife]%
 hussy n. dækja
 huzzy n. dækja
-hustings n. ft. ræðupallur (á kjörþingi); kjörþing
+hustings nft. ræðupallur (á kjörþingi); kjörþing
 hustle s. hrinda, reka; ryðjast; rekast (á [against])
 huswife n. sjá %[housewife]%
 hut n. kofi, hreysi; s. setja (hermenn) í búðir; hafa vetrarsetu, hafast við (dvelja) í búðum
 hutch n. kassi til að geyma korn (eða skepnur) í; s. setja í kassa
 huzza uh. húrra! s. hrópa húrra ([~ for one])
 hyacinth n. hýasinta, jasinta
-hyades n. ft. sjöstirni
+hyades nft. sjöstirni
 hyaline n. spegilsléttur sjór; l. gagnsær sem gler
 hybrid n. kynblendingur; l. framkominn af tveim ólíkum tegundum (plantna eða dýra)
 hydatid n. sullur; ft. sullaveiki; l. sullaveiki- ([~ patient])
 hydra n. vatns- eða sjóskrímsli; vatns- eða sjóormur
 hydrate n. vatneldi (í efnafræði)
 hydraulic l. vatnsafls-, gerður með vatnsafli
-hydraulics n. ft. vatnsaflfræði
+hydraulics nft. vatnsaflfræði
 hydrogen n. vetni (frumefni)
 hydromel n. hunangsvatn, mjöður
 hydrometer n. vatnsþungamælir
@@ -1040,7 +1040,7 @@ hydropathic l. vatnslækninga- ([~ bandages, ~ treatment])
 hydropathist n. vatnslæknir
 hydropathy n. vatnslækningafræði
 hydrophobia n. vatnsfælni, ótti við vatn
-hydrostatics n. ft. vatnstöðufræði, vatnsþrýstingarfræði
+hydrostatics nft. vatnstöðufræði, vatnsþrýstingarfræði
 hyemal l. vetrarlegur, vetrar-
 hyemate s. hafa vetrarsetu, dvelja vetrarlangt
 hyena n. hýena (villidýr)

@@ -46,7 +46,7 @@ magnesia n. beiskjusalt, magnesíum oxíð
 magnesium n. magnesíum
 magnet n. segull, seguljárn, segulstál; segulsteinn
 magnetic l. segulmagnaður; aðlaðandi í viðmóti; [~ bar] segulmögnuð járnstöng
-magnetics n. ft. segulaflsfræði
+magnetics nft. segulaflsfræði
 magnetism n. segulafl, segulmagn; aðdráttarafl
 magnetize s. hleypa segulmagni í, segulmagna
 magnetizer n. segulmagnari; dávaldur
@@ -188,7 +188,7 @@ mandrill n. apategund
 manducate s. tyggja
 mane n. fax
 maned l. fextur, með faxi
-manes n. ft. sálir (andar) dauðra manna
+manes nft. sálir (andar) dauðra manna
 manful l. karlmannlegur, hugaður
 manfully ao. karlmannlega
 manfulness n. karlmennska, hugrekki
@@ -411,9 +411,9 @@ maternal l. móðurlegur; [on the ~ side] í móðurætt; [his ~ uncle] móðurb
 maternity n. móðerni; [~ hospital] fæðingarstofnun
 mathematical l. stærðfræðilegur, reikningslegur
 mathematician n. stærðfræðingur
-mathematics n. ft. stærðfræði
+mathematics nft. stærðfræði
 matinal l. morgun- ([~ visit]); árrisull
-matins n. ft. óttusöngur, morguntíðir; morgunsöngur fugla
+matins nft. óttusöngur, morguntíðir; morgunsöngur fugla
 matricide n. móðurmorð; móðurmorðingi
 matriculate s. skrá (taka) í stúdentatölu (við háskóla); láta skrá sig í stúdentatölu
 matriculation n. skráning (í stúdentatölu)
@@ -489,7 +489,7 @@ means n. efni, ráð; tæki; meðal; [the school has been the ~ of much good] he
 mean-spirited l. auðvirðilegur (í hugsunum); huglaus
 meantime ao. á meðan ([in the ~])
 meanwhile ao. á meðan ([in the ~])
-measles n. ft. mislingar
+measles nft. mislingar
 measly l. veikur af mislingum; flekkóttur
 measled l. veikur af mislingum; flekkóttur
 measurable l. mælanlegur; ekki mjög mikill
@@ -581,7 +581,7 @@ membranaceous l. himnukenndur, himnu-
 membranous l. himnukenndur, himnu-
 membrane n. himna
 memento n. endurminning; minningarmark
-memoirs n. ft. minningarit; endurminningar; sjálfsævisaga
+memoirs nft. minningarit; endurminningar; sjálfsævisaga
 memorable l. minnisstæður, minnisverður
 memorandum n. minnisgrein, athugasemd til minnis
 memorial l. minningar- ([~ service, gift]); n. minnisvarði, minningarmark; álitsskjal, bænarskrá
@@ -603,7 +603,7 @@ mendicity n. bláfátækt, örbirgð; bónbjargir
 menial l. þjónslegur, þýlegur; ómerkilegur, óvirðulegur ([~ offices]); lítilmótlegur, lítilfjörlegur; n. þjónn, vinnuhjú ([~ servant])
 meningitis n. heilahimnubólga
 mensal l. mánaðarlegur
-menses n. ft. tíðir (kvenna)
+menses nft. tíðir (kvenna)
 menstrual l. mánaðarlegur; tíða-; [~ flux] tíðir kvenna
 menstruate l. hafa tíðir
 menstruation n. tíðir (kvenna)
@@ -664,7 +664,7 @@ messmate n. borðnautur, mötunautur
 message n. skilaboð, boðskapur, boð; orðsending; [run ~s, go on ~s for one] hlaupa erindi, fara í erindum fyrir e-n; s. senda skeyti um e-ð
 messenger n. sendiboði
 Messiah n. Messías
-Messieurs n. ft. herrar; skammstafað [Messrs] (t.d. [Messrs Baring Brothers & Co])
+Messieurs nft. herrar; skammstafað [Messrs] (t.d. [Messrs Baring Brothers & Co])
 metage n. mæling (kola, korns); mælingargjald
 metal n. málmur; (fljótandi) gler; steinmylsna, sem höfð er í ofaníburð í veg; ft. teinar (á járnbraut); s. leggja málmþynnur utan á; bera grjótmulning ofan í (veg)
 metallic l. málm-, úr málmi
@@ -678,9 +678,9 @@ metaphor n. óeiginlegt orðatiltæki
 metaphoric l. líkingarfullur, óeiginlegur
 metaphorical l. líkingarfullur, óeiginlegur
 metaphysical l. frumspekilegur, heimspekilegur, hugspekilegur, yfirskilvitlegur
-metaphysics n. ft. frumspeki, háspeki
+metaphysics nft. frumspeki, háspeki
 metathesis n. stafavíxlun ([~ of the final letters])
-mete s. mæla; meta; úthluta, skammta ([~ out]); n. ft. takmörk ([~s and bounds])
+mete s. mæla; meta; úthluta, skammta ([~ out]); nft. takmörk ([~s and bounds])
 metempsychosis n. sálnaflakk
 meteor n. loftsteinn, loftsjón
 meteoric l. sem lýtur að (eða er kominn undir) loftsjónum eða veðráttu
@@ -718,7 +718,7 @@ miasmatic l. fullur af sóttkveikjum ([~ poison])
 miasmatical l. fullur af sóttkveikjum ([~ poison])
 miaul n. & s. sjá %[miaow]%
 micaceous l. gljásteins- ([~ shale, slate])
-mice n. ft. af %[mouse]%; gljásteinn, glimmer
+mice nft. af %[mouse]%; gljásteinn, glimmer
 Michaelmas n. Mikjálsmessa (29. september)
 mickle l. mikill (skoskt orð)
 microbe n. örvera, gerill, sóttkveikja
@@ -1082,7 +1082,7 @@ moistness n. raki, saggi
 moisten s. væta; vökna, digna
 moisture n. raki, væta, saggi ([~ in the air])
 molar n. jaxl ([~ tooth])
-molasses n. ft. síróp
+molasses nft. síróp
 mole n. fæðingarblettur; moldvarpa; hafnargarður
 molecast n. moldvörpuhaugur
 molehill n. moldvörpuhaugur; [make a mountain of a ~] gera úlfalda úr mýflugu
@@ -1208,7 +1208,7 @@ mopish l. stúrinn, dapur í skapi
 moppy l. (um hár) þykkur, lubbalegur ([his ~ black hair])
 moraine n. jökulalda
 moral l. siðferðislegur; siðgóður; [~ law] siðalögmál; n. siðalærdómur (t.d. í dæmisögu)
-morals n. ft. siðfræði; siðferði, siðir
+morals nft. siðfræði; siðferði, siðir
 moralist n. siðafræðari, siðspekingur; vandlætari
 morality n. siðferði; siðgæði; siðalögmál; siðafræði
 moralization n. siðferðisleg hugleiðing
@@ -1330,7 +1330,7 @@ mouthpiece n. munnstykki
 mouth s. tala hátt og tilgerðarlega; grípa með munninum; gretta sig; falla út í ([in, into])
 mouthy l. íburðarmikill
 movable l. hreyfanlegur; færanlegur
-movables n. ft. lausir aurar, lausafé
+movables nft. lausir aurar, lausafé
 move s. setja í hreyfingu, hreyfa ([she ~d her lips]); færa e-ð til; flytja; fá á; vekja (hlátur, reiði); bera fram (uppástungu); hreyfa sig; hreyfast; flytja sig; fara; [the work ~s slowly] verkinu miðar hægt áfram; [~ away] fara burtu; [~ off] fara leiðar sinnar; [~ on] halda áfram; [be ~d by/with] komast við af; n. hreyfing; flutningur; [on the ~] í hreyfingu, á ferðinni
 moveless l. hreyfingarlaus
 movement n. hreyfing; gangverk í úri; [watch his ~s] hafa gætur á athöfnum hans
@@ -1356,7 +1356,7 @@ muculent l. slímkenndur, slepjulegur
 mucus n. slím, slepja
 mud n. leðja, forarbleyta; s. ata í forarleðju; grugga
 mud floor n. moldargólf
-mudflats n. ft. leirur
+mudflats nft. leirur
 muddle n. grugg; hrærigrautur; (andlegt) myrkur; [we both grub on in a ~] í blindni; s. gera gruggugt; fá (svífa) á; rugla; [~ away] sólunda; [~ on] slampast áfram
 muddled l. gruggaður; ruglaður; ölvaður
 muddling l. áfengur
@@ -1383,7 +1383,7 @@ mull s. krydda og hita vín
 mull n. múli, höfði; tóbaksbaukur (úr mjóenda horns)
 muller n. steinn til að mylja
 mullet n. fiskheiti; e.k. tegund af hárgreiðslu
-mulligrubs n. ft. kveisa; illt skap ([to have the ~])
+mulligrubs nft. kveisa; illt skap ([to have the ~])
 mullion n. gluggastafur, gluggapóstur
 multi- fsk. aðeins haft í samsetningum: marg-, fjöl-
 multifarious l. fjölbreyttur, margvíslegur
@@ -1410,7 +1410,7 @@ mummify s. smyrja og þurrka lík ([~ a dead body])
 mummy n. múmía (smurt og þornað lík); [to beat to a ~] berja til óbóta
 mump s. japla, tyggja; nöldra; biðja kjökrandi, sníkja
 mumpish l. önugur, vondur
-mumps n. ft. hettusótt; ólund
+mumps nft. hettusótt; ólund
 munch s. japla, muðla
 mundane l. heimslegur; veraldlegur, jarðneskur
 municipal l. bæjar-, borgar-; ríkis-; [~ law] landslög; [~ suffrage] atkvæðisréttur í sveitar- eða bæjarmálum

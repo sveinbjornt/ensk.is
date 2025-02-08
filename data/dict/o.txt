@@ -68,7 +68,7 @@ obscurantism n. menntaóbeit
 obscurantist n. myrkravinur, menningaróvinur
 obscure l. myrkur, dimmur; óþekktur; ómerkilegur; auðvirðilegur; óljós, torskilinn; s. draga myrkva yfir, kasta skugga á; fela, hylja
 obscurity n. myrkur; ókunnleiki; óskiljanleiki; óskýrleiki; framaleysi
-obsequies n. ft. útför, jarðarför
+obsequies nft. útför, jarðarför
 obsequious l. hlýðinn; undirgefinn og smjaðrandi; auðvirðilega auðmjúkur
 observable l. sjáanlegur, sýnilegur; eftirtektarverður
 observance n. hald, helgihald ([~ of discipline]); athugun, eftirtekt; viðhöfn
@@ -85,7 +85,7 @@ obsolete l. úreltur, fallinn úr tísku
 obstacle n. hindrun, tálmi
 obstetric l. sem lýtur að fæðingarhjálp
 obstetrician n. fæðingarlæknir, yfirsetulæknir
-obstetrics n. ft. yfirsetufræði
+obstetrics nft. yfirsetufræði
 obstinacy n. þrái, þrjóska, þrákelkni
 obstinate l. þrár; þrjóskur; þrákelkinn; þrálátur ([~ cough, fever])
 obstreperous l. hávær
@@ -157,9 +157,9 @@ ocular proof n. áþreifanleg sönnun
 oculist n. augnlæknir
 odd l. ójafn (um tölur); stakur; fáeinir fram yfir; undarlegur, skrítinn; [do ~ jobs] gera sitt af hverju; [~ debts] lausaskuldir; [at ~ moments] í tómstundum; [an ~ glove] stakur hanski; [twenty and ~] rúmir tuttugu
 oddity n. undarlegheit, undarleiki; sérvitringur
-oddments n. ft. ósamstæðir hlutir
+oddments nft. ósamstæðir hlutir
 oddness n. ójafnleiki, mismunur; undarleiki; sérkennileiki
-odds n. ft. mismunur; fjöldamunur, liðsmunur; ofurefli; ójafnt veðmál (þar sem annar veðjandinn hættir meiru en hinn); deila; líkur ([the ~ are, it is ~ that]); [be at ~] eiga í deilu; vera ósáttir; [it is/makes no ~] það stendur á engu; [I will take heavy ~ that] ég vil veðja miklu að; [~ and ends] leifar, afgangur
+odds nft. mismunur; fjöldamunur, liðsmunur; ofurefli; ójafnt veðmál (þar sem annar veðjandinn hættir meiru en hinn); deila; líkur ([the ~ are, it is ~ that]); [be at ~] eiga í deilu; vera ósáttir; [it is/makes no ~] það stendur á engu; [I will take heavy ~ that] ég vil veðja miklu að; [~ and ends] leifar, afgangur
 ode n. stutt kvæði, óða
 odious l. illa þokkaður, óvinsæll; andstyggilegur
 odium n. hatur, óvild; [bring ~ upon] baka e-m óvild
@@ -287,7 +287,7 @@ opening n. op; opnun; gat; byrjun; inngangur; tækifæri; l. sem opnast; opnunar
 openly ao. opinskátt; hreinskilnislega
 openness n. opinleiki; berleiki; hreinskilni
 opera n. ópera, söngleikur; verk
-opera glasses n. ft. leikhúskíkir, óperukíkir
+opera glasses nft. leikhúskíkir, óperukíkir
 opera house n. óperuhús, söngleikahús
 operate s. koma til leiðar, gera ([~ a change]); hrifa, verka (um lyf); [~ on] hafa áhrif á; skera (e-n til lækninga)
 operating l. skurðar- ([~ room, ~ table])
@@ -328,7 +328,7 @@ optative l. [~ mood] óskarháttur
 optic l. sjónrænn, sem snertir sjónina, sjónar- ([~ nerve]); ljósfræðilegur, ljósrænn
 optical l. sjónrænn, sem snertir sjónina, sjónar- ([~ nerve]); ljósfræðilegur, ljósrænn
 optical illusion n. sjónhverfing
-optics n. ft. sjónfræði; ljósfræði; augu; hvernig e-ð kemur fyrir sjónir (óforml.)
+optics nft. sjónfræði; ljósfræði; augu; hvernig e-ð kemur fyrir sjónir (óforml.)
 optician n. sjóntækjasali, sjóntækjafræðingur, gleraugnasali; ljósfræðingur
 optimate n. stórmenni, höfðingi (einkum hjá Rómverjum)
 optimism n. bjartsýni
@@ -387,7 +387,7 @@ organist n. orgelleikari
 organization n. skipulag, fyrirkomulag; stofnun; bygging
 organize s. koma skipulagi á, raða niður; setja á stofn
 organized l. skipulagður
-orgies n. ft. nætursvall, óhóflegt drykkjusvall
+orgies nft. nætursvall, óhóflegt drykkjusvall
 oriel n. gluggaútskot; [~ window] útskotsgluggi
 orient n. austur; austurlönd; s. snúa gegn austri; láta (kirkju) snúa frá vestri til austurs; greftra lík með fæturna gegn austri; ákveða stefnu e-s hlutar eftir áttavitanum; laga eftir e-u; [~ oneself] átta sig
 oriental l. austurlenskur, austurlanda-; austlægur; n. Austurlandamaður
@@ -469,7 +469,7 @@ ourselves fn. við, vér; okkur sjálfa, sjálfa oss; (við, vér) sjálfir
 oust s. svipta (e-u [of]); reka burt, útrýma
 ouster n. burtrekstur
 out ao. út; úti; [be ~] vera úti (að heiman, í burtu, undir berum himni); vera á enda, vera þrotinn; vera slokknaður ([the fire is ~]); vera útsprunginn; vera kominn upp, skína (um stjörnur); skjátlast ([he was ~ in his reckoning]); [go ~ at the door] ganga út um dyrnar; [~ of cash] peningalaus; [~ of print] uppseldur (um bók); [~ of breath] sprengmóður; [time ~ of mind] (frá) ómuna tíð; [~ of one's mind] gleymdur, úr minni liðinn, vitstola; [~ of hand] tafarlaust; [I was quite ~ of myself with joy] ég réð mér ekki fyrir gleði; [~ of temper] í illu skapi; [~ at elbow] með olnbogann út úr; illa staddur
-outs n. ft. sá stjórnmálaflokkur, sem ekki fer með völdin ([every thing the Ins do the Outs denounce])
+outs nft. sá stjórnmálaflokkur, sem ekki fer með völdin ([every thing the Ins do the Outs denounce])
 out- fsk. haft sem forskeyti í fjölmörgum samsetningum í merkingunni: út, yfir, meira en, betur en, lengra en, fram úr, upp o.fl.
 outbalance s. vega meira en
 outbid s. bjóða hærra en
@@ -520,7 +520,7 @@ outmarch s. ganga fram úr
 outmost l. ystur
 outnumber s. vera fleiri að tölu; [we were greatly ~ed] vér vorum miklu liðfærri (færri að tölu)
 out-of-date l. úreltur
-outoffices n. ft. úthýsi
+outoffices nft. úthýsi
 out-of-the-way l. afskekktur; óvenjulegur
 outpace s. ganga fram úr
 outpost n. forvörður, útvörður
@@ -678,7 +678,7 @@ owner n. eigandi
 ownerless l. eigandalaus
 ownership n. eignarréttur; eign ([~ of land])
 ox n. uxi, naut; ft. [oxen]
-oxen n. ft. sjá %[ox]%
+oxen nft. sjá %[ox]%
 oxherd n. nautahjörð
 oxhide n. uxahúð, nautahúð
 oxidate s. sýra; sýrast

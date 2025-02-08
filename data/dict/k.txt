@@ -60,7 +60,7 @@ khan n. landstjóri, stórhöfðingi (í Asíu)
 kibe n. frostbólga (á hælum)
 kick s. sparka; n. spark
 kicker n. slægur hestur
-kickshaws n. ft. léttmeti; góðgæti; glingur, smámunir
+kickshaws nft. léttmeti; góðgæti; glingur, smámunir
 kid n. krakki; kið, kiðlingur; s. bera (um geitur); grínast ([I'm only kidding])
 kid-glove n. hanski úr geitarskinni; gljáhanski
 kidnap s. stela, ræna (mönnum, einkum börnum)
@@ -87,9 +87,9 @@ kindness n. góðsemi, góðvild, greiði
 kindle s. kveikja; tendra upp; æsa; kvikna ([their mutual resentment ~d again]); brenna, loga; [~ up the fire] kveikja upp eldinn
 kindler n. kveikjari
 kindred n. skyldleiki; ætt; ættingjar; [to claim ~ with] telja sig í ætt við; l. skyldur; líkur; [a ~ likeness] ættarmót
-kine n. ft. kýr, sjá %[cow]%
+kine nft. kýr, sjá %[cow]%
 kinetic l. hreyfingar-, hreyfi-; [~ energy] hreyfiorka
-kinetics n. ft. hreyfingarfræði, aflfræði
+kinetics nft. hreyfingarfræði, aflfræði
 king n. konungur, kóngur; s. gera að konungi
 kingdom n. konungdæmi, konungsríki; konungdómur; [the animal ~] dýraríkið
 kingfisher n. ísfugl
@@ -145,7 +145,7 @@ kneepan n. hnéskel
 kneel s. knékrjúpa, knéfalla (fyrir e-m [to]); krjúpa á kné
 kneeling n. knéfall, knékrop
 knell n. líkhringing ([funeral ~]); s. hringja líkhringingu
-knickerbockers n. ft. knjábuxur
+knickerbockers nft. knjábuxur
 knick-knack n. smáglingur, glysmunir
 knife n. hnífur; [war to the ~] barátta til þrautar; s. reka í gegn með hnífi
 knifeblade n. hnífblað

@@ -31,7 +31,7 @@ tact n. næm tilfinning (fyrir því sem við á); skynbragð, vit
 tactful l. vel viðeigandi; sem veit hvað við á
 tactical l. herskipunarlegur; sem lýtur að hentugustu aðferð
 tactician n. herskipunarmeistari
-tactics n. ft. herskipunarlist
+tactics nft. herskipunarlist
 tadpole n. froskungi
 taenia n. bendilormur
 taffeta n. þunnsilki
@@ -181,7 +181,7 @@ tea n. te, tegras; s. veita e-m te; drekka te
 tea caddy n. tedós
 teaspoon n. teskeið
 tea strainer n. tesía
-tea things n. ft. teáhöld
+tea things nft. teáhöld
 teach s. kenna; fræða
 teachable l. sem unnt er að kenna ([everything that is ~]); námsfús
 teacher n. kennari; kennslukona; kennimaður
@@ -198,7 +198,7 @@ tease s. tæja, kemba (ull); ýfa upp (lóna); stríða, erta
 teasel n. þófaraþistill; l. ýfa upp lóna á ([~ woollen cloth])
 teat n. speni, brjóstvarta
 technical l. tæknilegur; sem lýtur að tækni eða iðnaði, iðnaðar-, tækni-, iðn- ([~ school])
-technics n. ft. reglur um iðnað, listafræði; tækni
+technics nft. reglur um iðnað, listafræði; tækni
 technological l. tæknifræðilegur, tæknilegur, iðnfræðislegur
 technology n. tækni; iðnfræði, iðnaðarlist
 ted s. breiða (hey) til þurrks
@@ -206,8 +206,8 @@ tedious l. leiðinlegur ([six long and ~ days, why must I suffer these ~ tasks?]
 tedium n. leiðindi
 teem s. vera fullur af e-u, úa og grúa (af [with]); geta af sér, fæða
 teeming l. auðugur, frjór; troðfullur ([the ~ streets])
-teens n. ft. táningarsár; þrettánda til nítjánda aldursár; [a girl in her ~] stúlka á táningsárum
-teeth n. ft. tennur (ft. af %[tooth]%)
+teens nft. táningarsár; þrettánda til nítjánda aldursár; [a girl in her ~] stúlka á táningsárum
+teeth nft. tennur (ft. af %[tooth]%)
 teethe s. taka tennur
 teething n. tanntaka, tannkoma
 teetotal l. bindindis- ([~ pledge, ~ society])
@@ -343,7 +343,7 @@ tertiary l. sem er þriðji í röðinni, á þriðja stigi
 tessellated l. stykkjóttur (eins og skáktafl), skákofinn
 test n. prófdeigla; prófsteinn, mælikvarði; prófun, raun; trúareiður; [to stand the ~] standast raun; [put to the ~] reyna (e-n); s. prófa, reyna (gull eða silfur); rannsaka ([~ the validity of an argument])
 testing n. prófun
-testacea n. ft. skeldýr
+testacea nft. skeldýr
 testaceous l. skel-; búinn til úr skeljum; [~ animals] skeldýr
 testament n. testamenti; erfðaskrá
 testamentary l. ákveðinn í erfðaskrá
@@ -385,7 +385,7 @@ thank s. þakka (fyrir [for]); [God be ~ed] guð sé lofaður
 thankful l. þakklátur
 thankfulness n. þakklæti
 thankless l. vanþakklátur
-thanks n. ft. þökk, þakkir; [my ~ to you] ég þakka þér
+thanks nft. þökk, þakkir; [my ~ to you] ég þakka þér
 thanksgiving n. þakkargerð
 that st. að, svo að; til þess að ([in order ~]); fn. sá (sú, það); þessi, þetta ([those are my children]); sem, er
 thatch n. stráþak, þekja; s. þekja (með strái)
@@ -399,7 +399,7 @@ thawy l. [~ weather] þíðviðri, þeyviðri, hláka
 the gr. ákveðinn greinir ([the man] maðurinn); sá (sú, það); hinn (hin, hið); [at ~ time] á þeim tíma; ao. því ([~ sooner ~ better] því fyrr, því betra)
 theatre n. leikhús; sjónarsvið ([~ of war])
 theatrical l. leikhúslegur; leikara- ([~ company]); leikaralegur, ónáttúrulegur
-theatricals n. ft. leiksýningar ([private ~]); leikhúsmálefni, leikhúsútbúnaður; leikarar
+theatricals nft. leiksýningar ([private ~]); leikhúsmálefni, leikhúsútbúnaður; leikarar
 thee fn. þig (sjá %[thou]%)
 theft n. þjófnaður; þýfi
 their fn. þeirra; sinn
@@ -431,7 +431,7 @@ theosophical l. guðspekilegur
 theosophist n. guðspekingur
 theosophy n. guðspeki
 therapeutic l. læknandi; læknisfræðilegur
-therapeutics n. ft. lækningafræði
+therapeutics nft. lækningafræði
 therapeutist n. læknir
 there ao. þar; þangað; [~ is] það er; [~ are] það eru; [~ came many strangers to the town] margir útlendir menn komu til borgarinnar
 thereabout ao. þar í grenndinni; hér um bil
@@ -448,7 +448,7 @@ thermic l. hita-
 thermometer n. hitamælir
 thermometrical l. sem lýtur að hitamælingum
 thesis n. lærdómssetning; verkefni (í skóla); ritgerð ([doctoral ~]); ft. [theses]
-thews n. ft. vöðvar; kraftar
+thews nft. vöðvar; kraftar
 thewy l. vöðvasterkur
 they fn. þeir, þær, þau
 thick l. þykkur; þéttur; dimmur; óskýr; heimskur, vitlaus; [to speak ~] vera loðmæltur; [~ of hearing] þungheyrður
@@ -484,7 +484,7 @@ thirteenth l. þrettándi
 thirtieth l. þrítugasti
 thirty l. þrjátíu
 this fn. þessi; [~ morning] í morgun; [~ day next week] þennan dag í næstu viku
-these fn. ft. þessir, þessar, þessi, þetta ([~ people] þetta fólk)
+these fn. þessir, þessar, þessi, þetta ([~ people] þetta fólk)
 thistle n. þistill
 thistly l. vaxinn þistlum; broddóttur
 thither ao. þangað
@@ -609,7 +609,7 @@ tidewave n. flóð, flóðbylgja (sbr. %[tidal wave]%)
 tidal wave n. flóðbylgja
 tidiness n. snyrtilegheit, snoturleiki
 tidy l. snyrtilegur, snotur, þokkalegur; dálaglegur ([a ~ penny, a pretty penny]); n. stóla- eða sófaskýla; ermasvunta (á barn); s. laga til, taka til, snyrta til (í herbergi)
-tidings n. ft. tíðindi
+tidings nft. tíðindi
 tie s. binda, hnýta; skuldbinda; n. band; hálsklútur; hnýti; jafnstæði keppinauta; jöfn atkvæði
 tier n. röð (hver upp af annarri), sætaröð (í leikhúsi)
 tierce n. lagarmál ([42 gallons])
@@ -624,7 +624,7 @@ tigress n. kventígrisdýr, kventígur
 tight l. þéttur; lekalaus; nærskorinn, þröngur; fastur, hertur ([a ~ rope]); naumur, aðsjáll; röskur ([a ~ lad]); drukkinn
 tighten s. þrengja; þétta; herða (á); þéttast, þrengjast
 tightness n. þéttleiki; þrengd
-tights n. ft. þröngar buxur
+tights nft. þröngar buxur
 tilbury n. léttivagn
 tile n. tígulsteinn, þaksteinn; [~s for paving floors] gólfflísar; [to have a ~ loose] vera ekki með öllum mjalla; s. þekja (fóðra) með tígulsteinum
 tile-kiln n. tigulofn
@@ -765,7 +765,7 @@ tomtom n. indversk bumba
 ton n. tonn (1000 kíló)
 tonne n. tonn (1000 kíló)
 tone n. tónn, hljóð, hljómur; (mál)rómur; skap; ásigkomulag; bragur ([the ~ of the school]); snið; blær (álitmynd); s. lesa (tala) með söngtón; [~ down] færa niður, lægja; milda; draga úr ([~ down a statement]); [~ up] hressa við
-tongs n. ft. tangir, eldtangir
+tongs nft. tangir, eldtangir
 tongue n. tunga; tungumál; oddi, tangi; þorn í hringju; kólfur (í klukku); mundang ([~ of a balance]); [to hold one's ~] þegja; [he has a well oiled ~] honum er hægt um mál; s. skamma, lasta; þvaðra; beita tungunni (við hljóðfæri); reka út úr sér tunguna; plægja (borð)
 tongue-tied l. mállaus, orðlaus, hljóður
 tonguy l. málliðugur, málugur, munnhvatur
@@ -789,7 +789,7 @@ toothpick n. tannstöngull
 toothsome l. lostætur, gómsætur
 tootle n. blástur, þytur ([~ of a trumpet]); orðagjálfur; s. blása (í lúður); gjálfra (um e-ð [over])
 top n. efsti hluti, toppur, tindur, hvirfill; skopparakringla; [at the ~ of his speed] eins og fætur toga (toguðu); [at the ~ of his voice] eins og hann gat kallað hæst; [from ~ to toe] frá hvirfli til ilja; [~ speed] mesti hraði; s. þekja að ofan; vera hærri en ([~ one by the head] höfði hærri en); ná upp yfir, stökkva yfir; komast upp á; skara fram úr; höggva toppinn af; standa upp úr; gnæfa upp; [~ off] fullgera
-top-boots n. ft. kragastígvél
+top-boots nft. kragastígvél
 topcoat n. yfirfrakki
 top-heavy l. of þungur að ofan, riðamikill; valtur; [~ with drink] ölvaður
 topmost l. efstur
@@ -882,7 +882,7 @@ town crier n. kallari
 town hall n. bæjarþinghöll, ráðhús
 township n. bæjarland, bæjarumdæmi
 townsman n. bæjarbúi; samborgari
-townspeople n. ft. bæjarmenn
+townspeople nft. bæjarmenn
 towntalk n. umtalsefni í bænum
 townward ao. í áttina til bæjarins
 towrope n. dráttarkaðall
@@ -890,7 +890,7 @@ tow-row n. skarkali; sköll ([~ og laughter])
 toy n. leikfang, barnagull; glingur, hégómi; s. leika, leika sér, gera að gamni sínu, glensa
 trace n. spor, för, slóði; merki; snefill; menjar ([~s]); s. rekja (spor); finna; merkja; draga upp, teikna
 traceable l. rekjanlegur
-traces n. ft. vagnólar, silar
+traces nft. vagnólar, silar
 trachea n. barki
 tracheotomy n. barkaskurður
 trachoma n. trakóm (augnsjúkdómur)
@@ -1044,8 +1044,8 @@ trapper n. veiðimaður
 trap n. stallagrjót ([~ rock])
 trapan s. sjá %[trepan]%
 trapes n. subba, ódámur; s. ganga sóðalega, vaða forina
-trappings n. ft. skrautleg reiðtygi; skrautbúnaður
-traps n. ft. farangur, föggur
+trappings nft. skrautleg reiðtygi; skrautbúnaður
+traps nft. farangur, föggur
 trash n. rusl; afkvisti; s. henda í ruslið; höggva óþarfar greinar af (trjám)
 trashy l. ónýtur, lélegur
 travail s. strita ([~ for one's children]); hafa léttasótt; n. léttasótt, fæðingarhríðir; erfiði
@@ -1219,7 +1219,7 @@ trophied l. skreyttur sigurmerkjum
 trophy n. sigurmerki
 tropic n. hvarfbaugur; ft. [tropics] hitabelti
 tropical l. sem er milli hvarfbauganna, í hitabeltinu; óeiginlegur (um orð eða orðatiltæki); sbr. %[trope]%; [~ writing] myndletur
-tropical winds n. ft. staðvindar
+tropical winds nft. staðvindar
 trot s. brokka, skokka; láta brokka; n. brokk, skokk
 trotter n. brokkari, brokkhestur; löpp
 troubadour n. trúbador; farandsöngvari; miðaldaskáld í Suður-Frakklandi
@@ -1229,7 +1229,7 @@ troublous l. róstusamur
 trough n. trog; dæld; [~ of the sea] bylgjudalur
 trounce s. berja, lemja
 troupe n. flokkur ([~ of players, ~ of dancers])
-trousers n. ft. buxur
+trousers nft. buxur
 trousseau n. brúðarfatnaður
 trout n. silungur
 trouting n. silungsveiði
@@ -1407,7 +1407,7 @@ twattle s. sjá %[twaddle]%
 tweak s. klípa ([~ one by the nose]); rykkja, kippa ([~ off]); n. klíping; klípa; verkjarstingur
 tweed n. þunnt fataefni
 tweedle s. glamra (á hljóðfæri); lokka, ginna
-tweezers n. ft. flísatöng, plokkari, lítil töng (til að draga út hár)
+tweezers nft. flísatöng, plokkari, lítil töng (til að draga út hár)
 twelfth l. tólfti; n. tólftungur; [~ day] n. þrettándi (í jólum)
 twelve n. tólf
 twelvemonth n. ár; [a ~ since] fyrir ári
@@ -1421,7 +1421,7 @@ twiggy l. greinóttur
 twilight n. rökkur, ljósaskipti; afturelding
 twill s. skávefa; n. skáofinn dúkur
 twin n. tvíburi; s. eignast (ala) tvíbura
-twins n. ft. tvíburar
+twins nft. tvíburar
 twine s. tvinna, snúa saman; vefja um; vefja sig (utan um [about]); liggja (skríða, renna) í bugðum; n. seglgarn
 twinge s. klípa; kvelja; hafa verkjarsting; [my side ~s] ég hef verk undir siðunni; n. verkjarstingur ([a ~ in the side]); [~s of conscience] samviskubit
 twink n. augabragð ([in a ~])
@@ -1441,7 +1441,7 @@ two l. tveir; [in a day or ~] eftir einn eða tvo daga; [in ~] í tvennt; n. tal
 two-edged l. tvíeggjaður
 twofold l. tvöfaldur; tvíþættur ([~ yarn])
 two-handed l. tvíhendur; [a ~ sword] sverð sem lyft er með báðum höndum
-twopence n. ft. tveir peningar
+twopence nft. tveir peningar
 twopenny l. sem kostar 2 pence
 two-wheeled n. tvíhjólaður
 tymbal n. sjá %[timbal]%

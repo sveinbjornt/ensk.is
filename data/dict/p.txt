@@ -50,7 +50,7 @@ pailette n. gljátala
 pain n. sársauki, verkur, stingur, kvöl, þjáning; sorg, harmur; [feel ~] verkja, kenna til; [forbid on ~ of death] banna að viðlagðri dauðarefsingu; s. láta kenna til; meiða, særa, hryggja
 painful n. kvalafullur, sár; erfiður; fyrirhafnarmikill
 painless l. sárindalaus, verkjarlaus; kvalalaus
-pains n. ft. ómak, fyrirhöfn; [~ (of childbirth)] jóðsótt, fæðingarhríðir; [to take ~] gera sér far (um), vanda sig
+pains nft. ómak, fyrirhöfn; [~ (of childbirth)] jóðsótt, fæðingarhríðir; [to take ~] gera sér far (um), vanda sig
 painstaker n. vandvirkur (ástundunarsamur) maður
 painstaking l. ástundunarsamur, vandvirkur, ótrauður; n. iðni, ástundun
 painsworthy l. ómaksverður
@@ -149,7 +149,7 @@ panoply n. alvæpni
 panorama n. alsýni, hringsýni, hringsjá, víðsýni
 pansy n. þrenningargras
 pant s. slá, berjast (um hjartað); mása; [~ for] þrá ákaflega; [~ for breath] standa á öndinni; n. stutt andartak; hjartsláttur; más
-pantaloons n. ft. buxur
+pantaloons nft. buxur
 pantheism n. sú kenning að náttúran sé guð
 pantheist n. panþeisti
 pantheon n. algyðishof
@@ -157,7 +157,7 @@ panther n. pardusdýr
 pantile n. þaksteinn
 pantomime n. bendingaleikur; bendingaleikari
 pantry n. matbúr
-pants n. ft. buxur
+pants nft. buxur
 pap n. geirvarta; konubrjóst; barnamatur
 papa n. pabbi
 papacy n. páfadómur; páfatign
@@ -169,7 +169,7 @@ papaverous l. líkur (skyldur) valmúa (melasól)
 papaw n. e.k. melóna
 paper n. pappír, pappírsblað; ritgerð; dagblað; bréf; veggfóður, veggpappír ([wallpaper]); ft. skjöl; málsskjöl, varnarskjöl; [commit to ~] færa í letur; s. líma veggjabréf á þil; vefja pappír utan um
 paper currency n. bréfpeningar
-paper hangings n. ft. veggjabréf
+paper hangings nft. veggjabréf
 paperman n. pappírssali
 papilionaceous l. fiðrildislegur
 papistical l. pápiskur
@@ -375,7 +375,7 @@ patrimony n. föðurleifð, erfðafé
 patriot n. föðurlandsvinur, ættjarðarvinur
 patriotic l. þjóðrækinn; þjóðræknis-; sprottinn af ættjarðarást
 patriotism n. ættjarðarást, þjóðrækni
-patristics n. ft. kirkjufeðrafræði
+patristics nft. kirkjufeðrafræði
 patrol n. næturvarðhald í herbúðum; næturverðir; njósnarflokkur; s. ganga um og halda næturvörð í herbúðum eða borg
 patrolman n. varðmaður, næturvörður
 patron n. verndari; velgerðarmaður; kirkjueigandi; skipstjóri (á smáskipum)
@@ -448,11 +448,11 @@ pearl fishery n. perluveiðar; perluveiðastaður
 pearly l. perlum búinn; tær eins og perla
 peasant n. bóndi
 peasantry n. bændafólk, bændastétt, bændur
-pease n. ft. af %[pea]%
+pease nft. af %[pea]%
 peat n. mór
 peat bog n. mómýri
 peaty l. mókynjaður; móauðugur
-pebble n. smásteinn; ft. möl
+pebble n. smásteinn; nft. möl
 pebbly l. steinóttur ([~ bottom])
 peccable l. breyskur
 peccadillo n. smásynd; yfirsjón
@@ -528,7 +528,7 @@ penal l. refsingarverður; hegningar-; [~ code] hegningarlögbók; [~ servitude]
 penalize s. hegna, refsa
 penalty n. refsing, hegning; fésekt; [on (under) ~ of death] að viðlagðri dauðarefsingu
 penance n. syndarefsing; syndabót, yfirbótarverk; s. refsa
-pence n. ft. sjá %[penny]%
+pence nft. sjá %[penny]%
 pencil n. blýantur ([lead ~]); griffill ([slate ~]); s. mála; teikna, draga upp; rita með blýanti
 pencraft n. ritlist
 pendant n. eyrnahringur, eyrnalokkar; dingull; toppveifa
@@ -539,7 +539,7 @@ pendulate s. dingla, sveiflast til og frá
 pendulous l. hangandi; rambandi
 pendulum n. dingull, órói (í klukku)
 penetrable l. gagnfærilegur; móttækilegur (fyrir áhrif)
-penetralia n. ft. innsti hluti í hofi eða musteri; afkimi
+penetralia nft. innsti hluti í hofi eða musteri; afkimi
 penetrant l. sem þrengir sér inn eða í gegn; skarpskyggn
 penetrate s. troða sér (eða fara) í gegnum eða inn í; gagntaka; hrífa; sjá (skilja) til hlítar
 penetrating l. sem þrengir sér í gegn; hvellur (um hljóð); skarpskyggn
@@ -594,7 +594,7 @@ pepperbox n. pipardós; e.k. byssa
 pepper caster n. piparbaukur
 peppery l. pipraður, barkandi; uppstökkur
 peptic l. meltingar-
-peptics n. ft. meltingarfæri
+peptics nft. meltingarfæri
 per fs. (latnesk) í gegnum; yfir; með; [~ annum, ~ year] um árið; [~ cent] af hundraði; [~ se] út af fyrir sig, í sjálfu sér; [~ post] með pósti; [~ steamer] með gufuskipi
 peradventure ao. ef til vill; n. tilviljun, óvissa, efi
 perambulate s. ganga um; fara í gegnum; rannsaka
@@ -812,7 +812,7 @@ pettifoggery n. lagaflækjur, málkrókar
 pettiness n. smæð, óveruleiki
 pettish l. duttlungafullur, geðvondur, firtinn
 pettishness n. geðvonska, firtni
-pettitoes n. ft. grísatær
+pettitoes nft. grísatær
 petty l. lítill, smár; óverulegur, ómerkilegur; [~ jury] tólf manna kviðdómur (sbr. %[jury]%); [~ larceny] smáþjófnaður
 petulance n. önuglyndi; keskni, ónot
 petulant l. keskinn; önuglyndur, firtinn
@@ -829,7 +829,7 @@ pharisaical l. hræsnisfullur
 pharisaism n. kenning Farísea; hræsni, yfirdrepskapur
 Pharisee n. Farísei; hræsnari
 pharmaceutical l. lyfjafræðilegur
-pharmaceutics n. ft. lyfjafræði
+pharmaceutics nft. lyfjafræði
 pharmaceutist n. lyfjafræðingur
 pharmacist n. lyfjafræðingur
 pharmacology n. lyfjafræði
@@ -875,7 +875,7 @@ phlegmatic l. daufur, daufgerður, fjörlaus, tómlátur
 phlogistic l. eldfimur
 phonetic l. hljóðlegur; hljóðfræðilegur
 phonetician n. hljóðfræðingur
-phonetics n. ft. hljóðfræði
+phonetics nft. hljóðfræði
 phonogram n. hljóðrit
 phonograph n. hljóðriti
 phonography n. hljóðritun
@@ -988,7 +988,7 @@ pilaster n. ferstrend súla
 pilchard n. e.k. síld
 pile n. hrúga, stafli; köstur; líkbál ([funeral ~]); peningahrúga ([make a ~]); stórhýsi; stólpi, staur; s. hrúga, hlaða upp, stafla
 pile n. hár, loðna, ló; ull
-piles n. ft. gylliniæð
+piles nft. gylliniæð
 pilfer s. hnupla
 pilferer n. hnuplari, smáþjófur
 pilfering n. hnupl
@@ -1022,7 +1022,7 @@ pinaster n. strandfura
 pincer s. klípa (með töngum)
 pincers n. naglbítur; töng, tengur ([a pair of ~]); krabbaklær
 pinch s. klípa; kreista; þrengja að; herða að, kreppa; kvelja, þjá; halda spart á; n. klíp; kreisting; kreppa, neyð; [a ~ of snuff] einn nefdráttur af tóbaki; [be at a ~] vera í kröggum; [at (on) a ~] ef í nauðirnar rekur
-pinchers n. ft. töng, tengur
+pinchers nft. töng, tengur
 pinchfist n. nirfill
 pinchbeck n. tambak (blendingur úr kopar og sinki)
 pine n. fura, greni, grenitré; s. vera stúrinn; megrast, horast; dragast (veslast) upp ([~ away]); [~ for, after] þrá ákaft
@@ -1194,7 +1194,7 @@ plead s. tala (með eða móti); flytja mál; verja; bera fyrir sig, afsaka sig 
 pleadable l. sem má bera fyrir sig sér til varnar
 pleader n. málfærslumaður; verjandi, talsmaður
 pleading n. málfærsla; málsvörn; fyrirbæn
-pleadings n. ft. málsgögn
+pleadings nft. málsgögn
 pleasance n. ánægja, skemmtun, gleði
 pleasant l. þægilegur; skemmtilegur; gamansamur
 pleasantry n. kæti; gamanyrði
@@ -1213,7 +1213,7 @@ pledgee n. veðhafi
 pledger n. veðsetjari
 pledget n. blóðþurrka (lögð við sár)
 Pleiad n. ein af sjöstjörnunum
-Pleiades n. ft. sjöstjörnur
+Pleiades nft. sjöstjörnur
 plenary l. fullkominn, fullur ([~ power, ~ indulgence])
 plenipotentiary n. sendiherra með fullu umboði; l. sem hefur fullt umboð ([envoy ~])
 plenitude n. gnótt, gnægð; [in the ~ of vigour] í fullu fjöri
@@ -1296,7 +1296,7 @@ pluviometer n. regnmælir
 pluvious l. regnsamur; [~ weather] vætutíð
 ply s. stunda ([~ one's trade]); nota kostgæfilega; nauða (kvabba) á (e-m), sárbiðja; vinna af kappi; sigla, fara (fastákveðnar ferðir milli tveggja hafna eða landstöðva); halda, stefna ([~ towards the land]); beygja, sveigja; [~ the needle] sauma; [~ the oars] róa; [~ for customers] reyna að ná í skiptavini; n. felling; föst stefna ([take the ~, one's ~]); ástand ([in good ~])
 pneumatic l. loftlegur; loft-; þrýstiloft-; [~ engine] loftdæla
-pneumatics n. ft. loftfræði, þrýstiloftfræði
+pneumatics nft. loftfræði, þrýstiloftfræði
 pneumonia n. lungnabólga
 pneumony n. lungnabólga
 poach s. skjóta veiðidýr eða veiða fisk í óleyfi á annars landi; stela (veiðidýrum); troða niður; verða gljúpur af vatni, vaðast upp (um jarðveg)
@@ -1328,7 +1328,7 @@ poetess n. skáldkona
 poetic l. skáldlegur
 poetical l. skáldlegur
 poeticize s. gera skáldlegt
-poetics n. ft. skáldskaparlist
+poetics nft. skáldskaparlist
 poetize s. yrkja
 poetry n. skáldskapur; kveðskapur; ljóðmæli, kvæði
 poignancy n. beiskja, remma; sárleiki; biturleiki
@@ -1379,7 +1379,7 @@ political l. landstjórnarlegur, stjórnfræðilegur; stjórnmála-, pólitísku
 political economy n. hagfræði, þjóðmegunarfræði
 politician n. stjórnmálamaður, stjórnfræðingur
 politicize s. ræða stjórnmál, fást við pólitík; gera e-ð pólitískt ([he politicized the issue])
-politics n. ft. stjórnmál, þingmál, pólitík; stjórnfræði; stjórnaraðferð; [talk ~] ræða um landstjórn eða landsmál
+politics nft. stjórnmál, þingmál, pólitík; stjórnfræði; stjórnaraðferð; [talk ~] ræða um landstjórn eða landsmál
 polity n. stjórnarfyrirkomulag; stjórnarskipun
 polka n. polka (dans); s. dansa polka
 poll n. höfuð; hnakki; kollur (á hatti); kjörskrá; (skrifleg) atkvæðagreiðsla; kosning; kjörstaður; [a ~ was demanded] skrifleg atkvæðagreiðsla var heimtuð; s. skera (höggva) af; klippa (ull eða hár); fá (svo og svo mörg) atkvæði; skrifa upp atkvæði e-s; greiða atkvæði
@@ -1556,7 +1556,7 @@ postdate s. dagsetja síðar en skrifað er; n. dagsetning eftir á
 postdiluvian l. sem er eftir syndaflóðið; n. maður sem lifir (hefur lifað) eftir syndaflóðið
 poster n. pósthestur; (uppfest) auglýsingablað
 posterior l. seinni, síðari (en [to]); aftari; n. afturendi
-posteriors n. ft. eftirkomendur; sitjandi
+posteriors nft. eftirkomendur; sitjandi
 posteriority n. síðarleiki ([~ in point of time, ~ of birth])
 posteriorly ao. að aftan
 posterity n. eftirkomendur, niðjar
@@ -1590,7 +1590,7 @@ potentate n. stórhöfðingi, valdhafi, drottnari
 potential l. mögulegur, sem getur verið; n. möguleiki; mætti; spenna
 potentiality n. möguleiki; máttur
 pother n. hávaði, læti; brölt; s. gera hávaða; ónáða
-potherbs n. ft. súpujurtir
+potherbs nft. súpujurtir
 pothole n. skessuketill
 pothook n. pottkrókur
 pothouse n. ölstofa, drykkjustofa
@@ -1689,7 +1689,7 @@ preceptor n. kennari, fræðari
 preceptory l. bjóðandi; fræðandi (um siðferðislega hegðun)
 preceptress n. kennslukona
 precinct n. takmörk; umdæmi
-precincts n. ft. vébönd
+precincts nft. vébönd
 precious l. dýrmætur, dýrindis; ágætur; [~ stone] gimsteinn; [~ metals] dýrir málmar (gull, silfur)
 precipice n. þverhníptur klettur, þverhnípi, hamar
 precipitancy n. óðagot, flaustursemi; flan, framhleypni
@@ -1803,7 +1803,7 @@ premeditation n. íhugun fyrirfram; fyrirhugað ráð
 premier l. fyrstur, helstur; n. ráðuneytisforseti, forsætisráðherra
 premise n. forsenda; s. segja (á undan)
 premiss n. forsenda
-premises n. ft. húseign, hús með lóð og útihúsum; [the school ~] skólahúsin; forsendur
+premises nft. húseign, hús með lóð og útihúsum; [the school ~] skólahúsin; forsendur
 premium n. verðlaun; ábyrgðargjald, iðgjald; kennslukaup; [at a ~] fyrir ofan ákvæðisverð
 premonish s. vara við
 premonition n. viðvörun
@@ -1998,7 +1998,7 @@ privy n. salerni; l. sérstakur, afvikinn ([a ~ place]); leynilegur; [~ to] samv
 prize n. verðlaun (t.d. í skólum); vinningur í happdrætti; hertekið skip; herfang; s. virða, meta; hertaka (skip); brjóta, sprengja upp (dyr); [~ essay] n. verðlaunaritgerð
 prize fight n. hnefaleikur þar sem barist er um verðlaun
 prize fighter n. hnefaleikamaður (sem keppir um verðlaun)
-pro and con ao. með og móti; n. ft. [pros and cons] ástæður með og á móti
+pro and con ao. með og móti; nft. [pros and cons] ástæður með og á móti
 probability n. líkindi
 probable l. sennilegur, líklegur
 probably ao. sennilega, líklega, að líkindum
@@ -2016,8 +2016,8 @@ problematical l. efasamur; óvís ([a ~ assertion])
 proboscis n. (fíls)rani
 procedure n. aðferð; framferði; málaflutningur, málarekstur ([criminal ~]); [parliamentary ~] þingsköp
 proceed s. fara áfram; halda áfram; miða áfram; fara fram; stafa (leiða) af; höfða (og flytja) mál ([~ against one at law]); verða, gerast
-proceeding n. framganga; framferði; aðferð ([mode of ~]); málshöfðun, lögsókn; ft. aðgerðir; [~s at law, legal ~s] lögsókn, málaferli; [~s of a society] skýrslur um aðgerðir félags
-proceeds n. ft. gróði, ábati; andvirði (seldrar vöru)
+proceeding n. framganga; framferði; aðferð ([mode of ~]); málshöfðun, lögsókn; nft. aðgerðir; [~s at law, legal ~s] lögsókn, málaferli; [~s of a society] skýrslur um aðgerðir félags
+proceeds nft. gróði, ábati; andvirði (seldrar vöru)
 process n. ferli; framganga; framkvæmd; rás; aðferð; [in ~] byrjaður; [in ~ of time] eftir því sem tímar líða; s. vinna e-ð skv. ferli; höfða mál (gegn e-m), stefna e-m ([against one]); ganga í skrúðgöngu
 procession n. framganga; skrúðganga ([go, walk, in ~]); s. ganga í skrúðgöngu; heiðra með skrúðgöngu
 processional l. sem lýtur að skrúðgöngu, borinn (sunginn) í skrúðgöngu
@@ -2115,7 +2115,7 @@ projection n. kast, framknúningur; framskot; ráðagerð
 projector n. ljóskastari; höfundur (að e-i tillögu); áformasmiður
 projecture n. framskot ([the ~ of the roof])
 prolapsus n. sig (legsig, baksig)
-prolegomena n. ft. formáli, inngangur
+prolegomena nft. formáli, inngangur
 prolepsis n. fyrirframtekning
 proletarian l. sem lýtur að öreigum, öreiga-; n. öreigi
 proletarianism n. hagur eða stjórnmálaskoðanir öreigalýðs; öreigalýður
@@ -2173,7 +2173,7 @@ proofreading n. prófarkalestur
 proofsheet n. próförk
 prop n. stoð, skorða; stuðningsmaður; s. styðja, skorða
 propaedeutic l. undirbúnings- ([~ studies])
-propaedeutics n. ft. undirbúningsnám, forspjallsvísindi
+propaedeutics nft. undirbúningsnám, forspjallsvísindi
 propaganda n. áróður; útbreiðsla sérskoðana eða kenninga yfirleitt; útbreiðslustarfsemi; kaþólskur trúboðsskóli eða félag í Róm
 propagandism n. áróðursstarfsemi; útbreiðslustarfsemi
 propagandist n. áróðursmaður, áróðursmeistari; maður sem gerir sér far um að breiða út sérskoðanir og kenningar; meðlimur kaþólska trúboðsskólans í Róm
@@ -2320,7 +2320,7 @@ prude n. tepra; l. teprulegur
 prudence n. hyggni, forsjálni; varúð, gætni
 prudent l. hygginn, forsjáll; gætinn; forsjálegur
 prudential l. varúðar-, varfærnis-
-prudentials n. ft. varúðarreglur
+prudentials nft. varúðarreglur
 prudery n. tepruskapur; tilgerðarsiðvendni
 prudish l. teprulegur, tilgerðarlegur
 prune s. sniða (óþarfar greinar) af; strjúka slétt ([~ his feathers]); n. þurrkuð plóma, sveskja
@@ -2499,7 +2499,7 @@ pursiness n. mæði
 pursuance n. framfylging; afleiðing; [in ~ of] samkvæmt
 pursuant l. samkvæmur; [~ to] samkvæmt, eftir
 pursue s. elta, veita eftirför; framfylgja; sækjast eftir; fylgja, fara eftir; stunda; vinna að; halda (e-u) áfram
-pursuit n. elting, eftirför; framfylging; eftirsókn; stundun; ft. störf; [literary ~s] bókfræðileg störf; [in ~ of] til að elta e-ð
+pursuit n. elting, eftirför; framfylging; eftirsókn; stundun; nft. störf; [literary ~s] bókfræðileg störf; [in ~ of] til að elta e-ð
 pursuivant n. sendiboði; þjónn, þjónustumaður
 pursy l. andstuttur, mæðinn; feitur, digur
 purtenance n. innmatur
@@ -2536,7 +2536,7 @@ pygmy n. dvergur
 pyaemia n. blóðeitrun
 pyjamas n. náttföt, náttklæði; víðar (silki)nærbuxur (nærbuxur og jakki)
 pylorus n. þarmhlið
-Pyrenees n. ft. Pýreneafjöll
+Pyrenees nft. Pýreneafjöll
 pyramid n. pýramídi (ferstrendur, uppmjór steinstöpull)
 pyramidal l. eins og pýramídi í lögun
 pyramidical l. eins og pýramídi í lögun

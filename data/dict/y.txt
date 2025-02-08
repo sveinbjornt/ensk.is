@@ -48,7 +48,7 @@ yielding l. mjúkur; eftirlátur, eftirlátsamur
 yoke n. ok (á yxnum); herðatré, létti (til að bera fötur í), tvær skepnur undir sama oki; þvertré, oki; herðastykki á skyrtu o.fl.; ánauð, ánauðarok; s. leiða undir ok, tengja dýr saman með hálstengslum; undiroka; vera tengdur (við [with])
 yokebone n. kinnbein
 yokefellow n. félagi; eiginmaður, eiginkona
-yokelines n. ft. stjórntaumar
+yokelines nft. stjórntaumar
 yokemate n. félagi; eiginmaður, eiginkona
 yoke ropes n. stjórntaumar
 yokel n. sveitalubbi, sveitavargur
@@ -61,7 +61,7 @@ young l. ungur; óreyndur; [in my ~er days] þegar ég var ungur; n. ungi, afkv�
 youngish l. fremur ungur, unglegur
 youngster n. unglingur
 your fn. þinn; ykkar, yðar
-yourself fn. þú sjálfur; þig sjálfan; ft. [yourselves] þið sjálfir; ykkur sjálfa
+yourself fn. þú sjálfur; þig sjálfan; nft. [yourselves] þið sjálfir; ykkur sjálfa
 yours fn. þinn, ykkar, yðar (án nafnorðs)
 youth n. æska, ungdómur; unglingur, ungmenni; æskulýður
 youthful l. ungur, unglegur, æsku-

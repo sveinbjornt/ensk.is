@@ -106,7 +106,7 @@ unburthen s. létta (byrðinni) af e-m
 unburied l. ójarðaður
 unbutton s. hneppa upp
 uncalled l. ókallaður; [~ for] óþarfur ([~ for interference])
-uncanny l. leiður; ískyggilegur; hættulegur; ógætinn
+uncanny l. ískyggilegur; hættulegur; ógætinn; leiður
 uncared l. [~ for] sem ekki er skeytt um, vanhirtur
 unceasing l. óaflátlegur, óþrotlegur
 unceasingly ao. óaflátlega
@@ -173,8 +173,8 @@ undeniable l. óneitanlegur, óyggjandi
 under fs. & ao. undir; fyrir neðan; í samsetningum: undir-, neðan-; [~ arms] með vopnum; [~ sentence] sakfelldur; [~ the breath] í lágum hljóðum
 underbid s. bjóða lægra en, bjóðast til að gera e-ð fyrir minna verð en e-r annar
 underbred l. illa menntaður
-underclothes n. ft. nærföt
-underclothing n. ft. nærföt
+underclothes nft. nærföt
+underclothing nft. nærföt
 undercroft n. hvelfing undir kórnum (í kirkju); jarðgöng
 underdone l. lítið steiktur, linsteiktur ([~ meat])
 underfoot ao. undir fótum; fyrir neðan, undir
@@ -410,7 +410,7 @@ unmast s. taka möstrin úr
 unmeaning l. meiningarlaus; [an ~ face] sviplaust andlit
 unmeasurable l. ómælanlegur
 unmentionable l. sem ekki má nefna
-unmentionables n. ft. buxur
+unmentionables nft. buxur
 unmerciful l. miskunnarlaus, harðbrjóstaður
 unmerited l. óverðskuldaður
 unmindful l. óminnugur, gleyminn; hirðulaus
