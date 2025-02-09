@@ -14,7 +14,6 @@ checkout
 backup
 derby
 lambda
-affiliation
 elected
 preterperfect
 corps
@@ -845,7 +844,6 @@ disgruntlement
 polemicist
 deconstruct
 crackdown
-lenience
 duress
 sidearm
 erstwhile
@@ -886,7 +884,6 @@ leverage
 downside
 pushback
 toiletry
-suitcase
 operable
 inoperable
 headset
@@ -928,7 +925,6 @@ static
 antistatic
 shambolic
 modus operandi
-riskiness
 diner
 thermoform
 decant
@@ -942,7 +938,6 @@ superimpose
 superimposition
 matronly
 payslip
-addendum
 apologist
 brownstone
 sleepover
@@ -970,7 +965,6 @@ careerist
 malaise
 blockage
 self-indulgence
-schoolwork
 custodial
 scholarliness
 overprescription
@@ -1015,7 +1009,6 @@ procedural
 procedurally
 citizenry
 decorator
-innocuousness
 resonate
 permissiveness
 tuppence
@@ -1037,7 +1030,6 @@ desirability
 misappropriation
 unproblematic
 ad infinitum
-unimaginative
 winnable
 discriminatory
 unsure
@@ -1057,8 +1049,8 @@ quietistic
 schematic
 paraphilia
 weightless
-self-justification
 extrasensory
+self-induced
 egomaniac
 instantiate
 instantiated
@@ -1088,7 +1080,6 @@ balkanization
 viscera
 visceral
 viscerally
-radiator
 hotspot
 ergonomic
 ergonomics
@@ -1102,7 +1093,6 @@ Darwinism
 Darwinist
 Darwinian
 ayatollah
-unpleasantness
 entourage
 exotica
 quirky
@@ -1121,7 +1111,6 @@ subcontinent
 subcontinental
 instinctual
 puzzlement
-chronometric
 monumentality
 patchiness
 dialogic
@@ -1149,7 +1138,6 @@ woodworker
 reinvestment
 individuation
 potlatch
-downplay
 savoir-faire
 industriousness
 storable
@@ -1185,7 +1173,6 @@ highlander
 unforeseen
 notation
 demiurgic
-sculptural
 post-mortem
 interpersonal
 recap
@@ -1270,7 +1257,6 @@ roomful
 supplier
 backstop
 distributional
-quadrillion
 monetization
 shutdown
 soundbite
@@ -1319,7 +1305,6 @@ swanky
 doorman
 storefront
 shamble
-fiefdom
 carte blanche
 decouple
 binder
@@ -1392,7 +1377,6 @@ definiteness
 detainee
 exhaustiveness
 mismatch
-habituation
 ritualization
 demonstrator
 derealization
@@ -4691,7 +4675,6 @@ neatly
 depilatory
 extensional
 pussyfoot
-sandcastle
 washing-up
 lese majeste
 jacynth
@@ -4712,7 +4695,6 @@ cheaply
 runabout
 nutcake
 unflappable
-ankle-length
 outbound
 punkwood
 forepeak
@@ -4731,7 +4713,6 @@ classically
 workbook
 adjudicator
 hand-wrought
-pistachio
 decrustation
 nuncupatory
 claptrap
@@ -4755,7 +4736,6 @@ plain-clothes
 close-cut
 apologetically
 unsteadily
-persuasively
 grenadine
 shamefacedly
 thoughtfully
@@ -4765,7 +4745,6 @@ snifter
 gunplay
 wisecrack
 chinless
-micrometer
 son-of-a-gun
 doublecross
 doorframe
@@ -4790,11 +4769,8 @@ roughhouse
 pecan
 heebie-jeebies
 sombrero
-collarless
-purplish
 dud
 nationally
-shyster
 unhash
 rummy
 pipeful
@@ -4810,18 +4786,15 @@ boundlessness
 herewith
 snow-clad
 packer
-fiendishness
 untrodden
 objectless
 whithersoever
 therefrom
 coomb
-archdeacon
 oatcake
 self-possession
 shoplet
 diatonic
-ratcatcher
 boree
 snappishness
 straightener
@@ -4839,19 +4812,16 @@ ambrosial
 examinee
 deducible
 rustbelt
-eatery
 procuracy
 erroneously
 steelworker
 steelworks
 changeover
 down-and-out
-stagflation
 bender
 scavenger (endurskoða)
 scavenge
 Sovietization
-un-
 tradeoff
 détente
 detente
@@ -4860,7 +4830,6 @@ reinvigorate
 emigre
 warplane
 vacationer
-self-immolation
 ethnically
 deviationism
 adventurism
@@ -4871,13 +4840,11 @@ self-management
 blitz
 haphazardly
 restabilize
-sycophantism
 military-industrial
 putschist
 cannibalization
 bombing
 confiscatory
-carmaker
 flimflam
 subsidizer
 outfox
@@ -4886,11 +4853,8 @@ bequeathal
 summarily
 duplicative
 moonlighter
-arbitrage
 infomercial
 airtime
-Chechenia
-Chechen
 governability
 socio-political
 willfully
@@ -4917,7 +4881,6 @@ acquired
 tad
 leche
 Bauhaus
-clogged
 miscommunication
 monitoring
 doorknocker
@@ -4973,3 +4936,15 @@ murid
 mescal
 dithering
 hairball
+roadkill
+operant
+reinforced
+contingence
+hooter
+hooters
+sponsored
+administered
+dish (endurskoða, dish out)
+sideboob
+capitular
+fearfulness

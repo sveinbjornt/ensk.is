@@ -426,7 +426,7 @@ orthoepist n. framburðarfræðingur
 orthoepy n. hljóðfræði; réttur framburður
 orthographer n. staffræðingur
 orthographical l. stafsetningar-; réttritunar-; [~ mistake] ritvilla
-orthography n. réttritun, staffræði
+orthography n. réttritun, staffræði, réttritunarkerfi
 oscillate s. riða, rugga, ramba, sveiflast; titra
 oscillation n. ramb, rugg, sveiflun; titringur
 oscillatory l. riðandi, ruggandi, rambandi, sveiflandi ([~ motion to and fro]); titrandi

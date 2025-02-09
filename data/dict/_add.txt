@@ -6300,7 +6300,7 @@ Jainism n. jaínismi (indversk trúabrögð)
 polluted l. mengaður; óhreinkaður; saurgaður; ataður
 unpolluted l. ómengaður; ósaurgaður
 rediscovery n. enduruppgötvun; endurfundur
-extensively ao. á yfirgripsmikinn eða víðtækan hátt; í löngu máli
+extensively ao. á yfirgripsmikinn hátt, á víðtækan hátt; í löngu máli
 hypotension n. vanþrýstingur, lágþrýstingur
 navigability n. sjófærni, skipfærni; færð
 schoolhouse n. skólahus, skólabygging
@@ -6455,3 +6455,44 @@ pegmatite n. pegmatít (e.k. granít)
 coccidiosis n. hníslasótt
 quokka n. stutthalafía (e.k. lítil kengúra)
 blood money n. blóðpeningar
+affiliation n. aðhylling; tengsl
+clogged l. stíflaður, tepptur
+Chechnya n. Téténía (svæði í Rússlandi)
+Chechen n. Téténi; téténska; l. téténskur
+arbitrage n. högnun, misvirðiskaup, verðmunarviðskipti
+carmaker n. bílaframleiðandi
+sycophantism n. smjaður
+self-immolation n. sjálfsfórn
+un- fsk. ó- (t.d. %[unhappy]%, %[unwell]% o.s.frv.)
+stagflation n. kreppuverðbólga
+eatery n. matsölustaður, veitingastaður
+ratcatcher n. rottuveiðari, rottufangari
+archdeacon n. erkidjákni
+fiendishness n. djöfulskapur, hrottaskapur
+shyster n. siðleysingi, siðlaus lögmaður, bragðarefur
+collarless l. án kraga, án flibba
+purplish l. fjólubláleitur
+purpleness n. fjólublámi
+micrometer n. míkrómetri
+micrometre n. míkrómetri
+persuasively ao. á sannfærandi hátt
+pistachio n. pistasía, pistasíuhneta
+ankle-length l. ökklasíður
+sandcastle n. sandkastali
+habituation n. aðlögun; ávani, viðvani
+fiefdom n. lén, umdæmi (sjá %[fief]%)
+quadrillion n. gríðarlega há tala (slangur); l. gríðarlega margur, gríðarlega mikið
+sculptural l. höggmynda-, skúlptúrs-
+downplay s. gera lítið úr, draga úr vægi, beina athygli frá (e-u)
+chronometric l. tímamælinga- (sjá %[chronometry]%)
+unpleasantness n. óþægindi; leiðindi, óskemmtilegheit
+radiator n. ofn, hitunartæki; vatnskassi (í bifreið)
+self-justification n. sjálfsréttlæting
+unimaginative l. óhugvitssamur, ímyndunarlaus, ímyndunarsnauður
+innocuousness n. meinleysi, óskaðsemi
+schoolwork n. skólavinna, skólastarf, heimavinna, skólanám
+addendum n. viðauki, viðbót
+riskiness n. áhættusemi
+suitcase n. ferðataska, skjalataska
+lenience n. umburðarlyndi, mildi
+leniently ao. væglega, mildilega, á umburðarlyndan hátt
