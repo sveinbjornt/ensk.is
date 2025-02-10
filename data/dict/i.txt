@@ -578,14 +578,13 @@ incorrectness n. rangleiki; villa
 incorrigible l. óbætandi, ólagfærandi
 incorrupt l. óspilltur; óskemmdur; ómútuþægur
 incorruptible l. sem ekki getur glatast eða skemmst; ómútuþægur ([a man of ~ integrity])
-increase s. auka, stækka, hækka; aukast, vaxa; fjölga
-increase n. vöxtur, aukning, fjölgun, hækkun
+increase s. auka, stækka, hækka; aukast, vaxa; fjölga; n. aukning, vöxtur, fjölgun, hækkun
 incredibility n. ótrúanleiki
 incredible l. ótrúlegur
-incredulity n. tortryggni
-incredulous l. ótrúgjarn, tortrygginn; ótrúaður (á e-ð [of])
+incredulity n. tortryggni, vantrú
+incredulous l. ótrúgjarn, tortrygginn; ótrúaður (á e-ð [of]), vantrúandi
 incremation n. líkbrennsla
-increment n. vöxtur, aukning
+increment n. vöxtur, aukning, hækkun; s. auka, hækka (í þrepum)
 increscent l. vaxandi; n. vaxandi tungl (einkum í skjaldmerkjafræði)
 incriminate s. ákæra, ásaka
 incrust s. setja skorpu á
