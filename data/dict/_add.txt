@@ -5928,14 +5928,12 @@ lymphocyte n. hvítfruma (hvítt blóðkorn), eitilfruma
 pantsing s. girða niður um einhvern (sem hrekkur)
 obliged l. vera í þakkarskuld við e-n, þakklátur
 muesli n. múslí
-dowel n. díll (viðarpinni fyrir samfestingar í trésmíði)
 annull s. ógilda (samning, hjónaband, o.s.frv.)
 annullation n. ógilding (samnings, hjónabands, o.s.frv.)
 annulled l. gerður ógildur (þ.e. samningur, hjónaband, o.s.frv.)
 speeding n. hraðakstur, ofsaakstur, akstur yfir hámarkshraða
 hyphenated l. (ritaður) með bandstriki
 onboarding n. byrðing (t.d. flugvélar eða báts); grunnþjálfun nýliða (t.d. í fyrirtæki)
-flatter s. veita fagurmæli, skjalla, hrósa, lofa, upphefja; að e-ð fari manni vel (um fatnað)
 cramped l. stappaður, troðfylltur, troðinn (um rými eða atburð, t.d. kvikmyndasalur, tónleikar); skortur á athafnafrelsi (vegna plássleysis)
 klutz n. klaufi
 toned l. skorinn (um ásýnd líkama, þar sem sést móta fyrir vöðvum)
@@ -5975,7 +5973,6 @@ sequencing s. [gene ~] raðgreining erfðaefnis
 parametrize s. stika (e-ð)
 airway n. öndunarvegur
 muffled l. hljóðdeyfður, kæft (um hljóð)
-cynic n. svartsýn manneskja
 fortified l. styrktur, efldur (t.d. veggur, vín, hugur); víggyrtur ([a ~ town])
 dilapidated l. niðurníddur (t.d. hús)
 spoiled s. dekraður; skemmdur, úldinn (t.d. mjólk)
@@ -6496,3 +6493,5 @@ riskiness n. áhættusemi
 suitcase n. ferðataska, skjalataska
 lenience n. umburðarlyndi, mildi
 leniently ao. væglega, mildilega, á umburðarlyndan hátt
+intercom n. kallkerfi; dyrasími
+litigator n. málflutningsmaður, lögfræðingur

@@ -568,10 +568,8 @@ flabbiness n. linleiki
 flabby l. linur átaks, hvaplegur, þvalur
 flaccid l. linur
 flaccidity n. linleiki
-flag n. flagg, fáni; [to strike the ~] (draga niður fána); s. hanga laus; lafa; dofna
+flag n. flagg, fáni; [to strike the ~] (draga niður fána); hella, steinflaga; sverðlilja (jurt); s. flagga; hanga laus; lafa; dofna; helluleggja
 flaggy l. daufur; bragðlaus; sem klofnar í flögur ([a ~ rock])
-flag n. hella, steinflaga; s. helluleggja
-flag n. sverðlilja (jurt)
 flagellate s. hýða, húðstrýkja
 flagellation n. húðstrýking, húðstroka
 flagitious l. svívirðilegur, lastafullur
@@ -613,9 +611,9 @@ flatness n. flatleiki, sléttleiki; deyfð, deyfubragð
 flatnosed l. flatnefjaður
 flatten s. jafna, slétta; fletja út; gera dauft (á bragðið); verða flatur (sléttur, daufur, bragðlaus)
 flattish l. nokkuð flatur
-flatter s. smjaðra; hæla; kitla hégómagirnd
-flatterer n. smjaðrari; hælari
-flattery n. smjaður
+flatter s. smjaðra, skjalla; hæla; kitla hégómagirnd; veita fagurmæli, hrósa, lofa, upphefja; að e-ð fari manni vel (um fatnað)
+flatterer n. smjaðrari, skjallari; hælari
+flattery n. smjaður, skjall
 flatulence n. vindgangur, uppþembingur, aftansöngur, prump
 flatulent l. prumpandi, vindgangandi, uppþembdur, uppbelgjandi
 flatwise ao. flatt, á flathliðina ([he fell ~ on the ground])
@@ -947,13 +945,12 @@ formalize s. koma réttu sniði á e-ð; gera lagalegt (formlegt)
 formally ao. að forminu til, formlega
 formation n. myndun; lögun
 formative l. myndandi, skapandi; myndunar-
-former n. myndari, skapari
-former l. fyrri; fyrrnefndur
-formerly ao. fyrrum, áður
-formidable l. hræðilegur, ægilegur
+former l. fyrri; fyrrnefndur; fyrrverandi; n. myndari, skapari
+formerly ao. fyrrum, áður (fyrr)
+formidable l. ægilegur; hræðilegur
 formidableness n. ógurleiki
 formless l. formlaus; ólögulegur
-formula n. formáli; ákveðin regla; forskrift
+formula n. formáli; ákveðin regla; forskrift; formúla
 formulary n. formálabók
 formulate s. orða ([~ a document])
 fornicate s. hórast, ríða
