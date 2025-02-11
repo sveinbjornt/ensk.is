@@ -3,7 +3,7 @@
 * [ ] Deduplicate words in the database
 * [ ] Add more words
 * [ ] Add more examples
-* [ ] Resolve mulitple word categoriesx
+* [ ] Resolve mulitple word categories
 * [ ] Fuzzy suggestions, matches ("Did you mean X, Y or Z?")
 * [ ] Fix double IPA entries for US English
 * [ ] Use paralell corpora

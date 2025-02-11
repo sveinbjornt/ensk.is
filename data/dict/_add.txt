@@ -2554,7 +2554,6 @@ washboard n. þvottabretti
 chromosphere n. lithvolf
 mom n. mamma, móðir (óforml.)
 mommy n. mamma, móðir (óforml.)
-mum n. mamma, móðir (óforml.); l. þögull ([keep ~, ~'s the word]); s. leika látbragðsleik
 philosophically ao. heimspekilega
 uninterpretable l. ótúlkanlegur
 predictability n. fyrirsjáanleiki
@@ -5976,7 +5975,6 @@ muffled l. hljóðdeyfður, kæft (um hljóð)
 fortified l. styrktur, efldur (t.d. veggur, vín, hugur); víggyrtur ([a ~ town])
 dilapidated l. niðurníddur (t.d. hús)
 spoiled s. dekraður; skemmdur, úldinn (t.d. mjólk)
-juggle s. halda (e-u) á lofti (t.d. boltum, verkefnum)
 juggling n. sjá %[juggle]%
 sparkler n. stjörnuljós
 hidden l. hulinn, falinn
@@ -6322,7 +6320,6 @@ endocytosis n. innfrumun
 tomboyish l. strákastelpulegur (sjá %[tomboy]%)
 sissy n. kvenlegur strákur eða karlmaður, stelpustrákur (niðrandi); skræfa, gunga, raggeit, hugleysingi
 cariogenic l. tannskemmandi, sem veldur tannátu
-carious l. tannátu-
 goober n. jarðhneta; heimskingi, einfeldningur (óforml.)
 sluggardly l. iðjulaus, latur
 sluggardliness n. iðjuleysi, leti
@@ -6451,7 +6448,6 @@ mescaline n. meskalín (ofskynjunarlyf unnið úr kaktusum)
 pegmatite n. pegmatít (e.k. granít)
 coccidiosis n. hníslasótt
 quokka n. stutthalafía (e.k. lítil kengúra)
-blood money n. blóðpeningar, blóðpeningur
 affiliation n. aðhylling; tengsl
 clogged l. stíflaður, tepptur
 Chechnya n. Téténía (svæði í Rússlandi)
@@ -6495,7 +6491,6 @@ lenience n. miskunn, vægð, mildi, umburðarlyndi
 leniently ao. miskunnarlega, væglega, mildilega, á umburðarlyndan hátt
 intercom n. kallkerfi; dyrasími
 litigator n. málflutningsmaður, lögfræðingur
-bellyache n. magaverkur, magapína
 doorman n. dyravörður
 phenomena nft. fyrirbæri (ft. af %[phenomenon]%)
 lumberjack n. skógarhöggsmaður

@@ -1014,8 +1014,7 @@ misunderstanding n. misskilningur; ágreiningur ([some ~ between them])
 misusage n. ill meðferð
 misuse s. misnota, misbrúka; fara illa með; n. misnotkun, misbrúkun
 miswrite s. misrita
-mite n. maur (í osti)
-mite n. smápeningur; ögn ([not a ~])
+mite n. maur (í osti); smápeningur; ögn ([not a ~])
 mitigant l. linandi
 mitigate s. lina, sefa, draga úr; [mitigating circumstances] málsbætur
 mitigation n. linun, léttir, fróun
@@ -1190,13 +1189,11 @@ moonshine n. tunglskin; hégómi; landi, heimabrugg; smyglað áfengi
 moonshiny l. mánabjartur ([~ nights]); hégómlegur, fánýtur
 moonstruck l. sturlaður, tunglsjúkur
 moony l. tungl-; tunglbjartur; dreymandi, utan við sig
-Moor n. Mári; blökkumaður
-moor n. mór, mói; (lyng)heiði; mýrlendi
 moorcock n. skosk heiðarjúpa
 moorfowl n. skosk heiðarjúpa
 moorish l. mýrlendur; [Moorish] máralegur, Mára-
 moory l. mýrlendur
-moor s. festa (skip) með strengjum og akkerum; leggja (skipi) við akkeri; leggjast við akkeri
+moor n. mór, mói; (lyng)heiði; mýrlendi; [Moor] Mári, blökkumaður; s. festa (skip) með strengjum og akkerum; leggja (skipi) við akkeri; leggjast við akkeri
 mooring n. lagning (skips); festi; ft. skipalægi; legufæri
 moose n. amerískt elgsdýr
 moot s. fara að ræða um, vekja máls á ([~ a question]); l. vafasamur; [a ~ point] vafaatriði
@@ -1401,13 +1398,13 @@ multiply s. margfalda; auka margfaldast; fjölga, vaxa að tölu
 multitude n. fjöldi, mergð; hópur
 multitudinous l. margfaldur, margvíslegur
 multure n. mölun; mölunarlaun
-mum l. þögull; n. mamma; uh. þei! s. ganga með grímu eða í dularklæðum; leika í bendingaleik
+mum n. mamma, móðir (óforml.); uh. þei! l. þögull ([keep ~, ~'s the word]); s. ganga með grímu eða í dularklæðum; leika í bendingaleik, leika látbragðsleik
 mumble s. muðla, tauta; japla (á e-u)
 mumblingly ao. tautandi, í hálfum hljóðum
 mummer n. (bendinga)leikari, látbragðsleikari
 mummery n. dulbúningur; grímuleikur, skrípaleikur, látbragðsleikur; yfirdrepsskapur
 mummify s. smyrja og þurrka lík ([~ a dead body])
-mummy n. múmía (smurt og þornað lík); [to beat to a ~] berja til óbóta
+mummy n. múmía (smurt og þornað lík); [to beat to a ~] berja til óbóta; mamma, móðir (óforml.)
 mump s. japla, tyggja; nöldra; biðja kjökrandi, sníkja
 mumpish l. önugur, vondur
 mumps nft. hettusótt; ólund

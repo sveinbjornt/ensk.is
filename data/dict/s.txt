@@ -163,9 +163,8 @@ sarcasm n. kaldhæðni, hnýfilyrði, sáryrði
 sarcastic l. kaldhæðinn, háðslegur, sáryrtur, meinyrtur
 sardine n. sardína
 sardonic l. háðslegur, napur; [~ smile] glott; [~ laughter] kuldahlátur, kaldahlátur
-sash n. breiður axla- eða mittislindi, skrautlindi
-sash n. gluggagrind
-sash window n. gluggi, sem hleypa má upp og niður, felligluggi
+sash n. breiður axla- eða mittislindi, skrautlindi; gluggagrind
+sash window n. gluggi sem hleypa má upp og niður, felligluggi
 Satan n. satan, andskoti, djöfull
 satanic l. djöfullegur, satanískur
 satchel n. bókataska
@@ -1321,7 +1320,7 @@ slaughterhouse n. slátrarabúð
 slaughterous l. mannskæður
 Slav n. slavneskur maður, Slavi; l. slavneskur
 slave n. þræll, ambátt; s. þrælka
-slaver n. þrælaskip; þrælakaupmaður; s. slefa; slefa á e-ð
+slaver n. þrælakaupmaður; þrælaskip; s. slefa; slefa á e-ð
 slavery n. þrældómur, þrælkun, ánauð; l. slefukenndur
 slaverer n. slefari
 slave trade n. þrælaverslun
@@ -1329,9 +1328,8 @@ Slavic l. slavneskur
 slavish l. þrællundaður
 Slavonian l. slavneskur; n. Slavi; slavneska
 Slavonic l. slavneskur
-slay s. drepa, vega
-slayer n. vegandi, banamaður
-slay n. vefjarskeið
+slay s. drepa, vega; n. vefjarskeið
+slayer n. banamaður, vegandi
 sleazy l. laus, gisinn, þunnur; subbulegur, ógeðfelldur, siðferðislega vafasamur
 sled n. sleði; s. flytja á sleða
 sledding n. sleðaflutningur; sleðafæri
@@ -2161,9 +2159,8 @@ standstill n. kyrrð; [to be at a ~] vera hreyfingarlaus, standa í stað
 stanhope n. tvíhjólaður léttivagn
 stannary n. tinnáma
 stanza n. vísa, erindi
-staple n. aðalmarkaður; aðalvara, aðalafurð; aðalefni ([~ of conversation]); vörubirgðastöð; l. stöðugur, fastur; aðal- ([~ commodities])
+staple n. aðalmarkaður; aðalvara, aðalafurð; aðalefni ([~ of conversation]); vörubirgðastöð; kengur; skráarjárn; l. stöðugur, fastur; aðal- ([~ commodities]); s. hefta
 stapler n. heftari; heftibyssa; ullarkaupmaður, ullarmatsmaður
-staple n. kengur; skráarjárn
 star n. stjarna; [falling (shooting, flying) ~] stjörnuhrap; s. setja stjörnum; stjörnumerkja; skína
 starblind l. sjóndapur
 starfish n. krossfiskur

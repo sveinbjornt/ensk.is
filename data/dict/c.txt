@@ -268,7 +268,7 @@ caribou n. hreindýr
 caricature n. háðmynd, skopmynd, skrípamynd; s. gera skopmynd af; gera hlægilegt; afbaka
 caricaturist n. skrípamyndateiknari
 caries n. beináta
-carious l. rotinn, skemmdur (um tönn); fúinn
+carious l. rotinn, skemmdur (um tönn); tannátu-; fúinn
 carking l. sár, þungur ([~ care])
 carl n. karlmaður
 carline n. kerling
@@ -741,9 +741,7 @@ Chinaman n. Kínverji
 chinch n. veggjalús
 chine n. hryggur af skepnu (með kjötinu á); hryggur, brún (á fjalli); lögg (á tunnu); s. höggva hrygginn, í stykki
 Chinese l. kínverskur: n. Kínverji; kínverska
-chink n. rifa, sprunga; s. springa; troða í rifur
-chink n. andköf; s. standa á öndinni (af hósta eða hlátri)
-chink n. glasahljóð, málmhljóð; peningar; s. glamra, hringla
+chink n. glasahljóð, málmhljóð; peningar; rifa, sprunga; andköf; s. glamra, hringla; springa; troða í rifur; standa á öndinni (af hósta eða hlátri)
 chinky l. með sprungum, rifum
 chintz n. sirz
 chip n. höggspónn; flís; sneið; [he is a ~ of the old block] lifandi eftirmyndin hans föður síns; s. höggva smátt; höggva til; flísast
@@ -2267,8 +2265,7 @@ council chamber n. þingstofa
 councillor n. ráðgjafi; ráðherra
 counsel n. ráð, ráðgjöf; ráðagerð; fyrirætlun; lögfræðingaráð; málfærslumaður; [to take ~ with] bera saman ráð sín við, eiga ráð við; [to keep one's (own) ~] leyna (þegja yfir) fyrirætlunum sínum; s. gefa ráð; ráða (e-m); ráða til (e-s)
 counsellor n. ráðgjafi, ráðunautur
-count n. greifi (útlendur titill, sem samsvarar [earl] á ensku)
-count n. talning, tala; reikningur; sakaratriði; [take (make) ~ of] gefa gaum að; s. telja; telja með; telja, skoða ([it was ~ed a great exploit to]); reikna; reiða sig á ([on, upon]); teljast; [~ for (much, little)] vera (mikils, lítils) metinn; [~ up] telja (leggja) saman; [~ out the House] fresta þingfundi, þegar mættir þingmenn eru of fáir
+count n. talning, tala; reikningur; sakaratriði; [take (make) ~ of] gefa gaum að; greifi (útlendur titill, sem samsvarar [earl] á ensku); s. telja; telja með; telja, skoða ([it was ~ed a great exploit to]); reikna; reiða sig á ([on, upon]); teljast; [~ for (much, little)] vera (mikils, lítils) metinn; [~ up] telja (leggja) saman; [~ out the House] fresta þingfundi, þegar mættir þingmenn eru of fáir
 countable l. teljanlegur ([they are ~ by the thousand])
 countenance n. svipur, yfirbragð; andlit; stilling; fylgi, aðstoð ([give ~ to]); [put out of ~] gera feiminn, trufla; [keep one's ~] stilla sig (um að hlægja); s. styðja, uppörva
 countenancer n. styrktarmaður, stuðningsmaður

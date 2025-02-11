@@ -948,23 +948,22 @@ lugubriously ao. sorglega
 lukewarm l. volgur; hálfvolgur ([the play received a lukewarm reception])
 lukewarmness n. hálfvelgja
 lull s. svæfa (með því að raula) ([~ a child to sleep]); þagga (bæla) niður; lægja ([the wind ~s]); n. logn, hlé á stormi ([~ of the storm])
-lullaby uh. bíum bíum; n. vögguvísa; s. sefa, svæfa
+lullaby n. vögguvísa; s. sefa, svæfa
 lumbago n. lendaverkur, bakverkur, vöðvagigt
 lumbar l. lenda- ([~ region, muscles])
-lumber n. rusl, skran; timbur; s. höggva timbur; ganga þunglamalega; fylla með skrani
+lumber n. timbur; rusl, skran; s. höggva timbur; ganga þunglamalega; fylla með skrani
 lumber closet n. skranloft
 lumberer n. viðarkaupmaður
 lumbering l. þunglamalegur, óliðlegur
 luminary n. lýsandi hnöttur; vitsmunamaður
 luminous l. lýsandi, skínandi; bjartur; ljós, skýr ([a ~ writer])
-lump n. kleppur, kleggi, köggull, kökkur ([with a ~ in his throat]), moli, stykki; heild ([in the ~]); [I got a ~ on my forehead] fékk kúlu á ennið
+lump n. kleppur, kleggi, köggull, kökkur ([with a ~ in his throat]), moli, stykki; heild ([in the ~]); [I got a ~ on my forehead] fékk kúlu á ennið; s. hleypa í kekki ([~ the porridge]); gera hnúskótt; setja saman í hrúgu; taka saman í eitt ([~ together, up]); hlaupa saman í kekki; dragast saman í hnúska; hlammast niður ([~ down]); mislíka, líka illa við ([whether we like him or ~ him])
 lump sugar n. molasykur, högginn sykur
 lumpfish n. hrognkelsi
 lumping l. þunglamalegur
 lumpish l. þunglamalegur
 lumpy l. kekkjóttur, klepróttur, báróttur ([a ~ sea]); þunglamalegur
-lump s. hleypa í kekki ([~ the porridge]); gera hnúskótt; setja saman í hrúgu; taka saman í eitt ([~ together, up]); hlaupa saman í kekki; dragast saman í hnúska; hlammast niður ([~ down]); mislíka, líka illa við ([whether we like him or ~ him])
-lunacy n. geðveiki; æði; tunglsýki
+lunacy n. geðveiki; sturlun; æði; tunglsýki
 lunar l. sem stafar frá eða heyrir til tunglinu; tungl-
 lunar caustic n. vítissteinn
 lunated l. hálfmánamyndaður
@@ -999,10 +998,8 @@ lustre n. gljái, ljómi; dýrðarljómi; ljósahjálmur
 lustrine n. gljásilki
 lustrous l. gljáandi, skínandi, ljómandi
 lustrum n. 5 ára tímabil
-lusty l. sjá %[lust]%
 lutanist n. sá sem leikur á lútu
-lute n. leirkítti; s. kítta
-lute n. lúta, gígja
+lute n. lúta (hljóðfæri); leirkítti; s. kítta; lúta, gígja
 Lutheran l. lúterskur; n. Lúterstrúarmaður
 Lutheranism n. Lúterstrú
 Lutherize s. snúa til Lúterstrúar

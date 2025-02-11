@@ -38,11 +38,10 @@ galactic l. mjólkur-; vetrarbrautar- ([~ circle])
 galaxy n. vetrarbraut; glæsilegur hópur, glæsilegt safn
 gale n. hvassviðri, stormur
 galimatias n. þvættingur, bull
-gall n. gall; beiskja, vonska, heift; blekepli
+gall n. gall; beiskja, vonska, heift; blekepli; sár, meiðsl, fleiður; s. nugga (gat á hörundið, kaðal til skemmda); fleiðra, meiða (t.d. hest undan reiðveri); særa, erta
 gallbladder n. gallblaðra, gallpungur
 gallless l. galllaus; góðlyndur; beiskjulaus
 gallnut n. blekhnot, blekepli
-gall s. nugga (gat á hörundið, kaðal til skemmda); fleiðra, meiða (t.d. hest undan reiðveri); særa, erta; n. sár, meiðsl, fleiður
 gallant l. glæsilegur; göfuglyndur; hugaður, hraustur, vasklegur; kurteis, stimamjúkur (við kvennfólk); n. friðill; spjátrungur; s. vera stimamjúkur við; fylgja í kurteisisskyni
 gallantly ao. hraustlega; kurteislega
 gallantry n. skraut; göfuglyndi, hugprýði; kurteisi (við kvennfólk); daður
@@ -301,8 +300,7 @@ giggler n. sá sem er síflissandi
 gild s. gylla; fegra
 gilder n. gyllari
 gilding n. gylling
-gill n. tálkn (í fiski); kjötflipi, sepi (undir nefi sumra fugla); hold undir eyrum og kjálkum; [rosy about the ~s] sællegur; [white (blue, yellow) about the ~s] dapur í bragði, fölleitur
-gill n. hálfpeli (1/4 úr pint)
+gill n. tálkn (í fiski); kjötflipi, sepi (undir nefi sumra fugla); hold undir eyrum og kjálkum; [rosy about the ~s] sællegur; [white (blue, yellow) about the ~s] dapur í bragði, fölleitur; hálfpeli (1/4 úr pint)
 gimbals nft. jafnvægishringar ([the lamp swung in its ~])
 gimcrack n. smáglingur, glys; l. glyslegur
 gimcracky l. glingurslegur
@@ -645,8 +643,7 @@ grasshopper n. engispretta
 grass plot n. grasflöt
 grassless l. graslaus
 grassy l. grösugur, grasgefinn; grasgrænn
-grate n. málmgrind (fyrir glugga), grindur; rist í ofn eða eldavél; s. setja grind fyrir eða utan um ([windows ~ed with iron])
-grate s. núa, nugga; nuggast við e-ð; mylja; nísta (tönnum); meiða, særa; marra ([the door ~s]); urga, sarga; [~ upon the ears] láta illa í eyrum
+grate n. málmgrind (fyrir glugga), grindur; rist í ofn eða eldavél; s. setja grind fyrir eða utan um ([windows ~ed with iron]); núa, nugga; nuggast við e-ð; mylja; nísta (tönnum); meiða, særa; marra ([the door ~s]); urga, sarga; [~ upon the ears] láta illa í eyrum
 grateful l. þakklátur; þakksamlegur; þægilegur ([a ~ sensation])
 gratefulness n. þakklátsemi
 grater n. rífjárn
