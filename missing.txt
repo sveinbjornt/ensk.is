@@ -1651,8 +1651,6 @@ hotline
 Luddite
 Luddism
 slurp
-alumnus
-alumni
 maven
 ratchet
 scrounge
@@ -1692,7 +1690,6 @@ sweepstakes
 sweepstake
 kosher
 pesky
-yesteryear
 amok
 jackrabbit
 tracker
@@ -1706,7 +1703,6 @@ inclusiveness
 aggregator
 runoff
 sneaker
-prosecutorial
 constitutionality
 systematizer
 nettlesome
@@ -1748,7 +1744,6 @@ differentiator
 relational
 face-to-face
 transactional
-theretofore
 aloofness
 hype
 bedside
@@ -1768,7 +1763,6 @@ slugger
 defensiveness
 sportsmanship
 divvy
-snowfall
 replay
 antitrust
 tripwire
@@ -1778,7 +1772,6 @@ hardscrabble
 dodecadic
 helion
 skillet
-foreplay
 afresh
 parodic
 juvenilia
@@ -1840,10 +1833,8 @@ specifically
 noumenal
 instrumentalism
 ultimacy
-multifariousness
 unpretentious
 entailment
-undebatable
 penumbra
 externality
 coexistence
@@ -1853,7 +1844,6 @@ specifiable
 conditionals
 ameliorist
 modifier
-explicability
 representable
 reflexivity
 enumerable
@@ -2628,7 +2618,6 @@ crosscut
 slugfest
 recombine
 unilineal
-papaya
 maximal
 prototypical
 skullduggery
@@ -2656,7 +2645,6 @@ centerpiece
 manorialism
 premarital
 delegitimization
-hydrant
 snatcher
 payback
 prosociality
@@ -2672,7 +2660,6 @@ deregulatory
 embeddedness
 multiparty
 Cistercian
-purgatorial
 mélange
 sandglass
 mealtime
@@ -2693,7 +2680,6 @@ specialness
 substrate
 mainline
 tentatively
-farmhand
 motherhouse
 innervate
 innervation
@@ -2763,12 +2749,9 @@ legalism
 centrally
 defuse
 beachhead
-backstreet
 travertine
-alleyway
 periplus
 assertiveness
-diminishment
 zither
 refortification
 Sinicization
@@ -2781,7 +2764,6 @@ expansionistic
 follow-up
 kowtow
 reaffirm
-Solomonic
 pressurize
 depressurize
 exceptionalist
@@ -4902,9 +4884,6 @@ gamesmanship
 babu
 babushka
 animated
-reanimated
-rumbling
-grumbling
 staggered
 scalability
 sandman

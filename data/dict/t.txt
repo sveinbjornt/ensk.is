@@ -138,9 +138,8 @@ tarn n. tjörn; fen, flói
 tarnish s. láta falla á, taka gljáann af; láta litast upp; óhreinka; flekka; missa gljáann; upplitast; fölna; n. upplitun; blettur (á mannorði)
 tarpaulin n. tjargaður segldúkur; sjóhattur; sjómaður
 tarry s. dvelja, bíða; l. tjörugur; tjörukenndur; tjöru- ([~ substance])
-tart l. súr; beiskur, napur; harður
+tart n. skorpukaka, terta; lauslát kona, skækja, hóra (óforml.); l. súr; beiskur, napur; harður
 tartish l. ísúr
-tart n. skorpukaka, terta
 tartan n. skoskur, stykkjóttur dúkur; Háskoti
 Tartar n. Tartari; ofstopamaður, hrotti; kvenvargur; [to catch a ~] hitta sér meiri mann
 tartar n. vínsteinn; tannsteinn, hraðberg
@@ -1038,10 +1037,9 @@ transudation n. svitnun
 transude s. svitna
 transversal l. sem er þversum, þver-
 transverse s. sjá %[transversal]%
-trap n. gildra, dýrabogi, refasöx; snara; launsátur; fjaðravagn; [to be up to ~] vera slunginn; s. veiða í gildru; leggja gildru (fyrir [for])
+trap n. gildra, dýrabogi, refasöx; snara; launsátur; fjaðravagn; [to be up to ~] vera slunginn; stallagrjót ([~ rock]); s. veiða í gildru; leggja gildru (fyrir [for])
 trapdoor n. hlemmur, hleri (í lofti eða gólfi); lúkugat
 trapper n. veiðimaður
-trap n. stallagrjót ([~ rock])
 trapan s. sjá %[trepan]%
 trapes n. subba, ódámur; s. ganga sóðalega, vaða forina
 trappings nft. skrautleg reiðtygi; skrautbúnaður
@@ -1243,8 +1241,7 @@ truancy n. skróp
 truant l. latur, hyskinn (við e-ð [from]); n. letingi, skrópari; [to play ~] skrópa, svíkjast undan skóla
 truce n. vopnahlé; stundarfriður ([a ~ to his anxiety]); s. gera vopnahlé; gera enda á e-u
 truceless l. látlaus ([~ war])
-truck n. trukkur, flutningsvagn; s. flytja á vagni
-truck n. skiptiverslun; greiðsla kaupgjalds í vörum; skran, rusl; s. reka skiptiverslun; skipta á (e-u); láta e-ð í skiptum ([~ away])
+truck n. trukkur, flutningsvagn; skiptiverslun; greiðsla kaupgjalds í vörum; s. flytja á vagni; reka skiptiverslun; skipta á (e-u); láta e-ð í skiptum ([~ away])
 truckle n. tríssuhjól, tríssa; valtari; lághjóluð kerra; s. vera auðmjúkur (við); beygja sig (undir [to])
 truckle-bed n. sjá %[trundle-bed]%
 truckler n. þýlyndur smjaðrari

@@ -235,7 +235,7 @@ really ao. sannarlega; í raun og veru
 realm n. ríki, konungsríki
 realty n. fasteign
 ream s. víkka (gat eða rifu); freyða; fleyta (rjómann) ofan af; n. rís (af pappír, 20 bækur)
-reanimate s. endurlífga ([~ a drowned man]); endurhressa, hressa við; lifna við
+reanimate s. endurlífga, vekja aftur til lífs ([~ a drowned man]); endurhressa, hressa við; lifna við
 reanimation n. endurlífgun
 reap s. skera (korn); skera upp, uppskera; fá, öðlast
 reaper n. uppskerumaður, kornskurðarmaður; kornskurðarvél; [the Grim Reaper] dauðinn
@@ -791,8 +791,7 @@ reopen s. opna aftur; [~ the case] taka málið fyrir aftur
 reorganization n. nýtt fyrirkomulag
 reorganize s. koma (e-u) fyrir af nýju; skipa (e-u) í rétt lag að nýju
 repaint s. mála yfir aftur
-repair s. gera við; bæta, bæta upp ([~ a wrong]); bæta úr; græða, gróa (um sár); n. viðgerð ([the shop is closed during ~s]); viðhald; [a building in good ~] sem er haldið vel við; [out of ~] hrörlegur, af sér genginn; [keep in good (bad) ~] halda e-u vel (illa) við
-repair s. fara (til [to]); n. dvalarstaður ([~s of wild beasts]); [make (one's) ~ to] fara til
+repair s. gera við; bæta, bæta upp ([~ a wrong]); bæta úr; græða, gróa (um sár); fara (til [to]); n. viðgerð ([the shop is closed during ~s]); viðhald; [a building in good ~] sem er haldið vel við; [out of ~] hrörlegur, af sér genginn; [keep in good (bad) ~] halda e-u vel (illa) við; dvalarstaður ([~s of wild beasts]); [make (one's) ~ to] fara til
 reparable l. sem má gera við; bætanlegur
 reparation n. viðgerð, aðgerð; viðreisn; bætur
 reparative l. bætandi ([~ power])
@@ -1343,8 +1342,7 @@ rod n. stafur, sproti, teinn ([divining ~]); veiðistöng; mælistöng ([surveyo
 rodent l. nagandi; n. nagdýr ([burrowing ~s])
 rodomontade n. skrum, gort, raus; s. grobba, rausa
 rodster n. stangveiðari
-roe n. hrogn; [hard ~] hrogn; [soft ~] svil (sbr. %[spawn]%)
-roe n. rádýr; hind
+roe n. rádýr; hind; hrogn; [soft ~] svil (sbr. %[spawn]%)
 roebuck n. rábukkur
 roe deer n. rádýr
 rogation n. bæn; [~ days] þrír dagar á undan uppstigningardegi, gangdagar ([~ week])
@@ -1528,10 +1526,9 @@ rupture n. brot; kviðslit; friðarrof; s. sprengja; kviðslita; springa, bresta
 rural l. sveitalegur; sem lýtur að jarðrækt eða landbúnaði, landbúnaðar-
 ruralize s. gera sveitalegt; ferðast (búa) uppi í sveit
 ruse n. bragð, herbragð
-rush n. sef; reyr; [not worth a ~] einskis virði
 rush-bottomed l. með strásetu ([a ~ chair])
 rushlight n. kerti með sefkveik; náttljós
-rush s. þjóta (ryðjast, geysast) áfram; flana ([~ into a scheme]); streyma, fossa, steypast (um vatn); hrinda ([they ~ed him out of the room]); gera snarpt áhlaup á; n. snarpt áhlaup; mikil aðsókn, ös; troðningur; [a ~ of tears] tárastraumur
+rush s. þjóta (ryðjast, geysast) áfram; flana ([~ into a scheme]); streyma, fossa, steypast (um vatn); hrinda ([they ~ed him out of the room]); gera snarpt áhlaup á; n. snarpt áhlaup; mikil aðsókn, ös; troðningur; [a ~ of tears] tárastraumur; sef; reyr; [not worth a ~] einskis virði
 rushy l. sefi vaxinn; sef-
 rusk n. tvíbaka
 russet l. rauðleitur, rauðbrúnn; búralegur; n. rauðbrúnt vaðmál; dumbrauður litur

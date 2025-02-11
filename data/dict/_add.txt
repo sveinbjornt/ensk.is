@@ -4754,7 +4754,9 @@ proportionally ao. hlutfallslega
 floozie n. skækja, mella, vændiskona
 floozy n. sjá %[floozie]%
 explicably ao. útskýranlega, skiljanlega
+explicability n. útskýranleiki, skiljanleiki
 inexplicably ao. óútskýranlega, óskiljanlega
+inexplicability n. óútskýranleiki, óskiljanleiki
 khanate n. höfðingjaveldi, stórhöfðingjaveldi (í Asíu)
 Tokyo n. Tókýó (höfuðborg Japans)
 Bigfoot n. Snjómaðurinn ógurlegi (goðsagnakennd vera)
@@ -6506,3 +6508,28 @@ snow-clad l. snævi þakinn
 trodden l. troðinn
 untrodden l. ótroðinn ([we're in ~ territory])
 downtrodden l. niðurtroðinn; kúgaður ([the ~ masses])
+mumbling n. muldur, taut; muðl
+grumbling n. nöldur
+rumbling n. skrölt; drun; skruðningur
+reanimated l. endurlífgaður; vakinn aftur til lífs; lifnaður við
+undebatable l. óumdeilanlegur
+multifariousness n. fjölbreytni, margvísi
+foreplay n. forleikur
+snowfall n. snjókoma
+theretofore ao. fram að þeim tíma, fram til þess
+prosecutorial l. saksóknara-, saksóknar-
+yesteryear n. síðasta ár; fyrri ár, liðin ár
+alumnus n. fyrrum nemandi, útskrifaður nemandi
+alumni nft. sjá %[alumnus]%
+papaya n. papaja, papajaaldin, sólaldin
+hydrant n. vatnshani; brunahani ([fire ~])
+purgatorial l. hreinsandi; hreinsunarelds-
+farmhand n. vinnumaður á bóndabæ
+backstreet n. bakstræti
+alleyway n. húsasund, öngstræti
+diminishment n. minnkun
+Solomonic l. Salómons-
+Tyrrhenian n. Tyrrenahaf
+North Sea n. Norðursjór
+English Channel n. Ermarsund ([the ~], sundið milli Englands og Frakklands)
+quixotically ao. lygilega, á fjarstæðukenndan hátt (sjá %[quixotic]%)

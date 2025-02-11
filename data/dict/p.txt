@@ -491,8 +491,7 @@ pedlar n. varningsmaður, farandsali
 pedometer n. skrefmælir
 peek s. gægjast ([~ in, out])
 peel s. taka hýði eða börk af; flagna af; n. hýði, börkur
-peep s. gægjast; koma í ljós; n. fyrsta framkoma; uppkoma; [~ of day] dögun, afturelding; [we had a ~ at] vér sáum snöggvast (í svip)
-peep s. tísta; n. píp
+peep s. gægjast; koma í ljós; tísta; n. píp; fyrsta framkoma; uppkoma; [~ of day] dögun, afturelding; [we had a ~ at] vér sáum snöggvast (í svip)
 peer n. jafningi ([you will not easily find his ~]); göfugmenni, sem hefur sæti og atkvæðisrétt í efri málstofu enska þingsins ([duke, marquis, earl, viscount, baron]); s. jafnast við ([with])
 peerage n. aðalstign; ríkisaðall
 peeress n. háaðalleg frú
@@ -1851,9 +1850,8 @@ prescript n. fyrirskipun
 prescription n. fyrirskipun; læknisávísun; fyrning (skuldbindingar); notkunarhefð
 prescriptive l. fenginn með notkunarhefð ([~ right]); venjuhelgaður; fyrirskipandi ([~ rule])
 presence n. viðurvist, nærvera, návist; tignarpersóna; framkoma, hegðun ([a man of noble ~]); [~ of mind] snarræði; [~ room, ~ chamber] áheyrnarsalur
-present l. viðstaddur, nálægur, nærverandi, nærstaddur; núverandi, sem stendur yfir ([the ~ time]); sem er til taks, reiðubúinn; [at (in) the ~ day] nú á dögum; n. nútíð; yfirstandandi tíð; gjöf; [make a ~ of] gefa; [at ~] að svo stöddu, nú; [for the ~] fyrst um sinn
+present l. viðstaddur, nálægur, nærverandi, nærstaddur; núverandi, sem stendur yfir ([the ~ time]); sem er til taks, reiðubúinn; [at (in) the ~ day] nú á dögum; n. nútíð; yfirstandandi tíð; gjöf; [make a ~ of] gefa; [at ~] að svo stöddu, nú, í augnablikinu; [for the ~] fyrst um sinn; s. nefna e-n fyrir öðrum viðstöddum, kynna e-n; sýna; afhenda; bera upp (nýmæli); bera fram (kæru); kæra; mæla með e-m (til prestsembættis); gefa ([with]); ota, miða (byssu); [an opportunity ~ed itself] tækifæri gafst
 presently ao. bráðum; undir eins
-present s. nefna e-n fyrir öðrum viðstöddum, kynna e-n; sýna; afhenda; bera upp (nýmæli); bera fram (kæru); kæra; mæla með e-m (til prestsembættis); gefa ([with]); ota, miða (byssu); [an opportunity ~ed itself] tækifæri gafst
 presentable l. boðlegur; frambærilegur; sómasamlega búinn
 presentation n. framsetning; afhending; uppburður; meðmæling til prestsembættis; [~ of prizes] afhending verðlauna; [books adapted for ~] hentugar til gjafa
 presentment n. kæra; kæruskjal
@@ -2355,10 +2353,9 @@ psychology n. sálfræði, sálarfræði
 ptisan n. bygggrjónaseyði
 puberty n. getnaðaraldur, getnaðarþroski
 pubescent l. þroskaður til getnaðar; gjafvaxta; loðinn (um plöntur)
-public l. opinber, allsherjar; almennur; alkunnur; [~ funds] ríkisskuldabréf; [the ~ good] almenningsheill; [~ records] opinber skjöl, ríkisskjalasafn; [at the ~ expense] á kostnað ríkisins (landsins); [~ house] veitingahús; [~ school] menntaskóli; [~ spirit] ættjarðarást
-public n. almenningur, alþýða manna; áheyrendur, áhorfendur; [in ~] opinberlega, á almannafæri
-publican n. tollheimtumaður; veitingamaður
-publication n. birting; boðskapur; útgáfa (rits eða bókar); rit; bók; [monthly ~] mánaðarrit; [~ price] bókhlöðuverð
+public l. opinber, allsherjar; almennur; alkunnur; [~ funds] ríkisskuldabréf; [the ~ good] almenningsheill; [~ records] opinber skjöl, ríkisskjalasafn; [at the ~ expense] á kostnað ríkisins (landsins); [~ house] veitingahús; [~ school] menntaskóli; [~ spirit] ættjarðarást; [in ~] opinberlega, á almannafæri; n. almenningur, alþýða manna; áheyrendur, áhorfendur
+publican n. veitingamaður; tollheimtumaður
+publication n. birting; útgáfa (rits eða bókar); rit; bók; [monthly ~] mánaðarrit; [~ price] bókhlöðuverð
 publicism n. blaðamennska
 publicist n. rithöfundur um ríkisrétt og þjóðarétt; blaðamaður
 publicistic l. blaðamanna- ([~ accounts of Japan])

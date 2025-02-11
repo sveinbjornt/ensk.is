@@ -233,10 +233,8 @@ scaffold n. pallur; aftökupallur; s. reisa pall (skorður) undir e-ð eða upp 
 scaffolding n. smíðapallur; vinnupallar; verkpallur, vinnupallur, stillas
 scald s. brenna (á sjóðheitu vatni eða gufu); skola úr heitu vatni; [~ milk] flóa mjólk; n. brunasár; skáld
 scalding l. sjóðheitur, brennheitur
-scale n. skali; vogarskál; [a pair of ~s] metaskálar, vog; [to ride to ~] ríða til að láta vega sig (eftir endaða kappreið); [to turn the ~] ríða baggamuninn
+scale n. skali; vogarskál; [a pair of ~s] metaskálar, vog; [to ride to ~] ríða til að láta vega sig (eftir endaða kappreið); [to turn the ~] ríða baggamuninn; tónstigi; hlutfall; mælikvarði; [decimal ~] tugamál; [on a large (small) ~] í stórum (litlum) mæli; hreistur; væra, flasa ( í höfði); sindur; vatnsskóf (í katli); s. klifra upp á; hreistra (fisk); flysja; flagna, flosna frá ([off, away])
 scalebeam n. vogarstöng
-scale n. hreistur; væra, flasa ( í höfði); sindur; vatnsskóf (í katli); s. hreistra (fisk); flysja; flagna, flosna frá ([off, away])
-scale n. tónstigi; hlutfall; mælikvarði; [decimal ~] tugamál; [on a large (small) ~] í stórum (litlum) mæli; s. klifrast upp á
 scaler n. klifrari, fjallgöngumaður
 scalene l. ójafnhliða
 scaling ladder n. stigi til að klifra upp á kastala
@@ -3036,8 +3034,7 @@ sweaty l. sveittur; örðugur, fyrirhafnarmikill
 Swede n. Svíi
 Sweden n. Svíþjóð
 Swedish l. sænskur; n. sænska
-sweep s. sópa, hreinsa ([~ a floor, chimney]); sópa burtu ([~ away, off]); strjúkast yfir, sópa að endilöngu; strjúka ([~ the hair from her forehead]); geysast, þjóta ([she swept out of the room]); [the land ~s away to the east] liggur langt í austur; [~ the board] ryðja borðið; [~ down upon] steypa sér niður yfir eða á e-ð (um ránfugla); [~ for] kraka (leita) eftir e-u; [~ up] sópa ([~ up the room])
-sweep n. sópun; burtsópun; kast, sveifla; eyðing; yfirferð; bugur, bugða; brunnvippa; götusópari ([street ~er]); sótari ([chimney ~])
+sweep s. sópa, hreinsa ([~ a floor, chimney]); sópa burtu ([~ away, off]); strjúkast yfir, sópa að endilöngu; strjúka ([~ the hair from her forehead]); geysast, þjóta ([she swept out of the room]); [the land ~s away to the east] liggur langt í austur; [~ the board] ryðja borðið; [~ down upon] steypa sér niður yfir eða á e-ð (um ránfugla); [~ for] kraka (leita) eftir e-u; [~ up] sópa ([~ up the room]); n. sópun; burtsópun; kast, sveifla; eyðing; yfirferð; bugur, bugða; brunnvippa; götusópari ([street ~er]); sótari ([chimney ~])
 sweeper n. sópari; sótari ([chimney ~])
 sweeping l. yfirgripsmikill
 sweepings nft. rusl, sorp
