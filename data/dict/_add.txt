@@ -510,7 +510,7 @@ hypernym n. yfirheiti ([bird is a ~ of crow])
 antonym n. andheiti ([dead is the ~ of alive])
 software n. hugbúnaður
 software engineer n. hugbúnaðarverkfræðingur
-software development n. hugbúnaðarþróun
+software development n. hugbúnaðarþróun, hugbúnaðarsmíði
 software developer n. hugbúnaðarsmiður
 update s. uppfæra; n. uppfærsla; [software ~] hugbúnaðaruppfærsla
 updated l. uppfærður
@@ -6401,7 +6401,7 @@ arteriosclerosis n. slagæðaherðing
 Crimea n. Krímea, Krímskagi
 unintentionally ao. óviljandi, ekki af ásettu ráði, án tilætlunar
 well-educated l. vel menntaður, vel fræddur; vel upp alinn, vel fóstraður
-organized crime n. skipulögð glæpastarfsemi, mafía
+organized crime n. skipulögð glæpastarfsemi
 stochastically ao. af slembni, á tilviljanakenndan hátt, eftir hendingu
 Paleozoic n. fornlífsöld; l. fornlífsaldar-
 mutilated l. limlestur, lemstraður; skemmdur
@@ -6441,17 +6441,17 @@ catamite n. ungur drengur í kynferðislegu sambandi við eldri mann
 Ulysses n. Ódysseifur
 Sardinia n. Sardinía (eyja í Miðjarðarhafi)
 illustrator n. myndskreytir, teiknari
-Beowulf n. Bjólfur; Bjólfskviða (fornenskt miðaldakvæði)
+Beowulf n. Bjólfskviða (fornenskt miðaldakvæði); Bjólfur
 spermatogonia nft. sáðstofnfrumur (sjá %[spermatogonia]%)
 spermatogonium n. sáðstofnfruma
 soapbox n. ræðustóll, predikunarstóll
 peafowl nft. páfuglar
 testes nft. eistu
-mescaline n. meskalín (ofskynjunarlyf)
+mescaline n. meskalín (ofskynjunarlyf unnið úr kaktusum)
 pegmatite n. pegmatít (e.k. granít)
 coccidiosis n. hníslasótt
 quokka n. stutthalafía (e.k. lítil kengúra)
-blood money n. blóðpeningar
+blood money n. blóðpeningar, blóðpeningur
 affiliation n. aðhylling; tengsl
 clogged l. stíflaður, tepptur
 Chechnya n. Téténía (svæði í Rússlandi)
@@ -6460,25 +6460,25 @@ arbitrage n. högnun, misvirðiskaup, verðmunarviðskipti
 carmaker n. bílaframleiðandi
 sycophantism n. smjaður
 self-immolation n. sjálfsfórn
-un- fsk. ó- (t.d. %[unhappy]%, %[unwell]% o.s.frv.)
+un- fsk. ó- (t.d. %[unhappy]%, %[unwell]%, o.s.frv.)
 stagflation n. kreppuverðbólga
 eatery n. matsölustaður, veitingastaður
 ratcatcher n. rottuveiðari, rottufangari
 archdeacon n. erkidjákni
 fiendishness n. djöfulskapur, hrottaskapur
-shyster n. siðleysingi, siðlaus lögmaður, bragðarefur
+shyster n. siðleysingi, siðlaus lögmaður eða stjórnmálamaður, bragðarefur
 collarless l. án kraga, án flibba
 purplish l. fjólubláleitur
 purpleness n. fjólublámi
-micrometer n. míkrómetri
-micrometre n. míkrómetri
-persuasively ao. á sannfærandi hátt
-pistachio n. pistasía, pistasíuhneta
+micrometer n. míkrómetri (einn milljónasti úr metra)
+micrometre n. míkrómetri (einn milljónasti úr metra)
+persuasively ao. á sannfærandi hátt, á sannfærandi máta
+pistachio n. pistasía, pistasíuhneta; l. [~-flavoured] með pistasíubragði
 ankle-length l. ökklasíður
 sandcastle n. sandkastali
 habituation n. aðlögun; ávani, viðvani
 fiefdom n. lén, umdæmi (sjá %[fief]%)
-quadrillion n. gríðarlega há tala (slangur); l. gríðarlega margur, gríðarlega mikið
+quadrillion n. gríðarlega há tala (slangur); l. gríðarlega margur, gríðarlega mikið (gervitala sem er gríðarlega há)
 sculptural l. höggmynda-, skúlptúrs-
 downplay s. gera lítið úr, draga úr vægi, beina athygli frá (e-u)
 chronometric l. tímamælinga- (sjá %[chronometry]%)
@@ -6487,11 +6487,27 @@ radiator n. ofn, hitunartæki; vatnskassi (í bifreið)
 self-justification n. sjálfsréttlæting
 unimaginative l. óhugvitssamur, ímyndunarlaus, ímyndunarsnauður
 innocuousness n. meinleysi, óskaðsemi
-schoolwork n. skólavinna, skólastarf, heimavinna, skólanám
+schoolwork n. skólavinna, heimavinna, skólanám, skólastarf
 addendum n. viðauki, viðbót
 riskiness n. áhættusemi
-suitcase n. ferðataska, skjalataska
-lenience n. umburðarlyndi, mildi
-leniently ao. væglega, mildilega, á umburðarlyndan hátt
+suitcase n. ferðataska, fatataska
+lenience n. miskunn, vægð, mildi, umburðarlyndi
+leniently ao. miskunnarlega, væglega, mildilega, á umburðarlyndan hátt
 intercom n. kallkerfi; dyrasími
 litigator n. málflutningsmaður, lögfræðingur
+bellyache n. magaverkur, magapína
+doorman n. dyravörður
+phenomena nft. fyrirbæri (ft. af %[phenomenon]%)
+lumberjack n. skógarhöggsmaður
+exocytosis n. útfrumun
+thermos n. hitabrúsi
+marjoram n. meiran, kryddmæra, marjoram
+pollock n. ufsi, lýr
+adventurism n. ævintýramennska
+warplane n. orustuflugvél, herflugvél, herþota
+steelworks nft. stálbræðsla, stálver
+aforethought n. að yfirlögðu ráði, fyrirfram hugsað
+snow-clad l. snævi þakinn
+trodden l. troðinn
+untrodden l. ótroðinn ([we're in ~ territory])
+downtrodden l. niðurtroðinn; kúgaður ([the ~ masses])

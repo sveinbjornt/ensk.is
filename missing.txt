@@ -366,7 +366,7 @@ domestically
 incrimination
 wastepaper
 unappetizing
-downtrodden
+
 nerve-racked
 overgrown
 reiteration
@@ -1302,7 +1302,6 @@ gentrify
 gentrified
 gentrification
 swanky
-doorman
 storefront
 shamble
 carte blanche
@@ -4782,9 +4781,7 @@ misquote
 misquotation
 boundlessness
 herewith
-snow-clad
 packer
-untrodden
 objectless
 whithersoever
 therefrom
@@ -4805,7 +4802,6 @@ unselfishness
 Shakespearian
 whereinsoever
 fearlessly
-aforethought
 ambrosial
 examinee
 deducible
@@ -4813,7 +4809,6 @@ rustbelt
 procuracy
 erroneously
 steelworker
-steelworks
 changeover
 down-and-out
 bender
@@ -4826,11 +4821,9 @@ detente
 reinvigorate
 émigré
 emigre
-warplane
 vacationer
 ethnically
 deviationism
-adventurism
 gerontocrat
 microcomputer
 shadiness
@@ -4951,3 +4944,15 @@ blindside
 convolutional
 stateful
 scrape (endurskoða)
+pogromist
+foodie
+nonaggression
+quarterstaff
+monistic
+agglomerative
+cliffhanger
+minuteman
+smoothie
+shortlist
+shortlisted
+pinny
