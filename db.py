@@ -158,8 +158,7 @@ class EnskDatabase(object):
 
     def read_metadata(self) -> dict[str, str]:
         """Read all metadata entries from the database."""
-        conn = self.conn()
-        selected = conn.cursor().execute("SELECT * FROM metadata")
+        selected = self.conn().cursor().execute("SELECT * FROM metadata")
         res = self._consume(selected, order=False)
         return {row["key"]: row["value"] for row in res}
 
@@ -172,28 +171,32 @@ class EnskDatabase(object):
 
     def read_all_entries(self) -> list[dict]:
         """Read and return all entries."""
-        conn = self.conn()
-        selected = conn.cursor().execute("SELECT * FROM dictionary")
+        selected = self.conn().cursor().execute("SELECT * FROM dictionary")
         return self._consume(selected)
 
     def read_all_original(self) -> list[dict]:
         """Read and return all original entries from the Zoega dictionary."""
-        conn = self.conn()
-        selected = conn.cursor().execute("SELECT * FROM dictionary WHERE page_num!=0")
+        selected = (
+            self.conn().cursor().execute("SELECT * FROM dictionary WHERE page_num!=0")
+        )
         return self._consume(selected)
 
     def read_all_additions(self) -> list[dict]:
         """Read and return all entries not present in the original Zoega dictionary."""
-        conn = self.conn()
-        selected = conn.cursor().execute("SELECT * FROM dictionary WHERE page_num=0")
+        selected = (
+            self.conn().cursor().execute("SELECT * FROM dictionary WHERE page_num=0")
+        )
         return self._consume(selected)
 
     def read_all_duplicates(self) -> list[dict]:
         """Read and return all duplicate (i.e. same word) entries present in the dictionary
         as a dict keyed by word."""
-        conn = self.conn()
-        selected = conn.cursor().execute(
-            "SELECT *, COUNT(*) FROM dictionary GROUP BY word HAVING COUNT(*) > 1"
+        selected = (
+            self.conn()
+            .cursor()
+            .execute(
+                "SELECT *, COUNT(*) FROM dictionary GROUP BY word HAVING COUNT(*) > 1"
+            )
         )
         res = list(selected)  # Consume generator into list
         return res
@@ -202,29 +205,33 @@ class EnskDatabase(object):
         """Read and return all entries without IPA."""
         assert lang in ["uk", "us"]
         ipa_col = "ipa_uk" if lang == "uk" else "ipa_us"
-        conn = self.conn()
-        selected = conn.cursor().execute(f"SELECT * FROM dictionary WHERE {ipa_col}=''")
+        selected = (
+            self.conn().cursor().execute(f"SELECT * FROM dictionary WHERE {ipa_col}=''")
+        )
         return self._consume(selected)
 
     def read_all_with_no_page(self) -> list[dict]:
         """Read and return all entries without IPA."""
-        conn = self.conn()
-        selected = conn.cursor().execute("SELECT * FROM dictionary WHERE page_num=0")
+        selected = (
+            self.conn().cursor().execute("SELECT * FROM dictionary WHERE page_num=0")
+        )
         return self._consume(selected)
 
     def read_all_capitalized(self) -> list[dict]:
         """Read and return all entries with capitalized words."""
-        conn = self.conn()
-        selected = conn.cursor().execute(
-            "SELECT * FROM dictionary WHERE word GLOB '[A-Z]*'"
+        selected = (
+            self.conn()
+            .cursor()
+            .execute("SELECT * FROM dictionary WHERE word GLOB '[A-Z]*'")
         )
         return self._consume(selected)
 
     def read_all_with_multiple_words(self) -> list[dict]:
         """Read and return all entries consisting of multiple words."""
-        conn = self.conn()
-        selected = conn.cursor().execute(
-            "SELECT * FROM dictionary WHERE word LIKE '% %'"
+        selected = (
+            self.conn()
+            .cursor()
+            .execute("SELECT * FROM dictionary WHERE word LIKE '% %'")
         )
         return self._consume(selected)
 
@@ -236,8 +243,9 @@ class EnskDatabase(object):
         if cat + "." not in CATEGORIES:
             return []
 
-        conn = self.conn()
-        selected = conn.cursor().execute(
-            f"SELECT * FROM dictionary WHERE definition LIKE '%{cat}. %'"
+        selected = (
+            self.conn()
+            .cursor()
+            .execute(f"SELECT * FROM dictionary WHERE definition LIKE '%{cat}. %'")
         )
         return self._consume(selected)
