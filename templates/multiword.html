@@ -1,0 +1,25 @@
+{% extends "container.html" %}
+
+{% block meta %}
+<meta name="description" content="Öll orð sem eru ekki ASCII">
+{% endblock %}
+
+{% block content %}
+
+<h1>Fleiri en eitt orð</h1>
+
+<p>Hér er listi af öllum færslum sem eru meira en eitt orð ({{ num_multiword }} talsins):</p>
+
+<p>
+  {% for w in multiword %}
+  <a href="/item/{{ w }}">{{ w|safe }}</a>
+  <br>
+  {% endfor %}
+</p>
+
+<br>
+<br>
+<br>
+<br>
+
+{% endblock %}

@@ -99,10 +99,10 @@ class EnskDatabase(object):
         """
         conn.cursor().execute(create_metadata_table_sql)
 
-    def reinstantiate(self) -> "EnskDatabase":
+    def reinstantiate(self, read_only=False) -> "EnskDatabase":
         """Reinstantiate database."""
         EnskDatabase._instance = None
-        return EnskDatabase.__new__(EnskDatabase)
+        return EnskDatabase.__new__(EnskDatabase, read_only=read_only)
 
     def conn(self) -> sqlite3.Connection:
         """Open database connection lazily."""
@@ -217,6 +217,14 @@ class EnskDatabase(object):
         conn = self.conn()
         selected = conn.cursor().execute(
             "SELECT * FROM dictionary WHERE word GLOB '[A-Z]*'"
+        )
+        return self._consume(selected)
+
+    def read_all_with_multiple_words(self) -> list[dict]:
+        """Read and return all entries consisting of multiple words."""
+        conn = self.conn()
+        selected = conn.cursor().execute(
+            "SELECT * FROM dictionary WHERE word LIKE '% %'"
         )
         return self._consume(selected)
 

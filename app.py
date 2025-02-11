@@ -99,6 +99,8 @@ additions = [a["word"] for a in e.read_all_additions()]
 num_additions = len(additions)
 nonascii = [e["word"] for e in entries if not is_ascii(e["word"])]
 num_nonascii = len(nonascii)
+multiword = [e["word"] for e in entries if " " in e["word"]]
+num_multiword = len(multiword)
 metadata = e.read_metadata()
 
 CATEGORIES = read_wordlist("data/catwords.txt")
@@ -534,6 +536,22 @@ async def nonascii_route(request: Request):
     )
 
 
+@app.get("/multiword", include_in_schema=False)
+@app.head("/multiword", include_in_schema=False)
+@cache_response
+async def multiword_route(request: Request):
+    """Page with links to all entries with more than one word."""
+    return TemplateResponse(
+        "multiword.html",
+        {
+            "request": request,
+            "title": f"Fleiri en eitt orð - {WEBSITE_NAME}",
+            "num_multiword": len(multiword),
+            "multiword": multiword,
+        },
+    )
+
+
 @app.get("/duplicates", include_in_schema=False)
 @app.head("/duplicates", include_in_schema=False)
 @cache_response
@@ -579,6 +597,7 @@ async def stats(request: Request):
     no_page = len(e.read_all_with_no_page())
     num_capitalized = len(e.read_all_capitalized())
     num_duplicates = len(e.read_all_duplicates())
+    num_multiword = len(e.read_all_with_multiple_words())
 
     wordstats = {}
     for c in CAT2ENTRIES:
@@ -607,6 +626,8 @@ async def stats(request: Request):
             "perc_capitalized": perc(num_capitalized, num_entries),
             "num_nonascii": num_nonascii,
             "perc_nonascii": perc(num_nonascii, num_entries),
+            "num_multiword": num_multiword,
+            "perc_multiword": perc(num_multiword, num_entries),
             "num_duplicates": num_duplicates,
             "perc_duplicates": perc(num_duplicates, num_entries),
             "wordstats": wordstats,
