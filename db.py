@@ -198,8 +198,7 @@ class EnskDatabase(object):
                 "SELECT *, COUNT(*) FROM dictionary GROUP BY word HAVING COUNT(*) > 1"
             )
         )
-        res = list(selected)  # Consume generator into list
-        return res
+        return self._consume(selected)
 
     def read_all_without_ipa(self, lang="uk") -> list[dict]:
         """Read and return all entries without IPA."""

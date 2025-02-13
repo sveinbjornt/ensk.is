@@ -1725,7 +1725,7 @@ confiscate s. gera upptækt
 confiscation n. upptaka (fjár eða muna af ríkisins hálfu)
 conflagrate s. fara að loga, fuðra upp; brenna (e-ð)
 conflagration n. bál, bruni, brenna
-conflation n. samræmi
+conflation n. samræmi, samblöndun
 conflict n. bardagi; samrekstur, árekstur; bági; s. berjast; koma í bága við ([with])
 confluence n. samrennsli; ármót; aðsókn (af fólki)
 confluent l. samrennandi; n. kvísl, þverá
@@ -1798,10 +1798,10 @@ conjurer n. galdramaður; sjónhverfingamaður
 conjuror n. galdramaður; sjónhverfingamaður
 connate l. samgróinn, samvaxinn frá fæðingu
 connatural l. meðfæddur, sama eðlis
-connect s. sameina, tengja saman
-connected l. samanhangandi; venslaður; skyldur (e-m [with])
-connection n. samtenging; samband; skyldleiki; venslamaður; skiptavinur
-connexion n. samtenging; samband; skyldleiki; venslamaður; skiptavinur
+connect s. sameina, tengja saman, tengjast, komast í samband við
+connected l. tengdur, samtengdur; samanhangandi; venslaður; skyldur (e-m [with])
+connection n. tenging, samtenging; samband; skyldleiki; venslamaður; skiptavinur
+connexion n. tenging, samtenging; samband; skyldleiki; venslamaður; skiptavinur
 connective l. samtengjandi; n. samtengingarorð
 connivance n. þegjandi samþykki
 connive s. loka augunum (fyrir at), látast ekki sjá

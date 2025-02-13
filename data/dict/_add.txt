@@ -1709,6 +1709,7 @@ rotor n. þyrill, snúður
 desiccation n. þurrkun
 condenser n. þéttir
 deckhouse n. þilfarshús
+usable l. nothæfur, notanlegur, nýtilegur
 usability n. nothæfni
 minimisation n. lágmörkun
 capacitor n. þéttir, rafþéttir
@@ -2401,6 +2402,8 @@ nation-state n. þjóðríki
 so-called l. svokallaður, svonefndur
 uneventful l. óatburðaríkur (sjá %[eventful]%)
 civilized l. siðmenntaður; fágaður, háttprúður
+civilised l. sjá %[civilized]%
+uncivilised l. sjá %[uncivilized]%
 experimentation n. tilraunastarf, tilraunastarfsemi
 psyche n. sál, sálarlíf, hugarstarfsemi
 mentation n. hugarstarf
@@ -4271,6 +4274,7 @@ polyandrous l. fjölveris- (sjá %[polyandry]%)
 intergenerational l. milli kynslóða, millikynslóða-
 Neanderthal n. Neanderdalsmaður (útdauð manntegund); l. Neanderdalsmanna-
 valence n. gildi eða gildistala (frumefnis)
+valency n. gildi eða gildistala (frumefnis)
 IQ n. greindarvísitala (stytt. á [intelligence quotient])
 cybercrime n. netglæpir
 fellatio n. tott, reðursog, munnmök
@@ -6531,5 +6535,31 @@ diminishment n. minnkun
 Solomonic l. Salómons-
 Tyrrhenian n. Tyrrenahaf
 North Sea n. Norðursjór
-English Channel n. Ermarsund ([the ~], sundið milli Englands og Frakklands)
+English Channel n. Ermarsund (sundið milli Englands og Frakklands)
 quixotically ao. lygilega, á fjarstæðukenndan hátt (sjá %[quixotic]%)
+public domain n. almenningur, almannaeign (hugverk sem einkaréttur gildir ekki lengur um)
+fearfulness n. hræðslugirni
+blimey uh. ja hérna!; skrattinn sjálfur!; hver djöfullinn!
+windowsill n. gluggasylla, gluggakista
+intercity l. milli borga
+misheard l. misheyrður, heyrður skakkt
+microscopy n. smásjárskoðun
+tourniquet n. æðaklemma, blóðrásarklemma
+monistic l. einhyggju-
+mayoral l. borgarstjóra-
+oversupply n. offramboð; s. ofbirgja, útvega of miklu
+dropout n. uppgjafarnemi, e-r sem hættir í námi; brottfall úr námi
+disproven l. hrakinn, afsannaður
+upbeat n. hress; hraður; bjartsýnn, glaðvær
+reconnect s. endurtengja, endurtengjast, komast aftur í samband
+multivalent l. fjölgildur, fleirgildur
+grotesqueness n. kynlegheit, afkáraleiki
+cinematic l. kvikmynda-, bíó-, kvikmyndalegur
+flashlight n. vasaljós
+dimensional l. víddar- (t.d. [three-~, two-~, inter~])
+bootlicker n. undirlægja, smjaðrari, höfðingjasleikja
+cobblestone n. hellusteinn, götusteinn
+superpower n. stórveldi ([the United States is an economic ~]); ofurkraftar
+installment n. sjá %[instalment]%
+savoir-faire n. kunnátta, verkkunnátta
+industriousness n. dugnaður, kappsemi, iðni
