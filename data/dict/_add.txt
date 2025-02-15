@@ -1633,6 +1633,7 @@ cinematography n. kvikmyndataka, kvikmyndatökulist; kvikmyndagerð
 clone s. klóna; einrækta; afrita; n. klón, klónn; e-ð sem er einræktað; lífvera með sömu arfgerð og foreldrið; afrit
 silverware n. silfuráhöld, silfurbúnaður, (silfur)borðbúnaður, (silfur)hnífapör, borðsilfur
 fossilized l. steingerður, steinrunninn
+fossilization n. steingerving
 carjacker n. bílþjófur
 ketamine n. ketamín (svæfingarlyf)
 implementation n. útfærsla, framkvæmd
@@ -3518,6 +3519,7 @@ noblewoman n. aðalskona
 rumor n. sjá %[rumour]%
 paralyze s. lama, gera aflvana (sjá einnig %[paralyse]%)
 Venice n. Feneyjar
+Venetian l. feneyskur, frá Feneyjum; n. Feneyingur
 paternoster n. Faðirvorið (kristin bæn)
 self-sacrifice n. sjálfsfórn
 undergrad n. sjá %[undergraduate]%
@@ -3894,7 +3896,6 @@ triangulate s. þríhyrningamæla
 triangulated l. þríhyrningamældur
 triangulation n. þríhyrningamæling
 balaclava n. lambhúshetta (kennd við bæinn Balaklava á Krímskaga)
-Venetian l. feneyskur, frá Feneyjum; n. Feneyingur
 spay s. gera ófrjóa, taka úr sambandi, fjarlægja eggjastokka og leg
 sybaritic l. sællífur; sælulífs-, munaðarlífs-
 duopoly n. tvíokun, tvíkeppni
@@ -6563,3 +6564,29 @@ superpower n. stórveldi ([the United States is an economic ~]); ofurkraftar
 installment n. sjá %[instalment]%
 savoir-faire n. kunnátta, verkkunnátta
 industriousness n. dugnaður, kappsemi, iðni
+industriously ao. duglega, kappsamlega, starfsamlega
+postdoctoral l. eftir doktorsnám, að doktorsnámi loknu; [~ fellow, researcher] nýdoktor
+usefully ao. gagnlega
+longship n. langskip
+lawspeaker n. lögsögumaður
+half-sibling n. hálfsystkini
+halfwit n. hálfviti
+acceptably ao. ásættanlega
+unacceptably ao. óásættanlega
+runestone n. rúnasteinn, steinn með rúnum
+runologist n. rúnafræðingur, sérfræðingur í rúnum
+Cassiopeia n. Kassíópeia (stjörnumerki)
+osteologist n. beinafræðingur
+osteological l. beinafræðilegur
+berserker n. berserkur
+unnaturally ao. ónáttúrulega
+chainmail n. sjá %[chain mail]%
+shipborne l. fluttur með skipi (sjóleiðis)
+bearskin n. bjarnarfeldur, bjarnarskinn
+wolfskin n. úlfsfeldur, úlfsskinn
+inefficiently ao. á óskilvirkan hátt
+slaveowner n. þrælaeigandi
+wordplay n. orðaleikur
+countryfolk n. sveitafólk
+shield-maiden n. skjaldmey
+chapstick n. varasalvi, varasmyrsl
