@@ -3157,6 +3157,7 @@ subcontract s. ráða undirverktaka
 subcontractor n. undirverktaki
 megaton n. milljón tonn
 isotope n. samsæta, ísótópur
+isotopic l. samsætu-, ísótópu- (sjá %[isotope]%)
 allele n. samsæta; tvenndargen
 methane n. metan
 exogenous n. útrænn, utanaðkomandi, sem verkar að utan, sem er kominn utan frá
@@ -6590,3 +6591,22 @@ wordplay n. orðaleikur
 countryfolk n. sveitafólk
 shield-maiden n. skjaldmey
 chapstick n. varasalvi, varasmyrsl
+photochemical l. ljósefnavirkur
+placation n. sefun, friðþæging
+transvestism n. klæðskiptahneigð, fataskiptahneigð
+transvestitism n. klæðskiptahneigð, fataskiptahneigð
+karyosome n. litkjarni
+bedmate n. rekkjunautur, bólfélagi
+plausibly ao. sennilega, trúverðuglega, á trúverðugan hátt
+menfolk n. karlpeningur
+silverworker n. silfursmiður
+wickerwork n. tágavinna
+fruity l. ávaxtaríkur, ávaxtakenndur, ávaxta-
+Celsius n. selsíus (hitakvarði)
+gatherer n. safnari, e-r sem tínir (t.d. ávexti)
+glaciation n. jökulmyndun, jökulskeið
+brusquely ao. fruntalega
+chthonic l. neðanjarðar-
+lowercase l. í lágstöfum
+uppercase l. í hástöfum
+underscore s. undirstrika; leggja áherslu á; n. undirstrik
