@@ -1020,7 +1020,6 @@ victimizer
 expropriator
 rehabilitative
 anticipatory
-counter-culture
 tactless
 thrombosis
 contractual
@@ -1615,7 +1614,6 @@ mundial
 golly
 bootstrap
 quant
-e-commerce
 underperformer
 payoff
 analytics
@@ -1726,7 +1724,6 @@ self-promotion
 communicator
 differentiator
 relational
-face-to-face
 transactional
 aloofness
 hype
@@ -2140,7 +2137,6 @@ peardrop
 mauvish
 smoothly
 afterward
-catlike
 isogeothermal
 parka
 prosopography
@@ -2165,7 +2161,7 @@ susurration
 defunct (endurskoða)
 ambigram
 tailrace
-clerisy
+
 bionic
 bionics
 butte
@@ -2188,6 +2184,7 @@ panoptic
 anarcho-syndicalist
 anarcho-syndicalism
 spin-off
+absentminded
 absentmindedness
 acerbic
 nitpicky
@@ -2334,7 +2331,6 @@ phosgene
 periscopic
 periscopical
 singsong
-hayloft
 branchless
 groundsheet
 scrum
@@ -2437,7 +2433,6 @@ heuristic
 heuristics
 indigeneity
 modularity
-unlit
 subpopulation
 transhistorical
 trivially
@@ -2447,14 +2442,13 @@ macro-aggression
 micro-aggressions
 great-grandchild
 widescale
-debunk
-debunking
 trans-Atlantic
 malfunction
 depoliticization
 repoliticization
 self-regulate
 self-organize
+counter-culture
 counter-cultural
 post-industrial
 impulsivity
@@ -2902,7 +2896,6 @@ emitter
 standalone
 playgroup
 boosterism
-neonatal
 ranking
 part-time
 gridlock
@@ -2927,13 +2920,11 @@ togetherness
 newsflash
 mushy
 doorstop
-allergic
 symbolically
 bankroll
 whodunit
 timeframe
 intentionally
-stowaway
 pretrial
 heavy-set
 ballyhoo
@@ -3225,7 +3216,6 @@ enclosed
 coaching
 logging
 streaming
-drilling
 wiring
 sinusoid
 sinusoidal
@@ -3245,6 +3235,7 @@ paralinguistic
 paralinguistics
 woke
 wokeism
+wokeness
 theophoric
 relations nft.
 yikes
@@ -3264,7 +3255,6 @@ catty
 pompadour
 git
 overlooked
-wokeness
 tinny
 flacon
 scree
@@ -3485,7 +3475,6 @@ spearmint
 probing
 sagging
 idolization
-Oxbridge
 employed
 scintilla
 nifty
@@ -3700,7 +3689,6 @@ meningeal
 verbalization
 scrunch
 savor s.
-leptospirosis
 anamorphic
 tablet (endurskoða)
 tactics (endurskoða)
@@ -3711,7 +3699,6 @@ paparazzo
 hustler
 hustle (endurskoða)
 hustling
-gerbil
 apprehensively
 freak (endurskoða)
 flapper
@@ -3730,7 +3717,6 @@ bootleg
 bootlegger
 bootlegging
 contributary
-shantytown
 merlon
 multiplicative
 multiplicatively
@@ -3753,7 +3739,6 @@ conniption
 hootenanny
 backstory
 mainlander
-thalassocracy
 shisha
 phish
 phishing
@@ -3800,7 +3785,6 @@ arousal
 conservatorship
 grounded
 hanky
-yardbird
 jive
 dressage
 postmistress
@@ -3889,7 +3873,6 @@ lacquered
 autosomal
 neurite
 redraw
-newsagent
 unblock
 frustrated
 sequential
@@ -3924,7 +3907,6 @@ gatling
 literalist
 literalistic
 literalistically
-abalone
 bluebottle
 falsely
 snippy
@@ -3948,14 +3930,12 @@ anomic
 spooky
 wholeness
 passerby
-ganglia
 quarters
 mortarboard
 stalking
 retread
 tycoon
 leotard
-hilariously
 demotivated
 yay
 misophonia
@@ -3984,8 +3964,6 @@ polythene
 condolences (endurskoða)
 ace (endurskoða, sögn - he aced the test)
 incongruous (endurskoða)
-unlikable
-unlikeable
 automaticity
 relaxed
 coca
@@ -4027,7 +4005,6 @@ deadbolt
 sexting
 mana
 overdetermined
-magnum opus
 astrakhan
 majorly
 batch (endurskoða)
@@ -4052,8 +4029,6 @@ cuck
 bushveld
 tamarin
 factoid
-contratenor
-counter-tenor
 contralto
 mezzo-soprano
 castrato
@@ -4089,7 +4064,6 @@ missing
 trailer
 disqualified
 solicitously
-solarium
 onus
 archon
 fascia
@@ -4175,7 +4149,6 @@ bustling
 dappled
 fondue
 sansculotte
-gibbon
 argonaut
 quadcopter
 cryptid
@@ -4211,7 +4184,6 @@ unequivocally
 electrified
 pression
 charred
-quivering
 tasselled
 unmeasured
 loyally
@@ -4233,7 +4205,6 @@ mosaicism
 lederhosen
 seance
 keelboat
-environmentally
 smasher
 lipid
 calendula
@@ -4325,7 +4296,6 @@ cervico-
 disconfirm
 disconfirmation
 conflicted
-intradermal
 undeterred
 Procrustean
 outpocketing
@@ -4333,7 +4303,6 @@ sniffle
 strudel
 langourous
 beechnut
-ambulation
 vernix
 performative
 fundus
@@ -4718,7 +4687,6 @@ vermouth
 roughhouse
 pecan
 heebie-jeebies
-sombrero
 dud
 nationally
 unhash
@@ -4726,13 +4694,11 @@ rummy
 pipeful
 pooch
 ruckus
-doorless
 bushwhack
 unsatisfied
 tee
 misquote
 misquotation
-boundlessness
 herewith
 packer
 objectless
@@ -5018,3 +4984,5 @@ fix (endurskoða)
 fit (endurskoða)
 fitness (endurskoða)
 uncharted
+preterm
+inverter

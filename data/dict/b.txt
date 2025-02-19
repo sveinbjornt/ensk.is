@@ -31,12 +31,12 @@ backwards ao. aftur á bak
 backwardness n. tregða, leti
 backwash n. útsog
 bacon n. beikon (reykt eða saltað svínakjöt); [save one's ~] komast undan með heilu og höldnu
-bacterium n. gerill
-bacteria nft. gerlar (sjá %[bacterium]%)
-bacteriologist n. gerlafræðingur
+bacterium n. gerill, baktería
+bacteria nft. gerlar, bakteríur (sjá %[bacterium]%)
+bacteriologist n. gerlafræðingur, bakteríufræðingur
 bacteriology n. gerlafræði, bakteríufræði
-bad l. illur, vondur, slæmur; [he has a ~ eye] honum er illt í auga; [he has a ~ tooth] skemmda tönn
-badly ao. illa; mikillega ([want a thing ~])
+bad l. illur, vondur, slæmur; [he has a ~ eye] honum er illt í auga; [he has a ~ tooth] hann er með skemmda tönn
+badly ao. illa; illilega; mikillega ([to want a thing ~])
 badness n. illska, vonska
 badge n. merki, einkenni
 badger n. greifingi; s. erta, egna, áreita

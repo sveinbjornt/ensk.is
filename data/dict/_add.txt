@@ -4479,6 +4479,8 @@ bullfrog n. baulfroskur
 optical character recognition n. ljóslestur, myndlestur, stafgreining
 arboretum n. trjásafn, trjágarður
 ambulator n. göngumaður, gangandi maður
+ambulate s. ganga (um)
+ambulation n. gangur (um)
 chyron n. borði með texta neðarlega í sjónvarpsfréttum
 tasseography n. sú list að lesa spádóma úr telaufum
 supersonic l. hljóðfrár, yfir hljóðhraða, sem fer með meiri hraða en hljóð
@@ -6633,3 +6635,42 @@ doublecross s. svíkja (eftir að hafa öðlast traust e-s)
 unsteadily ao. óstöðuglega; óstaðfastlega
 afrocentric l. afríkumiðaður
 twenty-one l. tuttugu og einn; n. talan tuttugu og einn (21)
+e-commerce n. rafræn viðskipti, netviðskipti
+face-to-face l. augliti til auglitis, andspænis
+catlike l. kattarlegur, eins og köttur
+hayloft n. hlöðuloft
+unlit l. ólýstur
+debunk n. afsanna, hrekja ([~ this nonsensical theory])
+debunking n. afsönnun, hrakning
+shantytown n. kofaborg
+neonatal l. nýbura-
+allergic l. ofnæmis- ([~ reaction]); með ofnæmi ([he is ~ to cats])
+stowaway n. laumufarþegi
+drilling n. borun
+Oxbridge n. háskólarnir Oxford og Cambridge í Bretlandi ([they're all ~-educated])
+ptarmigan n. rjúpa
+clerisy n. menntamenn, lærðir menn
+boundlessness n. ótakmörkun, takmarkaleysi
+doorless l. hurðarlaus, án hurðar
+sombrero n. mexíkanahattur
+intradermic l. í (leður)húð
+intradermal l. í (leður)húð
+limbic system n. randkerfi (heilans)
+environmentally ao. umhverfislega
+quivering l. skjálfandi, titrandi
+electric fence n. rafmagnsgirðing
+gibbon n. gibbonapi
+solarium n. sólstofa; sólbaðsstofa
+counter-tenor n. kontratenór, kontratenórrödd
+contratenor n. kontratenór, kontratenórrödd
+magnum opus n. meistaraverk, stórvirki (úr latínu)
+unlikable l. óviðkunnanlegur, óviðfelldinn
+unlikeable l. óviðkunnanlegur, óviðfelldinn
+hilariously ao. hlægilega ([that play was ~ bad])
+ganglia nft. sjá %[ganglion]%
+abalone n. sæsnigill
+newsagent n. blaðasali; söluturn
+yardbird n. fangi (bandarískt slangur)
+thalassocracy n. sæveldi, flotaveldi, ríki sem byggir mátt sinn á yfirburðum á hafi úti
+gerbil n. stökkmús
+leptospirosis n. skolpgula (sjúkdómur)
