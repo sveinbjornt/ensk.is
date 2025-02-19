@@ -394,7 +394,7 @@ fieriness n. ákafi, ofsi
 fiery l. eld-; eldlegur; ákafur, fjörugur; ólmur; uppstökkur
 fife n. hljóðpípa; s. blása á hljóðpípu
 fifer n. pípublásari
-fifteen l. fimmtán
+fifteen l. fimmtán; n. talan fimmtán (15)
 fifteenth l. fimmtándi
 fifth n. fimmtungur, fimmti partur; l. fimmti
 fifthly ao. í fimmta lagi
@@ -539,14 +539,14 @@ fist n. hnefi; s. berja (slá) með hnefanum
 fistic l. hnefa- ([~ combat])
 fisticuffs n. hnefaleikur
 fistula n. pípa
-fit l. hæfur, hentugur; vel fallinn (til [for]); s. gera hæfan; laga (eftir e-u to); máta ([~ on a garment]); hæfa, sæma; ganga að ([the key ~s to the lock]); útbúa ([~ out]); vera mátulegur; fara (um föt); n. [be a bad (an excellent) ~] fara illa (ágætlega)
+fit l. hæfur, hentugur; vel fallinn (til [for]); s. gera hæfan; laga (eftir e-u [to]); máta ([~ on a garment]); hæfa, sæma; ganga að ([the key ~s to the lock]); útbúa ([~ out]); vera mátulegur; fara (um föt); n. [be a bad (an excellent) ~] fara illa (ágætlega)
 fitness n. hentugleiki, hæfileiki; [~ training] líkamsrækt
 fitter n. sá sem útbýr
 fittings nft. útbúningur; tengihlutar pípulagna
 fit n. kast, flog ([~ of illness, laughter]); yfirlið ([fainting-~]); slag; rykkur; [by ~s (and starts)] með hríðum
 fitful l. rykkjóttur; breytilegur
 fitchew n. sjá %[foumart]%
-five l. fimm; n. fimm (í spilum)
+five l. fimm; n. talan fimm (5); fimma (í spilum)
 fives n. e.k. knattleikur
 five-fingered l. fimmfingraður
 fivefold l. fimmfaldur
@@ -1009,11 +1009,11 @@ foundling n. fundið barn
 fount n. uppspretta
 fountain n. uppspretta, lind; gosbrunnur; undirrót
 fountainhead n. upptök (ár); fyrsta upphaf
-four l. fjórir
+four l. fjórir; n. talan fjórir (4)
 fourfold l. ferfaldur
 four-footed l. ferfættur
 fourscore l. áttatíu
-fourteen l. fjórtán
+fourteen l. fjórtán; n. talan fjórtán (14)
 fourteenth l. fjórtándi
 fourth l. fjórði; n. fjórði hluti
 fourthly ao. í fjórða lagi

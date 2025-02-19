@@ -655,8 +655,8 @@ liquidity n. fljótandi ástand; hreinleiki, skærleiki (hljóðsins); greiðslu
 liquor n. áfengur drykkur ([hard ~]); lögur; soð; seyði; [in ~, the worse for ~] ölvaður, drukkinn; s. bera feiti (olíu) á leður; bleyta (malt) í vatni; fá sér í staupinu
 liquorice n. lakkrís
 liquorish l. sem þykir gott í staupinu, ölkær
-lisp s. vera blestur í máli, vera smámæltur; hvísla, segja í hálfum hljóðum; n. smámæli; niður; þytur; [he had a slight ~] hann var lítið eitt smámæltur
-lisping l. blestur, smámæltur
+lisp n. smámæli; niður; þytur; [he had a slight ~] hann var lítið eitt smámæltur; s. vera smámæltur, vera blestur í máli; hvísla, segja í hálfum hljóðum
+lisping l. smámæltur, blestur
 lissome l. liðugur, mjúkur
 list n. listi, skrá; borði, jaðar; halli (á skipi); ft. grindur (um burtreiðarvöll); bardagavöllur; s. skrá (hermenn); [~ (oneself) for service] ganga í herþjónustu
 listed l. umgirtur, haslaður ([a ~ field])

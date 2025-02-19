@@ -629,7 +629,7 @@ seminal l. sem lýtur að fræi, fræ-; upprunalegur
 seminary n. gróðrarstía ([~ of vice]); skóli
 seminate s. sá
 sempstress n. saumakona
-senate n. öldungadeild, öldungaráð (hjá Rómverjum); efri málstofa í Frakklandi og Bandaríkjunum; háskólaráð
+senate n. öldungadeild, öldungaráð (hjá Rómverjum); efri málstofa þings í Frakklandi og Bandaríkjunum; háskólaráð
 senate house n. ráðhús; málstofa efri deildar á þingi
 senator n. öldungadeildarmaður; ráðherra; efrideildarmaður á þingi
 senatorial l. ráðherralegur; öldungadeildar-; [~ rank] öldungadeildartign
@@ -738,9 +738,9 @@ settle s. setja; festa; grundvalla; koma e-m fyrir (í stöðu eða embætti); �
 settlement n. ákvæði; bólfesta, bygging, landnám; nýlenda; (mála)miðlun; sætt; samningur; skuldalúkning; reikningsjöfnuður ([~ of an account]); dreggjar; lögheimili; sveitfesti
 settler n. landnámsmaður, nýlendumaður
 settling n. bygging, landnám; málamiðlun, sætt; ft. dreggjar
-seven l. sjö
+seven l. sjö; n. talan sjö (7)
 sevenfold l. sjöfaldur
-seventeen l. sautján
+seventeen l. sautján; n. talan sautján (17)
 seventeenth l. sautjándi; n. sautjándi partur
 seventh l. sjöundi
 seventhly ao. í sjöunda lagi
@@ -1206,13 +1206,13 @@ sitting room n. dagstofa
 site n. staða, lega; hússtæði
 situated l. staðsettur, liggjandi; [a town ~ on the seashore] borg sem liggur við sjó; [all men thus (similarly) ~] allir sem líkt eru staddir
 situation n. staða, lega
-six l. sex
+six l. sex; n. talan sex (6)
 sixes nft. sexur; sex í spilum eða á teningi ([we have thrown double sixes])
 sixfold l. sexfaldur
 sixpence n. silfurpeningur
 sixpenny l. sem kostar 6 pence ([a ~ loaf])
 six-shooter n. sexhleypa
-sixteen l. sextán
+sixteen l. sextán; n. talan sextán (16)
 sixteenth l. sextándi; n. sextándi partur
 sixth l. sjötti; n. sjötti partur
 sixthly ao. í sjötta lagi
@@ -1696,16 +1696,16 @@ soothe s. stilla; sefa; hugga; kjassa, smjaðra
 soothing l. sefandi; huggandi
 sop n. útbleyttur biti; friðunargjöf; s. dýfa (e-u) í, bleyta út; þerra (soga) upp; rennvæta; [~ing with rain] rennvotur (gagndrepa) af regni
 soppy l. gegnvotur; væminn
-sophism n. skökk ályktun, hártogun
+sophism n. skökk ályktun, hártogun; sófismi
 sophist n. heimspekiskennari (hjá Grikkjum), lýðfræðari; hártogari
 sophistical l. rangur, skakkur (um rökleiðslu)
 sophisticate s. falsa, svíkja
 sophistry n. villandi rökleiðsla
 soporiferous l. svæfandi; n. svefnlyf
 soprano n. sópran (hæsta kvenrödd)
-sorcerer n. galdramaður, seiðkarl
-sorceress n. galdrakona, seiðkona
-sorcery n. galdrar, töfrar, seiður
+sorcerer n. galdrakarl, galdramaður, seiðkarl, fjölkynngismaður
+sorceress n. galdrakona, seiðkona, fjölkynngiskona, norn
+sorcery n. galdrar, töfrar, seiður, fjölkynngi
 sordid l. saurugur; svíðinglegur, nískur
 sordidness n. saurugleiki; ágirnd, níska, svíðingsskapur
 sore n. sár, fleiður, kýli; böl; l. sár, aumur, viðkvæmur; [~ eyes] bólgin augu; [he has a ~ throat] honum er illt í hálsi

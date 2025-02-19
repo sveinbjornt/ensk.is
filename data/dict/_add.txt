@@ -321,6 +321,7 @@ social science n. félagsvísindi
 social scientist n. félagsvísindamaður, félagsvísindakona
 societal l. samfélagslegur, félagslegur, þjóðfélagslegur
 sophisticated l. fágaður; háþróaður; margbrotinn
+unsophisticated l. ófágaður; lítt þróaður; fábrotinn
 zombify s. breyta í uppvakning (sjá %[zombie]%)
 gaoler n. fangavörður
 interface n. viðmót; tenging; snertipunktur tveggja fyrirbæra, þar sem tvö fyrirbæri mætast
@@ -6104,7 +6105,7 @@ unsymmetrical l. ekki samhverfur (andstæðan við %[symmetrical]%)
 ornithophage n. fuglaæta
 ornithophagy n. fuglaát
 diabolic l. djöfullegur, djöflalegur, helvískur
-unsteady l. óstöðugur; óstaðfastur; ójafn
+unsteady l. óstöðugur; óstaðfastur
 silently ao. hljóðlega, án hljóðs; í þögn, á þögulan hátt (sjá %[silent]%)
 wank n. runk
 wanker n. auli, hálfviti, aumingi (slangur, bókst. runkari)
@@ -6610,3 +6611,25 @@ chthonic l. neðanjarðar-
 lowercase l. í lágstöfum
 uppercase l. í hástöfum
 underscore s. undirstrika; leggja áherslu á; n. undirstrik
+abracadabra uh. abrakadabra! (galdraþula)
+cornelian cherry n. vorhyrnir
+armbone n. handleggsbein, upphandleggsbein
+pleather n. gervileður (samsett úr %[plastic]% og %[leather]%)
+sorcerous l. göldróttur
+coprophilia n. saurást
+banqueter n. veislugestur
+banqueteer n. veislugestur
+foodie n. matmaður (óforml.)
+doorknocker n. dyrahamar
+bequeathal n. ánöfnun, arfleiðing
+chinless n. hökulaus
+grenadine n. granateplasíróp
+grassplot n. grasflöt, grasflötur, grasvöllur
+suspenseful n. spennandi
+malachite n. berggræna, malakít
+effusiveness n. ákefð í tilfinningum, tilfinningasemi, hjartanlegheit
+ingrate n. vanþakklát manneskja
+doublecross s. svíkja (eftir að hafa öðlast traust e-s)
+unsteadily ao. óstöðuglega; óstaðfastlega
+afrocentric l. afríkumiðaður
+twenty-one l. tuttugu og einn; n. talan tuttugu og einn (21)

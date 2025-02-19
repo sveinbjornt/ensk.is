@@ -186,8 +186,8 @@ eh uh. ha!
 eider n. æður, æðarfugl
 eiderdown n. æðardúnn
 eiderduck n. æðarfugl, æðarkolla
-eight l. átta; n. átta (í spilum)
-eighteen l. átján
+eight l. átta; n. talan átta (8); átta (í spilum)
+eighteen l. átján; n. talan átján (18)
 eighteenth l. átjándi
 eighth l. áttundi
 eighthly ao. í áttunda lagi
@@ -261,7 +261,7 @@ elevate s. hefja upp, lyfta upp; göfga, gera göfugri ([~ our character]); hefj
 elevated l. hár; háleitur; glaður; kenndur
 elevation n. upphafning; hækkun; hæð; viðhafnarlegt orðfæri; göfugleiki; [~ of mind] háleitur hugsunarháttur
 elevator n. lyfta, lyftivél
-eleven n. ellefu
+eleven l. ellefu; n. talan ellefu (11)
 eleventh l. ellefti
 elf n. álfur; (ft. [elves])
 elfin l. álf-, álfa-

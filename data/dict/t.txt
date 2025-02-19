@@ -254,7 +254,7 @@ tempt s. freista (e-s); ginna, lokka
 temptation n. freisting, freistni; ginning, lokkun
 tempter n. freistari
 tempting l. freistandi, ginnandi, lokkandi
-ten l. tíu; n. tugur, tía
+ten l. tíu; n. tugur, tía; talan tíu (10)
 tenable l. verjanlegur
 tenacious l. fastheldinn; seigur; þrár; [a ~ memory] gott minni; [~ of life] lífseigur
 tenacity n. fastheldni ([~ of old opinions]); seigja; þrái
@@ -478,7 +478,7 @@ thinking n. hugsun; ætlun, hyggja
 third l. þriðji; n. þriðji hluti
 thirdly ao. í þriðja lagi
 thirst n. þorsti; s. þyrsta (eftir [for])
-thirteen l. þrettán
+thirteen l. þrettán; n. talan þrettán (13)
 thirteenth l. þrettándi
 thirtieth l. þrítugasti
 thirty l. þrjátíu
@@ -524,7 +524,7 @@ thready l. svipaður þræði; þráðóttur, trefjóttur
 threat n. hótun, ógn
 threaten s. hóta, ógna
 threatening l. ógnandi, hótunar-; n. ógnun, hótun
-three l. þrír; n. þrír í tölu; [by ~s] þrír og þrír
+three l. þrír; n. talan þrír (3); þrír í tölu; [by ~s] þrír og þrír
 three-cleft l. þríklofinn
 three-cornered l. þríhyrndur
 three-decker n. þrílyft skip, með þremur þilförum
@@ -747,7 +747,7 @@ toll n. tollur, skattur; afgjald; seinhringing, líkhringing; s. greiða (gjalda
 tollage n. tollur; tolltekjur
 toller n. tollheimtumaður
 toll-free l. undanþeginn tolli
-tomahawk n. stríðsöxi (Indjána); s. drepa með stríðsöxi
+tomahawk n. stríðsöxi (frumbyggja Norður-Ameríku); s. drepa með stríðsöxi
 tomato n. tómatur, tómatepli, rauðaldin
 tomb n. gröf; grafhvelfing; leiði; s. grafa
 tombstone n. legsteinn
@@ -1406,10 +1406,10 @@ tweed n. þunnt fataefni
 tweedle s. glamra (á hljóðfæri); lokka, ginna
 tweezers nft. flísatöng, plokkari, lítil töng (til að draga út hár)
 twelfth l. tólfti; n. tólftungur; [~ day] n. þrettándi (í jólum)
-twelve n. tólf
+twelve l. tólf; n. talan tólf (12)
 twelvemonth n. ár; [a ~ since] fyrir ári
 twentieth l. tuttugasti
-twenty l. tuttugu
+twenty l. tuttugu; n. talan tuttugu (20)
 twice ao. tvisvar (sinnum)
 twice-told l. tvísagður
 twiddle s. snúa (e-u) hratt; vefja ([she ~d him round her finger]); [~ one out of something] lokka e-ð út úr e-m; titra; fitla (við e-ð [with])
@@ -1434,7 +1434,7 @@ twit s. brigsla e-m um e-ð ([~ one with his poverty])
 twitch s. rykkja, kippa (í e-ð); kippast saman; titra, skjálfa; n. rykkur, kippur; snarvölur
 twitter s. tísta, kvaka; titra; n. kvak
 twixt ao. stytt. á %[betwixt]%
-two l. tveir; [in a day or ~] eftir einn eða tvo daga; [in ~] í tvennt; n. talan tveir; [by ~s] tveir og tveir; ([to wander by ~s and threes])
+two l. tveir; [in a day or ~] eftir einn eða tvo daga; [in ~] í tvennt; n. talan tveir (2); [by ~s] tveir og tveir; ([to wander by ~s and threes])
 two-edged l. tvíeggjaður
 twofold l. tvöfaldur; tvíþættur ([~ yarn])
 two-handed l. tvíhendur; [a ~ sword] sverð sem lyft er með báðum höndum
