@@ -366,7 +366,6 @@ domestically
 incrimination
 wastepaper
 unappetizing
-
 nerve-racked
 overgrown
 reiteration
@@ -377,6 +376,7 @@ regimentation
 unofficial
 puritanical
 good-tempered
+mild-mannered
 goose-step
 formalization
 constitutionalism
@@ -387,7 +387,6 @@ highbrow
 middlebrow
 lowbrow
 ruling-class
-businessman
 magneto
 interconnect
 interconnected
@@ -397,7 +396,6 @@ unlabelled
 unchallengeable
 dominance
 replaceable
-mutatis mutandis
 thinkable
 unconquered
 laissez-faire
@@ -414,17 +412,13 @@ stylometric
 petard n. (endurskoða núverandi skilgr.)
 kook
 hardline
-benzedrine
 dacha
 commissary (endurskoða skilgr.)
 gigolo
 cynicism (endurskoða skilgr.)
 gaunt
 harsh-spoken
-contestant
-broadbill
 attractiveness
-unintelligent
 teeter
 unleash
 stringiness
@@ -4686,15 +4680,12 @@ examinee
 deducible
 rustbelt
 procuracy
-erroneously
-steelworker
 changeover
 down-and-out
 bender
 scavenger (endurskoða)
 scavenge
 Sovietization
-tradeoff
 détente
 detente
 reinvigorate
@@ -4754,7 +4745,6 @@ achiness
 premade
 vim
 gamma (endurskoða)
-laburnum
 reformed
 henotheism
 connectedness
@@ -4765,10 +4755,9 @@ plush (endurskoða)
 synchrotron
 ill-affected (endurskoða)
 ill-favoured (endurskoða)
-logorrhea
-farmworker
 spoutiness
 hazing
+haze s.
 lingua franca
 dead end (endurskoða)
 basting
@@ -4950,3 +4939,5 @@ recenter
 putting (golf)
 off-put
 off-putting
+engaged
+timing

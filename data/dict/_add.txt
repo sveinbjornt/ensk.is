@@ -1332,7 +1332,7 @@ zygote n. okfruma
 zygotic l. okfrumu-
 zipper n. rennilás
 reefer n. kannabis (óforml. slangur)
-amphetamine n. amfetamín (spítt, örvandi lyf)
+amphetamine n. amfetamín, spítt (örvandi lyf)
 methamphetamine n. metamfetamín (örvandi lyf)
 meth n. sjá %[methamphetamine]%
 psilocybin n. sílósíbin (virka efnið í ofskynjunarsveppum)
@@ -6732,5 +6732,18 @@ politically ao. stjórnmálalega, pólitískt séð
 romanticize s. rómantísera, gera rómantískt
 coincidental l. tilviljunarkenndur
 wasteland n. eyðiland, auðn
-rubbery l. gúmmíkenndur
+rubbery l. gúmmíkenndur, með gúmmíáferð
 windless l. vindlaus
+unintelligent l. ógáfaður, ekki greindur, skilningssljór; óskynsamur
+broadbill n. breiðnefja (fugl)
+benzedrine n. bensedrín, amfetamín (örvandi lyf)
+contestant n. keppandi, þátttakandi í keppni
+mutatis mutandis ao. að breyttu breytanda (úr latínu)
+businessman n. kaupsýslumaður, viðskiptamaður, verslunarmaður, athafnamaður, bisnessmaður
+habitually ao. að staðaldri, að vanda, að venju, vanalega, venjulega
+logorrhea n. málæði, munnræpa, orðaflaumur
+farmworker n. landbúnaðarverkamaður, vinnumaður í landbúnaði
+laburnum n. gullregn (trjátegund)
+tradeoff n. fórnarskipti
+steelworker n. stálverkamaður
+erroneously ao. ranglega, með röngu, með rangindum
