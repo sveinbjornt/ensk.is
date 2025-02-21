@@ -582,6 +582,7 @@ aluminum n. ál (BNA)
 hardwood n. harðviður; gegnheill viður; l. harðviðar-
 vanilla n. vanilla; l. vanillu-
 orgasm n. fullnæging
+orgasmic l. fullnægingar-, sem veldur fullnægingu
 bacterial l. gerla-, bakteríu-, örveru-
 hallucinatory l. ofskynjunar-
 hallucinogen n. ofskynjunarlyf, ofskynjunarefni
@@ -848,6 +849,7 @@ Rwanda n. Rúanda
 Samoa n. Samóa
 San Marino n. San Marínó
 Saudi Arabia n. Sádi-Arabía
+Saudi Arabian l. sádiarabískur; n. Sádi-Arabi
 Senegal n. Senegal
 Serbia n. Serbía
 Serb n. Serbi
@@ -855,6 +857,7 @@ Serbian l. serbneskur; n. serbneska; Serbi
 Seychelles n. Seychelles-eyjar
 Sierra Leone n. Síerra Leóne
 Singapore n. Singapúr
+Singaporean l. singapúrskur; n. Singapúri
 Slovakia n. Slóvakía
 Slovak n. Slóvaki
 Slovakian l. slóvakískur, slóvaskur; slóvakíska
@@ -866,7 +869,9 @@ Somalia n. Sómalía
 Somali l. sómalískur; n. Sómali
 Somalian l. sómalískur; n. Sómali
 South Africa n. Suður-Afríka
+South African l. suðurafrískur; n. Suður-Afríkani, Suður-Afríkumaður
 South Korea n. Suður-Kórea
+South Korean l. suðurkóreskur; n. Suður-Kóreumaður
 Sri Lanka n. Srí Lanka
 Sudan n. Súdan
 Sudanese l. súdanskur
@@ -3407,6 +3412,7 @@ feminism n. femínismi, kvenfrelsisstefna, kvenréttindastefna
 feminist n. femínisti, kvenréttindasinni, kvenfrelsissinni
 nonhereditary l. óarfgengur, sem gengur ekki í arf
 dishwasher n. uppþvottavél; uppvaskari (t.d. á veitingastað)
+dishwashing n. uppvask, uppþvottur
 schizophrenia n. geðklofi, kleyfhugasýki
 schizophrenic l. haldinn geðklofa, kleyfhuga; n. geðklofasjúklingur
 legalistic l. lagatæknilegur, lagabókstafs-
@@ -6694,3 +6700,37 @@ salvageable l. sem er bjargandi, bjarganlegur
 unsalvageable l. óbjargandi, óbjarganlegur
 vaporware n. hugbúnaður sem verður aldrei að veruleika
 pecker n. spæta; goggur; typpi (óforml.); sveitavargur (óforml.)
+virtuousness n. dyggðasemi
+via fs. í gegnum (úr latínu); [~ satelite] í gegnum gervitungl
+dockside l. bryggjumegin; n. svæði nálægt bryggju
+isolated l. einangraður
+mascara n. maskari
+admin n. stytt. á %[administrator]% eða %[administration]%
+bureaucratize s. innleiða skrifræði
+bureaucratization n. innleiðing skrifræðis
+septum n. skilrúm, skilveggur
+speckled l. flekkóttur
+branchless l. kvistlaus, greinarlaus
+thalassic l. sjó-, haf-
+perineum n. spöng, holdbrú
+wide-awake l. glaðvakandi
+bewildered l. ruglaður, ringlaður, villtur, forviða
+bemusement n. ruglun, ringlun
+bemuse s. rugla, ringla, gera forviða
+bemused l. ruglaður, ringlaður, forviða
+placatory l. sefandi, friðandi, sættandi, friðarstillandi; sáttfús
+extortionist n. kúgari, fjárkúgari
+onanistic l. sjálfsfróandi
+cellulosic l. beðmis-, sellúlósa-, trénis-
+improbably ao. ósennilega, ólíklega
+curtness n. það að vera stuttorður
+linearity n. línuleiki
+voluntarily ao. fúslega, af sjálfsvilja, af fúsum og frjálsum vilja
+directorship n. forstjórastaða, forysta
+pastureland n. beitiland, beitilenda
+politically ao. stjórnmálalega, pólitískt séð
+romanticize s. rómantísera, gera rómantískt
+coincidental l. tilviljunarkenndur
+wasteland n. eyðiland, auðn
+rubbery l. gúmmíkenndur
+windless l. vindlaus

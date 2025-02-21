@@ -426,12 +426,10 @@ broadbill
 attractiveness
 unintelligent
 teeter
-windless
 unleash
 stringiness
 underside
 underbelly
-rubbery
 rubberiness
 callback
 Aryanism
@@ -455,13 +453,10 @@ serendipitous
 serendipitously
 marginalize
 marginalized
+baffle (endurskoða)
 baffling
-wasteland
 untangle
-dishwashing
 knitter
-romanticize
-coincidental
 maneuver
 pinpoint
 tabloid
@@ -470,7 +465,6 @@ fabled
 colonizer
 groundbreaking
 catchphrase
-bewildered
 straightforward
 savvy
 stopover
@@ -486,7 +480,6 @@ mixed-race
 strong-arm
 spillage
 extravaganza
-
 campus
 lockdown
 snowplow
@@ -2042,7 +2035,6 @@ cadastral
 cadastrally
 synoptic
 overwinter
-politically
 shovelboard
 cameral
 hornbeam
@@ -2054,13 +2046,11 @@ softwood
 temporally
 strickle
 impenetrability
-pastureland
 decipherable
 indecipherable
 undecipherable
 mappable
 willy-nilly
-directorship
 commoditization
 ensemble
 demonym
@@ -2080,7 +2070,6 @@ pervasiveness
 animator
 compressor
 janitorial
-voluntarily
 developmentalist
 inaccessibility
 reenactment
@@ -2090,7 +2079,6 @@ completely
 productivism
 unknowability
 slippage
-linearity
 cyanate
 full-scale
 large-scale
@@ -2113,9 +2101,7 @@ empressement
 vastly
 die-hard
 benedictine
-curtness
 blurb
-improbably
 involuntarily
 passionately
 defiantly
@@ -2161,12 +2147,10 @@ susurration
 defunct (endurskoða)
 ambigram
 tailrace
-
 bionic
 bionics
 butte
 switchgrass
-cellulosic
 biorefinery
 freeloader
 freeload
@@ -2197,7 +2181,6 @@ hip-hop
 hiphop
 repurpose
 headspace
-onanistic
 polyrhythm
 polyrhythmic
 conditioner
@@ -2219,7 +2202,6 @@ conservativism
 piggyback
 intuitively
 strongman
-extortionist
 second-guess
 comedic
 airbrush
@@ -2242,18 +2224,13 @@ editorialist
 scrounger
 skiver
 feverishly
-placatory
 ageless
 pisspot
 bonhomie
 sleight-of-hand
 breeder
 underpants
-bemusement
-bemuse
-bemused
 gabardine
-orgasmic
 eyehole
 hereinafter
 thereinafter
@@ -2285,7 +2262,6 @@ loopy
 halfheartedly
 chipolata
 crumpet
-wide-awake
 paisley
 fluff
 fluffy
@@ -2306,12 +2282,10 @@ cleaner
 threaded
 charabanc
 funicular
-perineum
 parkour
 firelance
 areola
 scarper
-thalassic
 brassard
 dugout
 grimly
@@ -2331,7 +2305,6 @@ phosgene
 periscopic
 periscopical
 singsong
-branchless
 groundsheet
 scrum
 seminarist
@@ -2499,8 +2472,6 @@ trans-
 positivistic
 suprahistorical
 presentist
-bureaucratize
-bureaucratization
 non-combatant
 shogun
 shogunate
@@ -4920,7 +4891,6 @@ normativity
 folkways
 fisherfolk
 multipurpose
-dockside
 triclinium
 appropriately
 inappropriately
@@ -4974,9 +4944,9 @@ preterm
 inverter
 Occidentalism
 vagal
-virtuousness
-via
 chunkiness
 astrobiology
 recenter
 putting (golf)
+off-put
+off-putting

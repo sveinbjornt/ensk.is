@@ -505,7 +505,7 @@ bewail s. harma, syrgja
 beware s. varast, vara sig; [~ of pickpockets] varið ykkur á vasaþjófum!
 beweep s. gráta (e-n)
 bewilder s. villa, rugla
-bewilderment n. ruglingur
+bewilderment n. ruglingur, ringlun
 bewitch s. töfra, heilla
 bewitching l. töfrandi
 bewitchment n. töfrar
@@ -1236,7 +1236,7 @@ bunk n. rekkja, svefnhvíla (í skipi); s. liggja í rekkju; laumast burt, hverf
 bunker n. byrgi; kolakassi í skipi
 bunkum n. þingræða haldin fyrir kjósendur; orðagjálfur, bull
 bunting n. flaggdúkur; spörfugl
-buoy n. dufl, tunnudufl (á sjó); s. halda uppi (á floti); marka með dufli
+buoy n. bauja, dufl, tunnudufl (á sjó); s. halda uppi (á floti); marka með dufli
 buoyage n. dufl; duflalagning
 buoyancy n. uppburðarafl (vatnsins); liðugleiki; léttlyndi
 buoyant l. léttur í vatni; léttlyndur, vongóður
