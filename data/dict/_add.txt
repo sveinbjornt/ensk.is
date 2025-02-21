@@ -431,6 +431,7 @@ evaluate s. meta, yfirvega
 firmware n. fastbúnaður (í tölvum)
 gangbang n. hópkynlíf
 informative l. upplýsandi, fróðlegur, lærdómsríkur, fræðandi
+uninformative l. ekki upplýsandi, ekki fróðlegur, ekki fræðandi
 insulin n. insúlín, eyjavaki (hormón sem myndast í briskirtli)
 keyword n. lykilorð; leitarorð
 literacy n. læsi, lestrarkunnátta
@@ -6617,7 +6618,6 @@ abracadabra uh. abrakadabra! (galdraþula)
 cornelian cherry n. vorhyrnir
 armbone n. handleggsbein, upphandleggsbein
 pleather n. gervileður (samsett úr %[plastic]% og %[leather]%)
-sorcerous l. göldróttur
 coprophilia n. saurást
 banqueter n. veislugestur
 banqueteer n. veislugestur
@@ -6674,3 +6674,23 @@ yardbird n. fangi (bandarískt slangur)
 thalassocracy n. sæveldi, flotaveldi, ríki sem byggir mátt sinn á yfirburðum á hafi úti
 gerbil n. stökkmús
 leptospirosis n. skolpgula (sjúkdómur)
+West Indies nft. Vestur-Indíur (eyjaklasi við Karíbahaf)
+lactate s. mjólka, gefa frá sér mjólk
+heliotropism n. ljósleitni
+transducer n. ferjald, boðbreytir, orkubreytir
+Merlot n. Merlot (rauðvínsþrúga frá Bordeaux)
+racialist n. talsmaður kynþáttahyggju
+backstairs nft. bakstigi; l. leynilegur, dulinn, hulinn ([~ gossip, intimacies])
+carload n. bílfarmur, bílhlass
+brainchild n. hugarfóstur
+megaproject n. risaverkefni
+oxymoronic l. mótsagnakenndur
+homecare n. heimahjúkrun, heimaþjónusta
+sorcerous l. göldróttur, fjölkunnugur
+lumberman n. skógarhöggsmaður; timbursölumaður
+putschist n. valdaránsmaður
+theonym n. nafn á guði, guðsnafn
+salvageable l. sem er bjargandi, bjarganlegur
+unsalvageable l. óbjargandi, óbjarganlegur
+vaporware n. hugbúnaður sem verður aldrei að veruleika
+pecker n. spæta; goggur; typpi (óforml.); sveitavargur (óforml.)

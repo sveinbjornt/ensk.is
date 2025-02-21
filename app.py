@@ -641,6 +641,12 @@ async def favicon(request: Request):
     return RedirectResponse(url="/static/img/favicon.ico", status_code=301)
 
 
+@app.get("/apple-touch-icon-precomposed.png", include_in_schema=False)
+@app.head("/apple-touch-icon-precomposed.png", include_in_schema=False)
+async def apple_touch_icon(request: Request):
+    return RedirectResponse(url="/static/img/apple-touch-icon.png", status_code=301)
+
+
 @app.get("/sitemap.xml", include_in_schema=False)
 @app.head("/sitemap.xml", include_in_schema=False)
 @cache_response
