@@ -6744,6 +6744,10 @@ habitually ao. að staðaldri, að vanda, að venju, vanalega, venjulega
 logorrhea n. málæði, munnræpa, orðaflaumur
 farmworker n. landbúnaðarverkamaður, vinnumaður í landbúnaði
 laburnum n. gullregn (trjátegund)
-tradeoff n. fórnarskipti
+tradeoff n. fórnarskipti, fórn á einu fyrir annað
 steelworker n. stálverkamaður
 erroneously ao. ranglega, með röngu, með rangindum
+blackened l. svertur, gerður svartur
+herewith ao. með þessu, á þennan hátt, hér með
+whithersoever ao. hvarvetna, hvar sem er
+therefrom ao. þaðan

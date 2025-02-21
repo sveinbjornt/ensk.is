@@ -620,14 +620,14 @@ bizarre l. undarlegur, hjákátlegur ([~ superstitions])
 blab s. fleipra út úr sér, þvaðra; n. kjaftás, kjaftaskur
 blabber s. fleipra út úr sér, þvaðra
 blabbermouth n. kjaftás, kjaftaskur
-black l. svartur; blár ([~ eye]); dimmleitur; n. svartur litur, sverta; svört föt; blökkumaður; s. sverta, gera gljáandi
+black l. svartur; blár ([~ eye]); dimmleitur; n. svartur litur, sverta; svört föt; blökkumaður, svartur maður; s. sverta, gera gljáandi
 blackamoor n. blökkumaður
 blackball n. svört atkvæðiskúla; s. útiloka, neita um upptöku (í félag)
 blackberry n. brómber
 blackbird n. svartþröstur
 blackboard n. veggtafla, svört tafla
 blackfriar n. svartmunkur
-blackguard n. bófi, þorpari
+blackguard n. þorpari, bófi
 blackguardly l. þorparalegur
 blackletter n. gotneskt letur
 blackmail n. fjárkúgun, nauðungargjald, nauðungarskattur; s. kúga fé af e-m
@@ -640,7 +640,7 @@ blackness n. sverta, sorti
 bladder n. blaðra; hlandblaðra ([urinary ~]); bóla (á hörundi)
 blade n. blað (árar-, sverð-, hníf-); oflátungur, galgopi
 blain n. bóla (með vessa í)
-blame s. lasta; kenna um; n. last, aðfinning; [lay the ~ on] kenna um; [he is to ~] honum er um að kenna
+blame s. kenna um; lasta, álasa; n. last, aðfinning; [lay the ~ on] kenna um; [he is to ~] honum er um að kenna
 blameable l. lastverður
 blameful l. lastverður
 blameless l. saklaus; óaðfinnanlegur
