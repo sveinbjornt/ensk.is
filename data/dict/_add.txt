@@ -209,7 +209,7 @@ postmodernistic l. póstmódernískur (sjá %[postmodernism]%)
 postmodernism n. póstmódernismi (heimspeki- og menningarstefna sem tók við af módernisma)
 postmodernist n. póstmódernisti (fylgismaður póstmódernisma, sjá %[postmodernism]%)
 structuralism n. formgerðarstefna, strúktúralismi (rannsóknaraðferð til að útskýra kerfi tungumála með athugun á formum og reglum)
-multitasking n. fjölverkavinnsla (þegar mörg verk eru leyst samtímis)
+multitasking n. fjölverkavinnsla (þegar mörg verk eru unnin samtímis)
 multitask s. vinna mörg verk samtímis
 ozone n. óson (fjölgervingsform súrefnis, O3)
 PTSD n. sjá %[post-traumatic stress disorder]%
@@ -2341,8 +2341,8 @@ codependent l. meðvirkur
 codependency n. meðvirkni
 self-help n. sjálfshjálp
 patricidal l. föðurmorðs-, föðurmorðslegur
-webmaster n. vefstjóri, vefumsjónarmaður
-webpage n. vefsíða
+webmaster n. vefstjóri, vefumsjónarmaður, umsjónarmaður vefsíðu
+webpage n. vefsíða, síða á veraldarvefnum
 lockable l. læsanlegur (sjá %[lock]%)
 argumentative l. þrætugjarn, deilugjarn
 gunrunner n. skotvopnasmyglari
@@ -6404,7 +6404,7 @@ leather-bound l. leðurbundinn
 leather-clad l. leðurklæddur
 rightward ao. hægra megin; til hægri
 gold-digger n. gullgrafari
-aimlessness n. stefnuleysi, tilgangsleysi, markmiðsleysi
+aimlessness n. stefnuleysi, markmiðsleysi; tilgangsleysi
 floriate s. skreyta með blómum
 floriated l. skreyttur með blómum
 floriation n. blómaskreyting
@@ -6705,7 +6705,7 @@ via fs. í gegnum (úr latínu); [~ satelite] í gegnum gervitungl
 dockside l. bryggjumegin; n. svæði nálægt bryggju
 isolated l. einangraður
 mascara n. maskari
-admin n. stytt. á %[administrator]% eða %[administration]%
+admin n. stytt. á %[administrator]% eða %[administration]%; kerfisstjóri
 bureaucratize s. innleiða skrifræði
 bureaucratization n. innleiðing skrifræðis
 septum n. skilrúm, skilveggur
@@ -6729,7 +6729,7 @@ voluntarily ao. fúslega, af sjálfsvilja, af fúsum og frjálsum vilja
 directorship n. forstjórastaða, forysta
 pastureland n. beitiland, beitilenda
 politically ao. stjórnmálalega, pólitískt séð
-romanticize s. rómantísera, gera rómantískt
+romanticize s. rómantísera, gera rómantískt, sjá fyrir sér á rómantískan hátt
 coincidental l. tilviljunarkenndur
 wasteland n. eyðiland, auðn
 rubbery l. gúmmíkenndur, með gúmmíáferð
@@ -6750,4 +6750,9 @@ erroneously ao. ranglega, með röngu, með rangindum
 blackened l. svertur, gerður svartur
 herewith ao. með þessu, á þennan hátt, hér með
 whithersoever ao. hvarvetna, hvar sem er
-therefrom ao. þaðan
+therefrom ao. þaðan, frá því
+anal sex n. endaþarmsmök, endaþarmskynlíf
+aimlessly ao. á stefnulausan hátt, án markmiðs; án tilgangs
+imbecilic l. fábjánalegur, heimskulegur
+system administrator n. kerfisstjóri, umsjónarmaður kerfis
+sysadmin n. kerfisstjóri (stytt. á %[system administrator]%)

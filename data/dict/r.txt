@@ -588,7 +588,7 @@ regency n. ríkisstjórn (einkum í umboði annars)
 regenerate s. endurfæða; endurnýja; myndast aftur; l. endurfæddur
 regeneration n. endurfæðing; nýmyndun
 regenerator n. endurlífgari, endurskapari, endurnýjari
-regent l. stjórnandi, ríkjandi; n. stjórnari, ríkisstjóri
+regent l. stjórnandi, ríkjandi; n. stjórnari, stjóri, ríkisstjóri
 regentship n. ríkisstjóraembætti, ríkisstjórn (í umboði annars)
 regicide n. konungsmorðingi; konungsmorð
 regime n. stjórnarfyrirkomulag
@@ -1364,7 +1364,7 @@ rollick n. kátína, ærsl og læti; s. leika, hoppa, dansa af kæti
 rollicking l. ærslafenginn ([~ humour])
 rollicksome l. ærslafenginn ([~ humour])
 Roman l. rómverskur; n. Rómverji
-romance n. fornfranska; rómönsk tungumál ([~ languages]); riddarasaga (í bundnu og óbundnu máli); skáldsaga; kynjasaga, ævintýrasaga; s. rita skáldsögur eða ævintýrasögur; ýkja (eins og í ævintýrasögum)
+romance n. rómantík; skáldsaga; kynjasaga, ævintýrasaga; fornfranska; rómönsk tungumál ([~ languages]); riddarasaga (í bundnu og óbundnu máli); s. rita skáldsögur eða ævintýrasögur; ýkja (eins og í ævintýrasögum)
 romancer n. skáldsagnahöfundur; ýkjumaður
 Romanesque l. rómanskur ([~ language, ~ style of architecture])
 Romanic l. rómanskur
@@ -1498,7 +1498,7 @@ ruin n. hrun; eyðing; niðurbrot; óhamingja, ógæfa; ft. rústir; [to go to ~
 ruinous l. skaðlegur, skaðvænlegur; hrörlegur, af sér genginn ([an old and ~ place])
 ruinousness n. skaðvænleiki; hrörleiki
 rule n. regla; fyrirmæli; úrskurður; (ríkis)stjórn, yfirráð ([under British ~]); reglustika; mælikvarði; [as a ~] venjulega; [~ of three] þríliða; [~ of thumb] þumalputtaregla, regla byggð á reynslu; [the four ~s] 4 höfuðgreinar í reikningi; s. stýra, stjórna, ráða fyrir; koma reglu (skipulagi) á; úrskurða, ákveða; strika ([~d paper]); [prices ~ higher (lower)] verðið er hærra (lægra)
-ruler n. reglustika; stjórnari
+ruler n. reglustika; valdhafi, stjóri, stjórnari, drottnari
 ruling l. ráðandi, ríkjandi; n. úrskurður (dómstóls)
 rum n. romm; l. skrítinn, hjákátlegur ([a ~ thing])
 rumble s. skrölta; drynja ([the thunder ~s]); n. skrölt, skruðningur; þjónssæti á vagni

@@ -392,7 +392,7 @@ admeasurement n. útmæling; úthlutun; mál, stærð
 administer s. stjórna, ráða fyrir; veita, útbýta; gefa inn (lyf); annast um ([to]); stuðla að ([to]); [~ justice] dæma; [~ an oath to] taka eið af e-m, eiðfesta e-n
 administration n. stjórn, stjórnarráð, stjórnsýsla; úthlutun; inngjöf
 administrative l. stjórnlegur, stjórnsýslulegur
-administrator n. stjórnari, forráðamaður
+administrator n. stjóri, stjórnandi, stjórnari, forráðamaður; kerfisstjóri ([system ~])
 admirable l. aðdáanlegur; lofsverður
 admirably ao. aðdáanlega; á lofsverðan hátt
 admirableness n. aðdáanleiki
@@ -403,7 +403,7 @@ admire s. dá, dást að; líta upp til; bera virðingu fyrir; undrast
 admirer n. aðdáandi
 admissible l. leyfilegur
 admission n. aðganga, upptaka ([~ to a society]); viðurkenning, játning
-admit s. hleypa inn; veita, leyfa; kannast við, viðurkenna
+admit s. hleypa inn; veita, leyfa; viðurkenna, kannast við
 admittance n. aðganga, innganga
 admixtion n. blöndun; sambland
 admixture n. blöndun; sambland
@@ -647,7 +647,7 @@ ail s. ama, ganga að; [what ~s you] hvað gengur að yður; n. sorg; mein; lasl
 ailing l. lasinn, sjúkur
 ailment n. lasleiki; veikindi
 aim s. miða (á [at]); [~ at the public good] að almenningsheill; n. mið; áform, markmið; [take ~] miða
-aimless l. tilgangslaus, markmiðslaus, stefnulaus, án markmiðs eða tilgangs ([an ~ life])
+aimless l. stefnulaus, markmiðslaus, án markmiðs eða tilgangs ([an ~ life]); tilgangslaus
 ain't s. vera ekki (stytt. á [am (are, is) not])
 air n. loft; hægur vindur, gola; súgur; blær, svipur, útlit; sönglag; [in the open ~] undir berum himni; [to give oneself (put on) ~s] setja á sig merkissvip; s. viðra; þurrka við eld; láta bera á (sér)
 air bladder n. sundmagi
@@ -933,10 +933,10 @@ anabaptize s. skíra upp aftur, endurskíra
 anachronism n. tímaskekkja, tímatalsvilla
 anachronistic l. ósamkvæmur nútímanum, tímaskekkju-
 anaemia n. blóðleysi
-anaesthetic l. tilfinningarlaus ([~ state]); [~ operation] læknisaðgerð samfara svæfingu
+anaesthetic n. deyfingarlyf, svæfingarlyf; l. tilfinningarlaus ([~ state]); [~ operation] læknisaðgerð samfara svæfingu
 anaesthetize s. gera tilfinningarlausan, deyfa, svæfa ([~ a patient])
 anagram n. raðhverfa (stafavíxl á orði, svo að nýtt orð myndast)
-anal l. endaþarms-; [~ sex] endaþarmsmök
+anal l. endaþarms-
 anal fin n. gotraufaruggi (á fiski)
 analogical l. samanburðarlegur
 analogize s. nota samanburð; vera í samræmi (við [with])
