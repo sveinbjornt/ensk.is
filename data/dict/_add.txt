@@ -3962,6 +3962,7 @@ orthogonal l. hornréttur, rétthyrndur; þver, þverstæður
 mummification n. skrælnun, skorpnun
 pharaoh n. faraó (egypskur konungur)
 weaponize s. vopnavæða, gera vopn úr, nota sem vopn
+weaponized l. gerður að vopni, notaður sem vopn
 interdisciplinary l. þverfaglegur
 interdisciplinarity n. þverfaglegheit
 biomedical l. líf- og lækninga-, líf- og læknisfræðilegur
@@ -6730,8 +6731,8 @@ directorship n. forstjórastaða, forysta
 pastureland n. beitiland, beitilenda
 politically ao. stjórnmálalega, pólitískt séð
 romanticize s. rómantísera, gera rómantískt, sjá fyrir sér á rómantískan hátt
-coincidental l. tilviljunarkenndur
-wasteland n. eyðiland, auðn
+coincidental l. tilviljunarkenndur, vera tilviljun
+wasteland n. auðn, eyðiland, eyðimörk, öræfi
 rubbery l. gúmmíkenndur, með gúmmíáferð
 windless l. vindlaus
 unintelligent l. ógáfaður, ekki greindur, skilningssljór; óskynsamur
@@ -6742,17 +6743,19 @@ mutatis mutandis ao. að breyttu breytanda (úr latínu)
 businessman n. kaupsýslumaður, viðskiptamaður, verslunarmaður, athafnamaður, bisnessmaður
 habitually ao. að staðaldri, að vanda, að venju, vanalega, venjulega
 logorrhea n. málæði, munnræpa, orðaflaumur
-farmworker n. landbúnaðarverkamaður, vinnumaður í landbúnaði
+farmworker n. vinnumaður á sveitabæ, landbúnaðarverkamaður, vinnumaður í landbúnaði
 laburnum n. gullregn (trjátegund)
-tradeoff n. fórnarskipti, fórn á einu fyrir annað
+tradeoff n. fórnarskipti, fórn á einu fyrir annað (í staðinn)
 steelworker n. stálverkamaður
 erroneously ao. ranglega, með röngu, með rangindum
 blackened l. svertur, gerður svartur
 herewith ao. með þessu, á þennan hátt, hér með
 whithersoever ao. hvarvetna, hvar sem er
-therefrom ao. þaðan, frá því
+therefrom ao. þaðan, þaðan frá, frá því
 anal sex n. endaþarmsmök, endaþarmskynlíf
-aimlessly ao. á stefnulausan hátt, án markmiðs; án tilgangs
-imbecilic l. fábjánalegur, heimskulegur
+aimlessly ao. án markmiðs, á stefnulausan hátt; án tilgangs
+imbecilic l. fábjánalegur, stórheimskur, heimskulegur, eins og fæðingarhálfviti
 system administrator n. kerfisstjóri, umsjónarmaður kerfis
 sysadmin n. kerfisstjóri (stytt. á %[system administrator]%)
+castanet n. kastanjetta (hljóðfæri)
+scared l. hræddur; fældur ([we ~ him off] við fældum hann í burtu)

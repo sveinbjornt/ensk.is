@@ -1139,3 +1139,5 @@ farmworker
 disadvantaged
 sysadmin
 whithersoever
+weaponized
+mingus
