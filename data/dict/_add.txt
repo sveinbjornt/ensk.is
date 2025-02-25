@@ -4905,7 +4905,7 @@ hotelier n. hótelstjóri, hóteleigandi, sá sem rekur hótel
 chipmunk n. íkorni, jarðíkorni
 Cornishman n. maður frá Cornwall
 Yorkshireman n. maður frá Yorkshire
-Scots n. skoska, skosk mállýska
+Scots n. skoska, skosk mállýska; l. skoskur
 shootout n. skotbardagi, byssubardagi; vítaspyrnukeppni (í fótbolta)
 Hawaii n. Hawaii, Hawaii-eyjar (stundum skrifað Havaí eða Havæ á íslensku)
 Hawaiian n. Havaíbúi, Havaímaður; havaíska; l. havaískur
@@ -6724,7 +6724,7 @@ extortionist n. kúgari, fjárkúgari
 onanistic l. sjálfsfróandi
 cellulosic l. beðmis-, sellúlósa-, trénis-
 improbably ao. ósennilega, ólíklega
-curtness n. það að vera stuttorður
+curtness n. það að vera stuttorður, að vera fámálgur
 linearity n. línuleiki
 voluntarily ao. fúslega, af sjálfsvilja, af fúsum og frjálsum vilja
 directorship n. forstjórastaða, forysta
@@ -6752,10 +6752,11 @@ blackened l. svertur, gerður svartur
 herewith ao. með þessu, á þennan hátt, hér með
 whithersoever ao. hvarvetna, hvar sem er
 therefrom ao. þaðan, þaðan frá, frá því
-anal sex n. endaþarmsmök, endaþarmskynlíf
+anal sex n. endaþarmsmök, endaþarmskynlíf, rassmök
 aimlessly ao. án markmiðs, á stefnulausan hátt; án tilgangs
 imbecilic l. fábjánalegur, stórheimskur, heimskulegur, eins og fæðingarhálfviti
 system administrator n. kerfisstjóri, umsjónarmaður kerfis
 sysadmin n. kerfisstjóri (stytt. á %[system administrator]%)
 castanet n. kastanjetta (hljóðfæri)
 scared l. hræddur; fældur ([we ~ him off] við fældum hann í burtu)
+arse n. rass; asni, leiðindagaur; [don't be an ~] ekki vera með leiðindi
