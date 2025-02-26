@@ -3828,6 +3828,7 @@ catatonic l. stjarfur
 erogenous l. kynnæmur
 serology n. blóðvatnsfræði, sermifræði
 haemorrhage n. blæðing; [brain ~] heilablæðing
+haemorrhagic l. blæðingar-
 semicircle n. hálfhringur
 bacillus n. stafgerill, stafbaktería (örvera)
 semiology n. einkennafræði
@@ -6759,4 +6760,9 @@ system administrator n. kerfisstjóri, umsjónarmaður kerfis
 sysadmin n. kerfisstjóri (stytt. á %[system administrator]%)
 castanet n. kastanjetta (hljóðfæri)
 scared l. hræddur; fældur ([we ~ him off] við fældum hann í burtu)
-arse n. rass; asni, leiðindagaur; [don't be an ~] ekki vera með leiðindi
+arse n. rass, afturendi; asni, leiðindagaur; [don't be an ~] ekki vera með leiðindi; [the ~ end of nowhere] lengst úti í rassgati
+autoerotic l. sjálfsfrygðar-
+autoerotism n. sjálfsfrygð
+autoeroticism n. sjálfsfrygð
+epithelium n. þekjuvefur, þekja, útþekja (himnuvefur líffæra)
+sexagesimal n. sextugakerfi (talnakerfi með grunntöluna sextíu); l. sextuga-, sextugakerfis-
