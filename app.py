@@ -128,6 +128,10 @@ class AddCustomHeaderMiddleware(BaseHTTPMiddleware):
     async def dispatch(self, request: Request, call_next):
         response = await call_next(request)
         response.headers["Content-Language"] = "is, en"
+        if request.url.path.startswith("/static/"):
+            response.headers["Cache-Control"] = "public, max-age=86400"
+        else:
+            response.headers["Content-Language"] = "is, en"
         return response
 
 
