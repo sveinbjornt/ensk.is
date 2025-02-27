@@ -155,12 +155,25 @@ def generate_database(entries: EntryList) -> str:
     sqlite_utils.Database(db.db_conn).table("dictionary").enable_fts(
         ("word", "definition")
     )
+    db = optimize_db()
 
     # Zip it
     zipfn = f"{STATIC_FILES_PATH}ensk_dict.db.zip"
     zip_file(DB_FILENAME, zipfn)
 
     return zipfn
+
+
+def optimize_db() -> EnskDatabase:
+    """Optimize database."""
+    db = EnskDatabase()
+    db.conn().cursor().execute(
+        "CREATE INDEX idx_word ON dictionary(word COLLATE NOCASE)"
+    )
+    db.conn().cursor().execute("ANALYZE;")
+    db.conn().cursor().execute("VACUUM;")
+    db.conn().commit()
+    return db
 
 
 def generate_csv(entries: EntryList) -> str:

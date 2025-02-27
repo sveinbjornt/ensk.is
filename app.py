@@ -39,7 +39,7 @@ from typing import Any
 
 import re
 import aiofiles
-from functools import wraps
+from functools import wraps, lru_cache
 from datetime import datetime
 
 from fastapi import FastAPI, Request, HTTPException
@@ -233,6 +233,11 @@ def _results(q: str, exact_match: bool = False) -> tuple[list, bool]:
     return results, exact_match_found
 
 
+@lru_cache(maxsize=1000)
+def _cached_results(q, exact_match=False):
+    return _results(q, exact_match)
+
+
 def cache_response(func) -> Any:
     """Decorator that indefinitely caches the response of a FastAPI async function."""
     response = None
@@ -274,7 +279,7 @@ async def search(request: Request, q: str):
     if len(q) < 2:
         return _err("Query too short")
 
-    results, exact = _results(q)
+    results, exact = _cached_results(q)
 
     async def _save_missing_word(word: str):
         """Save word to missing words list."""
@@ -319,7 +324,7 @@ CAT_TO_NAME = {
 async def item(request: Request, w):
     """Return page for a single dictionary word definition."""
 
-    results, _ = _results(w, exact_match=True)
+    results, _ = _cached_results(w, exact_match=True)
     if not results:
         raise HTTPException(status_code=404, detail="Síða fannst ekki")
 
@@ -677,7 +682,7 @@ async def api_metadata(request: Request) -> JSONResponse:
 @app.get("/api/suggest/{q}")
 async def api_suggest(request: Request, q: str, limit: int = 10) -> JSONResponse:
     """Return autosuggestion results for partial string in input field."""
-    results, _ = _results(q)
+    results, _ = _cached_results(q)
     words = [x["word"] for x in results][:limit]
     return JSONResponse(content=words)
 
@@ -688,7 +693,7 @@ async def api_search(request: Request, q: str) -> JSONResponse:
     if len(q) < 2:
         return _err("Query too short")
 
-    results, _ = _results(q)
+    results, _ = _cached_results(q)
 
     return JSONResponse(content={"results": results})
 
@@ -698,7 +703,7 @@ async def api_item(request: Request, w: str) -> JSONResponse:
     """Return single dictionary entry in JSON format."""
     ws = w.strip()
 
-    results, exact = _results(ws, exact_match=True)
+    results, exact = _cached_results(ws, exact_match=True)
     if not results or not exact:
         return _err(f"No entry found for '{ws}'")
 
@@ -710,7 +715,7 @@ async def api_item_parsed(request: Request, w: str) -> JSONResponse:
     """Return single dictionary entry in JSON format with parsed definition."""
     ws = w.strip()
 
-    results, exact = _results(ws, exact_match=True)
+    results, exact = _cached_results(ws, exact_match=True)
     if not results or not exact:
         return _err(f"No entry found for '{ws}'")
 
@@ -735,7 +740,7 @@ async def api_item_parsed_many(request: Request, q: str) -> JSONResponse:
 
     res = {}
     for w in words:
-        results, exact = _results(w, exact_match=True)
+        results, exact = _cached_results(w, exact_match=True)
         if not results or not exact:
             continue
         result = results[0]
