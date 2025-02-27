@@ -117,12 +117,12 @@ malcontent l. óánægður; n. óánægður maður
 malcontented l. óánægður
 malcontentedness n. óánægja
 male l. karllegur; [a ~ child] sveinbarn; n. karldýr; karlmaður
-malediction n. bölvun, formæling
-malefactor n. illvirki, illræðismaður
+malediction n. bölvun; formæling
+malefactor n. illvirki, illræðismaður, e-r sem fremur illan verknað
 malefic l. skaðlegur
 maleficence n. skaðvæni
 maleficent l. skaðlegur (e-m [to])
-malevolence n. illvilji, illgirni
+malevolence n. illvilji, illgirni, illur vilji
 malevolent l. illviljaður, illgjarn
 malfeasance n. afbrot, afglöp í embættisrekstri
 malfeasant n. afbrotamaður
@@ -1254,8 +1254,8 @@ mortgage n. veð, pantur; veðréttur; [deed of ~] veðmálaskjal, veðbréf; [r
 mortgagee n. veðhafi
 mortiferous l. banvænn
 mortification n. dauði, drep (í holdi), holdfúi; deyðing ([~ of the body]); auðmýking; gremja; vonbrigði
-mortify s. hleypa rotnun í holdið; deyða, krossfesta (holdið); niðurlægja, auðmýkja; spillast, rotna (um lifandi hold)
-mortifying l. auðmýkjandi
+mortify s. niðurlægja, auðmýkja; hleypa rotnun í holdið; deyða, krossfesta (holdið); spillast, rotna (um lifandi hold)
+mortifying l. auðmýkjandi, niðurlægjandi; rotnandi, spillandi; deyðandi, krossfestandi
 mortise n. nót (í borði); [~ chisel] sporjárn; s. festa saman; plægja saman (borð)
 mortuary l. greftrunar-, lík-; n. líkhús
 mosaic n. mósaík, litsteinamynd (mynd sem er gerð úr lituðum smásteinum eða glerbrotum)

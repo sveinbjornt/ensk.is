@@ -39,6 +39,7 @@ from typing import Any
 
 import re
 import aiofiles
+from cachetools.keys import hashkey
 from functools import wraps, lru_cache
 from datetime import datetime
 
@@ -105,6 +106,9 @@ metadata = e.read_metadata()
 
 CATEGORIES = read_wordlist("data/catwords.txt")
 KNOWN_MISSING_WORDS = read_wordlist("missing.txt")
+
+SEARCH_CACHE_SIZE = 1000
+SMALL_CACHE_SIZE = 100
 
 
 # Get all entries in each category and store in dict
@@ -233,23 +237,52 @@ def _results(q: str, exact_match: bool = False) -> tuple[list, bool]:
     return results, exact_match_found
 
 
-@lru_cache(maxsize=1000)
+@lru_cache(maxsize=SEARCH_CACHE_SIZE)
 def _cached_results(q, exact_match=False):
     return _results(q, exact_match)
 
 
-def cache_response(func) -> Any:
-    """Decorator that indefinitely caches the response of a FastAPI async function."""
-    response = None
+def cache_response(maxsize=None):
+    """Decorator that caches responses from FastAPI async functions with optional size limit.
 
-    @wraps(func)
-    async def wrapper(*args, **kwargs):
-        nonlocal response
-        if not response:
-            response = await func(*args, **kwargs)
-        return response
+    Args:
+        maxsize: Maximum number of entries to keep in cache. None means unlimited.
+    """
+    # For direct @cache_response use (without parentheses)
+    if callable(maxsize):
+        func = maxsize
+        maxsize = None
+        cache = {}
 
-    return wrapper
+        @wraps(func)
+        async def direct_wrapper(*args, **kwargs):
+            key = hashkey(*args, **kwargs)
+            if key not in cache:
+                cache[key] = await func(*args, **kwargs)
+            return cache[key]
+
+        return direct_wrapper
+
+    # For @cache_response(100) use with parameters
+    def decorator(func):
+        cache = {}
+
+        @wraps(func)
+        async def wrapper(*args, **kwargs):
+            key = hashkey(*args, **kwargs)
+            if key not in cache:
+                cache[key] = await func(*args, **kwargs)
+
+                # If we've exceeded the maxsize, remove oldest item
+                if maxsize is not None and len(cache) > maxsize:
+                    oldest_key = next(iter(cache))
+                    cache.pop(oldest_key)
+
+            return cache[key]
+
+        return wrapper
+
+    return decorator
 
 
 @app.exception_handler(404)
@@ -271,7 +304,8 @@ async def index(request: Request):
     )
 
 
-@app.get("/search", include_in_schema=False)
+@app.get("/search", include_in_schema=False)  # type: ignore
+@cache_response(SEARCH_CACHE_SIZE)
 async def search(request: Request, q: str):
     """Return page with search results for query."""
 
@@ -322,6 +356,7 @@ CAT_TO_NAME = {
 
 @app.get("/item/{w}", include_in_schema=False)
 @app.head("/item/{w}", include_in_schema=False)
+@cache_response(SEARCH_CACHE_SIZE)
 async def item(request: Request, w):
     """Return page for a single dictionary word definition."""
 
@@ -350,6 +385,7 @@ async def item(request: Request, w):
 
 @app.get("/page/{n}", include_in_schema=False)
 @app.head("/page/{n}", include_in_schema=False)
+@cache_response(SEARCH_CACHE_SIZE)
 async def page(request: Request, n):
     """Return page for a single dictionary page image."""
     try:
@@ -480,6 +516,7 @@ async def all(request: Request):
 
 @app.get("/cat/{category}", include_in_schema=False)
 @app.head("/cat/{category}", include_in_schema=False)
+@cache_response(SMALL_CACHE_SIZE)
 async def cat(request: Request, category: str):
     """Page with links to all entries in the given category."""
     entries = CAT2ENTRIES.get(category, [])
@@ -646,12 +683,14 @@ async def stats(request: Request):
 
 @app.get("/favicon.ico", include_in_schema=False)
 @app.head("/favicon.ico", include_in_schema=False)
+@cache_response
 async def favicon(request: Request):
     return RedirectResponse(url="/static/img/favicon.ico", status_code=301)
 
 
 @app.get("/apple-touch-icon-precomposed.png", include_in_schema=False)
 @app.head("/apple-touch-icon-precomposed.png", include_in_schema=False)
+@cache_response
 async def apple_touch_icon(request: Request):
     return RedirectResponse(url="/static/img/apple-touch-icon.png", status_code=301)
 
@@ -678,12 +717,14 @@ async def robots(request: Request) -> Response:
 
 
 @app.get("/api/metadata")
+@cache_response
 async def api_metadata(request: Request) -> JSONResponse:
     """Return metadata about the dictionary."""
     return JSONResponse(content=metadata)
 
 
-@app.get("/api/suggest/{q}")
+@app.get("/api/suggest/{q}")  # type: ignore
+@cache_response(SEARCH_CACHE_SIZE)
 async def api_suggest(request: Request, q: str, limit: int = 10) -> JSONResponse:
     """Return autosuggestion results for partial string in input field."""
     results, _ = _cached_results(q)
@@ -691,7 +732,8 @@ async def api_suggest(request: Request, q: str, limit: int = 10) -> JSONResponse
     return JSONResponse(content=words)
 
 
-@app.get("/api/search/{q}")
+@app.get("/api/search/{q}")  # type: ignore
+@cache_response(SEARCH_CACHE_SIZE)
 async def api_search(request: Request, q: str) -> JSONResponse:
     """Return search results in JSON format."""
     if len(q) < 2:
@@ -702,7 +744,8 @@ async def api_search(request: Request, q: str) -> JSONResponse:
     return JSONResponse(content={"results": results})
 
 
-@app.get("/api/item/{w}")
+@app.get("/api/item/{w}")  # type: ignore
+@cache_response(SEARCH_CACHE_SIZE)
 async def api_item(request: Request, w: str) -> JSONResponse:
     """Return single dictionary entry in JSON format."""
     ws = w.strip()
@@ -714,7 +757,8 @@ async def api_item(request: Request, w: str) -> JSONResponse:
     return JSONResponse(content=results[0])
 
 
-@app.get("/api/item/parsed/{w}")
+@app.get("/api/item/parsed/{w}")  # type: ignore
+@cache_response(SEARCH_CACHE_SIZE)
 async def api_item_parsed(request: Request, w: str) -> JSONResponse:
     """Return single dictionary entry in JSON format with parsed definition."""
     ws = w.strip()
@@ -736,7 +780,8 @@ async def api_item_parsed(request: Request, w: str) -> JSONResponse:
     return JSONResponse(content=result)
 
 
-@app.get("/api/item/parsed/many/")
+@app.get("/api/item/parsed/many/")  # type: ignore
+@cache_response(SMALL_CACHE_SIZE)
 async def api_item_parsed_many(request: Request, q: str) -> JSONResponse:
     q = q.strip()
 
@@ -755,17 +800,3 @@ async def api_item_parsed_many(request: Request, q: str) -> JSONResponse:
         res[w] = comp
 
     return JSONResponse(content=res)
-
-
-# @app.post("/api/report_missing/{w}")
-# async def api_report_missing(request: Request) -> JSONResponse:
-#     """Report that a word is missing from the dictionary."""
-#     if not w:
-#         return _err("Missing 'w' parameter")
-#     w = w.strip()
-#     if not w:
-#         return _err("Empty 'w' parameter")
-#     if w in all_words:
-#         return _err(f"Word '{w}' is already in the dictionary")
-
-#     return JSONResponse(content={"success": True})
