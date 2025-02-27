@@ -37,7 +37,7 @@ Code to read and parse dictionary source files.
 
 """
 
-from typing import DefaultDict, Optional
+from typing import DefaultDict
 
 import os
 from collections import defaultdict
@@ -49,7 +49,7 @@ from util import read_wordlist
 CATEGORIES = read_wordlist("data/catwords.txt")
 
 
-def read_raw_pages(fn: Optional[str] = None) -> dict[str, list]:
+def read_raw_pages(fn: str | None = None) -> dict[str, list]:
     """Read all text files in the data/dict directory,
     return as an alphabetically indexed dict of lines."""
     base_path = "data/dict/"
@@ -81,7 +81,7 @@ def read_raw_pages(fn: Optional[str] = None) -> dict[str, list]:
     return result
 
 
-def read_pages(fn: Optional[str] = None) -> list[str]:
+def read_pages(fn: str | None = None) -> list[str]:
     """Read all text files in the data/dict directory,
     return as single list of all lines."""
 
@@ -133,7 +133,7 @@ def parse_line(s: str) -> tuple:
     return (word, definition)
 
 
-def startswith_category(s: str) -> Optional[tuple[str, int]]:
+def startswith_category(s: str) -> tuple[str, int] | None:
     """Check if a given string starts with a known word category.
     Returns a tuple of the category and the index at which it ends."""
     for c in CATEGORIES:

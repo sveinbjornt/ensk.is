@@ -39,7 +39,10 @@ from typing import Any
 
 import re
 import aiofiles
+import asyncio
+
 from cachetools.keys import hashkey
+from collections import OrderedDict
 from functools import wraps, lru_cache
 from datetime import datetime
 
@@ -248,37 +251,59 @@ def cache_response(maxsize=None):
     Args:
         maxsize: Maximum number of entries to keep in cache. None means unlimited.
     """
+
     # For direct @cache_response use (without parentheses)
     if callable(maxsize):
         func = maxsize
         maxsize = None
-        cache = {}
+        cache = OrderedDict()
+        lock = asyncio.Lock()
 
         @wraps(func)
         async def direct_wrapper(*args, **kwargs):
             key = hashkey(*args, **kwargs)
-            if key not in cache:
-                cache[key] = await func(*args, **kwargs)
-            return cache[key]
+
+            async with lock:
+                if key in cache:
+                    # Move the key to the end to mark it as recently used
+                    value = cache.pop(key)
+                    cache[key] = value
+                    return value
+
+                # Key not in cache, call the function
+                result = await func(*args, **kwargs)  # type: ignore
+                cache[key] = result
+                return result
 
         return direct_wrapper
 
     # For @cache_response(100) use with parameters
     def decorator(func):
-        cache = {}
+        cache = OrderedDict()
+        lock = asyncio.Lock()
 
         @wraps(func)
         async def wrapper(*args, **kwargs):
             key = hashkey(*args, **kwargs)
-            if key not in cache:
-                cache[key] = await func(*args, **kwargs)
 
-                # If we've exceeded the maxsize, remove oldest item
+            async with lock:
+                if key in cache:
+                    # Move the key to the end to mark it as recently used
+                    value = cache.pop(key)
+                    cache[key] = value
+                    return value
+
+                # Key not in cache, call the function
+                result = await func(*args, **kwargs)
+                cache[key] = result
+
+                # If we've exceeded the maxsize, remove least recently used item
                 if maxsize is not None and len(cache) > maxsize:
-                    oldest_key = next(iter(cache))
-                    cache.pop(oldest_key)
+                    cache.popitem(
+                        last=False
+                    )  # Remove the first item (least recently used)
 
-            return cache[key]
+                return result
 
         return wrapper
 
@@ -354,8 +379,8 @@ CAT_TO_NAME = {
 }
 
 
-@app.get("/item/{w}", include_in_schema=False)
-@app.head("/item/{w}", include_in_schema=False)
+@app.get("/item/{w}", include_in_schema=False)  # type: ignore
+@app.head("/item/{w}", include_in_schema=False)  # type: ignore
 @cache_response(SEARCH_CACHE_SIZE)
 async def item(request: Request, w):
     """Return page for a single dictionary word definition."""
@@ -383,9 +408,9 @@ async def item(request: Request, w):
     )
 
 
-@app.get("/page/{n}", include_in_schema=False)
-@app.head("/page/{n}", include_in_schema=False)
-@cache_response(SEARCH_CACHE_SIZE)
+@app.get("/page/{n}", include_in_schema=False)  # type: ignore
+@app.head("/page/{n}", include_in_schema=False)  # type: ignore
+@cache_response(SMALL_CACHE_SIZE)
 async def page(request: Request, n):
     """Return page for a single dictionary page image."""
     try:
@@ -514,8 +539,8 @@ async def all(request: Request):
     )
 
 
-@app.get("/cat/{category}", include_in_schema=False)
-@app.head("/cat/{category}", include_in_schema=False)
+@app.get("/cat/{category}", include_in_schema=False)  # type: ignore
+@app.head("/cat/{category}", include_in_schema=False)  # type: ignore
 @cache_response(SMALL_CACHE_SIZE)
 async def cat(request: Request, category: str):
     """Page with links to all entries in the given category."""

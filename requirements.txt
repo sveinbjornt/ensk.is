@@ -6,3 +6,4 @@ sqlite-utils>=3.27
 aiofiles>=23.2.1
 orjson>=3.10.3
 requests>=2.32.3
+cachetools>=5.5.2

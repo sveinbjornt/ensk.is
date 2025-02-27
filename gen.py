@@ -37,8 +37,6 @@ Generate SQLite database + other files from raw dictionary text files.
 
 """
 
-from typing import Optional
-
 import os
 import csv
 import datetime
@@ -60,7 +58,7 @@ ENWORD_TO_IPA_US = read_json("data/ipa/us/en2ipa.json")
 STATIC_FILES_PATH = "static/files/"
 
 
-def ipa4entry(s: str, lang="uk") -> Optional[str]:
+def ipa4entry(s: str, lang="uk") -> str | None:
     """Look up International Phonetic Alphabet spelling for word."""
     assert lang in ["uk", "us"]
     if lang == "uk":

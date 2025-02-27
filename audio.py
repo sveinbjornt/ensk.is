@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 """
-    Functionality related to generating audio files for dictionary words.
+Functionality related to generating audio files for dictionary words.
 """
-
-from typing import Optional
 
 import os
 import subprocess
@@ -15,7 +13,7 @@ from dict import read_all_words
 _SPEECHSYNTH_CLT = "/usr/bin/say"  # Requires macOS
 
 
-def synthesize_word(w: str, dest_folder=None, voice="Daniel") -> Optional[str]:
+def synthesize_word(w: str, dest_folder=None, voice="Daniel") -> str | None:
     """Generate a speech-synthesised AIFF audio file from word.
     Returns path to output file. Only works on macOS."""
     assert dest_folder is not None
