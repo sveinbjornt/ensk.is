@@ -288,7 +288,8 @@ async def search(request: Request, q: str):
 
     if not exact or not results:
         if re.match(r"^[a-zA-Z]+$", q) and q.lower() not in KNOWN_MISSING_WORDS:
-            await _save_missing_word(q)
+            w = q[:100]
+            await _save_missing_word(w)
 
     return TemplateResponse(
         "result.html",
@@ -351,7 +352,10 @@ async def item(request: Request, w):
 @app.head("/page/{n}", include_in_schema=False)
 async def page(request: Request, n):
     """Return page for a single dictionary page image."""
-    n = int(n)
+    try:
+        n = int(n)
+    except ValueError:
+        raise HTTPException(status_code=500, detail="Invalid page number")
     if n < 1 or n > 707:
         raise HTTPException(status_code=404, detail="Síða fannst ekki")
 
