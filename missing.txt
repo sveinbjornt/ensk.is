@@ -543,7 +543,6 @@ statehood
 defund
 dunnart
 rewild
-shrubland
 tabulation
 datebook
 factuality
@@ -572,7 +571,6 @@ enforcer
 inevitability
 preadolescent
 retrojection
-demonize
 reorientation
 rapprochement
 encirclement
@@ -597,8 +595,6 @@ statelessness
 tabula
 unbeatable
 agrarianism
-unassailable
-assailable
 redaction
 precondition
 exterminatory
@@ -620,10 +616,8 @@ escalation
 post-apocalyptic
 serviceman
 brinksmanship
-tentacular
 overlord
 reinforcement
-inevitably
 heartland
 courtyard
 centrepiece
@@ -638,9 +632,6 @@ chancellery
 momentarily
 tightrope
 putrefied
-foolishness
-revisionism
-revisionist
 accommodationist
 reconstitution
 Jewishness
@@ -653,12 +644,10 @@ resurgent
 resurgence
 triumphalism
 triumphalist
-unpatriotic
 stateless
 containment
 undercover
 fussiness
-retrospectively
 victimhood
 distinctiveness
 dysfunctionality
@@ -672,11 +661,7 @@ prognathous
 eyeglass
 fower
 pursuer
-goggles
 whorl
-plowman
-motorist
-viewpoint
 skyline
 lentonite
 dovecote
@@ -1929,11 +1914,9 @@ Hobbesian
 disassociation
 shininess
 backer
-facilitation
 standby
 moron
 moronic
-godawful
 nonstandard
 reactor
 patina
@@ -1983,7 +1966,6 @@ sweetener
 toehold
 sideshow
 metabolize
-numerically
 prebirth
 monoethnic
 manageability
@@ -2016,7 +1998,6 @@ sandbar
 smorgasbord
 alumina
 regionalize
-handover
 standoff
 absorbable
 absorbing
@@ -2215,7 +2196,6 @@ broadcaster
 accrual
 editorialist
 scrounger
-skiver
 feverishly
 ageless
 pisspot
@@ -2233,7 +2213,6 @@ knobbly
 tyke
 tailcoat
 fruitcake
-codswallop
 collapsible
 stalagmite
 scruff
@@ -2310,7 +2289,6 @@ ragtag
 geomantic
 moralistic
 kow-tow
-mulishness
 espousal
 flintlock
 shopfront
@@ -2342,7 +2320,6 @@ dither
 astroturf
 astroturfing
 dungaree
-anorak
 stylize
 stylized
 heteronormative
@@ -2406,7 +2383,6 @@ recategorize
 circuitry
 macro-aggression
 micro-aggressions
-great-grandchild
 widescale
 trans-Atlantic
 malfunction
@@ -2482,7 +2458,6 @@ Anglocentrism
 Anglocentric
 problematize
 blip
-tailor-made
 unfound
 sexualization
 underpinnings
@@ -2492,7 +2467,6 @@ starkly
 lawfulness
 armamentarium
 semi-automatic
-correctional
 conspicuously
 meticulously
 disposability
@@ -4858,6 +4832,7 @@ headscarf
 zoomorphism
 zoomorphic
 chunky
+chunkiness
 kaftan
 undertunic
 overshirt
@@ -4923,7 +4898,7 @@ preterm
 inverter
 Occidentalism
 vagal
-chunkiness
+
 astrobiology
 recenter
 putting (golf)
@@ -4995,3 +4970,6 @@ alternator
 pupillary
 ciliary
 principled
+facility (endurskoða)
+commute (endurskoða)
+ghastliness
