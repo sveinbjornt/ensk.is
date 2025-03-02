@@ -326,8 +326,7 @@ carve s. skera (höggva) út (myndir); skera niður (kjöt yfir borðum); [~ a w
 carver n. myndskeri
 carving n. myndskurður; útskornar myndir ([~s in wood])
 cascade n. lítill foss; s. falla í fossum, fossa
-case n. tilfelli; atvik; ástand; málefni; mál; fall (í beygingarfræði); [in your ~] í þínu tilfelli; [we are in bad ~] illa staddir; [in few ~s] sjaldan; [in many ~s] oft; [in ~] ef svo skyldi fara; [in that ~] ef það er svo, ef svo færi; [in any ~] hvernig sem fer; [in ~ of attack] ef til árásar kemur
-case n. kassi, stokkur; hylki; skrín; s. setja í kassa, láta kassa utan um; klæða, búa ([~d in iron]); [~d with ice] ísaður, klökugur
+case n. tilfelli; atvik; ástand; málefni; mál; fall (í beygingarfræði); [in your ~] í þínu tilfelli; [we are in bad ~] illa staddir; [in few ~s] sjaldan; [in many ~s] oft; [in ~] ef svo skyldi fara; [in that ~] ef það er svo, ef svo færi; [in any ~] hvernig sem fer; [in ~ of attack] ef til árásar kemur; kassi, stokkur; hylki; skrín; s. setja í kassa, láta kassa utan um; klæða, búa ([~d in iron]); [~d with ice] ísaður, klökugur
 casein n. ostefni
 casement n. gluggi á hjörum ([I seldom opened the ~s])
 caseous l. ostkynjaður
@@ -1039,8 +1038,7 @@ clinical l. sem lýtur að heilsugæslu
 clink s. hringla, slá saman (glösum, sverðum); n. hringl
 clinker-built l. súðbyrður ([a ~ boat])
 clinometer n. hallamælir
-clip s. grípa (klípa) fast utan um; n. þvotthalda, klemma
-clip s. klippa; stýfa; n. afklippa; afklippt ull; stýfing
+clip s. klippa; stýfa; grípa (klípa) fast utan um; n. afklippa; afklippt ull; stýfing; þvotthalda, klemma; myndskeið ([film ~])
 clipper n. (kinda)klippari; fljótur hestur; hraðskreytt skip
 clippers nft. skæri
 clipping n. klipping; stýfing
@@ -2515,7 +2513,7 @@ crop n. jarðargróði, afurðir; uppskera; sarpur; s. kroppa; skera upp; stýfa
 croquet n. króket (enskur leikur með trékúlum)
 crosier n. biskupsstafur, bagall
 crozier n. biskupsstafur, bagall
-cross n. kross; krossmark ([sign of the ~]); mótlæti, böl; l. þver-; krosslagður; andstæður; gagnstæður; önugur, afundinn
+cross n. kross; krossmark ([sign of the ~]); mótlæti, böl; l. þver-; krosslagður; andstæður; gagnstæður; önugur, afundinn; s. krossa; gera krossmark á; krossleggja; fara yfir; liggja yfir um; mæta; hitta; fara fram hjá; koma í bága við; hindra; blanda (kynið); strika lit ([out, off]); [~ the path of] verða á vegi e-s; [that thought never ~ed my mind] mér datt slíkt aldrei í hug
 crossbar n. þverslá
 crossbeam n. þverbiti
 crossbow n. lásbogi
@@ -2531,7 +2529,6 @@ crossroad n. þvervegur; vegamót
 crossway n. þvervegur; vegamót
 crossways ao. þversum
 crosswise ao. þversum
-cross s. krossa; gera krossmark á; krossleggja; fara yfir; liggja yfir um; mæta; hitta; fara fram hjá; koma í bága við; hindra; blanda (kynið); strika lit ([out, off]); [~ the path of] verða á vegi e-s; [that thought never ~ed my mind] mér datt slíkt aldrei í hug
 crossing n. gatnamót, vegamót; stígur (yfir um götu)
 crotchet n. fjórðungsnóta; duttlungur
 crotcheteer n. heilabrotamaður
