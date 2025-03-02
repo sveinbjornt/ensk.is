@@ -5105,6 +5105,7 @@ Gaulish l. gallverskur, gallískur, frá Gallíu
 Stockholm n. Stokkhólmur (borg í Svíþjóð)
 Oslo n. Osló (borg í Noregi)
 curcuma n. gullinrót, kúrkúma, túrmerik
+turmeric n. gullinrót, túrmerik, kúrkúma
 charcuterie n. kjötbúð; unnar kjötvörur
 polder n. sæland (láglendi neðan sjávarmáls)
 cathode n. bakskaut, katóða
@@ -5385,6 +5386,7 @@ receptiveness n. móttækileiki
 expat n. sjá %[expatriate]%
 sanctions nft. refsiaðgerðir; viðskiptaþvinganir
 cacophonous l. mishljóma, mishljóðandi
+cacophonic l. mishljóma, mishljóðandi
 Arianism n. aríanismi, aríusarstefna (guðfræðileg kenning innan kristindóms kennd við munkinn Aríus)
 Arian n. aríusarsinni (sjá %[Arianism]%); l. aríanisma-, aríusarstefnu- ([~ heresy])
 apnea n. öndunarstöðvun, öndunarstopp, andhlé; [sleep ~] kæfisvefn
@@ -6777,3 +6779,6 @@ duodecuple l. tólffaldur
 myoclonus n. vöðvakippir
 precapillary n. háræðlingur
 diastole n. hlébil, hjartahlé, þanbil
+barlow n. vasahnífur
+CEO n. framkvæmdastjóri (stytt. á %[chief executive officer]%)
+chief executive officer n. framkvæmdastjóri (CEO)

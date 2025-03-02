@@ -123,7 +123,7 @@ imagination n. ímyndun; ímyndunarafl
 imaginative l. ímyndunar-; hugvitssamur; hugmyndaríkur
 imagine s. ímynda (hugsa) sér; hugsa upp
 imbecile l. veiklaður, sljór (á líkama eða sál); heimskulegur; n. fábjáni, heimskingi, fæðingarhálfviti
-imbecility n. (vitsmuna) sljóleiki; vanmáttur
+imbecility n. sljóleiki (vitsmuna); vanmáttur
 imbed s. sjá %[embed]%
 imbibe s. drekka (soga) í sig ([~ knowledge, moisture])
 imbody s. sjá %[embody]%
@@ -1447,8 +1447,8 @@ inweave s. vefa inn í
 iodide n. joðsamband
 iodine n. joð (frumefni)
 iodism n. joðeitrun
-Ionian l. íónskur; [the ~ islands] íónsku eyjarnar
-Ionic l. íónskur; [the ~ dialect] íónska mállýskan
+Ionian l. íónskur, íónískur; [the ~ islands] íónsku eyjarnar
+Ionic l. íónskur, íónískur; [the ~ dialect] íónska mállýskan
 Iranian l. íranskur, frá Íran; n. Írani
 irascibility n. reiðigirni, bráðlyndi
 irascible l. reiðigjarn, uppstökkur, bráðlyndur
