@@ -1878,7 +1878,7 @@ individualistic l. einstaklingshyggjulegur, einstaklingshyggju-
 individualist n. einstaklingshyggjumaður, einstaklingshyggjusinni
 monarchist n. konungssinni, konungsveldissinni, einveldissinni
 monarchism n. konungsstefna, konungsveldisstefna; einveldisstefna (sjá %[absolute monarchy]%)
-absolute monarch n. einvaldur
+absolute monarch n. einvaldur (konungur)
 absolute monarchy n. einveldi, einveldisríki, ríki þar sem konungur er einvaldur og öllu ræður
 ideological l. hugmyndafræðilegur, hugmyndafræði-
 ideologically ao. hugmyndafræðilega
@@ -2658,7 +2658,7 @@ aesthetically ao. fagurfræðilega
 touristic l. túristalegur, túrista-
 patronym n. föðurnafn
 matronym n. móðurnafn
-matronymic l. móðurnafns; móðurnafn
+matronymic l. móðurnafns-; n. móðurnafn
 medievalist n. miðaldafræðingur
 insecticide n. skordýraeitur; skordýramorð
 legibility n. læsileiki (sjá %[legible]%)
@@ -2907,6 +2907,7 @@ gerrymandering n. kjördæmahagræðing (BNA)
 Europeanize s. evrópuvæða
 Europeanization n. evrópuvæðing
 Indo-European l. indóevrópskur; n. Indóevrópumaður
+somnambulate s. ganga í svefni
 somnambulator n. svefngengill, svefngöngumaður
 godparent n. guðforeldri (sjá %[godfather]%, %[godmother]%)
 tsarism n. keisaraeinveldi; keisarastefna (í Rússlandi)
@@ -5536,6 +5537,7 @@ neurogram n. taugarafrit; minnisspor
 hypothalamus n. undirstúka (heilans)
 thalamus n. stúka, bakstúka (heilans)
 photovoltaic l. ljósspennu-
+photovoltaics nft. sólarorkutækni, sú tækni að breyta ljósi í raforku
 sailboat n. seglbátur, seglskip, seglskúta
 hookworm n. kengormur, krókormur
 barracks nft. hermannaskálar, hermannabústaðir
@@ -6781,7 +6783,11 @@ precapillary n. háræðlingur
 diastole n. hlébil, hjartahlé, þanbil
 barlow n. vasahnífur
 CEO n. framkvæmdastjóri (stytt. á %[chief executive officer]%)
+CFO n. fjármálastjóri (stytt. á %[chief financial officer]%)
+CTO n. tæknistjóri (stytt. á %[chief technology officer]%)
 chief executive officer n. framkvæmdastjóri (CEO)
+chief financial officer n. fjármálastjóri (CFO)
+chief technology officer n. tæknistjóri (CTO)
 handover n. afhending; yfirfærsla
 numerically ao. tölulega (sjá %[numerical]%)
 godawful l. skelfilegur, hræðilegur, hryllilegur
@@ -6802,13 +6808,21 @@ viewpoint n. sjónarmið, sjónarhóll, viðhorf, skoðun
 motorist n. ökumaður, bílstjóri
 goggles n. hlífðargleraugu; [swimming ~] sundgleraugu
 retrospectively ao. lítandi aftur á við, eftir á að hyggja
-unpatriotic l. óþjóðrækinn, án ættjarðarástar
+unpatriotic l. óþjóðrækinn, ekki þjóðernissinnaður, án ættjarðarástar
 revisionism n. endurskoðunarstefna
-revisionist n. sá sem endurskoðar (söguleg málefni eða stefnu); l. endurskoðunar-
+revisionist n. sá sem endurskoðar (söguleg málefni eða fyrri stefnu); l. endurskoðunar-, endurhugsunar-
 foolishness n. fásinna, fávísi, heimska, kjánaskapur
 inevitably ao. óhjákvæmilega
 tentacular l. fálmara-, griparms- (sjá %[tentacle]%)
-unassailable l. sem ekki er hægt að gera áhlaup á, sem ekki er hægt að ráðast á
 assailable l. sem hægt er að gera áhlaup á, sem hægt er að ráðast á
+unassailable l. sem ekki er hægt að gera áhlaup á, sem ekki er hægt að ráðast á
 demonize s. breyta í djöful; mála upp sem djöful
 shrubland n. kjarrlendi
+rhinitis n. nefkvef
+Lombard n. Langbarði (maður af þessum germanska þjóðflokki)
+POTUS n. Bandaríkjaforseti (stytt. á [President of the United States])
+Mohican n. móhíkani (frumbyggi Norður-Ameríku)
+tripolar l. þrískauta, þrípóla
+immoderately ao. óhóflega, ofsalega, á öfgakenndan hátt
+amniotic l. líknarbelgs-; [~ fluid] legvatn, belgvatn
+sweater n. peysa, treyja

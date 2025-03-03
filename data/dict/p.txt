@@ -383,7 +383,7 @@ patronage n. vernd; veitingarréttur (til kirkjulegs embættis)
 patroness n. verndarkona, velgerðakona
 patronize s. vernda; halda (e-m) fram; sýna e-m lítillæti
 patronizer n. verndarmaður
-patronymic l. ættarnafns- ([~ suffix]); n. ættarnafn, föðurnafn
+patronymic l. föðurnafns-, ættarnafns- ([~ suffix]); n. föðurnafn, ættarnafn
 patten n. tréskór
 patter s. lemja, bylja (um regn og hagl); þylja í hálfum hljóðum ([~ prayers]); trítla, skokka; masa; skvetta (vatni); n. dropafall; mállýska; þjófamál, leynimál
 pattern n. mynstur; fyrirmynd; forsnið; sýnishorn; rósir (gerð) í vefnaði; s. líkja eftir e-m; skreyta með rósamyndum eða litum; laga (móta e-ð) eftir e-u ([on, after])
@@ -2340,7 +2340,8 @@ psalter n. Daviðs sálmar, saltari
 psaltery n. forn harpa
 pseudo- fsk. fals-, gervi-, sýndar- (sjá t.d. %[pseudoscience]%, %[pseudonymous]% o.s.frv.)
 pseudonym n. gervinafn, dulnefni rithöfundar
-pseudonymous l. með gervinafni, dulnefni
+pseudonymous l. með gervinafn, með dulnefni
+pseudonymously ao. undir gervinafni, undir dulnefni ([he published his first novel ~])
 pseudoprophet n. falsspámaður
 psychiatrist n. geðlæknir
 psychiatry n. geðlækningar, geðlæknisfræði

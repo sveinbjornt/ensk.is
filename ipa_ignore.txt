@@ -1156,3 +1156,6 @@ plougher
 plower
 shrubland
 tentacular
+Lombard
+tripolar
+photovoltaics
