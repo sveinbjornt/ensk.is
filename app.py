@@ -489,7 +489,11 @@ async def zoega(request: Request):
     """Page with details about the Zoega dictionary."""
     return TemplateResponse(
         "zoega.html",
-        {"request": request, "title": f"Orðabók Geirs T. Zoëga - {WEBSITE_NAME}"},
+        {
+            "request": request,
+            "title": f"Orðabók Geirs T. Zoëga - {WEBSITE_NAME}",
+            "num_additions": num_additions,
+        },
     )
 
 
