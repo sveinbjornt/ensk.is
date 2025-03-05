@@ -3172,7 +3172,7 @@ exogenous n. útrænn, utanaðkomandi, sem verkar að utan, sem er kominn utan f
 experimentee n. (manneskja eða dýr sem er) viðfang rannsóknar
 emphysema n. lungnaþemba (sjúkdómur)
 audiobook n. hljóðbók
-filicide n. sonarmorð eða dótturmorð
+filicide n. sonarmorð, dótturmorð
 aquaculture n. fiskeldi, fiskirækt; ræktun lífvera í ám, vötnum og sjó
 demersal l. botnlægur, sem lifir við botninn; [~ fish] botnfiskur
 monopsony n. staða þar sem aðeins er einn kaupandi
@@ -5570,7 +5570,8 @@ egocentricity n. sjálfhverfa, sjálflægni
 infanticidal l. barnamorðs-
 dactylography n. fingrafarafræði
 landline n. landlína, jarðlína
-enthralling l. töfrandi, gagntakandi, hrífandi
+enthralled l. hnepptur í ánauð; hnepptur í álög; gagntekinn, hugfanginn, hrifinn, hugfanginn
+enthralling l. töfrandi, gagntakandi, hrífandi, hugfangandi
 hindquarters nft. afturhluti (líkamans)
 salami n. (ítölsk) spægipylsa
 overstimulate s. oförva
@@ -6829,3 +6830,18 @@ sweater n. peysa, treyja
 osteopenia n. beinrýrð, beingisnun
 pigling n. gríslingur, grís
 greaseball n. (í BNA) manneskja af ítölskum uppruna (móðgandi)
+gingivitis n. tannholdsbólga
+berate s. ávíta, skamma
+policymaking n. stefnumótun; l. stefnumótunar-, stefnumótandi
+policymaker n. sá sem mótar stefnu, stefnumótandi, stefnumótunaraðili, stjórnmálamaður
+ranch n. búgarður
+sampling n. sýnistaka, úrtaka; hljóðtaka; stökun
+hematoma n. margúll
+emaciated l. skinhoraður; tærður
+oropharynx n. munnkok
+pupillary l. sjáaldurs-, ljósops-
+hypoallergenic l. ekki mjög ofnæmisvaldandi
+overthink s. ofhugsa
+psoriasis n. sóri, sóriasis
+Zoroastrian n. sóróisti, sá sem aðhyllist sóróisma (sjá %[Zoroastrianism]%)
+peroxide n. peroxíð
