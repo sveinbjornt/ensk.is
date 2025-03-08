@@ -1738,6 +1738,7 @@ chili n. chilipipar, eldpipar
 reprocess s. endurvinna
 biophysics n. lífeðlisfræði
 biophysicist n. lífeðlisfræðingur
+biophysical l. lífeðlisfræðilegur, lífeðlisfræði-
 neurochemistry n. taugaefnafræði
 neurotransmitter n. taugaboðefni
 dominator n. valdhafi; yfirdrottnari; sjá %[dominate]%
@@ -2495,6 +2496,7 @@ categorization n. flokkun
 dustbin n. ruslafata, ruslatunna, ruslakarfa
 Achilles n. Akkilles (forngrísk hetja)
 extramarital l. utan hjónabands
+premarital l. fyrir hjónaband, á undan hjónabandi
 undoubtedly ao. án efa, eflaust, efalaust
 stigmatization n. brennimerking
 median n. miðgildi; l. miðgildis-
@@ -6856,3 +6858,33 @@ Aegean n. Eyjahaf, Grikklandshaf ([the ~ Sea]); l. Eyjahafs-
 Israelite n. Ísraelsmaður
 fax n. símbréfasending; bréfasími, bréfsími
 fax machine n. bréfasími, bréfsími, faxtæki
+timeframe n. tímarammi, tímamörk
+Kraut n. Þjóðverji, Þýskari (óforml.)
+expressionless l. svipbrigðalaus
+phlegmatism n. deyfð, fjörleysi, tómlæti
+high-quality l. hágæða-
+funicular n. kláfferja, togbraut
+smelly l. daunillur, illa lyktandi, illa þefjandi; daunmikill
+booger n. hor, horsletta
+absentminded l. sjá %[absent-minded]%
+absent-mindedness n. það að vera utan við sig (sjá %[absent-minded]%)
+horrendous l. hryllilegur, hræðilegur, hrottalegur, hrikalegur, skelfilegur
+horrendously ao. hryllilega, hræðilega, hrottalega, hrikalega, skelfilega
+teammate n. liðsfélagi
+workhorse n. vinnuhestur, dráttarhestur; maður sem er duglegur við vinnu ([he's a real ~])
+wetland n. votlendi
+courtyard n. forgarður, húsagarður
+tabula n. tafla; [~ rasa] óskrifað blað, auð tafla (úr latínu)
+stateless l. ríkisfangslaus; án ríkis
+statelessness n. ríkisfangsleysi; það ástand að vera án ríkis
+putrefied l. rotinn, rotnaður, úldinn, fúinn
+mogul n. mógúll, stórhöfðingi
+pinstripe l. teinóttur
+overgrazing n. ofbeit
+hallway n. gangur, göng (í húsi)
+state visit n. opinber heimsókn
+countryside n. sveit, landsbyggð
+bloodstain n. blóðblettur
+bloodstained l. blóði drifinn, blóðugur
+frightened l. hræddur, óttasleginn, skelfdur
+overgrown l. ofvaxinn; þakinn (grasi, plöntum)
