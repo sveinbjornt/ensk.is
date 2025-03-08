@@ -1162,7 +1162,7 @@ monotonal l. sjá %[monotonous]%
 montage n. myndblöndun, myndsamsetning, myndflétta, myndaröð
 digitalize s. koma á stafrænt snið (sjá %[digital]%)
 hardcore n. harðkjarni; l. harðkjarna-
-ministry n. ráðuneyti; boðun trúar, fagnaðarerindis
+ministry n. ráðuneyti; boðun trúar, boðun fagnaðarerindis
 nearby l. nálægt, í grenndinni, nærliggjandi
 payroll n. launaskrá; launagreiðslur
 convinced l. sannfærður; [he was ~ that ...]
@@ -6820,7 +6820,7 @@ unassailable l. sem ekki er hægt að gera áhlaup á, sem ekki er hægt að rá
 demonize s. breyta í djöful; mála upp sem djöful
 shrubland n. kjarrlendi
 rhinitis n. nefkvef
-Lombard n. Langbarði (maður af þessum germanska þjóðflokki)
+Lombard n. Langbarði (maður af þeim germanska þjóðflokki)
 POTUS n. Bandaríkjaforseti (stytt. á [President of the United States])
 Mohican n. móhíkani (frumbyggi Norður-Ameríku)
 tripolar l. þrískauta, þrípóla
@@ -6845,3 +6845,14 @@ overthink s. ofhugsa
 psoriasis n. sóri, sóriasis
 Zoroastrian n. sóróisti, sá sem aðhyllist sóróisma (sjá %[Zoroastrianism]%)
 peroxide n. peroxíð
+salinate s. salta
+salination n. söltun
+lothario n. kvennabósi, flagari
+speedbump n. hraðahindrun
+horripilation n. hárris
+piloerection n. hárris
+epitope n. vakaeining; mótefnavísir
+Aegean n. Eyjahaf, Grikklandshaf ([the ~ Sea]); l. Eyjahafs-
+Israelite n. Ísraelsmaður
+fax n. símbréfasending; bréfasími, bréfsími
+fax machine n. bréfasími, bréfsími, faxtæki
