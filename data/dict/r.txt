@@ -837,8 +837,8 @@ replevy s. útleysa, innleysa (lögtekna muni)
 replica n. eftirmynd eftir sjálfan listamanninn
 replication n. andsvar, gagnsvar
 reply s. svara, andsvara; n. svar, andsvar
-report s. segja (skýra) frá; gefa (rita) skýrslu (um [on]); kæra; n. skýrsla; orðrómur; mannorð ([a man of good ~]); hvellur ([~ of a gun]); [~ of a committee] nefndarálit
-reporter n. fréttamaður, fréttaritari, fráskýrandi, sögumaður
+report s. segja (skýra) frá; gefa (rita) skýrslu (um [on]); tilkynna; kæra; n. skýrsla; orðrómur; mannorð ([a man of good ~]); hvellur ([~ of a gun]); [~ of a committee] nefndarálit
+reporter n. fréttamaður, fréttaritari, fráskýrandi, sögumaður, tilkynnari
 repose s. leggja (til hvíldar), hvíla; leggja (trúnað á, [confidence in]); liggja, hvílast; vera kominn (undir [upon, on]); n. hvíld, svefn; ró, friður
 reposeful l. rólegur
 reposit s. leggja niður til geymslu; geyma

@@ -964,7 +964,6 @@ misnomer n. rangnefni
 misogamist n. hjónabandshatari
 misogynist n. kvenhatari, karlremba
 misogyny n. kvenhatur, kvenfyrirlitning, karlremba
-misogynistic l. kvenhatandi, kvenhaturs-, karlrembu-
 misplace s. setja á rangan stað; veita óverðugum e-ð
 misprint s. rangprenta; n. prentvilla
 misprision n. vanræksla; yfirhylming ([~ of treason])
@@ -1250,7 +1249,7 @@ mortal l. dauðlegur, banvænn; [~ enemy] svarinn óvinur; n. dauðlegur maður
 mortality n. dauðlegleiki; dauðratala; dauðleiksmagn; manndauði
 mortally ao. dauðlega; til ólífis ([~ wounded])
 mortar n. mortél; kalk eða sement blandað sandi, steinlím; sprengjuvarpa, e.k. fallbyssa til að skjóta sprengikúlum; s. kalka, líma (grjót) með kalki
-mortgage n. veð, pantur; veðréttur; [deed of ~] veðmálaskjal, veðbréf; [register of ~s] veðmálabók; [to lend on ~] lána gegn fasteignarveði; s. veðsetja
+mortgage n. veð, pantur; veðréttur; [deed of ~] veðmálaskjal, veðbréf; [register of ~s] veðmálabók; fasteignalán; [to lend on ~] lána gegn fasteignarveði; s. veðsetja
 mortgagee n. veðhafi
 mortiferous l. banvænn
 mortification n. dauði, drep (í holdi), holdfúi; deyðing ([~ of the body]); auðmýking; gremja; vonbrigði

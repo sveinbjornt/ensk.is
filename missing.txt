@@ -883,7 +883,6 @@ diner
 thermoform
 decant
 stonewall
-interviewee
 takeaway
 leftover
 brainpower
@@ -898,7 +897,6 @@ sleepover
 organizational
 bespoke
 fait accompli
-pushiness
 edginess
 scam
 scammer
@@ -1099,7 +1097,6 @@ counterpoint
 agglutinative
 post-structuralism
 post-structuralist
-re-enactment
 encapsulate
 encapsulated
 encapsulation
@@ -3373,7 +3370,6 @@ cubby
 structured
 assiduously
 strigil
-gryphon
 wiggle
 renege
 psychophysiological
@@ -3389,7 +3385,6 @@ hurtfulness
 moratory
 cosplay
 restroom
-epitope
 visualization
 visualisation
 conformal
@@ -4569,7 +4564,6 @@ gloomily
 hoosegow
 roadhouse
 peeper
-dago
 gladstone
 vermouth
 roughhouse
@@ -4865,7 +4859,6 @@ preterm
 inverter
 Occidentalism
 vagal
-
 astrobiology
 recenter
 putting (golf)
@@ -4971,11 +4964,13 @@ unsurprised
 acquitted
 homebody
 beanie
-lothario
 anaerobic
 listicle
 mantis
 salinization
 desalinization
-badminton
 alignment (endurskoða)
+powdered
+drooling
+reportedly
+laminated

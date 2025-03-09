@@ -1566,7 +1566,7 @@ postil n. skýringargrein við texta; postilla
 postilion n. forreiðarmaður
 postillion n. forreiðarmaður
 post meridiem ao. (skammstafað [P.M.]) síðdegis, eftir hádegi ([3:20 P.M.])
-postmortem ao. eftir dauðann; [~ examination] líkskoðun
+postmortem ao. eftir dauðann; [~ examination] líkskoðun, líkkrufning
 postpone s. fresta; láta sitja á hakanum
 postponement n. frestun
 postscript n. eftirskrift
@@ -1580,7 +1580,7 @@ potable l. drekkanlegur, drekkandi, drykkjarhæfur, sem hægt er að drekka ([th
 potage n. súpa
 potash n. pottaska, kalí
 potation n. drykkur; drykkja ([to abstain from ~])
-potato n. kartafla, jarðepli,
+potato n. kartafla, jarðepli
 potato blight n. skemmd í kartöflum
 pot-bellied l. vambmikill, kviðmikill
 potency n. máttur, kraftur, afl ([supernatural ~]); áhrif
@@ -1590,15 +1590,15 @@ potential l. mögulegur, sem getur verið; n. möguleiki; mætti; spenna
 potentiality n. möguleiki; máttur
 pother n. hávaði, læti; brölt; s. gera hávaða; ónáða
 potherbs nft. súpujurtir
-pothole n. skessuketill
+pothole n. hola (í vegi); jarðfall; skessuketill
 pothook n. pottkrókur
 pothouse n. ölstofa, drykkjustofa
 potion n. heilsudrykkur, seyði; [magic ~] töfradrykkur
 potlid n. pottlok, potthlemmur
-potluck n. [take ~] gera sér að góðu það, sem fram er borið
+potluck n. [take ~] gera sér að góðu það sem fram er borið
 pottage n. kjötsúpa, súpa, pottréttur
 potter n. leirkerasmiður; s. dunda; fara í hægðum sínum, lalla; rugla, trufla
-pottery n. leirkerasmiðja; leirker, leirílát
+pottery n. leirkerasmiðja; leirkerasmíði; leirker, leirílát
 pottle n. stór kanna; lítil karfa ([a ~ of strawberries])
 pouch n. pungur, pyngja; vasi; poki (pokadýra); s. stinga á sig, í vasann; gleypa ([~ the bait])
 poult n. kjúklingur
@@ -1613,7 +1613,7 @@ pour s. hella; skenkja; láta streyma; senda út; hella út ([~ out]); streyma, 
 pout n. það að teygja fram varirnar; ólundarkast, fýla ([in the ~s]); s. vera fúll; teygja fram (varirnar); n. fisktegund
 pouting l. ólundarfullur
 pouter n. dúfutegund
-poverty n. fátækt, skortur
+poverty n. fátækt, skortur, örbirgð
 poverty-stricken l. fátækur, fátæklegur
 powder n. duft, dust; púður; s. mylja í duft; molna; strá hárdufti í hárið
 powder cart n. púðurvagn
@@ -2341,7 +2341,6 @@ psaltery n. forn harpa
 pseudo- fsk. fals-, gervi-, sýndar- (sjá t.d. %[pseudoscience]%, %[pseudonymous]% o.s.frv.)
 pseudonym n. gervinafn, dulnefni rithöfundar
 pseudonymous l. með gervinafn, með dulnefni
-pseudonymously ao. undir gervinafni, undir dulnefni ([he published his first novel ~])
 pseudoprophet n. falsspámaður
 psychiatrist n. geðlæknir
 psychiatry n. geðlækningar, geðlæknisfræði
