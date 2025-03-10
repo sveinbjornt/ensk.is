@@ -943,8 +943,8 @@ humdrum l. leiðinlegur; þumbaralegur; n. leiðinlegur maður; leiðindaseggur;
 humeral l. axlar-, herða-
 humid l. rakur, votur
 humidity n. væta, raki
-humiliate s. auðmýkja, niðurlægja
-humiliation n. auðmýking, niðurlæging
+humiliate s. niðurlægja, auðmýkja
+humiliation n. niðurlæging, auðmýking
 humility n. auðmýkt, lítillæti; lítilfjörleiki
 hummer n. suðandi skordýr eða smáfugl
 humming n. suða

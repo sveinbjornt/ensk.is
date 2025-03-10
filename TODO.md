@@ -3,7 +3,7 @@
 * [ ] Deduplicate words in the database
 * [ ] Add more words
 * [ ] Add more examples
-* [ ] Resolve mulitple word categories
+* [ ] Resolve multiple word categories
 * [ ] Fuzzy suggestions, matches ("Did you mean X, Y or Z?")
 * [ ] Fix double IPA entries for US English
 * [ ] Use paralell corpora
@@ -18,7 +18,6 @@
 * [ ] Add step to verify.py: check that adjectives are always defined using the masculine
 * [ ] If no result found, lemmatize word and try again? Be smart?
 * [ ] Dark mode!
-* [ ] aiosqlite?
 * [ ] Support search for strings shorter than 3 chars, but only deliver exact results
 * [ ] Support regex search using * character
 * [ ] Show number of matching results

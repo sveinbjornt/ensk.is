@@ -1312,9 +1312,9 @@ slate pencil n. griffill
 slattern n. óþrifin kona, ódámur, subba
 slatternly l. óþrifinn, óþrifalegur; sóðalegur, subbulegur
 slaty l. flögugrjótskynjaður
-slaughter n. manndráp, mannfall; slátrun; s. slátra, skera (fé); drepa, myrða
-slaughterer n. slátrari, morðingi
-slaughterhouse n. slátrarabúð
+slaughter n. slátrun; manndráp, mannfall; s. slátra, skera (fé); drepa, myrða
+slaughterer n. slátrari; morðingi
+slaughterhouse n. sláturhús, slátrarabúð, sláturstöð
 slaughterous l. mannskæður
 Slav n. slavneskur maður, Slavi; l. slavneskur
 slave n. þræll, ambátt; s. þrælka
@@ -1458,12 +1458,12 @@ smelting furnace n. málmbræðsluofn
 smile s. brosa (að e-u [at]); [~ content] brosa af ánægju; [~ on] brosa við; n. bros; [a scornful ~] háðbros
 smilingly ao. brosandi, með brosi
 smirch s. óhreinka, ata
-smirk s. brosa flírulega; n. flírubros, tilgerðarlegt bros
+smirk s. brosa tilgerðarlega, brosa flírulega; n. tilgerðarlegt bros, flírubros
 smite s. slá, ljósta ([~ one with the fist]); vega, drepa
-smith n. (járn)smiður; s. smíða
+smith n. smiður; s. smíða
 smithery n. smiðja; járnsmíði
 smithy n. smiðja
-smitten l. gagntekinn; [~ with love] ástfanginn
+smitten l. gagntekinn; sleginn; [~ with love] ástfanginn
 smock n. kvenskyrta, bolur; utanyfirskyrta
 smock-faced l. kvenlegur í andliti
 smock frock n. utanyfirskyrta, vinnuskyrta
@@ -1967,7 +1967,7 @@ sponsorship n. ábyrgð; guðsifjar
 spontaneity n. sjálfvilji, sjálfvild
 spontaneous l. ósjálfráður; sjálfvakinn; sjálfkrafa
 spontaneously ao. sjálfkrafa; af sjálfu sér
-spook n. draugur
+spook n. draugur; njósnari (óforml.)
 spookical l. drauga-
 spool n. spóla; (tvinna)-kefli; riðil; s. spóla
 spoon n. spónn, skeið

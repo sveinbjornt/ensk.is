@@ -440,7 +440,7 @@ makeup n. (andlits)förðun, (andlits)farði, meik
 marina n. smábátahöfn
 nudist n. strípalingur, striplingur
 pipeline n. leiðsla; nft. [~s] leiðslukerfi
-radio n. útvarp, útvarpstæki; s. útvarpa ([he ~ed for help])
+radio n. útvarp; útvarpstæki; s. útvarpa ([he ~ed for help])
 realtor n. fasteignasali, fasteignamiðlari
 riverside n. árbakki; l. við árbakka, árbakka-
 renewable l. endurnýjanlegur; n. endurnýjanlegur hlutur
@@ -1238,7 +1238,7 @@ orca n. háhyrningur
 modal logic n. háttarökfræði
 shite n. sjá %[shit]%
 political philosophy n. stjórnspeki, stjórnmálaheimspeki
-abattoir n. sláturhús
+abattoir n. sláturhús, sláturstöð
 cosmology n. heimsfræði, heimsmyndarfræði
 cosmological l. heimsfræðilegur
 ontology n. verufræði
@@ -1532,7 +1532,7 @@ WWW n. stytt. á [World Wide Web]; veraldarvefurinn
 annotated l. ritskýrður, með athugasemdum; sjá %[annotate]%
 scientism n. (öfga)vísindahyggja; sú kenning að aðferðir náttúruvísinda ráði við öll svið mannlegra fræða
 scientistic l. (öfga)vísindahyggjulegur; sjá %[scientism]%
-USA nft. stytt. á %[United States of America]%
+USA nft. Bandaríkin; stytt. á %[United States of America]%
 US nft. Bandaríkin; stytt. á %[United States]%
 UK n. Bretland; stytt. á %[United Kingdom]%
 USSR n. Sovétríkin; stytt. á [Union of Soviet Socialist Republics], enska heiti Sovétríkjanna
@@ -1768,6 +1768,7 @@ taxidermist n. uppstoppari
 taxidermic l. uppstoppunar-
 fastidiousness n. vandlæti, vandfýsni
 EU n. stytt. á [European Union]; Evrópusambandið
+EEA n. stytt. á [European Economic Area]; Evrópska efnahagssvæðið
 EV n. stytt. á %[electric vehicle]%; rafbíll, rafknúin bifreið
 electric vehicle n. rafbíll, rafknúin bifreið
 electric car n. rafbíll
@@ -2056,7 +2057,8 @@ snowman n. snjókarl
 city-state n. borgríki
 rainforest n. regnskógur
 yoghurt n. jógúrt
-billionaire n. milljarðamæringur
+billionaire n. milljarðamæringur, auðkýfingur, auðjöfur
+multimillionaire n. milljónamæringur, auðkýfingur, auð
 cheerleader n. klappstýra
 weekend n. helgi
 kindergarten n. leikskóli
@@ -4193,7 +4195,7 @@ aftereffect n. eftirhrif
 coastland n. strandlendi, strandlengja
 substandard l. ófullnægjandi, lélegur, óvandaður, stenst ekki gæðakröfur
 voyeur n. gægir, sjónfróari
-voyeurism n. sjónfróun
+voyeurism n. sjónfróun, gægjuhneigð, gægjuþörf
 catalytic l. hvetjandi-; efnahvarfs-; n. efnahvarfi
 psychosexual l. kynsálar-; [~ development] kynsálþróun
 counterfactual l. staðleysu-, staðlaus, óraunveruleika-, gegn staðreyndum; n. öfugmæli, staðleysa, setning sem fæst við óraunveruleika
@@ -4841,7 +4843,6 @@ bowstring n. bogastrengur
 dyad n. tvennd, tvenna
 innards nft. innyfli
 favorite n. sjá %[favourite]%
-bowtie n. þverslaufa
 burp s. ropa; n. rop
 wyrm n. ormur, lindormur, dreki
 qubit n. skammtabiti, kúbiti ([quantum bit])
@@ -6896,6 +6897,62 @@ gryphon n. gammur (fugl)
 Polaris n. Pólstjarnan, Norðurstjarnan
 North Star n. Pólstjarnan, Norðurstjarnan
 interviewee n. viðmælandi
-pushiness n. frekja
+pushiness n. frekja, yfirgangur
 misogynistic l. kvenhatandi, kvenhaturs-, karlrembu-
 pseudonymously ao. undir gervinafni, undir dulnefni ([he published his first novel ~])
+liger n. afkvæmi ljóns og kventígurs
+attendee n. viðstaddur, þátttakandi, gestur
+proliferate s. fjölga, breiðast út, aukast, vaxa
+proliferation n. útbreiðsla, fjölgun, aukning, vöxtur
+citizenless l. án borgara, án ríkisborgara
+citizenry n. borgarar, ríkisborgarar
+brazenness n. óskammfeilni
+spikey l. sjá %[spiky]%
+articulateness n. skýrmæli
+ungrammatical l. málfræðilega rangur, ekki málfræðilega réttur
+distortionary l. skekkjandi
+profitability n. arðsemi, hagnaður
+payslip n. launaseðill, launayfirlit
+nostalgic l. nostalgíu-
+eureka uh. ég hef fundið það!; það tókst!
+mantra n. bænaþula, mantra
+wastepaper n. pappírsrusl
+archaic l. gamaldags, forn, forneskjulegur, fornfálegur, arkaískur; úreltur
+irrationalism n. óskynsemi, rökleysi
+humiliating l. niðurlægjandi, auðmýkjandi
+ceaselessly ao. án viðstöðu, án láts, sífellt
+garderobe n. fataskápur, fataherbergi; salerni (í kastala)
+mechanistic l. vélrænn, eins og vél
+chivalric l. riddaralegur, riddara-
+knickers nft. nærbuxur
+foursome n. fjórmenningur
+self-portrait n. sjálfsmynd
+unbelievable l. ótrúlegur, ótrúanlegur
+prayerbook n. bænabók
+guru n. (andlegur) kennifaðir, lærifaðir, lærimeistari, gúrú
+chalet n. fjallakofi, fjallaskáli (í Ölpunum)
+Alps nft. [the ~] Alparnir, Alpafjöllin
+bowtie n. þverslaufa, slaufa
+cornflour n. maísmjöl
+masthead n. siglutoppur
+calmly ao. rólega; friðsamlega; á yfirvegaðan hátt
+bannister n. handrið, stigahandrið
+bollocks nft. eistu; kjaftæði, bull, vitleysa (óforml.)
+backstory n. baksaga, bakgrunnssaga, bakgrunnur
+awakening n. vakning; hugvakning; hugljómun; l. vaknandi
+spooky l. draugalegur, skuggalegur
+yay uh. jei!, vei!
+earbuds nft. heyrnartól
+castrato n. geldingur, söngvari sem hefur verið geldur til að halda drengslegri rödd (úr ítölsku)
+bisexual l. tvíkynhneigður; n. tvíkynhneigð manneskja
+bisexuality n. tvíkynhneigð
+TV n. sjónvarp (stytt. á %[television]%)
+real estate n. fasteign, fasteignir; fasteignabransinn; [~ agent] fasteignasali, fasteignamiðlari
+VP n. stytt. á %[vice-president]%, varaforseti
+peephole n. gægjugat
+IPA n. stytt. á [India Pale Ale], öltegund; stytt. á [International Phonetic Alphabet], alþjóðlega hljóðritunarstafrófið
+slavishness n. þrælslund
+KO n. stytt. á [knockout]; rot, rotun (í hnefaleikum, boxi)
+ETA n. stytt. á %[estimated time of arrival]; áætlaður komutími
+variability n. breytileiki; óstöðugleiki
+invariability n. óbreytileiki; stöðugleiki

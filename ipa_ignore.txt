@@ -289,8 +289,6 @@ euphoniousness
 sellsword
 grandkid
 gynocracy
-matronym
-patronym
 gerontocracy
 gerontology
 artilleryman
@@ -709,7 +707,6 @@ disinhibition
 nanotech
 rheumatoidal
 welfarism
-bowtie
 wyrm
 unskilfulness
 Dacia
@@ -1171,3 +1168,13 @@ biophysical
 phlegmatism
 statelessness
 tabula
+citizenless
+distortionary
+spikey
+garderobe
+irrationalism
+prayerbook
+bowtie
+matronym
+patronym
+EEA

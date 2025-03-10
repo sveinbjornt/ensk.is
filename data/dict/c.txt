@@ -356,7 +356,7 @@ casting n. kast; steypa; [~s] steyptir munir; [~ of a drapery] fall, fellingar; 
 castle n. kastali, vígi, virki; herragarður; hrókur (í tafli); [~ in the air (in the clouds, in Spain)] loftkastali, skýjaborg; [~-builder] n. loftkastalamaður
 castor n. bifur, bjór (sjá %[beaver]%); bjórskinnshúfa; kryddbaukur; [~ oil] laxerolía; [~ sugar] sáldsykur
 castrate s. gelda, vana; stytta (rit)
-castration n. gelding
+castration n. gelding, vönun
 casual l. frjálslegur, kærulaus, hversdagslegur, óformlegur, afslappaður; tilviljunarlegur; óviss
 casually ao. af hendingu, af tilviljun
 casualty n. hending; slys
@@ -1612,7 +1612,7 @@ concernment n. málefni; íhlutun, afskipti ([in/with something]); áhyggja, hlu
 concert n. tónleikar; hljómleikur; samkomulag; söngskemmtun; samsöngur; [in ~] samtaka; s. koma sér saman um (fyrirfram); hugsa upp
 concerted l. gerður eftir samanteknu ráði
 concertina n. harmónikka, dragspil
-concession n. eftirgjöf, tilslökun; viðurkenning; úthlutun, veiting ([~ of land]); (einka)leyfi
+concession n. eftirgjöf, tilslökun; viðurkenning; úthlutun, veiting ([~ of land]); (einka)leyfi; sjá %[concede]%
 concessionaire n. leyfishafi
 concessive l. sem lýtur að [concession]; [~ conjunction] viðurkenningartenging
 conch n. skelfiskur; skel; kuðungur
