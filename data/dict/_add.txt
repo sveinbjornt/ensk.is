@@ -6957,6 +6957,7 @@ ETA n. stytt. á %[estimated time of arrival]; áætlaður komutími
 variability n. breytileiki; óstöðugleiki
 invariability n. óbreytileiki; stöðugleiki
 axolotl n. tálknamandra (e.k. salamandra)
-paterfamilias n. fjölskyldufaðir, ættfaðir (úr latínu)
+paterfamilias n. fjölskyldufaðir, faðir fjölskyldunnar, ættfaðir (úr latínu)
 prof n. prófessor, kennari; stytt. á %[professor]%
 Old Nick n. fjandinn, kölski, djöfullinn
+premorbid l. forsýkis-
