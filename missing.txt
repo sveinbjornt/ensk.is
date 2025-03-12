@@ -3257,7 +3257,6 @@ transdiagnostic
 reassign
 outrank
 minced
-bollocks
 boof
 teleconferencing
 deflector
@@ -3407,6 +3406,7 @@ rulership
 unnerved
 cuddly
 Megalodon
+megalodon
 micromobility
 governmentally
 digest (endurskoða)
@@ -4939,3 +4939,11 @@ casualty (endurskoða)
 radio button
 adequacy (endurskoða)
 vape
+demilitarize
+demilitarized
+decarbonisation
+placidly
+nonchalantly
+signifying
+terraform
+terraforming

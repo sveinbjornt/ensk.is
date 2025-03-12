@@ -779,16 +779,16 @@ inexpressible l. ósegjanlegur
 inexpressibles nft. buxur, brækur
 inexpressive l. sviplaus (um andlit)
 inexpugnable l. óvinnandi ([an ~ castle])
-inextensible l. óteygjanlegur
+inextensible l. óteygjanlegur, óviðbætanlegur
 inextinguishable l. óslökkvandi; [~ laughter] óstöðvandi hlátur
 inextricable l. óleysanlegur; ógreiður, flókinn
 infallibility n. óskeikulleiki
 infallible l. óskeikull, óbrigðull, áreiðanlegur
 infame s. óvirða, lasta
-infamous l. illræmdur, alræmdur; svívirðilegur
-infamy n. illræmi, svívirðing, vansæmd
+infamous l. illræmdur, alræmdur; svívirðilegur; með illt orðspor
+infamy n. illræmi, svívirðing, vansæmd, illt orðspor
 infancy n. bernska, barnsaldur
-infant n. ungbarn; spænskur prins; l. barnslegur, óþroskaður; ómálga, kornungur ([her ~ son])
+infant n. ungbarn; l. barnslegur, óþroskaður; ómálga, kornungur ([her ~ son])
 infanta n. spænsk prinsessa
 infanticide n. barnamorð; barnamorðingi
 infantile l. barnslegur, ungæðislegur; bernsku-
@@ -798,12 +798,12 @@ infatuate s. blinda, blekkja, svipta vitinu, trylla
 infatuation n. blindni, blind ást
 infeasible l. ógerlegur
 infect s. sýkja, smita; spilla, saurga, menga
-infection n. afsýking, smitun; spilling, saurgun
-infectious l. smitandi, sóttnæmur, afsýkjandi
-infective l. smitandi, sóttnæmur, afsýkjandi
-infelicitous l. ólánsamur, óhappalegur
-infelicity n. ólán, óhapp
-infer s. leiða af sér, valda; fela í sér; draga ályktun, álykta (af [from])
+infection n. sýking, smitun; spilling, saurgun
+infectious l. smitandi, sóttnæmur, sýkjandi
+infective l. smitandi, sóttnæmur, sýkjandi
+infelicitous l. ólánsamur, óhappalegur; óglaður
+infelicity n. ólán, óhapp; skortur á gleði
+infer s. álykta (af [from]), draga ályktun; leiða af sér, valda; fela í sér
 inference n. ályktun
 inferential l. sem lýtur að ályktun
 inferior l. lægri; óæðri; lakari ([of ~ quality]); [~ to one in something] sem stendur að baki e-m í e-u; n. undirmaður ([he did not deign to speak to his ~s])

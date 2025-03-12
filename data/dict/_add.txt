@@ -2058,7 +2058,7 @@ city-state n. borgríki
 rainforest n. regnskógur
 yoghurt n. jógúrt
 billionaire n. milljarðamæringur, auðkýfingur, auðjöfur
-multimillionaire n. milljónamæringur, auðkýfingur, auð
+multimillionaire n. milljónamæringur, auðkýfingur, auðjöfur
 cheerleader n. klappstýra
 weekend n. helgi
 kindergarten n. leikskóli
@@ -6037,7 +6037,7 @@ programming n. forritun
 differential l. mismuna-; diffur- ([~ equation] diffurjafna); [~ diagnosis] mismunagreining; n. mismunadrif (búnaður svo dekk megi snúast mishratt á bíl)
 offline l. ekki tengdur, ótengdur, ónettengdur, ekki í samskiptum við umheiminn; ekki uppi, niðri (um vélræna þjóna)
 captivating l. gagntakandi, grípandi, fangandi ([a ~ performance])
-WC stytt. á [water closet], klósett
+WC n. stytt. á [water closet]; klósett, salerni
 pancreatitis n. brisbólga
 pentatonic l. fimmtóna-
 sulphate n. súlfat
@@ -6900,7 +6900,7 @@ interviewee n. viðmælandi
 pushiness n. frekja, yfirgangur
 misogynistic l. kvenhatandi, kvenhaturs-, karlrembu-
 pseudonymously ao. undir gervinafni, undir dulnefni ([he published his first novel ~])
-liger n. afkvæmi ljóns og kventígurs
+liger n. lígur (afkvæmi ljóns og kventígurs)
 attendee n. viðstaddur, þátttakandi, gestur
 proliferate s. fjölga, breiðast út, aukast, vaxa
 proliferation n. útbreiðsla, fjölgun, aukning, vöxtur
@@ -6909,8 +6909,8 @@ citizenry n. borgarar, ríkisborgarar
 brazenness n. óskammfeilni
 spikey l. sjá %[spiky]%
 articulateness n. skýrmæli
-ungrammatical l. málfræðilega rangur, ekki málfræðilega réttur
-distortionary l. skekkjandi
+ungrammatical l. málfræðilega rangur, ekki málfræðilega réttur, ómálfræðilegur
+distortionary l. skekkjandi; bjagandi
 profitability n. arðsemi, hagnaður
 payslip n. launaseðill, launayfirlit
 nostalgic l. nostalgíu-
@@ -6937,7 +6937,7 @@ cornflour n. maísmjöl
 masthead n. siglutoppur
 calmly ao. rólega; friðsamlega; á yfirvegaðan hátt
 bannister n. handrið, stigahandrið
-bollocks nft. eistu; kjaftæði, bull, vitleysa (óforml.)
+bollocks nft. eistu; bull, vitleysa, kjaftæði (óforml.)
 backstory n. baksaga, bakgrunnssaga, bakgrunnur
 awakening n. vakning; hugvakning; hugljómun; l. vaknandi
 spooky l. draugalegur, skuggalegur
@@ -6956,3 +6956,7 @@ KO n. stytt. á [knockout]; rot, rotun (í hnefaleikum, boxi)
 ETA n. stytt. á %[estimated time of arrival]; áætlaður komutími
 variability n. breytileiki; óstöðugleiki
 invariability n. óbreytileiki; stöðugleiki
+axolotl n. tálknamandra (e.k. salamandra)
+paterfamilias n. fjölskyldufaðir, ættfaðir (úr latínu)
+prof n. prófessor, kennari; stytt. á %[professor]%
+Old Nick n. fjandinn, kölski, djöfullinn
