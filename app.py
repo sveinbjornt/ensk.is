@@ -39,11 +39,8 @@ from typing import Any
 
 import re
 import aiofiles
-import asyncio
 
-from cachetools.keys import hashkey
-from collections import OrderedDict
-from functools import wraps, lru_cache
+from functools import lru_cache
 from datetime import datetime
 
 from fastapi import FastAPI, Request, HTTPException
@@ -58,30 +55,21 @@ from starlette.middleware.base import BaseHTTPMiddleware
 import orjson
 
 from db import EnskDatabase
-from util import icelandic_human_size, perc, is_ascii, sing_or_plur
+from util import icelandic_human_size, perc, is_ascii, sing_or_plur, cache_response
 from dict import read_wordlist, unpack_definition
-from info import (
-    PROJECT_NAME,
-    PROJECT_DESCRIPTION,
-    PROJECT_VERSION,
-    PROJECT_LICENSE,
-    PROJECT_EDITOR,
-    PROJECT_EMAIL,
-    PROJECT_BASE_URL,
-    PROJECT_BASE_DATA_FILENAME,
-)
+from info import PROJECT
 
 # Create app
 app = FastAPI(
-    title=PROJECT_NAME,
-    description=PROJECT_DESCRIPTION,
-    version=PROJECT_VERSION,
+    title=PROJECT.NAME,
+    description=PROJECT.DESCRIPTION,
+    version=PROJECT.VERSION,
     contact={
-        "name": PROJECT_EDITOR,
-        "email": PROJECT_EMAIL,
+        "name": PROJECT.EDITOR,
+        "email": PROJECT.EMAIL,
     },
     license_info={
-        "name": PROJECT_LICENSE,
+        "name": PROJECT.LICENSE,
     },
 )
 
@@ -127,7 +115,6 @@ class AddCustomHeaderMiddleware(BaseHTTPMiddleware):
 
     async def dispatch(self, request: Request, call_next):
         response = await call_next(request)
-        response.headers["Content-Language"] = "is, en"
         if request.url.path.startswith("/static/"):
             response.headers["Cache-Control"] = "public, max-age=86400"
         else:
@@ -165,7 +152,7 @@ def _format_item(item: dict[str, Any]) -> dict[str, Any]:
     # Replace %[word]% with link to intra-dictionary entry
     rx = re.compile(r"%\[(.+?)\]%")
     x = rx.sub(
-        rf"<strong><em><a href='{PROJECT_BASE_URL}/item/\1'>\1</a></em></strong>", x
+        rf"<strong><em><a href='{PROJECT.BASE_URL}/item/\1'>\1</a></em></strong>", x
     )
 
     # Italicize English words
@@ -178,12 +165,12 @@ def _format_item(item: dict[str, Any]) -> dict[str, Any]:
 
     # Generate URLs to audio files
     audiofn = w.replace(" ", "_")
-    audio_url_uk = f"{PROJECT_BASE_URL}/static/audio/dict/uk/{audiofn}.mp3"
-    audio_url_us = f"{PROJECT_BASE_URL}/static/audio/dict/us/{audiofn}.mp3"
+    audio_url_uk = f"{PROJECT.BASE_URL}/static/audio/dict/uk/{audiofn}.mp3"
+    audio_url_us = f"{PROJECT.BASE_URL}/static/audio/dict/us/{audiofn}.mp3"
 
     # Original dictionary page
     p = item["page_num"]
-    p_url = f"{PROJECT_BASE_URL}/page/{p}" if p > 0 else ""
+    p_url = f"{PROJECT.BASE_URL}/page/{p}" if p > 0 else ""
 
     # Create item dict
     item = {
@@ -249,71 +236,6 @@ def _cached_results(q, exact_match=False):
     return _results(q, exact_match)
 
 
-def cache_response(maxsize=None):
-    """Decorator that caches responses from FastAPI async functions with optional size limit.
-
-    Args:
-        maxsize: Maximum number of entries to keep in cache. None means unlimited.
-    """
-
-    # For direct @cache_response use (without parentheses)
-    if callable(maxsize):
-        func = maxsize
-        maxsize = None
-        cache = OrderedDict()
-        lock = asyncio.Lock()
-
-        @wraps(func)
-        async def direct_wrapper(*args, **kwargs):
-            key = hashkey(*args, **kwargs)
-
-            async with lock:
-                if key in cache:
-                    # Move the key to the end to mark it as recently used
-                    value = cache.pop(key)
-                    cache[key] = value
-                    return value
-
-                # Key not in cache, call the function
-                result = await func(*args, **kwargs)  # type: ignore
-                cache[key] = result
-                return result
-
-        return direct_wrapper
-
-    # For @cache_response(100) use with parameters
-    def decorator(func):
-        cache = OrderedDict()
-        lock = asyncio.Lock()
-
-        @wraps(func)
-        async def wrapper(*args, **kwargs):
-            key = hashkey(*args, **kwargs)
-
-            async with lock:
-                if key in cache:
-                    # Move the key to the end to mark it as recently used
-                    value = cache.pop(key)
-                    cache[key] = value
-                    return value
-
-                # Key not in cache, call the function
-                result = await func(*args, **kwargs)
-                cache[key] = result
-
-                # If we've exceeded the maxsize, remove least recently used item
-                if maxsize is not None and len(cache) > maxsize:
-                    cache.popitem(
-                        last=False
-                    )  # Remove the first item (least recently used)
-
-                return result
-
-        return wrapper
-
-    return decorator
-
-
 @app.exception_handler(404)
 def not_found_exception_handler(request: Request, exc: HTTPException):
     return TemplateResponse("404.html", {"request": request}, status_code=404)
@@ -328,7 +250,7 @@ async def index(request: Request):
         "index.html",
         {
             "request": request,
-            "title": f"{PROJECT_NAME} - {PROJECT_DESCRIPTION}",
+            "title": f"{PROJECT.NAME} - {PROJECT.DESCRIPTION}",
         },
     )
 
@@ -358,7 +280,7 @@ async def search(request: Request, q: str):
         "result.html",
         {
             "request": request,
-            "title": f"Niðurstöður fyrir „{q}“ - {PROJECT_NAME}",
+            "title": f"Niðurstöður fyrir „{q}“ - {PROJECT.NAME}",
             "q": q,
             "results": results,
             "exact": exact,
@@ -403,7 +325,7 @@ async def item(request: Request, w):
         "item.html",
         {
             "request": request,
-            "title": f"{w} - {PROJECT_NAME}",
+            "title": f"{w} - {PROJECT.NAME}",
             "q": w,
             "results": results,
             "word": w,
@@ -430,7 +352,7 @@ async def page(request: Request, n):
         "page.html",
         {
             "request": request,
-            "title": f"Zoëga bls. {n} - {PROJECT_NAME}",
+            "title": f"Zoëga bls. {n} - {PROJECT.NAME}",
             "n": n,
             "npad": f"{pad:03}",
         },
@@ -444,13 +366,13 @@ async def files(request: Request):
     """Page containing download links to data files."""
 
     sqlite_size = icelandic_human_size(
-        f"static/files/{PROJECT_BASE_DATA_FILENAME}.db.zip"
+        f"static/files/{PROJECT.BASE_DATA_FILENAME}.db.zip"
     )
     csv_size = icelandic_human_size(
-        f"static/files/{PROJECT_BASE_DATA_FILENAME}.csv.zip"
+        f"static/files/{PROJECT.BASE_DATA_FILENAME}.csv.zip"
     )
     text_size = icelandic_human_size(
-        f"static/files/{PROJECT_BASE_DATA_FILENAME}.txt.zip"
+        f"static/files/{PROJECT.BASE_DATA_FILENAME}.txt.zip"
     )
 
     date_object = datetime.fromisoformat(metadata.get("generation_date", ""))
@@ -460,7 +382,7 @@ async def files(request: Request):
         "files.html",
         {
             "request": request,
-            "title": f"Gögn - {PROJECT_NAME}",
+            "title": f"Gögn - {PROJECT.NAME}",
             "sqlite_size": sqlite_size,
             "csv_size": csv_size,
             "text_size": text_size,
@@ -478,7 +400,7 @@ async def about(request: Request):
         "about.html",
         {
             "request": request,
-            "title": f"Um - {PROJECT_NAME}",
+            "title": f"Um - {PROJECT.NAME}",
             "num_entries": num_entries,
             "num_additions": num_additions,
             "entries_singular": sing_or_plur(num_entries),
@@ -497,7 +419,7 @@ async def zoega(request: Request):
         "zoega.html",
         {
             "request": request,
-            "title": f"Orðabók Geirs T. Zoëga - {PROJECT_NAME}",
+            "title": f"Orðabók Geirs T. Zoëga - {PROJECT.NAME}",
             "num_additions": num_additions,
         },
     )
@@ -527,7 +449,7 @@ async def english(request: Request):
         "english.html",
         {
             "request": request,
-            "title": f"{PROJECT_NAME} - Free and open English-Icelandic dictionary",
+            "title": f"{PROJECT.NAME} - {PROJECT.DESCRIPTION}",
             "num_entries": num_entries,
             "num_additions": num_additions,
             "entries_singular": num_entries,
@@ -546,7 +468,7 @@ async def all(request: Request):
         "all.html",
         {
             "request": request,
-            "title": f"Öll orðin - {PROJECT_NAME}",
+            "title": f"Öll orðin - {PROJECT.NAME}",
             "num_words": len(all_words),
             "words": all_words,
         },
@@ -564,7 +486,7 @@ async def cat(request: Request, category: str):
         "cat.html",
         {
             "request": request,
-            "title": f"Öll orð í flokknum {category} - {PROJECT_NAME}",
+            "title": f"Öll orð í flokknum {category} - {PROJECT.NAME}",
             "words": words,
             "category": category,
         },
@@ -581,7 +503,7 @@ async def capitalized(request: Request):
         "capitalized.html",
         {
             "request": request,
-            "title": f"Hástafir - {PROJECT_NAME}",
+            "title": f"Hástafir - {PROJECT.NAME}",
             "num_capitalized": len(capitalized),
             "capitalized": capitalized,
         },
@@ -598,7 +520,7 @@ async def original(request: Request):
         "original.html",
         {
             "request": request,
-            "title": f"Upprunaleg orð - {PROJECT_NAME}",
+            "title": f"Upprunaleg orð - {PROJECT.NAME}",
             "num_original": len(original),
             "original": original,
         },
@@ -614,7 +536,7 @@ async def nonascii_route(request: Request):
         "nonascii.html",
         {
             "request": request,
-            "title": f"Ekki ASCII - {PROJECT_NAME}",
+            "title": f"Ekki ASCII - {PROJECT.NAME}",
             "num_nonascii": len(nonascii),
             "nonascii": nonascii,
         },
@@ -630,7 +552,7 @@ async def multiword_route(request: Request):
         "multiword.html",
         {
             "request": request,
-            "title": f"Fleiri en eitt orð - {PROJECT_NAME}",
+            "title": f"Fleiri en eitt orð - {PROJECT.NAME}",
             "num_multiword": len(multiword),
             "multiword": multiword,
         },
@@ -647,7 +569,7 @@ async def duplicates(request: Request):
         "duplicates.html",
         {
             "request": request,
-            "title": f"Samstæður - {PROJECT_NAME}",
+            "title": f"Samstæður - {PROJECT.NAME}",
             "num_duplicates": len(duplicates),
             "duplicates": duplicates,
         },
@@ -663,7 +585,7 @@ async def additions_page(request: Request):
         "additions.html",
         {
             "request": request,
-            "title": f"Viðbætur - {PROJECT_NAME}",
+            "title": f"Viðbætur - {PROJECT.NAME}",
             "additions": additions,
             "num_additions": num_additions,
             "additions_percentage": perc(num_additions, num_entries),
@@ -695,7 +617,7 @@ async def stats(request: Request):
         "stats.html",
         {
             "request": request,
-            "title": f"Tölfræði - {PROJECT_NAME}",
+            "title": f"Tölfræði - {PROJECT.NAME}",
             "num_entries": num_entries,
             "num_additions": num_additions,
             "perc_additions": perc(num_additions, num_entries),

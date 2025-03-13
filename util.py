@@ -36,13 +36,18 @@ Various utility functions.
 
 """
 
-from pathlib import Path
 from typing import Union
 
 import os
+import asyncio
+from pathlib import Path
 import zipfile
 import shutil
 from os.path import exists
+from cachetools.keys import hashkey
+from collections import OrderedDict
+from functools import wraps
+
 
 import orjson as json
 
@@ -154,3 +159,68 @@ def silently_remove(path: str) -> None:
             os.remove(path)
     except Exception:
         pass
+
+
+def cache_response(maxsize=None):
+    """Decorator that caches responses from FastAPI async functions with optional size limit.
+
+    Args:
+        maxsize: Maximum number of entries to keep in cache. None means unlimited.
+    """
+
+    # For direct @cache_response use (without parentheses)
+    if callable(maxsize):
+        func = maxsize
+        maxsize = None
+        cache = OrderedDict()
+        lock = asyncio.Lock()
+
+        @wraps(func)
+        async def direct_wrapper(*args, **kwargs):
+            key = hashkey(*args, **kwargs)
+
+            async with lock:
+                if key in cache:
+                    # Move the key to the end to mark it as recently used
+                    value = cache.pop(key)
+                    cache[key] = value
+                    return value
+
+                # Key not in cache, call the function
+                result = await func(*args, **kwargs)  # type: ignore
+                cache[key] = result
+                return result
+
+        return direct_wrapper
+
+    # For @cache_response(100) use with parameters
+    def decorator(func):
+        cache = OrderedDict()
+        lock = asyncio.Lock()
+
+        @wraps(func)
+        async def wrapper(*args, **kwargs):
+            key = hashkey(*args, **kwargs)
+
+            async with lock:
+                if key in cache:
+                    # Move the key to the end to mark it as recently used
+                    value = cache.pop(key)
+                    cache[key] = value
+                    return value
+
+                # Key not in cache, call the function
+                result = await func(*args, **kwargs)
+                cache[key] = result
+
+                # If we've exceeded the maxsize, remove least recently used item
+                if maxsize is not None and len(cache) > maxsize:
+                    cache.popitem(
+                        last=False
+                    )  # Remove the first item (least recently used)
+
+                return result
+
+        return wrapper
+
+    return decorator

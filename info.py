@@ -36,13 +36,18 @@ Shared information and constants for the Ensk.is project
 
 """
 
-# Basic project information
-PROJECT_NAME = "Ensk.is"
-PROJECT_DESCRIPTION = "Opin og frjáls ensk-íslensk orðabók"
-PROJECT_VERSION = "1.0"
-PROJECT_LICENSE = "Public domain"
-PROJECT_EDITOR = "Sveinbjorn Thordarson"
-PROJECT_EMAIL = "sveinbjorn@sveinbjorn.org"
-PROJECT_BASE_URL = "https://ensk.is"
-PROJECT_BASE_DATA_FILENAME = "ensk.is"
-PROJECT_STATIC_FILES_PATH = "static/files/"
+import dataclasses
+from enum import StrEnum
+
+
+class PROJECT(StrEnum):
+    NAME = "Ensk.is"
+    DESCRIPTION = "Opin og frjáls ensk-íslensk orðabók"
+    VERSION = "1.0"
+    LICENSE = "Public domain"
+    EDITOR = "Sveinbjorn Thordarson"
+    EMAIL = "sveinbjorn@sveinbjorn.org"
+    BASE_URL = "https://ensk.is"
+    BASE_DATA_FILENAME = "ensk.is"
+    STATIC_FILES_PATH = "static/files/"
+    REPO_URL = "https://github.com/sveinbjornt/ensk.is"
