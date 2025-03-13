@@ -3,7 +3,7 @@
 
 Ensk.is - Free and open English-Icelandic dictionary
 
-Copyright (c) 2021-2025 Sveinbjorn Thordarson <sveinbjorn@sveinbjorn.org>
+Copyright (c) 2025 Sveinbjorn Thordarson <sveinbjorn@sveinbjorn.org>
 
 Redistribution and use in source and binary forms, with or without modification,
 are permitted provided that the following conditions are met:
@@ -157,37 +157,3 @@ def test_api_routes() -> None:
         assert isinstance(json, list)
         assert len(json) == 1
         assert isinstance(json[0], str)
-
-
-# NB: This test needs to run after all the other tests and
-# should be kept at the bottom of the source file.
-# def test_db() -> None:
-#     """Test database wrapper."""
-#     # We only run these tests in CI environment
-#     if not in_ci_env():
-#         return
-
-#     from db import EnskDatabase
-
-# # Delete any pre-existing database file
-# delete_db()
-
-# # Reinstantiate DB wrapper
-# e = EnskDatabase().reinstantiate()
-
-# # The database is initially empty, so we should get no results
-# entries = e.read_all_entries()
-# assert len(entries) == 0
-# entries = e.read_all_additions()
-# assert len(entries) == 0
-# # entries = e.read_all_duplicates()
-# # assert len(entries) == 0
-
-# # Add an entry
-# e.add_entry("cat", "n. köttur", "", "", 0)
-
-# # Make sure there's only a single entry now
-# entries = e.read_all_entries()
-# assert len(entries) == 1
-# entries = e.read_all_additions()
-# assert len(entries) == 1
