@@ -46,7 +46,8 @@ console/
 fonts/
 
 # Virtual environments
-venv/
+venv/**
+venv
 p3*/
 p7*/
 cpython*/
@@ -86,3 +87,5 @@ texts/*.txt
 missing_words.txt
 venv
 p312/**
+p312*
+p312
