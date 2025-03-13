@@ -31,7 +31,7 @@ ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGE.
 
 
-FastAPI web application
+FastAPI web application.
 
 """
 
@@ -60,28 +60,28 @@ import orjson
 from db import EnskDatabase
 from util import icelandic_human_size, perc, is_ascii, sing_or_plur
 from dict import read_wordlist, unpack_definition
-from gen import BASE_DATA_FILENAME
-
-# Website settings
-WEBSITE_NAME = "Ensk.is"
-WEBSITE_DESCRIPTION = "Opin og frjáls ensk-íslensk orðabók"
-WEBSITE_VERSION = "1.0"
-WEBSITE_LICENSE = "Public domain"
-WEBSITE_EDITOR = "Sveinbjorn Thordarson"
-WEBSITE_EMAIL = "sveinbjorn@sveinbjorn.org"
-WEBSITE_BASE_URL = "https://ensk.is"
+from info import (
+    PROJECT_NAME,
+    PROJECT_DESCRIPTION,
+    PROJECT_VERSION,
+    PROJECT_LICENSE,
+    PROJECT_EDITOR,
+    PROJECT_EMAIL,
+    PROJECT_BASE_URL,
+    PROJECT_BASE_DATA_FILENAME,
+)
 
 # Create app
 app = FastAPI(
-    title=WEBSITE_NAME,
-    description=WEBSITE_DESCRIPTION,
-    version=WEBSITE_VERSION,
+    title=PROJECT_NAME,
+    description=PROJECT_DESCRIPTION,
+    version=PROJECT_VERSION,
     contact={
-        "name": WEBSITE_EDITOR,
-        "email": WEBSITE_EMAIL,
+        "name": PROJECT_EDITOR,
+        "email": PROJECT_EMAIL,
     },
     license_info={
-        "name": WEBSITE_LICENSE,
+        "name": PROJECT_LICENSE,
     },
 )
 
@@ -165,7 +165,7 @@ def _format_item(item: dict[str, Any]) -> dict[str, Any]:
     # Replace %[word]% with link to intra-dictionary entry
     rx = re.compile(r"%\[(.+?)\]%")
     x = rx.sub(
-        rf"<strong><em><a href='{WEBSITE_BASE_URL}/item/\1'>\1</a></em></strong>", x
+        rf"<strong><em><a href='{PROJECT_BASE_URL}/item/\1'>\1</a></em></strong>", x
     )
 
     # Italicize English words
@@ -178,12 +178,12 @@ def _format_item(item: dict[str, Any]) -> dict[str, Any]:
 
     # Generate URLs to audio files
     audiofn = w.replace(" ", "_")
-    audio_url_uk = f"{WEBSITE_BASE_URL}/static/audio/dict/uk/{audiofn}.mp3"
-    audio_url_us = f"{WEBSITE_BASE_URL}/static/audio/dict/us/{audiofn}.mp3"
+    audio_url_uk = f"{PROJECT_BASE_URL}/static/audio/dict/uk/{audiofn}.mp3"
+    audio_url_us = f"{PROJECT_BASE_URL}/static/audio/dict/us/{audiofn}.mp3"
 
     # Original dictionary page
     p = item["page_num"]
-    p_url = f"{WEBSITE_BASE_URL}/page/{p}" if p > 0 else ""
+    p_url = f"{PROJECT_BASE_URL}/page/{p}" if p > 0 else ""
 
     # Create item dict
     item = {
@@ -328,7 +328,7 @@ async def index(request: Request):
         "index.html",
         {
             "request": request,
-            "title": f"{WEBSITE_NAME} - {WEBSITE_DESCRIPTION}",
+            "title": f"{PROJECT_NAME} - {PROJECT_DESCRIPTION}",
         },
     )
 
@@ -358,7 +358,7 @@ async def search(request: Request, q: str):
         "result.html",
         {
             "request": request,
-            "title": f"Niðurstöður fyrir „{q}“ - {WEBSITE_NAME}",
+            "title": f"Niðurstöður fyrir „{q}“ - {PROJECT_NAME}",
             "q": q,
             "results": results,
             "exact": exact,
@@ -403,7 +403,7 @@ async def item(request: Request, w):
         "item.html",
         {
             "request": request,
-            "title": f"{w} - {WEBSITE_NAME}",
+            "title": f"{w} - {PROJECT_NAME}",
             "q": w,
             "results": results,
             "word": w,
@@ -430,7 +430,7 @@ async def page(request: Request, n):
         "page.html",
         {
             "request": request,
-            "title": f"Zoëga bls. {n} - {WEBSITE_NAME}",
+            "title": f"Zoëga bls. {n} - {PROJECT_NAME}",
             "n": n,
             "npad": f"{pad:03}",
         },
@@ -443,9 +443,15 @@ async def page(request: Request, n):
 async def files(request: Request):
     """Page containing download links to data files."""
 
-    sqlite_size = icelandic_human_size(f"static/files/{BASE_DATA_FILENAME}.db.zip")
-    csv_size = icelandic_human_size(f"static/files/{BASE_DATA_FILENAME}.csv.zip")
-    text_size = icelandic_human_size(f"static/files/{BASE_DATA_FILENAME}.txt.zip")
+    sqlite_size = icelandic_human_size(
+        f"static/files/{PROJECT_BASE_DATA_FILENAME}.db.zip"
+    )
+    csv_size = icelandic_human_size(
+        f"static/files/{PROJECT_BASE_DATA_FILENAME}.csv.zip"
+    )
+    text_size = icelandic_human_size(
+        f"static/files/{PROJECT_BASE_DATA_FILENAME}.txt.zip"
+    )
 
     date_object = datetime.fromisoformat(metadata.get("generation_date", ""))
     formatted_date = date_object.strftime("%d/%m/%Y")
@@ -454,7 +460,7 @@ async def files(request: Request):
         "files.html",
         {
             "request": request,
-            "title": f"Gögn - {WEBSITE_NAME}",
+            "title": f"Gögn - {PROJECT_NAME}",
             "sqlite_size": sqlite_size,
             "csv_size": csv_size,
             "text_size": text_size,
@@ -472,7 +478,7 @@ async def about(request: Request):
         "about.html",
         {
             "request": request,
-            "title": f"Um - {WEBSITE_NAME}",
+            "title": f"Um - {PROJECT_NAME}",
             "num_entries": num_entries,
             "num_additions": num_additions,
             "entries_singular": sing_or_plur(num_entries),
@@ -491,7 +497,7 @@ async def zoega(request: Request):
         "zoega.html",
         {
             "request": request,
-            "title": f"Orðabók Geirs T. Zoëga - {WEBSITE_NAME}",
+            "title": f"Orðabók Geirs T. Zoëga - {PROJECT_NAME}",
             "num_additions": num_additions,
         },
     )
@@ -521,7 +527,7 @@ async def english(request: Request):
         "english.html",
         {
             "request": request,
-            "title": f"{WEBSITE_NAME} - Free and open English-Icelandic dictionary",
+            "title": f"{PROJECT_NAME} - Free and open English-Icelandic dictionary",
             "num_entries": num_entries,
             "num_additions": num_additions,
             "entries_singular": num_entries,
@@ -540,7 +546,7 @@ async def all(request: Request):
         "all.html",
         {
             "request": request,
-            "title": f"Öll orðin - {WEBSITE_NAME}",
+            "title": f"Öll orðin - {PROJECT_NAME}",
             "num_words": len(all_words),
             "words": all_words,
         },
@@ -558,7 +564,7 @@ async def cat(request: Request, category: str):
         "cat.html",
         {
             "request": request,
-            "title": f"Öll orð í flokknum {category} - {WEBSITE_NAME}",
+            "title": f"Öll orð í flokknum {category} - {PROJECT_NAME}",
             "words": words,
             "category": category,
         },
@@ -575,7 +581,7 @@ async def capitalized(request: Request):
         "capitalized.html",
         {
             "request": request,
-            "title": f"Hástafir - {WEBSITE_NAME}",
+            "title": f"Hástafir - {PROJECT_NAME}",
             "num_capitalized": len(capitalized),
             "capitalized": capitalized,
         },
@@ -592,7 +598,7 @@ async def original(request: Request):
         "original.html",
         {
             "request": request,
-            "title": f"Upprunaleg orð - {WEBSITE_NAME}",
+            "title": f"Upprunaleg orð - {PROJECT_NAME}",
             "num_original": len(original),
             "original": original,
         },
@@ -608,7 +614,7 @@ async def nonascii_route(request: Request):
         "nonascii.html",
         {
             "request": request,
-            "title": f"Ekki ASCII - {WEBSITE_NAME}",
+            "title": f"Ekki ASCII - {PROJECT_NAME}",
             "num_nonascii": len(nonascii),
             "nonascii": nonascii,
         },
@@ -624,7 +630,7 @@ async def multiword_route(request: Request):
         "multiword.html",
         {
             "request": request,
-            "title": f"Fleiri en eitt orð - {WEBSITE_NAME}",
+            "title": f"Fleiri en eitt orð - {PROJECT_NAME}",
             "num_multiword": len(multiword),
             "multiword": multiword,
         },
@@ -641,7 +647,7 @@ async def duplicates(request: Request):
         "duplicates.html",
         {
             "request": request,
-            "title": f"Samstæður - {WEBSITE_NAME}",
+            "title": f"Samstæður - {PROJECT_NAME}",
             "num_duplicates": len(duplicates),
             "duplicates": duplicates,
         },
@@ -657,7 +663,7 @@ async def additions_page(request: Request):
         "additions.html",
         {
             "request": request,
-            "title": f"Viðbætur - {WEBSITE_NAME}",
+            "title": f"Viðbætur - {PROJECT_NAME}",
             "additions": additions,
             "num_additions": num_additions,
             "additions_percentage": perc(num_additions, num_entries),
@@ -689,7 +695,7 @@ async def stats(request: Request):
         "stats.html",
         {
             "request": request,
-            "title": f"Tölfræði - {WEBSITE_NAME}",
+            "title": f"Tölfræði - {PROJECT_NAME}",
             "num_entries": num_entries,
             "num_additions": num_additions,
             "perc_additions": perc(num_additions, num_entries),

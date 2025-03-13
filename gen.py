@@ -49,7 +49,7 @@ import sqlite_utils
 from dict import read_pages, parse_line, page_for_word
 from db import EnskDatabase, DB_FILENAME
 from util import zip_file, read_json, silently_remove
-
+from info import PROJECT_BASE_DATA_FILENAME, PROJECT_STATIC_FILES_PATH
 
 EntryType = tuple[str, str, str, str, int]
 EntryList = list[EntryType]
@@ -57,9 +57,6 @@ EntryList = list[EntryType]
 
 ENWORD_TO_IPA_UK = read_json("data/ipa/uk/en2ipa.json")
 ENWORD_TO_IPA_US = read_json("data/ipa/us/en2ipa.json")
-
-STATIC_FILES_PATH = "static/files/"
-BASE_DATA_FILENAME = "ensk.is"
 
 
 def ipa4entry(s: str, lang="uk") -> str | None:
@@ -157,7 +154,7 @@ def generate_database(entries: EntryList) -> str:
     db = optimize_db()
 
     # Zip it
-    zipfn = f"{STATIC_FILES_PATH}{BASE_DATA_FILENAME}.db.zip"
+    zipfn = f"{PROJECT_STATIC_FILES_PATH}{PROJECT_BASE_DATA_FILENAME}.db.zip"
     zip_file(DB_FILENAME, zipfn)
 
     return zipfn
@@ -181,10 +178,10 @@ def generate_csv(entries: EntryList, unlink_csv: bool = False) -> str:
 
     # Change to static files dir
     old_cwd = os.getcwd()
-    os.chdir(STATIC_FILES_PATH)
+    os.chdir(PROJECT_STATIC_FILES_PATH)
 
     # Write the CSV and zip it
-    filename = f"{BASE_DATA_FILENAME}.csv"
+    filename = f"{PROJECT_BASE_DATA_FILENAME}.csv"
     with open(filename, "w") as csvfile:
         csvwriter = csv.writer(csvfile)
         csvwriter.writerow(fields)
@@ -196,7 +193,7 @@ def generate_csv(entries: EntryList, unlink_csv: bool = False) -> str:
     # silently_remove(filename)
     os.chdir(old_cwd)
 
-    return f"{STATIC_FILES_PATH}{zipfn}"
+    return f"{PROJECT_STATIC_FILES_PATH}{zipfn}"
 
 
 def generate_text(entries: EntryList) -> str:
@@ -204,13 +201,13 @@ def generate_text(entries: EntryList) -> str:
 
     # Change to static files dir
     old_cwd = os.getcwd()
-    os.chdir(STATIC_FILES_PATH)
+    os.chdir(PROJECT_STATIC_FILES_PATH)
 
     # Generate full dictionary text
     txt = "\n".join([f"{e[0]} {e[1]}" for e in entries]).strip()
 
     # Write to file and zip it
-    filename = f"{BASE_DATA_FILENAME}.txt"
+    filename = f"{PROJECT_BASE_DATA_FILENAME}.txt"
     with open(filename, "w") as file:
         file.write(txt)
     zipfn = f"{filename}.zip"
@@ -220,7 +217,7 @@ def generate_text(entries: EntryList) -> str:
     silently_remove(filename)
     os.chdir(old_cwd)
 
-    return f"{STATIC_FILES_PATH}{zipfn}"
+    return f"{PROJECT_STATIC_FILES_PATH}{zipfn}"
 
 
 def generate_pdf(entries: EntryList) -> str:
@@ -228,20 +225,22 @@ def generate_pdf(entries: EntryList) -> str:
     raise NotImplementedError
 
 
-def generate_apple_dictionary(entries: EntryList) -> str:
+def generate_apple_dictionary(entries: EntryList, unlink_intermediates=True) -> str:
     """Generate Apple Dictionary file. Return file path."""
 
     # Delete any pre-existing Apple Dictionary files
-    silently_remove(f"{STATIC_FILES_PATH}{BASE_DATA_FILENAME}.apple")
-    silently_remove(f"{STATIC_FILES_PATH}{BASE_DATA_FILENAME}.dictionary")
+    silently_remove(f"{PROJECT_STATIC_FILES_PATH}{PROJECT_BASE_DATA_FILENAME}.apple")
+    silently_remove(
+        f"{PROJECT_STATIC_FILES_PATH}{PROJECT_BASE_DATA_FILENAME}.dictionary"
+    )
 
     print("Running pyglossary conversion to Apple Dictionary...")
     process = subprocess.Popen(
         [
             "pyglossary",
-            "static/files/{BASE_NAME}.csv",
+            f"{PROJECT_STATIC_FILES_PATH}/{PROJECT_BASE_DATA_FILENAME}.csv",
             "--read-format=Csv",
-            "static/files/{BASE_NAME}.apple",
+            f"{PROJECT_STATIC_FILES_PATH}/{PROJECT_BASE_DATA_FILENAME}.apple",
         ],
         stdout=subprocess.PIPE,
         stderr=subprocess.STDOUT,
@@ -261,7 +260,7 @@ def generate_apple_dictionary(entries: EntryList) -> str:
     old_cwd = os.getcwd()
 
     # Change to the apple dictionary directory
-    apple_dict_dir = f"{STATIC_FILES_PATH}{BASE_DATA_FILENAME}.apple"
+    apple_dict_dir = f"{PROJECT_STATIC_FILES_PATH}{PROJECT_BASE_DATA_FILENAME}.apple"
     os.chdir(apple_dict_dir)
     print(f"Changed directory to: {os.getcwd()}")
 
@@ -282,22 +281,32 @@ def generate_apple_dictionary(entries: EntryList) -> str:
 
     os.chdir("..")  # Back to STATIC_FILES_PATH
     shutil.copytree(
-        f"{BASE_DATA_FILENAME}.apple/objects/ensk_is_apple.dictionary",
-        f"{BASE_DATA_FILENAME}.dictionary",
+        f"{PROJECT_BASE_DATA_FILENAME}.apple/objects/ensk_is_apple.dictionary",
+        f"{PROJECT_BASE_DATA_FILENAME}.dictionary",
     )
 
     # Zip the dictionary
-    zip_file(f"{BASE_DATA_FILENAME}.dictionary", f"{BASE_DATA_FILENAME}.dictionary.zip")
+    zip_file(
+        f"{PROJECT_BASE_DATA_FILENAME}.dictionary",
+        f"{PROJECT_BASE_DATA_FILENAME}.dictionary.zip",
+    )
+
+    if unlink_intermediates:
+        shutil.rmtree(f"{PROJECT_BASE_DATA_FILENAME}.apple")
+        shutil.rmtree(f"{PROJECT_BASE_DATA_FILENAME}.dictionary")
 
     os.chdir(old_cwd)
 
-    return f"{STATIC_FILES_PATH}{BASE_DATA_FILENAME}.dictionary.zip"
+    return f"{PROJECT_STATIC_FILES_PATH}{PROJECT_BASE_DATA_FILENAME}.dictionary.zip"
 
 
 def main() -> None:
     print("Reading entries...")
     entries = read_all_entries()
     print(f"{len(entries)} entries read")
+
+    print("Generating text")
+    generate_text(entries)
 
     print("Generating CSV")
     generate_csv(entries, unlink_csv=True)
@@ -309,12 +318,6 @@ def main() -> None:
 
     print("Generating SQLite3 database")
     generate_database(entries)
-
-    print("Generating CSV")
-    generate_csv(entries)
-
-    print("Generating text")
-    generate_text(entries)
 
     # print("Generating PDF")
     # generate_pdf(entries)
