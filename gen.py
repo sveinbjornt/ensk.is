@@ -38,14 +38,17 @@ Generate SQLite database + other files from raw dictionary text files.
 """
 
 import os
+import sys
 import csv
+import shutil
 import datetime
+import subprocess
 
 import sqlite_utils
 
 from dict import read_pages, parse_line, page_for_word
 from db import EnskDatabase, DB_FILENAME
-from util import zip_file, read_json
+from util import zip_file, read_json, silently_remove
 
 
 EntryType = tuple[str, str, str, str, int]
@@ -56,6 +59,7 @@ ENWORD_TO_IPA_UK = read_json("data/ipa/uk/en2ipa.json")
 ENWORD_TO_IPA_US = read_json("data/ipa/us/en2ipa.json")
 
 STATIC_FILES_PATH = "static/files/"
+BASE_DATA_FILENAME = "ensk.is"
 
 
 def ipa4entry(s: str, lang="uk") -> str | None:
@@ -109,10 +113,7 @@ def read_all_entries() -> EntryList:
 
 def delete_db() -> None:
     """Delete any pre-existing SQLite database file."""
-    try:
-        os.remove(DB_FILENAME)
-    except Exception:
-        pass
+    silently_remove(DB_FILENAME)
 
 
 def add_entries_to_db(entries: EntryList) -> EnskDatabase:
@@ -156,7 +157,7 @@ def generate_database(entries: EntryList) -> str:
     db = optimize_db()
 
     # Zip it
-    zipfn = f"{STATIC_FILES_PATH}ensk_dict.db.zip"
+    zipfn = f"{STATIC_FILES_PATH}{BASE_DATA_FILENAME}.db.zip"
     zip_file(DB_FILENAME, zipfn)
 
     return zipfn
@@ -174,7 +175,7 @@ def optimize_db() -> EnskDatabase:
     return db
 
 
-def generate_csv(entries: EntryList) -> str:
+def generate_csv(entries: EntryList, unlink_csv: bool = False) -> str:
     """Generate zipped CSV file. Return file path."""
     fields = ["word", "definition", "ipa", "page_num"]
 
@@ -183,7 +184,7 @@ def generate_csv(entries: EntryList) -> str:
     os.chdir(STATIC_FILES_PATH)
 
     # Write the CSV and zip it
-    filename = "ensk_dict.csv"
+    filename = f"{BASE_DATA_FILENAME}.csv"
     with open(filename, "w") as csvfile:
         csvwriter = csv.writer(csvfile)
         csvwriter.writerow(fields)
@@ -192,7 +193,7 @@ def generate_csv(entries: EntryList) -> str:
     zip_file(filename, zipfn)
 
     # Restore previous CWD
-    os.remove(filename)
+    # silently_remove(filename)
     os.chdir(old_cwd)
 
     return f"{STATIC_FILES_PATH}{zipfn}"
@@ -209,14 +210,14 @@ def generate_text(entries: EntryList) -> str:
     txt = "\n".join([f"{e[0]} {e[1]}" for e in entries]).strip()
 
     # Write to file and zip it
-    filename = "ensk_dict.txt"
+    filename = f"{BASE_DATA_FILENAME}.txt"
     with open(filename, "w") as file:
         file.write(txt)
     zipfn = f"{filename}.zip"
     zip_file(filename, zipfn)
 
     # Restore previous CWD
-    os.remove(filename)
+    silently_remove(filename)
     os.chdir(old_cwd)
 
     return f"{STATIC_FILES_PATH}{zipfn}"
@@ -227,10 +228,84 @@ def generate_pdf(entries: EntryList) -> str:
     raise NotImplementedError
 
 
+def generate_apple_dictionary(entries: EntryList) -> str:
+    """Generate Apple Dictionary file. Return file path."""
+
+    # Delete any pre-existing Apple Dictionary files
+    silently_remove(f"{STATIC_FILES_PATH}{BASE_DATA_FILENAME}.apple")
+    silently_remove(f"{STATIC_FILES_PATH}{BASE_DATA_FILENAME}.dictionary")
+
+    print("Running pyglossary conversion to Apple Dictionary...")
+    process = subprocess.Popen(
+        [
+            "pyglossary",
+            "static/files/{BASE_NAME}.csv",
+            "--read-format=Csv",
+            "static/files/{BASE_NAME}.apple",
+        ],
+        stdout=subprocess.PIPE,
+        stderr=subprocess.STDOUT,
+        text=True,
+        bufsize=1,
+    )
+
+    # Print output as it comes
+    for line in process.stdout:  # type: ignore
+        print(line, end="")
+
+    process.wait()
+    if process.returncode != 0:
+        print(f"pyglossary command failed with return code {process.returncode}")
+        sys.exit(process.returncode)
+
+    old_cwd = os.getcwd()
+
+    # Change to the apple dictionary directory
+    apple_dict_dir = f"{STATIC_FILES_PATH}{BASE_DATA_FILENAME}.apple"
+    os.chdir(apple_dict_dir)
+    print(f"Changed directory to: {os.getcwd()}")
+
+    # Run make and stream output
+    print("Running make...")
+    process = subprocess.Popen(
+        ["make"], stdout=subprocess.PIPE, stderr=subprocess.STDOUT, text=True, bufsize=1
+    )
+
+    # Print output as it comes
+    for line in process.stdout:  # type: ignore
+        print(line, end="")
+
+    process.wait()
+    if process.returncode != 0:
+        print(f"make command failed with return code {process.returncode}")
+        sys.exit(process.returncode)
+
+    os.chdir("..")  # Back to STATIC_FILES_PATH
+    shutil.copytree(
+        f"{BASE_DATA_FILENAME}.apple/objects/ensk_is_apple.dictionary",
+        f"{BASE_DATA_FILENAME}.dictionary",
+    )
+
+    # Zip the dictionary
+    zip_file(f"{BASE_DATA_FILENAME}.dictionary", f"{BASE_DATA_FILENAME}.dictionary.zip")
+
+    os.chdir(old_cwd)
+
+    return f"{STATIC_FILES_PATH}{BASE_DATA_FILENAME}.dictionary.zip"
+
+
 def main() -> None:
     print("Reading entries...")
     entries = read_all_entries()
     print(f"{len(entries)} entries read")
+
+    print("Generating CSV")
+    generate_csv(entries, unlink_csv=True)
+
+    # print("Generating Apple Dictionary")
+    # generate_apple_dictionary(entries)
+
+    # exit(0)
 
     print("Generating SQLite3 database")
     generate_database(entries)

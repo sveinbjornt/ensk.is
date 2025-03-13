@@ -36,10 +36,12 @@ Various utility functions.
 
 """
 
+from pathlib import Path
 from typing import Union
 
 import os
 import zipfile
+import shutil
 from os.path import exists
 
 import orjson as json
@@ -65,9 +67,32 @@ def read_wordlist(fn: str, unique: bool = True) -> list[str]:
 
 
 def read_json(inpath: str) -> dict[str, str]:
-    """Read and parse json file."""
+    """Read and parse json file. Assumes dict (object)."""
     with open(inpath, "r") as f:
         return json.loads(f.read())
+
+
+def archive_directory(directory_path: str) -> str:
+    """Create a zip archive of a directory."""
+    # Get the absolute path to ensure correct directory handling
+    abs_path = os.path.abspath(directory_path)
+
+    # Get parent directory and directory name
+    parent_dir = os.path.dirname(abs_path)
+    dir_name = os.path.basename(abs_path)
+
+    # Set the base name for the archive (will be the output filename without extension)
+    base_name = os.path.join(os.path.dirname(abs_path), dir_name)
+
+    # Create the archive
+    archive_path = shutil.make_archive(
+        base_name=base_name,  # Output name (without extension)
+        format="zip",  # Archive format
+        root_dir=parent_dir,  # The root directory to start archiving from
+        base_dir=dir_name,  # The directory to archive (relative to root_dir)
+    )
+
+    return archive_path
 
 
 def zip_file(inpath: str, outpath: str, overwrite: bool = True) -> None:
@@ -77,8 +102,11 @@ def zip_file(inpath: str, outpath: str, overwrite: bool = True) -> None:
             os.remove(outpath)
         else:
             raise FileExistsError(f"File {outpath} already exists")
-    with zipfile.ZipFile(outpath, "w", compression=zipfile.ZIP_DEFLATED) as zip_f:
-        zip_f.write(inpath)
+    if Path(inpath).is_dir():
+        archive_directory(inpath)
+    else:
+        with zipfile.ZipFile(outpath, "w", compression=zipfile.ZIP_DEFLATED) as zip_f:
+            zip_f.write(inpath)
 
 
 def human_size(path: str) -> str:
@@ -115,3 +143,14 @@ def is_ascii(s) -> bool:
 def sing_or_plur(s: Union[str, int]) -> bool:
     """Check if a number is singular or plural in Icelandic."""
     return str(s).endswith("1") and not str(s).endswith("11")
+
+
+def silently_remove(path: str) -> None:
+    """Silently remove file or directory."""
+    try:
+        if os.path.isdir(path):
+            shutil.rmtree(path)
+        else:
+            os.remove(path)
+    except Exception:
+        pass
