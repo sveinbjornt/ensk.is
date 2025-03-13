@@ -1099,7 +1099,7 @@ sleaze n. viðbjóður, spilling, svindl, subbuskapur, ógeðfeldni
 flab n. spik, fita
 yuppie n. (óforml.) uppi, ung fagmanneskja í þéttbýli (stytt. á [young urban professional])
 visa n. vegabréfsáritun, áritun, dvalarleyfi ([my ~ has expired])
-viral l. veiru-
+viral l. veiru-; [go ~] breiðast út hratt
 technique n. aðferð, tækni; [parenting ~s] uppeldisaðferðir
 threesome n. þremenningur, trekantur
 vitamin n. vítamín, fjörefni
@@ -6953,7 +6953,7 @@ peephole n. gægjugat
 IPA n. stytt. á [India Pale Ale], öltegund; stytt. á [International Phonetic Alphabet], alþjóðlega hljóðritunarstafrófið
 slavishness n. þrælslund
 KO n. stytt. á [knockout]; rot, rotun (í hnefaleikum, boxi)
-ETA n. stytt. á %[estimated time of arrival]; áætlaður komutími
+ETA n. stytt. á [estimated time of arrival]; áætlaður komutími
 variability n. breytileiki; óstöðugleiki
 invariability n. óbreytileiki; stöðugleiki
 axolotl n. tálknamandra (e.k. salamandra)
@@ -6961,3 +6961,10 @@ paterfamilias n. fjölskyldufaðir, faðir fjölskyldunnar, ættfaðir (úr lat�
 prof n. prófessor, kennari; stytt. á %[professor]%
 Old Nick n. fjandinn, kölski, djöfullinn
 premorbid l. forsýkis-
+cribhouse n. vændishús, hóruhús
+bamboozled l. gabbaður, prettaður, sem hefur verið svindlað á
+onomatopoeic l. hljóðgervingar-
+virology n. veirufræði
+virologist n. veirufræðingur, veirusérfræðingur
+virological l. veirufræðilegur, veirufræði-
+Occitan n. oksítanska, okkitíska (rómanskt tungumál)
