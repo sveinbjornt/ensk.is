@@ -56,7 +56,6 @@ def in_ci_env() -> bool:
 
 client = TestClient(app)
 
-
 PAGE_ROUTES = [
     "/",
     "/about",
@@ -72,11 +71,15 @@ PAGE_ROUTES = [
     "/original",
     "/duplicates",
     "/capitalized",
+    "/multiword",
     "/nonascii",
     "/stats",
     "/robots.txt",
     "/sitemap.xml",
     "/favicon.ico",
+    "/cat/ao",
+    "/cat/fn",
+    "/search?q=quick",
 ]
 
 

@@ -35,11 +35,17 @@ Tests for ensk.is utility functions.
 """
 
 import os
+import sys
 import shutil
 import tempfile
 import zipfile
 
-import util
+# Add parent dir to path so we can import from there
+basepath, _ = os.path.split(os.path.realpath(__file__))
+src_path = os.path.join(basepath, "..")
+sys.path.append(src_path)
+
+import util  # noqa: E402
 
 
 def test_is_ascii() -> None:
