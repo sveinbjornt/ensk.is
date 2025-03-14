@@ -4242,7 +4242,7 @@ Taoism n. taóismi, daóismi (kínversk heimspeki og trúarbrögð)
 Taoist n. taóisti, daóisti
 Caledonia n. Kaledónía (fornrómverskt heiti yfir Skotland)
 Caledonian l. kaledónískur; n. Kaledóníumaður (sjá %[Caledonia]%)
-Adriatic n. Adríahaf (hafið milli Ítalíu- og Balkanskaga); l. adríatískur
+Adriatic n. [the ~] Adríahaf (hafið milli Ítalíu- og Balkanskaga); l. adríatískur, við Adríahaf, Adríahafs-
 warmonger n. stríðsæsingamaður
 vulva n. kvensköp
 claustrophobia n. innilokunarfælni, öngfælni; innilokunarkennd
@@ -6968,3 +6968,8 @@ virology n. veirufræði
 virologist n. veirufræðingur, veirusérfræðingur
 virological l. veirufræðilegur, veirufræði-
 Occitan n. oksítanska, okkitíska (rómanskt tungumál)
+Cold War n. [the ~] kalda stríðið
+Cod Wars nft. þorskastríðin
+language model n. mállíkan
+LLM n. stórt mállíkan, risamállíkan (stytt. á %[large language model]%)
+Eden n. [Garden of ~] aldingarðurinn Eden (í Biblíunni)
