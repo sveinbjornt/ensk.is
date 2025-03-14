@@ -160,7 +160,7 @@ def silently_remove(path: str) -> None:
         pass
 
 
-def cache_response(maxsize: int | None = None):
+def cache_response(maxsize=None):
     """Decorator that caches responses from FastAPI async functions with optional size limit.
 
     Args:

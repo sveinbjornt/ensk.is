@@ -137,7 +137,7 @@ class EnskDatabase(object):
         ipa_uk: str,
         ipa_us: str,
         page_num: int,
-        commit=False,  # Whether to commit changes to database immediately
+        commit: bool = False,  # Whether to commit changes to database immediately
     ) -> None:
         """Add a single entry to the dictionary."""
         conn = self.conn()

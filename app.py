@@ -232,7 +232,7 @@ def _results(q: str, exact_match: bool = False) -> tuple[list, bool]:
 
 
 @lru_cache(maxsize=SEARCH_CACHE_SIZE)
-def _cached_results(q, exact_match: bool = False):
+def _cached_results(q: str, exact_match: bool = False):
     return _results(q, exact_match)
 
 
@@ -266,7 +266,7 @@ async def search(request: Request, q: str):
 
     results, exact = _cached_results(q)
 
-    async def _save_missing_word(word: str):
+    async def _save_missing_word(word: str) -> None:
         """Save word to missing words list."""
         async with aiofiles.open("missing_words.txt", "a+") as file:
             await file.write(f"{word}\n")

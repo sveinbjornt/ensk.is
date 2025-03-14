@@ -142,7 +142,7 @@ def startswith_category(s: str) -> tuple[str, int] | None:
     return None
 
 
-def unpack_definition(s: str) -> dict:
+def unpack_definition(s: str) -> dict[str, list[str]]:
     """Unpack a definition string into a dictionary of categories
     mapped to a list of words in that category."""
     comp = s.split(";")
