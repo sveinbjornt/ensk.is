@@ -77,7 +77,7 @@ def strip_words_in_square_brackets(s: str) -> str:
     return sn
 
 
-def check_punctuation(line: str, pn, ln: int):
+def check_punctuation(line: str, pn: str, ln: int):
     """Ensure that punctuation is used correctly in entry."""
     if line.strip() == "":
         warn("empty line", pn, ln)
@@ -119,7 +119,7 @@ def check_punctuation(line: str, pn, ln: int):
     #         warn("short segment", pn, ln)
 
 
-def check_spacing(line: str, pn, ln: int):
+def check_spacing(line: str, pn: str, ln: int):
     """Look for malformed whitespace in entry."""
     if "\t" in line:
         warn("tab character", pn, ln)
@@ -127,7 +127,7 @@ def check_spacing(line: str, pn, ln: int):
         warn("double spaces", pn, ln)
 
 
-def check_category(line: str, pn, ln: int):
+def check_category(line: str, pn: str, ln: int):
     """Make sure word has a category."""
     hascat = False
     hasdupcat = False
@@ -146,7 +146,7 @@ def check_category(line: str, pn, ln: int):
         warn("no category for word", pn, ln)
 
 
-def check_bracket_use(line: str, pn, ln: int):
+def check_bracket_use(line: str, pn: str, ln: int):
     """Make sure that brackets are used correctly."""
     lc = strip_words_in_square_brackets(line)
 
@@ -154,7 +154,7 @@ def check_bracket_use(line: str, pn, ln: int):
         warn("~ char outside brackets", pn, ln)
 
 
-def check_intradict_refs(line: str, pn, ln: int):
+def check_intradict_refs(line: str, pn: str, ln: int):
     """Make sure all intra-dictionary references exist."""
     if "%[" not in line:
         return
@@ -165,7 +165,7 @@ def check_intradict_refs(line: str, pn, ln: int):
             warn(f"Intra-dictionary reference to non-existent word {w}", pn, ln)
 
 
-def check_enword_def(line: str, pn, ln: int):
+def check_enword_def(line: str, pn: str, ln: int):
     """Check that English word is valid."""
     (entry, _) = parse_line(line)
     e = entry.strip()
@@ -191,7 +191,7 @@ def check_enword_def(line: str, pn, ln: int):
                 warn(f"'{entry}' not in English word list", pn, ln)
 
 
-def check_icelandic_words(line: str, pn, ln: int):
+def check_icelandic_words(line: str, pn: str, ln: int):
     """Inspect all Icelandic words in definition, make sure that
     they are present in modern Icelandic vocabulary (BÍN)."""
     from islenska import Bin

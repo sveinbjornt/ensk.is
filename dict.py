@@ -81,7 +81,7 @@ def read_raw_pages(fn: str | None = None) -> dict[str, list]:
     return result
 
 
-def read_pages(fn: str | None = None) -> list[str]:
+def read_pages() -> list[str]:
     """Read all text files in the data/dict directory,
     return as single list of all lines."""
 
@@ -105,7 +105,7 @@ def read_all_words() -> list[str]:
     return words
 
 
-def parse_line(s: str) -> tuple:
+def parse_line(s: str) -> tuple[str, str]:
     """Parse a single line entry into its constitutent parts
     i.e. word and definition strings, and return as tuple."""
     comp = s.split()

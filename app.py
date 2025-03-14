@@ -55,9 +55,9 @@ from starlette.middleware.base import BaseHTTPMiddleware
 import orjson
 
 from db import EnskDatabase
-from util import icelandic_human_size, perc, is_ascii, sing_or_plur, cache_response
 from dict import read_wordlist, unpack_definition
 from info import PROJECT
+from util import icelandic_human_size, perc, is_ascii, sing_or_plur, cache_response
 
 # Create app
 app = FastAPI(
@@ -232,7 +232,7 @@ def _results(q: str, exact_match: bool = False) -> tuple[list, bool]:
 
 
 @lru_cache(maxsize=SEARCH_CACHE_SIZE)
-def _cached_results(q, exact_match=False):
+def _cached_results(q, exact_match: bool = False):
     return _results(q, exact_match)
 
 
@@ -308,7 +308,7 @@ CAT_TO_NAME = {
 @app.get("/item/{w}", include_in_schema=False)  # type: ignore
 @app.head("/item/{w}", include_in_schema=False)  # type: ignore
 @cache_response(SEARCH_CACHE_SIZE)
-async def item(request: Request, w):
+async def item(request: Request, w: str):
     """Return page for a single dictionary word definition."""
 
     results, _ = _cached_results(w, exact_match=True)
@@ -337,23 +337,23 @@ async def item(request: Request, w):
 @app.get("/page/{n}", include_in_schema=False)  # type: ignore
 @app.head("/page/{n}", include_in_schema=False)  # type: ignore
 @cache_response(SMALL_CACHE_SIZE)
-async def page(request: Request, n):
+async def page(request: Request, n: str):
     """Return page for a single dictionary page image."""
     try:
-        n = int(n)
+        page_num = int(n)
     except ValueError:
         raise HTTPException(status_code=500, detail="Invalid page number")
-    if n < 1 or n > 707:
+    if page_num < 1 or page_num > 707:
         raise HTTPException(status_code=404, detail="Síða fannst ekki")
 
-    pad = n - 1
+    pad = page_num - 1
 
     return TemplateResponse(
         "page.html",
         {
             "request": request,
-            "title": f"Zoëga bls. {n} - {PROJECT.NAME}",
-            "n": n,
+            "title": f"Zoëga bls. {page_num} - {PROJECT.NAME}",
+            "n": page_num,
             "npad": f"{pad:03}",
         },
     )

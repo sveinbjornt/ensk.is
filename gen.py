@@ -59,7 +59,7 @@ ENWORD_TO_IPA_UK = read_json("data/ipa/uk/en2ipa.json")
 ENWORD_TO_IPA_US = read_json("data/ipa/us/en2ipa.json")
 
 
-def ipa4entry(s: str, lang="uk") -> str | None:
+def ipa4entry(s: str, lang: str = "uk") -> str | None:
     """Look up International Phonetic Alphabet spelling for word."""
     assert lang in ["uk", "us"]
     if lang == "uk":
@@ -225,7 +225,9 @@ def generate_pdf(entries: EntryList) -> str:
     raise NotImplementedError
 
 
-def generate_apple_dictionary(entries: EntryList, unlink_intermediates=True) -> str:
+def generate_apple_dictionary(
+    entries: EntryList, unlink_intermediates: bool = True
+) -> str:
     """Generate Apple Dictionary file. Return file path."""
 
     # Delete any pre-existing Apple Dictionary files

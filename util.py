@@ -36,7 +36,7 @@ Various utility functions.
 
 """
 
-from typing import Union
+from typing import Any
 
 import os
 import asyncio
@@ -47,7 +47,6 @@ from os.path import exists
 from cachetools.keys import hashkey
 from collections import OrderedDict
 from functools import wraps
-
 
 import orjson as json
 
@@ -71,7 +70,7 @@ def read_wordlist(fn: str, unique: bool = True) -> list[str]:
     return list(set(words)) if unique else words
 
 
-def read_json(inpath: str) -> dict[str, str]:
+def read_json(inpath: str) -> dict[str, Any]:
     """Read and parse json file. Assumes dict (object)."""
     with open(inpath, "r") as f:
         return json.loads(f.read())
@@ -132,20 +131,20 @@ def icelandic_human_size(path: str) -> str:
     return s.replace(".", ",")
 
 
-def perc(a, b, icelandic=False) -> str:
+def perc(a: int | float, b: int | float, icelandic: bool = False) -> str:
     """Calculate percentage of a/b and return as string."""
-    s = f"{100 * a / b:.1f}%"
+    s = f"{(100 * (a / b)):.1f}%"
     if icelandic:
         return s.replace(".", ",")  # Icelandic decimal separator
     return s
 
 
-def is_ascii(s) -> bool:
+def is_ascii(s: str) -> bool:
     """Check if string is ASCII"""
     return all(ord(c) < 128 for c in s)
 
 
-def sing_or_plur(s: Union[str, int]) -> bool:
+def sing_or_plur(s: str | int) -> bool:
     """Check if a number is singular or plural in Icelandic."""
     return str(s).endswith("1") and not str(s).endswith("11")
 
@@ -161,7 +160,7 @@ def silently_remove(path: str) -> None:
         pass
 
 
-def cache_response(maxsize=None):
+def cache_response(maxsize: int | None = None):
     """Decorator that caches responses from FastAPI async functions with optional size limit.
 
     Args:

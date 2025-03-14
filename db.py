@@ -52,11 +52,11 @@ CACHE_SIZE_KB = 1024 * 32  # 32 MB
 class EnskDatabase(object):
     _instance = None
 
-    def __init__(self, read_only=False):
+    def __init__(self, read_only: bool = False):
         self.db_conn = None
         self.read_only = read_only
 
-    def __new__(cls, read_only=False):
+    def __new__(cls, read_only: bool = False):
         """Singleton pattern."""
         if cls._instance is None:
             logging.info("Instantiating database")
@@ -99,7 +99,7 @@ class EnskDatabase(object):
         """
         conn.cursor().execute(create_metadata_table_sql)
 
-    def reinstantiate(self, read_only=False) -> "EnskDatabase":
+    def reinstantiate(self, read_only: bool = False) -> "EnskDatabase":
         """Reinstantiate database."""
         EnskDatabase._instance = None
         return EnskDatabase.__new__(EnskDatabase, read_only=read_only)
@@ -200,7 +200,7 @@ class EnskDatabase(object):
         )
         return self._consume(selected)
 
-    def read_all_without_ipa(self, lang="uk") -> list[dict]:
+    def read_all_without_ipa(self, lang: str = "uk") -> list[dict]:
         """Read and return all entries without IPA."""
         assert lang in ["uk", "us"]
         ipa_col = "ipa_uk" if lang == "uk" else "ipa_us"
@@ -234,9 +234,8 @@ class EnskDatabase(object):
         )
         return self._consume(selected)
 
-    def read_all_in_wordcat(self, cat=None) -> list[dict]:
+    def read_all_in_wordcat(self, cat: str) -> list[dict]:
         """Read all entries in a given word category."""
-        assert cat is not None
 
         # Return empty list if category is not valid
         if cat + "." not in CATEGORIES:
