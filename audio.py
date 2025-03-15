@@ -47,10 +47,9 @@ _SPEECHSYNTH_CLT = "/usr/bin/say"  # Requires macOS
 assert exists(_SPEECHSYNTH_CLT), "macOS speech synthesizer not found"
 
 
-def synthesize_word(w: str, dest_folder=None, voice="Daniel") -> str | None:
+def synthesize_word(w: str, dest_folder: str, voice: str = "Daniel") -> str | None:
     """Generate a speech-synthesised AIFF audio file from word.
     Returns path to output file. Only works on macOS."""
-    assert dest_folder is not None
     assert voice in ["Daniel", "Alex"]  # Daniel for UK English, Alex for US English
 
     subfolder = "uk" if voice == "Daniel" else "us"

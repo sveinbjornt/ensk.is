@@ -51,6 +51,7 @@ from db import EnskDatabase, DB_FILENAME
 from util import zip_file, read_json, silently_remove
 from info import PROJECT
 
+
 EntryType = tuple[str, str, str, str, int]
 EntryList = list[EntryType]
 
@@ -59,7 +60,7 @@ ENWORD_TO_IPA_UK = read_json("data/ipa/uk/en2ipa.json")
 ENWORD_TO_IPA_US = read_json("data/ipa/us/en2ipa.json")
 
 
-def ipa4entry(s: str, lang="uk") -> str | None:
+def ipa4entry(s: str, lang: str = "uk") -> str | None:
     """Look up International Phonetic Alphabet spelling for word."""
     assert lang in ["uk", "us"]
     if lang == "uk":
@@ -108,23 +109,31 @@ def read_all_entries() -> EntryList:
     return entries
 
 
+def generate_database(entries: EntryList) -> str:
+    """Generate SQLite database and create a corresponding zip archive.
+    Returns path to zip file."""
+
+    # Remove pre-existing database file
+    delete_db()
+
+    # Create new db and add data
+    add_metadata_to_db()
+    add_entries_to_db(entries)
+    optimize_db()
+
+    # Zip it
+    zipfn = f"{PROJECT.STATIC_FILES_PATH}{PROJECT.BASE_DATA_FILENAME}.db.zip"
+    zip_file(DB_FILENAME, zipfn)
+
+    return zipfn
+
+
 def delete_db() -> None:
     """Delete any pre-existing SQLite database file."""
     silently_remove(DB_FILENAME)
 
 
-def add_entries_to_db(entries: EntryList) -> EnskDatabase:
-    """Insert all entries into database."""
-    db = EnskDatabase()
-    for e in entries:
-        db.add_entry(*e)
-
-    db.conn().commit()
-
-    return db
-
-
-def add_metadata_to_db() -> EnskDatabase:
+def add_metadata_to_db() -> None:
     """Add metadata to database."""
     db = EnskDatabase()
     db.add_metadata("name", PROJECT.NAME)
@@ -135,46 +144,36 @@ def add_metadata_to_db() -> EnskDatabase:
     db.add_metadata("editor", PROJECT.EDITOR)
     db.add_metadata("editor_email", PROJECT.EMAIL)
     db.add_metadata("generation_date", datetime.datetime.now(datetime.UTC).isoformat())
-    return db
 
 
-def generate_database(entries: EntryList) -> str:
-    """Generate SQLite database and create a corresponding zip archive.
-    Returns path to zip file."""
-
-    # Remove pre-existing database file
-    delete_db()
-
-    # Create new db and add data
-    db = add_metadata_to_db()
-    db = add_entries_to_db(entries)
-    sqlite_utils.Database(db.db_conn).table("dictionary").enable_fts(
-        ("word", "definition")
-    )
-    db = optimize_db()
-
-    # Zip it
-    zipfn = f"{PROJECT.STATIC_FILES_PATH}{PROJECT.BASE_DATA_FILENAME}.db.zip"
-    zip_file(DB_FILENAME, zipfn)
-
-    return zipfn
-
-
-def optimize_db() -> EnskDatabase:
-    """Optimize database."""
+def add_entries_to_db(entries: EntryList) -> None:
+    """Insert all entries into database."""
     db = EnskDatabase()
-    db.conn().cursor().execute(
-        "CREATE INDEX idx_word ON dictionary(word COLLATE NOCASE)"
-    )
-    db.conn().cursor().execute("ANALYZE;")
-    db.conn().cursor().execute("VACUUM;")
+    for e in entries:
+        db.add_entry(*e)
+
     db.conn().commit()
-    return db
+
+
+def optimize_db() -> None:
+    """Optimize database."""
+    conn = EnskDatabase().conn()
+
+    # Enable full-text search indexing
+    sqlite_utils.Database(conn).table("dictionary").enable_fts(("word", "definition"))
+
+    # Create index on word column
+    conn.cursor().execute("CREATE INDEX idx_word ON dictionary(word COLLATE NOCASE)")
+
+    # Analyze and vacuum
+    conn.cursor().execute("ANALYZE;")
+    conn.cursor().execute("VACUUM;")
+    conn.commit()
 
 
 def generate_csv(entries: EntryList, unlink_csv: bool = False) -> str:
     """Generate zipped CSV file. Return file path."""
-    fields = ["word", "definition", "ipa", "page_num"]
+    fields = ["word", "definition", "ipa_uk", "ipa_us", "page_num"]
 
     # Change to static files dir
     old_cwd = os.getcwd()
@@ -189,8 +188,10 @@ def generate_csv(entries: EntryList, unlink_csv: bool = False) -> str:
     zipfn = f"{filename}.zip"
     zip_file(filename, zipfn)
 
+    if unlink_csv:
+        silently_remove(filename)
+
     # Restore previous CWD
-    # silently_remove(filename)
     os.chdir(old_cwd)
 
     return f"{PROJECT.STATIC_FILES_PATH}{zipfn}"
@@ -225,7 +226,9 @@ def generate_pdf(entries: EntryList) -> str:
     raise NotImplementedError
 
 
-def generate_apple_dictionary(entries: EntryList, unlink_intermediates=True) -> str:
+def generate_apple_dictionary(
+    entries: EntryList, unlink_intermediates: bool = True
+) -> str:
     """Generate Apple Dictionary file. Return file path."""
 
     # Delete any pre-existing Apple Dictionary files

@@ -60,7 +60,6 @@ dict_words = [e["word"].lower() for e in res]
 # Missing list
 missing = read_wordlist("missing.txt")
 
-
 wds = read_wordlist(WORDLIST_PATH)
 
 for t in wds:

@@ -10,11 +10,9 @@ import re
 
 from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize
-
 from nltk.stem import WordNetLemmatizer
 
 from db import EnskDatabase
-
 from util import read_wordlist
 
 lemmatizer = WordNetLemmatizer()

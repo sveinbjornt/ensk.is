@@ -6971,5 +6971,5 @@ Occitan n. oksítanska, okkitíska (rómanskt tungumál)
 Cold War n. [the ~] kalda stríðið
 Cod Wars nft. þorskastríðin
 language model n. mállíkan
-LLM n. stórt mállíkan, risamállíkan (stytt. á %[large language model]%)
+LLM n. stórt mállíkan, risamállíkan (stytt. á [large language model])
 Eden n. [Garden of ~] aldingarðurinn Eden (í Biblíunni)

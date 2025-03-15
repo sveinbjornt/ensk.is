@@ -36,7 +36,6 @@ Shared information and constants for the Ensk.is project
 
 """
 
-import dataclasses
 from enum import StrEnum
 
 

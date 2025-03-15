@@ -5,14 +5,12 @@ import random
 
 import requests
 
-# from db import EnskDatabase
+from util import read_wordlist
 
 
 def main() -> int:
     # Read all lines from missing.txt
-    with open("missing.txt", "r") as f:
-        words = f.readlines()
-
+    words = read_wordlist("missing.txt")
     random.shuffle(words)
 
     for w in words:
