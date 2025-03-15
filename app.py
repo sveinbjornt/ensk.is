@@ -238,7 +238,11 @@ def _cached_results(q: str, exact_match: bool = False):
 
 @app.exception_handler(404)
 def not_found_exception_handler(request: Request, exc: HTTPException):
-    return TemplateResponse("404.html", {"request": request}, status_code=404)
+    return TemplateResponse(
+        "404.html",
+        {"request": request, "title": "404 - Síða fannst ekki"},
+        status_code=404,
+    )
 
 
 @app.get("/", include_in_schema=False)
