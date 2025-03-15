@@ -304,10 +304,118 @@ def generate_apple_dictionary(
     return f"{PROJECT.STATIC_FILES_PATH}{PROJECT.BASE_DATA_FILENAME}.dictionary.zip"
 
 
+from reportlab.lib.pagesizes import A4
+from reportlab.platypus import BaseDocTemplate, PageTemplate, Frame, Paragraph, Spacer, FrameBreak
+from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
+from reportlab.lib.units import cm
+import string
+from reportlab.pdfbase import pdfmetrics
+from reportlab.pdfbase.ttfonts import TTFont
+
+def create_dictionary_pdf(dictionary_data, output_file, columns=2):
+
+    pdfmetrics.registerFont(TTFont("EBGaramond", "fonts/EBGaramond.ttf"))
+    # pdfmetrics.registerFont(TTFont("EBGaramond-Bold", "fonts/EBGaramond-Bold.ttf"))
+
+    # Set up document
+    page_width, page_height = A4
+    margin = 2 * cm
+
+    # Calculate column layout
+    col_width = (page_width - 2*margin - (columns-1)*0.5*cm) / columns
+    col_height = page_height - 2*margin
+    
+    # Create frames for each column (one frame per column)
+    frames = []
+    for i in range(columns):
+        x = margin + i * (col_width + 0.5*cm)
+        frame = Frame(x, margin, col_width, col_height, leftPadding=0, bottomPadding=0, 
+                      rightPadding=0, topPadding=0, id=f'col{i}')
+        frames.append(frame)
+    
+    # Create document template with frames
+    doc = BaseDocTemplate(output_file, pagesize=A4)
+    template = PageTemplate(id='columns', frames=frames)
+    doc.addPageTemplates(template)
+    
+    # Define styles
+    styles = getSampleStyleSheet()
+    
+    # Title style
+    title_style = ParagraphStyle(
+        'title',
+        parent=styles['Heading1'],
+        fontSize=16,
+        alignment=1,  # Center
+        spaceAfter=20
+    )
+    
+    # Section style for letters
+    section_style = ParagraphStyle(
+        'section',
+        parent=styles['Heading2'],
+        fontSize=14,
+        spaceBefore=10,
+        spaceAfter=5
+    )
+    
+    # Entry style
+    entry_style = ParagraphStyle(
+        'entry',
+        parent=styles['Normal'],
+        leading=12,  # Tighter line spacing
+        spaceBefore=4,
+        spaceAfter=0,
+        firstLineIndent=-0*cm,  # Hanging indent
+        leftIndent=0*cm,
+        fontName="EBGaramond"
+    )
+    
+    # Create content
+    content = []
+    
+    # Add title to the first column
+    content.append(Paragraph("English-Icelandic Dictionary", title_style))
+    
+    # Group entries by first letter
+    grouped_entries = {}
+    for english, icelandic in dictionary_data.items():
+        first_letter = english[0].upper()
+        if first_letter not in grouped_entries:
+            grouped_entries[first_letter] = []
+        grouped_entries[first_letter].append((english, icelandic))
+    
+    # Process each letter
+    for letter in string.ascii_uppercase:
+        if letter in grouped_entries:
+            # Add letter header
+            content.append(Paragraph(letter, section_style))
+            
+            # Add entries
+            for english, icelandic in grouped_entries[letter]:
+                # Format like a real dictionary: bold headword followed by definition
+                entry_text = f"<b>{english}</b> {icelandic}"
+                content.append(Paragraph(entry_text, entry_style))
+    
+    # Build document
+    doc.build(content)
+
+
+
 def main() -> None:
     print("Reading entries...")
     entries = read_all_entries()
     print(f"{len(entries)} entries read")
+
+    dictionary = {
+        e[0]: e[1] for e in entries
+    }
+
+    # dictionary = dictionary[:1000]
+
+    create_dictionary_pdf(dictionary, "english_icelandic_dictionary.pdf", columns=3)
+
+    exit(0)
 
     print("Generating text")
     generate_text(entries)
