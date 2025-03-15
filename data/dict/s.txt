@@ -620,7 +620,7 @@ seller n. seljandi
 selvage n. jaðar (á voð)
 selvedge n. jaðar (á voð)
 semblance n. líking; mynd; útlit; [there was still a ~ of justice] eitthvað, sem líktist réttlæti; [to bear ~ to] líkjast
-semi- fsk. hálf-, hálfpartinn
+semi- fsk. hálf-, hálfpartinn (sjá t.d. %[semicircle]%, %[semilunar]%)
 semi-annual l. sem gerist á hverju misseri, misseris-
 semi-circle n. hálfhringur
 semicircular l. hálfkringlóttur

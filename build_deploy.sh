@@ -11,6 +11,8 @@ python audio.py
 --exclude ".git" \
 --exclude "venv" \
 --exclude "p312" \
+--exclude "__pycache__" \
+--exclude "*.pyc" \
 --delete \
 -av "." \
 root@ensk.is:/www/ensk.is/html/

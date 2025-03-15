@@ -66,7 +66,6 @@ for e in no_ipa:
     if " " in e or e in SKIP or not is_ascii(e):
         continue
 
-    # print(f"Checking {e}")
     try:
         out = subprocess.check_output(["ruby", "ipa-cambridge.rb", e])
         out = out.decode().strip()
