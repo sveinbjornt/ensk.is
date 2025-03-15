@@ -948,7 +948,7 @@ clangor n. gjall, brak, gnýr ([~ of arms])
 clangorous l. gjallandi
 clank n. hringl, gnýr; s. (láta) hringla; smella
 clannish l. ættflokkslegur, ættar-; sbr. %[clan]%
-clap s. skella (hurð); slá; smella ([~ duty on goods]); klappa saman lófum ([~ one's hands]); klappa (t.d. [on the shoulders]); snara (e-m í fangelsi [in prison]); [~ on all sails] setja upp öll segl; [~ up a bargain] gera kaup í skyndi; [~ eyes on] koma auga á e-ð; n. lófaklapp; skellur, smellur; þrumudynur ([~ of thunder])
+clap s. skella (hurð); slá; smella ([~ duty on goods]); klappa saman lófum ([~ one's hands]); klappa (t.d. [on the shoulders]); snara (e-m í fangelsi [in prison]); [~ on all sails] setja upp öll segl; [~ up a bargain] gera kaup í skyndi; [~ eyes on] koma auga á e-ð; n. lófaklapp; skellur, smellur; þrumudynur ([~ of thunder]); lekandi (kynsjúkdómur)
 clapper n. kólfur í klukku; rella; tunga í málóðum manni; [she let her ~ run] það óð á henni
 clapperclaw s. klóra; skamma
 claquer n. leiguklappari (í leikhúsi)
@@ -1755,7 +1755,7 @@ congenital l. meðfæddur; [~ disease] meðfæddur sjúkdómur
 conger n. hafáll
 congeries n. samsafn
 congest s. safnast fyrir
-congestion n. samhrúgun; blóðsókn
+congestion n. samhrúgun; stíflun; blóðsókn
 congestive l. sem veldur blóðsókn
 conglobate s. sameina (í kúlu)
 conglobe s. sameina (í kúlu)

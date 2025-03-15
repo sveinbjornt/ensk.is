@@ -5064,7 +5064,7 @@ modestly ao. hæversklega, á hæverskan eða siðprúðan hátt, af siðprýði
 triumphantly ao. sigri hrósandi, á sigursælan hátt
 riff-raff n. ruslaralýður, skríll, illþýði, pakk
 per se ao. sem slíkur, út af fyrir sig (úr latínu)
-hashish n. hass
+hashish n. hass (verkað kannabis)
 stoned l. grýttur; skakkur, freðinn, í kannabisvímu; undir áhrifum vímuefna
 stoner n. freðhaus, grasreykingamaður, kannabisfíkill; dópisti; grjótkastari
 pothead n. freðhaus, grasreykingamaður, kannabisfíkill
@@ -6973,3 +6973,37 @@ Cod Wars nft. þorskastríðin
 language model n. mállíkan
 LLM n. stórt mállíkan, risamállíkan (stytt. á [large language model])
 Eden n. [Garden of ~] aldingarðurinn Eden (í Biblíunni)
+achondroplasia n. brjóskdvergvöxtur, brjóskkyrkingur
+pornocracy n. skækjuveldi, vændisveldi; páfatíð á 10. öld
+whinge s. kvarta, væla; n. væl
+ascetically ao. meinlætislega, af meinlæti
+conjugate s. beygja, fallbeygja (orð)
+conjugated l. beygjður, fallbeygður (um orð)
+riverboat n. fljótabátur
+pallbearer n. kistuberi, líkmaður
+disenthrone s. steypa af stóli
+woodwind n. tréblástur, tréblásturshljóðfæri
+trolley n. sporvagn; kerra, vagn; innkaupakerra
+gainless l. án ávinnings, án gróða, án ábata
+gasket n. þétti, pakkning
+trainload n. lestarfarmur
+informed l. upplýstur
+uninformed l. óupplýstur
+misinformed l. ranglega upplýstur, býr yfir röngum eða misvísandi upplýsingum
+pitifully ao. aumkunarlega, brjóstumkennanlega
+ploy n. vélabragð, bellibragð, kænskubragð
+labia nft. skapavarir, skapabarmar
+circadian l. dægur-, sólarhrings-; [~ rhythm] dægursveifla
+colonizer n. landnemi
+pan- fsk. al- (sjá t.d. %[panorama]%, %[pandemonium]%)
+paralyzed l. lamaður, aflvana
+disruptive l. truflandi, raskandi
+backslash n. öfugt skástrik
+congested l. stíflaður; samhrúgaður
+fisherfolk n. fiskveiðifólk
+headscarf n. höfuðklútur
+vim n. hreysti, þrek, kraftur
+doorframe n. dyrakarmur
+claptrap n. rugl, bull, þvæla, kjaftæði
+songbird n. söngfugl
+microplastics nft. örplast

@@ -445,7 +445,6 @@ pinpoint
 tabloid
 crewman
 fabled
-colonizer
 groundbreaking
 catchphrase
 straightforward
@@ -496,7 +495,6 @@ reestablish
 sympathizer
 breakthrough
 kingmaker
-pan-
 unapologetic
 deadpan
 incoming
@@ -518,7 +516,6 @@ unfamiliarity
 nonexistence
 fatalistic
 famished
-paralyzed
 gunpoint
 advisement
 grassroot
@@ -618,7 +615,6 @@ reconstitution
 Jewishness
 redirect
 regroup
-disruptive
 noncombatant
 crossfire
 resurgent
@@ -1350,7 +1346,6 @@ appeaser
 Machiavellian
 anocracy
 participatory
-pallbearer
 aggrievement
 factionalize
 personalistic
@@ -1408,7 +1403,6 @@ commercialization
 artisanal
 pharaonic
 preparedness
-riverboat
 unionism
 minoritarian
 schismatism
@@ -2640,7 +2634,6 @@ life-long
 intramural
 unfriendliness
 overdone
-disenthrone
 disenthronement
 laureateship
 unshakeable
@@ -2715,7 +2708,6 @@ seducer
 premiere
 panjandrum
 glockenspiel
-woodwind
 Bacchic
 conductorship
 chiffon
@@ -2769,7 +2761,6 @@ Thatcherism
 relaunch
 flip-flop
 precarity
-trolley
 fibre-optic
 emitter
 standalone
@@ -2950,7 +2941,6 @@ gaucherie
 landrush
 periodicity
 conjunctural
-delapidation
 definitional
 skeletonization
 self-organization
@@ -3012,7 +3002,6 @@ overexpansion
 intermittence
 degenerative
 centricity
-gainless
 primitivity
 autarchist
 regulative
@@ -3205,7 +3194,6 @@ christic
 dispensationalism
 starcher
 puncher
-gasket
 typecast
 typecasting
 ebullience
@@ -3228,7 +3216,6 @@ featherweight
 showboat
 sidelock
 dequeue
-trainload
 endomorphism
 Elamite
 emollience
@@ -3236,10 +3223,6 @@ emollient (endurskoða)
 discreetly
 transponder
 luxuriously
-informed
-uninformed
-misinformed
-pitifully
 whelmed
 posting
 composting
@@ -3312,7 +3295,6 @@ multiplexing
 duplex
 duplexity
 semiduplex
-ploy
 zen
 abseil
 fugue (endurskoða) (fugue state?)
@@ -3414,7 +3396,6 @@ ding
 dyspraxia
 eidetic
 embalmer
-labia
 displaced
 recurring
 thumbtack
@@ -3453,7 +3434,6 @@ puzzled
 episodic (endurskoða)
 shuck
 geode
-circadian
 preload
 lasagna
 signage
@@ -4387,7 +4367,6 @@ harmonically
 cyberbully
 daunting
 dauntingly
-microplastics
 otolaryngologist
 crèche
 semi-conscious
@@ -4397,7 +4376,6 @@ overactive
 doubtfully
 rictus
 sinal
-gunwhale
 magister
 seepage
 recherché
@@ -4408,7 +4386,6 @@ piffle
 teapot
 compulsively
 overdramatic
-songbird
 resthouse
 glyph
 embouchure
@@ -4431,7 +4408,6 @@ conservatively
 tumbledown
 sketchpad
 crustiness
-
 sheepherder
 worksheet
 pantaloon
@@ -4486,7 +4462,6 @@ adjudicator
 hand-wrought
 decrustation
 nuncupatory
-claptrap
 swivet
 cheerfully
 uneasily
@@ -4511,7 +4486,6 @@ snifter
 gunplay
 wisecrack
 son-of-a-gun
-doorframe
 dingus
 pinochle
 eclair
@@ -4630,7 +4604,6 @@ miscommunication
 monitoring
 achiness
 premade
-vim
 gamma (endurskoða)
 reformed
 henotheism
@@ -4751,7 +4724,6 @@ roundel
 partway
 fastener
 slickstone
-headscarf
 zoomorphism
 zoomorphic
 chunky
@@ -4766,7 +4738,6 @@ warriorhood
 anamorphosis
 normativity
 folkways
-fisherfolk
 multipurpose
 triclinium
 appropriately
@@ -4795,7 +4766,6 @@ assignment (endurskoða)
 friendzone
 pyrometry
 bargaining
-congested
 lurker
 overarching
 lepidodendron
@@ -4858,8 +4828,6 @@ quiet-spoken
 stagefright
 sapphic
 teleprompter
-conjugate
-conjugated
 antitumoral
 enabler
 sellout
@@ -4911,7 +4879,6 @@ loadout
 excruciatingly
 sexualized
 menstruum
-ascetically
 sample (endurskoða)
 contretemps
 conchae
@@ -4920,7 +4887,6 @@ cantilever
 drywall
 supercruise
 idealized
-whinge
 surprised
 unsurprised
 acquitted
@@ -4974,3 +4940,16 @@ jilted
 Dravidian
 kompromat
 aeropress
+pansexuality
+hash (endurskoða, tölvunarfræðilegur skilningur)
+hashing
+conjugation (endurskoða)
+backspace
+wanted
+unwanted
+acarology
+coachable
+junker
+dated
+backsliding
+crosspoint
