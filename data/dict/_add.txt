@@ -4468,7 +4468,7 @@ egalitarian l. jafnaðar-, jafnaðarlegur, jafnréttis-; n. jafnréttis- eða ja
 egalitarianism n. jafnaðarhyggja, jafnaðarstefna, jafnréttisstefna
 google s. gúgla (fletta upp í vefleitarvél)
 priapism n. sístaða (getnaðarlims)
-data mining n. gagnagröfur, gagnanám
+data mining n. gagnagröftur, gagnanám
 corporatocracy n. stjórn stórfyrirtækja, fyrirtækjaræði
 abortifacient n. fóstureyðingarlyf, e-ð sem eyðir fóstri
 trustworthiness n. áreiðanleiki, trúðverðugleiki
@@ -6714,7 +6714,7 @@ via fs. í gegnum (úr latínu); [~ satelite] í gegnum gervitungl
 dockside l. bryggjumegin; n. svæði nálægt bryggju
 isolated l. einangraður
 mascara n. maskari
-admin n. stytt. á %[administrator]% eða %[administration]%; kerfisstjóri
+admin n. stytt. á %[administrator]% eða %[administration]%; kerfisstjóri; stjórnsýsla, kerfisvinna ([~ duties])
 bureaucratize s. innleiða skrifræði
 bureaucratization n. innleiðing skrifræðis
 septum n. skilrúm, skilveggur
@@ -7016,3 +7016,5 @@ bra n. brjóstahaldari (stytt. á %[brassiere]%)
 brassiere n. brjóstahaldari (yfirleitt %[bra]%)
 dispassion n. geðstilling, gætni; óhlutdrægni
 confusing l. ruglandi, ruglingslegur
+national treasure n. þjóðargersemi
+Ash Wednesday n. öskudagur

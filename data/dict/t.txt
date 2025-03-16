@@ -1066,10 +1066,10 @@ treacle n. síróp; s. smyrja með sírópi
 treacly l. sírópskenndur; límkenndur; hunangssætur
 tread s. stiga (á), ganga (á); troða (undir fótum); [~ the stage, the boards] sýna sig á leiksviði, leika; [~ water] troða marvaðann; [~ measure] stíga dans; [~ down] troða niður; [~ out (fire, insurrection)] bæla niður, kæfa; [~ out a path] troða götu; n. stig, spor; gangur, göngulag
 treadle n. stigfjöl; fótafjöl (á rokk o.fl.); sköft (í vefstað)
-treadmill n. mylna (sem troðin er af sakamönnum í varðhaldi)
-treason n. drottinsvik, landráð ([high ~])
-treasonable l. sviksamlegur ([~ conspiracy])
-treasonous l. sviksamlegur ([~ conspiracy])
+treadmill n. mylla (sem troðin er af sakamönnum í varðhaldi); stigmylla, göngubretti, hlaupabretti
+treason n. landráð, drottinsvik ([high ~])
+treasonable l. sviksamlegur ([~ conspiracy]), landráðs-
+treasonous l. sviksamlegur ([~ conspiracy]), landráðs-
 treasurable l. dýrmætur
 treasure n. fjársjóður; dýrgripur, gersemi; s. safna; geyma vandlega ([~ up])
 treasurer n. gjaldkeri, féhirðir

@@ -38,6 +38,7 @@ Generate a PDF version of the dictionary.
 """
 
 import re
+import string
 
 from reportlab.lib.pagesizes import A4
 from reportlab.platypus import (
@@ -46,21 +47,20 @@ from reportlab.platypus import (
     Frame,
     Paragraph,
     Spacer,
-#    FrameBreak,
     NextPageTemplate,
     PageBreak,
 )
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib.units import cm
-import string
 from reportlab.pdfbase import pdfmetrics
+from reportlab.pdfbase.pdfdoc import PDFDocument
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.pdfgen.canvas import Canvas
 
 _FONT_NAME = "Garamond"
 
 
-def _add_page_number(canvas, doc):
+def _add_page_number(canvas: Canvas, doc: PDFDocument):
     """ Custom page number function for drawing page numbers on each page. """
     # Don't add page number to the first page (cover)
     if doc.page > 1:
