@@ -714,25 +714,25 @@ titulary n. heimildarhafi; nafnbótarhafi
 to fs. til, við; fyrir, handa; (með nafnhætti) að, til þess að; [~ and fro] fram og aftur
 today ao. í dag
 tonight ao. í kvöld; í nótt
-toad n. e.k. froskur
+toad n. froskur
 toad-eater n. sníkjugestur; smjaðrari
 toadstool n. gorkúlutegund
 toady s. smjaðra; n. sjá %[toad-eater]%
 toadyism n. auðvirðilegt smjaður
-toast s. steikja á rist; hita, verma; drekka (mæla fyrir) minni e-s; n. ristuð brauðsneið; minni, skál; skálræða; [to give a ~] mæla fyrir minni (skál)
+toast s. rista, steikja á rist; hita, verma; drekka (mæla fyrir) minni e-s; n. ristuð brauðsneið; minni, skál; skálræða; [to give a ~] mæla fyrir minni (skál)
 toaster n. brauðrist, ristavél, tæki sem brauð er steikt á
 toastmaster n. skálameistari
 tobacco n. tóbak
 tobacconist n. tóbakssali
 tocsin n. viðvörunarklukka ([~ of alarm]), herklukka
 toddle s. vappa, trítla; skjögra; n. vapp, valtur gangur
-toddler n. smákrakki
+toddler n. smábarn, ungbarn, smákrakki
 toddy n. pálmavín; toddý
 toe n. tá; [the great ~] stóra táin; s. snerta (eða ná) með tánum
-toffee n. sírópssykur
-toffy n. sírópssykur
+toffee n. karamella; sírópssykur
+toffy n. karamella; sírópssykur
 together ao. saman; í senn; í einu; [for hours ~] stundum saman; [five days ~] fimm daga í röð; [~ with] ásamt, með
-toil s. strita, vinna; n. örðug vinna, strit, erfiði; veiðinet, snara
+toil s. strita, vinna; n. strit, örðug vinna, erfiði; veiðinet, snara
 toiler n. sá sem leggur á sig harða vinnu
 toilsome l. örðugur, fyrirhafnarmikill
 toilet n. salerni, klósett; búningsborð; búningur; [to make one's ~] búa sig, klæða sig
@@ -756,9 +756,9 @@ tombola n. hlutavelta, tombóla
 tomboy n. strákastelpa
 tomcat n. fress
 tomfool n. fífl
-tomfoolery n. fíflalæti
+tomfoolery n. fíflalæti, fíflaskapur
 tome n. bindi (úr stóru ritverki); stór bók
-tomorrow ao. á morgun; [~ morning] í fyrramálið
+tomorrow ao. á morgun; [~ morning] í fyrramálið; [~ evening] annað kvöld
 tomtit n. bláfugl (lítill söngfugl)
 tomtom n. indversk bumba
 ton n. tonn (1000 kíló)
@@ -768,7 +768,7 @@ tongs nft. tangir, eldtangir
 tongue n. tunga; tungumál; oddi, tangi; þorn í hringju; kólfur (í klukku); mundang ([~ of a balance]); [to hold one's ~] þegja; [he has a well oiled ~] honum er hægt um mál; s. skamma, lasta; þvaðra; beita tungunni (við hljóðfæri); reka út úr sér tunguna; plægja (borð)
 tongue-tied l. mállaus, orðlaus, hljóður
 tonguy l. málliðugur, málugur, munnhvatur
-tonic l. (tauga)styrkjandi, hressandi; n. hressingarlyf
+tonic l. (tauga)styrkjandi, hressandi; n. hressingarlyf; tónik; [gin and ~] gin og tónik
 tonnage n. rúmmál skips (í tonnum); gjald (af tonnum)
 tonsil n. hálskirtill, eitla
 tonsure n. rakstur, klipping; krúna (á munkum); s. klippa eða raka hárið af höfðinu
@@ -824,7 +824,7 @@ torridity n. ofsahiti
 torsion n. snúningur
 torsional l. snúningslegur, snúnings-
 torsk n. keila (fiskur)
-torso n. bolur eða búkur (af líkneski)
+torso n. búkur, bolur
 tortoise n. skjaldbaka
 tortuous l. snúinn, krókóttur, bugðóttur
 tortuosity n. snúningur; bugður

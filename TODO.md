@@ -1,14 +1,14 @@
 # TODO list for ensk.is
 
-* [ ] Deduplicate words in the database
+* [ ] Finish deduplicating the database
 * [ ] Add more words
 * [ ] Add more examples
 * [ ] Resolve multiple word categories
 * [ ] Fuzzy suggestions, matches ("Did you mean X, Y or Z?")
 * [ ] Fix double IPA entries for US English
-* [ ] Use paralell corpora
+* [ ] Use paralell corpora for example usage
 * [ ] Do lookup of English word cats for each entry and see if there is the appropriate correspondence
-* [ ] Write tests, extend verify.py
+* [ ] Write more tests, extend verify.py
 * [ ] Rm IPA data from the DB file made available for download
 * [ ] Find IPA phonetic spelling for *all* words via Wiktionary
 * [ ] Feedback mechanism for missing words
@@ -21,4 +21,3 @@
 * [ ] Support search for strings shorter than 3 chars, but only deliver exact results
 * [ ] Support regex search using * character
 * [ ] Show number of matching results
-* [ ] Add a "Did you mean?" feature
