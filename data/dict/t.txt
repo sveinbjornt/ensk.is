@@ -921,10 +921,10 @@ traduce s. ófrægja; rægja, lasta
 traducer n. lastari, rógberi
 traffic n. verslun; verslunarviðskipti; flutningur (fólks eða varnings á járnbrautum); umferð; s. versla, reka verslun; gera kaup; koma (varningi) út
 trafficker n. kaupmaður, verslunarmaður
-tragedian n. sorgleikaskáld
-tragedy n. sorgarleikur, harmleikur
-tragic l. sem lýtur að harmleikum; sorglegur, raunalegur
-tragical l. sem lýtur að harmleikum; sorglegur, raunalegur
+tragedian n. harmleikjaskáld
+tragedy n. sorgarleikur, harmleikur, tragedía
+tragic l. sem lýtur að harmleikjum; sorglegur, raunalegur, tragískur
+tragical l. sem lýtur að harmleikjum; sorglegur, raunalegur, tragískur
 tragicomic l. sorglegur og hlægilegur í senn
 tragicomedy n. blendingur af harmleik og gleðileik
 trail s. draga (á eftir sér); troða niður (gras); leita upp (veiðidýr); dragast (með jörðinni); n. spor; slóði; rák; innyfli (fugla og fiska)
@@ -936,16 +936,16 @@ training school n. kennaraskóli
 training ship n. æfingaskip, skólaskip
 trainless l. slóða-, hala-, sporð-, stéllaus
 train-oil n. hvallýsi, þorskalýsi
-trait n. (andlits)dráttur; einkenni, eiginleiki; [~ of character] skapeinkunn
+trait n. einkenni, eiginleiki; (andlits)dráttur; [~ of character] skapeinkunn
 traitor n. svikari, landráðamaður
 traitorism n. svikráð
 traitorous l. sviksamlegur
 traitorously ao. sviksamlega
-traitress n. svikari (um kvenmann)
+traitress n. svikari (um kvenmann), landráðakona
 traject s. hleypa (e-u) í gegn; n. ferjustaður; yfirför
 trajection n. flutningur
 trajectory n. braut, hnattbraut, kúlubraut
-tram n. kjálki á handbörum (vagni); kolavagn í námum; vagnspor
+tram n. vagn, sporvagn; kolavagn í námum; kjálki á handbörum (vagni); vagnspor
 tram car n. sporvagn
 tram road n. sporvegur
 tramway n. sporvegur

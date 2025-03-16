@@ -378,6 +378,10 @@ async def files(request: Request):
     text_size = icelandic_human_size(
         f"static/files/{PROJECT.BASE_DATA_FILENAME}.txt.zip"
     )
+    try:
+        pdf_size = icelandic_human_size(f"static/files/{PROJECT.BASE_DATA_FILENAME}.pdf")
+    except FileNotFoundError:
+        pdf_size = "ekki til"
 
     date_object = datetime.fromisoformat(metadata.get("generation_date", ""))
     formatted_date = date_object.strftime("%d/%m/%Y")
@@ -390,6 +394,7 @@ async def files(request: Request):
             "sqlite_size": sqlite_size,
             "csv_size": csv_size,
             "text_size": text_size,
+            "pdf_size": pdf_size,
             "last_updated": formatted_date,
         },
     )

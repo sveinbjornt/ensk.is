@@ -1880,7 +1880,7 @@ individualist n. einstaklingshyggjumaður, einstaklingshyggjusinni
 monarchist n. konungssinni, konungsveldissinni, einveldissinni
 monarchism n. konungsstefna, konungsveldisstefna; einveldisstefna (sjá %[absolute monarchy]%)
 absolute monarch n. einvaldur (konungur)
-absolute monarchy n. einveldi, einveldisríki, ríki þar sem konungur er einvaldur og öllu ræður
+absolute monarchy n. einveldi (konungs), einveldisríki, ríki þar sem konungur er einvaldur og öllu ræður
 ideological l. hugmyndafræðilegur, hugmyndafræði-
 ideologically ao. hugmyndafræðilega
 unideological l. óhugmyndafræðilegur
@@ -4470,7 +4470,7 @@ google s. gúgla (fletta upp í vefleitarvél)
 priapism n. sístaða (getnaðarlims)
 data mining n. gagnagröftur, gagnanám
 corporatocracy n. stjórn stórfyrirtækja, fyrirtækjaræði
-abortifacient n. fóstureyðingarlyf, e-ð sem eyðir fóstri
+abortifacient n. fóstureyðingarlyf, fóstureyðir
 trustworthiness n. áreiðanleiki, trúðverðugleiki
 untrustworthy l. óáreiðanlegur, ekki traustsins verður, óskilríkur
 radiology n. geislafræði, geislalæknisfræði
@@ -7018,3 +7018,4 @@ dispassion n. geðstilling, gætni; óhlutdrægni
 confusing l. ruglandi, ruglingslegur
 national treasure n. þjóðargersemi
 Ash Wednesday n. öskudagur
+headword n. uppflettiorð, uppsláttarorð (í orðabók)

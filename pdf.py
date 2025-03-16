@@ -229,3 +229,10 @@ def generate_pdf(dictionary_data, output_file):
 
     # Build document
     doc.build(content)
+
+
+if __name__ == "__main__":
+    # Test PDF generation
+    data = {
+    }
+    generate_pdf(data, "dictionary.pdf")
