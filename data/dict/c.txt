@@ -108,7 +108,7 @@ canalization n. skurðagerð, skurðagröftur, síkisgröftur
 canary n. kanarífugl; e.k. spánskur dans
 cancel s. aflýsa, afnema, strika út, ógilda, hætta við; útiloka, slaufa
 cancellation n. útstrikun, ógilding, aflýsing, afnám; útilokun, slaufun
-cancer n. krabbi; krabbamein
+cancer n. krabbi; krabbamein; [Cancer] Krabbinn (stjörnumerki)
 cancerate s. éta um sig; verða að krabbameini
 cancerous l. sem líkist krabbameini, krabbameins-
 cancroid l. sem líkist krabbameini, krabba-
@@ -305,7 +305,7 @@ carrier-pigeon n. bréfdúfa
 carriole n. lítill vagn; sleði (í Kanada)
 carrion n. hræ
 carrot n. gulrót
-carroty l. appelsínugulur, rauðhærður
+carroty l. appelsínugulur; rauðhærður
 carry s. bera; flytja; bera úr býtum, vinna, fá (sigur, verðlaun); vinna, taka (borg, skip); [~ oneself] bera sig, hegða sér; [~ one's point] koma vilja sinum fram; [~ conviction] sannfæra; [the horse carries] ber sig eða höfuðið vel; [~ it, ~ the day] bera hærri hlut; [~ into effect] koma e-u í framkvæmd; [~ away] fara með (e-n) í gönur; [~ off] flytja burt; kippa burt (úr heiminum); bera úr býtum; [~ on] halda (e-u) áfram; reka (verslun); heyja (strið); [~ out] framkvæma, leiða til lykta; [~ through] koma (e-u) fram
 cart n. tvíhjólaður flutningavagn; s. flytja á vagni, aka e-u
 cartage n. flutningur; flutningskaup
@@ -655,7 +655,7 @@ chauvinism n. rembingur, þjóðrembingur; [male ~] karlremba
 chauvinist n. þjóðskrumari; [male ~] karlremba
 chauvinistic l. þjóðrembings-, rembu-, rembings-
 chaw s. tyggja (sbr. %[chew]%)
-cheap l. ódýr; auðvirðilegur; lítilsvirtur; ao. ódýrt; fyrir lítið verð ([I got it ~])
+cheap l. ódýr; auðvirðilegur; ómerkilegur; lítilsvirtur; ao. ódýrt; fyrir lítið verð ([I got it ~])
 cheapen s. gera (eða verða) ódýrara; lítilsvirða
 cheapness n. ódýrleiki
 cheat s. svíkja, hafa af; gabba, ginna, leika á; eyða (tímanum); [~ at play] svíkja í spilum; n. prettur, svik; svikari
@@ -1060,7 +1060,7 @@ close s. loka ([~ the book, eyes]); gera enda á, ljúka við ([~ the accounts])
 close-bodied l. nærskorinn
 close-fisted l. nískur
 close-hauled ao. þvert upp í vindinn
-closely ao. fast, þétt; vandlega; [~ connected (with)] náskyldur
+closely ao. fast, þétt; vandlega; ná-; [~ related (to)] náskyldur; [we are ~ related] við erum náskyld
 closeness n. þéttleiki; loftleysi; molla; nákvæmni; níska
 closet n. lítið herbergi; skápur; s. loka inni í herbergi; [be ~ed with] vera á eintali við
 closing n. lokun; l. lokunar-; [~ time] lokunartími (búða); [~ chapter] lokaþáttur, síðasti kafli

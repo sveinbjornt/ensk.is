@@ -440,9 +440,9 @@ demarcate s. ákveða (takmörk eða landamæri); afmarka, aðgreina
 demarcation n. takmörkun; [line of ~] takmarkalína
 demeanour n. hegðun, háttalag
 demean s. óvirða; [~ oneself] gera lítið úr sér; óvirða sig
-dement s. gera óðan eða vitskertan
+dement s. gera óðan eða vitskertan, skerða vit
 dementation n. æði
-demented l. óður, vitskertur
+demented l. óður; vitskertur, vitsmunaskertur; heilabilaður
 demerit n. misgerð; galli, ókostur; ávirðing
 demeritorious l. lastverður, vítaverður
 demesne n. óðal, óðalseign; jarðeign; höfuðból; þjóðjörð ([state ~]); konungsjörð ([Royal ~, ~ of the crown])

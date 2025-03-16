@@ -3210,7 +3210,7 @@ emancipatory l. frelsandi (úr ánauð)
 aggressiveness n. árásargirni, árásargirnd, árásarhneigð, mannýgð
 aggressively ao. á árásargjarnan hátt, af árásargirni
 longboat n. langskip; árabátur; björgunarbátur
-Caucasian n. Kákasusmaður; manneskja sem er hvít á hörund; l. kákasískur, ættaður úr Kákasusfjöllum; hvítur á hörund
+Caucasian n. Kákasusmaður; manneskja sem er hvít á hörund (BNA); l. kákasískur, ættaður úr Kákasusfjöllum; hvítur á hörund
 carcinogen n. krabbameinsvaldur, krabbameinsvaldandi efni
 carcinogenic l. krabbameinsvaldandi
 kebab n. kebab (maríneraðir kjötbitar á teini)
@@ -5439,7 +5439,6 @@ Aquarius n. Vatnsberinn (stjörnumerki)
 Aries n. Hrúturinn (stjörnumerki)
 Taurus n. Nautið (stjörnumerki)
 Gemini n. Tvíburarnir (stjörnumerki)
-Cancer n. Krabbinn (stjörnumerki)
 Leo n. Ljónið (stjörnumerki)
 Virgo n. Meyjan (stjörnumerki)
 Libra n. Vogin (stjörnumerki)
@@ -6659,7 +6658,8 @@ debunk n. afsanna, hrekja ([~ this nonsensical theory])
 debunking n. afsönnun, hrakning
 shantytown n. kofaborg
 neonatal l. nýbura-
-allergic l. ofnæmis- ([~ reaction]); með ofnæmi ([he is ~ to cats])
+allergic l. með ofnæmi fyrir ([he is ~ to cats]); ofnæmis-
+allergic reaction n. ofnæmisviðbrögð
 stowaway n. laumufarþegi
 drilling n. borun
 Oxbridge n. háskólarnir Oxford og Cambridge í Bretlandi ([they're all ~-educated])
