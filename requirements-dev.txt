@@ -1,4 +1,5 @@
-islenska>=1.0.0
-tokenizer>=3.4.3
-nltk>=3.7
-pytest>=6.2.4
+islenska>=1.0.3
+tokenizer>=3.4.5
+nltk>=3.9.1
+pytest>=8.3.5
+reportlab>=4.3.1
