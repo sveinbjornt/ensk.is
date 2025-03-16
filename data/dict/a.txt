@@ -63,7 +63,7 @@ ablaze ao. í loga, logandi; [to set ~] kveikja í
 able l. fær; duglegur; [be ~] geta
 able-bodied l. sterkur, hraustur, vinnufær ([the ~ poor])
 ablution n. þvottur, hreinsun (líkamans)
-ably ao. kunnáttulega
+ably ao. kunnáttulega, af færni
 abnegate s. hafna, afneita
 abnegation n. höfnun, sjálfsafneitun
 abnegator n. afneitari
@@ -112,7 +112,7 @@ absence n. fjarvera; skortur, vöntun ([total ~ of wood]); forföll ([in the ~ o
 absent l. fjarverandi; vantandi; utan við sig; s. [~ oneself] fara burt, hafa sig burt
 absentee n. fjarvistarmaður; landsdrottinn sem oftast dvelur erlendis ([~ landlord])
 absent-minded l. utan við sig
-absinth n. malurt
+absinth n. malurt, absint
 absolute l. fullkominn, algjör; ótakmarkaður; óháður, sjálfstæður; hreinn, óblandaður ([~ alcohol])
 absolutely ao. algjörlega; út af fyrir sig
 absoluteness n. algjörleiki; ótakmarkað vald
@@ -210,8 +210,8 @@ accordant l. samkvæmur, samhljóða e-u ([with, to])
 accordantly ao. samkvæmt
 according s. [~ to] samkvæmt, eftir; [~ as] eftir því sem
 accordingly ao. eftir því, þess vegna
-accordion n. harmónikka
-accordionist n. harmónikkuspilari
+accordion n. harmonikka
+accordionist n. harmonikkuleikari
 accost s. ávarpa; n. ávarp, kveðja
 accostable l. viðfelldinn
 accouchement n. barnsburður
@@ -622,7 +622,7 @@ agree s. samþykkja; koma sér saman (um [on, as to]), vera sammála; koma heim 
 agreeable l. þægilegur, skemmtilegur; samkvæmur ([to])
 agreeably ao. þægilega; samkvæmt ([to])
 agreeableness n. þægindi
-agreement n. samkomulag; samningur; samkvæmni
+agreement n. samkomulag; samningur; samkvæmni ([we are in ~])
 agrestic l. sveitalegur
 agricultural l. landbúnaðar-; akuryrkju-, akuryrkjulegur
 agriculture n. landbúnaður; akuryrkja; jarðyrkja
@@ -692,7 +692,7 @@ alchemic l. gullgjörðarlegur
 alchemical l. gullgjörðarlegur
 alchemy n. gullgjörðarlist
 alcohol n. áfengi, hreinsaður vínandi
-alcoholic l. vínanda-, áfengis; n. fyllibytta, alkóhólisti, alki
+alcoholic l. áfengur, vínanda-, áfengis- ([~ drink, mixture]); n. fyllibytta, alkóhólisti, alki
 alcove n. lokrekkja, rúmklefi; klefi; laufskáli
 alder n. elrir (trjátegund)
 alderman n. bæjarfulltrúi (í stórborgum)
@@ -1036,7 +1036,7 @@ annotate s. skýra (rit eða rithöfund); gera athugasemdir við ([on])
 annotation n. athugasemd, skýring
 annotator n. ritskýrandi
 announce s. birta; boða; segja til
-announcement n. boðskapur ([the sudden ~ of her husband's fate])
+announcement n. tilkynning; boðskapur
 annoy s. ónáða; angra; skaprauna; skaða; n. ami, óþægindi
 annoyance n. skaði; gremja; skapraun
 annoyer n. sá sem angrar eða pirrar
@@ -1125,18 +1125,18 @@ antlion n. mauraljón, sandverpa (skorkvikindi)
 anvil n. steðji; [between the hammer and the ~] milli steins og sleggju; [on the ~] í undirbúningi
 anxiety n. kvíði, hræðsla; áköf löngun
 anxious l. kvíðafullur; áhyggjufullur; [I am ~ to know] mig langar mjög að vita
-anxiously ao. með kvíða
-any l. nokkur, neinn; einhver; hver sem vera skal, sérhver
-anybody n. nokkur, neinn; sérhver
+anxiously ao. með kvíða, á kvíðafullan hátt
+any l. nokkur, neinn; einhver; hver sem vera skal, sérhver; hver sem er
+anybody n. hver sem er; nokkur, neinn; sérhver
 anyhow ao. á einhvern (nokkurn, neinn) hátt; að minnsta kosti; þó, samt
 anything n. nokkuð, neitt
-anywhere ao. nokkurs staðar, neins staðar; alls staðar
+anywhere ao. hvar sem er; nokkurs staðar, neins staðar; alls staðar
 anywise ao. á nokkurn (neinn) hátt
 apace ao. fljótt, óðum ([the work is now proceeding ~])
 aorta n. hryggæð
 apanage n. lífeyrir konungborinna manna og tignarfólks
 apart ao. út af fyrir sig; afsíðis; frá ([to set ~]); [jesting ~] að öllu gamni sleppt
-apartment n. herbergi, húsnæði, íbúð
+apartment n. herbergi, íbúð, húsnæði
 apathetic l. tilfinningarlaus; sinnulaus
 apathy n. tilfinningaleysi; deyfð, sinnuleysi
 ape n. api; hermikráka; s. herma eftir
@@ -1209,12 +1209,12 @@ appertain s. heyra undir ([to]); heyra e-m eða e-u til ([to])
 appetence n. fýsn, löngun, þrá (eftir e-u [for, of, after])
 appetency n. fýsn, löngun, þrá (eftir e-u [for, of, after])
 appetent l. fús, gjarn (á [of, after]); fíkinn (í e-ð)
-appetite n. löngun, eftirsókn; matarlyst
-appetizing l. lystugur (um mat); ginnandi
-applaud s. klappa saman lófunum; gera góðan róm að; lofa, hrósa
+appetite n. lyst, matarlyst; löngun, eftirsókn; smekkur (fyrir [for])
+appetizing l. girnilegur, lystugur (um mat); ginnandi
+applaud s. klappa saman lófunum, klappa fyrir; gera góðan róm að; lofa, hrósa
 applause n. lófaklapp, lofsorð ([to meet with ~])
 apple n. epli; [~ of the eye] augasteinn; [~ of discord] þrætuepli
-appliance n. notkun; verkfæri; ft. tæki, tilfæringar
+appliance n. notkun; verkfæri; nft. [~s] tæki, tilfæringar
 applicability n. nýtileiki, viðeiganleiki
 applicable l. nýtilegur; heimfærilegur; viðeigandi
 applicant n. umsækjandi
@@ -1230,8 +1230,8 @@ apportion s. úthluta; skipta
 apportionment n. úthlutun; skipting
 apposite l. vel viðeigandi
 apposition n. viðlagning
-appraisal n. virðing, mat
-appraise s. virða, meta
+appraisal n. mat, virðing
+appraise s. meta, virða
 appraisement n. virðing, mat
 appraiser n. matsmaður, virðingarmaður
 appraisor n. matsmaður, virðingarmaður
@@ -1253,7 +1253,7 @@ approachless l. sem eigi verður komist að
 approbation n. staðfesting ([to receive the royal ~]); samþykki ([by ~ of]); hrós
 approbative l. samþykkjandi
 approbatory l. samþykkjandi
-appropriate s. taka undir sig; nota, verja; ætla (til e-s); l. hentugur, eiginn
+appropriate s. taka undir sig; nota, verja; ætla (til e-s); l. viðeigandi; hentugur, eiginn
 appropriation n. það að taka undir sig; notkun; fjárveiting
 approval n. samþykki
 approve s. samþykkja, fallast á ([~ of]); sýna, sanna, staðfesta; [~ oneself] reynast, vera
@@ -1554,8 +1554,8 @@ astrologer n. stjörnuspámaður
 astrological l. stjörnuspálegur
 astrology n. stjörnuspádómur, stjörnuspáfræði
 astronomer n. stjörnufræðingur
-astronomic l. stjarnfræðislegu
-astronomical l. stjarnfræðislegu
+astronomic l. stjarnfræðislegur
+astronomical l. stjarnfræðislegur
 astronomy n. stjörnufræði
 astute l. slægur, kænn
 astuteness n. slægð, kænska

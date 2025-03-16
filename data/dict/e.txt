@@ -900,7 +900,7 @@ ethereal l. upphiminslegur; loftlegur; ljósvakalegur
 etherealize s. svæfa (sjúkling) með eter
 ethic l. siðfræðilegur; n. siðfræði, siðferði
 ethical l. siðfræðilegur, siðferðilegur
-ethics n. siðfræði, siðferði
+ethics nft. siðfræði, siðferði
 Ethiopian l. eþíópískur; n. Eþíópi
 ethnic l. heiðinn; þjóðfræðislegur, þjóðernis-
 ethnicism n. heiðni
@@ -1030,7 +1030,7 @@ exacting l. heimtufrekur, harður í kröfum, harðdrægur
 exaction n. heimting, krafa; innheimta; féfletting
 exactions nft. þungar álögur
 exactitude n. nákvæmni ([the ~ of the statement]); kostgæfni
-exactly ao. nákvæmlega; beint, beinlínis
+exactly ao. nákvæmlega, akkúrat; beint, beinlínis
 exactness n. nákvæmni ([the ~ of the statement])
 exactor n. fjárheimtumaður; féflettari, kúgari
 exaggerate s. ýkja, gera of mikið úr

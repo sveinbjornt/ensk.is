@@ -47,12 +47,12 @@ briefcase n. skjalataska
 television n. sjónvarp; sjónvarpstæki
 garage n. bílskúr
 speedometer n. hraðamælir
-astrophysics n. stjarneðlisfræði
+astrophysics nft. stjarneðlisfræði
 astrophysicist n. stjarneðlisfræðingur
-geophysics n. jarðeðlisfræði
+geophysics nft. jarðeðlisfræði
 geophysicist n. jarðeðlisfræðingur
 geophysical l. jarðeðlisfræðilegur
-theoretical physics n. fræðileg eðlisfræði
+theoretical physics nft. fræðileg eðlisfræði
 astronaut n. geimfari
 cosmonaut n. geimfari
 jazz n. djass, djasstónlist
@@ -60,7 +60,7 @@ faeces nft. saur, hægðir
 hillbilly n. sveitavargur, afdalamaður
 sniper n. leyniskytta
 straitjacket n. spennitreyja
-quantum physics n. skammtafræði
+quantum physics nft. skammtafræði
 spacecraft n. geimskip, geimfar
 space shuttle n. geimferja, geimskutla
 aircraft n. flugvél, loftfar
@@ -1602,7 +1602,7 @@ battlecruiser n. e.k. orustu- eða beitiskip
 Canaan n. Kanaansland
 literally ao. bókstaflega, orðrétt
 warthog n. vörtusvín
-APC n. brynvarinn bíll (stytt. á [armoured personnel carrier])
+APC n. brynvarin bifreið (stytt. á [armoured personnel carrier])
 SUV n. jeppi, jepplingur (stytt. á [sport utility vehicle])
 dosage n. (lyfja)skammtur
 ornithopter n. blakvængja
@@ -1736,7 +1736,7 @@ toxicodynamics nft. eiturhrifafræði
 chilli n. chilipipar, eldpipar
 chili n. chilipipar, eldpipar
 reprocess s. endurvinna
-biophysics n. lífeðlisfræði
+biophysics nft. lífeðlisfræði
 biophysicist n. lífeðlisfræðingur
 biophysical l. lífeðlisfræðilegur, lífeðlisfræði-
 neurochemistry n. taugaefnafræði
@@ -1744,8 +1744,7 @@ neurotransmitter n. taugaboðefni
 dominator n. valdhafi; yfirdrottnari; sjá %[dominate]%
 yeast infection n. sveppasýking
 clusterfuck n. (óforml.) klasaklúður, stórkostlegt klúður
-Calliope n. Kallíópa (grísk listagyðja)
-calliope n. gufuknúið orgel
+Calliope n. Kallíópa (grísk listagyðja); [calliope] n. gufuknúið orgel
 melodica n. melódíka, blásturspíanó (e.k. blástursknúið hljómborð)
 mindfulness n. núvitund; gjörhygli, gerhygli
 racialism n. kynþáttahyggja
@@ -1849,9 +1848,9 @@ criminalization n. glæpavæðing, bann
 decriminalize s. afglæpavæða, afnema refsingar fyrir ([~ drugs, prostitution])
 decriminalization n. afglæpavæðing
 biometry n. lífmælingar
-biometrics n. lífmælingar
+biometrics nft. lífmælingar
 biometric l. lífmælingalegur, lífmælinga-
-biostatistics n. líftölfræði
+biostatistics nft. líftölfræði
 biostatistical l. líftölfræðilegur, líftölfræði-
 militarize s. hervæða
 remilitarize s. endurhervæða
@@ -2078,7 +2077,7 @@ neuropsychologist n. taugasálfræðingur
 neuropsychological l. taugasálfræðilegur
 goldmine n. gullnáma
 telly n. sjónvarp (óforml.); sjá %[television]%
-apartheid n. aðskilnaðarstefna
+apartheid n. aðskilnaðarstefna (í Suður-Afríku)
 autobiographical l. sjálfsævisögulegur
 coconut n. kókoshneta
 leukemia n. hvítblæði
@@ -3175,7 +3174,7 @@ methane n. metan
 exogenous n. útrænn, utanaðkomandi, sem verkar að utan, sem er kominn utan frá
 experimentee n. (manneskja eða dýr sem er) viðfang rannsóknar
 emphysema n. lungnaþemba (sjúkdómur)
-audiobook n. hljóðbók
+audio book n. hljóðbók
 filicide n. sonarmorð, dótturmorð
 aquaculture n. fiskeldi, fiskirækt; ræktun lífvera í ám, vötnum og sjó
 demersal l. botnlægur, sem lifir við botninn; [~ fish] botnfiskur
@@ -3224,7 +3223,7 @@ coastward l. í átt að ströndu
 herbicide n. illgresiseyðir, plöntueitur
 Socratic l. sókratískur (í anda gríska heimspekingsins Sókratesar)
 seedling n. kímplanta, fræplanta, smáplanta, ungplanta
-avionics n. raftæknibúnaður flugvéla
+avionics nft. raftæknibúnaður flugvéla
 defibrillator n. hjartastillir
 anorexia n. lystarstol, anorexía (átröskun)
 anorexic l. haldinn lystarstoli; n. lystarstolssjúklingur
@@ -3394,7 +3393,7 @@ pollinate s. fræva, frjóvga (plöntu)
 self-pollination n. sjálffrævun
 cross-pollination n. víxlfrævun
 subtropical l. hlýtempraður, heittempraður
-subtropics n. hlýtempraða beltið, heittempraða beltið
+subtropics nft. hlýtempraða beltið, heittempraða beltið
 intelligibility n. skiljanleiki
 Deuteronomy n. fimmta Mósebók (í Biblíunni)
 phlogiston n. brunaefni
@@ -3436,7 +3435,7 @@ gravesite n. grafreitur
 power-hungry l. valdaþyrstur, valdasjúkur, valdagráðugur
 overconfident l. of eða óhóflega sjálfsöruggur, of öruggur með sjálfan sig
 podium n. ræðupallur; verðlaunapallur; ræðupúlt
-apocalypse n. heimsendir, heimsslit (úr opinberunarbók biblíunnar)
+apocalypse n. heimsendir, heimsslit (úr opinberunarbók Biblíunnar)
 apocalyptic l. heimsendis-, heimsslita-; (sjá %[apocalypse]%)
 underdog n. lítilmagni, undirmálsmaður, sá sem er minni máttar
 orangeade n. sykraður appelsínudrykkur
@@ -3948,7 +3947,7 @@ galvanization n. sinkhúðun, galvanhúðun; virkjun, hvatning
 sclerosis n. herðing eða hersli í vef eða líffæri
 psychosomatic l. geðvefrænn
 parametric l. stikaður, stikabundinn
-bureaucratic l. skrifræðislegur, skrifræðis-; [~ nonsense]
+bureaucratic l. skrifræðislegur, skrifræðis-; [~ nonsense] skrifræðisrugl
 ostracization n. útskúfun; skeljardómur í Aþenu til forna
 parasitism n. sníkjulíf, sníkjulífi
 apparatchik n. kerfiskarl, opinber starfsmaður, ríkisstarfsmaður
@@ -5140,7 +5139,7 @@ supercede s. sjá %[supersede]%
 oblast n. fylki, hérað, umdæmi (í Rússlandi og öðrum löndum)
 underlying l. undirliggjandi, undirrótar-, grundvallar-
 betterment n. betrun, umbót
-Septuagint n. Sjötíumannaþýðingin (grísk þýðing hebresku biblíunnar)
+Septuagint n. Sjötíumannaþýðingin (grísk þýðing hebresku Biblíunnar)
 cannon fodder n. fallbyssufóður
 shapeshifter n. hamskiptingur
 stinky l. illa lyktandi, illa þefjandi
@@ -5530,7 +5529,7 @@ coyote n. sléttuúlfur
 sucrose n. súkrósi, sykur
 anaphylaxis n. bráðaofnæmi
 generalise s. sjá %[generalise]%
-annoyed l. pirraður
+annoyed l. pirraður, angraður
 koala n. pokabjörn, kóalabjörn
 Minerva n. Mínerva (rómversk gyðja visku og hagleiks)
 Athena n. Aþena (grísk gyðja visku og hernaðar)
@@ -7007,3 +7006,13 @@ doorframe n. dyrakarmur
 claptrap n. rugl, bull, þvæla, kjaftæði
 songbird n. söngfugl
 microplastics nft. örplast
+absinthe n. malurt, absint
+dacha n. sumarbústaður, einbýlishús, villa (í Rússlandi)
+busty l. brjótmikil, með stór brjóst (um konu)
+curvy l. bugðóttur, með beygjum; lögulega vaxin (um konu)
+curvaceous l. bugðóttur, með beygjum; lögulega vaxin (um konu)
+urination n. þvaglát
+bra n. brjóstahaldari (stytt. á %[brassiere]%)
+brassiere n. brjóstahaldari
+dispassion n. geðstilling, gætni; óhlutdrægni
+confusing l. ruglandi, ruglingslegur

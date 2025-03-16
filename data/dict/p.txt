@@ -473,7 +473,7 @@ peculiarity n. einkenni; einkennileiki
 peculiarly ao. á sérstaklegan hátt; sérstaklega ([~ annoying]); einkennilega, skringilega
 pecuniary l. peningalegur, peninga- ([~ difficulties])
 pedagogic l. uppfræðslu-, uppeldislegur
-pedagogics n. uppeldisfræði
+pedagogics nft. uppeldisfræði
 pedagogue n. barnakennari; uppeldisfræðingur
 pedagogy n. uppeldisfræði
 pedal l. fót-; n. pedali; fótafjöl; stig á reiðhjóli
@@ -905,9 +905,9 @@ physic n. læknislist; læknislyf; búkhreinsunarlyf; s. lækna; gefa inn búkhr
 physical l. náttúrufræðilegur; eðlisfræðilegur; líkamlegur
 physician n. læknir
 physicist n. eðlisfræðingur
-physics n. eðlisfræði
+physics nft. eðlisfræði
 physiognomer n. sjá %[physiognomist]%
-physiognomics n. sú kunnátta að þekkja skaplyndi manna af andlitsfalli þeirra, svipfræði
+physiognomics nft. sú kunnátta að þekkja skaplyndi manna af andlitsfalli þeirra, svipfræði
 physiognomist n. sá sem þekkir (eða þykist þekkja) skaplyndi manna af andlitsfalli þeirra
 physiognomy n. andlitsfall, svipur, yfirbragð
 physiologer n. lífeðlisfræðingur
@@ -2541,7 +2541,7 @@ pyre n. líkbál ([funeral ~])
 pyromania n. eldæði, íkveikjuæði
 pyromaniac n. brennuvargur, íkveikjuvitfirringur
 pyrotechnic l. flugelda-
-pyrotechnics n. flugeldalist
+pyrotechnics nft. flugeldalist
 pyrotechnist n. flugeldafræðingur, flugeldameistari
 Pythagorean l. sem lýtur að heimspeki Pýþagórasar; n. lærisveinn Pýþagórasar
 pyx n. ílát, sem sakramentisbrauðið í kaþólsku kirkjunni er geymt í, oflátubuðkur

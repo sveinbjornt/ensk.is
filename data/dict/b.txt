@@ -272,8 +272,8 @@ beardless l. skegglaus ([a ~ youth])
 bearing n. líkamsburður, látbragð; lega; afstaða; hlutfall; stefna; útlit; ft. skjaldmerki ([armorial ~s]); [take one's ~s] átta sig
 beast n. dýr
 beastly l. dýrslegur; viðbjóðslegur ([~ weather])
-beat s. slá, berja; mola; ryðja (braut); bera af (e-u); slaga (um skip); n. högg, sláttur
-beaten l. barinn; hamraður; troðinn ([~ path]); örmagna, uppgefinn
+beat s. slá, berja; sigra, hafa yfirhöndina; mola; ryðja (braut); bera af (e-u); slaga (um skip); n. högg, sláttur, taktur
+beaten l. barinn; hamraður; troðinn ([~ path]); örmagna, uppgefinn; sigraður
 beatific l. sem gerir sælan
 beatify s. gera alsælan
 beatitude n. alsæla
@@ -779,7 +779,7 @@ blusterous l. ofsafenginn
 bo uh. bú! [say ~ to a goose] þora að mjamta
 boa n. risaslanga (í Suður-Ameríku) ([a vicious boa constrictor])
 boar n. göltur
-board n. borð, fjöl; borðhald, kostur, matur; stjórnarnefnd; tafla, veggspjald ([black -~]), pappaspjald ([card~]); spjald á bók; [~ of trade] verslunarráð; [sweep the ~] sópa öllum spilunum eða vinningnum af borðinu; [groaning ~] sem svignar undir réttunum; [~ and lodging] kostur og húsnæði; [separated from bed and ~] að borði og sæng; [go by the ~] falla útbyrðis; [over ~] útbyrðis, fyrir borð; [on ~] út á skip, út á skipi; s. þilja, klæða með borðum; leggja að skipi, ganga á skip; selja (e-m) mat (kost); vera til fæðis (í kosti) hjá e-m ([with]); nft. [boards] leiksvið, ([on the ~]); pappaband ([a book in ~])
+board n. borð, fjöl; borðhald, kostur, matur; stjórnarnefnd; tafla, veggspjald ([black~]), pappaspjald ([card~]); spjald á bók; [~ of trade] verslunarráð; [sweep the ~] sópa öllum spilunum eða vinningnum af borðinu; [groaning ~] sem svignar undir réttunum; [~ and lodging] kostur og húsnæði; [separated from bed and ~] að borði og sæng; [go by the ~] falla útbyrðis; [over ~] útbyrðis, fyrir borð; [on ~] út á skip, út á skipi; s. þilja, klæða með borðum; leggja að skipi, ganga á skip; selja (e-m) mat (kost); vera til fæðis (í kosti) hjá e-m ([with]); nft. [boards] leiksvið, ([on the ~]); pappaband ([a book in ~])
 boarder n. kostþegi
 boarding n. borðaklæðning; uppganga á skip; kostur (matur)
 boardinghouse n. matsöluhús
@@ -1171,7 +1171,7 @@ brutify s. gera líkan skepnu
 brutish l. dýrslegur; grimmur, hrottalegur
 bryony n. jurt (ákv. ættkvísl)
 bubble n. loftbóla; tál, gabb; s. skjóta upp loftbólum; gabba
-bubbly l. ólgandi
+bubbly l. ólgandi; hress, fjörlegur; n. kampavín (óforml.)
 bubo n. nárakýli
 buccaneer n. sjóræningi, víkingur
 buck n. bukkur, hafur; montari, spjátrungur; lút (til þvottar)
@@ -1199,7 +1199,7 @@ bugle n. veiðimannslúður; herlúður
 build s. byggja, smíða
 builder n. húsasmiður
 building n. bygging, hús
-bulb n. kúla á glerpípu; blómlaukur, neðanjarðar laukhnúður
+bulb n. kúla á glerpípu; blómlaukur, neðanjarðar laukhnúður; ljósapera ([light~])
 bulbous l. laukmyndaður
 bulge n. bumba, bunga; s. bunga út ([~ out])
 bulk n. búlki, skipsfarmur; stærð, fyrirferð; meginhluti; [to sell in ~] selja í einu lagi, selja í stórsölu

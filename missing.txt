@@ -401,7 +401,6 @@ stylometric
 petard n. (endurskoða núverandi skilgr.)
 kook
 hardline
-dacha
 commissary (endurskoða skilgr.)
 gigolo
 cynicism (endurskoða skilgr.)
@@ -4955,3 +4954,15 @@ backsliding
 crosspoint
 mapping
 serif
+abstraction (endurskoða)
+adulterate (endurskoða)
+alley (endurskoða)
+alpha (endurskoða)
+authenticity (endurskoða)
+alarm bell (endurskoða)
+agenda (endurskoða)
+anthology (endurskoða)
+anthrax (endurskoða)
+blight (endurskoða)
+bull's-eye (endurskoða)
+reflectivity
