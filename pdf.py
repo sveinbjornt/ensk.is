@@ -57,7 +57,7 @@ from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.pdfgen.canvas import Canvas
 
-_FONT_NAME = "EBGaramond"
+_FONT_NAME = "Garamond"
 
 
 def _add_page_number(canvas, doc):
@@ -77,6 +77,22 @@ def _load_fonts():
     pdfmetrics.registerFont(TTFont(_FONT_NAME, f"fonts/{_FONT_NAME}.ttf"))
     pdfmetrics.registerFont(TTFont(f"{_FONT_NAME}-Bold", f"fonts/{_FONT_NAME}-Bold.ttf"))
     pdfmetrics.registerFont(TTFont(f"{_FONT_NAME}-Italic", f"fonts/{_FONT_NAME}-Italic.ttf"))
+
+
+ENTRY_LINK_REGEX = re.compile(r"%\[(.+?)\]%")
+
+
+def _apply_styles(entry: str, definition: str) -> tuple[str, str]:
+    """ Apply custom styles to text. """
+    e = f'<font face="{_FONT_NAME}-Bold">{entry}</font>'
+    d = definition
+    # Italicize links and English words
+    d = ENTRY_LINK_REGEX.sub(rf'<font face="{_FONT_NAME}-Italic">\1</font>', d)
+    d = d.replace("[", f'<font face="{_FONT_NAME}-Italic">')
+    d = d.replace("]", "</font>")
+    d = d.replace("~", entry)
+    return e, d
+
 
 
 def create_dictionary_pdf(dictionary_data, output_file, columns=2):
@@ -137,7 +153,7 @@ def create_dictionary_pdf(dictionary_data, output_file, columns=2):
         fontSize=24,
         alignment=1,  # Center
         spaceAfter=20,
-        fontName="EBGaramond-Bold",
+        fontName=f"{_FONT_NAME}-Bold",
     )
 
     # Cover page subtitle style
@@ -147,7 +163,7 @@ def create_dictionary_pdf(dictionary_data, output_file, columns=2):
         fontSize=16,
         alignment=1,  # Center
         spaceAfter=40,
-        fontName="EBGaramond",
+        fontName=f"{_FONT_NAME}",
     )
 
     # Section style for letters
@@ -157,7 +173,7 @@ def create_dictionary_pdf(dictionary_data, output_file, columns=2):
         fontSize=18,
         spaceBefore=10,
         spaceAfter=5,
-        fontName="EBGaramond-Bold",
+        fontName=f"{_FONT_NAME}-Bold",
     )
 
     # Entry style
@@ -169,7 +185,7 @@ def create_dictionary_pdf(dictionary_data, output_file, columns=2):
         spaceAfter=0,
         firstLineIndent=-0.2 * cm,  # Hanging indent
         leftIndent=0 * cm,
-        fontName="EBGaramond",
+        fontName=f"{_FONT_NAME}",
         fontSize=12,
         justifyLastLine=True,
     )
@@ -197,8 +213,6 @@ def create_dictionary_pdf(dictionary_data, output_file, columns=2):
             grouped_entries[first_letter] = []
         grouped_entries[first_letter].append((english, icelandic))
 
-    rx = re.compile(r"%\[(.+?)\]%")
-
     # Process each letter
     for letter in string.ascii_uppercase:
         if letter in grouped_entries:
@@ -207,19 +221,8 @@ def create_dictionary_pdf(dictionary_data, output_file, columns=2):
             # Add entries
             for english, icelandic in grouped_entries[letter]:
                 # Format like a real dictionary: bold headword followed by definition
-                x = icelandic
-                # Italicize English words
-                x = rx.sub(rf'<font face="EBGaramond-Italic">\1</font>', x)
-                x = x.replace("[", '<font face="EBGaramond-Italic">')
-                x = x.replace("]", "</font>")
-                x = x.replace("~", english)
-
-                if english == "advocateship":
-                    x = x.replace(
-                        "málfærslumannsembætti", "mál&shy;færslu&shy;manns&shy;embætti"
-                    )
-
-                entry_text = f'<font face="EBGaramond-Bold">{english}</font> {x}'
+                w, d = _apply_styles(english, icelandic)
+                entry_text = f'{w} {d}'
                 content.append(Paragraph(entry_text, entry_style))
 
     # Build document
