@@ -95,9 +95,11 @@ def _apply_styles(entry: str, definition: str) -> tuple[str, str]:
 
 
 
-def create_dictionary_pdf(dictionary_data, output_file, columns=2):
+def generate_pdf(dictionary_data, output_file):
     """ Generate a PDF version of the dictionary. """
     _load_fonts()
+
+    columns = 3
 
     # Set up document
     page_width, page_height = A4

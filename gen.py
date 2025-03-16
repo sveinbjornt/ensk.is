@@ -312,15 +312,12 @@ def main() -> None:
     entries = read_all_entries()
     print(f"{len(entries)} entries read")
 
-    dictionary = {
-        e[0]: e[1] for e in entries # if e[0].startswith("a")
-    }
-
-    # dictionary = dictionary[:1000]
-    from pdf import create_dictionary_pdf
-    create_dictionary_pdf(dictionary, "english_icelandic_dictionary.pdf", columns=3)
-
-    exit(0)
+    # dictionary = {
+    #     e[0]: e[1] for e in entries # if e[0].startswith("a")
+    # }
+    # from pdf import generate_pdf
+    # generate_pdf(dictionary, "english_icelandic_dictionary.pdf")
+    # exit(0)
 
     print("Generating text")
     generate_text(entries)
@@ -335,9 +332,6 @@ def main() -> None:
 
     print("Generating SQLite3 database")
     generate_database(entries)
-
-    # print("Generating PDF")
-    # generate_pdf(entries)
 
 
 if __name__ == "__main__":
