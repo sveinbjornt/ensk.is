@@ -1602,7 +1602,7 @@ battlecruiser n. e.k. orustu- eða beitiskip
 Canaan n. Kanaansland
 literally ao. bókstaflega, orðrétt
 warthog n. vörtusvín
-APC n. brynvarinn bíll (stytt. á [armoured personnel carrier])
+APC n. brynvarin bifreið (stytt. á [armoured personnel carrier])
 SUV n. jeppi, jepplingur (stytt. á [sport utility vehicle])
 dosage n. (lyfja)skammtur
 ornithopter n. blakvængja
@@ -7008,3 +7008,4 @@ claptrap n. rugl, bull, þvæla, kjaftæði
 songbird n. söngfugl
 microplastics nft. örplast
 absinthe n. malurt, absint
+dacha n. sumarbústaður, einbýlishús, villa (í Rússlandi)

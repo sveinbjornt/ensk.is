@@ -401,7 +401,6 @@ stylometric
 petard n. (endurskoða núverandi skilgr.)
 kook
 hardline
-dacha
 commissary (endurskoða skilgr.)
 gigolo
 cynicism (endurskoða skilgr.)
@@ -4963,3 +4962,7 @@ authenticity (endurskoða)
 alarm bell (endurskoða)
 agenda (endurskoða)
 alignment (endurskoða)
+anthology (endurskoða)
+anthrax (endurskoða)
+blight (endurskoða)
+bull's-eye (endurskoða)

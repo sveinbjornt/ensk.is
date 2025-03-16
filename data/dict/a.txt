@@ -63,7 +63,7 @@ ablaze ao. í loga, logandi; [to set ~] kveikja í
 able l. fær; duglegur; [be ~] geta
 able-bodied l. sterkur, hraustur, vinnufær ([the ~ poor])
 ablution n. þvottur, hreinsun (líkamans)
-ably ao. kunnáttulega
+ably ao. kunnáttulega, af færni
 abnegate s. hafna, afneita
 abnegation n. höfnun, sjálfsafneitun
 abnegator n. afneitari
@@ -692,7 +692,7 @@ alchemic l. gullgjörðarlegur
 alchemical l. gullgjörðarlegur
 alchemy n. gullgjörðarlist
 alcohol n. áfengi, hreinsaður vínandi
-alcoholic l. vínanda-, áfengis; n. fyllibytta, alkóhólisti, alki
+alcoholic l. áfengur, vínanda-, áfengis- ([~ drink, mixture]); n. fyllibytta, alkóhólisti, alki
 alcove n. lokrekkja, rúmklefi; klefi; laufskáli
 alder n. elrir (trjátegund)
 alderman n. bæjarfulltrúi (í stórborgum)
@@ -1125,18 +1125,18 @@ antlion n. mauraljón, sandverpa (skorkvikindi)
 anvil n. steðji; [between the hammer and the ~] milli steins og sleggju; [on the ~] í undirbúningi
 anxiety n. kvíði, hræðsla; áköf löngun
 anxious l. kvíðafullur; áhyggjufullur; [I am ~ to know] mig langar mjög að vita
-anxiously ao. með kvíða
-any l. nokkur, neinn; einhver; hver sem vera skal, sérhver
-anybody n. nokkur, neinn; sérhver
+anxiously ao. með kvíða, á kvíðafullan hátt
+any l. nokkur, neinn; einhver; hver sem vera skal, sérhver; hver sem er
+anybody n. hver sem er; nokkur, neinn; sérhver
 anyhow ao. á einhvern (nokkurn, neinn) hátt; að minnsta kosti; þó, samt
 anything n. nokkuð, neitt
-anywhere ao. nokkurs staðar, neins staðar; alls staðar
+anywhere ao. hvar sem er; nokkurs staðar, neins staðar; alls staðar
 anywise ao. á nokkurn (neinn) hátt
 apace ao. fljótt, óðum ([the work is now proceeding ~])
 aorta n. hryggæð
 apanage n. lífeyrir konungborinna manna og tignarfólks
 apart ao. út af fyrir sig; afsíðis; frá ([to set ~]); [jesting ~] að öllu gamni sleppt
-apartment n. herbergi, húsnæði, íbúð
+apartment n. herbergi, íbúð, húsnæði
 apathetic l. tilfinningarlaus; sinnulaus
 apathy n. tilfinningaleysi; deyfð, sinnuleysi
 ape n. api; hermikráka; s. herma eftir
@@ -1209,12 +1209,12 @@ appertain s. heyra undir ([to]); heyra e-m eða e-u til ([to])
 appetence n. fýsn, löngun, þrá (eftir e-u [for, of, after])
 appetency n. fýsn, löngun, þrá (eftir e-u [for, of, after])
 appetent l. fús, gjarn (á [of, after]); fíkinn (í e-ð)
-appetite n. löngun, eftirsókn; matarlyst
-appetizing l. lystugur (um mat); ginnandi
-applaud s. klappa saman lófunum; gera góðan róm að; lofa, hrósa
+appetite n. lyst, matarlyst; löngun, eftirsókn; smekkur (fyrir [for])
+appetizing l. girnilegur, lystugur (um mat); ginnandi
+applaud s. klappa saman lófunum, klappa fyrir; gera góðan róm að; lofa, hrósa
 applause n. lófaklapp, lofsorð ([to meet with ~])
 apple n. epli; [~ of the eye] augasteinn; [~ of discord] þrætuepli
-appliance n. notkun; verkfæri; ft. tæki, tilfæringar
+appliance n. notkun; verkfæri; nft. [~s] tæki, tilfæringar
 applicability n. nýtileiki, viðeiganleiki
 applicable l. nýtilegur; heimfærilegur; viðeigandi
 applicant n. umsækjandi
@@ -1230,8 +1230,8 @@ apportion s. úthluta; skipta
 apportionment n. úthlutun; skipting
 apposite l. vel viðeigandi
 apposition n. viðlagning
-appraisal n. virðing, mat
-appraise s. virða, meta
+appraisal n. mat, virðing
+appraise s. meta, virða
 appraisement n. virðing, mat
 appraiser n. matsmaður, virðingarmaður
 appraisor n. matsmaður, virðingarmaður
