@@ -1532,7 +1532,7 @@ WWW n. stytt. á [World Wide Web]; veraldarvefurinn
 annotated l. ritskýrður, með athugasemdum; sjá %[annotate]%
 scientism n. (öfga)vísindahyggja; sú kenning að aðferðir náttúruvísinda ráði við öll svið mannlegra fræða
 scientistic l. (öfga)vísindahyggjulegur; sjá %[scientism]%
-USA nft. Bandaríkin; stytt. á %[United States of America]%
+USA nft. Bandaríki Norður-Ameríku; stytt. á %[United States of America]%
 US nft. Bandaríkin; stytt. á %[United States]%
 UK n. Bretland; stytt. á %[United Kingdom]%
 USSR n. Sovétríkin; stytt. á [Union of Soviet Socialist Republics], enska heiti Sovétríkjanna
@@ -2821,7 +2821,7 @@ eloquently ao. mælskulega
 grandmaster n. stórmeistari
 pedagogical l. uppfræðslu-, uppeldislegur
 Byzantium n. Austrómverska keisaradæmið, Býsansríki, Miklagarðsríki
-Byzantine l. býsanskur, austrómverskur; flókinn, skrifræðislegur ([~ rules and regulations]); n. Býsansmaður, Austrómverji
+Byzantine l. býsanskur, austrómverskur; flókinn, skrifræðislegur ([~ rules and regulations]); n. Býsansmaður, Austrómverji; [~ emperor] Miklagarðskeisari, keisari Austrómverja
 mountaintop n. fjallstindur
 maestro n. (tónlistar)meistari (úr ítölsku)
 dwarfism n. dvergvöxtur
@@ -6710,7 +6710,7 @@ unsalvageable l. óbjargandi, óbjarganlegur
 vaporware n. hugbúnaður sem verður aldrei að veruleika
 pecker n. spæta; goggur; typpi (óforml.); sveitavargur (óforml.)
 virtuousness n. dyggðasemi
-via fs. í gegnum (úr latínu); [~ satelite] í gegnum gervitungl
+via fs. í gegnum (úr latínu); [~ sattelite] í gegnum gervitungl
 dockside l. bryggjumegin; n. svæði nálægt bryggju
 isolated l. einangraður
 mascara n. maskari
