@@ -112,7 +112,7 @@ absence n. fjarvera; skortur, vöntun ([total ~ of wood]); forföll ([in the ~ o
 absent l. fjarverandi; vantandi; utan við sig; s. [~ oneself] fara burt, hafa sig burt
 absentee n. fjarvistarmaður; landsdrottinn sem oftast dvelur erlendis ([~ landlord])
 absent-minded l. utan við sig
-absinth n. malurt
+absinth n. malurt, absint
 absolute l. fullkominn, algjör; ótakmarkaður; óháður, sjálfstæður; hreinn, óblandaður ([~ alcohol])
 absolutely ao. algjörlega; út af fyrir sig
 absoluteness n. algjörleiki; ótakmarkað vald
@@ -210,8 +210,8 @@ accordant l. samkvæmur, samhljóða e-u ([with, to])
 accordantly ao. samkvæmt
 according s. [~ to] samkvæmt, eftir; [~ as] eftir því sem
 accordingly ao. eftir því, þess vegna
-accordion n. harmónikka
-accordionist n. harmónikkuspilari
+accordion n. harmonikka
+accordionist n. harmonikkuleikari
 accost s. ávarpa; n. ávarp, kveðja
 accostable l. viðfelldinn
 accouchement n. barnsburður
@@ -622,7 +622,7 @@ agree s. samþykkja; koma sér saman (um [on, as to]), vera sammála; koma heim 
 agreeable l. þægilegur, skemmtilegur; samkvæmur ([to])
 agreeably ao. þægilega; samkvæmt ([to])
 agreeableness n. þægindi
-agreement n. samkomulag; samningur; samkvæmni
+agreement n. samkomulag; samningur; samkvæmni ([we are in ~])
 agrestic l. sveitalegur
 agricultural l. landbúnaðar-; akuryrkju-, akuryrkjulegur
 agriculture n. landbúnaður; akuryrkja; jarðyrkja
@@ -1036,7 +1036,7 @@ annotate s. skýra (rit eða rithöfund); gera athugasemdir við ([on])
 annotation n. athugasemd, skýring
 annotator n. ritskýrandi
 announce s. birta; boða; segja til
-announcement n. boðskapur ([the sudden ~ of her husband's fate])
+announcement n. tilkynning; boðskapur
 annoy s. ónáða; angra; skaprauna; skaða; n. ami, óþægindi
 annoyance n. skaði; gremja; skapraun
 annoyer n. sá sem angrar eða pirrar
@@ -1253,7 +1253,7 @@ approachless l. sem eigi verður komist að
 approbation n. staðfesting ([to receive the royal ~]); samþykki ([by ~ of]); hrós
 approbative l. samþykkjandi
 approbatory l. samþykkjandi
-appropriate s. taka undir sig; nota, verja; ætla (til e-s); l. hentugur, eiginn
+appropriate s. taka undir sig; nota, verja; ætla (til e-s); l. viðeigandi; hentugur, eiginn
 appropriation n. það að taka undir sig; notkun; fjárveiting
 approval n. samþykki
 approve s. samþykkja, fallast á ([~ of]); sýna, sanna, staðfesta; [~ oneself] reynast, vera
@@ -1554,8 +1554,8 @@ astrologer n. stjörnuspámaður
 astrological l. stjörnuspálegur
 astrology n. stjörnuspádómur, stjörnuspáfræði
 astronomer n. stjörnufræðingur
-astronomic l. stjarnfræðislegu
-astronomical l. stjarnfræðislegu
+astronomic l. stjarnfræðislegur
+astronomical l. stjarnfræðislegur
 astronomy n. stjörnufræði
 astute l. slægur, kænn
 astuteness n. slægð, kænska

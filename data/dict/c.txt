@@ -1,4 +1,4 @@
-cab n. leiguvagn með einum hesti fyrir; s. flytja (aka) í leiguvagni
+cab n. leigubíll, leiguvagn s. flytja (aka) í leigubíl, leiguvagni
 cabman n. vagnstjóri
 cabal n. leynisamtök, svikræði; s. beita brögðum, hafa leynisamtök
 caballer n. bragðarefur
@@ -468,7 +468,7 @@ cellaret n. flöskuskápur
 cellar-flap n. kjallarahleri
 cellular l. holóttur; sellu-, frumu- ([~ tissue])
 cellule n. fruma, sella
-Celtic l. keltneskur; n. Keltneska
+Celtic l. keltneskur; n. keltneska
 cement n. steypa, steinlím, sement; s. steypa, steinlíma, sementa
 cementation n. steypun, sementun, steinlíming
 cemetery n. kirkjugarður, grafreitur, greftrunarstaður
@@ -502,7 +502,7 @@ century n. öld; hundraðsflokkur (í rómverskri hersveit)
 cephalalgy n. höfuðverkur
 cephalic l. höfuð-
 ceramic l. sem lýtur að leirkerasmíði ([~ work])
-ceramics n. leirkerasmíði
+ceramics nft. leirkerasmíði
 ceramist n. leirkerasmiður
 cereal l. kornlegur
 cereals nft. kornjurtir, korntegundir; kornmeti
@@ -573,7 +573,7 @@ chancellorship n. kanslaraembætti, kanslaratign, kanslaraembættistíð
 chancery n. yfirdómstóll (á Englandi; síðan 1873, ein deild af [the High Court of Justice]); [get into ~] komast í hann krappann
 chandelier n. kertaljósakróna, ljósahjálmur, kertahjálmur
 chandler n. kertasteypari; mangari; vistasali
-change n. breyting; tilbreyting; skipti; umskipti; nýtt tungl; smápeningar ([I've got no ~ on me]); samhringing; [~ of clothes] föt til skiptanna; [ring the ~s] hringja mörgum klukkum í senn; borga í sama, gera (honum) sömu skil; [ring the ~s on] alltaf að stagast á e-u; [give ~ for a sovereign] skipta, gefa til baka af; [~ of stockings] sokkar til skiptanna; sokkaskipti; s. breyta; skipta, skipta um; breytast; [~ hands] skipta um hendur; [~ his mind] skipta um skoðun, breyta fyrirætlun sinni; [~ clothes] skipta um föt; [the leaves ~] fölna, gulna; [~ for the better] breytast til batnaðar
+change n. breyting; tilbreyting; skipti; umskipti; nýtt tungl; smápeningar ([I've got no ~ on me]); samhringing; [~ of clothes] föt til skiptanna; [ring the ~s] hringja mörgum klukkum í senn; borga í sama, gera (honum) sömu skil; [ring the ~s on] alltaf að stagast á e-u; [give ~ for a sovereign] skipta, gefa til baka af; [~ of stockings] sokkar til skiptanna; sokkaskipti; s. breyta; skipta, skipta um; breytast; [~ hands] skipta um hendur; [~ one's mind] skipta um skoðun, breyta fyrirætlun sinni; [~ clothes] skipta um föt; [the leaves ~] fölna, gulna; [~ for the better] breytast til batnaðar
 changeable l. breytilegur; hverflyndur ([~ of disposition])
 changeableness n. breytileiki
 changeless l. óumbreytilegur
@@ -1611,7 +1611,7 @@ concerning fs. um, að því er snertir
 concernment n. málefni; íhlutun, afskipti ([in/with something]); áhyggja, hluttekning; [a matter of public ~] sem varðar almenning; [of great ~] mikilsvarðandi
 concert n. tónleikar; hljómleikur; samkomulag; söngskemmtun; samsöngur; [in ~] samtaka; s. koma sér saman um (fyrirfram); hugsa upp
 concerted l. gerður eftir samanteknu ráði
-concertina n. harmónikka, dragspil
+concertina n. harmonikka, dragspil
 concession n. eftirgjöf, tilslökun; viðurkenning; úthlutun, veiting ([~ of land]); (einka)leyfi; sjá %[concede]%
 concessionaire n. leyfishafi
 concessive l. sem lýtur að [concession]; [~ conjunction] viðurkenningartenging

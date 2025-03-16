@@ -313,7 +313,7 @@ def main() -> None:
     print(f"{len(entries)} entries read")
 
     dictionary = {
-        e[0]: e[1] for e in entries # if e[0].startswith("a")
+        e[0]: e[1] for e in entries if e[0].startswith("a")
     }
 
     # dictionary = dictionary[:1000]

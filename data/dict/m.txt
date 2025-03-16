@@ -505,7 +505,7 @@ mechanic n. vélvirki, handiðnamaður
 mechanical l. vélfræðislegur; handiðnarlegur; ósjálfráður
 mechanically ao. með vélum; umhugsunarlaust, ósjálfrátt
 mechanician n. vélameistari
-mechanics n. vélafræði, hreyfingarfræði, aflfræði
+mechanics nft. vélafræði, hreyfingarfræði, aflfræði
 mechanism n. vélarsamsetning; vélbúnaður; tilhögun ([~ of exchange])
 mechanist n. vélfræðingur; vélasmiður
 medal n. medalía, minnispeningur, heiðurspeningur; [the reverse of the ~] hin hlið málsins
@@ -1030,7 +1030,7 @@ mizzen l. [~ mast] aftursigla; [~ sail] segl á aftursiglu
 mizzle n. úði, suddi; s. [it ~s] það er úði, suddi
 mizzly l. úða-, sudda- ([~ rain])
 mnemonic l. sem styður minnið
-mnemonics n. minnislist
+mnemonics nft. minnislist
 moan s. kveina, stynja; n. kvein, stuna
 moanful l. raunalegur
 moat n. vígisgröf, síki

@@ -178,6 +178,7 @@ def create_dictionary_pdf(dictionary_data, output_file, columns=2):
     content = []
 
     # Add cover page content
+    content.append(Spacer(1, 5 * cm))
     content.append(Paragraph("Ensk-íslensk orðabók", cover_title_style))
     content.append(Spacer(1, 1 * cm))
     content.append(
