@@ -1,9 +1,9 @@
-httpx>=0.23.1 # Used in tests
-fastapi>=0.78.0
-jinja2>=3.1.2
-uvicorn>=0.17.6
-sqlite-utils>=3.27
-aiofiles>=23.2.1
-orjson>=3.10.3
+httpx>=0.28.1 # Used in tests
+fastapi>=0.115.11
+jinja2>=3.1.6
+uvicorn>=0.34.0
+sqlite-utils>=3.38
+aiofiles>=24.1.0
+orjson>=3.10.15
 requests>=2.32.3
 cachetools>=5.5.2
