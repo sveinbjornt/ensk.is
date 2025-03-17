@@ -51,7 +51,7 @@ from functools import wraps
 import orjson as json
 
 
-def read_wordlist(fn: str, unique: bool = True) -> frozenset[str]:
+def read_wordlist(fn: str, unique: bool = True) -> list[str]:
     """Read a file containing one word per line.
     Return all words as a list of unique words."""
     words = []
@@ -67,7 +67,7 @@ def read_wordlist(fn: str, unique: bool = True) -> frozenset[str]:
                 continue
             words.append(ln)
 
-    return frozenset(words)
+    return words
 
 
 def read_json(inpath: str) -> dict[str, Any]:

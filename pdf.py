@@ -53,15 +53,14 @@ from reportlab.platypus import (
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib.units import cm
 from reportlab.pdfbase import pdfmetrics
-from reportlab.pdfbase.pdfdoc import PDFDocument
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.pdfgen.canvas import Canvas
 
 _FONT_NAME = "Garamond"
 
 
-def _add_page_number(canvas: Canvas, doc: PDFDocument):
-    """ Custom page number function for drawing page numbers on each page. """
+def _add_page_number(canvas: Canvas, doc: BaseDocTemplate):
+    """Custom page number function for drawing page numbers on each page."""
     # Don't add page number to the first page (cover)
     if doc.page > 1:
         page_num = doc.page - 1  # Adjust for cover page
@@ -73,17 +72,21 @@ def _add_page_number(canvas: Canvas, doc: PDFDocument):
 
 
 def _load_fonts():
-    """ Load custom fonts for the PDF. """
+    """Load custom fonts for the PDF."""
     pdfmetrics.registerFont(TTFont(_FONT_NAME, f"fonts/{_FONT_NAME}.ttf"))
-    pdfmetrics.registerFont(TTFont(f"{_FONT_NAME}-Bold", f"fonts/{_FONT_NAME}-Bold.ttf"))
-    pdfmetrics.registerFont(TTFont(f"{_FONT_NAME}-Italic", f"fonts/{_FONT_NAME}-Italic.ttf"))
+    pdfmetrics.registerFont(
+        TTFont(f"{_FONT_NAME}-Bold", f"fonts/{_FONT_NAME}-Bold.ttf")
+    )
+    pdfmetrics.registerFont(
+        TTFont(f"{_FONT_NAME}-Italic", f"fonts/{_FONT_NAME}-Italic.ttf")
+    )
 
 
 ENTRY_LINK_REGEX = re.compile(r"%\[(.+?)\]%")
 
 
 def _apply_styles(entry: str, definition: str) -> tuple[str, str]:
-    """ Apply custom styles to text. """
+    """Apply custom styles to text."""
     e = f'<font face="{_FONT_NAME}-Bold">{entry}</font>'
     d = definition
     # Italicize links and English words
@@ -94,9 +97,8 @@ def _apply_styles(entry: str, definition: str) -> tuple[str, str]:
     return e, d
 
 
-
 def generate_pdf(dictionary_data, output_file):
-    """ Generate a PDF version of the dictionary. """
+    """Generate a PDF version of the dictionary."""
     _load_fonts()
 
     columns = 3
@@ -224,7 +226,7 @@ def generate_pdf(dictionary_data, output_file):
             for english, icelandic in grouped_entries[letter]:
                 # Format like a real dictionary: bold headword followed by definition
                 w, d = _apply_styles(english, icelandic)
-                entry_text = f'{w} {d}'
+                entry_text = f"{w} {d}"
                 content.append(Paragraph(entry_text, entry_style))
 
     # Build document
@@ -233,6 +235,5 @@ def generate_pdf(dictionary_data, output_file):
 
 if __name__ == "__main__":
     # Test PDF generation
-    data = {
-    }
+    data = {}
     generate_pdf(data, "dictionary.pdf")
