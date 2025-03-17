@@ -56,6 +56,7 @@ from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.pdfgen.canvas import Canvas
 
+
 _FONT_NAME = "Garamond"
 
 
@@ -82,7 +83,7 @@ def _load_fonts():
     )
 
 
-ENTRY_LINK_REGEX = re.compile(r"%\[(.+?)\]%")
+_ENTRY_LINK_REGEX = re.compile(r"%\[(.+?)\]%")
 
 
 def _apply_styles(entry: str, definition: str) -> tuple[str, str]:
@@ -90,7 +91,7 @@ def _apply_styles(entry: str, definition: str) -> tuple[str, str]:
     e = f'<font face="{_FONT_NAME}-Bold">{entry}</font>'
     d = definition
     # Italicize links and English words
-    d = ENTRY_LINK_REGEX.sub(rf'<font face="{_FONT_NAME}-Italic">\1</font>', d)
+    d = _ENTRY_LINK_REGEX.sub(rf'<font face="{_FONT_NAME}-Italic">\1</font>', d)
     d = d.replace("[", f'<font face="{_FONT_NAME}-Italic">')
     d = d.replace("]", "</font>")
     d = d.replace("~", entry)
@@ -191,7 +192,7 @@ def generate_pdf(dictionary_data, output_file):
         leftIndent=0 * cm,
         fontName=f"{_FONT_NAME}",
         fontSize=12,
-        justifyLastLine=True,
+        # justifyLastLine=True,
     )
 
     # Create content
