@@ -232,9 +232,9 @@ accrete s. vaxa saman
 accretion n. vöxtur; samvöxtur; viðauki
 accroach s. svæla undir sig ([to oneself])
 accrue s. spretta (af [from]), vaxa; falla undir e-n [to]
-accumulate s. safna, hrúga saman; safnast
-accumulation n. safn, samhrúgun
-accumulative l. sem safnast hefur saman
+accumulate s. safna, hrúga saman; safnast, safna(st) saman (með tímanum)
+accumulation n. safn, samansafn, samhrúgun
+accumulative l. sem safnast hefur saman, sem safnast saman með tímanum
 accuracy n. nákvæmni, hittni
 accurate l. nákvæmur; vandvirkur; hittinn
 accurately ao. nákvæmlega
@@ -501,15 +501,15 @@ aesthetics nft. fagurfræði, listafræði
 aestival l. sumarlegur
 aestivation n. sumardá
 aestivate s. liggja í sumardái
-afar ao. langt í burt, í fjarska; [from ~] langt að
+afar ao. langt í burt, í fjarska; [from ~] langt að, frá langt í burtu
 affability n. vingjarnleiki, viðfelldni
-affable l. vingjarnlegur, viðfelldinn
-affably ao. vingjarnlega
+affable l. vingjarnlegur, viðfelldinn, viðkunnanlegur
+affably ao. vingjarnlega, viðkunnanlega
 affair n. hlutur; mál, málefni; starf; framhjáhald ([she's having an ~]); bardagi; [~ of honour] einvígi; [quite a different ~] allt annað mál, allt öðru máli að gegna
-affect s. sækjast eftir; fá á, hafa áhrif á; gera sér upp; látast ([she ~ed to be satisfied]); [be ~ed by] komast við af
-affectation n. tilgerð, uppgerð
+affect s. fá á, hafa áhrif á; sækjast eftir; gera sér upp; látast, þýkjast ([she ~ed to be satisfied])
+affectation n. tilgerð, uppgerð, þykjusta
 affected l. tilgerðarlegur; uppgerður; -viljaður ([well-/ill- ~]); sýktur, sjúkur (af [with])
-affectedness n. tilgerð, uppgerð
+affectedness n. tilgerð, uppgerð, þykjusta
 affecting l. áhrifamikill, hjartnæmur
 affection n. tilfinning; tilhneiging; ástúð; sjúkdómur; ástand; eiginleiki; s. hafa mætur á
 affectionate l. ástúðlegur; viðkvæmur
@@ -1633,7 +1633,7 @@ attrition n. núningur, afrif hörundsins; iðrunarkvöl
 attune s. setja í samræmi (við e-ð [to]); stilla hljóðfæri
 atwain ao. í tvennt
 auburn l. jarpur ([~ hair])
-auction n. uppboð ([sell by ~, I bought it at an ~]); s. selja á uppboði
+auction n. uppboð ([sell by ~, I bought it at an ~]); s. selja á uppboði ([~ off])
 auctioneer n. uppboðshaldari; s. selja á uppboði
 audacious l. djarfur; ófyrirleitinn, ósvífinn
 audaciousness n. dirfska; ofdirfska; óskammfeilni ([have the ~ to])

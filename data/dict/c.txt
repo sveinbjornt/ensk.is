@@ -562,7 +562,7 @@ chameleon n. kameljón (eðlutegund sem skiptir mjög litum)
 chamfer s. hola; gera holrákir á (súlu); höggva (slípa) brún af; n. holrák á súlu
 chamois n. gemsa; þvottleður
 champ s. tyggja, bryðja; bíta í ([the horses ~ed their bits]); n. tuggning, bruðning; kappi, kempa (stytt. á %[champion]%)
-champagne n. kampavín ([a bottle of ~])
+champagne n. kampavín
 champaign n. slétta, flatlendi, sléttlendi ([~ country])
 champignon n. ætisveppur
 champion n. bardagamaður, kappi, kempa; forvígismaður; [~ rower] róðrarmeistari; s. verja, halda uppi vörn fyrir ([~ a cause])
@@ -620,7 +620,7 @@ charlatanism n. skottulækningar; svik
 charlatanry n. skottulækningar; svik
 Charles's Wain n. Karlsvagn (stjörnumerki)
 charlock n. akurkál
-charm n. töfrar; töfragripur, verndargripur; unaður, fegurð; sjarmi; s. töfra, heilla; gera frá sér numinn; sefa
+charm n. töfrar; töfragripur, verndargripur; perónutöfrar, sjarmi; unaður, fegurð; s. töfra, heilla; gera frá sér numinn; sefa
 charmer n. töfrari; töfrakona; sjarmör
 charming l. heillandi, sjarmerandi, unaðslegur, yndislegur
 charnel-house n. beinahús (í kirkjugarði)
@@ -704,7 +704,7 @@ chic n. listfengi, stíll; l. tískulegur, skrautlegur
 chicane n. lagaflækjur, hártogun; s. viðhafa lagaflækjur
 chicanery n. lagaflækjur, hártogun
 chicken n. kjúklingur, hænuungi; nft. hænsni
-chick n. kjúklingur, hænuungi; nft. hænsni
+chick n. kjúklingur, hænuungi; gella, pía (óforml.); nft. hænsni; gellur, píur (óforml.)
 chicory n. kaffirót
 chide s. ávíta, skamma
 chief n. foringi, höfðingi, yfirmaður, stjóri, goði; l. fremstur, helstur; aðal-; megin-; [~ justice] háyfirdómari; ao. [~ of all] umfram allt
@@ -740,7 +740,7 @@ Chinaman n. Kínverji
 chinch n. veggjalús
 chine n. hryggur af skepnu (með kjötinu á); hryggur, brún (á fjalli); lögg (á tunnu); s. höggva hrygginn, í stykki
 Chinese l. kínverskur: n. Kínverji; kínverska
-chink n. glasahljóð, málmhljóð; peningar; rifa, sprunga; andköf; s. glamra, hringla; springa; troða í rifur; standa á öndinni (af hósta eða hlátri)
+chink n. glasahljóð, málmhljóð; peningar; rifa, sprunga; andköf; niðrandi orð um e-n af kínverskum uppruna; s. glamra, hringla; springa; troða í rifur; standa á öndinni (af hósta eða hlátri)
 chinky l. með sprungum, rifum
 chintz n. sirz
 chip n. höggspónn; flís; sneið; [he is a ~ of the old block] lifandi eftirmyndin hans föður síns; s. höggva smátt; höggva til; flísast
@@ -751,7 +751,7 @@ chirp s. kvaka, tísta; n. kvak, tíst
 chirpy l. kátur, fjörugur
 chisel n. meitill; sporjárn; s. meitla, höggva með meitli; svíkja
 chit n. krakki; stelpa
-chit-chat n. skraf, mas
+chit-chat n. skraf, mas, spjall
 chitterlings nft. slátur (einkum úr svínum)
 chivalrous l. riddaralegur
 chivalry n. riddaraskapur; [age of ~] riddaraöld
@@ -764,7 +764,7 @@ chlorosis n. bleikjusótt, blóðleysi
 chock n. hjólskorða; bátskorða (á þilfari); s. skorða; troðfylla
 chock-full l. troðfullur
 chocolate n. súkkulaði; s. drekka súkkulaði
-choice n. val, kosning; úrval; kostur; [make ~ of] velja; [have no ~ but] eiga ekki annars kosta völ en; l. ágætur
+choice n. val, kosning; úrval; kostur, valkostur; [make ~ of] velja; [have no ~ but] eiga ekki annars kosta völ en; l. ágætur
 choiceness n. ágæti
 choir n. söngflokkur (í kirkju); kór; kórsöngur
 choke s. kæfa; kyrkja; ætla að kafna
@@ -2079,7 +2079,7 @@ cookery-book n. matreiðslubók
 cool l. svalur; kaldur; stilltur; hálfvolgur; fálátur; n. svali; [in the ~ of the evening] í kvöldsvalanum; s. kæla, svala; kólna
 cooler n. kælingarker
 coolly ao. stillilega; fálega; kuldalega
-coolness n. stilling; fáleikur; kuldi
+coolness n. stilling; fáleikur; kuldi; það að vera svalur
 coolie n. indverskur eða kínverskur verkamaður
 coop n. körfubúr fyrir alífugla, hænsnabúr; karfa til að veiða í fisk; s. [~ up] byrgja inni (í búri)
 cooper n. beykir, laggari; s. gera við (tunnu); dubba upp ([up])

@@ -1210,9 +1210,9 @@ expedience n. hentugleiki, gagnsemi; hyggindi ([political ~]); eigin hagsmunir
 expediency n. hentugleiki, gagnsemi; hyggindi ([political ~]); eigin hagsmunir
 expedient l. hentugur, haganlegur, gagnlegur; n. útvegur, úrræði
 expedite s. flýta fyrir; framkvæma skjótlega; senda af stað (skjal, boð); l. greiðfær, skjótur
-expedition n. flýtir, hraði; ferð; leiðangur
+expedition n. ferð, leiðangur; flýtir, hraði, hröðunssss
 expeditious l. greiður, skjótur; greiðfara
-expel s. reka burtu
+expel s. reka burtu, reka á brott, útskúfa (úr söfnuði)
 expend s. eyða, verja (fé til e-s [in, upon]); kosta til
 expenditure n. tilkostnaður, eyðsla
 expense n. kostnaður ([at his own ~]); útgjöld
