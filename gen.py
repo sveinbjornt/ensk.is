@@ -43,6 +43,7 @@ import csv
 import shutil
 import datetime
 import subprocess
+import json as std_json
 
 import sqlite_utils
 
@@ -221,6 +222,64 @@ def generate_text(entries: EntryList) -> str:
     return f"{PROJECT.STATIC_FILES_PATH}{zipfn}"
 
 
+def generate_json(entries: EntryList) -> str:
+    """Generate JSON dictionary in standard format. Return file path."""
+    
+    # Change to static files dir
+    old_cwd = os.getcwd()
+    os.chdir(PROJECT.STATIC_FILES_PATH)
+    
+    # Format the entries according to a standard dictionary format
+    dictionary_data = {
+        "metadata": {
+            "title": PROJECT.NAME,
+            "description": PROJECT.DESCRIPTION,
+            "license": PROJECT.LICENSE,
+            "author": PROJECT.EDITOR,
+            "email": PROJECT.EMAIL,
+            "website": PROJECT.BASE_URL,
+            "source": PROJECT.REPO_URL,
+            "version": PROJECT.VERSION,
+            "date": datetime.datetime.now(datetime.UTC).isoformat(),
+            "language": {
+                "source": "en",
+                "target": "is"
+            }
+        },
+        "entries": []
+    }
+    
+    # Add each entry to the dictionary
+    for entry in entries:
+        word, definition, ipa_uk, ipa_us, page_num = entry
+        entry_data = {
+            "headword": word,
+            "definition": definition,
+            "pronunciation": {
+                "ipa_uk": ipa_uk,
+                "ipa_us": ipa_us
+            },
+            "metadata": {
+                "original_page": page_num if page_num > 0 else None
+            }
+        }
+        dictionary_data["entries"].append(entry_data)
+    
+    # Write to file and zip it
+    filename = f"{PROJECT.BASE_DATA_FILENAME}.json"
+    with open(filename, "w", encoding="utf-8") as file:
+        std_json.dump(dictionary_data, file, ensure_ascii=False, indent=2)
+    
+    zipfn = f"{filename}.zip"
+    zip_file(filename, zipfn)
+    
+    # Restore previous CWD
+    silently_remove(filename)
+    os.chdir(old_cwd)
+    
+    return f"{PROJECT.STATIC_FILES_PATH}{zipfn}"
+
+
 def generate_pdf(entries: EntryList) -> str:
     """Generate PDF. Return file path."""
     raise NotImplementedError
@@ -324,6 +383,9 @@ def main() -> None:
 
     print("Generating CSV")
     generate_csv(entries, unlink_csv=True)
+
+    print("Generating JSON")
+    generate_json(entries)
 
     # print("Generating Apple Dictionary")
     # generate_apple_dictionary(entries)
