@@ -1,6 +1,6 @@
 fable n. dæmisaga, skröksaga; tilbúningur, ósannindi; s. segja frá (eins og í dæmisögu); skrökva upp
 fabler n. skröksöguhöfundur
-fabric n. bygging; vefnaður
+fabric n. efni; bygging; vefnaður; vefnaðarvara
 fabricate s. búa til; ljúga upp ; falsa
 fabrication n. smíði; tilbúningur; skrök, lygi; fölsun
 fabricator n. smiður; höfundur
@@ -9,7 +9,7 @@ fabulous l. skröksögulegur ([~ monsters]); lygilegur, ósennilegur, ótrúlegu
 facade n. framhlið
 face n. andlit; framhlið; yfirborð; flötur; svipur, útlit; augsýn; skífa (á úri eða klukku); ósvífni; [look a person in the ~] horfa framan í e-n; [set one's ~ against] sporna við; [make ~s] gretta sig; s. standa í móti; bjóða byrgin; þekja (prýða) að framan; brydda; vita, snúa út að ([~ on, to, eastwards]); [~ about] snúa sér við
 facer n. snoppungur
-facet n. fægiflötur (á gimsteini eða gleri); s. sniðslípa
+facet n. flötur, hlið; fægiflötur (á gimsteini eða gleri); s. sniðslípa
 facetious l. fyndinn, gamansamur; hnyttilegur
 facial l. andlits-
 facile l. auðveldur; vingjarnlegur; ráðþægur, leiðitamur
@@ -715,7 +715,7 @@ flounce s. brjótast um; busla; strunsa ([~ off, away]); leggja, brydda (fat); n
 flounder n. koli, lúða; s. brjótast um, velta sér, veltast
 flour n. smátt mjöl, hveitimjöl; s. mala smátt; sáldra mjöli á
 floury l. mjölkynjaður; mjölugur
-flourish s. blómgast, dafna, standa með (miklum) blóma; gorta; krota, flúra; sveifla, bregða (sverði); fjölyrða (um e-ð [on, upon]); n. blómi; málskrúð; útflúr, krot; sveifla; lúðurþytur
+flourish s. dafna, blómgast, standa með (miklum) blóma; gorta; krota, flúra; sveifla, bregða (sverði); fjölyrða (um e-ð [on, upon]); n. blómi; málskrúð; útflúr, krot; sveifla; lúðurþytur
 flout s. hæða, spotta, gera gys að ([~ at]); n. háð, spott, gabb
 flow s. fljóta, renna; falla að (um sjó, [ebb and ~]); leiða af e-u ([from]); láta flæða (renna) yfir; [the measure ~s over] það rennur út úr málinu; n. flóð, aðfall; straumur, rennsli; gnótt; hljóðfall, hrynjandi
 flower n. blóm, blómstur; blómi; [in the ~ of one's age] í blóma aldurs síns; s. blómgast; vera í blóma sínum; skreyta með blómum; sauma blómstur í

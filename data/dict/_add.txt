@@ -674,7 +674,7 @@ Cameroon n. Kamerún
 Canada n. Kanada
 Canadian l. kanadískur, frá Kanada; n. Kanadamaður
 Cape Verde n. Grænhöfðaeyjar
-Cayman Islands n. Caymaneyjar
+Cayman Islands n. Cayman-eyjar
 Central African Republic n. Mið-Afríkulýðveldið
 Chad n. Tsjad
 Chile n. Chile, Síle
@@ -3314,7 +3314,7 @@ cisalpine l. hérna megin Alpanna (Norður-Ítalía)
 cataphora n. dvali (þar sem e-r bregst við ytri áhrifum þótt meðvitund sé skert)
 hackathon n. lausnamót, hakkarakeppni
 attentiveness n. athygli (sjá %[attention]%)
-autodidact n. e-r sem er sjálflærður
+autodidact n. e-r sem er sjálflærður, sjálflærður maður
 autodidacticism n. sjálfsnám
 autodidactic l. sjálflærður, sjálfsnáms-
 self-learning n. sjálfsnám; l. sjálfsnáms-
@@ -3554,7 +3554,7 @@ kilojoule n. kílójúl, þúsund júl (sjá mælieininguna %[joule]%)
 megajoule n. megajúl, milljón júl (sjá mælieininguna %[joule]%)
 neofascist n. nýfasisti; l. nýfastistalegur
 neofascism n. nýfasismi
-brainstorm n. heilarok; s. reyna að fá hugmyndir um e-ð [let's ~ this!]
+brainstorm n. heilarok; s. reyna að fá nýjar hugmyndir um e-ð ([let's ~ this!])
 hitchhike s. ferðast á puttanum
 hitchhiker n. puttaferðalangur
 hitchhiking n. að ferðast á puttanum, puttaferðalög

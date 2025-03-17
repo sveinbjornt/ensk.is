@@ -822,7 +822,7 @@ boisterous l. stormasamur ([a ~ passage of twenty days]); hávær; ofsafenginn
 boisterousness n. ofsi
 bold l. djarfur, hugaður; ófeilinn, framur; brattur; [make so ~ as to] vera svo djarfur að; feitletraður
 boldly ao. djarflega
-boldness n. dirfska; ófeilni
+boldness n. dirfska; ófeilni; beldni
 bole n. trébolur
 boll n. fræbelgur
 bolster n. (undir)-koddi; s. hlaða koddum undir; styrkja; troða út ([out/up])
@@ -851,7 +851,7 @@ bony l. beinóttur; beinamikill; með áberandi bein
 boo uh. svei! bú! s. sveia; æpa að e-m
 booby n. hafsúla; auli; sjá einnig %[boob]%
 boodle n. sægur, hyski ([the whole ~]); mútufé
-book n. bók; s. bóka, skrá; kaupa farmiða
+book n. bók; s. bóka, skrá; kaupa farmiða ([~ a ticket])
 bookbinder n. bókbindari
 bookcase n. bókaskápur
 booking n. bókfærsla; skráning
@@ -867,9 +867,9 @@ bookcellar n. bóksali
 booktrade n. bókverslun
 boom n. dynur; bráður uppgangur; snögg blómgun; seglás; þvergirðing (hafnar eða ár); s. dynja, drynja; bruna áfram ([she came booming]); blómgast snögglega; þjóta upp (um verð, verslun o.fl.); hleypa upp verði; veita bráðan viðgang (með skrumi)
 boon n. blessun; hagnaður; l. kátur ([a ~ companion])
-boor n. bóndi; búri; leiðinlegur eða frumstæður náungi
+boor n. bóndi; búri; leiðinlegur eða frumstæður náungi, búralegur maður
 boorish l. ruddalegur, búralegur ([~ fellow, ~ manners])
-boot n. stígvél; s. gagna ([it ~s not]); n. gagn; [to ~] að auki
+boot n. stígvél; s. gagna ([it ~s not]); ræsa, setja í gang; n. gagn, bót; [to ~] að auki
 bootless l. gagnslaus; stígvélalaus
 booted l. stígvélaður
 bootjack n. stígvélaklauf
@@ -928,10 +928,10 @@ bounce n. dynkur; stökk; skrum, gort; s. hoppa, stökkva; ryðjast, geysast ([~
 bouncer n. dyravörður; gortari; lygalaupur; haugalygi
 bouncing l. mikill fyrir sér, mikill á lofti ([a ~ girl]); fruntalegur ([in a ~ manner])
 bound l. bundinn (sjá %[bind]%); ákvarðaður, á leið (til e-s staðar); [a vessel ~ for England] sem á að fara eða er á leið til Englands; [homeward ~] á heimleið; [he is ~ to win] það er víst að hann vinnur; n. stökk; takmörk, landamerki; s. stökkva; takmarka; [~ on] liggja að; [be ~ed by] takmarkast af
-boundary n. landamerki, takmörk
+boundary n. landamæri, mörk, skil, landamerki, takmörk
 boundless l. ótakmarkaður, takmarkalaus
 bounden l. skuldbundinn
-bounteous l. örlátur (á e-ð [of])
+bounteous l. örlátur, gjöfull (á e-ð [of])
 bounteousness n. örlæti
 bountiful l. örlátur (á e-ð [of])
 bounty n. örlæti; góðgerðasemi; gjöf; verðlaun
@@ -974,12 +974,12 @@ bracken n. burkni
 bracket n. krappi, brík (undir hillu); ft. hornklofar; s. setja í hornklofa
 brackish l. saltur; sem seltubragð er af ([we found the water ~])
 brad n. hauslaus nagli
-brag s. gorta; n. gort
+brag s. gorta, monta sig; n. gort, mont
 braggadocio n. grobb
-braggart n. gortari
+braggart n. gortari, montari, grobbari
 braid s. flétta; n. hárflétta; hárband; snúra
 braiding n. snúrur
-brain n. heili; ft. gáfur, vit; [crack one's ~] ganga af vitinu; s. slá heilann út úr
+brain n. heili; [~s] gáfur, vit ([he's got ~s])
 brain fever n. heilabólga
 brainless l. heilalaus; ógáfaður
 brainpan n. heilakúpa
