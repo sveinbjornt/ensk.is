@@ -17,7 +17,7 @@ facilitate s. gera auðveldara
 facility n. auðveldleiki; liðugleiki; ljúfmennska; ráðþægni; ft. léttir, hagsmunir
 facing n. uppslag; brydding (á einkennisbúningi); ytra múrlag ([a ~ of white stone])
 facsimile n. nákvæm eftirstunga (eftirprentun) skrifleturs
-fact n. staðreynd, sannreynd, verk, athöfn; atriði, hlutur; [nearer the ~] nær sanni; [in ~] í raun og veru
+fact n. staðreynd, sannreynd; verk, athöfn; atriði, hlutur; [nearer the ~] nær sanni; [in ~] í raun og veru
 faction n. flokkur (í stjórnmálum); flokkadráttur
 factious l. óeirðarfullur
 factitious l. íþróttalegur; uppgerður
@@ -26,9 +26,9 @@ factor n. umboðsmaður (kaupmanns)
 factorage n. umboðssala; umboðslaun
 factory n. stór verksmiðja, umboðsverslunarhús
 facultative l. kjörfrjáls
-faculty n. hæfileiki; háskóladeild; réttur, heimild; [the medical ~] læknastéttin
-fad n. duttlungur
-faddish l. duttlungafullur, sérvitur
+faculty n. hæfileiki; vitsmunir ([mental ~]); háskóladeild; réttur, heimild; stétt
+fad n. tíska, stundaræði; duttlungur
+faddish l. tískulegur; duttlungafullur, sérvitur
 fade s. fölna, blikna; visna; smáhverfa ([~ away]); upplitast; óskýrast
 fadeless l. óvisnanlegur
 faerie n. álfur, álfkona

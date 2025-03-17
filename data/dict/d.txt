@@ -584,10 +584,10 @@ deputy chairman n. varaformaður
 deracinate s. rífa upp með rótum; uppræta
 derail s. setja (fara) út af brautarteinunum
 derange s. raska, rugla; aflaga; sturla
-deranged l. sturlaður
-derangement n. rugl; ringl; sturlun ([mental ~]); röskun, truflun
-derelict l. yfirgefinn; eigandalaus; n. skip, sem er yfirgefið á sjó; einstæðingur
-dereliction n. yfirgefning, vanrækt ([~ of duty])
+deranged l. sturlaður, ruglaður
+derangement n. rugl; ringl; röskun, truflun; sturlun ([mental ~])
+derelict l. yfirgefinn; eigandalaus; einmana; n. skip sem er yfirgefið; einstæðingur
+dereliction n. yfirgefning; vanræksla ([~ of duty])
 deride s. spotta
 derision n. spott; athlægi ([to be in ~, bring into ~])
 derisive l. háðslegur, hæðilegur, hæðnis-
@@ -657,14 +657,14 @@ despoliation n. rán, ránskapur
 despond s. láta hugfallast
 despondence n. örvænting; hugleysi, hugarvíl
 despondent l. huglaus, hugsjúkur
-despot n. harðstjóri
-despotic l. harðstjórnarlegur
+despot n. harðstjóri, ofríkismaður
+despotic l. harðstjórnarlegur, harðstjórnar-, ofríkis-
 despotism n. harðstjórn, ofríki
 despotist n. harðstjórnarmaður
 dessert n. eftirmatur, ábætir
-destination n. ákvörðun; ákvörðunarstaður ([place of ~])
-destine s. ákvarða, ætla e-ð (til e-s [to, for]); [he was not ~d to escape] honum var ekki ætlað (hann átti ekki) að komast undan
-destiny n. forlög; ft. forlagadísir
+destination n. áfangastaður; ákvörðunarstaður ([place of ~]); ákvörðun
+destine s. ákvarða, ætla e-ð (til e-s [to, for]); [he was not ~d to escape] honum var ekki ætlað (hann átti ekki) að komast undan, það voru ekki hans örlög að komast undan
+destiny n. örlög, forlög; ft. forlagadísir
 destitute l. snauður (að e-u [of]), bláfátækur; hjálparlaus
 destitution n. skortur, örbirgð
 destroy s. rífa niður; eyða; drepa; [~ oneself] ráða sér bana
@@ -735,7 +735,7 @@ deviation n. frávik; fráhvarf, afbrigði (frá e-u [from])
 device n. tæki; ráð, kænskubragð; tilfæring(ar); einkunnarmerki; einkunnarorð; [to leave him to his own ~s] láta hann eiga sig
 devil n. djöfull; [printer's ~] vikadrengur (í prentsmiðju); [a poor ~] mannræfill; [a ~ of a fight] skrambi harður bardagi; [how the ~] hvernig í fjandanum?; s. pipra (t.d. steik eða egg)
 devilhood n. djöfuldómur
-devilish l. djöfullegur, helvískur; skrambi- ([through the devilish cold])
+devilish l. djöfullegur, helvískur ([through the devilish cold])
 devilism n. djöfulskapur
 devilkin n. smádjöfull
 devilry n. djöflagangur; djöfullegt athæfi
@@ -789,7 +789,7 @@ diametrical l. sem lýtur að þvermáli; beinn ([in ~ opposition to])
 diametrically ao. [~ opposite] alveg gagnstæður
 diamond n. demantur, gimsteinn; tígull (í spilum); s. skreyta demöntum
 diamond-cutter n. demantaslípari
-diaper n. rósað léreft; handklæðadúkur; þurrka, handklæði; s. vefa rósir í, skreyta rósamyndum
+diaper n. bleyja; rósað léreft; handklæðadúkur; þurrka, handklæði; s. vefa rósir í, skreyta rósamyndum
 diaphanous l. gagnsær
 diaphragm n. þind
 diarrhea n. niðurgangur, lífsýki
@@ -1428,7 +1428,7 @@ doltish l. klunnalegur; heimskur
 domain n. landeign; ríkisfasteign; umráðasvæði; svið
 dome n. hvolfþak, bungulagaður fjallshnúkur
 domed l. hvelfdur
-domestic l. heimilislegur; heimilis-; heimaunninn; innanlands-; taminn; [~ animals] húsdýr; n. hjú
+domestic l. heimilislegur; heimilis-; heimaunninn; innanlands-; taminn; n. hjú
 domesticate s. venja við heimilið; temja
 domical l. hvelfdur; með hvolfþaki, hvolfþökum ([~ church])
 domicile n. heimkynni, bústaður, heimilisfang; [~ of a bill] greiðslustaður víxils; s. ákveða greiðslustað (víxils)
@@ -1444,10 +1444,10 @@ dominical l. sunnudags-; drottinlegur ([~ prayer])
 Dominican n. svartmunkur
 dominion n. yfirráð, drottnun; lönd, ríki; sjálfstjórnarnýlenda Breta ([the ~ of Canada])
 domino n. dómínóspil ([game of ~es]); yfirhöfn, skikkja
-don n. herra (spánskur titill); Spánverji; háskólakennari; s. færa sig í
+don n. herra (spánskur titill); Spánverji; háskólakennari ([an Oxford ~]); s. færa sig í, klæðast
 donation n. gjöf; gjafarbréf
 donative n. gjöf; l. gefinn
-done l. útkljáður; soðinn, steiktur; [he is ~ for] það er úti um hann; uh. samþykkt! (um veðmál)
+done l. gerður; útkljáður; soðinn, steiktur ([well ~]); [he is ~ for] það er úti um hann; uh. gert!; [well done!] vel gert!; samþykkt! (um veðmál)
 donjon n. höfuðturn
 donkey n. asni
 donor n. gefandi
@@ -1597,7 +1597,7 @@ dress coat n. kjóll (karlmannsfat)
 dresser n. sá sem matreiðir o.s.frv.; eldhúsborð
 dress-fabric n. kjóladúkur
 dressing n. umbúðir (um sár); áburður; sósa; ráðning, refsing
-dressing-gown n. morgunsloppur
+dressing-gown n. sloppur, morgunsloppur
 dress-maker n. kjólasaumakona
 dressy l. skartsamur, skrautlegur; [~ woman] skartkona
 dribble s. drjúpa; slefa; láta drjúpa; n. dropi, leki

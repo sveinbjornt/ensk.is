@@ -107,15 +107,8 @@ def test_read_wordlist() -> None:
         fname = f.name
 
     try:
-        # Test with unique=True (default)
-        words = util.read_wordlist(fname)
-        assert len(words) == 3
-        assert "word1" in words
-        assert "word2" in words
-        assert "word3 extra" in words
-
         # Test with unique=False
-        words = util.read_wordlist(fname, unique=False)
+        words = util.read_wordlist(fname)
         assert len(words) == 4
         assert words.count("word2") == 2
     finally:

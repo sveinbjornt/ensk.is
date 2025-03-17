@@ -280,7 +280,7 @@ acolyte n. kirkjuþjónn, fylgismaður
 aconite n. eiturjurt
 acorn n. akarn
 acoustic l. heyrnarlegur; hljómlegur
-acoustics nft. hljómfræði
+acoustics nft. hljómfræði; hljómburður ([the ~ are excellent])
 acquaint s. láta vita (um e-ð [with]); [~ oneself with] kynna sér; [become ~ed with] kynnast e-u
 acquaintance n. kunningsskapur; viðkynning; kynni (af e-m [with]); kunningi; [make the ~ of] kynnast e-u eða e-m
 acquaintanceship n. kunningsskapur
@@ -839,8 +839,8 @@ amatorial l. ástar-
 amaze n. undrun; s. vekja undrun, gera forviða
 amazed l. forviða
 amazement n. undrun
-amazing l. furðanlegur; frábær, magnaður (óforml.)
-amazingly ao. furðanlega, mjög
+amazing l. furðulegur, undraverður; frábær, magnaður (óforml.)
+amazingly ao. undravert, undursamlega, furðulega, ótrúlega
 Amazon n. Amasóna (skjaldmey í grískri goðafræði); herská kona; Amasónfrumskógurinn; Amasónfljót
 ambages nft. vafningar, vífilengjur
 ambassador n. sendiherra
@@ -1163,12 +1163,12 @@ apishly ao. apalega, bjánalega
 apocryphal l. vafasamur, vafa-
 apodictic l. áreiðanlegur, bersýnilegur, skilyrðislaus
 apogee n. jarðfirð; fjarlægasti punktur; hápunktur, toppur
-apologetic l. verjandi; afsakandi
+apologetic l. afsakandi; verjandi
 apologetics nft. trúvarnarfræði
-apologize s. afsaka ([for]); afsaka sig
+apologize s. biðjast afsökunar (fyrir [for]); afsaka sig
 apologue n. dæmisaga
-apology n. vörn, varnarrit; afsökun; [an ~ for breakfast] lítilfjörlegur morgunverður
-apoplectic l. niðurfallssjúkur, slagaveikur
+apology n. afsökun; vörn, varnarrit
+apoplectic l. niðurfallssjúkur, slagaveikur; öskureiður, bálreiður, hamslaus
 apoplexy n. slagaveiki, niðurfallssýki; slag
 apostasy n. fráhvarf (frá trú eða skoðunum)
 apostate n. frávillingur, trúníðingur
@@ -1279,7 +1279,7 @@ aqueduct n. vatnsveitustokkur, vatnsrenna, vatnsleiðsla, vatnsveita
 aqueous l. vatnskenndur, vatns-
 aquiline l. arnar-; [~ nose] arnarnef, kónganef
 Arab n. Arabi; arabískur hestur
-Arabian n. Arabi; l. arabískur
+Arabian l. arabískur; n. Arabi
 Arabic l. arabískur, frá Arabíu; n. arabíska (tungumál)
 arabesque n. skornar eða málaðar skrautmyndir, laufamyndir, laufaskurður
 arable l. ræktanlegur, plægjanlegur, yrkilegur ([~ land])
@@ -1536,10 +1536,10 @@ asthma n. asma; andþyngsli; brjóstþyngsli
 asthmatic l. þjáður af brjóstþyngslum; mæðun
 astir ao. á fótum, á ferli ([she was ~ by six o'clock]); í hreyfingu ([there is much wind ~])
 astonish s. vekja undrun (e-s), gera forviða
-astonishing l. furðanlegur
+astonishing l. undraverður, furðulegur
 astonishment n. furða, undrun
 astound s. gera agndofa (forviða) af undrun
-astonished l. forviða
+astonished l. forviða, stórhissa, undrandi
 astraddle ao. klofvega; [~ of] klofvega á
 astrand ao. á ströndinni, uppi í fjöru ([to lie ~])
 astral l. stjarnlegur, stjörnu-
@@ -1641,9 +1641,9 @@ audacity n. dirfska; ofdirfska; óskammfeilni ([have the ~ to])
 audibility n. heyranleiki ([the ~ of a sound])
 audible l. heyranlegur
 audibly ao. heyranlega
-audience n. áheyrsla, áheyrn; viðtal við stórhöfðingja; áheyrendur
+audience n. áheyrendur, áhorfendur ([members of the ~]); áheyrsla, áheyrn; áheyrendur
 audit n. endurskoðun reikninga; s. endurskoða (reikninga)
-audition n. heyrn
+audition n. heyrn; áheyrnarprufa, áheyrnarpróf
 auditor n. áheyrandi; endurskoðandi, endurskoðari reikninga
 auditorial l. endurskoðunar-
 auditorship n. endurskoðaraembætti
@@ -1685,7 +1685,7 @@ austere l. óþýður, harður; siðavandur
 austerity n. óþýðleiki; strangleiki; harka; aðhaldsstefna í fjármálum; ft. meinlætalifnaður ([the austerities of an anchorite])
 austral l. suðlægur, suður-
 Austria n. Austurríki
-Austrian l. austurrískur
+Austrian l. austurrískur; n. Austurríkismaður
 authentic l. áreiðanlegur; ófalsaður, ekta; lögfullur
 authentically ao. áreiðanlega
 authenticate s. löggilda; staðfesta; auðkenna
