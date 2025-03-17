@@ -345,7 +345,7 @@ cassation n. ónýting, gilding ([court of ~])
 cassia n. kanelbörkur
 cassock n. prestshempa
 cast s. kasta, fleygja; hafna; stinga upp; leggja saman; steypa (úr málmi); verpast, skekkjast (um við); [~ dice] kasta teningum; [~ anchor] varpa akkerum; [~ a hook, a fishing line] renna öngli, færi; [~ accounts] reikna; [~ about] velta fyrir sér, hugsa um; [~ away] kasta burtu (frá sér); [the vessel was ~ away] fórst, týndist; [~ off] útskúfa; hafna; hrinda af sér; [~ up] leggja saman; n. kast; steypa; eftirsteypa; lögun, snið; mót; blær; tegund; samlagning; [~ of characters/parts] niðurskipun hlutverka (í leik); [(the paper has) a bluish ~] bláleitan blæ; [stake all on the ~ of a die] láta allt vera komið undir einu teningskasti; [~ iron] steypujárn; [~-off] l. lagður niður, aflagnar- ([~-off clothes])
-castaway l. útskúfaður, gagnslaus; n. afhrak; skipbrotsmaður
+castaway n. skipbrotsmaður; afhrak; l. útskúfaður, gagnslaus
 caster n. kastari; steypari; reiknari; [a set of ~s] glasastóll
 caste n. stétt (á Indlandi)
 castellan n. hallarráðsmaður
@@ -353,14 +353,14 @@ castellated l. búinn vígturnum ([a ~ building])
 castigate s. refsa, hirta
 castigation n. refsing, hirting
 casting n. kast; steypa; [~s] steyptir munir; [~ of a drapery] fall, fellingar; l. sem ræður úrslitum ([~ vote, ~ weight])
-castle n. kastali, vígi, virki; herragarður; hrókur (í tafli); [~ in the air (in the clouds, in Spain)] loftkastali, skýjaborg; [~-builder] n. loftkastalamaður
+castle n. kastali, vígi, virki; herragarður; hrókur (í tafli); [~ in the air (in the clouds)] loftkastali, skýjaborg; [~-builder] n. loftkastalamaður
 castor n. bifur, bjór (sjá %[beaver]%); bjórskinnshúfa; kryddbaukur; [~ oil] laxerolía; [~ sugar] sáldsykur
 castrate s. gelda, vana; stytta (rit)
 castration n. gelding, vönun
 casual l. frjálslegur, kærulaus, hversdagslegur, óformlegur, afslappaður; tilviljunarlegur; óviss
 casually ao. af hendingu, af tilviljun
-casualty n. hending; slys
-casualties nft. fallnir (særðir) í orustu
+casualty n. slys; manneskja sem verður slysi að bráð; fallinn eða særður hermaður; fórnarlamb
+casualties nft. fallnir (særðir) í orustu; [there were no ~] enginn hlaut skaða af; [many ~] mikið mannfall
 cat n. köttur, kattardýr; [like a ~ about hot milk] eins og köttur í kringum heitan graut
 cataclysm n. vatnsflóð
 catacomb n. neðanjarðar grafhvelfing, grafhýsi
@@ -1583,7 +1583,7 @@ compunctious l. iðrandi, iðrunar- ([~ feeling])
 compurgation n. hreinsun annars af kæru með eiði
 computable l. reiknanlegur
 computation n. reikningur, útreikningur; [beyond ~] óreiknanlegur
-compute s. reikna; n. reikniafl sem magn
+compute s. reikna, reikna út; n. reikniafl sem magn
 comrade n. félagi, lagsmaður, kammerat, kumpáni
 comradely l. kumpánalegur
 comradeship n. lagsmennska, kumpánaskapur
@@ -1737,7 +1737,7 @@ confound s. ónýta ([~ a plan, a hope]); rugla; blanda saman; [~ the fellow] fa
 confounded l. ruglaður; bölvaður, skollans
 confoundedly ao. skolli, skrambi ([~ fond of])
 confront s. standa í móti eða andspænis e-m; ganga fram fyrir; leiða saman, setja augliti til auglitis; samprófa; bera saman
-confrontation n. samanburður; samprófun
+confrontation n. árekstur, átök
 confuse s. trufla; rugla saman
 confused l. truflaður, ruglaður
 confusedly ao. ruglingslega; óljóst

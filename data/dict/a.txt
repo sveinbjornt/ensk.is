@@ -53,8 +53,8 @@ abidance n. dvöl
 abide s. vera; dvelja; standa við ([~ by one's word]); halda fast við; haldast, standast; þola; hlíta ([~ by the award of the umpire]); fella sig við, kunna við ([she could not ~ the country])
 abiding l. fastur, stöðugur; n. dvöl; [~ place] dvalarstaður
 abigail n. þjónustumey
-ability n. hæfileiki; dugnaður; gáfur
-abject l. auðvirðilegur; fyrirlitlegur; n. afhrak, úrþvætti
+ability n. hæfileiki, geta; dugnaður; gáfur
+abject l. auðvirðilegur; fyrirlitlegur; [~ poverty] auðvirðileg fátækt; n. afhrak, úrþvætti
 abjection n. auðvirðilegleiki, niðurlæging
 abjuration n. eiðsvarin afneitun
 abjure s. afneita með eiði ([~ a heresy])
@@ -183,7 +183,7 @@ access n. aðgangur, aðgengi; nálgun, tilkoma; hviða, flog, kast ([in an ~ of
 accessary l. samsekur (í [to]); n. vitorðsmaður
 accessible l. aðgengilegur
 accession n. tilkoma; viðbót; samþykki
-accessory l. viðaukanlegur; meðsekur (í [to]); n. vitorðsmaður; aukaatriði; ft. gögn, tæki, áhöld; þarfir
+accessory l. viðaukanlegur; meðsekur (í [to]); n. vitorðsmaður; aukaatriði; nft. gögn, tæki, áhöld; þarfir
 accidence n. málmyndalýsing; frumfræði
 accident n. tilfelli, tilviljun; slys; aukaatriði
 accidental l. tilviljunarlegur; óverulegur
@@ -243,11 +243,11 @@ accurse s. bölva
 accursed l. bölvaður; andstyggilegur
 accurst l. bölvaður; andstyggilegur
 accusal n. ákæra, ásökun, sakargift
-accusant n. ákærandi, ásakandi
+accusant n. ákærandi, ásakandi, ásakari
 accusation n. ákæra, ásökun
 accusatory l. ásakandi; kæru-
 accuse s. kæra (fyrir [of]); ásaka, lasta; [the ~d party] sakborningur
-accuser n. sakaráberi, ákærandi
+accuser n. sakaráberi, ákærandi, ásakari
 accustom s. venja (við [to])
 accustomed l. vanur (e-u [to]); venjulegur
 ace n. ás (í spilum); ögn; [within an ~ of] það munaði engu að
@@ -305,7 +305,7 @@ acrimony n. beiskja ([~ of expression])
 acrobat n. loftfimleikamaður; línudansari
 across fs. yfir, þvert yfir; yfir um; ao. yfir, þvert yfir; yfir um; [with arms ~] með krosslagða handleggi; [come ~] hitta; [take one ~] flytja yfir um
 acrostic n. nafnstafakvæði, griplur
-act s. framkvæma; leika (sjónleik, hlutverk í sjónleik); verka, hafa áhrif ([the will ~s on the body]); hegða sér, breyta (eftir e-u [on, upon]); [~ up to] breyta samkvæmt e-u ([~ up to a principle]); [~ as interpreter] vera túlkur; n. verk, athöfn; úrskurður; lög; kafli; þáttur (í sjónleik); [the ~s] skjölin; [an ~ of generosity] drengskaparbragð; [~ of settlement] ríkiserfðalög; [caught in the ~] staðinn að verkinu; [in the very ~ of death] alveg í andarslitrunum
+act s. framkvæma; leika, þykjast; verka, hafa áhrif ([the will ~s on the body]); hegða sér, breyta (eftir e-u [on, upon]); [~ up to] breyta samkvæmt e-u ([~ up to a principle]); [~ as interpreter] vera túlkur; n. verk, athöfn; úrskurður; lög; kafli; þáttur (í sjónleik); [the ~s] skjölin; [an ~ of generosity] drengskaparbragð; [~ of settlement] ríkiserfðalög; [caught in the ~] staðinn að verkinu; [in the very ~ of death] alveg í andarslitrunum
 acting l. starfandi, þjónandi; leikandi; n. leiklist
 action n. framkvæmd; verk; áhrif; látbragð (ræðumanns); málsókn, mál; orrusta; [bring an ~ against] höfða mál á móti; s. lögsækja
 actionable l. sem varðar við lög; lögsekur
@@ -402,7 +402,7 @@ admiration n. aðdáun; virðing; undrun
 admire s. dá, dást að; líta upp til; bera virðingu fyrir; undrast
 admirer n. aðdáandi
 admissible l. leyfilegur
-admission n. aðganga, upptaka ([~ to a society]); viðurkenning, játning
+admission n. aðganga, aðgengi, upptaka ([~ to a society]); viðurkenning, játning
 admit s. hleypa inn; veita, leyfa; viðurkenna, kannast við
 admittance n. aðganga, innganga
 admixtion n. blöndun; sambland
@@ -448,7 +448,7 @@ adusted l. skrælnaður, sviðinn
 advance s. flytja fram; efla; flýta fyrir; bera fram ([~ an opinion, a claim to/on]); segja; hefja (til tignar); borga fyrirfram; færa fram, hækka (verð); lána; halda áfram, taka framförum; hækka (í verði); n. framganga, framfarir; verðhækkun; borgun fyrirfram; lán; [in ~] fyrirfram; [in ~ of] á undan
 advanced l. sem stendur framarlega; langt kominn; kominn langt áleiðis; [the day was far ~] það var langt liðið á daginn; [~ in years] aldraður
 advance guard n. framlið
-advancement n. efling; upphefð
+advancement n. framganga; efling; upphefð
 advantage n. hagnaður, ábati; yfirburðir (yfir [of, over]); kostur; [to ~] með hagnaði; [have the ~ of one] vera e-m fremri; [take ~ of] nota sér; s. bæta; gagna
 advantageous l. gagnlegur, hagstæður
 advantageousness n. gagnsemi
@@ -1091,8 +1091,8 @@ anteroom n. forsalur
 anthem n. kirkjusöngur; lofsöngur; [national ~] þjóðsöngur
 anthology n. kvæðasafn, kvæðaval, úrvalskvæði
 anthracite n. gljákol
-anthrax n. blóðkýli; miltisbruni
-anthropological l. mannfræðilegur
+anthrax n. miltisbrandur, miltisbruni; blóðkýli
+anthropological l. mannfræðilegur, mannfræði-
 anthropologist n. mannfræðingur
 anthropology n. mannfræði
 anti- fsk. á móti, mót-, gagn-, and- (í samsetningum, sjá t.d. %[antidote]%, %[antichrist]%, %[antipathy]%)

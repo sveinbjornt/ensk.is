@@ -3099,7 +3099,7 @@ et cetera ao. og svo framvegis (úr latínu)
 etc ao. stytt. á %[et cetera]%
 marlin n. oddnefur, marlín, merlingur (fisktegund)
 seafarer n. sæfari
-bloodbath n. blóðbað
+bloodbath n. blóðbað, blóðsúthellingar
 warhead n. sprengjuoddur; [nuclear ~] kjarnaoddur
 metallurgist n. málmfræðingur, málmvinnslufræðingur
 metallurgical l. málmfræðilegur, málmvinnslu-
@@ -4956,7 +4956,7 @@ labile l. óstöðugur, líklegur til að breytast
 lability n. óstöðugleiki
 zero-sum n. núllsumma; [~ game] jafnvirðisleikur, núllsummuleikur; l. núllsummu-
 onshore l. á landi
-offshore l. (úti) á sjó
+offshore l. (úti) á sjó, skammt undan landi, frá landi, aflands-; [~ bank account] aflandsreikningur
 incubator n. hitakassi, hitaskápur, nýburakassi, klakskápur; [~ space] nýgræðingsrými
 cross-cultural l. þvermenningarlegur, milli menninga
 cafeteria n. kaffistofa; kaffihús
@@ -5326,7 +5326,8 @@ scepter n. sjá %[sceptre]%
 peacekeeper n. friðargæsluliði, friðargæslumaður, e-r sem heldur friðinn
 matrices nft. fylki (sjá %[matrix]%)
 Corinth n. Korinta (borg í Grikklandi)
-Corinthian l. korintískur; n. Korintumaður
+Corinthian l. korintískur; í Korintustíl (forngrískur byggingarstíll); n. Korintumaður
+Corinthians nft. Korintubréf Páls postula í Nýja Testamentinu
 Berlin n. Berlín (borg í Þýskalandi)
 Berliner n. Berlínarbúi
 Vienna n. Vínarborg, Vín
@@ -6213,7 +6214,7 @@ photojournalist n. fréttaljósmyndari
 quincentennial n. fimm hundruð ára afmæli
 philosophe n. heimspekingur (sérstaklega notað um franska heimspekinga upplýsingaaldar)
 prehistorical l. forsögulegur
-tranquilizer n. róandi lyf; e-r sem róar eða stillir (e-n)
+tranquilizer n. róandi lyf; e-r sem róar eða stillir (e-n eða e-ð)
 flatus n. vindgangur, viðrekstur
 antioxidant n. andoxunarefni, þráavarnarefni
 hemiplegia n. helftarlömun
@@ -6387,7 +6388,7 @@ aphagia n. kyngingarstol
 gastrointestinal l. maga- og garna-
 enchanted l. töfraður; heillaður, gagntekinn, hrifinn, frá sér numinn
 disenchanted l. leystur úr álögum; fráhverfur; fallinn frá fyrri hrifningu; vonsvikinn; búinn að missa trúna á e-ð ([with])
-gobbledygook n. bull, hrognamál, óskiljanleg þvæla, (tæknilegt) þvaður
+gobbledygook n. bull, hrognamál, óskiljanleg þvæla, (tæknilegt) þvaður, stofnanamál
 indescribably ao. ólýsanlega
 dendrologist n. trjáfræðingur
 cheerless l. gleðisnauður, gleðilaus, dapur
@@ -6455,7 +6456,7 @@ neutron n. nifteind
 positron n. jáeind
 Budapest n. Búdapest (höfuðborg Ungverjalands)
 cul-de-sac n. botngata, blindgata, botnlangagata
-dead end n. botngata, blindgata, botnlangagata
+dead end n. botngata, blindgata, botnlangagata; þrot, takmörk ([his plans hit a ~])
 boson n. bóseind, bósóna
 particulate l. agna-; n. ögn; [~ matter] agnaefni
 vertebrae nft. hryggjarliðir (sjá %[vertebra]%)
@@ -7002,14 +7003,14 @@ fisherfolk n. fiskveiðifólk
 headscarf n. höfuðklútur
 vim n. hreysti, þrek, kraftur
 doorframe n. dyrakarmur
-claptrap n. rugl, bull, þvæla, kjaftæði
+claptrap n. rugl, bull, þvæla, þvættingur, kjaftæði
 songbird n. söngfugl
 microplastics nft. örplast
 absinthe n. malurt, absint
 dacha n. sumarbústaður, einbýlishús, villa (í Rússlandi)
-busty l. brjótmikil, með stór brjóst (um konu)
+busty l. brjótmikill, brjóstgóður, með stór brjóst (um konu)
 curvy l. bugðóttur, með beygjum; lögulega vaxin (um konu)
-curvaceous l. bugðóttur, með beygjum; lögulega vaxin (um konu)
+curvaceous l. bugðóttur, með beygjum; íturvaxin, lögulega vaxin (um konu)
 urination n. þvaglát
 bra n. brjóstahaldari (stytt. á %[brassiere]%)
 brassiere n. brjóstahaldari (yfirleitt %[bra]%)
@@ -7017,5 +7018,9 @@ dispassion n. geðstilling, gætni; óhlutdrægni
 confusing l. ruglandi, ruglingslegur
 national treasure n. þjóðargersemi
 Ash Wednesday n. öskudagur
-headword n. uppflettiorð, uppsláttarorð (í orðabók)
+headword n. fletta, uppflettiorð, uppsláttarorð (í orðabók)
 domestic animal n. húsdýr
+tranquilized l. róaður (með lyfjum), sefaður, huggaður
+scavenge s. nærast á hræjum; safna skrani; sópa, hreinsa (götur)
+anesthetic n. sjá %[anaesthetic]%
+mouthwash n. munnskol

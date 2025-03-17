@@ -106,10 +106,10 @@ daw n. krákutegund
 dawdle s. slæpast, eyða tíma í iðjuleysi ([~ away])
 dawdler n. slæpingi, slæpingur
 dawn s. daga, birta; byrja, koma í ljós; renna upp; [the day ~s] það lýsir af degi; n. dögun, birting, afturelding; [at early ~] snemma í dögun
-day n. dagur; dagsbirta; [to carry (win) the ~] vinna sigur; [to lose the ~] bíða ósigur; [all (the) ~] allan daginn; [the other ~] um daginn, á dögunum; [some ~] einhverntíma (í framtíðinni); [~ by ~] á hverjum degi; [for ~s] dögum saman; [this ~ week] þennan dag í næstu viku eða vikunni sem leið; [sufficient for the ~ is the evil thereof] hverjum degi nægir sín þjáning; [a fine ~] fagurt (gott) veður; [this fashion has had its ~] þessi tíska er búin að vera; [what ~ of the month is this] hvaða mánaðardagur er í dag? [at the last ~, at the ~ of judgment] á efsta degi, dómsdegi; [clear as ~] deginum ljósara; [in the ~s of king Arthur] á dögum Arthurs konungs
-daybreak n. afturelding, birting
-daydream n. dagdraumur; loftkastali
-daydreamer n. draumóramaður
+day n. dagur; dagsbirta; [to carry (win) the ~] vinna sigur; [to lose the ~] bíða ósigur; [all (the) ~] allan daginn; [the other ~] um daginn, á dögunum; [some ~] einhverntíma (í framtíðinni); [~ by ~] á hverjum degi, dag fyrir dag; [for ~s] dögum saman; [this ~ week] þennan dag í næstu viku eða vikunni sem leið; [sufficient for the ~ is the evil thereof] hverjum degi nægir sín þjáning; [a fine ~] fagurt (gott) veður; [this fashion has had its ~] þessi tíska er búin að vera; [what ~ of the month is this] hvaða mánaðardagur er í dag? [at the last ~, at the ~ of judgment] á efsta degi, dómsdegi; [clear as ~] deginum ljósara; [in the ~s of king Arthur] á dögum Arthurs konungs
+daybreak n. dögun, birting, afturelding
+daydream n. dagdraumur, draumórar; s. dreyma dagdraum, láta hugann reika, vera haldinn draumórum
+daydreamer n. draumóramaður, skýjaglópur
 day labourer n. daglaunamaður
 daylight n. dagsbirta
 daystar n. morgunstjarna
@@ -121,7 +121,7 @@ dazzle s. blinda með ofbirtu; glepja sjónir fyrir; n. ofbirta
 dazzling l. sem blindar með ofbirtu
 deacon n. djákni
 dead l. dauður, dáinn, andvana; fjörlaus; daufur, dauflegur; ónotaður; arðlaus ([~fund, outlay]); [at a ~ bargain] fyrir gjafverð; [~ calm] dúnalogn; [~ silence] steinhljóð, steinþögn; [~ certainty] áreiðanleg vissa; [~ level] sífelld flatneskja; [I am in ~ earnest] mér er fyllsta alvara; [a ~ shot] óskeikull skotmaður; [rise from the ~] rísa upp frá dauðum; [~ hours] lágnætti; n. kyrrð; [at (or in the) ~ of night] í næturkyrrðinni, um hánótt; [in the ~ of winter] um hávetur; ao. beint ([~ against or before the wind]); [~ tired] dauðþreyttur; [~ asleep] steinsofandi
-deadbeat l. dauðuppgefinn
+deadbeat n. dauðyfli, slæpingi, letingi; l. dauðuppgefinn
 deadborn l. andvana fæddur
 dead drunk l. dauðadrukkinn
 deadhead n. sá sem hefur ókeypis aðgang að leikhúsi, ókeypis far með skipi
