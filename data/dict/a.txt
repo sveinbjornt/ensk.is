@@ -70,7 +70,7 @@ abnegator n. afneitari
 abnormal l. afbrigðilegur, óvenjulegur, óeðlilegur, óvanalegur
 abnormity n. afbrigði; vanskapnaður
 abnormous l. óreglulegur, afbrigðilegur
-aboard ao. & fs. úti á skipi; út á skip, á skipsfjöl
+aboard ao. & fs. um borð í skipi, úti á skipi; um borð, út á skip, á skipsfjöl
 abode n. bústaður
 abolish s. afnema; eyða, útrýma
 abolishable l. afnemanlegur; eyðanlegur, útrýmanlegur
@@ -85,7 +85,7 @@ abort s. hætta við; leysast höfn; eyða fóstri
 abortion n. fóstureyðing, þungunarrof, vanfæðing, ótímabær burður
 abortive l. árangurslaus, misheppnaður
 abound s. vera nógur; vera auðugur (fullur) af ([in, with])
-about fs. um; umhverfis; hér um bil; við; hjá; [be ~ to write] ætla að fara að skrifa; [what are you ~ there] hvað eruð þér að gera þarna? [I have no money ~ me] á mér
+about fs. um; umhverfis; hér um bil; við; hjá; [be ~ to write] ætla að fara að skrifa; [what are you ~ there] hvað ertu að gera þarna? [I have no money ~ me] á mér
 above ao. & fs. yfir; uppi; fyrir ofan; upp yfir; fram yfir, meir en; [from ~] að ofan; [~ all] umfram allt; [~ measure] fram úr hófi; [~ my understanding] ofvaxið mínum skilningi
 aboveground l. ofanjarðar
 abrade s. skafa, núa
@@ -233,9 +233,9 @@ accretion n. vöxtur; samvöxtur; viðauki
 accroach s. svæla undir sig ([to oneself])
 accrue s. spretta (af [from]), vaxa; falla undir e-n [to]
 accumulate s. safna, hrúga saman; safnast, safna(st) saman (með tímanum)
-accumulation n. safn, samansafn, samhrúgun
+accumulation n. safn, samansafn, samhrúgun; söfnun, uppsöfnun; auðsöfnun ([capital ~]); ákoma
 accumulative l. sem safnast hefur saman, sem safnast saman með tímanum
-accuracy n. nákvæmni, hittni
+accuracy n. nákvæmni; hittni
 accurate l. nákvæmur; vandvirkur; hittinn
 accurately ao. nákvæmlega
 accurateness n. nákvæmni; hittni
@@ -253,8 +253,8 @@ accustomed l. vanur (e-u [to]); venjulegur
 ace n. ás (í spilum); ögn; [within an ~ of] það munaði engu að
 acephalous l. höfuðlaus; foringjalaus, forystulaus
 acerb l. súr, beiskur; napur
-acerbate s. gera beiskt
-acerbity n. beiskja, remma; napurleiki
+acerbate s. gera beiskt, gera biturt
+acerbity n. beiskja, biturleiki, remma; napurleiki
 acescent l. sem auðveldlega súrnar; ísúr
 acetic l. edikssúr; [~ acid] edikssýra
 acetify s. gera súrt; súrna
@@ -262,7 +262,7 @@ acetous l. súr
 ache s. verkja, kenna til; n. verkur, kvöl
 achievable l. framkvæmanlegur
 achieve s. framkvæma, afreka; ná, fá
-achievement n. framkvæmd; afreksverk, þrekvirki
+achievement n. afrek, afreksverk, þrekvirki; framkvæmd
 achiever n. framkvæmdarmaður
 achromatic l. litarlaus
 achromatism n. litarleysi
@@ -299,9 +299,9 @@ acquittance n. kvittun
 acre n. ekra
 acreage n. akurlendi ([the ~ of our country])
 acrid l. beiskur; önugur
-acridity n. beiskja
-acrimonious l. beiskur; önuglyndur
-acrimony n. beiskja ([~ of expression])
+acridity n. beiskja, biturleiki
+acrimonious l. beiskur, bitur; önuglyndur; hatrammur, heiftarlegur
+acrimony n. beiskja, biturð; heift
 acrobat n. loftfimleikamaður; línudansari
 across fs. yfir, þvert yfir; yfir um; ao. yfir, þvert yfir; yfir um; [with arms ~] með krosslagða handleggi; [come ~] hitta; [take one ~] flytja yfir um
 acrostic n. nafnstafakvæði, griplur
@@ -324,9 +324,9 @@ aculeated l. búinn broddum
 acumen n. skarpskyggni
 acuminate s. skerpa; ydda
 acute l. hvass; næmur (um tilfinningar); skarpskyggn; bráður, ákafur (um sjúkdóma); hvellur (um hljóð)
-acuteness n. hvassleiki; skarpskyggni; næmleiki
+acuteness n. hvassleiki; skarpskyggni; næmni, næmleiki
 adage n. málsháttur
-adamant n. demant
+adamant n. mjög harður, ósveigjanlegur ([he is ~ on this issue]); demantur
 adamantine l. demantharður; órjúfanlegur
 adapt s. aðlaga, aðlagast, laga (eftir [to]); [~ a play from the French] semja leikrit eftir (með hliðsjón af) frönsku frumriti
 adaptability n. aðlögunarhæfni; notanleiki
@@ -638,14 +638,14 @@ aguish l. sem hefur kuldahroll í sér, sóttveikur
 ah uh. æ! ó!
 ahead ao. á undan, fram undan ([breakers ~]); áfram ([go ~]); [~ of] fram undan, fram fyrir
 ahoy uh. hæ! ([ship ~!])
-aid s. hjálpa, styðja; n. hjálp, aðstoð; hjálpari; ft. hjálparlið; [come to one's ~] koma e-m til hjálpar
+aid s. hjálpa, styðja; n. hjálp, aðstoð; hjálpari; ft. hjálparlið; [come to their ~] koma þeim til hjálpar
 aider n. hjálpari
 aidful l. hjálpsamur
 aide-de-camp n. aðstoðarforingi hershöfðingja
 aigrette n. fjaðurskúfur; silfurhegri
-ail s. ama, ganga að; [what ~s you] hvað gengur að yður; n. sorg; mein; lasleiki
+ail s. ama, ganga að; [what ~s you?] hvað gengur að þér? hvað er að?; n. sorg; mein; lasleiki
 ailing l. lasinn, sjúkur
-ailment n. lasleiki; veikindi
+ailment n. lasleiki, veikindi; kvilli ([my many ~s])
 aim s. miða (á [at]); [~ at the public good] að almenningsheill; n. mið; áform, markmið; [take ~] miða
 aimless l. stefnulaus, markmiðslaus, án markmiðs eða tilgangs ([an ~ life]); tilgangslaus
 ain't s. vera ekki (stytt. á [am (are, is) not])
@@ -692,7 +692,7 @@ alchemic l. gullgjörðarlegur
 alchemical l. gullgjörðarlegur
 alchemy n. gullgjörðarlist
 alcohol n. áfengi, hreinsaður vínandi
-alcoholic l. áfengur, vínanda-, áfengis- ([~ drink, mixture]); n. fyllibytta, alkóhólisti, alki
+alcoholic l. áfengur, vínanda-, áfengis- ([~ drink, mixture]); n. drykkjumaður, fyllibytta, alkóhólisti, alki
 alcove n. lokrekkja, rúmklefi; klefi; laufskáli
 alder n. elrir (trjátegund)
 alderman n. bæjarfulltrúi (í stórborgum)
@@ -737,8 +737,8 @@ alleluia uh. lofið drottinn
 alleviate s. létta, lina
 alleviation n. léttir; léttun, linun
 alley n. öngstræti; trjágöng; gata (í garði)
-alliance n. samband; hjónaband; skyldleiki, tengdir
-allied l. sameinaður; skyldur; banda-
+alliance n. bandalag; samband; hjónaband; skyldleiki, tengdir
+allied l. saman í bandalagi; sameinaður; skyldur; banda-
 alligator n. amerískur krókódill
 alliteration n. stafrím, stuðlun (í kveðskap)
 alliterative l. með stafrími, með stuðlun (í kveðskap)
@@ -791,11 +791,11 @@ alow ao. niðri; niður
 alpenstock n. broddstafur, fjallastafur, fjallgöngustafur
 alpha n. [~ and omega] upphaf og endir
 alphabet n. stafróf
-alphabetic l. stafrófslegur
-alphabetical l. stafrófslegur
+alphabetic l. stafrófslegur, stafrófs-
+alphabetical l. stafrófslegur, stafrófs-
 alphabetically ao. í stafrófsröð
 alphabetize s. setja í stafrófsröð
-alpine l. háfjalla- ([~ snows])
+alpine l. háfjalla- ([~ snows]); Alpa-
 already ao. nú þegar
 Alsatia n. Elsass
 also ao. einnig, líka

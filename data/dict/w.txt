@@ -282,7 +282,7 @@ weightiness n. þungi; þyngsli; mikilvægi
 weighty l. þungur; mikilvægur, þýðingarmikill
 weir n. stíflugarður (í á); kista (í á), laxakista
 weird n. forlög; l. göldróttur; nornalegur, leyndardómsfullur, undarlegur; [the ~ sisters] örlaganornirnar
-welcome l. velkominn; [~ news] fagnaðartíðindi; [you are ~ to it] yður er það velkomið; [to make (to bid) ~] bjóða velkominn, fagna; n. fagnaðarviðtökur; s. bjóða velkominn, fagna komu e-s
+welcome l. velkominn; [~ news] fagnaðartíðindi; [you are ~ to it] þér er það velkomið; [to make (to bid) ~] bjóða velkominn, fagna; n. fagnaðarviðtökur; s. bjóða velkominn, fagna komu e-s
 wold n. gul litunarjurt
 weld s. sjóða (hnita) saman (járn); n. gul litunarjurt
 welding n. samsuða, rafsuða, logsuða, málmsuða
@@ -338,7 +338,7 @@ whaling n. hvalveiðar
 wharf n. skipabryggja; s. flytja upp á bryggju
 wharfage n. bryggjuleiga
 wharfinger n. bryggjustjóri; bryggjueigandi
-what fn. það sem; hvað; hvaða ([~ books have you read?]); [I'll tell you ~] ég skal segja yður nokkuð; [~ of that] hvað stoðar það? hvað um það?; [~ news?] hvað er í fréttum?; [~ is your name?] hvað heitið þér?; [~ a folly!] hvaða ógnar heimska!; [~ a fine day] en hvað veðrið er gott; [I gave him ~ money I had] ég gaf honum þá peninga sem ég hafði; [come ~ will] komi hvað sem koma vill; [~ with one thing and another the scheme miscarried] áformið mistókst ýmist af þessu, ýmist af hinu; [not a day but ~ it rains] að ekki rigni
+what fn. það sem; hvað; hvaða ([~ books have you read?]); [I'll tell you ~] ég skal segja þér nokkuð; [~ of that] hvað stoðar það? hvað um það?; [~ news?] hvað er í fréttum?; [~ is your name?] hvað heitið þér?; [~ a folly!] hvaða ógnar heimska!; [~ a fine day] en hvað veðrið er gott; [I gave him ~ money I had] ég gaf honum þá peninga sem ég hafði; [come ~ will] komi hvað sem koma vill; [~ with one thing and another the scheme miscarried] áformið mistókst ýmist af þessu, ýmist af hinu; [not a day but ~ it rains] að ekki rigni
 whatever fn. hvað sem ([~ may happen]); [there is no doubt ~] alls enginn vafi
 whatsoever fn. hvað sem ([~ may happen]); [there is no doubt ~] alls enginn vafi
 wheal n. bóla (á hörundi)
@@ -610,7 +610,7 @@ wisdom n. viska, speki; hyggindi
 wisdom tooth n. vísdómstönn, endajaxl, geirjaxl
 wise l. vitur, hygginn; hyggilegur, viturlegur; [be none the ~r] vera engu nær; n. háttur; [in any ~] á nokkurn hátt; [in no ~] á engan hátt; [in this ~] þannig
 wiseacre n. maður sem þykist vera spekingur
-wish n. ósk; löngun ([he has a great ~ to go to sea]); s. æskja, óska (e-s, einnig [~ for]); [I ~ you to do it] ég óska (vil) að þér gerið það; [I ~] ég vildi óska að; [~ well (to)] árna (e-m) góðs, vilja e-m vel; [~ joy] samgleðjast; [~ed for] eftiræsktur
+wish n. ósk; löngun ([he has a great ~ to go to sea]); s. æskja, óska (e-s, einnig [~ for]); [I ~ you to do it] ég óska (vil) að þú gerir það; [I ~] ég vildi óska að; [~ well (to)] árna (e-m) góðs, vilja e-m vel; [~ joy] samgleðjast; [~ed for] eftiræsktur
 wishful l. löngunarfullur; sem óskar (e-s [of])
 wish-wash n. skólp (ónýtur drykkur)
 wishy-washy l. þunnur, bragðlaus, ónýtur

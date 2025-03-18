@@ -567,7 +567,7 @@ likelihood n. líkindi; [in all ~] að öllum líkindum
 likely l. líklegur, sennilegur; [he is not ~ to return] það er ekki liklegt, að hann komi aftur; [most ~] að öllum líkindum
 liken s. líkja (bera) saman
 likeness n. líking; mynd; [to have one's ~ taken] láta taka af sér mynd
-like s. líka, geðjast að, litast á; þóknast; [I rather ~ him] mér fellur dável við hann; [I should ~ to see] mér þætti gaman að sjá; [do you ~ fish?] þykir yður fiskur góður?
+like s. líka, geðjast að, litast á; þóknast; [I rather ~ him] mér fellur dável við hann; [I should ~ to see] mér þætti gaman að sjá; [do you ~ fish?] þykir þér fiskur góður?
 liking n. löngun; [to my ~] eftir mínu skapi; [to take (have) a ~ for] fá (hafa) mætur á e-u
 likewise ao. sömuleiðis, á sama hátt, einnig
 lilac n. sýringa (skrautjurt af smjörviðarætt); l. ljósrauður
@@ -850,7 +850,7 @@ lore n. fræði, vísindi
 loricated l. brynjaður
 lorn l. einmanalegur ([left alone and ~]); sviptur (e-u of)
 lorry n. flutningabíll; langur fjórhjólaður vöruflutningavagn; lítill kolavagn í námum
-lose s. missa, týna, tapa, glata; fara á mis við, verða af; seinka sér (um klukku); [~ flesh] megrast; [~ ground] missa hylli eða álit; [~ (one's) patience, ~ one's head] verða óþolinmóður; [will ~ you your place] mun kosta yður stöðuna; [~ one's temper] reiðast; [~ one's way] villast; [~ sight of] missa sjónar á; [he is lost] það er úti um hann; [be lost] týnast, farast (um skip og menn); glatast (um sálina); [lost in thought] sokkinn niður í hugsanir; [lost to shame] blygðunarlaus
+lose s. missa, týna, tapa, glata; fara á mis við, verða af; seinka sér (um klukku); [~ flesh] megrast; [~ ground] missa hylli eða álit; [~ (one's) patience, ~ one's head] verða óþolinmóður; [will ~ you your place] mun kosta þig stöðuna; [~ one's temper] reiðast; [~ one's way] villast; [~ sight of] missa sjónar á; [he is lost] það er úti um hann; [be lost] týnast, farast (um skip og menn); glatast (um sálina); [lost in thought] sokkinn niður í hugsanir; [lost to shame] blygðunarlaus
 loser n. tapari, tapandi; [be (come off) a ~] tapa (á e-u [by])
 loss n. missir, töpun, tjón, skaði; [~ of time] tímatöf; [~ of appetite] lystarleysi; [be at a ~ what to do] vera í vandræðum um, hvað gera eigi, vera ráðalaus
 lot n. hluti; hlutur, hlutkesti ([election by ~]); hlutskipti; hópur; [we shall have ~s to do] ógrynni að starfa; [~s of people] mesti mannfjöldi; [draw ~s] draga hluti (um [for, between]); [cast ~s] kasta hlutum (um [for, between]); [the ~ fell upon me] minn hlutur kom upp; [it falls to my (as my) ~] í mitt hlutskipti; [a bad ~] vondur maður, óþokki; [the (whole) ~] allur hópurinn

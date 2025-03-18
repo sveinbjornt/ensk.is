@@ -1,4 +1,4 @@
-aardvark n. jarðsvín (riðvaxið afrískt spendýr með langan rana)
+aardvark n. jarðsvín (riðvaxin afrísk mauraæta með langt trýni)
 database n. gagnagrunnur, gagnasafn
 classroom n. kennslustofa, skólastofa
 coedit s. meðritstýra, ritstýra ásamt öðrum; [he ~ed the dictionary] hann var meðritstjóri orðabókarinnar
@@ -1062,9 +1062,9 @@ freezer n. frystir, frystikista, frystiklefi
 Yugoslavia n. Júgóslavía
 Yugoslavian l. júgóslavneskur; n. Júgóslavi
 Yugoslavic l. júgóslavneskur (sjá einnig %[Yugoslavian]%)
-Yugoslav n. Júgóslavi
+Yugoslav n. Júgóslavi; l. júgóslavneskur
 Soviet Union n. Sovétríkin
-Soviet l. sovéskur; n. Sovétmaður
+Soviet l. sovéskur; n. Sovétmaður; [the ~s] Sovétmenn
 pricing n. verðlagning
 manually ao. handvirkt
 callus n. sigg
@@ -1084,7 +1084,7 @@ allergenicity n. ofnæmisvirkni
 organizer n. skipuleggjari, skipuleggjandi
 aerospace n. flugiðnaður, flugtækni; flugverkfræði ([~ engineering])
 aerospace engineer n. flugvélaverkfræðingur, flugtæknifræðingur
-aeronautical l. flugvéla-, flugfars-
+aeronautical l. flugvéla-, flugfars-, flugmála-
 aeronautical engineer n. flugvélaverkfræðingur
 fuck s. (óforml.) ríða, eiga kynmök; ráðast að e-m, vega að e-m ([~ with somone]); n. dráttur, kynmök, samfarir; uh. helvítis! andskotinn! djöfullinn!
 fucking l. andskotans, helvítis, djöfulsins (áhersluorð, sjá %[fuck]%)
@@ -1301,7 +1301,7 @@ anticlimax n. spennufall (sjá %[climax]%)
 anticlimactic l. spennufalls- (sjá %[climactic]%)
 yoyo n. jójó (leikfang)
 auxesis n. miklar ýkjur eða stigmögnun (í ræðulist)
-aardwolf n. jarðúlfur (afrískt spendýr)
+aardwolf n. jarðúlfur (afrískt rándýr sem er skylt hýenum)
 morning star n. morgunstjarna (plánetan Venus); gaddakylfa (með keðju)
 Venus n. plánetan Venus; rómversk ástar- og frjósemisgyðja
 blimp n. loftbelgur, loftfar, loftskip
@@ -2698,8 +2698,9 @@ governorship n. landstjóraembætti, ríkisstjóraembætti
 artilleryman n. stórskotaliði
 repatriate s. senda aftur til heimalands
 repatriation n. sending aftur til heimalands
-amateurish l. viðvaningslegur, ófagmannlegur
+amateurish l. viðvaningslegur, ófagmannlegur, klaufalegur
 prewar l. fyrir stríð, fyrirstríðs-
+pre-war l. fyrir stríð, fyrirstríðs-
 earmuff n. eyrnaskjól
 psychiatric l. geðrænn, geðlægur; geðlæknisfræðilegur
 cashflow n. peningaflæði
@@ -2862,7 +2863,7 @@ taxicab n. sjá %[taxi]%
 taxi driver n. leigubílstjóri
 taxi stand n. leigubílastöð
 tax-exempt l. skattfrjáls, undanþeginn frá skatti
-gangster n. glæpon, bófi, glæpamaður
+gangster n. glæpon, bófi, glæpamaður, sá sem tekur þátt í (skipulagðri) glæpastarfsemi
 gangsterism n. (skipulögð) glæpastarfsemi
 commissar n. pólitískur fulltrúi (kommúnistaflokks Sovétríkjanna); ráðuneytisstjóri í Sovétríkjunum
 global l. alheims-, heims-, hnattrænn; víðtækur, allsherjar
@@ -6986,12 +6987,12 @@ trolley n. sporvagn; kerra, vagn; innkaupakerra
 gainless l. án ávinnings, án gróða, án ábata
 gasket n. þétti, pakkning
 trainload n. lestarfarmur
-informed l. upplýstur
-uninformed l. óupplýstur
+informed l. upplýstur; látinn vita
+uninformed l. óupplýstur; ekki látinn vita
 misinformed l. ranglega upplýstur, býr yfir röngum eða misvísandi upplýsingum
 pitifully ao. aumkunarlega, brjóstumkennanlega
 ploy n. vélabragð, bellibragð, kænskubragð
-labia nft. skapavarir, skapabarmar
+labia nft. varir; skapavarir, skapabarmar
 circadian l. dægur-, sólarhrings-; [~ rhythm] dægursveifla
 colonizer n. landnemi
 pan- fsk. al- (sjá t.d. %[panorama]%, %[pandemonium]%)
@@ -7007,7 +7008,7 @@ claptrap n. rugl, bull, þvæla, þvættingur, kjaftæði
 songbird n. söngfugl
 microplastics nft. örplast
 absinthe n. malurt, absint
-dacha n. sumarbústaður, einbýlishús, villa (í Rússlandi)
+dacha n. sumarbústaður, sveitasetur, villa (í Rússlandi)
 busty l. brjótmikill, brjóstgóður, með stór brjóst (um konu)
 curvy l. bugðóttur, með beygjum; lögulega vaxin (um konu)
 curvaceous l. bugðóttur, með beygjum; íturvaxin, lögulega vaxin (um konu)
@@ -7027,3 +7028,20 @@ mouthwash n. munnskol
 Calvinistic l. kalvínskur, kalvínstrúar-
 Calvinistical l. kalvínskur, kalvínstrúar
 mugging n. göturán, rán ([he was the victim of a ~])
+hypervigilant l. ofurárvakur, ofurárvökull; gríðarlega aðgætinn
+hypervigilance n. ofurárvekni; gríðarleg aðgætni
+aspirator n. sogdæla, sogtæki, útsogsdæla
+coven n. nornasamkunda, samkoma (hópur) norna ([a ~ of witches]); systralag norna
+domesticity n. heimilislíf, fjölskyldulíf; heimilisrækni
+burgomastership n. bæjarstjóraembætti, borgarstjóraembætti
+Machiavellian l. undirförull, slóttugur, kænn; í anda stjórnspekingsins Nicolo Machiavelli
+analytic l. greiningar-, greinandi; sundurliðandi, uppleysandi; rökgreiningar- ([~ philosophy])
+analytic philosophy n. rökgreiningarheimspeki
+continental philosophy n. meginlandsheimspeki
+analytics nft. greining
+stoat n. hreysiköttur
+seamount n. neðansjávarfjall, neðansjávareldfjall, fjall á hafsbotni
+guyot n. neðansjávarfjall, neðansjávareldfjall, fjall á hafsbotni
+shibboleth n. slagorð, kjörorð
+bizarreness n. undarlegheit; hjákátleiki
+treehouse n. trjáhýsi, trjákofi

@@ -38,7 +38,7 @@ galactic l. mjólkur-; vetrarbrautar- ([~ circle])
 galaxy n. vetrarbraut; glæsilegur hópur, glæsilegt safn
 gale n. hvassviðri, stormur
 galimatias n. þvættingur, bull
-gall n. gall; beiskja, vonska, heift; frekja; blekepli; sár, meiðsl, fleiður; s. nugga (gat á hörundið, kaðal til skemmda); fleiðra, meiða (t.d. hest undan reiðveri); særa, erta
+gall n. gall; beiskja, biturleiki, vonska, heift; frekja; blekepli; sár, meiðsl, fleiður; s. nugga (gat á hörundið, kaðal til skemmda); fleiðra, meiða (t.d. hest undan reiðveri); særa, erta
 gallbladder n. gallblaðra, gallpungur
 gallless l. galllaus; góðlyndur; beiskjulaus
 gallnut n. blekhnot, blekepli
@@ -551,7 +551,7 @@ govern s. stjórna, stýra, ráða fyrir ([~ a country]); ráða við
 governable l. viðráðanlegur, auðsveipur
 governance n. stjórn
 governess n. kennslukona
-government n. (land)stjórn, ríkisstjórn; ráðuneyti ([His Majesty's ~]); stjórnarfyrirkomulag; yfirráð; [this may serve you for your ~] þér getið hagað yður eftir þessu
+government n. (land)stjórn, ríkisstjórn; ráðuneyti ([His Majesty's ~]); stjórnarfyrirkomulag; yfirráð
 governmental l. landsstjórnar-, ríkisstjórnar-
 governor n. stjórnari, stjóri; landstjóri, landshöfðingi; gamli maðurinn (um föður); húsbóndi
 gowk n. gaukur; flón

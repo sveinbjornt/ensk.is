@@ -248,7 +248,7 @@ bayonet n. byssustingur
 bay-tree n. lárviður
 bay-window n. framskotsgluggi
 bazaar n. basar; austurlenskt sölutorg
-be s. vera; verða; [where am I to sit] hvar á ég að sitja? [ask her how her mother is] hvernig móður hennar líður; [how are you] hvernig líður yður; sælir (verið þér); [how is it that I see you here] hvernig víkur því við, að..? [he has been to Rome] hefur verið í Róm; [what are you at] hvað eruð þér að gera? [he was not to be saved] það var ekki hægt að bjarga honum; [I am writing] ég er að skrifa; [while the house was building] meðan húsið var í smíðum
+be s. vera; verða; [where am I to sit] hvar á ég að sitja? [ask her how her mother is] hvernig móður hennar líður; [how are you?] hvernig líður þér?; sælir (verið þér); [how is it that I see you here] hvernig víkur því við, að..? [he has been to Rome] hefur verið í Róm; [what are you at] hvað ertu að gera? [he was not to be saved] það var ekki hægt að bjarga honum; [I am writing] ég er að skrifa; [while the house was building] meðan húsið var í smíðum
 beach n. strönd, fjara; s. setja (skip) upp í fjöru
 beacon n. viti, vitaeldur; varðturn; s. lýsa, uppljóma
 bead n. perla, tala; s. skreyta með perlum
@@ -341,7 +341,7 @@ before fs. fyrir framan; fyrir; fram fyrir; frammi fyrir ([appear ~ the judge]);
 beforehand ao. fyrirfram; á undan; [be ~ with] verða fyrri til en; [be ~ with the world] hafa góð efni
 befoul s. saurga, ata, spilla
 befriend s. vera (e-m) vinveittur, vera e-m hagstæður
-beg s. biðja; betla, biðja ölmusu; skoða sem sannað ([~ the question]); [I ~ your pardon] ég bið yður fyrirgefningar; [I ~ (leave) to] ég leyfi mér að
+beg s. biðja; betla, biðja ölmusu; skoða sem sannað ([~ the question]); [I ~ your pardon] ég bið þig fyrirgefningar, afsakið; [I ~ (leave) to] ég leyfi mér að
 begad uh. það veit guð
 beggar n. betlari, beiningamaður; s. gera fátækan; [it ~s all description] því verður ekki með orðum lýst; [it ~ all belief] því verður tæpast trúað
 beggarly l. aumur, vesæll, bágborinn, eins og betlari
@@ -608,8 +608,8 @@ bit n. biti, munnbiti ([dainty ~]); ögn; [~ by ~] smám saman; [give a ~ of one
 bitch n. tík; tæfa; s. kvarta, væla
 bite s. bita; bíta í; (um fisk) taka beitu; hrífa (um akkeri); [~ the dust/ground] falla og deyja; [~ one's lips] bíta í varirnar; n. bit; íbit, hrif; munnbiti
 biting l. bítandi; ramur, beiskur; nístandi, sárkaldur; napur, sáryrtur
-bitter l. beiskur; sár, bitur
-bitterness n. beiskja; gremja
+bitter l. beiskur; sár, bitur; n. beiskt enskt öl
+bitterness n. beiskja, biturleiki; gremja
 bitters nft. bitter-brennivín
 bittern n. stjörnuhegri (fugl)
 bitumen n. jarðbik
@@ -1243,11 +1243,11 @@ burbot n. fisktegund
 burden n. byrði; burðarhæfi skips, rúmtak; viðkvæði; aðalefni (í bók, ræðu eða kvæði); [~ of proof] sönnunarskylda; [beast of ~] burðardýr; s. leggja byrði á; íþyngja
 burdensome l. þungbær, örðugur, sem er byrði
 bureau n. skrifborð (með skúffum); skrifstofa, stjórnarskrifstofa
-bureaucracy n. skrifræði, skrifstofustjórn, skrifstofuveldi; embættismenn; skriffinnska
+bureaucracy n. skrifræði, skrifstofustjórn, skrifstofuveldi, stjórn embættismanna; embættismenn; skriffinnska
 bureaucrat n. skrifstofuembættismaður, skrifræðismaður, skriffinnskumaður, kerfiskarl, kerfiskona
 bureaucratism n. skriffinnska, skriffinnskustefna
 burgess n. borgari
-burgh n. kaupstaður, bær (í Skotlandi, t.d. %[Edinburgh]%)
+burgh n. kaupstaður, bær, borg (í Skotlandi, t.d. %[Edinburgh]%)
 burgher n. borgari
 burglar n. innbrotsþjófur
 burglary n. innbrot, innbrotsþjófnaður
