@@ -1,7 +1,7 @@
 rabbet s. grópa, fella (plægja) saman; plægja (borð); n. gróp; nót
 rabbet plane n. gróphefill
-rabbi n. meistari, lögvitringur (hjá Gyðingum)
-rabbin n. meistari, lögvitringur (hjá Gyðingum)
+rabbi n. rabbíni, meistari, lögvitringur (hjá Gyðingum)
+rabbin n. rabbíni, meistari, lögvitringur (hjá Gyðingum)
 rabbit n. kanína
 rabble n. rusl; skríll; s. gera (e-m) aðsúg
 rabid l. æðisgenginn, óður (um hunda)
@@ -1504,7 +1504,7 @@ rum n. romm; l. skrítinn, hjákátlegur ([a ~ thing])
 rumble s. skrölta; drynja ([the thunder ~s]); n. skrölt, skruðningur; þjónssæti á vagni
 rumbustious l. ofsalegur, óskaplegur
 ruminant l. jórtrandi; n. jórturdýr
-ruminate s. jórtra; [~ on (upon)] hugsa um
+ruminate s. jórtra; [~ on (upon)] hugsa um, hugleiða
 rumination n. jórtur; umhugsun
 rummage s. leita vandlega; róta í e-u; n. nákvæm eftirleit
 rumour n. kvis, kvittur; orðrómur; s. bera út (kvitt); [it is ~ed that] það er talað (sagt) að

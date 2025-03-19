@@ -1217,8 +1217,8 @@ adware n. hugbúnaður með auglýsingum
 acne n. unglingabólur, graftarbólur
 architectural l. byggingarlistar-
 internationally ao. alþjóðlega
-copyrighted l. varið af höfundarétti
-patented l. varið af einkaleyfi
+copyrighted l. varinn af höfundarétti, höfundaréttarvarinn
+patented l. varinn af einkaleyfi
 subsection n. undirdeild, undirflokkur, undirkafli, undirhluti
 Babylon n. Babýlon (höfuðborg Babýloníu til forna); auðug og spillt stórborg
 Babylonian l. babýlonskur; n. Babýlonsmaður (sjá %[Babylon]%)
@@ -2226,6 +2226,7 @@ birthmark n. fæðingarblettur
 contextualize s. setja í samhengi (sjá %[context]%)
 rewrite s. endurskrifa
 negativity n. neikvæðni
+positivity n. jákvæðni
 perfectionism n. fullkomnunarárátta, fullkomnunarhneigð, fullkomnunarstefna
 perfectionist n. fullkomnunarsinni, sá sem haldinn er fullkomnunaráráttu
 Sicily n. Sikiley
@@ -7045,3 +7046,9 @@ guyot n. neðansjávarfjall, neðansjávareldfjall, fjall á hafsbotni
 shibboleth n. slagorð, kjörorð
 bizarreness n. undarlegheit; hjákátleiki
 treehouse n. trjáhýsi, trjákofi
+trichinosis n. fleskormasýki, purkormasótt
+zoonosis n. dýrasjúkdomur (sem getur smitað mannfólk)
+zoonotic n. dýrasjúkdóma- (sjá %[zoonosis]%)
+serif n. stafskegg, þverstrik í prentstafi (í prentlist)
+sans serif l. stafur án stafskeggs, letur án útflúrs (í prentlist)
+ludicrousness n. fáránleiki
