@@ -219,9 +219,9 @@ accoucheur n. yfirsetulæknir
 account n. reikningur; reikningsskil; skilagrein; skýrsla, frásaga; met, virðing; [current ~] hlaupareikningur; [call one to ~] heimta reikningsskil af e-m; [be held in some ~] vera nokkurs metinn; [pay/settle an ~] borga reikning; [lay one's ~ with (for, on)] búast við, gera ráð fyrir; [find one's ~ in] sjá sér hag í; [take ~ of] taka tillit til; [make ~ of] meta, virða; [turn to ~] gera arðvænlegt; [on ~ of] sökum, vegna; [on no ~] fyrir engan mun; s. gera reikningsskil; telja, meta; [be ~ed of] vera metinn (mikils eða lítils); [~ for] gera grein fyrir, skýra ([that ~s for it])
 accountable l. sem ber ábyrgð ([to a person, for a thing]), ábyrgur, reikningsskyldur; sem gerir grein fyrir e-u, skýrir e-ð ([for])
 accountableness n. ábyrgðarskylda
-accountability n. ábyrgðarskylda
+accountability n. ábyrgð, ábyrgðarskylda
 accountancy n. bókhald, reikningshald
-accountant n. bókhaldari, reikningsmaður; reikningshaldari, bókari
+accountant n. bókhaldari, reikningsmaður, reikningshaldari, bókari
 accountantship n. bókaraembætti, bókhaldaraembætti
 accoutre s. búa, klæða
 accoutrement n. útbúnaður; fatnaður
