@@ -1,11 +1,10 @@
-
 name: build
 
 on:
   push:
-    branches: [ master ]
+    branches: ["*"]
   pull_request:
-    branches: [ master ]
+    branches: ["*"]
 
 permissions:
   contents: read
@@ -17,27 +16,28 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: "3.13"
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip wheel setuptools flake8 pytest
-        python -m pip install -r requirements.txt
-    - name: Lint with flake8
-      run: |
-        # Stop the build if there are Python syntax errors or undefined names
-        flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
-        # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
-        flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
-    - name: Verify dictionary source files
-      run: |
-        python verify.py
-    - name: Generate dictionary files
-      run: |
-        python gen.py
-    - name: Run pytest
-      run: |
-        python -m pytest
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Install dependencies
+        run: |
+          python -m pip install uv
+          uv pip install --upgrade --system wheel setuptools flake8 pytest
+          uv pip install --system -r requirements.txt
+      - name: Lint with flake8
+        run: |
+          # Stop the build if there are Python syntax errors or undefined names
+          flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
+          # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
+          flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
+      - name: Verify dictionary source files
+        run: |
+          python verify.py
+      - name: Generate dictionary files
+        run: |
+          python gen.py
+      - name: Run pytest
+        run: |
+          python -m pytest
