@@ -3149,6 +3149,7 @@ parabolic l. fleygboga-
 terracotta n. brenndur leir; l. leir-, leirbrenndur
 nonetheless ao. engu að síður
 ferrous l. úr járni, járnkenndur, járn-
+nonferrous l. án járns, járnlaus
 spinelessness n. hryggleysi; kjarkleysi; bakbeinsleysi
 supranational l. yfirþjóðlegur, yfirríkja-, sem er ofar eða æðri ríkjum
 backside n. bakhlið; afturendi; rass
@@ -7052,3 +7053,15 @@ zoonotic n. dýrasjúkdóma- (sjá %[zoonosis]%)
 serif n. stafskegg, þverstrik í prentstafi (í prentlist)
 sans serif l. stafur án stafskeggs, letur án útflúrs (í prentlist)
 ludicrousness n. fáránleiki
+candor n. sjá %[candour]%
+disorganized l. óskipulagður, óskipulegur
+sawtooth n. sagartönn, tönn á sög
+saw-toothed l. sagtenntur, skörðóttur (eins og sög)
+stromatolite n. mottuberg
+volitional l. vísvitandi, af ásettu ráði, af einbeittum vilja
+anolyte n. forlausn
+ingrown l. inngróinn
+understated l. sem gert er lítið úr; lítillátur, ótilgerðarlegur
+switchblade n. fjaðurhnífur
+flick knife n. fjaðurhnífur
+
