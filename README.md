@@ -18,6 +18,7 @@ You can download the dictionary in the following formats:
 
 * [⇩ SQLite3 database](https://ensk.is/static/files/ensk.is.db.zip)
 * [⇩ CSV document](https://ensk.is/static/files/ensk.is.csv.zip)
+* [⇩ JSON document](https://ensk.is/static/files/ensk.is.json.zip)
 * [⇩ Plain text](https://ensk.is/static/files/ensk.is.txt.zip)
 
 ## Background
