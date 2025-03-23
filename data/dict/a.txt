@@ -1129,7 +1129,7 @@ anxiously ao. með kvíða, á kvíðafullan hátt
 any l. nokkur, neinn; einhver; hver sem vera skal, sérhver; hver sem er
 anybody n. hver sem er; nokkur, neinn; sérhver
 anyhow ao. á einhvern (nokkurn, neinn) hátt; að minnsta kosti; þó, samt
-anything n. nokkuð, neitt
+anything n. nokkuð, neitt ([Is there ~ I can do?]); hvað sem er ([I would do ~])
 anywhere ao. hvar sem er; nokkurs staðar, neins staðar; alls staðar
 anywise ao. á nokkurn (neinn) hátt
 apace ao. fljótt, óðum ([the work is now proceeding ~])
@@ -1145,14 +1145,14 @@ apeak ao. beint upp og ofan ([oars ~])
 apepsy n. slæm melting
 aperient l. hægðir aukandi; n. hægðalyf
 aperitive l. hægðir aukandi; n. hægðalyf
-aperture n. op, rifa
+aperture n. op, rifa; ljósop (á myndavél)
 apery n. eftirhermur
 apex n. toppur, tindur
 aphelion n. sólfirð
 aphis n. blaðlús (ft. [aphides])
 aphonia n. raddmissir
 aphony n. raddmissir
-aphorism n. spakmæli; kjarnyrði
+aphorism n. spakmæli; kjarnyrði; orðspjót; afórismi
 aphorist n. spakmælahöfundur
 aphoristic l. spakmælislegur, kjarnyrtur
 aphrodisiac l. lostavekjandi (lyf), ástardrykkur, frygðarauki

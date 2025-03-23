@@ -2789,6 +2789,7 @@ beekeeping n. býflugnarækt
 unruliness n. óstýrilæti (sjá %[unruly]%)
 scrotum n. pungur, hreðjar
 redefine s. endurskilgreina (sjá %[define]%)
+bulldoze s. ryðja, fella, ýta, slétta (með jarðýtu); þvinga, kúga, vaða yfir (e-n)
 bulldozer n. jarðýta
 mountainside n. fjallshlíð
 hillside n. hlíð, brekka, fjallshlíð
@@ -7076,3 +7077,22 @@ stalagmite n. dropasteinn (sem myndast upp frá gólfi, ólíkt %[stalactite]%)
 charabanc n. farþegavagn; strætisvagn
 valedictorian n. dúx, sá sem útskrifast með hæstu einkunn; ræðuhaldari við útskrift úr skóla
 osteoarchaeology n. undirgrein fornleifafræði sem fæst við bein
+neighbourliness n. nágrannaskapur, nágrannavinsemi
+resource-poor l. fátækur í auðlindum, með lítið af auðlindum
+shogun n. sjógun (japanskur herstjóri)
+shogunate n. sjógunaveldi (sjá %[shogun]%)
+infrastructure n. innviðir; grunnstoðir; undirbygging
+infrastructural l. innviða-; grunnstoða-; undirbyggingar-
+infantilize s. gera að barni, barngera
+infantilized l. gerður að barni, barngerður
+infantilization n. það að gera e-n að barni
+restroom n. salerni, snyrting, almenningsklósett
+embalmer n. líksmyrjari
+paraglide s. fljúga á svifvæng
+paraglider n. svifvængur
+paragliding n. svifvængjaflug
+characterless l. sviplaus, án persónuleika; veikgeðja, án staðfestu
+heptadecagon n. sautjánhyrningur
+hanky n. vasaklútur (stytt. á %[handkerchief]%)
+abrasiveness n. hranalegheit, hranaleg hegðun
+mineshaft n. námugöng

@@ -498,7 +498,7 @@ nonessential
 announcer
 breaststroke
 backstroke
-infrastructure
+
 uptight
 rationale
 defense
@@ -2351,7 +2351,6 @@ representativeness
 palaeopathology
 sociality
 phylogenetic
-neighbourliness
 non-consensual
 democide
 panopticism
@@ -2365,7 +2364,6 @@ generalizable
 bleacher
 firsthand
 first-hand
-resource-poor
 de facto
 de jure
 strappado
@@ -2374,8 +2372,6 @@ positivistic
 suprahistorical
 presentist
 non-combatant
-shogun
-shogunate
 occlusion
 non-violence
 terroristic
@@ -2402,7 +2398,6 @@ semi-automatic
 conspicuously
 disposability
 attritional
-infrastructural
 broiler
 endangerment
 conservationist
@@ -2418,9 +2413,6 @@ combinatorial
 gradualism
 ballistics
 underswell
-infantilize
-infantilized
-infantilization
 ressentiment
 minimalization
 emancipationist
@@ -3320,7 +3312,6 @@ rooky
 hurtfulness
 moratory
 cosplay
-restroom
 visualization
 visualisation
 conformal
@@ -3382,7 +3373,6 @@ digest (endurskoða)
 ding
 dyspraxia
 eidetic
-embalmer
 displaced
 recurring
 thumbtack
@@ -3425,9 +3415,6 @@ preload
 lasagna
 signage
 ping
-paraglide
-paraglider
-paragliding
 follic
 follicle
 dopey
@@ -3492,7 +3479,6 @@ cascading
 shimmy
 shim
 isothermal
-characterless
 renminbi
 ligation
 grooming
@@ -3550,7 +3536,6 @@ harping
 cavorting
 conjuring
 windsurf
-heptadecagon
 punk
 grindcore
 swing (music)
@@ -3604,7 +3589,6 @@ surcease
 arousal
 conservatorship
 grounded
-hanky
 jive
 dressage
 postmistress
@@ -3789,7 +3773,6 @@ Latinism
 locomotory
 illustrated
 trilby
-abrasiveness
 infract
 churro
 pizazz
@@ -3904,7 +3887,6 @@ avariciously
 pooper
 poop deck
 bitchy
-bulldoze
 extractor
 pronatalism
 extraocular
@@ -4986,3 +4968,8 @@ qualifying
 survival (endurskoða)
 supplant (endurskoða)
 supplanter
+mopey
+chanting
+macronutrient
+discursively
+moonbeam
