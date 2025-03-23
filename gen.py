@@ -224,11 +224,11 @@ def generate_text(entries: EntryList) -> str:
 
 def generate_json(entries: EntryList) -> str:
     """Generate JSON dictionary in standard format. Return file path."""
-    
+
     # Change to static files dir
     old_cwd = os.getcwd()
     os.chdir(PROJECT.STATIC_FILES_PATH)
-    
+
     # Format the entries according to a standard dictionary format
     dictionary_data = {
         "metadata": {
@@ -241,42 +241,34 @@ def generate_json(entries: EntryList) -> str:
             "source": PROJECT.REPO_URL,
             "version": PROJECT.VERSION,
             "date": datetime.datetime.now(datetime.UTC).isoformat(),
-            "language": {
-                "source": "en",
-                "target": "is"
-            }
+            "language": {"source": "en", "target": "is"},
         },
-        "entries": []
+        "entries": [],
     }
-    
+
     # Add each entry to the dictionary
     for entry in entries:
         word, definition, ipa_uk, ipa_us, page_num = entry
         entry_data = {
             "headword": word,
             "definition": definition,
-            "pronunciation": {
-                "ipa_uk": ipa_uk,
-                "ipa_us": ipa_us
-            },
-            "metadata": {
-                "original_page": page_num if page_num > 0 else None
-            }
+            "pronunciation": {"ipa_uk": ipa_uk, "ipa_us": ipa_us},
+            "metadata": {"original_page": page_num if page_num > 0 else None},
         }
         dictionary_data["entries"].append(entry_data)
-    
+
     # Write to file and zip it
     filename = f"{PROJECT.BASE_DATA_FILENAME}.json"
     with open(filename, "w", encoding="utf-8") as file:
         std_json.dump(dictionary_data, file, ensure_ascii=False, indent=2)
-    
+
     zipfn = f"{filename}.zip"
     zip_file(filename, zipfn)
-    
+
     # Restore previous CWD
     silently_remove(filename)
     os.chdir(old_cwd)
-    
+
     return f"{PROJECT.STATIC_FILES_PATH}{zipfn}"
 
 
@@ -361,9 +353,6 @@ def generate_apple_dictionary(
     os.chdir(old_cwd)
 
     return f"{PROJECT.STATIC_FILES_PATH}{PROJECT.BASE_DATA_FILENAME}.dictionary.zip"
-
-
-
 
 
 def main() -> None:
