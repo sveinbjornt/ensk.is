@@ -1095,7 +1095,7 @@ HIV n. eyðniveira, alnæmisveira (stytt. á [human immunodeficiency virus])
 surrealism n. súrrealismi, fjarstæðustefna (stefna í listum og bókmenntum)
 surreal n. súrrealískur, fjarstæðukenndur, sem ber svip af súrrealisma (sá %[surrealism]%)
 sleaze n. viðbjóður, spilling, svindl, subbuskapur, ógeðfeldni
-flab n. spik, fita
+flab n. spik, fita, lint hold
 yuppie n. (óforml.) uppi, ung fagmanneskja í þéttbýli (stytt. á [young urban professional])
 visa n. vegabréfsáritun, áritun, dvalarleyfi ([my ~ has expired])
 viral l. veiru-; [go ~] breiðast út hratt
@@ -4256,7 +4256,7 @@ Peloponnesian l. Pelópsskaga-; [~ War] Pelópsskagastríðið
 Cretaceous n. krítartímabil; l. krítartímabils-
 exogamy n. útkvæni, útmægðir; útæxlun, óskyldraæxlun
 exogamous l. útkvæntur; útæxlaður (sjá %[exogamy]%)
-labyrinthine l. völundarhúss-, líkur völundarhúsi; flókinn
+labyrinthine l. völundarhúss-, líkur völundarhúsi; ógreiður, flókinn
 statelet n. smáríki; lítið þjóðríki
 epigenetic l. umframerfða-
 epigenetically l. umframerfða-
@@ -7092,7 +7092,12 @@ paraglide s. fljúga á svifvæng
 paraglider n. svifvængur
 paragliding n. svifvængjaflug
 characterless l. sviplaus, án persónuleika; veikgeðja, án staðfestu
-heptadecagon n. sautjánhyrningur
 hanky n. vasaklútur (stytt. á %[handkerchief]%)
 abrasiveness n. hranalegheit, hranaleg hegðun
 mineshaft n. námugöng
+picaresque l. skálka-; [a ~ tale] skálkasaga
+moonbeam n. tunglsgeisli; tunglskin, tunglsljós
+trigon n. þríhyrningur
+bigon n. tvíhyrningur
+digon n. tvíhyrningur
+heptadecagon n. sautjánhyrningur
