@@ -4010,7 +4010,7 @@ classicist n. fornfræðingur
 coda n. niðurlag, niðurlagskafli
 whistle-blower n. uppljóstrari; flautublásari, sá sem blæs flautu
 homonymic l. samhljóða, eins og annað orð í framburði
-homo n. maður (í latínu); ættkvísl manndýra (sbr. [homo sapiens], hinn viti borni maður); hommi, samkynhneigður maður (niðrandi, stytt. á %[homosexual]%)
+homo n. maður (í latínu); ættkvísl manndýra (sbr. %[homo sapiens]%, hinn viti borni maður); hommi, samkynhneigður maður (niðrandi, stytt. á %[homosexual]%)
 homo- fsk. sam-, jafn-, eins- (sbr. %[homosexual]%, %[homogenous]%)
 homologous l. samsvarandi; eðlislíkur
 homology n. samsvörun; eðlislíking
@@ -5902,8 +5902,10 @@ mesothelioma n. miðþekjuæxli
 shackled l. fjötraður
 trashcan n. ruslafata, ruslakarfa, ruslatunna
 cellulite n. appelsínuhúð
+Manichaean n. maníki (sjá %[Manicheanism]%); l. maníkískur; sem skiptist í gott og illt
 Manichean n. maníki (sjá %[Manicheanism]%); l. maníkískur; sem skiptist í gott og illt
 Manicheanism n. maníkeismi (trúarbrögð)
+Manichaeanism n. maníkeismi (trúarbrögð)
 superparasite n. sníkilssníkill
 standoffish n. fjarlægur, dulur (í skapi), fálátur; ófélagslyndur, óvingjarnlegur
 provably ao. sannanlega, á sannanlegan hátt
@@ -7101,3 +7103,9 @@ trigon n. þríhyrningur
 bigon n. tvíhyrningur
 digon n. tvíhyrningur
 heptadecagon n. sautjánhyrningur
+backup n. afrit, aukaeintak, varaeintak; stuðningsliðsauki; uppsöfnun
+beechnut n. beykihneta (ávöxtur beykitrjáa)
+auklet n. smáálka
+little auk n. haftyrðill
+hominid n. maður, dýr af mannætt; l. mannættar-
+homo sapiens n.

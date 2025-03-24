@@ -133,13 +133,13 @@ barmaid n. veitingastúlka, barstúlka
 barroom n. drykkjarstofa
 barb n. hár (á plöntum); agnhald (á öngli); krókur (á ör); gaddur; s. setja agnhald á öngul eða krók á ör; gadda
 barbed wire n. gaddavír; [barbed wire fence] gaddavírsgirðing
-barbarian n. villimaður; l. ósiðaður
-barbaric l. villimannlegur, ósiðaður
-barbarism n. villimennska; menningarleysi; útlent eða óvandað orð
+barbarian n. villimaður, barbari; l. ósiðaður, villimannslegur, barbarískur
+barbaric l. villimannslegur, ósiðaður, barbarískur
+barbarism n. villimennska, barbarismi; menningarleysi; útlent eða óvandað orð
 barbarize s. spilla, spillast; snúa til villimennsku, gera villimannslegan
 barbarity n. villimennska; grimmd, grimmdarverk
-barbarous l. villtur, villimannslegur; grimmúðlegur
-barbarousness n. villimennska; grimmúð
+barbarous l. villtur, villimannslegur, barbarískur; grimmúðlegur
+barbarousness n. villimennska, barbarismi; grimmúð
 barbecue n. dýr steikt í heilu lagi; s. steikja (dýr) í heilu lagi
 barber n. rakari, skeggrakari
 barbican n. vígturn

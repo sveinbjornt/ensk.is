@@ -3,8 +3,7 @@ nabob n. landstjóri (á Indlandi); auðkýfingur, ríkisbubbi
 nacre n. perlumóðir
 nacreous l. perlumóður-
 nadir n. ilpunktur, lágpunktur (gagnstætt %[zenith]%)
-nag n. lítill reiðhestur
-nag s. jagast (við e-n [at])
+nag s. nöldra; jagast (við e-n [at]); n. lítill reiðhestur; nöldurseggur
 naggy l. jögunarsamur
 naiad n. vatnadís
 nayad n. vatnadís
@@ -15,7 +14,7 @@ naive l. barnalegur, einfaldur, naífur, naívur; náttúrulegur, tilgerðarlaus
 naivete n. barnaskapur; hispursleysi
 naiveté n. barnaskapur; hispursleysi
 naivety n. barnaskapur; hispursleysi
-naked l. nakinn; klæðlaus; ber ([with the ~ eye]); skjóllaus, varnarlaus; húsgagnalaus ([~ rooms])
+naked l. nakinn; klæðalaus; ber ([with the ~ eye]); skjóllaus, varnarlaus; án yfirskins; húsgagnalaus ([~ rooms])
 nakedly ao. berlega, bert
 nakedness n. nekt, berleiki
 namby-pamby l. tilgerðarlegur, teprulegur; n. tepruskapur (í ræðu eða riti)
@@ -50,7 +49,7 @@ narrow-minded l. þröngsýnn
 narrow-mindedness n. þröngsýni
 narrowness n. mjódd, þröngleiki; naumleiki; smásmygli, smámunasemi
 narrows nft. þrengsli
-narwhal n. náhveli
+narwhal n. náhvalur, náhveli
 nasal l. neflegur, nef-; n. nefhljóð
 nasality n. nefhljómur
 nasalize s. tala í gegnum nefið
