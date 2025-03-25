@@ -44,10 +44,14 @@ from db import EnskDatabase
 def main() -> int:
     db = EnskDatabase()
 
-    entries = db.read_all_duplicates()
+    entries = [e["word"] for e in db.read_all_duplicates()]
+    additions = [e["word"] for e in db.read_all_additions()]
 
-    for e in entries:
-        print(f"{e['word']}: {e['definition']}")
+    for w in entries:
+        if w.lower() in additions or w in additions:
+            print(f"IN ADDITIONS: {w}")
+        else:
+            print(f"{w}")
 
     return 0
 

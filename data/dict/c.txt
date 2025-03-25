@@ -734,14 +734,14 @@ chimney n. arinn; reykháfur; strompur; lampaglas
 chimneypiece n. arinhilla
 chimneysweeper n. sótari
 chimpanzee n. simpansi (apategund frá Afríku)
-chin n. haka; [up to the ~] upp undir höku
+chin n. haka
 China n. Kína; postulín
 Chinaman n. Kínverji
 chinch n. veggjalús
 chine n. hryggur af skepnu (með kjötinu á); hryggur, brún (á fjalli); lögg (á tunnu); s. höggva hrygginn, í stykki
 Chinese l. kínverskur: n. Kínverji; kínverska
-chink n. glasahljóð, málmhljóð; peningar; rifa, sprunga; andköf; niðrandi orð um e-n af kínverskum uppruna; s. glamra, hringla; springa; troða í rifur; standa á öndinni (af hósta eða hlátri)
-chinky l. með sprungum, rifum
+chink n. glasahljóð, málmhljóð; peningar; rifa, sprunga; andköf; [Chink] niðrandi orð um e-n af kínverskum uppruna; s. glamra, hringla; springa; troða í rifur; standa á öndinni (af hósta eða hlátri)
+chinky l. með sprungum, rifum; n. [Chinky] niðrandi orð um e-n af kínverskum uppruna
 chintz n. sirz
 chip n. höggspónn; flís; sneið; [he is a ~ of the old block] lifandi eftirmyndin hans föður síns; s. höggva smátt; höggva til; flísast
 chippings nft. flísar ([~ of stones])
@@ -1937,7 +1937,7 @@ contempt n. fyrirlitning; [have/hold in ~] fyrirlíta; [bring one into ~] gera e
 contemptible l. fyrirlitlegur
 contemptuous l. háðulegur; forsmáandi; fullur fyrirlitningar
 contemptuously ao. fyrirlitlega, með fyrirlitningu
-contend s. berjast, stríða; deila (við e-n [with, against], um e-ð [for, about]); fullyrða halda e-u fram; keppa (um e-ð [for])
+contend s. berjast, stríða; deila (við e-n [with, against], um e-ð [for, about]); fullyrða, halda e-u fram; keppa (um e-ð [for])
 content l. ánægður; (í efri málstofunni í enska þinginu) samþykkur, já; [non ~] ósamþykkur, nei; n. ánægja; rúmtak, rúmmál ([cubical ~]); [~s] ft. innihald; efni; [table of ~s] efnisyfirlit; [to his heart's ~] svo að hann er (var) hjartanlega ánægður; s. gera ánægðan; [~ oneself (with)] láta sér (e-ð) nægja
 contented l. ánægður (með hlutskipti sín)
 contentedness n. ánægja
