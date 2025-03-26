@@ -408,7 +408,7 @@ rectilineal l. línubeinn ([~ direction])
 rectilinear l. línubeinn ([~ direction])
 rectitude n. réttvísi, réttlæti, ráðvendni; réttleiki
 recto n. hægri blaðsíða (í opnu)
-rector n. háskólarektor; forstjóri; sóknarprestur
+rector n. rektor; háskólarektor; forstjóri; sóknarprestur
 rectorate n. rektorsembætti
 rectorship n. rektorsembætti
 rectory n. prestssetur
