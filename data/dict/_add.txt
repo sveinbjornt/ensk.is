@@ -609,7 +609,7 @@ Madagascar n. Madagaskar
 publishing n. útgáfustarfsemi ([they're the biggest name in ~])
 CV n. ferilskrá (stytt. á latneska [curriculum vitae])
 press conference n. blaðamannafundur, fréttamannafundur
-AIDS n. alnæmi, eyðni (stytt. á [acquired immunodeficiency syndrome])
+AIDS n. alnæmi, eyðni, áunnin ónæmisbæklun (stytt. á [acquired immunodeficiency syndrome])
 limousine n. limúsína, limmósína, eðalvagn, glæsivagn
 enquiry n. spurning; fyrirspurn; rannsókn
 lightweight l. léttur; léttvægur, veigalítill; n. keppandi í léttvigt í íþróttum (t.d. hnefaleikum, [~ champion])
@@ -1302,8 +1302,8 @@ anticlimactic l. spennufalls- (sjá %[climactic]%)
 yoyo n. jójó (leikfang)
 auxesis n. miklar ýkjur eða stigmögnun (í ræðulist)
 aardwolf n. jarðúlfur (afrískt rándýr sem er skylt hýenum)
-morning star n. morgunstjarna (plánetan Venus); gaddakylfa (með keðju)
-Venus n. plánetan Venus; rómversk ástar- og frjósemisgyðja
+morning star n. morgunstjarna (reikistjarnan Venus); gaddakylfa (með keðju)
+Venus n. reikistjarnan Venus, morgunstjarnan, kvöldstjarnan; rómversk ástar- og frjósemisgyðja
 blimp n. loftbelgur, loftfar, loftskip
 Czechoslovakia n. Tékkóslóvakía
 menswear n. herrafatnaður
@@ -2084,7 +2084,7 @@ underestimate s. vanmeta; vantelja
 underestimation n. vanmat; vantalning
 professionalism n. fagmennska, atvinnumennska
 professionally ao. fagmannlega, atvinnumannslega
-professionalize s. fagvæða
+professionalize s. fagvæða, gera fagmannlegt; verða fagmaður eða sérfræðingur í e-u
 professionalization n. fagvæðing
 chimp n. simpansi (stytt. á %[chimpanzee]%)
 horticulturalist n. sjá %[horticulturist]%
@@ -2121,7 +2121,8 @@ unsayable l. ósegjanlegur
 trillion n. billjón (þúsund milljarðar)
 uselessness n. gagnsleysi
 parenthood n. foreldrahlutverk (sjá %[parent]%)
-café n. kaffihús
+café n. kaffihús; kaffitería
+cafe n. kaffihús; kaffitería
 memo n. minnisblað, minnismiði
 faceless l. andlitslaus
 millisecond n. millísekúnda (einn þúsundasti úr sekúndu)
@@ -4963,7 +4964,7 @@ onshore l. á landi
 offshore l. (úti) á sjó, skammt undan landi, frá landi, aflands-; [~ bank account] aflandsreikningur
 incubator n. hitakassi, hitaskápur, nýburakassi, klakskápur; [~ space] nýgræðingsrými
 cross-cultural l. þvermenningarlegur, milli menninga
-cafeteria n. kaffistofa; kaffihús
+cafeteria n. kaffistofa, kaffitería; kaffihús
 sexually ao. kynferðislega, með kynlífi, í gegnum kynlíf ([~ transmitted disease])
 willful l. sjá %[wilful]%
 vaginal l. legganga-, skeiðar-; er lýtur að kynfærum kvenna, píkulegur
@@ -5706,9 +5707,9 @@ rustler n. þjófur sem stelur búfénaði, sauðaþjófur, hestaþjófur, nautg
 internationalization n. alþjóðavæðing
 epiphenomenon n. fylgifyrirbæri
 cerebellum n. litli heili, hnykill
-Neptune n. Neptúnus (pláneta, rómverskt goð)
-Uranus n. Úranus (pláneta, grískt goð)
-Jupiter n. Júpíter (pláneta, rómverskt goð)
+Neptune n. Neptúnus (reikistjarna, rómverskt goð)
+Uranus n. Úranus (reikistjarna, grískt goð)
+Jupiter n. Júpíter (reikistjarna, rómverskt goð)
 perijove n. Júpíternánd
 distill s. sjá %[distil]%
 non-reciprocal l. ógagnkvæmur
@@ -7129,3 +7130,70 @@ Silesian l. slesískur; n. slesíska
 eucalyptus n. tröllatré, ilmviður
 tetchiness n. önuglyndi, önugheit (sjá %[tetchy]%)
 banjo n. banjó (strengjahljóðfæri)
+incurably ao. ólæknanlega, á ólæknandi hátt; [he's ~ optimistic] bjartsýni hans er ólæknandi
+nonverbal l. ekki munnlegur, ómunnlegur
+phenology n. náttúrufarsfræði
+ID n. skilríki (stytt. á %[identification]%)
+est l. stofnaður, stytt. á %[established]%
+# WDN-BEGIN
+balanced l. jafnvægur; í jafnvægi
+closed l. lokaður
+color-blind l. litblindur
+colorblind l. litblindur
+cooperative l. sjá %[co-operative]%
+expected l. væntanlegur; fyrirhugaður; sem búist er við; tilvonandi, sem í vændum er
+favorable l. sjá %[favourable]%
+finished l. lokinn; búinn; búinn að vera; úr leik; aðframkominn
+first-hand l. milliliðalaus; beinn
+firsthand l. milliliðalaus; beinn
+integrated l. samþáttaður, samþættur; samofinn
+latest l. nýjastur; [the ~ news] nýjustu fréttir; [the ~ fashion] nýjasta tíska
+operational l. starfs-, rekstrar-; tilbúinn til notkunar; í rekstri; verklegur
+opposed l. andvígur, andsnúinn, mótfallinn; öndverður, andstæður
+part-time l. hluta af tímanum, hluta-; [~ job] hlutastarf
+privileged l. forréttinda-, sem býr við forréttindi
+restricted l. takmarkaður; afmarkaður; einskorðaður
+satisfied l. sáttur; ánægður (sjá %[satisfy]%)
+specified l. tilgreindur; tiltekinn, ákveðinn, téður
+surprised l. hissa, undrandi
+unsurprised l. ekki hissa, ekki undrandi
+advertising n. auglýsingar; auglýsingamennska; auglýsingabransinn ([he's in ~])
+coverage n. umfjöllun, fréttaumfjöllun; dekkun, þakning; trygging, vátrygging
+demonstrator n. mótmælandi, andófsmaður
+entitlement n. réttur; réttindi; [sense of ~] heimtufrekja, að finnast eiga tilkall til e-s
+glasses nft. gleraugu
+goalkeeper n. markmaður, markvörður
+goalie n. markmaður, markvörður (stytt. á %[goalkeeper]%)
+graph n. graf; línurit
+graphics nft. grafík; teiknun
+guideline n. viðmiðunarregla
+houseplant n. húsplanta
+ice cream n. ís, rjómaís
+Koran n. [the ~] kóraninn
+layout n. umbrot
+leftovers nft. leifar, afgangur
+mainstream n. meginstraumur; ríkjandi stefna
+Mars n. Mars (reikistjarna); stríðsguð Rómverja til forna
+morale n. baráttuhugur, baráttuvilji; siðferðisþrek; mórall
+parking n. bílastæði ([~ spot, ~ lot])
+referral n. tilvísun; skírskotun
+seminar n. málstofa, fræðafundur; námskeið
+shorts nft. stuttbuxur
+T-shirt n. bolur, langermabolur, stuttermabolur, téskyrta
+tactic n. taktík; baráttuaðferð; kænskubragð
+trainer n. þjálfari; temjari
+trainers nft. íþróttaskór
+tumour n. æxli, kýli; hnúður, vöxtur; meinsemd
+tycoon n. viðskiptajöfur, auðjöfur
+variant n. afbrigði; afvik; frábrigði
+wildlife n. náttúrulíf
+X-ray n. röntgengeisli; röntgenmynd; röntgen
+apologise s. sjá %[apologize]%
+authorise s. sjá %[authorize]%
+hike s. fara í langa gönguferð; þramma; lyfta, hækka (um verðlag); [go take a ~] snáfaðu burt (óforml.)
+license s. heimila, veita leyfi; fá leyfi fyrir; n. leyfi, heimild
+minimise s. sjá %[minimize]%
+organise s. sjá %[organize]%
+recognise s. sjá %[recognize]%
+sightsee s. fara í skoðunarferð, skoða markverða hluti eða staði, túristast
+# WDN-END

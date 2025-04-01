@@ -524,7 +524,7 @@ affinity n. mægðir, tengdir; skyldleiki
 affirm s. staðfesta, fullyrða, staðhæfa; játa
 affirmance n. staðfesting; yfirlýsing; játning
 affirmation n. staðfesting; yfirlýsing; játning
-affirmative l. jálegur, jákvæður; n. jákvæði; [answer in the ~] svara með jái
+affirmative l. jálegur, jákvæður; n. jákvæði; [answer in the ~] svara með jái; uh. já, staðfest
 affix s. festa við eða á ([to, on, upon]); [~ one's seal to a document] setja innsigli sitt undir skjal; n. viðbætir
 afflatus n. innblástur, andagift; áblásning
 afflict s. hryggja; angra; kvelja
@@ -1165,7 +1165,7 @@ apodictic l. áreiðanlegur, bersýnilegur, skilyrðislaus
 apogee n. jarðfirð; fjarlægasti punktur; hápunktur, toppur
 apologetic l. afsakandi; verjandi
 apologetics nft. trúvarnarfræði
-apologize s. biðjast afsökunar (fyrir [for]); afsaka sig
+apologize s. biðjast afsökunar (fyrir [for]); afsaka sig; biðjast velvirðingar
 apologue n. dæmisaga
 apology n. afsökun; vörn, varnarrit
 apoplectic l. niðurfallssjúkur, slagaveikur; öskureiður, bálreiður, hamslaus
@@ -1696,7 +1696,7 @@ authoress n. kvenrithöfundur
 authoritative l. valdslegur; fullgildur
 authority n. vald, valdsumboð, heimild; hefðarvald; myndugleiki; heimildarmaður; heimildarrit; ft. [authorities] yfirvöld; [the persons/those in ~] valdhafarnir
 authorization n. staðfesting; heimilun; löggilding
-authorize s. samþykkja, staðfesta; veita fulla heimild; löggilda, löghelga
+authorize s. samþykkja, staðfesta; veita fulla heimild, veita umboð; löggilda, löghelga
 autobiography n. sjálfsævisaga, sjálfslýsing
 autochthon n. frumbyggi, e-r sem er innfæddur
 autochthonic l. frumlegur, upprunalegur, innfæddur

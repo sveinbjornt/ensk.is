@@ -319,7 +319,7 @@ west n. vestur, vesturátt; vesturland; [the West] Vesturlönd; ao. í vestur; [
 westering l. vestlægur; [the ~ sun] vestursólin, kvöldsólin
 westerly l. vestlægur; vestan-; ao. í vesturátt
 western l. vestlægur, vestrænn
-westerner n. vesturheimsmaður
+Westerner n. vesturheimsmaður
 westward ao. í vesturátt, vestur eftir
 westwards ao. í vesturátt, vestur eftir
 wet l. votur; votlendur; votviðrasamur; regnsamur; [~ to the skin] holdvotur; n. væta; votviðri; s. væta; gera vott
@@ -396,7 +396,7 @@ Whiggism n. stjórnarstefna Vigga
 while n. stutt stund, hríð; [for a ~] um stund, um hríð; [a good ~] alllengi; [in a little ~] innan skamms; [once in a ~] öðru hvoru, með löngu millibili; [worth ~] ómaksins vert; st. á meðan; svo lengi sem; [~ out hunting] meðan hann var úti á veiðum; s. [~ away] eyða (tímanum)
 whiles st. sjá %[while]%
 whilom l. fyrri, sem áður var ([her ~ favorite]); ao. fyrrum
-whilst st. meðan
+whilst st. á meðan
 whim n. duttlungur, kenjar; e.k. lyftivél í námum
 whimbrel n. spóategund
 whimmy l. duttlungafullur
@@ -432,7 +432,7 @@ whiskers nft. kinnaskegg, kjálkaskegg; veiðihár á ketti
 whiskered l. með kinnaskeggi
 whisky n. viskí (skoskt brennivín)
 whiskey n. viskí (skoskt brennivín)
-whisper s. segja í hálfum hljóðum ([he dared to write what many trembled to ~]); hvísla ([to one, in his ears] að e-m, í eyra e-m); hvískra; n. hvísl, hvískur
+whisper s. segja í hálfum hljóðum ([he dared to write what many trembled to ~]); hvísla ([to one, in his ears] að e-m, í eyra e-s); hvískra; n. hvísl, hvískur
 whispering n. hvískur, hljóðskraf, hvísl
 whist uh. þei!; n. vist (spil)
 whistle n. blístur; flauta; hljóðpípa; s. blístra; flauta; hvína, þjóta

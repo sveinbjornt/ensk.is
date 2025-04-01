@@ -26,7 +26,7 @@ idealist n. hugsjónamaður; hugsæisstefnumaður (í heimspeki)
 ideality n. hugsjónarleiki, hugsjón
 idealize s. gera hugsjónarlegt, setja hugsæisblæ á e-ð
 ideally ao. hugsjónarlega; fullkomnlega
-identical l. samur, samjafn
+identical l. samur, samjafn; nákvæmlega eins
 identify s. gera (tvennt eða fleira) að einu; sanna samleik (e-s)
 identity n. samleikur ([he doubted his own ~])
 ideologist n. hugmyndafræðingur; hugsjónamaður, skýjaglópur
@@ -1143,7 +1143,7 @@ intangible l. óáþreifanlegur, ósnertanlegur
 integer n. heil tala, heild
 integral l. heill, óskiptur; n. heild; heil tala; ómissandi í heildina ([~ part of the court])
 integrant n. ómissandi hluti
-integrate s. sameina í heild; fullkomna, bæta upp ([~ one another]); l. heill, óskertur
+integrate s. sameina í heild; samþætta, samþátta; fullkomna, bæta upp ([~ one another]); l. heill, óskertur
 integrity n. heilleiki, heild; ráðvendni; réttsýni; hreinskilni
 integument n. þunn húð, himna
 intellect n. skilningur; vitsmunir, gáfur; vitmaður

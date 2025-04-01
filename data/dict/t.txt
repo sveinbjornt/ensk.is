@@ -1227,7 +1227,7 @@ troublous l. róstusamur
 trough n. trog; dæld; [~ of the sea] bylgjudalur
 trounce s. berja, lemja
 troupe n. flokkur ([~ of players, ~ of dancers])
-trousers nft. buxur
+trousers nft. buxur, brækur
 trousseau n. brúðarfatnaður
 trout n. silungur
 trouting n. silungsveiði
@@ -1317,7 +1317,7 @@ tumefy s. hleypa bólgu í; bólgna
 tumescent l. bólgnandi
 tumid l. bólginn, þrútinn; íburðarmikill
 tumidity n. bólga; íburður
-tumor n. æxli, kýli, bólga
+tumor n. æxli, kýli; hnúður, vöxtur; meinsemd
 tumult n. uppþot, óspekt; uppnám; æsing
 tumultuary l. róstusamur; óreglulegur, ruglingslegur; ákafur
 tumultuous l. róstusamur; óreglulegur, ruglingslegur; ákafur
@@ -1350,7 +1350,7 @@ turgid l. bólginn, þrútinn; uppbelgdur; íburðarmikill
 turgidness n. bólga; íburður (í rithætti)
 turgidity n. bólga; íburður (í rithætti)
 Turk n. Tyrki
-Turkey n. Tyrkland; kalkúnn (fugl)
+Turkey n. Tyrkland; [turkey] kalkúnn (fugl)
 turkey-cock n. kalkúnahani
 Turkey stone n. heinbrýni
 Turkish l. tyrkneskur

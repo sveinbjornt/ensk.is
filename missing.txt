@@ -9,7 +9,6 @@ scoot s.
 contrarian
 copacetic
 gourmet
-layout
 checkout
 derby
 lambda
@@ -41,11 +40,8 @@ subliminally
 bathos
 hung over
 primly
-balanced
 skating
-integrated
 automotive
-operational
 packing
 boutique
 significantly
@@ -157,23 +153,20 @@ holographic
 transgender
 essentially
 financing
-graph
 highlight
 identification
+misidentification
 instrumentation
 intel
 parabiosis
 invision
-license
 licensing
-mainstream
 mounted
 offence (endurskoða)
 ongoing
 onto
 paintball
 promotional
-referral
 regulatory
 relevance
 irrelevance
@@ -183,7 +176,6 @@ infest (endurskoða)
 infested
 pickup
 pickup truck
-entitlement
 entitled
 entitle (endurskoða)
 converter
@@ -367,7 +359,6 @@ formalization
 constitutionalism
 parvenu
 functionless
-tactic
 highbrow
 middlebrow
 lowbrow
@@ -376,7 +367,6 @@ magneto
 interconnect
 interconnected
 interconnection
-morale
 unlabelled
 unchallengeable
 dominance
@@ -474,7 +464,6 @@ memorization
 signifier
 scraggly
 infiltrator
-hike
 revegetate
 campsite
 shipload
@@ -551,7 +540,6 @@ rapprochement
 encirclement
 counterproductive
 respectively
-variant
 conveyer
 offense
 nevermore
@@ -575,7 +563,6 @@ exterminatory
 redistribute
 knowledgeable
 stockpile
-guideline
 expendable
 mistreat
 mistreated
@@ -625,7 +612,6 @@ discretely
 lethality
 shortfall
 windfall (endurskoða)
-seminar
 prognathous
 eyeglass
 fower
@@ -880,7 +866,6 @@ unbeknown
 unbeknownst
 panelist
 frenetic
-coverage
 intensification
 manipulator
 rationalization
@@ -1211,7 +1196,6 @@ retrofit
 proactive
 proactively
 upend
-wildlife
 revamp
 resilience
 gentrify
@@ -1293,7 +1277,6 @@ detainee
 exhaustiveness
 mismatch
 ritualization
-demonstrator
 derealization
 bridgehead
 evacuee
@@ -1456,7 +1439,6 @@ demo
 karma
 locale
 deluxe
-trainer
 techno
 technobabble
 mambo
@@ -1630,7 +1612,6 @@ artfully
 self-mortification
 Abrahamic
 readmission
-nonverbal
 selflessness
 self-promotion
 communicator
@@ -2361,8 +2342,6 @@ interrelatedness
 premodern
 generalizable
 bleacher
-firsthand
-first-hand
 de facto
 de jure
 strappado
@@ -2745,7 +2724,6 @@ standalone
 playgroup
 boosterism
 ranking
-part-time
 gridlock
 bimodal
 levelheaded
@@ -3112,7 +3090,6 @@ scheduling
 accused
 promo
 racing
-parking
 generated
 bailey
 injured
@@ -3130,7 +3107,6 @@ weighted
 underweighted
 overweighted
 mating
-satisfied
 imaging
 incorporated
 alternatively
@@ -3735,7 +3711,6 @@ quarters
 mortarboard
 stalking
 retread
-tycoon
 leotard
 demotivated
 misophonia
@@ -4840,8 +4815,6 @@ cantilever
 drywall
 supercruise
 idealized
-surprised
-unsurprised
 acquitted
 homebody
 beanie
@@ -4973,7 +4946,6 @@ discursively
 gorgon (endurskoða)
 harm (endurskoða, hamming it up, osfv.)
 shovelhead
-advertising
 ailurophobia
 haplogroup
 creche
@@ -5027,3 +4999,29 @@ persistently
 origami
 convicted
 transmedia
+jiminy
+criminy
+commutate
+commutator
+feedlot
+lieu
+deprogram
+deprogramming
+derogated
+obediently
+verifier
+cardiorespiratory
+access (endurskoða)
+skeptically
+unknownst
+engrossed
+dismayed
+cold feet
+satisfied (endurskoða)
+adapted
+prick (endurskoða)
+communal (endurskoða)
+urging
+identical (endurskoða)
+hyperonymy
+meronymy
