@@ -88,13 +88,15 @@ _ENTRY_LINK_REGEX = re.compile(r"%\[(.+?)\]%")
 
 def _apply_styles(entry: str, definition: str) -> tuple[str, str]:
     """Apply custom styles to text."""
-    e = f'<font face="{_FONT_NAME}-Bold">{entry}</font>'
+    ent = entry.replace("'", "’")
+    e = f'<font face="{_FONT_NAME}-Bold">{ent}</font>'
     d = definition
     # Italicize links and English words
     d = _ENTRY_LINK_REGEX.sub(rf'<font face="{_FONT_NAME}-Italic">\1</font>', d)
     d = d.replace("[", f'<font face="{_FONT_NAME}-Italic">')
     d = d.replace("]", "</font>")
     d = d.replace("~", entry)
+    d = d.replace("'", "’")
     return e, d
 
 
