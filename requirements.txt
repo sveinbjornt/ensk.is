@@ -6,3 +6,4 @@ aiofiles>=24.1.0
 orjson>=3.10.15
 requests>=2.32.3
 cachetools>=5.5.2
+reportlab>=4.3.1

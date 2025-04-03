@@ -7201,8 +7201,9 @@ tummy n. malli, magi (óforml.)
 tummyache n. magaverkur, magapína, magakveisa (óforml.)
 stomachache n. magaverkur, magapína, magakveisa
 civilisation n. sjá %[civilization]%
-backwater n. krummaskuð
+backwater n. krummaskuð, útkjálki, afskekktur staður
 coupé n. tveggja sæta bifreið, bifreið með tveimur sætum; sportbíll
 ableism n. fötlunarfordómar
 cayenne n. rauður pipar, cayenne-pipar, kajennpipar
 colosseum n. hringleikahús
+leaderboard n. topplisti, leiðtogatafla, stigatafla
