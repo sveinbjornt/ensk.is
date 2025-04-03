@@ -717,7 +717,6 @@ breakaway
 entrepôt
 longtime
 vermillion
-backwater
 ornateness
 expeditionary
 acknowledgement
@@ -3205,7 +3204,6 @@ jackdaw
 flaxseed
 canonized
 trip (endurskoða)
-colosseum
 pitch (endurskoða)
 agent provocateur
 moneybox
@@ -3885,7 +3883,6 @@ descriptor
 dealbreaker
 diced
 prep
-ableism
 glenohumeral
 imperviousness
 frogmarch
@@ -4125,7 +4122,6 @@ socialized
 gumdrop
 squidgy
 hidalgo
-mestizo
 eudaimonia
 eudaimonic
 cluttered
@@ -4411,7 +4407,6 @@ close-cut
 apologetically
 shamefacedly
 thoughtfully
-coupé
 hooey
 snifter
 gunplay
@@ -5025,3 +5020,16 @@ urging
 identical (endurskoða)
 hyperonymy
 meronymy
+passarella
+facetiously
+thrilled
+untethered
+withdrawn
+agitated
+stasis
+seaglider
+mestizo
+aloof (endurskoða)
+disinfected
+neuropathy
+semifluid

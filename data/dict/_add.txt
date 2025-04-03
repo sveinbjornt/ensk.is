@@ -7133,7 +7133,7 @@ banjo n. banjó (strengjahljóðfæri)
 incurably ao. ólæknanlega, á ólæknandi hátt; [he's ~ optimistic] bjartsýni hans er ólæknandi
 nonverbal l. ekki munnlegur, ómunnlegur
 phenology n. náttúrufarsfræði
-ID n. skilríki (stytt. á %[identification]%)
+ID n. skilríki (stytt. á [identification])
 est l. stofnaður, stytt. á %[established]%
 # WDN-BEGIN
 balanced l. jafnvægur; í jafnvægi
@@ -7197,3 +7197,12 @@ organise s. sjá %[organize]%
 recognise s. sjá %[recognize]%
 sightsee s. fara í skoðunarferð, skoða markverða hluti eða staði, túristast
 # WDN-END
+tummy n. malli, magi (óforml.)
+tummyache n. magaverkur, magapína, magakveisa (óforml.)
+stomachache n. magaverkur, magapína, magakveisa
+civilisation n. sjá %[civilization]%
+backwater n. krummaskuð
+coupé n. tveggja sæta bifreið, bifreið með tveimur sætum; sportbíll
+ableism n. fötlunarfordómar
+cayenne n. rauður pipar, cayenne-pipar, kajennpipar
+colosseum n. hringleikahús
