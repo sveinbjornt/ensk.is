@@ -57,7 +57,7 @@ sailable l. skipgengur
 sailcloth n. segldúkur
 sailer n. (siglinga)skip ([a fast ~])
 sailing n. sigling
-sailor n. sjómaður, siglingamaður; háseti (á hafskipi); [she is a good ~] hún er hraust á sjónum
+sailor n. sjómaður, sjóliði; siglingamaður; háseti (á hafskipi)
 sain s. signa, blessa
 saint n. heilagur maður; dýrlingur; l. heilagur; [St. George] hinn heilagi George; s. taka í helgra manna tölu; [to ~ it] lifa heilaglega; látast vera heilagur
 sainted l. heilagur; guðhræddur; sæll
@@ -169,7 +169,7 @@ Satan n. satan, andskoti, djöfull
 satanic l. djöfullegur, satanískur
 satchel n. bókataska
 sate s. seðja, ofseðja
-satellite n. tungl; gervitungl; fylgjari, sporgöngumaður
+satellite n. tungl; gervitungl, gervihnöttur; fylgjari, sporgöngumaður
 satiable l. seðjandi
 satiate s. seðja; ofseðja; l. saddur, mettur ([~ with truffles])
 satiety n. mettun, saðning; óbeit, leiði ([~ of enjoyment])
@@ -384,7 +384,7 @@ screak s. skrækja
 scream s. öskra, æpa; veina; væla ([I heard the owl ~]); n. öskur, vein óp ([~ of terror])
 screech s. skrækja; n. skrækur
 screed n. rifa; rifhljóð; löng runa; ræma; ritgerð ([literary ~])
-screen n. skjár; skýli, hlíf (gegn ljósi, hita, kulda, regni o.fl.); stórgert sáld, sandsáld; s. skýla; fela; sákla
+screen n. skjár; skermur; skýli, hlíf (gegn ljósi, hita, kulda, regni o.fl.); stórgert sáld, sandsáld; s. skýla; fela; sákla
 screened coals nft. kol, sem mylsnan hefur verið sálduð úr
 screenings nft. úrgangur
 screw n. skrúfa, skrúfnagli; svíðingur; jálkur; s. skrúfa; skrúfa fast; skæla (t.d. andlitið); kreista; kúga
@@ -1123,7 +1123,7 @@ silver plate n. silfraðir munir
 silver-plated l. silfraður
 silversmith n. silfursmiður
 silvery l. silfur-; silfurlitaður; silfurskær ([a ~ voice])
-similar l. líkur, áþekkur
+similar l. svipaður, líkur, áþekkur
 similarity n. líking
 similarly ao. á líkan hátt
 simile n. samlíking
@@ -1609,7 +1609,7 @@ softspoken l. blíðmáll
 sogged l. gegnvotur, vatnsósa
 soggy l. gegnvotur, vatnsósa
 soho uh. hæ, hæ!
-soil n. jarðvegur ([good, poor, rich ~]); land; [one's native ~] ættland; óhreinindi, skarn; tað, áburður; s. ata, óhreinka, gera óhreint; teðja; saurga
+soil n. jarðvegur ([good, poor, rich ~]); mold; land; [one's native ~] ættland; óhreinindi, skarn; tað, áburður; s. ata, óhreinka, gera óhreint; teðja; saurga
 sojourn s. dvelja (um stundar sakir); n. dvöl ([during our ~ in Egypt])
 sojourner n. aðkomumaður
 solace n. huggun; hugsvölun; s. hugga; hugsvala; hughreysta
@@ -1637,7 +1637,7 @@ solicitor general n. ríkismálflutningsmaður
 solicitous l. áhyggjufullur; umhyggjusamur; [be ~ about] láta sér annt um
 solicitude n. áhyggja; umhyggja, umönnun
 solid l. fastur (mótsett fljótandi); óholur, þéttur ([of ~ silver]); sterkur; traustur ([~ house, pier]); staðgóður; áreiðanlegur, ábyggilegur ([a ~ man]); n. fastur líkami
-solidarity n. skuldbinding eða ábyrgð allra sem eins, samábyrgð; traustleiki, áreiðanleiki
+solidarity n. samstaða, skuldbinding eða ábyrgð allra sem eins, samábyrgð; traustleiki, áreiðanleiki
 solidify s. þétta(st), festa(st)
 solidity n. festa; áreiðanleiki; veigur
 soliloquize s. tala við sjálfan sig
@@ -1794,7 +1794,7 @@ Spartan l. spartverskur, spartverjalegur ([~ simplicity, ~ endurance, ~ discipli
 spasm n. krampi, krampaflog, sinadráttur, sinateygja; hviða ([a ~ of coughing])
 spasmodic l. krampakenndur; sem gerist í rykkjum ([~ efforts]); n. krampalyf
 spat n. hrogn skelfiska
-spatial l. rúmlegur, er lýtur að rúmi-; [~ reasoning] rýmisgreind
+spatial l. rúm-, rúmlegur, er lýtur að rúmi eða rými; [~ reasoning] rýmisgreind
 spatter s. sletta (skvetta) á, ata; busla, skvampa
 spatterdashes nft. legghlífar
 spatulate l. spaðamyndaður
@@ -2095,7 +2095,7 @@ stable l. fastur, stöðugur; staðgóður; n. hesthús, fjós, peningshús; s. 
 stableboy n. fjósadrengur
 stabling n. hýsing; peningshús, hesthús
 stack n. stór (uppmjór) stakkur (af heyi, korni, hálmi); hár reykháfur; s. stakka, hlaða upp
-staff n. stafur, flaggstöng (ft. [staves]); skaft (ft. [staffs]); starfsfólk; yfirforingjaráð ([the general staff]); [the editorial ~ of a newspaper] ritstjórnarliðið
+staff n. stafur, flaggstöng (ft. [staves]); skaft (ft. [staffs]); starfsfólk, starfslið; yfirforingjaráð ([the general ~]); [the editorial ~ of a newspaper] ritstjórnarliðið
 stag n. hjörtur, hreinn; s. steggja; athuga, hafa gætur á e-m; komast fyrir e-ð; kæra, koma upp um e-n ([~ against one])
 stage n. pallur; bryggja; leiksvið; áfangi; áfangastaður; póststöð; póstvagn; stig; [by easy ~s] í hægum áföngum; s. sýna á leiksviði
 stagebox n. stúka í leikhúsi (nálægt leiksviðinu)
@@ -2117,7 +2117,7 @@ stain s. steina, lita (tré, dúka, gler); óhreinka, ata, flekka; n. flekkur, b
 stainer n. litari
 stainless l. flekklaus, óflekkaður
 stair n. haft (í stiga); ft. stigi, rið; [flight of ~s] stigi; [up~s] upp á loft; [down~s] niður; niðri; [below ~s] niðri, hjá vinnufólkinu
-staircase n. stigi (í húsi)
+staircase n. stigagangur, stigi (í húsi)
 stairhead n. stigapallur
 stairway n. stigi (í húsi)
 stake n. staur; píslarstaur (sem píslarvotturinn var bundinn við, meðan hann var að brenna); spilafé; veðfé; hætta; [at ~] í veði, í húfi ([his honour is at ~]); [to perish at the ~] vera brenndur á báli; s. festa, binda við staur; girða með staurum; spila um; hætta (veðja) e-u; leggja í hættu; [~ out] marka með stöngum ([~ out a road])
@@ -2898,8 +2898,8 @@ supplantation n. burtflæming
 supple l. sveigjanlegur, liðugur, mjúkur; undanlátssamur; ísmeyginn; s. mýkja; sveigja; mýkjast
 suppleness n. liðugleiki, mjúkleiki
 supplement n. viðbætir; viðaukablað; s. fylla, bæta við
-supplemental l. viðauka-
-supplementary l. viðauka-
+supplemental l. viðauka-, viðbótar-
+supplementary l. viðauka-, viðbótar-
 suppletive l. sem fyllir í skarðið
 suppliant l. biðjandi, auðmjúkur; n. bónarmaður, biðjandi
 supplicant n. bónarmaður, biðjandi
@@ -2940,7 +2940,7 @@ surfeiter n. átvagl, mathákur
 surfy l. brimasamur ([a ~ beach]); [a ~ billow] brimalda
 surge n. brimalda, brimsjór; s. ganga í öldum, brima, ólga, æsast (um sjó); risa (og hníga); hleypa út (kaðli)
 surgeon n. skurðlæknir; sáralæknir, handlæknir; skipslæknir
-surgery n. sáralækningar
+surgery n. sáralækningar, skurðlækningar; skurðaðgerð
 surgical l. sem lýtur að sáralækningum ([~ instruments]); [~ fever] sárasótt
 surgy l. brimsollinn ([the ~ ocean]); bylgjóttur
 surliness n. önuglyndi, ónot
@@ -3158,7 +3158,7 @@ synthetic l. samtengjandi, samtengt, samþættandi; tilbúinn; gervi- ([~ materi
 Syriac l. sýrlenskur; n. sýrlenska, einkum fornsýrlenska
 syringe n. sprauta, lítil handsprauta; stólpípa; s. sprauta inn í
 system n. kerfi; fræðikerfi; vísindaleg niðurröðun; fyrirkomulag
-systematic l. kerfisbundinn; kerfislegur; niðurraðaður eftir vísindalegum reglum
+systematic l. skipulegur; kerfisbundinn; kerfislegur; niðurraðaður eftir vísindalegum reglum
 systematical l. kerfisbundinn; kerfislegur; niðurraðaður eftir vísindalegum reglum
 systematize s. koma kerfi á; skipa í vísindalegt kerfi
 systole n. samstöfustytting; samdráttur hjartans

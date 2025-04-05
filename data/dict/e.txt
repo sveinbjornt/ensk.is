@@ -82,7 +82,7 @@ economical l. hagfræðilegur, þjóðmegunarlegur; sparsamur; sem er til hagsmu
 economics nft. hagfræði, þjóðmegunarfræði
 economist n. hagfræðingur, þjóðmegunarfræðingur; sparnaðarmaður
 economize s. spara; nota sparlega; hagnýta
-economy n. efnahagur; efnahagslegt ástand; [political ~] þjóðmegunarfræði; (hús)stjórn; fyrirkomulag, tilhögun; sparsemi, sparnaður
+economy n. efnahagur; efnahagslegt ástand; efnahagslíf; [political ~] þjóðmegunarfræði; (hús)stjórn; fyrirkomulag, tilhögun; sparsemi, sparnaður
 ecstasy n. ofsagleði; ofsi; leiðsla; [~ of rage] óstjórnlegt æði; [be in ecstasies] ráða sér ekki (fyrir gleði); MDMA-lyf; s. fylla (e-n) ofsagleði
 ecstatic l. frá sér numinn; ofsalegur ([~ pleasure])
 ecstatical l. frá sér numinn; ofsalegur ([~ pleasure])
@@ -113,7 +113,7 @@ editorship n. ritstjórn ([under the ~ of])
 editress n. ritstýra
 educate s. ala upp; fræða, mennta; venja
 education n. uppeldi; menntun, uppfræðsla, menning; uppeldisfræði ([examination in ~])
-educational l. uppeldislegur, uppfræðslu-, mennta-, menningar-
+educational l. uppeldislegur, uppfræðslu-, mennta-, menntunar-, menningar-
 educationalist n. uppeldisfræðingur
 educationist n. uppeldisfræðingur
 educator n. fræðari
@@ -375,7 +375,7 @@ embroidery n. útsaumur, skrautsaumur
 embroil s. rugla; flækja (e-n) í (e-ð); koma (e-m) í fjandskap (við e-n)
 embroilment n. óeirð, uppþot; ófriður, deila; flækja; sambland ([~ of evil and good])
 embrown s. brúna, gera dökkt
-embryo n. óþroskað fóstur (í móðurkviði); vísir (til e-s)
+embryo n. fósturvísir, óþroskað fóstur (í móðurkviði); vísir (til e-s)
 embryonic l. óþroskaður, ófullkominn, sem er vísir til e-s
 emend s. leiðrétta, lagfæra (staði í bókum)
 emendation n. leiðrétting, lagfæring; umbót
@@ -415,7 +415,7 @@ emphasize s. leggja áherslu á (orð eða setningu), segja með áherslu
 emphatic l. skörulegur, ákafur í ræðu; áherslumikill, rækilegur
 emphatical l. skörulegur, ákafur í ræðu; áherslumikill, rækilegur
 emphatically ao. með áherslu; rækilega
-empire n. keisaraveldi, keisaradæmi; ríki; vald, yfirráð; [the British Empire] Bretaveldi
+empire n. keisaraveldi, keisaradæmi; heimsveldi; ríki; vald, yfirráð; [the British Empire] Bretaveldi, Breska heimsveldið
 empiric l. grundvallaður á reynslu; n. skottulæknir
 empirical l. grundvallaður á reynslu
 empiricism n. raunhyggja; reynsluþekking; skottulækningar
@@ -1053,7 +1053,7 @@ exasperate s. reita til reiði, æsa, espa
 exasperated l. reiður
 exasperation n. reiði; æsing
 excavate s. hola (út); grafa (t.d. brunn)
-excavation n. gröftur; hola, gryfja
+excavation n. gröftur, uppgröftur; hola, gryfja
 excavator n. grafari; graftarvél
 exceed s. fara út yfir; fara fram úr; vera meiri en; [~ one's income] eyða meiru en efnin leyfa; [I am not ~ing when I say] ég ýki ekki, er ég segi; [it ~s the power of man] það er mannlegum kröftum ofvaxið
 exceedingly ao. mjög, fjarska
@@ -1189,7 +1189,7 @@ exorcism n. andasæring; djöflaútrekstur; særingarþula
 exorcist n. særingamaður
 exordial l. inngangs-
 exordium n. inngangur
-exotic l. útlenskur; n. útlensk jurt; útlendingur
+exotic l. framandi, útlenskur; n. útlensk jurt; útlendingur
 expand s. breiða út; rétta út; þenja út ([heat ~s the air]); víðka; breiðast (þenjast) út; ljúkast upp (um blóm); þroskast (um skilninginn)
 expanse n. útþensla; himingeimur ([~ of heaven]); fláki
 expansible l. þenjanlegur, teygjanlegur
@@ -1323,7 +1323,7 @@ exterminator n. upprætari
 external l. ytri, utanverður; sem kemur að utan; [~ trade] verslun við útlönd
 externally ao. að utan
 externals nft. ytri einkenni, ytra útlit
-extinct l. slokknaður, útbrunninn ([an ~ volcano]); liðinn undir lok; genginn úr gildi (um lög)
+extinct l. útdauður ([an ~ species]); slokknaður, útbrunninn ([an ~ volcano]); liðinn undir lok; genginn úr gildi (um lög)
 extinction n. slokknun; dauði; gjöreyðing; afnám ([~ of the national debt])
 extinctive l. eyðandi ([~ agency])
 extinguish s. slökkva; bæla niður, eyða; leggja niður (embætti, stofnanir); strika út, afmá (skuld)

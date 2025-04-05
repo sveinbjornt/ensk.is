@@ -11,7 +11,7 @@ vacillation n. reikun; hik; staðfestuleysi
 vacillatory l. reikull, hikandi
 vacuity n. auðn, tómleiki; sljóleiki ([~ of mind])
 vacuous l. tómur, tómlegur; iðjuleysis- ([~ life])
-vacuum n. autt (lofttómt) rúm, lofttæmi, lofttóm
+vacuum n. autt (lofttómt) rúm, lofttæmi, lofttóm; s. ryksuga (sjá %[vacuum cleaner]%)
 vade-mecum n. vasakver, vasabók
 vagabond l. reikandi; n. flakkari, förumaður
 vagabondage n. flakk
@@ -475,7 +475,7 @@ voter n. kjósandi; sá sem greiðir atkvæði; atkvæðisbær maður
 voting n. atkvæðagreiðsla; [~ paper] kjörseðill, atkvæðamiði
 votive l. heitinn, heit-; [~ medal] minnispeningur; [~ tablet] heitspjald
 vouch s. staðhæfa; staðfesta; votta, bera e-u vitni; ábyrgjast ([I ~ for his honesty])
-voucher n. ábyrgðarmaður; skírteini; sönnunarskjal, fylgiskjal
+voucher n. ábyrgðarmaður; skírteini; sönnunarskjal, fylgiskjal; úttektarmiði
 vouchsafe s. láta svo lítið að veita e-m e-ð; virða e-n e-s ([he ~d me no answer]); tryggja e-m e-ð ([he was ~d a fair profit])
 vow n. heit, loforð; [to make (take) a ~] vinna heit; [monastical ~] munkaheit; s. heita; fullyrða
 vowel n. sérhljóði; raddstafur, hljóðstafur; raddhljóð ([~ sound])
@@ -485,8 +485,8 @@ vulgar l. algengur; almúga- ([~ tongue]); dónalegur, grófur ([~ expressions, 
 vulgarism n. almúgalegt (eða dónalegt) orðatiltæki
 vulgarity n. dónaskapur
 vulgarize s. gera (e-ð) algengt (gróft, ruddalegt); breiða út meðal almennings
-vulnerability n. særanleiki, veikleiki
-vulnerable l. særanlegur ([Achilles was ~ in his heel])
+vulnerability n. særanleiki, veikleiki; viðkvæmni
+vulnerable l. særanlegur ([Achilles was ~ in his heel]); viðkvæmur
 vulnerary l. sem græðir sár
 vulpicide n. refabani
 vulpine l. sem lýtur að refum-; slægur (sem refur)

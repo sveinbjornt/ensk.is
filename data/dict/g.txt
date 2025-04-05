@@ -35,7 +35,7 @@ gait n. gangur, göngulag
 gaiter n. leggbjörg, legghlíf
 gala n. viðhafnarbúningur ([~ dress]); viðhafnarsamkoma
 galactic l. mjólkur-; vetrarbrautar- ([~ circle])
-galaxy n. vetrarbraut; glæsilegur hópur, glæsilegt safn
+galaxy n. stjörnuþoka; vetrarbraut; glæsilegur hópur, glæsilegt safn
 gale n. hvassviðri, stormur
 galimatias n. þvættingur, bull
 gall n. gall; beiskja, biturleiki, vonska, heift; frekja; blekepli; sár, meiðsl, fleiður; s. nugga (gat á hörundið, kaðal til skemmda); fleiðra, meiða (t.d. hest undan reiðveri); særa, erta
@@ -102,7 +102,7 @@ gap n. op, gat, sprunga, skarð; eyða ([~ in our knowledge])
 gape s. gapa, gína; geispa; glápa, góna (á e-ð [at, on, upon]); sækjast eftir ([after, for]); n. op, gin ([he opens his ~]); geisp; gláp, gón
 gap-toothed l. gistenntur
 garb n. búningur, klæðnaður
-garbage n. rusl, úrgangur, úrkast; innyfli (úr skepnum)
+garbage n. sorp, rusl, úrgangur, úrkast; innyfli (úr skepnum)
 garble s. tína úr; skemma; afbaka, rangfæra
 garbles nft. ryk, rusl
 garden n. garður (sáðgarður, aldingarður, blómgarður); s. fást við (stunda) garðyrkju
@@ -225,7 +225,7 @@ gentilism n. heiðindómur, heiðni
 gentility n. hæverska, prúðmennska, kurteisi
 gentle l. af góðum ættum, tiginn; blíður, þýður, ljúfur; hóglyndur, gæfur; vingjarnlegur, vægur, hægur; s. blíðka, mýkja; temja
 gentlefolk nft. heldri menn
-gentleman n. herramaður; tiginn maður, göfugmenni; heldri maður, fyrirmaður; heiðursmaður
+gentleman n. herramaður; tiginn maður, göfugmenni; prúðmenni; heldri maður, fyrirmaður; heiðursmaður
 gentlemanlike l. herramannslegur; fyrirmannlegur, heldri manni samboðinn
 gentlemanly l. herramannslegur; fyrirmannlegur, heldri manni samboðinn
 gentleness n. blíða, hógværð (sjá %[gentle]%)
@@ -866,7 +866,7 @@ guffaw n. hrossahlátur; s. skellihlæja, hlæja hrossahlátri
 guggle s. gutla (um vökva í flösku); n. gutlhljóð
 guidable n. ráðþægur
 guidance n. leiðsögn; stjórn; fylgd
-guide s. leiðbeina, fylgja, vísa leið; stýra, stjórna; [be ~d by] fara eftir (e-u); n. fylgdarmaður, leiðsögumaður, leiðtogi
+guide s. leiðbeina, fylgja, vísa leið; stýra, stjórna; [be ~d by] fara eftir (e-u); n. fylgdarmaður, leiðsögumaður, leiðtogi; leiðsögubók, leiðbeiningabæklingur
 guidebook n. leiðsögubók
 guideless l. leiðsagnarlaus, fylgdarlaus
 guidepost n. vegamótastólpi, vegvísunarstólpi

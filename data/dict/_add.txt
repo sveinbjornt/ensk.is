@@ -436,7 +436,7 @@ insulin n. insúlín, eyjavaki (hormón sem myndast í briskirtli)
 keyword n. lykilorð; leitarorð
 literacy n. læsi, lestrarkunnátta
 mailman n. bréfberi, póstmaður
-makeup n. (andlits)förðun, (andlits)farði, meik
+makeup n. (andlits)förðun, (andlits)farði, meik, snyrtivörur
 marina n. smábátahöfn
 nudist n. strípalingur, striplingur
 pipeline n. leiðsla; nft. [~s] leiðslukerfi
@@ -2199,7 +2199,7 @@ manpower n. mannafli, mannafl
 monotheistic l. eingyðistrúarlegur, eingyðistrúar-, eingyðislegur-
 womanizer n. kvennabósi, flagari
 choirboy n. kórdrengur
-willpower n. viljastyrkur
+willpower n. viljastyrkur, viljakraftur
 ballerina n. ballettdansmær, ballerína
 vodka n. vodka, vodki (sterkur áfengisdrykkur)
 ashtray n. öskubakki
@@ -7223,3 +7223,4 @@ vindicative l. réttlætandi
 instal s. sjá %[install]%
 reactor n. kjarnaofn; kjarnakljúfur ([nuclear ~])
 civil war n. borgarastríð
+trouser l. buxna- ([~ pockets]), yfirleitt í ft. %[trousers]%

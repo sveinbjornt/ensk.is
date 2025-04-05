@@ -317,7 +317,7 @@ terminus n. endastöð, endastöðvar (á járnbraut); takmark
 termite n. hvítur maur
 tern n. kría, þerna
 ternary l. þrí-; [the ~ number] þrítalan; n. [in ternaries] þrír og þrír
-terrace n. hjalli; flatt þak
+terrace n. verönd; flatt þak; hjalli
 terrene l. jarðlegur, jarðar-; jarðneskur; [~ animal] landdýr; n. jarðarbúi
 terrestrial l. jarðlegur, jarðar-; jarðneskur; [~ animal] landdýr; n. jarðarbúi
 terrible l. hræðilegur, ógurlegur
@@ -407,7 +407,7 @@ theism n. guðstrú
 theist n. guðstrúarmaður
 theistic l. guðstrúarlegur
 theistical l. guðstrúarlegur
-theme n. umtalsefni; stutt ritgerð (um tiltekið efni); orðstofn
+theme n. umtalsefni; stutt ritgerð (um tiltekið efni); orðstofn; stef; þema
 then ao. þá, á þeim tíma; svo, því næst; þá, þess vegna; [till ~] til þess tíma; [now and ~] við og við; [the ~ mayor] borgarstjórinn sem þá var
 thence ao. þaðan; frá þeirri tíð; þess vegna, af því
 thenceforth ao. upp frá því
@@ -503,7 +503,7 @@ thorp n. þorp
 thou fn. þú; s. þúa
 though st. þótt, þó að; þó; [as ~] rétt eins og
 thought n. hugsun; umhugsun; ætlun; ögn ([a ~ longer]); [on (upon) second ~] við nákvæmari íhugun
-thoughtful l. hugsandi; alvörugefinn; hugsunarsamur, aðgætinn
+thoughtful l. hugsandi; alvörugefinn; hugsunarsamur, aðgætinn; hugulsamur
 thoughtless l. hugsunarlaus
 thoughtlessly ao. í ógáti
 thoughtlessness n. hugsunarleysi
@@ -571,7 +571,7 @@ thrum n. þráðarendi (í vef), afvikur ([~s]); s. urga, sarga (á hljóðfæri
 thrush n. þröstur; munnskóf, munnangur
 thrust s. þrýsta, stinga; leggja (til e-s [at]); troða sér; n. þrýsting; stunga; árás
 thud n. dynkur, hlunkur, dynur ([~ of the horses' feet]); s. dynja
-thumb n. þumalfingur; s. setja fingraför á; óhreinka; þrýsta niður með þumalfingri ([~ down the tobacco in his pipe])
+thumb n. þumalfingur, þumall; s. setja fingraför á; óhreinka; þrýsta niður með þumalfingri ([~ down the tobacco in his pipe])
 thump n. hlunkur, dynkur; þungt högg; s. berja; hlunkast; höggva (um skip)
 thumping l. þungur, þunglamalegur; n. barsmíð
 thunder n. þruma, skrugga; dynur; s. þruma, drynja; [it ~s and lightens] þrumur og eldingar ganga
@@ -647,7 +647,7 @@ time n. tími, tíð; sinn, skipti; takt (í söng); [to have a good (of it)] sk
 timely l. tímabær, sem verður í tæka (rétta) tíð; ao. nógu snemma
 timepiece n. stofuklukka
 timeserver n. sá sem ekur seglum eftir vindi
-timetable n. ferðaáætlun (á járnbrautum); stundatafla (í skólum)
+timetable n. tímaáætlun; ferðaáætlun (á járnbrautum); stundatafla (í skólum)
 timid l. huglaus; hræddur, feiminn
 timidity n. hræðsla, feimni
 timorous l. huglaus; hræddur, feiminn
@@ -1113,7 +1113,7 @@ triangular l. þríhyrndur, þrístrendur
 triarchy n. þríveldi, þríveldisstjórn
 trias n. þrenning
 tribal l. ættflokks-, ættflokka- ([in the ~ stage]); ættar- ([~ badge])
-tribe n. þjóðflokkur; ættbálkur; kynflokkur, kynkvísl
+tribe n. þjóðflokkur; ættbálkur, ættflokkur; kynflokkur, kynkvísl
 tribulation n. þrenging, mæða, andstreymi
 tribunal n. dómarasæti; dómstóll
 tribunate n. alþýðustjóraembætti

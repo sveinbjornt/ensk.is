@@ -489,8 +489,8 @@ centigrade l. [~ thermometer] hundrað stiga hitamælir (selsíus)
 centigramme n. 1/100 úr grammi
 centimetre n. sentimetri (einn hundraðasti úr metra)
 centipede n. margfætla
-central l. sem er í miðið, mið-; aðal-, höfuð; [~ heating] miðstöðvarhitun; [~ exchange] símamiðstöð
-centrality n. miðleiki
+central l. miðlægur, sem er í miðju, mið-; aðal-, höfuð-; [~ heating] miðstöðvarhitun
+centrality n. miðleiki; miðlægni
 centralization n. samdráttur á einn stað; miðstýring
 centralize s. draga (stjórnarvald) saman á einn (miðlægan) stað; gera miðstýrðan
 centre n. miðja, miðbik, miðdepill, miðpunktur; miðflokkur (á þingi); miðfylking; [~ of gravity] þungamiðja; s. setja í miðjuna; safnast utan um miðpunkt ([in, on, round, about]); [~ force] miðsóknarafl
@@ -969,7 +969,7 @@ classfellow n. bekkjarbróðir
 classmate n. bekkjarbróðir
 classic l. fyrirmyndarlegur, ágætur; gullaldar- (einkum miðað við gullöld bókmennta og lista hjá Grikkjum og Rómverjum); sögulega frægur ([~ ground]); n. fornaldarrithöfundur (hjá Grikkjum og Rómverjum); sígildur (fyrirmyndar) rithöfundur eða listamaður
 classical education n. fræðsla í grískum og latneskum fræðum
-classical l. klassískur; fyrirmyndarlegur, ágætur; gullaldar- (einkum miðað við gullöld bókmennta og lista hjá Grikkjum og Rómverjum); sögulega frægur ([~ ground])
+classical l. klassískur, sígildur; fyrirmyndarlegur, ágætur; gullaldar- (einkum miðað við gullöld bókmennta og lista hjá Grikkjum og Rómverjum); sögulega frægur ([~ ground])
 classicism n. lærdómur í (meðhald með) fornum fræðum
 classification n. niðurskipting; flokkun
 classify s. skipa í flokka
@@ -2663,10 +2663,10 @@ curmudgeon n. svíðingur, nirfill
 curmudgeonly l. svíðingslegur, nirfilslegur
 currant n. kúrenna (þurrkuð smávínber); rifsber
 currency n. gjaldmiðill, gjaldeyrir, gangeyrir; gjaldgengi; útbreiðsla; [during the ~ of the lease] svo lengi sem leigumálinn stendur (stóð)
-current l. sem er að líða; gjaldgengur ([~ coin]); algengur; [the ~ month] þessi mánuður; [it goes ~ that] það er í almæli, að; n. straumur; vatnshalli; rás (viðburða)
+current l. sem er að líða; gjaldgengur ([~ coin]); algengur; [the ~ month] þessi mánuður; [it goes ~ that] það er í almæli, að; n. straumur; rafstraumur ([electric ~]); vatnshalli; rás (viðburða)
 currently ao. liðugt ([to read ~])
 curricle n. tvíeykisvagn
-curriculum n. námsskeið ([~ of study])
+curriculum n. námsskrá, námsskeið ([~ of study])
 currier n. sá sem verkar og litar sútuð skinn; leðurverkari
 currish l. hundslegur ([his ~ nature]); geðvondur
 curry n. karrí (réttur úr smáskornu kjöti með karrídufti í); s. verka (sútuð skinn); kemba (hesti); lúberja; [~ favour with] koma sér í mjúkinn við
@@ -2678,7 +2678,7 @@ cursory l. skjótur, skyndi-; lauslegur ([a ~ inspection shows that])
 curst l. bölvaður
 curt l. stuttur; stuttorður, stuttaralega
 curtail s. stytta; rýra, skerða, minnka, klípa (af e-u); svipta
-curtain n. tjald (um rúm eða fyrir glugga eða dyrum); fortjald (fyrir leiksviði); s. prýða með tjöldum; skýla, hylja
+curtain n. tjald (um rúm eða fyrir glugga eða dyrum); gluggatjald; fortjald (fyrir leiksviði); s. prýða með tjöldum; skýla, hylja
 curtsy n. knjábeyging; [to drop (make) a ~] beygja kné (til að sýna virðingu eða heilsa; nú aðeins haft um kvenmenn); s. [to drop a ~]
 curtsey n. knjábeyging; [to drop (make) a ~] beygja kné (til að sýna virðingu eða heilsa; nú aðeins haft um kvenmenn); s. [to drop a ~]
 curvature n. bugða

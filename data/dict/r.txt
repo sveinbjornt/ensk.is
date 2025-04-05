@@ -97,7 +97,7 @@ rancid l. þrár (um feiti), þránaður
 rancidity n. þrái
 rancorous l. hatursfullur
 rancour n. óvildarhugur, kali, hatur ([a private ~])
-random n. tilviljun, hending; l. sem verður af handahófi; [a ~ shot (question)] skot (spurning) út í bláinn; [at ~] af handahófi, út í bláinn ([to speak at ~])
+random n. tilviljun, hending; l. tilviljunarkenndur, sem verður af handahófi; [a ~ shot (question)] skot (spurning) út í bláinn; [at ~] af handahófi, út í bláinn ([to speak at ~])
 range s. raða niður; flokka; hleypa út (akkerisfesti); fara um eða yfir; sigla fram með, þræða (ströndina); reika (um eða yfir); hvarfla; draga (um skotvopn); liggja í e-a stefnu ([islands ranging north]); vera jafn e-m ([with]) að tign; [~ along the coast] sigla fram með ströndinni; [the price ~d from eight pence to ten shillings] verðið var frá átta pence til tíu shillings
 range n. röð; eldavél; svæði, svið; reik; leyfi til að reika um ([the ewes have ~ over the stubbles]); skotlengd; beitarland; stefna ([~ of the hills]); [~ of mountains] fjallgarður; [out of (beyond) ~] fyrir utan skotmál
 ranger n. flakkari, sporhundur; skógarvörður; ft. riddaraflokkur ([mounted ~s])
@@ -520,8 +520,8 @@ refiner n. málm- eða sykurhreinsari; fágari
 refinery n. staður (hús) þar sem sykur er hreinsaður, málmur skírður, sykursuðuhús
 refit s. gera við (skip); útbúa aftur; fá viðgerð
 refitment n. viðgerð
-reflect s. kasta aftur (t.d. hita, ljósi, hljóði); spegla; íhuga, hugsa (um [on]); [~ on] kasta (skugga) á; niðra, lasta; [~ dishonour (credit) on (upon)] vera e-m til vansæmdar (sæmdar)
-reflection n. endurskin; umhugsun, íhugun; hnjóðsyrði, last; [cast a ~ on his character] kasta skugga (rýrð) á mannorð hans
+reflect s. kasta aftur (t.d. hita, ljósi, hljóði); spegla, endurspegla; íhuga, hugsa (um [on]); [~ on] kasta (skugga) á; niðra, lasta; [~ dishonour (credit) on (upon)] vera e-m til vansæmdar (sæmdar)
+reflection n. endurspeglun, endurskin; umhugsun, íhugun; hnjóðsyrði, last; [cast a ~ on his character] kasta skugga (rýrð) á mannorð hans
 reflective l. endurskínandi; endurkastandi; hugsandi
 reflector n. spegill
 reflex l. sveigður aftur á bak; ósjálfráður ([~ contraction of the muscles]); [~ light] endurskin; n. endurskin
@@ -967,7 +967,7 @@ resourceful l. úrræðagóður; útsjónarsamur
 resourceless l. úrræðalaus; efnalaus
 respect s. virða, meta; snerta, lúta að; [~ oneself] vera vandur að virðingu sinni; [~ the person] fara í manngreinarálit; [as ~s] að því er snertir; n. virðing ([he has won the ~ of all]); tillit ([is true with ~ to the French]); ft. virðuleg kveðja; sendibréf; [have ~ to] lúta að e-u; gefa e-u gaum; [pay one's ~s to] heimsækja e-n í virðingarskyni; [~ of persons] manngreinarálit; [give my ~s to Mrs B] berið frú B kveðju mína; [in (with) ~ to, in ~ of] með tilliti til, að því er kemur til; [in all (many) ~s] að öllu (mörgu) leyti
 respectability n. virðugleiki, velsæmi; heiðarleiki; heiðarlegur maður, sómamenni
-respectable l. virðingarverður, heiðarlegur; sómasamlegur; sæmilegur, álitlegur
+respectable l. virðulegur, virðingarverður, heiðarlegur; sómasamlegur; sæmilegur, álitlegur
 respecter n. [~ of persons] sá sem fer í manngreinarálit, gerir sér mannamun
 respectful l. virðingarfullur; virðulegur
 respectfully ao. virðingarfyllst; virðulega; [~ yours] með virðingu yðar (undir sendibréfum)
@@ -1025,7 +1025,7 @@ resuscitation n. (endur)lífgun
 resuscitative l. endurlífgandi
 resuscitator n. endurlífgari
 retail s. selja (seljast) í smásölu; [~ slander] bera (breiða) út róg; n. smásala; [at/by ~] í smásölu; [~ trade] smásöluverslun; ao. [by ~]
-retailer n. smásölukaupmaður; [~ of news] kjaftaskúmur
+retailer n. smásali, smásölukaupmaður; [~ of news] kjaftaskúmur
 retain s. halda eftir; halda (e-u) föstu; muna; taka (fá e-n) til e-s starfa
 retainer n. áhangandi, fylgismaður; kaup, sem málaflutningsmanni er goldið fyrirfram
 retake s. taka aftur; vinna e-ð (ná e-u) aftur

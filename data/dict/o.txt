@@ -192,7 +192,7 @@ offish l. ómannblendinn
 offscouring n. óhreinindi
 offset n. fararbyrjun, byrjun ([at the ~]); frjóangi; kvísl, grein; uppbót; stallur (á vegg); gagnkrafa
 offshoot n. kvísl, grein
-offspring n. afsprengi; niðjar
+offspring n. afsprengi; afkvæmi; niðjar
 off-street n. hliðargata, þvergata
 off-time n. tómstund
 offuscate l. sjá %[obfuscate]%
@@ -573,7 +573,7 @@ ovation n. fagnaðarviðtaka; sigurhelgi (hjá Rómverjum)
 oven n. bökunarofn
 over fs. & ao. yfir um; úti ([the day is ~]); [~ night] um nóttina; eftir ([to leave ~]); of ([not ~ well]); fyrir handan ([~ the water]); [it is all ~ with him] það er úti um hann; [~ against] andspænis; [~ again] einu sinni enn þá; að nýju; [~ and ~ again] hvað eftir annað
 overabound s. vera til í ofmikilli mergð eða gnótt
-overall n. utanyfirfat; ft. utanyfirbuxur, reiðbuxur; vinnuföt
+overall n. utanyfirfat; nft. utanyfirbuxur, reiðbuxur; vinnuföt; samfestingur
 overawe s. gagntaka með lotningarótta, ægja
 overbalance s. vera þyngri; [to ~ oneself] missa jafnvægið; n. yfirvigt; [a large ~] mikill meirihluti
 overbear s. undiroka

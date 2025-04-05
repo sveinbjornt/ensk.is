@@ -81,7 +81,7 @@ ballad n. þjóðsögukvæði, strengleikakvæði; götuvísa
 ballast n. kjölfesta, seglfesta; s. láta seglfestu í skip
 ballet n. ballett, bendingadans; ballettsýning
 balloon n. loftfar
-ballot n. atkvæðiskúla; atkvæðismiði; leynileg atkvæðagreiðsla ([election by ~]); s. greiða atkvæði með smákúlum eða óundirrituðum atkvæðismiða
+ballot n. atkvæðaseðill; atkvæðiskúla; atkvæðismiði; leynileg atkvæðagreiðsla ([election by ~]); s. greiða atkvæði með smákúlum eða óundirrituðum atkvæðismiða
 balm n. ilmkvoða; ilmur; smyrsl
 balmy l. ilmandi; blíður (um veður); græðandi
 balsam n. ilmsmyrsl
@@ -593,7 +593,7 @@ birth n. fæðing, burður; uppruni; [by ~] að fæðingu; [give ~ to] fæða, a
 birthday n. afmælisdagur
 birthplace n. fæðingarstaður
 birthright n. frumburðarréttur
-biscuit n. kexkaka; tvíbaka, kex; ógljáð postulín
+biscuit n. kexkaka, smákaka; tvíbaka, kex; ógljáð postulín
 bisect s. helminga, kljúfa í tvennt; kvíslast
 bisection n. helmingun; kvíslun
 bishop n. biskup
@@ -647,7 +647,7 @@ blameless l. saklaus; óaðfinnanlegur
 blameworthy l. lastverður
 blanch s. gera hvítt; bleikja (léreft); hvítna (af hræðslu)
 blancmange n. e.k. mjólkurbúðingur
-bland l. blíður, mjúkur; [a ~ disposition] blíðlyndi
+bland l. blíður, mjúkur; [a ~ disposition] blíðlyndi; bragðlítill, lítilfjörlegur
 blandish s. kjassa
 blandishment n. fagurgali, kjass
 blandness n. blíða; mjúkleiki

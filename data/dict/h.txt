@@ -419,7 +419,7 @@ help s. hjálpa; gera við (e-u, [we cannot ~ that]); afstýra (e-u); forðast; 
 helper n. hjálpari, aðstoðarmaður
 help n. hjálp, aðstoð; [there is no ~ for it] það er ekki hægt að bæta úr því
 helpful l. hjálpsamur; gagnlegur
-helpless l. hjálparlaus; munaðarlaus, sem engan á að
+helpless l. hjálparlaus, bjargarlaus; munaðarlaus, sem engan á að
 helplessness n. hjálparleysi; úrræðaleysi
 helpmate n. aðstoðarmaður; eiginkona, eiginmaður
 helpmeet n. aðstoðarmaður; eiginkona, eiginmaður
@@ -741,7 +741,7 @@ homologate s. samþykkja
 homonym n. samhljóðingur (samhljóða orð, en ólíkrar merkingar); samnefningur, nafni
 homonymous l. samhljóða (um orð, sem eru eins í framburði, en frábrugðin í þýðingu); samnefndur (e-m [with])
 hone n. hein, heinbrýni; s. brýna með heinbrýni
-honest l. ráðvandur, heiðvirður, hreinskilinn
+honest l. heiðarlegur, ráðvandur, heiðvirður, hreinskilinn
 honestly ao. ráðvandlega
 honesty n. ráðvendni; hreinskilni ([~ is the best policy])
 honey n. hunang; s. gera sætt; tala sætt

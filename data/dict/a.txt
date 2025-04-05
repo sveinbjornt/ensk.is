@@ -123,7 +123,7 @@ absolve s. leysa e-n undan e-u ([from]); veita e-m syndalausn; sýkna ([of] e-n 
 absonant l. ósamræmur ([to, from]); fjarstæður
 absorb s. drekka (soga) í sig; gleypa; [~ed in a book] sokkinn ofan í bók
 absorbent l. sem sogar í sig
-absorption n. upptaka; gleyping
+absorption n. uppsogun; upptaka; gleyping; ísog
 absorptive l. sogandi, sog-; gleypandi
 abstain s. halda sér frá, varna við e-u ([from]); vera í bindindi
 abstainer n. bindindismaður
@@ -346,7 +346,7 @@ additionally ao. sem viðbætir
 addle l. stropaður, fúll (um egg); ruglaður; s. rugla (heilann); ónýta; fúlna (um egg)
 addlebrain n. auli
 addlebrained n. vitlaus
-address s. snúa, beina (ósk, bæn, orðum); ávarpa; skrifa utan á; [~ oneself (one's words) to a person] snúa máli sínu til e-s; [~ oneself to a task] búast til; n. ávarp, ræða; utanáskrift; fimleiki; viðmót; [pay one's ~es to a lady] gera sig líklegan við; [a man of pleasing ~] þægilegur í viðmóti
+address s. snúa, beina (ósk, bæn, orðum); ávarpa; skrifa utan á; [~ oneself (one's words) to a person] snúa máli sínu til e-s; [~ oneself to a task] búast til; n. heimilisfang; ávarp, ræða; utanáskrift; fimleiki; viðmót; [pay one's ~es to a lady] gera sig líklegan við; [a man of pleasing ~] þægilegur í viðmóti
 adduce s. tilgreina, vitna til, tilfæra sem sönnun
 adduction n. aðdráttur; tilgreining
 adept l. leikinn (í [in]), kænn; n. snillingur (í e-i kunnáttu)
@@ -753,7 +753,7 @@ allot s. úthluta
 allotment n. úthlutun; hluti
 allow s. játa, kannast við; samþykkja; leyfa; láta; veita; gera ráð fyrir (e-u [for])
 allowable l. leyfilegur
-allowance n. leyfi; eyðslufé; skammtur, frádráttur, uppbót; [monthly ~] mánaðarpeningar; [make ~ for] gera eða ætla fyrir (e-u), hafa tillit til; [at no ~] gegndarlaust; s. skammta
+allowance n. leyfi; eyðslufé; vasapeningur; skammtur, frádráttur, uppbót; [monthly ~] mánaðarpeningar; [make ~ for] gera eða ætla fyrir (e-u), hafa tillit til; [at no ~] gegndarlaust; s. skammta
 alloy s. blanda (með ódýrari málmi); tempra; n. málmblendingur; málmblanda
 alloyage n. blöndun (málma)
 allude s. eiga við; lúta að e-u ([to]); benda til e-s ([to])
@@ -853,8 +853,8 @@ ambient l. umlykjandi
 ambiguity n. margræðni; tvíræðni; margræð eða tvíræð merking
 ambiguous l. margræður; tvíræður; efasamur, óljós
 ambit n. ummál; [within the ~ of] innan takmarka (e-s)
-ambition n. metorðagirnd; áköf löngun; s. sækjast eftir
-ambitious l. metorðagjarn; drottnunargjarn; sólginn, fíkinn (í e-ð [of])
+ambition n. metnaður, metorðagirnd; áköf löngun; s. sækjast eftir
+ambitious l. metnaðarfullur, metorðagjarn; drottnunargjarn; sólginn, fíkinn (í e-ð [of])
 amble s. skeiða; ríða skeið; n. skeið, léttur gangur
 ambler n. skeiðhestur, vekringur
 ambling l. vakur
@@ -1613,8 +1613,7 @@ attenuate s. þynna; rýra; draga úr; l. þunnur; magur
 attenuation n. þynning; megurð
 attest s. bera vitni um, staðfesta; kalla sem vitni; eiðfesta; n. vitnisburður
 attestation n. vitnisburður; sönnun ([in ~ of]); undirskrift í viðurvist votta; eiðfesting
-attic n. þakherbergi
-Attic l. attískur, frá Attíku
+attic n. háaloft, þakherbergi; l. [Attic] attískur, frá Attíku
 atticism n. attnesk málvenja; smekkvísi í máli
 attire n. klæðnaður, búningur; s. klæða, búa
 attitude n. staða, stellingar; framkoma, hegðun; [~ of mind] hugarástand; [to strike an ~] setja sig í stellingar
@@ -1735,7 +1734,7 @@ avenge s. hefna; ([~ oneself upon, on]) hefna sin á e-m
 avengeful l. hefnigjarn
 avengement n. hefnd
 avenger n. hefnandi
-avenue n. trjágöng; breið gata
+avenue n. breiðgata; trjágöng
 aver s. staðhæfa, fullyrða
 average n. meðaltal; skaði á farmi eða skipi (á sjó); [on ~] að meðaltali; l. meðal-; [an ~ year] meðalár; s. meta (að meðaltali); vera að meðaltali; vinna að meðaltali
 averment n. staðhæfing

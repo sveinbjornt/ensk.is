@@ -219,7 +219,7 @@ decennium n. tugur ára
 deception n. blekking; svik
 deceptive l. táldrægur, villandi
 dechristianize s. afkristna
-decide s. úrskurða; gera út um, skera úr ([~ a question]); ákveða, ráða af ([have you ~d on going?])
+decide s. úrskurða; gera út um, skera úr ([~ a question]); ákveða, ákvarða, ráða af ([have you ~d on going?])
 decided l. ákveðinn, hiklaus; vafalaus; eindreginn
 decidedly ao. alveg, gagngjört
 deciduous l. sem fellur af (um lauf, horn); hverfull
@@ -452,9 +452,9 @@ demijohn n. leirbrúsi
 demise n. dauði (stórhöfðingja); afsal; s. gefa með erfðaskrá; afsala sér (í hendur erfingjum)
 demission n. afsal, afsögn (embættis eða tignar); lausn (frá embætti)
 demit s. leggja niður ([~ an office])
-democracy n. lýðveldi; þjóðveldi, þjóðræði
-democrat n. lýðveldismaður; þjóðræðismaður
-democratic l. lýðveldislegur; þjóðræðis-
+democracy n. lýðræði, lýðveldi; þjóðveldi, þjóðræði
+democrat n. lýðræðissinni; lýðveldismaður; þjóðræðismaður
+democratic l. lýðræðislegur; lýðveldislegur; þjóðræðis-
 demolish s. rífa (brjóta) niður
 demolishment n. niðurrif, niðurrifning; kollvörpun
 demolition n. niðurrif, niðurrifning; kollvörpun
@@ -669,7 +669,7 @@ destitute l. snauður (að e-u [of]), bláfátækur; hjálparlaus
 destitution n. skortur, örbirgð
 destroy s. rífa niður; eyða; drepa; [~ oneself] ráða sér bana
 destructible l. eyðanlegur ([~ things])
-destruction n. eyðing; glötun
+destruction n. eyðing, eyðilegging; glötun
 destructionist n. gjöreyðingarmaður
 destructive l. gjöreyðandi ([~ criticism]); skaðsamlegur, skæður
 desuetude n. notkunarleysi; [to fall into ~] leggjast niður
@@ -683,14 +683,14 @@ detain s. halda (e-m) eftir; tefja, teppa; halda í varðhaldi
 detainer n. ólöglegt eignarhald; (varð)hald
 detect s. uppgötva; komast fyrir (e-ð); standa (e-n) að (e-u)
 detection n. uppgötvun, fundur
-detective l. uppgötvunar- ([~ police]); n. leynilögregluþjónn
+detective l. uppgötvunar- ([~ police]); n. rannsóknarlögreglumaður; [private ~] einkaspæjari
 detector n. uppgötvari ([~ of impostures])
 detention n. kyrrsetning; hald; töf ([in case of ~])
 deter s. hræða, fæla (frá [from])
 determent n. fráfæling
 deterge s. hreinsa (sár)
 detergent l. hreinsandi; n. hreinsiefni, þvottaefni
-deteriorate s. gera verra; versna; rýrna ([~ in value])
+deteriorate s. gera verra; versna; hraka; rýrna ([~ in value])
 deterioration n. versnun
 determinable l. sem verður ákveðinn
 determinate l. fastákveðinn
@@ -1081,7 +1081,7 @@ disfrock s. færa úr hempunni; [to be ~] missa hempuna
 disgorge s. selja upp, spýja; skila aftur; tæma (magann); [~ itself] falla, renna (út í [into])
 disgrace n. ónáð, óþokki; smán, svívirðing; s. smána, svívirða; leggja óþokka á e-n; [to be ~d] fá óþokka e-s
 disgraceful l. svívirðilegur, smánarlegur
-disguise s. dulbúa ([~ in woman's clothes]); hylja, leyna, draga dul á ([~ one's real intention]); [~d in/with drink (liquor)] drukkinn; n. dularbúningur; dulargervi; yfirskin, yfirvarp
+disguise s. dulbúa, dulbúast ([~ in woman's clothes]); hylja, leyna, draga dul á ([~ one's real intention]); [~d in/with drink (liquor)] drukkinn; n. dularbúningur; dulargervi; yfirskin, yfirvarp
 disgust n. óbeit; viðbjóður; viðurstyggð; s. vekja viðbjóð hjá; gera leiðan á ([~ed with]); [to be/feel ~ed] bjóða við (e-u [at])
 disgusting l. viðbjóðslegur, andstyggilegur, viðurstyggilegur
 dish n. diskur; fat; réttur (matar); skál; s. bera fram (mat [~ up]); gera út af við; [~ed (up)] kominn á höfuðið
@@ -1416,8 +1416,8 @@ dole n. hluti, skammtur; atvinnuleysisbætur ([on the ~]); sorg, harmur; s. [~ o
 doleful l. sorglegur, raunalegur, sorgfullur; dapur í bragði
 dolerite n. grágrýti
 dolichocephalic l. langhöfðaður
-doll n. brúða
-dollish l. líkur brúðu
+doll n. dúkka, brúða; n. gella (óforml.)
+dollish l. líkur brúðu, líkur dúkku
 dollar n. amerískur dalur ([100 cents])
 dolorous l. harmsfullur; sársaukafullur, sár ([a ~ thirst])
 dolorousness n. sárleiki, sársauki; hryggð
@@ -1554,8 +1554,8 @@ drainage n. framræsla, framskurður, uppþurrkun, lokræsing
 drake n. andarsteggur
 dram n. kvintín (lyfsalavigt); ögn; staup; s. fá sér í staupinu; gefa e-m í staupinu
 drama n. sjónleikur, leikrit
-dramatic l. sjónleikslegur
-dramatist n. sjónleikaskáld
+dramatic l. dramatískur, leikrænn, sjónleikslegur
+dramatist n. leikskáld
 dramatize s. gera sjónleik úr
 dramaturgist n. sjónleikaskáld
 dramaturgy n. sjónleikjafræði

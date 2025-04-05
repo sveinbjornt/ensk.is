@@ -6,7 +6,7 @@ laborious l. starfsamur, iðjusamur ([a ~ mechanic]); örðugur, fyrirhafnarmiki
 labour n. erfiði; vinna; fyrirhöfn; jóðsótt, fæðingarhríðir ([pains of ~]); s. erfiða, vinna, strita; vinna að e-u ([for]); reyna að gera sér far um e-ð; þjást ([~ under bad health]); velta, höggva (um skip)
 labourage n. vinnulaun
 laboured l. vandaður (um smíði); búinn til með mikilli fyrirhöfn ([a ~ speech]); erfiður ([a ~ breath])
-labourer n. erfiðismaður, verkamaður, daglaunamaður
+labourer n. vinnumaður, erfiðismaður, verkamaður, daglaunamaður
 labouring l. vinnandi; [~ people] erfiðismenn; [~ oar] þyngsta (örðugasta) árin; [to pull the ~ oar] taka að sér erfiðasta hluta verksins
 laboursome l. erfiður
 labyrinth n. völundarhús; flækja ([~ of falsehood])
@@ -119,7 +119,7 @@ landlubber n. landkrabbi (manneskja sem fer ekki á sjó)
 landmark n. landamerki; merkjasteinn; mið á landi fyrir skip
 land measure n. landmæling
 land measurer n. landmælingamaður
-landowner n. jarðeigandi
+landowner n. jarðeigandi, landeigandi
 landscape n. landslag; landslagsmynd
 landscapist n. landslagsmálari
 landside n. [on the ~] landmegin
@@ -313,7 +313,7 @@ leading-strings nft. taumband; [be in ~] vera ósjálfstæður, ósjálfbjarga
 leady l. blýgrár ([~ gray])
 leaf n. lauf, blað; hurðvængur; borðvængur; [to put forth leaves] laufgast; s. fá blöð, laufast
 leafage n. lauf, blöð
-leaflet n. smáblað
+leaflet n. bæklingur, smáblað
 leafy l. laufgaður, laufmikill
 league n. samband; lengdarmál (þrjár enskar mílur); s. gera samband
 leaguer n. bandamaður; herbúðir umsátarmanna; umsát; s. sitja um
@@ -667,7 +667,7 @@ listener n. hlustandi, áheyrandi
 litany n. bænasöngur, litanía; löng runa ([~ of curses])
 literal l. bókstaflegur; orðréttur
 literalize s. skilja (þýða) eftir bókstafnum
-literary l. bóklegur, bókmennta- ([~ history]); [~ man] menntamaður
+literary l. bóklegur, bókmenntalegur, bókmennta- ([~ history]); [~ man] menntamaður
 literate l. læs, menntaður, bóklærður; bókmenntalegur; n. menntamaður
 literati nft. menntamenn, lærðir menn
 literature n. bókmenntir, bókvísi; [light ~] skemmtibækur
@@ -726,7 +726,7 @@ loathe s. hafa óbeit á
 loathing n. viðbjóður, óbeit, andstyggð
 loathsome l. viðbjóðslegur
 lob n. durgur; s. kasta
-lobby n. anddyri; göng í húsi; forsalur; atkvæðaklefi (í enska þinginu); þrýstihópur;
+lobby n. anddyri; göng í húsi; forsalur; atkvæðaklefi (í enska þinginu); þrýstihópur
 lobe n. snepill ([~ of the ear])
 lobscouse n. e.k. kjötréttur
 lobster n. humar

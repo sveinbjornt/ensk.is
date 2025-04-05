@@ -10,7 +10,7 @@ machinate s. brugga (vélráð)
 machination n. ráðabrugg; undirferli
 machinator n. bragðarefur; frumkvöðull
 machine n. vél, maskína; s. smíða, búa til með vél
-machinery n. vélasamsetningur; vélar, maskínur
+machinery n. vélbúnaður, vélar, maskínur
 machinist n. vélasmiður; vélameistari
 mackerel n. makríll
 mackintosh n. regnkápa ([~ cloak]); vatnsheldur dúkur
@@ -391,10 +391,9 @@ mat n. motta; flygsa; s. breiða mottur á; flétta; [~ together] flókna; deyfa
 matted l. samfléttaður; flókinn
 matte l. daufur, gljáalaus ([~ gold]); s. deyfa (liti)
 matador n. griðungsbani (í nautaati); hátromp í sumum spilum
-match n. eldspýta
 matchbox n. eldspýtnastokkur
 matchlock n. tundurlás á byssu
-match n. líki, jafningi, maki ([we shall never see his ~]); ráðahagur, kvonfang, gjaforð ([he (she) is an excellent ~]); kappleikur ([cricket ~]); veðmál; [be a ~ for] vera e-m jafnsnjall, jafnast við; [row a ~] róa kappróður; s. jafnast við; finna (e-s) líka; jafna saman; máta saman; koma (e-m) saman í hjúskap; eiga saman; eiga við ([these ribbons do not ~ with your hat]); giftast (e-m [with])
+match n. eldspýta; jafnoki, líki, jafningi, maki ([we shall never see his ~]); ráðahagur, kvonfang, gjaforð ([he (she) is an excellent ~]); kappleikur ([cricket ~]); veðmál; [be a ~ for] vera e-m jafnsnjall, jafnast við; [row a ~] róa kappróður; s. jafnast við; finna (e-s) líka; jafna saman; máta saman; koma (e-m) saman í hjúskap; eiga saman; eiga við ([these ribbons do not ~ with your hat]); giftast (e-m [with])
 matchless l. óviðjafnanlegur, sem ekki á sinn líkan
 matchmaker n. hjúskaparstofnari
 mate n. félagi, lagsmaður; hjúskaparfélagi; maki (um dýr); aðstoðarmaður; stýrimaður; mát (í skák); [boatswain's mate] undirbátstjóri; [surgeon's ~] undirlæknir; s. tengja saman; gifta ([with]); jafnast við; hafa mök (við [with]); máta (í skák)
@@ -502,8 +501,8 @@ meat safe n. kjötskápur
 meaty l. kjötmikill
 meatus n. göng ([auditory ~])
 mechanic n. vélvirki, handiðnamaður
-mechanical l. vélfræðislegur; handiðnarlegur; ósjálfráður
-mechanically ao. með vélum; umhugsunarlaust, ósjálfrátt
+mechanical l. vélrænn, vélfræðislegur; handiðnarlegur; ósjálfráður
+mechanically ao. með vélum; á vélrænan hátt; umhugsunarlaust, ósjálfrátt
 mechanician n. vélameistari
 mechanics nft. vélafræði, hreyfingarfræði, aflfræði
 mechanism n. vélarsamsetning; vélbúnaður; tilhögun ([~ of exchange])
@@ -575,7 +574,7 @@ meltable l. bræðanlegur
 melting l. áhrifamikill; viðkvæmur
 member n. limur; liður; meðlimur, félagi; [~ of parliament] þingmaður
 membered l. -limaður ([four-~])
-membership n. aðild, staða sem félagi; félagatala
+membership n. aðild, staða sem félagi; félagsaðild, félagatala
 membranaceous l. himnukenndur, himnu-
 membranous l. himnukenndur, himnu-
 membrane n. himna
@@ -980,7 +979,7 @@ missel bird n. þrastartegund
 missel thrush n. þrastartegund
 missend s. missenda, rangsenda
 misshapen l. vanskapaður; ólögulegur
-missile n. skeyti, skotvopn
+missile n. skeyti, flugskeyti; [~ weapon] skotvopn
 mission n. sendiför; erindi; köllun, ætlunarverk; trúarboð (meðal heiðingja); s. senda (í e-u erindi); boða (e-m) trú
 missionary n. trúboði; l. trúboðs-, trúboða- ([~ life])
 missioner n. trúboði
@@ -1104,7 +1103,7 @@ monachal l. klausturlegur; klaustur-; munka-
 monachism n. munklífi, klausturlíf
 monachize s. lifa munklífi; gera e-n að munki
 monad n. frumeining
-monarch n. einvaldskonungur
+monarch n. einvaldur, einvaldskonungur
 monarchal l. einveldislegur, einvalds-
 monarchic l. einveldislegur, einvalds-
 monarchical l. einveldislegur, einvalds-

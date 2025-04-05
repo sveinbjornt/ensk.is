@@ -35,8 +35,7 @@ paean n. lofsöngur (til Apollós)
 pagan n. heiðingi; l. heiðinn
 paganism n. heiðni
 paganize s. gera heiðin; líkjast heiðingjum
-page n. blaðsíða; s. setja blaðsíðutal á
-page n. riddarasveinn; þjónustusveinn stórhöfðingja
+page n. blaðsíða; riddarasveinn; þjónustusveinn stórhöfðingja; s. setja blaðsíðutal á
 pageant n. viðhafnarmikill sjónleikur; viðhöfn, skraut
 pageantry n. skraut, viðhöfn ([splendid ~])
 paginate s. setja blaðsíðutal á
@@ -183,11 +182,11 @@ paraclete n. huggari, heilagur andi
 parade n. hersýning, herkönnun; skrautsýning; skrúðganga; [make a ~ of] trana e-u fram, monta af; s. sýna með mikilli viðhöfn; ganga í skrúðgöngu, ganga fram og aftur til að sýna sig
 paradigm n. beygingardæmi (í málfræði); dæmi; viðmið, (viðtekið) hugarfar (í heimspeki)
 paradise n. paradís
-paradox n. þversögn; sérviskusetning
+paradox n. þversögn, þverstæða; sérviskusetning
 paradoxical l. þversagnarkenndur; sérvitur, sérviskulegur
 paraffin n. parafínolía
 paragon n. fyrirmynd, afbragð ([a ~ of virtue])
-paragraph n. (máls)grein (í riti); greinarmerki (§); s. skipta í greinar; rita stutta grein um
+paragraph n. málsgrein (í riti); greinarmerki (§); s. skipta í greinar; rita stutta grein um
 paragraphical l. sem skipt er í greinar
 parallel l. jafnhliða, samhliða, samfara; samsvarandi, líkur; n. jafnhliða lína; samanburður; líking; samlíking; breiddarbaugur ([~ of latitude]); s. setja jafnhliða e-u; líkja saman; jafnast við
 parallelism n. nákvæm samsvörun eða líking
@@ -445,7 +444,7 @@ pearled l. prýddur perlum
 pearl barley n. perlugrjón
 pearl fishery n. perluveiðar; perluveiðastaður
 pearly l. perlum búinn; tær eins og perla
-peasant n. bóndi
+peasant n. bóndi, smábóndi
 peasantry n. bændafólk, bændastétt, bændur
 pease nft. af %[pea]%
 peat n. mór
@@ -563,7 +562,7 @@ pensile l. hangandi, hengi ([~ nest])
 pension n. eftirlaun ([retirement ~]); [old-age ~] ellistyrkur; s. veita e-m (eftirlaun)
 pensionable l. sem gefur rétt til eftirlauna ([~ disabilities, ~ age])
 pensionary n. eftirlaunamaður
-pensioner n. eftirlaunamaður
+pensioner n. eftirlaunamaður, lífeyrisþegi
 pensive l. hugsandi; þungbúinn, dapur
 pensiveness n. dapurleiki
 penstock n. flóðgátt
@@ -643,7 +642,7 @@ perforce ao. með ofbeldi, nauðsynlega, af nauðsyn
 perform s. fullgera, leiða til lykta, framkvæma; sýna (á leiksviði); koma fram (á leiksviði); sýna sig; sýna íþróttir; leika; [~ on an instrument] leika (spila) á hljóðfæri
 performable l. framkvæmilegur; gjörlegur, gjörandi
 performance n. framkvæmd; verk; rit; leiksýning, íþróttasýning ([there are two ~s a day]); íþrótt
-performer n. framkvæmdarmaður; leikandi, leikari
+performer n. framkvæmdarmaður; leikandi, leikari; flytjandi
 perfume n. ilmvatn, ilmefni; ilmur; s. gera ilmandi
 perfumer n. ilmvatnssali, ilmefnasali
 perfumery n. ilmefni; ilmefnagerð
@@ -2447,7 +2446,7 @@ punster n. maður sem er fyndinn í orðum (sbr. %[pun]%)
 punt n. flatbotnaður bátur, flatbytna; s. stjaka (flatbotnuðum bát); flytja á (flatbotnuðum) bát
 puny l. pinkulítill, smár
 pup n. hvolpur; kópi; s. gjóta
-pupil n. lærisveinn, námsmey; ófullveðja unglingur; augasteinn; sjáaldur
+pupil n. nemandi, lærisveinn; ófullveðja unglingur; augasteinn; sjáaldur
 pupilage n. ófullveðja aldur; námsár
 pupillage n. ófullveðja aldur; námsár
 puppet n. leikbrúða
