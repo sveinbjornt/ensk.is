@@ -180,7 +180,7 @@ harmonical l. samræmislegur; hljómfagur; samstilltur
 harmonious l. samræmur, samhljóða; hljómfagur; samhuga, samlyndur
 harmonium n. harmóníum (e.k. orgel)
 harmonize s. vera samhljóða; koma heim við e-ð; eiga við e-ð ([with]); vera samlyndur, koma sér saman; koma e-u í samræmi
-harmony n. samræmi; samhljóðan; samstilling; samlyndi, samkomulag
+harmony n. samræmi; samhljómur, samhljóðan; samstilling; samlyndi, samkomulag
 harness n. aktygi, akreiði; spangabrynja; s. leggja aktygi við; útbúa
 harnessmaker n. söðlasmiður
 harp n. harpa; s. leika á hörpu; stagast á, klífa á, ílengjast í máli um ([on, upon])
@@ -626,7 +626,7 @@ hist uh. þei! þei! þei!
 histology n. vefjafræði
 historian n. sagnfræðingur, söguritari
 historic l. sögulegur
-historical l. sögulegur
+historical l. sögulegur, sagnfræðilegur
 historicity n. sögulegur sannleikur, sögugildi
 historify s. segja söguna af e-u; skrifa sögu
 historiographer n. sagnaritari
@@ -885,7 +885,7 @@ housewifely l. húsmóðurlegur; hirðusamur, sparsamur
 housewifery n. búskapur; sparsemi, hirðusemi
 house s. hýsa, veita húsaskjól; flytja inn í hús; dvelja
 housel n. husl; s. husla
-housing n. húsnæði; hús; hýsing; söðulklæði, reiðver, áklæði
+housing n. húsnæði; húsakostur; hús; hýsing; söðulklæði, reiðver, áklæði
 hovel n. lélegur kofi, hreysi; hjallur, byrgi
 hover s. svífa, sveima (í lausu lofti); flögra; reika (um e-n stað [about, over])
 how ao. hvernig, hversu, hve

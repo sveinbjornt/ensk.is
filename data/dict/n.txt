@@ -26,8 +26,7 @@ namesake n. nafni; nafna
 nandu n. amerískur strútur
 nankeen n. nankin (vefnaður)
 nankeens nft. nankinsbuxur
-nap n. dúr, blundur ([to take a ~]); s. blunda; [catch/take one ~ping] koma að e-m óvörum
-nap n. ló, hnoðri (á klæði), loðna, dúnn (á plöntum); [to raise the ~] ýfa upp lóna
+nap n. dúr, blundur ([to take a ~]); ló, hnoðri (á klæði), loðna, dúnn (á plöntum); [to raise the ~] ýfa upp lóna; s. blunda; [catch/take one ~ping] koma að e-m óvörum
 napless l. aflóa, snjáður
 nappy l. loðinn; áfengur
 nape n. hnakkaliður; [the ~ of the neck] hnakki
@@ -344,7 +343,7 @@ nomadize n. lifa hjarðmannalífi (hirðingjalífi)
 nomenclature n. nafnaskrá; vísindaleg heiti (í e-i vísindagrein), iðnheiti
 nominal l. nafna-; nafn-; sem aðeins er að nafninu til (mótstætt við [real])
 nominally ao. að nafninu til; í orði kveðnu
-nominate s. nefna (til e-r stöðu eða e-a starfa)
+nominate s. tilnefna, nefna (til e-r stöðu eða e-a starfa)
 nomination n. nefning; [to be in ~ for] vera nefndur til (e-r) stöðu
 nominative n. nefnifall (í málfræði)
 nominee n. maður sem er tilnefndur eða stungið er upp á (í e-a stöðu)

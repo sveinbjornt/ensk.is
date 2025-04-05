@@ -255,13 +255,13 @@ decolorize s. taka lit úr, deyfa (lit)
 decompose s. leysa í sundur (í frumparta sína); leysast í sundur, rotna
 decomposition n. sundurleysing; rotnun
 decorate s. skreyta, prýða; sæma (heiðursmerki)
-decoration n. skraut; sæmdarmerki
+decoration n. skraut, skreyting; sæmdarmerki
 decorative l. sem er til prýðis, skraut- ([~ arch])
 decorous l. sæmilegur; háttprúður, velsæmislegur
 decorticate s. taka hýðið (börkinn) utan af
 decorum n. velsæmi, látprýði, háttprýði ([rules of ~])
 decoy s. lokka, ginna; n. lokkari, ginnari; agn, tálbeita; tálfugl; [~-bird; ~-duck] ginningarönd (er lokkar aðrar endur að sér)
-decrease s. minnka (verða minni, gera minni); [~ in number] fækka; n. minnkun, rénun, fækkun
+decrease s. minnka (verða minni, gera minni); draga úr; [~ in number] fækka; n. minnkun, rénun, fækkun
 decree n. tilskipun; ályktun; úrskurður, dómur; s. ákveða; úrskurða, dæma
 decrement n. rénun, rýrnun
 decrepit l. ellihrumur, örvasa
@@ -494,7 +494,7 @@ denominational school n. safnaðarskóli
 denominator n. nafngjafi; nefnari (í brotum)
 denotation n. táknun; merki, tákn; merking; þýðing
 denote s. tákna, merkja, þýða
-denounce s. birta hátíðlega, boða; ógna, hóta; lasta opinberlega; kæra; segja upp (samningi)
+denounce s. fordæma; lasta opinberlega; ógna, hóta; kæra; segja upp (samningi); birta hátíðlega, boða
 denouncement n. formæling; sjá %[denunciation]%
 dense l. þéttur, þykkur; skilningsdaufur ([~ head for figures])
 density n. þéttleiki, þykkleiki; [~ of population] þéttbýli
@@ -843,7 +843,7 @@ digit n. tá, fingur; tölustafur
 dignified l. veglegur
 dignify s. gera veglegan; sæma
 dignitary n. yfirklerkur
-dignity n. göfugleiki ([the ~ of labour]); virðuleiki; virðing, tign, upphefð ([to increase in ~])
+dignity n. göfugleiki ([the ~ of labour]); virðuleiki, reisn; virðing, tign, upphefð ([to increase in ~])
 digress s. víkja frá efninu
 digression n. útúrdúr
 digressional l. útúrdúrslegur
@@ -938,7 +938,7 @@ disabled l. óvopnfær; óhaffær (um skip)
 disabuse s. leiða úr villu
 disaccord n. ósamþykki
 disacknowledge s. kannast ekki við, neita
-disadvantage n. óhagur, skaði ([to sell to ~])
+disadvantage n. ókostur, óhagur, skaði ([to sell to ~])
 disadvantageous l. óhentugur, óhagstæður
 disaffect s. gera óánægðan, vekja óánægju hjá e-m
 disaffected l. óánægður
@@ -1344,7 +1344,7 @@ divest s. afklæða; svipta (e-u [of]); færa úr; [~ oneself of] losa sig við 
 divestment n. svipting
 dividable l. deilanlegur
 divide s. skipta; deila ([~ 36 by 4]); skilja í sundur; (láta) ganga til atkvæða; skiptast ([there the roads ~])
-dividend n. hluti (hvers eins af gróðanum), ágóðahluti; deilistofn
+dividend n. hluti (hvers eins af gróðanum), ágóðahluti, arður; deilistofn
 divider n. deilir; ft. e.k. hringfari
 divination n. spádómur; hugboð
 divinatory l. spádóms- ([~ wand/rod]); ágiskunar-

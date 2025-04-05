@@ -304,9 +304,9 @@ schism n. (trúar)sundrung
 schismatic l. sundrandi, sundrungar-; n. trúsundrungarmaður
 schist n. flögusteinn, flögugrjót
 schistous l. flögukenndur, flögu-
-scholar n. lærdómsmaður, vísindamaður
+scholar n. fræðimaður, lærdómsmaður, vísindamaður
 scholarly l. lærður; vísindalegur
-scholarship n. lærdómur, þekking; féstyrkur (sem nemendum er veittur við háskóla)
+scholarship n. lærdómur, þekking; námsstyrkur, féstyrkur (sem nemendum er veittur við háskóla)
 scholastic l. sem lýtur að skólum; skóla-; sem lýtur að miðaldaheimspeki; smásmuglegur; n. miðaldaheimspekingur
 school n. skóli; fiskatorfa; hópur; s. fræða, kenna; temja ([~ a horse]); segja (e-m) til siðanna
 schoolboard n. skólanefnd, skólastjórn
@@ -321,7 +321,7 @@ sciatic l. mjaðmar- ([~ nerve)]
 sciatica n. gigt í mjöðm eða læri
 science n. vísindi; vísindagrein; [a man of ~] vísindamaður
 sciential l. vísindalegur
-scientific l. visindalegur; vísinda-
+scientific l. vísindalegur; vísinda-
 scientifically ao. vísindalega
 scientist n. vísindamaður
 scimitar n. bjúgsverð
@@ -1016,7 +1016,7 @@ shrift n. skriftamál, skriftir
 shrill l. hvellur, glymjandi; s. gjalla, glymja; láta glymja
 shrimp n. rækja, marfló; afturkreista
 shrine n. skrín, helgiskrín; altari, helgidómur; s. skrínleggja
-shrink s. hleypa (klæði); hlaupa (um klæði); skorpna; skreppa (hrökkva) saman; ganga saman, rýrna; [~ at] hrylla við; [~ back] hrökkva aftur á bak
+shrink s. minnka; hleypa, hlaupa (um klæði); skorpna; skreppa (hrökkva) saman; ganga saman, rýrna; [~ at] hrylla við; [~ back] hrökkva aftur á bak; n. sálfræðingur (óforml.)
 shrinkage n. rýrnun; verðlækkun ([~ in price])
 shrive s. skrifta e-m; skrifta, játa syndir sínar
 shrivel s. skorpna, hrukkast; láta skorpna, gera hrukkótt
@@ -1116,7 +1116,7 @@ silly l. heimskur, aulalegur
 silo n. súrheysgryfja
 silt n. leðja; s. fylla með leðju ([~ up]); fyllast leðju
 silty l. leðjukenndur
-silver n. silfur; l. úr silfri; s. silfra ([~ over]); leggja gljáblað undir spegilgler
+silver n. silfur; borðbúnaður; l. úr silfri; silfurlitaður; s. silfra ([~ over]); leggja gljáblað undir spegilgler
 silver cup n. silfurbikar
 silver mine n. silfurnáma
 silver plate n. silfraðir munir
@@ -2822,7 +2822,7 @@ sunless l. sólarlaus
 sunlight n. sólarljós
 sunlit l. sem sólin skín á, sólroðinn
 sunny l. sólbjartur; sólar-; sólskins-
-sunrise n. sólaruppkoma
+sunrise n. sólarupprás, sólaruppkoma
 sunset n. sólsetur; sólarlag
 sunshade n. sólhlíf; sóltjald
 sunshine n. sólskin
@@ -2939,7 +2939,7 @@ surfeit s. offylla, ofseðja; éta yfir sig; n. offylli, ofát; óbeit
 surfeiter n. átvagl, mathákur
 surfy l. brimasamur ([a ~ beach]); [a ~ billow] brimalda
 surge n. brimalda, brimsjór; s. ganga í öldum, brima, ólga, æsast (um sjó); risa (og hníga); hleypa út (kaðli)
-surgeon n. sáralæknir, handlæknir; skipslæknir
+surgeon n. skurðlæknir; sáralæknir, handlæknir; skipslæknir
 surgery n. sáralækningar
 surgical l. sem lýtur að sáralækningum ([~ instruments]); [~ fever] sárasótt
 surgy l. brimsollinn ([the ~ ocean]); bylgjóttur

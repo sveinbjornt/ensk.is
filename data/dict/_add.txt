@@ -63,7 +63,7 @@ straitjacket n. spennitreyja
 quantum physics nft. skammtafræði
 spacecraft n. geimskip, geimfar
 space shuttle n. geimferja, geimskutla
-aircraft n. flugvél, loftfar
+aircraft n. flugvél, loftfar, flugtæki
 laptop n. fartölva
 cryptography n. dulkóðun, dulkóðunarfræði, dulmál
 cryptographer n. dulkóðunarfræðingur, dulritunarfræðingur, dulmálsfræðingur
@@ -132,7 +132,7 @@ workplace n. vinnustaður
 milkshake n. mjólkurhristingur
 spacesuit n. geimbúningur, búningur geimfara
 televise s. sjónvarpa, senda út í sjónvarpi (sjá %[television]%)
-motorway n. hraðbraut
+motorway n. hraðbraut, þjóðvegur
 katana n. katana (e.k. japanskt sverð)
 animalistic l. dýrslegur
 cyanide n. blásýra
@@ -2123,7 +2123,7 @@ uselessness n. gagnsleysi
 parenthood n. foreldrahlutverk (sjá %[parent]%)
 café n. kaffihús; kaffitería
 cafe n. kaffihús; kaffitería
-memo n. minnisblað, minnismiði
+memo n. minnisblað, minnismiði (stytt. á %[memorandum]%)
 faceless l. andlitslaus
 millisecond n. millísekúnda (einn þúsundasti úr sekúndu)
 cordless l. þráðlaus, snúrulaus
@@ -2205,7 +2205,7 @@ vodka n. vodka, vodki (sterkur áfengisdrykkur)
 ashtray n. öskubakki
 insomniac n. svefnleysingi (sjá %[insomnia]%)
 migraine n. mígreni, höfuðverkur
-railcar n. lestarvagn
+railcar n. lestarvagn, járnbrautarvagn
 cirrhosis n. skorpulifur ([~ of the liver])
 Esperanto n. esperantó
 Esperantist n. esperantisti
@@ -3418,7 +3418,7 @@ denazification n. afnasistavæðing, það að fjarlægja nasista
 counterpropaganda n. gagnáróður
 junkyard n. ruslahaugur, skranport
 feminism n. femínismi, kvenfrelsisstefna, kvenréttindastefna
-feminist n. femínisti, kvenréttindasinni, kvenfrelsissinni
+feminist n. femínisti, kvenréttindasinni, kvenréttindamanneskja, kvenfrelsissinni
 nonhereditary l. óarfgengur, sem gengur ekki í arf
 dishwasher n. uppþvottavél; uppvaskari (t.d. á veitingastað)
 dishwashing n. uppvask, uppþvottur
@@ -3884,7 +3884,7 @@ autarchic l. efnahagslega sjálfstæður, sjálfum sér nægur í efnahagsmálum
 limelight n. sviðsljós
 unspoken l. ósagður; [he left it ~] hann lét það ósagt
 charisma n. persónutöfrar, þokki, sjarmi
-charismatic l. heillandi, sjarmerandi, töfrandi, býr yfir persónutöfrum
+charismatic l. heillandi, sjarmerandi, töfrandi, gæddur persónutöfrum
 tired-looking l. þreytulegur í ásýnd
 lifestyle n. lífsstíll, líferni, lífsháttur
 guesstimate s. (óforml.) meta eða áætla byggt á ágiskunum einum saman (sjá %[guess]% og %[estimate]%); n. mat byggt á ágiskunum
@@ -7220,3 +7220,6 @@ savings nft. sparnaður; sparifé
 chickweed n. haugarfi
 ruination n. hrun; eyðilegging, eyðing; niðurbrot
 vindicative l. réttlætandi
+instal s. sjá %[install]%
+reactor n. kjarnaofn; kjarnakljúfur ([nuclear ~])
+civil war n. borgarastríð

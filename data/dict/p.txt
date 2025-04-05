@@ -189,7 +189,7 @@ paraffin n. parafínolía
 paragon n. fyrirmynd, afbragð ([a ~ of virtue])
 paragraph n. (máls)grein (í riti); greinarmerki (§); s. skipta í greinar; rita stutta grein um
 paragraphical l. sem skipt er í greinar
-parallel l. jafnhliða, samfara; samsvarandi, líkur; n. jafnhliða lína; samanburður; líking; samlíking; breiddarbaugur ([~ of latitude]); s. setja jafnhliða e-u; líkja saman; jafnast við
+parallel l. jafnhliða, samhliða, samfara; samsvarandi, líkur; n. jafnhliða lína; samanburður; líking; samlíking; breiddarbaugur ([~ of latitude]); s. setja jafnhliða e-u; líkja saman; jafnast við
 parallelism n. nákvæm samsvörun eða líking
 parallelize s. jafna saman
 paralogism n. röng ályktun
@@ -1767,7 +1767,7 @@ prefix s. setja (eða skeyta) framan við; n. forskeyti
 prefixion n. viðauki framan við
 pregnable l. tækur (um kastala)
 pregnancy n. þungun, ólétta; meðgöngutími; frjósemi
-pregnant l. vanfær, þunguð, ólétt (um konu); með fangi (um dýr), fylfull, hvolpafull o.s.frv.; þýðingarmikill; efnisríkur; [~ with peril] hættufullur
+pregnant l. vanfær, þunguð, ólétt, ófrísk (um konu); með fangi (um dýr), fylfull, hvolpafull o.s.frv.; þýðingarmikill; efnisríkur; [~ with peril] hættufullur
 prehensile l. [~ tail] griphali (á apa)
 prehension n. grip, skilningur
 prehistoric l. forsögulegur ([~ period])
@@ -2056,7 +2056,7 @@ profanity n. vanhelgun, guðleysi; blótsyrði
 profess s. lýsa yfir; kannast við; játa (trú); segja; segjast ([~ oneself]); kenna; iðka, stunda
 professed l. viðurkenndur, alkunnur
 professedly ao. sem kunnugt er; í orði kveðnu
-profession n. staða, embætti, atvinna ([carpenter by ~, the military ~]); yfirlýsing; játning
+profession n. starf, staða, embætti, atvinna ([carpenter by ~, the military ~]); yfirlýsing; játning
 professional l. fagmannlegur, atvinnumannslegur; embættislegur; [~ man] maður sem er í faglærðri stöðu (læknir, lögfræðingur, o.s.fv.); maður sem gerir e-a list eða íþrótt að ævistarfi sem atvinnu (andstæðan við [amateur])
 professor n. prófessor; kennari (einkum við háskóla); játandi
 professorial l. kennara-, prófessora-; [the ~ chair] háskólakennaraembætti

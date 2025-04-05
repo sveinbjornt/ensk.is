@@ -1838,7 +1838,6 @@ standby
 moron
 moronic
 nonstandard
-reactor
 patina
 geostrategy
 geostrategic
@@ -5022,6 +5021,7 @@ meronymy
 passarella
 facetiously
 thrilled
+untether
 untethered
 withdrawn
 agitated
@@ -5043,3 +5043,7 @@ swipe (endurskoða)
 grift
 reproacher
 paginator
+lobby (enduruskoða, sem sögn)
+credit (endurskoða)
+scutter
+grasscutter

@@ -581,8 +581,8 @@ membranous l. himnukenndur, himnu-
 membrane n. himna
 memento n. endurminning; minningarmark
 memoirs nft. minningarit; endurminningar; sjálfsævisaga
-memorable l. minnisstæður, minnisverður
-memorandum n. minnisgrein, athugasemd til minnis
+memorable l. minnisstæður, minnisverður, eftirminnilegur
+memorandum n. minnisblað, minnisgrein, athugasemd til minnis
 memorial l. minningar- ([~ service, gift]); n. minnisvarði, minningarmark; álitsskjal, bænarskrá
 memorialist n. umsækjandi; ævisöguritari
 memorialize s. sækja (skriflega) um; halda við minningunni um; minnast á e-ð
@@ -1099,7 +1099,7 @@ molten l. bræddur; steyptur
 moment n. augabragð, augnablik, svipan, svipstund; mikilvægi ([to be of a great ~]); [it is of great ~] það er áriðandi, mikilvægt; [wait a ~] bíddu augnablik
 momentary l. augnablikslegur, skammvinnur
 momentous l. áríðandi, mikilvægur
-momentum n. hreyfiafl
+momentum n. hreyfiafl, skriðþungi
 monachal l. klausturlegur; klaustur-; munka-
 monachism n. munklífi, klausturlíf
 monachize s. lifa munklífi; gera e-n að munki
@@ -1108,7 +1108,7 @@ monarch n. einvaldskonungur
 monarchal l. einveldislegur, einvalds-
 monarchic l. einveldislegur, einvalds-
 monarchical l. einveldislegur, einvalds-
-monarchy n. einveldi, einvaldsstjórn; konungsríki
+monarchy n. einveldi, einvaldsstjórn; konungsríki, konungsveldi
 monasterial l. klausturlegur
 monastery n. klaustur
 monastic l. klausturlegur, munka-
@@ -1259,7 +1259,7 @@ mortuary l. greftrunar-, lík-; n. líkhús
 mosaic n. mósaík, litsteinamynd (mynd sem er gerð úr lituðum smásteinum eða glerbrotum)
 moselle n. moselvín
 Moslem n. múslími, múhameðstrúarmaður (forn.); l. múslímskur; sjá %[Islam]%
-mosque n. bænahús múslíma
+mosque n. moska (bænahús múslíma)
 mosquito n. moskítófluga, mýfluga
 moss n. mosi; mómýri
 moss-grown l. mosavaxinn
@@ -1407,7 +1407,7 @@ mumpish l. önugur, vondur
 mumps nft. hettusótt; ólund
 munch s. japla, muðla
 mundane l. heimslegur; veraldlegur, jarðneskur
-municipal l. bæjar-, borgar-; ríkis-; [~ law] landslög; [~ suffrage] atkvæðisréttur í sveitar- eða bæjarmálum
+municipal l. bæjar-, borgar-; sveitafélaga-; ríkis-; [~ law] landslög; [~ suffrage] atkvæðisréttur í sveitar- eða bæjarmálum
 municipality n. bæjarfélag; bæjarstjórn
 munificence n. örlæti, rausn
 munificent l. örlátur

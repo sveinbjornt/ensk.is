@@ -62,7 +62,7 @@ talisman n. verndargripur; töfragripur
 talismanic l. töfra- ([~ power])
 talismanical l. töfra- ([~ power])
 talk s. tala; skrafa; [~ of] tala um; [~ one over/round] telja (e-m) hughvarf; [~ over] ræða, tala um e-ð; [much ~ed of] sem mikið er talað um; [~ big (tall)] vera stórorður; n. tal; samtal; skraf; umtal, orðrómur; samtalsefni, umræðuefni
-talkative l. ræðinn; málugur
+talkative l. ræðinn; málugur; málgefinn
 talker n. talandi; málrófsmaður; gortari
 talking l. ræðinn; n. umtal, skraf
 talky l. málugur
@@ -116,7 +116,7 @@ tap s. bora gat á ílát; tappa úr (e-u); n. bunugat; tunnukrani; [on (in) ~] 
 taphouse n. ölstofa
 taproom n. drykkjustofa, ölstofa
 taproot n. aðalrót (plöntu)
-tape n. léreftsborði, bendill; mæliband ([steel ~]); s. binda (band) utan um
+tape n. málband; límband; segulbandsspóla; léreftsborði, bendill; mæliband ([steel ~]); s. binda (band) utan um; festa með límbandi
 tapeline n. mæliband
 tapeworm n. bandormur
 taper n. mjótt vaxkerti; mjóendi; l. mjór, grannur ([~ fingers]); s. mjókka (í annan endann); láta mjókka (gera mjótt) í annan endann
@@ -259,7 +259,7 @@ tenable l. verjanlegur
 tenacious l. fastheldinn; seigur; þrár; [a ~ memory] gott minni; [~ of life] lífseigur
 tenacity n. fastheldni ([~ of old opinions]); seigja; þrái
 tenancy n. ábúð, ábúðarréttur
-tenant n. leiguliði, landseti; s. hafa ábúð á; taka (hafa) á leigu; hyggja
+tenant n. leigjandi, leiguliði, landseti; s. hafa ábúð á; taka (hafa) á leigu; hyggja
 tenantable l. byggilegur; leigufær
 tenantless l. óbyggður, auður
 tenantry n. ábúð; allir landsetar, bændur (á slórjörð)
@@ -803,7 +803,7 @@ topography n. staðlýsing
 topping l. ágætur, frábær; [a ~ sea] brotsjór; sbr. %[top]%
 topple s. steypast áfram; detta um koll; kasta (fella) um koll
 topsy-turvy ao. um koll, á ringulreið; l. öfugur, umsnúinn
-torch n. kyndill, blys
+torch n. kyndill, blys; vasaljós; s. brenna til grunna
 torchbearer n. kyndilberi, blysberi
 torchlight n. blys; ljós af kyndli; [~ procession] blysför
 torment n. kvöl, pynting, pynding; s. kvelja, pynda, pynta, pína
@@ -856,9 +856,9 @@ toughness n. seigja
 toupee n. laus hárlokkur (ofan á höfðinu)
 toupet n. laus hárlokkur (ofan á höfðinu)
 tour n. umferð; ferð; skemmtiferð; [go on ~] fara frá einum stað í annan; s. ferðast um sér til skemmtunar; sýna á mörgum stöðum ([~ a play])
-tourism n. skemmtiferðalög
-tourist n. (skemmti)ferðamaður, ferðalangur
-tournament n. burtreið; s. fara í burtreið
+tourism n. ferðamennska, túrismi; ferðamannaiðnaður; skemmtiferðalög
+tourist n. ferðamaður, ferðalangur, skemmtiferðamaður
+tournament n. mót; burtreið; s. fara í burtreið
 tournure n. fagur limaburður; mjaðmaþófi
 tousle s. strúa, ýfa (hárið)
 tout s. sníkja sér meðmæli eða lof; [to ~ for customers] (reyna að) krækja í viðskiptavini
@@ -979,7 +979,7 @@ transfiguration n. ummyndun (Krists)
 transfigure s. ummynda
 transfix s. stinga í gegn
 transfixion n. gegnstunga
-transform s. ummynda; breyta
+transform s. ummynda; breyta, umbreyta
 transformable l. sem má breyta
 transformation n. ummyndun
 transfuse s. hella (tappa) úr einu íláti í annað; blása í brjóst; vekja, glæða; [~d with light] ljósþrunginn
@@ -1017,8 +1017,8 @@ transmutable l. umbreytilegur
 transmutation n. umbreyting
 transmute s. umbreyta, breyta e-u í e-ð ([into])
 transom n. þverbiti
-transparency n. gagnsæi
-transparent l. gagnsær ([~ ice])
+transparency n. gagnsæi, gegnsæi
+transparent l. gagnsær, gegnsær
 transpierce s. reka í gegn
 transpiration n. útgufun, sviti
 transpire s. senda upp gufu; gufa upp eða út; berast út, kvisast, spyrjast; líða (um tíma)
@@ -1216,7 +1216,7 @@ trope n. óeiginlegt orðtæki
 trophied l. skreyttur sigurmerkjum
 trophy n. sigurmerki
 tropic n. hvarfbaugur; ft. [tropics] hitabelti
-tropical l. sem er milli hvarfbauganna, í hitabeltinu; óeiginlegur (um orð eða orðatiltæki); sbr. %[trope]%; [~ writing] myndletur
+tropical l. sem er milli hvarfbauganna, í hitabeltinu, hitabeltis-; óeiginlegur (um orð eða orðatiltæki); sbr. %[trope]%; [~ writing] myndletur
 tropical winds nft. staðvindar
 trot s. brokka, skokka; láta brokka; n. brokk, skokk
 trotter n. brokkari, brokkhestur; löpp

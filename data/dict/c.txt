@@ -424,7 +424,7 @@ cauterize s. brenna (sár); sljóvga (tilfinninguna)
 cautery n. brennijárn; bruni
 caution n. viðvörun; varúð, gætni; trygging; [~ money] tryggingarfé; [a ~ to look at] hræðilegur (afskræmislegur) á að líta; s. vara við ([against])
 cautionary l. sem er til tryggingar eða varúðar; viðvörunar-
-cautious l. gætinn, varkár
+cautious l. gætinn, aðgætinn, varkár
 cautiously ao. gætilega, varkárlega
 cautiousness n. gætni, varkárni
 cavalcade n. flokkur ríðandi manna; s. ríða í flokk
@@ -716,7 +716,7 @@ child n. barn; [with ~] ólétt, börnuð, þunguð
 children nft. börn ([the ~ are at play]); sjá %[child]%
 childbed n. [die in ~] deyja af barnsburði
 childbirth n. barnsburður, barnsfæðing
-childhood n. barnsaldur, barnæska
+childhood n. barnsaldur, barnæska, bernska
 childish l. barnalegur, barnslegur; barnæðislegur
 childishness n. barnaskapur
 childless l. barnlaus
@@ -808,7 +808,7 @@ Christmas tree n. jólatré
 chromatic l. litlegur, litar-
 chromatics nft. litafræði
 chrome n. króm (málmur)
-chronic l. langvinnur (um sjúkdóma), rótgróinn
+chronic l. langvinnur (um sjúkdóma), rótgróinn, þrálátur; n. kannabis (óforml.)
 chronicle n. annáll, árbók; frásaga; s. færa í letur, segja frá, annála
 chronicler n. annálaritari, annálahöfundur
 chronological l. tímatalslegur, tímatals-; tímatalsfræðilegur
@@ -1133,7 +1133,7 @@ coal-tar n. koltjara
 coalesce s. vaxa (renna) saman
 coalescence n. samvöxtur, samruni
 coalescent l. sem rennur saman í eitt
-coalition n. sameining; samband, bandalag
+coalition n. sameining; samband, bandalag, samsteypa
 coaly l. kolugur; kolsvartur
 coamings nft. umbúningur um lúgugat á þilfari
 coapt s. leggja rétt saman ([~ the edges of a wound])
@@ -1353,8 +1353,8 @@ coltsfoot n. hóffífill
 columbary n. dúfnahús
 column n. súla ([~ of water]); dálkur (í blaði); herfylking
 columnar l. súlumyndaður; prentaður í dálkum; n. basalt stuðlaberg
-coma n. svefnsýki; fræloðna
-comatose l. svefnsjúkur
+coma n. dá; svefnsýki; fræloðna
+comatose l. í dái; svefnsjúkur
 comb n. kambur; hárgreiða; hanakambur; öldukambur; vaxkaka í býflugnabúi; [cut the ~ of] lægja rostann í e-m; s. kemba; greiða
 combat n. bardagi; einvígi ([single ~]); s. berjast (við)
 combatant n. bardagamaður
@@ -1480,9 +1480,9 @@ companion n. félagi
 companionable l. félagslegur; viðkunnanlegur
 companionship n. félagsskapur
 company n. félag; félagsskapur; samsæti, heimboð; boðsmenn, veislufólk; flokkur, liðsflokkur; [he never receives ~] hann hefur aldrei heimboð; [I will keep you ~ on the way] ég ætla að vera þér samferða; [for ~, for ~'s sake] til samlætis
-comparable l. samjafnanlegur; samanberandi
-comparative l. samanburðarlegur; tiltölulegur; n. miðstig
-comparatively ao. tiltölulega; í samanburði (við [with])
+comparable l. sambærilegur, samanberandi; samjafnanlegur
+comparative l. sambærilegur, samanburðarlegur; tiltölulegur; n. miðstig
+comparatively ao. tiltölulega; sambærilega, í samanburði (við [with])
 compare s. bera saman; líkja við ([to]); n. samanburður ([beyond/past ~])
 comparison n. samanburður ([in ~ with]); samlíking; stigbreyting (lýsingarorða)
 compart s. skipta sundur; hólfa
@@ -1762,7 +1762,7 @@ conglobe s. sameina (í kúlu)
 conglomerate n. samsteypa; s. steypa saman, safna (safnast) saman í eitt
 conglutinate s. líma (festa) saman; loða saman; gróa saman
 conglutination n. samlíming
-congratulate s. samfagna (e-m)
+congratulate s. óska til hamingju; samfagna (e-m)
 congratulation n. samfögnuður; hamingjuósk
 congratulatory l. samfagnandi, samfagnaðar- ([~ letter])
 congregate s. safna; safna saman
@@ -2434,9 +2434,9 @@ creator n. skapari
 creature n. skepna; kvikindi; sköpuð vera; maður; [poor ~!] vesalingurinn!
 credence n. trúnaður; [to give ~ to] leggja trúnað á; [letter of ~] meðmælingarbréf
 credentials nft. meðmælingarbréf, (einkum) umboðsskjal sendiherra
-credibility n. trúanleiki
-credible l. trúanlegur
-credibly ao. trúanlega
+credibility n. trúverðugleiki, trúanleiki
+credible l. trúverðugur, trúanlegur
+credibly ao. trúverðuglega, trúanlega
 credit n. trúnaður; sómi, sæmd ([it does him ~]); heiður; álit ([get ~ for]); áhrif; lof, hrós; lánstraust ([give ~]); lánsfrestur; [give ~ to] leggja trúnað á; [take (get) on ~] fá að láni; s. trúa (e-u); rita í tekjudálkinn hjá (e-m); kenna (e-m) um; eigna (e-m [to])
 creditable l. sómasamlegur; heiðrandi
 creditor n. lánardrottinn, lánveitandi
@@ -2553,7 +2553,7 @@ crucifix n. róðukross
 crucifixion n. krossfesting
 cruciform l. krossmyndaður
 crucify s. krossfesta
-crude l. óverkaður, óunninn; ómeltur (um fæðu); óþroskaður ([~ berries, ~ thoughts]); ófágaður, ruddalegur
+crude l. óverkaður, óunninn; ómeltur (um fæðu); óþroskaður ([~ berries, ~ thoughts]); ófágaður, ruddalegur; grófur
 crudeness n. þroskaleysi; óþroskuð hugsun; ruddaskapur, skortur á fágun
 crudity n. þroskaleysi; óþroskuð hugsun
 cruel l. grimmur; grimmilegur, harður

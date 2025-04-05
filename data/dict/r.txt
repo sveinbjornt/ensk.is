@@ -48,11 +48,11 @@ rafter n. raftur, sperra; s. refta, setja sperrur á
 raftsman n. flotamaður
 rag n. tuska, drusla; dula, rýja; snefill ([not a ~ of evidence]); ft. garmar, tötrar; [boiled to ~s] mauksoðinn; s. ávíta harðlega, setja ofan í við e-n; hrjá
 ragamuffin n. úrþvætti, ræfill, afhrak; l. ræfilslegur
-rage n. æði, ofsi ([the ~ of the wind]); ofstopi; s. æða, hamast, vera bálreiður ([~ at, against]); geisa ([the plague ~s])
+rage n. æði, bræði, ofsi ([the ~ of the wind]); ofstopi; s. æða, hamast, vera bálreiður ([~ at, against]); geisa ([the plague ~s])
 ragged l. tötralegur, garmalegur, rifinn og tættur; ósléttur, hrufóttur; gallaður, ófullkominn; [~ school] fátækraskóli
 raging l. æðandi, hamslaus, ær, óður, uppvægur
 ragout n. ragú (kjötréttur)
-raid n. innrás (óvina); ránferð; s. fara ránferð, ræna
+raid n. innrás (óvina); ránferð; skyndiáhlaup; s. fara ránferð, ræna
 rail n. keldusvín ([water ~])
 rail n. langband (í grindagirðingu); járnbrautarteinn; nft. teinar; grindur, handrið; [travel by ~] ferðast á járnbraut; s. girða með grindum
 railroad n. járnbraut
@@ -600,7 +600,7 @@ region n. hérað; sveit, landshluti; svæði, svið; [the upper ~s] himininn; [
 regional l. héraðslegur; staðlegur
 register n. bók, skrá, listi; skipaskrá ([Lloyd's ~ of British shipping]); kjörskrá ([~ of electors]); ofnspjald; [the ~ of his burial] greftrunarvottorð; [~ of mortgages] veðmálabók; [port of ~] skráningarhöfn; [parish ~] kirkjubækur; s. bóka, skrá; færa inn; [by a ~ed parcel] í ábyrgðarböggli; [the barometer ~s low] vísar (stendur) lágt
 registrar n. skráhaldari, bókari
-registration n. bókun
+registration n. skráning, bókun
 registry n. bókun, skráning; skjöl; skráningarbók; [married at a ~] giftur borgaralegu hjónabandi; [~ office] vistráðningarstaður
 regnant l. stjórnandi, ríkjandi ([the belief in witchcraft was ~])
 regorge s. kasta upp aftur
@@ -618,8 +618,8 @@ regulate s. koma skipulagi á; stilla ([~ the clock])
 regulation n. skipulag, fyrirkomulag; regla; ft. reglugjörð; [~ uniform] fyrirskipaður einkennisbúningur
 regulator n. eftirlitsaðili; stillir (verkfæri), stillihjól; órói í úri
 regurgitate s. streyma tilbaka; æla e-u upp aftur
-rehabilitate s. reisa við aftur; veita uppreisn
-rehabilitation n. uppreisn (á æru); endurreisn, viðreisn
+rehabilitate s. endurhæfa; reisa við aftur; veita uppreisn
+rehabilitation n. endurhæfing; uppreisn (á æru); endurreisn, viðreisn
 rehash s. sjóða upp aftur ([~ old ideas or opinions])
 rehearsal n. endurtekning; upplestur; frásaga; höfuðleikæfing
 rehearse s. endurtaka; lesa upp; segja frá; telja upp; æfa sig (á leikriti)
@@ -910,7 +910,7 @@ rescript n. úrskurður
 rescue s. frelsa; bjarga; n. frelsun, björgun, hjálp ([come to one's ~])
 rescuer n. björgunarmaður
 research n. rannsókn; eftirleit ([for, after]); s. rannsaka
-researcher n. rannsakandi, rannsakari
+researcher n. rannsóknamaður, rannsakandi, rannsakari
 reseat s. setja aftur; setja aftur sæti (setu) í; [~ oneself] setjast aftur
 resemblance n. líking
 resemblant l. líkur, svipaður
@@ -1053,7 +1053,7 @@ retiform l. netmyndaður
 retinue n. fylgd, föruneyti, sveit manna (með stórhöfðingja)
 retire s. hörfa undan; draga sig út (úr [from]); fara ([~ to a place]); ganga til hvílu ([~ to rest]); fara frá, fá lausn (frá embætti); fara burtu með (t.d. herlið); færa burtu; veita lausn úr embætti; leysa inn (víxil)
 retired l. sem hefur fengið lausn frá embætti; afvikinn, afskekktur; einmanalegur; rólegur
-retirement n. burtför; lausn (frá embætti); einvera; afvikinn bústaður
+retirement n. starfslok; burtför; lausn (frá embætti); einvera; afvikinn bústaður
 retiring l. fráfarandi; hæverskur; ómannblendinn
 retort s. kasta (hrinda) aftur; svara (ónotalega) aftur; n. (ónotalegt) svar; flöskumyndað glerílát með löngum niðurbeygðum stút, eimingarflaska
 retorted l. afturbeygður; viðsnúinn ([the ~ edges of a wound])
@@ -1095,7 +1095,7 @@ reunion n. sameining; samkoma, samsæti
 reunite s. sameina (sætta) aftur; sameinast (sættast) aftur
 revaccinate s. bólusetja aftur
 revaccination n. endurbólusetning
-reveal s. opinbera, birta; leiða í ljós, sýna; kunngjöra
+reveal s. opinbera, birta; svifta hulinni af; leiða í ljós, sýna; kunngjöra
 reveille n. fótaferðarbumbusláttur eða lúðurblástur
 revel s. svalla, slarka; [~ in] njóta (e-s) óhóflega; [~ in luxury] lifa í gegndarlausu óhófi; n. svall, slark, hávaðasöm drykkjuveisla
 reveller n. svallari, slarkari

@@ -109,7 +109,7 @@ abscission n. afsniðning
 abscond s. fela sig; strjúka burt
 absconder n. strokumaður
 absence n. fjarvera; skortur, vöntun ([total ~ of wood]); forföll ([in the ~ of the chairman]); athugaleysi, leiðsla ([~ of mind])
-absent l. fjarverandi; vantandi; utan við sig; s. [~ oneself] fara burt, hafa sig burt
+absent l. fjarverandi, fjarstaddur; vantandi; utan við sig; s. [~ oneself] fara burt, hafa sig burt
 absentee n. fjarvistarmaður; landsdrottinn sem oftast dvelur erlendis ([~ landlord])
 absent-minded l. utan við sig
 absinth n. malurt, absint
@@ -593,7 +593,7 @@ aggravation n. aukning, þynging
 aggregate l. samsafnaður; allur; n. samansafn; s. safna saman; bæta við
 aggregation n. söfnun; samansafn, hópur
 aggression n. árás, aðsókn
-aggressive l. árásar- ([~ war]); árásargjarn; áleitinn; [assume the ~] byrja árásina, eiga upptökin
+aggressive l. árásar- ([~ war]); árásargjarn; áleitinn; ágengur; [assume the ~] byrja árásina, eiga upptökin
 aggressor n. aðsóknarmaður, árásarmaður
 aggrieve s. móðga, hryggja
 aghast l. forviða, hissa
@@ -941,7 +941,7 @@ anal fin n. gotraufaruggi (á fiski)
 analogical l. samanburðarlegur
 analogize s. nota samanburð; vera í samræmi (við [with])
 analogous l. hliðstæður; líkur
-analogy n. samanburður, líking; samsvörun
+analogy n. samanburður, líking; samsvörun; hliðstæða
 analyse s. sjá %[analyze]%
 analyze s. greina; sundurliða; skoða vandlega, gagnrýna; leysa upp
 analysis n. greining; sundurliðun; uppleysing; rökgreining
@@ -1185,7 +1185,7 @@ apotheosize s. setja í guða tölu; hefja til skýjanna, vegsama
 appal s. hræða, skelfa
 appalling l. voðalegur, hræðilegur
 appanage n. lífeyrir konungborinna manna og tignarfólks
-apparatus n. verkfæri; útbúnaður, tilfæringar
+apparatus n. verkfæri; tæki; útbúnaður, tilfæringar
 apparel n. útbúnaður; búningur; s. útbúa; klæða, búa
 apparent l. augljós, auðsær; sem sýnist að vera; [heir ~] ríkiserfingi
 apparently ao. augljóslega; að því er sýnist, að því er virðist
@@ -1578,7 +1578,7 @@ atmosphere n. gufuhvolf; loft; andrúmsloft
 atmospheric l. gufuhvolfslegur; loftlegur
 atmospheric pressure n. loftþrýstingur
 atoll n. hringrif
-atom n. atóm, ódeili, frumögn; ögn
+atom n. atóm, ódeili, frumögn, frumeind; ögn
 atomic l. ódeilis-; örsmár
 atomize s. leysa upp (breyta) í atóm (frumagnir)
 atone s. bæta, friðþægja (fyrir [for]); afplána
