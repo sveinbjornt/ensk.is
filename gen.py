@@ -360,14 +360,14 @@ def main() -> None:
     entries = read_all_entries()
     print(f"{len(entries)} entries read")
 
-    print("Generating PDF")
-    dictionary = {
-        e[0]: e[1]
-        for e in entries  # if e[0].startswith("a")
-    }
-    from pdf import generate_pdf
+    # print("Generating PDF")
+    # dictionary = {
+    #     e[0]: e[1]
+    #     for e in entries  # if e[0].startswith("a")
+    # }
+    # from pdf import generate_pdf
 
-    generate_pdf(dictionary, "static/files/ensk.is.pdf")
+    # generate_pdf(dictionary, "static/files/ensk.is.pdf")
     # exit(0)
 
     print("Generating text")

@@ -2749,8 +2749,8 @@ suffering n. þjáning; neyð
 suffice s. nægja, vera nógur
 sufficiency n. gnægð; nógleiki; hæfileiki, geta; sjálfsálit
 sufficient l. nægur, nógur; nægilegur; hæfur
-sufficiently ao. nógsamlega, nægilega
-suffix n. viðskeyti
+sufficiently ao. nægilega, nógsamlega
+suffix n. viðskeyti; viðskeyti í skráarnafni sem gefur til kynna tegund skjalsins ([filename ~])
 suffocate s. kæfa
 suffocation n. kæfing; köfnun
 suffocative l. kæfandi
@@ -3081,7 +3081,7 @@ swinging l. sveiflandi
 swinge s. lúberja, refsa
 swingeing l. afskaplegur, fjarskalegur, stórkostlegur ([a ~ blow, a ~ majority])
 swingle s. hreinsa (hör); n. barefli til að hreinsa (berja) með hör, hörslegill
-swinish l. sóðalegur, óþrifinn
+swinish l. sóðalegur, óþrifinn; svínslegur, eins og svín
 swinishness n. sóðaskapur
 swipe n. mikið högg; s. slá mikið högg
 swirl s. þyrla(st), hringsnúa(st); n. hringiða, iðukast

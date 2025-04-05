@@ -913,7 +913,7 @@ Uzbek l. úsbekskur; n. Úsbeki; úsbekska (tungumál)
 Vanuatu n. Vanúatú
 Vatican n. Vatíkanið í Róm
 Venezuela n. Venesúela
-Venezuelan l. venesúelskur; n. Venesúelabúi, Venesúelabúi
+Venezuelan l. venesúelskur; n. Venesúelabúi, Venesúelamaður
 Vietnam n. Víetnam
 Vietnamese l. víetnamskur; n. Víetnami; víetnamska
 Western Sahara n. Vestur-Sahara
@@ -2342,6 +2342,7 @@ workaholic l. vinnusjúkur; n. vinnufíkill, vinnualki
 workaholism n. vinnufíkn, vinnuárátta
 codependent l. meðvirkur
 codependency n. meðvirkni
+codependence n. meðvirkni
 self-help n. sjálfshjálp
 patricidal l. föðurmorðs-, föðurmorðslegur
 webmaster n. vefstjóri, vefumsjónarmaður, umsjónarmaður vefsíðu
@@ -7191,7 +7192,7 @@ X-ray n. röntgengeisli; röntgenmynd; röntgen
 apologise s. sjá %[apologize]%
 authorise s. sjá %[authorize]%
 hike s. fara í langa gönguferð; þramma; lyfta, hækka (um verðlag); [go take a ~] snáfaðu burt (óforml.)
-license s. heimila, veita leyfi; fá leyfi fyrir; n. leyfi, heimild
+license s. heimila, veita leyfi; fá leyfi fyrir; n. leyfi, heimild, notkunarleyfi
 minimise s. sjá %[minimize]%
 organise s. sjá %[organize]%
 recognise s. sjá %[recognize]%
@@ -7207,3 +7208,15 @@ ableism n. fötlunarfordómar
 cayenne n. rauður pipar, cayenne-pipar, kajennpipar
 colosseum n. hringleikahús
 leaderboard n. topplisti, leiðtogatafla, stigatafla
+frontend n. framendi; [~ programming] framendaforritun
+neuropathy n. taugakvilli
+semifluid l. hálfkvikur
+steakhouse n. steikhús
+chatbot n. spjallmenni
+outdoorsman n. útivistarmaður
+outdoorsmanship n. útivist
+disinfected l. sótthreinsaður, sem búið er að eyða sóttnæmi í
+savings nft. sparnaður; sparifé
+chickweed n. haugarfi
+ruination n. hrun; eyðilegging, eyðing; niðurbrot
+vindicative l. réttlætandi

@@ -432,15 +432,15 @@ adulate s. smjaðra
 adulation n. smjaður, fagurgali
 adulator n. smjaðrari
 adulatory l. mjúkmáll
-adult l. fullorðinn; fullvaxinn; n. fullorðinn maður
-adulterate s. falsa, svíkja (vörur)
-adulterated l. svikinn, falsaður
+adult l. fullorðinn; fullvaxinn; n. fullorðin manneskja
+adulterate s. falsa, svíkja (vörur); útþynna
+adulterated l. svikinn, falsaður; útþynntur
 adulteration n. fölsun (á vörum)
-adulterer n. hórkarl; karl sem heldur fram hjá maka sínum
-adulteress n. hórkona; kona sem heldur fram hjá maka sínum
+adulterer n. hórkarl; framhjáhaldari; karl sem heldur fram hjá maka sínum
+adulteress n. hórkona; framhjáhaldari; kona sem heldur fram hjá maka sínum
 adulterine l. hórgetinn; falsaður, óekta
-adulterous l. saurlífur; falsaður
-adultery n. hórdómur, framhjáhald
+adulterous l. saurlífur; falsaður; framhjáhalds- ([an ~ relationship])
+adultery n. framhjáhald, hórdómur
 adumbrate s. lýsa ónákvæmlega; tákna; hylja
 adumbration n. tákn, ímynd
 adust l. skrælnaður, sviðinn
@@ -457,7 +457,7 @@ adventitious l. aðkominn, aðfenginn
 adventure n. ævintýri; hætta, áhætta; hættufyrirtæki; s. hætta á; stofna í hættu; hætta sér ([into, in, upon a place, on, upon an undertaking])
 adventurer n. ævintýramaður; glæframaður
 adventuress n. ævintýrakona
-adventurous l. djarfur, vogaður; ævintýralegur
+adventurous l. djarfur, vogaður; ævintýragjarn; ævintýralegur
 adverb n. atviksorð
 adverbial l. atvikslegur
 adversary n. mótstöðumaður; l. andstæður, óvinveittur
