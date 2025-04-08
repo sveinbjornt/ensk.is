@@ -1,5 +1,6 @@
 # TODO list for ensk.is
 
+* [ ] Case-sensitive DB entries
 * [ ] Finish deduplicating the database
 * [ ] Add more words
 * [ ] Add more examples

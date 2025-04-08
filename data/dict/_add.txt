@@ -285,7 +285,9 @@ kilowatt n. kílóvatt (þúsund vött)
 workstation n. vinnustöð; skrifborðstölva
 cougar n. fjallaljón; kynferðislega virk eldri kona (óforml.)
 calisthenics nft. leikfimiæfingar
+callisthenics nft. sjá %[calisthenics]%
 calisthenic l. leikfimi-, leikfimiæfinga-
+callisthenic l. sjá %[calisthenic]%
 automation n. sjálfvirkni; sjálfvirknivæðing
 automate s. sjálfvirknivæða, gera sjálfvirkt
 automatable l. sjálfvirknivæðanlegur (sjá %[automate]%)
@@ -7125,7 +7127,7 @@ pantheress n. kvenpardus; kvenhlébarði
 croissant n. smjördeigshorn, krossant
 mustelid n. dýr af marðarætt, mörður
 sommelier n. vínþjónn, kjallarameistari
-brighten s. gera bjartari, verða bjartari
+brighten s. gera bjartari, verða bjartari, birta
 Silesia n. Slesía (hérað í Mið-Evrópu)
 Silesian l. slesískur; n. slesíska
 eucalyptus n. tröllatré, ilmviður
@@ -7136,7 +7138,6 @@ nonverbal l. ekki munnlegur, ómunnlegur
 phenology n. náttúrufarsfræði
 ID n. skilríki (stytt. á [identification])
 est l. stofnaður, stytt. á %[established]%
-# WDN-BEGIN
 balanced l. jafnvægur; í jafnvægi
 closed l. lokaður
 color-blind l. litblindur
@@ -7170,7 +7171,7 @@ graphics nft. grafík; teiknun
 guideline n. viðmiðunarregla
 houseplant n. húsplanta
 ice cream n. ís, rjómaís
-Koran n. [the ~] kóraninn
+Koran n. [the ~] kóraninn (trúarrit múslíma)
 layout n. umbrot
 leftovers nft. leifar, afgangur
 mainstream n. meginstraumur; ríkjandi stefna
@@ -7197,7 +7198,6 @@ minimise s. sjá %[minimize]%
 organise s. sjá %[organize]%
 recognise s. sjá %[recognize]%
 sightsee s. fara í skoðunarferð, skoða markverða hluti eða staði, túristast
-# WDN-END
 tummy n. malli, magi (óforml.)
 tummyache n. magaverkur, magapína, magakveisa (óforml.)
 stomachache n. magaverkur, magapína, magakveisa
@@ -7210,8 +7210,8 @@ colosseum n. hringleikahús
 leaderboard n. topplisti, leiðtogatafla, stigatafla
 frontend n. framendi; [~ programming] framendaforritun
 neuropathy n. taugakvilli
-semifluid l. hálfkvikur
-steakhouse n. steikhús
+semifluid l. hálfkvikur, hálfpartinn vökvi
+steakhouse n. steikhús (veitingahús sem býður upp á nautakjöt)
 chatbot n. spjallmenni
 outdoorsman n. útivistarmaður
 outdoorsmanship n. útivist
@@ -7224,3 +7224,9 @@ instal s. sjá %[install]%
 reactor n. kjarnaofn; kjarnakljúfur ([nuclear ~])
 civil war n. borgarastríð
 trouser l. buxna- ([~ pockets]), yfirleitt í ft. %[trousers]%
+impala n. impalahjörtur, impala (meðalstór antílópa, afrískt spendýr)
+hyrax n. hnubbi
+hemochromatosis n. járngeymdarkvilli
+board game n. borðspil
+extremophile n. jaðarlífvera, jaðarvera (lífvera sem getur lifað við aðstæður sem eru almennt fjandsamlegar lífi, t.d. mikinn hita)
+comfy n. þægilegur, þæginda- (stytt. á %[comfortable]%)

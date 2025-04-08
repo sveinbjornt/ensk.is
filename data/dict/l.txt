@@ -736,7 +736,7 @@ local l. staðlegur; staðar-; [~ government] sveitarstjórn, bæjarstjórn; [~ 
 locality n. staður; svæði; staðareinkenni; ft. staðhættir
 localize s. staðsetja, marka e-u stað
 locate s. staðsetja; setja; ákveða (e-u) stað; [~ oneself] setjast að
-located l. búsettur, búandi
+located l. staðsettur; búsettur, búandi
 location n. setning, staða, lega; leiga
 locative l. staðar-; n. staðarfall
 loch n. stöðuvatn
