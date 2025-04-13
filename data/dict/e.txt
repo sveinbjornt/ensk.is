@@ -105,7 +105,7 @@ edificatory l. uppbyggilegur
 edifice n. bygging (einkum um stórt og veglegt hús)
 edify s. styrkja guðhræðslu og siðferði, uppbyggja
 edifying l. uppbyggilegur
-edit s. breyta; ritstýra eða gefa út (bók eða blað)
+edit s. breyta; ritstýra eða gefa út (bók eða annað ritefni)
 edition n. útgáfa, prentun
 editor n. útgefandi; ritstjóri
 editorial l. ritstjórnar- ([~ article]); n. ritstjórnargrein
@@ -420,8 +420,8 @@ empiric l. grundvallaður á reynslu; n. skottulæknir
 empirical l. grundvallaður á reynslu
 empiricism n. raunhyggja; reynsluþekking; skottulækningar
 employ n. atvinna; starf; þjónusta ([in the ~ of]); [out of ~] atvinnulaus; s. nota e-ð (til e-s [in, for]); láta (e-n) starfa, veita (e-m) vinnu; starfsetja
-employable l. notanlegur, notandi; ráðanlegur (til vinnu)
-employee n. starfsmaður; [government ~] starfsmaður ríkisins
+employable l. notanlegur, notandi; ráðanlegur til vinnu
+employee n. starfsmaður; [government ~] ríkisstarfsmður, starfsmaður ríkisins
 employer n. vinnuveitandi; húsbóndi
 employment n. notkun; starf; atvinna
 empoison s. eitra, blanda eitri, láta eitur í (mat, drykk); spilla

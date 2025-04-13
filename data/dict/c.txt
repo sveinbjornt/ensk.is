@@ -919,7 +919,7 @@ citron n. sítróna (aldin)
 city n. borg, bær, staður
 civet n. desdýr, þefköttur ([~ cat]); moskus
 civic l. borgmannlegur, borgara-; borgaralegur, borgara-, borgar-
-civil l. borgara- ([~ war, ~ rights]); borgaralegur, þegnlegur; kurteis(legur); einka-; [Civil List] hirðeyrir; [Civil Service] embættisþjónusta; [~ servant] embættismaður, starfsmaður ríkisins
+civil l. borgara- ([~ war, ~ rights]); borgaralegur, þegnlegur; kurteis(legur); einka-; [Civil List] hirðeyrir; [Civil Service] embættisþjónusta; [~ servant] embættismaður, ríkisstarfsmður, starfsmaður ríkisins
 civilian n. óbreyttur borgari, maður sem er ekki í herþjónustu; lögfræðingur; kennari í lögum; embættismaður
 civility n. kurteisi
 civilization n. siðmenning, menning, menntun; heimsmenning
@@ -2689,7 +2689,7 @@ cushion n. sessa, hægindi; s. festa hægindi á; setja á hægindi; bæla niðu
 cusp n. broddur, oddur
 cuspidated l. oddmyndaður, yddur
 custard n. eggjamjólk
-custodian n. gæslumaður, vörður
+custodian n. gæslumaður, vörður; forræðismaður
 custody n. gæsla; varðveisla; varðhald; [take into ~] setja í varðhald, taka fastan
 custom n. vani, venja, siður, tíska; tollur (vanalega [~s]); viðskipti
 customable l. tollskyldur

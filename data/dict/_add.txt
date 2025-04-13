@@ -5141,7 +5141,7 @@ ultrasound n. úthljóð, yfirhljóð; ómspeglun; ómgreining, úthljóðsgrein
 cleanup n. hreinsun, tiltekt
 lookup n. uppfletting; sjá %[look]% og %[up]%
 jalopy n. bíldrusla
-direwolf n. stór úlfur, skelfilegur úlfur
+dire wolf n. gramúlfur
 supercede s. sjá %[supersede]%
 oblast n. fylki, hérað, umdæmi (í Rússlandi og öðrum löndum)
 underlying l. undirliggjandi, undirrótar-, grundvallar-
@@ -7253,3 +7253,7 @@ slickstone n. slípunarsteinn (til að slétta leður o.fl.)
 kaftan n. (austurlenskur) serkur eða kyrtill
 vulcanize s. vúlkanísera
 vulcanization n. vúlkanísering
+bespoke l. sérsaumaður; sérsniðinn
+custodianship n. forræði, forsjá
+monkfish n. skötuselur (fiskur)
+crewman n. áhafnarmeðlimur (sjá %[crew]%)

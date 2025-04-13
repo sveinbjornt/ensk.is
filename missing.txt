@@ -427,7 +427,6 @@ knitter
 maneuver
 pinpoint
 tabloid
-crewman
 fabled
 groundbreaking
 catchphrase
@@ -856,7 +855,6 @@ apologist
 brownstone
 sleepover
 organizational
-bespoke
 fait accompli
 edginess
 scam
@@ -5062,3 +5060,24 @@ slacks (buxur)
 lede
 securitization
 exotropia
+facia
+confounding
+glycemic
+hypoglycemic
+enfold
+enfolded
+dyadic
+conferred
+uncapitalized
+velour
+neg
+negging
+wallflower
+wrongdoer (endurskoða)
+wristband (endurskoða)
+multitiered
+ethnogenesis
+swat
+unclassy
+dehumanizing
+exoplanet
