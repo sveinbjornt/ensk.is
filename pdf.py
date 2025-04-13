@@ -39,6 +39,7 @@ Generate a PDF version of the dictionary.
 
 import re
 import string
+from collections import OrderedDict
 
 from reportlab.lib.pagesizes import A4
 from reportlab.platypus import (
@@ -49,6 +50,8 @@ from reportlab.platypus import (
     Spacer,
     NextPageTemplate,
     PageBreak,
+    FrameBreak,
+    Flowable,
 )
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib.units import cm
@@ -60,16 +63,35 @@ from info import PROJECT
 
 _FONT_NAME = "Garamond"
 
+# Global dictionary to track which letter appears on which pages
+_LETTER_PAGES = OrderedDict()
+
 
 def _add_page_number(canvas: Canvas, doc: BaseDocTemplate):
-    """Custom page number function for drawing page numbers on each page."""
+    """Custom page number function for drawing page numbers and headers on each page."""
+    # Get current page number
+    page_num = canvas.getPageNumber()
+    
     # Don't add page number to the first page (cover)
-    if doc.page > 1:
-        page_num = doc.page - 1  # Adjust for cover page
+    if page_num > 1:
         canvas.saveState()
         canvas.setFont(_FONT_NAME, 11)
+        
         # Center the page number at the bottom
-        canvas.drawCentredString(A4[0] / 2, 1 * cm, str(page_num))
+        canvas.drawCentredString(A4[0] / 2, 1 * cm, str(page_num - 1))  # Adjust for cover page
+        
+        # Add letter header at the top
+        # Find which letter section this page belongs to
+        current_letter = None
+        for letter, (start_page, end_page) in _LETTER_PAGES.items():
+            if start_page <= page_num <= end_page:
+                current_letter = letter
+                break
+                
+        if current_letter:
+            canvas.setFont(f"{_FONT_NAME}-Bold", 14)
+            canvas.drawCentredString(A4[0] / 2, A4[1] - 1 * cm, current_letter)
+            
         canvas.restoreState()
 
 
@@ -101,9 +123,44 @@ def _apply_styles(entry: str, definition: str) -> tuple[str, str]:
     return e, d
 
 
+class LetterSectionMarker(Flowable):
+    """A custom flowable to mark the start of a letter section and track page numbers."""
+    
+    def __init__(self, letter):
+        Flowable.__init__(self)
+        self.letter = letter
+        self.width = 0
+        self.height = 0
+        
+    def wrap(self, availWidth, availHeight):
+        # Zero-sized flowable
+        return (0, 0)
+        
+    def draw(self):
+        # Save the page number for this letter section
+        global _LETTER_PAGES
+        page_num = self.canv.getPageNumber()  # Current page number from the canvas
+        _LETTER_PAGES[self.letter] = [page_num, 999]  # Set end page to a high number initially
+        
+        # Update previous letter's end page if there is one
+        prev_letter = None
+        for l in _LETTER_PAGES.keys():
+            if l == self.letter:
+                break
+            prev_letter = l
+            
+        if prev_letter:
+            start_page, _ = _LETTER_PAGES[prev_letter]
+            _LETTER_PAGES[prev_letter] = [start_page, page_num - 1]
+
+
 def generate_pdf(dictionary_data, output_file):
     """Generate a PDF version of the dictionary."""
     _load_fonts()
+    
+    # Clear the global letter-page mapping
+    global _LETTER_PAGES
+    _LETTER_PAGES.clear()
 
     columns = 3
 
@@ -233,8 +290,12 @@ def generate_pdf(dictionary_data, output_file):
     # Process each letter
     for letter in string.ascii_uppercase:
         if letter in grouped_entries:
+            # Mark the start of this letter section
+            content.append(LetterSectionMarker(letter))
+            
             # Add letter header
             content.append(Paragraph(letter, section_style))
+            
             # Add entries
             for english, icelandic in grouped_entries[letter]:
                 # Format like a real dictionary: bold headword followed by definition
@@ -242,8 +303,16 @@ def generate_pdf(dictionary_data, output_file):
                 entry_text = f"{w} {d}"
                 content.append(Paragraph(entry_text, entry_style))
 
-    # Build document
+    # Generate the document - this will track all letter pages
     doc.build(content)
+    
+    # Set the end page for the last letter
+    if _LETTER_PAGES:
+        last_letter = list(_LETTER_PAGES.keys())[-1]
+        start_page, _ = _LETTER_PAGES[last_letter]
+        # Get the total page count from document
+        total_pages = doc.canv.getPageNumber()
+        _LETTER_PAGES[last_letter] = [start_page, total_pages]
 
 
 if __name__ == "__main__":
