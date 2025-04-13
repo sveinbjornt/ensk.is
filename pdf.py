@@ -56,6 +56,7 @@ from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.pdfgen.canvas import Canvas
 
+from info import PROJECT
 
 _FONT_NAME = "Garamond"
 
@@ -132,7 +133,16 @@ def generate_pdf(dictionary_data, output_file):
         frames.append(frame)
 
     # Create document template with frames
-    doc = BaseDocTemplate(output_file, pagesize=A4)
+    doc = BaseDocTemplate(
+        output_file,
+        pagesize=A4,
+        title=PROJECT.DICT_NAME,
+        author=PROJECT.DICT_AUTHORS,
+        subject=PROJECT.DESCRIPTION,
+        keywords=PROJECT.DICT_KEYWORDS,
+        creator=PROJECT.EDITOR,
+        producer=PROJECT.NAME,
+    )
 
     # Create a single frame for the cover page
     cover_frame = Frame(
