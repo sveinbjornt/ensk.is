@@ -66,6 +66,9 @@ _FONT_NAME = "Garamond"
 # Global dictionary to track which letter appears on which pages
 _LETTER_PAGES = OrderedDict()
 
+# Global dictionary to track which entries appear on which pages
+_PAGE_ENTRIES = {}
+
 
 def _add_page_number(canvas: Canvas, doc: BaseDocTemplate):
     """Custom page number function for drawing page numbers and headers on each page."""
@@ -91,6 +94,17 @@ def _add_page_number(canvas: Canvas, doc: BaseDocTemplate):
         if current_letter:
             canvas.setFont(f"{_FONT_NAME}-Bold", 14)
             canvas.drawCentredString(A4[0] / 2, A4[1] - 1 * cm, current_letter)
+        
+        # Add word range in the header if entries exist for this page
+        if page_num in _PAGE_ENTRIES and len(_PAGE_ENTRIES[page_num]) >= 1:
+            entries = _PAGE_ENTRIES[page_num]
+            first_entry = entries[0]
+            last_entry = entries[-1]
+            
+            if first_entry != last_entry:
+                word_range = f"{first_entry} - {last_entry}"
+                canvas.setFont(_FONT_NAME, 10)
+                canvas.drawCentredString(A4[0] / 2, A4[1] - 1.5 * cm, word_range)
             
         canvas.restoreState()
 
@@ -154,14 +168,34 @@ class LetterSectionMarker(Flowable):
             _LETTER_PAGES[prev_letter] = [start_page, page_num - 1]
 
 
-def generate_pdf(dictionary_data, output_file):
-    """Generate a PDF version of the dictionary."""
+class EntryWordMarker(Flowable):
+    """A custom flowable to mark the position of entries on pages."""
+    
+    def __init__(self, entry_word):
+        Flowable.__init__(self)
+        self.entry_word = entry_word
+        self.width = 0
+        self.height = 0
+        
+    def wrap(self, availWidth, availHeight):
+        # Zero-sized flowable
+        return (0, 0)
+        
+    def draw(self):
+        # Track which entries appear on which pages
+        global _PAGE_ENTRIES
+        page_num = self.canv.getPageNumber()
+        
+        if page_num not in _PAGE_ENTRIES:
+            _PAGE_ENTRIES[page_num] = []
+            
+        _PAGE_ENTRIES[page_num].append(self.entry_word)
+
+
+def _build_document(dictionary_data, output_file, is_first_pass=False):
+    """Build the PDF document - can be called twice for two-pass processing."""
     _load_fonts()
     
-    # Clear the global letter-page mapping
-    global _LETTER_PAGES
-    _LETTER_PAGES.clear()
-
     columns = 3
 
     # Set up document
@@ -298,6 +332,9 @@ def generate_pdf(dictionary_data, output_file):
             
             # Add entries
             for english, icelandic in grouped_entries[letter]:
+                # Add a marker for the entry word
+                content.append(EntryWordMarker(english))
+                
                 # Format like a real dictionary: bold headword followed by definition
                 w, d = _apply_styles(english, icelandic)
                 entry_text = f"{w} {d}"
@@ -313,6 +350,29 @@ def generate_pdf(dictionary_data, output_file):
         # Get the total page count from document
         total_pages = doc.canv.getPageNumber()
         _LETTER_PAGES[last_letter] = [start_page, total_pages]
+
+
+def generate_pdf(dictionary_data, output_file):
+    """Generate a PDF version of the dictionary using a two-pass approach."""
+    import os
+    
+    # Clear the global mappings
+    global _LETTER_PAGES, _PAGE_ENTRIES
+    _LETTER_PAGES.clear()
+    _PAGE_ENTRIES.clear()
+    
+    # First pass - build the document to collect entry information
+    temp_output = output_file + ".temp"
+    _build_document(dictionary_data, temp_output, is_first_pass=True)
+    
+    # Now _PAGE_ENTRIES is populated, build the final document
+    _build_document(dictionary_data, output_file, is_first_pass=False)
+    
+    # Clean up the temporary file
+    try:
+        os.remove(temp_output)
+    except:
+        pass
 
 
 if __name__ == "__main__":
