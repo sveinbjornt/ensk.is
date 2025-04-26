@@ -175,14 +175,14 @@ class EnskDatabase(object):
         return self._consume(selected)
 
     def read_all_original(self) -> list[dict]:
-        """Read and return all original entries from the Zoega dictionary."""
+        """Read and return all original entries from the dictionary."""
         selected = (
             self.conn().cursor().execute("SELECT * FROM dictionary WHERE page_num!=0")
         )
         return self._consume(selected)
 
     def read_all_additions(self) -> list[dict]:
-        """Read and return all entries not present in the original Zoega dictionary."""
+        """Read and return all entries not present in the original dictionary."""
         selected = (
             self.conn().cursor().execute("SELECT * FROM dictionary WHERE page_num=0")
         )

@@ -74,15 +74,17 @@ def _add_page_number(canvas: Canvas, doc: BaseDocTemplate):
     """Custom page number function for drawing page numbers and headers on each page."""
     # Get current page number
     page_num = canvas.getPageNumber()
-    
+
     # Don't add page number to the first page (cover)
     if page_num > 1:
         canvas.saveState()
         canvas.setFont(_FONT_NAME, 11)
-        
+
         # Center the page number at the bottom
-        canvas.drawCentredString(A4[0] / 2, 1 * cm, str(page_num - 1))  # Adjust for cover page
-        
+        canvas.drawCentredString(
+            A4[0] / 2, 1 * cm, str(page_num - 1)
+        )  # Adjust for cover page
+
         # Add letter header at the top
         # Find which letter section this page belongs to
         current_letter = None
@@ -90,22 +92,25 @@ def _add_page_number(canvas: Canvas, doc: BaseDocTemplate):
             if start_page <= page_num <= end_page:
                 current_letter = letter
                 break
-                
+
         if current_letter:
             canvas.setFont(f"{_FONT_NAME}-Bold", 14)
             canvas.drawCentredString(A4[0] / 2, A4[1] - 1 * cm, current_letter)
-        
+
         # Add word range in the header if entries exist for this page
-        if page_num in _PAGE_ENTRIES and len(_PAGE_ENTRIES[page_num]) >= 1:
+        if page_num in _PAGE_ENTRIES and len(_PAGE_ENTRIES[page_num]) >= 2:
             entries = _PAGE_ENTRIES[page_num]
+            # Use the first entry on this page
             first_entry = entries[0]
-            last_entry = entries[-1]
-            
+            # Use the *second-to-last* entry on this page to fix the off-by-one error
+            # If only one entry on page, use that one
+            last_entry = entries[-2] if len(entries) > 1 else entries[0]
+
             if first_entry != last_entry:
                 word_range = f"{first_entry} - {last_entry}"
                 canvas.setFont(_FONT_NAME, 10)
                 canvas.drawCentredString(A4[0] / 2, A4[1] - 1.5 * cm, word_range)
-            
+
         canvas.restoreState()
 
 
@@ -139,30 +144,33 @@ def _apply_styles(entry: str, definition: str) -> tuple[str, str]:
 
 class LetterSectionMarker(Flowable):
     """A custom flowable to mark the start of a letter section and track page numbers."""
-    
+
     def __init__(self, letter):
         Flowable.__init__(self)
         self.letter = letter
         self.width = 0
         self.height = 0
-        
+
     def wrap(self, availWidth, availHeight):
         # Zero-sized flowable
         return (0, 0)
-        
+
     def draw(self):
         # Save the page number for this letter section
         global _LETTER_PAGES
         page_num = self.canv.getPageNumber()  # Current page number from the canvas
-        _LETTER_PAGES[self.letter] = [page_num, 999]  # Set end page to a high number initially
-        
+        _LETTER_PAGES[self.letter] = [
+            page_num,
+            999,
+        ]  # Set end page to a high number initially
+
         # Update previous letter's end page if there is one
         prev_letter = None
         for l in _LETTER_PAGES.keys():
             if l == self.letter:
                 break
             prev_letter = l
-            
+
         if prev_letter:
             start_page, _ = _LETTER_PAGES[prev_letter]
             _LETTER_PAGES[prev_letter] = [start_page, page_num - 1]
@@ -170,32 +178,34 @@ class LetterSectionMarker(Flowable):
 
 class EntryWordMarker(Flowable):
     """A custom flowable to mark the position of entries on pages."""
-    
+
     def __init__(self, entry_word):
         Flowable.__init__(self)
         self.entry_word = entry_word
         self.width = 0
         self.height = 0
-        
+
     def wrap(self, availWidth, availHeight):
         # Zero-sized flowable
         return (0, 0)
-        
+
     def draw(self):
         # Track which entries appear on which pages
         global _PAGE_ENTRIES
+        # Get page number for the next entry (the entry will appear after this marker)
         page_num = self.canv.getPageNumber()
-        
+
         if page_num not in _PAGE_ENTRIES:
             _PAGE_ENTRIES[page_num] = []
-            
+
+        # Only record if this is the first pass
         _PAGE_ENTRIES[page_num].append(self.entry_word)
 
 
 def _build_document(dictionary_data, output_file, is_first_pass=False):
     """Build the PDF document - can be called twice for two-pass processing."""
     _load_fonts()
-    
+
     columns = 3
 
     # Set up document
@@ -326,15 +336,15 @@ def _build_document(dictionary_data, output_file, is_first_pass=False):
         if letter in grouped_entries:
             # Mark the start of this letter section
             content.append(LetterSectionMarker(letter))
-            
+
             # Add letter header
             content.append(Paragraph(letter, section_style))
-            
+
             # Add entries
             for english, icelandic in grouped_entries[letter]:
                 # Add a marker for the entry word
                 content.append(EntryWordMarker(english))
-                
+
                 # Format like a real dictionary: bold headword followed by definition
                 w, d = _apply_styles(english, icelandic)
                 entry_text = f"{w} {d}"
@@ -342,7 +352,7 @@ def _build_document(dictionary_data, output_file, is_first_pass=False):
 
     # Generate the document - this will track all letter pages
     doc.build(content)
-    
+
     # Set the end page for the last letter
     if _LETTER_PAGES:
         last_letter = list(_LETTER_PAGES.keys())[-1]
@@ -352,26 +362,40 @@ def _build_document(dictionary_data, output_file, is_first_pass=False):
         _LETTER_PAGES[last_letter] = [start_page, total_pages]
 
 
+def _compress_pdf(input_file, output_file):
+    from pypdf import PdfWriter
+
+    writer = PdfWriter(clone_from=input_file)
+
+    for page in writer.pages:
+        page.compress_content_streams(level=9)  # This is CPU intensive!
+
+    with open(output_file, "wb") as f:
+        writer.write(f)
+
+
 def generate_pdf(dictionary_data, output_file):
     """Generate a PDF version of the dictionary using a two-pass approach."""
     import os
-    
+
     # Clear the global mappings
     global _LETTER_PAGES, _PAGE_ENTRIES
     _LETTER_PAGES.clear()
     _PAGE_ENTRIES.clear()
-    
+
     # First pass - build the document to collect entry information
     temp_output = output_file + ".temp"
     _build_document(dictionary_data, temp_output, is_first_pass=True)
-    
+
     # Now _PAGE_ENTRIES is populated, build the final document
     _build_document(dictionary_data, output_file, is_first_pass=False)
-    
+
+    # _compress_pdf(output_file, "out.pdf")
+
     # Clean up the temporary file
     try:
         os.remove(temp_output)
-    except:
+    except:  # noqa: E722
         pass
 
 
