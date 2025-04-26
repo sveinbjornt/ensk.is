@@ -101,7 +101,7 @@ daughter-in-law n. tengdadóttir
 daughterly l. dótturlegur
 daunt s. skelfa, buga
 dauntless l. óskelfdur, hugaður
-Davy lamp n. öryggislampi, sem Davy fann upp
+Davy lamp n. öryggislampi (sem Davy fann upp)
 daw n. krákutegund
 dawdle s. slæpast, eyða tíma í iðjuleysi ([~ away])
 dawdler n. slæpingi, slæpingur
@@ -684,7 +684,7 @@ detainer n. ólöglegt eignarhald; (varð)hald
 detect s. uppgötva; komast fyrir (e-ð); standa (e-n) að (e-u)
 detection n. uppgötvun, fundur
 detective l. uppgötvunar- ([~ police]); n. rannsóknarlögreglumaður; [private ~] einkaspæjari
-detector n. uppgötvari ([~ of impostures])
+detector n. uppgötvari ([~ of impostures]); nemi ([fire ~, motion ~])
 detention n. kyrrsetning; hald; töf ([in case of ~])
 deter s. hræða, fæla (frá [from])
 determent n. fráfæling
@@ -893,7 +893,7 @@ dingy l. óhreinn; dökkur, dimmur; tortryggilegur
 dingle n. skógi vaxin kvos
 dining room n. borðstofa
 dining table n. matborð
-dinner n. miðdegisverður; veisla
+dinner n. kvöldverður, kvöldmatur; veisla
 dint n. högg; far (eftir högg); [by ~ of] með (hjálp e-s); s. setja far í, dala
 diocesan n. klerkur eða íbúi í biskupsdæmi
 diocese n. biskupsdæmi
@@ -932,7 +932,7 @@ dirk n. laghnífur, handsax; s. stinga (með laghníf)
 dirt n. óhreinindi, saur; for; [~ cheap] l. hundódýr; [~ floor] n. moldargólf
 dirtiness n. óhreinleiki; ódrengskapur
 dirty l. óhreinn, forugur; saurugur; [~ weather] vonskuveður; s. óhreinka, saurga
-disability n. vanmáttur, óhæfileiki
+disability n. vanmáttur, óhæfileiki; örorka
 disable s. gera óhæfan, óverkfæran
 disabled l. óvopnfær; óhaffær (um skip)
 disabuse s. leiða úr villu
@@ -1426,7 +1426,7 @@ dolphin n. höfrungur
 dolt n. klunni, heimskingi
 doltish l. klunnalegur; heimskur
 domain n. landeign; ríkisfasteign; umráðasvæði; svið
-dome n. hvolfþak, bungulagaður fjallshnúkur
+dome n. hvelfing, hvolfþak, bungulagaður fjallshnúkur
 domed l. hvelfdur
 domestic l. heimilislegur; heimilis-; heimaunninn; innanlands-; taminn; n. hjú
 domesticate s. venja við heimilið; temja

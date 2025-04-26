@@ -229,7 +229,7 @@ surfboard n. brimbretti
 rollerskate n. hjólaskauti; s. ferðast á hjólaskautum
 geyser n. goshver, hver
 penis n. typpi, getnaðarlimur, limur, göndull
-cunnilingus n. munnmök, það að fara niður á konu, það að sleikja píku
+cunnilingus n. munnmök (þegar farið er niður á konu)
 bestseller n. metsölubók; vara sem selst í miklu magni
 bestselling l. söluhæstur; metsölu-
 roommate n. herbergisfélagi, kammerat
@@ -1406,7 +1406,7 @@ ophthalmologist n. augnlæknir, augnsérfræðingur
 ophthalmology n. augnlækningar
 political correctness n. pólitískur rétttrúnaður
 rediscover n. enduruppgötva (sjá %[discover]%)
-xeno- fsk. ókunnugur, utanaðkomandi, erlendur, útlendur (sjá t.d. %[xenophobe]%, %[xenomorph]%)
+xeno- fsk. ókunnugur, utanaðkomandi, erlendur, útlendur (sjá t.d. %[xenophobe]%)
 re- fsk. endur-; sjá t.d. %[revolution]%, %[reload]%, %[rediscover]%
 auto- fsk. sjálf-, sjálfs-; sjá t.d. %[automobile]%, %[autobiography]%, %[autonomy]%
 pre- fsk. for-, áður-, á undan, fyrir, fyrr; of snemma; sjá t.d. %[prementioned]%, %[predict]%, %[premature]%
@@ -2686,8 +2686,8 @@ amphibian n. froskdýr, dýr sem lifir bæði í vatni og á landi
 gerontocracy n. öldungaveldi, öldungaræði, öldungastjórn
 gerontocratic l. öldungaveldis-, öldungaræðis-, öldungastjórnar-
 gerontology n. öldungafræði
-impecunity n. féleysi, fátækt
-impecuniosity n. féleysi, fátækt
+impecunity n. féleysi, fátækt, blankheit
+impecuniosity n. féleysi, fátækt, blankheit
 hesitant l. hikandi, tvístígandi, á báðum áttum
 hesitancy n. hik, efablendni, tvístígandaháttur
 birthrate n. fæðingatíðni
@@ -4027,11 +4027,11 @@ nightshade n. náttskuggajurt; laukaskuggi; kvöldskuggi
 Jesuitic l. sem líkist kristmunkum, jesúítum; hræsnisfullur, slóttugur, falskur
 javelineer n. spjótkastari
 stabilize s. gera stöðugan, koma í jafnvægi; verða stöðugur ([the situation ~d])
-destabilize s. gera óstöðugan, koma úr jafnvægi
+destabilize s. gera óstöðugan, koma úr jafnvægi, trufla stöðugleika (e-s)
 stabilizer n. jafnvægisbúnaður; stöðgari; stýriskambur; varðveisluefni (í efnafræði)
 stabilization n. stöðgun; festing; [price ~] verðlagsfesting
 destabilization n. óstöðgun, óstöðugleiki
-discography n. hljóðritaskrá, hljómplötuskrá, hljómplötulisti; hljómplötufræði; hryggþófamyndataka
+discography n. hljómplötuferill, hljóðritaskrá, hljómplötuskrá, hljómplötulisti; hljómplötufræði; hryggþófamyndataka
 schlock n. rusl, drasl; l. lélegur, lággæða-, verðlaus, ómerkilegur
 schlocky l. lélegt, verðlaust, ómerkilegt, í lágum gæðum
 schmaltz n. væmni
@@ -7043,7 +7043,7 @@ aspirator n. sogdæla, sogtæki, útsogsdæla
 coven n. nornasamkunda, samkoma (hópur) norna ([a ~ of witches]); systralag norna
 domesticity n. heimilislíf, fjölskyldulíf; heimilisrækni
 burgomastership n. bæjarstjóraembætti, borgarstjóraembætti
-Machiavellian l. undirförull, slóttugur, kænn; í anda stjórnspekingsins Nicolo Machiavelli
+Machiavellian l. undirförull, slóttugur, kænn; í anda ítalska stjórnspekingsins Nicolo Machiavelli
 analytic l. greiningar-, greinandi; sundurliðandi, uppleysandi; rökgreiningar- ([~ philosophy])
 analytic philosophy n. rökgreiningarheimspeki
 continental philosophy n. meginlandsheimspeki
@@ -7257,3 +7257,8 @@ bespoke l. sérsaumaður; sérsniðinn
 custodianship n. forræði, forsjá
 monkfish n. skötuselur (fiskur)
 crewman n. áhafnarmeðlimur (sjá %[crew]%)
+matinee n. eftirmiðdagssýning, síðdegissýning (í leikhúsi), síðdegistónleikar
+ma'am n. frú (stytt. á %[Madam]%)
+vapor n. sjá %[vapour]%
+mortician n. útfararstjóri (BNA)
+vibrato n. víbrató; [play ~] trilla (spila hraða endurtekningu tveggja tóna í tónlist)

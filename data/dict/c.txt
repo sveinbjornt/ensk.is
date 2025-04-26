@@ -612,7 +612,7 @@ chariot n. skrautvagn; hervagn
 charioteer n. vagnstjóri
 charitable l. góðgjörðasamur, góðgjarn
 charitableness n. góðgerðasemi
-charity n. kærleiki; ástúð; umburðarlyndi; góðgerðasemi; ölmusugjöf; gustur ([out of ~]); góðgerðarstofnun; [~ begins at home] hver er sjálfum sér næstur
+charity n. kærleiki; ástúð; umburðarlyndi; góðgerðasemi; ölmusugjöf; gustur ([out of ~]); góðgerðarstofnun, líknarsamtök; [~ begins at home] hver er sjálfum sér næstur
 charity school n. fátækraskóli
 charivari n. garg
 charlatan n. skottulæknir; skrumari; svikari
@@ -671,8 +671,8 @@ cheekiness n. óskammfeilni, frekja
 cheeky l. óskammfeilinn
 cheep s. tísta
 cheer n. yfirbragð; gleði, kæti; vistir, matur ([a table loaded with good ~]); uppörvun; fágnaðaróp; [be of good ~] vera hughraustur, hress; [when good ~'s lacking, our friends will be packing] úti er vinátta, þegar ölið er af könnunni; s. gleðja, kæta, telja hug í; hugga; [~ up] uppörva, hressa við; herða upp hugann, hýrna; fagna með gleðiópi
-cheerful l. glaður, glaðvær; gleðjandi, hýrgandi
-cheerfulness n. gleði, glaðværð
+cheerful l. glaður, glaðvær, kátur; gleðjandi, hýrgandi
+cheerfulness n. gleði, glaðværð, kæti
 cheery l. glaðvær
 cheese n. ostur
 cheesemonger n. ostasali
@@ -703,7 +703,7 @@ chibouk n. löng tyrknesk pípa
 chic n. listfengi, stíll; l. tískulegur, skrautlegur
 chicane n. lagaflækjur, hártogun; s. viðhafa lagaflækjur
 chicanery n. lagaflækjur, hártogun
-chicken n. kjúklingur, hænuungi; nft. hænsni
+chicken n. kjúklingur, hænuungi; gunga (óforml.); nft. hænsni
 chick n. kjúklingur, hænuungi; gella, pía (óforml.); nft. hænsni; gellur, píur (óforml.)
 chicory n. kaffirót
 chide s. ávíta, skamma

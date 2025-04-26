@@ -300,10 +300,9 @@ laziness n. leti
 lazy l. latur, iðjulaus
 lazuli n. lasúrsteinn
 lea n. graslendi, engi
-lead n. blý; blýsakka; ft. blýþak; s. þekja með blýi, blýleggja
+lead n. blý; blýsakka; s. leiða; teyma ([~ a horse by the bridle]); fá til; vera fyrir e-u; vera fremstur; spila út; liggja (um veg); [~ a solitary life] lifa einmanalegu lífi; [~ the way] ganga (fara) á undan; [~ the van] vera fremstur í flokki; l. formennska, forysta; útspil ([to return one's partner's ~]); aðalhlutverk í leikriti; [to lake the ~] gerast foringi; þekja með blýi, blýleggja
+lead pencil n. blýantur, ritblý
 leaden l. úr blýi, blý-; blýgrár; þunglamalegur
-lead pencil n. ritblý, blýantur
-lead s. leiða; teyma ([~ a horse by the bridle]); fá til; vera fyrir e-u; vera fremstur; spila út; liggja (um veg); [~ a solitary life] lifa einmanalegu lífi; [~ the way] ganga (fara) á undan; [~ the van] vera fremstur í flokki; l. formennska, forysta; útspil ([to return one's partner's ~]); aðalhlutverk í leikriti; [to lake the ~] gerast foringi
 leader n. leiðtogi; foringi; útspilari; ritstjórnargrein
 leadership n. forysta
 leading l. fremstur, helstur; ráðandi
@@ -822,7 +821,7 @@ looking-glass n. spegill
 lookout n. vörður; útsjón; útlit; varðberg; [to be on the ~] vera á varðbergi; vera að horfa eftir e-u ([for])
 loom n. vefstóll; lómur (fugl); [~ of an oar] árarhlemmur; upphilling ([the ~ of a rock was seen]); s. gnæfa yfir, vofa yfir, hilla upp, vera meiri tilsýndar en í raun og veru; [the land ~s high] landið hillir upp
 loon n. lómur; einnig stytt. á orðinu %[lunatic]% (óforml.)
-loony n. stytt. á %[lunatic]%
+loony n. stytt. á %[lunatic]% (óforml.)
 loop n. lykkja; hanki, hnesla; s. gera lykkju á e-ð; festa hneslu í fat; gera skotgöt á vegg; [~ up the hair] festa upp hárið
 loophole n. smuga; skotgat; ljós- og loftop í vegg
 loose s. leysa; losa ([wine ~d his tongue]); láta lausan; sleppa; skjóta (hleypa) úr byssu (á e-ð [at]); l. laus; laus í sér ([~ earth]); gisinn; víður (um föt); lauslátur; óáreiðanlegur; ónákvæmur; linur ([~ bowels]); [break ~] slíta sig lausan; losna; koma upp; [some of the pages have come ~] hafa losnað; [let ~] láta laust; [with a ~ rein] með lausu taumhaldi; [~ soil] gljúpur jarðvegur; [~ tongue] lausmáll; n. óhindruð rás ([give a ~ to feelings etc.])
@@ -868,7 +867,7 @@ loudness n. hæð, styrkleikur (hljóðs); hávaði, háreysti
 loudspoken l. hámæltur
 loud-voiced l. hámæltur
 lough n. sjá %[loch]%
-lounge s. slangra, reika; slæpast, eyða í iðjuleysi ([~ away time]); sitja (eða liggja) náðugt; [~ life away] lifa iðjuleysislífi; n. slangur; göngusvið iðjuleysingja; lítill legubekkur
+lounge s. slangra, reika; slæpast, eyða í iðjuleysi ([~ away time]); sitja (eða liggja) náðugt; [~ life away] lifa iðjuleysislífi; n. setustofa; lítill legubekkur; slangur; göngusvið iðjuleysingja
 lounger n. landeyða, slæpingur
 lour s. vera þungbrýnn, dapur í bragði; (um himininn, veðrið) vera þungbúinn, syrta að, grúfa yfir ([on, over, upon])
 louring l. þungbrýnn, dapur, þungbúinn, ískyggilegur ([the ~ aspect of affairs])

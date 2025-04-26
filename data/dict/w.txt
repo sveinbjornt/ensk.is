@@ -272,7 +272,7 @@ weeping n. grátur
 weepingly ao. grátandi, með tárum
 weevil n. kornmaðkur
 weft n. ívaf, fyrirvaf; vefur
-weigh s. vega; draga upp (akkeri); íhuga; vera að þyngd; hafa þýðingu; [~ down] leggja niður fyrir sér; þyngja niður; n. [under ~] búinn að draga upp akkeri; [while getting under ~] meðan verið var að draga upp akkerin
+weigh s. vega; vigta; draga upp (akkeri); íhuga; vera að þyngd; hafa þýðingu; [~ down] leggja niður fyrir sér; þyngja niður; n. [under ~] búinn að draga upp akkeri; [while getting under ~] meðan verið var að draga upp akkerin
 weighable l. veganlegur; seldur eftir vigt
 weighage n. kaup fyrir að vega
 weigher n. vigtarmaður
@@ -359,8 +359,8 @@ whelky l. með bólum á hörundi
 whelm s. hylja (vatni); hjúpa; grafa
 whelp n. hvolpur; s. gjóta, eiga hvolpa
 when ao. hvenær; st. þá er, þegar; og þá; [~ bathing] þegar hann laugaði sig; [~ it rains he stays at home] þegar rignir
-whenever ao. hvenær sem
-whensoever ao. hvenær sem
+whenever ao. hvenær sem (er)
+whensoever ao. hvenær sem (er)
 whence ao. & fn. hvaðan; af hverju; [from ~] hvaðan; [the source ~ it springs] sem það stafar af; [~ I conclude that] og þess vegna
 whencesoever ao. hvaðan sem
 where ao. hvar; hvert ([~ are you going?]); þar (þangað) sem; [~ ... from] hvaðan; [~ ... to] hvert
@@ -812,8 +812,8 @@ writing materials nft. skrifföng
 writing paper n. skrifpappír
 written s. skrifaður; skriflegur ([a ~ answer, ~ permission])
 wrong l. rangur, skakkur; [to be ~, in the ~] hafa rangt fyrir sér; n. óréttur, ranglæti; s. gera (e-m) rangt til, gera á hluta (e-s)
-wrongdoer n. móðgari
-wrongdoing n. móðgun; misgerð
+wrongdoer n. misgjörðamaður, misgerðamaður; móðgari
+wrongdoing n. misgjörðamaður, misgerð; móðgun
 wrongful l. óréttvís, ranglátur
 wronghead n. þverhöfði
 wrongheaded l. þverhöfðalegur

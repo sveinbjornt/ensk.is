@@ -597,7 +597,7 @@ aggressive l. árásar- ([~ war]); árásargjarn; áleitinn; ágengur; [assume t
 aggressor n. aðsóknarmaður, árásarmaður
 aggrieve s. móðga, hryggja
 aghast l. forviða, hissa
-agile l. lipur, liðugur
+agile l. lipur, liðugur, fimur
 agility n. fimleiki, liðugleiki
 agio n. milligjöf fyrir skipti á peningum
 agiotage n. kauphallarbrall
@@ -845,7 +845,7 @@ Amazon n. Amasóna (skjaldmey í grískri goðafræði); herská kona; Amasónfr
 ambages nft. vafningar, vífilengjur
 ambassador n. sendiherra
 ambassadorial l. sendiherralegur
-amber n. raf
+amber n. raf; gulbrúnn litur; l. gulbrúnn
 ambergris n. hvalambur, ilmkvoða
 ambidexter l. jafnvígur á báðar hendur; óhreinlyndur
 ambidextrous l. jafnvígur á báðar hendur; óhreinlyndur
@@ -1031,7 +1031,7 @@ annex s. festa, tengja (við [to]); innlima (land); n. viðbætir, viðauki
 annexation n. viðtenging, sameining; innlimun
 annihilate s. gera að engu; ónýta; gjöreyða
 annihilation n. tortíming; ónýting; eyðing
-anniversary n. ársdagur; árleg minningarhátíð; l. árlegur
+anniversary n. ársdagur; árleg minningarhátíð, árlegur minningardagur; l. árlegur
 annotate s. skýra (rit eða rithöfund); gera athugasemdir við ([on])
 annotation n. athugasemd, skýring
 annotator n. ritskýrandi
@@ -1309,8 +1309,8 @@ archdiocese n. erkibiskupsdæmi
 archduchess n. erkihertogafrú
 archduchy n. erkihertogadæmi
 archduke n. erkihertogi
-archaeologic l. fornleifafræði-; fornfræði-
-archaeological l. fornleifafræði-; fornfræði-
+archaeologic l. fornleifafræði-, fornleifafræðilegur; fornfræði-
+archaeological l. fornleifafræði-, fornleifafræðilegur; fornfræði-
 archaeologist n. fornleifafræðingur; fornfræðingur
 archaeology n. fornleifafræði; fornfræði
 archaism n. fornyrði
@@ -1780,8 +1780,8 @@ awfully ao. ógurlega, skelfilega
 awfulness n. ógurleiki; skelfilegheit
 aweather ao. á veðurborða, upp í vindinn
 awhile ao. stundarkorn
-awkward l. klaufalegur, klunnalegur, ófimur; afkáralegur; óþægilegur; ískyggilegur, varhugaverður
-awkwardness n. klunnaskapur; ófimleiki, óþægindi
+awkward l. klaufalegur, klunnalegur, ófimur; vandræðalegur; afkáralegur; óþægilegur; ískyggilegur, varhugaverður
+awkwardness n. klunnaskapur; ófimleiki; óþægindi, vandræðaleiki
 awl n. alur
 awning n. sóltjald, regntjald (yfir skipi)
 awry l. skáhallur, skakkur; ao. skáhalt, skakkt

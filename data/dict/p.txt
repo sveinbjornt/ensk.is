@@ -47,7 +47,7 @@ pailful n. full fata; [a ~ of water] fata af vatni; [the rain was falling by the
 paillasse n. hálmdýna
 pailette n. gljátala
 pain n. sársauki, verkur, stingur, kvöl, þjáning; sorg, harmur; [feel ~] verkja, kenna til; [forbid on ~ of death] banna að viðlagðri dauðarefsingu; s. láta kenna til; meiða, særa, hryggja
-painful n. kvalafullur, sár; erfiður; fyrirhafnarmikill
+painful n. kvalafullur, sársaukafullur, sár; erfiður; fyrirhafnarmikill
 painless l. sárindalaus, verkjarlaus; kvalalaus
 pains nft. ómak, fyrirhöfn; [~ (of childbirth)] jóðsótt, fæðingarhríðir; [to take ~] gera sér far (um), vanda sig
 painstaker n. vandvirkur (ástundunarsamur) maður
@@ -810,7 +810,7 @@ pettiness n. smæð, óveruleiki
 pettish l. duttlungafullur, geðvondur, firtinn
 pettishness n. geðvonska, firtni
 pettitoes nft. grísatær
-petty l. lítill, smár; óverulegur, ómerkilegur; [~ jury] tólf manna kviðdómur (sbr. %[jury]%); [~ larceny] smáþjófnaður
+petty l. lítill, smár; óverulegur, ómerkilegur; smásálarlegur; [~ jury] tólf manna kviðdómur (sbr. %[jury]%); [~ larceny] smáþjófnaður
 petulance n. önuglyndi; keskni, ónot
 petulant l. keskinn; önuglyndur, firtinn
 pew n. (lokaður) kirkjustóll; s. setja stól í kirkju
@@ -1124,7 +1124,7 @@ plainness n. sléttleiki, hreinskilni
 plainspoken l. bermæltur, berorður
 plain work n. léreftasaum; línsaum
 plaint n. kveinstafir, harmatölur; kæra
-plaintiff n. kærandi, sóknaraðili
+plaintiff n. kærandi, sóknaraðili, ákærandi
 plaintive l. raunalegur, sorglegur
 plait n. hárflétta; felling; s. flétta; fella
 plan n. flataruppdráttur; áform, ráð, ráðagerð; s. draga upp, gera uppdrátt að e-u; áforma, leggja á ráð um; haga (e-u) til

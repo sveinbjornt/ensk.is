@@ -308,7 +308,7 @@ term n. takmark; ákveðinn tími; frestur; tíð, tímabil; réttarhaldatíð; 
 termless l. takmarkalaus
 termagant l. ofsalegur; n. kvenvargur, skass
 terminable l. takmarkanlegur, endanlegur
-terminal l. ystur; endasettur; enda-; flugstöð, rútustöð; sem verður á ákveðnum tímum ([~ payments, ~ examinations])
+terminal l. ystur; endasettur; enda-; sem verður á ákveðnum tímum ([~ payments, ~ examinations]); n. útstöð; flugstöð, rútustöð
 terminate s. gera (binda) enda á, enda; ljúka við; hætta; takmarka; [~ in] enda á
 termination n. endir, endalok; ending (orðs); takmörkun
 terminational l. sem lýtur að endingum, endingar-

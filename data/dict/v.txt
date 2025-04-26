@@ -133,14 +133,14 @@ venal l. sem er til sölu, falur; mútuþægur; sem lýtur að æðum; æða- ([
 venality n. mútuþægni
 vend s. selja (í smásölu); breiða út (skoðanir)
 vendee n. kaupandi
-vender n. seljandi
-vendor n. seljandi
+vender n. seljandi, söluaðili
+vendor n. seljandi, söluaðili
 vendible l. seljanlegur
 vendition n. sala
-vendetta n. blóðhefnd
-veneer s. spónleggja; n. spónn; yfirborð
+vendetta n. blóðhefnd, ættarvíg
+veneer n. yfirborð; spónn; s. spónleggja
 veneering n. spónlagning
-venerable l. virðulegur; lotningarverður
+venerable l. virðulegur (vegna aldurs); æruverðugur; lotningarverður
 venerate s. bera lotningu fyrir, göfga
 veneration n. lotning; göfgun
 venerator n. dýrkandi
@@ -413,7 +413,7 @@ vivify s. lífga, fjörgá
 viviparous l. sem fæðir lifandi unga
 vivisect s. kvikskera, skera upp lifandi dýr
 vivisection n. kvikskurður, uppskurður lifandi dýra
-vixen n. tófa; kvenskass
+vixen n. tófa, tæfa, refalæða; kvenskass; tálkvendi ()
 viz ao. nefnilega; vanalega lesið [namely] (stytt. úr latínu, [videlicet])
 vizier n. vesír, tyrkneskur ráðgjafi
 vocable n. orð

@@ -1560,7 +1560,7 @@ snuffbox n. neftóbaksdós
 snuffy l. sem lyktar af neftóbaki; ataður í neftóbaki; önugur
 snuffle s. vera nefmæltur
 snug l. sem er í skjóli; þægilegur, notalegur; hlýr; [a ~ income] dágóðar tekjur; s. liggja fast upp að ([a child ~s to its mother])
-snuggle s. búa notalega um (sig), koma sér notalega fyrir
+snuggle s. búa notalega um (sig), koma sér notalega fyrir, hjúfra sig
 so ao. svo, þannig; eins; þess vegna; st. svo framarlega sem, ef; [I believe ~] ég held það; [the more ~ as] það því fremur sem
 soak s. leggja í bleyti; gegnbleyta; liggja í bleyti; vera rennvotur; súpa á; [water ~s into the earth] sígur ofan í jörðina; n. bleyti
 soaking n. [to get a ~] verða gagndrepa
@@ -1838,7 +1838,7 @@ spectre n. vofa, draugur
 spectroscope n. litsjá, ljóskönnuður
 spectrum n. róf; litróf, ljósband, ljósbrotslitur; [~ analysis] litrófskönnun
 specular l. spegilfagur, spegilsléttur
-speculate s. hugsa, brjóta heilann (um [upon, as to]); kaupa vörur í von um verðhækkun og ábatasama sölu ([~ in stocks])
+speculate s. hugsa, brjóta heilann (um [upon, as to]); braska, kaupa vörur í von um verðhækkun og ábatasama sölu ([~ in stocks])
 speculation n. heilabrot, umhugsun; gróðafyrirtæki; gróðabrall
 speculative l. hugsandi; hugspekilegur; gerður í gróðaskyni ([~ enterprise, ~ investment])
 speculator n. hugspekingur; gróðabrallsmaður, braskari
@@ -2598,7 +2598,7 @@ stupefaction n. sljóleiki, sinnuleysi
 stupefy s. sljóvga, deyfa; gera sinnulausan
 stupefied l. agndofa, forviða; sljór, ringlaður ([~ with drink, grief])
 stupendous l. ógurlegur, afskaplegur ([a ~ error])
-stupid l. skilningsdaufur, heimskur; bjánalegur; sinnulaus, sljór
+stupid l. skilningsdaufur, heimskur, vitlaus; bjánalegur, heimskulegur; sinnulaus, sljór
 stupidity n. heimska; sinnuleysi, sljóleiki
 stupor n. tilfinningarleysi ([~ of a limb]); sljóleiki, doði
 sturdiness n. styrkleiki; harka; ótrauðleiki
@@ -3007,7 +3007,7 @@ swagbelly n. hengimagi
 swagger s. láta reigingslega; stæra sig; n. reigingur; stærilæti; dramb
 swaggerer n. gortari, montari, grobbari; stærilætislegur maður
 swain n. sveinn, yngismaður; sveitamaður; elskhugi, biðill
-swallow s. svelgja, gleypa ([~ up]); renna niður ([~ down]); n. svala (fugl); kok; teigur ([take a ~ of water])
+swallow s. svelgja, kyngja, gleypa ([~ up]); renna niður ([~ down]); n. svala (fugl); kok; teigur ([take a ~ of water])
 swallowtail n. svölustél; klauffáni
 swamp n. fen, mýri; s. sökkva (e-u); fylla (með vatni); kafsigla, sigla (skip) í kaf; fyllast, sökkva; [~ed with] á kafi í e-u; [~ed with work] önnum kafinn
 swampy l. mýrlendur ([a tract of ~ land])
