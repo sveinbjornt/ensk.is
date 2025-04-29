@@ -3,4 +3,4 @@ tokenizer>=3.4.5
 nltk>=3.9.1
 pytest>=8.3.5
 uvicorn>=0.34.0
-pypdf
+pypdf>=5.4.0

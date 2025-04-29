@@ -55,6 +55,8 @@ EN_WORDS_WHITELIST = read_wordlist("data/en.whitelist.txt")
 EN_WORDS_LIST.extend(EN_WORDS_WHITELIST)
 
 CATEGORIES = read_wordlist("data/catwords.txt")
+CATEGORIES_NOPERIOD = [c.rstrip(".") for c in CATEGORIES]
+
 
 ALL_DICT_WORDS = read_all_words()
 
@@ -212,7 +214,7 @@ def check_icelandic_words(line: str, pn: str, ln: int):
             continue
 
         txt = t.txt
-        if txt in CATEGORIES:
+        if txt in CATEGORIES or txt in CATEGORIES_NOPERIOD:
             continue
         if txt in IS_WORDS_WHITELIST:
             continue
@@ -267,7 +269,6 @@ def main():
             check_bracket_use(line, letter, ln)
             check_intradict_refs(line, letter, ln)
             # check_icelandic_words(line, letter, ln)
-            # check_english_words(line, letter, ln)
             # check_enword_def(line, letter, ln)
 
     check_missing()
