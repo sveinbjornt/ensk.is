@@ -1112,14 +1112,14 @@ Frenchman n. franskur maður
 frenchify s. sníða eftir Frökkum, gera franskt
 frenzied l. óður, vitskertur
 frenzy n. æði
-frequency n. tíðleiki
+frequency n. tíðni; tíðleiki
 frequent l. tíður, iðulegur; s. koma oft (venja komur sínar) á (e-n stað)
 frequentation n. iðuleg heimsókn, tíðar komur
 frequenter n. tíður gestur
-frequently ao. iðulega, tíðum, oft
+frequently ao. oft, iðulega
 fresco n. málverk, sem er gert á vott veggjalímið, kalkmálverk ([~ painting]); [to paint in ~] mála á vott veggjalímið
 fresh l. ferskur, nýr; ósaltur; svalur; snarpur (um vind); blómlegur; [~ supplies] nýjar birgðir; ao. ný-
-freshen s. hressa, endurnýja; rifja upp ([it would ~ up my Italian]); losa um, slaka á (kaðli); afselta, afvatna; verða ósaltur; hvessa (umvind)
+freshen s. hressa, endurnýja; rifja upp ([it would ~ up my Italian]); losa um, slaka á (kaðli); afselta, afvatna; verða ósaltur; hvessa (um vind)
 freshet n. flóð, vöxtur (í á); vatnagangur
 freshly ao. fersklega; nýlega, ný-; snarplega ([it has been blowing ~])
 freshman n. nýr háskólastúdent; nýr maður
@@ -1130,19 +1130,19 @@ fretful l. geðstirður, önugur; úfinn (um sjó); byljóttur (um vind)
 fretted l. önugur; skrautskorinn
 fretwork n. skrautskurður
 friable l. sem molnar auðveldlega, myljanlegur
-friar n. munkur, (einkum) förumunkur
+friar n. munkur, förumunkur
 friarly l. líkur munkum
 friary n. munkaklaustur, munkaregla
 fribble n. hégómi; hégómamaður, montari; s. fara með hégóma; fitla (við e-ð [with]); [~ away] fleygja burt ([~ away his popularity])
 fribbling l. hégómlegur
 fricassee n. e.k. kjötréttur
-friction n. núningur
+friction n. núningur, núningskraftur; ágreiningur, átök
 frictional l. núnings- ([~ electricity])
-Friday n. föstudagur; [Good ~] föstudagurinn langi, langi frjádagur
+Friday n. föstudagur; [Good ~] föstudagurinn langi
 friend n. vinur; vinkona; [to be ~s with] vera vinur e-s; [to make ~s] sættast
 friendless l. vinalaus
 friendliness n. vingjarnleiki, vinsemd; góðsemi
-friendly l. vinsamlegur, vingjarnlegur, vinveittur (e-m [to])
+friendly l. vingjarnlegur, vinsamlegur, vinveittur (e-m [to])
 friendship n. vinátta, vinfengi
 frieze n. múrbrún, loftrönd; e.k. vaðmál
 frigate n. freigáta (herskip)
@@ -1150,19 +1150,19 @@ frigate bird n. mjög hraðfleygur fugl
 fright n. ótti, hræðsla
 frighten s. hræða, skelfa, fæla
 frightful l. hræðilegur, skelfilegur
-frigid l. kaldur; fjörlaus; [the ~ zone] kuldabeltið
-frigidity n. kuldi, kaldlyndi; fjörleysi, deyfð
+frigid l. kaldur; fjörlaus; napur; [the ~ zone] kuldabeltið; kynkaldur (um konur)
+frigidity n. kuldi, kaldlyndi; fjörleysi, deyfð; kynkuldi (um konur)
 frigorific l. sem framleiðir kulda, kælandi
 frill n. fellingalín framan á skyrtubrjósti; s. skreyta með línfellingum
-fringe n. kögur; s. sauma kögur á
+fringe n. jaðar; kögur; s. sauma kögur á
 fringy l. prýddur kögri ([a ~ cap]); kögur-
 frippery n. niðurlagsföt; skran; prjál; l. fánýtur, auðvirðilegur
-frisk s. hoppa, stökkva, leika sér ([~ off, about]); n. hopp; gáski
+frisk s. hoppa, stökkva, leika sér ([~ off, about]); leita á e-m; n. hopp; gáski
 frisky l. fjörugur, gáskafullur
 frith n. fjörður
 fritter n. pönnukaka; biti, skífa, sneið; s. bita (mola) í sundur; [~ away] sóa, sólunda ([~ away time])
-frivolity n. hégómi; léttúð
-frivolous l. hégómlegur, ómerkilegur; léttúðugur
+frivolity n. léttúð; hégómi
+frivolous l. léttúðugur; hégómlegur, ómerkilegur
 friz n. hrokkinn hárlokkur
 frizz n. hrokkinn hárlokkur
 frizzle s. gera liði á hár, liða (hár)
@@ -1179,8 +1179,8 @@ frondescence n. laufkoma, laufspretta
 front n. enni; framhlið; fylkingarbrjóst; lausahár; brjóststykki í skyrtu ([shirt-~]); laust línbrjóst; [in ~] að framanverðu; [in ~ of] fyrir framan; [to come to the ~] koma í ljós; s. standa andspænis (e-m); snúa út að ([~ on, upon, to, towards]); prýða (framhliðina á); standa fremstur; bjóða byrgin ([~ death])
 frontage n. framhlið
 frontal l. ennis-; framhliðar-
-front door n. götudyr, aðaldyr
-frontier n. landamæri
+front door n. útidyr, götudyr, aðaldyr
+frontier n. landamæri; ytri mörk byggðar, endimörk
 frontispiece n. framhlið, framgafl; mynd á móti titilblaði
 frontless l. ósvífinn, óskammfeilinn
 frontlet n. ennisband
@@ -1189,7 +1189,7 @@ frostbite n. kal, frostbólga
 frostbitten l. kalinn, frostbólginn
 frosted l. frosinn; hrímgaður
 frostwork n. frostrósir
-frosty l. frost-; frostkaldur; hélaður; hélugrár (um hár)
+frosty l. frost-; frostkaldur; hélaður; hélugrár (um hár); [~ reception] kuldalegar viðtökur
 froth n. froða; s. freyða, froðufella; láta freyða; þekja með froðu
 frothy l. froðukenndur; efnislítill
 frounce s. setja liði á hár
@@ -1230,7 +1230,7 @@ fudge n. e.k. karamella; bull, lygasaga; s. klúðra, hroða saman, gera e-ð il
 fuel n. eldsneyti, eldiviður; s. bera eldsneyti að, birgja að eldsneyti; glæða
 fuff n. gustur, blástur; vonska; [get into ~] verða reiður; s. blása
 fugacious l. hverfull; roksamur
-fugaciousness n. roksemi
+fugaciousness n. hverfulleiki; roksemi
 fugacity n. hverfulleiki, óstöðugleiki
 fugitive l. hverfull, óstöðugur; sem upplitast fljótt (um liti); flýjandi; n. strokumaður, flóttamaður; útlagi
 fugleman n. hermaður sem er fremstur í fylkingu
@@ -1325,8 +1325,8 @@ furtively ao. leynilega, í laumi
 furuncle n. kýli
 furuncular l. kýlis-
 fury n. æði, ofsi; refsinorn, kvenskass ([female ~])
-furze n. jurtarheiti
-furzy l. vaxinn furze; daufur, óskýr
+furze n. þyrnirunni af ættkvíslinni [Ulex]
+furzy l. vaxinn þyrnirunna (sjá %[furze]%); daufur, óskýr
 fuse s. bræða; steypa (sjóða) saman; vaxa saman; bráðna; n. tundurpípa (í sprengikúlu), sprengiþráður
 fusee n. sjá %[fuse]%; spinnill (í úri); kveikispýta; létt byssa ([fusil])
 fusibility n. bræðanleiki
@@ -1351,5 +1351,5 @@ futilize s. gera fánýtt
 future l. ókominn, óorðinn; [a ~ state, life] annað líf; n. framtíð; ókomin tíð; [for the ~] framvegis
 futurity n. ókomin tíð, ókomnir tímar ([to inquire into the ~]); óorðinn viðburður; [in ~] héðan í frá
 fuze s. bræða; steypa (sjóða) saman; vaxa saman; bráðna; n. tundurpípa (í sprengikúlu), sprengiþráður
-fuzz s. tæjast (eða tæja) í sundur ([~ out]); n. hý, hýjungur
-fuzzy l. hýjugur, úfinn, trosnaður
+fuzz n. hý, hýjungur; dúnn; [the ~] löggan (óforml.); s. tæjast (eða tæja) í sundur ([~ out])
+fuzzy l. hýjugur, úfinn, trosnaður; loðinn; óskýr, óljós

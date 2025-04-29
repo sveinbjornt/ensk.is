@@ -638,7 +638,7 @@ merganser n. stóra toppönd, gulönd
 merge s. sökkva, láta e-ð hverfa í (renna saman við) annað meira; hverfa, renna saman við, breytast (í [in, into])
 meridian n. hádegi; hádegisbaugur; hæfi ([calculated for the ~ of]); [in the ~ of his glory] þegar frægð hans var sem mest; l. hádegis-; æðstur, mestur
 meridional l. hádegisbaugs-; suðlægur; n. Suður-Frakki
-merino n. merinósauður; merínóull ([~ wool])
+merino n. merínósauður; merínóull ([~ wool])
 merit n. tilverknaður, verðleiki ([promotion by ~]); kostur, ágæti; laun; [a work of great ~] verk, sem mikið er í varinn; [to discuss, judge (a proposal) on its ~s] ræða, dæma um kost og löst á e-u; [to make a ~ of] telja sér til gildis; [the ~s of the case] málavextir; s. vinna til, eiga skilið; [~ well of one] eiga gott skilið af e-m, eiga e-m gott upp að inna
 meritorious l. sem á gott skilið, góðra gjalda verður
 merle n. svartþröstur
@@ -1256,7 +1256,7 @@ mortifying l. auðmýkjandi, niðurlægjandi; rotnandi, spillandi; deyðandi, kr
 mortise n. nót (í borði); [~ chisel] sporjárn; s. festa saman; plægja saman (borð)
 mortuary l. greftrunar-, lík-; n. líkhús
 mosaic n. mósaík, litsteinamynd (mynd sem er gerð úr lituðum smásteinum eða glerbrotum)
-moselle n. moselvín
+moselle n. móselvín
 Moslem n. múslími, múhameðstrúarmaður (forn.); l. múslímskur; sjá %[Islam]%
 mosque n. moska (bænahús múslíma)
 mosquito n. moskítófluga, mýfluga

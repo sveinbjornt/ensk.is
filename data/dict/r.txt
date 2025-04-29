@@ -354,7 +354,7 @@ recollective l. minnugur (e-s [of])
 recommence s. byrja aftur
 recommencement n. ný byrjun
 recommend s. mæla með; lofa, hrósa; ráða til; ráðleggja
-recommendable l. meðmælingarverður, meðmælanlegur; lofsverður
+recommendable l. meðmælaverður, meðmælanlegur; lofsverður
 recommendation n. meðmæli, meðmæling
 recommendatory l. meðmælingar-, meðmæla- ([~ letter]); meðmælandi
 recompose s. setja aftur saman; stilla aftur ([~ the mind]); setja aftur (í varðhald); vísa (frumvarpi) aftur til nefndar; drýgja aftur

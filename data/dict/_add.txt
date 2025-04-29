@@ -327,12 +327,14 @@ unsophisticated l. ófágaður; lítt þróaður; fábrotinn
 zombify s. breyta í uppvakning (sjá %[zombie]%)
 gaoler n. fangavörður
 interface n. viðmót; tenging; snertipunktur tveggja fyrirbæra, þar sem tvö fyrirbæri mætast
-bromance n. brómans (óforml.), náið vinasamband tveggja karlmanna (samsett úr %[brother]% og %[romance]%)
+bromance n. brómantík (óforml.), náið vinasamband tveggja karlmanna (samsett úr %[brother]% og %[romance]%)
 selfie n. sjálfa, sjálfsmynd, ljósmynd sem e-r tekur af sjálfum sér
 paywall n. greiðslugátt, greiðsluveggur, greiðslumúr
 crowdsource s. lýðvirkja
 blockchain n. bálkakeðja
-roleplay n. hlutverkaleikur, spuni, spunaspil
+role-play n. hlutverkaleikur, spuni, spunaspil
+role-player n. hlutverkaleikjaspilari, spunaspilari
+role-playing n. það að spila hlutverkaleiki eða spunaspil
 teflon n. teflon (gerviefni)
 hovercraft n. svifnökkvi
 transistor n. smári (hálfleiðaratæki sem er grunneining í rökrásum tölva)
@@ -392,7 +394,7 @@ restructuring n. endurskipulagning
 restructure s. endurskipuleggja
 tugboat n. dráttarbátur
 Celt n. Kelti
-xenolith n. xenólít (grjóttegund)
+xenolith n. framandsteinn, hnyðlingur
 decanter n. karafla, borðflaska
 genetics nft. erfðafræði
 genetic l. erfðafræðilegur, erfðafræði-, erfða-; sem lýtur að tilurð e-s
@@ -871,7 +873,7 @@ Somalia n. Sómalía
 Somali l. sómalískur; n. Sómali
 Somalian l. sómalískur; n. Sómali
 South Africa n. Suður-Afríka
-South African l. suðurafrískur; n. Suður-Afríkani, Suður-Afríkumaður
+South African l. suðurafrískur; n. Suður-Afríkumaður
 South Korea n. Suður-Kórea
 South Korean l. suðurkóreskur; n. Suður-Kóreumaður
 Sri Lanka n. Srí Lanka
@@ -1745,7 +1747,7 @@ neurotransmitter n. taugaboðefni
 dominator n. valdhafi; yfirdrottnari; sjá %[dominate]%
 yeast infection n. sveppasýking
 clusterfuck n. (óforml.) klasaklúður, stórkostlegt klúður
-Calliope n. Kallíópa (grísk listagyðja); [calliope] n. gufuknúið orgel
+Calliope n. Kallíópa (grísk listagyðja); [calliope] gufuknúið orgel
 melodica n. melódíka, blásturspíanó (e.k. blástursknúið hljómborð)
 mindfulness n. núvitund; gjörhygli, gerhygli
 racialism n. kynþáttahyggja
@@ -2719,7 +2721,7 @@ osmosis n. osmósa, himnuflæði, osmósuflæði, gegnflæði
 epistemic l. þekkingar-, þekkingarlegur, þekkingarfræðilegur
 insofar ao. að því leyti, að því marki
 unfashionable l. ekki í tísku
-Platonist n. platónisti (fylgismaður heimspekikenninga Platóns)
+Platonist n. platonisti (fylgismaður heimspekikenninga Platons)
 meagerness n. sjá %[meagreness]%
 peacefulness n. friðsemi
 futurologist n. framtíðarfræðingur
@@ -2945,7 +2947,7 @@ mystique n. dulúð
 petit bourgeois n. (úr frönsku) smáborgari; l. smáborgaralegur
 turbine n. hverfill, túrbína
 forklift n. lyftari
-Newfoundland n. Nýfundnaland (eyja út fyrir ströndu Norður-Ameríku)
+Newfoundland n. Nýfundnaland
 unexplained l. óútskýrður, óútlistaður (sjá %[explain]%)
 geographically ao. landfræðilega
 snowmobile n. vélsleði, snjósleði
@@ -3618,10 +3620,10 @@ institutionalized l. lagður inn á stofnun; stofnanavæddur
 institutionalization n. stofnanavæðing; innlögn á stofnun
 ouroboros n. snákur, dreki eða ormur sem er að gleypa sjálfan sig
 ouroborosian l. eins og snákur að gleypa sjálfan sig (sjá %[ouroboros]%)
-Plato n. Platón (forngrískur heimspekingur)
-Neoplatonism n. nýplatónismi (heimspekistefna frá 3. öld e.Kr.)
-Neoplatonist n. nýplatónisti, fylgismaður nýplatónisma (sjá %[Neoplatonism]%)
-Neoplatonic l. nýplatónskur (sjá %[Neoplatonism]%)
+Plato n. Platon (forngrískur heimspekingur)
+Neoplatonism n. nýplatonismi (heimspekistefna frá 3. öld e.Kr.)
+Neoplatonist n. nýplatonisti, fylgismaður nýplatonisma (sjá %[Neoplatonism]%)
+Neoplatonic l. nýplatonskur (sjá %[Neoplatonism]%)
 Helios n. Helíos (forngrískt sólgoð)
 probabilistic l. líkindafræðilegur
 seacoast n. sjávarströnd
@@ -5419,7 +5421,7 @@ prankster n. hrekkjalómur, hrekkjadólgur, hrekkjari
 voice-over n. talsetning
 voiceover n. sjá %[voice-over]%
 deerskin n. dádýraskinn
-crypto- fsk. dul-; leyndar-; dulinn, falinn, leyndur (sjá t.d. %[cryptography]%, %[cryptonym]%)
+crypto- fsk. dul-; leyndar-; dulinn, falinn, leyndur (sjá t.d. %[cryptography]%, %[cryptonym]%); stytt. á %[cryptocurrency]%
 Nestorianism n. nestoríanismi (guðfræðikenning kennd við patríarkann Nestoríos)
 Nestorian l. nestorískur (sjá %[Nestorianism]%)
 nautilus n. perlusnekkja, kuggur
@@ -5777,6 +5779,7 @@ Raeto-Romance n. retórómanska (tungumál sem talað er í Sviss)
 Romansh n. retórómanska (tungumál talað í Sviss)
 semiotic l. táknfræðilegur
 semiotics nft. táknfræði
+semiotician n. táknfræðingur
 headband n. ennisband
 octet n. áttund; átta bita bæti
 sneakers nft. strigaskór, íþróttaskór
@@ -6431,7 +6434,7 @@ UN n. [the UN] Sameinuðu þjóðirnar (stytt. á [United Nations])
 United Nations nft. Sameinuðu þjóðirnar
 POW n. stríðsfangi (stytt. á [prisoner of war])
 arteriosclerosis n. slagæðaherðing
-Crimea n. Krímea, Krímskagi
+Crimea n. Krímskagi
 unintentionally ao. óviljandi, ekki af ásettu ráði, án tilætlunar
 well-educated l. vel menntaður, vel fræddur; vel upp alinn, vel fóstraður
 organized crime n. skipulögð glæpastarfsemi
@@ -6555,7 +6558,7 @@ prosecutorial l. saksóknara-, saksóknar-
 yesteryear n. síðasta ár; fyrri ár, liðin ár
 alumnus n. fyrrum nemandi, útskrifaður nemandi
 alumni nft. sjá %[alumnus]%
-papaya n. papaja, papajaaldin, sólaldin
+papaya n. papaja, papaja-aldin, sólaldin
 hydrant n. vatnshani; brunahani ([fire ~])
 purgatorial l. hreinsandi; hreinsunarelds-
 farmhand n. vinnumaður á bóndabæ
@@ -6834,7 +6837,7 @@ shrubland n. kjarrlendi
 rhinitis n. nefkvef
 Lombard n. Langbarði (maður af þeim germanska þjóðflokki)
 POTUS n. Bandaríkjaforseti (stytt. á [President of the United States])
-Mohican n. móhíkani (frumbyggi Norður-Ameríku)
+Mohican n. Móhíkani (meðlimur ættbálks frumbyggja Norður-Ameríku)
 tripolar l. þrískauta, þrípóla
 immoderately ao. óhóflega, ofsalega, á öfgakenndan hátt
 amniotic l. líknarbelgs-; [~ fluid] legvatn, belgvatn
@@ -6987,7 +6990,7 @@ pornocracy n. skækjuveldi, vændisveldi; páfatíð á 10. öld
 whinge s. kvarta, væla; n. væl
 ascetically ao. meinlætislega, af meinlæti
 conjugate s. beygja, fallbeygja (orð)
-conjugated l. beygjður, fallbeygður (um orð)
+conjugated l. beygður, fallbeygður (um orð)
 riverboat n. fljótabátur
 pallbearer n. kistuberi, líkmaður
 disenthrone s. steypa af stóli
@@ -7224,7 +7227,7 @@ instal s. sjá %[install]%
 reactor n. kjarnaofn; kjarnakljúfur ([nuclear ~])
 civil war n. borgarastríð
 trouser l. buxna- ([~ pockets]), yfirleitt í ft. %[trousers]%
-impala n. impalahjörtur, impala (meðalstór antílópa, afrískt spendýr)
+impala n. impalahjörtur (meðalstór antílópa)
 hyrax n. hnubbi
 hemochromatosis n. járngeymdarkvilli
 board game n. borðspil
@@ -7262,3 +7265,19 @@ ma'am n. frú (stytt. á %[Madam]%)
 vapor n. sjá %[vapour]%
 mortician n. útfararstjóri (BNA)
 vibrato n. víbrató; [play ~] trilla (spila hraða endurtekningu tveggja tóna í tónlist)
+sundae n. rjómaís með sósu og/eða öðru meðlæti
+chef n. (yfir)kokkur, (yfir)matsveinn
+unadulterated l. ekki útþynntur; ósvikinn
+foxglove n. fingurbjargarblóm
+cassoulet n. frönsk kjöt- og baunakássa
+sesquipedalian l. margkvæður; sem notar löng orð
+bioluminescence n. lífljómun, lífljómi
+chrysalis n. púpa
+unsmiling l. óbrosandi, alvörugefinn, alvarlegur á svip
+quintet n. kvintett (fimm manna hljómsveit)
+sextet n. sextett (sex manna hljómsveit)
+secondment n. tímabundin tilfærsla í starfi; fyrsta undirtekt við tillögu
+ataxic l. óreglulegur, ósamhæfður, ósamstilltur; hreyfiglapa-
+drawstring n. tygill
+gamer n. tölvuleikjaspilari, tölvuleikjamaður
+gorse n. þyrnirunni af ættkvíslinni [Ulex]

@@ -538,8 +538,8 @@ chaffy l. fullur af ögnum; einskisverður, ónýtur
 chafingdish n. glóðarker
 chagrin n. gremja, skapraun; s. skaprauna
 chain n. keðja, festi; [~s] fjötrar; s. fjötra, binda með festi
-chain-armour n. hringabrynja
-chain-bridge n. hengibrú
+chain armour n. hringabrynja
+chain bridge n. hengibrú
 chair n. stóll; dómarasæti; kennaraembætti (við háskóla); forsetatign; forseti ([address the ~]); forsæti; [be put into (called to) the ~] vera kosinn fundarstjóri; [appeal to the ~] skjóta máli sínu til fundarstjóra; [take a ~] setjast; [take the ~] setjast í forsetastólinn; [be in the ~] vera fundarstjóri; s. setja á stól; bera á (gull)stól
 chairman n. fundarstjóri; forseti, formaður
 chairmanship n. fundarstjórastarf; forsæti, formennska
@@ -620,7 +620,7 @@ charlatanism n. skottulækningar; svik
 charlatanry n. skottulækningar; svik
 Charles's Wain n. Karlsvagn (stjörnumerki)
 charlock n. akurkál
-charm n. töfrar; töfragripur, verndargripur; perónutöfrar, sjarmi; unaður, fegurð; s. töfra, heilla; gera frá sér numinn; sefa
+charm n. töfrar; töfragripur, verndargripur; persónutöfrar, sjarmi; unaður, fegurð; s. töfra, heilla; gera frá sér numinn; sefa
 charmer n. töfrari; töfrakona; sjarmör
 charming l. heillandi, sjarmerandi, unaðslegur, yndislegur
 charnel-house n. beinahús (í kirkjugarði)
@@ -662,7 +662,7 @@ cheat s. svíkja, hafa af; gabba, ginna, leika á; eyða (tímanum); [~ at play]
 cheater n. svikari
 cheatery n. svik, fjárprettir
 check n. skák; stöðvun. hindrun; mótstaða; hnekkir, tjón; aðhald; viðsett merki; miði, útgöngumiði; bankaávísun (sbr. %[cheque]%); kvittunarmiði; [keep in ~] halda e-m í skefjum; uh. skák; s. stöðva, hindra, hnekkja; stilla; prófa vandlega; halda í skefjum; segja skák, skáka
-checkbook n. ávisanabók
+checkbook n. ávísanabók
 checked l. köflóttur
 checker s. sjá %[chequer]%
 checkmate n. mát (í skák); s. máta; sigra
@@ -919,7 +919,7 @@ citron n. sítróna (aldin)
 city n. borg, bær, staður
 civet n. desdýr, þefköttur ([~ cat]); moskus
 civic l. borgmannlegur, borgara-; borgaralegur, borgara-, borgar-
-civil l. borgara- ([~ war, ~ rights]); borgaralegur, þegnlegur; kurteis(legur); einka-; [Civil List] hirðeyrir; [Civil Service] embættisþjónusta; [~ servant] embættismaður, ríkisstarfsmður, starfsmaður ríkisins
+civil l. borgara- ([~ war, ~ rights]); borgaralegur, þegnlegur; kurteis(legur); einka-; [Civil List] hirðeyrir; [Civil Service] embættisþjónusta; [~ servant] embættismaður, ríkisstarfsmaður, starfsmaður ríkisins
 civilian n. óbreyttur borgari, maður sem er ekki í herþjónustu; lögfræðingur; kennari í lögum; embættismaður
 civility n. kurteisi
 civilization n. siðmenning, menning, menntun; heimsmenning
@@ -1220,7 +1220,7 @@ coffeehouse n. kaffihús, kaffistofa, kaffisöluhús
 coffee mill n. kaffikvörn
 coffeepot n. kaffikanna
 coffeeroom n. kaffistofa; matsalur (á hóteli)
-coffer n. peningaskrínft. fjársjóður, fjárhirsla
+coffer n. peningaskrín; nft. fjársjóður, fjárhirsla
 coffin n. líkkista; s. kistuleggja ([the body was ~ed])
 cog n. hjóltönn; s. setja tennur í hjól; svíkja (í teningskasti)
 cogency n. áhrif; sannfæringarafl
@@ -1788,7 +1788,7 @@ conjointly l. sameiginlega, í sameiningu
 conjugal l. hjúskaparlegur, hjúskapar- ([~ life])
 conjugation n. sagnbeyging ([verbs of the strong ~])
 conjunction n. samsetning
-conjunctive l. samtengjanlegur; [~ mood] viðtengingarháttur (sbr. %[subjunctive]% mood)
+conjunctive l. samtengjanlegur; [~ mood] viðtengingarháttur
 conjuncture n. samrás viðburða, atvik, ástand ([~ of affairs])
 conjuration n. særing
 conjure s. sárbæna; særa (anda); vekja upp; galdra

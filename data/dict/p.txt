@@ -895,7 +895,7 @@ phrase n. talsháttur, orðatiltæki, frasi; orðfæri; orðin tóm ([we have ha
 phraseology n. orðaval, orðfæri, stíll; mál
 phrenetic l. ofsafullur, ofsafenginn
 phrenitis n. heilabólga
-phrenology n. höfuðlagsfræði, frenólógía, heilafræði (um hlutverk hinna einstöku parta heilans)
+phrenology n. höfuðlagsfræði, heilafræði (um hlutverk hinna einstöku parta heilans)
 phthisic n. lungnatæring, brjóstveiki
 phthisical l. sjúkur af lungnatæringu, brjóstveikur
 phthisis n. lungnatæring
@@ -1166,8 +1166,8 @@ platina n. platína, hvítagull
 platinum n. platína, hvítagull
 platitude n. grunnhyggnisleg athugasemd
 platitudinous l. bragðlaus; daufur, grunnhyggnislegur
-Platonic l. platónskur (eftir heimspekingnum Platón); [~ love] andleg (fýsnarlaus) ást
-Platonism n. platónismi (heimspekikenning Platóns)
+Platonic l. platonskur (eftir heimspekingnum Platon); [~ love] andleg (fýsnarlaus) ást
+Platonism n. platonismi (heimspekikenning Platons)
 platoon n. lítill fótgönguliðsflokkur; hópur; skothríð
 platter n. grunnt trog; fléttari
 plaudit n. lófaklapp
@@ -1628,7 +1628,7 @@ practical l. praktískur; verklegur; haganlegur; gagnlegur; hagsýnn
 practical joke n. áreitni, hrekkjabragð
 practicality n. gagnsemi; hagsýni
 practically ao. verklega
-practice n. vani; föst venja; æfing ([~ makes perfect]); leikur; notkun; framkvæmd; ([in ~]); reynsla; reynd; læknisstarfsemi ([he has a large ~]); lögfræðisstarfsemi; bragð; aðferð; [out of ~] orðinn óvanur
+practice n. vani; föst venja; æfing ([~ makes perfect]); leikur; notkun; framkvæmd; ([in ~]); reynsla; reynd; læknisstarfsemi ([he has a large ~]); lögfræðistarfsemi; bragð; aðferð; [out of ~] orðinn óvanur
 practician n. framkvæmdarmaður, starfsmaður
 practise s. iðka; stunda; framkvæma; beita, viðhafa; temja sér; fremja; beita brögðum; æfa sig ([~ on piano]); gegna störfum; [~ as a lawyer] gegna málflutningsstörfum; [~ physic] fást við lækningar; [~ on his credulity] nota sér trúgirni hans
 practitioner n. starfsmaður, iðkandi; læknir ([~ of medicine]); málaflutningsmaður ([~ of law])
@@ -2434,7 +2434,7 @@ puncture s. stinga (gat) á; n. stunga
 pundit n. indverskur Bramíni, indverskur heimspekingur; (sérfróður) álitsgjafi; meintur sérfræðingur
 pungency n. beiskja, remma; sárleiki
 pungent l. beiskur, ramur; stingandi; sár; napur, harður (um ræðu)
-Punic l. púnverskur (fra Karþagó til forna)
+Punic l. púnverskur (frá Karþagó til forna)
 punish s. refsa, hegna
 punishable l. hegningarverður; [an offence ~ by fine or imprisonment] brot sem sektir eða fangelsi liggur við
 punishment n. refsing, hegning

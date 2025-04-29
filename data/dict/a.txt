@@ -506,7 +506,7 @@ affability n. vingjarnleiki, viðfelldni
 affable l. vingjarnlegur, viðfelldinn, viðkunnanlegur
 affably ao. vingjarnlega, viðkunnanlega
 affair n. hlutur; mál, málefni; starf; framhjáhald ([she's having an ~]); bardagi; [~ of honour] einvígi; [quite a different ~] allt annað mál, allt öðru máli að gegna
-affect s. fá á, hafa áhrif á; sækjast eftir; gera sér upp; látast, þýkjast ([she ~ed to be satisfied])
+affect s. fá á, hafa áhrif á; sækjast eftir; gera sér upp; látast, þykjast ([she ~ed to be satisfied])
 affectation n. tilgerð, uppgerð, þykjusta
 affected l. tilgerðarlegur; uppgerður; -viljaður ([well-/ill- ~]); sýktur, sjúkur (af [with])
 affectedness n. tilgerð, uppgerð, þykjusta
@@ -1147,7 +1147,7 @@ aperient l. hægðir aukandi; n. hægðalyf
 aperitive l. hægðir aukandi; n. hægðalyf
 aperture n. op, rifa; ljósop (á myndavél)
 apery n. eftirhermur
-apex n. toppur, tindur
+apex n. toppur, tindur; [~ predator] æðsta rándýr
 aphelion n. sólfirð
 aphis n. blaðlús (ft. [aphides])
 aphonia n. raddmissir

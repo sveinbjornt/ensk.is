@@ -60,7 +60,7 @@ vampire n. vampíra, blóðsuga; [~ bat] leðurblökutegund
 van n. vagn, farangursvagn, flutningavagn (stytt. á [caravan]); framlið, forvarðalið (sjá %[vanguard]%)
 vandalism n. skemmdir og eyðing (listaverka og bóka að sið Vandala)
 vane n. veðurviti; þanir á fjöður, mylnuvængur
-vanguard n. forvarðalið, fylkingarbroddur
+vanguard n. framvarðarsveit, forvarðalið, fylkingarbroddur
 vanish s. hverfa
 vanity n. hégómi, hégómagirnd ([the vanities of this world])
 vanquish s. sigrast á
@@ -347,7 +347,7 @@ violescent l. fjóluleitur
 violet n. fjóla; l. fjólublár
 violin n. fiðla, gígja
 violinist n. fiðluleikari
-violoncello n. víolonselló, knéfiðla
+violoncello n. selló
 viper n. naðra, höggormur
 viperous l. eitraður; nöðrukenndur
 virago n. kvenskörungur; kvenvargur
@@ -458,16 +458,16 @@ voluptuary n. munaðarlífsmaður
 voluptuous l. lostasamur, nautnasamur; lokkandi; munuðlífur
 voluptuousness n. lostasemi, nautnasemi
 volute n. flúr (á súluhöfði)
-vomit s. selja upp; kasta upp; n. uppsala, spýja; uppsölulyf
+vomit s. æla, gubba, kasta upp, selja upp; n. æla, gubb, uppsala, spýja
 vomiting n. uppsala; spýja
 vomitive l. uppsölu-; n. uppsölulyf
 vomitory l. uppsölu-; n. uppsölulyf
 vomiturition n. uppsölutilraunir
-voracious l. gráðugur
-voraciousness n. græðgi
+voracious l. gráðugur; óseðjandi
+voraciousness n. græðgi; óseðjanleiki
 voracity n. græðgi
 vortex n. hringiða; hvirfilbylur; ft. [vortices]
-vortiginous l. hringiðandi ([~ whirl])
+vortiginous l. hringiðandi, eins og hringiða ([~ whirl])
 votaress n. kvenmaður sem helgar sig e-u starfi eða e-i dýrkun
 votary n. dýrkandi; maður sem helgar sig e-u starfi
 vote n. atkvæði; atkvæðagreiðsla; fjárveiting; [~ of confidence] traustsyfirlýsing; [~ of thanks] þakkarávarp; s. greiða atkvæði ([for, against] með, móti e-u), kjósa; samþykkja; veita (með atkvæðagreiðslu)
@@ -485,7 +485,7 @@ vulgar l. algengur; almúga- ([~ tongue]); dónalegur, grófur ([~ expressions, 
 vulgarism n. almúgalegt (eða dónalegt) orðatiltæki
 vulgarity n. dónaskapur
 vulgarize s. gera (e-ð) algengt (gróft, ruddalegt); breiða út meðal almennings
-vulnerability n. særanleiki, veikleiki; viðkvæmni
+vulnerability n. særanleiki, veikleiki; varnarleysi; viðkvæmni
 vulnerable l. særanlegur ([Achilles was ~ in his heel]); viðkvæmur
 vulnerary l. sem græðir sár
 vulpicide n. refabani

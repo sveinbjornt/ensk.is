@@ -421,7 +421,7 @@ empirical l. grundvallaður á reynslu
 empiricism n. raunhyggja; reynsluþekking; skottulækningar
 employ n. atvinna; starf; þjónusta ([in the ~ of]); [out of ~] atvinnulaus; s. nota e-ð (til e-s [in, for]); láta (e-n) starfa, veita (e-m) vinnu; starfsetja
 employable l. notanlegur, notandi; ráðanlegur til vinnu
-employee n. starfsmaður; [government ~] ríkisstarfsmður, starfsmaður ríkisins
+employee n. starfsmaður; [government ~] ríkisstarfsmaður, starfsmaður ríkisins
 employer n. vinnuveitandi; húsbóndi
 employment n. notkun; starf; atvinna
 empoison s. eitra, blanda eitri, láta eitur í (mat, drykk); spilla
@@ -1210,7 +1210,7 @@ expedience n. hentugleiki, gagnsemi; hyggindi ([political ~]); eigin hagsmunir
 expediency n. hentugleiki, gagnsemi; hyggindi ([political ~]); eigin hagsmunir
 expedient l. hentugur, haganlegur, gagnlegur; n. útvegur, úrræði
 expedite s. flýta fyrir; framkvæma skjótlega; senda af stað (skjal, boð); l. greiðfær, skjótur
-expedition n. ferð, leiðangur; flýtir, hraði, hröðunssss
+expedition n. ferð, leiðangur; flýtir, hraði, hröðun
 expeditious l. greiður, skjótur; greiðfara
 expel s. reka burtu, reka á brott, útskúfa (úr söfnuði)
 expend s. eyða, verja (fé til e-s [in, upon]); kosta til
