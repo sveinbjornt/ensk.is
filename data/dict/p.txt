@@ -212,7 +212,7 @@ parboil s. hita í vatni fram undir suðu, hálfsjóða
 parcel n. partur, stykki; böggull, pakki; [by ~ post] með bögglapóstinum; s. hluta í sundur ([~ out])
 parch s. láta skrælna, þurrka, sviða (í sólarhita); skrælna, sviðna
 parchment n. pergament, bókfell
-pardon s. fyrirgefa, gefa upp sakir, náða; n. fyrirgefning; sakaruppgjöf, náðun; [I beg your ~] ég bið (yður) fyrirgefningar (afsökunar)
+pardon s. fyrirgefa, gefa upp sakir, náða; n. fyrirgefning; sakaruppgjöf, náðun; [I beg your ~] ég bið (þig) fyrirgefningar (afsökunar)
 pardonable l. fyrirgefanlegur, afsakanlegur
 pare s. taka hýðið af ([~ an apple]); skafa, skera ([~ a nail])
 parent n. foreldri, faðir, móðir; undirrót; ft. foreldrar
@@ -256,7 +256,7 @@ parsimony n. sparsemi; níska, aðsjálni
 parsley n. péturselja
 parson n. sóknarprestur
 parsonage n. prestssetur
-part n. partur, hluti; þáttur ([take ~ in a discussion]); hlutverk; málefni; ft. gáfur; [the work comes out in ~s] í heftum; [for my ~] að mínu leyti; [~s of a speech] partar ræðunnar; [in our ~s (of the country)] í vorum sveitum; [in these ~s] hér um slóðir; [in ~] að nokkru leyti; [on the ~ of] af hálfu e-s; [from all ~s] úr öllum áttum; [take ~ with (the ~ of)] styðja málstað e-s, draga taum e-s; [take in good (ill) ~] taka vel (eða illa) upp, taka e-u vel eða illa
+part n. partur, hluti; þáttur ([take ~ in a discussion]); hlutverk; málefni; ft. gáfur; [the work comes out in ~s] í heftum; [for my ~] að mínu leyti; [~s of a speech] partar ræðunnar; [in our ~s (of the country)] í okkar sveitum; [in these ~s] hér um slóðir; [in ~] að nokkru leyti; [on the ~ of] af hálfu e-s; [from all ~s] úr öllum áttum; [take ~ with (the ~ of)] styðja málstað e-s, draga taum e-s; [take in good (ill) ~] taka vel (eða illa) upp, taka e-u vel eða illa
 part s. skipta ([~ the hair]); skilja ([~ the combatants]); greina í sundur ([~ error from crime]); brjóta, slita; slitna, springa (um kaðal); skiljast ([~ good friends, here our roads ~ed]); fara; [~ out of this life] deyja; [~ with] skiljast við e-ð, missa; farga e-u; [~ company] skiljast (við e-n [from])
 partake s. taka þátt í ([~ in each other's joy]); [~ of] neyta, njóta (matar)
 partaker n. hluttakandi, þátttakandi
@@ -489,7 +489,7 @@ pedlar n. varningsmaður, farandsali
 pedometer n. skrefmælir
 peek s. gægjast ([~ in, out])
 peel s. taka hýði eða börk af; flagna af; n. hýði, börkur
-peep s. gægjast; koma í ljós; tísta; n. píp; fyrsta framkoma; uppkoma; [~ of day] dögun, afturelding; [we had a ~ at] vér sáum snöggvast (í svip)
+peep s. gægjast; koma í ljós; tísta; n. píp; fyrsta framkoma; uppkoma; [~ of day] dögun, afturelding; [we had a ~ at] við sáum snöggvast (í svip)
 peer n. jafningi ([you will not easily find his ~]); göfugmenni, sem hefur sæti og atkvæðisrétt í efri málstofu enska þingsins ([duke, marquis, earl, viscount, baron]); s. jafnast við ([with])
 peerage n. aðalstign; ríkisaðall
 peeress n. háaðalleg frú
@@ -1016,13 +1016,13 @@ pinafore n. barnasvunta, ermasvunta
 pinafored l. svuntuklæddur
 pinaster n. strandfura
 pincer s. klípa (með töngum)
-pincers n. naglbítur; töng, tengur ([a pair of ~]); krabbaklær
+pincers n. naglbítur; töng, tangir ([a pair of ~]); krabbaklær
 pinch s. klípa; kreista; þrengja að; herða að, kreppa; kvelja, þjá; halda spart á; n. klíp; kreisting; kreppa, neyð; [a ~ of snuff] einn nefdráttur af tóbaki; [be at a ~] vera í kröggum; [at (on) a ~] ef í nauðirnar rekur
-pinchers nft. töng, tengur
+pinchers nft. töng, tangir
 pinchfist n. nirfill
 pinchbeck n. tambak (blendingur úr kopar og sinki)
 pine n. fura, greni, grenitré; s. vera stúrinn; megrast, horast; dragast (veslast) upp ([~ away]); [~ for, after] þrá ákaft
-pineapple n. ananas (suðrænt aldin)
+pineapple n. ananas
 pinecone n. greniköngull
 pinemarten n. skógarmörður (dýr)
 pinery n. ananasreitur, ananasgarður

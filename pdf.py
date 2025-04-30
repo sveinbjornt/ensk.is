@@ -50,7 +50,6 @@ from reportlab.platypus import (
     Spacer,
     NextPageTemplate,
     PageBreak,
-    FrameBreak,
     Flowable,
 )
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
@@ -315,9 +314,7 @@ def _build_document(dictionary_data, output_file, is_first_pass=False):
     content.append(Spacer(1, 5 * cm))
     content.append(Paragraph("Ensk-íslensk orðabók", cover_title_style))
     content.append(Spacer(1, 1 * cm))
-    content.append(
-        Paragraph("eftir Geir T. Zoega og Sveinbjörn Þórðarson", cover_subtitle_style)
-    )
+    content.append(Paragraph(f"eftir {PROJECT.DICT_AUTHORS}", cover_subtitle_style))
 
     # Add page break and switch to columns template for main content
     content.append(NextPageTemplate("columns"))
@@ -390,7 +387,7 @@ def generate_pdf(dictionary_data, output_file):
     # Now _PAGE_ENTRIES is populated, build the final document
     _build_document(dictionary_data, output_file, is_first_pass=False)
 
-    # _compress_pdf(output_file, "out.pdf")
+    _compress_pdf(output_file, output_file)
 
     # Clean up the temporary file
     try:

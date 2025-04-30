@@ -1771,16 +1771,17 @@ taxidermic l. uppstoppunar-
 fastidiousness n. vandlæti, vandfýsni
 EU n. stytt. á [European Union]; Evrópusambandið
 EEA n. stytt. á [European Economic Area]; Evrópska efnahagssvæðið
+EFTA n. stytt. á [European Free Trade Association]; Fríverslunarsamtök Evrópu
 EV n. stytt. á %[electric vehicle]%; rafbíll, rafknúin bifreið
 electric vehicle n. rafbíll, rafknúin bifreið
 electric car n. rafbíll
-OS n. stytt. á %[operating system]%
+OS n. stytt. á %[operating system]%; stýrikerfi
 fraudster n. svikahrappur
 logical fallacy n. rökvilla
 handball n. handbolti
 premature infant n. fyrirburi, barn sem fæðist fyrir tímann
 aerosol n. agnúði, úði
-Greek l. grískur; n. Grikki; gríska (tungumálið); [it's all ~ to me!] ég skil ekkert!
+Greek l. grískur; n. Grikki; gríska (tungumál); [it's all ~ to me!] ég skil ekkert!
 mathematically ao. stærðfræðilega
 unafraid l. óhræddur, ekki hræddur
 censorship n. ritskoðun
@@ -5485,9 +5486,9 @@ misandrist n. karlhatari, kvenremba
 gender studies nft. kynjafræði
 antifeminist n. andfemínisti; l. andfemínista-, andfemínískur
 schizoid l. hugkleyfur; n. kleyfhugi
-polestar n. pólstjarna
+pole star n. pólstjarna
 propagandistic l. áróðurskenndur, áróðurslegur
-propagandistically ao. áróðurslega
+propagandistically ao. áróðurslega, á áróðurskenndan hátt
 catnip n. kattarnípa, kattarmynta
 catmint n. kattarnípa, kattarmynta
 cha n. te
@@ -7215,7 +7216,7 @@ frontend n. framendi; [~ programming] framendaforritun
 neuropathy n. taugakvilli
 semifluid l. hálfkvikur, hálfpartinn vökvi
 steakhouse n. steikhús (veitingahús sem býður upp á nautakjöt)
-chatbot n. spjallmenni
+chatbot n. spjallmenni, spjallþjarkur
 outdoorsman n. útivistarmaður
 outdoorsmanship n. útivist
 disinfected l. sótthreinsaður, sem búið er að eyða sóttnæmi í
@@ -7281,3 +7282,7 @@ ataxic l. óreglulegur, ósamhæfður, ósamstilltur; hreyfiglapa-
 drawstring n. tygill
 gamer n. tölvuleikjaspilari, tölvuleikjamaður
 gorse n. þyrnirunni af ættkvíslinni [Ulex]
+pidgin n. blendingsmál
+truthiness n. sannlíki
+e.g. stytt. á [exempli gratia] (úr latínu); til dæmis
+i.e. stytt. á [id est] (úr latínu); það er, það er að segja

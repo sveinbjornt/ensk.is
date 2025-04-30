@@ -148,7 +148,7 @@ ratable l. sjá %[rateable]%
 ratafia n. áfengur drykkur, e.k. kirsuberjabrennivín
 ratan n. indverskur reyr; reyrstafur
 rattan n. indverskur reyr; reyrstafur
-rate n. hlutfall ([at an equal ~]); mælikvarði; verð, gangverð; verðlag ([the high ~s charged by the railways]); taxti; hraði; skattur ([~s have increased in towns]); [at a furious ~] á fleygiferð; [at any ~] að minnsta kosti; fyrir hvern mun; [first ~] frábær, ágætur; [we ran at the ~ of six miles an hour] vér sigldum (fórum) sex mílur á klukkustund
+rate n. hlutfall ([at an equal ~]); mælikvarði; verð, gangverð; verðlag ([the high ~s charged by the railways]); taxti; hraði; skattur ([~s have increased in towns]); [at a furious ~] á fleygiferð; [at any ~] að minnsta kosti; fyrir hvern mun; [first ~] frábær, ágætur; [we ran at the ~ of six miles an hour] við sigldum (fórum) sex mílur á klukkustund
 rate s. meta, virða (mikils, lítils [high, low]); telja ([I ~ him among their benefactors])
 rateable l. hlutfallslegur; skattskyldur ([~ property])
 rateably ao. hlutfallslega
@@ -608,7 +608,7 @@ regrate s. kaupa upp (og selja út aftur í smáskömmtum)
 regress n. afturför, afturkoma; réttur til að taka við prestsembætti aftur; s. snúa (koma) aftur
 regression n. afturför, afturkoma
 regressive l. sem gengur (fer) aftur á bak
-regret s. sjá eftir, sakna; harma; [we ~ to say] oss tekur sárt (að þurfa) að segja; n. söknuður, eftirsjón; harmur
+regret s. sjá eftir, sakna; harma; [we ~ to say] okkur tekur sárt (að þurfa) að segja; n. söknuður, eftirsjón; harmur
 regretful l. harmsfullur, fullur af eftirsjá
 regular l. reglulegur; reglubundinn; lögákveðinn; [~ employment] föst atvinna; n. reglumunkur; reglulegur hermaður; ft. fast herlið ([~ forces])
 regularity n. regla, reglufesta

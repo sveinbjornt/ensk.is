@@ -52,5 +52,5 @@ class PROJECT(StrEnum):
     REPO_URL = "https://github.com/sveinbjornt/ensk.is"
 
     DICT_NAME = "Ensk-íslensk orðabók"
-    DICT_AUTHORS = "Geir T. Zoëga og Sveinbjörn Þórðarson"
+    DICT_AUTHORS = "Sveinbjörn Þórðarson og Geir T. Zoëga"
     DICT_KEYWORDS = "dictionary,english,icelandic,orðabók,enska,íslenska"
