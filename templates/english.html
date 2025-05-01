@@ -1,7 +1,9 @@
 {% extends "container.html" %}
 
 {% block meta %}
-<meta name="description" content="ensk.is - Free and open English-Icelandic dictionary">
+<meta name="description" content="A free and open English-Icelandic dictionary" lang="en">
+<meta property="og:description" content="A free and open English-Icelandic dictionary" lang="en">
+<link rel="canonical" href="https://ensk.is/english_icelandic_dictionary">
 {% endblock %}
 
 {% block script %}
@@ -9,57 +11,57 @@
 
 {% block content %}
 
-<h1>About ensk.is</h1>
+<h1 lang="en">About ensk.is</h1>
 
-<p><a href="/"><strong>ensk.is</strong></a> is a <em>free and open public
+<p lang="en"><a href="/"><strong>ensk.is</strong></a> is a <em>free and open public
         domain online English-Icelandic dictionary. <a href="/"><strong>Try it out!</strong></a></em>
 </p>
 
-<p>The author of the original dictionary, Geir T. Zoëga (1857-1928), was an
+<p lang="en">The author of the original dictionary, Geir T. Zoëga (1857-1928), was an
     English language teacher and later rector at the Learned School of Reykjavík
     in the years 1883-1927. The first edition was published in 1896. The digitised,
     extended and sanitised version presented here is based on the much-improved
     third edition edited by Þorsteinn Þorsteinsson (1932).</p>
 
-<p>The current incarnation of the dictionary has been heavily edited and updated
+<p lang="en">The current incarnation of the dictionary has been heavily edited and updated
     extensively to accord with modern Icelandic orthography. Many additions have
     been made to bring the vocabulary into the 21st century. Various errors in the
     original text were also corrected.</p>
 
-<p>The dictionary currently contains <a href="/all">{{ num_entries }} entries</a>,
+<p lang="en">The dictionary currently contains <a href="/all">{{ num_entries }} entries</a>,
     of which <a href="/additions">{{ num_additions }}</a>
     are new additions ({{ additions_percentage }}). More statistics <a href="/stats">here</a>.
 </p>
 
-<p>Ensk.is provides provides <a href="/docs">an easy-to-use JSON API</a> but you are probably
+<p lang="en">Ensk.is provides provides <a href="/docs">an easy-to-use JSON API</a> but you are probably
     better off using the <a href="/files">downloadable version</a> if you need to
     process the dictionary in bulk or with low latency.</p>
 
-<p>The current editor and maintainer is
+<p lang="en">The current editor and maintainer is
     <a href="mailto:sveinbjorn@sveinbjorn.org">Sveinbjörn Þórðarson</a>.
 </p>
 
 <br>
 
-<h1>License</h1>
+<h1 lang="en">License</h1>
 
-<p>This dictionary is in the <strong>public domain</strong> within all countries where permitted
-    under a Creative Commons Zero (CC0) license. The source code to the web application is
-    available on <a href="https://github.com/sveinbjornt/ensk.is">GitHub</a> under a BSD license.
+<p lang="en">This dictionary is in the <strong>public domain</strong> within all countries where permitted
+    under a Creative Commons Zero (CC0) license. The dictionary source files and the source code to the web
+    application are available on <a href="https://github.com/sveinbjornt/ensk.is">GitHub</a>.
 </p>
 
 <br>
 
-<h1>Privacy</h1>
+<h1 lang="en">Privacy</h1>
 
-<p>This website does not use cookies, does not store user searches, does not require
+<p lang="en">This website does not use cookies, does not store user searches, does not require
     JavaScript, and does not use services such as Google Analytics to collect data.</p>
 
 <br>
 
-<h1>Donations</h1>
+<h1 lang="en">Donations</h1>
 
-<p>It takes time and money to host and improve this online dictionary.
+<p lang="en">It takes time and money to host and improve this online dictionary.
     If you would like to support this project, please make a donation
     to Sveinbjorn Thordarson (editor and maintainer) using PayPal:</p>
 

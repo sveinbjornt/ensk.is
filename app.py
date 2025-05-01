@@ -464,7 +464,7 @@ async def english(request: Request):
         "english.html",
         {
             "request": request,
-            "title": f"{PROJECT.NAME} - {PROJECT.DESCRIPTION}",
+            "title": f"{PROJECT.NAME} - {PROJECT.DESCRIPTION_EN}",
             "num_entries": num_entries,
             "num_additions": num_additions,
             "entries_singular": num_entries,

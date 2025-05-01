@@ -42,6 +42,7 @@ from enum import StrEnum
 class PROJECT(StrEnum):
     NAME = "Ensk.is"
     DESCRIPTION = "Opin og frjáls ensk-íslensk orðabók"
+    DESCRIPTION_EN = "Free and open English-Icelandic dictionary"
     VERSION = "1.0"
     LICENSE = "Public domain"
     EDITOR = "Sveinbjörn Þórðarson"
