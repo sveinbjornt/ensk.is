@@ -906,7 +906,7 @@ inherency n. ívera
 inherent l. íverandi; meðskapaður ([~ in our nature])
 inherit s. erfa, taka arf eftir; taka (fá) að erfðum
 inheritable l. arfgengur
-inheritance n. arfur, erfð, arfleifð; [by ~] aðerfðum
+inheritance n. arfur, erfð, erfðahlutur; arfleifð; [by ~] að erfðum
 inheritor n. erfingi
 inheritress n. kvennerfingi
 inhesion n. ívera

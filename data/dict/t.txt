@@ -612,7 +612,7 @@ tidings nft. tíðindi
 tie s. binda, hnýta; skuldbinda; n. band; hálsklútur; hnýti; jafnstæði keppinauta; jöfn atkvæði
 tier n. röð (hver upp af annarri), sætaröð (í leikhúsi)
 tierce n. lagarmál ([42 gallons])
-tiff n. sopi; deila, orðakast; s; súpa, drekka; deila; firtast
+tiff n. sopi; deila, orðakast; s. súpa, drekka; deila; firtast
 tiffish l. firtinn, önugur
 tiffy l. firtinn, önugur
 tiffany n. þunnsilki
@@ -717,7 +717,7 @@ tonight ao. í kvöld; í nótt
 toad n. froskur
 toad-eater n. sníkjugestur; smjaðrari
 toadstool n. gorkúlutegund
-toady s. smjaðra; n. sjá %[toad-eater]%
+toady s. smjaðra; n. smjaðrari
 toadyism n. auðvirðilegt smjaður
 toast s. rista, steikja á rist; hita, verma; drekka (mæla fyrir) minni e-s; n. ristuð brauðsneið; minni, skál; skálræða; [to give a ~] mæla fyrir minni (skál)
 toaster n. brauðrist, ristavél, tæki sem brauð er steikt á

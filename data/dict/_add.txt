@@ -6495,6 +6495,7 @@ Chechen n. Téténi; téténska; l. téténskur
 arbitrage n. högnun, misvirðiskaup, verðmunarviðskipti
 carmaker n. bílaframleiðandi
 sycophantism n. smjaður
+sycophantic l. smjaðrandi, smjaðurslegur
 self-immolation n. sjálfsfórn
 un- fsk. ó- (t.d. %[unhappy]%, %[unwell]%, o.s.frv.)
 stagflation n. kreppuverðbólga
@@ -7286,3 +7287,6 @@ pidgin n. blendingsmál
 truthiness n. sannlíki
 e.g. stytt. á [exempli gratia] (úr latínu); til dæmis
 i.e. stytt. á [id est] (úr latínu); það er, það er að segja
+snuffdish n. skarpanna
+cubit n. alin (mælieining); framhandleggur
+toadyish l. smjaðurslegur
