@@ -268,7 +268,7 @@ ghost n. andi; afturganga, draugur, vofa; [the Holy Ghost] heilagur andi; [to gi
 ghostlike l. vofulegur, drauga-, draugalegur
 ghostly l. vofulegur, draugalegur, draugslegur; andlegur
 ghoul n. náæta
-giant n. risi, jötunn
+giant n. risi, jötunn, þurs
 giantess n. tröllkona, skessa
 giantlike l. risalegur, tröllslegur
 giaour n. vantrúarmaður (hjá múslímum)
@@ -445,21 +445,21 @@ Gnostics nft. gnóstíkar (dulspekingar)
 Gnosticism n. dulspeki gnóstíka
 go s. fara, fara af stað, ganga; líða ([the evening went pleasantly]); [as fast as my horse could ~] eins fljótt og hestur minn gat komist; [~ in a carriage] aka; [~ on horseback] ríða; [~ on a journey] fara ferð; [~ ashore] ganga (fara) á land; [~ to housekeeping] setja bú, fara að búa; [~ halves with one] taka þátt í skaða og ábata að hálfu við e-n; [~ mad] verða vitlaus; [~ wrong] fara rangan veg, villast; mistakast; yfirsjást; [as men go] eins og menn gerast; [the story goes] that það er sagt, að; [what has gone of him] hvað er orðið um hann? [it went to my heart to say to her] mér þótti mikið fyrir að, féll þungt að; [~ a short way] ná (hrökkva) skammt; [~ about] fara á sig krók; byrja á; [~ about one's work] ganga að vinnu sinni; [a report went about that] sú saga gekk, að; [~ abroad] ganga út; fara til útlanda; berast út, verða kunnugt; [~ after] fara eftir, fylgja; sækjast eftir; [~ astray] villast; hrasa; [~ before] fara á undan; [~ behind] fara á eftir; [~ between] ganga í milli, leita um sættir, miðla málum; [~ by] fara framhjá; [~ by the board] falla útbyrðis; [~ by appearances] fara eftir ytra útliti; [~ by steamer/steam] fara með gufuskipi; [go by railway/rail] með járnbraut; [~ down] ganga undir (um sól og stjörnur); lægja (um vind); hjaðna (um bólgu); sökkva til botns; lækka (um vatn); falla, hrynja; [~ for] sækja; vera talinn; [~ for nothing] vera einskis metinn; [by watching what went forward] hvað (hverju) fram fór; [~ in for a lady] festa hug á konu (stúlku); [~ in for skating] renna á skautum; [the moon (sun) had gone in] það hafði dregið fyrir tunglið (sólina); [~ into mourning] taka upp sorgarbúning; [~ off] fara burtu; ganga út, seljast; deyja; [the gun went off] skotið reið af; [~ on] halda áfram; e-u miðar áfram; [~ on an expedition] fara í leiðangur; [the time went on] tíminn leið; [~ out] fara frá (um ráðherra); deyja, slokkna (um eld, ljós); leggjast niður (um tísku); [~ out hunting] fara á dýraveiðar; [~ over] yfirfara; skoða (í huganum); strjúka, ganga í lið með ([to]); [~ through] framkvæma; reyna, þola; prófa, rannsaka; [the ink ~es through] blekið drepur í gegn; [~ to law] fara í mál; [~ up] hækka í verði; [~ under] farast, týnast; [~ with] fylgja (málum e-s); eiga (vel) saman (um liti); [~ with] skilja ([do you ~ with me? Partly, sir]); [it goes ill or well with a person] það fer illa eða vel fyrir e-m; [~ without] vera án, fara á mis við
 go n. gangur, fjör; tíska; [it's no ~] allt stendur fast; [a nice ~ this] þetta er fallegt ráðlag; [a ~ of rum] glas af rommi
-goad n. nautaprik með broddi; stingur; hvöt, eggjan; s. reka á eftir með priki; eggja, hvetja
-goal n. takmark, markmið ([to attain the desired ~])
+goad s. eggja, hvetja; reka á eftir með priki; n. stingur; hvöt, eggjan; nautaprik með broddi
+goal n. takmark, markmið ([to attain the desired ~]); mark (í íþróttum)
 goat n. geit
 goatee n. hökuskegg, hökutoppur
 goatherd n. geitahirðir
 goatish l. geitarlegur; lostafullur
 goatsucker n. nátthrafn
-gobble s. hvoma (rífa) í sig, gleypa í sig
+gobble s. rífa í sig, gleypa í sig, hvoma í sig
 gobbler n. átvagl, mathákur
 go-between n. milligöngumaður
 goblet n. drykkjarbikar
-goblin n. álfur; draugur
+goblin n. hrekkjóttur púki, svartálfur
 god n. guð
-godchild n. barn sem maður hefur verið skírnarvottur að (sjá %[godparent]%)
-goddaughter n. stúlka sem maður hefur verið skírnarvottur að
+godchild n. guðbarn, barn sem maður hefur verið skírnarvottur að (sjá %[godparent]%)
+goddaughter n. guðdóttir, stúlka sem maður hefur verið skírnarvottur að
 goddess n. gyðja
 godfather n. guðfaðir, skírnarvottur
 God-fearing l. guðhræddur
@@ -471,8 +471,8 @@ godliness n. guðhræðsla
 godly l. guðhræddur; guðrækinn
 godmother n. guðmóðir
 godsend n. óvænt lán, guðsblessun
-godson n. guðssonur, strákur sem maður hefur verið skírnarvottur að
-godspeed n. lán, hamingja; góð ferð; [to bid (wish) ~] óska (e-m) góðrar ferðar
+godson n. guðsonur, strákur sem maður hefur verið skírnarvottur að
+godspeed n. lán, hamingja; góð ferð; [to bid ~] óska (e-m) góðrar ferðar
 godwit n. jaðrakan (fugl)
 goffer s. leggja í fellingar
 goggle s. ranghvolfa (gjóta) augunum; ranghvolfast ([his eyes ~d]); n. starandi augnaráð; ft. snjó- eða rykgleraugu
@@ -491,7 +491,7 @@ gone l. af %[go]%; farinn (í burtu); tapaður, glataður; [far ~] langt leiddur
 gonfalon n. fáni, merki, gunnfáni
 gonfanon n. fáni, merki, gunnfáni
 gong n. borðklukka ([dinner-~])
-good l. góður (við e-n [to, towards]); góður og gildur ([a ~ excuse]); (um lyf) góður við e-u ([~ for wounds]); [to be ~ enough to, so ~ as to] vera svo vænn að, gera svo vel að (og); uh. gott! rétt! [~ six hours] rúmar (fullar) sex stundir; [for ~] fyrir fullt og allt; [~ for nothing] til einskis nýtur; [~ at] leikinn (fimur) í; [in ~] af alhuga, með kappi; [in ~ time] í tæka tíð; [he is as ~ as his word] hann efnir það sem hann lofar, hann er áreiðanlegur; [to make ~] bæta upp ([to make ~ a deficiency]); færa sönnur á; efna, standa vi e-ð ([one's promise]); koma (e-u) fram; [he made ~ his passage] hann ruddi sér braut; [to last ~] haldast óskemmdur; [as ~ as] sama sem ([to make no visits, or as ~ as none]); [to come to ~] verða til góðs, leiða gott af sér
+good l. góður (við e-n [to, towards]); góður og gildur ([a ~ excuse]); (um lyf) góður við e-u ([~ for wounds]); [to be ~ enough to, so ~ as to] vera svo vænn að, gera svo vel að (og); uh. gott! rétt! [~ six hours] rúmar (fullar) sex stundir; [for ~] fyrir fullt og allt; [~ for nothing] til einskis nýtur; [~ at] leikinn (fimur) í; [in ~] af alhuga, með kappi; [in ~ time] í tæka tíð; [he is as ~ as his word] hann efnir það sem hann lofar, hann er áreiðanlegur; [to make ~] bæta upp ([to make ~ a deficiency]); færa sönnur á; efna, standa vi e-ð ([one's promise]); koma (e-u) fram; [he made ~ his passage] hann ruddi sér braut; [to last ~] haldast óskemmdur; [as ~ as] sama sem ([to make no visits, or as ~ as none]); [to come to ~] verða til góðs, leiða gott af sér; n. hagur ([for the ~ of mankind]); gæði ([the highest ~]); [it is no ~] það er gagnslaust, til einskis; nft. [~s] vörur; eigur
 good breeding n. kurteisi
 goodbye uh. vertu sæll, verið þér sælir! ([to bid, say ~ to]); n. kveðja
 good-for-nothing l. til einskis hæfur (nýtur); n. ónytjungur
@@ -501,11 +501,10 @@ goodly l. þokkalegur, laglegur; mikill, talsverður; ágætur
 goodman n. húsbóndi (í ávarpi)
 good nature n. góðlyndi; góðmennska
 good-natured l. góðlyndur
-goodness n. góðsemi, gæska; [~ of heart] hjartagæska; [the ship was sent ~ knows where] guð veit hvert; [for ~' sake] í guðs bænum; [~ gracious me] guð komi til
+goodness n. góðsemi, gæska; [~ of heart] hjartagæska; [the ship was sent ~ knows where] guð veit hvert; [for ~' sake] í guðanna bænum; [~ gracious me] guð komi til
 goodwife n. húsmóðir
-goodwill n. góðvilji, velvilji; [the ~ of a business] firma-nafn og skiptavinir
+goodwill n. góðvilji, góðvild, velvilji, velvild
 goody l. góðsamur; n. heillin mín (í ávarpi)
-good n. hagur ([for the ~ of mankind]); gæði ([the highest ~]); [it is no ~] það er gagnslaust, til einskis; ft. eigur; vörur
 goosander n. stóra toppönd ([mergus merganser])
 goose n. gæs (ft. [geese])
 gooses nft. dragjárn (sem skraddarar draga á sauma)
@@ -551,8 +550,8 @@ govern s. stjórna, stýra, ráða fyrir ([~ a country]); ráða við
 governable l. viðráðanlegur, auðsveipur
 governance n. stjórn
 governess n. kennslukona
-government n. (land)stjórn, ríkisstjórn; ráðuneyti ([His Majesty's ~]); stjórnarfyrirkomulag; yfirráð
-governmental l. landsstjórnar-, ríkisstjórnar-
+government n. ríkisstjórn, (land)stjórn; stjórnarfyrirkomulag; yfirráð
+governmental l. ríkisstjórnar-, landsstjórnar-
 governor n. stjórnari, stjóri; landstjóri, landshöfðingi; gamli maðurinn (um föður); húsbóndi
 gowk n. gaukur; flón
 gown n. kjóll; einkennisyfirhöfn (lækna, dómara og stúdenta); gangsloppur ([dressing-~]); prestshempa; kjóll; s. klæða í kjól o.s.frv.
@@ -561,7 +560,7 @@ gozzard n. gæsahirðir
 grab n. hrifs; glefs; s. hrifsa, glefsa í; svæla undir sig; handtaka
 grabble s. fálma, þreifa fyrir sér; þreifa á, þukla; skríða (á fjórum fótum)
 grace n. yndi, yndisleikur; þokki; viðfelldni; prúðmennska; hylli, náð, miskunn; borðbæn; nft. [~s] þokkagyðjur; [to say ~] lesa borðbænina; [I am not in his good ~s] ég er ekki innundir hjá honum; [with a bad ~] nauðugur; [with a good ~] fúslega; með sóma; [days of ~] gjaldfrestur (fram yfir ákveðinn tíma); [your ~] náðugi herra; náðuga frú (í ávarpi); s. prýða, skreyta; sæma (e-n e-u)
-graceful l. yndislegur, fagur, þokkafullur; viðfelldinn
+graceful l. þokkafullur; yndislegur; fagur; viðfelldinn
 graceless l. vondur, guðlaus; ósvífinn, án þokka
 gracious l. náðugur, miskunnsamur; yndislegur; viðfelldinn, vingjarnlegur; [good ~! ~ me!] guð komi til!
 graciously ao. vinsamlega, með yndisþokka

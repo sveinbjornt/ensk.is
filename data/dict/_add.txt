@@ -1456,8 +1456,8 @@ icon n. táknmynd, tákn, íkon; líkneski; helgimynd, dýrlingamynd
 iconic l. táknrænn, táknmynda-; helgimynda-
 iconoclastic l. táknmyndabrjótandi, helgimyndabrjótandi
 iconoclasm n. helgimyndabrot; trúarskoðun innan kristindóms
-iconography n. táknmyndafræði, táknmyndalist; helgimyndafræði
-iconographic l. táknmyndafræðilegur, helgimyndafræðilegur
+iconography n. táknmyndafræði; táknmyndalist; helgimyndafræði
+iconographic l. táknmyndafræðilegur, táknmyndalegur; helgimyndafræðilegur
 nighthawk n. nátthrafn, náttfari
 nightclub n. næturklúbbur, skemmtistaður
 nightstand n. náttborð
@@ -4083,7 +4083,7 @@ unskilled l. ófaglærður; óleikinn; [~ labour] ófaglært vinnuafl
 repeatability n. endurtakanleiki
 repetitive l. sem endurtekur sig; ítrekaður
 mutualism n. samhjálp
-understatement n. úrdráttur; vanskráning
+understatement n. úrdráttur, vanhvörf; staðhæfing sem gerir lítið úr e-u; vanskráning
 playtime n. leiktími, frjáls leikur
 catalyze s. hvetja
 detonator n. tæki sem kveikir í, kveikitæki; forsprengja
@@ -4093,7 +4093,7 @@ exploiter n. sá sem nýtir eða hagnýtir; arðræningi
 exploitative l. sem nýtir eða hagnýtir; arðrænandi, arðráns-
 markup n. álagning (á vörur); ívaf (í texta)
 supervisory l. eftirlits-; [~ role] eftirlitshlutverk, eftirlitsstarf
-seamless l. saumlaus
+seamless l. hnökralaus; saumlaus
 officialdom n. skrifræði, embættismannastétt
 parallax n. hliðrun; sjónstöðumunur, sýndarhliðrun
 guardrail n. öryggisgrind, vegrið
@@ -7290,3 +7290,12 @@ i.e. stytt. á [id est] (úr latínu); það er, það er að segja
 snuffdish n. skarpanna
 cubit n. alin (mælieining); framhandleggur
 toadyish l. smjaðurslegur
+Cantonese l. kantónska (kínversk mállýska)
+pearlescent l. (gljáandi) eins og perla
+bendable l. beygjanlegur, sveigjanlegur
+keytar n. hljómborð sem líkist gítar
+Macao n. Makaó (sérstjórnarhérað í Kína)
+grammatician n. málfræðingur
+lethally ao. á banvænan hátt
+conveniently ao. hentuglega, þægilega
+protohistoric l. frumsögulegur, frumsagnfræðilegur

@@ -141,10 +141,16 @@ def _err(msg: str) -> JSONResponse:
     return JSONResponse(content={"error": True, "errmsg": msg})
 
 
+MAX_DEF_LENGTH = 200
+
+
 def _format_item(item: dict[str, Any]) -> dict[str, Any]:
     """Format dictionary entry for presentation."""
     w = item["word"]
     x = item["definition"]
+
+    # if len(item["definition"]) > MAX_DEF_LENGTH:
+    #     x = item["definition"][:MAX_DEF_LENGTH] + "..."
 
     # Replace ~ symbol with English word
     x = x.replace("~", w)

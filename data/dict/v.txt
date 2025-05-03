@@ -332,7 +332,7 @@ vinegrower n. vínyrkjumaður
 vinegar n. edik
 vineyard n. víngarður
 vinous l. vínkynjaður, vín-
-vintage n. vínuppskera
+vintage n. vínuppskera; (vín)árgerð, (vín)árgangur; l. gamall og góður, gamaldags ([~ movies, ~ cars])
 vintager n. vínuppskerumaður
 vintner n. vínsali
 viny l. vínberja-; vínauðugur
@@ -341,7 +341,7 @@ violable l. sem má vanhelga eða spilla
 violate s. brjóta, rjúfa; spilla, skemma; misbjóða; vanhelga, saurga; nauðga
 violation n. brot, rof; saurgun, vanhelgun ([~ of a sanctuary]); nauðgun
 violator n. sá sem brýtur, vanhelgar, rýfur, saurgar; saurgari; nauðgari
-violence n. ofbeldi; ofbeldisverk; ofsi
+violence n. ofbeldi; ofbeldisverk ([an act of ~]); ofsi
 violent l. ofbeldisfullur; ofsafullur, ofsalegur
 violescent l. fjóluleitur
 violet n. fjóla; l. fjólublár
