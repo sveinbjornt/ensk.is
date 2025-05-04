@@ -457,14 +457,14 @@ adventitious l. aðkominn, aðfenginn
 adventure n. ævintýri; hætta, áhætta; hættufyrirtæki; s. hætta á; stofna í hættu; hætta sér ([into, in, upon a place, on, upon an undertaking])
 adventurer n. ævintýramaður; glæframaður
 adventuress n. ævintýrakona
-adventurous l. djarfur, vogaður; ævintýragjarn; ævintýralegur
+adventurous l. ævintýragjarn; djarfur, vogaður; ævintýralegur
 adverb n. atviksorð
 adverbial l. atvikslegur
-adversary n. mótstöðumaður; l. andstæður, óvinveittur
+adversary n. andstæðingur, mótherji, mótstöðumaður; l. andstæður, óvinveittur
 adversative l. gagnstaðlegur; n. gagnstöðutenging
-adverse l. andstæður, óvinveittur; óhagstæður
+adverse l. andstæður, óvinveittur; óhagstæður ([~ conditions])
 adversity n. mótlæti, ógæfa
-advert s. gæta að, gefa gaum að ([to]); minnast á, drepa á ([to])
+advert n. auglýsing (stytt. á %[advertisement]%); s. gæta að, gefa gaum að ([to]); minnast á, drepa á ([to])
 advertence n. gaumur, athygli
 advertise s. auglýsa; láta vita; vara við ([of])
 advertiser n. auglýsingablað; auglýsandi
@@ -973,7 +973,7 @@ ancillary l. þjónandi, hjálpar-, aðstoðar- ([geography, the other ~ science
 and st. og
 andiron n. hlóðagrind
 androgyne l. tvíkynja; n. tvíkynja vera
-androgynous l. tvítólaður, tvíkynjaður
+androgynous l. tvíkynjaður
 anecdote n. smásaga, skrítla, anekdóta, stutt frásögn
 anecdotist n. smásöguhófundur, e-r sem fer með stuttar sögur, skrítlur, anekdótur
 anemia n. blóðleysi

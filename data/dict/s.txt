@@ -677,7 +677,6 @@ septennial l. sem gerist sjöunda hvert ár; sem stendur um sjö ár
 septentrion n. norður(átt)
 septuagenarian n. sjötugur maður
 septuagenary n. sjötugur maður
-septuagint n. grísk biblíuþýðing
 sepulchral l. grafarlegur; greftrunar-; [~ stone] legsteinn
 sepulcher n. gröf; legstaður; s. greftra, jarða
 sepulture n. greftrun
@@ -1594,8 +1593,8 @@ sod n. grashnaus; grassvörður; s. þekja með grassverði
 soda n. sódi; natron; sódavatn
 sodality n. félag
 sodden l. illa bakaður, klesstur; gegnvotur; vatnsósa; s. gegnvæta, gera vatnsósa; sljóvga
-sodomite n. kynvillingur
-sodomy n. kynvilla
+sodomite n. kynvillingur, sódómisti
+sodomy n. kynvilla, sódómska, sódómíska; endaþarmsmök
 soever ao. sem (í samsetningum); [who~] hver sem; [what~] hvað sem; [where~] hvar sem er
 sofa n. sófi, legubekkur
 soft l. mjúkur; beygjanlegur, linur; mildur, blíður; hægur; viðkvæmur; vær (um svefn); grunnhygginn; [~ goods, ~ wares] ullar- eða bómullarvörur; [~ soap] grænsápa; smjaður; uh. hægt! gætilega!

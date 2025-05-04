@@ -219,7 +219,7 @@ captivity n. varðhald; ánauð; herleiðing
 captor n. sá sem hertekur
 capture n. handtaka, hertaka (t.d. skips á sjó); hertekið skip; herfang; veiði; s. hertaka; ná; veiða
 capuche n. hetta (á munkakápu)
-capuchin n. hettumunkur
+capuchin n. hettumunkur; [~ monkey] hettuapi
 car n. bíll, bifreið; kerra, vagn
 carabine n. sjá %[carbine]%
 caracol n. stökk, hopp; s. stökkva, hoppa
@@ -1781,7 +1781,7 @@ conical l. keilumyndaður ([a ~ summit]), keilu-
 conifer n. barrtré
 coniferous l. köngulberandi
 conjectural l. sem lýtur að (eða er grundvallaður á) getgátum
-conjecture n. getgáta; s. geta (e-s) til, giska á
+conjecture n. tilgáta, getgáta, ágískun; s. geta (e-s) til, giska á
 conjoin s. sameina, samtengja, sameinast
 conjoint l. sameinaður, sameiginlegur
 conjointly l. sameiginlega, í sameiningu
@@ -1978,7 +1978,7 @@ contrabandist n. smyglari
 contract s. draga saman; þrengja; stytta; stofna, gera; fá; venja sig á, taka upp (sið); gera samning (um for); dragast saman; minnka; verða minni; mjókka; [~ marriage] ganga í hjónaband; [~ debts] komast í skuldir; [~ oneself out of] losast við e-ð með samningi; n. samningur
 contractile l. sem má draga saman
 contraction n. samdráttur, stytting
-contractor n. sá sem tekur að sér vinnu eða útlát eftir samningi, verksali
+contractor n. verktaki, verksali, sá sem tekur að sér vinnu eða útlát eftir samningi
 contradict s. mótmæla; rengja; neita
 contradiction n. mótmæli; mótsögn; [spirit (love) of ~] andmálssemi
 contradictious l. þrætugjarn, andmálugur
@@ -2050,7 +2050,7 @@ conversion n. skipting; breyting (í e-ð annað); snúningur (til betri trúar)
 convert s. snúa (e-m til betri trúar eða afturhvarfs); breyta (í [into]); n. trúskiptingur
 convertible l. sem er sömu merkingar ([~ terms]); notanlegur (til e-s [to]); breytanlegur ([water is ~ into ice])
 convex l. ávalur, kúptur
-convexity n. bungumyndun; bunga
+convexity n. bungumyndun; bunga; kúpni
 convey s. flytja, færa; veita ([~ water])
 conveyance n. flutningur; flutningstæki (vagn, bátur, skip); afsal, afsalsbréf
 conveyanser n. afsalsbréfasemjari

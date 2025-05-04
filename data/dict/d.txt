@@ -147,7 +147,7 @@ deanship n. prófastsembætti
 dear l. dýr; dýrmætur; kær; [oh ~, ~ me!] guð komi til! ao. dýrt ([sell, buy ~]); [you shall pay ~ for it] þú skalt komast að því fullkeyptu; n. [my ~] góði minn, góða mín, elskan
 dearly ao. dýru verði ([~ bought]); heitt; [love ~] unna hugástum
 dearness n. dýrleiki; viðkvæm elska
-dearth n. skortur; hallæri
+dearth n. skortur, ekla, hörgull, þurrð; hallæri
 death n. dauði; dauðdagi; mannslát; [it was the ~ of him] það varð dauðameinið hans; [put to ~] taka af lífi; [tired to ~] dauðþreyttur
 deathbed n. banasæng
 deathblow n. banahögg
@@ -169,7 +169,7 @@ debark s. flytja af skipi; stíga af skipi (á land)
 debarkation n. landganga
 debarrass s. losa við ([of])
 debase s. óvirða; niðra; falsa ([~ the coin])
-debasement n. óvirðing; niðurlæging; fölsun
+debasement n. óvirðing; niðurlæging; fölsun; gildislækkun, verðrýrnun
 debaser n. niðrari; falsari
 debatable l. umdeilanlegur, sem deila má um; vafasamur
 debate n. kappræða; umræða (á þingi); s. ræða (einnig með [on, upon]); íhuga með sjálfum sér ([~ with oneself]); [debating society] málfundafélag
@@ -325,7 +325,7 @@ defiance n. þrjóska; áskorun (til bardaga); ögrun; [to bid ~] bjóða byrgin
 defiant l. þrjóskufullur; ögrandi ([~ words]); tortrygginn
 deficiency n. vöntun, skortur; ófullkomleiki; tekjuhalli
 deficient l. ónógur; sem er ábótavant í e-u ([in])
-deficit n. sjóðþurrður, tekjuhalli
+deficit n. halli, tekjuhalli, ójafnað tap; sjóðþurrður
 defier n. sá sem býður byrgin
 defile s. ata, saurga, óhreinka, spilla; ganga hver á eftir öðrum; n. þröngur vegur, þröngt skarð, kleifar
 defilement n. saurgun
@@ -561,7 +561,7 @@ deprecation n. undanbeiðsla; vanþóknun
 deprecative l. biðjandi, afsakandi
 deprecatory l. biðjandi, afsakandi
 depreciate s. gera lítið úr, lítilsvirða; fella í verði; falla í verði
-depreciation n. verðlækkun
+depreciation n. verðlækkun, virðisrýrnun; fyrning, afskrift; gengislækkun, gengissig
 depreciative l. niðrandi, lítilsvirðandi
 depreciatory l. niðrandi, lítilsvirðandi
 depredate s. ræna; herja
@@ -569,10 +569,10 @@ depredation n. rán; skemmd
 depredator n. ræningi
 depredatory l. sem lýtur að ránum
 depress s. þrýsta (e-u) niður; bæla niður; draga úr (e-u); draga kjark úr e-m; mæða, hryggja, gera þunglyndan
-depression n. þunglyndi, hryggð ([~ of the mind]); þrýsting; dæld; læging
-deprivable l. [advantages of which he is not ~] sem ekki er hægt að taka frá honum
-deprivation n. afsetning (úr prestsembætti); missir
-deprive s. taka frá, svipta (e-u [of]); víkja (presti) frá
+depression n. þunglyndi, hryggð, mæða; þrýsting; dæld; læging, lægð
+deprivable l. sem hægt að taka frá e-m
+deprivation n. svipting; skerðing; skortur; missir; afsetning úr (prests)embætti
+deprive s. taka frá, svipta (e-u [of]); víkja úr (prests)embætti
 depth n. dýpt; dýpi; djúp; [in the ~ of night, of winter] um hánótt, hávetur; grunnur
 depthless l. botnlaus ([~ waters])
 depurate s. hreinsa; hreinsast
@@ -1029,23 +1029,23 @@ discovery n. uppgötvun ([the voyage was one of ~]); fundur ([the ~ of America])
 discredit s. koma óorði á; veikja trúna á e-u; trúa ekki; n. óálit, óorð ([to bring ~ on]); vantraust, ótrú
 discreditable l. vansæmandi
 discreet l. gætinn, hygginn; þagmælskur, orðvar ([you are a ~ man])
-discrepancy n. ósamkvæmni, mótsögn
-discrepant l. ósamkvæmur, ólíkur
+discrepancy n. misræmi, ósamkvæmni, mótsögn
+discrepant l. misræmdur, ósamkvæmur, ólíkur
 discrete l. sérskilinn, aðskilinn, afmarkaður; slitinn; stakur, stakrænn; strjáll; sundurgreinanlegur
 discretion n. gætni, hyggni; geðþótti, vild ([at his own ~]); [in/within the ~ of] á valdi e-s; [to come to (the) years (age) of ~] til vits og ára; [to surrender at ~] gefast upp skilyrðislaust
 discretional l. sjálfræðislegur, ótakmarkaður; sem er eftir eigin vild eða geðþótta
 discretionary l. sjálfræðislegur, ótakmarkaður; sem er eftir eigin vild eða geðþótta
 discretive l. sundurgreinandi ([a ~ particle])
 discriminate s. greina í sundur; gera mun á; [~ right from wrong] greina rétt frá röngu; [~ against one] vera hlutdrægur við e-n; l. skynsamlegur ([~ charity])
-discriminating l. sundurgreinandi; greindur; skarpskyggn; [~ rate/duty] skattur eða tollur sem fer eftir því hver í hlut á
+discriminating l. sundurgreinandi, aðgreinandi; greindur, skarpskyggn; [~ rate/duty] skattur eða tollur sem fer eftir því hver í hlut á
 discrimination n. sundurgreining, aðgreining; greinarmunur; mismunun
 discriminative l. einkennilegur; glöggskyggn, glöggur; [~ mark] auðkenni
 discursive l. reikandi; yfirgripsmikill; ályktandi
 discus n. kastskífa
-discuss s. ræða ([~ a scheme]); dreifa (bólgu); njóta (matar eða drykkjar)
-discussion n. umræða ([liberty of ~]); neysla
-disdain s. fyrirlíta, lítilsvirða; forsmá; n. fyrirlitning
-disdainful l. lítilsvirðandi, forsmáandi ([of])
+discuss s. ræða; dreifa (bólgu); njóta (matar eða drykkjar)
+discussion n. umræða; neysla
+disdain s. fyrirlíta, lítilsvirða; forsmá; n. fyrirlitning, lítilsvirðing
+disdainful l. lítilsvirðandi, fyrirlítandi, forsmáandi ([of])
 disease n. sjúkdómur; s. sýkja
 diseased l. sjúkur, sýktur, haldinn sjúkdómi
 disedge s. deyfa, sljóvga
@@ -1285,7 +1285,7 @@ distinguish s. greina í sundur, þekkja í sundur, gera greinarmun á ([~ the t
 distinguishable l. sundurgreinilegur
 distinguished l. frægur, ágætur; fyrirmannlegur ([a ~ air])
 distort s. skekkja, skæla, afskræma; rangfæra ([~ statements, facts])
-distortion n. skekking, skæling; rangfærsla ([~ of words])
+distortion n. aflögun, bjögun, skekking, skæling; rangfærsla ([~ of words])
 distortional l. sem lýtur að [distortion]
 distract s. draga burtu ([~ the attention]); trufla, rugla
 distracted l. ruglaður, brjálaður
@@ -1335,13 +1335,13 @@ divers l. ýmsir, nokkrir
 diverse l. ólíkur; margvíslegur, fjölbreyttur
 diversely ao. ýmislega; í ýmsar áttir
 diversified l. margbreyttur
-diversify s. gera margbreytilegt, fjölbreytt
+diversify s. fjölþætta, gera margbreytilegt, gera fjölbreytt
 diversion n. veiting (t.d. ár úr farvegi sínum); dægrastytting, skemmtun
 diversity n. mismunur; margbreytni
 divert s. snúa e-u (í aðra átt); skemmta
 diverting l. skemmtilegur ([a ~ story])
 divest s. afklæða; svipta (e-u [of]); færa úr; [~ oneself of] losa sig við e-ð
-divestment n. svipting
+divestment n. svipting; fjárlosun
 dividable l. deilanlegur
 divide s. skipta; deila ([~ 36 by 4]); skilja í sundur; (láta) ganga til atkvæða; skiptast ([there the roads ~])
 dividend n. hluti (hvers eins af gróðanum), ágóðahluti, arður; deilistofn
@@ -1428,7 +1428,7 @@ doltish l. klunnalegur; heimskur
 domain n. landeign; ríkisfasteign; umráðasvæði; svið
 dome n. hvelfing, hvolfþak, bungulagaður fjallshnúkur
 domed l. hvelfdur
-domestic l. heimilislegur; heimilis-; heimaunninn; innanlands-; taminn; n. hjú
+domestic l. heimilislegur; heimilis-; heimaunninn; innanlands-, innlendur; taminn; n. hjú
 domesticate s. venja við heimilið; temja
 domical l. hvelfdur; með hvolfþaki, hvolfþökum ([~ church])
 domicile n. heimkynni, bústaður, heimilisfang; [~ of a bill] greiðslustaður víxils; s. ákveða greiðslustað (víxils)

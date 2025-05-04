@@ -121,6 +121,21 @@ def check_punctuation(line: str, pn: str, ln: int):
     #         warn("short segment", pn, ln)
 
 
+def check_for_invisible_chars(line: str, pn: str, ln: int):
+    """Look for invisible characters in entry."""
+    invisible_chars = [
+        "\u200b",  # Zero-width space
+        "\u200c",  # Zero-width non-joiner
+        "\u200d",  # Zero-width joiner
+        "\u2060",  # Word joiner
+        "\ufeff",  # Zero-width no-break space
+        "\u00ad",  # Soft hyphen
+    ]
+    for c in invisible_chars:
+        if c in line:
+            warn(f"found invisible character: {c}", pn, ln)
+
+
 def check_spacing(line: str, pn: str, ln: int):
     """Look for malformed whitespace in entry."""
     if "\t" in line:
@@ -264,6 +279,7 @@ def main():
         for ln, line in enumerate(lines):
             ln = ln + 1
             check_spacing(line, letter, ln)
+            check_for_invisible_chars(line, letter, ln)
             check_punctuation(line, letter, ln)
             check_category(line, letter, ln)
             check_bracket_use(line, letter, ln)

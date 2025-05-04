@@ -222,8 +222,8 @@ febrifuge l. sótteyðandi; n. hitasóttarlyf
 febrile l. sóttar- ([~ heat])
 February n. febrúarmánuður
 feckless l. þreklaus; gagnslaus
-feculence n. grugg
-feculent l. gruggugur
+feculence n. grugg; saur
+feculent l. gruggugur; saurugur
 fecund l. frjór
 fecundate s. frjóvga
 fecundation n. frjóvgun

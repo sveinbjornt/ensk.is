@@ -195,7 +195,7 @@ class EnskDatabase(object):
             self.conn()
             .cursor()
             .execute(
-                "SELECT *, COUNT(*) FROM dictionary GROUP BY word HAVING COUNT(*) > 1"
+                "SELECT *, COUNT(*) FROM dictionary GROUP BY lower(word) HAVING COUNT(*) > 1"
             )
         )
         return self._consume(selected)

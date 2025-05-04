@@ -181,7 +181,7 @@ barrel n. tunna; hólkur, hlaup (á byssu); s. láta í tunnu
 barren l. ófrjór; geld (um kú); hrjóstrugur
 barrenness n. ófrjósemi
 barricade n. þvergirðing (vegar), strætisvirki, vagnaborg; s. þvergirða (veg)
-barrier n. varnargrindur; varnarvirki; takmarkalína; hindrun; s. [~ off (in)] afgirða
+barrier n. varnargrindur; varnarvirki; takmarkalína; hindrun, tálmi; s. [~ off (in)] afgirða
 barrister n. málaflutningsmaður við æðri dómstóla ([~-at-law])
 barrow n. börur ([hand~, wheel~]); haugur yfir gröf
 barter s. hafa skipti á ([~ goods for other goods]); reka skiptaverslun; [~ away] selja, farga; n. skiptiverslun, vöruskipti
@@ -1122,8 +1122,8 @@ brokenhearted l. harmþrunginn
 broken-spirited l. harmþrunginn
 broker n. miðlari, verslunarmiðill; skransali; veðlánari
 brokerage n. miðlaraiðn; miðlaralaun
-bronchia nft. lungnapípur
-bronchitis n. barkakitlabólga, berkjukvef, lungnakvef, bronkítis
+bronchia nft. lungnapípur, berkjur
+bronchitis n. berkjubólga, berkjukvef, lungnakvef, bronkítis
 bronze n. brons (málmblendingur); s. setja bronslit á; gera tilfinningarlausan, herða
 brooch n. brjóstnál
 brood n. afsprengi dýra; afkvæmi, börn; s. liggja á eggjum; klekja út; búa yfir (e-u), vera að hugsa um ([on/over]); grúfa yfir (um myrkur, nótt, stormský)

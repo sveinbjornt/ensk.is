@@ -312,6 +312,7 @@ CAT_TO_NAME = {
     "uh.": "upphrópun",
     "fn.": "fornafn",
     "stytt.": "stytting",
+    "sks.": "skammstöfun",
 }
 
 

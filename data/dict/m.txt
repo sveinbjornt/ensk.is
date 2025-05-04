@@ -1,4 +1,4 @@
-Ma'am n. frú (stytting, sjá %[Madam]%)
+Ma'am n. frú (stytt. á %[Madam]%)
 Mac n. sonur (haft fyrir framan keltnesk mannanöfn, t.d. MacDonald, MacReady); Apple Macintosh tölva
 macadamize s. mölsteypa (veg); slétta, jafna
 macaroni n. núðlur, hveitispípur (ítalskur réttur)
@@ -41,7 +41,7 @@ magistrate n. yfirvald; dómari
 magistrature n. embætti; yfirvöld, valdsmenn
 magnanimity n. göfuglyndi, örlæti
 magnanimous l. göfuglyndur, göfugur, örlátur
-magnate n. stórhöfðingi
+magnate n. stórhöfðingi; jöfur
 magnesia n. beiskjusalt, magnesíum oxíð
 magnesium n. magnesíum
 magnet n. segull, seguljárn, segulstál; segulsteinn
@@ -1090,8 +1090,8 @@ molecule n. sameind
 molest s. áreita, ónáða, angra
 molestation n. áreitni, ónáðun, yfirgangur
 mollient l. mýkjandi
-mollification n. mýking, linun
-mollify s. mýkja; lina, sefa
+mollification n. mýking, linun; sefun
+mollify s. mýkja, lina; sefa
 mollusc n. lindýr
 mollycoddle n. kveifarmenni; s. skemma með dálæti
 molten l. bræddur; steyptur
