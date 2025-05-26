@@ -517,12 +517,12 @@ lief ao. ljúft, gjarna; [I had as ~ go] ég vildi eins gjarna fara
 liege l. þegnskyldur, lénskyldur; n. lénsmaður; trúr þegn; lénsdrottinn ([~ lord])
 lien n. eignarband, veðband; staður; [in ~ of] í staðinn fyrir, sem borgun (laun) fyrir
 lientery n. lífsýki, sótt
-lieutenancy n. undirforingjaembætti, lautinantstign; landsstjóraembætti; allir undirforingjar
-lieutenant n. undirforingi, lautinant; landsstjóri, fylkisstjóri
+lieutenancy n. undirforingjaembætti, liðsforingjaembætti, lautinantstign; landsstjóraembætti; allir undirforingjar
+lieutenant n. undirforingi, liðsforingi, lautinant; landsstjóri, fylkisstjóri
 life n. líf; líferni; fjör; ævi; ævisaga; [many lives were lost] margir létu lífið; [at our time of ~] á okkar dögum; [for ~] ævilangt; [for one's ~] til að forða lífinu, eins og lífið eigi að leysa ([run for dear ~]); [cannot for the ~ of me] þó að ég ætti lífið að leysa; [to draw from (after) the ~] draga upp eftir lifandi fyrirmynd; [to the ~] ákaflega líkur; [as large as ~] í fullri líkamsstærð
 lifeboat n. björgunarbátur
 lifebuoy n. björgunarhringur
-lifeguard n. lífvörður
+lifeguard n. lífvörður; sundvörður, gæsluvörður
 lifehold n. lífsábúð
 lifeless l. líflaus, örendur
 life-like l. sem er lifandi eftirmynd ([a ~ drawing])
@@ -530,7 +530,7 @@ lifelong l. ævilangur
 life rent n. lífeyrir
 life preserver n. sundbelti; björgunarhringur; stafur (með blýi í endanum)
 life-size l. í fullri líkamsstærð
-lifetime n. ævi, ævidagar ([during his ~])
+lifetime n. ævi, ævidagar, lífstíð ([during his ~])
 life work n. ævistarf
 lift s. lyfta, hefja; stela ([~ cattle]); lyftast upp; svífa upp (um þoku eða reyk); [~ one's hands] vinna eið; [the fog ~s] þokunni léttir
 lift n. lyfting; hafning; hjálp; lyftivél, lyfta; byrði (sem lyfta má í einu)

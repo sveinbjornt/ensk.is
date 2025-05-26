@@ -280,7 +280,7 @@ headmost l. fremstur
 headpiece n. hjálmur; höfuðfat; gáfur; gáfumaður; höfðalag ([~ of a bed])
 headquarters nft. höfuðstöðvar
 headsail n. framsegl
-headship n. forysta, æðsta tign
+headship n. forysta, formennska, æðsta tign
 headsman n. aftökumaður, böðull
 headspring n. uppspretta, upptök
 headstall n. höfuðleður á beisli
@@ -845,7 +845,7 @@ hostage n. gísl
 hostel n. gistihús; stúdentabústaður
 hostelry n. gistihús
 hostile l. óvina-; óvinveittur, fjandsamlegur
-hostility n. fjandskapur; ft. ófriður
+hostility n. fjandskapur, úlfúð; ft. ófriður
 hostler n. hestasveinn (í veitingahúsi); sjá %[ostler]%
 hot l. heitur; beiskur, barkandi; ákafur, æstur, bráðlyndur; kynferðislega aðlaðandi (óforml.)
 hotbed n. vermireitur; gróðrarstía
@@ -874,7 +874,7 @@ household n. heimilisfólk; húshald, búskapur; l. heimilis-; [~ troops] varðl
 householder n. fyrirvinna fjölskyldu; húsbóndi
 housekeeper n. bústýra, ráðskona; húsvörður
 housekeeping n. húshald, hússtjórn; gestrisni
-houseless l. húslaus, húsvilltur
+houseless l. húslaus, án húss, án híbýlis
 housemaid n. þjónustustúlka
 housemate n. sambýlismaður
 housemistress n. húsfreyja

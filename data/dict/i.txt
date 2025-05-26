@@ -303,7 +303,7 @@ implied l. gefið í skyn; þegjandi, sjálfsagður ([~ assent])
 impolicy n. óhyggileg aðferð, vanhyggni
 impolite l. ókurteis
 impoliteness n. ókurteisi
-impolitic l. óhyggilegur, óviturlegur ([it is ~ to])
+impolitic l. óhyggilegur, óviturlegur, óskynsamlegur ([it is ~ to])
 imponderable l. óveganlegur
 import s. flytja inn í landið (vörur); fela í sér, merkja, þýða; varða (miklu [greatly]); n. innflutningur; innfluttar vörur ([~s and exports]); þýðing, merking ([words of dubious ~]); mikilvægi ([of great ~])
 importable l. innflytjanlegur
@@ -592,7 +592,7 @@ incrustation n. hrúður
 incubate s. liggja á eggjum; inkúbera
 incubation n. álega (á eggjum); meðgöngutími sjúkdóms
 incubus n. mara, martröð, illur andi sem leitar á konur í svefni
-inculcate s. brýna fyrir e-m; innræta ([on, upon])
+inculcate s. innræta ([on, upon]); brýna fyrir e-m
 inculpate s. ásaka, kenna um
 inculpation n. ásökun, álas
 inculpatory l. ásakandi, lastandi; [~ words] lastyrði

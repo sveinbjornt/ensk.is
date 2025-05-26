@@ -293,7 +293,7 @@ victory n. sigur
 victual s. sjá (e-m) fyrir vistum
 victualler n. vistasali; vistaskip
 victuals nft. vistir, matvæli; [broken ~] matarleifar
-videlicet ao. nefnilega, sem sé (skammstafað [viz], sbr. [to wit])
+videlicet ao. nefnilega, sem sé (skammstafað %[viz]%, sbr. [to wit])
 vie s. keppa (við [with])
 view n. sjón, sýn; útsýni; skoðun; hyggja; skilningur; sjónarmið ([point of ~]); áform, tilgangur; [be in ~] vera í sýn, sýnilegur, sjást; [in full ~] í augsýn; [with this ~] í þessum tilgangi; [on ~] til sýnis; s. skoða, virða fyrir sér
 viewer n. áhorfandi; skoðunarmaður

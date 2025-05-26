@@ -140,13 +140,13 @@ cankerworm n. kálormur
 cannibal n. mannæta
 cannibalism n. mannát
 cannon n. fallbyssa; s. skjóta með fallbyssum; reka sig á ([~ against])
-cannonade s. skjóta (fallbyssum) á; n. skothríð
-cannoneer n. fallbyssuskyti
+cannonade n. skothríð, fallbyssuskothríð; s. skjóta (fallbyssum) á
+cannoneer n. fallbyssuskyti, hermaður eða sjóliði sem skýtur fallbyssum
 cannonry n. fallbyssuskothríð
 canny l. kænn, slægur
 canoe n. kanó (bátur frumbyggja Norður-Ameríku)
 canon n. kanóna; kirkjuréttur; frumregla; kórsbróðir, kanúki
-canonical l. kanónískur, samkvæmur kirkjuréttinum; undirstöðu-
+canonical l. kanónískur; samkvæmur kirkjuréttinum; undirstöðu-
 canonicals nft. prestsskrúði
 canonize s. taka í helgra manna tölu; staðfesta
 canonry n. kanúkatign, kanúkaembætti
@@ -167,14 +167,14 @@ cantonize s. skipta í fylki
 cantonment n. flokkun herliðs á vistir
 cantor n. forsöngvari
 canty l. kátur, glaðlyndur
-canvas n. strigi, segldúkur; segl; tjalddúkur, tjald; málverk
+canvas n. strigi; segldúkur, segl; tjalddúkur, tjald; málverk
 canvass s. ræða vandlega; safna (sér) atkvæðum ([~ for a seat in parliament]) n. atkvæðaútvegun, atkvæðasmölun
 canvasser n. atkvæðasmali
 caoutchouc n. harðgúmmí, togleður
 cap n. húfa; hvellhetta; [she is setting her ~ at him] hún er að koma sér við hann, draga sig eftir honum; s. setja húfu á; þekja; liggja ofan á; taka ofan (fyrir [to]); [~ verses] kveðast á
-capability n. hæfileiki
-capable l. fær (um e-ð [of])
-capacious l. rúmgóður, rúmur, víður; [a ~ mind] hleypidómalaus hugur
+capability n. hæfileiki, hæfni; geta
+capable l. fær (um e-ð [of]); hæfur
+capacious l. rúmgóður, rúmur, víður
 capacitate s. gera hæfan (til [for])
 capacity n. móttækisgáfa; hæfileiki; skilningur, gáfur; möguleiki; rúmtak; [in the ~ of a judge] sem dómari
 caparison n. söðulklæði, reiðver; klæðnaður; s. skrautbúa, skreyta
@@ -285,7 +285,7 @@ carnival n. kjötkveðjuhátíð, miðsvetrargleði (í kaþólskum löndum), h�
 carnivore n. kjötæta
 carnivorous l. kjötétandi ([~ animals, ~ plants])
 carol n. lofsöngur; gleðisöngur; s. syngja (gleðisöng)
-carotid n. hálslífæð ([~ artery])
+carotid n. hálsslagæð ([~ artery])
 carouse s. sitja að drykkju
 carousel n. hringekja; drykkja
 carp n. vatnakarfi; s. finna að ([at])
@@ -376,7 +376,7 @@ catastrophe n. hamfarir, stórslys, hörmung, hörmulegt slys, mikil ógæfa, ka
 catch s. grípa, taka; ná, ná í ([~ the train]); fá; veiða; sjá, heyra, skilja; [~ (a) cold] fá kvef; [the lock has caught] það hefur hlaupið fyrir í skránni; [~ sight of] koma auga á; [~ hold of] ná tökum á e-u, ná í e-ð; [~ at his breath] standa á öndinni; [~ one in a theft, in stealing] standa e-n að þjófnaði; [caught him on the nose] hitti hann á nefið; [he was caught out in a storm] stormur skall á hann; [~ up] ná (í); grípa (taka) fram í fyrir e-m; [~ up a habit] taka upp sið; [the wood caught fire] það kviknaði í skóginum; [the river was caught over] áin var lögð; n. tak, hald; veiði; veiðiskapur; hagur; halda, handfang; tálsnara
 catching l. afsýkjandi, smitandi; óstöðugur ([~ weather])
 catechetics nft. spurningafræði
-catechism n. spurningakver
+catechism n. spurningakver; trúfræðsla; uppfræðsla
 catechist n. barnafræðari
 catechize s. spyrja börn (úr fræðunum); kenna fræðin
 categorical l. ákveðinn, eindreginn, vafalaus
@@ -1425,7 +1425,7 @@ comminution n. mulning
 commiserate s. kenna í brjósti um; aumkvast yfir; harma ([I sincerely ~ your loss])
 commiseration n. meðaumkun
 commiserative l. meðaumkunarsamur, brjóstgóður
-commissariat n. vistastjórn
+commissariat n. vistastjórn; vistir; ráðuneyti í Sovétríkjunum forðum
 commissary n. fulltrúi (t.d. biskups); erindreki; vistastjóri ([~ of stores])
 commission n. framning (glæps); skipun; umboð, erindi; nefnd; friðdómarar ([~ of the peace]); konunglegt skipunarbréf (í foringjastöðu); umboðssala ([goods sold on ~]); umboðssölulaun, -þóknun (af e-u [on]); pöntun ([I have three ~s for the city]); [sin of ~] verknaðarsynd; [a ship in ~] albúið í hernað; [be in the ~] vera friðdómari; [a disgrace to the ~] foringjastéttinni til minnkunar; [~ for the assessment of taxes] niðurjöfnunarnefnd, skattanefnd; [~ agent] umboðssali; s. veita umboð; fela e-m á hendur; panta (hjá e-m [of]); [a ~ed officer] sem hefur konunglegt skipunarbréf
 commissioner n. fulltrúi, erindreki, umboðsmaður; nefndarmaður
@@ -1856,9 +1856,9 @@ consignation n. fjárgreiðsla í banka eða í hendur á löglegum viðtakanda;
 consignment n. vörusending
 consignor n. vörusendandi ([~ of goods])
 consist s. vera fólginn (í [in]); vera samsettur (af [of]); vera samkvæmur (e-u [with])
-consistency n. samfesta, þéttleiki; samkvæmni; staðfesta (í skoðunum)
-consistent l. samkvæmur (e-u [with]); staðfastur; þéttur
-consistently ao. í samræmi (við)
+consistency n. samfesta, þéttleiki; samkvæmni, samræmi; stöðugleiki, staðfesta (í skoðunum)
+consistent l. samkvæmur, samræmur (e-u [with]); staðfastur, stöðugur; þéttur, samfastur
+consistently ao. í samræmi (við); staðfastlega
 consistory n. kardinálaráð; kardinálasamkoma; kirkjuráð
 consociate s. sameina
 consociation n. sameining, samfélag
@@ -1999,17 +1999,17 @@ contribution n. framlag, tillag; skattur, herskattur; ritgjörð (í dagblað e�
 contributive l. styrkjandi; [~ to health] heilsustyrkjandi
 contributor n. sá sem leggur fram fé; sá sem ritar í dagblöð eða tímarit
 contributory l. sem styður að e-u ([to])
-contrite l. sártiðrandi; [~ heart] sundurkramið hjarta
-contrition n. iðrunarsút
+contrite l. iðrunarfullur, sártiðrandi; [~ heart] sundurkramið hjarta
+contrition n. iðrun; eftirsjá; iðrunarsút
 contrivance n. uppfundning; hugvitssemi; ráð; kænska, bragð ([military ~])
 contrive s. hugsa upp; finna upp; koma (e-u svo eða svo) fyrir; [he ~d to escape] honum tókst að komast undan
 contriver n. sá sem hugsar upp o.s.frv.; upphafsmaður
-control n. takmörkun; umsjón; stjórn; stjórnandi (á sambandsfundum); s. takmarka; hafa umsjón með; stilla, stjórna
-controllable l. stjórnanlegur, viðráðanlegur
-controller n. yfirumsjónarmaður
+control n. stjórn; stjórnandi (á sambandsfundum); stilling; takmörkun; umsjón; s. stjórna; stilla; hafa umsjón með; takmarka
+controllable l. stjórnanlegur, viðráðanlegur, sem hægt er að stjórna
+controller n. yfirumsjónarmaður; stjórnandi
 controversial l. umdeildur; vafasamur; deilu- ([~ writings]); þrætugjarn
 controversialist n. sjá %[controvertist]%
-controversy n. ritdeila; trúardeila; þræta; [beyond/without ~] vafalaust
+controversy n. deila; ritdeila; trúardeila; þræta; [beyond/without ~] vafalaus, óumdeildur
 controvert s. deila um; rengja, mótmæla
 controverter n. kappræðumaður; ritdeilumaður
 controvertist n. kappræðumaður; ritdeilumaður
@@ -2445,11 +2445,11 @@ credulous l. trúgjarn, auðtrúa ([of a ~ turn of mind])
 creed n. trú, trúarjátning
 creek n. vik, vogur; lítil á
 creel n. fiskakarfa
-creep s. skríða; læðast; kenna hrolls; [my skin/flesh ~s] það fer hrollur um mig; n. skrið, hæg hreyfing; [the ~s, cold ~s] (kulda)hrollur; ógeðsleg manneskja (óforml.), skriðkvikindi
-creeper n. skriðkvikindi; klifrari (fuglsheiti); e.k. skriðplanta
+creep s. skríða; læðast; kenna hrolls; [my skin/flesh ~s] það fer hrollur um mig; n. skrið, hæg hreyfing; [the ~s, cold ~s] (kulda)hrollur; ógeðsleg manneskja (óforml.); skriðkvikindi
+creeper n. skriðkvikindi; klifrari (fuglsheiti); skriðplanta, skriðjurt
 cremate s. brenna (lík)
 cremation n. líkbrennsla
-cremator n. (lík)brennsluofn
+cremator n. líkbrennsluofn; líkbrennari
 crematorium n. líkbrennslustofa
 crematory l. líkbrennslu-; n. líkbrennslustöð
 crenel n. skotskarð

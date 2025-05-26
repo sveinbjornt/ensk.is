@@ -393,8 +393,8 @@ bellclapper n. klukkukólfur
 bellflower n. bláklukka (blóm)
 bellfounder n. klukkusteypari
 bellrope n. klukkustrengur
-bellwether n. forustusauður
-belle n. fríðleikskona
+bellwether n. forystusauður; leiðtogi hóps
+belle n. fegurðardís, fríðleikskona
 bellicose l. herskár, hernaðargjarn, ófriðsamur
 belligerent l. herskár; sem á í ófriði ([the ~ parties]); hernaðar-; n. þjóð sem á í ófriði
 bellow s. belja, öskra; drynja; n. öskur, drunur
@@ -405,10 +405,10 @@ bellyband n. kviðgjörð
 bellybound l. sem er harðlíft
 bellyful n. kviðfylli, magafylli
 bellyworm n. njálgur, spólormur
-belong s. heyra til; [this book ~s to me] ég á þessa bók
+belong s. heyra til, tilheyra; [this book ~s to me] ég á þessa bók, þessi bók tilheyrir mér
 belongings nft. eignir, munir
 beloved l. elskaður (af [by]); vinsæll
-below fs. undir, fyrir neðan; [it is ~ me] mér ósamboðið; ao. niðri; á jörðinni; í undirheimum
+below fs. fyrir neðan, undir; [it is ~ me] mér ósamboðið; ao. niðri; á jörðinni; í undirheimum
 belt n. belti, lindi; ól; s. gyrða með belti; umgyrða
 beltsaw n. bandsög
 bemire s. ata, óhreinka
@@ -1073,7 +1073,7 @@ briefly ao. stuttlega; með fáum orðum
 briefness n. stuttleiki
 brier n. villirós
 brig n. brigg (skip)
-brigade n. stórfylki; slökkviliðssveit ([fire-~])
+brigade n. stórfylki; slökkviliðssveit ([fire ~])
 brigadier n. stórfylkishöfðingi
 brigand n. stigamaður
 brigandage n. stigamennska

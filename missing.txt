@@ -788,7 +788,6 @@ refurbishment
 rearrangement
 fizzy
 curbside
-hodgepodge
 wipeout
 craziness
 manipulative
@@ -816,6 +815,7 @@ blurry
 freefall
 nonchalance
 receivership
+redeemed
 unredeemable
 amortization
 juggernaut
@@ -1125,7 +1125,6 @@ sticker
 nonpartisan
 keystroke
 skyrocket
-holler
 folksy
 jumpsuit
 beachfront
@@ -3171,7 +3170,6 @@ chiastic
 temp
 poseur
 sandbank
-scallion
 transdiagnostic
 reassign
 outrank
@@ -4358,6 +4356,7 @@ stoically
 chancy
 sagely
 carelessly
+haunting
 hauntingly
 clapboard
 riverfront
@@ -4885,7 +4884,6 @@ labium
 spoonerism
 involucrum
 copepod
-neoprene
 accompanied
 classy
 convoluted
@@ -4913,7 +4911,6 @@ discursively
 gorgon (endurskoða)
 harm (endurskoða, hamming it up, osfv.)
 shovelhead
-ailurophobia
 haplogroup
 creche
 spyhop
@@ -4946,8 +4943,6 @@ checkbox
 brightened
 utricle
 poncho
-bioethics
-bioethicist
 affluenza
 centric
 combust
@@ -4957,7 +4952,6 @@ shitlist
 debounce
 decoke
 pandiculation
-disguised
 pleased
 naturist
 malarky
@@ -5027,12 +5021,10 @@ accepted
 canzonetta
 authenticator
 pedologist
-UNESCO
 subunit
 neuralese
 phytosaur
 saccade
-macrophage
 redundantly
 celiac
 undine
@@ -5040,10 +5032,7 @@ caring
 uncaring
 received
 beshitted
-adeptness
 abashed
-compressed
-decompressed
 slacks (buxur)
 lede
 securitization
@@ -5062,6 +5051,7 @@ neg
 negging
 wallflower
 wristband (endurskoða)
+tiered
 multitiered
 ethnogenesis
 swat
@@ -5079,7 +5069,6 @@ iteratively
 alliteratively
 warmup
 backhand
-kinesiology
 thunderhead
 heck
 heckle (endurskoða)
@@ -5132,7 +5121,6 @@ tartare
 subtartarean
 invested
 tubby
-cannoli
 frappuccino
 gazump
 colleen
@@ -5152,19 +5140,14 @@ caprylic
 darn (endurskoða)
 darned
 darnedest
-cuteness
 voyeuristic
 agendum
 agenda (endurskoða)
-knitwear
 trapped
-sociolinguistic
 tareq
-dork
 summative
 consummative
 revoked
-athymia
 rutilant
 digitized
 guenon
@@ -5176,11 +5159,110 @@ apostoless
 recommended
 colorectal
 saucerful
+tesselate
 tesselation
-gremlin
 recuse
 apographic
-judo
 ju-jitsu
 naturism
 achy
+cape (endurskoða)
+caper (endurskoða)
+scape (endurskoða)
+emeritus
+whataboutism
+antetype
+thuggee
+Lavinia
+doting
+dotingly
+overblown
+preauricular
+keloid
+deuteron
+colliculus
+fictious
+velte
+mistral
+meta- fsk.
+arcology
+consistency (endurskoða)
+poser (endurskoða)
+gnosis
+antinomian
+antinomianism
+homoerotic
+aggravated
+rigged
+formulated
+reformulated
+perceived
+angling
+borne
+septa
+cubicular
+cubicula
+tab
+avoidant
+espoused
+samizdat
+gadolinite
+ytterbite
+precipitated
+monazite
+emulsion (endurskoða)
+amortize (endurskoða)
+terra firma
+engorged
+skillset
+gonna
+enchilada
+bioreactor
+fabricated
+bikeshedding
+Beatle
+incestuously
+trepang
+trepanning
+spit roast
+sawbuck
+aide
+rasure
+blotchy
+obloquy (endurskoða)
+transvalue
+hydropsical
+indicated
+dating
+installed
+uninstalled
+kerning
+unchallenged
+distilled
+minge
+minger
+uncultured
+exiled
+exiledom
+autocorrect
+anorthosite
+canonicity
+hypotypical
+benchmarking
+runty
+pontificater
+laparoscopic
+
+Sri Lankan
+Surinamese
+Tajikistani
+Timorese
+Tunisian
+Zimbabwean
+Zanzibar
+Zanzibari
+Argentine
+Bahamian
+Bahraini
+Belizean
+Bermudan

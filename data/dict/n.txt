@@ -349,7 +349,7 @@ nominative n. nefnifall (í málfræði)
 nominee n. maður sem er tilnefndur eða stungið er upp á (í e-a stöðu)
 non- fsk. neitandi forskeyti, ekki, ó-
 nonage n. ómyndugleikaaldur, ófullveðja aldur
-nonagenarian n. níræður maður; l. níræður
+nonagenarian n. manneskja á tíræðisaldri; l. á tíræðisaldri
 nonce n. tækifæri; [for the ~] í svipinn, í bráðina
 nonchalant l. afskiptalaus, kærulaus ([~ demeanour])
 non-commissioned l. [~ officers] lægstu undirforingjar
@@ -463,7 +463,7 @@ nugget n. málmstykki; [a ~ of gold] gullstykki
 nuisance n. óþægindi; skapraun
 null l. ógildur, marklaus; sviplaus ([~ countenance]); [~ and void] dauður og marklaus
 nullify s. ónýta, ógilda, nema úr gildi
-nullity n. ónýting; markleysa ([a mere ~])
+nullity n. ónýting; ógildi; markleysa, þýðingarleysi, tilgangsleysi, gagnsleysi
 numb l. dofinn, loppinn, stirður af kulda; s. gera dofinn eða stirðan
 numbness n. doði, dofi
 number n. tala; fjöldi; númer; tölublað; hefti (af bók, [a story issued in ~s]); ft. hljóðfall; ljóð; s. telja; setja tölur á, tölusetja; vera að tölu; [his days are ~ed] dagar hans eru taldir

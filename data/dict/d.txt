@@ -690,29 +690,29 @@ deter s. hræða, fæla (frá [from])
 determent n. fráfæling
 deterge s. hreinsa (sár)
 detergent l. hreinsandi; n. hreinsiefni, þvottaefni
-deteriorate s. gera verra; versna; hraka; rýrna ([~ in value])
-deterioration n. versnun
-determinable l. sem verður ákveðinn
+deteriorate s. versna; gera verra; hraka; hnigna; rýrna ([~ in value])
+deterioration n. versnun, hnignun, rýrnun
+determinable l. sem verður ákveðinn; ákvarðanlegur, sem hægt er að ákvarða; útreiknanlegur, sannprófanlegur
 determinate l. fastákveðinn
 determination n. ákvörðun; fyrirætlun; úrskurður; endir; festa, eindrægni
-determine s. ákveða; gera út um; skera úr; gera (e-n) ráðinn í (e-u); afráða, ásetja sér ([~ on a journey, on doing])
-determined l. fastákveðinn, staðráðinn; einbeittur
-deterrence n. fráfæling, öftrun
-deterrent l. fráfælandi; n. öftrun
+determine s. ákveða; gera út um; skera úr um; gera (e-n) ráðinn í (e-u); afráða, ásetja sér ([~ on a journey, on doing something])
+determined l. fastákveðinn, staðráðinn; einbeittur; ákveðinn, úrskurðaður
+deterrence n. fráfæling, öftrun; fyrirbygging; hömlun
+deterrent l. fráfælandi; aftrandi; n. öftrun; fráfæling
 detersive l. hreinsandi; n. hreinsunarefni
-detest s. hafa viðbjóð á, hafa ímugust á
+detest s. hafa viðbjóð á, hafa ímugust á, þola ekki
 detestable l. viðbjóðslegur, andstyggilegur
 detestation n. viðbjóður; [to hold in ~] hafa andstyggð á
 dethrone s. steypa af stóli, steypa úr völdum, reka af ríki
-dethronement n. afsetning (konungs)
-detonate s. láta hvella; gera hvell; springa með hvelli; kveikja í (sprengju)
+dethronement n. afsetning (konungs), það að steypa af stóli
+detonate s. kveikja í (sprengju); láta hvella; gera hvell; springa með hvelli
 detonation n. hvellsprenging; drunur, dynkir; hvellur
-detour n. krókur
+detour n. krókur, krókaleið
 detract s. draga úr; ófrægja, niðra ([from])
 detraction n. niðrun, bakmælgi, rógur
-detractive l. niðrandi; illmálugur
-detractor n. niðrari, rógberi
-detractory l. niðrandi; illmálugur
+detractive l. niðrandi, ófrægjandi; illmálugur
+detractor n. niðrari, rógberi, ófrægjari
+detractory l. niðrandi, ófrægjandi; illmálugur
 detriment n. skaði, tjón; skaðsemi
 detrimental l. skaðlegur
 detrition n. núningur
@@ -720,7 +720,7 @@ detritus n. afrif, sandur, molar; hrúga ([~ of loose stones])
 detrude s. þrýsta (reka) niður; reka burtu
 detrusion n. niðurrekstur; burtrekstur
 detruncate s. höggva af, sníða af; færa niður (gjöld)
-deuce n. tvistur (í spilum); tveir á teningi, daus; fjandi, djöfull; [who the ~] hver fjandinn; [where the ~] hvar í fjandanum?
+deuce n. tvistur (í spilum); tveir á teningi, daus; fjandi, djöfull; [who the ~, what the ~] hver fjandinn; [where the ~] hvar í fjandanum?
 deuced l. bölvaður; rækalls, skollans ([in such a ~ hurry])
 deucedly ao. rækalls, skollans, skrambi
 deuce-ace n. daus og ás (í teningskasti, [to throw ~])
@@ -1081,7 +1081,7 @@ disfrock s. færa úr hempunni; [to be ~] missa hempuna
 disgorge s. selja upp, spýja; skila aftur; tæma (magann); [~ itself] falla, renna (út í [into])
 disgrace n. ónáð, óþokki; smán, svívirðing; s. smána, svívirða; leggja óþokka á e-n; [to be ~d] fá óþokka e-s
 disgraceful l. svívirðilegur, smánarlegur
-disguise s. dulbúa, dulbúast ([~ in woman's clothes]); hylja, leyna, draga dul á ([~ one's real intention]); [~d in/with drink (liquor)] drukkinn; n. dularbúningur; dulargervi; yfirskin, yfirvarp
+disguise s. dulbúa, dulbúast ([~ in woman's clothes]); hylja, leyna, draga dul á ([~ one's real intention]); n. dulbúningur; dulargervi; yfirskin, yfirvarp
 disgust n. óbeit; viðbjóður; viðurstyggð; s. vekja viðbjóð hjá; gera leiðan á ([~ed with]); [to be/feel ~ed] bjóða við (e-u [at])
 disgusting l. viðbjóðslegur, andstyggilegur, viðurstyggilegur
 dish n. diskur; fat; réttur (matar); skál; s. bera fram (mat [~ up]); gera út af við; [~ed (up)] kominn á höfuðið
@@ -1094,7 +1094,7 @@ dishonest l. óheiðarlegur
 dishonesty n. óráðvendni, óheiðarleiki
 dishonour n. vanvirða, vansæmd, smán; [to the ~ of] e-m til smánar (óvirðingar); s. óvirða, smána; borga ekki (víxil)
 dishonourable l. vansæmandi; óheiðarlegur
-disillusion s. opna augun á, afblekkja
+disillusion s. opna augun á, afblekkja; n. afblekking, lausn undan blekkingu
 disinclination n. óbeit (á [to])
 disincline s. gera fráhverfan (e-u [from, for, to])
 disinfect s. sótthreinsa, eyða sóttnæmi í
@@ -1580,7 +1580,7 @@ dread n. hræðsla, ótti; l. hræðilegur, ógurlegur; s. hræðast, óttast
 dreadful l. hræðilegur, skelfilegur
 dreadnought n. feiknarstórt herskip; þykkur ullardúkur; l. óttalaus
 dream n. draumur; s. dreyma
-dreamer n. draummaður
+dreamer n. maður sem dreymir, draumóramaður
 dreamery n. draumórar
 dreamful l. dreymandi, eins og í draumi
 dreamy l. dreymandi, eins og í draumi ([a ~ recollection])

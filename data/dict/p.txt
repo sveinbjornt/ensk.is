@@ -148,8 +148,8 @@ panorama n. alsýni, hringsýni, hringsjá, víðsýni
 pansy n. þrenningargras
 pant s. slá, berjast (um hjartað); mása; [~ for] þrá ákaflega; [~ for breath] standa á öndinni; n. stutt andartak; hjartsláttur; más
 pantaloons nft. buxur
-pantheism n. sú kenning að náttúran sé guð
-pantheist n. panþeisti
+pantheism n. algyðistrú, panþeismi (sú kenning að náttúran sé guð)
+pantheist n. algyðistrúarmaður, panþeisti (sjá %[pantheism]%)
 pantheon n. algyðishof
 panther n. pardusdýr, hlébarði
 pantile n. þaksteinn
@@ -399,7 +399,7 @@ pave s. steinleggja; gera slitlag (á veg); [~ a way for] ryðja (e-u) braut
 pavement n. gangstétt; steinlagning; slitlag (á vegi); hellugólf
 paver n. steinleggjari, sem steinleggur stræti
 paviour n. steinleggjari, sem steinleggur stræti
-pavilion n. tjaldhús, tjald; skemmtihús
+pavilion n. tjaldhús, tjald, sýningartjald; skemmtihús, skemmtanaskáli; skáli
 pavonine l. páfuglslegur; litbreytilegur (sem páfuglsstél)
 paw n. löpp; hrammur; s. klóra, krafsa með framfótunum; strjúka
 pawl n. hamla
@@ -662,7 +662,7 @@ periodical l. sem kemur aftur með jöfnu millibili; n. tímarit
 periodically ao. með jöfnu millibili; alltaf öðru hverju
 peripatetic l. sem lýtur að heimspeki Aristótelesar; n. maður sem fylgir heimspeki Aristótelesar; ferðamaður; farandsali
 peripherical l. sem lýtur að ummáli hrings
-periphery n. ummál hrings
+periphery n. ummál hrings; útjaðar
 periphrase s. segja e-ð með mörgum orðum, snúa (e-u) í lengra mál; n. snúningur í lengra mál
 periphrasis n. sjá %[periphrase]%
 periphrastical l. sagður með mörgum orðum (eða fleiri en þörf er á)
@@ -818,7 +818,7 @@ pewit n. vepja
 pewter n. málmblendingur úr tini og blýi; pjátur, blikk; blikkmunir
 pewterer n. pjátrari
 phaeton n. fjórhjólaður léttivagn
-phalanx n. fylking, breiðfylking
+phalanx n. fylking, breiðfylking; kjúka
 phalarope n. óðinshani
 phantasm n. draugur, vofa; hugarburður, heilaspuni; svipur; sýn
 phantom n. sýn; svipur, vofa, fyrirburður
@@ -852,9 +852,9 @@ philhellene n. Grikkjavinur
 philhellenist n. Grikkjavinur
 philhellenic l. vinveittur Grikkjum
 philippic n. refsiræða
-philological l. textafræðilegur
-philologist n. textafræðingur
-philology n. málfræði, textafræði ([comparative ~])
+philological l. textafræðilegur, fílólógískur
+philologist n. textafræðingur, fílólóg
+philology n. textafræði, fílólógía ([comparative ~])
 philomel n. næturgali
 philosopher n. heimspekingur; [natural ~] eðlisfræðingur, náttúruspekingur
 philosophical l. heimspekilegur; viturlegur
@@ -1153,8 +1153,8 @@ plasticity n. mótunarhæfileiki; sveigjanleiki
 plastron n. brjósthlíf skylmingamanna; kviðskjöldur (skjaldböku); línbrjóst (á skyrtu)
 plat s. flétta; ríða; vefa; n. flétta; motta; blettur, reitur ([grassy ~])
 plate n. málmþynna, málmplata; spangabrynja; borðbúnaður; diskur; silfraðir munir, plettmunir; verðlaun (við kappreiðar); s. silfra, leggja málmþynnur á; málmbúa ([~ with gold or silver])
-plateau n. háslétta; skrautbakki; skrautdiskur
-plateful n. fullur diskur ([a ~ of soup])
+plateau n. háslétta; skrautbakki, skrautdiskur; stöðugt ástand; s. staðna, komast í ástand þar sem lítið er um breytingar ([sales have ~d])
+plateful n. fullur diskur, diskfylli ([a ~ of soup])
 plate-glass n. spegilgler
 plate-mark n. stimpill (á silfur- eða gullmunum)
 plate-paper n. koparstungupappír
@@ -1439,7 +1439,7 @@ pontiff n. æðsti prestur; páfi
 pontifical l. yfirprestlegur; páfalegur; n. handbók biskupa
 pontificals n. biskupsskrúði
 pontificalia n. biskupsskrúði
-pontificate n. yfirprestsembætti; páfastóll; stjórnarár páfa; s. þjóna (messa) sem biskup
+pontificate n. yfirprestsembætti; páfastóll; stjórnarár páfa; s. gegna embætti páfa eða biskups; messa sem biskup; predika; þenja sig, þruma
 pontoon n. flatbotnaður ferjubátur; brúarbátur
 pony l. lítill hestur
 poodle n. loðhundur
@@ -2107,7 +2107,7 @@ prohibitory l. forboðs-, bann- ([~ law])
 project s. kasta ([~ a body into space]); láta (ljós, skugga) falla á e-ð; leggja ráð á; gera áætlun um; standa fram; n. áætlun, áform; uppástunga
 projectile l. framknúnings- ([~ force]); kast-; n. skeyti ([~ missile])
 projection n. kast, framknúningur; framskot; ráðagerð
-projector n. ljóskastari; höfundur (að e-i tillögu); áformasmiður
+projector n. skjávarpi; ljóskastari; höfundur (að e-i tillögu); áformasmiður
 projecture n. framskot ([the ~ of the roof])
 prolapsus n. sig (legsig, baksig)
 prolegomena nft. formáli, inngangur
@@ -2402,10 +2402,10 @@ pulpit n. ræðustóll, predikunarstóll; kennimannalýður
 pulpous l. mergjaður; mjúkur; safamikill
 pulpy l. mergjaður; mjúkur; safamikill
 pulsate s. slá (um æð)
-pulsation n. hjartsláttur, æðasláttur; titringur
+pulsation n. hjartsláttur, æðasláttur, sláttur; titringur
 pulsative l. sláandi
 pulsatory l. sláandi
-pulse n. slagæð, lífæð; púls, sláttur slagæðar; belgávextir; s. slá
+pulse n. slagæð, lífæð; púls, sláttur (slagæðar); belgávextir; s. slá
 pulverizable l. sem hægt er að mylja í duft
 pulverization n. mulning
 pulverize s. mylja (molna) í duft

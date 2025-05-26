@@ -481,10 +481,9 @@ seaweed n. þang, þari; marhálmur
 sea wolf n. steinbítur
 seaworthy l. (um skip) sjófær, haffær
 sea wrack n. bóluþang
-seal n. selur
 sealer n. selveiðamaður
 sealskin n. selskinn
-seal n. innsigli; signet; s. innsigla, setja innsigli fyrir eða á; lakka; staðfesta
+seal n. selur; innsigli; signet; s. innsigla, setja innsigli fyrir eða á; lakka; staðfesta
 sealing wax n. lakk
 seam n. saumur ([the maids sit at their ~s]), samskeyti; borðasamskeyti (á skipi); (langt) ör; s. sauma saman; skeyta (fella) saman; setja ör á
 seamstress n. saumakona
@@ -675,7 +674,7 @@ sepoy n. indverskur hermaður (í þjónustu Englendinga)
 September n. september (mánuður)
 septennial l. sem gerist sjöunda hvert ár; sem stendur um sjö ár
 septentrion n. norður(átt)
-septuagenarian n. sjötugur maður
+septuagenarian n. manneskja á áttræðisaldri; l. á áttræðisaldri
 septuagenary n. sjötugur maður
 sepulchral l. grafarlegur; greftrunar-; [~ stone] legsteinn
 sepulcher n. gröf; legstaður; s. greftra, jarða
@@ -759,7 +758,7 @@ sewerage n. holræsiskerfi, lokræsakerfi (í borgum); for í lokræsum
 sewing n. saumaskapur; saum
 sewing machine n. saumavél
 sex n. kyn; [both ~es] karlar og konur, bæði kynin; [the fairer ~] konur; samfarir, kynmök, kynlíf; [~ drive] kynhvöt
-sexagenarian n. sextugur maður
+sexagenarian n. manneskja á sjötugsaldri; l. á sjötugsaldri
 sexagenary l. sextugur maður
 sexennial l. sem gerist á sex ára fresti
 sextant n. hringsjöttungur; sextungur, sextant (stjörnufræðilegt mæliverkfæri)
@@ -1992,7 +1991,7 @@ spotted l. flekkóttur; [~ fever] flekkusótt
 spotty l. flekkóttur
 spousal l. brúðkaups-, brúðar- ([~ present])
 spouse n. eiginmaður; eiginkona
-spouseless l. ógiftur, ókvæntur
+spouseless l. ógiftur, ókvæntur, án maka
 spout n. pípa; stútur; s. spýta ([the whale ~s water]); skvetta; gjósa; buna, spýtast; ([blood ~s from a wound]); tala hátíðlega; lesa upp
 spoutless l. stútlaus
 sprain s. skekkja í liði; ofteygja (sin); ofreyna; n. liðskekking, liðundning; sinatog

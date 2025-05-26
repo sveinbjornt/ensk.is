@@ -349,7 +349,7 @@ addlebrained n. vitlaus
 address s. snúa, beina (ósk, bæn, orðum); ávarpa; skrifa utan á; [~ oneself (one's words) to a person] snúa máli sínu til e-s; [~ oneself to a task] búast til; n. heimilisfang; ávarp, ræða; utanáskrift; fimleiki; viðmót; [pay one's ~es to a lady] gera sig líklegan við; [a man of pleasing ~] þægilegur í viðmóti
 adduce s. tilgreina, vitna til, tilfæra sem sönnun
 adduction n. aðdráttur; tilgreining
-adept l. leikinn (í [in]), kænn; n. snillingur (í e-i kunnáttu)
+adept l. leikinn (í [in]), lunkinn, kænn; n. snillingur (í e-i kunnáttu)
 adequacy n. samsvörun
 adequate l. fullnógur, alveg samsvarandi ([~ to the requirements]); hæfur ([~ to the work])
 adequately ao. nægilega, til hlítar
@@ -902,7 +902,7 @@ among fs. á meðal, innan um, í, á milli; hjá
 amongst fs. á meðal, innan um, í, á milli; hjá
 amorous l. ástargjarn; ástfanginn (í [of]); ástar- ([~ distresses])
 amorously ao. með ástarhug
-amorphous l. ólögulegur, ósköpulegur ([~ mass])
+amorphous l. formlaus; ólögulegur, ósköpulegur ([~ mass])
 amort l. hnugginn
 amortize s. smálúka skuld með ákveðnum greiðslum
 amount n. upphæð; fjöldi; s. vera að upphæð, nema (e-u [to]); vera jafngildur, vera sama sem ([his fears almost ~ to madness])
@@ -1404,7 +1404,7 @@ art n. list, íþrótt; kunnátta; kænska, bragð; [the fine ~s] fagrar listir
 artful l. kænn, slægur; íþróttlegur
 artfulness n. kænska, bragðvísi
 arterial l. sem lýtur að slagæðum, slagæða-
-artery n. lífæð, slagæð
+artery n. slagæð, lífæð
 arthritic l. sem veldur gigt (í liðum)
 arthritis n. liðabólga, liðagigt
 article n. grein (í bók eða blaði); atriði; þáttur; vörutegund, varningur ([~ of trade]); hlutur; [the definite ~] ákveðni greinirinn; [in the ~ of death] í andlátinu; [an ~ of dress] föt; [an ~ of faith] trúarsetning; [~s of apprenticeship] námssamningur; s. koma fyrir (til náms); kæra ([~ against one])
