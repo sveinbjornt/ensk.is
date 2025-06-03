@@ -113,12 +113,41 @@ for c in CATEGORIES:
 class AddCustomHeaderMiddleware(BaseHTTPMiddleware):
     """Add custom headers to all responses."""
 
+    CSP_DIRECTIVES = {
+        "default-src": ["'self'"],
+        "script-src": ["'self'", "'unsafe-inline'"],
+        "style-src": ["'self'", "'unsafe-inline'"],
+        "img-src": ["'self'"],
+        "font-src": ["'self'"],
+        "connect-src": ["'self'"],
+        "frame-ancestors": ["'none'"],
+    }
+
     async def dispatch(self, request: Request, call_next):
         response = await call_next(request)
+
         if request.url.path.startswith("/static/"):
             response.headers["Cache-Control"] = "public, max-age=86400"
         else:
             response.headers["Content-Language"] = "is, en"
+
+        csp_parts = [
+            f"{directive} {' '.join(sources)}"
+            for directive, sources in self.CSP_DIRECTIVES.items()
+        ]
+        response.headers["Content-Security-Policy"] = "; ".join(csp_parts)
+        response.headers["X-Content-Type-Options"] = "nosniff"
+        response.headers["X-Frame-Options"] = "DENY"
+        response.headers["Referrer-Policy"] = "same-origin"
+        response.headers["Strict-Transport-Security"] = (
+            "max-age=31536000; includeSubDomains"
+        )
+        response.headers["X-Permitted-Cross-Domain-Policies"] = "none"
+        response.headers["Permissions-Policy"] = (
+            "geolocation=(), microphone=(), camera=(), payment=(), usb=()"
+        )
+        response.headers["X-XSS-Protection"] = "1; mode=block"
+
         return response
 
 
