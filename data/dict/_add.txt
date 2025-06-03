@@ -7586,6 +7586,19 @@ Genovese l. sjá %[Genoan]%
 laughingstock n. aðhlátursefni, sá sem er hafður að athlægi, skotspónn
 bonjour uh. góðan daginn! (úr frönsku)
 howdy uh. sæll! (stytt. á [how do you do?])
-globulin n. glóbúlín (prótín í blóði)
-klezmer n. austurevrópsk gyðingatónlist
+globulin n. glóbúlín (prótín í blóðvökva)
+klezmer n. mið- og austurevrópsk gyðingatónlist
 exiled l. (rekinn) í útlegð (sjá %[exile]%)
+zilch n. ekkert, ekki neitt, núll, nix (óforml., BNA)
+dour n. önuglyndur, súr; strangur, harður
+dourness n. önuglyndi, önugheit; strangleiki, harka
+cenobium n. munkaklaustur, munkasamfélag
+unveiled l. afhjúpaður; án blæju
+clamor n. sjá %[clamour]%
+edge case n. jaðartilvik, jaðartilfelli
+tephra n. gjóska
+gnosis n. (yfirskilvitleg eða dulræn) þekking, vitund
+octoroon n. barnabarn hvíts manns og kynblendings (úrelt og niðrandi)
+warmup n. upphitun
+multitiered l. í mörgum röðum; á mörgum hæðum; fjölþætt, flókið
+confounding l. ruglandi, samblandandi ([the ~ variable])

@@ -763,12 +763,31 @@ async def api_item_parsed(request: Request, w: str) -> JSONResponse:
     return JSONResponse(content=result)
 
 
+def _strip_html(s: str) -> str:
+    """Strip HTML tags from a string."""
+    return re.sub(r"<[^>]+>", "", s)
+
+
+def _strip_parentheses(s: str) -> str:
+    """Strip parentheses from a string."""
+    return re.sub(r"\(.*?\)", "", s)
+
+
 @app.get("/api/item/parsed/many/")  # type: ignore
 @cache_response(SMALL_CACHE_SIZE)
-async def api_item_parsed_many(request: Request, q: str) -> JSONResponse:
+async def api_item_parsed_many(
+    request: Request, q: str, strip_html: int = 0, strip_parentheses: int = 0
+) -> JSONResponse:
     q = q.strip()
 
     words = [w.strip() for w in q.split(",")]
+
+    def _process_item(s: str) -> str:
+        if strip_html:
+            s = _strip_html(s)
+        if strip_parentheses:
+            s = _strip_parentheses(s)
+        return s.strip()
 
     res = {}
     for w in words:
@@ -779,7 +798,7 @@ async def api_item_parsed_many(request: Request, q: str) -> JSONResponse:
         # Parse definition string into components
         comp = unpack_definition(result["def"])
         # Translate category abbreviations to human-friendly words
-        comp = {CAT_TO_NAME[k]: v for k, v in comp.items()}
+        comp = {CAT_TO_NAME[k]: [_process_item(i) for i in v] for k, v in comp.items()}
         res[w] = comp
 
     return JSONResponse(content=res)

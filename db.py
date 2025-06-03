@@ -244,6 +244,6 @@ class EnskDatabase(object):
         selected = (
             self.conn()
             .cursor()
-            .execute(f"SELECT * FROM dictionary WHERE definition LIKE '%{cat}. %'")
+            .execute("SELECT * FROM dictionary WHERE definition LIKE ?", [f"%{cat}. %"])
         )
         return self._consume(selected)

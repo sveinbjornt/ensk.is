@@ -1224,9 +1224,9 @@ disseminate s. breiða út, dreifa
 dissemination n. útbreiðsla ([~ of knowledge])
 disseminator n. sá eða það, sem breiðir út
 dissension n. ágreiningur, sundurþykkja
-dissent s. vera ósamþykkur (e-m [from]); vera utan við þjóðkirkju; n. ágreiningur
-dissenter n. sértrúarmaður
-dissentism n. sértrúarkreddur
+dissent s. vera ósamþykkur (e-m [from]); vera utan við þjóðkirkju; n. ágreiningur; andóf
+dissenter n. sértrúarmaður; andófsmaður
+dissentism n. sértrúarkreddur; andóf
 dissentient l. ósammála; n. sérskoðunarmaður, ágreiningsmaður
 dissenting l. ósammála; [~ minister] sértrúarklerkur
 dissertation n. ritgerð
