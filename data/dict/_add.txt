@@ -212,8 +212,8 @@ structuralism n. formgerðarstefna, strúktúralismi (rannsóknaraðferð til a�
 multitasking n. fjölverkavinnsla (þegar mörg verk eru unnin samtímis)
 multitask s. vinna mörg verk samtímis
 ozone n. óson (fjölgervingsform súrefnis, O3)
-PTSD n. sjá %[post-traumatic stress disorder]%
-post-traumatic stress disorder n. áfallastreituröskun ([PTSD])
+PTSD sks. á %[post-traumatic stress disorder]%
+post-traumatic stress disorder n. áfallastreituröskun (%[PTSD]%)
 download s. hala niður; n. niðurhal
 metabolism n. efnaskipti
 nuke s. sprengja með kjarnorkuvopnum; n. kjarnorkuvopn (óforml.); sjá %[nuclear weapon]%
@@ -3568,7 +3568,8 @@ Venetian l. feneyskur, frá Feneyjum; n. Feneyingur
 paternoster n. Faðirvorið (kristin bæn)
 self-sacrifice n. sjálfsfórn
 undergrad n. sjá %[undergraduate]%
-robotization n. vélmennavæðing, þjarkvæðing
+robotize s. vélmennavæða, þjarkavæða (sjá %[robot]%)
+robotization n. vélmennavæðing, þjarkavæðing
 quintile n. fimmtungur
 upload s. hala upp, hlaða upp; n. upphal
 uploadable l. upphalanlegur
@@ -4566,6 +4567,7 @@ violently ao. ákaflega, ofsalega, ruddalega; með ofbeldi, á ofbeldisfullan h�
 epoxy n. epoxý; [~ resin] epoxý kvoði
 aggrieved l. móðgaður ([the ~ party])
 velure n. velúr (e.k. flauelsefni); l. velúrs-, úr velúr
+velour n. velúr (e.k. flauelsefni); l. velúrs-, úr velúr
 lanyard n. e-s konar skipsreim eða reipi
 fart n. prump, fret, viðrekstur; s. prumpa, freta, reka við
 staccato l. stuttaralegur; ao. stuttaralega
@@ -7532,6 +7534,7 @@ uncontrite l. iðrunarlaus
 uncontriteness n. iðrunarleysi
 contriteness n. iðrun, iðrunarástand; eftirsjá
 parasolette n. lítil sólhlíf
+kestrel n. turnfálki; smávaxinn fálki
 Belarusian l. hvítrússneskur; n. Hvít-Rússi; hvítrússneska
 Bhutanese l. bútanskur; n. Bútani
 Congolese l. kongóskur; n. Kongómaður
@@ -7545,3 +7548,44 @@ Omani l. ómanskur; n. Ómani
 Rwandan l. rúandskur; n. Rúandamaður
 Senegalese l. senegalskur; n. Senegali
 Ugandan l. úgandskur; n. Úgandamaður
+Tunisian l. túniskur; n. Túnisi, Túnismaður
+Zimbabwean l. simbabveskur; n. Simbabvemaður
+Sri Lankan l. srílankskur; n. Srí Lanka-maður
+Surinamese l. súrínamskur; n. Súrínami
+Tajikistani l. tadsískur, frá Tadsíkistan; n. Tadsíki
+Tajik n. Tadsíki
+Timorese l. tímorskur; n. Tímori
+Bahamian l. bahameyskur; n. Bahameyingur
+Bahraini l. bareinskur; n. Bareini
+Belizean l. belískur; n. Belísi
+Bermudan n. Bermúdamaður
+asymptote n. aðfella, ósnertill
+laparoscopy n. kviðarholsspeglun
+laparoscopic l. kviðarholsspeglunar-
+slain l. veginn, drepinn (sjá %[slay]%)
+Apennines nft. Appennínafjöll (fjallgarður á Ítalíuskaga)
+quilting n. vattering, bútasaumur
+exiledom n. útlegð, útlegðardómur
+sawhorse n. búkki, undirstöðugrind til að saga á
+sawbuck n. búkki (sjá %[sawhorse]%); tíu dala seðill (BNA)
+cultured l. menningarlegur, fágaður, siðmenntaður
+uncultured l. menningarsnauður, ruddalegur
+exhilarating l. hressandi, spennandi; gleðjandi, kætandi
+jackpot n. lukkupottur, verðlaunapottur, vinningur; [hit the ~] detta í lukkupottinn, öðlast stóran vinning
+jawline n. kjálkasvipur, útlína kjálkans
+cornstarch n. maíssterkja
+segmentize s. skipta í búta eða hluta, sneiða
+eyrie n. hreiður; arnarhreiður; ránfuglahreiður
+seraphim nft. serafar, englar (sjá %[seraph]%)
+savior n. sjá %[saviour]%
+meatloaf n. kjöthleifur
+affiant n. manneskja sem gefur frá sér skriflega og eiðfesta yfirlýsingu (sjá %[affidavit]%)
+Genoa n. Genúa (borg á Norður-Ítalíu)
+Genoan n. Genúamaður, Genúabúi; l. genúskur, Genúa-
+Genovese l. sjá %[Genoan]%
+laughingstock n. aðhlátursefni, sá sem er hafður að athlægi, skotspónn
+bonjour uh. góðan daginn! (úr frönsku)
+howdy uh. sæll! (stytt. á [how do you do?])
+globulin n. glóbúlín (prótín í blóði)
+klezmer n. austurevrópsk gyðingatónlist
+exiled l. (rekinn) í útlegð (sjá %[exile]%)

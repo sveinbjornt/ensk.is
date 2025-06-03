@@ -536,10 +536,10 @@ willow n. pílviður, víðir; [wear the ~] syrgja (unnusta eða unnustu)
 willowed l. vaxinn víði
 willowish l. líkur pílviði; grannvaxinn
 willowy l. vaxinn víði; grannvaxinn
-wily l. slægur, brögðóttur
+wily l. slægur, brögðóttur, slóttugur, slunginn
 wimble n. nafar, bor; s. bora
 wimple s. gára, ýfa ([~ the surface of the water]); hylja (blæju); gárast; renna í bugðum; niða (um læk); n. gára; niður; bugða; höfuðdúkur, sem nunnur nota
-win s. vinna (orustu, sigur, í spilum); ávinna sér, öðlast
+win s. vinna (orustu, sigur, í spilum), sigra; ávinna sér, öðlast ([~ favour])
 wince s. hrökkva við; kveinka sér; n. kveinkun; [without a ~] án þess að kveinka sér
 winch n. hjólsveif; hjólvinda
 wind s. vinda; snúa; vefja utan um; vefjast, vefja sig (utan um [round]); bugða sig; liggja (ganga, renna) í bugðum; [~ up] draga upp (klukku); ljúka við, enda ([~ up a speech]); ljúka upp ([~ up a company]); hressa við; herða (streng); viðra; þurrka; finna þef af, þefa e-ð upp; gera móðan; láta (hest) mása; þeyta, blása í (horn); n. vindur; veður; andardráttur; uppþembingur; [sail near the ~] sigla upp í vindinn; [down the ~] undan vindi; [in the ~'s eye] beint upp í vindinn; [between ~ and water] í sjómáli (þar sem skipsborð og sjór mætast); [have the ~ in one's teeth] sigla á móti vindi; [be in good ~] hafa góð lungu, vera ómæðinn; [break ~] leysa vind; [get (take) ~] kvisast, verða kunnugt; [raise the ~] útvega sér peninga; [lose one's ~] ná ekki andanum; [there is something in the ~] það er eitthvað á döfinni; bugða; snúningur
@@ -584,7 +584,7 @@ wink s. depla (augum); drepa tittlinga; gefa bendingu með augunum; látast ekki
 winker n. augnaskýla, blaka (á beisli)
 winner n. vinnandi; sigurvegari
 winning l. laðandi
-winnings nft. vinningur
+winnings nft. vinningur; gróði
 winnow s. hreinsa (korn) með blæstri, vinsa; rannsaka
 winsome l. ljúfmannlegur; þægilegur
 winsomeness n. ljúfmennska
