@@ -228,8 +228,8 @@ decimal l. sem er í tugum; [~ fraction] tugabrot; [~ system] tugakerfi; n. tuga
 decimalism n. tugakerfi
 decimate s. refsa tíunda hverjum; drepa mikinn hluta af; rústa
 decimation n. refsing tíunda hvers manns; mikill manndauði, mikið mannfall
-decipher s. ráða (letur), lesa úr
-decipherment n. ráðning (leturs)
+decipher s. ráða (letur), lesa úr; dulráða
+decipherment n. ráðning (leturs); dulráðning
 decision n. úrskurður, dómur; ákvörðun ([let me know your ~]); einbeitni
 decisive l. úrskerandi; afgerandi; einbeittur; eindreginn; vafalaus; [to strike a ~ blow] láta til skarar skríða
 deck s. skreyta, prýða; setja þilfar í ([~ in, over]); n. þilfar

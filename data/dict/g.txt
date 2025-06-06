@@ -154,7 +154,7 @@ gastronome n. matmaður, sælkeri
 gastronomer n. matmaður, sælkeri
 gastronomy n. matreiðslufræði; sællífi
 gate n. hlið
-gateway n. hlið
+gateway n. hlið; gátt
 gather s. tína ([~ flowers, fruit]); safna; draga saman í fellingar, fella; álykta (af e-u [from]); safnast; aukast; [~ breath] kasta mæðinni; [~ head] magnast; [~ way] fá vind í seglin ([the ship soon ~ed way]); [~ up] taka upp, taka saman; n. felling (á fati)
 gathering n. safn; samkoma; kýli, ígerð
 gaud n. glingur
@@ -203,7 +203,7 @@ generally ao. vanalega
 generalship n. hershöfðingjatign, hershöfðingjaembætti; kænska; [a piece of ~] herbragð
 generate s. geta af sér, fæða; framleiða; valda
 generation n. getning, æxlun; framleiðsla; ætt, ættliður; mannsaldur, kynslóð; niðjar
-generative l. getnaðar-; framleiðandi ([~ cause])
+generative l. getnaðar-; framleiðandi ([~ cause]); skapandi
 generator n. framleiðsluafl; framleiðari; rafall
 generic l. almennur ([~ term, name])
 generosity n. göfuglyndi, veglyndi; örlæti

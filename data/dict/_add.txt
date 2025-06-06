@@ -104,8 +104,8 @@ ecology n. vistfræði
 ecological l. vistfræðilegur, vistfræði-; [we are facing ~ collapse]
 ecologically ao. vistfræðilega
 ecologist n. vistfræðingur
-encryption n. dulkóðun
-encrypt s. dulkóða
+encryption n. dulkóðun, dulritun
+encrypt s. dulkóða, dulrita
 girlfriend n. kærasta, unnusta; vinkona
 ex-girlfriend n. fyrrverandi kærasta eða unnusta; fyrrverandi vinkona
 guestbook n. gestabók
@@ -3860,6 +3860,7 @@ airborne l. vindborinn, loftborinn; sem dreifist með lofti ([~ disease, transmi
 endocrine l. innkirtla-; innkirtill ([~ gland])
 neurophysiology n. taugalífeðlisfræði
 neurophysiologist n. taugalífeðlisfræðingur
+neurophysiological l. taugalífeðlisfræðilegur
 clinician n. klínískur læknir eða sérfræðingur
 heritability n. arfgengi
 catatonic l. stjarfur
@@ -3869,7 +3870,9 @@ haemorrhage n. blæðing; [brain ~] heilablæðing
 haemorrhagic l. blæðingar-
 semicircle n. hálfhringur
 bacillus n. stafgerill, stafbaktería (örvera)
-semiology n. einkennafræði
+semiology n. táknfræði; einkennafræði
+semiologist n. táknfræðingur
+semiological l. táknfræðilegur
 heterogeneity n. misleitni
 anxiogenic l. kvíðavaldandi; n. kvíðavaldandi lyf
 anxiolytic l. kvíðastillandi; n. kvíðastillandi lyf
@@ -4891,7 +4894,7 @@ happily ao. hamingjusamlega, glaðlega, lánsamlega
 conciseness n. gagnyrði, stuttyrði, sá eiginleiki að vera stuttorður (sjá %[concise]%)
 unskilfulness n. óhagleikni, vanfærni (sjá %[unskilful]%)
 stratosphere n. heiðhvolf
-stratospheric l. heiðhvolfs-; gífurlegur
+stratospheric l. heiðhvolfs-; gífurlegur, mjög hátt uppi
 placeholder n. staðgengill
 caldera n. askja, sigketill
 Dacia n. Dakía (landsvæði sem er í dag hluti af Rúmeníu)
@@ -6233,8 +6236,8 @@ media n. miðlar, fjölmiðlar
 print media n. prentmiðlar
 input n. inntak, ílag, inngjöf; aðföng; innstreymi
 characterization n. einkenning; mynd sem dregin er upp af e-u
-troubleshoot s. leita að bilunum eða villum
-troubleshooting n. bilanaleit, villuleit
+troubleshoot s. leita að bilunum eða villum, greina vanda
+troubleshooting n. bilanaleit, villuleit, greining á vanda
 livestream s. senda í beinni útsendingu; n. bein útsending
 livestreaming n. bein útsending
 substantially ao. verulega; ábyggilega (sjá %[substantial]%)
@@ -7268,6 +7271,7 @@ impala n. impalahjörtur (meðalstór antílópa)
 hyrax n. hnubbi
 hemochromatosis n. járngeymdarkvilli
 board game n. borðspil
+tabletop n. borðplata; l. borðplötu-, borð-; [~ game] borðspil
 extremophile n. jaðarlífvera, jaðarvera (lífvera sem getur lifað við aðstæður sem eru almennt fjandsamlegar lífi, t.d. mikinn hita)
 comfy n. þægilegur, þæginda- (stytt. á %[comfortable]%)
 polycrisis n. margþætt kreppa, samofnar krísur
@@ -7602,3 +7606,38 @@ octoroon n. barnabarn hvíts manns og kynblendings (úrelt og niðrandi)
 warmup n. upphitun
 multitiered l. í mörgum röðum; á mörgum hæðum; fjölþætt, flókið
 confounding l. ruglandi, samblandandi ([the ~ variable])
+shitheel n. skíthæll, síðasta sort, léleg manneskja
+prosopagnosia n. andlitstúlkunarstol
+self-driving l. sjálfkeyrandi
+clickjacking n. smellistuldur
+deepfake n. djúpfölsun
+encipher s. dulrita
+aggregator n. safnari, samansafnari (sjá %[aggregate]%)
+autocorrect n. sjálfvirk leiðrétting; s. leiðrétta á sjálfvirkan hátt
+branching n. kvíslun; l. kvíslandi
+checkbox n. gátreitur; merkireitur
+cyborg n. vélvera (stytt. á [cybernetic organism])
+duplex l. tvíátta-, tvístefnu-
+meme n. mím, jarm
+mutex n. aðgangsloka
+inbound l. á heimleið; á innleið
+outbound l. á útleið; útmiðaður
+version control n. útgáfustjórnun, útgáfustjórn
+transcode s. þverkóða
+transcoding n. þverkóðun
+chirping n. kvak, tíst
+typo n. prentvilla (stytt. á [typographical error]); innsláttarvilla
+sprinting n. spretthlaup
+spaceward ao. í áttina að geimnum, geimleiðis
+condottiere n. leiðtogi málaliða (á Ítalíu)
+exosphere n. úthvolf
+troposphere n. veðrahvolf
+mesosphere n. miðhvolf
+thermosphere n. hitahvolf
+ionosphere n. jónahvolf, jónhvolf, rafhvolf
+natalist n. fólksfjölgunarsinni, fæðingasinni
+natalism n. fólksfjölgunarstefna
+scofflaw n. sá sem virðir lögin að vettugi eða hunsar þau
+mucosa n. slímhúð, slímhimna
+mucosal l. slímhúðar-, slímhimnu
+polydactyly n. fjölfingrun; fjöltáun

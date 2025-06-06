@@ -553,7 +553,6 @@ phony
 ghettoblaster
 recolonization
 noncommittal
-tabletop
 unbeatable
 agrarianism
 redaction
@@ -1481,7 +1480,6 @@ freebie
 apologizer
 numinous
 ricochet
-meme
 chomp
 provider
 caveat
@@ -1568,7 +1566,6 @@ downbeat
 gaffe
 fetal
 inclusiveness
-aggregator
 runoff
 sneaker
 constitutionality
@@ -1752,9 +1749,6 @@ historicist
 historicism
 relentlessness
 phronetic
-natalist
-natalism
-scofflaw
 lackwit
 pumpernickel
 awestruck
@@ -2042,7 +2036,6 @@ freeloader
 freeload
 catchword
 android
-cyborg
 soufflé
 cabby
 overpaid
@@ -3222,7 +3215,6 @@ deskilled
 deskilling
 multiplex
 multiplexing
-duplex
 duplexity
 semiduplex
 zen
@@ -4344,7 +4336,6 @@ cheaply
 runabout
 nutcake
 unflappable
-outbound
 punkwood
 forepeak
 sterncastle
@@ -4927,7 +4918,6 @@ refuelling
 teal (endurskoöa)
 enervate (endurskoða)
 trilemma
-inbound
 solemnly
 individualized
 shoutout
@@ -4936,7 +4926,6 @@ citrate
 posh
 poshness
 toolchain
-checkbox
 brightened
 utricle
 poncho
@@ -5228,7 +5217,6 @@ unchallenged
 distilled
 minge
 minger
-autocorrect
 anorthosite
 canonicity
 hypotypical
@@ -5267,3 +5255,21 @@ enshittify
 deshittify
 pyroclastic
 eschewed
+challenging
+felix
+cornelian
+vitriol (endurskoða)
+vitriolic (endurskoða)
+shithead
+absolved
+defragment
+dynamometer
+prebiotic
+omnidirectional
+kablooie
+kablooey
+phoniness
+shaming
+fatshaming
+beshaming
+interceptor

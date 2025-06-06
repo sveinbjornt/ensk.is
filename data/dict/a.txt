@@ -1076,8 +1076,8 @@ antagonistic l. andstæður
 antagonize s. standa í móti, eyða áhrifum e-s
 antarctic l. suðurheimskauts- ([the ~ regions]); [the ~ pole] suðurheimskautið
 antarthritic l. góður við gigt; n. gigtarlyf
-antecedent l. undanfarandi
-antecedents nft. fyrri viðburðir
+antecedent l. undanfarandi; n. undanfari
+antecedents nft. fyrri viðburðir, undanfarnir viðburðir
 antecessor n. fyrirrennari
 antechamber n. forsalur, biðstofa
 antedate s. dagsetja of snemma; flýta fyrir; vera á undan
@@ -1712,7 +1712,7 @@ automatically ao. sjálfkrafa; ósjálfrátt
 automatism n. ósjálfráð athöfn; sjálfhreyfing
 automaton n. sjálfhreyfivél, sjálfvirk vél; vélmenni, þjarkur, vélþræll
 automatous l. sjálfhreyfandi
-autonomous l. sjálfstjórnar-, sjálfræðis-; sjálfráður, óháður
+autonomous l. sjálfstjórnar-, sjálfræðis-; sjálfráður; sjálfstýrður; óháður
 autonomy n. sjálfræði, sjálfstjórn, sjálfsforræði
 autopsy n. krufning, líkskoðun; sjálfsjón
 autoptic l. sjálfsjáandi ([an autoptic witness] sjónarvottur)

@@ -480,6 +480,7 @@ counterexample
 millenarianism
 neurophysiologist
 neurophysiology
+neurophysiological
 unideologically
 anxiogenic
 chiliasm
@@ -1316,3 +1317,11 @@ klezmer
 cenobium
 gnosis
 octoroon
+clickjacking
+encipher
+mutex
+shitheel
+condottiere
+semiological
+semiologist
+spaceward
