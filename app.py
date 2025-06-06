@@ -114,12 +114,12 @@ class AddCustomHeaderMiddleware(BaseHTTPMiddleware):
     """Add custom headers to all responses."""
 
     CSP_DIRECTIVES = {
-        "default-src": ["'self'"],
-        "script-src": ["'self'", "'unsafe-inline'"],
+        # "default-src": ["'self'"],
+        # "script-src": ["'self'", "'unsafe-inline'"],
         "style-src": ["'self'", "'unsafe-inline'"],
-        "img-src": ["'self'"],
+        # "img-src": ["'self'"],
         "font-src": ["'self'"],
-        "connect-src": ["'self'"],
+        # "connect-src": ["'self'"],
         "frame-ancestors": ["'none'"],
     }
 
