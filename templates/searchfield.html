@@ -1,8 +1,36 @@
 <script>
+    var q = undefined;
+
     // Prevent empty search submission
     function validate_search() {
-        return !(document.getElementById("q").value.trim() == "");
+        return (q.value.trim() !== "");
     }
+
+    // Clear search input
+    function clear_search() {
+        q.value = "";
+        q.focus();
+        update_clear_button();
+    }
+
+    // Show/hide clear button based on input content
+    function update_clear_button() {
+        var show = q.value.length > 0 ? "block" : "none";
+        document.getElementById("clearBtn").style.display = show;
+    }
+
+    // Initialize on page load
+    document.addEventListener("DOMContentLoaded", function () {
+        q = document.getElementById("q");
+        update_clear_button();
+
+        // Escape key clears the field
+        q.addEventListener("keyup", function (event) {
+            if (event.key === "Escape") {
+                clear_search();
+            }
+        });
+    });
 </script>
 
 <h1 class="heading">Ensk-íslensk orðabók</h1>
@@ -12,7 +40,19 @@
     onsubmit="return validate_search();">
     <div class="grid-x">
         <div class="small-9 medium-10">
-            <input type="text" id="q" name="q" placeholder="Sláðu inn enskt orð" value="{{ q }}">
+            <div class="input-group">
+                <!-- Search input field -->
+                <input type="text" id="q" name="q" class="input-group-field" placeholder="Sláðu inn enskt orð"
+                    value="{{ q }}" oninput="update_clear_button()">
+                <!-- Clear button -->
+                <span class="input-group-label clear-button" id="clearBtn" onclick="clear_search()" title="Clear">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                        <circle cx="12" cy="12" r="12" fill="rgba(128, 128, 128, 0.3)" />
+                        <path d="M8 8 L16 16 M16 8 L8 16" stroke="white" stroke-width="2" stroke-linecap="round"
+                            fill="none" />
+                    </svg>
+                </span>
+            </div>
         </div>
         <div class="small-3 medium-2">
             <input type="submit" class="button" value="Leita">
