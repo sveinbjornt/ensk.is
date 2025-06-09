@@ -390,14 +390,14 @@ recreation n. afþreying; hressing; skemmtun; endursköpun; endurkosning
 recreative l. hressandi; skemmtandi
 recrement n. úrgangur, sori
 recrementitious l. úrgangs-
-recriminate s. bera fram gagnkæru
-recrimination n. gagnkæra
+recriminate s. bera fram gagnkæru eða gagnásökun
+recrimination n. gagnkæra, gagnásökun, gagnkvæm ásökun
 recross s. fara aftur yfir
 recrudesce s. taka sig upp aftur (um sjúkdóm)
 recrudescence n. ný uppkoma, nýtt útbrot ([~ of an epidemic, of a calumny])
 recrudescent l. sem tekur sig upp aftur
-recruit s. bæta (með nýjum efnum); endurnýja; styrkja, hressa; útvega nýja menn ([~ sailors]); bæta nýjum liðsmönnum við ([~ an army]); styrkjast, hressast, ná sér aftur; fitna; n. uppbót; styrking, hressing; nýr liðsmaður, nýliði
-recruitment n. liðsdráttur; styrking, hressing
+recruit s. endurnýja; styrkja, hressa; bæta (með nýjum efnum); útvega nýja menn ([~ sailors]), safna nýliðum; ráða til liðs; bæta nýjum liðsmönnum við ([~ an army]); styrkjast, hressast, ná sér aftur; fitna; n. nýr liðsmaður, nýliði; uppbót; styrking, hressing
+recruitment n. ráðning; liðsdráttur, liðssöfnun; styrking, hressing
 rectangle n. rétthyrningur
 rectangular l. rétthyrndur ([~ space])
 rectifiable l. lagfæranlegur ([~ mistake])
@@ -417,7 +417,7 @@ recumbence n. lega ([~ on the back]); hvíld
 recumbency n. lega ([~ on the back]); hvíld
 recumbent l. liggjandi (aftur á bak)
 recuperate s. ná sér aftur (eftir sjúkdóm, þreytu); hressa (rétta) e-n við
-recuperation n. hressing, viðreisn
+recuperation n. hressing, viðreisn; bataferli
 recuperative n. hressandi; viðreisnar- ([~ power])
 recur s. koma aftur, hverfa aftur (að e-u); [~ to an expedient] taka til e-s úrræðis; leita aftur til ([to]); [it frequently ~red to my mind] mér datt það iðulega í hug
 recurrence n. afturkoma, endurtekning; upptekning; það að leita (eða grípa) aftur til e-s eða víkja aftur að e-u ([frequent ~ to arms])

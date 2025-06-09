@@ -1179,6 +1179,7 @@ kakistocracy n. stjórn hinna verstu
 prepaid l. fyrirframgreiddur, borgaður fyrirfram
 fascinating l. heillandi, töfrandi
 benchmark n. viðmið, viðmiðun; afkastaprófun, afkastamæling; s. mæla afköst (út frá viðmiðum)
+benchmarking n. afkastamæling, afkastaprófun (út frá viðmiðum)
 sensitivity n. næmni, viðkvæmni
 transsexual n. kynskiptingur, trans manneskja; l. kynskiptings-, trans-
 tranny n. (niðrandi) sjá %[transsexual]%
@@ -6089,6 +6090,7 @@ WC n. klósett, salerni (sks. á %[water closet]%)
 pancreatitis n. brisbólga
 pentatonic l. fimmtóna-
 sulphate n. súlfat
+sulfate n. súlfat
 subarctic l. rétt sunnan við norðurheimskautsbaug
 enshittification n. skítvæðing, skítnun, versnun (um þjónustu, hugbúnað eða því um líkt)
 Basque n. Baski, frá Baskalandi (sjálfstjórnarsvæði á Spáni); baskneska; l. baskneskur
@@ -7569,6 +7571,7 @@ laparoscopic l. kviðarholsspeglunar-
 slain l. veginn, drepinn (sjá %[slay]%)
 Apennines nft. Appennínafjöll (fjallgarður á Ítalíuskaga)
 quilting n. vattering, bútasaumur
+quilted l. vatteraður
 exiledom n. útlegð, útlegðardómur
 sawhorse n. búkki, undirstöðugrind til að saga á
 sawbuck n. búkki (sjá %[sawhorse]%); tíu dala seðill (BNA)
@@ -7641,3 +7644,22 @@ scofflaw n. sá sem virðir lögin að vettugi eða hunsar þau
 mucosa n. slímhúð, slímhimna
 mucosal l. slímhúðar-, slímhimnu
 polydactyly n. fjölfingrun; fjöltáun
+maple syrup n. hlynsíróp
+ghettoblaster n. stór ferðaspilari
+knowledgeable l. fróður, vel að sér, vel upplýstur (um [about])
+macabre l. hryllilegur; dauða-
+post-apocalyptic l. eftir heimsenda, eftir heimsslit (sjá %[apocalypse]%)
+hafnium n. hafnín (málmur)
+zirconium n. sirkon (málmur)
+defragment s. endurraða (gögnum á hörðum disk)
+prebiotic l. forlífs-, forlífrænn, sem kemur á undan lífi
+commando n. lítil hersveit, sérsveit (sem sérhæfir sig í leifturárásum); n. sérsveitarmaður
+mistreat s. fara illa með, misþyrma, níðast á
+mistreated l. illa leikinn, sem illa er farið með
+mistreatment n. ill meðferð, misþyrming, níðingsskapur
+exterminatory l. upprætandi; gereyðandi; tórtímandi
+overlord n. yfirdrottnari; lénsherra, lénsdrottinn
+preadolescent l. fyrir unglingsaldur, fyrir unglingsár
+firepower n. skotkraftur, skotgeta; sprengikraftur
+medic n. læknir, herlæknir (stytt. á [medical officer])
+mangled l. lemstraður; hogginn í sundur; limlestur; skemmdur, afbakaður
