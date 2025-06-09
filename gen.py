@@ -379,10 +379,9 @@ def main() -> None:
     print("Generating JSON")
     generate_json(entries)
 
-    # print("Generating Apple Dictionary")
-    # generate_apple_dictionary(entries)
-
-    # exit(0)
+    print("Generating macOS Dictionary")
+    from macos import generate_macos_dictionary
+    generate_macos_dictionary(entries)
 
     print("Generating SQLite3 database")
     generate_database(entries)
