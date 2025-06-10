@@ -1202,7 +1202,6 @@ interethnic
 militancy
 postgraduate
 reintegration
-colloquium
 normalization
 associative
 biologization
@@ -1267,7 +1266,7 @@ intellectualism
 conformism
 thereupon
 ingest
-interventionist
+
 noninterventionist
 everyman
 trick (endurskoða, vis-a-vis vændi)
@@ -1391,7 +1390,6 @@ reinstitute
 scratchy
 cubbyhole
 honorarium
-weatherman
 absurdist
 commercialism
 conflate
@@ -1419,7 +1417,6 @@ locale
 deluxe
 techno
 technobabble
-mambo
 toner
 outreach
 upcoming
@@ -1441,7 +1438,6 @@ fetishization
 bog-standard
 riff
 nutter
-jailbird
 aspirational
 unduly
 billboard
@@ -1452,7 +1448,6 @@ unavailability
 tearfulness
 thoroughness
 unlovable
-worthlessness
 reset
 buzzer
 self-awareness
@@ -1472,11 +1467,9 @@ caveat
 plaque
 simulacrum
 simulacra
-diversionary
 barmy
 mentee
 commonality
-forecourt
 accretive
 bollock
 gurney
@@ -1554,8 +1547,6 @@ fetal
 inclusiveness
 runoff
 sneaker
-constitutionality
-systematizer
 nettlesome
 prickliness
 untellable
@@ -1633,7 +1624,6 @@ traditionalism
 delicately
 self-assertive
 rentier
-vestigial
 chaise
 self-complacency
 blowsy
@@ -1686,7 +1676,6 @@ unpretentious
 entailment
 penumbra
 externality
-coexistence
 clear-cut
 inductivism
 specifiable
@@ -1726,7 +1715,6 @@ blamable
 marginality
 characterizable
 dissimulator
-reaffirmation
 elusiveness
 self-absorption
 implicity
@@ -1756,7 +1744,6 @@ telecommute
 inclusivity
 uptake
 replicable
-crapshoot
 formulative
 formulaic
 confederal
@@ -1769,7 +1756,6 @@ quesadilla
 carton
 propylene
 spoilage
-far-flung
 finicky
 duology
 seaborne
@@ -2273,7 +2259,6 @@ self-organize
 counter-culture
 counter-cultural
 post-industrial
-impulsivity
 meta-narrative
 informalization
 self-constraint
@@ -2552,12 +2537,8 @@ credo
 wastrel
 scug
 glorifier
-deathward
-lower-class
 horsecab
-life-long
 intramural
-unfriendliness
 overdone
 disenthronement
 laureateship
@@ -2566,11 +2547,9 @@ noncognizance
 backwoods
 backwoodsman
 bimetalism
-technicality
 legacy (endurskoða)
 long-form
 attorney-general
-gracefully
 large-minded
 large-mindedness
 wife-beater
@@ -2591,7 +2570,6 @@ sunburst
 cabalist
 unimportance
 catcall
-annexationist
 ringside
 flagpole
 trappings (endurskoða)
@@ -2629,7 +2607,6 @@ aplomb
 entente
 formlessness
 unplayable
-seducer
 premiere
 panjandrum
 glockenspiel
@@ -2666,7 +2643,6 @@ hickory
 mandala
 foolproof
 quiggle
-cottonwood
 postulator
 monsignor
 amputee
@@ -2705,7 +2681,6 @@ quintessentially
 togetherness
 newsflash
 mushy
-doorstop
 symbolically
 bankroll
 whodunit
@@ -2733,8 +2708,6 @@ rubber-stamp
 possibilist
 phenomenally
 outperform
-hatemonger
-mugshot
 striatum
 bandwagon
 boatload
@@ -2759,7 +2732,6 @@ secretary-general
 sightedness
 ethnocracy
 unsurprisingly
-subclause
 cantonization
 redeployment
 de-escalate
@@ -2778,13 +2750,10 @@ Westernize
 reluctantly
 bloody-minded
 bloody-mindedness
-painfully
-interventionism
 governor-general
 correctly
 unconditionally
 cleverly
-impulsiveness
 tangential
 tangentially
 villagization
@@ -2792,7 +2761,6 @@ successfully
 monocrop
 polycrop
 domainal
-implacably
 windstorm
 bottomland
 landholding
@@ -2808,7 +2776,6 @@ registrant
 unsympathetic
 astounding
 astoundingly
-midtown
 monumentalism
 microsociology
 upturn
@@ -3072,7 +3039,6 @@ limiting
 Calvary (endurskoða)
 scathing
 glowing
-colloquially
 embodied
 caddy (endurskoða)
 edgelord
@@ -3088,7 +3054,6 @@ inundated
 circumdenudation
 jobsworth
 exfoliant
-diacritic
 diacritical
 irreplacable
 hornbill
@@ -3258,7 +3223,6 @@ miraculously
 loveable
 unloveable
 simoon
-kamikaze
 kibitz
 blotter
 flèche
@@ -3291,7 +3255,6 @@ earthshaking
 contortionism
 contortionist
 endodontics
-rulership
 unnerved
 cuddly
 Megalodon
@@ -3349,7 +3312,6 @@ follicle
 dopey
 squawk
 territorialization
-meniscus
 emboldened
 inhibited
 unearthed
@@ -3406,8 +3368,6 @@ scalable
 cascading
 shimmy
 shim
-isothermal
-renminbi
 ligation
 grooming
 pelmet
@@ -3428,8 +3388,6 @@ tablet (endurskoða)
 tactics (endurskoða)
 imposer
 squiffy
-paparazzi
-paparazzo
 hustler
 hustle (endurskoða)
 hustling
@@ -3470,7 +3428,6 @@ swing (music)
 scrooge
 conniption
 hootenanny
-mainlander
 shisha
 phish
 phishing
@@ -3561,7 +3518,6 @@ sigma
 unregulated
 polysemeia
 embolism (endurskoða)
-overwhelmed
 yashmak
 tastemaker
 crummy
@@ -3649,7 +3605,6 @@ precociously
 collated
 profiling
 gobsmacked
-underwhelming
 shellshock
 shellshocked
 meshwork
@@ -4844,12 +4799,9 @@ boarder (endurskoða)
 awash (endurskoða)
 endearing
 circumvention (endurskoða)
-accomplished (endurskoða)
 curtsy (endurskoða)
 desired
 refunded
-facilitated
-disinfecting
 subvocal
 subvocalization
 approve (endurskoða)
@@ -4889,7 +4841,6 @@ haplogroup
 creche
 spyhop
 spyhopping
-muskox
 operatic
 microaggression
 stereotyping
@@ -4929,8 +4880,6 @@ naturist
 malarky
 brock
 persistently
-origami
-convicted
 transmedia
 jiminy
 criminy
@@ -4967,7 +4916,6 @@ withdrawn
 agitated
 stasis
 seaglider
-mestizo
 aloof (endurskoða)
 defensively
 united
@@ -4982,7 +4930,6 @@ tantrum (endurskoða)
 swipe (endurskoða)
 grift
 reproacher
-paginator
 lobby (enduruskoða, sem sögn)
 credit (endurskoða)
 scutter
@@ -4993,7 +4940,6 @@ accepted
 canzonetta
 authenticator
 pedologist
-subunit
 neuralese
 phytosaur
 saccade
@@ -5008,7 +4954,6 @@ abashed
 slacks (buxur)
 lede
 securitization
-exotropia
 facia
 glycemic
 hypoglycemic
@@ -5035,18 +4980,13 @@ bugger
 strafe
 strafer
 iteratively
-alliteratively
 backhand
 thunderhead
 heck
 heckle (endurskoða)
 overpass
-stencil
 Whiggishness
-scorching
-sweltering
 jabot
-hemline
 deescalate
 toggle
 profiler
@@ -5266,8 +5206,13 @@ churn (endurskoða)
 anticipated
 illuminati
 chakra
-payphone
 remover
 unreasoning
 Vaudevillian
 Vaudeville
+accomplished (endurskoða)
+mismatched
+washroom
+livingroom
+antidisestablishmentarianism
+cruise missile

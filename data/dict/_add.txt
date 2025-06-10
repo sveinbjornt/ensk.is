@@ -324,7 +324,7 @@ sociologist n. (sam)félagsfræðingur
 social science n. félagsvísindi
 social scientist n. félagsvísindamaður, félagsvísindakona
 societal l. samfélagslegur, félagslegur, þjóðfélagslegur
-sophisticated l. fágaður; háþróaður; margbrotinn
+sophisticated l. fágaður; háþróaður; margbrotinn; veraldarvanur
 unsophisticated l. ófágaður; lítt þróaður; fábrotinn
 zombify s. breyta í uppvakning (sjá %[zombie]%)
 gaoler n. fangavörður
@@ -1382,13 +1382,15 @@ ghast n. draugur, vofa
 Pegasus n. Pegasus, skáldfákur (vængjaður hestur í grískri goðafræði)
 homunculus n. smámenni
 ineffectiveness n. gagnsleysi, árangursleysi, áhrifaleysi (sjá %[ineffective]%)
-sphinx n. sfinx (goðsagnavera með líkama ljóns og mannshöfuð)
+sphinx n. sfinx (goðsagnavera með búk ljóns og mannshöfuð)
 telephone book n. símaskrá
+telephone booth n. símaklefi
 phone book n. símaskrá
+phone booth n. símaklefi
 telephone directory n. símaskrá
 teleprocessing n. fjarvinnsla
 processing n. vinnsla (sjá %[process]%)
-championship n. mót, (meistara)keppni (sjá %[champion]%)
+championship n. meistaramót, meistarakeppni; meistaratitill (sjá %[champion]%)
 unavailable n. ótiltækur, ófáanlegur, ekki í boði
 computational l. reikni-, reiknifræðilegur, reiknilegur ; [~ linguistics] reiknileg málvísindi; [~ power] reikniafl
 lich n. lík; e.k. uppvakningur
@@ -1596,6 +1598,7 @@ anus n. endaþarmsop, rassgat
 machine gun n. hríðskotabyssa
 Maxim gun n. hríðskotabyssa frá 19. öld ([Whatever happens, we have got the ~, and they have not])
 Gatling gun n. frumstæð hríðskotabyssa
+gunslinger n. byssumaður; leigumorðingi
 howitzer n. e.k. fallbyssa
 machismo n. karlmennskustælar, ýkt eða yfirgengileg karlmennska; karlremba
 aircraft carrier n. flugmóðurskip
@@ -1838,7 +1841,7 @@ zeitgeist n. tíðarandi (úr þýsku)
 weltschmerz n. heimsangist, óánægja með ástand heimsins (úr þýsku)
 weltanschauung n. heimssýn (úr þýsku)
 world-weary l. lífsleiður, lífsþreyttur, heimsþreyttur
-world-weariness n. lífsleiði, lífsþreyta
+world-weariness n. lífsleiði, lífsþreyta, heimsþreyta
 obsession n. þráhyggja
 obsessive l. haldinn þráhyggju, með e-ð á heilanum; n. maður haldinn þráhyggju
 relativist n. afstæðishyggjumaður; l. afstæðishyggju-
@@ -4515,7 +4518,7 @@ trustworthiness n. áreiðanleiki, trúðverðugleiki
 untrustworthy l. óáreiðanlegur, ekki traustsins verður, óskilríkur
 radiology n. geislafræði, geislalæknisfræði
 radiologist n. geislalæknir, röntgenlæknir
-schadenfreude n. þórðargleði, gleði yfir óförum annarra
+schadenfreude n. þórðargleði, gleði yfir óförum annarra (úr þýsku)
 vicenarian n. manneskja á þrítugsaldri; l. á þrítugsaldri
 tricenarian n. manneskja á fertugsaldri; l. á fertugsaldri
 quadragenarian n. manneskja á fimmtugsaldri; l. á fimmtugsaldri
@@ -4927,7 +4930,7 @@ gatekeeper n. dyravörður, hliðvörður
 Aztec n. Asteki; l. asteskur, Asteka-
 duvet n. sæng, dúnsæng
 gynaecology n. kvensjúkdómafræði, kvensjúkdómalækningar, kvenlækningar
-armageddon n. Harmagedón (úrslitaorrusta milli góðs og ills í abrahamískum trúarbrögðum)
+armageddon n. Harmagedón (úrslitaorrusta milli góðs og ills í abrahamískum trúarbrögðum); úrslitaorrusta
 esophagus n. sjá %[oesophagus]%
 pasteurize s. gerilsneyða
 pasteurization n. gerilsneyðing
@@ -5291,7 +5294,8 @@ organisation n. sjá %[organization]%
 pixie n. ljósálfur, álfadís, álfur
 fratriage n. arfur sem rennur til yngri bróður
 brachiosaurus n. finngálkn
-yuan n. júan (kínversk mynt)
+yuan n. júan (kínverskur gjaldmiðill)
+renminbi n. júan (kínversk gjaldmiðill)
 octane n. oktan
 hooligan n. dólgur, ófriðarseggur
 football hooligan n. fótboltabulla
@@ -7663,3 +7667,76 @@ preadolescent l. fyrir unglingsaldur, fyrir unglingsár
 firepower n. skotkraftur, skotgeta; sprengikraftur
 medic n. læknir, herlæknir (stytt. á [medical officer])
 mangled l. lemstraður; hogginn í sundur; limlestur; skemmdur, afbakaður
+diopter n. ljósbrotseining
+worldly-wise l. veraldarvanur, veraldarvís
+payphone n. almenningssími, tíkallasími, símasjálfsali
+postprocessing n. eftirvinnsla
+postprocess s. ganga frá eftirvinnslu
+machine learning n. vélnám, vélrænt nám
+forecourt n. forgarður, húsagarður
+diversionary l. afvegaleiðandi; sem dreifir athygli; dægrastyttingar-
+worthlessness n. sá eiginleiki að vera einskis virði
+jailbird n. tukthúslimur, fangi, bandingi
+mambo n. mambó, mambótónlist, mambódans
+weatherman n. veðurfræðingur, veðurfréttamaður
+constitutionally ao. samkvæmt stjórnarskrá, í samræmi við stjórnarskrá; að eðlisfari, að lundarfari; líkamlega
+constitutionality n. samræmi við stjórnarskrá
+systematizer n. sá sem kemur kerfi á hlutina; sá sem skipar í vísindalegt kerfi
+vestigial l. minja-, leifa-, ummerkja- (sjá %[vestige]%); úreltur (um líffæri)
+coexistence n. sambúð, það að vera til á sama tíma
+reaffirmation n. endurstaðfesting; játning á ný
+crapshoot n. hættuspil; teningaspil (sjá %[craps]%)
+far-flung l. fjarlægur, afskekktur; víðfeðmur
+disinfecting l. sótthreinsandi
+facilitated l. auðveldað, gert auðveldara
+musk ox n. sauðnaut
+origami n. (japanskt) pappírsbrot
+convicted l. sakfelldur
+mestizo n. mestísi (afkomendur Evrópumanna og frumbyggja Latnesku Ameríku)
+paginator n. blaðsíðuflettari, blaðsíðuteljari
+subunit n. undireining, einingarhluti
+exotropia n. fráeygð
+stencil n. stensill; s. stensla
+scorching l. svíðandi, sviðnandi, skrælnandi ([~ heat])
+sweltering n. kæfandi, kafnandi (um hita)
+alliteratively ao. á hátt sem stuðlar (í kveðskap)
+architrave n. faldur (steinumgjörð)
+hemline n. faldur (á klæðum)
+hemopoiesis n. blóðfrumnamyndun
+deathward ao. í átt að dauða, sem leiðir til dauðans
+lower-class l. lægristéttar-
+life-long l. sjá %[lifelong]%
+unfriendliness n. óvinsemd, óvingjarnlegheit
+technicality n. tæknilegt atriði
+gracefully ao. á þokkafullan hátt
+annexationist n. innlimunarsinni (sjá %[annexation]%)
+seducer n. tælari, lokkari, ginnari; flagari
+cottonwood n. ösp (trjátegund)
+doorstop n. hurðastoppari
+hatemonger n. hatursprédikari, maður sem ber út hatursboðskap
+mugshot n. andlitsmynd af abrotamanni
+subclause n. undirákvæði (í lögum, samningum, o.þ.h.); undirgrein; aukasetning (%[subordinate clause]%)
+subordinate clause n. aukasetning (í málfræði)
+painfully ao. á sársaukafullan hátt, með kvölum, kvalarlega
+interventionist n. íhlutunarsinni, afskiptasinni; íhlutunar-, afskipta-
+interventionism n. íhlutunarstefna, afskiptastefna; milligöngustefna
+impulsivity n. hvatvísi
+impulsiveness n. hvatvísi
+implacably ao. ósefanlega
+midtown n. miðbær; l. miðbæjar-
+diacritic n. stafmerki, áherslumerki, framburðarmerki
+kamikaze n. sjálfsmorðsárás (með flugvél); sjálfsmorðsárásarmaður; s. gera sjálfsmorðsárás
+rulership n. stjórnvald, drottinvald, stjórn, yfirráð
+meniscus n. bjúgflötur
+isothermal l. jafnhita-
+isothermic l. jafnhita-
+paparazzi nft. blaðasnápar (sjá %[paparazzo]%)
+paparazzo n. blaðasnápur, fréttaljósmyndari sem eltir fræga fólkið
+mainlander n. meginlandsbúi
+overwhelmed l. yfirþyrmdur, yfirbugaður; grafinn undir
+colloquium n. ráðstefna (fræðimanna)
+colloquially ao. í daglegu máli
+underwhelm s. valda vonbrigðum, vekja ekki aðdáun eða hrifningu, impónera ekki
+underwhelmed l. orðinn fyrir vonbrigðum, án hrifningar, ekki impóneraður
+underwhelming l. valdandi vonbrigðum, sem ekki vekur aðdáun eða hrifningu, óimpónerandi
+opera house n. óperuhús

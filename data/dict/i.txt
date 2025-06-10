@@ -375,9 +375,9 @@ impudent l. ósvífinn, ófyrirleitinn
 impudicity n. óskírlífi
 impugn s. mótmæla; ráðast á
 impugnation n. renging, mótmæli
-impulse n. framrekstur; áhrif ([yield to the ~s of others]); hvöt; augnablikshugkvæmd; snögg tilhneiging
+impulse n. hvöt; hvati; framrekstur; áhrif ([yield to the ~s of others]); augnablikshugkvæmd; snögg tilhneiging
 impulsion n. framrekstur; snögg áhrif
-impulsive l. framknýjandi; sem lætur augnablikstilfinningu ráða, fljótfærinn; [~ force] hreyfiafl; [~ cause] frumorsök
+impulsive l. hvatvís; framknýjandi; sem lætur augnablikstilfinningu ráða, fljótfærinn; [~ force] hreyfiafl; [~ cause] frumorsök
 impunity n. refsingarleysi; [with ~] að ósekju; skaðlaust, að skaðlausu
 impure l. óhreinn; vanheilagur; saurugur
 impurity n. óhreinleiki; óhreinindi, óþverri
@@ -1309,7 +1309,7 @@ intertwist s. flétta saman; fléttast saman
 interval n. millibil (í tíma og rúmi); [in his ~s of sobriety] þegar hann (öðru hvoru, stöku sinnum) var allsgáður; [at ~s] öðru hverju; hér og hvar
 intervene s. koma (verða) á milli; bera að höndum; ganga í milli
 intervenient l. sem kemur eða er í milli
-intervention n. málamiðlun; meðalganga
+intervention n. íhlutun; afskipti; málamiðlun; meðalganga
 interview n. viðtal ([to have an ~ with]); málfundur; s. taka viðtal við e-n
 interviewer n. spyrill, sá sem tekur viðtal við e-n
 interweave s. vefa saman

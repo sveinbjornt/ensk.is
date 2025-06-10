@@ -149,7 +149,7 @@ dearly ao. dýru verði ([~ bought]); heitt; [love ~] unna hugástum
 dearness n. dýrleiki; viðkvæm elska
 dearth n. skortur, ekla, hörgull, þurrð; hallæri
 death n. dauði; dauðdagi; mannslát; [it was the ~ of him] það varð dauðameinið hans; [put to ~] taka af lífi; [tired to ~] dauðþreyttur
-deathbed n. banasæng
+deathbed n. banasæng, banalega
 deathblow n. banahögg
 death fire n. hrævareldur
 deathful l. mannskæður; banvænn; náfölur
@@ -199,9 +199,9 @@ decamp s. taka upp herbúðir og fara af stað; halda snögglega burt, strjúka
 decampment n. burtför
 decapitate s. hálshöggva
 decapitation n. hálshögg, aftaka
-decay s. ganga af sér; hrörna; visna, rotna; eyða, skemma; n. hrörnun, afturför, hnignun; rotnun; [fall into ~] ganga af sér; hrörna; falla í rústir
+decay s. ganga af sér, hrörna, hnigna; visna, rotna; eyða, skemma; n. hrörnun, afturför, hnignun; rotnun; [fall into ~] ganga af sér; hrörna; falla í rústir
 decayed l. af sér genginn; hrörlegur; fúinn
-decease n. dauði, fráfall; s. deyja, andast
+decease n. dauði, fráfall, andlát; s. deyja, andast
 deceased l. látinn, dáinn
 deceit n. svik; bragð
 deceitful l. svikafullur, vélráður
@@ -1336,7 +1336,7 @@ diverse l. ólíkur; margvíslegur, fjölbreyttur
 diversely ao. ýmislega; í ýmsar áttir
 diversified l. margbreyttur
 diversify s. fjölþætta, gera margbreytilegt, gera fjölbreytt
-diversion n. veiting (t.d. ár úr farvegi sínum); dægrastytting, skemmtun
+diversion n. veiting (t.d. ár úr farvegi sínum); afvegaleiðing; dægrastytting, skemmtun
 diversity n. mismunur; margbreytni
 divert s. snúa e-u (í aðra átt); skemmta
 diverting l. skemmtilegur ([a ~ story])

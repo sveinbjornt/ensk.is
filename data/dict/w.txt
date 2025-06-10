@@ -592,7 +592,7 @@ winter n. vetur; s. hafa vetursetu; fóðra, gefa (peningi) á veturna
 winter quarters nft. vetursetustaður; veturseta
 wintry l. vetrarlegur, vetrar- ([~ weather, landscape])
 winy l. vínkenndur, vín-
-wipe s. þerra, þurrka; hreinsa; [~ ones eyes] þurrka sér um augun; [~ out] þurrka út; afmá; n. afþurrkun; ofanígjöf; sneið, skens
+wipe s. þerra, þurrka; hreinsa; [~ ones eyes] þurrka sér um augun; [~ out] þurrka út; afmá; n. þurrka; afþurrkun; ofanígjöf; sneið, skens
 wiper n. þurrkari; þurrka
 wire n. vír, málmþráður; ritsími, sími ([the news came by ~]); símskeyti; [barbed ~] gaddavir; s. festa með vír; snara (með vírsnöru); senda símskeyti um e-ð, síma ([the news was ~d])
 wire-draw s. draga vír (úr málmi); hártoga
@@ -741,7 +741,7 @@ world n. veröld, heimur; jarðríki; [the end of the ~] heimsendir; [would go t
 world-famous l. heimsfrægur
 worldliness n. veraldleiki, veraldlegur hugsunarháttur
 worldling n. þessa heims barn, heimsbarn
-worldly l. veraldlegur ([~ ambition])
+worldly l. veraldlegur ([~ ambition]); veraldarvanur
 worldly-minded l. veraldlega hugsandi
 world-renowned l. heimsfrægur
 worm n. ormur; maðkur; skrúfugangur; s. draga hægt (út [out]); [~ oneself into] smeygja sér inn í
@@ -764,7 +764,7 @@ worsted n. ullarband; l. ullar- ([~ goods, stockings])
 wort n. jurt; káljurt; nýbruggað öl
 worth n. verð, jafngildi, andvirði; verðleikar; l. verður; verðugur, maklegur; [she is ~ ten thousand pounds] eignir hennar eru tíu þúsund pund; [he is ~ four thousand a year] árstekjur hans eru fjögur þúsund (pund); [~ seeing] skoðunarverður; [~ while] tilvinnandi
 worthless l. sem ekkert er í varið; einskis verður; fyrirlitlegur; ónýtur
-worthy l. verður, verðugur, maklegur (e-s of); samboðinn (e-m of); ágætur; heiðvirður; n. sæmdarmaður; stórmenni
+worthy l. verður, verðugur, maklegur (e-s [of]); samboðinn (e-m [of]); ágætur; heiðvirður; n. sæmdarmaður; stórmenni
 would-be l. sem þykist vera; [a ~ poet] leirskáld
 wound n. sár, und; s. særa; móðga; laska, skemma ([our main topmast had been badly ~ed])
 wrack n. blöðruþang
