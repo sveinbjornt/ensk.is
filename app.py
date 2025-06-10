@@ -424,6 +424,13 @@ async def files(request: Request):
     except FileNotFoundError:
         pdf_size = "ekki til"
 
+    try:
+        apple_dictionary_size = icelandic_human_size(
+            f"static/files/{PROJECT.BASE_DATA_FILENAME}.dictionary.zip"
+        )
+    except FileNotFoundError:
+        apple_dictionary_size = "ekki til"
+
     date_object = datetime.fromisoformat(metadata.get("generation_date", ""))
     formatted_date = date_object.strftime("%d/%m/%Y")
 
@@ -437,6 +444,7 @@ async def files(request: Request):
             "json_size": json_size,
             "text_size": text_size,
             "pdf_size": pdf_size,
+            "apple_dictionary_size": apple_dictionary_size,
             "last_updated": formatted_date,
         },
     )

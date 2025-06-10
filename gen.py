@@ -356,19 +356,11 @@ def generate_apple_dictionary(
 
 
 def main() -> None:
+    heavy = sys.argv[1:] and sys.argv[1] == "--heavy"
+
     print("Reading entries...")
     entries = read_all_entries()
     print(f"{len(entries)} entries read")
-
-    # print("Generating PDF")
-    # dictionary = {
-    #     e[0]: e[1]
-    #     for e in entries  # if e[0].startswith("a")
-    # }
-    # from pdf import generate_pdf
-
-    # generate_pdf(dictionary, "static/files/ensk.is.pdf")
-    # exit(0)
 
     print("Generating text")
     generate_text(entries)
@@ -379,9 +371,21 @@ def main() -> None:
     print("Generating JSON")
     generate_json(entries)
 
-    print("Generating macOS Dictionary")
-    from macos import generate_macos_dictionary
-    generate_macos_dictionary(entries)
+    if heavy:
+        print("Generating macOS Dictionary")
+        from macos import generate_macos_dictionary
+
+        generate_macos_dictionary(entries)
+
+    if heavy:
+        print("Generating PDF")
+        dictionary = {
+            e[0]: e[1]
+            for e in entries  # if e[0].startswith("a")
+        }
+        from pdf import generate_pdf
+
+        generate_pdf(dictionary, "static/files/ensk.is.pdf")
 
     print("Generating SQLite3 database")
     generate_database(entries)

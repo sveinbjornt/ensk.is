@@ -20,6 +20,8 @@ You can download the dictionary in the following formats:
 * [⇩ JSON document](https://ensk.is/static/files/ensk.is.json.zip)
 * [⇩ CSV document](https://ensk.is/static/files/ensk.is.csv.zip)
 * [⇩ Plain text](https://ensk.is/static/files/ensk.is.txt.zip)
+* [⇩ PDF document](https://ensk.is/static/files/ensk.is.pdf.zip)
+* [⇩ Apple Dictionary](https://ensk.is/static/files/ensk.is.dictionary.zip)
 
 ## Background
 

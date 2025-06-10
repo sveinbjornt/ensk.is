@@ -1,0 +1,53 @@
+@charset "UTF-8";
+@namespace d url(http://www.apple.com/DTDs/DictionaryService-1.0.rng);
+
+d|entry {
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    font-size: 150%;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+}
+
+h2 {
+    font-size: 125%;
+    font-weight: bold;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+}
+
+.syntax {
+    display: block;
+    font-size: 90%;
+    margin: 0.5em 0;
+    color: #666;
+}
+
+span[d|pr="UK_IPA"]:before {
+    content: "UK: ";
+    font-weight: bold;
+}
+
+span[d|pr="US_IPA"]:before {
+    content: "US: ";
+    font-weight: bold;
+}
+
+span[d|pr="UK_IPA"], span[d|pr="US_IPA"] {
+    margin-right: 1em;
+}
+
+p {
+    margin: 0.5em 0;
+}
+
+a {
+    color: #007AFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

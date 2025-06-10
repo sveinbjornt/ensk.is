@@ -1,0 +1,14 @@
+<d:entry id="front_matter" d:title="About {{short_name}}">
+    <h1><b>{{dict_name}}</b></h1>
+    <h2>About This Dictionary</h2>
+    <div>
+        <p>{{description}}</p>
+        <p>This dictionary contains {{num_entries}} entries.</p>
+        <br/>
+        <p><b>Editor:</b> {{editor}}</p>
+        <p><b>Website:</b> <a href="{{website}}">{{website}}</a></p>
+        <p><b>Source:</b> <a href="{{repo_url}}">{{repo_url}}</a></p>
+        <p><b>License:</b> {{license}}</p>
+        <p><b>Generated:</b> {{date}}</p>
+    </div>
+</d:entry>

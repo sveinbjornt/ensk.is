@@ -42,76 +42,16 @@ import sys
 import shutil
 import datetime
 import subprocess
-import xml.etree.ElementTree as ET
 from xml.sax.saxutils import escape
-from pathlib import Path
 
-from util import zip_file, silently_remove, read_json
+from util import zip_file
 from info import PROJECT
-from dict import read_pages, parse_line, page_for_word
 
-# Type alias matching gen.py
-EntryType = tuple[str, str, str, str, int]
-EntryList = list[EntryType]
 
-# Load IPA data
-ENWORD_TO_IPA_UK = read_json("data/ipa/uk/en2ipa.json")
-ENWORD_TO_IPA_US = read_json("data/ipa/us/en2ipa.json")
-
-DICT_DEV_KIT_PATH = "Dictionary Development Kit"
+DICT_DEV_KIT_PATH = "macos/Dictionary Development Kit"
+TEMPLATES_DIR = "macos"
 BUILD_DIR = "static/files/ensk.is.macos_dict_build"
 DICT_BUNDLE_ID = "is.ensk.dictionary"
-DICT_NAME = "Ensk.is English-Icelandic Dictionary"
-DICT_SHORT_NAME = "Ensk.is"
-
-
-def ipa4entry(s: str, lang: str = "uk") -> str | None:
-    """Look up International Phonetic Alphabet spelling for word."""
-    assert lang in ["uk", "us"]
-    if lang == "uk":
-        word2ipa = ENWORD_TO_IPA_UK
-    else:
-        word2ipa = ENWORD_TO_IPA_US
-    ipa = word2ipa.get(s)
-    if not ipa and " " in s:
-        # It's a multi-word entry
-        wipa = s.split()
-        ipa4words = []
-        # Look up each individual word and assemble
-        for wp in wipa:
-            lookup = word2ipa.get(wp)
-            if not lookup:
-                lookup = word2ipa.get(wp.lower())
-            if not lookup:
-                lookup = word2ipa.get(wp.capitalize())
-            if not lookup:
-                break
-            else:
-                lookup = lookup.lstrip("/").rstrip("/")
-                ipa4words.append(lookup)
-        if len(ipa4words) == len(wipa):
-            ipa = " ".join(ipa4words)
-            ipa = f"/{ipa}/"
-    return ipa
-
-
-def read_all_entries() -> EntryList:
-    """Read all entries from dictionary text files and parse them."""
-    r = read_pages()
-
-    entries = []
-    for line in r:
-        wd = parse_line(line)
-        w = wd[0]
-        definition = wd[1]
-        ipa_uk = ipa4entry(w, lang="uk") or ""
-        ipa_us = ipa4entry(w, lang="us") or ""
-        pn = page_for_word(w)
-        entries.append(tuple([w, definition, ipa_uk, ipa_us, pn]))
-
-    entries.sort(key=lambda d: d[0].lower())  # Sort alphabetically by word
-
-    return entries
 
 
 def clean_build_directory() -> None:
@@ -119,6 +59,21 @@ def clean_build_directory() -> None:
     if os.path.exists(BUILD_DIR):
         shutil.rmtree(BUILD_DIR)
     os.makedirs(BUILD_DIR)
+
+
+def read_template(filename: str) -> str:
+    """Read a template file from the templates directory."""
+    template_path = os.path.join(TEMPLATES_DIR, filename)
+    with open(template_path, "r", encoding="utf-8") as f:
+        return f.read()
+
+
+def simple_template_replace(template: str, context: dict) -> str:
+    """Simple template replacement for {{variable}} patterns."""
+    result = template
+    for key, value in context.items():
+        result = result.replace(f"{{{{{key}}}}}", str(value))
+    return result
 
 
 def escape_xml(text: str) -> str:
@@ -129,68 +84,93 @@ def escape_xml(text: str) -> str:
 def generate_xml_entry(
     word: str, definition: str, ipa_uk: str, ipa_us: str, entry_id: str
 ) -> str:
-    """Generate a single XML entry for the dictionary."""
-    # Create a unique ID for the entry
-    safe_id = entry_id.replace(" ", "_").replace("-", "_")
+    """Generate a single XML entry for the dictionary using template."""
+    template = read_template("entry.xml")
 
-    # Build the XML entry
-    entry_parts = [f'<d:entry id="{safe_id}" d:title="{escape_xml(word)}">']
+    # Prepare context for template
+    context = {
+        "entry_id": entry_id.replace(" ", "_").replace("-", "_"),
+        "word": escape_xml(word),
+        "definition": escape_xml(definition),
+    }
 
-    # Add index values
-    entry_parts.append(f'    <d:index d:value="{escape_xml(word)}"/>')
-
-    # Add lowercase variant if word starts with capital
+    # Handle lowercase index
     if word and word[0].isupper():
-        entry_parts.append(f'    <d:index d:value="{escape_xml(word.lower())}"/>')
+        context["#lowercase_index"] = True
+        context["lowercase_word"] = escape_xml(word.lower())
+    else:
+        template = template.replace(
+            '{{#lowercase_index}}<d:index d:value="{{lowercase_word}}"/>{{/lowercase_index}}',
+            "",
+        )
 
-    # Add the main heading
-    entry_parts.append(f"    <h1>{escape_xml(word)}</h1>")
-
-    # Add pronunciation if available
+    # Handle pronunciation
     if ipa_uk or ipa_us:
-        entry_parts.append('    <span class="syntax">')
+        context["#has_pronunciation"] = True
         if ipa_uk:
-            entry_parts.append(
-                f'        <span d:pr="UK_IPA">{escape_xml(ipa_uk)}</span>'
+            context["#ipa_uk"] = True
+            context["ipa_uk"] = escape_xml(ipa_uk)
+        else:
+            template = template.replace(
+                '{{#ipa_uk}}<span d:pr="UK_IPA">{{ipa_uk}}</span>{{/ipa_uk}}', ""
             )
+
         if ipa_us:
-            entry_parts.append(
-                f'        <span d:pr="US_IPA">{escape_xml(ipa_us)}</span>'
+            context["#ipa_us"] = True
+            context["ipa_us"] = escape_xml(ipa_us)
+        else:
+            template = template.replace(
+                '{{#ipa_us}}<span d:pr="US_IPA">{{ipa_us}}</span>{{/ipa_us}}', ""
             )
-        entry_parts.append("    </span>")
+    else:
+        # Remove entire pronunciation section
+        start = template.find("{{#has_pronunciation}}")
+        end = template.find("{{/has_pronunciation}}") + len("{{/has_pronunciation}}")
+        if start != -1 and end != -1:
+            template = template[:start] + template[end:]
 
-    # Add the definition
-    entry_parts.append(f"    <p>{escape_xml(definition)}</p>")
+    # Clean up any conditional markers
+    template = template.replace("{{#lowercase_index}}", "").replace(
+        "{{/lowercase_index}}", ""
+    )
+    template = template.replace("{{#has_pronunciation}}", "").replace(
+        "{{/has_pronunciation}}", ""
+    )
+    template = template.replace("{{#ipa_uk}}", "").replace("{{/ipa_uk}}", "")
+    template = template.replace("{{#ipa_us}}", "").replace("{{/ipa_us}}", "")
 
-    entry_parts.append("</d:entry>")
-
-    return "\n".join(entry_parts)
+    return simple_template_replace(template, context)
 
 
-def generate_dictionary_xml(entries: EntryList) -> str:
+def generate_front_matter(num_entries: int) -> str:
+    """Generate front matter using template."""
+    template = read_template("front_matter.xml")
+
+    context = {
+        "short_name": PROJECT.NAME,
+        "dict_name": f"{PROJECT.NAME} English-Icelandic Dictionary",
+        "description": PROJECT.DESCRIPTION_EN,
+        "num_entries": f"{num_entries:,}",
+        "editor": PROJECT.EDITOR,
+        "website": PROJECT.BASE_URL,
+        "repo_url": PROJECT.REPO_URL,
+        "license": PROJECT.LICENSE,
+        "date": datetime.datetime.now().strftime("%Y-%m-%d"),
+    }
+
+    return simple_template_replace(template, context)
+
+
+def generate_dictionary_xml(entries) -> str:
     """Generate the complete dictionary XML file."""
-
     # XML header and namespace declarations
     xml_parts = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<d:dictionary xmlns="http://www.w3.org/1999/xhtml" xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">',
     ]
 
-    # Add front matter entry
-    xml_parts.append(f'''<d:entry id="front_matter" d:title="About {DICT_SHORT_NAME}">
-    <h1><b>{DICT_NAME}</b></h1>
-    <h2>About This Dictionary</h2>
-    <div>
-        <p>{PROJECT.DESCRIPTION_EN}</p>
-        <p>This dictionary contains {len(entries):,} entries.</p>
-        <br/>
-        <p><b>Editor:</b> {PROJECT.EDITOR}</p>
-        <p><b>Website:</b> <a href="{PROJECT.BASE_URL}">{PROJECT.BASE_URL}</a></p>
-        <p><b>Source:</b> <a href="{PROJECT.REPO_URL}">{PROJECT.REPO_URL}</a></p>
-        <p><b>License:</b> {PROJECT.LICENSE}</p>
-        <p><b>Generated:</b> {datetime.datetime.now().strftime("%Y-%m-%d")}</p>
-    </div>
-</d:entry>''')
+    # Add front matter
+    xml_parts.append(generate_front_matter(len(entries)))
 
     # Add all dictionary entries
     for i, entry in enumerate(entries):
@@ -205,127 +185,32 @@ def generate_dictionary_xml(entries: EntryList) -> str:
 
 
 def generate_info_plist() -> str:
-    """Generate the Info.plist file for the dictionary."""
-    return f"""<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-    <key>CFBundleDevelopmentRegion</key>
-    <string>English</string>
-    <key>CFBundleIdentifier</key>
-    <string>{DICT_BUNDLE_ID}</string>
-    <key>CFBundleName</key>
-    <string>{DICT_SHORT_NAME}</string>
-    <key>CFBundleShortVersionString</key>
-    <string>{PROJECT.VERSION}</string>
-    <key>DCSDictionaryCopyright</key>
-    <string>Copyright © {datetime.datetime.now().year} {PROJECT.EDITOR}. {PROJECT.LICENSE}.</string>
-    <key>DCSDictionaryManufacturerName</key>
-    <string>{PROJECT.EDITOR}</string>
-    <key>DCSDictionaryFrontMatterReferenceID</key>
-    <string>front_matter</string>
-    <key>DCSDictionaryUseSystemAppearance</key>
-    <true/>
-</dict>
-</plist>"""
+    """Generate the Info.plist file from template."""
+    template = read_template("Info.plist.template")
 
+    context = {
+        "bundle_id": DICT_BUNDLE_ID,
+        "short_name": PROJECT.NAME,
+        "version": PROJECT.VERSION,
+        "year": datetime.datetime.now().year,
+        "editor": PROJECT.EDITOR,
+        "license": PROJECT.LICENSE,
+    }
 
-def generate_css() -> str:
-    """Generate the CSS file for the dictionary."""
-    return """@charset "UTF-8";
-@namespace d url(http://www.apple.com/DTDs/DictionaryService-1.0.rng);
-
-d|entry {
-    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-
-h1 {
-    font-size: 150%;
-    font-weight: bold;
-    margin-bottom: 0.5em;
-}
-
-h2 {
-    font-size: 125%;
-    font-weight: bold;
-    margin-top: 1em;
-    margin-bottom: 0.5em;
-}
-
-.syntax {
-    display: block;
-    font-size: 90%;
-    margin: 0.5em 0;
-    color: #666;
-}
-
-span[d|pr="UK_IPA"]:before {
-    content: "UK: ";
-    font-weight: bold;
-}
-
-span[d|pr="US_IPA"]:before {
-    content: "US: ";
-    font-weight: bold;
-}
-
-span[d|pr="UK_IPA"], span[d|pr="US_IPA"] {
-    margin-right: 1em;
-}
-
-p {
-    margin: 0.5em 0;
-}
-
-a {
-    color: #007AFF;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-"""
+    return simple_template_replace(template, context)
 
 
 def generate_makefile() -> str:
-    """Generate the Makefile for building the dictionary."""
-    dict_dev_kit_abs = os.path.abspath(DICT_DEV_KIT_PATH)
-    return f'''#
-# Makefile for {DICT_NAME}
-#
+    """Generate the Makefile from template."""
+    template = read_template("Makefile.template")
 
-DICT_NAME = "{DICT_SHORT_NAME}"
-DICT_SRC_PATH = Dictionary.xml
-CSS_PATH = Dictionary.css
-PLIST_PATH = Info.plist
+    context = {
+        "dict_name": f"{PROJECT.NAME} English-Icelandic Dictionary",
+        "short_name": PROJECT.NAME,
+        "dict_dev_kit_path": os.path.abspath(DICT_DEV_KIT_PATH),
+    }
 
-DICT_BUILD_OPTS =
-
-DICT_BUILD_TOOL_DIR = "{dict_dev_kit_abs}"
-DICT_BUILD_TOOL_BIN = "$(DICT_BUILD_TOOL_DIR)/bin"
-
-DICT_DEV_KIT_OBJ_DIR = ./objects
-export DICT_DEV_KIT_OBJ_DIR
-
-DESTINATION_FOLDER = ~/Library/Dictionaries
-RM = /bin/rm
-
-all:
-	"$(DICT_BUILD_TOOL_BIN)/build_dict.sh" $(DICT_BUILD_OPTS) $(DICT_NAME) $(DICT_SRC_PATH) $(CSS_PATH) $(PLIST_PATH)
-	echo "Done."
-
-install:
-	echo "Installing into $(DESTINATION_FOLDER)".
-	mkdir -p $(DESTINATION_FOLDER)
-	ditto --noextattr --norsrc $(DICT_DEV_KIT_OBJ_DIR)/$(DICT_NAME).dictionary $(DESTINATION_FOLDER)/$(DICT_NAME).dictionary
-	touch $(DESTINATION_FOLDER)
-	echo "Done."
-	echo "To test the new dictionary, try Dictionary.app."
-
-clean:
-	$(RM) -rf $(DICT_DEV_KIT_OBJ_DIR)
-'''
+    return simple_template_replace(template, context)
 
 
 def build_dictionary() -> bool:
@@ -360,9 +245,7 @@ def build_dictionary() -> bool:
         os.chdir(old_cwd)
 
 
-def generate_macos_dictionary(
-    entries: EntryList, keep_build_files: bool = False
-) -> str:
+def generate_macos_dictionary(entries, keep_build_files: bool = False) -> str:
     """Generate macOS dictionary file. Return file path to the zip file."""
 
     print(f"Generating macOS dictionary with {len(entries)} entries...")
@@ -381,10 +264,9 @@ def generate_macos_dictionary(
     with open(os.path.join(BUILD_DIR, "Info.plist"), "w", encoding="utf-8") as f:
         f.write(plist_content)
 
-    print("Generating CSS...")
-    css_content = generate_css()
-    with open(os.path.join(BUILD_DIR, "Dictionary.css"), "w", encoding="utf-8") as f:
-        f.write(css_content)
+    # Copy CSS file
+    print("Copying CSS...")
+    shutil.copy(os.path.join(TEMPLATES_DIR, "Dictionary.css"), BUILD_DIR)
 
     print("Generating Makefile...")
     makefile_content = generate_makefile()
@@ -396,9 +278,7 @@ def generate_macos_dictionary(
         raise Exception("Failed to build dictionary")
 
     # Copy the built dictionary to static files
-    dict_bundle_path = os.path.join(
-        BUILD_DIR, "objects", f"{DICT_SHORT_NAME}.dictionary"
-    )
+    dict_bundle_path = os.path.join(BUILD_DIR, "objects", f"{PROJECT.NAME}.dictionary")
     target_path = f"{PROJECT.STATIC_FILES_PATH}{PROJECT.BASE_DATA_FILENAME}.dictionary"
 
     if os.path.exists(target_path):
@@ -426,6 +306,9 @@ def generate_macos_dictionary(
 
 def main() -> None:
     """Main function for testing the macOS dictionary generation."""
+    # Import here to avoid circular imports when used as a module
+    from gen import read_all_entries
+
     print("Reading dictionary entries...")
     entries = read_all_entries()
     print(f"Found {len(entries)} entries")

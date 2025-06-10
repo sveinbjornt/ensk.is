@@ -1,0 +1,12 @@
+<d:entry id="{{entry_id}}" d:title="{{word}}">
+    <d:index d:value="{{word}}"/>
+    {{#lowercase_index}}<d:index d:value="{{lowercase_word}}"/>{{/lowercase_index}}
+    <h1>{{word}}</h1>
+    {{#has_pronunciation}}
+    <span class="syntax">
+        {{#ipa_uk}}<span d:pr="UK_IPA">{{ipa_uk}}</span>{{/ipa_uk}}
+        {{#ipa_us}}<span d:pr="US_IPA">{{ipa_us}}</span>{{/ipa_us}}
+    </span>
+    {{/has_pronunciation}}
+    <p>{{definition}}</p>
+</d:entry>
