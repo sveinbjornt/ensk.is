@@ -5966,6 +5966,7 @@ provably ao. sannanlega, á sannanlegan hátt
 interstellar l. milli stjarna
 masseur n. (karlkyns) nuddari
 masseuse n. (kvenkyns) nuddari
+cochlea n. kuðungur; snigill
 observability n. skoðanleiki, sjáanleiki, athuganleiki
 defined l. skilgreindur, útlistaður, skýrður; takmarkaður
 miscalculated l. misreiknaður, skakkt reiknaður
@@ -5973,6 +5974,7 @@ recessionary l. kreppu-; kreppuvaldandi; samdráttar-, afturdráttar-, samdragan
 sitar n. sítar (indverskt strengjahljóðfæri)
 excommunicant n. bannfærður einstaklingur, e-r sem hefur verið bannfærður
 clitoris n. snípur
+clit n. snípur (stytt. á %[clitoris]%)
 ovulate s. losa egg
 ovulation n. egglos
 trimester n. þriggja mánaða tímabil, ársfjórðungur
@@ -7218,6 +7220,7 @@ coverage n. umfjöllun, fréttaumfjöllun; dekkun, þakning; trygging, vátryggi
 demonstrator n. mótmælandi, andófsmaður
 entitlement n. réttur; réttindi; [sense of ~] heimtufrekja, að finnast eiga tilkall til e-s
 glasses nft. gleraugu
+eyeglasses nft. gleraugu
 goalkeeper n. markmaður, markvörður
 goalie n. markmaður, markvörður (stytt. á %[goalkeeper]%)
 graph n. graf; línurit
@@ -7794,16 +7797,53 @@ spore n. gró
 tattered l. tötralegur, slitinn
 watchfulness n. árvekni
 cholangitis n. gallrásabólga
+footbridge n. göngubrú
+doghouse n. hundakofi
+erythrocyte n. rauðkorn, rautt blóðkorn, rauð blóðfruma
 willowherb n. dúnurt
 maltose n. maltsykur, maltósi
 loner n. einfari
+dotterel n. fjalllóa
 lawnmower n. garðsláttuvél
 horsecart n. hestakerra
 gravlax n. graflax
+endoscope n. holspegill, holsjá
+ennui n. leiði, lífsleiði, óyndi
+cicely n. spánarkerfill
+curium n. kúrín (frumefni)
+cerium n. serín (frumefni)
+argon n. argon (frumefni)
+caesium n. sesín (frumefni)
+fermium n. fermín (frumefni)
 einsteinium n. einsteinín (frumefni)
 copernicium n. kópernikín (frumefni)
 defibrillation n. hjartastilling
 crossbill n. krossnefur (fuglategund)
 couscous n. kúskús
+graviton n. þyngdareind
+earwax n. eyrnamergur
+comitative n. samvistarfall
+dipsomaniacal l. drykkjuóður, drykkfelldur
+grand piano n. flygill (stór slagharpa)
 coccyx n. rófubein
 coal mine n. kolanáma
+filleting n. flökun
+fishmeal n. fiskimjöl
+airbag n. loftpúði, líknarbelgur
+airmail n. flugpóstur
+folder n. mappa
+bumblebee n. hunangsfluga, býfluga
+calcification n. kölkun
+carbon monoxide n. kolsýringur, kolmónoxíð
+diuresis n. þvagaukning
+divisive l. sundrandi
+divisiveness n. sundurlyndi, sundrung
+dogwhelk n. nákuðungur
+gamete n. kynfruma
+dreamworld n. draumaheimur, draumaveröld, draumaland
+electable l. sem hægt er að kjósa, kjörgengur
+electibility n. kjörþokki, kjörgengi
+flirting n. daður, viðreynsla
+forename n. eiginnafn, fornafn
+gatecrasher n. boðflenna, sá sem mætir óboðinn
+geomorphology n. landmótunarfræði
