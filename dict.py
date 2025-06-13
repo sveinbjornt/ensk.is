@@ -37,8 +37,6 @@ Code to read and parse dictionary source files.
 
 """
 
-from typing import DefaultDict
-
 import os
 from collections import defaultdict
 import orjson as json
@@ -54,7 +52,6 @@ def read_raw_pages(fn: str | None = None) -> dict[str, list]:
     return as an alphabetically indexed dict of lines."""
     base_path = "data/dict/"
     files = sorted(os.listdir(base_path))
-    result = DefaultDict()
     result = defaultdict(lambda: [])
 
     for file in files:

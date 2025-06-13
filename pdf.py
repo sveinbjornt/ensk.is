@@ -59,6 +59,7 @@ from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.pdfgen.canvas import Canvas
 
 from info import PROJECT
+from util import silently_remove
 
 _FONT_NAME = "Garamond"
 
@@ -165,10 +166,10 @@ class LetterSectionMarker(Flowable):
 
         # Update previous letter's end page if there is one
         prev_letter = None
-        for l in _LETTER_PAGES.keys():
-            if l == self.letter:
+        for lt in _LETTER_PAGES.keys():
+            if lt == self.letter:
                 break
-            prev_letter = l
+            prev_letter = lt
 
         if prev_letter:
             start_page, _ = _LETTER_PAGES[prev_letter]
@@ -360,6 +361,7 @@ def _build_document(dictionary_data, output_file, is_first_pass=False):
 
 
 def _compress_pdf(input_file, output_file):
+    """Compress the PDF content streams to reduce file size."""
     from pypdf import PdfWriter
 
     writer = PdfWriter(clone_from=input_file)
@@ -373,7 +375,6 @@ def _compress_pdf(input_file, output_file):
 
 def generate_pdf(dictionary_data, output_file):
     """Generate a PDF version of the dictionary using a two-pass approach."""
-    import os
 
     # Clear the global mappings
     global _LETTER_PAGES, _PAGE_ENTRIES
@@ -390,10 +391,7 @@ def generate_pdf(dictionary_data, output_file):
     _compress_pdf(output_file, output_file)
 
     # Clean up the temporary file
-    try:
-        os.remove(temp_output)
-    except:  # noqa: E722
-        pass
+    silently_remove(temp_output)
 
 
 if __name__ == "__main__":

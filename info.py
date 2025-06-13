@@ -32,7 +32,7 @@ ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGE.
 
 
-Shared information and constants for the Ensk.is project
+Shared metadata and constants for the Ensk.is project
 
 """
 

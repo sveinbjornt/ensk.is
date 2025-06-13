@@ -37,8 +37,6 @@ Check formatting and integrity of raw text dictionary entries.
 
 """
 
-from typing import Union
-
 import re
 import time
 
@@ -62,10 +60,10 @@ ALL_DICT_WORDS = read_all_words()
 
 bin = None  # Lazily initialized BÍN instance
 
-warnings = 0
+warnings = 0  # Global counter for warnings
 
 
-def warn(s: str, pn: Union[int, str], ln: int):
+def warn(s: str, pn: int | str, ln: int):
     """Print warning message w. relevant file and line info."""
     print(f"{pn}:{ln} | {s}")
     global warnings
