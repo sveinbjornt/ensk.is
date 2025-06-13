@@ -24,7 +24,7 @@ quaggy l. dúandi (um mýri); hvapkenndur
 quagmire n. fen, kviksyndi; ófæra
 quail n. kornhæna; s. guggna, láta hugfallast; láta e-n guggna
 quaint l. einkennilegur, skringilegur, forntískulegur ([~ articles of furniture])
-quake s. skjálfa; dúa; [~ for fear] skjálfa af hræðslu; n. skjálfti, hristingur; jarðskjálftakippur
+quake s. skjálfa, titra; dúa; [~ for fear] skjálfa af hræðslu; n. skjálfti, hristingur; jarðskjálftakippur
 quaker n. kvekari
 quakerism n. kvekarakenning
 quaky l. skjálfandi
@@ -93,7 +93,7 @@ quest n. leit; [be in ~ of] vera að leita að; s. leita (að e-u)
 question n. spurning; umræðuefni; (píningar)rannsókn; skoðunarmál; efi; mál ([the Eastern ~]); [the matter in ~] það mál, sem um er að ræða; [put/submit one to the ~] pína e-n til sagna; [call into ~] efast um; [come into ~] koma til (nokkurra) mála; [that is out of the ~] um það er ekki lengur að ræða; [out of ~] vafalaus; s. spyrja; rannsaka, prófa (fyrir rétti); efast um; tortryggja
 questionable l. vafasamur; efasamur; tortryggilegur
 questionableness n. óvissa; vafasemi
-questioner n. spyrjandi
+questioner n. spyrjandi, spyrill
 questionless l. vafalaus, án spurninga, án athugasemda
 question mark n. spurningarmerki (?)
 question stop n. spurningarmerki (?)

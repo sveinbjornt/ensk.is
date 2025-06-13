@@ -3,7 +3,7 @@ nabob n. landstjóri (á Indlandi); auðkýfingur, ríkisbubbi
 nacre n. perlumóðir
 nacreous l. perlumóður-
 nadir n. ilpunktur, lágpunktur (gagnstætt %[zenith]%)
-nag s. nöldra; jagast (við e-n [at]); n. lítill reiðhestur; nöldurseggur
+nag s. nöldra; jagast (við e-n [at]); n. bikkja, lítill eða lélegur reiðhestur; nöldurseggur
 naggy l. jögunarsamur
 naiad n. vatnadís
 nayad n. vatnadís
@@ -46,7 +46,7 @@ narrow-breasted l. mjór um brjóstið; nískur
 narrowly ao. náið; naumlega, nauðulega; [to escape ~] komast naumlega undan
 narrow-minded l. þröngsýnn
 narrow-mindedness n. þröngsýni
-narrowness n. mjódd, þröngleiki; naumleiki; smásmygli, smámunasemi
+narrowness n. þrengsli, þröngleiki, mjódd; naumleiki; smásmygli, smámunasemi
 narrows nft. þrengsli
 narwhal n. náhvalur, náhveli
 nasal l. neflegur, nef-; n. nefhljóð
@@ -66,7 +66,7 @@ national l. þjóðlegur; þjóðrækinn; þjóðernislegur; ríkis-, lands-; [~
 nationality n. þjóðerni; [what is his ~?] hverrar þjóðar er hann?
 nationalization n. þjóðnýting
 nationalize s. þjóðnýta; gera þjóðlegt; veita þegnréttindi
-native l. meðfæddur; innfæddur, innborinn, innlendur; sjálfrunninn (um málma); óbreyttur, upprunalegur; [~ country] ættland; n. innlendur (innborinn, innfæddur) maður; [a ~ of America] innborinn Ameríkumaður
+native l. meðfæddur; frumbyggi, innfæddur, innborinn, innlendur; sjálfrunninn (um málma); óbreyttur, upprunalegur; [~ country] ættland; n. innlendur (innborinn, innfæddur) maður; [a ~ of America] innborinn Ameríkumaður
 nativity n. fæðing; fæðingarstund; [festival of Christ's ~] jólahátíð; [cast the ~ of] segja fyrir forlög e-s (við fæðinguna eftir gangi himintungla)
 natron n. natron
 natty l. snyrtimannlegur; fimur, lipur, nettur
@@ -97,7 +97,7 @@ navigate s. sigla; sigla um eða yfir ([~ the sea, a river]); stýra (skipi, flu
 navigation n. sigling(ar); siglingafræði; sjómennska
 navigator n. siglingamaður; sjómaður
 navvy n. járnbrautarverkamaður; síkisgrafari
-navy n. floti, herskipastóll; [~ bill] flotavíxill; [~ court] sjóréttur
+navy n. floti, sjóher; herskipastóll; [~ bill] flotavíxill; [~ court] sjóréttur
 nay ao. nei (nú vanalega %[no]%); n. nei, neikvæði ([my ~ is just as good as your aye]); (oft haft til áherslu) já, jafnvel, meira að segja ([I think, ~ I am sure])
 neap l. smár; n. smár straumur, smástreymi ([~ tide])
 neaped l. fjaraður uppi (um skip)
@@ -122,12 +122,12 @@ neckcloth n. hálsklútur
 neckerchief n. hálsklútur
 necklace n. hálsmen, hálsfesti
 necklet n. hálsfesti (úr gulli)
-necktie n. bindi, hálshnýti, slipsi
+necktie n. bindi, hálsbindi, hálshnýti, slipsi
 necrology n. skrá yfir mannalát, dánarskrá; eftirmæli nýlátins manns, dánarminning
 necromancer n. andasæringamaður; galdramaður, svartagaldursmaður, galdrakarl myrkurs og dauða
 necromancy n. andasæringar; galdrar, svartagaldur
 necrosis n. drep í beini eða holdi
-nectar n. nektar; blómsykur; goðadrykkur ([~ of the gods])
+nectar n. nektar, blómasafi, blómsykur; goðadrykkur ([~ of the gods])
 nectarean l. hunangssætur, ljúffengur
 nectareous l. hunangssætur, ljúffengur
 nectary n. hunangsbikar (á blómum, [nectaries of flowers])
@@ -142,7 +142,7 @@ needlecase n. nálhús
 needleful n. nálþráður
 needler n. nálasmiður
 needlewoman n. saumakona
-needlework n. saumaskapur; saum
+needlework n. saumaskapur, hannyrðir
 nefarious l. níðingslegur, svívirðilegur
 negate s. neita; ónýta
 negation n. neitun
@@ -174,7 +174,7 @@ neo- fsk. ný-
 neologism n. nýyrði, nýgervingur; ný kenning
 neology n. nýyrði, nýgervingur; ný kenning
 neophyte n. nýr trúskiptingur; byrjandi, viðvaningur
-nephew n. bróður- eða systursonur
+nephew n. frændi, bróðursonur, systursonur
 nephritic l. nýrna, nýrnaveikur
 nephritis n. nýrnabólga
 nepotism n. frændhygli, framdráttur skyldmenna
@@ -208,7 +208,7 @@ never-ceasing l. þrotlaus
 never-failing l. óbrigðull
 nevertheless ao. engu síður, samt sem áður
 new l. nýr; ferskur; óvanur, óreyndur; óvanur (e-u [to])
-newborn l. nýfæddur
+newborn l. nýfæddur; n. nýburi
 new-coined l. nýmyndaður ([a ~ word])
 newcome l. nýkominn
 newcomer n. aðkomumaður; nýgræðingur, byrjandi
@@ -235,11 +235,11 @@ nice l. ljúffengur ([a ~ dish]); þokkalegur, snotur, fallegur; vandasamur; ná
 nicely ao. snoturlega, vel
 niceness n. snoturleiki; mikið vandlæti, mikil nákvæmni, vandfýsni; skarpskyggni
 nicety n. viðkvæmni; nákvæmni; [to a ~] mjög vandlega; ft. sætindi, kræsingar, sælgæti
-niche n. veggskot; skora, krókur
+niche n. veggskot; skora, krókur, kimi
 niched l. settur upp í veggskot
 nick n. skora; hentugur tími; [in the very ~ (of time)] alveg á réttum tíma; s. gera skoru í; hitta á, stela e-u ([to ~ something]); giska rétt á e-ð ([~ the truth]); grípa ([~ a criminal]); ná í ([~ a train])
 nickel n. nikkel (málmur)
-nickname n. uppnefni, gælunafn; s. uppnefna, gefa rangt nafn eða gælunafn
+nickname n. uppnefni, gælunafn, viðurnefni; s. uppnefna, gefa rangt nafn eða gælunafn
 nicotine n. nikótín, tóbakseitur
 nictate s. depla augunum
 nictation n. depl
@@ -249,7 +249,7 @@ niddle-noddle s. riða (með höfuðið); l. riðandi
 nidificate s. gera hreiður
 nidification n. hreiðurgerð
 nid-nod s. sídotta
-niece n. bróður- eða systurdóttir
+niece n. frænka, bróðurdóttir, systurdóttir
 niggard n. nirfill, svíðingur; l. svíðinglegur, nískur
 niggardliness n. svíðingsskapur, níska
 niggardly l. nískur, svíðinglegur; ao. nískulega, svíðinglega
@@ -269,7 +269,7 @@ nightquarters nft. náttstaður
 night school n. kvöldskóli
 night soil n. salernisáburður
 nightwalker n. náttgöngumaður; þjófur
-nightwatch n. næturvörður; næturvaka
+nightwatch n. næturvörður; næturvaka, næturvöktun
 nightingale n. næturgali
 nigrescent l. svartleitur
 nihilism n. tómhyggja; alneitunarstefna; gjöreyðingarstefna
@@ -312,7 +312,7 @@ nitrous l. saltpéturskenndur ([~ water, salt])
 no ao. nei; ekki; [whether or not] hvort eða ekki; [~ more] ekki meira; ekki framar; l. enginn; [in ~ time] á svipstundu; [~ one] enginn
 nob n. kollur, haus; stórborgari; s. slá e-n á höfuðið
 nobility n. ættgöfgi; göfugmenni, aðall, aðalsstétt (þar til heyra [duke, marquess, earl, viscount og baron]); göfuglyndi
-noble l. göfugur, ættgöfugur; aðallegur; göfuglyndur; ágætur, frábær; n. göfugmenni, aðalsmaður
+noble l. göfugur, göfuglyndur; ættgöfugur, tiginn; aðallegur; ágætur, frábær; n. göfugmenni, aðalsmaður, tignarmaður
 nobleman n. aðalsmaður
 noble-minded l. göfuglyndur
 nobleness n. göfugleiki, göfuglyndi, tign
@@ -320,7 +320,7 @@ nobly ao. göfuglega; [~ born] af göfugum ættum
 noblesse n. göfugleiki ([~ of thought]); göfugmenni, aðall
 nobody n. enginn
 nock n. skora; s. gera skoru í
-nocturnal l. næturlegur, nætur- ([~ predator])
+nocturnal l. næturlegur, nátt-, nætur- ([~ predator])
 nod s. hneigja höfuðið; kinka kolli; dotta; [~ approbation] láta í ljós samþykki sitt með því því að hneigja höfuðið; n. hneiging ([a ~ of the head]); dott ([a sleepy ~]); bending ([they watched his ~])
 noddle n. haus, kollur; s. hneigja (höfuðið) ótt og titt, kinka kolli ([~ the head])
 noddy n. auli, flón; hafsúla
@@ -365,7 +365,7 @@ nonsense n. rugl, vitleysa, heimska, hégómi, fásinna
 nonsensical l. heimskulegur, fjarstæður
 nonsuit n. frávísun máls; [to demand a ~] heimta að málinu verði vísað frá; s. vísa (máli) frá
 noodle n. núðla; auli, flón
-nook n. kimi, skot, krókur
+nook n. kimi, afkimi, skot, krókur
 noon n. hádegi, miðdegi
 noonday n. hádegi, hádegisbil, hádegisskeið; [at ~] um hádegi
 noontide n. hádegi, hádegisbil, hádegisskeið; [at ~] um hádegi
@@ -400,7 +400,7 @@ nosebleed n. blóðnasir
 nosegay n. blómvöndur
 noseless l. neflaus
 nosey l. þefillur, daunillur; ilmmikill ([~ tea]); þefnæmur
-nostalgia n. nostalgía; heimfýsi
+nostalgia n. nostalgía; heimfýsi; angurværð
 nostril n. nös
 nostrum n. kynjalyf
 not ao. ekki, eigi
@@ -421,7 +421,7 @@ notice n. gaumur, eftirtekt; stutt grein; tilkynning; auglýsing; viðvörun; fy
 noticeable l. eftirtektarverður
 noticeboard n. auglýsingatafla
 notification n. tilkynning; auglýsing
-notify s. auglýsa; tilkynna, birta
+notify s. auglýsa; tilkynna, birta; láta vita
 notion n. hugmynd; hugsun; tilhneiging, löngun ([have a ~ for something, to do something]); ft. smávarningur; [airy ~s] hugarburður, loftkastali
 notional l. hugmyndarlegur, ímyndaður
 notoriety n. alkunnugleiki; [a matter of ~] alkunnur hlutur
@@ -482,7 +482,7 @@ numismatic l. sem lýtur að peningamyntum eða minnispeningum
 numismatics nft. myntfræði
 numismatist n. myntfræðingur; áhugamaður um peningamyntir
 nummary l. peninga-
-numskull n. auli
+numskull n. auli, glópur
 nun n. nunna
 nuncio n. sendiherra páfa
 nuncupative l. [~ will] munnleg arfleiðsla (í vitna viðurvist)
@@ -490,7 +490,7 @@ nunnery n. nunnuklaustur
 nunnish l. nunnu-
 nuptial n. brúðkaups-
 nuptials nft. hjónavígsla, brúðkaup
-nurse n. hjúkrunarkona, vökukona; fóstra, barnfóstra; s. fóstra, gefa (barni) að sjúga; hjúkra ([~ the sick]); hlynna að; strjúka hægt ([~ the knees]); ala upp; ala, geyma í brjósti sér ([~ a grievance])
+nurse n. hjúkrunarfræðingur, hjúkrunarkona; fóstra, barnfóstra; s. fóstra, gefa (barni) að sjúga; hjúkra ([~ the sick]); hlynna að; strjúka hægt ([~ the knees]); ala upp; ala, geyma í brjósti sér ([~ a grievance])
 nurse-child n. fósturbarn; brjóstabarn
 nursemaid n. barnfóstra
 nursery n. barnastofa; gróðrarstaður, gróðrarstöð; gróðrarstía

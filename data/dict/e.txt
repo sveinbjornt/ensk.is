@@ -82,7 +82,7 @@ economical l. hagfræðilegur, þjóðmegunarlegur; sparsamur; sem er til hagsmu
 economics nft. hagfræði, þjóðmegunarfræði
 economist n. hagfræðingur, þjóðmegunarfræðingur; sparnaðarmaður
 economize s. spara; nota sparlega; hagnýta
-economy n. efnahagur; efnahagslegt ástand; efnahagslíf; [political ~] þjóðmegunarfræði; (hús)stjórn; fyrirkomulag, tilhögun; sparsemi, sparnaður
+economy n. efnahagur; efnahagslegt ástand; hagkerfi; efnahagslíf; [political ~] þjóðmegunarfræði; (hús)stjórn; fyrirkomulag, tilhögun; sparsemi, sparnaður
 ecstasy n. ofsagleði; ofsi; leiðsla; [~ of rage] óstjórnlegt æði; [be in ecstasies] ráða sér ekki (fyrir gleði); MDMA-lyf; s. fylla (e-n) ofsagleði
 ecstatic l. frá sér numinn; ofsalegur ([~ pleasure])
 ecstatical l. frá sér numinn; ofsalegur ([~ pleasure])
@@ -618,7 +618,7 @@ ensign n. merki, einkenni; tignarmark; fáni; merkisberi
 ensilage n. súrheysverkun, súrhey
 ensile s. verka súrhey ([~ green forage])
 enslave s. hneppa í þrældóm, gera að þræli
-enslavement n. þrælkun, áþján
+enslavement n. þrælkun, áþján, ánauð
 enslaver n. þrælkari
 ensnare s. snara; veiða í tálsnöru, véla
 ensnarement n. tálsnara
@@ -763,7 +763,7 @@ equanimity n. jafnlyndi, jafnaðargeð; rósemi
 equanimous l. jafnlyndur
 equate s. gera e-ð jafnt; jafna e-u (við e-ð [to, with])
 equation n. (stærðfræði)jafna; líking (í tölvísi)
-equator n. miðjarðarlínan
+equator n. miðbaugur, miðjarðarlínan
 equatorial l. sem lýtur að miðjarðarlínunni
 equerry n. yfirmaður yfir hesthúsi konungs eða stórhöfðingja ([~ in ordinary])
 equestrian l. reiðmannlegur, riddaralegur, riddara-; ríðandi; n. reiðmaður; ríðandi maður
@@ -941,7 +941,7 @@ euphuism n. íburður og tildur í rithætti
 euphuist n. íburðarmikill rithöfundur
 euphuistic l. íburðarmikill
 Europe n. Evrópa, Norðurálfa
-European l. Evrópu-; Norðurálfu-; n. Evrópumaður, Norðurálfubúi
+European l. evrópskur; Evrópu-, Norðurálfu-; n. Evrópumaður, Norðurálfubúi
 evacuant l. búkhreinsandi; n. búkhreinsandi lyf
 evacuate s. tæma (einkum magann eða innyflin); svipta (e-n e-u [of]); (um her) fara burt úr (landi eða borg); flytja burtu (íbúa eða herlið)
 evacuation n. tæming; búkhreinsun ([~ by stool]); burtför (herliðs); burtflutningur (herliðs úr e-m stað)
@@ -975,14 +975,14 @@ evening dress n. kjólföt
 evening party n. kvöldboð
 evening suit n. kjólföt
 event n. viðburður; atburður; endalok, afdrif, úrslit; [in the ~ of his death] ef svo fer að hann deyr; [at all ~s] að minnsta kosti
-eventful l. atburðaríkur; þýðingarmikill
+eventful l. atburðaríkur, viðburðaríkur; þýðingarmikill
 eventless l. tíðindalaus ([the long ~ day])
 eventual l. sem verða (eða koma) kann; sem verður að lokum
 eventuality n. hugsanlegur viðburður
 eventually ao. að lokum, um síðir
 eventuate s. enda (á e-u [in]); fara (vel eða illa); koma fram, verða ([a schism would ~])
 ever ao. ávallt, alltaf; nokkurn tíma, nokkru sinni; [for ~] um allan aldur, sí og æ; eilíflega; [~ so] hversu ... sem; [let him be ~ so poor] hversu fátækur sem hann er; [if you stir ~ so slightly] hversu lítið sem þú hreyfir þig
-evergreen l. sigrænn; n. sígrænt tré eða jurt
+evergreen l. sígrænn; n. sígrænt tré eða jurt
 everlasting l. æverandi, ævinlegur; sífelldur; óslítandi, óbilugur
 everlastingly ao. ævinlega, um allan aldur
 evermore ao. stöðugt, ævinlega, sí og æ
@@ -1176,7 +1176,7 @@ exile n. útlegð ([drive, go, into ~]); útlagi; s. gera útlægan; [~ oneself]
 exilement n. útlegð
 exility n. grannleiki
 exist s. vera, vera til, lifa; verða, gjörast ([come to ~]); [while earth ~s] á meðan jörðin stendur
-existence n. tilvera; vera; [the best man in ~] besti maður sem til er
+existence n. tilvera, tilvist; vera; [the best man in ~] besti maður sem til er
 existent l. sem er, tilverandi; núverandi ([the ~ state of things])
 exit s. fer út (af leiksviðinu); n. útganga; burtför; dauði
 exodus n. burtför; önnur Mósesbók; flutningur úr landi
@@ -1189,7 +1189,7 @@ exorcism n. andasæring; djöflaútrekstur; særingarþula
 exorcist n. særingamaður
 exordial l. inngangs-
 exordium n. inngangur
-exotic l. framandi, útlenskur; n. útlensk jurt; útlendingur
+exotic l. framandi, framandlegur, útlenskur; n. útlensk jurt; útlendingur
 expand s. breiða út; rétta út; þenja út ([heat ~s the air]); víðka; breiðast (þenjast) út; ljúkast upp (um blóm); þroskast (um skilninginn)
 expanse n. útþensla; himingeimur ([~ of heaven]); fláki
 expansible l. þenjanlegur, teygjanlegur
@@ -1324,7 +1324,7 @@ external l. ytri, utanverður; sem kemur að utan; [~ trade] verslun við útlö
 externally ao. að utan
 externals nft. ytri einkenni, ytra útlit
 extinct l. útdauður ([an ~ species]); slokknaður, útbrunninn ([an ~ volcano]); liðinn undir lok; genginn úr gildi (um lög)
-extinction n. slokknun; dauði; gjöreyðing; afnám ([~ of the national debt])
+extinction n. slokknun; dauði, útdauði; gjöreyðing; afnám ([~ of the national debt])
 extinctive l. eyðandi ([~ agency])
 extinguish s. slökkva; bæla niður, eyða; leggja niður (embætti, stofnanir); strika út, afmá (skuld)
 extinguishable l. slökkvanlegur

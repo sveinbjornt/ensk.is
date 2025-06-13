@@ -28,7 +28,7 @@ tack s. festa; þræða (saman); snúa, beita (skipi) upp í vindinn; slaga; ven
 tackle n. skipsreiði; útbúnaður; -föng, -færi ([writing ~, shaving ~]); veiðarfæri ([fishing ~]); aktygi; trissur og kaðlar; s. leggja aktygi (reiðtygi) við hest; ráðast á móti; leggja hönd á, fást við ([~ a difficulty]); [~ the food] taka til matarins
 tackling n. reiði (á skipi); aktygi; útbúnaður
 tact n. næm tilfinning (fyrir því sem við á); skynbragð, vit
-tactful l. vel viðeigandi; sem veit hvað við á
+tactful l. vel viðeigandi; háttvís, sem veit hvað við á
 tactical l. herskipunarlegur; sem lýtur að hentugustu aðferð
 tactician n. herskipunarmeistari
 tactics nft. herskipunarlist
@@ -41,8 +41,8 @@ tail n. hali, rófa, tagl, stertur, stél, sporður; bakhlið (fráhverfan) á p
 tailboard n. laus bakfjöl (í flutningsvagni)
 tailed l. með hala, rófu, stél, o.s.frv.
 tail n. takmörkun; [heir in ~] með takmörkuðum erfðarétti
-tailor n. skraddari; s. stunda skraddaraiðn
-tailoring n. skraddaraiðn
+tailor n. skraddari, klæðskeri; s. stunda skraddaraiðn
+tailoring n. skraddaraiðn, klæðskeraiðn
 taint s. bletta, óhreinka; spilla; skemma; svívirða; spillast, skemmast; n. blettur; óvirðing, smán; skemmd; sýking
 taintless l. flekklaus, óflekkaður
 takable l. tækilegur
@@ -270,7 +270,7 @@ tendance n. þjónusta; hjúkrun
 tendant l. þjónandi
 tendency n. tilhneiging; stefna; tilgangur
 tendentious l. ritaður (saminn) með ákveðnu markmiði, til stuðnings e-i skoðun eða málefni
-tender n. framboð, tilboð; gjaldmiðill; [legal ~] lögmætur gjaldeyrir; gæslumaður; hjúkrari; sá sem sinnir e-m; fylgiskip, vistaskip; kolavagn (á járnbraut); s. bjóða fram; bjóða e-m e-ð; grannur; mjúkur, meyr; blautgerður; viðkvæmur, blíður; brjóstgóður; varfærinn; [~ of (for, on behalf of)] sem lætur sér annt um e-ð
+tender n. framboð, tilboð; gjaldmiðill; [legal ~] lögmætur gjaldeyrir; gæslumaður; hjúkrari; sá sem sinnir e-m; fylgiskip, vistaskip; kolavagn (á járnbraut); s. bjóða fram; bjóða e-m e-ð; grannur; mjúkur, meyr; blautgerður; viðkvæmur, blíður, ljúfur; brjóstgóður; varfærinn; [~ of (for, on behalf of)] sem lætur sér annt um e-ð
 tender-hearted l. brjóstgóður, viðkvæmur, hjartahlýr
 tenderly ao. mjúklega, blíðlega; innilega, heitt; vægilega, gætilega
 tenderness n. grannleiki; meyrleiki; mýkt; viðkvæmni; blíða; brjóstgæði; nákvæmni, varfærni
@@ -714,7 +714,7 @@ titulary n. heimildarhafi; nafnbótarhafi
 to fs. til, við; fyrir, handa; (með nafnhætti) að, til þess að; [~ and fro] fram og aftur
 today ao. í dag
 tonight ao. í kvöld; í nótt
-toad n. froskur
+toad n. froskur, karta
 toad-eater n. sníkjugestur; smjaðrari
 toadstool n. gorkúlutegund
 toady s. smjaðra; n. smjaðrari
@@ -778,7 +778,7 @@ too ao. of; einnig, líka
 tool n. tól, verkfæri
 toot n. blástur í lúður; s. blása (í lúður); hvína
 tooth n. tönn; tindur; s. tinda (hrífu); tenna (sög)
-toothache n. tannverkur
+toothache n. tannverkur, tannpína
 toothbrush n. tannbursti
 toothed l. tenntur
 toothedge n. tannakul
@@ -808,7 +808,7 @@ torchbearer n. kyndilberi, blysberi
 torchlight n. blys; ljós af kyndli; [~ procession] blysför
 torment n. kvöl, pynting, pynding; s. kvelja, pynda, pynta, pína
 tormentor n. kvalari, pyntari, pyndari
-tornado n. hvirfilbylur
+tornado n. hvirfilbylur, hvirfilvindur
 torpedo n. tundurskeyti, tundurvél; hrökkviskata; s. skjóta tundurskeytum á; eyða með tundurskeytum; leggja tundurvélar í
 torpid l. sljór, tilfinningarlaus
 torpidity n. sljóleiki, tilfinningarleysi, sinnuleysi
@@ -951,7 +951,7 @@ tram road n. sporvegur
 tramway n. sporvegur
 trammel n. e.k. háfnet; e.k. haft (á hesta sem kennt er að skeiða); hindrun; s. hefta, hindra
 tramontane l. sem býr fyrir handan fjöllin; útlendur; n. e-r sem býr handan við fjöllin; útlendingur
-tramp s. troða undir fótum; trampa; ferðast (á fæti); n. fótatak ([~ of footsteps]); ganga, gönguför; umrenningur, maður sem lifir á götunni
+tramp s. troða undir fótum; trampa; ferðast (á fæti); n. fótatak ([~ of footsteps]); ganga, gönguför; umrenningur, flakkari, flækingur, maður sem lifir á götunni
 tramper n. umrenningur
 trample s. troða undir fótum ([~ under foot, under one's feet]); troða niður ([~ down])
 trance n. leiðsla, dá
@@ -1126,7 +1126,7 @@ tricker n. bragðarefur
 trickery n. svik, brögð
 trickish l. brögðóttur, hrekkjóttur; glettinn
 tricksome l. brögðóttur, hrekkjóttur; glettinn
-trickster n. hrekkjalimur, skelmir
+trickster n. hrekkjalómur, skelmir
 tricksy l. varasamur, viðsjáll (sjá %[tricksome]%)
 trickle s. drjúpa, leka, renna í dropum ([water ~s from the eaves]); láta drjúpa; n. dropafall, leki
 tricklet n. lækjarsitra
@@ -1264,7 +1264,7 @@ trumpet n. lúður, básúna; s. birta, boða (með lúðurhljómi)
 trumpeter n. lúðurþeytari
 truncate s. stýfa, höggva af
 truncation n. stýfing
-truncheon n. stuttur stafur; kylfa; tréstofn með afhöggnum greinum
+truncheon n. stuttur stafur; kylfa, lurkur; tréstofn með afhöggnum greinum
 trundle n. valtari; s. velta
 trundle-bed n. rúm á hjólum
 trunk n. stofn; bolur, búkur; meginhluti; (stórt) koffort; fatakista; fílsrani

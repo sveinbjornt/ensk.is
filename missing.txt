@@ -1346,7 +1346,6 @@ frontiersman
 striver
 epigone
 seminarian
-cofounder
 surreptitiously
 gendarmerie
 particularistic
@@ -1416,7 +1415,6 @@ karma
 locale
 deluxe
 techno
-technobabble
 toner
 outreach
 upcoming
@@ -1440,7 +1438,6 @@ riff
 nutter
 aspirational
 unduly
-billboard
 glitch
 glitchy
 soteriology
@@ -1513,14 +1510,12 @@ extraversion
 afoul
 onboard
 cinch
-geek
 hotshot
 haywire
 bossa nova
 cutoff
 scanner
 echelon
-alma mater
 summa cum laude
 coder
 stardom
@@ -2007,7 +2002,6 @@ biorefinery
 freeloader
 freeload
 catchword
-android
 soufflé
 cabby
 overpaid
@@ -2140,7 +2134,6 @@ bandsman
 bantam
 revetment
 batman
-phosgene
 periscopic
 periscopical
 singsong
@@ -2199,7 +2192,6 @@ trope n. endurskoða!
 valorisation
 Jungian
 dirigisme
-coon
 agrivoltaics
 divot
 bloat n.
@@ -2306,7 +2298,6 @@ non-combatant
 occlusion
 non-violence
 terroristic
-brutally
 counterterrorism
 flair
 decolonization
@@ -2314,7 +2305,6 @@ imbrication
 neo-colonialism
 neo-colonialist
 Anglocentrism
-Anglocentric
 problematize
 blip
 unfound
@@ -4934,7 +4924,6 @@ lobby (enduruskoða, sem sögn)
 credit (endurskoða)
 scutter
 grasscutter
-professional (endurskoða)
 demoscene
 accepted
 canzonetta
@@ -5138,7 +5127,6 @@ indicated
 dating
 installed
 uninstalled
-kerning
 unchallenged
 distilled
 minge
@@ -5188,7 +5176,6 @@ vitriolic (endurskoða)
 shithead
 absolved
 dynamometer
-omnidirectional
 kablooie
 kablooey
 phoniness
@@ -5216,3 +5203,17 @@ washroom
 livingroom
 antidisestablishmentarianism
 cruise missile
+aunt (endurskoða)
+uncle (endurskoða)
+spoke (endurskoða) - spoke of a wheel, pílárí
+meniscus (endurskoða) - líffræði
+perishable (endurskoða)
+whelmed (endurskoða)
+compacted
+disappointing
+dingleberry
+bulging
+professional (endurskoða)
+reshoot
+metaphor (endurskokða)
+frustration (endurskoða)

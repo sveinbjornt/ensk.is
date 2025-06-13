@@ -94,7 +94,7 @@ famine n. hungursneyð, hallæri; skortur; [water ~] vatnsskortur
 famish s. svelta
 famous l. frægur; ágætur
 fan n. blævængur; kornhreinsunarvél; s. kæla (með blævæng); blása á; berja; þukla á e-u
-fanatic l. ofsafullur, ofstækisfullur; n. ofsamaður, ofstækismaður
+fanatic l. ofsafullur, ofstækisfullur; n. ofsamaður, ofstækismaður, öfgamaður
 fanatical l. ofsafullur, ofstækisfullur
 fanaticism n. ofstæki; trúarofsi
 fanaticize s. æsa upp; hamast
@@ -121,7 +121,7 @@ far l. fjarlægur ([in a ~ land]); ao. fjarri, langt í burt ([~ off, ~ away]); 
 farce n. skrípaleikur; s. krydda (ræðu eða rit)
 farcical l. skrípaleikslegur ([my ~ marriage]); [~ play] skrípaleikur
 fare s. fara; farnast; lifa (þ.e. éta og drekka); n. fargjald; fæði, matur; [bill of ~] matseðill
-farewell uh. vertu sæll; verið þér sælir; n. kveðja; l. skilnaðar-; s. kveðja
+farewell uh. vertu sæll; n. kveðja; l. skilnaðar-; s. kveðja
 far-fetched l. langsóttur
 farina n. mjöl
 farinaceous l. mjölkenndur; mjöl- ([~ food])
@@ -177,7 +177,7 @@ fatigue n. þreyta; erfiði; áreynsla ([~ of mind]); s. þreyta
 fatuity n. heimska
 fatuous l. heimskur
 fauces n. kverkar, kok
-faucet n. krani (á íláti)
+faucet n. krani (á íláti); vatnshani
 faugh uh. svei!
 fault n. galli, lýti; missmíði; villa; yfirsjón; ávirðing; [it is not my ~] það er ekki mér að kenna; [the ~ lies with him] það er honum að kenna; [to find ~ with] finna að; [to lay the ~ on] kenna um; [at ~] villtur (um sporhund); ráðalaus; [to a ~] um of ([she was generous to a ~])
 faultful l. brotlegur, breyskur
@@ -205,7 +205,7 @@ fearfully ao. hræðilega
 fearless l. óttalaus, óhræddur
 fearlessness n. óttaleysi
 feasibility n. framkvæmileiki
-feasible l. gjörlegur; mögulegur, sennilegur
+feasible l. gerlegur, gjörlegur; mögulegur, sennilegur
 feast n. hátíð, veisla; s. halda veislu, éta krásir; veita (e-m) krásir; skemmta, gleðja
 feaster n. veislugestur
 feat n. verk, afrek, afreksverk; fimleikabragð; l. fimlegur
@@ -243,7 +243,7 @@ feebly ao. dauflega, linlega
 feed s. fæða; fóðra, gefa (skepnum); ala; mata (ungbarn); láta bíta upp; vera á beit; lifa (á [on]); n. skepnufóður; fæðsla; beit ([out at ~])
 feeder n. fóðrari; matmaður ([a great ~])
 feel s. finna; finna til, kenna (e-s); þreifa á; þreifa fyrir sér; þreifa; [I felt as if ...] mér fanst sem ...; [~ sure of] vera viss um; [I ~ cold] mér er kalt; [it ~s soft] það er mjúkt viðkomu; [~ after] leita að; [~ for] kenna í brjóst um; n. tilfinning; [of a greasy ~] fitugur átöku
-feeler n. fálmangi
+feeler n. fálmari, fálmangi
 feeling l. viðkvæmur; næmur; n. tilfinning
 fee-simple n. óháð eignarjörð
 feet nft. fætur; sjá %[foot]%
@@ -263,7 +263,7 @@ fell s. fella, höggva (tré í skógi); vega (mann); l. grimmur, ómannúðlegu
 fellmonger n. (sauð)skinnsali
 feller n. viðarhöggvari
 fellow n. félagi; kunningi; meðlimur; líki, jafnoki; [the poor ~] vesalings maðurinn; [a mean ~] óþokki; [these stockings are not ~s] þessir sokkar eiga ekki saman; [its ~] skórinn, vettlingurinn á móti
-fellow citizen n. samborgari
+fellow citizen n. samborgari, meðborgari
 fellow countryman n. samlandi
 fellow creature n. náungi
 fellow man n. náungi
@@ -404,7 +404,7 @@ fig n. fíkjutré; fíkja; [I don't care a ~ for it] ég hirði ekki hót um þa
 fight s. berjast; fljúgast á; berjast við; láta berjast; stjórna (liði, skipum) í bardaga; [~ one's way] berjast (brjótast) áfram; [~ shy of] forðast; n. bardagi; áflog
 fighter n. bardagamaður, baráttumaður, stríðsmaður ([long live the ~s!])
 figment n. samsetningur, tilbúningur, uppspuni
-figurative l. líkingarfullur, óeiginlegur
+figurative l. líkingarfullur, óeiginlegur, myndrænn
 figure n. mynd; lögun; vaxtarlag; tala; [he made/cut a ~] það kvað að honum; s. mynda; búa til mynd af (e-m); skreyta (vefnað) með myndum; ímynda sér ([~ to oneself]); sýna sig, vera, standa (sem e-ð [as]); láta bera á sér, láta til sín taka
 figurehead n. skipstrjóna
 filament n. taug (í holdi eða plöntum); þráður
@@ -424,7 +424,7 @@ fillet n. flak, fiskflak; lund, vöðvakjöt, kjötströngull; hárband, skarban
 fillibeg n. knépils (Háskota)
 fillip n. selbiti; s. gefa selbita
 fillister n. gróphefill
-filly n. ung hryssa; gáskafull stúlka
+filly n. ung hryssa, folald; gáskafull stúlka
 film n. þunn húð; hjóm, skæningur; filma; s. draga skán eða hulu yfir; filma; dofna (um augun)
 filmy l. himnumyndaður; smáger, þunnur og gisinn; dimmur, daufur ([~ eyes])
 filter n. sía; s. sía; síast
@@ -443,7 +443,7 @@ finance n. (oft ft. [~s]) fjárhagur, fjármál; ríkistekjur; fjármálageirinn
 financial l. fjárhagslegur, fjármála-, fjárhags- ([~ year])
 financially ao. fjárhagslega, í fjárhagslegu tilliti
 financier n. ríkisfjárstjóri; fjármálamaður; s. sjá e-m fyrir tekjum
-finch n. spörfuglstegund
+finch n. finka (spörfuglstegund)
 find s. finna; hitta; útvega ([~ money, bail, security]); kveða upp ([the jury found a verdict of guilty]); finnast, þykja ([I ~ something agreeable, excellent]); [~ one's account in] sjá sér hag við e-ð; [~ time] fá, hafa tíma (til e-s); [~ innocent, guilty] sýkna, dæma sekan; [~ ingress] komast inn; [he was found unqualified] hann reyndist óhæfur; [he pays him a dollar a day and ~s him] og fæði; [he ~s me in money and clothes] hann sér mér fyrir peningum og fötum; [I cannot ~ in my heart] ég get ekki fengið af mér; [~ out] komast að (e-u); ráða (gátu); uppgötva; [~ fault with] finna að; n. fundur
 findable l. finnanlegur
 finder n. finnandi
@@ -472,12 +472,12 @@ fir cone n. greniköngull
 fire n. eldur; eldsbruni, eldsvoði; bál, logi; skothríð; fjör, ákafi; [to set ~ to, set on ~] kveikja í; [to open ~] byrja að skjóta; [the curtain took ~] það kviknaði í gluggatjaldinu; s. leggja eld í, kveikja í; tendra, hleypa fjöri í; hleypa úr (byssu); skjóta; kvikna í; [~ up] rjúka upp (í reiði)
 fire alarm n. brunakall, brunabjalla
 firearms nft. skotvopn
-fireball n. vígahnöttur
+fireball n. eldhnöttur, vígahnöttur
 firebrand n. eldibrandur
 firebrick n. eldtraustur múrsteinn
 fire brigade n. slökkviliðssveit
 fire engine n. slökkvidæla, sprauta
-fire escape n. björgunarstigi
+fire escape n. brunastigi, björgunarstigi
 fireflaught n. elding, leiftur ([like a ~])
 fire irons nft. eldfæri (skörungur, tangir, skófla)
 fire ladder n. brunastigi
@@ -512,9 +512,9 @@ fishbone n. fiskbein
 fish breeding n. fiskaklak
 fish culture n. fiskaklak
 fisher n. fiskimaður
-fisherman n. fiskimaður
+fisherman n. fiskimaður, sjómaður
 fisherboat n. fiskibátur
-fishery n. fiskveiðar, aflabrögð
+fishery n. fiskveiðar, aflabrögð; útgerð
 fishful l. fisk-auðugur, fiskisæll
 fish glue n. sundmagalím
 fish-hook n. öngull
@@ -652,7 +652,7 @@ fleshless l. magur
 fleshly l. holdlegur
 fleshy l. kjötmikill; holdugur, feitur
 flexibility n. beygjanleiki; mjúkleiki
-flexible l. beygjanlegur; mjúkur ([~ voice]); of auðráður, eftirlátur
+flexible l. sveigjanlegur, beygjanlegur; mjúkur ([~ voice]); of auðráður, eftirlátur
 flexion n. beyging; bugða
 flexure n. beyging; bugða
 flexuous l. bugðóttur; sveigjanlegur
@@ -768,7 +768,7 @@ focus n. brennidepill
 fodder n. fóður; s. fóðra
 foe n. óvinur, fjandmaður
 foetus n. fóstur, burður; fang
-fog n. þoka; há; s. hylja þoku
+fog n. þoka, mistur; há; s. hylja þoku
 foggy l. þokufullur; þoku-
 fogey n. [an old ~] gamall sérvitringur
 fogy n. [an old ~] gamall sérvitringur
@@ -792,7 +792,7 @@ folklorist n. þjóðsagnafræðingur
 follow s. fylgja, fara (koma) á eftir; stunda (e-a) iðn ([~ the sea]); fylgjast með (e-u), skilja; leiða af; [~ in his footsteps] feta í fótspor hans; [~ up] fylgja, elta; fylgja e-u fast fram
 follower n. fylgdarmaður, fylgjari, fylgismaður
 following l. eftirfarandi, næstur ([on the ~ day]); hagstæður ([~ wind]); n. flokksmenn, fylgismenn, fylgi
-folly n. heimska; vitleysa
+folly n. heimska, fásinna, flónska; vitleysa
 foment s. lauga (upp úr heitu); auka; hvetja til
 fomentation n. heitur bakstur; uppörvun, upphvatning
 fomenter n. hvatamaður
@@ -822,7 +822,7 @@ footmark n. fótspor; (í ft. fótaför)
 footnote n. neðanmálsgrein, neðanmálsathugasemd
 footpace n. hægur gangur; pallur; [to ride at a ~] ríða fót fyrir fót
 footpad n. stigamaður
-footpath n. gangstígur
+footpath n. gangstígur, göngustígur
 footprint n. fótspor; (í ft. fótaför)
 footrace n. kapphlaup
 footsore l. sárfættur
@@ -897,7 +897,7 @@ foresee s. sjá fyrir
 foreshadow s. boða; n. fyrirboði
 foreshore n. fjara
 foreshow s. boða, fyrirboða
-foresight n. framsýni; forsjálni
+foresight n. framsýni; forsjálni, forsjá; fyrirhyggja
 foresighted l. forsjáll
 foresleeve n. framermi
 forest n. skógur, skóglendi
@@ -923,7 +923,7 @@ forger n. falsari
 forgery n. fölsun
 forget s. gleyma; [I ~] ég man ekki
 forgetful l. gleyminn, minnislaus; gleymsku-; [~ of] sem gleymir e-u; afskiptalaus um e-ð
-forgetfulness n. gleymska, minnisleysi; hirðuleysi
+forgetfulness n. gleymska, gleymni, óminni, minnisleysi; hirðuleysi
 forget-me-not n. gleymmérei (blóm)
 forgivable l. fyrirgefanlegur
 forgive s. fyrirgefa
@@ -935,10 +935,10 @@ forked l. klofinn
 forky l. klofinn
 forlorn l. yfirgefinn, einmana; aumkvunarlegur; aumlegur
 form n. mynd, lögun; mót; fyrirkomulag ([~ of government]); ytra snið, form ([in due or proper ~]); eyðublað ([a printed ~; to fill in a ~]); bekkur; bekkur (í skóla); leturformur; [it is bad ~ to] það þykir eiga illa við að; [~s of application] umsóknareyðublöð; s. mynda, laga; mennta ([~ the mind]); raða, skipa (í flokka, kerfi [into a system]); gera (samband, samsæri), stofna ([~ a settlement]); fylkja (liði); fylkja sér ([~ up]); myndast; [harbours have been ~ed] hafnir hafa verið gerðar
-formal l. reglulegur; ytri; viðhafnarlegur; einstrengingslegur; fullkominn, skýlaus
+formal l. formlegur; reglulegur; ytri; viðhafnarlegur; einstrengingslegur; fullkominn, skýlaus
 formalism n. formfesta; viðhafnarsiðir (við guðsþjónustu)
 formalist n. siðamaður
-formality n. ytra snið; viðhöfn; regla
+formality n. ytra snið; viðhöfn, formlegheit; regla; formsatriði
 formalize s. koma réttu sniði á e-ð; gera lagalegt (formlegt)
 formally ao. að forminu til, formlega
 formation n. myndun; lögun
@@ -1022,7 +1022,7 @@ fowl n. alifuglar, (einkum) hænsni; s. veiða fugla
 fowler n. fuglari
 fowling n. fuglaveiðar
 fowling-piece n. fuglabyssa
-fox n. tóa, refur; bragðarefur; [white (polar) ~] melrakki
+fox n. tófa, refur; bragðarefur; [white (polar) ~] melrakki
 fox brush n. tóuskott
 fox cub n. tóuyrðlingur
 foxearth n. tóugreni
@@ -1052,7 +1052,7 @@ franc n. franki (gjaldmiðill)
 franchise n. einkaréttur, einkaumboð; kosningarréttur ([elective ~]); undanþága; s. sjá %[enfranchise]%
 Franciscan n. grámunkur, fransiskani
 frangible l. auðbrotinn, brjótanlegur
-frank l. hreinskilinn, einarður; falslaus; s. senda (bréf) póstgjaldslaust; flytja e-n ókeypis; n. bréf sem eigi þarf að borga undir; [Frank] franki
+frank l. hreinskilinn, opinskár, einarður; falslaus; s. senda (bréf) póstgjaldslaust; flytja e-n ókeypis; n. bréf sem eigi þarf að borga undir; [Frank] franki
 frankly ao. hreinskilnislega
 frankness n. hreinlyndi, hreinskilni
 frankincense n. reykelsi
@@ -1106,7 +1106,7 @@ freedom n. frelsi; frjálsræði; réttindi; lausn, undanþága (undan e-u [~ fr
 freeze s. frjósa, kala, frysta; storkna; láta frjósa eða storkna; [she froze to death] hana kól í hel
 freight n. skipsleiga; farmur; flutningur; flutningskaup, farmgjald; s. hlaða (skip vörum); taka eða selja (skip) á leigu
 freightage n. farmur; flutningskaup
-freighter n. leigjandi hafskips; vöruflutningaskip
+freighter n. leigjandi hafskips; vöruflutningaskip, fraktskip
 French l. franskur; n. franska; [the ~] Frakkar
 Frenchman n. franskur maður
 frenchify s. sníða eftir Frökkum, gera franskt
@@ -1279,7 +1279,7 @@ functionary n. embættismaður, sýslunarmaður
 fund n. höfuðstóll, sjóður; ft. fé, peningar; ríkisskuldir, ríkisskuldabréf ([the public ~s]); forði; [to be in ~s] hafa peninga (fjárráð); s. ákveða vissar tekjur til greiðslu vaxta og afborgana af skuld(um); koma peningum í fasteignir eða ríkisskuldabréf
 fundament n. afturendi, sitjandi
 fundamental l. sem er grundvöllurinn undir e-u ([to]); grundvallar-; undirstöðu-; upprunalegur
-fundamentals nft. undirstöðuatriði ([the basic ~ of chemistry])
+fundamentals nft. undirstöðuatriði, frumatriði ([the basic ~ of chemistry])
 fundamentally ao. í grundvallaratriðum; upprunalega, frá upphafi; gjörsamlega
 funeral n. útför, jarðarför; greftrun; l. greftrunar-, útfarar-; [~ sermon] líkræða
 funereal l. útfarar- ([we marched at a ~ pace]); sorglegur; skuggalegur

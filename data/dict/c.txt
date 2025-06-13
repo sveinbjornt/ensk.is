@@ -1,5 +1,5 @@
 cab n. leigubíll, leiguvagn s. flytja (aka) í leigubíl, leiguvagni
-cabman n. vagnstjóri
+cabman n. vagnstjóri, ekill
 cabal n. leynisamtök, svikræði; s. beita brögðum, hafa leynisamtök
 caballer n. bragðarefur
 cabbage n. kál; kálhöfuð; afklippur; s. hnupla
@@ -186,7 +186,7 @@ capercailzie n. þiður (fuglsheiti)
 capillary l. hárfínn; n. hárpípa; háræð ([~ vessel])
 capital l. sem hefur dauðarefsingu í för með sér; höfuð- ([~ town]); aðal- ([~ manor]); mikilsvarðandi; ágætur; [~ sentence] líflátsdómur; [~ punishment] dauðahegning; n. upphafsstafur; höfuðstóll ([~ fund]); fé, fjármunir; auðvald; innstæða; höfuðborg; súluhöfuð
 capitalism n. auðvald; auðvaldsskipulag; auðvaldsstefna; kapítalismi
-capitalist n. peningamaður, auðmaður; auðvaldssinni
+capitalist n. peningamaður, auðmaður, auðkýfingur; kapítalisti, auðvaldssinni
 capitalize s. breyta í innistæðufé
 capitally ao. ágætlega ([do ~]); með lífláti ([punish ~])
 capitation n. manntal; nefskattur ([~ tax])
@@ -488,7 +488,7 @@ centesimal l. hundraðasti ([~ part])
 centigrade l. [~ thermometer] hundrað stiga hitamælir (selsíus)
 centigramme n. 1/100 úr grammi
 centimetre n. sentimetri (einn hundraðasti úr metra)
-centipede n. margfætla
+centipede n. hundraðfætla, margfætla
 central l. miðlægur, sem er í miðju, mið-; aðal-, höfuð-; [~ heating] miðstöðvarhitun
 centrality n. miðleiki; miðlægni
 centralization n. samdráttur á einn stað; miðstýring
@@ -615,7 +615,7 @@ charitableness n. góðgerðasemi
 charity n. kærleiki; ástúð; umburðarlyndi; góðgerðasemi; ölmusugjöf; gustur ([out of ~]); góðgerðarstofnun, líknarsamtök; [~ begins at home] hver er sjálfum sér næstur
 charity school n. fátækraskóli
 charivari n. garg
-charlatan n. skottulæknir; skrumari; svikari
+charlatan n. skottulæknir; loddari; skrumari; svikari
 charlatanism n. skottulækningar; svik
 charlatanry n. skottulækningar; svik
 Charles's Wain n. Karlsvagn (stjörnumerki)
@@ -886,7 +886,7 @@ circumfluent l. umrennandi, umlykjandi
 circumfuse s. hella yfir; umlykja
 circumfusion n. yfirhelling
 circumjacent l. sem liggur umhverfis ([regions ~ to the North Pole])
-circumlocution n. notkun margra orða í stað eins; málalengjur
+circumlocution n. notkun margra orða í stað eins; málalengjur, málalengingar
 circumlocutory l. sagður með mörgum orðum
 circumnavigate s. sigla í kringum ([~ the globe])
 circumnavigation n. sigling í kringum
@@ -1013,7 +1013,7 @@ clericalism n. klerkaveldi, klerkafylgi
 clericalist n. klerkavinur, klerkasinni
 clerk n. skrifari, bókhaldari; djákni; [~ in holy orders] klerkur (djákni, prestur, biskup)
 clever l. fimur, liðugur; duglegur, gáfaður; kunnáttulegur
-cleverness n. fimleiki; gáfur; kunnátta
+cleverness n. fimleiki; gáfur, kænska; kunnátta
 clew n. hnykill; leiðarvísir, lykill (að e-u, [this affords a ~ to the whole]); skaut á segli; sbr. %[clue]%
 click n. tif (í úri); smellur; skellur; s. tifa (um úr); smella; skella, slá ([they ~ed their glasses together])
 client n. skjólstæðingur; viðskiptavinur
@@ -1105,7 +1105,7 @@ clumpish l. þunglamalegur
 clumsiness n. klunnaskapur
 clumsy l. þunglamalegur, luralegur, klunnalegur
 cluster n. klasi; þyrping; hnappur; s. þyrpast; safnast í hnapp
-clutch s. grípa, þrífa, hremma; halda fast utan um; n. grip, tak; ft. klær, greipar ([fall into one's ~es])
+clutch s. grípa, þrífa, hremma; halda fast utan um; n. grip, tak; kúpling; ft. klær, greipar ([fall into one's ~es])
 clutter s. gera hávaða, þysja; hrúga e-u saman ([together]); n. hávaði, skarkali
 coach n. ferðavagn, farþegavagn; vagn á járnbraut; kennari, sem undirbýr undir próf; s. ferðast með póstvagni; undirbúa undir próf
 coach-box n. vagnstjórasæti
@@ -1611,7 +1611,7 @@ concerning fs. um, að því er snertir
 concernment n. málefni; íhlutun, afskipti ([in/with something]); áhyggja, hluttekning; [a matter of public ~] sem varðar almenning; [of great ~] mikilsvarðandi
 concert n. tónleikar; hljómleikur; samkomulag; söngskemmtun; samsöngur; [in ~] samtaka; s. koma sér saman um (fyrirfram); hugsa upp
 concerted l. gerður eftir samanteknu ráði
-concertina n. harmonikka, dragspil
+concertina n. harmonikka, harmóníka, dragspil
 concession n. eftirgjöf, tilslökun; viðurkenning; úthlutun, veiting ([~ of land]); (einka)leyfi; sjá %[concede]%
 concessionaire n. leyfishafi
 concessive l. sem lýtur að [concession]; [~ conjunction] viðurkenningartenging
@@ -1787,7 +1787,7 @@ conjoint l. sameinaður, sameiginlegur
 conjointly l. sameiginlega, í sameiningu
 conjugal l. hjúskaparlegur, hjúskapar- ([~ life])
 conjugation n. sagnbeyging ([verbs of the strong ~])
-conjunction n. samsetning
+conjunction n. samsetning; samtenging
 conjunctive l. samtengjanlegur; [~ mood] viðtengingarháttur
 conjuncture n. samrás viðburða, atvik, ástand ([~ of affairs])
 conjuration n. særing
@@ -1820,7 +1820,7 @@ conscious l. meðvitaður; gæddur meðvitund; (sér) meðvitandi; þóttafullur
 consciousness n. meðvitund; [recover, regain ~] rakna við aftur
 conscribe s. bjóða út (liði), skrá (til herþjónustu)
 conscript l. skráður til herþjónustu; n. óbreyttur borgari skráður til herþjónustu; s. skrá (liðsmenn)
-conscription n. skráning (til herþjónustu), útboð
+conscription n. herkvaðning, skráning (til herþjónustu); herskylda; útboð
 consecrate s. helga; vígja ([~ a church, churchyard, bishop])
 consecration n. helgun; vígsla
 consecratory l. vígslu-
@@ -2420,7 +2420,7 @@ crayon n. teiknikrít
 crayfish n. vatnakrabbi, fljótakrabbi
 craze s. brjála, æra; brjálast, ærast; n. æði, brjálun; æðisleg löngun
 crazed l. brjálaður
-crazy l. vitskertur, brjálaður, geðbilaður; hrörlegur ([a ~ house, ship])
+crazy l. vitskertur, brjálaður, geggjaður, geðbilaður; hrörlegur ([a ~ house, ship])
 creak s. braka, marra, hrikta í; n. brak, marr, hrikt
 cream n. rjómi; úrval; [~ of tartar] hreinsaður vínsteinn; s. veiða rjómann ofan af; láta rjóma í (kaffi, te); velja úr; [the milk ~s] rjómi sest ofan á mjólkina
 creamer n. rjómafleytir
@@ -2593,7 +2593,7 @@ cuckoo n. gaukur
 cucumber n. agúrka (jurt og ávöxtur)
 cud n. jórtur ([to chew the ~])
 cuddle s. umfaðma; liggja þétt saman (til að verma sig); [~ up to] hjúfra sig upp að e-u
-cudgel n. barefli, lurkur; [to take up the ~s for one] taka málstað e-s; s. lemja (með lurk)
+cudgel n. barefli, kylfa, lurkur; [to take up the ~s for one] taka málstað e-s; s. lemja (með lurk)
 cue n. ávísunarorð (í sjónleik); vísbending; skap; hnattstöng (til að ýta á kúlur með á hnattborði)
 cuff n. högg, snoppungur; uppslag (á ermi); líning (á skyrtuermi); línsmokkur, ermalín; s. slá (með hnefa eða flatri hendi), snoppunga; berjast
 cuirass n. bolhlíf, brynja

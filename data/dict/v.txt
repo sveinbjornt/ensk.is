@@ -13,7 +13,7 @@ vacuity n. auðn, tómleiki; sljóleiki ([~ of mind])
 vacuous l. tómur, tómlegur; iðjuleysis- ([~ life])
 vacuum n. autt (lofttómt) rúm, lofttæmi, lofttóm; s. ryksuga (sjá %[vacuum cleaner]%)
 vade-mecum n. vasakver, vasabók
-vagabond l. reikandi; n. flakkari, förumaður
+vagabond l. reikandi; n. flakkari, förumaður, flækingur
 vagabondage n. flakk
 vagabondize s. flakka
 vagarious l. fullur af firrum; reikandi
@@ -44,7 +44,7 @@ valid l. gildur
 validate l. staðfesta
 validation n. löggilding
 validity n. gildi
-valise n. (leður)taska
+valise n. (leður)taska, ferðataska
 valley n. dalur
 valorous l. hughraustur, vasklegur, hugrakkur, frækinn
 valour n. hughreysti, hugrekki, frækni
@@ -54,11 +54,11 @@ valuation n. virðing, mat; verðlag
 valuator n. matsmaður
 value n. gildi; verð; verðmæti; andvirði; [of great (little, no) ~] mikils (lítils, einskis) virði; [set much ~ on (upon)] meta mikils; s. meta ([~d it at four pounds]); virða mikils
 valueless l. einskisverður
-valve n. vænghurð; spjald; vindspeldi; loki (í vél)
+valve n. vænghurð; spjald; vindspeldi; loki (í vél), ventill
 vamp n. yfirleður (á skó); s. setja nýtt yfirleður á, bæta; [~ up] dubba upp
 vampire n. vampíra, blóðsuga; [~ bat] leðurblökutegund
 van n. vagn, farangursvagn, flutningavagn (stytt. á [caravan]); framlið, forvarðalið (sjá %[vanguard]%)
-vandalism n. skemmdir og eyðing (listaverka og bóka að sið Vandala)
+vandalism n. skemmdir og eyðing (listaverka og bóka að sið Vandala); skemmdarverk
 vane n. veðurviti; þanir á fjöður, mylnuvængur
 vanguard n. framvarðarsveit, forvarðalið, fylkingarbroddur
 vanish s. hverfa
@@ -81,7 +81,7 @@ variation n. breyting; mismunur; misvísun (kompásnálarinnar)
 varicose l. þrútinn (um æðar)
 varied l. margvíslegur
 variegate s. gera tilbreytingu á; gera mislitt
-variegated l. mislitur, marglitur
+variegated l. mislitur, marglitur; fjölbreytilegur
 variegation n. litablöndun; margvíslegir litir
 variety n. margbreytni; fjölbreytni; tilbreyting; margvísleiki; úrval; tegund (dýra eða jurta)
 variola n. bóla, bólusótt
@@ -109,9 +109,9 @@ veal n. kálfskjöt
 vedette n. ríðandi varðmaður
 veer s. snúa sér, snúast ([the wind ~ed to the eastward]); venda, snúa (skipi); venda, snúa sér (um skip); gefa (láta) út kaðal
 vegetable l. sem lýtur að jurtum eða jurtagróða; [~ mould] gróðurmold; n. matjurt, fóðurjurt; ft. matjurtir, grænmeti, kálmeti
-vegetarian n. grænmetisæta, maður eða dýr sem lifir á plöntufæði
+vegetarian n. grænmetisæta, jurtaæta, maður eða dýr sem lifir á plöntufæði
 vegetate s. vaxa (eins og planta); tóra, hjara
-vegetation n. jurtagróður
+vegetation n. jurtagróður; gróðurfar
 vegetative l. vaxandi; gróðuraukandi; vaxtar- ([~ power])
 vehemence n. ákafi, ofsi
 vehement l. ákafur, ofsafenginn, ofsalegur ([~ wind, ~ fire])
@@ -183,7 +183,7 @@ verbatim ao. orðrétt, með sömu orðum ([to tell a story ~]); l. orðréttur
 verberate s. berja; lemja
 verberation n. barsmið
 verbiage n. orðagjálfur, málalengingar; orðalag
-verbose l. fjölorður
+verbose l. fjölorður, orðmargur
 verbosity n. orðgnótt; mælgi
 verdancy n. grænka
 verdant l. grænn ([~ fields, lawns]); fákunnandi, grunnhygginn
@@ -259,7 +259,7 @@ veterinary l. dýralæknislegur; [~ surgeon] dýralæknir; [~ school] dýralækn
 veto n. neitunarvald ([suspensory ~]), bann; s. banna
 vex s. áreita, erta, móðga
 vexed l. gramur, reiður; vafasamur; [a ~ question] ágreiningsatriði
-vexation n. ertni, áreitni; gremja
+vexation n. ertni, áreitni; gremja, skapraun
 vexatious l. áreitinn, meinlegur; örðugur, þungbær ([a ~ occurrence])
 viaduct n. dalbrú (sem vegur er lagður yfir)
 vial n. lítil flaska, glas
@@ -347,7 +347,7 @@ violescent l. fjóluleitur
 violet n. fjóla; l. fjólublár
 violin n. fiðla, gígja
 violinist n. fiðluleikari
-violoncello n. selló
+violoncello n. knéfiðla
 viper n. naðra, höggormur
 viperous l. eitraður; nöðrukenndur
 virago n. kvenskörungur; kvenvargur
@@ -479,7 +479,7 @@ voucher n. ábyrgðarmaður; skírteini; sönnunarskjal, fylgiskjal; úttektarmi
 vouchsafe s. láta svo lítið að veita e-m e-ð; virða e-n e-s ([he ~d me no answer]); tryggja e-m e-ð ([he was ~d a fair profit])
 vow n. heit, loforð; [to make (take) a ~] vinna heit; [monastical ~] munkaheit; s. heita; fullyrða
 vowel n. sérhljóði; raddstafur, hljóðstafur; raddhljóð ([~ sound])
-voyage n. ferð (á sjó); s. ferðast (á sjó), sigla (yfir)
+voyage n. ferðalag, ferð (á sjó); s. ferðast (á sjó), sigla (yfir)
 voyager n. sjóferðamaður
 vulgar l. algengur; almúga- ([~ tongue]); dónalegur, grófur ([~ expressions, language]); [the ~] almúginn, alþýðan
 vulgarism n. almúgalegt (eða dónalegt) orðatiltæki

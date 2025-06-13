@@ -12,10 +12,10 @@ gadabout n. landeyða, slæpingur
 gadder n. landeyða, slæpingur
 gadding n. slangur
 gadfly n. broddfluga, gaddafluga
-gadwall n. litla gráönd ([anas strepera])
+gadwall n. litla gráönd, gargönd ([anas strepera])
 Gael n. írskur eða skoskur Kelti, Háskoti
 Gaeldom n. Háskotaland
-Gaelic l. keltneskur, háskoskur; n. háskoska, keltneska
+Gaelic l. keltneskur, háskoskur; n. háskoska; keltneska; írska
 gaff n. greypirá, seglás; ífæra; s. krækja (fisk)
 gaffer n. karltetur; kunningi; verkstjóri, formaður
 gag s. kefla; troða upp í e-n; gabba; n. munnkefli, ginkefli
@@ -112,14 +112,14 @@ gardening n. garðyrkja, garðrækt
 garden stuff n. garðávextir, garðjurtir
 gare-fowl n. geirfugl
 garfish n. geirnefur, geirsíli
-garganey n. urtönd
+garganey n. taumönd
 gargarism n. kokvatn, kverkavatn
 gargarize s. skola innan kverkarnar
 gargle s. skola innan kverkarnar (munninn); n. kverkavatn
 garish l. gljáandi, skínandi, bjartur; íburðarmikill
 garland n. blómhringur
 garlic n. hvítlaukur, geirlaukur
-garment n. föt, fatnaður
+garment n. föt, fatnaður, flík
 garner n. kornbúr, korngeymsluhús; s. flytja (korn) inn í kornbúr; safna
 garnet n. granat (gimsteinn)
 garnish s. prýða, skreyta; brydda (fat); n. skraut
@@ -164,7 +164,7 @@ gauge s. mæla hol á íláti (tunnu, keri o.s.frv.); n. holmál; sporvídd (á 
 gauger n. mælingamaður
 Gaul n. gallverskur maður; Gallía
 gauntlet n. brynglófi, brynhanski ([to cast, throw the ~])
-gauze n. þunnur og gagnsær vefnaður, e.k. híalín
+gauze n. grisja; þunnur og gagnsær vefnaður, e.k. híalín
 gauzy l. þunnur og gagnsær
 gawk n. gaukur; klunni, lubbi
 gawky l. klunnalegur, lubbalegur
@@ -176,12 +176,12 @@ gazelle n. gasella (antilóputegund)
 gazette n. auglýsingablað; lögbirtingablað; s. auglýsa (embættaveitingar o.þ.h.)
 gazetteer n. fréttaritari; landfræðisleg orðabók
 gear n. gír; verkfæri, áhöld; akreiði; reiðver, reiðtygi ([riding ~]); búningur, föt; gangskiptir (í vél); [out of ~] í ólagi; s. klæða; láta akreiða á ([~ up]); falla í (um tennur í tveimur hjólum); agnúast ([~ into each other])
-gelatine n. gel, hlaup
+gelatine n. gel, hlaup; matarlím
 gelatinous l. hlaupkenndur ([the ~ part of the blood])
 gelatinate s. gera að hlaupi, láta storkna
 geld s. gelda, vana (hest)
 gelder n. geldingamaður ([horse ~])
-gelding n. vanaður hestur
+gelding n. vanaður hestur, geldingur
 gelid l. ískaldur
 gem n. gimsteinn; s. setja (e-ð) gimsteinum
 gemini nft. Tvíburarnir (stjörnumerki)
@@ -216,7 +216,7 @@ genialness n. ljúfmennska
 genital l. æxlunar-, kynfæra-, æxlunarfæra-
 genitive n. eignarfall (í málfræði, [~ case])
 genitor n. faðir
-genius n. snillingur, hugvitsmaður; gáfur, hugvit
+genius n. snillingur, hugvitsmaður; gáfur, hugvit, snilld, snilligáfa
 gent n. stytt úr [gentleman]
 genteel l. prúðmannlegur; kurteislegur; kurteis; skrautlegur
 gentian n. maríuvöndur
@@ -492,7 +492,7 @@ gonfanon n. fáni, merki, gunnfáni
 gong n. borðklukka ([dinner-~])
 good l. góður (við e-n [to, towards]); góður og gildur ([a ~ excuse]); (um lyf) góður við e-u ([~ for wounds]); [to be ~ enough to, so ~ as to] vera svo vænn að, gera svo vel að (og); uh. gott! rétt! [~ six hours] rúmar (fullar) sex stundir; [for ~] fyrir fullt og allt; [~ for nothing] til einskis nýtur; [~ at] leikinn (fimur) í; [in ~] af alhuga, með kappi; [in ~ time] í tæka tíð; [he is as ~ as his word] hann efnir það sem hann lofar, hann er áreiðanlegur; [to make ~] bæta upp ([to make ~ a deficiency]); færa sönnur á; efna, standa vi e-ð ([one's promise]); koma (e-u) fram; [he made ~ his passage] hann ruddi sér braut; [to last ~] haldast óskemmdur; [as ~ as] sama sem ([to make no visits, or as ~ as none]); [to come to ~] verða til góðs, leiða gott af sér; n. hagur ([for the ~ of mankind]); gæði ([the highest ~]); [it is no ~] það er gagnslaust, til einskis; nft. [~s] vörur; eigur
 good breeding n. kurteisi
-goodbye uh. vertu sæll, verið þér sælir! ([to bid, say ~ to]); n. kveðja
+goodbye uh. vertu sæll!; n. kveðja ([we said our ~s])
 good-for-nothing l. til einskis hæfur (nýtur); n. ónytjungur
 good-humoured l. góðlyndur; glaðlyndur
 goodish l. dágóður; riflegur ([a ~ sum of money])

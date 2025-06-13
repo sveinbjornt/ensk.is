@@ -186,7 +186,7 @@ ravelling n. úrrak
 raven n. hrafn; s. ræna, leita að herfangi
 ravenous l. rángjarn; gráðugur (í e-ð [of])
 ravenousness n. græðgi
-ravine n. gil; s. grafa niður gil
+ravine n. gil, gjá; s. grafa niður gil
 ravish s. ræna; nauðga; nema burtu með valdi; gagntaka, hrífa
 ravisher n. ræningi, ránsmaður; nauðgari
 ravishment n. burtnám; hrifning; nauðgun
@@ -266,7 +266,7 @@ reassert s. staðhæfa aftur
 reassume s. taka upp aftur; taka aftur að sér
 reassumption n. endurtaka
 reassurance n. endurtrygging; ný fullvissan
-reassure s. endurtryggja; fullvissa aftur ([~ oneself of])
+reassure s. endurtryggja; fullvissa aftur ([~ oneself of]); hughreysta
 reave s. ræna, svipta; kljúfa ([the rock was reft asunder])
 rebaptize s. skíra upp aftur; gefa e-m nýtt nafn
 rebate s. sljóvga; minnka; slá af verði; draga úr e-u; grópa; n. afsláttur
@@ -539,7 +539,7 @@ reformer n. umbótamaður; umbætandi; siðbótarmaður
 reformist n. stjórnbótarvinur; endurbótamaður
 refound s. steypa upp aftur; stofna af nýju
 refract s. brjóta (geisla)
-refraction n. geislabrot
+refraction n. geislabrot, ljósbrot
 refractive l. geislabrjótandi, geislabrots- ([~ power])
 refractor n. stjörnukíkir
 refractory l. þrjóskur, þrár; erfiður viðfangs; torbræddur (um málma)
@@ -552,7 +552,7 @@ refrigerant l. kælandi; n. kælingarmeðal
 refrigerate s. kæla, svala
 refrigeration n. kæling
 refrigerative l. kælandi
-refrigerator n. kælir, kæliskápur, kælingarílát
+refrigerator n. kælir, kæliskápur, ísskápur, kælingarílát
 refrigeratory l. kælandi; n. kælingarklefi eða ílát
 reft l. sviptur, rændur (e-u [of])
 refuge n. hæli ([seek ~]); skýli; athvarf ([he is the ~ of the distressed]); úrræði, útvegur; [take ~ at] leita hælis á eða í e-m stað; s. leita hælis; veita e-m hæli
@@ -681,7 +681,7 @@ relict n. eftirlifandi ekkja
 relief n. huggun, léttir, linun, fróun ([the medicine brought ~]); hjálp ([come to his ~]); aðstoð; fátækrastyrkur ([parochial ~]); liðveisla; aflausn (af verði); tilbreyting ([a blank wall without ~]); upphleypt mynd; [by way of ~] til tilbreytingar; [in full ~] mjög skýrt ([stand out in full ~]); [low ~] lágmynd; [high ~] hámynd
 relieve s. lina, draga úr; létta ([~ the pressure of taxes]); bæta úr; hjálpa, veita lið ([~ a city]); leysa af verði ([~ guard]); [~ nature] hægja sér til baks eða kviðar, létta á sér; [~ one of] losa (e-n) við
 relievo n. upphleypt mynd; [in ~] upphleyptur
-religion n. trúarbrögð, trú
+religion n. trúarbrögð, trú, átrúnaður
 religionist n. trúmaður; oftrúarmaður
 religiosity n. trúrækni
 religious l. guðrækinn, trúrækinn; guðrækilegur; samviskusamur; [~ house] klaustur; [~ life] munklífi
@@ -816,7 +816,7 @@ repent s. iðrast (einnig [~ of]); [it ~s me that I did it] mig iðrar þess að
 repentance n. iðrun
 repentant l. iðrunarfullur; [~ tears] iðrunartár; n. iðrandi syndari
 repeople s. byggja aftur (mönnum, [~ a country])
-repercussion n. afturkast (hljóðs eða ljósgeisla)
+repercussion n. bakslag; afturkast (hljóðs eða ljósgeisla)
 repercussive l. endurómandi, með eftirköst
 repertoire n. leikritaskrá e-s, söngritaskrá e-s
 repertory n. safn (af alls konar fróðleik), safnrit
@@ -992,7 +992,7 @@ rest n. hvíld ([take a short ~]); ró ([be at ~]); friður, svefn ([go retire, 
 restful l. friðsamlegur, rólegur
 resting place n. hvíldarstaður
 rest n. afgangur, leifar, eftirstöðvar; [the ~] hinir; s. hvíla sig; halda áfram að vera; [~ content] vera ánægður
-restaurant n. veitingastaður; matsöluhús
+restaurant n. veitingastaður, veitingahús, matsölustaður, matsöluhús
 restitute s. skila aftur, bæta upp
 restitution n. endurheimt, afturskilun; bætur; [make ~ of] skila (e-u) aftur; bæta e-ð upp
 restive l. staður (um hest); þrár, þrályndur
@@ -1021,7 +1021,7 @@ resurrection n. upprisa (frá dauðum)
 resurrectionize s. vekja upp, leiða í ljós aftur
 resurvey s. skoða aftur; mæla upp aftur
 resuscitate s. endurlífga, lífga; lifna aftur
-resuscitation n. (endur)lífgun
+resuscitation n. endurlífgun
 resuscitative l. endurlífgandi
 resuscitator n. endurlífgari
 retail s. selja (seljast) í smásölu; [~ slander] bera (breiða) út róg; n. smásala; [at/by ~] í smásölu; [~ trade] smásöluverslun; ao. [by ~]
@@ -1091,7 +1091,7 @@ retroverted l. aftursnúinn, viðsnúinn
 return s. snúa aftur, koma aftur; skila (senda, borga) aftur; svara; gegna, svara í sama lit (í spilum); launa, endurgjalda; skýra frá; senda (kjósa) á þing ([be ~ed M.P.] vera kosinn þingmaður); [~ thanks] þakka; [~ a bill] neita að borga víxil, afsegja víxli; [~ evil for evil] gjalda illt með illu; [~ like for like] gjalda líku líkt; [~ the books to their places] leggja (láta) bækurnar aftur á sinn stað
 return n. afturkoma; heimför, heimkoma; endursending, endurborgun ([~ of a book, of a loan]); endurgjald; peningasending; svar; skýrsla; þingkosning; árstíðaskipti ([~ of the seasons]); ft. hagnaður, ábati; e.k. létt reyktóbak; [~ of population] manntalsskýrsla; [small profits & quick ~s] lítill ábati, skjót skil; [in ~] til endurgjalds; aftur á móti; [in ~ for] í staðinn fyrir; [by ~ of post] með sömu póstferð aftur; [~ ticket] farmiði (farseðill) fram og aftur (báðar leiðir)
 returning officer n. kjörstjóri
-reunion n. sameining; samkoma, samsæti
+reunion n. endurfundur; sameining; samkoma, samsæti
 reunite s. sameina (sætta) aftur; sameinast (sættast) aftur
 revaccinate s. bólusetja aftur
 revaccination n. endurbólusetning
@@ -1153,13 +1153,13 @@ revolt n. uppreisn; s. ganga undan hlýðni ([from]); gera uppreisn; reka á fl�
 revolter n. uppreisnarmaður
 revolting l. uppreisnarsamur; uppreisnar-; viðbjóðslegur, ógeðslegur
 revolution n. snúningur; umrás, umferð; bylting; stjórnarbylting
-revolutionary l. stjórnarbyltingar- ([~ war]); byltingagjarn; n. byltingamaður
+revolutionary l. stjórnarbyltingar- ([~ war]); byltingagjarn; n. byltingarmaður, byltingarsinni
 revolutionism n. byltingastefna
 revolutionist n. stjórnbyltingarmaður, uppreisnarmaður
 revolutionize s. umbylta algjörlega; gera stjórnarbyltingu í ([~ a country])
 revolve n. snúningur; s. snúa (e-u) í hring; hugsa um, búa yfir, velta e-u fyrir sér ([~ in one's mind]); snúast í hring ([the earth ~s both round or about the sun and on its axis])
 revolver n. marghleypa
-revulsion n. snögg breyting, skjót umskipti ([~ of feeling, of mind]); snöggur afturkippur
+revulsion n. andstyggð; snögg breyting, skjót umskipti ([~ of feeling, of mind]); snöggur afturkippur
 reward n. laun, umbun, verðlaun, endurgjald; s. launa, umbuna, endurgjalda
 rewarder n. launari
 rhapsodical l. íburðarmikill, málskrúðsmikill
@@ -1487,8 +1487,8 @@ rueful l. sorglegur, raunalegur; hryggur
 ruefulness n. hryggð
 rufescent l. rauðleitur
 ruff n. fellingakragi (sem fyrrum tíðkaðist)
-ruffian n. fantur, þrælmenni; l. fantalegur
-ruffianism n. fantaskapur, þrælmennska
+ruffian n. fantur, dólgur, hrotti; l. fantalegur
+ruffianism n. fantaskapur, dólgsháttur, hrottaskapur
 ruffle s. gera fellingar á; ýfa, gára; rugla, trufla; flögra; n. rykking; felling; kögur; geðshræring; hægur trumbusláttur
 rug n. ullarábreiða, brekán
 rugged l. ójafn, hrufóttur; ógreiðfær; kvistóttur; stríðhærður; óþýður (í viðmóti); harður, strangur; óvandaður, óbrotinn

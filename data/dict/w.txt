@@ -132,7 +132,7 @@ wastefulness n. eyðslusemi, sóun
 watch n. vörður ([keep ~, on the ~]); varðstöð; varðmaður; vaka; varðtími; gætur; úr; s. fylgjast með; vaka; vera á verði, halda vörð; hafa gætur á e-u, gæta (e-s); horfa á; sitja um (einnig [~ for]); [~ one's time] sitja um færi; [~ over] vaka yfir
 watchchain n. úrfesti
 watchdog n. varðhundur
-watcher n. vökumaður, vökukona; gæslumaður
+watcher n. vökumaður, vökukona; gæslumaður, eftirlitsmaður
 watchfire n. varðeldur
 watchful l. aðgætinn; árvakur; var um sig ([~ against temptation]); [~ nights] vökunætur; [~ of his conduct] gætinn í framferði sínu
 watchglass n. úrglas; stundaglas
@@ -286,7 +286,7 @@ wold n. gul litunarjurt
 weld s. sjóða (hnita) saman (járn); n. gul litunarjurt
 welding n. samsuða, rafsuða, logsuða, málmsuða
 welfare n. velferð, hamingja, heill ([the ~ of nations])
-welkin n. himinhvelfing, himinn (í skáldskap)
+welkin n. himinhvelfing, himinhvolf, himinn (í skáldskap)
 well n. lind, uppspretta; brunnur; ft. heilsubrunnur; s. spretta upp, renna, vella
 well-room n. brunnsalur; austurrúm
 well-sinker n. brunngrafari
@@ -465,7 +465,7 @@ who fn. hver; sem, er
 whoever fn. hver sem
 whole l. heill; allur; óskaddaður; [get off with a ~ skin] komast af klaklaust; [the ~ truth] allur sannleikurinn; n. heild; [on the ~] á heildina litið, að öllu samtöldu
 whole-coloured l. einlitur
-wholehearted l. gerður af heilum hug; einlægur
+wholehearted l. gerður af heilum hug; einlægur, innilegur
 wholehoofed l. einhæfður
 whole-length n. mynd í fullri stærð
 wholesale n. stórkaupasala; [by (the) ~] í stórkaupum
@@ -487,7 +487,7 @@ whosoever fn. hver sem
 why ao. hví, hvers vegna, af hverju ([~ did you come?]); [that is ~ he hates me] það er orsök þess að hann hatar mig; uh. nú!; hvað!
 wick n. kveikur; rak í kerti
 wicked l. vondur, illur; óguðlegur; uh. geggjað! (óforml.)
-wickedness n. vonska, illska
+wickedness n. vonska, illska, mannvonska
 wicker n. tág; l. fléttaður úr tágum
 wicker basket n. karfa úr tágum
 wicket n. lítið hlið, lítil hurð; lúkugat (í hurð); þrír stafir eða standar í krikket
@@ -521,7 +521,7 @@ wild goose n. grágæs; [~ chase] árangurslaus fyrirhöfn
 wilding n. villitré; skógarepli
 wildness n. villiástand, villidómur; óráð
 wilder s. villa, láta villast
-wilderness n. eyðimörk; auðn, óbyggð
+wilderness n. eyðimörk, öræfi; auðn, óbyggð
 wile n. bragð; slægð; s. ginna; [~ away] eyða (tímanum)
 wilful l. einþykkur, þrár; gerður af ásettu (með fyrirhuguðu) ráði ([~ murder])
 wilfulness n. þrái, þrjóska
@@ -605,7 +605,7 @@ wire-pulling n. undirróður
 wireworm n. harður kornmaðkur
 wiriness n. seigja, seigla
 wiry l. svipaður vír; vír-; seigur, sinasterkur
-wisdom n. viska, speki; hyggindi
+wisdom n. viska, speki, vísdómur; hyggindi
 wisdom tooth n. vísdómstönn, endajaxl, geirjaxl
 wise l. vitur, hygginn; hyggilegur, viturlegur; [be none the ~r] vera engu nær; n. háttur; [in any ~] á nokkurn hátt; [in no ~] á engan hátt; [in this ~] þannig
 wiseacre n. maður sem þykist vera spekingur
@@ -667,7 +667,7 @@ womanhood n. kvenlegt eðli; gjafvaxta aldur; [reach ~] verða gjafvaxta
 womanish l. kvenlegur, kvenmannlegur, kvenna-
 womankind n. kvenþjóð, kvenfólk
 womanly l. kvenlegur
-womb n. (móður)kviður; leg
+womb n. (móður)kviður; leg, móðurlíf
 wonder n. undrun ([looked at him in silent ~]); undur, furða, furðuverk ([seven ~s of the world]); [(it is) no ~ that] það er engin furða að; s. undrast, furða sig (á [at]); langa til að vita ([whether, when, what]); [I ~ he did not kill you] ég er hissa (furða mig á því), að hann skyldi ekki gera út af við þig; [I ~ whether she will come] mér þætti gaman að vita, hvort hún kemur
 wonderful l. undursamlegur, undrunarverður, dásamlegur, yndislegur
 wonderfully ao. undursamlega, yndislega, dásamlega ([~ kind])
@@ -685,7 +685,7 @@ wood carver n. tréskeri
 wood carving n. tréskurður
 woodcock n. skógarsnípa (fugl)
 woodcut n. trémynd; tréskorin mynd
-woodcutter n. viðarhöggvari; trémyndaskeri
+woodcutter n. skógarhöggsmaður, viðarhöggvari; trémyndaskeri
 wooded l. skógivaxinn
 wooden l. úr tré; tré-
 wood engraver n. tréskurðarmaður
@@ -694,8 +694,8 @@ woodenheaded l. heimskur
 wood fretter n. trémaðkur
 woodland n. skóglendi; l. skóglendur, skógar-
 woodless n. skóglaus
-woodman n. skógarvörður; skógarhöggvari
-woodsman n. skógarvörður; skógarhöggvari
+woodman n. skógarvörður; skógarhöggvari, skógarhöggsmaður
+woodsman n. skógarvörður; skógarhöggvari, skógarhöggsmaður
 woodreeve n. skógarvörður
 wood thrush n. skógarþröstur
 woody l. skógi vaxinn, skóglendur; viðarkenndur
@@ -715,7 +715,7 @@ wordiness n. mælgi, orðagnótt
 wording n. orðun, orðalag, still
 word-painting n. nákvæm lýsing
 word-picture n. nákvæm lýsing
-wordy l. fjölorður; málugur
+wordy l. fjölorður, orðmargur; málugur
 work n. verk; vinna; smíði; starf; ritverk ([the ~s of Cicero]); orka ([convert heat into ~]); [he never does a stroke of ~] aldrei neitt handartak; [bring your ~ downstairs] farðu ofan með vinnuna þina; [~ of art] listaverk; [make short ~ of it] vera ekki að tvínóna við það; [out of ~] (at)vinnulaus; [many hands make light ~] margar hendur vinna létt verk; [mighty ~s] máttarverk; [be at ~] vera að vinna; [set to ~] byrja að vinna; ft. virki, víggirðingar; [defensive ~s] varnarvirki; [the ~s of a watch] verkið í úri; [the owner of (an) iron~s] eigandi járnverksmiðju; s. vinna; hafa áhrif (á [on, upon]); ólga (um vin); láta vinna; vinna (að e-u); hleypa ólgu í; búa til; höggva til; koma til leiðar, valda; knýja áfram; reikna ([~ a sum]); sauma í; setja í hreyfingu; [~ a metal] smíða úr málmi; [~ harm] gera skaða; [~ a mine] vinna námu; [~ one's way] ryðja sér braut; koma sér fram; [~ one's passage] vinna af sér fargjaldið; [she is ~ing at embroidery] vinnur að útsaumi; [~ away] halda áfram að vinna (af kappi); [~ off one's bad temper] losna við geðvonsku sina; [~ oneself into a passion] verða (gerast) reiður; [~ oneself into confidence] vinna sér traust; [~ out] vinna af sér (skuld); leysa úr, reikna ([~ out a problem]); koma (e-u) fram ([~ out revenge]); [~ out a mineral vein] tæma, vinna upp málmæð; [~ up] æsa upp; eyða; [~ up a reputation] vinna sér álit
 workable l. sem má (eða vert er að) vinna; vinnanlegur; framkvæmanlegur; vinnufær; nýtilegur
 workaday l. hversdagslegur; erfiður
@@ -777,7 +777,7 @@ wrapper n. umbúðir; umslag; umvafningsblað (á vindli); stórt sjal
 wrath n. reiði, gremja
 wrathful l. reiður; [to wax ~] reiðast
 wreak s. láta bitna (á [on]); [~ vengeance upon] hefna sín á
-wreath n. flétta; hringur, sveigur; [a ~ of flowers] blómhringur; [~ of snow] snjófönn
+wreath n. flétta; hringur, sveigur; [a ~ of flowers] blómhringur, krans; [~ of snow] snjófönn
 wreathe s. flétta, binda (blómhring); umvefja; fléttast saman
 wreathy l. snúinn, undinn; líkur kuðungi í lögun
 wreck n. skipstrand, skipreki; skipsflak; rekald; s. stranda, brjóta (skip sitt); steypa í ógæfu; [to be ~ed] brjóta skip sitt, stranda

@@ -28,7 +28,7 @@ obfuscate s. draga myrkur á, myrkva; sljóvga
 obfuscated l. myrkvaður; ölvaður ([~ with brandy])
 obit n. dauði; ártíð
 obituarist n. eftirmælahöfundur
-obituary l. dauða-; n. stutt eftirmæli (eftir nýdáinn mann), dánarminning
+obituary l. dauða-; n. dánartilkynning, minningargrein, stutt eftirmæli (eftir nýdáinn mann), dánarminning
 obituary notice n. árstíðarskrá; dánarskrá
 object n. hlutur; tilgangur, augnamið; andlag (í málfræði); s. bera (e-m) á brýn; hafa eða mæla á móti ([~ to, against]); vera mótfallinn
 objection n. mótmæli, mótbára; [I have no ~ to] ég er því ekki mótfallinn, að; [take ~ to] mótmæla e-u
@@ -60,9 +60,9 @@ obliviscence n. gleymska
 oblong l. aflangur
 obloquy n. álas, lastmælgi; bakmælgi
 obnoxious l. hvimleiður, ógeðfelldur; háður (e-u [to])
-oboe n. e.k. blásturshljóðfæri
+oboe n. óbó (blásturshljóðfæri)
 obscene l. klúr, klámfenginn, viðbjóðslegur; saurlífislegur
-obscenity n. klám; saurlífi; klúryrði
+obscenity n. klúryrði, grófyrði; klám; saurlífi
 obscurant n. myrkravinur, menningaróvinur
 obscurantism n. menntaóbeit
 obscurantist n. myrkravinur, menningaróvinur
@@ -86,8 +86,8 @@ obstacle n. hindrun, tálmi
 obstetric l. sem lýtur að fæðingarhjálp
 obstetrician n. fæðingarlæknir, yfirsetulæknir
 obstetrics nft. yfirsetufræði
-obstinacy n. þrái, þrjóska, þrákelkni
-obstinate l. þrár; þrjóskur; þrákelkinn; þrálátur ([~ cough, fever])
+obstinacy n. þrái, þrjóska, þrákelkni, kergja, kergi
+obstinate l. þrár, þrjóskur, þrákelkinn, þrálátur ([~ cough, fever])
 obstreperous l. hávær
 obstreperousness n. hávaði; óstýrilæti
 obstruct s. hlaða (eða girða) fyrir, þvergirða; teppa; hindra, stöðva
@@ -202,7 +202,7 @@ oftentimes ao. oftsinnis
 ogle s. gjóta ástaraugum til, senda ástarauga; horfa á; n. ástarauga; auga, glyrna
 ogling n. óstarauga, viðkvæmt augnaráð
 ogre n. tröll, óvættur, mannæta, þurs; illmenni
-ogress n. tröllkona; illkvendi
+ogress n. tröllkona, grýla; illkvendi
 oh uh. ó! æ! vei; [~ yes] ójá; [~ me] vei mér!
 oil n. olía; viðsmjör; lýsi; s. smyrja með olíu eða lýsi, bera olíu eða lýsi á
 oilcloth n. olíudúkur, vaxdúkur
@@ -223,8 +223,8 @@ olfactory l. lyktar- ([~ nerves]); [~ organ] nefið
 oligarchical l. fámennisstjórnar-
 oligarchy n. fámennisstjórn
 olivaceous l. gulgrænn
-olive n. olíutré, olíuviður; olíuber
-olived l. vaxinn olíuviði
+olive n. ólífa; olífutré, olífuviður; olífuber; l. ólfugrænn
+olived l. vaxinn olífuviði
 olympiad n. fjögurra ára tímabil
 Olympian l. ólympískur
 Olympic l. ólympískur; [the ~ games] ólympísku leikarnir
@@ -264,7 +264,7 @@ onerousness n. erfiðleiki
 onion n. laukur
 onlooker n. áhorfandi
 only l. einn; [~ child] einkabarn; [~ bill] einkavíxill; ao. einungis, aðeins ([I not ~ heard it, but saw it])
-onomatopoeia n. hljóðgerving, hljóðlíkingarorð
+onomatopoeia n. hljóðgerving, hljóðgervingur, hljóðlíkingarorð
 onset n. áhlaup, árás, byrjun ([at the first ~])
 onslaught n. áhlaup, árás
 onward l. framhaldandi; ao. áfram
@@ -313,7 +313,7 @@ opportunity n. færi, tækifæri ([seize the ~]); hentugur tími
 opposable l. sem má setja á móti ([the thumb is ~ to the other fingers])
 oppose s. setja á móti; standa á móti, berjast á móti; mæla á móti; [~d to] gagnstæður, mótfallinn e-u
 opposer n. mótstöðumaður
-opposite l. mótsettur; andstæður, gagnstæður; n. mótsetning; gagnstæði
+opposite l. mótsettur; andstæður, gagnstæður, andspænis; n. mótsetning; gagnstæði
 opposition n. mótsetning; mótstaða, mótmæli; mótstöðuflokkur ([the leader of the ~]); andstæðingar
 oppress s. bæla niður, undiroka, kúga; þjá, þjaka; [~ the stomach] ofbjóða maganum
 oppression n. undirokun; ánauð, áþján, kúgun; þrýsting
@@ -346,7 +346,7 @@ oracle n. véfrétt; goðsvar
 oracular l. véfréttar-; goðsvarslegur; óbrigðull ([~ truth]); [~ reply] goðasvar
 oral l. munnlegur, munn- ([~ cavity])
 orally ao. munnlega
-orange n. appelsína, glóaldin; appelsínutré ([~ tree]); l. gulur
+orange n. appelsína, glóaldin; appelsínutré ([~ tree]); l. appelsínugulur
 orange-tawny l. rauðgulur
 orangutan n. skógarmaður, órangútan (apategund)
 oration n. ræða
@@ -370,7 +370,7 @@ order form n. eyðublað undir pöntun
 ordering n. fyrirkomulag, regla
 orderless l. óreglulegur
 orderliness n. regla, reglusemi
-orderly l. reglusamur; siðsamlegur, siðprúður; n. þjónn (hermaður, undirforingi) sem framkvæmir skipanir herforingja; spítalaþjónn; götuhreinsari
+orderly l. reglusamur; skipulegur; siðsamlegur, siðprúður; n. þjónn (hermaður, undirforingi) sem framkvæmir skipanir herforingja; spítalaþjónn; götuhreinsari
 ordinal l. [~ numbers] raðtölur; n. raðtala; kirkjusiðabók
 ordinance n. ákvörðun, fyrirskipun, ráðstöfun
 ordinary l. reglulegur; venjulegur; óbreyttur, hversdagslegur; [physician in ~] fastur líflæknir; [chaplain in ~] þjónandi hirðprestur; n. fastur dómari; dómari í kirkjulegum málum; varðhaldsprestur; matsöluhús; óbreyttur málsverður
@@ -382,7 +382,7 @@ ore n. málmgrýti, óhreinsaður málmur; gull
 oread n. fjalladís
 organ n. verkfæri; líffæri; skilningarvit; orgel; málgagn, blað ([~ of the government])
 organic l. lífrænn; líffæralegur
-organism n. (líffæra) líkami
+organism n. lífvera; (líffæra) líkami
 organist n. orgelleikari
 organization n. skipulag, fyrirkomulag; stofnun; bygging
 organize s. skipuleggja, koma skipulagi á, raða niður; leggja á ráðin; setja á stofn
@@ -416,8 +416,8 @@ ornately ao. skrautlega
 ornithologist n. fuglafræðingur
 ornithology n. fuglafræði
 orography n. fjallafræði
-orphan l. foreldralaus, munaðarlaus ([an ~ child]); n. föðurleysingi, móðurleysingi, munaðarleysingi; s. gera munaðarlausan
-orphanage n. foreldraleysi, munaðarleysi; munaðarleysingjaheimili
+orphan l. foreldralaus, munaðarlaus ([an ~ child]); n. föðurleysingi, móðurleysingi, munaðarleysingi; einstæðingur; s. gera munaðarlausan
+orphanage n. foreldraleysi, munaðarleysi; munaðarleysingjahæli, munaðarleysingjaheimili
 orris n. hvít sverðlilja
 orthodox l. rétttrúaður, rétttrúnaðar-
 orthodoxy n. rétttrúnaður
@@ -426,7 +426,7 @@ orthoepist n. framburðarfræðingur
 orthoepy n. hljóðfræði; réttur framburður
 orthographer n. staffræðingur
 orthographical l. stafsetningar-; réttritunar-; [~ mistake] ritvilla
-orthography n. réttritun, staffræði, réttritunarkerfi
+orthography n. réttritun, staffræði, réttritunarkerfi, stafsetning
 oscillate s. riða, rugga, ramba, sveiflast; titra
 oscillation n. ramb, rugg, sveiflun; titringur
 oscillatory l. riðandi, ruggandi, rambandi, sveiflandi ([~ motion to and fro]); titrandi
@@ -435,7 +435,7 @@ oscule n. sogmunnur
 osier n. víðir; tág
 osier basket n. karfa úr tágum
 osiered l. vaxinn viði
-osprey n. fiskiörn
+osprey n. fiskiörn, gjóður
 osseous l. beinkenndur
 ossicle n. smábein
 ossify s. gera að beini; verða að beini, breytast í bein; festast í sínum venjum
@@ -654,7 +654,7 @@ overthrow s. kollvarpa; steypa; glata; n. kollvörpun; glötun; eyðing
 overtop s. mæna yfir
 overtopple s. kollvarpa
 overtower s. gnæfa yfir
-overture n. tilboð ([an ~ of marriage]); uppástunga; inngangsspil; [make ~s of peace] byrja að semja um frið; s. stinga upp á, bera fram (uppástungu)
+overture n. tilboð ([an ~ of marriage]); uppástunga; forleikur, inngangsspil; [make ~s of peace] byrja að semja um frið; s. stinga upp á, bera fram (uppástungu)
 overturn s. steypa um koll, kollvarpa; hvolfa, snúa á hvolf; [an ~ed boat] bátur á hvolfi
 overvalue s. meta of mikils, ofmeta; ofverðleggja
 overveil s. hylja blæju
