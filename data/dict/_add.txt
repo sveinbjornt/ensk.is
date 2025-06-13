@@ -1653,6 +1653,8 @@ palaeontologist n. steingervingafræðingur
 paleontological l. steingervingafræðilegur
 cinematography n. kvikmyndataka, kvikmyndatökulist; kvikmyndagerð
 clone s. klóna; einrækta; afrita; n. klón, klónn; e-ð sem er einræktað; lífvera með sömu arfgerð og foreldrið; afrit
+cloning n. einræktun; klónun; afritun
+cloakroom n. fatageymsla
 silverware n. silfuráhöld, silfurbúnaður, (silfur)borðbúnaður, (silfur)hnífapör, borðsilfur
 fossilized l. steingerður, steinrunninn
 fossilization n. steingerving
@@ -1717,6 +1719,7 @@ diuretic n. þvagræsilyf
 incapacitation n. óstarfhæfni
 asthenia n. þróttleysi
 sealant n. þéttiefni
+clementine n. klementína
 evisceration n. fjarlæging innyfla; kviðskurður
 trichromatic l. þrílita-, þrílitaður
 macroeconomic l. þjóðhagslegur, þjóðhagfræðilegur
@@ -2627,7 +2630,8 @@ childlessness n. barnleysi
 paralegal n. aðstoðarmaður lögfræðings
 stairwell n. stigagangur
 phosphorous l. fosfórs-
-colourful l. litríkur, litskrúðugur
+colorful l. sjá %[colourful]%
+colourful l. litríkur, litskrúðugur, skrautlegur
 grassland n. graslendi
 wanderlust n. ferðaþrá, flökkuþrá
 rebirth n. endurfæðing
@@ -7764,3 +7768,42 @@ geek n. nörd, lúði
 billboard n. auglýsingaskilti
 technobabble n. tæknibull, tækniblaður
 coriander n. kóríander, kóríandrajurt, kínversk steinselja
+catnap n. hænublundur
+actinium n. aktín (frumefni)
+aftershave n. rakspíri
+aftertaste n. eftirbragð
+alliterate s. stuðla
+anaesthetist n. svæfingalæknir
+carton n. ferna, hyrna, pappabakki, pappaumbúðir
+chain reaction n. keðjuverkun
+cloying l. væminn
+loanword n. tökuorð, sletta
+longwave n. langbylgja
+ogreish l. tröllslegur, þursalegur
+osteocyte n. beinfruma
+pinworm n. njálgur
+castor oil n. laxerolía
+search engine n. leitarvél
+shinguard n. legghlíf
+cardinal sin n. höfuðsynd
+soloist n. einsöngvari, einspilari
+soundproof l. hljóðþéttur, hljóðeinangraður; s. hljóðþétta, hljoðeinangra
+soundproofing n. hljóðeinangrun, hljóðþétting
+speedway n. hraðbraut
+spore n. gró
+tattered l. tötralegur, slitinn
+watchfulness n. árvekni
+cholangitis n. gallrásabólga
+willowherb n. dúnurt
+maltose n. maltsykur, maltósi
+loner n. einfari
+lawnmower n. garðsláttuvél
+horsecart n. hestakerra
+gravlax n. graflax
+einsteinium n. einsteinín (frumefni)
+copernicium n. kópernikín (frumefni)
+defibrillation n. hjartastilling
+crossbill n. krossnefur (fuglategund)
+couscous n. kúskús
+coccyx n. rófubein
+coal mine n. kolanáma
