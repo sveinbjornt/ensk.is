@@ -4410,9 +4410,9 @@ warmly ao. hlýlega
 lab n. stytt. á %[laboratory]%
 pheromone n. ferómón
 impossibly ao. ómögulega
-burger n. sjá %[hamburger]%
+burger n. borgari, hamborgari (sjá %[hamburger]%)
 seatbelt n. sætisbelti
-suspiciously ao. grunsamlega
+suspiciously ao. grunsamlega, á hátt sem vekur grunsemd
 flatscreen n. flatskjár
 pretense n. sjá %[pretence]%
 unnavigable l. óskipgengur, sem ekki er hægt að sigla um ([the river was ~])
@@ -4446,13 +4446,13 @@ boilerplate n. fastatexti, geymdur texti (texti sem er notaður ítrekað í mö
 ammonium n. ammóníum
 quantifiable l. mælanlegur, magnmælanlegur
 quantifiability n. mælanleiki, magnmælanleiki
-devilishly ao. djöfullega, andskoti
+devilishly ao. djöfullega, andskoti ([~ difficult])
 needlessly ao. óþarflega, að óþörfu
 mapmaking n. kortagerð
 mapmaker n. kortagerðarmaður
 considerably ao. talsvert, verulega
 steam-driven l. gufuknúinn
-dollhouse n. dúkkuhús
+dollhouse n. dúkkuhús, hús fyrir dúkkur
 mycology n. sveppafræði
 mycologist n. sveppafræðingur
 mycological l. sveppafræðilegur
@@ -7815,7 +7815,7 @@ lawnmower n. garðsláttuvél
 horsecart n. hestakerra
 gravlax n. graflax
 endoscope n. holspegill, holsjá
-ennui n. leiði, lífsleiði, óyndi
+ennui n. lífsleiði, óyndi
 cicely n. spánarkerfill
 curium n. kúrín (frumefni)
 cerium n. serín (frumefni)
@@ -7846,9 +7846,9 @@ coal mine n. kolanáma
 ischium n. setbein, þjóbein
 filleting n. flökun
 fishmeal n. fiskimjöl
-impersonator n. eftirherma; e-r sem villir á sér heimildir
+impersonator n. eftirherma; e-r sem villir á sér heimildir, e-r sem gengur undir fölsku nafni, e-r sem þykist vera annar en hann er
 airbag n. loftpúði, líknarbelgur
-airmail n. flugpóstur
+airmail n. flugpóstur, póstur sem er sendur með flugi
 folder n. mappa
 hoarfrost n. héla, hrím
 bumblebee n. hunangsfluga, býfluga
@@ -7872,13 +7872,14 @@ electibility n. kjörþokki, kjörgengi
 flirting n. daður, viðreynsla
 forename n. eiginnafn, fornafn
 lupin n. lúpína
-parliamentarianism n. þingræði
+parliamentarianism n. þingræði, þingræðisstefna
 meteoroid n. reikisteinn, geimsteinn, geimgrýti
-malfunction n. bilun, ólag; s. bila, komast í ólag, virka illa
-kidnapping n. mannrán, barnarán
+malfunction n. bilun, ólag, bilun á virkni; s. bila, komast í ólag, virka illa, virka á rangan hátt
+kidnapping n. mannrán; barnarán
 jackdaw n. dvergkráka
 monophthong n. einhljóð
 gatecrasher n. boðflenna, sá sem mætir óboðinn
+gatecrash s. mæta óboðinn, mæta sem boðflenna
 geomorphology n. landmótunarfræði
 gray whale n. sandlægja, gráhvalur, klakkur
 halitosis n. andfýla, andremma
@@ -7888,10 +7889,12 @@ hawfinch n. kjarnbítur (fuglategund)
 ladybug n. maríuhæna, maríubjalla
 nucleon n. kjarneind
 ping-pong n. borðtennis
-monochrome l. einlitur, svarthvítur
-motorbike n. mótorhjól, bifhjól
+monochrome l. einlitur, svarthvítur, í einum lit
+motorbike n. mótorhjól, bifhjól (sjá einnig %[motorcycle]%)
 mountaineering n. fjallamennska, fjallaklifur, að ganga á fjöll
 naupathia n. sjóveiki, sjósótt (sjá %[seasickness]%)
 noble-mindedness n. göfuglyndi
-scorched l. sviðinn, skrælnaður af hita
-sauna n. gufubað, sána, eimbað; finnsk baðstofa
+scorched l. sviðinn, skrælnaður (af hita)
+sauna n. gufubað, sána, eimbað; (finnsk) baðstofa, (finnskt) eimbað
+decibel n. desíbel (mælieining styrkleika hljóðs)
+triumphal arch n. sigurbogi
