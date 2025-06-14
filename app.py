@@ -35,7 +35,7 @@ FastAPI web application.
 
 """
 
-from typing import Any
+from typing import Any, Optional
 
 import re
 import aiofiles
@@ -296,24 +296,28 @@ async def index(request: Request):
 
 @app.get("/search", include_in_schema=False)  # type: ignore
 @cache_response(SEARCH_CACHE_SIZE)
-async def search(request: Request, q: str):
+async def search(request: Request, q: Optional[str] = ""):
     """Return page with search results for query."""
 
     q = q.strip()
-    if len(q) < 2:
+    if q and len(q) < 2:
         return _err("Query too short")
 
-    results, exact = _cached_results(q)
+    if q:
+        results, exact = _cached_results(q)
 
-    async def _save_missing_word(word: str) -> None:
-        """Save word to missing words list."""
-        async with aiofiles.open("missing_words.txt", "a+") as file:
-            await file.write(f"{word}\n")
+        async def _save_missing_word(word: str) -> None:
+            """Save word to missing words list."""
+            async with aiofiles.open("missing_words.txt", "a+") as file:
+                await file.write(f"{word}\n")
 
-    if not exact or not results:
-        if re.match(r"^[a-zA-Z]+$", q) and q.lower() not in KNOWN_MISSING_WORDS:
-            w = q[:100]
-            await _save_missing_word(w)
+        if not exact or not results:
+            if re.match(r"^[a-zA-Z]+$", q) and q.lower() not in KNOWN_MISSING_WORDS:
+                w = q[:100]
+                await _save_missing_word(w)
+    else:
+        results = []
+        exact = False
 
     return TemplateResponse(
         "result.html",

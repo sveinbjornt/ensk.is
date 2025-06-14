@@ -12,49 +12,51 @@
 
 {% include 'searchfield.html' %}
 
-{% if results|length > 0 %}
-<!--<p><em>{{ results|length }} niðurstöður fyrir <strong>{{ q }}</strong></em>.</p>-->
+<div id="search_results">
 
-{% if not exact: %}
-<!--<p><em>Orðið <strong>{{ q }}</strong> fannst ekki. <a href="">*Tilkynna*</a></em></p>
+    {% if results|length > 0 %}
+    <!--<p><em>{{ results|length }} niðurstöður fyrir <strong>{{ q }}</strong></em>.</p>-->
+
+    {% if not exact: %}
+    <!--<p><em>Orðið <strong>{{ q }}</strong> fannst ekki. <a href="">*Tilkynna*</a></em></p>
     <p><strong>Tillögur</strong></p>-->
-{% endif %}
+    {% endif %}
 
-{% for r in results %}
-<div class="result grid-container" onclick="location.href='/item/{{ r.word }}'">
+    {% for r in results %}
+    <div class="result grid-container" onclick="location.href='/item/{{ r.word }}'">
 
-    <div class="itemlinks">
-        <a href="/item/{{ r.word }}" title="Skoða færsluna „{{ r.word }}“">
-            <img src="/static/img/link.svg" alt="Hlekkur">
-        </a>
-    </div>
-
-    <p>
-        <strong>
-            <a href="/item/{{ r.word }}" class="result_link" title="Skoða færsluna „{{ r.word }}“">
-                {{ r.word }}
+        <div class="itemlinks">
+            <a href="/item/{{ r.word }}" title="Skoða færsluna „{{ r.word }}“">
+                <img src="/static/img/link.svg" alt="Hlekkur">
             </a>
-        </strong>
-        (<a href="{{ r.audio_uk }}" onClick="play(this); event.stopPropagation(); return false;"
-            title="Spila hljóðupptöku af framburði">
-            <img src="/static/img/audio.svg" alt="Spila">
-            {{ r.ipa_uk }}
-        </a>)
-        <span class="result_definition_text" onclick="event.stopPropagation();">
-            {{ r.def|safe }}
-        </span>
-    </p>
+        </div>
+
+        <p>
+            <strong>
+                <a href="/item/{{ r.word }}" class="result_link" title="Skoða færsluna „{{ r.word }}“">
+                    {{ r.word }}
+                </a>
+            </strong>
+            (<a href="{{ r.audio_uk }}" onClick="play(this); event.stopPropagation(); return false;"
+                title="Spila hljóðupptöku af framburði">
+                <img src="/static/img/audio.svg" alt="Spila">
+                {{ r.ipa_uk }}
+            </a>)
+            <span class="result_definition_text" onclick="event.stopPropagation();">
+                {{ r.def|safe }}
+            </span>
+        </p>
 
 
+    </div>
+    {% endfor %}
+
+    {% else: %}
+    {% if q %}
+    <p><em>Engar niðurstöður fundust fyrir <strong>„{{ q }}“</strong></em>.</p>
+    {% endif %}
+    {% endif %}
 </div>
-{% endfor %}
-
-<br>
-<br>
-
-{% else %}
-<p><em>Engar niðurstöður fundust fyrir <strong>„{{ q }}“</strong></em>.</p>
-{% endif %}
 
 <br>
 <br>

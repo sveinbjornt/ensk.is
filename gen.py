@@ -86,11 +86,11 @@ def ipa4entry(s: str, lang: str = "uk") -> str | None:
         ipa4words = []
         # Look up each individual word and assemble
         for wp in wipa:
-            lookup = word2ipa.get(wp)
+            lookup = only_first_ipa(word2ipa.get(wp))
             if not lookup:
-                lookup = word2ipa.get(wp.lower())
+                lookup = only_first_ipa(word2ipa.get(wp.lower()))
             if not lookup:
-                lookup = word2ipa.get(wp.capitalize())
+                lookup = only_first_ipa(word2ipa.get(wp.capitalize()))
             if not lookup:
                 break
             else:

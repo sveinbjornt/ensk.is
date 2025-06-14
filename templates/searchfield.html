@@ -10,7 +10,20 @@
     function clear_search() {
         q.value = "";
         q.focus();
+        clear_search_results();
         update_clear_button();
+    }
+
+    // Clear search results
+    function clear_search_results() {
+        var results = document.getElementById("search_results");
+        if (results) {
+            results.innerHTML = "";
+        }
+        // Update the URL to remove query parameters
+        var url = new URL(window.location.href);
+        url.searchParams.delete("q");
+        window.history.replaceState({}, document.title, url.toString());
     }
 
     // Show/hide clear button based on input content
