@@ -68,7 +68,18 @@ def ipa4entry(s: str, lang: str = "uk") -> str | None:
         word2ipa = ENWORD_TO_IPA_UK
     else:
         word2ipa = ENWORD_TO_IPA_US
-    ipa = word2ipa.get(s)
+
+    def only_first_ipa(s: str) -> str:
+        """Return only the first IPA spelling in a string."""
+        if not s:
+            return ""
+        # Split by space and return the first part
+        parts = s.split(", ")
+        if len(parts) > 1:
+            return parts[0]
+        return s
+
+    ipa = only_first_ipa(word2ipa.get(s))
     if not ipa and " " in s:
         # It's a multi-word entry
         wipa = s.split()
