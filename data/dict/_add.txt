@@ -177,10 +177,12 @@ necessarily ao. nauðsynlega
 pediatrician n. barnalæknir
 pediatrist n. barnalæknir
 pediatric l. barnalæknisfræðilegur, barnalækninga-
+pediatrics nft. barnalækningar, barnalæknisfræði
 printable l. prentanlegur
 reload s. endurhlaða
 handbag n. handtaska
 barcode n. strikamerki
+photosynthesis n. ljóstillífun
 secularism n. veraldarhyggja (lögmálið að ríkisvald eigi að vera aðskilið frá trúfélögum)
 secularist n. veraldarhyggjusinni, veraldarhyggjumaður; sjá %[secularism]%
 press release n. fréttatilkynning; [he sent out a ~] hann sendi frá sér fréttatilkynningu
@@ -991,7 +993,8 @@ amp n. magnari (stytt. á %[amplifier]%)
 erotica n. kynæsandi bækur, list eða myndefni
 gram n. gramm
 patriarchy n. feðraveldi, ættfeðrastjórn
-matriarchy n. mæðraveldi
+matriarchy n. mæðraveldi, kvennaveldi
+matriarchate n. mæðraveldi, kvennaveldi
 matriarch n. ættmóðir
 matriarchal l. ættmæðra-
 zucchini n. kúrbítur, dvergbítur
@@ -3099,6 +3102,7 @@ e-reader n. rafbókalesari
 ereader n. rafbókalesari
 brutishness n. grimmd, hrottaskapur
 parachutist n. fallhlífarstökkvari; fallhlífarhermaður
+parachuting n. fallhlífarstökk
 polyarchy n. fjölræði (stjórn margra aðila)
 polycracy n. fjölræði (stjórn margra aðila)
 romanticism n. rómantík; rómantíska stefna 18. og 19. aldar
@@ -4938,6 +4942,7 @@ gynaecology n. kvensjúkdómafræði, kvensjúkdómalækningar, kvenlækningar
 armageddon n. Harmagedón (úrslitaorrusta milli góðs og ills í abrahamískum trúarbrögðum); úrslitaorrusta
 esophagus n. sjá %[oesophagus]%
 pasteurize s. gerilsneyða
+pasteurized l. gerilsneyddur
 pasteurization n. gerilsneyðing
 panning n. skotrun
 substitutability n. staðgengi, staðgengni
@@ -7800,6 +7805,7 @@ cholangitis n. gallrásabólga
 footbridge n. göngubrú
 doghouse n. hundakofi
 erythrocyte n. rauðkorn, rautt blóðkorn, rauð blóðfruma
+leukocyte n. hvítkorn, hvítt blóðkorn, hvít blóðfruma
 willowherb n. dúnurt
 maltose n. maltsykur, maltósi
 loner n. einfari
@@ -7817,6 +7823,15 @@ caesium n. sesín (frumefni)
 fermium n. fermín (frumefni)
 einsteinium n. einsteinín (frumefni)
 copernicium n. kópernikín (frumefni)
+hassium n. hassín (frumefni)
+holmium n. holmín (frumefni)
+indium n. indín (frumefni)
+neptunium n. neptún, neptúnín (frumefni)
+niobium n. níóbín (frumefni)
+nobelium n. nóbelín (frumefni)
+ruthenium n. rúten (frumefni)
+scandium n. skandín (frumefni)
+hubcap n. hjólkoppur
 defibrillation n. hjartastilling
 crossbill n. krossnefur (fuglategund)
 couscous n. kúskús
@@ -7827,23 +7842,55 @@ dipsomaniacal l. drykkjuóður, drykkfelldur
 grand piano n. flygill (stór slagharpa)
 coccyx n. rófubein
 coal mine n. kolanáma
+ischium n. setbein, þjóbein
 filleting n. flökun
 fishmeal n. fiskimjöl
+impersonator n. eftirherma; e-r sem villir á sér heimildir
 airbag n. loftpúði, líknarbelgur
 airmail n. flugpóstur
 folder n. mappa
+hoarfrost n. héla, hrím
 bumblebee n. hunangsfluga, býfluga
+lepton n. létteind
 calcification n. kölkun
+heatwave n. hitabylgja
+hamster n. hamstur
+paintbrush n. pensill, málningarpensill
 carbon monoxide n. kolsýringur, kolmónoxíð
 diuresis n. þvagaukning
+guinea pig n. naggrís
+orphaned l. (gerður) munaðarlaus, foreldralaus
 divisive l. sundrandi
 divisiveness n. sundurlyndi, sundrung
 dogwhelk n. nákuðungur
 gamete n. kynfruma
+hadron n. sterkeind
 dreamworld n. draumaheimur, draumaveröld, draumaland
 electable l. sem hægt er að kjósa, kjörgengur
 electibility n. kjörþokki, kjörgengi
 flirting n. daður, viðreynsla
 forename n. eiginnafn, fornafn
+lupin n. lúpína
+parliamentarianism n. þingræði
+meteoroid n. reikisteinn, geimsteinn, geimgrýti
+malfunction n. bilun, ólag; s. bila, komast í ólag, virka illa
+kidnapping n. mannrán, barnarán
+jackdaw n. dvergkráka
+monophthong n. einhljóð
 gatecrasher n. boðflenna, sá sem mætir óboðinn
 geomorphology n. landmótunarfræði
+gray whale n. sandlægja, gráhvalur, klakkur
+halitosis n. andfýla, andremma
+preaspiration n. aðblástur
+occlusive l. lokandi, lok-, lokunar-; n. lokhljóð
+hawfinch n. kjarnbítur (fuglategund)
+ladybug n. maríuhæna, maríubjalla
+nucleon n. kjarneind
+ping-pong n. borðtennis
+monochrome l. einlitur, svarthvítur
+motorbike n. mótorhjól, bifhjól
+mountaineering n. fjallamennska, fjallaklifur, að ganga á fjöll
+naupathia n. sjóveiki, sjósótt (sjá %[seasickness]%)
+noble-mindedness n. göfuglyndi
+scorched l. sviðinn, skrælnaður af hita
+sauna n. gufubað, sána, eimbað; finnsk baðstofa
