@@ -107,7 +107,7 @@ ecologist n. vistfræðingur
 encryption n. dulkóðun, dulritun
 encrypt s. dulkóða, dulrita
 girlfriend n. kærasta, unnusta; vinkona
-ex-girlfriend n. fyrrverandi kærasta eða unnusta; fyrrverandi vinkona
+ex-girlfriend n. fyrrverandi kærasta, fyrrverandi unnusta; fyrrverandi vinkona
 guestbook n. gestabók
 holocaust n. helför; [the Holocaust] helförin, þ.e. kerfisbundin tortíming Gyðinga á síðustu árum seinni heimsstyrjaldar
 microphone n. hljóðnemi
@@ -2048,6 +2048,7 @@ self-destruct s. tortíma sér, eyða sjálfum sér
 whisker n. veiðihár; e.k. skeggstíll
 superwoman n. ofurkona
 boyfriend n. kærasti, unnusti
+ex-boyfriend n. fyrrverandi kærasti, fyrrverandi unnusti
 lipstick n. varalitur
 grandpa n. afi (óforml., sjá %[grandfather]%)
 grandpapa n. afi (óforml., sjá %[grandfather]%)

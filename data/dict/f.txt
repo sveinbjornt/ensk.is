@@ -1140,8 +1140,8 @@ friction n. núningur, núningskraftur; ágreiningur, átök
 frictional l. núnings- ([~ electricity])
 Friday n. föstudagur; [Good ~] föstudagurinn langi
 friend n. vinur; vinkona; [to be ~s with] vera vinur e-s; [to make ~s] sættast
-friendless l. vinalaus
-friendliness n. vingjarnleiki, vinsemd; góðsemi
+friendless l. vinalaus, án vina
+friendliness n. vingjarnleiki, vinsemd, vingjarnlegheit; góðsemi
 friendly l. vingjarnlegur, vinsamlegur, vinveittur (e-m [to])
 friendship n. vinátta, vinfengi
 frieze n. múrbrún, loftrönd; e.k. vaðmál

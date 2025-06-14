@@ -1476,9 +1476,9 @@ commute s. skipta (hafa skipti) á e-u; breyta; breyta dómi (refsingu) í væga
 compact n. samningur; sáttmáli; l. þéttur, samþjappaður; s. festa þétt saman; þjappa saman
 compaction n. samþjöppun
 compactness n. þéttleiki
-companion n. félagi
-companionable l. félagslegur; viðkunnanlegur
-companionship n. félagsskapur
+companion n. félagi; förunautur; kumpáni; lífsförunautur
+companionable l. félagslegur; viðkunnanlegur; kumpánalegur
+companionship n. félagsskapur, kumpánaskapur
 company n. félag; félagsskapur; samsæti, heimboð; boðsmenn, veislufólk; flokkur, liðsflokkur; [he never receives ~] hann hefur aldrei heimboð; [I will keep you ~ on the way] ég ætla að vera þér samferða; [for ~, for ~'s sake] til samlætis
 comparable l. sambærilegur, samanberandi; samjafnanlegur
 comparative l. sambærilegur, samanburðarlegur; tiltölulegur; n. miðstig

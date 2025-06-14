@@ -266,7 +266,7 @@ bear-baiting n. bjarndýraat
 bear n. björn, bjarndýr; s. bera; þola; standast; fæða, ala; ala í brjósti sínu ([~ one a grudge]); [~ oneself] bera sig, hegða sér; [~ in mind] hafa hugfast; [~ away] bera úr bítum, vinna ([~ away the prize]); víkja undan (um skip); [~ back] reka aftur á bak; [~ down] sökkva (skipi); yfirbuga; [~ hard on (upon)] ganga nærri e-m; [~ out] staðfesta; [~ towards] stýra (stefna) á; [~] að halda sér uppi, gefast ekki upp; [~ upon] lúta að e-u, snerta, koma við; [~ with] vorkenna e-m, sýna þolinmæði
 bearable l. bærilegur
 bearer n. burðarmaður, handhafi
-beard n. skegg s. bjóða byrginn
+beard n. skegg; s. bjóða byrginn
 bearded l. skeggjaður
 beardless l. skegglaus ([a ~ youth])
 bearing n. líkamsburður, látbragð; lega; afstaða; hlutfall; stefna; útlit; ft. skjaldmerki ([armorial ~s]); [take one's ~s] átta sig
@@ -340,7 +340,7 @@ befool s. gera gys að; draga á tálar, blekkja
 before fs. fyrir framan; fyrir; fram fyrir; frammi fyrir ([appear ~ the judge]); [~ Christ (BC)] fyrir Kristsburð; ao. áður ([long ~]); fyrir, á undan ([go ~]); st. áður en, fyrr en
 beforehand ao. fyrirfram; á undan; [be ~ with] verða fyrri til en; [be ~ with the world] hafa góð efni
 befoul s. saurga, ata, spilla
-befriend s. vera (e-m) vinveittur, vera e-m hagstæður
+befriend s. vingast við, slá upp vináttu við (e-n [someone]); vera (e-m) vinveittur, vera e-m hagstæður
 beg s. biðja; betla, biðja ölmusu; skoða sem sannað ([~ the question]); [I ~ your pardon] ég bið þig fyrirgefningar, afsakið; [I ~ (leave) to] ég leyfi mér að
 begad uh. það veit guð
 beggar n. betlari, beiningamaður; s. gera fátækan; [it ~s all description] því verður ekki með orðum lýst; [it ~ all belief] því verður tæpast trúað
