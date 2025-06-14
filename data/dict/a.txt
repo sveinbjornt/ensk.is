@@ -1024,8 +1024,8 @@ aniseed n. anísfræ
 anker n. kvartil (lagarmál)
 ankle n. ökkli
 anklet n. ökklahringur
-annalist n. árbókarhöfundur; sagnaritari
-annals nft. árbækur
+annalist n. árbókarhöfundur, annálahöfundur; sagnaritari
+annals nft. árbækur, annálar
 anneal s. herða, tempra (járn eða gler); smákæla
 annex s. festa, tengja (við [to]); innlima (land); n. viðbætir, viðauki
 annexation n. viðtenging, sameining; innlimun
@@ -1210,7 +1210,7 @@ appetence n. fýsn, löngun, þrá (eftir e-u [for, of, after])
 appetency n. fýsn, löngun, þrá (eftir e-u [for, of, after])
 appetent l. fús, gjarn (á [of, after]); fíkinn (í e-ð)
 appetite n. lyst, matarlyst; löngun, eftirsókn; smekkur (fyrir [for])
-appetizing l. girnilegur, lystugur (um mat); ginnandi
+appetizing l. girnilegur, lystugur, kræsilegur (um mat); ginnandi
 applaud s. klappa saman lófunum, klappa fyrir; gera góðan róm að; lofa, hrósa
 applause n. lófaklapp, lofsorð ([to meet with ~])
 apple n. epli; [~ of the eye] augasteinn; [~ of discord] þrætuepli

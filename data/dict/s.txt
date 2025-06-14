@@ -907,7 +907,7 @@ shindy n. hávaði; áflog
 shine s. skína, ljóma; láta skína, gera ljómandi; n. ljómi; gljái; sólskin ([be it ~ or rain])
 shingle n. þakspónn; fjörumöl; s. þekja með spæni
 shingly l. fullur af möl; spónþakinn
-shingles n. ristill (húðsjúkdómur)
+shingles nft. ristill (húðsjúkdómur)
 shiny l. skínandi, gljáandi ([~ boots]); sólbjartur ([on a ~ day])
 ship n. skip; s. flytja (taka) á skip, skipa út ([~ goods]); senda (vörur) á eða með skipi; fara í (föt); taka (byrði) á herðar sér; ráða (sjómenn); stíga á skip; ráða sig á skip; [~ the oars] leggja út árarnar; [~ the tiller] koma stýrissveifinni á; [~ the rudder] setja fyrir stýrið; [~ a heavy sea] fá yfir sig stórsjó; [~ off] flytja burt á skipi
 shipbuilder n. stórskipasmiður
@@ -1340,7 +1340,7 @@ sleeper n. sofandi maður; þvertré undir gólfi eða járnbraut
 sleeping l. sofandi
 sleeping bag n. svefnpoki
 sleeping room n. svefnherbergi
-sleepless l. svefnlaus
+sleepless l. svefnlaus, andvaka
 sleepiness n. svefnsemi
 sleepwalker n. svefngengill, svefngöngumaður
 sleepwalk s. ganga í svefni
@@ -3067,10 +3067,10 @@ swimmer n. sundmaður; sundfugl
 swimming n. sund; svimi
 swimming-belt n. sundbelti
 swimmingly ao. liðlega, eftir óskum ([it goes ~])
-swindle s. svíkja; [~ money out of one] svíkja fé af e-m; n. svik, féglæfrar
-swindler n. svikari, féglæframaður, svindlari
+swindle s. svíkja, svindla; [~ money out of one] svíkja fé af e-m; n. svik, féglæfrar
+swindler n. svikari, svindlari, féglæframaður
 swine n. svín; skíthæll (um manneskju)
-swinery n. svínastía
+swinery n. svínastía; svínaskapur
 swineherd n. svínahirðir
 swinesty n. svínastía
 swing s. sveifla, veifa, vingsa; róla; dingla ([sat on a table ~ing his legs]); dingla (í gálga); róla sér; [the door swung to] skelltist aftur, í lás; n. sveifla; vings; róla; óbundið frelsi; [in full ~] í fullum gangi; [at a rapid ~] á fleygiferð; [walk with a ~] með slætti
