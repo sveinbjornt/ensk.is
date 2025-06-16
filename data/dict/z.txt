@@ -1,6 +1,6 @@
 zany l. kjánalegur, asnalegur, trúðslegur, fíflalegur; n. fífl, trúður
 zeal n. ákafi; vandlætiskapp, vandlæting
-zealot n. ákafamaður; vandlætari
+zealot n. ákafamaður; ofstækismaður, ofstopamaður; vandlætari
 zealotism n. ákafi, ofsi; vandlætingasemi
 zealotry n. ákafi, ofsi; vandlætingasemi
 zealous l. ákafur
@@ -11,7 +11,7 @@ zephyr n. vestanvindur, bliður andvari; [~ worsted, ~ yarn] siffurgarn, ísaums
 zero n. núll; núllpunktur; frostmark (á hitamæli)
 zest n. ánægjutilfinning; kryddbragð; nautn; s. krydda, setja kryddbragð á ([~ wine])
 zigzag n. krákustígur (með hvössum hornum); l. snarhlykkjóttur ([in a ~ direction, the ~ path of lightning]); s. ganga í krákustíg eða hvössum bugðum
-zinc n. sink (málmur); s. leggja sink eða sinkhúð á
+zinc n. sink (málmur); s. sinkhúða, galvanísera, leggja sink eða sinkhúð á
 zincography n. sinkstunga
 zodiac n. dýrahringur, sólmerkjahringur
 zodiacal l. sem tilheyrir dýrahringnum
@@ -22,5 +22,5 @@ zoological l. dýrafræðilegur; dýra-; [~ garden] dýragarður (sjá %[zoo]%)
 zoologist n. dýrafræðingur
 zoology n. dýrafræði
 zoophyte n. blómdýr
-zounds uh. hver þremillinn!
-zymotic l. sem lýtur að ólgu eða gerð (í víni); [~ disease] næmur (smitandi) sjúkdómur
+zounds uh. (forn.) hver þremillinn!
+zymotic l. sem lýtur að ólgu eða gerð (í víni); [~ disease] (forn.) smitsjúkdómur, farsótt

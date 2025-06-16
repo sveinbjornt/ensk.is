@@ -13,7 +13,7 @@ tablespoon n. matskeið
 tabletalk n. borðræður
 tableturning n. borðdans
 tableau n. mynd, hópmynd
-tablet n. lítið spjald; s. festa (hengja) spjald á
+tablet n. tafla; spjaldtölva; lítið spjald; s. festa (hengja) spjald á
 taboo n. bann, banndómur, bannhelgi, forboð, tabú; s. banna (að nota eða nálgast e-ð)
 tabour n. lítil bumba; s. berja (bumbu)
 tabouret n. lítill, baklaus stóll; saumagrind
@@ -75,7 +75,7 @@ tally n. kefli með þverskorum; samsvarandi hlutur; hópur; merki, merkiseðill
 tallyshop n. lánsbúð
 tally-trade n. lánsverslun (þar sem vörur eru lánaðar til skamms tíma)
 tally-ho uh. hæ! hó!
-talmud n. hin nýja lögbók Gyðinga
+talmud n. meginrit Gyðinga
 talon n. ránfuglskló
 talus n. halli, brekka
 tamable l. temjanlegur, temjandi
@@ -915,7 +915,7 @@ trade union n. stéttarfélag, verkalýðsfélag, iðnfélag
 tradewind n. staðvindur (við miðjarðarlínu)
 trading l. verslunar-; [~ company] verslunarfélag; n. verslun
 tradition n. hefð; sögusögn, munnmæli; erfikenning; afhending
-traditional n. hefðbundinn
+traditional l. hefðbundinn
 traditionary l. munnmæla- ([~ legend]), sem er byggður á munnmælum
 traduce s. ófrægja; rægja, lasta
 traducer n. lastari, rógberi
@@ -965,8 +965,8 @@ transalpine l. sem liggur handan Alpafjalla (miðað frá Rómaborg)
 transatlantic l. sem er fyrir handan (eða fer yfir) Atlantshaf
 transcend s. yfirstiga; skara fram úr
 transcendency n. yfirburðir, ágæti
-transcendent n. frábær, ágætur; yfirskilvitlegur ([~ revelation])
-transcendental n. frábær, ágætur; yfirskilvitlegur ([~ revelation])
+transcendent l. frábær, ágætur; yfirskilvitlegur ([~ revelation])
+transcendental l. frábær, ágætur; yfirskilvitlegur ([~ revelation])
 transcribe s. skrifa upp aftur, endurrita
 transcriber n. endurritari
 transcript n. eftirrit; eftirlíking
@@ -1025,7 +1025,7 @@ transpire s. senda upp gufu; gufa upp eða út; berast út, kvisast, spyrjast; l
 transplant s. gróðursetja (á öðrum stað); flytja (til annars staðar)
 transplantation n. gróðursetning (á öðrum stað); flutningur (til annars staðar)
 transport s. flytja; senda (glæpamann) úr landi; gagntaka, hrífa; n. flutningur; burtsending; flutningsskip; landrækur glæpamaður; áköf geðshræring; hrifning
-transportable n. flytjanlegur; sem varðar útlegð ([~ offence])
+transportable l. flytjanlegur; sem varðar útlegð ([~ offence])
 transportation n. flutningur; flutningsmál
 transposal n. sjá %[transposition]%
 transpose s. flytja (e-ð) til eða úr stað
@@ -1093,7 +1093,7 @@ tremor n. skjálfti, hristingur
 tremulous l. titrandi, skjálfandi
 tremulousness n. titringur
 trench s. grafa (skurð); plægja djúpt; víggirða gröfum; [~ on (upon)] misbjóða (e-u); n. skurður, gröf, ræsi; vígisgröf, skotgröf
-trenchant n. beittur, hvass
+trenchant l. beittur, hvass
 trenchcap n. stúdentahúfa
 trencher n. skurðgrafari; kjöttrog (úr tré)
 trencherman n. matmaður ([a stout, valiant ~])
@@ -1203,7 +1203,7 @@ trochaic l. trokeískur
 trochee n. langstuttur bragliður
 troglodyte n. hellisbúi
 Trojan l. tróverskur, Tróju- ([the ~ war]); n. Trójumaður, Tróverji
-troll n. tröll, illvættur; s. velta; hringsnúa; syngja; dorga; fiska (í); hringsnúast
+troll n. tröll, illvættur; nettröll, sá sem reynir að koma af stað illindum; s. velta; hringsnúa; syngja; dorga; fiska (í); hringsnúast
 trollop n. subba, ódámur
 trollopish l. subbulegur
 trollopy l. subbulegur
@@ -1440,7 +1440,7 @@ twofold l. tvöfaldur; tvíþættur ([~ yarn])
 two-handed l. tvíhendur; [a ~ sword] sverð sem lyft er með báðum höndum
 twopence nft. tveir peningar
 twopenny l. sem kostar 2 pence
-two-wheeled n. tvíhjólaður
+two-wheeled l. tvíhjólaður
 tymbal n. sjá %[timbal]%
 typal l. sjá %[typical]%
 type n. tegund; mót; tákn; fyrirmyndardæmi; prentletur; s. fyrirmynda, tákna; vélrita

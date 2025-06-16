@@ -1,5 +1,4 @@
-saddlebow n. fiðlubogi; slipsi, borðahnýti
-snow-bunting n. snjótittlingur
+saddlebow n. söðulbogi
 shassock n. motta til að krjúpa á (í kirkju), knjákoddi
 sabbath n. sabbatsdagur; hvíldardagur
 sabbathize s. halda hvíldardag
@@ -231,7 +230,7 @@ scabby l. kláðugur; auðvirðilegur, fyrirlitlegur
 scabbard n. slíður, skeiðar; s. slíðra ([~ the sword])
 scaffold n. pallur; aftökupallur; s. reisa pall (skorður) undir e-ð eða upp að e-u; leggja á pall; skorða
 scaffolding n. smíðapallur; vinnupallar; verkpallur, vinnupallur, stillas
-scald s. brenna (á sjóðheitu vatni eða gufu); skola úr heitu vatni; [~ milk] flóa mjólk; n. brunasár; skáld
+scald s. brenna (á sjóðheitu vatni eða gufu); skola úr heitu vatni; [~ milk] flóa mjólk; n. brunasár; (fornnorrænt) skáld
 scalding l. sjóðheitur, brennheitur
 scale n. skali; vogarskál; [a pair of ~s] metaskálar, vog; [to ride to ~] ríða til að láta vega sig (eftir endaða kappreið); [to turn the ~] ríða baggamuninn; tónstigi; hlutfall; mælikvarði; [decimal ~] tugamál; [on a large (small) ~] í stórum (litlum) mæli; hreistur; væra, flasa ( í höfði); sindur; vatnsskóf (í katli); s. klifra upp á; hreistra (fisk); flysja; flagna, flosna frá ([off, away])
 scalebeam n. vogarstöng
@@ -432,7 +431,7 @@ scullion n. eldhússtúlka, eldhúsdrengur
 scully l. auðvirðilegur
 sculptor n. myndasmiður
 sculpture n. höggmynd, skúlptúr; myndasmíði; s. höggva, skera, grafa (myndir)
-scum n. froða; sori; úrkast, afhrak; s. veiða froðuna ofan af
+scum n. froða; sori; úrkast, afhrak; pakk, skítapakk (um fólk); s. veiða froðuna ofan af
 scummy l. þakinn froðu
 scumble s. deyfa (liti)
 scurf n. skurfa; flasa; hrúður
@@ -453,7 +452,7 @@ scytheman n. sláttumaður
 sea n. sjór, haf; sjógangur, ósjór, stórsjór; [at ~] úti á sjó; í óvissu; [by ~] sjóleiðis, sjóveg; [to go to ~] gerast sjómaður; [to put to ~] leggja í haf; [with a considerable ~ running] í talsverðum sjógangi; [half ~s over] hálfdrukkinn
 sea bear n. hvítabjörn, ísbjörn; sæbjörn (seltegund)
 sea beast n. sjóskrímsli
-sea blubber n. marglitta
+sea blubber n. marglytta
 seaboard n. sjávarströnd; strandlengja
 seabound l. sægirtur
 sea breeze n. álandsvindur
@@ -775,7 +774,7 @@ shadow n. skuggi (af e-u); skjól, vernd; skuggamynd; [not a ~ of doubt] alls en
 shadowy l. skuggalegur, dimmur; óljós; forsæluríkur
 shady l. forsæluríkur; svalur; [the ~ side] skuggahliðin; [on the ~ side of forty] yfir fertugt
 shaft n. skaft; stólpaleggur; trébolur; vagnstöng; strompur; spjótskaft; kastspjót; ör; námugöng
-shag n. strítt (lubbalegt) hár; stórgerð ló; toppskarfur; e.k. tóbak; kynmök (óforml.); s. ríða, eiga kynmök (óforml.)
+shag n. strítt (lubbalegt) hár; stórgerð ló; toppskarfur; e.k. tóbak; kynmök, samfarir (óforml.); s. ríða, eiga kynmök (óforml.)
 shaggy l. stríðhærður, lubbalegur; loðinn
 shagreen n. vönduð leðurtegund (höfð til bókbands)
 shake s. skaka, hrista; hagga; hristast, skjálfa; [~ hands] takast í hendur; taka í höndina á (e-m [with]); [~ off] hrista af sér, losast við; n. hristingur, skjálfti; rifa, sprunga (í viði); handartak, handarband ([~ of the hand]); ft. kalda, köldusótt
@@ -924,7 +923,7 @@ shipping n. siglingar; skipastóll, skip (ft.); [to take ~] stíga á skip; l. s
 shipping articles nft. skipráðningarsamningur (milli skipstjóra og háseta)
 shipping concerns n. siglingamálefni
 shipping disaster n. slys á sjó
-shipping interest n. skipaútgerð, skiptaútgerðarmenn
+shipping interest n. skipaútgerð, skipaútgerðarmenn
 shipshape l. farmannlegur, sem er í góðri reglu; ao. farmannlegur, sem er í góðri reglu
 shipwreck n. skipbrot; skipsflak; s. láta stranda; stranda; [to be ~ed] brjóta skip sitt, stranda
 shipwrecked l. strandaður; [~ seamen] skipbrotsmenn
@@ -1190,7 +1189,7 @@ sire n. faðir (í skáldskap, einnig um hesta); l. feðra afkvæmi ([he ~d seve
 siren n. söngdís, töfradís, sírena; þokulúður
 sirloin n. spjaldhryggjarstykki af nautgrip, lund ([a ~ steak])
 sirocco n. heitur sunnanvindur á Miðjarðarhafinu
-sirrah n. (í ávarpi) kunningi!
+sirrah n. (forn.) maður! (í ávarpi)
 sirup n. síróp
 sister n. systir
 sister-in-law n. mágkona
@@ -1261,7 +1260,7 @@ skip s. hoppa; hlaupa (stökkva) yfir (í lestri); n. hopp, stökk
 skipper n. hoppari; galgopi; skipstjóri á litlu kaupskipi
 skirl n. skrækur; s. skrækja
 skirmish n. smáorrusta; orðadeila; s. berjast í smáorustum
-skirt n. (frakka)laf; pils; jaðar, rönd; útskækill; þind (í skepnu); s. lykja um, liggja að röndinni (jaðrinum) á; [a plain ~ed by rows of trees] slétta, sem er umlukt af trjáröðum
+skirt n. (frakka)laf; pils; jaðar, rönd; útskækill; þind (í skepnu); s. sneiða hjá, forðast; lykja um, liggja að röndinni (jaðrinum) á; [a plain ~ed by rows of trees] slétta, sem er umlukt af trjáröðum
 skit n. háðrit ([a political ~]); skúr ([~ of rain]), él ([~ of snow])
 skittish l. styggur, fælinn; gáskafullur, léttúðugur, hviklyndur
 skittles nft. keilur, keiluleikur ([a game of ~])
@@ -1965,7 +1964,7 @@ sponsorship n. ábyrgð; guðsifjar
 spontaneity n. sjálfvilji, sjálfvild
 spontaneous l. ósjálfráður; sjálfvakinn; sjálfkrafa
 spontaneously ao. sjálfkrafa; af sjálfu sér
-spook n. draugur; njósnari (óforml.)
+spook n. draugur; njósnari (óforml.); s. hræða, fæla, styggja ([he ~ed the horses])
 spookical l. drauga-
 spool n. spóla; (tvinna)-kefli; riðil; s. spóla
 spoon n. spónn, skeið
@@ -2658,7 +2657,7 @@ suborn s. lokka e-n til meinsæris; koma til leiðar (með slægð eða brögðu
 subornation n. lokkun (til meinsæris eða illræðis); mútugjöf, mútur
 subpoena s. stefna vitni (að viðlagðri refsingu); n. stefna
 subreption n. svikaklófesting, svik, táldrægni
-subscribe n. vera áskrifandi að ([~ to a newspaper]); skrifa (nafn sitt) undir; skrifa sig fyrir ([~ for a book]); skjóta saman ([~ money]); samþykkja
+subscribe s. vera eða gerast áskrifandi að ([~ to a newspaper]); skrifa (nafn sitt) undir; skrifa sig fyrir ([~ for a book]); skjóta saman ([~ money]); samþykkja
 subscriber n. áskrifandi
 subscription n. undirskrift; (fjár)tillag; samskot
 subsequent l. eftirfarandi, seinni
@@ -3104,7 +3103,7 @@ swordship n. skylmingalist
 sybarite n. sællífismaður, munaðarlífsmaður
 sybaritism n. sællifi
 sycamore n. mórberjafíkjutré; hlynur
-sycophancy n. smjaður
+sycophancy n. undirlægjuháttur, sleikjuháttur, smjaður
 sycophant n. smjaðrari, höfðingjasleikja; s. smjaðra fyrir e-m
 syenite n. sýenít (steintegund sem líkist granít)
 syllabic l. samstöfulegur

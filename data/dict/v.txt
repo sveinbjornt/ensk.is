@@ -1,7 +1,7 @@
 vacancy n. starfshlé, iðjuleysi; bil, skarð ([fill up a ~]); eyða; autt (tómt) rúm; tómleiki; laust embætti ([~ of an office])
 vacant l. auður ([a ~ space]); ónotaður; tómur; laus ([a ~ office]); aðgerðarlaus; hugsunarlaus; sviplaus, ógreindarlegur ([a ~ face]); [become ~] losna (um embætti); [~ hours] tómstundir
 vacate s. fara frá, segja af sér (embætti); rýma ([~ a seat]); ónýta, ógilda; [be ~d] losna
-vacation n. ógilding; lausn (embættis); leyfi (frá dómstörfum eða bóknámi)
+vacation n. frí, leyfi, orlof; ógilding; lausn (embættis); leyfi (frá dómstörfum eða bóknámi)
 vaccinate s. bólusetja
 vaccination n. bólusetning
 vaccinator n. bólusetjari
@@ -41,7 +41,7 @@ valiancy n. hreysti, hugprýði
 valiant l. hraustur, hugaður
 valiantly ao. hreystilega
 valid l. gildur
-validate l. staðfesta
+validate s. staðfesta
 validation n. löggilding
 validity n. gildi
 valise n. (leður)taska, ferðataska
@@ -88,7 +88,7 @@ variola n. bóla, bólusótt
 variolous l. bóluveikur; bólu-
 various l. ýmislegur, margvíslegur; breytilegur
 varix n. æðahnútur
-varices nft. æðahnútur
+varices nft. æðahnútar
 varlet n. þjónn; bófi, þorpari; þjónalið
 varnish n. gljákvoða; gljái; s. bera gljákvoðu á; fegra
 vary s. breyta; gera breytilegt; breytast; vera misjafn; vera ólíkur (e-m [from])
@@ -205,7 +205,7 @@ verisimilitude n. sennileiki; sannlíki; líkindi
 veritable l. sannur, sannarlegur
 verity n. sannleikur; [of ~] í sannleika
 verjuice n. súr mjöður
-vermicelli nft. hveitispípur, núðlur (ítalskur réttur)
+vermicelli n. hveitispípur, núðlur (ítalskur réttur)
 vermicular l. líkur ormi í lögun eða hreyfingum, ormslegur, orma-
 vermiculate l. líkur ormi í lögun eða hreyfingum, ormslegur, orma-
 vermiculation n. ormsleg hreyfing
@@ -272,10 +272,9 @@ vicar n. varamaður; aðstoðarprestur
 vicarage n. (aðstoðar)prestsembætti; prestssetur
 vicarious l. sem er í stað annars ([~ work])
 vice n. löstur, ódyggð; galli; skrúfstykki
-vice- fsk. undir-; vara-; sjá t.d. %[viceroy]%, %[viceregent]%, %[vice-president]%
+vice- fsk. undir-; vara-; sjá t.d. %[viceroy]%, %[vice-regent]%, %[vice-president]%
 viceregency n. umboð
-viceregent n. umboðsmaður; varastjórnandi, vararíkisstjóri
-vice-regent n. sjá %[viceregent]%
+vice-regent n. umboðsmaður; varastjórnandi, vararíkisstjóri
 vice-president n. varaforseti
 vice-regal l. undirkonunglegur
 viceroy n. jarl, undirkonungur
@@ -307,8 +306,8 @@ vigorous l. kröftugur, öflugur
 viking n. víkingur
 vile l. níðingslegur, svívirðilegur; andstyggilegur
 vileness n. níðingsskapur, fúlmennska
-vilification n. smánun, svívirðing, ræging, ófræging, að gera e-n að illmenni
-vilify s. smána, svívirða, rægja, ófrægja, gera að illmenni
+vilification n. smánun, svívirðing, ræging, ófræging, sverting mannorðs, að gera e-n að illmenni
+vilify s. smána, svívirða, rægja, ófrægja, sverta mannorð, gera að illmenni
 villa n. landsetur, einbýlishús, villa
 village n. þorp, smábær
 villager n. þorpsbúi
@@ -413,7 +412,7 @@ vivify s. lífga, fjörgá
 viviparous l. sem fæðir lifandi unga
 vivisect s. kvikskera, skera upp lifandi dýr
 vivisection n. kvikskurður, uppskurður lifandi dýra
-vixen n. tófa, tæfa, refalæða; kvenskass; tálkvendi ()
+vixen n. tófa, tæfa, refalæða; kvenskass; tálkvendi (óforml.)
 viz ao. nefnilega; vanalega lesið [namely] (stytt. úr latínu, [videlicet])
 vizier n. vesír, tyrkneskur ráðgjafi
 vocable n. orð

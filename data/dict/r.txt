@@ -136,7 +136,7 @@ rarity n. fágætur hlutur; fágæti; strjálleiki; [be of the greatest ~] vera 
 rascal n. fantur; bófi
 rascality n. fantaskapur, óþokkaskapur
 rascally l. fantalegur, níðingslegur
-rase s. skafa út; afmá, brjóta niður (vígi), jafna með jörðu ([~ to the ground]); rispa ([~ the skin])
+rase s. sjá %[raze]%
 rash l. framhleypinn, hvatvís; hvatvíslegur; n. útbrot á hörundi
 rashness n. hvatvísi, framhleypni, flan; fífldirfska
 rasher n. þunn sneið (af kjöti eða fleski, [a ~ of bacon])
@@ -175,7 +175,7 @@ rattle s. skrölta, hringla, glamra; masa; láta skrölta; tala í sífellu, lá
 rattlebrained l. gálaus; málugur; flumúsa
 rattleheaded l. gálaus; málugur; flumúsa
 rattlesnake n. skellinaðra
-rattletrap n. skrapatól, vagnskrifli; ft. glingur
+rattletrap n. skrapatól, vagnskrifli. nft. [~s] drasl, skran
 rattling n. skrölt; hrygla ([~ in the throat]); l. skröltandi, hringlandi; málskapsmikill; hraður, skjótur ([off we went at a ~ pace]); ao. [~ good] afbragðsgóður
 raucity n. hæsi, ræma
 raucous l. hás, rámur
@@ -1100,7 +1100,7 @@ reveille n. fótaferðarbumbusláttur eða lúðurblástur
 revel s. svalla, slarka; [~ in] njóta (e-s) óhóflega; [~ in luxury] lifa í gegndarlausu óhófi; n. svall, slark, hávaðasöm drykkjuveisla
 reveller n. svallari, slarkari
 revelry n. svall, slark, hávaðasöm veisla ([drunken ~])
-revelation n. opinberun; nft. opinberunarbók Jóhannesar ([the Book of Revelations])
+revelation n. opinberun; opinberunarbók Jóhannesar ([the Book of Revelation])
 revenge s. hefna e-s; [~ oneself on, to be ~d on a person] hefna sín á e-m; [~ an injury on one] hefna e-m fyrir meingerð; n. hefnd; hefndargirnd
 revengeful l. hefnigjarn, hefndargjarn
 revenger n. hefnari
@@ -1157,7 +1157,7 @@ revolutionary l. stjórnarbyltingar- ([~ war]); byltingagjarn; n. byltingarmaðu
 revolutionism n. byltingastefna
 revolutionist n. stjórnbyltingarmaður, uppreisnarmaður
 revolutionize s. umbylta algjörlega; gera stjórnarbyltingu í ([~ a country])
-revolve n. snúningur; s. snúa (e-u) í hring; hugsa um, búa yfir, velta e-u fyrir sér ([~ in one's mind]); snúast í hring ([the earth ~s both round or about the sun and on its axis])
+revolve s. snúa (e-u) í hring; hugsa um, búa yfir, velta e-u fyrir sér ([~ in one's mind]); snúast í hring ([the earth ~s both round or about the sun and on its axis])
 revolver n. marghleypa
 revulsion n. andstyggð; snögg breyting, skjót umskipti ([~ of feeling, of mind]); snöggur afturkippur
 reward n. laun, umbun, verðlaun, endurgjald; s. launa, umbuna, endurgjalda
@@ -1444,7 +1444,7 @@ round-shouldered l. ávalur á bakið
 rouse s. vekja; hvetja, eggja; reka upp; vakna; n. drykkja
 rout n. hávaðaflokkur; uppþot; mannmargt kvöldsamkvæmi; tvístrun (herliðs); flótti; s. reka á flótta, tvístra; róta upp (með trýninu); reka á fætur ([~ up, out]); reka
 route n. vegur, leið ([go by a different ~]); [en ~ for] á leið til
-routine l. venjuleg störf, vanaiðja, vani; [to settle into fixed ~] verða að fastri venju
+routine n. vani; l. venjuleg störf, vanaiðja, vani; [to settle into fixed ~] verða að fastri venju
 rove s. ráfa, reika (um); n. lopi, togi (af ull), lyppa
 rover n. vegfarandi; flakkari; sjóræningi, víkingur
 roving l. reikandi, umfarandi ([~ sailor]); n. reik, flakk

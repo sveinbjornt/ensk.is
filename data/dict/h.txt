@@ -90,7 +90,7 @@ handcuff n. handjárn, handfjötur; s. leggja handjárn/handfjötur á
 handful n. handfylli, hnefi, lúka; lítill hópur
 hand glass n. glerklukka (yfir plöntum); stækkunargler; handspegill
 hand grenade n. handsprengja
-handgrip n. handartak ([with his warmest ~]); ft. handalögmál ([to come to ~])
+handgrip n. handartak ([with his warmest ~]); nft. handalögmál ([to come to ~s])
 handhold n. handfesti; -festa
 handicap n. e.k. jafnaðarkappreið; trafali, hindrun, tálmi; s. taka þátt í þ.k. kappreið; jafna sigurlíkurnar hjá ójöfnum keppendum; tálma, hindra
 handicraft n. handiðn
@@ -769,7 +769,7 @@ hoofed l. með hófa, hæfður ([broad-, flat-, solid-~]); hóftroðinn
 hoofless l. hóflaus
 hook n. krókur; öngull; sigð; [by ~ or by crook] á einhvern hátt; [~s and eyes] krókar og lykkjur, krókapör; s. krækja; stanga
 hooked l. krókboginn
-hooker n. dugga, skúta; vændiskona
+hooker n. vændiskona; dugga, fiskiskúta
 hooknose n. kónganef
 hooknosed l. með kónganef
 hooky l. krókóttur, hlykkjóttur

@@ -22,7 +22,7 @@ ultimately ao. að lokum, um síðir
 ultimatum n. síðasta sáttaboð
 ultimo ao. í fyrra mánuði
 ultra- fsk. ákaflega; fyrir handan; út-; sjá t.d. %[ultramarine]%, %[ultraliberal]%
-ultraism n. svæsni (í stjórnarefnum)
+ultraism n. öfgar (í stjórnarefnum)
 ultraist n. öfgamaður
 ultraliberal l. ákaflega frjálslyndur
 ultramarine l. sem er fyrir handan haf; n. heiðblár litur
@@ -139,7 +139,7 @@ uncommon l. óalgengur; óvenjulegur
 uncommonly ao. óvenjulega
 uncomplying l. óeftirlátsamur, þrár
 uncompromising l. ótilhliðrunarsamur, óundanlátsamur; ósveigjanlegur
-unconcern l. afskiptaleysi; áhyggjuleysi
+unconcern n. afskiptaleysi; áhyggjuleysi
 unconcerned l. afskiptalaus; áhyggjulaus
 unconditional l. skilyrðislaus, skilmálalaus ([~ victory, aid])
 unconfined l. ótakmarkaður; óbundinn
@@ -174,7 +174,7 @@ under fs. & ao. undir; fyrir neðan; í samsetningum: undir-, neðan-; [~ arms] 
 underbid s. bjóða lægra en, bjóðast til að gera e-ð fyrir minna verð en e-r annar
 underbred l. illa menntaður
 underclothes nft. nærföt
-underclothing nft. nærföt
+underclothing n. nærföt
 undercroft n. hvelfing undir kórnum (í kirkju); jarðgöng
 underdone l. lítið steiktur, linsteiktur ([~ meat])
 underfoot ao. undir fótum; fyrir neðan, undir
@@ -335,7 +335,7 @@ uni- fsk. ein-
 unicorn n. einhyrningur
 unicornous l. einhyrndur
 uniform l. einsleitur, tilbreytingarlaus; jafn; óbreyttur; n. einkennisbúningur
-uniformity n. einsleitni, tilbreytingarleysi; óbreytanleiki; ósamkvæmni; [act of ~] lög um hina sömu kirkjusiði í ensku kirkjunni
+uniformity n. einsleitni, tilbreytingarleysi; óbreytanleiki; samkvæmni; [act of ~] lög um hina sömu kirkjusiði í ensku kirkjunni
 unify s. sameina
 unimaginable l. óhugsanlegur
 unimpaired l. óveiktur; óskaddur; óskertur
@@ -435,7 +435,7 @@ unowned l. eigandalaus; ekki viðurkenndur
 unpack s. taka (leysa) upp
 unpaid l. ógoldinn
 unpalatable l. óætur, óljúffengur; óþægilegur
-unparalleled l. viðjafnanlegur; dæmalaus
+unparalleled l. óviðjafnanlegur; dæmalaus
 unpardonable l. ófyrirgefanlegur
 unparliamentary l. gagnstæður þingsköpum; gagnstæður venjum löggjafarþinga
 unpaved l. ósteinlagður
@@ -633,7 +633,7 @@ upheaval n. upphækkun
 upheave s. hefja upp
 uphill l. sem liggur upp eftir hæð; örðugur; ao. upp í móti
 uphold s. halda (e-u) uppi
-upholsterer n. veggfóðrari; bólstrari; húsgagnasali
+upholsterer n. bólstrari
 upland n. upplendi, hálendi
 uplander n. upplendingur
 uplift s. lyfta upp
@@ -707,4 +707,4 @@ uttermost l. ystur; mestur
 utterable l. segjanlegur
 utterance n. framburður; mál; orð; [give ~ to] láta í ljós, koma orðum að e-u
 uvula n. úfur
-uxorious l. sem elskar konu sina fram úr hófi
+uxorious l. sem elskar konu sína fram úr hófi

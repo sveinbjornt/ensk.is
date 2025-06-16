@@ -15,7 +15,7 @@ gadfly n. broddfluga, gaddafluga
 gadwall n. litla gráönd, gargönd ([anas strepera])
 Gael n. írskur eða skoskur Kelti, Háskoti
 Gaeldom n. Háskotaland
-Gaelic l. keltneskur, háskoskur; n. háskoska; keltneska; írska
+Gaelic l. gelískur; skoskur; n. (skosk) gelíska
 gaff n. greypirá, seglás; ífæra; s. krækja (fisk)
 gaffer n. karltetur; kunningi; verkstjóri, formaður
 gag s. kefla; troða upp í e-n; gabba; n. munnkefli, ginkefli
@@ -27,13 +27,13 @@ gain s. fá ([~ a victory]); ná (komast) til ([~ the opposite bank of a river])
 gainable l. fáanlegur
 gainer n. vinnandi
 gainful l. ábatasamur, arðsamur
-gainings nft. gróði
+gainings nft. gróði, ágóði
 gainly l. geðslegur
 gainsay s. mótmæla; [there is no ~ing this] það er ekki hægt að mótmæla þessu
 gainsayer n. mótmælandi
 gait n. gangur, göngulag
 gaiter n. leggbjörg, legghlíf
-gala n. viðhafnarbúningur ([~ dress]); viðhafnarsamkoma
+gala n. viðhafnarsamkoma; viðhafnarbúningur ([~ dress])
 galactic l. mjólkur-; vetrarbrautar- ([~ circle])
 galaxy n. stjörnuþoka; vetrarbraut; glæsilegur hópur, glæsilegt safn
 gale n. hvassviðri, stormur
@@ -56,7 +56,7 @@ Gallicize s. gera franskt
 gallimaufry n. samsull
 gallinaceous l. hænsna- ([~ fowls])
 galling l. meiðandi, særandi
-gallist n. léttiskúta
+galiot n. léttiskúta
 gallipot n. smyrslakrukka úr leir
 gallon n. gallon
 galloon n. borði, legging
@@ -144,7 +144,7 @@ gasometer n. gasgeymir
 gaseous l. gaskynjaður
 gasconade n. gort, grobb; s. gorta, monta
 gash s. skera (höggva) djúpt í hold; n. djúpur og langur skurður
-gasp s. draga þungt andann, taka andköf, standa á öndinni; [~ for air] súpa hveljur til að ná andanum; n. þungur andardráttur; [to be at the last ~] vera í andarslitrunum
+gasp s. draga þungt andann, taka andköf, standa á öndinni; [~ for air] súpa hveljur til að ná andanum; n. andköf; þungur andardráttur; [to be at the last ~] vera í andarslitrunum
 gassy l. gaskynjaður, gas-; raupsamur, grobbinn
 gasteropod n. kviðfætingur; ft. [~s, ~as]
 gastric l. maga-
@@ -175,7 +175,7 @@ gaze s. stara, blína (á e-ð [at, on, upon]); n. starandi augnaráð
 gazelle n. gasella (antilóputegund)
 gazette n. auglýsingablað; lögbirtingablað; s. auglýsa (embættaveitingar o.þ.h.)
 gazetteer n. fréttaritari; landfræðisleg orðabók
-gear n. gír; verkfæri, áhöld; akreiði; reiðver, reiðtygi ([riding ~]); búningur, föt; gangskiptir (í vél); [out of ~] í ólagi; s. klæða; láta akreiða á ([~ up]); falla í (um tennur í tveimur hjólum); agnúast ([~ into each other])
+gear n. gír; verkfæri, áhöld; akreiði; reiðver, reiðtygi ([riding ~]); búningur, föt; gangskiptir (í vél); [out of ~] í ólagi; s. klæða; búa sig undir, undirbúa sig ([~ up]); falla í (um tennur í tveimur hjólum); agnúast ([~ into each other])
 gelatine n. gel, hlaup; matarlím
 gelatinous l. hlaupkenndur ([the ~ part of the blood])
 gelatinate s. gera að hlaupi, láta storkna
@@ -492,7 +492,7 @@ gonfanon n. fáni, merki, gunnfáni
 gong n. borðklukka ([dinner-~])
 good l. góður (við e-n [to, towards]); góður og gildur ([a ~ excuse]); (um lyf) góður við e-u ([~ for wounds]); [to be ~ enough to, so ~ as to] vera svo vænn að, gera svo vel að (og); uh. gott! rétt! [~ six hours] rúmar (fullar) sex stundir; [for ~] fyrir fullt og allt; [~ for nothing] til einskis nýtur; [~ at] leikinn (fimur) í; [in ~] af alhuga, með kappi; [in ~ time] í tæka tíð; [he is as ~ as his word] hann efnir það sem hann lofar, hann er áreiðanlegur; [to make ~] bæta upp ([to make ~ a deficiency]); færa sönnur á; efna, standa vi e-ð ([one's promise]); koma (e-u) fram; [he made ~ his passage] hann ruddi sér braut; [to last ~] haldast óskemmdur; [as ~ as] sama sem ([to make no visits, or as ~ as none]); [to come to ~] verða til góðs, leiða gott af sér; n. hagur ([for the ~ of mankind]); gæði ([the highest ~]); [it is no ~] það er gagnslaust, til einskis; nft. [~s] vörur; eigur
 good breeding n. kurteisi
-goodbye uh. vertu sæll!; n. kveðja ([we said our ~s])
+goodbye uh. vertu sæll!; bless!; n. kveðja ([we said our ~s])
 good-for-nothing l. til einskis hæfur (nýtur); n. ónytjungur
 good-humoured l. góðlyndur; glaðlyndur
 goodish l. dágóður; riflegur ([a ~ sum of money])
@@ -585,7 +585,6 @@ grammatical l. málfræði-, sem lýtur að málfræði eða málmyndalýsingu,
 grammatically ao. málfræðilega
 gramme n. gramm
 gramophone n. plötuspilari, grammófónn
-grammophone n. plötuspilari, grammófónn
 grample n. krabbi
 grampus n. háhyrningur
 granary n. kornhlaða, kornloft, kornbúr, kornforðabúr
@@ -818,7 +817,7 @@ grower n. sá sem vex o.s.frv.; yrkjandi, ræktari; [a slow ~] sem er seinn að 
 growl s. urra; nöldra, mögla; n. urr; mögl
 growler n. nöldrari
 growth n. vöxtur; rækt, ræktun; afurðir, gróður; [a beard of a week's ~] vikugamalt skegg
-grub s. grafa (upp) með rótum ([up]); n. maðkur, bjöllulirfa, matur (óforml.)
+grub s. grafa (upp) með rótum ([up]); n. maðkur, bjöllulirfa; matur, maul (óforml.)
 grudge s. sjá eftir e-u; horfa í e-ð ([~ the cost]); telja (e-ð) eftir (e-m); [they did not ~ us our ...] öfunduðu okkur ekki af ...; [he ~s no pains] hann telur ekki eftir sér neina fyrirhöfn; n. öfund, ímugustur, kali; [he never bore a ~ long] hann var ekki langrækinn
 grudger n. öfundarmaður, óvildarmaður
 grudging n. eftirtölur; öfund

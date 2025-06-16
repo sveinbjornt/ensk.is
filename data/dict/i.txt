@@ -127,9 +127,9 @@ imbecility n. sljóleiki (vitsmuna); vanmáttur
 imbed s. sjá %[embed]%
 imbibe s. drekka (soga) í sig ([~ knowledge, moisture])
 imbody s. sjá %[embody]%
-imbolden s. sjá %[embody]%
-imbosom s. sjá %[embody]%
-imbower s. sjá %[embody]%
+imbolden s. sjá %[embolden]%
+imbosom s. sjá %[embosom]%
+imbower s. sjá %[embower]%
 imbricate l. liggjandi hver yfir öðrum, skaraður
 imbricated l. liggjandi hver yfir öðrum, skaraður
 imbroglio n. flækja
@@ -447,7 +447,7 @@ incantation n. særing; særingarljóð, galdraljóð
 incantatory l. særingar-; galdra-
 incapability n. óhæfileiki
 incapable l. óhæfur til ([of]), ekki fær (um); n. ónytjungur
-incapacitate s. gera hæfan (til e-s [for])
+incapacitate s. gera óhæfan, gera ófæran (til e-s [for])
 incapacity n. vanmáttur, skortur á hæfileika
 incarcerate s. setja í fangelsi, loka inni, fjötra
 incarceration n. haldsetning. fangelsun
@@ -955,7 +955,7 @@ innkeeper n. veitingamaður
 innate l. meðfæddur, meðskapaður ([~ moral feelings])
 innavigable l. óskipgengur ([the river was ~])
 inner l. innri
-innermost n. innstur
+innermost l. innstur
 inning n. hirðing (korns)
 innocence n. sakleysi; meinleysi
 innocent l. saklaus; meinlaus; n. sakleysingi. meinleysingi
@@ -971,7 +971,7 @@ innumerous l. óteljandi
 innutritious l. sem hefur ekkert eða lítið næringargildi
 innutritive l. sem hefur ekkert eða lítið næringargildi
 inobservance n. athugaleysi; hirðuleysi; brot (á e-u [of])
-inobservant n. athugalaus
+inobservant l. athugalaus
 inoccupation n. iðjuleysi
 inoculate s. bólusetja; gróðursetja viðargrein (í annað tré); koma e-u inn hjá e-m ([~ one with wisdom, bad spirits])
 inoculation n. bólusetning; gróðursetning
@@ -1558,7 +1558,7 @@ issuer n. útgefandi
 isthmus n. eiði
 it fn. það; [~ rains] það rignir
 Italian l. ítalskur; n. Ítali; ítalska
-Italianism n. ítölskusletta, ítalskt máleðli í öðrum málum; samúð með ítölum
+Italianism n. ítölskusletta, ítalskt máleðli í öðrum málum; dálæti á öllu ítölsku
 Italianize s. gera ítalskt, setja ítalskan blæ á e-ð
 Italic l. fornítalskur
 italics nft. skáletur

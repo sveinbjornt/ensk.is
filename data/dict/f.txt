@@ -1,7 +1,7 @@
 fable n. dæmisaga, skröksaga; tilbúningur, ósannindi; s. segja frá (eins og í dæmisögu); skrökva upp
 fabler n. skröksöguhöfundur
 fabric n. efni; bygging; vefnaður; vefnaðarvara
-fabricate s. búa til; ljúga upp ; falsa
+fabricate s. búa til; ljúga upp; falsa
 fabrication n. smíði; tilbúningur; skrök, lygi; fölsun
 fabricator n. smiður; höfundur
 fabulist n. dæmisagnahöfundur
@@ -20,11 +20,11 @@ facsimile n. nákvæm eftirstunga (eftirprentun) skrifleturs
 fact n. staðreynd, sannreynd; verk, athöfn; atriði, hlutur; [nearer the ~] nær sanni; [in ~] í raun og veru
 faction n. flokkur (í stjórnmálum); flokkadráttur
 factious l. óeirðarfullur
-factitious l. íþróttalegur; uppgerður
+factitious l. uppgerður
 factitiousness n. uppgerð
 factor n. umboðsmaður (kaupmanns)
 factorage n. umboðssala; umboðslaun
-factory n. stór verksmiðja, umboðsverslunarhús
+factory n. stór verksmiðja; umboðsverslunarhús (forn.)
 facultative l. kjörfrjáls
 faculty n. hæfileiki; vitsmunir ([mental ~]); háskóladeild; réttur, heimild; stétt
 fad n. tíska, stundaræði; duttlungur
@@ -51,7 +51,7 @@ fair-faced l. bjartleitur; friður
 fair-haired l. ljóshærður
 fairly ao. hreinskilnislega; greinilega; alveg; dável, þokkalega
 fairness n. fegurð; hreinskilni
-fair-spoken n. blíðmáll, kurteis
+fair-spoken l. blíðmáll, kurteis
 fairing n. markaðargjöf
 fairy n. álfur, álfkona; samkynhneigður maður (niðrandi)
 faith n. trú ([the Christian ~]); trúnaður; tryggð; traust ([nothing can change my ~ in you]); heit ([break one's ~]); [give ~ to] leggja trúnað á e-ð; [in good ~] í grandleysi; [in the ~ of] í trausti til e-s; [in ~ thereof] þessu til staðfestingar
@@ -61,7 +61,7 @@ faithfulness n. tryggð, trúmennska, trúfesti, hollusta
 faithless l. sviksamlegur; ótrúr; ótryggur
 faithlessness n. trúleysi; ótrúmennska
 fake n. bragð, svik; uppspuni; falsaður hlutur; l. falsaður; gervi-; s. svíkja, falsa; ræna, særa
-fakir s. fakír, indverskur förumunkur
+fakir n. fakír, indverskur förumunkur
 falchion n. stutt sverð
 falcon n. fálki, valur
 falconer n. fálkaveiðimaður
@@ -76,7 +76,7 @@ fallow deer n. dádýr
 false l. falskur, ósannur; skakkur, rangur, ótrúr; uppgerður; [a ~ coin] falspeningur
 falsehood n. ósannindi, lygi
 falseness n. ótrúmennska, sviksemi
-falsetto s. mjórödd í söng
+falsetto n. mjórödd í söng
 falsification n. fölsun
 falsificator n. falsari
 falsifier n. falsari
@@ -148,7 +148,7 @@ fast l. fljótur; hraðskreiður; fastur; víggirtur; harðlæstur ([the door wa
 fasten s. festa, binda (negla) fast; festast; loða (við [to])
 fastness n. festa; hraði; vígi
 fast n. fasta; s. fasta
-fast day n. föstudagur
+fast day n. dagur til föstu, föstu-dagur
 fastidious l. vandfýsinn; vandlátur; þóttafullur
 fasting n. fasta
 fat l. feitur; frjór (um jarðveg); n. fita; spik; mör; s. fita, ala
@@ -421,7 +421,7 @@ filibuster n. málþóf; sjóræningi, víkingur; s. beita yfirgangi; ræna, far
 filigree n. víravirki ([~ work])
 fill s. fylla; seðja; hella (á staup); skipa (embætti); fyllast; n. fylli, nægja; [eat one's ~] éta fylli sína
 fillet n. flak, fiskflak; lund, vöðvakjöt, kjötströngull; hárband, skarband; s. binda (hárband) um
-fillibeg n. knépils (Háskota)
+filibeg n. knépils (Háskota)
 fillip n. selbiti; s. gefa selbita
 fillister n. gróphefill
 filly n. ung hryssa, folald; gáskafull stúlka
@@ -560,7 +560,6 @@ fixity n. festa ([~ of purpose])
 fixture n. festing, festa; ft. munir, sem fylgja ábúð eða húsi, naglfastir búshlutir
 fizgig n. flugeldur; e.k. skutull; glingur; duttlungur
 fizz n. snark, suða, hvinur; freyðandi vín; s. suða, hvína
-fiz n. snark, suða, hvinur; freyðandi vín; s. suða, hvína
 flabbergast s. gera e-n orðlausan (klumsa)
 flabbiness n. linleiki
 flabby l. linur átaks, hvaplegur, þvalur
@@ -710,7 +709,6 @@ florist n. blómsturyrkjumaður; blómsturfræðingur
 florin n. gyllini
 flotation n. það að halda e-u á floti eða uppi
 flotsam n. vogrek, rekald
-flotson n. vogrek, rekald
 flounce s. brjótast um; busla; strunsa ([~ off, away]); leggja, brydda (fat); n. leggingar
 flounder n. koli, lúða; s. brjótast um, velta sér, veltast
 flour n. smátt mjöl, hveitimjöl; s. mala smátt; sáldra mjöli á
@@ -986,7 +984,7 @@ forwarder n. frömuður, styrktarmaður
 forwardness n. framgirni, ákafi; ófeilni; bráðþroski (barns eða gróðurs)
 forworn l. af sér genginn
 fosse n. virkisskurður, -gröf
-fossil n. steingervingur; [~ fuel] jarðefnaeldsneyti (t.d. olía, gas, kol)
+fossil n. steingervingur
 fossilize s. gera (eða verða) að steini
 fossorial l. grafandi; graftar-
 foster s. fóstra; ala; efla, auka
@@ -1068,7 +1066,7 @@ fraternally ao. bróðurlega
 fraternity n. bróðerni; bræðralag; bræðrasamband, bræðrafélag
 fraternize s. lifa saman sem bræður (í bróðerni); gera bræðrasamband
 fratricide n. bróðurbani; bróðurmorð
-fraud n. svik, undirferli, brögð; svikari
+fraud n. svik, undirferli, brögð; (um mann) svikari
 fraudful l. prettvís, brögðóttur
 fraudulence n. sviksemi, prettvísi
 fraudulent l. prettvís, sviksamlegur; [with a ~ intention] í sviksamlegum tilgangi
@@ -1328,7 +1326,7 @@ fury n. æði, ofsi; refsinorn, kvenskass ([female ~])
 furze n. þyrnirunni af ættkvíslinni [Ulex]
 furzy l. vaxinn þyrnirunna (sjá %[furze]%); daufur, óskýr
 fuse s. bræða; steypa (sjóða) saman; vaxa saman; bráðna; n. tundurpípa (í sprengikúlu), sprengiþráður
-fusee n. sjá %[fuse]%; spinnill (í úri); kveikispýta; létt byssa ([fusil])
+fusee n. sjá %[fuse]%; spinnill (í úri); kveikispýta
 fusibility n. bræðanleiki
 fusible l. bræðanlegur
 fusil n. létt byssa

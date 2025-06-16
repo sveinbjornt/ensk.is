@@ -1,13 +1,13 @@
 yacht n. snekkja, lystisnekkja, skemmtiskip; s. sigla á snekkju, lystisnekkju, skemmtiskipi
 yachting n. siglingar á snekkju, skemmtiskipi; [~ match] kappsigling á skemmtiskipum
 yak n. jakuxi (í Mið-Asíu)
-Yankee n. janki (íbúi Bandaríkjanna)
-Yankee-doodle n. bandarískur þjóðsöngur
+Yankee n. janki (oftast notað af útlendingum um Bandaríkjamann); (innan Bandaríkjanna) íbúi Nýja-Englands eða Norðurríkjanna
+Yankee-doodle n. þekkt bandarískt ættjarðarlag
 yap n. gjamm, gelt; s. gjamma, gelta
 yard n. ensk alin, stika (3 ensk fet eða rúmlega 91 sm); rá; garður (fyrir framan eða í kringum hús eða hlöðu); s. byrgja inni í garði
 yardarm n. ráararmur, ráarendi
 yard measure n. stikumál
-yardstick n. enskur kvarði
+yardstick n. stikumál, alinarkvarði; mælikvarði, viðmið
 yardwand n. enskur kvarði
 yarn n. spunnið band; garn; [to spin a ~] segja langa sögu
 yarrow n. vallhumall
@@ -39,9 +39,9 @@ yerk s. slá (um hesta)
 yes ao. já (gagnstætt %[no]%)
 yester l. sem var í gær
 yesterday n. gærdagur(inn), dagurinn í gær; ao. í gær
-yesterday night n. kvöldið í gær; n. í nótt (er var); í gærkvöldi
+yesterday night n. kvöldið í gær, gærkvöldið; ao. í gærkvöldi; í nótt (er var)
 yet ao. enn þá, enn; hingað til; þó, samt; jafnvel; [as of ~] enn sem komið er; [not ~] ekki enn; [nor ~] og ekki heldur
-yew n. ýr, ýviður (e.k. linditré)
+yew n. ýr, ýviður (barrtré)
 yewen l. úr ýviði
 yield s. veita, láta í té; gefa af sér ([the land ~s good crops]); gefa upp ([~ a fortress, ~ oneself prisoner]); láta af (e-u); láta undan, víkja; gefast upp; standa á baki (e-u [to]); [~ the breath] andast; [~ to idle ways] leggjast í iðjuleysi; n. afrakstur, afurðir; ábati
 yielding l. mjúkur; eftirlátur, eftirlátsamur, sem gefur eftir

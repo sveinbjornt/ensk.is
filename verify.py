@@ -87,6 +87,14 @@ def check_punctuation(line: str, pn: str, ln: int):
         warn("curly brackets error", pn, ln)
     if "=" in line:
         warn("= in line", pn, ln)
+    if " , " in line:
+        warn("comma with spaces", pn, ln)
+    if " ; " in line:
+        warn("semicolon with spaces", pn, ln)
+    if " . " in line:
+        warn("period with spaces", pn, ln)
+    if " : " in line:
+        warn("colon with spaces", pn, ln)
     if (
         line.endswith(" ")
         or line.endswith(";")

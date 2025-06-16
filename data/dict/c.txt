@@ -2,11 +2,11 @@ cab n. leigubíll, leiguvagn s. flytja (aka) í leigubíl, leiguvagni
 cabman n. vagnstjóri, ekill
 cabal n. leynisamtök, svikræði; s. beita brögðum, hafa leynisamtök
 caballer n. bragðarefur
-cabbage n. kál; kálhöfuð; afklippur; s. hnupla
+cabbage n. kál; kálhöfuð; s. hnupla
 cabbala n. leynispeki
 cabalistic l. leyndardómsfullur; leynisamtaka-, svikræðis-
 cabin n. kofi, káeta
-cabinet n. ráðsamkomusalur; ráðuneyti; skápur; [Cabinet Minister] forsætisráðherra; [~ council, ~ meeting] ríkisráð
+cabinet n. ráðsamkomusalur; ráðuneyti; skápur; [Cabinet Minister] ráðherra; [~ council, ~ meeting] ríkisráð
 cabinet-maker n. húsgagnasmiður, skápasmiður
 cable n. kapall, kaðall, akkerisfesti; sæsími; s. reyra; binda; senda símskeyti (með sæsíma)
 caboose n. eldakompa (í skipi); eldstó, eldavél
@@ -100,7 +100,7 @@ campaigner n. gamall hermaður
 campbed n. ferðarúm, beddi
 camphor n. kamfóra; [~ oil] kamfóruolía; [~ essence] kamfórudropar
 camphorated l. kamfóru- ([~ oil])
-can n. kanna; dós; reka starfsmann ([he got ~ned]); s. geta; aðeins haft í nútíð og þátíð ([I can, I could], ég get, ég gæti)
+can n. kanna; dós; reka starfsmann ([he got ~ned]); s. geta; aðeins haft í nútíð og þátíð ([I can, I could], ég get, ég gæti); niðursjóða (og setja í dós)
 could s. gæti (sjá %[can]%)
 canal n. síki, skurður, kanall
 canalize s. grafa skurð eða síki í gegnum
@@ -250,7 +250,7 @@ cardamom n. kardimomma, kardimommujurt (kryddjurt frá Austur-Indlandi og Kína)
 cardiac l. hjarta-; hjartastyrkjandi; n. hjartastyrkjandi lyf
 cardiac arrest n. hjartastopp
 cardigan n. prjónavesti
-cardinal l. helstur, aðal-, höfuð-; [~ numbers] höfuðtölur, frumtölur; [~ points] höfuðáttir; [~ virtues] höfuðdyggðir; n. kardínáli; höfuðtala, frumtala; höfuðdyggð
+cardinal l. helstur, aðal-, höfuð-; [~ numbers] höfuðtölur; [~ points] höfuðáttir; [~ virtues] höfuðdyggðir; n. kardínáli; höfuðtala, frumtala; höfuðdyggð
 cardinalate n. kardínálatign, kardinálaembætti
 cardinalship n. kardínálatign, kardinálaembætti
 care n. umönnun, umhyggja; umsjón ([under his ~]); nákvæmni; áhyggja; [have (take) ~] vera gætinn, varkár; [have ~ of your steps] gáðu hvar þú gengur; [take ~ of] sjá um, annast um; s. hirða um ([for]); [I don't ~] mér stendur á sama
@@ -398,7 +398,7 @@ Catholic n. kaþólskur maður l. kaþólskur; [Catholic priest] kaþólskur pre
 Catholicism n. kaþólsk trú, kaþólska
 catholicity n. frjálslyndi
 catkin n. hreisturblóm
-catting n. kettlingur
+catling n. kettlingur
 cattle n. nautpeningur, kvikfé
 cattle-plague n. nautapest
 cattle-range n. nauthagi
@@ -775,7 +775,7 @@ cholera n. kólera
 cholerine n. lífsýki
 choose s. velja, kjósa
 chop s. höggva, kljúfa; brytja, saxa; [~ in] grípa fram í; [the wind ~s round] vindurinn snýr sér; [~ logic] deila; n. högg; rifbein með kjötinu á; [chopping sea] krappur sjór, krappsævi; kjálki; ft. gin, kjaftur; [~s of the Channel] mynnið á Ermarsundi
-chopper n. kjötöxi; þyrla (óforml.)
+chopper n. kjötöxi; þyrla (óforml.); mótorhjól (óforml.)
 chopping-knife n. söxunarjárn
 choral l. sunginn í kór; kór-; n. messusöngur
 choralist n. kórsöngvari
@@ -919,7 +919,7 @@ citron n. sítróna (aldin)
 city n. borg, bær, staður
 civet n. desdýr, þefköttur ([~ cat]); moskus
 civic l. borgmannlegur, borgara-; borgaralegur, borgara-, borgar-
-civil l. borgara- ([~ war, ~ rights]); borgaralegur, þegnlegur; kurteis(legur); einka-; [Civil List] hirðeyrir; [Civil Service] embættisþjónusta; [~ servant] embættismaður, ríkisstarfsmaður, starfsmaður ríkisins
+civil l. borgara- ([~ war, ~ rights]); borgaralegur, þegnlegur; kurteis(legur); einka-; [Civil List] hirðeyrir; [Civil Service] embættisþjónusta, opinber þjónusta; [~ servant] embættismaður, ríkisstarfsmaður, starfsmaður ríkisins
 civilian n. óbreyttur borgari, maður sem er ekki í herþjónustu; lögfræðingur; kennari í lögum; embættismaður
 civility n. kurteisi
 civilization n. siðmenning, menning, menntun; heimsmenning
@@ -1335,7 +1335,7 @@ colony n. nýlenda
 coloration n. litsetning
 color n. sjá %[colour]%
 colorific l. litandi
-colossal s. risavaxinn; stórkostlegur
+colossal l. risavaxinn; stórkostlegur
 colossus n. risalíkneski; bákn
 colour n. litur; hörundslitur, roði (í kinnum); ytra útlit; blær, yfirskin; flagg, fáni; [change ~] fölna; roðna; [display ~s] flagga; s. lita, draga lit á; fegra; litkast, roðna
 colourable l. sennilegur; uppgerður, sviksamlegur
@@ -1667,7 +1667,7 @@ condition n. skilmáli; kostur; skilyrði; ástand, ásigkomulag; staða [~ of l
 conditional l. bundinn skilyrði, takmarkaður; [~ clause] skildagasetning; [he made his consent ~ upon] hann batt samþykki sitt því skilyrði að
 conditionally ao. með skilyrði
 conditioned l. -lyndur ([an ill-~ woman]); -lagaður; ásigkominn; staddur; takmarkaður; skilyrtur
-condolatory s. sem vottarhluttekning (samhryggð)
+condolatory l. sem vottarhluttekning (samhryggð)
 condole s. samhryggjast (e-m [with])
 condolence n. samhryggð
 condonation n. fyrirgefning
@@ -2371,7 +2371,7 @@ crabby l. krabba- ([~ paw]); sjá %[crabbed]%
 crack n. brestur, brak; smellur, hvellur; sprunga, rifa; s. bresta, braka; springa, rifna; gera smell með (keyri); brjóta ([~ a nut]); sprengja; skaða, hnekkja; [his voice ~s, is ~ed] hann er í mútum; [~ a joke] segja fyndni; [~ a bottle] tæma flösku; l. afbragðs- ([~ boat, ~ horse])
 crackbrained l. geggjaður
 cracked l. brostinn, sprunginn; rámur, hás; ringlaður
-cracker n. gortari, lygari; hvelleldur; hörð tvíbaka; -brjótur ([nutcracker]); tölvuþrjótur; niðrandi orð um hvíta manneskju (í BNA)
+cracker n. gortari, lygari; hvelleldur; hörð tvíbaka; saltkex; -brjótur ([nutcracker]); tölvuþrjótur; niðrandi orð um hvíta manneskju (í BNA)
 crackle n. snark, brestur; s. bresta, snarka
 crackling n. snark, marr
 cracknel n. létt og stökkt kex
@@ -2644,7 +2644,7 @@ curate n. aðstoðarprestur; [~ of souls] sálnahirðir
 curative l. læknandi
 curator n. fjárhaldsmaður; umsjónarmaður
 curb n. beisliskeðja; haft, band; brunnumgjörð; [hold in ~] halda í skefjum; s. halda í skefjum, hefta
-curbstone n. randsteinn (í stétt)
+curbstone n. kantsteinn, randsteinn (í stétt)
 curd n. ystingur; e.k. skyr; s. hleypa (mjólk)
 curdle s. hleypa; láta storkna; ysta; storkna
 cure n. lækning; læknislyf; umhyggja (fyrir sálum sóknarbarna); s. lækna ([~ a person of a disease]); græða (sár); þurrka, salta, reykja (kjöt eða fisk)

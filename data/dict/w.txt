@@ -2,7 +2,7 @@ well-behaved l. siðprúður, sem hegðar sér vel
 wabble n. sjá %[wobble]%
 wad n. forhlað (í byssu); s. troða forhlaði í (byssu); fóðra (með vatti)
 wadding n. vatt (millifóður)
-wadable l. væður
+wadeable l. væður
 waddle s. vaga, vagga; n. vaggandi göngulag, vagg
 wade s. vaða ([~ a river, across a river]); komast með fyrirhöfn í gegnum ([~ through a dull book])
 wader n. vaðfugl
@@ -11,11 +11,10 @@ waffle n. vaffla, tíglabrauð
 waft s. blása, feykja, bera (í gegnum loftið); berast; svífa; n. blástur, gustur; veif
 wafture n. veifing ([~ of the hand])
 wag s. veifa, hreyfa ótt og títt; dilla (rófunni); hreyfast; n. dingl með rófunni; æringi, galgopi
-wage s. veðja; leggja í hættu; [~ war] heyja stríð
-wage n. kaup; [living ~] kaup sem nægir til að lifa á; ft. sjá %[wages]%
+wage s. veðja; leggja í hættu; [~ war] heyja stríð; n. kaup, laun; [living ~] kaup sem nægir til að lifa á; nft. sjá %[wages]%
 wager n. veðmál; [to lay (make) a ~] veðja; s. veðja; leggja í hættu
 wagerer n. veðjandi
-wages nft. kaup, kaupgjald; [to be in good ~] hafa gott kaup
+wages nft. laun, kaup, kaupgjald; [to be in good ~] hafa gott kaup
 waggery n. glens, glettur, glettni
 waggish l. glensfullur, glettinn
 waggishness n. glettni
@@ -47,9 +46,10 @@ wakeful l. vakandi; andvaka; árvakur; [~ night] andvökunótt
 waken s. vekja; vakna
 wakener n. vekjari
 wale n. höggfar (á líkama); upphleypt rák (á voð); hlífðarborð (utan á skipi); s. setja rákir á
-waly l. rákóttur, röndóttur
+waly uh. vei! (skoskt)
+waled l. rákóttur, röndóttur
 Wales n. Wales; [Prince of Wales] ríkiserfinginn í breska ríkinu
-walk s. ganga; ganga um ([~ the streets]); [~ the hospitals] ganga á spítala (um læknisnema); láta ganga; [~ a horse] ríða fót fyrir fót; n. ganga; (skemmti)ganga; göngulag; vegur; trjágöng; fjárhagi; verkahringur; grein ([every ~ of literature]); [every ~ of life] sérhver lífsstaða; [to take a ~] ganga sér til skemmtunar
+walk s. ganga; ganga um ([~ the streets]); [~ the hospitals] ganga á spítala (um læknisnema); láta ganga; [~ a horse] ríða fót fyrir fót; n. ganga; (skemmti)ganga; göngulag; vegur; trjágöng; verkahringur; grein ([every ~ of literature]); [every ~ of life] sérhver lífsstaða; [to take a ~] ganga sér til skemmtunar
 walker n. gangandi maður; göngumaður; skógarvörður
 walking n. ganga; færð
 walking-dress n. gönguföt
@@ -164,7 +164,7 @@ waterlogged l. vatnsósa (um við); sem marar uppi (um skip)
 water main n. aðalvatnspípa
 waterman n. ferjumaður; ræðari
 watermark n. flóðmark; fjörumark; vatnsmerki (í pappír); s. setja vatnsmerki á (pappír)
-water-parting- n. sjá %[watershed]%
+water-parting n. sjá %[watershed]%
 waterproof l. vatnsheldur; s. gera (dúk) vatnsheldan; n. vatnsheldur dúkur; regnkápa
 water rail n. keldusvín (vaðfugl)
 water rate n. vatnsskattur
@@ -265,7 +265,7 @@ weeds nft. sorgarbúningur; [a widow's ~] ekkjubúningur
 week n. vika
 weekday n. virkur dagur
 weekly l. vikulegur; viku-; ao. einu sinni í viku, vikulega; n. vikublað
-ween s. ætla, hyggja
+ween s. (forn.) ætla, hyggja
 weep s. gráta; syrgja; [~ for, over] gráta vegna e-s; [~ for joy] gráta af gleði; [~ oneself out] gráta út
 weeping willow n. grátpíll, grátvíðir
 weeping n. grátur
@@ -282,8 +282,8 @@ weighty l. þungur; mikilvægur, þýðingarmikill
 weir n. stíflugarður (í á); kista (í á), laxakista
 weird n. forlög; l. göldróttur; nornalegur, leyndardómsfullur, undarlegur; [the ~ sisters] örlaganornirnar
 welcome l. velkominn; [~ news] fagnaðartíðindi; [you are ~ to it] þér er það velkomið; [to make (to bid) ~] bjóða velkominn, fagna; n. fagnaðarviðtökur; s. bjóða velkominn, fagna komu e-s
-wold n. gul litunarjurt
-weld s. sjóða (hnita) saman (járn); n. gul litunarjurt
+wold n. hálendi, heiðaland
+weld s. sjóða saman, logsjóða, málmsjóða; n. gul litunarjurt
 welding n. samsuða, rafsuða, logsuða, málmsuða
 welfare n. velferð, hamingja, heill ([the ~ of nations])
 welkin n. himinhvelfing, himinhvolf, himinn (í skáldskap)
@@ -335,7 +335,7 @@ whale oil n. hvallýsi
 whaler n. hvalveiðimaður; hvalveiðiskip
 whaling n. hvalveiðar
 wharf n. skipabryggja; s. flytja upp á bryggju
-wharfage n. bryggjuleiga
+wharfage n. bryggjuleiga, bryggjugjald; legupláss við bryggju
 wharfinger n. bryggjustjóri; bryggjueigandi
 what fn. það sem; hvað; hvaða ([~ books have you read?]); [I'll tell you ~] ég skal segja þér nokkuð; [~ of that] hvað stoðar það? hvað um það?; [~ news?] hvað er í fréttum?; [~ is your name?] hvað heitið þér?; [~ a folly!] hvaða ógnar heimska!; [~ a fine day] en hvað veðrið er gott; [I gave him ~ money I had] ég gaf honum þá peninga sem ég hafði; [come ~ will] komi hvað sem koma vill; [~ with one thing and another the scheme miscarried] áformið mistókst ýmist af þessu, ýmist af hinu; [not a day but ~ it rains] að ekki rigni
 whatever fn. hvað sem ([~ may happen]); [there is no doubt ~] alls enginn vafi
@@ -619,7 +619,7 @@ wit s. vita; [I wot] ég veit (annars úrelt nema í: [to ~] nefnilega, það er
 wit n. fyndni, andríki; fyndinn maður ([a man of ~]); vit, skilningur ([it passes the ~ of man]); [to be at one's ~'s end] standa alveg ráðalaus; [to be frightened out of one's ~s] vera utan við sig af hræðslu; [to lose one's ~s] ganga af vitinu; [the five ~s] fimm skilningarvitin
 witch n. galdrakona, norn; s. töfra
 witchcraft n. nornafár, fjölkynngi, galdrar, töfrar
-withery n. töfrar, töframagn
+witchery n. töfrar, galdrar, nornafár, fjölkynngi
 with fs. við; með; hjá; af; þrátt; [tired ~] þreyttur af, leiður á; [stiff ~ cold] stirðnaður af kulda; [~ all my heart] af öllu mínu hjarta, af alhuga
 withal ao. sömuleiðis; jafnframt; að auki, auk þess
 withdraw s. draga til hliðar eða frá ([~ the curtain]); taka aftur; taka burtu; taka (peninga) út (úr banka); fara burt; leggja niður völdin (um ráðherra)
@@ -705,7 +705,7 @@ wool n. ull; ullarband, ullargarn; ullarföt
 woolfell n. gæra
 wool-gathering n. draumórar, leiðsla
 woolgrower n. fjárbóndi
-woollen l. úr ull; ullar-; n. ullarvara
+woollen l. úr ull; ullar-; nft. [woollens] ullarvara
 woolen-draper n. klæðasölumaður
 woolly l. úr ull; ullar-; ullarkenndur
 woolsack n. ullarsekkur; sæti forseta í efri málstofu enska þingsins
@@ -755,7 +755,7 @@ worn-out l. útslitinn; örmagna
 worry s. hafa áhyggjur; rífa, slíta í sundur með tönnunum ([a dog worries a sheep]); erta, egna; vera órór, í vondu skapi ([~ oneself]); [wear a worried look] vera gremjulegur á svipinn; n. gremja, óánægja, áhyggjur ([I am getting thin with ~]); armæða, raun, skapraun, plága
 worse l. verri, lakari; [the ~ for wine] ölvaður; [the ~ for wear] slitinn; ao. ver; [it pleases him worse] honum líkar það miður
 worsen s. gera verri; versna
-worser l. verri
+worser l. verri (óforml. mállýska)
 worship n. guðsdýrkun; tilbeiðsla; [your ~] yðar tign (í ávarpi); s. dýrka; tilbiðja; halda guðsþjónustu
 worshipful l. virðulegur, göfugur
 worshipper n. dýrkandi
@@ -813,7 +813,7 @@ writing paper n. skrifpappír
 written s. skrifaður; skriflegur ([a ~ answer, ~ permission])
 wrong l. rangur, skakkur; [to be ~, in the ~] hafa rangt fyrir sér; n. óréttur, ranglæti; s. gera (e-m) rangt til, gera á hluta (e-s)
 wrongdoer n. misgjörðamaður, misgerðamaður; móðgari
-wrongdoing n. misgjörðamaður, misgerð; móðgun
+wrongdoing n. misgerð, misgjörð, ranglæti; móðgun
 wrongful l. óréttvís, ranglátur
 wronghead n. þverhöfði
 wrongheaded l. þverhöfðalegur
@@ -822,6 +822,6 @@ wrongness n. skekkja, villa
 wroth l. reiður
 wrought l. unninn, smíðaður ([a finely ~ necklace, ~ of gold]); ofinn, saumaður; [worked], sjá %[work]%; [~ iron] smíðajárn
 wry l. skakkur, skældur; [to make a ~ face] gretta sig; s. skekkja; skæla
-wry-mouthed s. skakkmyntur
+wry-mouthed l. skakkmyntur
 wryness n. skekkja, skæling
 wych elm n. skoskur álmviður

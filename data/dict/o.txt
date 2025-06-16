@@ -7,9 +7,9 @@ oakling n. ung eik
 oakum n. gamall, tættur kaðall (til að troða í rifur)
 oar n. ár; [boat the ~s] leggja upp árarnar; [put in one's ~s] grípa fram í; [lie/rest on the ~s] hvíla sig; s. róa
 oarage n. róður; árar, ræði
-oarsman n. ræðari
+oarsman n. ræðari, róðrarmaður
 oary l. áramyndaður; búinn árum
-oasis n. frjósamur staður í eyðimörk, grasey, gróðurlendi í öræfum
+oasis n. vin, frjósamur staður í eyðimörk, grasey, gróðurlendi í öræfum
 oat n. (vanalega ft. [oats]) hafrar; [he has sown his wild ~s] hann hefur hlaupið af sér hornin, er orðinn ráðsettur
 oaten l. úr höfrum, hafra-
 oatmeal n. haframjöl
@@ -29,10 +29,10 @@ obfuscated l. myrkvaður; ölvaður ([~ with brandy])
 obit n. dauði; ártíð
 obituarist n. eftirmælahöfundur
 obituary l. dauða-; n. dánartilkynning, minningargrein, stutt eftirmæli (eftir nýdáinn mann), dánarminning
-obituary notice n. árstíðarskrá; dánarskrá
+obituary notice n. dánartilkynning
 object n. hlutur; tilgangur, augnamið; andlag (í málfræði); s. bera (e-m) á brýn; hafa eða mæla á móti ([~ to, against]); vera mótfallinn
 objection n. mótmæli, mótbára; [I have no ~ to] ég er því ekki mótfallinn, að; [take ~ to] mótmæla e-u
-object glass n. viðtökugler í sjónauka
+object glass n. hlutgler, viðtökugler í sjónauka
 objectionable l. sem mæla má á móti; ógeðfelldur; ógeðslegur
 objective l. hlutlegur; hlutlægur; óhlutdrægur; n. markmið; andlagsfall
 objectivity n. óhlutdrægni; raunveruleiki
@@ -84,8 +84,8 @@ obsolescent l. farinn að úreldast eða fyrnast
 obsolete l. úreltur, fallinn úr tísku
 obstacle n. hindrun, tálmi
 obstetric l. sem lýtur að fæðingarhjálp
-obstetrician n. fæðingarlæknir, yfirsetulæknir
-obstetrics nft. yfirsetufræði
+obstetrician n. fæðingarlæknir
+obstetrics nft. fæðingarfræði, fæðingalækningar
 obstinacy n. þrái, þrjóska, þrákelkni, kergja, kergi
 obstinate l. þrár, þrjóskur, þrákelkinn, þrálátur ([~ cough, fever])
 obstreperous l. hávær
@@ -195,7 +195,7 @@ offshoot n. kvísl, grein
 offspring n. afsprengi; afkvæmi; niðjar
 off-street n. hliðargata, þvergata
 off-time n. tómstund
-offuscate l. sjá %[obfuscate]%
+offuscate s. sjá %[obfuscate]%
 oft ao. oft
 often ao. oft
 oftentimes ao. oftsinnis
@@ -208,11 +208,11 @@ oil n. olía; viðsmjör; lýsi; s. smyrja með olíu eða lýsi, bera olíu eð
 oilcloth n. olíudúkur, vaxdúkur
 oilman n. olíusali
 oilskin n. olíudúkur
-oils n. olíuföt
+oils nft. olíuföt
 oily l. olíukenndur; feitur; fitugur; mjúkmáll
 ointment n. smyrsl
 old l. gamall; [~ age] elli; [to grow ~] eldast; [~ clothes] gömul (notuð) föt; [a month ~] mánaðar gamall; [in ~ days, in the days of ~, of ~] í fyrndinni, fyrrum
-olden l. forn; [in ~ days, in the ~ time] á fyrri dögum; s. eldast; gerast gamall
+olden l. forn; [in ~ days, in the ~ time] á fyrri dögum
 oldfangled l. gamaldags
 old-fashioned l. gamaldags
 oldish l. fornlegur, forn-
@@ -294,7 +294,7 @@ operating l. skurðar- ([~ room, ~ table])
 operation n. starfsemi, aðgerð; framkvæmd ([come into ~]); læknisskurður ([surgical ~])
 operative l. verkandi, starfandi; framkvæmdarlegur; n. handiðnamaður
 operator n. skurðlæknir; verkamaður
-ophthalmia l. augnabólga
+ophthalmia n. augnbólga
 ophthalmic l. augnlegur; augna- ([~ surgeon])
 opiate n. svefnlyf; l. svæfandi; sefandi; s. svæfa
 opine s. tjá skoðun sína; ætla, hyggja
@@ -469,7 +469,7 @@ ourselves fn. við, vér; okkur sjálfa; (við, vér) sjálfir
 oust s. svipta (e-u [of]); reka burt, útrýma
 ouster n. burtrekstur
 out ao. út; úti; [be ~] vera úti (að heiman, í burtu, undir berum himni); vera á enda, vera þrotinn; vera slokknaður ([the fire is ~]); vera útsprunginn; vera kominn upp, skína (um stjörnur); skjátlast ([he was ~ in his reckoning]); [go ~ at the door] ganga út um dyrnar; [~ of cash] peningalaus; [~ of print] uppseldur (um bók); [~ of breath] sprengmóður; [time ~ of mind] (frá) ómuna tíð; [~ of one's mind] gleymdur, úr minni liðinn, vitstola; [~ of hand] tafarlaust; [I was quite ~ of myself with joy] ég réð mér ekki fyrir gleði; [~ of temper] í illu skapi; [~ at elbow] með olnbogann út úr; illa staddur
-outs nft. sá stjórnmálaflokkur, sem ekki fer með völdin ([every thing the Ins do the Outs denounce])
+outs nft. stjórnarandstaða, stjórnmálaflokkur sem ekki fer með völdin ([every thing the Ins do the Outs denounce])
 out- fsk. haft sem forskeyti í fjölmörgum samsetningum í merkingunni: út, yfir, meira en, betur en, lengra en, fram úr, upp o.fl.
 outbalance s. vega meira en
 outbid s. bjóða hærra en
@@ -508,7 +508,7 @@ outlander n. útlendingur
 outlandish l. útlenskur; undarlegur, kynlegur
 outlast s. haldast (standa) lengur en; halda betur en
 outlaw n. útlagi, sekur skógarmaður; s. gera útlægan
-outlawry n. útlegð
+outlawry n. útlegð, skógargangur
 outlay n. útgreiðsla, útgjöld
 outlet n. afrennsli, frárás; markaður ([a new ~ for commodities])
 outline n. frumstrik (í uppdrætti); ágrip; s. draga frumstrik (til myndar); segja stuttlega frá e-u
@@ -599,7 +599,7 @@ overfreight s. ofhlaða (skip)
 overgrow s. þekja með grasi; vaxa um of, vaxa úr sér; [overgrown sea] stórsjór
 overgrowth n. ofvöxtur
 overhang s. slúta út yfir; vofa yfir
-overhaul s. prófa, skoða vandlega; ná (skipi) á siglingu
+overhaul s. yfirfara, taka í gegn, prófa, skoða vandlega; ná (skipi) á siglingu
 overhead ao. yfir höfðinu, fyrir ofan, hátt uppi
 overhear s. yfirheyra, heyra (það, sem maður á ekki að heyra), hlera
 overjoyed l. afskaplega glaður
@@ -684,7 +684,7 @@ oxhide n. uxahúð, nautahúð
 oxidate s. sýra; sýrast
 oxidation n. oxun, sýring
 oxide n. sýri
-oxidize s. oxa, sýra, sýrast
+oxidize s. oxa, oxast, sýra, sýrast
 Oxonian l. frá Oxford; n. háskólamaður frá Oxford
 oxygen n. súrefni
 oyster n. ostra

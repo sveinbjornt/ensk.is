@@ -5,7 +5,7 @@ pacable l. friðsamlegur
 pace n. skref (mælieining); gangur, göngulag; [quicken one's ~] greikka sporið; [keep ~ with] halda í við; fylgjast með; [walk at a quick ~] ganga hratt; [go the ~] ganga hratt; s. ganga fót fyrir fót; ganga (hægt) yfir; (mæla með því að) stíga; skeiða (um hest)
 pacer n. skeiðhestur
 pacha n. sjá %[pasha]%
-pachyderm n. þykkskinnungur, þykkhýðingur (ættkvísl spendýra)
+pachyderm n. þykkskinnungur, þykkhýðingur (ættbálkur spendýra)
 pacific l. friðsamur; [the Pacific Ocean] Kyrrahafið
 pacification n. friðun, friðargerð; málamiðlun, sáttaumleitun
 pacificatory l. friðsamlegur, friðandi
@@ -47,7 +47,7 @@ pailful n. full fata; [a ~ of water] fata af vatni; [the rain was falling by the
 paillasse n. hálmdýna
 pailette n. gljátala
 pain n. sársauki, verkur, stingur, kvöl, þjáning; sorg, harmur; [feel ~] verkja, kenna til; [forbid on ~ of death] banna að viðlagðri dauðarefsingu; s. láta kenna til; meiða, særa, hryggja
-painful n. kvalafullur, sársaukafullur, sár; erfiður; fyrirhafnarmikill
+painful l. sársaukafullur, kvalafullur, sár; erfiður; fyrirhafnarmikill
 painless l. sárindalaus, verkjarlaus; kvalalaus
 pains nft. ómak, fyrirhöfn; [~ (of childbirth)] jóðsótt, fæðingarhríðir; [to take ~] gera sér far (um), vanda sig
 painstaker n. vandvirkur (ástundunarsamur) maður
@@ -60,7 +60,7 @@ painting n. málun; málaralist; málverk, litmynd
 pair n. tvennt, sem á saman, samstæða, par; [a ~ of stockings] sokkar; [these stockings are not a ~] eiga ekki saman; [in ~s] tveir og tveir; s. taka saman samstæður; eiga saman; maka sig, vinast (um fugla); [~ off] ganga burtu tveir og tveir
 pair-oar n. bátur róinn tveimur árum
 pairwise ao. tveir og tveir saman
-pajamas n. sjá %[pyjamas]%
+pajamas nft. sjá %[pyjamas]%
 palace n. höll
 palaeontology n. forndýrafræði
 palaestra n. leikfimisskóli; aflraunaskóli
@@ -82,7 +82,7 @@ paleology n. fornfræði, forngripafræði
 paletot n. yfirfrakki
 palette n. palletta; spjald sem málarar blanda liti á, litaspjald
 palfrey n. reiðhestur; kvenhestur
-palimpsest n. steinn; handrit þar sem hið upphaflega mál hefur verið skafið út og svo ritað ofan í, uppskafningur
+palimpsest n. uppskafningur, handrit þar sem hið upphaflega mál hefur verið skafið út og svo ritað ofan í
 paling n. staurar; grindverk, stauragirðing ([~ fence]); l. fölnandi, að fölna
 palinode n. bragarbót
 palisade n. staur; stauragirðing; s. girða með stauragarði, umgirða
@@ -96,7 +96,7 @@ palliative l. afsakandi; linandi; n. fróunarlyf
 pallid l. bleikur, fölur
 pallidity n. fölleiki
 pallor n. bleikja, fölleiki
-palm n. lófi; þverhandarbreidd; il ([~ of the foot]); akkerisflaug; s. handleika, strjúka með hendinni; fela í lófanum (eins og sjónhverfingamenn); koma e-u sviksamlega (á e-n [on, upon]); múta
+palm n. lófi; þverhandarbreidd; akkerisflaug; s. handleika, strjúka með hendinni; fela í lófanum (eins og sjónhverfingamenn); koma e-u sviksamlega (á e-n [on, upon]); múta
 palmary l. frábær, ágætur
 palm n. pálmatré, pálmaviður; [carry off the ~] vinna sigurpálmann
 palmated l. með sundfit
@@ -109,7 +109,7 @@ Palm Sunday n. pálmasunnudagur
 palmy l. vaxinn pálmaviði; sigursæll; blómlegur ([~ state]), blóma- ([~ days])
 palp n. þreifingarangi (á skorkvikindum)
 palpability n. áþreifanleiki
-palpable l. áþreifanleglegur; tilfinnanlegur; augljós
+palpable l. áþreifanlegur; tilfinnanlegur; augljós
 palpably ao. áþreifanlega; tilfinnanlega
 palpation n. áþreifing, snerting
 palpitate s. slá (bærast) ótt og títt (um hjartað)
@@ -129,7 +129,7 @@ panacea n. kynjalyf; allra meina bót
 panache n. (hjálm)-skúfur
 panada n. brauðsúpa
 panade n. brauðsúpa
-pandemic n. landfarsótt, sjúkdómsfaraldur, faraldur; l. sem gengur yfir allt landið (um sóttir)
+pandemic n. farsótt, sjúkdómsfaraldur, faraldur; l. sem gengur yfir allt landið (um sóttir)
 pander s. koma (e-m) saman til lauslætis; stuðla að, þjóna (e-u illu); n. saurlífismangari
 pane n. gluggarúða, glerrúða; flötur, hlið; reitur
 panegyric n. lofræða
@@ -201,7 +201,7 @@ paramount l. æðstur, mestur; [~ to] æðri (meiri) e-u; [of ~ importance] eink
 paramour n. elskhugi, friðill; hjákona
 parapet n. brjóstvörn, brjóstvirki; handrið (með brú)
 paraph n. pennadrættir (flúr) undir fangamarki
-paraphernalia n. skrautmunir; útbúnaður; séreign konunnar
+paraphernalia nft. skrautmunir; útbúnaður; séreign konunnar
 paraphrase n. lausleg þýðing; s. þýða lauslega; segja með öðrum orðum
 paraphrastic l. lauslegur ([~ translation])
 parasite n. sníkjudýr, sníkill, afæta; smjaðrari; planta sem vex út úr annarri plöntu; dýr sem lifir á öðrum dýrum, t.d. lýs
@@ -238,7 +238,7 @@ parliament n. þing
 parliamentarism n. þingræðisstjórn
 parliamentary l. þinglegur; samkvæmur þingsköpum; þingræðislegur
 parlour n. dagstofa (nú [sitting room]); gestastofa í veitingahúsi
-parlour-maid n. stúlka, sem gengur um beina í veitingahúsi
+parlour-maid n. stúlka, sem gengur um beina
 parochial l. sóknar-, sóknarlegur; sveitar-; [~ register] kirkjubók; [~ relief] sveitarstyrkur
 parodist n. skopstælingamaður
 parody n. háðsleg eftirstæling kvæðis eða annars rits; s. yrkja upp alvarlegt kvæði, svo að það verði hlægilegt; stæla
@@ -309,7 +309,7 @@ passage boat n. ferjubátur
 passage money n. flutningskaup; fargjald
 passageway n. göng, húsasund
 passenger n. farþegi (á skipi eða vagni)
-passer-by n. umfarandi
+passer-by n. umfarandi, vegfarandi
 passerine l. [~ birds] spörfuglar
 passim ao. hér og hvar
 passing l. líðandi, hverfandi; lauslegur ([a ~ remark]); ao. ákaflega; [~ rich] forríkur; n. [~ certificate] prófvottorð
@@ -355,7 +355,7 @@ path n. vegur, stígur; gata
 pathless l. veglaus
 pathway n. gangstígur
 pathetic l. aumkunarverður, brjóstumkennanlegur; viðkvæmur, hjartanlegur; ákafur
-pathetical l. aumkunarverður, brjóstumkennanlegurpatience; viðkvæmur, hjartanlegur; ákafur
+pathetical l. aumkunarverður, brjóstumkennanlegur; viðkvæmur, hjartanlegur; ákafur
 pathological l. sem lýtur að sjúkdómum eða sjúkdómafræði; sjúklegur
 pathology n. meinafræði, sjúkdómafræði
 pathos n. viðkvæmni; ákafi, hiti ([to speak with ~])
@@ -367,7 +367,7 @@ patriarch n. ættfaðir; yfirbiskup (í grísku kirkjunni)
 patriarchal l. ættföðurlegur; yfirbiskuplegur
 patriarchalism n. ættfeðrastjórn
 patrician l. aðalborinn; n. aðalsmaður, göfugmenni
-patricide n. föðurmorðingi; föðurmorð (sjá %[parricide]%)
+patricide n. föðurmorðingi; föðurmorð
 patrimonial l. erfða- ([~ estate, ~ right])
 patrimony n. föðurleifð, erfðafé
 patriot n. föðurlandsvinur, ættjarðarvinur
@@ -403,7 +403,7 @@ pavilion n. tjaldhús, tjald, sýningartjald; skemmtihús, skemmtanaskáli; ská
 pavonine l. páfuglslegur; litbreytilegur (sem páfuglsstél)
 paw n. löpp; hrammur; krumla; loppa; s. klóra, krafsa með framfótunum; strjúka
 pawl n. hamla
-pawn n. peð (í skáktafli); veð, handveð. pantur; [at (in) ~] veðsettur; s. veðsetja
+pawn n. peð (í skáktafli); veð, handveð, pantur; [at (in) ~] veðsettur; s. veðsetja
 pawnbroker n. veðlánari, sem lánar gegn handveði
 pawnee n. veðhafi
 pawner n. veðsetjari, veðsali
@@ -959,17 +959,17 @@ piercer n. stór nafar; broddur (á skorkvikindum)
 piercing l. nístandi; skerandi; stingandi; sár (um kulda); n. götun (á líkama)
 pietism n. oftrúarstefna
 pietist n. oftrúarmaður; guðrækinn maður; píetisti
-pietistic n. oftrúarlegur, oftrúarfullur
-pietistical n. oftrúarlegur, oftrúarfullur
+pietistic l. oftrúarlegur, oftrúarfullur
+pietistical l. oftrúarlegur, oftrúarfullur
 piety n. guðhræðsla, guðrækni; rækt, ræktarsemi
 pig n. grís; aflangur blý- eða járnklumpur; [buy a ~ in a poke] kaupa e-ð óséð; s. fæða (um gyltu); liggja saman eins og grísir
-pigeon n. dúfa
-pigeonhole n. handraði, hólf; s. svíkja e-n í spilum
+pigeon n. dúfa; s. svíkja e-n í spilum
+pigeonhole n. handraði, hólf
 pigeon-hearted l. huglaus, með hjarta dúfu
 pigeonry n. dúfnahús
 pigeon-toed l. innskeifur
 piggery n. svínastía, grísastía
-pig iron n. hálfhreinsað járn (í klumpum)
+pig iron n. hrájárn, hálfhreinsað járn (í klumpum)
 pig lead n. hálfhreinsað blý (í klumpum)
 piggish l. svínslegur, óþrifalegur; þrár, þrályndur ([~ mood])
 piggy n. gríslingur
@@ -1373,8 +1373,8 @@ politeness n. kurteisi, hæverska
 politic l. stjórnlegur; stjórnmála-; kænn, séður; hyggilegur; [body ~] þjóðarlíkami
 political l. landstjórnarlegur, stjórnfræðilegur; stjórnmála-, pólitískur
 political economy n. hagfræði, þjóðmegunarfræði
-politician n. stjórnmálamaður, stjórnfræðingur
-politicize s. ræða stjórnmál, fást við pólitík; gera e-ð pólitískt ([he politicized the issue])
+politician n. stjórnmálamaður, pólitíkus
+politicize s. ræða stjórnmál, fást við pólitík; gera e-ð pólitískt ([he ~d the issue])
 politics nft. stjórnmál, þingmál, pólitík; stjórnfræði; stjórnaraðferð; [talk ~] ræða um landstjórn eða landsmál
 polity n. stjórnarfyrirkomulag; stjórnarskipun
 polka n. polka (dans); s. dansa polka
@@ -1408,7 +1408,7 @@ polyhedron n. marghliðungur, margflötungur
 polyhedrous l. marghliðaður
 polymath n. fjölfræðingur
 polymathy n. fjölfræði
-polyp n. sepi (kynlausi ættliður marglittanna); sæfífill
+polyp n. sepi (kynlausi ættliður marglyttanna); sæfífill
 polypetalous l. margblaðaður (um blómstur)
 polysyllabic l. fleirkvæður
 polysyllable n. fleirkvætt orð
@@ -1665,7 +1665,7 @@ preamble n. formáli; inngangur; ft. forsendur (í dómi); s. rita formála við
 preapprehension n. hleypidómur; kvíði
 prebend n. árstekjur prests af kirkjugóssi, prestsmata
 prebendary n. prestur, sem fær tekjur af eignum (dóm)kirkju
-precarious n. óvís, óviss, vafasamur, tvísýnn; ískyggilegur, hættulegur ([the ~ life of a fisherman]); [~ health] bágborin heilsa
+precarious l. óvís, óviss, vafasamur, tvísýnn; ískyggilegur, hættulegur ([the ~ life of a fisherman]); [~ health] bágborin heilsa
 precariousness n. óvissa, tvísýni
 precaution n. varúð, gætni, forsjálni; varúðarregla ([measure of ~]); [for ~, for ~s sake] fyrir varúðar sakir, til vonar og vara; s. vara við
 precautionary l. viðvörunar-; varúðar-; [a ~ tale]
@@ -2284,7 +2284,7 @@ proven l. sannaður; [not ~] ósannaður
 provenance n. uppruni
 provender n. þurrt skepnufóður (svo sem hey og korn)
 proverb n. málsháttur; spakmæli; orðskviður
-proverbial l. alkunnur; málshátta-, spakmæla-, orðskviðulegur; ; [become ~] verða að máltæki
+proverbial l. alkunnur; málshátta-, spakmæla-, orðskviðulegur; [become ~] verða að máltæki
 proverbist n. málshátta-, spakmæla- eða orðskviðasafnari
 provide s. útvega, sjá fyrir (e-u); ákveða (með lögum); [~ with] birgja að, útbúa með; [~ against] sjá við (e-u), afstýra; [~ for] annast um, sjá um; [~d that] svo framarlega sem, ef
 providence n. forsjá; forsjón ([divine ~]); framsýni; fyrirhyggja
@@ -2538,7 +2538,7 @@ pyre n. líkbál ([funeral ~]); bálköstur
 pyromania n. eldæði, íkveikjuæði
 pyromaniac n. brennuvargur, íkveikjuvitfirringur
 pyrotechnic l. flugelda-
-pyrotechnics nft. flugeldalist
+pyrotechnics n. flugeldalist
 pyrotechnist n. flugeldafræðingur, flugeldameistari
 Pythagorean l. sem lýtur að heimspeki Pýþagórasar; n. lærisveinn Pýþagórasar
 pyx n. ílát, sem sakramentisbrauðið í kaþólsku kirkjunni er geymt í, oflátubuðkur

@@ -8,7 +8,7 @@ macerate s. bleyta; megra
 maceration n. bleyting; megrun
 machinate s. brugga (vélráð)
 machination n. ráðabrugg; undirferli
-machinator n. bragðarefur; frumkvöðull
+machinator n. bragðarefur, ráðabruggari
 machine n. vél, maskína; s. smíða, búa til með vél
 machinery n. vélbúnaður, vélar, maskínur
 machinist n. vélasmiður; vélameistari
@@ -50,7 +50,7 @@ magnetics nft. segulaflsfræði
 magnetism n. segulafl, segulmagn; aðdráttarafl
 magnetize s. hleypa segulmagni í, segulmagna
 magnetizer n. segulmagnari; dávaldur
-magnific l. stórkostlegur
+magnific l. stórkostlegur (forn.)
 magnification n. stækkun; vegsömun
 magnificence n. mikilfengi; skraut; örlæti; rausn
 magnificent l. mikilfenglegur, stórkostlegur; skrautlegur, glæsilegur; örlátur
@@ -61,9 +61,9 @@ magniloquent l. raupsamur; gífurmæltur
 magnitude n. stærð ([the ~ of the planets]); mikilleikur
 magpie n. skaði, skjór (þjófóttur fugl)
 mahogany n. mahónítré; mahóníborð; [have one's feet under another man's ~] éta við annars borð, vera öðrum háður
-Mahometan n. múslími
-Mahometanism n. íslam, múhameðstrú
-maid n. mey; þjónustustúlka; [servant ~ of honour] hirðmey
+Mahometan n. múslími (forn.), sjá %[Muslim]%
+Mahometanism n. íslam, múhameðstrú (forn.), sjá %[Islam]%
+maid n. mey; þjónustustúlka ([~servant]); [~ of honour] hirðmey, brúðarmey
 maidservant n. vinnukona
 maiden n. mey, mær, stúlka; l. meylegur; nýr, sem reyndur er í fyrsta sinn; [~ name] meyjarnafn; [~ speech] fyrsta ræða á þingi, jómfrúræða; [~ soldier] óreyndur
 maidenhead n. meydómur
@@ -137,8 +137,8 @@ maligner n. hatursmaður, óvildarmaður
 malignity n. illska, illgirni; skaðvæni
 malinger s. gera sér upp veiki, skrópa
 malingerer n. skrópari
-malingering n. skrópar
-malingery n. skrópar
+malingering n. skróp
+malingery n. skróp
 malison n. bölvun
 mall n. stór trésleggja; hnallur; e.k. knattleikur; skemmtigöngustaður; verslunarmiðstöð ([a shopping ~])
 mallard n. stokkönd
@@ -274,7 +274,7 @@ March n. marsmánuður
 march n. landamæri, landamerkjaland; s. [~ with a spot] liggja að e-m stað; [they ~ on each other] lönd þeirra liggja saman
 march n. ganga ([a long, troublesome ~]); herganga; (her)áfangi; hergöngulag; gangur, rás ([~ of time, the general ~ of events]); [one day's ~] eins dags ganga, dagleið, áfangi; [~ out] útrás; [line of ~] (her)göngustefna; s. ganga (samstiga sem á) hergöngu; ganga ([~ away, forward, off, on)]; fara
 marchioness n. markgreifafrú
-marchpane n. marsípan
+marchpane n. marsípan (forn.), sjá %[marzipan]%
 marzipan n. marsípan, sætbakstur
 marconigram n. Markonískeyti
 mare n. meri, hryssa
@@ -528,7 +528,7 @@ medication n. (lyfja)blöndun; lyfjanotkun ([he's on heavy ~])
 medicinal l. læknandi; lækninga-
 medicinally ao. [take it ~] eins og læknislyf
 medicine n. lyf, læknislyf; læknisfræði; s. lækna; gefa inn lyf ([~ the sick])
-medieval n. miðalda-; [the ~ ages] miðaldirnar
+medieval l. miðalda-; [the ~ ages] miðaldirnar
 mediocre l. í meðallagi, lakur, meðalllags-, miðlungs-; n. miðlungsmaður
 mediocrity n. meðalmennska, meðallag, miðlungsskapur; meðalmenni
 meditate s. hugleiða, hugsa um; hafa í hyggju
@@ -603,8 +603,8 @@ meningitis n. heilahimnubólga
 mensal l. mánaðarlegur
 menses nft. tíðir (kvenna)
 menstrual l. mánaðarlegur; tíða-; [~ flux] tíðir kvenna
-menstruate l. hafa tíðir
-menstruation n. tíðir (kvenna)
+menstruate s. hafa tíðir, fara á blæðingar
+menstruation n. tíðir (kvenna), blæðingar
 mensurable l. mælanlegur
 mensuration n. mæling; mælingarlist
 mental l. sálarlegur, andlegur, huga-, sem lýtur að huga eða geðsmunum ([his ~ state]); [~ arithmetic, ~ computation] hugarreikningur
@@ -1291,7 +1291,7 @@ motto n. kjörorð, einkunnarorð
 mold n. mygla; s. mygla
 molded l. myglaður
 moldy l. myglaður
-mould n. steypumót; formur; kökuform; lögun; snið; tegund; s. mynda, laga; steypa (einkum kerti); móta; hnoða (deig)
+mould n. steypumót; formur; kökuform; lögun; snið; tegund; mygla; s. mynda, laga; steypa (einkum kerti); móta; hnoða (deig); mygla
 mouldable l. myndanlegur
 moulder s. mylja; molna
 moulding n. listi, múrlisti

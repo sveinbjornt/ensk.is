@@ -12,7 +12,7 @@ bacchanal l. óhemjulegur, svallsamur; n. Bakkusardýrkandi; drykkjusvallari
 bacchanals nft. óhemjulegt (drykkju)svall, orgía
 bacchanalian l. svallsamur, orgíu-; n. slarkari
 bacchant n. Bakkusardýrkandi
-bacchante l. Bakkynja
+bacchante n. Bakkynja
 bachelor n. ókvæntur maður, piparsveinn, einhleypingur; kandídat ([~ of arts, science])
 back n. bak, hryggur; bakflötur; bakki (á hníf); kjölur (á bók); [~ of the hand] handarbak; ao. aftur; aftur á bak; til baka; [some years ~] fyrir nokkrum árum; s. hjálpa, verja; ýta (færa) aftur á bak; fara aftur á bak; [~ a sail] setja segl upp í vindinn; [~ out] fara aftur á bak ([~ out of the room])
 backbite s. rægja
@@ -31,8 +31,8 @@ backwards ao. aftur á bak
 backwardness n. tregða, leti
 backwash n. útsog
 bacon n. beikon (reykt eða saltað svínakjöt); [save one's ~] komast undan með heilu og höldnu
-bacterium n. gerill, baktería
-bacteria nft. gerlar, bakteríur (sjá %[bacterium]%)
+bacterium n. baktería, gerill
+bacteria nft. bakteríur, gerlar (sjá %[bacterium]%)
 bacteriologist n. gerlafræðingur, bakteríufræðingur
 bacteriology n. gerlafræði, bakteríufræði
 bad l. illur, vondur, slæmur, lélegur; [he has a ~ eye] honum er illt í auga; [he has a ~ tooth] hann er með skemmda tönn
@@ -42,12 +42,12 @@ badge n. merki, einkenni
 badger n. greifingi; s. erta, egna, áreita
 baffle s. gabba, hindra
 bag n. poki, skjóða, taska; júgur; s. láta í poka; poka, gúlpa (um föt)
-baggy l. víður
+baggy l. víður (um föt)
 bagpipe n. sekkjapípa (hljóðfæri)
 bagpiper n. sá sem blæs í sekkjapípu
 bagatelle n. lítilræði
 baggage n. farangur
-bagging n. pokastrigi; l. víður (um föt)
+bagging n. pokastrigi
 bah uh. svei!
 bail n. ábyrgð, veð; ábyrgðarmaður; [go ~ for] ábyrgjast; s. láta lausan gegn ábyrgð; ganga í ábyrgð fyrir; ausa (sjá %[bale]%)
 bailable l. sem má láta lausan gegn ábyrgð
@@ -209,7 +209,7 @@ basket n. karfa; s. láta (kasta) í körfu
 basking-shark n. beinhákarl
 bas-relief n. lágmynd, upphleypt mynd
 bass n. bassi (dýpsta karlmannsrödd, eða hljóðfæri)
-bassoon n. básúna (e.k. lúður)
+bassoon n. fagott
 bast n. bast
 bastard l. óskilgetinn; óekta; n. óskilgetið afkvæmi, bastarður, laungetningur
 bastardize s. lýsa (kalla) e-n laungetinn, óskilgetinn; spilla með blöndun við e-ð óæðra; úrkynja
@@ -414,7 +414,7 @@ beltsaw n. bandsög
 bemire s. ata, óhreinka
 bemoan s. harma, syrgja; [~ oneself] barma sér, kveina
 bench n. bekkur, þófta; dómstóll; dómaraembætti; [the ~ and the bar] dómarar og málfærslumenn; [King's (Queen's) ~] sakamálsdómstóll í London; s. setja(st) á bekk
-bend s. benda, draga (boga); heygja, sveigja ; beina ([~ his attention, mind, to, towards]); festa; [~ a sail] rábinda segl; beygja sig; bogna, svigna; n. beyging; bugur, bugða
+bend s. benda, draga (boga); heygja, sveigja; beina ([~ his attention, mind, to, towards]); festa; [~ a sail] rábinda segl; beygja sig; bogna, svigna; n. beyging; bugur, bugða
 beneath fs. undir, neðan undir, fyrir neðan; [~ me] fyrir neðan mig hafið; ao. niðri
 benediction n. blessun; ábótavígsla; [pronounce (give) the ~] lýsa blessuninni
 benedictory l. blessunar-
@@ -567,7 +567,7 @@ billow n. bylgja; s. ganga í bylgjum
 billowy l. bylgjóttur
 billy-goat n. hafur
 bimanous l. tvíhendur
-binary l. tvennur, tvístæður, tví-, tvítölu-, tvíundar-; [~ system] tvítölukerfi, tvíundakerfi; keyrsluskrá, keyrsluforrit ([program ~, application ~])
+binary l. tvennur, tvístæður, tví-, tvítölu-, tvíundar-; n. [~ system] tvítölukerfi, tvíundakerfi; keyrsluskrá, keyrsluforrit ([program ~, application ~])
 bin n. ruslafata, ruslakarfa; byrða, kassi; [loony ~] geðsjúkrahæli (óforml.); s. henda í ruslið, setja í ruslafötu
 bind s. binda, festa; skuldbinda ([~ over to appear, to keep the peace]); [I'll be bound] ég skal ábyrgjast; [~ apprentice] koma (e-m) fyrir í iðnaðarnám; [~ up] binda um (sár)
 bindery n. bókbandsstofa
@@ -891,7 +891,7 @@ boredom n. leiðindi
 boring l. leiðinlegur; n. borun
 born l. fæddur, (í heiminn) borinn; [when were you ~] hvenær ertu fæddur? [he is ~ a poet] fæddur skáld
 borough n. kaupstaður, borg; kjörborg, kjördæmi
-borrow s. taka að láni, lána (hjá [from])
+borrow s. taka að láni, fá að láni (hjá [from])
 borrower n. lántakandi
 boscage n. lundur, skóglendi
 bosh n. fásinna, bull ([to talk ~])
@@ -1317,7 +1317,7 @@ buy s. kaupa
 buyer n. kaupandi
 buzz s. suða; flögra; n. suð, kliður; kvis; æsingur
 buzzing n. suða (í eyrum)
-buzzard n. músafálki
+buzzard n. músvákur
 by fs. & ao. hjá ([have not got it ~ me]); um ([travel to Prague ~ Dresden]); á (~ night, ~ day); framhjá ([go ~ him]); með ([take ~ force]); af ([written ~]); við; [ten feet ~] four 10 fet á lengd og 4 fet á breidd (eða hæð); [~ the pound] í pundatali; [~ the hundred, ~ hundreds] hundruðum saman; [go ~ ones and twos] einn og tveir í einu; [~ tomorrow] ekki síðar en á morgun; [older ~ two years] tveim árum eldri; [~ name] að nafni; [step ~ step] skref fyrir skref; [~ heart] utanbókar; [~ and ~] bráðum; smámsaman: [~ the by] meðal annara orða; eftir á að hyggja; [~ rights] að réttu lagi, með réttu
 byblow n. holukrakki
 by-election n. aukakosning

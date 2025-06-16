@@ -15,9 +15,9 @@ lace n. snúra; borði; reim; kniplingur; s. reima; sauma borða eða kniplinga 
 laced l. borðalagður
 laced boots n. reimastígvél
 lacerate s. rífa (tæta) í sundur ([~ the flesh])
-laceration n. sundurrifning; rífa
+laceration n. sundurrifning
 lachrymal l. tára- ([~ gland])
-lachrymatory l. tára-; n. táraker; vasaklútur
+lachrymatory l. tára-; n. táraker
 lachrymose l. grátgjarn; táravekjandi; társtokkinn
 lacing n. reimun; reim
 lack s. skorta, vanta; [to be ~ing] skorta, vanta; e-m er ábótavant (áfátt) í e-u ([in]); n. skortur, hörgull, ekla ([for ~ of])
@@ -46,7 +46,7 @@ ladanum n. e.k. límkvoða
 ladder n. laus stigi
 laddie n. (skoska) sjá %[lad]%
 lade s. hlaða, ferma
-laden l. hlaðinn (e-u [with]); s. hlaða
+laden l. hlaðinn (e-u [with])
 lading n. hleðsla, farmur
 ladle n. ausa, sleif; s. ausa
 lady n. hefðarfrú, hefðarkona, lafði; frú; kona; húsfreyja ([~ of the house])
@@ -109,8 +109,8 @@ landgravine n. landgreifafrú
 landing n. lending, landtaka; landsetning, uppskipun; landganga; landgöngubryggja ([~ pier]); stigapallur, loftskör
 landing place n. lending, lendingarstaður; landgöngupallur
 landing stage n. landgöngubryggja, landgöngupallur
-land-jobber n. sá sem kaupir jarðeignir til að selja þær aftur sér til hagsmuna
-landlady n. húsráðandi (um kvenmann), veitingakona
+land-jobber n. jarðabraskari, sá sem kaupir jarðeignir til að selja þær aftur sér til hagsmuna
+landlady n. húsráðandi eða leigusali (um kvenmann); veitingakona
 landless l. landlaus
 landlocked l. landluktur
 landloper n. flakkari, landshornamaður
@@ -266,7 +266,7 @@ laver n. handlaug; skírnarskál; skírnarlaug
 lavish l. örlátur (á [in, of]); eyðslusamur; s. eyða, sóa, bruðla
 lavishly ao. örlátlega
 lavishment n. örlæti; eyðslusemi
-law n. lög, lögmál, lagaboð; lögsókn; lögvísi, lögfræði; [~ of nations] þjóðaréttur; [ecclesiastical ~] kirkjuréttur; [to take the ~ of, to go to ~ with] lögsækja, fara í mál við; [to be at ~] eiga í málaferlum; [to give (make) a ~] setja lög; [good in ~] löglegur; löggildur; [father-in-~, mother-in-~] tengdafaðir, tengdamóðir (einnig stjúpi og stjúpa)
+law n. lög, lögmál, lagaboð; lögsókn; lögvísi, lögfræði; [~ of nations] þjóðaréttur; [ecclesiastical ~] kirkjuréttur; [to take the ~ of, to go to ~ with] lögsækja, fara í mál við; [to be at ~] eiga í málaferlum; [to give (make) a ~] setja lög; [good in ~] löglegur; löggildur; [father-in-~, mother-in-~] tengdafaðir, tengdamóðir
 law-abiding l. löghlýðinn
 lawbook n. lögbók; lögfræðibók
 lawbreaker n. lögbrjótur
@@ -294,7 +294,7 @@ laystall n. mykjuhaugur; sorphaugur
 lazaret n. sjúkrahús, sóttvarnarhús
 lazaretto n. sjúkrahús, sóttvarnarhús
 lazar-house n. sjúkrahús, sóttvarnarhús
-laze s. liggja (hreyfa sig) letilega; dratta áfram ([~ along])
+laze s. slæpast; liggja í leti; liggja (hreyfa sig) letilega; dratta áfram ([~ along])
 lazily ao. letilega
 laziness n. leti
 lazy l. latur, iðjulaus
@@ -370,7 +370,7 @@ leek n. graslaukur
 leer s. gjóta augunum (til e-s [upon]); n. hornauga, gota (með augunum)
 leeringly ao. með glettnisfullu (kímileitu) augnaráði
 lees nft. dreggjar
-left l. (sem er) eftir; vinstri; ao. til vinstri handar, vinstra megin; n. vinstri hönd ([~ hand])
+left l. (sem er) eftir; vinstri; ao. til vinstri handar, vinstra megin; n. vinstri hlið; vinstri vængur stjórnmála; vinstri hönd ([~ hand])
 left-handed l. örvhendur; vafasamur, tvísýnn
 leftward ao. vinstra megin; til vinstri
 leg n. fótleggur; læri af slátraðri skepnu ([a ~ of mutton] sauðarlæri); fótur (undir borði eða stól); sokkbolur; (buxna)skálm; [to shake a loose/free ~] leika lausum hala; [to take to one's ~s] taka til fótanna
@@ -623,7 +623,7 @@ lingual l. tungu- ([~ sound]); tungumála- ([~ studies])
 linguist n. málvísindafræðingur, málvísindamaður, málfræðingur, tungumálamaður
 linguistic l. málvísindalegur, málfræðilegur
 linguistic talent n. tungumálagáfa
-linguistics nft. málvísindi, málfræði, tungumálanám
+linguistics n. málvísindi, málfræði, tungumálanám
 lining n. fóður ([~ of a coat])
 link n. hlekkur; (sambands)liður ([the missing ~]); lykkja (í prjóni); kyndill, blys; ft. bugður á ám; s. hlekkja (tengja) saman
 linkboy n. kyndilberi

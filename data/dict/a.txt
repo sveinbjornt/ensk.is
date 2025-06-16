@@ -59,7 +59,7 @@ abjection n. auðvirðilegleiki, niðurlæging
 abjuration n. eiðsvarin afneitun
 abjure s. afneita með eiði ([~ a heresy])
 ablative n. sviptifall, staðarfall
-ablaze ao. í loga, logandi, alelda; [to set ~] kveikja í
+ablaze ao. í loga; l. logandi, alelda; [to set ~] kveikja í
 able l. fær; duglegur; [be ~] geta
 able-bodied l. sterkur, hraustur, vinnufær ([the ~ poor])
 ablution n. þvottur, hreinsun (líkamans)
@@ -75,8 +75,8 @@ abode n. bústaður
 abolish s. afnema; eyða, útrýma
 abolishable l. afnemanlegur; eyðanlegur, útrýmanlegur
 abolishment n. afnám; eyðing, útrýming
-abolition n. eyðing; afnám (þrælaverslunarinnar)
-abolitionist n. formælandi þrælaverslunarafnáms, þrælahaldsandstæðingur; afnámssinni
+abolition n. eyðing; afnám
+abolitionist n. afnámssinni; formælandi þrælaverslunarafnáms, þrælahaldsandstæðingur
 abominable l. andstyggilegur
 abominate s. hafa andstyggð á
 abomination n. andstyggð, viðbjóður, svívirðing
@@ -326,7 +326,7 @@ acuminate s. skerpa; ydda
 acute l. hvass; næmur (um tilfinningar); skarpskyggn; bráður, ákafur (um sjúkdóma); hvellur (um hljóð)
 acuteness n. hvassleiki; skarpskyggni; næmni, næmleiki
 adage n. málsháttur
-adamant n. mjög harður, ósveigjanlegur ([he is ~ on this issue]); demantur
+adamant l. mjög harður, ósveigjanlegur ([he is ~ on this issue]); n. demantur
 adamantine l. demantharður; órjúfanlegur
 adapt s. aðlaga, aðlagast, laga (eftir [to]); [~ a play from the French] semja leikrit eftir (með hliðsjón af) frönsku frumriti
 adaptability n. aðlögunarhæfni; notanleiki
@@ -345,7 +345,7 @@ additional l. aukinn, meiri
 additionally ao. sem viðbætir
 addle l. stropaður, fúll (um egg); ruglaður; s. rugla (heilann); ónýta; fúlna (um egg)
 addlebrain n. auli
-addlebrained n. vitlaus
+addlebrained l. vitlaus
 address s. snúa, beina (ósk, bæn, orðum); ávarpa; skrifa utan á; [~ oneself (one's words) to a person] snúa máli sínu til e-s; [~ oneself to a task] búast til; n. heimilisfang; ávarp, ræða; utanáskrift; fimleiki; viðmót; [pay one's ~es to a lady] gera sig líklegan við; [a man of pleasing ~] þægilegur í viðmóti
 adduce s. tilgreina, vitna til, tilfæra sem sönnun
 adduction n. aðdráttur; tilgreining
@@ -436,8 +436,8 @@ adult l. fullorðinn; fullvaxinn; n. fullorðin manneskja
 adulterate s. falsa, svíkja (vörur); útþynna
 adulterated l. svikinn, falsaður; útþynntur
 adulteration n. fölsun (á vörum)
-adulterer n. hórkarl; framhjáhaldari; karl sem heldur fram hjá maka sínum
-adulteress n. hórkona; framhjáhaldari; kona sem heldur fram hjá maka sínum
+adulterer n. framhjáhaldari; karl sem heldur fram hjá maka sínum
+adulteress n. framhjáhaldari; kona sem heldur fram hjá maka sínum
 adulterine l. hórgetinn; falsaður, óekta
 adulterous l. saurlífur; falsaður; framhjáhalds- ([an ~ relationship])
 adultery n. framhjáhald, hjúskaparbrot, hórdómur
@@ -648,7 +648,7 @@ ailing l. lasinn, sjúkur
 ailment n. lasleiki, veikindi; kvilli ([my many ~s])
 aim s. miða (á [at]); [~ at the public good] að almenningsheill; n. mið; áform, markmið; [take ~] miða
 aimless l. stefnulaus, markmiðslaus, án markmiðs eða tilgangs ([an ~ life]); tilgangslaus
-ain't s. vera ekki (stytt. á [am (are, is) not])
+ain't s. vera ekki (óforml. stytt. á [am (are, is) not])
 air n. loft; hægur vindur, gola; súgur; blær, svipur, útlit; sönglag; [in the open ~] undir berum himni; [to give oneself (put on) ~s] setja á sig merkissvip; s. viðra; þurrka við eld; láta bera á (sér)
 air bladder n. sundmagi
 airgun n. loftbyssa, vindbyssa
@@ -888,8 +888,8 @@ amiably ao. ástúðlega, alúðlega
 amicability n. vinsemd, bróðerni
 amicable l. vingjarnlegur, vinalegur, vinsamlegur
 amicably ao. vingjarnlega, vinalega, vinsamlega, í vinsemd
-amid ao. innan um; í; á meðal
-amidst ao. innan um; í; á meðal
+amid fs. innan um; í; á meðal
+amidst fs. innan um; í; á meðal
 amidship ao. miðskipa
 amiss ao. ranglega; skakkt, illa; úr lagi; [take ~] misskilja, þykkjast af
 amity n. vinátta
@@ -1451,7 +1451,7 @@ askance ao. til hliðar; á ská; [look ~ at] gjóta hornauga til e-s; hafa ímu
 askant ao. til hliðar; á ská; [look ~ at] gjóta hornauga til e-s; hafa ímugust á
 askew ao. á ská; skáhalt
 aslant ao. á ská; skáhalt
-asleep ao. í svefni, sofandi; [fall ~] sofna; [be, lie ~] sofa; vera dofinn ([my hands are ~])
+asleep l. sofandi, í svefni; [fall ~] sofna; [be, lie ~] sofa; vera dofinn ([my hands are ~])
 aslope l. hallandi, hallur; ao. skáhalt
 asp n. ösp, espiviður; eiturormur
 aspen l. espiviðar-; skjálfandi; n. ösp
@@ -1499,7 +1499,7 @@ assessor n. ráðunautur; niðurjöfnunarmaður; virðingarmaður
 asseverate s. staðhæfa, fullyrða hátíðlega
 asseveration n. hátíðleg staðhæfing
 asset n. eign, haldbær eign
-assets nft. eignir til skuldagreiðslu í dánar- eða þrotabúi; [~ and liabilities/debts] eignir og skuldir (í búi)
+assets nft. eignir; eignir til skuldagreiðslu í dánar- eða þrotabúi; [~ and liabilities/debts] eignir og skuldir (í búi)
 assiduity n. iðni, atorkusemi; ft. stimamýkt
 assiduous l. kostgæfinn, atorkusamur; stöðugur
 assiduousness n. elja, atorkusemi
@@ -1714,7 +1714,7 @@ automaton n. sjálfhreyfivél, sjálfvirk vél; vélmenni, þjarkur, vélþræll
 automatous l. sjálfhreyfandi
 autonomous l. sjálfstjórnar-, sjálfræðis-; sjálfráður; sjálfstýrður; óháður
 autonomy n. sjálfræði, sjálfstjórn, sjálfsforræði
-autopsy n. krufning, líkskoðun; sjálfsjón
+autopsy n. krufning, líkskoðun
 autoptic l. sjálfsjáandi ([an autoptic witness] sjónarvottur)
 autumn n. haust
 autumnal l. haustlegur, haust- ([~ rain])
@@ -1752,7 +1752,7 @@ aviator n. flugmaður
 avid l. sólginn, gráðugur (í e-ð [for, after])
 avidity n. girnd, fíkn; græðgi, ágirnd ([~ of gold])
 aviso n. frétta-(njósnar-)-gufuskip
-avocation n. frátöf; aukastarf; starf ([pressing ~s])
+avocation n. áhugamál, tómstundagaman; frátöf; aukastarf; starf ([pressing ~s])
 avoid s. forðast; komast undan (hjá); rifta, ónýta (samning)
 avoidable l. hjásneiðanlegur
 avoidance n. hjásneiðing; rifting, ónýting

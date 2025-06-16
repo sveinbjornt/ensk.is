@@ -4,7 +4,7 @@ jack n. gosi (í spilum), strákur; fífl; sjómaður; þjónn, verkamaður; lyf
 jack-a-dandy n. spjátrungur
 jackass n. asni (karldýrið)
 jackboot n. hástígvél, reiðstígvél
-jackknife n. stór sjálfskeiðingur
+jackknife n. stór vasahnífur
 jack-o'-lantern n. mýrarljós
 jack plane n. ruðull
 jackscrew n. lyftiskrúfa, dúnkraftur
@@ -61,7 +61,7 @@ jeeringly ao. í háði
 jejune l. magur, ófrjór (um jarðveg); leiðinlegur
 jellied l. hlaupkenndur
 jelly n. hlaup, þykkur safi; s. hlaupa
-jellyfish n. marglitta
+jellyfish n. marglytta
 jemmy n. innbrotsjárn
 jennet n. lítill spænskur hestur ([she rode on a Spanish ~])
 jenny n. spunavél
@@ -100,14 +100,14 @@ jibboom n. fremri hluti bugspjóts
 jibber s. tala fljótt og óskilmerkilega
 jibe s. sjá %[gibe]%
 jig n. e.k. dans; s. dansa
-jilt s. hafna elskhuga sínum n. e-r sem hafnar elskhuga sínum
+jilt s. hafna elskhuga sínum; n. sá sem svíkur í ástum, e-r sem hafnar elskhuga
 jimmy n. sjá %[jemmy]%
 jingle s. hringla, glamra; n. hringl, glamur
 jingling n. hringl, glamur
 jingler n. glamrari
 jingo n. þjóðskrumari
 jingoism n. þjóðrembingur
-job n. lausavinna, íhlaupavinna; samningsvinna; vinna; s. leigja (t.d. vagn eða hesta); vinna verk eftir samningi; kaupa í stórkaupum og selja í smásölu; kaupa og selja verðbréf
+job n. starf, vinna; lausavinna, íhlaupavinna; samningsvinna; s. leigja (t.d. vagn eða hesta); vinna verk eftir samningi; kaupa í stórkaupum og selja í smásölu; kaupa og selja verðbréf
 jobber n. daglaunamaður; kaupmiðill; miðill; víxlakaupmaður; okrari
 jobbery n. víxlakaup; okurverslun
 jobmaster n. sá sem leigir (öðrum) hesta eða vagna
@@ -138,7 +138,7 @@ joint stool n. kjaftastóll
 jointure n. sameiginleg jarðeign manns og konu, einnig jarðeign, sem maðurinn hefur fengið konunni til ævilangra umráða eftir sinn dag
 joist n. þverbjálki, biti í húsi
 joke n. brandari; gaman; spaug; fyndni; athlægi; [practical ~] hrekkur, gletta, keskni; [to turn everything into a ~] snúa öllu upp í glens; s. gera að gamni sínu; stríða (með e-u [about, upon])
-joker n. gamansamur maður; [practical ~] meinfyndinn maður
+joker n. grínisti, brandarakarl, gamansamur maður; [practical ~] meinfyndinn maður; gosi (í spilum)
 jokesome l. gamansamur
 jokingly ao. í gamni
 jole n. sjá %[jowl]%

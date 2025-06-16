@@ -87,12 +87,11 @@ nauseous l. velgjulegur, væminn
 nautical l. siglingalegur, siglinga-
 nautical mile n. sjómíla
 nautical chart n. sjókort
-nautical men n. siglingafróðir menn
 naval l. skipa- ([~ force, power]); flota- ([~ port]); sjóliðs- ([~ officer])
 nave n. nöf, hjólnöf; miðskip (í kirkju), meginkirkja
 navel n. nafli; miðdepill
 navel-string n. naflastrengur
-navigable n. skipfær, skipgengur; sjófær ([in ~ condition])
+navigable l. skipfær, skipgengur; sjófær ([in ~ condition])
 navigate s. sigla; sigla um eða yfir ([~ the sea, a river]); stýra (skipi, flugvél)
 navigation n. sigling(ar); siglingafræði; sjómennska
 navigator n. siglingamaður; sjómaður
@@ -101,13 +100,13 @@ navy n. floti, sjóher; herskipastóll; [~ bill] flotavíxill; [~ court] sjóré
 nay ao. nei (nú vanalega %[no]%); n. nei, neikvæði ([my ~ is just as good as your aye]); (oft haft til áherslu) já, jafnvel, meira að segja ([I think, ~ I am sure])
 neap l. smár; n. smár straumur, smástreymi ([~ tide])
 neaped l. fjaraður uppi (um skip)
-near l. nálægur; nákominn; náinn, ná-; vinstri (um hesta, [the ~ fore leg]); spar, sparsamur, nískur; [~ escape] rétt slapp; [the ~est way] beinasta leiðin; [~ is my coat, but ~er is my skin] nær er skinnið en skyrtan; ao. nálægt, nærri, nær; nálega; s. nálgast, koma nær; [~ related] náskyldur
-nearly fs. við, hjá, nálægt; ao. næstum, nærri því, nálega; vandlega ([examine ~]); nánasarlega
+near fs. við, hjá, nálægt; l. nálægur; nákominn; náinn, ná-; vinstri (um hesta, [the ~ foreleg]); spar, sparsamur, nískur; [~ escape] rétt slapp; [the ~est way] beinasta leiðin; [~ is my coat, but ~er is my skin] nær er skinnið en skyrtan; ao. nálægt, nærri, nær; nálega; s. nálgast, koma nær; [~ related] náskyldur
+nearly ao. næstum, nærri því, nálega; vandlega ([examine ~]); nánasarlega
 nearness n. nánd, nágrenni; nálægð; náið samband; náskyldleiki; níska
 near-sighted l. nærsýnn
 nearsightedness n. nærsýni
 neat n. naut, nautpeningur
-neat l. hreinlegur, þokkalegur, snotur; hreinn, óblandaður; skýr, ljós; að drádregnum umbúðum ([~ weight]) eða kostnaði
+neat l. hreinlegur, þokkalegur, snotur; hreinn, óblandaður; skýr, ljós; að frádregnum umbúðum ([~ weight]) eða kostnaði
 neatness n. snoturleiki; hreinlæti
 neb n. nef (á fugli); trýni
 nebula n. stjörnuþoka
@@ -159,8 +158,8 @@ negotiable l. umsemjanlegur; seljanlegur (um verðbréf)
 negotiate s. semja (við e-n um e-ð [with one for something]); fá (e-u) framgengt; selja (um verðbréf)
 negotiation n. samningur; samningstilraun; [enter into ~ with] fara að semja við e-n
 negotiator n. samningamaður; umsækjandi; kaupandi og seljandi; milligöngumaður
-negress n. svertingjastúlka
-negro n. blökkumaður, svartur maður, blámaður, svertingi
+negress n. (úrelt og niðrandi) svört kona
+negro n. (úrelt og niðrandi) blökkumaður, svartur maður, svertingi
 negus n. heit vínblanda
 neigh s. hneggja; n. hnegg
 neighbor n. sjá %[neighbour]%
@@ -168,7 +167,7 @@ neighbour n. nágranni, nábúi; sessunautur ([my ~ at dinner]); náungi; l. ná
 neighbourhood n. hverfi; nágrenni, nábýli, grennd; nábúar; [in the ~ of] nálægt, hér um bil
 neighbouring l. nærliggjandi, nálægur
 neighbourly l. nágrannalegur, nábúalegur; vingjarnlegur
-neither l. hvorugur ([~ of them knows]); st. hvorki; (og) ekki heldur ([if you do not go, ~ shall I]); [~ ... nor] hvorki ... né
+neither fn. hvorugur ([~ of them knows]); st. hvorki; (og) ekki heldur ([if you do not go, ~ shall I]); [~ ... nor] hvorki ... né
 nemesis n. hefninorn; andstæðingur; hefnd, makleg málagjöld
 neo- fsk. ný-
 neologism n. nýyrði, nýgervingur; ný kenning
@@ -178,13 +177,13 @@ nephew n. frændi, bróðursonur, systursonur
 nephritic l. nýrna, nýrnaveikur
 nephritis n. nýrnabólga
 nepotism n. frændhygli, framdráttur skyldmenna
-nereid n. skeri (e.k. sæormur)
+nereid n. sædís, hafmey
 nerve n. taug; styrkur, kjarkur; [through ~ and bone] gegnum merg og bein; [strong in ~] taugasterkur; [to strain every ~] neyta allrar orku; s. styrkja, treysta, stæla; [~ oneself] taka högg á sig, herða sig
 nerveless l. þróttlaus, kjarklaus
 nervine n. taugalyf
-nervous l. sterkur, kröftugur; taugastyrkjandi; taugaveikur, óstyrkur; kvíðafullur; [the ~ system] taugakerfið
-nervously ao. með kvíða, hræðslu; kröftuglega
-nervousness n. taugaveiklun, óstyrkur; kvíðasemi; kraftur, styrkleiki
+nervous l. taugaveikur, taugaóstyrkur; kvíðafullur, kvíðinn; [the ~ system] taugakerfið
+nervously ao. með kvíða, hræðslu
+nervousness n. taugaveiklun, óstyrkur; kvíðasemi
 nervy l. sjá %[nervous]%
 nescience n. fáfræði, vankunnátta
 nescient l. fákunnandi, fáfróður (um e-ð [of])
@@ -253,7 +252,7 @@ niece n. frænka, bróðurdóttir, systurdóttir
 niggard n. nirfill, svíðingur; l. svíðinglegur, nískur
 niggardliness n. svíðingsskapur, níska
 niggardly l. nískur, svíðinglegur; ao. nískulega, svíðinglega
-nigger n. niggari, negri (mjög niðrandi orð um blökkufólk)
+nigger n. (mjög niðrandi) niggari, negri
 niggle n. dund, nostur; pár; s. dunda (við e-ð [at]); [~ along] fara hægt áfram
 niggling n. nostursemi; vöndun; l. smásmuglegur
 nigh l. nálægur; ao. nálægt, nærri því; [well ~] hartnær
@@ -339,7 +338,7 @@ noisome l. skaðlegur, óhollur; fúll, viðbjóðslegur; daunillur ([a ~ dungeo
 noisy l. hávær, háreistur, hávaðasamur ([a ~ market])
 nomad n. umfarandi hjarðmaður, hirðingi; e-r sem ekki hefur fasta búsetu og fer frá einum stað til annars
 nomadic l. umfarandi, reikandi ([~ tribe]); hjarðmannlegur, hirðingja-
-nomadize n. lifa hjarðmannalífi (hirðingjalífi)
+nomadize s. lifa hjarðmannalífi (hirðingjalífi)
 nomenclature n. nafnaskrá; vísindaleg heiti (í e-i vísindagrein), iðnheiti
 nominal l. nafna-; nafn-; sem aðeins er að nafninu til (mótstætt við [real])
 nominally ao. að nafninu til; í orði kveðnu
@@ -433,7 +432,7 @@ nourish s. næra; fæða; ala (upp [up]); [~ a hope] hafa von
 nourishing l. saðsamur
 nourishment n. næring, fæða
 novel l. nýr, nýstárlegur; n. skáldsaga
-novelish n. skáldsagnalegur
+novelish l. skáldsagnalegur
 novelist n. skáldsagnahöfundur
 novelize s. lýsa (e-u) í skáldsögu
 novelty n. nýjung, nýlunda, nýbreytni

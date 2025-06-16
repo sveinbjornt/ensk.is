@@ -7,7 +7,7 @@ eagle-eyed l. arneygur, hvasseygur
 eaglet n. arnarungi
 ear n. eyra; handarhald; hanki; [over (head and) ~s, up to the ~s in debt] skuldunum vafinn; [turn a deaf ~ to] skjóta skolleyrunum við e-u; [pull/drag by the ~s] draga á eyrunum; [set by the ~s] siga (etja) e-m saman; [sing/play by ~] syngja (leika á hljóðfæri) nótnalaust, eftir eyra; [have itching ~s] vera forvitinn; ax (á korni); s. skjóta öxum; [the rye was beginning to ~] öx voru farin að koma á rúginn
 earache n. hlustarverkur
-eardrops nft. eyrnalokkar
+eardrops nft. eyrnadropar
 earless l. eyrnalaus; heyrnarlaus; hanka- eða handarhaldslaus
 earmark n. eyrnamark (á kind)
 earpick n. eyrnaskefill
@@ -50,7 +50,7 @@ easy chair n. hægindastóll
 easy-going l. þýður (um hest); makráður
 eat s. éta, snæða, borða; [~ one's words] éta ofan í sig (orð sín)
 eatable l. ætur, ætilegur
-eatables nft. matvæli
+eatables nft. matvæli (úrelt, sjá %[edibles]%)
 eater n. átmaður
 eating n. matur; át; [good ~] góður átu
 eating house n. matsöluhús
@@ -64,7 +64,7 @@ ebonize s. svartbæsa (húsgögn)
 ebony n. íbenholt
 ebriety n. ofdrykkja, ölæði
 ebrious l. hneigður til ofdrykkju; drykkjumannlegur
-ebullient l. sjóðandi, vellandi; ólgandi
+ebullient l. sjóðandi, vellandi; ólgandi; fjörugur, hress
 ebullition n. suða; ólga; snöggt uppþot
 eccentric l. ósammiðja (um hring); óreglubundinn; undarlegur, kenjóttur, sérvitur; n. sérvitringur
 eccentricity n. sá eiginleiki að liggja fyrir utan miðdepilinn, hringskekkja; kenjar; sérviska; öfgar
@@ -78,8 +78,8 @@ eclipse n. myrkvi; s. draga myrkva yfir, skyggja á; kasta skugga á, bera af
 ecliptic n. sólarbraut, sólbrautarbaugur
 eclogue n. hirðingjaljóð
 economic l. hagfræðilegur, þjóðmegunarlegur; sparsamur; sem er til hagsmuna (eða sparnaðar); efnahagslegur (sem snertir hið efnahagslega ástand)
-economical l. hagfræðilegur, þjóðmegunarlegur; sparsamur; sem er til hagsmuna (eða sparnaðar); efnahagslegur (sem snertir hið efnahagslega ástand)
-economics nft. hagfræði, þjóðmegunarfræði
+economical l. sparsamur; sem er til hagsmuna (eða sparnaðar)
+economics n. hagfræði, þjóðmegunarfræði
 economist n. hagfræðingur, þjóðmegunarfræðingur; sparnaðarmaður
 economize s. spara; nota sparlega; hagnýta
 economy n. efnahagur; efnahagslegt ástand; hagkerfi; efnahagslíf; [political ~] þjóðmegunarfræði; (hús)stjórn; fyrirkomulag, tilhögun; sparsemi, sparnaður
@@ -193,7 +193,7 @@ eighth l. áttundi
 eighthly ao. í áttunda lagi
 eightieth l. áttatugasti
 eighty l. áttatíu
-either l. annar hvor; hvor fyrir sig, hvor tveggja; [on ~ side of the river] báðum megin árinnar; ao. annaðhvort; [~ ... or] annaðhvort ... eða ([~ you or I am wrong]); [if you do not go, I will not go ~] þá fer ég ekki heldur
+either fn. annar hvor; hvor fyrir sig, hvor tveggja; [on ~ side of the river] báðum megin árinnar; ao. annaðhvort; [~ ... or] annaðhvort ... eða ([~ you or I am wrong]); [if you do not go, I will not go ~] þá fer ég ekki heldur
 ejaculate s. spýta; kalla upp; [~ a short prayer] mæla fram stutta bæn
 ejaculation n. spýting; sáðlát, sáðfall; stutt bæn; kall
 ejaculatory l. skammur, snöggur; sáðláts-, sáðfalls-
@@ -212,7 +212,7 @@ elate l. háleitur; hreykinn, hróðugur; s. örva, æsa; gera hrokafullan eða 
 elated l. hrokafullur, hróðugur
 elation n. kæti, fögnuður; hroki
 elbow n. olbogi; bugða (á vegi eða á); [up to the ~s] önnum kafinn; [out at ~(s)] með olbogann út úr; í kröggum; s. gefa olbogaskot; bola burtu (einnig með [off/out of]); [~ oneself/one's way] troða sér fram
-elbowchair n. hægindastóll
+elbow chair n. armstóll, hægindastóll
 elbow room n. rúm til að geta hreyft sig, svigrúm
 elder l. eldri; n. öldungur (í kirkjunni); ylliviður, yllir
 elders nft. eldri menn; [my ~] eldri menn en ég
@@ -571,8 +571,8 @@ engulf s. gleypa; sjá %[ingulf]%
 enhance s. auka; hækka, setja upp (verð); ýkja
 enhancement n. aukning; verðhækkun
 enigma n. gáta, ráðgáta
-enigmatic n. óskiljanlegur; dularfullur
-enigmatical n. óskiljanlegur; dularfullur
+enigmatic l. óskiljanlegur; dularfullur
+enigmatical l. óskiljanlegur; dularfullur
 enigmatize s. gera óskiljanlegt
 enisle s. setja út í eyju; einangra
 enjoin s. leggja e-ð fyrir e-n, fyrirskipa (e-m [on, upon]); leggja ríkt á við e-n; (í lagamáli) banna
@@ -861,7 +861,7 @@ espousals nft. trúlofun
 espouse s. kvongast, giftast; fastna; taka að sér, aðhyllast ([~ a cause, doctrine, theory])
 esprit n. fjör og fyndni í ræðu og riti, andríki; [~ de corps] liðsandi (úr frönsku)
 espy s. njósna; verða var við, koma auga á; gæta, horfa
-Esquimaux n. Eskimói (einnig ritað %[Eskimo]%)
+Esquimaux n. (úrelt) Eskimói (einnig ritað %[Eskimo]%)
 esquire n. skjaldsveinn, riddarasveinn; herra (skammstafað %[Esq.]%)
 essay n. ritgerð (um e-ð [on]); tilraun ([to make an ~ at something]); s. reyna, prófa; freista (e-s)
 essayal n. raun; [to make ~ of] reyna
@@ -898,7 +898,7 @@ eternize s. gera eilífan
 ether n. upploft; ljósvaki; eter
 ethereal l. upphiminslegur; loftlegur; ljósvakalegur
 etherealize s. svæfa (sjúkling) með eter
-ethic l. siðfræðilegur; n. siðfræði, siðferði
+ethic n. siðaregla, siðferðisviðmið
 ethical l. siðfræðilegur, siðferðilegur
 ethics nft. siðfræði, siðferði
 Ethiopian l. eþíópískur; n. Eþíópi
@@ -1129,8 +1129,8 @@ executive l. framkvæmandi, framkvæmdar-; n. framkvæmdarvald, framkvæmdarstj�
 executor n. framkvæmandi
 executory l. sem lýtur að framkvæmd (skipunar, úrskurðar, laga o.fl.)
 exegesis n. ritskýring, ritskýringarlist
-exegetic l. , ritskýringar-, skýringarlegur, sem skýrir e-ð
-exegetical l. , ritskýringar-, skýringarlegur, sem skýrir e-ð
+exegetic l. ritskýringar-, skýringarlegur, sem skýrir e-ð
+exegetical l. ritskýringar-, skýringarlegur, sem skýrir e-ð
 exemplar n. fyrirmynd; dæmi; eintak
 exemplarily ao. öðrum til viðvörunar ([~ punished]); frábærlega ([~ faithful])
 exemplary l. sem er til fyrirmyndar eða viðvörunar; frábær
@@ -1317,7 +1317,7 @@ extenuation n. megurð; megrun; rýring; afsökun
 extenuatory l. afsakandi, fegrandi ([~ phrases])
 exterior l. ytri; utanverður; nft. [~s] ytra útlit
 exteriorly ao. að utan; hið ytra
-exterminate n. uppræta; gereyða
+exterminate s. uppræta; gereyða
 extermination n. uppræting, gjöreyðing
 exterminator n. upprætari
 external l. ytri, utanverður; sem kemur að utan; [~ trade] verslun við útlönd
