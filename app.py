@@ -51,13 +51,22 @@ from fastapi.responses import (
     RedirectResponse,
     JSONResponse as FastAPIJSONResponse,
 )
+from fastapi_mcp import FastApiMCP
 from starlette.middleware.base import BaseHTTPMiddleware
 import orjson
 
 from db import EnskDatabase
 from dict import read_wordlist, unpack_definition, linked_synonyms_for_word
 from info import PROJECT
-from util import icelandic_human_size, perc, is_ascii, sing_or_plur, cache_response
+from util import (
+    icelandic_human_size,
+    perc,
+    is_ascii,
+    sing_or_plur,
+    cache_response,
+    strip_html_from_string,
+    strip_parentheses_from_string,
+)
 
 # Create app
 app = FastAPI(
@@ -156,7 +165,7 @@ app.add_middleware(AddCustomHeaderMiddleware)
 
 # Custom JSON response class that uses ultrafast orjson for serialization
 class CustomJSONResponse(FastAPIJSONResponse):
-    """JSON response using the high-performance orjson library to serialize the data."""
+    """JSON response using the high-performance orjson library for serialization."""
 
     def render(self, content: Any) -> bytes:
         return orjson.dumps(content)
@@ -174,7 +183,7 @@ MAX_DEF_LENGTH = 200
 
 
 def _format_item(item: dict[str, Any]) -> dict[str, Any]:
-    """Format dictionary entry for presentation."""
+    """Format dictionary entry for HTML template use."""
     w = item["word"]
     x = item["definition"]
 
@@ -746,10 +755,10 @@ async def robots(request: Request) -> Response:
 # API endpoints
 
 
-@app.get("/api/metadata")
+@app.get("/api/metadata", operation_id="get_metadata")  # type: ignore
 @cache_response
 async def api_metadata(request: Request) -> JSONResponse:
-    """Return metadata about the dictionary."""
+    """Return metadata about the English-Icelandic dictionary."""
     return JSONResponse(content=metadata)
 
 
@@ -762,10 +771,10 @@ async def api_suggest(request: Request, q: str, limit: int = 10) -> JSONResponse
     return JSONResponse(content=words)
 
 
-@app.get("/api/search/{q}")  # type: ignore
+@app.get("/api/search/{q}", operation_id="search_for_word")  # type: ignore
 @cache_response(SEARCH_CACHE_SIZE)
 async def api_search(request: Request, q: str) -> JSONResponse:
-    """Return search results in JSON format."""
+    """Return search results in JSON format from the English-Icelandic dictionary."""
     if len(q) < 2:
         return _err("Query too short")
 
@@ -774,10 +783,10 @@ async def api_search(request: Request, q: str) -> JSONResponse:
     return JSONResponse(content={"results": results})
 
 
-@app.get("/api/item/{w}")  # type: ignore
+@app.get("/api/item/{w}", operation_id="lookup_single_word")  # type: ignore
 @cache_response(SEARCH_CACHE_SIZE)
 async def api_item(request: Request, w: str) -> JSONResponse:
-    """Return single dictionary entry in JSON format."""
+    """Return single English-Icelandic dictionary entry in JSON format."""
     ws = w.strip()
 
     results, exact = _cached_results(ws, exact_match=True)
@@ -787,10 +796,10 @@ async def api_item(request: Request, w: str) -> JSONResponse:
     return JSONResponse(content=results[0])
 
 
-@app.get("/api/item/parsed/{w}")  # type: ignore
+@app.get("/api/item/parsed/{w}", operation_id="lookup_single_word_parsed")  # type: ignore
 @cache_response(SEARCH_CACHE_SIZE)
 async def api_item_parsed(request: Request, w: str) -> JSONResponse:
-    """Return single dictionary entry in JSON format with parsed definition."""
+    """Return single English-Icelandic dictionary entry in JSON format with parsed definition."""
     ws = w.strip()
 
     results, exact = _cached_results(ws, exact_match=True)
@@ -810,30 +819,23 @@ async def api_item_parsed(request: Request, w: str) -> JSONResponse:
     return JSONResponse(content=result)
 
 
-def _strip_html(s: str) -> str:
-    """Strip HTML tags from a string."""
-    return re.sub(r"<[^>]+>", "", s)
-
-
-def _strip_parentheses(s: str) -> str:
-    """Strip parentheses from a string."""
-    return re.sub(r"\(.*?\)", "", s)
-
-
-@app.get("/api/item/parsed/many/")  # type: ignore
+@app.get("/api/item/parsed/many/", operation_id="lookup_many_words_parsed")  # type: ignore
 @cache_response(SMALL_CACHE_SIZE)
 async def api_item_parsed_many(
     request: Request, q: str, strip_html: int = 0, strip_parentheses: int = 0
 ) -> JSONResponse:
+    """Return multiple English-Icelandic dictionary entries in JSON format with
+    parsed definitions. The q parameter should be a list of comma-separated terms.
+    Optionally, strip HTML tags and all text within parentheses."""
     q = q.strip()
 
     words = [w.strip() for w in q.split(",")]
 
     def _process_item(s: str) -> str:
         if strip_html:
-            s = _strip_html(s)
+            s = strip_html_from_string(s)
         if strip_parentheses:
-            s = _strip_parentheses(s)
+            s = strip_parentheses_from_string(s)
         return s.strip()
 
     res = {}
@@ -849,3 +851,32 @@ async def api_item_parsed_many(
         res[w] = comp
 
     return JSONResponse(content=res)
+
+
+MCP_OPERATIONS = [
+    "get_metadata",
+    "search_for_word",
+    "lookup_word",
+    "lookup_single_word_parsed",
+    "lookup_many_words_parsed",
+]
+
+
+mcp = FastApiMCP(
+    app,
+    name="Ensk.is",  # Name for your MCP server
+    description="English-Icelandic dictionary MCP server",  # Description
+    # describe_all_responses=True,  # Include all possible response schemas
+    describe_full_response_schema=True,  # Include full JSON schema in descriptions
+    include_operations=MCP_OPERATIONS,
+)
+
+# Mount the MCP server to your FastAPI app
+mcp.mount()
+
+
+# CLI invocation
+if __name__ == "__main__":
+    import uvicorn
+
+    uvicorn.run(app, host="0.0.0.0", port=8000)

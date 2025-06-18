@@ -47,6 +47,7 @@ from os.path import exists
 from cachetools.keys import hashkey
 from collections import OrderedDict
 from functools import wraps
+import re
 
 import orjson as json
 
@@ -158,6 +159,16 @@ def silently_remove(path: str) -> None:
             os.remove(path)
     except Exception:
         pass
+
+
+def strip_html_from_string(s: str) -> str:
+    """Strip HTML tags from a string."""
+    return re.sub(r"<[^>]+>", "", s)
+
+
+def strip_parentheses_from_string(s: str) -> str:
+    """Strip parentheses from a string."""
+    return re.sub(r"\(.*?\)", "", s)
 
 
 def cache_response(maxsize=None):
