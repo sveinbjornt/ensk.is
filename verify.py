@@ -40,7 +40,7 @@ Check formatting and integrity of raw text dictionary entries.
 import re
 import time
 
-import requests
+import httpx
 
 from dict import read_raw_pages, parse_line, read_all_words
 from util import read_wordlist
@@ -250,7 +250,7 @@ def check_icelandic_words(line: str, pn: str, ln: int):
                 not_in_bin = True
 
         if not_in_bin:
-            res = requests.get(f"https://malid.is/api_proxy/othekkt/{txt}")
+            res = httpx.get(f"https://malid.is/api_proxy/othekkt/{txt}")
             if res.status_code == 200:
                 res = res.json()
                 flettur = res[0]["othekktlisti"]["flettur"]

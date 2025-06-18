@@ -1,10 +1,9 @@
 httpx==0.28.1 # Used in tests
-fastapi>=0.115.13
-jinja2>=3.1.6
-sqlite-utils>=3.38
-aiofiles>=24.1.0
-orjson>=3.10.15
-requests>=2.32.3
-cachetools>=5.5.2
-reportlab>=4.3.1
+fastapi==0.115.13
+jinja2==3.1.6
+sqlite-utils==3.38
+aiofiles==24.1.0
+orjson==3.10.18
+cachetools==6.1.0
+reportlab==4.4.2
 fastapi-mcp==0.3.4

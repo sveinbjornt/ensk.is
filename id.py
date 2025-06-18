@@ -3,7 +3,7 @@
 import time
 import random
 
-import requests
+import httpx
 
 from util import read_wordlist
 
@@ -18,7 +18,7 @@ def main() -> int:
         if "(" in word:
             continue
         url = f"https://idord.arnastofnun.is/d/api/es/agg/dictionaries/?ord={word}"
-        response = requests.get(url)
+        response = httpx.get(url)
 
         r: dict = response.json()
         if not r.get("results") or len(r["results"]) == 0:
