@@ -1205,8 +1205,8 @@ disrelish n. óbeit; s .hafa óbeit á
 disrepair n. niðurníðsla; [in ~] niðurníddur, af sér genginn
 disreputable l. sem óorð fer af ([a ~ person]); ósæmilegur
 disrepute n. óorð; [to bring into ~] koma óorði á e-ð
-disrespect n. virðingarskortur; ókurteisi
-disrespectful l. ókurteis
+disrespect n. virðingarskortur, virðingarleysi; ókurteisi
+disrespectful l. ókurteis, virðingarlaus, sem sýnir virðingarleysi
 disrobe s. afklæða
 disrupt s. trufla, raska; sprengja, brjóta
 disruption n. truflun, röskun; sprenging; brot, sprunga
@@ -1390,7 +1390,7 @@ dodger n. bragðarefur
 doe n. blauða dádýrið, dáhind
 doer n. gjörandi, framkvæmdarmaður ([~ of mischief])
 doff s. færa (sig) úr; taka ofan
-dog n. hundur; s. elta e-n (eins og hundur); siga hundum á e-n
+dog n. hundur; pylsa (stytt. á %[hot dog]%); s. elta e-n (eins og hundur); siga hundum á e-n; skúrkur; pylsa
 dogcart n. veiðivagn
 dog-cheap l. sem fæst fyrir gjafverð, hundódýr
 dog days nft. hundadagar

@@ -3,14 +3,14 @@ an gr. óákveðinn greinir ([an axe] öxi, [an animal] dýr)
 aback ao. aftur á bak; afsíðis; upp í vindinn; [be taken ~] verða bilt við, verða hissa
 abaft ao. í afturhluta skips; fs. fyrir aftan
 abandon s. yfirgefa; hætta við; selja í hendur; ofurselja
-abandoned l. yfirgefinn; ofurseldur e-u ([to]); andvaralaus; gjörspilltur
-abandonment n. yfirgefning; andvaraleysi; frekja
-abase s. láta síga, lækka; auðmýkja
+abandoned l. yfirgefinn; mannlaus; ofurseldur e-u ([to]); andvaralaus; gjörspilltur
+abandonment n. yfirgefning; andvaraleysi; taumleysi; frekja
+abase s. láta síga, lækka; auðmýkja, niðurlægja
 abasement n. lítillækkun; auðmýkt, niðurlæging
-abash s. gera sneyptan
+abash s. gera sneyptan, gera vandræðalegan
 abashment n. skammfylli, feimni
-abate s. minnka; slá af (um verð); gera enda á, eyða; þverra, réna; lægja (um veður)
-abatement n. rýrnun, rénun; afsláttur, niðurfærsla
+abate s. minnka; lækka; slá af (um verð); gera enda á, eyða; þverra, réna; lægja (um veður)
+abatement n. minnkun, rýrnun, rénun; afsláttur, niðurfærsla
 abatis n. virki úr felldum trjám
 abattis n. virki úr felldum trjám
 abb n. ívaf, fyrirvaf
@@ -29,7 +29,7 @@ abdomen n. kviður
 abdominal l. kviðlegur, kvið- ([~ fin])
 abdominous l. kviðmikill, vambmikill
 abduce s. færa burt
-abduct s. flytja burt, ræna
+abduct s. ræna, nema á brott; flytja burt
 abduction n. brottnám, mannrán
 abductor n. ránsmaður, mannræningi
 abeam ao. þvers, þversum
@@ -205,7 +205,7 @@ accomplish s. framkvæma; ljúka við, enda ([~ a journey]); fullgjöra, fullkom
 accomplished l. fullkominn; [highly ~] hámenntaður
 accomplishment n. framkvæmd; afrek; atgervi
 accord n. samhljóðan; sátt; samningur; [of one's own ~] sjálfkrafa; [with one ~] í einu hljóði; s. koma sér saman; vera samhljóðandi ([with]); jafna (deilu); veita
-accordance n. samhljóðan, samræmi ([in ~ with]); veiting
+accordance n. samræmi ([in ~ with]); samhljóðan; veiting
 accordant l. samkvæmur, samhljóða e-u ([with, to])
 accordantly ao. samkvæmt
 according s. [~ to] samkvæmt, eftir; [~ as] eftir því sem
@@ -347,7 +347,7 @@ addle l. stropaður, fúll (um egg); ruglaður; s. rugla (heilann); ónýta; fú
 addlebrain n. auli
 addlebrained l. vitlaus
 address s. snúa, beina (ósk, bæn, orðum); ávarpa; skrifa utan á; [~ oneself (one's words) to a person] snúa máli sínu til e-s; [~ oneself to a task] búast til; n. heimilisfang; ávarp, ræða; utanáskrift; fimleiki; viðmót; [pay one's ~es to a lady] gera sig líklegan við; [a man of pleasing ~] þægilegur í viðmóti
-adduce s. tilgreina, vitna til, tilfæra sem sönnun
+adduce s. tilgreina, vitna til, tilfæra sem sönnun, vísa í
 adduction n. aðdráttur; tilgreining
 adept l. leikinn (í [in]), lunkinn, kænn; n. snillingur (í e-i kunnáttu)
 adequacy n. samsvörun
@@ -1263,8 +1263,8 @@ approximately ao. um það bil, nokkurn veginn, nálega
 approximation n. nálgun
 appurtenances nft. allt sem fylgir, fylgihlutir, fylgibúnaður; áhöld, tæki
 appurtenant l. tilheyrandi, meðfylgjandi, fylgi-
-apricot n. apríkósa (aldin)
-April n. aprílmánuður
+apricot n. apríkósa (aldin); apríkósulitur; l. á litinn eins og apríkósa
+April n. apríl, aprílmánuður
 a priori ao. að óreyndu, á undan, fyrir fram (úr latínu)
 apron n. svunta
 apron string n. svuntustrengur

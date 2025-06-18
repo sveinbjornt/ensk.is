@@ -306,7 +306,7 @@ schistous l. flögukenndur, flögu-
 scholar n. fræðimaður, lærdómsmaður, vísindamaður
 scholarly l. lærður; vísindalegur
 scholarship n. lærdómur, þekking; námsstyrkur, féstyrkur (sem nemendum er veittur við háskóla)
-scholastic l. sem lýtur að skólum; skóla-; sem lýtur að miðaldaheimspeki; smásmuglegur; n. miðaldaheimspekingur
+scholastic l. sem lýtur að skólum; skóla-; sem lýtur að miðaldaheimspeki; smásmuglegur; hártogunar-; n. miðaldaheimspekingur
 school n. skóli; fiskatorfa; hópur; s. fræða, kenna; temja ([~ a horse]); segja (e-m) til siðanna
 schoolboard n. skólanefnd, skólastjórn
 schoolboy n. skólasveinn
@@ -1722,13 +1722,11 @@ sottish l. heimskur; sljór af drykkjuskap
 sough n. þytur; suða ([a ~ in the ears]); kvittur; stuna; [calm ~] hægur andardráttur; s. þjóta, hvína (um vind)
 soul n. sál
 soulless l. sálarlaus; ódrenglundaður, níðingslegur
-sound l. heill, heilbrigður; skynsamlegur ([~ policy, ~ advice]); óskemmdur ([~ fruit]); óspilltur; óbilaður; gallalaus, ósvikinn; réttur, gildur; rétttrúaður; fastur, vær (um svefn)
+sound n. hljóð, hljómur; sund; sundmagi; sárakanni; s. hljóma, glymja; hljóða ([it ~s as if]); láta hljóma; láta heyrast (í framburði); blása í (lúður); blása til (atlögu, undanhalds o.s.frv.); kanna (sár eða djúp); prófa; komast fyrir (e-ð); l. heill, heilbrigður; skynsamlegur ([~ policy, ~ advice]); óskemmdur ([~ fruit]); óspilltur; óbilaður; gallalaus, ósvikinn; réttur, gildur; rétttrúaður; fastur, vær (um svefn)
 soundly ao. vært ([sleep ~])
 soundness n. heilbrigði; gallaleysi; öruggleiki; réttleiki
-sound n. sund; sundmagi; sárakanni; s. kanna (sár eða djúp); prófa; komast fyrir (e-ð)
 sounding n. könnun; nft. djúp sem kannað verður með grunnsökku; [to be out of ~s] finna engan botn (með grunnsökku)
 sounding line n. lína með grunnsökku
-sound n. hljóð, hljómur; s. hljóma, glymja; hljóða ([it ~s as if]); láta hljóma; láta heyrast (í framburði); blása í (lúður); blása til (atlögu, undanhalds o.s.frv.)
 soundless l. hljómlaus, hljóðlaus; botnlaus
 soup n. súpa
 soup ladle n. súpuskeið
@@ -1956,7 +1954,7 @@ spoliation n. rán, ránskapur
 spoliator n. ræningi, ránsmaður
 spondee n. tvílangur bragliður
 sponge n. svampur; sveppur; njarðarvöttur; s. strjúka (hreinsa) með votum svampi; þurrka út ([~ off, up]); sníkja (á e-n [on, upon]); þurrka með njarðarvetti; sjúga í sig; sníkja
-spongy l. sveppkynjaður; holóttur; gljúpur; mjúkur
+spongy l. svampkenndur; sveppkynjaður; holóttur; gljúpur; mjúkur
 sponsal l. brúðar- ([~ bed, present])
 sponsion n. loforð, heit; ábyrgð
 sponsor n. ábyrgðarmaður; skírnarvottur (guðfaðir, guðmóðir)
@@ -2131,7 +2129,7 @@ stall n. stallur, hesthús; bás; sölupallur, fjalabúð; gólf (í leikhúsi);
 stall-fed l. alinn, gefinn
 stall-feed s. ala (skepnur í húsi)
 stallion n. graðhestur; graðfoli, stóðhestur
-stalwart l. hugaður, kjarkmikill; karlmannlegur
+stalwart l. hraustur; hugaður, kjarkmikill; karlmannlegur
 stamen n. duftberi, frævill
 stamina nft. fastir líkamshlutar; frumefni; höfuðatriði; styrkur, lífsþróttur, þol
 stammer s. stama; n. stam
@@ -2447,7 +2445,7 @@ straddle-legged l. gleiðgengur; klofvega, tvívega
 straggle s. dreifa sér; standa á víð og dreif; dragast aftur úr; reika; vaxa of langt út
 straggler n. umrenningur, flakkari; liðsmaður sem dregst aftur úr
 straggling l. dreifður
-straight l. beinn ([in a ~ line]), réttur; ráðvandur, hreinskilinn ([~ in all his dealings]); [put things ~] koma e-u í lag; ao. beint
+straight l. beinn ([in a ~ line]), réttur; ráðvandur, hreinskilinn ([~ in all his dealings]); [put things ~] koma e-u í lag; gagnkynhneigður (óforml.); ao. beint
 straighten s. gera beint, rétta
 straightforwardly ao. blátt áfram
 straightforwardness n. hreinskilni
@@ -2702,9 +2700,9 @@ suburb n. úthverfi, undirborg
 suburban l. sem liggur (eða er) í úthverfi ([a ~ hellhole])
 subvene s. koma til hjálpar
 subvention n. féstyrkur (úr ríkissjóði); hjálp
-subversion n. bylting, eyðing
-subversive l. eyðandi, spillandi ([of])
-subvert s. kollvarpa, eyða, spilla
+subversion n. bylting, eyðing, niðurrif, undirróður
+subversive l. eyðandi, spillandi ([of]); undirróðurs-
+subvert s. grafa undan, kollvarpa, eyða, spilla, rífa niður
 subway n. jarðgöng
 succeed s. koma eftir e-m ([Elizabeth ~ed Mary]); koma í stað e-s; taka við (e-u), erfa ([~ to]); heppnast, takast; [I ~ed in recovering my feet] mér tókst að koma aftur fyrir mig fótunum; [~ to the throne] koma til valda; [~ing ages] komandi kynslóðir
 success n. úrslit; (góður) árangur; heppni

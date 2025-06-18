@@ -7,8 +7,8 @@ mace n. kylfa, gaddakylfa; veldissproti; piparúði
 macerate s. bleyta; megra
 maceration n. bleyting; megrun
 machinate s. brugga (vélráð)
-machination n. ráðabrugg; undirferli
-machinator n. bragðarefur, ráðabruggari
+machinations nft. ráðabrugg; undirferli; vélbrögð; refskák
+machinator n. bragðarefur, ráðabruggari, undirförull maður
 machine n. vél, maskína; s. smíða, búa til með vél
 machinery n. vélbúnaður, vélar, maskínur
 machinist n. vélasmiður; vélameistari
@@ -119,13 +119,13 @@ malcontentedness n. óánægja
 male l. karllegur; [a ~ child] sveinbarn; n. karldýr; karlmaður
 malediction n. bölvun; formæling
 malefactor n. illgjörðamaður, illræðismaður, illvirki, e-r sem fremur illan verknað
-malefic l. skaðlegur
+malefic l. skaðlegur, skaðsamur
 maleficence n. skaðvæni
-maleficent l. skaðlegur (e-m [to])
+maleficent l. skaðlegur, skaðsamur (e-m [to])
 malevolence n. illvilji, illgirni, illur vilji
 malevolent l. illviljaður, illgjarn
-malfeasance n. afbrot, afglöp í embættisrekstri
-malfeasant n. afbrotamaður
+malfeasance n. afbrot, afglöp eða brot í embættisrekstri
+malfeasant n. afbrotamaður, brotlegur í embætti
 malformation n. afmyndun, vansköpun, vanskapnaður
 malice n. illgirni; keskni; fjandskapur, hatur, óvildarhugur ([bear ~ towards])
 malicious l. illgjarn
@@ -1033,7 +1033,7 @@ moan s. kveina, stynja; n. kvein, stuna
 moanful l. raunalegur
 moat n. vígisgröf, síki
 moated l. umgirtur vígisgröfum
-mob n. skríll; s. gera (e-m) aðsúg; flykkjast saman
+mob n. skríll, múgur, óþjóðalýður; margmenni; mafía, glæpasamtök; s. gera (e-m) aðsúg; flykkjast saman
 mobcap n. nátthúfa
 mobbish l. skrílslegur
 mobile l. hreyfanlegur
@@ -1155,31 +1155,31 @@ monomaniac n. einæðisvitfirringur
 monopolist n. einokari, einkasali
 monopolize s. einoka; svæla undir sig; gina yfir
 monopoly n. einokun; einkasala
-monosyllabic l. einkvæður, eins atkvæðis
-monosyllable n. eins atkvæðis orð
+monosyllabic l. einkvæður, eins atkvæðis, einsatkvæðis-
+monosyllable n. einsatkvæðisorði, orð með einu atkvæði
 monotheism n. eingyðistrú
 monotheist n. eingyðistrúarmaður
 monotone s. lesa, tala, syngja einræmislega; raula; l. blæbrigðalítill, einræmislegur, tilbreytingarlaus
-monotonous l. einræmislegur, einhæfur, tilbreytingarlaus, leiðinlegur, blæbrigðalítill
+monotonous l. einræmur, einræmislegur, einhæfur, tilbreytingarlaus, blæbrigðalítill, leiðinlegur
 monotony n. einræmi, einhæfni, tilbreytingarleysi, hversdagsleiki, leiðindi
-monsoon n. monsún, monsúnvindur (staðvindur í Indlandshafinu)
+monsoon n. monsún, monsúnvindur (staðvindur í Indlandshafi)
 monster n. skrímsli, ófreskja, ferlíki; varmenni, grimmdarseggur
 monstrance n. upphaldsker (í kaþólsku kirkjunni)
 monstrosity n. afskræmi; vanskapnaður; afskapleiki
-monstrous l. ferlegur, vanskapaður; afskaplegur; afskræmislegur; viðbjóðslegur
-monstrously ao. afskaplega
+monstrous l. ferlegur, vanskapaður; afskaplegur; afskræmislegur; viðbjóðslegur; eins og skrímsli
+monstrously ao. afskaplega; afskræmilega
 month n. mánuður
 monthly l. mánaðarlegur; n. mánaðarrit; ao. einu sinni á mánuði, mánaðarlega
 monticle n. lítið fjall
-monument n. minnisvarði; minningarmark; skriflegt skjal
+monument n. minnisvarði; minningarmark, minningarmerki; skriflegt skjal
 monumental l. sem er til minningar; minningar-; stórkostlegur; frábær; afburða-
 moo s. baula; n. baul
-mood n. háttur (í málfræði); skap, hugur; ft. ólund; [in a ~ for something, in the ~ to do something] sem hefur hug á e-u, að gera e-ð
+mood n. skap, hugur; háttur (í málfræði); ft. ólund; [in a ~ for something, in the ~ to do something] sem hefur hug á e-u, að gera e-ð
 moodily ao. önuglega, ólundarlega
 moodiness n. vont skap, skapillska
 moodish l. ólundarfullur
 moody l. skapillur; reiður; hryggur, þungbúinn
-moon n. tungl, máni; s. sveima, reika (eins og í draumi); eyða (tímanum) í hugsunarleysi ([~ away the afternoon])
+moon n. tungl, máni; s. sveima, reika (eins og í draumi); eyða (tímanum) í hugsunarleysi ([~ away the afternoon]); múna, sýna rassinn (óforml.)
 mooncalf n. ótímabær burður; bjáni
 moonlight n. tunglsljós; [by ~] í tunglsljósi
 moonlit l. tunglbjartur

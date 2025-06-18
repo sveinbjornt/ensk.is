@@ -19,7 +19,7 @@ cad n. vagnstjóri; dóni, ruddi
 caddish l. ruddalegur, dónalegur
 cadaverous l. lík-, ná-; náfölur; [~ odour, smell] nálykt
 caddy n. tedós
-cadence n. hljóðfall, takt
+cadence n. hljóðfall, taktur
 cadet n. yngri sonur eða bróðir; herskólasveinn
 cadger n. varningsmaður; götusali; beiningamaður
 cadi n. dómari (hjá Tyrkjum og Aröbum)
@@ -1358,8 +1358,8 @@ comatose l. í dái; svefnsjúkur
 comb n. kambur; hárgreiða; hanakambur; öldukambur; vaxkaka í býflugnabúi; [cut the ~ of] lægja rostann í e-m; s. kemba; greiða
 combat n. bardagi; einvígi ([single ~]); s. berjast (við)
 combatant n. bardagamaður
-combative l. gjarn á að berjast
-combativeness n. bardagafýsn
+combative l. gjarn á að berjast, bardagagjarn, bardagaglaður
+combativeness n. bardagafýsn, bardagagleði
 comber n. ullarkembari; kembingarvél; brimboði
 combination n. samsetning, sameining, samband; ft. samfestingar (skyrta og nærskjól í einu)
 combine s. sameina; sameinast, samlagast (e-u [with]); gera samband
@@ -2055,7 +2055,7 @@ convey s. flytja, færa; veita ([~ water])
 conveyance n. flutningur; flutningstæki (vagn, bátur, skip); afsal, afsalsbréf
 conveyanser n. afsalsbréfasemjari
 convict s. gera sannan að sök, sanna á eða sakfella e-n ([~ one of treason]); n. refsifangi; l. sannur að sök, sekur
-convince s. færa (e-m) heim sanninn, sannfæra (e-n um e-ð [of])
+convince s. sannfæra (e-n um e-ð [of]), færa (e-m) heim sanninn
 convincible l. sannfæranlegur
 convivial l. samsætislegur; skemmtilegur
 convivialist n. samkvæmismaður

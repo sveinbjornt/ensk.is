@@ -404,7 +404,7 @@ pavonine l. páfuglslegur; litbreytilegur (sem páfuglsstél)
 paw n. löpp; hrammur; krumla; loppa; s. klóra, krafsa með framfótunum; strjúka
 pawl n. hamla
 pawn n. peð (í skáktafli); veð, handveð, pantur; [at (in) ~] veðsettur; s. veðsetja
-pawnbroker n. veðlánari, sem lánar gegn handveði
+pawnbroker n. veðlánari sem lánar gegn handveði
 pawnee n. veðhafi
 pawner n. veðsetjari, veðsali
 pay s. borga, gjalda, greiða; svara kostnaði; tjarga, bika (skip); [~ attention to] gefa (e-u) gaum; [~ honour to] sýna (e-m) heiður; [~ a visit] heimsækja; [~ up] borga (greiða) að fullu; [~ out (away) a rope] slaka á kaðli, gefa hann út; n. laun, kaup; máli; borgun
@@ -1423,7 +1423,7 @@ pomiculture n. aldinrækt
 pomiferous l. aldinbær
 pommel n. hnúður, sverðsklót; hnakknef, söðulbogi; s. berja (með hnefunum)
 pomp n. skraut, viðhöfn
-pomposity n. viðhöfn; mikilmennska; fordild
+pomposity n. viðhöfn; oflátungsskapur; mikilmennska; fordild
 pompous l. viðhafnarmikill, íburðarmikill, hátíðlegur; raupsamur
 pompom n. hraðskeytt byssa
 pond n. tjörn; s. stífla; stíflast
@@ -1454,7 +1454,7 @@ poor rate n. fátækraskattur; sveitarútsvar
 poor-spirited l. huglaus, ragur
 pop n. smellur, hvellur; s. smella, hvella; skreppa, skjótast; koma skyndilega í ljós; stinga; kasta fram; hleypa af byssu; [~ the question] bera upp bónorðið, biðja sér stúlku; [~ away] þjóta burtu; [~ in] koma skjótlega inn; stinga inn; [~ off] hverfa; fara alfarinn (deyja); ao. skjótt, snöggt, allt í einu
 popgun n. hvellbyssa
-pop-shop n. veðlánabúð
+pop shop n. veðlánabúð
 pope n. páfi
 popedom n. páfadómur; páfaveldi
 popehood n. páfadómur; páfaveldi
@@ -2117,8 +2117,8 @@ proletarianism n. hagur eða stjórnmálaskoðanir öreigalýðs; öreigalýður
 proletariate n. öreigalýður, skríll; öreigar
 proletariat n. öreigalýður, skríll; öreigar
 proletary l. sem lýtur að öreigum, öreiga-; n. öreigi
-prolific l. frjósamur ([of])
-prolificity n. frjósemi
+prolific l. frjósamur ([of]); afkastamikill, framleiðinn
+prolificity n. frjósemi; framleiðni
 prolix l. langorður og leiðinlegur
 prolixity n. mælgi
 prolocutor n. framsögumaður, forseti (á prestastefnu)

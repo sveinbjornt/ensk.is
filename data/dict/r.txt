@@ -53,11 +53,9 @@ ragged l. tötralegur, garmalegur, rifinn og tættur; ósléttur, hrufóttur; ga
 raging l. æðandi, hamslaus, ær, óður, uppvægur
 ragout n. ragú (kjötréttur)
 raid n. innrás (óvina); ránferð; skyndiáhlaup; s. fara ránferð, ræna
-rail n. keldusvín ([water ~])
-rail n. langband (í grindagirðingu); járnbrautarteinn; nft. teinar; grindur, handrið; [travel by ~] ferðast á járnbraut; s. girða með grindum
+rail n. langband (í grindagirðingu); járnbrautarteinn; keldusvín ([water ~]); nft. teinar; grindur, handrið; [travel by ~] ferðast á járnbraut; s. spotta; skamma, lasta ([at, against]); girða með grindum
 railroad n. járnbraut
 railway n. járnbraut; s. ferðast á járnbraut
-rail s. spotta; skamma, lasta ([at, against])
 railer n. spottari
 raillery n. ertni; gamanyrði; [turn into ~] henda gaman að
 raiment n. klæðnaður, búningur ([holiday ~])
@@ -873,14 +871,14 @@ reprovable l. vítaverður
 reprove s. ávita, finna að
 reprover n. lastari
 reptile l. skriðandi; n. skriðdýr
-reptilian l. skriðdýrslegur
-republic n. lýðveldi, þjóðveldi, lýðstjórnarríki
+reptilian l. skriðdýrs-, skriðdýrslegur
+republic n. lýðveldi, þjóðveldi, lýðstjórnarríki (úr latínu, [res publica])
 republican l. lýðstjórnarlegur; n. lýðveldismaður; samveldismaður (í Bandaríkjunum)
 republicanism n. lýðveldisstjórn; lýðstjórnarandi
 republication n. ný auglýsing; ný útgáfa
-republish s. auglýsa að nýju; gefa út aftur, prenta upp aftur
+republish s. gefa út aftur, prenta upp aftur; auglýsa að nýju
 repudiate s. hrinda frá sér, útskúfa; hafna; skilja (sig) við
-repudiation n. skilnaður (við konu); burtrekstur; höfnun
+repudiation n. burtrekstur; höfnun; skilnaður (við konu)
 repugn s. standa (berjast) á móti
 repugnance n. mótsögn; mótþrói, andúð; tregða
 repugnant l. ósamþýðanlegur (e-u [with]); andstæður, gagnstæður ([~ to common sense, to reason])

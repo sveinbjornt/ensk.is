@@ -38,6 +38,7 @@ quaternity
 subliminal
 subliminally
 bathos
+bathetic
 hung over
 primly
 skating
@@ -46,8 +47,10 @@ packing
 boutique
 significantly
 coordinate
+coordinated
 coordination
 coordinator
+uncoordinated
 container
 analog
 analogue
@@ -68,7 +71,6 @@ adaptor
 softball
 quad
 unauthorized
-accompanying
 hunker
 listing
 adaptive
@@ -131,6 +133,7 @@ defriend
 manspread
 facepalm
 waterboard
+waterboarding
 unfollow
 gig (endurskoða)
 gaming
@@ -347,6 +350,7 @@ identifiable
 unidentifiable
 regimentation
 unofficial
+puritanic
 puritanical
 good-tempered
 mild-mannered
@@ -520,7 +524,6 @@ breadline
 deportee
 sedentarization
 non-aggression
-indispensible
 publicize
 enforcer
 inevitability
@@ -536,8 +539,7 @@ nevermore
 socioeconomic
 resettlement
 interrogator
-fictional
-fictionalize
+fictionalized
 fictionalization
 lingerie
 phony
@@ -713,7 +715,6 @@ hatchback
 showcase
 lifelike
 panzootic
-overindulge
 replicate
 replication (endurskoða)
 flagellant
@@ -880,6 +881,7 @@ Presbyterian (endurskoða)
 indebtedness
 cartelization
 presenter
+risque
 risqué
 appreciator
 shitstorm
@@ -922,7 +924,6 @@ roughage
 solipsist
 solipsistic
 sartorial
-lèse-majesté
 derisively
 penology
 penological
@@ -1175,6 +1176,7 @@ resilience
 gentrify
 gentrified
 gentrification
+swank
 swanky
 storefront
 shamble
@@ -1209,7 +1211,6 @@ ideologization
 apoliticism
 instrumentalization
 officialization
-bloodline
 mongrelization
 Spartacist
 raciology
@@ -1426,7 +1427,6 @@ relive
 bogus
 maverick
 judgemental
-fetishization
 bog-standard
 riff
 nutter
@@ -1938,7 +1938,6 @@ monaural
 elaborately
 slightly
 empressement
-vastly
 die-hard
 benedictine
 blurb
@@ -2070,6 +2069,7 @@ nighttime
 pinprick
 knobbly
 tyke
+tike
 tailcoat
 fruitcake
 collapsible
@@ -2340,6 +2340,7 @@ neurocognitive
 takeoff
 self-obsession
 fetishize
+fetishization
 transregional
 dispositional
 dispositionalism
@@ -2568,7 +2569,6 @@ toneless
 rimless
 epaulet
 conscienceless
-railing
 bifocal
 billiard
 containable
@@ -3142,8 +3142,6 @@ downer
 futon
 deskilled
 deskilling
-multiplex
-multiplexing
 duplexity
 semiduplex
 zen
@@ -3227,7 +3225,6 @@ quenelle
 wilt
 synastry
 pretzel
-disheartened
 earthshaking
 contortionism
 contortionist
@@ -3249,9 +3246,6 @@ exasperating
 hauler
 yucky
 medulla
-cross-pollinate
-cross-pollinated
-reprovingly
 sparky
 gulch
 flop (endurskoða)
@@ -3391,8 +3385,6 @@ multiplicatively
 appalled
 markdown
 chuffed
-jaded
-jadedness
 harping
 cavorting
 conjuring
@@ -3535,6 +3527,7 @@ redraw
 unblock
 frustrated
 sequential
+sequentially
 underdosing
 outclass
 contestee
@@ -3889,8 +3882,6 @@ greaser
 tonelessly
 rhapsodize (endurskoða)
 payola
-heavy-handed
-heavy-handedness
 stooge
 bumbling
 ashcan
@@ -4229,7 +4220,6 @@ depilatory
 extensional
 pussyfoot
 washing-up
-lese majeste
 jacynth
 forebear
 forebearance
@@ -4311,6 +4301,7 @@ pipeful
 pooch
 ruckus
 bushwhack
+bushwhacker
 unsatisfied
 tee
 misquote
@@ -4328,7 +4319,6 @@ straightener
 yellowness
 embrocate
 embrocation
-subverter
 ostentatiously
 unselfishness
 Shakespearian
@@ -4736,6 +4726,7 @@ dated
 backsliding
 crosspoint
 mapping
+abstract (endurskoða)
 abstraction (endurskoða)
 adulterate (endurskoða)
 alley (endurskoða)
@@ -4889,7 +4880,6 @@ strident (endurskoða)
 tantrum (endurskoða)
 swipe (endurskoða)
 grift
-reproacher
 lobby (enduruskoða, sem sögn)
 credit (endurskoða)
 scutter
@@ -5201,6 +5191,7 @@ randy
 randiness
 secretive (endurskoða)
 secretiveness
+secretively
 resupply
 haptics
 careen (endurskoða)
@@ -5215,12 +5206,11 @@ federalist (endurskoða)
 gantlope (endurskoða)
 glazed (endurskoða)
 hack (endurskoða)
-isthmus (endurskoða)
 jack (endurskoða, sögn - jack up, jack off)
 jacket (endurskoða - book jacket, potato jacket)
 jerk (endurskoða - jerk chicken)
 junk (endurskoða)
-jam (endurskoða - klípa, vandi)
+jam (endurskoða - klípa, vandi; djamma tónlistarlega séð)
 keep (endurskoða)
 kicker (endurskoða)
 kinetics (endurskoða)
@@ -5246,8 +5236,177 @@ unfitted (endurskoða)
 waly (endurskoða)
 zodiacal light (endurskoða)
 zest (endurskoða)
-lese majesty n. drottinssvik
-Issue: The English term is misspelled. It is a loan phrase from French.
-Correction: Correct the spelling to lèse-majesté. The Icelandic translation drottinssvik is adequate, but goðgá or æðrumeiðing við þjóðhöfðingja can also be used
+cataphora (endurskoða)
+homograph (endurskoða)
+homogenous (endurskoða)
+upbeat (endurskoða)
+annull (endurskoða vis a vis annul)
+effluvium (endurskoða)
 guy rope
 guy wire
+archived
+chiseler
+repudiation (endurskoða)
+scholastics
+scholastically
+scholasticate
+ballpark
+Anglo
+underrepresented
+represented
+coparent
+panini
+enmesh
+enmeshed
+swag (endurskoða)
+variableness
+sectionalization
+lenify
+malversate
+misappropriate
+robotlike
+machinelike
+self-referent
+weewee
+chroma
+meretriciousness
+tawdriness
+garishness
+brashness
+flashiness
+glitz
+pleximetry
+squinch
+reprise
+tollgatherer
+tollkeeper
+tollman
+campana
+tangled
+entangled
+disentangled
+full-bodied
+gingery
+gingerroot
+pep
+peppiness
+drear
+dowery
+serving
+helping
+persona
+empyrean (endurskoða)
+rarefied
+rarified
+raised
+upraised
+liven
+sunniness
+barrack (endurskoða)
+prompting
+unembellished
+unornamented
+unpatterned
+unmixed
+plicate
+choker
+riffle
+sashay
+chasse
+diss
+ill-treat
+countermine
+debased
+diluted
+thinly
+cold-shoulder
+polished
+refined
+bleached
+debile
+flea-bitten
+run-down
+broken-down
+snappy
+scudding
+ostentate
+winkle
+newsbreak
+jiffy
+splashiness
+tucket
+exposit
+bosomy
+full-bosomed
+blistering
+sizzling
+gamey
+rationalize (endurskoða)
+snipping
+swagman
+blister (endurskoða)
+putz
+calamus
+examen
+tensity
+mantrap
+stunner
+peach (endurskoða)
+pennywhistle
+centime
+gourmandize
+overgorge
+overabundance
+cerement
+casserole
+sharp-worded
+tangy
+lemonlike
+lallygag
+lollygag
+lounge (endurskoða)
+scolder
+igniter
+ignitor
+luminance
+luminousness
+reared
+hand-reared
+phonate
+vowelize
+articulated
+wakeless
+rosiness
+flushed
+blaring
+crosspatch
+schmalzy
+hokey
+drippy
+intumesce
+intumescent
+unbent
+unbowed
+uncoiled
+serial (endurskoða)
+troubled
+flyspeck
+disputative
+orotund
+boastfully
+vauntingly
+backbreaking
+operose
+punishing
+straining
+constraining
+prise
+dousing
+staged (endurskoða)
+seedy (endurskoða)
+stalwart (endurskoða)
+emasculated
+emasculating
+pansy (endurskoða)
+conformance
+compliancy

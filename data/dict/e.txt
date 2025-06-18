@@ -288,8 +288,8 @@ elm n. álmur, álmviður
 elmy l. vaxinn álmviði; álmviðar-
 elocution n. framburður og áhersla (á ræðu)
 elocutionary l. sem lýtur að framburði ([~ effect, ~ gift])
-elongate s. lengja; lengjast
-elongation n. lenging
+elongate s. lengja; lengjast; teygja; ílengja
+elongation n. lenging, ílenging
 elope s. hlaupa burtu, strjúka (um konu sem strýkur með friðli sínum, eða stúlku sem strýkur að heiman með unnusta sínum)
 elopement n. flótti, strok
 eloquence n. mælska, málsnilld
@@ -1329,7 +1329,7 @@ extinctive l. eyðandi ([~ agency])
 extinguish s. slökkva; bæla niður, eyða; leggja niður (embætti, stofnanir); strika út, afmá (skuld)
 extinguishable l. slökkvanlegur
 extinguisher n. slökkvari, slökkvihetta
-extirpate s. uppræta, gjöreyða; útrýma
+extirpate s. uppræta; gjöreyða, gereyða; útrýma
 extirpation n. uppræting, útrýming
 extirpator n. upprætari
 extol s. hefja með lofi, lofa mjög ([~ a person to the skies])
