@@ -131,8 +131,8 @@ def generate_database(entries: EntryList) -> str:
     delete_db()
 
     # Create new db and add data
-    add_metadata_to_db()
-    add_entries_to_db(entries)
+    num_entries = add_entries_to_db(entries)
+    add_metadata_to_db(num_entries)
     optimize_db()
 
     # Zip it
@@ -147,7 +147,7 @@ def delete_db() -> None:
     silently_remove(DB_FILENAME)
 
 
-def add_metadata_to_db() -> None:
+def add_metadata_to_db(num_entries) -> None:
     """Add metadata to database."""
     db = EnskDatabase()
     db.add_metadata("name", PROJECT.NAME)
@@ -158,15 +158,18 @@ def add_metadata_to_db() -> None:
     db.add_metadata("editor", PROJECT.EDITOR)
     db.add_metadata("editor_email", PROJECT.EMAIL)
     db.add_metadata("generation_date", datetime.datetime.now(datetime.UTC).isoformat())
+    db.add_metadata("num_entries", num_entries)
+    # db.add_metadata("version", PROJECT.VERSION)
 
 
-def add_entries_to_db(entries: EntryList) -> None:
+def add_entries_to_db(entries: EntryList) -> int:
     """Insert all entries into database."""
     db = EnskDatabase()
     for e in entries:
         db.add_entry(*e)
 
     db.conn().commit()
+    return len(entries)
 
 
 def optimize_db() -> None:
