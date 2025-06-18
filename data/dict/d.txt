@@ -604,9 +604,9 @@ derogatory l. rýrandi, niðrandi ([to, from])
 derring-do n. hreystiverk, hetjuskapur ([deed of ~])
 dervish n. persneskur eða tyrkneskur förumunkur
 descant s. syngja diskant; ræða, fjölyrða (um [on]); n. diskant; ritgjörð
-descend s. ganga (stiga, koma, falla) niður; gera landgöngu; ganga í arf; vera kominn af, eiga kyn sitt að rekja til (e-s [from])
-descendant n. niður, afkomandi
-descendent l. kominn af ([of])
+descend s. ganga (stíga, koma, falla, dynja) niður; gera landgöngu; ganga í arf; vera kominn af, eiga kyn sitt að rekja til (e-s [from])
+descendant n. afkomandi, niður; nft. [~s] niðjar, afkomendur
+descendent n. sjá %[descendant]%
 descendible l. sem ganga má niður ([the hill is ~]); arfgengur
 descension n. niðurganga
 descent n. niðurganga; landganga; halli; brekka; afkoma, ætterni; niðjar
