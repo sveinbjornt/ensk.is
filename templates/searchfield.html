@@ -23,7 +23,12 @@
         // Update the URL to remove query parameters
         var url = new URL(window.location.href);
         url.searchParams.delete("q");
+        var title = document.title.split(' - ');
+        if (title.length > 1) {
+            title.shift();
+        }
         window.history.replaceState({}, document.title, url.toString());
+        document.title = title[0];
     }
 
     // Show/hide clear button based on input content

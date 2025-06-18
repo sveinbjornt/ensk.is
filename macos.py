@@ -37,6 +37,8 @@ Generate macOS dictionary from raw dictionary text files.
 
 """
 
+from typing import Any
+
 import os
 import sys
 import shutil
@@ -88,7 +90,7 @@ def generate_xml_entry(
     template = read_template("entry.xml")
 
     # Prepare context for template
-    context = {
+    context: dict[str, Any] = {
         "entry_id": entry_id.replace(" ", "_").replace("-", "_"),
         "word": escape_xml(word),
         "definition": escape_xml(definition),

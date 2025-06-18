@@ -37,6 +37,8 @@ Generate SQLite database + other files from raw dictionary text files.
 
 """
 
+from typing import Optional
+
 import os
 import sys
 import csv
@@ -69,7 +71,7 @@ def ipa4entry(s: str, lang: str = "uk") -> str | None:
     else:
         word2ipa = ENWORD_TO_IPA_US
 
-    def only_first_ipa(s: str) -> str:
+    def only_first_ipa(s: Optional[str]) -> str:
         """Return only the first IPA spelling in a string."""
         if not s:
             return ""

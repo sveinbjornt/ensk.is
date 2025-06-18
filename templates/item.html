@@ -59,6 +59,22 @@
     {% endfor %}
 </div>
 
+{% if synonyms %}
+<hr>
+
+<div class="synonyms"></div>
+<p><strong>Samheiti: </strong>
+    {% for s in synonyms %}
+    {% if s.exists %}
+    <span><a href="/item/{{ s.word|safe }}">{{ s.word|safe }}</a>{{ ", " if not loop.last else "" }}</span>
+    {% else %}
+    <span>{{ s.word|safe }}{{ ", " if not loop.last else "" }}</span>
+    {% endif %}
+    {% endfor %}
+</p>
+</div>
+{% endif %}
+
 <br>
 <br>
 <br>

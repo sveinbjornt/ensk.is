@@ -55,7 +55,7 @@ from starlette.middleware.base import BaseHTTPMiddleware
 import orjson
 
 from db import EnskDatabase
-from dict import read_wordlist, unpack_definition
+from dict import read_wordlist, unpack_definition, linked_synonyms_for_word
 from info import PROJECT
 from util import icelandic_human_size, perc, is_ascii, sing_or_plur, cache_response
 
@@ -98,8 +98,8 @@ metadata = e.read_metadata()
 CATEGORIES = read_wordlist("data/catwords.txt")
 KNOWN_MISSING_WORDS = read_wordlist("missing.txt")
 
-SEARCH_CACHE_SIZE = 1000
-SMALL_CACHE_SIZE = 100
+SEARCH_CACHE_SIZE = 10000  # pages
+SMALL_CACHE_SIZE = 1000  # pages
 
 
 # Get all entries in each category and store in dict
@@ -299,10 +299,11 @@ async def index(request: Request):
 async def search(request: Request, q: Optional[str] = ""):
     """Return page with search results for query."""
 
-    q = q.strip()
+    q = q.strip() if q else q
     if q and len(q) < 2:
         return _err("Query too short")
 
+    title = PROJECT.NAME
     if q:
         results, exact = _cached_results(q)
 
@@ -315,6 +316,8 @@ async def search(request: Request, q: Optional[str] = ""):
             if re.match(r"^[a-zA-Z]+$", q) and q.lower() not in KNOWN_MISSING_WORDS:
                 w = q[:100]
                 await _save_missing_word(w)
+
+        title = f"„{q}“ - {PROJECT.NAME}"
     else:
         results = []
         exact = False
@@ -323,7 +326,7 @@ async def search(request: Request, q: Optional[str] = ""):
         "result.html",
         {
             "request": request,
-            "title": f"Niðurstöður fyrir „{q}“ - {PROJECT.NAME}",
+            "title": title,
             "q": q,
             "results": results,
             "exact": exact,
@@ -365,6 +368,8 @@ async def item(request: Request, w: str):
     # Translate category abbreviations to human-friendly words
     comp = {CAT_TO_NAME[k]: v for k, v in comp.items()}
 
+    synonyms = linked_synonyms_for_word(w, all_words)
+
     return TemplateResponse(
         "item.html",
         {
@@ -374,6 +379,7 @@ async def item(request: Request, w: str):
             "results": results,
             "word": w,
             "comp": comp,
+            "synonyms": synonyms,
         },
     )
 

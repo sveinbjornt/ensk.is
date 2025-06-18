@@ -169,3 +169,54 @@ def page_for_word(w: str) -> int:
         with open("data/word2page.json", "r") as file:
             WORD_TO_PAGE = json.loads(file.read())
     return WORD_TO_PAGE.get(w, 0)
+
+
+def synonyms_for_word(w: str) -> list[str]:
+    """Look up synonyms for a given word in the dictionary."""
+    if not w:
+        return []
+
+    from itertools import chain
+
+    try:
+        from nltk.corpus import wordnet as wn
+    except Exception:
+        return []
+
+    s = wn.synsets(w)
+    synonyms = set(chain.from_iterable([wd.lemma_names() for wd in s if wd]))
+    synonyms.discard(w)  # Remove the word itself
+    synonyms = list(synonyms)
+    synonyms.sort(key=lambda x: x.lower())
+    synonyms = [syn.replace("_", " ") for syn in synonyms if len(syn) > 1]
+
+    def is_not_name(syn: str) -> bool:
+        """Check if a synonym is a name (i.e. starts with a capital letter)."""
+        return not (
+            " " in syn
+            and syn[0].isupper()
+            and syn[1].islower()
+            and syn.split()[1][0].isupper()
+        )
+
+    final: list[str] = list(filter(is_not_name, synonyms))
+
+    return final
+
+
+def linked_synonyms_for_word(w: str, wordlist: list[str]) -> list[str]:
+    """Look up synonyms for a given word in the dictionary,
+    and return them as a list of HTML links."""
+    synonyms = synonyms_for_word(w)
+    if not synonyms:
+        return []
+
+    ls = []
+    for syn in synonyms:
+        ls.append(
+            {
+                "word": syn,
+                "exists": syn in wordlist or syn.lower() in wordlist,
+            }
+        )
+    return ls
