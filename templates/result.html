@@ -37,11 +37,6 @@
                     {{ r.word }}
                 </a>
             </strong>
-            (<a href="{{ r.audio_uk }}" onClick="play(this); event.stopPropagation(); return false;"
-                title="Spila hljóðupptöku af framburði">
-                <img src="/static/img/audio.svg" alt="Spila">
-                {{ r.ipa_uk }}
-            </a>)
             <span class="result_definition_text" onclick="event.stopPropagation();">
                 {{ r.def|safe }}
             </span>
