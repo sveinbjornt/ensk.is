@@ -365,7 +365,7 @@ virtuoso n. listamaður, afbragðsmaður í e-i mennt
 virtuous l. dyggðugur, skírlífur
 virulence n. illska, skaðræði; heift, heiftarhugur
 virulent l. illkynjaður, heiftarfullur; eitraður
-virus n. vírus
+virus n. veira, vírus; tölvuveira ([computer ~])
 visage n. andlit, ásjóna
 viscid l. seigur, viðloðandi
 viscidity n. seigja, viðloðun

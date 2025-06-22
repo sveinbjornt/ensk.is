@@ -225,7 +225,7 @@ Latin l. latneskur, latínskur; n. latína, latneska
 Latiner n. latínumaður
 Latinist n. latínumaður
 Latinity n. latína ([his ~ is pure, bad])
-Latinize s. snúa (rita) á latínu; gera latneskt
+Latinize s. snúa (rita) á latínu; gera latneskt; latínuvæða
 latish l. fremur seinn
 latitude n. breidd, vídd, víðátta; hnattbreidd; [degrees latitude] breiddargráða
 latitudinal l. breiddar-; sem er á breiddina
@@ -419,7 +419,7 @@ length n. lengd; lengja; sídd; [to lie at (one's) full ~] liggja endilangur; [a
 lengthen s. lengja; lengjast
 lengthways ao. eftir lengdinni, langsetis
 lengthwise ao. eftir lengdinni, langsetis
-lengthy l. fremur langur, langdreginn; langorður
+lengthy l. langur, fremur langur, of langur, langdreginn; langorður
 leniency n. mildi; umburðarlyndi, vægð
 lenient l. vægur; umburðarlyndur, mildur (við [to])
 lenitive l. linandi, sefandi; n. fróunarlyf
@@ -908,9 +908,9 @@ lowness n. lágleiki; þunglyndi ([~ of spirits]); lágt verðlag; auðvirðilei
 low-spirited l. daufur í bragði
 low s. baula, öskra
 lower s. láta síga niður; hleypa niður; lækka, færa niður (verð); gera lítið úr, rýra; [~ the flag] draga niður fánann
-loyal l. trúr; áreiðanlegur; drottinhollur; löghlýðinn
+loyal l. trúr; tryggur; áreiðanlegur; drottinhollur; löghlýðinn
 loyalist n. drottinhollur maður
-loyalty n. tryggð; drottinhollusta; löghlýðni
+loyalty n. tryggð; hollusta, drottinhollusta; löghlýðni
 lozenge n. brjóstsykur
 lubber n. slóði; klunni
 lubberly l. slóðalegur; klunnalegur

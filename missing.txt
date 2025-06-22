@@ -205,8 +205,6 @@ deep-rooted
 embellished
 enthusiastically
 compelling
-Newtonian
-Newtonianism
 anti-religious
 antithetical
 anti-Christian
@@ -661,7 +659,6 @@ themselves
 anchorite
 eremitism
 stylite
-upkeep
 laypeople
 template
 hilltop
@@ -713,7 +710,6 @@ replicate
 replication (endurskoða)
 flagellant
 regrettable
-downriver
 cryptic
 cryptically
 parisis
@@ -800,7 +796,6 @@ undercapitalization
 overcapitalization
 literalism
 formica
-parmesan
 conveyor
 boondoggle
 boondogglery
@@ -837,7 +832,6 @@ scammer
 unbeknown
 unbeknownst
 panelist
-frenetic
 intensification
 manipulator
 rationalization
@@ -905,7 +899,6 @@ contractual
 expressible
 shortcut
 desirability
-misappropriation
 unproblematic
 ad infinitum
 winnable
@@ -1448,7 +1441,6 @@ caveat
 plaque
 simulacrum
 simulacra
-barmy
 mentee
 commonality
 accretive
@@ -1500,7 +1492,6 @@ bossa nova
 cutoff
 scanner
 echelon
-summa cum laude
 coder
 stardom
 downtime
@@ -1532,7 +1523,6 @@ untellable
 etcher
 confines
 Pyrrhic
-officiousness
 prefecture
 aromatics
 censorial
@@ -1543,7 +1533,6 @@ wantonly
 restorer
 proconsular
 declaimer
-brigantine
 craftily
 delator
 raspy
@@ -1607,10 +1596,8 @@ self-complacency
 blowsy
 precipitance
 diffuseness
-uneasiness
 superintendance
 conversible
-pleasantness
 thespian
 peloton
 cyberpunk
@@ -1654,7 +1641,6 @@ unpretentious
 entailment
 penumbra
 externality
-clear-cut
 inductivism
 specifiable
 conditionals
@@ -2856,7 +2842,6 @@ regulationism
 irreversibility
 roundsman
 normalcy
-abnormalcy
 equalitarianism
 parallelogram
 paramountcy
@@ -3369,6 +3354,7 @@ markdown
 chuffed
 harping
 cavorting
+conjury
 conjuring
 windsurf
 punk
@@ -3443,7 +3429,6 @@ teleministry
 hazmat
 virtuosic
 asterism
-uncovetous
 possessiveness
 disciplined
 hardworking
@@ -3468,7 +3453,6 @@ embolism (endurskoða)
 yashmak
 tastemaker
 crummy
-formatting
 reformat
 aligned
 misalign
@@ -3596,7 +3580,6 @@ automaticity
 relaxed
 coca
 slot (þarf virkilega endurskoðun)
-Latinism
 locomotory
 illustrated
 trilby
@@ -3687,7 +3670,6 @@ trailer
 disqualified
 solicitously
 onus
-archon
 fascia
 mortified
 tendence
@@ -3793,7 +3775,6 @@ cheapening
 controlling
 tremblant
 circumstantially
-unequivocally
 pression
 charred
 tasselled
@@ -4114,7 +4095,6 @@ stigmergy
 stigmergic
 welcoming
 unwelcoming
-capitalize (endurskoða)
 demoralization (endurskoða)
 orichalcum
 prissy
@@ -5242,6 +5222,7 @@ variableness
 sectionalization
 malversate
 misappropriate
+misappropriation
 robotlike
 machinelike
 self-referent
@@ -5258,7 +5239,6 @@ squinch
 reprise
 tollgatherer
 tollkeeper
-tollman
 campana
 tangled
 entangled
@@ -5368,7 +5348,6 @@ troubled
 flyspeck
 disputative
 orotund
-boastfully
 vauntingly
 backbreaking
 operose
@@ -5433,6 +5412,7 @@ momism
 overshielding
 repelling
 loathly
+skank
 skanky
 yucky
 virulence (endurskoða)
@@ -5459,7 +5439,6 @@ mystify (endurskoða)
 pudendum
 unsettling
 chafing
-senectitude
 trussell
 chewy
 trinomial
@@ -5467,7 +5446,6 @@ aureate
 flourishing
 booming
 well-heeled
-tardily
 easy-going (endurskoða)
 puniness
 cat (endurskoða - arabísk tuggjurt)
@@ -5479,3 +5457,35 @@ zonked
 subcision
 subincision
 butchering
+plastered
+smashed
+soused
+blotto
+pie-eyed
+pissed
+crocked
+capitalize (endurskoða)
+chapiter
+misidentify
+bromide (endurskoða)
+bronzed
+promoter (endurskoða)
+compromise (endurskoða)
+categoric
+matt
+flatcar
+newt (endurskoða)
+triton
+braw
+homophile
+homogeneousness
+magistracy (endurskoða)
+pander (endurskoða)
+perestroika
+glasnost
+abadia
+Rosicrucian
+Rosicrucianism
+barbecue (endurskoða)
+BBQ
+zymolytic

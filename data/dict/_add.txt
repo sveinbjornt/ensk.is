@@ -309,8 +309,8 @@ fuselage n. bolur eða skrokkur á flugvél
 anchorman n. fréttaþulur
 anchorwoman n. kvenkyns fréttaþulur
 news anchor n. fréttaþulur
-Paleolithic n. fornsteinöld, ársteinöld; l. fornsteinaldar-
-Palaeolithic n. fornsteinöld, ársteinöld; l. fornsteinaldar-
+Paleolithic n. fornsteinöld, ársteinöld; l. fornsteinaldar-, ársteinaldar-
+Palaeolithic n. fornsteinöld, ársteinöld; l. fornsteinaldar-, ársteinaldar-
 Neolithic n. nýsteinöld; l. nýsteinaldar-
 Mesolithic n. miðsteinöld; l. miðsteinaldar-
 superstate n. stórveldi, ofurveldi; öflugt ríki myndað úr mörgum smærri ríkjum
@@ -358,7 +358,7 @@ compact disc n. geisladiskur
 sonar n. hljómsjá, ómsjá, sónar
 camcorder n. lítil kvikmyndatökuvél (samsett úr %[camera]% og %[recorder]%)
 anarcho-capitalism n. anarkó-kapítalismi (sú stjórnmálastefna að afnema ríkið og færa allar þjónustur í hendur einkaaðila)
-anarcho-capitalist n. anarkó-kapítalisti (fylgismaður anarkó-kapítalisma, sjá %[anarcho-capitalism]%)
+anarcho-capitalist n. anarkó-kapítalisti, fylgismaður anarkó-kapítalisma (sjá %[anarcho-capitalism]%)
 biodome n. lífhvelfing (lokað vistkerfi í hvelfingu)
 paedophile n. barnaníðingur, barnaperri, e-r sem er haldinn barnagirnd
 pedophile n. sjá %[paedophile]%
@@ -3834,14 +3834,14 @@ podiatrist n. fótaaðgerðafræðingur
 luminescence n. ljóm, ljómun
 luminescent l. ljómandi, skínandi
 three-dimensional l. þrívíður, í þremur víddum
-two-dimensional l. tvívíður, í tveimur víddum
+two-dimensional l. tvívíður, í tveimur víddum; grunnur, yfirborðskenndur
 bidimensional l. tvívíður, í tveimur víddum
-multidimensional l. fjölvíður, fjölvídda-
+multidimensional l. fjölvíður, fjölvídda-, í mörgum víddum
 recalibration n. endurkvörðun, endurstilling
 marketization n. markaðsvæðing
 managerial l. stjórnunar-, sem lýtur að stjórnun
-managerialism n. stjórnunarhyggja, stjórnhyggja
-managerialist n. stjórnunarhyggjusinni, stjórnhyggjusinni
+managerialism n. stjórnhyggja, stjórnunarhyggja
+managerialist n. stjórnhyggjusinni, stjórnunarhyggjusinni
 collectivism n. sameignarstefna
 collectivist n. sameignarsinni
 collectivistic l. sameignarstefnu-, sameignarsinna-
@@ -3882,7 +3882,7 @@ millenarianism n. trú á þúsundáraríki (Krists)
 chiliasm n. þúsundáraríkistrú
 chiliast n. e-r sem trúir á þúsundáraríki (Krists)
 chiliastic l. þúsundáraríkistrúar-, er varðar trú á þúsundáraríki (Krists)
-homogenization n. jöfnun, jafnblöndun; það ferli að gera e-ð einsleitt
+homogenization n. jöfnun, jafnblöndun; einslitni; það ferli að gera e-ð einsleitt
 fluorescence n. flúrljómi, flúrskin, flúrskíma, flúrgeislun
 fluorescent l. flúrljómandi, flúrlýsandi, flúrskímandi; [~ light] flúrljós
 interconnectedness n. innri tengsl, innbyrðis tengsl, samtengsl, millitengsl
@@ -4075,7 +4075,7 @@ classicist n. fornfræðingur
 coda n. niðurlag, niðurlagskafli
 whistle-blower n. uppljóstrari; flautublásari, sá sem blæs flautu
 homonymic l. samhljóða, eins og annað orð í framburði
-homo n. maður (í latínu); ættkvísl manndýra (sbr. %[homo sapiens]%, hinn viti borni maður); hommi, samkynhneigður maður (niðrandi, stytt. á %[homosexual]%)
+homo n. (lat.) maður; ættkvísl manndýra (sbr. %[homo sapiens]%, hinn viti borni maður); hommi, samkynhneigður maður (niðrandi, stytt. á %[homosexual]%)
 homo- fsk. sam-, jafn-, eins- (sbr. %[homosexual]%, %[homogenous]%)
 homologous l. samsvarandi; eðlislíkur
 homology n. samsvörun; eðlislíking
@@ -4590,7 +4590,7 @@ availability n. fáanleiki, tiltækileiki
 hippocampus n. dreki (heilastöð); sæhestur
 sphincter n. þrengir, þrengivöðvi, lokuvöðvi, hringvöðvi
 magenta l. fjólublár, blárauður; n. fjólublár litur, blárauður litur
-cum n. sæði, brund; s. fá sáðlát, brunda; fs. með (úr latínu, sbr. %[magna cum laude]%)
+cum n. sæði, brund; s. fá sáðlát, brunda; fs. (lat.) með (sbr. %[magna cum laude]%)
 cumshot n. sáðlát, brundun
 gonorrhea n. lekandi (kynsjúkdómur)
 esthetic l. sjá %[aesthetic]%
@@ -5148,7 +5148,7 @@ hashish n. hass (verkað kannabis)
 stoned l. grýttur; skakkur, freðinn, í kannabisvímu; undir áhrifum vímuefna
 stoner n. freðhaus, grasreykingamaður, kannabisfíkill; dópisti; grjótkastari
 pothead n. freðhaus, grasreykingamaður, kannabisfíkill
-rigor mortis n. (lat.) dauðastirðnun
+rigor mortis n. (lat.) dauðastirðnun, stirðnun líks eftir dauða
 copywriter n. (auglýsinga)textahöfundur, textasmiður
 copywriting n. textasmíði (fyrir markaðssetningu, auglýsingar, o.s.frv.)
 unjustly ao. óréttilega, óréttvíslega, á óréttlátan hátt
@@ -5345,6 +5345,7 @@ ossified l. orðinn að beini; ósveigjanlegur, fastur í sínum venjum; gamalda
 ossification n. beinmyndun; íhaldssemi, ósveigjanleiki
 femicide n. kvennamorð
 bronchial l. berkju-; [~ asthma] kafmæði
+bronchial asthma n. kafmæði, berkjuastmi
 dietitian n. næringarfræðingur, manneldisfræðingur
 dietician n. sjá %[dietitian]%
 psycholinguistic l. málsálarfræðilegur
@@ -5667,6 +5668,8 @@ overstimulation n. oförvun
 unicameral l. einnar deildar; með eina þingdeild ([~ legislature]); í einu herbergi
 unicameralism n. sú stefna að hafa löggjafarþing í einni deild (þ.e.a.s. ekki tvískipt, sjá %[bicameralism]%)
 ultraviolet l. útfjólublár, útblár; [~ light] útfjólublátt ljós; n. útblámi
+UV l. útfjólublár, útblár (stytt. á %[ultraviolet]%)
+ultraviolet light n. útfjólublátt ljós
 stock market n. hlutabréfamarkaður, verðbréfamarkaður, kauphöll
 upstate l. norðar í fylkinu, í upphéröðum, nyrðra (BNA)
 Iliad n. Ilíonskviða ([the ~])
@@ -6149,9 +6152,9 @@ mesmerizing l. dáleiðandi
 clipboard n. klemmuspjald
 herpes n. áblástur, herpes
 pubic l. klyfta-, klof-; kynfæra- ([~ hair])
-epicycle n. aukahringur
-epicyclic l. aukahrings-
-epicyclical l. aukahrings-
+epicycle n. aukahringur, hjáhringur
+epicyclic l. aukahrings-, hjáhrings-
+epicyclical l. aukahrings-, hjáhrings-
 unified l. sameinaður
 reunify s. endursameina
 reunified l. endursameinaður
@@ -6858,7 +6861,7 @@ laburnum n. gullregn (trjátegund)
 tradeoff n. fórnarskipti, fórn á einu fyrir annað (í staðinn)
 steelworker n. stálverkamaður
 erroneously ao. ranglega, með röngu, með rangindum
-blackened l. svertur, gerður svartur
+blackened l. svertur, sortnaður, gerður svartur
 herewith ao. með þessu, á þennan hátt, hér með
 whithersoever ao. hvarvetna, hvar sem er
 therefrom ao. þaðan, þaðan frá, frá því
@@ -7235,6 +7238,7 @@ phenology n. náttúrufarsfræði
 ID n. skilríki (sks. á [identification])
 est l. stofnaður, stytt. á %[established]%
 balanced l. jafnvægur; í jafnvægi
+unbalanced l. ekki í jafnvægi; ekki jafnvægur: í ójafnvægi
 closed l. lokaður
 color-blind l. litblindur
 colorblind l. litblindur
@@ -7491,6 +7495,7 @@ gremlin n. hrekkjóttur púki, yfirnáttúrulegur skemmdarvargur
 dork n. lúði, auli
 knitwear n. prjónafatnaður, prjónavörur
 capex n. fjárfestingarútgjöld (stytt. á [capital expenditure])
+capital expenditure n. fjárfestingarútgjöld
 anencephaly n. heilaleysi
 athymia n. hóstarkirtilsleysi
 athymic l. hóstarkirtilslaus
@@ -8012,7 +8017,7 @@ pocket watch n. vasaúr
 trailblazer n. frumherji, brautryðjandi; e-r sem er í framvarðarsveit
 trailblazing l. frumherja-, brautryðjanda-, sem er í framvarðarsveit, sem vísar í nýja átt
 haptic l. snerti-, snertiskyns-, snertiskynjunar- ([~ feedback, ~ screen])
-divestiture n. eignalosun, fjárlosun
+divestiture n. eignalosun, eignasala, fjárlosun
 mislabel s. merkja rangt
 mislabeled l. merktur rangt
 reignite s. kveikja aftur í; kvikna á ný
@@ -8138,7 +8143,7 @@ bloodline n. ættleggur; ætt, kyn, stofn, ættstofn (um dýr); [a decadent ~] �
 signed l. undirritaður, undirskrifaður, áritaður
 correctly ao. réttilega, rétt; [it was done ~] það var gert á réttan hátt
 planar l. flatar-; sléttu-
-one-dimensional l. einvíður, í einni vídd
+one-dimensional l. einvíður, í einni vídd; einfaldur
 four-dimensional l. fjórvíður, í fjórum víddum
 dimensionality n. vídd
 miserableness n. vesæld, vansæld
@@ -8282,3 +8287,66 @@ zero-dimensional l. víddarlaus
 golden ratio n. gullinsnið (ákveðið hlutfall tveggja talna)
 golden number n. gyllintal (í rími)
 sodomist n. sjá %[sodomite]%
+abnormalcy n. sjá %[abnormality]%
+capital letter n. upphafsstafur, hástafur, stór stafur
+capital punishment n. dauðarefsing
+capital sentence n. líflátsdómur, dauðarefsing; [he received a ~] hann hlaut dauðarefsinguna
+capital city n. höfuðborg(in)
+upper-case l. í hástöfum, með stórum stöfum
+wizardly l. galdrakarla- (sjá %[wizard]%); undurverður
+magic trick n. töfrabragð, galdrabragð
+whoremaster n. melludólgur; frillulífsmaður
+whoremonger n. melludólgur; frillulífsmaður
+frenetic l. ofsafullur, ofsafenginn
+brainsick l. veikur á geði, andlega veikur
+Bronze Age n. bronsöld (á eftir nýsteinöld en á undan járnöld)
+Iron Age n. járnöld
+flavourless l. bragðlaus, bragðdaufur; daufur
+flavorless l. sjá %[flavourless]%
+savorless l. sjá %[savourless]%
+five-dimensional l. fimmvíður, í fimm víddum
+lustreless l. án ljóma, óglansandi, ógljáandi
+lusterless l. sjá %[lustreless]%
+lustrelessness n. ljómaleysi, ógljái, það ástand að vera án ljóma eða gljáa
+lusterlessness n. sjá %[lustrelessness]%
+pine tree n. furutré
+pine cone n. furuköngull
+pine needle n. barr, barrnál
+merchant ship n. kaupfar, kaupskip
+merchant class n. kaupmannastéttin
+mercenaries nft. málaliðar, leigðir menn
+Newtonian l. Newtons-, newtonskur; er varðar náttúruspeki Newtons
+Newtonianism n. náttúruspeki Newtons; fylgni við fræði Newtons
+New Year's Eve n. gamlárskvöld
+mangey l. sjá %[mangy]%
+gay colour n. skær litur
+conjuring trick n. töfrabragð, galdrabragð
+finespun l. fínofinn
+wrongfulness n. ranglæti, óréttlæti, óréttvísi
+senectitude n. elli, hár aldur
+ill-timed l. illa tímasettur
+tardily ao. seinlega, seint
+boastfully ao. grobblega, stærilætislega, montlega
+tollman n. tollari, tollmaður
+unequivocally ao. ótvírætt
+Latinism n. latínusletta, latnesk tungumálaáhrif; latneskt orð eða frasi
+formatting n. snið, form; skipulag (sjá %[format]%)
+uncovetous l. ekki ágjarn; ekki sólginn eða fíkinn í e-ð
+clear-cut l. skýr; skilmerkilegur; afdráttarlaus; skýrt skorinn, hreint skorinn
+parmesan n. parmesanostur
+downriver l. í átt að ármynni; nálægt ármynni
+upkeep n. viðhald, viðhaldsvinna
+Florence n. Flórens (borg á Ítalíu)
+Florentine l. frá Flórens, Flórens-; n. Flórensbúi
+pleasantness n. þægindi, notalegheit; skemmtilegheit
+uneasiness n. órói, ónot; kvíði; óþægindi; stirð framkoma
+brigantine n. brigantína (tvímastrað skip)
+officiousness n. afskiptasemi; nærgengni (sjá %[officious]%)
+summa cum laude l. (lat.) með hæstu einkunn, með æðsta láði
+barmy l. freyðandi, ólgandi; vitfirrtur, fásinnaður
+barkeep n. sjá %[barkeeper]%
+abacá n. manillahampur; bananajurt
+flight attendant n. flugþjónn
+flight plan n. flugáætlun
+archon n. arkon, ráðamaður í Aþenu til forna; ráðamaður, stjórnari
+Zulu n. Súlúi, Súlúmaður; súlúska

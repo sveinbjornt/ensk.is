@@ -83,7 +83,7 @@ ballet n. ballett, bendingadans; ballettsýning
 balloon n. blaðra; loftbelgur, loftfar; s. blásast út (eins og blaðra), þenjast
 ballot n. atkvæðaseðill; atkvæðiskúla; atkvæðismiði; leynileg atkvæðagreiðsla ([election by ~]); s. greiða atkvæði með smákúlum eða óundirrituðum atkvæðismiða
 balm n. ilmkvoða; ilmur; smyrsl
-balmy l. ilmandi; blíður (um veður); græðandi
+balmy l. ilmandi; blíður (um veður); græðandi; vitfirrtur, fásinnaður
 balsam n. ilmsmyrsl
 balsamic l. ilmandi; græðandi
 baluster n. pílári í handriði
@@ -141,7 +141,7 @@ barbarity n. villimennska; grimmd, grimmdarverk
 barbarous l. villtur, villimannslegur, barbarískur; grimmúðlegur
 barbarousness n. villimennska, barbarismi; grimmúð
 barbecue n. dýr steikt í heilu lagi; s. steikja (dýr) í heilu lagi
-barber n. rakari, skeggrakari
+barber n. rakari, skeggrakari, hárskeri
 barbican n. vígturn
 bard n. (keltneskt) skáld
 bare l. ber, nakinn; snauður; s. bera, gera beran
@@ -150,7 +150,7 @@ barefoot l. berfættur
 barehanded l. berhendur
 bareheaded l. berhöfðaður
 barelegged l. berleggjaður
-barely ao. aðeins; naumast
+barely ao. aðeins; naumast; rétt svo
 bareness n. nekt
 bargain n. kaup; kjarakaup; samningur; [make a ~] gera góð kaup; [into the ~] í ofanálag; s. gera kaup, semja um ([for]); gera ráð fyrir ([more than he bargained for])
 bargainer n. mangari
@@ -621,7 +621,7 @@ blab s. fleipra út úr sér, þvaðra; n. kjaftás, kjaftaskur
 blabber s. fleipra út úr sér, þvaðra
 blabbermouth n. kjaftás, kjaftaskur
 black l. svartur; blár ([~ eye]); dimmleitur; n. svartur litur, sverta; svört föt; blökkumaður, svartur maður; s. sverta, gera gljáandi
-blackamoor n. blökkumaður
+blackamoor n. blökkumaður (forn.)
 blackball n. svört atkvæðiskúla; s. útiloka, neita um upptöku (í félag)
 blackberry n. brómber
 blackbird n. svartþröstur

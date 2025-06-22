@@ -1844,9 +1844,7 @@ speed s. flýta sér, hraða sér; þjóta, skunda; heppnast, farnast ([how have
 speedily ao. skjótlega, skjótt
 speediness n. hraði, fljótleiki
 speedy l. fljótur, hraður, skjótur
-spell n. galdur, töfraþula, álög; töfrar; s. töfra, heilla
-spell n. óákveðin tímalengd; [he only halted a short ~] stutta stund; [a long ~ of service] langur (óslitinn) þjónustutími; [a ~ of fine (cold) weather] góðviðriskafli (kuldakast); [give one a ~] hvíla e-n frá vinnu; [by ~s] alltaf öðru hverju, við og við; [for a ~] um tíma, um stundarbil; s. vinna í annars stað, hvíla e-n, taka við af e-m ([~ one another])
-spell s. stafa, stafsetja; tákna, merkja, vera sama sem ([~ ruin]); [~ for] mælast til e-s, tala utan að e-u; [~ out] stafa sig fram úr e-u; ráða í e-ð, skynja e-ð; skilja, ráða e-ð ([~ out the lessons of nature])
+spell n. galdur, töfraþula, álög; óákveðin tímalengd; [he only halted a short ~] stutta stund; [a long ~ of service] langur (óslitinn) þjónustutími; [a ~ of fine weather] góðviðriskafli; [give one a ~] hvíla e-n frá vinnu; [by ~s] alltaf öðru hverju, við og við; [for a ~] um tíma, um stundarbil; s. stafa, stafsetja; tákna, merkja, vera sama sem ([~ ruin]); [~ for] mælast til e-s, tala utan að e-u; [~ out] stafa sig fram úr e-u; ráða í e-ð, skynja e-ð; skilja, ráða e-ð ([~ out the lessons of nature]); töfra, heilla; vinna í annars stað, hvíla e-n, taka við af e-m ([~ one another])
 spellbound l. töfraður, í álögum, undir áhrifum galdurs eða töfraþulu; heillaður, hugfanginn
 speller n. stafari; stöfun; stafsetning, réttritun; stafsetjari ([a bad ~])
 spelling n. stafsetning
@@ -2018,7 +2016,7 @@ sprit n. spritt
 sprite n. vofa, draugur, (svart)álfur, púki; mynd (í tölvugrafík)
 sprout s. spíra, byrja að vaxa; láta vaxa spírur á (útsæði); n. frjóstöngull, spíra, vísir
 spruce beer n. öltegund (búin til úr sírópi og seyði úr greniviði)
-spruce n. grenitré; l. skrautbúinn, prúðbúinn; s. skrautbúa; dubba upp
+spruce n. greni, grenitré; l. skrautbúinn, prúðbúinn; s. skrautbúa; dubba upp
 spry l. fjörugur, sprækur
 spud n. arfagref; s. reyta, rífa upp ([~ out, up])
 spume n. froða; s. freyða, löðra

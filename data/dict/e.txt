@@ -711,11 +711,11 @@ ephemerous l. skammlífur, skammvinnur, stundar-
 ephor n. umsjónarmaður (í Spörtu)
 epic l. epískur, stórbrotinn, sögulegur, sem lýtur að söguljóðum; [an ~ poet] söguljóðaskáld; n. söguljóð; stórbrotið verk
 epical l. sem lýtur að söguljóðum; [an ~ poet] söguljóðaskáld
-epicure n. sælkeri, sællífismaður
-epicurean l. sem lýtur að kenningu Epikúrs; sællífislegur; n. lærisveinn Epikúrs; sællífismaður
-epicureanism n. heimspeki Epikúrs; sællífi, hóglífi
+epicure n. sælkeri; sællífismaður; nautnaseggur, munaðarseggur
+epicurean l. sem lýtur að heimspeki Epíkúrosar; sællífislegur; n. lærisveinn Epíkúrosar; sællífismaður
+epicureanism n. heimspeki Epíkúrosar; sællífi, hóglífi
 epidemical l. farsóttar-; [~ disease] landfarsótt
-epidemic n. landfarsótt, farsótt, faraldur
+epidemic n. farsótt, faraldur
 epidermis n. hárhamur
 epiglottis n. barkalok, -blaðka
 epigram n. fyndnistaka, stutt fyndniskvæði

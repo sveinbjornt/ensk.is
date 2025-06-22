@@ -166,10 +166,10 @@ academician n. meðlimur lista- og vísindafélaga
 academy n. háskóli, akademía; lista- og vísindafélag
 acanthus n. e.k. blóm
 accede s. taka við (t.d. embætti [to a post]), samþykkja ([~ to])
-accelerate s. vaxa að hraða, auka hraða; flýta fyrir
+accelerate s. vaxa að hraða, auka hraða; flýta fyrir, hraða fyrir
 acceleration n. hröðun, vaxandi hraði, hraðaaukning; flýtir
 accelerative l. flýtandi, hraðaaukandi, hraðandi
-accent n. áhersla; áherslumerki, broddur; framburður, málrómur, hreimur; s. leggja áherslu á; setja áherslumerki yfir
+accent n. hreimur, framburður, málrómur; áhersla; áherslumerki, broddur (í bókstöfum); s. leggja áherslu á; setja áherslumerki yfir
 accentuate s. leggja áherslu á; setja áherslumerki yfir
 accentuation n. áhersla
 accept s. taka við; þiggja; samþykkja; sætta sig við
@@ -1532,7 +1532,7 @@ assure s. tryggja (lífið); styðja; fullvissa ([we may rest ~d that])
 assuredly ao. áreiðanlega
 asterisk n. stjörnumerki (*)
 astern ao. í skútunni; á eftir; aftur á bak; [~ of] fyrir aftan
-asthma n. asma; andþyngsli; brjóstþyngsli
+asthma n. asma, asmi; andþyngsli; brjóstþyngsli
 asthmatic l. þjáður af brjóstþyngslum; mæðun
 astir ao. á fótum, á ferli ([she was ~ by six o'clock]); í hreyfingu ([there is much wind ~])
 astonish s. vekja undrun (e-s), gera forviða

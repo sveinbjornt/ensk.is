@@ -648,8 +648,8 @@ wittingly ao. vísvitandi
 witty l. fyndinn; hnyttinn
 wive s. kvænast
 wived l. tengdur
-wizard n. galdramaður, seiðkarl; sjónhverfingamaður
-wizardry n. galdrar, töfrar, tröllskapur
+wizard n. galdrakarl, seiðkarl; sjónhverfingamaður
+wizardry n. galdrar, töfrar
 wizen s. (láta) visna, skorpna
 wizened l. visinn, skorpinn, fölur, bleikur
 woad n. blá litunarjurt
@@ -814,7 +814,7 @@ written s. skrifaður; skriflegur ([a ~ answer, ~ permission])
 wrong l. rangur, skakkur; [to be ~, in the ~] hafa rangt fyrir sér; n. óréttur, ranglæti; s. gera (e-m) rangt til, gera á hluta (e-s)
 wrongdoer n. misgjörðamaður, misgerðamaður; móðgari
 wrongdoing n. misgerð, misgjörð, ranglæti; móðgun
-wrongful l. óréttvís, ranglátur
+wrongful l. ranglátur, óréttvís
 wronghead n. þverhöfði
 wrongheaded l. þverhöfðalegur
 wrongly ao. ranglega

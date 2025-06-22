@@ -353,7 +353,7 @@ imprisonment n. fangelsun; varðhald, fangelsi
 improbability n. ósennileiki
 improbable l. ósennilegur
 improbity n. óráðvendni
-impromptu ao. af munni fram, undirbúningslaust; n. ræða eða ljóð, sem mælt er af munni fram; l. óundirbúinn ([~ speech])
+impromptu ao. undirbúningslaust, af munni fram; n. ræða eða ljóð sem mælt er af munni fram; l. óundirbúinn ([~ speech])
 improper l. óhentugur; ósæmilegur, óhæfur; rangur; óeiginlegur
 impropriate s. leggja kirkjueign eða tíundir í hendur leikmanna
 impropriety n. ósómi, óhæfa ([~ of conduct]); málvilla
@@ -1039,7 +1039,7 @@ insinuate s. smeygja inn; blása í brjóst; gefa í skyn; [~ oneself with/into 
 insinuation n. ísmeyging, ísmeygileiki; væning, dylgjur
 insinuative l. ísmeygilegur; dylgjufullur
 insipid l. bragðlaus, daufur
-insipidity n. deyfubragð, vatnsbragð
+insipidity n. deyfubragð, vatnsbragð, bragðleysi
 insist s. halda fast fram, standa á (e-u); krefjast ([~ upon])
 insistence n. þrálæti, áfergja, áleitni
 insistency n. þrálæti, áfergja, áleitni

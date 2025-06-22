@@ -32,7 +32,7 @@ magazine n. tímarit; skothylkjahólf; forðabúr, geymsluhús; vörugeymslusta�
 maggot n. maðkur, vía; duttlungur, kenjar
 maggoty l. maðkaður; kenjóttur; duttlungafullur
 magic n. galdur; töfrar; töfrakraftur; l. töfra-, galdra-
-magical l. töfra-, galdra-
+magical l. töfra-, galdra-; sérstakur, töfrandi ([a ~ moment])
 magician n. töframaður, galdramaður
 magisterial l. valdalegur, herralegur; embættislegur ([~ power])
 magistracy n. yfirvöld, valdsmenn
@@ -195,7 +195,7 @@ manfulness n. karlmennska, hugrekki
 mange n. kláði á dýrum
 manger n. jata
 mangle s. höggva í sundur; lemstra; skemma, spilla með höggum; afbaka (texta); kefla línvörur (slétta í keflivél); n. keflivél
-mango n. mangóávöxtur; mangótré
+mango n. mangó, mangóávöxtur; mangótré (hitabeltistré)
 mangy l. kláðugur; slitinn; sóðalegur; fyrirlitlegur
 manhood n. manndómur; fullorðinsaldur; karlmennska
 mania n. æði, manía; áköf löngun; sótt
@@ -620,13 +620,13 @@ mercenary l. sem vinnur fyrir kaup eða fæst til leigu; leigður; fégjarn; [~ 
 mercer n. silki- og ullarvefnaðarsali
 mercery n. vefnaðarvörur; vefnaðarverslun
 merchandise n. vörur, varningur; s. versla
-merchant n. kaupmaður; [~ ship] kaupfar, kaupskip; [the ~ class] kaupmannastéttin
+merchant n. kaupmaður
 merchantable l. útgengilegur
 merchantman n. kaupskip
-merchantry n. kaupskapur, verslun
+merchantry n. kaupmennska, verslun, kaupskapur
 merciful l. miskunnsamur; vorkunnsamur
-merciless l. miskunnarlaus, harðbrjósta; vægðarlaus
-mercilessness n. miskunnarleysi
+merciless l. miskunnarlaus, miskunnlaus; vægðarlaus; harðbrjósta
+mercilessness n. miskunnarleysi; vægðarleysi
 mercurial l. hviklyndur; fjörugur; sem kvikasilfur er í; [the ~ wand] stafur Merkúrs; n. kvikasilfurslyf ([~ preparation])
 Mercury n. guðinn og reikistjarnan Merkúr
 mercury n. kvikasilfur

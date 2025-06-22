@@ -903,7 +903,7 @@ physic n. læknislist; læknislyf; búkhreinsunarlyf; s. lækna; gefa inn búkhr
 physical l. náttúrufræðilegur; eðlisfræðilegur; líkamlegur
 physician n. læknir
 physicist n. eðlisfræðingur
-physics nft. eðlisfræði
+physics n. eðlisfræði
 physiognomer n. sjá %[physiognomist]%
 physiognomics nft. sú kunnátta að þekkja skaplyndi manna af andlitsfalli þeirra, svipfræði
 physiognomist n. sá sem þekkir (eða þykist þekkja) skaplyndi manna af andlitsfalli þeirra
@@ -2128,15 +2128,15 @@ prolongation n. lenging
 promenade n. skemmtiganga (skemmtireið, skemmtiakstur); skemmtigöngustaður; s. ganga (ríða, aka, sigla, róa) sér til skemmtunar
 prominence n. framstandandi partur; yfirburðir, ágæti
 prominent l. útstandandi eða framstandandi, framstæður; frábær, ágætur; mikill
-promiscuity n. sambland; lauslæti
-promiscuous l. blandaður af handahófi, sem er án greinarmunar; lauslátur
-promiscuously ao. af handa hófi, hvað innan um annað; lauslætislega
+promiscuity n. lauslæti; sambland
+promiscuous l. lauslátur; blandaður af handahófi, sem er án greinarmunar
+promiscuously ao. lauslætislega; af handa hófi, hvað innan um annað
 promise n. loforð, heit; fyrirheit; [of great ~] mjög efnilegur; [the land of ~] fyrirheitna landið; [breach of ~] heitrof; s. lofa, heita ([I promise you this])
 promising l. líklegur, efnilegur, vænlegur
 promissory l. lofandi
 promissory note n. eiginvíxill
 promontory n. höfði
-promote s. styðja (að e-u); styrkja, efla, auka; koma á framfæri; hefja (til tignar [~ to higher office])
+promote s. styðja (að e-u); styrkja, efla, auka; koma á framfæri; upphefja; [~ to higher office] hefja til tignar
 promoter n. frömuður; styrktarmaður; upphafsmaður
 promotion n. efling, styrking; upphafning; upphefð; stöðuhækkun
 promotive l. eflandi, styrkjandi ([~ of])
@@ -2149,7 +2149,7 @@ promulgate s. kunngjöra, birta, auglýsa, dreifa
 promulgation n. auglýsing, birting, dreifing
 promulgator n. kunngjörari, dreifari, auglýsari
 promulge s. kunngjöra, birta, auglýsa
-prone l. liggjandi á grúfu; flatur ([fall/lie ~]); brattur; hneigður (til [to]); [~ to anger] uppstökkur, reiðigjarn
+prone l. liggjandi á grúfu; flatur ([fall/lie ~]); brattur; hneigður (til [to]), með tilhneigingu, gjarn á; [~ to anger] uppstökkur, reiðigjarn
 pronely ao. á grúfu
 proneness n. tilhneiging ([~ to swoon])
 prong n. kvísl, heykvísl; álma á gaffli; agnhald (á öngli); s. stinga, taka (með gaffli eða kvísl)
