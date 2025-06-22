@@ -238,7 +238,6 @@ bestseller n. metsölubók; vara sem selst í miklu magni
 bestselling l. söluhæstur; metsölu-
 roommate n. herbergisfélagi, kammerat
 flatmate n. sambýlismaður, meðleigjandi
-housemate n. sambýlismaður
 simultaneously ao. samtímis, samtíða, á sama tíma
 technician n. tæknimaður
 typically ao. dæmigert; yfirleitt; að vanda
@@ -372,8 +371,9 @@ hyperlink n. tengill (á veraldarvefnum)
 smiley l. glaðlyndur; brosandi; n. broskarl (tákn)
 spam n. ruslpóstur; unnin kjötvara í niðursuðudósum; s. senda ruslpóst
 spammer n. sendandi ruslpósts
-nerd n. nörd, njörður, sérvitringur
-nerdy l. nördalegur, sérvitur
+nerd n. nörd, njörður; sérvitringur
+nerdy l. nördalegur; sérvitur; lúðalegur
+nerdish l. nördalegur; sérvitur; lúðalegur
 crossword n. krossgáta
 diesel n. dísill, dísilolía
 internship n. starfsnám, starfsþjálfun
@@ -1956,6 +1956,8 @@ class system n. stéttakerfi
 Nordic l. norrænn; [the ~ countries, the ~s] Norðurlöndin
 tommy gun n. e.k. hríðskotabyssa (stytt. á [Thompson submachine gun])
 mass production n. fjöldaframleiðsla
+mass murder n. fjöldamorð
+mass murderer n. fjöldamorðingi
 monolingual l. eintyngdur; á einu tungumáli
 monolingualism n. eintyngi
 unilingual l. eintyngdur
@@ -3322,8 +3324,7 @@ oligopolistic l. fákeppnis-
 sunspot n. sólblettur
 monetarism n. peningamagnshyggja
 monetarist n. peningamagnshyggjumaður, fylgismaður peningamagnshyggju í hagfræði (sjá %[monetarism]%)
-transience n. hverfulleiki
-transient l. skammtíma-, skammvinnur, svipull, hverfull (sjá %[transience]%)
+transient l. skammtíma-, skammvinnur, svipull, hverfull, fallvaltur (sjá %[transience]%)
 malefaction n. illgjörð, illgjörningur
 lobotomy n. geiraskurður, hvítuskurður, ennisblaðsskurður ([prefrontal ~])
 lobotomization n. ennisblaðsskurður (sjá %[lobotomy]%)
@@ -7477,7 +7478,6 @@ decontextualized l. tekið úr samhengi
 magnolia n. magnólía (ættkvísl plantna)
 patronizing l. yfirlætislegur
 patronizingly ao. yfirlætislega
-Sodom n. Sódóma (borg sem guð tortímir í Biblíusögu)
 Gomorrah n. Gómorra (borg sem guð tortímir í Biblíusögu)
 electrified l. rafmagnaður; [~ fence] rafmagnsgirðing
 electrifying l. rafmagnandi (sjá %[electrify]%)
@@ -7790,7 +7790,6 @@ colloquially ao. í daglegu máli
 underwhelm s. valda vonbrigðum, vekja ekki aðdáun eða hrifningu, impónera ekki
 underwhelmed l. orðinn fyrir vonbrigðum, án hrifningar, ekki impóneraður
 underwhelming l. valdandi vonbrigðum, sem ekki vekur aðdáun eða hrifningu, óimpónerandi
-opera house n. óperuhús
 deoxidize s. afoxa
 deoxidization n. afoxun
 paella n. e.k. spænskur hrísgrjónaréttur
@@ -7808,8 +7807,8 @@ brutally ao. hrottalega, grimmilega; dýrslega
 coon n. þvottabjörn (stytt. á %[raccoon]%); svört manneskja (mjög niðrandi)
 phosgene n. fosgen
 android n. vélmenni, vél í mannslíki
-alma mater n. (lat.) skóli sem maður útskrifast frá
-geek n. nörd, lúði
+alma mater n. (lat.) skóli sem maður útskrifaðist frá
+geek n. nörd; lúði
 billboard n. auglýsingaskilti
 technobabble n. tæknibull, tækniblaður
 coriander n. kóríander, kóríandrajurt, kínversk steinselja
@@ -7987,7 +7986,6 @@ triathlon n. þríþraut
 gecko n. gekkó (lítil eðla)
 bragger n. gortari, montari, montrass, monthani
 bouillon n. kjötkraftur, kjötseyði
-snow leopard n. snjóhlébarði, snæhlébarði
 cosmetics nft. snyrtivörur, förðunarvörur
 Grenada n. Grenada
 diskette n. disklingur, disketta, diskur
@@ -8014,7 +8012,7 @@ pocket watch n. vasaúr
 trailblazer n. frumherji, brautryðjandi; e-r sem er í framvarðarsveit
 trailblazing l. frumherja-, brautryðjanda-, sem er í framvarðarsveit, sem vísar í nýja átt
 haptic l. snerti-, snertiskyns-, snertiskynjunar- ([~ feedback, ~ screen])
-divestiture n. losun, fjárlosun
+divestiture n. eignalosun, fjárlosun
 mislabel s. merkja rangt
 mislabeled l. merktur rangt
 reignite s. kveikja aftur í; kvikna á ný
@@ -8032,9 +8030,8 @@ skillset n. hæfileikar, færni, kunnátta
 glass jaw n. viðkvæmur kjálki (í hnefaleik)
 Dalmatian n. dalmatíuhundur; íbúi Dalmatíu (á austurströnd Adríahafs)
 woodlouse n. grálodda, grápadda
-ignitable l. eldnæmur, eldfimur
 fossil fuel n. jarðefnaeldsneyti (t.d. olía, gas, kol)
-ammo n. skotfæri, herbúnaður (stytt. á %[ammunition]%)
+ammo n. skotfæri (stytt. á %[ammunition]%)
 lese majesty n. sjá %[lèse-majesté]%
 lese majeste n. sjá %[lèse-majesté]%
 lèse-majesté n. (úr frönsku) drottinssvik, goðgá; móðgun, ærumeiðing við þjóðhöfðingja; landráð
@@ -8049,7 +8046,7 @@ sportswoman n. íþróttakona
 athletics nft. íþróttir; frjálsar íþróttir
 energise s. sjá %[energize]%
 demoralise s. sjá %[demoralize]%
-lube n. sleipiefni (stytt. á %[lubricant]%); s. smyrja; gera sleipt (stytt. á %[lubricate]%)
+lube n. sleipiefni (stytt. á %[lubricant]%); s. bera sleipiefni á; gera sleipt (stytt. á %[lubricate]%)
 helping hand n. hjálparhönd
 surface area n. flatarmál (yfirborðs), yfirborðsflötur
 revolutionise s. sjá %[revolutionize]%
@@ -8083,7 +8080,7 @@ cocotte n. vændiskona, gleðikona, hóra, skækja
 cyprian n. vændiskona, gleðikona, hóra, skækja
 jadestone n. jaði (fölgrænn steinn)
 jaded l. þreyttur, uppgefinn, útkeyrður; ekki lengur næmur
-jadedness l. þreyta, uppgjöf (sjá %[jaded]%)
+jadedness n. þreyta, uppgjöf (sjá %[jaded]%)
 tautness n. herðing, strekking
 partitioning n. skipting (í sundur), sundurskipting
 pawnshop n. veðlánabúð, handveðslánshús
@@ -8111,7 +8108,7 @@ well-founded l. vel ígrundaður
 well-grounded l. vel ígrundaður
 staged l. sviðsett
 verboseness n. orðgnótt
-veggie n. grænmeti (stytt. á %[vegetable]%); grænmetis-, grænmetisætu-, jurtaætu- (stytt. á %[vegetarian]%)
+veggie n. grænmeti (stytt. á %[vegetable]%); grænmetis-, grænmetisætu-, jurtaætu- (stytt. á %[vegetarian]%); n. grænmetisæta
 tactfulness n. háttvísi
 stretchability n. teygjanleiki
 stalwartness n. hreysti; hugrekki; kjarkur
@@ -8153,7 +8150,6 @@ sinfulness n. syndsemi
 circumcised l. umskorinn
 unpolitical l. ópólitískur
 unfinanced l. ófjármagnaður
-debtless l. skuldlaus
 debtlessness n. skuldleysi
 fintech n. fjármálatækni (stytt. á [financial technology])
 scalable l. kleifur
@@ -8186,7 +8182,7 @@ counteroffer n. gagntilboð, móttilboð
 ripened l. þroskaður
 unripened l. óþroskaður
 gillyflower n. gulltoppur (blóm)
-pureblooded l. með hreint blóð, af hreinum stofni, kynhreinn
+pureblooded l. með hreint blóð, af hreinum stofni, kynhreinn; hreinræktaður (um dýr)
 mixed-race l. kynblandaður (kominn af foreldrum frá sitt hvorum kynflokknum)
 cytoplasm n. umfrymi
 anti-aircraft gun n. loftvarnabyssa
@@ -8204,7 +8200,7 @@ altostratus n. gráblika
 alveolus n. blaðra; lungnablaðra
 candlestand n. kertastjaki á þremur fótum
 clef n. lykill (í nótnaskrift)
-ureter n. þvagleiðari, þvagáll, þvagpípa
+ureter n. þvagleiðari, þvagáll
 container n. gámur, flutningsgámur; geymir
 aerocyst n. loftblaðra
 balloonist n. loftbelgsfari
@@ -8269,7 +8265,7 @@ ortolan n. dultittlingur (fugl)
 metalloid n. hálfmálmur, málmungur, málmbróðir
 liverwurst n. lifrarpylsa
 kingcup n. hófsóley, lækjasóley (jurt)
-frankfurter n. pylsa (BNA)
+frankfurter n. pylsa
 doggie n. sjá %[doggy]%
 damselfly n. meyjarfluga, glermær
 canvasback n. dúkönd (fugl)
@@ -8278,3 +8274,11 @@ bluethroat n. blábrystingur (fugl)
 jeopardise s. sjá %[jeopardize]%
 quadratic l. fernings-, annars stigs ([~ equation, function, form])
 becharm s. töfra, heilla
+regurgitation n. spýja, æla; bakstreymi, bakflæði
+gilded l. gylltur; fegraður
+sparseness n. strjálleiki, það að vera dreifður
+sparsity n. strjálleiki, það að vera dreifður
+zero-dimensional l. víddarlaus
+golden ratio n. gullinsnið (ákveðið hlutfall tveggja talna)
+golden number n. gyllintal (í rími)
+sodomist n. sjá %[sodomite]%

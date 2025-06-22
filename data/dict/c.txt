@@ -1312,7 +1312,7 @@ collimate s. stilla (kíkir)
 collimation n. stilling (kíkis)
 collision n. árekstur, samrekstur; bági ([in ~ with the law])
 collocate s. setja, raða
-collocation n. niðurröðun
+collocation n. niðurröðun; orðasamband
 collocutor n. samtalsmaður, viðtalsmaður ([my ~])
 collodion n. límkennt efni
 collop n. kjötsneið

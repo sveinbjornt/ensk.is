@@ -2747,7 +2747,6 @@ upturn
 functionally
 purely
 woefully
-sparseness
 densely
 separator
 untaxable
@@ -3763,7 +3762,7 @@ bustling
 dappled
 fondue
 sansculotte
-argonaut
+Argonaut
 quadcopter
 cryptid
 ironman
@@ -3984,6 +3983,7 @@ curtly
 illuminist
 lummox
 zinger
+zingy
 brouhaha
 breakdancing
 breakdance
@@ -5392,7 +5392,6 @@ malevolency
 recumb
 ataraxis
 importee
-becharm
 enamour
 enamor
 loathsomeness
@@ -5464,7 +5463,6 @@ senectitude
 trussell
 chewy
 trinomial
-gilded
 aureate
 flourishing
 booming
@@ -5473,3 +5471,11 @@ tardily
 easy-going (endurskoða)
 puniness
 cat (endurskoða - arabísk tuggjurt)
+kat
+khat
+slimness
+zonk
+zonked
+subcision
+subincision
+butchering
