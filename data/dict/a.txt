@@ -908,18 +908,18 @@ amortize s. smálúka skuld með ákveðnum greiðslum
 amount n. upphæð; fjöldi; s. vera að upphæð, nema (e-u [to]); vera jafngildur, vera sama sem ([his fears almost ~ to madness])
 amour n. ástabrall, ástir
 amphibia nft. láðs- og lagardýr
-amphibious l. sem lifir bæði í vatni og á landi
+amphibious l. sem lifir bæði í vatni og á landi; froskdýra-; bæði á vatni og landi ([~ military operation])
 amphibology n. tvírætt hjal eða orðalag
 amphibological l. tvíræður
-amphitheatre n. hringleikhús (með hækkandi pöllum)
+amphitheatre n. hringleikahús (með hækkandi pöllum)
 amphitheatrical l. hringleikahúss-; sem líkist hringleikahúsi
-ample l. víður; stór; mikill; rúmgóður; ágætur; ríkulegur, nógur
+ample l. ríkulegur, nægur, nógur; víður; stór; mikill; rúmgóður; ágætur
 amplification n. stækkun; aukning; mögnun; ýkjur
 amplify s. auka; magna; gera (of) mikið úr, ýkja
-amplitude n. stærð, víðátta; mögnun; gnótt; ágæti
-amply ao. ríkulega
-amputate s. taka lim af, aflima
-amputation n. aftekning limar, aflimun
+amplitude n. stærð, víðátta; mögnun; gnótt, gnægð; ágæti
+amply ao. ríkulega, nægilega
+amputate s. aflima, taka lim af
+amputation n. aflimun, aftekning limar
 amulet n. verndargripur
 amuse s. skemmta ([~ one with an anecdote, by telling him a story])
 amusement n. skemmtun
@@ -927,8 +927,8 @@ amusing l. skemmtilegur
 amusive l. skemmtilegur
 amygdalic l. möndlu-; [~ acid] möndlusýra
 anabaptism n. endurskírn
-Anabaptist n. endurskírari
-Anabaptistic l. endurskírnar-
+Anabaptist n. endurskírari (trúflokkur mótmælenda)
+Anabaptistic l. endurskírnar- (sjá %[Anabaptist]%)
 anabaptize s. skíra upp aftur, endurskíra
 anachronism n. tímaskekkja, tímatalsvilla
 anachronistic l. ósamkvæmur nútímanum, tímaskekkju-
@@ -1028,23 +1028,23 @@ annalist n. árbókarhöfundur, annálahöfundur; sagnaritari
 annals nft. árbækur, annálar
 anneal s. herða, tempra (járn eða gler); smákæla
 annex s. festa, tengja (við [to]); innlima (land); n. viðbætir, viðauki
-annexation n. viðtenging, sameining; innlimun
+annexation n. innlimun; viðtenging, sameining
 annihilate s. gera að engu; ónýta; gjöreyða, tortíma
 annihilation n. tortíming; ónýting; eyðing, tortíming
 anniversary n. ársdagur; árleg minningarhátíð, árlegur minningardagur; l. árlegur
 annotate s. skýra (rit eða rithöfund); gera athugasemdir við ([on])
-annotation n. athugasemd, skýring
+annotation n. athugasemd, skýring; áletrun
 annotator n. ritskýrandi
-announce s. birta; boða; segja til
+announce s. tilkynna; birta; boða; segja til
 announcement n. tilkynning; boðskapur
-annoy s. ónáða; angra; skaprauna; skaða; n. ami, óþægindi
-annoyance n. skaði; gremja; skapraun
+annoy s. pirra, ónáða, angra, reyna á skap (e-s)
+annoyance n. pirringur; ónáðun, gremja, skapraun
 annoyer n. sá sem angrar eða pirrar
 annual l. árlegur; n. ársrit; árbók
 annually ao. árlega
 annuity n. árstekjur; lífrenta, lífeyrir
 annul s. eyða; nema úr gildi
-annulment n. eyðing, ógilding
+annulment n. eyðing; ógilding ([the ~ of their marriage pained him greatly])
 annular l. hringmyndaður
 annulary l. hring- ([~ finger])
 annulated l. búinn hringum, hringaður
@@ -1053,9 +1053,9 @@ annunciate s. gera kunnugt, birta, boða
 annunciation n. boðskapur; boðun Maríu
 annunciation day n. boðunardagur Maríu (25. mars)
 anodyne l. sefandi, fróandi; n. fróunarlyf ([a most potent ~])
-anoint s. smyrja ([David was ~ed king])
-anointing n. smurning
-anointment n. smurning
+anoint s. smyrja ([David was ~ed king]); vígja ([her ~ed successor])
+anointing n. smurning, smyrsl; vígsluathöfn
+anointment n. smurning, smyrsl; vígsluathöfn
 anomalism n. óregla, afbrigði
 anomalous l. óreglulegur, óvanalegur, afbrigðilegur
 anomaly n. afbrigði
@@ -1155,7 +1155,7 @@ aphony n. raddmissir
 aphorism n. spakmæli; kjarnyrði; orðspjót; afórismi
 aphorist n. spakmælahöfundur
 aphoristic l. spakmælislegur, kjarnyrtur
-aphrodisiac l. lostavekjandi (lyf), ástardrykkur, frygðarauki
+aphrodisiac l. lostavekjandi (lyf), ástardrykkur, ástarseiður, frygðarauki
 apiary n. býflugnabyrgi
 apiece ao. hver (hvor) um sig
 apish l. apalegur, bjánalegur
@@ -1196,8 +1196,8 @@ appear s. koma í ljós; koma út (um bók); vitrast; vera augljós, virðast, s
 appearance n. útlit; svipur; vofa; koma; útkoma (bókar)
 appease s. sefa, stilla, bæla niður, friðþægja
 appeasement n. sefun, fróun, friðun, friðþæging
-appellant n. áfrýjandi
-appellation n. nafn, heiti
+appellant n. áfrýjandi; l. áfrýjunar-, áfrýjandi
+appellation n. nafn, heiti, það sem einhver er kallaður
 appellative n. sameiginlegt nafn
 appellee n. sakborningur
 apellor n. sakaráberi
@@ -1265,7 +1265,7 @@ appurtenances nft. allt sem fylgir, fylgihlutir, fylgibúnaður; áhöld, tæki
 appurtenant l. tilheyrandi, meðfylgjandi, fylgi-
 apricot n. apríkósa (aldin); apríkósulitur; l. á litinn eins og apríkósa
 April n. apríl, aprílmánuður
-a priori ao. að óreyndu, á undan, fyrir fram (úr latínu)
+a priori ao. (lat.) að óreyndu, á undan, fyrir fram
 apron n. svunta
 apron string n. svuntustrengur
 apropos l. hentugur; ao. eftir á að hyggja; [~ of] að því er snertir e-ð

@@ -80,7 +80,7 @@ ball n. hnöttur; kúla, bolti; hnykill; [~ of the eye] augasteinn; [~ of the fo
 ballad n. þjóðsögukvæði, strengleikakvæði; götuvísa
 ballast n. kjölfesta, seglfesta; s. láta seglfestu í skip
 ballet n. ballett, bendingadans; ballettsýning
-balloon n. loftfar
+balloon n. blaðra; loftbelgur, loftfar; s. blásast út (eins og blaðra), þenjast
 ballot n. atkvæðaseðill; atkvæðiskúla; atkvæðismiði; leynileg atkvæðagreiðsla ([election by ~]); s. greiða atkvæði með smákúlum eða óundirrituðum atkvæðismiða
 balm n. ilmkvoða; ilmur; smyrsl
 balmy l. ilmandi; blíður (um veður); græðandi
@@ -159,8 +159,8 @@ bargeboard n. vindskeið (á þaki)
 bark n. börkur; skip, bátur; barkskip; gelt; s. gelta; birkja (við); súta
 barley n. bygg
 barm n. gerð, ólga
-barn n. hlaða
-barnacle n. hrúðurkarl, helsingi (gæs); e.k. snarvölur; s. binda snarvöl á ([~ a horse])
+barn n. hlaða (á bóndabæ)
+barnacle n. hrúðurkarl; helsingi (gæs); e.k. snarvölur; s. binda snarvöl á ([~ a horse])
 barometer n. loftvog, loftþyngdarmælir
 baron n. barón
 baronage n. barónstign, barónsstétt
@@ -489,7 +489,7 @@ bethink s. hugsa um; [~ oneself] hugsa sig um; ráða með sér
 betide s. vilja til, bera að höndum ([whatever fortune ~s you]); [woe ~ him] ógæfan elti hann
 betimes ao. snemma; í tæka tíð, nógu snemma
 betoken s. boða, vita á; bera vott um; sýna
-betray s. svíkja, bregðast; tæla; ljóstra upp; sýna
+betray s. svíkja, bregðast; tæla; ljóstra upp; koma upp um; sýna
 betrayal n. svik, svikræði; uppljóstur
 betrayer n. svikari
 betroth s. trúlofa
@@ -510,7 +510,7 @@ bewitch s. töfra, heilla
 bewitching l. töfrandi
 bewitchment n. töfrar
 beyond fs. hinu megin; fram yfir, út yfir; [~ all doubt] vafalaust; [~ measure] fram úr hófi
-bias ao. á ská, skáhalt ([cut ~]); n. hliðarhalli (kúlu); tilhneiging; hleypidómur; s. sveigja til hliðar; gera hlutdrægan
+bias ao. á ská, skáhalt ([cut ~]); n. hlutdrægni; hliðarhalli (kúlu); tilhneiging; hleypidómur; s. sveigja til hliðar; gera hlutdrægan
 bib s. sötra; smádrekka; n. smekkur; hökuspeldi; brjóstspeldi
 bibber n. þjórari ([bibber of wine, beer])
 bible n. biblía, heilög ritning
@@ -745,7 +745,7 @@ blub s. skæla, gráta ákaft
 blubber n. spik; hvalspik; selspik; grátur; s. skæla, gráta ákaft
 bludgeon n. lurkur, barefli ([armed with swords and ~s]); s. lemja með lurk eða barefli
 blue l. blár; dapur í bragði; þunglyndur; [(he was) ~ in the face] agndofa; [look ~] vera þungbúinn á svipinn; [drink till all's ~] drekka sig blindfullan; [~ talk] lauslætishjal; [true ~] ósvikinn; [be in a ~ funk] vera dauðhræddur; [~ blood] ættgöfgi; [~ devils, feeling blue] þunglyndi; [~ water] rúmsævi, reginhaf; [once in a ~ moon] aðeins örsjaldan; n. blár litur; blár himinn; rúmsjór ([~ water]); blámi; blákka; [like a bolt from the ~] eins og þruma úr heiðskíru lofti; s. blákka (lín); lita (gera) blátt
-blues nft. þunglyndi; [a fit of ~] þunglyndiskast; blústónlist
+blues nft. þunglyndi; [a fit of ~] þunglyndiskast; blús, blústónlist ([he played the ~ like nobody else])
 bluebell n. bláklukka (blóm)
 blue-blooded l. ættgöfugur
 blue-bottle n. kornblómstur; maðkafluga
@@ -1036,7 +1036,7 @@ breccia n. þursaberg
 breech n. afturhluti
 breeches nft. brækur
 breechloader n. afturhlæða (byssa)
-breed s. ala, fæða; framleiða, geta af sér; ala upp, rækta ([~ cattle]); kvikna; koma upp; n. kynferði; kyn
+breed s. ala, fæða; framleiða, geta af sér; ala upp, rækta ([~ cattle]); kvikna; koma upp; n. kyn; tegund
 breeding n. uppeldi; góðir siðir ([good ~])
 breeding hen n. eggsjúk hæna
 breeding mare n. stóðmeri

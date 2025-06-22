@@ -119,7 +119,7 @@ sanatorium n. heilsuhæli
 sanatory l. heilsubætandi; heilbrigðislegur, heilbrigðis-
 sanctification n. helgun
 sanctify s. helga
-sanctimonious l. heilagur; hræsnisfullur
+sanctimonious l. heilagur; skinhelgur; hræsnisfullur
 sanctimony n. uppgerðarguðhræðsla; trúhræsni
 sanction n. staðfesting; samþykki ([to give ~ to a law]); fyrirheit ([remuneratory ~]); s. staðfesta, löghelga; samþykkja
 sanctity n. heilagleiki, helgi ([a place of great ~])
@@ -181,8 +181,8 @@ satirize s. hæðast að, gera hlægilegt
 satisfaction n. fullnaðargerð, fullnægjugerð; ánægja; skaðabætur
 satisfactory l. fullnægjandi; nægur; friðþægjandi
 satisfy s. fullnægja, gera (e-m) fullnað; gera ánægðan; seðja; sannfæra; leysa úr e-u ([~ a question])
-satrap n. jarl í Persalandi
-satrapy n. jarlsdæmi
+satrap n. jarl í Persíu
+satrapy n. jarlsdæmi (í Persíu)
 saturate s. gegnvæta, láta drekka í sig, metta
 saturation n. mettun (í efnafræðilegum skilningi), gegnvæting
 Saturday n. laugardagur
@@ -400,8 +400,8 @@ scrimmage n. áflog, ryskingar; átakalína
 scrimp l. lítill, naumur; n. svíðingur; s. gera (e-ð) of lítið, klipa af (e-u)
 scrimpingly ao. sparlega, spart
 scrip n. skreppa, lítill poki; seðill; bráðabirgðahlutabréf
-script n. prentskrift
-scriptural l. ritninglegur
+script n. prentskrift, prentletur; handrit; skrifta, forskrift
+scriptural l. ritninglegur, ritningar-
 scripture n. ritning; [the Holy Scripture] heilög ritning
 scrivener n. peningamiðlari; skjalasemjari
 scrofula n. kirtlaveiki
@@ -549,14 +549,13 @@ seductive l. tælandi, lokkandi, táldrægur
 sedulous l. iðinn, kappsamur
 sedulousness n. kapp
 sedulity n. kapp
-see n. biskupssetur, biskupsstóll; páfastóll, páfadæmi ([the Holy See])
-see s. sjá; skilja; sjá um; heimsækja; hitta að máli; fylgja ([~ a lady home]); reyna (e-ð); [~ a joke] skilja gamanyrði; [~ a thing done] annast um, að e-ð sé gert; [~ the light] sjá dagsins ljós, fæðast; [I saw him fall] ég sá hann detta (falla); [he refused to ~ me] neitaði að hitta mig; [~ about] hugsa um; [~ after] leita að; gá að; [~ for] leita að; skyggnast um eftir; [~ into] sjá inn í; skilja; [~ out] horfa (hlýða) á e-ð til enda; [~ to] annast um, gæta að
+see s. sjá; skilja; sjá um; heimsækja; hitta að máli; fylgja ([~ a lady home]); reyna (e-ð); [~ a joke] skilja gamanyrði; [~ a thing done] annast um að e-ð sé gert; [~ the light] sjá dagsins ljós, fæðast; [I saw him fall] ég sá hann detta (falla); [he refused to ~ me] hann neitaði að hitta mig; [~ about] hugsa um; [~ after] leita að; gá að; [~ for] leita að; skyggnast um eftir; [~ into] sjá inn í, skilja; [~ out] horfa (hlýða) á e-ð til enda; [~ to] annast um, gæta að; n. biskupssetur, biskupsstóll; páfastóll, páfadæmi ([the Holy See])
 seed n. fræ; sáð, sæði; afkvæmi, afkomendur; s. sá sér út, kasta fræi; sá
 seed cake n. kúmenskaka
 seed leaf n. fræblað
 seedsman n. sáðmaður; fræsali
 seedtime n. sáðtíð
-seedy l. subbulegur, sóðalegur, slitinn, garmalegur ([a ~ part of town]); fullur af fræi
+seedy l. subbulegur, sóðalegur ([a ~ part of town]); slitinn, garmalegur, tuskulegur; fullur af fræi
 seeing n. sjón; [~ is believing] sjón er sögu ríkari; st. með því að, þar sem ([~ that])
 seek s. leita að; biðja um; reyna ([~ to do something]); [~ for (after)] leita að; sækjast eftir; [~ an office] sækja um embætti
 seeker n. leitandi; [a ~ of truth] sannleiksvinur
@@ -596,8 +595,8 @@ self-esteem n. sjálfsálit
 self-evident l. auðséður, sjálfsagður
 selfhood n. sjálfka, sjálfleiki
 self-inflicted l. sjálfskapaður ([~ injury])
-self-interest n. eigingirni
-self-interested l. eigingjarn
+self-interest n. sjáfshagsmunir; eigingirni
+self-interested l. sem gætir eigin hagsmuna; eigingjarn
 self-invited l. sjálfboðinn, óboðinn
 selfish l. eigingjarn; sjálfselskur
 selfishness n. eigingirni; sjálfselska
@@ -1148,7 +1147,7 @@ sinful l. syndugur; syndsamlegur, óguðlegur
 sinless l. syndlaus
 since ao. frá þeim tíma, síðan; [long ~] fyrir löngu; fs. frá; [~ eight years] frá því fyrir 8 árum; st. síðan, frá því að; úr því að, með því að
 sincere l. hreinskilinn, einlægur
-sincerely ao. hreinskilnislega, einlægt
+sincerely ao. hreinskilnislega, einlægt, einlega, innilega
 sincerity n. hreinskilni, einlægni ([in perfect ~])
 sinecure n. embætti (einkum kirkjulegt) með góðum tekjum og engri fyrirhöfn
 sinew n. sin; afl; s. styrkja, herða
@@ -1714,7 +1713,7 @@ sorrowful l. sorgfullur, hryggur; sorglegur ([~ accident])
 sorry l. hryggur, hryggilegur; lélegur, lítilfjörlegur ([a ~ excuse]); [I am ~ to say] það hryggir mig að þurfa að segja; [I am/feel ~ for him] ég kenni í brjósti um hann
 sort n. tegund, kyn; flokkur; háttur; [a ~ of] eins konar, nokkurs konar; [out of ~s] óhress; í vondu skapi; s. skilja að; velja úr ([~ out]); flokka; raða niður; sameinast; koma sér saman
 sorter n. flokkari, vöruskoðari
-sortie n. útrás (út úr umsetinni borg)
+sortie n. útrás, úthlaup (út úr umsetinni borg)
 sortilege n. hlutkesti; spádómur af hlutkesti
 so-so ao. svona og svona
 sot n. heimskingi; drykkjurútur
@@ -2164,7 +2163,7 @@ starch n. línsterkja; stirðleiki; s. gera stinnt (með línsterkju)
 starchy l. stinnur; stirður (í framkomu)
 stare s. stara ([~ one in the face]); glápa, blína; n. stara, gláp
 staring l. starandi; áberandi ([~ waistcoat])
-stark l. stirður, stinnur; algjör, eintómur ([~ nonsense]); ao. alveg ([~ mad]); [it fell ~ calm] dúnalogn; [~ naked] allsber
+stark l. stirður, stinnur; algjör, eintómur ([~ nonsense]); blákaldur; ao. alveg ([~ mad]); [it fell ~ calm] dúnalogn; [~ naked] allsber
 starling n. starri (fugl)
 starry l. stirndur; stjörnubjartur; [~ light] stjörnuljós
 start s. hrökkva við; bregða við; hrökkva (stökkva) upp; fælast; leggja (fara) af stað; setja í hreyfingu; setja á stofn ([~ an enterprise]); byrja; vekja máls á ([~ a question]); koma fram með ([~ objections]); koma (e-m) í veg; reka upp, reka á flótta ([~ a hare]); fæla, hræða; skekkja, vinda; [~ a cask] steypa úr (tæma) tunnu; [~ running] fara að hlaupa; [~ against] bjóða sig fram á móti (e-m); [~ aside] stökkva út af veginum; fælast; [~ for] bjóða sig fram í (e-u kjördæmi); sækja um (embætti); [~ into life] lifna (við); [~ on a journey] byrja ferð; [~ up] koma upp eða í ljós ([many difficulties have ~ed up]); [to ~ with] fyrst og fremst, í byrjuninni ([had six members to ~ with]); n. kippur, viðbragð; snögg hugsun; byrjun ([he got a good ~ in life]); [make an early ~ for home] halda snemma heimleiðis; [to get the ~ of] komast á undan e-m; verða fyrri til en (annar); [he gave a (sudden) ~] hann tók (snöggt) viðbragð; [ready for a ~] búinn til að fara af stað

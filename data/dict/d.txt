@@ -26,7 +26,7 @@ dally s. kjassast, leika sér; drolla
 Daltonian n. litblindur maður
 daltonism n. litblinda (blandar saman grænu og rauðu)
 dam n. stífla, flóðgarður; týja; s. hlaða fyrir, stífla (oft [to ~ up])
-damage n. skaði, tjón; nft. [~s] skaðabætur; s. skaða, skemma; spilla fyrir ([you will only ~ your cause]); skemmast
+damage n. skaði, tjón; nft. [~s] skaðabætur; s. skaða; skemma, skemma fyrir; spilla fyrir ([you will only ~ your cause]); skemmast
 damageable l. sem er hætt við að skemmast ([goods easily ~]); skaðlegur
 damascene s. rista rósir í stál
 damask n. damask (rósaður vefnaður); s. vefa rósir í; setja rósamyndir í stál
@@ -162,7 +162,7 @@ death's head n. hauskúpa
 deathsman n. böðull
 death warrant n. dauðadómur (undirskrifaður af konungi)
 death watch n. veggjatrítla
-death wound n. bana-sár
+death wound n. banasár
 debacle n. hlaup í á
 debar s. útiloka, banna
 debark s. flytja af skipi; stíga af skipi (á land)
@@ -588,7 +588,7 @@ deranged l. sturlaður, ruglaður
 derangement n. rugl; ringl; röskun, truflun; sturlun ([mental ~])
 derelict l. yfirgefinn; eigandalaus; einmana; n. skip sem er yfirgefið; einstæðingur
 dereliction n. yfirgefning; vanræksla ([~ of duty])
-deride s. spotta
+deride s. spotta, hafa að athlægi
 derision n. spott; athlægi ([to be in ~, bring into ~])
 derisive l. háðslegur, hæðilegur, hæðnis-
 derisory l. háðslegur, hæðilegur, hæðnis-
@@ -943,7 +943,7 @@ disadvantageous l. óhagstæður, óhentugur
 disaffect s. gera óánægðan, vekja óánægju hjá e-m
 disaffected l. óánægður
 disaffection n. óánægja, óvild
-disagree s. vera ósamhljóða eða ósammála; eiga illa við (um mat eða drykk) ([~ with his health)]
+disagree s. vera ósamþykkur, vera ósamhljóða, vera ósammála; eiga illa við (um mat eða drykk) ([~ with his health)]
 disagreeable l. óþægilegur
 disagreement n. mismunur; sundurþykkja, ágreiningur; ósamræmi
 disallow s. vera (e-u) mótfallinn; hafna; banna; bera á móti e-u
@@ -1400,7 +1400,7 @@ dog Latin n. hrognalatína
 dogsleep n. laus svefn
 dogged l. þrár; [~ resistance] hörð mótstaða
 doggish l. hundslegur; geðvondur
-doggy n. seppi; l. hunda- ([~ nature])
+doggy n. seppi, voffi, hundur (sjá %[dog]%); l. hunda- ([~ nature])
 doggerel l. illa ortur; n. leirburður
 dogma n. trúarsetning, kredda
 dogmatic l. sem lýtur að trúarsetningum, kreddulegur
@@ -1463,7 +1463,7 @@ doorway n. dyr, dyragætt, inngangur ([to stand in the ~]); gátt
 dormant l. sofandi; sem liggur í dái; ónotaður
 dormer-window n. kvistgluggi
 dormitive n. svefnlyf
-dormitory n. svefnherbergi, svefnloft, svefnrými, svefnsalur; heimavist
+dormitory n. svefnherbergi, svefnloft, svefnrými, svefnsalur, svefnstofa; heimavist
 dormouse n. svefnmús (nagdýr); nft. [dormice]
 dorsal l. [~ fin] bakuggi
 dose n. skammtur, inntaka; [minute ~s] smáskammtar; s. gefa inn

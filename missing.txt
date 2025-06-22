@@ -15,7 +15,7 @@ lambda
 elected
 preterperfect
 corps
-cat o' nine tails
+cat-o'-nine-tails
 locus
 induced
 hydroponic
@@ -51,7 +51,6 @@ coordinated
 coordination
 coordinator
 uncoordinated
-container
 analog
 analogue
 guaranteed
@@ -273,7 +272,6 @@ underdetermination
 elitism
 elitist
 relativity (endurskoða skilgr.)
-quintessential
 dysmorphia
 dysmorphic
 ellipticity
@@ -441,7 +439,6 @@ outboard
 chitchat
 nanny
 powerhouse
-mixed-race
 strong-arm
 spillage
 extravaganza
@@ -550,7 +547,6 @@ agrarianism
 redaction
 precondition
 redistribute
-stockpile
 expendable
 consensual
 rearrange
@@ -661,7 +657,6 @@ capitulary
 accumulator
 raider
 riverine
-unfree
 themselves
 anchorite
 eremitism
@@ -698,7 +693,6 @@ breakaway
 entrepôt
 longtime
 vermillion
-ornateness
 expeditionary
 acknowledgement
 scriptorium
@@ -1165,7 +1159,6 @@ breadwinner
 livable
 bipartisan
 bipartisanship
-facelift
 downstream
 retrofit
 proactive
@@ -1195,8 +1188,6 @@ immanence
 legitimization
 stylization
 interethnic
-militancy
-postgraduate
 reintegration
 normalization
 associative
@@ -1315,7 +1306,6 @@ rollback
 survivalist
 stovepipe
 newscaster
-quid pro quo
 symbolization
 accelerationism
 boogaloo
@@ -1589,7 +1579,6 @@ jab
 dispersant
 tonality
 slugger
-defensiveness
 sportsmanship
 divvy
 replay
@@ -1773,7 +1762,6 @@ disruptable
 midstream
 feedstock
 intermittency
-tantalum
 nonperishable
 rechargeable
 Hobbesian
@@ -1805,7 +1793,6 @@ waterwheel
 sesame
 hellscape
 commodification
-silage
 polyculture
 monoculture
 grunge
@@ -2657,7 +2644,6 @@ clobber
 outscore
 droopy
 ultrasocial
-quintessentially
 togetherness
 newsflash
 mushy
@@ -2731,7 +2717,6 @@ reluctantly
 bloody-minded
 bloody-mindedness
 governor-general
-correctly
 unconditionally
 cleverly
 tangential
@@ -3243,7 +3228,6 @@ recurring
 thumbtack
 exasperating
 hauler
-yucky
 medulla
 sparky
 gulch
@@ -3284,6 +3268,7 @@ squawk
 territorialization
 emboldened
 inhibited
+uninhibited
 unearthed
 mortice
 interiorize
@@ -3334,7 +3319,6 @@ grandnephew
 bebop
 Rastafarianism
 monochord
-scalable
 cascading
 shimmy
 shim
@@ -3621,7 +3605,6 @@ infract
 churro
 pizazz
 ethnobotany
-lightheaded
 descriptivism
 descriptivist
 evidently
@@ -3815,6 +3798,7 @@ unequivocally
 pression
 charred
 tasselled
+measured
 unmeasured
 loyally
 dispassionately
@@ -4062,7 +4046,6 @@ refreshing
 refreshingly
 sculpt
 deprived
-diddly
 elicitation
 noncommunicable
 vestibular
@@ -4867,7 +4850,6 @@ agitated
 stasis
 seaglider
 aloof (endurskoða)
-defensively
 united
 chud
 couloir
@@ -4907,7 +4889,6 @@ glycemic
 hypoglycemic
 enfold
 enfolded
-dyadic
 conferred
 uncapitalized
 neg
@@ -4994,7 +4975,6 @@ caprylic
 darn (endurskoða)
 darned
 darnedest
-voyeuristic
 agendum
 agenda (endurskoða)
 trapped
@@ -5123,10 +5103,10 @@ hoarding
 hoardings
 enshittify
 deshittify
-pyroclastic
 eschewed
 challenging
 felix
+butcherly
 cornelian
 vitriol (endurskoða)
 vitriolic (endurskoða)
@@ -5260,7 +5240,6 @@ enmeshed
 swag (endurskoða)
 variableness
 sectionalization
-lenify
 malversate
 misappropriate
 robotlike
@@ -5334,7 +5313,6 @@ newsbreak
 jiffy
 splashiness
 tucket
-exposit
 bosomy
 full-bosomed
 blistering
@@ -5355,9 +5333,7 @@ pennywhistle
 centime
 gourmandize
 overgorge
-overabundance
 cerement
-casserole
 sharp-worded
 tangy
 lemonlike
@@ -5409,3 +5385,91 @@ emasculating
 pansy (endurskoða)
 conformance
 compliancy
+two-faced
+Janus-faced
+Janus
+malevolency
+recumb
+ataraxis
+importee
+becharm
+enamour
+enamor
+loathsomeness
+lousiness
+nefariousnes
+repulsiveness
+sliminess
+cutthroat (endurskoða - lýsingarorð)
+loitering
+overhauled
+cyclery
+biannual
+empurpled
+purpurate
+fledgeless
+unvaned
+shopworn
+timeworn
+well-worn
+stemma
+terms
+intubate
+chronocrator
+wanly
+tilted
+microservice
+overmaster
+waking
+pro-
+passe-partout
+capsule (endurskoða)
+probe (endurskoða)
+problematic (endurskoða)
+manifold (endurskoða - manifold destiny osfrv)
+materialization (endurskoða)
+reflexion
+demo-
+momism
+overshielding
+repelling
+loathly
+skanky
+yucky
+virulence (endurskoða)
+virulent (endurskoða)
+cataplasm
+plasterwork
+beplaster
+dickhead
+shucks
+whoreson
+diddley
+diddly
+diddly-shit
+diddly-squat
+diddlyshit
+diddlysquat
+dogshit
+self-concern
+self-centeredness
+trapper (endurskoða)
+cirripede
+barn animal
+mystify (endurskoða)
+pudendum
+unsettling
+chafing
+senectitude
+trussell
+chewy
+trinomial
+gilded
+aureate
+flourishing
+booming
+well-heeled
+tardily
+easy-going (endurskoða)
+puniness
+cat (endurskoða - arabísk tuggjurt)

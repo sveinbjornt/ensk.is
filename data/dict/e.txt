@@ -289,7 +289,7 @@ elmy l. vaxinn álmviði; álmviðar-
 elocution n. framburður og áhersla (á ræðu)
 elocutionary l. sem lýtur að framburði ([~ effect, ~ gift])
 elongate s. lengja; lengjast; teygja; ílengja
-elongation n. lenging, ílenging
+elongation n. lenging, ílenging (sjá %[elongate]%)
 elope s. hlaupa burtu, strjúka (um konu sem strýkur með friðli sínum, eða stúlku sem strýkur að heiman með unnusta sínum)
 elopement n. flótti, strok
 eloquence n. mælska, málsnilld
@@ -476,7 +476,7 @@ encomiastic l. hrósandi
 encomium n. lofræða
 encompass s. umkringja, liggja utan um, umlykja
 encore uh. einu sinni aftur! s. biðja um aftur
-encounter s. mót, fundur; bardagi; einvígi; s. ganga (fara) á móti (í bardaga); mæta; hitta; verða fyrir e-u ([~ difficulties]); hittast
+encounter s. mót, fundur; bardagi; einvígi; viðureign; s. ganga (fara) á móti (í bardaga); mæta; hitta; verða fyrir e-u ([~ difficulties]); hittast
 encourage s. telja hug í; uppörva; hvetja, eggja; efla, styðja að (e-u)
 encouragement n. uppörvun; hvatning, hvöt; efling
 encourager n. hvatamaður, stuðningsmaður
@@ -1265,7 +1265,7 @@ exportation n. útflutningur
 exporter n. útflytjandi varnings
 expose s. bera út (barn); sýna; skýra frá; leggja, stofna (í hættu); bjóða (til sölu); sýna fram á, koma upp um
 exposed l. óvarinn, hlífarlaus, skjóllaus ([an ~ coast])
-exposition n. útburður (barns); sýning; skýring, útlistun
+exposition n. útburður (barns); sýning; skýring, útlistun, greinargerð
 expositive l. skýrandi
 expositor n. þýðari, útlistari
 expository l. skýrandi, útlistandi

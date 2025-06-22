@@ -43,7 +43,7 @@ umpireship n. gerðarmannsstaða
 unabashed l. óskelfdur
 unabated l. óveiklaður, óveiktur ([with ~ energy])
 unable l. ófær, sem ekki er fær um; óhæfur; [be ~ to walk] geta ekki gengið
-unaccented l. áherslulaus
+unaccented l. áherslulaus; án stafmerkis, án áherslumerkis
 unacceptable l. óásættanlegur; óaðgengilegur; ógeðfelldur
 unaccountable l. óskiljanlegur; ábyrgðarlaus
 unaccustomed l. óvanur (við [to]); óvanalegur
@@ -494,7 +494,7 @@ unriddle s. ráða (gátu)
 unrighteous l. óréttlátur
 unrighteousness n. óréttlæti
 unripe l. óþroskaður
-unripeness n. þroskaskortur
+unripeness n. þroskaskortur, óþroski
 unrivalled l. óviðjafnanlegur
 unrobe s. afklæða
 unroll s. rekja í sundur; vinda ofan af
@@ -610,7 +610,7 @@ unwillingness n. tregða
 unwind s. vinda ofan af; rekja í sundur
 unwise l. óvitur, óviturlegur, óhyggilegur
 unwished l. [~ for] ekki þráður
-unwittingly ao. óvitandi
+unwittingly ao. óvitandi, óafvitandi, óvitanlega
 unwomanly l. ókvenlegur
 unwonted l. óvanur; óvenjulegur
 unwontedly ao. óvenjulega

@@ -81,7 +81,7 @@ hamlet n. smáþorp
 hammer n. hamar; s. reka eða berja með hamri
 hammock n. hengirúm
 hamper n. stór karfa; s. fjötra, flækja, hindra; [~ a lock] ónýta, skemma lás
-hand n. hönd; hlið; vísir (á klukku); rithönd; verkmaður; maður; [all ~s on board perished] allir skipverjar létust; [they are already ~ and glove (~ in glove)] þeir eru þegar orðnir mestu mátar; [at the ~s of] af e-s hendi, frá e-m; [to buy at the best ~] kaupa ódýrt; [at ~] við höndina ([near at ~]); fyrir höndum, í vændum ([great changes were at ~]); [at no ~] engan veginn; [on ~] fyrirliggjandi; [(embroidery) done by ~] handsaumaður, handunninn; [to take in ~] taka að sér; [the work is now well in ~] vel á veg komið; [off ~, out of ~] undirbúningslaust, þegar í stað; [to live from ~ to mouth] hafa til hnífs og skeiðar; [to have a ~ in] eiga þátt í (hlut að) e-n; [money in ~] reiðupeningar, handbært fé; [the mountains on either ~] á báðar hendur; [to come to ~] koma til skila (um bréf); [on all ~s, on every ~] í (eða úr) öllum áttum, allsstaðar; af öllum; [to put the last (finishing) ~ to the work] leggja síðustu hönd á verkið; [~s up!] hendurnar upp! s. hjálpa; rétta; afhenda, fá í hendur; taka (segl) saman ([~ a sail])
+hand n. hönd; hlið; vísir (á klukku); rithönd; verkmaður; maður; [all ~s on board perished] allir skipverjar létust; [they are already ~ and glove (~ in glove)] þeir eru þegar orðnir mestu mátar; [at the ~s of] af e-s hendi, frá e-m; [to buy at the best ~] kaupa ódýrt; [at ~] við höndina ([near at ~]); fyrir höndum, í vændum ([great changes were at ~]); [at no ~] engan veginn; [on ~] fyrirliggjandi; [(embroidery) done by ~] handsaumaður, handunninn; [to take in ~] taka að sér; [the work is now well in ~] vel á veg komið; [off ~, out of ~] undirbúningslaust, þegar í stað; [to live from ~ to mouth] hafa til hnífs og skeiðar; [to have a ~ in] eiga þátt í (hlut að) e-n; [money in ~] reiðupeningar, handbært fé; [the mountains on either ~] á báðar hendur; [to come to ~] koma til skila (um bréf); [on all ~s, on every ~] í (eða úr) öllum áttum, allsstaðar; af öllum; [to put the last (finishing) ~ to the work] leggja síðustu hönd á verkið; [~s up!] hendurnar upp!; s. hjálpa; rétta; afhenda, fá í hendur; taka (segl) saman ([~ a sail])
 handbarrow n. handbörur
 handbill n. prentað auglýsingablað
 handbook n. handbók
@@ -115,7 +115,7 @@ handsomely ao. myndarlega, fallega, laglega; fagurlega, ríflega, örlátlega
 handsomeness n. myndarleiki, fríðleiki, fegurð; rífleiki
 handy l. lagvirkur, handhægur; hentugur; handbær, tiltækur
 handworked l. handunninn, handsmíðaður
-handwriting n. rithönd, hönd
+handwriting n. rithönd, hönd; handskrift
 hang s. hengja; hengja (myndir eða veggtjöld) á; hanga, lafa; vera kominn undir ([~ on]); [~ about] slæpast; [~ about one, by one's side] hanga (lafa) aftan í e-m; [~ back] hika; [~ over one's head] vofa yfir e-m; [~ up] hengja upp; fresta e-u; [~ fire] riða ekki undir eins af (um skot); [his answer hung fire] hann var seinn til svara; n. halli; bratti; [to get the ~ of] ná tökum á e-u; [not a ~] ekki hót
 hangdog n. bófi; l. bófa- ([with a ~ air])
 hanger-on n. áhangandi
@@ -127,7 +127,7 @@ hank n. hönk; hespa; viða
 hanker s. þrá ([after, for])
 hankering n. þrá, löngun ([a ~ for the sea])
 hanky-panky n. undirferli, brögð í tafli
-Hanseatic l. [~ League] Hansafélagið (þýskir kaupmenn)
+Hanseatic l. Hansa-; [~ League] Hansafélagið (þýskir kaupmenn)
 hansom n. tvíhjólaður vagn ([hansom cab])
 hap n. tilviljun, hending; s. vilja til; [~ upon] hitta
 haphazard l. tilviljunarkenndur, óskipulegur; n. tilviljun; [at/by ~] upp á von og óvon
@@ -173,12 +173,12 @@ harlot n. hóra, skækja, vændiskona, púta
 harlotry n. frillulíf, hórdómur, saurlifnaður
 harm n. mein, skaði, tjón; s. skaða, gera á hluta (e-s)
 harmful l. skaðlegur
-harmless l. meinlaus, skaðlaus; ósaknæmur
-harmlessness n. óskaðsemi, meinleysi
+harmless l. meinlaus, skaðlaus, óskaðlegur
+harmlessness n. meinleysi, skaðleysi, óskaðsemi
 harmonic l. samræmislegur; hljómfagur; samstilltur
 harmonical l. samræmislegur; hljómfagur; samstilltur
 harmonious l. samræmur, samhljóða; hljómfagur; samhuga, samlyndur
-harmonium n. harmóníum (e.k. orgel)
+harmonium n. harmóníum (stofuorgel)
 harmonize s. vera samhljóða; koma heim við e-ð; eiga við e-ð ([with]); vera samlyndur, koma sér saman; koma e-u í samræmi
 harmony n. samræmi; samhljómur, samhljóðan; samstilling; samlyndi, samkomulag
 harness n. aktygi, akreiði; spangabrynja; s. leggja aktygi við; útbúa

@@ -206,9 +206,9 @@ capsize s. hvolfa, sigla (sig) í kaf; [the boat ~d] bátnum hvolfdi; n. kollsig
 capstan n. akkerisvinda
 capsular l. belgmyndaður
 capsule n. fræbelgur; hýði
-captain n. skipstjóri; yfirforingi, höfuðsmaður; sjóliðsforingi
+captain n. skipstjóri, kapteinn, skipsherra; flugstjóri; fyrirliði; yfirforingi, höfuðsmaður; sjóliðsforingi
 captaincy n. foringjastaða; [obtain a ~] verða höfuðsmaður
-captainship n. yfirforingjaembætti
+captainship n. yfirforingjaembætti; skipstjórastaða
 caption n. fyrirsögn, millifyrirsögn; myndatexti, myndlýsing; löghald; vottorð
 captious l. fláráður, hótfyndinn
 captiousness n. fláræði, undirferli; hótfyndni
@@ -1649,7 +1649,7 @@ concurrent l. samfarandi; samverkandi; sameiginlegur; samhljóða; n. aukaatvik
 concurrently ao. jafnhliða; samtímis (e-u [with])
 concuss s. hrista; neyða með hótunum
 concussion n. hristingur, skjálfti; meiðsl (af hristingi)
-condemn s. dæma sekan, sakfella; dæma (í refsingu); fyrirdæma; dæma ónýtt (til nautnar eða notkunar)
+condemn s. fordæma; dæma sekan, sakfella; dæma (í refsingu); fyrirdæma; dæma ónýtt (til nautnar eða notkunar)
 condemnable l. vítaverður
 condemnation n. sakfelling; áfellisdómur; fyrirdæming
 condemnatory l. fyrirdæmandi ([~ language])
@@ -1714,7 +1714,7 @@ confidentially ao. í trúnaði
 configurate s. mynda, laga
 configuration n. myndun, lögun; afstaða (himintungla); stilling
 confine n. vanalega í ft. [~s]; takmörk, landamæri; s. takmarka; byrgja inni, hafa í varðhaldi; binda, halda; [be ~d to bed] liggja rúmfastur, liggja á sæng; [be ~d of a child] ala barn
-confinement n. takmörkun; varðhald; barnsburður ([just recovered from her ~])
+confinement n. takmörkun; innilokun; varðhald; barnsburður ([just recovered from her ~])
 confirm s. styrkja, staðfesta; ferma; [a ~ed drunkard] forhertur drykkjumaður
 confirmation n. styrking; staðfesting; ferming
 confirmatory l. styrkjandi
@@ -2714,7 +2714,7 @@ cuttlefish n. smokkfiskur, kolkrabbi
 cutty l. stuttur í spuna
 cycle n. hringur; öld, tímabil; flokkur (af kvæðum eða sögum um sama efni); reiðhjól, hjólhestur; s. hjóla
 cyclist n. hjólfari, hjólríðari, hjólari
-cyclone n. hvirfilvindur
+cyclone n. hvirfilvindur, fellibylur
 cyclopedia n. sjá %[encyclopedia]%
 cyclopaedia n. sjá %[encyclopedia]%
 cyclopean l. stórkostlegur, tröllslegur

@@ -717,7 +717,7 @@ flourish s. dafna, blómstra, blómgast, standa með (miklum) blóma; gorta; kro
 flout s. hæða, spotta, gera gys að ([~ at]); n. háð, spott, gabb
 flow s. fljóta, renna; falla að (um sjó, [ebb and ~]); leiða af e-u ([from]); láta flæða (renna) yfir; [the measure ~s over] það rennur út úr málinu; n. flóð, aðfall; straumur, rennsli; gnótt; hljóðfall, hrynjandi
 flower n. blóm, blómstur; blómi; [in the ~ of one's age] í blóma aldurs síns; s. blómgast; vera í blóma sínum; skreyta með blómum; sauma blómstur í
-flowery l. blómskreyttur ([a ~ vale]); [flowery language] skrúðmælgi
+flowery l. blómskreyttur ([a ~ vale]); skrúð-; [flowery language] skrúðmælgi
 fluctuant l. bylgjóttur; óstöðugur ([~ mood])
 fluctuate s. ganga í bylgjum; vera á reiki; vera óráðinn; hækka og lækka (í verði)
 fluctuation n. bylgjugangur, óstöðugleiki, hvikulleiki
@@ -967,7 +967,7 @@ fortify s. víggirða; styrkja ([~ the body, ~ oneself])
 fortitude n. hugprýði, hugarþrek, sálarþrek
 fortnight n. 14 dagar, hálfur mánuður
 fortnightly l. sem kemur út fjórtánda hvern dag, hálfsmánaðar-; ao. einu sinni í hálfum mánuði
-fortress n. virki, kastali; s. víggirða
+fortress n. virki, kastali, vígi; s. víggirða
 fortuitous l. kominn undir tilviljun
 fortuitously ao. af tilviljun
 fortuitousness n. tilviljun
@@ -1027,7 +1027,7 @@ foxearth n. tóugreni
 fox hunter n. refaveiðari
 fox hunting n. refaveiðar
 foxtail n. tóuskott
-fox trap n. dýrabogi, refa-söx
+fox trap n. dýrabogi, refasöx
 foxy l. svipaður tóu; slægur; gulmórauður; súr (um vín)
 fraction n. brot (í reikningi)
 fractional l. brotinn (um tölur); brota-; [~ currency] smápeningar

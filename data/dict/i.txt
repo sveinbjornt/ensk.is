@@ -496,7 +496,7 @@ incivility n. ókurteisi
 inclemency n. óblíða (veðráttunnar); miskunnarleysi
 inclement l. óblíður ([~ climate]); ómiskunnarsamur
 inclinable l. hneigður (til e-s [to]), hlynntur, hliðhollur (e-m [to]); sem er hætt við e-u ([~ to stammer])
-inclination n. halli; tilhneiging, löngun (til e-s [to/for])
+inclination n. halli; tilhneiging; löngun (til e-s [to/for]), nenna
 incline s. hallast; hafa löngun til, hneigjast að ([to]); láta hallast; beygja, hneigja ([~ the head]); [~ one's ear to] ljá e-u eyra, hlusta á e-ð; [~ one to believe that] fá e-n til að ætla, að; n. halli, hallandi, brekka ([we rode up a steep ~])
 inclined l. hallur; hneigður, fús
 inclose s. sjá %[enclose]%
@@ -590,7 +590,7 @@ incriminate s. ákæra, ásaka
 incrust s. setja skorpu á
 incrustation n. hrúður
 incubate s. liggja á eggjum; inkúbera
-incubation n. álega (á eggjum); meðgöngutími sjúkdóms
+incubation n. álega (á eggjum); meðgöngutími sjúkdóms ([~ period])
 incubus n. mara, martröð, illur andi sem leitar á konur í svefni
 inculcate s. innræta ([on, upon]); brýna fyrir e-m
 inculpate s. ásaka, kenna um

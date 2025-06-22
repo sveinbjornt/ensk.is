@@ -1041,14 +1041,14 @@ retell s. endursegja
 retention n. afturhald; gæsla; minni; [~ of urine] þvagteppa
 retentive l. sem heldur föstu; [a ~ memory] gott minni
 reticence n. þagmælska, þögn
-reticent l. þagmælskur, fámálugur (um e-ð [about])
+reticent l. þagmælskur, orðfár, fámálugur (um e-ð [about])
 reticular l. netmyndaður; líkur neti
 reticulated l. netmyndaður; líkur neti
 reticule n. sauma- eða prjónapoki
-reticulum n. fagri keppur
+reticulum n. keppur, fagri keppur
 retina n. sjóna, sjónhimna, nethimna (á auganu)
 retiform l. netmyndaður
-retinue n. fylgd, föruneyti, sveit manna (með stórhöfðingja)
+retinue n. föruneyti, fylgdarlið, sveit manna (sem fylgir stórhöfðingja)
 retire s. hörfa undan; draga sig út (úr [from]); fara ([~ to a place]); ganga til hvílu ([~ to rest]); fara frá, fá lausn (frá embætti); fara burtu með (t.d. herlið); færa burtu; veita lausn úr embætti; leysa inn (víxil)
 retired l. sem hefur fengið lausn frá embætti; afvikinn, afskekktur; einmanalegur; rólegur
 retirement n. starfslok; burtför; lausn (frá embætti); einvera; afvikinn bústaður
@@ -1514,7 +1514,7 @@ runagate n. strokumaður
 runaway n. flóttamaður, strokumaður; l. [~ knock] ginningarbarsmíð (á dyr); [~ marriage] hjónaband eftir brottnám brúðarinnar
 rundle n. stigarim, stigahaft; pípuhólkur
 rune n. rúnastafur
-runic l. sem lýtur að rúnum; [a ~ monument] rúnasteinn
+runic l. rúna-, sem lýtur að rúnum; [a ~ monument] rúnasteinn; [~ letters] rúnaletur, rúnatákn
 runology n. rúnafræði
 rung n. röng (í skipi); stigarim ([a ~ of a ladder])
 runner n. hlaupari; meiður undir sleða ([~ of a sledge])

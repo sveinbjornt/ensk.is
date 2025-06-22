@@ -23,7 +23,7 @@ madly ao. æðislega, brjálæðislega
 madman n. óður, vitstola eða geðbilaður maður, vitfirringur
 madness n. geðbilun, geðveiki; æði, vitfirring, sturlun; mesta heimska; [this is madness!] þetta er sturlun!
 Madam n. frú (í ávarpi)
-madden s. gera óðan (vitstola), æra; ærast
+madden s. æra, gera óðan (vitstola); ærast
 madder n. maðra
 made l. vaxinn; [well ~] vel vaxinn; [stoutly ~] þrekvaxinn; [a ~ man] maður sem hefur komist vel áfram
 madonna n. mynd, líkneski af Maríu mey
@@ -180,11 +180,11 @@ manciple n. háskólabryti
 mandarin n. kínverskur embættismaður
 mandatary n. umboðsmaður, fulltrúi
 mandate n. skipun; umboð
-mandatory l. skipandi, skipunar-
-mandible n. (neðri) skoltur
+mandatory l. skipandi, skipunar-; umboðs-
+mandible n. (neðri) skoltur, kjálki
 mandolin n. mandólín (strengjahljóðfæri)
 mandrake n. alrúna (jurt)
-mandrill n. apategund
+mandrill n. mandríll (apategund)
 manducate s. tyggja
 mane n. fax, makki
 maned l. fextur, með faxi
@@ -196,15 +196,15 @@ mange n. kláði á dýrum
 manger n. jata
 mangle s. höggva í sundur; lemstra; skemma, spilla með höggum; afbaka (texta); kefla línvörur (slétta í keflivél); n. keflivél
 mango n. mangóávöxtur; mangótré
-mangy l. kláðugur
+mangy l. kláðugur; slitinn; sóðalegur; fyrirlitlegur
 manhood n. manndómur; fullorðinsaldur; karlmennska
 mania n. æði, manía; áköf löngun; sótt
-maniac l. óður, vitskertur; n. vitstola maður, vitfirringur
+maniac n. vitfirringur, vitstola maður; l. óður, vitskertur
 maniacal l. óður, æðislegur
 manicure n. hand- og naglasnyrting; s. snyrta hendur og neglur
 manicurist n. handa- og naglasnyrtir
 manifest l. áþreifanlegur, augljós; n. farmskrá ([shipping ~]); s. auglýsa, birta; sýna; votta, opinbera; sýna sig, birtast; gera vart við sig
-manifestation n. auglýsing, sýning; birting
+manifestation n. birting; auglýsing, sýning
 manifestly ao. augljóslega
 manifesto n. opinber yfirlýsing, stefnuskrá
 manifold l. margfaldur; margskonar, margvíslegur; s. margfalda ([~ copies of letters])
@@ -657,24 +657,24 @@ meslin n. sjá %[maslin]%
 mesmeric l. sem lýtur að segulafli dýra; [a ~ trance, ~ sleep] segulmagnaður svefn
 mesmerism n. dáleiðsla; segulafl dýra
 mesmerize s. dáleiða; svæfa með dýrasegulafli
-mess n. réttur, matur; skammtur; mötuneyti, borðfélag (foringja á skipi); hrærigrautur, ruglingur ([make a ~ of]); vandræði; bobbi ([get into a ~]); s. borða saman (um hermenn og sjómenn); rugla, koma e-u í glundroða; óhreinka; sulla (í vatni)
+mess n. réttur, matur; skammtur; mötuneyti, borðfélag (foringja á skipi); hrærigrautur, ruglingur, klúður ([make a ~ of things]); vandræði, bobbi ([get into a ~]); s. borða saman (um hermenn og sjómenn); rugla, koma e-u í glundroða; óhreinka; sulla (í vatni)
 messmate n. borðnautur, mötunautur
-message n. skilaboð, boðskapur, boð; orðsending; [run ~s, go on ~s for one] hlaupa erindi, fara í erindum fyrir e-n; s. senda skeyti um e-ð
+message n. skilaboð, boðskapur, boð; orðsending; [run ~s, go on ~s for one] hlaupa erindi, fara í erindum fyrir e-n; s. senda skeyti eða skilaboð
 messenger n. sendiboði
 Messiah n. Messías
 Messieurs nft. herrar; skammstafað [Messrs] (t.d. [Messrs Baring Brothers & Co])
 metage n. mæling (kola, korns); mælingargjald
-metal n. málmur; (fljótandi) gler; steinmylsna, sem höfð er í ofaníburð í veg; ft. teinar (á járnbraut); s. leggja málmþynnur utan á; bera grjótmulning ofan í (veg)
+metal n. málmur; (fljótandi) gler; steinmylsna, sem höfð er í ofaníburð í veg; hörð rokktónlist, metal-tónlist; nft. [~s] teinar (á járnbraut); s. leggja málmþynnur utan á; bera grjótmulning ofan í (veg)
 metallic l. málm-, úr málmi
 metalline l. málm-, úr málmi
 metallist n. málmfróður maður
-metallography n. málmalýsing, málmfræði
-metallurgy n. málmvinnsla; málmvinnslufræði
+metallography n. málmfræði
+metallurgy n. málmvinnsla; málmvinnslufræði, málmfræði
 metamorphose s. breyta í aðra mynd; skipta um ham
 metamorphosis n. hamskipti; myndbreyting; algjör breyting
-metaphor n. óeiginlegt orðatiltæki
-metaphoric l. líkingarfullur, óeiginlegur
-metaphorical l. líkingarfullur, óeiginlegur
+metaphor n. myndhverfing, myndhvörf; samlíking; óeiginlegt orðatiltæki
+metaphoric l. myndhverfingar-, myndhvarfa-; líkingarfullur, óeiginlegur
+metaphorical l. myndhverfingar-, myndhvarfa-; líkingarfullur, óeiginlegur
 metaphysical l. frumspekilegur, heimspekilegur, hugspekilegur, yfirskilvitlegur
 metaphysics nft. frumspeki, háspeki
 metathesis n. stafavíxlun ([~ of the final letters])
@@ -765,9 +765,9 @@ mileage n. mílnatal; mílugjald
 milestone n. mílusteinn; áfangi
 milfoil n. vallhumall
 miliary l. svipaður hirsikorni ([~ granule])
-militant l. sem berst, stríðandi; [the church ~] hin stríðandi kirkja
-militarism n. herveldisstefna; hermennska
-militarist n. herveldissinni
+militant l. sem berst, stríðandi; herskár, átakagjarn; n. bardagamaður; herskár maður; ófriðarseggur, óeirðaseggur
+militarism n. herveldisstefna, hernaðarstefna; hermennska
+militarist n. herveldissinni, hernaðarsinni
 military n. her; l. sem lýtur að hernaði, hernaðar-; hermanna-; [a ~ man] hermaður
 militate s. berjast (fyrir eða á móti e-u); vera í herþjónustu
 militia n. landvarnarlið
@@ -926,9 +926,9 @@ misdoing n. misgerð
 misemploy s. misbeita, misbrúka
 miser n. nirfill
 miserly l. nískur, nirfilslegur
-miserable l. vesæll, aumur, hörmulegur, vansæll; fyrirlitlegur
-miserably ao. aumlega
-misery n. bágindi, eymd, vesældómur; ógæfa
+miserable l. vesæll, vansæll, aumur; óhamingjusamur; hörmulegur; fyrirlitlegur
+miserably ao. aumlega, hörmulega
+misery n. bágindi, eymd, vesældómur; ógæfa; óhamingja
 miserere n. iðrunarsálmur (51. sálmur Davíðs)
 misesteem n. lítilsvirðing; s. dæma skakkt um e-ð
 misestimate s. meta skakkt
@@ -1052,14 +1052,14 @@ mode n. háttur ([~ of life]); tíska, venja
 model n. líkan, módel; fyrirmynd; eftirlíki, mót; fyrirsæta; s. mynda; laga (eftir e-u [on, upon, after]); vera fyrirsæta
 moderate l. stilltur, hófsamur; gætinn, varfærinn, hægfara (í pólitík); s. stilla, tempra, sefa, minnka; stýra fundi, vera fundarstjóri
 moderation n. temprun, stilling, hóf, gætni
-moderator n. sá sem stillir; fundarstjóri
-modern l. nútíðar-, nútíma-, nýtísku-; [the ~ languages] nýju málin; n. nútímamaður (mest í fleirtölu)
+moderator n. fundarstjóri, umræðustjóri; gerðarstjóri; milligöngustjóri, sá sem stillir (á milli aðila)
+modern l. nútíðar-, nútíma-, nýtísku-; nýaldar-; [the ~ languages] nýju málin; n. nútímamaður (yfirleitt í fleirtölu)
 modernism n. módernismi; nútímaeinkenni, nútímamállýska, nútímaandi, nútímakenning
 modernist n. módernisti; aðdáandi nýja tímans; nýtískumaður
-modernity n. nútími; nýtíska, nýtískuskoðanir; bragur
+modernity n. nútími; nýtíska, nýtískuskoðanir; nýöld; bragur
 modernize s. nútímavæða, laga eftir nýja tímanum
 modernly ao. á síðari (eða þessum) tímum
-modest l. hæverskur, siðprúður; lítill, smár ([a ~ sum])
+modest l. hógvær, hæverskur; siðprúður; lítill, smár ([a ~ sum])
 modesty n. hæverska, siðprýði
 modicum n. ögn; lítil upphæð
 modifiable l. sem hægt er að breyta eða laga
@@ -1502,9 +1502,9 @@ myrtiform l. líkur myrtu
 myrtle n. myrta (sígræn jurt)
 myself fn. (ég) sjálfur ([I saw it ~]); (sjálfan) mig ([I have hurt ~]); [the third is ~] sá þriðji er ég
 mysterious l. leyndardómsfullur, dularfullur
-mystery n. ráðgáta; leyndardómur, leyndarmál; dulúð; kirkjulegur sjónleikur; ft. [mysteries] dultrúarsiðir (hjá Grikkjum); [make a ~ of] halda e-u leyndu, fara leynt með e-ð
-mystic n. dultrúarmaður, dulspekingur; l. leyndardómsfullur, dulspekilegur; dulrænn; dularfullur
-mystical l. leyndardómsfullur, dulspekilegur; dulrænn; dularfullur
+mystery n. ráðgáta; leyndardómur, leyndarmál; dulúð; kirkjulegur sjónleikur; [make a ~ of] halda e-u leyndu, fara leynt með e-ð; nft. [mysteries] dultrúarsiðir (hjá Grikkjum)
+mystic n. dultrúarmaður, dulspekingur; l. leyndardómsfullur; dulspekilegur; dulrænn; dularfullur
+mystical l. leyndardómsfullur; dulspekilegur; dulrænn; dularfullur
 mysticism n. dultrú, dulspeki
 mystification n. gabb, blekking; gáta
 mystify s. gera e-ð óljóst eða dularfullt; gabba, villa e-m sjónir, leika á e-n

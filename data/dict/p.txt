@@ -359,9 +359,9 @@ pathetical l. aumkunarverður, brjóstumkennanlegur; viðkvæmur, hjartanlegur; 
 pathological l. sem lýtur að sjúkdómum eða sjúkdómafræði; sjúklegur
 pathology n. meinafræði, sjúkdómafræði
 pathos n. viðkvæmni; ákafi, hiti ([to speak with ~])
-patience n. þolinmæði, biðlund; langlundargeð; þolgæði; spilaþraut (fyrir einn); [I have no ~ with] get ekki fellt mig við
-patient l. þolinmóður; n. sjúklingur
-patiently ao. þolinmóðlega, með þolinmæði
+patience n. þolinmæði, biðlund, langlundargeð; þolgæði; spilaþraut (fyrir einn)
+patient l. þolinmóður, langlundaður; n. sjúklingur
+patiently ao. með þolinmæði, af þolinmæði, þolinmóðlega
 patness n. hentugleiki; sbr. %[pat]%
 patriarch n. ættfaðir; yfirbiskup (í grísku kirkjunni)
 patriarchal l. ættföðurlegur; yfirbiskuplegur
@@ -821,7 +821,7 @@ phaeton n. fjórhjólaður léttivagn
 phalanx n. fylking, breiðfylking; kjúka
 phalarope n. óðinshani
 phantasm n. draugur, vofa; hugarburður, heilaspuni; svipur; sýn
-phantom n. sýn; svipur, vofa, fyrirburður
+phantom n. sýn; vofa, draugur; fyrirburður
 pharisaical l. hræsnisfullur
 pharisaism n. kenning Farísea; hræsni, yfirdrepskapur
 Pharisee n. Farísei; hræsnari
@@ -1223,9 +1223,9 @@ plethoric l. blóðmikill; troðfullur ([pockets ~ with])
 pleurisy n. brjósthimnubólga
 pleuritis n. brjósthimnubólga
 pliability n. beygjanleiki; eftirlátsemi
-pliable l. beygjanlegur; auðráður, leiðitamur
-pliancy n. beygjanleiki; eftirlátsemi
-pliant l. beygjanlegur; auðráður, leiðitamur
+pliable l. beygjanlegur, sveigjanlegur; auðráður, leiðitamur, þægur
+pliancy n. beygjanleiki, sveigjanleiki; eftirlátsemi
+pliant l. beygjanlegur, sveigjanlegur; auðráður, leiðitamur, þægur; áhrifagjarn
 plication n. felling
 plight s. leggja í veð; heita, lofa; [~ one's faith] heita trúnaði sínum; n. ástand ([a woeful ~])
 plod s. þramma yfir; strita, vinna baki brotnu; n. strit
@@ -2056,7 +2056,7 @@ profess s. lýsa yfir; kannast við; játa (trú); segja; segjast ([~ oneself]);
 professed l. viðurkenndur, alkunnur
 professedly ao. sem kunnugt er; í orði kveðnu
 profession n. starf, staða, embætti, atvinna ([carpenter by ~, the military ~]); yfirlýsing; játning
-professional l. fagmannlegur, atvinnumannslegur; embættislegur; [~ man] maður sem er í faglærðri stöðu (læknir, lögfræðingur, o.s.fv.); maður sem gerir e-a list eða íþrótt að ævistarfi sem atvinnu (andstæðan við [amateur])
+professional l. fagmannlegur, atvinnumannslegur; embættislegur; [~ man] maður sem er í faglærðri stöðu (læknir, lögfræðingur, o.s.frv.); maður sem gerir e-a list eða íþrótt að ævistarfi sem atvinnu (andstæðan við %[amateur]%)
 professor n. prófessor; kennari (einkum við háskóla); játandi
 professorial l. kennara-, prófessora-; [the ~ chair] háskólakennaraembætti
 professorship n. kennaraembætti (við háskóla eða æðri skóla)
