@@ -59,7 +59,8 @@ app = FastAPI(
 )
 
 # Static files
-app.mount("/static", StaticFiles(directory="static"), name="static")
+STATIC_DIR = "static"
+app.mount(f"/{STATIC_DIR}", StaticFiles(directory=STATIC_DIR), name=STATIC_DIR)
 
 
 # Create a middleware class to set custom headers
@@ -79,7 +80,7 @@ class AddCustomHeaderMiddleware(BaseHTTPMiddleware):
     async def dispatch(self, request: Request, call_next):
         response = await call_next(request)
 
-        if request.url.path.startswith("/static/"):
+        if request.url.path.startswith(f"/{STATIC_DIR}/"):
             response.headers["Cache-Control"] = "public, max-age=86400"
         else:
             response.headers["Content-Language"] = "is, en"
@@ -131,17 +132,15 @@ MCP_OPERATIONS = [
     "lookup_many_words_parsed",
 ]
 
-
+# Creatae and mount the MCP server for the FastAPI app
 mcp = FastApiMCP(
     app,
-    name="Ensk.is",  # Name for your MCP server
-    description="English-Icelandic dictionary MCP server",  # Description
+    name=PROJECT.NAME,  # Name for your MCP server
+    description=f"{PROJECT.DESCRIPTION_SHORT_EN} MCP server",  # Description
     # describe_all_responses=True,  # Include all possible response schemas
     describe_full_response_schema=True,  # Include full JSON schema in descriptions
     include_operations=MCP_OPERATIONS,
 )
-
-# Mount the MCP server to your FastAPI app
 mcp.mount()
 
 

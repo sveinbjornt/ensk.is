@@ -43,6 +43,8 @@ class PROJECT(StrEnum):
     NAME = "Ensk.is"
     DESCRIPTION = "Opin og frjáls ensk-íslensk orðabók"
     DESCRIPTION_EN = "Free and open English-Icelandic dictionary"
+    DESCRIPTION_SHORT = "Ensk-íslensk orðabók"
+    DESCRIPTION_SHORT_EN = "English-Icelandic dictionary"
     VERSION = "1.0"
     LICENSE = "Public domain"
     EDITOR = "Sveinbjörn Þórðarson"

@@ -1,4 +1,5 @@
 """
+Ensk.is
 Web routes
 """
 
@@ -6,6 +7,7 @@ from typing import Optional
 from datetime import datetime
 import re
 import aiofiles
+import aiofiles.os
 
 from fastapi import APIRouter, Request, HTTPException
 from fastapi.responses import Response, RedirectResponse
@@ -16,19 +18,30 @@ from .core import (
     err_resp,
     KNOWN_MISSING_WORDS,
     num_entries,
-    num_additions,
-    additions,
     all_words,
-    nonascii,
-    num_nonascii,
-    multiword,
-    num_multiword,
+    original_entries,
+    num_original_entries,
+    additional_entries,
+    num_additional_entries,
+    nonascii_entries,
+    num_nonascii_entries,
+    multiword_entries,
+    num_multiword_entries,
+    capitalized_entries,
+    num_capitalized_entries,
+    duplicate_entries,
+    num_duplicate_entries,
+    # no_uk_ipa_entries,
+    num_no_uk_ipa_entries,
+    # no_us_ipa_entries,
+    num_no_us_ipa_entries,
+    # no_page_entries,
+    num_no_page_entries,
     metadata,
     CAT2ENTRIES,
     CAT_TO_NAME,
     SEARCH_CACHE_SIZE,
     SMALL_CACHE_SIZE,
-    edb,
 )
 from info import PROJECT
 from dict import unpack_definition, linked_synonyms_for_word
@@ -57,6 +70,27 @@ async def index(request: Request) -> Response:
     )
 
 
+MISSING_WORD_MAXLEN = 100
+MISSING_WORDS_FILE = "missing_words.txt"
+MISSING_WORDS_MAX_SIZE = 1_000_000  # 1 MB limit
+
+
+async def _save_missing_word(word: str) -> None:
+    """Save word to missing words list."""
+    try:
+        size = await aiofiles.os.path.getsize(MISSING_WORDS_FILE)
+        if size > MISSING_WORDS_MAX_SIZE:  # 1 MB limit
+            return
+    except FileNotFoundError:
+        pass  # File doesn't exist yet, that's OK
+
+    try:
+        async with aiofiles.open(MISSING_WORDS_FILE, "a+") as file:
+            await file.write(f"{word[:MISSING_WORD_MAXLEN]}\n")  # 100 char limit
+    except Exception:
+        pass  # Fail silently if we can't write
+
+
 @cache_response(SEARCH_CACHE_SIZE)
 @router.get("/search", include_in_schema=False)
 async def search(request: Request, q: Optional[str] = "") -> Response:
@@ -70,15 +104,11 @@ async def search(request: Request, q: Optional[str] = "") -> Response:
     if q:
         results, exact = cached_results(q)
 
-        async def _save_missing_word(word: str) -> None:
-            """Save word to missing words list."""
-            async with aiofiles.open("missing_words.txt", "a+") as file:
-                await file.write(f"{word}\n")
-
+        # If a search word might be missing, log it to a file but
+        # only if it is a single word and not a known missing word
         if not exact or not results:
             if re.match(r"^[a-zA-Z]+$", q) and q.lower() not in KNOWN_MISSING_WORDS:
-                w = q[:100]
-                await _save_missing_word(w)
+                await _save_missing_word(q)
 
         title = f'„{q}" - {PROJECT.NAME}'
     else:
@@ -216,10 +246,12 @@ async def about(request: Request) -> Response:
             "request": request,
             "title": f"Um - {PROJECT.NAME}",
             "num_entries": num_entries,
-            "num_additions": num_additions,
+            "num_additions": num_additional_entries,
             "entries_singular": sing_or_plur(num_entries),
-            "additions_singular": sing_or_plur(num_additions),
-            "additions_percentage": perc(num_additions, num_entries, icelandic=True),
+            "additions_singular": sing_or_plur(num_additional_entries),
+            "additions_percentage": perc(
+                num_additional_entries, num_entries, icelandic=True
+            ),
         },
     )
 
@@ -234,7 +266,7 @@ async def zoega(request: Request) -> Response:
         {
             "request": request,
             "title": f"Orðabók Geirs T. Zoëga - {PROJECT.NAME}",
-            "num_additions": num_additions,
+            "num_additions": num_additional_entries,
         },
     )
 
@@ -258,10 +290,10 @@ async def english(request: Request) -> Response:
             "request": request,
             "title": f"{PROJECT.NAME} - {PROJECT.DESCRIPTION_EN}",
             "num_entries": num_entries,
-            "num_additions": num_additions,
+            "num_additions": num_additional_entries,
             "entries_singular": num_entries,
-            "additions_singular": num_additions,
-            "additions_percentage": perc(num_additions, num_entries),
+            "additions_singular": num_additional_entries,
+            "additions_percentage": perc(num_additional_entries, num_entries),
         },
     )
 
@@ -305,14 +337,13 @@ async def cat(request: Request, category: str) -> Response:
 @cache_response
 async def capitalized(request: Request) -> Response:
     """Page with links to all words that are capitalized."""
-    capitalized = [e["word"] for e in edb.read_all_capitalized()]
     return TemplateResponse(
         "capitalized.html",
         {
             "request": request,
             "title": f"Hástafir - {PROJECT.NAME}",
-            "num_capitalized": len(capitalized),
-            "capitalized": capitalized,
+            "num_capitalized": num_capitalized_entries,
+            "capitalized": capitalized_entries,
         },
     )
 
@@ -322,14 +353,13 @@ async def capitalized(request: Request) -> Response:
 @cache_response
 async def original(request: Request) -> Response:
     """Page with links to all words that are original."""
-    original = [e["word"] for e in edb.read_all_original()]
     return TemplateResponse(
         "original.html",
         {
             "request": request,
             "title": f"Upprunaleg orð - {PROJECT.NAME}",
-            "num_original": len(original),
-            "original": original,
+            "num_original": num_original_entries,
+            "original": original_entries,
         },
     )
 
@@ -344,8 +374,8 @@ async def nonascii_route(request: Request) -> Response:
         {
             "request": request,
             "title": f"Ekki ASCII - {PROJECT.NAME}",
-            "num_nonascii": len(nonascii),
-            "nonascii": nonascii,
+            "num_nonascii": num_nonascii_entries,
+            "nonascii": nonascii_entries,
         },
     )
 
@@ -360,8 +390,8 @@ async def multiword_route(request: Request) -> Response:
         {
             "request": request,
             "title": f"Fleiri en eitt orð - {PROJECT.NAME}",
-            "num_multiword": num_multiword,
-            "multiword": multiword,
+            "num_multiword": num_multiword_entries,
+            "multiword": multiword_entries,
         },
     )
 
@@ -371,14 +401,13 @@ async def multiword_route(request: Request) -> Response:
 @cache_response
 async def duplicates(request: Request) -> Response:
     """Page with links to all words that are duplicates."""
-    duplicates = [e["word"] for e in edb.read_all_duplicates()]
     return TemplateResponse(
         "duplicates.html",
         {
             "request": request,
             "title": f"Samstæður - {PROJECT.NAME}",
-            "num_duplicates": len(duplicates),
-            "duplicates": duplicates,
+            "num_duplicates": num_duplicate_entries,
+            "duplicates": duplicate_entries,
         },
     )
 
@@ -393,9 +422,9 @@ async def additions_page(request: Request) -> Response:
         {
             "request": request,
             "title": f"Viðbætur - {PROJECT.NAME}",
-            "additions": additions,
-            "num_additions": num_additions,
-            "additions_percentage": perc(num_additions, num_entries),
+            "additions": additional_entries,
+            "num_additions": num_additional_entries,
+            "additions_percentage": perc(num_additional_entries, num_entries),
         },
     )
 
@@ -405,13 +434,6 @@ async def additions_page(request: Request) -> Response:
 @cache_response
 async def stats(request: Request) -> Response:
     """Page with statistics on dictionary entries."""
-
-    no_uk_ipa = len(edb.read_all_without_ipa(lang="uk"))
-    no_us_ipa = len(edb.read_all_without_ipa(lang="us"))
-    no_page = len(edb.read_all_with_no_page())
-    num_capitalized = len(edb.read_all_capitalized())
-    num_duplicates = len(edb.read_all_duplicates())
-    num_multiword = len(edb.read_all_with_multiple_words())
 
     wordstats = {}
     for c in CAT2ENTRIES:
@@ -426,24 +448,24 @@ async def stats(request: Request) -> Response:
             "request": request,
             "title": f"Tölfræði - {PROJECT.NAME}",
             "num_entries": num_entries,
-            "num_additions": num_additions,
-            "perc_additions": perc(num_additions, num_entries),
-            "num_original": num_entries - num_additions,
-            "perc_original": perc(num_entries - num_additions, num_entries),
-            "no_uk_ipa": no_uk_ipa,
-            "no_us_ipa": no_us_ipa,
-            "perc_no_uk_ipa": perc(no_uk_ipa, num_entries),
-            "perc_no_us_ipa": perc(no_us_ipa, num_entries),
-            "no_page": no_page,
-            "perc_no_page": perc(no_page, num_entries),
-            "num_capitalized": num_capitalized,
-            "perc_capitalized": perc(num_capitalized, num_entries),
-            "num_nonascii": num_nonascii,
-            "perc_nonascii": perc(num_nonascii, num_entries),
-            "num_multiword": num_multiword,
-            "perc_multiword": perc(num_multiword, num_entries),
-            "num_duplicates": num_duplicates,
-            "perc_duplicates": perc(num_duplicates, num_entries),
+            "num_additions": num_additional_entries,
+            "perc_additions": perc(num_additional_entries, num_entries),
+            "num_original": num_entries - num_additional_entries,
+            "perc_original": perc(num_entries - num_additional_entries, num_entries),
+            "no_uk_ipa": num_no_uk_ipa_entries,
+            "no_us_ipa": num_no_us_ipa_entries,
+            "perc_no_uk_ipa": perc(num_no_uk_ipa_entries, num_entries),
+            "perc_no_us_ipa": perc(num_no_us_ipa_entries, num_entries),
+            "no_page": num_no_page_entries,
+            "perc_no_page": perc(num_no_page_entries, num_entries),
+            "num_capitalized": num_capitalized_entries,
+            "perc_capitalized": perc(num_capitalized_entries, num_entries),
+            "num_nonascii": num_nonascii_entries,
+            "perc_nonascii": perc(num_nonascii_entries, num_entries),
+            "num_multiword": num_multiword_entries,
+            "perc_multiword": perc(num_multiword_entries, num_entries),
+            "num_duplicates": num_duplicate_entries,
+            "perc_duplicates": perc(num_duplicate_entries, num_entries),
             "wordstats": wordstats,
         },
     )

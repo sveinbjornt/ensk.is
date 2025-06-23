@@ -1,9 +1,11 @@
 """
-Core utilities and shared data for routes.
+Ensk.is
+Core utilities and shared data for routes
 """
 
 from typing import Any
 from functools import lru_cache
+import re
 
 from fastapi.responses import JSONResponse as FastAPIJSONResponse
 from fastapi.templating import Jinja2Templates
@@ -35,22 +37,40 @@ edb = EnskDatabase(read_only=True)
 # Read everything we want from the database into memory
 entries = edb.read_all_entries()
 num_entries = len(entries)
+
 all_words = [e["word"] for e in entries]
-additions = [a["word"] for a in edb.read_all_additions()]
-num_additions = len(additions)
-nonascii = [e["word"] for e in entries if not is_ascii(e["word"])]
-num_nonascii = len(nonascii)
-multiword = [e["word"] for e in entries if " " in e["word"]]
-num_multiword = len(multiword)
+
+original_entries = [e["word"] for e in edb.read_all_original()]
+num_original_entries = len(original_entries)
+
+additional_entries = [a["word"] for a in edb.read_all_additions()]
+num_additional_entries = len(additional_entries)
+
+nonascii_entries = [e["word"] for e in entries if not is_ascii(e["word"])]
+num_nonascii_entries = len(nonascii_entries)
+
+multiword_entries = [e["word"] for e in edb.read_all_with_multiple_words()]
+num_multiword_entries = len(multiword_entries)
+
+capitalized_entries = [e["word"] for e in edb.read_all_capitalized()]
+num_capitalized_entries = len(capitalized_entries)
+
+duplicate_entries = [e["word"] for e in edb.read_all_duplicates()]
+num_duplicate_entries = len(duplicate_entries)
+
+no_uk_ipa_entries = [e["word"] for e in edb.read_all_without_ipa(lang="uk")]
+num_no_uk_ipa_entries = len(no_uk_ipa_entries)
+
+no_us_ipa_entries = [e["word"] for e in edb.read_all_without_ipa(lang="us")]
+num_no_us_ipa_entries = len(no_us_ipa_entries)
+
+no_page_entries = [e["word"] for e in edb.read_all_with_no_page()]
+num_no_page_entries = len(no_page_entries)
+
 metadata = edb.read_metadata()
 
-CATEGORIES = read_wordlist("data/catwords.txt")
-KNOWN_MISSING_WORDS = read_wordlist("missing.txt")
-
-SEARCH_CACHE_SIZE = 1000  # pages
-SMALL_CACHE_SIZE = 100  # pages
-
 # Get all entries in each category and store in dict
+CATEGORIES = read_wordlist("data/catwords.txt")
 CAT2ENTRIES = {}
 for c in CATEGORIES:
     cs = c.rstrip(".")
@@ -73,10 +93,22 @@ CAT_TO_NAME = {
     "sks.": "skammstöfun",
 }
 
+SEARCH_CACHE_SIZE = 1000  # pages
+SMALL_CACHE_SIZE = 100  # pages
+
+KNOWN_MISSING_WORDS = read_wordlist("missing.txt")
+
+# Clear the database reference to free memory
+# It will not be needed after this point
+edb = None
+
 
 def err_resp(msg: str) -> JSONResponse:
     """Return JSON error message."""
     return JSONResponse(content={"error": True, "errmsg": msg})
+
+
+LINK_FORMAT_REGEX = re.compile(r"%\[(.+?)\]%")
 
 
 def _format_item(item: dict[str, Any]) -> dict[str, Any]:
@@ -88,10 +120,7 @@ def _format_item(item: dict[str, Any]) -> dict[str, Any]:
     x = x.replace("~", w)
 
     # Replace %[word]% with link to intra-dictionary entry
-    import re
-
-    rx = re.compile(r"%\[(.+?)\]%")
-    x = rx.sub(
+    x = LINK_FORMAT_REGEX.sub(
         rf"<strong><em><a href='{PROJECT.BASE_URL}/item/\1'>\1</a></em></strong>", x
     )
 
@@ -139,17 +168,14 @@ def _results(q: str, exact_match: bool = False) -> tuple[list, bool]:
     ql = q.lower()
     for k in entries:
         kl = k["word"].lower()
-        if (exact_match and ql == kl) or (
-            not exact_match and ql.lower() in k["word"].lower()
-        ):
+        if (exact_match and ql == kl) or (not exact_match and ql in kl):
             item = _format_item(k)
             lw = item["word"].lower()
-            lq = q.lower()
-            if lw == lq:
+            if lw == ql:
                 equal.append(item)
-            elif lw.startswith(lq):
+            elif lw.startswith(ql):
                 swith.append(item)
-            elif lw.endswith(lq):
+            elif lw.endswith(ql):
                 ewith.append(item)
             else:
                 other.append(item)

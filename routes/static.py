@@ -7,6 +7,7 @@ from fastapi.responses import RedirectResponse, FileResponse
 
 from util import cache_response
 
+
 router = APIRouter()
 
 

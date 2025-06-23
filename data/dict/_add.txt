@@ -5920,6 +5920,7 @@ argyria n. silfursverting; silfureitrun
 saturnism n. blýeitrun
 deadliness n. banvæni
 tête-à-tête l. augliti til auglitis (úr frönsku)
+tete-a-tete l. augliti til auglitis (úr frönsku, réttilega skrifað %[tête-à-tête]%)
 tempo n. taktur; hraði
 carbonated l. kolsýrður
 fervor n. sjá %[fervour]%
@@ -8395,3 +8396,5 @@ mass medium n. fjölmiðill (sá %[medium]%)
 mass media nft. fjölmiðlar (sá %[medium]%)
 information technology n. upplýsingatækni
 tranquillize s. sjá %[tranquilize]%
+locked l. læstur
+percussionist n. slagverksleikari
