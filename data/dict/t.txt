@@ -1349,7 +1349,8 @@ turgid l. bólginn, þrútinn; uppbelgdur; íburðarmikill
 turgidness n. bólga; íburður (í rithætti)
 turgidity n. bólga; íburður (í rithætti)
 Turk n. Tyrki
-Turkey n. Tyrkland; [turkey] kalkúnn (fugl)
+Turkey n. Tyrkland
+turkey n. kalkúnn (fugl)
 turkey-cock n. kalkúnahani
 Turkey stone n. heinbrýni
 Turkish l. tyrkneskur

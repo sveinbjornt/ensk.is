@@ -235,7 +235,7 @@ park n. umgirt land til veiða eða annara skemmtana; dýragarður; skemmtigarð
 parlance n. tal; talmál; [in common ~] í vanalegu máli; [in legal ~] í lagamáli; [without further ~] án frekara umtals
 parley s. semja (við e-n [with]); n. samtal; málfundur (við óvini); samningsleitun; [desire a ~] æskja samningsfundar (við óvini)
 parliament n. þing
-parliamentarism n. þingræðisstjórn
+parliamentarism n. þingræðisstjórn, þingræði
 parliamentary l. þinglegur; samkvæmur þingsköpum; þingræðislegur
 parlour n. dagstofa (nú [sitting room]); gestastofa í veitingahúsi
 parlour-maid n. stúlka, sem gengur um beina
@@ -1939,7 +1939,7 @@ primary l. fyrstur; helstur; upprunalegur, frumlegur, frum-; ([the ~ meaning of 
 primate n. prímati, fremdardýr; erkibiskup; [Primate of all England] erkibiskupinn í Kantaraborg
 prime l. fyrstur, helstur; ógætur frábær; [~ cost] innkaupsverð; [~ number] frumtala; [~ minister] forsætisráðherra; n. blómi (broddur) lífsins ([be in the ~ of life]); prímtala, frumtala; fyrsti hluti dags eða árs; morgun; vor; besti hluti; [~ of the moon] nýtt tungl, ný; s. draga undirlit á (léreft undir mólverk); leggja kveikjupúður á; [he is priming himself] hann er að drekka í sig áræði
 primer n. stafrófskver; námsbók handa byrjendum; hvellhetta
-primeval l. upprunalegur; [~ forest] frumskógur
+primeval l. upprunalegur; frumsögulegur; [~ forest] frumskógur
 priming n. kveikjupúður; undirlitur; skilyrðing
 primitive l. frumstæður, upphaflegur, frumlegur, frum-; n. frumorð
 primitiveness n. frumleiki

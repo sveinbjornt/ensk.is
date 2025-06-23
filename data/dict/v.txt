@@ -458,9 +458,9 @@ voluptuous l. lostasamur, nautnasamur; lokkandi; munuðlífur
 voluptuousness n. lostasemi, nautnasemi
 volute n. flúr (á súluhöfði)
 vomit s. æla, gubba, kasta upp, selja upp; n. æla, gubb, uppsala, spýja
-vomiting n. uppsala; spýja
-vomitive l. uppsölu-; n. uppsölulyf
-vomitory l. uppsölu-; n. uppsölulyf
+vomiting n. gubb, uppsala, spýja
+vomitive l. uppsölu-, gubbunar-, gubb-; n. uppsölulyf
+vomitory l. uppsölu-, gubbunar-, gubb-; n. uppsölulyf
 vomiturition n. uppsölutilraunir
 voracious l. gráðugur; óseðjandi
 voraciousness n. græðgi; óseðjanleiki

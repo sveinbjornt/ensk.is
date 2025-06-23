@@ -1461,8 +1461,8 @@ anti-Semitism n. gyðingahatur, fordómar í garð gyðinga
 antisemitism n. gyðingahatur, fordómar í garð gyðinga
 anti-Semite n. gyðingahatari
 antisemite n. gyðingahatari
-anti-Semitic l. gyðingahatandi, fjandsamlegur gyðingum
-antisemitic l. gyðingahatandi, fjandsamlegur gyðingum
+anti-Semitic l. gyðingahatandi, gegn gyðingum fjandsamlegur gyðingum
+antisemitic l. gyðingahatandi, gegn gyðingum, fjandsamlegur gyðingum
 anti-inflammatory l. bólgueyðandi
 anti-aircraft l. gegn flugvélum eða loftförum, loftvarna-; [~ system] loftvarnakerfi; [~ gun] loftvarnabyssa
 anticlockwise l. rangsælis; ao. rangsælis
@@ -3094,7 +3094,8 @@ oceanographical l. haffræðilegur
 oceanographically ao. haffræðilega
 calfskin n. kálfskinn, kálfsskinn
 takeover n. yfirtaka; valdataka
-multinational l. fjölþjóðlegur; n. fjölþjóðlegt fyrirtæki
+multinational l. fjölþjóðlegur, fjölþjóða-; n. fjölþjóðlegt fyrirtæki
+multi-national l. sjá %[multinational]%
 smartwatch n. snjallúr
 grandparent n. afaforeldri (þ.e. afi eða amma); [his ~s] afi hans og amma/afar hans og ömmur
 backyard n. bakgarður
@@ -6565,6 +6566,7 @@ vertebrae nft. hryggjarliðir (sjá %[vertebra]%)
 catamite n. ungur drengur í kynferðislegu sambandi við eldri mann
 Ulysses n. Ódysseifur
 Sardinia n. Sardinía (eyja í Miðjarðarhafi)
+Sardinian l. sardinískur; Sardiníubúi, Sardiníumaður; sardiníska
 illustrator n. myndskreytir, teiknari
 Beowulf n. Bjólfskviða (fornenskt miðaldakvæði); Bjólfur
 spermatogonia nft. sáðstofnfrumur (sjá %[spermatogonia]%)
@@ -8348,5 +8350,47 @@ barkeep n. sjá %[barkeeper]%
 abacá n. manillahampur; bananajurt
 flight attendant n. flugþjónn
 flight plan n. flugáætlun
-archon n. arkon, ráðamaður í Aþenu til forna; ráðamaður, stjórnari
+archon n. arkon (ráðamaður í Aþenu til forna); ráðamaður
 Zulu n. Súlúi, Súlúmaður; súlúska
+stark-naked l. allsnakinn, kviknakinn
+Saturn n. Satúrnus (reikistjarna, rómverskur guð landbúnaðar)
+abessive n. fjarverufall (málfræðilegt fall); l. fjarverufalls-
+adessive n. nærverufall (málfræðilegt fall); l. nærverufalls-
+inessive n. íverufall (málfræðilegt fall); l. íverufalls-
+illative n. íferðarfall (málfræðilegt fall); l. íferðarfalls-
+copperplate n. koparstunga, koparstunguprent ([~ engraving, printing])
+dullish l. dauflegur
+metazoa n. vefdýr, fjölfrumungar
+thulium n. túlín (frumefni)
+gallium n. gallín (frumefni)
+lanthanum n. lantan, lantanum (frumefni)
+neodymium n. neódým (frumefni)
+neon n. neon (frumefni)
+xenon n. senón (frumefni)
+yttrium n. yttrín (frumefni)
+krypton n. krypton (frumefni)
+meitnerium n. meitnerín (frumefni)
+beryllium n. beryllín, beryllíum (frumefni)
+promethium n. prómetín (frumefni)
+protactinium n. protaktín (frumefni)
+radon n. radon (frumefni)
+golfer n. kylfingur, golfspilari (sjá %[golf]%)
+killdeer n. skræklóa (fugl)
+waxwing n. silkitoppa (fugl)
+lovebird n. ástarfugl; nft. [lovebirds] elskendur, turtildúfur, kærustupar
+turtledove n. turtildúfa
+cotyledon n. kímblað
+saxifrage n. steinbrjótur (jurt)
+telephonically ao. símleiðis, í gegnum talsíma
+backpain n. bakverkur
+cortege n. sjá %[cortège]%
+cortège n. fylgdarlið; líkfylgd
+forbiddance n. bann; forboð
+hepatica n. skógarblámi (jurt)
+lazybones n. letingi, letiblóð (óforml.)
+melatonin n. melatónín (hormón)
+pocketwatch n. vasaúr
+primaeval l. sjá %[primeval]%
+mass medium n. fjölmiðill (sá %[medium]%)
+mass media nft. fjölmiðlar (sá %[medium]%)
+information technology n. upplýsingatækni

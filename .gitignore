@@ -97,3 +97,5 @@ static/files/ensk.is.stardict*
 *.pdf
 wip/*
 macos/Dictionary Development Kit/
+prompts
+tools
