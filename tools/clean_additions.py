@@ -5,6 +5,17 @@
 # lets us discover which words present in the original
 # dictionary lack a page number due to changes.
 
+# ruff: noqa E402
+
+import os
+import sys
+import inspect
+
+currentdir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))  # type: ignore
+parentdir = os.path.dirname(currentdir)
+sys.path.insert(0, parentdir)
+
+
 from dict import read_raw_pages, parse_line
 from db import EnskDatabase
 

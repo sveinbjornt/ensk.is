@@ -22,12 +22,13 @@ from .core import (
     nonascii,
     num_nonascii,
     multiword,
+    num_multiword,
     metadata,
     CAT2ENTRIES,
     CAT_TO_NAME,
     SEARCH_CACHE_SIZE,
     SMALL_CACHE_SIZE,
-    e,
+    edb,
 )
 from info import PROJECT
 from dict import unpack_definition, linked_synonyms_for_word
@@ -45,7 +46,7 @@ router = APIRouter()
 @router.get("/", include_in_schema=False)
 @router.head("/", include_in_schema=False)
 @cache_response
-async def index(request: Request):
+async def index(request: Request) -> Response:
     """Index page"""
     return TemplateResponse(
         "index.html",
@@ -58,7 +59,7 @@ async def index(request: Request):
 
 @cache_response(SEARCH_CACHE_SIZE)
 @router.get("/search", include_in_schema=False)
-async def search(request: Request, q: Optional[str] = ""):
+async def search(request: Request, q: Optional[str] = "") -> Response:
     """Return page with search results for query."""
 
     q = q.strip() if q else q
@@ -99,7 +100,7 @@ async def search(request: Request, q: Optional[str] = ""):
 @cache_response(SEARCH_CACHE_SIZE)
 @router.get("/item/{w}", include_in_schema=False)
 @router.head("/item/{w}", include_in_schema=False)
-async def item(request: Request, w: str):
+async def item(request: Request, w: str) -> Response:
     """Return page for a single dictionary word definition."""
 
     results, _ = cached_results(w, exact_match=True)
@@ -131,7 +132,7 @@ async def item(request: Request, w: str):
 @cache_response(SMALL_CACHE_SIZE)
 @router.get("/page/{n}", include_in_schema=False)
 @router.head("/page/{n}", include_in_schema=False)
-async def page(request: Request, n: str):
+async def page(request: Request, n: str) -> Response:
     """Return page for a single dictionary page image."""
     try:
         page_num = int(n)
@@ -156,7 +157,7 @@ async def page(request: Request, n: str):
 @router.get("/files", include_in_schema=False)
 @router.head("/files", include_in_schema=False)
 @cache_response
-async def files(request: Request):
+async def files(request: Request) -> Response:
     """Page containing download links to data files."""
 
     sqlite_size = icelandic_human_size(
@@ -207,7 +208,7 @@ async def files(request: Request):
 @router.get("/about", include_in_schema=False)
 @router.head("/about", include_in_schema=False)
 @cache_response
-async def about(request: Request):
+async def about(request: Request) -> Response:
     """About page."""
     return TemplateResponse(
         "about.html",
@@ -226,7 +227,7 @@ async def about(request: Request):
 @router.get("/zoega", include_in_schema=False)
 @router.head("/zoega", include_in_schema=False)
 @cache_response
-async def zoega(request: Request):
+async def zoega(request: Request) -> Response:
     """Page with details about the Zoega dictionary."""
     return TemplateResponse(
         "zoega.html",
@@ -241,7 +242,7 @@ async def zoega(request: Request):
 @router.get("/english", include_in_schema=False)
 @router.head("/english", include_in_schema=False)
 @cache_response
-async def english_redirect(request: Request):
+async def english_redirect(request: Request) -> Response:
     """Redirect to /english_icelandic_dictionary."""
     return RedirectResponse(url="/english_icelandic_dictionary", status_code=301)
 
@@ -249,7 +250,7 @@ async def english_redirect(request: Request):
 @router.get("/english_icelandic_dictionary", include_in_schema=False)
 @router.head("/english_icelandic_dictionary", include_in_schema=False)
 @cache_response
-async def english(request: Request):
+async def english(request: Request) -> Response:
     """English page."""
     return TemplateResponse(
         "english.html",
@@ -268,7 +269,7 @@ async def english(request: Request):
 @router.get("/all", include_in_schema=False)
 @router.head("/all", include_in_schema=False)
 @cache_response
-async def all(request: Request):
+async def all(request: Request) -> Response:
     """Page with links to all entries."""
     return TemplateResponse(
         "all.html",
@@ -284,7 +285,7 @@ async def all(request: Request):
 @cache_response(SMALL_CACHE_SIZE)
 @router.get("/cat/{category}", include_in_schema=False)
 @router.head("/cat/{category}", include_in_schema=False)
-async def cat(request: Request, category: str):
+async def cat(request: Request, category: str) -> Response:
     """Page with links to all entries in the given category."""
     entries = CAT2ENTRIES.get(category, [])
     words = [e["word"] for e in entries]
@@ -302,9 +303,9 @@ async def cat(request: Request, category: str):
 @router.get("/capitalized", include_in_schema=False)
 @router.head("/capitalized", include_in_schema=False)
 @cache_response
-async def capitalized(request: Request):
+async def capitalized(request: Request) -> Response:
     """Page with links to all words that are capitalized."""
-    capitalized = [e["word"] for e in e.read_all_capitalized()]
+    capitalized = [e["word"] for e in edb.read_all_capitalized()]
     return TemplateResponse(
         "capitalized.html",
         {
@@ -319,9 +320,9 @@ async def capitalized(request: Request):
 @router.get("/original", include_in_schema=False)
 @router.head("/original", include_in_schema=False)
 @cache_response
-async def original(request: Request):
+async def original(request: Request) -> Response:
     """Page with links to all words that are original."""
-    original = [e["word"] for e in e.read_all_original()]
+    original = [e["word"] for e in edb.read_all_original()]
     return TemplateResponse(
         "original.html",
         {
@@ -336,7 +337,7 @@ async def original(request: Request):
 @router.get("/nonascii", include_in_schema=False)
 @router.head("/nonascii", include_in_schema=False)
 @cache_response
-async def nonascii_route(request: Request):
+async def nonascii_route(request: Request) -> Response:
     """Page with links to all words that contain non-ASCII characters."""
     return TemplateResponse(
         "nonascii.html",
@@ -352,14 +353,14 @@ async def nonascii_route(request: Request):
 @router.get("/multiword", include_in_schema=False)
 @router.head("/multiword", include_in_schema=False)
 @cache_response
-async def multiword_route(request: Request):
+async def multiword_route(request: Request) -> Response:
     """Page with links to all entries with more than one word."""
     return TemplateResponse(
         "multiword.html",
         {
             "request": request,
             "title": f"Fleiri en eitt orð - {PROJECT.NAME}",
-            "num_multiword": len(multiword),
+            "num_multiword": num_multiword,
             "multiword": multiword,
         },
     )
@@ -368,9 +369,9 @@ async def multiword_route(request: Request):
 @router.get("/duplicates", include_in_schema=False)
 @router.head("/duplicates", include_in_schema=False)
 @cache_response
-async def duplicates(request: Request):
+async def duplicates(request: Request) -> Response:
     """Page with links to all words that are duplicates."""
-    duplicates = [e["word"] for e in e.read_all_duplicates()]
+    duplicates = [e["word"] for e in edb.read_all_duplicates()]
     return TemplateResponse(
         "duplicates.html",
         {
@@ -385,7 +386,7 @@ async def duplicates(request: Request):
 @router.get("/additions", include_in_schema=False)
 @router.head("/additions", include_in_schema=False)
 @cache_response
-async def additions_page(request: Request):
+async def additions_page(request: Request) -> Response:
     """Page with links to all words that are additions to the original dictionary."""
     return TemplateResponse(
         "additions.html",
@@ -402,15 +403,15 @@ async def additions_page(request: Request):
 @router.get("/stats", include_in_schema=False)
 @router.head("/stats", include_in_schema=False)
 @cache_response
-async def stats(request: Request):
+async def stats(request: Request) -> Response:
     """Page with statistics on dictionary entries."""
 
-    no_uk_ipa = len(e.read_all_without_ipa(lang="uk"))
-    no_us_ipa = len(e.read_all_without_ipa(lang="us"))
-    no_page = len(e.read_all_with_no_page())
-    num_capitalized = len(e.read_all_capitalized())
-    num_duplicates = len(e.read_all_duplicates())
-    num_multiword = len(e.read_all_with_multiple_words())
+    no_uk_ipa = len(edb.read_all_without_ipa(lang="uk"))
+    no_us_ipa = len(edb.read_all_without_ipa(lang="us"))
+    no_page = len(edb.read_all_with_no_page())
+    num_capitalized = len(edb.read_all_capitalized())
+    num_duplicates = len(edb.read_all_duplicates())
+    num_multiword = len(edb.read_all_with_multiple_words())
 
     wordstats = {}
     for c in CAT2ENTRIES:
@@ -457,10 +458,3 @@ async def sitemap(request: Request) -> Response:
         {"request": request, "words": all_words},
         media_type="application/xml",
     )
-
-
-@router.get("/robots.txt", include_in_schema=False)
-@router.head("/robots.txt", include_in_schema=False)
-@cache_response
-async def robots(request: Request) -> Response:
-    return TemplateResponse("robots.txt", {"request": request}, media_type="text/plain")

@@ -1,5 +1,5 @@
 """
-API routes for the Ensk.is dictionary.
+API routes
 """
 
 from fastapi import APIRouter, Request

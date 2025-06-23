@@ -6,7 +6,17 @@
 # TODO: Work directly on epubs instead of text files
 #
 
+# ruff: noqa E402
+
 import re
+import os
+import sys
+import inspect
+
+currentdir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))  # type: ignore
+parentdir = os.path.dirname(currentdir)
+sys.path.insert(0, parentdir)
+
 
 from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize

@@ -1,5 +1,5 @@
 """
-Routes module for the Ensk.is dictionary.
+Routes module
 """
 
 from .web import router as web_router

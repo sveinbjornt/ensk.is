@@ -1,7 +1,16 @@
 #!/usr/bin/env python3
 
+# ruff: noqa E402
+
 import time
 import random
+import os
+import sys
+import inspect
+
+currentdir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))  # type: ignore
+parentdir = os.path.dirname(currentdir)
+sys.path.insert(0, parentdir)
 
 import httpx
 

@@ -98,4 +98,6 @@ static/files/ensk.is.stardict*
 wip/*
 macos/Dictionary Development Kit/
 prompts
-tools
+tools/*.txt
+tools/*.csv
+tools/*.json

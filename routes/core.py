@@ -30,31 +30,31 @@ templates = Jinja2Templates(directory="templates")
 TemplateResponse = templates.TemplateResponse
 
 # Initialize database singleton
-e = EnskDatabase(read_only=True)
+edb = EnskDatabase(read_only=True)
 
 # Read everything we want from the database into memory
-entries = e.read_all_entries()
+entries = edb.read_all_entries()
 num_entries = len(entries)
 all_words = [e["word"] for e in entries]
-additions = [a["word"] for a in e.read_all_additions()]
+additions = [a["word"] for a in edb.read_all_additions()]
 num_additions = len(additions)
 nonascii = [e["word"] for e in entries if not is_ascii(e["word"])]
 num_nonascii = len(nonascii)
 multiword = [e["word"] for e in entries if " " in e["word"]]
 num_multiword = len(multiword)
-metadata = e.read_metadata()
+metadata = edb.read_metadata()
 
 CATEGORIES = read_wordlist("data/catwords.txt")
 KNOWN_MISSING_WORDS = read_wordlist("missing.txt")
 
-SEARCH_CACHE_SIZE = 10000  # pages
-SMALL_CACHE_SIZE = 1000  # pages
+SEARCH_CACHE_SIZE = 1000  # pages
+SMALL_CACHE_SIZE = 100  # pages
 
 # Get all entries in each category and store in dict
 CAT2ENTRIES = {}
 for c in CATEGORIES:
     cs = c.rstrip(".")
-    CAT2ENTRIES[cs] = e.read_all_in_wordcat(cs)
+    CAT2ENTRIES[cs] = edb.read_all_in_wordcat(cs)
 
 # To JSON configuration file?
 CAT_TO_NAME = {

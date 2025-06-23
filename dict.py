@@ -47,6 +47,9 @@ from util import read_wordlist
 CATEGORIES = read_wordlist("data/catwords.txt")
 
 
+TXT_SUFFIX = ".txt"
+
+
 def read_raw_pages(fn: str | None = None) -> dict[str, list]:
     """Read all text files in the data/dict directory,
     return as an alphabetically indexed dict of lines."""
@@ -60,7 +63,7 @@ def read_raw_pages(fn: str | None = None) -> dict[str, list]:
         fp = os.path.join(base_path, file)
         if not os.path.isfile(fp):
             continue
-        if not file.endswith(".txt"):
+        if not file.endswith(TXT_SUFFIX):
             continue
 
         with open(fp, "r") as f:
@@ -72,7 +75,7 @@ def read_raw_pages(fn: str | None = None) -> dict[str, list]:
             lns = ln.strip()
             if not lns or lns.startswith("#"):
                 continue
-            keyname = file[:-4]
+            keyname = file[: -len(TXT_SUFFIX)]
             result[keyname].append(ln)
 
     return result
@@ -96,7 +99,7 @@ def read_all_words() -> list[str]:
     r = read_pages()
     words = []
     for line in r:
-        w, d = parse_line(line)
+        w, _ = parse_line(line)
         words.append(w)
     words.sort(key=lambda x: x.lower())
     return words
