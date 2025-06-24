@@ -42,8 +42,12 @@ for e in no_ipa:
     if " " in e or e in SKIP or not is_ascii(e):
         continue
 
+    script_path = os.path.join(
+        os.path.dirname(os.path.abspath(__file__)), "ipa-cambridge.rb"
+    )
+
     try:
-        out = subprocess.check_output(["ruby", "ipa-cambridge.rb", e])
+        out = subprocess.check_output(["ruby", script_path, e])
         out = out.decode().strip()
     except Exception:
         continue

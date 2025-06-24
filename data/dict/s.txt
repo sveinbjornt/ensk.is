@@ -1112,7 +1112,7 @@ silly l. heimskur, aulalegur
 silo n. súrheysgryfja
 silt n. leðja; s. fylla með leðju ([~ up]); fyllast leðju
 silty l. leðjukenndur
-silver n. silfur; borðbúnaður; l. úr silfri; silfurlitaður; s. silfra ([~ over]); leggja gljáblað undir spegilgler
+silver n. silfur (frumefnið Ag, 47 í lotukerfinu); borðbúnaður; l. úr silfri; silfurlitaður; s. silfra ([~ over]); leggja gljáblað undir spegilgler
 silver cup n. silfurbikar
 silver mine n. silfurnáma
 silver plate n. silfraðir munir
@@ -2778,7 +2778,7 @@ sullage n. óhreinindi, sorp
 sullen l. ólundarfullur, önugur; óheillavænlegur; dimmur
 sullenness n. önugleiki, ólund
 sully s. óhreinka, ata; svívirða, flekka; n. óhreinindi; flekkur
-sulphur n. brennisteinn
+sulphur n. brennisteinn (frumefnið S, 16 í lotukerfinu, sjá einnig %[sulfur]%)
 sulphurate s. hleypa brennisteinsgufu á e-ð, reykja e-ð með brennisteini
 sulphureous l. brennisteinskenndur, brennisteinsborinn, brennisteins-
 sulphuric l. brennisteins-

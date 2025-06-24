@@ -88,7 +88,7 @@ palinode n. bragarbót
 palisade n. staur; stauragirðing; s. girða með stauragarði, umgirða
 palish l. fölleitur
 pall n. viðhafnarkápa páfa og erkibiskupa; líkkistuklæði; s. verða bragðdaufur; dofna; deyfa ([~ the senses]); ofmetta, gera leiðan, þreyta ([~ the stomach, ~ readers]); hylja með svörtu klæði
-palladium n. palladín, palladíum (frumefni); líkneski gyðjunnar Pallas; hlífiskjöldur
+palladium n. palladín, palladíum (frumefnið Pd, 46 í lotukerfinu); líkneski gyðjunnar Pallas; hlífiskjöldur
 pallet n. vörubretti, hleðslubretti, flutningsbretti, palletta; rúmflet
 palliate s. hylja; fegra, afsaka; lina (sjúkdóm)
 palliation n. fegrun; afsökun; ([in ~ of his evil deeds]); linun, fróun
@@ -238,7 +238,7 @@ parliament n. þing
 parliamentarism n. þingræðisstjórn, þingræði
 parliamentary l. þinglegur; samkvæmur þingsköpum; þingræðislegur
 parlour n. dagstofa (nú [sitting room]); gestastofa í veitingahúsi
-parlour-maid n. stúlka, sem gengur um beina
+parlour-maid n. stúlka sem gengur um beina
 parochial l. sóknar-, sóknarlegur; sveitar-; [~ register] kirkjubók; [~ relief] sveitarstyrkur
 parodist n. skopstælingamaður
 parody n. háðsleg eftirstæling kvæðis eða annars rits; s. yrkja upp alvarlegt kvæði, svo að það verði hlægilegt; stæla
@@ -883,7 +883,7 @@ phosphoresce s. glóa, skína eins og fosfór
 phosphorescence n. maurildi
 phosphorescent l. skínandi eins og maurildi
 phosphoric l. fosfórskynjaður
-phosphorus n. fosfór (frumefni, sem lýsir af)
+phosphorus n. fosfór (frumefnið P, 15 í lotukerfinu)
 photo n. ljósmynd (stytt. á %[photograph]%)
 photograph n. ljósmynd; s. taka ljósmynd af e-u; [I always ~ badly] ég tekst ætíð illa á mynd
 photographer n. ljósmyndari
@@ -1162,8 +1162,8 @@ plate-rack n. diskagrind
 plater n. silfrari
 platform n. pallur; ræðupallur; grundvallarstefna í þjóðmálum, stefnuskrá ([political ~])
 plating n. silfrun, gylling; málmhimna, málmþynna
-platina n. platína, hvítagull
-platinum n. platína, hvítagull
+platina n. platína, hvítagull (frumefnið Pt, 78 í lotukerfinu)
+platinum n. platína, hvítagull (frumefnið Pt, 78 í lotukerfinu)
 platitude n. grunnhyggnisleg athugasemd
 platitudinous l. bragðlaus; daufur, grunnhyggnislegur
 Platonic l. platonskur (eftir heimspekingnum Platon); [~ love] andleg (fýsnarlaus) ást

@@ -23,7 +23,7 @@ dinosaur n. risaeðla
 neurodegeneration n. taugahrörnun
 neurodegenerative l. taugahrörnunar-; [~ disorder] taugahrörnunarsjúkdómur
 bathroom n. baðherbergi
-calcium n. kalk
+calcium n. kalk (frumefnið Ca, 20 í lotukerfinu)
 biotechnology n. líftækni
 biotech n. líftækni (stytt. á %[biotechnology]%)
 complicated l. flókinn
@@ -127,7 +127,7 @@ recycle s. endurvinna, endurnýta
 recycled l. endurunninn, endurnýttur
 ringtone n. hringitónn
 sunglasses nft. sólgleraugu, skyggð gleraugu
-titanium n. títan, títaníum (málmur, frumefnið [Ti])
+titanium n. títan, títaníum (málmur, frumefnið Ti, 22 í lotukerfinu)
 tsunami n. skjálftaflóðbylgja, flóðbylgja
 vibrator n. titrari (kynlífsleikfang)
 workplace n. vinnustaður
@@ -372,8 +372,8 @@ smiley l. glaðlyndur; brosandi; n. broskarl (tákn)
 spam n. ruslpóstur; unnin kjötvara í niðursuðudósum; s. senda ruslpóst
 spammer n. sendandi ruslpósts
 nerd n. nörd, njörður; sérvitringur
-nerdy l. nördalegur; sérvitur; lúðalegur
-nerdish l. nördalegur; sérvitur; lúðalegur
+nerdy l. nördalegur, njarðarlegur; sérvitur; lúðalegur
+nerdish l. nördalegur, njarðarlegur; sérvitur; lúðalegur
 crossword n. krossgáta
 diesel n. dísill, dísilolía
 internship n. starfsnám, starfsþjálfun
@@ -589,8 +589,8 @@ disturbed l. truflaður, ónáðaður; raskaður
 immunology n. ónæmisfræði
 immunologist n. ónæmisfræðingur
 immunological l. ónæmisfræðilegur, ónæmisfræði-
-aluminium n. ál
-aluminum n. ál (BNA)
+aluminium n. ál (frumefnið Al. 13 í lotukerfinu)
+aluminum n. ál (frumefnið Al. 13 í lotukerfinu)
 hardwood n. harðviður; gegnheill viður; l. harðviðar-
 vanilla n. vanilla; l. vanillu-
 orgasm n. fullnæging
@@ -1019,33 +1019,12 @@ seneschal n. ráðsmaður sem sér um eignir aðalsmanns (á miðöldum)
 awesome l. ægiþrunginn, ógnarlegur; æðislegur, magnaður, undursamlegur; uh. frábært! magnað!
 consortium n. samtök, hópur (fjárfesta); auðhringur
 memorabilia nft. minjagripir, minnisgripir, minningagripir, hlutir sem minna eiganda á fyrri upplifanir
-lithium n. litíum, litín, liþín (frumefni)
-helium n. helíum (frumefni)
-fluorine n. flúor (frumefni)
-sodium n. natríum (frumefni)
-silicon n. kísill, sílikon (frumefni)
-sulfur n. brennisteinn (frumefni); sjá einnig %[sulphur]%
-potassium n. kalíum (frumefni)
-chromium n. króm (frumefni)
-bromine n. bróm (frumefni)
-cadmium n. kadmín, kadmíum (frumefni)
-barium n. barín, baríum (frumefni)
-tungsten n. volfram, wolfram (frumefni)
-thallium n. þallín, þallíum (frumefni)
-bismuth n. bismút (frumefni)
-polonium n. pólon (frumefni)
-thorium n. þórín (frumefni)
-uranium n. úran (frumefni)
-osmium n. osmín, osmíum (frumefni)
-plutonium n. plúton, plútóníum (frumefni)
-europium n. evrópín, evrópíum (frumefni)
-californium n. kalifornín, kaliforníum (frumefni)
-manganese n. mangan (frumefni)
-vanadium n. vanadín, vanadíum (frumefni)
-strontium n. strontín, strontíum (frumefni)
-cesium n. sesín, sesíum (frumefni)
-bohrium n. bórín (frumefni)
-boron n. bór
+fluorine n. flúor (frumefnið F, 9 í lotukerfinu)
+sulfur n. brennisteinn (frumefnið S, 16 í lotukerfinu, sjá einnig %[sulphur]%)
+potassium n. kalíum (frumefnið K, 19 í lotukerfinu)
+uranium n. úran (frumefnið U, 92 í lotukerfinu)
+vanadium n. vanadín, vanadíum (frumefnið V, 23 í lotukerfinu)
+boron n. bór (frumefnið B, 5 í lotukerfinu)
 Buddhism n. búddismi (austurlensk trúarbrögð)
 Buddhist n. búddisti (sjá %[Buddhism]%); l. búddista-
 Copt n. Kopti (kristinn Egypti)
@@ -1173,7 +1152,6 @@ skeptical l. sjá %[sceptical]%
 skepticism n. sjá %[scepticism]%
 facticity n. sá eiginleiki að vera staðreynd (sjá %[fact]%)
 halogen n. hópur frumefna, þ.e. flúor, klór, bróm, joð og astat
-astatine n. astat (frumefni)
 DNA n. deoxýríbósakjarnsýra, þ.e. erfðaefni, erfðavísir (sks. á [deoxyribonucleic acid])
 PC n. einkatölva (sks. á [personal computer]); pólitískur rétttrúnaður (sks. á %[political correctness]%)
 deontology n. skyldufræði, skyldusiðfræði (í heimspeki)
@@ -2487,13 +2465,18 @@ nationalist n. þjóðernissinni, þjóðernishyggjusinni, þjóðernishyggjuma�
 nationalistic l. þjóðernislegur, þjóðernishyggjulegur, þjóðernisstefnulegur
 multinationalism n. fjölþjóðahyggja
 gunfire n. skothríð
+haemophilia n. dreyrasýki
+haemophiliac n. dreyrasjúklingur
+haemophilic l. dreyrasýkis-; blóðfíkinn
 hemophilia n. dreyrasýki
+hemophiliac n. dreyrasjúklingur
+hemophilic l. dreyrasýkis-; blóðfíkinn
 autocratism n. einvaldsstefna, einveldisstefna
 transoceanic l. þvert yfir úthaf
 counterintelligence n. gagnnjósnir
 merger n. samruni, sameining; [corporate ~] samruni fyrirtækja
 downloadable l. niðurhalanlegur, sækjanlegur (yfir netið)
-stepdad n. stjúpfaðir (óforml.); sjá %[stepfather]%
+stepdad n. stjúpfaðir (óforml., sjá %[stepfather]%)
 objectify s. hlutgera
 objectified l. hlutgerður
 objectification n. hlutgerving
@@ -3175,8 +3158,8 @@ swampland n. mýrlendi
 apolitical l. ópólitískur
 microgram n. míkrógramm (0,000001 gramm)
 ferociousness n. grimmd, grimmúð, grimmýðgi
-iridium n. iridín (frumefni)
-rhodium n. ródín, ródíum (frumefni)
+iridium n. iridín (frumefnið Ir, 77 í lotukerfinu)
+rhodium n. ródín, ródíum (frumefnið Rh, 45 í lotukerfinu)
 physique n. vaxtarlag, holdafar, líkamsbygging
 ratfish n. geirnyt, hámús
 tarasque n. e.k. evrópskur dreki, goðsagnavera
@@ -3829,7 +3812,7 @@ astrodynamic l. geimbrautafræðilegur, geimbrauta-
 hellhound n. vítishundur, heljarhundur
 aneurysm n. slagæðargúlpur
 metrology n. mælitækni
-antimony n. antímon
+antimony n. antímon (frumefnið Sb, 51 í lotukerfinu)
 chiropodist n. fótaaðgerðafræðingur
 podiatrist n. fótaaðgerðafræðingur
 luminescence n. ljóm, ljómun
@@ -4161,7 +4144,6 @@ internment n. fangelsun
 reeducation n. endurmenntun
 aftershock n. eftirskjálfti
 workload n. vinnuálag
-nerdish l. narðarlegur, nördalegur
 bourgeois l. borgarastéttarlegur, borgarastéttar-; [petit ~] smáborgaralegur, smáborgara-
 bourgeoisie n. borgarastéttin, miðstéttin; [petit ~] smáborgarastéttin
 sedation n. hugarró, róun
@@ -5738,7 +5720,7 @@ ataxia n. hreyfiglöp
 paraplegic n. þverlami (manneskja sem er lömuð á neðri útlimum); l. þverlömunar-, lamaður á neðri útlimum
 hairpin n. hárnál, hárpinni; kröpp beygja
 zoological garden n. dýragarður
-stepmom n. stjúpmóðir, stjúpa; sjá %[stepmother]%
+stepmom n. stjúpmóðir, stjúpa (óforml., sjá %[stepmother]%)
 disinformation n. rangar, villandi eða misvísandi upplýsingar; útbreiðsla misvísandi upplýsinga; falsfréttir
 fake news nft. falsfréttir
 Kremlin n. Kreml (borgarvirki í Moskvu sem er bústaður forseta Rússlands); rússnesk stjórnvöld; sovésk stjórnvöld
@@ -6295,6 +6277,7 @@ livestream s. senda í beinni útsendingu; n. bein útsending
 livestreaming n. bein útsending
 substantially ao. verulega; ábyggilega (sjá %[substantial]%)
 tokenize s. tóka; brjóta niður, flokka eða aðskilja í stök tákn (tóka)
+tokenizer n. tókari, tilreiðari (sjá %[tokenize]%)
 motherfucker n. móðurserðir, móðurriðill, mannfjandi, drulludeli, mannskratti, drullusokkur, mannfýla, skíthæll (óforml.)
 standardise s. sjá %[standardize]%
 standardization n. stöðlun
@@ -7186,7 +7169,7 @@ charabanc n. farþegavagn; strætisvagn
 valedictorian n. dúx, sá sem útskrifast með hæstu einkunn; ræðuhaldari við útskrift úr skóla
 osteoarchaeology n. undirgrein fornleifafræði sem fæst við bein
 neighbourliness n. nágrannaskapur, nágrannavinsemi
-resource-poor l. fátækur í auðlindum, með lítið af auðlindum
+resource-poor l. fátækur í auðlindum, með lítið af auðlindum, auðlindasnauður
 shogun n. sjógun (japanskur herstjóri)
 shogunate n. sjógunaveldi (sjá %[shogun]%)
 infrastructure n. innviðir; grunnstoðir; undirbygging
@@ -7401,7 +7384,7 @@ grammatician n. málfræðingur
 lethally ao. á banvænan hátt
 conveniently ao. hentuglega, þægilega
 protohistoric l. frumsögulegur, frumsagnfræðilegur
-Samaritan n. Samverji; [the Good Samaritan] miskunnsami Samverjinn, manneskja sem hjálpar ókunnugum
+Samaritan n. Samverji; [the Good Samaritan] miskunnsami Samverjinn (úr Biblíunni); manneskja sem hjálpar ókunnugum
 dysarthria n. tormæli, þvoglumæli, framsagnartregða
 bronchus n. berkja, lungnapípa
 hermaphroditic l. tvítólaður, með kynfæri beggja kynja; tvíkynja
@@ -7711,8 +7694,8 @@ ghettoblaster n. stór ferðaspilari
 knowledgeable l. fróður, vel að sér, vel upplýstur (um [about])
 macabre l. hryllilegur; dauða-
 post-apocalyptic l. eftir heimsenda, eftir heimsslit (sjá %[apocalypse]%)
-hafnium n. hafnín (málmur)
-zirconium n. sirkon (málmur)
+hafnium n. hafnín (málmur, frumefnið Hf, 72 í lotukerfinu)
+zirconium n. sirkon (málmur, frumefnið Zr, 40 í lotukerfinu)
 defragment s. endurraða (gögnum á hörðum disk)
 prebiotic l. forlífs-, forlífrænn, sem kemur á undan lífi
 commando n. lítil hersveit, sérsveit (sem sérhæfir sig í leifturárásum); n. sérsveitarmaður
@@ -7821,7 +7804,6 @@ billboard n. auglýsingaskilti
 technobabble n. tæknibull, tækniblaður
 coriander n. kóríander, kóríandrajurt, kínversk steinselja
 catnap n. hænublundur
-actinium n. aktín (frumefni)
 aftershave n. rakspíri
 aftertaste n. eftirbragð
 alliterate s. stuðla
@@ -7862,29 +7844,8 @@ gravlax n. graflax
 endoscope n. holspegill, holsjá
 ennui n. lífsleiði, óyndi
 cicely n. spánarkerfill
-curium n. kúrín (frumefni)
-cerium n. serín (frumefni)
-argon n. argon (frumefni)
-caesium n. sesín (frumefni)
-fermium n. fermín (frumefni)
-einsteinium n. einsteinín (frumefni)
-copernicium n. kópernikín (frumefni)
-hassium n. hassín (frumefni)
-holmium n. holmín (frumefni)
-indium n. indín (frumefni)
-neptunium n. neptún, neptúnín (frumefni)
-niobium n. níóbín (frumefni)
-nobelium n. nóbelín (frumefni)
-ruthenium n. rúten (frumefni)
-scandium n. skandín (frumefni)
-tellurium n. tellúr (frumefni)
-terbium n. terbín (frumefni)
-americium n. ameríkín, ameríkíum (frumefni)
-germanium n. german (frumefni)
-rubidium n. rúbidín (frumefni)
-berkelium n. berkelín (frumefni)
-darmstadtium n. darmstatín (frumefni)
-francium n. fransín
+copernicium n. kópernikín (frumefnið Cn, 112 í lotukerfinu)
+francium n. fransín (frumefnið Fr, 87 í lotukerfinu)
 antimatter n. andefni
 antiparticle n. andeind
 hubcap n. hjólkoppur
@@ -8240,15 +8201,6 @@ haphazardness n. handahóf, tilviljun
 goldcrest n. glókollur (fugl)
 nauseating l. klígjandi, velgjandi, ógleðisvaldandi; ógeðslegur, viðbjóðslegur
 witching n. nornafár, fjölkynngi
-tantalum n. tantal (frumefni)
-technetium n. teknetín (frumefni)
-selenium n. selen, seleníum (frumefni)
-seaborgium n. seborgín, seaborgín (frumefni)
-rhenium n. renín (frumefni)
-mendelevium n. mendelefín (frumefni)
-lutetium n. lútesín (frumefni)
-gadolinium n. gadólín (frumefni)
-dubnium n. dubnín (frumefni)
 thiazide n. þíasíð
 radicle n. kímrót
 pterygium n. glæruvængur
@@ -8361,20 +8313,8 @@ inessive n. íverufall (málfræðilegt fall); l. íverufalls-
 illative n. íferðarfall (málfræðilegt fall); l. íferðarfalls-
 copperplate n. koparstunga, koparstunguprent ([~ engraving, printing])
 dullish l. dauflegur
-metazoa n. vefdýr, fjölfrumungar
-thulium n. túlín (frumefni)
-gallium n. gallín (frumefni)
-lanthanum n. lantan, lantanum (frumefni)
-neodymium n. neódým (frumefni)
-neon n. neon (frumefni)
-xenon n. senón (frumefni)
-yttrium n. yttrín (frumefni)
-krypton n. krypton (frumefni)
-meitnerium n. meitnerín (frumefni)
-beryllium n. beryllín, beryllíum (frumefni)
-promethium n. prómetín (frumefni)
-protactinium n. protaktín (frumefni)
-radon n. radon (frumefni)
+metazoa nft. vefdýr, fjölfrumungar
+yttrium n. yttrín (frumefnið Y, 39 í lotukerfinu)
 golfer n. kylfingur, golfspilari (sjá %[golf]%)
 killdeer n. skræklóa (fugl)
 waxwing n. silkitoppa (fugl)
@@ -8404,3 +8344,102 @@ boney l. sjá %[bony]%
 visualise s. sjá %[visualize]%
 sympathise s. sjá %[sympathize]%
 utilisation n. sjá %[utilization]%
+accent mark n. áherslumerki, broddur (í bókstöfum)
+likable l. sjá %[likeable]%
+disfavor n. sjá %[disfavour]%
+marvelous l. sjá %%[marvellous]
+lutecium n. sjá %[lutetium]%
+protoactinium n. sjá %[protactinium]%
+wolfram n. volfram (sjá %[tungsten]%)
+hahnium n. sjá %[dubnium]%
+iodin n. sjá %[iodine]%
+actinium n. aktín (frumefnið Ac, 89 í lotukerfinu)
+americium n. ameríkín, ameríkíum (frumefnið Am, 95 í lotukerfinu)
+argon n. argon (frumefnið Ar, 18 í lotukerfinu)
+astatine n. astat (frumefnið At, 85 í lotukerfinu)
+barium n. barín, baríum (frumefnið Ba, 56 í lotukerfinu)
+berkelium n. berkelín (frumefnið Bk, 97 í lotukerfinu)
+beryllium n. beryllín, beryllíum (frumefnið Be, 4 í lotukerfinu)
+bismuth n. bismút (frumefnið Bi, 83 í lotukerfinu)
+bohrium n. bórín (frumefnið Bh, 107 í lotukerfinu)
+bromine n. bróm (frumefnið Br, 35 í lotukerfinu)
+cadmium n. kadmín, kadmíum (frumefnið Cd, 48 í lotukerfinu)
+caesium n. sesín (frumefnið Cs, 55 í lotukerfinu)
+californium n. kalifornín, kaliforníum (frumefnið Cf, 98 í lotukerfinu)
+cerium n. serín (frumefnið Ce, 58 í lotukerfinu)
+cesium n. sesín, sesíum (frumefnið Cs, 55 í lotukerfinu)
+chromium n. króm (frumefnið Cr, 24 í lotukerfinu)
+curium n. kúrín (frumefnið Cm, 96 í lotukerfinu)
+darmstadtium n. darmstatín (frumefnið Ds, 110 í lotukerfinu)
+dubnium n. dubnín (frumefnið Db, 105 í lotukerfinu)
+einsteinium n. einsteinín (frumefnið Es, 99 í lotukerfinu)
+europium n. evrópín, evrópíum (frumefnið Eu, 63 í lotukerfinu)
+fermium n. fermín (frumefnið Fm, 100 í lotukerfinu)
+gadolinium n. gadólín (frumefnið Gd, 64 í lotukerfinu)
+gallium n. gallín (frumefnið Ga, 31 í lotukerfinu)
+germanium n. german (frumefnið Ge, 32 í lotukerfinu)
+hassium n. hassín (frumefnið Hs, 108 í lotukerfinu)
+helium n. helíum (frumefnið He, 2 í lotukerfinu)
+holmium n. holmín (frumefnið Ho, 67 í lotukerfinu)
+indium n. indín (frumefnið In, 49 í lotukerfinu)
+krypton n. krypton (frumefnið Kr, 36 í lotukerfinu)
+lanthanum n. lantan, lantanum (frumefnið La, 57 í lotukerfinu)
+lithium n. litíum, litín, liþín (frumefnið Li, 3 í lotukerfinu)
+lutetium n. lútesín (frumefnið Lu, 71 í lotukerfinu)
+manganese n. mangan (frumefnið Mn, 25 í lotukerfinu)
+meitnerium n. meitnerín (frumefnið Mt, 109 í lotukerfinu)
+mendelevium n. mendelefín (frumefnið Md, 101 í lotukerfinu)
+neodymium n. neódým (frumefnið Nd, 60 í lotukerfinu)
+neon n. neon (frumefnið Ne, 10 í lotukerfinu)
+neptunium n. neptún, neptúnín (frumefnið Np, 93 í lotukerfinu)
+niobium n. níóbín (frumefnið Nb, 41 í lotukerfinu)
+nobelium n. nóbelín (frumefnið No, 102 í lotukerfinu)
+osmium n. osmín, osmíum (frumefnið Os, 76 í lotukerfinu)
+plutonium n. plúton, plútóníum (frumefnið Pu, 94 í lotukerfinu)
+polonium n. pólon (frumefnið Po, 84 í lotukerfinu)
+promethium n. prómetín (frumefnið Pm, 61 í lotukerfinu)
+protactinium n. protaktín (frumefnið Pa, 91 í lotukerfinu)
+radon n. radon (frumefnið Rn, 86 í lotukerfinu)
+rhenium n. renín (frumefnið Re, 75 í lotukerfinu)
+rhodium n. ródín, ródíum (frumefnið Rh, 45 í lotukerfinu)
+rubidium n. rúbidín (frumefnið Rb, 37 í lotukerfinu)
+ruthenium n. rúten (frumefnið Ru, 44 í lotukerfinu)
+scandium n. skandín (frumefnið Sc, 21 í lotukerfinu)
+seaborgium n. seborgín, seaborgín (frumefnið Sg, 106 í lotukerfinu)
+selenium n. selen, seleníum (frumefnið Se, 34 í lotukerfinu)
+silicon n. kísill, sílikon (frumefnið Si, 14 í lotukerfinu)
+sodium n. natríum (frumefnið Na, 11 í lotukerfinu)
+strontium n. strontín, strontíum (frumefnið Sr, 38 í lotukerfinu)
+tantalum n. tantal (frumefnið Ta, 73 í lotukerfinu)
+technetium n. teknetín (frumefnið Tc, 43 í lotukerfinu)
+tellurium n. tellúr (frumefnið Te, 52 í lotukerfinu)
+terbium n. terbín (frumefnið Tb, 65 í lotukerfinu)
+thallium n. þallín, þallíum (frumefnið Tl, 81 í lotukerfinu)
+thorium n. þórín (frumefnið Th, 90 í lotukerfinu)
+thulium n. túlín (frumefnið Tm, 69 í lotukerfinu)
+xenon n. senón (frumefnið Xe, 54 í lotukerfinu)
+molybdenum n. mólýbden, mólýbdín (frumefnið Mo, 42 í lotukerfinu)
+praseodymium n. praseódým (frumefnið Pr, 59 í lotukerfinu)
+samarium n. samarín (frumefnið Sm, 62 í lotukerfinu)
+dysprosium n. dysprósín (frumefnið Dy, 66 í lotukerfinu)
+erbium n. erbín (frumefnið Er, 68 í lotukerfinu)
+ytterbium n. ytterbín (frumefnið Yb, 70 í lotukerfinu)
+lawrencium n. lárensín (frumefnið Lr, 103 í lotukerfinu)
+rutherfordium n. rutherfordín (frumefnið Rf, 104 í lotukerfinu)
+roentgenium n. röntgenín (frumefnið Rg, 111 í lotukerfinu)
+nihonium n. níhónín (frumefnið Nh, 113 í lotukerfinu)
+flerovium n. fleróvín (frumefnið Fl, 114 í lotukerfinu)
+moscovium n. moskóvín (frumefnið Mc, 115 í lotukerfinu)
+livermorium n. livermórín (frumefnið Lv, 116 í lotukerfinu)
+tennessine n. tennesín (frumefnið Ts, 117 í lotukerfinu)
+oganesson n. oganessín (frumefnið Og, 118 í lotukerfinu)
+tungsten n. tungsten, volfram, wolfram (frumefnið W, 74 í lotukerfinu)
+Circassian n. Sirkasíumaður, Sjerkesi (kákasískt þjóðarbrot kennt við Sirkasíu við botn Svartahafs)
+rubberlike l. gúmmíkenndur, eins og gúmmí
+rubberiness n. gúmmíkennd, það að vera eins og gúmmi
+milage n. sjá %[mileage]%
+fuel consumption n. eldsneytisneysla, eldsneytisnotkun
+discreetness n. gætni, hyggni (sjá %[discretion]%)
+disarmed l. afvopnaður, sviptur vopnum (sjá %[disarm]%)
+patronise s. sjá %[patronize]%
+hoodie n. hettupeysa

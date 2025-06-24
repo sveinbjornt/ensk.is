@@ -43,7 +43,7 @@ magnanimity n. göfuglyndi, örlæti
 magnanimous l. göfuglyndur, göfugur, örlátur
 magnate n. stórhöfðingi; jöfur
 magnesia n. beiskjusalt, magnesíum oxíð
-magnesium n. magnesíum
+magnesium n. magnesíum (frumefnið Mg, 12 í lotukerfinu)
 magnet n. segull, seguljárn, segulstál; segulsteinn
 magnetic l. segulmagnaður; aðlaðandi í viðmóti; [~ bar] segulmögnuð járnstöng
 magnetics nft. segulaflsfræði
@@ -144,7 +144,7 @@ mall n. stór trésleggja; hnallur; e.k. knattleikur; skemmtigöngustaður; vers
 mallard n. stokkönd
 malleability n. fletjanleiki, hamranleiki, sveigjanleiki, mótanleiki
 malleable l. fletjanlegur, hamranlegur, sveigjanlegur, mótanlegur
-malleate s. slá út (fletja) með hamri ([~ metals])
+malleate s. slá út með hamri, fletja með hamri ([~ metals])
 mallet n. tréhamar, kylfa
 malmsey n. sætt áfengt vín
 malnutrition n. næringarskortur, vannæring, ófullkomin næring
@@ -628,8 +628,7 @@ merciful l. miskunnsamur; vorkunnsamur
 merciless l. miskunnarlaus, miskunnlaus; vægðarlaus; harðbrjósta
 mercilessness n. miskunnarleysi; vægðarleysi
 mercurial l. hviklyndur; fjörugur; sem kvikasilfur er í; [the ~ wand] stafur Merkúrs; n. kvikasilfurslyf ([~ preparation])
-Mercury n. guðinn og reikistjarnan Merkúr
-mercury n. kvikasilfur
+mercury n. kvikasilfur (málmur, frumefnið Hg, 80 í lotukerfinu); guðinn og reikistjarnan Merkúr
 mercy n. náð, miskunn; meðaumkun; [be at the ~ of] vera á valdi e-s; [have ~ on, upon] aumkast yfir e-n; [sister of ~] líknarsystir
 mere l. óblandaður; tómur; eintómur, einber ([a ~ swindler]); n. tjörn; landamæri
 merely ao. að eins, eingöngu

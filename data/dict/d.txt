@@ -128,7 +128,7 @@ deadhead n. sá sem hefur ókeypis aðgang að leikhúsi, ókeypis far með skip
 deadlift n. þung byrði; neyð
 deadlock n. algjör stöðvun, ófæra
 deadmarch n. sorgarlag (við greftrun)
-deadweight n. þung (örðug) byrði; burðarmagn skips (sá farmþungi, sem skip getur borið, þegar það er hlaðið upp að hæsta hleðslumarki)
+deadweight n. þung (örðug) byrði; burðarmagn skips (sá farmþungi sem skip getur borið þegar það er hlaðið upp að hæsta hleðslumarki)
 deadwind n. andviðri
 deaden s. deyfa; draga úr
 deadly l. banvænn ([~ poison]); dauðalegur ([~ look, paleness]); ákaflega mikill ([in ~ haste]); [~ enemy] svarinn óvinur; ao. ákaflega, dauð- ([~ cold, tired]); ná- ([~ pale, white])
@@ -154,7 +154,7 @@ deathblow n. banahögg
 death fire n. hrævareldur
 deathful l. mannskæður; banvænn; náfölur
 deathless l. ódauðlegur
-deathlike l. sem líkist dauða; [~ silence] dauðaþögn, steinhljóð
+deathlike l. sem líkist dauða, dauða-; [~ silence] dauðaþögn, steinhljóð
 deathly l. banvænn; náfölur; dauða-, ná-([~ odour]); ao. [~ pale] náfölur
 deathrate n. manndauðahlutfall
 death rattle n. dauðahrygla
@@ -977,7 +977,7 @@ discerning l. greindur; skarpvitur
 discernment n. greind, dómgreind
 discharge s. afferma, skipa upp (vörum); hleypa af (byssu); skjóta ([~ a shot, an arrow]); greiða, borga ([~ a debt]); leysa (undan eða frá e-u [of, from]); láta frá s´rr; vísa (e-m) úr vist eða embætti; láta lausan (úr varðhaldi); rækja (skyldu); hafa á hendi, framkvæma; n. afferming, uppskipun; skot ([~ of a gun]); greiðsla, borgun; kvittun; burtvísun; lausn (undan e-u, úr e-u [from]); afrennsli, útrennsli ([~ of water]); útferð (úr kýli), gröftur; framkvæmd ([of a duty, function])
 disciple n. lærisveinn
-disciplinarian n. tyftunarmeistari; fyrirliði, sem hefur strangan heraga ([strict, good, poor, no ~])
+disciplinarian n. tyftunarmeistari; fyrirliði sem hefur strangan heraga ([strict, good, poor, no ~])
 disciplinary l. sem lýtur að góðum aga
 discipline n. uppfræðsla; list; íþrótt ([~ of war]); vísindagrein; regla, agi, heragi ([to maintain ~]); refsing; s. venja við hlýðni og reglusemi; hirta, refsa, aga
 disclaim s. afsala sér; neita, hafna

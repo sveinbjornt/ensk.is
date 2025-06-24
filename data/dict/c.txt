@@ -235,7 +235,7 @@ caraway seed n. kúmen
 carbine n. stutt riddarabyssa ([a double-barrelled ~])
 carbineer n. byssuriddari
 carbolic l. karból-; [~ soap] karbólsápa; [~ acid] karbólsýra
-carbon n. kolefni
+carbon n. kolefni (frumefnið C, 6 í lotukerfinu)
 carbonaceous l. kola-, kolkenndur
 carbonic l. kolsúr; [~ acid] kolsýra
 carbonize s. breyta í kolefni; svíða (gera) að viðarkolum
@@ -758,7 +758,7 @@ chivalry n. riddaraskapur; [age of ~] riddaraöld
 chive n. graslaukur
 chivy n. sjá %[chevy]%
 chloral n. klóral (svefnlyf)
-chlorine n. klór
+chlorine n. klór (frumefnið Cl, 17 í lotukerfinu)
 chloroform n. klóroform; s. svæfa (með klóroformi)
 chlorosis n. bleikjusótt, blóðleysi
 chock n. hjólskorða; bátskorða (á þilfari); s. skorða; troðfylla
@@ -1148,7 +1148,7 @@ coat n. frakki; kjóll (sjá %[dress coat]%); kápa; feldur, skinn; fuglshamur, 
 coat hanger n. herðatré
 coating n. lag ([a thin ~ of]); fataefni, frakkaefni
 coax s. lokka, ginna; [~ one to do/into doing] til að gera e-ð
-cobalt n. kóbalt (málmur)
+cobalt n. kóbalt (málmur, frumefnið Co, 27 í lotukerfinu)
 cobble n. hnullungur; ft. kastkol; s. steinleggja (stræti); bæta (skó, [~ up])
 cobbler n. skóbætari; klaufi
 cob coals nft. kastkol, húsakol
@@ -2100,7 +2100,7 @@ copestone n. toppsteinn
 copious l. efnisríkur; fjölorður; orðmargur ([a ~ language]); ríkulegur
 copiously ao. ríkulega; rækilega
 copiousness n. gnótt; orðgnótt
-copper n. kopar, eir; eirpeningar; eirketill; lögregluþjónn (óforml.)
+copper n. kopar, eir (málmur, frumefnið Cu, 29 í lotukerfinu); eirpeningar; eirketill; lögregluþjónn (óforml.)
 copper-plate n. eirplata; koparstunga
 coppery l. kopar-; [~ particles] koparagnir
 coppice n. smáviður
