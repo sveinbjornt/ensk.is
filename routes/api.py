@@ -36,7 +36,7 @@ async def api_metadata(request: Request) -> JSONResponse:
 @router.get("/suggest/{q}")
 async def api_suggest(request: Request, q: str, limit: int = 10) -> JSONResponse:
     """Return autosuggestion results for partial string in input field."""
-    results, _ = cached_results(q)
+    results, _, _ = cached_results(q, exact_match=False, limit=limit)
     words = [x["word"] for x in results][:limit]
     return JSONResponse(content=words)
 
@@ -45,10 +45,7 @@ async def api_suggest(request: Request, q: str, limit: int = 10) -> JSONResponse
 @router.get("/search/{q}", operation_id="search_for_word")
 async def api_search(request: Request, q: str) -> JSONResponse:
     """Return search results in JSON format from the English-Icelandic dictionary."""
-    if len(q) < 2:
-        return err_resp("Query too short")
-
-    results, _ = cached_results(q)
+    results, _, _ = cached_results(q)
 
     return JSONResponse(content={"results": results})
 
@@ -59,7 +56,7 @@ async def api_item(request: Request, w: str) -> JSONResponse:
     """Return single English-Icelandic dictionary entry in JSON format."""
     ws = w.strip()
 
-    results, exact = cached_results(ws, exact_match=True)
+    results, exact, _ = cached_results(ws, exact_match=True)
     if not results or not exact:
         return err_resp(f"No entry found for '{ws}'")
 
@@ -72,7 +69,7 @@ async def api_item_parsed(request: Request, w: str) -> JSONResponse:
     """Return single English-Icelandic dictionary entry in JSON format with parsed definition."""
     ws = w.strip()
 
-    results, exact = cached_results(ws, exact_match=True)
+    results, exact, _ = cached_results(ws, exact_match=True)
     if not results or not exact:
         return err_resp(f"No entry found for '{ws}'")
 
@@ -110,7 +107,7 @@ async def api_item_parsed_many(
 
     res = {}
     for w in words:
-        results, exact = cached_results(w, exact_match=True)
+        results, exact, _ = cached_results(w, exact_match=True)
         if not results or not exact:
             continue
         result = results[0]

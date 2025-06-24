@@ -15,7 +15,7 @@
 <div id="search_results">
 
     {% if results|length > 0 %}
-    <!--<p><em>{{ results|length }} niðurstöður fyrir <strong>{{ q }}</strong></em>.</p>-->
+    <p><em>{{ results|length }} fl.</em>.</p>
 
     {% if not exact: %}
     <!--<p><em>Orðið <strong>{{ q }}</strong> fannst ekki. <a href="">*Tilkynna*</a></em></p>
@@ -46,9 +46,16 @@
     </div>
     {% endfor %}
 
+    {% if limit %}
+    <a href="/search?q={{ q }}&limit=0"> Sýna fleiri færslur</a>
+    {% endif %}
+
     {% else: %}
-    {% if q %}
-    <p><em>Engar niðurstöður fundust fyrir <strong>„{{ q }}“</strong></em>.</p>
+    {% if q %} <p>
+        <em>Engar
+            niðurstöður
+            fundust fyrir <strong>„{{ q }}“</strong></em>.
+    </p>
     {% endif %}
     {% endif %}
 </div>

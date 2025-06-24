@@ -98,6 +98,9 @@ SMALL_CACHE_SIZE = 100  # pages
 
 KNOWN_MISSING_WORDS = read_wordlist("missing.txt")
 
+DEFAULT_SEARCH_LIMIT = 50  # Default limit for search results
+
+
 # Clear the database reference to free memory
 # It will not be needed after this point
 edb = None
@@ -155,10 +158,12 @@ def _format_item(item: dict[str, Any]) -> dict[str, Any]:
     return item
 
 
-def _results(q: str, exact_match: bool = False) -> tuple[list, bool]:
-    """Return processed search results for a bareword textual query."""
+def _results(
+    q: str, exact_match: bool = False, limit: int = DEFAULT_SEARCH_LIMIT
+) -> tuple[list, bool, bool]:
+    """Return processed search results for a bareword text query."""
     if not q:
-        return [], False
+        return ([], False, False)
 
     equal = []
     swith = []
@@ -187,16 +192,44 @@ def _results(q: str, exact_match: bool = False) -> tuple[list, bool]:
     ewith.sort(key=lambda d: d["word"].lower())
     other.sort(key=lambda d: d["word"].lower())
 
-    results = [*equal, *swith, *ewith, *other]
+    results = []
+    more_results = False
+    if len(equal) >= limit and limit > 0:
+        # If we have enough exact matches, return only those
+        results = equal[:limit]
+        more_results = True
+    elif len(swith) + len(equal) >= limit and limit > 0:
+        # If we have enough starts-with matches, return those plus exact matches
+        results = equal + swith[:limit]
+        more_results = True
+    elif len(ewith) + len(swith) + len(equal) >= limit and limit > 0:
+        # If we have enough ends-with matches, return those plus starts-with and exact matches
+        results = equal + swith + ewith[:limit]
+        more_results = True
+    else:
+        # Otherwise, return all matches
+        if limit > 0:
+            results = equal + swith + ewith + other[:limit]
+            if len(results) > limit:
+                # If we have more results than the limit, set more_results to True
+                results = results[:limit]
+                more_results = True
+        else:
+            # If no limit, return all matches
+            results = equal + swith + ewith + other
+
+    # results = [*equal, *swith, *ewith, *other]
 
     # If no results found, try removing trailing 's' from query
     # and search again since it might be a plural form
     if len(results) == 0 and exact_match is False and len(q) >= 3 and q.endswith("s"):
-        return _results(q[:-1], exact_match=True)
+        return _results(q[:-1], exact_match=True, limit=limit)
 
-    return results, exact_match_found
+    return results, exact_match_found, more_results
 
 
 @lru_cache(maxsize=SEARCH_CACHE_SIZE)
-def cached_results(q: str, exact_match: bool = False):
-    return _results(q, exact_match)
+def cached_results(
+    q: str, exact_match: bool = False, limit: int = DEFAULT_SEARCH_LIMIT
+) -> tuple[list, bool, bool]:
+    return _results(q, exact_match, limit)

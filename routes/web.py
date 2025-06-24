@@ -15,8 +15,8 @@ from fastapi.responses import Response, RedirectResponse
 from .core import (
     TemplateResponse,
     cached_results,
-    err_resp,
     KNOWN_MISSING_WORDS,
+    DEFAULT_SEARCH_LIMIT,
     num_entries,
     all_words,
     original_entries,
@@ -93,16 +93,16 @@ async def _save_missing_word(word: str) -> None:
 
 @cache_response(SEARCH_CACHE_SIZE)
 @router.get("/search", include_in_schema=False)
-async def search(request: Request, q: Optional[str] = "") -> Response:
+async def search(
+    request: Request, q: Optional[str] = "", limit: Optional[int] = DEFAULT_SEARCH_LIMIT
+) -> Response:
     """Return page with search results for query."""
 
     q = q.strip() if q else q
-    if q and len(q) < 2:
-        return err_resp("Query too short")
 
     title = PROJECT.NAME
     if q:
-        results, exact = cached_results(q)
+        results, exact, limit = cached_results(q, exact_match=False, limit=limit)
 
         # If a search word might be missing, log it to a file but
         # only if it is a single word and not a known missing word
@@ -123,6 +123,7 @@ async def search(request: Request, q: Optional[str] = "") -> Response:
             "q": q,
             "results": results,
             "exact": exact,
+            "limit": limit,
         },
     )
 
@@ -133,7 +134,7 @@ async def search(request: Request, q: Optional[str] = "") -> Response:
 async def item(request: Request, w: str) -> Response:
     """Return page for a single dictionary word definition."""
 
-    results, _ = cached_results(w, exact_match=True)
+    results, _, _ = cached_results(w, exact_match=True)
     if not results:
         raise HTTPException(status_code=404, detail="Síða fannst ekki")
 
