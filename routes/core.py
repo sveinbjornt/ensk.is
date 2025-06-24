@@ -171,61 +171,142 @@ def _results(
     other = []
 
     ql = q.lower()
-    for k in entries:
-        kl = k["word"].lower()
-        if (exact_match and ql == kl) or (not exact_match and ql in kl):
-            item = _format_item(k)
-            lw = item["word"].lower()
-            if lw == ql:
-                equal.append(item)
-            elif lw.startswith(ql):
-                swith.append(item)
-            elif lw.endswith(ql):
-                ewith.append(item)
+    has_more = False
+    exact_match_found = False
+
+    # For unlimited results, collect everything
+    if limit <= 0:
+        for k in entries:
+            kl = k["word"].lower()
+            if (exact_match and ql == kl) or (not exact_match and ql in kl):
+                if kl == ql:
+                    equal.append(k)
+                    exact_match_found = True
+                elif kl.startswith(ql):
+                    swith.append(k)
+                elif kl.endswith(ql):
+                    ewith.append(k)
+                else:
+                    other.append(k)
+    else:
+        # Optimized single-pass collection with early termination
+        max_exact = 2  # Dictionary constraint: max 2 exact matches
+        collected_exact = 0
+        base_buffer = 15  # Buffer to ensure proper sorting within categories
+
+        # Track if we need to continue looking for exact matches
+        need_exact = True
+
+        for k in entries:
+            kl = k["word"].lower()
+
+            # For exact_match mode, only check exact equality
+            if exact_match:
+                if ql == kl:
+                    equal.append(k)
+                    exact_match_found = True
+                    collected_exact += 1
+                    if collected_exact >= max_exact:
+                        break
             else:
-                other.append(item)
+                # For substring matching
+                if ql in kl:
+                    if kl == ql and collected_exact < max_exact:
+                        equal.append(k)
+                        exact_match_found = True
+                        collected_exact += 1
+                        if collected_exact >= max_exact:
+                            need_exact = False
+                    elif kl.startswith(ql):
+                        swith.append(k)
+                    elif kl.endswith(ql):
+                        ewith.append(k)
+                    else:
+                        other.append(k)
 
-    exact_match_found: bool = len(equal) > 0
+                    # Don't check for early termination until we've found all exact matches
+                    # or we've gone through enough entries that exact matches are unlikely
+                    if (
+                        not need_exact
+                        or len(equal) + len(swith) + len(ewith) + len(other) > 100
+                    ):
+                        # Calculate total collected so far
+                        total = len(equal) + len(swith) + len(ewith) + len(other)
 
+                        # Determine if we can stop based on priority order
+                        if len(equal) >= limit:
+                            # We have enough exact matches
+                            has_more = True
+                            break
+
+                        # Calculate remaining slots after exact matches
+                        remaining = limit - len(equal)
+
+                        if len(swith) >= remaining + base_buffer:
+                            # We have enough startswith matches (with buffer)
+                            has_more = len(ewith) > 0 or len(other) > 0
+                            break
+                        elif len(swith) + len(ewith) >= remaining + base_buffer:
+                            # We have enough startswith + endswith matches
+                            has_more = len(other) > 0
+                            # Continue a bit more to ensure proper sorting
+                            if len(swith) + len(ewith) >= remaining + base_buffer * 2:
+                                break
+                        elif total >= limit + base_buffer * 2:
+                            # We have enough total results with extra buffer
+                            has_more = True
+                            break
+
+    # Sort raw entries (cheaper than sorting formatted items)
     equal.sort(key=lambda d: d["word"].lower())
     swith.sort(key=lambda d: d["word"].lower())
     ewith.sort(key=lambda d: d["word"].lower())
     other.sort(key=lambda d: d["word"].lower())
 
+    # Combine results in priority order
     results = []
-    more_results = False
-    if len(equal) >= limit and limit > 0:
-        # If we have enough exact matches, return only those
-        results = equal[:limit]
-        more_results = True
-    elif len(swith) + len(equal) >= limit and limit > 0:
-        # If we have enough starts-with matches, return those plus exact matches
-        results = equal + swith[:limit]
-        more_results = True
-    elif len(ewith) + len(swith) + len(equal) >= limit and limit > 0:
-        # If we have enough ends-with matches, return those plus starts-with and exact matches
-        results = equal + swith + ewith[:limit]
-        more_results = True
-    else:
-        # Otherwise, return all matches
-        if limit > 0:
-            results = equal + swith + ewith + other[:limit]
-            if len(results) > limit:
-                # If we have more results than the limit, set more_results to True
-                results = results[:limit]
-                more_results = True
-        else:
-            # If no limit, return all matches
-            results = equal + swith + ewith + other
 
-    # results = [*equal, *swith, *ewith, *other]
+    # Always include all exact matches (max 2)
+    for e in equal:
+        results.append(_format_item(e))
+
+    if limit > 0:
+        # Fill remaining slots in priority order
+        remaining = limit - len(results)
+
+        # Add startswith matches
+        for e in swith[:remaining]:
+            results.append(_format_item(e))
+
+        # Add endswith matches
+        remaining = limit - len(results)
+        for e in ewith[:remaining]:
+            results.append(_format_item(e))
+
+        # Add other (contains) matches
+        remaining = limit - len(results)
+        for e in other[:remaining]:
+            results.append(_format_item(e))
+
+        # Final check for has_more flag
+        if not has_more:
+            total_available = len(equal) + len(swith) + len(ewith) + len(other)
+            has_more = total_available > limit
+    else:
+        # No limit - format all results
+        for e in swith:
+            results.append(_format_item(e))
+        for e in ewith:
+            results.append(_format_item(e))
+        for e in other:
+            results.append(_format_item(e))
 
     # If no results found, try removing trailing 's' from query
     # and search again since it might be a plural form
-    if len(results) == 0 and exact_match is False and len(q) >= 3 and q.endswith("s"):
+    if len(results) == 0 and not exact_match and len(q) >= 3 and q.endswith("s"):
         return _results(q[:-1], exact_match=True, limit=limit)
 
-    return results, exact_match_found, more_results
+    return results[:limit] if limit > 0 else results, exact_match_found, has_more
 
 
 @lru_cache(maxsize=SEARCH_CACHE_SIZE)

@@ -25,6 +25,11 @@ h1 {
     margin-bottom: 1.0em;
 }
 
+h1.item_title {
+    font-size: 1.6em;
+    margin-bottom: 10px;
+}
+
 h2 {
     font-size: 1.15em;
     margin-bottom: 1.0em;
@@ -117,12 +122,21 @@ span.result_definition_text {
     cursor: default !important;
 }
 
+div.item {
+    font-size: 1.05em;
+}
+
 div.item ul {
     margin-left: 1.6em;
 }
 
 div.ipa {
     margin-bottom: 1.0em;
+    font-size: 0.9em;
+}
+
+hr.separator {
+    margin: 2.0em 0;
 }
 
 div.wordcat {

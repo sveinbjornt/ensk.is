@@ -1,4 +1,5 @@
 """
+Ensk.is
 Static resource routes
 """
 

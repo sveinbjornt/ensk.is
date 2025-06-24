@@ -13,7 +13,7 @@
 
 {% block content %}
 
-<h1 style="margin-bottom:10px;">
+<h1 class="item_title">
     {{ word|safe }}
     {% if results[0].page_num > 0 %}
     <a href="{{ results[0].page_url }}" title="Skoða blaðsíðu í orðabók">
@@ -60,7 +60,7 @@
 </div>
 
 {% if synonyms %}
-<hr>
+<hr class="separator">
 
 <div class="synonyms"></div>
 <p><strong>Samheiti: </strong>

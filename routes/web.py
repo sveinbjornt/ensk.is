@@ -102,7 +102,7 @@ async def search(
 
     title = PROJECT.NAME
     if q:
-        results, exact, limit = cached_results(q, exact_match=False, limit=limit)
+        results, exact, has_more = cached_results(q, exact_match=False, limit=limit)
 
         # If a search word might be missing, log it to a file but
         # only if it is a single word and not a known missing word
@@ -114,6 +114,7 @@ async def search(
     else:
         results = []
         exact = False
+        has_more = False
 
     return TemplateResponse(
         "result.html",
@@ -124,6 +125,7 @@ async def search(
             "results": results,
             "exact": exact,
             "limit": limit,
+            "has_more": has_more,
         },
     )
 
