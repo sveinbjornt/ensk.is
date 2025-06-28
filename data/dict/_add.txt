@@ -368,7 +368,7 @@ cyberspace n. netheimar
 mockumentary n. grín- eða háðmynd í sniði heimildarmyndar, heimildarháðmynd
 emoticon n. lyndistákn, tjákn
 hyperlink n. tengill (á veraldarvefnum)
-smiley l. glaðlyndur; brosandi; n. broskarl (tákn)
+smiley n. broskarl (tákn); l. glaðlyndur; brosandi
 spam n. ruslpóstur; unnin kjötvara í niðursuðudósum; s. senda ruslpóst
 spammer n. sendandi ruslpósts
 nerd n. nörd, njörður; sérvitringur
@@ -8141,6 +8141,7 @@ dyadic l. tvenndar-, tvíunda-
 defensively ao. varnarlega, í vörn
 defensiveness n. það að vera í vörn eða varnarstöðu
 postgraduate n. háskólanemi í framhaldsnámi; l. framhaldsnáms-, er varðar nám eftir grunnnám í háskóla ([~ degree, course])
+postgrad n. sjá %[postgraduate]%
 militancy n. striðsgirni; deilugirni; óeirðarsemi
 unwitting l. óvitandi, óafvitandi ([he was her ~ accomplice])
 overabundance n. ofgnótt, ofgnægð, ofgnægt
@@ -8443,3 +8444,6 @@ discreetness n. gætni, hyggni (sjá %[discretion]%)
 disarmed l. afvopnaður, sviptur vopnum (sjá %[disarm]%)
 patronise s. sjá %[patronize]%
 hoodie n. hettupeysa
+grad n. sá sem hefur tekið háskólapróf, kandídat (stytt. á %[graduate]%)
+initalisation n. sjá %[initalization]%
+symbolise s. sjá %[symbolize]%

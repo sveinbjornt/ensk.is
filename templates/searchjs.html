@@ -49,6 +49,7 @@
             selector: 'input[name="q"]',
             submit: true,
             minChars: 1,
+            cache: 0,
             source: function (term, response) {
                 var qval = document.getElementById("q").value;
                 ajax_get('/api/suggest/' + encodeURIComponent(qval), function (data) {

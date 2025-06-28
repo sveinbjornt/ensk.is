@@ -13,6 +13,7 @@ python audio.py
 --exclude "p312" \
 --exclude "__pycache__" \
 --exclude "*.pyc" \
+--exclude ".ruff_cache" \
 --delete \
 -av "." \
 root@ensk.is:/www/ensk.is/html/
