@@ -26,7 +26,7 @@ jobs:
           python -m pip install uv
           uv pip install --system --upgrade wheel setuptools ruff pytest
           uv pip install --system -r requirements.txt
-      - name: Lint with flake8
+      - name: Linting
         run: |
           ruff check *.py routes/*.py tools/*.py tests/*.py
       - name: Verify dictionary source files

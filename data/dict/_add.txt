@@ -6277,8 +6277,8 @@ troubleshooting n. bilanaleit, villuleit, greining á vanda
 livestream s. senda í beinni útsendingu; n. bein útsending
 livestreaming n. bein útsending
 substantially ao. verulega; ábyggilega (sjá %[substantial]%)
-tokenize s. tóka; brjóta niður, flokka eða aðskilja í stök tákn (tóka)
-tokenizer n. tókari, tilreiðari (sjá %[tokenize]%)
+tokenize s. tóka; brjóta niður, tilreiða, flokka eða aðskilja í stök tákn (tóka)
+tokenizer n. tókari, tilreiðari (hugbúnaður, sjá %[tokenize]%)
 motherfucker n. móðurserðir, móðurriðill, mannfjandi, drulludeli, mannskratti, drullusokkur, mannfýla, skíthæll (óforml.)
 standardise s. sjá %[standardize]%
 standardization n. stöðlun
