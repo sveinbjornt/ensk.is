@@ -132,7 +132,7 @@ MCP_OPERATIONS = [
     "lookup_many_words_parsed",
 ]
 
-# Creatae and mount the MCP server for the FastAPI app
+# Create and mount the MCP server for the FastAPI app
 mcp = FastApiMCP(
     app,
     name=PROJECT.NAME,  # Name for your MCP server

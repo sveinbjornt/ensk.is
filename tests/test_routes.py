@@ -129,3 +129,42 @@ def test_api_routes() -> None:
         assert isinstance(json, list)
         assert len(json) == 1
         assert isinstance(json[0], str)
+
+
+def test_more_api_routes() -> None:
+    """Test more API routes."""
+
+    # /api/metadata
+    response = client.get("/api/metadata")
+    assert response.status_code == HTTPStatus.OK
+    assert "editor" in response.json()
+
+    # /api/item/parsed/<word>
+    response = client.get("/api/item/parsed/calumny")
+    assert response.status_code == HTTPStatus.OK
+    json = response.json()
+    _verify_api_item(json)
+    assert "parsed" in json
+
+    # /api/item/parsed/many/
+    response = client.get("/api/item/parsed/many/?q=calumny,zymotic")
+    assert response.status_code == HTTPStatus.OK
+    json = response.json()
+    assert "calumny" in json
+    assert "zymotic" in json
+
+
+def test_more_web_routes() -> None:
+    """Test more web routes."""
+
+    # /search with empty query
+    response = client.get("/search?q=")
+    assert response.status_code == HTTPStatus.OK
+
+    # /page with invalid page number
+    response = client.get("/page/9999")
+    assert response.status_code == HTTPStatus.NOT_FOUND
+
+    # /cat with invalid category
+    response = client.get("/cat/invalidcat")
+    assert response.status_code == HTTPStatus.OK

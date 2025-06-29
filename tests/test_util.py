@@ -215,3 +215,19 @@ def test_zip_file() -> None:
         # Clean up
         util.silently_remove(source_path)
         util.silently_remove(zip_path)
+
+
+def test_strip_html_from_string() -> None:
+    """Test strip_html_from_string function."""
+    assert util.strip_html_from_string("<p>Hello</p>") == "Hello"
+    assert util.strip_html_from_string("<b>World</b>") == "World"
+    assert util.strip_html_from_string("No tags") == "No tags"
+    assert util.strip_html_from_string("") == ""
+
+
+def test_strip_parentheses_from_string() -> None:
+    """Test strip_parentheses_from_string function."""
+    assert util.strip_parentheses_from_string("Hello (world)") == "Hello "
+    assert util.strip_parentheses_from_string("(Remove) this") == " this"
+    assert util.strip_parentheses_from_string("No parentheses") == "No parentheses"
+    assert util.strip_parentheses_from_string("") == ""
