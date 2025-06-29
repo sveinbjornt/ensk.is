@@ -5783,6 +5783,7 @@ distill s. sjá %[distil]%
 non-reciprocal l. ógagnkvæmur
 thermonuclear l. kjarnasamruna-, samruna-
 hydrogen bomb n. vetnissprengja
+atomic bomb n. kjarnorkusprengja
 blowback n. bakslag, afturköst, neikvæðar (ófyrirséðar) afleiðingar; bakskot
 oviduct n. eggrás, eggjaleiðari, eggrás, legpípa
 uterine l. leg-
@@ -8445,5 +8446,10 @@ disarmed l. afvopnaður, sviptur vopnum (sjá %[disarm]%)
 patronise s. sjá %[patronize]%
 hoodie n. hettupeysa
 grad n. sá sem hefur tekið háskólapróf, kandídat (stytt. á %[graduate]%)
-initalisation n. sjá %[initalization]%
 symbolise s. sjá %[symbolize]%
+hobo n. útigangsmaður, heimilisleysingi, flækingur, umrenningur
+unobtainable l. ófáanlegur, sem ekki er hægt að fá, óreddanlegur
+cataphasia n. þrámæli
+dept n. deild (stytt. á %[department]%)
+drumfish n. baulfiskur
+ruefully ao. hryggilega, raunalega, sorglega
