@@ -1,3 +1,5 @@
+<script src="/static/js/autocomplete.min.js" crossorigin="anonymous"
+    integrity="sha384-LMHHa8MsLF6m7I6ZuNCK9rueUJyBuPa+mugXyxxfYulzeKaX855ym6abPl+Pu6BG" defer></script>
 <script>
     function ajax_get(url, callback) {
         // Make an AJAX GET request
@@ -38,7 +40,7 @@
         return false;
     }
 
-    window.onload = function () {
+    document.addEventListener("DOMContentLoaded", function () {
         // Focus on search input field
         var elm = document.getElementById("q");
         elm.focus();
@@ -60,6 +62,5 @@
                 document.getElementById("search").submit();
             }
         });
-    };
+    });
 </script>
-<script src="/static/js/autocomplete.min.js" defer></script>
