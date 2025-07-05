@@ -62,6 +62,7 @@ router = APIRouter()
 async def index(request: Request) -> Response:
     """Index page"""
     return TemplateResponse(
+        request,
         "index.html",
         {
             "request": request,
@@ -117,6 +118,7 @@ async def search(
         has_more = False
 
     return TemplateResponse(
+        request,
         "result.html",
         {
             "request": request,
@@ -149,6 +151,7 @@ async def item(request: Request, w: str) -> Response:
     synonyms = linked_synonyms_for_word(w, all_words)
 
     return TemplateResponse(
+        request,
         "item.html",
         {
             "request": request,
@@ -177,6 +180,7 @@ async def page(request: Request, n: str) -> Response:
     pad = page_num - 1
 
     return TemplateResponse(
+        request,
         "page.html",
         {
             "request": request,
@@ -223,6 +227,7 @@ async def files(request: Request) -> Response:
     formatted_date = date_object.strftime("%d/%m/%Y")
 
     return TemplateResponse(
+        request,
         "files.html",
         {
             "request": request,
@@ -244,6 +249,7 @@ async def files(request: Request) -> Response:
 async def about(request: Request) -> Response:
     """About page."""
     return TemplateResponse(
+        request,
         "about.html",
         {
             "request": request,
@@ -265,6 +271,7 @@ async def about(request: Request) -> Response:
 async def zoega(request: Request) -> Response:
     """Page with details about the Zoega dictionary."""
     return TemplateResponse(
+        request,
         "zoega.html",
         {
             "request": request,
@@ -288,6 +295,7 @@ async def english_redirect(request: Request) -> Response:
 async def english(request: Request) -> Response:
     """English page."""
     return TemplateResponse(
+        request,
         "english.html",
         {
             "request": request,
@@ -307,6 +315,7 @@ async def english(request: Request) -> Response:
 async def all(request: Request) -> Response:
     """Page with links to all entries."""
     return TemplateResponse(
+        request,
         "all.html",
         {
             "request": request,
@@ -325,6 +334,7 @@ async def cat(request: Request, category: str) -> Response:
     entries = CAT2ENTRIES.get(category, [])
     words = [e["word"] for e in entries]
     return TemplateResponse(
+        request,
         "cat.html",
         {
             "request": request,
@@ -341,6 +351,7 @@ async def cat(request: Request, category: str) -> Response:
 async def capitalized(request: Request) -> Response:
     """Page with links to all words that are capitalized."""
     return TemplateResponse(
+        request,
         "capitalized.html",
         {
             "request": request,
@@ -357,6 +368,7 @@ async def capitalized(request: Request) -> Response:
 async def original(request: Request) -> Response:
     """Page with links to all words that are original."""
     return TemplateResponse(
+        request,
         "original.html",
         {
             "request": request,
@@ -373,6 +385,7 @@ async def original(request: Request) -> Response:
 async def nonascii_route(request: Request) -> Response:
     """Page with links to all words that contain non-ASCII characters."""
     return TemplateResponse(
+        request,
         "nonascii.html",
         {
             "request": request,
@@ -389,6 +402,7 @@ async def nonascii_route(request: Request) -> Response:
 async def multiword_route(request: Request) -> Response:
     """Page with links to all entries with more than one word."""
     return TemplateResponse(
+        request,
         "multiword.html",
         {
             "request": request,
@@ -405,6 +419,7 @@ async def multiword_route(request: Request) -> Response:
 async def duplicates(request: Request) -> Response:
     """Page with links to all words that are duplicates."""
     return TemplateResponse(
+        request,
         "duplicates.html",
         {
             "request": request,
@@ -421,6 +436,7 @@ async def duplicates(request: Request) -> Response:
 async def additions_page(request: Request) -> Response:
     """Page with links to all words that are additions to the original dictionary."""
     return TemplateResponse(
+        request,
         "additions.html",
         {
             "request": request,
@@ -446,6 +462,7 @@ async def stats(request: Request) -> Response:
         wordstats[cat]["perc"] = perc(wordstats[cat]["num"], num_entries)
 
     return TemplateResponse(
+        request,
         "stats.html",
         {
             "request": request,
@@ -479,6 +496,7 @@ async def stats(request: Request) -> Response:
 @cache_response
 async def sitemap(request: Request) -> Response:
     return TemplateResponse(
+        request,
         "sitemap.xml",
         {"request": request, "words": all_words},
         media_type="application/xml",

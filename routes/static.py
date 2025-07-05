@@ -13,13 +13,6 @@ router = APIRouter()
 
 
 @cache_response
-@router.get("/favicon.ico", include_in_schema=False)
-@router.head("/favicon.ico", include_in_schema=False)
-async def favicon(request: Request) -> RedirectResponse:
-    return RedirectResponse(url="/static/img/favicon.ico", status_code=301)
-
-
-@cache_response
 @router.get("/apple-touch-icon.png", include_in_schema=False)
 async def apple_touch_icon_redirect(request: Request) -> RedirectResponse:
     """Redirect to /apple-touch-icon.png"""
@@ -31,6 +24,13 @@ async def apple_touch_icon_redirect(request: Request) -> RedirectResponse:
 @router.head("/apple-touch-icon-precomposed.png", include_in_schema=False)
 async def apple_touch_icon(request: Request) -> RedirectResponse:
     return RedirectResponse(url="/static/img/apple-touch-icon.png", status_code=301)
+
+
+@cache_response
+@router.get("/favicon.ico", include_in_schema=False)
+@router.head("/favicon.ico", include_in_schema=False)
+async def favicon(request: Request) -> FileResponse:
+    return FileResponse("/static/img/favicon.ico", media_type="image/x-icon")
 
 
 @cache_response

@@ -111,6 +111,7 @@ app.add_middleware(AddCustomHeaderMiddleware)
 @app.exception_handler(404)
 def not_found_exception_handler(request: Request, exc: HTTPException):
     return TemplateResponse(
+        request,
         "404.html",
         {"request": request, "title": "404 - Síða fannst ekki"},
         status_code=404,
