@@ -130,10 +130,6 @@ def test_api_routes() -> None:
         assert len(json) == 1
         assert isinstance(json[0], str)
 
-
-def test_more_api_routes() -> None:
-    """Test more API routes."""
-
     # /api/metadata
     response = client.get("/api/metadata")
     assert response.status_code == HTTPStatus.OK
