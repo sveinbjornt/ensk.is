@@ -35,10 +35,12 @@ Ensk.is FastAPI web application.
 
 """
 
+import logging
 from fastapi import FastAPI, Request, HTTPException
 from fastapi.staticfiles import StaticFiles
 from fastapi_mcp import FastApiMCP
 from starlette.middleware.base import BaseHTTPMiddleware
+from starlette.responses import JSONResponse
 
 from info import PROJECT
 from routes import web_router, api_router, static_router
@@ -116,6 +118,30 @@ def not_found_exception_handler(request: Request, exc: HTTPException):
         "404.html",
         {"request": request, "title": "404 - Síða fannst ekki"},
         status_code=404,
+    )
+
+
+@app.exception_handler(Exception)
+async def global_exception_handler(request: Request, exc: Exception):
+    """Global exception handler to catch all unhandled exceptions."""
+    # Log the full exception for debugging purposes
+    logging.error(
+        f"Unhandled exception for request {request.url}: {exc}", exc_info=True
+    )
+
+    # Return a JSON response for API routes
+    if request.url.path.startswith("/api/"):
+        return JSONResponse(
+            status_code=500,
+            content={"error": True, "errmsg": "An internal server error occurred."},
+        )
+
+    # Return a user-friendly HTML error page for all other routes
+    return TemplateResponse(
+        request,
+        "500.html",  # This template would need to be created
+        {"request": request, "title": "500 - Villa kom upp"},
+        status_code=500,
     )
 
 
