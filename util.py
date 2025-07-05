@@ -205,6 +205,7 @@ def cache_response(maxsize=None):
 
     # For @cache_response(100) use with parameters
     def decorator(func):
+        """The actual decorator function."""
         cache = OrderedDict()
         lock = asyncio.Lock()
 

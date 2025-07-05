@@ -146,16 +146,19 @@ class LetterSectionMarker(Flowable):
     """A custom flowable to mark the start of a letter section and track page numbers."""
 
     def __init__(self, letter):
+        """Initialize the marker with a letter."""
         Flowable.__init__(self)
         self.letter = letter
         self.width = 0
         self.height = 0
 
     def wrap(self, availWidth, availHeight):
+        """Wrap the flowable."""
         # Zero-sized flowable
         return (0, 0)
 
     def draw(self):
+        """Draw the marker."""
         # Save the page number for this letter section
         global _LETTER_PAGES
         page_num = self.canv.getPageNumber()  # Current page number from the canvas
@@ -180,16 +183,19 @@ class EntryWordMarker(Flowable):
     """A custom flowable to mark the position of entries on pages."""
 
     def __init__(self, entry_word):
+        """Initialize the marker with an entry word."""
         Flowable.__init__(self)
         self.entry_word = entry_word
         self.width = 0
         self.height = 0
 
     def wrap(self, availWidth, availHeight):
+        """Wrap the flowable."""
         # Zero-sized flowable
         return (0, 0)
 
     def draw(self):
+        """Draw the marker."""
         # Track which entries appear on which pages
         global _PAGE_ENTRIES
         # Get page number for the next entry (the entry will appear after this marker)

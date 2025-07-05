@@ -22,6 +22,7 @@ class CustomJSONResponse(FastAPIJSONResponse):
     """JSON response using the high-performance orjson library for serialization."""
 
     def render(self, content: Any) -> bytes:
+        """Render content to bytes using orjson."""
         return orjson.dumps(content)
 
 
@@ -233,4 +234,5 @@ def _results(
 def cached_results(
     q: str, exact_match: bool = False, limit: int = DEFAULT_SEARCH_LIMIT
 ) -> tuple[list, bool, bool]:
+    """Return cached search results for a bareword text query."""
     return _results(q, exact_match, limit)

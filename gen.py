@@ -379,6 +379,7 @@ def generate_apple_dictionary(
 
 
 def main() -> None:
+    """Generate all dictionary files."""
     heavy = sys.argv[1:] and sys.argv[1] == "--heavy"
 
     print("Reading entries...")

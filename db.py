@@ -53,6 +53,7 @@ class EnskDatabase(object):
     _instance = None
 
     def __init__(self, read_only: bool = False):
+        """Initialize the database."""
         self.db_conn = None
         self.read_only = read_only
 

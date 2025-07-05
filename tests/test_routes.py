@@ -20,6 +20,7 @@ from app import app  # noqa: E402
 
 
 def in_ci_env() -> bool:
+    """Check if running in CI environment."""
     return os.getenv("IN_CI_ENVIRONMENT") is not None
 
 
@@ -73,6 +74,7 @@ REQ_ITEM_KEYS = [
 
 
 def _verify_api_item(item: dict[str, Any]) -> None:
+    """Verify that an API item has the required keys."""
     keys = item.keys()
     for rk in REQ_ITEM_KEYS:
         assert rk in keys

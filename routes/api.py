@@ -99,6 +99,7 @@ async def api_item_parsed_many(
     words = [w.strip() for w in q.split(",")]
 
     def _process_item(s: str) -> str:
+        """Process a single item by stripping HTML and parentheses."""
         if strip_html:
             s = strip_html_from_string(s)
         if strip_parentheses:

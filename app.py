@@ -110,6 +110,7 @@ app.add_middleware(AddCustomHeaderMiddleware)
 
 @app.exception_handler(404)
 def not_found_exception_handler(request: Request, exc: HTTPException):
+    """Handle 404 Not Found errors."""
     return TemplateResponse(
         request,
         "404.html",
