@@ -70,12 +70,19 @@ class AddCustomHeaderMiddleware(BaseHTTPMiddleware):
     """Add custom headers to all responses."""
 
     CSP_DIRECTIVES = {
-        # "default-src": ["'self'"],
-        # "script-src": ["'self'", "'unsafe-inline'"],
-        # "style-src": ["'self'", "'unsafe-inline'"],
-        # "img-src": ["'self'"],
+        "default-src": ["'self'"],
+        "script-src": [
+            "'self'",
+            "'unsafe-inline'",
+            "https://scripts.simpleanalyticscdn.com",
+        ],
+        "style-src": ["'self'", "'unsafe-inline'"],
+        "img-src": ["'self'", "data:"],
         "font-src": ["'self'"],
-        # "connect-src": ["'self'"],
+        "media-src": ["'self'"],
+        "object-src": ["'none'"],
+        "connect-src": ["'self'", "https://scripts.simpleanalyticscdn.com"],
+        "form-action": ["'self'"],
         "frame-ancestors": ["'none'"],
     }
 
