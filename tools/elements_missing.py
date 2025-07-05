@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# Find element names that are missing from the dictionary.
+
 # ruff: noqa E402
 
 import os

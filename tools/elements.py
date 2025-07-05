@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# Clean up definitions for elements in the periodic table
+# and dump them in a format suitable for the dictionary.
+
 # ruff: noqa E402
 
 import os
