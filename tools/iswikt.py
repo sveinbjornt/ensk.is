@@ -12,7 +12,8 @@ sys.path.insert(0, parentdir)
 
 from gen import read_all_entries
 
-with open("english_icelandic_dictionary.txt", "r", encoding="utf-8") as f:
+fpath = os.path.join(currentdir, "english_icelandic_dictionary.txt")
+with open(fpath, "r", encoding="utf-8") as f:
     lines = f.readlines()
 lines = [line.strip() for line in lines if line.strip() and not line.startswith("#")]
 

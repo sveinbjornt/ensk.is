@@ -427,7 +427,7 @@ modular l. samansett úr (sjálfstæðum) einingum
 oil tanker n. olíuskip, olíuflutningaskip
 tanker n. skip sem flytur mikið magn af vökva (t.d. olíu)
 neoconservative n. nýíhaldsmaður; l. nýíhalds-, nýíhaldssamur
-rollerblades nft. línuskautar
+rollerblade n. línuskaut; nft. línuskautar
 plexiglass n. plexígler
 thermophile n. hitakær lífvera
 thermophilic l. hitakær (notað um lífverur sem dafna við háan hita)
@@ -6531,6 +6531,8 @@ criminally ao. glæpsamlega, glæpalega
 leather-bound l. leðurbundinn
 leather-clad l. leðurklæddur
 rightward ao. hægra megin; til hægri
+rightwards ao. sjá %[rightward]%
+leftwards ao. sjá %[leftward]%
 gold-digger n. gullgrafari
 aimlessness n. stefnuleysi, markmiðsleysi; tilgangsleysi
 floriate s. skreyta með blómum
@@ -8564,3 +8566,19 @@ oneirism n. vökudreymni
 daydreaming n. dagdreymni
 dodgy l. vafasamur; varasamur; tortryggilegur
 Cassandra n. Kassandra (í grískri goðafræði, dóttir Trójukonungs sem spáði fyrir um fall borgarinnar); manneskja sem spáir fyrir um ógæfu ([she's such a ~])
+icteric l. gulusjúkur, haldinn sjúkdómnum gulu (sjá %[jaundiced]%)
+coarctation n. þrenging (æða)
+refereeing n. gerðarmennska; dómgæsla (í íþróttum)
+umpiring n. gerðarmennska; dómgæsla
+reinforce s. styrkja, efla (að liði)
+reinforcement n. styrking, efling (að liði); nft. [~s] liðsauki
+road roller n. valtari
+rutabaga n. gulrófa, rófa
+selch n. landselur
+singed l. sviðinn, brenndur
+smew n. hvítönd (fugl)
+soupçon n. snefill (úr frönsku)
+springtail n. mordýr
+week-long l. vikulangur
+well-read l. vel lesinn, fróður, lærður
+pretzel n. saltstöng, kringla, saltkringla
