@@ -122,7 +122,7 @@ quiescent l. hreyfingarlaus, kyrr; hljóðlaus ([a ~ letter])
 quiet l. hljóðlátur; kyrr, kyrrlátur; hægur, spakur, friðsamur; n. ró, friður, kyrrð; [remain at ~] vera kyrr; [in peace and ~] í friði og ró; s. stilla, kyrra, friða; sefa, bæla niður (ótta, grunsemd); sefast, stillast; uh. [(be) quiet!] hafðu hljótt!; þögn!
 quieten s. sefa, róa; sefast, róast ([~ down])
 quietly ao. hljóðlega; friðsamlega; af stillingu
-quietness n. rósemi, stilling, rólegheit
+quietness n. rósemi, stilling, rólegheit; þögn
 quietude n. kyrrð, rósemi, ró
 quietus n. aðalkvittun; dauði ([he got his ~ in a duel])
 quill n. fjöður; fjöðurstafur; fjöðurpenni; broddur (á broddgelti); vefjarspóla; hljóðpípa
@@ -135,7 +135,7 @@ quinine n. kínín, kínabörkur
 quinquennial l. sem gerist fimmta hvert ár ([~ census]); sem stendur í fimm ár
 quinsy n. hálsbólga
 quintal n. vætt (112 pund, 100 kíló)
-quintan n. hitasótt fimmta hvern dag ([~ fever]); l. fimmta hvern dag
+quintan l. fimmta hvern dag; n. hitasótt fimmta hvern dag ([~ fever])
 quintessence n. mergur eða innsti kjarni (einhvers)
 quintuple l. fimmfaldur; s. fimmfalda
 quip n. spott, skens, hnýfilyrði, sneið; hártogun; gamanyrði, gáski, galsi ([merry ~s]); [~s of law] málkrókar; s. skensa, sneiða, spotta

@@ -647,6 +647,7 @@ Algeria n. Alsír
 Algerian l. alsírskur, frá Alsír; n. Alsíringur, Alsírbúi
 American Samoa n. Bandaríska Samóa
 Andorra n. Andorra
+Andorran l. andorrskur; n. Andorramaður
 Angola n. Angóla
 Angolan l. angólskur; n. Angólamaður, Angólabúi
 Antarctica n. Suðurskautslandið (heimsálfa)
@@ -662,6 +663,7 @@ Azerbaijani n. Aseri, Aserbaísjani; l. aserbaísjanskur
 Bahamas nft. Bahamaeyjar
 Bahrain n. Barein
 Bangladesh n. Bangladess
+Bangladeshi l. bangladesskur; n. Bangladessi
 Barbados n. Barbados
 Belarus n. Hvíta-Rússland, Belarús
 Belarussia n. Hvíta-Rússland, Belarús
@@ -669,24 +671,30 @@ Belarussian l. hvítrússneskur; n. Hvítrússi; hvítrússneska (tungumál)
 Belorussian l. sjá %[Belarussian]%
 Belize n. Belís
 Benin n. Benín
+Beninese l. benínskur; n. Beníni
 Bermuda n. Bermúdaeyjar
 Bhutan n. Bútan
 Bolivia n. Bólivía
+Bolivian l. bólivískur; n. Bólivíumaður
 Bosnia n. Bosnía
 Herzegovina n. Hersegóvína
 Botswana n. Botsvana
 Botswanan l. botsvanskur; n. Botsvanamaður
 Brunei n. Brúnei
+Bruneian l. brúneiskur; n. Brúneimaður
 Bulgaria n. Búlgaría
 Bulgarian l. búlgarskur, frá Búlgaríu; n. Búlgari, Búlgaríumaður; búlgarska
 Burkina Faso n. Búrkína Fasó
 Burundi n. Búrúndí
+Burundian l. búrúndískur; n. Búrúndi
 Cambodia n. Kambódía
 Cambodian l. kambódískur; n. Kambódíumaður; kambódíska, kmeríska (tungumál)
 Cameroon n. Kamerún
+Cameroonian l. kamerúnskur; n. Kamerúni
 Canada n. Kanada
 Canadian l. kanadískur, frá Kanada; n. Kanadamaður
 Cape Verde n. Grænhöfðaeyjar
+Cape Verdean l. grænhöfðeyskur; n. Grænhöfðeyingur
 Cayman Islands nft. Cayman-eyjar
 Central African Republic n. Mið-Afríkulýðveldið
 Chad n. Tsjad
@@ -696,6 +704,8 @@ Christmas Island n. Jólaey
 Colombia n. Kólumbía
 Colombian l. kólumbískur; n. Kólumbíumaður, Kólumbíubúi
 Comoros nft. Kómoreyjar
+Comoran l. kómorskur, frá Kómoreyjum; n. Kómori
+Comorian l. kómorskur, frá Kómoreyjum; n. Kómori
 Congo n. Kongó
 Costa Rica n. Kosta Ríka
 Costa Rican l. kostarískur; n. Kosta Ríka-maður
@@ -712,6 +722,7 @@ Djibouti n. Djíbútí
 Dominica n. Dóminíka
 Dominican Republic n. Dóminíska lýðveldið
 Ecuador n. Ekvador
+Ecuadorian l. ekvadorskur; n. Ekvadori
 Egypt n. Egyptaland
 Equatorial Guinea n. Miðbaugs-Gínea
 Eritrea n. Erítrea
@@ -724,7 +735,8 @@ Falklands nft. Falklandseyjar
 Faroe Islands nft. Færeyjar
 Faroes nft. Færeyjar ([the ~])
 Faroese l. færeyskur, úr Færeyjum; n. Færeyingur; færeyska (tungumál)
-Fiji n. Fídjíeyjar
+Fiji n. Fídjíeyjar, Fídjí
+Fijian l. fídjískur; n. Fídji; fídjíska
 Finland n. Finnland
 Finn n. Finni
 France n. Frakkland
@@ -738,6 +750,7 @@ Georgia n. Georgía
 Georgian l. georgískur (frá landinu Georgíu); georgískur (arkítektúr í Bretlandi á 18. öld og fyrri hluta 19. aldar, kennt við konunga þess tíma); n. Georgíumaður; georgíska
 Germany n. Þýskaland
 Ghana n. Gana
+Ghanaian l. ganverskur; n. Ganverji
 Gibraltar n. Gíbraltar
 Greenland n. Grænland
 Guadeloupe n. Gvadelúpeyjar
@@ -746,8 +759,10 @@ Guatemala n. Gvatemala
 Guinea n. Gínea
 Guinea-Bissau n. Gínea-Bissaú
 Guyana n. Gvæjana
+Guyanese l. gvæjanskur; n. Gvæjanamaður
 Haiti n. Haítí
 Honduras n. Hondúras
+Honduran l. hondúrskur; n. Hondúri
 Indonesia n. Indónesía
 Indonesian l. indónesískur; n. Indónesi
 Iran n. Íran
@@ -764,6 +779,7 @@ Jordan n. Jórdanía
 Jordanian l. jórdanskur; n. Jórdani
 Kazakhstan n. Kasakstan
 Kazakh l. kasakskur; n. Kasaki
+Kazakhstani l. kasakskur; n. Kasaki
 Kenya n. Kenía
 Kenyan l. kenískur; n. Keníumaður
 Kiribati n. Kíribatí
@@ -788,6 +804,7 @@ Luxembourgish n. lúxemborgska
 Macedonia n. Makedónía
 Macedonian l. makedónskur; n. Makedóni; makedónska
 Malawi n. Malaví
+Malawian l. malavískur; n. Malavi
 Malaysia n. Malasía
 Malaysian l. malasískur; n. Malasi
 Malay l. malasískur; n. Malasi; malasíska
@@ -795,6 +812,7 @@ Malayan l. malasískur; n. Malasi; malasíska
 Maldives nft. Maldíveyjar
 Maldivian l. maldívskur; n. Maldívi
 Mali n. Malí
+Malian l. malískur; n. Malímaður
 Malta n. Malta
 Maltese l. maltneskur, maltverskur; n. Maltverji, Möltumaður; maltneska
 Marshall Islands nft. Marshalleyjar
@@ -812,6 +830,7 @@ Moldavia n. Moldóva
 Moldovan l. moldóvskur; n. Moldóvi
 Moldavian l. moldóvskur; n. Moldóvi
 Monaco n. Mónakó
+Monacan l. mónakóskur; n. Mónakómaður
 Mongolia n. Mongólía
 Montenegro n. Svartfjallaland
 Montenegrin n. Svartfellingur; svartfellska; l. svartfellskur
@@ -825,7 +844,8 @@ Burma n. Búrma
 Burmese l. búrmanskur
 Namibia n. Namibía
 Namibian l. namibískur; n. Namibíumaður
-Nauru n. Nárú
+Nauru n. Naúrú
+Nauruan l. naúrúskur; n. Naúrúi
 Nepal n. Nepal
 Nepalese l. nepalskur; n. Nepali; nepalska
 Nepali l. nepalskur; n. nepalska
@@ -845,10 +865,12 @@ North Macedonia n. Norður-Makedónía
 Oman n. Óman
 Pakistan n. Pakistan
 Pakistani l. pakistanskur; n. Pakistani
-Palau n. Palá
+Palau n. Palaú
+Palauan l. palaúskur; n. Palaúi
 Palestine n. Palestína
 Palestinian l. palestínskur, frá Palestínu; n. Palestínumaður
 Panama n. Panama
+Panamanian l. panamskur; n. Panamamaður
 Papua New Guinea n. Papúa Nýja-Gínea
 Paraguay n. Paragvæ
 Paraguayan l. paragvæskur; n. Paragvæi
@@ -860,11 +882,13 @@ Filipina n. Filippseyjakona
 Portugal n. Portúgal
 Puerto Rico n. Púertó Ríkó
 Qatar n. Katar
+Qatari l. katarskur; n. Katari
 Romania n. Rúmenía
 Romanian l. rúmenskur, frá Rúmeníu; n. Rúmeni; rúmenska
 Russia n. Rússland
 Rwanda n. Rúanda
 Samoa n. Samóa
+Samoan l. samóskur; n. Samóamaður
 San Marino n. San Marínó
 Saudi Arabia n. Sádi-Arabía
 Saudi Arabian l. sádiarabískur; n. Sádi-Arabi
@@ -917,6 +941,7 @@ Turkmenistan n. Túrkmenistan
 Turkmenistani n. Túrkmeni
 Turkmen n. túrkmenska; Túrkmeni; l. túrkmenskur
 Tuvalu n. Túvalú
+Tuvaluan l. túvalúskur; n. Túvalúi
 Uganda n. Úganda
 Ukraine n. Úkraína
 Ukrainian l. úkraínskur; n. Úkraínumaður; úkraínska
@@ -929,8 +954,10 @@ Uruguay n. Úrúgvæ
 Uruguayan l. úrúgvæskur; n. Úrúgvæi
 Uzbekistan n. Úsbekistan
 Uzbek l. úsbekskur; n. Úsbeki; úsbekska (tungumál)
+Uzbekistani l. úsbekskur
 Vanuatu n. Vanúatú
 Vatican n. Vatíkanið í Róm
+Vatican City n. borgríkið Vatíkanið í Róm
 Venezuela n. Venesúela
 Venezuelan l. venesúelskur; n. Venesúelabúi, Venesúelamaður
 Vietnam n. Víetnam
@@ -1500,7 +1527,9 @@ Polynesia n. Pólýnesía (eyjaklasi í Kyrrahafi)
 Polynesian l. pólýnesískur
 Caribbean l. Karíbahafs-, karíbskur; n. karíbskur maður; [the ~] Karíbahaf
 ukulele n. úkulele, smágítar (strengjahljóðfæri)
-Lombardy n. Langbarðaland
+Lombardy n. Langbarðaland (á Ítalíu)
+Tuscany n. Toskanahérað (á Ítalíu)
+Tuscan l. toskanskur; n. Toskani (sjá %[Tuscany]%)
 Kiev n. Kænugarður (borg í Úkraínu)
 Kyiv n. Kænugarður (borg í Úkraínu)
 Constantinople n. Mikligarður, Konstantínópel (í dag tyrkneska borgin Istanbúl)
@@ -1741,9 +1770,10 @@ antihistamine n. ofnæmislyf
 overdosage n. ofskömmtun
 overpayment n. ofgreiðsla
 resistivity n. eðlisviðnám
-recursive l. endurkvæmur; [~ function] endurkvæmt fall
+recursive l. endurkvæmur (sjá %[recursion]%)
+recursive function n. endurkvæmt fall
 recursion n. endurkvæmni (sjá %[recursion]%)
-recursiveness n. endurkvæmni (sjá %[recursiveness]%)
+recursiveness n. endurkvæmni (sjá %[recursive]%)
 toxicodynamics n. eiturhrifafræði
 chilli n. chilipipar, eldpipar
 chili n. chilipipar, eldpipar
@@ -2409,6 +2439,7 @@ schoolmate n. skólafélagi, skólabróðir, skólasystir
 choirmaster n. kórstjóri
 ultranationalist n. öfgaþjóðernissinni
 ultranationalism n. öfgaþjóðernisstefna
+ultranationalistic l. öfgaþjóðernislegur, öfgaþjóðernisstefnulegur
 indivisibility n. ódeilanleiki
 subgroup n. undirhópur, undirflokkur
 hydrophobic l. vatnsfælinn, hræddur við vatn
@@ -2806,7 +2837,7 @@ goon n. skúrkur, hrotti, fantur, kjáni
 gooner n. gónsjúk manneskja; manneskja haldin klámfíkn
 nightwatchman n. næturvörður
 patriarchical l. feðraveldis- (sjá %[patriarchy]%)
-mangrove n. fenjaviðarskógur, strandfenjasvæði
+mangrove n. fenjaviður, fenjaviðarskógur, fenjaviðarþykkni, strandfenjasvæði
 reliably ao. áreiðanlega
 centrifuge n. skilvinda
 chokehold n. kverkatak
@@ -4584,7 +4615,7 @@ realisation n. sjá %[realization]%
 wimp n. aumingi, ræfill
 wimpish l. aumingjalegur, ræfilslegur
 wimpy l. aumingjalegur, ræfilslegur
-violently ao. ákaflega, ofsalega, ruddalega; með ofbeldi, á ofbeldisfullan hátt
+violently ao. ákaflega, ofsalega, ruddalega; með ofbeldi, á ofbeldisfullan hátt, ofbeldislega
 epoxy n. epoxý; [~ resin] epoxý kvoði
 aggrieved l. móðgaður ([the ~ party])
 velure n. velúr (e.k. flauelsefni); l. velúrs-, úr velúr
@@ -4906,8 +4937,8 @@ innards nft. innyfli
 favorite n. sjá %[favourite]%
 burp s. ropa; n. rop
 wyrm n. ormur, lindormur, dreki
-qubit n. skammtabiti, kúbiti ([quantum bit])
-quantum bit n. skammtabiti, kúbiti ([qubit])
+qubit n. skammtabiti, kúbiti (sjá %[quantum bit]%)
+quantum bit n. skammtabiti, kúbiti (sjá %[qubit]%)
 happily ao. hamingjusamlega, glaðlega, lánsamlega
 conciseness n. gagnyrði, stuttyrði, sá eiginleiki að vera stuttorður (sjá %[concise]%)
 unskilfulness n. óhagleikni, vanfærni (sjá %[unskilful]%)
@@ -4936,6 +4967,7 @@ paleobotany n. plöntusteingervingafræði, forngrasafræði
 paleobotanist n. forngrasafræðingur, plöntusteingervingafræðingur
 plutocratic l. auðveldis-, auðvalds-, auðræðis- (sjá %[plutocracy]%)
 lollipop n. sleikipinni, sleikjó
+lolly n. sleikipinni, sleikjó (stytt. á %[lollipop]%)
 cuspidor n. hrákadallur
 shush uh. uss, suss, þegiðu; s. ussa, sussa
 nonlinear l. ólínulegur
@@ -5569,6 +5601,7 @@ Kosovan l. kósovóskur; n. Kósovói
 East Timor n. Austur-Tímor
 Cabo Verde n. Grænhöfðaeyjar
 Bosnian l. bosnískur; n. Bosníumaður
+El Salvador n. El Salvador
 Salvadoran l. salvadorskur; n. Salvadori
 filtered l. síaður
 unfiltered l. ósíaður
@@ -6554,7 +6587,7 @@ Sardinia n. Sardinía (eyja í Miðjarðarhafi)
 Sardinian l. sardinískur; Sardiníubúi, Sardiníumaður; sardiníska
 illustrator n. myndskreytir, teiknari
 Beowulf n. Bjólfskviða (fornenskt miðaldakvæði); Bjólfur
-spermatogonia nft. sáðstofnfrumur (sjá %[spermatogonia]%)
+spermatogonia nft. sáðstofnfrumur (sjá %[spermatogonium]%)
 spermatogonium n. sáðstofnfruma
 soapbox n. ræðustóll, predikunarstóll
 peafowl nft. páfuglar
@@ -6904,7 +6937,7 @@ viewpoint n. sjónarmið, sjónarhóll, viðhorf, skoðun
 motorist n. ökumaður, bílstjóri
 goggles nft. hlífðargleraugu; [swimming ~] sundgleraugu
 retrospectively ao. lítandi aftur á við, eftir á að hyggja
-unpatriotic l. óþjóðrækinn, ekki þjóðernissinnaður, án ættjarðarástar
+unpatriotic l. óþjóðrækinn, án ættjarðarástar
 revisionism n. endurskoðunarstefna
 revisionist n. sá sem endurskoðar (söguleg málefni eða fyrri stefnu); l. endurskoðunar-, endurhugsunar-
 foolishness n. fásinna, fávísi, heimska, kjánaskapur
@@ -7958,6 +7991,8 @@ bragger n. gortari, montari, montrass, monthani
 bouillon n. kjötkraftur, kjötseyði
 cosmetics nft. snyrtivörur, förðunarvörur
 Grenada n. Grenada
+Grenadan l. grenadískur; n. Grenadamaður
+Grenadian l. grenadískur; n. Grenadamaður
 diskette n. disklingur, disketta, diskur
 Numidia n. Númidía (fornt konungsríki í Norður-Afríku)
 Serbo-Croatian n. serbó-króatíska (tungumál)
@@ -8035,7 +8070,7 @@ diaphysis n. beinskaft
 turncock n. krani; vatnshani
 sylphlike l. eins og loftdís (sjá %[sylph]%)
 slenderize s. grenna, mjókka; minnka
-malignment n. ófræging, ræging
+malignment n. ófræging, ræging, ill umfjöllun
 equalise s. sjá %[equalize]%
 comparability n. sambærileiki
 endeavor s. sjá %[endeavour]%
@@ -8449,8 +8484,75 @@ grad n. sá sem hefur tekið háskólapróf, kandídat (stytt. á %[graduate]%)
 symbolise s. sjá %[symbolize]%
 hobo n. útigangsmaður, heimilisleysingi, flækingur, umrenningur
 unobtainable l. ófáanlegur, sem ekki er hægt að fá, óreddanlegur
+unobtainably ao. ófáanlega
 cataphasia n. þrámæli
 dept n. deild (stytt. á %[department]%)
 drumfish n. baulfiskur
 ruefully ao. hryggilega, raunalega, sorglega
 tin soldier n. tindáti
+slutty l. gálulegur, druslulegur, druslu-, dækjulegur; lauslátur, lauslætislegur
+tendonitis n. sinarbólga
+tendinitis n. sinarbólga
+starving l. sveltandi; hungurmorða; mjög svangur; sjá %[starve]%
+isosceles l. jafnarma
+depressing l. niðurdrepandi, þunglyndislegur (sjá %[depress]%)
+aspirate s. soga eða draga út (loft eða vökva); bera fram orð með fráblæstri eða aðblæstri
+pudgy s. feitur, holdugur (og lágvaxinn, lítill í vexti)
+heartsease n. þrenningarfjóla (jurt)
+hatful n. hattfylli
+gelded l. geldur, geltur, vanaður
+foreshorten s. stytta; fjarstytta (sjónrænt séð)
+optical character recognition n. ljóskennsl (stafa), ljóslestur (yfirleitt skammstafað %[OCR]%)
+OCR n. stytt. á %[optical character recognition]%
+cadetship n. herskólanám, liðsforingjanám; lögreglunám
+scabies nft. maurakláði
+arms race n. vopnakapphlaup
+conflate s. rugla saman, blanda saman, fella saman, ræma saman
+compendia nft. sjá %[compendium]%
+emasculated l. gerður ókarlmannlegur; gerður kveifarlegur; geldur, vanaður; sem búið er að draga kraftinn úr
+emasculating l. sem gerir e-ð ókarlmannlegt eða kveifarlegt; sem dregur kraftinn úr
+emasculatory l. sem dregur úr karlmennsku eða krafti
+cornetist n. lúðurleikari, lúðurþeytari (sjá %[cornet]%)
+automobile horn n. bílflauta
+cafetiere n. sjá %[cafetière]%
+cafetière n. frönsk pressa (úr frönsku)
+French press n. frönsk pressa (kaffigerðarvél, sjá einnig %[cafetière]%)
+coffee berry n. kaffiber
+coffee tree n. kaffitré
+hot chocolate n. heitt kakó, heitt súkkulaði, heitur súkkulaðidrykkur (sjá %[chocolate]%)
+French horn n. franskt horn (blásturshljóðfæri)
+senescence n. elli; öldrun
+ageing n. öldrun
+aging n. öldrun (BNA)
+agedness n. elli, öldrun
+slaw n. sjá %[coleslaw]%
+Ivory Coast n. Fílabeinsströndin
+Saint Lucia n. Sankti Lúsía (eyríki í Karíbahafi)
+Punic Wars nft. púnversku stríðin (stríð milli Rómar og Karþagó í fornöld)
+halal n. halal-slátrun (slátrunaraðferð múslíma)
+preverbal l. á undan sögn (í málfræði); á undan máltökuskeiði (barns)
+stigmatise s. sjá %[stigmatize]%
+Deutschmark n. þýskt mark (þýskur gjaldmiðill fyrir upptöku Evrunnar)
+disheveled l. sjá %[dishevelled]%
+dishevel s. gera óreglulegt, rugla
+own goal n. sjálfsmark (í íþróttum)
+jackhammer n. loftbor
+augmented l. aukinn; fjölgaður; stækkaður (sjá %[augment]%)
+karma n. karma (málagjöld eða hringrás afleiðinga í indverskum trúarbrögðum)
+self-awareness n. sjálfsvitund
+aloofness n. fálæti, fjarlægð (í samskiptum)
+outspokenness n. beryrði, einyrði, djarfmælska, djarfmælgi
+loyally ao. tryggilega, dyggilega (sjá %[loyal]%)
+risotto n. rísottó (ítalskur hrísgrjónaréttur)
+bifocal l. með tvískiptu gleri
+formlessness n. formleysi
+amputee n. manneskja sem hefur verið aflimuð (sjá %[amputate]%)
+pretrial l. fyrir réttarhöld, á undan réttarhöldum ([~ hearing, motion])
+Farsi n. farsí, persneska, íranska (tungumál)
+butcherly l. slátrara-; manndrápara- (sjá %[butcher]%)
+well-chosen l. vel valinn
+bellicoseness n. sjá %[bellicosity]%
+fledgeling n. sjá %[fledgling]%
+upchuck n. æla, gubb; s. æla, kasta upp, spýja, gubba
+laid-back l. afslappaður
+verisimilitudinous l. sennilegur; sannlíkur; líklegur

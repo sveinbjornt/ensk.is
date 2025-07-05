@@ -747,8 +747,8 @@ severance n. aðskilnaður
 several l. aðskilinn, sérskilinn; einstakur ([each ~ thing]); nokkrir, ýmsir
 severally ao. sérstaklega; hver í sínu lagi
 severe l. strangur, harður; þungbær; mikill, ákafur ([~ pain]); alvarlegur
-severely ao. stranglega
-severity n. strangleiki; harka ([the ~ of the climate]); ákafi
+severely ao. stranglega; harkalega; alvarlega
+severity n. strangleiki; harka ([the ~ of the climate]); ákafi; alvarleiki
 sew s. sauma; [~ up] sauma saman, sauma fyrir
 sewage n. skólp, for í ræsum
 sewer n. holræsi, forarræsi, lokræsi (í borgum)
@@ -2073,7 +2073,7 @@ squib n. hvelleldur; níðrit, háðrit; s. snarka; skensa, sneiða
 squid n. smokkfiskur, kolkrabbi
 squill n. strandlaukur (læknisjurt); dýr af krabbakyni
 squinny l. grannur, mjór
-squint l. rangeygður; s. vera rangeygður; gjóta augunum; n. rangeygð; hornauga
+squint s. gjóta augunum; vera rangeygður; n. hornauga; rangeygð; l. rangeygður
 squint-eyed l. rangeygður
 squire n. riddarasveinn; óðalsbóndi; s. fylgja (sem verndari); [~ a lady] fylgja hefðarkonu
 squirm s. engjast, engja sig (eins og ormur eða áll)
@@ -3144,13 +3144,13 @@ synonymous l. sömu merkingar ([with])
 synonymy n. samheiti, sammerking
 synopsis n. yfirlit, ágrip
 synoptical l. ágripslegur, yfirlitslegur
-syntax n. orðskipunarfræði, málsgreinafræði
+syntax n. orðskipunarfræði, málsgreinafræði, setningafræði, setningabygging, málskipan
 synthesis n. samtenging, samsetning; gerving; [speech ~] talgerving
 synthetic l. samtengjandi, samtengt, samþættandi; tilbúinn; gervi- ([~ materials] gerviefni)
 Syriac l. sýrlenskur; n. sýrlenska, einkum fornsýrlenska
 syringe n. sprauta, lítil handsprauta; stólpípa; s. sprauta inn í
-system n. kerfi; fræðikerfi; vísindaleg niðurröðun; fyrirkomulag
-systematic l. skipulegur; kerfisbundinn; kerfislegur; niðurraðaður eftir vísindalegum reglum
-systematical l. kerfisbundinn; kerfislegur; niðurraðaður eftir vísindalegum reglum
-systematize s. koma kerfi á; skipa í vísindalegt kerfi
+system n. kerfi; fræðikerfi; (vísindaleg) niðurröðun; fyrirkomulag
+systematic l. skipulegur; kerfisbundinn; kerfislegur; niðurraðaður eftir (vísindalegum) reglum
+systematical l. kerfisbundinn; kerfislegur; niðurraðaður eftir (vísindalegum) reglum
+systematize s. koma kerfi á, kerfisvæða; skipa í (vísindalegt) kerfi
 systole n. samstöfustytting; samdráttur hjartans

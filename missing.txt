@@ -1369,7 +1369,6 @@ cubbyhole
 honorarium
 absurdist
 commercialism
-conflate
 riotousness
 daftness
 holdover
@@ -1389,7 +1388,6 @@ indigenization
 self-assurance
 turnaround
 demo
-karma
 locale
 deluxe
 techno
@@ -1424,7 +1422,6 @@ thoroughness
 unlovable
 reset
 buzzer
-self-awareness
 escapist
 earhole
 subtext
@@ -1552,7 +1549,6 @@ communicator
 differentiator
 relational
 transactional
-aloofness
 hype
 bedside
 whimsy
@@ -1583,7 +1579,6 @@ afresh
 parodic
 juvenilia
 Napoleonic
-outspokenness
 complementarity
 extra-territorial
 dramatization
@@ -2542,7 +2537,6 @@ toneless
 rimless
 epaulet
 conscienceless
-bifocal
 billiard
 containable
 doyenne
@@ -2558,7 +2552,6 @@ cupid
 Victorianism
 aplomb
 entente
-formlessness
 unplayable
 premiere
 panjandrum
@@ -2598,7 +2591,6 @@ foolproof
 quiggle
 postulator
 monsignor
-amputee
 unctuousness
 catchment
 individualization
@@ -2637,7 +2629,6 @@ symbolically
 bankroll
 whodunit
 intentionally
-pretrial
 heavy-set
 ballyhoo
 directorial
@@ -3373,7 +3364,6 @@ punctuated
 personified
 flippantly
 effortful
-dishevel
 snooty
 snootiness
 casuistic
@@ -3767,6 +3757,7 @@ sodomize
 condescending (endurskoða)
 condescendingly
 self-effacing
+outflank (endurskoða)
 outflanked
 vigilantly
 cheapening
@@ -3778,10 +3769,10 @@ charred
 tasselled
 measured
 unmeasured
-loyally
 dispassionately
 sullenly
 overheard
+Bonapartism
 Bonapartist
 providentially
 halfpence
@@ -3798,8 +3789,8 @@ keelboat
 smasher
 lipid
 calendula
+heteronymous
 heteronomous
-risotto
 blither
 blithering
 triglyph
@@ -3836,6 +3827,7 @@ unappealing
 sponge off (endurskoða sponge)
 sweatshop
 handwaving
+personalization
 depersonalization
 unperson
 deservingness
@@ -4041,7 +4033,6 @@ derived
 entrecôte
 broderie
 mortifying (endurskoða)
-jackhammer
 pyrosis
 pincer (endurskoða)
 augmentive
@@ -4050,7 +4041,6 @@ restocking
 restocked
 squad (endurskoða)
 squadron (endurskoða)
-augmented
 abducted
 kidnapped
 chug (endurskoða)
@@ -5084,7 +5074,6 @@ deshittify
 eschewed
 challenging
 felix
-butcherly
 cornelian
 vitriol (endurskoða)
 vitriolic (endurskoða)
@@ -5357,8 +5346,6 @@ dousing
 staged (endurskoða)
 seedy (endurskoða)
 stalwart (endurskoða)
-emasculated
-emasculating
 pansy (endurskoða)
 conformance
 compliancy
@@ -5546,7 +5533,6 @@ spall
 waterbottle
 anodize
 plunker
-verisimilitudinous
 lumine
 astronautics
 alumna
@@ -5578,16 +5564,12 @@ ingeniously
 ampoule
 initialization
 initialisation
-cold-shoulder
 cold shoulder
 weakened
-foreshorten
-gelded
 mown
 slashed
 stinger
 thinned
-undercut
 trimmed
 untrimmed
 sideslip
@@ -5595,5 +5577,65 @@ muckle
 passel
 slew (endurskoða)
 constellate
-hatful
 prom
+mosey
+moseying
+amble (endurskoða)
+quietness (endurskoða)
+bahookie
+disavowed
+gnawed
+avowedly (endurskoða)
+acquisition (endurskoða)
+steeped
+dominating
+sententiousness
+credence (endurskoða)
+credentials (endurskoða)
+lycium
+anthropobiology
+antitypical
+antitype
+permanent (endurskoða - hárgreiðsla)
+buccinator
+pudge
+benjamins
+ordoliberal
+ordoliberalism
+social democracy
+social democrat
+patsy
+bull's eye
+bell ringer
+fall guy
+crisscross
+marking
+frowzled
+rumpled
+tousled
+scuff
+retarding
+fecundator
+aerobic
+undulating
+enation
+romanticist
+wild-eyed
+amative
+battleful
+gladiola
+moxie
+guts
+gutsy
+ballsy
+fledgling (endurskoða)
+catechumen
+contemptibility
+despicability
+despicableness
+eyry
+mellowed
+ascesis
+coarctation
+kudos
+squinty

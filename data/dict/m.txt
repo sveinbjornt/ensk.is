@@ -39,8 +39,8 @@ magistracy n. yfirvöld, valdsmenn
 magistral l. [the ~ staff (of a school)] kennaralið
 magistrate n. yfirvald; dómari
 magistrature n. embætti; yfirvöld, valdsmenn
-magnanimity n. göfuglyndi, örlæti
-magnanimous l. göfuglyndur, göfugur, örlátur
+magnanimity n. göfuglyndi, örlæti, mikillæti
+magnanimous l. göfuglyndur, göfugur, örlátur, mikillátur
 magnate n. stórhöfðingi; jöfur
 magnesia n. beiskjusalt, magnesíum oxíð
 magnesium n. magnesíum (frumefnið Mg, 12 í lotukerfinu)
@@ -54,7 +54,7 @@ magnific l. stórkostlegur (forn.)
 magnification n. stækkun; vegsömun
 magnificence n. mikilfengi; skraut; örlæti; rausn
 magnificent l. mikilfenglegur, stórkostlegur; skrautlegur, glæsilegur; örlátur
-magnifier n. stækkunargler; skrumari
+magnifier n. stækkunargler; skrumari; magnari
 magnify s. stækka; mikla, gera of mikið úr, ýkja; lofa, vegsama, upphefja
 magniloquence n. gort, raup; gífurmæli
 magniloquent l. raupsamur; gífurmæltur
@@ -118,20 +118,20 @@ malcontented l. óánægður
 malcontentedness n. óánægja
 male l. karllegur; [a ~ child] sveinbarn; n. karldýr; karlmaður
 malediction n. bölvun; formæling
-malefactor n. illgjörðamaður, illræðismaður, illvirki, e-r sem fremur illan verknað
-malefic l. skaðlegur, skaðsamur
-maleficence n. skaðvæni
-maleficent l. skaðlegur, skaðsamur (e-m [to])
+malefactor n. illgjörðamaður, illræðismaður, illvirkismaður, e-r sem fremur illan verknað
+malefic l. skaðlegur, skaðsamur; illgjörðar-, illvirkis-
+maleficence n. skaðvæni; illgerning, illvirki
+maleficent l. skaðlegur, skaðsamur (e-m [to]); illgerningar-, illvirkis-
 malevolence n. illvilji, illgirni, illur vilji
 malevolent l. illviljaður, illgjarn
-malfeasance n. afbrot, afglöp eða brot í embættisrekstri
-malfeasant n. afbrotamaður, brotlegur í embætti
+malfeasance n. afbrot; afglöp eða brot í embættisrekstri
+malfeasant n. afbrotamaður; l. brotlegur í embætti
 malformation n. afmyndun, vansköpun, vanskapnaður
-malice n. illgirni; keskni; fjandskapur, hatur, óvildarhugur ([bear ~ towards])
-malicious l. illgjarn
-maliciousness n. illgirni, illska
+malice n. illgirni, fjandskapur, hatur, óvildarhugur ([bear ~ towards])
+malicious l. illgjarn, fjandsamlegur, óvildar-
+maliciousness n. illgirni, illska, fjandsamlegheit, óvild
 malign l. illviljaður, illgjarn; skaðvænn; illkynjaður ([~ tumor]); s. rægja, tala illa um, ófrægja
-malignancy n. illska, illgirni; skaðvæni
+malignancy n. illska, illgirni, illur vilji; skaðvæni; illkyni
 malignant l. illgjarn; illkynjaður (um sjúkdóma), skæður
 maligner n. hatursmaður, óvildarmaður
 malignity n. illska, illgirni; skaðvæni
@@ -267,7 +267,7 @@ marasmic l. tæringar-
 marasmus n. tæring, uppdráttarsýki; [~ senilis] ellihrumleiki
 maraud s. herja ([on, upon]); ræna (um hermenn)
 marauder n. ræningi
-marble n. marmari; marmarasmíði; marmaraplata með letri; marmarakúla (leikfang); s. gera dröfnótt og rákótt sem marmara; ráka ([~ a wainscot])
+marble n. marmari; marmarasmíði; marmaraplata með letri; marmarakúla (leikfang); s. gera dröfnóttam og rákóttam sem marmara; ráka ([~ a wainscot])
 marc n. vinberjahrat
 marcescent l. visnandi
 March n. marsmánuður
@@ -342,7 +342,7 @@ marvel n. undur, furða; s. undrast, furða sig (á e-u [at])
 marvellous l. furðulegur, undursamlegur, undraverður
 marvellously ao. furðanlega, undursamlega
 mascot n. lukkudýr; hlutur sem er til heilla
-masculine l. karlmannlegur; karlkyns ([~ gender]); [~ ending] sem endar á áhersluatkvæði
+masculine l. karlmannlegur, karla-; karlkyns ([~ gender]); [~ ending] sem endar á áhersluatkvæði
 masculinity n. karlmennska
 mash s. merja, mylja; hræra kurlað malt í heitu vatni; [~ed potatoes] kartöflustappa; [be ~ed on] vera ástfanginn af; n. kurlað malt í heitu vatni, hrosti; stappa; samsull, hrærigrautur
 mask n. gríma; yfirskin ([under the ~ of]); yfirdrepsskapur; [throw off the ~] hætta öllum yfirdrepsskap; s. draga grímu á andlit; dulbúa; láta grímu fyrir andlit sér; vera í dularklæðum
@@ -562,7 +562,7 @@ meliorism n. umbótastefna, sú kenning að heimurinn geti batnað fyrir tilstil
 melliferous l. sem framleiðir hunang
 mellifluent l. hunangssætur, sætur sem hunang
 mellifluous l. hunangssætur, sætur sem hunang
-mellow l. mjúkur, meyr; ljúfur, slakur, afslappaður; fullþroskaður (um ávexti); kenndur (af víni); s. gera mjúkt eða meyrt; veita fullþroska; mýkjast, meyrna; verða fullþroska
+mellow l. mjúkur, meyr; ljúfur, slakur, afslappaður; fullþroskaður (um ávexti); kenndur (af víni); s. gera mjúkan eða meyran; veita fullþroska; mýkjast, meyrna; verða fullþroska
 mellowness n. mýkt, mjúkleiki, meyrleiki; þroski
 melodious l. hljómfagur, melódískur
 melodize s. gera hljómfagurt; semja lag við
@@ -1389,7 +1389,7 @@ multiplicand n. margföldunarstofn
 multiplication n. margföldun
 multiplicity n. margvísleiki; fjöldi
 multiplier n. margfaldari
-multiply s. margfalda; auka margfaldast; fjölga, vaxa að tölu
+multiply s. margfalda; auka margfaldast; fjölga, vaxa að tölu; fjölga sér
 multitude n. fjöldi, mergð; hópur
 multitudinous l. margfaldur, margvíslegur
 multure n. mölun; mölunarlaun

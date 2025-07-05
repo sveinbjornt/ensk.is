@@ -653,14 +653,14 @@ rejuvenesce s. yngjast upp aftur
 rekindle s. kveikja upp aftur; kvikna (vakna) aftur
 relapse s. falla aftur; leggjast aftur (í e-ð illt); slá niður aftur; n. afturfall; [he had a ~ of his complaint] honum sló niður aftur, sjúkdómurinn tók sig upp aftur
 relate s. segja frá; setja í samband (við [to]), tengja; [~ to] eiga skylt við, snerta
-related l. skyldur, venslaður (e-m [to])
+related l. skyldur, venslaður, tengdur (e-m [to])
 relater n. frásögumaður
 relation n. frásaga, frásögn; tillit ([in ~ to]); samband ([~ of ruler and subject]); skyldleiki; frændi, frænka; [commercial ~s] verslunarviðskipti
 relationship n. samband; frændsemi, skyldleiki
 relative l. tilfærilegur, tilvísunar- ([~ pronoun]); háður; viðkomandi (e-u [to]); samanburðarlegur, tiltölulegur ([with ~ coolness]); hlutfallslegur; samsvarandi; [~ to] viðvíkjandi, um; n. ættingi; frændi; tilvísunarfornafn
 relativity n. samsvörun, tilsvörun
-relax s. slappa af, slaka á, lina á; draga úr; mýkja; hressa ([~ oneself]); linast, mýkjast; dofna
-relaxation n. linun, mýking; hlé; undanlát; afslöppun, hvíld, hressing
+relax s. slappa af, slaka á, lina á; draga úr; mýkja, lina; mýkjast, linast; dofna
+relaxation n. afslöppun, hvíld; linun, mýking; hlé; undanlát
 relay n. nýir hestar, sem hafðir eru viðbúnir til skipta; leggja aftur; s. setja (aðra hesta, menn) í staðinn; senda áfram
 release s. láta lausan; láta af (t.d. rétti sínum), sleppa; leysa e-n undan e-u, losa við e-ð ([~ one from]); n. lausn; léttir ([to me it would be a great ~ to]); kvittunarseðill, kvittun; uppgjöf (réttarkröfu)
 releasement n. lausn
@@ -1014,9 +1014,9 @@ resumption n. afturtekning
 resumptive l. endurtakandi
 resupine l. liggjandi á bakinu
 resurge s. rísa upp aftur
-resurrect s. reisa (rísa) upp (frá dauðum)
-resurrection n. upprisa (frá dauðum)
-resurrectionize s. vekja upp, leiða í ljós aftur
+resurrect s. reisa (rísa) upp (frá dauðum); endurvekja
+resurrection n. upprisa (frá dauðum); endurvakning
+resurrectionize s. vekja upp á ný, leiða í ljós aftur
 resurvey s. skoða aftur; mæla upp aftur
 resuscitate s. endurlífga, lífga; lifna aftur
 resuscitation n. endurlífgun
@@ -1031,11 +1031,11 @@ retaliate s. endurgjalda (einkum illt með illu); gjalda líku líkt
 retaliation n. hefnd
 retaliative l. hefnandi, hefndar-
 retaliatory l. hefnandi, hefndar-
-retard s. seinka; skjóta á frest; aftra; n. seinkun; [be in the ~ of] standa á baki e-m
-retardation n. seinkun; tálmun
+retard s. seinka; skjóta á frest; aftra; n. seinkun; [be in the ~ of] standa á baki e-m; þroskaheft manneskja (óforml.)
+retardation n. seinkun; tálmun; þroskahefting
 retardative l. seinkandi, hægjandi á, haldandi aftur
 retardatory l. seinkandi, hægjandi á, haldandi aftur
-retardment n. seinkun; tálmun
+retardment n. seinkun; tálmun; þroskahefting
 retch s. ætla að selja upp; selja (kasta) upp
 retell s. endursegja
 retention n. afturhald; gæsla; minni; [~ of urine] þvagteppa

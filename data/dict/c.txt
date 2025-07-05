@@ -20,7 +20,7 @@ caddish l. ruddalegur, dónalegur
 cadaverous l. lík-, ná-; náfölur; [~ odour, smell] nálykt
 caddy n. tedós
 cadence n. hljóðfall, taktur
-cadet n. yngri sonur eða bróðir; herskólasveinn
+cadet n. herskólasveinn, kadett, liðsforingjanemi; lögreglunemi; yngri sonur eða bróðir
 cadger n. varningsmaður; götusali; beiningamaður
 cadi n. dómari (hjá Tyrkjum og Aröbum)
 caecum n. botnlangi
@@ -276,7 +276,7 @@ carman n. vagnmaður
 Carmelite n. Karmelmunkur ([~ friar])
 carmine n. fagurrauður litur; l. fagurrauður
 carnage n. mikil manndráp, víg, blóðbað
-carnal l. holdlegur
+carnal l. holdlegur, holds-
 carnality n. holdlegleiki
 carnalize s. gera holdlegt
 carnally ao. holdlega
@@ -899,7 +899,7 @@ circumspection n. gætni, varkárni, varúð
 circumspectly ao. með varúð
 circumstance n. ástæða; ástand; atvik; atriði; viðhöfn ([without ~]); ft. kringumstæður; efnahagur, efni ([in good, bad, easy, straitened ~s]); [the ~s of the case] málavextir
 circumstanced l. vel eða illa staddur
-circumstantial l. atvikslegur; kominn undir atvikum; óverulegur, tilviljunarlegur; margorður; nákvæmur; [~ evidence] sönnun, sem styðst við líkur
+circumstantial l. atvikslegur; kominn undir atvikum; óverulegur, tilviljunarlegur; margorður; nákvæmur; [~ evidence] sönnun sem styðst við líkur
 circumstantiality n. nákvæmni; málalengingar
 circumstantiate s. lýsa nákvæmlega
 circumvallation n. víggirðing
@@ -1500,14 +1500,14 @@ compear s. mæta fyrir rétti ([~ed a prisoner who declares])
 compeer n. jafningi; félagi
 compel s. neyða, knýja
 compellation n. ávarp; nafn, heiti
-compendious l. stuttur (um rit); kjarnyrtur
-compendiously ao. stuttlega, í fáum orðum
-compendium n. ágrip; handbók
-compensate s. bæta upp (einnig með [for])
+compendious l. stuttur, greinargóður (um rit); kjarnyrtur
+compendiously ao. stuttlega, í fáum orðum, ágripslega
+compendium n. ágrip, greinargott en yfirgripsmikið yfirlit; handbók
+compensate s. bæta upp (fyrir [for])
 compensation n. uppbót; bætur
 compensative l. sem bætir upp
 compensatory l. sem bætir upp
-compete s. keppa (um for)
+compete s. keppa (um [for])
 competence n. góð afkoma, góður efnahagur; hæfni, hæfileiki ([~ to do, ~ for a task]); vald, réttur; réttmæti
 competency n. góð afkoma, góður efnahagur; hæfni, hæfileiki ([~ to do, ~ for a task]); vald, réttur; réttmæti
 competent l. hæfur (til e-s [for]); hæfilegur; nægur; réttmætur, lögmætur; heimilaður
@@ -1718,9 +1718,9 @@ confinement n. takmörkun; innilokun; varðhald; barnsburður ([just recovered f
 confirm s. styrkja, staðfesta; ferma; [a ~ed drunkard] forhertur drykkjumaður
 confirmation n. styrking; staðfesting; ferming
 confirmatory l. styrkjandi
-confiscable l. uppnæmur
+confiscable l. uppnæmur, sem hægt er að gera upptækan (sjá %[confiscate]%)
 confiscate s. gera upptækt
-confiscation n. upptaka (fjár eða muna af ríkisins hálfu)
+confiscation n. upptaka (fjár eða muna, af hálfu yfirvalds)
 conflagrate s. fara að loga, fuðra upp; brenna (e-ð)
 conflagration n. bál, bruni, brenna
 conflation n. samræmi, samblöndun
@@ -1872,7 +1872,7 @@ consonance n. samræmi, samhljóðan
 consonant l. samkvæmur, samhljóða ([with, to]); n. samhljóði, samhljóðandi
 consort n. hjúskaparfélagi, eiginmaður, eiginkona; samferðaskip; s. samtengja; koma saman; hafa mök (við [with])
 conspectus n. yfirlit
-conspicuous l. auðkennilegur; auðséður; alkunnur; frægur; áberandi ([~ by its absence])
+conspicuous l. auðkennilegur; auðséður; alkunnur; frægur; áberandi ([~ by its absence]); eftirtektarverður
 conspicuousness n. augsýnileiki; frægð
 conspiracy n. samsæri
 conspirator n. samsærismaður, ráðagerðarmaður
@@ -1975,7 +1975,7 @@ contortion n. snúningur, skekking, skæling
 contour n. umdráttur (í dráttlist); rönd, brún
 contraband n. leyniverslun; bannvara, bannvarningur; l. bannaður, óleyfilegur; [~ goods] bannvörur
 contrabandist n. smyglari
-contract s. draga saman; þrengja; stytta; stofna, gera; fá; venja sig á, taka upp (sið); gera samning (um for); dragast saman; minnka; verða minni; mjókka; [~ marriage] ganga í hjónaband; [~ debts] komast í skuldir; [~ oneself out of] losast við e-ð með samningi; n. samningur
+contract s. draga saman; þrengja; stytta; stofna, gera; fá; venja sig á, taka upp (sið); gera samning (um [for]); dragast saman; minnka; verða minni; mjókka; [~ marriage] ganga í hjónaband; [~ debts] komast í skuldir; [~ oneself out of] losast við e-ð með samningi; n. samningur
 contractile l. sem má draga saman
 contraction n. samdráttur, stytting
 contractor n. verktaki, verksali, sá sem tekur að sér vinnu eða útlát eftir samningi

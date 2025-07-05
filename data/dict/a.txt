@@ -141,8 +141,8 @@ abstracted l. laus ([from]); utan við sig; þungskilinn
 abstractedly ao. út af fyrir sig
 abstractedness n. leiðsla
 abstraction n. þjófnaður; hugmynd; athugaleysi; leiðsla
-abstruse l. torskilinn, torskiljanlegur; leyndur
-abstruseness n. torskiljanleiki
+abstruse l. torskilinn, torskiljanlegur, torræðinn, tyrfinn; leyndur
+abstruseness n. torskiljanleiki, torræðni, tyrfni
 absurd l. fjarstæður; hlægilegur; absúrd
 absurdity n. fjarstæða, fásinna, heimska
 absurdness n. fjarstæða, fásinna, heimska
@@ -785,7 +785,7 @@ aloft ao. hátt upp (í); uppi í reiða
 alone l. aleinn, einn; [let (leave) ~] láta eiga sig, skipta sér ekki af ([let me ~]); ao. einungis
 along s. fram með, langs með, eftir; ao. áfram ([get ~]); [~ with] ásamt með; [all ~] alla leið, alltaf
 alongside ao. að eða við skipshlið; [~ of] við hliðina á, jafnhliða, hjá; fs. [~side of]
-aloof ao. í burtu, í fjarska; afsíðis ([stand, keep, hold ~]); á vindborða
+aloof ao. í burtu, í fjarska; afsíðis ([stand, keep, hold ~]) fálátur; á vindborða
 aloud ao. upphátt ([to read ~])
 alow ao. niðri; niður
 alpenstock n. broddstafur, fjallastafur, fjallgöngustafur
@@ -873,8 +873,8 @@ amenability n. ábyrgðarskylda
 amenable l. ábyrgur; [~ to counsel] ráðþægur
 amend s. leiðrétta; bæta; gera breytingartillögu við; batna
 amendable l. bætanlegur
-amendment n. leiðrétting; breytingartillaga ([move ~ on] bera upp breytingartillögu við); umbót; endurbót; bati
-amends nft. uppbót, skaðabætur
+amendment n. leiðrétting; breytingartillaga ([move ~ on] bera upp breytingartillögu við); umbót, endurbót, viðbót; bati
+amends nft. uppbót, skaðabætur; [make ~] bæta fyrir skaða
 amenity n. yndi, fegurð; blíða, blíðmæli
 amerce s. sekta; refsa ([~ one with])
 amercement n. sektun; fésekt

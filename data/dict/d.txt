@@ -478,7 +478,7 @@ demurrage n. biðdagar ([days on ~]); biðdagagjald, biðpeningar
 demurrer n. mótmæli
 demy n. lítið arkarbrot
 den n. gren, bæli (villidýra); [a ~ of robbers] ræningjabæli
-denationalize s. svipta (e-n) þjóðerni sínu; afmá úr þjóðinni: gera óþjóðlegt
+denationalize s. svipta (e-n) þjóðerni sínu; afmá úr þjóðinni: gera óþjóðlegan
 denaturalize s. svipta eðli sínu; svipta e-n þegnréttindum
 dendrology n. trjáfræði
 deniable l. sem hægt er að neita
@@ -1221,7 +1221,7 @@ dissector n. líkskeri
 dissemble s. hylja, leyna; hræsna, hafa yfirdrepskap í frammi
 dissembler n. hræsnari
 disseminate s. breiða út, dreifa
-dissemination n. útbreiðsla ([~ of knowledge])
+dissemination n. útbreiðsla ([~ of knowledge, propaganda])
 disseminator n. sá eða það, sem breiðir út
 dissension n. ágreiningur, sundurþykkja
 dissent s. vera ósamþykkur (e-m [from]); vera utan við þjóðkirkju; n. ágreiningur; andóf
