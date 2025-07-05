@@ -41,7 +41,7 @@ import re
 import time
 
 from dict import read_raw_pages, parse_line, read_all_words
-from util import read_wordlist
+from util import read_wordlist, read_json
 
 
 IS_WORDS_WHITELIST = read_wordlist("data/is.whitelist.txt")
@@ -278,6 +278,18 @@ def check_missing():
             print(f"Word in missing.txt is already in dictionary: {w}")
 
 
+def check_ipa_ignore_words():
+    """Check that all words in ipa_ignore.txt are present in the dictionary and UK IPA dictionary."""
+    ipa_ignore_words = read_wordlist("ipa_ignore.txt")
+    uk_ipa_dict = read_json("data/ipa/uk/en2ipa.json")
+
+    for word in ipa_ignore_words:
+        if word not in ALL_DICT_WORDS:
+            warn(f"Word '{word}' in ipa_ignore.txt is not present in the dictionary.", "ipa_ignore.txt", 0)
+        if word in uk_ipa_dict:
+            warn(f"Word '{word}' in ipa_ignore.txt IS present in the UK IPA dictionary. Remove it from ipa_ignore.txt.", "ipa_ignore.txt", 0)
+
+
 def main():
     r = read_raw_pages()
 
@@ -294,6 +306,7 @@ def main():
             # check_enword_def(line, letter, ln)
 
     check_missing()
+    check_ipa_ignore_words()
 
     exit(warnings > 0)
 
