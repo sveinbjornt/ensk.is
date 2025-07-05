@@ -22,7 +22,14 @@
     {% endif %}
 </h1>
 
+<!--googleoff: index-->
+
+{% if results[0].syllables %}
+<div class="syllables"><span class="">{{ results[0].syllables }}</span></div>
+{% endif %}
+
 <div class="ipa">
+
     <strong>UK:</strong>
     <a href="{{ results[0].audio_uk }}" onClick="return play(this);" title="Spila hljóðupptöku af framburði">
         <img src="/static/img/audio.svg">
@@ -42,11 +49,7 @@
     {% endif %}
 </div>
 
-<!-- {% for r in results %}
-<div class="result grid-container">
-    <p>{{ r.def|safe }}</p>
-</div>
-{% endfor %} -->
+<!--googleon: index-->
 
 <div class="item">
     {% for c in comp %}

@@ -27,7 +27,8 @@ h1 {
 
 h1.item_title {
     font-size: 1.6em;
-    margin-bottom: 10px;
+    margin-bottom: 0px;
+    font-weight: 500
 }
 
 h2 {
@@ -132,7 +133,11 @@ div.item ul {
 
 div.ipa {
     margin-bottom: 1.0em;
-    font-size: 0.95em;
+    font-size: 0.9em;
+}
+
+div.syllables {
+    font-size: 0.9em;
 }
 
 hr.separator {
