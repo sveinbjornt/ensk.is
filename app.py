@@ -84,6 +84,9 @@ class AddCustomHeaderMiddleware(BaseHTTPMiddleware):
         "connect-src": ["'self'", "https://scripts.simpleanalyticscdn.com"],
         "form-action": ["'self'"],
         "frame-ancestors": ["'none'"],
+        "frame-src": ["'none'"],
+        "upgrade-insecure-requests": "",
+        "base-uri": ["'none'"],
     }
 
     async def dispatch(self, request: Request, call_next):
