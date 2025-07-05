@@ -132,6 +132,10 @@ def _format_item(item: dict[str, Any]) -> dict[str, Any]:
     x = x.replace("[", "<em>")
     x = x.replace("]", "</em>")
 
+    # Only show syllables if they are different from the word itself
+    syll = item.get("syllables", "")
+    syllables = syll if len(syll) != len(w) else ""
+
     # Phonetic spelling
     ipa_uk = item.get("ipa_uk", "")
     ipa_us = item.get("ipa_us", "")
@@ -149,7 +153,7 @@ def _format_item(item: dict[str, Any]) -> dict[str, Any]:
     item = {
         "word": w,
         "def": x,
-        "syllables": item.get("syllables", ""),
+        "syllables": syllables,
         "ipa_uk": ipa_uk,
         "ipa_us": ipa_us,
         "audio_uk": audio_url_uk,
