@@ -49,13 +49,18 @@ import json as std_json
 
 import sqlite_utils
 
-from dict import read_pages, parse_line, page_for_word
+from dict import (
+    read_pages,
+    parse_line,
+    page_for_word,
+    syllables_for_word,
+)
 from db import EnskDatabase, DB_FILENAME
 from util import zip_file, read_json, silently_remove
 from info import PROJECT
 
 
-EntryType = tuple[str, str, str, str, int]
+EntryType = tuple[str, str, str, str, str, int]
 EntryList = list[EntryType]
 
 
@@ -113,10 +118,11 @@ def read_all_entries() -> EntryList:
         wd = parse_line(line)
         w = wd[0]
         definition = wd[1]
+        syll = syllables_for_word(w)
         ipa_uk = ipa4entry(w, lang="uk") or ""
         ipa_us = ipa4entry(w, lang="us") or ""
         pn = page_for_word(w)
-        entries.append(tuple([w, definition, ipa_uk, ipa_us, pn]))
+        entries.append(tuple([w, definition, syll, ipa_uk, ipa_us, pn]))
 
     entries.sort(key=lambda d: d[0].lower())  # Sort alphabetically by word
 
@@ -264,10 +270,11 @@ def generate_json(entries: EntryList) -> str:
 
     # Add each entry to the dictionary
     for entry in entries:
-        word, definition, ipa_uk, ipa_us, page_num = entry
+        word, definition, syllables, ipa_uk, ipa_us, page_num = entry
         entry_data = {
             "headword": word,
             "definition": definition,
+            "syllables": syllables,
             "pronunciation": {"ipa_uk": ipa_uk, "ipa_us": ipa_us},
             "metadata": {"original_page": page_num if page_num > 0 else None},
         }

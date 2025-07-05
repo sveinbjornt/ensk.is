@@ -83,6 +83,7 @@ class EnskDatabase(object):
                 id INTEGER UNIQUE PRIMARY KEY NOT NULL,
                 word TEXT,
                 definition TEXT,
+                syllables TEXT,
                 ipa_uk TEXT,
                 ipa_us TEXT,
                 page_num INTEGER
@@ -134,6 +135,7 @@ class EnskDatabase(object):
         self,
         w: str,
         definition: str,
+        syllables: str,
         ipa_uk: str,
         ipa_us: str,
         page_num: int,
@@ -142,8 +144,8 @@ class EnskDatabase(object):
         """Add a single entry to the dictionary."""
         conn = self.conn()
         conn.cursor().execute(
-            "INSERT INTO dictionary (word, definition, ipa_uk, ipa_us, page_num) VALUES (?,?,?,?,?)",
-            [w, definition, ipa_uk, ipa_us, page_num],
+            "INSERT INTO dictionary (word, definition, syllables, ipa_uk, ipa_us, page_num) VALUES (?,?,?,?,?,?)",
+            [w, definition, syllables, ipa_uk, ipa_us, page_num],
         )
         if commit:
             conn.commit()

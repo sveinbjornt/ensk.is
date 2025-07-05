@@ -148,6 +148,7 @@ def _format_item(item: dict[str, Any]) -> dict[str, Any]:
     item = {
         "word": w,
         "def": x,
+        "syllables": item.get("syllables", ""),
         "ipa_uk": ipa_uk,
         "ipa_us": ipa_us,
         "audio_uk": audio_url_uk,

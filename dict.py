@@ -39,13 +39,13 @@ Code to read and parse dictionary source files.
 
 import os
 from collections import defaultdict
+from typing import Any
 import orjson as json
 
 from util import read_wordlist
 
 
 CATEGORIES = read_wordlist("data/catwords.txt")
-
 
 TXT_SUFFIX = ".txt"
 
@@ -174,6 +174,64 @@ def page_for_word(w: str) -> int:
     return WORD_TO_PAGE.get(w, 0)
 
 
+WORD_TO_HYPHENATION = None
+
+
+def hyphenation_for_word(w: str) -> str:
+    """Look up the hyphenation for a given word in the dictionary."""
+    global WORD_TO_HYPHENATION
+    if not WORD_TO_HYPHENATION:
+        with open("data/hyph/hyphenations.json", "r") as file:
+            WORD_TO_HYPHENATION = json.loads(file.read())
+    return WORD_TO_HYPHENATION.get(w, "")
+
+
+SYLLABLES_SEPARATOR = "·"
+SYLLABLES_LOOKUP = None
+syllable_tokenizer = None
+
+
+def syllables_for_word(w: str) -> str:
+    """Tokenize a word into syllables."""
+    if not w:
+        return ""
+
+    # First, try to look up the word in the syllables lookup
+    global SYLLABLES_LOOKUP
+    if not SYLLABLES_LOOKUP:
+        with open("data/syllables/syllables.json", "r") as file:
+            SYLLABLES_LOOKUP = json.loads(file.read())
+
+    s = SYLLABLES_LOOKUP.get(w)
+    if s:
+        return s
+
+    # If the word is not found in the lookup, check if it's a multi-word
+    # phrase and look up each word separately
+    split_word = w.split()
+    if len(split_word) > 1:
+        syl4wds = [SYLLABLES_LOOKUP.get(s) for s in split_word]
+        if all(syl4wds):
+            return SYLLABLES_SEPARATOR.join(syl4wds)
+
+    # If not found, use the NLTK syllable tokenizer
+    from nltk.tokenize import SyllableTokenizer
+
+    global syllable_tokenizer
+    if not syllable_tokenizer:
+        syllable_tokenizer = SyllableTokenizer()
+
+    tokens = []
+    for subw in split_word:
+        t = syllable_tokenizer.tokenize(subw)
+        tokens.extend(t)
+
+    if not tokens:
+        return ""
+
+    return SYLLABLES_SEPARATOR.join(tokens)
+
+
 def synonyms_for_word(w: str) -> list[str]:
     """Look up synonyms for a given word in the dictionary."""
     if not w:
@@ -207,7 +265,7 @@ def synonyms_for_word(w: str) -> list[str]:
     return final
 
 
-def linked_synonyms_for_word(w: str, wordlist: list[str]) -> list[str]:
+def linked_synonyms_for_word(w: str, wordlist: list[str]) -> list[dict[str, Any]]:
     """Look up synonyms for a given word in the dictionary,
     and return them as a list of HTML links."""
     synonyms = synonyms_for_word(w)
