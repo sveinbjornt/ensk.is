@@ -49,7 +49,7 @@ CACHED_STATEMENTS = 1024
 CACHE_SIZE_KB = 1024 * 32  # 32 MB
 
 
-class EnskDatabase(object):
+class EnskDatabase:
     _instance = None
 
     def __init__(self, read_only: bool = False):
@@ -61,7 +61,7 @@ class EnskDatabase(object):
         """Singleton pattern."""
         if cls._instance is None:
             logging.info("Instantiating database")
-            cls._instance = super(EnskDatabase, cls).__new__(cls)
+            cls._instance = super().__new__(cls)
 
             basepath, _ = os.path.split(os.path.realpath(__file__))
             cls._dbpath = os.path.join(basepath, DB_FILENAME)
