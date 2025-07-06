@@ -523,7 +523,7 @@ hexameter n. sexfættur bragarháttur
 hexangular l. sexhyrndur
 hexapod n. sexfætt dýr, sexfætla
 hey uh. hey! hæ! (gleðióp)
-heyday uh. hæhæ! n. ofsakæti; blómi ([~ of youth, of life])
+heyday n. blómi ([~ of youth, of life]); ofsakæti (forn.)
 hiatus n. op; gap; samkoma tveggja hljóðstafa í tveimur samstöfum eða orðum
 hibernal l. vetrarlegur, vetrar-
 hibernate s. vera um vetur, hafa vetrarsetu; sofa vetrarsvefni, liggja í dái
@@ -906,7 +906,7 @@ huckleback n. herðakistill
 hucklebacked l. lotinn; sem hefur herðakistil
 huckster n. smásölukaupmaður, smásali, mangari; s. prútta; versla í smákaupum
 huckstery n. mangaraverslun; nft. smávarningur
-huddle s. hrúga (vöðla) saman (einnig [~ together, up]); fara í flýti yfir (e-t verk [over, through]); hroða (e-u) af ([up]); flykkjast, þyrpast; [~ on one's clothes] hypja sig í fötin; n. ruglingur, hrærigrautur; mannþröng
+huddle s. hrúga (vöðla) saman (einnig [~ together, up]); fara í flýti yfir (e-t verk [over, through]); hroða (e-u) af ([up]); flykkjast, þyrpast; n. ruglingur, hrærigrautur; mannþröng
 hue n. litur; blær; óp; [~ and cry] óp og köll (á eftir manni); s. lita
 huff s. reiðast (e-u [at]); blása upp ([~ up]); skamma (e-n); sýna e-m fyrirlitningu, óvirða; móðga; styggja; n. reiði, gremja; [to take ~ at] styggjast af e-u
 huffiness n. firtni
@@ -967,7 +967,7 @@ humus n. gróðurmold
 hunch s. ýta, hrinda; beygja í keng; n. þykk sneið; kryppa; herðakistill
 hunched l. kengboginn
 hunchback n. kroppinbakur
-hundred n. & l. hundrað
+hundred l. hundrað; n. hundrað
 hundredth l. hundraðasti
 hundredweight n. vætt (50.8 kg.)
 Hungarian l. ungverskur; n. Ungverji
@@ -995,7 +995,7 @@ hurly-burly n. hávaði, gauragangur, hark
 hurrah uh. húrra! s. hrópa húrra
 hurray uh. húrra! s. hrópa húrra
 hurricane n. hvirfilvindur, fellibylur; ofviðri
-hurry s. flýta, hraða; reka áfram; flýta sér; [~ on one's clothes] fara í fötin í flýti; n. hraði, flýtir, flaustur; [he was in a ~] það var asi á honum; [there is no ~] ekkert liggur á
+hurry s. flýta, hraða; reka áfram; flýta sér; n. hraði, flýtir, flaustur; [he was in a ~] það var asi á honum; [there is no ~] ekkert liggur á
 hurry-scurry ao. á ringulreið; eins og fætur toga; n. óðagot, flaustur; l. flausturs-; s. ana, þjóta ([~ away])
 hurst n. hæð, hóll; sandrif; eyri (í á)
 hurt s. meiða, skaða, særa; styggja; [I ~ my foot against a stone] ég rak fótinn í stein; n. skaði, sár, meiðsl

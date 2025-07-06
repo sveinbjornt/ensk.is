@@ -750,7 +750,6 @@ sigil
 Thrace
 Thracian
 macroclimate
-pediatrist
 Gaulish
 physiocratic
 physiocratism
@@ -1491,3 +1490,9 @@ verisimilitudinous
 icteric
 selch
 well-read
+cardiometabolic
+manticore
+homophile
+misfortunate
+overbold
+scolder

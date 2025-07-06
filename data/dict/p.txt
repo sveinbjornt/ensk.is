@@ -1127,7 +1127,7 @@ plaint n. kveinstafir, harmatölur; kæra
 plaintiff n. kærandi, sóknaraðili, ákærandi
 plaintive l. raunalegur, sorglegur
 plait n. hárflétta; felling; s. flétta; fella
-plan n. flataruppdráttur; áform, ráð, ráðagerð; s. draga upp, gera uppdrátt að e-u; áforma, leggja á ráð um; haga (e-u) til
+plan n. áætlun, áform, ráð, ráðagerði; flataruppdráttur; s. áforma, leggja á ráð um; draga upp, gera uppdrátt að e-u; haga (e-u) til
 planchet n. málmplata (til peningasláttu)
 plane n. flötur; slétta; hefill; hlynur; flugvél; l. flatur, jafn; s. slétta; hefla
 plane tree n. hlynur
@@ -1244,7 +1244,7 @@ ploughtail n. handfang (á plógi)
 ploughwright n. plógasmiður
 plover n. lóa; [golden ~] heiðlóa
 plovery l. auðugur af lóum
-plow n. & s. sjá %[plough]%
+plow n. sjá %[plough]%
 pluck s. rífa, kippa ([~ away, off, out]); plokka, reyta ([~ a bird]); tína; gera afturreka (frá prófi); [be ~ed] verða afturreka frá (prófi); [~ up one's courage, spirits, heart] herða upp hugann; n. slátur (hjarta, lifur og lungu úr skepnum); hugur, áræði, þor ([show your ~])
 plucky l. áræðinn, áræðisgóður, hugaður
 plug n. tappi; negla (í bát); s. setja tappa í; setja neglu í; troða í
@@ -1603,7 +1603,7 @@ poulterer n. hænsnasali, fuglasali
 poultice n. grautarbakstur; s. leggja bakstur við
 poultry n. hænsni, alifuglar
 pounce n. kló á ránfugli; skrifsandur; [be on the ~ to] vera reiðubúinn til að; s. ráðast á, steypa sér niður á, hremma ([~ upon, on, at])
-pound n. pund; gullpeningur (skammstafað £, t.d. £200); kví, rétt (sem óskilafé er látið í); s. mylja, merja; lemja, berja; ríða fast (óforml.); loka inni ([~ in]); [to ~ it] veðja pundum
+pound n. pund (þyngdarmælieining); pound (gjaldmiðill); breskt sterlingspund (£, sjá %[GBP]%); gullpeningur (skammstafað £, t.d. £200); kví, rétt (sem óskilafé er látið í); s. mylja, merja; lemja, berja; ríða fast (óforml.); loka inni ([~ in]); [to ~ it] veðja pundum
 poundage n. gjald af hverju pundi
 pounder n. mar; stautur; högg; dynur
 pour s. hella; skenkja; láta streyma; senda út; hella út ([~ out]); streyma, renna; [when it rains it ~s] sjaldan er ein báran stök; [it ~s with rain] það er húðarigning; n. straumur; demba ([~ of rain])

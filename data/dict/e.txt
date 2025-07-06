@@ -146,7 +146,7 @@ efficiency n. skilvirkni; nýtni; kraftur, framkvæmdarafl; afkast
 efficient l. skilvirkur; nýtinn; verkandi ([~ cause]); öflugur, duglegur ([~ workman])
 efficiently ao. með góðum árangri, á skilvirkan hátt
 effigy n. mynd; [to burn in ~] brenna ([in effigy]) mynd e-s honum til óvirðingar
-efflorescence n. blómgun, blómi; blómgunartími; útbrot á hörundi
+efflorescence n. blómgun, blómi; blómgunartími; útbrot (á hörundi)
 effluence n. útstreymi
 effluent l. útstreymandi; n. útstreymi
 effluvium n. útgufun; óþefur, ódaunn; ft. %[effluvia]%
@@ -311,14 +311,14 @@ emaciate s. megra
 emaciation n. megrun; megurð
 emanate s. streyma út; stafa, spretta (af e-u [from]); hafa upptök sín (hjá [from])
 emanation n. straumur (út frá e-u); útstreymi; geisli; afleiðing
-emancipate s. gera frjálsan, leysa (úr ófrelsi); losa
-emancipation n. lausn (úr ófrelsi og ánauð)
-emasculate s. gelda, vana; gera kveifarlegan; draga kraftinn úr; l. ókarlmannlegur
+emancipate s. gera frjálsan, leysa (úr ófrelsi eða ánauð), frelsa; losa
+emancipation n. lausn (úr ófrelsi og ánauð), frelsun
+emasculate s. gelda, vana; gera kveifarlegan; draga kraftinn úr; gera ókarlmannlegan; l. ókarlmannlegur
 emasculation n. gelding; hreinsun; kveifarskapur
 embale s. búa um vörur
-embalm s. smyrja (til að varna rotnun); varðveita e-ð frá gleymsku; fylla ilmi
-embalming n. smurning ([an odour of ~])
-embalmment n. smurning ([an odour of ~])
+embalm s. smyrja (til að varna rotnun); smyrja lík; varðveita e-ð frá gleymsku; fylla ilmi
+embalming n. smurning; líksmurning
+embalmment n. smurning; líksmurning
 embank s. hlaða upp árbakka; hlaða fyrir (vatn)
 embankment n. upphlaðinn árbakki; flóðgarður; garður (einkum, sem vegur eða járnbraut liggur á yfir/um dal)
 embargo n. siglingarbann; verslunarbann; hindrun; s. banna skipi að fara úr eða koma inn í höfn; kyrrsetja skip; leggja bann á verslun
@@ -327,7 +327,7 @@ embarkation n. flutningur (á skip); skipganga
 embarrass s. setja í vanda (vandræði); niðurlægja; skammast (sín); gera flókið eða örðugt, hindra
 embarrassed l. vandræðalegur; feiminn; flókinn; í kröggum
 embarrassment n. vandræðaleiki, vandræði; niðurlæging, skömm; feimni; kröggur; erfiðleiki
-embassy n. sendiför; sendisveit; sendiherrabústaður
+embassy n. sendiráð; sendiherrabústaður; sendiför; sendisveit
 embathe s. lauga, baða
 embattle s. fylkja (liði); víggirða; reisa vígturna á múr
 embay s. leggja (skipi) inn í fjörð; reka (skip) inn í flóa (um vind og straum); króa inni; inniloka
@@ -1062,7 +1062,7 @@ excellence n. ágæti, yfirburðir
 excellency n. virðingarávarp til stórhöfðingja, hágöfgi; ágæti
 excellent l. frábær, ágætur
 excellently ao. ágætlega
-except s. taka (skilja) undan; mótmæla (e-u [to/against]); fs. & st. nema
+except s. taka (skilja) undan; mótmæla (e-u [to/against]); st. nema; fs. nema
 excepting fs. nema
 exception n. undantekning; mótmæli (í lagamáli); [to make ~s to] mótmæla; [take ~ at/against] styggjast af
 exceptionable l. aðfinningaverður, hneykslanlegur; óvenjulegur

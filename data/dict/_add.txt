@@ -55,7 +55,7 @@ geophysicist n. jarðeðlisfræðingur
 geophysical l. jarðeðlisfræðilegur
 theoretical physics n. fræðileg eðlisfræði
 astronaut n. geimfari
-cosmonaut n. geimfari
+cosmonaut n. (rússneskur) geimfari
 jazz n. djass, djasstónlist
 faeces nft. saur, hægðir
 hillbilly n. sveitavargur, afdalamaður
@@ -135,7 +135,7 @@ milkshake n. mjólkurhristingur
 spacesuit n. geimbúningur, búningur geimfara
 televise s. sjónvarpa, senda út í sjónvarpi (sjá %[television]%)
 motorway n. hraðbraut, þjóðvegur
-katana n. katana (e.k. japanskt sverð)
+katana n. katana (japanskt sverð)
 animalistic l. dýrslegur
 cyanide n. blásýra
 hydrocyanic acid n. blásýra
@@ -177,9 +177,11 @@ methodologically ao. aðferðafræðilega
 movie n. kvikmynd, bíómynd (óforml.); [I'm going to the ~s] ég er farinn í bíó
 necessarily ao. nauðsynlega
 pediatrician n. barnalæknir
-pediatrist n. barnalæknir
+paediatrician n. barnalæknir
 pediatric l. barnalæknisfræðilegur, barnalækninga-
+paediatric l. barnalæknisfræðilegur, barnalækninga-
 pediatrics nft. barnalækningar, barnalæknisfræði
+paediatrics nft. barnalækningar, barnalæknisfræði
 printable l. prentanlegur
 reload s. endurhlaða
 handbag n. handtaska
@@ -279,7 +281,7 @@ zoophilism n. sjá %[zoophilia]%
 teenager n. táningur, unglingur
 teenage l. tánings-, unglings-; á táningsaldri, á unglingsaldri
 stadium n. leikvangur, völlur; íþróttavöllur, íþróttavangur
-startup n. [~ (company, firm)] sprotafyrirtæki
+startup n. sprotafyrirtæki, nýstofnað fyrirtæki ([~ company])
 wobbly l. valtur
 workflow n. verkferli, verkskipulag, verkflæði
 workforce n. vinnuafl, starfslið; vinnumarkaður
@@ -1565,7 +1567,7 @@ meds nft. stytt. á %[medicine]% (ft.)
 tweet s. tísta; n. tíst
 nary l. enginn, ekki nokkur, ekki neinn ([~ a soul in sight])
 colotomy n. ristilskurður
-WWW n. veraldarvefurinn (sks. á [World Wide Web])
+WWW n. veraldarvefurinn (sks. á %[World Wide Web]%)
 annotated l. ritskýrður, með athugasemdum; sjá %[annotate]%
 scientism n. (öfga)vísindahyggja; sú kenning að aðferðir náttúruvísinda ráði við öll svið mannlegra fræða
 scientistic l. (öfga)vísindahyggjulegur; sjá %[scientism]%
@@ -8579,7 +8581,45 @@ singed l. sviðinn, brenndur
 smew n. hvítönd (fugl)
 soupçon n. snefill (úr frönsku)
 springtail n. mordýr
-week-long l. vikulangur
+week-long l. vikulangur, heilar viku
 well-read l. vel lesinn, fróður, lærður
 pretzel n. saltstöng, kringla, saltkringla
 screamer n. öskrari; suðuramerískur fugl
+martingale n. ól í reiðtygjum
+advantageously ao. á hagstæðan hátt; til hagsbóta; sér í hag ([~ positioned])
+gourmet n. sælkeri; matarsnobb; l. sælkera-; vandlátur, snobbaður (um mat)
+checkout n. útskráning, afgreiðsla; kassaafgreiðsla (í verslun)
+derby n. keppni, kappreiðar; hjálmur (BNA)
+lambda n. lambda (gríski stafurinn λ); lambda-fall (í stærðfræði)
+elected l. kjörinn, kosinn; [~ official] kjörinn embættismaður
+corps n. herdeild, sveit
+hydroponic l. vatnsræktaður, vatnsræktar-; [~ farming] vatnsrækt
+manticore n. mantíkor (goðsagnaskepna með mannshöfuð og ljónsbúk)
+golem n. gólem (leirmanneskja úr goðsögnum gyðinga)
+cardiometabolic l. hjarta- og efnaskipta-
+slaying n. víg, morð, dráp
+human race n. mannkyn
+human being n. mannvera, manneskja
+harbor n. sjá %[harbour]%
+scolder n. ávítari, skammari; nöldrari
+muddied l. gruggugur (sjá %[muddy]%); leðjugur, forugur, aurugur; gerður óskýrður ([this ~ the waters])
+homophile n. hommi, samkynhneigður maður; mannelskari
+misfortunate l. ógæfusamur, ólánsamur, óheppinn
+low-down l. fyrirlitlegur, auðvirðilegur, lítilmótlegur, lágkúrulegur; [~ scum] skítapakk
+overbold l. mjög djarfur; baldinn, brattur; óskammfeilinn, framhleypinn
+pockmark n. ör (eftir bólur); s. gera ör á, merkja með örum
+pockmarked l. með ör (eftir bólur)
+blossoming n. blómstrun, blómgun (sjá %[blossom]%)
+troglodytism n. hellislíf, hellisbúalíf, líf í hellum
+impudently ao. á ósvífinn, ófyrirleitan eða óskammfeilinn hátt (sja %[impudent]%)
+US dollar n. bandaríkjadalur, bandaríkjadollari
+CAD n. kanadadalur, kanadískur dollari
+USD n. bandaríkjadalur, bandaríkjadollari (bandarískur gjaldmiðill, $)
+EUR n. evra (€, galdmiðill, sjá %[euro]%)
+NOK n. norsk króna (gjaldmiðill)
+DKK n. dönsk króna (gjaldmiðill)
+CHF n. svissneskur franki (gjaldmiðill)
+GBP n. breskt pund, breskt sterlingspund (gjaldmiðill)
+RUB n. rússnesk rúbla (gjaldmiðill)
+SEK n. sænsk króna (gjaldmiðill)
+World Wide Web n. veraldarvefurinn (sks. %[WWW]%)

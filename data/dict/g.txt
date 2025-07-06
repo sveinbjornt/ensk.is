@@ -397,7 +397,7 @@ globule n. lítill hnöttur; kúla ([licorice ~s])
 globy l. hnöttóttur, kringlóttur; bungumyndaður
 gloom n. myrkur, drungi, dimma; hryggð, þunglyndi; s. draga dimmu á; vera þykkur (um veður, himininn); vera dapur, þungbúinn
 gloominess n. dimma, sorti; þunglyndi
-gloomy l. dimmur, daufur (um birtu); hryggur, dapur, þungbúinn, drungalegur
+gloomy l. dimmur, daufur, drungalegur (um birtu); hryggur, dapur, þungbúinn
 gloriation n. fögnuður
 glorifiable l. vegsamlegur
 glorification n. vegsömun; dýrðarástand
@@ -812,7 +812,7 @@ grove n. lundur; safn af trjám meðfram vegi
 grovel s. grúfa, skríða; [~ling thoughts] auðvirðilegur hugsunarháttur
 groveller n. skriðdýr, e-r sem skríður
 grow s. vaxa; aukast; gróa, spretta; verða (með lýsingarorðum); yrkja, rækta (korn, kartöflur, tóbak o.s.frv.); [~ into fashion] verða að tísku; [days grew (in)to weeks] urðu að vikum; [~ old] verða gamall, eldast; [~ pale] fölna; [~ towards] líða undir, nálgast; [~ into favour with] vinna (smásaman) hylli e-s; [~ upon one] fá vald yfir e-m, gagntaka e-n; [in ~ing up] í uppvextinum
-grown-up n. & l. fullorðinn ([~ persons])
+grown-up l. fullorðinn ([~ persons]); n. fullorðin manneskja
 grower n. sá sem vex o.s.frv.; yrkjandi, ræktari; [a slow ~] sem er seinn að vaxa
 growl s. urra; nöldra, mögla; n. urr; mögl
 growler n. nöldrari

@@ -369,9 +369,9 @@ improvisator n. talandi skáld
 improvise s. mæla af munni fram (einkum í ljóðum); gera (e-ð) undirbúningslaust
 imprudence n. vanhyggni, óforsjálni
 imprudent l. óhygginn, óforsjáll; óhyggilegur
-impudence n. ósvífni
-impudency n. ósvífni
-impudent l. ósvífinn, ófyrirleitinn
+impudence n. ósvífni, óskammfeilni
+impudency n. ósvífni, óskammfeilni
+impudent l. ósvífinn, ófyrirleitinn, óskammfeilinn
 impudicity n. óskírlífi
 impugn s. mótmæla; ráðast á
 impugnation n. renging, mótmæli
@@ -933,7 +933,7 @@ initiative l. fyrstur, byrjunar-; n. byrjun; frumkvæði, frumkvæðisréttur ([
 initiatory l. byrjunar-; [~ step] fyrsta stig
 inject s. hleypa (spýta, dæla t.d. vatni úr pípu) inn; [the eyes were ~ed] blóðstokkin
 injection n. innspýting
-injudicious l. óvitur; óviturlegur, óskynsamlegur
+injudicious l. óvitur; óviturlegur, óskynsamlegur, óskynsamur; með slæma dómgreind
 injunction n. áminning ([~s of secrecy]); skipun
 injure s. skaða, meiða, skemma; skerða, spilla; styggja; móðga, gera á hluta (e-s)
 injurious l. skaðlegur; ranglátur, móðgandi, ærumeiðandi
@@ -1536,7 +1536,7 @@ irritate s. erta, pirra, egna
 irritation n. erting, pirringur, egning
 irritative l. ertandi, pirrandi, egnandi
 irruption n. innrás, árás ([a new ~ of the enemy])
-Isabella l. & n. grágulur, mógulur (litur)
+Isabella l. grágulur, mógulur; n. grágulur, mógulur litur
 isabelline l. mógulur
 isinglass n. sundmagalím
 island n. ey, eyja; s. einangra

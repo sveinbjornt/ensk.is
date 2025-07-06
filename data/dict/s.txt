@@ -254,7 +254,7 @@ scantiness n. ónógleiki, skortur
 scantness n. ónógleiki, skortur
 scantling n. lítið stykki; ögn; stubbur, kubbur
 scanty l. lítill, rýr, ónógur ([a ~ supply]); [~ of words] fámæltur, fáorður
-scape n. & s. sjá %[escape]%
+scape n. sjá %[escape]%
 scapegoat n. sektarlamb
 scapegrace n. ónytjungur, vandræðamaður
 scar n. ör (eftir sár); klettur, bjarg; s. gera öróttan; [~ over] gróa (um sár)
@@ -1249,7 +1249,7 @@ skim s. veiða (froðuna) ofan af, fleyta; liða yfir; snerta lauslega; liða á
 skimmer n. skeið til að fleyta með
 skimmed milk n. undanrenna
 skimmings nft. froða
-skimp l. & s. sjá %[scrimp]%
+skimp s. sjá %[scrimp]%
 skin n. skinn, húð; hörund; hamur; hýði; skán; [colour of the ~] hörundslitur; s. flá, taka hýði af; skinnga ([a wound ~s over])
 skinflint n. nirfill, nískupúki, svíðingur
 skinned l. fláður
@@ -1268,7 +1268,7 @@ skulk s. sjá %[sculk]%
 skull n. hauskúpa; heilakúpa
 skullcap n. kollhúfa
 skunk n. skunkur; þefdýr; kannabis (óforml.)
-skurry s. & n. sjá %[scurry]%
+skurry s. sjá %[scurry]%
 sky n. loft, himinn; loftslag
 sky blue l. himinblár
 skyey l. loftlegur, himinblár
@@ -1350,7 +1350,7 @@ sleeveless l. ermalaus; árangurslaus ([a ~ errand])
 sleigh n. sleði
 sleighing n. sleðafæri; sleðaferðir
 sleight n. bragð; fimleikur; [~ of hand] sjónhverfingalist; fimleiksbragð; s. [~ away] skjóta undan
-slender l. grannur, mjór ([~ stem]); grannvaxinn ([~ girl]); veikur; lítilfjörlegur, óverulegur, lítill ([~ hopes, ~ income])
+slender l. grannur, mjór ([~ stem]); spengilegur, grannvaxinn ([~ girl]); veikur; lítilfjörlegur, óverulegur, lítill ([~ hopes, ~ income])
 sleuth n. spor, slóði
 sleuthhound n. sporhundur
 slew s. snúa (snara) sér í kring ([round])
@@ -1364,7 +1364,7 @@ sliding door n. rennihurð
 slight l. lítill, lítilfjörlegur, minniháttar; grannur; fljótlegur ([~ inquiry]); n. fyrirlitning, óvirðing; virðingarskortur; s. lítilsvirða, vanrækja
 slightingly ao. með fyrirlitningu; [to esteem ~] virða lítils
 slightness n. lítilsvirðing; hirðuleysi
-slim l. grannur; grannvaxinn; mjór; lélegur ([a ~ excuse])
+slim l. grannur; grannvaxinn; spengilegur; mjór; magur, lélegur ([a ~ excuse])
 slime n. slím, slepja, leðja
 slimmish l. fremur grannur
 slimy l. slímugur, slepjulegur; blautur, forugur
@@ -1379,7 +1379,7 @@ slippery l. háll, sleipur; breytilegur, óstöðugur
 slipshod l. sem dregur skóna á eftir sér; hirðulaus
 slit s. rista (í lengjur); kljúfa; spretta upp í; rífa í sundur; n. löng rifa; skora, klauf
 sliver s. kljúfa, fletta (viði); n. lengja; sneið; grein
-slobber n. & s. sjá %[slabber]%
+slobber n. sjá %[slabber]%
 sloe n. þyrnitegund
 slogan n. slagorð, kjörorð; (skoskt) heróp
 sloop n. einmöstruð skúta
