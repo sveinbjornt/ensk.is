@@ -1513,6 +1513,7 @@ African l. afrískur; n. Afríkubúi, Afríkumaður, Afríkani
 America n. Ameríka
 Arctic n. Norðurskautslandið (yfirleitt með ákv. greini, [the ~]); l. Norðurskauts-
 Arctic Circle n. Norðurheimskautsbaugur
+Arctic Ocean n. Norður-Íshafið
 Antarctic Circle n. Suðurheimskautsbaugur
 North America n. Norður-Ameríka (heimsálfa)
 North American n. norðuramerískur; n. Norður-Ameríkani, Norður-Ameríkumaður
@@ -8708,3 +8709,31 @@ riyal n. ríal (arabískur gjaldmiðill)
 peso n. pesi, pesó (myntheiti, gjaldmiðill)
 dinar n. dínar (myntheiti, gjaldmiðill)
 lira n. líra (myntheiti, gjaldmiðill)
+Atlantic Ocean n. Atlantshafið
+Indian Ocean n. Indlandshaf
+Pacific Ocean n. Kyrrahafið
+Southern Ocean n. Suður-Íshafið, Suðurhafið, Suðurskautshafið
+Antarctic Ocean n. Suður-Íshafið, Suðurhafið, Suðurskautshafið
+Andes nft. Andesfjöll ([the ~ Mountains])
+Rocky Mountains nft. Klettafjöllin
+Rockies nft. Klettafjöllin ([the ~])
+Appalachian Mountains nft. Appalasíufjöll
+Appalachians nft. Appalasíufjöll ([the ~])
+Ural Mountains nft. Úralfjöll
+Urals nft. Úralfjöll ([the Ural Mountains])
+Atlas Mountains nft. Atlasfjöll
+Carpathian Mountains nft. Karpatafjöll, Karpatíufjöll
+Carpathians nft. Karpatafjöll ([the ~])
+Black Sea n. Svartahaf ([the ~])
+Caspian n. Kaspíahaf ([the ~ Sea])
+Norwegian Sea n. Noregshaf
+Barents Sea n. Barentshaf
+Ionian Sea n. Jónahaf
+Irish Sea n. Írlandshaf
+Bosporus n. Bosporussund, Sæviðarsund
+Dardanelles nft. Dardanellasund, Hellusund
+Hellespont n. Dardanellasund, Hellusund
+Sahara n. Sahara-eyðimörkin
+behavioral science n. atferlisfræði
+Kalahari n. Kalaharí-eyðimörkin ([the ~ Desert])
+Gobi n. Góbíeyðimörkin ([the ~ Desert])
