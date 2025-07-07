@@ -32,9 +32,14 @@ async def api_metadata(request: Request) -> JSONResponse:
     return JSONResponse(content=metadata)
 
 
+DEFAULT_SUGGESTION_LIMIT = 10
+
+
 @cache_response(SEARCH_CACHE_SIZE)
 @router.get("/suggest/{q}")
-async def api_suggest(request: Request, q: str, limit: int = 10) -> JSONResponse:
+async def api_suggest(
+    request: Request, q: str, limit: int = DEFAULT_SUGGESTION_LIMIT
+) -> JSONResponse:
     """Return autosuggestion results for partial string in input field."""
     results, _, _ = cached_results(q, exact_match=False, limit=limit)
     words = [x["word"] for x in results][:limit]

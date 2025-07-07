@@ -206,9 +206,11 @@ class EnskDatabase:
     def read_all_without_ipa(self, lang: str = "uk") -> list[dict]:
         """Read and return all entries without IPA."""
         assert lang in ["uk", "us"]
-        ipa_col = "ipa_uk" if lang == "uk" else "ipa_us"
+        ipa_col = "ipa_" + lang
         selected = (
-            self.conn().cursor().execute(f"SELECT * FROM dictionary WHERE {ipa_col}=''")
+            self.conn()
+            .cursor()
+            .execute("SELECT * FROM dictionary WHERE ?=''", [ipa_col])
         )
         return self._consume(selected)
 
