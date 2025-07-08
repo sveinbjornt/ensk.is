@@ -766,7 +766,7 @@ Haiti n. Haítí
 Honduras n. Hondúras
 Honduran l. hondúrskur; n. Hondúri
 Indonesia n. Indónesía
-Indonesian l. indónesískur; n. Indónesi
+Indonesian l. indónesískur; n. Indónesi; indónesíska
 Iran n. Íran
 Iraq n. Írak
 Iraqi l. írakskur, frá Írak; n. Íraki
@@ -843,7 +843,7 @@ Mozambican l. mósambískur; n. Mósambíki
 Myanmar n. Mjanmar
 Myanmarese l. mjanmarskur; n. Mjanmari
 Burma n. Búrma
-Burmese l. búrmanskur
+Burmese l. búrmanskur, frá Búrma (Mjanmar); n. búrmíska (tungumál)
 Namibia n. Namibía
 Namibian l. namibískur; n. Namibíumaður
 Nauru n. Naúrú
@@ -3858,7 +3858,7 @@ multidimensional l. fjölvíður, fjölvídda-, í mörgum víddum
 recalibration n. endurkvörðun, endurstilling
 marketization n. markaðsvæðing
 managerial l. stjórnunar-, sem lýtur að stjórnun
-managerialism n. stjórnhyggja, stjórnunarhyggja
+managerialism n. stjórnhyggja, stjórnunarhyggja, stjórnunarstefna
 managerialist n. stjórnhyggjusinni, stjórnunarhyggjusinni
 collectivism n. sameignarstefna
 collectivist n. sameignarsinni
@@ -4346,7 +4346,7 @@ epigenetic l. umframerfða-
 epigenetically l. umframerfða-
 prenatal l. forburðar-, fyrir fæðingu
 Sparta n. Sparta (borgríki í Grikklandi til forna)
-Assyria n. Assyría (stórveldi í Miðausturlöndum til forna)
+Assyria n. Assyría (stórveldi í Mið-Austurlöndum til forna)
 Assyrian l. assyrískur; n. Assyríumaður; assyríska
 Britannia n. heiti Bretlands á tímum Rómverja til forna; persónugerving Bretlands (stríðskona með þrífork og skjöld)
 decontextualize s. taka úr samhengi
@@ -5767,7 +5767,7 @@ cyberattack n. tölvuárás, netárás
 rosarium n. rósagarður
 well-proportioned l. í góðum hlutföllum
 drool s. slefa; n. slef
-hookah n. (miðausturlensk) vatnspípa
+hookah n. vatnspípa (frá Mið-Austurlöndum)
 acrimoniously ao. beisklega, biturlega, með heift, í illindum
 codename n. dulnefni; kenninafn; þróunarnafn
 ahistorical l. ósögulegur; ekki samkvæmt sögunni eða sagnfræðinni; án sögulegs eða sagnfræðilegs samhengis
@@ -7414,7 +7414,7 @@ i.e. st. það er, það er að segja (sks. á [id est] úr latínu)
 snuffdish n. skarpanna
 cubit n. alin (mælieining); framhandleggur
 toadyish l. smjaðurslegur
-Cantonese n. kantónska (kínversk mállýska); l. kantónskur
+Cantonese n. kantónska (kínverskt tungumál); l. kantónskur
 pearlescent l. (gljáandi) eins og perla
 bendable l. beygjanlegur, sveigjanlegur
 keytar n. hljómborð sem líkist gítar
@@ -8737,3 +8737,82 @@ Sahara n. Sahara-eyðimörkin
 behavioral science n. atferlisfræði
 Kalahari n. Kalaharí-eyðimörkin ([the ~ Desert])
 Gobi n. Góbíeyðimörkin ([the ~ Desert])
+Great Victoria Desert n. Viktoríueyðimörkin (stærsta eyðimörk Ástralíu)
+Hindi n. hindí (opinbert mál á Indlandi)
+Urdu n. úrdú (opinbert mál í Pakistan)
+Bengali l. bengalskur; n. bengalska (opinbert mál í Bangladess)
+Sorbian n. sorbíska (slavneskt tungumál)
+Romani n. rómíska (tungumál Romafólks); Roma-, Romafólks- (sjá %[Roma]%)
+Sami n. Sami, Lappi; samíska; l. samískur
+Lappish l. samískur; samíska
+Lappic l. samískur; samíska
+Aragonese l. aragónskur, frá Aragón; n. aragónska (norðurspænskt tungumál)
+Asturian n. astúrískur, frá Astúríu; n. astúríska (norðurspænskt tungumál)
+Mandarin Chinese n. mandarín kínverska (tungumál)
+Amharic l. amharískur; n. amharíska (tungumál)
+Punjabi n. púndjabí (indóarískt tungumál)
+Javanese n. javaíska (ástrónesískt tungumál)
+Tamil l. tamílskur; n. Tamíli; tamílska
+Telugu n. telúgú (indverskt dravídatungumál)
+Khmer n. Kmeri (Kambódíumaður); n. kmeríska (kambódískt tungumál)
+Marathi n. maratí (indóarískt tungumál)
+Ramadan n. ramadan (föstumánuður múslíma)
+candela n. kandela (mælieining ljósstyrks)
+coulomb n. kúlomb (mælieining rafhleðslu)
+hertz n. herts (mælieining fyrir tíðni)
+newton n. njúton (mælieining krafts)
+pascal n. paskal (mælieining fyrir þrýsting)
+farad n. farad (mælieining fyrir rafrýmd)
+ohm n. óm (mælieining rafmótstöðu)
+tesla n. tesla (mælieining segulsviðsstyrks)
+lumen n. lúmen (mælieining fyrir ljósflæði)
+lux n. lúx (mælieining fyrir lýsingu)
+sievert n. sívert (mælieining fyrir geislaálag)
+becquerel n. bekerel (mælieining fyrir geislavirkni)
+weber n. veber (mælieining segulflæðis)
+siemens n. símens (mælieining fyrir rafleiðni)
+Shinto n. sjintó (japönsk fjölgyðistrú)
+Shintoism n. sjintó (japönsk fjölgyðistrú)
+Jehovah's Witnesses n. Vottar Jehóva (kristinn trúarhópur)
+Sunni n. súnní, súnní-siður (fylking innan íslam); súnnímúslimi
+Shia n. sjía, sjía-siður (fylking innan íslam); sjíti, sjíamúslími
+Shiite n. sjíti, sjíamúslími (sjá %[Shia]%)
+Sufi l. súfisma-, súfista-; n. súfisti
+Sufism n. súfismi (íslömsk dultrú)
+Alawite n. alavíti; l. alavískur
+Alawism n. alavismi (sértrú innan íslams)
+Druze n. Drúsi; nft. Drúsar (minnihlutahópur í Mið-Austurlöndum)
+Orthodox Church n. kristna réttrúnaðarkirkjan
+Good Friday n. föstudagurinn langi
+Yom Kippur n. jom kippúr (heilagur dagur gyðinga)
+Hanukkah n. hanúka (hátíð gyðinga)
+Diwali n. dívalí (ljóshátíð hindúa)
+Ganges n. Gangesfljót (stórfljót á Indlandi)
+Styx n. Styxfljót (fljót í undirheimum grískrar goðafræði)
+Acheron n. Akkeronfljót (fljót í undirheimum grískrar goðafræði)
+Tigris n. Tígrisfljót
+Euphrates n. Efratfljót
+Thames n. Thames, Temsá (á sem rennur í gegnum Lúndunir)
+Tiber n. Tíber, Tífur (á sem rennur í gegnum Rómarborg)
+Nordic Council n. Norðurlandaráð (samstarf þinga Norðurlanda)
+Arctic Council n. Norðurskautsráðið
+Council of Europe n. Evrópuráðið
+OECD n. Efnahags- og framfarastofnunin (sks. á [Organization for Economic Cooperation and Development])
+FIFA n. Alþjóðaknattspyrnusambandið (sks. á frönsku [Fédération Internationale de Football Association])
+Red Cross n. Rauði krossinn
+Red Crescent n. Rauði hálfmáninn
+Eurovision n. söngvakeppni evrópskra sjónvarpsstöðva ([Eurovision Song Contest])
+cycling n. hjólreiðar
+rowing n. róður; l. róðurs-
+pentathlon n. fimmtarþraut (íþrótt)
+skiing n. skíðaíþróttir, að fara á skíði
+biathlon n. skíðaskotfimi (íþrótt)
+curling n. krulla (íþrótt)
+breakdancing n. breikdans
+water polo n. sundknattleikur (íþrótt)
+ski jumping n. skíðastökk (íþrótt)
+sense of smell n. lyktarskyn, skynbragð á lykt
+essentially ao. í grundvallaratriðum, í eðli sínu; í mergi málsins; í kjarna sínum; þegar öllu er á botninn hvolft
+specifically ao. sérstaklega; sérlega
+completely ao. gjörsamlega, algjörlega; til fullnustu; á yfirþyrmandi eða afgerandi hátt ([defeated them ~])
+extremely ao. gríðarlega, afar, mjög mikið; á öfgafullan eða öfgakenndan hátt

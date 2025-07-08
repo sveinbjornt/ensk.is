@@ -211,7 +211,7 @@ manifold l. margfaldur; margskonar, margvíslegur; s. margfalda ([~ copies of le
 manifoldly ao. margfaldlega
 manikin n. dvergur; afstyrmi; mannlíki
 manille n. næsthæsta tromp í ýmsum spilum
-maniple n. lítill hermannaflokkur (hjá Rómverjum); hvít silkislæða, 3 feta löng, sem hangir úr vinstri handlegg rómversks-kaþólsks prests
+maniple n. lítill hermannaflokkur (hjá Rómverjum); hvít silkislæða, þriggja feta löng, sem hangir úr vinstri handlegg rómversks-kaþólsks prests
 manipulate s. fara kunnáttulega með; handfjatla; handleika sviksamlega; ráðskast með; falsa (bækur, tölur)
 manipulation n. meðferð; handfjötlun; sviksamleg brögð; ráðskun
 mankind n. mannkyn; menn
@@ -1079,7 +1079,7 @@ moisten s. væta; vökna, digna
 moisture n. raki, væta, saggi ([~ in the air])
 molar n. jaxl ([~ tooth])
 molasses nft. síróp
-mole n. fæðingarblettur; moldvarpa; hafnargarður
+mole n. fæðingarblettur; moldvarpa; hafnargarður; mól (í efnafræði)
 molecast n. moldvörpuhaugur
 molehill n. moldvörpuhaugur; [make a mountain of a ~] gera úlfalda úr mýflugu
 mole-eyed l. smáeygður; blindur; skammsýnn
