@@ -463,7 +463,7 @@ seafaring l. sjófarandi; [~ class] sjómannastétt; [~ life] sjómannalíf
 sea fight n. sjóorrusta, sjóbardagi, bardagi á hafi úti
 sea hen n. langvía
 sea level n. sjávarmál, sjávarflötur
-seaman n. sjómaður
+seaman n. sjómaður; óbreyttur sjóliði (í sjóher)
 seamanship n. sjómennska, sjókæni
 seamark n. leiðarmerki (á sjó)
 sea mew n. máfur

@@ -742,7 +742,7 @@ flunkyism n. sleikjuskapur
 flurry n. gustur, gola; flaustur, óðagot, asi; s. trufla, rugla
 flush s. streyma, fossa, buna; blossa, ljóma; roðna snögglega ([~ red, ~ up]); láta roðna; gera rjóðan; gera hreykinn; skola; fæla upp (fugl); n. ofsi, hviða; roði (í andliti); blossi; blómi ([in the ~ of life]); l. blómlegur ([~ times]); kröftugur; birgur; nægur; örlátur (á [of]); jafn, jafnhár ([~ with the street]); [~ deck] flatt (jafnhátt) þilfar
 fluster s. gera heitan og rjóðan (af drykk); rugla, æsa; vera æstur; n. hiti; æsing; ruglingur
-flute n. hljóðpípa; skora (á súlu); s. blása á hljóðpípu; gera langskorur á súlur
+flute n. flauta, þverflauta, hljóðpípa; skora (á súlu); s. blása á hljóðpípu; gera langskorur á súlur
 flutist n. hljóðpípuleikari
 flutter s. flögra, flökta, blakta; baða vængjum; slá ótt og óreglulega (um hjartað); skjálfa, titra (af geðshræringu); láta blakta; trufla; n. blakt; órói, hræðsla
 fluvial l. sem lýtur að ám, ár-
@@ -857,7 +857,7 @@ fore l. fremri; fyrri; fram-; ao. að framan; [to the ~] viðstaddur; á lífi; 
 forearm n. framhandleggur
 forebode s. vita á (e-ð); hafa hugboð um; segja e-ð fyrir, spá
 foreboding n. fyrirboði; hugboð
-forecast s. íhuga fyrirfram; sjá (e-ð) fyrir; n. framsýni; spádómur, veðurspá ([~ of the weather])
+forecast s. íhuga fyrirfram; sjá (e-ð) fyrir; n. framsýni; spádómur, spá; veðurspá (%[weather ~]%)
 forecastle n. framstafn, framhluti skips
 foreclose s. byrgja úti; hindra
 foreclosure n. útilokun

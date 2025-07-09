@@ -176,7 +176,7 @@ def generate_dictionary_xml(entries) -> str:
 
     # Add all dictionary entries
     for i, entry in enumerate(entries):
-        word, definition, ipa_uk, ipa_us, _ = entry
+        word, definition, syllables, ipa_uk, ipa_us, _ = entry
         entry_id = f"entry_{i:06d}"
         xml_parts.append(generate_xml_entry(word, definition, ipa_uk, ipa_us, entry_id))
 

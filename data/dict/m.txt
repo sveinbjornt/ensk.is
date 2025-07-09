@@ -362,8 +362,8 @@ massiness n. þykkleiki; þéttleiki; þungi
 massiveness n. þykkleiki; þéttleiki; þungi
 massive l. þykkur; þéttur, óholur; þungur; mikill
 massy l. stór, þungur; mikill
-mast n. siglutré; [seaman before the ~] óbreyttur sjómaður; s. setja siglutré í mast n. akarn (af eikitrjám eða beykitrjám)
-master n. húsbóndi; eigandi; meistari; snillingur; kennari; umsjónarmaður, yfirmaður; skipstjóri (á kaupskipum); [be one's own ~] vera engum háður; [~ of] ráðandi yfir; [be ~ of oneself] ráða (stjórna) sér; [be a ~ of a language] kunna mál til fullnustu; [Master of Arts/Science] meistaragráða (próftitill við háskóla); [~ carpenter] smíðameistari; [Master of Ceremonies] siðameistari; [old ~s] einkum um listmálara á 13.-17. öld; s. ná á sitt vald, leggja undir sig; stjórna ([the estate is not well ~ed]); ráða við; skilja, kunna ([the meaning of])
+mast n. mastur, siglutré; [seaman before the ~] óbreyttur sjómaður; lóðrétt stöng; akarn (af eikitrjám eða beykitrjám); s. setja siglutré í, reisa mastur
+master n. húsbóndi; eigandi; meistari; snillingur; kennari; umsjónarmaður, yfirmaður; skipstjóri (á kaupskipum); [be one's own ~] vera sinn eigin herra; [~ of] ráðandi yfir; [be ~ of oneself] ráða (stjórna) sér; [be a ~ of a language] kunna mál til fullnustu; [Master of Arts/Science] meistaragráða (próftitill við háskóla); [~ carpenter] smíðameistari; [Master of Ceremonies] siðameistari; [old ~s] einkum um listmálara á 13.-17. öld; s. ná á sitt vald, leggja undir sig; stjórna ([the estate is not well ~ed]); ráða við; skilja, kunna ([the meaning of])
 master builder n. byggingameistari, húsameistari
 masterdom n. yfirburðir ([~ of his genius])
 masterful l. ráðríkur; gjörræðislegur; meistaralegur
@@ -628,7 +628,8 @@ merciful l. miskunnsamur; vorkunnsamur
 merciless l. miskunnarlaus, miskunnlaus; vægðarlaus; harðbrjósta
 mercilessness n. miskunnarleysi; vægðarleysi
 mercurial l. hviklyndur; fjörugur; sem kvikasilfur er í; [the ~ wand] stafur Merkúrs; n. kvikasilfurslyf ([~ preparation])
-mercury n. kvikasilfur (málmur, frumefnið Hg, 80 í lotukerfinu); guðinn og reikistjarnan Merkúr
+mercury n. kvikasilfur (málmur, frumefnið Hg, 80 í lotukerfinu)
+Mercury n. Merkúr (reikistjarna, rómverskt goð)
 mercy n. náð, miskunn; meðaumkun; [be at the ~ of] vera á valdi e-s; [have ~ on, upon] aumkast yfir e-n; [sister of ~] líknarsystir
 mere l. óblandaður; tómur; eintómur, einber ([a ~ swindler]); n. tjörn; landamæri
 merely ao. að eins, eingöngu

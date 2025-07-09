@@ -20,8 +20,6 @@ voulge
 ranseur
 epanorthosis
 ecdemic
-convection
-convective
 subeffectiveness
 supereffectiveness
 quaternity
@@ -48,7 +46,6 @@ modified
 inline
 online
 deployment
-manufacturing
 goth
 commissioned
 succinctorium
@@ -409,6 +406,7 @@ baffling
 untangle
 knitter
 maneuver
+manoeuver
 pinpoint
 tabloid
 fabled
@@ -1299,7 +1297,6 @@ relearn
 multiethnic
 unshakable
 synthesize
-synthesizer
 someplace
 interchangeability
 happenstance
@@ -1615,7 +1612,6 @@ universalizable
 interminability
 melange
 apocalypticism
-specifically
 noumenal
 instrumentalism
 ultimacy
@@ -1870,7 +1866,6 @@ re-enact
 re-enactment
 semaphore
 whimsicality
-completely
 productivism
 unknowability
 slippage
@@ -2451,7 +2446,6 @@ beachhead
 travertine
 periplus
 assertiveness
-zither
 refortification
 Sinicization
 chokepoint
@@ -3943,7 +3937,6 @@ lummox
 zinger
 zingy
 brouhaha
-breakdancing
 breakdance
 derailment
 ruminative
@@ -5469,7 +5462,6 @@ dogwhistling
 quiesce
 low-keyed
 outmatch
-marimba
 canthal
 draughtsman
 yammer
@@ -5705,3 +5697,31 @@ depraved
 tranquilizing
 Mandatory Palestine
 mandatory (endurskoða)
+figure skating
+speed skating
+alpine skiing
+cross-country skiing
+bobsled/bobsledding
+luge
+ferocious (endurskoða)
+ferociously
+telethon
+euphonium
+midlife
+channelize
+detainment
+cargo deck
+cargo hold
+deferment
+deferral
+legal injury
+interest rate
+exchange rate
+hedge fund
+mutual fund
+bailout
+quantitative easing
+anticyclone
+convection
+convective
+advection

@@ -787,6 +787,7 @@ Kenyan l. kenískur; n. Keníumaður
 Kiribati n. Kíribatí
 Kuwait n. Kúveit
 Kyrgyzstan n. Kirgistan
+Kyrgyz l. kirgískur, frá Kirgistan; n. Kirgisi
 Laos n. Laos
 Latvia n. Lettland
 Latvian l. lettneskur; n. Letti; lettneska
@@ -4631,7 +4632,6 @@ illiquidity n. lausafjárskortur
 activist n. aðgerðasinni; [environmental ~] umhverfisverndarsinni
 heartlessness n. miskunnarleysi, harðlyndi; hugleysi, kjarkleysi
 Sodom n. Sódóma (borg syndara í Gamla testamentinu)
-Aphrodite n. Afródíta (grísk ástargyðja)
 horseless l. hestlaus
 Bavaria n. Bæjaraland (svæði í Suður-Þýskalandi)
 Bavarian l. bæverskur, Bæjaralands-; n. Bæjari, Bæverji, Bæjaralendingur; bæverska (þýsk mállýska)
@@ -6511,7 +6511,7 @@ aphagia n. kyngingarstol
 gastrointestinal l. maga- og garna-
 enchanted l. töfraður; heillaður, gagntekinn, hrifinn, frá sér numinn
 disenchanted l. leystur úr álögum; fráhverfur; fallinn frá fyrri hrifningu; vonsvikinn; búinn að missa trúna á e-ð ([with])
-gobbledygook n. bull, hrognamál, óskiljanleg þvæla, (tæknilegt) þvaður, stofnanamál
+gobbledygook n. þvaður, bull, hrognamál
 indescribably ao. ólýsanlega
 dendrologist n. trjáfræðingur
 cheerless l. gleðisnauður, gleðilaus, dapur
@@ -8235,7 +8235,7 @@ materialisation n. sjá %[materialization]%
 palm-reading n. lófalestur
 rapper n. rappari
 moonbow n. njólubaugur (regnbogi sem sést að nóttu til)
-nursing n. hjúkrun, aðhlynning; hjúkrunarstarf
+nursing n. hjúkrun, aðhlynning; hjúkrunarstarf; hjúkrunarþjónusta
 picometer n. píkómetri
 picometre n. píkómetri
 hypocotyl n. kímstöngull
@@ -8517,7 +8517,7 @@ compendia nft. sjá %[compendium]%
 emasculated l. gerður ókarlmannlegur; gerður kveifarlegur; geldur, vanaður; sem búið er að draga kraftinn úr
 emasculating l. sem gerir e-ð ókarlmannlegt eða kveifarlegt; sem dregur kraftinn úr
 emasculatory l. sem dregur úr karlmennsku eða krafti
-cornetist n. lúðurleikari, lúðurþeytari (sjá %[cornet]%)
+cornetist n. lúðurleikari, lúðurþeytari, kornettleikari (sjá %[cornet]%)
 automobile horn n. bílflauta
 cafetiere n. sjá %[cafetière]%
 cafetière n. frönsk pressa (úr frönsku)
@@ -8637,7 +8637,7 @@ Big Dipper n. Karlsvagninn (í stjörnumerkinu %[Ursa Major]%)
 Little Dipper n. Litlibjörn (sjá %[Ursa Minor]%)
 Great Bear n. Stóribjörn (sjá %[Ursa Major]%)
 Little Bear n. Litlibjörn (sjá %[Ursa Minor]%)
-Perseus n. Perseifur (stjörnumerki)
+Perseus n. Perseifur (stjörnumerki); Perseifur (grísk hetja)
 Draco n. Drekinn (stjörnumerki)
 Lyra n. Harpan (stjörnumerki)
 Cygnus n. Svanurinn (stjörnumerki)
@@ -8722,6 +8722,7 @@ Appalachians nft. Appalasíufjöll ([the ~])
 Ural Mountains nft. Úralfjöll
 Urals nft. Úralfjöll ([the Ural Mountains])
 Atlas Mountains nft. Atlasfjöll
+Carpathian l. Karpatafjalla-, úr eða frá Karpatafjöllum
 Carpathian Mountains nft. Karpatafjöll, Karpatíufjöll
 Carpathians nft. Karpatafjöll ([the ~])
 Black Sea n. Svartahaf ([the ~])
@@ -8772,7 +8773,7 @@ becquerel n. bekerel (mælieining fyrir geislavirkni)
 weber n. veber (mælieining segulflæðis)
 siemens n. símens (mælieining fyrir rafleiðni)
 Shinto n. sjintó (japönsk fjölgyðistrú)
-Shintoism n. sjintó (japönsk fjölgyðistrú)
+Shintoism n. sjintó, sjintóismi (japönsk fjölgyðistrú)
 Jehovah's Witnesses n. Vottar Jehóva (kristinn trúarhópur)
 Sunni n. súnní, súnní-siður (fylking innan íslam); súnnímúslimi
 Shia n. sjía, sjía-siður (fylking innan íslam); sjíti, sjíamúslími
@@ -8799,11 +8800,11 @@ Arctic Council n. Norðurskautsráðið
 Council of Europe n. Evrópuráðið
 OECD n. Efnahags- og framfarastofnunin (sks. á [Organization for Economic Cooperation and Development])
 FIFA n. Alþjóðaknattspyrnusambandið (sks. á frönsku [Fédération Internationale de Football Association])
-Red Cross n. Rauði krossinn
-Red Crescent n. Rauði hálfmáninn
+Red Cross n. Rauði krossinn (góðgerðarsamtök)
+Red Crescent n. Rauði hálfmáninn (góðgerðarsamtök)
 Eurovision n. söngvakeppni evrópskra sjónvarpsstöðva ([Eurovision Song Contest])
 cycling n. hjólreiðar
-rowing n. róður; l. róðurs-
+rowing n. róður; l. róðurs- ([~ team, competition])
 pentathlon n. fimmtarþraut (íþrótt)
 skiing n. skíðaíþróttir, að fara á skíði
 biathlon n. skíðaskotfimi (íþrótt)
@@ -8815,4 +8816,119 @@ sense of smell n. lyktarskyn, skynbragð á lykt
 essentially ao. í grundvallaratriðum, í eðli sínu; í mergi málsins; í kjarna sínum; þegar öllu er á botninn hvolft
 specifically ao. sérstaklega; sérlega
 completely ao. gjörsamlega, algjörlega; til fullnustu; á yfirþyrmandi eða afgerandi hátt ([defeated them ~])
-extremely ao. gríðarlega, afar, mjög mikið; á öfgafullan eða öfgakenndan hátt
+extremely ao. gríðarlega, ofsalega, afar, mjög mikið, með ofsa; á öfgafullan eða öfgakenndan hátt
+remote work n. fjarvinna
+Paleocene n. paleósentími (jarðsögulegt tímabil)
+Proterozoic n. frumlífsöld (jarðsögulegt tímabil); l. frumlífsaldar-
+Phanerozoic n. lífsöld (jarðsögulegt tímabil); l. lífsaldar-
+Cenozoic n. nýlífsöld (jarðsögulegt tímabil); l. nýlífsaldar-
+Archean n. upphafsöld (jarðsögulegt tímabil)
+Silurian n. silúrtímabil (fornlífsaldar)
+Devonian n. devontímabil (fornlífsaldar)
+Carboniferous n. kolatímabil (fornlífsaldar)
+Permian n. permtímabil (fornlífsaldar)
+Paleogene n. ártertíer, paleógen (fyrri hluti nýlífsaldar)
+Neogene n. síðtertíer, neógen (síðari hluti nýlífsaldar)
+Quaternary n. kvartertímabil (jarðsögulegt tímabil)
+Eocene n. eósen, eósentími (tertíertímabils)
+Oligocene n. ólígósen, ólígósentími (tertíertímabils)
+Miocene n. míósen, míósentími (tertíertímabils)
+Hadean n. hadesaröld, hadesartímabil (jarðsögulegt tímabil)
+metamorphic l. myndbreytt (berg)
+calcite n. silfurberg, kalsít
+halite n. steinsalt
+asthenosphere n. linhvolf
+gneiss n. gneis (bergtegund)
+mica n. gljásteinn, glimmer
+hypogonadism n. kynkirtlavanseyting
+saxophone n. saxófónn (blásturshljóðfæri)
+saxophonist n. saxófónleikari
+piccolo n. pikkóló, pikkólóflauta (hljóðfæri)
+tuba n. túba (blásturshljóðfæri)
+timpani n. pákur (slagverkshljóðfæri)
+marimba n. marimba (e.k. sílófónn)
+synthesizer n. gervill; hljóðgervill, tóngervill ([audio ~])
+keyboardist n. hljómborðsleikari
+tubist n. túbuleikari
+bassoonist n. fagottleikari
+oboist n. óbóleikari
+banjoist n. banjóleikari
+violist n. víóluleikari
+bassist n. bassaleikari
+bass player n. bassaleikari
+double bass n. kontrabassi
+mandolinist n. mandólínleikari
+acoustic guitar n. kassagítar
+electric guitar n. rafmagnsgítar
+bass guitar n. bassagítar; rafbassi ([electric ~])
+flautist n. flautuleikari
+piccoloist n. pikkólóleikari
+hornist n. hornleikari
+harpsichordist n. semballeikari
+bass clarinet n. bassaklarínett
+contrabassoon n. kontrafagott
+timpanist n. pákuleikari
+zither n. sítar (strengjahljóðfæri)
+zitherist n. sítarleikari
+bongo n. bongótromma
+airman n. óbreyttur flugliði (í flugher)
+petty officer n. undirforingi
+Hades n. Hades (guð dauðans í grískri goðafræði)
+Dionysus n. Díonýsos (guð ölvunar og frjósemi í grískri goðafræði)
+Ares n. Ares (stríðsguð í grískri goðafræði)
+Artemis n. Artemis (veiðigyðja í grískri goðafræði)
+Poseidon n. Póseidon, Posídon (sjávarguð í grískri goðafræði)
+Aphrodite n. Afródíta (ástargyðja í grískri goðafræði)
+Hermes n. Hermes (sendiboði guðanna í grískri goðafræði)
+Apollo n. Apollon (grískt goð)
+Demeter n. Demetra, Demeter (móðurgyðja og gyðja akuryrkju í grískri goðafræði)
+Hephaestus n. Hefæstos, Hefaistos (eldguð í grískri goðafræði)
+Hera n. Hera (eiginkona Seifs og verndari hjónabands í grískri goðafræði)
+Odysseus n. Ódysseifur (grísk hetja)
+Theseus n. Þeseifur (grísk hetja)
+Cerberus n. Kerberos (þríhöfða varðhundur undirheimsins í grískri goðafræði)
+Odin n. Óðinn (æðstur ása í norrænni goðafræði)
+Aesir n. æsir (norrænu goðin)
+Thor n. Þór (þrumuguðinn í norrænni goðafræði)
+Ragnarok n. ragnarök (heimsendir í norrænni goðafræði)
+Heimdall n. Heimdallur (norrænt goð)
+Loki n. Loki (goðmagn í norrænni goðafræði)
+Yggdrasil n. askurinn Yggdrasill (í norrænni goðafræði)
+Fenrir n. Fenrisúlfur, Hróðvitnir (skepna í norrænni goðafræði)
+Jormungandr n. Jörmungandur, Miðgarðsormur (skepna í norrænni goðafræði)
+Baldr n. sjá %[Baldur]%
+Baldur n. Baldur (sonur Óðins í norrænni goðafræði)
+Freyja n. Freyja (ástargyðja í norrænni goðafræði)
+Frey n. Freyr (frjósemisoð í norrænni goðafræði)
+Pluto n. Plútó (dvergreikistjarna, rómverskt goð undirheima)
+Ganymede n. Ganýmedes (stærsta tungl reikistjörnunnar Júpíters)
+Callisto n. Kallistó (fylgitungl reikistjörnunnar Júpíters); gyðja í grískri goðafræði
+Europa n. Evrópa (fylgitungl reikistjörnunnar Júpíters); gyðja í grískri goðafræði
+Saudi n. Sádiarabíumaður; l. sádiarabískur
+Nigerien l. nígerskur, frá Níger; n. Nígermaður
+Togolese l. tógóskur, frá Tógó; n. Tógómaður, Tógómenn
+Malagasy n. Madagaski; l. madagaskur
+Marshallese l. marshalleyskur, frá Marshall-eyjum; nft. Marshall-eyingar
+Sammarinese l. sanmarínóskur, frá San Marínó; nft. San Marínó-menn
+unmediated l. án milliliða, án millimanns, án milligönguaðila (sjá %[mediate]%)
+foreshadowing l. fyrirboðandi; n. fyrirboðun
+foreshadowed l. fyrirboðað
+decelerate s. hægja á (sér), lækka hraða
+Chadian l. tjadneskur, frá Tjad; n. Tjadi
+Djiboutian n. djibútískur, frá Djibútí; n. Djibúti
+Guinean l. gíneskur, frá Gíneu; n. Gínei
+terms nft. skilyrði, forsendur, kröfur ([these are my ~]); orð, nöfn, merkingar, skilgreiningar (sjá %[terminology]%); takmörk
+political science n. stjórnmálafræði
+political scientist n. stjórnmálafræðingur
+petrology n. bergfræði (undirgrein jarðfræði)
+limnology n. vatnalíffræði
+glaciology n. jöklafræði, jöklavísindi
+parasitology n. sníklafræði, sníkjudýrafræði
+manufacturing n. framleiðsla; iðnframleiðsla, verksmiðjuframleiðsla
+public administration n. opinber stjórnsýsla
+HR n. Háskólinn í Reykjavík; mannauður, mannauðsstjórn (sks. á [human resources])
+human resources nft. mannauður; mannauðsstjórn (skammstafað %[HR]%)
+supplier n. birgir, birgðasali, birgðamaður; sá sem veitir, reddari
+provider n. sá sem veitir, gjafamaður; útvegari, reddari; birgir, birgðamaður
+stratus n. þokuský, lágský
+dew point n. daggarmark (í veðurfræði)
