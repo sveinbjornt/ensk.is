@@ -1533,7 +1533,6 @@ Caribbean l. Karíbahafs-, karíbskur; n. karíbskur maður; [the ~] Karíbahaf
 ukulele n. úkulele, smágítar (strengjahljóðfæri)
 Lombardy n. Langbarðaland (á Ítalíu)
 Tuscany n. Toskanahérað (á Ítalíu)
-Tuscan l. toskanskur; n. Toskani (sjá %[Tuscany]%)
 Kiev n. Kænugarður (borg í Úkraínu)
 Kyiv n. Kænugarður (borg í Úkraínu)
 Constantinople n. Mikligarður, Konstantínópel (í dag tyrkneska borgin Istanbúl)
@@ -4055,7 +4054,7 @@ mummification n. skrælnun, skorpnun
 pharaoh n. faraó (egypskur konungur)
 weaponize s. vopnavæða, gera vopn úr, nota sem vopn
 weaponized l. gerður að vopni, notaður sem vopn
-interdisciplinary l. þverfaglegur
+interdisciplinary l. þverfaglegur, milli greina
 interdisciplinarity n. þverfaglegheit
 biomedical l. líf- og lækninga-, líf- og læknisfræðilegur
 biomedicine n. líflækningar, líflæknisfræði
@@ -4585,7 +4584,7 @@ harmonica n. munnharpa
 dermatitis n. húðbólga, skinnþroti
 swidden n. sviðjur (land rutt með eldi)
 bullfrog n. baulfroskur
-optical character recognition n. ljóslestur, myndlestur, stafgreining
+optical character recognition n. ljóskennsl (stafa), ljóslestur (yfirleitt skammstafað %[OCR]%)
 arboretum n. trjásafn, trjágarður
 ambulator n. göngumaður, gangandi maður
 ambulate s. ganga (um)
@@ -5009,7 +5008,7 @@ Cornishman n. maður frá Cornwall
 Yorkshireman n. maður frá Yorkshire
 Scots n. skoska, skosk mállýska; l. skoskur
 shootout n. skotbardagi, byssubardagi; vítaspyrnukeppni (í fótbolta)
-Hawaii n. Hawaii, Hawaii-eyjar (stundum skrifað Havaí eða Havæ á íslensku)
+Hawaii n. Hawaii, Hawaii-eyjar (fylki í Bandaríkjunum, stundum skrifað Havaí eða Havæ á íslensku)
 Hawaiian n. Havaíbúi, Havaímaður; havaíska; l. havaískur
 banqueting n. veisluhald (sjá %[banquet]%)
 indology n. indlandsfræði (fræðigrein sem fæst við sögu og menningu Indlandsskaga)
@@ -6122,7 +6121,7 @@ dilapidated l. niðurníddur (t.d. hús)
 spoiled l. dekraður; skemmdur, úldinn (t.d. mjólk)
 juggling n. sjá %[juggle]%
 sparkler n. stjörnuljós
-hidden l. hulinn, falinn
+hidden l. hulinn, falinn, leyndur
 saturated l. mettaður
 craving n. þrá, sterk löngun
 jiggle s. dilla (t.d. bossa)
@@ -8443,7 +8442,6 @@ promethium n. prómetín (frumefnið Pm, 61 í lotukerfinu)
 protactinium n. protaktín (frumefnið Pa, 91 í lotukerfinu)
 radon n. radon (frumefnið Rn, 86 í lotukerfinu)
 rhenium n. renín (frumefnið Re, 75 í lotukerfinu)
-rhodium n. ródín, ródíum (frumefnið Rh, 45 í lotukerfinu)
 rubidium n. rúbidín (frumefnið Rb, 37 í lotukerfinu)
 ruthenium n. rúten (frumefnið Ru, 44 í lotukerfinu)
 scandium n. skandín (frumefnið Sc, 21 í lotukerfinu)
@@ -8507,7 +8505,6 @@ heartsease n. þrenningarfjóla (jurt)
 hatful n. hattfylli
 gelded l. geldur, geltur, vanaður
 foreshorten s. stytta; fjarstytta (sjónrænt séð)
-optical character recognition n. ljóskennsl (stafa), ljóslestur (yfirleitt skammstafað %[OCR]%)
 OCR n. stytt. á %[optical character recognition]%
 cadetship n. herskólanám, liðsforingjanám; lögreglunám
 scabies nft. maurakláði
@@ -8573,7 +8570,6 @@ icteric l. gulusjúkur, haldinn sjúkdómnum gulu (sjá %[jaundiced]%)
 coarctation n. þrenging (æða)
 refereeing n. gerðarmennska; dómgæsla (í íþróttum)
 umpiring n. gerðarmennska; dómgæsla
-reinforce s. styrkja, efla (að liði)
 reinforcement n. styrking, efling (að liði); nft. [~s] liðsauki
 road roller n. valtari
 rutabaga n. gulrófa, rófa
@@ -8608,7 +8604,6 @@ homophile n. hommi, samkynhneigður maður; mannelskari
 misfortunate l. ógæfusamur, ólánsamur, óheppinn
 low-down l. fyrirlitlegur, auðvirðilegur, lítilmótlegur, lágkúrulegur; [~ scum] skítapakk
 overbold l. mjög djarfur; baldinn, brattur; óskammfeilinn, framhleypinn
-pockmark n. ör (eftir bólur); s. gera ör á, merkja með örum
 pockmarked l. með ör (eftir bólur)
 blossoming n. blómstrun, blómgun (sjá %[blossom]%)
 troglodytism n. hellislíf, hellisbúalíf, hellisbúskapur, líf í hellum
@@ -8724,7 +8719,6 @@ Urals nft. Úralfjöll ([the Ural Mountains])
 Atlas Mountains nft. Atlasfjöll
 Carpathian l. Karpatafjalla-, úr eða frá Karpatafjöllum
 Carpathian Mountains nft. Karpatafjöll, Karpatíufjöll
-Carpathians nft. Karpatafjöll ([the ~])
 Black Sea n. Svartahaf ([the ~])
 Caspian n. Kaspíahaf ([the ~ Sea])
 Norwegian Sea n. Noregshaf
@@ -8745,7 +8739,6 @@ Bengali l. bengalskur; n. bengalska (opinbert mál í Bangladess)
 Sorbian n. sorbíska (slavneskt tungumál)
 Romani n. rómíska (tungumál Romafólks); Roma-, Romafólks- (sjá %[Roma]%)
 Sami n. Sami, Lappi; samíska; l. samískur
-Lappish l. samískur; samíska
 Lappic l. samískur; samíska
 Aragonese l. aragónskur, frá Aragón; n. aragónska (norðurspænskt tungumál)
 Asturian n. astúrískur, frá Astúríu; n. astúríska (norðurspænskt tungumál)
@@ -8928,7 +8921,56 @@ manufacturing n. framleiðsla; iðnframleiðsla, verksmiðjuframleiðsla
 public administration n. opinber stjórnsýsla
 HR n. Háskólinn í Reykjavík; mannauður, mannauðsstjórn (sks. á [human resources])
 human resources nft. mannauður; mannauðsstjórn (skammstafað %[HR]%)
-supplier n. birgir, birgðasali, birgðamaður; sá sem veitir, reddari
+supplier n. birgir, birgðasali, birgðamaður; sá sem veitir, reddari, útvegari
 provider n. sá sem veitir, gjafamaður; útvegari, reddari; birgir, birgðamaður
 stratus n. þokuský, lágský
 dew point n. daggarmark (í veðurfræði)
+Alabama n. Alabama (fylki í Bandaríkjunum)
+Alaska n. Alaska (fylki í Bandaríkjunum)
+Arizona n. Arizona (fylki í Bandaríkjunum)
+Arkansas n. Arkansas (fylki í Bandaríkjunum)
+Colorado n. Colorado (fylki í Bandaríkjunum)
+Connecticut n. Connecticut (fylki í Bandaríkjunum)
+Delaware n. Delaware (fylki í Bandaríkjunum)
+Florida n. Flórída (fylki í Bandaríkjunum)
+Georgia n. Georgía (fylki í Bandaríkjunum)
+Idaho n. Idaho (fylki í Bandaríkjunum)
+Illinois n. Illinois (fylki í Bandaríkjunum)
+Indiana n. Indiana (fylki í Bandaríkjunum)
+Iowa n. Iowa (fylki í Bandaríkjunum)
+Kansas n. Kansas (fylki í Bandaríkjunum)
+Kentucky n. Kentucky (fylki í Bandaríkjunum)
+Louisiana n. Louisiana (fylki í Bandaríkjunum)
+Maine n. Maine (fylki í Bandaríkjunum)
+Maryland n. Maryland (fylki í Bandaríkjunum)
+Massachusetts n. Massachusetts (fylki í Bandaríkjunum)
+Michigan n. Michigan (fylki í Bandaríkjunum)
+Minnesota n. Minnesota (fylki í Bandaríkjunum)
+Mississippi n. Mississippi (fylki í Bandaríkjunum); stór á sem rennur í gegnum suðuhluta Bandaríkjanna
+Missouri n. Missouri (fylki í Bandaríkjunum)
+Montana n. Montana (fylki í Bandaríkjunum)
+Nebraska n. Nebraska (fylki í Bandaríkjunum)
+Nevada n. Nevada (fylki í Bandaríkjunum)
+New Hampshire n. New Hampshire (fylki í Bandaríkjunum)
+New Jersey n. New Jersey (fylki í Bandaríkjunum)
+New Mexico n. Nýja-Mexíkó (fylki í Bandaríkjunum)
+New York n. New York (fylki í Bandaríkjunum)
+North Carolina n. Norður-Karólína (fylki í Bandaríkjunum)
+North Dakota n. Norður-Dakóta (fylki í Bandaríkjunum)
+Ohio n. Ohio (fylki í Bandaríkjunum)
+Oklahoma n. Oklahoma (fylki í Bandaríkjunum)
+Oregon n. Oregon (fylki í Bandaríkjunum)
+Pennsylvania n. Pennsylvanía (fylki í Bandaríkjunum)
+Rhode Island n. Rhode Island (fylki í Bandaríkjunum)
+South Carolina n. Suður-Karólína (fylki í Bandaríkjunum)
+South Dakota n. Suður-Dakóta (fylki í Bandaríkjunum)
+Tennessee n. Tennessee (fylki í Bandaríkjunum)
+Texas n. Texas (fylki í Bandaríkjunum)
+Utah n. Utah (fylki í Bandaríkjunum)
+Vermont n. Vermont (fylki í Bandaríkjunum)
+Virginia n. Virginía (fylki í Bandaríkjunum)
+Washington n. Washington (höfuðborg Bandaríkjanna); Washington-fylki (í Bandaríkjunum)
+West Virginia n. Vestur-Virginía (fylki í Bandaríkjunum)
+Wisconsin n. Wisconsin (fylki í Bandaríkjunum)
+Wyoming n. Wyoming (fylki í Bandaríkjunum)
+mandibular l. kjálka-, neðri kjálka-

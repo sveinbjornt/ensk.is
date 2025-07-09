@@ -159,7 +159,7 @@ lapis n. steinn; [~ lazuli] lazúrsteinn
 Laplander n. Lappi
 Lapp n. Lappi
 lappet n. flipi, sepi; (eyrna)snepill; blaðka (á lunga, lifur); spaði; laf (á frakka); skráarlauf
-Lappish l. lappneskur
+Lappish l. lappískur, samískur; samíska
 Lapponian l. lappneskur; n. Lappi
 lapse n. hægt fall, rennsli ([~ of a stream]); hrösun ([lapse of judgment]); [~ of the pen] ritvilla; [after so long a ~ of time] að svo löngum tíma liðnum; s. falla, renna; líða; hverfa undir (e-n) að lögum ([~ to the crown]); falla úr gildi; [he ~d into thought] varð hugsandi
 lapsided l. hverfur (um bát), rangskreiður
@@ -1010,8 +1010,7 @@ luxurious l. óhóflegur; munaðargjarn; skrautmikill
 luxury n. lúxus, óhóf, munaður; sælgæti; [it was a ~ to] það var unaðssamlegt að
 lyceum n. lærður skóli, menntaskóli
 lye n. lút (sóta-)
-lying n. lygar; l. lyginn
-lying n. lega; l. liggjandi
+lying n. lygar; lega; l. lyginn; liggjandi
 lying-in n. barnssæng
 lying-in woman n. sængurkona
 lying-in hospital n. fæðingarspítali
