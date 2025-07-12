@@ -1105,6 +1105,8 @@ beltway
 roomful
 backstop
 distributional
+monetize
+monetizing
 monetization
 shutdown
 soundbite
@@ -1415,7 +1417,6 @@ freebie
 apologizer
 numinous
 ricochet
-chomp
 caveat
 plaque
 simulacrum
@@ -1897,7 +1898,6 @@ matey
 starkness
 unbusinesslike
 anymore
-bounder
 firmly
 harridan
 pepsin
@@ -3338,7 +3338,7 @@ erg
 futural
 reoccur
 reoccurrence
-punctuated
+punctuated (endurskoða)
 personified
 flippantly
 effortful
@@ -5679,7 +5679,6 @@ duskiness
 tailpipe
 wrenching
 exquisitely
-unworthiness
 atlas (endurskoða)
 Ismaili
 Sephardic
@@ -5718,3 +5717,31 @@ anticyclone
 convection
 convective
 advection
+exhalation (endurskoða)
+commissioning
+military commission
+delegating
+hoi polloi
+playscript
+word of honor
+helioscope (endurskoða)
+reheel
+splendiferous
+fantabulous
+marked (endurskoða)
+any (endurskoða)
+twisting
+title-holder
+fly-tipping
+terrified
+swashbuckler (endurskoða)
+swashbuckling
+polliwog
+bumfuck
+winnebago
+prostatomegaly
+testis
+echinacea
+dulcimer
+s'more
+smore

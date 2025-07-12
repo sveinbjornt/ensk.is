@@ -76,7 +76,7 @@ want n. skortur; þörf; fátækt; neyð; [for ~ of] sökum skorts á; [be in ~ 
 wanton l. gáskafullur ([~ boys]); óstýrilátur; gegndarlaus ([~ pride]); ástæðulaus; léttúðugur; lauslátur, lostafullur; [cast a ~ eye (look) on] líta girndarauga; n. galgopi; flenna; s. leika sér
 wantonness n. gáski; léttúð; lauslæti
 war n. stríð, styrjöld, hernaður, ófriður; [be at ~ with] eiga í ófriði við e-n; [make ~ upon] færa stríð á hendur; [civil ~] borgarastyrjöld; s. heyja stríð
-war cry n. heróp
+war cry n. heróp, stríðsóp
 warfare n. herþjónusta; hernaður; [naval ~] sjóhernaður
 warlike l. herskár; hermannalegur; hernaðar-
 war office n. hermálastjórn
@@ -337,8 +337,8 @@ wharf n. skipabryggja; s. flytja upp á bryggju
 wharfage n. bryggjuleiga, bryggjugjald; legupláss við bryggju
 wharfinger n. bryggjustjóri; bryggjueigandi
 what fn. það sem; hvað; hvaða ([~ books have you read?]); [I'll tell you ~] ég skal segja þér nokkuð; [~ of that] hvað stoðar það? hvað um það?; [~ news?] hvað er í fréttum?; [~ is your name?] hvað heitið þér?; [~ a folly!] hvaða ógnar heimska!; [~ a fine day] en hvað veðrið er gott; [I gave him ~ money I had] ég gaf honum þá peninga sem ég hafði; [come ~ will] komi hvað sem koma vill; [~ with one thing and another the scheme miscarried] áformið mistókst ýmist af þessu, ýmist af hinu; [not a day but ~ it rains] að ekki rigni
-whatever fn. hvað sem ([~ may happen]); [there is no doubt ~] alls enginn vafi
-whatsoever fn. hvað sem ([~ may happen]); [there is no doubt ~] alls enginn vafi
+whatever fn. hvað sem, hvað sem er ([~ may happen]); [there is no doubt ~] alls enginn vafi (yfirhöfuð)
+whatsoever fn. hvað sem,hvað sem er ([~ may happen]); [there is no doubt ~] alls enginn vafi (yfirhöfuð)
 wheal n. bóla (á hörundi)
 wheat n. hveiti
 wheatear n. hveitiax; steindepill
@@ -709,7 +709,7 @@ woolen-draper n. klæðasölumaður
 woolly l. úr ull; ullar-; ullarkenndur
 woolsack n. ullarsekkur; sæti forseta í efri málstofu enska þingsins
 wool-stapler n. ullarkaupmaður
-word n. orð ([I have no ~s to express my gratitude]); loforð ([keep, break one's ~]); drengskaparorð ([~ of honour]); orðsending; [by ~ of mouth] munnlega; [a man of his ~] orðheldinn maður; [a man of few ~s] fáorður; [on (with) the ~] óðara; [a ~ in (out of) season] orð í tíma (ótíma) talað; [big ~s] stóryrði, geip; [honest in ~ and deed] vandaður í orði og verki; [to send ~] gera e-m orð (eða boð); [to eat one's ~s] éta ofan í sig; s. orða
+word n. orð ([I have no ~s to express my gratitude]); loforð ([keep, break one's ~]); drengskaparorð ([~ of honour]); orðsending; [by ~ of mouth] munnlega; [a man of his ~] orðheldinn maður; [a man of few ~s] fáorður; [a ~ in (out of) season] orð í tíma (ótíma) talað; [big ~s] stóryrði, gífuryrði; [honest in ~ and deed] vandaður í orði og verki; [to send ~] gera e-m orð (eða boð); [to eat one's ~s] éta ofan í sig; s. orða
 wordiness n. mælgi, orðagnótt
 wording n. orðun, orðalag, still
 word-painting n. nákvæm lýsing

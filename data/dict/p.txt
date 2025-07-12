@@ -242,7 +242,7 @@ parlour-maid n. stúlka sem gengur um beina
 parochial l. sóknar-, sóknarlegur; sveitar-; [~ register] kirkjubók; [~ relief] sveitarstyrkur
 parodist n. skopstælingamaður
 parody n. háðsleg eftirstæling kvæðis eða annars rits; s. yrkja upp alvarlegt kvæði, svo að það verði hlægilegt; stæla
-parole n. drengskaparorð; orðtak kenniliðsmanna; skilorð; s. láta lausan gegn drengskaparheiti
+parole n. drengskaparorð; orðtak kenniliðsmanna; skilorð (fanga); s. láta lausan gegn drengskaparheiti
 paroxysm n. kast, flog, hviða; [burst into a ~ of tears] fara að gráta ákaft
 parral n. rakki (kaðall, sem ráin er fest við sigluna með)
 parrel n. rakki (kaðall, sem ráin er fest við sigluna með)
@@ -301,7 +301,7 @@ pass n. vegur; öngvegi, skarð; vegabréf; fararleyfi; stig ([at this ~]); ást
 passbook n. viðskiptabók, bankabók
 passkey n. aðallykill
 passman n. kandidat, sem hefur staðist próf án [honours]
-password n. lykilorð
+password n. lykilorð, leyniorð
 passable l. fær yfirferðar; viðunandi, bærilegur
 passably ao. viðunanlega, bærilega
 passage n. yfirferð; umferð; sjóferð; far ([free ~ home]); vegur; sund (milli húsa); göng (í húsi); atriði, atvik; grein, staður (í bók); samþykkt ([~ of a bill)]; [bird of ~] farfugl; [~ of/at arms] vopnaviðskipti; hörð orðadeila; s. ferðast (á skipi); eiga orðadeilu, rífast

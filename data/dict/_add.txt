@@ -8946,7 +8946,7 @@ Maryland n. Maryland (fylki í Bandaríkjunum)
 Massachusetts n. Massachusetts (fylki í Bandaríkjunum)
 Michigan n. Michigan (fylki í Bandaríkjunum)
 Minnesota n. Minnesota (fylki í Bandaríkjunum)
-Mississippi n. Mississippi (fylki í Bandaríkjunum); stór á sem rennur í gegnum suðuhluta Bandaríkjanna
+Mississippi n. Mississippi (fylki í Bandaríkjunum); Mississippi-fljót (stór á sem rennur í gegnum suðurhluta Bandaríkjanna)
 Missouri n. Missouri (fylki í Bandaríkjunum)
 Montana n. Montana (fylki í Bandaríkjunum)
 Nebraska n. Nebraska (fylki í Bandaríkjunum)
@@ -8974,3 +8974,18 @@ West Virginia n. Vestur-Virginía (fylki í Bandaríkjunum)
 Wisconsin n. Wisconsin (fylki í Bandaríkjunum)
 Wyoming n. Wyoming (fylki í Bandaríkjunum)
 mandibular l. kjálka-, neðri kjálka-
+Kabbalah n. dulspeki gyðinga
+missionary work n. trúboðsstarf
+tidy sum n. vegleg upphæð, vænleg upphæð, þokkaleg upphæð (sjá %[tidy]%)
+leger n. sjá %[ledger]%
+Quran n. Kóraninn (heilagt rit múslíma, sjá einnig %[Koran]%)
+battle cry n. stríðsóp, heróp
+bounder n. þorpari, þrjótur, skíthæll (óforml. og forn.)
+evaluator n. matsmaður
+Bayesian statistics nft. bayesísk tölfræði, Bayesartölfræði
+chomp s. tyggja, japlast á
+unworthiness n. óverðugleiki (sjá %[unworthy]%)
+Californian l. kalifornískur, frá Kaliforníufylki í Bandaríkjunum; n. Kaliforníubúi, Kaliforníumaður
+bone marrow n. beinmergur
+vanished l. horfinn, búinn að hverfa, liðinn í burtu (sjá %[vanish]%)
+famished l. soltinn, mjög hungraður

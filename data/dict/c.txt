@@ -122,8 +122,8 @@ candidature n. þingmennskuframboð
 candied l. sykraður, sykurhúðaður
 candle n. kerti
 candle-end n. kertisstubbur
-candlemas n. Kyndilmessa
-candlemass n. Kyndilmessa
+Candlemas n. Kyndilmessa (kristin hátið)
+Candlemass n. Kyndilmessa (kristin hátið)
 candlestick n. kertastjaki
 candour n. hreinskilni, einlægni ([in ~ I must acknowledge that])
 candy n. kandíssykur; s. sjóða í sykri; sykra
@@ -962,7 +962,7 @@ clarity n. skýrleiki; heiðríkja; glöggskyggni
 clash s. skella saman; lenda saman (í deilu); koma í bága við; n. skellur; samrekstur; vopnabrak ([~ of arms]); deila
 clasp n. sylgja, hringja; spennsli (á bók); spenna (á belti); faðmlag; handtak; s. krækja saman; spenna; faðma; taka utan um; [~ one's hands] spenna greipar ([you will ~ your hands in amazement]); [~ hands] takast (innilega) í hendur
 clasp knife n. vasahnífur, sjálfskeiðingur
-class n. flokkur, námsflokkur ([we were of the same ~]); stétt ([the higher, upper, middle, lower, working ~es]); bekkur (í skóla); [the ~es] höfðingjarnir, gagnstætt [the masses] almúganum; [take a ~] fá ágætiseinkunn; [travelling first ~] ferðast á fyrsta farrými; [first ~] fyrsta flokks; [an exercise (to be) done in ~] skólastíll; [she was in ~] í tíma; s. flokka, skipa í flokk
+class n. flokkur, námsflokkur ([we were of the same ~]); stétt ([the higher, upper, middle, lower, working ~es]); bekkur (í skóla); [the ~es] höfðingjarnir, gagnstætt [the masses] almúganum; [take a ~] fá ágætiseinkunn; [travelling first ~] ferðast á fyrsta farrými; [first ~] fyrsta flokks, í fremsta flokki; [an exercise (to be) done in ~] skólastíll; [she was in ~] í tíma; s. flokka, skipa í flokk
 classbook n. skólabók
 classer n. [third-~] farþegi á þriðja farrými
 classfellow n. bekkjarbróðir
@@ -1853,7 +1853,7 @@ considering s. þegar lítið er á ([~ the frailty of human nature]); ao. eftir
 consign s. selja (fela) á hendur ([~ one to a person's care]); leggja (peninga) til geymslu (í banka); senda (vöru) til sölu (í umboði)
 consignee n. móttökumaður (vörusendingar), viðtakandi
 consignation n. fjárgreiðsla í banka eða í hendur á löglegum viðtakanda; vörusending til umboðssölu eða til geymslu; [to the ~ of] sent til (e-s)
-consignment n. vörusending
+consignment n. vörusending ([a ~ of goods])
 consignor n. vörusendandi ([~ of goods])
 consist s. vera fólginn (í [in]); vera samsettur (af [of]); vera samkvæmur (e-u [with])
 consistency n. samfesta, þéttleiki; samkvæmni, samræmi; stöðugleiki, staðfesta (í skoðunum)
@@ -2270,7 +2270,7 @@ countenancer n. styrktarmaður, stuðningsmaður
 counter l. gagnstæður; ao. gagnstætt, öfugt, andstætt ([to go, act ~ to]); s. mótmæla, andmæla, vinna gegn; n. teljari; spilapeningur; búðarborð; bringa (á hesti); bakhluti á skó eða stígvéli
 counteract s. aftra, vinna gegn; vera á móti
 counteraction n. gagnverkun, öftrun; mótstaða, andstaða
-counterbalance s. vega upp á móti, jafnvætta; n. mótvægi, andvægi
+counterbalance s. vega upp á móti, vega gegn, jafnvætta; n. mótvægi, andvægi
 countercharge n. gagnkæra, gagnsök
 counterclaim n. gagnkrafa; s. krefjast aftur á móti
 countercurrent n. gagnstreymi, öfugstreymi

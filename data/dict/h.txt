@@ -381,7 +381,7 @@ hedge writer n. ónýtur rithöfundur
 heed s. gefa gaum að, hirða um; n. gaumur, eftirtekt; [to take ~] vera var um sig; [to give ~ to] gefa e-u gaum
 heedful l. gætinn, varkár
 heedless l. hirðulaus, gálaus, óvarkár
-heel n. hæll; [from head to ~, from ~ to point] frá hvirfli til ilja; [to lay by the ~s] leggja í fjötra; [to show the ~s] flýja; [to take to the ~s] taka til fótanna; [to be at the ~s of] vera í hælunum á; [to be out at (the) ~s] hafa gat á (sokk)hælunum; vera illa staddur; [to tumble ~s over head] steypa sér (steypast) í kollhnís; s. hæla (skó); (um hund) vera í hælunum á (skepnu), bíta í hælinn
+heel n. hæll; [from head to ~, from ~ to point] frá hvirfli til ilja; [to lay by the ~s] leggja í fjötra; [to show the ~s] flýja; [to take to the ~s] taka til fótanna; [to be at the ~s of] vera í hælunum á; [to be out at (the) ~s] hafa gat á (sokk)hælunum, vera illa staddur; [to tumble ~s over head] steypa sér (steypast) í kollhnís; skíthæll (sjá %[shitheel]%) s. hæla (skó); (um hund) vera í hælunum á (skepnu), bíta í hælinn
 heelpiece s. gera við hæl (á skó); n. hælleður
 heeltap n. hælplata; dreggjar í staupi
 heel s. leggja á hliðina; leggjast á hliðina, hallast (um skip)
@@ -392,7 +392,7 @@ heigh-ho uh. æ! ó!
 height n. hæð; hæsta (efsta) stig; [it is the ~ of folly] það er hin mesta heimska
 heighten s. hækka; auka
 heinous l. viðbjóðslegur, hræðilegur ([a ~ crime])
-heir n. erfingi ([the ~ to the estate]); [~ at law] lögerfingi; s. erfa
+heir n. erfingi ([~ to the estate]); [~ at law] lögerfingi; s. erfa (sjá %[inherit]%)
 heirdom n. arftaka
 heiress n. kvenerfingi; kona sem á von á miklum arfi
 heirloom n. erfðafé (sem fylgir léni eða erfðajörð); ættargripur, erfðagripur ([a family ~])
