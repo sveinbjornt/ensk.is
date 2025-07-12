@@ -45,7 +45,7 @@ import orjson as json
 from util import read_wordlist
 
 
-CATEGORIES = read_wordlist("data/catwords.txt")
+CATEGORIES = frozenset(read_wordlist("data/catwords.txt"))
 
 TXT_SUFFIX = ".txt"
 
@@ -218,7 +218,7 @@ def syllables_for_word(w: str) -> str:
     from nltk.tokenize import SyllableTokenizer
 
     global syllable_tokenizer
-    if not syllable_tokenizer:
+    if syllable_tokenizer is None:
         syllable_tokenizer = SyllableTokenizer()
 
     tokens = []

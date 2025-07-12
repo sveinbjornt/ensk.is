@@ -171,10 +171,14 @@ def add_metadata_to_db(num_entries) -> None:
 def add_entries_to_db(entries: EntryList) -> int:
     """Insert all entries into database."""
     db = EnskDatabase()
-    for e in entries:
-        db.add_entry(*e)
 
+    cursor = db.conn().cursor()
+    cursor.executemany(
+        "INSERT INTO dictionary (word, definition, syllables, ipa_uk, ipa_us, page_num) VALUES (?,?,?,?,?,?)",
+        entries,
+    )
     db.conn().commit()
+
     return len(entries)
 
 

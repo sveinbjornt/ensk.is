@@ -71,7 +71,7 @@ num_no_page_entries = len(no_page_entries)
 metadata = edb.read_metadata()
 
 # Get all entries in each category and store in dict
-CATEGORIES = read_wordlist("data/catwords.txt")
+CATEGORIES = frozenset(read_wordlist("data/catwords.txt"))
 CAT2ENTRIES = {}
 for c in CATEGORIES:
     cs = c.rstrip(".")

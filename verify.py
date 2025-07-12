@@ -50,8 +50,8 @@ EN_WORDS_LIST = read_wordlist("data/wordlists/words.txt")
 EN_WORDS_WHITELIST = read_wordlist("data/en.whitelist.txt")
 EN_WORDS_LIST.extend(EN_WORDS_WHITELIST)
 
-CATEGORIES = read_wordlist("data/catwords.txt")
-CATEGORIES_NOPERIOD = [c.rstrip(".") for c in CATEGORIES]
+CATEGORIES = frozenset(read_wordlist("data/catwords.txt"))
+CATEGORIES_NOPERIOD = set([c.rstrip(".") for c in CATEGORIES])
 
 
 ALL_DICT_WORDS = read_all_words()
@@ -285,9 +285,17 @@ def check_ipa_ignore_words():
 
     for word in ipa_ignore_words:
         if word not in ALL_DICT_WORDS:
-            warn(f"Word '{word}' in ipa_ignore.txt is not present in the dictionary.", "ipa_ignore.txt", 0)
+            warn(
+                f"Word '{word}' in ipa_ignore.txt is not present in the dictionary.",
+                "ipa_ignore.txt",
+                0,
+            )
         if word in uk_ipa_dict:
-            warn(f"Word '{word}' in ipa_ignore.txt IS present in the UK IPA dictionary. Remove it from ipa_ignore.txt.", "ipa_ignore.txt", 0)
+            warn(
+                f"Word '{word}' in ipa_ignore.txt IS present in the UK IPA dictionary. Remove it from ipa_ignore.txt.",
+                "ipa_ignore.txt",
+                0,
+            )
 
 
 def main():
