@@ -4,6 +4,7 @@ Test ensk.is web application routes
 """
 
 from typing import Any
+from unittest.mock import patch
 
 import os
 import sys
@@ -16,7 +17,18 @@ basepath, _ = os.path.split(os.path.realpath(__file__))
 src_path = os.path.join(basepath, "..")
 sys.path.append(src_path)
 
-from app import app  # noqa: E402
+# Mock synonym functions before importing app
+def mock_synonyms_for_word(w: str) -> list[str]:
+    """Mock function for synonyms_for_word."""
+    return ["test", "mock"]
+
+def mock_linked_synonyms_for_word(w: str, wordlist: list[str]) -> list[dict[str, Any]]:
+    """Mock function for linked_synonyms_for_word."""
+    return [{"word": "test", "exists": False}, {"word": "mock", "exists": False}]
+
+with patch('dict.synonyms_for_word', side_effect=mock_synonyms_for_word):
+    with patch('dict.linked_synonyms_for_word', side_effect=mock_linked_synonyms_for_word):
+        from app import app  # noqa: E402
 
 
 def in_ci_env() -> bool:
