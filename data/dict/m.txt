@@ -197,7 +197,7 @@ manger n. jata
 mangle s. höggva í sundur; lemstra; skemma, spilla með höggum; afbaka (texta); kefla línvörur (slétta í keflivél); n. keflivél
 mango n. mangó, mangóávöxtur; mangótré (hitabeltistré)
 mangy l. kláðugur; slitinn; sóðalegur; fyrirlitlegur
-manhood n. manndómur; fullorðinsaldur; karlmennska
+manhood n. manndómur; fullorðinsaldur ([reach ~]); karlmennska
 mania n. æði, manía; áköf löngun; sótt
 maniac n. vitfirringur, vitstola maður; l. óður, vitskertur
 maniacal l. óður, æðislegur
@@ -208,16 +208,16 @@ manifestation n. birting; auglýsing, sýning
 manifestly ao. augljóslega
 manifesto n. opinber yfirlýsing, stefnuskrá
 manifold l. margfaldur; margskonar, margvíslegur; s. margfalda ([~ copies of letters])
-manifoldly ao. margfaldlega
+manifoldly ao. margfaldlega, margvíslega
 manikin n. dvergur; afstyrmi; mannlíki
 manille n. næsthæsta tromp í ýmsum spilum
 maniple n. lítill hermannaflokkur (hjá Rómverjum); hvít silkislæða, þriggja feta löng, sem hangir úr vinstri handlegg rómversks-kaþólsks prests
-manipulate s. fara kunnáttulega með; handfjatla; handleika sviksamlega; ráðskast með; falsa (bækur, tölur)
-manipulation n. meðferð; handfjötlun; sviksamleg brögð; ráðskun
+manipulate s. handfjatla; fara kunnáttulega með; handleika sviksamlega; ráðskast með; falsa (bækur, tölur)
+manipulation n. meðferð; handfjötlun; sviksamleg brögð; ráðskun; fölsun (um bækur, tölur o.þ.h.)
 mankind n. mannkyn; menn
 manlike l. karlmannlegur; manndómlegur
 manliness n. karlmennska
-manly l. karlmannlegur, hugaður; drengilegur
+manly l. karlmannlegur; hugaður; drengilegur
 manna n. mannabrauð, himnabrauð; andleg fæða; mannasaft
 manner n. háttur, aðferð; siður; tegund; ft. háttalag, viðmót; [make your ~s] heilsaðu fallega; [all ~ of] alls konar; [by no ~ of means] með alls engu móti; [in a ~] að sumu leyti; [in (after) this ~] á þennan hátt
 mannered l. siðaður ([well ~]); tilgerðarlegur (um listaverk)

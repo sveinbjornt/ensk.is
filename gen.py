@@ -280,7 +280,7 @@ def generate_json(entries: EntryList) -> str:
             "definition": definition,
             "syllables": syllables,
             "pronunciation": {"ipa_uk": ipa_uk, "ipa_us": ipa_us},
-            "metadata": {"original_page": page_num if page_num > 0 else None},
+            # "metadata": {"original_page": page_num if page_num > 0 else None},
         }
         dictionary_data["entries"].append(entry_data)
 

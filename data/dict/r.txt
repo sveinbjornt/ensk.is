@@ -4,7 +4,7 @@ rabbi n. rabbíni, meistari, lögvitringur (hjá Gyðingum)
 rabbin n. rabbíni, meistari, lögvitringur (hjá Gyðingum)
 rabbit n. kanína
 rabble n. rusl; skríll; s. gera (e-m) aðsúg
-rabid l. æðisgenginn, óður (um hunda)
+rabid l. æðisgenginn; hundaóður, óður (um hunda)
 rabidness n. æði
 rabies n. hundaæði
 raccoon n. þvottabjörn
@@ -628,7 +628,7 @@ reimbursement n. endurgreiðsla, endurborgun
 reimpression n. endurprentun, ný útgáfa
 rein n. taumur; [give the ~s] slaka taumhaldið; [take the ~s] taka í (stjórnar)taumana; s. stýra, hafa taumhald á; [~ in/up] halda fast í taumana, halda við (hestinn)
 reinless l. laumlaus
-reincarnate s. endurholdgast
+reincarnate s. endurholdga, endurholdgast, taka á sig veraldlegan búning á ný
 reindeer n. hreindýr
 reinforce s. styrkja, efla (að liði)
 reins nft. nýru
@@ -1295,16 +1295,16 @@ rivet n. rónagli, hnoðnagli; spöng (á leiríláti); s. hnoða, hnykkja; spen
 riveting hammer n. hnoðhamar
 rivulet n. lækur
 rix-dollar n. ríkisdalur
-roach n. karfategund
+roach n. karfategund; kakkalakki (%[cockroach]%)
 road n. vegur, þjóðvegur; leið; skipalægi
 road metal n. steinmulningur í veg
 roadstead n. skipalægi
 roadster n. ferðamaður; ökumaður; ökuhestur; skip við akkeri
 roadway n. akvegur
 roadworthy l. hæfur til að nota á vegi ([a ~ vehicle])
-roam s. ráfa, reika (um eða yfir); [~ the streets]
-roamer n. flakkari
-roaming n. reik, flakk
+roam s. ráfa, reika, flakka (um eða yfir); [~ the streets] ráfa um göturnar
+roamer n. flakkari, ráfari
+roaming n. reik, flakk, ráf
 roan l. apalrauður; rauðdröfnóttur (um hest); n. apalrauður (litföróttur) hestur; skinn, sem líkist saffíani (til bókbands)
 roar s. öskra, grenja; æpa; bylja; drynja; skellihlæja ([~ with laughter]); n. öskur; óp, óhljóð; dunur; [~ of laughter] skellihlátur
 roarer n. öskrandi dýr; hávaðamaður
