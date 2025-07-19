@@ -12,7 +12,6 @@ Usage:
 import argparse
 import json
 import re
-import sys
 from collections import Counter
 from pathlib import Path
 from typing import Dict, Tuple
@@ -22,7 +21,6 @@ import xml.etree.ElementTree as ET
 import bz2
 import tempfile
 import os
-import zipfile
 
 
 class FrequencyAnalyzer:
@@ -575,7 +573,7 @@ def main():
     # Save results
     analyzer.save_results(frequency_data, args.output)
 
-    print(f"\nDone! Use the frequency data in your dictionary by loading:")
+    print("\nDone! Use the frequency data in your dictionary by loading:")
     print(f"  {args.output}")
 
 
