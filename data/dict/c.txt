@@ -1,4 +1,4 @@
-cab n. leigubíll, leiguvagn s. flytja (aka) í leigubíl, leiguvagni
+cab n. leigubíll, leiguvagn; s. flytja (aka) í leigubíl, leiguvagni
 cabman n. vagnstjóri, ekill
 cabal n. leynisamtök, svikræði; s. beita brögðum, hafa leynisamtök
 caballer n. bragðarefur
@@ -1521,7 +1521,7 @@ compile s. draga saman (úr ritum); semja (eftir ýmsum ritum); þýða hugbúna
 complacence n. velþóknun; sjálfsánægja
 complacency n. velþóknun; sjálfsánægja
 complacent l. ánægður með sjálfan sig; sem lýsir sjálfsánægju
-complain s. kvarta (undan e-u, um e-ð [of]); braka (um skipsviði)
+complain s. kvarta (undan e-u, um e-ð [of]); nöldra; braka (um skipsviði)
 complainant n. kærandi; kvartandi
 complainer n. kærandi; kvartandi
 complaint n. kvörtun; kveinstafir; harmatölur; kæra; kæruefni; sjúkdómur ([~s of the throat])
@@ -1736,8 +1736,8 @@ conformity n. samræmi ([~ with, to]); samkvæmni
 confound s. ónýta ([~ a plan, a hope]); rugla; blanda saman; [~ the fellow] fari hann bölvaður, kolaður!
 confounded l. ruglaður; bölvaður, skollans
 confoundedly ao. skolli, skrambi ([~ fond of])
-confront s. standa í móti eða andspænis e-m; ganga fram fyrir; leiða saman, setja augliti til auglitis; samprófa; bera saman
-confrontation n. árekstur, átök
+confront s. standa í móti eða andspænis e-m; mæta (e-m); ganga fram fyrir; leiða saman; standa augliti til auglitis; samprófa; bera saman
+confrontation n. árekstur, átök, ágreiningur
 confuse s. trufla; rugla saman
 confused l. truflaður, ruglaður
 confusedly ao. ruglingslega; óljóst

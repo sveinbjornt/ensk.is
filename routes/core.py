@@ -29,7 +29,8 @@ class CustomJSONResponse(FastAPIJSONResponse):
 JSONResponse = CustomJSONResponse
 
 # Set up templates
-templates = Jinja2Templates(directory="templates")
+TEMPLATES_DIR = "templates"
+templates = Jinja2Templates(directory=TEMPLATES_DIR)
 TemplateResponse = templates.TemplateResponse
 
 # Initialize database singleton

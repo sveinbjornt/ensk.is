@@ -376,7 +376,7 @@ glen n. dalverpi; gil
 glib l. háll, sleipur; liðugur (um tungu)
 glibly ao. hæglega, liðugt
 glibness n. hálka; liðugleiki
-glide s. renna, liða, svífa
+glide s. renna, liða, svífa; n. glæra
 glimmer s. skína dauft, týra; n. skíma, týra; blik; gljásteinn
 glimpse n. leiftur, glampi; snögg sjón; [to catch a ~ of] sjá snöggvast, sjá í svip eða bregða fyrir; s. koma auga á, sjá í svip; lita snöggvast á e-ð ([at, upon])
 glint s. glitra, skína ([~ in the sunlight]); n. bjarmi, skíma

@@ -1354,8 +1354,8 @@ DVD n. mynddiskur, DVD-diskur (sks. á [Digital Video Disc] eða [Digital Versat
 beautification n. fegrun
 beautician n. snyrtifræðingur, fegrunarfræðingur
 ceasefire n. vopnahlé
-millipede n. þúsundfætla
-cherubic l. engillegur; saklaus, ljúfur
+millipede n. þúsundfætla, margfætla
+cherubic l. engillegur, eins og engill; saklaus, ljúfur
 lyricism n. ljóðrænn stíll
 pragmatism n. raunsæi; verkhyggja (í heimspeki); sjá %[pragmatic]%
 pragmatist n. raunsær maður (sem fylgir ekki kreddum); verkhyggjumaður (í heimspeki); sjá %[pragmatic]%
@@ -7370,7 +7370,7 @@ developed l. þróaður; framkallaður (um filmu)
 superficially ao. yfirborðslega, á yfirborðskenndan hátt
 chickadee n. meisa (fuglategund)
 annunciatory l. boðunar-; tilkynningar-
-precarity n. óöryggi; óstöðugleiki
+precarity n. óöryggi; óstöðugleiki; óforsjálni ([the ~ of her situation])
 fibre-optic l. ljósleiðara-
 emitter n. útgeislari; losunaraðili; sá sem gefur frá sér (sjá %[emit]%)
 standalone l. sjálfstæður, sem stendur einn og sér
@@ -8117,7 +8117,7 @@ well-founded l. vel ígrundaður
 well-grounded l. vel ígrundaður
 staged l. sviðsett
 verboseness n. orðgnótt
-veggie n. grænmeti (stytt. á %[vegetable]%); grænmetis-, grænmetisætu-, jurtaætu- (stytt. á %[vegetarian]%); n. grænmetisæta
+veggie n. grænmeti (stytt. á %[vegetable]%); grænmetisæta (stytt. á %[vegetarian]%); l. grænmetis-, grænmetisætu-, jurtaætu- (stytt. á %[vegetarian]%)
 tactfulness n. háttvísi
 stretchability n. teygjanleiki
 stalwartness n. hreysti; hugrekki; kjarkur
@@ -8990,3 +8990,26 @@ bone marrow n. beinmergur
 vanished l. horfinn, búinn að hverfa, liðinn í burtu (sjá %[vanish]%)
 famished l. soltinn, mjög hungraður
 justifier n. réttlætari; verjandi, afsakari
+glides nft. glærur
+Gascon l. gaskónskur; n. Gaskóni; gaskónska (rómanskt tungumál)
+nictitate s. depla augunum
+complaining n. nöldur, kvart; l. kvartandi, nöldrandi, kvörtunarsamur (sjá %[complain]%)
+lodgepole pine n. stafafura (trjátegund)
+sea mile n. sjómíla (1.852 metrar)
+nautical mile n. sjómíla (1.852 metrar)
+grayback n. deplasíld; randakerplingur
+Turkic l. tyrkískur, er lýtur að tyrkískum tungumálum ([~ languages])
+golliwog n. e.k. blökkumannsdúkka (niðrandi)
+terrified l. dauðhræddur, skelfdur, skelfingu lostinn, afar skelkaður
+irritated l. pirraður, ertur, egnaður
+parlor n. sjá %[parlour]%
+atom bomb n. sjá %[atomic bomb]%
+atomic bomb n. atómsprengja, kjarnorkusprengja
+insaneness n. sjá %[insanity]%
+rabidity n. hundaæði (sjá %[rabid]%); flökt
+hypothetic l. sjá %[hypothetical]%
+hypothesise s. sjá %[hypothesize]%
+theorise s. sjá %[theorize]%
+borstal n. betrunarheimili (í Bretlandi)
+kombucha n. sveppate
+manacled l. í handfjötrum, fjötraður
