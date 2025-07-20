@@ -2081,6 +2081,7 @@ grandpa n. afi (óforml., sjá %[grandfather]%)
 grandpapa n. afi (óforml., sjá %[grandfather]%)
 grandma n. amma (óforml., sjá %[grandmother]%)
 grandmama n. amma (óforml., sjá %[grandmother]%)
+mama n. mamma (óforml., sjá %[mother]%)
 pseudocrater n. gervigígur
 radioactive l. geislavirkur
 radioactivity n. geislavirkni
@@ -2642,6 +2643,7 @@ washboard n. þvottabretti
 chromosphere n. lithvolf
 mom n. mamma, móðir (óforml.)
 mommy n. mamma, móðir (óforml.)
+momma n. mamma, móðir (óforml.)
 philosophically ao. heimspekilega
 uninterpretable l. ótúlkanlegur
 predictability n. fyrirsjáanleiki
@@ -2653,16 +2655,16 @@ biologically ao. líffræðilega
 heroically ao. hetjulega
 unheroically ao. óhetjulega
 tubercular l. berkla- (sjá %[tuberculosis]%)
-lemma n. lemma, flettimynd
-lemmatize s. lemma
+lemma n. lemma, flettimynd (orðs)
+lemmatize s. lemma (orð)
 toke s. reykja kannabis (óforml.)
-foxhound n. veiðihundur
+foxhound n. (breskur) veiðihundur
 unharmonious l. ósamræmur, ósamhljóða; óhljómfagur; ósamhuga, ósamlyndur
 warlock n. seiðkarl, galdrakarl
 adjustable l. stillanlegur
 prenuptial l. á undan brúðkaupi, fyrir brúðkaup; n. kaupmáli ([~ agreement])
 prenup n. stytt. á %[prenuptial]%
-caffeine n. koffín
+caffeine n. koffín (örvandi efni)
 childlessness n. barnleysi
 paralegal n. aðstoðarmaður lögfræðings
 stairwell n. stigagangur
@@ -8987,11 +8989,11 @@ chomp s. tyggja, japlast á
 unworthiness n. óverðugleiki (sjá %[unworthy]%)
 Californian l. kalifornískur, frá Kaliforníufylki í Bandaríkjunum; n. Kaliforníubúi, Kaliforníumaður
 bone marrow n. beinmergur
-vanished l. horfinn, búinn að hverfa, liðinn í burtu (sjá %[vanish]%)
+vanished l. horfinn, liðinn í burtu (sjá %[vanish]%)
 famished l. soltinn, mjög hungraður
 justifier n. réttlætari; verjandi, afsakari
 glides nft. glærur
-Gascon l. gaskónskur; n. Gaskóni; gaskónska (rómanskt tungumál)
+Gascon l. gaskónskur, frá Gaskóníu; n. Gaskóni; gaskónska (rómanskt tungumál)
 nictitate s. depla augunum
 complaining n. nöldur, kvart; l. kvartandi, nöldrandi, kvörtunarsamur (sjá %[complain]%)
 lodgepole pine n. stafafura (trjátegund)
@@ -8999,7 +9001,7 @@ sea mile n. sjómíla (1.852 metrar)
 nautical mile n. sjómíla (1.852 metrar)
 grayback n. deplasíld; randakerplingur
 Turkic l. tyrkískur, er lýtur að tyrkískum tungumálum ([~ languages])
-golliwog n. e.k. blökkumannsdúkka, skopmynd af blökkumanni (niðrandi)
+golliwog n. e.k. blökkumannsdúkka eða skopmynd af blökkumanni (niðrandi)
 terrified l. dauðhræddur, skelfdur, skelfingu lostinn, afar skelkaður
 irritated l. pirraður, ertur, egnaður
 parlor n. sjá %[parlour]%
@@ -9012,5 +9014,5 @@ hypothesise s. sjá %[hypothesize]%
 theorise s. sjá %[theorize]%
 borstal n. betrunarheimili (í Bretlandi)
 kombucha n. sveppate
-manacled l. í handfjötrum, fjötraður
+manacled l. í handfjötrum, handfjötraður, fjötraður
 snapdragon n. drekablóm, ljónsmunnur (plöntutegund)
