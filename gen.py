@@ -60,12 +60,13 @@ from util import zip_file, read_json, silently_remove
 from info import PROJECT
 
 
-EntryType = tuple[str, str, str, str, str, int]
+EntryType = tuple[str, str, str, str, str, int, int]
 EntryList = list[EntryType]
 
 
 ENWORD_TO_IPA_UK = read_json("data/ipa/uk/en2ipa.json")
 ENWORD_TO_IPA_US = read_json("data/ipa/us/en2ipa.json")
+WORD_FREQ_MAP = read_json("data/freq/word_frequency_map.json")
 
 
 def ipa4entry(s: str, lang: str = "uk") -> str | None:
@@ -122,7 +123,8 @@ def read_all_entries() -> EntryList:
         ipa_uk = ipa4entry(w, lang="uk") or ""
         ipa_us = ipa4entry(w, lang="us") or ""
         pn = page_for_word(w)
-        entries.append(tuple([w, definition, syll, ipa_uk, ipa_us, pn]))
+        freq = WORD_FREQ_MAP.get(w, -1)
+        entries.append(tuple([w, definition, syll, ipa_uk, ipa_us, pn, freq]))
 
     entries.sort(key=lambda d: d[0].lower())  # Sort alphabetically by word
 
@@ -174,7 +176,7 @@ def add_entries_to_db(entries: EntryList) -> int:
 
     cursor = db.conn().cursor()
     cursor.executemany(
-        "INSERT INTO dictionary (word, definition, syllables, ipa_uk, ipa_us, page_num) VALUES (?,?,?,?,?,?)",
+        "INSERT INTO dictionary (word, definition, syllables, ipa_uk, ipa_us, page_num, freq) VALUES (?,?,?,?,?,?,?)",
         entries,
     )
     db.conn().commit()
@@ -200,7 +202,7 @@ def optimize_db() -> None:
 
 def generate_csv(entries: EntryList, unlink_csv: bool = False) -> str:
     """Generate zipped CSV file. Return file path."""
-    fields = ["word", "definition", "ipa_uk", "ipa_us", "page_num"]
+    fields = ["word", "definition", "ipa_uk", "ipa_us", "page_num", "freq"]
 
     # Change to static files dir
     old_cwd = os.getcwd()
@@ -274,7 +276,7 @@ def generate_json(entries: EntryList) -> str:
 
     # Add each entry to the dictionary
     for entry in entries:
-        word, definition, syllables, ipa_uk, ipa_us, page_num = entry
+        word, definition, syllables, ipa_uk, ipa_us, page_num, freq = entry
         entry_data = {
             "headword": word,
             "definition": definition,
