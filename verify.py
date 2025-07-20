@@ -156,7 +156,7 @@ def check_category(line: str, pn: str, ln: int):
         if f" {c} " in line:
             hascat = True
             break
-        if line.count(f"{c} ") > 1 and c not in ("stytt", "sks"):
+        if line.count(f"{c} ") > 1:  # and c not in ("stytt", "sks"):
             hasdupcat = True
             break
 

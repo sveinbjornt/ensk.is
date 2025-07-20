@@ -281,3 +281,53 @@ def linked_synonyms_for_word(w: str, wordlist: list[str]) -> list[dict[str, Any]
             }
         )
     return ls
+
+
+FREQ_MAP = None
+FREQ_DESC = {
+    -1: "",
+    0: "mjög algengt",
+    1: "algengt",
+    2: "almennt",
+    3: "óalgengt",
+    4: "sjaldgæft",
+    5: "mjög sjaldgæft",
+}
+
+
+def freq_for_word(w: str) -> int:
+    """Look up the frequency of a word in the dictionary."""
+    if not w:
+        return -1
+
+    # Lazy-load the frequency map from JSON file
+    global FREQ_MAP
+    if not FREQ_MAP:
+        with open("data/freq/frequency.json", "r") as file:
+            FREQ_MAP = json.loads(file.read())
+
+    freq = FREQ_MAP.get(w)
+    if freq is None:
+        freq = FREQ_MAP.get(w.lower(), -1)
+
+    if freq is None:
+        return -1
+
+
+DEFAULT_MISSING_COLOR = "#FFF"  # Default color for missing frequency
+
+FREQ_COLOR = {
+    0: "#228B22",
+    1: "#32CD32",
+    2: "#DAA520",
+    3: "#FFA500",
+    4: "#FF6347",
+    5: "#B22222",
+}
+
+
+def color_for_freq(freq: int) -> str:
+    """Return a color for a given frequency."""
+    if freq < 0 or freq > 5:
+        return DEFAULT_MISSING_COLOR  # Black for out of range
+    return FREQ_COLOR.get(freq, DEFAULT_MISSING_COLOR)  # Default to black if not found
