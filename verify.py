@@ -117,6 +117,9 @@ def check_punctuation(line: str, pn: str, ln: int):
     if " ]" in line:
         warn("] space error", pn, ln)
 
+    if line.endswith(","):
+        warn("line ends with comma", pn, ln)
+
     # segm = line.split(";")
     # for s in segm:
     #     if not "." in s:
