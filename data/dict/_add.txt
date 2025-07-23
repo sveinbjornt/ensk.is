@@ -286,10 +286,10 @@ wobbly l. valtur
 workflow n. verkferli, verkskipulag, verkflæði
 workforce n. vinnuafl, starfslið; vinnumarkaður
 widespread l. víðtækur; útbreiddur
-watt n. vatt (mælieining)
-megawatt n. megavatt (milljón vött)
-gigawatt n. gígavatt (milljarður vatta)
-kilowatt n. kílóvatt (þúsund vött)
+watt n. vatt (mælieining afls)
+megawatt n. megavatt (milljón vött, sjá %[mega-]% og %[watt]%)
+gigawatt n. gígavatt (milljarður vatta, sjá %[giga-]% og %[watt]%)
+kilowatt n. kílóvatt (þúsund vött, sjá %[kilo-]% og %[watt]%)
 workstation n. vinnustöð; skrifborðstölva
 cougar n. fjallaljón; kynferðislega virk eldri kona (óforml.)
 calisthenics nft. leikfimiæfingar
@@ -428,6 +428,7 @@ module n. (sjálfstæð) eining í kerfi
 modular l. samansett úr (sjálfstæðum) einingum
 oil tanker n. olíuskip, olíuflutningaskip
 tanker n. skip sem flytur mikið magn af vökva (t.d. olíu)
+neoconservatism n. nýíhaldsstefna
 neoconservative n. nýíhaldsmaður; l. nýíhalds-, nýíhaldssamur
 rollerblade n. línuskaut; nft. línuskautar
 plexiglass n. plexígler
@@ -1028,7 +1029,7 @@ zero gravity n. þyngdarleysi (t.d. í geimskipi eða geimstöð)
 amplifier n. magnari
 amp n. magnari (stytt. á %[amplifier]%); amper (grunneining rafstraums)
 erotica nft. kynæsandi bækur, list eða myndefni
-gram n. gramm
+gram n. gramm (mælieining þyngdar); stæða ([n-gram])
 patriarchy n. feðraveldi, ættfeðrastjórn
 matriarchy n. mæðraveldi, kvennaveldi
 matriarchate n. mæðraveldi, kvennaveldi
@@ -1152,10 +1153,10 @@ photocopier n. ljósritunarvél
 behavioural l. atferlis-, hegðunar-
 behavioral l. sjá %[behavioural]%
 technocracy n. tækniveldi
-technocrat n. tækniveldissinni; tækniveldismaður, kerfiskarl
-nightlife n. næturlíf
+technocrat n. tækniveldismaður, kerfiskarl; tækniveldissinni
+nightlife n. næturlíf, djamm
 annoying l. pirrandi, ergjandi, truflandi
-supervision n. eftirlit, yfirsjón, (yfir)umsjón,
+supervision n. eftirlit, yfirsjón, umsjón, yfirumsjón
 time zone n. tímabelti
 hegemon n. forystuveldi, forræðisveldi, forysturíki, oddaveldi
 hegemonic l. forystuveldis-, forystu-, forræðis-; sjá %[hegemony]%
@@ -1897,7 +1898,7 @@ maddening l. ærandi
 nightmarish l. martraðarkenndur, martraðar-
 malarial l. malaríu-
 Kurd n. Kúrdi
-Kurdish l. kúrdneskur; kúrdneska (tungumál)
+Kurdish l. kúrdneskur; kúrdneska (indóevrópskt tungumál)
 angst n. angist
 angst-ridden l. angistarfullur
 criminalize s. glæpavæða, banna, gera refsivert
@@ -4922,7 +4923,7 @@ physiotherapist n. sjúkraþjálfari
 physiotherapy n. sjúkraþjálfun
 endosperm n. fræhvíta
 spermicide n. sáðfrumnaeyðir
-triceratops n. nashyrningseðla
+triceratops n. nashyrningseðla (risaeðlutegund)
 brontosaurus n. þórseðla (risaeðlutegund)
 corselet n. lífstykki
 beluga n. mjaldur
@@ -5345,7 +5346,7 @@ backlog n. ólokin verkefni, ófrágengin verkefni, listi ólokinna verkefna
 organisation n. sjá %[organization]%
 pixie n. ljósálfur, álfadís, álfur
 fratriage n. arfur sem rennur til yngri bróður
-brachiosaurus n. finngálkn
+brachiosaurus n. finngálkn (risaeðlutegund)
 yuan n. júan (kínverskur gjaldmiðill)
 renminbi n. júan (kínversk gjaldmiðill)
 octane n. oktan
@@ -5792,8 +5793,8 @@ winemaking n. víngerð, vínframleiðsla, vínbruggun
 winemaker n. víngerðarmaður, vínbruggari, vínframleiðandi
 bourse n. evrópsk verðbréfakauphöll
 accelerometer n. hröðunarmælir
-nanometre n. nanómetri, millímíkron
-nanometer n. nanómetri, millímíkron
+nanometre n. nanómetri, millimíkron (einn milljarðasti úr metra, sjá %[nano-]% og %[metre]%)
+nanometer n. sjá %[nanometre]%
 decametre n. dekametri (tíu metrar)
 decameter n. dekametri (tíu metrar)
 OCD n. áráttu-þráhyggjuröskun (sks. á [obsessive–compulsive disorder])
@@ -7168,7 +7169,7 @@ aspirator n. sogdæla, sogtæki, útsogsdæla
 coven n. nornasamkunda, samkoma (hópur) norna ([a ~ of witches]); systralag norna
 domesticity n. heimilislíf, fjölskyldulíf; heimilisrækni
 burgomastership n. bæjarstjóraembætti, borgarstjóraembætti
-Machiavellian l. undirförull, slóttugur, kænn; í anda ítalska stjórnspekingsins Nicolo Machiavelli
+Machiavellian l. undirförull, slóttugur, kænn; í anda ítalska stjórnspekingsins Niccolo Machiavelli
 analytic l. greiningar-, greinandi; sundurliðandi, uppleysandi; rökgreiningar- ([~ philosophy])
 analytic philosophy n. rökgreiningarheimspeki
 continental philosophy n. meginlandsheimspeki
@@ -8775,7 +8776,7 @@ Shia n. sjía, sjía-siður (fylking innan íslam); sjíti, sjíamúslími
 Shiite n. sjíti, sjíamúslími (sjá %[Shia]%)
 Sufi l. súfisma-, súfista-; n. súfisti
 Sufism n. súfismi (íslömsk dultrú)
-Alawite n. alavíti; l. alavískur
+Alawite n. alavíti (sjá %[Alawism]%); l. alavískur
 Alawism n. alavismi (sértrú innan íslams)
 Druze n. Drúsi; nft. Drúsar (minnihlutahópur í Mið-Austurlöndum)
 Orthodox Church n. kristna réttrúnaðarkirkjan
@@ -8990,15 +8991,14 @@ unworthiness n. óverðugleiki (sjá %[unworthy]%)
 Californian l. kalifornískur, frá Kaliforníufylki í Bandaríkjunum; n. Kaliforníubúi, Kaliforníumaður
 bone marrow n. beinmergur
 vanished l. horfinn, liðinn í burtu (sjá %[vanish]%)
-famished l. soltinn, mjög hungraður
+famished l. soltinn, sársvangur, við hungurmörk
 justifier n. réttlætari; verjandi, afsakari
-glides nft. glærur
+glides nft. glærur; skriðhljóð (í hljóðfræði)
 Gascon l. gaskónskur, frá Gaskóníu; n. Gaskóni; gaskónska (rómanskt tungumál)
 nictitate s. depla augunum
-complaining n. nöldur, kvart; l. kvartandi, nöldrandi, kvörtunarsamur (sjá %[complain]%)
+complaining n. nöldur, kvart, kvörtunarsemi; l. kvartandi, nöldrandi, kvörtunarsamur (sjá %[complain]%)
 lodgepole pine n. stafafura (trjátegund)
 sea mile n. sjómíla (1.852 metrar)
-nautical mile n. sjómíla (1.852 metrar)
 grayback n. deplasíld; randakerplingur
 Turkic l. tyrkískur, er lýtur að tyrkískum tungumálum ([~ languages])
 golliwog n. e.k. blökkumannsdúkka eða skopmynd af blökkumanni (niðrandi)
@@ -9008,7 +9008,7 @@ parlor n. sjá %[parlour]%
 atom bomb n. sjá %[atomic bomb]%
 atomic bomb n. atómsprengja, kjarnorkusprengja
 insaneness n. sjá %[insanity]%
-rabidity n. hundaæði (sjá %[rabid]%); flökt
+rabidity n. hundaæði (sjá %[rabid]%)
 hypothetic l. sjá %[hypothetical]%
 hypothesise s. sjá %[hypothesize]%
 theorise s. sjá %[theorize]%
@@ -9016,3 +9016,199 @@ borstal n. betrunarheimili (í Bretlandi)
 kombucha n. sveppate
 manacled l. í handfjötrum, handfjötraður, fjötraður
 snapdragon n. drekablóm, ljónsmunnur (plöntutegund)
+familiarise s. sjá %[familiarize]%
+endurance contest n. þolraun, þolkeppni, keppni í þoli
+silicate n. sílíkat
+phytonomy n. plöntulíffærafræði
+diabase n. díabas (bergtegund)
+verdigris n. spanskgræna, eirgræna (græna sem myndast á kopari)
+dispersant n. sundrunarefni
+collinearity n. samlínuleiki, línuleg samröðun
+amyloid n. mýlildi, amýlóíð (prótínefni)
+block lava n. apalhraun
+seadragon n. þangdreki (sæhestur)
+tau n. tá (grískur bókstafur)
+myosotis n. munablóm
+lolium n. rýgresi
+eutrophication n. ofauðgun
+shallot n. skalottlaukur
+lignin n. tréni, tréefni, lignín
+diorite n. díórít
+Khazar n. Kasari (af þeim tyrkneska þjóðflokki)
+coffeemaker n. kaffivél
+vermouth n. vermút (áfengur drykkur)
+watermill n. vatnsmylla
+palaeography n. sjá %[paleography]%
+Zealand n. Sjáland (stærsta eyja Danmerkur)
+barosaurus n. njarðareðla (risaeðlutegund)
+Somaliland n. Sómalíland (afrískt ríki)
+biofilm n. líffilma, örverufilma
+haiku n. hæka (japanskur bragarháttur)
+Melanesia n. Melanesía (svæði í Eyjaálfu)
+salamander n. salamandra
+plosive n. lokhljóð
+audiology n. heyrnarfræði
+audiologist n. heyrnarfræðingur
+audiological l. heyrnarfræðilegur
+Varangian n. væringi
+geopositioning n. staðarákvörðun
+bonsai n. (japanskt) dvergtré
+skinning n. fláning
+craniate n. heilakúpudýr
+lyricist n. textahöfundur
+bandsaw n. bandsög
+placentophagy n. legkökuát, fylgjuát
+anti-depressant n. þunglyndislyf; l. sem verkar gegn þunglyndi
+hippology n. hestafræði
+thylacine n. pokaúlfur
+synesthesia n. samskynjun, samskyn
+logogram n. lesmerki, lestákn
+allophone n. hljóðbrigði
+tetrahedron n. ferflötungur
+Sanskrit n. sanskrít (indverskt tungumál)
+capelin n. loðna (fisktegund)
+binge-watching n. hámhorf
+propellant n. drifefni, eldsneyti; l. sem knýr (e-ð) áfram
+sebastes n. karfi (fisktegund)
+fertilisation n. sjá %[fertilization]%
+telomere n. litningsendi
+zygosity n. samsætugerð
+toxoplasmosis n. bogfrymlasótt
+raceme n. smáax, blómklasi
+heliosphere n. sólvindshvolf, sólhvolf
+giganotosaurus n. jötuneðla (risaeðlutegund)
+microfungus n. smásveppur, örsveppur
+thrombus n. blóðsegi
+apophony n. hljóðskipti
+graphene n. grafín
+shoebill n. skónefur (pelíkanfugl)
+farsighted l. sjá %[far-sighted]%
+farsightedness n. sjá %[far-sightedness]%
+far-sightedness n. fjarsýni; framsýni
+electroencephalography n. heilaritun
+tofu n. tófú (hleypt sojamjólk)
+conjunctivitis n. tárubólga, slímhimnubólga
+poorhouse n. fátækrahæli
+Bessarabia n. Bessarabía (svæði í A-Evrópu, norðan við Rúmeníu)
+Scania n. Skánn
+anarcho-syndicalism n. stjórnleysis-samtakahyggja
+anarcho-syndicalist n. stjórnleysis-samtakahyggjumaður
+Antilles n. Antillur, Antillaeyjar (í Karíbahafi)
+equestrianism n. hestamennska
+hydrogeology n. vatnajarðfræði
+cross-stitch n. krosssaumur; s. krosssauma
+cilium n. bifhár; augnhár
+runway n. braut, flugbraut; sýningarpallur (á tískusýningu)
+centralisation n. sjá %[centralization]%
+factorization n. þáttun
+tetrapod n. ferfætlingur
+illuminance n. lýsing
+moped n. skellinaðra
+bullfighting n. nautaat
+quipu n. hnútaletur (Inka)
+Rome n. Róm, Rómarborg; Rómarveldi til forna
+slob n. sóði, subba, óhreinlát manneskja (óforml.)
+cornstalk n. maískólfur
+alcovasaurus n. dálkkemba (risaeðlutegund)
+sprocket n. keðjuhjól
+albertosaurus n. albertaeðla (risaeðlutegund)
+oology n. eggjafræði
+flowerpot n. blómapottur
+allosaurus n. skolleðla (risaeðlutegund)
+spinosaurus n. uggeðla (risaeðlutegund)
+ankylosaurus n. gaddeðla (risaeðlutegund)
+apatosaurus n. þórseðla (risaeðlutegund)
+parasaurolophus n. slóeðla (risaeðlutegund)
+Papua New Guinean l. papúskur, frá Papúa Nýju-Gíneu; n. Papúamaður
+Barbadian l. barbadoskur, frá Barbados; n. Barbadosi
+Seychellois l. seychelleseyskur, frá Seychelles-eyjum; n. Seychelles-eyingur
+Trinidadian l. trínidadískur, frá eyjunni Trínidad; n. Trínidadi
+Vanuatuan l. vanúatúskur, frá Vanúatú; n. Vanúatúi
+Tongan l. tongverskur, frá Tonga; n. Tongverji
+Sierra Leonean l. síerraleónskur, frá Síerra Leóne; n. Síerra Leóne-maður
+Solomon Islander n. Salómonseyingur
+Herzegovinian l. hersegóvínskur, frá Hersegóvínu
+Monegasque l. mónakóskur, frá Mónakó; n. Mónakómaður
+Tobagonian l. tóbagóskur, frá Tóbagó; n. Tóbagómaður
+East Timorese l. austur-tímorskur, frá Austur-Tímor; n. Austur-Tímori
+Phobos n. Fóbos (eitt af tveimur tunglum reikistjörnunnar Mars)
+Deimos n. Deimos (eitt af tveimur tunglum reikistjörnunnar Mars)
+Triton n. Tríton (stærsta tungl reikistjörnunnar Neptúnusar, grískur sjávarguð)
+Asgard n. Ásgarður (heimili ása í norrænni goðafræði)
+Midgard n. Miðgarður (jörð manna í norrænni goðafræði)
+art history n. listasaga
+international relations nft. alþjóðasamskipti, alþjóðastjórnmál
+glockenspiel n. klukkuspil (hljóðfæri)
+euphonium n. baritónhorn, tenórtúba (hljóðfæri)
+clavichord n. klavíkord (strengjahljóðfæri)
+celesta n. selesta (hljómborðshljóðfæri)
+maraca n. hringla (hljóðfæri)
+absurdism n. absúrdismi, fjarstæðustefna, fáránleikastefna (í heimspeki og listum)
+dodecahedron n. tólfflötungur
+torus n. hjólflötur; blómbotn
+cuboid l. teningslaga; n. teningslaga form, teningslögun
+litre n. lítri (mælieining)
+liter n. sjá %[litre]%
+radian n. radíani (mælieining)
+fluid ounce n. únsa (rúmmálseining, 28,41 ml)
+terawatt n. billjón vött (sjá %[tera-]% og %[watt]%)
+tri- fsk. þrí- (t.d. %[triangle]%, %[trilateral]%)
+tetra- fsk. fjór- (t.d. %[tetrapod]%, %[tetragon]%)
+penta- fsk. fimm- (t.d. %[pentagon]%, %[pentameter]%)
+hexa- fsk. sex- (t.d. %[hexagon]%, %[hexameter]%)
+microsecond n. míkrósekúnda (einn milljónasti úr sekúndu)
+picogram n. píkógram (einn biljónasti úr grammi, sjá %[pico-]% og %[gram]%)
+giga- fsk. gíga- (margöldun mælieiningar með milljarði, 10 í 9. veldi, sjá t.d. %[gigabyte]%, %[gigawatt]%, o.s.frv.)
+deca- fsk. deka- (tífaldur); sjá t.d. %[decametre]%, %[decalitre]%, o.s.frv.
+tera- fsk. tera- (margöldun mælieiningar með 10. í 12. veldi); sjá t.d. %[terabyte]%, %[terawatt]%, o.s.frv.
+peta- fsk. peta- (margöldun mælieiningar með þúsund milljón milljónum, 10 í 15. veldi)
+nano- fsk. nanó- (einn milljarðasti úr mælieiningu); sjá t.d. %[nanometre]%
+pico- fsk. píkó- (einn billjónasti úr mælieiningu); sjá t.d. %[picogram]%
+GB sks. Stóra-Bretland (%[Great Britain]%); gígabæti (%[gigabyte]%)
+Great Britain n. Stóra-Bretland
+moonstone n. mánasteinn
+olivine n. ólívín (gimsteinn)
+peridot n. e.k. ólívín (gimsteinn)
+tourmaline n. túrmalín (steintegund)
+cadency n. sjá %[cadence]%
+Mach n. Mach-tala (mælieining sem er margföldun á hljóðhraða)
+machination n. ráðabrugg (sjá %[machinations]%)
+commercialize s. gera að söluvöru, gera að markaðsvöru, markaðsvæða
+commercialise s. sjá %[commercialize]%
+modified l. breyttur, ummyndaður (sjá %[modify]%)
+kilo- fsk. kíló-, þúsund (margföldun mælieiningar með þúsund, t.d. %[kilometre]%, %[kilowatt]%, o.s.frv.)
+deci- fsk. desi- (einn tíundi af mælieiningu, t.d. %[decilitre]%)
+KB n. sks. á %[kilobyte]%, eitt þúsund bæti
+nefariousness n. undurferli, níðingsskapur, svívirðilegheit
+firedrake n. eldspúandi dreki
+petroglyph n. bergrista, bergristumynd
+jukebox n. glymskratti
+bryology n. mosafræði
+blepharitis n. hvarmabólga, hvarmaþroti
+endospore n. dvalagró
+areola n. vörtubaugur, baugur
+hexadecimal l. sextánda, með sextán sem grunntölu ([~ system])
+hex l. sjá %[hexadecimal]%
+octal l. áttunda-; áttundakerfis-; [the ~ system] áttundakerfi
+nanosecond n. nanósekúnda (einn milljarðasti úr sekúndu)
+stillbirth n. andvana fæðing
+pean n. sjá %[paean]%
+tritone n. tónskratti
+cytology n. frumufræði
+cetology n. hvalafræði
+birdwatching n. fuglaskoðun
+birdwatcher n. fuglaskoðari
+wormhole n. ormagöng, ormasmuga
+dromon n. drómundur (herskip á miðöldum)
+premolar n. forjaxl
+zooplankton n. dýrasvif
+progressivism n. framfarahyggja
+hematophage n. rauðkornaæta (átfruma)
+nearsighted l. sjá %[near-sighted]%
+ill-considered l. illa úthugsaður
+received pronunciation n. viðtekinn framburður (í Bretlandi, oft skammstafað %[RP]%)
+RP sks. viðtekinn framburður í Bretlandi (%[received pronunciation]%)
+prepuce n. forhúð, reðurforhúð
+Trotskyism n. trotskíismi
+Trotskyist n. trotskíisti
+Marxism-Leninism n. marx-lenínismi (kommúnísk hugmyndafræði)

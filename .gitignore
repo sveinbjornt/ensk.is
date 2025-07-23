@@ -101,3 +101,5 @@ prompts
 tools/*.txt
 tools/*.csv
 tools/*.json
+.env
+*.csv

@@ -85,7 +85,7 @@ nausea n. sjóveiki; velgja, ógleði
 nauseate s. hafa velgju (ógleði), vera óglatt; hafa viðbjóð (á), klígja (velgja) við (e-u); vekja klígju (ógleði) hjá e-m
 nauseous l. velgjulegur, væminn
 nautical l. siglingalegur, siglinga-
-nautical mile n. sjómíla
+nautical mile n. sjómíla (1.852 metrar)
 nautical chart n. sjókort
 naval l. skipa- ([~ force, power]); flota- ([~ port]); sjóliðs- ([~ officer])
 nave n. nöf, hjólnöf; miðskip (í kirkju), meginkirkja
@@ -142,7 +142,7 @@ needleful n. nálþráður
 needler n. nálasmiður
 needlewoman n. saumakona
 needlework n. saumaskapur, hannyrðir
-nefarious l. níðingslegur, svívirðilegur
+nefarious l. níðingslegur, svívirðilegur, undirförull
 negate s. neita; ónýta
 negation n. neitun
 negative l. neitandi, neilegur, neikvæður; n. neitun; neitunarorð; neikvæði; s. neita, hafna; ósanna; mótmæla ([~ a statement]); ónýta (áhrif)

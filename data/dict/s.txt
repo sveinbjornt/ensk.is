@@ -763,7 +763,7 @@ sextant n. hringsjöttungur; sextungur, sextant (stjörnufræðilegt mæliverkf�
 sexton n. hringjari; messudjákni; yfirgrafari
 sexual l. kyn- ([~ organs] kynfæri, [~ relations] kynmök); kynferðislegur ([~ harassment] kynferðisleg áreitni); samfara-, samræðis- ([~ desire] samræðisfýsn)
 shabbily ao. sóðalega, subbulega, óþrifalega, tötralega
-shabbiness n. óþrifnaður (í klæðaburði), sóðaskapur
+shabbiness n. óþrifnaður (í klæðaburði), sóðaskapur, subbuskapur
 shabby l. slitinn (um föt); tötralegur; sóðalegur, óþrifalegur, subbulegur, sjabbí; illa búinn; lúalegur; nirfilslegur
 shabrack n. söðulklæði
 shackle n. hlekkur; s. fjötra
@@ -868,7 +868,7 @@ shelf n. hilla; sker, sandrif; klettastallur
 shelfy l. fullur af skerjum eða grynningum ([a ~ coast])
 shelvy l. fullur af skerjum eða grynningum ([a ~ coast])
 shell n. skel; skjöldur á skjaldbökum; skurn, hýði; húsgrind; óvönduð líkkista; sprengikúla; [to pitch (throw) ~s] kasta sprengikúlum; s. taka hýðið (skelina) af, flisja, skurna, skjóta sprengikúlum á; kasta hýðinu; [~ out] reka út með sprengikúlum
-shellfish n. skeldýr (kræklingur, ostrur o.fl.)
+shellfish n. skeldýr, skelfiskur (kræklingur, ostrur o.fl.)
 shell gun n. sprengikúlubyssa
 shelling n. hafragrjón; sprengikúlnakast
 shell jacket n. vinnutreyja (hermanna)
@@ -3067,9 +3067,9 @@ swine n. svín; skíthæll (um manneskju)
 swinery n. svínastía; svínaskapur
 swineherd n. svínahirðir
 swinesty n. svínastía
-swing s. sveifla, veifa, vingsa; róla; dingla ([sat on a table ~ing his legs]); dingla (í gálga); róla sér; [the door swung to] skelltist aftur, í lás; n. sveifla; vings; róla; óbundið frelsi; [in full ~] í fullum gangi; [at a rapid ~] á fleygiferð; [walk with a ~] með slætti
+swing s. sveifla, veifa, vingsa; róla; dingla ([sat on a table ~ing his legs]); dingla (í gálga); róla sér; [the door swung to] skelltist aftur, í lás; n. sveifla; vings; róla; óbundið frelsi; [in full ~] í fullum gangi; [at a rapid ~] á fleygiferð; [walk with a ~] með slætti; swing-tónlist
 swing bridge n. sveiflubrú
-swinging l. sveiflandi
+swinging l. sveiflandi; dinglandi
 swinge s. lúberja, refsa
 swingeing l. afskaplegur, fjarskalegur, stórkostlegur ([a ~ blow, a ~ majority])
 swingle s. hreinsa (hör); n. barefli til að hreinsa (berja) með hör, hörslegill

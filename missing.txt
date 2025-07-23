@@ -42,7 +42,6 @@ uncoordinated
 analog
 analogue
 guaranteed
-modified
 inline
 online
 deployment
@@ -822,7 +821,6 @@ manipulator
 rationalization
 conferral
 depressant
-anti-depressant
 careerist
 malaise
 blockage
@@ -1545,7 +1543,6 @@ galore
 cabbie
 stroller
 jab
-dispersant
 tonality
 slugger
 sportsmanship
@@ -1952,8 +1949,6 @@ disaggregation
 atop
 physicality
 panoptic
-anarcho-syndicalist
-anarcho-syndicalism
 spin-off
 acerbic
 nitpicky
@@ -2060,7 +2055,6 @@ cleaner
 threaded
 parkour
 firelance
-areola
 scarper
 brassard
 dugout
@@ -2496,7 +2490,6 @@ hauteur
 impressionist
 impressionistic
 sangfroid
-poorhouse
 hardbitten
 sunburst
 cabalist
@@ -2536,7 +2529,6 @@ entente
 unplayable
 premiere
 panjandrum
-glockenspiel
 Bacchic
 conductorship
 chiffon
@@ -2768,7 +2760,6 @@ bargeman
 brushwood
 bannerman
 objectivization
-commercialize
 aridification
 anopheline
 patrimonialism
@@ -2900,7 +2891,6 @@ baloney
 splurge
 visitorship
 baulk
-amyloid
 queef
 epithermal
 punchline
@@ -3129,7 +3119,6 @@ adept (endurskoða)
 adeptship
 ouija
 gumshoe
-runway
 operator (endurskoða)
 clever (endurskoða)
 miraculously
@@ -3160,6 +3149,7 @@ deliverable
 undeliverable
 quenelle
 wilt
+wilted
 synastry
 earthshaking
 contortionism
@@ -3477,7 +3467,6 @@ wonton
 dumpling (endurskoða)
 acculturate
 acculturated
-eutrophication
 cancelled
 canceled
 crud
@@ -4032,7 +4021,6 @@ intimidated
 disenfranchise
 disenfranchised
 disenfranchisement
-audiologist
 Burgundy
 burgundy
 precession
@@ -4213,7 +4201,6 @@ hoosegow
 roadhouse
 peeper
 gladstone
-vermouth
 roughhouse
 pecan
 heebie-jeebies
@@ -4509,7 +4496,6 @@ outnumbered
 classifier
 vibrancy
 WYSIWYG
-maraca
 phacelia
 mixed
 animatronic
@@ -4908,7 +4894,6 @@ munster
 trending
 masterclass
 rockabilly
-Mach
 scampi
 destigmatization
 finalize
@@ -5433,7 +5418,6 @@ categoric
 matt
 flatcar
 newt (endurskoða)
-triton
 braw
 homogeneousness
 magistracy (endurskoða)
@@ -5672,7 +5656,6 @@ pace (endurskoða)
 mirky
 perkiness
 profit margin
-nefariousness
 major (endurskoða)
 unjustness
 duskiness
@@ -5699,7 +5682,6 @@ luge
 ferocious (endurskoða)
 ferociously
 telethon
-euphonium
 midlife
 channelize
 detainment
@@ -5784,3 +5766,48 @@ defunding
 emancipator
 inhabited
 surmisal
+autoped
+autological
+Q.E.D.
+jetpack
+compromised
+syncretism
+hexagram
+toucan
+astigmatism
+pouty
+sortition
+repairable
+distractable
+sunstone
+valuate
+mensurate
+streamer (endurskoða)
+lineation
+precis
+abstractionist
+nobble
+nonfigurative
+grocery store
+food store
+securities industry
+sickening
+sickish
+tophus
+manginess
+seediness
+sleaziness
+handlock
+turnup
+whomp
+Cherokee
+Apache
+Sioux
+ensuant
+anthology (endurskoða)
+alluviation
+predatory lending
+ill-judged
+authoritative (endurskoða)
+ecofascism
+swinging (endurskoða)

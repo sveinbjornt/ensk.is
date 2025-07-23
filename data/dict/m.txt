@@ -35,10 +35,10 @@ magic n. galdur; töfrar; töfrakraftur; l. töfra-, galdra-
 magical l. töfra-, galdra-; sérstakur, töfrandi ([a ~ moment])
 magician n. töframaður, galdramaður
 magisterial l. valdalegur, herralegur; embættislegur ([~ power])
-magistracy n. yfirvöld, valdsmenn
+magistracy n. dómaraembætti; yfirvaldsstaða; yfirvald, yfirvöld, valdsmenn
 magistral l. [the ~ staff (of a school)] kennaralið
-magistrate n. yfirvald; dómari
-magistrature n. embætti; yfirvöld, valdsmenn
+magistrate n. dómari; yfirvald
+magistrature n. dómaraembætti; embætti; yfirvöld, valdsmenn
 magnanimity n. göfuglyndi, örlæti, mikillæti
 magnanimous l. göfuglyndur, göfugur, örlátur, mikillátur
 magnate n. stórhöfðingi; jöfur
@@ -720,7 +720,7 @@ mice nft. af %[mouse]%; gljásteinn, glimmer
 Michaelmas n. Mikjálsmessa (29. september)
 mickle l. mikill (skoskt orð)
 microbe n. örvera, gerill, sóttkveikja
-micro- fsk. smá- (t.d. %[microdose]%, smáskammtur); ör- (t.d. %[microwave]%, örbylgja)
+micro- fsk. smá- (t.d. %[microdose]%, smáskammtur); ör- (t.d. %[microwave]%, örbylgja); einn milljónasti úr mælieiningu (sjá t.d. %[microsecond]%)
 microcosm n. smáheimur
 microscope n. smásjá, sjónauki
 microscopic l. sem aðeins sést í sjónauka; örsmár
@@ -1064,7 +1064,7 @@ modesty n. hæverska, siðprýði
 modicum n. ögn; lítil upphæð
 modifiable l. sem hægt er að breyta eða laga
 modification n. ummyndun; breyting; takmörkun; [~ of a vowel] hljóðvarp
-modify s. ummynda, breyta; takmarka, draga úr; hljóðverpa
+modify s. breyta, ummynda; takmarka, draga úr; hljóðverpa
 modish l. nýtískulegur, sem er eftir tískunni
 modishness n. tískusótt
 modiste n. skartsölukona
