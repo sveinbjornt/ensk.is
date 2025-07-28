@@ -1944,7 +1944,7 @@ priming n. kveikjupúður; undirlitur; skilyrðing
 primitive l. frumstæður, upphaflegur, frumlegur, frum-; n. frumorð
 primitiveness n. frumleiki
 primogenitor n. ættfaðir
-primogeniture n. frumburðarréttur ([right of ~])
+primogeniture n. frumburðarréttur, réttur elsta afkvæmis til að erfa ([right of ~])
 primordial l. upphaflegur, fyrstur
 primordially ao. upphaflega
 primrose n. vorrós (jurt)
@@ -1954,7 +1954,7 @@ princely l. höfðinglegur; konunglegur
 princess n. prinsessa, konungsdóttir; stórhöfðingjafrú
 principal l. helstur, aðal- ([their ~ food, a ~ cause of his failure]); [~ sentence, clause] aðalsetning; n. höfuðsmaður; húsbóndi ([I must consult my ~]); skólastjóri; höfuðstóll; höfuðatriði
 principality n. furstadæmi
-principally ao. einkum, aðallega
+principally ao. einkum, aðallega; í höfuðatriðum
 principalship n. skólastjórastaða
 principle n. upphaf; frumefni; föst regla, meginregla, undirstaða; undirstöðuatriði ([first ~s of political economy]); lögmál ([~ of gravitation, moral ~])
 prink s. dubba (sig) upp

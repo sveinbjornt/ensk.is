@@ -1176,7 +1176,7 @@ apostatize s. níðast á trú sinni; yfirgefa skoðun sína eða flokk sinn
 apostle n. postuli
 apostolate n. postullegt embætti
 apostolic l. postullegur, postula-
-apostrophe n. úrfellismerki ('); ávarp
+apostrophe n. úrfellismerki, úrfellingarmerki ('); ávarp
 apostrophise s. setja úrfellismerki; ávarpa
 apothecary n. lyfsali
 apothegm n. spakmæli
@@ -1236,7 +1236,7 @@ appraisement n. virðing, mat
 appraiser n. matsmaður, virðingarmaður
 appraisor n. matsmaður, virðingarmaður
 appreciable l. sjáanlegur, merkjanlegur, eftirtakanlegur
-appreciate s. meta, virða; gera verðmeiri; vaxa í verði
+appreciate s. meta, virða, kunna að meta; gera verðmeiri; vaxa í verði
 appreciation n. mat; þakklæti; verðhækkun
 appreciative l. metandi; þakklátur
 apprehend s. taka fastan; handsama, góma; verða var við; sjá, skilja; óttast, kvíða

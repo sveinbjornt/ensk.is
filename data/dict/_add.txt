@@ -2143,6 +2143,7 @@ apartheid n. aðskilnaðarstefna (í Suður-Afríku)
 autobiographical l. sjálfsævisögulegur
 coconut n. kókoshneta
 leukemia n. hvítblæði
+leukaemia n. hvítblæði
 underestimate s. vanmeta; vantelja
 underestimation n. vanmat; vantalning
 professionalism n. fagmennska, atvinnumennska
@@ -9212,3 +9213,50 @@ prepuce n. forhúð, reðurforhúð
 Trotskyism n. trotskíismi
 Trotskyist n. trotskíisti
 Marxism-Leninism n. marx-lenínismi (kommúnísk hugmyndafræði)
+tango n. tangó (argentínskur dans); s. dansa tangó ([it takes two to ~])
+sanitarium n. heilsuhæli
+yen n. jen (japanskur gjalmiðill)
+snorkel n. öndunarpípa; s. kafa með öndunarpípu
+traphouse n. fíkniefnagreni, dópbæli
+ellipsoid n. sporvala, sporbaugsflötur; l. sporbaugóttur
+parallelogram n. samsíðungur
+magnetite n. seguljárnsteinn
+hematite n. blóðsteinn
+galena n. blýglans
+sphalerite n. sinkblendi
+corundum n. kórund (steind)
+duralumin n. harðál (málmblanda)
+phylum n. fylking (í dýraríkinu)
+clade n. grein (í dýraríkinu)
+dorsum n. bak; bakhlið; hryggur (í stjörnufræði)
+mammary l. brjósta-
+umbilicus n. (úr latínu) nafli
+coronal l. krúnu-, kórónu-
+sagittal l. þykktar- (í læknisfræði)
+pelvic l. grindar-, grindarbotns-
+distal l. fjarlægur, fjar-
+proximal l. nærlegur, nær-
+thoracic l. brjósthols-, brjóstgrindar-
+axilla n. handarkriki
+nixie n. vatnadís (í þýskri þjóðtrú)
+CPU n. örgjörvi (sks. á %[central processing unit]%)
+central processing unit n. örgjörvi (sks. %[CPU]%)
+user experience n. notendaupplifun (sks. %[UX]%)
+UX n. notendaupplifun (sks. á %[user experience]%)
+programming language n. forritunarmál
+cybersecurity n. netöryggi, netöryggismál
+radiotherapy n. geislameðferð
+domain name n. lén (á internetinu)
+yodel s. jóðla
+yodeller n. jóðlari
+toga n. tóga (rómversk yfirhöfn)
+shandy n. bjórblanda, bjór blandaður með límónaði
+nougat n. núggat
+hieroglyphics nft. myndletur, helgirúnir
+geriatrics nft. öldrunarlækningar
+forefront n. fremsta lína, fremsta víglína
+stomp s. stappa; n. stapp
+whippet n. veðhlaupahundur
+unequalled l. sjá %[unequaled]%
+nongregarious l. ómannblendinn
+significantly ao. talsvert, töluvert, verulega, svo um munar; á mikilvægan eða eftirtektarverðan hátt

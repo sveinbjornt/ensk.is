@@ -1074,7 +1074,7 @@ retrieve s. fá (ná, vinna) aftur; bæta upp aftur; ráða bætur á; n. [beyon
 retriever n. sporhundur
 retro- fsk. aftur á bak, aftur (sbr. %[retroactive]%, %[retrospect]%)
 retroact s. verka aftur fyrir sig
-retroactive l. afturvirkur ([~ law])
+retroactive l. afturvirkur, afturverkandi ([~ law])
 retrocede s. skila (t.d. landi) aftur; fara (víkja) undan
 retrogradation n. gangur aftur á bak
 retrograde s. ganga aftur á bak; fara aftur, versna; l. gagnstæður; versnandi; [~ step] stig aftur á bak; afturför; hnignun
