@@ -23,3 +23,4 @@
 * [ ] Hyphenation for Icelandic words in PDF generation
 * [ ] Hyphenation-data for English words in PDF generation
 * [ ] Improve JSON format
+* [ ] Add gender for Icelandic noun definitions via BinPackage

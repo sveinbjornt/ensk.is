@@ -4100,7 +4100,7 @@ homonymic l. samhljóða, eins og annað orð í framburði
 homo n. (lat.) maður; ættkvísl manndýra (sbr. %[homo sapiens]%, hinn viti borni maður); hommi, samkynhneigður maður (niðrandi, stytt. á %[homosexual]%)
 homo- fsk. sam-, jafn-, eins- (sbr. %[homosexual]%, %[homogenous]%)
 homologous l. samsvarandi; eðlislíkur
-homology n. samsvörun; eðlislíking
+homology n. samsvörun; eðlislíking; samsvipur (í grannfræði)
 homogenous l. samsvarandi, af sameiginlegum uppruna
 homogeny n. samsvörun, sameiginlegur uppruni
 homogenize s. gera einsleitan; jafna
@@ -9180,7 +9180,7 @@ modified l. breyttur, ummyndaður (sjá %[modify]%)
 kilo- fsk. kíló-, þúsund (margföldun mælieiningar með þúsund, t.d. %[kilometre]%, %[kilowatt]%, o.s.frv.)
 deci- fsk. desi- (einn tíundi af mælieiningu, t.d. %[decilitre]%)
 KB n. sks. á %[kilobyte]%, eitt þúsund bæti
-nefariousness n. undurferli, níðingsskapur, svívirðilegheit
+nefariousness n. níðingsskapur, svívirðilegheit
 firedrake n. eldspúandi dreki
 petroglyph n. bergrista, bergristumynd
 jukebox n. glymskratti
@@ -9274,3 +9274,7 @@ reappraise s. endurmeta, endurvirða
 ramen n. ramen (japanskur núðluréttur)
 anaconda n. anakonda (risaslanga)
 impatiently ao. á óþolinmóðan hátt, óþolinmóðlega
+chaebol n. kóresk fyrirtækjasamsteypa
+Zanzibar n. Sansibar (tansanísk eyja)
+necro- fsk. ná-, lík-, dauða- (sjá t.d. %[necrology]%)
+Indo-Aryan l. indóarískur; n. indóarísk tungumál ([~ languages])

@@ -252,7 +252,7 @@ gerfalcon n. geirfálki
 germ n. sýkill, baktería; frjóangi; s. skjóta frjóöngum; kvikna, lifna
 germane l. náskyldur, nátengdur
 German l. þýskur; n. Þjóðverji; þýska
-Germanic l. germanskur
+Germanic l. germanskur; n. germönsk tungumál ([~ languages])
 germanism n. þýskt máleðli; þýskur hugsunarháttur; meðhald með Þjóðverjum
 germinate s. skjóta frjóöngum; geta af sér, framleiða
 gestation n. meðgöngutími ([period of ~])
