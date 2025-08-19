@@ -54,7 +54,6 @@ widescreen
 adaptor
 softball
 quad
-unauthorized
 hunker
 listing
 adaptive
@@ -418,12 +417,10 @@ reorient
 macho
 outboard
 chitchat
-nanny
 powerhouse
 strong-arm
 spillage
 extravaganza
-campus
 lockdown
 snowplow
 snowplough
@@ -696,7 +693,6 @@ cryptical
 cryptically
 parisis
 chaperon
-contraption
 slapstick
 artistry
 polyptych
@@ -944,7 +940,6 @@ Darwinism
 Darwinist
 Darwinian
 ayatollah
-entourage
 exotica
 quirky
 competitiveness
@@ -1077,7 +1072,6 @@ skyrocket
 folksy
 jumpsuit
 beachfront
-chore
 chartalism
 scorecard
 scorekeeper
@@ -1387,7 +1381,6 @@ junkie
 immersive
 tidbit
 relive
-bogus
 maverick
 judgemental
 bog-standard
@@ -1831,9 +1824,6 @@ softwood
 temporally
 strickle
 impenetrability
-decipherable
-indecipherable
-undecipherable
 mappable
 willy-nilly
 commoditization
@@ -2003,7 +1993,6 @@ pisspot
 bonhomie
 sleight-of-hand
 breeder
-underpants
 gabardine
 hereinafter
 thereinafter
@@ -2946,7 +2935,6 @@ glowing
 embodied
 caddy (endurskoða)
 edgelord
-foyer
 cringey
 expired
 impoundment
@@ -4248,7 +4236,6 @@ vacationer
 ethnically
 deviationism
 gerontocrat
-microcomputer
 shadiness
 self-management
 blitz
@@ -4823,7 +4810,6 @@ swat
 unclassy
 Svengali
 pentachord
-chores
 monocoque
 burble
 prowess (endurskoða)
@@ -5689,8 +5675,6 @@ hedge fund
 mutual fund
 quantitative easing
 anticyclone
-convection
-convective
 advection
 exhalation (endurskoða)
 commissioning
@@ -5843,12 +5827,7 @@ unintended
 oafishness
 sea bass
 victualling
-contemptibility
-despicability
-despicableness
 tallitot
-eudaemonia
-eudaimonia
 paranormality
 passability
 impassability
@@ -5859,3 +5838,12 @@ earworm
 lingonberry
 dispenser
 nimbostratus
+boogie
+constructionist
+scrimshaw
+scrimshander
+balkanize
+nephrology
+xenogenize
+nucleate
+zymurgy

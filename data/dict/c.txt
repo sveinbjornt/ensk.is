@@ -2024,7 +2024,7 @@ convalesce s. batna
 convalescence n. bati, afturbati
 convalescent l. sem er í afturbata; n. sjúklingur í afturbata
 convene s. koma saman; kalla saman; stefna, boða (til fundar eða fyrir dómstól)
-convenience n. þægindi; hentugleikar, hentisemi ([at your ~]); hagræði, hagnaður; (vatns)salerni
+convenience n. þægindi; hentugleiki, hentisemi ([at your ~]); hagræði, hagnaður; (vatns)salerni (forn.)
 convenient l. þægilegur; hentugur, haganlegur ([if it is ~ to you])
 convent n. klaustur
 conventicle n. leynileg trúarsamkoma
@@ -2048,7 +2048,7 @@ converse s. tala (saman); n. samtal; samvist; l. gagnstæður, öfugur
 conversely ao. öfugt
 conversion n. skipting; breyting (í e-ð annað); snúningur (til betri trúar); afturhvarf
 convert s. snúa (e-m til betri trúar eða afturhvarfs); breyta (í [into]); n. trúskiptingur
-convertible l. sem er sömu merkingar ([~ terms]); notanlegur (til e-s [to]); breytanlegur ([water is ~ into ice])
+convertible l. breytanlegur ([water is ~ into ice]); sem er sömu merkingar ([~ terms]); notanlegur (til e-s [to]); bifreið þar sem efri hluti er fjarlægjanlegur
 convex l. ávalur, kúptur
 convexity n. bungumyndun; bunga; kúpni
 convey s. flytja, færa; veita ([~ water])

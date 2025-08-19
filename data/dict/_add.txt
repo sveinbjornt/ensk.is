@@ -2118,6 +2118,7 @@ snowman n. snjókarl
 city-state n. borgríki
 rainforest n. regnskógur
 yoghurt n. jógúrt
+yogurt n. jógúrt
 billionaire n. milljarðamæringur, auðkýfingur, auðjöfur
 multimillionaire n. milljónamæringur, auðkýfingur, auðjöfur
 cheerleader n. klappstýra
@@ -2753,6 +2754,7 @@ logically ao. rökrétt, röklega
 stochastic l. slembinn, tilviljanakenndur, slembi-, hendingar-, tilviljunar-; [~ process] slembiferli
 stochasticity n. slembni, hending, tilviljanakennd
 psychoanalyze s. sálgreina, sálkanna
+psychoanalyse s. sjá %[psychoanalyze]%
 psychoanalyst n. sálgreinir, sálkönnuður
 psychoanalysis n. sálgreining, sálkönnun
 psychoanalytic l. sálgreiningar-, sálkönnunar-
@@ -5827,8 +5829,8 @@ blowback n. bakslag, afturköst, neikvæðar (ófyrirséðar) afleiðingar; baks
 oviduct n. eggrás, eggjaleiðari, eggrás, legpípa
 uterine l. leg-
 exon n. táknröð, tjáröð (svæði í genum)
-combinatorics n. talningarfræði, samtakagreining
-combinatoric l. talningarfræðilegur, samtakagreiningar-
+combinatorics n. fléttufræði, talningarfræði, samtakagreining
+combinatoric l. fléttufræðilegur, talningarfræðilegur, samtakagreiningar-
 thusly ao. þannig, á þennan veg, á þennan hátt; á þann hátt sem sýndur er
 self-correction n. sjálfsleiðrétting
 epigenetics n. umframerfðir, hjáerfðir
@@ -7263,7 +7265,8 @@ banjo n. banjó (strengjahljóðfæri)
 incurably ao. ólæknanlega, á ólæknandi hátt; [he's ~ optimistic] bjartsýni hans er ólæknandi
 nonverbal l. ekki munnlegur, ómunnlegur
 phenology n. náttúrufarsfræði
-ID n. skilríki (sks. á [identification])
+ID n. skilríki (sks. á %[identification]%)
+identification n. það að bera kennsl á; staðfesting á hvað eða hver e-r er; skilríki
 est l. stofnaður, stytt. á %[established]%
 balanced l. jafnvægur; í jafnvægi
 unbalanced l. ekki í jafnvægi; ekki jafnvægur: í ójafnvægi
@@ -9294,3 +9297,43 @@ odontology n. tannfræði, tannlækningar
 odontologist n. tannfræðingur, tannlæknir
 butterscotch n. smjörkaramella
 rotgut n. ruddi (brennivín)
+seep s. seytla
+entourage n. fylgdarlið
+kimono n. (japanskur) sloppur
+rearm s. endurvopnast, vopnast á ný; endurnýja vopn
+photogenic l. ljósmyndavænn, sem ljósmyndast vel
+eradicator n. upprætari
+aerobatics nft. listflug
+undernourished l. vannærður
+menorrhagia n. asatíðir, miklar tíðablæðingar
+vice versa ao. gagnkvæmt, öfugt
+nanny n. fóstra, barnfóstra
+yo-yo n. jójó (leikfang)
+campus n. háskólasvæði, háskólalóð
+underpants nft. nærbuxur
+convection n. burður; varmaburður, varmaflutningur; straumburður
+convective l. burðar-; varmaburðar-, varmaflytjandi; straumflytjandi
+microcomputer n. örtölva
+bogus l. falskur, gervi-, óekta
+fahrenheit n. fahrenheit (hitakvarði)
+unauthorized l. án leyfis, án heimildar
+trapeze n. fimleikaróla
+semitone n. hálftónn
+chore n. leiðindaverk ([it's such a chore])
+chores nft. (leiðinleg) húsverk, heimilisverk
+fluoride n. flúrsalt
+dentures nft. gervitennur
+exhibitionist n. sá sem lætur á sér bera, sá sem vill vekja athygli á sér; strípalingur
+quadruplet n. fjórburi; fernt sömu tegundar
+quintuplet n. fimmburi; fimm sömu tegundar
+sextuplet n. sexburi; sex sömu tegundar
+ombudsman n. umboðsmaður
+decipherable l. ráðanlegur, læsilegur
+indecipherable l. óráðanlegur, ólæsilegur
+undecipherable l. óráðanlegur, ólæsilegur
+foyer n. anddyri, fordyri
+enema n. stólpípa; innhelling í endaþarm
+contraption n. tæki, græja
+A-bomb n. kjarnorkusprengja (stytt. á [atomic bomb])
+littering n. það að kasta frá sér rusli (sjá %[litter]%)
+nephrology n. nýrnalækningar
