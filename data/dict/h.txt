@@ -883,7 +883,7 @@ houseroom n. húsrúm
 housewife n. húsmóðir; ráðskona; lítill saumastokkur; nálhús
 housewifely l. húsmóðurlegur; hirðusamur, sparsamur
 housewifery n. búskapur; sparsemi, hirðusemi
-house s. hýsa, veita húsaskjól; flytja inn í hús; dvelja
+house n. hús; s. hýsa, veita húsaskjól; flytja inn í hús; dvelja
 housel n. husl; s. husla
 housing n. húsnæði; húsakostur; hús; hýsing; söðulklæði, reiðver, áklæði
 hovel n. lélegur kofi, hreysi; hjallur, byrgi
@@ -969,7 +969,7 @@ hunched l. kengboginn
 hunchback n. kroppinbakur
 hundred l. hundrað; n. hundrað
 hundredth l. hundraðasti
-hundredweight n. vætt (50.8 kg.)
+hundredweight n. vætt (50,8 kg.)
 Hungarian l. ungverskur; n. Ungverji
 Hungary n. Ungverjaland
 hunger n. hungur, sultur; s. hungra, vera hungraður; svelta e-n ([~ into madness, ~ out])

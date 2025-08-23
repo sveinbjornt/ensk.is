@@ -7087,7 +7087,7 @@ TV n. sjónvarp (sks. á %[television]%)
 real estate n. fasteign, fasteignir; fasteignabransinn; [~ agent] fasteignasali, fasteignamiðlari
 VP n. varaforseti (sks. á %[vice-president]%)
 peephole n. gægjugat
-IPA n. alþjóðlega hljóðritunarstafrófið (sks. á [International Phonetic Alphabet]); öltegund (sks. á [India Pale Ale])
+IPA n. alþjóðlega hljóðritunarstafrófið (sks. á [International Phonetic Alphabet]); öltegund ([India Pale Ale])
 slavishness n. þrælslund
 KO n. rot, rotun (í hnefaleikum, sks. á [knockout])
 ETA n. áætlaður komutími (sks. á [estimated time of arrival])
@@ -7267,6 +7267,8 @@ nonverbal l. ekki munnlegur, ómunnlegur
 phenology n. náttúrufarsfræði
 ID n. skilríki (sks. á %[identification]%)
 identification n. það að bera kennsl á; staðfesting á hvað eða hver e-r er; skilríki
+misidentification n. það að bera röng kennsl á
+identity card n. nafnskírteini, skilríki
 est l. stofnaður, stytt. á %[established]%
 balanced l. jafnvægur; í jafnvægi
 unbalanced l. ekki í jafnvægi; ekki jafnvægur: í ójafnvægi
@@ -7308,9 +7310,9 @@ layout n. umbrot
 leftovers nft. leifar, afgangur
 mainstream n. meginstraumur; ríkjandi stefna
 Mars n. Mars (reikistjarna); stríðsguð Rómverja til forna
-morale n. baráttuhugur, baráttuvilji; siðferðisþrek; mórall
+morale n. siðferðisþrek, siðferðisvilji, siðferðishugur; baráttuhugur, baráttuvilji; mórall (slett.)
 parking n. bílastæði ([~ spot, ~ lot])
-referral n. tilvísun; skírskotun
+referral n. tilvísun; skírskotun; meðmæli
 seminar n. málstofa, fræðafundur; námskeið
 shorts nft. stuttbuxur
 T-shirt n. bolur, stuttermabolur, téskyrta
@@ -9320,7 +9322,7 @@ unauthorized l. án leyfis, án heimildar
 trapeze n. fimleikaróla
 semitone n. hálftónn
 chore n. leiðindaverk ([it's such a chore])
-chores nft. (leiðinleg) húsverk, heimilisverk
+chores nft. (leiðinleg) húsverk, heimilisverk ([household ~])
 fluoride n. flúrsalt
 dentures nft. gervitennur
 exhibitionist n. sá sem lætur á sér bera, sá sem vill vekja athygli á sér; strípalingur
@@ -9333,7 +9335,12 @@ indecipherable l. óráðanlegur, ólæsilegur
 undecipherable l. óráðanlegur, ólæsilegur
 foyer n. anddyri, fordyri
 enema n. stólpípa; innhelling í endaþarm
-contraption n. tæki, græja
+contraption n. tæki, græja, maskína; heimasmíðað tæki
 A-bomb n. kjarnorkusprengja (stytt. á [atomic bomb])
 littering n. það að kasta frá sér rusli (sjá %[litter]%)
 nephrology n. nýrnalækningar
+indistinguishability n. ósundurgreinanleiki, óaðgreinanleiki
+individuation n. einsömun
+evil-doer n. sjá [evildoer]%%
+opt s. velja, kjósa ([~ in, ~ out, ~ for])
+gemstone n. gimsteinn
