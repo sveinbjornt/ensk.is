@@ -5483,6 +5483,7 @@ brainstem n. heilastofn
 rogueish l. sjá %[roguish]%
 airlift n. loftbrú; s. flytja loftleiðis
 redcurrant n. rifsber
+bimetal n. tvímálmur
 bimetallic l. tvímálma, úr tveimur málmum
 grimoire n. seiðbók, galdrabók
 gramary n. galdralist; lærdómur; sjá %[grammar]%
@@ -9344,3 +9345,47 @@ individuation n. einsömun
 evil-doer n. sjá [evildoer]%%
 opt s. velja, kjósa ([~ in, ~ out, ~ for])
 gemstone n. gimsteinn
+endocarp n. aldinsteinn
+bejewel s. skreyta með gimsteinum
+bejeweled l. skreyttur með gimsteinum
+histogram n. stuðlarit, súlurit
+brownout n. spennulækkun; rafmagnsleysi; myrkur sökum rafmagnsleysis
+attenuated l. útþynntur; rýrður
+odometer n. vegmælir, vegalengdarmælir
+identicalness n. það að vera nákvæmlega eins
+zymurgy n. gerjunarfræði, bruggunarfræði
+differentiated l. aðgreindur, sem sker sig úr
+undifferentiated l. óaðgreindur, sérkennalaus
+balkanize s. skipta í smærri einingar (um ríki)
+lapidate s. grýta, kasta grjóti í
+goofball n. trúður, skrípakarl, lúði
+nucleate s. mynda kjarna
+scrimshaw n. skeljaútskurður, beinaútskurður
+lingonberry n. rauðber
+earworm n. fiðrildalirfa
+nimbostratus n. regnský, regnþykkni
+tacky l. hallærislegur, púkalegur, lummulegur
+tatty l. druslulegur, slitinn; lélegur, lággæða-; kartafla (óforml.)
+peddler n. farandsali; sölumaður (sem selur ómerkilega muni)
+cheapjack n. farandsali; sölumaður (sem selur ómerkilega muni); dópsali
+gimcrackery n. smekkleysa; smáglingur, ómerkilegir munir
+oafishness n. aulaskapur (sjá %[oaf]%)
+ma'am n. sjá %[madam]%
+madam n. frú, hefðarfrú, maddama
+cybercriminal n. netglæpamaður
+solitary confinement n. einangrunarvist
+alluviation n. botnfallsmyndun
+sleaziness n. subbulegheit, óþrifnaður; það að vera siðferðislega vafasamur
+seediness n. subbulegheit, óþrifnaður; það að vera siðferðislega vafasamur
+repairable l. lagfæranlegur, sem hægt er að gera við, sem hægt er að laga
+mournfully ao. sorglega, á sorgbitinn hátt
+mournfulness n. sorg, sorgarkennd
+catamenia n. tíðir (kvenna), blæðingar
+menstruum n. tíðir (kvenna), blæðingar; leysiefni (forn.)
+crepuscle n. rökkur
+stemma n. ættartré, ættarskrá
+purebred l. hreinræktaður
+parking lot n. bílastæði
+scam n. svindl, fjársvik
+scammer n. svindlari, loddari, fjársvikari
+anthesis n. blómgun

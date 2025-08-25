@@ -459,9 +459,9 @@ heraldship n. kallaraembætti
 herb n. jurt, planta, gras
 herbaceous l. jurtarkenndur; gras-
 herbage n. grös, jurtagróði; beit, útbeit
-herbal l. jurta- ([~ fragrance])
+herbal l. jurta- ([~ fragrance, ~ tea])
 herbalist n. grasfræðingur
-herbalize s. tina (lyfja)grös
+herbalize s. tína (lyfja)grös
 herbarium n. jurtasafn
 herbary n. jurtagarður
 herbivorous l. sem lifir á plöntufæðu
