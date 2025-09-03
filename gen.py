@@ -401,11 +401,11 @@ def main() -> None:
     print("Generating JSON")
     generate_json(entries)
 
-    if heavy:
-        print("Generating macOS Dictionary")
-        from macos import generate_macos_dictionary
+    # if heavy:
+    #     print("Generating macOS Dictionary")
+    #     from macos import generate_macos_dictionary
 
-        generate_macos_dictionary(entries)
+    #     generate_macos_dictionary(entries)
 
     if heavy:
         print("Generating PDF")

@@ -3381,6 +3381,7 @@ snapper
 integrate (þarf virkilega að endurskoða)
 solar plexus
 sigma
+regulated
 unregulated
 polysemeia
 embolism (endurskoða)
@@ -5303,7 +5304,6 @@ unvaned
 shopworn
 timeworn
 well-worn
-stemma
 intubate
 chronocrator
 wanly
@@ -5832,3 +5832,27 @@ pedigreed
 pureblood
 gouger
 flowering
+delivered
+battered
+virtualize
+alienating
+timeshare
+ashram
+ribbing
+transmissive
+chewer
+howler
+soother
+arranged
+carbonado
+hypomanic
+fistbump
+retorsion
+transceiver
+sowing
+racketeering
+netizen
+botanic
+steaming
+confounder
+confounding variable
