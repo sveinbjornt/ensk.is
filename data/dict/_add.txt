@@ -1184,7 +1184,7 @@ skepticism n. sjá %[scepticism]%
 facticity n. sá eiginleiki að vera staðreynd (sjá %[fact]%)
 halogen n. hópur frumefna, þ.e. flúor, klór, bróm, joð og astat
 DNA n. deoxýríbósakjarnsýra, þ.e. erfðaefni, erfðavísir (sks. á [deoxyribonucleic acid])
-PC n. einkatölva (sks. á [personal computer]); pólitískur rétttrúnaður (sks. á %[political correctness]%)
+PC n. einkatölva (sks. á [personal computer]); pólitískur rétttrúnaður (%[political correctness]%)
 deontology n. skyldufræði, skyldusiðfræði (í heimspeki)
 deontological l. skyldufræðilegur, skyldusiðfræðilegur (sjá %[deontology]%)
 megafauna n. stór dýr, risadýr (sjá %[fauna]%)
@@ -8066,7 +8066,7 @@ sportswoman n. íþróttakona
 athletics nft. íþróttir; frjálsar íþróttir
 energise s. sjá %[energize]%
 demoralise s. sjá %[demoralize]%
-lube n. sleipiefni (stytt. á %[lubricant]%); s. bera sleipiefni á; gera sleipt (stytt. á %[lubricate]%)
+lube n. sleipiefni (sjá %[lubricant]%); s. bera sleipiefni á, gera sleipt (sjá %[lubricate]%)
 helping hand n. hjálparhönd
 surface area n. flatarmál (yfirborðs), yfirborðsflötur
 revolutionise s. sjá %[revolutionize]%
@@ -8128,7 +8128,7 @@ well-founded l. vel ígrundaður
 well-grounded l. vel ígrundaður
 staged l. sviðsett
 verboseness n. orðgnótt
-veggie n. grænmeti (stytt. á %[vegetable]%); grænmetisæta (stytt. á %[vegetarian]%); l. grænmetis-; grænmetisætu-, jurtaætu-
+veggie n. grænmeti (stytt. á %[vegetable]%); grænmetisæta (%[vegetarian]%); l. grænmetis-; grænmetisætu-, jurtaætu-
 tactfulness n. háttvísi
 stretchability n. teygjanleiki
 stalwartness n. hreysti; hugrekki; kjarkur
@@ -9405,3 +9405,6 @@ songwriting n. lagasmíði
 pie chart n. kökurit
 bar chart n. stöplarit
 gamey l. sjá %[gamy]%
+hypnotized l. dáleiddur
+mesmerized l. dáleiddur
+spellbind s. töfra, leggja álög á
