@@ -48,6 +48,7 @@ import subprocess
 import json as std_json
 
 import sqlite_utils
+import nltk
 
 from dict import (
     read_pages,
@@ -389,6 +390,8 @@ def generate_apple_dictionary(
 def main() -> None:
     """Generate all dictionary files."""
     heavy = sys.argv[1:] and sys.argv[1] == "--heavy"
+
+    nltk.download("wordnet")
 
     print("Reading entries...")
     entries = read_all_entries()
