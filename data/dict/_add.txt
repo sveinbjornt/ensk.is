@@ -3739,6 +3739,7 @@ necrophiliac n. náriðill, e-r sem á mök við lík
 tinnitus n. eyrnasuð
 self-annihilation n. sjálfstortíming, sjálfseyðing
 transformative l. umbreytandi, mótandi, ummótandi
+transformed l. umbreyttur, ummótaður
 endorphin n. endorfín
 bathrobe n. baðsloppur, sloppur
 glider n. svifdreki, sviffluga
@@ -9395,3 +9396,13 @@ Torah n. Torah (helgirit gyðingdóms)
 phonotactics nft. hljóðskipunarfræði
 exaggerated l. ýktur
 eliminated l. útrýmdur, eyddur; brottrekinn, útrekinn
+anthropophagy n. mannát
+abnegated l. hafnaður, afneitaður
+anonymize s. gera nafnlausan
+anonymized l. gerður nafnlaus
+pancreatic l. bris-, briskirtils-
+optimise s. sjá %[optimize]%
+chipper l. hress, fjörugur, kátur; n. höggvari, flísari (sjá %[chip]%)
+songwriting n. lagasmíði
+pie chart n. kökurit
+bar chart n. stöplarit
