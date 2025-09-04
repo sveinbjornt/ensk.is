@@ -148,7 +148,10 @@ async def item(request: Request, w: str) -> Response:
     # Translate category abbreviations to human-friendly words
     comp = {CAT_TO_NAME[k]: v for k, v in comp.items()}
 
-    synonyms = results[0].get("synonyms", [])
+    synonyms_list = results[0].get("synonyms", [])
+    synonyms = [
+        {"word": s, "exists": s in all_words} for s in synonyms_list
+    ]
 
     return TemplateResponse(
         request,
