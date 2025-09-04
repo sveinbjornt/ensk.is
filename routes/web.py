@@ -44,7 +44,7 @@ from .core import (
     SMALL_CACHE_SIZE,
 )
 from info import PROJECT
-from dict import unpack_definition, linked_synonyms_for_word
+from dict import unpack_definition
 from util import (
     icelandic_human_size,
     perc,
@@ -149,9 +149,7 @@ async def item(request: Request, w: str) -> Response:
     comp = {CAT_TO_NAME[k]: v for k, v in comp.items()}
 
     synonyms_list = results[0].get("synonyms", [])
-    synonyms = [
-        {"word": s, "exists": s in all_words} for s in synonyms_list
-    ]
+    synonyms = [{"word": s, "exists": s in all_words} for s in synonyms_list]
 
     return TemplateResponse(
         request,
