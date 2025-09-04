@@ -150,6 +150,10 @@ def _format_item(item: dict[str, Any]) -> dict[str, Any]:
     p = item["page_num"]
     p_url = f"{PROJECT.BASE_URL}/page/{p}" if p > 0 else ""
 
+    # Synonyms
+    synonyms_str = item.get("synonyms", "")
+    synonyms = synonyms_str.split(",") if synonyms_str else []
+
     # Create item dict
     item = {
         "word": w,
@@ -161,6 +165,7 @@ def _format_item(item: dict[str, Any]) -> dict[str, Any]:
         "audio_us": audio_url_us,
         "page_num": p,
         "page_url": p_url,
+        "synonyms": synonyms,
     }
     return item
 
