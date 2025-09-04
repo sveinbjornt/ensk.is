@@ -8620,14 +8620,12 @@ blossoming n. blómstrun, blómgun (sjá %[blossom]%)
 troglodytism n. hellislíf, hellisbúalíf, hellisbúskapur, líf í hellum
 impudently ao. á ósvífinn, ófyrirleitan eða óskammfeilinn hátt (sja %[impudent]%)
 US dollar n. bandaríkjadalur, bandaríkjadollari
-CAD n. kanadadalur, kanadískur dollari
 USD n. bandaríkjadalur, bandaríkjadollari (bandarískur gjaldmiðill, $)
 EUR n. evra (€, galdmiðill, sjá %[euro]%)
 NOK n. norsk króna (gjaldmiðill)
 DKK n. dönsk króna (gjaldmiðill)
 CHF n. svissneskur franki (gjaldmiðill)
 GBP n. breskt sterlingspund (gjaldmiðill)
-RUB n. rússnesk rúbla (gjaldmiðill)
 SEK n. sænsk króna (gjaldmiðill)
 World Wide Web n. veraldarvefurinn (sks. %[WWW]%)
 Scorpius n. sporðdrekinn (stjörnumerki)
@@ -9406,3 +9404,4 @@ chipper l. hress, fjörugur, kátur; n. höggvari, flísari (sjá %[chip]%)
 songwriting n. lagasmíði
 pie chart n. kökurit
 bar chart n. stöplarit
+gamey l. sjá %[gamy]%
