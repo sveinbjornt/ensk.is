@@ -47,223 +47,244 @@ class FrequencyAnalyzer:
     def download_wikipedia_dump(self, max_size_mb: int = 1000) -> str:
         """Download a recent Wikipedia dump file. Returns path to downloaded file."""
         print("Downloading Wikipedia dump...")
-        
+
         # Use a smaller, manageable dump for testing
         dump_url = "https://dumps.wikimedia.org/enwiki/latest/enwiki-latest-pages-articles1.xml-p1p41242.bz2"
-        
+
         # Create temp file
         temp_fd, temp_path = tempfile.mkstemp(suffix=".xml.bz2")
         os.close(temp_fd)
-        
+
         try:
             print(f"Downloading from: {dump_url}")
             urllib.request.urlretrieve(dump_url, temp_path)
-            
+
             # Check file size
             size_mb = os.path.getsize(temp_path) / (1024 * 1024)
             print(f"Downloaded {size_mb:.1f} MB")
-            
+
             if size_mb > max_size_mb:
-                print(f"Warning: File size ({size_mb:.1f} MB) exceeds limit ({max_size_mb} MB)")
+                print(
+                    f"Warning: File size ({size_mb:.1f} MB) exceeds limit ({max_size_mb} MB)"
+                )
                 os.unlink(temp_path)
                 return None
-                
+
             return temp_path
-            
+
         except Exception as e:
             print(f"Download failed: {e}")
             if os.path.exists(temp_path):
                 os.unlink(temp_path)
             return None
-    
+
     def parse_wikipedia_xml(self, xml_path: str, max_articles: int = 10000) -> None:
         """Parse Wikipedia XML dump and extract article text."""
         print(f"Parsing Wikipedia XML (max {max_articles:,} articles)...")
-        
+
         articles_processed = 0
-        
+
         try:
             # Open compressed XML file
-            with bz2.open(xml_path, 'rt', encoding='utf-8') as file:
+            with bz2.open(xml_path, "rt", encoding="utf-8") as file:
                 # Parse XML incrementally to handle large files
-                context = ET.iterparse(file, events=('start', 'end'))
+                context = ET.iterparse(file, events=("start", "end"))
                 context = iter(context)
                 event, root = next(context)
-                
+
                 current_title = ""
                 current_text = ""
                 in_page = False
-                
+
                 for event, elem in context:
-                    if event == 'start':
-                        if elem.tag.endswith('page'):
+                    if event == "start":
+                        if elem.tag.endswith("page"):
                             in_page = True
-                        elif elem.tag.endswith('title') and in_page:
+                        elif elem.tag.endswith("title") and in_page:
                             current_title = ""
-                        elif elem.tag.endswith('text') and in_page:
+                        elif elem.tag.endswith("text") and in_page:
                             current_text = ""
-                    
-                    elif event == 'end':
-                        if elem.tag.endswith('title') and in_page:
+
+                    elif event == "end":
+                        if elem.tag.endswith("title") and in_page:
                             current_title = elem.text or ""
-                        elif elem.tag.endswith('text') and in_page:
+                        elif elem.tag.endswith("text") and in_page:
                             current_text = elem.text or ""
-                        elif elem.tag.endswith('page') and in_page:
+                        elif elem.tag.endswith("page") and in_page:
                             # Process this article
-                            if current_text and not current_title.startswith(('File:', 'Category:', 'Template:', 'Wikipedia:')):
+                            if current_text and not current_title.startswith(
+                                ("File:", "Category:", "Template:", "Wikipedia:")
+                            ):
                                 cleaned = self.clean_text(current_text)
                                 words = self.extract_words(cleaned)
                                 self.word_counts.update(words)
-                                
+
                                 articles_processed += 1
                                 if articles_processed % 1000 == 0:
-                                    print(f"  Processed {articles_processed:,} articles...", end="\r")
-                                
+                                    print(
+                                        f"  Processed {articles_processed:,} articles...",
+                                        end="\r",
+                                    )
+
                                 if articles_processed >= max_articles:
                                     break
-                            
+
                             # Reset for next article
                             current_title = ""
                             current_text = ""
                             in_page = False
-                        
+
                         # Clear processed elements to save memory
                         elem.clear()
-                        
+
                     if articles_processed >= max_articles:
                         break
-                        
+
         except Exception as e:
             print(f"\nError parsing XML: {e}")
             if articles_processed == 0:
                 print("Falling back to demo data...")
                 self._create_demo_data()
                 return
-        
+
         print(f"\n  Processed {articles_processed:,} articles. Done!")
-    
+
     def download_opensubtitles(self, max_files: int = 100) -> str:
         """Download OpenSubtitles corpus for conversational English."""
         print("Downloading OpenSubtitles corpus...")
-        
+
         # OpenSubtitles provides subtitle files - use a subset for efficiency
         # This is a sample URL - in practice you'd use their API or bulk downloads
         base_url = "https://object.pouta.csc.fi/OPUS-OpenSubtitles/v2018/mono/en.txt.gz"
-        
+
         temp_fd, temp_path = tempfile.mkstemp(suffix=".txt.gz")
         os.close(temp_fd)
-        
+
         try:
             print(f"Downloading OpenSubtitles from: {base_url}")
             urllib.request.urlretrieve(base_url, temp_path)
-            
+
             size_mb = os.path.getsize(temp_path) / (1024 * 1024)
             print(f"Downloaded {size_mb:.1f} MB")
-            
+
             return temp_path
-            
+
         except Exception as e:
             print(f"OpenSubtitles download failed: {e}")
             if os.path.exists(temp_path):
                 os.unlink(temp_path)
             return None
-    
+
     def parse_opensubtitles(self, gz_path: str, max_lines: int = 100000) -> None:
         """Parse OpenSubtitles text file for conversational word frequencies."""
         print(f"Parsing OpenSubtitles (max {max_lines:,} lines)...")
-        
+
         lines_processed = 0
-        
+
         try:
-            with gzip.open(gz_path, 'rt', encoding='utf-8') as file:
+            with gzip.open(gz_path, "rt", encoding="utf-8") as file:
                 for line in file:
                     if lines_processed >= max_lines:
                         break
-                        
+
                     # Clean subtitle text (remove timestamps, formatting)
-                    line = re.sub(r'\d{2}:\d{2}:\d{2}', '', line)  # Remove timestamps
-                    line = re.sub(r'<[^>]+>', '', line)  # Remove HTML tags
-                    line = re.sub(r'\[.*?\]', '', line)  # Remove [sound effects]
-                    
+                    line = re.sub(r"\d{2}:\d{2}:\d{2}", "", line)  # Remove timestamps
+                    line = re.sub(r"<[^>]+>", "", line)  # Remove HTML tags
+                    line = re.sub(r"\[.*?\]", "", line)  # Remove [sound effects]
+
                     if line.strip():
                         cleaned = self.clean_text(line)
                         words = self.extract_words(cleaned)
                         self.word_counts.update(words)
-                        
+
                         lines_processed += 1
                         if lines_processed % 10000 == 0:
-                            print(f"  Processed {lines_processed:,} subtitle lines...", end='\r')
-                            
+                            print(
+                                f"  Processed {lines_processed:,} subtitle lines...",
+                                end="\r",
+                            )
+
         except Exception as e:
             print(f"\nError parsing OpenSubtitles: {e}")
             return
-            
+
         print(f"\n  Processed {lines_processed:,} subtitle lines. Done!")
-    
+
     def download_news_corpus(self) -> str:
         """Download news corpus for formal/journalistic English."""
         print("Downloading news corpus...")
-        
+
         # WMT news datasets are freely available
-        news_url = "http://data.statmt.org/news-crawl/en/news.2023.en.shuffled.deduped.gz"
-        
+        news_url = (
+            "http://data.statmt.org/news-crawl/en/news.2023.en.shuffled.deduped.gz"
+        )
+
         temp_fd, temp_path = tempfile.mkstemp(suffix=".news.gz")
         os.close(temp_fd)
-        
+
         try:
             print(f"Downloading news data from: {news_url}")
             urllib.request.urlretrieve(news_url, temp_path)
-            
+
             size_mb = os.path.getsize(temp_path) / (1024 * 1024)
             print(f"Downloaded {size_mb:.1f} MB")
-            
+
             return temp_path
-            
+
         except Exception as e:
             print(f"News corpus download failed: {e}")
             if os.path.exists(temp_path):
                 os.unlink(temp_path)
             return None
-    
+
     def parse_news_corpus(self, gz_path: str, max_lines: int = 50000) -> None:
         """Parse news corpus for journalistic word frequencies."""
         print(f"Parsing news corpus (max {max_lines:,} lines)...")
-        
+
         lines_processed = 0
-        
+
         try:
-            with gzip.open(gz_path, 'rt', encoding='utf-8') as file:
+            with gzip.open(gz_path, "rt", encoding="utf-8") as file:
                 for line in file:
                     if lines_processed >= max_lines:
                         break
-                        
+
                     if line.strip():
                         cleaned = self.clean_text(line)
                         words = self.extract_words(cleaned)
                         self.word_counts.update(words)
-                        
+
                         lines_processed += 1
                         if lines_processed % 5000 == 0:
-                            print(f"  Processed {lines_processed:,} news lines...", end='\r')
-                            
+                            print(
+                                f"  Processed {lines_processed:,} news lines...",
+                                end="\r",
+                            )
+
         except Exception as e:
             print(f"\nError parsing news corpus: {e}")
             return
-            
+
         print(f"\n  Processed {lines_processed:,} news lines. Done!")
-    
-    def process_multiple_corpora(self, wiki_articles: int = 5000, subtitle_lines: int = 100000, news_lines: int = 50000, use_real_data: bool = True) -> None:
+
+    def process_multiple_corpora(
+        self,
+        wiki_articles: int = 5000,
+        subtitle_lines: int = 100000,
+        news_lines: int = 50000,
+        use_real_data: bool = True,
+    ) -> None:
         """Process multiple corpora for comprehensive frequency analysis."""
         print("Processing multiple corpora for comprehensive frequency analysis...")
         print("=" * 60)
-        
+
         if not use_real_data:
             print("Using demo data instead of real corpora.")
             self._create_demo_data()
             return
-        
+
         sources_used = []
-        
+
         # 1. Wikipedia (formal/encyclopedic)
         if wiki_articles > 0:
             print("\n1. Processing Wikipedia (formal/encyclopedic text)...")
@@ -276,7 +297,7 @@ class FrequencyAnalyzer:
                     os.unlink(dump_path)
             else:
                 print("Wikipedia processing failed, continuing with other sources...")
-        
+
         # 2. OpenSubtitles (conversational)
         if subtitle_lines > 0:
             print("\n2. Processing OpenSubtitles (conversational text)...")
@@ -288,8 +309,10 @@ class FrequencyAnalyzer:
                 finally:
                     os.unlink(subtitles_path)
             else:
-                print("OpenSubtitles processing failed, continuing with other sources...")
-        
+                print(
+                    "OpenSubtitles processing failed, continuing with other sources..."
+                )
+
         # 3. News corpus (journalistic)
         if news_lines > 0:
             print("\n3. Processing news corpus (journalistic text)...")
@@ -302,30 +325,32 @@ class FrequencyAnalyzer:
                     os.unlink(news_path)
             else:
                 print("News corpus processing failed, continuing with other sources...")
-        
+
         # Fallback to demo if no sources worked
         if not sources_used:
             print("\nAll corpus downloads failed, using demo data...")
             self._create_demo_data()
             sources_used = ["demo"]
-        
+
         # Store sources for metadata
         self._sources_used = sources_used
-        
+
         print(f"\nCompleted processing. Sources used: {', '.join(sources_used)}")
-    
-    def process_wikipedia_sample(self, sample_size: int = 10000, use_real_data: bool = True) -> None:
+
+    def process_wikipedia_sample(
+        self, sample_size: int = 10000, use_real_data: bool = True
+    ) -> None:
         """Process Wikipedia articles for word frequencies. (Legacy method - use process_multiple_corpora instead)"""
         print(f"Processing Wikipedia sample ({sample_size:,} articles)...")
-        
+
         if not use_real_data:
             print("Using demo data instead of real Wikipedia dump.")
             self._create_demo_data()
             return
-        
+
         # Download and process real Wikipedia data
         dump_path = self.download_wikipedia_dump()
-        
+
         if dump_path:
             try:
                 self.parse_wikipedia_xml(dump_path, sample_size)
@@ -439,7 +464,7 @@ class FrequencyAnalyzer:
 
         # Store for metadata
         self._total_words = total_words
-        
+
         # Create frequency mapping
         frequency_data = {}
 
@@ -459,7 +484,7 @@ class FrequencyAnalyzer:
         output_path = Path(output_file)
 
         # Create metadata
-        total_words = getattr(self, '_total_words', 0)
+        total_words = getattr(self, "_total_words", 0)
         metadata = {
             "total_words_processed": total_words,
             "unique_words": len(data),
@@ -471,7 +496,7 @@ class FrequencyAnalyzer:
                 3: "rare (top 50%)",
                 4: "very_rare (bottom 50%)",
             },
-            "sources": getattr(self, '_sources_used', ["unknown"]),
+            "sources": getattr(self, "_sources_used", ["unknown"]),
             "note": "Frequency percentages are relative to this corpus",
         }
 
@@ -557,14 +582,16 @@ def main():
     # Process data sources
     if args.wikipedia_only:
         # Legacy Wikipedia-only mode
-        analyzer.process_wikipedia_sample(args.wiki_articles, use_real_data=not args.demo)
+        analyzer.process_wikipedia_sample(
+            args.wiki_articles, use_real_data=not args.demo
+        )
     else:
         # Multi-corpus mode for comprehensive coverage
         analyzer.process_multiple_corpora(
             wiki_articles=args.wiki_articles,
-            subtitle_lines=args.subtitle_lines, 
+            subtitle_lines=args.subtitle_lines,
             news_lines=args.news_lines,
-            use_real_data=not args.demo
+            use_real_data=not args.demo,
         )
 
     # Generate frequency mappings

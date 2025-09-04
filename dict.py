@@ -302,8 +302,7 @@ def freq_for_word(w: str) -> int:
     if freq is None or freq == FREQ_NOT_FOUND:
         freq = FREQ_MAP.get(w.lower(), FREQ_NOT_FOUND)
 
-    if freq is None:
-        return FREQ_NOT_FOUND
+    return FREQ_NOT_FOUND
 
 
 DEFAULT_MISSING_COLOR = "#FFF"  # Default color for missing frequency

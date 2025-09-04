@@ -54,13 +54,14 @@ from dict import (
     parse_line,
     page_for_word,
     syllables_for_word,
+    synonyms_for_word,
 )
 from db import EnskDatabase, DB_FILENAME
 from util import zip_file, read_json, silently_remove
 from info import PROJECT
 
 
-EntryType = tuple[str, str, str, str, str, int, int]
+EntryType = tuple[str, str, str, str, str, int, int, str]
 EntryList = list[EntryType]
 
 
@@ -124,7 +125,8 @@ def read_all_entries() -> EntryList:
         ipa_us = ipa4entry(w, lang="us") or ""
         pn = page_for_word(w)
         freq = WORD_FREQ_MAP.get(w, -1)
-        entries.append(tuple([w, definition, syll, ipa_uk, ipa_us, pn, freq]))
+        syns = ",".join(synonyms_for_word(w))
+        entries.append(tuple([w, definition, syll, ipa_uk, ipa_us, pn, freq, syns]))
 
     entries.sort(key=lambda d: d[0].lower())  # Sort alphabetically by word
 
@@ -176,7 +178,7 @@ def add_entries_to_db(entries: EntryList) -> int:
 
     cursor = db.conn().cursor()
     cursor.executemany(
-        "INSERT INTO dictionary (word, definition, syllables, ipa_uk, ipa_us, page_num, freq) VALUES (?,?,?,?,?,?,?)",
+        "INSERT INTO dictionary (word, definition, syllables, ipa_uk, ipa_us, page_num, freq, synonyms) VALUES (?,?,?,?,?,?,?,?)",
         entries,
     )
     db.conn().commit()
@@ -276,7 +278,7 @@ def generate_json(entries: EntryList) -> str:
 
     # Add each entry to the dictionary
     for entry in entries:
-        word, definition, syllables, ipa_uk, ipa_us, page_num, freq = entry
+        word, definition, syllables, ipa_uk, ipa_us, page_num, freq, synonyms = entry
         entry_data = {
             "headword": word,
             "definition": definition,
