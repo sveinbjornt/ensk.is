@@ -1709,3 +1709,5 @@ anthropophagy
 hypnotized
 mesmerized
 spellbind
+non-sequitur
+hypomanic

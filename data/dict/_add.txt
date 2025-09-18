@@ -2264,6 +2264,7 @@ Rhodesia n. Ródesía (landsvæði sem er í dag ríkin Sambía og Simbabve)
 manpower n. mannafli, mannafl
 monotheistic l. eingyðistrúarlegur, eingyðistrúar-, eingyðislegur-
 womanizer n. kvennabósi, flagari
+womaniser n. sjá %[womanizer]%
 choirboy n. kórdrengur
 willpower n. viljastyrkur, viljakraftur
 ballerina n. ballettdansmær, ballerína
@@ -4352,6 +4353,7 @@ statelet n. smáríki; lítið þjóðríki
 epigenetic l. umframerfða-
 epigenetically l. umframerfða-
 prenatal l. forburðar-, fyrir fæðingu
+antenatal l. forburðar-, fyrir fæðingu
 Sparta n. Sparta (borgríki í Grikklandi til forna)
 Assyria n. Assyría (stórveldi í Mið-Austurlöndum til forna)
 Assyrian l. assyrískur; n. Assyríumaður; assyríska
@@ -5571,6 +5573,7 @@ palagonite n. mógler, basaltgler
 anthracis n. miltisbrandsbaktería
 mythicize s. gera að goðsögn
 mythologize s. gera að goðsögn, gera goðsagnarkenndan
+mythologized l. gerður að goðsögn
 autoionization n. sjálfsjónun
 ionize s. jóna
 deionize s. afjóna
@@ -5929,7 +5932,7 @@ cortisone n. kortísón
 tensile l. teygjanlegur, teygjanleika-, teygju-, tog-
 fascinated l. heillaður, töfraður, hugfanginn (sjá %[fascinate]%)
 gastrulation n. holfósturmyndun; vembilsmyndun
-wisteria n. e.k. klifurjurt
+wisteria n. bláregn (e.k. klifurjurt)
 beige l. drappaður, drapplitaður, ljósbrúnn, grábrúnn; óspennandi; n. drapplitur, ljósbrúnn litur, grábrúnn litur
 disfigured l. afmyndaður, afskræmdur
 hoarsely ao. með hásri röddu
@@ -9222,6 +9225,7 @@ tango n. tangó (argentínskur dans); s. dansa tangó ([it takes two to ~])
 sanitarium n. heilsuhæli
 yen n. jen (japanskur gjalmiðill)
 snorkel n. öndunarpípa; s. kafa með öndunarpípu
+snorkeling n. sú iðja að kafa með öndunarpípu
 traphouse n. fíkniefnagreni, dópbæli
 ellipsoid n. sporvala, sporbaugsflötur; l. sporbaugóttur
 parallelogram n. samsíðungur
@@ -9410,3 +9414,14 @@ gamey l. sjá %[gamy]%
 hypnotized l. dáleiddur
 mesmerized l. dáleiddur
 spellbind s. töfra, leggja álög á
+harridan n. kvenskass, geðvond kerling
+soubrette n. hress og daðurgjörn þjónustustúlka (í gamanleik eða óperu)
+Menshevik n. menséviki (meðlimur í rússneskum stjórnmálaflokk, bókst. minnihlutamaður)
+hypersomnia n. svefnsækni
+racketeering n. fjárglæfrastarfsemi
+netizen n. netverji, netborgari
+hypomanic l. ólmhuga
+unjustness n. ranglæti, óréttlæti
+dishonor n. sjá %[dishonour]%
+wondrously ao. undursamlega
+woefulness n. hörmung, hryggð, sorg; vesæld, eymd (sjá %[woeful]%)
