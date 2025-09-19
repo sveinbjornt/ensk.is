@@ -292,7 +292,7 @@ well-room n. brunnsalur; austurrúm
 well-sinker n. brunngrafari
 well-appointed l. vel útbúinn
 well-apparelled l. vel búinn
-wellbeing n. vellíðan
+wellbeing n. vellíðan, velferð
 wellborn l. af góðum ættum
 well-bred l. vel uppalinn, siðaður
 well-doer n. réttlátur maður, góðgjörðamaður
@@ -338,7 +338,7 @@ wharfage n. bryggjuleiga, bryggjugjald; legupláss við bryggju
 wharfinger n. bryggjustjóri; bryggjueigandi
 what fn. það sem; hvað; hvaða ([~ books have you read?]); [I'll tell you ~] ég skal segja þér nokkuð; [~ of that] hvað stoðar það? hvað um það?; [~ news?] hvað er í fréttum?; [~ is your name?] hvað heitið þér?; [~ a folly!] hvaða ógnar heimska!; [~ a fine day] en hvað veðrið er gott; [I gave him ~ money I had] ég gaf honum þá peninga sem ég hafði; [come ~ will] komi hvað sem koma vill; [~ with one thing and another the scheme miscarried] áformið mistókst ýmist af þessu, ýmist af hinu; [not a day but ~ it rains] að ekki rigni
 whatever fn. hvað sem, hvað sem er ([~ may happen]); [there is no doubt ~] alls enginn vafi (yfirhöfuð)
-whatsoever fn. hvað sem,hvað sem er ([~ may happen]); [there is no doubt ~] alls enginn vafi (yfirhöfuð)
+whatsoever fn. hvað sem, hvað sem er ([~ may happen]); [there is no doubt ~] alls enginn vafi (yfirhöfuð)
 wheal n. bóla (á hörundi)
 wheat n. hveiti
 wheatear n. hveitiax; steindepill

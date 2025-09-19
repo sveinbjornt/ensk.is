@@ -638,7 +638,7 @@ optimize s. besta, hagræða, fínstilla, gera eitthvað betra eða skilvirkara
 optimized l. bestaður, hagræddur, fínstilltur, gerður skilvirkari
 optimization n. bestun, hámörkun, hagræðing, fínstilling, betrumbót; aukning á skilvirkni e-s
 optimum l. bestur, hagstæðastur; n. kjörstaða, kjörgildi
-optimal l. eins gott og getur orðið
+optimal l. eins góður og getur orðið
 seeress n. spákona, völva, seiðkona
 oral sex n. munnmök
 Afghanistan n. Afganistan
@@ -1374,7 +1374,7 @@ methamphetamine n. metamfetamín (örvandi lyf)
 meth n. sjá %[methamphetamine]%
 psilocybin n. sílósíbin (virka efnið í ofskynjunarsveppum)
 restart s. endurræsa, hefja á ný, byrja upp á nýtt (sjá %[start]%)
-sales nft. sala ([~ have been disappointing]); söludeild; sjá %[sale]%
+sales nft. sala ([~ have been disappointing]); sölumennska; söludeild; sjá %[sale]%
 desktop n. yfirborð skrifborðs; skjáborð (í tölvuviðmóti); borðtölva ([~ computer])
 synchronicity n. samstilling; samræming; sjá %[synchronous]%
 asynchronous l. ósamstilltur; ósamræmdur; ekki samtímis; sjá %[synchronous]%
@@ -1407,7 +1407,7 @@ ghast n. draugur, vofa
 Pegasus n. Pegasus, skáldfákur (vængjaður hestur í grískri goðafræði)
 homunculus n. smámenni
 ineffectiveness n. gagnsleysi, árangursleysi, áhrifaleysi (sjá %[ineffective]%)
-sphinx n. sfinx (goðsagnavera með búk ljóns og mannshöfuð)
+sphinx n. sfinx (goðsagnavera með búk ljóns og höfuð manns)
 telephone book n. símaskrá
 telephone booth n. símaklefi
 phone book n. símaskrá
@@ -1480,7 +1480,7 @@ clockwise l. réttsælis; ao. réttsælis
 IRC n. spjallkerfi á internetinu (sks. á [Internet Relay Chat])
 intravenous l. innan æða, innanæða-, í æð
 intravenously ao. í æð
-suboptimal l. ekki eins góður og kostur er á (sjá %[optimal]%)
+suboptimal l. ekki eins góður og kostur er á (sjá %[optimal]% og %[sub-]%)
 microorganism n. örvera
 prementioned l. áðurnefndur, fyrrnefndur
 neurologist n. taugalæknir, taugasérfræðingur
@@ -3799,7 +3799,7 @@ disambiguate s. einræða (fækka kostum niður í einn)
 disambiguation n. einræðing
 pandemonium n. ringulreið, glundroði; vítishöll Satans í Paradísarmissi eftir 17. aldar skáldið John Milton
 psychometric l. sálmælinga-
-psychometrics n. sálmælingar
+psychometrics nft. sálmælingar
 psychometry n. sálmæling
 deuteranomaly n. litblinda
 smaragd n. smaragð (grænn gimsteinn); sjá %[emerald]%
@@ -4655,6 +4655,8 @@ horsefly n. kleggi
 smugness n. sjálfumgleði, sjálfsánægja
 watercooler n. vatnskælir
 Afrikaner n. Búi (Suður-Afríkumaður af hollenskum uppruna)
+Boer n. Búi (Suður-Afríkumaður af hollenskum uppruna)
+Boer War n. Búastríðið (milli Bretlands og þegna þeirra í Suður-Afríku)
 Afrikaans n. afríkanska (germanskt mál talað af Búum í Suður-Afríku)
 viable l. vænlegur, lífvænlegur; framkvæmanlegur; raunhæfur; gjaldgengur
 unviable l. ekki lífvænlegur, ólífvænlegur; óframkvæmanlegur; óraunhæfur; ógjaldgengur
@@ -8405,7 +8407,7 @@ utilisation n. sjá %[utilization]%
 accent mark n. áherslumerki, broddur (í bókstöfum)
 likable l. sjá %[likeable]%
 disfavor n. sjá %[disfavour]%
-marvelous l. sjá %%[marvellous]
+marvelous l. sjá %[marvellous]%
 lutecium n. sjá %[lutetium]%
 protoactinium n. sjá %[protactinium]%
 wolfram n. volfram (sjá %[tungsten]%)
@@ -9333,20 +9335,21 @@ chores nft. (leiðinleg) húsverk, heimilisverk ([household ~])
 fluoride n. flúrsalt
 dentures nft. gervitennur
 exhibitionist n. sá sem lætur á sér bera, sá sem vill vekja athygli á sér; strípalingur
-quadruplet n. fjórburi; fernt sömu tegundar
+quadruplet n. fjórburi; fern sömu tegundar
 quintuplet n. fimmburi; fimm sömu tegundar
 sextuplet n. sexburi; sex sömu tegundar
 ombudsman n. umboðsmaður
-decipherable l. ráðanlegur, læsilegur
-indecipherable l. óráðanlegur, ólæsilegur
-undecipherable l. óráðanlegur, ólæsilegur
+decipherable l. ráðanlegur, læsilegur, skiljanlegur
+indecipherable l. óráðanlegur, ólæsilegur, óskiljanlegur
+undecipherable l. óráðanlegur, ólæsilegur, óskiljanlegur
 foyer n. anddyri, fordyri
+aenema n. sjá %[enema]%
 enema n. stólpípa; innhelling í endaþarm
 contraption n. tæki, græja, maskína; heimasmíðað tæki
 A-bomb n. kjarnorkusprengja (stytt. á [atomic bomb])
-littering n. það að kasta frá sér rusli (sjá %[litter]%)
+littering n. það að kasta frá sér rusli (sjá %[litter]%), sóðaleg hegðun
 nephrology n. nýrnalækningar
-indistinguishability n. ósundurgreinanleiki, óaðgreinanleiki
+indistinguishability n. ósundurgreinanleiki, óaðgreinanleiki, þar sem ekki er hægt að greina eitt frá öðru
 individuation n. einsömun
 evil-doer n. sjá [evildoer]%%
 opt s. velja, kjósa ([~ in, ~ out, ~ for])
@@ -9419,9 +9422,10 @@ mesmerized l. dáleiddur; heillaður (óforml.)
 spellbind s. töfra, leggja álög á
 harridan n. kvenskass, geðvond kerling
 soubrette n. hress og daðurgjörn þjónustustúlka (í gamanleik eða óperu)
-Menshevik n. menséviki (meðlimur í rússneskum stjórnmálaflokk, bókst. minnihlutamaður)
+Menshevik n. menséviki (meðlimur í rússneskum stjórnmálaflokki, bókst. minnihlutamaður)
 hypersomnia n. svefnsækni (sjúkdómur)
-racketeering n. fjárglæfrastarfsemi
+racketeer n. fjárglæframaður, gróðabrallari; s. standa í gróðabralli eða fjárglæfrastarfsemi
+racketeering n. fjárglæfrastarfsemi, gróðabrall
 netizen n. netverji, netborgari
 hypomanic l. ólmhuga
 unjustness n. óréttlæti, ranglæti
@@ -9431,8 +9435,8 @@ woefulness n. hörmung, hryggð, sorg; vesæld, eymd (sjá %[woeful]%)
 tremendously ao. ógurlega, gríðarlega, afskaplega, voðalega
 transparence n. sjá %[transparency]%
 tourney n. sjá %[tournament]%
-tightfisted l. nískur, naumur, fastheldinn á fé
+tightfisted l. nískur, naumur, fastheldinn á fé, sem heldur fé frá manni
 pushy l. ýtinn, frekur, yfirgengilegur
 traditionally ao. skv. hefð, skv. venju, eftir venju, hefðinni samkvæmt
 loathsomeness n. viðbjóður, viðurstyggð
-womanishness n. kvenleiki, kvenmannleiki, kvenskapur (sjá %[femininity]%); aumingjaskapur (forn.)
+womanishness n. kvenleiki, kvenmannleiki, kvenskapur (sjá %[femininity]%); aumingjaskapur (óforn.)
