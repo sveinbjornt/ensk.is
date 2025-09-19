@@ -1736,6 +1736,7 @@ electrocution n. að fá raflost
 electrocute s. gefa e-u eða e-m raflost eða rafstuð
 urbanize s. borgarvæða, þéttbýlisvæða
 urbanization n. þéttbýlismyndun, þéttbýlisvæðing, borgarvæðing
+urbanisation n. sjá %[urbanization]%
 suburbanization n. úthverfavæðing
 conurbation n. þéttbýlissvæði
 voidability n. ógildanleiki
@@ -9099,7 +9100,7 @@ tofu n. tófú (hleypt sojamjólk)
 conjunctivitis n. tárubólga, slímhimnubólga
 poorhouse n. fátækrahæli
 Bessarabia n. Bessarabía (svæði í A-Evrópu, norðan við Rúmeníu)
-Scania n. Skánn
+Scania n. Skánn (hérað í suðurhluta Svíþjóðar)
 anarcho-syndicalism n. stjórnleysis-samtakahyggja
 anarcho-syndicalist n. stjórnleysis-samtakahyggjumaður
 Antilles n. Antillur, Antillaeyjar (í Karíbahafi)
@@ -9396,10 +9397,10 @@ criticise s. sjá %[criticize]%
 hippo n. flóðhestur (stytt. á %[hippopotamus]%)
 Torah n. Torah (helgirit gyðingdóms)
 phonotactics nft. hljóðskipunarfræði
-exaggerated l. ýktur
+exaggerated l. ýktur, sem gert er of mikið úr
 eliminated l. útrýmdur, eyddur; brottrekinn, útrekinn
 botanic l. sjá %[botanical]%
-non-sequitur n. rökleiðsla þar sem niðurstaðan fylgir ekki út frá forsendunum
+non-sequitur n. rökleiðsla þar sem niðurstaðan fylgir ekki út frá forsendum
 anthropophagy n. mannát
 abnegated l. hafnaður, afneitaður
 anonymize s. gera nafnlausan
@@ -9412,16 +9413,20 @@ pie chart n. kökurit
 bar chart n. stöplarit
 gamey l. sjá %[gamy]%
 hypnotized l. dáleiddur
-mesmerized l. dáleiddur
+mesmerized l. dáleiddur; heillaður (óforml.)
 spellbind s. töfra, leggja álög á
 harridan n. kvenskass, geðvond kerling
 soubrette n. hress og daðurgjörn þjónustustúlka (í gamanleik eða óperu)
 Menshevik n. menséviki (meðlimur í rússneskum stjórnmálaflokk, bókst. minnihlutamaður)
-hypersomnia n. svefnsækni
+hypersomnia n. svefnsækni (sjúkdómur)
 racketeering n. fjárglæfrastarfsemi
 netizen n. netverji, netborgari
 hypomanic l. ólmhuga
-unjustness n. ranglæti, óréttlæti
+unjustness n. óréttlæti, ranglæti
 dishonor n. sjá %[dishonour]%
 wondrously ao. undursamlega
 woefulness n. hörmung, hryggð, sorg; vesæld, eymd (sjá %[woeful]%)
+tremendously ao. ógurlega, gríðarlega, afskaplega, voðalega
+transparence n. sjá %[transparency]%
+tourney n. sjá %[tournament]%
+tightfisted l. nískur, naumur, fastheldinn á fé
