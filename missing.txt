@@ -5285,7 +5285,6 @@ ataraxis
 importee
 enamour
 enamor
-loathsomeness
 lousiness
 repulsiveness
 sliminess
@@ -5873,3 +5872,7 @@ deconsecrate
 unhallow
 unconsecrated
 unsanctified
+mythos
+unbank
+sculptured
+objectivism

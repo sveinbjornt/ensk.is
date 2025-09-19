@@ -2049,6 +2049,7 @@ roadblock n. vegatálmi; hindrun
 airstrike n. loftárás
 mass-produce s. fjöldaframleiða
 backseat n. aftursæti, baksæti
+Shetland Islands nft. Hjaltlandseyjar
 Shetlands nft. Hjaltlandseyjar
 Shetlander n. Hjalti, maður frá Hjaltlandseyjum
 Shetlandic l. hjaltneskur, frá Hjaltlandseyjum
@@ -3596,6 +3597,7 @@ unorthodoxy n. villutrú; speki sem stangast á við viðtekin sannleika
 deviant l. afbrigðilegur; n. afbrigði, frávik
 deviance n. frávik, afbrigðilegheit
 contaminant n. aðskotaefni, mengandi efni; mengunarvera, mengandi örvera
+colonialize s. nýlenduvæða, gera að nýlendu
 decolonialize s. afnýlenda, afnýlenduvæða
 decolonialization n. afnýlendun, afnýlenduvæðing
 amphora n. amfóra (e.k. leirker í Evrópu til forna)
@@ -9430,3 +9432,7 @@ tremendously ao. ógurlega, gríðarlega, afskaplega, voðalega
 transparence n. sjá %[transparency]%
 tourney n. sjá %[tournament]%
 tightfisted l. nískur, naumur, fastheldinn á fé
+pushy l. ýtinn, frekur, yfirgengilegur
+traditionally ao. skv. hefð, skv. venju, eftir venju, hefðinni samkvæmt
+loathsomeness n. viðbjóður, viðurstyggð
+womanishness n. kvenleiki, kvenmannleiki, kvenskapur (sjá %[femininity]%); aumingjaskapur (forn.)
