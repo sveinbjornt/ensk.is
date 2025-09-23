@@ -705,7 +705,7 @@ alertness n. árvekni, hvatleiki
 alfresco ao. undir berum himni
 algebra n. algebra, bókstafareikningur, tölvísi
 algous l. þang-, þara-
-alias ao. annars, endranær
+alias ao. annars, endranær; þekktur sem; n. dulnefni, gervinafn
 alibi n. vera annars staðar, fjarvera, fjarvistarsönnun ([proof of an ~])
 alien l. annarlegur, annara manna, útlendur; ólíkur, frábrugðinn ([from]); fráhverfur (e-u [to]); n. útlendingur; geimvera; s. gera fráhverfan, fjarlægja; afsala (eign)
 alienable l. sem selja má í hendur annara, afhendilegur
@@ -1628,7 +1628,7 @@ attributable l. tileinkanlegur; sem hægt er að einka ([to] e-m)
 attribute s. tileinka; eigna; kenna um; n. eiginleiki; einkenni
 attribution n. tileinkun
 attrite l. iðrunarfullur
-attrition n. núningur, afrif hörundsins; iðrunarkvöl
+attrition n. núningur, afrif hörundsins; iðrunarkvöl; [war of ~] þreytistríð
 attune s. setja í samræmi (við e-ð [to]); stilla hljóðfæri
 atwain ao. í tvennt
 auburn l. jarpur ([~ hair])

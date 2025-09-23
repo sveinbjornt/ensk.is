@@ -5648,6 +5648,7 @@ globally ao. hnattrænt, um allan heim, á hnattrænan hátt
 coyote n. sléttuúlfur
 sucrose n. súkrósi, sykur
 anaphylaxis n. bráðaofnæmi
+anaphylactic l. bráðaofnæmis-
 generalise s. sjá %[generalise]%
 annoyed l. pirraður, angraður
 koala n. pokabjörn, kóalabjörn
@@ -9439,4 +9440,14 @@ tightfisted l. nískur, naumur, fastheldinn á fé, sem heldur fé frá manni
 pushy l. ýtinn, frekur, yfirgengilegur
 traditionally ao. skv. hefð, skv. venju, eftir venju, hefðinni samkvæmt
 loathsomeness n. viðbjóður, viðurstyggð
-womanishness n. kvenleiki, kvenmannleiki, kvenskapur (sjá %[femininity]%); aumingjaskapur (óforn.)
+womanishness n. kvenleiki, kvenmannleiki, kvenskapur (sjá %[femininity]%); aumingjaskapur (óforml.)
+cardiomegaly n. hjartastækkun
+tarp n. sjá %[tarpaulin]%
+coordination n. samstilling, samhæfing
+coordinate s. samstilla, samhæfa
+coordinated l. samstilltur, samhæfður
+coordinator n. samstillari, samhæfari
+uncoordinated l. ósamstilltur, ósamhæfður
+convincingly ao. á sannfærandi máta
+decathlon n. tugþraut (íþrótt)
+subatomic l. smærri en frumeind
