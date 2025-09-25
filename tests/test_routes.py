@@ -17,17 +17,22 @@ basepath, _ = os.path.split(os.path.realpath(__file__))
 src_path = os.path.join(basepath, "..")
 sys.path.append(src_path)
 
+
 # Mock synonym functions before importing app
 def mock_synonyms_for_word(w: str) -> list[str]:
     """Mock function for synonyms_for_word."""
     return ["test", "mock"]
 
+
 def mock_linked_synonyms_for_word(w: str, wordlist: list[str]) -> list[dict[str, Any]]:
     """Mock function for linked_synonyms_for_word."""
     return [{"word": "test", "exists": False}, {"word": "mock", "exists": False}]
 
-with patch('dict.synonyms_for_word', side_effect=mock_synonyms_for_word):
-    with patch('dict.linked_synonyms_for_word', side_effect=mock_linked_synonyms_for_word):
+
+with patch("dict.synonyms_for_word", side_effect=mock_synonyms_for_word):
+    with patch(
+        "dict.linked_synonyms_for_word", side_effect=mock_linked_synonyms_for_word
+    ):
         from app import app  # noqa: E402
 
 
@@ -56,12 +61,14 @@ PAGE_ROUTES = [
     "/multiword",
     "/nonascii",
     "/stats",
-    "/robots.txt",
-    "/sitemap.xml",
-    "/favicon.ico",
     "/cat/ao",
     "/cat/fn",
     "/search?q=quick",
+    "/robots.txt",
+    "/sitemap.xml",
+    "/apple-touch-icon.png",
+    "/apple-touch-icon-precomposed.png",
+    "/favicon.ico",
 ]
 
 
@@ -178,3 +185,53 @@ def test_more_web_routes() -> None:
     # /cat with invalid category
     response = client.get("/cat/invalidcat")
     assert response.status_code == HTTPStatus.OK
+
+
+def test_edge_cases() -> None:
+    """Test edge cases."""
+
+    # Search with a very long query string
+    response = client.get("/search?q=" + "a" * 1000)
+    assert response.status_code == HTTPStatus.OK
+
+    # Search with a query string containing only special characters
+    response = client.get("/search?q=!@#$%^&*()")
+    assert response.status_code == HTTPStatus.OK
+
+    # Item that doesn't exist
+    response = client.get("/item/a_word_that_does_not_exist")
+    assert response.status_code == HTTPStatus.NOT_FOUND
+
+    # API item that doesn't exist
+    response = client.get("/api/item/a_word_that_does_not_exist")
+    assert response.status_code == HTTPStatus.OK
+    assert response.json()["error"] is True
+
+    # API parsed single that doesn't exist
+    response = client.get("/api/item/parsed/a_word_that_does_not_exist")
+    assert response.status_code == HTTPStatus.OK
+    assert response.json()["error"] is True
+
+    # API parsed many with empty query
+    response = client.get("/api/item/parsed/many/?q=")
+    assert response.status_code == HTTPStatus.OK
+    assert response.json() == {}
+
+    # API parsed many with strip_html and strip_parentheses
+    response = client.get(
+        "/api/item/parsed/many/?q=abacus&strip_html=1&strip_parentheses=1"
+    )
+    assert response.status_code == HTTPStatus.OK
+    assert response.json() != {}
+
+    # API parsed many with a very long query
+    response = client.get("/api/item/parsed/many/?q=" + ",".join(["a"] * 1000))
+    assert response.status_code == HTTPStatus.OK
+
+    # Page with non-integer page number
+    response = client.get("/page/abc")
+    assert response.status_code == HTTPStatus.INTERNAL_SERVER_ERROR
+
+    # Page with negative page number
+    response = client.get("/page/-1")
+    assert response.status_code == HTTPStatus.NOT_FOUND

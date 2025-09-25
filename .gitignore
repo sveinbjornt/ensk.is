@@ -103,3 +103,5 @@ tools/*.csv
 tools/*.json
 .env
 *.csv
+
+.coverage
