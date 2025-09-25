@@ -167,9 +167,6 @@ micromanagement
 inductive
 experimentalism
 concerned
-meticulous
-meticulously
-meticulousness
 demonstrated
 purposive
 underlabourer
@@ -277,9 +274,6 @@ completeness
 self-secure
 incendiarism
 humanization
-prefabricate
-prefabrication
-prefabricated
 evocative
 keynote
 deregionalize
@@ -382,7 +376,6 @@ brutalist
 glob
 quinze
 jape
-hibiscus
 bloomery
 davit
 serendipitous
@@ -507,8 +500,6 @@ resettlement
 interrogator
 fictionalized
 fictionalization
-lingerie
-phony
 recolonization
 noncommittal
 unbeatable
@@ -579,7 +570,6 @@ bedrock
 programmatic
 exclusivity
 schismatics
-hindsight
 travelogue
 migrant
 misjudgement
@@ -680,9 +670,6 @@ replicate
 replication (endurskoða)
 flagellant
 regrettable
-cryptic
-cryptical
-cryptically
 parisis
 chaperon
 slapstick
@@ -943,8 +930,6 @@ faraway
 effacement
 outback
 synchrony
-subcontinent
-subcontinental
 instinctual
 puzzlement
 monumentality
@@ -986,7 +971,6 @@ encapsulate
 encapsulated
 encapsulation
 self-indulgent
-figurine
 politicization
 introversion
 extroversion
@@ -1515,7 +1499,6 @@ hype
 bedside
 whimsy
 broadly
-gimmick
 saddleback
 flipside
 benchpress
@@ -2096,6 +2079,7 @@ stylized
 heteronormative
 heteronormativity
 cisgender
+trenchcoat
 trench coat
 dendrochronology
 parados
@@ -2430,7 +2414,6 @@ depressurize
 exceptionalist
 rimland
 enormously
-overspend
 high-flown
 exclusiveness
 workingman
@@ -3119,8 +3102,6 @@ checkmark
 deliverable
 undeliverable
 quenelle
-wilt
-wilted
 synastry
 earthshaking
 contortionism
@@ -3594,7 +3575,6 @@ missing
 trailer
 disqualified
 solicitously
-onus
 fascia
 mortified
 tendence
@@ -4102,7 +4082,6 @@ extensional
 pussyfoot
 washing-up
 jacynth
-forebear
 forebearance
 skintight
 satinwood
@@ -4722,7 +4701,6 @@ cardiorespiratory
 access (endurskoða)
 skeptically
 unknownst
-engrossed
 dismayed
 cold feet
 satisfied (endurskoða)
@@ -5872,11 +5850,17 @@ unbank
 sculptured
 objectivism
 kink (endurskoða)
+ecclesiology
 ecclesiologist
 tensor
 wakefulness
 mesocarp
 undisputed
-phonation
-Acropolis
-agonizing
+cameo (endurskoða)
+vocalization
+bullpen
+staidly
+categorically
+cartwheel
+harasser
+curate (endurskoða)

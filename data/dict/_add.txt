@@ -5355,6 +5355,7 @@ intersubjectivity n. samhuglægni
 intersubjective l. samhuglægur
 backlog n. ólokin verkefni, ófrágengin verkefni, listi ólokinna verkefna
 organisation n. sjá %[organization]%
+pixy n. sjá %[pixie]%
 pixie n. ljósálfur, álfadís, álfur
 fratriage n. arfur sem rennur til yngri bróður
 brachiosaurus n. finngálkn (risaeðlutegund)
@@ -8009,7 +8010,7 @@ unflappable l. sallarólegur, með jafnaðargeð
 unwavering l. óhagganlegur, óhaggandi
 debrief s. taka skýrslu af (e-m [someone]); yfirheyra; sitja uppgjörs- eða stöðufund
 debriefing n. skýrslutaka; yfirheyrsla; uppgjörsfundur; stöðufundur
-triathlon n. þríþraut
+triathlon n. þríþraut (íþrótt)
 gecko n. gekkó (lítil eðla)
 bragger n. gortari, montari, montrass, monthani
 bouillon n. kjötkraftur, kjötseyði
@@ -9451,3 +9452,50 @@ uncoordinated l. ósamstilltur, ósamhæfður
 convincingly ao. á sannfærandi máta
 decathlon n. tugþraut (íþrótt)
 subatomic l. smærri en frumeind
+acropolis n. borgarvirki, háborg (í Grikklandi); [the Acropolis] Akrópólishæð (háborg Aþenuborgar)
+wilt s. visna
+wilted l. visnaður
+ultrasonic l. úthljóðs-
+unashamed l. blygðunarlaus
+unashamedly ao. blygðunarlaust
+tampon n. tíðatappi, túrtappi
+subcontinent n. landsvæði á meginlandi, undirsvæði heimsálfu
+subcontinental l. undir heimsálfu (sjá %[subcontinent]%)
+serviette n. munnþurrka, servíetta
+begotten l. getinn (sjá %[beget]%)
+saprophagous l. sem nærist á rotnandi hræum eða dýraleifum
+pneumothorax n. loftbrjóst, loftbrjósthol
+compulsiveness n. árátta
+futurist n. framtíðarstefnusinni, fútúristi
+phonation n. málhljóðsmyndun
+ferro- fsk. járn- (sjá t.d. %[ferroconcrete]%, %[ferrosilicon]%)
+ferrosilicon n. kísiljárn
+agonizing l. kveljandi; engjandi
+overdraft n. yfirdráttur
+gimmick n. brella
+onus n. kvöð, skylda
+lingerie n. undirfatnaður kvenna
+meticulous l. vandvirkur, ýtarlega nákvæmur
+meticulously ao. vandvirknislega, af ýtrustu nákvæmni
+meticulousness n. vandvirkni, ýtrasta nákvæmni
+hibiscus n. læknakólfur, dátakólfur
+forebear n. forfaðir
+outskirts nft. útjaðar
+figurine n. smástytta
+menthol n. mentól
+phony l. óekta; uppspunninn; n. loddari
+drachma n. drakma (grískur gjaldmiðill)
+cushy l. þægilegur ([a ~ job])
+banyan n. fíkjutré; indverskur kaupmaður
+aforesaid l. fyrrnefndur
+cryptic l. dularfullur
+cryptical l. sjá %[cryptic]%
+cryptically ao. á dularfullan hátt
+distended l. þaninn, útþembdur
+engrossed l. niðursokkinn
+foreleg n. framleggur, framfótur
+hindsight n. eftirhyggja, eftiráhyggja; [in ~] eftir á að hyggja
+overspend s. eyða um efni fram
+prefabricate s. forsmíða, útbúa fyrirfram
+prefabrication n. forsmíði
+prefabricated l. forsmíðaður, útbúinn fyrirfram
