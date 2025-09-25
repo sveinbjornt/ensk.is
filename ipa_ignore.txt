@@ -1723,3 +1723,5 @@ ferro-
 ferrosilicon
 phonation
 saprophagous
+petro-
+petrostate

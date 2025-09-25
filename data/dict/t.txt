@@ -1259,8 +1259,8 @@ trump n. lúður; tromp (í spilum); s. spila trompi út; stinga (með trompi); 
 trumpery n. rusl; hégómi; l. fánýtur
 trumpet n. lúður, básúna; s. birta, boða (með lúðurhljómi)
 trumpeter n. lúðurþeytari
-truncate s. stýfa, höggva af
-truncation n. stýfing
+truncate s. stýfa, höggva af, stytta
+truncation n. stýfing, stytting
 truncheon n. stuttur stafur; kylfa, lurkur; tréstofn með afhöggnum greinum
 trundle n. valtari; s. velta
 trundle-bed n. rúm á hjólum

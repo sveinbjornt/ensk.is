@@ -540,6 +540,7 @@ hyperventilate s. anda of hratt, ofanda
 hyperventilation n. oföndun
 hyperactive l. ofvirkur
 hyperactivity n. ofvirkni
+upholster s. bólstra
 upholstery n. bólstrun, áklæði
 hagiography n. helgisaga, dýrlingasaga; helgisagnaritun
 hagiographer n. helgisagnaritari, dýrlingasöguritari
@@ -1241,6 +1242,7 @@ cultural l. menningarlegur, menningar-
 bookstore n. bókabúð
 prepared l. undirbúinn
 confirmed l. staðfestur; staðfastur ([he is a ~ bachelor])
+unconfirmed l. óstaðfestur
 percent n. prósent, hundraðshluti
 inkjet n. bleksprautun; l. bleksprautu- ([an ~ printer])
 cholesterol n. kólesteról
@@ -5836,7 +5838,7 @@ distill s. sjá %[distil]%
 non-reciprocal l. ógagnkvæmur
 thermonuclear l. kjarnasamruna-, samruna-
 hydrogen bomb n. vetnissprengja
-atomic bomb n. kjarnorkusprengja
+atomic bomb n. atómsprengja, kjarnorkusprengja
 blowback n. bakslag, afturköst, neikvæðar (ófyrirséðar) afleiðingar; bakskot
 oviduct n. eggrás, eggjaleiðari, eggrás, legpípa
 uterine l. leg-
@@ -9022,7 +9024,6 @@ terrified l. dauðhræddur, skelfdur, skelfingu lostinn, afar skelkaður
 irritated l. pirraður, ertur, egnaður
 parlor n. sjá %[parlour]%
 atom bomb n. sjá %[atomic bomb]%
-atomic bomb n. atómsprengja, kjarnorkusprengja
 insaneness n. sjá %[insanity]%
 rabidity n. hundaæði (sjá %[rabid]%)
 hypothetic l. sjá %[hypothetical]%
@@ -9036,8 +9037,6 @@ familiarise s. sjá %[familiarize]%
 endurance contest n. þolraun, þolkeppni, keppni í þoli
 silicate n. sílíkat
 phytonomy n. plöntulíffærafræði
-diabase n. díabas (bergtegund)
-verdigris n. spanskgræna, eirgræna (græna sem myndast á kopari)
 dispersant n. sundrunarefni
 collinearity n. samlínuleiki, línuleg samröðun
 amyloid n. mýlildi, amýlóíð (prótínefni)
@@ -9283,7 +9282,6 @@ audiobook n. sjá %[audio book]%
 enteritis n. garnabólga
 hypomania n. ólmhugur
 capriciously ao. duttlungasamlega, mislyndislega
-emergent l. samsprottið ([emergent phenomenon])
 immovably ao. óhreyfanlega
 seabass n. vartari (fisktegund)
 reappraise s. endurmeta, endurvirða
@@ -9381,8 +9379,6 @@ peddler n. farandsali; sölumaður (sem selur ómerkilega muni)
 cheapjack n. farandsali; sölumaður (sem selur ómerkilega muni); dópsali
 gimcrackery n. smekkleysa; smáglingur, ómerkilegir munir
 oafishness n. aulaskapur (sjá %[oaf]%)
-ma'am n. sjá %[madam]%
-madam n. frú, hefðarfrú, maddama
 cybercriminal n. netglæpamaður
 solitary confinement n. einangrunarvist
 alluviation n. botnfallsmyndun
@@ -9478,7 +9474,7 @@ lingerie n. undirfatnaður kvenna
 meticulous l. vandvirkur, ýtarlega nákvæmur
 meticulously ao. vandvirknislega, af ýtrustu nákvæmni
 meticulousness n. vandvirkni, ýtrasta nákvæmni
-hibiscus n. læknakólfur, dátakólfur
+hibiscus n. læknakólfur, dátakólfur (jurt)
 forebear n. forfaðir
 outskirts nft. útjaðar
 figurine n. smástytta
@@ -9496,6 +9492,32 @@ engrossed l. niðursokkinn
 foreleg n. framleggur, framfótur
 hindsight n. eftirhyggja, eftiráhyggja; [in ~] eftir á að hyggja
 overspend s. eyða um efni fram
-prefabricate s. forsmíða, útbúa fyrirfram
-prefabrication n. forsmíði
-prefabricated l. forsmíðaður, útbúinn fyrirfram
+teak n. tekk, tekkviður
+prefabricate s. forsmíða, búa til fyrirfram
+prefabrication n. forsmíði (sjá %[prefabricate]%)
+prefabricated l. forsmíðaður, búinn til fyrirfram
+vaudeville n. fjölleikasýning
+stereoscopic l. þrívíddar-
+ugh uh. oj, ojbara
+teddy n. bangsi ([~ bear])
+vet n. dýralæknir (%[veterinarian]%); fyrrverandi hermaður (%[veteran]%); s. rannsaka vandlega
+whose fn. hvers, sem ([the man ~ coat I took])
+outback n. óbyggðir, auðnir (í Ástralíu)
+truncated l. stýfður, styttur
+pal n. félagi, vinur, lagsmaður
+saccharin n. sakkarín (gervisykur, sætuefni)
+thug n. fantur, óþokki, glæponi
+thuggish l. fantalegur, glæponalegur
+thuggery n. fantaskapur, óþokkaskapur
+stooge n. handbendill, leppur, undirlægja
+ricochet s. endurkastast; n. endurkast, skopp
+premeditated l. sem er með fyrirhuguðu (af ásettu) ráði
+finicky l. vandlátur, vandfýsinn
+petrostate n. olíuríki
+petro- fsk. jarðolíu- (sjá t.d. %[petrostate]%, %[petrochemical]%)
+jitter n. flökt
+jittery l. taugaóstýrkur; flöktandi
+glycerin n. glýserín
+glycerol n. glýseról
+snooker n. snóker (kúluspil)
+shoo uh. snáfaðu! burt með þig! farðu!; s. reka á brott með upphrópunum
