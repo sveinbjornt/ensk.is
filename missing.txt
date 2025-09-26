@@ -157,7 +157,6 @@ entitled
 entitle (endurskoða)
 converter
 networking
-outstanding
 nationwide
 countrywide
 countywide
@@ -353,7 +352,7 @@ hardline
 commissary (endurskoða skilgr.)
 gigolo
 cynicism (endurskoða skilgr.)
-gaunt
+
 harsh-spoken
 attractiveness
 teeter
@@ -512,8 +511,6 @@ consensual
 rearrange
 preemptive
 preemption
-escalate
-escalation
 serviceman
 brinksmanship
 heartland
@@ -686,9 +683,6 @@ blueprint
 longhand
 blotless
 gruntled
-disgruntled
-disgruntlement
-polemicist
 deconstruct
 crackdown
 duress
@@ -721,7 +715,6 @@ craziness
 manipulative
 fictive
 hassle
-brash
 overdrive
 interdependent
 interdependence
@@ -1287,8 +1280,6 @@ syndicalist
 tokenism
 overreliance
 motorcar
-deli
-delicatessen
 point-blank
 initiator
 tamp
@@ -1345,7 +1336,6 @@ logo
 driven
 boneyard
 junky
-junkie
 immersive
 tidbit
 relive
@@ -1413,7 +1403,6 @@ scrounge
 placement
 motivator
 marketer
-cop
 paddy
 self-regulation
 squishy
@@ -1862,7 +1851,6 @@ afterward
 isogeothermal
 parka
 prosopography
-décor
 nous
 synecdoche
 lapstrake
@@ -1967,7 +1955,6 @@ tailcoat
 fruitcake
 collapsible
 scruff
-grubby
 befuddle
 sniffy
 scrawny
@@ -2194,6 +2181,7 @@ problematize
 blip
 unfound
 sexualization
+sexualisation
 underpinnings
 dodgeball
 weathervane
@@ -2338,7 +2326,6 @@ unaffiliated
 missionization
 colonialization
 artificially
-unscramble
 guildsman
 symptomology
 pluralistic
@@ -2804,7 +2791,6 @@ peter s. (peter out)
 prohibited
 upskirt
 accounting
-decor
 registered
 stuck
 enclosed
@@ -2959,7 +2945,6 @@ composting
 tenderfoot
 transformer
 tracer
-garbled
 sasquatch
 chiastic
 temp
@@ -3488,7 +3473,6 @@ descriptivism
 descriptivist
 evidently
 neuroplasticity
-excruciating
 low-level
 high-level
 predomination
@@ -3556,7 +3540,6 @@ estimated
 underestimated
 improperly
 chutney
-flabbergasted
 flabbergasting
 fibrillous
 reactivity
@@ -4076,7 +4059,6 @@ skintight
 satinwood
 all-inclusive
 rathole
-doodle
 low-key
 cheaply
 runabout
@@ -4107,7 +4089,6 @@ apathetically
 humourless
 ragpicker
 vulgarization
-girder
 tightly
 slurry
 rumpus
@@ -4495,7 +4476,6 @@ dago
 ginzo
 unswerving
 loadout
-excruciatingly
 sexualized
 sample (endurskoða)
 contretemps
@@ -4643,9 +4623,6 @@ metrics
 gossiping
 thalassemia
 occupied
-refuel
-refueled
-refuelling
 teal (endurskoöa)
 enervate (endurskoða)
 trilemma
@@ -4740,7 +4717,6 @@ caring
 uncaring
 received
 beshitted
-abashed
 slacks (buxur)
 lede
 securitization
@@ -5108,7 +5084,6 @@ chroma
 meretriciousness
 tawdriness
 garishness
-brashness
 flashiness
 glitz
 pleximetry
@@ -5165,7 +5140,6 @@ broken-down
 snappy
 scudding
 ostentate
-winkle
 newsbreak
 jiffy
 splashiness
@@ -5384,7 +5358,6 @@ barrelful
 membranophone
 tympan
 osteal
-gauntness
 wasted
 pinched
 careworn
@@ -5852,3 +5825,12 @@ categorically
 cartwheel
 harasser
 curate (endurskoða)
+triggerman
+crap-shooter
+coding
+bringer
+uppercut
+put-on
+sendup
+aqualung
+catamaran

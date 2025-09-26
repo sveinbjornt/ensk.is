@@ -2095,13 +2095,13 @@ coot n. blesönd
 copal n. kópal (viðarkvoða)
 copartner n. samfélagi
 copartnership n. samfélag
-cope n. biskupskápa; hvelfing ([~ of heaven]); s. keppa; reisa rönd (við); ráða við; [to be able to ~ with] jafnast við, standa (e-m) á sporði; hvelfast yfir
+cope s. keppa; reisa rönd (við); ráða við; [to be able to ~ with] jafnast við, standa (e-m) á sporði; hvelfast yfir; n. biskupskápa; hvelfing ([~ of heaven])
 copestone n. toppsteinn
 copious l. efnisríkur; fjölorður; orðmargur ([a ~ language]); ríkulegur
 copiously ao. ríkulega; rækilega
 copiousness n. gnótt; orðgnótt
 copper n. kopar, eir (málmur, frumefnið Cu, 29 í lotukerfinu); eirpeningar; eirketill; lögregluþjónn (óforml.)
-copper-plate n. eirplata; koparstunga
+copper-plate n. eirplata; koparstunga, koparstunguprent ([~ engraving, printing])
 coppery l. kopar-; [~ particles] koparagnir
 coppice n. smáviður
 copra n. þurrkaður kókóhnotarkjarni
@@ -2110,7 +2110,7 @@ copula n. tengiorð
 copulate s. maka sig (um dýr)
 copulation n. samtenging, samband; samræði
 copulative l. samtengjandi; n. samtengingarorð
-copy n. eftirrit, samrit; eftirstæling; eftirmynd; eintak; forskrift; s. rita upp (eftir öðru), endurrita; búa til mynd eftir (öðru); líkja eftir
+copy n. afrit, eftirrit, samrit; eftirstæling; eftirmynd; eintak; forskrift; s. afrita, rita upp (eftir öðru), endurrita; búa til mynd eftir (öðru); líkja eftir
 copybook n. forskriftabók; skrifbók
 copyhold n. e.k. erfðafesta
 copyist n. (eftir)ritari

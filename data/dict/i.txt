@@ -697,8 +697,8 @@ individually ao. einstaklega, hver um sig, hver í sínu lagi
 indivisible l. ódeilanlegur
 indocile l. ónámfús, tornæmur; óstýrilátur; óþekkur
 indocility n. ónámfýsi, tornæmi; óstýrilæti
-indoctrinate s. fræða, kenna ([in, with])
-indoctrination n. fræðsla, kennsla
+indoctrinate s. innræta; fræða, kenna ([in, with])
+indoctrination n. innræting; fræðsla, kennsla
 indolence n. leti, deyfð
 indolent l. latur, daufur; [~ tumour] sem engin tilkenning er í
 indomitable l. óviðráðanlegur, óbugandi ([~ energy])
@@ -1081,7 +1081,7 @@ instance n. atvik, tilfelli; dæmi; [pressing ~s] þrábeiðni; [at the ~ of] ef
 instancy n. þrábeiðni, áeggjan, ákafi
 instant l. samstundis; innilegur, ákafur; skjótur, bráður ([~ relief, ~ death]); yfirstandandi; yfirvofandi ([~ danger]); n. augnablik ([in an ~, on the ~])
 instantaneous l. samstundis; augnablikslegur; augnabliks-
-instantaneously l. samstundis; augnablikslegur; augnabliks-
+instantaneously l. samstundis; augnablikslega; augnabliks-
 instantly ao. undir eins; innilega, ákaft
 instarred l. settur stjörnum, stirndur ([the ~ sky])
 instate s. setja (í stöðu)

@@ -516,6 +516,7 @@ pornographer n. klámsali, klámframleiðandi (sjá %[pornography]%)
 porn star n. klámstjarna
 natural language processing n. máltækni, málvinnsla, málgreining
 language technology n. máltækni
+guerilla n. sjá %[guerrilla]%
 guerrilla n. skæruliði
 guerrilla warfare n. skæruhernaður
 neoclassical l. nýklassískur; [~ architecture] nýklassísk byggingarlist
@@ -3035,6 +3036,7 @@ snowmobile n. vélsleði, snjósleði
 storyline n. söguþráður
 airspace n. loftrými; lofthelgi ([we are about to enter Russian ~])
 counterattack n. gagnárás, gagnsókn; s. gera gagnárás
+counter-attack n. sjá %[counterattack]%
 taiga n. (norðlægt) barrskógabelti
 firebomb n. eldsprengja; s. sprengja með eldsprengjum
 masochist n. masókisti (sjá %[masochism]%)
@@ -4087,6 +4089,7 @@ adaption n. aðlögun
 bedspread n. rúmteppi
 chevron n. e.k. einkennismerki
 communique n. opinber tilkynning
+communiqué n. sjá %[communique]%
 sandbag n. sandpoki
 foxhole n. (lítil) skotgröf
 profiteer n. gróðapungur, gróðabraskari
@@ -7167,6 +7170,7 @@ curvaceous l. bugðóttur, með beygjum; íturvaxin, lögulega vaxin (um konu)
 urination n. þvaglát
 bra n. brjóstahaldari (stytt. á %[brassiere]%)
 brassiere n. brjóstahaldari (yfirleitt %[bra]%)
+brassière n. sjá %[brassiere]%
 dispassion n. geðstilling, gætni; óhlutdrægni
 confusing l. ruglandi, ruglingslegur
 national treasure n. þjóðargersemi
@@ -8375,7 +8379,7 @@ abessive n. fjarverufall (málfræðilegt fall); l. fjarverufalls-
 adessive n. nærverufall (málfræðilegt fall); l. nærverufalls-
 inessive n. íverufall (málfræðilegt fall); l. íverufalls-
 illative n. íferðarfall (málfræðilegt fall); l. íferðarfalls-
-copperplate n. koparstunga, koparstunguprent ([~ engraving, printing])
+copperplate n. sjá %[copper-plate]%
 dullish l. dauflegur
 metazoa nft. vefdýr, fjölfrumungar
 yttrium n. yttrín (frumefnið Y, 39 í lotukerfinu)
@@ -9330,7 +9334,7 @@ fahrenheit n. fahrenheit (hitakvarði)
 unauthorized l. án leyfis, án heimildar
 trapeze n. fimleikaróla
 semitone n. hálftónn
-chore n. leiðindaverk ([it's such a chore])
+chore n. leiðindaverk ([it's such a chore]); heimilisverk ([the household ~s])
 chores nft. (leiðinleg) húsverk, heimilisverk ([household ~])
 fluoride n. flúrsalt
 dentures nft. gervitennur
@@ -9378,7 +9382,7 @@ tatty l. druslulegur, slitinn; lélegur, lággæða-; kartafla (óforml.)
 peddler n. farandsali; sölumaður (sem selur ómerkilega muni)
 cheapjack n. farandsali; sölumaður (sem selur ómerkilega muni); dópsali
 gimcrackery n. smekkleysa; smáglingur, ómerkilegir munir
-oafishness n. aulaskapur (sjá %[oaf]%)
+oafishness n. aulaskapur, klunnaleg hegðun (sjá %[oaf]%)
 cybercriminal n. netglæpamaður
 solitary confinement n. einangrunarvist
 alluviation n. botnfallsmyndun
@@ -9500,7 +9504,7 @@ vaudeville n. fjölleikasýning
 stereoscopic l. þrívíddar-
 ugh uh. oj, ojbara
 teddy n. bangsi ([~ bear])
-vet n. dýralæknir (%[veterinarian]%); fyrrverandi hermaður (%[veteran]%); s. rannsaka vandlega
+vet n. dýralæknir (%[veterinarian]%); fyrrverandi hermaður (%[veteran]%); s. kanna vandlega, yfirfara; rannsaka bakgrunn e-s ([all candidates were carefully vetted])
 whose fn. hvers, sem ([the man ~ coat I took])
 outback n. óbyggðir, auðnir (í Ástralíu)
 truncated l. stýfður, styttur
@@ -9521,3 +9525,62 @@ glycerin n. glýserín
 glycerol n. glýseról
 snooker n. snóker (kúluspil)
 shoo uh. snáfaðu! burt með þig! farðu!; s. reka á brott með upphrópunum
+audio- fsk. hljóð-, heyrnar- (t.d. %[audiobook]%, %[audiology]%)
+hit man n. sjá %[hitman]%
+bicentenary n. tvö hundruð ára afmæli
+tatters nft. tötrar, tætlur; [in ~] tættur, í tætlum
+rumba n. rúmba (dans); s. dansa rúmbadans
+chequers nft. dammspil
+junkie n. dópisti, dópfíkill, fíkniefnadjöfull (óforml.)
+refuel s. fylla á eldsneyti
+refueled l. áfylltur eldsneyti
+refuelling n. áfylling á eldsneyti
+parquet n. parket
+reword s. umorða, endurorða
+abashed l. sneyptur, vandræðalegur
+bowler n. kúluhattur; keiluspilari (sjá %[bowling]%)
+mimosa n. mímósa (jurt); e-s konar kokteill
+dingo n. dingó (e.k. ástralskur hundur)
+brash l. frakkur, framhleypinn, ágengur, ósvífinn
+brashness n. framhleypni, ágengni, ósvífni
+alpaca n. alpakka (suðuramerískur úlfaldi)
+extemporization n. flutningur af munni fram, flutningur án undirbúnings
+unscramble s. afrugla, afbrengla
+unzip s. renna frá, opna rennilás; afþjappa (stafræna skrá)
+winkle n. fjörudoppa (sæsnigill); typpi (á barnamáli)
+telecast s. sjónvarpa; n. sjónvarpsútsending
+spoof s. skopstæla; gabba; n. gabb; skopstæling
+spoofed l. skopstæltur; gabbaður
+outstanding l. framúrskarandi ([an ~ performance]); útistandandi ([his ~ debts])
+grubby l. skítugur, óhreinn, subbulegur
+gaunt l. magur, grannur, beinaber
+gauntness n. magurleiki, grannleiki (sjá %[gaunt]%)
+garbled l. afbakaður, umsnúinn
+indoctrinated l. innrættur
+chlorophyll n. blagræna, laufgræna
+flunk s. falla, skítfalla (á prófi, í áfanga í skóla)
+extramural l. utan veggja; utan skóla
+deli n. sælkerastaður (sks. á %[delicatessen]%)
+delicatessen n. góðgæti, sælkeramatur; sælkerastaður
+exorcize s. sjá %[exorcise]%
+curio n. fágæti, fágætur munur ([a shop full of ~s])
+excruciating l. mjög sársaukafullur; óbærilegur
+excruciatingly ao. á mjög sársaukafullan hátt; óbærilega
+underfed l. vannærður
+emu n. emúi (ástralskur fugl)
+dungarees nft. smekkbuxur
+cop n. lögga, lögregluþjónn (óforml.); s. grípa, góma; [~ a feel] káfa
+doodle s. krota, krassa; n. krot, krass
+entrée n. aðalréttur (BNA); milliréttur, forréttur
+escalate s. stigmagna, stigmagnast, magnast upp
+escalation n. stigmögnun, aukning
+disgruntled l. óánægður; önugur
+disgruntlement n. óánægja; önugheit
+polemicist n. ritdeilumaður
+girder n. burðarbiti, grindarbiti
+decor n. sjá %[décor]%
+décor n. innréttingar, skreytingar
+flabbergasted l. gáttaður, furðu lostinn, undrandi
+gastronomic l. matargerðar-, matreiðslufræðilegur (sjá %[gastronomy]%)
+inessential l. ónauðsynlegur; ómikilvægur; ekki höfuðatriði
+smokey l. sjá %[smoky]%
