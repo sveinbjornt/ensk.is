@@ -197,7 +197,7 @@ semester n. önn; hluti skólaárs
 antibody n. mótefni
 brochure n. bæklingur
 respected l. virtur, sem nýtur virðingar
-python n. pýtonslanga (ættkvísl óeitraðra slangna sem finnst í Afríku og í Asíu); [Python] forritunarmál
+python n. pýtonslanga (ættkvísl óeitraðra slangna sem finnst í Afríku og Asíu); [Python] forritunarmál
 publicly ao. opinberlega
 groundwater n. grunnvatn
 earring n. eyrnalokkur
@@ -1685,6 +1685,7 @@ cinematography n. kvikmyndataka, kvikmyndatökulist; kvikmyndagerð
 clone s. klóna; einrækta; afrita; n. klón, klónn; e-ð sem er einræktað; lífvera með sömu arfgerð og foreldrið; afrit
 cloning n. einræktun; klónun; afritun
 cloakroom n. fatageymsla
+coatroom n. fatageymsla
 silverware n. silfuráhöld, silfurbúnaður, (silfur)borðbúnaður, (silfur)hnífapör, borðsilfur
 fossilized l. steingerður, steinrunninn
 fossilization n. steingerving
@@ -9584,3 +9585,38 @@ flabbergasted l. gáttaður, furðu lostinn, undrandi
 gastronomic l. matargerðar-, matreiðslufræðilegur (sjá %[gastronomy]%)
 inessential l. ónauðsynlegur; ómikilvægur; ekki höfuðatriði
 smokey l. sjá %[smoky]%
+tangibility n. áþreifanleiki
+talkativeness n. málgleði
+tachygraphy n. hraðskrift, hraðritun
+temptress n. tálkvendi
+toreador n. nautabani
+whorehouse n. hóruhús, vændishús
+bifurcate s. skipta í tvennt
+trifurcate s. skipta í þrennt
+trifurcated l. þrískiptur
+tragicomical l. sjá %[tragicomic]%
+toroid n. hringspóla
+otalgia n. hlustarverkur, eyrnaverkur
+oceanology n. haffræði
+netherworld n. undirheimar
+monochromatic l. einlitur, einlita
+masked l. grímuklæddur
+magnanimousness n. örlæti, göfuglyndi
+lumbermill n. timburvinnsla
+lucrativeness n. ábatasemi
+loquaciousness n. málgefni, mælska
+lacerated l. sundurrifinn, rifinn í tætlur
+jailhouse n. fangelsi
+inkwell n. blekbytta
+zygosis n. okun
+airstrip n. flugbraut
+amalgamated l. samsteyptur
+antsy l. eirðarlaus
+arrhythmic l. án takts, með óreglulegum slætti (sérstaklega um hjartslátt)
+asymmetric l. sjá %[asymmetrical]%
+bad-tempered l. skapillur, geðvondur, skapstyggur
+beheading n. afhöfðun, hálshöggning, hálshöggvun
+bellhop n. vikapiltur (á hóteli)
+chirology n. handafræði; lófalestur
+notation n. ritháttur; táknun; nótnaskrift ([musical ~]); athugasemd (sem bætt er skriflega við texta)
+jodhpurs nft. reiðbuxur
