@@ -201,7 +201,7 @@ razor strop n. slípól
 razzia n. ránferð
 reach n. möguleiki til að ná (í); seiling ([~ of the arm]); megn, máttur; svæði; bein stefna (ár); slagur (á sjó); [above my ~] fyrir ofan minn skilning; mér um megn; [it is out of (beyond) my ~] ég get ekki náð til þess; [all books within my ~] allar bækur, er ég hef aðgang að (get náð í); [no help was within ~] engin hjálp var fáan-eg; s. rétta; teygja (út [out]); ná til ([~ bottom, ~ land]); ná í; ná; koma til; [~ after] reyna að ná í; [as far as the eye could ~] eins langt og augað eygði
 react s. (endur)verka (á e-ð [upon]); verka á móti ([against]); (í efnafræði) svara; [they ~ upon each other] þeir verka hvor á annan
-reaction n. andverkun; afturhald; afturkast; afturkippur; (í efnafræði) svörun
+reaction n. andverkun; afturhald; afturkast; afturkippur; (í efnafræði) svörun, hvörf, efnabreyting
 reactionary l. afturhaldssamur; n. afturhaldsmaður
 reactionist n. afturhaldsmaður
 reactive l. andverkandi; afturverkandi
@@ -658,7 +658,7 @@ relater n. frásögumaður
 relation n. frásaga, frásögn; tillit ([in ~ to]); samband ([~ of ruler and subject]); skyldleiki; frændi, frænka; [commercial ~s] verslunarviðskipti
 relationship n. samband; frændsemi, skyldleiki
 relative l. tilfærilegur, tilvísunar- ([~ pronoun]); háður; viðkomandi (e-u [to]); samanburðarlegur, tiltölulegur ([with ~ coolness]); hlutfallslegur; samsvarandi; [~ to] viðvíkjandi, um; n. ættingi; frændi; tilvísunarfornafn
-relativity n. samsvörun, tilsvörun
+relativity n. afstæði; samsvörun, tilsvörun
 relax s. slappa af, slaka á, lina á; draga úr; mýkja, lina; mýkjast, linast; dofna
 relaxation n. afslöppun, hvíld; linun, mýking; hlé; undanlát
 relay n. nýir hestar, sem hafðir eru viðbúnir til skipta; leggja aftur; s. setja (aðra hesta, menn) í staðinn; senda áfram
