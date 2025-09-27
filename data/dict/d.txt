@@ -197,8 +197,8 @@ decalitre n. 10 lítrar
 decalogue n. tíulaga boðorð
 decamp s. taka upp herbúðir og fara af stað; halda snögglega burt, strjúka
 decampment n. burtför
-decapitate s. afhöfða, hálshöggva, höggva höfuðið af
-decapitation n. afhöfðun, hálshöggvun, hálshöggning, aftaka
+decapitate s. afhöfða, afhausa, hálshöggva, höggva höfuðið af
+decapitation n. afhöfðun, afhausun, hálshöggvun, hálshöggning
 decay s. ganga af sér, hrörna, hnigna; visna, rotna; eyða, skemma; n. hrörnun, afturför, hnignun; rotnun; [fall into ~] ganga af sér; hrörna; falla í rústir
 decayed l. af sér genginn; hrörlegur; fúinn
 decease n. dauði, fráfall, andlát; s. deyja, andast
@@ -249,7 +249,7 @@ declivous l. hallandi
 decoct s. sjóða (seyði) úr, seyða
 decoction n. seyðing; seyði
 decollate s. afhöfða, hálshöggva
-decollation n. afhöfðun, aftaka, hálshögg
+decollation n. afhöfðun, afhausun, hálshögg
 decolourize s. taka lit úr, deyfa (lit)
 decolorize s. taka lit úr, deyfa (lit)
 decompose s. leysa í sundur (í frumparta sína); leysast í sundur, rotna
@@ -1553,7 +1553,7 @@ drain s. láta renna burt; veita (vatni); tæma; ræsa (skera) fram, þurrka upp
 drainage n. framræsla, framskurður, uppþurrkun, lokræsing
 drake n. andarsteggur
 dram n. kvintín (lyfsalavigt); ögn; staup; s. fá sér í staupinu; gefa e-m í staupinu
-drama n. sjónleikur, leikrit
+drama n. sjónleikur, leikrit; dramatík
 dramatic l. dramatískur, leikrænn, sjónleikslegur
 dramatist n. leikskáld
 dramatize s. gera sjónleik úr

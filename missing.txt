@@ -633,7 +633,6 @@ farmable
 ethos
 glamourize
 thematic
-objectively
 showdown
 remake
 accolade
@@ -803,8 +802,6 @@ inarticulacy
 appropriateness
 counterblast
 handout
-ersatz
-kitsch
 demotic
 self-incrimination
 reconviction
@@ -911,7 +908,6 @@ Darwinist
 Darwinian
 ayatollah
 exotica
-quirky
 competitiveness
 counterargument
 baseline
@@ -991,7 +987,6 @@ peccary
 blender
 schema
 ethnohistory
-offbeat
 attractor
 arriviste
 one-upmanship
@@ -1393,7 +1388,6 @@ subprime
 detox
 nosedive
 hotline
-Luddite
 Luddism
 slurp
 maven
@@ -1791,7 +1785,6 @@ disorient
 disorientate
 disoriented
 disorientation
-overtime
 pervasiveness
 animator
 compressor
@@ -3753,7 +3746,6 @@ unencumbered
 epithalamus
 supramaximal
 infographic
-iridescence
 affectionately
 cervico-
 disconfirm
@@ -5489,7 +5481,6 @@ despicableness
 eyry
 mellowed
 ascesis
-kudos
 squinty
 smooch
 scag
@@ -5859,5 +5850,16 @@ crepitate
 crepitation
 crisply
 deputize
-woke
 hangry
+simp
+tectonics (endurskoða)
+vlog
+virtual reality
+offbeat (endurskoða)
+off-beat
+chatoyant
+blastoff
+summate
+toadstone
+QR code
+jailbreak

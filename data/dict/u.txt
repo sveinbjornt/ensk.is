@@ -30,7 +30,7 @@ ultramontane l. sem er fyrir handan (sunnan) Alpafjöllin; meðmæltur páfaveld
 ultramontanist n. páfaveldismaður, páfaveldissinni ([the ~ philosopher Joseph de Maistre])
 ultramundane l. yfirskilvitlegur; annars heims
 umber n. dökkt litarefni
-umbilical l. nafla-; [~ cord] naflastrengur
+umbilical l. nafla-
 umbo n. skjaldbunga
 umbonal l. bungumyndaður
 umbrage n. skuggi; öfundsýki; þykkja; [take ~ at] taka e-u illa
@@ -695,7 +695,7 @@ utensil n. áhald; ílát; [kitchen ~s] eldhúsáhöld
 uterus n. leg
 utilitarian l. nytsemislegur, nytjahyggju-; n. nytjahyggjumaður
 utilitarianism n. nytjahyggja, nytsemiskenning
-utility n. nytsemi, gagnsemi
+utility n. nytsemi, gagnsemi; veita (t.d. vatnsveita, rafmagnsveita, o.s.frv.)
 utilization n. hagnýting, nýting
 utilize s. nota, hagnýta sér, nýta sér, gera arðsamt
 utmost l. ystur ([the ~ limits]); mestur ([he showed the ~ reluctance]); [try your ~] reyndu allt sem á þínu valdi stendur

@@ -373,7 +373,7 @@ hyperlink n. tengill (á veraldarvefnum)
 smiley n. broskarl (tákn); l. glaðlyndur; brosandi
 spam n. ruslpóstur; unnin kjötvara í niðursuðudósum; s. senda ruslpóst
 spammer n. sendandi ruslpósts
-nerd n. nörd, njörður; sérvitringur
+nerd n. nörd, nördi, njörður; sérvitringur
 nerdy l. nördalegur, njarðarlegur; sérvitur; lúðalegur
 nerdish l. nördalegur, njarðarlegur; sérvitur; lúðalegur
 crossword n. krossgáta
@@ -387,6 +387,7 @@ metadata n. lýsigögn, gögn sem lýsa öðrum gögnum
 Muslim n. múslími (sá sem aðhyllist íslamska trú, sjá %[Islam]%); l. múslímskur
 nutritional l. næringar-
 outsource s. útvista
+outsourced l. útvistaður
 outsourcing n. útvistun
 paperback n. pappírskilja
 pixel n. díll, punktur, myndeining (í stafrænni mynd)
@@ -2858,7 +2859,7 @@ reliably ao. áreiðanlega
 centrifuge n. skilvinda
 chokehold n. kverkatak
 plywood n. krossviður
-kiwi n. kívíávöxtur, kíví, loðber; Nýsjálendingur (óforml.)
+kiwi n. kívíávöxtur, kíví, loðber; nýsjálenskur fugl ([~ bird]); Nýsjálendingur (óforml.)
 eggplant n. eggaldin
 broccoli n. spergilkál, brokkólí
 landfill n. landfylling; sorphaugur
@@ -5251,7 +5252,7 @@ neurogenesis n. taugamyndun
 ultrasound n. úthljóð, yfirhljóð; ómspeglun; ómgreining, úthljóðsgreining ([~ diagnosis])
 cleanup n. hreinsun, tiltekt
 lookup n. uppfletting; sjá %[look]% og %[up]%
-jalopy n. bíldrusla
+jalopy n. gömul bíldrusla
 dire wolf n. gramúlfur
 supercede s. sjá %[supersede]%
 oblast n. fylki, hérað, umdæmi (í Rússlandi og öðrum löndum)
@@ -5674,6 +5675,7 @@ barracks nft. hermannaskálar, hermannabústaðir
 pellagra n. húðkröm
 readability n. læsileiki
 orthodontist n. tannréttir
+orthodontics nft. tannréttingar
 glottal l. raddbanda-; [~ stop] raddbandalokhljóð
 decentralize s. dreifa (valdi, stjórnsýslu, rekstri)
 decentralized l. dreifður, valddreifður, ómiðstýrður, ekki miðstýrður ([~ government, system])
@@ -7325,6 +7327,7 @@ guideline n. viðmiðunarregla
 houseplant n. húsplanta
 ice cream n. ís, rjómaís
 Koran n. [the ~] kóraninn (trúarrit múslíma)
+Qur'an n. kóraninn (trúarrit múslíma)
 layout n. umbrot
 leftovers nft. leifar, afgangur
 mainstream n. meginstraumur; ríkjandi stefna
@@ -9615,8 +9618,36 @@ antsy l. eirðarlaus
 arrhythmic l. án takts, með óreglulegum slætti (sérstaklega um hjartslátt)
 asymmetric l. sjá %[asymmetrical]%
 bad-tempered l. skapillur, geðvondur, skapstyggur
-beheading n. afhöfðun, hálshöggning, hálshöggvun
+beheading n. afhöfðun, afhausun, hálshöggning, hálshöggvun
 bellhop n. vikapiltur (á hóteli)
 chirology n. handafræði; lófalestur
 notation n. ritháttur; táknun; nótnaskrift ([musical ~]); athugasemd (sem bætt er skriflega við texta)
 jodhpurs nft. reiðbuxur
+zap s. skjóta með rafbyssu eða geislabyssu (óforml.)
+zip code n. póstnúmer (í Bandaríkjunum)
+zillion n. mjög há tala (óforml.)
+kudos nft. heiður, upphefð ([~ to you!])
+kitsch l. hallærislegur, smekklaus, ósmekklegur, lágkúrulegur; n. listlíki (hallærislegur fjöldaframleiddur listmunur)
+ersatz l. gervi-, eftirlíkingar- ([an ~ substitute for the real thing])
+dioecious l. sérbýlinn, einkynja
+quiche n. eggjabaka, baka
+quirky l. skrítinn, einkennilegur, sérviskulegur
+quartile n. fjórðungsmark
+jet lag n. þotuþreyta
+junk food n. ruslmatur
+offbeat l. óvenjulegur, óhefðbundinn
+iridescence n. litbrigði
+pullulate s. fjölga hratt
+Luddite n. lúddíti
+deep learning n. djúpnám (í tölvunarfræði)
+value added tax n. virðisaukaskattur
+VAT n. virðisaukaskattur (sks. á [value added tax])
+upside-down l. á hvolfi
+umbilical cord n. naflastrengur
+overtime n. yfirvinnutími, yfirvinna
+optical fibre n. ljósleiðari
+oral examination n. munnlegt próf
+objectively ao. á hlutlægan hátt, á óhlutdrægan hátt
+overfishing n. ofveiðar, of miklar veiðar
+ultrasonography n. ómskoðun
+bidirectional l. tvíátta, tvístefnu-
