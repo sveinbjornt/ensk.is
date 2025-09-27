@@ -9641,7 +9641,7 @@ pullulate s. fjölga hratt
 Luddite n. lúddíti
 deep learning n. djúpnám (í tölvunarfræði)
 value added tax n. virðisaukaskattur
-VAT n. virðisaukaskattur (sks. á [value added tax])
+VAT n. virðisaukaskattur (sks. á %[value added tax]%)
 upside-down l. á hvolfi
 umbilical cord n. naflastrengur
 overtime n. yfirvinnutími, yfirvinna
@@ -9651,3 +9651,17 @@ objectively ao. á hlutlægan hátt, á óhlutdrægan hátt
 overfishing n. ofveiðar, of miklar veiðar
 ultrasonography n. ómskoðun
 bidirectional l. tvíátta, tvístefnu-
+slither s. skríða, renna til, renna í bugðum, hlykkjast (eins og snákur)
+tic n. vöðvakvik, vöðvakippur
+untangle s. greiða úr flækju
+scruffy l. druslulegur, subbulegur
+trek n. erfitt ferðalag, erfiður leiðangur, erfið ganga; s. fara í langferð (fótgangandi)
+snoop s. snuðra
+multicoloured l. marglitaður
+shamble s. skjögra
+dolly n. brúða, dúkka; hjólapallur (fyrir myndatökuvélar)
+roster n. nafnalisti, nafnaskrá; verkefnaskrá, verkefnalisti
+rayon n. reion, reionefni, gervisilki
+peter s. [~ out] fjara út
+noel n. jólin; jólasöngur
+geisha n. geisja (japönsk skemmtikona)
