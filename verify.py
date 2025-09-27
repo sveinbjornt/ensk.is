@@ -264,6 +264,22 @@ def check_icelandic_words(line: str, pn: str, ln: int):
             time.sleep(1)
 
 
+def check_unlinked_abbreviation_refs(line: str, pn: str, ln: int):
+    """Check for unlinked abbreviation references to existing words."""
+    regex = r"stytt. á \[(.+?)\]"
+    if re.search(regex, line):
+        words_matched = re.findall(regex, line)
+        for w in words_matched:
+            if w in ALL_DICT_WORDS:
+                warn(f"Unlinked abbreviation reference to existing word: {w}", pn, ln)
+    regex2 = r"sks. á \[(.+?)\]"
+    if re.search(regex2, line):
+        words_matched = re.findall(regex2, line)
+        for w in words_matched:
+            if w in ALL_DICT_WORDS:
+                warn(f"Unlinked abbreviation reference to existing word: {w}", pn, ln)
+
+
 def check_missing():
     """Check integrity of missing.txt file."""
     words = read_wordlist("missing.txt", unique=False)
@@ -313,6 +329,7 @@ def main():
             check_category(line, letter, ln)
             check_bracket_use(line, letter, ln)
             check_intradict_refs(line, letter, ln)
+            check_unlinked_abbreviation_refs(line, letter, ln)
             # check_icelandic_words(line, letter, ln)
             # check_enword_def(line, letter, ln)
 
