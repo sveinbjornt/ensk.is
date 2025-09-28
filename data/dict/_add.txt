@@ -6567,7 +6567,7 @@ floriate s. skreyta með blómum
 floriated l. skreyttur með blómum
 floriation n. blómaskreyting
 incredibly ao. ótrúlega
-UN n. Sameinuðu þjóðirnar (sks. á [United Nations])
+UN n. Sameinuðu þjóðirnar (sks. á %[United Nations]%)
 United Nations nft. Sameinuðu þjóðirnar
 POW n. stríðsfangi (sks. á [prisoner of war])
 arteriosclerosis n. slagæðaherðing
@@ -7493,7 +7493,7 @@ Himalayas nft. Himalajafjöll
 basinet n. miðaldahjálmur úr stáli
 aventail n. hringabrynjukragi, hringabrynjuhetta
 LLC n. einkahlutafélag í Bandaríkjunum (sks. á [limited liability corporation])
-Ltd n. hlutafélag í Bretlandi (stytt. á [limited company])
+Ltd n. hlutafélag í Bretlandi (stytt. á %[limited company]%)
 prenatally ao. fyrir fæðingu
 thermion n. hitajón, glójón
 refill s. endurfylla, fylla aftur; n. áfylling, endurfylling
@@ -7549,7 +7549,7 @@ judo n. júdó (bardagaíþrótt)
 gremlin n. hrekkjóttur púki, yfirnáttúrulegur skemmdarvargur
 dork n. lúði, auli
 knitwear n. prjónafatnaður, prjónavörur
-capex n. fjárfestingarútgjöld (stytt. á [capital expenditure])
+capex n. fjárfestingarútgjöld (stytt. á %[capital expenditure]%)
 capital expenditure n. fjárfestingarútgjöld
 anencephaly n. heilaleysi
 athymia n. hóstarkirtilsleysi
@@ -8948,7 +8948,7 @@ glaciology n. jöklafræði, jöklavísindi
 parasitology n. sníklafræði, sníkjudýrafræði
 manufacturing n. framleiðsla; iðnframleiðsla, verksmiðjuframleiðsla
 public administration n. opinber stjórnsýsla
-HR n. Háskólinn í Reykjavík; mannauður, mannauðsstjórn (sks. á [human resources])
+HR n. Háskólinn í Reykjavík; mannauður, mannauðsstjórn (sks. á %[human resources]%)
 human resources nft. mannauður; mannauðsstjórn (skammstafað %[HR]%)
 supplier n. birgir, birgðasali, birgðamaður; sá sem veitir, reddari, útvegari
 provider n. sá sem veitir, gjafamaður; útvegari, reddari; birgir, birgðamaður
@@ -9354,7 +9354,7 @@ foyer n. anddyri, fordyri
 aenema n. sjá %[enema]%
 enema n. stólpípa; innhelling í endaþarm
 contraption n. tæki, græja, maskína; heimasmíðað tæki
-A-bomb n. kjarnorkusprengja (stytt. á [atomic bomb])
+A-bomb n. kjarnorkusprengja (stytt. á %[atomic bomb]%)
 littering n. það að kasta frá sér rusli (sjá %[litter]%), sóðaleg hegðun
 nephrology n. nýrnalækningar
 indistinguishability n. ósundurgreinanleiki, óaðgreinanleiki, þar sem ekki er hægt að greina eitt frá öðru
@@ -9594,9 +9594,8 @@ tachygraphy n. hraðskrift, hraðritun
 temptress n. tálkvendi
 toreador n. nautabani
 whorehouse n. hóruhús, vændishús
-bifurcate s. skipta í tvennt
-trifurcate s. skipta í þrennt
-trifurcated l. þrískiptur
+bifurcate s. skipta í tvennt, kvíslast í tvennt
+trifurcate s. skipta í þrennt, kvíslast í þrennt
 tragicomical l. sjá %[tragicomic]%
 toroid n. hringspóla
 otalgia n. hlustarverkur, eyrnaverkur
@@ -9654,14 +9653,30 @@ bidirectional l. tvíátta, tvístefnu-
 slither s. skríða, renna til, renna í bugðum, hlykkjast (eins og snákur)
 tic n. vöðvakvik, vöðvakippur
 untangle s. greiða úr flækju
-scruffy l. druslulegur, subbulegur
+scruffy l. druslulegur, subbulegur ([you ~-looking nerf herder!])
 trek n. erfitt ferðalag, erfiður leiðangur, erfið ganga; s. fara í langferð (fótgangandi)
-snoop s. snuðra
+snoop s. snuðra, hnýsast
 multicoloured l. marglitaður
 shamble s. skjögra
 dolly n. brúða, dúkka; hjólapallur (fyrir myndatökuvélar)
 roster n. nafnalisti, nafnaskrá; verkefnaskrá, verkefnalisti
 rayon n. reion, reionefni, gervisilki
 peter s. [~ out] fjara út
-noel n. jólin; jólasöngur
+noel n. jól; jólasöngur
 geisha n. geisja (japönsk skemmtikona)
+scrounge s. gramsa, róta; kría saman; sníkja
+scrounger n. gramsari, rótari; safnari, reddari; sníkjari
+cagey l. aðgætinn eða varfærinn í tjáningu; kænn, slunginn, slóttugur ([a ~ lawyer])
+cagy l. sjá %[cagey]%
+undercover l. leynilegur, leyni-, undir fölskum formerkjum ([~ agent, activities])
+blazer n. léttur jakki, sportjakki; kannabisreykingamaður (Bandarískt slangur)
+aroused l. vakinn; kynæstur ([he was ~ by her touch])
+wiley l. sjá %[wily]%
+uninvited l. óboðinn
+bodacious l. djarfur, taumlaus; markverður, eftirtekarverður; kynþokkafullur, lokkandi
+bodaciously ao. djarflega, taumlaust; merkilega; á kynþokkafullan eða lokkandi hátt
+unfearing l. óhræddur, óttalaus, djarfur
+bald-faced l. óskammfeilinn
+uppercut n. upphögg
+scruff n. hnakkadramb ([~ of his neck]); skegghýjungur
+accumulated l. uppsafnaður
