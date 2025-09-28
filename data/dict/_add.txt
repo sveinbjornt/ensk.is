@@ -6569,7 +6569,8 @@ floriation n. blómaskreyting
 incredibly ao. ótrúlega
 UN n. Sameinuðu þjóðirnar (sks. á %[United Nations]%)
 United Nations nft. Sameinuðu þjóðirnar
-POW n. stríðsfangi (sks. á [prisoner of war])
+POW n. stríðsfangi (sks. á %[prisoner of war]%)
+prisoner of war n. stríðsfangi
 arteriosclerosis n. slagæðaherðing
 Crimea n. Krímskagi
 unintentionally ao. óviljandi, ekki af ásettu ráði, án tilætlunar
@@ -8948,7 +8949,7 @@ glaciology n. jöklafræði, jöklavísindi
 parasitology n. sníklafræði, sníkjudýrafræði
 manufacturing n. framleiðsla; iðnframleiðsla, verksmiðjuframleiðsla
 public administration n. opinber stjórnsýsla
-HR n. Háskólinn í Reykjavík; mannauður, mannauðsstjórn (sks. á %[human resources]%)
+HR n. mannauður, mannauðsstjórn (sks. á %[human resources]%)
 human resources nft. mannauður; mannauðsstjórn (skammstafað %[HR]%)
 supplier n. birgir, birgðasali, birgðamaður; sá sem veitir, reddari, útvegari
 provider n. sá sem veitir, gjafamaður; útvegari, reddari; birgir, birgðamaður
@@ -9680,3 +9681,16 @@ bald-faced l. óskammfeilinn
 uppercut n. upphögg
 scruff n. hnakkadramb ([~ of his neck]); skegghýjungur
 accumulated l. uppsafnaður
+emancipationist n. frelsunarsinni, sá sem vill afnema þrælahald
+nucha n. hnakkadramb, hnakki
+draftsman n. tækniteiknari, fagteiknari
+draughtsman n. sjá %[draftsman]%
+draftsmanship n. tækniteiknilist (sjá %[draftsman]%)
+vlog n. myndbandablogg, vídjóblogg (sjá %[blog]%)
+putt s. pútta (í golfi)
+meringue n. marens
+outboard l. utanborðs- (á báti eða skipi); [~ motor] utanborðsmótor
+galore l. í hrönnum ([there was whiskey ~])
+misfire s. klikka (um skotvopn); fara úrskeiðis, misfarast; n. það, þegar skotvopn hleypir ekki af
+domineering l. yfirgangssamur, dómínerandi, gerræðislegur, ráðríkur ([a ~ personality])
+bereaved l. sviptur, sem hefur misst ástvin ([my condolences to the ~])

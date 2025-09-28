@@ -396,7 +396,6 @@ cataclysmic
 pricey
 reorient
 macho
-outboard
 chitchat
 powerhouse
 strong-arm
@@ -1470,7 +1469,6 @@ broadly
 saddleback
 flipside
 benchpress
-galore
 cabbie
 stroller
 jab
@@ -2191,7 +2189,6 @@ ballistics
 underswell
 ressentiment
 minimalization
-emancipationist
 transvaluation
 homesteader
 deculturation
@@ -2526,7 +2523,6 @@ reassess
 waterside
 dispatcher
 anytime
-misfire
 clincher
 surprisingly
 breaktime
@@ -5166,6 +5162,7 @@ intumesce
 intumescent
 unbent
 unbowed
+uncoil
 uncoiled
 serial (endurskoða)
 troubled
@@ -5317,7 +5314,6 @@ quiesce
 low-keyed
 outmatch
 canthal
-draughtsman
 yammer
 wrawl
 yaup
@@ -5832,7 +5828,6 @@ deputize
 hangry
 simp
 tectonics (endurskoða)
-vlog
 virtual reality
 offbeat (endurskoða)
 off-beat
@@ -5846,3 +5841,4 @@ communicative (endurskoðinn)
 uncommunicative
 deus ex machina
 metastatic
+devoured
