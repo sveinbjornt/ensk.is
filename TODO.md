@@ -9,7 +9,7 @@
 * [ ] Do lookup of English word cats for each entry (e.g. via WordNet or Webster) and see if there is the appropriate correspondence
 * [ ] Write more tests, extend verify.py
 * [ ] Find IPA phonetic spelling for *all* words via Wiktionary
-* [ ] Add this corpus's data to Wiktionary
+* [ ] Add data to Wiktionary
 * [ ] Feedback mechanism for missing words
 * [ ] Separate exact match from partial matches visually
 * [ ] Mobile app? Packaged Web Application with local fallback?
@@ -20,3 +20,4 @@
 * [ ] Hyphenation for Icelandic words in PDF generation
 * [ ] Improve JSON format
 * [ ] Add gender for Icelandic noun definitions via BinPackage?
+* [ ] Fix "fs. & ao." issue

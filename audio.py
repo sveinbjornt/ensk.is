@@ -81,6 +81,8 @@ def synthesize_word(w: str, dest_folder: str, voice: str = "Daniel") -> str | No
 # Requires LAME installed: brew install lame
 _LAME_CLT = "/usr/local/bin/lame"
 
+assert exists(_LAME_CLT), "lame MP3 encoder not found"
+
 
 def aiff2mp3(infile_path: str) -> None:
     """Convert AIFF to MP3 using lame."""

@@ -4,8 +4,17 @@ Finds all synonyms for words in the dictionary and prints out those
 that are not themselves in the dictionary.
 """
 
+import inspect
+import os
+import sys
+
 import nltk
-from dict import read_all_words, synonyms_for_word
+
+currentdir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))  # type: ignore
+parentdir = os.path.dirname(currentdir)
+sys.path.insert(0, parentdir)
+
+from dict import read_all_words, synonyms_for_word  # noqa: E402
 
 
 def main():
@@ -28,7 +37,11 @@ def main():
     for word in all_words:
         synonyms = synonyms_for_word(word)
         for synonym in synonyms:
-            if " " not in synonym and synonym not in word_set and synonym not in ignore_words:
+            if (
+                " " not in synonym
+                and synonym not in word_set
+                and synonym not in ignore_words
+            ):
                 missing_synonyms.add(synonym)
 
     for missing in sorted(list(missing_synonyms)):
