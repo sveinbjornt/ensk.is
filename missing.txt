@@ -553,8 +553,6 @@ dreamless
 marguerite
 periodization
 forsaken
-parlous
-parlousness
 overzealous
 underfloor
 bathhouse
@@ -1095,7 +1093,6 @@ storefront
 carte blanche
 decouple
 binder
-cleaver
 booster
 thoughtfulness
 continuum
@@ -5843,3 +5840,4 @@ deus ex machina
 metastatic
 devoured
 heedfulness
+whirlybird
