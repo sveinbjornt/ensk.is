@@ -251,8 +251,8 @@ parricide n. föður eða móðurmorðingi; föðurmorð, móðurmorð; föðurl
 parrot n. páfagaukur; s. herma eftir, éta upp eftir e-m; hafa e-ð eftir; stagast á e-u
 parry s. bera af sér (högg); koma sér undan e-u, verjast e-u ([~ a question])
 parse s. greina í sundur; skýra (málfræðilega); þátta (í tölvunarfræði)
-parsimonious l. spar; sparsamur; nískur
-parsimony n. sparsemi; níska, aðsjálni
+parsimonious l. spar, sparsamur; nískur; aðsjáll
+parsimony n. sparsemi; níska; aðsjálni
 parsley n. péturselja
 parson n. sóknarprestur
 parsonage n. prestssetur
@@ -825,7 +825,7 @@ phantom n. sýn; vofa, draugur; fyrirburður
 pharisaical l. hræsnisfullur
 pharisaism n. kenning Farísea; hræsni, yfirdrepskapur
 Pharisee n. Farísei; hræsnari
-pharmaceutical l. lyfjafræðilegur
+pharmaceutical l. lyfjafræðilegur, lyfja-
 pharmaceutics nft. lyfjafræði
 pharmaceutist n. lyfjafræðingur
 pharmacist n. lyfjafræðingur

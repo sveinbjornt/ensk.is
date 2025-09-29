@@ -2719,6 +2719,7 @@ hypostasize
 hypostasized
 sectional
 bakehouse
+atomist
 atomistic
 Chartism
 Chartist
@@ -5840,4 +5841,5 @@ deus ex machina
 metastatic
 devoured
 heedfulness
-whirlybird
+decomposed
+tumultuously

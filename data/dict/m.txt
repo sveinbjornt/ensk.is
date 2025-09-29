@@ -180,7 +180,7 @@ manciple n. háskólabryti
 mandarin n. kínverskur embættismaður
 mandatary n. umboðsmaður, fulltrúi
 mandate n. skipun; umboð
-mandatory l. skipandi, skipunar-; umboðs-
+mandatory l. skyldubundinn, skyldu-; lögboðinn; skipandi, skipunar-, tilskipunar-; umboðs-
 mandible n. (neðri) skoltur, kjálki
 mandolin n. mandólín (strengjahljóðfæri)
 mandrake n. alrúna (jurt)
@@ -198,9 +198,9 @@ mangle s. höggva í sundur; lemstra; skemma, spilla með höggum; afbaka (texta
 mango n. mangó, mangóávöxtur; mangótré (hitabeltistré)
 mangy l. kláðugur; slitinn; sóðalegur; fyrirlitlegur
 manhood n. manndómur; fullorðinsaldur ([reach ~]); karlmennska
-mania n. æði, manía; áköf löngun; sótt
-maniac n. vitfirringur, vitstola maður; l. óður, vitskertur
-maniacal l. óður, æðislegur
+mania n. æði, manía, brjálæði; áköf löngun; sótt
+maniac n. vitfirringur, brjálæðingur, vitstola maður; l. óður, vitskertur
+maniacal l. óður, vitstola, brjálaður
 manicure n. hand- og naglasnyrting; s. snyrta hendur og neglur
 manicurist n. handa- og naglasnyrtir
 manifest l. áþreifanlegur, augljós; n. farmskrá ([shipping ~]); s. auglýsa, birta; sýna; votta, opinbera; sýna sig, birtast; gera vart við sig

@@ -2141,7 +2141,7 @@ legalization n. lögleiðing
 peanut n. jarðhneta
 peanut butter n. hnetusmjör
 groundnut n. jarðhneta
-pharmacological l. lyfjafræðilegur
+pharmacological l. lyfjafræðilegur, lyfja-
 neurosurgeon n. taugaskurðlæknir
 neuropsychologist n. taugasálfræðingur
 neuropsychological l. taugasálfræðilegur
@@ -2687,8 +2687,8 @@ wanderlust n. ferðaþrá, flökkuþrá
 rebirth n. endurfæðing
 belltower n. klukkuturn
 marshland n. fen, fenjasvæði, votlendi, mýrlendi
-ultraviolent l. grimmilega ofbeldisfullur; ofbeldisfullur sér til skemmtunar
-ultraviolence n. grimmilegt ofbeldi; ofbeldi sér til skemmtunar
+ultraviolent l. grimmilega ofbeldisfullur, gríðarlega ofbeldisfullur; ofbeldisfullur sér til skemmtunar
+ultraviolence n. grimmilegt ofbeldi, gríðarlegt ofbeldi; ofbeldi sér til skemmtunar
 stubbornness n. þrjóska, þvermóðska
 polytheistic l. fjölgyðistrúarlegur, fjölgyðis- ([~ religion])
 haircut n. klipping, hárgreiðsla
@@ -2930,7 +2930,7 @@ poltergeist n. ærsladraugur
 greenback n. peningaseðill, dollaraseðill (BNA, óforml.)
 secretly ao. leynilega, í laumi, á laun
 Manchuria n. Mansjúría (landsvæði í norðausturhluta Kína)
-Manchurian l. mansjúrískur (sjá %[Manchuria]%)
+Manchurian l. mansjúrískur, frá Mansjúríu (sjá %[Manchuria]%)
 dorm n. stytt. á %[dormitory]%
 coauthor n. meðhöfundur
 chainsaw n. vélsög, keðjusög
@@ -7850,7 +7850,7 @@ colloquium n. ráðstefna (fræðimanna)
 colloquially ao. í daglegu máli
 underwhelm s. valda vonbrigðum, vekja ekki aðdáun eða hrifningu, impónera ekki
 underwhelmed l. orðinn fyrir vonbrigðum, án hrifningar, ekki impóneraður
-underwhelming l. valdandi vonbrigðum, sem ekki vekur aðdáun eða hrifningu, óimpónerandi
+underwhelming l. valdandi vonbrigðum, sem ekki vekur aðdáun eða hrifningu, ekki impónerandi
 deoxidize s. afoxa
 deoxidization n. afoxun
 paella n. e.k. spænskur hrísgrjónaréttur
@@ -9701,3 +9701,6 @@ parlousness n. hætta, háski
 cleaver n. kjötöxi
 eggbeater n. eggjaþeytari
 whirlybird n. þyrla (óforml.)
+dark mode n. rökkurhamur, myrkrahamur (í tölvuviðmóti)
+tarmacadam n. slitlag úr grjótmöl
+macadam n. grjótmöl
