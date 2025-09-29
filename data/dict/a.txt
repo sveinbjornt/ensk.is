@@ -688,7 +688,7 @@ album n. minnisbók, nafnabók; albúm; plata
 albumen n. eggjahvíta
 albuminous l. eggjahvítu-
 alchemist n. gullgjörðarmaður
-alchemic l. gullgjörðarlegur
+alchemic l. sjá %[alchemical]%
 alchemical l. gullgjörðarlegur
 alchemy n. gullgjörðarlist
 alcohol n. áfengi, hreinsaður vínandi
@@ -728,7 +728,7 @@ allegation n. sönnunaratriði; staðhæfing, framburður
 allege s. tilgreina, bera fyrir sig (sem ástæðu eða afsökun); fullyrða
 allegement n. staðhæfing
 allegiance n. hollusta, lýðskylda; [oath of ~] hollustueiður
-allegoric l. líkingarfullur
+allegoric l. sjá %[allegorical]%
 allegorical l. líkingarfullur
 allegorize s. skýra (þýða) á líkingarfullan hátt
 allegory n. samlíking; dæmisaga, líkingarsaga
@@ -1071,8 +1071,8 @@ ant n. maur
 anteater n. mauræta
 anthill n. mauraþúfa
 antagonism n. fjandskapur; andstæða; mótstöðuafl
-antagonist n. mótstöðumaður
-antagonistic l. andstæður
+antagonist n. andstæðingur, mótstöðumaður
+antagonistic l. andstæður, mótstöðu-
 antagonize s. standa í móti, eyða áhrifum e-s
 antarctic l. suðurheimskauts- ([the ~ regions]); [the ~ pole] suðurheimskautið
 antarthritic l. góður við gigt; n. gigtarlyf

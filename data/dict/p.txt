@@ -737,22 +737,22 @@ personate s. líkja eftir (e-m), taka á sig gervi annars; þykjast (látast) ve
 personation n. eftirlíking, eftirmynd; persónugerving
 personification n. persónugerving
 personify s. gera að persónu, íklæða dauðan hlut eða hugmynd persónuleika
-perspective l. gagnsælegur; n. sjónarhorn; fjarsýni, gagnsýni, innsýni
+perspective n. sjónarhorn; fjarsýni, gagnsýni, innsýni; l. gagnsælegur
 perspicacious l. skarpskyggn, glöggskyggn; hvasseygur
 perspicaciousness n. skarpskyggni, glöggskyggni
 perspicacity n. skarpskyggni, glöggskyggni
 perspicuity n. skýrleiki
 perspicuous l. skýr, ljós, glöggur
-perspiration n. útgufun, sviti; [be in a ~] vera löðursveittur
-perspirative l. útgufunar-; sem veldur útgufun eða svita
-perspiratory l. útgufunar-; sem veldur útgufun eða svita
-perspire s. svitna, vera sveittur; gufa út eða upp; láta gufa út eða upp
-persuade s. sannfæra; telja trú um; fá til ([to, into, to do something])
+perspiration n. sviti, útgufun; [be in a ~] vera löðursveittur
+perspirative l. útgufunar-, svita-; sem veldur útgufun eða svita
+perspiratory l. útgufunar-, svita-; sem veldur útgufun eða svita
+perspire s. svitna, vera sveittur, verða sveittur; gufa út eða upp; láta gufa út eða upp
+persuade s. sannfæra; telja trú um; fá til ([to do something])
 persuaded l. sannfærður (um að [that])
 persuasible l. sannfæranlegur
 persuasion n. sannfæring; fortölur; (trúar)skoðun
 persuasive l. sannfærandi; n. hvatning, hvöt
-persuasiveness n. sannfæringarkraftur, sannfæringarmáttur ([such was his ~ that ...])
+persuasiveness n. sannfæringarkraftur, sannfæringarmáttur ([such was his ~ that...])
 pert l. framhleypinn, framur; hortugur
 pertness n. framhleypni
 pertain s. heyra til ([to])
