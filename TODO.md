@@ -15,7 +15,6 @@
 * [ ] Mobile app? Packaged Web Application with local fallback?
 * [ ] Add step to verify.py: check that adjectives are always defined using the masculine
 * [ ] If no result found, lemmatize word and try again? Be smart?
-* [ ] Dark mode
 * [ ] Support regex search using * character
 * [ ] Show number of matching results
 * [ ] Hyphenation for Icelandic words in PDF generation

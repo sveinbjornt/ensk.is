@@ -8,6 +8,8 @@ body {
     color: #111;
 }
 
+
+
 .menu {
     background-color: rgb(13, 25, 83);
 }
@@ -248,4 +250,61 @@ a.result_link {
 
 .autocomplete-suggestion.selected {
     background: #f0f0f0;
+}
+
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #1e1e1e;
+        color: #ddd;
+    }
+
+    a {
+        color: #4ea1f7;
+    }
+
+    h2.english_subheading {
+        color: #888;
+    }
+
+    a.result_link {
+        color: #ddd;
+    }
+
+    div.result {
+        background-color: #2e2e2e;
+        border: 1px solid #555;
+    }
+
+    div.result:hover {
+        background-color: #3e3e3e;
+        cursor: pointer;
+        border: 1px solid #4e4e4e;
+    }
+
+    div.grid-container img {
+        filter: invert(1);
+    }
+
+    input[name="q"] {
+        background-color: #2e2e2e;
+        color: #ddd;
+        border: 1px solid #555;
+    }
+
+    input[name="q"]:focus {
+        background-color: #2e2e2e;
+        color: #ddd;
+        border: 1px solid #555;
+    }
+
+    .autocomplete-suggestions {
+        background: #2e2e2e;
+        border: 1px solid #555;
+    }
+
+    .autocomplete-suggestion {
+        color: #ddd;
+    }
 }
