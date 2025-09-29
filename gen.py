@@ -205,7 +205,16 @@ def optimize_db() -> None:
 
 def generate_csv(entries: EntryList, unlink_csv: bool = False) -> str:
     """Generate zipped CSV file. Return file path."""
-    fields = ["word", "definition", "ipa_uk", "ipa_us", "page_num", "freq"]
+    fields = [
+        "word",
+        "definition",
+        "syllables",
+        "ipa_uk",
+        "ipa_us",
+        "page_num",
+        "freq",
+        "synonyms",
+    ]
 
     # Change to static files dir
     old_cwd = os.getcwd()
@@ -281,11 +290,14 @@ def generate_json(entries: EntryList) -> str:
     for entry in entries:
         word, definition, syllables, ipa_uk, ipa_us, page_num, freq, synonyms = entry
         entry_data = {
-            "headword": word,
+            "word": word,
             "definition": definition,
             "syllables": syllables,
-            "pronunciation": {"ipa_uk": ipa_uk, "ipa_us": ipa_us},
-            # "metadata": {"original_page": page_num if page_num > 0 else None},
+            "ipa_uk": ipa_uk,
+            "ipa_us": ipa_us,
+            "page_num": page_num,
+            "frequency": freq,
+            "synonyms": synonyms,
         }
         dictionary_data["entries"].append(entry_data)
 
@@ -302,89 +314,6 @@ def generate_json(entries: EntryList) -> str:
     os.chdir(old_cwd)
 
     return f"{PROJECT.STATIC_FILES_PATH}{zipfn}"
-
-
-def generate_pdf(entries: EntryList) -> str:
-    """Generate PDF. Return file path."""
-    raise NotImplementedError
-
-
-def generate_apple_dictionary(
-    entries: EntryList, unlink_intermediates: bool = True
-) -> str:
-    """Generate Apple Dictionary file. Return file path."""
-
-    # Delete any pre-existing Apple Dictionary files
-    silently_remove(f"{PROJECT.STATIC_FILES_PATH}{PROJECT.BASE_DATA_FILENAME}.apple")
-    silently_remove(
-        f"{PROJECT.STATIC_FILES_PATH}{PROJECT.BASE_DATA_FILENAME}.dictionary"
-    )
-
-    print("Running pyglossary conversion to Apple Dictionary...")
-    process = subprocess.Popen(
-        [
-            "pyglossary",
-            f"{PROJECT.STATIC_FILES_PATH}/{PROJECT.BASE_DATA_FILENAME}.csv",
-            "--read-format=Csv",
-            f"{PROJECT.STATIC_FILES_PATH}/{PROJECT.BASE_DATA_FILENAME}.apple",
-        ],
-        stdout=subprocess.PIPE,
-        stderr=subprocess.STDOUT,
-        text=True,
-        bufsize=1,
-    )
-
-    # Print output as it comes
-    for line in process.stdout:  # type: ignore
-        print(line, end="")
-
-    process.wait()
-    if process.returncode != 0:
-        print(f"pyglossary command failed with return code {process.returncode}")
-        sys.exit(process.returncode)
-
-    old_cwd = os.getcwd()
-
-    # Change to the apple dictionary directory
-    apple_dict_dir = f"{PROJECT.STATIC_FILES_PATH}{PROJECT.BASE_DATA_FILENAME}.apple"
-    os.chdir(apple_dict_dir)
-    print(f"Changed directory to: {os.getcwd()}")
-
-    # Run make and stream output
-    print("Running make...")
-    process = subprocess.Popen(
-        ["make"], stdout=subprocess.PIPE, stderr=subprocess.STDOUT, text=True, bufsize=1
-    )
-
-    # Print output as it comes
-    for line in process.stdout:  # type: ignore
-        print(line, end="")
-
-    process.wait()
-    if process.returncode != 0:
-        print(f"make command failed with return code {process.returncode}")
-        sys.exit(process.returncode)
-
-    os.chdir("..")  # Back to STATIC_FILES_PATH
-    # Move the resulting dictionary bundle to the static files root
-    shutil.copytree(
-        f"{PROJECT.BASE_DATA_FILENAME}.apple/objects/ensk_is_apple.dictionary",
-        f"{PROJECT.BASE_DATA_FILENAME}.dictionary",
-    )
-
-    # Zip it
-    zip_file(
-        f"{PROJECT.BASE_DATA_FILENAME}.dictionary",
-        f"{PROJECT.BASE_DATA_FILENAME}.dictionary.zip",
-    )
-
-    if unlink_intermediates:
-        silently_remove(f"{PROJECT.BASE_DATA_FILENAME}.apple")
-        silently_remove(f"{PROJECT.BASE_DATA_FILENAME}.dictionary")
-
-    os.chdir(old_cwd)
-
-    return f"{PROJECT.STATIC_FILES_PATH}{PROJECT.BASE_DATA_FILENAME}.dictionary.zip"
 
 
 def main() -> None:
