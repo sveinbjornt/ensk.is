@@ -42,9 +42,7 @@ from typing import Optional
 import os
 import sys
 import csv
-import shutil
 import datetime
-import subprocess
 import json as std_json
 
 import sqlite_utils

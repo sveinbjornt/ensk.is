@@ -274,13 +274,13 @@ a.result_link {
 
     div.result {
         background-color: #2e2e2e;
-        border: 1px solid #4e4e4e;
+        border: 1px solid #3e3e3e;
     }
 
     div.result:hover {
         background-color: #3e3e3e;
         cursor: pointer;
-        border: 1px solid #5e5e5e;
+        border: 1px solid #4e4e4e;
     }
 
     div.grid-container img {
@@ -290,13 +290,13 @@ a.result_link {
     input[name="q"] {
         background-color: #2e2e2e;
         color: #ddd;
-        border: 1px solid #4e4e4e;
+        border: 1px solid #3e3e3e;
     }
 
     input[name="q"]:focus {
         background-color: #2e2e2e;
         color: #ddd;
-        border: 1px solid #5e5e5e;
+        border: 1px solid #4e4e4e;
     }
 
     input[name="q"]::placeholder {
