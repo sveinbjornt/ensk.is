@@ -299,6 +299,10 @@ a.result_link {
         border: 1px solid #555;
     }
 
+    input[name="q"]::placeholder {
+        color: #888;
+    }
+
     .autocomplete-suggestions {
         background: #2e2e2e;
         border: 1px solid #555;
@@ -306,5 +310,9 @@ a.result_link {
 
     .autocomplete-suggestion {
         color: #ddd;
+    }
+
+    .autocomplete-suggestion.selected {
+        background: #3e3e3e;
     }
 }
