@@ -41,18 +41,30 @@ from os.path import exists
 
 from dict import read_all_words
 
+_DEFAULT_UK_VOICE = "Daniel"  # UK English
+_DEFAULT_US_VOICE = "Alex"  # US English
 
 _SPEECHSYNTH_CLT = "/usr/bin/say"  # Requires macOS
 
 assert exists(_SPEECHSYNTH_CLT), "macOS speech synthesizer not found"
 
+# Requires LAME installed: brew install lame
+_LAME_CLT = "/usr/local/bin/lame"
 
-def synthesize_word(w: str, dest_folder: str, voice: str = "Daniel") -> str | None:
+assert exists(_LAME_CLT), "lame MP3 encoder not found"
+
+
+def synthesize_word(
+    w: str, dest_folder: str, voice: str = _DEFAULT_UK_VOICE
+) -> str | None:
     """Generate a speech-synthesised AIFF audio file from word.
     Returns path to output file. Only works on macOS."""
-    assert voice in ["Daniel", "Alex"]  # Daniel for UK English, Alex for US English
+    assert voice in [
+        _DEFAULT_UK_VOICE,
+        _DEFAULT_US_VOICE,
+    ], "Unsupported voice"
 
-    subfolder = "uk" if voice == "Daniel" else "us"
+    subfolder = "uk" if voice == _DEFAULT_UK_VOICE else "us"
 
     f = w.replace(" ", "_")
 
@@ -63,9 +75,6 @@ def synthesize_word(w: str, dest_folder: str, voice: str = "Daniel") -> str | No
     cmd = [_SPEECHSYNTH_CLT]
     cmd.append("-v")
     cmd.append(voice)
-    # cmd.append("-r")
-    # cmd.append("89")
-    # cmd.append("--file-format=WAVE")
     cmd.append("-o")
     fn = f"{f}.aiff"
 
@@ -76,12 +85,6 @@ def synthesize_word(w: str, dest_folder: str, voice: str = "Daniel") -> str | No
     cmd.append(w)
     subprocess.run(cmd)
     return outpath
-
-
-# Requires LAME installed: brew install lame
-_LAME_CLT = "/usr/local/bin/lame"
-
-assert exists(_LAME_CLT), "lame MP3 encoder not found"
 
 
 def aiff2mp3(infile_path: str) -> None:
