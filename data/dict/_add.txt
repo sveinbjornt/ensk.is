@@ -1390,7 +1390,7 @@ xenophobia n. útlendingahatur, útlendingaótti, ótti við útlendinga eða ut
 xenophobe n. e-r sem hræðist útlendinga eða utanaðkomandi, útlendingahatari
 xenophobic l. útlendingahatandi, hræddur við útlendinga eða utanaðkomandi
 xylophone n. sílófónn (ásláttarhljóðfæri)
-xylophonist n. sílófónleikari, ásláttarhljóðfæraleikari
+xylophonist n. sílófónleikari
 cryptocurrency n. rafmynt
 bacchanalia nft. svall, orgía (hjá Rómverjum til forna, kennd við guðinn Bakkus)
 orgy n. (kynlífs)svall, svallveisla, orgía
@@ -8153,7 +8153,7 @@ verboseness n. orðgnótt
 veggie n. grænmeti (stytt. á %[vegetable]%); grænmetisæta (%[vegetarian]%); l. grænmetis-; grænmetisætu-, jurtaætu-
 tactfulness n. háttvísi
 stretchability n. teygjanleiki
-stalwartness n. hreysti; hugrekki; kjarkur
+stalwartness n. hreysti; hugrekki; kjarkur; sterk líkamsbygging
 spongelike l. svampkenndur, eins og svampur (sjá %[sponge]%)
 soothsaying n. spámennska
 smarminess n. smeðjuskapur
@@ -9721,5 +9721,33 @@ cartwheel n. vagnhjól; [turn ~s] handahlaup (í fimleikum)
 harasser n. áreitari, e-r sem áreitir
 vocalization n. röddun, hljóðmyndun
 atomism n. atómkenning, frumeindakenning
+atomist n. fylgismaður frumeindakenningar (sjá %[atomism]%)
+atomistic l. frumeindakenningar-
 hydrochloric l. vetnisklóríðs-
-collegial l. félaga-; háskóla-; sem einkennist af kumpánaskap eða góðum félagsanda ([~ spirit])
+collegial l. félaga-; háskóla-; sem einkennist af kumpánaskap eða góðum samstarfsanda ([~ spirit])
+adiposis n. feitlagni; offita; fitusækni
+bravura n. kraftur, fjörleiki; stórkostleg frammistaða í erfiðu verki
+wisely ao. viturlega; hyggilega; skynsamlega ([you chose ~])
+pantaloons nft. langbrækur
+glumly ao. önuglega
+sheepherder n. fjárhirðir, smalamaður
+fledgeless l. fjaðralaus
+unvaned l. fjaðralaus (ör)
+élite n. sjá %[elite]%
+semifinals nft. undanúrslit
+scoot s. skutlast, þjóta, skjótast
+rumpus n. ólæti, skarkali
+potty n. barnakoppur, koppur; l. klikkaður, ruglaður (forn.); [~-mouthed] með sorakjaft
+outsize l. óvenjustór
+monorail n. járnbraut sem keyrir á einu spori
+in-law n. tengda-, mágur, svili (t.d. %[mother-in-law]%, %[brother-in-law]%, o.s.frv.)
+gauche l. klaufalegur, klunnalegur í háttvísi
+bionics nft. tölvulíffræði, líftölvunarfræði
+crate n. kassi
+borderless l. án landamæra; án randar, án brúnar
+curved l. boginn, sveigður, bogamyndaður
+toboggan n. sleði
+teardrop n. (stakt) tár
+predatory lending n. okurlánastarfsemi
+depraved l. siðspilltur, gjörspilltur
+perverted l. afbakaður, rangsnúinn; spilltur; afvegaleiddur; perralegur

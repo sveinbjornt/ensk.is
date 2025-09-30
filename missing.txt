@@ -242,7 +242,6 @@ relativity (endurskoða skilgr.)
 dysmorphia
 dysmorphic
 ellipticity
-curved
 readjustment
 genuinely
 repeating
@@ -253,7 +252,6 @@ unwarranted
 temperamental
 self-loathing
 hypocritically
-borderless
 borderline
 checkpoint
 Orwellian
@@ -266,7 +264,6 @@ browse s.
 Confucian
 Confucius
 full-blooded
-crate
 completeness
 self-secure
 incendiarism
@@ -1504,7 +1501,6 @@ cyberpunk
 steampunk
 petrodollar
 megastructure
-monorail
 tautonym
 metonym
 paronym
@@ -1850,7 +1846,6 @@ defunct (endurskoða)
 ambigram
 tailrace
 bionic
-bionics
 butte
 switchgrass
 biorefinery
@@ -2716,8 +2711,6 @@ hypostasize
 hypostasized
 sectional
 bakehouse
-atomist
-atomistic
 Chartism
 Chartist
 transcendentalism
@@ -2851,6 +2844,7 @@ scathing
 glowing
 embodied
 caddy (endurskoða)
+caddie
 edgelord
 cringey
 expired
@@ -3125,7 +3119,6 @@ comorbid
 comorbidity
 insulator
 overbite
-gauche
 faze
 fazed
 unfazed
@@ -3378,7 +3371,6 @@ literalistically
 bluebottle
 falsely
 snippy
-toboggan
 disjuncture
 colloid
 colloidal
@@ -4001,18 +3993,13 @@ conservatively
 tumbledown
 sketchpad
 crustiness
-sheepherder
 worksheet
-pantaloon
-glumly
 symbology
 symbologist
 miscellaneity
 brochette
 classwork
 piddle
-wisely
-bravura
 quintette
 vulgarian
 neatly
@@ -4058,7 +4045,6 @@ ragpicker
 vulgarization
 tightly
 slurry
-rumpus
 walk-out
 plain-clothes
 close-cut
@@ -5197,8 +5183,6 @@ cyclery
 biannual
 empurpled
 purpurate
-fledgeless
-unvaned
 shopworn
 timeworn
 well-worn
@@ -5531,7 +5515,6 @@ Hasidic
 Ashkenazi
 Mahayana
 Theravada
-depraved
 tranquilizing
 Mandatory Palestine
 mandatory (endurskoða)
@@ -5659,7 +5642,6 @@ Cherokee
 Apache
 Sioux
 ensuant
-predatory lending
 ill-judged
 authoritative (endurskoða)
 ecofascism
@@ -5750,7 +5732,6 @@ high school
 extravagantly
 deplumate
 displume
-teardrop
 CAD
 RUB
 transfix (endurskoða)
@@ -5835,3 +5816,5 @@ greige
 gazebo
 selectman
 floatplane
+throbbing
+misaddress

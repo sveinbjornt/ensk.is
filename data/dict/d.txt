@@ -553,9 +553,9 @@ depository n. geymslumaður, fjárhaldsmaður; geymslustaður
 deposition n. ofantekning (Krists af krossinum); niðurlagning; innlag (í banka); niðurburður, árburður; framburður (vitnis)
 depositor n. innstæðueigandi (í banka)
 depot n. vörugeymslustaður; vörubirgðir (sem lagðar eru til geymslu); hermannastöð; járnbrautarstöð
-depravation n. spilling
-deprave s. spilla
-depravity n. spilling
+depravation n. spilling, siðspilling
+deprave s. spilla, siðspilla
+depravity n. spilling, siðspilling
 deprecate s. biðjast undan; harma, þykja miður farið, láta í ljós vanþóknun sína á e-u
 deprecation n. undanbeiðsla; vanþóknun
 deprecative l. biðjandi, afsakandi
