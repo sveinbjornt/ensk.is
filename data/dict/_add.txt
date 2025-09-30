@@ -3303,6 +3303,7 @@ randomly ao. handahófslega, af handahófi, af slembni
 realtime n. rauntími; l. í rauntíma ([~ video compression])
 squiggle n. krot, hrip; s. krota, hripa, skrifa flausturslega; engjast, hrökkvast
 cropland n. ræktunarland, uppskeruland
+emancipator n. frelsari
 emancipatory l. frelsandi (úr ánauð)
 aggressiveness n. árásargirni, árásargirnd, árásarhneigð, mannýgð
 aggressively ao. á árásargjarnan hátt, af árásargirni
@@ -8224,7 +8225,7 @@ counteroffer n. gagntilboð, móttilboð
 ripened l. þroskaður
 unripened l. óþroskaður
 gillyflower n. gulltoppur (blóm)
-pureblooded l. með hreint blóð, af hreinum stofni, kynhreinn; hreinræktaður (um dýr)
+pureblooded l. með hreint blóð, af hreinum stofni, kynhreinn; hreinkynjaður, hreinræktaður (um dýr)
 mixed-race l. kynblandaður (kominn af foreldrum frá sitt hvorum kynflokknum)
 cytoplasm n. umfrymi
 anti-aircraft gun n. loftvarnabyssa
@@ -9704,3 +9705,21 @@ whirlybird n. þyrla (óforml.)
 dark mode n. rökkurhamur, myrkrahamur (í tölvuviðmóti)
 tarmacadam n. slitlag úr grjótmöl
 macadam n. grjótmöl
+surreptitiously ao. laumulega; leynilega
+chlorinate s. blanda með klóri
+chlorinated l. klórblandaður
+decomposed l. rotnaður; sundurbrotinn
+tumultuously ao. róstusamlega; ruglingslega, óreglulega
+hangry l. reiður eða pirraður sökum hungurs
+craniology n. höfuðkúpufræði
+bicentennial n. tvö hundruð ára afmælisfögnuður; l. sem gerist á tveggja alda fresti; tveggja alda
+chieftainship n. höfðingskapur, höfðingjastaða
+bugleweed n. tannblaðka, dvergavör (jurt)
+suaveness n. blíði, þýði, mildi (sjá %[suave]%)
+hexagram n. Davíðsstjarna, sexhyrnd stjarna
+cartwheel n. vagnhjól; [turn ~s] handahlaup (í fimleikum)
+harasser n. áreitari, e-r sem áreitir
+vocalization n. röddun, hljóðmyndun
+atomism n. atómkenning, frumeindakenning
+hydrochloric l. vetnisklóríðs-
+collegial l. félaga-; háskóla-; sem einkennist af kumpánaskap eða góðum félagsanda ([~ spirit])

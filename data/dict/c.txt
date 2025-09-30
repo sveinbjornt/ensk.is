@@ -45,7 +45,7 @@ calcine s. gera að kalki; brenna að ösku, gjöreyða
 calculable l. reiknanlegur
 calculate s. reikna; byggja, ætla
 calculation n. útreikningur; reikningur; áætlun
-calculator n. reiknivél; reikningsmaður
+calculator n. reiknivél; reikningsmaður, reiknari
 calculus n. steinn; nýrnasteinn; tannsteinn; stærðfræðigreining, diffur- og tegurreikningur, reiknivísi, örsmæðareikningur
 calculi nft. nýrnasteinar, gallsteinar
 caldron n. sjá %[cauldron]%
@@ -1288,7 +1288,7 @@ collateral l. jafnhliða; [~ pressure] hliðarþrýsting; [~ circumstances] auka
 collaterally ao. hlið við hlið; óbeinlínis; samhliða, jafnhliða (e-u [with])
 collation n. samanburður; veiting (prestsembættis); létt máltíð
 collator n. sá sem ber saman, hefur rétt til að veita prestsembætti
-colleague n. embættisbróðir
+colleague n. starfsfélagi, starfsbróðir, samstarfsmaður, samstarfskona, kollegi; félagi
 collect s. safna; innheimta (skatta, skuldir); ráða (af e-u); safnast; [~ oneself] ná sér, jafna sig, átta sig; n. kirkjubæn, kollekta
 collected l. stilltur
 collectedly ao. í heild sinni; stillilega
@@ -1458,8 +1458,8 @@ commune n. bæjar- eða sveitarfélag; kommúna; s. tala saman (við [with]), ha
 communicable l. miðlanlegur; ræðinn
 communicant n. altarisgöngumaður; sögumaður
 communicate s. miðla, veita; segja (e-m [to]) frá e-u; standa í sambandi (um herbergi); tala, eiga í samskiptum (við [with]); ganga (eða taka) til altaris
-communication n. samskipti, miðlun, yfirfærsla; frásögn; samgöngur; samband
-communicative l. ræðinn
+communication n. samskipti, miðlun; frásögn; samgöngur; samband
+communicative l. ræðinn, skrafhreifinn, málgefinn, málugur; samskipta-
 communion n. sameining; félagsskapur; samneyti; kirkjufélag; samband; nautn heilagrar kvöldmáltíðar; altarissakramenti ([Holy Communion])
 communion bread n. altarisbrauð, bakstur
 communion cloth n. altarisdúkur

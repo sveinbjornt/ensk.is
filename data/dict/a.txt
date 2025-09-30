@@ -1405,10 +1405,10 @@ artful l. kænn, slægur; íþróttlegur
 artfulness n. kænska, bragðvísi
 arterial l. sem lýtur að slagæðum, slagæða-
 artery n. slagæð, lífæð
-arthritic l. sem veldur gigt (í liðum)
-arthritis n. liðabólga, liðagigt
+arthritic l. sem veldur gigt (í liðum), liðagigtar-
+arthritis n. liðagigt, liðabólga
 article n. grein (í bók eða blaði); atriði; þáttur; vörutegund, varningur ([~ of trade]); hlutur; [the definite ~] ákveðni greinirinn; [in the ~ of death] í andlátinu; [an ~ of dress] föt; [an ~ of faith] trúarsetning; [~s of apprenticeship] námssamningur; s. koma fyrir (til náms); kæra ([~ against one])
-articulate s. tengja við; segja (tala) skýrt; l. liðaður, með liðum; skýr, greinilegur, mælskur
+articulate s. tengja við; segja (tala) skýrt; l. liðaður, með liðum; mælskur; skýr, greinilegur
 articulation n. liðamót; liður (á plöntu); greinilegt hljóð
 artifice n. bragð, kænska
 artificer n. iðnaðarmaður; frumkvöðull
