@@ -701,8 +701,8 @@ sergeant-at-arms n. lögreglumeistari í enska þinginu
 serial l. sem kemur út í heftum ([~ story])
 serially ao. í heftum
 series n. röð
-serious l. alvörugefinn; alvarlegur; þýðingarmikill; [I am ~] mér er alvara; ég tala í alvöru
-seriousness n. alvörugefni; alvara
+serious l. alvörugefinn; alvarlegur; þýðingarmikill; [I am ~] mér er alvara, ég tala í alvöru; [are you ~?] er þér alvara?
+seriousness n. alvörugefni; alvara; [in all ~] í alvöru
 sermon n. predikun, ræða; [preach (deliver) a ~] halda ræðu, predika
 sermonize s. predika (fyrir e-m)
 serosity n. blóðvatn
@@ -2494,10 +2494,10 @@ streetwalker n. vændiskona, götuskækja
 strength n. kraftur, afl, styrkur; sterkleiki; þrek, þróttur; [~ of mind] sálarþrek; [(up)on the ~ of] í trausti til; [that is beyond human ~] mannlegum kröftum ofvaxið
 strengthen s. styrkja; efla; styrkjast
 strengthening l. styrkjandi
-strenuous l. ötull, ákafur ([a ~ advocate of liberty]); harður, erfiður ([~ work])
-strenuousness n. ötulleiki
+strenuous l. harður, erfiður ([~ work]); ötull, ákafur ([a ~ advocate of liberty])
+strenuousness n. erfiði; ötulleiki
 stress n. stress; kraftur; þrýstingur; áhersla ([the ~ is on the first syllable]); mikilvægi; áreynsla; ofsi ([~ of weather]); [to lay ~ upon] leggja áherslu á e-ð
-stretch s. þenja, herða, teygja; rétta út ([~ out one's hand]); breiða út; ýkja; togna; þenjast; teygja sig ([~ oneself]); ná ([~ over a hundred miles]); þenja sig (á hlaupi eða reið); n. þensla; áreynsla; stefna; víðátta; svæði, vegalengd ([a ~ of road]); [at (on) a ~] í einu, í senn
+stretch s. þenja, herða, teygja; rétta út ([~ out one's hand]); breiða út; ýkja; togna; þenjast; teygja sig ([~ oneself]); ná ([~ over a hundred miles]); þenja sig (á hlaupi eða reið); n. þensla; áreynsla; stefna; víðátta; svæði; vegalengd ([a ~ of road]); [at (on) a ~] í einu, í senn
 stretcher n. sjúkrabörur; þenslugrind; hanskavíkkari
 strew s. dreifa; sá; liggja á víð og dreif um
 stria n. rák

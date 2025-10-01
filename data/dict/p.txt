@@ -238,7 +238,7 @@ parliament n. þing
 parliamentarism n. þingræðisstjórn, þingræði
 parliamentary l. þinglegur; samkvæmur þingsköpum; þingræðislegur
 parlour n. dagstofa (nú [sitting room]); gestastofa í veitingahúsi
-parlour-maid n. stúlka sem gengur um beina
+parlourmaid n. stúlka sem gengur um beina
 parochial l. sóknar-, sóknarlegur; sveitar-; [~ register] kirkjubók; [~ relief] sveitarstyrkur
 parodist n. skopstælingamaður
 parody n. háðsleg eftirstæling kvæðis eða annars rits; s. yrkja upp alvarlegt kvæði, svo að það verði hlægilegt; stæla
@@ -633,7 +633,7 @@ perfection n. fullkomnun, algjörleiki, fullnusta
 perfective l. fullkomnandi; sem er að fullkomnast
 perfectly ao. fullkomlega; alveg, algjörlega ([~ harmless])
 perfectness n. fullkomnun, algjörleiki, fullnusta
-perfidious l. svikafullur, ótrúr, sviksamur
+perfidious l. sviksamur, svikull, ótrúr
 perfidy n. svik, ótrúmennska, undirferli
 perforate s. bora í gegnum; stinga í gegn; gata
 perforation n. borun; götun; hola, gat

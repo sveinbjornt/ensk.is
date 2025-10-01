@@ -1,6 +1,6 @@
 labefaction n. hrun, fall
 label n. merki, einkennismiði, merkiseðill; s. merkja, setja einkennismiða á
-labial l. vara- ([~ letter]); n. varastafur; varahljóð
+labial l. vara-; skapavara-; n. varastafur; varahljóð
 laboratory n. rannsóknarstofa; tilraunastofa
 laborious l. starfsamur, iðjusamur ([a ~ mechanic]); örðugur, fyrirhafnarmikill
 labour n. erfiði; vinna; fyrirhöfn; jóðsótt, fæðingarhríðir ([pains of ~]); s. erfiða, vinna, strita; vinna að e-u ([for]); reyna að gera sér far um e-ð; þjást ([~ under bad health]); velta, höggva (um skip)
@@ -28,12 +28,12 @@ lacquer s. lakka, draga gljákvoðu á; n. lakk, gljákvoða
 lackey n. þjónn höfðingja; s. vera þjónn (skósveinn) e-s, þjóna e-m
 lacquey n. þjónn höfðingja; s. vera þjónn (skósveinn) e-s, þjóna e-m
 lackland l. landlaus
-lacklustre l. gljáalaus, daufur ([~ eyes])
+lacklustre l. gljáalaus, daufur ([~ eyes]); óspennandi, lakur ([a ~ performance])
 laconic l. kjarnyrtur, stuttorður, knappur, fámálgur
 laconically ao. kjarnyrt, stuttlega
 laconicism n. gagnyrt orðalag; kjarnyrði
 laconism n. gagnyrt orðalag; kjarnyrði
-laconize s. fylgja (líkja eftir) Lakverjum
+laconize s. fylgja (líkja eftir) Lakverjum (Spartverjum)
 lactation n. brjóstgjöf, mjólkurgjöf
 lacteal l. mjólkurkynjaður, mjólkur-
 lacteous l. mjólkurkynjaður, mjólkur-
@@ -310,7 +310,7 @@ leading article n. ritstjórnargrein; aðalvara
 leading wind n. hagstæður vindur, byr
 leading-strings nft. taumband; [be in ~] vera ósjálfstæður, ósjálfbjarga
 leady l. blýgrár ([~ gray])
-leaf n. lauf, blað; hurðvængur; borðvængur; [to put forth leaves] laufgast; s. fá blöð, laufast
+leaf n. lauf, laufblað; blað; hurðvængur; borðvængur; s. fá blöð, laufgast; blaða (í gegnum [through])
 leafage n. lauf, blöð
 leaflet n. bæklingur, smáblað
 leafy l. laufgaður, laufmikill

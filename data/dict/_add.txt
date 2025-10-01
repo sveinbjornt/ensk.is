@@ -5181,7 +5181,7 @@ midsection n. miðja; mitti, skrokkur, magi
 vaguely ao. ónákvæmlega, á óákveðin eða ónákvæman hátt
 modestly ao. hæversklega, á hæverskan eða siðprúðan hátt, af siðprýði
 triumphantly ao. sigri hrósandi, á sigursælan hátt
-riff-raff n. ruslaralýður, skríll, illþýði, pakk
+riff-raff n. ruslaralýður, skríll, illþýði, skítapakk, pakk
 per se ao. (lat.) sem slíkur, út af fyrir sig
 hashish n. hass (verkað kannabis)
 stoned l. grýttur; skakkur, freðinn, í kannabisvímu; undir áhrifum vímuefna
@@ -8153,7 +8153,7 @@ verboseness n. orðgnótt
 veggie n. grænmeti (stytt. á %[vegetable]%); grænmetisæta (%[vegetarian]%); l. grænmetis-; grænmetisætu-, jurtaætu-
 tactfulness n. háttvísi
 stretchability n. teygjanleiki
-stalwartness n. hreysti; hugrekki; kjarkur; sterk líkamsbygging
+stalwartness n. hreysti; hugrekki; kjarkur; kröftug líkamsbygging
 spongelike l. svampkenndur, eins og svampur (sjá %[sponge]%)
 soothsaying n. spámennska
 smarminess n. smeðjuskapur
@@ -9489,7 +9489,7 @@ forebear n. forfaðir
 outskirts nft. útjaðar
 figurine n. smástytta
 menthol n. mentól
-phony l. óekta; uppspunninn; n. loddari
+phony l. óekta, falskur, tilgerðarlegur; uppspunninn; n. loddari, hræsnari
 drachma n. drakma (grískur gjaldmiðill)
 cushy l. þægilegur ([a ~ job])
 banyan n. fíkjutré; indverskur kaupmaður
@@ -9640,7 +9640,7 @@ offbeat l. óvenjulegur, óhefðbundinn
 iridescence n. litbrigði
 pullulate s. fjölga hratt
 Luddite n. lúddíti
-deep learning n. djúpnám (í tölvunarfræði)
+deep learning n. djúpnám (gervigreindartækni)
 value added tax n. virðisaukaskattur
 VAT n. virðisaukaskattur (sks. á %[value added tax]%)
 upside-down l. á hvolfi
@@ -9673,10 +9673,9 @@ cagy l. sjá %[cagey]%
 undercover l. leynilegur, leyni-, undir fölskum formerkjum ([~ agent, activities])
 blazer n. léttur jakki, sportjakki; kannabisreykingamaður (Bandarískt slangur)
 aroused l. vakinn; kynæstur ([he was ~ by her touch])
-wiley l. sjá %[wily]%
 uninvited l. óboðinn
-bodacious l. djarfur, taumlaus; markverður, eftirtekarverður; kynþokkafullur, lokkandi
-bodaciously ao. djarflega, taumlaust; merkilega; á kynþokkafullan eða lokkandi hátt
+bodacious l. djarfur, taumlaus; markverður, eftirtekarverður; kynþokkafullur, lokkandi (BNA, óforml.)
+bodaciously ao. djarflega, taumlaust; merkilega; á kynþokkafullan eða lokkandi hátt (BNA, óforml.)
 unfearing l. óhræddur, óttalaus, djarfur
 bald-faced l. óskammfeilinn
 uppercut n. upphögg
@@ -9694,10 +9693,10 @@ outboard l. utanborðs- (á báti eða skipi); [~ motor] utanborðsmótor
 galore l. í hrönnum ([there was whiskey ~])
 misfire s. klikka (um skotvopn); fara úrskeiðis, misfarast; n. það, þegar skotvopn hleypir ekki af
 domineering l. yfirgangssamur, dómínerandi, gerræðislegur, ráðríkur ([a ~ personality])
-bereaved l. sviptur, sem hefur misst ástvin ([my condolences to the ~])
-pronghorn n. bandarísk antilópa
+bereaved l. sviptur, sem misst hefur ástvin ([my condolences to the ~])
+pronghorn n. norðuramerísk antilópa
 chiropteran n. ættkvísl leðurblakna
-parlous l. hættulegur, háskalegur
+parlous l. hættulegur, háskalegur ([the company's finances are in a parlous state])
 parlousness n. hætta, háski
 cleaver n. kjötöxi
 eggbeater n. eggjaþeytari
@@ -9710,7 +9709,7 @@ chlorinate s. blanda með klóri
 chlorinated l. klórblandaður
 decomposed l. rotnaður; sundurbrotinn
 tumultuously ao. róstusamlega; ruglingslega, óreglulega
-hangry l. reiður eða pirraður sökum hungurs
+hangry l. reiður eða pirraður sökum hungurs (óforml.)
 craniology n. höfuðkúpufræði
 bicentennial n. tvö hundruð ára afmælisfögnuður; l. sem gerist á tveggja alda fresti; tveggja alda
 chieftainship n. höfðingskapur, höfðingjastaða
@@ -9735,7 +9734,7 @@ fledgeless l. fjaðralaus
 unvaned l. fjaðralaus (ör)
 élite n. sjá %[elite]%
 semifinals nft. undanúrslit
-scoot s. skutlast, þjóta, skjótast
+scoot s. skutlast, þjóta, skjótast (óforml.)
 rumpus n. ólæti, skarkali
 potty n. barnakoppur, koppur; l. klikkaður, ruglaður (forn.); [~-mouthed] með sorakjaft
 outsize l. óvenjustór
@@ -9751,3 +9750,5 @@ teardrop n. (stakt) tár
 predatory lending n. okurlánastarfsemi
 depraved l. siðspilltur, gjörspilltur
 perverted l. afbakaður, rangsnúinn; spilltur; afvegaleiddur; perralegur
+riff n. stef, lagabútur, laglína; tilbrigði (við [on])
+cash machine n. hraðbanki

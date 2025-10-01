@@ -1322,7 +1322,6 @@ relive
 maverick
 judgemental
 bog-standard
-riff
 nutter
 aspirational
 unduly
@@ -2949,7 +2948,6 @@ streetsmart
 undead
 shortbread
 drumroll
-perverted
 pawed
 neurotypical
 muted
@@ -4988,7 +4986,6 @@ nervy (endurskoða)
 piquet (endurskoða)
 pigeonhole (endurskoða)
 palm (endurskoða)
-parlour-maid (endurskoða)
 routine (endurskoða)
 slangy (ENDURSKOÐA MIKILVÆGT)
 shambles (ENDURSKOÐA MIKILVÆGT)
@@ -5818,3 +5815,9 @@ selectman
 floatplane
 throbbing
 misaddress
+surd
+intemperately
+septic
+reviled
+evangelistic
+betting
