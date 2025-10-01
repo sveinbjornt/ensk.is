@@ -620,6 +620,7 @@ earthwork
 simplistic
 simplistically
 farmable
+unfarmable
 ethos
 glamourize
 thematic
@@ -5821,3 +5822,5 @@ septic
 reviled
 evangelistic
 betting
+beguiled
+distortional (endurskoða)

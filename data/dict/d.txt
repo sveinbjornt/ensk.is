@@ -904,9 +904,9 @@ diphtheria n. barnaveiki (e.k. hálsveiki)
 diptheritis n. barnaveiki (e.k. hálsveiki)
 diphthong n. tvíhljóður
 diploma n. skjal; fornskjal
-diplomacy n. stjórnkænska
-diplomatic l. diplómatískur; stjórnkænn; stjórnkænskulegur; stafréttur ([~ copy])
-diplomatist n. stjórnvitringur; stjórnarerindreki
+diplomacy n. ríkiserindrekstur, diplómasía; stjórnkænska; háttvísi í samskiptum
+diplomatic l. diplómatískur, utanríkisþjónustu-; stjórnkænn, stjórnkænskulegur; háttvís í samskiptum; stafréttur ([~ copy])
+diplomatist n. stjórnarerindreki; stjórnvitringur
 dip-net n. háfur
 dipper n. ausa; vatnastari (fuglsheiti); endurskírari
 dipping n. dýfing; sauðfjárbað
@@ -1086,7 +1086,7 @@ disgust n. óbeit; viðbjóður; viðurstyggð; s. vekja viðbjóð hjá; gera l
 disgusting l. viðbjóðslegur, andstyggilegur, viðurstyggilegur
 dish n. diskur; fat; réttur (matar); skál; s. bera fram (mat [~ up]); gera út af við; [~ed (up)] kominn á höfuðið
 dishwater n. skólp
-dishabille n. snöggklæði; [in ~] fáklæddur (um kvenmenn)
+dishabille n. snöggklæði; [in ~] fáklæddur (um kvenfólk)
 disharmony n. ósamræmi
 dishearten s. gera huglausan, draga kjark úr e-m
 dishevelled l. flaksandi ([~ hair]); óreglulegur, ruglingslegur; subbulegur
@@ -1274,18 +1274,18 @@ distichal l. sem eru tvö vísuorð
 distil s. eima; láta drjúpa; draga (seyði) út úr ([~ herbs]); gufuseyða; búa til, brugga (áfengi); drjúpa
 distillate n. brugg
 distillation n. eimun, gufuseyðing; dropafall; útdráttur (seyðis)
-distiller n. (áfengis)bruggari
-distillery n. brennivínsgerðarhús, eimingarstöð
+distiller n. bruggari, áfengisbruggari
+distillery n. brugghús, eimingarstöð
 distinct l. aðgreindur; ólíkur (e-u [from]); sérstakur; skýr, greinilegur, glöggur; vafalaus, ákveðinn
 distinction n. auðkenni; aðgreining; greinarmunur; frægð, sæmd, upphefð; [persons of ~] tignir menn
-distinctive l. aðgreinandi; auðkennilegur, einkennis- ([~ dress]); n. einkenni
-distinctly ao. greinilega
+distinctive l. aðgreinandi; auðkennilegur, einkennandi, einkennis- ([~ dress])
+distinctly ao. greinilega; auðkennilega
 distinctness n. glöggur munur; sérkennileiki; glöggleiki
 distinguish s. greina í sundur, þekkja í sundur, gera greinarmun á ([~ the truth from the fiction]); sjá, heyra, auðkenna; gera frægan; [~ oneself] bera af öðrum, vinna frægð
 distinguishable l. sundurgreinilegur
 distinguished l. frægur, ágætur; fyrirmannlegur ([a ~ air])
-distort s. skekkja, skæla, afskræma; rangfæra ([~ statements, facts])
-distortion n. aflögun, bjögun, skekking, skæling; rangfærsla ([~ of words])
+distort s. skekkja, skæla, afskræma, afbaka; rangfæra ([~ statements, facts])
+distortion n. aflögun, bjögun, skekking, skæling, afbökun; rangfærsla ([~ of words])
 distortional l. sem lýtur að [distortion]
 distract s. draga burtu ([~ the attention]); trufla, rugla
 distracted l. ruglaður, brjálaður

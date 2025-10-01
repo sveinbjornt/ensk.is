@@ -2752,8 +2752,8 @@ matronym n. móðurnafn
 matronymic l. móðurnafns-; n. móðurnafn
 medievalist n. miðaldafræðingur
 insecticide n. skordýraeitur; skordýramorð
-legibility n. læsileiki (sjá %[legible]%)
-illegibility n. ólæsileiki (sjá %[legible]%)
+legibility n. læsileiki
+illegibility n. ólæsileiki
 myopia n. nærsýni
 myopic l. nærsýnn
 Sikh n. síki (fylgismaður síkisma, sjá %[Sikhism]%)
@@ -4541,7 +4541,7 @@ potentially ao. mögulega
 Roma nft. Rómafólk, sígaunar (þjóðflokkur flökkufólks)
 untitled l. án titils, nafnlaus, ónefndur, ótitlaður
 gyrotron n. segulspunarafali
-climacteric n. breytingaskeið, aldurshvörf; tíðahvörf
+climacteric l. breytingaskeiðs-, aldurshvarfa-; tíðahvarfa-; n. breytingaskeið, aldurshvörf; tíðahvörf
 overexploit s. ofnýta
 psychogenic l. sálrænn, af sálrænum toga, geðrættur
 crosswalk n. gangbraut
@@ -7784,7 +7784,7 @@ worldly-wise l. veraldarvanur, veraldarvís
 payphone n. almenningssími, tíkallasími, símasjálfsali
 postprocessing n. eftirvinnsla
 postprocess s. ganga frá eftirvinnslu
-machine learning n. vélnám, vélrænt nám
+machine learning n. vélnám, vélrænt nám (gervigreindartækni)
 forecourt n. forgarður, húsagarður
 diversionary l. afvegaleiðandi; sem dreifir athygli; dægrastyttingar-
 worthlessness n. sá eiginleiki að vera einskis virði
@@ -9752,3 +9752,5 @@ depraved l. siðspilltur, gjörspilltur
 perverted l. afbakaður, rangsnúinn; spilltur; afvegaleiddur; perralegur
 riff n. stef, lagabútur, laglína; tilbrigði (við [on])
 cash machine n. hraðbanki
+nomadism n. hjarðmennska, hirðingjalíf
+illegitimately ao. á ólögmætan hátt; án heimildar

@@ -551,9 +551,9 @@ engineering n. verkfræðingsíþrótt eða starfsemi
 engird s. umgirða
 engirdle s. umlykja
 England n. England
-English l. enskur; n. enska (tungumálið); [the ~] hin enska þjóð, Englendingar
-Englishman n. Englendingur
-Englishwoman n. enskur kvenmaður, ensk kona
+English l. enskur; n. enska (tungumál); [the ~] hin enska þjóð, Englendingar
+Englishman n. Englendingur, enskur maður
+Englishwoman n. ensk kona
 english s. þýða á ensku; taka (orð) upp í ensku
 englut s. gleypa; seðja
 engorge s. gleypa, háma í sig; ([~d with blood]) blóðhlaupinn
