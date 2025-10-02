@@ -315,4 +315,13 @@ a.result_link {
     .autocomplete-suggestion.selected {
         background: #3e3e3e;
     }
+
+    tbody {
+        background-color: #2e2e2e;
+        border: 1px solid #555;
+    }
+
+    tbody tr:nth-child(even) {
+        background-color: #3e3e3e;
+    }
 }
