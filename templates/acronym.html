@@ -1,0 +1,25 @@
+{% extends "container.html" %}
+
+{% block meta %}
+<meta name="description" content="Öll orð með hástöfum">
+{% endblock %}
+
+{% block content %}
+
+<h1>Orð með hástöfum</h1>
+
+<p>Hér er listi af öllum orðum sem innihalda hástafi ({{ num_acronym }} talsins):</p>
+
+<p>
+  {% for w in acronyms %}
+  <a href="/item/{{ w }}">{{ w|safe }}</a>
+  <br>
+  {% endfor %}
+</p>
+
+<br>
+<br>
+<br>
+<br>
+
+{% endblock %}

@@ -57,6 +57,11 @@ num_multiword_entries = len(multiword_entries)
 capitalized_entries = [e["word"] for e in edb.read_all_capitalized()]
 num_capitalized_entries = len(capitalized_entries)
 
+acronym_entries = [
+    e["word"] for e in entries if len(e["word"]) > 2 and e["word"].isupper()
+]
+num_acronym_entries = len(acronym_entries)
+
 duplicate_entries = [e["word"] for e in edb.read_all_duplicates()]
 num_duplicate_entries = len(duplicate_entries)
 

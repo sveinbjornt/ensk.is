@@ -7478,7 +7478,8 @@ disintermediation n. hjámiðlun
 disutility n. ónytjar
 diversification n. fjölþætting
 downpayment n. innborgun
-IPO n. fyrsta útboð verðbréfa (sks. á [initial public offering])
+IPO n. fyrsta útboð verðbréfa (sks. á %[initial public offering]%)
+initial public offering n. fyrsta útboð verðbréfa (sks. %[IPO]%)
 cannot stytt. á [can not]; get ekki
 can't stytt. á [can not]; get ekki
 won't stytt. á [will not]; mun ekki, vil ekki
@@ -9638,11 +9639,12 @@ jet lag n. þotuþreyta
 junk food n. ruslmatur
 offbeat l. óvenjulegur, óhefðbundinn
 iridescence n. litbrigði
+panjandrum n. pótintáti, mikilvægur embættismaður, valdamikil manneskja (uppnefni)
 pullulate s. fjölga hratt
 Luddite n. lúddíti
 deep learning n. djúpnám (gervigreindartækni)
-value added tax n. virðisaukaskattur
-VAT n. virðisaukaskattur (sks. á %[value added tax]%)
+value-added tax n. virðisaukaskattur
+VAT n. virðisaukaskattur (sks. á %[value-added tax]%)
 upside-down l. á hvolfi
 umbilical cord n. naflastrengur
 overtime n. yfirvinnutími, yfirvinna

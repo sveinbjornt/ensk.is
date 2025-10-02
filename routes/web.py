@@ -29,6 +29,8 @@ from .core import (
     num_multiword_entries,
     capitalized_entries,
     num_capitalized_entries,
+    acronym_entries,
+    num_acronym_entries,
     duplicate_entries,
     num_duplicate_entries,
     # no_uk_ipa_entries,
@@ -363,6 +365,23 @@ async def capitalized(request: Request) -> Response:
     )
 
 
+@router.get("/acronym", include_in_schema=False)
+@router.head("/acronym", include_in_schema=False)
+@cache_response
+async def acronym(request: Request) -> Response:
+    """Page with links to all words that are acronyms."""
+    return TemplateResponse(
+        request,
+        "acronym.html",
+        {
+            "request": request,
+            "title": f"Acronym - {PROJECT.NAME}",
+            "num_acronym": num_acronym_entries,
+            "acronyms": acronym_entries,
+        },
+    )
+
+
 @router.get("/original", include_in_schema=False)
 @router.head("/original", include_in_schema=False)
 @cache_response
@@ -481,6 +500,8 @@ async def stats(request: Request) -> Response:
             "perc_no_page": perc(num_no_page_entries, num_entries),
             "num_capitalized": num_capitalized_entries,
             "perc_capitalized": perc(num_capitalized_entries, num_entries),
+            "num_acronym": num_acronym_entries,
+            "perc_acronym": perc(num_acronym_entries, num_entries),
             "num_nonascii": num_nonascii_entries,
             "perc_nonascii": perc(num_nonascii_entries, num_entries),
             "num_multiword": num_multiword_entries,
