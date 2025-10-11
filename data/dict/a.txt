@@ -311,8 +311,8 @@ action n. framkvæmd; verk; áhrif; látbragð (ræðumanns); málsókn, mál; o
 actionable l. sem varðar við lög; lögsekur
 active l. verklegur; ötull, framtakssamur; fjörugur; fimur; [an ~ volcano] óútbrunnið eldfjall; [the ~ voice] germynd sagna
 actively ao. í verkinu; öfluglega, kappsamlega
-activity n. framtakssemi; fjör; fimleiki
-actor n. gjörandi; leikari
+activity n. virkni, athafnasemi, framtakssemi; starfsemi, athafnir; fimleiki, hreyfing ([physical ~])
+actor n. leikari; gjörandi
 actress n. leikkona
 actual l. verulegur, raunverulegur; núverandi
 actuality n. veruleiki, raunveruleiki

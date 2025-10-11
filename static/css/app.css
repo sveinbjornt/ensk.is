@@ -211,6 +211,13 @@ a.result_link {
     margin-bottom: 20px;
 }
 
+.zoega-img {
+    float: right;
+    margin-left: 10px;
+    width: 33%;
+    filter: invert(0) !important;
+}
+
 #wordcats td a, #general_stats td a {
     text-decoration: none;
 }
