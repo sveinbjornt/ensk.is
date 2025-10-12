@@ -140,7 +140,7 @@ deafness n. heyrnarleysi
 deal n. gjöf í spilum; borð, planki (úr furu eða greni); hluti; [it's your ~] þú átt að gefa; [a good (great) ~] töluvert, mikið; ao. miklu ([a great ~ better]); s. úthluta, útbýta; gefa (í spilum); versla (með [in]); fást við, eiga (skipta) við ([with]); breyta ([~ honorably, cruelly with/by one]); [~ a blow] slá högg
 dealboard n. furuborð
 dealer n. gefandi (í spilum); kaupmaður; [a plain ~] vandaður maður; [small ~] smásali
-dealing n. hegðun háttalag; kaupverslun; nft. viðskipti, mök
+dealing n. hegðun háttalag; kaupverslun; nft. viðskipti ([~s])
 dean n. yfirprestur (við dómkirkju); prófastur; deildarforseti (við háskóla)
 deanery n. prófastsembætti; prófastsdæmi; prófastssetur
 deanship n. prófastsembætti
@@ -836,7 +836,7 @@ digest n. lögbók; s. raða niður; melta; íhuga; þola, sætta sig við; melt
 digester n. meltingarlyf
 digestible l. meltanlegur
 digestion n. melting ([easy of ~])
-digestive l. meltingar-; auðmeltur: n. meltingarlyf
+digestive l. meltingar-; auðmeltur; n. meltingarlyf
 digger n. grafari; gullgrafari
 digging n. gröftur; gullnáma
 digit n. tá, fingur; tölustafur

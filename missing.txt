@@ -1565,6 +1565,7 @@ pietist (endurskoða)
 voluntariness
 individuate
 bafflement
+construal
 misconstrual
 principate
 narratable
@@ -5860,3 +5861,17 @@ damaging
 granularity
 punter
 degrading
+anathemise
+anathemize
+bedamn
+unchurch
+whammy
+tumbleweed
+admonishment
+impertinently
+pertinently
+precipitately
+unibody
+dioxin
+molt
+filiality

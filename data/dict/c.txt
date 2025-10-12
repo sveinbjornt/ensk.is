@@ -739,7 +739,7 @@ China n. Kína; postulín
 Chinaman n. Kínverji
 chinch n. veggjalús
 chine n. hryggur af skepnu (með kjötinu á); hryggur, brún (á fjalli); lögg (á tunnu); s. höggva hrygginn, í stykki
-Chinese l. kínverskur: n. Kínverji; kínverska
+Chinese l. kínverskur; n. Kínverji; kínverska
 chink n. glasahljóð, málmhljóð; peningar; rifa, sprunga; andköf; [Chink] niðrandi orð um e-n af kínverskum uppruna; s. glamra, hringla; springa; troða í rifur; standa á öndinni (af hósta eða hlátri)
 chinky l. með sprungum, rifum; n. [Chinky] niðrandi orð um e-n af kínverskum uppruna
 chintz n. sirz
@@ -1412,7 +1412,7 @@ commentary n. útskýring; skýringarrit
 commentate s. útskýra
 commentation n. útskýring
 commentator n. útskýrari
-commerce n. verslun ([~ to the Baltic] verslun við Eystrasaltslöndin); viðskipti, mök ([illicit ~]); s. hafa mök við ([with])
+commerce n. verslun ([~ to the Baltic] verslun við Eystrasaltslöndin); viðskipti ([illicit ~]); s. hafa mök við ([with])
 commercial l. verslunarlegur, verslunar-
 commercial traveller n. farandsali
 commercial treaty n. verslunarsamningur

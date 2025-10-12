@@ -4032,6 +4032,7 @@ homophonous l. samhljóma; einradda
 homophony n. samhljómur, þegar hljóð eru eins
 soporific l. svæfandi; n. svefnlyf
 diatomite n. kísilgúr
+diatomaceous l. kísilgúrs-; [~ earth] kísilgúr (sjá %[diatomite]%)
 ablation n. blæsing, leysing, los; brottnám
 tessellate s. stykkja; tígla
 tessellation n. tíglun
@@ -9199,7 +9200,7 @@ tourmaline n. túrmalín (steintegund)
 cadency n. sjá %[cadence]%
 Mach n. Mach-tala (mælieining sem er margföldun á hljóðhraða)
 machination n. ráðabrugg (sjá %[machinations]%)
-commercialize s. gera að söluvöru, gera að markaðsvöru, markaðsvæða
+commercialize s. gera að söluvöru, gera að markaðsvöru, markaðsvæða, söluvæða
 commercialise s. sjá %[commercialize]%
 modified l. breyttur, ummyndaður (sjá %[modify]%)
 kilo- fsk. kíló-, þúsund (margföldun mælieiningar með þúsund, t.d. %[kilometre]%, %[kilowatt]%, o.s.frv.)
@@ -9751,10 +9752,16 @@ toboggan n. sleði
 teardrop n. (stakt) tár
 predatory lending n. okurlánastarfsemi
 depraved l. siðspilltur, gjörspilltur
-perverted l. afbakaður, rangsnúinn; spilltur; afvegaleiddur; perralegur
+perverted l. afbakaður, rangsnúinn; spilltur, siðspilltur; afvegaleiddur
 riff n. stef, lagabútur, laglína; tilbrigði (við [on])
 cash machine n. hraðbanki
 nomadism n. hjarðmennska, hirðingjalíf
 illegitimately ao. á ólögmætan hátt; án heimildar
 implike l. púkalegur, eins og lítill púki
 high-up l. hátt settur; n. hátt sett manneskja
+maleness n. karlmennska (yfirleitt %[masculinity]%)
+femaleness n. kvenmennska, kvenlegheit (yfirleitt %[femininity]%)
+swearword n. blótsyrði
+accusing l. ásakandi, lastandi, sakberandi ([an ~ tone])
+laminectomy n. liðbogaþynnunám
+rhinoplasty n. neflögun, neffegrunaraðgerð
