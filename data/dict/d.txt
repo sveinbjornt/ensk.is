@@ -690,7 +690,7 @@ deter s. hræða, fæla (frá [from])
 determent n. fráfæling
 deterge s. hreinsa (sár)
 detergent l. hreinsandi; n. hreinsiefni, þvottaefni
-deteriorate s. versna; gera verra; hraka; hnigna; rýrna ([~ in value])
+deteriorate s. versna; gera verra; hraka; hnigna; drabbast; rýrna ([~ in value])
 deterioration n. versnun, hnignun, rýrnun
 determinable l. sem verður ákveðinn; ákvarðanlegur, sem hægt er að ákvarða; útreiknanlegur, sannprófanlegur
 determinate l. fastákveðinn
