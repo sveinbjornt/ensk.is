@@ -1755,3 +1755,5 @@ sheepherder
 unvaned
 high-up
 implike
+tanager
+vigesimal

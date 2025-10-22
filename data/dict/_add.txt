@@ -1627,10 +1627,10 @@ futhark n. germanskt rúnaletur
 asshole n. rassgat; (óforml.) skíthæll, leiðindamanneskja ([he is such an ~])
 anus n. endaþarmsop, rassgat
 machine gun n. hríðskotabyssa
-Maxim gun n. hríðskotabyssa frá 19. öld ([Whatever happens, we have got the ~, and they have not])
-Gatling gun n. frumstæð hríðskotabyssa
+Maxim gun n. hríðskotabyssa frá 19. öld ([whatever happens, we have got the ~, and they have not])
+Gatling gun n. frumstæð hríðskotabyssa frá 19. öld
 gunslinger n. byssumaður; leigumorðingi
-howitzer n. e.k. fallbyssa
+howitzer n. fallbyssa, sprengjuvarpa
 machismo n. karlmennskustælar, ýkt eða yfirgengileg karlmennska; karlremba
 aircraft carrier n. flugmóðurskip
 cheetah n. blettatígur
@@ -9768,3 +9768,14 @@ rhinoplasty n. neflögun, neffegrunaraðgerð
 crepe n. sjá %[crêpe]%
 crêpe n. frönsk pönnukaka
 tumbleweed n. runnaflækja, sódaurt (planta sem ferðast með vindinum)
+karat n. sjá %[carat]%
+tanager n. táni, tangi (spörfuglategund)
+vigesimal l. tvítuga- ([~ system] tvítugakerfi); tuttugasti
+nebulizer n. úðari, úðatæki
+phlebitis n. bláæðabólga
+clumsily ao. klunnalega, klaufalega
+touchpad n. dregill (jaðartæki tölvu)
+bandana n. höfuðband
+escargot n. snígill (úr frönsku)
+strangled l. kyrktur
+trigonometric l. sjá %[trigonometrical]%
