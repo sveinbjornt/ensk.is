@@ -753,7 +753,7 @@ Gabon n. Gabon
 Gabonese l. gabonskur; n. Gaboni
 Gambia n. Gambía
 Gambian l. gambískur; n. Gambi, Gambíumaður
-Georgia n. Georgía
+Georgia n. Georgía (ríki í Kákasusfjöllum); Georgía (fylki í Bandaríkjunum)
 Georgian l. georgískur (frá landinu Georgíu); georgískur (arkítektúr í Bretlandi á 18. öld og fyrri hluta 19. aldar, kennt við konunga þess tíma); n. Georgíumaður; georgíska
 Germany n. Þýskaland
 Ghana n. Gana
@@ -8968,7 +8968,6 @@ Colorado n. Colorado (fylki í Bandaríkjunum)
 Connecticut n. Connecticut (fylki í Bandaríkjunum)
 Delaware n. Delaware (fylki í Bandaríkjunum)
 Florida n. Flórída (fylki í Bandaríkjunum)
-Georgia n. Georgía (fylki í Bandaríkjunum)
 Idaho n. Idaho (fylki í Bandaríkjunum)
 Illinois n. Illinois (fylki í Bandaríkjunum)
 Indiana n. Indiana (fylki í Bandaríkjunum)
@@ -9414,8 +9413,8 @@ criticise s. sjá %[criticize]%
 hippo n. flóðhestur (stytt. á %[hippopotamus]%)
 Torah n. Torah (helgirit gyðingdóms)
 phonotactics nft. hljóðskipunarfræði
-exaggerated l. ýktur, sem gert er of mikið úr
-eliminated l. útrýmdur, eyddur; brottrekinn, útrekinn
+exaggerated l. ýktur, sem gert er of mikið úr; yfirdrifinn
+eliminated l. útrýmdur, eyddur; brottrekinn, útrekinn, rekinn á brott
 botanic l. sjá %[botanical]%
 non-sequitur n. rökleiðsla þar sem niðurstaðan fylgir ekki út frá forsendum
 anthropophagy n. mannát
@@ -9688,7 +9687,6 @@ scruff n. hnakkadramb ([~ of his neck]); skegghýjungur
 accumulated l. uppsafnaður
 emancipationist n. frelsunarsinni, sá sem vill afnema þrælahald
 nucha n. hnakkadramb, hnakki
-draftsman n. tækniteiknari, fagteiknari
 draughtsman n. sjá %[draftsman]%
 draftsmanship n. tækniteiknilist (sjá %[draftsman]%)
 vlog n. myndbandablogg, vídjóblogg (sjá %[blog]%)
@@ -9804,3 +9802,5 @@ tethered l. tjóðraður
 untethered l. ótjóðraður
 emoji n. tjákn, tjámynd, lyndistákn (sjá %[emoticon]%)
 people person n. mannblendin manneskja, manneskja sem líður vel í félagsskap annarra
+solemness n. hátíðleiki; alvöruleiki; alvörugefni
+staidness n. ráðsetni, gætni (í fasi); alvörugefni
