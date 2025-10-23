@@ -324,7 +324,8 @@ conglomeration n. samsteypa
 conglomerated l. samsteyptur, samsettur
 cinema n. kvikmyndahús, bíó; kvikmyndalistin, kvikmyndabransinn
 entertainment industry n. skemmtanabransinn, afþreyingarbransinn
-stereotypical l. dæmigerður, sem fylgir staðalmynd, staðalmyndar-
+stereotypic l. sjá %[stereotypical]%
+stereotypical l. dæmigerður, sem fylgir staðalmynd, staðalmyndar-, staðalmyndarlegur
 sociological l. (sam)félagsfræðilegur, félagsvísindalegur
 sociologist n. (sam)félagsfræðingur
 social science n. félagsvísindi
@@ -368,7 +369,7 @@ paedophilia n. barnagirnd, barnaníð
 pedophilia n. sjá %[paedophilia]%
 cyberspace n. netheimar
 mockumentary n. grín- eða háðmynd í sniði heimildarmyndar, heimildarháðmynd
-emoticon n. lyndistákn, tjákn
+emoticon n. tjákn, tjámynd, lyndistákn
 hyperlink n. tengill (á veraldarvefnum)
 smiley n. broskarl (tákn); l. glaðlyndur; brosandi
 spam n. ruslpóstur; unnin kjötvara í niðursuðudósum; s. senda ruslpóst
@@ -4736,6 +4737,7 @@ exfoliative l. afblöðunar-, flögnunar-, sem lýtur að flögnun
 diva n. díva, söngstjarna, söngdrottning, tónlistarkona sem nýtur mikillar frægðar og aðdáunar; sterk, sjálfsörugg manneskja sem krefst mikils og vekur mikla athygli
 sepsis n. blóðsótt, blóðsýking; graftarsótt, sýklasótt
 perturbed l. truflaður, ringlaður, raskaður
+perturbing l. truflandi, ringlandi, raskandi
 unperturbed l. ótruflaður, óraskaður, óringlaður
 unturbulent l. kyrr, ekki ókyrr; stýrilátur
 debug s. aflúsa, kemba, villukemba (leiðrétta villur í hugbúnaði)
@@ -5810,7 +5812,7 @@ isolable l. sem hægt er að einangra, einangranlegur (sjá %[isolate]%)
 isolating l. einangrandi
 insulating l. einangrandi
 cyberwarfare n. rafrænn hernaður, tölvuhernaður, nethernaður
-Revelations nft. [Book of Revelation] opinberunarbók Jóhannesar (í biblíunni)
+Revelations nft. [Book of Revelation] opinberunarbók Jóhannesar (í Biblíunni)
 colonoscopy n. ristilspeglun
 cellist n. sellóleikari
 Dionysian l. díónýsískur
@@ -7456,7 +7458,7 @@ grammatician n. málfræðingur
 lethally ao. á banvænan hátt
 conveniently ao. hentuglega, þægilega
 protohistoric l. frumsögulegur, frumsagnfræðilegur
-Samaritan n. Samverji; [the Good Samaritan] miskunnsami Samverjinn (úr Biblíunni); manneskja sem hjálpar ókunnugum
+Samaritan n. Samverji; [the Good Samaritan] miskunnsami Samverjinn (úr Biblíunni); manneskja sem hjálpar ókunnugum, góðgerðarmaður
 dysarthria n. tormæli, þvoglumæli, framsagnartregða
 bronchus n. berkja, lungnapípa
 hermaphroditic l. tvítólaður, með kynfæri beggja kynja; tvíkynja
@@ -9779,3 +9781,26 @@ bandana n. höfuðband
 escargot n. snígill (úr frönsku)
 strangled l. kyrktur
 trigonometric l. sjá %[trigonometrical]%
+nephilim nft. nefilím, risar, risaverur (úr Biblíunni)
+acidosis n. blóðsýring
+madwoman n. óð kona, vitstola kona (sbr. %[madman]%)
+ataraxia n. sálarró, hugarró
+stranded l. strandaður, sem rekið hefur á land
+spiel n. kjaftæði, mas, málæði (BNA, óforml.); [same old ~] sama gamla þulan
+bedamn s. bölva, formæla
+margarita n. margaríta (kokteill)
+blunted l. gerður bitlaus, sljóvgður, deyfður
+paperclip n. bréfaklemma
+septic l. graftar-, ígerðar-; rot- (sjá t.d. %[septic tank]%)
+septic tank n. rotþró
+temperately ao. hófsamlega, hóflega; á tempraðan hátt
+intemperately ao. óhófsamlega; óreglusamlega; án stillingar
+gazebo n. garðskáli, lystiskáli
+uncommunicative l. ómálgefinn, ómálugur
+VR n. sýndarveruleiki (stytt. á %[virtual reality]%)
+virtual reality n. sýndarveruleiki
+deputize s. skipa sem fulltrúa; skipa sem staðgengil
+tethered l. tjóðraður
+untethered l. ótjóðraður
+emoji n. tjákn, tjámynd, lyndistákn (sjá %[emoticon]%)
+people person n. mannblendin manneskja, manneskja sem líður vel í félagsskap annarra
