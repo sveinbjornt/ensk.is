@@ -3863,7 +3863,8 @@ scooter n. vespa, létt bifhjól; hlaupahjól; [electric ~] rafhlaupahjól, rafs
 astrodynamics n. geimbrautafræði
 astrodynamic l. geimbrautafræðilegur, geimbrauta-
 hellhound n. vítishundur, heljarhundur
-aneurysm n. slagæðargúlpur
+aneurysm n. æðahnútur, blóðæðabólga, slagæðargúlpur
+aneurysmal l. sem lýtur að æðahnútum
 metrology n. mælitækni
 antimony n. antímon (frumefnið Sb, 51 í lotukerfinu)
 chiropodist n. fótaaðgerðafræðingur
@@ -9804,3 +9805,14 @@ emoji n. tjákn, tjámynd, lyndistákn (sjá %[emoticon]%)
 people person n. mannblendin manneskja, manneskja sem líður vel í félagsskap annarra
 solemness n. hátíðleiki; alvöruleiki; alvörugefni
 staidness n. ráðsetni, gætni (í fasi); alvörugefni
+kazoo n. kasú (munnblásturshljóðfæri)
+optokinetic l. sjónhreyfi-
+chewer n. tyggjari; tóbakstyggjari
+enantiomer n. handhverfa
+wazoo n. rassgat (óforml.)
+cummerbund n. mittisband
+manoeuvrability n. sjá %[maneuverability]%
+maneuver n. sjá %[manoeuvre]%
+manoeuver n. sjá %[manoeuvre]%
+stovepipe n. ofnpípa; pípuhattur ([~ hat])
+investigatory l. rannsóknar- ([~ powers, committee])

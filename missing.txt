@@ -379,8 +379,6 @@ marginalized
 baffle (endurskoða)
 baffling
 knitter
-maneuver
-manoeuver
 pinpoint
 tabloid
 fabled
@@ -1216,13 +1214,11 @@ locational
 stymie
 rollback
 survivalist
-stovepipe
 newscaster
 symbolization
 accelerationism
 boogaloo
 unwinnable
-investigatory
 supermajority
 officeholder
 birdshot
@@ -5705,7 +5701,6 @@ timeshare
 ashram
 ribbing
 transmissive
-chewer
 howler
 soother
 arranged
@@ -5875,5 +5870,11 @@ discarnate
 Hospitaller
 reduced
 deprecated
-optokinetic
-people person
+isomer
+fitment
+oleander
+blatantly
+planchette
+brooding
+baroreceptor
+locker room
