@@ -363,6 +363,7 @@ camcorder n. lítil kvikmyndatökuvél (samsett úr %[camera]% og %[recorder]%)
 anarcho-capitalism n. anarkó-kapítalismi (sú stjórnmálastefna að afnema ríkið og færa allar þjónustur í hendur einkaaðila)
 anarcho-capitalist n. anarkó-kapítalisti, fylgismaður anarkó-kapítalisma (sjá %[anarcho-capitalism]%)
 biodome n. lífhvelfing (lokað vistkerfi í hvelfingu)
+paedo n. barnaperri (stytt. á %[paedophile]%)
 paedophile n. barnaníðingur, barnaperri, e-r sem er haldinn barnagirnd
 pedophile n. sjá %[paedophile]%
 paedophilia n. barnagirnd, barnaníð
@@ -6712,7 +6713,7 @@ backstreet n. bakstræti
 alleyway n. húsasund, öngstræti, stígur
 diminishment n. minnkun
 Solomonic l. Salómons-
-Tyrrhenian n. Tyrrenahaf
+Tyrrhenian n. Tyrrenahaf ([the ~ Sea])
 North Sea n. Norðursjór
 English Channel n. Ermarsund (sundið milli Englands og Frakklands)
 quixotically ao. lygilega, á fjarstæðukenndan hátt (sjá %[quixotic]%)
@@ -9816,3 +9817,21 @@ maneuver n. sjá %[manoeuvre]%
 manoeuver n. sjá %[manoeuvre]%
 stovepipe n. ofnpípa; pípuhattur ([~ hat])
 investigatory l. rannsóknar- ([~ powers, committee])
+brolly n. regnhlíf (breskt, óforml.)
+episiotomy n. skapaskurður
+baking soda n. matarsódi
+hagfish n. slímáll (fisktegund)
+galvanometer n. rafstraumsmælir
+rheometry n. rafstraumsmælingar
+rheometric l. rafstraumsmælinga-
+rheostat n. renniðviðnám; viðnámstæki
+scry s. spá fyrir um framtíðina með hjálp kristalkúlu
+planchette n. lítill planki; e.k. andaborð
+heartthrob n. hjartaknúsari; hjartsláttur
+blatantly ao. blygðunarlaust, á blygðunarlausan hátt
+oleander n. lárviðarrós
+baroreceptor n. þrýstinemi, þrýstingsnemi; blóðþrýstingsnemi
+locker room n. búningsklefi, búningsherbergi
+Hospitaller n. spítalariddari, Jóhannesarriddari (kaþólsk riddararegla miðalda, [the Knights ~])
+rheumy l. gigtar-; nefrennslis-
+run-down l. niðurníddur, hrörlegur; útkeyrður, úrvinda

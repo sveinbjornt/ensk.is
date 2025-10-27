@@ -792,8 +792,8 @@ diamond-cutter n. demantaslípari
 diaper n. bleyja; rósað léreft; handklæðadúkur; þurrka, handklæði; s. vefa rósir í, skreyta rósamyndum
 diaphanous l. gagnsær
 diaphragm n. þind
-diarrhea n. niðurgangur, lífsýki
-diarrheal l. niðurgangs-, lífsýkis-
+diarrhea n. niðurgangur
+diarrheal l. niðurgangs-
 diarist n. dagbókarhöfundur
 diary n. dagbók
 diatribe n. orðadeila; skammaræða

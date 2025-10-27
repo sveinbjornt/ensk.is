@@ -1766,3 +1766,6 @@ enantiomer
 optokinetic
 solemness
 staidness
+Hospitaller
+rheometric
+rheometry
