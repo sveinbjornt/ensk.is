@@ -2069,6 +2069,7 @@ middleman n. milligönguaðili, milligöngumaður, milliliður
 sibling n. systkin
 reinvent s. enduruppgötva
 reinvention n. enduruppgötvun
+reinvented l. enduruppgötvaður
 weather-beaten l. veðurbarinn
 anthropogenic l. manngerður, mannmótaður, af manna völdum
 fertilizer n. áburður
@@ -3395,6 +3396,7 @@ syncratic l. samstilltur
 bacteriological l. gerlafræðilegur, bakteríufræðilegur
 melioidosis n. snifubróðir
 encephalitis n. heilabólga
+encephalitic l. með heilabólgu, heilabólgu-
 brucellosis n. öldusótt
 adenoid l. kirtil-, kirtillíkur, kirtla-, eitla-
 pathogen n. meinvaldur; sýkill
@@ -3947,6 +3949,7 @@ semiological l. táknfræðilegur
 heterogeneity n. misleitni
 anxiogenic l. kvíðavaldandi; n. kvíðavaldandi lyf
 anxiolytic l. kvíðastillandi; n. kvíðastillandi lyf
+anxiolysis n. kvíðastilling, róun (með lyfjagjöf)
 psychopathology n. sálsýkisfræði; sálsýki
 maladjustment n. mishæfing, aðlögunarörðugleikar
 transnational l. þverþjóðlegur, fjölþjóðlegur, sem nær þvert yfir landamæri þjóða
@@ -9850,3 +9853,19 @@ beatnik n. bítnikki (uppreisnarmaður gegn viðteknum gildum, maður sem fer s�
 removable l. fjarlægjanlegur, sem hægt er að fjarlægja; færanlegur, flytjanlegur
 bayberry n. myrta (runnategund)
 ionized l. jónaður
+sunroof n. sóllúga, sólþak, þakgluggi
+fibrosis n. bandvefsmyndun
+cystic fibrosis n. slímseigjukvilli (sjúkdómur)
+devitalize s. deyða; draga lífsþrótt úr
+cuff link n. skyrtuhnappur, ermahnappur
+box cutter n. hnífur til að opna kassa
+corroborated n. staðfestur
+hillcrest n. hátindur hóls, hátindur hæðar
+weirdness n. furðulegheit, skringilegheit (sjá %[weird]%)
+engulfed l. gleyptur, kaffærður
+discarnate l. án líkama, óholdgerður
+granularity n. það að vera kornóttur, kornótt áferð (sjá %[granular]%)
+damaging l. skaðandi, skemmandi, valdandi tjóni
+meteorism n. belgingur, uppþemba
+jingoist n. þjóðskrumari, þjóðrembingsmaður
+jingoistic l. þjóðrembulegur, þjóðrembingslegur, þjóðrembu-
