@@ -3238,6 +3238,7 @@ asphyxiating l. kafnandi; kæfandi; skortandi súrefni
 asphyxiant n. kæfiefni; l. kæfandi, kæfi-
 mitochondrion n. hvatberi, kyndikorn, orkukorn (frumulíffæri)
 mitochondrial l. hvatbera- (sjá %[mitochondrion]%)
+dehumanise s. sjá %[dehumanize]%
 dehumanize s. afmennska
 dehumanization n. afmennskun
 dehumanizing l. afmennskandi
@@ -6033,7 +6034,7 @@ excommunicator n. bannfærari
 whistleblower n. uppljóstrari
 whistleblowing n. uppljóstrun, afhjúpun
 neurotoxin n. taugaeitur
-dismembered l. sundurlimaður
+dismembered l. sundurlimaður, slitinn í sundur
 dismembering n. sundurlimun
 exacerbated s. æstur, egndur, ertur, gerður verri
 moocher n. afæta, sníkjudýr, e-r sem lifir af öðrum, beiningamaður, betlari
@@ -9869,3 +9870,32 @@ damaging l. skaðandi, skemmandi, valdandi tjóni
 meteorism n. belgingur, uppþemba
 jingoist n. þjóðskrumari, þjóðrembingsmaður
 jingoistic l. þjóðrembulegur, þjóðrembingslegur, þjóðrembu-
+impertinently ao. ósvífnislega, á óskammfeilinn hátt
+blowhard n. montari, gortari, raupari (óforml.)
+toughened l. hertur, gerður seigur ([he was ~ by the experience])
+ecclesiology n. kirkjufræði
+ecclesiologist n. kirkjufræðingur
+ecclesiological l. kirkjufræðilegur
+ecclesiologically ao. kirkjufræðilega
+deconsecrate s. afhelga, afvígja
+blackwood n. svartviður, dökkur viður
+sea bass n. vartari (fisktegund)
+manginess n. kláðalegt eða slitrótt ástand; sóðaskapur
+unwiseness n. óviturleiki, vanhyggja
+interest rate n. vextir, vaxtaprósenta; stýrivextir (seðlabanka)
+exchange rate n. gengi, skiptigengi (gjaldmiðils)
+blueprint n. vinnuteikning; frumgerð, frumhönnun; ljósrit af frumgerðarteikningu; áætlun
+flaggelate s. hýða, húðstrýkja
+flagellant n. hýðari, húðstrýkjari
+unmoved l. óhreyfður; ósnortinn
+unplug s. taka úr sambandi; taka tappa úr
+trans- fsk. þvert yfir (t.d. [trans-Atlantic]); í gegnum (t.d. %[transparent]%, %[translucent]%)
+trans-Atlantic l. þvert yfir Atlantshafið
+unidentified l. sem ekki er búið að bera kennsl á, óþekktur
+soya n. sjá %[soy]%
+teeny l. pinkulítill, örlítill
+en route ao. á leiðinni (úr frönsku)
+culottes nft. buxnapils (úr frönsku)
+unstuck l. losnaður; [to become ~] losna
+SOS n. neyðarkall, áriðandi beiðni um hjálp (í morskóða)
+self-preservation n. sjálfsbjargarviðleitni, sjálfsbjörg

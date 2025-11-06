@@ -652,7 +652,7 @@ lifelike
 panzootic
 replicate
 replication (endurskoða)
-flagellant
+replicant
 regrettable
 parisis
 chaperon
@@ -666,7 +666,6 @@ mangonel
 tantalizing
 manoeuvrable
 auspex
-blueprint
 longhand
 blotless
 gruntled
@@ -1166,7 +1165,6 @@ noninterventionist
 everyman
 trick (endurskoða, vis-a-vis vændi)
 tricky
-self-preservation
 high-mindedness
 high-minded (endurskoða)
 psychologism
@@ -2077,7 +2075,6 @@ circuitry
 macro-aggression
 micro-aggressions
 widescale
-trans-Atlantic
 depoliticization
 repoliticization
 self-regulate
@@ -2124,7 +2121,6 @@ bleacher
 de facto
 de jure
 strappado
-trans-
 positivistic
 suprahistorical
 presentist
@@ -5522,8 +5518,6 @@ cargo hold
 deferment
 deferral
 legal injury
-interest rate
-exchange rate
 hedge fund
 mutual fund
 quantitative easing
@@ -5579,7 +5573,6 @@ head-to-head
 roadstead (endurskoða)
 degenerate (endurskoða, nafnorð)
 lyssa
-unwiseness
 betise
 bodied
 kabbalistic
@@ -5621,7 +5614,6 @@ securities industry
 sickening
 sickish
 tophus
-manginess
 handlock
 turnup
 whomp
@@ -5665,7 +5657,6 @@ gamely
 Dauphin
 acculturation
 unintended
-sea bass
 victualling
 tallitot
 paranormality
@@ -5725,10 +5716,8 @@ transfixed
 grafter
 curated
 polarizing
-blackwood
 vaporization
 vapourization
-deconsecrate
 unhallow
 unconsecrated
 unsanctified
@@ -5737,8 +5726,6 @@ unbank
 sculptured
 objectivism
 Objectivism
-ecclesiology
-ecclesiologist
 tensor
 wakefulness
 mesocarp
@@ -5760,8 +5747,6 @@ traversal
 transmittable
 transferral
 towline
-toughened
-blowhard
 buyback
 cloaca
 clubhouse
@@ -5829,7 +5814,6 @@ anathemize
 unchurch
 whammy
 admonishment
-impertinently
 pertinently
 precipitately
 unibody
@@ -5872,3 +5856,7 @@ syntonic
 histidine
 reflectionist
 capsulate
+psychosocial
+pacesetter
+proxied
+diegetic
