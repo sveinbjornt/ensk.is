@@ -5380,6 +5380,7 @@ yuan n. júan (kínverskur gjaldmiðill)
 renminbi n. júan (kínversk gjaldmiðill)
 octane n. oktan
 hooligan n. dólgur, ófriðarseggur
+hooliganism n. dólgsháttur, ófriðsemi
 football hooligan n. fótboltabulla
 myxedema n. slímbjúgur
 summarise s. sjá %[summarize]%
@@ -9899,3 +9900,19 @@ culottes nft. buxnapils (úr frönsku)
 unstuck l. losnaður; [to become ~] losna
 SOS n. neyðarkall, áriðandi beiðni um hjálp (í morskóða)
 self-preservation n. sjálfsbjargarviðleitni, sjálfsbjörg
+subnormal l. undir því sem telst eðlilegt, undir meðallagi
+snack n. snakk (kartöfluflögur, salstangir og því um líkt); snarl, matarbiti; lítil máltíð; s. fá sér snarl, snarla
+intersex n. millikyn ódæmigerð kyneinkenni
+intersexuality n. millikyn
+subtext n. undirtexti; undirliggjandi merking í texta
+subtextual l. undirtexta-; er varðar undirliggjandi merkingu í texta
+blatancy n. blygðunarleysi
+bum n. afturendi, rass; ræfill, aumingi, slæpingi, róni, flækingur, götumaður; l. slæmur, illa haldinn, laskaður ([he's got a ~ leg]); s. betla, sníkja ([can I ~ a cigarette off you?])
+appealing l. aðlaðandi, heillandi, sem höfðar til
+unappealing l. óaðlaðandi, óheillandi, sem höfðar ekki til
+unobtrusively ao. á óáberandi hátt, á óáleitinn hátt
+homeschool s. mennta heima fyrir
+homeschooled l. menntaður heima fyrir, heimaskólagenginn
+miseducation n. rangmenntun, vanmenntun
+trigeminy n. þrítaktur
+trigmeninal l. þrenndar-, þríbura-; [~ nerve] þrenndartaug

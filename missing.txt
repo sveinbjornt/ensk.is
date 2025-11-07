@@ -1330,7 +1330,6 @@ reset
 buzzer
 escapist
 earhole
-subtext
 realness
 minimalist
 minimalism
@@ -3523,7 +3522,6 @@ bitchy
 extractor
 pronatalism
 extraocular
-miseducation
 acedia
 pillock
 educatee
@@ -3563,7 +3561,6 @@ devilment
 diachronic
 canoodle
 polychronic
-homeschooled
 cherished
 zoomer
 bustling
@@ -3617,7 +3614,6 @@ halfpence
 throttled
 indignantly
 unthought
-unobtrusively
 compter
 intuitive (endurskoða)
 boosted
@@ -3660,8 +3656,6 @@ murmur (endurskoða)
 talesman
 tales
 tuyeres
-appealing
-unappealing
 sponge off (endurskoða sponge)
 sweatshop
 handwaving
@@ -3678,7 +3672,6 @@ ashcan
 scruples
 badass
 epithelial
-bum
 unreservedly
 competently
 incompetently
@@ -3689,7 +3682,6 @@ turbocharge
 irreputable
 rambunctious
 rambunctiousness
-blatancy
 autonomic
 unfulfilled
 caduceus
@@ -3712,7 +3704,6 @@ Procrustean
 outpocketing
 sniffle
 strudel
-langourous
 vernix
 performative
 fundus
@@ -3720,11 +3711,7 @@ jumbo
 limbic
 heartwarming
 payload
-intersex
-intersexuality
-snack
 snacking
-subtextual
 minidisk
 minivan
 minibar
@@ -5860,3 +5847,5 @@ psychosocial
 pacesetter
 proxied
 diegetic
+scavenging
+timocracy
