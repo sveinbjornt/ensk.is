@@ -390,10 +390,10 @@ catfish n. steinbítur
 catgut n. þarmastrengur á hljóðfæri, girni
 cathartic l. hreinsandi, geðhreinsandi; búkhreinsandi; n. búkhreinsunarlyf
 cathedra n. biskupssæti í kirkju; biskupsstóll
-cathedral l. biskupslegur; n. dómkirkja, höfuðkirkja
+cathedral n. dómkirkja, höfuðkirkja; l. biskupslegur
 catheter n. þvagpípa
 catholic l. almennur
-Catholic n. kaþólskur maður l. kaþólskur; [Catholic priest] kaþólskur prestur
+Catholic l. kaþólskur; n. kaþólskur maður; [~ priest] kaþólskur prestur; [~ church] kaþólsk kirkja
 Catholicism n. kaþólsk trú, kaþólska
 catholicity n. frjálslyndi
 catkin n. hreisturblóm

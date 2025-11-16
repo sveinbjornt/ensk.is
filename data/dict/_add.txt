@@ -5725,6 +5725,7 @@ unicameralism n. sú stefna að hafa löggjafarþing í einni deild (þ.e.a.s. e
 ultraviolet l. útfjólublár, útblár; [~ light] útfjólublátt ljós; n. útblámi
 UV l. útfjólublár, útblár (stytt. á %[ultraviolet]%)
 ultraviolet light n. útfjólublátt ljós
+ultraviolet radiation n. útfjólublá geislun, útblámageislun
 stock market n. hlutabréfamarkaður, verðbréfamarkaður, kauphöll
 upstate l. norðar í fylkinu, í upphéröðum, nyrðra (BNA)
 Iliad n. Ilíonskviða ([the ~])
@@ -6023,7 +6024,8 @@ roughneck n. ruddi, groddi, rusti, þjösni; verkamaður
 redneck n. sveitadurgur, sveitalubbi, sveitavargur, durtur
 disarticulate s. aflima, stýfa
 disarticulation n. stýfing, aflimun
-misallocation n. röng úthlutun, misúthlutun
+misallocation n. röng úthlutun
+misallocate s. úthluta á rangan hátt
 cojones nft. eistu; kjarkur, hugrekki
 demonology n. djöflafræði
 demonologist n. djöflafræðingur
@@ -7193,7 +7195,8 @@ Ash Wednesday n. öskudagur
 headword n. fletta, uppflettiorð, uppsláttarorð (í orðabók)
 domestic animal n. húsdýr
 tranquilized l. róaður (með lyfjum), sefaður, huggaður
-scavenge s. nærast á hræjum; safna skrani; sópa, hreinsa (götur)
+scavenge s. nærast á hræjum; hirða, safna (skrani); sópa, hreinsa (götur)
+scavenging n. hræát; að leita að æti; söfnun (á skrani), skransöfnun
 anesthetic n. sjá %[anaesthetic]%
 mouthwash n. munnskol
 Calvinistic l. kalvínskur, kalvínstrúar-
@@ -9916,3 +9919,4 @@ homeschooled l. menntaður heima fyrir, heimaskólagenginn
 miseducation n. rangmenntun, vanmenntun
 trigeminy n. þrítaktur
 trigmeninal l. þrenndar-, þríbura-; [~ nerve] þrenndartaug
+semaphore n. bendimerki, merkjasending, merkjakerfi
