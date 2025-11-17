@@ -3220,7 +3220,7 @@ Hegelian l. hegelískur, sem tengist kenningum þýska heimspekingsins G. W. F. 
 historically ao. sögulega
 moneylender n. (okur)lánari, lánardrottinn
 deforestation n. skógeyðing, skógareyðing, eyðing skóga
-diplomat n. stjórnarerindreki, ríkiserindreki, diplómati
+diplomat n. stjórnarerindreki, ríkiserindreki, diplómati; e-r sem er háttvís eða lipur í samskiptum
 Baltic n. Eystrasaltið ([the ~ Sea]); Eystrasalts-; [the ~ states] Eystrasaltsríkin
 fermented l. gerjaður; sýrður
 shipyard n. slippur, skipasmíðastöð
@@ -9923,8 +9923,32 @@ semaphore n. bendimerki, merkjasending, merkjakerfi
 megastar n. stórstjarna
 nous n. vit, skynsemi, skarpskyggni; hugur
 spiffy l. penn, snotur, vel til fara, pent eða snyrtilega klæddur (óforml.)
-spiff n. snoturleiki, snyrtimennska, sá eiginleiki að vera penn til fara eða snyrtilega klæddur (óforml.)
+spiff n. snoturleiki, snyrtimennska, sá eiginleiki að vera penn til fara eða snyrtilega klæddur (óforml.); þokki, sjarmi; n. snyrtilega klæddur maður (óforml.)
 mizzenmast n. afturmastur, messanmastur (á skipi)
+mizenmast n. sjá %[mizzenmast]%
 lysis n. rof, sundrun, leysing
 lysogeny n. veirubinding
 lysogenic l. veirubindandi, veirubundinn
+parasympathetic l. sefkeris-, hjásemju-, utansemju; [parasympathetic system] sefkerfi (heilans)
+nomenclatural l. iðnheita-, vísindaheita-; nafnaskrár-
+bipod n. tvífótur, tvífætla, tvífætlingur
+luster n. sjá %[lustre]%
+derailed l. settur út af brautarteinum, farinn út af brautarteinum; afvegaleiddur
+shindig n. samkoma, samkvæmi, partí; dansveisla, danspartí
+hypochondriasis n. ímyndunarveiki
+chastening n. refsing; sefun, temprun; hreinsun, skírn; l. sefjandi, temprandi; refsandi
+harbormaster n. sjá %[harbourmaster]%
+harbourmaster n. hafnarstjóri, hafnarvörður
+pitilessness n. miskunnarleysi, harðbrysti
+coveted l. þráður, eftirsóttur, sem vekur ágirnd
+shoddily ao. illa, lélega, á óvandaðan máta
+bulkhead n. skilrúm (í skipi), skilrúmsþilfar; varnarveggur
+squeaking n. tíst, hvín ([she heard ~ under the floorboards]); l. tístandi; hvínandi
+chanteuse n. söngkona
+brittleness n. stökkleiki, brothætta
+underrated l. vanmetinn; verðsettur of lágt
+ampersand n. og-lykkja (táknið [&])
+rhinestone n. gervigimsteinn úr gleri eða plasti
+diphthongia n. tvíhljóðun
+diplophonia n. tvíhljóðun
+undiplomatic l. óháttvís eða ólipur í samskiptum; ódiplómatískur; án stjórnkænsku

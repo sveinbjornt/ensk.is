@@ -582,7 +582,7 @@ depute s. senda (með umboði); fela á hendur
 deputy n. fulltrúi, erindreki; [Chamber of Deputies] neðri málstofan (í Frakklandi og víðar)
 deputy chairman n. varaformaður
 deracinate s. rífa upp með rótum, uppræta
-derail s. setja (fara) út af brautarteinunum
+derail s. setja (fara) út af brautarteinunum; afvegaleiða
 derange s. raska, rugla; aflaga; sturla
 deranged l. sturlaður, ruglaður
 derangement n. rugl; ringl; röskun, truflun; sturlun ([mental ~])
@@ -903,7 +903,7 @@ dipetalous l. tvíblaðaður (um blóm)
 diphtheria n. barnaveiki (e.k. hálsveiki)
 diptheritis n. barnaveiki (e.k. hálsveiki)
 diphthong n. tvíhljóður
-diploma n. skjal; fornskjal
+diploma n. prófskírteini; vottorð, skírteini; skjal
 diplomacy n. ríkiserindrekstur, diplómasía; stjórnkænska; háttvísi í samskiptum
 diplomatic l. diplómatískur, utanríkisþjónustu-; stjórnkænn, stjórnkænskulegur; háttvís í samskiptum; stafréttur ([~ copy])
 diplomatist n. stjórnarerindreki; stjórnvitringur
