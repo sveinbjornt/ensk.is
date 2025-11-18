@@ -910,7 +910,7 @@ inheritance n. arfur, erfð, erfðahlutur; arfleifð; [by ~] að erfðum
 inheritor n. erfingi
 inheritress n. kvennerfingi
 inhesion n. ívera
-inhibit s. aftra, hindra; banna
+inhibit s. aftra, hindra, hefta, hemja; banna
 inhibition n. hindrun; bann
 inhibitory l. aftrandi, hindrandi
 inhospitable l. ógestrisinn
@@ -1130,7 +1130,7 @@ insupportable l. óþolandi, óbærilegur ([to become ~])
 insurable l. vátryggjanlegur
 insurance n. vátrygging, trygging
 insure s. vátryggja, tryggja
-insurgent n. uppreisnarmaður; l. uppreisnar-; uppreisnargjarn
+insurgent n. uppreisnarmaður; l. uppreisnar-; uppreisnargjarn; andófs-, mótspyrnu-
 insurmountable l. óyfirstiganlegur, óvinnandi ([an ~ difficulty])
 insurrection n. uppreisn
 insurrectional l. uppreisnar-; uppreisnargjarn

@@ -538,6 +538,7 @@ updated l. uppfærður
 upgrade s. uppfæra; n. uppfærsla
 upgraded l. uppfærður
 insurgency n. uppreisn
+insurgence n. uppreisn
 dynastic l. ættar-, konungsættar-, aðalsættar-
 hypertension n. háþrýstingur; óvenjulega hár blóðþrýstingur
 hyperventilate s. anda of hratt, ofanda
@@ -983,6 +984,7 @@ tsar n. Rússlandskeisari
 tsarina n. Rússlandskeisaradrottning
 unsubscribe s. segja upp áskrift ([~ from the newsletter] segja upp áskrift að fréttabréfi)
 camouflage n. felulitur, felubúningur, dulbúningur, dulklæði; s. felulita, felubúa, dulbúa, dulklæða
+camouflaging n. felulitun, dulklæðning
 endangered l. í hættu, í voða; [~ species] dýrategund í útrýmingarhættu
 occupational l. starfs-, atvinnu-; [~ hazard] atvinnuáhætta, áhætta sem fylgir e-i starfsemi
 endogenous l. kominn innan frá (lífveru)
@@ -1284,6 +1286,7 @@ cosmology n. heimsfræði, heimsmyndarfræði
 cosmological l. heimsfræðilegur, heimsmyndarfræðilegur
 ontology n. verufræði
 ontological l. verufræðilegur
+ontologically ao. verufræðilega
 ontologist n. verufræðingur
 metaphilosophy n. heimspeki heimspekinnar, heimspekileg skoðun á aðferðum heimspekinnar
 natural philosophy n. náttúruspeki, náttúruvísindi ([the ~ of Isaac Newton])
@@ -5328,7 +5331,8 @@ cellophane n. sellófan
 brinkmanship n. að tefla á tæpasta vað, hættuspil
 mononymous l. með eitt nafn
 mononymously ao. undir einu nafni, með einu nafni
-dendrite n. gripla, taugafrumugripla
+dendrite n. gripla, dendríti; taugafrumugripla
+dendritic l. greinóttur, kvíslóttur, dendritískur; anga-; griplu-
 extrauterine l. utanlegs-
 Latino l. rómansk-amerískur; n. manneskja frá Rómönsku Ameríku
 undervaluation n. vanmat; of lág verðlegging
@@ -6275,6 +6279,7 @@ minarchism n. lágmarksríkisstefna
 minarchist n. lágmarksríkissinni
 well-off l. vel stæður
 heart disease n. hjartasjúkdómur
+heart attack n. hjartaáfall
 eyepatch n. augnleppur, leppur fyrir auga
 incomprehensibility n. óskiljanleiki
 unsymmetrical l. ekki samhverfur (andstæðan við %[symmetrical]%)
@@ -8521,6 +8526,7 @@ livermorium n. livermórín (frumefnið Lv, 116 í lotukerfinu)
 tennessine n. tennesín (frumefnið Ts, 117 í lotukerfinu)
 oganesson n. oganessín (frumefnið Og, 118 í lotukerfinu)
 tungsten n. tungsten, volfram, wolfram (frumefnið W, 74 í lotukerfinu)
+plutonium bomb n. plútonsprengja
 Circassian n. Sirkasíumaður, Sjerkesi (kákasískt þjóðarbrot kennt við Sirkasíu við botn Svartahafs)
 rubberlike l. gúmmíkenndur, eins og gúmmí
 rubberiness n. gúmmíkennd, það að vera eins og gúmmi
@@ -9771,7 +9777,7 @@ illegitimately ao. á ólögmætan hátt; án heimildar
 implike l. púkalegur, eins og lítill púki
 high-up l. hátt settur; n. hátt sett manneskja
 maleness n. karlmennska (yfirleitt %[masculinity]%)
-femaleness n. kvenmennska, kvenlegheit (yfirleitt %[femininity]%)
+femaleness n. kvenmennska, kvenleiki (yfirleitt %[femininity]%)
 swearword n. blótsyrði
 accusing l. ásakandi, lastandi, sakberandi ([an ~ tone])
 laminectomy n. liðbogaþynnunám
@@ -9813,7 +9819,7 @@ tethered l. tjóðraður
 untethered l. ótjóðraður
 emoji n. tjákn, tjámynd, lyndistákn (sjá %[emoticon]%)
 people person n. mannblendin manneskja, manneskja sem líður vel í félagsskap annarra
-solemness n. hátíðleiki; alvöruleiki; alvörugefni
+solemness n. hátíðleiki; alvarleiki; alvörugefni
 staidness n. ráðsetni, gætni (í fasi); alvörugefni
 kazoo n. kasú (munnblásturshljóðfæri)
 optokinetic l. sjónhreyfi-
@@ -9831,8 +9837,9 @@ episiotomy n. skapaskurður
 baking soda n. matarsódi
 hagfish n. slímáll (fisktegund)
 galvanometer n. rafstraumsmælir
-rheometry n. rafstraumsmælingar
-rheometric l. rafstraumsmælinga-
+rheometer n. straummælir; rennslismælir
+rheometry n. straummæling; rennslismæling
+rheometric l. straumsmælinga-; rennslismælinga-
 rheostat n. renniðviðnám; viðnámstæki
 scry s. spá fyrir um framtíðina með hjálp kristalkúlu
 planchette n. lítill planki; e.k. andaborð
@@ -9864,7 +9871,7 @@ cystic fibrosis n. slímseigjukvilli (sjúkdómur)
 devitalize s. deyða; draga lífsþrótt úr
 cuff link n. skyrtuhnappur, ermahnappur
 box cutter n. hnífur til að opna kassa
-corroborated n. staðfestur
+corroborated l. staðfestur
 hillcrest n. hátindur hóls, hátindur hæðar
 weirdness n. furðulegheit, skringilegheit (sjá %[weird]%)
 engulfed l. gleyptur, kaffærður
@@ -9889,7 +9896,6 @@ unwiseness n. óviturleiki, vanhyggja
 interest rate n. vextir, vaxtaprósenta; stýrivextir (seðlabanka)
 exchange rate n. gengi, skiptigengi (gjaldmiðils)
 blueprint n. vinnuteikning; frumgerð, frumhönnun; ljósrit af frumgerðarteikningu; áætlun
-flaggelate s. hýða, húðstrýkja
 flagellant n. hýðari, húðstrýkjari
 unmoved l. óhreyfður; ósnortinn
 unplug s. taka úr sambandi; taka tappa úr
@@ -9918,7 +9924,7 @@ homeschool s. mennta heima fyrir
 homeschooled l. menntaður heima fyrir, heimaskólagenginn
 miseducation n. rangmenntun, vanmenntun
 trigeminy n. þrítaktur
-trigmeninal l. þrenndar-, þríbura-; [~ nerve] þrenndartaug
+trigeminal l. þrenndar-, þríbura-; [~ nerve] þrenndartaug
 semaphore n. bendimerki, merkjasending, merkjakerfi
 megastar n. stórstjarna
 nous n. vit, skynsemi, skarpskyggni; hugur
@@ -9950,5 +9956,52 @@ underrated l. vanmetinn; verðsettur of lágt
 ampersand n. og-lykkja (táknið [&])
 rhinestone n. gervigimsteinn úr gleri eða plasti
 diphthongia n. tvíhljóðun
-diplophonia n. tvíhljóðun
+diplophonia n. tvíröddun; tvíhljóðun
 undiplomatic l. óháttvís eða ólipur í samskiptum; ódiplómatískur; án stjórnkænsku
+varsity n. keppnislið háskóla (í íþróttum, [~ team]); háskóli (óforml., sjá %[university]%)
+vasomotor l. æðastjórnar- ([~ system, nerves], o.s.frv.)
+vasculomotor l. æðastjórnar- (sjá %[vasomotor]%)
+theocentric l. guðsmiðaður, þar sem guð er miðpunktur eða helsta áhersluatriði
+maldistribution n. slæm dreifing, úthlutun eða útbýting
+hath s. hefur ([has] nú til dags, sjá sögnina %[have]%)
+panty n. nærbuxur, nærbrækur (kvenna, yfirleitt í ft. %[panties]%)
+panties nft. nærbuxur, nærbrækur (kvenna)
+underside n. botn, neðanverð hlið, neðri hlið; [on the ~] að neðanverðu, á neðanverðri hlið
+underbelly n. neðri hluti kviðs; neðanverður hluti; viðkvæmur eða óvarinn staður ([soft ~]); skuggahlið ([seedy ~])
+pacesetter n. sá sem ræður hraðanum; forhlaupari
+timocracy n. sæmdarveldi (e.k. fyrirmyndarveldi í heimspeki Platons, þar sem ráðamenn sækjast fyrst og fremst eftir heiðri); veldi stóreignamanna
+dizzying l. svimavaldandi, sem veldur svima; ruglandi
+dizzyingly ao. á sundlandi, svimavaldandi eða ruglandi hátt
+implemented l. útfærður; fullgerður; framkvæmdur; framfylgdur; efnaður
+mordantly ao. bítandi, hvasslega; napurlega; meinlega
+admired l. dáður; sem litið er upp til; sem borin er virðing fyrir
+lifesaver n. bjargvættur, björgunarmaður, sá sem bjargar lífi e-s; e-r eða e-ð sem reddar málum (óforml.)
+cardiogram n. hjartarit, hjartalínurit
+electrocardiogram n. hjartalínurit
+cardiometer n. hjartamælir
+cardiograph n. hjartariti, hjartarafriti
+electrocardiograph n. hjartarafriti
+unearthed l. grafinn upp, uppgrafinn; rekinn úr greninu (um dýr)
+mortice n. sjá %[mortise]%
+squawk s. skrækja, garga (um dýr); kveina hástöfum; n. skrækur, garg; hátt kvein
+squawking n. skrækir, garg; kvein
+puzzled l. ráðvilltur
+debilitating l. veiklandi, veikjandi, lamandi ([a ~ disease])
+retardant n. efni eða annað fyrirbæri sem er tefjandi eða hægjandi; varnar- ([fire ~] eldvarnarefni)
+satisfying l. fullnægjandi; sem gerir e-n ánægðan; seðjandi ([a ~ meal])
+unsatisfying l. ófullnægjandi; ekki seðjandi ([an ~ meal])
+carb n. stytt. á %[carbohydrate]% ([a ~-heavy meal])
+unknowingly ao. óafvitandi, óvitandi
+unknowable l. óvitanlegur; óþekkjanlegur
+blotless l. flekklaus, blettalaus
+snide l. meinlegur, niðrandi, lítilsvirðandi, dylgjulegur; óheiðarlegur; lágkúrulegur
+inhibited l. aftraður, hindraður, heftur, haminn; bældur
+uninhibited l. óaftraður, óhindraður, óheftur, óhaminn; frjálslegur eða hispurslaus (í framkomu)
+underutilize s. vannýta, nýta ekki til fulls
+underutilized l. vannýttur, ekki nýttur til fulls
+interdependence n. gagnhæði, víxlhæði; þegar tvö fyrirbæri eru háð hvort öðru
+interdependency n. sjá %[interdependence]%
+geometrically ao. rúmfræðilega, rúmmálsfræðilega
+poop deck n. skutur, skutpallur
+ontogeny n. þróunar- eða þroskaferill stakrar lífveru
+triglyph n. þrískora
