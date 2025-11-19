@@ -471,6 +471,7 @@ deportee
 sedentarization
 non-aggression
 publicize
+publicise
 enforcer
 inevitability
 retrojection
@@ -2181,7 +2182,6 @@ misperception
 dangerousness
 neurocircuitry
 obligate
-affinal
 representational
 affiliative
 maladaptive
@@ -4636,7 +4636,6 @@ ethnogenesis
 swat
 unclassy
 Svengali
-pentachord
 monocoque
 burble
 prowess (endurskoða)
@@ -5355,7 +5354,6 @@ social democrat
 patsy
 bull's eye
 bell ringer
-fall guy
 crisscross
 marking
 frowzled
@@ -5365,7 +5363,6 @@ scuff
 retarding
 fecundator
 aerobic
-undulating
 enation
 romanticist
 wild-eyed
@@ -5822,7 +5819,9 @@ proxied
 diegetic
 crass (endurskoða)
 crassness
+sucker (endurskoða)
 suckers (endurskoða)
+fall guy
 conspiracism
 gorging
 skewness
@@ -5859,3 +5858,4 @@ scheduled
 unscheduled
 rescheduled
 airway (endurskoða)
+Danish (endurskoða, brauðmeti)

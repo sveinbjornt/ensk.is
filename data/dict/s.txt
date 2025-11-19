@@ -158,8 +158,8 @@ sapphirine l. safírskenndur; bláleitur
 sappy l. safamikill
 Saracen n. serkneskur maður; [the ~s] Serkir
 Saracenic l. serkneskur ([~ hordes])
-sarcasm n. kaldhæðni, hnýfilyrði, sáryrði
-sarcastic l. kaldhæðinn, háðslegur, sáryrtur, meinyrtur
+sarcasm n. kaldhæðni, meinhæðni, hnýfilyrði, sáryrði
+sarcastic l. kaldhæðinn, meinhæðinn, háðslegur, meinyrtur, sáryrtur
 sardine n. sardína
 sardonic l. háðslegur, napur; [~ smile] glott; [~ laughter] kuldahlátur, kaldahlátur
 sash n. breiður axla- eða mittislindi, skrautlindi; gluggagrind
@@ -172,7 +172,7 @@ satellite n. tungl; gervitungl, gervihnöttur; fylgjari, sporgöngumaður
 satiable l. seðjandi
 satiate s. seðja; ofseðja; l. saddur, mettur ([~ with truffles])
 satiety n. mettun, saðning; óbeit, leiði ([~ of enjoyment])
-satin n. atlask (silki)
+satin n. satín, atlasksilki
 satire n. háðkvæði; satíra; heimsádeilukvæði; heimsádeila
 satiric l. heimsádeilu-; satíru- ([~ poet])
 satirical l. heimsádeilu- ([~ poem]); hæðinn; hæðnislegur
@@ -181,47 +181,46 @@ satirize s. hæðast að, gera hlægilegt
 satisfaction n. fullnaðargerð, fullnægjugerð; ánægja; skaðabætur
 satisfactory l. fullnægjandi; nægur; friðþægjandi
 satisfy s. fullnægja, gera (e-m) fullnað; gera ánægðan; seðja; sannfæra; leysa úr e-u ([~ a question])
-satrap n. jarl í Persíu
-satrapy n. jarlsdæmi (í Persíu)
+satrap n. landstjóri í Persíu til forna
+satrapy n. landstjóraumdæmi í Persíu til forna
 saturate s. gegnvæta, láta drekka í sig, metta
 saturation n. mettun (í efnafræðilegum skilningi), gegnvæting
 Saturday n. laugardagur
 saturnalian l. ofsakátur; óhemjulegur
-saturnine l. fályndur, fjörlaus; (í efnafræði) blý-; [~ poisoning] blýeitrun
-satyr n. satýr, skógargoð, skógartröll
+saturnine l. fályndur, fjörlaus; blý- (í efnafræði); [~ poisoning] blýeitrun
+satyr n. satýr, skógargoð
 sauce n. sósa, ídýfa; s. krydda; smána (í orðum)
 sauceboat n. sósuskál
 saucepan n. skaftpottur, pottur, panna
 saucer n. undirskál
 sauciness n. ósvífni, óskammfeilni
-saucy l. ósvífinn, óskammfeilinn
+saucy l. ósvífinn, hortugur; óskammfeilinn, djarfur í framgöngu
 saunter s. ganga í hægðum sínum, reika
 saunterer n. slæpingur
 sausage n. pylsa, bjúga
-savage l. villtur; grimmur; n. villimaður
+savage l. villtur, villimannslegur; grimmur, grimmúðlegur; n. villimaður
 savagedom n. villimennska, villimannalýður
-savagely ao. villimannlega, grimmdarlega, ómannúðlega
-savageness n. villimennska, villidómur, grimmd
-savagery n. villimennska, villidómur, grimmd
-savanna n. stór grasslétta
+savagely ao. villimannslega; grimmdarlega, grimmúðlega, ómannúðlega
+savageness n. villimennska, villidómur; grimmd, grimmúð
+savagery n. villimennska, villidómur; grimmd, grimmúð
+savanna n. sjá %[savannah]%
 savannah n. stór grasslétta
 save s. frelsa, bjarga; varðveita; hlífa; spara, leggja (peninga) fyrir, vista; koma nógu snemma til að nota, ná í ([~ the tide, the post]); fs. fyrir utan, nema ([all ~ the priest were murdered])
-saver n. björgunarmaður, frelsari; sparsemdarmaður
+saver n. björgunarmaður, frelsari; sparsemdarmaður, sparari
 saving l. sparsamur; skaðlaus ([a ~ bargain]); [a ~ clause] fyrirvari; n. sparnaður; ft. sparaðir peningar; fs. fyrir utan, nema
 savingly ao. sparsamlega, sparlega
 savingness n. sparsemi
 savings bank n. sparisjóður
-saviour n. frelsari; bjargvættur, björgunarmaður; [the Saviour] frelsarinn
+saviour n. frelsari; bjargvættur, björgunarmaður; [the Saviour] frelsarinn (í kristinni trú)
 savour n. bragð; ilmur; kraftur; s. njóta (bragðs, lyktar); hafa keim af ([his conduct ~s of pride])
 savouriness n. þægilegt bragð; ilmur
 savourless l. bragðlaus, óljúffengur
 savoury l. bragðgóður, bragðmikill, ljúffengur; ilmandi
-saw n. orðskviður, sannmæli, spakmæli
-saw n. sög; s. saga; sagast
+saw n. sög; orðskviður, sannmæli, spakmæli (forn.); s. saga, sagast
 sawdust n. sag
 sawmill n. sögunarvél
 sawyer n. sögunarmaður
-Saxon n. Saxi, saxneskur maður; l. (engil)saxneskur
+Saxon n. Saxi, saxneskur maður; l. saxneskur
 say s. segja; lesa (bæn, messu); hafa upp; tala; [he is said to have been absent] sagt er að hann hafi verið fjarstaddur; [to ~ the truth] satt að segja; [I ~!] heyrðu! heyrið þér!; n. [to have a ~ in the matter] hafa atkvæði um e-ð; [I have had my ~] ég hef talað út
 saying n. orðatiltæki; ummæli; spakmæli
 scab n. hrúður; kláði (á kindum); s. gróa, hrúðra (um sár)
@@ -466,7 +465,7 @@ sea level n. sjávarmál, sjávarflötur
 seaman n. sjómaður; óbreyttur sjóliði (í sjóher)
 seamanship n. sjómennska, sjókæni
 seamark n. leiðarmerki (á sjó)
-sea mew n. máfur
+sea mew n. mávur
 sea monster n. sjóskrímsli
 sea pie n. tjaldur (fugl)
 sea room n. særými

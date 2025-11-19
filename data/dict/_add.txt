@@ -2113,7 +2113,7 @@ nonreligious l. ekki trúaður, trúlaus
 handwritten l. handskrifaður, handritaður
 antihero n. andhetja
 surrounded l. umkringdur (af [by])
-seagull n. mávur, máfur (fugl)
+seagull n. mávur (fugl)
 Scandinavia n. Skandinavía
 Scandinavian l. skandinavískur; n. Skandinavi; skandinavíska (tungumál)
 predictable l. fyrirsjáanlegur, útreiknanlegur
@@ -10005,3 +10005,16 @@ geometrically ao. rúmfræðilega, rúmmálsfræðilega
 poop deck n. skutur, skutpallur
 ontogeny n. þróunar- eða þroskaferill stakrar lífveru
 triglyph n. þrískora
+credibleness n. trúverðugleiki, trúanleiki (yfirleitt %[credibility]%)
+undulating l. bylgjóttur; sem gengur í bylgjum; mishæðóttur
+advertize s. sjá %[advertise]%
+affinal l. sjá %[affine]%
+senescent l. aldraður, kominn til ára sinna, sem er að aldrast; öldrunar-
+ripening l. sem er að þroskast
+senesce s. aldrast, eldast, gamlast, koma til ára sinna
+long-established l. rótgróinn, gamalvanur ([a ~ tradition])
+fistulous l. fistils-; pípu-
+Great Dane n. þýsk hundategund
+pentachord n. fimm tónar í röð (í tónlist)
+diatonic l. díatónískur (tónstigi)
+diatomic l. tvíatóma-, tvífrumeinda- (í eðlisfræði)

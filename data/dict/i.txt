@@ -1411,7 +1411,7 @@ investigate s. rannsaka, grafast eftir; gera rannsókn
 investigation n. rannsókn
 investigator n. rannsakandi, rannsakari, rannsóknarmaður
 inveteracy n. rótfesta; rótgróinn fjandskapur; þrálæti
-inveterate l. rótgróinn ([~ hostility]); þrálátur ([~ disease])
+inveterate l. rótgróinn ([~ hostility]); þrálátur ([~ disease]); gamalvanur
 invidious l. öfundsjúkur; illa þokkaður; sem vekur óvild
 invidiousness n. öfundsýki; óvildarhugur
 invigilate s. sitja yfir í prófi
