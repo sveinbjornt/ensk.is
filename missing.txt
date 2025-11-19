@@ -4042,7 +4042,6 @@ coomb
 oatcake
 self-possession
 shoplet
-diatonic
 boree
 snappishness
 straightener
@@ -5858,4 +5857,5 @@ scheduled
 unscheduled
 rescheduled
 airway (endurskoða)
-Danish (endurskoða, brauðmeti)
+allowed
+disallowed
