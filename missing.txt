@@ -2479,8 +2479,6 @@ newsflash
 mushy
 symbolically
 bankroll
-whodunit
-intentionally
 heavy-set
 ballyhoo
 directorial
@@ -4377,6 +4375,7 @@ unswerving
 loadout
 sexualized
 sample (endurskoða)
+sampler (endurskoða)
 contretemps
 conchae
 whiner
@@ -5858,4 +5857,5 @@ airway (endurskoða)
 allowed
 disallowed
 pre-existing
-overnice
+essentialize
+medula

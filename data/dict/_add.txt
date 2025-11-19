@@ -6591,7 +6591,8 @@ POW n. stríðsfangi (sks. á %[prisoner of war]%)
 prisoner of war n. stríðsfangi
 arteriosclerosis n. slagæðaherðing
 Crimea n. Krímskagi
-unintentionally ao. óviljandi, ekki af ásettu ráði, án tilætlunar
+intentionally ao. viljandi, af ásettu ráði, af ráðnum hug, af ásetningi
+unintentionally ao. óviljandi, ekki af ásettu ráði, án tilætlunar, án ásetnings
 well-educated l. vel menntaður, vel fræddur; vel upp alinn, vel fóstraður
 organized crime n. skipulögð glæpastarfsemi
 stochastically ao. af slembni, á tilviljanakenndan hátt, eftir hendingu
@@ -10021,3 +10022,8 @@ diatomic l. tvíatóma-, tvífrumeinda- (í eðlisfræði)
 prissy l. vandlæti, vandfýsinn; smámunasamur; teprulegur; penn
 prissiness n. vandlæti, vandfýsni; smámunasemi; tepruskapur
 overnice n. óhóflega vandlátur, vandfýsinn; óhóflega vingjarnlegur eða almennilegur (í framkomu)
+factually ao. út frá staðreyndum, er varðar staðreyndir, þegar kemur að staðreyndum ([this is ~ incorrect])
+unionize s. stofna verkalýðsfélag ([~ the workplace]); ganga í verkalýðsfélag
+unionized l. í verkalýðsfélagi; búinn að mynda verkalýðsfélag ([the workers have already ~])
+acclaimed l. hylltur, lofaður, virtur ([the ~ author])
+whodunit n. morðráðgáta, sakamálasaga (óforml. stytt. á [who done it?])
