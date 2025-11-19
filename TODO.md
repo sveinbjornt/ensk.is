@@ -21,3 +21,5 @@
 * [ ] Improve JSON format
 * [ ] Add gender for Icelandic noun definitions via BinPackage?
 * [ ] Fix "fs. & ao." issue
+* [ ] Adjective validation: should always be in masculine case. Use BÍN.
+* [ ] "Ertu kannski að leita að íslensk-enskri orðabók?" efst til hægri

@@ -9545,7 +9545,7 @@ finicky l. vandlátur, vandfýsinn
 petrostate n. olíuríki
 petro- fsk. jarðolíu- (sjá t.d. %[petrostate]%, %[petrochemical]%)
 jitter n. flökt
-jittery l. taugaóstýrkur; flöktandi
+jittery l. taugaóstýrkur, órólegur, stressaður, taugaveiklaður; flöktandi
 glycerin n. glýserín
 glycerol n. glýseról
 snooker n. snóker (kúluspil)
@@ -10001,7 +10001,7 @@ underutilize s. vannýta, nýta ekki til fulls
 underutilized l. vannýttur, ekki nýttur til fulls
 interdependence n. gagnhæði, víxlhæði; þegar tvö fyrirbæri eru háð hvort öðru
 interdependency n. sjá %[interdependence]%
-geometrically ao. rúmfræðilega, rúmmálsfræðilega
+geometrically ao. rúmfræðilega
 poop deck n. skutur, skutpallur
 ontogeny n. þróunar- eða þroskaferill stakrar lífveru
 triglyph n. þrískora
@@ -10012,9 +10012,12 @@ affinal l. sjá %[affine]%
 senescent l. aldraður, kominn til ára sinna, sem er að aldrast; öldrunar-
 ripening l. sem er að þroskast
 senesce s. aldrast, eldast, gamlast, koma til ára sinna
-long-established l. rótgróinn, gamalvanur ([a ~ tradition])
+long-established l. rótgróinn, gamalgróinn ([a ~ tradition])
 fistulous l. fistils-; pípu-
-Great Dane n. þýsk hundategund
+Great Dane n. stórdani (þýsk hundategund)
 pentachord n. fimm tónar í röð (í tónlist)
 diatonic l. díatónískur (tónstigi)
 diatomic l. tvíatóma-, tvífrumeinda- (í eðlisfræði)
+prissy l. vandlæti, vandfýsinn; smámunasamur; teprulegur; penn
+prissiness n. vandlæti, vandfýsni; smámunasemi; tepruskapur
+overnice n. óhóflega vandlátur, vandfýsinn; óhóflega vingjarnlegur eða almennilegur (í framkomu)

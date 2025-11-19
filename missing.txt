@@ -3876,8 +3876,6 @@ welcoming
 unwelcoming
 demoralization (endurskoða)
 orichalcum
-prissy
-prissiness
 consumable
 inconsumable (endurskoða)
 messengership
@@ -5859,3 +5857,5 @@ rescheduled
 airway (endurskoða)
 allowed
 disallowed
+pre-existing
+overnice
