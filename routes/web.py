@@ -153,6 +153,9 @@ async def item(request: Request, w: str) -> Response:
     synonyms_list = results[0].get("synonyms", [])
     synonyms = [{"word": s, "exists": s in all_words} for s in synonyms_list]
 
+    antonyms_list = results[0].get("antonyms", [])
+    antonyms = [{"word": a, "exists": a in all_words} for a in antonyms_list]
+
     return TemplateResponse(
         request,
         "item.html",
@@ -164,6 +167,7 @@ async def item(request: Request, w: str) -> Response:
             "word": w,
             "comp": comp,
             "synonyms": synonyms,
+            "antonyms": antonyms,
         },
     )
 

@@ -159,6 +159,10 @@ def _format_item(item: dict[str, Any]) -> dict[str, Any]:
     synonyms_str = item.get("synonyms", "")
     synonyms = synonyms_str.split(",") if synonyms_str else []
 
+    # Antonyms
+    antonyms_str = item.get("antonyms", "")
+    antonyms = antonyms_str.split(",") if antonyms_str else []
+
     # Create item dict
     item = {
         "word": w,
@@ -171,6 +175,7 @@ def _format_item(item: dict[str, Any]) -> dict[str, Any]:
         "page_num": p,
         "page_url": p_url,
         "synonyms": synonyms,
+        "antonyms": antonyms,
     }
     return item
 

@@ -89,7 +89,8 @@ class EnskDatabase:
                 ipa_us TEXT,
                 page_num INTEGER,
                 freq INTEGER,
-                synonyms TEXT
+                synonyms TEXT,
+                antonyms TEXT
             );
         """
         conn.cursor().execute(create_dictionary_table_sql)
@@ -144,13 +145,24 @@ class EnskDatabase:
         page_num: int,
         freq: int,
         synonyms: str,
+        antonyms: str,
         commit: bool = False,  # Whether to commit changes to database immediately
     ) -> None:
         """Add a single entry to the dictionary."""
         conn = self.conn()
         conn.cursor().execute(
-            "INSERT INTO dictionary (word, definition, syllables, ipa_uk, ipa_us, page_num, freq, synonyms) VALUES (?,?,?,?,?,?,?,?)",
-            [w, definition, syllables, ipa_uk, ipa_us, page_num, freq, synonyms],
+            "INSERT INTO dictionary (word, definition, syllables, ipa_uk, ipa_us, page_num, freq, synonyms, antonyms) VALUES (?,?,?,?,?,?,?,?,?)",
+            [
+                w,
+                definition,
+                syllables,
+                ipa_uk,
+                ipa_us,
+                page_num,
+                freq,
+                synonyms,
+                antonyms,
+            ],
         )
         if commit:
             conn.commit()

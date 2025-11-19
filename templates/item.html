@@ -65,7 +65,6 @@
 {% if synonyms %}
 <hr class="separator">
 
-<div class="synonyms"></div>
 <p><strong>Samheiti: </strong>
     {% for s in synonyms %}
     {% if s.exists %}
@@ -75,9 +74,24 @@
     {% endif %}
     {% endfor %}
 </p>
-<br>
-</div>
 {% endif %}
+
+{% if antonyms %}
+<p><strong>Andheiti: </strong>
+    {% for a in antonyms %}
+    {% if a.exists %}
+    <span><a href="/item/{{ a.word|safe }}">{{ a.word|safe }}</a>{{ ", " if not loop.last else "" }}</span>
+    {% else %}
+    <span>{{ a.word|safe }}{{ ", " if not loop.last else "" }}</span>
+    {% endif %}
+    {% endfor %}
+</p>
+<br>
+{% endif %}
+
+</div>
+
+
 
 <br>
 <br>

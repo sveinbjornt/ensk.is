@@ -54,13 +54,14 @@ from dict import (
     page_for_word,
     syllables_for_word,
     synonyms_for_word,
+    antonyms_for_word,
 )
 from db import EnskDatabase, DB_FILENAME
 from util import zip_file, read_json, silently_remove
 from info import PROJECT
 
 
-EntryType = tuple[str, str, str, str, str, int, int, str]
+EntryType = tuple[str, str, str, str, str, int, int, str, str]
 EntryList = list[EntryType]
 
 
@@ -125,7 +126,10 @@ def read_all_entries() -> EntryList:
         pn = page_for_word(w)
         freq = WORD_FREQ_MAP.get(w, -1)
         syns = ",".join(synonyms_for_word(w))
-        entries.append(tuple([w, definition, syll, ipa_uk, ipa_us, pn, freq, syns]))
+        ants = ",".join(antonyms_for_word(w))
+        entries.append(
+            tuple([w, definition, syll, ipa_uk, ipa_us, pn, freq, syns, ants])
+        )
 
     entries.sort(key=lambda d: d[0].lower())  # Sort alphabetically by word
 
@@ -177,7 +181,7 @@ def add_entries_to_db(entries: EntryList) -> int:
 
     cursor = db.conn().cursor()
     cursor.executemany(
-        "INSERT INTO dictionary (word, definition, syllables, ipa_uk, ipa_us, page_num, freq, synonyms) VALUES (?,?,?,?,?,?,?,?)",
+        "INSERT INTO dictionary (word, definition, syllables, ipa_uk, ipa_us, page_num, freq, synonyms, antonyms) VALUES (?,?,?,?,?,?,?,?,?)",
         entries,
     )
     db.conn().commit()
@@ -212,6 +216,7 @@ def generate_csv(entries: EntryList, unlink_csv: bool = False) -> str:
         "page_num",
         "freq",
         "synonyms",
+        "antonyms",
     ]
 
     # Change to static files dir
@@ -286,7 +291,17 @@ def generate_json(entries: EntryList) -> str:
 
     # Add each entry to the dictionary
     for entry in entries:
-        word, definition, syllables, ipa_uk, ipa_us, page_num, freq, synonyms = entry
+        (
+            word,
+            definition,
+            syllables,
+            ipa_uk,
+            ipa_us,
+            page_num,
+            freq,
+            synonyms,
+            antonyms,
+        ) = entry
         entry_data = {
             "word": word,
             "definition": definition,
@@ -296,6 +311,7 @@ def generate_json(entries: EntryList) -> str:
             "page_num": page_num,
             "frequency": freq,
             "synonyms": synonyms,
+            "antonyms": antonyms,
         }
         dictionary_data["entries"].append(entry_data)
 

@@ -283,6 +283,59 @@ def linked_synonyms_for_word(w: str, wordlist: list[str]) -> list[dict[str, Any]
     return ls
 
 
+def antonyms_for_word(w: str) -> list[str]:
+    """Look up antonyms for a given word in the dictionary."""
+    if not w:
+        return []
+
+    try:
+        from nltk.corpus import wordnet as wn
+    except Exception:
+        return []
+
+    antonyms = set()
+    for syn in wn.synsets(w):
+        for lemma in syn.lemmas():
+            for antonym in lemma.antonyms():
+                antonyms.add(antonym.name())
+
+    antonyms.discard(w)
+    antonyms_list = list(antonyms)
+    antonyms_list.sort(key=lambda x: x.lower())
+    antonyms_list = [ant.replace("_", " ") for ant in antonyms_list if len(ant) > 1]
+
+    def is_not_name(ant: str) -> bool:
+        """Check if an antonym is a name (i.e. starts with a capital letter)."""
+        return not (
+            " " in ant
+            and ant[0].isupper()
+            and ant[1].islower()
+            and ant.split()[1][0].isupper()
+        )
+
+    final: list[str] = list(filter(is_not_name, antonyms_list))
+
+    return final
+
+
+def linked_antonyms_for_word(w: str, wordlist: list[str]) -> list[dict[str, Any]]:
+    """Look up antonyms for a given word in the dictionary,
+    and return them as a list of HTML links."""
+    antonyms = antonyms_for_word(w)
+    if not antonyms:
+        return []
+
+    ls = []
+    for ant in antonyms:
+        ls.append(
+            {
+                "word": ant,
+                "exists": ant in wordlist or ant.lower() in wordlist,
+            }
+        )
+    return ls
+
+
 FREQ_MAP = None
 FREQ_NOT_FOUND = -1
 
