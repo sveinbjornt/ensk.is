@@ -4449,6 +4449,8 @@ abnormally ao. óeðlilega, afbrigðilega, óvenjulega
 informally ao. óformlega
 valkyrie n. valkyrja
 blackmailer n. fjárkúgari
+blackmailed l. fjárkúgaður; neyddur með hótunum
+mailed l. sendur með pósti; brynjaður, brynklæddur ([a ~ fist in a velvet glove])
 cactus n. kaktus
 measurably ao. mælanlega
 immeasurably ao. ómælanlega
@@ -7172,7 +7174,7 @@ pitifully ao. aumkunarlega, brjóstumkennanlega
 ploy n. vélabragð, bellibragð, kænskubragð
 labia nft. varir; skapavarir, skapabarmar
 circadian l. dægur-, sólarhrings-; [~ rhythm] dægursveifla
-colonizer n. landnemi
+colonizer n. landnemi; nýlenduherra
 pan- fsk. al- (sjá t.d. %[panorama]%, %[pandemonium]%)
 paralyzed l. lamaður, aflvana
 disruptive l. truflandi, raskandi
@@ -9197,14 +9199,19 @@ liter n. sjá %[litre]%
 radian n. radíani (mælieining)
 fluid ounce n. únsa (rúmmálseining, 28,41 ml)
 terawatt n. billjón vött (sjá %[tera-]% og %[watt]%)
+dia- fsk. í gegnum, (þvert) yfir (t.d. %[dialogue]%, %[dialect]%)
+duo- fsk. tví- (t.d. %[duopoly]%)
 tri- fsk. þrí- (t.d. %[triangle]%, %[trilateral]%)
 tetra- fsk. fjór- (t.d. %[tetrapod]%, %[tetragon]%)
 penta- fsk. fimm- (t.d. %[pentagon]%, %[pentameter]%)
 hexa- fsk. sex- (t.d. %[hexagon]%, %[hexameter]%)
+hepta- fsk. sjö- (t.d. %[heptagon]%, %[heptarchy]%)
+octa- fsk. átta- (t.d. %[octagon]%, %[octangular]%)
+nona- fsk. níu (t.d. %[nonagenarian]%)
+deca- fsk. deka-, tíu- (tífaldur); sjá t.d. %[decametre]%, %[decalitre]%, o.s.frv.
 microsecond n. míkrósekúnda (einn milljónasti úr sekúndu)
 picogram n. píkógram (einn biljónasti úr grammi, sjá %[pico-]% og %[gram]%)
 giga- fsk. gíga- (margöldun mælieiningar með milljarði, 10 í 9. veldi, sjá t.d. %[gigabyte]%, %[gigawatt]%, o.s.frv.)
-deca- fsk. deka- (tífaldur); sjá t.d. %[decametre]%, %[decalitre]%, o.s.frv.
 tera- fsk. tera- (margöldun mælieiningar með 10. í 12. veldi); sjá t.d. %[terabyte]%, %[terawatt]%, o.s.frv.
 peta- fsk. peta- (margöldun mælieiningar með þúsund milljón milljónum, 10 í 15. veldi)
 nano- fsk. nanó- (einn milljarðasti úr mælieiningu); sjá t.d. %[nanometre]%
@@ -9223,7 +9230,7 @@ commercialise s. sjá %[commercialize]%
 modified l. breyttur, ummyndaður (sjá %[modify]%)
 kilo- fsk. kíló-, þúsund (margföldun mælieiningar með þúsund, t.d. %[kilometre]%, %[kilowatt]%, o.s.frv.)
 deci- fsk. desi- (einn tíundi af mælieiningu, t.d. %[decilitre]%)
-KB n. sks. á %[kilobyte]%, eitt þúsund bæti
+KB n. sks. á %[kilobyte]% (1024 bæti)
 nefariousness n. níðingsskapur, svívirðilegheit
 firedrake n. eldspúandi dreki
 petroglyph n. bergrista, bergristumynd
@@ -9381,7 +9388,7 @@ littering n. það að kasta frá sér rusli (sjá %[litter]%), sóðaleg hegðu
 nephrology n. nýrnalækningar
 indistinguishability n. ósundurgreinanleiki, óaðgreinanleiki, þar sem ekki er hægt að greina eitt frá öðru
 individuation n. einsömun
-evil-doer n. sjá [evildoer]%%
+evil-doer n. sjá %[evildoer]%
 opt s. velja, kjósa ([~ in, ~ out, ~ for])
 gemstone n. gimsteinn
 endocarp n. aldinsteinn
@@ -9467,7 +9474,7 @@ tightfisted l. nískur, naumur, fastheldinn á fé, sem heldur fé frá manni
 pushy l. ýtinn, frekur, yfirgengilegur
 traditionally ao. skv. hefð, skv. venju, eftir venju, hefðinni samkvæmt
 loathsomeness n. viðbjóður, viðurstyggð
-womanishness n. kvenleiki, kvenmannleiki, kvenskapur (sjá %[femininity]%); aumingjaskapur (óforml.)
+womanishness n. kvenleiki, kvenskapur (sjá %[femininity]%); aumingjaskapur (óforml.)
 cardiomegaly n. hjartastækkun
 tarp n. sjá %[tarpaulin]%
 coordination n. samstilling, samhæfing
@@ -9479,8 +9486,8 @@ convincingly ao. á sannfærandi máta
 decathlon n. tugþraut (íþrótt)
 subatomic l. smærri en frumeind
 acropolis n. borgarvirki, háborg (í Grikklandi); [the Acropolis] Akrópólishæð (háborg Aþenuborgar)
-wilt s. visna
-wilted l. visnaður
+wilt s. visna, skrælna
+wilted l. visnaður, skrælnaður
 ultrasonic l. úthljóðs-
 unashamed l. blygðunarlaus
 unashamedly ao. blygðunarlaust
@@ -9520,7 +9527,7 @@ cryptically ao. á dularfullan hátt
 distended l. þaninn, útþembdur
 engrossed l. niðursokkinn
 foreleg n. framleggur, framfótur
-hindsight n. eftirhyggja, eftiráhyggja; [in ~] eftir á að hyggja
+hindsight n. eftirhyggja; [in ~] eftir á að hyggja
 overspend s. eyða um efni fram
 teak n. tekk, tekkviður
 prefabricate s. forsmíða, búa til fyrirfram
@@ -10019,11 +10026,14 @@ Great Dane n. stórdani (þýsk hundategund)
 pentachord n. fimm tónar í röð (í tónlist)
 diatonic l. díatónískur (tónstigi)
 diatomic l. tvíatóma-, tvífrumeinda- (í eðlisfræði)
-prissy l. vandlæti, vandfýsinn; smámunasamur; teprulegur; penn
+prissy l. vandlætinn, vandfýsinn; smámunasamur; teprulegur; penn
 prissiness n. vandlæti, vandfýsni; smámunasemi; tepruskapur
-overnice n. óhóflega vandlátur, vandfýsinn; óhóflega vingjarnlegur eða almennilegur (í framkomu)
+overnice l. óhóflega vandlátur, vandfýsinn; óhóflega vingjarnlegur eða almennilegur (í framkomu)
 factually ao. út frá staðreyndum, er varðar staðreyndir, þegar kemur að staðreyndum ([this is ~ incorrect])
 unionize s. stofna verkalýðsfélag ([~ the workplace]); ganga í verkalýðsfélag
 unionized l. í verkalýðsfélagi; búinn að mynda verkalýðsfélag ([the workers have already ~])
 acclaimed l. hylltur, lofaður, virtur ([the ~ author])
 whodunit n. morðráðgáta, sakamálasaga (óforml. stytt. á [who done it?])
+whodunnit n. sjá %[whodunit]%
+dried l. þurrkaður, þornaður
+shrivelled l. skorpnaður, hrukkaður, skrælnaður

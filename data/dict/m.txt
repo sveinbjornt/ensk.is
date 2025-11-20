@@ -720,7 +720,7 @@ mice nft. af %[mouse]%; gljásteinn, glimmer
 Michaelmas n. Mikjálsmessa (29. september)
 mickle l. mikill (skoskt orð)
 microbe n. örvera, gerill, sóttkveikja
-micro- fsk. smá- (t.d. %[microdose]%, smáskammtur); ör- (t.d. %[microwave]%, örbylgja); einn milljónasti úr mælieiningu (sjá t.d. %[microsecond]%)
+micro- fsk. míkró-, smá- (t.d. %[microdose]%, smáskammtur); ör- (t.d. %[microwave]%, örbylgja); einn milljónasti úr mælieiningu (sjá t.d. %[microsecond]%)
 microcosm n. smáheimur
 microscope n. smásjá, sjónauki
 microscopic l. sem aðeins sést í sjónauka; örsmár
@@ -1136,7 +1136,7 @@ monkish l. munklegur, munka- ([~ Latin])
 monkey n. api; [put his ~ up] gera einhvern uppvægan; [get one's ~ up] verða uppvægur; s. herma eftir; gera gys að; gera strákapör
 monkeyish l. apalegur, apa-
 monkeyism n. apalæti, apahættir
-mono- fsk. (í samsetningum) ein-
+mono- fsk. ein- (í samsetningum, t.d. %[monotonal]%, %[monolingual]%)
 monoceros n. einhyrningur; náhveli
 monocle n. einglyrni, glerauga fyrir annað augað
 monocular l. eineygður; ætlaður handa öðru auganu ([~ microscope])
