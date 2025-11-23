@@ -14,6 +14,8 @@ python audio.py
 --exclude "__pycache__" \
 --exclude "*.pyc" \
 --exclude ".ruff_cache" \
+--exclude "*.xml" \
+--exclude ".DS_Store" \
 --delete \
 -av "." \
 root@ensk.is:/www/ensk.is/html/

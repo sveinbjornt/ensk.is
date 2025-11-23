@@ -5266,7 +5266,7 @@ bandstand n. hljómskáli, hljómsveitarpallur
 neurogenesis n. taugamyndun
 ultrasound n. úthljóð, yfirhljóð; ómspeglun; ómgreining, úthljóðsgreining ([~ diagnosis])
 cleanup n. hreinsun, tiltekt
-lookup n. uppfletting; sjá %[look]% og %[up]%
+lookup n. uppfletting (sjá %[look]% og %[up]%)
 jalopy n. gömul bíldrusla
 dire wolf n. gramúlfur
 supercede s. sjá %[supersede]%
@@ -6477,7 +6477,8 @@ gamma n. gamma (þriðji stafur gríska stafrófsins)
 swimsuit n. sundbúningur, sundföt
 dinnerware n. borðbúnaður (fyrir kvöldverð)
 subacute l. hægbráður, meðalbráður
-crabs nft. flatlús
+crabs nft. flatlús, klyftalús
+crab louse n. flatlús, klyftalús
 Comte n. greifi (í Frakklandi)
 Comtesse n. greifynja (í Frakklandi)
 cecum n. botnristill
@@ -9548,7 +9549,7 @@ thuggish l. fantalegur, glæponalegur
 thuggery n. fantaskapur, óþokkaskapur
 stooge n. handbendill, leppur, undirlægja
 ricochet s. endurkastast; n. endurkast, skopp
-premeditated l. sem er með fyrirhuguðu (af ásettu) ráði
+premeditated l. fyrirhugaður; af ásettu ráði ([~ murder])
 finicky l. vandlátur, vandfýsinn
 petrostate n. olíuríki
 petro- fsk. jarðolíu- (sjá t.d. %[petrostate]%, %[petrochemical]%)
@@ -9971,7 +9972,7 @@ vasomotor l. æðastjórnar- ([~ system, nerves], o.s.frv.)
 vasculomotor l. æðastjórnar- (sjá %[vasomotor]%)
 theocentric l. guðsmiðaður, þar sem guð er miðpunktur eða helsta áhersluatriði
 maldistribution n. slæm dreifing, úthlutun eða útbýting
-hath s. hefur ([has] nú til dags, sjá sögnina %[have]%)
+hath s. hefur (forn., [has] nú til dags, sjá sögnina %[have]%)
 panty n. nærbuxur, nærbrækur (kvenna, yfirleitt í ft. %[panties]%)
 panties nft. nærbuxur, nærbrækur (kvenna)
 underside n. botn, neðanverð hlið, neðri hlið; [on the ~] að neðanverðu, á neðanverðri hlið
@@ -10038,3 +10039,13 @@ whodunnit n. sjá %[whodunit]%
 dried l. þurrkaður, þornaður
 shrivelled l. skorpnaður, hrukkaður, skrælnaður
 unbuildable l. óbyggjanlegur, sem ekki er hægt að byggja
+plumb bob n. blýlóð, blýsakka
+humping n. kynmök (óforml.)
+kismet n. örlög, forlög, sköp
+chancroid n. linsæri (kynsjúkdómur)
+donovanosis n. nárasæri (kynsjúkdómur)
+prostatitis n. blöðruhálskirtilsbólga
+epididymitis n. lyppubólga
+proctitis n. endaþarmsbólga
+urethritis n. þvagrásarbólga
+antianxiety l. kvíðastillandi

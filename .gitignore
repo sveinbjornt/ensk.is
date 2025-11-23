@@ -105,3 +105,4 @@ tools/*.json
 *.csv
 
 .coverage
+*.xml
