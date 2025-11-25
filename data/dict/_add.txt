@@ -384,7 +384,7 @@ internship n. starfsnám, starfsþjálfun
 Islam n. íslam (eingyðistrú sem á upptök sín á Arabíuskaga)
 Islamic l. íslamskur (sjá %[Islam]%)
 passphrase n. aðgangsorð, lykilorð, aðgangsfrasi
-marijuana n. maríjúana (kannabislyf)
+marijuana n. maríjúana, kannabis
 metadata n. lýsigögn, gögn sem lýsa öðrum gögnum
 Muslim n. múslími (sá sem aðhyllist íslamska trú, sjá %[Islam]%); l. múslímskur
 nutritional l. næringar-
@@ -10042,6 +10042,7 @@ unbuildable l. óbyggjanlegur, sem ekki er hægt að byggja
 plumb bob n. blýlóð, blýsakka
 humping n. kynmök (óforml.)
 kismet n. örlög, forlög, sköp
+kismat n. sjá %[kismet]%
 chancroid n. linsæri (kynsjúkdómur)
 donovanosis n. nárasæri (kynsjúkdómur)
 prostatitis n. blöðruhálskirtilsbólga
@@ -10049,3 +10050,7 @@ epididymitis n. lyppubólga
 proctitis n. endaþarmsbólga
 urethritis n. þvagrásarbólga
 antianxiety l. kvíðastillandi
+ganja n. kannabis, gras, marijúana (óforml. slangur)
+scatology n. saurfræði
+scatological l. saurfræðilegur; saur-, kúka- ([~ humour])
+scat s. hypja sig, drífa sig á brott; syngja e.k. bullorðasöng í djassi ([sing ~]); uh. burt! hypjaðu þig!; n. kúkur, saur; bullorðasöngur í djassi

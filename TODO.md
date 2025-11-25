@@ -23,3 +23,4 @@
 * [ ] Fix "fs. & ao." issue
 * [ ] Adjective validation: should always be in masculine case. Use BÍN.
 * [ ] "Ertu kannski að leita að íslensk-enskri orðabók?" efst til hægri
+* [ ] Look up every entry in Merriam-Webster to validate headwords and POS tags
