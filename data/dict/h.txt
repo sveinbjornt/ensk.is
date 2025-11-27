@@ -289,7 +289,7 @@ headstrong l. ákafur; þrályndur
 headwaters nft. upptök (árinnar [of the river])
 headway n. framskrið (skips); framgangur ([to make ~]); hæð (brúarboga, dyragáttar)
 headwear n. höfuðfat
-headwind n. mótviðri
+headwind n. mótviðri, mótvindur
 headwork n. andlegt erfiði
 head workman n. formaður verkamanna
 heady l. framhleypinn, flumósa; einþykkur, þrár; ofsafenginn; stríður (um straum); áfengur (um drykk) [a ~ brew]
@@ -476,7 +476,7 @@ hereafter ao. hér eftir, héðan í frá; í öðru lífi; n. annað líf
 hereat ao. við þetta, sakir þessa
 herein ao. hér í, í þessu
 hereby ao. hér með, með þessu, af þessu
-heretofore ao. áður, fyrrum; [as ~] eins og hingað til, eins og að undanförnu
+heretofore ao. áður, fyrrum; hingað til; [as ~] eins og hingað til, eins og að undanförnu
 hereupon ao. hér eftir, eftir þetta
 hereditable l. arfgengur
 hereditament n. arfur, erfð

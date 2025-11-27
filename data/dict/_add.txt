@@ -3673,7 +3673,9 @@ imprecision n. ónákvæmni
 half-wit n. hálfviti
 floorboard n. gólffjöl
 eardrum n. hljóðhimna (í eyra)
-libido n. kynhvöt
+libido n. kynhvöt, gredda
+libidinal l. kynhvatar-, er varðar kynhvötina, greddu-
+libidinally ao. á hátt er varðar kynhvötina
 middle management n. millistjórnendur
 repairman n. viðgerðarmaður
 hydrology n. vatnafræði
@@ -4253,7 +4255,7 @@ mutate s. stökkbreyta, ummynda
 mutant n. stökkbrigði
 deckhand n. háseti
 portside l. bakborðsmegin
-electrum n. elektrum (málmblanda silfurs og gulls)
+electrum n. elektrum (málmblendi silfurs og gulls)
 parliamentarian n. þingmaður
 sterilize s. dauðhreinsa, smitsæfa; gera ófrjóan, vana
 sterilization n. dauðhreinsun, sótthreinsun; ófrjósemisaðgerð, vönun
@@ -6722,7 +6724,7 @@ yesteryear n. síðasta ár; fyrri ár, liðin ár
 alumnus n. fyrrum nemandi, útskrifaður nemandi
 alumni nft. sjá %[alumnus]%
 papaya n. papaja, papaja-aldin, sólaldin
-hydrant n. vatnshani; brunahani ([fire ~])
+hydrant n. vatnshani; brunahani (%[fire hydrant]%)
 purgatorial l. hreinsandi; hreinsunarelds-
 farmhand n. vinnumaður á bóndabæ
 backstreet n. bakstræti
@@ -9980,8 +9982,8 @@ underbelly n. neðri hluti kviðs; neðanverður hluti; viðkvæmur eða óvarin
 pacesetter n. sá sem ræður hraðanum; forhlaupari
 timocracy n. sæmdarveldi (e.k. fyrirmyndarveldi í heimspeki Platons, þar sem ráðamenn sækjast fyrst og fremst eftir heiðri); veldi stóreignamanna
 dizzying l. svimavaldandi, sem veldur svima; ruglandi
-dizzyingly ao. á sundlandi, svimavaldandi eða ruglandi hátt
-implemented l. útfærður; fullgerður; framkvæmdur; framfylgdur; efnaður
+dizzyingly ao. svimandi; á svimavaldandi eða ruglandi hátt
+implemented l. útfærður; fullgerður; framkvæmdur; framfylgdur; efndur
 mordantly ao. bítandi, hvasslega; napurlega; meinlega
 admired l. dáður; sem litið er upp til; sem borin er virðing fyrir
 lifesaver n. bjargvættur, björgunarmaður, sá sem bjargar lífi e-s; e-r eða e-ð sem reddar málum (óforml.)
@@ -10058,3 +10060,20 @@ coprophagy n. sjá %[coprophagia]%
 coprophagous l. sauráts-, saurétandi ([~ insects])
 scatological l. saurfræðilegur; saur-, kúka- ([~ humour])
 scat s. hypja sig, drífa sig á brott; syngja bullorðasöng í djassi ([sing ~]); uh. burt! hypjaðu þig!; n. saur, kúkur; bullorðasöngur í djassi
+fire hydrant n. brunahani
+alarmed l. skelkaður, óttasleginn; með viðvörunarbjöllu, tengdur viðvörunarkerfi
+tailwind n. meðbyr, meðvindur
+batty l. snarruglaður, klikkaður, brjálaður, genginn af göflunum (óforml.)
+argan n. argantré
+dumbbell n. handlóð
+hypertonic l. ofþrýstinn, yfirþrýstinn; ofspenntur (um vöðva)
+gunsight n. sigti (mið á byssu)
+harmonise s. sjá %[harmonize]%
+neuralgic l. taugaverks-, taugapínu-
+eclecticism n. fjölbreytni, samtíningur af ýmsu ólíku; úrvalsstefna (í heimspeki)
+polystyrene n. pólýstýren (plastefni)
+phototropism n. ljósleitni
+arborist n. trjáræktarmaður, trjáræktarsérfræðingur
+unshorn l. órúinn, óklipptur ([~ sheep])
+flirty l. daðurslegur, daðursamur, daðurgjarn, daður-
+subdural l. innanbasts-
