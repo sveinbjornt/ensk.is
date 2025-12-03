@@ -468,7 +468,7 @@ primarily ao. aðallega; fyrst og fremst; einkum
 playback n. spilun, afspilun
 plasma n. rafgas; blóðvökvi
 parameter n. færibreyta
-hardcover l. harðspjalda; n. harðspjalda bók
+hardcover l. harðspjalda, harðkilju-; n. harðspjalda bók, harðkilja, innbundið rit
 genome n. erfðamengi, genamengi
 forbidden l. bannaður, forboðinn
 forgotten l. gleymdur
@@ -10081,3 +10081,4 @@ thereamong ao. þar á meðal (sjá %[there]% og %[among]%)
 thereamongst ao. þar á meðal (sjá %[there]% og %[amongst]%)
 affirmatory l. staðfestandi (sjá %[affirmation]%); jálegur, jákvæður
 ragebait n. bræðibeita, reiðibeita
+gaur n. indverskur gáruxi
