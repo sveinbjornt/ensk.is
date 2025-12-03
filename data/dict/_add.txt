@@ -1377,7 +1377,7 @@ zaibatsu n. japönsk fyrirtækjasamsteypa
 zygote n. okfruma
 zygotic l. okfrumu-
 zipper n. rennilás
-reefer n. kannabis (óforml. slangur)
+reefer n. kannabis, gras, marijúana (óforml. slangur)
 amphetamine n. amfetamín, spítt (örvandi lyf)
 methamphetamine n. metamfetamín (örvandi lyf)
 meth n. sjá %[methamphetamine]%
@@ -10077,3 +10077,7 @@ arborist n. trjáræktarmaður, trjáræktarsérfræðingur
 unshorn l. órúinn, óklipptur ([~ sheep])
 flirty l. daðurslegur, daðursamur, daðurgjarn, daður-
 subdural l. innanbasts-
+thereamong ao. þar á meðal (sjá %[there]% og %[among]%)
+thereamongst ao. þar á meðal (sjá %[there]% og %[amongst]%)
+affirmatory l. staðfestandi (sjá %[affirmation]%); jálegur, jákvæður
+ragebait n. bræðibeita, reiðibeita
