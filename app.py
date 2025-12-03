@@ -64,6 +64,8 @@ app = FastAPI(
 STATIC_DIR = "static"
 app.mount(f"/{STATIC_DIR}", StaticFiles(directory=STATIC_DIR), name=STATIC_DIR)
 
+CACHE_CONTROL_MAX_AGE = 86400  # seconds
+
 
 # Create a middleware class to set custom headers
 class AddCustomHeaderMiddleware(BaseHTTPMiddleware):
@@ -102,7 +104,9 @@ class AddCustomHeaderMiddleware(BaseHTTPMiddleware):
         response = await call_next(request)
 
         if request.url.path.startswith(f"/{STATIC_DIR}/"):
-            response.headers["Cache-Control"] = "public, max-age=86400"
+            response.headers["Cache-Control"] = (
+                f"public, max-age={CACHE_CONTROL_MAX_AGE}"
+            )
         else:
             response.headers["Content-Language"] = "is, en"
 

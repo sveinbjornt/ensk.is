@@ -1059,8 +1059,8 @@ piratically ao. að sjóræningja sið
 pirn n. vefjarspóla
 pirogue n. eintrjáningur (bátur); ferjubátur
 pirouette n. tásveifla (í dansi); s. sveiflast á tánum (í dansi)
-piscatorial l. sem lýtur að fiski eða fiskveiðum
-piscatory l. sem lýtur að fiski eða fiskveiðum
+piscatorial l. fiska-, sem lýtur að fiski eða fiskveiðum
+piscatory l. fiska-, sem lýtur að fiski eða fiskveiðum
 pisciculture n. fiskaklak
 pisciculturist n. fiskaklaksmaður
 piscine l. sem lýtur að fiskum; n. fiskatjörn; sundlaug
@@ -1253,7 +1253,7 @@ plum pudding n. rúsínubúðingur
 plum tree n. plómutré
 plumage n. fjaðrir, fiður
 plumaged l. fiðraður, fjaðraður
-plumb n. blýlóð, sakka; l. lóðréttur; ao. lóðrétt, beint ([~ down]); s. kanna með lóðlínu ([~ the depth]); gera lóðrétt; innsigla með blýinnsigli
+plumb n. blýlóð, sakka (sjá %[plumb bob]%); l. lóðréttur; ao. lóðrétt, beint ([~ down]); s. kanna með lóðlínu ([~ the depth]); gera lóðrétt; innsigla með blýinnsigli
 plumbean l. blýlitaður
 plumbeous l. blýlitaður
 plumber n. pípulagningamaður, pípari; blýsmiður
@@ -2336,7 +2336,7 @@ psalmography n. sálmakveðskapur
 psalter n. Daviðs sálmar, saltari
 psaltery n. forn harpa
 pseudo- fsk. fals-, gervi-, sýndar- (sjá t.d. %[pseudoscience]%, %[pseudonymous]% o.s.frv.)
-pseudonym n. gervinafn, dulnefni rithöfundar
+pseudonym n. gervinafn, dulnefni (rithöfundar)
 pseudonymous l. með gervinafn, með dulnefni
 pseudoprophet n. falsspámaður
 psychiatrist n. geðlæknir

@@ -341,7 +341,7 @@ scollop n. sjá %[scallop]%
 sconce n. vígi; hauskúpa, höfuð; kertastjaki (á vegg); borðviti; s. sekta ([~ one for breach of good manners])
 scone n. brauðkaka
 scoop n. ausa; austurtrog; s. ausa, þurrausa; moka; hola út
-scope n. tilgangur, takmark; verkahringur, verksvið; ráðrúm
+scope n. umfang; verkahringur, verksvið; gildissvið; ráðrúm; tilgangur, takmark; sjá (t.d. %[microscope]%); sjónauki (á skotvopni)
 scorbutic l. veikur af skyrbjúg; skyrbjúgs-
 scorch s. svíða, láta skrælna af hita; sviðna, skrælna
 score n. skora; strik; reikningur; skuld; ástæða; skor (tveir tugir); [upon the ~ of friendship] fyrir vináttusakir; [to go (set) off, start at a ~] þjóta af stað (um hest); [to quit ~s with one] gera upp reikninga við e-n, borga e-m að fullu; s. merkja með skorum eða strikum, skora, strika; skrifa í reikning (e-s); [~ out] strika út
@@ -385,7 +385,7 @@ screed n. rifa; rifhljóð; löng runa; ræma; ritgerð ([literary ~])
 screen n. skjár; skermur; skýli, hlíf (gegn ljósi, hita, kulda, regni o.fl.); stórgert sáld, sandsáld; s. skýla; fela; sákla
 screened coals nft. kol, sem mylsnan hefur verið sálduð úr
 screenings nft. úrgangur
-screw n. skrúfa, skrúfnagli; svíðingur; jálkur; s. skrúfa; skrúfa fast; skæla (t.d. andlitið); kreista; kúga
+screw n. skrúfa, skrúfnagli; svíðingur; jálkur; s. skrúfa; skrúfa fast; skæla (t.d. andlitið); kreista; kúga; fara illa með, svíkja ([he ~ed me on this one]); ríða (óforml.)
 screwdriver n. skrúfjárn
 screwjack n. lyftivinda; skrúfvél
 screwnail n. skrúfnagli
@@ -832,7 +832,7 @@ she fn. hún
 she-cat n. læða
 sheaf n. kornbundin; bindi, kippa; s. binda bundin
 shealing n. skýli, kofi
-shear s. klippa ([~ a sheep]); klippa lóna af ([~ cloth]); féflétta; n. klipping; ft. stór skæri
+shear s. rýja, klippa ([~ a sheep]); klippa lóna af ([~ cloth]); féflétta; n. klipping; ft. stór skæri
 shearer n. (sauða)klippari
 shearing n. klipping ([sheep-~])
 shearling n. veturgömul kind
@@ -959,7 +959,7 @@ shore n. strönd; land; árbakki; skorða; s. skorða ([~ up a building])
 shore leave n. landgönguleyfi
 shoreless l. strandlaus; ómælanlegur, takmarkalaus
 shoring n. skorðun; skorður
-shorn l. af %[shear]%; [~ of] sviptur ([a prince ~ of his honours])
+shorn l. rúinn, sviptur (sjá %[shear]%); [~ of] sviptur ([a prince ~ of his honours])
 short l. stuttur, skammur; lágur (vexti, [~ of stature]); stuttorður; (of) naumur, tæpur, lakur (um mál og vigt); ónógur; sem molnar auðveldlega; [a ~ sea] krappur sjór; [in ~] í stuttu máli; [~ of breath] andstuttur; [to be ~ of money] skorta fé; [his escape was nothing ~ of a miracle] undankoma hans gekk kraftaverki næst; [to cut ~] grípa fram í fyrir; [to fall ~] vera ónógur; þrjóta; [I fall ~ of] mig þrýtur (e-ð); [to run ~ of] fara að vanta ([to run ~ of provisions]); [to stop ~] staðnæmast snögglega; [to turn ~] snúa sér snögglega
 shortage n. ávöntun, skortur ([~ of meat]); þurrður
 short-breathed l. andstuttur

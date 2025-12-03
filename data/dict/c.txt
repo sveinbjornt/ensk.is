@@ -29,7 +29,7 @@ cage n. búr; fuglabúr ([bird~]); s. inniloka; setja í búr
 cairn n. steindys, varða
 caisson n. hergagnavagn
 caitiff n. níðingur, ódrengur
-cajole s. smjaðra fyrir; lokka (út úr [out of])
+cajole s. sannfæra (með smjaðri), smjaðra fyrir; lokka (út úr [out of])
 cajoler n. smjaðrari
 cajolement n. smjaður
 cajolery n. fagurgali, smjaður
@@ -947,7 +947,7 @@ clangor n. gjall, brak, gnýr ([~ of arms])
 clangorous l. gjallandi
 clank n. hringl, gnýr; s. (láta) hringla; smella
 clannish l. ættflokkslegur, ættar-; sbr. %[clan]%
-clap s. skella (hurð); slá; smella ([~ duty on goods]); klappa saman lófum ([~ one's hands]); klappa (t.d. [on the shoulders]); snara (e-m í fangelsi [in prison]); [~ on all sails] setja upp öll segl; [~ up a bargain] gera kaup í skyndi; [~ eyes on] koma auga á e-ð; n. lófaklapp; skellur, smellur; þrumudynur ([~ of thunder]); lekandi (kynsjúkdómur)
+clap s. klappa (t.d. [~ on the shoulder]); klappa saman lófum ([~ one's hands]); skella (hurð); slá; smella ([~ duty on goods]); snara (e-m í fangelsi [~ in prison]); [~ on all sails] setja upp öll segl; [~ up a bargain] gera kaup í skyndi; [~ eyes on] koma auga á e-ð; n. lófaklapp; skellur, smellur; þrumudynur ([~ of thunder]); lekandi (kynsjúkdómur)
 clapper n. kólfur í klukku; rella; tunga í málóðum manni; [she let her ~ run] það óð á henni
 clapperclaw s. klóra; skamma
 claquer n. leiguklappari (í leikhúsi)

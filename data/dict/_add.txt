@@ -384,7 +384,7 @@ internship n. starfsnám, starfsþjálfun
 Islam n. íslam (eingyðistrú sem á upptök sín á Arabíuskaga)
 Islamic l. íslamskur (sjá %[Islam]%)
 passphrase n. aðgangsorð, lykilorð, aðgangsfrasi
-marijuana n. maríjúana (kannabislyf)
+marijuana n. maríjúana, kannabis
 metadata n. lýsigögn, gögn sem lýsa öðrum gögnum
 Muslim n. múslími (sá sem aðhyllist íslamska trú, sjá %[Islam]%); l. múslímskur
 nutritional l. næringar-
@@ -1377,7 +1377,7 @@ zaibatsu n. japönsk fyrirtækjasamsteypa
 zygote n. okfruma
 zygotic l. okfrumu-
 zipper n. rennilás
-reefer n. kannabis (óforml. slangur)
+reefer n. kannabis, gras, marijúana (óforml. slangur)
 amphetamine n. amfetamín, spítt (örvandi lyf)
 methamphetamine n. metamfetamín (örvandi lyf)
 meth n. sjá %[methamphetamine]%
@@ -3257,7 +3257,7 @@ supranational l. yfirþjóðlegur, yfirríkja-, sem er ofar eða æðri ríkjum
 backside n. bakhlið; afturendi; rass
 vegan n. vegani, grænkeri (e-r sem neytir ekki afurða úr dýraríkinu); l. grænkera-; [~ meal] grænkeramáltíð
 veganism n. veganismi, grænkerasiður (sjá %[vegan]%)
-godforsaken l. guðsvolaður, yfirgefinn af guði
+godforsaken l. guðsvolaður, yfirgefinn af guði, hábölvaður
 astrolabe n. stjörnuskífa
 abacus n. talnagrind, reiknigrind
 slide rule n. reiknistokkur
@@ -3673,7 +3673,9 @@ imprecision n. ónákvæmni
 half-wit n. hálfviti
 floorboard n. gólffjöl
 eardrum n. hljóðhimna (í eyra)
-libido n. kynhvöt
+libido n. kynhvöt, gredda
+libidinal l. kynhvatar-, er varðar kynhvötina, greddu-
+libidinally ao. á hátt er varðar kynhvötina
 middle management n. millistjórnendur
 repairman n. viðgerðarmaður
 hydrology n. vatnafræði
@@ -4253,7 +4255,7 @@ mutate s. stökkbreyta, ummynda
 mutant n. stökkbrigði
 deckhand n. háseti
 portside l. bakborðsmegin
-electrum n. elektrum (málmblanda silfurs og gulls)
+electrum n. elektrum (málmblendi silfurs og gulls)
 parliamentarian n. þingmaður
 sterilize s. dauðhreinsa, smitsæfa; gera ófrjóan, vana
 sterilization n. dauðhreinsun, sótthreinsun; ófrjósemisaðgerð, vönun
@@ -5266,7 +5268,7 @@ bandstand n. hljómskáli, hljómsveitarpallur
 neurogenesis n. taugamyndun
 ultrasound n. úthljóð, yfirhljóð; ómspeglun; ómgreining, úthljóðsgreining ([~ diagnosis])
 cleanup n. hreinsun, tiltekt
-lookup n. uppfletting; sjá %[look]% og %[up]%
+lookup n. uppfletting (sjá %[look]% og %[up]%)
 jalopy n. gömul bíldrusla
 dire wolf n. gramúlfur
 supercede s. sjá %[supersede]%
@@ -5610,7 +5612,7 @@ deionize s. afjóna
 deionization n. afjónun
 dissociation n. hugrof, klofnun, persónuleikarof (í sálfræði); aðgreining
 plexus n. flétta, flækja
-homeostasis n. samvægi
+homeostasis n. samvægi, jafnvægisástand
 integration n. heildun; blöndun, innlimun, aðlögun; samþætting, sameining
 wellspring n. (óþrjótandi) uppspretta, brunnur, uppsprettulind
 mammogram n. brjóstamynd
@@ -6477,7 +6479,8 @@ gamma n. gamma (þriðji stafur gríska stafrófsins)
 swimsuit n. sundbúningur, sundföt
 dinnerware n. borðbúnaður (fyrir kvöldverð)
 subacute l. hægbráður, meðalbráður
-crabs nft. flatlús
+crabs nft. flatlús, klyftalús
+crab louse n. flatlús, klyftalús
 Comte n. greifi (í Frakklandi)
 Comtesse n. greifynja (í Frakklandi)
 cecum n. botnristill
@@ -6721,7 +6724,7 @@ yesteryear n. síðasta ár; fyrri ár, liðin ár
 alumnus n. fyrrum nemandi, útskrifaður nemandi
 alumni nft. sjá %[alumnus]%
 papaya n. papaja, papaja-aldin, sólaldin
-hydrant n. vatnshani; brunahani ([fire ~])
+hydrant n. vatnshani; brunahani (%[fire hydrant]%)
 purgatorial l. hreinsandi; hreinsunarelds-
 farmhand n. vinnumaður á bóndabæ
 backstreet n. bakstræti
@@ -9548,7 +9551,7 @@ thuggish l. fantalegur, glæponalegur
 thuggery n. fantaskapur, óþokkaskapur
 stooge n. handbendill, leppur, undirlægja
 ricochet s. endurkastast; n. endurkast, skopp
-premeditated l. sem er með fyrirhuguðu (af ásettu) ráði
+premeditated l. fyrirhugaður; af ásettu ráði ([~ murder])
 finicky l. vandlátur, vandfýsinn
 petrostate n. olíuríki
 petro- fsk. jarðolíu- (sjá t.d. %[petrostate]%, %[petrochemical]%)
@@ -9971,7 +9974,7 @@ vasomotor l. æðastjórnar- ([~ system, nerves], o.s.frv.)
 vasculomotor l. æðastjórnar- (sjá %[vasomotor]%)
 theocentric l. guðsmiðaður, þar sem guð er miðpunktur eða helsta áhersluatriði
 maldistribution n. slæm dreifing, úthlutun eða útbýting
-hath s. hefur ([has] nú til dags, sjá sögnina %[have]%)
+hath s. hefur (forn., [has] nú til dags, sjá sögnina %[have]%)
 panty n. nærbuxur, nærbrækur (kvenna, yfirleitt í ft. %[panties]%)
 panties nft. nærbuxur, nærbrækur (kvenna)
 underside n. botn, neðanverð hlið, neðri hlið; [on the ~] að neðanverðu, á neðanverðri hlið
@@ -9979,8 +9982,8 @@ underbelly n. neðri hluti kviðs; neðanverður hluti; viðkvæmur eða óvarin
 pacesetter n. sá sem ræður hraðanum; forhlaupari
 timocracy n. sæmdarveldi (e.k. fyrirmyndarveldi í heimspeki Platons, þar sem ráðamenn sækjast fyrst og fremst eftir heiðri); veldi stóreignamanna
 dizzying l. svimavaldandi, sem veldur svima; ruglandi
-dizzyingly ao. á sundlandi, svimavaldandi eða ruglandi hátt
-implemented l. útfærður; fullgerður; framkvæmdur; framfylgdur; efnaður
+dizzyingly ao. svimandi; á svimavaldandi eða ruglandi hátt
+implemented l. útfærður; fullgerður; framkvæmdur; framfylgdur; efndur
 mordantly ao. bítandi, hvasslega; napurlega; meinlega
 admired l. dáður; sem litið er upp til; sem borin er virðing fyrir
 lifesaver n. bjargvættur, björgunarmaður, sá sem bjargar lífi e-s; e-r eða e-ð sem reddar málum (óforml.)
@@ -10038,3 +10041,43 @@ whodunnit n. sjá %[whodunit]%
 dried l. þurrkaður, þornaður
 shrivelled l. skorpnaður, hrukkaður, skrælnaður
 unbuildable l. óbyggjanlegur, sem ekki er hægt að byggja
+plumb bob n. blýlóð, blýsakka
+humping n. kynmök (óforml.)
+kismet n. örlög, forlög, sköp
+kismat n. sjá %[kismet]%
+chancroid n. linsæri (kynsjúkdómur)
+donovanosis n. nárasæri (kynsjúkdómur)
+prostatitis n. blöðruhálskirtilsbólga
+epididymitis n. lyppubólga
+proctitis n. endaþarmsbólga
+urethritis n. þvagrásarbólga
+antianxiety l. kvíðastillandi
+ganja n. kannabis, gras, marijúana (óforml. slangur)
+scatology n. saurfræði
+coprology n. saurfræði
+coprophagia n. saurát
+coprophagy n. sjá %[coprophagia]%
+coprophagous l. sauráts-, saurétandi ([~ insects])
+scatological l. saurfræðilegur; saur-, kúka- ([~ humour])
+scat s. hypja sig, drífa sig á brott; syngja bullorðasöng í djassi ([sing ~]); uh. burt! hypjaðu þig!; n. saur, kúkur; bullorðasöngur í djassi
+fire hydrant n. brunahani
+alarmed l. skelkaður, óttasleginn; með viðvörunarbjöllu, tengdur viðvörunarkerfi
+tailwind n. meðbyr, meðvindur
+batty l. snarruglaður, klikkaður, brjálaður, genginn af göflunum (óforml.)
+argan n. argantré
+dumbbell n. handlóð
+hypertonic l. ofþrýstinn, yfirþrýstinn; ofspenntur (um vöðva)
+gunsight n. sigti (mið á byssu)
+harmonise s. sjá %[harmonize]%
+neuralgic l. taugaverks-, taugapínu-
+eclecticism n. fjölbreytni, samtíningur af ýmsu ólíku; úrvalsstefna (í heimspeki)
+polystyrene n. pólýstýren (plastefni)
+phototropism n. ljósleitni
+arborist n. trjáræktarmaður, trjáræktarsérfræðingur
+unshorn l. órúinn, óklipptur ([~ sheep])
+flirty l. daðurslegur, daðursamur, daðurgjarn, daður-
+subdural l. innanbasts-
+thereamong ao. þar á meðal (sjá %[there]% og %[among]%)
+thereamongst ao. þar á meðal (sjá %[there]% og %[amongst]%)
+affirmatory l. staðfestandi (sjá %[affirmation]%); jálegur, jákvæður
+ragebait n. bræðibeita, reiðibeita

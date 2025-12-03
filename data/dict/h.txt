@@ -289,7 +289,7 @@ headstrong l. ákafur; þrályndur
 headwaters nft. upptök (árinnar [of the river])
 headway n. framskrið (skips); framgangur ([to make ~]); hæð (brúarboga, dyragáttar)
 headwear n. höfuðfat
-headwind n. mótviðri
+headwind n. mótviðri, mótvindur
 headwork n. andlegt erfiði
 head workman n. formaður verkamanna
 heady l. framhleypinn, flumósa; einþykkur, þrár; ofsafenginn; stríður (um straum); áfengur (um drykk) [a ~ brew]
@@ -476,7 +476,7 @@ hereafter ao. hér eftir, héðan í frá; í öðru lífi; n. annað líf
 hereat ao. við þetta, sakir þessa
 herein ao. hér í, í þessu
 hereby ao. hér með, með þessu, af þessu
-heretofore ao. áður, fyrrum; [as ~] eins og hingað til, eins og að undanförnu
+heretofore ao. áður, fyrrum; hingað til; [as ~] eins og hingað til, eins og að undanförnu
 hereupon ao. hér eftir, eftir þetta
 hereditable l. arfgengur
 hereditament n. arfur, erfð
@@ -958,7 +958,7 @@ humorous l. gamansamur, fyndinn; duttlungafullur; sérvitur
 humorously ao. skringilega, hlægilega, í gríni
 humour n. skap, geð; fyndni, kímni, grín; [to take (catch) one in the ~] sitja um, að einhver sé í góðu skapi; [to put one into a good ~] koma (e-m) í gott skap; [to enter into the ~] taka gamninu; [out of ~] í illu skapi; vökvi, vessi (í líkamanum); s. laga sig eftir skapi (e-s); haga sér eftir
 humoursome l. duttlungafullur, önugur; eftirlátur (e-m [to])
-hump n. kryppa, herðakistill; vont skap; s. setja kryppu á ([to ~ the back])
+hump n. kryppa, herðakistill; vont skap; s. setja kryppu á ([to ~ the back]); ríða (óforml.)
 humpback n. kroppinbakur
 humpbacked l. sem hefur herðakistil
 humpty-dumpty n. stutt og digur persóna (með kryppu upp úr bakinu)
@@ -1010,7 +1010,7 @@ husbandry n. jarðyrkja; sparsemi, ráðdeild; [rural ~] landbúnaður
 hush uh. þei! s. þagga niður í; svæfa (barn); bæla niður; þagna, verða hljóður; n. þögn, kyrrð
 hushed l. lágur (um hljóð)
 husk n. hýði (af korni, matbaunum o.s.frv.); s. taka hýðið af
-husky l. hýðiskenndur; rámur (um málróm), hás; þurr
+husky l. hýðiskenndur; rámur (um málróm), hás; þurr; n. sleðahundur
 hussar n. léttvopnaður (upprunalega ungverskur) riddari
 hussif n. lítið saumahylki, nálhús; sjá %[housewife]%
 hussy n. dækja

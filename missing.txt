@@ -342,7 +342,6 @@ emic
 stylometry
 stylometric
 petard n. (endurskoða núverandi skilgr.)
-kook
 hardline
 commissary (endurskoða skilgr.)
 gigolo
@@ -4199,6 +4198,7 @@ tonal
 drystone
 prospection
 compellingly
+approving
 approvingly
 revealingly
 deceptively
@@ -5845,7 +5845,6 @@ normalized
 normalised
 racemic
 pseudoracemic
-Ontologically
 orthotics
 disinhibit
 utilized
@@ -5876,3 +5875,72 @@ bluefish
 deciphered
 unbuild
 self-perpetuating
+lam (endurskoða)
+mensch
+layby
+herpes (endurskoða)
+zika
+ranked
+outranked
+anchored
+unanchored
+absorbed
+outpatient
+striving
+published
+contracted
+depersonalize
+depersonalise
+wirehaired
+caucus (endurskoða)
+theosis
+sponsee
+sponsor (endurskoða)
+upscale
+doomscrolling
+whiplash (endurskoða)
+neuter (endurskoða)
+kook
+kookery
+spat (endurskoða)
+limbo (endurskoða, stangardans)
+reimagination
+horseplay
+wattage
+tympanic
+lockpick
+lockpicker
+decorated
+vocationally
+assuredness
+sureness
+auteurism
+reclining
+thriftshop
+enhancing
+plausive
+applausive
+disconfirming
+passive-aggressive
+passive aggression
+subcritical
+mahjong
+psychobiology
+rotating
+relentlessly
+unreflective
+fableist
+ableist
+chiffonier
+mitochondria
+ominously
+athrotaxis
+deselect
+serialize
+serialization
+ruggedly
+surcoat
+handlebar
+bookstall
+allative
+taser

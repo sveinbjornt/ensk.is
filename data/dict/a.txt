@@ -751,15 +751,15 @@ allopathist n. stórskammtalæknir
 allopathy n. stórskammtalækningar
 allot s. úthluta
 allotment n. úthlutun; hluti
-allow s. játa, kannast við; samþykkja; leyfa; láta; veita; gera ráð fyrir (e-u [for])
+allow s. leyfa; samþykkja; játa, kannast við; láta; veita; gera ráð fyrir (e-u [for])
 allowable l. leyfilegur
 allowance n. leyfi; eyðslufé; vasapeningur; skammtur, frádráttur, uppbót; [monthly ~] mánaðarpeningar; [make ~ for] gera eða ætla fyrir (e-u), hafa tillit til; [at no ~] gegndarlaust; s. skammta
-alloy s. blanda (með ódýrari málmi); tempra; n. málmblendingur; málmblanda
-alloyage n. blöndun (málma)
+alloy s. blanda (með öðrum málmi); tempra; n. málmblendingur; málmblanda
+alloyage n. málmblöndun, blöndun málma
 allude s. eiga við; lúta að e-u ([to]); benda til e-s ([to])
-allure s. lokka
-allurement n. lokkun, ginning; töfrar; agn
-alluring l. lokkandi, freistandi
+allure s. lokka, ginna, freista, tæla; n. lokkun, ginning, freisting, tæling; aðdráttarafl ([the ~ of riches])
+allurement n. lokkun, ginning, freisting, tæling; töfrar; agn
+alluring l. lokkandi, freistandi, ginnandi, tælandi
 allusion n. tilbending; [make ~ to] benda til e-s
 allusive l. bendandi til ([to])
 alluvial l. sem lýtur að árburði

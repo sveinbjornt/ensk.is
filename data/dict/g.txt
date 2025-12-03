@@ -190,11 +190,11 @@ gemmy l. settur gimsteinum; gimsteina-
 gendarme n. lögregluliðsmaður
 gendarmery n. lögreglulið
 gender n. kyn; s. ala, fæða, geta af sér
-genealogic l. sem lýtur að ættartölum
-genealogical l. sem lýtur að ættartölum
+genealogic l. sem lýtur að ættartölum, sifjafræðilegur
+genealogical l. sem lýtur að ættartölum, sifjafræðilegur
 genealogist n. ættartölumaður, ættfræðingur
 genealogize s. rekja ættartölu e-s, rekja ættartölur
-genealogy n. ættartala, ættfræði, ættvísi
+genealogy n. ættartala, ættfræði, ættvísi, sifjafræði
 general l. sem nær yfir allt, almennur, algildur; [in ~] yfir höfuð að tala, yfirleitt; n. hershöfðingi, herforingi ([~ in the army])
 generalissimo n. æðsti hershöfðingi
 generality n. mestur hluti; [like the ~ of people] eins og allur þorri manna
@@ -436,9 +436,9 @@ gnashing n. gnístran ([~ of teeth])
 gnat n. mýfluga
 gnaw s. naga ([~ away, off, out, asunder, in twain])
 gnawer n. nagari, nagdýr
-gnome n. álfur; dvergur; spakmæli, kjarnyrði
+gnome n. dvergur, jarðvættur; spakmæli, kjarnyrði
 gnomic l. sem lýtur að spakmælum
-gnomon n. vísir á sólskífu ([like ~s of a vast sundial])
+gnomon n. vísir á sólskífu
 gnostic l. þekkingar-, lærdóms- ([~ pride]); kænn, slunginn; [Gnostic] sem lýtur að dulspeki gnóstíka
 Gnostics nft. gnóstíkar (dulspekingar)
 Gnosticism n. dulspeki gnóstíka
@@ -464,14 +464,14 @@ godfather n. guðfaðir, skírnarvottur
 God-fearing l. guðhræddur
 godhead n. guðdómur
 godhood n. guðdómur
-godless l. guðlaus, óguðlegur
+godless l. guðlaus
 godlike l. guðlegur, guðhræddur
 godliness n. guðhræðsla
-godly l. guðhræddur; guðrækinn
+godly l. guðhræddur; guðrækinn; guðlegur
 godmother n. guðmóðir
 godsend n. óvænt lán, guðsblessun
 godson n. guðsonur, strákur sem maður hefur verið skírnarvottur að
-godspeed n. lán, hamingja; góð ferð; [to bid ~] óska (e-m) góðrar ferðar
+godspeed n. lán, hamingja; góð ferð; [to bid (wish) ~] óska (e-m) góðrar ferðar
 godwit n. jaðrakan (fugl)
 goffer s. leggja í fellingar
 goggle s. ranghvolfa (gjóta) augunum; ranghvolfast ([his eyes ~d]); n. starandi augnaráð; ft. snjó- eða rykgleraugu
@@ -597,7 +597,7 @@ grandmother n. amma, föður- eða móðurmóðir
 grandsire n. ættfaðir; afi
 grandson n. sonar- eða dóttursonur, karlkyns barnabarn
 grandam n. amma; gömul kona
-grandee n. stórmenni, stórgæðingur (á Spáni)
+grandee n. stórmenni, stórgæðingur
 grandeur n. tign, skraut
 grandiloquence n. orðagjálfur; gort; stórmæli
 grandiloquent l. raupsamur, stórmæltur
