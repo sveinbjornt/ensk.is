@@ -7388,6 +7388,7 @@ civilisation n. sjá %[civilization]%
 backwater n. krummaskuð, útkjálki, afskekktur staður
 coupé n. tveggja sæta bifreið, bifreið með tveimur sætum; sportbíll
 ableism n. fötlunarfordómar
+ableist n. sá sem er með fordóma í garð fatlaðra; l. fötlunarfordóma-, fordómafullur í garð fatlaðra
 cayenne n. rauður pipar, cayenne-pipar, kajennpipar
 colosseum n. hringleikahús
 leaderboard n. topplisti, leiðtogatafla, stigatafla
@@ -10097,3 +10098,16 @@ breathalyzer n. áfengismælir, vínandamælir
 breathalyser n. sjá %[breathalyzer]%
 ergophobia n. vinnufælni
 spirometer n. öndunarmælir
+reinvigorate s. endurnæra, endurvekja, endurnýja, styrkja
+liven s. lífga, fjörga; lifna við
+dampen s. gera rakan, væta; draga úr, dempa ([~ his enthusiasm])
+fableist n. sjá %[fabulist]%
+psychobiology n. sálarlíffræði
+psychobiologist n. sálarlíffræðingur
+ominously ao. óheillavænlega
+bookstall n. bókabás, bóksölubás, bókasölubúð
+waistcloth n. mittisband, belti; lendaskýla, lendaklæði
+surcoat n. kirtill, yfirhöfn (yfir brynju eða herklæði)
+thriftshop n. nytjabúð, nytjamarkaður, búð sem selur notaðar vörur
+sureness n. vissa; öryggi; stöðugleiki; sjálfsöryggi
+decorated l. skreyttur, prýddur; sæmdur (heiðursmerkjum)
