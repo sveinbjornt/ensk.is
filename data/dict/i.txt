@@ -119,11 +119,11 @@ imageable l. ímyndanlegur
 imagery n. myndir; myndaskart; líkingarfullt orðfæri
 imaginable l. hugsanlegur
 imaginary l. ímyndaður
-imagination n. ímyndun; ímyndunarafl
-imaginative l. ímyndunar-; hugvitssamur; hugmyndaríkur
+imagination n. ímyndunarafl; ímyndun
+imaginative l. ímyndunar-; hugvitssamur, hugmyndaríkur
 imagine s. ímynda (hugsa) sér; hugsa upp
-imbecile l. veiklaður, sljór (á líkama eða sál); heimskulegur; n. fábjáni, heimskingi, fæðingarhálfviti
-imbecility n. sljóleiki (vitsmuna); vanmáttur
+imbecile n. fábjáni, heimskingi, fæðingarhálfviti; l. veiklaður, sljór (á líkama eða sál); heimskulegur
+imbecility n. sljóleiki (vitsmuna), heimska; vanmáttur
 imbed s. sjá %[embed]%
 imbibe s. drekka (soga) í sig ([~ knowledge, moisture])
 imbody s. sjá %[embody]%

@@ -6350,7 +6350,7 @@ seabed n. sjávarbotn, hafsbotn
 satiated l. saddur, mettur
 carrack n. karkari (sterkbyggt farmskip)
 permalink n. hlekkur (á veraldarvefnum) sen er varanlegur (og þolir tímans tönn)
-locator n. staðsetjari
+locator n. staðsetjari; hnitill
 media nft. miðlar, fjölmiðlar
 print media nft. prentmiðlar
 input n. inntak, ílag, inngjöf; aðföng; innstreymi
@@ -7289,6 +7289,7 @@ auklet n. smáálka
 little auk n. haftyrðill
 hominid n. maður, dýr af mannætt; l. mannættar-
 homo sapiens n. dýrategundin maður, maðurinn, hinn viti borni maður
+sapiens n. sjá %[homo sapiens]%
 chimneysweep n. sótari
 sunscreen n. sólarvörn
 tenderloin n. lund ([beef ~] nautalund)
@@ -10082,3 +10083,17 @@ thereamongst ao. þar á meðal (sjá %[there]% og %[amongst]%)
 affirmatory l. staðfestandi (sjá %[affirmation]%); jálegur, jákvæður
 ragebait n. bræðibeita, reiðibeita
 gaur n. indverskur gáruxi
+moron n. hálfviti, fábjáni, fáviti
+moronic l. bjánalegur, heimskulegur
+doofus n. vitleysingur, heimskingi
+retarded l. seinkaður, aftraður, heftur; þroskaheftur (óforml.)
+frowsy l. subbulegur, sóðalegur, ósnyrtilegur (í útliti)
+saphead n. einfeldningur, heimskingi
+Midas n. Mídas (konungur í Frýgíu til forna skv. grískri goðafræði); [to have the ~ touch] þegar allt sem maður snertir verður að gulli
+deselect s. afvelja
+handlebar n. stýri, handfang
+taser n. rafbyssa
+breathalyzer n. áfengismælir, vínandamælir
+breathalyser n. sjá %[breathalyzer]%
+ergophobia n. vinnufælni
+spirometer n. öndunarmælir

@@ -1634,8 +1634,6 @@ disassociation
 shininess
 backer
 standby
-moron
-moronic
 nonstandard
 patina
 geostrategy
@@ -5935,12 +5933,12 @@ chiffonier
 mitochondria
 ominously
 athrotaxis
-deselect
 serialize
 serialization
 ruggedly
 surcoat
-handlebar
 bookstall
 allative
-taser
+immobilizer
+revealing
+maximalist
