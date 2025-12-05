@@ -10097,6 +10097,7 @@ taser n. rafbyssa
 breathalyzer n. áfengismælir, vínandamælir
 breathalyser n. sjá %[breathalyzer]%
 ergophobia n. vinnufælni
+ergophobe n. vinnufælin manneskja
 spirometer n. öndunarmælir
 reinvigorate s. endurnæra, endurvekja, endurnýja, styrkja
 liven s. lífga, fjörga; lifna við
@@ -10111,3 +10112,6 @@ surcoat n. kirtill, yfirhöfn (yfir brynju eða herklæði)
 thriftshop n. nytjabúð, nytjamarkaður, búð sem selur notaðar vörur
 sureness n. vissa; öryggi; stöðugleiki; sjálfsöryggi
 decorated l. skreyttur, prýddur; sæmdur (heiðursmerkjum)
+boffin n. vísindamaður, rannsóknarmaður, tæknisérfræðingur (óforml.)
+sniveling l. kjökrandi, snöktandi, skælandi
+sniffle s. sjúga upp í nefið; snökta; n. nefsog; snökt
