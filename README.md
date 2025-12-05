@@ -1,6 +1,6 @@
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 [![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg)](https://www.python.org/downloads/release/python-3130/)
-[![Build](https://github.com/sveinbjornt/ensk.is/actions/workflows/python-app.yml/badge.svg)]()
+[![Build](https://github.com/sveinbjornt/ensk.is/actions/workflows/python-app.yml/badge.svg)](https://github.com/sveinbjornt/ensk.is/actions)
 
 # ensk.is
 
@@ -110,8 +110,7 @@ endorsement by the author or the affirmer.
 
 ## Source license
 
-Copyright (c) 2021-2025 Sveinbjorn Thordarson &lt;[sveinbjorn@sveinbjorn.org](mailto:sveinbjorn@sveinbjorn.org)&gt;.
-All rights reserved.
+Copyright (c) 2021-2025 [Sveinbjorn Thordarson](mailto:sveinbjorn@sveinbjorn.org)
 
 Redistribution and use in source and binary forms, with or without modification,
 are permitted provided that the following conditions are met:
