@@ -1,5 +1,5 @@
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
-[![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg)](https://www.python.org/downloads/release/python-3130/)
+[![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3110/)
 [![Build](https://github.com/sveinbjornt/ensk.is/actions/workflows/python-app.yml/badge.svg)](https://github.com/sveinbjornt/ensk.is/actions)
 
 # ensk.is
@@ -49,7 +49,7 @@ Additions can be viewed [here](data/dict/_add.txt).
 Ensk.is an ASGI web application implemented using the
 [FastAPI](https://fastapi.tiangolo.com/) Python web framework.
 To deploy it, you need to set up a Python virtual
-environment (3.12+) and install dependencies:
+environment (3.11+) and install dependencies:
 
 ```sh
 virtualenv -p /path/to/python3 venv
