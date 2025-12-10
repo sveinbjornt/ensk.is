@@ -3085,6 +3085,7 @@ guacamole n. lárperumauk
 goldsmithing n. gullsmíði
 goldsmithery n. gullsmíði
 suburbanize s. úthverfavæða
+grift n. sviksemi, svindl
 grifter n. svikahrappur, svindlari
 ham-fisted l. klaufalegur, klunnalegur, ólaginn
 bunkmate n. kojufélagi
@@ -3354,7 +3355,7 @@ pictogram n. teikn
 drifter n. flakkari, flækingur
 toxin n. eitur, eiturefni
 candlefish n. drungi, svartþorskur (e.k. fiskur)
-skeletal l. beinagrindar-, beinagrindarlegur
+skeletal l. beinagrindar-, beinagrindarlegur; gríðarlega magur, skinn og bein
 autopilot n. sjálfstýring
 pigmentation n. litun
 conspiracist n. samsærismaður, samsæriskenningamaður
@@ -10124,3 +10125,6 @@ inordinately ao. óhæfilega, óhóflega
 jerkwad n. leiðindamanneskja, ógeðfelld manneskja (óforml.)
 bro n. bróðir, gaur, vinur, lagsmaður (slangur, óforml. stytt. á %[brother]%)
 crappy l. lélegur, ömurlegur, drasl- (óforml., sjá %[crap]%)
+spareness n. naumleiki, rýrð
+burnished l. fægður, fágaður; gerður gljáandi; skínandi
+gramophile n. hljómplötusafnari, hljómplötuunnandi

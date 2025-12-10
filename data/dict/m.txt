@@ -272,7 +272,7 @@ marc n. vinberjahrat
 marcescent l. visnandi
 March n. marsmánuður
 march n. landamæri, landamerkjaland; s. [~ with a spot] liggja að e-m stað; [they ~ on each other] lönd þeirra liggja saman
-march n. ganga ([a long, troublesome ~]); herganga; (her)áfangi; hergöngulag; gangur, rás ([~ of time, the general ~ of events]); [one day's ~] eins dags ganga, dagleið, áfangi; [~ out] útrás; [line of ~] (her)göngustefna; s. ganga (samstiga sem á) hergöngu; ganga ([~ away, forward, off, on)]; fara
+march n. ganga ([a long, troublesome ~]); herganga, mars; (her)áfangi; hergöngulag; gangur, rás ([~ of time, the general ~ of events]); [one day's ~] eins dags ganga, dagleið, áfangi; [~ out] útrás; [line of ~] (her)göngustefna; s. ganga (samstiga sem á) hergöngu, marsera; ganga ([~ away, forward, off, on)]; fara
 marchioness n. markgreifafrú
 marchpane n. marsípan (forn.), sjá %[marzipan]%
 marzipan n. marsípan, sætbakstur
@@ -439,8 +439,8 @@ maturity n. fullþroski; [years of ~] þroskaaldur; [at ~] í gjalddaga ([arrive
 matutinal l. morgunlegur, morgun- ([~ bathing, business])
 matutine l. morgunlegur, morgun- ([~ bathing, business])
 maudlin l. voteygður; ölvaður; of viðkvæmur
-maul n. barefli, kylfa; s. berja til óbóta, misþyrma
-maulstick n. stafur, sem málarar hafa hendinni til stuðnings
+maul n. barefli, kylfa, sleggja; s. berja til óbóta, misþyrma; rífa í sig, rífa á hol
+maulstick n. stafur sem málarar hafa hendinni til stuðnings
 maunder s. muðla; muldra; tala (hafa) höfuðóra, ganga í leiðslu
 Maundy Thursday n. skírdagur
 mausoleum n. veglegt grafhýsi (stórhöfðingja)

@@ -4580,7 +4580,6 @@ airboat
 strident (endurskoða)
 tantrum (endurskoða)
 swipe (endurskoða)
-grift
 lobby (enduruskoða, sem sögn)
 credit (endurskoða)
 scutter
@@ -5808,6 +5807,7 @@ conspiracism
 gorging
 skewness
 stained
+yip
 yippie
 presbyopia
 aeration
@@ -5924,4 +5924,18 @@ maximalist
 recoup (endurskoða)
 airiness
 powderiness
-spareness
+ethnomusicology
+supererogatory
+fifth wheel
+miffed
+teosinte
+cob
+emmer
+cementum
+hijinks
+jink
+capsicum
+omnificent
+lumpectomy
+bolthole
+twitching
