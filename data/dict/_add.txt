@@ -3086,7 +3086,7 @@ goldsmithing n. gullsmíði
 goldsmithery n. gullsmíði
 suburbanize s. úthverfavæða
 grift n. sviksemi, svindl
-grifter n. svikahrappur, svindlari
+grifter n. svikahrappur, svindlari, blekkingamaður
 ham-fisted l. klaufalegur, klunnalegur, ólaginn
 bunkmate n. kojufélagi
 brilliance n. ljómi; snilld ([his ~ was evident to all])
@@ -10128,3 +10128,6 @@ crappy l. lélegur, ömurlegur, drasl- (óforml., sjá %[crap]%)
 spareness n. naumleiki, rýrð
 burnished l. fægður, fágaður; gerður gljáandi; skínandi
 gramophile n. hljómplötusafnari, hljómplötuunnandi
+melanoma n. sortuæxli, húðæxli, húðkrabbamein
+bronchiectasis n. berkjuskúlk
+simultaneity n. samtíðni, samtíðleiki
