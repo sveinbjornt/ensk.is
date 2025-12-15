@@ -533,7 +533,7 @@ sedate l. hæglátur, gætinn, ráðsettur, stilltur; s. gefa sefunarlyf
 sedateness n. gætni, stilling
 sedative l. stillandi, sefandi; n. sefunarlyf
 sedentariness n. kyrrsetur
-sedentary l. sitjandi, kyrrsetu-; [~ life] kyrrsetur
+sedentary l. sitjandi, kyrrsetu-; [~ life] kyrrsetulíf
 sedge n. stör, stargresi
 sedgy l. vaxinn stör
 sediment n. botnfall, grugg á botni, dreggjar, undanlás
@@ -1296,7 +1296,7 @@ slantly ao. á ská, skáhalt
 slantways ao. á ská, skáhalt
 slantwise ao. á ská, skáhalt
 slap n. skellur (með lófanum); snoppungur, löðrungur; s. slá (með lófanum); gefa (e-m) snoppung; ao. beint ([hit me ~ in the eye]); [~ down] í hvellinum
-slap-bang ao. & l. hirðulaus
+slap-bang l. hirðulaus; ao. hirðuleysislega
 slapdash ao. snögglega út í bláinn
 slash s. höggva, skera langan og djúpan skurð; n. högg; djúpur skurður (í hold); klauf (t.d. upp í ermi); skástrik
 slate n. flögugrjót; þakhella; reikningsspjald; s. leggja þakhellur á

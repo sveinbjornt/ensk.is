@@ -286,6 +286,7 @@ wobbly l. valtur
 workflow n. verkferli, verkskipulag, verkflæði
 workforce n. vinnuafl, starfslið; vinnumarkaður
 widespread l. víðtækur; útbreiddur
+wattage n. rafafl
 watt n. vatt (mælieining afls)
 megawatt n. megavatt (milljón vött, sjá %[mega-]% og %[watt]%)
 gigawatt n. gígavatt (milljarður vatta, sjá %[giga-]% og %[watt]%)
@@ -6816,7 +6817,7 @@ pleather n. gervileður (samsett úr %[plastic]% og %[leather]%)
 coprophilia n. saurást
 banqueter n. veislugestur
 banqueteer n. veislugestur
-foodie n. matmaður (óforml.)
+foodie n. matmaður, áhugamaður um mat (óforml.)
 doorknocker n. dyrahamar
 bequeathal n. ánöfnun, arfleiðing
 chinless l. hökulaus
@@ -8116,7 +8117,7 @@ sportswoman n. íþróttakona
 athletics nft. íþróttir; frjálsar íþróttir
 energise s. sjá %[energize]%
 demoralise s. sjá %[demoralize]%
-lube n. sleipiefni (sjá %[lubricant]%); s. bera sleipiefni á, gera sleipt (sjá %[lubricate]%)
+lube n. sleipiefni (óforml. stytt. á %[lubricant]%); s. bera sleipiefni á, gera sleipt (óforml., sjá %[lubricate]%)
 helping hand n. hjálparhönd
 surface area n. flatarmál (yfirborðs), yfirborðsflötur
 revolutionise s. sjá %[revolutionize]%
@@ -10131,3 +10132,13 @@ gramophile n. hljómplötusafnari, hljómplötuunnandi
 melanoma n. sortuæxli, húðæxli, húðkrabbamein
 bronchiectasis n. berkjuskúlk
 simultaneity n. samtíðni, samtíðleiki
+heliport n. þyrluvöllur
+oligotrophic l. sem skortir næringu
+miffed l. pirraður, fýldur (sjá %[miff]%)
+allative l. tilgangsfall (í málfræði, [~ case])
+chiffonier n. kommóða (með spegli)
+mensch n. valmenni, heiðursmaður (óforml. Band. slangur)
+revered l. heiðraður, virtur; dýrkaður
+conspiracism n. samsærishyggja, samsærisheimssýn
+beguiled l. blekktur, svikinn; lokkaður
+balladist n. ballöðuskáld (sjá %[ballad]%)
