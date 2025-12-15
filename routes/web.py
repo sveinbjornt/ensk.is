@@ -5,6 +5,7 @@ Web routes
 
 from typing import Optional
 from datetime import datetime
+import random
 import re
 import aiofiles
 import aiofiles.os
@@ -515,6 +516,20 @@ async def stats(request: Request) -> Response:
             "wordstats": wordstats,
         },
     )
+
+
+@router.get("/random", include_in_schema=False)
+@router.head("/random", include_in_schema=False)
+async def random_route(request: Request) -> Response:
+    """Redirect to a random entry."""
+    word = random.choice(all_words)
+    url = f"/item/{word}"
+    headers = {
+        "Cache-Control": "no-cache, no-store, must-revalidate",
+        "Pragma": "no-cache",
+        "Expires": "0",
+    }
+    return RedirectResponse(url=url, status_code=302, headers=headers)
 
 
 @router.get("/sitemap.xml", include_in_schema=False)
