@@ -1670,7 +1670,7 @@ condolatory l. sem vottarhluttekning (samhryggð)
 condole s. samhryggjast (e-m [with])
 condolence n. samhryggð
 condonation n. fyrirgefning
-condone s. fyrirgefa
+condone s. fyrirgefa, umbera, leyfa að viðgangast, láta óátalinn
 condor n. gammur (gripfugl í Suður-Ameríku)
 conduce s. stuðla, styðja (að [to])
 conducive l. styrkjandi, eflandi ([to])
@@ -1684,8 +1684,8 @@ conduit n. (vatns)-veitustokkur; vatnsveita ([water ~]); pípa
 conduit pipe n. veitupípa
 condyle n. (leggjar)-hnúta
 cone n. keila; köngull (á grenitré eða furu); keilumyndaður fjallstoppur; s. gera keilumyndað
-confabulate s. skrafa
-confabulation n. skraf, samtal
+confabulate s. skrafa, rabba, spjalla á óformlegum nótum
+confabulation n. skraf, rabb, óformlegt samtal; íspuni (í sálfræði); uppspuni
 confect n. sætindi, sykurbakstur
 confection n. tilbúningur; sætindi; s. búa til (sætindi)
 confectioner n. sætabrauðsbakari, kryddbakari

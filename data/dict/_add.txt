@@ -3,10 +3,10 @@ database n. gagnagrunnur, gagnasafn
 classroom n. kennslustofa, skólastofa
 coedit s. meðritstýra, ritstýra ásamt öðrum; [he ~ed the dictionary] hann var meðritstjóri orðabókarinnar
 dune n. sandhóll (sem myndast úr foksandi), sandskafl
-microwave n. örbylgja; örbylgjuofn ([~ oven]); s. hita í örbylgjuofni
+microwave n. örbylgja; s. hita í örbylgjuofni
 microwave oven n. örbylgjuofn
 helicopter n. þyrla; [~ pilot] þyrluflugmaður
-computer n. tölva; (forn.) reiknari, e-r sem reiknar
+computer n. tölva; reiknari, e-r sem reiknar (úrelt)
 computer science n. tölvunarfræði
 computer scientist n. tölvunarfræðingur
 computing n. tölvun, tölvuvinnsla
@@ -28,7 +28,7 @@ biotechnology n. líftækni
 biotech n. líftækni (stytt. á %[biotechnology]%)
 complicated l. flókinn
 camera n. myndavél, ljósmyndavél; kvikmyndaupptökuvél
-blowjob n. tott, munnmök
+blowjob n. tott, munnmök (við karlmann)
 bookmark n. bókamerki
 broadband n. breiðband (hröð nettenging)
 subcommittee n. undirnefnd
@@ -42,7 +42,7 @@ video n. myndband, myndbandsupptaka
 wishlist n. óskalisti
 carbon tax n. kolefnisskattur
 hippie n. hippi
-hippy n. hippi
+hippy n. sjá %[hippie]%
 briefcase n. skjalataska
 television n. sjónvarp; sjónvarpstæki
 garage n. bílskúr
@@ -235,7 +235,7 @@ surfboard n. brimbretti
 rollerskate n. hjólaskauti; s. ferðast á hjólaskautum
 geyser n. goshver, hver
 penis n. typpi, getnaðarlimur, limur, göndull, tittlingur
-cunnilingus n. munnmök (þegar farið er niður á konu)
+cunnilingus n. munnmök (við konu)
 bestseller n. metsölubók; vara sem selst í miklu magni
 bestselling l. söluhæstur; metsölu-
 roommate n. herbergisfélagi, kammerat
@@ -493,7 +493,7 @@ doppelganger n. tvífari
 citizen n. borgari; ríkisborgari
 citizenship n. ríkisborgararéttur; ríkisfang
 donate s. gefa
-majordomo n. ráðsmaður, bryti, yfirmaður; bústjóri
+majordomo n. ráðsmaður, bryti; bústjóri
 operating system n. stýrikerfi
 user interface n. notendaviðmót, notendaskil
 pull request n. togbeiðni, dráttarbeiðni
@@ -10017,11 +10017,11 @@ underutilized l. vannýttur, ekki nýttur til fulls
 interdependence n. gagnhæði, víxlhæði; þegar tvö fyrirbæri eru háð hvort öðru
 interdependency n. sjá %[interdependence]%
 geometrically ao. rúmfræðilega
-poop deck n. skutur, skutpallur
+poop deck n. skutpallur
 ontogeny n. þróunar- eða þroskaferill stakrar lífveru
 triglyph n. þrískora
 credibleness n. trúverðugleiki, trúanleiki (yfirleitt %[credibility]%)
-undulating l. bylgjóttur; sem gengur í bylgjum; mishæðóttur
+undulating l. bylgjóttur; sem gengur í bylgjum; mishæðóttur; öldóttur
 advertize s. sjá %[advertise]%
 affinal l. sjá %[affine]%
 senescent l. aldraður, kominn til ára sinna, sem er að aldrast; öldrunar-
@@ -10030,7 +10030,7 @@ senesce s. aldrast, eldast, gamlast, koma til ára sinna
 long-established l. rótgróinn, gamalgróinn ([a ~ tradition])
 fistulous l. fistils-; pípu-
 Great Dane n. stórdani (þýsk hundategund)
-pentachord n. fimm tónar í röð (í tónlist)
+pentachord n. fimm tóna röð (í tónlist)
 diatonic l. díatónískur (tónstigi)
 diatomic l. tvíatóma-, tvífrumeinda- (í eðlisfræði)
 prissy l. vandlætinn, vandfýsinn; smámunasamur; teprulegur; penn
@@ -10038,7 +10038,7 @@ prissiness n. vandlæti, vandfýsni; smámunasemi; tepruskapur
 overnice l. óhóflega vandlátur, vandfýsinn; óhóflega vingjarnlegur eða almennilegur (í framkomu)
 factually ao. út frá staðreyndum, er varðar staðreyndir, þegar kemur að staðreyndum ([this is ~ incorrect])
 unionize s. stofna verkalýðsfélag ([~ the workplace]); ganga í verkalýðsfélag
-unionized l. í verkalýðsfélagi; búinn að mynda verkalýðsfélag ([the workers have already ~])
+unionized l. í verkalýðsfélagi; búinn að mynda verkalýðsfélag ([a ~ workforce])
 acclaimed l. hylltur, lofaður, virtur ([the ~ author])
 whodunit n. morðráðgáta, sakamálasaga (óforml. stytt. á [who done it?])
 whodunnit n. sjá %[whodunit]%
@@ -10086,10 +10086,10 @@ thereamongst ao. þar á meðal (sjá %[there]% og %[amongst]%)
 affirmatory l. staðfestandi (sjá %[affirmation]%); jálegur, jákvæður
 ragebait n. bræðibeita, reiðibeita
 gaur n. indverskur gáruxi
-moron n. hálfviti, fábjáni, fáviti
+moron n. hálfviti, fábjáni, fáviti (óforml.)
 moronic l. bjánalegur, heimskulegur
 doofus n. vitleysingur, heimskingi
-retarded l. seinkaður, aftraður, heftur; þroskaheftur (óforml.)
+retarded l. seinkaður, aftraður, heftur; þroskaheftur (niðrandi)
 frowsy l. subbulegur, sóðalegur, ósnyrtilegur (í útliti)
 saphead n. einfeldningur, heimskingi
 Midas n. Mídas (konungur í Frýgíu til forna skv. grískri goðafræði); [to have the ~ touch] þegar allt sem maður snertir verður að gulli
@@ -10131,7 +10131,7 @@ burnished l. fægður, fágaður; gerður gljáandi; skínandi
 gramophile n. hljómplötusafnari, hljómplötuunnandi
 melanoma n. sortuæxli, húðæxli, húðkrabbamein
 bronchiectasis n. berkjuskúlk
-simultaneity n. samtíðni, samtíðleiki
+simultaneity n. samtíðleiki; samtíðni, samtími (í eðlisfræði)
 heliport n. þyrluvöllur
 oligotrophic l. sem skortir næringu
 miffed l. pirraður, fýldur (sjá %[miff]%)
@@ -10142,3 +10142,5 @@ revered l. heiðraður, virtur; dýrkaður
 conspiracism n. samsærishyggja, samsærisheimssýn
 beguiled l. blekktur, svikinn; lokkaður
 balladist n. ballöðuskáld (sjá %[ballad]%)
+knight-errant n. farandriddari, flökkuriddari, riddari í ævintýraleit
+knighted l. sleginn til riddara, sæmdur riddaratign, aðlaður
