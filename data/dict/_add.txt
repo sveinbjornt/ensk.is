@@ -9931,7 +9931,7 @@ intersexuality n. millikyn
 subtext n. undirtexti; undirliggjandi merking í texta
 subtextual l. undirtexta-; er varðar undirliggjandi merkingu í texta
 blatancy n. blygðunarleysi
-bum n. afturendi, rass; ræfill, aumingi, slæpingi, róni, flækingur, götumaður; l. slæmur, illa haldinn, laskaður ([he's got a ~ leg]); s. betla, sníkja ([can I ~ a cigarette off you?])
+bum n. afturendi, rass (óforml.); ræfill, aumingi, slæpingi, róni, flækingur, götumaður; l. slæmur, illa haldinn, laskaður ([he's got a ~ leg]); s. betla, sníkja ([can I ~ a cigarette off you?])
 appealing l. aðlaðandi, heillandi, sem höfðar til
 unappealing l. óaðlaðandi, óheillandi, sem höfðar ekki til
 unobtrusively ao. á óáberandi hátt, á óáleitinn hátt
@@ -10144,3 +10144,10 @@ beguiled l. blekktur, svikinn; lokkaður
 balladist n. ballöðuskáld (sjá %[ballad]%)
 knight-errant n. farandriddari, flökkuriddari, riddari í ævintýraleit
 knighted l. sleginn til riddara, sæmdur riddaratign, aðlaður
+intrinsical l. sjá %[intrinsic]%
+buttocks nft. rass
+denunciative l. sjá %[denunciatory]%
+bosun n. sjá %[boatswain]%
+fenland n. fenjaland, mýrlendi
+dark-skinned l. þeldökkur, dökkur á hörund
+unmasking n. afhjúpun, þegar grímurnar falla
