@@ -58,7 +58,7 @@ astronaut n. geimfari
 cosmonaut n. (rússneskur) geimfari
 jazz n. djass, djasstónlist
 faeces nft. saur, hægðir
-hillbilly n. sveitavargur, afdalamaður
+hillbilly n. sveitavargur, sveitalubbi, afdalamaður
 sniper n. leyniskytta
 straitjacket n. spennitreyja
 quantum physics n. skammtafræði
@@ -6134,7 +6134,7 @@ asexual l. ókynhneigður, með skertan kynferðislegan áhuga
 smithereens nft. öreindir, tætlur; [blow to ~] að sprengja í tætlur
 layover n. millilending (þegar ferðast er með flugvél)
 kingpin n. glæpakóngur, glæpaforingi, mafíuforingi
-doomed l. dæmdur, dauðadæmdur, vonlaus, steyptur í glötun
+doomed l. dæmdur, dauðadæmdur, steyptur í glötun; vonlaus
 mastermind s. að vera heilinn á bak við eitthvað; n. snillingur, hugmyndasmiður, hönnuður (gjarnan notað um glæpi eða illvirki)
 slingshot n. slöngva, teygjubyssa
 hijinx nft. brall, uppákomur, brek, sprell, strákapör
@@ -10137,7 +10137,7 @@ oligotrophic l. sem skortir næringu
 miffed l. pirraður, fýldur (sjá %[miff]%)
 allative l. tilgangsfall (í málfræði, [~ case])
 chiffonier n. kommóða (með spegli)
-mensch n. valmenni, heiðursmaður (óforml. Band. slangur)
+mensch n. valmenni, heiðursmaður (óforml. bandarískt slangur)
 revered l. heiðraður, virtur; dýrkaður
 conspiracism n. samsærishyggja, samsærisheimssýn
 beguiled l. blekktur, svikinn; lokkaður
@@ -10151,3 +10151,8 @@ bosun n. sjá %[boatswain]%
 fenland n. fenjaland, mýrlendi
 dark-skinned l. þeldökkur, dökkur á hörund
 unmasking n. afhjúpun, þegar grímurnar falla
+tarbosaurus n. þyrilgramur (risaeðla)
+homomorphism n. sammótun (í stærðfræði)
+bugler n. lúðurblásari
+eerily ao. óhugnanlega, skuggalega
+tartlet l. lítil terta; lauslát ung stúlka
