@@ -1,4 +1,4 @@
-fable n. dæmisaga, skröksaga; tilbúningur, ósannindi; s. segja frá (eins og í dæmisögu); skrökva upp
+fable n. dæmisaga, goðsaga; skröksaga; tilbúningur, ósannindi; s. segja frá (eins og í dæmisögu); skrökva upp
 fabler n. skröksöguhöfundur
 fabric n. efni; bygging; vefnaður; vefnaðarvara
 fabricate s. búa til; ljúga upp; falsa
@@ -937,7 +937,7 @@ formal l. formlegur; reglulegur; ytri; viðhafnarlegur; einstrengingslegur; full
 formalism n. formfesta; viðhafnarsiðir (við guðsþjónustu)
 formalist n. siðamaður
 formality n. ytra snið; viðhöfn, formlegheit; regla; formsatriði
-formalize s. koma réttu sniði á e-ð; gera lagalegt (formlegt)
+formalize s. formgera; koma réttu sniði á e-ð; gera formlegt
 formally ao. að forminu til, formlega
 formation n. myndun; lögun; mótun; röðun, fylking ([the troops got into ~]); framsetning ([~ of an argument])
 formative l. myndandi, skapandi, mótandi; myndunar-, mótunar-

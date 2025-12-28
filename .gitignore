@@ -106,3 +106,4 @@ tools/*.json
 
 .coverage
 *.xml
+tei.py

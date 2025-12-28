@@ -409,7 +409,7 @@ tugboat n. dráttarbátur
 Celt n. Kelti
 xenolith n. framandsteinn, hnyðlingur
 decanter n. karafla, borðflaska
-genetics n. erfðafræði
+genetics n. erfðafræði, genafræði
 genetic l. erfðafræðilegur, erfðafræði-, erfða-; sem lýtur að tilurð e-s
 genetical l. sjá %[genetic]%
 genic l. sjá %[genetic]%
@@ -1034,7 +1034,7 @@ Zionism n. síonismi (sú stefna að stofna sjálfstætt ríki gyðinga í Pales
 Zionist n. síonisti (sá sem aðhyllist síonisma, sjá %[Zionism]%); l. síonista-
 zeta n. sjötti stafurinn í gríska stafrófinu (ζ)
 zeppelin n. loftfar, loftskip
-Zeus n. Seifur, æðsti guðinn í forngrískri goðafræði
+Zeus n. Seifur (æðsti guðinn í forngrískri goðafræði)
 zero gravity n. þyngdarleysi (t.d. í geimskipi eða geimstöð)
 amplifier n. magnari
 amp n. magnari (stytt. á %[amplifier]%); amper (grunneining rafstraums)
@@ -1859,7 +1859,8 @@ infinitely ao. óendanlega, út í óendanleika
 homegrown l. heimaræktaður, heimaalinn
 empiricist n. raunhyggjumaður (sjá %[empiricism]%)
 luminosity n. ljósafl; lýsing
-unthinkable l. óhugsandi, óhugsanlegur
+thinkable l. hugsanlegur, sem hægt er að hugsa sér; mögulegur
+unthinkable l. óhugsandi, óhugsanlegur; ómögulegur
 socially ao. félagslega
 Cartesian l. sem tengist heimspeki René Descartes; n. fylgismaður heimspeki Descartes
 Cartesianism n. heimspeki(stefna) René Descartes
@@ -2983,6 +2984,8 @@ salon n. (stór) stofa, gestastofa; gallerí; snyrtistofa; [hair ~] hárgreiðsl
 antireligious l. andtrúarlegur, gegn eða á móti trúarbrögðum
 perceptual l. skynjunar-, eftirtektar-, varurðar-
 serendipity n. slembilukka
+serendipitous l. heppilegur, lánsamur (sökum slembni)
+serendipitously ao. af einskærri slembilukku, af lánsemi einni
 impostor syndrome n. loddaralíðan
 callousness n. harðúð, kaldlyndi, tilfinningaleysi (sjá %[callous]%)
 striptease n. nektardans, strípidans
@@ -10113,7 +10116,7 @@ ominously ao. óheillavænlega
 bookstall n. bókabás, bóksölubás, bókasölubúð
 waistcloth n. mittisband, belti; lendaskýla, lendaklæði
 surcoat n. kirtill, yfirhöfn (yfir brynju eða herklæði)
-thriftshop n. nytjabúð, nytjamarkaður, búð sem selur notaðar vörur
+thrift shop n. nytjabúð, nytjamarkaður, búð sem selur notaðar vörur
 sureness n. vissa; öryggi; stöðugleiki; sjálfsöryggi
 decorated l. skreyttur, prýddur; sæmdur (heiðursmerkjum)
 boffin n. vísindamaður, rannsóknarmaður, tæknisérfræðingur (óforml.)
@@ -10157,7 +10160,7 @@ tarbosaurus n. þyrilgramur (risaeðla)
 homomorphism n. sammótun (í stærðfræði)
 bugler n. lúðurblásari
 eerily ao. óhugnanlega, drungalega; skuggalega
-tartlet n. lítil terta; lauslát ung stúlka (óforml., niðrandi)
+tartlet n. lítil terta
 yashmak n. andlitsblæja (múslimskra kvenna)
 moisturizer n. rakakrem
 vegetal l. plöntu-, jurta-; urtskauts-
@@ -10167,3 +10170,25 @@ pickup truck n. pallbíll, pallbifreið
 anticlerical l. gegn prestum
 anticlericalism n. andúð á prestum, fjandsemi í garð klerkastéttarinnar
 spying n. njósnir
+marginalize s. jaðarsetja, ýta til hliðar, gera hornreka, einangra
+marginalized l. jaðarsettur, einangraður, gerður hornreka
+davit n. bátsugla
+fabled l. sögufrægur, goðsögulegur; uppspunninn, skáldaður ([the fabled city of Atlantis])
+attractiveness n. aðdráttarafl; þokki
+teeter s. riða (til falls); [~ on the brink of bankruptcy] riða á barmi gjaldþrots
+formalization n. formgerving, það ferli að gera e-ð formlegt (sjá %[formalize]%)
+constitutionalism n. stjórnarskrárfesta
+unofficial l. óformlegur, óviðurkenndur, óopinber ([an ~ spokesman])
+pannikin n. lítill bolli eða panna (úr málmi)
+hardline l. harðlínu-, ósveigjanlegur, óundanlátsamur
+harsh-spoken l. harðorður, harðmæltur
+dominance n. drottnun, yfirráð, yfirdrottnun, yfirburðir
+stylometry n. stílmælingar
+stylometric l. stílmælinga-
+gigolo n. fylgdarsveinn, fylgdarmaður, glaumgosi, vændismaður
+formalise s. sjá %[formalize]%
+formalisation n. sjá %[formalization]%
+shithouse n. kamar, útiklósett (óforml.)
+searing l. svíðandi, brennandi ([a ~ insult])
+searingly ao. á svíðandi eða brennandi hátt (sjá %[sear]%)
+free-spoken l. frjálsmæltur, berorður

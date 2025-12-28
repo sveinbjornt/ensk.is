@@ -1837,7 +1837,6 @@ fableist
 psychobiologist
 psychobiology
 surcoat
-thriftshop
 waistcloth
 epithalamus
 ergophobe
@@ -1856,3 +1855,8 @@ knight-errant
 homomorphism
 tarbosaurus
 vegetal
+formalization
+genetical
+harsh-spoken
+pannikin
+free-spoken
