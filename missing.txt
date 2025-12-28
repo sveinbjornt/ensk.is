@@ -49,8 +49,6 @@ softball
 quad
 hunker
 listing
-adaptive
-adaptiveness
 funky
 personals
 confrontation (endurskoða)
@@ -79,7 +77,6 @@ reinnervate, v.
 reinnervation, n.
 poop (endurskoða)
 gruelling
-redskin (endurskoða)
 relevancy (endurskoða)
 risible (endurskoða)
 serrate s.
@@ -89,7 +86,6 @@ shipboard
 splatterdash n.
 cull (endurskoða)
 xenobiotic
-telemeter (endurskoða)
 haw (endurskoða)
 holdfast
 scrappy (endurskoða)
@@ -150,7 +146,6 @@ engram
 infest (endurskoða)
 infested
 pickup
-pickup truck
 entitled
 entitle (endurskoða)
 converter
@@ -177,8 +172,6 @@ compelling
 anti-religious
 antithetical
 anti-Christian
-anticlerical
-anticlericalism
 authorship
 unquestionably
 archetypical
@@ -3255,7 +3248,6 @@ regulated
 unregulated
 polysemeia
 embolism (endurskoða)
-yashmak
 tastemaker
 crummy
 reformat
@@ -5972,7 +5964,6 @@ chignon
 cheerily
 delassation
 drunkenly
-vegetal
 squiggly
 drugged
 pudeur
@@ -5987,3 +5978,18 @@ unchastely
 staunchness
 staunchly
 clamshell
+perforated
+hotkey
+showstopper
+multiplicator
+lipopectic
+refundable
+munchies
+buoyed
+smurfing
+brightly
+shithouse
+inherited
+disinherited
+transmitted
+contractable

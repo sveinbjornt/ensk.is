@@ -22,6 +22,6 @@
 * [ ] Add gender for Icelandic noun definitions via BinPackage?
 * [ ] Fix "fs. & ao." issue
 * [ ] Adjective validation: should always be in masculine case. Use BÍN.
-* [ ] "Ertu kannski að leita að íslensk-enskri orðabók?" efst til hægri
 * [ ] Look up every entry in Merriam-Webster to validate headwords and POS tags
 * [ ] Map word forms to headwords (e.g., "running" -> "run", "utilise" -> "utilize", etc.)
+* [ ] Add viðskeyti cat (vsk.) e.g. -genic

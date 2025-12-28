@@ -217,7 +217,7 @@ telegram n. símskeyti; s. senda símskeyti
 telegraph n. ritsími; s. senda símskeyti, síma
 telegraphic l. ritsíma-, síma-, hraðskeyta- ([~ communication] símasamband)
 telegraphist n. símritari, ritsímari, símaþjónn
-telemeter n. firðarmælir, fjarmælir
+telemeter n. fjarmælir, fjarlægðarmælir
 telepathy n. fjarskyggni, fjarskynjun; hugsanaflutningur
 telephone n. talsími, sími, símtæki; s. hringja (úr símtæki); [he ~d his mother] hann hringdi í móður sína
 telephonic l. síma-, talsíma- ([~ communication])
@@ -837,7 +837,7 @@ totality n. heild
 totalize s. sameina í heild
 totally ao. alveg; gjörsamlega
 tote s. bera (byrði)
-totem n. ættarkumbl hjá Indjánum (í Norður-Ameríku)
+totem n. ættarkumbl hjá indíánum (í Norður-Ameríku)
 totter s. riða, reika, skjögra
 tottle s. suða, niða; sjá %[toddle]%
 touch s. snerta; taka á, koma við; þreifa á; fá á hug (e-s); leika á (hljóðfæri); [~ at] koma við (í höfn); [~ on (upon)] liggja upp að; drepa (minnast) á; [~ up] dubba upp, hressa við, bæta, laga; n. snerting; tilfinning; snertur (af e-u); (penna)dráttur; prófun; [cold to the ~] kaldur viðkomu

@@ -411,6 +411,8 @@ xenolith n. framandsteinn, hnyðlingur
 decanter n. karafla, borðflaska
 genetics n. erfðafræði
 genetic l. erfðafræðilegur, erfðafræði-, erfða-; sem lýtur að tilurð e-s
+genetical l. sjá %[genetic]%
+genic l. sjá %[genetic]%
 genetic engineering n. erfðatækni
 crowdfund s. lýðfjármagna, hópfjármagna
 crowdfunding n. lýðfjármögnun, hópfjármögnun
@@ -5103,7 +5105,7 @@ willful l. sjá %[wilful]%
 vaginal l. legganga-, skeiðar-; er lýtur að kynfærum kvenna, píkulegur
 kopek n. kópeki (rússnesk smámynt)
 boyar n. bojari (rússneskur aðalsmaður)
-Amerindian n. frumbyggi Ameríku; indjáni (gamalt heiti); l. sem er frumbyggi Ameríku, indjána-, af indjánaættum
+Amerindian n. frumbyggi Ameríku; indíáni (gamalt heiti); l. sem er frumbyggi Ameríku, indíána-, af indíánaættum
 Pleistocene n. ísöld
 Mesoamerica n. Mið-Ameríka
 Mesoamerican l. miðamerískur; n. Mið-Ameríkumaður
@@ -10154,5 +10156,14 @@ unmasking n. afhjúpun, þegar grímurnar falla
 tarbosaurus n. þyrilgramur (risaeðla)
 homomorphism n. sammótun (í stærðfræði)
 bugler n. lúðurblásari
-eerily ao. óhugnanlega, skuggalega
-tartlet l. lítil terta; lauslát ung stúlka
+eerily ao. óhugnanlega, drungalega; skuggalega
+tartlet n. lítil terta; lauslát ung stúlka (óforml., niðrandi)
+yashmak n. andlitsblæja (múslimskra kvenna)
+moisturizer n. rakakrem
+vegetal l. plöntu-, jurta-; urtskauts-
+adaptive l. aðlagaður, aðlögunar-; aðhæfur (í stærðfræði)
+adaptiveness n. aðlögunarhæfni
+pickup truck n. pallbíll, pallbifreið
+anticlerical l. gegn prestum
+anticlericalism n. andúð á prestum, fjandsemi í garð klerkastéttarinnar
+spying n. njósnir
