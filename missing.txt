@@ -1464,7 +1464,6 @@ paronym
 allonym
 caconym
 autonym
-exonym
 endonym
 whingy
 emotive
@@ -5205,7 +5204,6 @@ membranophone
 tympan
 osteal
 wasted
-pinched
 careworn
 raddled
 haggard (endurskoða)
@@ -5922,10 +5920,8 @@ toosh
 bunt
 keister
 prat
-fivesome
 circumboreal
 chimeral
-chimeric
 recoverer
 monish
 hypnagogic
@@ -5933,7 +5929,6 @@ hypnogogic
 somnific
 hyperopia
 polychromize
-barbate
 windup
 rotter
 layabout
@@ -5955,9 +5950,7 @@ chastely
 unchastely
 staunchness
 staunchly
-clamshell
 perforated
-hotkey
 showstopper
 multiplicator
 lipopectic
@@ -5971,3 +5964,11 @@ disinherited
 transmitted
 contractable
 countermand (endurskoða)
+yen (endurskoða)
+murmuration
+febrile (endurskoða)
+bastinado (endurskoða)
+footrest
+temporizer
+riveted
+pushcart

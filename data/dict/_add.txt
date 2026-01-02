@@ -1142,7 +1142,7 @@ yuppie n. (óforml.) uppi, ung fagmanneskja í þéttbýli (stytt. á [young urb
 visa n. vegabréfsáritun, áritun, dvalarleyfi ([my ~ has expired])
 viral l. veiru-; [go ~] breiðast út hratt
 technique n. aðferð, tækni; [parenting ~s] uppeldisaðferðir
-threesome n. þremenningur, trekantur
+threesome n. þremenningur; trekantur (í kynlífi)
 vitamin n. vítamín, fjörefni
 swinger n. e-r sem stundar makaskipti, makaskiptir
 timer n. tímamælir, skeiðklukka
@@ -10068,7 +10068,7 @@ coprophagia n. saurát
 coprophagy n. sjá %[coprophagia]%
 coprophagous l. sauráts-, saurétandi ([~ insects])
 scatological l. saurfræðilegur; saur-, kúka- ([~ humour])
-scat s. hypja sig, drífa sig á brott; syngja bullorðasöng í djassi ([sing ~]); uh. burt! hypjaðu þig!; n. saur, kúkur; bullorðasöngur í djassi
+scat s. hypja sig, drífa sig á brott; söngspuni í djassi ([sing ~]); uh. burt! hypjaðu þig!; n. saur, kúkur; bullorðasöngur í djassi
 fire hydrant n. brunahani
 alarmed l. skelkaður, óttasleginn; með viðvörunarbjöllu, tengdur viðvörunarkerfi
 tailwind n. meðbyr, meðvindur
@@ -10128,7 +10128,7 @@ uninstall s. fjarlægja, nema brott (sjá %[install]%)
 irreputable l. sem óorð fer af; ósæmilegur; ómálsmetandi
 incompetently ao. á vanhæfan hátt, á óhæfan hátt
 inordinately ao. óhæfilega, óhóflega
-jerkwad n. leiðindamanneskja, ógeðfelld manneskja (óforml.)
+jerkwad n. skítseiði, leiðindaskjóða, ógeðfelld manneskja (óforml.)
 bro n. bróðir, gaur, vinur, lagsmaður (slangur, óforml. stytt. á %[brother]%)
 crappy l. lélegur, ömurlegur, drasl- (óforml., sjá %[crap]%)
 spareness n. naumleiki, rýrð
@@ -10138,7 +10138,7 @@ melanoma n. sortuæxli, húðæxli, húðkrabbamein
 bronchiectasis n. berkjuskúlk
 simultaneity n. samtíðleiki; samtíðni, samtími (í eðlisfræði)
 heliport n. þyrluvöllur
-oligotrophic l. sem skortir næringu
+oligotrophic l. næringarsnauður, sem skortir næringu
 miffed l. pirraður, fýldur (sjá %[miff]%)
 allative l. tilgangsfall (í málfræði, [~ case])
 chiffonier n. kommóða (með spegli)
@@ -10192,3 +10192,16 @@ shithouse n. kamar, útiklósett (óforml.)
 searing l. svíðandi, brennandi ([a ~ insult])
 searingly ao. á svíðandi eða brennandi hátt (sjá %[sear]%)
 free-spoken l. frjálsmæltur, berorður
+zymogen n. símogen (forstig ensíms)
+zymolysis n. gerjun
+pinched l. klíptur; kreistur; aðþrengdur, í klípu; blankur, auralaus; stolinn; handtekinn
+exonym n. útnefni, útheiti (utanaðkomandi heiti yfir manneskju eða þjóð, landsvæði hennar, tungumál o.s.frv., t.d. Lundúnir um London)
+podunk n. krummaskuð, afdalastaður, hið dæmigerða afskekkta smáþorp (óforml. Band.)
+hotkey n. flýtilykill (á lyklaborði)
+clamshell n. skeljaloka
+barbate l. skeggjaður, með löng og mjó hár
+chimeric l. sjá %[chimerical]%
+fivesome n. fimmmenningur
+twosome n. tvímenningur, par
+sixsome n. sexmenningur
+eightsome n. áttmenningur
