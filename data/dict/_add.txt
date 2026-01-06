@@ -10211,3 +10211,5 @@ quad n. ferningur; fjórhjól; fjórhöfðavöðvi, framanlærisvöðvi (sjá %[
 quadriceps n. framanlærisvöðvi, fjórhöfðavöðvi
 quatern n. fjarki, höfuðtala sem er summa af einum og þremur
 quadrupled l. ferfaldaður, fjórfaldaður
+oscillating l. riðandi, ruggandi, rambandi, sveiflandi; titrandi
+backroom n. bakherbergi
