@@ -5,3 +5,4 @@ uvicorn>=0.34.0
 pypdf>=5.4.0
 reportlab==4.4.2
 httpx==0.28.1
+skiptir==1.0.0
