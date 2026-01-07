@@ -2697,8 +2697,8 @@ wanderlust n. ferðaþrá, flökkuþrá
 rebirth n. endurfæðing
 belltower n. klukkuturn
 marshland n. fen, fenjasvæði, votlendi, mýrlendi
-ultraviolent l. grimmilega ofbeldisfullur, gríðarlega ofbeldisfullur; ofbeldisfullur sér til skemmtunar
-ultraviolence n. grimmilegt ofbeldi, gríðarlegt ofbeldi; ofbeldi sér til skemmtunar
+ultraviolent l. grimmilega ofbeldisfullur, gríðarlega ofbeldisfullur
+ultraviolence n. grimmilegt ofbeldi, gríðarlegt ofbeldi
 stubbornness n. þrjóska, þvermóðska
 polytheistic l. fjölgyðistrúarlegur, fjölgyðis- ([~ religion])
 haircut n. klipping, hárgreiðsla
@@ -10213,3 +10213,6 @@ quatern n. fjarki, höfuðtala sem er summa af einum og þremur
 quadrupled l. ferfaldaður, fjórfaldaður
 oscillating l. riðandi, ruggandi, rambandi, sveiflandi; titrandi
 backroom n. bakherbergi
+unaggressive l. óágengur; ekki árásargjarn, friðsamur
+lip balm n. varasalvi
+turtleneck n. rúllukragi; [~ sweater] rúllukragapeysa
