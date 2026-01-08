@@ -57,6 +57,7 @@ from reportlab.lib.units import cm
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.pdfgen.canvas import Canvas
+from skiptir import hyphenate
 
 from info import PROJECT
 from util import silently_remove
@@ -132,7 +133,7 @@ def _apply_styles(entry: str, definition: str) -> tuple[str, str]:
     """Apply custom styles to text."""
     ent = entry.replace("'", "’")
     e = f'<font face="{_FONT_NAME}-Bold">{ent}</font>'
-    d = definition
+    d = hyphenate(definition)
     # Italicize links and English words
     d = _ENTRY_LINK_REGEX.sub(rf'<font face="{_FONT_NAME}-Italic">\1</font>', d)
     d = d.replace("[", f'<font face="{_FONT_NAME}-Italic">')

@@ -4559,6 +4559,7 @@ joblessness n. starfsleysi, atvinnuleysi; skortur á störfum, atvinnuskortur
 chlamydia n. klamydía (kynsjúkdómur)
 unpersonable l. óviðkunnanlegur, ekki góður félagsskapur
 creaky l. brakandi, marrandi, hriktandi
+creaking n. brak, marr, hrikt; l. brakandi, marrandi, hriktandi
 potentially ao. mögulega
 Roma nft. Rómafólk, sígaunar (þjóðflokkur flökkufólks)
 untitled l. án titils, nafnlaus, ónefndur, ótitlaður
@@ -10179,7 +10180,7 @@ teeter s. riða (til falls); [~ on the brink of bankruptcy] riða á barmi gjald
 formalization n. formgerving, það ferli að gera e-ð formlegt (sjá %[formalize]%)
 constitutionalism n. stjórnarskrárfesta
 unofficial l. óformlegur, óviðurkenndur, óopinber ([an ~ spokesman])
-pannikin n. lítill bolli eða panna (úr málmi)
+pannikin n. lítill málmbolli, lítil málmpanna
 hardline l. harðlínu-, ósveigjanlegur, óundanlátsamur
 harsh-spoken l. harðorður, harðmæltur
 dominance n. drottnun, yfirráð, yfirdrottnun, yfirburðir
