@@ -1525,7 +1525,7 @@ defenestration n. kast (út um glugga)
 Africa n. Afríka (heimsálfa)
 African l. afrískur; n. Afríkubúi, Afríkumaður, Afríkani
 America n. Ameríka
-Arctic n. Norðurskautslandið (yfirleitt með ákv. greini, [the ~]); l. Norðurskauts-
+Arctic n. Norðurskautslandið, Norðurheimskautssvæðið, Norðurslóðir (yfirleitt með ákv. greini, [the ~]); l. Norðurskauts-, Norðurheimskauts-, Norðurslóða-
 Arctic Circle n. Norðurheimskautsbaugur
 Arctic Ocean n. Norður-Íshafið
 Antarctic Circle n. Suðurheimskautsbaugur
@@ -10217,3 +10217,20 @@ backroom n. bakherbergi
 unaggressive l. óágengur; ekki árásargjarn, friðsamur
 lip balm n. varasalvi
 turtleneck n. rúllukragi; [~ sweater] rúllukragapeysa
+Near East n. Austurlönd nær
+oriented l. sem snýr í ákveðna átt, stefnandi að e-u ([toward])
+disorient s. gera áttavilltan, rugla í ríminu, ringla
+disorientate s. gera áttavilltan, rugla í ríminu, ringla
+disoriented l. áttavilltur, ruglaður í ríminu, ringlaður
+disorientation n. áttavilla, ruglun í ríminu, ringlun
+canid n. dýr af hundaætt (í dýraríkinu, t.d. úlfar, refir o.s.frv.)
+autosomal l. sjálflitnings-, A-litnings- (í erfðafræði)
+lycanthropy n. varúlfasýki; vargvilluröskun (e.k. hugvilla í læknisfræði)
+lycanthrope n. varúlfur; blendingur manns og úlfs
+lacquered l. lakkaður, gljákvoðuborinn
+ovarian l. eggjastokks-, eggjastokka-
+nippy l. napur, nístandi; bítandi; glefsandi (um hund)
+rimed l. hrímgaður, hrímfrosinn
+diametric l. sjá %[diametrical]%
+Pekingese l. frá borginni Peking í Kína; kínversk hundategund
+boxers nft. nærbuxur
