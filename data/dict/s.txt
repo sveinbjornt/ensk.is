@@ -2614,8 +2614,8 @@ subcutaneous l. sem liggur undir húðinni
 subdivide s. skipta (hlutunum) aftur
 subdivision n. undirskipting
 subdue s. leggja undir sig, undiroka; yfirbuga; kúga
-subdued l. daufur, hægur, lágur ([~ colour, light, tone]); sjá %[subdue]%
-subduer n. undirokari, kúgari
+subdued l. daufur, hægur, lágur ([~ colour, light, tone]); yfirbugaður, undirokaður, kúgaður (sjá %[subdue]%)
+subduer n. undirokari, kúgari, yfirbugari
 subedit s. gefa út sem meðritstjóri
 subeditor n. meðritstjóri
 subjacent l. neðri
