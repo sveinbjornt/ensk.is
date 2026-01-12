@@ -2333,7 +2333,7 @@ psalmist n. sálmaskáld (einkum Davíð)
 psalmody n. sálmasöngur
 psalmodist n. sálmasöngvari
 psalmography n. sálmakveðskapur
-psalter n. Daviðs sálmar, saltari
+psalter n. Daviðssálmar; saltari
 psaltery n. forn harpa
 pseudo- fsk. fals-, gervi-, sýndar- (sjá t.d. %[pseudoscience]%, %[pseudonymous]% o.s.frv.)
 pseudonym n. gervinafn, dulnefni (rithöfundar)
@@ -2348,9 +2348,9 @@ psychological l. sálfræðilegur, sálarfræðilegur
 psychologist n. sálfræðingur, sálarfræðingur
 psychology n. sálfræði, sálarfræði
 ptisan n. bygggrjónaseyði
-puberty n. getnaðaraldur, getnaðarþroski
-pubescent l. þroskaður til getnaðar; gjafvaxta; loðinn (um plöntur)
-public l. opinber, allsherjar; almennur; alkunnur; [~ funds] ríkisskuldabréf; [the ~ good] almenningsheill; [~ records] opinber skjöl, ríkisskjalasafn; [at the ~ expense] á kostnað ríkisins (landsins); [~ house] veitingahús; [~ school] menntaskóli; [~ spirit] ættjarðarást; [in ~] opinberlega, á almannafæri; n. almenningur, alþýða manna; áheyrendur, áhorfendur
+puberty n. kynþroski, kynþroskaaldur, kynþroskaskeið
+pubescent l. kynþroska, gjafvaxta; loðinn (um plöntur)
+public l. opinber, allsherjar; almennur; alkunnur; [~ funds] ríkisskuldabréf; [the ~ good] almenningsheill; [~ records] opinber skjöl, ríkisskjalasafn; [at the ~ expense] á kostnað ríkisins (landsins); [~ house] veitingahús, pöbb (sjá %[pub]%); [~ school] menntaskóli; [~ spirit] ættjarðarást; [in ~] opinberlega, á almannafæri; n. almenningur, alþýða manna; áheyrendur, áhorfendur
 publican n. veitingamaður; tollheimtumaður
 publication n. birting; útgáfa (rits eða bókar); rit; bók; [monthly ~] mánaðarrit; [~ price] bókhlöðuverð
 publicism n. blaðamennska

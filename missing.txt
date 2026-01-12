@@ -1027,6 +1027,7 @@ demonization
 demonisation
 boomer
 baby boomer
+zoomer
 deindustrialize
 deindustrialization
 breadwinner
@@ -3492,7 +3493,6 @@ diachronic
 canoodle
 polychronic
 cherished
-zoomer
 bustling
 dappled
 fondue
@@ -5974,14 +5974,11 @@ sneak peek
 wry (endurskoða)
 popup
 lossy
-golosh
 helplessly
 archimandrite
 box (endurskoða)
 tribulation (endurskoða)
 platformer
-decisional
-neocon
 internecine (endurskoða)
 gaminess
 indistinctness
@@ -5990,6 +5987,9 @@ scranch
 scraunch
 septicidal
 master copy
-domesticize
-domesticise
 unmake (endurskoða)
+case-by-case
+menacing
+despairing
+despairingly
+chilling

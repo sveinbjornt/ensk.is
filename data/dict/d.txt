@@ -391,8 +391,8 @@ deleterious l. skaðlegur, skaðvænn (lífi eða heilsu)
 deletion n. eyðing; útstrikun ([~ of a letter, word, passage])
 delf n. (hollensk) steinvara (sem líkist postulíni)
 delft n. (hollensk) steinvara (sem líkist postulíni)
-deliberate s. íhuga; skoða huga sinn; ráðgast um; ræða (um [on]); l. vel íhugaður; gætinn, varkár; gætilegur
-deliberately ao. gætilega; af ásettu ráði
+deliberate s. íhuga; skoða huga sinn; ráðgast um; ræða (um [on]); l. vel íhugaður, af ásettu ráði; gætinn, varkár; gætilegur
+deliberately ao. gætilega; af ásettu ráði, viljandi
 deliberateness n. gætni, varkárni
 deliberation n. umhugsun; umræða; gætni, varkárni
 deliberative l. íhugandi ([~ assembly])
@@ -1566,14 +1566,14 @@ drastic l. áhrifamikill, róttækur, drastískur ([~ remedies]); [~ measures] �
 drat uh. svei! [~ the boy] óhræsis strákurinn; [~ the girl] stelpusneypan
 draught n. dráttur; súgur; teigur; fiskidráttur, veiði; ristudjúp (skips); uppdráttur; uppkast; víxill (sbr. %[draft]%)
 draw s. draga; draga að sér; draga á eftir sér; sjúga; tappa af (vín); taka út (peninga); draga frá eða fyrir (tjald); bregða (sverði); draga upp ([~ the bow]); skera upp (fugl); draga upp, teikna; lýsa; semja, taka saman; [~ a deep breath] draga djúpt andann; [~ one's attention to] vekja (leiða) athygli e-s að e-u; [the ship ~s ten feet of water] ristir tíu fet; [~ back] fá endurgoldinn (toll); draga sig í hlé; [~ in] styttast ([the evenings are ~ing in]); [~ near] færast nær, nálgast; [~ on] baka, valda; gefa út víxil á (e-n); lokka e-n (til að gera e-ð); [as the evening drew on] eftir því sem leið á kvöldið; [the evenings are ~ing on] kvöldin lengjast; [~ up] taka saman, semja; fylkja (liði); fylkja (raða) sér; stöðva (hest eða vagn); nema staðar; n. dráttur; jafntefli
-drawback n. endurgoldinn tollur; skerðing (á e-u [from]); bagi, tálmi, galli, agnúi (á e-u [to])
+drawback n. bagi, tálmi, galli, ókostur, vankostur, agnúi (á e-u [to]); endurgoldinn tollur; skerðing (á e-u [from])
 drawbridge n. vindubrú
 drawee n. víxilgreiðandi
 drawer n. víxilútgefandi; teiknari; skúffa; [chest of ~s] dragkista; nft. [drawers] nærbuxur
-drawing n. dráttur; teiknun
+drawing n. dráttur; teikning; teiknun
 drawing-master n. teiknikennari
 drawing-room n. viðhafnarstofa, salur; veislufólk; móttaka gesta (hjá stórhöfðingja)
-drawl s. vera seinmæltur; draga seim; [~ out] segja e-ð hægt og seint; n. seimur; kliður
+drawl s. vera seinmæltur; draga seim; [~ out] segja e-ð hægt og seint; n. seimur, seinmælgi; kliður
 drawn l. [~ battle] jöfn orrusta; [a ~ game] jafntefli; [a ~ butter] bráðið (og tært) smjör; sbr. %[draw]%
 dray n. áburðarvagn; ölvagn ([~-cart]); n. ölvagnsstjóri
 dread n. hræðsla, ótti; l. hræðilegur, ógurlegur; s. hræðast, óttast

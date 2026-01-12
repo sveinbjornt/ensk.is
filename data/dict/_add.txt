@@ -10199,7 +10199,7 @@ pinched l. klíptur; kreistur; aðþrengdur, í klípu; blankur, auralaus; stoli
 exonym n. útnefni, útheiti (utanaðkomandi heiti yfir manneskju eða þjóð, landsvæði hennar, tungumál o.s.frv., t.d. Lundúnir um London)
 podunk n. krummaskuð, afdalastaður, hið dæmigerða afskekkta smáþorp (óforml. Band.)
 hotkey n. flýtilykill (á lyklaborði)
-clamshell n. skeljaloka; samloka
+clamshell n. skeljaloka; samloka (um umbúðir, síma o.fl.)
 barbate l. skeggjaður, með löng og mjó hár
 chimeric l. sjá %[chimerical]%
 fivesome n. fimmmenningur
@@ -10209,8 +10209,8 @@ eightsome n. áttmenningur
 quaternity n. fjarki, fjórmenningur, fernd, fjórir af e-u, fjögurra staka mengi
 tetrad n. fernd, fjórir af e-u, e-ð fernt
 quad n. ferningur; fjórhjól; fjórhöfðavöðvi, framanlærisvöðvi (sjá %[quadriceps]%)
-quadriceps n. framanlærisvöðvi, fjórhöfðavöðvi
-quatern n. fjarki, höfuðtala sem er summa af einum og þremur
+quadriceps n. fjórhöfðavöðvi, framanlærisvöðvi
+quatern n. fjarki; fjögurra staka mengi
 quadrupled l. ferfaldaður, fjórfaldaður
 oscillating l. riðandi, ruggandi, rambandi, sveiflandi; titrandi
 backroom n. bakherbergi
@@ -10233,7 +10233,7 @@ nippy l. napur, nístandi; bítandi; glefsandi (um hund)
 rimed l. hrímgaður, hrímfrosinn
 diametric l. sjá %[diametrical]%
 Pekingese l. frá borginni Peking í Kína; kínversk hundategund
-boxers nft. nærbuxur
+boxers nft. víðar nærbuxur, boxer-nærbuxur
 unexplainable l. óútskýranlegur
 chondritis n. brjóskbólga
 heat sink n. varmasvelgur, varmagleypir
@@ -10244,3 +10244,11 @@ densification n. þétting
 peace pipe n. friðarpípa (hjá frumbyggjum Norður-Ameríku)
 naturalise s. sjá %[naturalize]%
 tamed l. taminn
+torn l. rifinn, slitinn, tættur (sjá %[tear]%)
+domesticize s. sjá %[domesticate]%
+neocon n. nýíhaldsmaður (stytt. á %[neoconservative]%)
+decisional l. ákvarðana-, er varðar ákvarðanir
+golosh n. sjá %[galosh]%
+scopophilia n. sjónfróun
+somber l. sjá %[sombre]%
+intoxicated l. ölvaður, drukkinn; í vímu, vímaður

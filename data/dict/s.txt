@@ -1650,9 +1650,9 @@ solve s. leysa úr ([~ a difficulty, ~ a question]); ráða (gátu)
 solvency n. gjaldhæfi, gjaldfærleiki
 solvent l. uppleysandi; gjaldhæfur, gjaldfær
 somatic l. líkamlegur, líkams-, sem á við líkamann
-sombre l. dimmur, myrkur; þungbúinn
-sombreness n. þunglyndi
-sombrous l. dimmur, myrkur; þungbúinn
+sombre l. dimmur, myrkur; þungbúinn, drungalegur; dapurlegur
+sombreness n. þunglyndi; depurð
+sombrous l. dimmur, myrkur; þungbúinn, drungalegur
 some l. einhver; nokkur; sumir; (á undan töluorðum) hér um bil; [~ seventy] um sjötíu
 somebody n. einhver, nokkur
 somehow ao. einhvern veginn
