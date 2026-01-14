@@ -109,7 +109,7 @@ endorsement by the author or the affirmer.
 
 ## Source license
 
-Copyright (c) 2021-2025 [Sveinbjorn Thordarson](mailto:sveinbjorn@sveinbjorn.org)
+Copyright (c) 2021-2026 [Sveinbjorn Thordarson](mailto:sveinbjorn@sveinbjorn.org)
 
 Redistribution and use in source and binary forms, with or without modification,
 are permitted provided that the following conditions are met:
