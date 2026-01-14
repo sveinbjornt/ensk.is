@@ -3786,7 +3786,6 @@ heralded
 unheralded
 ideophone
 writhing
-naturalized
 globus
 ululate
 ululation
@@ -4862,7 +4861,7 @@ jack (endurskoða, sögn - jack up, jack off)
 jacket (endurskoða - book jacket, potato jacket)
 jerk (endurskoða - jerk chicken)
 junk (endurskoða)
-jam (endurskoða - klípa, vandi; djamma tónlistarlega séð)
+jam (endurskoða - klípa, vandi; djamma tónlistarlega séð; trufla signal)
 keep (endurskoða)
 kicker (endurskoða)
 kinetics (endurskoða)
@@ -5993,3 +5992,16 @@ menacing
 despairing
 despairingly
 chilling
+naturalistic (endurskoða)
+enhance (endurskoða)
+enhancement (endurskoða)
+jammer
+jamming
+engrammic
+ngram
+hardened
+limpide
+autofiction
+plagued
+dismantled
+disdainfully

@@ -578,9 +578,9 @@ thunderbolt n. þrumufleygur; elding
 thunderclap n. reiðarslag
 thundercloud n. þrumuský
 thunderer n. skrugguvaldur
-thundering l. þrumandi; afarmikill
-thunderous l. þrumandi; þrunginn þrumum; dynjandi ([~ applause])
-thunderstorm n. þrumuveður
+thundering l. þrumandi, hávær, feikimikill ([a ~ speech])
+thunderous l. þrumandi; þrunginn þrumum; dynjandi, hávær ([~ applause])
+thunderstorm n. þrumuveður, þrumustormur
 thunderstroke n. reiðarslag (sjá %[thunderclap]%)
 thunderstruck l. þrumulostinn; höggdofa, agndofa
 thundery l. þrumu-; [~ weather] þrumuveður
@@ -868,8 +868,8 @@ towel n. handklæði; s. þurrka (með handklæði); lemja, berja
 towelling n. handklæðadúkur; þurrkun
 tower n. turn; s. gnæfa; svifa hátt upp (um fugla); lyfta e-u hátt upp
 towered l. búinn turnum
-towering l. turnhár, gnæfandi; afarhár; afarmikill; [in a ~ rage] bálreiður
-towery l. búinn turnum; afarhár
+towering l. turnhár, gnæfandi; afar hár; afar mikill; [in a ~ rage] bálreiður
+towery l. búinn turnum; afar hár
 town n. borg, bær; [in ~] í bænum (gagnstætt [in the country])
 town clerk n. bæjarskrifari
 town council n. bæjarstjórn

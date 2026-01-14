@@ -295,7 +295,7 @@ def antonyms_for_word(w: str) -> list[str]:
 
     antonyms = set()
     for syn in wn.synsets(w):
-        for lemma in syn.lemmas():
+        for lemma in syn.lemmas():  # type: ignore
             for antonym in lemma.antonyms():
                 antonyms.add(antonym.name())
 

@@ -2886,6 +2886,8 @@ yam n. mjölrót, jamrótarhnýði, kínakartafla; sæt kartafla (BNA)
 multistory l. marghæða, fjölhæða; [~ building] bygging með mörgum hæðum
 beekeeper n. býflugnabóndi
 beekeeping n. býflugnarækt
+apiarist n. býflugnabóndi
+apiarian l. er varðar býflugnarækt; býflugna-
 unruliness n. óstýrilæti (sjá %[unruly]%)
 scrotum n. pungur, hreðjar
 redefine s. endurskilgreina (sjá %[define]%)
@@ -3246,6 +3248,7 @@ asphyxiate s. kæfa; kafna
 asphyxiation n. köfnun; kæfing; súrefnisskortur
 asphyxiating l. kafnandi; kæfandi; skortandi súrefni
 asphyxiant n. kæfiefni; l. kæfandi, kæfi-
+chondriosome n. hvatberi, kyndikorn, orkukorn (frumulíffæri)
 mitochondrion n. hvatberi, kyndikorn, orkukorn (frumulíffæri)
 mitochondrial l. hvatbera- (sjá %[mitochondrion]%)
 dehumanise s. sjá %[dehumanize]%
@@ -10252,3 +10255,8 @@ golosh n. sjá %[galosh]%
 scopophilia n. sjónfróun
 somber l. sjá %[sombre]%
 intoxicated l. ölvaður, drukkinn; í vímu, vímaður
+naturalized l. gerður náttúrulegur, orðinn náttúrulegur; með þegnréttindi, búinn að öðlast ríkisborgararétt; orðinn eins og innfæddur; orðinn vanur nýju loftslagi eða umhverfi
+intro n. stytt. á %[introduction]%
+varnished l. gljáður, lakkaður, olíuborinn; fegraður
+byline n. höfundarlína, höfundarnafn ([article under her ~])
+tiler n. hellulagningarmaður
