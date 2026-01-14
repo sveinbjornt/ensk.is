@@ -10260,3 +10260,5 @@ intro n. stytt. á %[introduction]%
 varnished l. gljáður, lakkaður, olíuborinn; fegraður
 byline n. höfundarlína, höfundarnafn ([article under her ~])
 tiler n. hellulagningarmaður
+ketch n. kútter; seglbátur
+playbook n. leikkerfi, leikaðferðir; reglubók, bók sem geymir leikreglurnar

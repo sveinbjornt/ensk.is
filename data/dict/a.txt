@@ -433,9 +433,9 @@ adulation n. smjaður, fagurgali
 adulator n. smjaðrari
 adulatory l. mjúkmáll
 adult l. fullorðinn; fullvaxinn; n. fullorðin manneskja
-adulterate s. falsa, svíkja (vörur); útþynna
-adulterated l. svikinn, falsaður; útþynntur
-adulteration n. fölsun (á vörum)
+adulterate s. falsa, svíkja (vörur); útþynna, útvatna
+adulterated l. svikinn, falsaður; útþynntur, útvatnaður
+adulteration n. fölsun (á vörum); útvötnun, útþynning
 adulterer n. framhjáhaldari; karl sem heldur fram hjá maka sínum
 adulteress n. framhjáhaldari; kona sem heldur fram hjá maka sínum
 adulterine l. hórgetinn; falsaður, óekta
@@ -445,8 +445,8 @@ adumbrate s. lýsa ónákvæmlega; tákna; hylja
 adumbration n. tákn, ímynd
 adust l. skrælnaður, sviðinn
 adusted l. skrælnaður, sviðinn
-advance s. flytja fram; efla; flýta fyrir; bera fram ([~ an opinion, a claim to/on]); segja; hefja (til tignar); borga fyrirfram; færa fram, hækka (verð); lána; halda áfram, taka framförum; hækka (í verði); n. framganga, framfarir; verðhækkun; borgun fyrirfram; lán; [in ~] fyrirfram; [in ~ of] á undan
-advanced l. sem stendur framarlega; langt kominn; kominn langt áleiðis; [the day was far ~] það var langt liðið á daginn; [~ in years] aldraður
+advance s. flytja fram; efla; flýta fyrir; þróa fram á við; bera fram ([~ an opinion, a claim to/on]); segja; hefja (til tignar); borga fyrirfram; færa fram, hækka (verð); lána; halda áfram, taka framförum; hækka (í verði); n. framganga, framfarir, framþróun; verðhækkun; fyrirframgreiðsla, borgun fyrirfram; lán; [in ~] fyrirfram; [in ~ of] á undan
+advanced l. sem stendur framarlega; langt þróaður; langt kominn; kominn langt áleiðis; [the day was far ~] það var langt liðið á daginn; [~ in years] aldraður
 advance guard n. framlið
 advancement n. framganga; efling; upphefð
 advantage n. hagnaður, ábati; yfirburðir (yfir [of, over]); kostur; [to ~] með hagnaði; [have the ~ of one] vera e-m fremri; [take ~ of] nota sér; s. bæta; gagna
