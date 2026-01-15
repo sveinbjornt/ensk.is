@@ -10262,3 +10262,8 @@ byline n. höfundarlína, höfundarnafn ([article under her ~])
 tiler n. hellulagningarmaður
 ketch n. kútter; seglbátur
 playbook n. leikkerfi, leikaðferðir; reglubók, bók sem geymir leikreglurnar
+boost s. efla, styrkja, ýta undir, magna, auka; n. efling, styrking, uppörvun, upplyfting
+boosted l. efldur, styrktur, magnaður, aukinn
+particularise s. sjá %[particularize]%
+specialise s. sjá %[specialize]%
+speciate s. þróast úr einni tegund í aðra, mynda aðra dýrategund

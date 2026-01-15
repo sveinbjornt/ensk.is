@@ -58,7 +58,6 @@ give up
 collectible
 collectibles
 buffer
-boost
 browse
 sexuality
 syndication
@@ -6004,3 +6003,4 @@ autofiction
 plagued
 dismantled
 disdainfully
+speciate
