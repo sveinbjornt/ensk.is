@@ -4260,7 +4260,9 @@ pictographic l. myndleturs-
 pictography n. myndletrun, myndasöguletrun; myndletur
 sigmatism n. smámæli
 carceral l. fangelsis-, fangelsunar-
-solipsism n. sjálfsveruhyggja
+solipsism n. sjálfsveruhyggja (sú kenning að maður sjálfur sé það eina sem er til)
+solipsist n. sá sem aðhyllist sjálfsveruhyggju (sjá %[solipsism]%)
+solipsistic l. sjálfsveru- (sjá %[solipsism]%); sjálfhverfur, sem einkennist af skeytingarleysi um upplifanir annarra
 mutate s. stökkbreyta, ummynda
 mutant n. stökkbrigði
 deckhand n. háseti
@@ -10266,4 +10268,19 @@ boost s. efla, styrkja, ýta undir, magna, auka; n. efling, styrking, uppörvun,
 boosted l. efldur, styrktur, magnaður, aukinn
 particularise s. sjá %[particularize]%
 specialise s. sjá %[specialize]%
-speciate s. þróast úr einni tegund í aðra, mynda aðra dýrategund
+speciate s. þróast úr einni tegund í aðra, mynda aðra (dýra)tegund
+sartorial l. klæðskera-
+derisively ao. háðslega, hæðilega
+discriminatory l. sem mismunar eða gerir upp á milli (fólks)
+billhook n. goggkrókur (höggtól)
+sideshow n. aukasýning (gagnstætt aðalsýningu); aukaatriði
+sweetener n. sætuefni, sæta; [artificial ~] gervisykur
+toehold n. táfesta
+stimpack n. örvandi eða læknandi lyfjabúnaður (í vísindaskáldskap)
+womanise s. sjá %[womanize]%
+effeminize s. sjá %[feminize]%
+undercharge s. vanrukka, rukka of lágt gjald; n. vanrukkun, of lágt verð
+eyeshade n. augnskuggi (farði); skyggð hlífðargleraugu
+eyeshadow n. augnskuggi (farði)
+eyepiece n. augngler, augnlinsa
+oculus n. augua; sporöskjulaga gluggi

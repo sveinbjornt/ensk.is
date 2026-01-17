@@ -15,7 +15,7 @@ abatis n. virki úr felldum trjám
 abattis n. virki úr felldum trjám
 abb n. ívaf, fyrirvaf
 abbacy n. ábótadæmi; ábótatign
-abbatial l. ábótalegur, ábóta- ([~ church, ~ benediction])
+abbatial l. ábótalegur, ábóta-
 abbess n. abbadís
 abbey n. klaustur; klausturkirkja
 abbot n. ábóti
@@ -1606,7 +1606,7 @@ attempt s. reyna; ráðast á; gera tilraun til; veita banatilræði; n. tilraun
 attend s. vera viðstaddur, mæta á ([~ a lecture]); hlýða á ([to]); gefa gaum að; gæta; stunda, hirða um, hjúkra; þjóna ([~ upon]); fylgja
 attendance n. þjónusta; fylgd; nærvera; allir viðstaddir; aðsókn; [medical ~] læknishjúkrun
 attendant l. þjónandi ([~ upon]); samfara (e-u [upon]); viðstaddur ([the ~ crowd]); n. þjónn; förunautur; [a diligent ~ at church] kirkjurækinn maður
-attention n. eftirtekt, athygli ([attract ~]), gaumur; ft. ([~s]) kurteisisatlot; [pay ~ to] gefa gaum að
+attention n. eftirtekt, athygli ([attract ~]), gaumur; nft. ([~s]) kurteisisatlot; [pay ~ to] gefa gaum að
 attentive l. eftirtektarsamur; stimamjúkur, kurteis
 attentively ao. með athygli, gaumgæfilega
 attenuate s. þynna; rýra; draga úr; l. þunnur; magur
