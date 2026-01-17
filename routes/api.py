@@ -33,6 +33,7 @@ async def api_metadata(request: Request) -> JSONResponse:
 
 
 DEFAULT_SUGGESTION_LIMIT = 10
+MAX_SUGGESTION_LIMIT = 50
 
 
 @cache_response(SEARCH_CACHE_SIZE)
@@ -40,18 +41,25 @@ DEFAULT_SUGGESTION_LIMIT = 10
 async def api_suggest(
     request: Request, q: str, limit: int = DEFAULT_SUGGESTION_LIMIT
 ) -> JSONResponse:
-    """Return autosuggestion results for partial string in input field."""
-    results, _, _ = cached_results(q, exact_match=False, limit=limit)
-    words = [x["word"] for x in results][:limit]
+    """Return autosuggestion results for partial string in input field.
+    Has a hard limit of 50 results."""
+    lim = min(limit, MAX_SUGGESTION_LIMIT)
+    results, _, _ = cached_results(q, exact_match=False, limit=lim)
+    words = [x["word"] for x in results][:lim]
     return JSONResponse(content=words)
+
+
+SEARCH_QUERY_MAX_LENGTH = 100
 
 
 @cache_response(SEARCH_CACHE_SIZE)
 @router.get("/search/{q}", operation_id="search_for_word")
 async def api_search(request: Request, q: str) -> JSONResponse:
     """Return search results in JSON format from the English-Icelandic dictionary."""
-    results, _, _ = cached_results(q)
-
+    if q.strip() == "":
+        return JSONResponse(content={"results": []})
+    query = q.strip()[:SEARCH_QUERY_MAX_LENGTH]  # Limit query length to 100 chars
+    results, _, _ = cached_results(query)
     return JSONResponse(content={"results": results})
 
 

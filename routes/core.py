@@ -41,6 +41,7 @@ entries = edb.read_all_entries()
 num_entries = len(entries)
 
 all_words = [e["word"] for e in entries]
+all_words_set = frozenset(all_words)
 
 original_entries = [e["word"] for e in edb.read_all_original()]
 num_original_entries = len(original_entries)
@@ -83,7 +84,7 @@ for c in CATEGORIES:
     cs = c.rstrip(".")
     CAT2ENTRIES[cs] = edb.read_all_in_wordcat(cs)
 
-# To JSON configuration file?
+# TODO: Move to JSON configuration file
 CAT_TO_NAME = {
     "n.": "nafnorð",
     "nft.": "nafnorð (í fleirtölu)",
@@ -103,7 +104,7 @@ CAT_TO_NAME = {
 SEARCH_CACHE_SIZE = 1000  # pages
 SMALL_CACHE_SIZE = 100  # pages
 
-KNOWN_MISSING_WORDS = read_wordlist("missing.txt")
+KNOWN_MISSING_WORDS = frozenset(read_wordlist("missing.txt"))
 
 DEFAULT_SEARCH_LIMIT = 50  # Default limit for search results
 
@@ -204,6 +205,7 @@ def _results(
             if ql == kl:
                 equal.append(k)
                 exact_match_found = True
+                break
         else:
             # In substring mode, categorize by match type
             if ql in kl:

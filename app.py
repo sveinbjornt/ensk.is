@@ -162,7 +162,7 @@ async def global_exception_handler(request: Request, exc: Exception):
     # Return a user-friendly HTML error page for all other routes
     return TemplateResponse(
         request,
-        "500.html",  # This template would need to be created
+        "500.html",
         {"request": request, "title": "500 - Villa kom upp"},
         status_code=500,
     )

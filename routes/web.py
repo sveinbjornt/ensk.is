@@ -4,11 +4,13 @@ Web routes
 """
 
 from typing import Optional
-from datetime import datetime
-import random
-import re
+
 import aiofiles
 import aiofiles.os
+from datetime import datetime
+import logging
+import random
+import re
 
 from fastapi import APIRouter, Request, HTTPException
 from fastapi.responses import Response, RedirectResponse
@@ -20,6 +22,7 @@ from .core import (
     DEFAULT_SEARCH_LIMIT,
     num_entries,
     all_words,
+    all_words_set,
     original_entries,
     num_original_entries,
     additional_entries,
@@ -92,6 +95,7 @@ async def _save_missing_word(word: str) -> None:
         async with aiofiles.open(MISSING_WORDS_FILE, "a+") as file:
             await file.write(f"{word[:MISSING_WORD_MAXLEN]}\n")  # 100 char limit
     except Exception:
+        logging.warning("Failed to write missing word to file")
         pass  # Fail silently if we can't write
 
 
@@ -102,7 +106,8 @@ async def search(
 ) -> Response:
     """Return page with search results for query."""
 
-    q = q.strip() if q else q
+    q = q.strip() if q else ""
+    q = q[:100]  # Limit query length to 100 characters
 
     title = PROJECT.NAME
     if q:
@@ -152,11 +157,10 @@ async def item(request: Request, w: str) -> Response:
     comp = {CAT_TO_NAME[k]: v for k, v in comp.items()}
 
     synonyms_list = results[0].get("synonyms", [])
-    synonyms = [{"word": s, "exists": s in all_words} for s in synonyms_list]
+    synonyms = [{"word": s, "exists": s in all_words_set} for s in synonyms_list]
 
     antonyms_list = results[0].get("antonyms", [])
-    antonyms = [{"word": a, "exists": a in all_words} for a in antonyms_list]
-
+    antonyms = [{"word": a, "exists": a in all_words_set} for a in antonyms_list]
     return TemplateResponse(
         request,
         "item.html",
@@ -181,7 +185,7 @@ async def page(request: Request, n: str) -> Response:
     try:
         page_num = int(n)
     except ValueError:
-        raise HTTPException(status_code=500, detail="Invalid page number")
+        raise HTTPException(status_code=400, detail="Invalid page number")
     if page_num < 1 or page_num > 707:
         raise HTTPException(status_code=404, detail="Síða fannst ekki")
 

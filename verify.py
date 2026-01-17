@@ -44,17 +44,15 @@ from dict import read_raw_pages, parse_line, read_all_words
 from util import read_wordlist, read_json
 
 
-IS_WORDS_WHITELIST = read_wordlist("data/is.whitelist.txt")
+IS_WORDS_WHITELIST = frozenset(read_wordlist("data/is.whitelist.txt"))
 
-EN_WORDS_LIST = read_wordlist("data/wordlists/words.txt")
-EN_WORDS_WHITELIST = read_wordlist("data/en.whitelist.txt")
-EN_WORDS_LIST.extend(EN_WORDS_WHITELIST)
-
+EN_WORDS_LIST = frozenset(read_wordlist("data/wordlists/words.txt"))
+EN_WORDS_WHITELIST = frozenset(read_wordlist("data/en.whitelist.txt"))
+EN_WORDS_LIST = EN_WORDS_LIST.union(EN_WORDS_WHITELIST)
 CATEGORIES = frozenset(read_wordlist("data/catwords.txt"))
-CATEGORIES_NOPERIOD = set([c.rstrip(".") for c in CATEGORIES])
+CATEGORIES_NOPERIOD = frozenset([c.rstrip(".") for c in CATEGORIES])
 
-
-ALL_DICT_WORDS = read_all_words()
+ALL_DICT_WORDS = frozenset(read_all_words())
 
 bin = None  # Lazily initialized BÍN instance
 
