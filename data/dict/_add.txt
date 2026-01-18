@@ -5066,7 +5066,7 @@ banqueting n. veisluhald (sjá %[banquet]%)
 indology n. indlandsfræði (fræðigrein sem fæst við sögu og menningu Indlandsskaga)
 protester n. mótmælandi
 terrain n. landslag
-heavyweight n. þungavigt; l. þungavigtar- ([~ boxing]), þungvægur
+heavyweight n. þungavigt (þungaflokkur í hnefaleikum); l. þungavigtar- ([~ boxing]), þungvægur
 grumpiness n. geðvonska, vont skap, nöldursemi
 guessable l. giskanlegur (sjá %[guess]%)
 guitarist n. gítarleikari
@@ -10332,7 +10332,7 @@ tracheal l. barka-
 bebop n. bebop (stíll í djasstónlist)
 insulator n. einangrari; einangrunarefni
 overbite n. yfirbit
-celluloid n. tréningur (plastefni); l. úr tréningi; kvikmyndafilmu-
+celluloid n. tréningur (plastefni); l. úr tréningi; kvikmyndafilmu-; [I have it on ~] ég á það á filmu
 escalope n. þunn kjötsneið
 comorbid l. fjölveiki-, sem einkennist af mörgum sjúkdómum
 comorbidity n. fjölveiki, margir sjúkdómar hjá sama einstaklingi
@@ -10350,3 +10350,15 @@ sensitize s. næma, gera næman ([to] fyrir)
 checkmark n. hak
 gumshoe n. gúmmískór; spæjari (óforml.)
 idolization n. dýrkun, tignun, það að hafa að átrúnaðargoði
+unnerving l. taugatrekkjandi, uggvænlegur, sem dregur úr kjarki
+unnerved l. sleginn út af laginu, búinn að missa kjark (sjá %[unnerve]%)
+cuddly l. kelinn; krúttlegur; kúr-
+prizewinner n. verðlaunahafi
+sandbank n. sandrif
+featherweight n. fjaðurvigt (þungaflokkur í hnefaleikum); l. léttvægur
+ebullience n. suða; ólga; fjör, hressleiki
+exfoliant n. húðhreinsir; afblöðunarefni, aflaufgunarefni
+refurbished l. gerður upp, fágaður upp
+punchline n. niðurlag, lokasetning; síðasta setning brandara
+campy l. ýktur (á leikrænan hátt); hallærislegur, púkalegur, smekklaus, lágkúrulegur
+campiness n. ýkjur (í leiklist); hallæri, púkalegheit, smekkleysa, lágkúra

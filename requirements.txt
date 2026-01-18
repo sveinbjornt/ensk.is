@@ -1,4 +1,5 @@
 fastapi==0.128.0
+pydantic-settings==2.12.0
 fastapi-mcp==0.4.0
 jinja2==3.1.6
 sqlite-utils==3.39
