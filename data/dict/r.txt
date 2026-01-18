@@ -665,7 +665,7 @@ relay n. nýir hestar, sem hafðir eru viðbúnir til skipta; leggja aftur; s. s
 release s. láta lausan; láta af (t.d. rétti sínum), sleppa; leysa e-n undan e-u, losa við e-ð ([~ one from]); n. lausn; léttir ([to me it would be a great ~ to]); kvittunarseðill, kvittun; uppgjöf (réttarkröfu)
 releasement n. lausn
 relegate s. reka í útlegð, gera útlægan; vísa burt; fela (e-m e-ð) á hendur
-relegation n. burtvísun; burtrekstur
+relegation n. burtvísun; burtrekstur; það að fela (e-m e-ð) í hendur
 relent s. láta undan, vægja; mýkjast
 relentless l. harðbrjóstaður, miskunnarlaus ([~ criticism])
 relevancy n. þýðing
@@ -674,17 +674,17 @@ reliability n. áreiðanleiki
 reliable l. áreiðanlegur
 reliance n. tiltrú, traust (á e-m [upon, on, in])
 reliant l. treystandi (e-u [on])
-relic n. minjagripur; helgur dómur ([holy ~]); ft. leifar; [~s of antiquity] fornminjar, fornleifar
+relic n. gripur, minjagripur; helgur dómur ([holy ~]); ft. [~s] leifar; [~s of antiquity] fornminjar, fornleifar
 relict n. eftirlifandi ekkja
 relief n. huggun, léttir, linun, fróun ([the medicine brought ~]); hjálp ([come to his ~]); aðstoð; fátækrastyrkur ([parochial ~]); liðveisla; aflausn (af verði); tilbreyting ([a blank wall without ~]); upphleypt mynd; [by way of ~] til tilbreytingar; [in full ~] mjög skýrt ([stand out in full ~]); [low ~] lágmynd; [high ~] hámynd
 relieve s. lina, draga úr; létta ([~ the pressure of taxes]); bæta úr; hjálpa, veita lið ([~ a city]); leysa af verði ([~ guard]); [~ nature] hægja sér til baks eða kviðar, létta á sér; [~ one of] losa (e-n) við
 relievo n. upphleypt mynd; [in ~] upphleyptur
 religion n. trúarbrögð, trú, átrúnaður
 religionist n. trúmaður; oftrúarmaður
-religiosity n. trúrækni
+religiosity n. trúrækni, guðhræðsla
 religious l. guðrækinn, trúrækinn; guðrækilegur; samviskusamur; [~ house] klaustur; [~ life] munklífi
-religiously ao. samviskusamlega
-religiousness n. guðhræðsla, trúrækni
+religiously ao. samviskusamlega; trúarlega; í samræmi við trúarbrögðin
+religiousness n. trúrækni, guðhræðsla
 relinquish s. yfirgefa; slá (e-u) frá sér; gefa eftir; sleppa (e-u)
 relinquishment n. eftirgjöf; uppgjöf
 reliquary n. skrín með helgum dómum í, helgiskrín

@@ -10284,3 +10284,5 @@ eyeshade n. augnskuggi (farði); skyggð hlífðargleraugu
 eyeshadow n. augnskuggi (farði)
 eyepiece n. augngler, augnlinsa
 oculus n. augua; sporöskjulaga gluggi
+nonhuman l. ekki mennskur, ekki mannvera ([~ animals])
+admonishment n. áminning; viðvörun
