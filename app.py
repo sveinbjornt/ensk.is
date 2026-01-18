@@ -45,6 +45,8 @@ from starlette.responses import JSONResponse
 from info import PROJECT
 from routes import web_router, api_router, static_router
 from routes.core import TemplateResponse
+from settings import settings
+
 
 # Create app
 app = FastAPI(
@@ -116,8 +118,8 @@ class AddCustomHeaderMiddleware(BaseHTTPMiddleware):
         ]
         response.headers["Content-Security-Policy"] = "; ".join(csp_parts)
         response.headers["X-Content-Type-Options"] = "nosniff"
-        # response.headers["X-Frame-Options"] = "DENY"
-        # response.headers["Referrer-Policy"] = "same-origin"
+        response.headers["X-Frame-Options"] = "DENY"
+        response.headers["Referrer-Policy"] = "same-origin"
         response.headers["Strict-Transport-Security"] = (
             "max-age=31536000; includeSubDomains"
         )
@@ -198,5 +200,20 @@ mcp.mount()
 # CLI invocation
 if __name__ == "__main__":
     import uvicorn
+    from argparse import ArgumentParser
 
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    parser = ArgumentParser()
+    parser.add_argument("--host", default=settings.web_app_host, type=str)
+    parser.add_argument("--port", default=settings.web_app_port, type=int)
+    parser.add_argument("--reload", default=settings.debug_mode, action="store_true")
+    parser.add_argument("--log-level", default=settings.log_level, type=str)
+
+    args = parser.parse_args()
+
+    uvicorn.run(
+        app,
+        host=args.host,
+        port=args.port,
+        reload=args.reload,
+        log_level=args.log_level,
+    )

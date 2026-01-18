@@ -333,6 +333,7 @@ def generate_json(entries: EntryList) -> str:
 def main() -> None:
     """Generate all dictionary files."""
     heavy = sys.argv[1:] and sys.argv[1] == "--heavy"
+    light = sys.argv[1:] and sys.argv[1] == "--light"
 
     nltk.download("wordnet")
 
@@ -340,14 +341,15 @@ def main() -> None:
     entries = read_all_entries()
     print(f"{len(entries)} entries read")
 
-    print("Generating text")
-    generate_text(entries)
+    if not light:
+        print("Generating text")
+        generate_text(entries)
 
-    print("Generating CSV")
-    generate_csv(entries, unlink_csv=True)
+        print("Generating CSV")
+        generate_csv(entries, unlink_csv=True)
 
-    print("Generating JSON")
-    generate_json(entries)
+        print("Generating JSON")
+        generate_json(entries)
 
     # if heavy:
     #     print("Generating macOS Dictionary")

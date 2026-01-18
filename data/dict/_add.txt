@@ -3376,7 +3376,7 @@ sunspot n. sólblettur
 monetarism n. peningamagnshyggja
 monetarist n. peningamagnshyggjumaður, fylgismaður peningamagnshyggju í hagfræði (sjá %[monetarism]%)
 transient l. skammtíma-, skammvinnur, svipull, hverfull, fallvaltur (sjá %[transience]%)
-malefaction n. illgjörð, illgjörningur
+malefaction n. illgjörð, illgjörningur, illvirki
 lobotomy n. geiraskurður, hvítuskurður, ennisblaðsskurður ([prefrontal ~])
 lobotomization n. ennisblaðsskurður (sjá %[lobotomy]%)
 lobotomize s. framkvæma ennisblaðsskurð
