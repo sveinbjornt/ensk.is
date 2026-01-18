@@ -3406,6 +3406,7 @@ helpfulness n. hjálpsemi
 transpacific l. þvert yfir Kyrrahafið
 leitmotif n. leiðarstef (úr þýsku)
 proprioception n. stöðu- og hreyfiskyn
+proprioceptive l. stöðu- og hreyfiskyns-
 syncratic l. samstilltur
 bacteriological l. gerlafræðilegur, bakteríufræðilegur
 melioidosis n. snifubróðir
@@ -5425,6 +5426,7 @@ decompress s. afþjappa
 decompression n. afþjöppun
 lupus n. rauðir úlfar, lúpus (sjálfsofnæmissjúkdómur)
 Rastafarian n. rastafari; l. rastafara-
+Rastafarianism n. rastafaratrú
 torque n. snúningsátak, snúningsvægi
 Hun n. Húni (af þjóðflokki Húna)
 Hunnic l. húnskur (sjá %[Hun]%); húnska, húnsk tunga
@@ -6764,6 +6766,7 @@ disproven l. hrakinn, afsannaður
 upbeat l. hress, bjartsýnn, glaðvær; hraður
 reconnect s. endurtengja, endurtengjast, komast aftur í samband
 multivalent l. fjölgildur, fleirgildur
+polyvalent l. fjölgildur, fleirgildur
 grotesqueness n. kynlegheit, afkáraleiki
 cinematic l. kvikmynda-, bíó-, kvikmyndalegur
 flashlight n. vasaljós
@@ -10225,7 +10228,7 @@ turtleneck n. rúllukragi; [~ sweater] rúllukragapeysa
 Near East n. Austurlönd nær
 oriented l. sem snýr í ákveðna átt, stefnandi að e-u ([toward])
 disorient s. gera áttavilltan, rugla í ríminu, ringla
-disorientate s. gera áttavilltan, rugla í ríminu, ringla
+disorientate s. sjá %[disorient]%
 disoriented l. áttavilltur, ruglaður í ríminu, ringlaður
 disorientation n. áttavilla, ruglun í ríminu, ringlun
 canid n. dýr af hundaætt (í dýraríkinu, t.d. úlfar, refir o.s.frv.)
@@ -10262,7 +10265,7 @@ intro n. stytt. á %[introduction]%
 varnished l. gljáður, lakkaður, olíuborinn; fegraður
 byline n. höfundarlína, höfundarnafn ([article under her ~])
 tiler n. hellulagningarmaður
-ketch n. kútter; seglbátur
+ketch n. tvísigldur bátur; seglbátur
 playbook n. leikkerfi, leikaðferðir; reglubók, bók sem geymir leikreglurnar
 boost s. efla, styrkja, ýta undir, magna, auka; n. efling, styrking, uppörvun, upplyfting
 boosted l. efldur, styrktur, magnaður, aukinn
@@ -10280,9 +10283,70 @@ stimpack n. örvandi eða læknandi lyfjabúnaður (í vísindaskáldskap)
 womanise s. sjá %[womanize]%
 effeminize s. sjá %[feminize]%
 undercharge s. vanrukka, rukka of lágt gjald; n. vanrukkun, of lágt verð
-eyeshade n. augnskuggi (farði); skyggð hlífðargleraugu
+eyeshade n. skyggð hlífðargleraugu; augngríma
 eyeshadow n. augnskuggi (farði)
 eyepiece n. augngler, augnlinsa
-oculus n. augua; sporöskjulaga gluggi
+oculus n. auga; sporöskjulaga gluggi
 nonhuman l. ekki mennskur, ekki mannvera ([~ animals])
 admonishment n. áminning; viðvörun
+motivated l. hreyfður; keyrður áfram af, drifinn af, hvattur af ([by])
+headhunter n. hausaveiðari
+headhunting n. hausaveiðar
+appointee n. manneskja sem er skipuð í embætti eða starf
+self-protection n. sjálfsvörn
+newsprint n. dagblaðapappír
+landrush n. kapphlaup um að nema land
+subsystem n. undirkerfi, hlutkerfi, kerfi innan kerfis
+monotonic l. sjá %[monotonous]%
+bricolage n. samtíningur úr alls konar hlutum
+woefully ao. hörmulega, hryggilega; afskaplega; á vesælan hátt
+densely ao. þéttilega, á þéttan hátt; [~ populated] þéttbýll
+separator n. skilja; skilvinda; aðskiljari
+élan n. ákafi, kappsemi (úr frönsku)
+macrocosm n. stórheimur; alheimurinn
+curlicue n. skrautskrift, skraut í pennaskrift
+sequential l. í röð, runubundinn, rað-, runu-
+sequentially ao. í röð
+covalence n. samgildi
+covalent l. samgildur
+geezer n. karlfauskur; gaur, náungi (óforml.)
+clunky l. þunglamalegur, óhandhægur, klaufalegur
+ectothermic l. með kalt blóð
+ectotherm n. dýr með kalt blóð
+poikilotherm n. dýr með misheitt blóð
+hawkish l. hauklegur; herskár, árásargjarn; harður í afstöðu
+dovish l. dúfulegur, eins og dúfa; friðsamur, sáttfús, óherskár, óárásargjarn
+doveish l. sjá %[dovish]%
+charbroil s. grilla með viðarkolum
+chutzpah n. óskammfeilni, ósvífni; dirfska, sjálfsöryggi (úr jiddísku)
+personified l. persónugerður; holdi klæddur ([he was evil ~])
+flippantly ao. léttúðlega
+scrooge n. nirfill, harðbrjósta nískupúki
+bootlegger n. áfengissmyglari (óforml.); manneskja sem dreifir (ólöglegum) vörum (áfengi, tónlistarupptökum, o.s.frv.)
+bootlegging n. áfengissmygl; það að framleiða eða selja (ólöglega) vöru
+bootleg s. framleiða eða selja ólöglega; n. ólögleg eða óheimiluð vara; ólöglegt eintak
+chronograph n. tímamælir
+chronogram n. áletrun þar sem stafir mynda ártal
+lymphoma n. eitlaæxli, eitilfrumukrabbamein
+tracheal l. barka-
+bebop n. bebop (stíll í djasstónlist)
+insulator n. einangrari; einangrunarefni
+overbite n. yfirbit
+celluloid n. tréningur (plastefni); l. úr tréningi; kvikmyndafilmu-
+escalope n. þunn kjötsneið
+comorbid l. fjölveiki-, sem einkennist af mörgum sjúkdómum
+comorbidity n. fjölveiki, margir sjúkdómar hjá sama einstaklingi
+faze s. slá út af laginu, buga, trufla ([he didn't let that ~ him])
+fazed l. sleginn út af laginu, bugaður, truflaður
+unfazed l. óbugaður, ótruflaður, ekki sleginn út af laginu
+armilla n. armband, baugur
+armillary l. armbands-, bauga-; [~ sphere] baugahnöttur
+tactile l. snerti-, snertingar-, þreifi-, snertiskyns-; snertanlegur, áþreifanlegur
+invitee n. boðsgestur
+waxing n. bón, bónun; vöxun; l. vaxandi (um tunglið)
+waning l. minnkandi, þverrandi (um tunglið); lækkandi (á lofti); rýrnandi, dvínandi
+thumbtack n. teiknibóla
+sensitize s. næma, gera næman ([to] fyrir)
+checkmark n. hak
+gumshoe n. gúmmískór; spæjari (óforml.)
+idolization n. dýrkun, tignun, það að hafa að átrúnaðargoði
