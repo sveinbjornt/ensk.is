@@ -5907,8 +5907,6 @@ master copy
 unmake (endurskoða)
 case-by-case
 menacing
-despairing
-despairingly
 chilling
 naturalistic (endurskoða)
 enhance (endurskoða)
@@ -5939,3 +5937,8 @@ revamper
 humanness
 hybridity
 lentoid
+successiveness
+hipster
+oilfield
+ESP
+concision
