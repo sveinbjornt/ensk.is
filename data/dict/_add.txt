@@ -2,7 +2,7 @@ aardvark n. jarðsvín (riðvaxin afrísk mauraæta með langt trýni)
 database n. gagnagrunnur, gagnasafn
 classroom n. kennslustofa, skólastofa
 coedit s. meðritstýra, ritstýra ásamt öðrum; [he ~ed the dictionary] hann var meðritstjóri orðabókarinnar
-dune n. sandhóll (sem myndast úr foksandi), sandskafl
+dune n. sandhóll (sem myndast úr foksandi), sandalda, sandskafl
 microwave n. örbylgja; s. hita í örbylgjuofni
 microwave oven n. örbylgjuofn
 helicopter n. þyrla; [~ pilot] þyrluflugmaður
@@ -66,7 +66,7 @@ spacecraft n. geimskip, geimfar
 space shuttle n. geimferja, geimskutla
 aircraft n. flugvél, loftfar, flugtæki
 laptop n. fartölva
-cryptography n. dulkóðun, dulkóðunarfræði, dulmál
+cryptography n. dulkóðun, dulmál; dulritunarfræði, dulkóðunarfræði
 cryptographer n. dulkóðunarfræðingur, dulritunarfræðingur, dulmálsfræðingur
 cryptographic l. dulkóðunar-, dulmáls-, dulritunar-
 mansplain s. hrútskýra (þegar karlmaður útskýrir e-ð á yfirlætisfullan hátt)
@@ -95,7 +95,7 @@ automobile n. bifreið, bíll, sjálfrennireið
 kleptocracy n. þjófræði (stjórnarfyrirkomulag þar sem æðstu ráðamenn stela frá almenningi)
 kleptocrat n. þjófóttur ráðamaður, þjófræðismaður (sjá %[kleptocracy]%)
 kleptocratic l. þjófræðis-, þjófóttur (sjá %[kleptocracy]%)
-website n. vefsíða, vefsetur (á veraldarvefnum)
+website n. vefsíða, vefur, vefsetur (á veraldarvefnum)
 web page n. vefsíða (á veraldarvefnum)
 homepage n. heimasíða (á veraldarvefnum)
 screenshot n. skjáskot
@@ -10367,7 +10367,7 @@ despairingly ao. í örvæntingu
 handbrake n. handbremsa (í bifreið)
 glitzy l. glysgjarn
 earner n. sá sem þénar, sá sem vinnur fyrir launum; [he's a good ~] hann skaffar vel, hann þénar mikið
-breadwinner n. fyrirvinna (heimilisins); skaffari, sá sem skaffar
+breadwinner n. fyrirvinna (heimilisins [of the house]); skaffari, sá sem skaffar
 humanoid l. með einkenni manneskju, sem líkist manneskju; n. frummaður; vera sem hefur einkenni manneskju eða er í laginu eins og manneskja
 picky l. vandfýsinn, vandlátur
 nitpicky l. smámunasamur

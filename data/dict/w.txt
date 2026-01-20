@@ -187,7 +187,7 @@ waxen l. úr vaxi, vax-
 waxy l. vaxkynjaður; mjúkur sem vax; fölleitur
 way n. vegur, leið; braut; ráð, útvegur ([~ out]); aðferð, háttur; vani; [have one's ~, one's own ~] koma vilja sinum fram; [go the ~ of all the earth, ~ of all flesh, of nature] fara veg allrar veraldar, deyja; [lose one's ~] villast; [take one's ~ to (towards)] fara til; [go (take) one's own ~] fara sinna ferða; [by the ~] á leiðinni, á ferðinni; lauslega (sagt); meðal annara orða; [came by ~ of London] í gegnum London; [by ~ of apology] sem afsökun; [on the ~] á leiðinni; [in the family ~] ólett, þunguð, vanfær; [in the ~] til hindrunar; [in the ~ of dress] að því er snertir klæðnað; [a long ~ off] langt í burtu; [on the ~ to] á leiðinni til; [out of the ~] ekki til hindrunar; fjarstaddur; afskekktur; fjarri sanni, ósanngjarn; óvanalegur; [the ship is under ~] komið af stað (um skip); [every ~] að öllu leyti; á allan hátt; [no ~] á engan hátt, engan veginn ([no ~ inferior]); [give ~] láta undan; [make ~] doka úr vegi; [make (win) one's ~] ryðja sér braut, koma sér fram; [lead the ~] ganga á undan; [ask the ~] spyrja til vegar; [a long ~ off] langt í burtu; [the ~ in] inngangurinn; [~ out] útgangur; úrræði; [~s and means] útvegir og ráð
 wayfarer n. vegfarandi
-wayfaring n. ferðalag (gangandi)
+wayfaring n. ferðalag (gangandi); l. á gangi, á leið sinni ([a poor, ~ stranger])
 waylay s. gera (e-m) fyrirsát; sitja um e-n
 waylayer n. sá sem gerir fyrirsát
 wayless l. veglaus ([~ forest])
@@ -801,26 +801,26 @@ wrist n. úlnliður
 wristband n. líning, stál (á skyrtuermi)
 writ n. rit; stefna ([~ of summons]); skrifleg skipun, skipunarskjal; [Holy Writ] heilög ritning
 write s. rita, skrifa; [~ for] panta skriflega; [~ fair] hreinskrifa
-writer n. skrifari; rithöfundur
+writer n. skrifari, skríbent; rithöfundur
 writership n. skrifaraembætti
-writhe s. vinda, snúa (með afli); rangfæra, snúa út úr; byltast um, engjast sundur og saman (af kvölum, [~ with agony])
+writhe s. vinda, snúa (með afli); rangfæra, snúa út úr; byltast um, engjast sundur og saman (af kvölum, [with agony])
 writing n. skrift; ritmáti, still; letur; rit; skjal
 writing desk n. skrifborð
 writing master n. skriftarkennari
 writing materials nft. skrifföng
 writing paper n. skrifpappír
 written s. skrifaður; skriflegur ([a ~ answer, ~ permission])
-wrong l. rangur, skakkur; [to be ~, in the ~] hafa rangt fyrir sér; n. óréttur, ranglæti; s. gera (e-m) rangt til, gera á hluta (e-s)
-wrongdoer n. misgjörðamaður, misgerðamaður; móðgari
-wrongdoing n. misgerð, misgjörð, ranglæti; móðgun
+wrong l. rangur, skakkur; [to be ~, in the ~] hafa rangt fyrir sér; n. óréttur, ranglæti, brot ([I did him a great wrong]); s. gera (e-m) rangt til, gera á hluta (e-s)
+wrongdoer n. misgjörðamaður, misgerðamaður
+wrongdoing n. misgerð, misgjörð, ranglæti
 wrongful l. ranglátur, óréttvís
 wronghead n. þverhöfði
 wrongheaded l. þverhöfðalegur
 wrongly ao. ranglega
 wrongness n. skekkja, villa
-wroth l. reiður
+wroth l. reiður, bálreiður
 wrought l. unninn, smíðaður ([a finely ~ necklace, ~ of gold]); ofinn, saumaður; [worked], sjá %[work]%; [~ iron] smíðajárn
-wry l. skakkur, skældur; [to make a ~ face] gretta sig; s. skekkja; skæla
+wry l. skakkur, skældur; [to make a ~ face] gretta sig; s. skekkja, skæla
 wry-mouthed l. skakkmyntur
 wryness n. skekkja, skæling
 wych elm n. skoskur álmviður
