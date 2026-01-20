@@ -634,7 +634,7 @@ publishing n. útgáfustarfsemi ([they're the biggest name in ~])
 CV n. ferilskrá (sks. á latneska [curriculum vitae])
 press conference n. blaðamannafundur, fréttamannafundur
 AIDS n. alnæmi, eyðni, áunnin ónæmisbæklun (sks. á [acquired immunodeficiency syndrome])
-limousine n. limúsína, limmósína, eðalvagn, glæsivagn
+limousine n. limúsína, limmósína, langur eðalvagn, langur glæsivagn
 enquiry n. spurning; fyrirspurn; rannsókn
 lightweight l. léttur; léttvægur, veigalítill; n. keppandi í léttvigt í íþróttum (t.d. hnefaleikum, [~ champion])
 logistic l. sem lýtur að skipulagi (á t.d. flutningi á vistum og búnaði)
@@ -3830,7 +3830,7 @@ psychometric l. sálmælinga-
 psychometrics nft. sálmælingar
 psychometry n. sálmæling
 deuteranomaly n. litblinda
-smaragd n. smaragð (grænn gimsteinn); sjá %[emerald]%
+smaragd n. smaragður (grænn gimsteinn); sjá %[emerald]%
 smaragdine l. smaragðs-; smaragðsgrænn
 socialize s. félagsmóta, félagsvæða; blanda geði við aðra ([he enjoyed socializing with his colleagues]); setja e-ð verksvið í hendur hins opinbera ([Sweden has socialized medical care])
 socialization n. félagsmótun; félagsvæðing, samfélagsvæðing; umgengni eða félagsleg samskipti við aðra; það að fela hinu opinbera framkvæmdir á tilteknu sviði ([socialization of medical care])
@@ -10272,7 +10272,7 @@ boosted l. efldur, styrktur, magnaður, aukinn
 particularise s. sjá %[particularize]%
 specialise s. sjá %[specialize]%
 speciate s. þróast úr einni tegund í aðra, mynda aðra (dýra)tegund
-sartorial l. klæðskera-
+sartorial l. klæðskera-, fata-
 derisively ao. háðslega, hæðilega
 discriminatory l. sem mismunar eða gerir upp á milli (fólks)
 billhook n. goggkrókur (höggtól)
@@ -10289,7 +10289,7 @@ eyepiece n. augngler, augnlinsa
 oculus n. auga; sporöskjulaga gluggi
 nonhuman l. ekki mennskur, ekki mannvera ([~ animals])
 admonishment n. áminning; viðvörun
-motivated l. hreyfður; keyrður áfram af, drifinn af, hvattur af ([by])
+motivated l. metnaðarfullur, áhugasamur; keyrður áfram af, drifinn af, hvattur af ([by])
 headhunter n. hausaveiðari
 headhunting n. hausaveiðar
 appointee n. manneskja sem er skipuð í embætti eða starf
@@ -10301,7 +10301,7 @@ monotonic l. sjá %[monotonous]%
 bricolage n. samtíningur úr alls konar hlutum
 woefully ao. hörmulega, hryggilega; afskaplega; á vesælan hátt
 densely ao. þéttilega, á þéttan hátt; [~ populated] þéttbýll
-separator n. skilja; skilvinda; aðskiljari
+separator n. skilja (tæki sem skilur eitt frá öðru); skilvinda; aðskiljari
 élan n. ákafi, kappsemi (úr frönsku)
 macrocosm n. stórheimur; alheimurinn
 curlicue n. skrautskrift, skraut í pennaskrift
@@ -10344,7 +10344,7 @@ armillary l. armbands-, bauga-; [~ sphere] baugahnöttur
 tactile l. snerti-, snertingar-, þreifi-, snertiskyns-; snertanlegur, áþreifanlegur
 invitee n. boðsgestur
 waxing n. bón, bónun; vöxun; l. vaxandi (um tunglið)
-waning l. minnkandi, þverrandi (um tunglið); lækkandi (á lofti); rýrnandi, dvínandi
+waning l. minnkandi, þverrandi (um tunglið); rýrnandi, dvínandi
 thumbtack n. teiknibóla
 sensitize s. næma, gera næman ([to] fyrir)
 checkmark n. hak
@@ -10352,7 +10352,7 @@ gumshoe n. gúmmískór; spæjari (óforml.)
 idolization n. dýrkun, tignun, það að hafa að átrúnaðargoði
 unnerving l. taugatrekkjandi, uggvænlegur, sem dregur úr kjarki
 unnerved l. sleginn út af laginu, búinn að missa kjark (sjá %[unnerve]%)
-cuddly l. kelinn; krúttlegur; kúr-
+cuddly l. kúrulegur; kelinn; krúttlegur
 prizewinner n. verðlaunahafi
 sandbank n. sandrif
 featherweight n. fjaðurvigt (þungaflokkur í hnefaleikum); l. léttvægur
@@ -10366,3 +10366,6 @@ despairing l. örvæntingarfullur; vonlaus
 despairingly ao. í örvæntingu
 handbrake n. handbremsa (í bifreið)
 glitzy l. glysgjarn
+earner n. sá sem þénar, sá sem vinnur fyrir launum; [he's a good ~] hann skaffar vel, hann þénar mikið
+breadwinner n. fyrirvinna (heimilisins); skaffari, sá sem skaffar
+humanoid l. með einkenni manneskju, sem líkist manneskju; n. frummaður; sá sem hefur einkenni manneskju

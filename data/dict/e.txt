@@ -19,7 +19,7 @@ earwitness n. heyrnarvottur
 earl n. jarl (lægri en %[marquis]% að tign, en æðri en %[viscount]%)
 earldom n. jarldómur
 early l. sem er snemma dags; snemmkvæmur; snemmgrær; öndverður; skjótur; [keep ~ hours] fara snemma á fætur og snemma að hátta; [the ~ bird gets the worm] morgunstund hefur gull í mund; [an ~ riser] árrisull maður; [at an ~ hour] snemma dags; [in the ~ part of his life] á öndverðri ævi hans; ao. snemma dags; árla; snemma
-earn s. vinna fyrir (e-u); ávinna sér; innvinna sér, afla
+earn s. vinna fyrir (e-u); ávinna sér; þéna; afla, skaffa; verðskulda
 earnings nft. það sem aflað er, arður, vinningur
 earnest n. alvara; festarfé (sem goldið er fyrirfram til að tryggja kaupsamning); trygging; [I am in real ~] mér er full alvara; l. alvarlegur, einlægur
 earnestly ao. alvarlega, einlæglega; í alvöru
@@ -149,7 +149,7 @@ effigy n. mynd; [to burn in ~] brenna ([in effigy]) mynd e-s honum til óvirðin
 efflorescence n. blómgun, blómi; blómgunartími; útbrot (á hörundi)
 effluence n. útstreymi
 effluent l. útstreymandi; n. útstreymi
-effluvium n. útgufun; óþefur, ódaunn; ft. %[effluvia]%
+effluvium n. útgufun; óþefur, ódaunn; daunillt úrgangsefni; ft. %[effluvia]%
 efflux n. útstreymi; útrennsli
 effluxion n. útstreymi; útrennsli
 effort n. áreynsla; tilraun; [to use every ~] neyta allrar orku
@@ -380,7 +380,7 @@ embryonic l. óþroskaður, ófullkominn, sem er vísir til e-s
 emend s. leiðrétta, lagfæra (staði í bókum)
 emendation n. leiðrétting, lagfæring; umbót
 emendatory l. leiðréttingar-; [~ edition] endurbætt útgáfa
-emerald n. smaragð (grænn gimsteinn); [the ~ isle] Írland
+emerald n. smaragður (grænn gimsteinn); [the ~ isle] Írland
 emerge s. koma (e-u skýtur) upp (úr vatni); koma út eða fram; [~ from poverty] komast úr fátækt; [~ into notice] verða kunnur
 emergence n. uppkoma, framkoma
 emergency n. óvæntur atburður; [on an ~] í viðlögum; [in times of ~] á hættulegum timum; [equal to the ~] fær um að ráða fram úr vandræðunum
