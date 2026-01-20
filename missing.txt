@@ -980,7 +980,6 @@ convertibility
 sideline
 unprovable
 counterintuitive
-picky
 underemployment
 overemployment
 buildup
@@ -1793,7 +1792,6 @@ physicality
 panoptic
 spin-off
 acerbic
-nitpicky
 off-kilter
 reintegrate
 dissociative
@@ -5940,3 +5938,4 @@ hipster
 oilfield
 ESP
 concision
+nitpick
