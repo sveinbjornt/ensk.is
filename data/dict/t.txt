@@ -1048,8 +1048,8 @@ travel s. ferðast; fara; fara yfir eða um ([~ a road, a district]); fara með 
 traveler n. ferðamaður; farandsali ([commercial ~])
 traveller n. ferðamaður; farandsali ([commercial ~])
 travelling l. ferða-; [~ companion] förunautur; [~ expenses] ferðakostnaður; [~ costume] ferðaföt; n. ferðalag, ferðalög
-traverse l. þvers um, þver-; n. þvertré; ferð yfir ([he made a ~ of the mountain]); stigahaft; óhapp; hindrun; s. leggja þvert um; fara yfir eða í gegnum; liggja yfir ([footpaths traversing the country]); afstýra, hindra; neita, mótmæla fyrir (rétti); snúast (á ásenda)
-travesty s. gera (alvarlegt efni) hlægilegt, gera hlægilega eftirstælingu af e-u; n. hlægileg eftirstæling (afbökun)
+traverse l. s. leggja þvert um; fara yfir eða í gegnum; liggja yfir ([footpaths traversing the country]); afstýra, hindra; neita, mótmæla fyrir (rétti); snúast (á ásenda); þvers um, þver-; n. þvertré; ferð yfir ([he made a ~ of the mountain]); stigahaft; óhapp; hindrun
+travesty n. hlægileg eftirstæling, afbökun, skrumstæling; s. gera (alvarlegt efni) hlægilegt, gera hlægilega eftirstælingu af e-u
 trawl n. botnvarpa (sjá %[trawl line]%); s. veiða með botnvörpu
 trawlboard n. botnvörpuhleri
 trawler n. botnvörpufiskari; botnvörpuskip, togari
