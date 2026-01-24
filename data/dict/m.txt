@@ -1197,12 +1197,12 @@ moose n. amerískt elgsdýr
 moot s. fara að ræða um, vekja máls á ([~ a question]); l. vafasamur; [a ~ point] vafaatriði
 mop n. gólfþurrka (á löngu skafti); s. nugga (þurrka upp) með gólfþurrku; þerra, þurrka ([~ one's eyes])
 mop stick n. gólfþurrkuskaft
-mope s. láta sér leiðast ([~ oneself]), vera stúrinn; [he is ~d to death] honum dauðleiðist; n. heimskingi
+mope s. láta sér leiðast ([~ about]), vera stúrinn; [he is ~d to death] honum dauðleiðist; n. heimskingi
 mope-eyed l. nærsýnn
 mopish l. stúrinn, dapur í skapi
 moppy l. (um hár) þykkur, lubbalegur ([his ~ black hair])
 moraine n. jökulalda
-moral l. siðferðislegur; siðgóður; [~ law] siðalögmál; n. siðalærdómur (t.d. í dæmisögu)
+moral l. siðferðislegur, siðlegur, siða-; siðgóður; [~ law] siðalögmál; n. siðalærdómur (t.d. í dæmisögu, [~ of the story])
 morals nft. siðfræði; siðferði, siðir
 moralist n. siðafræðari, siðspekingur; vandlætari
 morality n. siðferði; siðgæði; siðalögmál; siðafræði
@@ -1465,7 +1465,7 @@ musty l. myglaður
 mustache n. efrivararskegg
 mustachio n. efrivararskegg
 mustang n. villihestur í Mexíkó og Kaliforníu
-mustard n. sinnep; mustarður
+mustard n. sinnep, mustarður; sinnepsgulur litur; l. sinnepsgulur
 musteline l. hreysikattar- ([~ quadrupeds])
 muster s. kanna (lið); safna; taka saman; koma (safnast) saman; vera að tölu ([the garrison ~ed but eight men]); [~ troops into service] skrá lið til herþjónustu; [~ up] safna; [~ up courage] herða upp hugann; n. mannsöfnuður; liðkönnun; liðsafnaður; [make/take ~] kanna lið; [pass ~] vera tekinn gildur; [in ~] til skoðunar, til sýnis
 muster book n. liðsmannaskrá; skipshafnarskrá

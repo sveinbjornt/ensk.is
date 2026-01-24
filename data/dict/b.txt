@@ -714,8 +714,8 @@ blockhouse n. stokkahús; varðhús; vígi
 blockish l. staurslegur; heimskur
 blockship n. varðskip
 blockade n. hafnarbann; s. loka (banna) höfn (með skipaliði)
-blond l. ljóshærður
-blonde n. ljóshærð kona; blúnda
+blond l. ljóshærður; ljós á litinn
+blonde n. ljóshærð kona; ljós litur; blúnda; l. ljós á litinn
 blood n. blóð; ætterni, ætt; [in cold ~] af ásettu ráði; án þess að láta sér bregða; [bad ~] illvilji, úlfúð; s. taka af (e-m) blóð
 blood-guilty l. sekur um manndráp
 bloodhound n. sporhundur
@@ -1124,7 +1124,7 @@ broker n. miðlari, verslunarmiðill; skransali; veðlánari
 brokerage n. miðlaraiðn; miðlaralaun
 bronchia nft. lungnapípur, berkjur
 bronchitis n. berkjubólga, berkjukvef, lungnakvef, bronkítis
-bronze n. brons (málmblendingur); s. setja bronslit á; gera tilfinningarlausan, herða
+bronze n. brons (málmblendingur); bronslitur; l. úr bronsi; bronslitaður; s. setja bronslit á; gera tilfinningarlausan, herða
 brooch n. brjóstnál
 brood n. afsprengi dýra; afkvæmi, börn; s. liggja á eggjum; klekja út; búa yfir (e-u), vera að hugsa um ([on/over]); grúfa yfir (um myrkur, nótt, stormský)
 brood-hen n. sjá %[breeding hen]%

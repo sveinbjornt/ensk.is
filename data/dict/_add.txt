@@ -10297,7 +10297,7 @@ self-protection n. sjálfsvörn
 newsprint n. dagblaðapappír
 landrush n. kapphlaup um að nema land
 subsystem n. undirkerfi, hlutkerfi, kerfi innan kerfis
-monotonic l. sjá %[monotonous]%
+monotonic l. einhalla; eintóna; sjá einnig %[monotonous]%
 bricolage n. samtíningur úr alls konar hlutum
 woefully ao. hörmulega, hryggilega; afskaplega; á vesælan hátt
 densely ao. þéttilega, á þéttan hátt; [~ populated] þéttbýll
@@ -10368,11 +10368,11 @@ handbrake n. handbremsa (í bifreið)
 glitzy l. glysgjarn
 earner n. sá sem þénar, sá sem vinnur fyrir launum; [he's a good ~] hann skaffar vel, hann þénar mikið
 breadwinner n. fyrirvinna (heimilisins [of the house]); skaffari, sá sem skaffar
-humanoid l. með einkenni manneskju, sem líkist manneskju; n. frummaður; vera sem hefur einkenni manneskju eða er í laginu eins og manneskja
+humanoid l. með einkenni manneskju, sem líkist manneskju; n. vera sem hefur einkenni manneskju eða er í laginu eins og manneskja
 picky l. vandfýsinn, vandlátur
 nitpicky l. smámunasamur
 nitpick s. gera smámunalegar athugasemdir
-travails nft. raunir, erfiði, upplifanir
+travails nft. raunir, erfiði, erfiðar upplifanir
 pussyfoot s. læðast í kring, fara varlega, læðast eins og köttur (um [about])
 oilfield n. olíusvæði
 humanness n. mennska
@@ -10388,3 +10388,38 @@ financing n. fjármögnun
 adamantly ao. harðlega, ósveigjanlega
 rathole n. rottuhola; felustaður
 concision n. gagnyrði, stuttyrði (sjá %[concise]%)
+frag s. drepa (með handsprengju); drepa (í tölvuleik); n. handsprengja ([fragmentation grenade])
+camo n. stytt. á %[camouflage]%
+horrifying l. hryllandi, skelfandi
+joyfully ao. gleðilega, glaðlega, af gleði
+hidalgo n. spænskur aðalsmaður
+distorted l. skekktur, skældur, afskræmdur, afbakaður
+casus belli n. atburður sem telst réttlæta stríð (úr latínu)
+glycogen n. dýrasterkja, glýkógen (fjölsykra)
+Burgundy n. Búrgundahérað í Frakklandi; vín frá Búrgundahéraði í Frakklandi
+Burgundian l. frá Búrgundahéraði í Frakklandi
+burgundy l. vínrauður; n. vínrauður litur
+fecklessness n. þrekleysi; gagnsleysi
+cyberbully n. nethrellir (manneskja sem ofsækir fólk í gegnum netið)
+unkindly ao. óvingjarnlega, ómannúðlega
+vulgarian n. grófur og ruddalegur maður, ruddi, dóni
+goldilocks n. sifjarsóley; glókollur, ljóshærð manneskja; Gullinbrá
+humourless l. kímnisnauður, húmorslaus, án skopskyns
+ouch uh. ái! á! (sársaukahljóð)
+echogram n. endurvarp; ómmynd
+life-threatening l. lífsógnandi, lífshættulegur
+hand-wrought l. handsmíðaður, handunninn, handgerður
+overman n. yfirmaður, yfirmenni
+roadhouse n. vegakrá, veitingahús við þjóðveg (í útjaðri þéttbýlis)
+oatcake n. hafrakex
+fearlessly ao. óttalaust, án ótta
+examinee n. próftaki
+haphazardly ao. óskipulega, af handahófi, á tilviljunarkenndan hátt
+smokestack n. strompur, reykháfur
+comeback n. afturkoma; (snjallt) svar, andsvar
+cyan l. blágrænn; n. blágrænn litur
+sienna n. gulbrúnt litarefni; gulbrúnn litur; l. gulbrúnn
+taupe l. drapplitaður, grábrúnn; n. drappaðurlitur, grábrúnn litur
+puce l. brúnfjólublár, purpurabrúnn; n. brúnfjólublár litur, purpurabrúnn litur
+chartreuse l. gulgrænn; n. skær, gulgrænn litur
+iron lung n. stállunga, járnlunga, öndunartæki

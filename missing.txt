@@ -2912,7 +2912,6 @@ flèche
 fleche n. sjá %[flèche]%
 tout court
 faux pas
-frag
 flypast
 choate
 kefir
@@ -3570,7 +3569,6 @@ douchebag
 cervix
 oregano
 jumpy
-horrified
 blurred
 halftime
 parkway
@@ -3586,12 +3584,10 @@ okayed
 Thuringia
 Thuringian
 impactful
-joyfully
 kibble
 socialized
 gumdrop
 squidgy
-hidalgo
 eudaimonia
 eudaimonic
 cluttered
@@ -3609,7 +3605,6 @@ brouhaha
 breakdance
 derailment
 ruminative
-distorted
 allostasis
 decimated
 shocked
@@ -3620,13 +3615,13 @@ stenhouse
 outdated
 maladaptation
 proofing
-casus belli
 plethysmography
 papyrology
 bristlemouth
 mise-en-scène
 fashionista
 latifundia
+latifundium
 civilisatrice
 tellurian
 deltoid
@@ -3644,7 +3639,6 @@ cryogenics
 cryonic
 cryonics
 distributed
-glycogen
 diathesis
 intrigued
 banneret
@@ -3702,8 +3696,6 @@ intimidated
 disenfranchise
 disenfranchised
 disenfranchisement
-Burgundy
-burgundy
 precession
 sealing (endurskoða)
 brownnose
@@ -3739,7 +3731,6 @@ oneupmanship
 replenished
 elastance
 ravaging
-fecklessness
 ponytail
 shy (endurskoða, "just shy of")
 granulated
@@ -3749,7 +3740,6 @@ beef (endurskoða, have beef with someone)
 anilingus
 diverticulum
 harmonically
-cyberbully
 daunting
 dauntingly
 otolaryngologist
@@ -3772,6 +3762,7 @@ teapot
 compulsively
 overdramatic
 resthouse
+guesthouse (endurskoða)
 glyph
 embouchure
 getaway
@@ -3779,7 +3770,6 @@ birdbath
 goodnight
 enhancer
 methodically
-unkindly
 kickoff
 frostily
 numbskull
@@ -3801,7 +3791,6 @@ brochette
 classwork
 piddle
 quintette
-vulgarian
 neatly
 depilatory
 extensional
@@ -3818,7 +3807,6 @@ nutcake
 punkwood
 forepeak
 sterncastle
-overman
 stoically
 chancy
 sagely
@@ -3831,14 +3819,12 @@ physiography
 classically
 workbook
 adjudicator
-hand-wrought
 decrustation
 nuncupatory
 swivet
 cheerfully
 uneasily
 apathetically
-humourless
 ragpicker
 vulgarization
 tightly
@@ -3866,7 +3852,6 @@ earful
 small-time
 gloomily
 hoosegow
-roadhouse
 peeper
 gladstone
 roughhouse
@@ -3888,7 +3873,6 @@ misquotation
 packer
 objectless
 coomb
-oatcake
 self-possession
 shoplet
 boree
@@ -3901,9 +3885,7 @@ ostentatiously
 unselfishness
 Shakespearian
 whereinsoever
-fearlessly
 ambrosial
-examinee
 deducible
 rustbelt
 procuracy
@@ -3922,7 +3904,6 @@ gerontocrat
 shadiness
 self-management
 blitz
-haphazardly
 restabilize
 military-industrial
 cannibalization
@@ -3931,7 +3912,6 @@ confiscatory
 flimflam
 subsidizer
 outfox
-smokestack
 summarily
 duplicative
 moonlighter
@@ -3947,7 +3927,6 @@ rootedness
 caseload
 liberalizer
 reassertive
-comeback
 democratizer
 pullout
 cetus
@@ -4372,7 +4351,6 @@ recon
 gossiping
 thalassemia
 occupied
-teal (endurskoöa)
 enervate (endurskoða)
 trilemma
 solemnly
@@ -5923,3 +5901,4 @@ lentoid
 successiveness
 hipster
 ESP
+raincheck

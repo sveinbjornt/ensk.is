@@ -81,7 +81,7 @@ salivate s. slefa
 salivation n. of mikil aðsókn af munnvatni; slefun
 sallow n. gráviðir; l. gulgrár (í framan), fölleitur; s. gera gulgráan (fölleitan)
 sally n. útrás (úr borg, sem setið er um); fyndni ([a ~ of wit]); kast ([~ of passion]); gáski, léttúð; s. [~ out] brjótast (ráðast) út; [~ forth, off] leggja af stað
-salmon n. lax; [~ weir] laxakista
+salmon n. lax; [~ weir] laxakista; laxableikur litur; l. laxableikur
 saloon n. stór salur
 salt n. salt; ft. sjóflæðiland; sjór, sem fellur upp í ár; [above (below) the ~] við efri (neðri) endann á borðinu; l. saltur, saltaður, salt-; s. salta; selta; krydda; gefa (skepnum) salt
 salt cellar n. (lítið) saltker
@@ -152,7 +152,7 @@ saponaceous l. sápukenndur, sápu-; sápugur, sleipur
 saponify s. breyta í sápu; breytast í sápu
 sapor n. bragð, smekkur
 sapper n. grafari (sem grefur vígisgrafir); herverkfræðingur
-sapphire n. safírsteinn (blár gimsteinn)
+sapphire n. safírsteinn (blár gimsteinn); safírblár litur; l. safírblár
 sapphirine l. safírskenndur; bláleitur
 sappy l. safamikill
 Saracen n. serkneskur maður; [the ~s] Serkir
@@ -2690,7 +2690,7 @@ subtly ao. með slægð, kænlega
 subtract s. draga frá
 subtraction n. frádráttur
 suburb n. úthverfi, undirborg
-suburban l. sem liggur (eða er) í úthverfi ([a ~ hellhole])
+suburban l. sem liggur (eða er) í úthverfi, úthverfa- ([a ~ hellhole])
 subvene s. koma til hjálpar
 subvention n. féstyrkur (úr ríkissjóði); hjálp
 subversion n. bylting, eyðing, niðurrif, undirróður
