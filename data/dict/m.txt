@@ -553,7 +553,7 @@ meeting place n. samkomustaður, fundarstaður
 megalith n. stór steinn, klettur
 megaphone n. áhald til að auka hljóðið, gjallarhorn
 megatherium n. risaletidýr (útdautt)
-megrim n. höfuðverkur; ft. duttlungar, ólund
+megrim n. höfuðverkur; nft. [~s] duttlungar, ólund
 melancholic l. þunglyndur; niðurdrepandi
 melancholy n. þunglyndi, hugsýki; l. þunglyndur, hugsjúkur; dapur, dapurlegur, niðurdrepandi
 meliorate s. bæta, endurbæta; batna
@@ -1257,7 +1257,7 @@ mortise n. nót (í borði); [~ chisel] sporjárn; s. festa saman; plægja saman
 mortuary l. greftrunar-, lík-; n. líkhús
 mosaic n. mósaík, litsteinamynd (mynd sem er gerð úr lituðum smásteinum eða glerbrotum)
 moselle n. móselvín
-Moslem n. múslími, múhameðstrúarmaður (forn.); l. múslímskur; sjá %[Islam]%
+Moslem n. múslími, múhameðstrúarmaður (forn.); l. múslímskur (sjá %[Islam]%)
 mosque n. moska (bænahús múslíma)
 mosquito n. moskítófluga, mýfluga
 moss n. mosi; mómýri

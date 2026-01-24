@@ -4058,7 +4058,7 @@ diatomite n. kísilgúr
 diatomaceous l. kísilgúrs-; [~ earth] kísilgúr (sjá %[diatomite]%)
 ablation n. blæsing, leysing, los; brottnám
 tessellate s. stykkja; tígla
-tessellation n. tíglun
+tessellation n. tíglun; mósaík
 metastasis n. meinvarp
 metastasize s. meinvarpast
 metastasized l. meinvarpað
@@ -7521,7 +7521,7 @@ disutility n. ónytjar
 diversification n. fjölþætting
 downpayment n. innborgun
 IPO n. fyrsta útboð verðbréfa (sks. á %[initial public offering]%)
-initial public offering n. fyrsta útboð verðbréfa (sks. %[IPO]%)
+initial public offering n. fyrsta útboð verðbréfa (%[IPO]%)
 cannot stytt. á [can not]; get ekki
 can't stytt. á [can not]; get ekki
 won't stytt. á [will not]; mun ekki, vil ekki
@@ -8693,7 +8693,7 @@ DKK n. dönsk króna (gjaldmiðill)
 CHF n. svissneskur franki (gjaldmiðill)
 GBP n. breskt sterlingspund (gjaldmiðill)
 SEK n. sænsk króna (gjaldmiðill)
-World Wide Web n. veraldarvefurinn (sks. %[WWW]%)
+World Wide Web n. veraldarvefurinn (%[WWW]%)
 Scorpius n. sporðdrekinn (stjörnumerki)
 Capricornus n. steingeitin (stjörnumerki)
 Pisces n. fiskarnir (stjörnumerki)
@@ -9313,8 +9313,8 @@ thoracic l. brjósthols-, brjóstgrindar-
 axilla n. handarkriki
 nixie n. vatnadís (í þýskri þjóðtrú)
 CPU n. örgjörvi (sks. á %[central processing unit]%)
-central processing unit n. örgjörvi (sks. %[CPU]%)
-user experience n. notendaupplifun (sks. %[UX]%)
+central processing unit n. örgjörvi (%[CPU]%)
+user experience n. notendaupplifun (%[UX]%)
 UX n. notendaupplifun (sks. á %[user experience]%)
 programming language n. forritunarmál
 cybersecurity n. netöryggi, netöryggismál
@@ -10423,3 +10423,9 @@ taupe l. drapplitaður, grábrúnn; n. drappaðurlitur, grábrúnn litur
 puce l. brúnfjólublár, purpurabrúnn; n. brúnfjólublár litur, purpurabrúnn litur
 chartreuse l. gulgrænn; n. skær, gulgrænn litur
 iron lung n. stállunga, járnlunga, öndunartæki
+crummy l. mjög lélegur; auðvirðilegur
+busman n. strætóbílstjóri; rútubílstjóri
+agrammatism n. málfræðistol
+dollop n. sletta, skvetta, klessa
+mosaicism n. tíglun
+combust s. brenna
