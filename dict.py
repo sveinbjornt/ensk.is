@@ -108,6 +108,12 @@ def read_all_words() -> list[str]:
 def parse_line(s: str) -> tuple[str, str]:
     """Parse a single line entry into its constitutent parts
     i.e. word and definition strings, and return as tuple."""
+    # New strict format: word | definition
+    if "|" in s:
+        parts = s.split("|", 1)
+        return (parts[0].strip(), parts[1].strip())
+
+    # Fallback to old brittle logic
     comp = s.split()
     NO_VAL = 9999
     idx = NO_VAL
