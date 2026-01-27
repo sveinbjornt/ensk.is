@@ -51,11 +51,9 @@ CACHE_SIZE_KB = 1024 * 32  # 32 MB
 
 class EnskDatabase:
     _instance = None
-
-    def __init__(self, read_only: bool = False):
-        """Initialize the database."""
-        self.db_conn = None
-        self.read_only = read_only
+    _dbpath: str
+    _db_conn: sqlite3.Connection | None
+    read_only: bool
 
     def __new__(cls, read_only: bool = False):
         """Singleton pattern."""
@@ -64,10 +62,12 @@ class EnskDatabase:
             cls._instance = super().__new__(cls)
 
             basepath, _ = os.path.split(os.path.realpath(__file__))
-            cls._dbpath = os.path.join(basepath, DB_FILENAME)
-            cls.read_only = read_only
+            cls._instance._dbpath = os.path.join(basepath, DB_FILENAME)
+            cls._instance._db_conn = None
+            cls._instance.read_only = read_only
+
             # Create database file and schema if no DB file exists
-            if not Path(cls._dbpath).is_file():
+            if not Path(cls._instance._dbpath).is_file():
                 cls._instance._create()
         return cls._instance
 
@@ -104,21 +104,21 @@ class EnskDatabase:
         """
         conn.cursor().execute(create_metadata_table_sql)
 
-    def reinstantiate(self, read_only: bool = False) -> "EnskDatabase":
-        """Reinstantiate database."""
-        EnskDatabase._instance = None
-        return EnskDatabase.__new__(EnskDatabase, read_only=read_only)
+    # def reinstantiate(self, read_only: bool = False) -> "EnskDatabase":
+    #     """Reinstantiate database."""
+    #     EnskDatabase._instance = None
+    #     return EnskDatabase.__new__(EnskDatabase, read_only=read_only)
 
     def conn(self) -> sqlite3.Connection:
         """Open database connection lazily."""
-        if not self.db_conn:
+        if not self._db_conn:
             # Open database file via URI
             db_uri = f"file:{self._dbpath}"
             if self.read_only:
                 db_uri += "?mode=ro"
 
             logging.info(f"Opening database connection at {db_uri}")
-            self.db_conn = sqlite3.connect(
+            self._db_conn = sqlite3.connect(
                 db_uri,
                 uri=True,
                 check_same_thread=(self.read_only is False),
@@ -126,14 +126,20 @@ class EnskDatabase:
             )
 
             # Set cache size
-            self.db_conn.cursor().execute(f"PRAGMA cache_size = -{CACHE_SIZE_KB}")
+            self._db_conn.cursor().execute(f"PRAGMA cache_size = -{CACHE_SIZE_KB}")
 
-            # Return rows as key-value dicts
-            self.db_conn.row_factory = lambda c, r: dict(
+            self._db_conn.row_factory = lambda c, r: dict(
                 zip([col[0] for col in c.description], r)
             )
 
-        return self.db_conn
+        return self._db_conn
+
+    def close(self) -> None:
+        """Close the database connection and reset the connection handle."""
+        if self._db_conn:
+            logging.info("Closing database connection")
+            self._db_conn.close()
+            self._db_conn = None
 
     def add_entry(
         self,
@@ -178,32 +184,29 @@ class EnskDatabase:
     def read_metadata(self) -> dict[str, str]:
         """Read all metadata entries from the database."""
         selected = self.conn().cursor().execute("SELECT * FROM metadata")
-        res = self._consume(selected, order=False)
+        res = self._consume(selected)
         return {row["key"]: row["value"] for row in res}
 
-    def _consume(self, cursor: sqlite3.Cursor, order: bool = True) -> list[dict]:
+    def _consume(self, cursor: sqlite3.Cursor) -> list[dict]:
         """Consume cursor and return list of rows."""
-        res = list(cursor)  # Consume generator into list
-        if order:
-            res.sort(key=lambda x: x["word"].lower())
-        return res
+        return list(cursor)  # Consume generator into list
 
     def read_all_entries(self) -> list[dict]:
         """Read and return all entries."""
-        selected = self.conn().cursor().execute("SELECT * FROM dictionary")
+        selected = self.conn().cursor().execute("SELECT * FROM dictionary ORDER BY word COLLATE NOCASE")
         return self._consume(selected)
 
     def read_all_original(self) -> list[dict]:
         """Read and return all original entries from the dictionary."""
         selected = (
-            self.conn().cursor().execute("SELECT * FROM dictionary WHERE page_num!=0")
+            self.conn().cursor().execute("SELECT * FROM dictionary WHERE page_num!=0 ORDER BY word COLLATE NOCASE")
         )
         return self._consume(selected)
 
     def read_all_additions(self) -> list[dict]:
         """Read and return all entries not present in the original dictionary."""
         selected = (
-            self.conn().cursor().execute("SELECT * FROM dictionary WHERE page_num=0")
+            self.conn().cursor().execute("SELECT * FROM dictionary WHERE page_num=0 ORDER BY word COLLATE NOCASE")
         )
         return self._consume(selected)
 
@@ -214,7 +217,7 @@ class EnskDatabase:
             self.conn()
             .cursor()
             .execute(
-                "SELECT *, COUNT(*) FROM dictionary GROUP BY lower(word) HAVING COUNT(*) > 1"
+                "SELECT *, COUNT(*) FROM dictionary GROUP BY lower(word) HAVING COUNT(*) > 1 ORDER BY word COLLATE NOCASE"
             )
         )
         return self._consume(selected)
@@ -224,14 +227,14 @@ class EnskDatabase:
         assert lang in ["uk", "us"]
         ipa_col = "ipa_" + lang
         selected = (
-            self.conn().cursor().execute(f"SELECT * FROM dictionary WHERE {ipa_col}=''")
+            self.conn().cursor().execute(f"SELECT * FROM dictionary WHERE {ipa_col}='' ORDER BY word COLLATE NOCASE")
         )
         return self._consume(selected)
 
     def read_all_with_no_page(self) -> list[dict]:
         """Read and return all entries without IPA."""
         selected = (
-            self.conn().cursor().execute("SELECT * FROM dictionary WHERE page_num=0")
+            self.conn().cursor().execute("SELECT * FROM dictionary WHERE page_num=0 ORDER BY word COLLATE NOCASE")
         )
         return self._consume(selected)
 
@@ -240,7 +243,7 @@ class EnskDatabase:
         selected = (
             self.conn()
             .cursor()
-            .execute("SELECT * FROM dictionary WHERE word GLOB '[A-Z]*'")
+            .execute("SELECT * FROM dictionary WHERE word GLOB '[A-Z]*' ORDER BY word COLLATE NOCASE")
         )
         return self._consume(selected)
 
@@ -249,7 +252,7 @@ class EnskDatabase:
         selected = (
             self.conn()
             .cursor()
-            .execute("SELECT * FROM dictionary WHERE word LIKE '% %'")
+            .execute("SELECT * FROM dictionary WHERE word LIKE '% %' ORDER BY word COLLATE NOCASE")
         )
         return self._consume(selected)
 
@@ -264,7 +267,7 @@ class EnskDatabase:
             self.conn()
             .cursor()
             .execute(
-                "SELECT * FROM dictionary WHERE definition LIKE ?",
+                "SELECT * FROM dictionary WHERE definition LIKE ? ORDER BY word COLLATE NOCASE",
                 [f"%{cat}. %"],
             )
         )

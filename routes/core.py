@@ -106,7 +106,8 @@ DEFAULT_SEARCH_LIMIT = 50  # Default limit for search results
 
 # Clear the database reference to free memory
 # It will not be needed after this point
-edb = None
+edb.close()
+del edb
 
 
 def err_resp(msg: str) -> JSONResponse:
