@@ -230,7 +230,7 @@ def test_edge_cases() -> None:
 
     # Page with non-integer page number
     response = client.get("/page/abc")
-    assert response.status_code == HTTPStatus.INTERNAL_SERVER_ERROR
+    assert response.status_code == HTTPStatus.BAD_REQUEST
 
     # Page with negative page number
     response = client.get("/page/-1")
