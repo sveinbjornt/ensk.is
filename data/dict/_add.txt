@@ -8611,7 +8611,7 @@ Punic Wars nft. púnversku stríðin (stríð milli Rómar og Karþagó í forn�
 halal n. halal-slátrun (slátrunaraðferð múslíma)
 preverbal l. á undan sögn (í málfræði); á undan máltökuskeiði (barns)
 stigmatise s. sjá %[stigmatize]%
-Deutschmark n. þýskt mark (þýskur gjaldmiðill fyrir upptöku Evrunnar)
+Deutschmark n. þýskt mark (gjaldmiðill)
 disheveled l. sjá %[dishevelled]%
 dishevel s. gera óreglulegt, rugla
 own goal n. sjálfsmark (í íþróttum)
@@ -10409,7 +10409,7 @@ ouch uh. ái! á! (sársaukahljóð)
 echogram n. endurvarp; ómmynd
 life-threatening l. lífsógnandi, lífshættulegur
 hand-wrought l. handsmíðaður, handunninn, handgerður
-overman n. yfirmaður, yfirmenni
+overman n. yfirmaður, verkstjóri; yfirmenni (í heimspeki Nietzsche)
 roadhouse n. vegakrá, veitingahús við þjóðveg (í útjaðri þéttbýlis)
 oatcake n. hafrakex
 fearlessly ao. óttalaust, án ótta
@@ -10429,3 +10429,35 @@ agrammatism n. málfræðistol
 dollop n. sletta, skvetta, klessa
 mosaicism n. tíglun
 combust s. brenna
+mating n. mökun; pörun
+minder n. fóstra; dagforeldri; gæslumaður
+macaw n. arnpáfi (páfagaukur)
+scupper n. lensport, austurop á skipi; s. sökkva (skipi); hindra, eyðileggja ([~ a plan])
+applied science n. hagnýt vísindi
+ebola n. ebólaveira (hættulegur smitsjúkdómur)
+multiple sclerosis n. heila- og mænusigg (taugasjúkdómur)
+kidney failure n. nýrnabilun
+Alzheimer n. alsheimerssjúkdómur, Alzheimer-sjúkdómur (taugahrörnunarsjúkdómur)
+zika n. zíkaveira
+air force n. flugher
+marines nft. sjóliðar, landgönguliðar ([send in the ~])
+agora n. torg, markaðstorg (í forngrískum borgum)
+helot n. helóti (þræll í Spörtu til forna)
+helotry n. þrældómur, þrælkun (í Spörtu til forna)
+eudaimonia n. farsæld, hamingja (í grískri heimspeki)
+eudaimonic l. farsældar-, hamingju- (sjá %[eudaimonia]%)
+categorical imperative n. skilyrðislausa skylduboðið (í siðspeki Immanuels Kants)
+tabula rasa n. óskrifað blað (sú hugmynd innan heimspekinnar að fólk fæðist sem óskrifað blað og mótist einungis af upplifunum)
+mujahideen nft. heilagur stríðsmaður (íslamskrar trúar), múslímskur stríðsmaður
+imam n. ímam (bænastjóri eða klerkur múslíma)
+hajj n. hadsjí (pílagrímaferð múslima til Mekku)
+kosher l. hreinn samkvæmt helgisiðum gyðinga (um mat); í lagi, réttur (óforml.)
+chain-smoke s. keðjureykja
+chain-smoker n. keðjureykingamaður, stórreykingamaður
+quinquennium n. fimm ára tímabil
+quadrennium n. fjögurra ára tímabil
+biliary l. gall-, gallkenndur
+burnt l. brenndur
+burned l. brenndur
+copperware n. koparvörur, koparmunir
+hydrolysis n. vatnsrof

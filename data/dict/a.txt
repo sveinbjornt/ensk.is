@@ -664,7 +664,7 @@ airtight l. loftþéttur
 airy n. loflegur; loftgóður; þunnur; léttur; þóttafullur
 aisle n. hliðarstúka (í kirkju)
 ait n. hólmi (í á)
-aitch-bone n. rófubein
+aitchbone n. rófubein
 ajar ao. í hálfa gátt; [be ~ with] vera ósáttur við
 akimbo ao. með hendur í síðu ([with his arms ~])
 akin l. skyldur e-m ([to])
@@ -975,7 +975,7 @@ andiron n. hlóðagrind
 androgyne l. tvíkynja; n. tvíkynja vera
 androgynous l. tvíkynjaður
 anecdote n. smásaga, skrítla, anekdóta, stutt frásögn
-anecdotist n. smásöguhófundur, e-r sem fer með stuttar sögur, skrítlur, anekdótur
+anecdotist n. smásöguhófundur, e-r sem fer með stuttar sögur, skrítlur eða anekdótur
 anemia n. blóðleysi
 anemograph n. vindmælir
 anemometer n. vindmælir

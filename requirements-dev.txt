@@ -2,7 +2,7 @@ islenska>=1.1.1
 tokenizer>=3.6.2
 pytest==9.0.2
 uvicorn==0.40.0
-pypdf==6.6.0
+pypdf==6.6.2
 reportlab==4.4.9
 httpx==0.28.1
 skiptir==1.0.0
