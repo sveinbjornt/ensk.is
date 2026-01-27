@@ -89,7 +89,6 @@ keyboard n. lyklaborð
 touch screen n. snertiskjár
 lemur n. lemúr (dýr af ætt prímata frá eyjunni Madagaskar)
 baseball n. hafnabolti (bandarísk íþrótt)
-jet n. þota, þrýstiloftsflugvél
 jet fighter n. herþota, orustuþota
 automobile n. bifreið, bíll, sjálfrennireið
 kleptocracy n. þjófræði (stjórnarfyrirkomulag þar sem æðstu ráðamenn stela frá almenningi)
@@ -10461,3 +10460,6 @@ burnt l. brenndur
 burned l. brenndur
 copperware n. koparvörur, koparmunir
 hydrolysis n. vatnsrof
+outré l. afkáralegur
+knotgrass n. blóðarfi (jurt)
+flixweed n. þefjurt

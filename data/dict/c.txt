@@ -762,7 +762,7 @@ chloroform n. klóroform; s. svæfa (með klóroformi)
 chlorosis n. bleikjusótt, blóðleysi
 chock n. hjólskorða; bátskorða (á þilfari); s. skorða; troðfylla
 chock-full l. troðfullur
-chocolate n. súkkulaði; s. drekka súkkulaði
+chocolate n. súkkulaði; l. súkkulaðibrúnn
 choice n. val, kosning; úrval; kostur, valkostur; [make ~ of] velja; [have no ~ but] eiga ekki annars kosta völ en; l. ágætur
 choiceness n. ágæti
 choir n. söngflokkur (í kirkju); kór; kórsöngur
@@ -2099,7 +2099,7 @@ copestone n. toppsteinn
 copious l. efnisríkur; fjölorður; orðmargur ([a ~ language]); ríkulegur
 copiously ao. ríkulega; rækilega
 copiousness n. gnótt; orðgnótt
-copper n. kopar, eir (málmur, frumefnið Cu, 29 í lotukerfinu); eirpeningar; eirketill; lögregluþjónn (óforml.)
+copper n. kopar, eir (málmur, frumefnið Cu, 29 í lotukerfinu); eirpeningar; eirketill; lögregluþjónn (óforml.); l. úr kopari; koparlitaður, eirlitaður
 copper-plate n. eirplata; koparstunga, koparstunguprent ([~ engraving, printing])
 coppery l. kopar-; [~ particles] koparagnir
 coppice n. smáviður
@@ -2264,7 +2264,7 @@ counsel n. ráð, ráðgjöf; ráðagerð; fyrirætlun; lögfræðingaráð; má
 counsellor n. ráðgjafi, ráðunautur
 count n. talning, tala; reikningur; sakaratriði; [take (make) ~ of] gefa gaum að; greifi (útlendur titill, sem samsvarar [earl] á ensku); s. telja; telja með; telja, skoða ([it was ~ed a great exploit to]); reikna; reiða sig á ([on, upon]); teljast; [~ for (much, little)] vera (mikils, lítils) metinn; [~ up] telja (leggja) saman; [~ out the House] fresta þingfundi, þegar mættir þingmenn eru of fáir
 countable l. teljanlegur ([they are ~ by the thousand])
-countenance n. svipur, yfirbragð; andlit; stilling; fylgi, aðstoð ([give ~ to]); [put out of ~] gera feiminn, trufla; [keep one's ~] stilla sig (um að hlægja); s. styðja, uppörva
+countenance n. svipur, yfirbragð; andlit; stilling; fylgi, aðstoð ([give ~ to]); [put out of ~] gera feiminn, trufla; [keep one's ~] stilla sig (um að hlæja); s. styðja, uppörva
 countenancer n. styrktarmaður, stuðningsmaður
 counter l. gagnstæður; ao. gagnstætt, öfugt, andstætt ([to go, act ~ to]); s. mótmæla, andmæla, vinna gegn; n. teljari; spilapeningur; búðarborð; bringa (á hesti); bakhluti á skó eða stígvéli
 counteract s. aftra, vinna gegn; vera á móti
@@ -2421,7 +2421,7 @@ craze s. brjála, æra; brjálast, ærast; n. æði, brjálun; æðisleg löngun
 crazed l. brjálaður
 crazy l. vitskertur, brjálaður, geggjaður, geðbilaður; hrörlegur ([a ~ house, ship])
 creak s. braka, marra, hrikta í; n. brak, marr, hrikt
-cream n. rjómi; úrval; [~ of tartar] hreinsaður vínsteinn; s. veiða rjómann ofan af; láta rjóma í (kaffi, te); velja úr; [the milk ~s] rjómi sest ofan á mjólkina
+cream n. rjómi; úrval ([~ of the crop]); [~ of tartar] hreinsaður vínsteinn; s. veiða rjómann ofan af; láta rjóma í (kaffi, te); velja úr; [the milk ~s] rjómi sest ofan á mjólkina; l. rjómahvítur, rjómagulur
 creamer n. rjómafleytir
 creamery n. smjörbú; rjóma- og mjólkursölustaður
 creamy l. rjómaborinn; sem líkist rjóma, rjóma-; mjúkur ([~ words]); rjómalitaður, gulleitur, hvítur

@@ -243,7 +243,7 @@ laudable l. lofsverður
 laudation n. lof, hrós
 laudatory l. lofandi; lofsamlegur
 laudanum n. svefnlyf, ópíumseyði
-laugh s. hlægja; [~ at] hlæja (brosa) að; spotta, gera gys að; n. hlátur; [have the ~ on one's side] hafa hláturinn með sér; [on the ~] hlæjandi; [he who ~s last, laughs best] sá hlær best sem síðast hlær
+laugh s. hlæja; [~ at] hlæja (brosa) að; spotta, gera gys að; n. hlátur; [have the ~ on one's side] hafa hláturinn með sér; [on the ~] hlæjandi; [he who ~s last, laughs best] sá hlær best sem síðast hlær
 laughable l. hlægilegur
 laughingly ao. hlæjandi
 laughing-stock n. aðhlátursefni, athlægi; hlægifífl
@@ -737,13 +737,12 @@ locate s. staðsetja; setja; ákveða (e-u) stað; [~ oneself] setjast að
 located l. staðsettur; búsettur, búandi
 location n. setning, staða, lega; leiga
 locative l. staðar-; n. staðarfall
-loch n. stöðuvatn
-lock n. lás, skrá; byssulás; gáttarstífla, flóðgátt; [under ~ and key] harðlæstur niður; s. læsa; [~ in/up] loka (byrgja) inni; lokast; [~ out] loka úti; gera verkbann
+loch n. stöðuvatn (í Skotlandi)
+lock n. lás, skrá; byssulás; gáttarstífla, flóðgátt; [under ~ and key] harðlæstur niður; (hár)lokkur, (ullar)lagður; s. læsa; [~ in/up] loka (byrgja) inni; lokast; [~ out] loka úti; gera verkbann
 lockage n. gáttarstífla; stíflugjald
 locker n. skápur, hirsla, stokkur, hólf; föst kista (í skipi); forðakista
 lockout n. verkbann, vinnuteppa
 lockup n. lokun; fangelsi
-lock n. (hár)lokkur, (ullar)-lagður
 locked-jaw n. ginklofi, klums
 lock-jaw n. ginklofi, klums
 locket n. nisti
