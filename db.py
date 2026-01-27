@@ -224,9 +224,7 @@ class EnskDatabase:
         assert lang in ["uk", "us"]
         ipa_col = "ipa_" + lang
         selected = (
-            self.conn()
-            .cursor()
-            .execute("SELECT * FROM dictionary WHERE ?=''", [ipa_col])
+            self.conn().cursor().execute(f"SELECT * FROM dictionary WHERE {ipa_col}=''")
         )
         return self._consume(selected)
 

@@ -48,7 +48,8 @@ _SPEECHSYNTH_CLT = "/usr/bin/say"  # Requires macOS
 
 assert exists(_SPEECHSYNTH_CLT), "macOS speech synthesizer not found"
 
-# Requires LAME installed: brew install lame
+# Requires LAME installed
+# On macOS: brew install lame
 _LAME_CLT = "/usr/local/bin/lame"
 
 assert exists(_LAME_CLT), "lame MP3 encoder not found"
@@ -65,10 +66,12 @@ def synthesize_word(
     ], "Unsupported voice"
 
     subfolder = "uk" if voice == _DEFAULT_UK_VOICE else "us"
+    subfolder_path = f"{dest_folder}/{subfolder}"
+    assert exists(subfolder_path), f"Destination folder {subfolder_path} does not exist"
 
     f = w.replace(" ", "_")
 
-    if exists(f"{dest_folder}/{subfolder}/{f}.mp3"):
+    if exists(f"{subfolder_path}/{f}.mp3"):
         # This word has already been synthesised
         return None
 
@@ -78,9 +81,7 @@ def synthesize_word(
     cmd.append("-o")
     fn = f"{f}.aiff"
 
-    # TODO: assert exists subfolder path
-
-    outpath = f"{dest_folder}/{subfolder}/{fn}"
+    outpath = f"{subfolder_path}/{fn}"
     cmd.append(outpath)
     cmd.append(w)
     subprocess.run(cmd)
