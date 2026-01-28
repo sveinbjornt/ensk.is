@@ -153,7 +153,7 @@ class LetterSectionMarker(Flowable):
         self.width = 0
         self.height = 0
 
-    def wrap(self, availWidth, availHeight):
+    def wrap(self, availWidth, availHeight):  # type: ignore
         """Wrap the flowable."""
         # Zero-sized flowable
         return (0, 0)
@@ -190,7 +190,7 @@ class EntryWordMarker(Flowable):
         self.width = 0
         self.height = 0
 
-    def wrap(self, availWidth, availHeight):
+    def wrap(self, availWidth, availHeight):  # type: ignore
         """Wrap the flowable."""
         # Zero-sized flowable
         return (0, 0)
