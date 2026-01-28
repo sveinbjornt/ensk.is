@@ -7149,7 +7149,7 @@ VP n. varaforseti (sks. á %[vice-president]%)
 peephole n. gægjugat
 IPA n. alþjóðlega hljóðritunarstafrófið (sks. á [International Phonetic Alphabet]); öltegund ([India Pale Ale])
 slavishness n. þrælslund
-KO n. rot, rotun (í hnefaleikum, sks. á [knockout])
+KO n. rothögg, rot, rotun (í hnefaleikum, sks. á %[knockout]%)
 ETA n. áætlaður komutími (sks. á [estimated time of arrival])
 variability n. breytileiki; óstöðugleiki
 invariability n. óbreytileiki; stöðugleiki
@@ -8307,7 +8307,7 @@ headwaiter n. yfirþjónn
 neutralise s. sjá %[neutralize]%
 materialisation n. sjá %[materialization]%
 palm-reading n. lófalestur
-rapper n. rappari
+rapper n. rappari; dyrahamar
 moonbow n. njólubaugur (regnbogi sem sést að nóttu til)
 nursing n. hjúkrun, aðhlynning; hjúkrunarstarf; hjúkrunarþjónusta
 picometer n. píkómetri
@@ -10451,7 +10451,7 @@ mujahideen nft. heilagur stríðsmaður (íslamskrar trúar), múslímskur strí
 imam n. ímam (bænastjóri eða klerkur múslíma)
 hajj n. hadsjí (pílagrímaferð múslima til Mekku)
 kosher l. hreinn samkvæmt helgisiðum gyðinga (um mat); í lagi, réttur (óforml.)
-chain-smoke s. keðjureykja
+chain-smoke s. keðjureykja (tóbak)
 chain-smoker n. keðjureykingamaður, stórreykingamaður
 quinquennium n. fimm ára tímabil
 quadrennium n. fjögurra ára tímabil
@@ -10463,3 +10463,6 @@ hydrolysis n. vatnsrof
 outré l. afkáralegur
 knotgrass n. blóðarfi (jurt)
 flixweed n. þefjurt
+ax n. sjá %[axe]%
+cynophilist n. hundavinur
+knockout n. rothögg ([~ blow]), rot, rotun
