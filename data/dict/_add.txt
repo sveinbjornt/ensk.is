@@ -3976,7 +3976,7 @@ smoked l. reyktur; [~ salmon] reyktur lax
 hero-worship n. hetjudýrkun
 fragmentation n. sundrung, klofnun, brotnun, molun
 ministership n. ráðherraembætti; prestsembætti
-resoluteness n. fastræði; einbeittur vilji
+resoluteness n. fastræði, staðfesta; einbeittur vilji
 oxymoron n. refhvörf, mótsögn (í skáldamáli eða mælskulist)
 downgrade s. niðurfæra, lækka niður; skipta yfir í eldri eða verri útgáfu af e-u; n. niðurfærsla
 rapaciousness n. rángirni
@@ -5690,7 +5690,7 @@ coyote n. sléttuúlfur
 sucrose n. súkrósi, sykur
 anaphylaxis n. bráðaofnæmi
 anaphylactic l. bráðaofnæmis-
-generalise s. sjá %[generalise]%
+generalise s. sjá %[generalize]%
 annoyed l. pirraður, angraður
 koala n. pokabjörn, kóalabjörn
 Minerva n. Mínerva (rómversk gyðja visku og hagleiks)
@@ -10466,3 +10466,21 @@ flixweed n. þefjurt
 ax n. sjá %[axe]%
 cynophilist n. hundavinur
 knockout n. rothögg ([~ blow]), rot, rotun
+bred l. ræktaður, alinn (sjá %[breed]%)
+baize n. ullardúkur (á leikborði í knattborðsleikum)
+begonia n. begónía, skáblað (planta)
+bobsleigh n. bobsleði, kappaksturssleði
+footling l. ómikilvægur, fánýtur, gagnslaus
+titty n. kvenbrjóst, tútta (óforml.); [~ bar] strippklúbbur (óforml.)
+titties nft. kvenbrjóst, túttur (óforml.)
+businessperson n. viðskiptamanneskja, kaupsýslumanneskja, verslunarmanneskja
+businesswoman n. viðskiptakona, kaupsýslukona, verslunarkona, bisnesskona
+therapeutical l. sjá %[therapeutic]%
+foghorn n. þokulúður
+barrelhouse n. hávær knæpa, ódýrt ölhús; e.k. blúspíanó; stíll í blús- eða djasstónlist
+diaphoretic l. svitaaukandi, svitavaldandi; svitaaukandi lyf
+thrombolysis n. segaeyðing, segaleysing, blóðseganiðurbrot
+thrombolytic l. segaeyðandi, segaleysandi
+forging n. smíðar, járnsmíðar, málmsmíðar ([the ~ of the ring]); mótun; fölsun ([the forging of the painting])
+irresoluteness n. óákveðni, hik, skortur á staðfestu
+resolutely ao. staðfastlega, einart, einarðlega
