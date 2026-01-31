@@ -2014,7 +2014,7 @@ sprout s. spíra, byrja að vaxa; láta vaxa spírur á (útsæði); n. frjóst�
 spruce beer n. öltegund (búin til úr sírópi og seyði úr greniviði)
 spruce n. greni, grenitré; l. skrautbúinn, prúðbúinn; s. skrautbúa; dubba upp
 spry l. fjörugur, sprækur
-spud n. arfagref; s. reyta, rífa upp ([~ out, up])
+spud n. arfagref, grefill; s. reyta, rífa upp ([~ out, up])
 spume n. froða; s. freyða, löðra
 spumous l. freyðandi, löðrandi
 spumy l. freyðandi, löðrandi
@@ -2297,13 +2297,13 @@ sticking-plaster n. heftiplástur
 sticky l. límkenndur, seigur ([damp a ~ dough])
 stickle s. berjast með ákefð (fyrir e-i skoðun); draga taum e-s ([~ for one])
 stickler n. talsmaður, formælandi (e-s [of, for])
-stiff l. stinnur; stirðnaður; óliðlegur, ólipur, stífur, stirður (í framkomu); þrár; harður ([~ contest]); örðugur, erfiður ([a ~ slope, climb, subject]); sterkur ([~ glass of grog]); [~ denial] harðneitun; [~ neck] rígur í hálsi
-stiffen s. gera stinnt; stirðna
+stiff l. stinnur; stirðnaður; stirður, óliðlegur, ólipur, stífur (í framkomu); þrár; harður ([~ contest]); örðugur, erfiður ([a ~ slope, climb, subject]); sterkur ([~ glass of grog]); [~ denial] harðneitun; [~ neck] rígur í hálsi
+stiffen s. stirðna; gera stinnt
 stiffish l. fremur stirður
 stiff-necked l. þrár, þrályndur
 stiffness n. stífleiki, stinnleiki, stirðleiki
 stifle s. kæfa, bæla niður; kafna
-stifling n. kæfandi
+stifling l. kæfandi, bælandi, kafnandi
 stigma n. brennimark; skammarmark
 stigmata nft. rauðir dílar á hörundi
 stigmatic l. hneisulegur
