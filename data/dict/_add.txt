@@ -4849,8 +4849,8 @@ hydrosphere n. vatnshvolf, vatnshvel; vatnshjúpur
 multipolar l. fjölskauta, fjölpóla
 multipolarity n. fjölskautun, fjölpólun
 unipole n. einpóll, einskaut
-unipolar l. einskauta, einpóla
-unipolarity n. einskautun, einpólun
+unipolar l. einpóla, einskauta
+unipolarity n. einpólun, einskautun
 unconsciousness n. meðvitundarleysi
 unconsciously ao. ómeðvitað, á meðvitundarlausan eða ómeðvitaðan hátt, ekki að yfirlögðu ráði
 consciously ao. vísvitandi, að yfirlögðu ráði, viljandi; meðvitað, á meðvitaðan hátt, með meðvitund
@@ -10482,7 +10482,7 @@ diaphoretic l. svitaaukandi, svitavaldandi; svitaaukandi lyf
 thrombolysis n. segaeyðing, segaleysing, blóðseganiðurbrot
 thrombolytic l. segaeyðandi, segaleysandi
 forging n. smíðar, járnsmíðar, málmsmíðar ([the ~ of the ring]); mótun; fölsun
-irresoluteness n. óákveðni, hik, skortur á staðfestu
+irresoluteness n. óákveðni, hik, staðfestuleysi, skortur á staðfestu
 resolutely ao. staðfastlega, einart, einarðlega
 biogas n. lífrænt gas
 handcart n. handkerra, handvagn
@@ -10496,3 +10496,11 @@ layperson n. leikmaður, ólærð manneskja
 chanson n. söngur, sönglag (úr frönsku)
 chansonnier n. söngbók; söngvari (úr frönsku)
 chansonnette n. lítið sönglag
+atlanticism n. sú stefna að efla samskipti Atlantshafsþjóða (fyrst og fremst Bandaríkjanna og Evrópu)
+transatlanticism n. sjá %[atlanticism]%
+sloganeer n. slagorðasmiður
+sloganeering n. slagorðasmíði, samning slagorða; notkun slagorða
+perm n. permanent (hárlögun); setja permanent í hár
+incarcerated l. fangelsaður, lokaður inni
+dogfight n. hundaslagur, hundaslagsmál; flugvélaorusta, loftbardagi
+dogfighting n. hundaat; flugvélaorusta, loftbardagi, átök í loftunum

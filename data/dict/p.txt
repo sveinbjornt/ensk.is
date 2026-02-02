@@ -847,9 +847,9 @@ philanthropist n. mannvinur, velgerðarmaður, velgjörðamaður, góðgerðarma
 philanthropy n. góðgerðarstarf, velgerðarmál; mannkærleiki, mannúð
 philatelist n. frímerkjasafnari
 philately n. frímerkjasöfnun
-philharmonic l. söngelskandi
-philhellene n. Grikkjavinur
-philhellenist n. Grikkjavinur
+philharmonic l. söngelskandi, tónlistarunnenda-; fílharmóníu-, tónlistar-
+philhellene n. grikkjavinur
+philhellenist n. grikkjavinur
 philhellenic l. vinveittur Grikkjum
 philippic n. refsiræða
 philological l. textafræðilegur, fílólógískur
@@ -1388,7 +1388,7 @@ polling-day n. kjördagur
 poll tax n. nefskattur
 pollack n. ufsi, lýr
 pollard n. kollótt skepna, (naut, kind); tré, sem toppurinn er höggvinn af; s. höggva greinar af tré
-pollen n. plöntufrjóduft
+pollen n. frjó, frjókorn, plöntufrjóduft
 pollute s. menga, óhreinka, spilla, saurga, ata
 pollution n. óhreinkun, saurgun
 polo n. e.k. austurlenskur knattleikur
