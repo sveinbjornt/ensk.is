@@ -26,6 +26,7 @@ jobs:
           python -m pip install uv
           uv pip install --system --upgrade wheel setuptools ruff pytest httpx curlylint pyright
           uv pip install --system -r requirements.txt
+          uv pip install --system -r requirements-dev.txt
       - name: Linting
         run: |
           ruff check *.py routes/*.py tests/*.py
