@@ -1,7 +1,11 @@
-#!bin/bash
+#!/bin/bash
 #
 # Build dictionary and audio files, then deploy to ensk.is
 #
+
+set -e
+
+cd "$(dirname "$0")"
 
 source venv/bin/activate
 python gen.py
