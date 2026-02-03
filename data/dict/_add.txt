@@ -1533,7 +1533,7 @@ North American n. norðuramerískur; n. Norður-Ameríkani, Norður-Ameríkumað
 Central America n. Mið-Ameríka
 Central American n. miðamerískur; n. Mið-Ameríkani, Mið-Ameríkumaður
 South America n. Suður-Ameríka (heimsálfa)
-South American n. suðuramerískur; n. Suður-Ameríkani, Suður-Ameríkumaður
+South American l. suðuramerískur; n. Suður-Ameríkani, Suður-Ameríkumaður
 Oceania n. Eyjaálfa (heimsálfa sem nær yfir Ástralíu og nærliggjandi eyjar)
 telegraphy n. símritun
 telegrapher n. símritari, símaþjónn
@@ -10512,4 +10512,26 @@ grooming n. snyrting, það að sinna útliti sínu; tæling
 radicalize s. gera róttækan, gera að róttæklingi
 sweetie n. elskan, vinan, ljúfan (óforml.)
 salvific l. sálulhjálpar-
-kendo n. japönsk skylmingalist
+kendo n. kendó (japönsk skylmingalist)
+Antigua n. Antígva (eyja í Karíbahafi)
+Antiguan l. frá Antígvu; n. Antígvumaður
+Barbuda n. Barbúda (eyja í Karíbahafi)
+Barbudan l. frá Barbúda; Barbúdamaður
+security council n. öryggisráð
+general assembly n. allsherjarþing
+Central African l. miðafrískur; n. Mið-Afríkumaður
+Red Sea n. Rauðahaf
+Dead Sea n. Dauðahaf
+South China Sea n. Suður-Kínahaf
+Bering Sea n. Beringshaf
+Bering Straits n. Beringssund
+Greenland Sea n. Grænlandshaf
+Arabian Sea n. Arabíuhaf
+knockers nft. brjóst (óforml.)
+Rhine n. Rín, Rínarfljót ([the ~])
+Sumatra n. Súmatra (eyja í Indónesíu)
+Borneo n. Borneó (eyja í Suðaustur-Asíu)
+Papua n. Papúa (eyja í Suðaustur-Asíu)
+Papuan l. papúskur
+New Guinea n. Nýja-Gínea
+British Columbia n. Breska-Kolumbía
