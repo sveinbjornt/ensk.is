@@ -10418,7 +10418,7 @@ smokestack n. strompur, reykháfur
 comeback n. afturkoma; (snjallt) svar, andsvar
 cyan l. blágrænn; n. blágrænn litur
 sienna n. gulbrúnt litarefni; gulbrúnn litur; l. gulbrúnn
-taupe l. drapplitaður, grábrúnn; n. drappaðurlitur, grábrúnn litur
+taupe l. drapplitaður, grábrúnn; n. drappaður litur, grábrúnn litur
 puce l. brúnfjólublár, purpurabrúnn; n. brúnfjólublár litur, purpurabrúnn litur
 chartreuse l. gulgrænn; n. skær, gulgrænn litur
 iron lung n. stállunga, járnlunga, öndunartæki
@@ -10429,7 +10429,7 @@ dollop n. sletta, skvetta, klessa
 mosaicism n. tíglun
 combust s. brenna
 mating n. mökun; pörun
-minder n. fóstra; dagforeldri; gæslumaður
+minder n. fóstra; dagforeldri; gæslumaður, umsjónarmaður
 macaw n. arnpáfi (páfagaukur)
 scupper n. lensport, austurop á skipi; s. sökkva (skipi); hindra, eyðileggja ([~ a plan])
 applied science n. hagnýt vísindi
@@ -10447,7 +10447,7 @@ eudaimonia n. farsæld, hamingja (í grískri heimspeki)
 eudaimonic l. farsældar-, hamingju- (sjá %[eudaimonia]%)
 categorical imperative n. skilyrðislausa skylduboðið (í siðspeki Immanuels Kants)
 tabula rasa n. óskrifað blað (sú hugmynd innan heimspekinnar að fólk fæðist sem óskrifað blað og mótist einungis af upplifunum)
-mujahideen nft. heilagur stríðsmaður (íslamskrar trúar), múslímskur stríðsmaður
+mujahideen nft. heilagir stríðsmenn (íslamskrar trúar), múslímskir stríðsmenn
 imam n. ímam (bænastjóri eða klerkur múslíma)
 hajj n. hadsjí (pílagrímaferð múslima til Mekku)
 kosher l. hreinn samkvæmt helgisiðum gyðinga (um mat); í lagi, réttur (óforml.)
@@ -10504,3 +10504,12 @@ perm n. permanent (hárlögun); setja permanent í hár
 incarcerated l. fangelsaður, lokaður inni
 dogfight n. hundaslagur, hundaslagsmál; flugvélaorusta, loftbardagi
 dogfighting n. hundaat; flugvélaorusta, loftbardagi, átök í loftunum
+cuck n. stytt. á %[cuckold]%
+swordsmanship n. sverðfimi, skylmingar
+leverage n. vogarafl; áhrif, máttur; skuldsetning; s. nýta sér; beita áhrifum (sínum); skuldsetja (sig)
+toiletry n. snyrtivörur
+grooming n. snyrting, það að sinna útliti sínu; tæling
+radicalize s. gera róttækan, gera að róttæklingi
+sweetie n. elskan, vinan, ljúfan (óforml.)
+salvific l. sálulhjálpar-
+kendo n. japönsk skylmingalist
