@@ -4095,8 +4095,8 @@ mummification n. skrælnun, skorpnun
 pharaoh n. faraó (egypskur konungur)
 weaponize s. vopnavæða, gera vopn úr, nota sem vopn
 weaponized l. gerður að vopni, notaður sem vopn
-interdisciplinary l. þverfaglegur, milli greina
-interdisciplinarity n. þverfaglegheit
+interdisciplinary l. þverfaglegur, milli (fræði)greina
+interdisciplinarity n. þverfagleiki, samtvinning ólíkra (fræði)greina
 biomedical l. líf- og lækninga-, líf- og læknisfræðilegur
 biomedicine n. líflækningar, líflæknisfræði
 gyrfalcon n. (stór) fálki, valur
@@ -10532,6 +10532,23 @@ Rhine n. Rín, Rínarfljót ([the ~])
 Sumatra n. Súmatra (eyja í Indónesíu)
 Borneo n. Borneó (eyja í Suðaustur-Asíu)
 Papua n. Papúa (eyja í Suðaustur-Asíu)
-Papuan l. papúskur
+Papuan l. papúskur, frá eyjunni Papúa
 New Guinea n. Nýja-Gínea
 British Columbia n. Breska-Kolumbía
+marinate s. marinera, leggja í lög
+sauté s. léttsteikja, snöggsteikja
+bipartisan l. þverpólitískur; tveggja flokka
+bipartisanship n. samvinna tveggja flokka
+Electoral College n. kjörmannaráð (í Bandaríkjunum)
+renewable energy n. endurnýjanleg orka
+carbon emissions nft. kolefnislosun
+drywall n. gifsveggur
+cladding n. klæðning
+cantilever n. svifbiti
+atrium n. miðrými, garður undir opnum himni í miðrými húss
+brioche n. franskur brauðhnúður
+vs. stytt. á %[versus]% (úr latínu)
+exterminated l. upprættur; gereyddur; tortímdur; þurrkaður út
+etc. stytt. [et cetera] og svo framvegis (úr latínu)
+ephemeralness n. sjá %[ephemerality]%
+fleetingness n. hverfulleiki; skammlífi

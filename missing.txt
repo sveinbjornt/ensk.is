@@ -1011,8 +1011,6 @@ zoomer
 deindustrialize
 deindustrialization
 livable
-bipartisan
-bipartisanship
 downstream
 retrofit
 proactive
@@ -2845,7 +2843,6 @@ semiduplex
 zen
 abseil
 fugue (endurskoða) (fugue state?)
-atrium
 tempura
 wuss
 diegesis
@@ -4188,8 +4185,6 @@ sampler (endurskoða)
 contretemps
 conchae
 whiner
-cantilever
-drywall
 supercruise
 idealized
 acquitted
@@ -5922,7 +5917,6 @@ statin
 woodchipper
 anaphora
 syndesmotic
-brioche
 smartaleck
 chattel slavery
 hypotensive
@@ -5930,3 +5924,7 @@ scalped
 voltaic
 groom (endurskoða)
 grooming (endurskoða)
+offside
+touchdown
+cam
+ephemera (endurskoða)

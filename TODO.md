@@ -23,3 +23,4 @@
 * [ ] Map word forms to headwords (e.g., "running" -> "run", "utilise" -> "utilize", etc.)
 * [ ] Add viðskeyti cat (vsk.) e.g. -genic
 * [ ] Advanced search page
+* [ ] Highlight area of original dictionary page image that corresponds to word being defined

@@ -398,7 +398,7 @@ eminent l. uppstandandi ([a very ~ nose]); tiginn; hár (um stöðu); frábær, 
 eminently ao. frábærlega ([~ qualified])
 emir n. arabískur höfðingi, fursti eða landstjóri; heiðursnafnbót afkomenda Múhameðs spámanns
 emissary n. leynisendiboði; njósnari
-emission n. útsending (ljóss, hita, lofttegunda); útgáfa (t.d. seðla)
+emission n. losun, útsending (ljóss, hita, lofttegunda); útgáfa (t.d. seðla)
 emissive l. sem sendir út frá sér ([~ of light])
 emit s. hleypa (senda) út, láta renna út; gefa frá sér (hljóð); láta í ljós (skoðun); gefa út (lagaboð, seðla); [~ rays of light] kasta frá sér ljósgeislum
 emmet n. maur
@@ -790,7 +790,7 @@ equiponderate s. vega upp á móti
 equitable l. sanngjarn, sannsýnilegur; réttsýnn, óhlutdrægur
 equitably ao. með sanngirni
 equitation n. reið; reiðmennska; útreið
-equity n. sanngirni ([the ~ of his claim]); réttsýni
+equity n. sanngirni, réttsýni; eigið fé, eiginfé, hlutafé
 equivalence n. jafngildi
 equivalent l. jafngildur; samsvarandi; sömu merkingar ([~ words]); [it would be ~ to] það mundi vera sama sem; n. jafngildi
 equivocal l. tvíræður; efasamur; tortryggilegur ([~ mode of life, ~ guest])
@@ -1317,15 +1317,15 @@ extenuation n. megurð; megrun; rýring; afsökun
 extenuatory l. afsakandi, fegrandi ([~ phrases])
 exterior l. ytri; utanverður; nft. [~s] ytra útlit
 exteriorly ao. að utan; hið ytra
-exterminate s. uppræta; gereyða
-extermination n. uppræting, gjöreyðing
-exterminator n. upprætari
-external l. ytri, utanverður; sem kemur að utan; [~ trade] verslun við útlönd
-externally ao. að utan
+exterminate s. uppræta; gereyða; tortíma
+extermination n. uppræting, gjöreyðing; tortíming
+exterminator n. upprætari; tortímandi
+external l. ytri, utanverður; utanaðkomandi, sem kemur að utan; [~ trade] verslun við útlönd
+externally ao. að utan, er varðar ytri hlið
 externals nft. ytri einkenni, ytra útlit
 extinct l. útdauður ([an ~ species]); slokknaður, útbrunninn ([an ~ volcano]); liðinn undir lok; genginn úr gildi (um lög)
 extinction n. slokknun; dauði, útdauði; gjöreyðing; afnám ([~ of the national debt])
-extinctive l. eyðandi ([~ agency])
+extinctive l. eyðandi
 extinguish s. slökkva; bæla niður, eyða; leggja niður (embætti, stofnanir); strika út, afmá (skuld)
 extinguishable l. slökkvanlegur
 extinguisher n. slökkvari, slökkvihetta
