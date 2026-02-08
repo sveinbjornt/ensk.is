@@ -19,6 +19,7 @@ from util import (
     cache_response,
     strip_html_from_string,
     strip_parentheses_from_string,
+    read_json,
 )
 
 # Create router
@@ -132,3 +133,21 @@ async def api_item_parsed_many(
         res[w] = comp
 
     return JSONResponse(content=res)
+
+
+GROUNDING_DATA = None
+
+
+@cache_response(SMALL_CACHE_SIZE)
+@router.get("/grounding/{page_num}", operation_id="get_page_grounding")
+async def api_grounding(request: Request, page_num: int) -> JSONResponse:
+    """Return grounding data (bounding boxes) for a specific page."""
+    global GROUNDING_DATA
+    if GROUNDING_DATA is None:
+        try:
+            GROUNDING_DATA = read_json("data/word2page_coords.json")
+        except FileNotFoundError:
+            GROUNDING_DATA = {}
+
+    page_data = GROUNDING_DATA.get(str(page_num), [])
+    return JSONResponse(content=page_data)

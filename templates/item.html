@@ -16,7 +16,7 @@
 <h1 class="item_title">
     {{ word|safe }}
     {% if results[0].page_num > 0 %}
-    <a href="{{ results[0].page_url }}" title="Skoða blaðsíðu í orðabók">
+    <a href="{{ results[0].page_url }}?word={{ word|safe }}" title="Skoða blaðsíðu í orðabók">
         <img src="/static/img/book.svg" width="20">
     </a>
     {% endif %}

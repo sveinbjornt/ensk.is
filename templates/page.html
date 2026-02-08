@@ -4,6 +4,10 @@
 <meta name="description" content="Síða {{ n }} í orðabókinni">
 {% endblock %}
 
+{% block script %}
+<script src="/static/js/grounding.js" defer></script>
+{% endblock %}
+
 {% block content %}
 
 <h1 style="margin-bottom:10px">Ensk-íslensk orðabók (1932), bls. {{ n|safe }}</h1>
@@ -21,9 +25,10 @@
         {% endif %}
 </div>
 
-<div>
+<div id="page-image-container" style="position: relative; display: inline-block; width: 100%;">
     <a href="/static/img/pages/{{ npad }}.jpg">
-        <img src="/static/img/pages/{{ npad }}.jpg">
+        <img id="dictionary-page-image" src="/static/img/pages/{{ npad }}.jpg"
+            style="width: 100%; height: auto; display: block;" data-page="{{ n }}">
     </a>
 </div>
 
