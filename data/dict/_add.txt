@@ -5502,8 +5502,8 @@ morph s. umbreytast; n. myndbrigði (í málvísindum)
 transferability n. flytjanleiki, flutningshæfni (sjá %[transfer]%)
 protégé n. skjólstæðingur
 protege n. sjá %[protégé]%
-unenthusiastic l. óákafur, lítt áhugasamur
-firecracker n. púðurkerling
+unenthusiastic l. óákafur, lítt áhugasamur, óáhugasamur
+firecracker n. púðurkerling, kínverji
 defectiveness n. göllun, ófullkomleiki, ábótavöntun
 envision s. sjá fyrir sér
 modernization n. nútímavæðing
@@ -10552,3 +10552,8 @@ exterminated l. upprættur; gereyddur; tortímdur; þurrkaður út
 etc. stytt. [et cetera] og svo framvegis (úr latínu)
 ephemeralness n. sjá %[ephemerality]%
 fleetingness n. hverfulleiki; skammlífi
+hacienda n. stór búgarður (í spænskumælandi landi)
+shtum l. þögull, mállaus (úr jiddísku)
+soubriquet n. sjá %[sobriquet]%
+family name n. ættarnafn, eftirnafn (fjölskyldu)
+dubbing n. talsetning (kvikmyndar)

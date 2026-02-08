@@ -1679,10 +1679,10 @@ dualism n. tvíhyggja; frumtvenning
 dualist n. tvíhyggjumaður, tvíhyggjusinni, tvískiptingarmaður
 dualistic l. tvíhyggju-; tvískiptur
 duality n. tvískipting
-dub s. dubba (slá) til riddara ([~ one a knight]); titla; bera (á leður); [~ at] pota í e-ð
-dubiety n. efasemi
-dubious l. efasamur, tvísýnn; efablandinn
-dubiousness n. efasemi, tvísýni
+dub s. talsetja; dubba (slá) til riddara ([~ one a knight]); titla; bera (á leður); [~ at] pota í e-ð
+dubiety n. efasemi, vafasemi
+dubious l. efasamur, vafasamur, tvísýnn; efablandinn
+dubiousness n. efasemi, vafasemi, tvísýni
 dubitable l. vafasamur
 dubitate s. vera í vafa, hika
 dubitation n. efasemd, hik

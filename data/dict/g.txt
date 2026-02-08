@@ -681,7 +681,7 @@ gravity n. alvörugefni, alvörusvipur; hátíðleiki; mikilvægi, þýðing; þ
 gravy n. flot (úr steiktu eða soðnu kjöti); ídýfa
 gray l. grár; sjá %[grey]%
 graze s. halda á beit; sitja yfir, gæta (fjár, sem er á beit); vera á beit; strjúkast við; [to drive cattle to ~] reka naut á haga; n. skot, sem strýkst við e-n; grunnt sár, skeina
-grazer n. skepna, sem er á beit
+grazer n. skepna sem er á beit
 grazier n. fjárræktari; fjársali
 grazing n. beit, hagi
 grease n. feiti; flot; áburður; [in ~] í góðum holdum (um veiðidýr); [wool in the ~] óhreinsuð ull; s. bera (feiti) á; bera fé á, múta
@@ -692,9 +692,9 @@ greatcoat n. yfirfrakki
 greaten s. gera stærri, auka; stækka, vaxa
 great-grandfather n. langafi
 great-grandson n. sonarsonar sonur
-greatly ao. mjög, stórum
-greatness n. stærð, mikilleiki; veldi
-greaves nft. brynhosur; hamsar
+greatly ao. mjög, stórlega, stórum
+greatness n. stærð, mikilleiki, stórfengleiki; mikilvægi
+greaves nft. brynhosur (á herklæðum); hamsar
 grebe n. sefönd
 Grecian l. grískur; n. Grikki; grískumaður
 grecicize s. setja grískt snið á e-ð; taka á sig grískt snið

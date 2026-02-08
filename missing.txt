@@ -1813,6 +1813,7 @@ reshingle
 ticker
 localization
 delocalization
+translocalize
 translocalization
 prelocalization
 flak
@@ -1945,6 +1946,7 @@ trope n. endurskoða!
 valorisation
 Jungian
 dirigisme
+dirigiste
 agrivoltaics
 divot
 bloat n.
@@ -2147,6 +2149,7 @@ manorialism
 delegitimization
 snatcher
 payback
+prosocial
 prosociality
 tight-knit
 sociogram
@@ -5928,3 +5931,17 @@ offside
 touchdown
 cam
 ephemera (endurskoða)
+tangerine (endurskoða)
+plantation (endurskoða)
+bumfluff
+tank top
+censorate
+flashcard
+ethnobiology
+drainpipe
+groceries
+iconology
+fertilized
+transmigratory
+dub (endurskoða)
+dubbing (endurskoða)
