@@ -4220,7 +4220,7 @@ internment n. fangelsun
 reeducation n. endurmenntun
 aftershock n. eftirskjálfti
 workload n. vinnuálag
-bourgeois l. borgarastéttarlegur, borgarastéttar-; [petit ~] smáborgaralegur, smáborgara-
+bourgeois l. borgaralegur, borgarastéttarlegur, borgarastéttar-; [petit ~] smáborgaralegur, smáborgara-
 bourgeoisie n. borgarastéttin, miðstéttin; [petit ~] smáborgarastéttin
 sedation n. hugarró, róun
 moratorium n. stöðvun, frestun; greiðslustöðvun, greiðslufrestun
@@ -4494,7 +4494,7 @@ warmly ao. hlýlega
 lab n. stytt. á %[laboratory]%
 pheromone n. ferómón
 impossibly ao. ómögulega
-burger n. borgari, hamborgari (sjá %[hamburger]%)
+burger n. borgari; hamborgari (kjötsamloka, sjá %[hamburger]%)
 seatbelt n. sætisbelti
 suspiciously ao. grunsamlega, á hátt sem vekur grunsemd
 flatscreen n. flatskjár
@@ -10511,7 +10511,7 @@ toiletry n. snyrtivörur
 grooming n. snyrting, það að sinna útliti sínu; tæling
 radicalize s. gera róttækan, gera að róttæklingi
 sweetie n. elskan, vinan, ljúfan (óforml.)
-salvific l. sálulhjálpar-
+salvific l. sáluhjálpar-
 kendo n. kendó (japönsk skylmingalist)
 Antigua n. Antígva (eyja í Karíbahafi)
 Antiguan l. frá Antígvu; n. Antígvumaður
@@ -10519,12 +10519,12 @@ Barbuda n. Barbúda (eyja í Karíbahafi)
 Barbudan l. frá Barbúda; Barbúdamaður
 security council n. öryggisráð
 general assembly n. allsherjarþing
-Central African l. miðafrískur; n. Mið-Afríkumaður
+Central African l. mið-afrískur; n. Mið-Afríkumaður
 Red Sea n. Rauðahaf
 Dead Sea n. Dauðahaf
 South China Sea n. Suður-Kínahaf
 Bering Sea n. Beringshaf
-Bering Straits n. Beringssund
+Bering Strait n. Beringssund
 Greenland Sea n. Grænlandshaf
 Arabian Sea n. Arabíuhaf
 knockers nft. brjóst (óforml.)
@@ -10549,7 +10549,6 @@ atrium n. miðrými, garður undir opnum himni í miðrými húss
 brioche n. franskur brauðhnúður
 vs. stytt. á %[versus]% (úr latínu)
 exterminated l. upprættur; gereyddur; tortímdur; þurrkaður út
-etc. stytt. [et cetera] og svo framvegis (úr latínu)
 ephemeralness n. sjá %[ephemerality]%
 fleetingness n. hverfulleiki; skammlífi
 hacienda n. stór búgarður (í spænskumælandi landi)
@@ -10557,3 +10556,5 @@ shtum l. þögull, mállaus (úr jiddísku)
 soubriquet n. sjá %[sobriquet]%
 family name n. ættarnafn, eftirnafn (fjölskyldu)
 dubbing n. talsetning (kvikmyndar)
+Jerusalem n. Jerúsalem (borg í heilaga landinu)
+living room n. stofa, setustofa
