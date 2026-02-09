@@ -1145,7 +1145,7 @@ revive s. lifna aftur, fá nýtt líf; rakna við; lífga aftur; vekja upp aftur
 revivify s. endurlífga
 reviviscence n. endurlífgun; endurvakning
 revocable l. afturkallanlegur
-revocation n. afturköllun, ónýting ([~ of a grant])
+revocation n. afturköllun, ónýting, svipting ([~ of a grant])
 revoke s. taka aftur, kalla aftur, ónýta, nema úr gildi; svíkja lit (í spilum)
 revolt n. uppreisn; s. ganga undan hlýðni ([from]); gera uppreisn; reka á flótta; fyllast viðbjóði ([at])
 revolter n. uppreisnarmaður

@@ -581,7 +581,7 @@ age n. aldur; ævi; mannsaldur, fullorðinsaldur, kynslóð; tímabil, öld ([th
 aged l. aldraður; [~ fifteen] 15 ára
 agency n. milliganga; tilhlutun ([by the ~ of]); áhrif; kraftur; umboð; umboðsskrifstofa; [Reuter's ~] fréttastofa Reuters
 agent n. gjörandi; orsök; undirrót; afl; umboðsmaður, erindreki
-agenda nft. umræðuefni á fundi, fundarskrá; minnisbók
+agenda nft. umræðuefni á fundi, fundarskrá; minnisbók; verkefnaskrá, verkaskrá
 agglomerate s. hrúga saman; safnast saman; n. samansafn
 agglomeration n. samansafn; þéttbýlisstaður
 agglutinate s. líma saman; l. límdur (við [to])

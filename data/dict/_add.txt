@@ -10558,3 +10558,13 @@ family name n. ættarnafn, eftirnafn (fjölskyldu)
 dubbing n. talsetning (kvikmyndar)
 Jerusalem n. Jerúsalem (borg í heilaga landinu)
 living room n. stofa, setustofa
+Xmas n. jól
+keypad n. takkaborð
+numeric keypad n. talnaborð, skiki
+know-how n. (hagnýt) þekking, kunnátta
+kohlrabi n. hnúðkál
+kidney bean n. nýrnabaun
+knickknack n. sjá %[knick-knack]%
+quality control n. gæðastjórnun
+agendum n. umræðuefni; viðfangsefni á fundi (yfirleitt í ft. %[agenda]%); verk (á verkefnalista)
+revoked l. tekinn aftur, afturkallaður, ónýttur, ógildur, sviptur

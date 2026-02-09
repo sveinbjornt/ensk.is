@@ -4509,8 +4509,6 @@ caprylic
 darn (endurskoða)
 darned
 darnedest
-agendum
-agenda (endurskoða)
 trapped
 tareq
 summative
@@ -4953,6 +4951,8 @@ loathly
 skank
 skanky
 yucky
+yuck
+yum
 virulence (endurskoða)
 virulent (endurskoða)
 cataplasm
@@ -5954,3 +5954,16 @@ metaleptic
 rebelliousness
 gutted
 Pollyannaish
+zealously
+zestful
+zesty
+zillionaire
+zing
+zonal
+xylem
+Xanadu
+yaws
+year-round
+quad bike
+tracing
+ray tracing
