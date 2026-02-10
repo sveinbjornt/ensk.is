@@ -27,7 +27,7 @@ def main():
 
     from util import read_wordlist
 
-    ignore_words = set(read_wordlist("missing.txt"))
+    ignore_words = set(read_wordlist("data/missing.txt"))
 
     all_words = read_all_words()
     word_set = set(all_words)

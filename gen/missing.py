@@ -62,7 +62,7 @@ res = e.read_all_entries()
 dict_words = [e["word"].lower() for e in res]
 
 # Missing list
-missing = read_wordlist("missing.txt")
+missing = read_wordlist("data/missing.txt")
 
 wds = read_wordlist(WORDLIST_PATH)
 

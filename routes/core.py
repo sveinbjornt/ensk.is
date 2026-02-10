@@ -99,7 +99,7 @@ CAT_TO_NAME = {
 SEARCH_CACHE_SIZE = 1000  # pages
 SMALL_CACHE_SIZE = 100  # pages
 
-KNOWN_MISSING_WORDS = frozenset(read_wordlist("missing.txt"))
+KNOWN_MISSING_WORDS = frozenset(read_wordlist("data/missing.txt"))
 
 DEFAULT_SEARCH_LIMIT = 50  # Default limit for search results
 

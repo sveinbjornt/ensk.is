@@ -60,7 +60,7 @@ parsed = [p["headword"].lower() for p in parsed_dictionary]
 #         print(w)
 
 
-missing = read_wordlist("missing.txt")
+missing = read_wordlist("data/missing.txt")
 
 for w in missing:
     if w in parsed:

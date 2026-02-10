@@ -18,8 +18,9 @@ from util import read_wordlist
 
 
 def main() -> int:
-    # Read all lines from missing.txt
-    words = read_wordlist("missing.txt")
+    # Read all lines from data/missing.txt
+    words = read_wordlist("data/missing.txt")
+    
     random.shuffle(words)
 
     for w in words:

@@ -287,8 +287,8 @@ def check_unlinked_abbreviation_refs(line: str, pn: str, ln: int):
 
 
 def check_missing():
-    """Check integrity of missing.txt file."""
-    words = read_wordlist("missing.txt", unique=False)
+    """Check integrity of data/missing.txt file."""
+    words = read_wordlist("data/missing.txt", unique=False)
     unique = list(set(words))
 
     if len(words) != len(unique):
@@ -296,29 +296,29 @@ def check_missing():
         for w in words:
             if words.count(w) > 1 and w not in already:
                 already.add(w)
-                print(f"Duplicate word in missing.txt: {w}")
+                print(f"Duplicate word in data/missing.txt: {w}")
 
     for w in unique:
         if w in ALL_DICT_WORDS:
-            print(f"Word in missing.txt is already in dictionary: {w}")
+            print(f"Word in data/missing.txt is already in dictionary: {w}")
 
 
 def check_ipa_ignore_words():
-    """Check that all words in ipa_ignore.txt are present in the dictionary and UK IPA dictionary."""
-    ipa_ignore_words = read_wordlist("ipa_ignore.txt")
+    """Check that all words in data/ipa_ignore.txt are present in the dictionary and UK IPA dictionary."""
+    ipa_ignore_words = read_wordlist("data/ipa_ignore.txt")
     uk_ipa_dict = read_json("data/ipa/uk/en2ipa.json")
 
     for word in ipa_ignore_words:
         if word not in ALL_DICT_WORDS:
             warn(
-                f"Word '{word}' in ipa_ignore.txt is not present in the dictionary.",
-                "ipa_ignore.txt",
+                f"Word '{word}' in data/ipa_ignore.txt is not present in the dictionary.",
+                "data/ipa_ignore.txt",
                 0,
             )
         if word in uk_ipa_dict:
             warn(
-                f"Word '{word}' in ipa_ignore.txt IS present in the UK IPA dictionary. Remove it from ipa_ignore.txt.",
-                "ipa_ignore.txt",
+                f"Word '{word}' in data/ipa_ignore.txt IS present in the UK IPA dictionary. Remove it from data/ipa_ignore.txt.",
+                "data/ipa_ignore.txt",
                 0,
             )
 

@@ -19,7 +19,7 @@ from db import EnskDatabase
 from util import is_ascii, read_wordlist
 
 
-SKIP = read_wordlist("ipa_ignore.txt")
+SKIP = read_wordlist("data/ipa_ignore.txt")
 
 entries = EnskDatabase().read_all_additions()
 

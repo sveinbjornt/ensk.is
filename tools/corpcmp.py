@@ -27,7 +27,7 @@ from util import read_wordlist
 
 lemmatizer = WordNetLemmatizer()
 
-missing = read_wordlist("missing.txt")
+missing = read_wordlist("data/missing.txt")
 
 with open("texts/quine.txt", "r") as f:
     corpus = f.read()
