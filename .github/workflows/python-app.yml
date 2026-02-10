@@ -29,17 +29,17 @@ jobs:
           uv pip install --system -r requirements-dev.txt
       - name: Linting
         run: |
-          ruff check *.py routes/*.py tests/*.py
+          ruff check *.py routes/*.py gen/*.py tests/*.py
           curlylint templates/*.html
       - name: Type checking
         run: |
-          pyright *.py routes/*.py tests/*.py
+          pyright *.py routes/*.py gen/*.py tests/*.py
       - name: Verify dictionary source files
         run: |
-          python verify.py
+          python gen/verify.py
       - name: Generate dictionary files
         run: |
-          python gen.py
+          python gen/gen.py
       - name: Run pytest
         run: |
           python -m pytest

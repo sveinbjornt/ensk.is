@@ -10559,6 +10559,7 @@ dubbing n. talsetning (kvikmyndar)
 Jerusalem n. Jerúsalem (borg í heilaga landinu)
 living room n. stofa, setustofa
 Xmas n. jól
+X-mas n. sjá %[Xmas]%
 keypad n. takkaborð
 numeric keypad n. talnaborð, skiki
 know-how n. (hagnýt) þekking, kunnátta
@@ -10568,3 +10569,4 @@ knickknack n. sjá %[knick-knack]%
 quality control n. gæðastjórnun
 agendum n. umræðuefni; viðfangsefni á fundi (yfirleitt í ft. %[agenda]%); verk (á verkefnalista)
 revoked l. tekinn aftur, afturkallaður, ónýttur, ógildur, sviptur
+prairie wolf n. sléttuúlfur (%[coyote]%)

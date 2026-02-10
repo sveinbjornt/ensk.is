@@ -8,8 +8,8 @@ set -e
 cd "$(dirname "$0")"
 
 source venv/bin/activate
-python gen.py
-python audio.py
+python3 gen/gen.py
+python3 gen/audio.py
 
 /usr/bin/rsync \
 --exclude ".git" \

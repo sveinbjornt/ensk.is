@@ -37,10 +37,13 @@ Generate macOS dictionary from raw dictionary text files.
 
 """
 
-from typing import Any
-
 import os
 import sys
+
+# Add project root to sys.path
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
+from typing import Any
 import shutil
 import datetime
 import subprocess
@@ -50,8 +53,9 @@ from util import zip_file
 from info import PROJECT
 
 
-DICT_DEV_KIT_PATH = "macos/Dictionary Development Kit"
-TEMPLATES_DIR = "macos"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DICT_DEV_KIT_PATH = os.path.join(BASE_DIR, "macos/Dictionary Development Kit")
+TEMPLATES_DIR = os.path.join(BASE_DIR, "macos")
 BUILD_DIR = "static/files/ensk.is.macos_dict_build"
 DICT_BUNDLE_ID = "is.ensk.dictionary"
 
@@ -309,7 +313,7 @@ def generate_macos_dictionary(entries, keep_build_files: bool = False) -> str:
 def main() -> None:
     """Main function for testing the macOS dictionary generation."""
     # Import here to avoid circular imports when used as a module
-    from gen import read_all_entries
+    from gen.gen import read_all_entries
 
     print("Reading dictionary entries...")
     entries = read_all_entries()
@@ -319,7 +323,7 @@ def main() -> None:
         zip_path = generate_macos_dictionary(entries)
         print(f"Successfully generated macOS dictionary: {zip_path}")
     except Exception as e:
-        print(f"Error generating dictionary: {e}")
+        print(f"Error generating macOS dictionary: {e}")
         sys.exit(1)
 
 

@@ -37,6 +37,12 @@ Generate a PDF version of the dictionary.
 
 """
 
+import os
+import sys
+
+# Add project root to sys.path
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..")))
+
 import re
 import string
 from collections import OrderedDict
@@ -117,12 +123,18 @@ def _add_page_number(canvas: Canvas, doc: BaseDocTemplate):
 
 def _load_fonts():
     """Load custom fonts for the PDF."""
-    pdfmetrics.registerFont(TTFont(_FONT_NAME, f"fonts/{_FONT_NAME}.ttf"))
+    # Use path relative to this script
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    # Fonts are in gen/fonts, script is in gen/pdf/pdf.py.
+    # So we need to go up one level from script_dir to get to 'gen/', then into 'fonts'.
+    fonts_dir = os.path.join(os.path.dirname(script_dir), "fonts")
+
+    pdfmetrics.registerFont(TTFont(_FONT_NAME, os.path.join(fonts_dir, f"{_FONT_NAME}.ttf")))
     pdfmetrics.registerFont(
-        TTFont(f"{_FONT_NAME}-Bold", f"fonts/{_FONT_NAME}-Bold.ttf")
+        TTFont(f"{_FONT_NAME}-Bold", os.path.join(fonts_dir, f"{_FONT_NAME}-Bold.ttf"))
     )
     pdfmetrics.registerFont(
-        TTFont(f"{_FONT_NAME}-Italic", f"fonts/{_FONT_NAME}-Italic.ttf")
+        TTFont(f"{_FONT_NAME}-Italic", os.path.join(fonts_dir, f"{_FONT_NAME}-Italic.ttf"))
     )
 
 

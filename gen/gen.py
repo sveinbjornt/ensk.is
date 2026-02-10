@@ -37,10 +37,12 @@ Generate SQLite database + other files from raw dictionary text files.
 
 """
 
-from typing import Optional
-
 import os
 import sys
+import inspect
+
+from typing import Optional
+
 import csv
 import datetime
 import json as std_json
@@ -48,7 +50,12 @@ import json as std_json
 import sqlite_utils
 import nltk
 
-from dict import (
+currentdir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))  # type: ignore
+parentdir = os.path.dirname(currentdir)
+sys.path.insert(0, parentdir)
+
+
+from dict import (  # noqa: E402
     read_pages,
     parse_line,
     page_for_word,
@@ -56,9 +63,9 @@ from dict import (
     synonyms_for_word,
     antonyms_for_word,
 )
-from db import EnskDatabase, DB_FILENAME
-from util import zip_file, read_json, silently_remove
-from info import PROJECT
+from db import EnskDatabase, DB_FILENAME  # noqa: E402
+from util import zip_file, read_json, silently_remove  # noqa: E402
+from info import PROJECT  # noqa: E402
 
 
 EntryType = tuple[str, str, str, str, str, int, int, str, str]
