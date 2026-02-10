@@ -23,7 +23,7 @@
     {% endif %}
 
     {% for r in results %}
-    <div class="result grid-container" onclick="location.href='/item/{{ r.word }}'">
+    <div class="result grid-container {% if r.word.lower() == q.lower() %}exact-match{% endif %}" onclick="location.href='/item/{{ r.word }}'">
 
         <div class="itemlinks">
             <a href="/item/{{ r.word }}" title="Skoða færsluna „{{ r.word }}“">

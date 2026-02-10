@@ -39,6 +39,7 @@
 
     // Initialize on page load
     document.addEventListener("DOMContentLoaded", function () {
+        q = document.getElementById("q");
         update_clear_button();
         // Escape key clears the field
         document.getElementById("q").addEventListener("keyup", function (event) {

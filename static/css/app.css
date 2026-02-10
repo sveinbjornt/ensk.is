@@ -121,6 +121,11 @@ div.result {
     margin-bottom: 0.7em;
 }
 
+div.result.exact-match {
+    background-color: #f0f7ff;
+    border: 1px solid #c2e0ff;
+}
+
 span.result_definition_text {
     cursor: default !important;
 }
@@ -149,6 +154,8 @@ hr.separator {
 div.wordcat {
     font-weight: 600;
     margin-bottom: 0.5em;
+    color: #777;
+    font-size: 0.95em;
     /* font-style: italic; */
 }
 
@@ -288,6 +295,15 @@ a.result_link {
         background-color: #3e3e3e;
         cursor: pointer;
         border: 1px solid #4e4e4e;
+    }
+
+    div.result.exact-match {
+        background-color: #1a2a3a;
+        border: 1px solid #2a4a5a;
+    }
+
+    div.wordcat {
+        color: #aaa;
     }
 
     div.grid-container img {

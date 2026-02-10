@@ -237,7 +237,7 @@ parley s. semja (við e-n [with]); n. samtal; málfundur (við óvini); samnings
 parliament n. þing
 parliamentarism n. þingræðisstjórn, þingræði
 parliamentary l. þinglegur; samkvæmur þingsköpum; þingræðislegur
-parlour n. dagstofa (nú [sitting room]); gestastofa í veitingahúsi
+parlour n. dagstofa (nú %[sitting room]%); gestastofa á veitingahúsi
 parlourmaid n. stúlka sem gengur um beina
 parochial l. sóknar-, sóknarlegur; sveitar-; [~ register] kirkjubók; [~ relief] sveitarstyrkur
 parodist n. skopstælingamaður

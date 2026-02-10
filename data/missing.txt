@@ -507,7 +507,6 @@ dreamless
 marguerite
 periodization
 forsaken
-overzealous
 underfloor
 bathhouse
 bedrock
@@ -3422,8 +3421,6 @@ circumstantially
 pression
 charred
 tasselled
-measured
-unmeasured
 dispassionately
 sullenly
 overheard
@@ -5953,7 +5950,6 @@ metaleptic
 rebelliousness
 gutted
 Pollyannaish
-zealously
 zestful
 zesty
 zillionaire
@@ -5966,3 +5962,5 @@ year-round
 quad bike
 tracing
 ray tracing
+ward (endurskoða)
+trackpad
