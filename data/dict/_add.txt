@@ -10569,7 +10569,7 @@ knickknack n. sjá %[knick-knack]%
 quality control n. gæðastjórnun
 agendum n. umræðuefni; viðfangsefni á fundi (yfirleitt í ft. %[agenda]%); verk (á verkefnalista)
 revoked l. tekinn aftur, afturkallaður, ónýttur, ógildur, sviptur
-prairie wolf n. sléttuúlfur (%[coyote]%)
+prairie wolf n. sléttuúlfur (í Norður-Ameríku, sjá %[coyote]%)
 measured l. mældur; stilltur, gætinn
 unmeasured l. ómældur; óstilltur, vangætinn
 zealously ao. ákaflega
@@ -10577,3 +10577,19 @@ overzealous l. of ákafur, ákafari en góðu hófi gegnir
 schtum l. sjá %[shtum]%
 propionic acid n. própíonsýra
 pyrolysis n. hitasundrun, hitaleysing
+death penalty n. dauðarefsing, dauðadómur
+zee n. bókstafurinn zeta (Z) (í BNA)
+izzard n. bókstafurinn zeta (Z) (forn.)
+steganography n. dulritun, leyniskrift
+steganographic l. dulritunar-, leyniskriftar-
+irritating l. pirrandi; ertandi
+irritatingly ao. á pirrandi hátt; á ertandi hátt
+shewbread n. skoðunarbrauð (í biblíunni)
+neutering n. vönun, gelding
+spaying n. fjarlæging eggjastokka og legs (sjá %[spay]%)
+funfair n. tívolí, skemmtigarður
+trackpad n. dregill (jaðartæki tölvu)
+peptide n. peptíð
+nucleosynthesis n. kjarnamyndun frumeinda (í eðlisfræði)
+vexing l. ergjandi, ertandi (sjá %[vex]%)
+unnumerable l. óteljandi, sem ekki verður talið, sjá %[innumerable]%
