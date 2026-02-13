@@ -3,8 +3,6 @@ Ensk.is
 Web routes
 """
 
-from typing import Optional
-
 import aiofiles
 import aiofiles.os
 from datetime import datetime
@@ -54,6 +52,7 @@ from util import (
     perc,
     sing_or_plur,
     cache_response,
+    strip_html_from_string,
 )
 
 # Create router
@@ -100,7 +99,7 @@ async def _save_missing_word(word: str) -> None:
 @cache_response(SEARCH_CACHE_SIZE)
 @router.get("/search", include_in_schema=False)
 async def search(
-    request: Request, q: Optional[str] = "", limit: Optional[int] = DEFAULT_SEARCH_LIMIT
+    request: Request, q: str | None = "", limit: int | None = DEFAULT_SEARCH_LIMIT
 ) -> Response:
     """Return page with search results for query."""
 
@@ -159,6 +158,17 @@ async def item(request: Request, w: str) -> Response:
 
     antonyms_list = results[0].get("antonyms", [])
     antonyms = [{"word": a, "exists": a in all_words_set} for a in antonyms_list]
+
+    # Construct a plain-text meta description from the definitions
+    desc_parts = []
+    for cat, defs in comp.items():
+        clean_defs = [strip_html_from_string(d) for d in defs]
+        desc_parts.append(f"({cat}) {', '.join(clean_defs[:3])}")
+
+    meta_description = "; ".join(desc_parts)
+    if len(meta_description) > 160:
+        meta_description = meta_description[:157] + "..."
+
     return TemplateResponse(
         request,
         "item.html",
@@ -171,6 +181,7 @@ async def item(request: Request, w: str) -> Response:
             "comp": comp,
             "synonyms": synonyms,
             "antonyms": antonyms,
+            "meta_description": meta_description,
         },
     )
 
@@ -279,7 +290,7 @@ async def about(request: Request) -> Response:
 @router.head("/zoega", include_in_schema=False)
 @cache_response
 async def zoega(request: Request) -> Response:
-    """Page with details about the Zoega dictionary."""
+    """Page with information about the original 1932 Zoëga dictionary."""
     return TemplateResponse(
         request,
         "zoega.html",
@@ -322,7 +333,7 @@ async def english(request: Request) -> Response:
 @router.get("/all", include_in_schema=False)
 @router.head("/all", include_in_schema=False)
 @cache_response
-async def all(request: Request) -> Response:
+async def all_entries(request: Request) -> Response:
     """Page with links to all entries."""
     return TemplateResponse(
         request,

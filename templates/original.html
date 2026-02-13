@@ -1,7 +1,7 @@
 {% extends "container.html" %}
 
 {% block meta %}
-<meta name="description" content="Öll orð sem voru upprunalega í orðabókinni">
+<meta name="description" content="Öll orð sem voru í upprunalegu orðabók Geirs T. Zoëga frá 1932.">
 {% endblock %}
 
 {% block content %}
@@ -10,12 +10,7 @@
 
 <p>Hér er listi af öllum upprunalegu orðunum ({{ num_original }} talsins):</p>
 
-<p>
-  {% for w in original %}
-  <a href="/item/{{ w }}">{{ w|safe }}</a>
-  <br>
-  {% endfor %}
-</p>
+<p>{% for w in original %}<a href="/item/{{ w }}">{{ w|safe }}</a><br>{% endfor %}</p>
 
 <br>
 <br>

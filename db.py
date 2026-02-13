@@ -44,6 +44,7 @@ from pathlib import Path
 
 from dict import CATEGORIES
 
+
 DB_FILENAME = "dict.db"
 CACHED_STATEMENTS = 1024
 CACHE_SIZE_KB = 1024 * 32  # 32 MB
@@ -193,20 +194,32 @@ class EnskDatabase:
 
     def read_all_entries(self) -> list[dict]:
         """Read and return all entries."""
-        selected = self.conn().cursor().execute("SELECT * FROM dictionary ORDER BY word COLLATE NOCASE")
+        selected = (
+            self.conn()
+            .cursor()
+            .execute("SELECT * FROM dictionary ORDER BY word COLLATE NOCASE")
+        )
         return self._consume(selected)
 
     def read_all_original(self) -> list[dict]:
         """Read and return all original entries from the dictionary."""
         selected = (
-            self.conn().cursor().execute("SELECT * FROM dictionary WHERE page_num!=0 ORDER BY word COLLATE NOCASE")
+            self.conn()
+            .cursor()
+            .execute(
+                "SELECT * FROM dictionary WHERE page_num!=0 ORDER BY word COLLATE NOCASE"
+            )
         )
         return self._consume(selected)
 
     def read_all_additions(self) -> list[dict]:
         """Read and return all entries not present in the original dictionary."""
         selected = (
-            self.conn().cursor().execute("SELECT * FROM dictionary WHERE page_num=0 ORDER BY word COLLATE NOCASE")
+            self.conn()
+            .cursor()
+            .execute(
+                "SELECT * FROM dictionary WHERE page_num=0 ORDER BY word COLLATE NOCASE"
+            )
         )
         return self._consume(selected)
 
@@ -227,14 +240,22 @@ class EnskDatabase:
         assert lang in ["uk", "us"]
         ipa_col = "ipa_" + lang
         selected = (
-            self.conn().cursor().execute(f"SELECT * FROM dictionary WHERE {ipa_col}='' ORDER BY word COLLATE NOCASE")
+            self.conn()
+            .cursor()
+            .execute(
+                f"SELECT * FROM dictionary WHERE {ipa_col}='' ORDER BY word COLLATE NOCASE"
+            )
         )
         return self._consume(selected)
 
     def read_all_with_no_page(self) -> list[dict]:
-        """Read and return all entries without IPA."""
+        """Read and return all entries with no page number."""
         selected = (
-            self.conn().cursor().execute("SELECT * FROM dictionary WHERE page_num=0 ORDER BY word COLLATE NOCASE")
+            self.conn()
+            .cursor()
+            .execute(
+                "SELECT * FROM dictionary WHERE page_num=0 ORDER BY word COLLATE NOCASE"
+            )
         )
         return self._consume(selected)
 
@@ -243,7 +264,9 @@ class EnskDatabase:
         selected = (
             self.conn()
             .cursor()
-            .execute("SELECT * FROM dictionary WHERE word GLOB '[A-Z]*' ORDER BY word COLLATE NOCASE")
+            .execute(
+                "SELECT * FROM dictionary WHERE word GLOB '[A-Z]*' ORDER BY word COLLATE NOCASE"
+            )
         )
         return self._consume(selected)
 
@@ -252,7 +275,9 @@ class EnskDatabase:
         selected = (
             self.conn()
             .cursor()
-            .execute("SELECT * FROM dictionary WHERE word LIKE '% %' ORDER BY word COLLATE NOCASE")
+            .execute(
+                "SELECT * FROM dictionary WHERE word LIKE '% %' ORDER BY word COLLATE NOCASE"
+            )
         )
         return self._consume(selected)
 

@@ -166,7 +166,7 @@ WORD_TO_PAGE = None
 
 def page_for_word(w: str) -> int:
     """Look up the page at which a given word occurs in
-    Geir T. Zoega's original dictionary."""
+    Geir T. Zoëga's original dictionary."""
     global WORD_TO_PAGE
     if not WORD_TO_PAGE:
         with open("data/word2page.json", "r") as file:

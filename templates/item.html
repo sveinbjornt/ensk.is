@@ -1,7 +1,8 @@
 {% extends "container.html" %}
 
 {% block meta %}
-<meta name="description" content="Skilgreining á enska orðinu '{{ word|safe }}'">
+<meta name="description" content="{{ meta_description }}">
+<meta property="og:description" content="{{ meta_description }}">
 
 <script>
     function play(elm) {
@@ -31,7 +32,7 @@
 <div class="ipa">
 
     <strong>UK:</strong>
-    <a href="{{ results[0].audio_uk }}" onClick="return play(this);" title="Spila hljóðupptöku af framburði">
+    <a href="{{ results[0].audio_uk }}" onClick="return play(this);" title="Spila hljóðupptöku með breskum framburði">
         <img src="/static/img/audio.svg">
         {% if results[0].ipa_uk %}
         {{ results[0].ipa_uk }}
@@ -42,11 +43,13 @@
 
     {% if results[0].ipa_us %}
     <strong>US:</strong>
-    <a href="{{ results[0].audio_us }}" onClick="return play(this);" title="Spila hljóðupptöku af framburði">
+    <a href="{{ results[0].audio_us }}" onClick="return play(this);"
+        title="Spila hljóðupptöku með bandarískum framburði">
         <img src="/static/img/audio.svg">
         {{ results[0].ipa_us }}
     </a>
     {% endif %}
+
 </div>
 
 <!--googleon: index-->

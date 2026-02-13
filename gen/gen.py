@@ -85,7 +85,7 @@ def ipa4entry(s: str, lang: str = "uk") -> str | None:
     else:
         word2ipa = ENWORD_TO_IPA_US
 
-    def only_first_ipa(s: Optional[str]) -> str:
+    def only_first_ipa(s: str | None) -> str:
         """Return only the first IPA spelling in a string."""
         if not s:
             return ""
