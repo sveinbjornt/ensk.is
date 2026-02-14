@@ -37,8 +37,8 @@ DEFAULT_SUGGESTION_LIMIT = 10
 MAX_SUGGESTION_LIMIT = 50
 
 
+@router.get("/suggest/{q}")  # pyright: ignore[reportArgumentType]
 @cache_response(SEARCH_CACHE_SIZE)
-@router.get("/suggest/{q}")
 async def api_suggest(
     request: Request, q: str, limit: int = DEFAULT_SUGGESTION_LIMIT
 ) -> JSONResponse:
@@ -53,8 +53,8 @@ async def api_suggest(
 SEARCH_QUERY_MAX_LENGTH = 100
 
 
+@router.get("/search/{q}", operation_id="search_for_word")  # pyright: ignore[reportArgumentType]
 @cache_response(SEARCH_CACHE_SIZE)
-@router.get("/search/{q}", operation_id="search_for_word")
 async def api_search(request: Request, q: str) -> JSONResponse:
     """Return search results in JSON format from the English-Icelandic dictionary."""
     if q.strip() == "":
@@ -64,8 +64,8 @@ async def api_search(request: Request, q: str) -> JSONResponse:
     return JSONResponse(content={"results": results})
 
 
+@router.get("/item/{w}", operation_id="lookup_single_word")  # pyright: ignore[reportArgumentType]
 @cache_response(SEARCH_CACHE_SIZE)
-@router.get("/item/{w}", operation_id="lookup_single_word")
 async def api_item(request: Request, w: str) -> JSONResponse:
     """Return single English-Icelandic dictionary entry in JSON format."""
     ws = w.strip()
@@ -77,8 +77,8 @@ async def api_item(request: Request, w: str) -> JSONResponse:
     return JSONResponse(content=results[0])
 
 
+@router.get("/item/parsed/{w}", operation_id="lookup_single_word_parsed")  # pyright: ignore[reportArgumentType]
 @cache_response(SEARCH_CACHE_SIZE)
-@router.get("/item/parsed/{w}", operation_id="lookup_single_word_parsed")
 async def api_item_parsed(request: Request, w: str) -> JSONResponse:
     """Return single English-Icelandic dictionary entry in JSON format with parsed definition."""
     ws = w.strip()
@@ -100,8 +100,8 @@ async def api_item_parsed(request: Request, w: str) -> JSONResponse:
     return JSONResponse(content=result)
 
 
+@router.get("/item/parsed/many/", operation_id="lookup_many_words_parsed")  # pyright: ignore[reportArgumentType]
 @cache_response(SMALL_CACHE_SIZE)
-@router.get("/item/parsed/many/", operation_id="lookup_many_words_parsed")
 async def api_item_parsed_many(
     request: Request, q: str, strip_html: int = 0, strip_parentheses: int = 0
 ) -> JSONResponse:
@@ -138,8 +138,8 @@ async def api_item_parsed_many(
 GROUNDING_DATA = None
 
 
+@router.get("/grounding/{page_num}", operation_id="get_page_grounding")  # pyright: ignore[reportArgumentType]
 @cache_response(SMALL_CACHE_SIZE)
-@router.get("/grounding/{page_num}", operation_id="get_page_grounding")
 async def api_grounding(request: Request, page_num: int) -> JSONResponse:
     """Return grounding data (bounding boxes) for a specific page."""
     global GROUNDING_DATA

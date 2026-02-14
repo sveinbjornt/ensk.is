@@ -96,8 +96,8 @@ async def _save_missing_word(word: str) -> None:
         pass  # Fail silently if we can't write
 
 
+@router.get("/search", include_in_schema=False)  # pyright: ignore[reportArgumentType]
 @cache_response(SEARCH_CACHE_SIZE)
-@router.get("/search", include_in_schema=False)
 async def search(
     request: Request, q: str | None = "", limit: int | None = DEFAULT_SEARCH_LIMIT
 ) -> Response:
@@ -137,9 +137,9 @@ async def search(
     )
 
 
+@router.get("/item/{w}", include_in_schema=False)  # pyright: ignore[reportArgumentType]
+@router.head("/item/{w}", include_in_schema=False)  # pyright: ignore[reportArgumentType]
 @cache_response(SEARCH_CACHE_SIZE)
-@router.get("/item/{w}", include_in_schema=False)
-@router.head("/item/{w}", include_in_schema=False)
 async def item(request: Request, w: str) -> Response:
     """Return page for a single dictionary word definition."""
 
@@ -186,16 +186,19 @@ async def item(request: Request, w: str) -> Response:
     )
 
 
+NUM_ORIGINAL_PAGES = 707
+
+
+@router.get("/page/{n}", include_in_schema=False)  # pyright: ignore[reportArgumentType]
+@router.head("/page/{n}", include_in_schema=False)  # pyright: ignore[reportArgumentType]
 @cache_response(SMALL_CACHE_SIZE)
-@router.get("/page/{n}", include_in_schema=False)
-@router.head("/page/{n}", include_in_schema=False)
 async def page(request: Request, n: str) -> Response:
     """Return page for a single dictionary page image."""
     try:
         page_num = int(n)
     except ValueError:
         raise HTTPException(status_code=400, detail="Invalid page number")
-    if page_num < 1 or page_num > 707:
+    if page_num < 1 or page_num > NUM_ORIGINAL_PAGES:
         raise HTTPException(status_code=404, detail="Síða fannst ekki")
 
     pad = page_num - 1
@@ -347,9 +350,9 @@ async def all_entries(request: Request) -> Response:
     )
 
 
+@router.get("/cat/{category}", include_in_schema=False)  # pyright: ignore[reportArgumentType]
+@router.head("/cat/{category}", include_in_schema=False)  # pyright: ignore[reportArgumentType]
 @cache_response(SMALL_CACHE_SIZE)
-@router.get("/cat/{category}", include_in_schema=False)
-@router.head("/cat/{category}", include_in_schema=False)
 async def cat(request: Request, category: str) -> Response:
     """Page with links to all entries in the given category."""
     entries = CAT2ENTRIES.get(category, [])
