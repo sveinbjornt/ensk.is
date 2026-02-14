@@ -4817,7 +4817,6 @@ chasse
 diss
 ill-treat
 countermine
-debased
 diluted
 thinly
 cold-shoulder
@@ -4846,7 +4845,6 @@ putz
 calamus
 examen
 tensity
-mantrap
 stunner
 peach (endurskoða)
 pennywhistle
@@ -4874,6 +4872,7 @@ rosiness
 flushed
 blaring
 crosspatch
+schmalz
 schmalzy
 hokey
 drippy
@@ -4905,7 +4904,6 @@ compliancy
 two-faced
 Janus-faced
 Janus
-malevolency
 recumb
 ataraxis
 importee
@@ -4942,10 +4940,7 @@ reflexion
 demo-
 momism
 overshielding
-repelling
 loathly
-skank
-skanky
 yucky
 yuck
 yum
@@ -4956,7 +4951,6 @@ plasterwork
 beplaster
 dickhead
 shucks
-whoreson
 diddley
 diddly
 diddly-shit
@@ -5168,7 +5162,6 @@ guts
 gutsy
 ballsy
 fledgling (endurskoða)
-catechumen
 contemptibility
 despicability
 despicableness
@@ -5985,3 +5978,16 @@ counted
 uncounted
 cocklebell
 yawp
+pocked
+unsee
+tuned
+attuned
+regressivity
+halfling
+birdhouse
+dispell
+dispelled
+parasocial
+stakeout
+takeout
+fresher
