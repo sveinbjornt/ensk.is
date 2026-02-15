@@ -108,3 +108,4 @@ tools/*.json
 *.xml
 tei.py
 .claude
+build_deploy.sh

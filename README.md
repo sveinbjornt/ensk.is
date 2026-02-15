@@ -39,9 +39,18 @@ century. Various errors in the original text were also corrected.
 
 ## Contributing
 
+See the [Contributing](CONTRIBUTING.md) guidelines for instructions on
+how to contribute to this project.
+
 The raw dictionary text files are stored [here](data/dict/).
 
-Additions can be viewed [here](data/dict/_add.txt).
+All new dictionary entries should be appended to [data/dict/_add.txt](data/dict/_add.txt).
+
+To verify the syntax and references of all entries, you can run:
+
+```bash
+python gen/verify.py
+```
 
 ## Deployment
 
@@ -71,16 +80,6 @@ uvicorn app:app --reload
 ```
 
 Should also work with any other reasonable ASGI server.
-
-## Development
-
-All new dictionary entries should be appended to [data/dict/_add.txt](data/dict/_add.txt).
-
-To verify the syntax and references of all entries, you can run:
-
-```bash
-python gen/verify.py
-```
 
 ## Dictionary License
 
