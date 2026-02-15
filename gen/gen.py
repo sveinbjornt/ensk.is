@@ -41,8 +41,6 @@ import os
 import sys
 import inspect
 
-from typing import Optional
-
 import csv
 import datetime
 import json as std_json

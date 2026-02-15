@@ -235,3 +235,58 @@ def test_edge_cases() -> None:
     # Page with negative page number
     response = client.get("/page/-1")
     assert response.status_code == HTTPStatus.NOT_FOUND
+
+    # Page boundary: 0 should be not found
+    response = client.get("/page/0")
+    assert response.status_code == HTTPStatus.NOT_FOUND
+
+    # Page boundary: one past the last page
+    response = client.get("/page/708")
+    assert response.status_code == HTTPStatus.NOT_FOUND
+
+
+def test_random_route() -> None:
+    """Test that /random redirects to a valid item page."""
+    response = client.get("/random", follow_redirects=False)
+    assert response.status_code == HTTPStatus.FOUND
+    location = response.headers["location"]
+    assert location.startswith("/item/")
+
+    # Following the redirect should yield a valid page
+    response = client.get("/random")
+    assert response.status_code == HTTPStatus.OK
+
+
+def test_api_grounding() -> None:
+    """Test the grounding API endpoint."""
+    # Valid page number
+    response = client.get("/api/grounding/1")
+    assert response.status_code == HTTPStatus.OK
+    assert isinstance(response.json(), list)
+
+    # Page with no grounding data
+    response = client.get("/api/grounding/99999")
+    assert response.status_code == HTTPStatus.OK
+    assert response.json() == []
+
+
+def test_api_suggest_limit() -> None:
+    """Test that suggestion limit parameter is respected."""
+    response = client.get("/api/suggest/a?limit=3")
+    assert response.status_code == HTTPStatus.OK
+    json = response.json()
+    assert isinstance(json, list)
+    assert len(json) <= 3
+
+    # Limit above max should be clamped
+    response = client.get("/api/suggest/a?limit=999")
+    assert response.status_code == HTTPStatus.OK
+    json = response.json()
+    assert len(json) <= 50
+
+
+def test_api_search_empty_query() -> None:
+    """Test API search with whitespace-only query."""
+    response = client.get("/api/search/%20%20")
+    assert response.status_code == HTTPStatus.OK
+    assert response.json() == {"results": []}
