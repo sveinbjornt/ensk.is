@@ -72,7 +72,7 @@ EntryList = list[EntryType]
 
 ENWORD_TO_IPA_UK = read_json("data/ipa/uk/en2ipa.json")
 ENWORD_TO_IPA_US = read_json("data/ipa/us/en2ipa.json")
-WORD_FREQ_MAP = read_json("data/freq/word_frequency_map.json")
+# WORD_FREQ_MAP = read_json("data/freq/word_frequency_map.json")  # Disabled for now
 
 
 def ipa4entry(s: str, lang: str = "uk") -> str | None:
@@ -129,7 +129,7 @@ def read_all_entries() -> EntryList:
         ipa_uk = ipa4entry(w, lang="uk") or ""
         ipa_us = ipa4entry(w, lang="us") or ""
         pn = page_for_word(w)
-        freq = WORD_FREQ_MAP.get(w, -1)
+        freq = -1  # Word frequency disabled for now
         syns = ",".join(synonyms_for_word(w))
         ants = ",".join(antonyms_for_word(w))
         entries.append(
