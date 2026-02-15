@@ -12,9 +12,9 @@ from fastapi.templating import Jinja2Templates
 import orjson
 
 from db import EnskDatabase
-from dict import read_wordlist
+from dict import CATEGORIES
+from util import is_ascii, read_wordlist
 from info import PROJECT
-from util import is_ascii
 
 
 # Custom JSON response class that uses ultrafast orjson for serialization
@@ -73,7 +73,6 @@ num_no_page_entries = len(no_page_entries)
 metadata = edb.read_metadata()
 
 # Get all entries in each category and store in dict
-CATEGORIES = frozenset(read_wordlist("data/catwords.txt"))
 CAT2ENTRIES = {}
 for c in CATEGORIES:
     cs = c.rstrip(".")

@@ -232,6 +232,17 @@ def syllables_for_word(w: str) -> str:
     return SYLLABLES_SEPARATOR.join(tokens)
 
 
+def is_not_name(syn: str) -> bool:
+    """Check if a synonym/antonym is a proper name
+    (i.e. starts with a capital letter)."""
+    return not (
+        " " in syn
+        and syn[0].isupper()
+        and syn[1].islower()
+        and syn.split()[1][0].isupper()
+    )
+
+
 def synonyms_for_word(w: str) -> list[str]:
     """Look up synonyms for a given word in the dictionary."""
     if not w:
@@ -250,15 +261,6 @@ def synonyms_for_word(w: str) -> list[str]:
     synonyms = list(synonyms)
     synonyms.sort(key=lambda x: x.lower())
     synonyms = [syn.replace("_", " ") for syn in synonyms if len(syn) > 1]
-
-    def is_not_name(syn: str) -> bool:
-        """Check if a synonym is a name (i.e. starts with a capital letter)."""
-        return not (
-            " " in syn
-            and syn[0].isupper()
-            and syn[1].islower()
-            and syn.split()[1][0].isupper()
-        )
 
     final: list[str] = list(filter(is_not_name, synonyms))
 
@@ -303,15 +305,6 @@ def antonyms_for_word(w: str) -> list[str]:
     antonyms_list = list(antonyms)
     antonyms_list.sort(key=lambda x: x.lower())
     antonyms_list = [ant.replace("_", " ") for ant in antonyms_list if len(ant) > 1]
-
-    def is_not_name(ant: str) -> bool:
-        """Check if an antonym is a name (i.e. starts with a capital letter)."""
-        return not (
-            " " in ant
-            and ant[0].isupper()
-            and ant[1].islower()
-            and ant.split()[1][0].isupper()
-        )
 
     final: list[str] = list(filter(is_not_name, antonyms_list))
 

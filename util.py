@@ -68,6 +68,9 @@ def read_wordlist(fn: str, unique: bool = True) -> list[str]:
                 continue
             words.append(ln)
 
+    if unique:
+        words = list(set(words))
+
     return words
 
 
