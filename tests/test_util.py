@@ -76,8 +76,13 @@ def test_read_wordlist() -> None:
         fname = f.name
 
     try:
-        # Test with unique=False
+        # Default (unique=True) should deduplicate
         words = util.read_wordlist(fname)
+        assert len(words) == 3
+        assert words.count("word2") == 1
+
+        # unique=False should keep duplicates
+        words = util.read_wordlist(fname, unique=False)
         assert len(words) == 4
         assert words.count("word2") == 2
     finally:
