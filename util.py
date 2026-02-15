@@ -49,7 +49,7 @@ from collections import OrderedDict
 from functools import wraps
 import re
 
-import orjson as json
+import orjson
 
 
 def read_wordlist(fn: str, unique: bool = True) -> list[str]:
@@ -77,7 +77,7 @@ def read_wordlist(fn: str, unique: bool = True) -> list[str]:
 def read_json(inpath: str) -> dict[str, Any]:
     """Read and parse json file. Assumes dict (object)."""
     with open(inpath, "r") as f:
-        return json.loads(f.read())
+        return orjson.loads(f.read())
 
 
 def archive_directory(directory_path: str) -> str:

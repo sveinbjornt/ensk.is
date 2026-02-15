@@ -36,6 +36,7 @@ Ensk.is FastAPI web application.
 """
 
 import logging
+
 from fastapi import FastAPI, Request, HTTPException
 from fastapi.staticfiles import StaticFiles
 from fastapi_mcp import FastApiMCP

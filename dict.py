@@ -40,7 +40,8 @@ Code to read and parse dictionary source files.
 import os
 from collections import defaultdict
 from typing import Any
-import orjson as json
+
+import orjson
 
 from util import read_wordlist
 
@@ -170,7 +171,7 @@ def page_for_word(w: str) -> int:
     global WORD_TO_PAGE
     if not WORD_TO_PAGE:
         with open("data/word2page.json", "r") as file:
-            WORD_TO_PAGE = json.loads(file.read())
+            WORD_TO_PAGE = orjson.loads(file.read())
     return WORD_TO_PAGE.get(w, 0)
 
 
@@ -182,7 +183,7 @@ def hyphenation_for_word(w: str) -> str:
     global WORD_TO_HYPHENATION
     if not WORD_TO_HYPHENATION:
         with open("data/hyph/hyphenations.json", "r") as file:
-            WORD_TO_HYPHENATION = json.loads(file.read())
+            WORD_TO_HYPHENATION = orjson.loads(file.read())
     return WORD_TO_HYPHENATION.get(w, "")
 
 
@@ -200,7 +201,7 @@ def syllables_for_word(w: str) -> str:
     global SYLLABLES_LOOKUP
     if not SYLLABLES_LOOKUP:
         with open("data/syllables/syllables.json", "r") as file:
-            SYLLABLES_LOOKUP = json.loads(file.read())
+            SYLLABLES_LOOKUP = orjson.loads(file.read())
 
     s = SYLLABLES_LOOKUP.get(w)
     if s:
@@ -342,7 +343,7 @@ def freq_for_word(w: str) -> int:
     global FREQ_MAP
     if not FREQ_MAP:
         with open("data/freq/word_frequency_map.json", "r") as file:
-            FREQ_MAP = json.loads(file.read())
+            FREQ_MAP = orjson.loads(file.read())
 
     freq = FREQ_MAP.get(w)
     if freq is None or freq == FREQ_NOT_FOUND:
