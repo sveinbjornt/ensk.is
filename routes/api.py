@@ -138,7 +138,9 @@ async def api_item_parsed_many(
 GROUNDING_DATA = None
 
 
-@router.get("/grounding/{page_num}", operation_id="get_page_grounding")  # pyright: ignore[reportArgumentType]
+@router.get(
+    "/grounding/{page_num}", operation_id="get_page_grounding", include_in_schema=False
+)  # pyright: ignore[reportArgumentType]
 @cache_response(SMALL_CACHE_SIZE)
 async def api_grounding(request: Request, page_num: int) -> JSONResponse:
     """Return grounding data (bounding boxes) for a specific page."""

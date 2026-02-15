@@ -33,11 +33,8 @@ from .core import (
     num_capitalized_entries,
     duplicate_entries,
     num_duplicate_entries,
-    # no_uk_ipa_entries,
     num_no_uk_ipa_entries,
-    # no_us_ipa_entries,
     num_no_us_ipa_entries,
-    # no_page_entries,
     num_no_page_entries,
     metadata,
     CAT2ENTRIES,
@@ -76,7 +73,7 @@ async def index(request: Request) -> Response:
 
 MISSING_WORD_MAXLEN = 100
 MISSING_WORDS_FILE = "missing_words.txt"
-MISSING_WORDS_MAX_SIZE = 1_000_000  # 1 MB limit
+MISSING_WORDS_MAX_SIZE = 1_048_576  # 1 MB limit
 
 
 async def _save_missing_word(word: str) -> None:
@@ -93,7 +90,6 @@ async def _save_missing_word(word: str) -> None:
             await file.write(f"{word[:MISSING_WORD_MAXLEN]}\n")  # 100 char limit
     except Exception:
         logging.warning("Failed to write missing word to file")
-        pass  # Fail silently if we can't write
 
 
 @router.get("/search", include_in_schema=False)  # pyright: ignore[reportArgumentType]
