@@ -63,7 +63,6 @@ settings = Settings()
 
 def main():
     """Main function to print settings (for testing purposes)."""
-    print("Settings:")
     print(settings.model_dump_json(indent=4))
 
 
