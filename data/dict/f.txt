@@ -716,7 +716,7 @@ floury l. mjölkynjaður; mjölugur
 flourish s. dafna, blómstra, blómgast, standa með (miklum) blóma; gorta; krota, flúra; sveifla, bregða (sverði); fjölyrða (um e-ð [on, upon]); n. blómi; málskrúð; útflúr, krot; sveifla; lúðurþytur
 flout s. hæða, spotta, gera gys að ([~ at]); n. háð, spott, gabb
 flow s. fljóta, renna; falla að (um sjó, [ebb and ~]); leiða af e-u ([from]); láta flæða (renna) yfir; [the measure ~s over] það rennur út úr málinu; n. flóð, aðfall; straumur, rennsli; gnótt; hljóðfall, hrynjandi
-flower n. blóm, blómstur; blómi; [in the ~ of one's age] í blóma aldurs síns; s. blómgast; vera í blóma sínum; skreyta með blómum; sauma blómstur í
+flower n. blóm, blómstur; blómi; [in the ~ of one's age] í blóma aldurs síns; s. blómgast, blómstra, vera í blóma sínum; skreyta með blómum; sauma blómstur í
 flowery l. blómskreyttur ([a ~ vale]); skrúð-; [flowery language] skrúðmælgi
 fluctuant l. bylgjóttur; óstöðugur ([~ mood])
 fluctuate s. ganga í bylgjum; vera á reiki; vera óráðinn; hækka og lækka (í verði)
@@ -1194,7 +1194,7 @@ frounce s. setja liði á hár
 froward l. einþykkur, þrár
 frowardness n. einþykkni, þrái
 frown s. hleypa brúnum, láta brýnnar síga; horfa hvasst og reiðilega, ygla sig; n. gretta, reiðisvipur
-frowningly ao. reiðilega
+frowningly ao. reiðilega, með reiðisvip
 frowzy l. óþriflegur, sóðalegur; daunillur
 fructiferous l. aldinbær
 fructification n. frjóvgun

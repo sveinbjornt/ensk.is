@@ -10,7 +10,7 @@ currentdir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentfram
 parentdir = os.path.dirname(currentdir)
 sys.path.insert(0, parentdir)
 
-from gen import read_all_entries
+from gen.gen import read_all_entries
 
 fpath = os.path.join(currentdir, "english_icelandic_dictionary.txt")
 with open(fpath, "r", encoding="utf-8") as f:
