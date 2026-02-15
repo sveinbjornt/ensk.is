@@ -50,22 +50,23 @@ Ensk.is an ASGI web application implemented using the
 To deploy it, you need to set up a Python virtual
 environment (3.11+) and install dependencies:
 
-```sh
+```bash
 virtualenv -p /path/to/python3 venv
 source venv/bin/activate
 pip install -r requirements.txt
+pip install -r requirements-dev.txt
 ```
 
 To build the dictionary data files from plain text source files,
 run the following command:
 
-```sh
-python gen.py
+```bash
+python gen/gen.py
 ```
 
 Run the web application via [`uvicorn`](https://www.uvicorn.org/):
 
-```sh
+```bash
 uvicorn app:app --reload
 ```
 
@@ -77,8 +78,8 @@ All new dictionary entries should be appended to [data/dict/_add.txt](data/dict/
 
 To verify the syntax and references of all entries, you can run:
 
-```sh
-python verify.py
+```bash
+python gen/verify.py
 ```
 
 ## Dictionary License
