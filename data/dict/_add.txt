@@ -1017,7 +1017,7 @@ LED n. ljósdíóða, ljóstvistur, ljóstvískaut (sks. á [light emitting diod
 buddy n. félagi, lagsmaður, vinur
 querulant n. þrætugjarn maður, kverúlant, nöldurseggur
 carburetor n. blöndungur (í sprengihreyfli eða bílvél)
-carburettor n. blöndungur (í sprengihreyfli eða bílvél)
+carburettor n. sjá %[carburetor]%
 dominatrix n. valdgyðja, kona sem öllu ræður (í sadómasókísku sambandi)
 pikeman n. hermaður vopnaður löngu spjóti
 glucose n. glúkósi, þrúgusykur
@@ -2703,7 +2703,7 @@ polytheistic l. fjölgyðistrúarlegur, fjölgyðis- ([~ religion])
 haircut n. klipping, hárgreiðsla
 gargantuan l. gríðarstór, risastór, risavaxinn, gífurlegur
 lawlessness n. lögleysi, lögleysa; ranglæti
-langoustine n. humar
+langoustine n. leturhumar (íslenskur humar)
 pickled l. súrsaður
 euphoniousness n. hljómfegurð (sjá %[euphonious]%)
 sellsword n. málaliði
@@ -7613,7 +7613,6 @@ bioethics nft. lífsiðfræði
 bioethicist n. lífsiðfræðingur
 ailurophobia n. kattahræðsla, ótti við ketti eða kattardýr
 neoprene n. gervigúmmi
-langustine n. leturhumar (íslenskur humar)
 shoplift s. hnupla úr búð, stela úr búð
 toilet paper n. klósettpappír, salernispappír
 Duce n. foringi, leiðtogi (á ítölsku, titill Benito Mussolini)
@@ -10609,3 +10608,11 @@ radix n. rót, grunntala, stofntala
 flowering l. blómstrandi, blómgandi, í blóma
 butternut n. smjörhneta
 seism n. skjálfti, jarðskjálfti
+canned l. niðursoðinn, settur í dós; [~ goods] niðursoðin matvæli; rekinn úr starfi ([he got ~])
+Ottoman Empire n. Ottómanaveldi, Tyrkjaveldi
+cherimoya n. morgunberkja (aldin)
+loquat n. dúnepli (aldin)
+sousaphone n. súsafónn (málmblásturshljóðfæri)
+decapitated l. afhöfðaður, afhausaður, hálshöggvinn
+diaeresis n. tvípunktur yfir sérhljóða (sem táknar hljóðvarp)
+heedlessness n. hirðuleysi, gáleysi
