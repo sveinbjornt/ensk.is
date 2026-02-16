@@ -17,7 +17,7 @@
 <h1 class="item_title">
     {{ word }}
     {% if results[0].page_num > 0 %}
-    <a href="{{ results[0].page_url }}?word={{ word|urlencode }}" title="Skoða blaðsíðu í orðabók">
+    <a href="{{ results[0].page_url }}?word={{ word|urlencode }}" title="Skoða blaðsíðu í orðabók" rel="nofollow">
         <img src="/static/img/book.svg" width="20">
     </a>
     {% endif %}

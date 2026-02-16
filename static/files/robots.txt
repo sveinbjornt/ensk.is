@@ -1,6 +1,9 @@
 Sitemap: https://ensk.is/sitemap.xml
 crawl-delay: 2
 
+Disallow: /page/*
+Disallow: /page/
+
 User-agent: SemrushBot*
 Disallow: /
 
