@@ -1631,9 +1631,9 @@ concoct s. sjóða saman, brugga
 concoction n. samsuða, tilbúningur, brugg
 concomitant l. samfarandi; n. samfari, förunautur
 concord n. samlyndi; sætt; samræmi
-concordance n. samhljóðan
-concordant l. samlyndur; samhljóða (e-u [with])
-concordat n. sáttmáli milli páfa og veraldlegs valds
+concordance n. samsvörun, samræmi; samlyndi; samhljóðan
+concordant l. samsvarandi; samlyndur; samhljóða (e-u [with])
+concordat n. sáttmáli (milli páfa og veraldlegs valds)
 concourse n. samhlaup, samstreymi; mannþyrping
 concrescence n. samvöxtur
 concrete l. storkinn; hlutlegur; n. sementsteypa; [reinforced ~] járnbent steypa; s. láta storkna

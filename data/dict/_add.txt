@@ -6307,7 +6307,7 @@ diabolic l. djöfullegur, djöflalegur, helvískur
 unsteady l. óstöðugur; óstaðfastur
 silently ao. hljóðlega, án hljóðs; í þögn, á þögulan hátt (sjá %[silent]%)
 wank n. runk
-wanker n. auli, hálfviti, aumingi (óforml., bókst. runkari)
+wanker n. auli, hálfviti, aumingi, leiðindagaur (óforml., sjá %[wank]%)
 pangolin n. hreisturdýr
 flu n. flensa (stytt. á %[influenza]%)
 fungi nft. sjá %[fungus]%
@@ -9476,7 +9476,7 @@ mesmerized l. dáleiddur; heillaður (óforml.)
 spellbind s. töfra, leggja álög á
 harridan n. kvenskass, geðvond kerling
 soubrette n. hress og daðurgjörn þjónustustúlka (í gamanleik eða óperu)
-Menshevik n. menséviki (meðlimur í rússneskum stjórnmálaflokki, bókst. minnihlutamaður)
+Menshevik n. menséviki (meðlimur í rússneska stjórnmálaflokknum, minnihlutamaður)
 hypersomnia n. svefnsækni (sjúkdómur)
 racketeer n. fjárglæframaður, gróðabrallari; s. standa í gróðabralli eða fjárglæfrastarfsemi
 racketeering n. fjárglæfrastarfsemi, gróðabrall
@@ -10616,3 +10616,4 @@ sousaphone n. súsafónn (málmblásturshljóðfæri)
 decapitated l. afhöfðaður, afhausaður, hálshöggvinn
 diaeresis n. tvípunktur yfir sérhljóða (sem táknar hljóðvarp)
 heedlessness n. hirðuleysi, gáleysi
+partwise ao. að hluta til (sjá %[partly]%)
