@@ -1,8 +1,46 @@
 <script src="/static/js/autocomplete.min.js" crossorigin="anonymous"
     integrity="sha384-LMHHa8MsLF6m7I6ZuNCK9rueUJyBuPa+mugXyxxfYulzeKaX855ym6abPl+Pu6BG" defer></script>
 <script>
+    var q = undefined;
+
+    // Prevent empty search submission
+    function validate_search() {
+        return (q.value.trim() !== "");
+    }
+
+    // Clear search input
+    function clear_search() {
+        q.value = "";
+        q.focus();
+        clear_search_results();
+        update_clear_button();
+    }
+
+    // Clear search results
+    function clear_search_results() {
+        var results = document.getElementById("search_results");
+        if (results) {
+            results.innerHTML = "";
+        }
+        // Update the URL to remove query parameters
+        var url = new URL(window.location.href);
+        url.searchParams.delete("q");
+        var title = document.title.split(' - ');
+        if (title.length > 1) {
+            title.shift();
+        }
+        window.history.replaceState({}, document.title, url.toString());
+        document.title = title[0];
+    }
+
+    // Show/hide clear button based on input content
+    function update_clear_button() {
+        var show = q.value.length > 0 ? "block" : "none";
+        document.getElementById("clearBtn").style.display = show;
+    }
+
+    // Make AJAX GET request
     function ajax_get(url, callback) {
-        // Make an AJAX GET request
         var xmlhttp = new XMLHttpRequest();
         xmlhttp.onreadystatechange = function () {
             if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
@@ -35,20 +73,21 @@
     }
 
     document.addEventListener("DOMContentLoaded", function () {
-        // Focus on search input field
-        var elm = document.getElementById("q");
-        elm.focus();
-        // Move caret to end of input field
-        caret_to_end(elm);
-        // Enable autocompletion suggestions
+
+        // Focus on search field and move caret to end
+        q = document.getElementById("q");
+        q.focus();
+        caret_to_end(q);
+        update_clear_button();
+
+        // Enable autocomplete for search field
         new autoComplete({
             selector: 'input[name="q"]',
             submit: true,
             minChars: 1,
             cache: 0,
             source: function (term, response) {
-                var qval = document.getElementById("q").value;
-                ajax_get('/api/suggest/' + encodeURIComponent(qval), function (data) {
+                ajax_get('/api/suggest/' + encodeURIComponent(q.value), function (data) {
                     response(data);
                 });
             },
@@ -56,5 +95,16 @@
                 document.getElementById("search").submit();
             }
         });
+        // Sync autocomplete's last_val with current input value
+        // to prevent spurious trigger on page reload
+        q.last_val = q.value;
+
+        // Escape key clears the search field
+        q.addEventListener("keyup", function (event) {
+            if (event.key === "Escape") {
+                clear_search();
+            }
+        });
+
     });
 </script>

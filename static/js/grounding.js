@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const overlay = document.createElement('div');
         overlay.classList.add('grounding-box');
-        
+
         // Calculate percentages with a slight padding (0.5%)
         const padding = 0.5;
         const top = ((ymin / 1000) * 100) - padding;
@@ -55,10 +55,10 @@ document.addEventListener('DOMContentLoaded', () => {
       if (found) {
         const firstBox = container.querySelector('.grounding-box');
         if (firstBox) {
-            // Use setTimeout to ensure the DOM update has rendered before scrolling
-            setTimeout(() => {
-                firstBox.scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'center' });
-            }, 100);
+          // Use setTimeout to ensure the DOM update has rendered before scrolling
+          setTimeout(() => {
+            firstBox.scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'center' });
+          }, 100);
         }
       }
     })
