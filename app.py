@@ -195,7 +195,7 @@ mcp = FastApiMCP(
     describe_full_response_schema=True,  # Include full JSON schema in descriptions
     include_operations=MCP_OPERATIONS,
 )
-mcp.mount()
+mcp.mount_http()
 
 
 # CLI invocation

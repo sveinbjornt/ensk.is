@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Tests for ensk.is dictionary source fileparsing functions.
+Tests for ensk.is dictionary source file parsing functions.
 """
 
 import os
@@ -13,7 +13,14 @@ basepath, _ = os.path.split(os.path.realpath(__file__))
 src_path = os.path.join(basepath, "..")
 sys.path.append(src_path)
 
-from dict import parse_line, unpack_definition, startswith_category, is_not_name  # noqa: E402
+from dict import (  # noqa: E402
+    parse_line,
+    unpack_definition,
+    startswith_category,
+    is_not_name,
+    syllables_for_word,
+    SYLLABLES_SEPARATOR,
+)
 
 
 # parse_line tests
@@ -149,3 +156,42 @@ def test_is_not_name_proper_name() -> None:
 def test_is_not_name_single_capitalized() -> None:
     """Test that single capitalized words pass the filter."""
     assert is_not_name("English") is True
+
+
+# syllables_for_word tests
+
+
+def test_syllables_for_word_empty() -> None:
+    """Test that empty string returns empty string."""
+    assert syllables_for_word("") == ""
+
+
+def test_syllables_for_word_lookup_hit() -> None:
+    """Test that a word in the syllables lookup returns the stored value."""
+    result = syllables_for_word("cat")
+    assert isinstance(result, str)
+    assert len(result) > 0
+
+
+def test_syllables_for_word_multi_word() -> None:
+    """Test that a multi-word phrase assembles syllables from individual words."""
+    # "ice cream" - both "ice" and "cream" should be in the lookup
+    result = syllables_for_word("ice cream")
+    assert isinstance(result, str)
+    if result:
+        assert SYLLABLES_SEPARATOR in result
+
+
+def test_syllables_for_word_nltk_fallback() -> None:
+    """Test that an unknown word falls back to NLTK syllable tokenizer."""
+    result = syllables_for_word("supercalifragilistic")
+    assert isinstance(result, str)
+    assert len(result) > 0
+    assert SYLLABLES_SEPARATOR in result
+
+
+def test_syllables_for_word_known_multisyllable() -> None:
+    """Test a known multi-syllable word from the lookup."""
+    result = syllables_for_word("vindictive")
+    assert isinstance(result, str)
+    assert SYLLABLES_SEPARATOR in result
