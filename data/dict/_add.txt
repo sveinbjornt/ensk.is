@@ -469,7 +469,7 @@ prostate n. blöðruhálskirtill
 primarily ao. aðallega; fyrst og fremst; einkum
 playback n. spilun, afspilun
 plasma n. rafgas; blóðvökvi
-parameter n. færibreyta
+parameter n. stiki, færibreyta
 hardcover l. harðspjalda, harðkilju-; n. harðspjalda bók, harðkilja, innbundið rit
 genome n. erfðamengi, genamengi
 forbidden l. bannaður, forboðinn
@@ -3375,7 +3375,7 @@ sunspot n. sólblettur
 monetarism n. peningamagnshyggja
 monetarist n. peningamagnshyggjumaður, fylgismaður peningamagnshyggju í hagfræði (sjá %[monetarism]%)
 transient l. skammtíma-, skammvinnur, svipull, hverfull, fallvaltur (sjá %[transience]%)
-malefaction n. illgjörð, illgjörningur, illvirki
+malefaction n. skaðræði; illgjörð, illgjörningur, illræði, illvirki
 lobotomy n. geiraskurður, hvítuskurður, ennisblaðsskurður ([prefrontal ~])
 lobotomization n. ennisblaðsskurður (sjá %[lobotomy]%)
 lobotomize s. framkvæma ennisblaðsskurð
@@ -9673,6 +9673,7 @@ jodhpurs nft. reiðbuxur
 zap s. skjóta með rafbyssu eða geislabyssu (óforml.)
 zip code n. póstnúmer (í Bandaríkjunum)
 zillion n. mjög há tala (óforml.)
+zillionaire n. gríðarlega rík manneskja, milljarðamæringur (óforml.)
 kudos nft. heiður, upphefð ([~ to you!])
 kitsch l. hallærislegur, smekklaus, ósmekklegur, lágkúrulegur; n. listlíki (hallærislegur fjöldaframleiddur listmunur)
 ersatz l. gervi-, eftirlíkingar- ([an ~ substitute for the real thing])
@@ -10617,3 +10618,10 @@ decapitated l. afhöfðaður, afhausaður, hálshöggvinn
 diaeresis n. tvípunktur yfir sérhljóða (sem táknar hljóðvarp)
 heedlessness n. hirðuleysi, gáleysi
 partwise ao. að hluta til (sjá %[partly]%)
+starved l. sveltur, hungurmorða
+vanquished l. sigraður, gersigraður, yfirbugaður
+fleur-de-lis n. sverðlilja; sverðliljutákn (á skjaldarmerkjum)
+doxy n. skækja, vændiskona, hóra; hjákona
+doxie n. sjá %[doxy]%
+anaphora n. klifun, anafóra
+anaphoric l. endurvísandi

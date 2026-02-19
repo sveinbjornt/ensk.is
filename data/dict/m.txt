@@ -121,9 +121,9 @@ malediction n. bölvun; formæling
 malefactor n. skaðræðismaður; illgjörðamaður, illræðismaður, illvirkismaður, e-r sem fremur illan verknað
 malefic l. skaðlegur, skaðsamur; illgjörðar-, illvirkis-
 maleficence n. skaðvæni; illgerning, illvirki, illgjörð
-maleficent l. skaðlegur, skaðvænlegur, skaðsamur (e-m [to]); illgjörða-, illgerninga-, illvirkis-
-malevolence n. illvilji, illgirni, illur vilji, meinfýsni, mannvonska
-malevolent l. illviljaður, illgjarn, meinfýsinn
+maleficent l. skaðlegur, skaðvænlegur, skaðsamur (e-m [to]); illgjörða-, illgerninga-, illræðis-, illvirkis-
+malevolence n. illvilji, illgirni, illur vilji, meinfýsni, (mann)vonska
+malevolent l. illviljaður, illgjarn, meinfýsinn, illur
 malfeasance n. afbrot; afglöp eða brot í embættisrekstri eða störfum
 malfeasant n. afbrotamaður; l. brotlegur í embætti eða starfi
 malformation n. afmyndun, vansköpun, vanskapnaður
@@ -762,7 +762,7 @@ mildness n. mildi; linleiki; blíða
 mildew n. mygla, e.k. skaðvænt duft, sem sest á plöntur; rakablettur
 mile n. (ensk) míla (1609 metrar)
 mileage n. mílnatal; mílugjald
-milestone n. áfangi ([I have reached that ~]); mílusteinn
+milestone n. áfangi ([I have reached that ~])
 milfoil n. vallhumall
 miliary l. svipaður hirsikorni ([~ granule])
 militant l. sem berst, stríðandi; herskár, átakagjarn; n. bardagamaður; herskár maður; ófriðarseggur, óeirðaseggur
