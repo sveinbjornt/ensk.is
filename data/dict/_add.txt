@@ -10586,7 +10586,7 @@ irritating l. pirrandi; ertandi
 irritatingly ao. á pirrandi hátt; á ertandi hátt
 shewbread n. skoðunarbrauð (í biblíunni)
 neutering n. vönun, gelding
-spaying n. fjarlæging eggjastokka og legs (sjá %[spay]%)
+spaying n. vönun, fjarlæging eggjastokka og legs (sjá %[spay]%)
 funfair n. tívolí, skemmtigarður
 trackpad n. dregill (jaðartæki tölvu)
 peptide n. peptíð
@@ -10615,7 +10615,7 @@ cherimoya n. morgunberkja (aldin)
 loquat n. dúnepli (aldin)
 sousaphone n. súsafónn (málmblásturshljóðfæri)
 decapitated l. afhöfðaður, afhausaður, hálshöggvinn
-diaeresis n. tvípunktur yfir sérhljóða (sem táknar hljóðvarp)
+diaeresis n. tvídepill, tvípunktur yfir sérhljóða (sem táknar hljóðvarp)
 heedlessness n. hirðuleysi, gáleysi
 partwise ao. að hluta til (sjá %[partly]%)
 starved l. sveltur, hungurmorða
@@ -10625,3 +10625,10 @@ doxy n. skækja, vændiskona, hóra; hjákona
 doxie n. sjá %[doxy]%
 anaphora n. klifun, anafóra
 anaphoric l. endurvísandi
+dochter n. sjá %[daughter]% (skoskt)
+tawdriness n. glingur, smekkleysi, ósmekklegheit
+odontoma n. tannæxli
+detainee n. fangi
+decouple s. aftengja, afkúpla
+storefront n. framhlið verslunar, götuhlið búðar, búðargafl
+downstream l. niður með á, neðar í á eða læk; ao. með straumnum

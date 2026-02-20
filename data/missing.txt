@@ -1010,7 +1010,6 @@ zoomer
 deindustrialize
 deindustrialization
 livable
-downstream
 retrofit
 proactive
 proactively
@@ -1022,9 +1021,7 @@ gentrified
 gentrification
 swank
 swanky
-storefront
 carte blanche
-decouple
 binder
 booster
 thoughtfulness
@@ -1084,7 +1081,6 @@ legitimatory
 radicalization
 brutalization
 definiteness
-detainee
 exhaustiveness
 mismatch
 ritualization
@@ -1681,6 +1677,7 @@ demonym
 patriciate
 typification
 statist
+statism
 syndicalism
 monocephalic
 barrio
@@ -4774,7 +4771,6 @@ self-referent
 weewee
 chroma
 meretriciousness
-tawdriness
 garishness
 flashiness
 glitz
@@ -6019,3 +6015,6 @@ predicated
 self-care
 madras
 cortina
+allyship
+impaled
+blurring
