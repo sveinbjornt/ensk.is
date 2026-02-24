@@ -27,9 +27,11 @@ jobs:
           uv pip install --system --upgrade wheel setuptools ruff pytest httpx curlylint pyright
           uv pip install --system -r requirements.txt
           uv pip install --system -r requirements-dev.txt
-      - name: Linting
+      - name: Ruff linting
         run: |
           ruff check *.py routes/*.py gen/*.py tests/*.py
+      - name: Template linting
+        run: |
           curlylint templates/*.html
       - name: Type checking
         run: |
@@ -37,7 +39,7 @@ jobs:
       - name: Verify dictionary source files
         run: |
           python gen/verify.py
-      - name: Generate dictionary files
+      - name: Generate dictionary data files
         run: |
           python gen/gen.py
       - name: Run pytest
