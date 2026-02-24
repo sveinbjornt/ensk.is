@@ -534,12 +534,12 @@ Hibernicize s. gera írskt
 hide s. fela; leyna; fela sig; n. fylgsni
 hide-and-seek n. feluleikur
 hide n. húð, skinn; s. hýða
-hidebound l. grindhoraður; þröngsýnn
-hideous l. hræðilegur; herfilega ljótur, viðbjóðslegur
-hiding place n. fylgsni, leyni
+hidebound l. þröngsýnn; afturhaldssamur; grindhoraður
+hideous l. herfilega ljótur, viðbjóðslegur; hræðilegur
+hiding place n. fylgsni, leyni, felustaður
 hie s. flýta sér ([~ oneself])
 hiemal l. sjá %[hyemal]%
-hierarch n. klerklegur stjórnari, höfuðprestur
+hierarch n. klerklegur stjórnandi, höfuðprestur
 hierarchic l. stigveldis-, klerkaveldis-
 hierarchical l. stigveldis-, klerkaveldis-
 hierarchy n. stigveldi; klerkastjórn; klerkaveldi, helgivald

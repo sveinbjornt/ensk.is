@@ -2046,6 +2046,7 @@ ATM n. hraðbanki (sks. á [automated teller machine])
 vampiric l. vampírulegur, vampíru-, blóðsugu-
 vampirish l. vampírulegur, vampíru-, blóðsugu-
 brainwash s. heilaþvo
+brainwashed l. heilaþveginn
 brainwashing n. heilaþvottur
 snobbery n. snobb, uppskafningsháttur, broddborgaraskapur, mont
 sine qua non l. (lat.) nauðsynlegur, án hvers ekki; n. frumskilyrði, ófrávíkjanlegt skilyrði
@@ -5243,7 +5244,8 @@ countlessness l. óteljanleiki
 uncountableness l. óteljanleiki
 uncountability l. óteljanleiki
 trap house n. eiturlyfjagreni
-mayhaps ao. kannski, ef til vill, máske
+mayhap ao. kannski, ef til vill, máske
+mayhaps ao. sjá %[mayhap]%
 ejective n. þrýstihljóð; l. útkasts-, útkastandi
 chiropractor n. hnykkjari, hnykklæknir, kírópraktor
 pimply l. bólugrafinn
@@ -10632,3 +10634,17 @@ detainee n. fangi
 decouple s. aftengja, afkúpla
 storefront n. framhlið verslunar, götuhlið búðar, búðargafl
 downstream l. niður með á, neðar í á eða læk; ao. með straumnum
+anality n. þermi, endaþarmsblæti
+anally ao. í gegnum endaþarm
+impaled l. stjaksettur; rekinn í gegn
+jaywalk s. ganga yfir götu án tillits til umferðarreglna; ganga yfir götu á rauðu ljósi
+jaywalker n. e-r sem gengur yfir götu án tillits til umferðarreglna
+jaywalking n. ganga yfir götu án tillits til umferðarreglna
+canola n. repja (planta)
+loveable l. sjá %[lovable]%
+unlovable l. ekki ástúðlegur, óelskulegur; óelskanlegur
+unloveable l. sjá %[unlovable]%
+glitch n. galli; agnúi; truflun
+glitchy l. gallaður; óáreiðanlegur
+unduly ao. fram úr hófi, óhóflega, meira en góðu hófi gegnir
+undeservedly ao. ómaklega

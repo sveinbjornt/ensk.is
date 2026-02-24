@@ -1251,14 +1251,10 @@ judgemental
 bog-standard
 nutter
 aspirational
-unduly
-glitch
-glitchy
 soteriology
 unavailability
 tearfulness
 thoroughness
-unlovable
 reset
 buzzer
 escapist
@@ -2156,6 +2152,7 @@ indefinitely
 sporadically
 thinkability
 deregulatory
+embedded
 embeddedness
 multiparty
 Cistercian
@@ -2886,8 +2883,6 @@ ouija
 operator (endurskoða)
 clever (endurskoða)
 miraculously
-loveable
-unloveable
 simoon
 kibitz
 blotter
@@ -2898,13 +2893,8 @@ faux pas
 flypast
 choate
 kefir
-canola
 macroscopic
 macrobiotic
-mayhap
-jaywalk
-jaywalker
-jaywalking
 grody
 deliverable
 undeliverable
@@ -6016,5 +6006,28 @@ self-care
 madras
 cortina
 allyship
-impaled
 blurring
+thermite
+dox
+testability
+maintainability
+burka
+burqa
+hajib
+haram
+jihadist
+codec
+ekphrasis
+ekphrastic
+skeevy
+skeeve
+bugonia
+nosiness
+nosy (endurskoða)
+nosey
+stripping
+flatteringly
+anabolic
+colophony
+baddies
+conman
