@@ -43,10 +43,9 @@ from fastapi_mcp import FastApiMCP
 from starlette.middleware.base import BaseHTTPMiddleware
 from starlette.responses import JSONResponse
 
-from info import PROJECT
 from routes import web_router, api_router, static_router
 from routes.core import TemplateResponse
-from settings import settings
+from settings import settings, PROJECT
 
 
 # Create app

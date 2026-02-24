@@ -50,7 +50,7 @@ import subprocess
 from xml.sax.saxutils import escape
 
 from util import zip_file
-from info import PROJECT
+from settings import PROJECT
 
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))

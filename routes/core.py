@@ -14,7 +14,7 @@ import orjson
 from db import EnskDatabase
 from dict import CATEGORIES
 from util import is_ascii, read_wordlist
-from info import PROJECT
+from settings import PROJECT
 
 
 # Custom JSON response class that uses ultrafast orjson for serialization

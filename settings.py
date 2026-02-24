@@ -36,7 +36,30 @@ Shared settings.
 
 """
 
+from enum import StrEnum
+
 from pydantic_settings import BaseSettings, SettingsConfigDict
+
+
+# Shared metadata and constants for the project
+class PROJECT(StrEnum):
+    NAME = "Ensk.is"
+    DESCRIPTION = "Opin og frjáls ensk-íslensk orðabók"
+    DESCRIPTION_EN = "Free and open English-Icelandic dictionary"
+    DESCRIPTION_SHORT = "Ensk-íslensk orðabók"
+    DESCRIPTION_SHORT_EN = "English-Icelandic dictionary"
+    VERSION = "1.0"
+    LICENSE = "Public domain"
+    EDITOR = "Sveinbjörn Þórðarson"
+    EMAIL = "sveinbjorn@sveinbjorn.org"
+    BASE_URL = "https://ensk.is"
+    BASE_DATA_FILENAME = "ensk.is"
+    STATIC_FILES_PATH = "static/files/"
+    REPO_URL = "https://github.com/sveinbjornt/ensk.is"
+
+    DICT_NAME = "Ensk-íslensk orðabók"
+    DICT_AUTHORS = "Sveinbjörn Þórðarson og Geir T. Zoëga"
+    DICT_KEYWORDS = "dictionary,english,icelandic,orðabók,enska,íslenska"
 
 
 class Settings(BaseSettings):

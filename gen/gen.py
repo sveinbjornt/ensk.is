@@ -63,7 +63,7 @@ from dict import (  # noqa: E402
 )
 from db import EnskDatabase, DB_FILENAME  # noqa: E402
 from util import zip_file, read_json, silently_remove  # noqa: E402
-from info import PROJECT  # noqa: E402
+from settings import PROJECT  # noqa: E402
 
 
 EntryType = tuple[str, str, str, str, str, int, int, str, str]

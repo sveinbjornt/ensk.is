@@ -42,8 +42,8 @@ from .core import (
     SEARCH_CACHE_SIZE,
     SMALL_CACHE_SIZE,
 )
-from info import PROJECT
 from dict import unpack_definition
+from settings import PROJECT
 from util import (
     icelandic_human_size,
     perc,
