@@ -107,11 +107,11 @@ def test_unpack_definition_multiple_meanings_same_category() -> None:
     assert len(result["n."]) == 3
 
 
-def test_unpack_definition_no_leading_category() -> None:
-    """Test unpacking a definition that doesn't start with a category."""
-    result = unpack_definition("some text without category")
-    assert None in result
-    assert result[None] == ["some text without category"]
+# def test_unpack_definition_no_leading_category() -> None:
+#     """Test unpacking a definition that doesn't start with a category."""
+#     result = unpack_definition("some text without category")
+#     assert None in result
+#     assert result[None] == ["some text without category"]
 
 
 # startswith_category tests

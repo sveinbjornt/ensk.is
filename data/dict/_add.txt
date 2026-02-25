@@ -186,6 +186,9 @@ reload s. endurhlaða
 handbag n. handtaska
 barcode n. strikamerki
 photosynthesis n. ljóstillífun
+photosynthetic l. ljóstillífunar-
+chemosynthesis n. efnatillífun
+chemosynthetic l. efnatillífunar-
 secularism n. veraldarhyggja (lögmálið að ríkisvald eigi að vera aðskilið frá trúfélögum)
 secularist n. veraldarhyggjusinni, veraldarhyggjumaður; sjá %[secularism]%
 press release n. fréttatilkynning; [he sent out a ~] hann sendi frá sér fréttatilkynningu
@@ -1506,6 +1509,7 @@ iconoclastic l. táknmyndabrjótandi, helgimyndabrjótandi
 iconoclasm n. helgimyndabrot; trúarskoðun innan kristindóms
 iconography n. táknmyndafræði; táknmyndalist; helgimyndafræði
 iconographic l. táknmyndafræðilegur, táknmyndalegur; helgimyndafræðilegur
+iconology n. sjá %[iconography]%
 nighthawk n. nátthrafn, náttfari
 nightclub n. næturklúbbur, skemmtistaður
 nightstand n. náttborð
@@ -3080,6 +3084,7 @@ woodpecker n. spæta (fugl)
 self-governance n. sjálfstjórn
 ruble n. rúbla (rússneskur gjaldmiðill, 100 kópekar)
 jihad n. heilagt stríð (múslíma)
+jihadist n. heilagur stríðsmaður (múslíma)
 deliveryman n. sendill
 dogsbody n. þjónn, hjálparhella
 salmonella n. salmonella, bifstafur
@@ -10608,7 +10613,7 @@ moral excellence n. siðgæði, siðferðislegt ágæti
 understructure n. undirbygging, stoðir
 facial expression n. andlitssvipur
 radix n. rót, grunntala, stofntala
-flowering l. blómstrandi, blómgandi, í blóma
+flowering l. blómstrandi, blómgandi, í blóma; n. blómstrun, blómgun
 butternut n. smjörhneta
 seism n. skjálfti, jarðskjálfti
 canned l. niðursoðinn, settur í dós; [~ goods] niðursoðin matvæli; rekinn úr starfi ([he got ~])
@@ -10648,3 +10653,16 @@ glitch n. galli; agnúi; truflun
 glitchy l. gallaður; óáreiðanlegur
 unduly ao. fram úr hófi, óhóflega, meira en góðu hófi gegnir
 undeservedly ao. ómaklega
+cockatiel n. e.k. páfagaukur
+soap opera n. sápuópera
+anabolic l. vefaukandi
+testability n. prófanleiki, prófunarhæfni
+maintainability n. viðhaldsþægni
+unsee s. afsjá
+bookie n. sjá %[bookmaker]% (stytt.)
+bookmaker n. veðmangari
+echidna n. mjónefur, maurígull (ástralskt spendýr)
+drainpipe n. niðurfall, frárennslisrör
+biosynthesis n. tillífun
+ekphrasis n. myndlýsing, myndskýring
+smart device n. snjalltæki
