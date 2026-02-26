@@ -3264,8 +3264,6 @@ gyrus
 goofy
 Impressionist
 Impressionism
-flattering
-unflattering
 responsibly
 theophanic
 preconceived
@@ -5757,8 +5755,6 @@ layabout
 dreidel
 urge (endurskoða)
 deviled
-chignon
-cheerily
 delassation
 drunkenly
 squiggly
@@ -5812,7 +5808,6 @@ versificator
 scranch
 scraunch
 septicidal
-master copy
 unmake (endurskoða)
 case-by-case
 chilling
@@ -5822,7 +5817,6 @@ enhancement (endurskoða)
 jammer
 jamming
 engrammic
-ngram
 limpide
 autofiction
 dismantled
@@ -5849,10 +5843,7 @@ raincheck
 whence (endurskoða)
 blood brother
 tchotchke
-affronted
 buster
-suntan
-suntanned
 noncombustible
 hemicrania
 micturate
@@ -5881,7 +5872,6 @@ disparager
 knocker (endurskoða)
 bell-end
 vibey
-haltingly
 lidocaine
 dietic
 despondently
@@ -5889,7 +5879,6 @@ pitocin
 canalized
 cathodic
 drapetomania
-exhibitionism
 polling (endurskoða)
 statin
 woodchipper
@@ -5940,8 +5929,6 @@ ward (endurskoða)
 fair (endurskoða)
 fairish
 bonnie
-evenhanded
-evenhandedly
 executing
 safekeeping
 balminess
@@ -5961,19 +5948,14 @@ pocked
 tuned
 attuned
 regressivity
-halfling
-birdhouse
 dispell
 dispelled
 parasocial
 stakeout
 takeout
 fresher
-nucleotide
-meanspirited
 grounding
 verbalism
-viveur
 shakiness
 temblor
 hardboiled
@@ -6008,8 +5990,6 @@ burka
 burqa
 hajib
 haram
-codec
-ekphrasis
 ekphrastic
 skeevy
 skeeve
@@ -6018,12 +5998,11 @@ nosiness
 nosy
 nosey (endurskoða)
 stripping
+unflattering
 flatteringly
 colophony
 baddies
-conman
 tribalism (endurskoða)
-inamorato
 masochistically
 Byronic
 turn-on
@@ -6036,3 +6015,6 @@ biocide
 contagiousness
 stratified
 anemic (endurskoða)
+unsee
+strobe
+eclectically

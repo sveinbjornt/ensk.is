@@ -5193,7 +5193,8 @@ hydrated l. vatnaður, vatnshaldinn, vökvaður
 hydration n. vötnun, vökvun
 dehydrated l. afvatnaður, þurrkaður
 externalization n. úthverfing (sjá %[externalize]%)
-externalize s. gera ytri, utanverðan, setja fyrir utan; úthverfa
+externalisation n. sjá %[externalization]%
+externalize s. gera ytri, utanverðan, setja fyrir utan; úthverfa; útvista
 hitman n. leigumorðingi
 decisively ao. á afgerandi hátt, á einbeittan hátt
 pathologize s. sjúkdómsvæða
@@ -10635,7 +10636,7 @@ anaphoric l. endurvísandi
 dochter n. sjá %[daughter]% (skoskt)
 tawdriness n. glingur, smekkleysi, ósmekklegheit
 odontoma n. tannæxli
-detainee n. fangi
+detainee n. gæslufangi, handtekin manneskja
 decouple s. aftengja, afkúpla
 storefront n. framhlið verslunar, götuhlið búðar, búðargafl
 downstream l. niður með á, neðar í á eða læk; ao. með straumnum
@@ -10658,7 +10659,6 @@ soap opera n. sápuópera
 anabolic l. vefaukandi
 testability n. prófanleiki, prófunarhæfni
 maintainability n. viðhaldsþægni
-unsee s. afsjá
 bookie n. sjá %[bookmaker]% (stytt.)
 bookmaker n. veðmangari
 echidna n. mjónefur, maurígull (ástralskt spendýr)
@@ -10666,3 +10666,29 @@ drainpipe n. niðurfall, frárennslisrör
 biosynthesis n. tillífun
 ekphrasis n. myndlýsing, myndskýring
 smart device n. snjalltæki
+backchat n. skætingur, óskammfeilið svar
+glans n. reðurkóngur ([~ penis])
+inamorato n. elskhugi, friðill (úr ítölsku)
+conman n. sjá %[con man]%
+baddie n. vondur karl, vond manneskja (í skáldverki)
+flattering l. smjaðrandi, skjallandi; sem kitlar hégómagirnd; sem fer manni vel
+evenhanded l. óvilhallur, óhlutdrægur, réttlátur
+evenhandedly ao. á óvilhallan hátt, á réttlátan hátt
+nucleotide n. kirni
+viveur n. lífsnautnamaður ([bon ~])
+fast food n. skyndibiti
+birdhouse n. fuglahús
+halfling n. hobbiti, hálfmenni (í ævintýrum J. R. R. Tolkien)
+exhibitionism n. strípihneigð; sýndarmennska
+haltingly ao. hikandi, á hikandi hátt; með trega
+suntan n. sólbrúnka
+suntanned l. sólbrúnn
+affronted l. smánaður; móðgaður
+n-gram n. n-stæða (í máltækni)
+ngram n. sjá %[n-gram]%
+master copy n. frumeintak
+cheerily ao. glaðværlega, hressilega, með gleði
+chignon n. hárhnútur við hnakka, hnakkahnútur
+codec n. víxlbreytir, kódek
+disparagingly ao. óvirðulega, á hátt sem niðrar ([to speak ~ of])
+perplexed l. ráðvilltur, ráðalaus, ruglaður
