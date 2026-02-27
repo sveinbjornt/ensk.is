@@ -3,53 +3,54 @@ Ensk.is
 Web routes
 """
 
-import aiofiles
-import aiofiles.os
-from datetime import datetime
 import logging
 import random
 import re
+from datetime import datetime
 
-from fastapi import APIRouter, Request, HTTPException
-from fastapi.responses import Response, RedirectResponse
+import aiofiles
+import aiofiles.os
+from fastapi import APIRouter, HTTPException, Request
+from fastapi.responses import RedirectResponse, Response
 
-from .core import (
-    TemplateResponse,
-    cached_results,
-    KNOWN_MISSING_WORDS,
-    DEFAULT_SEARCH_LIMIT,
-    num_entries,
-    all_words,
-    all_words_set,
-    original_entries,
-    num_original_entries,
-    additional_entries,
-    num_additional_entries,
-    nonascii_entries,
-    num_nonascii_entries,
-    multiword_entries,
-    num_multiword_entries,
-    capitalized_entries,
-    num_capitalized_entries,
-    duplicate_entries,
-    num_duplicate_entries,
-    num_no_uk_ipa_entries,
-    num_no_us_ipa_entries,
-    num_no_page_entries,
-    metadata,
-    CAT2ENTRIES,
-    CAT_TO_NAME,
-    SEARCH_CACHE_SIZE,
-    SMALL_CACHE_SIZE,
-)
 from dict import unpack_definition
 from settings import PROJECT
 from util import (
+    cache_response,
     icelandic_human_size,
     perc,
     sing_or_plur,
-    cache_response,
     strip_html_from_string,
+)
+
+from .core import (
+    CAT2ENTRIES,
+    CAT_TO_NAME,
+    DEFAULT_SEARCH_LIMIT,
+    KNOWN_MISSING_WORDS,
+    SEARCH_CACHE_SIZE,
+    SMALL_CACHE_SIZE,
+    TemplateResponse,
+    additional_entries,
+    all_words,
+    all_words_set,
+    cached_results,
+    capitalized_entries,
+    duplicate_entries,
+    metadata,
+    multiword_entries,
+    nonascii_entries,
+    num_additional_entries,
+    num_capitalized_entries,
+    num_duplicate_entries,
+    num_entries,
+    num_multiword_entries,
+    num_no_page_entries,
+    num_no_uk_ipa_entries,
+    num_no_us_ipa_entries,
+    num_nonascii_entries,
+    num_original_entries,
+    original_entries,
 )
 
 # Create router

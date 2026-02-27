@@ -4,8 +4,8 @@ Tests for ensk.is utility functions.
 """
 
 import os
-import sys
 import shutil
+import sys
 import tempfile
 import zipfile
 

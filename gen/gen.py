@@ -37,34 +37,32 @@ Generate SQLite database + other files from raw dictionary text files.
 
 """
 
-import os
-import sys
-import inspect
-
 import csv
 import datetime
+import inspect
 import json as std_json
+import os
+import sys
 
-import sqlite_utils
 import nltk
+import sqlite_utils
 
 currentdir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))  # type: ignore
 parentdir = os.path.dirname(currentdir)
 sys.path.insert(0, parentdir)
 
 
+from db import DB_FILENAME, EnskDatabase  # noqa: E402
 from dict import (  # noqa: E402
-    read_pages,
-    parse_line,
+    antonyms_for_word,
     page_for_word,
+    parse_line,
+    read_pages,
     syllables_for_word,
     synonyms_for_word,
-    antonyms_for_word,
 )
-from db import EnskDatabase, DB_FILENAME  # noqa: E402
-from util import zip_file, read_json, silently_remove  # noqa: E402
 from settings import PROJECT  # noqa: E402
-
+from util import read_json, silently_remove, zip_file  # noqa: E402
 
 EntryType = tuple[str, str, str, str, str, int, int, str, str]
 EntryList = list[EntryType]

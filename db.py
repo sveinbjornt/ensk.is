@@ -37,13 +37,12 @@ Dictionary database singleton.
 
 """
 
-import os
 import logging
+import os
 import sqlite3
 from pathlib import Path
 
 from dict import CATEGORIES
-
 
 DB_FILENAME = "dict.db"
 CACHED_STATEMENTS = 1024

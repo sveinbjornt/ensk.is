@@ -46,9 +46,8 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")
 import re
 import time
 
-from dict import read_raw_pages, parse_line, read_all_words
-from util import read_wordlist, read_json
-
+from dict import parse_line, read_all_words, read_raw_pages
+from util import read_json, read_wordlist
 
 IS_WORDS_WHITELIST = frozenset(read_wordlist("data/is.whitelist.txt"))
 
@@ -225,7 +224,7 @@ def check_icelandic_words(line: str, pn: str, ln: int):
     """Inspect all Icelandic words in definition, make sure that
     they are present in modern Icelandic vocabulary (BÍN)."""
     from islenska import Bin
-    from tokenizer import tokenize, TOK
+    from tokenizer import TOK, tokenize
 
     (_, definition) = parse_line(line)
 

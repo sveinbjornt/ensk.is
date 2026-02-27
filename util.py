@@ -36,20 +36,19 @@ Various utility functions.
 
 """
 
-from typing import Any
-
-import os
 import asyncio
-from pathlib import Path
-import zipfile
+import os
+import re
 import shutil
-from os.path import exists
-from cachetools.keys import hashkey
+import zipfile
 from collections import OrderedDict
 from functools import wraps
-import re
+from os.path import exists
+from pathlib import Path
+from typing import Any
 
 import orjson
+from cachetools.keys import hashkey
 
 
 def read_wordlist(fn: str, unique: bool = True) -> list[str]:
