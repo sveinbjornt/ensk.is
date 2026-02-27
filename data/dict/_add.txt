@@ -6147,7 +6147,7 @@ speeding n. hraðakstur, ofsaakstur, akstur yfir hámarkshraða
 hyphenated l. (ritaður) með bandstriki
 onboarding n. byrðing (t.d. flugvélar eða báts); grunnþjálfun nýliða (t.d. í fyrirtæki)
 cramped l. stappaður, troðfylltur, troðinn (um rými eða atburð, t.d. kvikmyndasalur, tónleikar); skortur á athafnafrelsi (vegna plássleysis)
-klutz n. klaufi
+klutz n. klaufi (BNA)
 toned l. skorinn (um ásýnd líkama, þar sem sést móta fyrir vöðvum)
 budding l. blómstrandi, á uppleið (frami einhvers)
 asexual l. ókynhneigður, með skertan kynferðislegan áhuga
@@ -10602,8 +10602,8 @@ nucleosynthesis n. kjarnamyndun frumeinda (í eðlisfræði)
 vexing l. ergjandi, ertandi, pirrandi, leiðinlegur (sjá %[vex]%)
 unnumerable l. óteljandi, sem ekki verður talið, sjá %[innumerable]%
 whoreson n. hórusonur, skækjusonur
-skank n. skækja, drusla
-skanky l. skækjulegur, druslulegur
+skank n. drusla (um konu, niðrandi)
+skanky l. druslulegur (um konu, niðrandi)
 repelling l. fráhrindandi
 malevolency n. sjá %[malevolence]%
 malevolently ao. af illum vilja, af meinfýsni
@@ -10678,7 +10678,7 @@ nucleotide n. kirni
 viveur n. lífsnautnamaður ([bon ~])
 fast food n. skyndibiti
 birdhouse n. fuglahús
-halfling n. hobbiti, hálfmenni (í ævintýrum J. R. R. Tolkien)
+halfling n. hobbiti, stuttlingur (í ævintýrum J. R. R. Tolkien)
 exhibitionism n. strípihneigð; sýndarmennska
 haltingly ao. hikandi, á hikandi hátt; með trega
 suntan n. sólbrúnka
@@ -10692,3 +10692,5 @@ chignon n. hárhnútur við hnakka, hnakkahnútur
 codec n. víxlbreytir, kódek
 disparagingly ao. óvirðulega, á hátt sem niðrar ([to speak ~ of])
 perplexed l. ráðvilltur, ráðalaus, ruglaður
+oddly ao. undarlega, skringilega, einkennilega
+harmoniousness n. samræmi, samhljóðan; hljómfegurð; samlyndi

@@ -466,9 +466,9 @@ pectoral l. brjóst-; mýkjandi fyrir brjóstið; n. brjóstlyf; eyruggi ([~ fin
 peculate s. draga sér fé með svikum
 peculation n. fjárdráttur, fjársvik, stuldur úr sjálfs síns hendi
 peculator n. fjárdráttarmaður
-peculiar l. einkennilegur ([~ flavour, people]); sérstakur, sérstaklegur ([of ~ interest])
+peculiar l. einkennilegur ([~ flavour, people]); sérstakur, sérstaklegur ([of ~ interest]); furðulegur
 peculiarity n. einkenni; einkennileiki
-peculiarly ao. á sérstaklegan hátt; sérstaklega ([~ annoying]); einkennilega, skringilega
+peculiarly ao. á sérstaklegan hátt; sérstaklega ([~ annoying]); einkennilega, skringilega, furðulega
 pecuniary l. peningalegur, peninga- ([~ difficulties])
 pedagogic l. uppfræðslu-, uppeldislegur
 pedagogics nft. uppeldisfræði
@@ -726,7 +726,7 @@ persistency n. stöðugleiki; áframhald; þrákelkni, harðfylgi, seigla
 persistent l. þrálátur; þolgóður; fastur; stöðugur; varanlegur
 persisting l. þrálátur; þolgóður; fastur; stöðugur; varanlegur
 person n. persóna, maður; líkamsvöxtur; [in ~] sjálfur; [his own ~] hann sjálfur; [your ~] þér sjálfur
-personable l. viðkunnanlegur, góður félagsskapur; vel vaxinn, laglegur
+personable l. viðkunnanlegur, geðugur, geðþekkur, góður félagsskapur; vel vaxinn, laglegur
 personage n. tiginn maður ([an illustrious ~]); persóna ([a mythological ~])
 personal l. persónulegur; líkamlegur; ytri; nærgöngull, ófyrirleitinn; [~ property, ~ goods] lausafé
 personality n. persónuleiki
