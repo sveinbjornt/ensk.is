@@ -47,7 +47,6 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")
 from db import EnskDatabase
 from util import read_wordlist
 
-
 # Path to wordlist file can be specified as first argument
 WORDLIST_PATH = "data/wordlists/wiki-100k.txt"
 if len(sys.argv) > 1:

@@ -43,15 +43,14 @@ import sys
 # Add project root to sys.path
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
-from typing import Any
-import shutil
 import datetime
+import shutil
 import subprocess
+from typing import Any
 from xml.sax.saxutils import escape
 
-from util import zip_file
 from settings import PROJECT
-
+from util import zip_file
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DICT_DEV_KIT_PATH = os.path.join(BASE_DIR, "macos/Dictionary Development Kit")

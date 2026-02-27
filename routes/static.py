@@ -4,10 +4,9 @@ Static resource routes
 """
 
 from fastapi import APIRouter, Request
-from fastapi.responses import RedirectResponse, FileResponse
+from fastapi.responses import FileResponse, RedirectResponse
 
 from util import cache_response
-
 
 router = APIRouter()
 

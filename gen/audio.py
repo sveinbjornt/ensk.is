@@ -41,10 +41,10 @@ import sys
 # Add project root to sys.path
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
-from os.path import exists
-from pathlib import Path
 import shutil
 import subprocess
+from os.path import exists
+from pathlib import Path
 
 from dict import read_all_words
 

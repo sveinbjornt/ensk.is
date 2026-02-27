@@ -3,18 +3,18 @@ Ensk.is
 Core utilities and shared data for routes
 """
 
-from typing import Any
-from functools import lru_cache
 import re
+from functools import lru_cache
+from typing import Any
 
+import orjson
 from fastapi.responses import JSONResponse as FastAPIJSONResponse
 from fastapi.templating import Jinja2Templates
-import orjson
 
 from db import EnskDatabase
 from dict import CATEGORIES
-from util import is_ascii, read_wordlist
 from settings import PROJECT
+from util import is_ascii, read_wordlist
 
 
 # Custom JSON response class that uses ultrafast orjson for serialization

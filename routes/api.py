@@ -5,21 +5,22 @@ API routes
 
 from fastapi import APIRouter, Request
 
-from .core import (
-    JSONResponse,
-    cached_results,
-    err_resp,
-    SEARCH_CACHE_SIZE,
-    SMALL_CACHE_SIZE,
-    CAT_TO_NAME,
-    metadata,
-)
 from dict import unpack_definition
 from util import (
     cache_response,
+    read_json,
     strip_html_from_string,
     strip_parentheses_from_string,
-    read_json,
+)
+
+from .core import (
+    CAT_TO_NAME,
+    SEARCH_CACHE_SIZE,
+    SMALL_CACHE_SIZE,
+    JSONResponse,
+    cached_results,
+    err_resp,
+    metadata,
 )
 
 # Create router

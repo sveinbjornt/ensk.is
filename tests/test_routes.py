@@ -3,12 +3,11 @@
 Test ensk.is web application routes
 """
 
-from typing import Any
-from unittest.mock import patch
-
 import os
 import sys
 from http import HTTPStatus
+from typing import Any
+from unittest.mock import patch
 
 from fastapi.testclient import TestClient
 

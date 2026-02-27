@@ -14,14 +14,13 @@ src_path = os.path.join(basepath, "..")
 sys.path.append(src_path)
 
 from dict import (  # noqa: E402
-    parse_line,
-    unpack_definition,
-    startswith_category,
-    is_not_name,
-    syllables_for_word,
     SYLLABLES_SEPARATOR,
+    is_not_name,
+    parse_line,
+    startswith_category,
+    syllables_for_word,
+    unpack_definition,
 )
-
 
 # parse_line tests
 

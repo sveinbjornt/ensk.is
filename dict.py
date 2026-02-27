@@ -45,7 +45,6 @@ import orjson
 
 from util import read_wordlist
 
-
 CATEGORIES = frozenset(read_wordlist("data/catwords.txt"))
 
 TXT_SUFFIX = ".txt"

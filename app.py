@@ -37,16 +37,15 @@ Ensk.is FastAPI web application.
 
 import logging
 
-from fastapi import FastAPI, Request, HTTPException
+from fastapi import FastAPI, HTTPException, Request
 from fastapi.staticfiles import StaticFiles
 from fastapi_mcp import FastApiMCP
 from starlette.middleware.base import BaseHTTPMiddleware
 from starlette.responses import JSONResponse
 
-from routes import web_router, api_router, static_router
+from routes import api_router, static_router, web_router
 from routes.core import TemplateResponse
-from settings import settings, PROJECT
-
+from settings import PROJECT, settings
 
 # Create app
 app = FastAPI(
@@ -199,8 +198,9 @@ mcp.mount_http()
 
 # CLI invocation
 if __name__ == "__main__":
-    import uvicorn
     from argparse import ArgumentParser
+
+    import uvicorn
 
     parser = ArgumentParser()
     parser.add_argument("--host", default=settings.web_app_host, type=str)
