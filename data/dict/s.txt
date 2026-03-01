@@ -11,7 +11,7 @@ sacerdotal l. prestlegur
 sacerdotalism n. klerkaveldi
 sack n. sekkur, poki; [to get the ~] vera rekinn; rán ([the ~ of Troy]); s. láta í poka; reka úr starfi; eyða, herja á; ræna (hertekinn bæ)
 sackcloth n. pokastrigi
-sacking n. pokastrigi
+sacking n. pokastrigi; brottrekstur úr starfi, uppsögn; rán borgar ([the ~ of Troy])
 sackbut n. e.k. lúður
 sacrament n. (kvöldmáltíðar)sakramenti
 sacramental l. sakramentis-; heilagur ([~ obligation])
@@ -775,7 +775,7 @@ shake s. skaka, hrista; hagga; hristast, skjálfa; [~ hands] takast í hendur; t
 shakedown n. fjárkúgun; óvandað rúm, flatsæng
 shaker n. sá sem hristir (hristist)
 shaking n. hristingur, skjálfti
-shaky l. rifinn, með rifum (um við); skjálfandi, riðandi ([a ~ hand]); valtur; hrörlegur; óáreiðanlegur
+shaky l. rifinn, með rifum (um við); skjálfandi, riðandi ([a ~ hand]); valtur, óstöðugur, fallvaltur; hrörlegur; óáreiðanlegur
 shale n. hýði, belgur
 shall s. [I ~] ég skal; ég mun ([I ~ be back in an hour])
 shallop n. skúta, bátur
@@ -2468,8 +2468,8 @@ strategic l. herstjórnarlegur
 strategetics nft. hernaðarlist, herstjórnaríþrótt
 strategy n. hernaðarlist, herstjórnaríþrótt
 strath n. breiður fjalldalur
-stratification n. lagmyndun
-stratify s. leggja í lög
+stratification n. lagmyndun; lagskipting; stéttaskipting
+stratify s. lagskipta, leggja í lög
 stratum n. jarðlag
 straw n. strá, hálmstrá; hálmur
 strawberry n. jarðarber

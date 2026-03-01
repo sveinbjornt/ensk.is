@@ -926,8 +926,8 @@ inimitable l. óeftirlíkjanlegur; óviðjafnanlegur ([~ beauty])
 iniquitous l. ranglátur, rangur
 iniquity n. ranglæti, rangindi; misgerð
 initial l. byrjandi, byrjunar-; n. upphafsstafur
-initially ao. upphaflega, í byrjun
-initiate s. kenna frumatriðin ([~ in the elements of]); taka upp í félag ([~ into a society]); byrja
+initially ao. upphaflega, í byrjun, fyrst um sinn
+initiate s. byrja, hefja ([~ a fight]); kenna frumatriðin ([~ in the elements of]); taka upp í félag ([~ into a society])
 initiation n. byrjun; frumkennsla; vígsla
 initiative l. fyrstur, byrjunar-; n. byrjun; frumkvæði, frumkvæðisréttur ([to possess/have the ~])
 initiatory l. byrjunar-; [~ step] fyrsta stig
@@ -965,13 +965,13 @@ innovate s. nýskapa, koma með nýjungar; breyta; [~ on/upon] gera breytingu á
 innovation n. nýsköpun, nýbreytni
 innovator n. nýsköpunarmaður; breytingamaður
 innoxious l. meinlaus
-innuendo n. sneið, dylgjur
+innuendo n. dylgjur, aðdróttun, sneið
 innumerable l. óteljandi, ótölulegur ([an ~ crowd])
 innumerous l. óteljandi
 innutritious l. sem hefur ekkert eða lítið næringargildi
 innutritive l. sem hefur ekkert eða lítið næringargildi
-inobservance n. athugaleysi; hirðuleysi; brot (á e-u [of])
-inobservant l. athugalaus
+inobservance n. athugaleysi, vangáningur; hirðuleysi; brot (á e-u [of])
+inobservant l. athugalaus, aðgæslulaus
 inoccupation n. iðjuleysi
 inoculate s. bólusetja; gróðursetja viðargrein (í annað tré); koma e-u inn hjá e-m ([~ one with wisdom, bad spirits])
 inoculation n. bólusetning; gróðursetning
@@ -980,7 +980,7 @@ inodorous l. þeflaus, lyktarlaus ([an ~ liquor])
 inoffensive l. meinlaus, skaðlaus
 inofficial l. óformlegur; óembættislegur
 inoperative l. áhrifalaus; ógildur
-inopportune l. óhentugur
+inopportune l. óhentugur; óheppilegur; ótímabær
 inordinate l. óhóflegur; óreglulegur; óreglusamur
 inorganic l. ólífrænn ([~ matter]); líffæralaus
 inornate l. óbreyttur, látlaus, óskreyttur
@@ -993,7 +993,7 @@ inquisitive l. spurull, forvitinn
 inquisitiveness n. forvitni
 inquisitor n. rannsóknardómari; rannsóknari
 inquisitorial l. rannsóknarlegur
-inroad n. árás, áhlaup
+inroad n. árás, áhlaup; ágangur, ásókn ([we've made ~s in the Scottish market])
 insalubrious l. óheilnæmur; óhollur ([~ climate])
 insalubrity n. óheilnæmi, óhollusta
 insane l. geðveikur, geðbilaður; sturlaður; vitskertur

@@ -5899,7 +5899,7 @@ epigenetics n. umframerfðir, hjáerfðir
 ergo ao. þar af leiðandi, þess vegna
 morphological l. myndunarfræðilegur (sjá %[morphology]%)
 anaemic l. blóðlaus
-anemic l. blóðlaus
+anemic l. sjá %[anaemic]%
 engorgement n. offylli; hám; blóðsókn
 progesterone n. prógesterón (meðgönguhormón)
 rigidly ao. stirðlega; stranglega; harðlega
@@ -10664,7 +10664,7 @@ bookmaker n. veðmangari
 echidna n. mjónefur, maurígull (ástralskt spendýr)
 drainpipe n. niðurfall, frárennslisrör
 biosynthesis n. tillífun
-ekphrasis n. myndlýsing, myndskýring
+ekphrasis n. myndlýsing, myndskýring (listaverks)
 smart device n. snjalltæki
 backchat n. skætingur, óskammfeilið svar
 glans n. reðurkóngur ([~ penis])
@@ -10680,7 +10680,8 @@ fast food n. skyndibiti
 birdhouse n. fuglahús
 halfling n. hobbiti, stuttlingur (í ævintýrum J. R. R. Tolkien)
 exhibitionism n. strípihneigð; sýndarmennska
-haltingly ao. hikandi, á hikandi hátt; með trega
+haltingly ao. höktandi, hikandi, á hikandi hátt; með trega
+unhaltingly ao. óhöktandi, óhikandi
 suntan n. sólbrúnka
 suntanned l. sólbrúnn
 affronted l. smánaður; móðgaður
@@ -10694,3 +10695,25 @@ disparagingly ao. óvirðulega, á hátt sem niðrar ([to speak ~ of])
 perplexed l. ráðvilltur, ráðalaus, ruglaður
 oddly ao. undarlega, skringilega, einkennilega
 harmoniousness n. samræmi, samhljóðan; hljómfegurð; samlyndi
+initials nft. upphafsstafir
+ménage n. húshald, heimilishald
+menage n. sjá %[ménage]%
+menagerie n. dýragarður, dýrasafn; fjölbreyttur hópur
+stratified l. lagskiptur; stéttaskiptur
+shakiness n. skjálfti; óstöðugleiki, fallvaltleiki
+stakeout n. eftirlit (lögreglu) úr launsátri
+flagellum n. svipa
+xylem n. viðarvefur
+rebelliousness n. uppreisnargirni; þrálæti
+fertilized l. frjóvgaður; áborinn (í landbúnaði)
+bumfluff n. skegghýjungur (breskt slangur)
+berserk n. berserkur; [go ~] ganga berserksgang, taka æðiskast
+undertunic n. undirkyrtill
+craftwork n. listiðn; handverk
+craftworker n. listiðnaðarmaður; handverksmaður
+personhood n. mannverund, mennska
+smoothie n. ávaxtadrykkur, hristingur; mjúkmáll eða sléttmáll maður
+perceptiveness n. eftirtektarsemi, skarpskyggni, glöggsæi
+clerkship n. ritarastarf, ritarastaða
+kindling n. sprek, uppkveikja
+steadfastly ao. staðfastlega
