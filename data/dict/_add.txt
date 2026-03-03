@@ -2840,7 +2840,7 @@ tyrannosaurus n. grameðla (risaeðlutegund)
 stegosaurus n. kambeðla (risaeðlutegund)
 velociraptor n. snareðla (risaeðlutegund)
 belligerence n. stríðsgirni, deilugirni, ófriðsemi
-belligerency n. stríðsgirni, deilugirni, ófriðsemi
+belligerency n. sjá %[belligerence]%
 geranium n. e.k. blágresi
 sepulchre n. gröf, grafhvelfing
 coup n. valdarán (úr frönsku [coup d'état])
@@ -4961,6 +4961,7 @@ hello uh. halló, sæll, blessaður; [say ~] heilsa (upp á)
 hullo uh. halló, sæll, blessaður
 hi uh. hæ, sæll, blessaður; [say ~] heilsa (upp á)
 aesthete n. fagurkeri
+esthete n. sjá %[aesthete]%
 epizootic l. faralds-, farsóttar-, sem sýkir dýr sömu tegundar
 intergroup l. millihópa-, milli hópa ([~ rivalry, warfare])
 seawater n. sjór, sjávarvatn
@@ -9837,7 +9838,7 @@ acidosis n. blóðsýring
 madwoman n. óð kona, vitstola kona (sbr. %[madman]%)
 ataraxia n. sálarró, hugarró
 stranded l. strandaður, sem rekið hefur á land
-spiel n. kjaftæði, mas, málæði (BNA, óforml.); [same old ~] sama gamla þulan
+spiel n. kjaftæði, mas, málæði, þula (BNA, óforml.); [same old ~] sama gamla þulan
 bedamn s. bölva, formæla
 margarita n. margaríta (kokteill)
 blunted l. gerður bitlaus, sljóvgður, deyfður
@@ -10678,7 +10679,7 @@ nucleotide n. kirni
 viveur n. lífsnautnamaður ([bon ~])
 fast food n. skyndibiti
 birdhouse n. fuglahús
-halfling n. hobbiti, stuttlingur (í ævintýrum J. R. R. Tolkien)
+halfling n. hobbiti, stuttlingur (í ævintýrum J. R. R. Tolkiens)
 exhibitionism n. strípihneigð; sýndarmennska
 haltingly ao. höktandi, hikandi, á hikandi hátt; með trega
 unhaltingly ao. óhöktandi, óhikandi
@@ -10691,10 +10692,10 @@ master copy n. frumeintak
 cheerily ao. glaðværlega, hressilega, með gleði
 chignon n. hárhnútur við hnakka, hnakkahnútur
 codec n. víxlbreytir, kódek
-disparagingly ao. óvirðulega, á hátt sem niðrar ([to speak ~ of])
+disparagingly ao. óvirðulega, á hátt sem niðrar eða talar niður ([to speak ~ of])
 perplexed l. ráðvilltur, ráðalaus, ruglaður
-oddly ao. undarlega, skringilega, einkennilega
-harmoniousness n. samræmi, samhljóðan; hljómfegurð; samlyndi
+oddly ao. undarlega, skringilega, einkennilega, furðulega, kynlega
+harmoniousness n. samræmi, samhljóðan; hljómfegurð, harmónía (sjá %[harmony]%); samlyndi
 initials nft. upphafsstafir
 ménage n. húshald, heimilishald
 menage n. sjá %[ménage]%
@@ -10704,17 +10705,21 @@ shakiness n. skjálfti; óstöðugleiki, fallvaltleiki
 stakeout n. eftirlit (lögreglu) úr launsátri
 flagellum n. svipa
 xylem n. viðarvefur
-rebelliousness n. uppreisnargirni; þrálæti
+rebelliousness n. uppreisnargirni, uppreisnarsemi
 fertilized l. frjóvgaður; áborinn (í landbúnaði)
 bumfluff n. skegghýjungur (breskt slangur)
 berserk n. berserkur; [go ~] ganga berserksgang, taka æðiskast
 undertunic n. undirkyrtill
 craftwork n. listiðn; handverk
 craftworker n. listiðnaðarmaður; handverksmaður
-personhood n. mannverund, mennska
-smoothie n. ávaxtadrykkur, hristingur; mjúkmáll eða sléttmáll maður
+personhood n. mennska, mannverund
+smoothie n. ávaxtadrykkur; hristingur (drykkur); mjúkmáll eða sléttmáll maður ([oh, you old ~!])
 perceptiveness n. eftirtektarsemi, skarpskyggni, glöggsæi
 clerkship n. ritarastarf, ritarastaða
 kindling n. sprek, uppkveikja
 steadfastly ao. staðfastlega
 overstatement n. ýkjur
+triquetrum n. strýtubein
+bathymetry n. dýptarmælingar, dýptarmælingafræði
+catamaran n. tvíbytna, tvíbolungur (seglbátur með tvo samtengda skrokka)
+battered l. barinn; lemstraður; beyglaður; skemmdur, skaddaður; illa farinn

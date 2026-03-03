@@ -6,7 +6,7 @@ habit n. ástand; vani; búningur; [to be in the ~ of] vera vanur; s. klæða
 habitable l. byggilegur
 habitancy n. dvöl; íbúatala, íbúar
 habitant n. íbúi
-habitat n. vaxtarstaður (plöntu), heimkynni
+habitat n. búsvæði, heimkynni, vaxtarstaður (plöntu)
 habitation n. bústaður
 habitual l. vanalegur
 habituate s. venja (við [to])
@@ -19,9 +19,9 @@ hackney n. leiguhestur; reiðhestur
 hackney coach n. leiguvagn
 hackneyed l. hversdagslegur, margstaglaður, margsvældur
 haddock n. ýsa
-haemorrhoids nft. %[hemorrhoids]%
+haemorrhoids nft. sjá %[hemorrhoids]%
 haft n. skaft, skefti, hefti; s. skefta (hníf, öxi)
-hag n. galdranorn
+hag n. galdranorn, norn, skass, herfa, kerling
 haggard l. villtur, tryllingslegur; horaður
 haggardly ao. tryllingslega ([his eyes stared ~])
 haggle s. prútta, þrefa um verð; höggva til skemmda
@@ -60,7 +60,7 @@ halfpenny n. hálfpeningur (1/2 penny)
 half-price n. hálfvirði
 half seas over l. kominn hálfa leið; hálfdrukkinn
 half tide n. hálffallinn sjór
-halfway ao. á miðri leið; hálfvegis
+halfway ao. á miðri leið; hálfvegis, hálfa leið
 half-witted l. hálfvitalegur, fábjánalegur, heimskur
 halibut n. lúða, flyðra
 hall n. forstofa, forsalur ([dining-~]); þingstofa; samkomuhús; höfðingjasetur ([baronial ~])

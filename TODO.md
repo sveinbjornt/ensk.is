@@ -10,16 +10,15 @@
 * [ ] Find IPA phonetic spelling for *all* words via Wiktionary
 * [ ] Add data to Wiktionary
 * [ ] Feedback mechanism for missing words
-* [ ] Separate exact match from partial matches visually
-* [ ] Mobile app? Packaged Web Application with local fallback?
 * [ ] Add step to verify.py: check that adjectives are always defined using the masculine
 * [ ] If no result found, lemmatize word and try again? Be smart?
+* [ ] Smart handling of -ize vs. -ise variants (e.g. "utilize" vs. "utilise")
 * [ ] Support regex search using * character
 * [ ] Show number of matching results + pagination for large result sets
-* [ ] Improve JSON format
+* [ ] Improve JSON distribution format
 * [ ] Add gender for Icelandic noun definitions via BinPackage?
 * [ ] Fix "fs. & ao." issue
 * [ ] Look up every entry in Merriam-Webster to validate headwords and POS tags
-* [ ] Map word forms to headwords (e.g., "running" -> "run", "utilise" -> "utilize", etc.)
+* [ ] Map word forms to headwords (e.g., "running" -> "run", "better" -> "good", etc.)
 * [ ] Add viðskeyti cat (vsk.) e.g. -genic
 * [ ] Advanced search page
