@@ -1627,7 +1627,6 @@ seizable
 jank
 janky
 overly
-overstatement
 lightly
 watercraft
 irredentist
@@ -4887,8 +4886,6 @@ ataraxis
 importee
 enamour
 enamor
-lousiness
-repulsiveness
 sliminess
 cutthroat (endurskoða - lýsingarorð)
 loitering
@@ -5464,7 +5461,6 @@ bringer
 put-on
 sendup
 aqualung
-catamaran
 traversal
 transmittable
 transferral
@@ -6011,10 +6007,9 @@ crystallinity
 hoovering
 smoldering
 unfaltering
-truehearted
+waveringly
 unwaveringly
 tauten
-unbendable
 unfirm
 confutative
 onionskin
@@ -6022,11 +6017,17 @@ blowup
 chagrined
 amenia
 runagado
-haggard (endurskoða)
 habitation (endurskoða)
 sissified
 sissyish
 demasculinize
 demasculinise
-claudication
 assumed
+rufflesome
+glimmering
+bonce
+ghosting
+vanguardism
+dreaming
+gopherwood
+sniffling

@@ -21,4 +21,4 @@
 * [ ] Look up every entry in Merriam-Webster to validate headwords and POS tags
 * [ ] Map word forms to headwords (e.g., "running" -> "run", "better" -> "good", etc.)
 * [ ] Add viðskeyti cat (vsk.) e.g. -genic
-* [ ] Advanced search page
+* [ ] Advanced search
