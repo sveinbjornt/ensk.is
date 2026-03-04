@@ -766,7 +766,7 @@ shackles nft. fjötrar
 shade n. skuggi, forsæla; ljósskýla, lampakúpull, lampahjálmur; skyggni, der; skuggaskipti á litmynd; litblær; [a ~ higher] ögn hærri; s. skyggja [he ~d his eyes with his hand] bar höndina fyrir augun; draga skugga á (uppdrátt); skýla hlifa; [~ into] breytast (smám saman) í
 shadow n. skuggi (af e-u); skjól, vernd; skuggamynd; [not a ~ of doubt] alls enginn vafi; s. skyggja á; skýla, vernda; draga skugga á (mynd); sýna óljósa mynd af (e-m); fylgja e-m eins og skuggi
 shadowy l. skuggalegur, dimmur; óljós; forsæluríkur
-shady l. forsæluríkur; svalur; [the ~ side] skuggahliðin; [on the ~ side of forty] yfir fertugt
+shady l. forsæluríkur; svalur; vafasamur; [the ~ side] skuggahliðin; [on the ~ side of forty] yfir fertugt
 shaft n. skaft; stólpaleggur; trébolur; vagnstöng; strompur; spjótskaft; kastspjót; ör; námugöng
 shag n. strítt (lubbalegt) hár; stórgerð ló; toppskarfur; e.k. tóbak; kynmök, samfarir (óforml.); s. ríða, eiga kynmök (óforml.)
 shaggy l. stríðhærður, lubbalegur; loðinn
@@ -2539,7 +2539,7 @@ strophe n. erindi, vísa
 strow s. sjá %[strew]%
 structural l. byggingarlegur, sem lýtur að byggingarlagi
 structure n. bygging, smíði; byggingarlag
-struggle s. berjast, stríða; keppa; brjótast um; n. barátta ([the ~ for life]); stríð, strit, umbrot
+struggle s. berjast, stríða; keppa; brjótast um; strögla; n. barátta ([the ~ for life]); stríð, strit, strögl, umbrot
 strum s. sarga, urga (á hljóðfæri); n. urg
 struma n. kirtlabólga
 strumpet n. skækja
