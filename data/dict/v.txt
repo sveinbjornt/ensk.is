@@ -188,7 +188,7 @@ verbosity n. orðgnótt; mælgi
 verdancy n. grænka
 verdant l. grænn ([~ fields, lawns]); fákunnandi, grunnhygginn
 verdict n. úrskurður (kviðdóms), kviðburður; dómur
-verdigris n. eirgræna, eirryð (græna sem myndast á kopari)
+verdigris n. eirgræna, eirryð (græna sem myndast á kopar)
 verdigrised l. eirgrænn
 verdure n. græn (grasi vaxin) jörð, grænka, grængresi
 verdurous l. grænn, grasivaxinn, blómlegur
@@ -356,9 +356,9 @@ virginal l. meyjar-; ómengaður, tær, hreinn; n. e.k. semball
 virginity n. meydómur
 viridescent l. grænleitur
 viridity n. grænn litur, grænka
-virile l. karlmannlegur
+virile l. karlmannlegur; frjór
 virility n. karlmennska, manndómur
-virtual l. sýndar-; [~ reality] sýndarveruleiki; raunverulegur, virkilegur ([~ presence])
+virtual l. sýndar-; raunverulegur, virkilegur ([~ presence])
 virtually ao. að áhrifunum til, raunverulega
 virtue n. dyggð; kraftur ([the medicinal ~ of plants]); [in (by) ~ of] fyrir kraft e-s, sökum; [in ~ whereof] því til staðfestu
 virtuoso n. listamaður, afbragðsmaður í e-i mennt
@@ -454,7 +454,7 @@ voluminous l. sem er mörg bindi; yfirgripsmikill; sem hefur ritað mikið ([a ~
 voluntary l. sjálfviljugur, sjálfboðinn; gerður af ásettu ráði; [~ church] fríkirkja; n. fríkirkjumaður; orgelspil á undan eða eftir guðsþjónustu; sjá %[volunteer]%
 volunteer n. sjálfboðaliði; s. bjóða fram ([~ one's services]); gera e-ð sjálfkrafa; ganga sjálfviljugur í e-a þjónustu
 voluptuary n. munaðarlífsmaður
-voluptuous l. lostasamur, nautnasamur; lokkandi; munuðlífur
+voluptuous l. lostasamur, nautnasamur; lokkandi; munuðlifur
 voluptuousness n. lostasemi, nautnasemi
 volute n. flúr (á súluhöfði)
 vomit s. æla, gubba, kasta upp, selja upp; n. æla, gubb, uppsala, spýja

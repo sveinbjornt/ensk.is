@@ -292,10 +292,10 @@ elongate s. lengja; lengjast; teygja; ílengja
 elongation n. lenging, ílenging (sjá %[elongate]%)
 elope s. hlaupa burtu, strjúka (um konu sem strýkur með friðli sínum, eða stúlku sem strýkur að heiman með unnusta sínum)
 elopement n. flótti, strok
-eloquence n. mælska, málsnilld
-eloquent l. mælskur, málsnjall, vel máli farinn
-else ao. annars, öðruvísi; [somebody (anybody, nobody, everybody) ~] einhver (o.s.frv.) annar; [something ~] eitthvað annað; [somewhere, (anywhere, everywhere, nowhere) ~] einhversstaðar (o.s.frv.) annarstaðar
-elsewhere ao. annarstaðar, á öðrum stað
+eloquence n. mælska, málsnilld, orðsnilli
+eloquent l. mælskur, málsnjall, vel máli farinn, orðsnjall
+else ao. annars, öðruvísi; [somebody (anybody, nobody, everybody) ~] einhver (o.s.frv.) annar; [something ~] eitthvað annað; [somewhere, (anywhere, everywhere, nowhere) ~] einhvers staðar (o.s.frv.) annars staðar
+elsewhere ao. annars staðar, á öðrum stað
 elucidate s. skýra
 elucidation n. skýring
 elucidatory l. skýrandi ([~ of])

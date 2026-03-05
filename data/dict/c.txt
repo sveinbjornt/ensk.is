@@ -4,7 +4,7 @@ cabal n. leynisamtök, svikræði; s. beita brögðum, hafa leynisamtök
 caballer n. bragðarefur
 cabbage n. kál; kálhöfuð; s. hnupla
 cabbala n. leynispeki
-cabalistic l. leyndardómsfullur; leynisamtaka-, svikræðis-
+cabalistic l. leyndardómsfullur; leynisamtaka-, svikræði-
 cabin n. kofi, káeta
 cabinet n. ráðsamkomusalur; ráðuneyti; skápur; [Cabinet Minister] ráðherra; [~ council, ~ meeting] ríkisráð
 cabinet-maker n. húsgagnasmiður, skápasmiður
@@ -1780,7 +1780,7 @@ conical l. keilumyndaður ([a ~ summit]), keilu-
 conifer n. barrtré
 coniferous l. köngulberandi
 conjectural l. sem lýtur að (eða er grundvallaður á) getgátum
-conjecture n. tilgáta, getgáta, ágískun; s. geta (e-s) til, giska á
+conjecture n. tilgáta, getgáta, ágiskun; s. geta (e-s) til, giska á
 conjoin s. sameina, samtengja, sameinast
 conjoint l. sameinaður, sameiginlegur
 conjointly l. sameiginlega, í sameiningu
@@ -2099,7 +2099,7 @@ copestone n. toppsteinn
 copious l. efnisríkur; fjölorður; orðmargur ([a ~ language]); ríkulegur
 copiously ao. ríkulega; rækilega
 copiousness n. gnótt; orðgnótt
-copper n. kopar, eir (málmur, frumefnið Cu, 29 í lotukerfinu); eirpeningar; eirketill; lögregluþjónn (óforml.); l. úr kopari; koparlitaður, eirlitaður
+copper n. kopar, eir (málmur, frumefnið Cu, 29 í lotukerfinu); eirpeningar; eirketill; lögregluþjónn (óforml.); l. úr kopar; koparlitaður, eirlitaður
 copper-plate n. eirplata; koparstunga, koparstunguprent ([~ engraving, printing])
 coppery l. kopar-; [~ particles] koparagnir
 coppice n. smáviður
@@ -2504,8 +2504,8 @@ croft n. tún, lítið akurlendi
 crofter n. skoskur smábóndi
 crone n. kerling ([an old ~]); gömul rolla
 crony n. kunningi, vinur
-crook n. krókur; bugða; smalaprik (með krók á endanum); biskupsstafur, bagall
-crooked l. krókóttur, hlykkjóttur; bjúgur, boginn; rangsnúinn, spilltur
+crook n. krókur; bugða; smalaprik (með krók á endanum); biskupsstafur, bagall; glæpamaður, glæponi, krimmi (óforml.)
+crooked l. krókóttur, hlykkjóttur; boginn; rangsnúinn; spilltur, glæpsamlegur ([~ cops])
 crookedness n. hlykkur; óhreinlyndi
 croon n. raul; s. raula
 crop n. jarðargróði, afurðir; uppskera; sarpur; s. kroppa; skera upp; stýfa, skella (af eyrum eða tagli); klippa snöggt; [~ up] gægjast upp; koma upp; [~ out] koma í ljós

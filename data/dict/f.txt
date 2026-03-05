@@ -181,9 +181,9 @@ faucet n. krani (á íláti); vatnshani
 faugh uh. svei!
 fault n. galli, lýti; missmíði; villa; yfirsjón; ávirðing; [it is not my ~] það er ekki mér að kenna; [the ~ lies with him] það er honum að kenna; [to find ~ with] finna að; [to lay the ~ on] kenna um; [at ~] villtur (um sporhund); ráðalaus; [to a ~] um of ([she was generous to a ~])
 faultful l. brotlegur, breyskur
-faultily ao. ranglega
-faultless l. lýtalaus, gallalaus
-faulty l. rangur, skakkur; lastaverður; gallaður
+faultily ao. ranglega, á gallaðan hátt
+faultless l. gallalaus, lýtalaus
+faulty l. gallaður; rangur, skakkur; lastverður
 faun n. skógarguð
 fauna n. dýraríki e-s lands
 fautor n. styrktarmaður

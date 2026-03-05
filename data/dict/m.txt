@@ -256,7 +256,7 @@ manuscript n. handrit; l. sem er í handriti, skrifaður (en ekki prentaður), h
 Manx l. manskur (frá bresku eynni Mön); n. manska (tungumál)
 Manxman n. Manarbúi, Manarbyggi
 many l. margir; [~ a] margur; [~ a one] margur maður; [one too ~] einum of margt; n. fjöldi; [a good (great) ~] mjög margir
-manysided l. marghliðaður; fjölhæfur
+manysided l. marghliða; fjölhæfur
 map n. uppdráttur, landakort; s. draga upp, teikna (landakort); [~ out] afmarka á landsuppdrætti; skipta e-u niður
 maple n. hlynur
 maple tree n. hlynur
@@ -267,7 +267,7 @@ marasmic l. tæringar-
 marasmus n. tæring, uppdráttarsýki; [~ senilis] ellihrumleiki
 maraud s. herja ([on, upon]); ræna (um hermenn)
 marauder n. ræningi
-marble n. marmari; marmarasmíði; marmaraplata með letri; marmarakúla (leikfang); s. gera dröfnóttam og rákóttam sem marmara; ráka ([~ a wainscot])
+marble n. marmari; marmarasmíði; marmaraplata með letri; marmarakúla (leikfang); s. gera dröfnóttam og rákóttan sem marmara; ráka ([~ a wainscot])
 marc n. vinberjahrat
 marcescent l. visnandi
 March n. marsmánuður
@@ -1381,7 +1381,7 @@ multi- fsk. aðeins haft í samsetningum: marg-, fjöl-
 multifarious l. fjölbreyttur, margvíslegur
 multifid l. margklofinn
 multiform l. margvíslegur
-multilateral l. marghliða, marghliðaður
+multilateral l. marghliða
 multiple l. margfaldur; n. margfeldistala, margfald; [least common ~] minnsti sameiginlegur mælir
 multipliable l. margfaldanlegur
 multiplicable l. margfaldanlegur

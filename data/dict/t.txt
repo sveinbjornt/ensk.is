@@ -51,7 +51,7 @@ taker n. takandi; kaupandi
 taking l. viðfelldinn, viðkunnanlegur; aðlaðandi; n. veiði; afli; taka; hræðsla; handsömun
 talbot n. e.k. veiðihundur
 talc n. talk (steintegund)
-talcum n. talkduft
+talcum n. talkúm, talkúmduft
 tale n. saga, frásaga; tala; [to tell ~s] segja eftir, bera sögur; [by ~] eftir tölu
 talebearer n. kjaftaskúmur, kjaftás
 talebearing l. sögvís; n. sögvísi, söguburður
@@ -1217,7 +1217,7 @@ tropical l. sem er milli hvarfbauganna, í hitabeltinu, hitabeltis-; óeiginlegu
 tropical winds nft. staðvindar
 trot s. brokka, skokka; láta brokka; n. brokk, skokk
 trotter n. brokkari, brokkhestur; löpp
-troubadour n. trúbador; farandsöngvari; miðaldaskáld í Suður-Frakklandi
+troubadour n. trúbador; farandsöngvari; miðaldaskáld (í Suður-Frakklandi)
 trouble s. trufla; gera ónæði, ónáða; gera áhyggjufullan; [~ oneself about] skipta sér af; n. ónæði; fyrirhöfn, ómak; áhyggja; vandræði ([be in, get into ~]); mótlæti, mæða; sjúkdómur
 troublesome l. fyrirhafnarmikill, erfiður, leiðinlegur, til vandræða
 troublous l. róstusamur
@@ -1389,7 +1389,7 @@ tutelage n. umsjón; kennsla; forræði, vernd
 tutelar l. verndandi, verndar-
 tutelary l. verndandi, verndar-
 tutor n. kennari; leiðbeinandi; umsjónarmaður; s. kenna; leiðbeina; vanda um við e-n, aga
-tutorage n. umsjón; kennsla; leiðbeinsla
+tutorage n. umsjón; kennsla; leiðbeining
 tutoress n. kennslukona
 tutorize s. kenna
 tutress n. kennslukona

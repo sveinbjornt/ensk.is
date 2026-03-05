@@ -113,7 +113,7 @@ palpable l. áþreifanlegur; tilfinnanlegur; augljós
 palpably ao. áþreifanlega; tilfinnanlega
 palpation n. áþreifing, snerting
 palpitate s. slá (bærast) ótt og títt (um hjartað)
-palpitation n. hjartsláttur
+palpitation n. hjartsláttur; hjartsláttarónot
 palsied l. visinn; riðandi, hrörlegur ([old ~ houses])
 palsy n. aflleysi, visnun; s. gera visinn, lama ([~ the arm])
 palter s. hafa undanbrögð eða vífilengjur; fara léttúðlega (með e-ð [with])
@@ -236,7 +236,7 @@ parlance n. tal; talmál; [in common ~] í vanalegu máli; [in legal ~] í lagam
 parley s. semja (við e-n [with]); n. samtal; málfundur (við óvini); samningsleitun; [desire a ~] æskja samningsfundar (við óvini)
 parliament n. þing
 parliamentarism n. þingræðisstjórn, þingræði
-parliamentary l. þinglegur; samkvæmur þingsköpum; þingræðislegur
+parliamentary l. þinglegur, þing-; samkvæmur þingsköpum; þingræðislegur
 parlour n. dagstofa (nú %[sitting room]%); gestastofa á veitingahúsi
 parlourmaid n. stúlka sem gengur um beina
 parochial l. sóknar-, sóknarlegur; sveitar-; [~ register] kirkjubók; [~ relief] sveitarstyrkur
@@ -1166,8 +1166,8 @@ platina n. platína, hvítagull (frumefnið Pt, 78 í lotukerfinu)
 platinum n. platína, hvítagull (frumefnið Pt, 78 í lotukerfinu)
 platitude n. grunnhyggnisleg athugasemd
 platitudinous l. bragðlaus; daufur, grunnhyggnislegur
-Platonic l. platonskur (eftir heimspekingnum Platon); [~ love] andleg (fýsnarlaus) ást
-Platonism n. platonismi (heimspekikenning Platons)
+Platonic l. platónskur (eftir heimspekingnum Platon); [~ love] andleg (fýsnarlaus) ást
+Platonism n. platónismi (heimspekikenning Platons)
 platoon n. lítill fótgönguliðsflokkur; hópur; skothríð
 platter n. grunnt trog; fléttari
 plaudit n. lófaklapp
@@ -1405,7 +1405,7 @@ polygamy n. fjölkvæni, margkvæni
 polyglot l. fjöltungu-, sem er á mörgum málum ([a ~ dictionary]); fjöltyngdur; n. tungumálamaður, fjöltyngdur maður; bók sem rituð er á mörgum málum
 polygon n. marghyrningur
 polyhedron n. marghliðungur, margflötungur
-polyhedrous l. marghliðaður
+polyhedrous l. marghliða
 polymath n. fjölfræðingur
 polymathy n. fjölfræði
 polyp n. sepi (kynlausi ættliður marglyttanna); sæfífill
@@ -1575,7 +1575,7 @@ posy n. spakmæli í ljóðum; blómhnýti, blómvöndur
 pot n. pottur; pottmál; krukka; kanna; kannabis, gras; s. sjóða (salta) niður; setja í pott eða krukku
 potable l. drekkanlegur, drekkandi, drykkjarhæfur, sem hægt er að drekka ([the water was not ~])
 potage n. súpa
-potash n. pottaska, kalíumkarbonat
+potash n. pottaska, kalíumkarbónat
 potation n. drykkur; drykkja ([to abstain from ~])
 potato n. kartafla, jarðepli
 potato blight n. skemmd í kartöflum
