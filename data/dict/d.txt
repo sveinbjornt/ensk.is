@@ -284,7 +284,7 @@ deductive l. afályktandi
 deed n. dáð, verk ([in word and ~]); afreksverk; skjal; [~ of conveyance] afsalsbréf
 deedful l. afreksmikill ([~ life])
 deedless l. dáðlaus
-deem s. dæma, ætla, hyggja
+deem s. dæma, ætla, hyggja, álykta
 deemster n. dómari
 deep l. djúpur; dimmur (um lit); djúpsær ([~ reader]); viðsjáll; ao. djúpt; n. djúp, dýpi, haf
 deepen s. dýpka (gera eða verða dýpri); verða dimmari
