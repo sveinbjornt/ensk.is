@@ -10765,7 +10765,8 @@ bonnie l. sjá %[bonny]%
 virtual reality n. sýndarveruleiki
 online l. nettengdur, á netinu; tengdur, virkur
 boutique n. verslun, búð, tískuverslun
-skating n. skautahlaup
-hung over l. þunnur, timbraður
+skating n. skautahlaup; [go ~] fara á skauta
+hung over l. þunnur, timbraður, illa haldinn sökum neyslu gærkvöldsins
 hunker s. sitja á hækjum sér ([~ down])
 vaunted l. margrómaður, í hávegum hafður
+quine n. kvína (forrit sem skrifar sjálft sig út, í tölvunarfr.)
