@@ -2432,7 +2432,7 @@ codependent l. meðvirkur
 codependency n. meðvirkni
 codependence n. meðvirkni
 self-help n. sjálfshjálp
-patricidal l. föðurmorðs-, föðurmorðslegur
+patricidal l. föðurmorðs-, föðurmorðslegur, er lýtur að föðurmorði
 webmaster n. vefstjóri, vefumsjónarmaður, umsjónarmaður vefsíðu
 webpage n. vefsíða, síða á veraldarvefnum
 lockable l. læsanlegur (sjá %[lock]%)
@@ -10765,8 +10765,17 @@ bonnie l. sjá %[bonny]%
 virtual reality n. sýndarveruleiki
 online l. nettengdur, á netinu; tengdur, virkur
 boutique n. verslun, búð, tískuverslun
-skating n. skautahlaup; [go ~] fara á skauta
+skating n. skautahlaup, það að skauta; [go ~] fara á skauta
 hung over l. þunnur, timbraður, illa haldinn sökum neyslu gærkvöldsins
-hunker s. sitja á hækjum sér ([~ down])
+hunker s. sitja á hækjum sér; halda sér niðri ([~ down])
 vaunted l. margrómaður, í hávegum hafður
-quine n. kvína (forrit sem skrifar sjálft sig út, í tölvunarfr.)
+quine n. kvína (í tölvunarfræði, forrit sem skrifar sjálft sig út)
+milligram n. milligramm (einn þúsundasti úr grammi)
+cigarillo n. smávindill
+tarnishment n. óhreinkun; flekkun; upplitun
+permeated l. gegnsýrður, gagnsýrður
+gastroscopy n. magaspeglun
+grotesquely ao. afkáralega, kynlega, hlægilega; afskræmilega, á afskræmdan hátt
+Newfoundlander n. Nýfundlendingur
+Netherlandish l. niðurlenskur, frá Niðurlöndum (sjá %[Dutch]%)
+en masse ao. saman í mklu magni, margir saman komnir (úr frönsku)

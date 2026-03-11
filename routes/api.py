@@ -65,7 +65,7 @@ async def api_search(request: Request, q: str) -> JSONResponse:
     return JSONResponse(content={"results": results})
 
 
-@router.get("/item/{w}", operation_id="lookup_single_word")  # pyright: ignore[reportArgumentType]
+@router.get("/item/{w}", operation_id="lookup_word")  # pyright: ignore[reportArgumentType]
 @cache_response(SEARCH_CACHE_SIZE)
 async def api_item(request: Request, w: str) -> JSONResponse:
     """Return single English-Icelandic dictionary entry in JSON format."""
