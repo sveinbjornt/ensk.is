@@ -372,7 +372,7 @@ scrapbook n. útdráttabók
 scrap iron n. járnarusl
 scrap metal n. brotamálmur (sem steyptur er upp aftur)
 scrape s. klóra, skafa, rífa, nugga; sarga (á hljóðfæri); draga annan fótinn aftur um leið og heilsað er; [~ one's feet] þurrka af fótunum; [~ acquaintance with] koma sér í mjúkinn hjá; [~ up] reyta saman (peninga); n. djúp hneiging; vandræði, bobbi; [to be in a ~] vera í vanda staddur
-scraper n. skafa; nirfill
+scraper n. skafa; nirfill; vefskrapari, skrapari
 scrappy l. sem samanstendur af molum eða brotum; sbr. %[scrap]%
 scratch s. klóra, rifa; rispa; skafa; hripa; [~ out] strika út; n. klór; rispa, skeina; [to come up to the ~] ganga hiklaust í bardagann
 scrawl s. klóra, hripa ([~ a letter]); n. hrip, klór
@@ -1378,7 +1378,7 @@ slobber n. sjá %[slabber]%
 sloe n. þyrnitegund
 slogan n. slagorð, kjörorð; (skoskt) heróp
 sloop n. einmöstruð skúta
-slop n. vatnssletta (á gólfi); ft. skólp, skolavatn; lélegur spónamatur; tilbúinn fatnaður; e.k. víðar brækur; s. spilla niður vökva; sulla á, ata; hellast niður, spillast
+slop n. vatnssletta (á gólfi); sull; skólp, skolavatn; lélegur spónamatur; tilbúinn fatnaður; e.k. víðar brækur; s. spilla niður vökva; sulla á, ata; hellast niður, spillast
 slope n. halli, hallandi; brekka; s. halla (e-u); skáskera; hallast; vera aflíðandi
 sloping l. aflíðandi, hallandi ([gently ~])
 slop pail n. skólpfata
@@ -3120,8 +3120,8 @@ symphony n. sinfónía; samhljómun
 symphonious l. samhljómandi
 symposium n. samdrykkja
 symptom n. merki, mark; sjúkdómseinkenni
-symptomatic l. berandi vott (um [of])
-synagogue n. samkunduhús Gyðinga
+symptomatic l. einkennandi, berandi vott (um [of])
+synagogue n. samkunduhús (bænahús) Gyðinga
 synchronal l. samtíðislegur
 synchronical l. samtíðislegur
 synchronism n. samtíðleiki

@@ -4,7 +4,7 @@ cabal n. leynisamtök, svikræði; s. beita brögðum, hafa leynisamtök
 caballer n. bragðarefur
 cabbage n. kál; kálhöfuð; s. hnupla
 cabbala n. leynispeki
-cabalistic l. leyndardómsfullur; leynisamtaka-, svikræði-
+cabalistic l. leyndardómsfullur; leynisamtaka-, svikræðis-
 cabin n. kofi, káeta
 cabinet n. ráðsamkomusalur; ráðuneyti; skápur; [Cabinet Minister] ráðherra; [~ council, ~ meeting] ríkisráð
 cabinet-maker n. húsgagnasmiður, skápasmiður
@@ -1267,7 +1267,7 @@ coke n. koks (sviðin steinkol); kók (Coca-Cola gosdrykkur); kókaín (óforml.
 colander n. málmsáld; s. sáldrast í gegnum sáld
 cullender n. málmsáld; s. sáldrast í gegnum sáld
 cold l. kaldur; [I am (feel) ~] mér er kalt; n. kuldi; kvef; [catch a ~] fá kvef, kvefast
-cold-blooded l. sem er með köldu blóði; tilfinningarlaus
+cold-blooded l. blóðkaldur, sem er með köldu blóði; tilfinningarlaus
 cold-hearted l. kaldlyndur
 coldly ao. kuldalega; stillilega; dauflega
 coldness n. kuldi

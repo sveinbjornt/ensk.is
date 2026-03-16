@@ -6969,7 +6969,7 @@ aimlessly ao. án markmiðs, á stefnulausan hátt; án tilgangs
 imbecilic l. fábjánalegur, stórheimskur, heimskulegur, eins og fæðingarhálfviti
 system administrator n. kerfisstjóri, umsjónarmaður kerfis
 sysadmin n. kerfisstjóri (stytt. á %[system administrator]%)
-castanet n. kastanjetta (hljóðfæri)
+castanet n. kastanetta (hljóðfæri)
 scared l. hræddur; fældur ([we ~ him off] við fældum hann í burtu)
 arse n. rass, afturendi; asni, leiðindagaur; [don't be an ~] ekki vera með leiðindi; [the ~ end of nowhere] lengst úti í rassgati
 autoerotic l. sjálfsfrygðar-
@@ -10778,4 +10778,43 @@ gastroscopy n. magaspeglun
 grotesquely ao. afkáralega, kynlega, hlægilega; afskræmilega, á afskræmdan hátt
 Newfoundlander n. Nýfundlendingur
 Netherlandish l. niðurlenskur, frá Niðurlöndum (sjá %[Dutch]%)
-en masse ao. saman í mklu magni, margir saman komnir (úr frönsku)
+en masse ao. saman í miklu magni, margir saman komnir (úr frönsku)
+soviet n. sjá %[Soviet]%
+fabular l. dæmisögulegur, goðsögulegur; skröksögu-
+fabulously ao. lygilega; ofboðslega, gríðarlega, stórkostlega
+monolithic l. gerður úr einum steini, einsteinungs-, einsteyptur; sem myndar eina (órjúfanlega) heild
+corrupted l. spilltur; skemmdur; afbakaður
+scattered l. dreifður; tvístraður
+cloudland n. skýjaborgir; draumaland
+antacid l. sýrubindandi, sýrustillandi; n. magasýrulyf
+dulcimer n. dúlsímer (strengjahljóðfæri)
+balalaika n. balalæka (rússneskt strengjahljóðfæri)
+shamisen n. sjamísen (japönsk lúta)
+bouzouki n. búsúkí (grísk lúta)
+koto n. kótó (japanskur sítar)
+bagpipes nft. sekkjapípa (hljóðfæri)
+pan flute n. panflauta (hljóðfæri)
+panpipes nft. panflauta
+boylike l. strákalegur, drengslegur
+sunbathing n. sólbað, það að vera í sólbaði
+sunbathe s. sóla sig, baða sig í sól, vera í sólbaði
+townhouse n. borgarhús, borgarsetur; raðhús
+evenhandedness n. jafnræði, óhlutdrægni
+funding n. fjármögnun
+blogging n. bloggskrif, skrif í vefrit
+crawler n. skriðill, vefskriðill ([web ~])
+likeminded l. eins þenkjandi, með svipaðan hugsunarhátt
+burka n. búrka (alklæði kvenna í heittrúuðum múslímalöndum)
+burqa n. sjá %[burka]%
+haram l. bannað samkvæmt íslamstrú, syndugt
+mollusk n. sjá %[mollusc]%
+circular economy n. hringrásarhagkerfi
+carbon footprint n. kolefnisfótspor
+eco-friendly l. umhverfisvænn (stytt. á [ecologically friendly])
+poikilothermal l. sjá %[cold-blooded]%
+thoughtfulness n. hugulsemi
+continuum n. samfella, runa, samfelld röð
+affordability n. það að vera á viðráðanlegu verði
+overheat s. ofhitna, ofhita
+unprovable l. ósannanlegur
+kowtow s. sýna af sér þrælslund; beygja sig og bukta (fyrir [to])
