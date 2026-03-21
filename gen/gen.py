@@ -168,14 +168,17 @@ def add_metadata_to_db(num_entries) -> None:
     db = EnskDatabase()
     db.add_metadata("name", PROJECT.NAME)
     db.add_metadata("description", PROJECT.DESCRIPTION)
+    db.add_metadata("description_en", PROJECT.DESCRIPTION_EN)
+    db.add_metadata("description_short", PROJECT.DESCRIPTION_SHORT)
+    db.add_metadata("description_short_en", PROJECT.DESCRIPTION_SHORT_EN)
     db.add_metadata("license", PROJECT.LICENSE)
+    db.add_metadata("version", PROJECT.VERSION)
     db.add_metadata("website", PROJECT.BASE_URL)
     db.add_metadata("source", PROJECT.REPO_URL)
     db.add_metadata("editor", PROJECT.EDITOR)
     db.add_metadata("editor_email", PROJECT.EMAIL)
     db.add_metadata("generation_date", datetime.datetime.now(datetime.UTC).isoformat())
     db.add_metadata("num_entries", num_entries)
-    # db.add_metadata("version", PROJECT.VERSION)
 
 
 def add_entries_to_db(entries: EntryList) -> int:

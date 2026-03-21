@@ -10818,3 +10818,8 @@ affordability n. það að vera á viðráðanlegu verði
 overheat s. ofhitna, ofhita
 unprovable l. ósannanlegur
 kowtow s. sýna af sér þrælslund; beygja sig og bukta (fyrir [to])
+screentime n. skjátími
+data structure n. gagnaskipan, gagnagrind
+illustrated l. myndskreyttur; teiknaður; sýndur
+neuroplasticity n. breyti- og aðlögunargeta taugakerfa heilans
+dealbreaker n. samningsrof; afgerandi atriði í samningaviðræðum ([it's a dealbreaker])

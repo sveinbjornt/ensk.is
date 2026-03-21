@@ -108,9 +108,9 @@ illuminative l. lýsandi
 illuminator n. ljósgjafi
 illumine s. lýsa, uppljóma
 illusion n. tálmynd, sjónhverfing, hugarburður
-illusory l. blekkjandi, villandi
-illustrate s. skýra; myndskreyta
-illustration n. skýring; myndskreyting; mynd (í bók)
+illusory l. blekkjandi, villandi, tál-
+illustrate s. skýra; sýna; teikna; myndskreyta
+illustration n. skýring; myndskreyting; teikning; mynd (í bók)
 illustrative l. skýrandi ([~ of])
 illustrious l. tiginn, göfugur; nafnfrægur; ágætur
 illustriousness n. göfugleiki, göfgi; frægð
@@ -175,8 +175,8 @@ immission n. innlátning, innhleyping ([~ of fresh air])
 immit s. láta inn, hleypa e-u inn
 immix s. blanda í
 immixture n. íblöndun, samblöndun
-immobile l. óhreyfanlegur
-immobility n. óhreyfanleiki
+immobile l. óhreyfanlegur; hreyfingarlaus
+immobility n. óhreyfanleiki; hreyfingarleysi
 immobilize s. gera óhreyfanlegt, stöðva
 immoderate l. óhóflegur, fjarskalegur, hóflaus
 immoderation n. óhóf, ofsi, öfgar
@@ -190,15 +190,15 @@ immortal l. ódauðlegur; eilífur
 immortality n. ódauðleiki
 immortalize s. gera ódauðlegan, gera eilífan
 immortally ao. eilíflega
-immovable l. óhreyfanlegur, fastur; nft. fasteignir
+immovable l. óhreyfanlegur, óbifanlegur; fastur; nft. fasteignir
 immune l. ónæmur, ómóttækilegur
-immunity n. undanþága, lausn undan e-u ([~ from taxation]); ónæmi ([~ from infection])
-immunize s. gera ónæman, gera ómóttækan
+immunity n. undanþága, lausn undan e-u ([~ from taxation]); sakaruppgjöf; ónæmi ([~ from infection])
+immunize s. gera ónæman, gera ómóttækan (fyrir [against])
 immure s. byrgja inni
 immutability n. óumbreytileiki
 immutable l. óumbreytanlegur, óbreytanlegur, óhagganlegur
 imp n. púki; óþekktarangi; s. styrkja (vængi) með fjöðrum; auka, stækka
-impact n. þrýsting; s. þrýsta e-u inn í e-ð
+impact n. árekstur, högg; áhrif; þrýsting; s. þrýsta e-u inn í e-ð; hafa áhrif á
 impair s. rýra, skerða, minnka; skemma, skaða
 impairment n. rýrð, skerðing, minnkun; skemmd, sköddun
 impale s. girða með staurum; reka (oddhvassan staur) í gegnum; stjaksetja
