@@ -10501,7 +10501,7 @@ menacing l. ógnandi, ógnvekjandi (sjá %[menace]%)
 gaminess n. veiðidýrabragð
 hellbound l. á leið til helvítis, bölvaður
 submerged l. í kafi, sokkinn, ofan í vatni; bældur, dulinn, undir yfirborði
-disinherited l. arflaus
+disinherited l. arflaus, sem gerður var arflaus
 layperson n. leikmaður, ólærð manneskja
 chanson n. söngur, sönglag (úr frönsku)
 chansonnier n. söngbók; söngvari (úr frönsku)
@@ -10800,7 +10800,7 @@ boylike l. strákalegur, drengslegur
 sunbathing n. sólbað, það að vera í sólbaði
 sunbathe s. sóla sig, baða sig í sól, vera í sólbaði
 townhouse n. borgarhús, borgarsetur; raðhús
-evenhandedness n. jafnræði, óhlutdrægni
+evenhandedness n. jafnræði, óhlutdrægni, óvilhalli
 funding n. fjármögnun
 blogging n. bloggskrif, skrif í vefrit
 crawler n. skriðill, vefskriðill ([web ~])
@@ -10825,3 +10825,12 @@ illustrated l. myndskreyttur; teiknaður; sýndur
 neuroplasticity n. breyti- og aðlögunargeta taugakerfa heilans
 dealbreaker n. samningsrof; afgerandi atriði í samningaviðræðum ([it's a dealbreaker])
 macintosh n. sjá %[mackintosh]%
+descriptor n. lýsiorð, lýsir, lýsingur
+graybeard n. sjá %[greybeard]%
+spellbinding l. töfrandi, heillandi, hugfangandi
+starflower n. fagurblóm, stjörnublóm
+Masonic l. frímúrara-; [~ lodge] frímúrarastúka
+crikey uh. jahérna! jeminn!
+hesitance n. sjá %[hesitancy]%
+hesitating n. hikandi
+hesitatingly ao. hikandi, á hikandi hátt
