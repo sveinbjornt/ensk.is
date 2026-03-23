@@ -7483,6 +7483,7 @@ bioluminescence n. lífljómun, lífljómi
 chrysalis n. púpa
 unsmiling l. óbrosandi, alvörugefinn, alvarlegur á svip
 quintet n. kvintett (fimm manna hljómsveit)
+quintetto n. sjá %[quintet]% (úr ítölsku)
 sextet n. sextett (sex manna hljómsveit)
 secondment n. tímabundin tilfærsla í starfi; fyrsta undirtekt við tillögu
 ataxic l. óreglulegur, ósamhæfður, ósamstilltur; hreyfiglapa-
@@ -10823,3 +10824,4 @@ data structure n. gagnaskipan, gagnagrind
 illustrated l. myndskreyttur; teiknaður; sýndur
 neuroplasticity n. breyti- og aðlögunargeta taugakerfa heilans
 dealbreaker n. samningsrof; afgerandi atriði í samningaviðræðum ([it's a dealbreaker])
+macintosh n. sjá %[mackintosh]%
