@@ -6778,6 +6778,7 @@ multivalent l. fjölgildur, fleirgildur
 polyvalent l. fjölgildur, fleirgildur
 grotesqueness n. kynlegheit, afkáraleiki
 cinematic l. kvikmynda-, bíó-, kvikmyndalegur
+cinematically ao. kvikmyndalega
 flashlight n. vasaljós
 dimensional l. víddar- (t.d. [three-~, two-~, inter~])
 bootlicker n. undirlægja, smjaðrari, höfðingjasleikja
@@ -7231,6 +7232,7 @@ Ash Wednesday n. öskudagur
 headword n. fletta, uppflettiorð, uppsláttarorð (í orðabók)
 domestic animal n. húsdýr
 tranquilized l. róaður (með lyfjum), sefaður, huggaður
+
 scavenge s. nærast á hræjum; hirða, safna (skrani); sópa, hreinsa (götur)
 scavenging n. hræát; að leita að æti; söfnun (á skrani), skransöfnun
 anesthetic n. sjá %[anaesthetic]%
@@ -8464,6 +8466,7 @@ mass medium n. fjölmiðill (sá %[medium]%)
 mass media nft. fjölmiðlar (sá %[medium]%)
 information technology n. upplýsingatækni
 tranquillize s. sjá %[tranquilize]%
+tranquillise s. sjá %[tranquilize]%
 locked l. læstur
 percussionist n. slagverksleikari
 blat s. sjá %[bleat]%
@@ -10842,6 +10845,7 @@ demonym n. íbúaheiti, þjóðarheiti
 ethnonym n. þjóðarheiti, heiti ættflokks
 category theory n. ríkjafræði (stærðfr.)
 chained l. fjötraður, hlekkjaður
+unchained l. leystur úr fjötrum; laus allra hlekkja; laus undan kvöðum
 tailbone n. rófubein
 bedcover n. rúmábreiða
 nimbleness n. liðleiki, fótvísi
@@ -10857,3 +10861,19 @@ insulated l. einangraður
 oeuvre n. höfundaverk (úr frönsku)
 tarnished l. óhreinkaður; flekkaður
 dreamily ao. dreymandi
+encumbering l. íþyngjandi, hamlandi, hindrandi
+sculpt s. móta, höggva mynd
+sculptured l. mótaður, höggvinn
+spacetime n. tímarúm, rúmtími (í eðlisfræði)
+space-time n. sjá %[spacetime]%
+encumbered l. þyngdur, hindraður (af [by])
+grave accent n. öfugur broddur (táknið ˋ)
+sex drive n. kynhvöt
+hassle s. angra, ónáða, áreita; n. vesen, umstang, basl, vandræði; átök, rifrildi
+molester s. (kynferðislegur) áreitari, níðingur (sjá %[molest]%)
+pestis n. sjá %[plague]%
+seawolf n. sjóræningi; steinbítur (fiskur); sæljón (selur)
+sea lion n. sæljón (selur)
+fur seal n. loðselur
+natterjack n. e.k. froskur
+made-up l. skáldaður, uppdiktaður, upploginn

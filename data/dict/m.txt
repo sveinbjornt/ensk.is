@@ -344,7 +344,7 @@ marvellously ao. furðanlega, undursamlega
 mascot n. lukkudýr; hlutur sem er til heilla
 masculine l. karlmannlegur, karla-; karlkyns ([~ gender])
 masculinity n. karlmennska
-mash s. merja, mylja; hræra kurlað malt í heitu vatni; [~ed potatoes] kartöflustappa; [be ~ed on] vera ástfanginn af; n. kurlað malt í heitu vatni, hrosti; stappa; samsull, hrærigrautur
+mash s. merja, mylja, stappa; hræra kurlað malt í heitu vatni; [~ed potatoes] kartöflustappa; [be ~ed on] vera ástfanginn af; n. kurlað malt í heitu vatni, hrosti; stappa; samsull, hrærigrautur
 mask n. gríma; yfirskin ([under the ~ of]); yfirdrepsskapur; [throw off the ~] hætta öllum yfirdrepsskap; s. draga grímu á andlit; dulbúa, fela; láta grímu fyrir andlit sér; vera í dularklæðum
 masked ball n. grímudansleikur (sjá %[masquerade]%)
 masker n. grímumaður
@@ -1086,17 +1086,17 @@ mole-eyed l. smáeygður; blindur; skammsýnn
 moleskin n. moldvörpuskinn; sterkur baðmullardúkur; ft. buxur úr slíkum dúk ([~ breeches])
 molecular l. sameinda-, sem lýtur að sameindum
 molecule n. sameind
-molest s. áreita, ónáða, angra
-molestation n. áreitni, ónáðun, yfirgangur
+molest s. áreita kynferðislega, misnota kynferðislega; áreita, ónáða, angra
+molestation n. kynferðisleg áreitni, kynferðisleg misnotkun; áreitni, ónáðun, yfirgangur
 mollient l. mýkjandi
 mollification n. mýking, linun; sefun
 mollify s. mýkja, lina; sefa
 mollusc n. lindýr
-mollycoddle n. mömmudrengur, kveifarmenni; s. ofdekra, skemma með dálæti
+mollycoddle s. ofdekra, skemma með dálæti; n. mömmudrengur, kveifarmenni
 molten l. bræddur; steyptur
-moment n. augabragð, augnablik, svipan, svipstund; mikilvægi ([to be of a great ~]); [it is of great ~] það er áriðandi, mikilvægt; [wait a ~] bíddu augnablik
-momentary l. augnablikslegur, skammvinnur
-momentous l. áríðandi, mikilvægur
+moment n. augabragð, augnablik, svipan, svipstund, stund; [wait a ~] bíddu augnablik; mikilvægi ([to be of a great ~]); [it is of great ~] það er áriðandi, mikilvægt
+momentary l. augnabliks-, augnablikslegur, skammvinnur, skammtíma-
+momentous l. mikilvægur, tímamóta-, þýðingarmikill ([a ~ occasion])
 momentum n. hreyfiafl, skriðþungi
 monachal l. klausturlegur; klaustur-; munka-
 monachism n. munklífi, klausturlíf

@@ -1529,11 +1529,11 @@ assumption n. ætlun, þótti, tilgáta sem gert er ráð fyrir að sé rétt; v
 assumptive l. óefaður ([~ belief]); þóttafullur
 assurance n. fullvissun; ábyrgð; lífsábyrgð; vissa; sjálfstraust; ofdirfska; óskammfeilni
 assure s. tryggja (lífið); styðja; fullvissa ([we may rest ~d that])
-assuredly ao. áreiðanlega
-asterisk n. stjörnumerki (*)
+assuredly ao. áreiðanlega, vissulega, örugglega
+asterisk n. stjörnumerki, stjörnutákn (táknið *)
 astern ao. í skútunni; á eftir; aftur á bak; [~ of] fyrir aftan
-asthma n. asma, asmi; andþyngsli; brjóstþyngsli
-asthmatic l. þjáður af brjóstþyngslum; mæðun
+asthma n. asma, asmi, andarteppa; andþyngsli; brjóstþyngsli
+asthmatic l. asma-, andarteppu-, með andarteppu; asmasjúklingur, andarteppusjúklingur
 astir ao. á fótum, á ferli ([she was ~ by six o'clock]); í hreyfingu ([there is much wind ~])
 astonish s. vekja undrun (e-s), gera forviða
 astonishing l. undraverður, furðulegur

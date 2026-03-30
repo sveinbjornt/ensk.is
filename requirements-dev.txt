@@ -3,6 +3,6 @@ tokenizer==3.6.2
 pytest==9.0.2
 httpx==0.28.1
 uvicorn==0.40.0
-pypdf==6.9.1
+pypdf==6.9.2
 reportlab==4.4.10
 skiptir==1.0.0
