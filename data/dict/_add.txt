@@ -438,7 +438,7 @@ oil tanker n. olíuskip, olíuflutningaskip
 tanker n. skip sem flytur mikið magn af vökva (t.d. olíu)
 neoconservatism n. nýíhaldsstefna
 neoconservative n. nýíhaldsmaður; l. nýíhalds-, nýíhaldssamur
-rollerblade n. línuskaut; nft. línuskautar
+rollerblade n. línuskauti; nft. línuskautar
 plexiglass n. plexígler
 thermophile n. hitakær lífvera
 thermophilic l. hitakær (notað um lífverur sem dafna við háan hita)
@@ -1955,8 +1955,8 @@ individualistic l. einstaklingshyggjulegur, einstaklingshyggju-
 individualist n. einstaklingshyggjumaður, einstaklingshyggjusinni
 monarchist n. konungssinni, konungsveldissinni, einveldissinni
 monarchism n. konungsstefna, konungsveldisstefna; einveldisstefna (sjá %[absolute monarchy]%)
-absolute monarch n. einvaldur (konungur)
-absolute monarchy n. einveldi (konungs), einveldisríki, ríki þar sem konungur er einvaldur og öllu ræður
+absolute monarch n. einvaldur (konungur), einvaldskonungur
+absolute monarchy n. einveldi (konungs), einveldisríki, einvaldskonungsstjórn, ríki þar sem konungur er einvaldur og öllu ræður
 ideological l. hugmyndafræðilegur, hugmyndafræði-
 ideologically ao. hugmyndafræðilega
 unideological l. óhugmyndafræðilegur
@@ -7062,7 +7062,7 @@ horripilation n. hárris
 piloerection n. hárris
 epitope n. vakaeining; mótefnavísir
 Aegean n. Eyjahaf, Grikklandshaf ([the ~ Sea]); l. Eyjahafs-
-Israelite n. Ísraelsmaður
+Israelite n. Ísraelsmaður, Ísraeli
 fax n. símbréfasending; bréfasími, bréfsími
 fax machine n. bréfasími, bréfsími, faxtæki
 timeframe n. tímarammi, tímamörk
@@ -8207,6 +8207,7 @@ stretchability n. teygjanleiki
 stalwartness n. hreysti; hugrekki; kjarkur; kröftug líkamsbygging
 spongelike l. svampkenndur, eins og svampur (sjá %[sponge]%)
 soothsaying n. spámennska
+soothsayer n. spámaður, spákona, völva
 smarminess n. smeðjuskapur
 seafowl nft. sjófuglar
 elongated l. lengdur; teygður; ílengdur
@@ -10833,4 +10834,16 @@ Masonic l. frímúrara-; [~ lodge] frímúrarastúka
 crikey uh. jahérna! jeminn!
 hesitance n. sjá %[hesitancy]%
 hesitating n. hikandi
-hesitatingly ao. hikandi, á hikandi hátt
+hesitatingly ao. hikandi, á tvístígandi hátt
+gentilic l. íbúa-, þjóðar-, þjóðflokks-, ættflokks- (um heiti)
+demonym n. íbúaheiti, þjóðarheiti
+ethnonym n. þjóðarheiti, heiti ættflokks
+category theory n. ríkjafræði (stærðfr.)
+chained l. fjötraður, hlekkjaður
+tailbone n. rófubein
+bedcover n. rúmábreiða
+nimbleness n. liðleiki, fótvísi
+strip club n. nektardansstaður, strípibúlla
+dermatosis n. húðsjúkdómur
+haggling n. prútt, þref um verð
+shredder n. tætari

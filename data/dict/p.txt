@@ -2186,7 +2186,7 @@ properness n. réttleiki
 property n. eign ([the book is his ~]); fasteign; efni, eigur; eignarréttur; eiginleiki ([the properties of soda]); [~ tax] eignaskattur
 prophecy n. spádómur, spásögn, spá; [gift of ~] spádómsgáfa
 prophesier n. spámaður
-prophesy s. spá, segja fyrir
+prophesy s. sjá %[prophecy]%
 prophet n. spámaður
 prophetess n. spákona
 prophetic l. [~ of disaster] sem spáir (veit á) ógæfu
