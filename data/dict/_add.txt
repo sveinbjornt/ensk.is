@@ -3001,8 +3001,8 @@ escapee n. strokufangi, flóttamaður
 theoretician n. kenningasmiður, kennismiður, fræðimaður
 carbonate n. kolsýrusalt, karbónat (efnasamband); s. kolsýra
 asymptomatic l. einkennalaus, án einkenna
-desalinate s. afsalta, salteima, skilja salt frá vatni
-desalination n. afsöltun (á sjávarvatni), salteiming
+desalinate s. afsalta, skilja salt frá vatni
+desalination n. afsöltun (á sjávarvatni)
 kumquat n. kúmkvat (e.k. ávöxtur)
 cancan n. kankan (e.k. franskur dans)
 blitzkrieg n. leifturstríð (úr þýsku)
@@ -6383,8 +6383,9 @@ troubleshooting n. bilanaleit, villuleit, greining á vanda
 livestream s. senda í beinni útsendingu; n. bein útsending
 livestreaming n. bein útsending
 substantially ao. verulega; ábyggilega (sjá %[substantial]%)
-tokenize s. tóka; brjóta niður, tilreiða, flokka eða aðskilja í stök tákn (tóka)
-tokenizer n. tókari, tilreiðari (hugbúnaður, sjá %[tokenize]%)
+tokenize s. tóka, brjóta niður í tákn, tilreiða, tákngreina, flokka eða aðskilja í stök tákn
+tokenizer n. tókari, tilreiðari, tákngreinir (hugbúnaður, sjá %[tokenize]%)
+tokenization n. tókun, tilreiðun, tákngreining
 motherfucker n. móðurserðir, móðurriðill, mannfjandi, drulludeli, mannskratti, drullusokkur, mannfýla, skíthæll (óforml.)
 standardise s. sjá %[standardize]%
 standardization n. stöðlun
@@ -8095,7 +8096,8 @@ protozoon n. frumdýr
 quark n. kvarki
 Braille n. blindraletur, punktaletur
 dimwit n. bjálfi, bjáni, glópur, heimskingi
-dim-witted l. heimskur, sljór, vitlaus
+dimwitted l. sjá %[dim-witted]%
+dim-witted l. heimskur, vitsmunasljór, vitlaus
 freeway n. hraðbraut án vegagjalds
 handbasin n. vaskur, handþvottaskál
 panopticon n. alsjá (fangelsishönnun sem var hugarfóstur heimspekingsins Jeremy Bentham)
@@ -10755,7 +10757,7 @@ thalidomide n. þalídómíð
 democratizer n. lýðræðisvæðari, innleiðari lýðræðis
 infomercial n. kynningarþáttur, kynningarauglýsing, ítarleg auglýsing og vörukynning
 shadiness n. vafasemi; skuggasæla
-gerontocrat n. öldungaræðismaður, aldraðaur ráðamaður
+gerontocrat n. öldungaræðismaður, aldraður ráðamaður
 vacationer n. ferðamaður, túristi, ferðalangur, manneskja í orlofi
 rustbelt n. ryðbelti (niðurnídd og úr sér gengin iðnaðarsvæði)
 peeper n. gægir; auga (óforml.)
@@ -10826,14 +10828,14 @@ illustrated l. myndskreyttur; teiknaður; sýndur
 neuroplasticity n. breyti- og aðlögunargeta taugakerfa heilans
 dealbreaker n. samningsrof; afgerandi atriði í samningaviðræðum ([it's a dealbreaker])
 macintosh n. sjá %[mackintosh]%
-descriptor n. lýsiorð, lýsir, lýsingur
+descriptor n. lýsir, lýsiorð, lýsingur
 graybeard n. sjá %[greybeard]%
 spellbinding l. töfrandi, heillandi, hugfangandi
 starflower n. fagurblóm, stjörnublóm
 Masonic l. frímúrara-; [~ lodge] frímúrarastúka
 crikey uh. jahérna! jeminn!
 hesitance n. sjá %[hesitancy]%
-hesitating n. hikandi
+hesitating l. hikandi
 hesitatingly ao. hikandi, á tvístígandi hátt
 gentilic l. íbúa-, þjóðar-, þjóðflokks-, ættflokks- (um heiti)
 demonym n. íbúaheiti, þjóðarheiti
@@ -10847,3 +10849,11 @@ strip club n. nektardansstaður, strípibúlla
 dermatosis n. húðsjúkdómur
 haggling n. prútt, þref um verð
 shredder n. tætari
+footlocker n. kistill
+corpsman n. sjúkraliði (í her); liðsmaður
+petulantly ao. önuglega, geðvonskulega
+darkening n. myrkvun, dimmun, dökknun
+insulated l. einangraður
+oeuvre n. höfundaverk (úr frönsku)
+tarnished l. óhreinkaður; flekkaður
+dreamily ao. dreymandi
