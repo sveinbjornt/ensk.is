@@ -221,15 +221,20 @@ def syllables_for_word(w: str) -> str:
     if syllable_tokenizer is None:
         syllable_tokenizer = SyllableTokenizer()
 
-    tokens = []
+    # Tokenize each space-separated part, preserving hyphens
+    word_parts = []
     for subw in split_word:
-        t = syllable_tokenizer.tokenize(subw)
-        tokens.extend(t)
+        hyphen_parts = subw.split("-")
+        syllabified = []
+        for part in hyphen_parts:
+            t = syllable_tokenizer.tokenize(part)
+            syllabified.append(SYLLABLES_SEPARATOR.join(t) if t else part)
+        word_parts.append("-".join(syllabified))
 
-    if not tokens:
+    if not word_parts:
         return ""
 
-    return SYLLABLES_SEPARATOR.join(tokens)
+    return SYLLABLES_SEPARATOR.join(word_parts)
 
 
 def is_not_name(syn: str) -> bool:
