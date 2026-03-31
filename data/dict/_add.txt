@@ -3019,6 +3019,7 @@ gerrymander s. hagræða kjördæmum (BNA)
 gerrymandering n. kjördæmahagræðing (BNA)
 Europeanize s. evrópuvæða
 Europeanization n. evrópuvæðing
+Europeanisation n. sjá %[Europeanization]%
 Indo-European l. indóevrópskur; n. Indóevrópumaður
 somnambulate s. ganga í svefni
 somnambulator n. svefngengill, svefngöngumaður
@@ -7229,13 +7230,12 @@ Ash Wednesday n. öskudagur
 headword n. fletta, uppflettiorð, uppsláttarorð (í orðabók)
 domestic animal n. húsdýr
 tranquilized l. róaður (með lyfjum), sefaður, huggaður
-
 scavenge s. nærast á hræjum; hirða, safna (skrani); sópa, hreinsa (götur)
 scavenging n. hræát; að leita að æti; söfnun (á skrani), skransöfnun
 anesthetic n. sjá %[anaesthetic]%
 mouthwash n. munnskol
 Calvinistic l. kalvínskur, kalvínstrúar-
-Calvinistical l. kalvínskur, kalvínstrúar
+Calvinistical l. sjá %[Calvinistic]%
 mugging n. göturán, rán ([he was the victim of a ~])
 hypervigilant l. ofurárvakur, ofurárvökull; gríðarlega aðgætinn
 hypervigilance n. ofurárvekni; gríðarleg aðgætni
@@ -7243,7 +7243,7 @@ aspirator n. sogdæla, sogtæki, útsogsdæla
 coven n. nornasamkunda, samkoma (hópur) norna ([a ~ of witches]); systralag norna
 domesticity n. heimilislíf, fjölskyldulíf; heimilisrækni
 burgomastership n. bæjarstjóraembætti, borgarstjóraembætti
-Machiavellian l. undirförull, slóttugur, kænn; í anda ítalska stjórnspekingsins Niccolo Machiavelli
+Machiavellian l. undirförull, slóttugur, kænn; í anda ítalska stjórnspekingsins Niccolo Machiavelli (1469–1527)
 analytic l. greiningar-, greinandi; sundurliðandi, uppleysandi; rökgreiningar- ([~ philosophy])
 analytic philosophy n. rökgreiningarheimspeki
 continental philosophy n. meginlandsheimspeki
@@ -9254,7 +9254,7 @@ peridot n. e.k. ólívín (gimsteinn)
 tourmaline n. túrmalín (steintegund)
 cadency n. sjá %[cadence]%
 Mach n. Mach-tala (mælieining sem er margföldun á hljóðhraða)
-machination n. ráðabrugg (sjá %[machinations]%)
+machination n. ráðabrugg (yfirleitt í fleirtölu, sjá %[machinations]%)
 commercialize s. gera að söluvöru, gera að markaðsvöru, markaðsvæða, söluvæða
 commercialise s. sjá %[commercialize]%
 modified l. breyttur, ummyndaður (sjá %[modify]%)
@@ -10864,3 +10864,8 @@ sea lion n. sæljón (selur)
 fur seal n. loðselur
 natterjack n. e.k. froskur
 made-up l. skáldaður, uppdiktaður, upploginn
+Antarctic n. Suðurheimskautið, Suðurskautslandið, Suðurheimskautssvæðið (yfirleitt með ákv. greini, [the ~])
+Eu n. sjá %[europium]%
+Ouranos n. sjá %[Uranus]%
+Macintosh n. Apple Macintosh tölva
+Indic l. indverskur, frá Indlandi (um tungumál)
