@@ -1206,9 +1206,8 @@ riffraff n. sorp; úrkast
 rifle n. riffill; s. gera skorur (í hlaup á byssu); s. ræna, stela (frá e-m)
 rifler n. þjófur, ræningi
 rift n. rifa, sprunga; gjá; s. rifa, kljúfa; rifna, klofna
-rig s. útbúa; setja reiða á (skip); n. reiðasetning; útbúnaður ([~ out])
+rig s. útbúa; setja reiða á (skip); n. reiðasetning; útbúnaður ([~ out]); dækja; bragð, hrekkur; [run (one's) ~ upon] leika á e-n
 rigging n. reiði (á skipi)
-rig n. dækja; bragð, hrekkur; [run (one's) ~ upon] leika á e-n
 right l. réttur; beinn ([~ line]); hægri ([my ~ hand]); [the ~ side] rétthverfan; [on the ~ side of forty] enn ekki fertugur; ao. beint, rétt; mjög; til hægri; n. réttur; réttindi; hægri hönd (hlið); [he is ~, in the ~] hann hefur rétt að mæla, stendur á réttu; [be in one's ~ mind or senses] vera með fullu ráði; [he is not ~ in the head] ekki með öllum mjalla; [all will come ~ in the end] allt mun lagast að lokum; [all ~!] allt er gott! [I am all ~] mér amar ekkert, það fer vel um mig; [~ ahead] beint áfram; [on the ~] hægra megin; [set ~] leiðrétta, lagfæra; [set (put) to ~s] koma (e-u) í rétt lag; s. rétta; lagfæra; láta (e-n) ná rétti sínum; komast á réttan kjöl ([the boat ~ed])
 right-angled l. rétthyrndur
 righten s. rétta, laga
@@ -1529,8 +1528,7 @@ rusticity n. bændasiðir, búraskapur; sveitabragur
 rustiness n. ryðgað ástand; ræma, hæsi
 rusty l. ryðgaður; ryðlitaður; önugur, afundinn; rámur, hás ([~ voice])
 rustle s. skrjáfa; stela búfénaði; n. skrjáf; þrusk
-rut n. hjólfar; s. gera hjólfar í; marka línu á (með skóflu)
-rut n. brundtíð (hjartarins); s. (vilja) eðla sig; ríða (um bjarndýr)
+rut n. hjólfar; brundtíð (hjartarins); mök; s. gera hjólfar í; marka línu á (með skóflu); (vilja) eðla sig; ríða (um dýr)
 ruth n. miskunn, meðaumkun (skáldlegt mál)
 ruthful l. miskunnsamur; hryggilegur
 ruthless l. miskunnarlaus; harðbrjóstaður

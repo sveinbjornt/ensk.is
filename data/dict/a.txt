@@ -1273,9 +1273,9 @@ apt l. hæfur; hentugur; vel viðeigandi ([an ~ reply]); hneigður; [I am ~ to] 
 aptness n. hæfileiki (til e-s [for]); tilhneiging
 aptitude n. hæfileiki (til e-s [for]); tilhneiging
 aquamarine n. blágrænn gimsteinn (beryl); l. blágrænn
-aquarium n. fiskabúr, vatnsker (til að geyma í lifandi fiska); sædýrasafn
-aquatic l. sem vex eða lifir í vatni; n. vatnsplanta
-aqueduct n. vatnsveitustokkur, vatnsrenna, vatnsleiðsla, vatnsveita
+aquarium n. fiskabúr, vatnsker (sem geymir lifandi fiska); sædýrasafn
+aquatic l. vatns-; sem vex eða lifir í vatni ([~ creatures]); n. vatnsplanta
+aqueduct n. vatnsleiðsla, vatnsveita, vatnsveitustokkur, vatnsrenna
 aqueous l. vatnskenndur, vatns-
 aquiline l. arnar-; [~ nose] arnarnef, kónganef
 Arab n. Arabi; arabískur hestur
@@ -1288,8 +1288,8 @@ arbiter n. gjörðarmaður; dómari
 arbitrament n. gjörð, úrskurður, dómur
 arbitrariness n. gjörræði; hugþótti
 arbitrary l. gerræðislegur; einráður; duttlungafullur; hugþóttalegur
-arbitrate s. vera gjörðarmaður ([on, upon]); miðla málum; leggja (mál) í gjörð
-arbitration n. gjörð, gerðardómur
+arbitrate s. miðla málum; útkljá deilumál, leysa ágreining; vera gjörðarmaður ([on, upon]); leggja (mál) í gjörð
+arbitration n. gjörð, gerðardómur; málamiðlun
 arbitrator n. gjörðarmaður; málamiðlari
 arboraceous l. trékenndur, viðar-
 arboreal l. trjálegur; trjá-

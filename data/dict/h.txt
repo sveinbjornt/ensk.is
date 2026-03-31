@@ -26,8 +26,7 @@ haggard l. villtur, tryllingslegur; horaður
 haggardly ao. tryllingslega ([his eyes stared ~])
 haggle s. prútta, þrefa um verð; höggva til skemmda
 haggler n. prúttari
-hail s. heilsa; kalla á (skip á siglingu); [~ from] segjast koma frá (um skip); n. heilsun, kveðja; uh. [~ to you!] heill sé yður!
-hail n. hagl; s. hegla; [it ~ed] það var haglél
+hail s. heilsa; kalla á (skip á siglingu); [~ from] segjast koma frá (um skip); hegla; n. hagl; heilsun, kveðja; uh. [~ to you!] heill sé yður!
 hail-shower n. hagldrífa
 hailstone n. haglkorn
 hailstorm n. haglél
@@ -344,7 +343,7 @@ heather-bleat n. hrossagaukur
 heathered l. lyngvaxinn, lynggróinn
 heathery l. lyngvaxinn, lynggróinn
 heating n. hitun
-heave s. hefja, lyfta; draga upp ([~ anchor, a flag, a sail]); kasta; mása; hefjast upp; stiga og falla (eins og öldur á sjó); vera flökurt, ætla að kasta upp; [~ in sight] koma í augsýn, sjást; [~ a sigh] andvarpa; [~ (the ship) in stays] snúa (skipi) upp í vindinn og láta hefjast við; [~ down] leggja (skipi) á hliðina (til hreinsunar eða aðgerðar); [~ up] draga upp; selja upp; n. hafning; ólga; ylgja ([~ of sea]); andvarp; flökurleiki
+heave s. hefja, lyfta; draga upp ([~ anchor, a flag, a sail]); kasta; mása; hefjast upp; stíga og falla (eins og öldur á sjó); vera flökurt, ætla að kasta upp; [~ in sight] koma í augsýn, sjást; [~ a sigh] andvarpa; [~ (the ship) in stays] snúa (skipi) upp í vindinn og láta hefjast við; [~ down] leggja (skipi) á hliðina (til hreinsunar eða aðgerðar); [~ up] draga upp; selja upp; n. hafning; ólga; ylgja ([~ of sea]); andvarp; flökurleiki
 heaven n. himinn; himnaríki; [in ~] á himnum
 heavenly l. himneskur
 heavenly body n. himinhnöttur
@@ -528,9 +527,8 @@ Hibernian l. írskur; n. Íri
 Hibernism n. írskt einkenni eða málfæri
 Hibernicism n. írskt orðalag; írskt þjóðerni
 Hibernicize s. gera írskt
-hide s. fela; leyna; fela sig; n. fylgsni
+hide s. fela; leyna; fela sig; hýða; n. húð, skinn; fylgsni
 hide-and-seek n. feluleikur
-hide n. húð, skinn; s. hýða
 hidebound l. þröngsýnn; afturhaldssamur; grindhoraður
 hideous l. herfilega ljótur, viðbjóðslegur; hræðilegur
 hiding place n. fylgsni, leyni, felustaður
@@ -877,7 +875,6 @@ houseroom n. húsrúm
 housewife n. húsmóðir; ráðskona; lítill saumastokkur; nálhús
 housewifely l. húsmóðurlegur; hirðusamur, sparsamur
 housewifery n. búskapur; sparsemi, hirðusemi
-house n. hús; s. hýsa, veita húsaskjól; flytja inn í hús; dvelja
 housel n. husl; s. husla
 housing n. húsnæði; húsakostur; hús; hýsing; söðulklæði, reiðver, áklæði
 hovel n. lélegur kofi, hreysi; hjallur, byrgi
