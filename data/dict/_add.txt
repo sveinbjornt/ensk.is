@@ -4017,7 +4017,6 @@ tired-looking l. þreytulegur í ásýnd
 lifestyle n. lífsstíll, líferni, lífsháttur
 guesstimate s. (óforml.) meta eða áætla byggt á ágiskunum einum saman (sjá %[guess]% og %[estimate]%); n. mat byggt á ágiskunum
 self-sufficiency n. sjálfsnægt, nægjusemi; sjálfsþurftarbúskapur
-ethnonym n. þjóðaheiti
 retronym n. afturvirkt orð eða nafn
 acronym n. skammnefni, skammstöfunarorð, skammyrði, upphafsstafanafn
 chloride n. klóríð
@@ -6177,7 +6176,6 @@ paternalism n. forræðishyggja
 paternalist n. forræðishyggjumaður
 paternalistic l. hafa tilhneigingu til forræðishyggju, forræðishygginn
 follicular l. eggjastokka-, eggjabús-
-score n. skor, stig, einkunn; s. skora, skora mark; skora e-ð (rista í)
 thruster n. hreyfill (fyrir þotur, eldflaugar og geimför)
 geosynchronous l. jarðsnúningsbundinn; [~ orbit] jarðsnúningsbundinn sporbaugur
 histamine n. lostefni, histamín
@@ -6203,7 +6201,6 @@ oestrus n. sjá %[estrus]%
 estrus n. tíðir, tíðahringur, blæðingar
 oestrous n. tíða-, tíðahrings-, blæðinga- (sjá %[estrus]%)
 excluded l. útilokaður
-slot n. rauf, rifa, hólf, lúga; setja í rauf
 aphantasia n. skortur á getu til myndrænnar ímyndunar
 motivate s. hvetja e-n; skapa hvata; [feel motivated] finna fyrir hvata
 arguably ao. umdeilanlega, sem hægt er að færa rök fyrir
@@ -8211,7 +8208,6 @@ stretchability n. teygjanleiki
 stalwartness n. hreysti; hugrekki; kjarkur; kröftug líkamsbygging
 spongelike l. svampkenndur, eins og svampur (sjá %[sponge]%)
 soothsaying n. spámennska
-soothsayer n. spámaður, spákona, völva
 smarminess n. smeðjuskapur
 seafowl nft. sjófuglar
 elongated l. lengdur; teygður; ílengdur
@@ -8667,7 +8663,6 @@ rutabaga n. gulrófa, rófa
 selch n. landselur
 singed l. sviðinn, brenndur
 smew n. hvítönd (fugl)
-soupçon n. snefill (úr frönsku)
 springtail n. mordýr
 week-long l. vikulangur, heilar viku
 well-read l. vel lesinn, fróður, lærður
@@ -9570,7 +9565,6 @@ prefabrication n. forsmíði (sjá %[prefabricate]%)
 prefabricated l. forsmíðaður, búinn til fyrirfram
 vaudeville n. fjölleikasýning
 stereoscopic l. þrívíddar-
-ugh uh. oj, ojbara
 teddy n. bangsi ([~ bear])
 vet n. dýralæknir (%[veterinarian]%); fyrrverandi hermaður (%[veteran]%); s. kanna vandlega, yfirfara; rannsaka bakgrunn e-s ([all candidates were carefully vetted])
 whose fn. hvers, sem ([the man ~ coat I took])
@@ -9791,7 +9785,6 @@ collegial l. félaga-; háskóla-; sem einkennist af kumpánaskap eða góðum s
 adiposis n. feitlagni; offita; fitusækni
 bravura n. kraftur, fjörleiki; stórkostleg frammistaða í erfiðu verki
 wisely ao. viturlega; hyggilega; skynsamlega ([you chose ~])
-pantaloons nft. langbrækur
 glumly ao. önuglega
 sheepherder n. fjárhirðir, smalamaður
 fledgeless l. fjaðralaus
@@ -9906,7 +9899,6 @@ confectionaries nft. sætindi, sælgæti, sætabrauð
 captivated l. gagntekinn, fangaður, heillaður
 cheerio uh. bless! vertu blessaður!; skál!
 beatnik n. bítnikki (uppreisnarmaður gegn viðteknum gildum, maður sem fer sínar eigin leiðir í atferli og klæðaburði)
-removable l. fjarlægjanlegur, sem hægt er að fjarlægja; færanlegur, flytjanlegur
 bayberry n. myrta (runnategund)
 ionized l. jónaður
 sunroof n. sóllúga, sólþak, þakgluggi
@@ -10699,14 +10691,12 @@ master copy n. frumeintak
 cheerily ao. glaðværlega, hressilega, með gleði
 chignon n. hárhnútur við hnakka, hnakkahnútur
 codec n. víxlbreytir, kódek
-disparagingly ao. óvirðulega, á hátt sem niðrar eða talar niður ([to speak ~ of])
 perplexed l. ráðvilltur, ráðalaus, ruglaður
 oddly ao. undarlega, skringilega, einkennilega, furðulega, kynlega
 harmoniousness n. samræmi, samhljóðan; hljómfegurð, harmónía (sjá %[harmony]%); samlyndi
 initials nft. upphafsstafir
 ménage n. húshald, heimilishald
 menage n. sjá %[ménage]%
-menagerie n. dýragarður, dýrasafn; fjölbreyttur hópur
 stratified l. lagskiptur; stéttaskiptur
 shakiness n. skjálfti; óstöðugleiki, fallvaltleiki
 stakeout n. eftirlit (lögreglu) úr launsátri
@@ -10731,7 +10721,6 @@ bathymetry n. dýptarmælingar, dýptarmælingafræði
 catamaran n. tvíbytna, tvíbolungur (seglbátur með tvo samtengda skrokka)
 battered l. barinn; lemstraður; beyglaður; skemmdur, skaddaður; illa farinn
 unbendable l. óbeygjanlegur, ósveigjanlegur; [~ will] einarður vilji
-true-hearted l. einlægur, heiðarlegur, trúfastur
 repulsiveness n. sá eiginleiki að vera fráhrindandi
 lousiness n. ömurleiki, ömurlegheit; það að vera lúsugur
 soupcon n. sjá %[soupçon]%
@@ -10769,7 +10758,6 @@ small-time l. minni háttar, smá-; [a ~ crook] smáglæpamaður, minniháttar g
 ill-treat s. fara illa með, koma illa fram við, níðast á, misþyrma
 unattackable l. sem ekki er hægt að ráðast á (sjá %[unassailable]%)
 bonnie l. sjá %[bonny]%
-virtual reality n. sýndarveruleiki
 online l. nettengdur, á netinu; tengdur, virkur
 boutique n. verslun, búð, tískuverslun
 skating n. skautahlaup, það að skauta; [go ~] fara á skauta
@@ -10789,7 +10777,6 @@ en masse ao. saman í miklu magni, margir saman komnir (úr frönsku)
 soviet n. sjá %[Soviet]%
 fabular l. dæmisögulegur, goðsögulegur; skröksögu-
 fabulously ao. lygilega; ofboðslega, gríðarlega, stórkostlega
-monolithic l. gerður úr einum steini, einsteinungs-, einsteyptur; sem myndar eina (órjúfanlega) heild
 corrupted l. spilltur; skemmdur; afbakaður
 scattered l. dreifður; tvístraður
 cloudland n. skýjaborgir; draumaland
@@ -10842,7 +10829,7 @@ hesitating l. hikandi
 hesitatingly ao. hikandi, á tvístígandi hátt
 gentilic l. íbúa-, þjóðar-, þjóðflokks-, ættflokks- (um heiti)
 demonym n. íbúaheiti, þjóðarheiti
-ethnonym n. þjóðarheiti, heiti ættflokks
+ethnonym n. þjóðaheiti, heiti ættflokks
 category theory n. ríkjafræði (stærðfr.)
 chained l. fjötraður, hlekkjaður
 unchained l. leystur úr fjötrum; laus allra hlekkja; laus undan kvöðum

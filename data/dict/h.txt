@@ -239,8 +239,7 @@ have s. hafa; eiga ([he had many children]); fá; þurfa; verða, vera neyddur t
 haven n. höfn; hæli
 haversack n. nestispoki hermanna
 havoc n. eyðilegging, tjón, skaði ([make ~]); s. eyða ([~ the land])
-haw n. lítill garður (hjá húsi)
-haw s. segja [haw] ([hum and ~])
+haw s. segja [haw] ([hum and ~]); n. lítill garður (hjá húsi)
 haw-haw s. hlæja tröllslega
 hawk n. haukur, fálki; ræsking; s. veiða með haukum; selja, bjóða til sölu (með köllum); ræskja sig; [~ up] ræskja upp úr sér
 hawker n. mangari, farandsali
@@ -381,10 +380,9 @@ hedge writer n. ónýtur rithöfundur
 heed s. gefa gaum að, hirða um; n. gaumur, eftirtekt; [to take ~] vera var um sig; [to give ~ to] gefa e-u gaum
 heedful l. gætinn, varkár
 heedless l. hirðulaus, gálaus, óvarkár
-heel n. hæll; [from head to ~, from ~ to point] frá hvirfli til ilja; [to lay by the ~s] leggja í fjötra; [to show the ~s] flýja; [to take to the ~s] taka til fótanna; [to be at the ~s of] vera í hælunum á; [to be out at (the) ~s] hafa gat á (sokk)hælunum, vera illa staddur; [to tumble ~s over head] steypa sér (steypast) í kollhnís; skíthæll (sjá %[shitheel]%) s. hæla (skó); (um hund) vera í hælunum á (skepnu), bíta í hælinn
+heel n. hæll; [from head to ~, from ~ to point] frá hvirfli til ilja; [to lay by the ~s] leggja í fjötra; [to show the ~s] flýja; [to take to the ~s] taka til fótanna; [to be at the ~s of] vera í hælunum á; [to be out at (the) ~s] hafa gat á (sokk)hælunum, vera illa staddur; [to tumble ~s over head] steypa sér (steypast) í kollhnís; skíthæll (sjá %[shitheel]%) s. hæla (skó); (um hund) vera í hælunum á (skepnu), bíta í hælinn; leggja á hliðina; leggjast á hliðina, hallast (um skip)
 heelpiece s. gera við hæl (á skó); n. hælleður
 heeltap n. hælplata; dreggjar í staupi
-heel s. leggja á hliðina; leggjast á hliðina, hallast (um skip)
 heft n. vigt, þungi; s. vega, lyfta
 hegemony n. ofurvald, forræði, forysta (ríkis)
 heifer n. kvíga
@@ -424,8 +422,7 @@ helpmate n. aðstoðarmaður; eiginkona, eiginmaður
 helpmeet n. aðstoðarmaður; eiginkona, eiginmaður
 helter-skelter ao. á rúi og stúi, hvað innan um annað, á ringulreið
 helve n. skaft á öxi; s. skefta
-hem n. faldur (á fati); s. falda; [~ about, in, round] umkringja
-hem uh. humm; s. ræskja sig
+hem n. faldur (á fati); s. falda; [~ about, in, round] umkringja; s. ræskja sig
 hemicycle n. hálfhringur
 hemisphere n. hálfhnöttur; hnatthelmingur
 hemispherical l. hálfkúlumyndaður
@@ -836,10 +833,8 @@ hospitable l. gestrisinn
 hospitableness n. gestrisni
 hospital n. sjúkrahús
 hospitality n. gestrisni
-host n. húsráðandi, sem veitir gestum
+host n. húsráðandi, sem veitir gestum; her; hópur, sægur; brauðið í kvöldmáltíðinni
 hostess n. húsmóðir, veitingakona
-host n. her; hópur, sægur
-host n. brauðið í kvöldmáltíðinni
 hostage n. gísl
 hostel n. gistihús; stúdentabústaður
 hostelry n. gistihús

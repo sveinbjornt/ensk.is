@@ -96,9 +96,8 @@ palliative l. afsakandi; linandi; n. fróunarlyf
 pallid l. bleikur, fölur
 pallidity n. fölleiki
 pallor n. bleikja, fölleiki
-palm n. lófi; þverhandarbreidd; akkerisflaug; s. handleika, strjúka með hendinni; fela í lófanum (eins og sjónhverfingamenn); koma e-u sviksamlega (á e-n [on, upon]); múta
+palm n. lófi; þverhandarbreidd; akkerisflaug; pálmatré, pálmaviður; [carry off the ~] vinna sigurpálmann; s. handleika, strjúka með hendinni; fela í lófanum (eins og sjónhverfingamenn); koma e-u sviksamlega (á e-n [on, upon]); múta
 palmary l. frábær, ágætur
-palm n. pálmatré, pálmaviður; [carry off the ~] vinna sigurpálmann
 palmated l. með sundfit
 palmer n. pílagrímur
 palmiped l. með sundfótum; n. sundfugl
@@ -147,7 +146,7 @@ panoply n. alvæpni
 panorama n. alsýni, hringsýni, hringsjá, víðsýni
 pansy n. þrenningargras
 pant s. slá, berjast (um hjartað); mása; [~ for] þrá ákaflega; [~ for breath] standa á öndinni; n. stutt andartak; hjartsláttur; más
-pantaloons nft. buxur
+pantaloons nft. langbrækur, buxur
 pantheism n. algyðistrú, panþeismi (sú kenning að náttúran sé guð)
 pantheist n. algyðistrúarmaður, panþeisti (sjá %[pantheism]%)
 pantheon n. algyðishof
@@ -490,12 +489,11 @@ pedometer n. skrefmælir
 peek s. gægjast ([~ in, out])
 peel s. taka hýði eða börk af; flagna af; n. hýði, börkur
 peep s. gægjast; koma í ljós; tísta; n. píp; fyrsta framkoma; uppkoma; [~ of day] dögun, afturelding; [we had a ~ at] við sáum snöggvast (í svip)
-peer n. jafningi ([you will not easily find his ~]); göfugmenni, sem hefur sæti og atkvæðisrétt í efri málstofu enska þingsins ([duke, marquis, earl, viscount, baron]); s. jafnast við ([with])
+peer n. jafningi ([you will not easily find his ~]); göfugmenni, sem hefur sæti og atkvæðisrétt í efri málstofu enska þingsins ([duke, marquis, earl, viscount, baron]); s. gægjast fram ([~ out]); stara, horfa; jafnast við ([with])
 peerage n. aðalstign; ríkisaðall
 peeress n. háaðalleg frú
 peerless l. óviðjafnanlegur, frábær
 peership n. aðalstign
-peer s. koma í ljós, gægjast fram ([~ out]); stara, horfa
 peevish l. önuglyndur; önugur, ónotalegur
 peevishness n. önuglyndi
 peewit n. sjá %[pewit]%
@@ -977,9 +975,8 @@ pigment n. litur, litarefni
 pigmy n. sjá %[pygmy]%
 pigsty n. svínastía, grísastía
 pigtail n. gríshali; hárpískur í hnakkanum
-pike n. fleinn; spjót, lensa; heykvísl, heykrókur; (hey)galti; fjallstindur; s. stinga, reka í gegn
+pike n. fleinn; spjót, lensa; heykvísl, heykrókur; (hey)galti; fjallstindur; gedda (fiskur); s. stinga, reka í gegn
 pikestaff n. broddstafur; spjótskaft
-pike n. gedda (fiskur)
 pilaster n. ferstrend súla
 pilchard n. e.k. síld
 pile n. hrúga, stafli; köstur; líkbál ([funeral ~]); peningahrúga ([make a ~]); stórhýsi; stólpi, staur; s. hrúga, hlaða upp, stafla

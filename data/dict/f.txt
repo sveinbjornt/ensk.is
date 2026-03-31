@@ -726,7 +726,6 @@ fluency n. liðugleiki (í ræðu), málfimi
 fluent l. liðugur, málfimur, reiprennandi
 fluently ao. liðugt, reiprennandi
 fluey l. hýjugur
-fuff n. hý, hýjungur
 fuffy l. hýjugur; mjúkur
 fluid n. vökvi, fljótandi efni, kvikefni, lögur; l. fljótandi
 fluidity n. fljótanleiki; liðugleiki (í máli, [~ of speech])
@@ -773,8 +772,7 @@ fogy n. sjá %[fogey]%
 fogle n. silkivasaklútur
 fogram n. [an old ~] gamall sérvitringur
 foible n. breyskleiki, brestur, galli ([it has always been my ~])
-foil n. sljótt sverð; ófarir; s. sigra, bera ofurliði, yfirbuga; ónýta; bera af sér (högg); [to be ~ed in one's hopes] bregðast vonir sínar
-foil n. málmþynna; gljáblað (til gyllingar eða undir gimsteina); kvikasilfur á spegilgleri
+foil n. sljótt sverð; ófarir; málmþynna; gljáblað (til gyllingar eða undir gimsteina); kvikasilfur á spegilgleri; s. sigra, bera ofurliði, yfirbuga; ónýta; bera af sér (högg); [to be ~ed in one's hopes] bregðast vonir sínar
 foist s. smeygja (e-u) inn ([in]); koma (e-u) á (e-n [on]) með brögðum
 fold n. felling, brot; kvíar; rétt; (sauða)hjörð; s. leggja í fellingar; brjóta bréf; kvía; vefja, hylja, hjúpa ([~ it in paper, hills ~ed in mist]); [with ~ed arms] með krosslögðum handleggjum; [~ the hands] spenna greipar; [~ in one's arms] faðma að sér; [~ up] brjóta saman
 folding-chair n. stóll, sem leggja má saman
@@ -1226,7 +1224,7 @@ fuddle s. drekka, þjóra; gera kenndan, ölvaðan
 fuddled l. ölvaður
 fudge n. e.k. karamella; bull, lygasaga; s. klúðra, hroða saman, gera e-ð illa ([he ~d the job])
 fuel n. eldsneyti, eldiviður; s. bera eldsneyti að, birgja að eldsneyti; glæða
-fuff n. gustur, blástur; vonska; [get into ~] verða reiður; s. blása
+fuff n. hý, hýjungur; gustur, blástur; vonska; [get into ~] verða reiður; s. blása
 fugacious l. hverfull; roksamur
 fugaciousness n. hverfulleiki; roksemi
 fugacity n. hverfulleiki, óstöðugleiki

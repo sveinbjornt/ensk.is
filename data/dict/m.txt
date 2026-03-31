@@ -588,7 +588,7 @@ memorialize s. sækja (skriflega) um; halda við minningunni um; minnast á e-ð
 memorize s. leggja á minnið; færa í letur, segja frá
 memory n. minni; næmi; endurminning; minning; [within the ~ of man, within living ~] í manna minnum; [in ~ of] til minningar um
 menace s. hóta, ógna; n. hótun; ógnun
-menagerie n. safn af villidýrum sem eru sýnd
+menagerie n. safn af villidýrum sem eru sýnd; dýragarður, dýrasafn; fjölbreyttur hópur
 mend s. bæta, gera við ([~ a road, articles of clothing, furniture, tools]); lagfæra; ráða bætur á; batna; lagast; taka sér fram; [~ the fire] bæta á eldinn; [~ a stocking] staga í sokk, taka í gat á sokk; [~ one's pace] greikka sporið; [~ one's ways] bæta ráð sitt; [least said soonest ~ed] fæst orð hafa minnsta ábyrgð; n. bati ([his health is on the ~]); bót (á fati, [a ~ in a sole of a stocking])
 mender n. bætari
 mendacious l. lyginn, ósannsögull
@@ -1147,7 +1147,7 @@ monogamous l. einkvæntur, einkvænis-
 monogamy n. einkvæni
 monogram n. fangamark
 monolith n. súla úr einum steini; einsteinungur
-monolithic l. úr einum steini
+monolithic l. úr einum steini, einsteinungs-, einsteyptur; sem myndar eina (órjúfanlega) heild
 monologue n. eintal
 monomania n. einæði
 monomaniac n. einæðisvitfirringur

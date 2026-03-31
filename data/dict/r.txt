@@ -70,8 +70,7 @@ raise s. reisa, hefja, lyfta; ýfa (ló á dúk); hækka (verð); auka ([~ one's
 raisin n. rúsína, þurrkað vínber
 raja n. indverskur stórhöfðingi, prins, konungur
 rajah n. indverskur stórhöfðingi, prins, konungur
-rake n. hrífa; lot á skipsstöfnum ([fore-, stern-]); afturhalli á siglutré; beitarland; s. raka ([~ the meadow]); raka saman (fé); rannsaka; skjóta á (skip) langsetis; þjóta fram hjá, strjúkast við; gnæfa (horfa) yfir; hallast aftur (um siglutré); [~ onwards] þjóta áfram; [~ up] ýfa upp; [~ up the fire] fela eldinn (með ösku)
-rake n. lauslætismaður; s. svalla
+rake n. hrífa; lauslætismaður; lot á skipsstöfnum ([fore-, stern-]); afturhalli á siglutré; beitarland; s. raka ([~ the meadow]); raka saman (fé); rannsaka; skjóta á (skip) langsetis; þjóta fram hjá, strjúkast við; gnæfa (horfa) yfir; hallast aftur (um siglutré); [~ onwards] þjóta áfram; [~ up] ýfa upp; [~ up the fire] fela eldinn (með ösku)
 raking l. svallsamur; n. óregla, svall
 rakish l. saurlífur, svallsamur; afturhallandi (um mastur)
 rally s. safna saman aftur (t.d. tvístruðum her); hressa við; herða upp, taka saman ([~ one's strength]); safnast saman aftur (til nýrrar atlögu); ná sér aftur, hressast ([the patient begins to ~]); n. samsöfnun; skammur bati
@@ -99,9 +98,7 @@ random n. tilviljun, hending; l. tilviljunarkenndur, sem verður af handahófi; 
 range s. raða niður; flokka; hleypa út (akkerisfesti); fara um eða yfir; sigla fram með, þræða (ströndina); reika (um eða yfir); hvarfla; draga (um skotvopn); liggja í e-a stefnu ([islands ranging north]); vera jafn e-m ([with]) að tign; [~ along the coast] sigla fram með ströndinni; [the price ~d from eight pence to ten shillings] verðið var frá átta pence til tíu shillings
 range n. röð; eldavél; svæði, svið; reik; leyfi til að reika um ([the ewes have ~ over the stubbles]); skotlengd; beitarland; stefna ([~ of the hills]); [~ of mountains] fjallgarður; [out of (beyond) ~] fyrir utan skotmál
 ranger n. flakkari, sporhundur; skógarvörður; ft. riddaraflokkur ([mounted ~s])
-rank n. röð; þverröð fylkingar; lögtign, mannvirðing; stétt ([men of all ~s]); [take ~ of] vera æðri að tign, vera (e-m) fremri; [men of high ~] stórtignir menn; [reduce to the ~s] færa niður í tölu óbreyttra liðsmanna
-rank s. raða, flokka, skipa í flokk; ganga í röð; vera (í flokki); [~ first (foremost) among] vera fremstur á meðal; [he ~s high in public estimation] hann er í miklum metum af almenningi; [~ next to the king in birth and distinction] ganga næstur konungi að fæðingu og metorðum
-rank l. frjór; ákafur, rammur ([a ~ republican]); sem ofvöxtur er í ([~ grass]); ofsalegur, afskaplegur, ofsa- ([it blows a ~ storm]); of sterkur (um þef); illur, óheilnæmur ([~ climate]); þrár (á bragð)
+rank n. röð; þverröð fylkingar; lögtign, mannvirðing; stétt ([men of all ~s]); [take ~ of] vera æðri að tign, vera (e-m) fremri; [men of high ~] stórtignir menn; [reduce to the ~s] færa niður í tölu óbreyttra liðsmanna; s. raða, flokka, skipa í flokk; ganga í röð; vera (í flokki); [~ first (foremost) among] vera fremstur á meðal; [he ~s high in public estimation] hann er í miklum metum af almenningi; [~ next to the king in birth and distinction] ganga næstur konungi að fæðingu og metorðum; l. frjór; ákafur, rammur ([a ~ republican]); sem ofvöxtur er í ([~ grass]); ofsalegur, afskaplegur, ofsa- ([it blows a ~ storm]); of sterkur (um þef); illur, óheilnæmur ([~ climate]); þrár (á bragð)
 rankness n. frjósemi; ofvöxtur; remma; [~ of pride] ofurmegn drambsemi
 rankle s. grafa ([the wound ~s]); grafa (um sig); valda sviða í (sári); pína ([~ the mind])
 rankling l. sem svíður, svíðandi; sem grefur í
@@ -191,8 +188,7 @@ ravishment n. burtnám; hrifning; nauðgun
 raw l. hrár, ósoðinn; óunninn ([~ silk]); óverkaður ([~ hides]); óæfður, óreyndur ([~ troops, recruits]); óblandaður; hráslagalegur; skinnlaus, húðlaus; n. fleiður; [touch one on the ~] koma við kaun e-s; s. nudda hörundið af, fleiðra
 rawboned l. grindhoraður
 rawness n. hrái, hráleiki; reynsluskortur, vankunnátta; hráslagi ([~ of the air])
-ray n. geisli; [not a ~ of hope] enginn vonarneisti; s. geisla, skína
-ray n. skata (fiskur)
+ray n. geisli; [not a ~ of hope] enginn vonarneisti; skata (fiskur); s. geisla, skína
 raze s. skafa út; afmá, brjóta niður (vígi), jafna með jörðu ([~ to the ground]); rispa ([~ the skin])
 razor n. rakhnífur; s. raka
 razorback n. reyðarhvalur
@@ -243,12 +239,11 @@ reaping-machine n. kornskurðarvél
 reaping-time n. uppskerutími, kornskurður
 reappear s. koma aftur í ljós; ganga aftur (um drauga)
 reappearance n. endurkoma, afturkoma
-rear n. afturhluti; afturhlið; [bring up (close) the ~] vera aftastur (í fylkingu); reka lestina; [in the ~] að baki, á eftir, aftast; [hang on one's ~] vera í humátt á eftir e-m; [at the ~ of] bakvið
+rear n. afturhluti; afturhlið; [bring up (close) the ~] vera aftastur (í fylkingu); reka lestina; [in the ~] að baki, á eftir, aftast; [hang on one's ~] vera í humátt á eftir e-m; [at the ~ of] bakvið; s. hefja, lyfta; reisa ([~ the mast]); ala upp, koma upp (búpeningi); rækta ([~ plants, grain]); prjóna (um hest); gnæfa, mæna (upp [up])
 rear admiral n. sjóliðsforingi (hinn þriðji að tign)
 rearguard n. bakvarðasveit
 rearmost l. aftastur
 rearward l. aftur- ([~ movement]); ao. aftur á bak ([move ~])
-rear s. hefja, lyfta; reisa ([~ the mast]); ala upp, koma upp (búpeningi); rækta ([~ plants, grain]); prjóna (um hest); gnæfa, mæna (upp [up])
 rearmouse n. leðurblaka
 reascend s. stíga aftur upp (á)
 reascent n. enduruppganga
@@ -484,13 +479,11 @@ reeded l. reyrgróinn, sefgróinn
 reeden l. gerður úr reyr ([~ pipes])
 reedy l. reyrgróinn, sefgróinn
 re-edify s. endurreisa ([~ a house, city])
-reef n. rif (í segli) ([take in a ~]); s. rifa (segl); [double-reefed] tvírifaður
-reef n. rif, klettarif, sandrif (í sjó)
+reef n. rif, klettarif, sandrif (í sjó); rif (í segli) ([take in a ~]); s. rifa (segl); [double-reefed] tvírifaður
 reefy l. klettóttur; rifóttur
 reek n. reykur; gufa; fýla; s. rjúka; gufa
 reeky l. rjúkandi; reykugur
-reel n. spóla, vinda; tvinnakefli; hesputré; ríll (skoskur dans); [off the ~] í einni rennu, runu ([he won five races off the ~]); s. vinda upp; hespa; [~ out] vinda ofan (af)
-reel s. reika, skjögra, riða; [my brain ~ed] mig svimaði; n. rið
+reel n. spóla, vinda; tvinnakefli; hesputré; ríll (skoskur dans); [off the ~] í einni rennu, runu ([he won five races off the ~]); rið; s. s. reika, skjögra, riða; [my brain ~ed] mig svimaði; vinda upp; hespa; [~ out] vinda ofan (af)
 re-elect s. endurkjósa
 re-election n. endurkosning
 re-embark s. stíga aftur á skip; flytja aftur á skip
@@ -745,7 +738,7 @@ remorselessness n. miskunnarleysi, harðýðgi
 remote l. fjarlægur, afskekktur; [have not the remotest conception of] ekki hina minnstu hugmynd um; [a ~ resemblance] óveruleg líking
 remoteness n. fjarlægð
 remount s. stíga aftur upp á; útvega (e-m) aftur nýjan hest; stíga aftur upp; stiga aftur á bak; n. nýr (óþreyttur) hestur
-removable l. burtflytjanlegur; sem má víkja (úr embætti)
+removable l. burtflytjanlegur; sem má víkja (úr embætti); fjarlægjanlegur, sem hægt er að fjarlægja; færanlegur, flytjanlegur
 removal n. (brott)flutningur; útrýming; afsetning
 remove s. fjarlægja; flytja (burtu); útrýma; nema (taka) burt; víkja úr embætti; flytja sig búferlum; [~ the cloth] taka (dúkinn) af borðinu; n. flutningur; bil; stig ([but one ~ from]); (ætt)liður; uppflutningur (úr bekk); réttur (matar), sem kemur eftir annan rétt; [he is my cousin once ~d] við erum þremenningar
 remunerable l. launaverður
@@ -1086,8 +1079,7 @@ retrospection n. afturlit; skoðun umliðins tíma
 retrospective l. lútandi að umliðnum tíma; sem verkar aftur fyrir sig
 retroversion n. aftursnúningur, viðsnúningur; endurþýðing (á frummálið)
 retroverted l. aftursnúinn, viðsnúinn
-return s. snúa aftur, koma aftur; skila (senda, borga) aftur; svara; gegna, svara í sama lit (í spilum); launa, endurgjalda; skýra frá; senda (kjósa) á þing ([be ~ed M.P.] vera kosinn þingmaður); [~ thanks] þakka; [~ a bill] neita að borga víxil, afsegja víxli; [~ evil for evil] gjalda illt með illu; [~ like for like] gjalda líku líkt; [~ the books to their places] leggja (láta) bækurnar aftur á sinn stað
-return n. afturkoma; heimför, heimkoma; endursending, endurborgun ([~ of a book, of a loan]); endurgjald; peningasending; svar; skýrsla; þingkosning; árstíðaskipti ([~ of the seasons]); ft. hagnaður, ábati; e.k. létt reyktóbak; [~ of population] manntalsskýrsla; [small profits & quick ~s] lítill ábati, skjót skil; [in ~] til endurgjalds; aftur á móti; [in ~ for] í staðinn fyrir; [by ~ of post] með sömu póstferð aftur; [~ ticket] farmiði (farseðill) fram og aftur (báðar leiðir)
+return s. snúa aftur, koma aftur; skila (senda, borga) aftur; svara; gegna, svara í sama lit (í spilum); launa, endurgjalda; skýra frá; senda (kjósa) á þing ([be ~ed M.P.] vera kosinn þingmaður); [~ thanks] þakka; [~ a bill] neita að borga víxil, afsegja víxli; [~ evil for evil] gjalda illt með illu; [~ like for like] gjalda líku líkt; [~ the books to their places] leggja (láta) bækurnar aftur á sinn stað; n. afturkoma; heimför, heimkoma; endursending, endurborgun ([~ of a book, of a loan]); endurgjald; peningasending; svar; skýrsla; þingkosning; árstíðaskipti ([~ of the seasons]); ft. hagnaður, ábati; e.k. létt reyktóbak; [~ of population] manntalsskýrsla; [small profits & quick ~s] lítill ábati, skjót skil; [in ~] til endurgjalds; aftur á móti; [in ~ for] í staðinn fyrir; [by ~ of post] með sömu póstferð aftur; [~ ticket] farmiði (farseðill) fram og aftur (báðar leiðir)
 returning officer n. kjörstjóri
 reunion n. endurfundur; sameining; samkoma, samsæti
 reunite s. sameina (sætta) aftur; sameinast (sættast) aftur
@@ -1247,14 +1239,13 @@ rimer n. rímari
 rimester n. rímari
 rimose l. með sprungum
 rind n. skurn; skrælingur, hýði (af aldinum); börkur; s. skræla, taka hýðið af
-ring n. hringur; baugur; mannhringur, kringlótt svæði, hringsvæði; skeiðvöllur, kappleikavöllur; áhorfendur; s. láta hring á eða utan um; umlykja
+ring n. hringur; baugur; mannhringur, kringlótt svæði, hringsvæði; skeiðvöllur, kappleikavöllur; áhorfendur; hringing; hljómur; hljóð; s. hringja (í síma); hringja (klukkum); hljóma, óma; láta hring á eða utan um; umlykja
 ringdove n. hringdúfa, skógardúfa
 ringleader n. flokksforingi (uppreisnarflokks), uppreisnarforkólfur
 ringlet n. lítill hringur; hárlokkur
 ringmail n. hringabrynja
 ringousel n. þrastartegund
 ringworm n. hringormur, reformur
-ring s. hringja (klukkum); hljóma, óma; n. hringing; hljómur; hljóð
 ringer n. hringjari ([bell-~])
 rink n. skautasvell, skautagólf; s. renna sér (á skautagólfi)
 rinse s. skola, hreinsa
@@ -1323,11 +1314,10 @@ robustness n. kraftur, styrkleiki
 roc n. risafugl (í arabískri og austurlenskri goðafræði)
 rocambole l. lauktegund
 rochet n. e.k. rykkilín
-rock n. steinn, klettur, bjarg, hamar; sker; rokktónlist ([play some of that ~ and roll music])
+rock n. steinn, klettur, bjarg, hamar; sker; rokktónlist ([play some of that ~ and roll music]); rugg; s. rugga, vagga ([~ a child, a cradle]); riða, reika; rokka (spila rokktónlist)
 rock oil n. steinolía
 rock salt n. steinsalt
 rock-water n. bergvatn
-rock s. rugga, vagga ([~ a child, a cradle]); riða, reika; rokka (spila rokktónlist) n. rugg
 rocker n. valtari (undir ruggu eða ruggstóli)
 rocking n. rugg
 rocking chair n. ruggustóll
