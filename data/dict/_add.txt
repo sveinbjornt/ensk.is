@@ -1808,15 +1808,15 @@ dominator n. valdhafi; yfirdrottnari; sjá %[dominate]%
 yeast infection n. sveppasýking
 clusterfuck n. (óforml.) klasaklúður, stórkostlegt klúður
 calliope n. gufuknúið orgel
-Calliope n. Kallíópa, grísk gyðja kveðskapar og hetjuljóða (ein af músunum, menntagyðjunum níu)
-Clio n. Klíó, grísk gyðja sögunnar (ein af músunum, menntagyðjunum níu)
-Polyhymnia n. Pólýhymnía, grísk gyðja helgra lofsöngva (ein af músunum, menntagyðjunum níu)
-Euterpe n. Evterpa, grísk gyðja hljóðpípuleiks (ein af músunum, menntagyðjunum níu)
-Terpsichore n. Terpískora, grísk gyðja dans og kórsöngs (ein af músunum, menntagyðjunum níu)
-Erato n. Erató, grísk gyðja ástarljóða og leiklistar (ein af músunum, menntagyðjunum níu)
-Melpomene n. Melpómena, grísk gyðja harmleikja (ein af músunum, menntagyðjunum níu)
-Thalia n. Þalía, grísk gyðja gamanleikja (ein af músunum, menntagyðjunum níu)
-Urania n. Úranía, grísk gyðja stjörnufræði (ein af músunum, menntagyðjunum níu)
+Calliope n. Kallíópa (grísk gyðja kveðskapar og hetjuljóða, ein af músunum, menntagyðjunum níu)
+Clio n. Klíó (grísk gyðja sögunnar, ein af músunum, menntagyðjunum níu)
+Polyhymnia n. Pólýhymnía (grísk gyðja helgra lofsöngva, ein af músunum, menntagyðjunum níu)
+Euterpe n. Evterpa (grísk gyðja hljóðpípuleiks, ein af músunum, menntagyðjunum níu)
+Terpsichore n. Terpískora (grísk gyðja dans og kórsöngs, ein af músunum, menntagyðjunum níu)
+Erato n. Erató (grísk gyðja ástarljóða og leiklistar, ein af músunum, menntagyðjunum níu)
+Melpomene n. Melpómena (grísk gyðja harmleikja, ein af músunum, menntagyðjunum níu)
+Thalia n. Þalía (grísk gyðja gamanleikja, ein af músunum, menntagyðjunum níu)
+Urania n. Úranía (grísk gyðja stjörnufræði, ein af músunum, menntagyðjunum níu)
 melodica n. melódíka, blásturspíanó (e.k. blástursknúið hljómborð)
 mindfulness n. núvitund; gjörhygli, gerhygli
 racialism n. kynþáttahyggja
@@ -8979,8 +8979,8 @@ Freyja n. Freyja (ástargyðja í norrænni goðafræði)
 Frey n. Freyr (frjósemisoð í norrænni goðafræði)
 Pluto n. Plútó (dvergreikistjarna, rómverskt goð undirheima)
 Ganymede n. Ganýmedes (stærsta tungl reikistjörnunnar Júpíters)
-Callisto n. Kallistó (fylgitungl reikistjörnunnar Júpíters); gyðja í grískri goðafræði
-Europa n. Evrópa (fylgitungl reikistjörnunnar Júpíters); gyðja í grískri goðafræði
+Callisto n. Kallistó (fylgitungl reikistjörnunnar Júpíters); Kallistó (gyðja í grískri goðafræði)
+Europa n. Evrópa (fylgitungl reikistjörnunnar Júpíters); Evrópa (gyðja í grískri goðafræði)
 Saudi n. Sádi-Arabi; l. sádiarabískur
 Nigerien l. nígerskur, frá Níger; n. Nígermaður
 Togolese l. tógóskur, frá Tógó; n. Tógómaður, Tógómenn
