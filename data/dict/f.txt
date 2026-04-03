@@ -144,10 +144,9 @@ fascination n. töfrun; töfrar; heillun
 fascine n. hrísvöndull
 fashion n. tíska; snið; lögun; háttur; [a man of ~] heldri maður; [in the Parisian ~] eftir Parísartísku; s. mynda; laga (eftir [to])
 fashionable l. sem er eftir tískunni; af heldra tagi
-fast l. fljótur; hraðskreiður; fastur; víggirtur; harðlæstur ([the door was ~]); gjálífur; ao. fast ([to bind, hold ~]); fljótt; ákaft; [~ asleep] í fasta svefni; [to play ~ and loose with] fara léttúðlega með; gabba
+fast l. fljótur; hraðskreiður; fastur; víggirtur; harðlæstur ([the door was ~]); gjálífur; ao. fast ([to bind, hold ~]); fljótt; ákaft; [~ asleep] í fasta svefni; [to play ~ and loose with] fara léttúðlega með, gabba; n. fasta; s. fasta
 fasten s. festa, binda (negla) fast; festast; loða (við [to])
 fastness n. festa; hraði; vígi
-fast n. fasta; s. fasta
 fast day n. dagur til föstu, föstu-dagur
 fastidious l. vandfýsinn; vandlátur; þóttafullur
 fasting n. fasta
@@ -1216,8 +1215,7 @@ frumpy l. önuglyndur, subbulegur
 frush n. hóftunga
 frustrate s. ónýta ([~ a hope, plan]); ógilda
 frustration n. ónýting, ógilding
-fry n. smáfiski, seiði
-fry s. steikja (á pönnu); stikna
+fry s. steikja (á pönnu); stikna; smáfiski, seiði
 frying-pan n. steikarpanna
 fuchsia n. fúksia (jurt)
 fuddle s. drekka, þjóra; gera kenndan, ölvaðan

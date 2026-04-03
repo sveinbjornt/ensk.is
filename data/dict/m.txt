@@ -474,10 +474,8 @@ meagrim n. sjá %[megrim]%
 meal n. máltíð; málsverður; rúgmjöl, haframjöl; s. matast á málum; gera mjölugt; mjöla; gera að mjöli eða dufti
 mealy l. mjölugur, mjölaður ([~ potatoes]); mjölkynjaður; rykugur
 mealymouthed l. talandi óbeint; blíðmáll, mjúkmáll
-mean l. fyrirlitlegur; auðvirðilegur; lítilmótlegur; nískur
 meany ao. fyrirlitlega
-mean l. meðal-; [~ distance] meðalfjarlægð; [~ time] meðaltími; n. meðaltal; meðalhóf, meðalvegur ([keep the golden ~])
-mean s. ætla, hafa í hyggju; ætla sér; meina, eiga við ([whom do you ~?]); þýða; hafa e-ð í huga ([~ mischief, business]); [~ one well, ill] vilja e-m vel, illa; [he was meant for a soldier] ætlaður til að vera hermaður
+mean s. ætla, hafa í hyggju; ætla sér; meina, eiga við ([whom do you ~?]); þýða; hafa e-ð í huga ([~ mischief, business]); [~ one well, ill] vilja e-m vel, illa; [he was meant for a soldier] ætlaður til að vera hermaður; l. meðal-; [~ distance] meðalfjarlægð; [~ time] meðaltími; fyrirlitlegur; auðvirðilegur; lítilmótlegur; nískur; n. meðaltal; meðalhóf, meðalvegur ([keep the golden ~])
 meaning n. merking, þýðing ([the ~ of a word]); ætlun, hyggja; tilgangur
 meaningly ao. af ásettu ráði
 meander s. liggja (ganga, renna) í bugðum; n. bugða ([flow in ~s])
@@ -1327,12 +1325,10 @@ moveless l. hreyfingarlaus
 movement n. hreyfing; gangverk í úri; [watch his ~s] hafa gætur á athöfnum hans
 mover n. hreyfari; hreyfingarafl; uppástungumaður; hvatamaður; [prime (first) ~] frumkvöðull
 moving l. hreyfandi; hreyfingar- ([~ power]); hjartnæmur, áhrifamikill
-mow s. slá (gras, korn); höggva (menn) niður
+mow s. slá (gras, korn); höggva (menn) niður; setja saman í hrúgu; hlaða úr (heyi); gretta sig; n. stakkur af heyi eða korni (í hlöðu); gretta
 mower n. sláttumaður; sláttuvél
 mowing n. sláttur
 mowing season n. heyannir, sláttur
-mow n. stakkur af heyi eða korni (í hlöðu); s. setja saman í hrúgu; hlaða úr (heyi)
-mow n. gretta; s. gretta sig
 Mr n. herra (titill); [Mr Brown] herra Brown
 Mrs n. frú (titill); [Mrs Brown] frú Brown
 much l. mikill; [~ money] miklir peningar; [~ water] mikið vatn; [he is not ~ of a scholar] hann er ekki mikill lærdómsmaður; [I thought as ~] það var það sem ég hugsaði; [make ~ of] gera mikið úr, sýna mikla virðingu; ao. mjög; mikillega ([I ~ regret the mistake]); miklu ([~ better])

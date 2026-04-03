@@ -22,8 +22,7 @@ packet n. lítill böggull; bréfaböggull; pinkill; póstskip; s. búa um (bög
 packet boat n. póstskip
 pact n. samningur, sáttmáli
 paction n. samningur, sáttmáli
-pad n. gata, stígur; reiðhestur; [gentleman (knight) of the ~] stigamaður; s. ganga, labba; troða niður
-pad n. (reið)þófi; hnakkdýna; löpp; s. troða (utan um)
+pad n. gata, stígur; reiðhestur; [gentleman (knight) of the ~] stigamaður; (reið)þófi; hnakkdýna; löpp; s. troða (utan um); ganga, labba; troða niður
 padding n. ítroð (bómull, flóki, hár); uppfylling, léttmeti (í tímaritum)
 paddle s. busla (í vatni með höndum og fótum), ösla; róa (með tvíblaðaðri ár); þukla um ([on, with]); vappa; n. breiðblöðuð ár; spaði í hjóli á gufuskipi eða vatnsmylnu; [double ~] tvíblöðuð ár
 paddleboat n. hjólskip
@@ -455,8 +454,7 @@ peccable l. breyskur
 peccadillo n. smásynd; yfirsjón
 peccancy n. synd, afbrot
 peccant l. syndugur, brotlegur; skemmdur ([a ~ tooth])
-peck n. mælieining, rúmir 9 lítrar; fjórðungur úr ensku [bushel]; hópur
-peck s. tína upp ([~ up]); kroppa með nefinu (um fugl); pikka, pjakka
+peck s. tína upp ([~ up]); kroppa með nefinu (um fugl); pikka, pjakka; n. mælieining, rúmir 9 lítrar; fjórðungur úr ensku [bushel]; hópur
 pecten n. hörpudiskur
 pectinal l. kambmyndaður
 pectinate l. kambmyndaður
