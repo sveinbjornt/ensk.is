@@ -1,10 +1,10 @@
-fastapi==0.129.0
-pydantic-settings==2.12.0
+fastapi==0.135.3
+pydantic-settings==2.13.1
 fastapi-mcp==0.4.0
 jinja2==3.1.6
 sqlite-utils==3.39
 aiofiles==25.1.0
-orjson==3.11.7
-cachetools==6.2.6
+orjson==3.11.8
+cachetools==7.0.5
 nltk==3.9.4
 lxml==6.0.2
