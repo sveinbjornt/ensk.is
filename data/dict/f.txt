@@ -726,7 +726,6 @@ fluency n. liðugleiki (í ræðu), málfimi
 fluent l. liðugur, málfimur, reiprennandi
 fluently ao. liðugt, reiprennandi
 fluey l. hýjugur
-fuff n. hý, hýjungur
 fuffy l. hýjugur; mjúkur
 fluid n. vökvi, fljótandi efni, kvikefni, lögur; l. fljótandi
 fluidity n. fljótanleiki; liðugleiki (í máli, [~ of speech])
@@ -773,8 +772,7 @@ fogy n. sjá %[fogey]%
 fogle n. silkivasaklútur
 fogram n. [an old ~] gamall sérvitringur
 foible n. breyskleiki, brestur, galli ([it has always been my ~])
-foil n. sljótt sverð; ófarir; s. sigra, bera ofurliði, yfirbuga; ónýta; bera af sér (högg); [to be ~ed in one's hopes] bregðast vonir sínar
-foil n. málmþynna; gljáblað (til gyllingar eða undir gimsteina); kvikasilfur á spegilgleri
+foil n. sljótt sverð; ófarir; málmþynna; gljáblað (til gyllingar eða undir gimsteina); kvikasilfur á spegilgleri; s. sigra, bera ofurliði, yfirbuga; ónýta; bera af sér (högg); [to be ~ed in one's hopes] bregðast vonir sínar
 foist s. smeygja (e-u) inn ([in]); koma (e-u) á (e-n [on]) með brögðum
 fold n. felling, brot; kvíar; rétt; (sauða)hjörð; s. leggja í fellingar; brjóta bréf; kvía; vefja, hylja, hjúpa ([~ it in paper, hills ~ed in mist]); [with ~ed arms] með krosslögðum handleggjum; [~ the hands] spenna greipar; [~ in one's arms] faðma að sér; [~ up] brjóta saman
 folding-chair n. stóll, sem leggja má saman
@@ -1051,7 +1049,7 @@ franchise n. einkaréttur, einkaumboð; kosningarréttur ([elective ~]); undanþ
 Franciscan n. grámunkur, fransiskani
 frangible l. auðbrotinn, brjótanlegur
 frank l. hreinskilinn, opinskár, einarður; falslaus; s. senda (bréf) póstgjaldslaust; flytja e-n ókeypis; n. bréf sem ekki þarf að borga undir; [Frank] franki
-frankly ao. hreinskilnislega
+frankly ao. hreinskilnislega, í fullri hreinskilni
 frankness n. hreinlyndi, hreinskilni
 frankincense n. reykelsi
 Frankish l. forn-franskur, frankískur
@@ -1226,7 +1224,7 @@ fuddle s. drekka, þjóra; gera kenndan, ölvaðan
 fuddled l. ölvaður
 fudge n. e.k. karamella; bull, lygasaga; s. klúðra, hroða saman, gera e-ð illa ([he ~d the job])
 fuel n. eldsneyti, eldiviður; s. bera eldsneyti að, birgja að eldsneyti; glæða
-fuff n. gustur, blástur; vonska; [get into ~] verða reiður; s. blása
+fuff n. hý, hýjungur; gustur, blástur; vonska; [get into ~] verða reiður; s. blása
 fugacious l. hverfull; roksamur
 fugaciousness n. hverfulleiki; roksemi
 fugacity n. hverfulleiki, óstöðugleiki
@@ -1243,14 +1241,13 @@ fulgour n. ljómi
 fulgural l. sem lýtur að eldingum; [~ divination] spádómar af eldingum
 fulgurant l. leiftrandi
 fuliginous l. sótugur, reykugur; dimmur
-full l. fullur; saddur; fullger, fullkominn; þriflegur; bústinn ([~ in the face]); [~ brother, sister] albróðir, alsystir; [~ rehearsal] aðalæfing leikrits; [(at) ~ speed] með fullri ferð; [~ of days, years] saddur lífdaga; [~ summer] hásumar; [~ stop] punktur; [~ age] fullveðja aldur; ao. fullt, fyllilega; alveg; [he looked me ~ in the face] beint framan í mig; [~ many times] næsta oft; n. fylling (tunglsins); fullt tungl ([the ~ of the moon]); [in ~] með fullum stöfum; til fullnustu; [to pay in ~] borga allt að fullu; [to the ~] til fulls, alveg
+full l. fullur; saddur; fullger, fullkominn; þriflegur; bústinn ([~ in the face]); [~ brother, sister] albróðir, alsystir; [~ rehearsal] aðalæfing leikrits; [(at) ~ speed] með fullri ferð; [~ of days, years] saddur lífdaga; [~ summer] hásumar; [~ stop] punktur; [~ age] fullveðja aldur; ao. fullt, fyllilega; alveg; [he looked me ~ in the face] beint framan í mig; [~ many times] næsta oft; n. fylling (tunglsins); fullt tungl ([the ~ of the moon]); [in ~] með fullum stöfum; til fullnustu; [to pay in ~] borga allt að fullu; [to the ~] til fulls, alveg; s. þæfa
 full-blown l. alútsprunginn
 full-dressed l. skrautbúinn
 full-grown l. fullvaxta; fullorðinn
 full-hearted l. hugprúður; einlægur; gerður af alhuga
 fullish l. fremur þykkur
 fully ao. fyllilega, algerlega
-full s. þæfa
 fuller n. þófari
 fuller's earth n. þófaraleir
 fullery n. þófarahús

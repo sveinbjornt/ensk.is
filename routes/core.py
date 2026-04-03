@@ -196,11 +196,10 @@ def _results(
         kl = k["word"].lower()
 
         if exact_match:
-            # In exact match mode, only collect exact matches
-            if ql == kl:
+            # In exact match mode, only collect case-sensitive exact matches
+            if q == k["word"]:
                 equal.append(k)
                 exact_match_found = True
-                break
         else:
             # In substring mode, categorize by match type
             if ql in kl:

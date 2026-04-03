@@ -229,7 +229,7 @@ class EnskDatabase:
             self.conn()
             .cursor()
             .execute(
-                "SELECT *, COUNT(*) FROM dictionary GROUP BY lower(word) HAVING COUNT(*) > 1 ORDER BY word COLLATE NOCASE"
+                "SELECT *, COUNT(*) FROM dictionary GROUP BY word HAVING COUNT(*) > 1 ORDER BY word COLLATE NOCASE"
             )
         )
         return self._consume(selected)

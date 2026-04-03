@@ -194,3 +194,26 @@ def test_syllables_for_word_known_multisyllable() -> None:
     result = syllables_for_word("vindictive")
     assert isinstance(result, str)
     assert SYLLABLES_SEPARATOR in result
+
+
+def test_syllables_for_word_hyphenated() -> None:
+    """Test that hyphens are preserved and not treated as syllables."""
+    result = syllables_for_word("turkey-cock")
+    assert "-" in result
+    assert f"{SYLLABLES_SEPARATOR}-" not in result
+    assert f"-{SYLLABLES_SEPARATOR}" not in result
+
+
+def test_syllables_for_word_hyphenated_multisyllable() -> None:
+    """Test that each part of a hyphenated word is syllabified independently."""
+    result = syllables_for_word("self-destruction")
+    assert "-" in result
+    parts = result.split("-")
+    assert len(parts) == 2
+
+
+def test_syllables_for_word_simple_hyphen() -> None:
+    """Test a hyphenated word with monosyllabic parts."""
+    result = syllables_for_word("well-known")
+    assert "-" in result
+    assert f"{SYLLABLES_SEPARATOR}-" not in result

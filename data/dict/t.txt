@@ -110,8 +110,7 @@ tantalizer n. kvalari
 tantamount l. jafngildur, jafn (e-u [to])
 tantivy n. fleygiferð
 tantrum n. duttlungar, ólund, vonska; [be in one's ~s] vera í vondu skapi; [go into one's ~s] komast í vont skap
-tap s. berja hægt á ([~ the door or at the door]); n. lítið högg; leðurpjatla (undir sóla eða hæl)
-tap s. bora gat á ílát; tappa úr (e-u); n. bunugat; tunnukrani; [on (in) ~] á reiðum höndum
+tap s. berja hægt á ([~ the door or at the door]); tappa úr (e-u); bora gat á ílát; n. lítið högg; leðurpjatla (undir sóla eða hæl); bunugat; tunnukrani; [on (in) ~] á reiðum höndum, á krana
 taphouse n. ölstofa
 taproom n. drykkjustofa, ölstofa
 taproot n. aðalrót (plöntu)
@@ -627,9 +626,7 @@ tilbury n. léttivagn
 tile n. tígulsteinn, þaksteinn; [~s for paving floors] gólfflísar; [to have a ~ loose] vera ekki með öllum mjalla; s. þekja (fóðra) með tígulsteinum
 tile-kiln n. tigulofn
 tiling n. tigulþak
-till fs. & st. til (um tíma); þangað til, þar til er; [~ now] hingað til; [not ~ long after] ekki fyrr en löngu seinna; [not ~ then] þá fyrst
-till n. peningaskúffa (í búðarborði)
-till s. yrkja; plægja
+till s. yrkja; plægja; n. peningaskúffa (í búðarborði); fs. til (um tíma); þangað til, þar til er; [~ now] hingað til; [not ~ long after] ekki fyrr en löngu seinna; [not ~ then] þá fyrst
 tillable l. yrkilegur, ræktanlegur
 tillage n. yrking, ræktun, jarðrækt
 tiller n. jarðyrkjumaður, bóndi; stýrissveif, stjórnvölur; lítil peningaskúffa
@@ -1249,7 +1246,7 @@ trudge s. þramma, labba
 true l. sannur; sannorður; ekta, ósvikinn, hreinskilinn, einlægur; áreiðanlegur; réttur; trúr, tryggur; [~ to one's word, promise] áreiðanlegur; [~ it is] satt er það
 true-blue l. frábærlega vandaður, áreiðanlegur
 trueborn l. réttborinn; sannarlegur
-true-hearted l. hreinskilinn, einlægur
+true-hearted l. hreinskilinn, einlægur, heiðarlegur, trúfastur
 trueness n. réttleiki; einlægni; trúleiki
 truffle n. truffla (e.k. ætisveppur, kúlusveppur)
 truism n. sjálfséður eða óefaður sannleikur

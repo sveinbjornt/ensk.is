@@ -342,7 +342,7 @@ scoop n. ausa; austurtrog; s. ausa, þurrausa; moka; hola út
 scope n. umfang; verkahringur, verksvið; gildissvið; ráðrúm; tilgangur, takmark; sjá (t.d. %[microscope]%); sjónauki (á skotvopni)
 scorbutic l. veikur af skyrbjúg; skyrbjúgs-
 scorch s. svíða, láta skrælna af hita; sviðna, skrælna
-score n. skora; strik; reikningur; skuld; ástæða; skor (tveir tugir); [upon the ~ of friendship] fyrir vináttusakir; [to go (set) off, start at a ~] þjóta af stað (um hest); [to quit ~s with one] gera upp reikninga við e-n, borga e-m að fullu; s. merkja með skorum eða strikum, skora, strika; skrifa í reikning (e-s); [~ out] strika út
+score n. skor, stig, einkunn; skora; strik; reikningur; skuld; ástæða; skor (tveir tugir); [upon the ~ of friendship] fyrir vináttusakir; [to go (set) off, start at a ~] þjóta af stað (um hest); [to quit ~s with one] gera upp reikninga við e-n, borga e-m að fullu; s. skora, skora mark; skora e-ð (rista í); merkja með skorum eða strikum, skora, strika; skrifa í reikning (e-s); [~ out] strika út
 scoria n. sindur, gjall; ft. vikurkol
 scoriaceous l. gjallmyndaður, gjall-
 scorn s. fyrirlíta; forsmá; n. fyrirlitning; forsmán
@@ -1210,10 +1210,9 @@ sixthly ao. í sjötta lagi
 sixtieth l. sextugasti; n. sextugasti partur
 sixty l. sextíu
 sizar n. styrkþegi við háskóla í Cambridge og Dublin
-size n. stærð; brot (á bók); [the two men were about the same ~] jafnstórir; [a ~ too small] einni tölu of lítill (um hanska, skó, klæðnað, o.s.frv.)
+size n. stærð; brot (á bók); [the two men were about the same ~] jafnstórir; [a ~ too small] einni tölu of lítill (um hanska, skó, klæðnað, o.s.frv.); þunnt lím, límvatn; gljákvoða; s. draga límvatn (gljákvoðu) á
 sizeable l. fremur stór, allstór
 sizable l. fremur stór, allstór
-size n. þunnt lím, límvatn; gljákvoða; s. draga límvatn (gljákvoðu) á
 sizy l. límkenndur, kvoðulegur, seigur
 sizzle n. snark; s. snarka
 skald n. norrænt fornskáld
@@ -1385,7 +1384,7 @@ slop pail n. skólpfata
 sloppy l. óvandaður, óvandvirkur (um vinnu); pollóttur (um vegi)
 slopseller n. sá sem selur tilbúinn fatnað
 slopshop n. fatasölubúð
-slot n. spor (dýra)
+slot n. rauf, rifa, hólf, lúga; spor (dýra); s. setja í rauf
 sloth n. leti, dugleysi; letidýr (amerískt spendýr sem hreyfir sig hægt)
 slothful l. latur, duglaus
 slouch s. vera niðurlútur; hanga, slúta; ganga (sitja, standa) klunnalega, draga á eftir sér fæturna; þrýsta niður; láta (hattinn) slúta; n. klunnalegt göngulag
@@ -1682,7 +1681,7 @@ soot n. sót; s. klína sóti á
 sooty l. sótugur, sót-; dimmur
 sooth n. sannleikur; [for ~, in ~] satt að segja
 soothsay s. segja fyrir, spá
-soothsayer n. spámaður
+soothsayer n. spámaður, spákona, völva
 soothe s. stilla; sefa; hugga; kjassa, smjaðra
 soothing l. sefandi; huggandi
 sop n. útbleyttur biti; friðunargjöf; s. dýfa (e-u) í, bleyta út; þerra (soga) upp; rennvæta; [~ing with rain] rennvotur (gagndrepa) af regni
@@ -1908,8 +1907,7 @@ spiritualize s. gera andlegt; lífga; hreinsa (siðferðislega); þýða á andl
 spirituous l. áfengur ([~ liquors])
 spirt s. skvettast, spýtast; spýta; n. skvetta, gusa
 spiry l. uppmjór; hringsnúinn; með mörgum turnspírum
-spit n. steikarteinn; oddi, tangi; s. setja á steikartein; reka í gegnum
-spit s. spýta, hrækja, skyrpa; n. munnvatn, hráki
+spit n. munnvatn, hráki; steikarteinn; oddi, tangi; s. spýta, hrækja, skyrpa; setja á steikartein; reka í gegnum
 spitfire n. uppstökkur maður, funi
 spite n. illvilji, illska; óvild; [to owe one a ~, have a ~ against] hafa illan hug til e-s; [in ~ of the foul weather] þrátt fyrir hið vonda veður; s. gera (e-m) illt í geði; móðga, skaprauna, storka (e-m)
 spiteful l. illskufullur, meinsamur, illgirnislegur
@@ -2132,8 +2130,7 @@ stance n. staða; afstaða; stæði; hússtæði, tjaldstæði ([a ~ for a house
 stanch l. sjá %[staunch]%
 staunch s. stöðva (blóðrás); sefa; stöðvast, hætta að renna; l. sterkur og þéttur; fastur (í skoðunum); staðfastur; trúr, tryggur; áreiðanlegur; ákafur
 stanchion n. skorða
-stand s. standa; standa kyrr, staðnæmast; haldast; vera; halda, stefna (um skip); standast, þola ([~ the cold, heat]); láta e-ð af hendi rakna; [as things (matters) ~] eftir því sem málunum er komið; [~ at trifles] hika við smámuni, láta smámuni fæla sig; [~ fire] standast skothríðina; [~ one's ground] halda stöðu sinni, halda velli; [~ treat] kosta veitingarnar; [~ against] standa á móti; [~ aside] ganga úr vegi, stíga til hliðar; [~ by] vera viðstaddur; aðstoða, verja; standa við; bregðast ekki ([~ by an agreement]); vera komið undir; [~ for] verja, styðja ([a person, his cause]); vera sama sem, þýða; stefna (um skip); [~ for nothing] vera einskisvirði; [~ for (a constituency)] bjóða sig fram (í e-u kjördæmi); [~ in need of] þarfnast, vanta; [~ indebted to] vera skuldbundinn e-m; [~ off] standa álengdar; færast undan; [we stood off the cape] við vorum fram undan höfðanum; [~ off and on] sigla að og frá landi; vera á báðum áttum; [~ out] standa út, skaga fram; láta ekki undan; [~ out from] gnæfa yfir; [~ out for] halda (e-u) fram, verja; [~ to] standa við, efna ([~ to promise]); halda (e-u) föstu; [it ~s to reason] það er eðlilegt (auðvitað, auðskilið); [~ up] standa (rísa) upp; standa uppréttur; [~ up for] verja; [~ upon] meta mikils ([she stood upon her rank]), vera fastur á (e-u)
-stand n. staður; staða ([take one's ~ near the door]); stöð, vagnstöð; stöðvun, viðstaða, hlé; áhorfandapallur; mótstaða, viðnám; [to be at a ~] vera í vandræðum; [to make a ~] veita viðnám ([against the enemy])
+stand s. standa; standa kyrr, staðnæmast; haldast; vera; halda, stefna (um skip); standast, þola ([~ the cold, heat]); láta e-ð af hendi rakna; [as things (matters) ~] eftir því sem málunum er komið; [~ at trifles] hika við smámuni, láta smámuni fæla sig; [~ fire] standast skothríðina; [~ one's ground] halda stöðu sinni, halda velli; [~ treat] kosta veitingarnar; [~ against] standa á móti; [~ aside] ganga úr vegi, stíga til hliðar; [~ by] vera viðstaddur; aðstoða, verja; standa við; bregðast ekki ([~ by an agreement]); vera komið undir; [~ for] verja, styðja ([a person, his cause]); vera sama sem, þýða; stefna (um skip); [~ for nothing] vera einskisvirði; [~ for (a constituency)] bjóða sig fram (í e-u kjördæmi); [~ in need of] þarfnast, vanta; [~ indebted to] vera skuldbundinn e-m; [~ off] standa álengdar; færast undan; [we stood off the cape] við vorum fram undan höfðanum; [~ off and on] sigla að og frá landi; vera á báðum áttum; [~ out] standa út, skaga fram; láta ekki undan; [~ out from] gnæfa yfir; [~ out for] halda (e-u) fram, verja; [~ to] standa við, efna ([~ to promise]); halda (e-u) föstu; [it ~s to reason] það er eðlilegt (auðvitað, auðskilið); [~ up] standa (rísa) upp; standa uppréttur; [~ up for] verja; [~ upon] meta mikils ([she stood upon her rank]), vera fastur á (e-u); n. staður; staða ([take one's ~ near the door]); stöð, vagnstöð; stöðvun, viðstaða, hlé; áhorfandapallur; mótstaða, viðnám; [to be at a ~] vera í vandræðum; [to make a ~] veita viðnám ([against the enemy])
 standard n. staðall; herfáni; merki; lögákveðið mál; mælikvarði; fyrirmynd; l. fyrirmyndarlegur, fyrirmyndar- ([~ authors]); lögákveðinn
 standard-bearer n. merkisberi, herfánaberi
 standing l. stöðugur; fastur ([~ rule]); [~ army] fastur her; [~ corn] óslegið korn; n. staða; festa; embættisár; álit, met; stétt; [a man of good ~] vel metinn maður; [of long ~] sem staðið hefur lengi; [a custom of long ~] gamall siður

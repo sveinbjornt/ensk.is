@@ -26,8 +26,7 @@ haggard l. villtur, tryllingslegur; horaður
 haggardly ao. tryllingslega ([his eyes stared ~])
 haggle s. prútta, þrefa um verð; höggva til skemmda
 haggler n. prúttari
-hail s. heilsa; kalla á (skip á siglingu); [~ from] segjast koma frá (um skip); n. heilsun, kveðja; uh. [~ to you!] heill sé yður!
-hail n. hagl; s. hegla; [it ~ed] það var haglél
+hail s. heilsa; kalla á (skip á siglingu); [~ from] segjast koma frá (um skip); hegla; n. hagl; heilsun, kveðja; uh. [~ to you!] heill sé yður!
 hail-shower n. hagldrífa
 hailstone n. haglkorn
 hailstorm n. haglél
@@ -239,8 +238,7 @@ have s. hafa; eiga ([he had many children]); fá; þurfa; verða, vera neyddur t
 haven n. höfn; hæli
 haversack n. nestispoki hermanna
 havoc n. eyðilegging, tjón, skaði ([make ~]); s. eyða ([~ the land])
-haw n. lítill garður (hjá húsi)
-haw s. segja [haw] ([hum and ~])
+haw s. segja [haw] ([hum and ~]); n. lítill garður (hjá húsi)
 haw-haw s. hlæja tröllslega
 hawk n. haukur, fálki; ræsking; s. veiða með haukum; selja, bjóða til sölu (með köllum); ræskja sig; [~ up] ræskja upp úr sér
 hawker n. mangari, farandsali
@@ -345,7 +343,7 @@ heather-bleat n. hrossagaukur
 heathered l. lyngvaxinn, lynggróinn
 heathery l. lyngvaxinn, lynggróinn
 heating n. hitun
-heave s. hefja, lyfta; draga upp ([~ anchor, a flag, a sail]); kasta; mása; hefjast upp; stiga og falla (eins og öldur á sjó); vera flökurt, ætla að kasta upp; [~ in sight] koma í augsýn, sjást; [~ a sigh] andvarpa; [~ (the ship) in stays] snúa (skipi) upp í vindinn og láta hefjast við; [~ down] leggja (skipi) á hliðina (til hreinsunar eða aðgerðar); [~ up] draga upp; selja upp; n. hafning; ólga; ylgja ([~ of sea]); andvarp; flökurleiki
+heave s. hefja, lyfta; draga upp ([~ anchor, a flag, a sail]); kasta; mása; hefjast upp; stíga og falla (eins og öldur á sjó); vera flökurt, ætla að kasta upp; [~ in sight] koma í augsýn, sjást; [~ a sigh] andvarpa; [~ (the ship) in stays] snúa (skipi) upp í vindinn og láta hefjast við; [~ down] leggja (skipi) á hliðina (til hreinsunar eða aðgerðar); [~ up] draga upp; selja upp; n. hafning; ólga; ylgja ([~ of sea]); andvarp; flökurleiki
 heaven n. himinn; himnaríki; [in ~] á himnum
 heavenly l. himneskur
 heavenly body n. himinhnöttur
@@ -381,10 +379,9 @@ hedge writer n. ónýtur rithöfundur
 heed s. gefa gaum að, hirða um; n. gaumur, eftirtekt; [to take ~] vera var um sig; [to give ~ to] gefa e-u gaum
 heedful l. gætinn, varkár
 heedless l. hirðulaus, gálaus, óvarkár
-heel n. hæll; [from head to ~, from ~ to point] frá hvirfli til ilja; [to lay by the ~s] leggja í fjötra; [to show the ~s] flýja; [to take to the ~s] taka til fótanna; [to be at the ~s of] vera í hælunum á; [to be out at (the) ~s] hafa gat á (sokk)hælunum, vera illa staddur; [to tumble ~s over head] steypa sér (steypast) í kollhnís; skíthæll (sjá %[shitheel]%) s. hæla (skó); (um hund) vera í hælunum á (skepnu), bíta í hælinn
+heel n. hæll; [from head to ~, from ~ to point] frá hvirfli til ilja; [to lay by the ~s] leggja í fjötra; [to show the ~s] flýja; [to take to the ~s] taka til fótanna; [to be at the ~s of] vera í hælunum á; [to be out at (the) ~s] hafa gat á (sokk)hælunum, vera illa staddur; [to tumble ~s over head] steypa sér (steypast) í kollhnís; skíthæll (sjá %[shitheel]%) s. hæla (skó); (um hund) vera í hælunum á (skepnu), bíta í hælinn; leggja á hliðina; leggjast á hliðina, hallast (um skip)
 heelpiece s. gera við hæl (á skó); n. hælleður
 heeltap n. hælplata; dreggjar í staupi
-heel s. leggja á hliðina; leggjast á hliðina, hallast (um skip)
 heft n. vigt, þungi; s. vega, lyfta
 hegemony n. ofurvald, forræði, forysta (ríkis)
 heifer n. kvíga
@@ -424,8 +421,7 @@ helpmate n. aðstoðarmaður; eiginkona, eiginmaður
 helpmeet n. aðstoðarmaður; eiginkona, eiginmaður
 helter-skelter ao. á rúi og stúi, hvað innan um annað, á ringulreið
 helve n. skaft á öxi; s. skefta
-hem n. faldur (á fati); s. falda; [~ about, in, round] umkringja
-hem uh. humm; s. ræskja sig
+hem n. faldur (á fati); s. falda; [~ about, in, round] umkringja; s. ræskja sig
 hemicycle n. hálfhringur
 hemisphere n. hálfhnöttur; hnatthelmingur
 hemispherical l. hálfkúlumyndaður
@@ -531,9 +527,8 @@ Hibernian l. írskur; n. Íri
 Hibernism n. írskt einkenni eða málfæri
 Hibernicism n. írskt orðalag; írskt þjóðerni
 Hibernicize s. gera írskt
-hide s. fela; leyna; fela sig; n. fylgsni
+hide s. fela; leyna; fela sig; hýða; n. húð, skinn; fylgsni
 hide-and-seek n. feluleikur
-hide n. húð, skinn; s. hýða
 hidebound l. þröngsýnn; afturhaldssamur; grindhoraður
 hideous l. herfilega ljótur, viðbjóðslegur; hræðilegur
 hiding place n. fylgsni, leyni, felustaður
@@ -589,9 +584,8 @@ hilly l. hæðóttur, hólóttur
 hilt n. meðalkafli á sverði
 him fn. hann, honum
 himself n. (hann) sjálfur; (sjálfan) sig
-hind n. hjartkolla, hind
 hind calf n. hindarkálfur
-hind l. aftur-
+hind l. aftur-; n. hjartkolla, hind
 hind leg n. afturfótur
 hinder- fsk. aftur-
 hindermost l. aftastur
@@ -703,7 +697,7 @@ holograph n. eiginhandar ([~ deed]), eiginhandarrit
 holster n. skammbyssuhylki (úr leðri)
 holy l. heilagur; [~ of holies] hið allra helgasta
 Holy Thursday n. uppstigningardagur; skírdagur
-holy office n. rannsóknarrétturinn kaþólski
+holy office n. kaþólski rannsóknarrétturinn
 holy water n. vígt vatn
 Holy Week n. dymbilvika, efsta vika, kyrra vika, dymbildagavika (vikan fyrir páska)
 homage n. þegnskyldueiður, hollustueiður, hollusta, lotning, virðing; [to do ~ to] heita (e-m) hollustu; [to pay ~ to] sýna e-m lotningu; s. hylla, sýna e-m lotningu
@@ -836,10 +830,8 @@ hospitable l. gestrisinn
 hospitableness n. gestrisni
 hospital n. sjúkrahús
 hospitality n. gestrisni
-host n. húsráðandi, sem veitir gestum
+host n. húsráðandi, sem veitir gestum; her; hópur, sægur; brauðið í kvöldmáltíðinni
 hostess n. húsmóðir, veitingakona
-host n. her; hópur, sægur
-host n. brauðið í kvöldmáltíðinni
 hostage n. gísl
 hostel n. gistihús; stúdentabústaður
 hostelry n. gistihús
@@ -882,7 +874,6 @@ houseroom n. húsrúm
 housewife n. húsmóðir; ráðskona; lítill saumastokkur; nálhús
 housewifely l. húsmóðurlegur; hirðusamur, sparsamur
 housewifery n. búskapur; sparsemi, hirðusemi
-house n. hús; s. hýsa, veita húsaskjól; flytja inn í hús; dvelja
 housel n. husl; s. husla
 housing n. húsnæði; húsakostur; hús; hýsing; söðulklæði, reiðver, áklæði
 hovel n. lélegur kofi, hreysi; hjallur, byrgi

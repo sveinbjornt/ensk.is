@@ -6,3 +6,4 @@ uvicorn==0.40.0
 pypdf==6.9.2
 reportlab==4.4.10
 skiptir==1.0.0
+pypub3==2.0.9
