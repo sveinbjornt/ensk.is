@@ -584,9 +584,8 @@ hilly l. hæðóttur, hólóttur
 hilt n. meðalkafli á sverði
 him fn. hann, honum
 himself n. (hann) sjálfur; (sjálfan) sig
-hind n. hjartkolla, hind
 hind calf n. hindarkálfur
-hind l. aftur-
+hind l. aftur-; n. hjartkolla, hind
 hind leg n. afturfótur
 hinder- fsk. aftur-
 hindermost l. aftastur
@@ -698,7 +697,7 @@ holograph n. eiginhandar ([~ deed]), eiginhandarrit
 holster n. skammbyssuhylki (úr leðri)
 holy l. heilagur; [~ of holies] hið allra helgasta
 Holy Thursday n. uppstigningardagur; skírdagur
-holy office n. rannsóknarrétturinn kaþólski
+holy office n. kaþólski rannsóknarrétturinn
 holy water n. vígt vatn
 Holy Week n. dymbilvika, efsta vika, kyrra vika, dymbildagavika (vikan fyrir páska)
 homage n. þegnskyldueiður, hollustueiður, hollusta, lotning, virðing; [to do ~ to] heita (e-m) hollustu; [to pay ~ to] sýna e-m lotningu; s. hylla, sýna e-m lotningu

@@ -516,9 +516,8 @@ peltry n. loðskinnavara
 peltate l. skjaldmyndaður
 pelvis n. mjaðmagrind
 pemmican n. þurrkað og smámulið kjöt til langferða; e.k. kæfa
-pen n. penni; s. skrifa (hjá sér); semja
+pen n. penni; kví; stía; s. skrifa (hjá sér); semja; reka inn í kví; inniloka ([~ up, in]); stífla (vatn í á)
 penholder n. pennaskaft
-pen n. kví; stía; s. reka inn í kví; inniloka ([~ up, in]); stífla (vatn í á)
 penal l. refsingarverður; hegningar-; [~ code] hegningarlögbók; [~ servitude] hegningarvinna
 penalize s. hegna, refsa
 penalty n. refsing, hegning; fésekt; [on (under) ~ of death] að viðlagðri dauðarefsingu
@@ -1864,8 +1863,7 @@ president n. forseti, formaður
 presidential l. forsetalegur; [~ election] forsetakosning
 presidentship n. forsetatign, forsetadæmi
 presignify s. benda á fyrir fram, boða, fyrirboða
-press s. þrengja (kreppa) að; þrýsta á ([~ on, upon]); kreista fergja; kúga, þvinga (til sjóliðsþjónustu); þrýsta (í faðm sér); leggja fast að, herða á (e-m); halda (e-u) fast fram; ganga ríkt eftir; þyrpast, troðast; [I am ~ed for money, for time] ég er félaus, hef nauman tíma; [he ~ed upon me] tróð upp á mig; [time ~es] tíminn er naumur, það liggur á; [~ for payment] ganga ríkt eftir borgun
-press n. prentvél, prentverk; pressa, farg; þvingun; mannþröng, troðningur; hraði, flaustur; fata- eða bókaskápur; [liberty of the ~] prentfrelsi; [pass (put) through the ~] láta prenta; [ready for the ~] búinn til prentunar; [~ of sail] öll segl, sem skipið þolir; [the (daily) ~] dagblöðin
+press s. þrengja (kreppa) að; þrýsta á ([~ on, upon]); kreista fergja; kúga, þvinga (til sjóliðsþjónustu); þrýsta (í faðm sér); leggja fast að, herða á (e-m); halda (e-u) fast fram; ganga ríkt eftir; þyrpast, troðast; [I am ~ed for money, for time] ég er félaus, hef nauman tíma; [he ~ed upon me] tróð upp á mig; [time ~es] tíminn er naumur, það liggur á; [~ for payment] ganga ríkt eftir borgun; n. prentvél, prentverk; pressa, farg; þvingun; mannþröng, troðningur; hraði, flaustur; fata- eða bókaskápur; [liberty of the ~] prentfrelsi; [pass (put) through the ~] láta prenta; [ready for the ~] búinn til prentunar; [~ of sail] öll segl, sem skipið þolir; [the (daily) ~] dagblöðin
 press gang n. flokkur manna, sem sendur var út til þess að taka menn nauðuga til sjóliðsþjónustu
 pressman n. prentari; blaðamaður
 pressing l. þvingandi ([~ evils]); áriðandi, brýnn ([~ need]); áleitinn; [a ~ want] mikill skortur; n. þrýsting; fortölur

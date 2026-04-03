@@ -8,8 +8,7 @@ rabid l. æðisgenginn; hundaóður, óður (um hunda)
 rabidness n. æði
 rabies n. hundaæði
 raccoon n. þvottabjörn
-race n. kyn, ætt ([of noble ~]); kynflokkur, kynþáttur ([the Mongolian ~, the human ~]); hröð ferð, skeið; kapphlaup ([foot~]); kappreið ([horse~]); kappróður, kappsigling ([boat-~]); stríður straumur, röst (í sjó); [run a ~] þreyta kapphlaup, reyna sig á hlaupi; [my ~ is run] æviskeið mitt er runnið
-race s. þreyta kapphlaup (kappreið, kappakstur, kappróður), reyna sig á hlaupi (á reið, róðri eða siglingu); reyna (hest) á hlaupi
+race n. kyn, ætt ([of noble ~]); kynflokkur, kynþáttur ([the Mongolian ~, the human ~]); hröð ferð, skeið; kapphlaup ([foot~]); kappreið ([horse~]); kappróður, kappsigling ([boat ~]); stríður straumur, röst (í sjó); [run a ~] þreyta kapphlaup, reyna sig á hlaupi; [my ~ is run] æviskeið mitt er runnið; s. þreyta kapphlaup (kappreið, kappakstur, kappróður), reyna sig á hlaupi (á reið, róðri eða siglingu); reyna (hest) á hlaupi
 race boat n. kappróðrarbátur, kappsiglingabátur
 racecourse n. skeiðvöllur, kappakstursbraut
 raceground n. skeiðvöllur, kappakstursbraut
@@ -95,9 +94,8 @@ rancidity n. þrái
 rancorous l. hatursfullur
 rancour n. óvildarhugur, kali, hatur ([a private ~])
 random n. tilviljun, hending; l. tilviljunarkenndur, sem verður af handahófi; [a ~ shot (question)] skot (spurning) út í bláinn; [at ~] af handahófi, út í bláinn ([to speak at ~])
-range s. raða niður; flokka; hleypa út (akkerisfesti); fara um eða yfir; sigla fram með, þræða (ströndina); reika (um eða yfir); hvarfla; draga (um skotvopn); liggja í e-a stefnu ([islands ranging north]); vera jafn e-m ([with]) að tign; [~ along the coast] sigla fram með ströndinni; [the price ~d from eight pence to ten shillings] verðið var frá átta pence til tíu shillings
-range n. röð; eldavél; svæði, svið; reik; leyfi til að reika um ([the ewes have ~ over the stubbles]); skotlengd; beitarland; stefna ([~ of the hills]); [~ of mountains] fjallgarður; [out of (beyond) ~] fyrir utan skotmál
-ranger n. flakkari, sporhundur; skógarvörður; ft. riddaraflokkur ([mounted ~s])
+range s. raða niður; flokka; hleypa út (akkerisfesti); fara um eða yfir; sigla fram með, þræða (ströndina); reika (um eða yfir); hvarfla; draga (um skotvopn); liggja í e-a stefnu ([islands ranging north]); vera jafn e-m ([with]) að tign; [~ along the coast] sigla fram með ströndinni; [the price ~d from eight pence to ten shillings] verðið var frá átta pence til tíu shillings; n. röð; eldavél; svæði, svið; reik; leyfi til að reika um ([the ewes have ~ over the stubbles]); skotlengd; beitarland; stefna ([~ of the hills]); [~ of mountains] fjallgarður; [out of (beyond) ~] fyrir utan skotmál
+ranger n. flakkari, sporhundur; skógarvörður; nft. [rangers] riddaraflokkur ([mounted ~s])
 rank n. röð; þverröð fylkingar; lögtign, mannvirðing; stétt ([men of all ~s]); [take ~ of] vera æðri að tign, vera (e-m) fremri; [men of high ~] stórtignir menn; [reduce to the ~s] færa niður í tölu óbreyttra liðsmanna; s. raða, flokka, skipa í flokk; ganga í röð; vera (í flokki); [~ first (foremost) among] vera fremstur á meðal; [he ~s high in public estimation] hann er í miklum metum af almenningi; [~ next to the king in birth and distinction] ganga næstur konungi að fæðingu og metorðum; l. frjór; ákafur, rammur ([a ~ republican]); sem ofvöxtur er í ([~ grass]); ofsalegur, afskaplegur, ofsa- ([it blows a ~ storm]); of sterkur (um þef); illur, óheilnæmur ([~ climate]); þrár (á bragð)
 rankness n. frjósemi; ofvöxtur; remma; [~ of pride] ofurmegn drambsemi
 rankle s. grafa ([the wound ~s]); grafa (um sig); valda sviða í (sári); pína ([~ the mind])

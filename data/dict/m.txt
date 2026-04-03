@@ -271,8 +271,7 @@ marble n. marmari; marmarasmíði; marmaraplata með letri; marmarakúla (leikfa
 marc n. vinberjahrat
 marcescent l. visnandi
 March n. marsmánuður
-march n. landamæri, landamerkjaland; s. [~ with a spot] liggja að e-m stað; [they ~ on each other] lönd þeirra liggja saman
-march n. ganga ([a long, troublesome ~]); herganga, mars; (her)áfangi; hergöngulag; gangur, rás ([~ of time, the general ~ of events]); [one day's ~] eins dags ganga, dagleið, áfangi; [~ out] útrás; [line of ~] (her)göngustefna; s. ganga (samstiga sem á) hergöngu, marsera; ganga ([~ away, forward, off, on)]; fara
+march n. ganga ([a long, troublesome ~]); herganga, mars; (her)áfangi; hergöngulag; gangur, rás ([~ of time, the general ~ of events]); [one day's ~] eins dags ganga, dagleið, áfangi; [~ out] útrás; [line of ~] (her)göngustefna; landamæri, landamerkjaland; s. ganga (samstiga sem á) hergöngu, marsera; ganga ([~ away, forward, off, on)]; fara; [~ with a spot] liggja að e-m stað; [they ~ on each other] lönd þeirra liggja saman
 marchioness n. markgreifafrú
 marchpane n. marsípan (forn.), sjá %[marzipan]%
 marzipan n. marsípan, sætbakstur
@@ -971,8 +970,7 @@ misreport s. rangherma; n. ranghermi
 misrepresent s. segja rangt frá, rangfæra
 misrepresentation n. röng frásögn, rangfærsla
 misrule n. ill stjórn; óregla; uppþot; s. stjórna (landi) illa
-miss n. ungfrú (vanalega haft með skírnarnafni eða ættarnafni)
-miss s. verða af, missa (e-s); hitta ekki; fara á mis við; ná ekki í; sleppa e-u, missa úr (orð); sakna e-s; mistakast; [~ fire] brenna fyrir; misheppnast; [~ a step] verða fótaskortur; [~ one's way (road)] villast; [be ~ing] vanta, finnast ekki; n. missir; söknuður; skot sem ekki hæfir
+miss s. verða af, missa (e-s); hitta ekki; fara á mis við; ná ekki í; sleppa e-u, missa úr (orð); sakna e-s; mistakast; [~ fire] brenna fyrir; misheppnast; [~ a step] verða fótaskortur; [~ one's way (road)] villast; [be ~ing] vanta, finnast ekki; n. ungfrú (vanalega haft með skírnarnafni eða ættarnafni); missir; söknuður; skot sem ekki hæfir
 missal n. kaþólsk messubók
 missel bird n. þrastartegund
 missel thrush n. þrastartegund

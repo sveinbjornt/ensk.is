@@ -265,7 +265,9 @@ def synonyms_for_word(w: str) -> list[str]:
     synonyms.discard(w)  # Remove the word itself
     synonyms = list(synonyms)
     synonyms.sort(key=lambda x: x.lower())
-    synonyms = [syn.replace("_", " ") for syn in synonyms if len(syn) > 1]
+    synonyms = [
+        syn.replace("_", " ") for syn in synonyms if len(syn) > 1 and not syn[0].isdigit()
+    ]
 
     final: list[str] = list(filter(is_not_name, synonyms))
 

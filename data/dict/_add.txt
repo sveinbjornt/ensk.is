@@ -664,7 +664,7 @@ Andorra n. Andorra
 Andorran l. andorrskur; n. Andorramaður
 Angola n. Angóla
 Angolan l. angólskur; n. Angólamaður, Angólabúi
-Antarctica n. Suðurskautslandið (heimsálfa)
+Antarctica n. sjá %[Antarctic]%
 Argentina n. Argentína
 Argentinian l. argentínskur, frá Argentínu; n. Argentínumaður
 Armenia n. Armenía
@@ -2334,7 +2334,7 @@ pepperoni n. pepperóní, kryddpylsa
 supercomputer n. ofurtölva
 gorilla n. górilla (stór api)
 cardholder n. korthafi
-Mesopotamia n. Mesópótamía (landið á milli fljótanna Efrat og Tígris)
+Mesopotamia n. Mesópótamía (landið milli fljótanna Efrat og Tígris)
 Mesopotamian l. mesópótamískur (sjá %[Mesopotamia]%)
 Danube n. Dóná
 Arabia n. Arabía
@@ -10857,7 +10857,8 @@ encumbered l. þyngdur, hindraður (af [by])
 grave accent n. öfugur broddur (táknið ˋ)
 sex drive n. kynhvöt
 hassle s. angra, ónáða, áreita; n. vesen, umstang, basl, vandræði; átök, rifrildi
-molester s. (kynferðislegur) áreitari, níðingur (sjá %[molest]%)
+molester s. níðingur, (kynferðislegur) áreitari (sjá %[molest]%)
+child molester n. barnaníðingur
 pestis n. sjá %[plague]%
 seawolf n. sjóræningi; steinbítur (fiskur); sæljón (selur)
 sea lion n. sæljón (selur)
@@ -10867,7 +10868,11 @@ made-up l. skáldaður, uppdiktaður, upploginn
 Antarctic n. Suðurheimskautið, Suðurskautslandið, Suðurheimskautssvæðið (yfirleitt með ákv. greini, [the ~])
 Eu n. sjá %[europium]%
 Ouranos n. sjá %[Uranus]%
-Macintosh n. Apple Macintosh tölva
+Macintosh n. Apple Macintosh tölva (sjá %[Mac]%)
 Indic l. indverskur, frá Indlandi (um tungumál)
 Indo-Germanic l. indógermanskur (um tungumál)
 Indo-Hittite l. indohittískur; n. indóhittíska
+malarky n. sjá %[malarkey]%
+subtropic l. sjá %[subtropical]%
+regularise s. sjá %[regularize]%
+Neapolitan n. napólískur, frá Napolí (á Ítalíu)
