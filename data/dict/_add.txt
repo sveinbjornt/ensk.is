@@ -997,7 +997,7 @@ endogenous l. kominn innan frá (lífveru)
 endogamous l. innvensla-
 endogamy n. innvensl (hjúskapur innan sama ættflokks)
 multicultural l. fjölmenningarlegur, fjölmenningar-; [~ society] fjölmenningarsamfélag
-multiculturally ao. fjölmenninegarlega
+multiculturally ao. fjölmenningarlega
 multiculturalism n. fjölmenning, fjölmenningarstefna
 multifaceted l. marghliða, margþættur, fjölbreyttur
 concept n. hugtak, almenn hugmynd
@@ -1095,7 +1095,7 @@ honkie n. sjá %[honky]%
 relocate s. flytja, endurstaðsetja
 relocation n. flutningur, endurstaðsetning
 isomorphism n. einsmótun
-isomorphic l. einsmótað
+isomorphic l. einsmótaður
 isometric l. jafnlengdar-
 metro n. neðanjarðarlestarkerfi; stytt. á %[metropolis]% eða %[metropolitan]%
 format n. snið, form; s. sníða; forsníða ([he ~ted the hard drive])
@@ -1548,7 +1548,7 @@ Polynesia n. Pólýnesía (eyjaklasi í Kyrrahafi)
 Polynesian l. pólýnesískur
 Caribbean l. Karíbahafs-, karíbskur; n. karíbskur maður; [the ~] Karíbahaf
 ukulele n. úkulele, smágítar (strengjahljóðfæri)
-Lombardy n. Langbarðaland (á Ítalíu)
+Lombardy n. Langbarðaland (hérað á Ítalíu)
 Tuscany n. Toskanahérað (á Ítalíu)
 Kiev n. Kænugarður (borg í Úkraínu)
 Kyiv n. Kænugarður (borg í Úkraínu)
@@ -8000,7 +8000,7 @@ calcification n. kölkun
 heatwave n. hitabylgja
 hamster n. hamstur
 paintbrush n. pensill, málningarpensill
-carbon monoxide n. kolsýringur, kolmónoxíð
+carbon monoxide n. kolsýringur, koleinoxíð, kolmónoxíð
 diuresis n. þvagaukning
 guinea pig n. naggrís
 orphaned l. (gerður) munaðarlaus, foreldralaus
@@ -10858,7 +10858,7 @@ encumbered l. þyngdur, hindraður (af [by])
 grave accent n. öfugur broddur (táknið ˋ)
 sex drive n. kynhvöt
 hassle s. angra, ónáða, áreita; n. vesen, umstang, basl, vandræði; átök, rifrildi
-molester s. níðingur, (kynferðislegur) áreitari (sjá %[molest]%)
+molester n. níðingur, (kynferðislegur) áreitari (sjá %[molest]%)
 child molester n. barnaníðingur
 pestis n. sjá %[plague]%
 seawolf n. sjóræningi; steinbítur (fiskur); sæljón (selur)
@@ -10876,7 +10876,7 @@ Indo-Hittite l. indohittískur; n. indóhittíska
 malarky n. sjá %[malarkey]%
 subtropic l. sjá %[subtropical]%
 regularise s. sjá %[regularize]%
-Neapolitan n. napólískur, frá Napolí (á Ítalíu)
+Neapolitan l. napólískur, frá Napolí (á Ítalíu)
 skimpy l. naumur; ónægur; fátæklegur
 leaking l. lekandi
 school principal n. skólastjóri
@@ -10891,3 +10891,15 @@ beheaded l. afhöfðaður, afhausaður, hálshöggvinn
 animal husbandry n. búfjárrækt, búfjárhald
 transhumance n. farbeitarbúskapur
 Amorite n. Amoríti (meðlimur semitísks þjóðflokks til forna)
+hideout n. fylgsni, greni, felustaður
+newsworthiness n. fréttnæmi
+prejudiced l. fordómafullur, haldinn hleypidómum, hlutdrægur
+HQ n. höfuðstöðvar (óforml. stytt. á %[headquarters]%)
+Teuton n. forngermani; germani; tevtóni; Þjóðverji
+wheeler n. hjólasmiður
+tenability n. verjanleiki
+untenability n. óverjanleiki
+autotrophic l. frumbjarga (um lífveru)
+Templar n. musterisriddari ([Knight Templar])
+per capita ao. á höfðatölu, á mann, miðað við höfðtatölu
+per caput ao. sjá %[per capita]%
