@@ -2440,7 +2440,7 @@ straightness n. beinleiki, réttleiki
 straightaway ao. undir eins, tafarlaust
 strain s. þenja, teygja; reyna á; reyna of mikið á; ofteygja (sin); ofreyna; sía; reyna á sig; síast; [a dog ~ing at its chain] sem togar í festina; [~ every nerve] neyta allrar orku; [~ed interpretation] þvinguð (óeðlileg) skýring; [~ed laugh] uppgerðarhlátur; [~ for] sækjast eftir; n. þensla; kraftur; áreynsla; ofreynsla; tognun (sina eða vöðva); hljómur; (söng)lag; ljóð; tónn í tali eða riti ([much more in the same ~]); ættstofn ([he comes of a good ~]); aðkenning, snefill af e-u ([~ of melancholy])
 strainer n. sía
-strait l. þröngur; erfiður; n. sund (oftast ft. [~s]); vandræði, kröggur ([in ~s])
+strait l. þröngur; erfiður; n. sund (ft. %[straits]%); vandræði, kröggur ([in ~s])
 straiten s. þrengja; herða ([~ a cord]); koma (e-m) í vandræði; [to be ~ened for money] vera í peningavandræðum; [~ened circumstances] kröggur, basl, fátækt
 strait-handed l. nískur
 straitlaced l. fastreyrður; siðvandur; smásmuglegur
