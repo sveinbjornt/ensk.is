@@ -120,6 +120,9 @@ def _prepare_item(item: dict[str, Any]) -> dict[str, Any]:
     No HTML formatting."""
     w = item["word"]
 
+    # Replace ~ symbol with English word
+    d = item["definition"].replace("~", w)
+
     # Only show syllables if they are different from the word itself
     syll = item.get("syllables", "")
     syllables = syll if len(syll) != len(w) else ""
@@ -129,9 +132,10 @@ def _prepare_item(item: dict[str, Any]) -> dict[str, Any]:
     audio_url_uk = f"{PROJECT.BASE_URL}/static/audio/dict/uk/{audiofn}.mp3"
     audio_url_us = f"{PROJECT.BASE_URL}/static/audio/dict/us/{audiofn}.mp3"
 
-    # Original dictionary page image URL
+    # Original dictionary page image URL and page URL
     p = item["page_num"]
     page_image = f"{PROJECT.BASE_URL}/static/img/pages/{p - 1:03}.jpg" if p > 0 else ""
+    page_url = f"{PROJECT.BASE_URL}/page/{p}" if p > 0 else ""
 
     # Synonyms
     synonyms_str = item.get("synonyms", "")
@@ -143,7 +147,7 @@ def _prepare_item(item: dict[str, Any]) -> dict[str, Any]:
 
     return {
         "word": w,
-        "def": item["definition"],
+        "def": d,
         "syllables": syllables,
         "ipa_uk": item.get("ipa_uk", ""),
         "ipa_us": item.get("ipa_us", ""),
@@ -151,6 +155,7 @@ def _prepare_item(item: dict[str, Any]) -> dict[str, Any]:
         "audio_us": audio_url_us,
         "page_num": p,
         "page_image": page_image,
+        "page_url": page_url,
         "synonyms": synonyms,
         "antonyms": antonyms,
     }
@@ -159,10 +164,8 @@ def _prepare_item(item: dict[str, Any]) -> dict[str, Any]:
 LINK_FORMAT_REGEX = re.compile(r"%\[(.+?)\]%")
 
 
-def format_def_html(s: str, word: str) -> str:
-    """Apply HTML formatting to a raw definition string."""
-    # Replace ~ symbol with English word
-    s = s.replace("~", word)
+def format_def_html(s: str) -> str:
+    """Apply HTML formatting to a definition string."""
 
     # Replace %[word]% with link to intra-dictionary entry
     s = LINK_FORMAT_REGEX.sub(
@@ -177,14 +180,9 @@ def format_def_html(s: str, word: str) -> str:
 
 
 def format_item_html(item: dict[str, Any]) -> dict[str, Any]:
-    """Add HTML formatting to a prepared dictionary entry for web display."""
+    """Add HTML formatting to a prepared dictionary entry definition for web display."""
     item = dict(item)  # Don't mutate the cached original
-
-    item["def"] = format_def_html(item["def"], item["word"])
-
-    # Original dictionary page URL
-    p = item["page_num"]
-    item["page_url"] = f"{PROJECT.BASE_URL}/page/{p}" if p > 0 else ""
+    item["def"] = format_def_html(item["def"])
 
     return item
 

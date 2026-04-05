@@ -215,10 +215,8 @@ def test_edge_cases() -> None:
     assert response.status_code == HTTPStatus.OK
     assert response.json() == {}
 
-    # API parsed many with strip_html and strip_parentheses
-    response = client.get(
-        "/api/item/parsed/many/?q=abacus&strip_html=1&strip_parentheses=1"
-    )
+    # API parsed many with strip_parentheses
+    response = client.get("/api/item/parsed/many/?q=abacus&strip_parentheses=1")
     assert response.status_code == HTTPStatus.OK
     assert response.json() != {}
 

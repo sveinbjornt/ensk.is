@@ -9,7 +9,6 @@ from dict import unpack_definition
 from util import (
     cache_response,
     read_json,
-    strip_html_from_string,
     strip_parentheses_from_string,
 )
 
@@ -104,19 +103,17 @@ async def api_item_parsed(request: Request, w: str) -> JSONResponse:
 @router.get("/item/parsed/many/", operation_id="lookup_many_words_parsed")  # pyright: ignore[reportArgumentType]
 @cache_response(SMALL_CACHE_SIZE)
 async def api_item_parsed_many(
-    request: Request, q: str, strip_html: int = 0, strip_parentheses: int = 0
+    request: Request, q: str, strip_parentheses: int = 0
 ) -> JSONResponse:
     """Return multiple English-Icelandic dictionary entries in JSON format with
     parsed definitions. The q parameter should be a list of comma-separated terms.
-    Optionally, strip HTML tags and all text within parentheses."""
+    Optionally, strip all text within parentheses."""
     q = q.strip()
 
     words = [w.strip() for w in q.split(",")]
 
     def _process_item(s: str) -> str:
         """Process a single item by stripping HTML and parentheses."""
-        if strip_html:
-            s = strip_html_from_string(s)
         if strip_parentheses:
             s = strip_parentheses_from_string(s)
         return s.strip()
