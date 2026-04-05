@@ -307,7 +307,6 @@ async def zoega(request: Request) -> Response:
 
 @router.get("/english", include_in_schema=False)
 @router.head("/english", include_in_schema=False)
-@cache_response
 async def english_redirect(request: Request) -> Response:
     """Redirect to /english_icelandic_dictionary."""
     return RedirectResponse(url="/english_icelandic_dictionary", status_code=301)

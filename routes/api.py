@@ -26,8 +26,8 @@ from .core import (
 router = APIRouter(prefix="/api")
 
 
-@cache_response
 @router.get("/metadata", operation_id="get_metadata")
+@cache_response
 async def api_metadata(request: Request) -> JSONResponse:
     """Return metadata about the English-Icelandic dictionary."""
     return JSONResponse(content=metadata)
@@ -37,7 +37,7 @@ DEFAULT_SUGGESTION_LIMIT = 10
 MAX_SUGGESTION_LIMIT = 100
 
 
-@router.get("/suggest/{q}")  # pyright: ignore[reportArgumentType]
+@router.get("/suggest/{q}", operation_id="get_suggestions")  # pyright: ignore[reportArgumentType]
 @cache_response(SEARCH_CACHE_SIZE)
 async def api_suggest(
     request: Request, q: str, limit: int = DEFAULT_SUGGESTION_LIMIT
@@ -89,7 +89,7 @@ async def api_item_parsed(
     if not results or not exact:
         return err_resp(f"No entry found for '{ws}'")
 
-    result = results[0]
+    result = dict(results[0])  # Make a copy to avoid mutating cached data
 
     # Parse definition string into components
     comp = unpack_definition(result["def"])
@@ -115,7 +115,6 @@ async def api_item_parsed_many(
     words = [w.strip() for w in q.split(",")]
 
     def _process_item(s: str) -> str:
-        """Process a single item by stripping HTML and parentheses."""
         if strip_parentheses:
             s = strip_parentheses_from_string(s)
         return s.strip()
