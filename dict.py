@@ -55,7 +55,7 @@ def read_raw_pages(fn: str | None = None) -> dict[str, list]:
     return as an alphabetically indexed dict of lines."""
     base_path = "data/dict/"
     files = sorted(os.listdir(base_path))
-    result = defaultdict(lambda: [])
+    result = defaultdict(list)
 
     for file in files:
         if fn and file != fn:
@@ -109,14 +109,13 @@ def parse_line(s: str) -> tuple[str, str]:
     """Parse a single line entry into its constitutent parts
     i.e. word and definition strings, and return as tuple."""
     comp = s.split()
-    NO_VAL = 9999
-    idx = NO_VAL
+    idx = None
     for i, c in enumerate(comp):
         if c in CATEGORIES:
             idx = i
             break
-    if idx == NO_VAL:
-        raise Exception(f"No cat found!: {s}")
+    if idx is None:
+        raise ValueError(f"No category found: {s}")
 
     wentries = list()
     for c in comp[:idx]:
@@ -168,7 +167,7 @@ def page_for_word(w: str) -> int:
     """Look up the page at which a given word occurs in
     Geir T. Zoëga's original dictionary."""
     global WORD_TO_PAGE
-    if not WORD_TO_PAGE:
+    if WORD_TO_PAGE is None:
         with open("data/word2page.json", "r") as file:
             WORD_TO_PAGE = orjson.loads(file.read())
     return WORD_TO_PAGE.get(w, 0)
@@ -180,7 +179,7 @@ WORD_TO_HYPHENATION = None
 def hyphenation_for_word(w: str) -> str:
     """Look up the hyphenation for a given word in the dictionary."""
     global WORD_TO_HYPHENATION
-    if not WORD_TO_HYPHENATION:
+    if WORD_TO_HYPHENATION is None:
         with open("data/hyph/hyphenations.json", "r") as file:
             WORD_TO_HYPHENATION = orjson.loads(file.read())
     return WORD_TO_HYPHENATION.get(w, "")
@@ -198,7 +197,7 @@ def syllables_for_word(w: str) -> str:
 
     # First, try to look up the word in the syllables lookup
     global SYLLABLES_LOOKUP
-    if not SYLLABLES_LOOKUP:
+    if SYLLABLES_LOOKUP is None:
         with open("data/syllables/syllables.json", "r") as file:
             SYLLABLES_LOOKUP = orjson.loads(file.read())
 
@@ -240,6 +239,9 @@ def syllables_for_word(w: str) -> str:
 def is_not_name(syn: str) -> bool:
     """Check if a synonym/antonym is a proper name
     (i.e. starts with a capital letter)."""
+    if not syn or len(syn) < 2:
+        return False
+
     return not (
         " " in syn
         and syn[0].isupper()
@@ -266,7 +268,9 @@ def synonyms_for_word(w: str) -> list[str]:
     synonyms = list(synonyms)
     synonyms.sort(key=lambda x: x.lower())
     synonyms = [
-        syn.replace("_", " ") for syn in synonyms if len(syn) > 1 and not syn[0].isdigit()
+        syn.replace("_", " ")
+        for syn in synonyms
+        if len(syn) > 1 and not syn[0].isdigit()
     ]
 
     final: list[str] = list(filter(is_not_name, synonyms))
@@ -347,7 +351,7 @@ def freq_for_word(w: str) -> int:
 
     # Lazy-load the frequency map from JSON file
     global FREQ_MAP
-    if not FREQ_MAP:
+    if FREQ_MAP is None:
         with open("data/freq/word_frequency_map.json", "r") as file:
             FREQ_MAP = orjson.loads(file.read())
 
