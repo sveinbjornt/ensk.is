@@ -95,6 +95,22 @@ CAT_TO_NAME = {
     "sks.": "skammstöfun",
 }
 
+CAT_TO_NAME_EN = {
+    "n.": "noun",
+    "nft.": "noun_plural",
+    "l.": "adjective",
+    "s.": "verb",
+    "ao.": "adverb",
+    "fsk.": "prefix",
+    "st.": "conjunction",
+    "gr.": "article",
+    "fs.": "preposition",
+    "uh.": "interjection",
+    "fn.": "pronoun",
+    "stytt.": "abbreviation",
+    "sks.": "acronym",
+}
+
 SEARCH_CACHE_SIZE = 1000  # pages
 SMALL_CACHE_SIZE = 100  # pages
 

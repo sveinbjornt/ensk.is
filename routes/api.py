@@ -34,7 +34,7 @@ async def api_metadata(request: Request) -> JSONResponse:
 
 
 DEFAULT_SUGGESTION_LIMIT = 10
-MAX_SUGGESTION_LIMIT = 50
+MAX_SUGGESTION_LIMIT = 100
 
 
 @router.get("/suggest/{q}")  # pyright: ignore[reportArgumentType]
@@ -42,8 +42,7 @@ MAX_SUGGESTION_LIMIT = 50
 async def api_suggest(
     request: Request, q: str, limit: int = DEFAULT_SUGGESTION_LIMIT
 ) -> JSONResponse:
-    """Return autosuggestion results for partial string in input field.
-    Has a hard limit of 50 results."""
+    """Return autosuggestion results for partial string in input field."""
     lim = min(limit, MAX_SUGGESTION_LIMIT)
     results, _, _ = cached_results(q, exact_match=False, limit=lim)
     words = [x["word"] for x in results][:lim]
@@ -79,7 +78,10 @@ async def api_item(request: Request, w: str) -> JSONResponse:
 
 @router.get("/item/parsed/{w}", operation_id="lookup_single_word_parsed")  # pyright: ignore[reportArgumentType]
 @cache_response(SEARCH_CACHE_SIZE)
-async def api_item_parsed(request: Request, w: str) -> JSONResponse:
+async def api_item_parsed(
+    request: Request,
+    w: str,
+) -> JSONResponse:
     """Return single English-Icelandic dictionary entry in JSON format with parsed definition."""
     ws = w.strip()
 

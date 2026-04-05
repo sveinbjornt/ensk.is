@@ -287,7 +287,7 @@ def generate_json(entries: EntryList) -> str:
             "author": PROJECT.EDITOR,
             "email": PROJECT.EMAIL,
             "website": PROJECT.BASE_URL,
-            "source": PROJECT.REPO_URL,
+            "repository": PROJECT.REPO_URL,
             "version": PROJECT.VERSION,
             "date": datetime.datetime.now(datetime.UTC).isoformat(),
             "language": {"source": "en", "target": "is"},
