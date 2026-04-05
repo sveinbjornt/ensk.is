@@ -6185,7 +6185,7 @@ inactivate s. afvirkja
 sequencing s. [gene ~] raðgreining erfðaefnis
 parametrize s. stika (e-ð)
 airway n. öndunarvegur
-muffled l. hljóðdeyfður, kæft (um hljóð)
+muffled l. hljóðdeyfður, kæfður (um hljóð)
 fortified l. styrktur, efldur (t.d. veggur, vín, hugur); víggyrtur ([a ~ town])
 dilapidated l. niðurníddur (t.d. hús)
 spoiled l. dekraður; skemmdur, úldinn (t.d. mjólk)
@@ -7319,6 +7319,7 @@ chimneysweep n. sótari
 sunscreen n. sólarvörn
 tenderloin n. lund ([beef ~] nautalund)
 housecarl n. húskarl
+huscarl n. sjá %[housecarl]%
 foley n. sköpun á hljóðbrellum í kvikmyndum og öðru myndefni (BNA)
 renewed l. endurnýjaður
 motorized l. vélknúinn, mótorknúinn ([~ division, warfare])
