@@ -159,25 +159,28 @@ def _prepare_item(item: dict[str, Any]) -> dict[str, Any]:
 LINK_FORMAT_REGEX = re.compile(r"%\[(.+?)\]%")
 
 
-def format_item_html(item: dict[str, Any]) -> dict[str, Any]:
-    """Add HTML formatting to a prepared dictionary entry for web display."""
-    item = dict(item)  # Don't mutate the cached original
-    w = item["word"]
-    x = item["def"]
-
+def format_def_html(s: str, word: str) -> str:
+    """Apply HTML formatting to a raw definition string."""
     # Replace ~ symbol with English word
-    x = x.replace("~", w)
+    s = s.replace("~", word)
 
     # Replace %[word]% with link to intra-dictionary entry
-    x = LINK_FORMAT_REGEX.sub(
-        rf"<strong><em><a href='{PROJECT.BASE_URL}/item/\1'>\1</a></em></strong>", x
+    s = LINK_FORMAT_REGEX.sub(
+        rf"<strong><em><a href='{PROJECT.BASE_URL}/item/\1'>\1</a></em></strong>", s
     )
 
     # Italicize English words
-    x = x.replace("[", "<em>")
-    x = x.replace("]", "</em>")
+    s = s.replace("[", "<em>")
+    s = s.replace("]", "</em>")
 
-    item["def"] = x
+    return s
+
+
+def format_item_html(item: dict[str, Any]) -> dict[str, Any]:
+    """Add HTML formatting to a prepared dictionary entry for web display."""
+    item = dict(item)  # Don't mutate the cached original
+
+    item["def"] = format_def_html(item["def"], item["word"])
 
     # Original dictionary page URL
     p = item["page_num"]

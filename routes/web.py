@@ -20,7 +20,6 @@ from util import (
     icelandic_human_size,
     perc,
     sing_or_plur,
-    strip_html_from_string,
 )
 
 from .core import (
@@ -147,11 +146,15 @@ async def item(request: Request, w: str) -> Response:
 
     result = results[0]
 
-    # Parse definition string into components (from raw definition, before HTML)
-    comp = unpack_definition(result["def"])
-
-    # Translate category abbreviations to human-friendly words
-    comp = {CAT_TO_NAME[k]: v for k, v in comp.items()}
+    # Build plain-text meta description from raw (unformatted) definition
+    raw_comp = unpack_definition(result["def"])
+    raw_comp = {CAT_TO_NAME[k]: v for k, v in raw_comp.items()}
+    desc_parts = []
+    for cat, defs in raw_comp.items():
+        desc_parts.append(f"({cat}) {', '.join(defs[:3])}")
+    meta_description = "; ".join(desc_parts)
+    if len(meta_description) > 160:
+        meta_description = meta_description[:157] + "..."
 
     synonyms_list = result.get("synonyms", [])
     synonyms = [{"word": s, "exists": s in all_words_set} for s in synonyms_list]
@@ -159,18 +162,12 @@ async def item(request: Request, w: str) -> Response:
     antonyms_list = result.get("antonyms", [])
     antonyms = [{"word": a, "exists": a in all_words_set} for a in antonyms_list]
 
-    # Construct a plain-text meta description from the definitions
-    desc_parts = []
-    for cat, defs in comp.items():
-        clean_defs = [strip_html_from_string(d) for d in defs]
-        desc_parts.append(f"({cat}) {', '.join(clean_defs[:3])}")
-
-    meta_description = "; ".join(desc_parts)
-    if len(meta_description) > 160:
-        meta_description = meta_description[:157] + "..."
-
-    # Format results for HTML display
+    # Format for HTML display
     html_results = [format_item_html(r) for r in results]
+
+    # Parse HTML-formatted definition into components for display
+    comp = unpack_definition(html_results[0]["def"])
+    comp = {CAT_TO_NAME[k]: v for k, v in comp.items()}
 
     return TemplateResponse(
         request,
