@@ -267,10 +267,10 @@ marasmic l. tæringar-
 marasmus n. tæring, uppdráttarsýki; [~ senilis] ellihrumleiki
 maraud s. herja ([on, upon]); ræna (um hermenn)
 marauder n. ræningi
-marble n. marmari; marmarasmíði; marmaraplata með letri; marmarakúla (leikfang); s. gera dröfnóttam og rákóttan sem marmara; ráka ([~ a wainscot])
+marble n. marmari; marmarasmíði; marmaraplata með letri; marmarakúla (leikfang); s. gera dröfnóttan og rákóttan sem marmara; ráka ([~ a wainscot])
 marc n. vinberjahrat
 marcescent l. visnandi
-March n. marsmánuður
+March n. mars, marsmánuður
 march n. ganga ([a long, troublesome ~]); herganga, mars; (her)áfangi; hergöngulag; gangur, rás ([~ of time, the general ~ of events]); [one day's ~] eins dags ganga, dagleið, áfangi; [~ out] útrás; [line of ~] (her)göngustefna; landamæri, landamerkjaland; s. ganga (samstiga sem á) hergöngu, marsera; ganga ([~ away, forward, off, on)]; fara; [~ with a spot] liggja að e-m stað; [they ~ on each other] lönd þeirra liggja saman
 marchioness n. markgreifafrú
 marchpane n. marsípan (forn.), sjá %[marzipan]%
@@ -422,7 +422,7 @@ matron n. gift (öldruð) kona; yfirhjúkrunarkona; yfirvökukona; forstöðukon
 matronage n. hefðarkonur ([the ~ of this land]); yfirumsjón (hefðarkvenna)
 matronal l. aldraðri konu samboðinn; alvarlegur, virðulegur
 matronize s. gera virðulegan; hafa umsjón með (ungum stúlkum); gera að hefðarkonu
-matter n. efni (gagnstætt anda); hlutur; málefni, mál; innihald bókar; gröftur, vilsa; [this is a ~ of life or death] hér er um lif eða dauða að tefla; [in the ~ of] að því er kemur til e-s; [for that ~] hvað sem því líður; [~ of fact] staðreynd; [~ of course] sjálfsagður hlutur; [printed ~] prentað mál, prentmál; [postal ~] allt sem senda má póstleiðis; [~ for reflection] umhugsunarefni; [no laughing ~] ekkert hlátursefni; [a ~ of ten pounds] um tíu pund; [no ~] það stendur á sama; [what is the ~?] hvað er að? [what is the ~ with your eyes?] hvað gengur að þér í augunum? s. skipta, varða; gefa e-u gaum, hirða um ([he did not ~ it much]); [it does not greatly ~] það stendur ekki á miklu
+matter n. efni (gagnstætt anda); hlutur; málefni, mál; innihald bókar; gröftur, vilsa; [this is a ~ of life or death] hér er um lif eða dauða að tefla; [in the ~ of] að því er kemur til e-s; [for that ~] hvað sem því líður; [~ of fact] staðreynd; [~ of course] sjálfsagður hlutur; [printed ~] prentað mál, prentmál; [postal ~] allt sem senda má póstleiðis; [~ for reflection] umhugsunarefni; [no laughing ~] ekkert hlátursefni; [a ~ of ten pounds] um tíu pund; [no ~] það stendur á sama; [what is the ~?] hvað er að? [what is the ~ with your eyes?] hvað gengur að þér í augunum?; s. skipta, varða; gefa e-u gaum, hirða um ([he did not ~ it much]); [it does not greatly ~] það stendur ekki á miklu
 mattery l. sem grefur í ([a ~ sore])
 matter-of-course l. sjálfsagður
 matter-of-fact l. sem er blátt áfram, umsvifalaus
