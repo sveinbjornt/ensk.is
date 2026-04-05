@@ -5420,7 +5420,7 @@ varicella n. hlaupabóla
 joystick n. stýripinni, gleðipinni
 storytelling n. frásögn; frásagnarlist
 worthwhile l. verðugur, þess virði, ómaksins virði, ómaksins vert, erfiðisins virði, tilvinnandi
-bordello n. vændishús, hóruhús
+bordello n. vændishús, gleðihús, hóruhús
 donut n. sjá %[doughnut]%
 ossified l. orðinn að beini; ósveigjanlegur, fastur í sínum venjum; gamaldags
 ossification n. beinmyndun; íhaldssemi, ósveigjanleiki
@@ -10904,6 +10904,12 @@ autotrophic l. frumbjarga (um lífveru)
 Templar n. musterisriddari ([Knight Templar])
 per capita ao. á höfðatölu, á mann, miðað við höfðtatölu
 per caput ao. sjá %[per capita]%
-Junoesque l. tígulegur, glæsilegur, líkur gyðjunni Júnó (um konu);
+Junoesque l. tígulegur, glæsilegur (um konu); líkur gyðjunni Júnó
 pachydermatous l. þykkskinna, þykkskinnaður
 chicness n. listfengi, stíll, skrautlegheit
+bawdyhouse n. vændishús, gleðihús, hóruhús
+cathouse n. vændishús, gleðihús, hóruhús
+bagnio n. vændishús, gleðihús, hóruhús
+buzzer n. bjalla; dyrabjalla; skotklukka
+cuss s. sjá %[curse]%
+tanned l. sútaður; sólbrúnn, tanaður

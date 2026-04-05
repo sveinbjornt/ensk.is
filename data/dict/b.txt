@@ -1137,7 +1137,7 @@ broom n. lyng; kústur, sópur; sófl (á skafti), vöndur; [a new ~] nýr maðu
 broomstick n. sópskaft ([the with rode on a ~])
 brose n. hafrasúpa
 broth n. kjötsúpa
-brothel n. vændishús, hóruhús, pútnahús
+brothel n. vændishús, gleðihús, hóruhús
 brother n. bróðir; trúbróðir, félagsbróðir
 brother-in-law n. mágur
 brotherhood n. bræðralag, bræðrasamband
@@ -1317,7 +1317,7 @@ buy s. kaupa
 buyer n. kaupandi
 buzz s. suða; flögra; n. suð, kliður; kvis; æsingur
 buzzing n. suða (í eyrum)
-buzzard n. músvákur
+buzzard n. músvákur (fugl)
 by fs. & ao. hjá ([have not got it ~ me]); um ([travel to Prague ~ Dresden]); á (~ night, ~ day); framhjá ([go ~ him]); með ([take ~ force]); af ([written ~]); við; [ten feet ~] four 10 fet á lengd og 4 fet á breidd (eða hæð); [~ the pound] í pundatali; [~ the hundred, ~ hundreds] hundruðum saman; [go ~ ones and twos] einn og tveir í einu; [~ tomorrow] ekki síðar en á morgun; [older ~ two years] tveim árum eldri; [~ name] að nafni; [step ~ step] skref fyrir skref; [~ heart] utanbókar; [~ and ~] bráðum; smámsaman: [~ the by] meðal annara orða; eftir á að hyggja; [~ rights] að réttu lagi, með réttu
 byblow n. holukrakki
 by-election n. aukakosning
@@ -1327,6 +1327,6 @@ bylaw n. samþykkt ([regulations or ~])
 byname n. viðurnefni; auknefni
 bypath n. afgata; hliðarvegur
 byway n. afgata; hliðarvegur
-byword n. máltæki
+byword n. máltæki; orðtak; málsháttur; alræmt dæmi um e-ð
 bywork n. hjáverk
 bumble-bee n. stór hunangsfluga, býfluga
