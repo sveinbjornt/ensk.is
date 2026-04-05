@@ -114,13 +114,56 @@ def err_resp(msg: str) -> JSONResponse:
     return JSONResponse(content={"error": True, "errmsg": msg})
 
 
+def _prepare_item(item: dict[str, Any]) -> dict[str, Any]:
+    """Prepare a raw database entry for consumption by all routes.
+    Parses synonyms/antonyms, filters syllables, generates audio URLs.
+    No HTML formatting."""
+    w = item["word"]
+
+    # Only show syllables if they are different from the word itself
+    syll = item.get("syllables", "")
+    syllables = syll if len(syll) != len(w) else ""
+
+    # Generate URLs to audio files
+    audiofn = w.replace(" ", "_")
+    audio_url_uk = f"{PROJECT.BASE_URL}/static/audio/dict/uk/{audiofn}.mp3"
+    audio_url_us = f"{PROJECT.BASE_URL}/static/audio/dict/us/{audiofn}.mp3"
+
+    # Original dictionary page image URL
+    p = item["page_num"]
+    page_image = f"{PROJECT.BASE_URL}/static/img/pages/{p - 1:03}.jpg" if p > 0 else ""
+
+    # Synonyms
+    synonyms_str = item.get("synonyms", "")
+    synonyms = synonyms_str.split(",") if synonyms_str else []
+
+    # Antonyms
+    antonyms_str = item.get("antonyms", "")
+    antonyms = antonyms_str.split(",") if antonyms_str else []
+
+    return {
+        "word": w,
+        "def": item["definition"],
+        "syllables": syllables,
+        "ipa_uk": item.get("ipa_uk", ""),
+        "ipa_us": item.get("ipa_us", ""),
+        "audio_uk": audio_url_uk,
+        "audio_us": audio_url_us,
+        "page_num": p,
+        "page_image": page_image,
+        "synonyms": synonyms,
+        "antonyms": antonyms,
+    }
+
+
 LINK_FORMAT_REGEX = re.compile(r"%\[(.+?)\]%")
 
 
-def _format_item(item: dict[str, Any]) -> dict[str, Any]:
-    """Format dictionary entry for HTML template use."""
+def format_item_html(item: dict[str, Any]) -> dict[str, Any]:
+    """Add HTML formatting to a prepared dictionary entry for web display."""
+    item = dict(item)  # Don't mutate the cached original
     w = item["word"]
-    x = item["definition"]
+    x = item["def"]
 
     # Replace ~ symbol with English word
     x = x.replace("~", w)
@@ -134,45 +177,12 @@ def _format_item(item: dict[str, Any]) -> dict[str, Any]:
     x = x.replace("[", "<em>")
     x = x.replace("]", "</em>")
 
-    # Only show syllables if they are different from the word itself
-    syll = item.get("syllables", "")
-    syllables = syll if len(syll) != len(w) else ""
+    item["def"] = x
 
-    # Phonetic spelling
-    ipa_uk = item.get("ipa_uk", "")
-    ipa_us = item.get("ipa_us", "")
-
-    # Generate URLs to audio files
-    audiofn = w.replace(" ", "_")
-    audio_url_uk = f"{PROJECT.BASE_URL}/static/audio/dict/uk/{audiofn}.mp3"
-    audio_url_us = f"{PROJECT.BASE_URL}/static/audio/dict/us/{audiofn}.mp3"
-
-    # Original dictionary page
+    # Original dictionary page URL
     p = item["page_num"]
-    p_url = f"{PROJECT.BASE_URL}/page/{p}" if p > 0 else ""
+    item["page_url"] = f"{PROJECT.BASE_URL}/page/{p}" if p > 0 else ""
 
-    # Synonyms
-    synonyms_str = item.get("synonyms", "")
-    synonyms = synonyms_str.split(",") if synonyms_str else []
-
-    # Antonyms
-    antonyms_str = item.get("antonyms", "")
-    antonyms = antonyms_str.split(",") if antonyms_str else []
-
-    # Create item dict
-    item = {
-        "word": w,
-        "def": x,
-        "syllables": syllables,
-        "ipa_uk": ipa_uk,
-        "ipa_us": ipa_us,
-        "audio_uk": audio_url_uk,
-        "audio_us": audio_url_us,
-        "page_num": p,
-        "page_url": p_url,
-        "synonyms": synonyms,
-        "antonyms": antonyms,
-    }
     return item
 
 
@@ -240,10 +250,10 @@ def _results(
     ):
         return _results(q[:-1], exact_match=True, limit=limit)
 
-    # Format final results
-    formatted_results = [_format_item(item) for item in limited_results]
+    # Prepare final results (no HTML formatting)
+    prepared_results = [_prepare_item(item) for item in limited_results]
 
-    return formatted_results, exact_match_found, has_more
+    return prepared_results, exact_match_found, has_more
 
 
 @lru_cache(maxsize=SEARCH_CACHE_SIZE)

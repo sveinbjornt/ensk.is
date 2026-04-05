@@ -87,7 +87,6 @@ REQ_ITEM_KEYS = [
     "audio_uk",
     "audio_us",
     "page_num",
-    "page_url",
 ]
 
 

@@ -37,6 +37,7 @@ from .core import (
     cached_results,
     capitalized_entries,
     duplicate_entries,
+    format_item_html,
     metadata,
     multiword_entries,
     nonascii_entries,
@@ -126,7 +127,7 @@ async def search(
             "request": request,
             "title": title,
             "q": q,
-            "results": results,
+            "results": [format_item_html(r) for r in results],
             "exact": exact,
             "limit": limit,
             "has_more": has_more,
@@ -144,16 +145,18 @@ async def item(request: Request, w: str) -> Response:
     if not results:
         raise HTTPException(status_code=404, detail="Síða fannst ekki")
 
-    # Parse definition string into components
-    comp = unpack_definition(results[0]["def"])
+    result = results[0]
+
+    # Parse definition string into components (from raw definition, before HTML)
+    comp = unpack_definition(result["def"])
 
     # Translate category abbreviations to human-friendly words
     comp = {CAT_TO_NAME[k]: v for k, v in comp.items()}
 
-    synonyms_list = results[0].get("synonyms", [])
+    synonyms_list = result.get("synonyms", [])
     synonyms = [{"word": s, "exists": s in all_words_set} for s in synonyms_list]
 
-    antonyms_list = results[0].get("antonyms", [])
+    antonyms_list = result.get("antonyms", [])
     antonyms = [{"word": a, "exists": a in all_words_set} for a in antonyms_list]
 
     # Construct a plain-text meta description from the definitions
@@ -166,6 +169,9 @@ async def item(request: Request, w: str) -> Response:
     if len(meta_description) > 160:
         meta_description = meta_description[:157] + "..."
 
+    # Format results for HTML display
+    html_results = [format_item_html(r) for r in results]
+
     return TemplateResponse(
         request,
         "item.html",
@@ -173,7 +179,7 @@ async def item(request: Request, w: str) -> Response:
             "request": request,
             "title": f"{w} - {PROJECT.NAME}",
             "q": w,
-            "results": results,
+            "results": html_results,
             "word": w,
             "comp": comp,
             "synonyms": synonyms,
