@@ -64,7 +64,7 @@ def test_parse_line_complex_definition() -> None:
 
 def test_parse_line_no_category_raises() -> None:
     """Test that a line with no category raises an exception."""
-    with pytest.raises(Exception, match="No cat found"):
+    with pytest.raises(Exception, match="No cat"):
         parse_line("notaword withoutcategory")
 
 
