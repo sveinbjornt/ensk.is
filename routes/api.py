@@ -9,7 +9,6 @@ from dict import unpack_definition
 from util import (
     cache_response,
     read_json,
-    strip_html_from_string,
     strip_parentheses_from_string,
 )
 
@@ -27,24 +26,23 @@ from .core import (
 router = APIRouter(prefix="/api")
 
 
-@cache_response
 @router.get("/metadata", operation_id="get_metadata")
+@cache_response
 async def api_metadata(request: Request) -> JSONResponse:
     """Return metadata about the English-Icelandic dictionary."""
     return JSONResponse(content=metadata)
 
 
 DEFAULT_SUGGESTION_LIMIT = 10
-MAX_SUGGESTION_LIMIT = 50
+MAX_SUGGESTION_LIMIT = 100
 
 
-@router.get("/suggest/{q}")  # pyright: ignore[reportArgumentType]
+@router.get("/suggest/{q}", operation_id="get_suggestions")  # pyright: ignore[reportArgumentType]
 @cache_response(SEARCH_CACHE_SIZE)
 async def api_suggest(
     request: Request, q: str, limit: int = DEFAULT_SUGGESTION_LIMIT
 ) -> JSONResponse:
-    """Return autosuggestion results for partial string in input field.
-    Has a hard limit of 50 results."""
+    """Return autosuggestion results for partial string in input field."""
     lim = min(limit, MAX_SUGGESTION_LIMIT)
     results, _, _ = cached_results(q, exact_match=False, limit=lim)
     words = [x["word"] for x in results][:lim]
@@ -80,7 +78,10 @@ async def api_item(request: Request, w: str) -> JSONResponse:
 
 @router.get("/item/parsed/{w}", operation_id="lookup_single_word_parsed")  # pyright: ignore[reportArgumentType]
 @cache_response(SEARCH_CACHE_SIZE)
-async def api_item_parsed(request: Request, w: str) -> JSONResponse:
+async def api_item_parsed(
+    request: Request,
+    w: str,
+) -> JSONResponse:
     """Return single English-Icelandic dictionary entry in JSON format with parsed definition."""
     ws = w.strip()
 
@@ -88,7 +89,7 @@ async def api_item_parsed(request: Request, w: str) -> JSONResponse:
     if not results or not exact:
         return err_resp(f"No entry found for '{ws}'")
 
-    result = results[0]
+    result = dict(results[0])  # Make a copy to avoid mutating cached data
 
     # Parse definition string into components
     comp = unpack_definition(result["def"])
@@ -104,19 +105,16 @@ async def api_item_parsed(request: Request, w: str) -> JSONResponse:
 @router.get("/item/parsed/many/", operation_id="lookup_many_words_parsed")  # pyright: ignore[reportArgumentType]
 @cache_response(SMALL_CACHE_SIZE)
 async def api_item_parsed_many(
-    request: Request, q: str, strip_html: int = 0, strip_parentheses: int = 0
+    request: Request, q: str, strip_parentheses: int = 0
 ) -> JSONResponse:
     """Return multiple English-Icelandic dictionary entries in JSON format with
     parsed definitions. The q parameter should be a list of comma-separated terms.
-    Optionally, strip HTML tags and all text within parentheses."""
+    Optionally, strip all text within parentheses."""
     q = q.strip()
 
     words = [w.strip() for w in q.split(",")]
 
     def _process_item(s: str) -> str:
-        """Process a single item by stripping HTML and parentheses."""
-        if strip_html:
-            s = strip_html_from_string(s)
         if strip_parentheses:
             s = strip_parentheses_from_string(s)
         return s.strip()

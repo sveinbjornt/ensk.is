@@ -95,6 +95,22 @@ CAT_TO_NAME = {
     "sks.": "skammstöfun",
 }
 
+CAT_TO_NAME_EN = {
+    "n.": "noun",
+    "nft.": "noun_plural",
+    "l.": "adjective",
+    "s.": "verb",
+    "ao.": "adverb",
+    "fsk.": "prefix",
+    "st.": "conjunction",
+    "gr.": "article",
+    "fs.": "preposition",
+    "uh.": "interjection",
+    "fn.": "pronoun",
+    "stytt.": "abbreviation",
+    "sks.": "acronym",
+}
+
 SEARCH_CACHE_SIZE = 1000  # pages
 SMALL_CACHE_SIZE = 100  # pages
 
@@ -114,42 +130,28 @@ def err_resp(msg: str) -> JSONResponse:
     return JSONResponse(content={"error": True, "errmsg": msg})
 
 
-LINK_FORMAT_REGEX = re.compile(r"%\[(.+?)\]%")
-
-
-def _format_item(item: dict[str, Any]) -> dict[str, Any]:
-    """Format dictionary entry for HTML template use."""
+def _prepare_item(item: dict[str, Any]) -> dict[str, Any]:
+    """Prepare a raw database entry for consumption by all routes.
+    Parses synonyms/antonyms, filters syllables, generates audio URLs.
+    No HTML formatting."""
     w = item["word"]
-    x = item["definition"]
 
     # Replace ~ symbol with English word
-    x = x.replace("~", w)
-
-    # Replace %[word]% with link to intra-dictionary entry
-    x = LINK_FORMAT_REGEX.sub(
-        rf"<strong><em><a href='{PROJECT.BASE_URL}/item/\1'>\1</a></em></strong>", x
-    )
-
-    # Italicize English words
-    x = x.replace("[", "<em>")
-    x = x.replace("]", "</em>")
+    d = item["definition"].replace("~", w)
 
     # Only show syllables if they are different from the word itself
     syll = item.get("syllables", "")
     syllables = syll if len(syll) != len(w) else ""
-
-    # Phonetic spelling
-    ipa_uk = item.get("ipa_uk", "")
-    ipa_us = item.get("ipa_us", "")
 
     # Generate URLs to audio files
     audiofn = w.replace(" ", "_")
     audio_url_uk = f"{PROJECT.BASE_URL}/static/audio/dict/uk/{audiofn}.mp3"
     audio_url_us = f"{PROJECT.BASE_URL}/static/audio/dict/us/{audiofn}.mp3"
 
-    # Original dictionary page
+    # Original dictionary page image URL and page URL
     p = item["page_num"]
-    p_url = f"{PROJECT.BASE_URL}/page/{p}" if p > 0 else ""
+    page_image = f"{PROJECT.BASE_URL}/static/img/pages/{p - 1:03}.jpg" if p > 0 else ""
+    page_url = f"{PROJECT.BASE_URL}/page/{p}" if p > 0 else ""
 
     # Synonyms
     synonyms_str = item.get("synonyms", "")
@@ -159,20 +161,45 @@ def _format_item(item: dict[str, Any]) -> dict[str, Any]:
     antonyms_str = item.get("antonyms", "")
     antonyms = antonyms_str.split(",") if antonyms_str else []
 
-    # Create item dict
-    item = {
+    return {
         "word": w,
-        "def": x,
+        "def": d,
         "syllables": syllables,
-        "ipa_uk": ipa_uk,
-        "ipa_us": ipa_us,
+        "ipa_uk": item.get("ipa_uk", ""),
+        "ipa_us": item.get("ipa_us", ""),
         "audio_uk": audio_url_uk,
         "audio_us": audio_url_us,
         "page_num": p,
-        "page_url": p_url,
+        "page_image": page_image,
+        "page_url": page_url,
         "synonyms": synonyms,
         "antonyms": antonyms,
     }
+
+
+LINK_FORMAT_REGEX = re.compile(r"%\[(.+?)\]%")
+
+
+def format_def_html(s: str) -> str:
+    """Apply HTML formatting to a definition string."""
+
+    # Replace %[word]% with link to intra-dictionary entry
+    s = LINK_FORMAT_REGEX.sub(
+        rf"<strong><em><a href='{PROJECT.BASE_URL}/item/\1'>\1</a></em></strong>", s
+    )
+
+    # Italicize English words
+    s = s.replace("[", "<em>")
+    s = s.replace("]", "</em>")
+
+    return s
+
+
+def format_item_html(item: dict[str, Any]) -> dict[str, Any]:
+    """Add HTML formatting to a prepared dictionary entry definition for web display."""
+    item = dict(item)  # Don't mutate the cached original
+    item["def"] = format_def_html(item["def"])
+
     return item
 
 
@@ -240,10 +267,10 @@ def _results(
     ):
         return _results(q[:-1], exact_match=True, limit=limit)
 
-    # Format final results
-    formatted_results = [_format_item(item) for item in limited_results]
+    # Prepare final results (no HTML formatting)
+    prepared_results = [_prepare_item(item) for item in limited_results]
 
-    return formatted_results, exact_match_found, has_more
+    return prepared_results, exact_match_found, has_more
 
 
 @lru_cache(maxsize=SEARCH_CACHE_SIZE)

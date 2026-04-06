@@ -20,7 +20,6 @@ from util import (
     icelandic_human_size,
     perc,
     sing_or_plur,
-    strip_html_from_string,
 )
 
 from .core import (
@@ -37,6 +36,7 @@ from .core import (
     cached_results,
     capitalized_entries,
     duplicate_entries,
+    format_item_html,
     metadata,
     multiword_entries,
     nonascii_entries,
@@ -126,7 +126,7 @@ async def search(
             "request": request,
             "title": title,
             "q": q,
-            "results": results,
+            "results": [format_item_html(r) for r in results],
             "exact": exact,
             "limit": limit,
             "has_more": has_more,
@@ -144,27 +144,30 @@ async def item(request: Request, w: str) -> Response:
     if not results:
         raise HTTPException(status_code=404, detail="Síða fannst ekki")
 
-    # Parse definition string into components
-    comp = unpack_definition(results[0]["def"])
+    result = results[0]
 
-    # Translate category abbreviations to human-friendly words
-    comp = {CAT_TO_NAME[k]: v for k, v in comp.items()}
-
-    synonyms_list = results[0].get("synonyms", [])
-    synonyms = [{"word": s, "exists": s in all_words_set} for s in synonyms_list]
-
-    antonyms_list = results[0].get("antonyms", [])
-    antonyms = [{"word": a, "exists": a in all_words_set} for a in antonyms_list]
-
-    # Construct a plain-text meta description from the definitions
+    # Build plain-text meta description from raw (unformatted) definition
+    raw_comp = unpack_definition(result["def"])
+    raw_comp = {CAT_TO_NAME[k]: v for k, v in raw_comp.items()}
     desc_parts = []
-    for cat, defs in comp.items():
-        clean_defs = [strip_html_from_string(d) for d in defs]
-        desc_parts.append(f"({cat}) {', '.join(clean_defs[:3])}")
-
+    for cat, defs in raw_comp.items():
+        desc_parts.append(f"({cat}) {', '.join(defs[:3])}")
     meta_description = "; ".join(desc_parts)
     if len(meta_description) > 160:
         meta_description = meta_description[:157] + "..."
+
+    synonyms_list = result.get("synonyms", [])
+    synonyms = [{"word": s, "exists": s in all_words_set} for s in synonyms_list]
+
+    antonyms_list = result.get("antonyms", [])
+    antonyms = [{"word": a, "exists": a in all_words_set} for a in antonyms_list]
+
+    # Format for HTML display
+    html_results = [format_item_html(r) for r in results]
+
+    # Parse HTML-formatted definition into components for display
+    comp = unpack_definition(html_results[0]["def"])
+    comp = {CAT_TO_NAME[k]: v for k, v in comp.items()}
 
     return TemplateResponse(
         request,
@@ -173,7 +176,7 @@ async def item(request: Request, w: str) -> Response:
             "request": request,
             "title": f"{w} - {PROJECT.NAME}",
             "q": w,
-            "results": results,
+            "results": html_results,
             "word": w,
             "comp": comp,
             "synonyms": synonyms,
@@ -304,7 +307,6 @@ async def zoega(request: Request) -> Response:
 
 @router.get("/english", include_in_schema=False)
 @router.head("/english", include_in_schema=False)
-@cache_response
 async def english_redirect(request: Request) -> Response:
     """Redirect to /english_icelandic_dictionary."""
     return RedirectResponse(url="/english_icelandic_dictionary", status_code=301)

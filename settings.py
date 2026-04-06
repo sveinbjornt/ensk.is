@@ -49,7 +49,7 @@ class PROJECT(StrEnum):
     DESCRIPTION_SHORT = "Ensk-íslensk orðabók"
     DESCRIPTION_SHORT_EN = "English-Icelandic dictionary"
     VERSION = "1.0"
-    LICENSE = "Public domain"
+    LICENSE = "CC0 (Public Domain)"
     EDITOR = "Sveinbjörn Þórðarson"
     EMAIL = "sveinbjorn@sveinbjorn.org"
     BASE_URL = "https://ensk.is"

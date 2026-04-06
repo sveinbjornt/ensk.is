@@ -174,7 +174,7 @@ def add_metadata_to_db(num_entries) -> None:
     db.add_metadata("license", PROJECT.LICENSE)
     db.add_metadata("version", PROJECT.VERSION)
     db.add_metadata("website", PROJECT.BASE_URL)
-    db.add_metadata("source", PROJECT.REPO_URL)
+    db.add_metadata("repository", PROJECT.REPO_URL)
     db.add_metadata("editor", PROJECT.EDITOR)
     db.add_metadata("editor_email", PROJECT.EMAIL)
     db.add_metadata("generation_date", datetime.datetime.now(datetime.UTC).isoformat())
@@ -287,7 +287,7 @@ def generate_json(entries: EntryList) -> str:
             "author": PROJECT.EDITOR,
             "email": PROJECT.EMAIL,
             "website": PROJECT.BASE_URL,
-            "source": PROJECT.REPO_URL,
+            "repository": PROJECT.REPO_URL,
             "version": PROJECT.VERSION,
             "date": datetime.datetime.now(datetime.UTC).isoformat(),
             "language": {"source": "en", "target": "is"},

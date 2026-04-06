@@ -126,7 +126,6 @@ class AddCustomHeaderMiddleware(BaseHTTPMiddleware):
         response.headers["Permissions-Policy"] = (
             "geolocation=(), microphone=(), camera=(), payment=(), usb=()"
         )
-        response.headers["X-XSS-Protection"] = "1; mode=block"
 
         return response
 
@@ -135,7 +134,7 @@ app.add_middleware(AddCustomHeaderMiddleware)
 
 
 @app.exception_handler(404)
-def not_found_exception_handler(request: Request, exc: HTTPException):
+async def not_found_exception_handler(request: Request, exc: HTTPException):
     """Handle 404 Not Found errors."""
     return TemplateResponse(
         request,
@@ -150,7 +149,7 @@ async def global_exception_handler(request: Request, exc: Exception):
     """Global exception handler to catch all unhandled exceptions."""
     # Log the full exception for debugging purposes
     logging.error(
-        f"Unhandled exception for request {request.url}: {exc}", exc_info=True
+        "Unhandled exception for request %s: %s", request.url, exc, exc_info=True
     )
 
     # Return a JSON response for API routes

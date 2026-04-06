@@ -1110,7 +1110,7 @@ disinterested l. óhlutdrægur, ósérplæginn
 disinterestedness n. ósérplægni
 disject s. slíta í sundur, tvístra
 disjection n. sundrun, tvístrun
-disjoin s. skilja í sundur
+disjoin s. skilja í sundur, aðskilja, aðgreina
 disjoint s. kippa úr liði; skekkja í liði; liða (taka) í sundur
 disjointed l. ósamanhangandi ([~ sentences])
 disjunct l. aðskilinn

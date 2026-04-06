@@ -88,7 +88,7 @@ def archive_directory(directory_path: str) -> str:
     parent_dir = os.path.dirname(abs_path)
     dir_name = os.path.basename(abs_path)
 
-    # Set the base name for the archive (will be the output filename without extension)
+    # Set the base name for the archive (without extension)
     base_name = os.path.join(os.path.dirname(abs_path), dir_name)
 
     # Create the archive

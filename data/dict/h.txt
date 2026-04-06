@@ -1066,8 +1066,8 @@ hypochondria n. ímyndunarveiki; þunglyndi
 hypochondriac l. ímyndunarveikur; þunglyndur; n. ímyndunarveikur eða þunglyndur maður
 hypocrisy n. hræsni, hræsnaraskapur, yfirdrepsskapur, uppgerð
 hypocrite n. hræsnari
-hypocritic l. hræsnisfullur
-hypocritical l. hræsnisfullur
+hypocritic l. sjá %[hypocritical]%
+hypocritical l. hræsnisfullur, hræsnislegur
 hypothec n. fasteignarveð
 hypothecate s. veðsetja
 hypothecation n. veðsetning

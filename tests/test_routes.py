@@ -16,6 +16,8 @@ basepath, _ = os.path.split(os.path.realpath(__file__))
 src_path = os.path.join(basepath, "..")
 sys.path.append(src_path)
 
+from routes.api import MAX_SUGGESTION_LIMIT  # noqa: E402
+
 
 # Mock synonym functions before importing app
 def mock_synonyms_for_word(w: str) -> list[str]:
@@ -216,10 +218,8 @@ def test_edge_cases() -> None:
     assert response.status_code == HTTPStatus.OK
     assert response.json() == {}
 
-    # API parsed many with strip_html and strip_parentheses
-    response = client.get(
-        "/api/item/parsed/many/?q=abacus&strip_html=1&strip_parentheses=1"
-    )
+    # API parsed many with strip_parentheses
+    response = client.get("/api/item/parsed/many/?q=abacus&strip_parentheses=1")
     assert response.status_code == HTTPStatus.OK
     assert response.json() != {}
 
@@ -281,7 +281,7 @@ def test_api_suggest_limit() -> None:
     response = client.get("/api/suggest/a?limit=999")
     assert response.status_code == HTTPStatus.OK
     json = response.json()
-    assert len(json) <= 50
+    assert len(json) <= MAX_SUGGESTION_LIMIT
 
 
 def test_api_search_empty_query() -> None:
