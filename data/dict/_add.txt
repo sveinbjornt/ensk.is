@@ -9257,7 +9257,7 @@ peridot n. e.k. ólívín (gimsteinn)
 tourmaline n. túrmalín (steintegund)
 cadency n. sjá %[cadence]%
 Mach n. Mach-tala (mælieining sem er margföldun á hljóðhraða)
-machination n. ráðabrugg (yfirleitt í fleirtölu, sjá %[machinations]%)
+machinations n. ráðabrugg (yfirleitt í fleirtölu, sjá %[machinations]%)
 commercialize s. gera að söluvöru, gera að markaðsvöru, markaðsvæða, söluvæða
 commercialise s. sjá %[commercialize]%
 modified l. breyttur, ummyndaður (sjá %[modify]%)
@@ -10938,3 +10938,6 @@ Confucian l. konfúsíusarhyggja, konfúsíusismi (kínversk speki); n. fylgisma
 hypocritically ao. hræsnislega
 temperamental l. skapmikill, duttlungafullur, mislyndur; skaplyndis-
 overemphasis n. ofuráhersla, of mikil áhersla
+willfulness n. sjá %[wilfulness]%
+weedkiller n. illgresiseyðir, plöntueitur
+sermonizer n. predikari
