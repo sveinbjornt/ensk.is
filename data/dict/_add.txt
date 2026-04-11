@@ -2991,7 +2991,7 @@ idealistic l. hugsjónalegur, hugsjóna-; hugsæis-, hughyggju-; óraunhæfur
 salon n. (stór) stofa, gestastofa; gallerí; snyrtistofa; [hair ~] hárgreiðslustofa; tískuverslun
 antireligious l. andtrúarlegur, gegn eða á móti trúarbrögðum
 perceptual l. skynjunar-, eftirtektar-, varurðar-
-serendipity n. slembilukka
+serendipity n. slembilukka, hvalreki
 serendipitous l. heppilegur, lánsamur (sökum slembni)
 serendipitously ao. af einskærri slembilukku, af lánsemi einni
 impostor syndrome n. loddaralíðan
@@ -3844,8 +3844,8 @@ socialize s. félagsmóta, félagsvæða; blanda geði við aðra ([he enjoyed s
 socialization n. félagsmótun; félagsvæðing, samfélagsvæðing; umgengni eða félagsleg samskipti við aðra; það að fela hinu opinbera framkvæmdir á tilteknu sviði ([socialization of medical care])
 agriculturalist n. landbúnaðarfræðingur; jarðyrkjumaður, bóndi
 app n. forrit, smáforrit, snjallforrit, snjallsímaforrit (sjá %[application]%)
-warez nft. stolinn hugbúnaður (netslangur)
-feces nft. saur, hægðir
+warez nft. stolinn hugbúnaður (forn. netslangur)
+feces nft. sjá %[faeces]%
 collage n. samklipp, (samsett) klippimynd, límmynd
 spaceport n. geimferðastöð, geimhöfn (sjá einnig %[cosmodrome]%)
 cosmodrome n. geimferðastöð, geimhöfn (sjá einnig %[spaceport]%)
@@ -10926,15 +10926,14 @@ munificently ao. höfðinglega, rausnarlega
 sundog n. aukasól, hjásól
 severeness n. sjá %[severity]%
 austereness n. sjá %[austerity]%
-cellar-door n. kjallaradyr
-gringo n. hvítingi, norðanmaður, Kani (í spænskumælandi löndum Suður-Ameríku)
+cellar-door n. kjallaradyr, kjallarahurð
+gringo n. hvítingi, norðanmaður, Kani (í spænskumælandi löndum Ameríku)
 unlabelled l. ómerktur
 domestication n. tamning (dýra); aðlögun að heimilislífi
 domestically ao. heima fyrir; innanlands
-luminiferous l. sjá %[luminous]%
 thatched l. stráþakinn
 keynote n. grunntónn; inngangsræða, stefnuræða ([~ speech])
-Confucian l. konfúsíusarhyggja, konfúsíusismi (kínversk speki); n. fylgismaður heimspeki Konfúsíusar
+Confucian l. konfúsíusarhyggju-, konfúsíusar-; n. fylgismaður heimspeki Konfúsíusar
 hypocritically ao. hræsnislega
 temperamental l. skapmikill, duttlungafullur, mislyndur; skaplyndis-
 # temperamentally
@@ -10946,3 +10945,4 @@ widescreen n. breiðtjald; breiðskjár; l. breiðtjalds-
 westbound l. á vesturleið
 simp n. einfeldningur, fífl, bjáni
 jamboree n. stórveisla, hávær gleðskapur; skátamót
+flimflam n. bull, þvættingur; svindl, gabb, blekking; s. gabba, svindla, svíkja, blekkja
