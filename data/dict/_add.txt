@@ -8287,8 +8287,8 @@ anti-aircraft gun n. loftvarnabyssa
 AA gun n. loftvarnabyssa (stytt. á %[anti-aircraft gun]%)
 handwrite s. handskrifa
 bursitis n. belgbólga
-arsehole n. rassgat; fáviti, fífl, leiðindagaur
-a posteriori l. (lat.) eftir á; að því reyndu, að fenginni reynslu
+arsehole n. sjá %[asshole]%
+a posteriori l. eftir á, að því reyndu, að fenginni reynslu (úr latínu)
 black eye n. glóðarauga
 shiner n. e-r eða e-ð sem skín (sjá %[shine]%); glóðarauga; lítill karpfiskur
 aurora borealis n. (lat.) norðurljós
@@ -10960,3 +10960,4 @@ observational l. athugunar-, eftirlits-, eftirtektar-
 wellness n. góð heilsa, vellíðan
 strongbox n. ishólf, peningaskápur
 pairing n. pörun (sjá %[pair]%)
+butthole n. sjá %[asshole]%

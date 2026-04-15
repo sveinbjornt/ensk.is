@@ -806,7 +806,7 @@ bodement n. fyrirboði, spádómur
 bodice n. upphlutur; kot
 bodiless l. ólíkamlegur; líkamslaus
 bodily l. líkamlegur; ao. líkamlega
-bodkin n. rýtingur; prjónn; hárnál; [ride/sit ~] sitja milli tveggja í vagni
+bodkin n. rýtingur, dálkur; prjónn; hárnál; [ride/sit ~] sitja milli tveggja í vagni
 body n. líkami; búkur, bolur; lík ([dead ~]); megin, heild; meginhluti; skipskrokkur; fjöldi, hópur; flokkur; stofn á tré; [~ politic] ríkislíkami; [in a ~] allir saman, í einum hóp; s. íklæða líkama; sýna líkamlega
 bodyguard n. lífvörður
 bog n. mýri, fen; s. hleypa ofan í fen eða keldu ([he was ~ged down])
@@ -986,7 +986,7 @@ brainpan n. heilakúpa
 brake n. burkni; runnur; hemill, hamla, hjólskorða
 bramble n. brómberjarunni
 brambleberry n. brómber
-bran n. sáðir m
+bran n. sáðir
 branch n. grein, trjágrein; armur, kvísl; námsgrein, vísindagrein ([~ of knowledge, of learning]); álma ([~ of a chandelier]); s. skjóta limum (um tré); kvíslast
 branchlet n. smágrein
 branchline n. hliðarbraut
