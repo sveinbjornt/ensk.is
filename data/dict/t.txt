@@ -847,8 +847,8 @@ touchy l. stygglyndur, önugur, firtinn ([~ on a subject])
 tough l. erfiður; þrár; seigur ([~ meal, ~ meat])
 toughen s. gera seigan; verða seigur; herða
 toughness n. seigja
-toupee n. laus hárlokkur (ofan á höfðinu)
-toupet n. laus hárlokkur (ofan á höfðinu)
+toupee n. laus hárlokkur (ofan á höfðinu); hártoppur; hárkolla
+toupet n. sjá %[toupee]%
 tour n. umferð; ferð; skemmtiferð; [go on ~] fara frá einum stað í annan; s. ferðast um sér til skemmtunar; sýna á mörgum stöðum ([~ a play])
 tourism n. ferðamennska, túrismi; ferðamannaiðnaður; skemmtiferðalög
 tourist n. ferðamaður, ferðalangur, skemmtiferðamaður

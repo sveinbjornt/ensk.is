@@ -967,8 +967,8 @@ disband s. leysa úr herþjónustu; vera leystur úr þjónustu
 disbelief n. ótrú, vantrú
 disbelieve s. trúa ekki, rengja
 disburden s. létta byrði á
-disburse s. borga út
-disbursement n. útborgun, greiðsla
+disburse s. borga út; úthluta, dreifa
+disbursement n. útborgun, greiðsla; úthlutun
 disc n. diskur, skífa
 discard s. reka (úr þjónustu); kasta (spilum); hafna
 discern s. greina í sundur ([~ good from bad]); sjá
