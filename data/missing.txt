@@ -5821,8 +5821,6 @@ dub (endurskoða)
 dubbing (endurskoða)
 numbat
 rails (endurskoða)
-hostilities
-seahawk
 metaleptic
 gutted
 Pollyannaish
@@ -5838,7 +5836,6 @@ tracing
 ray tracing
 ward (endurskoða)
 fair (endurskoða)
-fairish
 executing
 safekeeping
 balminess
@@ -6246,5 +6243,8 @@ nope
 countertop
 painterly
 optically
-ostracized
 dismantling
+switcheroo
+sucker (endurskoða)
+rugrat
+fajita

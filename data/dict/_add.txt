@@ -3097,7 +3097,7 @@ grail n. (gral)bikar, kaleikur
 fungicide n. sveppadeyðir, sveppaeyðir
 pax n. (lat.) friður; [~ Romana] Rómarfriður; [~ Americana] Bandaríkjafriður
 doormat n. dyramotta
-guacamole n. lárperumauk
+guacamole n. lárperumauk, avókadómauk
 goldsmithing n. gullsmíði
 goldsmithery n. gullsmíði
 suburbanize s. úthverfavæða
@@ -3106,14 +3106,14 @@ grifter n. svikahrappur, svindlari, blekkingamaður
 ham-fisted l. klaufalegur, klunnalegur, ólaginn
 bunkmate n. kojufélagi
 brilliance n. ljómi; snilld ([his ~ was evident to all])
-moreish l. (breskt slangur) þess eðlis að maður vill meira ([this crack is really ~])
+moreish l. (breskt slangur) þess eðlis að maður vill meira ([this snack is really ~])
 unforgettable l. ógleymanlegur ([an ~ experience])
 breakable l. brjótanlegur
 unbreakable l. óbrjótandi, óbrjótanlegur
 ever-growing l. sívaxandi
 pretentiousness n. tilgerð, tilgerðarleiki
 unpretentiousness n. tilgerðarleysi, látleysi
-wordless l. orðlaus, uppiskroppa með orð
+wordless l. orðlaus; uppiskroppa með orð; þögull, mállaus; ósagður
 sahib n. (evrópskur) herramaður (í Indlandi á nýlendutímanum)
 reformism n. umbótastefna
 snobbishness n. snobb, uppskafningsháttur
@@ -10148,7 +10148,7 @@ irreputable l. sem óorð fer af; ósæmilegur; ómálsmetandi
 incompetently ao. á vanhæfan hátt, á óhæfan hátt
 inordinately ao. óhæfilega, óhóflega
 jerkwad n. skítseiði, leiðindaskjóða, ógeðfelld manneskja (óforml.)
-bro n. bróðir, gaur, vinur, lagsmaður (slangur, óforml. stytt. á %[brother]%)
+bro n. bróðir, gaur, vinur, lagsmaður, félagi (slangur, óforml. stytt. á %[brother]%)
 crappy l. lélegur, ömurlegur, drasl- (óforml., sjá %[crap]%)
 spareness n. naumleiki, rýrð
 burnished l. fægður, fágaður; gerður gljáandi; skínandi
@@ -10961,7 +10961,7 @@ wellness n. góð heilsa, vellíðan
 strongbox n. ishólf, peningaskápur
 pairing n. pörun (sjá %[pair]%)
 butthole n. sjá %[asshole]%
-zippo n. ekkert ([he did ~ to ameliorate the situation]); kveikjari
+zippo n. ekkert ([he did ~ to ameliorate the situation]); kveikjari (vörutegund)
 exsanguination n. blóðtap, blóðmissir, blæðing
 stats n. tölfræði (stytt. á %[statistics]%)
 ecumenism n. samkirkjuhreyfing, samkirkjustefna, samstarf kristilegra trúarhreyfinga
@@ -10975,4 +10975,9 @@ tortured l. pyntur; kvalinn, þjakaður ([~ by doubts])
 riptide n. útsog (hafs)
 liberated l. frelsaður, leystur (úr, undan [from])
 diathermy n. gegnhitun
-skell n. róni, heimilisleysingi (óforml. slangur); grunsamlegur maður, glæpon (óforml. slangur)
+skell n. róni, heimilisleysingi (óforml. slangur, BNA); grunsamlegur maður, glæpon (óforml. slangur, BNA)
+ostracized l. útskúfaður, dæmdur í útlegð
+fairish l. þokkalegur, sæmilegur
+hostilities nft. átök, bardagar, ófriður; fjandsemi, fjandskapur (sjá %[hostility]%)
+seahawk n. gjóður (fugl); kjói (fugl)
+alternator n. riðstraumsrafall

@@ -7,4 +7,4 @@ aiofiles==25.1.0
 orjson==3.11.8
 cachetools==7.0.5
 nltk==3.9.4
-lxml==6.0.2
+lxml==6.1.0
