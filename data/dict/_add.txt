@@ -248,6 +248,7 @@ technician n. tæknimaður
 typically ao. dæmigert; yfirleitt; að vanda
 viagra n. víagra (stinningarlyf)
 ninja n. ninja (japanskur launmorðingi)
+shinobi n. sjá %[ninja]%
 quantum mechanics nft. skammtafræði
 quantum mechanical l. skammtafræðilegur
 quantum computer n. skammtatölva
@@ -8346,7 +8347,8 @@ facelift n. andlitslyfting, lýtaaðgerð á andliti; yfirhalning; fríkkun
 rowan n. ilmreynir, reyniviður, reynitré
 rosé n. rósavín ([~ wine])
 basidium n. grókólfur, basíða
-purée n. mauk; s. gera að mauki
+purée n. mauk; s. mauka, gera að mauki
+puréed l. maukaður, gerður að mauki
 pruritus n. kláði
 botulism n. bótúlíneitrun
 panda n. pandabjörn, risapanda
@@ -10973,11 +10975,16 @@ non-discrete l. óstrjáll
 unicycle n. einhjól (reiðhjól með aðeins einu hjóli)
 tortured l. pyntur; kvalinn, þjakaður ([~ by doubts])
 riptide n. útsog (hafs)
-liberated l. frelsaður, leystur (úr, undan [from])
-diathermy n. gegnhitun
 skell n. róni, heimilisleysingi (óforml. slangur, BNA); grunsamlegur maður, glæpon (óforml. slangur, BNA)
 ostracized l. útskúfaður, dæmdur í útlegð
 fairish l. þokkalegur, sæmilegur
 hostilities nft. átök, bardagar, ófriður; fjandsemi, fjandskapur (sjá %[hostility]%)
 seahawk n. gjóður (fugl); kjói (fugl)
 alternator n. riðstraumsrafall
+pigmented l. litaður, sem hefur litast
+switcheroo n. víxlun, útskipting (óforml.)
+rugrat n. smábarn, (barns)kríli (óforml.)
+nope ao. nei, neibb (óforml.)
+ritzy l. glæsilegur, flottur, fínn (óforml.)
+diathermy n. gegnhitun
+liberated l. frelsaður, leystur (úr, undan [from])
