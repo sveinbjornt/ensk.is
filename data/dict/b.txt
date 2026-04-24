@@ -971,7 +971,7 @@ bracelet n. armband
 brachylogy n. stutt orðalag
 bracing l. hressandi
 bracken n. burkni
-bracket n. krappi, brík (undir hillu); ft. hornklofar; s. setja í hornklofa
+bracket n. hornklofi; krappi, brík (undir hillu); s. setja í hornklofa
 brackish l. saltur; sem seltubragð er af ([we found the water ~])
 brad n. hauslaus nagli
 brag s. gorta, monta sig; n. gort, mont
@@ -1019,7 +1019,7 @@ bread n. brauð; [~ and butter] smurt brauð
 breadth n. breidd, vídd; frjálslyndi, umburðarlyndi
 break s. brjóta, sprengja, slíta; rjúfa; gera hlé á; temja ([~ in to the rein/to harness]); venja af ([~ oneself of a habit]); ónýta (erfðaskrá); gera gjaldþrota; brotna, springa, slitna, rofna; brjótast (út); [~ a promise/an oath] rjúfa heit sitt, brjóta lög; [the day ~s] það dagar; [his voice ~s] hann er í mútum; [~ bulk] byrja að afferma skip; [~ the ice] ríða á vaðið, brjóta ísinn (í félagsskap); [~ down] rífa niður; bila (um heilsu); [~ open] brjóta upp; [~ loose] brjótast út (úr varðhaldi); [~ into a house] brjótast inn í hús ([the house had been broken into]); [~ off] rjúfa (samning); [~ out] brjótast út; byrja, hefjast (um ófrið); [~ up] brjóta upp, höggva upp (skip); mylja í duft; slíta, hætta (samtalinu); taka upp (heimili); [when does school ~ up] hvenær hættir skólinn?; [the ice broke tip] ísinn leysti; n. brot; rof; op; millibil; [~ of day] birting, sólarupprás
 breakdown n. niðurbrot, hrun
-breaker n. lagabrjótur; temjari; brimboði; ft. brim
+breaker n. lagabrjótur; temjari; brimboði
 breakneck l. hættulegur, áhættusamur
 breakup n. upplausn
 breakwater n. brimbrjótur, hafnargarður

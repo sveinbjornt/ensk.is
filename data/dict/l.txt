@@ -402,9 +402,9 @@ legitimacy n. lögmæti; lögmæt fæðing, löggetning
 legitimate l. lögmætur, réttur; lögborinn, skilgetinn; s. gera lögmætt, löghelga; ættleiða (barn)
 legitimation n. löghelgun; ættleiðing
 legitimist n. lögerfðasinni
-legitimize s. gera lögmætt, löghelga; sjá %[legitimate]%
-legume n. belgávöxtur
-legumen n. belgávöxtur
+legitimize s. gera lögmætan, löghelga; sjá %[legitimate]%
+legume n. belgjurt, belgávöxtur, belgaldin, baunabelgur
+legumen nft. sjá %[legume]%
 leguminous l. belg-, líkur belgávexti
 leisure n. næði, tóm, tómstundir; [at ~] í næði
 leisurely l. hægfara, hægur, seinn; [at a ~ pace] í hægðum sínum; ao. hægt, seint

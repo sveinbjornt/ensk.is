@@ -126,7 +126,7 @@ eerie l. óhugnanlegur, ægilegur; hræðslufullur, kvíðafullur
 eery l. óhugnanlegur, ægilegur, skuggalegur; hræðslufullur, kvíðafullur
 efface s. þurrka út (eða af); afmá; eyða
 effaceable l. afmáanlegur
-effect n. afleiðing; árangur; áhrif; [~s] ft. munir; lausafé; lausir aurar; húsgögn ([household ~s]); [bring to ~, carry into ~] framkvæma; [take ~] hafa tilætluð áhrif, hrífa; öðlast gildi (um lög og samninga); [of no ~] árangurslaus; [to the ~ that] á þá leið, að; [in ~] í rauninni; í raun og veru; s. koma til leiðar; framkvæma; gjöra
+effect n. afleiðing; árangur; áhrif; [bring to ~, carry into ~] framkvæma; [take ~] hafa tilætluð áhrif, hrífa; öðlast gildi (um lög og samninga); [of no ~] árangurslaus; [to the ~ that] á þá leið, að; [in ~] í rauninni; í raun og veru; s. koma til leiðar; framkvæma; gjöra
 effective l. sem hefur (tilætluð) áhrif; skilvirkur; áhrifamikill; raunverulegur; starfhæfur; vopnfær
 effectively ao. í rauninni; algerlega; kröftuglega; á skilvirkan hátt
 effectless l. áhrifalaus; gagnslaus
@@ -149,7 +149,7 @@ effigy n. mynd; [to burn in ~] brenna ([in effigy]) mynd e-s honum til óvirðin
 efflorescence n. blómgun, blómi; blómgunartími; útbrot (á hörundi)
 effluence n. útstreymi
 effluent l. útstreymandi; n. útstreymi
-effluvium n. útgufun; óþefur, ódaunn; daunillt úrgangsefni; ft. %[effluvia]%
+effluvium n. útgufun; óþefur, ódaunn; daunillt úrgangsefni
 efflux n. útstreymi; útrennsli
 effluxion n. útstreymi; útrennsli
 effort n. áreynsla; tilraun; [to use every ~] neyta allrar orku
@@ -250,7 +250,7 @@ elegant l. snyrtilegur, glæsilegur, fagur; vandaður að málfari
 elegiac l. raunalegur, sorglegur (um kveðskap); [~ poet] sorgarljóðaskáld
 elegize s. yrkja sorgarljóð (um [on])
 elegy n. sorgarljóð, harmaljóð
-element n. frumefni; frumpartur; efni, atriði; höfuðskepna ([the four ~s], eldur, loft, vatn, jörð); ft. frumatriði ([the ~s of an art or science])
+element n. frumefni; frumpartur; efni, atriði; höfuðskepna ([the four ~s], eldur, loft, vatn, jörð); nft. frumatriði ([the ~s of an art or science])
 elemental l. sem lýtur að höfuðskepnunum eða náttúruöflunum; stórkostlegur, frumlegur, ósamsettur ([~ substances])
 elementary l. frumlegur, frum- ([~ substance])
 elementary book n. námsbók handa byrjendum
@@ -269,7 +269,7 @@ elfish l. álf-, álfa-
 elfshot n. sjúkdómur af völdum álfa eða illvætta
 elicit s. lokka (laða) fram; leiða í ljós ([~ the truth]); vekja
 elide s. sleppa (e-u); fella (staf eða atkvæði) úr; ógilda
-eligibility n. kjörgengi; ft. kostir
+eligibility n. kjörgengi; nft. [eligibilities] kostir
 eligible l. kjörgengur; ákjósanlegur; eftirsóknarverður; hentugur
 eliminate s. útrýma, eyða; reka út; nema burtu; leiða fram eða út
 elimination n. útrýming, tortíming; brottnám, burtnám

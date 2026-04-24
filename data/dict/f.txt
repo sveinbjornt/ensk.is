@@ -159,7 +159,7 @@ fatal l. óheillavænlegur; skaðvænn; banvænn; [the ~ sisters] örlaganornirn
 fatalism n. forlagatrú
 fatalist n. forlagatrúarmaður
 fatality n. skapadómur; ógæfa, ólán
-fate n. örlög, forlög; ft. örlaganornir
+fate n. örlög, forlög
 fated l. ákveðinn af forlögunum; dauðadæmdur
 fateful l. sem lýtur að örlagaspádómi; örlagaþrunginn; banvænn
 father n. faðir; s. taka sér í barns stað; ganga við faðerni að e-u; feðra; [~ a child on one] kenna (e-m) barn
@@ -549,14 +549,14 @@ five l. fimm; n. talan fimm (5); fimma (í spilum)
 fives n. e.k. knattleikur
 five-fingered l. fimmfingraður
 fivefold l. fimmfaldur
-fix s. festa; setja; ákveða, tiltaka; koma (e-u) fyrir; setja (bústað); verða fastur; stirðna; storkna; setjast að ([~ oneself, one's residence]); [~ a person with] leggja (t.d. ábyrgð, kostnað) á e-n; [~ one with the eyes] einblína á e-n; [~ on/upon] velja; n. klípa ([to be in a ~, get oneself into a ~])
-fixation n. festing; festa; storknun
+fix s. lagfæra; redda; festa; setja; ákveða, tiltaka; koma (e-u) fyrir; setja (bústað); verða fastur; stirðna; storkna; setjast að ([~ oneself, one's residence]); [~ a person with] leggja (t.d. ábyrgð, kostnað) á e-n; [~ one with the eyes] einblína á e-n; [~ on/upon] velja; n. klípa ([to be in a ~, get oneself into a ~])
+fixation n. festing; festa; storknun; þráhyggja, árátta ([he has this ~ when it comes to ...])
 fixative l. sem miðar að því að festa
 fixed l. fastur; tiltekinn; [~ star] fastastjarna; [~ property] fasteign
 fixedly ao. fast, ákveðið; hvasst ([look ~ at one])
 fixedness n. festa; staðfesta, stöðugleiki
 fixity n. festa ([~ of purpose])
-fixture n. festing, festa; ft. munir, sem fylgja ábúð eða húsi, naglfastir búshlutir
+fixture n. festing, festa; nft. munir, sem fylgja ábúð eða húsi, naglfastir búshlutir
 fizgig n. flugeldur; e.k. skutull; glingur; duttlungur
 fizz n. snark, suða, hvinur; freyðandi vín; s. suða, hvína
 flabbergast s. gera e-n orðlausan (klumsa)

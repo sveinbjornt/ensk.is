@@ -638,7 +638,7 @@ aguish l. sem hefur kuldahroll í sér, sóttveikur
 ah uh. æ! ó!
 ahead ao. á undan, fram undan ([breakers ~]); áfram ([go ~]); [~ of] fram undan, fram fyrir
 ahoy uh. hæ! ([ship ~!])
-aid s. hjálpa, styðja; n. hjálp, aðstoð; hjálpari; ft. hjálparlið; [come to their ~] koma þeim til hjálpar
+aid s. hjálpa, styðja; n. hjálp, aðstoð; hjálpari; nft. hjálparlið; [come to their ~] koma þeim til hjálpar
 aider n. hjálpari
 aidful l. hjálpsamur
 aide-de-camp n. aðstoðarforingi hershöfðingja
@@ -984,7 +984,7 @@ anent ao. & fs. andspænis; um, að því er snertir ([~ the sayings of philosop
 aneurism n. sjá %[aneurysm]%
 aneurismal l. sjá %[aneurysmal]%
 anew ao. að nýju
-anfractuosity n. bugða, krókur; ft. kenjar, tiktúrur
+anfractuosity n. bugða, krókur; nft. kenjar, tiktúrur
 anfractuous l. krókóttur, hlykkjóttur
 angel n. engill
 angelic l. engillegur, engilfagur
@@ -1225,7 +1225,7 @@ applotment n. niðurjöfnun
 apply s. leggja við ([to]); nota, hagnýta; verja (peningum); leita til (e-s [to]); eiga við; [~ for (a place)] sækja um; [~ oneself to] leggja stund á, fást við e-ð; snúa sér (leita) til (e-s)
 appoint s. ákveða, tiltaka (stað, tíma); setja, skipa (í embætti) ([~ him governor, to govern, to be governor])
 appointed l. tiltekinn; útbúinn; skipaður
-appointment n. ákvörðun, tilskipun; loforð (um að koma), stefnumót ([keep (break) an ~]); skipun (í embætti [to an office], nefndar [of a committee]); embætti; ft. útbúnaður
+appointment n. ákvörðun, tilskipun; loforð (um að koma), stefnumót ([keep (break) an ~]); skipun (í embætti [to an office], nefndar [of a committee]); embætti; nft. útbúnaður
 apportion s. úthluta; skipta
 apportionment n. úthlutun; skipting
 apposite l. vel viðeigandi
@@ -1297,7 +1297,7 @@ arborescent l. trékenndur, líkur tré
 arbour n. laufskáli
 arc n. bogi; baugur ([~ of a meridian])
 arcade n. bogagöng; spilasalur
-arcanum n. leyndardómur; kynjalyf; ft. [arcana]
+arcanum n. leyndardómur; kynjalyf
 arch n. bogi; hvelfing; [triumphal ~] sigurbogi; s. hvelfa; [~ the neck] hringa makkann; l. glettinn
 archly ao. glettnislega, með glettni
 archness n. glettni
@@ -1500,7 +1500,7 @@ asseverate s. staðhæfa, fullyrða hátíðlega
 asseveration n. hátíðleg staðhæfing
 asset n. eign, haldbær eign
 assets nft. eignir; eignir til skuldagreiðslu í dánar- eða þrotabúi; [~ and liabilities/debts] eignir og skuldir (í búi)
-assiduity n. iðni, atorkusemi; ft. stimamýkt
+assiduity n. iðni, atorkusemi; nft. stimamýkt
 assiduous l. kostgæfinn, atorkusamur; stöðugur
 assiduousness n. elja, atorkusemi
 assign s. úthluta; tiltaka; nefna, tilgreina; afsala sér ([~ property to])
@@ -1681,7 +1681,7 @@ auspicate s. spá (góðu eða illu); vígja (fyrirtæki með hátíðlegri við
 auspices nft. fuglspá; hamingjuboði; vernd, umsjón
 auspicious l. heillavænlegur, hagstæður, hamingjusamur
 austere l. óþýður, harður; siðavandur
-austerity n. óþýðleiki; strangleiki; harka; aðhaldsstefna í fjármálum; ft. meinlætalifnaður ([the austerities of an anchorite])
+austerity n. óþýðleiki; strangleiki; harka; aðhaldsstefna í fjármálum; nft. meinlætalifnaður ([the austerities of an anchorite])
 austral l. suðlægur, suður-
 Austria n. Austurríki
 Austrian l. austurrískur; n. Austurríkismaður
@@ -1693,7 +1693,7 @@ authenticity n. áreiðanleiki; ritvissa
 author n. rithöfundur; heimildarmaður; frumkvöðull (að e-u [of])
 authoress n. kvenrithöfundur
 authoritative l. valdslegur; fullgildur
-authority n. vald, valdsumboð, heimild; hefðarvald; myndugleiki; heimildarmaður; heimildarrit; ft. [authorities] yfirvöld; [the persons/those in ~] valdhafarnir
+authority n. vald, valdsumboð, heimild; hefðarvald; myndugleiki; heimildarmaður; heimildarrit; nft. [authorities] yfirvöld; [the persons/those in ~] valdhafarnir
 authorization n. staðfesting; heimilun; löggilding
 authorize s. samþykkja, staðfesta; veita fulla heimild, veita umboð; löggilda, löghelga
 autobiography n. sjálfsævisaga, sjálfslýsing
