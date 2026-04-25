@@ -2024,7 +2024,7 @@ Templar
 tenability
 Teuton
 transhumance
-untenability
+untenability 
 austereness
 Buddhistic
 cellar-door
@@ -2042,3 +2042,7 @@ non-discrete
 skell
 tristate
 zippo
+fairish
+ostracized
+seahawk
+shinobi

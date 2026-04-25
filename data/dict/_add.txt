@@ -10960,7 +10960,7 @@ congregant n. safnaðarmeðlimur, meðlimur kirkjusafnaðar
 kerfuffle n. uppákoma
 observational l. athugunar-, eftirlits-, eftirtektar-
 wellness n. góð heilsa, vellíðan
-strongbox n. ishólf, peningaskápur
+strongbox n. peningaskápur, öryggishólf
 pairing n. pörun (sjá %[pair]%)
 butthole n. sjá %[asshole]%
 zippo n. ekkert ([he did ~ to ameliorate the situation]); kveikjari (vörutegund)
@@ -10973,7 +10973,7 @@ formulaic l. formúlukenndur, formúlu-
 discrete mathematics n. strjál stærðfræði
 non-discrete l. óstrjáll
 unicycle n. einhjól (reiðhjól með aðeins einu hjóli)
-tortured l. pyntur; kvalinn, þjakaður ([~ by doubts])
+tortured l. pyntaður, pyndaður; kvalinn, þjakaður ([~ by doubts])
 riptide n. útsog (hafs)
 skell n. róni, heimilisleysingi (óforml. slangur, BNA); grunsamlegur maður, glæpon (óforml. slangur, BNA)
 ostracized l. útskúfaður, dæmdur í útlegð
@@ -10999,4 +10999,11 @@ fates nft. örlaganornir (Atropos, Clotho, and Lachesis, í forngrískri goðafr
 breakers nft. brim
 brackets nft. hornklofar; [within ~] innan hornklofa
 oxen nft. uxar, naut
-optically ao. ljós-, ljósrænt
+optically ao. ljós-, ljósrænt, á ljósrænan hátt
+object-oriented l. hlutbundinn (í forritun)
+object-orientation n. hlutbinding (í forritun)
+pronatalist n. sjá %[natalist]%
+unresolvable l. óleysanlegur, sem ekki er hægt að útkljá, óútkljáanlegur
+reshuffle s. endurstokka (spil); blanda (rugla) á ný
+reshuffled l. endurstokkaður; blanaður á ný
+shunned l. sniðgenginn
