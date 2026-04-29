@@ -2048,3 +2048,6 @@ seahawk
 shinobi
 object-orientation
 spellchecking
+birdshot
+camarilla
+leafblower

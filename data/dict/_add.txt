@@ -7059,7 +7059,7 @@ peroxide n. peroxíð
 homeothermic l. blóðheitur
 salinate s. salta
 salination n. söltun
-lothario n. kvennabósi, flagari
+lothario n. kvennabósi, flagari, kvennamaður
 speedbump n. hraðahindrun
 horripilation n. hárris
 piloerection n. hárris
@@ -11017,3 +11017,19 @@ panic attack n. kvíðakast
 anxiety disorder n. kvíðaröskun
 obstinately ao. þrálátlega, þrjóskulega, þrákelknislega
 fusillade n. skothríð, kúlnahríð, stórkotahríð
+clubhouse n. félagsheimili
+perinatal l. burðarmáls-
+coffee press n. frönsk pressa, kaffipressa
+cafetière n. sjá %[coffee press]%
+hokum n. (tilgerðarleg) þvæla, bull
+leafblower n. laufblásari
+riotousness n. óstýrilæti, óeirðarsemi
+camarilla n. leynisamtök; svikulir ráðgjafar
+artisanal l. handverks-, handiðnaðar-
+seminarian n. guðfræðinemi, guðfræðistúdent
+imperium n. æðsta vald, yfirráð, drottnun
+histrionics nft. leikaraskapur, leiklist, leiktilburðir
+multiethnic l. með mörg þjóðarbrot ([Afghanistan is a ~ country])
+birdshot n. högl (úr haglabyssu)
+coworker n. samstarfsmaður
+illuminating l. lýsandi; skýrandi; uppljómandi
