@@ -2024,7 +2024,7 @@ Templar
 tenability
 Teuton
 transhumance
-untenability 
+untenability
 austereness
 Buddhistic
 cellar-door
@@ -2051,3 +2051,7 @@ spellchecking
 birdshot
 camarilla
 leafblower
+coiffe
+incunable
+ponderousness
+terzetto
