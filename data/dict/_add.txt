@@ -9999,7 +9999,7 @@ rhinestone n. gervigimsteinn úr gleri eða plasti
 diphthongia n. tvíhljóðun
 diplophonia n. tvíröddun; tvíhljóðun
 undiplomatic l. óháttvís eða ólipur í samskiptum; ódiplómatískur; án stjórnkænsku
-varsity n. keppnislið háskóla (í íþróttum, [~ team]); háskóli (óforml., sjá %[university]%)
+varsity n. keppnislið háskóla (í íþróttum, t.d. [~ football team]); háskóli (óforml., sjá %[university]%)
 vasomotor l. æðastjórnar- ([~ system, nerves], o.s.frv.)
 vasculomotor l. æðastjórnar- (sjá %[vasomotor]%)
 theocentric l. guðsmiðaður, þar sem guð er miðpunktur eða helsta áhersluatriði
@@ -11047,3 +11047,13 @@ predefine s. skilgreina fyrirfram
 predefined l. fyrirfram skilgreindur
 terzetto n. þrísöngur
 tank top n. hlýrabolur
+backhoe n. skurðgrafa
+verified l. sannaður, staðfestur, sannreyndur
+smidgen n. smáræði, vottur (af [of]), ögn, agnarögn ([not a ~ of evidence])
+smidgeon n. sjá %[smidgen]%
+reappraisal n. endurmat, endurvirðing
+tinged l. litaður, með litblæ
+lakeside n. vatnsströnd, vatnsbakki; l. við stöðuvatn ([an elegant ~ manor])
+demethylation n. afmetýlun (sameindar í efnafræði)
+bunghole n. rassgat (óforml.); sponsgat
+parsec n. parsek (lengdareining í stjörnufræði, u.þ.b. 3,26 ljósár)
