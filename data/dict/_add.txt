@@ -6976,7 +6976,7 @@ castanet n. kastanetta (hljóðfæri)
 scared l. hræddur; fældur ([we ~ him off] við fældum hann í burtu)
 arse n. rass, afturendi; asni, leiðindagaur; [don't be an ~] ekki vera með leiðindi; [the ~ end of nowhere] lengst úti í rassgati
 autoerotic l. sjálfsfrygðar-
-autoerotism n. sjálfsfrygð
+autoerotism n. sjá %[autoeroticism]%
 autoeroticism n. sjálfsfrygð
 epithelium n. þekjuvefur, þekja, útþekja (himnuvefur líffæra)
 sexagesimal n. sextugakerfi (talnakerfi með grunntöluna sextíu); l. sextugakerfis-
@@ -11029,7 +11029,7 @@ artisanal l. handverks-, handiðnaðar-
 seminarian n. guðfræðinemi, guðfræðistúdent
 imperium n. æðsta vald, yfirráð, drottnun
 histrionics nft. leikaraskapur, leiklist, leiktilburðir
-multiethnic l. með mörg þjóðarbrot ([Afghanistan is a ~ country])
+multiethnic l. með mörg þjóðarbrot, margra þjóðarbrota ([Afghanistan is a ~ country])
 birdshot n. högl (úr haglabyssu)
 coworker n. samstarfsmaður
 illuminating l. lýsandi; uppljómandi; skýrandi
@@ -11057,3 +11057,25 @@ lakeside n. vatnsströnd, vatnsbakki; l. við stöðuvatn ([an elegant ~ manor])
 demethylation n. afmetýlun (sameindar í efnafræði)
 bunghole n. rassgat (óforml.); sponsgat
 parsec n. parsek (lengdareining í stjörnufræði, u.þ.b. 3,26 ljósár)
+harpooneer n. sjá %[harpooner]%
+buttfuck n. rassríðing, endaþarmsmök (óforml.); n. ríða í rassgat, eiga endaþarmsmök við (óforml.)
+demasculinize s. gelda, vana
+demasculinise s. sjá %[demasculinize]%
+bioplastic n. lífrænt plast
+tainted l. blettaður, óhreinkaður; spilltur; skemmdur; svívirtur
+jeering n. háð, spott; l. hæðinn, spottandi (sjá %[jeer]%)
+naiveness n. sjá %[naiveté]%
+syrupy l. sírópskenndur; hunangssætur
+scarring n. örmyndun (sjá %[scar]%)
+headquarter s. gera að höfuðstöðvum (sínum)
+wallflower n. gulltoppur (planta)
+operatic l. óperulegur, óperu-
+convoluted l. samvafinn, undinn; flókinn, snúinn
+fibromyalgia n. vefjagigt
+inclinometer n. hallamælir
+tormented l. þjakaður, kvalinn
+lacrimal l. sjá %[lachrymal]%
+multicolored l. sjá %[multicoloured]%
+begging n. betl
+feasting n. veisluhald
+viscousness n. sjá %[viscosity]%

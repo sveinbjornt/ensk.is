@@ -4194,7 +4194,7 @@ involucrum
 copepod
 accompanied
 classy
-convoluted
+convolute (endurskoða)
 fidelity (endurskoða)
 pandemia
 proprietorial
@@ -4223,7 +4223,6 @@ haplogroup
 creche
 spyhop
 spyhopping
-operatic
 microaggression
 stereotyping
 recon
@@ -4283,6 +4282,7 @@ hyperonymy
 meronymy
 passarella
 facetiously
+thrill (endurskoða)
 thrilled
 untether
 withdrawn
@@ -4331,7 +4331,6 @@ conferred
 uncapitalized
 neg
 negging
-wallflower
 wristband (endurskoða)
 tiered
 ethnogenesis
@@ -4356,7 +4355,6 @@ deescalate
 toggle
 profiler
 peekaboo
-headquarter
 hangup
 hang-up
 rematch
@@ -4389,7 +4387,6 @@ deservedly (endurskoða)
 intermediary (endurskoða)
 intermediate (endurskoða)
 cuprate
-scarring
 tartare
 subtartarean
 invested
@@ -5925,8 +5922,6 @@ runagado
 habitation (endurskoða)
 sissified
 sissyish
-demasculinize
-demasculinise
 assumed
 glimmering
 bonce
@@ -6180,7 +6175,6 @@ commode (endurskoða)
 incoherent (endurskoða)
 scootch
 foreignization
-tainted
 sardonical
 sardonically
 unhatched
@@ -6215,7 +6209,6 @@ matchbook
 interquartile
 wharve
 androgen
-buttfuck
 assfuck
 catalpa
 crawlspace
@@ -6240,3 +6233,68 @@ Connemara
 cognize
 petrous
 modulatory
+jism
+harpooner (endurskoða)
+cowering
+burdened
+contentedly
+cowabunga
+burgeoning
+spluttering
+metaphorically
+exfoliated
+leftfield
+eroticism
+gummy
+thingummy
+stymied
+groupie
+RV
+internalise
+unerect
+matured
+bellowing
+slothfulness
+spiritualistic
+charmed
+maturement
+blackwash
+addict (endurskoða)
+baseball bat
+nonalignment
+painted
+stableman
+offload
+homomorphy
+stick-in-the-mud
+prolusion
+analphabetic
+descensus
+anestrus
+shoddiness
+ill-chosen
+bungling
+bunglesome
+blooper
+fuckup
+Bohemia
+Bohemian
+Moravia
+Moravian
+colicky
+phalanger
+persuadable
+twiddler
+towboat
+otherworldliness
+mundanity
+mundaneness
+shoeless
+burgoo
+disciplinal
+verso
+lowball
+thickening
+splenic fever
+dyslectic
+intromit

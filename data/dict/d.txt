@@ -1031,7 +1031,7 @@ discreditable l. vansæmandi
 discreet l. gætinn, hygginn; þagmælskur, orðvar ([you are a ~ man])
 discrepancy n. misræmi, ósamkvæmni, mótsögn
 discrepant l. misræmdur, ósamkvæmur, ólíkur
-discrete l. sérskilinn, aðskilinn, afmarkaður; slitinn; stakur, stakrænn; strjáll; sundurgreinanlegur
+discrete l. sérskilinn, aðskilinn, afmarkaður; slitinn; stakur, stakrænn; strjáll (í stærðfræði); sundurgreinanlegur
 discretion n. gætni, hyggni; geðþótti, vild ([at his own ~]); [in/within the ~ of] á valdi e-s; [to come to (the) years (age) of ~] til vits og ára; [to surrender at ~] gefast upp skilyrðislaust
 discretional l. sjálfræðislegur, ótakmarkaður; sem er eftir eigin vild eða geðþótta
 discretionary l. sjálfræðislegur, ótakmarkaður; sem er eftir eigin vild eða geðþótta
@@ -1644,7 +1644,7 @@ drover n. fjárkaupmaður; fjárrekstrarmaður
 drown s. drekkja; flæða yfir; [to ~] drukkna; [to be ~ed] að vera drekkt
 drowse s. blunda, móka; gera daufan, sljóvga; [~ away time] eyða tímanum í iðjuleysi; n. blundur, mók
 drowsiness n. drungi, slen, deyfð
-drowsy l. drungafullur, syfjaður; svæfandi
+drowsy l. syfjaður; svæfandi
 drub s. berja, lemja; stappa ([~ on the ground with the feet])
 drubbing n. barsmíð
 drudge s. strita, vinna baki brotnu; n. vinnuþræll
