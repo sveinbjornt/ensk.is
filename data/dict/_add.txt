@@ -11058,7 +11058,7 @@ demethylation n. afmetýlun (sameindar í efnafræði)
 bunghole n. rassgat (óforml.); sponsgat
 parsec n. parsek (lengdareining í stjörnufræði, u.þ.b. 3,26 ljósár)
 harpooneer n. sjá %[harpooner]%
-buttfuck n. rassríðing, endaþarmsmök (óforml.); n. ríða í rassgat, eiga endaþarmsmök við (óforml.)
+buttfuck n. rassríðing, endaþarmsmök (óforml.); s. ríða í rassgat, eiga endaþarmsmök við (óforml.)
 demasculinize s. gelda, vana
 demasculinise s. sjá %[demasculinize]%
 bioplastic n. lífrænt plast
@@ -11079,3 +11079,9 @@ multicolored l. sjá %[multicoloured]%
 begging n. betl
 feasting n. veisluhald
 viscousness n. sjá %[viscosity]%
+miter n. biskupsmítur; s. gera að biskupi, upphefja í biskupsembætti
+sesquicentennial n. eitt hundrað og fimmtíu ára afmælisfögnuður
+semicentennial n. fimmtíu ára afmælisfögnuður
+septicentennial n. sjö hundruð ára afmælisfögnuður
+tricentennial n. þrjú hundruð ára afmælisfögnuður
+camouflaged l. felulitaður, dulbúinn, dulklæddur
