@@ -2650,7 +2650,7 @@ unreality n. óraunveruleiki
 unsubtle l. óslægur; ónæmur; óskarpskyggn (Sjá %[subtle]%)
 necropsy n. krufning
 autobiographer n. sjálfsævisöguritari, sjálfsævisöguhöfundur
-gregariousness n. félagslyndi; að halda sig í hópum
+gregariousness n. félagslyndi; að halda sig í hópum; mannblendni
 groupthink n. hjarðhugsun, hóplyndi
 chromosome n. litningur
 chromosomal l. litninga-
@@ -6019,7 +6019,7 @@ discolored l. upplitaður; aflitaður
 sitcom n. gamanþáttur, gamanþáttaröð (stytt. á [situation comedy])
 didgeridoo n. diggerídú (ástralskt blásturshljóðfæri)
 destroyer n. eyðileggjari, eyðir (sjá %[destroy]%); lítið, hraðskreitt herskip
-Albion n. fornt heiti yfir Bretland ([perfidious ~])
+Albion n. fornt heiti yfir Bretland eða England ([perfidious ~])
 situational l. stöðu-, legu-; háð stöðu, legu eða aðstæðum
 Freudian l. freudískur (sjá %[Freudianism]%)
 Freudianism n. freudismi (sálfræðikenningar Sigmunds Freud)
@@ -11085,3 +11085,22 @@ semicentennial n. fimmtíu ára afmælisfögnuður
 septicentennial n. sjö hundruð ára afmælisfögnuður
 tricentennial n. þrjú hundruð ára afmælisfögnuður
 camouflaged l. felulitaður, dulbúinn, dulklæddur
+mercifulness n. miskunnsemi
+heliolatry n. sóldýrkun
+uproariously ao. róstusamlega
+hyperbolise s. sjá %[hyperbolize]%
+purulency n. sjá %[purulence]%
+wrothful l. sjá %[wrathful]%
+electric chair n. rafmagnsstóll
+osteal l. bein-
+salaciousness n. lostasemi
+ungregarious l. ófélagslyndur; ómannblendinn
+archeology n. sjá %[archaeology]%
+Trotskyite n. sjá %[Trotskyist]%
+heliotype n. helíótýpa
+fertilise s. sjá %[fertilize]%
+criminalise s. sjá %[criminalise]%
+liegeman n. lénsmaður
+innumerableness n. óteljanleiki
+spitefulness n. meinsemi, illgirni, meinfýsni
+implausibly ao. ósennilega
