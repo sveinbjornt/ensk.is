@@ -30,6 +30,7 @@ guaranteed
 inline
 deployment
 goth
+gothic
 commissioned
 succinctorium
 cognition (þarf að endurskoða)
@@ -4744,7 +4745,6 @@ pennywhistle
 centime
 gourmandize
 overgorge
-cerement
 sharp-worded
 tangy
 lemonlike
@@ -6345,3 +6345,14 @@ cattiness
 bitchiness
 lineman
 linesman
+gaga
+pickleball
+segregated
+ideogram
+mycelium
+discipleship
+diastatic
+autolyze
+cousinage
+tapioca
+schlong
