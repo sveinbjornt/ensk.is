@@ -2323,8 +2323,8 @@ courtly l. kurteis, hæverskur; skrautlegur; rausnarlegur
 court-martial n. herréttur; s. dæma fyrir herrétti
 courtship n. tilhugalíf; bónorð
 cousin n. frændi; frændkona; [first ~] systkinabarn; bræðrungur, systrungur; bræðrunga, systrunga; [second ~] þremenningur; [third ~] fjórmenningur
-cousinhood n. frændsemi; skyldleikur
-cousinship n. frændsemi; skyldleikur; [claim ~ with] telja sig í frændsemi við
+cousinhood n. frændsemi; skyldleiki
+cousinship n. frændsemi; skyldleiki; [claim ~ with] telja sig í frændsemi við
 cove n. vík, vogur; hvelfing; s. hvelfa
 covenant n. sáttmáli, samningur; samband; [the ark of the ~] sáttmálsörkin; s. gera samning; semja (um [for])
 covenantee n. sá sem samningur er gerður við
