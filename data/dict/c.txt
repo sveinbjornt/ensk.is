@@ -6,7 +6,8 @@ cabbage n. kál; kálhöfuð; s. hnupla
 cabbala n. leynispeki
 cabalistic l. leyndardómsfullur; leynisamtaka-, svikræðis-
 cabin n. kofi, káeta
-cabinet n. ráðsamkomusalur; ráðuneyti; skápur; [Cabinet Minister] ráðherra; [~ council, ~ meeting] ríkisráð
+cabinet n. ráðsamkomusalur; ráðuneyti; skápur; [~ council, ~ meeting] ríkisráð
+cabinet minister n. ráðherra
 cabinet-maker n. húsgagnasmiður, skápasmiður
 cable n. kapall, kaðall, akkerisfesti; sæsími; s. reyra; binda; senda símskeyti (með sæsíma)
 caboose n. eldakompa (í skipi); eldstó, eldavél
@@ -108,7 +109,8 @@ canalization n. skurðagerð, skurðagröftur, síkisgröftur
 canary n. kanarífugl; e.k. spánskur dans
 cancel s. aflýsa, afnema, strika út, ógilda, hætta við; útiloka, slaufa
 cancellation n. útstrikun, ógilding, aflýsing, afnám; útilokun, slaufun
-cancer n. krabbi; krabbamein; [Cancer] Krabbinn (stjörnumerki)
+cancer n. krabbamein; krabbi
+Cancer n. Krabbinn (stjörnumerki)
 cancerate s. éta um sig; verða að krabbameini
 cancerous l. sem líkist krabbameini, krabbameins-
 cancroid l. sem líkist krabbameini, krabba-
@@ -456,7 +458,8 @@ celebration n. hátíðahald; víðfræging, lof
 celebrity n. orðstír, frægð; nafntoguð eða fræg manneskja, stjarna
 celerity n. hraði, flýtir
 celery n. seljurót, sellerí
-celestial l. himneskur, himin-; [~ map] stjörnukort; [the Celestial Empire] Kínaveldi; n. himnesk vera
+celestial l. himneskur, himin-; [~ map] stjörnukort; n. himnesk vera ([~ being])
+Celestial l. kínverskur (óforml.); [the Celestial Empire] Kínaveldi; n. Kínverji (óforml.)
 celibacy n. ókvæni, einlífi, skírlífi
 celibate n. einlífis- eða skírlífismanneskja; l. einlífur, skírlífur
 cell n. klefi, kompa; sella; fruma
@@ -739,8 +742,10 @@ Chinaman n. Kínverji
 chinch n. veggjalús
 chine n. hryggur af skepnu (með kjötinu á); hryggur, brún (á fjalli); lögg (á tunnu); s. höggva hrygginn, í stykki
 Chinese l. kínverskur; n. Kínverji; kínverska
-chink n. glasahljóð, málmhljóð; peningar; rifa, sprunga; andköf; [Chink] niðrandi orð um e-n af kínverskum uppruna; s. glamra, hringla; springa; troða í rifur; standa á öndinni (af hósta eða hlátri)
-chinky l. með sprungum, rifum; n. [Chinky] niðrandi orð um e-n af kínverskum uppruna
+chink n. glasahljóð, málmhljóð; peningar; rifa, sprunga; andköf; s. glamra, hringla; springa; troða í rifur; standa á öndinni (af hósta eða hlátri)
+Chink n. niðrandi orð um e-n af kínverskum uppruna
+chinky l. með sprungum, rifum
+Chinky n. niðrandi orð um e-n af kínverskum uppruna
 chintz n. sirz
 chip n. höggspónn; flís; sneið; [he is a ~ of the old block] lifandi eftirmyndin hans föður síns; sneidd kartafla, frönsk kartafla (UK); s. höggva smátt; höggva til; flísast
 chippings nft. flísar ([~ of stones])

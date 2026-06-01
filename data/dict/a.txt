@@ -722,7 +722,8 @@ align s. setja í beina línu
 alignment n. línusetning, röð
 alive ao. á lífi, lifandi; [be ~ to] finna til; [look ~] kvika, hreyfa sig; [~ with] kvikur af e-u
 alkali n. pottaska
-all l. allur ([~ day, ~ his life]); allir ([~ whom I saw]); [~ of them] þeir allir; [~ is lost] allt er tapað; ao. alveg ([~ alone, ~ right]); n. aleiga ([he lost his ~]); alheimur; [~ at once, ~ of a sudden] allt í einu; [~ over] alls staðar; [~ but] næstum; [at ~] að nokkru leyti ([if they had been at ~ like her]); [not at ~] alls ekki; [~ kinds of] allskonar; [once and for ~] í eitt skipti fyrir öll; [All Fools' Day] fyrsti dagur aprílmánaðar
+all l. allur ([~ day, ~ his life]); allir ([~ whom I saw]); [~ of them] þeir allir; [~ is lost] allt er tapað; ao. alveg ([~ alone, ~ right]); n. aleiga ([he lost his ~]); alheimur; [~ at once, ~ of a sudden] allt í einu; [~ over] alls staðar; [~ but] næstum; [at ~] að nokkru leyti ([if they had been at ~ like her]); [not at ~] alls ekki; [~ kinds of] allskonar; [once and for ~] í eitt skipti fyrir öll
+All Fools' Day n. fyrsti dagur aprílmánaðar
 allay s. stilla, kyrra; sefa, slökkva (þorsta, hungur); bæla niður ([~ suspicions]); draga úr e-u
 allegation n. sönnunaratriði; staðhæfing, framburður
 allege s. tilgreina, bera fyrir sig (sem ástæðu eða afsökun); fullyrða
@@ -1525,7 +1526,8 @@ assuage s. sefa, lina, draga úr
 assuagement n. linun, léttir
 assume s. gera ráð fyrir; þykjast; taka (í félagsskap); taka á sig, fá; taka að sér; eigna sér
 assuming l. heimtufrekur; þóttafullur
-assumption n. ætlun, þótti, tilgáta sem gert er ráð fyrir að sé rétt; viðtaka, taka á sig ([~ of power]); [the Assumption] himnaför Maríu (15. ágúst)
+assumption n. ætlun, þótti, tilgáta sem gert er ráð fyrir að sé rétt; viðtaka, taka á sig ([~ of power])
+Assumption n. himnaför Maríu (15. ágúst)
 assumptive l. óefaður ([~ belief]); þóttafullur
 assurance n. fullvissun; ábyrgð; lífsábyrgð; vissa; sjálfstraust; ofdirfska; óskammfeilni
 assure s. tryggja (lífið); styðja; fullvissa ([we may rest ~d that])

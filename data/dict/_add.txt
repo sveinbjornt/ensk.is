@@ -111,7 +111,8 @@ encrypt s. dulkóða, dulrita
 girlfriend n. kærasta, unnusta; vinkona
 ex-girlfriend n. fyrrverandi kærasta, fyrrverandi unnusta; fyrrverandi vinkona
 guestbook n. gestabók
-holocaust n. helför; [the Holocaust] helförin, þ.e. kerfisbundin tortíming Gyðinga og annarra á síðustu árum seinni heimsstyrjaldar
+holocaust n. helför
+Holocaust n. [the ~] helförin, þ.e. kerfisbundin tortíming Gyðinga og annarra hópa á árum seinni heimsstyrjaldar
 microphone n. hljóðnemi
 mic n. hljóðnemi (stytt. á %[microphone]%)
 mike n. hljóðnemi (stytt. á %[microphone]%)
@@ -200,7 +201,8 @@ semester n. önn; hluti skólaárs
 antibody n. mótefni
 brochure n. bæklingur
 respected l. virtur, sem nýtur virðingar
-python n. pýtonslanga (ættkvísl óeitraðra slangna sem finnst í Afríku og Asíu); [Python] forritunarmál
+python n. pýtonslanga (ættkvísl óeitraðra slangna sem finnst í Afríku og Asíu)
+Python n. forritunarmál
 publicly ao. opinberlega
 groundwater n. grunnvatn
 earring n. eyrnalokkur
@@ -1555,7 +1557,8 @@ Tuscany n. Toskanahérað (á Ítalíu)
 Kiev n. Kænugarður (borg í Úkraínu)
 Kyiv n. Kænugarður (borg í Úkraínu)
 Constantinople n. Mikligarður, Konstantínópel (í dag tyrkneska borgin Istanbúl)
-cologne n. ilmvatn, kölnarvatn, rakspíri; [Cologne] Köln (borg í Þýskalandi)
+cologne n. ilmvatn, kölnarvatn, rakspíri
+Cologne n. Köln (borg í Þýskalandi)
 London n. Lundúnir, London (höfuðborg Bretlands)
 New World n. Nýi heimurinn (álfurnar Suður- og Norður-Ameríka, og Eyjaálfa)
 Old World n. Gamli heimurinn (álfurnar Evrópa, Asía og Afríka)
@@ -2887,7 +2890,8 @@ coolant n. kæliefni, kælivökvi
 kilotonne n. kílótonn (1000 tonn)
 kiloton n. kílótonn (1000 tonn)
 oxidization n. oxun, sýring (sjá %[oxidation]%)
-bourbon n. búrbón, búrbónviskí (bandarískt viskí bruggað úr korni); frönsk konungsætt ([House of Bourbon])
+bourbon n. búrbón, búrbónviskí (bandarískt viskí bruggað úr korni)
+Bourbon n. frönsk konungsætt ([House of Bourbon])
 phosphate n. fosfat (salt af fosfórsýru)
 yam n. mjölrót, jamrótarhnýði, kínakartafla; sæt kartafla (BNA)
 multistory l. marghæða, fjölhæða; [~ building] bygging með mörgum hæðum
@@ -5338,7 +5342,8 @@ metacognition n. hugvitund (þekking á eigin hugsun eða vitund)
 metacognitive l. hugvitundar- (sjá %[metacognition]%)
 nightcap n. nátthúfa; síðasti drykkurinn fyrir svefninn
 sports nft. íþróttir (sjá %[sport]%)
-vandal n. skemmdarvargur; [Vandal] Vandali (forngermanskur þjóðflokkur)
+vandal n. skemmdarvargur
+Vandal n. Vandali (forngermani)
 beret n. alpahúfa
 gopher n. e.k. jarðíkorni
 electromagnetic l. rafsegul-; rafsegulfræðilegur
@@ -5763,7 +5768,8 @@ ultraviolet radiation n. útfjólublá geislun, útblámageislun
 stock market n. hlutabréfamarkaður, verðbréfamarkaður, kauphöll
 upstate l. norðar í fylkinu, í upphéröðum, nyrðra (BNA)
 Iliad n. Ilíonskviða ([the ~])
-odyssey n. ævintýraleiðangur, langur leiðangur; [the Odyssey] Ódysseifskviða
+odyssey n. ævintýraleiðangur, langur leiðangur
+Odyssey n. [the ~] Ódysseifskviða
 sparkling wine n. freyðivín
 sparkling water n. sódavatn, kolsýrt vatn
 thornbush n. þyrnirunni
@@ -7696,7 +7702,8 @@ licit l. leyfilegur, löglegur
 licitly ao. leyfilega, löglega
 haunted l. reimt, haldið draugagangi ([~ house, mansion]); þjakaður ([~ by his past])
 damned l. bölvaður; fordæmdur, dæmdur til útskúfunar (úr himnaríki)
-kashmir n. kasmírvefnaður; [Kashmir] Kasmír (sjálfstjórnarhérað á landamærum Indlands og Pakistan)
+kashmir n. kasmírvefnaður
+Kashmir n. Kasmír (sjálfstjórnarhérað á landamærum Indlands og Pakistan)
 metope n. milliflötur; ferningur (í byggingum Grikkja til forna)
 patristic l. kirkjufeðra-
 badmouth s. tala illa um, hallmæla, bera róg um, rægja
@@ -9520,7 +9527,8 @@ uncoordinated l. ósamstilltur, ósamhæfður
 convincingly ao. á sannfærandi máta
 decathlon n. tugþraut (íþrótt)
 subatomic l. smærri en frumeind
-acropolis n. borgarvirki, háborg (í Grikklandi); [the Acropolis] Akrópólishæð (háborg Aþenuborgar)
+acropolis n. borgarvirki, háborg (í Grikklandi)
+Acropolis n. Akrópólishæð (háborg Aþenuborgar)
 wilt s. visna, skrælna
 wilted l. visnaður, skrælnaður
 ultrasonic l. úthljóðs-
