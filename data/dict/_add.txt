@@ -9162,7 +9162,7 @@ giganotosaurus n. jötuneðla (risaeðlutegund)
 microfungus n. smásveppur, örsveppur
 thrombus n. blóðsegi
 apophony n. hljóðskipti
-graphene n. grafín
+graphene n. grafín (efni gert úr kolefnisatómum)
 shoebill n. skónefur (e.k. pelíkani)
 farsighted l. sjá %[far-sighted]%
 farsightedness n. sjá %[far-sightedness]%
@@ -10995,7 +10995,7 @@ fixer n. reddari, sá sem reddar hlutum eða bjargar málum (óforml.)
 arcana nft. sjá %[arcanum]%
 effects nft. munir; lausafé; lausir aurar; húsgögn ([household ~])
 effluvia nft. sjá %[effluvium]%
-fates nft. örlaganornir (Atropos, Clotho, and Lachesis, í forngrískri goðafræði)
+Fates nft. örlaganornirnar (Atropos, Clotho, and Lachesis, í forngrískri goðafræði)
 breakers nft. brim
 brackets nft. hornklofar; [within ~] innan hornklofa
 oxen nft. uxar, naut
@@ -11119,3 +11119,16 @@ asocial l. ófélagslegur, áhugalaus um félagslega samveru
 spork n. skaffall (áhald sem er í senn gaffall og skeið)
 shlock n. sjá %[schlock]%
 dreck n. drasl, lélegur varningur
+economic science n. hagfræði, hagfræðileg vísindi
+bandoneon n. e.k. harmonikka (með hnöppum beggja megin)
+outmoded l. úreltur, gamaldags; dottinn úr tísku
+disciplinal l. sjá %[disciplinary]%
+shoeless l. skólaus
+expelled l. brottrekinn, rekinn á brott, útskúfaður
+baseball bat n. hafnaboltakylfa
+slothfulness n. leti, dugleysi, framtaksleysi, slæpingsskapur
+gunmetal n. málmblada úr kopar og tini eða sinki; e.k. bronsblanda; dökkgrár litur
+polyethylene n. fjöletýlen (plasttegund)
+invar n. invarstál
+anode n. anóða, forskaut
+osmotic l. osmósu-, himnuflæðis-
