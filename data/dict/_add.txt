@@ -7399,7 +7399,7 @@ trainers nft. íþróttaskór
 tumour n. æxli, kýli; hnúður, vöxtur; meinsemd
 tycoon n. viðskiptajöfur, auðjöfur, auðkýfingur
 variant n. afbrigði; afvik; frábrigði
-wildlife n. náttúrulíf
+wildlife n. náttúrulíf; dýralíf
 X-ray n. röntgengeisli; röntgenmynd; röntgen
 apologise s. sjá %[apologize]%
 authorise s. sjá %[authorize]%
@@ -10938,7 +10938,6 @@ keynote n. grunntónn; inngangsræða, stefnuræða ([~ speech])
 Confucian l. konfúsíusarhyggju-, konfúsíusar-; n. fylgismaður heimspeki Konfúsíusar
 hypocritically ao. hræsnislega
 temperamental l. skapmikill, duttlungafullur, mislyndur; skaplyndis-
-# temperamentally
 overemphasis n. ofuráhersla, of mikil áhersla
 willfulness n. sjá %[wilfulness]%
 weedkiller n. illgresiseyðir, plöntueitur
@@ -10975,7 +10974,7 @@ non-discrete l. óstrjáll
 unicycle n. einhjól (reiðhjól með aðeins einu hjóli)
 tortured l. pyntaður, pyndaður; kvalinn, þjakaður ([~ by doubts])
 riptide n. útsog (hafs)
-skell n. róni, heimilisleysingi (óforml. slangur, BNA); grunsamlegur maður, glæpon (óforml. slangur, BNA)
+skell n. róni, heimilisleysingi (slangur, BNA); grunsamlegur maður, glæpon (slangur, BNA)
 ostracized l. útskúfaður, dæmdur í útlegð
 fairish l. þokkalegur, sæmilegur
 hostilities nft. átök, bardagar, ófriður; fjandsemi, fjandskapur (sjá %[hostility]%)
@@ -11149,3 +11148,34 @@ desalinization n. sjá %[desalination]%
 acquitted l. sýknaður; leystur (undan e-u [of]); leysa, standa sig ([he ~ himself well])
 geoengineer n. jarðverkfræðingur
 geoengineering n. jarðverfræði
+triton n. þríeind
+fragrancy n. sjá %[fragrance]%
+capitalise s. sjá %[capitalize]%
+frugalness n. sjá %[frugality]%
+impreciseness n. sjá %[imprecision]%
+tenaciousness n. sjá %[tenacity]%
+Brit n. Breti
+palaeontological l. %[paleontological]%
+arborous l. %[arboreal]%
+debaucher n. ólifnaðarmaður; svallari
+warhorse n. stríðshestur
+uneducated l. ómenntaður
+enlarged l. stækkaður, aukinn
+steel mill n. stálver
+odontosis n. tannmyndun
+odontogenesis n. tannmyndun
+archaicism n. sjá %[archaism]%
+ottoman n. (baklaus) hvílubekkur
+anomalousness n. óregla, afbrigðileiki
+uptown ao. uppi í bæ, uppi í borg; í fínni hluta bæjarins
+impassivity n. tilfinningadoði, sljóleiki
+fractiousness n. önuglyndi
+dogtooth n. hundatönn (jurt)
+diaphoresis n. svitnun
+hidrosis n. svitnun
+gasbag n. gasbelgur; blaðurskjóða, skrafari
+lachrymation n. grátur
+lacrimation n. sjá %[lachrymation]%
+cookhouse n. eldhús, kokkhús (um borð í skipi)
+retributory l. sjá %[retributive]%
+wormlike l. ormlegur, eins og ormur
