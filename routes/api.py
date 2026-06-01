@@ -5,7 +5,7 @@ API routes
 
 from fastapi import APIRouter, Request
 
-from dict import unpack_definition
+from dict import CAT_TO_NAME, unpack_definition
 from util import (
     cache_response,
     read_json,
@@ -13,7 +13,6 @@ from util import (
 )
 
 from .core import (
-    CAT_TO_NAME,
     SEARCH_CACHE_SIZE,
     SMALL_CACHE_SIZE,
     JSONResponse,
