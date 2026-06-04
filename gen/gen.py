@@ -55,6 +55,7 @@ sys.path.insert(0, parentdir)
 from db import DB_FILENAME, EnskDatabase  # noqa: E402
 from dict import (  # noqa: E402
     CAT_TO_NAME,
+    CAT_TO_NAME_EN,
     antonyms_for_word,
     page_for_word,
     parse_line,
@@ -314,7 +315,7 @@ def generate_json(entries: EntryList) -> str:
         # the /api/item/parsed endpoint, and remap category abbreviations to
         # human-friendly names.
         parsed = {
-            CAT_TO_NAME[k]: v for k, v in unpack_definition(definition).items()
+            CAT_TO_NAME_EN[k]: v for k, v in unpack_definition(definition).items()
         }
         entry_data = {
             "word": word,
