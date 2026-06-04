@@ -54,7 +54,6 @@ sys.path.insert(0, parentdir)
 
 from db import DB_FILENAME, EnskDatabase  # noqa: E402
 from dict import (  # noqa: E402
-    CAT_TO_NAME,
     CAT_TO_NAME_EN,
     antonyms_for_word,
     page_for_word,
