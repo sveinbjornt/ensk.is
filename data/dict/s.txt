@@ -349,11 +349,13 @@ scorn s. fyrirlíta; forsmá; n. fyrirlitning; forsmán
 scornful l. forsmáandi, fyrirlítandi ([of])
 scornfully ao. með fyrirlitningu
 scorpion n. sporðdreki
-scot n. [Scot] skoti; tillag; skattur; [to pay ~ and lot] svara sköttum og skyldum; [to pay one off ~ and lot] greiða e-m (skuld sína) að fullu og öllu
+scot n. tillag; skattur; [to pay ~ and lot] svara sköttum og skyldum; [to pay one off ~ and lot] greiða e-m (skuld sína) að fullu og öllu
+Scot n. skoti
 scot-free l. óskaddur, óstraffaður ([to pass ~])
 Scotsman n. Skoti
 Scotchman n. Skoti
-scotch s. rispa; særa, lama ([the feeling is ~ed, not killed]); skorða (t.d. hjól); n. rispa, skora; skorða; viskí; l. [Scotch] skoskur; [the Scotch] Skotar; nískur (óforml.)
+scotch s. rispa; særa, lama ([the feeling is ~ed, not killed]); skorða (t.d. hjól); hindra; n. rispa, skora; skorða; (skoskt) viskí
+Scotch l. skoskur; nískur (óforml.); nft. [the Scotch] Skotar
 scotticism n. skosk málvenja
 Scottish l. skoskur
 scoundrel n. fantur; l. þorparalegur, níðingslegur

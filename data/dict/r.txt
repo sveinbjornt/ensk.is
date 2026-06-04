@@ -1057,7 +1057,7 @@ retrench s. skera af; minnka; skerða; nema burtu; víggirða; lifa sparara
 retrenchment n. afskurður, afsneiðing; minnkun; sparnaður; innri víggirðing
 retribute s. endurgjalda
 retribution n. endurgjald, laun; bætur
-retributive l. endurgjaldandi; refsandi ([~ justice])
+retributive l. endurgjaldandi; refsandi, refsi- ([~ justice])
 retrievable l. bætanlegur
 retrieval n. afturfengur; bætur; [beyond/past ~] óbætanlegur
 retrieve s. fá (ná, vinna) aftur; bæta upp aftur; ráða bætur á; n. [beyond (past) ~] óbætanlegur; óbætanlega
@@ -1320,7 +1320,8 @@ rocking horse n. róluhestur (handa börnum)
 rockery n. tilbúinn hóll úr steinum og mold
 rocket n. raketta; flugeldur; [~s were fired (discharged)] flugeldum (rakettum) var skotið; s. skjóta flugeldum (rakettum) á e-n; hoppa (stökkva) upp (um hest); þeysa (á hesti); fljúga beint upp
 rococo l. forntískulegur; íburðarmikill; n. rokókóstíll
-rocky l. klettóttur, kletta- ([Rocky Mountains]); riðandi, ruggandi
+rocky l. klettóttur, kletta-; riðandi, ruggandi
+Rocky Mountains n. Klettafjöll (í Bandaríkjunum)
 rod n. stafur, sproti, teinn ([divining ~]); veiðistöng; mælistöng ([surveyor's ~]); refsivöndur; [keep a ~ in pickle for one] geyma hjá sér refsingu handa e-m
 rodent l. nagandi; n. nagdýr ([burrowing ~s])
 rodomontade n. skrum, gort, raus; s. grobba, rausa
