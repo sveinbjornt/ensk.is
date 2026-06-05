@@ -4865,6 +4865,7 @@ bronzed
 promoter (endurskoða)
 compromise (endurskoða)
 categoric
+categorical (endurskoða)
 matt
 flatcar
 newt (endurskoða)
@@ -4879,7 +4880,6 @@ Rosicrucian
 Rosicrucianism
 barbecue (endurskoða)
 BBQ
-zymolytic
 stippling
 fornix
 prominent (endurskoða - áberandi)
@@ -4906,7 +4906,6 @@ barrelful
 membranophone
 tympan
 wasted
-careworn
 raddled
 haggard (endurskoða)
 beholding
@@ -5816,6 +5815,7 @@ temblor
 hardboiled
 care (endurskoða)
 limerence
+limerent
 bumble
 encased
 tuile
@@ -6367,7 +6367,6 @@ self-direction
 self-abnegation
 sudation
 sudor
-saccharide
 phratry
 peckish
 unreassuring
@@ -6384,12 +6383,14 @@ indention
 vomitus
 whicker
 nicker
-procurer
 panderer
 nitty-gritty
-northmost
 indentured
 concurring
 franchising
 latte
 emulate (endurskoða)
+letterform
+senselessness (endurskoða)
+gaffer (endurskoða)
+gag (endurskoða)
