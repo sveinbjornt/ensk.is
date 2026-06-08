@@ -313,12 +313,14 @@ def generate_json(entries: EntryList) -> str:
         # Parse definition string into category-keyed components, mirroring
         # the /api/item/parsed endpoint, and remap category abbreviations to
         # human-friendly names.
+        definition_for_parsing = definition.replace("~", word)
         parsed = {
-            CAT_TO_NAME_EN[k]: v for k, v in unpack_definition(definition).items()
+            CAT_TO_NAME_EN[k]: v
+            for k, v in unpack_definition(definition_for_parsing).items()
         }
         entry_data = {
             "word": word,
-            "definition": definition,
+            "definition": definition_for_parsing,
             "parsed": parsed,
             "syllables": syllables,
             "ipa_uk": ipa_uk,
