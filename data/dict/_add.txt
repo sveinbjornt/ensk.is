@@ -8977,7 +8977,7 @@ Odysseus n. Ódysseifur (grísk hetja)
 Theseus n. Þeseifur (grísk hetja)
 Cerberus n. Kerberos (þríhöfða varðhundur undirheimsins í grískri goðafræði)
 Odin n. Óðinn (æðstur ása í norrænni goðafræði)
-Aesir n. æsir (norrænu goðin)
+Aesir nft. æsir (norrænu goðin)
 Thor n. Þór (þrumuguðinn í norrænni goðafræði)
 Ragnarok n. ragnarök (heimsendir í norrænni goðafræði)
 Heimdall n. Heimdallur (norrænt goð)
@@ -11240,3 +11240,4 @@ nineteenfold l. nítjánfaldur
 twentyfold l. tuttugufaldur, tuttugfaldur, tvítugfaldur
 masterfully ao. meistaralega
 prominently ao. á áberandi hátt
+earthwork n. varnarvirki úr mold, moldarvirki

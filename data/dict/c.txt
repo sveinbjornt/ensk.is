@@ -383,7 +383,7 @@ catechize s. spyrja börn (úr fræðunum); kenna fræðin
 categorical l. ákveðinn, eindreginn, vafalaus
 category n. flokkur, hugmyndaflokkur; frumsögn; hugsunargrein; hugtak
 catenate s. tengja saman
-cater s. útvega (e-m) matvæli ([for]); sjá fyrir e-m ([for, to]); [~ for newspapers] safna efni í dagblöð; n. fjarki (í spilum; fjórir á teningi)
+cater s. útvega (e-m) matvæli ([for]); sjá fyrir e-m ([for, to]); [~ for newspapers] safna efni í dagblöð; n. fjarki (í spilum, fjórir á teningi)
 caterer n. vistastjóri
 caterpillar n. fiðrildislirfa; kálormur
 caterwaul s. mjálma (um breimandi kött); rífast eins og kettir
@@ -572,7 +572,7 @@ chance n. hending, tilviljun; atvik; tækifæri; möguleiki; ft. líkindi, líku
 chancel n. kór í kirkju
 chancellor n. kanslari, ráðherra; [Chancellor of the Exchequer] fjármálaráðherra Bretlands
 chancellorship n. kanslaraembætti, kanslaratign, kanslaraembættistíð
-chancery n. yfirdómstóll (á Englandi; síðan 1873, ein deild af [the High Court of Justice]); [get into ~] komast í hann krappann
+chancery n. yfirdómstóll (á Englandi - síðan 1873, ein deild af [the High Court of Justice]); [get into ~] komast í hann krappann
 chandelier n. kertaljósakróna, ljósahjálmur, kertahjálmur
 chandler n. kertasteypari; mangari; vistasali
 change n. breyting; tilbreyting; skipti; umskipti; nýtt tungl; smápeningar ([I've got no ~ on me]); samhringing; [~ of clothes] föt til skiptanna; [ring the ~s] hringja mörgum klukkum í senn; borga í sama, gera (honum) sömu skil; [ring the ~s on] alltaf að stagast á e-u; [give ~ for a sovereign] skipta, gefa til baka af; [~ of stockings] sokkar til skiptanna; sokkaskipti; s. breyta; skipta, skipta um; breytast; [~ hands] skipta um hendur; [~ one's mind] skipta um skoðun, breyta fyrirætlun sinni; [~ clothes] skipta um föt; [the leaves ~] fölna, gulna; [~ for the better] breytast til batnaðar
@@ -2683,8 +2683,8 @@ curst l. bölvaður
 curt l. stuttur; stuttorður, stuttaralega
 curtail s. stytta; rýra, skerða, minnka, klípa (af e-u); svipta
 curtain n. tjald (um rúm eða fyrir glugga eða dyrum); gluggatjald; fortjald (fyrir leiksviði); s. prýða með tjöldum; skýla, hylja
-curtsy n. knjábeyging; [to drop (make) a ~] beygja kné (til að sýna virðingu eða heilsa; nú aðeins haft um kvenfólk); s. [to drop a ~]
-curtsey n. knjábeyging; [to drop (make) a ~] beygja kné (til að sýna virðingu eða heilsa; nú aðeins haft um kvenfólk); s. [to drop a ~]
+curtsy n. knjábeyging; [to drop (make) a ~] beygja kné (til að sýna virðingu eða heilsa, nú aðeins haft um kvenfólk); s. [to drop a ~]
+curtsey n. sjá %[curtsy]%
 curvature n. bugða
 curve n. boglína; bugða; s. beygja, sveigja; beygjast
 curvett n. hopp, stökk; s. hoppa, stökkva (um hest)

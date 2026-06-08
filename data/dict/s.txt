@@ -1933,7 +1933,7 @@ splenic l. miltis-; [~ fever] miltisbruni
 splice s. þætta (flétta) saman (tvo kaðalenda); skeyta (fella) saman tvo borðenda; gefa saman (hjón)
 splint n. flaski; ft. spelkur; s. leggja spelkur við (beinbrot)
 splinter n. flís, flaski, spónn; s. kljúfa í flísar; flísast; [~ up] binda spelkur við
-split s. kljúfa; rífa í sundur; sprengja; klofna, rifna; ætla að springa (af hlátri; einnig [~ one's sides, ~ oneself with laughter]); n. sprunga, rifa; sundurþykkja; l. klofinn; brotinn; [~ peas] klofnar ertur
+split s. kljúfa; rífa í sundur; sprengja; klofna, rifna; ætla að springa (af hlátri, einnig [~ one's sides, ~ oneself with laughter]); n. sprunga, rifa; sundurþykkja; l. klofinn; brotinn; [~ peas] klofnar ertur
 splodge s. ösla
 splotch n. sletta, klessa; stjarna (á hesti); s. sletta (klessa) e-u á e-ð ([~ a thing with])
 splutter n. hávaði, uppþot; s. frussa; tala fljótt og ógreinilega, tafsa; snarka (um kyndil)
@@ -1991,8 +1991,8 @@ spread s. dreifa, breiða út; breiða á (borð); dreifast, breiðast út; ná;
 spree n. gleðskapur; drykkja; [on a ~] á „túr“
 sprig n. lítil grein, viðarteinungur; unglingur; s. sauma (vefa) greinar (eða blómstur) í
 spright n. andi; vofa, svipur; afturganga
-sprightliness n. fjör
-sprightly l. fjörugur, kátur; glaðlegur
+sprightliness n. fjör, kátína, hressleiki; glaðværð
+sprightly l. fjörugur, kátur, hress; glaðlegur
 spring s. stökkva; spretta upp, koma upp; vaxa; springa út (um blóm); láta stökkva upp, reka upp (veiðidýr); bera upp, koma fram með ([~ a new project]); sprengja, brjóta; [~ the rattle] snúa brestinum; [~ a leak] verða lekur ([the vessel sprang a leak]); n. vor; stökk; uppspretta; upptök; uppkoma; uppruni, orsök; staður, fjaðurafl, teygja; fjöður (í úri); [~ water] uppsprettuvatn; [hot spring] hver, laug; [mineral ~] ölkelda
 springiness n. fjaðurafl, staður (í stáli), teygja
 springlike l. vorlegur
@@ -2179,7 +2179,7 @@ statesman n. stjórnvitringur, stjórnfræðingur
 statesmanlike l. stjórnvitringslegur
 statesmanship n. stjórnviska, stjórnkænska
 statics nft. jafnvægisfræði
-station n. staður; staða (í mannfélaginu); stöð (járnbrautarstöð; vagnastöð; lögreglustöð); lífsstaða ([~ in life]); embætti; [man of exalted ~] í hárri stöðu; s. setja; skipa á e-n stað; [~ oneself] taka sér stöðu
+station n. staður; staða (í mannfélaginu); stöð (járnbrautarstöð, vagnastöð, lögreglustöð); lífsstaða ([~ in life]); embætti; [man of exalted ~] í hárri stöðu; s. setja; skipa á e-n stað; [~ oneself] taka sér stöðu
 stationary l. kyrr á sama stað; sem stendur í stað, kyrrstæður; stöðugur; fastur; staðlegur
 stationer n. ritfærasali, ritfangasali, pappírssali
 stationery n. ritfæri, ritföng

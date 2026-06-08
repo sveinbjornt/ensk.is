@@ -297,7 +297,7 @@ fermentation n. gerjun; ólga, gerð æsing
 fern n. burkni
 ferny l. vaxinn burkna ([a ferny ground])
 ferocious l. grimmur, grimmúðlegur, grimmilegur
-ferocity n. grimmd, grimmúð; ft. grimmdarverk
+ferocity n. grimmd, grimmúð
 ferreous l. járnkynjaður
 ferret n. hreysikattartegund; skjalaband; s. reka upp úr fylgsni sinu; flæma (burt [off]); komast fyrir e-ð ([~ up, out])
 ferriage n. flutningur í ferju; ferjutollur
@@ -929,7 +929,7 @@ fork n. forkur; gaffall, matkvísl; kvísl ([~ of a river]); s. kvíslast (í tv
 forked l. klofinn
 forky l. klofinn
 forlorn l. yfirgefinn, einmana; aumkvunarlegur; aumlegur
-form n. mynd, lögun; mót; fyrirkomulag ([~ of government]); ytra snið, form ([in due or proper ~]); eyðublað ([a printed ~; to fill in a ~]); bekkur; bekkur (í skóla); leturformur; [it is bad ~ to] það þykir eiga illa við að; [~s of application] umsóknareyðublöð; s. mynda, laga; mennta ([~ the mind]); raða, skipa (í flokka, kerfi [into a system]); gera (samband, samsæri), stofna ([~ a settlement]); fylkja (liði); fylkja sér ([~ up]); myndast; [harbours have been ~ed] hafnir hafa verið gerðar
+form n. mynd, lögun; mót; fyrirkomulag ([~ of government]); ytra snið, form ([in due or proper ~]); eyðublað ([a printed ~, to fill in a ~]); bekkur; bekkur (í skóla); leturformur; [it is bad ~ to] það þykir eiga illa við að; [~s of application] umsóknareyðublöð; s. mynda, laga; mennta ([~ the mind]); raða, skipa (í flokka, kerfi [into a system]); gera (samband, samsæri), stofna ([~ a settlement]); fylkja (liði); fylkja sér ([~ up]); myndast; [harbours have been ~ed] hafnir hafa verið gerðar
 formal l. formlegur; reglulegur; ytri; viðhafnarlegur; einstrengingslegur; fullkominn, skýlaus
 formalism n. formfesta; viðhafnarsiðir (við guðsþjónustu)
 formalist n. siðamaður
