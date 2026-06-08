@@ -47,6 +47,40 @@ from util import read_wordlist
 
 CATEGORIES = frozenset(read_wordlist("data/catwords.txt"))
 
+# Mapping of category abbreviations to human-friendly Icelandic names
+# TODO: Move to JSON configuration file
+CAT_TO_NAME = {
+    "n.": "nafnorð",
+    "nft.": "nafnorð (í fleirtölu)",
+    "l.": "lýsingarorð",
+    "s.": "sagnorð",
+    "ao.": "atviksorð",
+    "fsk.": "forskeyti",
+    "st.": "samtenging",
+    "gr.": "greinir",
+    "fs.": "forsetning",
+    "uh.": "upphrópun",
+    "fn.": "fornafn",
+    "stytt.": "stytting",
+    "sks.": "skammstöfun",
+}
+
+CAT_TO_NAME_EN = {
+    "n.": "noun",
+    "nft.": "noun_plural",
+    "l.": "adjective",
+    "s.": "verb",
+    "ao.": "adverb",
+    "fsk.": "prefix",
+    "st.": "conjunction",
+    "gr.": "article",
+    "fs.": "preposition",
+    "uh.": "interjection",
+    "fn.": "pronoun",
+    "stytt.": "abbreviation",
+    "sks.": "acronym",
+}
+
 TXT_SUFFIX = ".txt"
 
 

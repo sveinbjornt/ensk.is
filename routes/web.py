@@ -13,7 +13,7 @@ import aiofiles.os
 from fastapi import APIRouter, HTTPException, Request
 from fastapi.responses import RedirectResponse, Response
 
-from dict import unpack_definition
+from dict import CAT_TO_NAME, unpack_definition
 from settings import PROJECT
 from util import (
     cache_response,
@@ -24,7 +24,6 @@ from util import (
 
 from .core import (
     CAT2ENTRIES,
-    CAT_TO_NAME,
     DEFAULT_SEARCH_LIMIT,
     KNOWN_MISSING_WORDS,
     SEARCH_CACHE_SIZE,

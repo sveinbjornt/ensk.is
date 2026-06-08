@@ -5325,7 +5325,7 @@ soppiness n. væmni
 pipsqueak n. örverpi
 briskly ao. fjöruglega, snarplega
 wombat n. vambi (pokadýr)
-netiquette n. mannasiðir á netinu (sjá %[etiquette]%)
+netiquette n. netsiðir, mannasiðir á netinu (sjá %[etiquette]%)
 heatstroke n. hitaslag
 rephrase s. umorða, endurorða
 impoverished l. fátækur, gerður fátækur; rýrður (sjá %[impoverish]%)
@@ -11153,9 +11153,9 @@ abandonware n. eftirlegubúnaður (yfirgefinn hugbúnaður)
 salinize s. sjá %[salinate]%
 salinization n. söltun; saltmengun
 desalinization n. sjá %[desalination]%
-acquitted l. sýknaður; leystur (undan e-u [of]); leysa, standa sig ([he ~ himself well])
+acquitted l. sýknaður; leystur (undan e-u [of]); standa sig ([he ~ himself well])
 geoengineer n. jarðverkfræðingur
-geoengineering n. jarðverfræði
+geoengineering n. jarðverkfræði
 triton n. þríeind
 fragrancy n. sjá %[fragrance]%
 capitalise s. sjá %[capitalize]%
@@ -11177,7 +11177,7 @@ ottoman n. (baklaus) hvílubekkur
 anomalousness n. óregla, afbrigðileiki
 uptown ao. uppi í bæ, uppi í borg; í fínni hluta bæjarins
 impassivity n. tilfinningadoði, sljóleiki
-fractiousness n. önuglyndi
+fractiousness n. óstýrilæti; önuglyndi
 dogtooth n. hundatönn (jurt)
 diaphoresis n. svitnun
 hidrosis n. svitnun
@@ -11187,6 +11187,23 @@ lacrimation n. sjá %[lachrymation]%
 cookhouse n. eldhús, kokkhús (um borð í skipi)
 retributory l. sjá %[retributive]%
 wormlike l. ormlegur, eins og ormur
+oneiric l. draumkenndur
+oneirically ao. á draumkenndan hátt
+sortable l. flokkanlegur
+antimicrobial l. örverueyðandi
+aikido n. aikido (japönsk bardagalist)
+binomial l. tvíliða, tvíliðu-
+albedo n. endurskin
+axon n. taugasími
+amino l. amínó-, amín-
+appellate l. áfrýjunar-; [~ court] áfrýjunardómstóll
+glumness n. skapillska, önugheit
+quintette n. sjá %[quintet]%
+cytotoxic l. frumudrepandi
+weather vane n. vindhani
+lawfulness n. lögmæti
+Anglocentrism n. þjóðremba enskumælandi þjóða
+democide n. morð (í krafti ríkisins) á eigin borgurum
 buzzkill n. gleðispillir, e-ð eða e-r sem drepur niður góða stemningu
 pronatalism n. fólksfjölgunarstefna
 avariciously ao. græðgislega, á ágirnisfullan hátt
@@ -11200,3 +11217,10 @@ mezzo-soprano n. messósópran; messósópransöngkona
 evidently ao. augljóslega, auðsýnilega, greinilega
 liberatory l. frelsandi, sem frelsar
 liberating l. frelsandi ([a ~ feeling])
+fraktur n. gotneskt letur, fraktúrletur ([~ type])
+blackletter n. gotneskt letur
+northmost l. sjá %[northernmost]%
+procurer n. reddari, skaffari, útvegari
+saccharide n. sykra, sykrungur
+careworn n. mæðulegur, raunamæddur, raunalegur
+zymolytic n. gerjunarvaki; l. sem veldur gerjun
