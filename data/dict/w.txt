@@ -580,7 +580,7 @@ wing-membrane n. flugfit
 wingshot l. vængskotinn; skotinn á flugi; n. skjóta fugl á flugi
 wingstroke n. sjá %[wingbeat]%
 wingy l. vængjaður; skjótur
-wink s. depla (augum); drepa tittlinga; gefa bendingu með augunum; látast ekki sjá, sjá í gegnum fingur (með at); blikka; n. depl; augabragð; bending (með auganu); blundur, dúr; [I did not sleep a ~ all night] mér kom ekki dúr á auga í nótt
+wink s. depla (augum); drepa tittlinga; gefa bendingu með augunum; látast ekki sjá, sjá í gegnum fingur (með [at]); blikka; n. depl; augabragð; bending (með auganu); blundur, dúr; [I did not sleep a ~ all night] mér kom ekki dúr á auga í nótt
 winker n. augnaskýla, blaka (á beisli)
 winner n. vinnandi; sigurvegari
 winning l. laðandi
@@ -666,7 +666,7 @@ womanhood n. kvenlegt eðli; kvendómur; gjafvaxta aldur; [reach ~] verða gjafv
 womanish l. kvenlegur, kvenmannlegur, kvenna-
 womankind n. kvenþjóð, kvenfólk
 womanly l. kvenlegur
-womb n. (móður)kviður; leg, móðurlíf
+womb n. kviður, móðurkviður; leg, móðurlíf
 wonder n. undrun ([looked at him in silent ~]); undur, furða, furðuverk ([seven ~s of the world]); [(it is) no ~ that] það er engin furða að; s. undrast, furða sig (á [at]); langa til að vita ([whether, when, what]); [I ~ he did not kill you] ég er hissa (furða mig á því), að hann skyldi ekki gera út af við þig; [I ~ whether she will come] mér þætti gaman að vita, hvort hún kemur
 wonderful l. undursamlegur, undrunarverður, dásamlegur, yndislegur
 wonderfully ao. undursamlega, yndislega, dásamlega ([~ kind])
@@ -761,9 +761,9 @@ worshipper n. dýrkandi
 worst l. verstur; lakastur; [to have the ~ of it] bíða lægra hlut, fara halloka; [at ~, at the ~] í versta lagi; [I saw him at his ~] ég sá hann þegar hann var verstur; s. sigra
 worsted n. ullarband; l. ullar- ([~ goods, stockings])
 wort n. jurt; káljurt; nýbruggað öl
-worth n. verð, jafngildi, andvirði; verðleikar; l. verður; verðugur, maklegur; [she is ~ ten thousand pounds] eignir hennar eru tíu þúsund pund; [he is ~ four thousand a year] árstekjur hans eru fjögur þúsund (pund); [~ seeing] skoðunarverður
-worthless l. sem ekkert er í varið; einskis verður; fyrirlitlegur; ónýtur
-worthy l. verður, verðugur, maklegur (e-s [of]); samboðinn (e-m [of]); ágætur; heiðvirður; n. sæmdarmaður; stórmenni
+worth n. virði, verð, jafngildi, andvirði; verðleikar; l. verður; verðugur, maklegur; [she is ~ ten thousand pounds] eignir hennar eru tíu þúsund pund; [he is ~ four thousand a year] árstekjur hans eru fjögur þúsund (pund); [~ seeing] skoðunarverður
+worthless l. einskis verður; sem ekkert er í varið; fyrirlitlegur; ónýtur
+worthy l. verðugur, verður, maklegur (e-s [of]); samboðinn (e-m [of]); ágætur; heiðvirður; n. sæmdarmaður; stórmenni
 would-be l. sem þykist vera; [a ~ poet] leirskáld
 wound n. sár, und; s. særa; móðga; laska, skemma ([our main topmast had been badly ~ed])
 wrack n. blöðruþang

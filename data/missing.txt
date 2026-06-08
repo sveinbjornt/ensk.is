@@ -757,6 +757,7 @@ rehabilitative
 anticipatory
 tactless
 thrombosis
+thrombosal
 contractual
 expressible
 shortcut
@@ -4882,7 +4883,6 @@ barbecue (endurskoða)
 BBQ
 stippling
 fornix
-prominent (endurskoða - áberandi)
 metier
 massive (endurskoða)
 vomitorium
@@ -6394,3 +6394,48 @@ letterform
 senselessness (endurskoða)
 gaffer (endurskoða)
 gag (endurskoða)
+orbitals
+ion
+alkaloid
+acetylene
+nitride
+trinitride
+agarose
+alkane
+antidepressant
+inhibitor
+depressive
+autocorrelation
+taxon
+zebrafish
+bryozoans
+sportscaster
+postseason
+postseasonal
+playoff
+lineup
+locally
+commercially
+variously
+routinely
+unsuccessfully
+unchanged
+unrelated
+unused
+assistive
+commutative
+renamed
+assembler
+ballpoint
+ayahuasca
+anthroposophy
+bestiary
+bunyip
+enablement
+salvaging
+unqualified (endurskoða)
+scrubland
+herniation
+lobotomized
+decapod
+gerontophilia
