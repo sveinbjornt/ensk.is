@@ -2,7 +2,7 @@
 
 ## Project
 
-ensk.is is a free, open English-Icelandic dictionary web app (https://ensk.is). Based on Geir T. Zoëga's 1896 dictionary, extended with modern entries.
+ensk.is is a free, open English-Icelandic dictionary web app (<https://ensk.is>). Based on Geir T. Zoëga's 1932 dictionary, extended with modern entries.
 
 ## Tech Stack
 
@@ -10,7 +10,7 @@ Python 3.12, FastAPI, Jinja2, SQLite, Uvicorn. Linted with ruff, type-checked wi
 
 ## Source of Truth
 
-Dictionary data lives in plain text files under `data/dict/` (one file per letter: a.txt–z.txt). Modern additions go in `data/dict/_add.txt`. All generated artifacts (SQLite DB, JSON, CSV, PDF) are derived from these files.
+Dictionary data lives in plain text files under `data/dict/` (one file per letter: a.txt–z.txt). Modern additions go in `data/dict/_add.txt`. All generated artifacts (SQLite DB, JSON, CSV, PDF, etc.) are derived from these files.
 
 ### Entry format
 
@@ -45,6 +45,7 @@ No Makefile — commands are run directly.
 ## CI Pipeline (GitHub Actions)
 
 Runs on every push/PR. Steps in order:
+
 1. `ruff check *.py routes/*.py gen/*.py tests/*.py`
 2. `curlylint templates/*.html`
 3. `pyright *.py routes/*.py gen/*.py tests/*.py`
