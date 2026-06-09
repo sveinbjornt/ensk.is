@@ -11165,7 +11165,7 @@ tenaciousness n. sjá %[tenacity]%
 Brit n. Breti
 palaeontological l. %[paleontological]%
 arborous l. %[arboreal]%
-debaucher n. ólifnaðarmaður; svallari
+debaucher n. ólifnaðarmaður, svallari
 warhorse n. stríðshestur
 uneducated l. ómenntaður
 enlarged l. stækkaður, aukinn
@@ -11204,11 +11204,11 @@ weather vane n. vindhani
 lawfulness n. lögmæti
 Anglocentrism n. þjóðremba enskumælandi þjóða
 democide n. morð (í krafti ríkisins) á eigin borgurum
-buzzkill n. gleðispillir, e-ð eða e-r sem drepur niður góða stemningu
+buzzkill n. gleðispillir, það sem drepur niður góða stemningu
 pronatalism n. fólksfjölgunarstefna
 avariciously ao. græðgislega, á ágirnisfullan hátt
 disqualified l. (gerður) vanhæfur, óhæfur; dæmdur úr leik
-trailer n. hjólhýsi; tengivagn; sýnishorn úr kvikmynd
+trailer n. hjólhýsi; tengivagn; sýnishorn úr kvikmynd eða öðru myndefni
 chutney n. kryddsulta, (kryddað) ávaxtamauk, aldinmauk
 flabbergasting l. sem vekur furðu, sem vekur undrun
 improperly ao. á rangan hátt; á ófullnægjandi hátt; illa
@@ -11240,4 +11240,6 @@ nineteenfold l. nítjánfaldur
 twentyfold l. tuttugufaldur, tuttugfaldur, tvítugfaldur
 masterfully ao. meistaralega
 prominently ao. á áberandi hátt
-earthwork n. varnarvirki úr mold, moldarvirki
+earthwork n. varnarvirki úr mold, moldarvirki (yfirleitt í ft. [~s])
+washroom n. baðherbergi, snyrting
+fatshaming n. fitusmánun
