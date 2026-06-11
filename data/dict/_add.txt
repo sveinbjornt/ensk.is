@@ -3241,7 +3241,7 @@ physique n. vaxtarlag, holdafar, líkamsbygging
 ratfish n. geirnyt, hámús
 tarasque n. e.k. evrópskur dreki, goðsagnavera
 patio n. verönd
-Hegelian l. hegelískur, sem tengist kenningum þýska heimspekingsins G. W. F. Hegel; n. fylgismaður kenninga Hegels
+Hegelian l. hegelskur, sem tengist kenningum þýska heimspekingsins G. W. F. Hegel; n. fylgismaður kenninga Hegels
 historically ao. sögulega
 moneylender n. (okur)lánari, lánardrottinn
 deforestation n. skógeyðing, skógareyðing, eyðing skóga
@@ -10732,7 +10732,7 @@ steadfastly ao. staðfastlega
 overstatement n. ýkjur
 triquetrum n. strýtubein
 bathymetry n. dýptarmælingar, dýptarmælingafræði
-catamaran n. tvíbytna, tvíbolungur (seglbátur með tvo samtengda skrokka)
+catamaran n. tvíbytna, tvíbolungur (bátur með tvo samtengda skrokka)
 battered l. barinn; lemstraður; beyglaður; skemmdur, skaddaður; illa farinn
 unbendable l. óbeygjanlegur, ósveigjanlegur; [~ will] einarður vilji
 repulsiveness n. sá eiginleiki að vera fráhrindandi
@@ -11243,3 +11243,19 @@ prominently ao. á áberandi hátt
 earthwork n. varnarvirki úr mold, moldarvirki (yfirleitt í ft. [~s])
 washroom n. baðherbergi, snyrting
 fatshaming n. fitusmánun
+bloviated l. útbelgdur; langmáll
+bloviate s. mæla af oflæti; tala í löngu máli
+ballpoint n. kúlupenni ([~ pen])
+canard n. lygasaga, skröksaga
+underestimated l. vanmetinn; vantalinn
+cuckolded l. kokkálaður
+symbiont n. samlífsvera, sambýlingur
+symbiote n. sjá %[symbiont]%
+meshwork n. net, vefur
+Hegelianism n. hegelismi (heimspekistefna sem byggir á kenningum þýska heimspekingsins G. W. F. Hegel)
+aesthetician n. fagurfræðingur
+esthetician n. sjá %[aesthetician]%
+hydrofoil n. spaðabátur
+drakkar n. langskip
+Lushington n. fyllibytta (forn.)
+cirrhotic l. skorpulifurs-, skorpnunar-, herslis-
