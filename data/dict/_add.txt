@@ -11222,8 +11222,8 @@ blackletter n. gotneskt letur
 northmost l. sjá %[northernmost]%
 procurer n. reddari, skaffari, útvegari
 saccharide n. sykra, sykrungur
-careworn n. mæðulegur, raunamæddur, raunalegur
-zymolytic n. gerjunarvaki; l. sem veldur gerjun
+careworn l. mæðulegur, raunamæddur, raunalegur
+zymolytic l. sem veldur gerjun
 aerodynamics nft. loftstreymisfræði, lofthreyfifræði
 albinism n. albínismi, litarleysi
 achromia n. litarleysi
@@ -11259,3 +11259,13 @@ hydrofoil n. spaðabátur
 drakkar n. langskip
 Lushington n. fyllibytta (forn.)
 cirrhotic l. skorpulifurs-, skorpnunar-, herslis-
+mandragora n. sjá %[mandrake]%
+unshakable l. óhristanlegur; óbifanlegur
+shaken l. hristur; skekinn; bifaður; í uppnámi
+confrere n. vinnufélagi, starfsbróðir
+broccolini n. lítið sperkilkál, lítið brokkólí
+shroom n. ofskynjunarsveppur; sveppur (óforml.)
+blighter n. náungi, gaur
+buster n. náungi, gaur, vinur, lagsmaður, kappi (óforml.)
+vibrance n. sjá %[vibrancy]%
+curse word n. blótsorð, blótsyrði, bölvunarorð

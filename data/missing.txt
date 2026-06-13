@@ -1128,7 +1128,6 @@ supermajority
 officeholder
 backfire
 relearn
-unshakable
 synthesize
 realign
 self-improvement
@@ -5701,7 +5700,6 @@ raincheck
 whence (endurskoða)
 blood brother
 tchotchke
-buster
 noncombustible
 hemicrania
 micturate
@@ -6446,3 +6444,9 @@ catchplate
 bequeathable
 glistening
 summarization
+holystone
+beatific (endurskoða)
+darkle
+languidly
+bodycam
+paintwork
