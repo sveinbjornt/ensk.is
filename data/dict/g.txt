@@ -381,10 +381,10 @@ glimmer s. skína dauft, týra; n. skíma, týra; glæta; [~ of hope] vonarglæt
 glimpse n. leiftur, glampi; snögg sjón; [to catch a ~ of] sjá snöggvast, sjá í svip eða bregða fyrir; s. koma auga á, sjá í svip; lita snöggvast á e-ð ([at, upon])
 glint s. glitra, skína ([~ in the sunlight]); n. bjarmi, skíma
 glissade s. renna (sér) niður brekku; n. rennsli niður brekku
-glisten s. tindra, glitra, glóa
-glister s. tindra, glitra, glóa; n. glampi
-glitter s. glitra, gljá, glóa, ljóma; n. ljómi
-glittering l. glitrandi
+glisten s. glitra, tindra, glóa
+glister s. glitra, tindra, glóa; n. glampi
+glitter s. glitra, gljá, glóa, ljóma; n. ljómi, glampi
+glittering l. glitrandi, gljáandi
 gloam s. rökkva, húma
 gloaming n. rökkur, húm, ljósaskipti
 gloat s. blína; [~ over, on, upon] hlakka yfir (e-u illu)

@@ -845,7 +845,6 @@ consumerist
 liminality
 porosity
 theatrics
-sharecropper
 riposte
 waterfowl
 peonage
@@ -854,7 +853,6 @@ intertidal
 underwater
 commonsensical
 urbanism
-Semitic
 woodworker
 reinvestment
 potlatch
@@ -4001,6 +3999,7 @@ abyssal
 congestive (endurskoða)
 pastille (endurskoða)
 classifier
+vibrance
 vibrancy
 WYSIWYG
 phacelia
@@ -5764,6 +5763,7 @@ numbat
 rails (endurskoða)
 metaleptic
 gutted
+Pollyanna
 Pollyannaish
 zestful
 zesty
@@ -6435,18 +6435,13 @@ europhile
 org
 avg
 vol
-Semite
-vox
 franchise (endurskoða)
 landscaping
 guided
 catchplate
 bequeathable
-glistening
-summarization
 holystone
 beatific (endurskoða)
 darkle
 languidly
 bodycam
-paintwork
