@@ -1184,7 +1184,7 @@ tesseract n. ferverpill (fjórvíður teningur)
 incentivize s. hvetja, skapa hvata (til e-s)
 vis-a-vis fs. sjá %[vis-à-vis]%
 vis-à-vis fs. gagnvart, andspænis, á móti; augliti til auglitis
-newbie n. nýgræðingur, byrjandi, grænjaxl
+newbie n. nýgræðingur, nýliði, byrjandi, grænjaxl
 VIP n. mjög mikilvæg manneskja (sks. á [very important person])
 educated l. menntaður; vel upplýstur; [an ~ guess] vel grundvölluð ágiskun
 roulette n. rúlletta; [Russian ~] rússnesk rúlletta
@@ -4578,7 +4578,7 @@ chlamydia n. klamydía (kynsjúkdómur)
 unpersonable l. óviðkunnanlegur, ekki góður félagsskapur
 creaky l. brakandi, marrandi, hriktandi
 creaking n. brak, marr, hrikt; l. brakandi, marrandi, hriktandi
-potentially ao. mögulega
+potentially ao. mögulega, hugsanlega
 Roma nft. Rómafólk, sígaunar (þjóðflokkur flökkufólks)
 untitled l. án titils, nafnlaus, ónefndur, ótitlaður
 gyrotron n. segulspunarafali
@@ -6272,7 +6272,7 @@ dyskinetic l. hreyfibilunar-, hreyfitruflunar-
 hypophonia n. vanröddun
 dysphonia n. mishljómur, mishljóðan
 Warsaw n. Varsjá (höfuðborg Póllands)
-mousepad n. músamotta
+mousepad n. músarmotta
 pinstriped l. teinóttur (mynstur á klæðum)
 huckleberry n. steinabláber, aðalbláber
 goosebumps nft. gæsahúð
@@ -11224,7 +11224,7 @@ procurer n. reddari, skaffari, útvegari
 saccharide n. sykra, sykrungur
 careworn l. mæðulegur, raunamæddur, raunalegur
 zymolytic l. sem veldur gerjun
-aerodynamics nft. loftstreymisfræði, lofthreyfifræði
+aerodynamics nft. loftaflfræði, loftstreymisfræði, lofthreyfifræði
 albinism n. albínismi, litarleysi
 achromia n. litarleysi
 eightfold l. áttfaldur
@@ -11253,7 +11253,7 @@ symbiont n. samlífsvera, sambýlingur
 symbiote n. sjá %[symbiont]%
 meshwork n. net, vefur
 Hegelianism n. hegelismi (heimspekistefna sem byggir á kenningum þýska heimspekingsins G. W. F. Hegel)
-aesthetician n. fagurfræðingur
+aesthetician n. fagurfræðingur; snyrtifræðingur
 esthetician n. sjá %[aesthetician]%
 hydrofoil n. spaðabátur
 drakkar n. langskip
@@ -11317,6 +11317,20 @@ untether s. losa tjóður, losa festingar; aftengja
 labium n. vör; skapabarmur
 orthogonally ao. hornrétt; þverstætt
 reverb n. endurómun, bergmál
-mantis n. beiða (skordýr)
+mantis n. beiða (skordýr); [praying ~] bænabeiða
 tritanopia n. bláblinda (litblinda)
 acyanopsia n. bláblinda (litblinda)
+onefold l. einfaldur (gagnstætt því að vera tvöfaldur, þrífaldur o.s.frv.)
+headlock n. haustak, hnakkatak
+Mahdi n. heilagur leiðtogi múslima
+cuckoldry n. kokkálun
+woodcarver n. tréskurðarmaður, tréskurðarlistamaður
+librettist n. höfundur óperutexta
+misunderstood l. misskilinn
+credo n. kredda, trú, trúarjátning
+wastrel n. ónytjungur, væskill, dugleysingi
+enormously ao. afskaplega, gríðarlega, fjarskalega
+mélange n. fjölbreytt blanda (úr frönsku)
+terminological l. orðaforða-, íðorða-
+attentional l. athyglis-, athyglistengdur
+teamwork n. hópvinna, samvinna hóps, liðsvinna
