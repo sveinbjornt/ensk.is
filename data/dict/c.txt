@@ -27,7 +27,7 @@ cadi n. dómari (hjá Tyrkjum og Aröbum)
 caecum n. botnlangi
 caftan n. tyrkneskur kyrtill
 cage n. búr; fuglabúr ([bird~]); s. inniloka; setja í búr
-cairn n. steindys, varða
+cairn n. varða, steindys
 caisson n. hergagnavagn
 caitiff n. níðingur, ódrengur
 cajole s. sannfæra (með smjaðri), smjaðra fyrir; lokka (út úr [out of])
@@ -221,7 +221,7 @@ captivity n. varðhald; ánauð; herleiðing
 captor n. sá sem hertekur eða fangar; fangari
 capture s. ná; handsama; hertaka; veiða; n. handtaka, hertaka (t.d. skips á sjó); handsömun; herfang; veiði
 capuche n. hetta (á munkakápu)
-capuchin n. hettumunkur; [~ monkey] hettuapi
+capuchin n. hettumunkur
 car n. bíll, bifreið; kerra, vagn
 carabine n. sjá %[carbine]%
 caracole n. stökk, hopp; s. stökkva, hoppa

@@ -3023,7 +3023,6 @@ unaccredited
 animate (endurskoða)
 curveball
 nestor
-kalends
 clunk
 whoosh
 teleministry
@@ -3031,7 +3030,6 @@ hazmat
 virtuosic
 asterism
 possessiveness
-disciplined
 hardworking
 renunciate
 furnisher
@@ -3047,7 +3045,6 @@ executed
 snapper
 integrate (þarf virkilega að endurskoða)
 solar plexus
-sigma
 regulated
 unregulated
 polysemeia
@@ -3070,7 +3067,6 @@ uptick
 predicted
 unpredicted
 sobering
-camgirl
 connectome
 empath
 corncrake
@@ -3165,7 +3161,6 @@ ace (endurskoða, sögn - he aced the test)
 incongruous (endurskoða)
 automaticity
 relaxed
-coca
 slot (þarf virkilega endurskoðun)
 locomotory
 trilby
@@ -4075,7 +4070,6 @@ homebody
 beanie
 anaerobic
 listicle
-mantis
 alignment (endurskoða)
 powdered
 drooling
@@ -4093,7 +4087,6 @@ nonchalantly
 signifying
 terraform
 terraforming
-reverb
 segue
 distressing
 rabe
@@ -4106,7 +4099,6 @@ Zeeland
 debouncer
 debouncing
 femboy
-orthogonally
 silicone
 debellation
 raster
@@ -4159,7 +4151,6 @@ subvocal
 subvocalization
 approve (endurskoða)
 highfaluting
-labium
 spoonerism
 involucrum
 copepod
@@ -4252,7 +4243,6 @@ passarella
 facetiously
 thrill (endurskoða)
 thrilled
-untether
 withdrawn
 agitated
 stasis
@@ -4264,7 +4254,6 @@ couloir
 timecycle
 burpee
 grouter
-airboat
 strident (endurskoða)
 tantrum (endurskoða)
 swipe (endurskoða)
@@ -4275,6 +4264,7 @@ grasscutter
 demoscene
 accepted
 canzonetta
+strophic
 authenticator
 pedologist
 neuralese
@@ -4358,7 +4348,6 @@ cuprate
 tartare
 subtartarean
 invested
-tubby
 frappuccino
 gazump
 colleen
@@ -4369,7 +4358,6 @@ masterclass
 rockabilly
 scampi
 destigmatization
-finalize
 choppy
 caprylic
 darn (endurskoða)
@@ -4647,7 +4635,6 @@ pleximetry
 squinch
 reprise
 tollgatherer
-tollkeeper
 campana
 tangled
 entangled
@@ -4773,7 +4760,7 @@ loitering
 overhauled
 cyclery
 biannual
-empurpled
+purpuric
 purpurate
 shopworn
 timeworn
@@ -4792,7 +4779,6 @@ probe (endurskoða)
 problematic (endurskoða)
 manifold (endurskoða - manifold destiny osfrv)
 materialization (endurskoða)
-reflexion
 demo-
 momism
 overshielding
@@ -4825,11 +4811,8 @@ unsettling
 chafing
 trussell
 chewy
-trinomial
-aureate
 flourishing
 booming
-well-heeled
 easy-going (endurskoða)
 puniness
 cat (endurskoða - arabísk tuggjurt)
@@ -4852,7 +4835,6 @@ capitalize (endurskoða)
 chapiter
 misidentify
 bromide (endurskoða)
-bronzed
 promoter (endurskoða)
 compromise (endurskoða)
 categoric
@@ -4861,7 +4843,6 @@ matt
 flatcar
 newt (endurskoða)
 braw
-homogeneousness
 magistracy (endurskoða)
 pander (endurskoða)
 perestroika
@@ -4881,7 +4862,6 @@ dogwhistling
 quiesce
 low-keyed
 outmatch
-canthal
 yammer
 wrawl
 yaup
@@ -6407,12 +6387,10 @@ lineup
 locally
 commercially
 variously
-routinely
 unsuccessfully
 unchanged
 unrelated
 unused
-assistive
 commutative
 renamed
 assembler
@@ -6424,9 +6402,7 @@ enablement
 salvaging
 unqualified (endurskoða)
 scrubland
-herniation
 lobotomized
-decapod
 gerontophilia
 zoolater
 protagonism
@@ -6445,3 +6421,8 @@ beatific (endurskoða)
 darkle
 languidly
 bodycam
+caulker
+orlop
+ides
+dromond
+practical (endurskoða)
