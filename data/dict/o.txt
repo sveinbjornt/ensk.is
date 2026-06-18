@@ -298,9 +298,9 @@ ophthalmia n. augnbólga
 ophthalmic l. augnlegur; augna- ([~ surgeon])
 opiate n. svefnlyf; l. svæfandi; sefandi; s. svæfa
 opine s. tjá skoðun sína; ætla, hyggja
-opiniative l. þrár
+opiniative l. sjá %[opinionative]%
 opinion n. ætlun, hyggja, skoðun; álit; [public ~] almenningsálit; [I am of the ~ that] ég er á þeirri skoðun, að, ég hygg, að; [a matter of ~] álitamál
-opinionated l. sjálfbirgingslegur, þrár, þverúðarfullur
+opinionated l. sjálfbirgingslegur, þrár, þverúðarfullur, með sterkar skoðanir
 opinionative l. þrár
 opium n. ópíum, svefnlyf
 opossum n. pokarotta, pungrotta
@@ -527,8 +527,8 @@ outpace s. ganga fram úr
 outpost n. útvarðastöð, forvörður, útvörður
 outpour s. úthella; n. útrennsli
 output n. framleiðsla, afrakstur
-outrage s. beita ofbeldi við; svívirða, misbjóða ([~ public morality]); misþyrma; n. ofbeldi; ofbeldisverk; svívirðing, smán
-outrageous l. ofbeldislegur; svívirðilegur; hryllilegur
+outrage s. svívirða, misbjóða ([~ public morality]); misþyrma; n. svívirðing, smán; ofbeldi; ofbeldisverk
+outrageous l. svívirðilegur; forkastanlegur; hryllilegur; hneykslanlegur
 outride s. ríða (aka) fram úr; afbera, standast (um veður)
 outrider n. forríðari
 outright ao. beint út; viðstöðulaust; alveg; l. hreinn og beinn

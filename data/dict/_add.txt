@@ -2687,7 +2687,7 @@ heroically ao. hetjulega
 unheroically ao. óhetjulega
 tubercular l. berkla- (sjá %[tuberculosis]%)
 lemma n. lemma, flettimynd (orðs)
-lemmatize s. lemma (orð)
+lemmatize s. lemma (orð), finna flettimynd (orðs)
 toke s. reykja kannabis (óforml.)
 foxhound n. (breskur) veiðihundur
 unharmonious l. ósamræmur, ósamhljóða; óhljómfagur; ósamhuga, ósamlyndur
@@ -7658,7 +7658,7 @@ prole n. öreigi (stytt. á %[proletarian]%)
 lumpenproletariat n. undirstétt; ruslaralýður; óskipulagðir, sárfátækir öreigar (í kenningum Karls Marx)
 alley cat n. flækingsköttur (í borg)
 fair-complexioned l. ljós á hörund, ljósleitur
-Kremlinology n. rannsóknir á stjórnarstefnu Sovétríkjanna á tímum kalda stríðsins
+kremlinology n. kremlólógía (rannsóknir á stjórnarstefnu Sovétríkjanna á tímum kalda stríðsins)
 inspired l. innblásinn, andríkur
 uninspired l. óinnblásinn, andlaus
 raptor n. ránfugl; snareðla (sjá %[velociraptor]%)
@@ -11344,12 +11344,11 @@ otherworldly l. framandi, eins og úr öðrum heimi
 otherworldliness n. framandleiki
 agrammatical l. sjá %[ungrammatical]%
 passerby n. vegfarandi
-goofy n. bjánalegur, hallærislegur, aulalegur (óforml.)
+goofy l. bjánalegur, hallærislegur, aulalegur (óforml.)
 moonraker n. einfeldningur, heimskingi (UK)
 all-seeing l. alsjáandi, sem allt sér
 irreceptive l. sjá %[unreceptive]%
-banneret l. lítill fáni, lítið flagg
-mesofauna n. smáfána
+banneret n. lítill fáni, lítið flagg
 indebtedness n. skuld, skuldir; það að vera skuldugur; skuldsetning
 déluge n. sjá %[deluge]%
 tactless l. ónærgætinn, tillitslaus
@@ -11358,7 +11357,24 @@ Darwinism n. darwinismi (kenningar náttúrufræðingsins Charles Darwins)
 Darwinist n. darwinisti (fylgismaður darwinisma, sjá %[Darwinism]%)
 Darwinian l. darwinskur (sjá %[Darwinism]%)
 ayatollah n. æðsti klerkur (múslima)
-underwater l. neðansjávar-, undir yfirborði vatns
+underwater l. neðansjávar-, undir vatnsyfirborði
 stonework n. steinsmíði
 boardwalk n. gönguplankar
 folksy l. alþýðlegur; einfaldur
+vanishing l. hverfandi; n. hvarf
+braincase n. sjá %[brainpan]%
+breathtaking l. stórbrotinn, hrífandi, sláandi, tilkomumikill ([a ~ view])
+invigorating l. hressandi, styrkjandi, eflandi
+outrank s. vera hærra settur, standa framar í goggunarröðinni
+teleconferencing n. fjarfundahald
+honk s. flauta (bílflautu); garga
+moneybox n. peningakassi; sparibaukur
+bullseye n. miðdepill, miðpunktur (á skífu); skot sem hittir beint í mark; kýrauga (á skipi); uh. beint í mark!
+foxtrot n. foxtrott (dans); s. dansa foxtrott
+fatso n. fitubolla (óforml.)
+roly-poly l. lítill og feitur (óforml.)
+butterball n. fitubolla (óforml.)
+trigger-happy l. skotglaður, gjarn á að taka í byssugikkinn, herskár
+emptor n. kaupandi (úr latínu)
+cauterise s. sjá %[cauterize]%
+lucidness n. sjá %[lucidity]%

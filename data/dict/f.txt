@@ -154,11 +154,11 @@ fat l. feitur; frjór (um jarðveg); n. fita; spik; mör; s. fita, ala
 fatling n. alíkálfur
 fatness n. feitleiki; fita; frjósemi
 fatten s. fita, ala; fitna
-fatty l. fitugur; feitur
-fatal l. óheillavænlegur; skaðvænn; banvænn; [the ~ sisters] örlaganornirnar
+fatty l. fitugur; feitur; n. fitubolla
+fatal l. banvænn; skaðvænn; óheillavænlegur; [the ~ sisters] örlaganornirnar
 fatalism n. forlagatrú
 fatalist n. forlagatrúarmaður
-fatality n. skapadómur; ógæfa, ólán
+fatality n. ógæfa, ólán; dauði, dauðsfall; banvæni; skapadómur
 fate n. örlög, forlög
 fated l. ákveðinn af forlögunum; dauðadæmdur
 fateful l. sem lýtur að örlagaspádómi; örlagaþrunginn; banvænn
