@@ -712,7 +712,7 @@ miasmatic l. fullur af sóttkveikjum ([~ poison])
 miasmatical l. fullur af sóttkveikjum ([~ poison])
 miaul n. sjá %[miaow]%
 micaceous l. gljásteins- ([~ shale, slate])
-mice nft. af %[mouse]%; gljásteinn, glimmer
+mice nft. mýs (ft. af %[mouse]%)
 Michaelmas n. Mikjálsmessa (29. september)
 mickle l. mikill (skoskt orð)
 microbe n. örvera, gerill, sóttkveikja
@@ -1351,19 +1351,19 @@ muddling l. áfengur
 muddy l. gruggugur; forugur, leðjugur; sljór (um skilning); daufur (um birtu); óskýr, óljós; s. grugga; óhreinka; sljóvga (skilninginn); gruggast
 muff n. handskýla (úr fóðruðu loðskinni); auli, klaufi; [to make ~ of oneself] gera sig hlægilegan
 muffetee n. e.k. trefill
-muffin n. e.k. hveitikaka
+muffin n. múffa (lítil kaka)
 muffineer n. salt- eða sykurbaukur
 muffle s. deyfa (hljóð); hjúpa, sveipa, hylja, dúða ([~ oneself, one's throat]); muldra
 muffler n. andlitsskýla; hálsklútur; hljóðdeyfir; ft. hnefaleikahanskar; þykkir vettlingar
 mufti n. tyrkneskur prestur eða lögfræðingur; hversdagsbúningur
 mug n. bolli, drykkjarkanna, bikar; andlit, smetti, fés; [to cut ~s] gretta sig; mugga, þoka; s. ræna (e-n)
 muggy l. rakur, molíulegur, muggulegur ([~ air, evening]); ölvaður
-mulatto n. múlatti, kynblendingur (niðrandi)
+mulatto n. múlatti, kynblendingur
 mulberry n. mórberjarunni
 mulberry tree n. mórberjatré
 mulch n. moðáburður, sem lagður er við rætur trés
 mulct n. fésekt; s. sekta; svipta ([to be ~/~ed of something])
-mule n. múll, múlasni, múldýr; kynblendingur (um dýr og plöntur); auli; þrákálfur; þrjóskur maður
+mule n. múlasni, múldýr, múll; kynblendingur (um dýr og plöntur); auli; þrákálfur, þrjóskur maður
 muleteer n. múlreki
 muliebrity n. kvenleiki; kvendómur
 mulish l. þrjóskur, þrár, staður (eins og múlasni)
@@ -1388,13 +1388,13 @@ multiply s. margfalda; auka margfaldast; fjölga, vaxa að tölu; fjölga sér
 multitude n. fjöldi, mergð; hópur
 multitudinous l. fjölmargur; fjölmennur, margmennur; margfaldur, margvíslegur, fjölbrotinn
 multure n. mölun; mölunarlaun
-mum n. mamma, móðir (óforml.); uh. þei! l. þögull ([keep ~, ~'s the word]); s. ganga með grímu eða í dularklæðum; leika í bendingaleik, leika látbragðsleik
+mum n. mamma (óforml.); uh. þei! l. þögull ([keep ~, ~'s the word]); s. ganga með grímu eða í dularklæðum; leika í bendingaleik, leika látbragðsleik
 mumble s. muldra, tauta; muðla, japla (á e-u)
 mumblingly ao. tautandi, muldrandi, í hálfum hljóðum
-mummer n. (bendinga)leikari, látbragðsleikari
-mummery n. dulbúningur; grímuleikur, skrípaleikur, látbragðsleikur; yfirdrepsskapur
+mummer n. leikari, bendingaleikari, látbragðsleikari
+mummery n. dulbúningur; grímuleikur, skrípaleikur, látbragðsleikur, bendingaleikur; yfirdrepsskapur
 mummify s. smyrja og þurrka lík ([~ a dead body])
-mummy n. múmía (smurt og þornað lík); [to beat to a ~] berja til óbóta; mamma, móðir (óforml.)
+mummy n. múmía (smurt og þornað lík); [to beat to a ~] berja til óbóta; mamma (óforml.)
 mump s. japla, tyggja; nöldra; biðja kjökrandi, sníkja
 mumpish l. önugur, vondur
 mumps nft. hettusótt; ólund

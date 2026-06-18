@@ -2672,9 +2672,9 @@ maximizer n. hámarkari, e-r sem hámarkar (sjá %[maximize]%)
 craps nft. sjö-ellefu (teningaspil)
 washboard n. þvottabretti
 chromosphere n. lithvolf
-mom n. mamma, móðir (óforml.)
-mommy n. mamma, móðir (óforml.)
-momma n. mamma, móðir (óforml.)
+mom n. mamma (óforml.)
+mommy n. mamma (óforml.)
+momma n. mamma (óforml.)
 philosophically ao. heimspekilega
 uninterpretable l. ótúlkanlegur
 predictability n. fyrirsjáanleiki
@@ -11304,7 +11304,7 @@ canthus n. augnakrókur
 canthal l. augnkróks-
 homogeneousness n. sjá %[homogeneity]%
 bronzed l. bronsaður; bronslitaður; sólbrúnn, tanaður
-well-heeled l. auðugur, ríkur
+well-heeled l. auðugur, ríkur, múraður
 aureate l. gylltur; stórmæltur
 trinomial l. þríliðaður; n. þríliða
 reflexion n. sjá %[reflection]%
@@ -11313,14 +11313,15 @@ tollkeeper n. tollvörður
 finalize s. ljúka við, fullgera
 tubby l. lítill og feitur, digur og stuttur
 airboat n. loftbátur
-untether s. losa tjóður, losa festingar; aftengja
+untether s. losa tjóður, losa undan tjóðri, losa festingar; aftengja
 labium n. vör; skapabarmur
 orthogonally ao. hornrétt; þverstætt
 reverb n. endurómun, bergmál
-mantis n. beiða (skordýr); [praying ~] bænabeiða
+mantis n. beiða (skordýr)
+praying mantis n. bænabeiða (skordýr)
 tritanopia n. bláblinda (litblinda)
 acyanopsia n. bláblinda (litblinda)
-onefold l. einfaldur (gagnstætt því að vera tvöfaldur, þrífaldur o.s.frv.)
+onefold l. einfaldur (gagnstætt því að vera tvöfaldur, þrefaldur o.s.frv.)
 headlock n. haustak, hnakkatak
 Mahdi n. heilagur leiðtogi múslima
 cuckoldry n. kokkálun
@@ -11334,3 +11335,14 @@ mélange n. fjölbreytt blanda (úr frönsku)
 terminological l. orðaforða-, íðorða-
 attentional l. athyglis-, athyglistengdur
 teamwork n. hópvinna, samvinna hóps, liðsvinna
+LCD n. LCD-skjár, flatskjár (sks. á [liquid crystal display])
+zebrafish n. sebrafiskur
+wastebin n. ruslatunna, ruslakarfa
+handicapped l. fatlaður
+nightstick n. kylfa, lögreglukylfa
+otherworldly l. framandi, eins og úr öðrum heimi
+otherworldliness n. framandleiki
+agrammatical l. sjá %[ungrammatical]%
+passerby n. vegfarandi
+goofy n. bjánalegur, hallærislegur, aulalegur (óforml.)
+moonraker n. einfeldningur, heimskingi (UK)
