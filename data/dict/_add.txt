@@ -10526,7 +10526,7 @@ perm n. permanent (hárlögun); setja permanent í hár
 incarcerated l. fangelsaður, lokaður inni
 dogfight n. hundaslagur, hundaslagsmál; flugvélaorusta, loftbardagi
 dogfighting n. hundaat; flugvélaorusta, loftbardagi, átök í loftunum
-cuck n. stytt. á %[cuckold]%
+cuck n. sjá %[cuckold]%
 swordsmanship n. sverðfimi, skylmingar
 leverage n. vogarafl; áhrif, máttur; skuldsetning; s. nýta sér; beita áhrifum (sínum); skuldsetja (sig)
 toiletry n. snyrtivörur
@@ -11371,10 +11371,24 @@ honk s. flauta (bílflautu); garga
 moneybox n. peningakassi; sparibaukur
 bullseye n. miðdepill, miðpunktur (á skífu); skot sem hittir beint í mark; kýrauga (á skipi); uh. beint í mark!
 foxtrot n. foxtrott (dans); s. dansa foxtrott
-fatso n. fitubolla (óforml.)
+fatso n. fitubolla, fituhlunkur (óforml.)
 roly-poly l. lítill og feitur (óforml.)
-butterball n. fitubolla (óforml.)
+butterball n. fitubolla, fituhlunkur (óforml.)
 trigger-happy l. skotglaður, gjarn á að taka í byssugikkinn, herskár
 emptor n. kaupandi (úr latínu)
 cauterise s. sjá %[cauterize]%
 lucidness n. sjá %[lucidity]%
+recliner n. hægindastóll
+bendability n. beygjanleiki
+vomitus n. æla
+easygoing l. sjá %[easy-going]%
+calculated l. útreiknaður, úthugsaður, útpældur; af ásettu ráði
+sonority n. hljómdýpt
+degrading l. niðurlægjandi; versnandi
+taximeter n. gjaldmælir
+telos n. markmið (úr grísku)
+grocery store n. matvöruverslun
+diverticulitis n. sarpbólga
+tailpipe n. púströr (á bifreið)
+patsy n. blóraböggull
+ampoule n. ampúla, lyfjaflaska

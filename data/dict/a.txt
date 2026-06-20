@@ -998,11 +998,11 @@ angling line n. færi
 angling rod n. veiðistöng
 Anglican l. enskur (um kirkju- og kirkjumálefni); n. enskur þjóðkirkjumaður, hákirkjumaður
 anglicism n. enskt máleðli
-anglicize s. gera enskt
+anglicize s. gera enskt, enskuvæða; snúa yfir á enska tungu
 anglomania n. áköf aðdáun á öllu ensku
 Anglophile n. ensksinnaður, sá sem elskar England og/eða enska menningu
 Anglo-Saxon n. Engilsaxi; engilsaxneska; l. engilsaxneskur
-angrily ao. í reiði, reiðilega
+angrily ao. reiðilega, í reiði
 angry l. reiður (við e-n [with]); reiðilegur ([~ countenance, look])
 anguish n. kvöl, pína; angist; s. kvelja
 angular l. hyrndur; hornmyndaður; klunnalegur
@@ -1016,7 +1016,7 @@ animadvert s. finna að, gagnrýna, setja út á
 animal n. dýr, skepna; l. dýrslegur; dýra- ([~ rage, ~ instinct])
 animality n. dýrslegt eðli
 animalism n. dýrseðli; holdlegar fýsnir
-animate s. lífga, fjörga; örva; [an ~d discussion] fjörugar umræður; l. lifandi; fjörugur
+animate s. lífga; fjörga; örva; [an ~d discussion] fjörugar umræður; l. lifandi; fjörugur
 animation n. líf; fjör; teiknimynd, hreyfimynd
 animosity n. hatur, fjandskapur, úlfúð
 animus n. óvinarhugur, óvildarhugur; móður

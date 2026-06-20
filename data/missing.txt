@@ -4894,7 +4894,6 @@ safehouse
 flagrantly
 accosted
 ingeniously
-ampoule
 initialization
 initialisation
 cold shoulder
@@ -4937,7 +4936,6 @@ ordoliberal
 ordoliberalism
 social democracy
 social democrat
-patsy
 bull's eye
 bell ringer
 crisscross
@@ -5032,7 +5030,6 @@ perkiness
 profit margin
 major (endurskoða)
 duskiness
-tailpipe
 wrenching
 exquisitely
 atlas (endurskoða)
@@ -5100,7 +5097,6 @@ anorectal
 unnamable
 flattered
 proselytizing
-diverticulitis
 deluded
 kempt
 neaten
@@ -5150,7 +5146,6 @@ precis
 abstractionist
 nobble
 nonfigurative
-grocery store
 food store
 securities industry
 sickening
@@ -5170,7 +5165,6 @@ swinging (endurskoða)
 resent (endurskoða)
 serpentinization
 contextualism
-telos
 Art Deco
 debitable
 bouncy
@@ -5185,7 +5179,6 @@ floundering
 cruciferous
 chiffchaff
 hypopharynx
-recliner
 oversell
 malposition
 engrammatic
@@ -5204,7 +5197,6 @@ tallitot
 paranormality
 passability
 impassability
-taximeter
 outplay
 dharma
 dispenser
@@ -5341,7 +5333,6 @@ analyzed
 cantilevered
 annexed
 punter
-degrading
 anathemise
 anathemize
 unchurch
@@ -5375,7 +5366,6 @@ non-aggression pact
 scrying
 rimming
 deprecate (endurskoða)
-sonority
 estranged
 moot (endurskoða)
 ascot
@@ -5414,7 +5404,6 @@ ambiance
 wuthering
 petrichor
 geosmin
-calculated
 sloosh
 pareidolia
 mimetolith
@@ -5472,6 +5461,7 @@ theosis
 sponsee
 sponsor (endurskoða)
 upscale
+doomscroll
 doomscrolling
 whiplash (endurskoða)
 neuter (endurskoða)
@@ -5498,6 +5488,7 @@ passive aggression
 subcritical
 mahjong
 rotating
+relentless (endurskoða)
 relentlessly
 unreflective
 mitochondria
@@ -5592,7 +5583,6 @@ riveted
 pushcart
 upmanship
 muteness
-easygoing
 zeugma
 escheatment
 sneak peek
@@ -6310,7 +6300,6 @@ puzzler
 teaser
 Shangri-la
 indention
-vomitus
 whicker
 nicker
 panderer
@@ -6409,4 +6398,9 @@ intensifier
 decolonize
 palpate
 limiter
-bendability
+caveat emptor
+Epsom
+grinding
+degreaser
+mousse
+jailbait

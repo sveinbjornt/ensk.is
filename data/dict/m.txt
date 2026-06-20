@@ -1094,8 +1094,8 @@ momentary l. augnabliks-, augnablikslegur, skammvinnur, skammtíma-
 momentous l. mikilvægur, tímamóta-, þýðingarmikill ([a ~ occasion])
 momentum n. hreyfiafl, skriðþungi
 monachal l. klausturlegur; klaustur-; munka-
-monachism n. munklífi, klausturlíf
-monachize s. lifa munklífi; gera e-n að munki
+monachism n. munkalíf, klausturlíf
+monachize s. lifa munkalífi; gera e-n að munki
 monad n. frumeining
 monarch n. einvaldur, einvaldskonungur
 monarchal l. einveldislegur, einvalds-
@@ -1111,12 +1111,12 @@ Monday n. mánudagur
 monetary l. mynt-; peninga ([~ unit, affairs, policy])
 money n. peningar; [make ~] græða fé
 moneyed l. auðugur (af peningum); [~ contributions] peningatillög
-moneyless l. félaus
+moneyless l. félaus, peningalaus
 money order n. póstávísun
-monger n. mangari, -sali ([cheese-, fish-, flesh-~])
+monger n. mangari, sali ([cheese-~, fish-~, flesh-~])
 Mongol n. Mongóli
-Mongolian l. mongólskur; n. Mongóli; mongólska
-mongrel l. af blönduðu kyni ([a ~ cur]); n. kynblendingur (einkum um dýr)
+Mongolian l. mongólskur; n. mongólska (tungumál); Mongóli
+mongrel n. kynblendingur (einkum um dýr); l. af blönduðu kyni ([a ~ cur])
 monied l. auðugur (af peningum)
 monism n. einhyggja
 monition n. sjá %[admonition]%
@@ -1124,7 +1124,7 @@ monitor n. áminnari; bekkjarumsjónarmaður; eftirlitsmaður, e-r sem fylgist m
 monitorial l. aðvarandi, viðvörunar-; áminningar- ([~ words])
 monitory l. aðvarandi, viðvörunar-; áminningar- ([~ words])
 monk n. munkur
-monkery n. munklíf; klaustur
+monkery n. munkalíf; klaustur
 monkhood n. munkastétt
 monkish l. munklegur, munka- ([~ Latin])
 monkey n. api; [put his ~ up] gera einhvern uppvægan; [get one's ~ up] verða uppvægur; s. herma eftir; gera gys að; gera strákapör
