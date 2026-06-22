@@ -2235,7 +2235,7 @@ crossbowman n. lásbogaskytta, lásbogaliði, hermaður með lásboga
 cannonball n. fallbyssukúla
 attacker n. árásarmaður, árásaraðili, tilræðismaður, sóknaraðili, ásækjandi
 Persia n. Persía, Persaveldi
-antebellum l. fyrir stríð, fyrirstríðs-
+antebellum l. fyrir stríð, fyrirstríðs- (í BNA, fyrir borgarastríðið 1861-1865)
 moorland n. mýrlendi
 imbalance n. ójafnvægi
 courtroom n. réttarsalur, dómssalur
@@ -3662,7 +3662,7 @@ mafia n. mafía, glæpahringur, glæpasamtök, skipulögð glæpastarfsemi
 mafioso n. mafíósi, meðlimur glæpasamtaka, glæpamaður, glæponi
 noblewoman n. aðalskona
 rumor n. sjá %[rumour]%
-paralyze s. lama, gera aflvana (sjá einnig %[paralyse]%)
+paralyze s. lama, gera aflvana
 Venice n. Feneyjar
 Venetian l. feneyskur, frá Feneyjum; n. Feneyingur
 paternoster n. Faðirvorið (kristin bæn)
@@ -11106,7 +11106,7 @@ archeology n. sjá %[archaeology]%
 Trotskyite n. sjá %[Trotskyist]%
 heliotype n. helíótýpa
 fertilise s. sjá %[fertilize]%
-criminalise s. sjá %[criminalise]%
+criminalise s. sjá %[criminalize]%
 liegeman n. lénsmaður
 innumerableness n. óteljanleiki
 spitefulness n. meinsemi, illgirni, meinfýsni
@@ -11392,3 +11392,4 @@ diverticulitis n. sarpbólga
 tailpipe n. púströr (á bifreið)
 patsy n. blóraböggull
 ampoule n. ampúla, lyfjaflaska
+promised land n. fyrirheitna landið
