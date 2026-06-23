@@ -1043,8 +1043,8 @@ clink s. hringla, slá saman (glösum, sverðum); n. hringl
 clinker-built l. súðbyrður ([a ~ boat])
 clinometer n. hallamælir
 clip s. klippa; stýfa; grípa (klípa) fast utan um; n. afklippa; afklippt ull; stýfing; þvotthalda, klemma; myndskeið ([film ~])
-clipper n. (kinda)klippari; fljótur hestur; hraðskreytt skip
-clippers nft. skæri
+clipper n. klippari; hraðskreytt seglskip; fljótur hestur
+clippers nft. skæri; klippur
 clipping n. klipping; stýfing
 clique n. flokkur (fremur niðrandi), lagsflokkur, klíka
 cliquish l. klíkukenndur
@@ -1442,7 +1442,7 @@ comix s. blanda (blandast) saman
 comixture n. samblöndun, sambland
 commode n. kommóða, dragkista; hægðastóll ([night ~])
 commodious l. hagkvæmur; rúmgóður
-commodity n. verslunarvara
+commodity n. söluvara, vara, verslunarvara, vörutegund
 commodore n. yfirsjóliðsforingi (milli [captain] og [rear admiral]), flotadeildarforingi ([~ of the first class])
 common l. sameiginlegur ([~ cause]); almennur, algengur; óbreyttur ([~ sailor]); vanalegur, hversdagslegur ([a ~ occurrence]); almúgalegur; auðvirðilegur; [~ council] bæjarstjórn; [~ school] alþýðuskóli; [~ sense] heilbrigð skynsemi; [the ~ people] almúginn, alþýðan; [~ gender] samkyn; [~ law] venjulög; [out of the ~] óvenjulegur; [in ~] í félagsskap, saman; [have something in ~] eiga eitthvað sameiginlegt; n. afréttur; ítak; [~ of pasturage] réttur til beitar (í annars landi)
 commonage n. beitarréttur; sameiginlegt beitiland
