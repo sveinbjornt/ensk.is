@@ -11351,7 +11351,7 @@ irreceptive l. sjá %[unreceptive]%
 banneret n. lítill fáni, lítið flagg
 indebtedness n. skuld, skuldir; það að vera skuldugur; skuldsetning
 déluge n. sjá %[deluge]%
-tactless l. ónærgætinn, tillitslaus
+tactless l. ónærgætinn, tillitslaus, taktlaus
 ad infinitum ao. út í óendanleikann
 Darwinism n. darwinismi (kenningar náttúrufræðingsins Charles Darwins)
 Darwinist n. darwinisti (fylgismaður darwinisma, sjá %[Darwinism]%)
@@ -11396,7 +11396,7 @@ promised land n. fyrirheitna landið
 guppy n. gúppífiskur
 placative l. sjá %[placatory]%
 halfhearted l. sjá %[half-hearted]%
-nauseant n. uppsölulyf
+nauseant n. ógleðisvaldandi lyf
 painlessly ao. sársaukalaust, án sársauka
 unreconcilable l. sjá %[irreconcilable]%
 scandalise s. sjá %[scandalize]%
@@ -11406,3 +11406,52 @@ unseaworthy l. ósjófær, ósjóhæfur, óhaffær (um skip)
 yes-man n. já-maður
 Rasta n. sjá %[Rastafarian]%
 frightfully ao. hræðilega, skelfilega; agalega
+sumptuosity n. sjá %[sumptuousness]%
+tutorship n. einkakennarastaða, aukakennarastaða
+bromidic l. ófrumlegur; hversdagslegur; margtugginn
+firebug n. brennuvargur
+granitic l. granít-, úr graníti
+foulmart n. evrópsk þefvísla (marðartegund); fyrirlitleg manneskja
+fitch n. hreysiköttur; hreysikattarfeldur
+brightness level n. birtustig
+eidetic l. sjónmuna-; sjónminnis- ([~ memory])
+fairyland n. ævintýraland; álfheimar
+assertiveness n. ákveðni
+centrally ao. miðlægt, fyrir miðju
+abundantly ao. ríkulega, í nægu magni
+famously ao. eins og frægt er; afskaplega
+genomic l. erfða-, gena-
+salivary l. munnvatns-
+mainline s. sprauta beint í æð ([he was mainlining heroin])
+mealtime n. matmálstími
+payback n. hefnd; endurgjald; [it's ~ time] það er komið að skuldadögum
+adroitly ao. fimlega; kænskulega
+broiler n. grill, glóðarsteikingarpanna
+terroristic l. hryðjuverka-
+human-made l. manngerður, af manna völdum
+circuitry n. rafrásabúnaður
+keenly ao. ákaflega; mjög; af miklum áhuga, af skarpskyggni
+inadequateness n. sjá %[inadequacy]%
+ulcerated l. sjá %[ulcerous]%
+anti-semitic l. sjá %[antisemitic]%
+quarantined l. í sóttkví
+injured l. særður, skaddaður, slasaður, meiddur
+pipe organ n. pípuorgel
+electric organ n. rafmagnsorgel
+copeck n. sjá %[kopek]%
+sulfurous l. sjá %[sulphurous]%
+liver sausage n. lifrarpylsa
+forgettable l. gleymanlegur
+Polack n. Pólverji (niðrandi, óforml.)
+deputise s. sjá %[deputize]%
+intractableness n. sjá %[intractability]%
+outpouring n. úthelling
+Irani n. sjá %[Iranian]%
+sudate s. svitna
+cheerlessness n. gleðileysi, depurð
+silver-tongued l. sléttmáll, mælskur
+tactlessness n. taktleysi, ónærgætni
+corroboratory l. sjá %[corroborative]%
+pratfall n. að detta á rassinn; niðurlægjandi óhapp eða klúður
+prat n. afturendi, rass (slangur)
+brisling n. brislingur (smásíld)

@@ -1491,7 +1491,7 @@ assert s. fullyrða, staðhæfa; verja ([~ a cause]); krefja, halda fram ([~ one
 asserter n. verjandi
 assertor n. verjandi; talsmaður
 assertion n. staðhæfing; vörn
-assertive l. kappmáll; ákveðinn
+assertive l. ákveðinn; kappmáll
 assertory l. staðhæfandi, staðfestingar- ([~ oath])
 assess s. jafna niður (sköttum), leggja skatt á; meta, virða (eignir eða tekjur)
 assessable l. skattskyldur

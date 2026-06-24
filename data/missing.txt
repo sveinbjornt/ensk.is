@@ -1904,7 +1904,6 @@ metabolomics
 bioarchaeology
 bioarchaeological
 lifeways
-keenly
 marketability
 socio-economic
 conflict-free
@@ -1925,7 +1924,6 @@ subpopulation
 transhistorical
 trivially
 recategorize
-circuitry
 macro-aggression
 micro-aggressions
 widescale
@@ -1949,7 +1947,6 @@ qualitatively
 contextualization
 small-scale
 multiregional
-human-made
 processual
 preliterate
 sensationalize
@@ -1980,7 +1977,6 @@ presentist
 non-combatant
 occlusion
 non-violence
-terroristic
 counterterrorism
 flair
 decolonization
@@ -2000,7 +1996,6 @@ semi-automatic
 conspicuously
 disposability
 attritional
-broiler
 endangerment
 conservationist
 timescale
@@ -2046,7 +2041,6 @@ affiliative
 maladaptive
 levirate
 ethnolinguistic
-adroitly
 reprogram
 crosscut
 recombine
@@ -2074,7 +2068,6 @@ centerpiece
 manorialism
 delegitimization
 snatcher
-payback
 prosocial
 prosociality
 tight-knit
@@ -2091,7 +2084,6 @@ embeddedness
 multiparty
 Cistercian
 sandglass
-mealtime
 disincentivize
 Amazonian
 affordance
@@ -2107,7 +2099,6 @@ fallopian
 legalist
 specialness
 substrate
-mainline
 tentatively
 motherhouse
 innervate
@@ -2140,10 +2131,8 @@ enculturation
 innateness
 deontic
 salience
-salivary
 prolactin
 enforceability
-genomic
 essentialism
 essentialist
 cypionate
@@ -2156,13 +2145,11 @@ differentially
 dorsolateral
 intragroup
 gratefully
-famously
 paradisiacal
 tyrannically
 inextricably
 bushfire
 boxwood
-abundantly
 cynically
 synoecism
 trackway
@@ -2171,18 +2158,15 @@ pragmatically
 dynast
 commandery
 legalism
-centrally
 defuse
 beachhead
 travertine
 periplus
-assertiveness
 refortification
 Sinicization
 chokepoint
 woodblock
 seasonally
-fairyland
 reintensify
 expansionistic
 follow-up
@@ -2624,7 +2608,6 @@ promo
 racing
 generated
 bailey
-injured
 positioning
 classified
 camping
@@ -2829,7 +2812,6 @@ governmentally
 digest (endurskoða)
 ding
 dyspraxia
-eidetic
 displaced
 recurring
 exasperating
@@ -4858,7 +4840,6 @@ phantasmal
 weird (endurskoða)
 Wyrd
 Wyrd Sisters
-outpouring
 floodlight
 yid
 terrarium
@@ -5532,7 +5513,6 @@ fanny
 toosh
 bunt
 keister
-prat
 circumboreal
 chimeral
 recoverer
@@ -6437,7 +6417,6 @@ odontiasis
 entresol
 animistic
 light-colored
-brightness level
 hibernating
 onager
 bricole
@@ -6466,14 +6445,10 @@ quadruplex
 garrulousness
 trustfulness
 thorniness
-fitch
-foulmart
 bagger
 sandbagger
-granitic
 aspirer
 reconciler
-firebug
 incitive
 instigative
 rabble-rousing
@@ -6483,16 +6458,53 @@ euphory
 greater
 stand-in
 backing
+platitudinous (endurskoða)
 platitudinal
-bromidic
 coldcock
 bothered
 daunted
 solved
 unsolved
 unconstitutionally
-tutorship
-sumptuosity
 luxuriousness
 valorize
 purdy
+phonic
+campanula
+inculpable
+primness
+prudishness
+distillment
+chopfallen
+upthrust
+carrell
+presumptuousness
+supposal
+earreach
+pervasion
+sodbuster
+proscribed
+huck
+substantiative
+confirmative
+validatory
+verificatory
+logomania
+flub
+queerly
+funnily
+noticeable (endurskoða)
+flaring
+aflare
+nonviolent
+cursorial
+steelmaker
+waxwork
+peeler
+haymow
+manus
+cephalitis
+wideband
+querier
+skimming
+

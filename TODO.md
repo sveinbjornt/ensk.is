@@ -21,3 +21,4 @@
 * [ ] Add viðskeyti cat (vsk.) e.g. -genic
 * [ ] Advanced search
 * [ ] Expand ~ headword abbreviation before inserting into DB
+* [ ] Fix PDF formatting issue with "-" and soft hyphen
