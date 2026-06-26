@@ -721,7 +721,7 @@ persistence n. stöðugleiki; áframhald; þrákelkni, harðfylgi, seigla
 persistency n. stöðugleiki; áframhald; þrákelkni, harðfylgi, seigla
 persistent l. þrálátur; þolgóður; fastur; stöðugur; varanlegur
 persisting l. þrálátur; þolgóður; fastur; stöðugur; varanlegur
-person n. persóna, maður; líkamsvöxtur; [in ~] sjálfur; [his own ~] hann sjálfur; [your ~] þér sjálfur
+person n. persóna, maður, manneskja; líkamsvöxtur; [in ~] sjálfur, í eigin persónu; [his own ~] hann sjálfur; [your ~] þér sjálfur
 personable l. viðkunnanlegur, geðugur, geðþekkur, góður félagsskapur; vel vaxinn, laglegur
 personage n. tiginn maður ([an illustrious ~]); persóna ([a mythological ~])
 personal l. persónulegur; líkamlegur; ytri; nærgöngull, ófyrirleitinn; [~ property, ~ goods] lausafé
@@ -1307,7 +1307,7 @@ pod n. fræbelgur; s. þrútna; skjóta fræbelgjum
 podagra n. fótaveiki, fótagigt
 podagral l. gigtveikur í fótum; fótveikis-
 podagric l. gigtveikur í fótum; fótveikis-
-podge n. stutt og digur persóna
+podge n. stutt og digur manneskja
 podgy l. stuttur og digur
 poem n. kvæði, ljóð; [a book of ~s] ljóðabók, kvæðabók
 poesy n. skáldskapur (nú [poetry]); kvæði
@@ -1878,7 +1878,7 @@ pretend s. gera sér upp ([~ illness]); þykjast, látast ([~ to know]); láta s
 pretended l. uppgerður
 pretender n. sá sem gerir kröfu (t.d. til ríkis [to the throne])
 pretension n. krafa, heimting, tilkall
-pretentious l. heimtufrekur; þóttafullur
+pretentious l. tilgerðarlegur; þóttafullur
 preterhuman l. meira en mennskur
 preterite l. umliðinn; n. umliðin tíð ([~ tense])
 pretermission n. úrfellir, undanfelling
