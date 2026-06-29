@@ -907,7 +907,6 @@ segmentary
 glyphic
 figural
 proto-
-imperialistic
 extractive
 charnel
 orchestration
@@ -1836,7 +1835,6 @@ geomantic
 moralistic
 kow-tow
 espousal
-flintlock
 shopfront
 panoramic
 reimpose
@@ -5215,7 +5213,6 @@ touted
 Buddha
 tracery
 high school
-extravagantly
 deplumate
 displume
 CAD
@@ -5453,8 +5450,6 @@ reimagine
 reimagination
 horseplay
 tympanic
-lockpick
-lockpicker
 vocationally
 assuredness
 auteurism
@@ -6511,7 +6506,6 @@ tabularise
 raptus
 boater
 extemporarily
-unrehearsed
 offhanded
 ad-lib
 off-the-cuff
@@ -6528,8 +6522,6 @@ unknot
 unspell
 distressfulness
 looker
-dearie
-deary
 ducky
 preferent
 preferred
@@ -6544,20 +6536,15 @@ disordered
 extremum
 quitter
 borrowing
-checkered
 belonging
 phloem
 canvassing
 noncurrent
-neuronal
 neuronic
 cerebrate
-angstrom
 cuneal
 cuneate
 southwesterly
-jubilantly
-mirthfully
 manduction
 rebarbative
 unmelodious
@@ -6566,3 +6553,7 @@ compostable
 naturalization
 rosacean
 gantry
+modulus
+geosphere
+logistically
+iron-hulled
