@@ -6145,7 +6145,7 @@ warhammer n. stríðshamar
 spellcasting n. það að kasta galdri, töfrar, galdrar
 spellcaster n. töframaður, galdramaður, sá sem töfrar eða kastar göldrum
 infotainment n. afþreyingarefni sem upplýsir
-hoagie n. samlokubátur, langloka
+hoagie n. samlokubátur, langloka (slangur)
 lymphocyte n. hvítfruma (hvítt blóðkorn), eitilfruma
 pantsing n. það að girða niður um einhvern (sem hrekkur)
 obliged l. vera í þakkarskuld við e-n, þakklátur
@@ -11486,3 +11486,31 @@ angstrom n. angström (mælieining, 0,1 nanómetri)
 unrehearsed l. óundirbúinn, óæfður, ekki æfður fyrir fram
 lockpick n. verkfæri til að stinga upp skrár með; lásaopnari (sjá einnig %[picklock]%)
 lockpicker n. lásaopnari
+selflessness n. ósérplægni, óeigingirni
+unselfishness n. ósérplægni, óeigingirni
+recalcitrancy n. sjá %[recalcitrance]%
+coalescency n. sjá %[coalescence]%
+unfeathered l. ófjaðraður
+hoagy n. sjá %[hoagie]%
+numerosity n. sjá %[numerousness]%
+hieratical l. sjá %[hieratic]%
+priestlike l. prestlegur
+brainpower n. heilaafl, heilakraftur, vitsmunir
+well-informed l. vel upplýstur (um [about])
+royal family n. konungsfjölskylda, kóngafjölskylda
+royal house n. konungsætt, kóngaætt
+two-faced l. tvílyndur, óhreinlyndur, undirförull
+Bonapartism n. fylgispekt við Napóleon Bonaparte frakklandskeisara
+Bonapartist n. fylgismaður Napóleons Bonaparte frakklandskeisara
+outsmart l. leika á (e-n), skáka
+outfox l. leika á (e-n), skáka
+junker n. junkari (prússneskur aðalsmaður)
+terraform s. umbreyta landslagi eða andrúmslofti (annarar plánetu)
+drooling l. slefandi; n. slef, slefun
+hardheaded l. harður (í samningum); þver, þrjóskur
+stagefright n. sviðsskrekkur, sviðsótti
+fasces n. vöndur, valdasproti (valdatákn í Rómaveldi til forna)
+tinsmith n. blikksmiður
+educative l. menntandi, fræðandi, mennta-, menntunar-
+muskrat n. bísamrotta, moskusrotta
+tinfoil n. tinþynna; álpappír
