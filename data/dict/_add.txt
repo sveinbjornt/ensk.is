@@ -756,7 +756,7 @@ Faroese l. færeyskur, úr Færeyjum; n. Færeyingur; færeyska (tungumál)
 Fiji n. Fídjíeyjar, Fídjí
 Fijian l. fídjískur; n. Fídji; fídjíska
 Finland n. Finnland
-Finn n. Finni
+Finn n. Finni, finnskur maður
 France n. Frakkland
 French Guiana n. Franska Gvæjana
 French Polynesia n. Franska Pólýnesía
@@ -11500,12 +11500,12 @@ well-informed l. vel upplýstur (um [about])
 royal family n. konungsfjölskylda, kóngafjölskylda
 royal house n. konungsætt, kóngaætt
 two-faced l. tvílyndur, óhreinlyndur, undirförull
-Bonapartism n. fylgispekt við Napóleon Bonaparte frakklandskeisara
-Bonapartist n. fylgismaður Napóleons Bonaparte frakklandskeisara
-outsmart l. leika á (e-n), skáka
-outfox l. leika á (e-n), skáka
+Bonapartism n. fylgispekt við Napóleon Bonaparte Frakklandskeisara
+Bonapartist n. fylgismaður Napóleons Bonaparte Frakklandskeisara
+outsmart s. leika á (e-n), skáka
+outfox s. leika á (e-n), skáka
 junker n. junkari (prússneskur aðalsmaður)
-terraform s. umbreyta landslagi eða andrúmslofti (annarar plánetu)
+terraform s. umbreyta landslagi eða andrúmslofti (annarrar plánetu)
 drooling l. slefandi; n. slef, slefun
 hardheaded l. harður (í samningum); þver, þrjóskur
 stagefright n. sviðsskrekkur, sviðsótti
@@ -11514,3 +11514,13 @@ tinsmith n. blikksmiður
 educative l. menntandi, fræðandi, mennta-, menntunar-
 muskrat n. bísamrotta, moskusrotta
 tinfoil n. tinþynna; álpappír
+tauromachy n. nautaat (til forna)
+amusement park n. skemmtigarður, tívolí
+tympanist n. sjá %[timpanist]%
+uncooperative l. ósamvinnuþýður
+mobile phone n. farsími
+cinematographer n. kvikmyndatökumaður; kvikmyndagerðarmaður
+nightdress n. náttkjóll
+plowboy n. sjá %[ploughboy]%
+gibbousness n. sjá %[gibbosity]%
+limbless l. útlimalaus
