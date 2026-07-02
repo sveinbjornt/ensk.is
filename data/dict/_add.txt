@@ -2703,7 +2703,7 @@ phosphorous l. fosfórs-
 colorful l. sjá %[colourful]%
 colourful l. litríkur, litskrúðugur, skrautlegur
 grassland n. graslendi
-wanderlust n. ferðaþrá, flökkuþrá
+wanderlust n. ferðaþrá, flökkuþrá (úr þýsku)
 rebirth n. endurfæðing
 belltower n. klukkuturn
 marshland n. fen, fenjasvæði, votlendi, mýrlendi
@@ -7752,8 +7752,8 @@ quilted l. vatteraður
 exiledom n. útlegð, útlegðardómur
 sawhorse n. búkki, undirstöðugrind til að saga á
 sawbuck n. búkki (sjá %[sawhorse]%); tíu dala seðill (BNA)
-cultured l. menningarlegur, fágaður, siðmenntaður
-uncultured l. menningarsnauður, ruddalegur
+cultured l. menningarlegur, fágaður, siðmenntaður (um siði)
+uncultured l. menningarsnauður, ruddalegur, ófágaður (um siði)
 exhilarating l. hressandi, spennandi; gleðjandi, kætandi
 jackpot n. lukkupottur, verðlaunapottur, vinningur; [hit the ~] detta í lukkupottinn, öðlast stóran vinning
 jawline n. kjálkasvipur, útlína kjálkans
@@ -11524,3 +11524,11 @@ nightdress n. náttkjóll
 plowboy n. sjá %[ploughboy]%
 gibbousness n. sjá %[gibbosity]%
 limbless l. útlimalaus
+Zouave n. e.k. skrautklæddur franskur landgönguliði (frá Norður-Afríku)
+innovational l. nýsköpunar-, uppfinninga-
+unweave s. rekja upp (vef)
+sweetbrier n. sjá %[sweetbriar]%
+sweetbriar n. smáblaðarós, evrópsk rós (planta)
+pigeon hawk n. smyrill (ránfugl)
+vulcanology n. sjá %[volcanology]%
+voyeuristical l. sjá %[voyeuristic]%
