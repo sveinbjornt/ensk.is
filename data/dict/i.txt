@@ -1031,7 +1031,7 @@ insidious l. slægur, undirförull ([an ~ enemy]); sviksamlegur
 insight n. innsæi, innsýn, skilningur, glögg þekking, glöggskyggni
 insignia nft. tignareinkenni
 insignificance n. auðvirðileiki; smáræði
-insignificancy n. auðvirðileiki; smáræði
+insignificancy n. sjá %[insignificance]%
 insignificant l. ómerkilegur, auðvirðilegur, smávægilegur
 insincere l. óhreinlyndur, óeinlægur; uppgerðar-
 insincerity n. óeinlægni; uppgerð

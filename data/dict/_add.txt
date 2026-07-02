@@ -11506,6 +11506,7 @@ outsmart s. leika á (e-n), skáka
 outfox s. leika á (e-n), skáka
 junker n. junkari (prússneskur aðalsmaður)
 terraform s. umbreyta landslagi eða andrúmslofti (annarrar plánetu)
+terraforming s. umbreyting á landslagi eða andrúmslofti (annarrar plánetu)
 drooling l. slefandi; n. slef, slefun
 hardheaded l. harður (í samningum); þver, þrjóskur
 stagefright n. sviðsskrekkur, sviðsótti
