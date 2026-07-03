@@ -1444,8 +1444,8 @@ typefounder n. letursteypari
 typewrite s. vélrita
 typewriter n. ritvél; vélritari
 typhoon n. fellibylur, hvirfilvindur
-typhous l. taugaveikis-
-typhus n. taugaveiki
+typhous l. taugaveikis-; flekkusóttar-
+typhus n. taugaveiki; flekkusótt
 typical l. dæmigerður; sem fyrirmyndar e-ð, líkingarfullur; sem hefur öll séreinkenni e-s flokks
 typify s. sýna á líkingarfullan hátt, tákna, vera dæmigert eintak af e-u
 typist n. vélritari

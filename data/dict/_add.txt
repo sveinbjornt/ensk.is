@@ -522,7 +522,7 @@ bioengineer n. líftæknifræðingur
 confidentiality n. trúnaður
 lyrebird n. lýrufugl (e.k. spörfugl)
 porn n. klám (óforml. stytt. á %[pornography]%)
-porno n. klám (óforml. stytt. á %[pornography]%)
+porno n. sjá %[porn]%
 pornographic l. klæminn, klám-; [~ literature] klámrit
 pornographer n. klámsali, klámframleiðandi (sjá %[pornography]%)
 porn star n. klámstjarna
@@ -11533,3 +11533,15 @@ sweetbriar n. smáblaðarós, evrópsk rós (planta)
 pigeon hawk n. smyrill (ránfugl)
 vulcanology n. sjá %[volcanology]%
 voyeuristical l. sjá %[voyeuristic]%
+sartorius n. skraddaravöðvi
+whaleboat n. hvalveiðiskip
+apothecium n. askhirsla
+ascocarp n. askhirsla
+bowline n. bóglína (á skipi); hnútur
+aplenty ao. í miklu magni, í gnótt
+pizzle n. typpi (á dýri); svipa
+Pashto n. pastó (suðurasískt tungumál)
+Pashtun n. Pastúni
+steerer n. stýrandi, stýrimaður
+quisling n. kvislingur, landráðamaður, föðurlandssvikari
+taxman n. skattheimtumaður, skattmann
