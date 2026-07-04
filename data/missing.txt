@@ -1234,7 +1234,6 @@ nosedive
 hotline
 Luddism
 slurp
-maven
 ratchet
 placement
 motivator
@@ -1252,7 +1251,6 @@ haywire
 bossa nova
 cutoff
 scanner
-echelon
 coder
 stardom
 downtime
@@ -1284,7 +1282,6 @@ confines
 Pyrrhic
 prefecture
 aromatics
-censorial
 genuflect
 situate
 sensibly
@@ -1299,14 +1296,12 @@ gimp
 casuist
 casuistry
 indiction
-unsocial
 sectary
 artfully
 self-mortification
 Abrahamic
 readmission
 self-promotion
-communicator
 differentiator
 relational
 transactional
@@ -1325,15 +1320,12 @@ slugger
 sportsmanship
 divvy
 replay
-antitrust
 tripwire
 tagline
 misstep
 hardscrabble
 dodecadic
 helion
-skillet
-afresh
 parodic
 juvenilia
 Napoleonic
@@ -1401,7 +1393,6 @@ enumerable
 routinize
 self-assertiveness
 anticipator
-defensibility
 Nietzschean
 perspectivism
 self-restraint
@@ -1925,6 +1916,7 @@ depoliticization
 repoliticization
 self-regulate
 self-organize
+counterculture
 counter-culture
 counter-cultural
 post-industrial
@@ -6609,6 +6601,6 @@ paradiddle
 pealing
 stanchioned
 rigmaree
-abscessed
 unchosen
 hovering
+maglev
