@@ -2253,7 +2253,7 @@ stenographist n. hraðritari
 stenography n. hraðritun, hraðskrift
 stentorian l. heljarmikill ([~ voice, lungs])
 step s. ganga, stíga; [~ out] ganga út; stika stórum; [~ short] vera stuttstígur; [~ in, if you please] gerið svo vel að ganga inn; [~ in the boat] stíga út í bátinn; n. stig, skref; fet; fótspor; stigarim; stigahaft; siglustallur; [portable ~s, a set of ~s] laus trappa, lausastigi; [~ by ~, by ~s] fet fyrir fet, smátt og smátt; [to tread (walk) in a person's ~s] feta í fótspor e-s; [take ~s in matter] gera gangskör að e-u; [a false ~] fótaskortur, fótamissir; [in ~] samstíga, samstígur (við e-n [with]); [out of ~] ósamstígur; [keep ~ with a person] halda í við e-n
-step- fsk. í samsettum orðum: stjúp-
+step- fsk. stjúp- (sjá t.d. %[stepmother]%, %[stepfather]%)
 stepbrother n. stjúpbróðir, hálfbróðir
 stepdaughter n. stjúpdóttir
 stepfather n. stjúpfaðir; stjúpi
@@ -2601,7 +2601,7 @@ stylist n. ritsnillingur; stílisti
 suasion n. fortölur
 suave l. blíður, þýður, mildur ([~ person, speech])
 suavity n. blíða, þýðleiki (í viðmóti)
-sub- fsk. undir-; sjá t.d. %[suboptimal]%, %[submarine]%
+sub- fsk. undir- (sjá t.d. %[suboptimal]%, %[submarine]%)
 subaltern l. minni háttar; n. undirforingi
 subaqueous l. neðansjávar ([~ volcano])
 subaudition n. undirskilningur
@@ -2821,7 +2821,7 @@ sundries nft. ýmislegir munir, ýmislegt
 sundry l. ýmsir, nokkrir
 sunken l. sokkinn; [~ road] holvegur, gil; [~ rock] blindsker; [her cheeks were ~] hún var kinnfiskasogin
 sup s. dreypa vörunum í, smásúpa á; éta kvöldverð
-super- fsk. yfir-, ofur-; sjá t.d. %[supernatural]%, %[superficial]%
+super- fsk. yfir-, ofur- (sjá t.d. %[supernatural]%, %[superficial]%)
 superabound s. vera meir en nógur; hafa meir en nóg af ([with])
 superabundance n. mikil gnægð
 superabundant l. kappnógur, meir en nógur

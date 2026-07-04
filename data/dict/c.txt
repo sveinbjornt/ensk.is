@@ -878,7 +878,7 @@ circularity n. hringmyndun
 circulate s. fara (renna) í kring; ganga manna á milli; breiða út
 circulation n. umferð; hringrás, blóðrás; útbreiðsla
 circulatory l. sem lýtur að blóðrásinni; hringrásar-
-circum- fsk. um, kringum
+circum- fsk. um, kringum (sjá t.d. %[circumspect]%, %[circumstance]%)
 circumambient l. umlykjandi ([the ~ air])
 circumambulate s. ganga í kringum
 circumcise s. umskera

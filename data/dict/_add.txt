@@ -171,7 +171,7 @@ headphone n. heyrnartól (yfirleitt í ft. %[headphones]%)
 headphones nft. heyrnartól
 homework n. heimavinna
 investor n. fjárfestir
-mega- fsk. (í samsetningum) ofur-; risa-; mjög stór; sjá t.d. %[megabyte]%, %[megafauna]%
+mega- fsk. (í samsetningum) ofur-, risa-, mjög stór, milljón (sjá t.d. %[megabyte]%, %[megafauna]%)
 methodology n. aðferðafræði; [his ~ was flawed] hann beitti gölluðum aðferðum
 methodological l. aðferðafræðilegur
 methodologically ao. aðferðafræðilega
@@ -1464,24 +1464,24 @@ ophthalmologist n. augnlæknir, augnsérfræðingur
 ophthalmology n. augnlækningar, augnlæknisfræði
 political correctness n. pólitískur rétttrúnaður
 rediscover s. enduruppgötva (sjá %[discover]%)
-xeno- fsk. ókunnugur, utanaðkomandi, erlendur, útlendur (sjá t.d. %[xenophobe]%)
-re- fsk. endur-; sjá t.d. %[revolution]%, %[reload]%, %[rediscover]%
-auto- fsk. sjálf-, sjálfs-; sjá t.d. %[automobile]%, %[autobiography]%, %[autonomy]%
-pre- fsk. for-, áður-, á undan, fyrir, fyrr; of snemma; sjá t.d. %[prementioned]%, %[predict]%, %[premature]%
-post- fsk. á eftir e-u; sjá t.d. %[postmortem]%, %[postmodern]%
-counter- fsk. mót-, gegn-; andspænis, gagnstæður; sjá t.d. %[counteract]%, %[counterfeit]%
-intra- fsk. innan, innra-, innbyrðis, innvortis; sjá t.d. %[intravenous]%, %[intranet]%
+xeno- fsk. ókunnugur, utanaðkomandi, erlendur, útlendur, framandi (sjá t.d. %[xenophobe]%, %[xenolith]%)
+re- fsk. endur- (sjá t.d. %[revolution]%, %[reload]%, %[rediscover]%)
+auto- fsk. sjálf-, sjálfs- (sjá t.d. %[automobile]%, %[autobiography]%, %[autonomy]%)
+pre- fsk. for-, áður-, á undan, fyrir, fyrr, of snemma (sjá t.d. %[prementioned]%, %[predict]%, %[premature]%)
+post- fsk. á eftir e-u (sjá t.d. %[postmortem]%, %[postmodern]%)
+counter- fsk. mót-, gegn-, andspænis, gagnstæður (sjá t.d. %[counteract]%, %[counterfeit]%)
+intra- fsk. innan, innra-, innbyrðis, innvortis (sjá t.d. %[intravenous]%, %[intranet]%)
 quasi- fsk. hálf-, hálfgerður, hálfpartinn, næstum, hér um bil, eins konar; [a ~religious concept] hálfpartinn trúarlegt hugtak
-neuro- fsk. tauga-; sjá t.d. %[neurochemical]%, %[neurodegeneration]%, %[neurologist]%
-hyper- fsk. yfir-, of-; sjá t.d. %[hypercritical]%, %[hyperventilation]%
-contra- fsk. á móti, gegn; sjá t.d. %[contradict]%, %[contravene]%
-preter- fsk. handan, meira en; sjá t.d. %[preternatural]%, %[preterhuman]%
-praeter- fsk. handan, meira en; sjá %[preter-]%
-para- fsk. hliðstæður, nærliggjandi, samliggjandi, handan; sjá t.d. %[parasite]%, %[paranormal]%
-tele- fsk. fjar-; sjá t.d. %[telephone]%, %[telescope]%
-bio- fsk. líf-, lífs-; sjá t.d. %[biology]%, %[biography]%
-hydro- fsk. vatns-; sjá t.d. %[hydrogen]%, %[hydroelectric]%
-geo- fsk. jarð-, heims-, hnatt-; sjá t.d. %[geology]%, %[geopolitics]%
+neuro- fsk. tauga- (sjá t.d. %[neurochemical]%, %[neurodegeneration]%, %[neurologist]%)
+hyper- fsk. yfir-, of- (sjá t.d. %[hypercritical]%, %[hyperventilation]%)
+contra- fsk. á móti, gegn (sjá t.d. %[contradict]%, %[contravene]%)
+preter- fsk. handan, meira en (sjá t.d. %[preternatural]%, %[preterhuman]%)
+praeter- fsk. handan, meira en (sjá %[preter-]%)
+para- fsk. hliðstæður, nærliggjandi, samliggjandi, handan (sjá t.d. %[parasite]%, %[paranormal]%)
+tele- fsk. fjar- (sjá t.d. %[telephone]%, %[telescope]%)
+bio- fsk. líf-, lífs- (sjá t.d. %[biology]%, %[biography]%)
+hydro- fsk. vatns- (sjá t.d. %[hydrogen]%, %[hydroelectric]%)
+geo- fsk. jarð-, heims-, hnatt- (sjá t.d. %[geology]%, %[geopolitics]%)
 antisocial l. ófélagslyndur, andfélagslegur ([~ behaviour])
 antibiotic l. gegn sýklum, andsýkla-; n. sýklalyf (yfirleitt í ft. [~s])
 antibiotics nft. sjá %[antibiotic]%
@@ -2239,7 +2239,7 @@ antebellum l. fyrir stríð, fyrirstríðs- (í BNA, fyrir borgarastríðið 186
 moorland n. mýrlendi
 imbalance n. ójafnvægi
 courtroom n. réttarsalur, dómssalur
-cardio- fsk. hjarta-
+cardio- fsk. hjarta- (sjá t.d. %[cardiologist]%, %[cardiovascular]%)
 cardiology n. hjartalækningar, hjartasjúkdómafræði
 cardiologist n. hjartalæknir, hjartasérfræðingur, hjartasjúkdómafræðingur
 cardiovascular l. hjarta- og æða-; [~ system] hjarta- og æðakerfi
@@ -4909,7 +4909,7 @@ meow uh. mjá! (mjálm í ketti)
 femur n. lærleggur, lærbein, lærliður
 phonological l. hljóðfræðilegur
 phonologically ao. hljóðfræðilega
-phono- fsk. hljóð- (í samsetningum, sbr. %[phonography]%, %[phonology]%)
+phono- fsk. hljóð- (sjá t.d. %[phonography]%, %[phonology]%)
 neighborhood n. sjá %[neighbourhood]%
 eulogise s. sjá %[eulogize]%
 barefooted l. berfættur
@@ -5588,7 +5588,7 @@ prankster n. hrekkjalómur, hrekkjadólgur, hrekkjari
 voice-over n. talsetning
 voiceover n. sjá %[voice-over]%
 deerskin n. dádýraskinn
-crypto- fsk. dul-; leyndar-; dulinn, falinn, leyndur (sjá t.d. %[cryptography]%, %[cryptonym]%)
+crypto- fsk. dul-, leyndar-, dulinn, falinn, leyndur (sjá t.d. %[cryptography]%, %[cryptonym]%)
 crypto n. rafmynt (óforml. stytt. á %[cryptocurrency]%)
 Nestorianism n. nestoríanismi (guðfræðikenning kennd við patríarkann Nestoríos)
 Nestorian l. nestorískur (sjá %[Nestorianism]%)
@@ -5922,7 +5922,7 @@ mudslinging n. leðjukast
 mishmash n. hrærigrautur, samtíningur, óreiðukennd samblanda
 maiming n. limlesting; lemstrun
 nightgown n. náttkjóll
-eco- fsk. vist-, umhverfis-; sjá t.d. %[ecology]%, %[ecosystem]%
+eco- fsk. vist-, umhverfis- (sjá t.d. %[ecology]%, %[ecosystem]%)
 pimpernel n. nónblóm
 acoustical l. heyrnarlegur; hljómlegur; hljóðvistar-
 monozygotic l. eineggja
@@ -6008,7 +6008,7 @@ handcuffed l. handjárnaður, handfjötraður, í handfjötrum
 handcuffs nft. handjárn, handfjötrar
 wittiness n. hnyttni, fyndni
 ex-wife n. fyrrverandi eiginkona
-ex- fsk. fyrrverandi (sbr. %[ex-wife]%, %[ex-husband]%)
+ex- fsk. fyrrverandi (t.d. %[ex-wife]%, %[ex-husband]%)
 breastfeed s. hafa barn á brjósti, gefa barninu brjóst
 breastfeeding n. brjóstagjöf
 deadline n. tímamörk, eindagi, skilafrestur
@@ -9248,15 +9248,15 @@ penta- fsk. fimm- (t.d. %[pentagon]%, %[pentameter]%)
 hexa- fsk. sex- (t.d. %[hexagon]%, %[hexameter]%)
 hepta- fsk. sjö- (t.d. %[heptagon]%, %[heptarchy]%)
 octa- fsk. átta- (t.d. %[octagon]%, %[octangular]%)
-nona- fsk. níu (t.d. %[nonagenarian]%)
-deca- fsk. deka-, tíu- (tífaldur); sjá t.d. %[decametre]%, %[decalitre]%, o.s.frv.
+nona- fsk. níu-, nífaldur (t.d. %[nonagenarian]%)
+deca- fsk. deka-, tíu-, tífaldur (sjá t.d. %[decametre]%, %[decalitre]%, o.s.frv.)
 microsecond n. míkrósekúnda (einn milljónasti úr sekúndu)
 picogram n. píkógramm (einn biljónasti úr grammi, sjá %[pico-]% og %[gram]%)
 giga- fsk. gíga- (margföldun mælieiningar með milljarði, 10 í 9. veldi, sjá t.d. %[gigabyte]%, %[gigawatt]%, o.s.frv.)
-tera- fsk. tera- (margföldun mælieiningar með 10. í 12. veldi); sjá t.d. %[terabyte]%, %[terawatt]%, o.s.frv.
-peta- fsk. peta- (margföldun mælieiningar með þúsund milljón milljónum, 10 í 15. veldi)
-nano- fsk. nanó- (einn milljarðasti úr mælieiningu); sjá t.d. %[nanometre]%
-pico- fsk. píkó- (einn billjónasti úr mælieiningu); sjá t.d. %[picogram]%
+tera- fsk. tera- (margföldun mælieiningar með 10. í 12. veldi, sjá t.d. %[terabyte]%, %[terawatt]%, o.s.frv.)
+peta- fsk. peta- (margföldun mælieiningar með þúsund milljón milljónum, 10 í 15. veldi, sjá t.d. %[petabyte]%)
+nano- fsk. nanó- (einn milljarðasti úr mælieiningu, sjá t.d. %[nanometre]%)
+pico- fsk. píkó- (einn billjónasti úr mælieiningu, sjá t.d. %[picogram]%)
 GB sks. Stóra-Bretland (%[Great Britain]%); gígabæti (%[gigabyte]%)
 Great Britain n. Stóra-Bretland
 moonstone n. mánasteinn
@@ -9947,7 +9947,7 @@ blueprint n. vinnuteikning; frumgerð, frumhönnun; ljósrit af frumgerðarteikn
 flagellant n. hýðari, húðstrýkjari
 unmoved l. óhreyfður; ósnortinn
 unplug s. taka úr sambandi; taka tappa úr
-trans- fsk. þvert yfir (t.d. [trans-Atlantic]); í gegnum (t.d. %[transparent]%, %[translucent]%)
+trans- fsk. þvert yfir (t.d. [trans-Atlantic]), í gegnum (t.d. %[transparent]%, %[translucent]%)
 trans-Atlantic l. þvert yfir Atlantshafið
 unidentified l. sem ekki er búið að bera kennsl á, óþekktur
 soya n. sjá %[soy]%
@@ -11544,3 +11544,5 @@ Paddy n. Íri (niðrandi)
 biddable l. hlýðinn; þægur
 Inuk n. Inúki (frumbyggi norðurheimskautalanda)
 phantasy n. sjá %[fantasy]%
+alt- fsk. val- (t.d. [alt-rock], [alt-right], sjá %[alternative]%)
+zoo- fsk. dýra- (sjá t.d. %[zoology]%)

@@ -100,7 +100,7 @@ makeshift n. bráðabirgðahjálp; hjálp í viðlögum
 makeweight n. vigtaruppbót
 maker n. skapari; sá sem býr e-ð til, smiður ([~ of instruments])
 making n. [the ~ of a man, of a fine horse] mannsefni, gott hestsefni
-mal- fsk. illa, ill- ([malodorous, malcontent, etc.])
+mal- fsk. illa, ill- (sjá t.d. %[malodorous]%, %[malcontent]%, o.s.frv.)
 maladministration n. ill stjórn, óstjórn
 maladroit l. ófimur, klaufalegur
 maladroitness n. klaufaskapur, ófimleiki
@@ -861,7 +861,7 @@ mirth n. kæti, glaðværð; hlátur
 mirthful l. glaðvær, kátur
 mirthless l. gleðilaus, gleðisnauður, án kæti
 miry l. blautur, forugur
-mis- fsk. áherslulaust forskeyti: mis-, rang-, van-, ó-
+mis- fsk. mis-, rang-, van-, ó- (sjá t.d. %[mistake]%, %[misdirect]%)
 misadventure n. óhapp, slys
 misadventurous l. óhappasæll
 misadvise s. gefa ill eða misvísandi ráð
@@ -1371,7 +1371,7 @@ muller n. steinn til að mylja
 mullet n. fiskheiti; e.k. tegund af hárgreiðslu
 mulligrubs nft. kveisa; illt skap ([to have the ~])
 mullion n. gluggastafur, gluggapóstur
-multi- fsk. aðeins haft í samsetningum: marg-, fjöl-
+multi- fsk. marg-, fjöl- (sjá t.d. %[multivalent]%, %[multiculturalism]%)
 multifarious l. fjölbreyttur, margvíslegur
 multifid l. margklofinn
 multiform l. margvíslegur

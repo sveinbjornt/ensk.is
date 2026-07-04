@@ -168,7 +168,7 @@ neighbouring l. nærliggjandi, nálægur
 neighbourly l. nágrannalegur, nábúalegur; vingjarnlegur
 neither fn. hvorugur ([~ of them knows]); st. hvorki; (og) ekki heldur ([if you do not go, ~ shall I]); [~ ... nor] hvorki ... né
 nemesis n. hefninorn; andstæðingur; hefnd, makleg málagjöld
-neo- fsk. ný-
+neo- fsk. ný- (sjá t.d. %[neologism]%, %[neoliberalism]%)
 neologism n. nýyrði, nýgervingur; ný kenning
 neology n. nýyrði, nýgervingur; ný kenning
 neophyte n. nýr trúskiptingur; byrjandi, viðvaningur, nýgræðingur
@@ -344,7 +344,7 @@ nominate s. tilnefna, nefna (til e-r stöðu eða e-a starfa)
 nomination n. nefning; [to be in ~ for] vera nefndur til (e-r) stöðu
 nominative n. nefnifall (í málfræði)
 nominee n. maður sem er tilnefndur eða stungið er upp á (í e-a stöðu)
-non- fsk. neitandi forskeyti, ekki, ó-
+non- fsk. ekki, ó- (t.d. %[unworthy]%, %[unemployed]%, %[unkind]%)
 nonage n. ómyndugleikaaldur, ófullveðja aldur
 nonagenarian n. manneskja á tíræðisaldri; l. á tíræðisaldri
 nonce n. tækifæri; [for the ~] í svipinn, í bráðina
