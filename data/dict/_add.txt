@@ -2409,7 +2409,7 @@ circa ao. um það bil, sirka
 smoking area n. reykingasvæði
 rejuvenation n. endurnýjun, endurynging
 chalkboard n. krítartafla, skólatafla
-Inuit n. Inúíti (frumbyggi Grænlands og nyrstu svæða N-Ameríku); l. inúískur
+Inuit n. Inúíti (frumbyggi Grænlands og nyrstu svæða Norður-Ameríku); l. inúískur
 orthopedia n. bæklunarlækningar
 orthopedic l. bæklunarlækninga-; n. bæklunarlæknir
 businesspeople nft. viðskiptafólk, verslunarfólk, kaupsýslumenn
@@ -6129,7 +6129,7 @@ vitalization n. lífgun
 revitalization n. endurlífgun
 disgorgement n. spýja, spýjun; gubb, æla, uppkast (sjá %[disgorge]%)
 naively ao. barnalega, einfeldningslega; náttúrulega, án tilgerðar
-effluvia nft. af %[effluvium]%
+effluvia nft. sjá %[effluvium]%
 postpartum l. eftirfæðingar-, eftir fæðingu
 tilde n. tilda, bylgjutákn; framburðartákn (í spænsku og portúgölsku)
 endosome n. innblaðra
@@ -8806,7 +8806,6 @@ Pacific Ocean n. Kyrrahafið
 Southern Ocean n. Suður-Íshafið, Suðurhafið, Suðurskautshafið
 Antarctic Ocean n. Suður-Íshafið, Suðurhafið, Suðurskautshafið
 Andes nft. Andesfjöll ([the ~ Mountains])
-Rocky Mountains nft. Klettafjöllin
 Rockies nft. Klettafjöllin ([the ~])
 Appalachian Mountains nft. Appalasíufjöll
 Appalachians nft. Appalasíufjöll ([the ~])
@@ -11001,11 +11000,9 @@ yup uh. jebb, jebbs (óforml.)
 fixer n. reddari, sá sem reddar hlutum eða bjargar málum (óforml.)
 arcana nft. sjá %[arcanum]%
 effects nft. munir; lausafé; lausir aurar; húsgögn ([household ~])
-effluvia nft. sjá %[effluvium]%
 Fates nft. örlaganornirnar (Atropos, Clotho, and Lachesis, í forngrískri goðafræði)
 breakers nft. brim
 brackets nft. hornklofar; [within ~] innan hornklofa
-oxen nft. uxar, naut
 optically ao. ljós-, ljósrænt, á ljósrænan hátt
 object-oriented l. hlutbundinn (í forritun)
 object-orientation n. hlutbinding (í forritun)
@@ -11027,7 +11024,6 @@ fusillade n. skothríð, kúlnahríð, stórkotahríð
 clubhouse n. félagsheimili
 perinatal l. burðarmáls-
 coffee press n. frönsk pressa, kaffipressa
-cafetière n. sjá %[coffee press]%
 hokum n. (tilgerðarleg) þvæla, bull
 leafblower n. laufblásari
 riotousness n. óstýrilæti, óeirðarsemi
@@ -11218,7 +11214,6 @@ evidently ao. augljóslega, auðsýnilega, greinilega
 liberatory l. frelsandi, sem frelsar
 liberating l. frelsandi ([a ~ feeling])
 fraktur n. gotneskt letur, fraktúrletur ([~ type])
-blackletter n. gotneskt letur
 northmost l. sjá %[northernmost]%
 procurer n. reddari, skaffari, útvegari
 saccharide n. sykra, sykrungur
@@ -11534,7 +11529,7 @@ pigeon hawk n. smyrill (ránfugl)
 vulcanology n. sjá %[volcanology]%
 voyeuristical l. sjá %[voyeuristic]%
 sartorius n. skraddaravöðvi
-whaleboat n. hvalveiðiskip
+whaleboat n. hvalveiðibátur, hvalbátur
 apothecium n. askhirsla
 ascocarp n. askhirsla
 bowline n. bóglína (á skipi); hnútur
@@ -11545,3 +11540,7 @@ Pashtun n. Pastúni
 steerer n. stýrandi, stýrimaður
 quisling n. kvislingur, landráðamaður, föðurlandssvikari
 taxman n. skattheimtumaður, skattmann
+Paddy n. Íri (niðrandi)
+biddable l. hlýðinn; þægur
+Inuk n. Inúki (frumbyggi norðurheimskautalanda)
+phantasy n. sjá %[fantasy]%

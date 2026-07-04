@@ -255,8 +255,7 @@ parsimony n. sparsemi; níska; aðsjálni
 parsley n. péturselja
 parson n. sóknarprestur
 parsonage n. prestssetur
-part n. partur, hluti; þáttur ([take ~ in a discussion]); hlutverk; málefni; ft. gáfur; [the work comes out in ~s] í heftum; [for my ~] að mínu leyti; [~s of a speech] partar ræðunnar; [in our ~s (of the country)] í okkar sveitum; [in these ~s] hér um slóðir; [in ~] að nokkru leyti; [on the ~ of] af hálfu e-s; [from all ~s] úr öllum áttum; [take ~ with (the ~ of)] styðja málstað e-s, draga taum e-s; [take in good (ill) ~] taka vel (eða illa) upp, taka e-u vel eða illa
-part s. skipta ([~ the hair]); skilja ([~ the combatants]); greina í sundur ([~ error from crime]); brjóta, slita; slitna, springa (um kaðal); skiljast ([~ good friends, here our roads ~ed]); fara; [~ out of this life] deyja; [~ with] skiljast við e-ð, missa; farga e-u; [~ company] skiljast (við e-n [from])
+part n. partur, hluti; þáttur ([take ~ in a discussion]); hlutverk; málefni; ft. gáfur; [the work comes out in ~s] í heftum; [for my ~] að mínu leyti; [~s of a speech] partar ræðunnar; [in our ~s (of the country)] í okkar sveitum; [in these ~s] hér um slóðir; [in ~] að nokkru leyti; [on the ~ of] af hálfu e-s; [from all ~s] úr öllum áttum; [take ~ with (the ~ of)] styðja málstað e-s, draga taum e-s; [take in good (ill) ~] taka vel (eða illa) upp, taka e-u vel eða illa; s. skipta ([~ the hair]); skilja ([~ the combatants]); greina í sundur ([~ error from crime]); brjóta, slita; slitna, springa (um kaðal); skiljast ([~ good friends, here our roads ~ed]); fara; [~ out of this life] deyja; [~ with] skiljast við e-ð, missa; farga e-u; [~ company] skiljast (við e-n [from])
 partake s. taka þátt í ([~ in each other's joy]); [~ of] neyta, njóta (matar)
 partaker n. hluttakandi, þátttakandi
 parterre n. blómareitur; afturhluti gólfs í leikhúsi
@@ -2383,8 +2382,7 @@ puissance n. máttur, afl
 puissant l. voldugur
 puke s. æla, selja upp, spýja, gubba; n. æla, uppsala, gubb, spýja
 pule s. væla, skæla; hrína
-pull s. draga, toga ([~ his ears, ~ him by the ears]); slíta, rífa; kippa í, toga í ([~ one's hair]); róa ([~ an oar]); [~ camps (wigs) for] rífast um; [~ down] rífa niður; veikja; steypa (úr völdum); [~ in] taka í taumana, stöðva (hest); [~ in/to pieces] rífa (tæta) í sundur; [~ one through] hjálpa e-m yfir (vandræðin); [~ up] rífa upp; stöðva (hest eða vagn); nema staðar; [~ up a good heart] fá hug, herða upp hugann; [~ foot] taka til fótanna
-pull n. dráttur, tak, kippur, rykkur; róður; teigur; áreynsla; brekka
+pull s. draga, toga ([~ his ears, ~ him by the ears]); slíta, rífa; kippa í, toga í ([~ one's hair]); róa ([~ an oar]); [~ camps (wigs) for] rífast um; [~ down] rífa niður; veikja; steypa (úr völdum); [~ in] taka í taumana, stöðva (hest); [~ in/to pieces] rífa (tæta) í sundur; [~ one through] hjálpa e-m yfir (vandræðin); [~ up] rífa upp; stöðva (hest eða vagn); nema staðar; [~ up a good heart] fá hug, herða upp hugann; [~ foot] taka til fótanna; n. dráttur, tak, kippur, rykkur; róður; teigur; áreynsla; brekka
 pullet n. ung hæna
 pulley n. tríssa
 pulmonary l. lungna-; [~ disease] lungnaveiki

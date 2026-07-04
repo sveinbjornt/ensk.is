@@ -603,8 +603,7 @@ bison n. vísundur (uxi)
 bisque n. ógljáð postulín; e.k. súpa
 bissextile n. hlaupár
 bistouri n. skurðarhnífur, læknishnífur
-bit n. beislisstangir; mél (í beisli); skegg (á lykli); hefiltönn; s. beisla, leggja (beisli) við
-bit n. biti, munnbiti ([dainty ~]); ögn; [~ by ~] smám saman; [give a ~ of one's mind] tala hreinskilnislega; [not a ~] ekki ögn, alls ekki; [wait a ~] bíddu dálítið; [every ~ as] alveg eins/jafnmikið og
+bit n. biti, munnbiti ([dainty ~]); ögn; [~ by ~] smám saman; [give a ~ of one's mind] tala hreinskilnislega; [not a ~] ekki ögn, alls ekki; [wait a ~] bíddu dálítið; [every ~ as] alveg eins/jafnmikið og; beislisstangir; mél (í beisli); skegg (á lykli); hefiltönn; biti (minnsta eining í tvíundakerfi); s. beisla, leggja (beisli) við
 bitch n. tík; tæfa; s. kvarta, væla
 bite s. bita; bíta í; (um fisk) taka beitu; hrífa (um akkeri); [~ the dust/ground] falla og deyja; [~ one's lips] bíta í varirnar; n. bit; íbit, hrif; munnbiti
 biting l. bítandi; ramur, beiskur; nístandi, sárkaldur; napur, sáryrtur
@@ -1204,7 +1203,7 @@ bulbous l. laukmyndaður
 bulge n. bumba, bunga; s. bunga út ([~ out])
 bulk n. búlki, skipsfarmur; stærð, fyrirferð; meginhluti; [to sell in ~] selja í einu lagi, selja í stórsölu
 bulky l. fyrirferðarmikill, stór
-bull n. griðungur, naut, boli; páfabréf; fásinna; kjaftæði, þvæla, bull (stytt. á %[bullshit]%)
+bull n. griðungur, naut, boli; páfabréf; fásinna; kjaftæði, þvæla, bull
 bulldog n. bolhundur
 bullfight n. nautaat
 bullfighter n. nautabani, nautvígamaður

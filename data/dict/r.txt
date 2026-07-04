@@ -18,10 +18,7 @@ racer n. kapphlaupamaður, kappreiðarmaður; kappreiðarhestur
 rachitis n. sjá %[rickets]%
 racial l. kynþátta-, kynflokka-, þjóðkynja- ([~ difference, ~ distinction, ~ hatred])
 raciness n. kraftur, fjör
-rack n. píslarbekkur, kvalatól, píslartól; píning, kvöl
-rack s. þenja, teygja út; pína, kvelja (á píslartóli); hreinsa, skíra (vín); [~ one's brains] brjóta heilann (um); [~ the rent] færa upp leiguna fram úr hófi, okra á leigunni
-rack n. (diska)grind; snagafjöl til að hengja föt á; fóðurgrind fyrir skepnur; [live at ~ and manger] lifa í allsnægtum
-rack n. skýjarek, skýjafar, skýjaferð ([~ of clouds]); s. reka, líða yfir ([over, across] um ský); [go to ~ (and ruin)] fara í hundana
+rack n. (diska)grind; snagafjöl til að hengja föt á; fóðurgrind fyrir skepnur; píslarbekkur, kvalatól, píslartól; píning, kvöl; skýjarek, skýjafar, skýjaferð ([~ of clouds]); kvenmannsbrjóst (óforml.); s. þenja, teygja út; pína, kvelja (á píslartóli); hreinsa, skíra (vín); [~ one's brains] brjóta heilann (um); [~ the rent] færa upp leiguna fram úr hófi, okra á leigunni; reka, líða yfir ([over, across] um ský); [go to ~ (and ruin)] fara í hundana
 racket n. knattnet; ft. e.k. knattleikur; skarkali, hávaði; snjóþrúga; s. gera hávaða; lifa gjálífi
 rackety l. hávær; óróasamur
 rack-rent n. okurleiga (af jörð)
@@ -140,11 +137,9 @@ ratable l. sjá %[rateable]%
 ratafia n. áfengur drykkur, e.k. kirsuberjabrennivín
 ratan n. indverskur reyr; reyrstafur
 rattan n. indverskur reyr; reyrstafur
-rate n. hlutfall ([at an equal ~]); mælikvarði; verð, gangverð; verðlag ([the high ~s charged by the railways]); taxti; hraði; skattur ([~s have increased in towns]); [at a furious ~] á fleygiferð; [at any ~] að minnsta kosti; fyrir hvern mun; [first ~] frábær, ágætur; [we ran at the ~ of six miles an hour] við sigldum (fórum) sex mílur á klukkustund
-rate s. meta, virða (mikils, lítils [high, low]); telja ([I ~ him among their benefactors])
+rate n. hlutfall ([at an equal ~]); mælikvarði; verð, gangverð; verðlag ([the high ~s charged by the railways]); taxti; hraði; skattur ([~s have increased in towns]); [at a furious ~] á fleygiferð; [at any ~] að minnsta kosti; fyrir hvern mun; [first ~] frábær, ágætur; [we ran at the ~ of six miles an hour] við sigldum (fórum) sex mílur á klukkustund; s. meta, virða (mikils, lítils [high, low]); telja ([I ~ him among their benefactors]); skamma, ávíta harðlega; sneypa ([~ at one])
 rateable l. hlutfallslegur; skattskyldur ([~ property])
 rateably ao. hlutfallslega
-rate s. skamma, ávíta harðlega; sneypa ([~ at one])
 rathe l. bráðþroskaður, snemmgróinn
 rather ao. fremur, heldur; [the ~ that] því fremur sem; [or ~] eða öllu heldur; [I had (I would) ~ do it] ég vildi heldur gera það
 ratification n. staðfesting
@@ -976,10 +971,9 @@ response n. svar, andsvar
 responsibility n. ábyrgð
 responsible l. sem á að ábyrgjast, ábyrgur; áreiðanlegur; ábyrgðarmikill; ábyrgðarfullur ([he is a ~ person])
 responsive l. svarandi; samsvarandi; þýður í viðmóti, þýðlegur
-rest n. hvíld ([take a short ~]); ró ([be at ~]); friður, svefn ([go retire, to ~]); s. láta hvílast, hvíla; liggja; hvíla sig; hvílast; sofa; [~ in] treysta, reiða sig á; [~ on] vera kominn undir e-u; grundvallast á e-u; [it ~s with you] það er undir þér komið
+rest n. hvíld ([take a short ~]); ró ([be at ~]); friður, svefn ([go retire, to ~]); afgangur, leifar, eftirstöðvar; [the ~] hinir; s. láta hvílast, hvíla (sig); liggja; hvíla sig; hvílast; sofa; [~ in] treysta, reiða sig á; [~ on] vera kominn undir e-u; grundvallast á e-u; [it ~s with you] það er undir þér komið; halda áfram að vera; [~ content] vera ánægður
 restful l. friðsamlegur, rólegur
 resting place n. hvíldarstaður
-rest n. afgangur, leifar, eftirstöðvar; [the ~] hinir; s. hvíla sig; halda áfram að vera; [~ content] vera ánægður
 restaurant n. veitingastaður, veitingahús, matsölustaður, matsöluhús
 restitute s. skila aftur, bæta upp
 restitution n. endurheimt, afturskilun; bætur; [make ~ of] skila (e-u) aftur; bæta e-ð upp
@@ -1337,9 +1331,8 @@ roguishness n. fantaskapur; glettni
 roil s. grugga
 roily l. gruggugur
 roister s. svalla; n. svallari
-roll n. velta, rugg; snúningur; rolla, skrá; ströngull, strangi; langt og sívalt hveitibrauð, fransbrauð; skjótur trumbusláttur; duna, dynur ([~ of thunder]); kefli; [call the ~] kalla upp nöfnin; [master of the ~s] skjalavörður
+roll n. velta, rugg; snúningur; rolla, skrá; ströngull, strangi; langt og sívalt hveitibrauð, fransbrauð; skjótur trumbusláttur; duna, dynur ([~ of thunder]); kefli; [call the ~] kalla upp nöfnin; [master of the ~s] skjalavörður; s. velta ([~ a cask, ~ a hoop]); snúa; vefja upp eða saman ([~ up]); fletja ([~ out dough]); slétta jarðveg með valtara; snúast ([the earth ~s about the sun]); velta; velta sér; rugga (um skip); slá trumbu; ganga í bylgjum; drynja, dynja; [~ in one's mind] velta e-u fyrir sér; [~ one over] velta e-m um koll; [~ in wealth, money] vaða í auðæfum, peningum; [~ in one's mind] velta e-u fyrir sér; [the years ~ on] árin líða áfram
 roll call n. nafnakall
-roll s. velta ([~ a cask, ~ a hoop]); snúa; vefja upp eða saman ([~ up]); fletja ([~ out dough]); slétta jarðveg með valtara; snúast ([the earth ~s about the sun]); velta; velta sér; rugga (um skip); slá trumbu; ganga í bylgjum; drynja, dynja; [~ in one's mind] velta e-u fyrir sér; [~ one over] velta e-m um koll; [~ in wealth, money] vaða í auðæfum, peningum; [~ in one's mind] velta e-u fyrir sér; [the years ~ on] árin líða áfram
 roller n. valtari, kefli; umbúðaband (um sár); ylgja, undiralda
 rolling l. veltandi; öldumyndaður; n. velta, rugg; dunur, skrölt
 rolling pin n. kökukefli
@@ -1432,10 +1425,8 @@ routine n. vani; l. venjuleg störf, vanaiðja, vani; [to settle into fixed ~] v
 rove s. ráfa, reika (um); n. lopi, togi (af ull), lyppa
 rover n. vegfarandi; flakkari; sjóræningi, víkingur
 roving l. reikandi, umfarandi ([~ sailor]); n. reik, flakk
-row n. röð ([a ~ of houses]); [to lie in a ~] liggja í röð
-row n. róður ([to go out for a ~]); s. róa
+row n. röð ([a ~ of houses]); [to lie in a ~] liggja í röð; róður ([to go out for a ~]); áflog, hávaði, uppþot; s. róa
 rower n. ræðari
-row n. áflog, hávaði, uppþot
 rowan-tree n. reyniviður
 rowdy l. ofsafullur, áflogagjarn; hávær; n. áflogahundur; óróaseggur
 rowel n. hjól í spora; hanki (í hesti); s. hanka (hest)
