@@ -1381,7 +1381,7 @@ pragmatism n. raunsæi; verkhyggja (í heimspeki); sjá %[pragmatic]%
 pragmatist n. raunsær maður (sem fylgir ekki kreddum); verkhyggjumaður (í heimspeki); sjá %[pragmatic]%
 science fiction n. vísindaskáldskapur
 Yiddish n. jiddíska (háþýsk tunga töluð af gyðingum sem eiga rætur að rekja til Mið- og Austur-Evrópu); l. jiddískur
-yoga n. jóga (e.k. slökunaræfingar)
+yoga n. jóga (austurlenskar slökunaræfingar)
 yowl n. langt óp eða öskur; s. æpa, öskra
 zaibatsu n. japönsk fyrirtækjasamsteypa
 zygote n. okfruma
@@ -7383,7 +7383,7 @@ eyeglasses nft. gleraugu
 goalkeeper n. markmaður, markvörður
 goalie n. markmaður, markvörður (stytt. á %[goalkeeper]%)
 graph n. graf; línurit
-graphics nft. grafík; teiknun
+graphics nft. grafík; teiknun; myndskreyting
 guideline n. viðmiðunarregla
 houseplant n. húsplanta
 ice cream n. ís, rjómaís
@@ -8000,7 +8000,7 @@ filleting n. flökun
 fishmeal n. fiskimjöl
 impersonator n. eftirherma; e-r sem villir á sér heimildir, e-r sem gengur undir fölsku nafni, e-r sem þykist vera annar en hann er
 airbag n. loftpúði, líknarbelgur
-airmail n. flugpóstur, póstur sem er sendur með flugi
+airmail n. flugpóstur, póstur sem sendur er með flugi
 folder n. mappa
 foolhardiness n. fífldirfska
 hoarfrost n. héla, hrím
@@ -11537,7 +11537,7 @@ aplenty ao. í miklu magni, í gnótt
 pizzle n. typpi (á dýri); svipa
 Pashto n. pastó (suðurasískt tungumál)
 Pashtun n. Pastúni
-steerer n. stýrandi, stýrimaður
+steerer n. stýrandi, stýrimaður, sá sem stýrir
 quisling n. kvislingur, landráðamaður, föðurlandssvikari
 taxman n. skattheimtumaður, skattmann
 Paddy n. Íri (niðrandi)
@@ -11551,9 +11551,16 @@ abscessed l. bólginn sökum ígerðar (sjá %[abscess]%)
 defensibility n. verjanleiki
 skillet n. steikarpanna, panna
 afresh ao. upp á nýtt, á ný, aftur ([he had to start ~])
-antitrust l. gegn einokun, gegn auðhringum
-communicator n. sá sem hefur samskipti ([he's a good ~]); tæki sem notað er til samskipta
+antitrust l. gegn einokun, gegn auðhringum, gegn auðhringamyndun
+communicator n. sá sem hefur samskipti; [he's a good ~] hann er góður í samskiptum; tæki sem notað er til samskipta
 unsocial l. ófélagslyndur, ómannblendinn, einrænn, ekki félagslyndur
 censorial l. ritskoðunar-, er varðar ritskoðun
 echelon n. þrep í þrepaskiptingu; staða í goggunarröð
 maven n. (meintur) sérfræðingur (á e-u sviði)
+voice actor n. raddleikari
+phew uh. úff!; hjúkk!
+peacemaking n. sáttamiðlun
+implicated l. flæktur í, bendlaður við ([in])
+bible thumper n. ofsatrúarmaður, biblíumaður, bókstafstrúarmaður (BNA, slangur)
+duplicitousness n. sjá %[duplicity]%
+good-hearted l. góðhjartaður, góðlyndur

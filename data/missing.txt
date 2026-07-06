@@ -2861,7 +2861,6 @@ uncomplicated
 dialogical
 dialogically
 vuvuzela
-phew
 grandnephew
 monochord
 cascading
@@ -3390,6 +3389,7 @@ halftime
 parkway
 suspended
 stalled
+forestalled
 downwash
 squaddie
 tinted
@@ -4428,8 +4428,10 @@ intransitivity
 transitivity
 churn (endurskoða)
 anticipated
+illuminatus
 illuminati
 chakra
+chakravartin
 remover
 unreasoning
 Vaudevillian
@@ -6604,3 +6606,23 @@ rigmaree
 unchosen
 hovering
 maglev
+palimony
+lithopone
+biomarker
+stickler (endurskoða)
+hemostatic
+thumper
+conked
+chippy
+chippie
+chip shop
+grandniece
+longue
+longueur
+scut (endurskoða)
+brazenly
+jetski
+bizarrerie
+assaultive
+LSD
+ovulating
