@@ -21,11 +21,11 @@ ultimate l. ystur; síðastur
 ultimately ao. að lokum, um síðir
 ultimatum n. síðasta sáttaboð
 ultimo ao. í fyrra mánuði
-ultra- fsk. ákaflega, fyrir handan, út- (sjá t.d. %[ultramarine]%, %[ultraliberal]%)
+ultra- fsk. ákaflega, fyrir handan, út-, öfga- (sjá t.d. %[ultramarine]%, %[ultraliberal]%)
 ultraism n. öfgar (í stjórnarefnum)
 ultraist n. öfgamaður
 ultraliberal l. ákaflega frjálslyndur
-ultramarine l. sem er fyrir handan haf; n. heiðblár litur
+ultramarine n. heiðblár litur; l. sem er fyrir handan haf
 ultramontane l. sem er fyrir handan (sunnan) Alpafjöllin; meðmæltur páfaveldi
 ultramontanist n. páfaveldismaður, páfaveldissinni ([the ~ philosopher Joseph de Maistre])
 ultramundane l. yfirskilvitlegur; annars heims
@@ -263,8 +263,8 @@ unexpected l. óvæntur
 unexpectedly ao. óvænt; skyndilega
 unfailing l. óskeikull, óbrigðull; óþrotlegur
 unfair l. ósanngjarn; ódrenglegur; óheiðarlegur; sviksamlegur
-unfairly ao. ósanngjarnt; sviksamlega
-unfaithful l. ótrúr, svikull
+unfairly ao. ósanngjarnlega, ósanngjarnt, af ósanngirni, á ósanngjarnan hátt; sviksamlega
+unfaithful l. ótrúr, svikull, sviksamur
 unfamiliar l. ókunnur (e-u [with]); ókunnugur ([~ face])
 unfasten s. leysa
 unfathomable l. ómælanlegur; órannsakanlegur
