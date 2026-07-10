@@ -476,7 +476,7 @@ encomiastic l. hrósandi
 encomium n. lofræða
 encompass s. umkringja, liggja utan um, umlykja
 encore uh. einu sinni aftur! s. biðja um aftur
-encounter s. mót, fundur; bardagi; einvígi; viðureign; s. ganga (fara) á móti (í bardaga); mæta; hitta; verða fyrir e-u ([~ difficulties]); hittast
+encounter n. mót, fundur, hittingur; bardagi; einvígi; viðureign; s. hittast, rekast, rekast á; ganga (fara) á móti (í bardaga); mæta; hitta; verða fyrir e-u ([~ difficulties])
 encourage s. telja hug í; uppörva; hvetja, eggja; efla, styðja að (e-u)
 encouragement n. uppörvun; hvatning, hvöt; efling
 encourager n. hvatamaður, stuðningsmaður

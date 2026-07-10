@@ -704,7 +704,7 @@ chew s. tyggja; [~ the cud] jórtra; n. tóbakstugga
 chibouk n. löng tyrknesk pípa
 chic n. listfengi, stíll; l. tískulegur, skrautlegur
 chicane n. lagaflækjur, hártogun; s. viðhafa lagaflækjur
-chicanery n. lagaflækjur, hártogun
+chicanery n. lagaflækjur, hártoganir
 chicken n. kjúklingur, hænuungi; gunga (óforml.); nft. hænsni
 chick n. kjúklingur, hænuungi; gella, pía (óforml.); nft. hænsni; gellur, píur (óforml.)
 chicory n. kaffirót
@@ -1093,9 +1093,9 @@ clove n. negull, negulnagli (krydd)
 cloven l. klofinn; [~ hoof/foot] klauffótur (jórturdýra)
 cloven-footed l. klauffættur
 clover n. smári; [live (be) in ~] eiga allsnægtir
-clown n. búri; rusti; loddari
-clownish l. búralegur; rustalegur; fíflslegur
-clownship n. loddaraskapur
+clown n. trúður; búri; rusti; loddari
+clownish l. trúðalegur; fíflslegur; búralegur; rustalegur
+clownship n. fíflaskapur; loddaraskapur
 cloy s. ofseðja á e-u góðgæti; gera leiðan (á e-u [with])
 club n. kylfa, barefli; byssuskefti; lauf (í spilum); félag, klúbbur; s. slá (rota) með kylfu; safna saman; skjóta saman; sameinast
 clubber n. klúbbsfélagi
@@ -1151,7 +1151,7 @@ coastwise ao. strandlengis
 coat n. frakki; kjóll (sjá %[dress coat]%); kápa; feldur, skinn; fuglshamur, slönguhamur; himna; skán; lag; hjúpur; hula; [~ of arms] merkisskjöldur; [~ of mail] spangabrynja; s. klæða; þekja; draga (lit) yfir; tilreykja (pípu)
 coat hanger n. herðatré
 coating n. lag ([a thin ~ of]); fataefni, frakkaefni
-coax s. lokka, ginna; [~ one to do/into doing] til að gera e-ð
+coax s. lokka, ginna
 cobalt n. kóbalt (málmur, frumefnið Co, 27 í lotukerfinu)
 cobble n. hnullungur; ft. kastkol; s. steinleggja (stræti); bæta (skó, [~ up])
 cobbler n. skóbætari; klaufi
@@ -2057,7 +2057,7 @@ convex l. ávalur, kúptur
 convexity n. bungumyndun; bunga; kúpni
 convey s. flytja, færa; veita ([~ water])
 conveyance n. flutningur; flutningstæki (vagn, bátur, skip); afsal, afsalsbréf
-conveyanser n. afsalsbréfasemjari
+conveyancer n. afsalsbréfasemjari
 convict s. gera sannan að sök, sanna á eða sakfella e-n ([~ one of treason]); n. refsifangi; l. sannur að sök, sekur
 convince s. sannfæra (e-n um e-ð [of]), færa (e-m) heim sanninn
 convincible l. sannfæranlegur

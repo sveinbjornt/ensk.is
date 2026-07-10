@@ -7943,7 +7943,7 @@ alliterate s. stuðla
 anaesthetist n. svæfingalæknir
 carton n. ferna, hyrna, pappabakki, pappaumbúðir
 chain reaction n. keðjuverkun
-cloying l. væminn
+cloying l. væminn, of sætur
 loanword n. tökuorð, sletta
 longwave n. langbylgja
 ogreish l. tröllslegur, þursalegur
@@ -9003,7 +9003,7 @@ foreshadowing l. fyrirboðandi; n. fyrirboðun
 foreshadowed l. fyrirboðað
 decelerate s. hægja á (sér), lækka hraða
 Chadian l. tjadneskur, frá Tjad; n. Tjadi
-Djiboutian n. djibútískur, frá Djibútí; n. Djibúti
+Djiboutian l. djibútískur, frá Djibútí; n. Djibúti
 Guinean l. gíneskur, frá Gíneu; n. Gínei
 terms nft. skilyrði, forsendur, kröfur ([these are my ~]); orð, nöfn, merkingar, skilgreiningar (sjá %[terminology]%); takmörk
 political science n. stjórnmálafræði
@@ -11568,5 +11568,9 @@ brutalism n. brútalismi (byggingarstíll)
 lefthanded l. sjá %[left-handed]%
 enthalpy n. vermi, varmagildi
 LSD n. lýsergíðsýra, sýra (ofskynjunarlyf)
-loftily ao. háleitlega, háfleyglega; drambsamlega
 lucy n. sýra, lýsergíðsýra (óforml., ofskynjunarlyf, sjá %[LSD]%)
+loftily ao. háleitlega, háfleyglega; drambsamlega
+coffined l. kistulagður
+homefarer n. heimfari
+homecoming n. heimkoma
+hassock n. motta til að krjúpa á (í kirkju), knjákoddi

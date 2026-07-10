@@ -1,5 +1,4 @@
 saddlebow n. söðulbogi
-shassock n. motta til að krjúpa á (í kirkju), knjákoddi
 sabbath n. sabbatsdagur; hvíldardagur
 sabbathize s. halda hvíldardag
 sable n. safali; safalaskinn; nft. sorgarbúningur; l. svartur, dökkur, dimmur ([a ~ cloud])
@@ -3108,7 +3107,7 @@ sylvan l. skógar-; skóglendur; n. skógarguð
 symbol n. ímynd; tákn, merki
 symbolic l. táknrænn, líkingarfullur; sem á að merkja
 symbolize s. sýna á líkingarfullan hátt; eiga að tákna, tákna
-symmetrical s. samhverfur, samsvarandi
+symmetrical l. samhverfur, samsvarandi
 symmetry n. samhverfa, samsvörun
 sympathetic l. sem finnur til (hryggðar eða gleði) með öðrum, hluttekningarsamur; sem vekur samúð, samúðar-
 sympathize s. finna til með öðrum (samgleðjast, samhryggjast)
