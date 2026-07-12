@@ -91,7 +91,7 @@ class EnskDatabase:
                 freq INTEGER,
                 synonyms TEXT,
                 antonyms TEXT
-            );
+            ) STRICT;
         """
         conn.cursor().execute(create_dictionary_table_sql)
 
@@ -100,7 +100,7 @@ class EnskDatabase:
             CREATE TABLE metadata (
                 key TEXT UNIQUE PRIMARY KEY NOT NULL,
                 value TEXT
-            );
+            ) STRICT;
         """
         conn.cursor().execute(create_metadata_table_sql)
 
