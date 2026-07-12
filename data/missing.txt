@@ -1800,7 +1800,6 @@ carousal
 sallowness
 woodwork
 emplacement
-punctiliousness
 divisional
 bandsman
 bantam
@@ -4390,7 +4389,6 @@ longtermism
 faded
 porgy
 micromolar
-fluidic
 sermonic
 sermonically
 sermonics
@@ -4467,9 +4465,7 @@ bonehead
 boneheaded
 randy
 randiness
-secretive (endurskoða)
 secretiveness
-secretively
 resupply
 haptics
 careen (endurskoða)
@@ -4573,18 +4569,15 @@ rarefied
 rarified
 raised
 upraised
-sunniness
 barrack (endurskoða)
 prompting
 unembellished
 unornamented
 unpatterned
 plicate
-choker
 riffle
-sashay
+chassé
 chasse
-diss
 countermine
 thinly
 cold-shoulder
@@ -6641,7 +6634,11 @@ hulking
 coax (endurskoða)
 airy (endurskoða)
 fitting
-fittingly
-unbefitting
-unbefittingly
 panentheism
+wishcast
+disadvantageously
+mischievously
+xeric
+aforestated
+mydriasis
+inkblot

@@ -1205,7 +1205,7 @@ disrelish n. óbeit; s. hafa óbeit á
 disrepair n. niðurníðsla; [in ~] niðurníddur, af sér genginn
 disreputable l. sem óorð fer af ([a ~ person]); ósæmilegur
 disrepute n. óorð; [to bring into ~] koma óorði á e-ð
-disrespect n. virðingarskortur, virðingarleysi; ókurteisi
+disrespect n. virðingarskortur, virðingarleysi; ókurteisi; s. vanvirða
 disrespectful l. ókurteis, virðingarlaus, sem sýnir virðingarleysi
 disrobe s. afklæða
 disrupt s. trufla, raska; sprengja, brjóta
@@ -1660,7 +1660,7 @@ drummer n. trommari, trymbill, trumbuslagari
 drumly l. skýjaður, dimmur; þungbúinn ([~ look]); gruggugur
 drunk l. drukkinn, ölóður, ölvaður
 drunkard n. drykkjumaður
-drunken l. drukkinn, ölvaður
+drunken l. sjá %[drunk]%
 drunkenness n. drykkjuskapur, ofdrykkja
 drunkery n. drykkjukrá
 drupe n. steinávöxtur
