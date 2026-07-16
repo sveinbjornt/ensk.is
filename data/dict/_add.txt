@@ -26,7 +26,7 @@ bathroom n. baðherbergi
 calcium n. kalk (frumefnið Ca, 20 í lotukerfinu)
 biotechnology n. líftækni
 biotech n. líftækni (stytt. á %[biotechnology]%)
-complicated l. flókinn
+complicated l. flókinn; flæktur
 camera n. myndavél, ljósmyndavél; kvikmyndaupptökuvél
 blowjob n. tott, munnmök (við karlmann)
 bookmark n. bókamerki
@@ -9368,7 +9368,7 @@ anaconda n. anakonda (risaslanga)
 impatiently ao. á óþolinmóðan hátt, óþolinmóðlega
 chaebol n. kóresk fyrirtækjasamsteypa
 Zanzibar n. Sansibar (tansanísk eyja)
-necro- fsk. ná-, lík-, dauða- (sjá t.d. %[necrology]%)
+necro- fsk. ná-, lík-, dauða- (sjá t.d. %[necrotic]%, %[necropsy]%)
 Indo-Aryan l. indóarískur; n. indóarísk tungumál ([~ languages])
 deracination n. uppræting
 pathognomonic l. meinkennandi, einkennandi fyrir sjúkdóm
@@ -11030,8 +11030,8 @@ riotousness n. óstýrilæti, óeirðarsemi
 camarilla n. leynisamtök; svikulir ráðgjafar
 artisanal l. handverks-, handiðnaðar-
 seminarian n. guðfræðinemi, guðfræðistúdent
-imperium n. æðsta vald, yfirráð, drottnun
-histrionics nft. leikaraskapur, leiklist, leiktilburðir
+imperium n. æðsta vald, yfirráð, drottnun; heimsveldi
+histrionics nft. leikaraskapur, leiklist, leiktilburðir, uppgerð tilfinningasemi
 multiethnic l. með mörg þjóðarbrot, margra þjóðarbrota ([Afghanistan is a ~ country])
 birdshot n. högl (úr haglabyssu)
 coworker n. samstarfsmaður
@@ -11587,3 +11587,12 @@ fluidic l. straums-, straumfræði-, straumefna-; vökva-
 adaptivity n. sjá %[adaptiveness]%
 naughtily ao. á óþekkan máta
 punctiliousness n. smámunasemi; mikil nákvæmni
+tendence n. sjá %[tendency]%
+etheric l. sjá %[ethereal]%
+epitomise s. sjá %[epitomize]%
+imperator n. keisari (í Róm til forna); hátt settur hershöfðingi
+servitor n. þjónustumaður
+potomania n. sjá %[dipsomania]%
+somberness n. sjá %[sombreness]%
+perimenopause n. tíðabreytingaskeið (konu)
+aloofly ao. fálætislega; í fjarska
