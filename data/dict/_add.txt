@@ -11579,7 +11579,7 @@ fittingly ao. á viðeigandi hátt
 unbefitting l. óviðeigandi, ósæmandi
 unbefittingly ao. á óviðeigandi hátt, ósæmilega
 sashay s. líða áfram, vaða
-diss s. dissa, vanvirða (sjá %[disrespect]%)
+diss s. dissa, vanvirða (óforml., sjá %[disrespect]%)
 choker n. hálsband, hálskragi
 sunniness n. sólbirta, sólskin
 secretively ao. laumulega; pukurslega; á dularfullan hátt
@@ -11590,9 +11590,21 @@ punctiliousness n. smámunasemi; mikil nákvæmni
 tendence n. sjá %[tendency]%
 etheric l. sjá %[ethereal]%
 epitomise s. sjá %[epitomize]%
-imperator n. keisari (í Róm til forna); hátt settur hershöfðingi
-servitor n. þjónustumaður
+imperator n. keisari (í Róm til forna); hátt settur hershöfðingi eða konsúll (í Róm til forna)
+servitor n. þjónustumaður, þjónn
 potomania n. sjá %[dipsomania]%
 somberness n. sjá %[sombreness]%
 perimenopause n. tíðabreytingaskeið (konu)
 aloofly ao. fálætislega; í fjarska
+unacceptability n. óásættanleiki
+chiffon n. siffon (örþunnt fataefni)
+stressed l. stressaður; með áherslu
+unstressed l. óstressaður; áherslulaus ([an ~ syllabvle])
+fascia n. mælaborð
+Impressionism n. impressjónismi (stefna í málaralist)
+woodworker n. trésmiður
+puzzlement n. undrun
+acridness n. sjá %[acridity]%
+herder n. hirðir
+theorizer n. kenningasmiður
+brainwave n. heilabylgja

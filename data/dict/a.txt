@@ -174,7 +174,7 @@ accentuate s. leggja áherslu á; setja áherslumerki yfir
 accentuation n. áhersla
 accept s. taka við; þiggja; samþykkja; sætta sig við
 acceptable l. ásættanlegur, aðgengilegur; geðþekkur
-acceptableness n. atgætileiki, ásættanleiki
+acceptableness n. ásættanleiki, atgætileiki
 acceptance n. móttaka, viðtaka; samþykking (víxils); samþykktur víxill; [without ~ of persons] án manngreinarálits
 acceptation n. samþykki; merking
 accepter n. viðtökumaður, þiggjandi
