@@ -1947,7 +1947,7 @@ self-critical l. sjálfsgagnrýnandi, gagnrýnn á sjálfan sig
 self-government n. sjálfstjórn; sjálfstjórnarvald
 minefield n. jarðsprengjusvæði
 relaxing l. afslappandi
-implausibility n. ósennileiki
+implausibility n. ósennileiki, ótrúverðugleiki
 afterword n. eftirmáli
 theocrat n. klerkastjórnarsinni, guðstjórnarsinni (sjá %[theocracy]%)
 theocratic l. klerkastjórnarlegur, klerkastjórnar-
@@ -5769,7 +5769,7 @@ stock market n. hlutabréfamarkaður, verðbréfamarkaður, kauphöll
 upstate l. norðar í fylkinu, í upphéröðum, nyrðra (BNA)
 Iliad n. Ilíonskviða ([the ~])
 odyssey n. ævintýraleiðangur, langur leiðangur
-Odyssey n. [the ~] Ódysseifskviða
+Odyssey n. Ódysseifskviða ([the ~])
 sparkling wine n. freyðivín
 sparkling water n. sódavatn, kolsýrt vatn
 thornbush n. þyrnirunni
@@ -11106,7 +11106,7 @@ criminalise s. sjá %[criminalize]%
 liegeman n. lénsmaður
 innumerableness n. óteljanleiki
 spitefulness n. meinsemi, illgirni, meinfýsni
-implausibly ao. ósennilega
+implausibly ao. ósennilega, ótrúverðuglega
 cerement n. sjá %[cerements]%
 schlong n. typpi, getnaðarlimur (óforml. BNA slangur, úr jiddísku)
 tapioca n. tapíókagrjón, tapíókamjöl (unnið úr mjólkurjurtinni kassava)
@@ -11608,3 +11608,9 @@ acridness n. sjá %[acridity]%
 herder n. hirðir
 theorizer n. kenningasmiður
 brainwave n. heilabylgja
+bothersome l. truflandi, ónáðandi
+Cistercian n. sistersíani (munkur), meðlimur sistersíanareglunnar; l. sistersíana-
+blowlamp n. blásturslampi, blússlampi, lóðlampi
+inkblot n. blekblettur
+potpourri n. samsuða, samsull, blanda
+aforestated l. áður staðhæfður, áður tilgreindur

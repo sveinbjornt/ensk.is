@@ -2164,8 +2164,8 @@ startling l. sem kemur e-m á óvart, óvæntur ([~ news])
 starvation n. sultur, hungur, hungurdauði; [to perish of ~] verða hungurmorða
 starve s. svelta; verða hungurmorða; láta deyja úr hungri
 starveling l. kyrkingslegur, horaður; n. afstyrmi, horgrind
-state n. ástand, ásigkomulag, staða; tign; viðhöfn; skraut; stétt; ríki; [lie in ~] liggja á líkpalli til sýnis; [the ~ of health] heilsufarið; [the ~ of the case] málavextir; [belief in a future ~] trú á annað líf; [~ secret] stjórnarleyndarmál; [~ prisoner] ríkisfangi; [~ carriage] viðhafnarvagn; s. skýra frá; segja ([I have ~d my opinion]); ákveða, tiltaka
-stated l. ákveðinn, fastur ([~ hours])
+state n. ástand, ásigkomulag, staða; tign; viðhöfn; skraut; stétt; ríki; [lie in ~] liggja á líkpalli til sýnis; [the ~ of health] heilsufarið; [the ~ of the case] málavextir; [belief in a future ~] trú á annað líf; [~ secret] stjórnarleyndarmál; [~ prisoner] ríkisfangi; [~ carriage] viðhafnarvagn; s. skýra frá; segja ([I have ~d my opinion]); ákveða, tiltaka, staðhæfa, tilgreina
+stated l. ákveðinn, fastur ([~ hours]); staðhæfður, tilgreindur
 state affair n. ríkismálefni
 statecraft n. stjórnkænska
 state criminal n. landráðamaður
