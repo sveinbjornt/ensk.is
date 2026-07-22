@@ -227,7 +227,7 @@ PTSD sks. á %[post-traumatic stress disorder]%
 post-traumatic stress disorder n. áfallastreituröskun (%[PTSD]%)
 download s. hala niður, hlaða niður; n. niðurhal
 metabolism n. efnaskipti
-nuke s. sprengja með kjarnorkuvopnum; n. kjarnorkuvopn (óforml.); sjá %[nuclear weapon]%
+nuke s. sprengja með kjarnorkuvopnum; n. kjarnorkuvopn (óforml., sjá %[nuclear weapon]%)
 hormone n. hormón, hormóni, vaki, kirtlavaki (boðefni sem fjölfruma lífvera framleiðir í kirtli og orka á ýmisleg lífsferli)
 lesbian n. lesbía, samkynhneigð kona; l. lesbískur
 homosexual l. samkynhneigður; n. samkynhneigður einstaklingur
@@ -3898,7 +3898,8 @@ astrodynamic l. geimbrautafræðilegur, geimbrauta-
 hellhound n. vítishundur, heljarhundur
 aneurysm n. æðahnútur, blóðæðabólga, slagæðargúlpur
 aneurysmal l. sem lýtur að æðahnútum
-metrology n. mælitækni
+metrology n. mælitækni, mælifræði
+metrologist n. mælifræðingur, mælitæknimaður
 antimony n. antímon (frumefnið Sb, 51 í lotukerfinu)
 chiropodist n. fótaaðgerðafræðingur
 podiatrist n. fótaaðgerðafræðingur
@@ -4736,7 +4737,7 @@ blackcurrant n. sólber
 cassis n. sólber; sólberjavín, sólberjalíkjör
 earplug n. eyrnatappi
 humourist n. sjá %[humorist]%
-cheddar n. cheddar-ostur (einnig ritað séddarostur)
+cheddar n. cheddar-ostur (einnig ritað séddarostur); peningar (óforml.)
 unwholesomeness n. óheilnæmni, óhollusta
 riverhead n. upptök ár
 seaport n. hafnarborg, sjávarhöfn, höfn við hafið, sjávarbær
@@ -6060,6 +6061,7 @@ butch l. (mjög) karlmannlegur í útliti eða hegðun (óforml.); n. karlmannle
 nutcracker n. hnetubrjótur
 earlobe n. eyrnasnepill
 gonad n. kynkyrtill
+gonadal l. kynkirtils-
 roughneck n. ruddi, groddi, rusti, þjösni; verkamaður
 redneck n. sveitadurgur, sveitalubbi, sveitavargur, durtur
 disarticulate s. aflima, stýfa
@@ -11599,18 +11601,38 @@ aloofly ao. fálætislega; í fjarska
 unacceptability n. óásættanleiki
 chiffon n. siffon (örþunnt fataefni)
 stressed l. stressaður; með áherslu
-unstressed l. óstressaður; áherslulaus ([an ~ syllabvle])
+unstressed l. óstressaður; áherslulaus ([an ~ syllable])
 fascia n. mælaborð
 Impressionism n. impressjónismi (stefna í málaralist)
 woodworker n. trésmiður
 puzzlement n. undrun
 acridness n. sjá %[acridity]%
-herder n. hirðir
+herder n. hirðir (dýra)
 theorizer n. kenningasmiður
 brainwave n. heilabylgja
-bothersome l. truflandi, ónáðandi
+bothersome l. truflandi, ónáðandi, vesens-
 Cistercian n. sistersíani (munkur), meðlimur sistersíanareglunnar; l. sistersíana-
 blowlamp n. blásturslampi, blússlampi, lóðlampi
 inkblot n. blekblettur
 potpourri n. samsuða, samsull, blanda
 aforestated l. áður staðhæfður, áður tilgreindur
+stomach ulcer n. magasár
+atomise s. sjá %[atomize]%
+vaporise s. sjá %[vaporize]%
+gasify s. breyta í gas, gasvæða
+aerify s. sjá %[vaporize]%
+trade show n. vörusýning
+Odyssean l. Ódysseifs-, er varðar Ódysseifskviðu; sem varðar langt og ævintýrasamt ferðalag
+rewarded l. verðlaunaður, umbunaður, endurgoldinn
+unrewarded l. óverðlaunaður, óumbunaður, óendurgoldinn
+incisiveness n. skarpleiki, hvassleiki
+aerate s. bæta lofti í, hleypa lofti í
+patently ao. bersýnilega, auðsæilega, augljóslega ([~ obvious])
+patterned l. mynstraður, sem einkennist af mynstrum
+chromophobia n. litaótti, ótti við liti
+brolly n. regnhlíf (óforml. breskt slangur)
+knackered l. þreyttur, útkeyrður, örmagna (óforml. breskt slangur)
+baloney n. pylsa; bull, kjaftæði (óforml.)
+oddball n. furðufugl, sérvitringur; l. sérvitur, furðulegur, einkennilegur
+dancewear n. dansföt
+feta n. fetaostur
