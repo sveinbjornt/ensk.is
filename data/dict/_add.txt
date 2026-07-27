@@ -1726,6 +1726,7 @@ condominium n. íbúðablokk; blokkaríbúð
 condo n. stytt. á %[condominium]%
 suppository n. stikkpilla; endaþarmsstíll
 praetor n. prætor (rómverskur embættismaður)
+praetorian l. sem lýtur að prætorum (rómverskum embættismönnum); n. lífvörður rómarkeisara ([~ guard])
 lictor n. liktor (rómverskur embættismaður)
 voltage n. rafspenna
 personnel n. starfslið, starfsfólk
@@ -2412,6 +2413,8 @@ chalkboard n. krítartafla, skólatafla
 Inuit n. Inúíti (frumbyggi Grænlands og nyrstu svæða Norður-Ameríku); l. inúískur
 orthopedia n. bæklunarlækningar
 orthopedic l. bæklunarlækninga-; n. bæklunarlæknir
+orthpaedist n. bæklunarlæknir
+orthopedist n. sjá %[orthpaedist]%
 businesspeople nft. viðskiptafólk, verslunarfólk, kaupsýslumenn
 weightlifter n. kraftlyftingamaður
 weightlifting n. kraftlyftingar
@@ -4148,7 +4151,7 @@ homogamy n. að allt sé af sama kyni; einsblóma; einserfðaæxlun; innrækt; j
 classicist n. fornfræðingur
 coda n. niðurlag, niðurlagskafli
 whistle-blower n. uppljóstrari; flautublásari, sá sem blæs flautu
-homonymic l. samhljóða, eins og annað orð í framburði
+homonymic l. samhljóða, eins og annað orð í framburði; einsheitis-
 homo n. (lat.) maður; ættkvísl manndýra (sbr. %[homo sapiens]%, hinn viti borni maður); hommi, samkynhneigður maður (niðrandi, stytt. á %[homosexual]%)
 homo- fsk. sam-, jafn-, eins- (sbr. %[homosexual]%, %[homogenous]%)
 homologous l. samsvarandi; eðlislíkur
@@ -11660,3 +11663,32 @@ debilitated l. veiklaður
 neoplasm n. æxli
 thriftlessness n. ósparneytni; eyðslusemi
 cappuccino n. froðukaffi
+eastbound l. á austurleið
+northbound l. á norðurleið
+southbound l. á suðurleið
+flagbearer n. fánaberi
+backcountry n. afdalasveit
+hardtack n. skonrok
+belowdecks ao. neðan þilfars
+trendsetter n. tískufrömuður
+spaz n. klaufi (niðrandi slangur)
+expunged l. strikaður út; afmáður
+disbar s. svipta réttindum; svipta (lögmann) málflutningsleyfi
+disbarred l. sviptur réttindum; sviptur málflutningsleyfi
+osteomyelitis n. bein- og mergbólga, beinsýking
+girly l. stelpulegur; pempíulegur
+ingenue n. sjá %[ingénue]%
+ingénue n. ung og saklaus stúlka (í leikriti)
+mononym n. einnefni
+protist n. frumvera
+horseplay n. ærslagangur, gauragangur, fíflagangur
+maidhood n. sjá %[maidenhood]%
+cor anglais n. enskt horn (blásturshljóðfæri)
+tympanic l. hljóðhimnu-; trommu-, trumbu-
+orthotic l. stoðtækja-
+orthotics n. stoðtækjasmíði
+orthotist n. stoðtækjafræðingur
+handoff n. afhending
+estranged l. fráhverfur, ósamlyndur
+sweetcorn n. sætur maís
+heedfulness n. gætni, varkárni
