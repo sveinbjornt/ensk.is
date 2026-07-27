@@ -1444,7 +1444,7 @@ musing l. hugsandi
 musk n. moskus; moskusdýr
 musky l. sem moskusþefur er af
 musket n. framhlaðningur, músketta (fornleg handbyssa)
-musketeer n. fótgönguliðsmaður vopnaður framhlaðningi (sjá %[musket]%)
+musketeer n. skytta, fótgönguliðsmaður vopnaður framhlaðningi (sjá %[musket]%)
 musketoon n. stutt byssa
 musket-range n. skotvídd
 musketry n. byssumenn; skot úr hyssum ([sound of ~])

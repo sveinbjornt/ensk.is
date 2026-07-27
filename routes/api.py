@@ -3,6 +3,8 @@ Ensk.is
 API routes
 """
 
+import logging
+
 from fastapi import APIRouter, Request
 
 from dict import CAT_TO_NAME, unpack_definition
@@ -147,6 +149,7 @@ async def api_grounding(request: Request, page_num: int) -> JSONResponse:
         try:
             GROUNDING_DATA = read_json("data/word2page_coords.json")
         except FileNotFoundError:
+            logging.warning("Grounding data file not found. Returning empty data.")
             GROUNDING_DATA = {}
 
     page_data = GROUNDING_DATA.get(str(page_num), [])

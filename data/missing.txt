@@ -1024,6 +1024,7 @@ intake
 recitative
 intentionalist
 endpoint
+onstage
 offstage
 factual
 animalization
@@ -1741,7 +1742,6 @@ pisspot
 bonhomie
 sleight-of-hand
 breeder
-gabardine
 hereinafter
 thereinafter
 nighttime
@@ -4333,7 +4333,6 @@ engorged
 gonna
 enchilada
 bioreactor
-fabricated
 bikeshedding
 Beatle
 incestuously
@@ -6684,3 +6683,16 @@ disbarred
 muttering
 goods
 expunged
+spaz
+shtick
+cosh
+ting
+trendsetter
+recorded
+adynamic
+oppositive
+scrubber
+horrified
+questioning
+relapsed
+gofer

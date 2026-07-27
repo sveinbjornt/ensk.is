@@ -3599,9 +3599,9 @@ despondency n. örvænting; hugleysi, hugarvíl
 mayhem n. glundroði, írafár, öngþveiti
 transcontinental l. sem fer eða liggur þvert yfir álfu eða meginland
 opioid n. ópíóíði, ópíumlyf
-islamophobia n. ótti við múslíma og/eða íslam, múslímahatur
-islamophobic l. sem óttast múslíma og/eða íslam, múslímahaturs-
-islamist n. íslamisti, bókstafstrúaður múslími, öfgamúslími
+Islamophobia n. ótti við múslíma og/eða íslam, múslímahatur
+Islamophobic l. sem óttast múslíma og/eða íslam, múslímahaturs-
+Islamist n. íslamisti, bókstafstrúaður múslími, öfgamúslími
 extraterritorial l. utansvæðis-, utan lögsögu
 cosmopolitanism n. heimsborgarahyggja (sjá %[cosmopolitan]%)
 subtitle n. undirtitill, undirfyrirsögn, aukafyrirsögn; skjátexti (í myndböndum)
@@ -11647,3 +11647,16 @@ levelheaded l. jafnlyndur, skynsamur, með góða dómgreind
 levelheadedly ao. jafnlyndislega
 levelheadedness n. jafnlyndi, skynsemi, góð dómgreind
 fabricated l. búinn til; uppspunninn; falsaður
+crackhead n. krakkfíkill
+pegleg n. staurfótur
+poo n. kúkur (óforml.)
+gabardine n. sjá %[gaberdine]%
+draftsperson n. sjá %[draftsman]%
+kahuna n. sérfræðingur (óforml., úr havaísku)
+supermodel n. ofurfyrirsæta, ofurmódel
+quayside n. hafnarbakki
+rota n. vaktaskipting; verkefnaskipting
+debilitated l. veiklaður
+neoplasm n. æxli
+thriftlessness n. ósparneytni; eyðslusemi
+cappuccino n. froðukaffi

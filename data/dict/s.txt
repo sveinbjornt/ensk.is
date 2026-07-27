@@ -3098,7 +3098,7 @@ syllabicate s. skipta í samstöfur, atkvæði
 syllabify s. skipta í samstöfur, atkvæði
 syllable n. atkvæði, samstafa
 syllabus n. efnisyfirlit, ágrip, útdráttur
-syllogism n. skynsemisályktun
+syllogism n. rökhenda; skynsemisályktun
 syllogistic l. sem lýtur að skynsemisályktunum
 syllogize s. gera ályktanir
 sylph n. loftandi, loftdís
