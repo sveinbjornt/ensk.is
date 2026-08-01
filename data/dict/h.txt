@@ -401,8 +401,8 @@ heliotropic l. sem snýst með sólu
 helix n. hvirfingur; snigill; ft. [helices]
 hell n. helvíti; víti
 hellish l. helvískur, djöfullegur
-Hellene n. Helleni, Grikki ([King of the ~s])
-Hellenic l. hellenskur, grískur; n. gríska
+Hellene n. Helleni, Grikki
+Hellenic l. hellenskur, grískur; n. gríska, grísk tunga
 hellenism n. grísk mállíking (í öðrum málum); grískustæling; grískumenning; grískt þjóðerni
 Hellenist n. grískufræðingur; grískumaður; grískutalandi Gyðingur
 Hellenistic l. síðgrískur; Gyðing-grískur
@@ -522,7 +522,7 @@ hiatus n. op; gap; samkoma tveggja hljóðstafa í tveimur samstöfum eða orðu
 hibernal l. vetrarlegur, vetrar-
 hibernate s. vera um vetur, hafa vetrarsetu; sofa vetrarsvefni, liggja í dái
 hibernation n. vetrarseta; dá
-Hibernian l. írskur; n. Íri
+Hibernian l. írskur; n. Íri, írskur maður
 Hibernism n. írskt einkenni eða málfæri
 Hibernicism n. írskt orðalag; írskt þjóðerni
 Hibernicize s. gera írskt
@@ -958,7 +958,7 @@ hunchback n. kroppinbakur
 hundred l. hundrað; n. hundrað
 hundredth l. hundraðasti
 hundredweight n. vætt (50,8 kíló)
-Hungarian l. ungverskur; n. Ungverji
+Hungarian l. ungverskur; n. Ungverji; ungverska (tungumál)
 Hungary n. Ungverjaland
 hunger n. hungur, sultur; s. hungra, vera hungraður; svelta e-n ([~ into madness, ~ out])
 hungrily ao. sultarlega, gráðuglega
@@ -1017,7 +1017,7 @@ hydatid n. sullur; ft. sullaveiki; l. sullaveiki- ([~ patient])
 hydra n. vatns- eða sjóskrímsli; vatns- eða sjóormur
 hydrate n. vatneldi (í efnafræði)
 hydraulic l. vatnsafls-, gerður með vatnsafli
-hydraulics nft. vatnsaflfræði
+hydraulics nft. vatnsaflsfræði; vökvakerfi
 hydrogen n. vetni (frumefnið H, 1 í lotukerfinu)
 hydromel n. hunangsvatn, mjöður
 hydrometer n. vatnsþungamælir

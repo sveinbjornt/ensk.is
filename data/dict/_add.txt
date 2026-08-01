@@ -1018,7 +1018,7 @@ electrolyte n. raflausn, rafvaki; rafvökvi
 electrolysis n. rafgreining, rafsundrun
 redhead n. rauðhærð manneskja
 redheaded l. rauðhærður
-pub n. knæpa, krá, ölstofa, bar, pöbb; stytt. á %[public house]%
+pub n. knæpa, krá, ölstofa, bar, pöbb (stytt. á %[public house]%)
 public house n. knæpa, krá, ölstofa, bar, pöbb
 LED n. ljósdíóða, ljóstvistur, ljóstvískaut (sks. á [light emitting diode])
 buddy n. félagi, lagsmaður, vinur
@@ -3553,7 +3553,7 @@ dishwasher n. uppþvottavél; uppvaskari (t.d. á veitingastað)
 dishwashing n. uppvask, uppþvottur
 schizophrenia n. geðklofi, kleyfhugasýki
 schizophrenic l. haldinn geðklofa, kleyfhuga; n. geðklofasjúklingur
-legalistic l. lagatæknilegur, lagabókstafs-
+legalistic l. lagabókstafs-, lagatæknilegur
 morphia n. morfín
 preternaturally ao. ónáttúrulega, handan náttúrunnar; óskiljanlega
 touchable l. snertanlegur
@@ -4656,7 +4656,7 @@ ambulate s. ganga (um)
 ambulation n. gangur (um)
 chyron n. borði með texta neðarlega í sjónvarpsfréttum
 tasseography n. sú list að lesa spádóma úr telaufum
-supersonic l. hljóðfrár, yfir hljóðhraða, sem fer með meiri hraða en hljóð
+supersonic l. hljóðfrár, yfir hljóðhraða, sem ferðast hraðar en hljóð
 hubris n. dramb, ofdramb, hroki
 hubristic l. dramblegur, hrokafullur
 campfire n. varðeldur
@@ -5965,6 +5965,7 @@ semiotics n. táknfræði
 semiotician n. táknfræðingur
 headband n. ennisband
 octet n. áttund; átta bita bæti
+sneaker n. strigaskór, íþróttaskór (stakur, sjá %[sneakers]%)
 sneakers nft. strigaskór, íþróttaskór
 Normandy n. Normandí (svæði í Norður-Frakklandi)
 phonics nft. hljóðlestur
@@ -6415,7 +6416,7 @@ unbound l. óbundinn, óheftur; óinnbundinn
 unifier n. sameinari, sá sem sameinar
 generously ao. rausnarlega, ríkulega, af örlæti
 Augustinian l. ágústínskur (munkur); n. ágústíni
-ineptness n. vanhæfni, óhæfni, hæfileikaskortur; heimska, flónska
+ineptness n. vanhæfni, vanfærni, óhæfni, hæfileikaskortur; heimska, flónska
 photojournalist n. fréttaljósmyndari
 quincentennial n. fimm hundruð ára afmæli
 philosophe n. heimspekingur (sérstaklega notað um franska heimspekinga upplýsingaaldar)
@@ -6460,7 +6461,7 @@ unquestioningly ao. án spurninga, gagnrýnislaust, án efa
 unquestioning l. spurningalaus, án spurninga, án gagnrýnis, án efa
 unquestioned l. sem ekki er spurt spurninga um, sem ekki er efast um
 acceptability n. ásættanleiki
-coronary l. krans-, kransæða-
+coronary l. krans-, kransæða-; n. hjartaáfall (óforml.)
 melanin n. melanín, sortuefni, sorta
 sarcophagi nft. steinkistur, líkkistur úr steini (ft. af %[sarcophagus]%)
 gratuitousness n. ástæðuleysi, tilefnisleysi, ófyrirsynja
@@ -6794,7 +6795,7 @@ cinematically ao. kvikmyndalega
 flashlight n. vasaljós
 dimensional l. víddar- (t.d. [three-~, two-~, inter~])
 bootlicker n. undirlægja, smjaðrari, höfðingjasleikja
-bootlicking n. undirlægjuháttur, smjaður
+bootlicking n. undirlægjuháttur, smjaður; l. smjaðrandi, höfðingjasleikju-
 cobblestone n. hellusteinn, götusteinn
 superpower n. stórveldi ([the United States is an economic ~]); ofurkraftar
 installment n. sjá %[instalment]%
@@ -9628,7 +9629,7 @@ unscramble s. afrugla, afbrengla
 unzip s. renna frá, opna rennilás; afþjappa (stafræna skrá)
 winkle n. fjörudoppa (sæsnigill); typpi (á barnamáli)
 telecast s. sjónvarpa; n. sjónvarpsútsending
-spoof s. skopstæla; gabba; n. gabb; skopstæling
+spoof s. skopstæla; gabba; n. skopstæling; gabb
 spoofed l. skopstæltur; gabbaður
 outstanding l. framúrskarandi ([an ~ performance]); útistandandi ([his ~ debts])
 grubby l. skítugur, óhreinn, subbulegur
@@ -9886,7 +9887,6 @@ maneuver n. sjá %[manoeuvre]%
 manoeuver n. sjá %[manoeuvre]%
 stovepipe n. ofnpípa; pípuhattur ([~ hat])
 investigatory l. rannsóknar- ([~ powers, committee])
-brolly n. regnhlíf (breskt, óforml.)
 episiotomy n. skapaskurður
 baking soda n. matarsódi
 hagfish n. slímáll (fisktegund)
@@ -10813,7 +10813,7 @@ sunbathe s. sóla sig, baða sig í sól, vera í sólbaði
 townhouse n. borgarhús, borgarsetur; raðhús
 evenhandedness n. jafnræði, óhlutdrægni, óvilhalli
 funding n. fjármögnun
-blogging n. bloggskrif, skrif í vefrit
+blogging n. bloggun, bloggskrif, skrif í vefrit
 crawler n. skriðill, vefskriðill ([web ~])
 likeminded l. eins þenkjandi, með svipaðan hugsunarhátt
 burka n. búrka (alklæði kvenna í heittrúuðum múslímalöndum)
@@ -11100,7 +11100,7 @@ hyperbolise s. sjá %[hyperbolize]%
 purulency n. sjá %[purulence]%
 wrothful l. sjá %[wrathful]%
 electric chair n. rafmagnsstóll
-osteal l. bein-
+osteal l. bein-, beina-
 salaciousness n. lostasemi
 ungregarious l. ófélagslyndur; ómannblendinn
 archeology n. sjá %[archaeology]%
@@ -11676,6 +11676,7 @@ expunged l. strikaður út; afmáður
 disbar s. svipta réttindum; svipta (lögmann) málflutningsleyfi
 disbarred l. sviptur réttindum; sviptur málflutningsleyfi
 osteomyelitis n. bein- og mergbólga, beinsýking
+osteitis n. beinbólga
 girly l. stelpulegur; pempíulegur
 ingenue n. sjá %[ingénue]%
 ingénue n. ung og saklaus stúlka (í leikriti)
@@ -11692,3 +11693,154 @@ handoff n. afhending
 estranged l. fráhverfur, ósamlyndur
 sweetcorn n. sætur maís
 heedfulness n. gætni, varkárni
+heedfully ao. gætilega, varkárlega
+martial arts nft. bardagaíþróttir
+cloaca n. gotrauf
+towline n. dráttarkaðall
+transferral n. flutningur, tilfærsla
+transmittable l. flytjanlegur; sendanlegur; smitanlegur ([~ disease])
+coding n. kóðun; forritun
+bullpen n. nautagirðing
+undisputed l. óumdeildur, óvéfengdur
+mythos n. mýta, goðsögn, goðsagnaheimur
+highschool n. sjá %[high school]%
+high school n. framhaldsskóli, gagnfræðaskóli, menntaskóli
+alienating l. firrandi; fælandi; fráhverfandi
+downslope ao. niður brekku
+jazzy l. djass-; líflegur, hress
+unintended l. óviljandi, ótilætlaður, án ásetnings ([~ consequences, effects])
+towboat n. dráttarbátur
+demigoddess n. hálfgyðja
+ordinariness n. venjuleiki, hversdagsleiki
+mutagenic l. stökkbreytandi
+prohibited l. bannaður
+normalcy n. eðlilegt ástand
+bankroll s. fjármagna; n. seðlabúnt
+foolproof l. pottþéttur, alveg öruggur
+sangfroid n. yfirvegun, kaldrifjun (úr frönsku)
+torch-bearer n. sjá %[torchbearer]%
+challenger n. áskorandi
+Bohemia n. Bæheimur (vesturhluti Tékklands)
+Bohemian l. bæheimskur; bóhem
+methylation n. metýlun
+tomography n. sneiðmyndun, sneiðmyndataka, sneiðmyndagerð
+tomographic l. sneiðmynda-
+unvirtuous l. dyggðasnauður, ódyggðugur
+mingy l. nískur, nirfilslegur, nánasarlegur
+capitulum n. kollur (á plöntu eða dýri)
+endogenic l. sjá %[endogenous]%
+showroom n. sýningarsalur
+withering l. visnandi, skrælnandi; fölnandi ([~ flowers])
+wantonly ao. af gáleysi; gáskalega, galgopalega
+sensibly ao. skynsamlega
+genuflect s. knékrjúpa
+situate s. staðsetja, koma fyrir
+boneyard n. grafreitur, kirkjugarður (óforml.)
+nightshirt n. náttserkur, náttskyrta
+brainiac n. gáfnaljós, gáfumaður (óforml.)
+legwork n. fótavinna; grunnvinna
+hairstyle n. hárgreiðsla
+chitchat n. sjá %[chit-chat]%
+pricey l. dýr, kostnaðarsamur
+undefended l. óvarinn
+spoilation n. sjá %[spoliation]%
+excreta n. sjá %[excrement]%
+sanctimoniousness n. sjá %[sanctimony]%
+chirography n. ritlist
+fossilist n. steingervingafræðingur
+sarcoid l. holdlíkur
+stifled l. kæfður, niðurbældur
+infeasibility n. óframkvæmileiki
+immurement n. fangelsun; það að byrgja eða múra inni
+suppressed l. niðurbældur, niðurkæfður; þaggaður; stilltur, sefaður
+scalawag n. sjá %[scallywag]%
+scallywag n. þorpari, hundingi; prakkari, hrekkjalómur, óþekktarormur (óforml.)
+submerse s. sjá %[submerge]%
+borecole n. grænkál
+infrequently ao. sjaldan
+ofttimes ao. sjá %[oftentimes]%
+viciously ao. hrottalega, grimmilega ([he was ~ beaten and robbed])
+ma n. mamma (óforml.)
+octette n. sjá %[octet]%
+gearshift n. gírskipting; gírstöng
+gearstick n. gírstöng
+cistron n. sistrón
+Lady n. lafði (titill)
+Lord n. lávarður (titill)
+gamp n. regnhlíf (breskt slangur, forn.)
+tradcath n. íhaldssamur kaþólskur maður (slangur, stytt. á [traditional Catholic])
+maltreated l. sem illa hefur verið farið með, sem sætt hefur illri meðferð, illa leikinn
+holographic l. heilmynda-, almyndar-
+nationwide l. þjóðar-, allsherjar-, sem nær til þjóðarinnar allrar
+impermissible l. óleyfilegur, ekki leyfður
+china n. postulín
+hissy fit n. gremjukast, reiðiskast
+hissy n. sjá %[tantrum]%
+cock-up n. klúður, mistök (óforml. breskt slangur)
+responsibly ao. á ábyrgan hátt
+downturn n. niðursveifla; samdráttur ([economic ~])
+oilseed n. olíufræ
+shoehorn n. skóhorn; s. troða inn (óforml.)
+unaffordable l. óviðráðanlega dýrt, sem maður hefur ekki efni á
+arriviste n. uppskafningur, framapotari
+highlander n. hálendingur
+lowlander n. láglendingur
+upsurge n. uppgangur; aukning
+waterfowl n. vatnafugl, sundfugl
+instinctual l. eðlishvatar-
+latecomer n. seinkominn (maður, gestur)
+hotspot n. heitur reitur; átakasvæði; svæði með þráðlausu neti
+moralism n. siðun; siðbótastefna; áhersla á siðleg málefni
+egomaniac n. mjög sjálfselskur eða sjálfhverfur maður
+trench foot n. fótmeyra
+nonstop l. stanslaus, linnulaus, viðstöðulaus; ao. stanslaust, linnulaust, viðstöðulaust
+tater n. kartafla, jarðepli (slangur)
+hedgerow n. limgerði
+doorstep n. dyraþrep
+campsite n. tjaldstæði, tjaldsvæði
+yucky l. ógeðslegur
+yuck uh. oj! ojbara!
+yum uh. namm!
+schmalz n. (óhófleg) væmni
+schmalzy l. (óhóflega) væminn
+shamefacedly ao. skömmustulega, blygðunarsamlega
+mercifully ao. miskunnsamlega
+bog roll n. klósettrúlla (óforml. breskt slangur)
+malaise n. lasleiki, vanlíðan; veikleiki, veila
+toucan n. piparfugl, túkan (fugl)
+mouselike l. músarlegur, eins og mús
+mousey l. músarlegur
+hedge fund n. áhættusjóður
+mutual fund n. verðbréfasjóður
+malleus n. hamar
+neuroplasm n. taugafrymi
+lily-livered l. huglaus, kjarklaus, ragur
+guts nft. innyfli
+gutsy l. hugrakkur, hugdjarfur, hugaður, kjarkmikill
+ballsy l. hugrakkur, kjarkmikill, hugdjarfur
+aerobic l. þolfimi-, leikfimi-
+aerobics nft. þolfimi, þolfimiæfingar, leikfimiæfingar
+prom n. skóladansleikur (BNA); hljómleikar
+granola n. granóla (haframjöl blandað ávöxtum og hnetum)
+floodlight n. flóðljós
+pie-eyed l. drukkinn, ölvaður, fullur
+biannual l. tvisvar á ári, á hálfs árs fresti, hálfsárslegur
+igniter n. kveikir, kveikjari
+ignitor n. sjá %[igniter]%
+upraised l. upphækkaður (forn.)
+tollgatherer n. tollheimtumaður
+glitz n. glys, glitur, ljómi, glampi
+randy l. graður; grófur
+randiness n. gredda
+blotchy l. blettóttur, flekkóttur
+emeritus l. emerítus, á eftirlaunum, hættur störfum (úr latínu, t.d. [professor emeritus])
+pleased l. ánægður; glaður; feginn
+tort n. bótaskylt afbrot
+tort law n. skaðabótaréttur
+skewed l. skekktur, skakkur
+guildsman n. gildismaður, gildisbróðir (sjá %[guild]%)
+legalist n. lagabókstafsmaður
+legalism n. lagabókstafsstefna
+remake s. endurgera; n. endurgerð ([~ of an older film])
+accolade n. lof, hrós
+rand n. rand (gjaldmiðill Suður-Afríku)

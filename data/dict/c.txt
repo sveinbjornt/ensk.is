@@ -445,7 +445,7 @@ caw s. krunka; n. krunk
 cay n. sandrif, kóralrif
 cayman n. krókódílstegund
 cease s. hætta; hætta við (e-ð [from]); [~ to appear] hætta að koma út; [~ playing] hætta að spila; [~ fire, firing] hætta skothríðinni; n. hlé, hvíld ([without a moment's ~])
-ceaseless l. sífelldur, viðstöðulaus, látlaus ([~ toil])
+ceaseless l. sífelldur, viðstöðulaus, látlaus, linnulaus ([~ toil])
 cecity n. blinda
 cedar n. sedrusviður, sedrustré
 cede s. láta af hendi, sleppa e-u við e-n
@@ -554,7 +554,7 @@ chalice n. kaleikur
 chalk n. krít; s. kríta
 chalky l. krítkenndur; hvítur sem krít
 challenge n. áskorun (til einvígis); kviðruðning; s. skora á; bjóða til einvígis; véfengja; krefjast, heimta ([~ attention])
-challengeable l. sem má véfengja
+challengeable l. sem má véfengja; sem má skora á
 chalybeate l. járnkynjaður, járnblandinn
 chamber n. (svefn)herbergi; þingdeild, málstofa; [~ counsel] lögfræðilegur ráðunautur
 chamberlain n. herbergjastjóri konungs
@@ -737,8 +737,8 @@ chimneypiece n. arinhilla
 chimneysweeper n. sótari
 chimpanzee n. simpansi (apategund frá Afríku)
 chin n. haka
-China n. Kína; postulín
-Chinaman n. Kínverji
+China n. Kína
+Chinaman n. Kínverji (forn.)
 chinch n. veggjalús
 chine n. hryggur af skepnu (með kjötinu á); hryggur, brún (á fjalli); lögg (á tunnu); s. höggva hrygginn, í stykki
 Chinese l. kínverskur; n. Kínverji; kínverska

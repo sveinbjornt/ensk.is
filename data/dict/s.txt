@@ -1899,7 +1899,7 @@ spirit n. andi, andleg vera; sál; svipur, vofa; hugur; fjör; lífsmagn; vínan
 spirited l. fjörugur, fjörlegur; hugaður, djarfur
 spiritism n. andatrú (sú trú að menn geti haft mök við framliðnar sálir)
 spiritist n. andatrúarmaður
-spiritless l. huglaus; fjörlaus
+spiritless l. huglaus; andlaus; fjörlaus
 spiritual l. andlegur, ólíkamlegur; kennimannlegur; kirkjulegur
 spiritualism n. andatrú
 spiritualist n. andatrúarmaður
@@ -3016,7 +3016,7 @@ sweat n. sviti; [by/in the sweat of one's brow] í svita síns andlitis; s. svit
 sweaty l. sveittur; örðugur, fyrirhafnarmikill
 Swede n. Svíi
 Sweden n. Svíþjóð
-Swedish l. sænskur; n. sænska
+Swedish l. sænskur; n. sænska, sænsk tunga
 sweep s. sópa, hreinsa ([~ a floor, chimney]); sópa burtu ([~ away, off]); strjúkast yfir, sópa að endilöngu; strjúka ([~ the hair from her forehead]); geysast, þjóta ([she swept out of the room]); [the land ~s away to the east] liggur langt í austur; [~ the board] ryðja borðið; [~ down upon] steypa sér niður yfir eða á e-ð (um ránfugla); [~ for] kraka (leita) eftir e-u; [~ up] sópa ([~ up the room]); n. sópun; burtsópun; kast, sveifla; eyðing; yfirferð; bugur, bugða; brunnvippa; götusópari ([street ~er]); sótari ([chimney ~])
 sweeper n. sópari; sótari ([chimney ~])
 sweeping l. yfirgripsmikill
