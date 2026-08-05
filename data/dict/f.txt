@@ -492,7 +492,7 @@ firework n. flugeldar
 fireworship n. eldsdýrkun
 firing n. kveiking; skot; skothríð; eldsneyti; brennsla (sára)
 firkin n. kvartil
-firm l. fastur ([to stand ~]); þéttur; staðfastur; n. fyrirtæki, verslunarhús, firma; s. festa, gera fastan; þétta, þjappa saman
+firm l. fastur ([to stand ~]); þéttur; staðfastur; einarður; n. fyrirtæki, verslunarhús, firma; s. festa, gera fastan; þétta, þjappa saman
 firmament n. himinfesting
 firmness n. þéttleiki, harka; festa, staðfesta, fastlyndi
 first l. fyrstur, fremstur; ao. fyrst; [at ~] í fyrstu; [at ~ sight/view] í fljótu bragði; [from the ~] frá upphafi; n. fyrsta rödd; [~ of exchange] primavíxill; [~ cost] innkaupsverð
@@ -739,8 +739,8 @@ flunkyism n. sjá %[flunkeyism]%
 flurry n. gustur, gola; flaustur, óðagot, asi; s. trufla, rugla
 flush s. streyma, fossa, buna; blossa, ljóma; roðna snögglega ([~ red, ~ up]); láta roðna; gera rjóðan; gera hreykinn; skola; fæla upp (fugl); n. ofsi, hviða; roði (í andliti); blossi; blómi ([in the ~ of life]); l. blómlegur ([~ times]); kröftugur; birgur; nægur; örlátur (á [of]); jafn, jafnhár ([~ with the street]); [~ deck] flatt (jafnhátt) þilfar
 fluster s. gera heitan og rjóðan (af drykk); rugla, æsa; vera æstur; n. hiti; æsing; ruglingur
-flute n. flauta, þverflauta, hljóðpípa; skora (á súlu); s. blása á hljóðpípu; gera langskorur á súlur
-flutist n. hljóðpípuleikari
+flute n. flauta, þverflauta, hljóðpípa; skora (á súlu); s. spila á flautu, blása á hljóðpípu; gera langskorur á súlur
+flutist n. flautuleikari, hljóðpípuleikari
 flutter s. flögra, flökta, blakta; baða vængjum; slá ótt og óreglulega (um hjartað); skjálfa, titra (af geðshræringu); láta blakta; trufla; n. blakt; órói, hræðsla
 fluvial l. sem lýtur að ám, ár-
 flux n. flóð; aðfall ([~ and reflux]); straumur, rennsli; [bloody ~] blóðsótt, blóðkreppa; s. bræða

@@ -848,8 +848,7 @@ ambassador n. sendiherra
 ambassadorial l. sendiherralegur, sendiherra-
 amber n. raf; gulbrúnn litur; l. gulbrúnn
 ambergris n. hvalambur, ilmkvoða
-ambidexter l. jafnvígur á báðar hendur; óhreinlyndur
-ambidextrous l. jafnvígur á báðar hendur; óhreinlyndur
+ambidexter l. sjá %[ambidextrous]%
 ambient l. umlykjandi
 ambiguity n. margræðni; tvíræðni; margræð eða tvíræð merking
 ambiguous l. margræður; tvíræður; efasamur, óljós

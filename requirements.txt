@@ -6,5 +6,5 @@ sqlite-utils==3.39
 aiofiles==25.1.0
 orjson==3.11.9
 cachetools==7.1.4
-nltk==3.9.4
+nltk==3.10.0
 lxml==6.1.1

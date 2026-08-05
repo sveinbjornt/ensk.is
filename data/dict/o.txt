@@ -316,9 +316,9 @@ opposer n. mótstöðumaður
 opposite l. mótsettur; andstæður, gagnstæður, andspænis; n. mótsetning; gagnstæði
 opposition n. mótsetning; mótstaða, mótmæli; mótstöðuflokkur ([the leader of the ~]); andstæðingar
 oppress s. bæla niður, undiroka, kúga; þjá, þjaka; [~ the stomach] ofbjóða maganum
-oppression n. undirokun; ánauð, áþján, kúgun; þrýsting
-oppressive l. þjakandi, harðstjórnarlegur; þungur, þungbær
-oppressor n. kúgari
+oppression n. undirokun, ánauð, áþján, kúgun
+oppressive l. þjakandi, harðstjórnarlegur, undirokandi; þungur, þungbær
+oppressor n. kúgari, harðstjóri
 opprobrious l. svívirðilegur, skammarlegur; [~ words, language] skammaryrði, skammir
 opprobrium n. smán, skömm, minnkun, svívirðing
 oppugn s. ráðast á (með rökum); standa á móti
@@ -594,8 +594,8 @@ overdue l. fyrir löngu fallinn í gjalddaga; of seinn (t.d. um skip)
 overeat s. éta yfir sig
 overfall n. straumiða, straumbrot
 overfeed s. fóðra of vel
-overflow s. fljóta (flóa, flæða) yfir; n. flóð; gnægð
-overflowing l. yfirfljótanlegur; n. gnótt, gnægð
+overflow s. fljóta yfir, flóa yfir, flæða yfir; n. yfirflæði, flóð; gnægð
+overflowing l. yfirflæðandi; yfirfljótanlegur; n. gnótt, gnægð
 overfreight s. ofhlaða (skip)
 overgrow s. þekja með grasi; vaxa um of, vaxa úr sér; [overgrown sea] stórsjór
 overgrowth n. ofvöxtur

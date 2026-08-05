@@ -340,7 +340,7 @@ pasty n. skorpusteik með kjöti í; l. deigkenndur; fölleitur
 pat n. kleppur; fótatak ([~ of footsteps]); klapp; s. klappa; slá hægt ([~ one on the back]); trítla ([pat-pat]); l. hnyttilegur; ao. hnyttilega, vel, alveg ([it came ~ to the purpose]); á reiðum höndum
 patch n. bót, pjatla; blettur; [he is not a ~ on] kemst ekki í samjöfnuð við; s. bæta; [~ up] bæta, gera við, dubba upp; staga
 patchwork n. bótaklasi
-patchy l. bættur, með bótum
+patchy l. bættur, með bótum; gloppóttur; óreglulegur
 pate n. haus, kollur
 patella n. lítil skál; hnéskel
 paten n. patína, diskur
@@ -1324,7 +1324,7 @@ poignant l. beiskur, rammur (á bragð); sár (um sorg); bitur, napur ([~ sarcas
 poignantly ao. napurlega
 point n. oddur, broddur; oddi, annes, höfði; staður; punktur, depill; kompásstrik; grein, málefni, atriði; takmark; [gain (make) one's ~] ná tilgangi sínum, komast áleiðis; [give a ~ to] leggja áherslu á; [make it a ~ to, make a ~ of] gera sér far um; [keep to the ~] halda sér við efnið; [carry one's ~] fá sínu framgengt; [bad (good) ~s] ókostir (kostir); [in ~] hnyttilegur; [an example in ~] dæmi, sem við á; [~ of view] álit, sjónarmið, [in ~ of] með tilliti til; [be on the ~ of] vera kominn á fremsta hlunn með að; [at the ~ of death] í andarslitrunum; [when it came to the ~] þegar á átti að herða; [to the ~] viðeigandi; hnyttilegur; s. ydda, setja odd á; hvessa; stefna, miða á; benda; setja greinarmerki á; leggja áherslu á, taka fram; fylla í sprungur (í múrvegg); [~ out] vísa á; gefa í skyn, láta skilja
 point blank l. þráðbeinn; ao. beint; blátt áfram
-pointed l. oddhvass; [a ~ rebuke] harðar ákúrur (átölur)
+pointed l. oddhvass; [a ~ rebuke] harðar ákúrur, harðar átölur
 pointedly ao. nákvæmlega, vandlega; napurlega; hnyttilega ([say a thing ~]); [~ to the hour] stundvíslega
 pointer n. vísir (á klukku); fuglahundur
 pointless l. tilgangslaus; oddlaus; sljór; kraftlaus, merglaus
@@ -1379,7 +1379,7 @@ polling-book n. kjörbók
 polling-day n. kjördagur
 poll tax n. nefskattur
 pollack n. ufsi, lýr
-pollard n. kollótt skepna, (naut, kind); tré, sem toppurinn er höggvinn af; s. höggva greinar af tré
+pollard n. kollótt skepna, (naut, kind); tré, sem toppurinn er höggvinn af; s. höggva greinar af tré, stýfa tré
 pollen n. frjó, frjókorn, plöntufrjóduft
 pollute s. menga, óhreinka, spilla, saurga, ata
 pollution n. mengun, óhreinkun, saurgun, ötun
@@ -1437,7 +1437,7 @@ pony l. lítill hestur
 poodle n. loðhundur
 pooh uh. svei!
 pool n. pollur; hylur (í á); sundlaug ([swimming ~]); spilapeningsskál
-poop n. kúkur; skutpallur, skutur; s. kúka; skella yfir skut skipsins (um bylgjur); fá sjó yfir skutinn
+poop n. kúkur; skutpallur, skutur ([~ deck]); s. kúka; skella yfir skut skipsins (um bylgjur); fá sjó yfir skutinn
 poor l. fátækur, snauður, armur; vesæll, aumur; vesalings-, aumingja- ([the ~ child]); magur, rýr ([the crop was ~]); ófrjór; [the ~] fátæklingarnir; sveitarómagar
 poor law n. fátækralöggjöf
 poorly l. vesæll, lasinn; ao. fátæklega; vesællega, illa

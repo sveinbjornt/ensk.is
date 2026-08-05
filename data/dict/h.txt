@@ -426,7 +426,7 @@ hemisphere n. hálfhnöttur; hnatthelmingur
 hemispherical l. hálfkúlumyndaður
 hemistich n. hálft erindi, hálf ljóðlína
 hemlock n. eitraður drykkur; eitruð jurt, óðjurt
-hemorrhage n. blóðrás, mikill blóðmissir
+hemorrhage n. sjá %[haemorrhage]%
 hemorrhoids nft. gyllinæð
 hemp n. hampur; hampjurt (kannabis)
 hempen l. úr hampi, hamp- ([~ cord])
@@ -485,23 +485,22 @@ heritance n. arfur
 hermaphrodite l. tvíkynjaður; tvítóla; n. tvíkynja vera
 hermeneutics nft. túlkunarfræði, ritskýringarlist ([Biblical ~])
 hermetic l. loftþéttur; [~ art, philosophy, science] gullgerðarlist
-hermit n. einsetumaður
-hermitage n. einsetustaður, einsetumannabústaður
+hermit n. einsetumaður, einbúi
+hermitage n. einsetustaður, einsetumannabústaður, einbúasetur
 hermitess n. einsetukona
-hermetical l. einsetumanns-
-hern n. hegri (fugl), sjá %[heron]%
+hermetical l. einsetumanns-, einbúa-
+hern n. hegri (fugl, sjá %[heron]%)
 hernia n. kviðslit
-hero n. hetja, kappi; söguhetja; hálfguð
+hero n. hetja, kappi; söguhetja
 heroic l. hetjulegur, hetju-
-heroine n. (kven)hetja
-heroin n. heróín (sterkt morfínlyf)
+heroine n. kvenhetja, hetja (sem er kvenkyns)
 heroism n. hetjuhugur, hetjudómur
 heron n. hegri
 heronry n. hreiðursstaður hegrans
 herring n. síld; [red ~] reykt síld
 hers fn. hennar
 herself fn. hún sjálf; í (sjálfa) sig, (sjálfri) sér
-hesitate s. hika, vera óráðinn (á báðum áttum); stama, reka í þúfurnar; segja e-ð hikandi
+hesitate s. hika, vera óráðinn, vera á báðum áttum; stama, reka í þúfurnar; segja e-ð hikandi
 hesitation n. hik, efablendni; stam; [I have no ~ in saying] ég hika ekki við að segja
 hesitative l. hikandi
 Hesper n. kvöldstjarnan
@@ -515,7 +514,7 @@ hexagon n. sexhyrningur
 hexagonal l. sexhyrndur
 hexameter n. sexfættur bragarháttur
 hexangular l. sexhyrndur
-hexapod n. sexfætt dýr, sexfætla
+hexapod n. sexfætla, sexfætt dýr
 hey uh. hey! hæ! (gleðióp)
 heyday n. blómi ([~ of youth, of life]); ofsakæti (forn.)
 hiatus n. op; gap; samkoma tveggja hljóðstafa í tveimur samstöfum eða orðum
@@ -539,25 +538,25 @@ hierarchical l. stigveldis-, klerkaveldis-
 hierarchy n. stigveldi; klerkastjórn; klerkaveldi, helgivald
 hieratic l. klerklegur, prestlegur, presta-
 hierocracy n. prestaveldi
-hieroglyph n. egypskt myndletur, helgirúnir; leyniletur; s. rita með helgirúnum
+hieroglyph n. egypskt myndletur, híeróglýfa; helgirúnir; táknmynd, táknrún; leyniletur, leynirún; s. rita með helgirúnum
 hieroglyphic l. ritaður helgirúnum ([~ writing]); líkingarfullur
 hieroglyphical l. helgirúna-; torskilinn
-hieroglyphs nft. helgirúnir; táknmyndir, táknrúnir; leynirúnir
+hieroglyphs nft. egypskt myndletur, híeróglýfur; helgirúnir; táknmyndir, táknrúnir; leynirúnir
 hierology n. helgifræði, trúfræði
 hierophant n. yfirprestur hjá Forn-Grikkjum, forngrískur (æðsti)prestur; sá sem túlkar heilaga leyndardóma
 higgle s. fara um og selja; prútta (um verð)
 higgledy-piggledy ao. reglulaust, á ringulreið; hver um annan þveran ([to lie ~]); l. ruglingslegur, reglulaus
 higgler n. mangari; prúttari (sjá %[haggler]%)
 high l. hár; göfugur, háleitur; mikill; ákafur (um vind og ástríður); háfleygur; í vímu ([he was high as a kite]); [the vessel is ~ and dry] skipið liggur uppi á þurru landi; [it is ~ time to] það er mál til komið að; [the sun was ~] sólin var hátt á lofti; [to hold ~] hafa í miklum metum; [to live ~] lifa dýrðlega; [the sea runs ~] það er mikill sjógangur; [on ~] hátt uppi, á himnum; [from on ~] að ofan, frá himnum; ao. hátt; [~ up] hátt uppi; [~ and low] hátt og lágt
-highborn l. af háum stigum, tiginn
+highborn l. háborinn, af háum stigum, tiginn
 highbred l. vel menntaður; tiginmannlegur
 high day n. hátíðisdagur
 highflown l. íburðarmikill, háfleygur
 highflying l. háfleygur
 high-handed l. gerræðislegur; ráðríkur
 high-heeled l. háhælaður
-highland n. hálendi; [the Highlands of Scotland] Hálöndin í Skotlandi
-Highlander n. hálendingur; Háskoti
+highland n. hálendi; [the Highlands of Scotland] hálöndin í Skotlandi
+Highlander n. Háskoti; hálendingur
 highlife n. lifnaðarháttur tiginna manna og auðmanna
 high-lows nft. hálfstígvél
 highly ao. mjög; lofsamlega ([to speak ~ of])
@@ -575,12 +574,12 @@ high-water n. háflóð, háflæður; [at ~] um háflóð
 highway n. þjóðvegur
 highwayman n. stigamaður
 high-wrought l. mjög vandaður
-hilarious l. glaður, kátur; afskaplega fyndinn, drepfyndinn, sprenghlægilegur
-hilarity n. glaðværð, kæti; mikil fyndni
-hill n. hæð; [down ~] niður í móti; [up ~] upp í móti
+hilarious l. afskaplega fyndinn, drepfyndinn, sprenghlægilegur; glaður, kátur (forn.)
+hilarity n. mikil fyndni; glaðværð, kæti
+hill n. hæð, hóll; [down ~] niður í móti; [up ~] upp í móti
 hillock n. hóll
 hilly l. hæðóttur, hólóttur
-hilt n. meðalkafli á sverði
+hilt n. meðalkafli á sverði, handfang á sverði; [to the ~] alveg í botn, algerlega
 him fn. hann, honum
 himself n. (hann) sjálfur; (sjálfan) sig
 hind calf n. hindarkálfur
@@ -590,7 +589,8 @@ hinder- fsk. aftur- (sjá t.d. %[hindermost]%)
 hindermost l. aftastur
 hindmost l. aftastur
 hinder s. hindra, aftra ([~ a person from/in doing something]); afstýra
-hindrance n. hindrun, tálmi; ft. [~s] frátafir
+hindrance n. hindrun, tálmi
+hindrances nft. frátafir
 Hindu n. hindúi, hindúatrúarmaður; l. hindúískur
 Hinduism n. hindúatrú
 hinge n. hjara, löm; aðalatriði; [off the ~s] af hjörunum; s. setja (hjörur) á; beygja ([~ the knee]); [~ on] hanga á; vera kominn undir e-u
@@ -600,7 +600,7 @@ hip-hip s. kalla heyr! heyr!
 hip n. mjöðm, lend; l. hipp, svalur, í tísku; uh. heyr! ([~, ~, hurray!]); s. gera þunglyndan
 hip-bone n. mjaðmarbein
 hip gout n. mjaðmagigt
-hipped l. mjaðmamikill ([large-~]); sneiddur (um þak)
+hipped l. sneiddur (um þak); með mjaðmir, er varðar mjaðmir, mjaðma-, ([large-~, small-~, o.s.frv.])
 hip roof n. gaflþak, sneitt þak
 hip-roofed l. með gaflþaki ([~ house])
 hipshot l. mjaðmhaltur; sligaður

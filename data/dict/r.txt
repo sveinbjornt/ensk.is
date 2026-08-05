@@ -10,8 +10,8 @@ rabies n. hundaæði
 raccoon n. þvottabjörn
 race n. kyn, ætt ([of noble ~]); kynflokkur, kynþáttur ([the Mongolian ~, the human ~]); hröð ferð, skeið; kapphlaup ([foot~]); kappreið ([horse~]); kappróður, kappsigling ([boat ~]); stríður straumur, röst (í sjó); [run a ~] þreyta kapphlaup, reyna sig á hlaupi; [my ~ is run] æviskeið mitt er runnið; s. þreyta kapphlaup (kappreið, kappakstur, kappróður), reyna sig á hlaupi (á reið, róðri eða siglingu); reyna (hest) á hlaupi
 race boat n. kappróðrarbátur, kappsiglingabátur
-racecourse n. skeiðvöllur, kappakstursbraut
-raceground n. skeiðvöllur, kappakstursbraut
+racecourse n. skeiðvöllur; kappakstursbraut
+raceground n. skeiðvöllur; kappakstursbraut
 racehorse n. kappreiðarhestur
 race meeting n. kappreiðar
 racer n. kapphlaupamaður, kappreiðarmaður; kappreiðarhestur
@@ -653,7 +653,7 @@ relegate s. reka í útlegð, gera útlægan; vísa burt; fela (e-m e-ð) á hen
 relegation n. burtvísun; burtrekstur; það að fela (e-m e-ð) í hendur
 relent s. láta undan, vægja; mýkjast
 relentless l. harðbrjóstaður, miskunnarlaus ([~ criticism])
-relevancy n. þýðing
+relevancy n. sjá %[relevance]%
 relevant l. (málinu) viðkomandi ([arguments not ~ to the case]); samsvarandi (e-u [to])
 reliability n. áreiðanleiki
 reliable l. áreiðanlegur
@@ -1204,7 +1204,7 @@ right-angled l. rétthyrndur
 righten s. rétta, laga
 righteous l. réttlátur, réttvís
 righteousness n. réttvísi
-rightful l. réttur, löglegur; réttvís
+rightful l. réttur, löglegur, lögmætur; réttvís
 right-handed l. rétthendur; gerður með hægri hendinni ([a ~ blow]); gerður fyrir hægri höndina ([a ~ tool])
 rightless l. réttlaus
 rightly ao. réttilega, með réttu

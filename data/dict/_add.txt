@@ -6,7 +6,7 @@ dune n. sandhóll (sem myndast úr foksandi), sandalda, sandskafl
 microwave n. örbylgja; s. hita í örbylgjuofni
 microwave oven n. örbylgjuofn
 helicopter n. þyrla; [~ pilot] þyrluflugmaður
-computer n. tölva; reiknari, e-r sem reiknar (úrelt)
+computer n. tölva; reiknari, e-r sem reiknar (forn.)
 computer science n. tölvunarfræði
 computer scientist n. tölvunarfræðingur
 computing n. tölvun, tölvuvinnsla
@@ -36,7 +36,7 @@ sustainability n. sjálfbærni
 sustainable l. sjálfbær, sem hægt er að halda uppi, viðhaldanlegur
 unsustainability n. ósjálfbærni
 unsustainable l. ósjálfbær, ekki hægt að halda uppi, óviðhaldanlegur
-unemployment n. atvinnuleysi
+unemployment n. atvinnuleysi; atvinnuskortur
 username n. notandanafn
 video n. myndband, myndbandsupptaka
 wishlist n. óskalisti
@@ -78,8 +78,10 @@ e-mail n. tölvupóstur (stytt. á %[electronic mail]%)
 electronic mail n. tölvupóstur
 smartphone n. snjallsími
 telecommunication n. fjarskipti, fjarskiptatækni
+Nazi n. nasisti; l. nasista-
 nazi n. nasisti; l. nasista-
 nazism n. nasismi
+Nazism n. nasismi
 neo-nazi n. nýnasisti
 neo-nazism n. nýnasismi
 fascism n. fasismi
@@ -202,9 +204,11 @@ antibody n. mótefni
 brochure n. bæklingur
 respected l. virtur, sem nýtur virðingar
 python n. pýtonslanga (ættkvísl óeitraðra slangna sem finnst í Afríku og Asíu)
-Python n. forritunarmál
-publicly ao. opinberlega
+Python n. forritunarmálið Python
+publically ao. sjá %[publicly]%
+publicly ao. opinberlega, á opinberum vettvangi
 groundwater n. grunnvatn
+ear ring n. sjá %[earring]%
 earring n. eyrnalokkur
 anarchism n. stjórnleysisstefna, anarkismi (hugmyndafræði sem einkennist af andstöðu við yfirvald og höfnun á réttmæti þess)
 anarchistic l. stjórnleysis-, anarkískur (sjá %[anarchism]%)
@@ -765,7 +769,7 @@ Gabonese l. gabonskur; n. Gaboni
 Gambia n. Gambía
 Gambian l. gambískur; n. Gambi, Gambíumaður
 Georgia n. Georgía (ríki í Kákasusfjöllum); Georgía (fylki í Bandaríkjunum)
-Georgian l. georgískur (frá landinu Georgíu); georgískur (arkítektúr í Bretlandi á 18. öld og fyrri hluta 19. aldar, kennt við konunga þess tíma); n. Georgíumaður; georgíska
+Georgian l. georgískur (frá landinu Georgíu); georgískur (frá fylkinu í Bandaríkjunum); georgískur (arkítektúr í Bretlandi á 18. öld og fyrri hluta 19. aldar, kennt við konunga þess tíma); n. Georgíumaður; georgíska (tungumál)
 Germany n. Þýskaland
 Ghana n. Gana
 Ghanaian l. ganverskur; n. Ganverji
@@ -782,7 +786,7 @@ Haiti n. Haítí
 Honduras n. Hondúras
 Honduran l. hondúrskur; n. Hondúri
 Indonesia n. Indónesía
-Indonesian l. indónesískur; n. Indónesi; indónesíska
+Indonesian l. indónesískur; n. Indónesi; indónesíska (tungumál)
 Iran n. Íran
 Iraq n. Írak
 Iraqi l. írakskur, frá Írak; n. Íraki
@@ -826,14 +830,14 @@ Malawi n. Malaví
 Malawian l. malavískur; n. Malavi
 Malaysia n. Malasía
 Malaysian l. malasískur; n. Malasi
-Malay l. malasískur; n. Malasi; malasíska
-Malayan l. malasískur; n. Malasi; malasíska
+Malay l. malasískur; n. Malasi; malasíska (tungumál)
+Malayan l. malasískur; n. Malasi; malasíska (tungumál)
 Maldives nft. Maldíveyjar
 Maldivian l. maldívskur; n. Maldívi
 Mali n. Malí
 Malian l. malískur; n. Malímaður
 Malta n. Malta
-Maltese l. maltneskur, maltverskur; n. Maltverji, Möltumaður; maltneska
+Maltese l. maltneskur, maltverskur; n. Maltverji, Möltumaður; maltneska (tungumál)
 Marshall Islands nft. Marshalleyjar
 Martinique n. Martiník
 Mauritania n. Máritanía
@@ -866,7 +870,7 @@ Namibian l. namibískur; n. Namibíumaður
 Nauru n. Naúrú
 Nauruan l. naúrúskur; n. Naúrúi
 Nepal n. Nepal
-Nepalese l. nepalskur; n. Nepali; nepalska
+Nepalese l. nepalskur; n. Nepali; nepalska (tungumál)
 Nepali l. nepalskur; n. nepalska
 Netherlands nft. Niðurlönd(in) ([the ~])
 Netherlander n. Niðurlendingur, Hollendingur
@@ -881,6 +885,7 @@ Nigerian l. nígerískur, frá Nígeríu; n. Nígeríumaður, Nígeríubúi
 North Korea n. Norður-Kórea
 North Korean l. norðurkóreskur; n. Norður-Kóreumaður
 North Macedonia n. Norður-Makedónía
+North Macedonian l. norðurmakedónskur
 Oman n. Óman
 Pakistan n. Pakistan
 Pakistani l. pakistanskur; n. Pakistani
@@ -1063,7 +1068,7 @@ tipping point n. vendipunktur
 metric system n. metrakerfið
 zed n. bókstafurinn zeta (Z)
 seneschal n. ráðsmaður sem sér um eignir aðalsmanns (á miðöldum)
-awesome l. ægiþrunginn, ógnarlegur; æðislegur, magnaður, undursamlegur; uh. frábært! magnað!
+awesome l. ægiþrunginn, ógnarlegur; æðislegur, magnaður, undursamlegur; uh. frábært, magnað
 consortium n. samtök, hópur (fjárfesta); auðhringur
 memorabilia nft. minjagripir, minnisgripir, minningagripir, hlutir sem minna eiganda á fyrri upplifanir
 fluorine n. flúor (frumefnið F, 9 í lotukerfinu)
@@ -1297,20 +1302,20 @@ cosmological l. heimsfræðilegur, heimsmyndarfræðilegur
 ontology n. verufræði
 ontological l. verufræðilegur
 ontologically ao. verufræðilega
-ontologist n. verufræðingur
+ontologist n. verufræðingur (heimspekingur)
 metaphilosophy n. heimspeki heimspekinnar, heimspekileg skoðun á aðferðum heimspekinnar
 natural philosophy n. náttúruspeki, náttúruvísindi ([the ~ of Isaac Newton])
 natural philosopher n. náttúruspekingur, náttúruvísindamaður
-natural science n. náttúruvísindi
+natural science n. náttúruvísindi, náttúrufræði
 plankton n. svif, svifdýr
-alga n. sjá %[algae]%
-algae nft. þörungar (et. %[alga]%)
+alga n. þörungur (fyrir ft. sjá %[algae]%)
+algae nft. þörungar (fyrir et. %[alga]%)
 theogony n. goðakyn, tilurð goðanna
 sociopath n. siðblindingi, siðblind manneskja
 sociopathic l. siðblindur
 sociopathy n. siðblinda
-psychopath n. brjálæðingur, snarbrjálaður (siðblindur) geðsjúklingur
-psychopathic l. (snar)brjálaður
+psychopath n. brjálæðingur, snarbrjálaður maður, siðblindur geðsjúklingur
+psychopathic l. snarbrjálaður, brjálaður, siðblindur
 psychopathy n. sturlun, brjálæði, siðblinda
 kleptomaniac n. stelsjúk manneskja (sjá %[kleptomania]%)
 crap n. skítur, kúkur; drasl; rugl, kjaftæði; l. lélegur, ömurlegur; s. skíta, kúka; uh. andskotans!
@@ -2092,7 +2097,7 @@ weather-beaten l. veðurbarinn
 anthropogenic l. manngerður, mannmótaður, af manna völdum
 fertilizer n. áburður
 fertiliser n. sjá %[fertilizer]%
-ecosystem n. vistkerfi, umhverfiskerfi
+ecosystem n. vistkerfi
 spaceflight n. geimflug
 battleground n. vígvöllur
 Anglophone l. enskumælandi; n. e-r sem er enskumælandi
@@ -3973,7 +3978,7 @@ heritability n. arfgengi
 catatonic l. stjarfur
 erogenous l. kynnæmur
 serology n. blóðvatnsfræði, sermifræði
-haemorrhage n. blæðing; [brain ~] heilablæðing
+haemorrhage n. blæðing; mikill blóðmissir; [brain ~] heilablæðing
 haemorrhagic l. blæðingar-
 semicircle n. hálfhringur
 bacillus n. stafgerill, stafbaktería (örvera)
@@ -5254,7 +5259,7 @@ air defence n. loftvarnir
 chemotherapy n. efnameðferð, lyfjameðferð
 angiogenesis n. æðamyndun
 angiogenic l. æðamyndandi
-nerve-wracking l. stressandi, kvíðavaldandi, taugaveiklandi
+nerve-wracking l. taugastrekkjandi, stressandi, kvíðavaldandi, taugaveiklandi
 nerve-racking l. sjá %[nerve-wracking]%
 untidiness n. skortur á umhirðu, umhirðuleysi, sóðaskapur, óþrifnaður
 countlessly ao. ótal, óteljandi
@@ -5807,7 +5812,7 @@ driveway n. innkeyrsla; heimreið
 rooftop n. húsþak, þak
 NDA n. trúnaðarsamningur (sks. á [non-disclosure agreement])
 Scouse n. Liverpool-enska, Liverpool-hreimur
-Liverpudlian l. frá Liverpool; n. Liverpool-búi
+Liverpudlian l. frá Liverpool; n. Liverpool-búi, manneskja frá Liverpool í England
 printout n. útprentun
 chapped l. sprunginn (um hörund), fullur af sprungum; [~ lips] þurrar, sprungnar varir
 unfeminine l. ókvenlegur
@@ -7172,7 +7177,7 @@ real estate n. fasteign, fasteignir; fasteignabransinn; [~ agent] fasteignasali,
 VP n. varaforseti (sks. á %[vice-president]%)
 peephole n. gægjugat
 IPA n. alþjóðlega hljóðritunarstafrófið (sks. á [International Phonetic Alphabet]); öltegund ([India Pale Ale])
-slavishness n. þrælslund
+slavishness n. þrælslund, þrælslyndi, þrælsnáttúra
 KO n. rothögg, rot, rotun (í hnefaleikum, sks. á %[knockout]%)
 ETA n. áætlaður komutími (sks. á [estimated time of arrival])
 variability n. breytileiki; óstöðugleiki
@@ -8918,7 +8923,7 @@ Phanerozoic n. lífsöld (jarðsögulegt tímabil); l. lífsaldar-
 Cenozoic n. nýlífsöld (jarðsögulegt tímabil); l. nýlífsaldar-
 Archean n. upphafsöld (jarðsögulegt tímabil)
 Silurian n. silúrtímabil (fornlífsaldar)
-Devonian n. devontímabil (fornlífsaldar)
+Devonian n. devontímabil (fornlífsaldar); Devon-búi, manneskja frá Devon á Englandi
 Carboniferous n. kolatímabil (fornlífsaldar)
 Permian n. permtímabil (fornlífsaldar)
 Paleogene n. ártertíer, paleógen (fyrri hluti nýlífsaldar)
@@ -8955,7 +8960,7 @@ mandolinist n. mandólínleikari
 acoustic guitar n. kassagítar
 electric guitar n. rafmagnsgítar
 bass guitar n. bassagítar; rafbassi ([electric ~])
-flautist n. flautuleikari
+flautist n. flautuleikari, hljóðpípuleikari
 piccoloist n. pikkólóleikari
 hornist n. hornleikari
 harpsichordist n. semballeikari
@@ -11612,7 +11617,7 @@ puzzlement n. undrun
 acridness n. sjá %[acridity]%
 herder n. hirðir (dýra)
 theorizer n. kenningasmiður
-brainwave n. heilabylgja
+brainwave n. heilabylgja; hugdetta, góð hugmynd (óforml.)
 bothersome l. truflandi, ónáðandi, vesens-
 Cistercian n. sistersíani (munkur), meðlimur sistersíanareglunnar; l. sistersíana-
 blowlamp n. blásturslampi, blússlampi, lóðlampi
@@ -11810,7 +11815,7 @@ malaise n. lasleiki, vanlíðan; veikleiki, veila
 toucan n. piparfugl, túkan (fugl)
 mouselike l. músarlegur, eins og mús
 mousey l. músarlegur
-hedge fund n. áhættusjóður
+hedge fund n. vogunarsjóður, áhættusjóður
 mutual fund n. verðbréfasjóður
 malleus n. hamar
 neuroplasm n. taugafrymi
@@ -11835,12 +11840,172 @@ randiness n. gredda
 blotchy l. blettóttur, flekkóttur
 emeritus l. emerítus, á eftirlaunum, hættur störfum (úr latínu, t.d. [professor emeritus])
 pleased l. ánægður; glaður; feginn
-tort n. bótaskylt afbrot
+tort n. bótaskyld háttsemi (í einkamálarétti)
 tort law n. skaðabótaréttur
 skewed l. skekktur, skakkur
 guildsman n. gildismaður, gildisbróðir (sjá %[guild]%)
 legalist n. lagabókstafsmaður
-legalism n. lagabókstafsstefna
+legalism n. lagabókstafsstefna, lagabókstafstrú
 remake s. endurgera; n. endurgerð ([~ of an older film])
-accolade n. lof, hrós
+accolade n. lof, hrós (yfirleitt í ft. %[accolades]%)
+accolades nft. lof, hrós
 rand n. rand (gjaldmiðill Suður-Afríku)
+ruttish l. graður (sjá %[rut]%)
+Saturnalia n. Satúrnusarhátíð (í Róm til forna, haldin 17. desember)
+saturnalia n. svallsöm veisla, taumlaus veisla
+Quebecois l. frá Quebec (í Kanada); n. (frönskumælandi) manneskja frá Quebec (í Kanada)
+Inuktitut n. inúktitút (tungumál inúíta í Norður-Kanada)
+half-joking l. í hálfkæringi, í hálfgerðu gríni, hálfpartinn að grínast
+half-jokingly ao. í hálfkæringi, í hálfgerðu gríni, hálfpartinn að grínast
+enigmatically ao. á dularfullan hátt, á torræðan hátt
+homozygote n. hrein arfgerð
+homozygosity n. arfhreinindi
+slavishly ao. þrælslega, af þrælslund, á þrælslegan hátt
+taurine n. tárín (lífræn sýra)
+chuffed l. mjög ánægður, mjög glaður, vel sáttur (óforml. breskt slangur)
+titivation n. snurfusun
+raspy l. sargandi ([a ~ voice])
+scanner n. skanni
+manky l. sjúskaður, skítugur, slitinn
+multiplied l. margfaldaður
+riposte n. hnyttið andsvar
+stressy l. sjá %[stressful]%
+prize-giving n. verðlaunaafhending
+butchering n. slátrun
+chewy l. seigur
+restlessly ao. á eirðarlausan hátt
+hooter n. flauta, bílflauta; ugla; (stórt) nef (óforml.); kvenbrjóst (óforml.)
+hooters nft. uglur; kvenbrjóst (óforml.)
+culter n. sjá %[coulter]%
+colter n. sjá %[coulter]%
+breakdance s. breikdansa; n. breikdans
+lummox n. hlunkur (óforml.); klunni, klaufi, klaufabárður (óforml.)
+impactful l. áhrifamikill, sem hefur áhrif
+whiteboard n. tússtafla
+unfarmed l. óræktaður (um land)
+sloeberry n. þyrniplóma
+durum n. e.k. hveititegund
+spreader n. dreifari (sjá %[spread]%)
+transparentness n. sjá %[transparency]%
+meadowland n. engjaland, engiland
+gilt n. gylta; gullhúð; l. gylltur; gullhúðaður
+photo- fsk. ljós- (t.d. %[photography]%, %[photosynthesis]%)
+sharpish ao. skarplega, snögglega, eins snöggt og auðið er (óforml. breskt slangur)
+hooray uh. húrra! (einnig ritað %[hurrah]%)
+investment fund n. fjárfestingarsjóður
+grappling hook n. sjá %[grappling iron]%
+Brummie n. manneskja frá Birmingham, Birmingham-búi (óforml. breskt slangur)
+New Yorker n. manneskja frá New York, New York-búi
+atop fs. ofan á, uppi á, upp á
+catopsis n. þokublað (planta)
+firmly ao. fastlega; þéttlega; staðfastlega; einarðlega
+matey n. félagi, lagsmaður (óforml., sjá %[mate]%)
+Glaswegian l. frá Glasgow (í Skotlandi); n. Glasgow-búi, manneskja frá Glasgow
+Weegie n. Glasgow-búi, manneskja frá Glasgow (óforml.)
+Ulsterman n. manneskja frá Ulster á Norður-Írlandi, Ulster-búi
+Scouser n. Liverpool-búi, manneskja frá Liverpool á Englandi (óforml. breskt slangur)
+Lancastrian l. frá Lancashire á Englandi; af Lancaster-ættinni; n. maður frá Lancashire á Englandi; stuðningsmaður Lancaster-ættarinnar
+Northumbrian l. frá Norðimbralandi; n. Norðimbri, manneskja frá Norðimbralandi á Englandi
+Texan l. frá Texas; n. Texasbúi
+lossless l. án taps; án gæðarýrnunar, án upplýsingataps, án gagnataps (um stafræna þjöppun)
+waitressing n. gengilbeinustarf
+threaded l. þræddur; snittaður
+forevermore ao. að eilífu, um alla tíð, til eilífðarnóns
+fiercely ao. grimmilega; óhemjulega
+furiously ao. reiðilega, í ofsareiði, í bræði
+scrawny l. horaður, mjósleginn, grannvaxinn (niðrandi)
+pointy l. oddhvass, oddmjór
+Minnesotan l. frá Minnesota-fylki (í Bandaríkjunum); n. Minnesota-búi, Minnesota-maður
+Aussie n. Ástrali (óforml.)
+Kiwi n. Nýsjálendingur (óforml.)
+rightfulness n. lögmæti; réttvísi; réttleiki
+deathlessly ao. ódauðlega; eilíflega, ódauðlega
+unattractiveness n. ljótleiki; það að vera óaðlaðandi
+tsetse fly n. tsetsefluga ([~ fly], afrísk fluga)
+cilantro n. kóríanderlauf
+pollarding n. stýfing (á trjám)
+gumptious l. framtakssamur; skynsamur, með heilbrigða skynsemi
+unrecognizable l. óþekkjanlegur
+unremarkable l. ómarkverður, óeftirtektarverður, venjulegur
+expansionism n. útþenslustefna
+expansionist n. útþenslusinni; l. útþenslu-
+refurbishment n. endurbætur, viðgerðir
+insanitary l. sjá %[unsanitary]%
+unsanitary l. óheilbrigður; skítugur
+cesspit n. forarpyttur, forargryfja
+duress n. nauðung, þvingun, álag
+longhand n. handskrift, handritun, hefðbundin handskrift, skrifað vandlega í höndunum
+simplistic l. einfeldningslegur, einfeldnis-
+simplistically ao. einfeldningslega
+riverine l. fljóta-, ár- (sjá %[river]%)
+normality n. eðlileiki, eðlilegt ástand, venjulegt ástand (sjá %[normalcy]%)
+racetrack n. kappakstursbraut; kappreiðabraut; hlaupabraut; skeiðvöllur
+Cantabrigian l. frá Cambridge á Englandi; n. Cambridge-búi, manneskja frá Cambridge; nemi við Cambridge-háskóla
+heroin n. heróín (sterkt morfínlyf)
+large-hipped l. mjaðmamikill
+small-hipped l. mjaðmalítill
+raceway n. sjá %[racetrack]%
+ambidextrous l. jafnhendur, jafnvígur á báðar hendur; óhreinlyndur
+burping n. rop; ropun
+gaolbird n. sjá %[jailbird]%
+kitschy l. sjá %[kitsch]%
+schismatical l. sjá %[schismatic]%
+air hostess n. flugfreyja
+ladened l. sjá %[laden]%
+crossroads nft. krossgötur; vegamót, gatnamót
+steadily ao. stöðuglega; staðfastlega; jafnt og þétt
+butterflower n. sjá %[buttercup]%
+oppressed l. kúgaður, undirokaður, bældur; þjáður, þjakaður
+unwariness n. ógætni, óvarkárni
+escritoire n. skrifborð, skatthol (úr frönsku)
+jollify s. gleðja, kæta
+lapsing l. hrasandi, sem bregst við og við, sem klikkar við og við, brigðull, flekkóttur
+insource s. heimvista
+insourcing n. heimvistun
+raunchy l. grófur, subbulegur, graður, klæminn
+dormancy n. svefn, dvali, hvíld; sinnuleysi, deyfð
+dormer n. kvistur; kvistgluggi (%[dormer window]%)
+glasnost n. gagnsæi, opnun (í Sovétríkjunum forðum)
+perestroika n. endurskipulagning, endurskipulag (í Sovétríkjunum forðum)
+evacuee n. brottflutt manneskja; manneskja sem hefur verið flutt frá hættusvæði
+unseductive l. ólokkandi
+hagiographist n. sjá %[hagiographer]%
+maternally ao. móðurlega
+pronto ao. samstundis, undir eins, núna (óforml.); uh. samstundis, undir eins, núna (óforml.)
+moonshot n. tunglskot, tunglför, ferðalag til tunglsins; tilraun til að gera hið ómögulega, tilraun til að gera hið ólíklega
+hinderance n. sjá %[hindrance]%
+verbalise s. sjá %[verbalize]%
+ampule n. sjá %[ampoule]%
+battler n. baráttumaður (gegn [against]); orustumaður
+warring l. stríðandi, í stríðsátökum; [~ factions] stríðandi fylkingar
+war-ridden l. stríðshrjáður
+aulos n. álos (forngrískt blásturshljóðfæri)
+Austronesian l. ástrónesískur
+indisputably ao. óumdeilanlega, óefanlega
+cathode ray tube n. myndlampi (yfirleitt skammstafað [CRT])
+thermionic l. hitajóna-
+automotive l. bifreiða-, bíla-
+softball n. kýlubolti, kýló, slagbolti (boltaleikur); spurning sem auðvelt er að svara, auðveld spurning ([~ question])
+waiver n. afsal; niðurfelling
+scuba n. köfunartæki
+scuba diving n. köfun (með köfunartæki)
+gruelling l. erfiður, þreytandi, lýjandi
+customhouse n. tollbúð, tollstöð
+customs nft. tollur; tollgæsla ([he had to go through ~]); siðir, siðvenjur
+customs duty n. tollgjald, innflutningsgjalda, aðflutningsgjald
+relevance n. vægi, gildi, þýðing
+shipboard n. skipsfjöl; l. um borð í skipi
+slanted l. skáhallur; bjagaður, hlutdrægur ([~ in his judgment])
+napalm n. napalm (hlaupkennt bensín sem notað er í eldsprengjum)
+sarin n. sarín; saríngas ([~ gas])
+ongoing l. yfirstandandi, sem er í gangi
+onto fs. á, upp á, ofan á
+paintball n. litbolti (leikur)
+transgender l. kynskipti-, trans-
+promotional l. kynningar-, auglýsinga-, í auglýsingaskyni
+generative AI n. spunagreind (sjá %[AI]%)
+regulatory l. reglugerðar-; stýri-, stjórn-; [~ system] stjórnkerfi
+unquestionably ao. tvímælalaust, ótvírætt, vafalaust
+purposefulness n. ásetningur, ásett ráð
+intellectually ao. vitsmunalega ([~ stimulating, ~ bankrupt])
+intimidating l. ógnandi, hræðandi, yfirþyrmandi

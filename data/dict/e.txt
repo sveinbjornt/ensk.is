@@ -570,8 +570,8 @@ engulf s. gleypa, svelgja, kaffæra; sjá %[ingulf]%
 enhance s. auka; umbæta; hækka, setja upp (verð); ýkja
 enhancement n. aukning; umbót; verðhækkun
 enigma n. gáta, ráðgáta
-enigmatic l. óskiljanlegur; dularfullur
-enigmatical l. óskiljanlegur; dularfullur
+enigmatic l. óskiljanlegur; torræður; dularfullur
+enigmatical l. sjá %[enigmatic]%
 enigmatize s. gera óskiljanlegt
 enisle s. setja út í eyju; einangra
 enjoin s. leggja e-ð fyrir e-n, fyrirskipa (e-m [on, upon]); leggja ríkt á við e-n; (í lagamáli) banna
@@ -943,14 +943,14 @@ euphuistic l. íburðarmikill
 Europe n. Evrópa, Norðurálfa
 European l. evrópskur; Evrópu-, Norðurálfu-; n. Evrópumaður, Norðurálfubúi
 evacuant l. búkhreinsandi; n. búkhreinsandi lyf
-evacuate s. tæma (einkum magann eða innyflin); svipta (e-n e-u [of]); (um her) fara burt úr (landi eða borg); flytja burtu (íbúa eða herlið)
-evacuation n. tæming; búkhreinsun ([~ by stool]); burtför (herliðs); burtflutningur (herliðs úr e-m stað)
+evacuate s. tæma (einkum magann eða innyflin); svipta (e-n e-u [of]); (um her) fara burt (úr landi eða borg) í neyð; flytja burtu, flytja á brott (íbúa eða herlið)
+evacuation n. tæming; búkhreinsun ([~ by stool]); brottför, burtför (herliðs); brottflutningur, burtflutningur (herliðs úr e-m stað)
 evade s. komast hjá eða undan ([the thief ~d capture]); sneiða hjá, forðast; fara undan (e-u) í flæmingi ([~ the question, the charge])
 evagation n. afhvarf (af réttri leið); útúrdúr
 evanesce s. líða burt, hverfa
 evanescence n. hvarf
 evanescent l. hverfandi, örsmár; skammvinnur
-evangelic l. sem er í (eða er samkvæmur) guðspjöllunum; evangelískur
+evangelic l. sjá %[evangelical]%
 evangelical l. sem er í (eða er samkvæmur) guðspjöllunum; evangelískur
 evangelist n. guðspjallamaður
 evangelize s. predika gleðiboðskapinn fyrir (e-m); snúa (e-m) til kristinnar trúar, kristna
@@ -1275,7 +1275,7 @@ expostulatory l. aðfinningar- ([~ letter])
 exposure n. óvarin staða, skjólleysi; lega (gegn sólu eða vindi); uppljóstur; [~ (of goods) for sale] framboð (varnings) til sölu
 expound s. þýða, skýra
 expounder n. skýrandi ([~s of truth])
-express s. kreista út (t.d. gröft, olíu, safa); láta í ljós, segja, lýsa yfir ([~ an opinion, a wish, his thanks]); sýna; senda með hraðlest; [~ oneself] tjá sig, láta í ljós hugsanir sínar, tala; l. skýr, ótvíræður; sérstaklegur; hrað-; [~ train] hraðlest (á járnbraut); ao. með hraða, beint, gagngjört ([to go, send ~]); með hraðlest ([to travel ~]); n. hraðboði ([~ messenger]); hraðlest; hraðboð
+express s. kreista út (t.d. gröft, olíu, safa); tjá, láta í ljós, segja, lýsa yfir ([~ an opinion, a wish, his thanks]); sýna; senda með hraðlest; [~ oneself] tjá sig, láta í ljós hugsanir sínar, tala; l. skýr, ótvíræður; sérstaklegur; hrað-; [~ train] hraðlest (á járnbraut); ao. með hraða, beint, gagngjört ([to go, send ~]); með hraðlest ([to travel ~]); n. hraðboði ([~ messenger]); hraðlest; hraðboð
 expression n. kreisting; orð, orðatiltæki; orðfæri; tákn; yfirbragð, svipur; [sing with ~] með tilfinningu; [past/beyond ~] ósegjanlegur, óumræðilegur
 expressive l. sýnandi, vottandi ([of]); skýr; áhrifamikill; svipmikill
 expressiveness n. skýrleiki, orðakraftur

@@ -189,7 +189,7 @@ immorality n. ósiðsemi; siðleysi; óráðvendni; löstur
 immortal l. ódauðlegur; eilífur
 immortality n. ódauðleiki
 immortalize s. gera ódauðlegan, gera eilífan
-immortally ao. eilíflega
+immortally ao. ódauðlega, eilíflega
 immovable l. óhreyfanlegur, óbifanlegur; fastur; nft. fasteignir
 immune l. ónæmur, ómóttækilegur
 immunity n. undanþága, lausn undan e-u ([~ from taxation]); sakaruppgjöf; ónæmi ([~ from infection])
@@ -1146,7 +1146,7 @@ integrant n. ómissandi hluti
 integrate s. sameina í heild; samþætta, samþátta; fullkomna, bæta upp ([~ one another]); l. heill, óskertur
 integrity n. heilleiki, heild; ráðvendni; réttsýni; hreinskilni
 integument n. þunn húð, himna
-intellect n. skilningur; vitsmunir, gáfur; vitmaður
+intellect n. skilningur; vitsmunir, gáfur; vitsmunamaður
 intellection n. skilningur
 intellective l. skilnings-, vitsmunalegur
 intellectual l. skilningslegur; andlegur, vitsmunalegur; [~ being] skynsöm vera; n. vitsmunamaður; menntamaður

@@ -787,13 +787,13 @@ chorally ao. í kór
 chord n. strengur (á hljóðfæri); hljómur (í tónfræði); [the vocal ~s] raddböndin
 chorister n. kórsöngvari; kórsveinn ([~ boy])
 chorography n. héraðslýsing
-chortle s. skríkja hátt
+chortle s. skríkja hátt, rýta
 chorus n. söngflokkur, kór; kórsöngur; [in ~] allir í einu, í kór; viðlag; s. syngja (segja) í kór, taka (allir) undir í einu
-chosen l. kjörinn, kosinn, valinn; [~ friend] alúðarvinur
+chosen l. valinn, kosinn, kjörinn; [~ friend] alúðarvinur
 chough n. snjókráka
 chouse s. gabba, svíkja
 chrestomathy n. sýnisbók (í tungumáli, bókmenntum)
-chrism n. hin heilaga olía (í kaþólskum kirkjum)
+chrism n. heilög olía (í kaþólskum kirkjum)
 chrismation n. smurning
 chrismatory n. olíuker
 Christ n. Kristur
@@ -1208,7 +1208,7 @@ coefficient l. samverkandi; n. margfaldari, stuðull
 coequal l. jafn (e-u [with]); n. jafningi
 coequality n. jafningjastaða, jafnleiki
 coerce s. halda í skefjum með valdi; þröngva, þrýsta (til e-s [into])
-coercion n. þvingunarvald; þrýsting
+coercion n. þvingunarvald; þrýstingur
 coercive l. þvingandi, þvingunar-
 coetaneous l. jafngamall; samtíða; jafnvaranlegur
 coeternal l. jafneilífur
@@ -2695,11 +2695,11 @@ cuspidated l. oddmyndaður, yddur
 custard n. eggjamjólk
 custodian n. gæslumaður, vörður; forræðismaður
 custody n. gæsla; varðveisla; varðhald; [take into ~] setja í varðhald, taka fastan
-custom n. vani, venja, siður, tíska; tollur (vanalega [~s]); viðskipti
+custom n. vani, venja, siður, siðvenja, tíska; tollur, tollgæsla (vanalega %[customs]%); viðskipti
 customable l. tollskyldur
 customary l. venjulegur, tíðkanlegur
 customer n. viðskiptavinur
-customshouse n. tollbúð
+customshouse n. sjá %[customhouse]%
 cut s. skera; höggva; höggva upp, fella (tré); kljúfa; slá (gras eða korn); klippa (hár); sníða (föt); höggva til; höggva út (myndir); grafa (í málm); grafa (skurð); skera upp úr (bók, einnig [~ open]); slípa (gler, gimsteina); gelda, vana; draga (í spilum, [~ cards]); bíta (um bittól); skerast; sníðast ([the cloth does not ~ well]); slá sig (um hest); fara þvert yfir ([~ across, over]); [~ capers] hoppa; [~ his acquaintance] hætta viðkynningu við hann; [~ one's way] ryðja sér braut; [~ a tooth (one's teeth)] taka tönn (tennur); [~ short] gera snöggan enda á; grípa fram í fyrir; [to ~ it short] í stuttu máli; [~ the coat according to the cloth] sníða sér stakk eftir vexti; [he ~ his finger] skar sig í fingurinn; [~ down] stytta; minnka; færa niður ([~ down expenses]); [~ in] grípa fram í; [~ off] skera af; afnema banna (samgöngur); stöðva; hindra; gera arflausan; hafa e-n af sér; valda dauða (fyrir örlög fram); [~ out] skera út; strika út, nema burt; bola (keppinaut) út; skara fram úr; sníða (föt); [~ up] höggva (skera) upp; uppræta; [~ up rough (or savage)] bregðast reiður við; [~ up (well)] deyja auðugur; n. lag; högg; sáryrði; mikið áfall; dráttur (í spilum); skurður; sneið ([~ of meat]); snið (á fötum); tegund; [short~] stutt leið, gagnvegur; [a second ~] seinni sláttur; há; [whose ~ is it] hver á að draga? [make a ~ at him] höggva til hans; [it was a ~ above me] einu striki of hátt fyrir mig; [~ and thrust] höggorrusta; [draw ~s for] draga um; [~ and dried or dry] áður tilbúinn, ekki nýr (um skoðanir)
 cutaneous l. hörunds-, húð- ([~ disease])
 cute l. sætur, krúttlegur; skarpskyggn (sbr. %[acute]%)

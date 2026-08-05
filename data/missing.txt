@@ -22,7 +22,6 @@ subliminally
 bathos
 bathetic
 primly
-automotive
 packing
 analog
 analogue
@@ -36,7 +35,6 @@ succinctorium
 cognition (þarf að endurskoða)
 heater
 adaptor
-softball
 listing
 funky
 personals
@@ -54,35 +52,26 @@ sexuality
 syndication
 syndicated
 unsigned
-waiver
 buyout
 briefing
-scuba
 plane (endurskoða)
 indie
 reinnervate, v.
 reinnervation, n.
-poop (endurskoða)
-gruelling
-relevancy (endurskoða)
 risible (endurskoða)
 serrate s.
 shard (endurskoða)
 soulful
-shipboard
 splatterdash n.
 cull (endurskoða)
 xenobiotic
 haw (endurskoða)
 holdfast
 scrappy (endurskoða)
-slanted
 wafer (endurskoða)
 weak-sighted (endurskoða)
 unconscionable (endurskoða)
 console (endurskoða)
-napalm
-sarin
 scan (endurskoða)
 contraindicative
 contrapositive
@@ -110,7 +99,6 @@ cybersquatting
 headcount
 pre-emptive (endurskoða)
 holograph (endurskoða)
-transgender
 highlight
 instrumentation
 intel
@@ -119,12 +107,6 @@ invision
 licensing
 mounted
 offence (endurskoða)
-ongoing
-onto
-paintball
-promotional
-regulatory
-relevance
 irrelevance
 throttle (endurskoða)
 engram
@@ -156,13 +138,9 @@ anti-religious
 antithetical
 anti-Christian
 authorship
-unquestionably
 archetypical
 sensationalist
-purposefulness
 inconducive
-intellectually
-intimidating
 developmental
 superstitiously
 unprivileged
@@ -498,7 +476,6 @@ realignment
 totemic
 archetypal
 hairline
-racetrack
 sectarianism
 masterstroke
 transcendence
@@ -506,7 +483,6 @@ transporter
 fearsome
 roadmap
 superhighway
-normality
 honourable
 overspill
 factional
@@ -523,12 +499,10 @@ sacral
 sacralize
 melodramatic
 melodramatics
-steadily
 strategist
 capitulary
 accumulator
 raider
-riverine
 themselves
 anchorite
 eremitism
@@ -543,11 +517,10 @@ traditionalist
 plainlands
 wartime
 cachet
-simplistic
-simplistically
 farmable
 unfarmable
 ethos
+glamorize
 glamourize
 thematic
 showdown
@@ -555,7 +528,6 @@ suitability
 ritualistic
 reintroduction
 springboard
-moonshot
 breakaway
 entrepôt
 longtime
@@ -589,20 +561,16 @@ mangonel
 tantalizing
 manoeuvrable
 auspex
-longhand
 gruntled
 deconstruct
 crackdown
-duress
 sidearm
 erstwhile
-cesspit
 epochal
 sketchiness
 graven
 supremacist
 hideousness
-unsanitary
 ghoulish
 ghoulishly
 celebratory
@@ -610,10 +578,6 @@ fantasist
 reclusive
 louche
 loucheness
-unremarkable
-unrecognizable
-expansionist
-refurbishment
 rearrangement
 fizzy
 curbside
@@ -813,7 +777,6 @@ consumerist
 liminality
 porosity
 theatrics
-riposte
 peonage
 estuarine
 intertidal
@@ -963,7 +926,6 @@ reintegration
 normalization
 associative
 biologization
-expansionism
 ambience
 ad hominem
 dilettantism
@@ -1012,7 +974,6 @@ mismatch
 ritualization
 derealization
 bridgehead
-evacuee
 telex
 secretarial
 demobilize
@@ -1219,7 +1180,6 @@ hotshot
 haywire
 bossa nova
 cutoff
-scanner
 coder
 stardom
 downtime
@@ -1255,7 +1215,6 @@ proconsular
 declaimer
 craftily
 delator
-raspy
 gimp
 casuist
 casuistry
@@ -1603,13 +1562,12 @@ blurb
 involuntarily
 passionately
 defiantly
-matey
 starkness
 unbusinesslike
 anymore
-firmly
 pepsin
 self-reproach
+harsh (endurskoða)
 harshly
 curiously
 peashooter
@@ -1650,7 +1608,6 @@ cabby
 overpaid
 underpaid
 disaggregation
-atop
 physicality
 panoptic
 spin-off
@@ -1721,15 +1678,11 @@ fruitcake
 collapsible
 befuddle
 sniffy
-scrawny
-pointy
 creepy
 break-in
 about-face
 snitch
 snitching
-furiously
-fiercely
 headfirst
 loopy
 halfheartedly
@@ -1743,7 +1696,6 @@ stargaze
 stargazer
 palomino
 tap-dance
-forevermore
 revanchism
 revanchist
 revanche
@@ -1751,7 +1703,6 @@ runtime
 photoshop
 personalized
 cleaner
-threaded
 firelance
 scarper
 brassard
@@ -1774,7 +1725,6 @@ singsong
 groundsheet
 scrum
 seminarist
-kitschy
 vandalize
 positional
 fleshpot
@@ -2001,8 +1951,6 @@ séance
 coreligionist
 parochialism
 Austronesia
-Austronesian
-indisputably
 imagistic
 technologically
 postmarital
@@ -2690,7 +2638,6 @@ reshipment
 transshipment
 subsidance
 pfennig
-cilantro
 skirmisher
 rooky
 hurtfulness
@@ -2730,6 +2677,7 @@ earthshaking
 contortionism
 contortionist
 endodontics
+Dionysia
 Megalodon
 megalodon
 micromobility
@@ -2749,7 +2697,6 @@ dissatisfying
 diabatic
 mojo
 incel
-Saturnalia
 passively
 crispness
 ampulate
@@ -2831,6 +2778,7 @@ flapper
 deconstructive
 ahem
 curation
+curate (endurskoða)
 flaming
 brummel
 sassy
@@ -2840,9 +2788,9 @@ contributary
 merlon
 multiplicative
 multiplicatively
+appal (endurskoða)
 appalled
 markdown
-chuffed
 harping
 cavorting
 conjury
@@ -3171,7 +3119,6 @@ ironman
 confit
 breathability
 cortisol
-rightfulness
 frightfulness
 universally
 subsample
@@ -3219,7 +3166,6 @@ heteronomous
 blither
 blithering
 ex machina
-dormer
 stringcourse
 homey
 tightwire
@@ -3236,6 +3182,7 @@ responder
 sleeky
 seafront
 wangle
+wangled
 resect
 resection
 psychedelia
@@ -3337,7 +3284,6 @@ programming (endurskoða)
 okayed
 Thuringia
 Thuringian
-impactful
 kibble
 socialized
 gumdrop
@@ -3350,11 +3296,9 @@ fairway
 flashback
 curtly
 illuminist
-lummox
 zinger
 zingy
 brouhaha
-breakdance
 derailment
 ruminative
 allostasis
@@ -3723,8 +3667,6 @@ roadkill
 operant
 reinforced
 contingence
-hooter
-hooters
 sponsored
 administered
 dish (endurskoða, dish out)
@@ -3755,7 +3697,6 @@ timecard
 spooning
 seamlessly
 present-day
-restlessly
 tonal
 drystone
 prospection
@@ -3881,14 +3822,10 @@ sellout
 smeary
 hypotrophy
 tampering
-inuktitut
-Quebecois
 stomper
 hookup
 advocation
 tuple
-homozygosity
-enigmatically
 VC
 plonk
 flustered
@@ -4204,6 +4141,7 @@ invested
 frappuccino
 gazump
 colleen
+Thermidor
 Thermidorian
 munster
 trending
@@ -4642,7 +4580,6 @@ pudendum
 unsettling
 chafing
 trussell
-chewy
 flourishing
 booming
 easy-going (endurskoða)
@@ -4655,7 +4592,6 @@ zonk
 zonked
 subcision
 subincision
-butchering
 plastered
 smashed
 soused
@@ -4676,8 +4612,6 @@ newt (endurskoða)
 braw
 magistracy (endurskoða)
 pander (endurskoða)
-perestroika
-glasnost
 abadia
 Rosicrucian
 Rosicrucianism
@@ -5103,7 +5037,6 @@ mesocarp
 cameo (endurskoða)
 staidly
 categorically
-curate (endurskoða)
 triggerman
 crap-shooter
 bringer
@@ -6237,7 +6170,6 @@ ant bear
 vilifier
 defamer
 scrapper
-battler
 spiritlessness
 minatory
 obnubilate
@@ -6447,7 +6379,6 @@ cuboidal
 surprisal
 frightening
 unmuzzle
-unattractiveness
 flouter
 ensign (endurskoða)
 voice acting
@@ -6533,7 +6464,6 @@ tritone (endurskoða)
 impresario (endurskoða)
 prosaically
 precariat
-aulos
 delivery (endurskoða)
 funnel (endurskoða)
 strawman
@@ -6598,7 +6528,6 @@ lunkhead
 muttonhead
 shuddery
 nauseated
-gumptious
 acalvaria
 antecede
 foreswear
@@ -6626,3 +6555,74 @@ tramline
 bowser
 dieback
 satnav
+steamy (endurskoða)
+disheartenment
+bandeau
+twink (endurskoða)
+preteen
+zebus
+indicine
+spiv
+laicity
+consultee
+piddly
+roller (endurskoða)
+duff
+echium
+buff (endurskoða)
+biff
+toughie
+collared
+bobble
+beefer
+battering
+telehandler
+throuple
+weaner
+overgrow (endurskoða)
+hectic (endurskoða)
+empowering
+grappling iron (endurskoða)
+resort (endurskoða)
+Cumbrian
+baller
+compersion
+loss leader
+slam dunk
+dunk shot
+walkthrough
+floated
+dollarization
+hiatus (endurskoða)
+highly (endurskða)
+eruct
+getup
+catabolic
+cut-up
+soupy
+walloping
+banging
+bluffly
+palpebra
+chapeau
+goldcup
+toying
+toyingly
+truelove
+fluctuating
+unfluctuating
+slowing
+picayune
+piddling
+piffling
+calvaria
+helmetflower
+fooling
+unintegrated
+behooved
+spelt (endurskoða)
+extrusive
+campanile
+saprozoic
+expressage
+sherpa

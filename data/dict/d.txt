@@ -153,7 +153,7 @@ deathbed n. banasæng, banalega
 deathblow n. banahögg
 death fire n. hrævareldur
 deathful l. mannskæður; banvænn; náfölur
-deathless l. ódauðlegur
+deathless l. ódauðlegur; ævarandi, eilífur
 deathlike l. sem líkist dauða, dauða-; [~ silence] dauðaþögn, steinhljóð
 deathly l. banvænn; náfölur; dauða-, ná-([~ odour]); ao. [~ pale] náfölur
 deathrate n. manndauðahlutfall
@@ -569,7 +569,7 @@ depredation n. rán; skemmd
 depredator n. ræningi
 depredatory l. sem lýtur að ránum
 depress s. þrýsta (e-u) niður; bæla niður; draga úr (e-u); draga kjark úr e-m; mæða, hryggja, gera þunglyndan
-depression n. þunglyndi, hryggð, mæða; þrýsting; dæld; læging, lægð
+depression n. þunglyndi, hryggð, mæða; þrýstingur; dæld; læging, lægð
 deprivable l. sem hægt að taka frá e-m
 deprivation n. svipting; skerðing; skortur; missir; afsetning úr (prests)embætti
 deprive s. taka frá, svipta (e-u [of]); víkja úr (prests)embætti
@@ -1460,8 +1460,8 @@ doorcase n. dyraumbúnaður
 doorkeeper n. dyravörður
 doorpost n. dyrastafur
 doorway n. dyr, dyragætt, inngangur ([to stand in the ~]); gátt
-dormant l. sofandi; sem liggur í dái; ónotaður
-dormer-window n. kvistgluggi
+dormant l. sofandi; í dvala; í dái; ónotaður
+dormer window n. kvistgluggi
 dormitive n. svefnlyf
 dormitory n. svefnherbergi, svefnloft, svefnrými, svefnsalur, svefnstofa; heimavist
 dormouse n. svefnmús (nagdýr); nft. [dormice]

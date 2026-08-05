@@ -78,7 +78,7 @@ mainland n. meginland, fastaland
 mainly ao. aðallega, einkum
 mainmast n. aðalsiglutré
 mainsail n. stórsegl
-mainstay n. slórstag, aðalstag; meginstoð
+mainstay n. slórstag, aðalstag; meginstoð, undirstaða
 mainspring n. aðalfjöður (í úri)
 maintain s. halda við ([~ war, ~ correspondence, ~ roads]); styðja, halda uppi ([~ a cause, a party]); halda fram; fullyrða; hafa ofan af fyrir, fæða, ala; [the prices ~ themselves] verðlagið helst óbreytt
 maintainable l. viðhaldanlegur; verjanlegur, réttlætanlegur
@@ -602,11 +602,11 @@ menstruate s. hafa tíðir, fara á blæðingar
 menstruation n. tíðir (kvenna), blæðingar
 mensurable l. mælanlegur
 mensuration n. mæling; mælingarlist
-mental l. sálarlegur, andlegur, huga-, sem lýtur að huga eða geðsmunum ([his ~ state]); [~ arithmetic, ~ computation] hugarreikningur
-mentally ao. í huganum, með sjálfum sér, andlega; [~ and physically] á sál og líkama
+mental l. andlegur, huga-, sálarlegur, sem lýtur að huga eða geðsmunum ([his ~ state]); [~ arithmetic, ~ computation] hugarreikningur
+mentally ao. í huganum, andlega, með sjálfum sér; [~ and physically] á sál og líkama
 mention n. umtal. umræða; [make ~ of] minnast á; s. nefna; minnast á, geta um; [don't ~ it!] ekki minnast á það!
 mentor n. leiðbeinandi, lærimeistari, lærifaðir, kennari, (vitur og trúr) ráðgjafi
-menu n. matseðill; valblað
+menu n. matseðill; valblað (í tölvuviðmóti)
 mephitic l. sem óþefur er að, daunillur
 mephitis n. ódaunn
 mercantile l. verslunarlegur, kaupmanns-, verslunar-, kauphyggju-; [~ marine] verslunarfloti, skipastóll
