@@ -2433,6 +2433,7 @@ sinusoid
 sinusoidal
 armature (endurskilgreina)
 twerk
+twerking
 terrifically
 plinth
 pointillist
@@ -2781,6 +2782,7 @@ curation
 curate (endurskoða)
 flaming
 brummel
+sass
 sassy
 poppycock
 cephalon
@@ -3345,8 +3347,6 @@ shakily
 snicker
 snickering
 rectus
-syncopation
-syncopated
 refreshing
 refreshingly
 deprived
@@ -6629,12 +6629,9 @@ expressage
 sherpa
 bundle (endurskoða)
 foosball
-kegel
-calibrator
 miscue
 chocolatier
 dongle
-pigeonhole (endurskoða)
 autotelic
 sighting
 touché
@@ -6647,3 +6644,33 @@ palapa
 posthaste (endurskoða)
 keyman
 overage
+collider
+choreographer
+piledrive
+piledriver
+hooded
+bucket list
+hookum
+fugazi
+shtetl
+rejigger
+rejiggered
+outpaced
+zillennial
+millennial (endurskoða)
+pontooned
+detected
+landscaper
+ischaemic
+steatosis
+asteatosis
+rejuvenating
+heptathlon
+stratocaster
+humbled
+fire hose
+unoriginal
+riveting
+euphemistic (endurskoða)
+morphosyntax
+nonidiomatic

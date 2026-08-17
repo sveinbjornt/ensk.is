@@ -2391,7 +2391,7 @@ reread s. endurlesa
 prosciutto n. þunnskorin ítölsk skinka
 neuron n. taugungur, taugafruma
 phrenologist n. höfuðlagsfræðingur
-phrenological l. höfuðlagsfræðilegur
+phrenological l. höfuðlagsfræðilegur, höfuðlags-
 waistline n. mittismál; mitti
 telemarketer n. símasölumaður
 telemarketing n. símasölumennska
@@ -11994,7 +11994,7 @@ scuba diving n. köfun (með köfunartæki)
 gruelling l. erfiður, þreytandi, lýjandi
 customhouse n. tollbúð, tollstöð
 customs nft. tollur; tollgæsla ([he had to go through ~]); siðir, siðvenjur
-customs duty n. tollgjald, innflutningsgjalda, aðflutningsgjald
+customs duty n. tollgjald, innflutningsgjald, aðflutningsgjald
 relevance n. vægi, gildi, þýðing
 shipboard n. skipsfjöl; l. um borð í skipi
 slanted l. skáhallur; bjagaður, hlutdrægur ([~ in his judgment])
@@ -12015,9 +12015,19 @@ praisable l. lofsamlegur, lofsverður, sem hægt er að lofa, sem hægt er að h
 unimpressive l. tilkomulítill, óimpónerandi, ekkert sérstaklega flottur
 calibrated l. kvarðaður; fínstilltur
 calibrator n. kvarðari
-basileus n. konungur, keisari (í austrómverska ríkinu)
-welsh s. forðast greiðslu; svíkja loforð
-undoable l. ógeranlegur, ógjörlegur
+basileus n. konungur, keisari (í Austrómverska ríkinu)
+welsh s. forðast greiðslu (niðrandi); svíkja loforð (niðrandi)
 demo n. sýningareintak; demó (sýningarupptaka tónlistarmanns); l. kynningar-, sýningar-
 yenta n. kjaftaskur, slúðrari, kjaftakerling (jiddískt slangur)
-scrapyard n. skranport
+scrapyard n. skranport; partaverkstæði (fyrir vélar, bíla, o.s.frv.)
+waterfront n. sjávarbakki; árbakki; hafnarbakki, hafnarsvæði (í borg)
+syncopation n. úrfelling stafs úr miðju orði, samdráttur; misgengi eða breytilegar áherslur (í takti)
+syncopated l. samandreginn, styttur (um orð); misgengur, með tilfærðum áherslum (um takt)
+window ledge n. gluggakista
+economic historian n. hagsögufræðingur, hagsagnfræðingur
+night sweat n. nætursviti
+lookism n. útlitsfordómar
+multidimensionality n. margvíðni (sjá %[multidimensional]%)
+metalist n. sjá %[metallist]%
+undoable l. ógeranlegur, ógjörlegur; afturkallanlegur, ógildanlegur
+kegel n. grindarbotnsæfing, grindarbotnsþjálfun (yfirleitt í ft. [~s, ~ exercises])
