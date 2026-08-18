@@ -11146,18 +11146,18 @@ gunmetal n. málmblada úr kopar og tini eða sinki; e.k. bronsblanda; dökkgrá
 polyethylene n. fjöletýlen (plasttegund)
 invar n. invarstál
 anode n. anóða, forskaut
-osmotic l. osmósu-, himnuflæðis-
+osmotic l. osmósu-, himnuflæðis- (í líffræði)
 fibreglass n. trefjagler
 fiberglass n. sjá %[fibreglass]%
 evenfall n. rökkur, ljósaskipti
-ashram n. trúarlegt athvarf (hindúa)
+ashram n. trúarlegt athvarf hindúa
 confounding variable n. truflandi breyta
 solemnly ao. hátíðlega; alvarlega; á alvörugefinn hátt
 honoured l. heiðraður, sæmdur, virtur; borgaður (um víxil)
 dishonoured l. varvirtur, vandsæmdur, smánaður
 acarology n. mítlafræði
 backspace n. hophnappur (á lyklaborði); s. bakka, hopa (í tölvuviðmóti)
-abandonware n. eftirlegubúnaður (yfirgefinn hugbúnaður)
+abandonware n. eftirlegubúnaður, yfirgefinn hugbúnaður
 salinize s. sjá %[salinate]%
 salinization n. söltun; saltmengun
 desalinization n. sjá %[desalination]%
@@ -12031,6 +12031,6 @@ multidimensionality n. margvíðni (sjá %[multidimensional]%)
 metalist n. sjá %[metallist]%
 undoable l. ógeranlegur, ógjörlegur; afturkallanlegur, ógildanlegur
 kegel n. grindarbotnsæfing, grindarbotnsþjálfun (yfirleitt í ft. [~s, ~ exercises])
-übermensch n. ofurmenni, yfirmenni (úr þýsku)
+übermensch n. ofurmenni, yfirmenni (úr þýsku, sjá %[overman]%)
 ubermensch n. sjá %[übermensch]%
 lebensraum n. lífsrými (úr þýsku)
