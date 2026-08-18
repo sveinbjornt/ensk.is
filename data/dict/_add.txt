@@ -12031,3 +12031,6 @@ multidimensionality n. margvíðni (sjá %[multidimensional]%)
 metalist n. sjá %[metallist]%
 undoable l. ógeranlegur, ógjörlegur; afturkallanlegur, ógildanlegur
 kegel n. grindarbotnsæfing, grindarbotnsþjálfun (yfirleitt í ft. [~s, ~ exercises])
+übermensch n. ofurmenni, yfirmenni (úr þýsku)
+ubermensch n. sjá %[übermensch]%
+lebensraum n. lífsrými (úr þýsku)
