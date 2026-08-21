@@ -1636,7 +1636,7 @@ racist n. kynþáttahatari, rasisti; l. kynþáttahatandi, rasískur, kynþátta
 euro n. evra (evrópskur gjaldmiðill, €)
 petite l. fíngerður, smágerður, smávaxinn, lítill, lítilvaxinn
 volleyball n. blak (knattleikur)
-motel n. mótel, vegahótel (BNA, samsett úr %[motor]% og %[hotel]%)
+motel n. mótel, vegahótel (bandarískt, samsett úr %[motor]% og %[hotel]%)
 combo n. stytt. á %[combination]%
 stolen l. stolinn; sjá %[steal]%
 specialized l. sérhæfður; sjá %[specialize]%
@@ -1699,7 +1699,7 @@ gadget n. græja, tæki
 gadgetry n. græjur, tæki
 extremist n. öfgamaður, öfgasinni; l. öfga-, öfgafullur
 extremism n. öfgastefna, öfgar
-limey n. Englendingur, Breti (BNA slangur)
+limey n. Englendingur, Breti (bandarískt slangur)
 paleontology n. steingervingafræði, fornlíffræði
 paleontologist n. steingervingafræðingur
 palaeontologist n. steingervingafræðingur
@@ -2069,7 +2069,7 @@ sine qua non l. (lat.) nauðsynlegur, án hvers ekki; n. frumskilyrði, ófráv�
 overpowering l. yfirþyrmandi
 doorknob n. hurðarhúnn
 firearm n. skotvopn
-soccer n. fótbolti (BNA)
+soccer n. fótbolti (bandarískt)
 cheekbone n. kinnbein
 Prussia n. Prússland
 hyperinflation n. óðaverðbólga
@@ -9458,7 +9458,7 @@ differentiated l. aðgreindur, sem sker sig úr
 undifferentiated l. óaðgreindur, sérkennalaus
 balkanize s. skipta í smærri einingar (um ríki)
 lapidate s. grýta, kasta grjóti í
-goofball n. trúður, skrípakarl, lúði
+goofball n. trúður, skrípakarl, lúði (óforml.)
 nucleate s. mynda kjarna
 scrimshaw n. skeljaútskurður, beinaútskurður
 lingonberry n. rauðber
@@ -9756,7 +9756,7 @@ cagy l. sjá %[cagey]%
 undercover l. leynilegur, leyni-, undir fölskum formerkjum ([~ agent, activities])
 blazer n. léttur jakki, sportjakki; kannabisreykingamaður (Bandarískt slangur)
 aroused l. vakinn; kynæstur ([he was ~ by her touch])
-uninvited l. óboðinn
+uninvited l. óboðinn; [~ guest] boðflenna, óboðinn gestur
 bodacious l. djarfur, taumlaus; markverður, eftirtektarverður; kynþokkafullur, lokkandi (BNA, óforml.)
 bodaciously ao. djarflega, taumlaust; merkilega; á kynþokkafullan eða lokkandi hátt (BNA, óforml.)
 unfearing l. óhræddur, óttalaus, djarfur
@@ -11276,7 +11276,7 @@ shroom n. ofskynjunarsveppur; sveppur (óforml.)
 blighter n. náungi, gaur
 buster n. náungi, gaur, vinur, lagsmaður, kappi (óforml.)
 curse word n. blótsorð, blótsyrði, bölvunarorð
-cuckoo clock n. gauksklukka
+cuckoo clock n. gauksklukka; l. snarruglaður
 paintwork n. málning; lökkun, lakkáferð ([the ~ was damaged])
 summarization n. stutt samantekt, knöpp samantekt (sjá %[summarize]%)
 necropolis n. stór grafreitur eða greftrunarsvæði
@@ -12034,3 +12034,14 @@ kegel n. grindarbotnsæfing, grindarbotnsþjálfun (yfirleitt í ft. [~s, ~ exer
 übermensch n. ofurmenni, yfirmenni (úr þýsku, sjá %[overman]%)
 ubermensch n. sjá %[übermensch]%
 lebensraum n. lífsrými (úr þýsku)
+flapping n. blak; vængjaslag
+land breeze n. aflandsvindur
+gimbal n. rambald
+imperviousness n. ógagnfæri, ógagnfærileiki; þéttleiki; ónæmni
+radiosonde n. veðurkanni, háloftakanni
+buffoonish l. trúðslegur, fíflagangs-, fíflalætis-, skrípagangs-, trúðslætis-
+fathead n. auli, bjáni, vitleysingur, heimskingi
+fatheaded l. aulalegur, bjánalegur, heimskulegur, heimskur
+goof n. trúður, bjálfi, lúði (óforml.)
+hobbled l. haltur; heftur; haldið aftur
+stash s. fela; geyma, koma fyrir (á geymslustað); n. geymsla, geymslustaður; (falinn) varaforði, varasjóður

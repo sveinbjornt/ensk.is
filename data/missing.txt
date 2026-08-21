@@ -1097,6 +1097,7 @@ decommission
 anarchosyndicalist
 manqué
 cockamamie
+cockamamy
 centralizer
 unsusceptible
 collegium
@@ -3089,7 +3090,6 @@ intervertebral
 diced
 prep
 glenohumeral
-imperviousness
 frogmarch
 frogmarched
 armoire
@@ -3102,7 +3102,7 @@ adopted
 subtotal
 swoosh
 triforium
-goof
+clerestory
 spritz
 aperiodicity
 devilment
@@ -6677,6 +6677,22 @@ nonidiomatic
 whisking
 overhanging
 ordained
-gimbal
 reported
 misreported
+blind spot
+pierogi
+bozo
+whacky
+wacky
+crouton
+sanctioned
+existing
+evacuated
+splitting
+subprocess
+productively
+flooded
+buried
+gliding
+alembic
+polyphyletic

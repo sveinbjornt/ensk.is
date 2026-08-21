@@ -45,6 +45,8 @@ async def api_suggest(
 ) -> JSONResponse:
     """Return autosuggestion results for partial string in input field."""
     lim = min(limit, MAX_SUGGESTION_LIMIT)
+    if lim <= 0:
+        lim = MAX_SUGGESTION_LIMIT
     results, _, _ = cached_results(q, exact_match=False, limit=lim)
     words = [x["word"] for x in results][:lim]
     return JSONResponse(content=words)

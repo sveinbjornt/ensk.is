@@ -20,6 +20,8 @@ python3 gen/audio.py
 --exclude ".ruff_cache" \
 --exclude "*.xml" \
 --exclude ".DS_Store" \
+--exclude ".env" \
+--exclude "tests" \
 --delete \
 -av "." \
 root@ensk.is:/www/ensk.is/html/

@@ -131,8 +131,8 @@ land surveying n. landmæling
 land surveyor n. landmælingamaður
 land tax n. fasteignaskattur
 landwaiter n. tollþjónn í hafnarstöðum, strandvörður
-landward ao. [to (the) ~] upp að landi; landmegin; l. [(the) ~ side] sú hlið er til lands veit
-land-wind n. aflandsvindur
+landward ao. [to (the) ~] upp að landi; landmegin; l. [(the) ~ side] sú hlið sem snýr til lands
+land wind n. aflandsvindur
 lane n. þröng gata; þröng göng (milli limgarða, húsa, gegnum mannþyrpingu)
 langrage n. járnbrotaskot, notuð í sjóhernaði
 language n. tungumál, tunga, mál; [strong ~] stóryrði; [foul ~] ljótur munnsöfnuður
@@ -177,7 +177,7 @@ large l. stór, víður; mikill; víðtækur; ríkulegur; göfugur ([a ~ heart])
 large-boned l. beinastór
 large-featured l. stórgerður í andliti
 large-handed l. stórhendur; örlátur
-large-hearted l. veglyndur
+large-hearted l. göfuglyndur, veglyndur
 largely ao. í stórum (ríkulegum) mæli; mjög; ríkulega
 largeness n. mikil stærð; vídd; veglyndi; frjálslyndi ([the ~ of his views])
 largess n. stórgjafir, örlæti ([your proposed ~ to the church])
@@ -206,7 +206,7 @@ latch n. loka, klinka (á hurð); s. loka með klinku
 latchet n. skóþvengur
 late l. seinn; of seinn; fyrrverandi ([his ~ master]); heitinn, sálugi ([my ~ husband]); nýr (um viðburði, fréttir o.fl.); [it is ~] það er framorðið; [~ hours] vökur; [of ~] í seinni tíð, nýlega; [of ~ years] á seinni árum; ao. (of) seint
 lately ao. nýlega, fyrir skömmu; upp á síðkastið
-lateness n. síðleiki; nýleiki; [apprising us of the ~ of the hour] hve framorðið væri orðið
+lateness n. síðleiki, seinleiki, seinleikur; nýleiki; [apprising us of the ~ of the hour] láta okkur vita hve framorðið væri orðið
 lateen l. [~ sail] skásegl
 laten s. seinka
 latent l. leyndur, hulinn; falinn ([~ heat, ~ disposition])
@@ -422,7 +422,7 @@ Lent n. fasta
 Lenten l. sem lýtur að föstunni, föstu-; magur, rýr
 lenticular l. tvíkúptur
 lentil n. flatbaun
-lentitude n. seinleiki
+lentitude n. seinleiki, seinleikur
 leonine l. ljónslegur
 leopard n. hlébarði, pardusdýr
 leper n. holdsveikur (líkþrár) maður
@@ -1002,6 +1002,6 @@ lynch law n. sjálfdæmislög
 lynx n. gaupa (rándýr)
 lynx-eyed l. hvasseygður
 lyre n. harpa
-lyric l. ljóðrænn; ljóð-; [a ~ poet] ljóðskáld; n. ljóðakveðskapur
+lyric l. ljóðrænn; ljóð-; [a ~ poet] ljóðskáld; n. ljóðakveðskapur; lagatexti (yfirleitt í ft. [~s])
 lyrical l. ljóðrænn, ljóða-
 lyrist n. hörpuleikari; ljóðskáld

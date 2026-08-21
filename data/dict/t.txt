@@ -110,7 +110,7 @@ tantalizer n. kvalari
 tantamount l. jafngildur, jafn (e-u [to])
 tantivy n. fleygiferð
 tantrum n. duttlungar, ólund, vonska; [be in one's ~s] vera í vondu skapi; [go into one's ~s] komast í vont skap
-tap s. berja hægt á ([~ the door or at the door]); tappa úr (e-u); bora gat á ílát; n. lítið högg; leðurpjatla (undir sóla eða hæl); bunugat; tunnukrani; [on (in) ~] á reiðum höndum, á krana
+tap s. berja hægt á ([~ the door or at the door]); tappa úr (e-u); bora gat á ílát; n. lítið högg; leðurpjatla (undir sóla eða hæl); bunugat; tunnukrani; [on ~] á krana, á reiðum höndum
 taphouse n. ölstofa
 taproom n. drykkjustofa, ölstofa
 taproot n. aðalrót (plöntu)
@@ -126,7 +126,7 @@ tapster n. víntappari, öltappari, skenkjari á ölstofu
 tar n. tjara; sjómaður; s. tjarga, bika
 tarantella n. tarantella (ítalskur þjóðdans)
 tarantula n. tarantúla (eitruð risakönguló)
-tardiness n. seinleiki, seinlæti
+tardiness n. seinleiki, seinlæti, seinleikur
 tardy l. seinn, seinlátur, seinfær; seinkvæmur
 tare n. umfeðmingsgras; [the parable of the ~s of the field] dæmisagan um illgresið á akrinum; umbúðaþungi; s. draga frá umbúðaþungann
 targe n. targa, skjöldur
@@ -1205,7 +1205,7 @@ trollopy l. subbulegur
 trombone n. básúna
 tromp n. blásturvél (við bræðsluofna)
 trompe n. blásturvél (við bræðsluofna)
-troop n. flokkur, hópur ([~ of children, ~ of soldiers]); riddaraflokkur ([~ of horse]); ft. liðsafli, lið; s. hópast, safnasthafa mök við ([with]); fara, halda (~ home, off, away); ganga í röð; koma (fara) í hópum; hafa mök við ([with]); fara, halda ([~ home, off, away]); ganga í röð; koma (fara) í hópum
+troop n. flokkur, hópur ([~ of children, ~ of soldiers]); riddaraflokkur ([~ of horse]); ft. liðsafli, lið; s. hópast, safnast; fara, halda (~ home, off, away); ganga í röð; koma (fara) í hópum; hafa mök við ([with]); fara, halda ([~ home, off, away]); ganga í röð; koma (fara) í hópum
 trooper n. (óbreyttur) hermaður, dáti, liðsmaður, riddari; [storm ~] stormsveitarmaður
 trope n. óeiginlegt orðtæki
 trophied l. skreyttur sigurmerkjum

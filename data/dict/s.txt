@@ -1396,7 +1396,7 @@ slovenliness n. sóðaskapur, óþrifnaður
 slovenly l. sóðalegur, óþrifinn
 slow l. seinn; daufur, hægur; seinvirkur ([~ poison]); tómlátur; tornæmur; leiðinlegur; [~ coach] daufingi; s. hægja á sér, draga úr ferðinni
 slowly ao. hægt, seint ([walk ~])
-slowness n. seinleiki, seinlæti, hægagangur
+slowness n. seinleiki, seinleikur, seinlæti, hægagangur
 slow-witted l. skilningsdaufur, tornæmur
 slub n. togi, lopi
 sludge n. krapi, bleyta
@@ -1497,7 +1497,7 @@ snapshot n. skot á flugi, flugskot; augnabliksmynd, skyndimynd; s. taka augnabl
 snare n. snara; s. véla; veiða í snöru, snara
 snarl s. urra; nöldra
 snarler n. urrari; nöldurseggur
-snatch s. grípa, hrifsa; þrífa; hnupla; glefsa (til eða í [at]); [~ed away (by premature death)] kippt í burtu; n. grip, hrifs; rykkur; biti, lítið stykki; [a ~ of sleep] blundur
+snatch s. grípa, hrifsa; þrífa; hnupla; glefsa (til eða í [at]); [~ed away (by premature death)] kippt í burtu; n. grip, hrifs; rykkur; biti, lítið stykki; [a ~ of sleep] blundur; píka (óforml.)
 snatchingly ao. með rykkjum
 snatchy l. rykkjóttur
 snath n. orf
