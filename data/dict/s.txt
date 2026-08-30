@@ -1392,8 +1392,8 @@ slouch s. vera niðurlútur; hanga, slúta; ganga (sitja, standa) klunnalega, dr
 slough n. forarpollur; fen; höggormshamur; hrúður (ofan af sári); s. skipta um ham; losna (um hrúður)
 sloughy l. blautur, mýrlendur; hrúðurkynjaður
 sloven n. sóði; l. sóðalegur, óþrifinn
-slovenliness n. sóðaskapur, óþrifnaður
-slovenly l. sóðalegur, óþrifinn
+slovenliness n. sóðaskapur, óþrifnaður, óþrifni; óvandvirkni, hroðvirkni
+slovenly l. sóðalegur, óþrifinn; óvandvirkur, hroðvirknislegur
 slow l. seinn; daufur, hægur; seinvirkur ([~ poison]); tómlátur; tornæmur; leiðinlegur; [~ coach] daufingi; s. hægja á sér, draga úr ferðinni
 slowly ao. hægt, seint ([walk ~])
 slowness n. seinleiki, seinleikur, seinlæti, hægagangur
@@ -2366,8 +2366,8 @@ stodge s. éta græðgislega; n. þungmeltur matur
 stodgy l. troðfullur; þungmeltur
 Stoic n. stóumaður, stóuspekingur (heimspekingur); l. sem lýtur að kenningu stóumanna; afskiptalaus (um gleði og sorg)
 Stoical l. sem lýtur að kenningu stóumanna, stóuspekilegur; afskiptalaus (um gleði og sorg)
-Stoicism n. stóumannaheimspeki, stóuspeki; stilling, jafnaðargeð
-stoke s. skara að og leggja á eldinn, kynda
+Stoicism n. stóuspeki, stóumannaheimspeki; stilling, jafnaðargeð
+stoke s. kynda, skara að og leggja á eldinn
 stoker n. kyndari (á gufuvagni eða gufuskipi)
 stole n. mjótt og langt silkiband sem enskir og kaþólskir prestar bera, stóla; dragsíð skikkja
 stolid l. skilningsdaufur; heimskur; tilfinningarlaus, sljór ([a ~ face])

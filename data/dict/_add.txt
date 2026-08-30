@@ -10822,7 +10822,8 @@ evenhandedness n. jafnræði, óhlutdrægni, óvilhalli
 funding n. fjármögnun
 blogging n. bloggun, bloggskrif, skrif í vefrit
 crawler n. skriðill, vefskriðill ([web ~])
-likeminded l. eins þenkjandi, með svipaðan hugsunarhátt
+likeminded l. eins þenkjandi, með svipaðan hugsunarhátt, í sama hug
+like-minded l. sjá %[likeminded]%
 burka n. búrka (alklæði kvenna í heittrúuðum múslímalöndum)
 burqa n. sjá %[burka]%
 haram l. bannað samkvæmt íslamstrú, syndugt
@@ -12044,4 +12045,18 @@ fathead n. auli, bjáni, vitleysingur, heimskingi
 fatheaded l. aulalegur, bjánalegur, heimskulegur, heimskur
 goof n. trúður, bjálfi, lúði (óforml.)
 hobbled l. haltur; heftur; haldið aftur
-stash s. fela; geyma, koma fyrir (á geymslustað); n. geymsla, geymslustaður; (falinn) varaforði, varasjóður
+stash s. fela; geyma, koma fyrir (á geymslustað); n. geymsla, geymslustaður; geymslusjóður; (falinn) varaforði, varasjóður
+stoic l. stóískur, jafnlyndur, æðrulaus
+wizardess n. galdrakona, seiðkona, seiðkerling, norn
+myrrhic l. mirru-, myrru-, myrrutré-
+Whitehall n. breska ríkisstjórnin; húsakynni breska ríkisins (höll í Lundúnum)
+Czechoslovakian l. tékkóslóvakískur; n. Tékkóslóvaki, manneskja frá Tékkóslóvakíu
+Czechoslovak l. sjá %[Czechoslovakian]%
+crouton n. (þurrkaður) brauðteningur
+overhanging l. yfirhangandi
+timewise ao. tímalega séð, út frá tíma
+allotropy n. fjölgervi
+allotrope n. fjölgervingur
+mouldy l. myglaður; slitinn, úr sér genginn
+declining l. hallandi; hnígandi; hnignandi; minnkandi, rénandi; lækkandi
+osculate s. kyssa; komast í snertingu við, snerta

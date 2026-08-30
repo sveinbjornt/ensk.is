@@ -1487,8 +1487,8 @@ myriad n. tíu þúsundir; ótölulegur fjöldi, ótal
 mynheer n. herra minn; Hollendingur
 myope n. nærsýnn maður; l. nærsýnn
 myopy n. nærsýni
-myrmidon n. ófyrirleitinn fylgismaður
-myrrh n. mirra
+myrmidon n. ófyrirleitinn fylgismaður, stuðningsmaður sem sýnir mikla fylgispekt
+myrrh n. mirra, myrra, myrrutré
 myrtiform l. líkur myrtu
 myrtle n. myrta (sígræn jurt)
 myself fn. (ég) sjálfur ([I saw it ~]); (sjálfan) mig ([I have hurt ~]); [the third is ~] sá þriðji er ég

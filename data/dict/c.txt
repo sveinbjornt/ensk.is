@@ -1339,8 +1339,8 @@ colony n. nýlenda
 coloration n. litsetning
 color n. sjá %[colour]%
 colorific l. litandi
-colossal l. risavaxinn; stórkostlegur
-colossus n. risalíkneski; bákn
+colossal l. risavaxinn; feiknarlegur; stórkostlegur
+colossus n. risalíkneski; risi, risavaxinn maður; bákn
 colour n. litur; hörundslitur, roði (í kinnum); ytra útlit; blær, yfirskin; flagg, fáni; [change ~] fölna; roðna; [display ~s] flagga; s. lita, draga lit á; fegra; litkast, roðna
 colourable l. sennilegur; uppgerður, sviksamlegur
 colour-blind l. litblindur
