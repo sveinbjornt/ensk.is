@@ -223,9 +223,11 @@ def test_edge_cases() -> None:
     assert response.status_code == HTTPStatus.OK
     assert response.json() != {}
 
-    # API parsed many with a very long query
+    # API parsed many with a very long query. This used to be accepted, and
+    # blocked the event loop for seconds while it ran; it is now rejected.
     response = client.get("/api/item/parsed/many/?q=" + ",".join(["a"] * 1000))
-    assert response.status_code == HTTPStatus.OK
+    assert response.status_code == HTTPStatus.BAD_REQUEST
+    assert response.json()["error"] is True
 
     # Page with non-integer page number
     response = client.get("/page/abc")
@@ -289,3 +291,47 @@ def test_api_search_empty_query() -> None:
     response = client.get("/api/search/%20%20")
     assert response.status_code == HTTPStatus.OK
     assert response.json() == {"results": []}
+
+
+def test_batch_endpoint_rejects_too_many_terms() -> None:
+    """The batch endpoint must refuse oversized term lists."""
+    from routes.api import MAX_BATCH_TERMS
+
+    q = ",".join(["cat"] * (MAX_BATCH_TERMS + 1))
+    response = client.get("/api/item/parsed/many/", params={"q": q})
+    assert response.status_code == 400
+    assert response.json()["error"] is True
+
+
+def test_batch_endpoint_rejects_overlong_query() -> None:
+    """The batch endpoint must refuse an overlong raw query string."""
+    from routes.api import MAX_BATCH_QUERY_LENGTH
+
+    response = client.get(
+        "/api/item/parsed/many/", params={"q": "a" * (MAX_BATCH_QUERY_LENGTH + 1)}
+    )
+    assert response.status_code == 400
+    assert response.json()["error"] is True
+
+
+def test_batch_endpoint_accepts_terms_at_the_limit() -> None:
+    """A batch request exactly at the cap must still succeed."""
+    from routes.api import MAX_BATCH_TERMS
+
+    q = ",".join(["cat"] * MAX_BATCH_TERMS)
+    response = client.get("/api/item/parsed/many/", params={"q": q})
+    assert response.status_code == HTTPStatus.OK
+    assert "cat" in response.json()
+
+
+def test_batch_endpoint_runs_off_the_event_loop() -> None:
+    """The handler must be sync, so FastAPI runs it in a threadpool.
+
+    As an async def with no await it blocked the event loop for the whole
+    request, stalling every other client.
+    """
+    import inspect
+
+    from routes.api import api_item_parsed_many
+
+    assert not inspect.iscoroutinefunction(api_item_parsed_many)
