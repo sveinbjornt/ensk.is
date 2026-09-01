@@ -11922,9 +11922,9 @@ Minnesotan l. frá Minnesota-fylki (í Bandaríkjunum); n. Minnesota-búi, Minne
 Aussie n. Ástrali (óforml.)
 Kiwi n. Nýsjálendingur (óforml.)
 rightfulness n. lögmæti; réttvísi; réttleiki
-deathlessly ao. ódauðlega; eilíflega, ódauðlega
+deathlessly ao. ódauðlega; eilíflega
 unattractiveness n. ljótleiki; það að vera óaðlaðandi
-tsetse fly n. tsetsefluga ([~ fly], afrísk fluga)
+tsetse fly n. tsetsefluga (afrísk fluga)
 cilantro n. kóríanderlauf
 pollarding n. stýfing (á trjám)
 gumptious l. framtakssamur; skynsamur, með heilbrigða skynsemi
@@ -12025,7 +12025,7 @@ waterfront n. sjávarbakki; árbakki; hafnarbakki, hafnarsvæði (í borg)
 syncopation n. úrfelling stafs úr miðju orði, samdráttur; misgengi eða breytilegar áherslur (í takti)
 syncopated l. samandreginn, styttur (um orð); misgengur, með tilfærðum áherslum (um takt)
 window ledge n. gluggakista
-economic historian n. hagsögufræðingur, hagsagnfræðingur
+economic historian n. hagsögufræðingur
 night sweat n. nætursviti
 lookism n. útlitsfordómar
 multidimensionality n. margvíðni (sjá %[multidimensional]%)
@@ -12067,3 +12067,31 @@ woolgather s. vera með draumóra
 raw material n. hráefni
 full-sized l. í fullri stærð
 Ptolemaic l. Ptolemaja-, er varðar ríki Ptolemaja (hellenískt ættarveldi)
+nucleiform l. kjarnlaga
+nuclear war n. kjarnorkustríð
+nuclear power n. kjarnorka
+nuclear reaction n. kjarnahvörf
+nucleic acid n. kjarnasýra
+womanlike l. kvenlegur
+wistfulness n. angurværð
+whimpering n. kjökur; l. kjökrandi, snöktandi
+water-resistant l. vatnsþolinn
+Alemannic l. alemanníska (tungumál)
+blue-green l. blágrænn
+dungheap n. mykjuhaugur
+gratin n. gratín (ofnréttur)
+unorganized l. sjá %[disorganized]%
+splendorous l. dýrlegur, glæsilegur
+purported l. meintur, ætlaður (sjá %[purport]%)
+poliomyelitis n. mænusótt
+mousehole n. músarhola
+knifing n. hnífsstunga
+marinade n. kryddlögur, marínering
+dermis n. leðurhúð
+enslaved l. ófrjáls, hnepptur í þrældóm, þrælkaður
+forsaken l. yfirgefinn
+fostering n. fóstrun
+hematopoiesis n. blóðfrumnamyndun
+minutes nft. fundargerð ([~ of a meeting])
+pH n. sýrustig, pH-gildi
+pampering n. dekur; eftirlæti; offóðrun
