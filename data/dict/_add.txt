@@ -1982,7 +1982,7 @@ intelligentsia n. menntastétt, menntamannastétt
 sacrosanct l. heilagur, friðhelgur
 wholeheartedly ao. heilshugar, af heilum hug, af öllu hjarta
 unhelpful l. óhjálpsamur, óhjálplegur; ógagnlegur
-constipated l. með harðlífi, hægðatregðu
+constipated l. með harðlífi, með hægðatregðu
 right-wing l. hægrisinnaður, á hægri væng stjórnmála
 right-winger n. hægrimaður (í stjórnmálum)
 rightist n. hægrimaður (í stjórnmálum)
@@ -3254,7 +3254,7 @@ historically ao. sögulega
 moneylender n. (okur)lánari, lánardrottinn
 deforestation n. skógeyðing, skógareyðing, eyðing skóga
 diplomat n. stjórnarerindreki, ríkiserindreki, diplómati; e-r sem er háttvís eða lipur í samskiptum
-Baltic n. Eystrasaltið ([the ~ Sea]); Eystrasalts-; [the ~ states] Eystrasaltsríkin
+Baltic n. Eystrasaltið ([the ~ Sea]); l. Eystrasalts-, frá Eystrasaltinu; [the ~ states] Eystrasaltsríkin; baltneskur; [~ languages] baltnesk tungumál
 fermented l. gerjaður; sýrður
 shipyard n. slippur, skipasmíðastöð
 wholesaler n. heildsali
@@ -12075,7 +12075,7 @@ nucleic acid n. kjarnasýra
 womanlike l. kvenlegur
 wistfulness n. angurværð
 whimpering n. kjökur; l. kjökrandi, snöktandi
-water-resistant l. vatnsþolinn
+water-resistant l. vatnsþolinn, vatnsvarinn
 Alemannic l. alemanníska (tungumál)
 blue-green l. blágrænn
 dungheap n. mykjuhaugur
@@ -12095,3 +12095,40 @@ hematopoiesis n. blóðfrumnamyndun
 minutes nft. fundargerð ([~ of a meeting])
 pH n. sýrustig, pH-gildi
 pampering n. dekur; eftirlæti; offóðrun
+carnassial n. ránjaxl
+Finnmark n. Finnmörk (nyrsti hluti Noregs)
+useable l. sjá %[usable]%
+turbinate n. nefskel, nefaða
+rainstorm n. rok og rigning, regnveður
+radiograph n. geislunarmynd, röntgenmynd
+rabble-rousing n. lýðskrum, múgæsingur
+poikilothermic l. sjá %[cold-blooded]%
+pilsner n. pilsner
+parent-in-law n. tengdaforeldri
+osteoblast n. beinkímfruma
+ocarina n. okkarína (blásturshljóðfæri)
+metacarpal n. miðhandarbein
+brailer n. háfur
+letterbox n. póstkassi
+immersed l. niðursokkinn
+overfly s. fljúga yfir
+borborygmus n. garnagaul
+halving n. helmingun (sjá %[halve]%)
+fornix n. hvolf (innan líkamans)
+favus n. húðsveppasýking
+epistaxis n. blóðnasir
+logger n. skógarhöggsmaður; gangriti; atburðaskráningarkerfi (í hugbúnaði)
+Lapland n. Lappland
+Proto-Indo-European n. frumindóevrópska (tungumál); l. frumindóevrópskur
+analog l. flaumrænn
+analogue l. sjá %[analog]%
+noctiluca n. maurildi
+apocope n. brottfall (í framburði orðs)
+astigmatism n. sjónskekkja
+baobab n. apabrauðstré
+bender n. fyllirí ([go on a ~])
+fogbow n. þokubogi
+litheness n. liðugleiki; mýkt
+ness n. nes (yfirleitt ending í örnefnum, t.d. [Caithness])
+pahoehoe n. helluhraun
+hawk-eyed l. haukfránn

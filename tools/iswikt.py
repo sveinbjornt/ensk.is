@@ -26,6 +26,8 @@ for e in ent:
 #     print(f"{e} {entries[e]}")
 
 keys = list(entries.keys())
+lower = [k.lower() for k in keys]
+
 
 for line in lines:
     (word, dfn) = line.split(":", 1)
@@ -38,5 +40,5 @@ for line in lines:
     #         if d not in entries[word].lower():
     #             print(line)
     #             break
-    if word not in keys and " " not in word:
+    if word not in keys and word not in lower and " " not in word:
         print(line)
