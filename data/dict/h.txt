@@ -1013,7 +1013,7 @@ hyacinth n. hýasinta, jasinta
 hyades nft. sjöstirni
 hyaline n. spegilsléttur sjór; l. gagnsær sem gler
 hybrid n. kynblendingur; l. framkominn af tveim ólíkum tegundum (plantna eða dýra)
-hydatid n. sullur; ft. sullaveiki; l. sullaveiki- ([~ patient])
+hydatid n. sullur; l. sullaveiki- ([~ patient])
 hydra n. vatns- eða sjóskrímsli; vatns- eða sjóormur
 hydrate n. vatneldi (í efnafræði)
 hydraulic l. vatnsafls-, gerður með vatnsafli

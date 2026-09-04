@@ -1336,7 +1336,7 @@ minotaur n. mínótár (úr grískri goðafræði, skrímsli sem er hálfur mað
 banshee n. kvenvofa (í írskri þjóðtrú)
 phoenix n. Fönix (ódauðlegur eldfugl í grískri goðafræði)
 bogeyman n. vondi karlinn, vætturinn (í barnamáli)
-Scientology n. Vísindakirkjan
+Scientology n. Vísindakirkjan (bandarískur sértrúarsöfnuður)
 Scientologist n. Vísindakirkjumeðlimur, Vísindakirkjumaður
 Aristotelianism n. heimspeki gríska fræðimannsins Aristótelesar
 Aristotelian l. aristótelískur (eftir gríska heimspekingnum Aristótelesi)
@@ -6330,7 +6330,7 @@ incomprehensibility n. óskiljanleiki
 unsymmetrical l. ekki samhverfur (andstæðan við %[symmetrical]%)
 ornithophage n. fuglaæta
 ornithophagy n. fuglaát
-diabolic l. djöfullegur, djöflalegur, helvískur
+diabolic l. sjá %[diabolical]%
 unsteady l. óstöðugur; óstaðfastur
 silently ao. hljóðlega, án hljóðs; í þögn, á þögulan hátt (sjá %[silent]%)
 wank n. runk
@@ -6539,6 +6539,7 @@ hypotension n. vanþrýstingur, lágþrýstingur
 navigability n. sjófærni, skipfærni; færð
 schoolhouse n. skólahús, skólabygging
 Balto-Slavic l. baltóslavneskt (tungumál); n. baltóslavneska
+Balto-Slavonic n. baltóslavneska (tungumál)
 Mephistopheles n. Mefistófeles (djöfull)
 Mephistophelian l. djöfullegur (sjá %[Mephistopheles]%)
 chummy l. vingjarnlegur, kumpánalegur
@@ -12043,7 +12044,7 @@ radiosonde n. veðurkanni, háloftakanni
 buffoonish l. trúðslegur, fíflagangs-, fíflalætis-, skrípagangs-, trúðslætis-
 fathead n. auli, bjáni, vitleysingur, heimskingi
 fatheaded l. aulalegur, bjánalegur, heimskulegur, heimskur
-goof n. trúður, bjálfi, lúði (óforml.)
+goof n. trúður, bjálfi, lúði (óforml.); n. mistök, klúður
 hobbled l. haltur; heftur; haldið aftur
 stash s. fela; geyma, koma fyrir (á geymslustað); n. geymsla, geymslustaður; geymslusjóður; (falinn) varaforði, varasjóður
 stoic l. stóískur, jafnlyndur, æðrulaus
@@ -12076,7 +12077,7 @@ womanlike l. kvenlegur
 wistfulness n. angurværð
 whimpering n. kjökur; l. kjökrandi, snöktandi
 water-resistant l. vatnsþolinn, vatnsvarinn
-Alemannic l. alemanníska (tungumál)
+Alemannic l. alemannískur; n. alemanníska (tungumál)
 blue-green l. blágrænn
 dungheap n. mykjuhaugur
 gratin n. gratín (ofnréttur)
@@ -12110,7 +12111,7 @@ ocarina n. okkarína (blásturshljóðfæri)
 metacarpal n. miðhandarbein
 brailer n. háfur
 letterbox n. póstkassi
-immersed l. niðursokkinn
+immersed l. niðursokkinn; á kafi
 overfly s. fljúga yfir
 borborygmus n. garnagaul
 halving n. helmingun (sjá %[halve]%)
@@ -12120,7 +12121,7 @@ epistaxis n. blóðnasir
 logger n. skógarhöggsmaður; gangriti; atburðaskráningarkerfi (í hugbúnaði)
 Lapland n. Lappland
 Proto-Indo-European n. frumindóevrópska (tungumál); l. frumindóevrópskur
-analog l. flaumrænn
+analog l. hliðrænn, flaumrænn
 analogue l. sjá %[analog]%
 noctiluca n. maurildi
 apocope n. brottfall á framburði í enda orðs
@@ -12145,3 +12146,46 @@ inevitability n. óhjákvæmileiki, óumflýjanleiki
 obsessed l. haldinn þráhyggju, heltekinn, gagntekinn, með e-ð á heilanum
 cliche n. sjá %[cliché]%
 subroutine n. undirforrit, stefja
+articulacy n. skýrmæli
+ecclesiarchy n. kirkjuveldi (stjórnarfyrirkomulag þar sem kirkjan fer með ríkisvald)
+ecclesiarch n. yfirklerkur, preláti; æðsti prestur
+vamoose s. flýja, forða sér, láta sig hverfa (slangur); flýta sér (slangur)
+skitter s. skoppa, skjótast
+skimmed l. fleyttur
+weakened l. veiktur; þynntur
+savvy l. snjall, klókur, lunkinn; fróður, vel að sér; n. klókindi; kunnátta
+hip-hop n. hipphopp (tónlistarstefna)
+hiphop n. sjá %[hip-hop]%
+fiesta n. hátíð; helgidagur
+immaterialise s. sjá %[immaterialize]%
+pruriency n. sjá %[prurience]%
+dreadnaught n. sjá %[dreadnought]%
+monochromic l. sjá %[monochromatic]%
+monochromous l. sjá %[monochromatic]%
+saccharify s. sykra; breyta í sykur
+standardisation n. sjá %[standardization]%
+odourless l. lyktarlaus
+odorless l. sjá %[odourless]%
+exorciser n. sjá %[exorcist]%
+pollenate s. sjá %[pollinate]%
+unsatiable l. sjá %[insatiable]%
+unremarkably ao. á ómarkverðan hátt, á óeftirtektarverðan hátt
+fossilisation n. sjá %[fossilization]%
+dinero n. peningur (óforml.)
+chammy n. sjá %[chamois]%
+Hebraical l. sjá %[Hebraic]%
+reliableness n. sjá %[reliability]%
+dependableness n. sjá %[dependability]%
+provenience n. sjá %[provenance]%
+response time n. viðbragðstími
+greyback n. sjá %[grayback]%
+ascendance n. sjá %[ascendancy]%
+reprinting n. endurprentun
+unmarked l. ómerktur
+eyry n. sjá %[eyrie]%
+automaker n. bílaframleiðandi, bifreiðaframleiðandi
+hydatids nft. sullir, sullblöðrur; sullarveiki
+agnostical l. sjá %[agnostic]%
+brinded l. sjá %[brindled]%
+defenseless l. sjá %[defenceless]%
+fricative n. önghljóð

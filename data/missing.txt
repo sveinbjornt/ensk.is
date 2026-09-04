@@ -297,7 +297,6 @@ tabloid
 groundbreaking
 catchphrase
 straightforward
-savvy
 stopover
 cataclysmic
 reorient
@@ -651,7 +650,6 @@ incremental
 incrementally
 virtuosity
 constrictor
-articulacy
 inarticulacy
 appropriateness
 counterblast
@@ -805,7 +803,6 @@ post-mortem
 interpersonal
 recap
 diffusionist
-ascendance
 peccary
 blender
 schema
@@ -1606,8 +1603,6 @@ reintegrate
 dissociative
 comedown
 baseboard
-hip-hop
-hiphop
 repurpose
 headspace
 polyrhythm
@@ -2814,7 +2809,6 @@ metapolitical
 humidor
 cheesecloth
 liaise
-skitter
 shortchange
 shortchanged
 autophony
@@ -4681,7 +4675,6 @@ ingeniously
 initialization
 initialisation
 cold shoulder
-weakened
 mown
 slashed
 stinger
@@ -4740,7 +4733,6 @@ fledgling (endurskoða)
 contemptibility
 despicability
 despicableness
-eyry
 mellowed
 ascesis
 squinty
@@ -6727,3 +6719,79 @@ amusingly
 charted
 diminishing
 demoralizing
+mortadella
+diabolus
+absquatulate
+deliquium
+platan
+lacewood
+backsheesh
+bakshish
+tippytoe
+pourboire
+oarlock
+tholepin
+shoestring
+crosstie
+linkup
+tie beam
+unevenness
+griever
+lamenter
+sorrower
+closedown
+cloture
+longitudinally
+longitude (endurskoða)
+walkover
+lapidarist
+lapidist
+pantywaist
+gelt
+cogwheel
+gearing
+nightman (endurskoða)
+ineffably
+unspeakably
+sensitized
+reproval
+gin mill
+curbing
+accumbent
+black sheep
+around-the-clock
+round-the-clock
+legitimately
+lawlessly
+prexy
+quint
+swaggie
+retrovert
+falderol
+cadge
+schnorr
+locoweed
+offprint
+groveler
+blushing
+red-faced
+icky
+windbreaker
+annulus
+gloriole
+atmospherics
+shielder
+continuant
+spirant
+boniness
+pewee
+lampblack
+harried
+harassed
+nark
+cryptologist
+coronate
+treetop
+peddling
+scrabbly
+brindle

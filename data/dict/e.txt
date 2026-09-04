@@ -70,7 +70,7 @@ eccentric l. ósammiðja (um hring); óreglubundinn; undarlegur, kenjóttur, sé
 eccentricity n. sá eiginleiki að liggja fyrir utan miðdepilinn, hringskekkja; kenjar; sérviska; öfgar
 Ecclesiastes n. predikarinn (Salómons)
 ecclesiastic l. kirkjulegur; klerklegur, kennimannlegur; n. klerkur, prestur
-ecclesiastical l. kirkjulegur; klerklegur, kennimannlegur; n. klerkur, prestur
+ecclesiastical l. sjá %[ecclesiastic]%
 echinus n. ígulker
 echo n. bergmál, ómur; s. bergmála, óma; líkja eftir, stæla
 eclectic l. úrveljandi, úrvals-; fjölbreyttur
@@ -440,7 +440,7 @@ emulation n. kappgirni, keppni
 emulative l. sem vill keppa (eða jafnast) við e-n, kappgjarn
 emulator n. eftirhermari
 emulous l. sem vill líkja eftir eða sækist eftir ([of]); kappgjarn
-emulsion n. möndludrykkur, svaladrykkur
+emulsion n. fleyti; dropalausn; möndludrykkur, svaladrykkur
 enable s. gera hæfan eða færa (til [to]); veita e-m heimild til ([~ one to do something])
 enact s. ákveða (með lögum); setja ([~ a law]); leika (e-a persónu); sýna (á leiksviði)
 enactment n. lagaboð, lög; (laga-)ákvæði
