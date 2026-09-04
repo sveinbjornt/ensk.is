@@ -4351,14 +4351,14 @@ catalytic l. hvetjandi-; efnahvarfs-; n. efnahvarfi
 psychosexual l. kynsálar-; [~ development] kynsálþróun
 counterfactual l. staðleysu-, staðlaus, óraunveruleika-, gegn staðreyndum; n. öfugmæli, staðleysa, setning sem fæst við óraunveruleika
 placelessness n. staðleysa
-inescapably ao. óflýjanlega, óhjákvæmilega
+inescapably ao. óumflýjanlega, óhjákvæmilega
 understandably ao. skiljanlega
-strangely ao. undarlega, skringilega, furðulega
+strangely ao. undarlega, skringilega, furðulega, einkennilega
 predictably ao. fyrirsjáanlega
 blithely ao. glaðlega
 tastelessness n. bragðleysi; smekkleysi
 imperfectly ao. ófullkomnlega
-unperfectly ao. ófullkomnlega
+unperfectly ao. sjá %[imperfectly]%
 historiographical l. sagnaritunar-
 parakeet n. e.k. páfagaukur
 Ordovician n. ordóvisíum-tímabilið
@@ -7040,7 +7040,7 @@ unpatriotic l. óþjóðrækinn, án ættjarðarástar
 revisionism n. endurskoðunarstefna
 revisionist n. sá sem endurskoðar (söguleg málefni eða fyrri stefnu); l. endurskoðunar-, endurhugsunar-
 foolishness n. fásinna, fávísi, heimska, kjánaskapur
-inevitably ao. óhjákvæmilega
+inevitably ao. óhjákvæmilega, óumflýjanlega
 tentacular l. fálmara-, griparms- (sjá %[tentacle]%)
 assailable l. sem hægt er að gera áhlaup á, sem hægt er að ráðast á
 unassailable l. sem ekki er hægt að gera áhlaup á, sem ekki er hægt að ráðast á
@@ -12123,7 +12123,7 @@ Proto-Indo-European n. frumindóevrópska (tungumál); l. frumindóevrópskur
 analog l. flaumrænn
 analogue l. sjá %[analog]%
 noctiluca n. maurildi
-apocope n. brottfall (í framburði orðs)
+apocope n. brottfall á framburði í enda orðs
 astigmatism n. sjónskekkja
 baobab n. apabrauðstré
 bender n. fyllirí ([go on a ~])
@@ -12132,3 +12132,16 @@ litheness n. liðugleiki; mýkt
 ness n. nes (yfirleitt ending í örnefnum, t.d. [Caithness])
 pahoehoe n. helluhraun
 hawk-eyed l. haukfránn
+ectoparasite n. útsníkill
+serviceman n. viðgerðarmaður; bensínafgreiðslumaður; hermaður, dáti, maður sem gegnir herþjónustu
+heartland n. miðsvæði, kjarni byggðar eða lands
+destructiveness n. eyðileggingarmáttur
+underage l. undir lögaldri
+Jewishness n. gyðingleiki, sá eiginleiki að vera gyðingur
+expendable l. fórnanlegur, missanlegur
+noncombatant n. óbreyttur borgari, manneskja sem er ekki hermaður, manneskja sem gegnir ekki herþjónustu (á ófriðartímum)
+lethality n. banvæni, það að vera banvænn; dauðatíðni
+inevitability n. óhjákvæmileiki, óumflýjanleiki
+obsessed l. haldinn þráhyggju, heltekinn, gagntekinn, með e-ð á heilanum
+cliche n. sjá %[cliché]%
+subroutine n. undirforrit, stefja
