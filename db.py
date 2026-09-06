@@ -238,7 +238,8 @@ class EnskDatabase:
 
     def read_all_without_ipa(self, lang: str = "uk") -> list[dict[str, Any]]:
         """Read and return all entries without IPA."""
-        assert lang in ["uk", "us"]
+        if lang not in ["uk", "us"]:
+            raise ValueError("lang must be 'uk' or 'us'")
         ipa_col = "ipa_" + lang
         selected = (
             self.conn()
