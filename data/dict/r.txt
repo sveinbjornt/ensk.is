@@ -146,9 +146,9 @@ ratification n. staðfesting
 ratify s. staðfesta, samþykkja ([~ a compact])
 ratio n. hlutfall
 ratiocinate s. álykta; gera ályktun
-ratiocination n. ályktun
-ration n. matarskammtur; s. úthluta (e-m) matarskammt, skammta
-rational l. skynsemi gæddur ([~ being]); skynsamur; skynsamlegur
+ratiocination n. ályktun; rökhugsun, rökleiðsla
+ration n. matarskammtur; skammtur; s. úthluta (e-m) matarskammt, skammta
+rational l. skynsamur; skynsamlegur; skynsemi gæddur ([~ being]); ræður (um tölur, [~ number])
 rationalism n. skynsemistrú
 rationalist n. skynsemistrúarmaður
 rationality n. skynsemi; dómgreind

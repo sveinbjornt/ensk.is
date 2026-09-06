@@ -7,7 +7,9 @@ preterperfect
 cat-o'-nine-tails
 locus
 epanorthosis
+subeffective
 subeffectiveness
+supereffective
 supereffectiveness
 subliminal
 subliminally
@@ -106,12 +108,9 @@ cack-handed
 micromanage
 micromanagement
 inductive
-experimentalism
 concerned
 demonstrated
-purposive
 underlabourer
-institutional
 notoriously
 deep-rooted
 embellished
@@ -119,12 +118,9 @@ enthusiastically
 compelling
 anti-religious
 antithetical
-anti-Christian
 authorship
 archetypical
 sensationalist
-inconducive
-developmental
 superstitiously
 unprivileged
 purposiveness
@@ -6321,7 +6317,6 @@ ambidextrous (endurskoða)
 buckeye
 stateside
 recombinant
-rational number
 embarkment
 disembarkment
 stultification
@@ -6784,7 +6779,6 @@ misspoken
 inconspicuously
 icing
 heartbreaker
-gyros
 grieved
 furnishing
 furnishings
@@ -6802,7 +6796,7 @@ cuckoo (endurskoða)
 hunky-dory
 foreordination
 deprecating
-slighting
+exonerate (endurskoða)
 exonerated
 exculpated
 barretter
@@ -6815,15 +6809,17 @@ demurral
 tagalong
 oppressiveness
 verruca
-revived
 weenie
-negativist
-uncreative
 huskiness
 reigning
-fidgetiness
 lavation
 tactual
 penny-pincher
 penny-pinching
 hiking
+finger-wagging
+unearned
+windfall (endurskoða)
+Fordism
+slangy (endurskoða)
+fiat (endurskoða)
