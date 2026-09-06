@@ -8451,7 +8451,6 @@ brigantine n. brigantína (tvímastrað skip)
 officiousness n. afskiptasemi; nærgengni (sjá %[officious]%)
 summa cum laude l. (lat.) með hæstu einkunn, með æðsta láði
 barmy l. freyðandi, ólgandi; vitfirrtur, fásinnaður
-barkeep n. sjá %[barkeeper]%
 abacá n. manillahampur; bananajurt
 flight attendant n. flugþjónn
 flight plan n. flugáætlun
@@ -12261,3 +12260,14 @@ dockhand n. hafnarverkamaður
 sis n. systir (stytt. á %[sister]%, óforml.)
 acceleratory l. sjá %[accelerative]%
 parsimoniousness n. sjá %[parsimony]%
+soulful l. hjartnæmur, angurvær
+holdfast n. haldfesta
+aquaponics nft. vatnsræktun
+aquaponic l. vatnsræktunar-
+induced l. afleiddur; innleiddur; framkallaður; ályktaður
+polearm n. stangvopn
+fauchard n. e.k. stangvopn
+guisarme n. e.k. stangvopn
+voulge n. e.k. franskt stangvopn
+spetum n. e.k. stangvopn
+ranseur n. e.k. stangvopn (sem líkist þríforki)
