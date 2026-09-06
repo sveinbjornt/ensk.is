@@ -37,6 +37,8 @@ Dictionary database singleton.
 
 """
 
+from typing import Any
+
 import logging
 import os
 import sqlite3
@@ -55,7 +57,7 @@ class EnskDatabase:
     _db_conn: sqlite3.Connection | None
     read_only: bool
 
-    def __new__(cls, read_only: bool = False):
+    def __new__(cls, read_only: bool = False) -> "EnskDatabase":
         """Singleton pattern."""
         if cls._instance is None:
             logging.info("Instantiating database")
@@ -187,11 +189,11 @@ class EnskDatabase:
         res = self._consume(selected)
         return {row["key"]: row["value"] for row in res}
 
-    def _consume(self, cursor: sqlite3.Cursor) -> list[dict]:
+    def _consume(self, cursor: sqlite3.Cursor) -> list[dict[str, Any]]:
         """Consume cursor and return list of rows."""
         return list(cursor)  # Consume generator into list
 
-    def read_all_entries(self) -> list[dict]:
+    def read_all_entries(self) -> list[dict[str, Any]]:
         """Read and return all entries."""
         selected = (
             self.conn()
@@ -200,7 +202,7 @@ class EnskDatabase:
         )
         return self._consume(selected)
 
-    def read_all_original(self) -> list[dict]:
+    def read_all_original(self) -> list[dict[str, Any]]:
         """Read and return all original entries from the dictionary."""
         selected = (
             self.conn()
@@ -211,7 +213,7 @@ class EnskDatabase:
         )
         return self._consume(selected)
 
-    def read_all_additions(self) -> list[dict]:
+    def read_all_additions(self) -> list[dict[str, Any]]:
         """Read and return all entries not present in the original dictionary."""
         selected = (
             self.conn()
@@ -222,7 +224,7 @@ class EnskDatabase:
         )
         return self._consume(selected)
 
-    def read_all_duplicates(self) -> list[dict]:
+    def read_all_duplicates(self) -> list[dict[str, Any]]:
         """Read and return all duplicate (i.e. same word) entries present in the dictionary
         as a dict keyed by word."""
         selected = (
@@ -234,7 +236,7 @@ class EnskDatabase:
         )
         return self._consume(selected)
 
-    def read_all_without_ipa(self, lang: str = "uk") -> list[dict]:
+    def read_all_without_ipa(self, lang: str = "uk") -> list[dict[str, Any]]:
         """Read and return all entries without IPA."""
         assert lang in ["uk", "us"]
         ipa_col = "ipa_" + lang
@@ -247,7 +249,7 @@ class EnskDatabase:
         )
         return self._consume(selected)
 
-    def read_all_with_no_page(self) -> list[dict]:
+    def read_all_with_no_page(self) -> list[dict[str, Any]]:
         """Read and return all entries with no page number."""
         selected = (
             self.conn()
@@ -258,7 +260,7 @@ class EnskDatabase:
         )
         return self._consume(selected)
 
-    def read_all_capitalized(self) -> list[dict]:
+    def read_all_capitalized(self) -> list[dict[str, Any]]:
         """Read and return all entries with capitalized words."""
         selected = (
             self.conn()
@@ -269,7 +271,7 @@ class EnskDatabase:
         )
         return self._consume(selected)
 
-    def read_all_with_multiple_words(self) -> list[dict]:
+    def read_all_with_multiple_words(self) -> list[dict[str, Any]]:
         """Read and return all entries consisting of multiple words."""
         selected = (
             self.conn()
@@ -280,7 +282,7 @@ class EnskDatabase:
         )
         return self._consume(selected)
 
-    def read_all_in_wordcat(self, cat: str) -> list[dict]:
+    def read_all_in_wordcat(self, cat: str) -> list[dict[str, Any]]:
         """Read all entries in a given word category."""
 
         # Return empty list if category is not valid
