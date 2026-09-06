@@ -1554,7 +1554,7 @@ posthumously ao. eftir dauðann, eftir dauða höfundarins
 postil n. skýringargrein við texta; postilla
 postilion n. forreiðarmaður
 postillion n. forreiðarmaður
-post meridiem ao. (skammstafað [P.M.]) síðdegis, eftir hádegi ([3:20 P.M.])
+post meridiem ao. eftir hádegi, síðdegis (skammstafað [P.M.] eða [p.m.])
 postmortem ao. eftir dauðann; [~ examination] líkskoðun, líkkrufning
 postpone s. fresta; láta sitja á hakanum
 postponement n. frestun
@@ -2053,7 +2053,7 @@ professorial l. kennara-, prófessora-; [the ~ chair] háskólakennaraembætti
 professorship n. kennaraembætti (við háskóla eða æðri skóla)
 proffer s. bjóða fram ([~ services]); rétta fram; n. boð, tilboð
 proficiency n. framför; leikni; kunnátta
-proficient l. vel að sér, leikinn (í vopnaburði: [~ with weapons, in the use of weapons]); n. snillingur (í e-i list eða kunnáttu [in/at an art])
+proficient l. vel að sér, leikinn, fær; n. snillingur (í e-i list eða kunnáttu [in/at an art])
 proficiently ao. kunnáttulega
 profile n. hliðarmynd (af andliti); [in ~] frá hliðinni ([draw a person in ~]); s. draga upp (mála) hliðarmynd af e-u
 profit n. gróði, ábati, ágóði; gagn; [I have studied it to my ~] mér til gagns; s. gagna (e-m); ábatast, græða (á [by, from, of]); hafa gagn af e-u ([by])

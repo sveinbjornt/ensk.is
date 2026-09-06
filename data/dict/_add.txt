@@ -2172,7 +2172,7 @@ neurosurgeon n. taugaskurðlæknir
 neuropsychologist n. taugasálfræðingur
 neuropsychological l. taugasálfræðilegur
 goldmine n. gullnáma
-telly n. sjónvarp (óforml.); sjá %[television]%
+telly n. sjónvarp (óforml., sjá %[television]%)
 apartheid n. aðskilnaðarstefna (í Suður-Afríku)
 autobiographical l. sjálfsævisögulegur
 coconut n. kókoshneta
@@ -4064,8 +4064,8 @@ sybaritic l. sællífur; sælulífs-, munaðarlífs-
 duopoly n. tvíokun, tvíkeppni
 hallucinate s. ofskynja, sjá ofsjónir, heyra ofheyrnir, kvikskynja
 troika n. þríeyki, þremenningabandalag (úr rússnesku); rússneskur vagn sem dreginn er af þremur hestum
-trivium n. þrívegur (þrjár af sjö listum í háskólum miðalda: málfræði, mælskufræði og rökfræði)
-quadrivium n. fjórvegur (fjórar af sjö listum í háskólum miðalda: tölvísi, flatarmálsfræði, stjarnfræði og sönglist)
+trivium n. þrívegur (þrjár af sjö listum í háskólum miðalda, þ.e. málfræði, mælskufræði og rökfræði)
+quadrivium n. fjórvegur (fjórar af sjö listum í háskólum miðalda, þ.e. tölvísi, flatarmálsfræði, stjarnfræði og sönglist)
 tardigrade n. bessadýr
 lithotripsy n. steinbrot, steinmolun
 UFO n. fljúgandi furðuhlutur (sks. á [unidentified flying object])
@@ -7366,7 +7366,7 @@ misidentification n. það að bera röng kennsl á
 identity card n. nafnskírteini, skilríki
 est l. stofnaður, stytt. á %[established]%
 balanced l. jafnvægur; í jafnvægi
-unbalanced l. ekki í jafnvægi; ekki jafnvægur: í ójafnvægi
+unbalanced l. ekki í jafnvægi; ekki jafnvægur; í ójafnvægi
 closed l. lokaður
 color-blind l. litblindur
 colorblind l. litblindur

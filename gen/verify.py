@@ -98,6 +98,8 @@ def check_punctuation(line: str, pn: str, ln: int):
         warn("colon with spaces", pn, ln)
     if "%%" in line:
         warn("double percentage", pn, ln)
+    if ":" in line:
+        warn("colon in line", pn, ln)
     if (
         line.endswith(" ")
         or line.endswith(";")
