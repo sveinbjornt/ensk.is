@@ -4063,7 +4063,7 @@ spay s. gera ófrjóa, taka úr sambandi, fjarlægja eggjastokka og leg
 sybaritic l. sællífur; sælulífs-, munaðarlífs-
 duopoly n. tvíokun, tvíkeppni
 hallucinate s. ofskynja, sjá ofsjónir, heyra ofheyrnir, kvikskynja
-troika n. þríeyki, þremenningabandalag; rússneskur vagn sem dreginn er af þremur hestum
+troika n. þríeyki, þremenningabandalag (úr rússnesku); rússneskur vagn sem dreginn er af þremur hestum
 trivium n. þrívegur (þrjár af sjö listum í háskólum miðalda: málfræði, mælskufræði og rökfræði)
 quadrivium n. fjórvegur (fjórar af sjö listum í háskólum miðalda: tölvísi, flatarmálsfræði, stjarnfræði og sönglist)
 tardigrade n. bessadýr
@@ -6207,7 +6207,8 @@ airway n. öndunarvegur
 muffled l. hljóðdeyfður, kæfður (um hljóð)
 fortified l. styrktur, efldur (t.d. veggur, vín, hugur); víggyrtur ([a ~ town])
 dilapidated l. niðurníddur (t.d. hús)
-spoiled l. dekraður; skemmdur, úldinn (t.d. mjólk)
+spoiled l. skemmdur, úldinn (t.d. mjólk); dekraður; skemmdur, eyðilagður
+spoilt l. sjá %[spoiled]%
 juggling n. sjá %[juggle]%
 sparkler n. stjörnuljós
 hidden l. hulinn, falinn, leyndur
@@ -6590,7 +6591,7 @@ WWII n. seinni heimsstyrjöld, 1939-1945 ([World War Two])
 bawdiness n. klúrleiki, klúrheit, dólgur
 ill-educated l. illa menntaður, illa upp alinn, illa fræddur
 curtailment n. stytting, skerðing, minnkun
-philanderer n. flagari, daðrari
+philanderer n. flagari, daðrari, kvennabósi
 icosahedron n. tvítugflötungur (tuttugu hliða teningur)
 cricketer n. krikketspilari, krikketmaður
 unalike l. ólíkur, ekki líkur
@@ -12148,12 +12149,12 @@ cliche n. sjá %[cliché]%
 subroutine n. undirforrit, stefja
 articulacy n. skýrmæli
 ecclesiarchy n. kirkjuveldi (stjórnarfyrirkomulag þar sem kirkjan fer með ríkisvald)
-ecclesiarch n. yfirklerkur, preláti; æðsti prestur
+ecclesiarch n. yfirklerkur, preláti, æðsti prestur
 vamoose s. flýja, forða sér, láta sig hverfa (slangur); flýta sér (slangur)
 skitter s. skoppa, skjótast
 skimmed l. fleyttur
 weakened l. veiktur; þynntur
-savvy l. snjall, klókur, lunkinn; fróður, vel að sér; n. klókindi; kunnátta
+savvy l. snjall, klókur, lunkinn; fróður, vel að sér; n. klókindi; kunnátta, fróðskapur
 hip-hop n. hipphopp (tónlistarstefna)
 hiphop n. sjá %[hip-hop]%
 fiesta n. hátíð; helgidagur
@@ -12189,3 +12190,28 @@ agnostical l. sjá %[agnostic]%
 brinded l. sjá %[brindled]%
 defenseless l. sjá %[defenceless]%
 fricative n. önghljóð
+chow n. matur (úr kínversku, óforml.)
+oiled l. olíuborinn
+porphyria n. purpuraveiki, porfýría
+kippah n. kollhúfa (gyðinga)
+yarmulke n. kollhúfa (gyðinga)
+uplink n. útleið, útgrein (fjarskiptarásar)
+velar l. gómfillu-; n. gómhljóð
+gwailo n. gvæló (niðrandi kínverskt orð um hvíta menn)
+treetop n. trjátoppur
+cryptology n. dulmálsfræði
+cryptologist n. dulmálsfræðingur
+lampblack n. kinrok, sót
+annulus n. hringkragi, kragi (í stærðfræði)
+windbreaker n. vindjakki, létt úlpa
+groveler n. smjaðrari, undirlægjumaður
+quint n. sjá %[quintuplet]%
+unspeakably ao. ólýsanlega, ósegjanlega, óumræðilega
+ineffably ao. ósegjanlega, ólýsanlega, óumræðilega
+cogwheel n. tannhjól
+lapidarist n. steinskeri; gimsteinasali
+lapidist n. sjá %[lapidary]%
+unevenness n. ójafnleiki, ójöfnuður
+shoestring n. sjá %[shoelace]%
+bragging n. gort, mont (sjá %[brag]%)
+bodega n. matvöruverslun, hverfisbúð; vínbúð
