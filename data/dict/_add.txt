@@ -12201,7 +12201,7 @@ gwailo n. gvæló (niðrandi kínverskt orð um hvíta menn)
 treetop n. trjátoppur
 cryptology n. dulmálsfræði
 cryptologist n. dulmálsfræðingur
-lampblack n. kinrok, sót
+lampblack n. kinrok, sót, sótsverta
 annulus n. hringkragi, kragi (í stærðfræði)
 windbreaker n. vindjakki, létt úlpa
 groveler n. smjaðrari, undirlægjumaður
@@ -12215,3 +12215,4 @@ unevenness n. ójafnleiki, ójöfnuður
 shoestring n. sjá %[shoelace]%
 bragging n. gort, mont (sjá %[brag]%)
 bodega n. matvöruverslun, hverfisbúð; vínbúð
+telecasting n. sjónvörpun, sjónvarpsútsending
