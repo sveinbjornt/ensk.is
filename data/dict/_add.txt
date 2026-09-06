@@ -12174,7 +12174,7 @@ pollenate s. sjá %[pollinate]%
 unsatiable l. sjá %[insatiable]%
 unremarkably ao. á ómarkverðan hátt, á óeftirtektarverðan hátt
 fossilisation n. sjá %[fossilization]%
-dinero n. peningur (óforml.)
+dinero n. peningar (óforml.)
 chammy n. sjá %[chamois]%
 Hebraical l. sjá %[Hebraic]%
 reliableness n. sjá %[reliability]%
@@ -12225,12 +12225,12 @@ brushwood n. kjarrskógur; sprek
 bookmarker n. sjá %[bookmark]%
 blackcap n. hettusöngvari (fugl); svart hindber
 barking n. gelt, gjamm
-asystolia n. hjartsláttarstöðvun
+asystole n. hjartsláttarstöðvun
 ashwood n. eskiviður
 Althing n. Alþingi
 Sinhala n. singalíska (tungumál)
 Abkhazian l. abkasískur
-uncool l. ekki svalur, ósvalur; hallærislegur
+uncool l. ekki svalur, ósvalur; hallærislegur, púkalegur
 unchanged l. óbreyttur
 ultramodern l. afar nýtískulegur, framúrstefnulegur
 tenderizer n. kjöthamar
@@ -12246,3 +12246,18 @@ dodo n. dúði (útdauður fugl)
 dill n. dill, dilja (kryddjurt)
 borderline l. jaðar-; vafa-, óvissu-
 bolero n. spænskur dans; mittisjakki
+wow uh. vá!
+nudeness n. sjá %[nudity]%
+boyishly ao. strákalega, drengslega
+smoothy n. sjá %[smoothie]%
+undefendable l. sjá %[indefensible]%
+uncorrected l. óleiðréttur
+white-haired l. hvíthærður
+defense n. sjá %[defence]%
+humidness n. sjá %[humidity]%
+formidability n. sjá %[formidableness]%
+unmixable l. óblandanlegur, sem ekki er hægt að blanda
+dockhand n. hafnarverkamaður
+sis n. systir (stytt. á %[sister]%, óforml.)
+acceleratory l. sjá %[accelerative]%
+parsimoniousness n. sjá %[parsimony]%
