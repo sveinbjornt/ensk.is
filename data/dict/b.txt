@@ -128,6 +128,7 @@ baptismal l. skírnar-; [~ name] skírnarnafn
 baptist n. skírari; endurskírari
 baptize s. skíra
 bar n. (málm)stöng; slá, slagbrandur; sker, grynningar (fyrir framan hafnarmynni); hindrun; dómgrindur; dómstóll; málfærslumannastétt; drykkjarsöluborð (í veitingahúsi); [go (to be called) to the ~] gerast málfærslumaður; s. byrgja; reka slagbrand fyrir; þvergirða; hindra; banna
+barkeep n. sjá %[barkeeper]%
 barkeeper n. veitingamaður, barþjónn
 barmaid n. veitingastúlka, barstúlka
 barroom n. drykkjarstofa

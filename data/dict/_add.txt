@@ -745,6 +745,7 @@ Dominica n. Dóminíka
 Dominican Republic n. Dóminíska lýðveldið
 Ecuador n. Ekvador
 Ecuadorian l. ekvadorskur; n. Ekvadori
+Ecuadorean l. sjá %[Ecuadorian]%
 Egypt n. Egyptaland
 Equatorial Guinea n. Miðbaugs-Gínea
 Eritrea n. Erítrea
@@ -12106,6 +12107,7 @@ radiograph n. geislunarmynd, röntgenmynd
 rabble-rousing n. lýðskrum, múgæsingur
 poikilothermic l. sjá %[cold-blooded]%
 pilsner n. pilsner
+pilsener n. sjá %[pilsner]%
 parent-in-law n. tengdaforeldri
 osteoblast n. beinkímfruma
 ocarina n. okkarína (blásturshljóðfæri)
@@ -12211,8 +12213,36 @@ ineffably ao. ósegjanlega, ólýsanlega, óumræðilega
 cogwheel n. tannhjól
 lapidarist n. steinskeri; gimsteinasali
 lapidist n. sjá %[lapidary]%
-unevenness n. ójafnleiki, ójöfnuður
+unevenness n. ójafnleiki, ósléttleiki, ójöfnuður
 shoestring n. sjá %[shoelace]%
 bragging n. gort, mont (sjá %[brag]%)
 bodega n. matvöruverslun, hverfisbúð; vínbúð
 telecasting n. sjónvörpun, sjónvarpsútsending
+kopis n. grísk sveðja, grískt höggsverð
+halation n. baugmyndun
+congratulations nft. hamingjuóskir, heillaóskir; uh. til hamingju!
+brushwood n. kjarrskógur; sprek
+bookmarker n. sjá %[bookmark]%
+blackcap n. hettusöngvari (fugl); svart hindber
+barking n. gelt, gjamm
+asystolia n. hjartsláttarstöðvun
+ashwood n. eskiviður
+Althing n. Alþingi
+Sinhala n. singalíska (tungumál)
+Abkhazian l. abkasískur
+uncool l. ekki svalur, ósvalur; hallærislegur
+unchanged l. óbreyttur
+ultramodern l. afar nýtískulegur, framúrstefnulegur
+tenderizer n. kjöthamar
+tarot n. tarotspil
+backstroke n. baksund
+smurf n. strumpur
+shortened l. styttur, stýfður
+retelling n. endursögn
+pupa n. púpa
+merry-go-round n. hringekja
+electro- fsk. raf- (t.d. %[electrometer]%, %[electroshock]%)
+dodo n. dúði (útdauður fugl)
+dill n. dill, dilja (kryddjurt)
+borderline l. jaðar-; vafa-, óvissu-
+bolero n. spænskur dans; mittisjakki
