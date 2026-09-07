@@ -5064,7 +5064,7 @@ calomel n. kvikasilfursklóríð
 crudely ao. á óverkaðan, óunninn eða grófan hátt, gróflega; ruddalega
 actuary n. tryggingafræðingur
 actuarial l. tryggingafræðilegur
-Victorian l. viktoríanskur, Viktoríutímabils-, frá valdatíð Viktoríu Bretlandsdrottningu
+Victorian l. viktoríanskur, Viktoríutímabils-, frá valdatíð Viktoríu Bretlandsdrottningar
 handheld l. lófa-, lófatækur
 tribalism n. ættbálkahyggja; ættarsamfélag, ættflokkasamfélag
 tribalistic l. ættflokka-, ættbálka-, ættflokkalegur, ættbálkalegur
@@ -5080,7 +5080,7 @@ troth n. tryggð, trúmennska; sannleikur (sjá %[truth]%)
 hotelier n. hótelstjóri, hóteleigandi, sá sem rekur hótel
 chipmunk n. íkorni, jarðíkorni
 Cornishman n. maður frá Cornwall
-Yorkshireman n. maður frá Yorkshire
+Yorkshireman n. maður frá Jórvíkurskíri
 Scots n. skoska, skosk mállýska; l. skoskur
 shootout n. skotbardagi, byssubardagi; vítaspyrnukeppni (í fótbolta)
 Hawaii n. Hawaii, Hawaii-eyjar (fylki í Bandaríkjunum, stundum skrifað Havaí eða Havæ á íslensku)
@@ -8160,7 +8160,7 @@ disheartened l. niðurdreginn, vondaufur, búinn að missa kjarkinn
 disheartening l. niðurdrepandi, sem dregur úr kjarki
 martini n. martíní (kokteill, blandaður áfengur drykkur)
 social justice n. félagslegt réttlæti
-URL n. netslóð (stytt. á [uniform resource locator])
+URL n. netslóð, vefslóð (stytt. á %[uniform resource locator]%)
 sportswoman n. íþróttakona
 athletics nft. íþróttir; frjálsar íþróttir
 energise s. sjá %[energize]%
@@ -8328,7 +8328,7 @@ ballooning n. loftbelgsflug; l. sem er að þenjast út, sem er að blásast út
 exposit s. skýra, útlista; leggja fram
 argus-eyed l. sívökull
 lightheaded l. sjá %[light-headed]%
-accented l. með hreim; með áherslu; með stafmerki, með áherslumerki (t.d. á, é, o.s.frv.)
+accented l. með hreim; með áherslu; með stafmerki, með áherslumerki (t.d. [á], [é], o.s.frv.)
 pro n. fagmaður, atvinnumaður (stytt. á %[professional]%); rök (með e-u); l. fagmannlegur, atvinnumannslegur; með, fylgjandi
 quid pro quo n. (lat.) eitt í skiptum fyrir annað, endurgoldning; greiði í skiptum fyrir greiða
 sea captain n. skipstjóri, kapteinn
@@ -11837,7 +11837,7 @@ pie-eyed l. drukkinn, ölvaður, fullur
 biannual l. tvisvar á ári, á hálfs árs fresti, hálfsárslegur
 igniter n. kveikir, kveikjari
 ignitor n. sjá %[igniter]%
-upraised l. upphækkaður (forn.)
+upraised l. upphækkaður
 tollgatherer n. tollheimtumaður
 glitz n. glys, glitur, ljómi, glampi
 randy l. graður; grófur
@@ -12280,8 +12280,9 @@ revived l. endurlífgaður; vakinn; endurnýjaður
 slighting l. lítilsvirðandi, niðrandi
 gyros n. grískur kjötréttur
 experimentalism n. tilraunamennska, tilraunastarfsemi
-purposive l. með markmið, sem þjónar tilgangi
+purposive l. með markmið, áformaður, fyrirætlaður, sem þjónar tilgangi
 institutional l. stofnana-
 anti-Christian l. andkristinn
 inconducive l. sem stuðlar ekki að, sem styður ekki ([~ to human flourishing])
 developmental l. þróunar-; þroska-; framþróunar-
+uniform resource locator n. netslóð, vefslóð (yfirleitt skammstafað %[URL]%)
