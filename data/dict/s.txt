@@ -2596,7 +2596,7 @@ style n. orðfæri, ritháttur, stíll; snið (á listaverkum); venja; tíska; a
 stylish l. skrautlegur, sem er eftir tískunni
 stylet n. prjónn, alur; e.k. sárakanni
 styptic l. blóðstöðvandi; n. blóðstöðvandi lyf
-stylist n. ritsnillingur; stílisti
+stylist n. stílisti; ritsnillingur
 suasion n. fortölur
 suave l. blíður, þýður, mildur ([~ person, speech])
 suavity n. blíða, þýðleiki (í viðmóti)
