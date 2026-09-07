@@ -398,7 +398,6 @@ eyeglass
 fower
 pursuer
 whorl
-skyline
 lentonite
 dovecote
 waterway
@@ -439,7 +438,6 @@ factionalism
 transformational
 hallmark
 phoney
-Islamification
 redirection
 dismissive
 dismissiveness
@@ -453,10 +451,8 @@ capitulary
 accumulator
 raider
 themselves
-anchorite
 eremitism
 stylite
-laypeople
 template
 hilltop
 supportive
@@ -489,7 +485,6 @@ herbology
 unionization
 candidacy
 ruction
-interwoven
 hatchback
 showcase
 lifelike
@@ -514,7 +509,6 @@ gruntled
 deconstruct
 crackdown
 sidearm
-erstwhile
 epochal
 sketchiness
 graven
@@ -523,7 +517,6 @@ hideousness
 ghoulish
 ghoulishly
 celebratory
-fantasist
 reclusive
 louche
 loucheness
@@ -531,7 +524,6 @@ rearrangement
 fizzy
 curbside
 wipeout
-craziness
 manipulative
 fictive
 overdrive
@@ -542,14 +534,12 @@ operable
 inoperable
 headset
 co-workforce
-dossier
 shill
 flamenco
 tranche
 tranched
 trendy
 blurry
-freefall
 nonchalance
 receivership
 redeemed
@@ -569,7 +559,6 @@ slammer
 payout
 somnolescent
 boardroom
-implosion
 heist
 scalper
 static
@@ -630,7 +619,6 @@ risqué
 appreciator
 shitstorm
 fuckwit
-insensitivity
 corporatist
 bottom-feeder
 unrepresentative
@@ -651,7 +639,7 @@ anticipatory
 thrombosis
 thrombosal
 contractual
-expressible
+expressed
 shortcut
 desirability
 unproblematic
@@ -667,7 +655,6 @@ fantasize
 quietistic
 schematic
 paraphilia
-weightless
 extrasensory
 self-induced
 instantiate
@@ -719,7 +706,6 @@ dialogic
 renegotiation
 neurodivergent
 neurodivergence
-fieldwork
 evolutionist
 territoriality
 consumerist
@@ -797,7 +783,6 @@ sidestep
 reconstitute
 sticker
 nonpartisan
-keystroke
 skyrocket
 jumpsuit
 beachfront
@@ -6804,3 +6789,4 @@ fiat (endurskoða)
 kidney (endurskoða)
 lackadaisical (endurskoða)
 lectionary (endurskoða)
+fantastically
