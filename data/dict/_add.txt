@@ -4684,7 +4684,7 @@ gonorrhea n. lekandi (kynsjúkdómur)
 esthetic l. sjá %[aesthetic]%
 suede n. rúskinn; l. rúskinns-
 nuance n. blæbrigði
-armoured l. brynjaður, brynvarinn; [~ division] skriðdrekaherdeild
+armoured l. brynjaður, brynvarinn, herklæddur; [~ division] skriðdrekaherdeild
 realisation n. sjá %[realization]%
 wimp n. aumingi, ræfill
 wimpish l. aumingjalegur, ræfilslegur
@@ -6579,7 +6579,6 @@ flamboyance n. glampi; skrúði; litadýrð
 hagiology n. helgisagnafræði
 iota n. agnarögn ([I care not one ~]); jóta (níundi stafurinn í gríska stafrófinu)
 gavel n. fundarhamar, hamar dómara eða uppboðshaldara
-cuirasse n. brynja, herklæði
 persimmon n. persimóna, persimónía (aldin)
 quarrelsomeness n. þrætugirni, deilugirni
 ambulant l. fær um að ganga, göngufær; n. göngumaður
@@ -10943,7 +10942,7 @@ freestanding l. frístandandi
 disjoined l. skildur í sundur, aðskilinn
 belittling n. lítillækkun, niðurlæging; l. lítillækkandi, niðrandi
 bewildering l. ruglandi, ringlandi
-Sarmatian n. Sarmatíumaður
+Sarmatian n. Sarmatíumaður, Sarmati (írönsk þjóð til forna)
 unstinting l. óspar, rausnarlegur, örlátur
 unstintingly ao. rausnarlega
 munificently ao. höfðinglega, rausnarlega
@@ -11791,7 +11790,7 @@ responsibly ao. á ábyrgan hátt
 downturn n. niðursveifla; samdráttur ([economic ~])
 oilseed n. olíufræ
 shoehorn n. skóhorn; s. troða inn (óforml.)
-unaffordable l. óviðráðanlega dýrt, sem maður hefur ekki efni á
+unaffordable l. óviðráðanlega dýr, sem maður hefur ekki efni á
 arriviste n. uppskafningur, framapotari
 highlander n. hálendingur
 lowlander n. láglendingur
@@ -12326,3 +12325,40 @@ expressible l. tjáanlegur
 weightless l. þyngdarlaus
 fieldwork n. vettvangsvinna
 keystroke n. ásláttur (á hnapp)
+mephedrone n. mefedrón (örvandi lyf)
+flamenco n. flamenkódans (spænskur dans)
+undeniability n. óneitanleiki
+deniability n. neitanleiki
+underbrush n. undirskógur; kjarr
+janitorial l. húsvarðar-; hreingerninga-, ræstinga-
+harshly ao. harkalega, grimmilega; óþýðlega, önuglega
+washstand n. vaskur, þvottaskál
+comedic l. grínleikja-, gamanleikja-, grín-, gleðileikja-
+tailcoat n. kjólföt; síðjakki
+interpretive l. túlkunar-
+orchestral l. hljómsveitar-
+Fordism n. fordismi (færibandaframleiðsla)
+mail-clad l. klæddur hringabrynju
+waterbottle n. vatnsflaska
+centroid n. þungamiðja, þyngdarpunktur
+slimness n. grannleiki, magurleiki
+cirripede n. hrúðurkarl
+demo- fsk. fólks-, lýð- (t.d. %[demography]%, %[democracy]%)
+microservice n. örþjónusta (í tölvukerfum)
+loitering n. hangs, slæpingur, iðjuleysi
+Janus n. Janus (rómverskt goð með tvö andlit)
+Janus-faced l. tvílyndur, óhreinlyndur, undirförull (sjá %[Janus]%)
+phenate n. fenólsalt
+luminance n. ljómi
+Ossetia n. Ossetía (svæði í Kákasusfjöllum)
+Ossetian n. Osseti (sjá %[Ossetia]%); ossetíska (tungumál)
+copperhead n. koparnaðra (eiturslanga)
+mild-mannered l. blíðlyndur, mjúklyndur, mildur í framkomu
+kickback n. þóknun, múta, greiðsla undir borðið
+sinusoid n. sínusferill
+sinusoidal l. sínuslaga, sínus-
+yikes uh. jeminn! úff!
+brilliantine n. brilljantín, hárgljái
+finfish n. uggafiskur
+gosh uh. jeminn! vá! jahérna!
+armored l. sjá %[armoured]%

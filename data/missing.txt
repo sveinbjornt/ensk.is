@@ -218,7 +218,6 @@ regimentation
 puritanic
 puritanical
 good-tempered
-mild-mannered
 goose-step
 parvenu
 functionless
@@ -535,7 +534,6 @@ inoperable
 headset
 co-workforce
 shill
-flamenco
 tranche
 tranched
 trendy
@@ -1318,7 +1316,6 @@ repopulation
 endgame
 short-circuit
 spotter
-deniability
 lockstep
 makeover
 belly-up
@@ -1436,7 +1433,6 @@ hornbeam
 monocultural
 polycultural
 lookalike
-underbrush
 softwood
 temporally
 strickle
@@ -1455,7 +1451,6 @@ barrio
 pervasiveness
 animator
 compressor
-janitorial
 developmentalist
 inaccessibility
 re-enact
@@ -1497,11 +1492,9 @@ anymore
 pepsin
 self-reproach
 harsh (endurskoða)
-harshly
 curiously
 peashooter
 kitbag
-washstand
 peardrop
 mauvish
 smoothly
@@ -1568,7 +1561,6 @@ piggyback
 intuitively
 strongman
 second-guess
-comedic
 airbrush
 roofer
 roofie
@@ -1599,7 +1591,6 @@ pinprick
 knobbly
 tyke
 tike
-tailcoat
 fruitcake
 collapsible
 befuddle
@@ -1737,7 +1728,6 @@ re-evaluation
 tongue-in-cheek
 high-profile
 hemoclysm
-interpretive
 heuristic
 heuristics
 indigeneity
@@ -2030,7 +2020,6 @@ mugwump
 commonness
 strategically
 exposive
-orchestral
 anti-imperialism
 gorger
 strenuously
@@ -2276,7 +2265,6 @@ quibbling
 monorchism
 marcher
 marketeer
-kickback
 economistic
 concretize
 concretized
@@ -2353,8 +2341,6 @@ coaching
 logging
 streaming
 wiring
-sinusoid
-sinusoidal
 armature (endurskilgreina)
 twerk
 twerking
@@ -2373,7 +2359,6 @@ wokeism
 wokeness
 theophoric
 relations nft.
-yikes
 splurge
 visitorship
 baulk
@@ -2397,7 +2382,6 @@ uninspiring
 awe-inspiring
 organza
 consolidated
-brilliantine
 frustrating
 descale
 framing
@@ -2430,6 +2414,7 @@ embodied
 caddy (endurskoða)
 caddie
 edgelord
+cringeworthy
 cringy
 cringey
 expired
@@ -2460,7 +2445,6 @@ typecast
 typecasting
 confidently
 hijab
-finfish
 lambast
 lambaste
 lambasted
@@ -2498,7 +2482,6 @@ reassign
 minced
 boof
 deflector
-gosh
 breadpill
 flaxseed
 canonized
@@ -4405,7 +4388,6 @@ tangy
 lallygag
 lollygag
 lounge (endurskoða)
-luminance
 reared
 hand-reared
 phonate
@@ -4443,8 +4425,6 @@ stalwart (endurskoða)
 pansy (endurskoða)
 conformance
 compliancy
-Janus-faced
-Janus
 recumb
 ataraxis
 importee
@@ -4452,7 +4432,6 @@ enamour
 enamor
 sliminess
 cutthroat (endurskoða - lýsingarorð)
-loitering
 overhauled
 cyclery
 purpuric
@@ -4464,7 +4443,6 @@ intubate
 chronocrator
 wanly
 tilted
-microservice
 overmaster
 waking
 pro-
@@ -4474,7 +4452,6 @@ probe (endurskoða)
 problematic (endurskoða)
 manifold (endurskoða - manifold destiny osfrv)
 materialization (endurskoða)
-demo-
 momism
 overshielding
 loathly
@@ -4496,7 +4473,6 @@ dogshit
 self-concern
 self-centeredness
 trapper (endurskoða)
-cirripede
 barn animal
 mystify (endurskoða)
 pudendum
@@ -4510,7 +4486,6 @@ puniness
 cat (endurskoða - arabísk tuggjurt)
 kat
 khat
-slimness
 zonk
 zonked
 subcision
@@ -4582,9 +4557,7 @@ Wyrd
 Wyrd Sisters
 yid
 terrarium
-centroid
 spall
-waterbottle
 anodize
 plunker
 lumine
@@ -6752,7 +6725,6 @@ drivable
 antrum
 premorse
 backfill
-mail-clad
 screeching
 sidesplitter
 frontrunner
@@ -6769,6 +6741,7 @@ inconspicuousness
 pondering
 soma
 clinker
+demurrer (endurskoða)
 demurral
 tagalong
 oppressiveness
@@ -6783,10 +6756,13 @@ penny-pinching
 hiking
 finger-wagging
 unearned
-Fordism
 slangy (endurskoða)
 fiat (endurskoða)
 kidney (endurskoða)
 lackadaisical (endurskoða)
 lectionary (endurskoða)
 fantastically
+fishplate
+twocker
+segway
+steelman
