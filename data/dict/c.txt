@@ -994,7 +994,7 @@ cleanse s. hreinsa
 cleanser n. hreinsari
 cleansing n. hreinsun
 clear l. bjartur, heiðskír; gagnsær; tær, glær; glöggur, greinilegur; auðsær, auðskilinn; skýr, ljós (í hugsunum); saklaus; laus; auður, opinn, óhindraður; [~ profit] hreinn ágóði (að frádregnum kostnaði); [three ~ days] þrír heilir dagar; [get ~ of] losna við, komast hjá; ao. skýrt ([speak loud and ~]); alveg ([~ away, ~ off]); [three feet ~] full þrjú fet; s. gera tært; hreinsa; réttlæta; skýra; tæma; færa burtu; ryðja (land); losa við ([of, from]); losast (losna) við; fara (stökkva) yfir; borga (skuld); græða; heiða til, birta upp ([~ up]); setjast (um vökva); rýma, víkja; [~ the coast] komast (klaklaust) fram hjá ströndinni; [~ a ship] afferma skip; greiða hafnargjald og önnur lögboðin gjöld af skipi og farmi; [~ one's throat] ræskja sig; [~ away] taka burtu, taka af borði; hverfa, létta ([the mist ~ed away]); [~ off] losna við; fara burtu; [~ up] hýrga; skýra, leiða í ljós; skýrast; birta, heiða til (um veðrið)
-clearance n. hreinsun; tollkvittun; ruðning; rjóður
+clearance n. hreinsun; tollkvittun; ruðning; rjóður; aðgangsheimild
 clearing n. hreinsun; réttlæting; greiðsla (skuldar); ruðning; rjóður
 clearly ao. glögglega; auðsjáanlega
 clearness n. skærleiki, gagnsæi; skýrleiki; heiðríkja; skarpskyggni

@@ -30,7 +30,7 @@ abdominal l. kviðlegur, kvið- ([~ fin])
 abdominous l. kviðmikill, vambmikill
 abduce s. færa burt
 abduct s. ræna, nema á brott; flytja burt
-abduction n. brottnám, mannrán
+abduction n. brottnám, mannrán; fráleiðsla
 abductor n. ránsmaður, mannræningi
 abeam ao. þvers, þversum
 abear s. þola, fella sig sig við ([she could not ~ that man])
@@ -392,7 +392,7 @@ admeasurement n. útmæling; úthlutun; mál, stærð
 administer s. stjórna, ráða fyrir; veita, útbýta; gefa inn (lyf); annast um ([to]); stuðla að ([to]); [~ justice] dæma; [~ an oath to] taka eið af e-m, eiðfesta e-n
 administration n. stjórn, stjórnarráð, stjórnsýsla; úthlutun; inngjöf
 administrative l. stjórnlegur, stjórnsýslulegur
-administrator n. stjóri, stjórnandi, stjórnari, forráðamaður; kerfisstjóri ([system ~])
+administrator n. stjóri, stjórnandi, stjórnari, forráðamaður, umsjónarmaður; kerfisstjóri ([system ~])
 admirable l. aðdáanlegur; lofsverður
 admirably ao. aðdáanlega; á lofsverðan hátt
 admirableness n. aðdáanleiki
@@ -705,7 +705,7 @@ alertness n. árvekni, hvatleiki
 alfresco ao. undir berum himni
 algebra n. algebra, bókstafareikningur, tölvísi
 algous l. þang-, þara-
-alias ao. annars, endranær; þekktur sem; n. dulnefni, gervinafn
+alias ao. annars, endranær; þekktur sem; n. dulnefni, gervinafn; samnefni, uppnefni
 alibi n. vera annars staðar, fjarvera, fjarvistarsönnun ([proof of an ~])
 alien l. annarlegur, annara manna, útlendur; ólíkur, frábrugðinn ([from]); fráhverfur (e-u [to]); n. útlendingur; geimvera; s. gera fráhverfan, fjarlægja; afsala (eign)
 alienable l. sem selja má í hendur annara, afhendilegur
@@ -1015,7 +1015,7 @@ animadvert s. finna að, gagnrýna, setja út á
 animal n. dýr, skepna; l. dýrslegur; dýra- ([~ rage, ~ instinct])
 animality n. dýrslegt eðli
 animalism n. dýrseðli; holdlegar fýsnir
-animate s. lífga; fjörga; örva; [an ~d discussion] fjörugar umræður; l. lifandi; fjörugur
+animate s. lífga; fjörga; örva; [an ~d discussion] fjörugar umræður; myndlífga, skapa hreyfimynd; l. lifandi; fjörugur
 animation n. líf; fjör; teiknimynd, hreyfimynd
 animosity n. hatur, fjandskapur, úlfúð
 animus n. óvinarhugur, óvildarhugur; móður
@@ -1695,7 +1695,7 @@ author n. rithöfundur; heimildarmaður; frumkvöðull (að e-u [of])
 authoress n. kvenrithöfundur
 authoritative l. valdslegur; fullgildur
 authority n. vald, valdsumboð, heimild; hefðarvald; myndugleiki; heimildarmaður; heimildarrit; nft. [authorities] yfirvöld; [the persons/those in ~] valdhafarnir
-authorization n. staðfesting; heimilun; löggilding
+authorization n. heimilun, heimild; löggilding; staðfesting
 authorize s. samþykkja, staðfesta; veita fulla heimild, veita umboð; löggilda, löghelga
 autobiography n. sjálfsævisaga, sjálfslýsing
 autochthon n. frumbyggi, e-r sem er innfæddur

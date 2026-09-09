@@ -10,7 +10,7 @@ computer n. tölva; reiknari, e-r sem reiknar (forn.)
 computer science n. tölvunarfræði
 computer scientist n. tölvunarfræðingur
 computing n. tölvun, tölvuvinnsla
-algorithm n. algrím, reiknirit
+algorithm n. algrím, reiknirit, reiknisögn
 algorithmic l. reiknirits-, algríms-, algrímskur
 heliocentrism n. sólmiðjukenning
 geoheliocentrism n. jarðsólmiðjukenning stjarnfræðingsins Tycho Brahe ([the Tychonic system])
@@ -307,7 +307,7 @@ calisthenics nft. leikfimiæfingar
 callisthenics nft. sjá %[calisthenics]%
 calisthenic l. leikfimi-, leikfimiæfinga-
 callisthenic l. sjá %[calisthenic]%
-automation n. sjálfvirkni; sjálfvirknivæðing
+automation n. sjálfvirkni; sjálfvirknivæðing, sjálfvirkjun
 automate s. sjálfvirknivæða, gera sjálfvirkt
 automatable l. sjálfvirknivæðanlegur (sjá %[automate]%)
 bot n. (stytt. á %[robot]%) vélmenni, þjarkur, vélþræll
@@ -394,7 +394,7 @@ diesel n. dísill, dísilolía
 internship n. starfsnám, starfsþjálfun
 Islam n. íslam (eingyðistrú sem á upptök sín á Arabíuskaga)
 Islamic l. íslamskur (sjá %[Islam]%)
-passphrase n. aðgangsorð, lykilorð, aðgangsfrasi
+passphrase n. aðgangssetning, aðgangsfrasi
 marijuana n. maríjúana, kannabis
 metadata n. lýsigögn, gögn sem lýsa öðrum gögnum
 Muslim n. múslími (sá sem aðhyllist íslamska trú, sjá %[Islam]%); l. múslímskur
@@ -1272,7 +1272,7 @@ freeware n. ókeypis hugbúnaður
 spyware n. njósnahugbúnaður
 malware n. illkynja hugbúnaður
 shareware n. deilihugbúnaður
-adware n. hugbúnaður með auglýsingum
+adware n. hugbúnaður með auglýsingum, óværubúnaður
 acne n. unglingabólur, graftarbólur
 architectural l. byggingarlistar-
 internationally ao. alþjóðlega
@@ -12362,3 +12362,18 @@ brilliantine n. brilljantín, hárgljái
 finfish n. uggafiskur
 gosh uh. jeminn! vá! jahérna!
 armored l. sjá %[armoured]%
+acutance n. útlínuskerpa
+cringeworthy l. neyðarlegur, vandræðalegur, pínlegur
+cringy l. sjá %[cringey]%
+cringey l. neyðarlegur, vandræðalegur, pínlegur
+factorial l. aðfaldaður, hrópmerktur (um tölu í stærðfræði); n. aðfeldi
+accessories nft. fylgihlutir
+accumulator n. safnari
+actuator n. stjórntæki, hreyfiliði
+add-on n. viðbót, viðauki, áauki
+aliasing n. stöllun (í tölvuteiknun)
+alphanumeric l. ritstafa- (texti sem geymir bókstafi og tölustafi)
+anonymizer n. nafnhylmir; ferli eða þjónusta sem tryggir nafnleysi
+aspect ratio n. sniðhlutfall (hlutfall milli breiddar og hæðar myndar)
+audio file n. hljóðskrá
+automating n. sjá %[automation]%
