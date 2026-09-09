@@ -3626,7 +3626,7 @@ anthropomorphize s. manngerva (eigna e-u ómennsku mannlega eiginleika)
 deistic l. sem tengist deisma, þ.e. trú á einn guð án opinberunar (sjá %[deism]%)
 bombardier n. stórskotaliði
 yeti n. snjómaðurinn ógurlegi (goðsagnakennd vera)
-antialiasing n. afstöllun
+antialiasing n. sjá %[anti-aliasing]%
 encoding n. kóðun; umtáknun; hnitun; snið
 encode s. kóða; umtákna
 decode s. afkóða
@@ -12372,8 +12372,24 @@ accumulator n. safnari
 actuator n. stjórntæki, hreyfiliði
 add-on n. viðbót, viðauki, áauki
 aliasing n. stöllun (í tölvuteiknun)
+anti-aliasing n. afstöllun (í tölvuteiknun)
 alphanumeric l. ritstafa- (texti sem geymir bókstafi og tölustafi)
 anonymizer n. nafnhylmir; ferli eða þjónusta sem tryggir nafnleysi
-aspect ratio n. sniðhlutfall (hlutfall milli breiddar og hæðar myndar)
+aspect ratio n. sniðhlutfall (hlutfall milli breiddar og hæðar myndar eða skjás)
 audio file n. hljóðskrá
 automating n. sjá %[automation]%
+canzonetta n. stutt (ítalskt) sönglag (á nýöld)
+persistently ao. þrálátlega
+citrate n. sítrat (salt sítrónusýru)
+thalassemia n. dvergkornablóðleysi
+pandemia n. sjá %[pandemic]%
+subvocal l. raddvana, án raddar
+desired l. eftirsóttur, þráður, sem óskað er eftir
+refunded l. endurgreiddur, endurborgaður
+Zeeland n. Sjáland (á Niðurlöndum)
+powdered l. púðraður; í duftformi
+metronym n. sjá %[matronym]%
+Dorian l. dórískur, sem tengist Dórum (forngrískum þjóðflokki)
+Occidentalism n. vestræn fræði
+pyrometry n. glómæling
+y'all fn. þið, þið öll (BNA)

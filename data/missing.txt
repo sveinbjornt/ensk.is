@@ -3663,7 +3663,6 @@ polytone
 bonkers
 assignment (endurskoða)
 friendzone
-pyrometry
 bargaining
 lurker
 overarching
@@ -3687,7 +3686,6 @@ fitness (endurskoða)
 uncharted
 preterm
 inverter
-Occidentalism
 vagal
 astrobiology
 recenter
@@ -3731,7 +3729,6 @@ VC
 plonk
 flustered
 Locrian
-Dorian
 Lydian
 Mixolydian
 Aeolian
@@ -3748,7 +3745,6 @@ circumvallated
 contravallation
 transduction
 concentrated
-metronym
 handyman
 wop
 dago
@@ -3769,7 +3765,6 @@ beanie
 anaerobic
 listicle
 alignment (endurskoða)
-powdered
 reportedly
 laminated
 radio button
@@ -3790,7 +3785,6 @@ comfortingly
 discomforting
 foraminal
 intracranial
-Zeeland
 debouncer
 debouncing
 femboy
@@ -3840,9 +3834,6 @@ awash (endurskoða)
 endearing
 circumvention (endurskoða)
 curtsy (endurskoða)
-desired
-refunded
-subvocal
 subvocalization
 approve (endurskoða)
 highfaluting
@@ -3853,7 +3844,6 @@ accompanied
 classy
 convolute (endurskoða)
 fidelity (endurskoða)
-pandemia
 proprietorial
 associated
 disassociated
@@ -3881,13 +3871,11 @@ microaggression
 stereotyping
 recon
 gossiping
-thalassemia
 occupied
 enervate (endurskoða)
 trilemma
 individualized
 shoutout
-citrate
 posh
 poshness
 toolchain
@@ -3904,7 +3892,6 @@ decoke
 pandiculation
 naturist
 brock
-persistently
 transmedia
 jiminy
 criminy
@@ -3921,6 +3908,7 @@ cardiorespiratory
 access (endurskoða)
 skeptically
 unknownst
+dismay (endurskoða)
 dismayed
 cold feet
 satisfied (endurskoða)
@@ -3955,7 +3943,6 @@ scutter
 grasscutter
 demoscene
 accepted
-canzonetta
 strophic
 authenticator
 pedologist
@@ -6764,3 +6751,8 @@ steelman
 agonist
 braininess
 microbiota
+perished
+extrapolated
+oversized
+funded
+advocated
