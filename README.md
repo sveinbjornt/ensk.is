@@ -1,3 +1,4 @@
+[![License: CC0-1.0](https://shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org)
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3110/)
 [![Build](https://github.com/sveinbjornt/ensk.is/actions/workflows/python-app.yml/badge.svg)](https://github.com/sveinbjornt/ensk.is/actions)
@@ -10,7 +11,7 @@
 
 This repository contains the data files and software for
 [ensk.is](https://ensk.is), a free and open public domain
-online English-Icelandic dictionary.
+English-Icelandic dictionary.
 
 ## Download
 
