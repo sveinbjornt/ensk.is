@@ -10200,7 +10200,7 @@ unmasking n. afhjúpun, þegar grímurnar falla
 tarbosaurus n. þyrilgramur (risaeðla)
 homomorphism n. sammótun (í stærðfræði)
 bugler n. lúðurblásari
-eerily ao. óhugnanlega, drungalega; skuggalega
+eerily ao. óhugnanlega, drungalega; skuggalega, ískyggilega
 tartlet n. lítil terta
 yashmak n. andlitsblæja (múslimskra kvenna)
 moisturizer n. rakakrem
@@ -10581,7 +10581,7 @@ cladding n. klæðning
 cantilever n. svifbiti
 atrium n. miðrými, garður undir opnum himni í miðrými húss
 brioche n. franskur brauðhnúður
-vs. stytt. á %[versus]% (úr latínu)
+vs. st. stytt. á %[versus]% (úr latínu)
 exterminated l. upprættur; gereyddur; tortímdur; þurrkaður út
 ephemeralness n. sjá %[ephemerality]%
 fleetingness n. hverfulleiki; skammlífi
@@ -12308,13 +12308,12 @@ deportee n. manneskja sem vísa skal úr landi
 precondition n. forskilyrði, skilyrði, forsenda
 Middle English n. miðenska (sú enska sem töluð var frá 11. til 15. aldar)
 Old English n. fornenska
-skyline n. sjóndeildarhringur
+skyline n. útlínur borgar við himin, sjóndeildarhringur
 Islamification n. íslamsvæðing
 laypeople nft. leikfólk, ólært fólk
 anchorite n. einsetumaður, einbúi
-interweave s. samtvinna, flétta saman
 interwoven l. samofinn, samtvinnaður, samfléttaður
-erstwhile ao. forðum, fyrr á tímum (forn.); l. fyrrum, fyrrverandi (forn.)
+erstwhile ao. forðum, fyrr á tímum; l. fyrrum, fyrrverandi
 fantasist n. draumóramaður, hugaróramaður
 craziness n. geðveiki, geggjun, brjálæði, sturlun
 dossier n. skýrsla; málsgögn; mappa (með skjölum um e-ð mál)
@@ -12332,7 +12331,7 @@ deniability n. neitanleiki
 underbrush n. undirskógur; kjarr
 janitorial l. húsvarðar-; hreingerninga-, ræstinga-
 harshly ao. harkalega, grimmilega; óþýðlega, önuglega
-washstand n. vaskur, þvottaskál
+washstand n. þvottastandur, þvottaskál, vaskur
 comedic l. grínleikja-, gamanleikja-, grín-, gleðileikja-
 tailcoat n. kjólföt; síðjakki
 interpretive l. túlkunar-
@@ -12351,7 +12350,7 @@ Janus-faced l. tvílyndur, óhreinlyndur, undirförull (sjá %[Janus]%)
 phenate n. fenólsalt
 luminance n. ljómi
 Ossetia n. Ossetía (svæði í Kákasusfjöllum)
-Ossetian n. Osseti (sjá %[Ossetia]%); ossetíska (tungumál)
+Ossetian n. Osseti (sjá %[Ossetia]%); ossetíska (tungumál); l. ossetískur, frá Ossetíu
 copperhead n. koparnaðra (eiturslanga)
 mild-mannered l. blíðlyndur, mjúklyndur, mildur í framkomu
 kickback n. þóknun, múta, greiðsla undir borðið
@@ -12373,7 +12372,7 @@ actuator n. stjórntæki, hreyfiliði
 add-on n. viðbót, viðauki, áauki
 aliasing n. stöllun (í tölvuteiknun)
 anti-aliasing n. afstöllun (í tölvuteiknun)
-alphanumeric l. ritstafa- (texti sem geymir bókstafi og tölustafi)
+alphanumeric l. ritstafa-, sem ritað er með bæði bókstöfum og tölustöfum
 anonymizer n. nafnhylmir; ferli eða þjónusta sem tryggir nafnleysi
 aspect ratio n. sniðhlutfall (hlutfall milli breiddar og hæðar myndar eða skjás)
 audio file n. hljóðskrá
@@ -12390,6 +12389,51 @@ Zeeland n. Sjáland (á Niðurlöndum)
 powdered l. púðraður; í duftformi
 metronym n. sjá %[matronym]%
 Dorian l. sjá %[Doric]%
-Occidentalism n. vestræn fræði
+Occidentalism n. vestræn fræði; vesturlandahugsunarháttur
 pyrometry n. glómæling
 y'all fn. þið, þið öll (BNA)
+humpback whale n. hnúfubakur
+foetid l. sjá %[fetid]%
+foul-smelling l. illa lyktandi, daunillur
+scintilla n. vottur; neisti; ögn
+gerund n. nafnyrðing lýsingarháttar (í málfræði)
+radiancy n. sjá %[radiance]%
+amicableness n. sjá %[amicability]%
+avertable l. sjá %[avertible]%
+Ulster n. Ulster (hérað á Norður-Írlandi)
+private property n. einkaeign
+groundsman n. sjá %[groundskeeper]%
+pushpin n. teiknibóla
+gasolene n. sjá %[gasoline]%
+doc n. stytt. á %[doctor]% (óforml.)
+apostrophize s. sjá %[apostrophise]%
+shenanigan n. uppátæki (yfirleitt í ft., %[shenanigans]%)
+preaching n. predikun
+unrenewable l. óendurnýjanlegur
+normalise s. sjá %[normalize]%
+pulsar n. tifstjarna
+chondrule n. grjóna (í stjörnufræði)
+indri n. indri (stór lemúrategund)
+Walloon n. Vallóni (frönskumælandi Belgi); l. vallónskur
+Frisian l. fríslenskur, frísískur, frá Fríslandi; n. Frísi, fríslenskur maður; frísneska (tungumál)
+prescribed l. fyrirskipaður; tiltekinn
+phylogeny n. sjá %[phylogenesis]%
+phylogenesis n. tegundarþróun, þróun lífverutegundar
+backtrack s. fara sömu leið til baka; draga í land með (e-ð)
+schismatism n. klofningur, sundrung, sundrun, trúsundrung
+unionism n. sameiningarstefna
+officeholder n. embættismaður, embættishafi
+newscast n. fréttaútsending (í útvarpi, sjónvarpi, o.s.frv.)
+newscaster n. fréttaþulur, fréttamaður
+swiftly ao. snögglega, skjótlega, í snatri, fljótt
+rightfully ao. réttilega; lagalega ([the estate was ~ his])
+thereupon ao. þar með, að því loknu, að svo búnu
+ingest s. inntaka, gleypa, neyta
+raciology n. kynþáttafræði
+scorekeeper n. stigavörður
+scoreboard n. stigatafla
+scorecard n. stigaspjald
+chiefship n. höfðingjastaða, höfðingjaembætti
+proto- fsk. frum-, for- (sjá t.d. %[protohistoric]%, %[prototype]%)
+blender n. blandari; hrærivél
+agglutinative l. samlímingar-, samlímdur; [~ language] viðskeytamál

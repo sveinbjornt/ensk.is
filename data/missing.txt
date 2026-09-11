@@ -721,7 +721,6 @@ theatricality
 exteriority
 interiority
 counterpoint
-agglutinative
 poststructuralism
 post-structuralism
 post-structuralist
@@ -749,7 +748,6 @@ interpersonal
 recap
 diffusionist
 peccary
-blender
 schema
 ethnohistory
 attractor
@@ -769,13 +767,11 @@ chequerboard
 segmentary
 glyphic
 figural
-proto-
 extractive
 charnel
 orchestration
 reoccupation
 neutralization
-chiefship
 sidestep
 reconstitute
 sticker
@@ -784,9 +780,6 @@ skyrocket
 jumpsuit
 beachfront
 chartalism
-scorecard
-scorekeeper
-scoreboard
 autostereogram
 internalize
 internalized
@@ -862,7 +855,6 @@ instrumentalization
 officialization
 mongrelization
 Spartacist
-raciology
 raciological
 officialize
 hygienist
@@ -905,8 +897,6 @@ demobilize
 demobilization
 intellectualism
 conformism
-thereupon
-ingest
 noninterventionist
 everyman
 trick (endurskoða, vis-a-vis vændi)
@@ -945,8 +935,6 @@ separateness
 superfaction
 ethnonationalist
 alarmism
-swiftly
-rightfully
 flashpoint
 nonprofit
 majoritarian
@@ -957,13 +945,11 @@ locational
 stymie
 rollback
 survivalist
-newscaster
 symbolization
 accelerationism
 boogaloo
 unwinnable
 supermajority
-officeholder
 backfire
 relearn
 synthesize
@@ -976,9 +962,7 @@ personalism
 commercialization
 pharaonic
 preparedness
-unionism
 minoritarian
-schismatism
 constitutionalist
 sociopolitical
 diehard
@@ -996,7 +980,6 @@ ipso facto
 reestablishment
 reemergence
 exoticism
-backtrack
 reengage
 opportunistically
 squelch
@@ -2529,7 +2512,6 @@ spearmint
 probing
 sagging
 employed
-scintilla
 nifty
 cubby
 structured
@@ -6756,3 +6738,40 @@ extrapolated
 oversized
 funded
 advocated
+orangish
+labialize
+undescriptive
+spang
+interlocking
+ensnarl
+freewheeling
+slaphappy
+happy-go-lucky
+devil-may-care
+overstress
+cyclorama
+tarriance
+fondly
+micromicron
+broiling
+ingrain
+commuting
+befitting
+befittingly
+prankishness
+lovesome
+adoring
+breathlessness
+unnameable
+dissertate
+auxotrophic
+completed
+settled
+startled
+skeeter
+nother
+habilitation (endurskoða)
+bematist
+sifaka
+pisteur
+adposition
