@@ -4415,7 +4415,7 @@ prenatal l. forburðar-, fyrir fæðingu
 antenatal l. forburðar-, fyrir fæðingu
 Sparta n. Sparta (borgríki í Grikklandi til forna)
 Assyria n. Assyría (stórveldi í Mið-Austurlöndum til forna)
-Assyrian l. assyrískur; n. Assyríumaður; assyríska
+Assyrian l. assyrískur; n. Assyríumaður; assyríska (tungumál)
 Britannia n. heiti Bretlands á tímum Rómverja til forna; persónugerving Bretlands (stríðskona með þrífork og skjöld)
 decontextualize s. taka úr samhengi
 patrilocal n. karlbýli; l. karlbýlis- (þar sem kona býr með fjölskyldu karlsins)
@@ -12437,3 +12437,32 @@ chiefship n. höfðingjastaða, höfðingjaembætti
 proto- fsk. frum-, for- (sjá t.d. %[protohistoric]%, %[prototype]%)
 blender n. blandari; hrærivél
 agglutinative l. samlímingar-, samlímdur; [~ language] viðskeytamál
+feedstock n. hráefni
+lackwit n. vitleysingur, fáviti
+historicist l. söguhyggju-, sagnfræðihyggju-; n. söguhyggjumaður
+historicism n. söguhyggja, sagnfræðihyggja
+historism n. söguhyggja
+self-aware l. sjálfsmeðvitaður
+misconstrual l. mistúlkun, rangskýring, misskilningur
+enumerable l. teljanlegur
+melange n. samblanda, blanda
+megastructure n. risabygging, mjög stór bygging
+chaise n. legubekkur, hvíldarstóll
+Napoleonic l. napóleonskur, Napóleons-; [the ~ Wars] Napóleonsstríðin
+Abrahamic l. Abrahams-, er varðar Abraham (ættföður gyðinga)
+nettlesome l. uppstökkur; ergilegur, pirrandi
+coder n. forritari; kóðari, kótari
+placement n. staðsetning, vistun
+shopper n. e-r sem er að versla, e-r sem er í kaupleiðangri
+Moravia n. Mæri, Móravía (austurhluti Tékklands)
+hopefully ao. vonandi; á vongóðan hátt
+Saxony n. Saxland (hérað í austurhluta Þýskalands)
+Northumberland n. Norðimbraland, Norðhumbraland (hérað á Norður-Englandi)
+Yorkshire n. Jórvíkurskíri (hérað á Norður-Englandi)
+Thuringia n. Þýringaland (hérað í Þýskalandi)
+Thuringian n. frá Þýringalandi (í Þýskalandi)
+syndicalism n. sindikalismi (stjórnmálastefna)
+syndicalist n. sindikalisti; l. sindikalista-, sindikalisma-
+nonchalance n. kæruleysi, afskiptaleysi
+nonchalantly ao. kæruleysislega
+slapstick n. skrípaleikur, skrípalæti

@@ -493,7 +493,6 @@ replicant
 regrettable
 parisis
 chaperon
-slapstick
 artistry
 polyptych
 vibrant
@@ -537,7 +536,6 @@ tranche
 tranched
 trendy
 blurry
-nonchalance
 receivership
 redeemed
 unredeemable
@@ -968,7 +966,6 @@ sociopolitical
 diehard
 catechismic
 unproven
-syndicalist
 tokenism
 overreliance
 point-blank
@@ -1063,7 +1060,6 @@ payoff
 screwball
 clueless
 summation
-shopper
 commuter
 bonanza
 subprime
@@ -1073,7 +1069,6 @@ hotline
 Luddism
 slurp
 ratchet
-placement
 motivator
 marketer
 paddy
@@ -1088,7 +1083,6 @@ hotshot
 haywire
 bossa nova
 cutoff
-coder
 stardom
 downtime
 homeostatic
@@ -1110,7 +1104,6 @@ gaffe
 fetal
 inclusiveness
 runoff
-nettlesome
 prickliness
 untellable
 etcher
@@ -1130,7 +1123,6 @@ indiction
 sectary
 artfully
 self-mortification
-Abrahamic
 readmission
 self-promotion
 differentiator
@@ -1160,7 +1152,6 @@ dodecadic
 helion
 parodic
 juvenilia
-Napoleonic
 complementarity
 extra-territorial
 dramatization
@@ -1168,7 +1159,6 @@ traditionalism
 delicately
 self-assertive
 rentier
-chaise
 self-complacency
 blowsy
 precipitance
@@ -1180,7 +1170,6 @@ peloton
 cyberpunk
 steampunk
 petrodollar
-megastructure
 tautonym
 metonym
 paronym
@@ -1206,7 +1195,6 @@ typicality
 universalizability
 universalizable
 interminability
-melange
 apocalypticism
 noumenal
 instrumentalism
@@ -1221,7 +1209,6 @@ ameliorist
 modifier
 representable
 reflexivity
-enumerable
 routinize
 self-assertiveness
 anticipator
@@ -1243,7 +1230,6 @@ voluntariness
 individuate
 bafflement
 construal
-misconstrual
 principate
 narratable
 detachable
@@ -1255,12 +1241,8 @@ dissimulator
 elusiveness
 self-absorption
 implicity
-self-aware
-historicist
-historicism
 relentlessness
 phronetic
-lackwit
 pumpernickel
 awestruck
 deepwater
@@ -1313,7 +1295,6 @@ neocolonial
 chapterette
 disruptable
 midstream
-feedstock
 intermittency
 nonperishable
 rechargeable
@@ -1427,7 +1408,6 @@ patriciate
 typification
 statist
 statism
-syndicalism
 monocephalic
 barrio
 pervasiveness
@@ -3168,8 +3148,6 @@ stinted
 strategize
 programming (endurskoða)
 okayed
-Thuringia
-Thuringian
 kibble
 socialized
 gumdrop
@@ -3757,7 +3735,6 @@ demilitarize
 demilitarized
 decarbonisation
 placidly
-nonchalantly
 signifying
 segue
 distressing
@@ -5771,7 +5748,6 @@ bungling
 bunglesome
 blooper
 fuckup
-Moravia
 Moravian
 colicky
 phalanger
@@ -6775,3 +6751,4 @@ bematist
 sifaka
 pisteur
 adposition
+ménage à trois
