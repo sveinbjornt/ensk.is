@@ -11340,7 +11340,7 @@ misunderstood l. misskilinn
 credo n. kredda, trú, trúarjátning
 wastrel n. ónytjungur, væskill, dugleysingi
 enormously ao. afskaplega, gríðarlega, fjarskalega
-mélange n. fjölbreytt blanda (úr frönsku)
+mélange n. fjölbreytt blanda, samblanda (úr frönsku)
 terminological l. orðaforða-, íðorða-
 attentional l. athyglis-, athyglistengdur
 teamwork n. hópvinna, samvinna hóps, liðsvinna
@@ -12445,7 +12445,7 @@ historism n. söguhyggja
 self-aware l. sjálfsmeðvitaður
 misconstrual l. mistúlkun, rangskýring, misskilningur
 enumerable l. teljanlegur
-melange n. samblanda, blanda
+melange n. sjá %[mélange]%
 megastructure n. risabygging, mjög stór bygging
 chaise n. legubekkur, hvíldarstóll
 Napoleonic l. napóleonskur, Napóleons-; [the ~ Wars] Napóleonsstríðin
@@ -12466,3 +12466,51 @@ syndicalist n. sindikalisti; l. sindikalista-, sindikalisma-
 nonchalance n. kæruleysi, afskiptaleysi
 nonchalantly ao. kæruleysislega
 slapstick n. skrípaleikur, skrípalæti
+guaranteed l. tryggður, ábyrgður, sem hefur áreiðanlegan bakhjarl
+segmentation n. sneiðun, bútun, sundurliðun
+spreadable l. dreifanlegur, útbreiðanlegur
+lorica n. (rómversk) brynja
+sesame n. sesamjurt; [~ seed] sesamfræ; l. sesam-, sesamjurtar-
+seaborne l. (fluttur) sjóleiðis ([~ freight], [~ invasion])
+impasse n. sjálfhelda, ógöngur ([we seem to have reached an ~])
+thespian l. leiklistar-; n. leikari, leikkona
+delicately ao. varlega, fínlega, á viðkvæman hátt
+misstep n. rangt skref, það að misstíga sig, það að hrasa; n. mistök
+stroller n. göngumaður; barnavagn, barnakerra (BNA)
+whimsy n. duttlungar
+artfully ao. kænskulega, á slægan máta
+trove n. sjóður; [treasure ~] fjársjóður
+snippet n. snifsi, bútur, afklippa
+slurp s. slafra, sötra, slokra
+detox n. afeitrun, afvötnun
+golly uh. jahérna! jeminn!
+tailored l. klæðskerasaumaður
+ethically ao. siðfræðilega, siðferðilega
+jumpsuit n. samfestingur, galli
+centralism n. miðstýring
+overpriced l. of dýr, á of háu verði
+uptight l. stífur, taugatrekktur, órólegur
+geothermic l. sjá %[geothermal]%
+enraptured l. hrifinn, frá sér numinn
+unlawfully ao. ólöglega
+gourmandize s. sjá %[gormandize]%
+grayness n. sjá %[greyness]%
+scrutinise s. sjá %[scrutinize]%
+nightcrawler n. ánamaðkur
+sudor n. sviti
+sudation n. svitnun
+clayware n. leirmunir
+hesitantly ao. hikandi
+mutableness n. sjá %[mutability]%
+uncounted l. ótalinn
+inflexibleness n. sjá %[inflexibility]%
+Jutish l. jóskur; n. jóska (sú danska sem töluð er í Jótlandi)
+smoothen s. slétta, jafna; mýkja
+heavy-footed l. þunglamalegur, þungur á fæti
+muckhill n. mykjuhaugur
+boundlessly ao. takmarkalaust
+ion n. jón, fareind
+ill-fed l. vannærður
+bonkers l. sturlaður, klikkaður, geggjaður (óforml.)
+seamlessly ao. hnökralaust, án hnökra
+bullish l. bolalegur; bjartsýnn, vongóður, brattur (um framtíðarhorfur)

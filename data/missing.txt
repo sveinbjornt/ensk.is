@@ -17,7 +17,6 @@ bathos
 bathetic
 primly
 packing
-guaranteed
 inline
 deployment
 goth
@@ -301,12 +300,10 @@ incoming
 nonessential
 announcer
 breaststroke
-uptight
 rationale
 bimonthly
 archival
 overprice
-overpriced
 unfamiliarity
 nonexistence
 fatalistic
@@ -330,7 +327,6 @@ voluntarism
 underway
 cadre
 historiosophy
-centralism
 paramilitary
 dynamism
 immiserate
@@ -775,7 +771,6 @@ reconstitute
 sticker
 nonpartisan
 skyrocket
-jumpsuit
 beachfront
 chartalism
 autostereogram
@@ -1052,7 +1047,6 @@ bollock
 gurney
 debutante
 mundial
-golly
 bootstrap
 quant
 underperformer
@@ -1063,11 +1057,9 @@ summation
 commuter
 bonanza
 subprime
-detox
 nosedive
 hotline
 Luddism
-slurp
 ratchet
 motivator
 marketer
@@ -1089,7 +1081,7 @@ homeostatic
 bleary
 flummox
 flummoxed
-snippet
+sociometry
 sociometric
 coursework
 sweepstakes
@@ -1098,7 +1090,6 @@ pesky
 amok
 jackrabbit
 tracker
-trove
 downbeat
 gaffe
 fetal
@@ -1121,7 +1112,6 @@ casuist
 casuistry
 indiction
 sectary
-artfully
 self-mortification
 readmission
 self-promotion
@@ -1130,14 +1120,12 @@ relational
 transactional
 hype
 bedside
-whimsy
 broadly
 saddleback
 flipside
 benchpress
 cabby
 cabbie
-stroller
 jab
 tonality
 slugger
@@ -1146,7 +1134,6 @@ divvy
 replay
 tripwire
 tagline
-misstep
 hardscrabble
 dodecadic
 helion
@@ -1156,7 +1143,6 @@ complementarity
 extra-territorial
 dramatization
 traditionalism
-delicately
 self-assertive
 rentier
 self-complacency
@@ -1165,7 +1151,6 @@ precipitance
 diffuseness
 superintendance
 conversible
-thespian
 peloton
 cyberpunk
 steampunk
@@ -1220,7 +1205,6 @@ sophistic
 victimization
 idealization
 dilemmatic
-impasse
 interiorization
 preempt
 particularist
@@ -1273,7 +1257,6 @@ quesadilla
 propylene
 spoilage
 duology
-seaborne
 workaround
 overkill
 repopulation
@@ -1322,17 +1305,15 @@ tailspin
 subpar
 shocker
 waterwheel
-sesame
 hellscape
 commodification
 polyculture
 monoculture
+intercropping
 grunge
 grungy
 perishability
 imperishability
-spreadable
-segmentation
 responsiveness
 snazzy
 decivilization
@@ -3555,7 +3536,6 @@ spoonbill
 hydroacoustic
 timecard
 spooning
-seamlessly
 present-day
 tonal
 drystone
@@ -3620,7 +3600,6 @@ phytochemical
 virtualization
 hamstrung
 polytone
-bonkers
 assignment (endurskoða)
 friendzone
 bargaining
@@ -5870,7 +5849,6 @@ seasoned
 yellowbird
 conclusiveness
 blowout
-ill-fed
 puzzler
 teaser
 Shangri-la
@@ -5889,7 +5867,6 @@ senselessness (endurskoða)
 gaffer (endurskoða)
 gag (endurskoða)
 orbitals
-ion
 alkaloid
 acetylene
 nitride
@@ -6312,6 +6289,7 @@ thicko
 kava
 minnesinger
 nookie
+nooky
 bishopweed
 diddle (endurskoða)
 plasmodium
@@ -6752,3 +6730,32 @@ sifaka
 pisteur
 adposition
 ménage à trois
+devastate (endurskoða)
+pincher
+deregister
+unethically
+lengthening
+lengthiness
+voluted
+auberge
+lusciousness
+toothsomeness
+delectability
+unclearness
+ill-defined
+well-defined
+scattering
+ropey
+jactitate
+hornswoggle
+short-change
+short-changed
+deforest
+wiggler
+understood
+legato
+scatty
+louden
+duramen
+do-gooder
+shamed
