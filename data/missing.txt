@@ -769,7 +769,6 @@ neutralization
 sidestep
 reconstitute
 sticker
-nonpartisan
 skyrocket
 beachfront
 chartalism
@@ -781,7 +780,6 @@ sideline
 counterintuitive
 underemployment
 overemployment
-buildup
 absorber
 beltway
 roomful
@@ -792,7 +790,6 @@ monetizing
 monetization
 shutdown
 soundbite
-forecaster
 overfill
 loanable
 voilà
@@ -800,7 +797,6 @@ widowmaker
 prima facie
 lifeline
 liberalization
-stopgap
 lockbox
 ironic
 demonization
@@ -814,7 +810,6 @@ livable
 retrofit
 proactive
 proactively
-upend
 revamp
 resilience
 gentrify
@@ -1267,8 +1262,6 @@ lockstep
 makeover
 belly-up
 stepparent
-bullish
-bearish
 dicey
 corral
 frack
@@ -4301,7 +4294,6 @@ stunner
 peach (endurskoða)
 pennywhistle
 centime
-gourmandize
 overgorge
 sharp-worded
 tangy
@@ -5247,7 +5239,6 @@ syndesmotic
 smartaleck
 chattel slavery
 hypotensive
-scalped
 voltaic
 groom (endurskoða)
 grooming (endurskoða)
@@ -5292,7 +5283,6 @@ gibbing
 anabasis
 abandon (endurskoða)
 counted
-uncounted
 cocklebell
 yawp
 pocked
@@ -5840,8 +5830,6 @@ ament
 doggedness
 self-direction
 self-abnegation
-sudation
-sudor
 phratry
 peckish
 unreassuring
@@ -6759,3 +6747,17 @@ louden
 duramen
 do-gooder
 shamed
+omnicide
+hogger
+hoghead
+moonlighting
+stool pigeon
+warpath
+incriminating
+nurturer
+squirming
+orienteer
+orienteering
+underregulate
+tunicate
+chordate

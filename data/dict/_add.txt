@@ -2258,7 +2258,7 @@ imprecise l. ónákvæmur
 interwar l. millistríðs-, millistríðsára- ([the ~ period])
 warlord n. stríðsherra, herkonungur
 Siberia n. Síbería (stórt svæði í Austur-Rússlandi)
-Siberian l. síberískur; n. Síberíubúi
+Siberian l. síberískur; n. Síberíumaður, Síberíubúi
 magma n. bergkvika
 hiccup n. hiksti; s. hiksta
 swastika n. hakakross
@@ -12443,7 +12443,7 @@ historicist l. söguhyggju-, sagnfræðihyggju-; n. söguhyggjumaður
 historicism n. söguhyggja, sagnfræðihyggja
 historism n. söguhyggja
 self-aware l. sjálfsmeðvitaður
-misconstrual l. mistúlkun, rangskýring, misskilningur
+misconstrual n. mistúlkun, rangskýring, misskilningur
 enumerable l. teljanlegur
 melange n. sjá %[mélange]%
 megastructure n. risabygging, mjög stór bygging
@@ -12460,7 +12460,7 @@ Saxony n. Saxland (hérað í austurhluta Þýskalands)
 Northumberland n. Norðimbraland, Norðhumbraland (hérað á Norður-Englandi)
 Yorkshire n. Jórvíkurskíri (hérað á Norður-Englandi)
 Thuringia n. Þýringaland (hérað í Þýskalandi)
-Thuringian n. frá Þýringalandi (í Þýskalandi)
+Thuringian l. frá Þýringalandi (í Þýskalandi)
 syndicalism n. sindikalismi (stjórnmálastefna)
 syndicalist n. sindikalisti; l. sindikalista-, sindikalisma-
 nonchalance n. kæruleysi, afskiptaleysi
@@ -12475,7 +12475,7 @@ seaborne l. (fluttur) sjóleiðis ([~ freight], [~ invasion])
 impasse n. sjálfhelda, ógöngur ([we seem to have reached an ~])
 thespian l. leiklistar-; n. leikari, leikkona
 delicately ao. varlega, fínlega, á viðkvæman hátt
-misstep n. rangt skref, það að misstíga sig, það að hrasa; n. mistök
+misstep n. rangt skref, það að misstíga sig, það að hrasa; mistök
 stroller n. göngumaður; barnavagn, barnakerra (BNA)
 whimsy n. duttlungar
 artfully ao. kænskulega, á slægan máta
@@ -12496,7 +12496,7 @@ unlawfully ao. ólöglega
 gourmandize s. sjá %[gormandize]%
 grayness n. sjá %[greyness]%
 scrutinise s. sjá %[scrutinize]%
-nightcrawler n. ánamaðkur
+nightcrawler n. ánamaðkur; náttfari
 sudor n. sviti
 sudation n. svitnun
 clayware n. leirmunir
@@ -12514,3 +12514,20 @@ ill-fed l. vannærður
 bonkers l. sturlaður, klikkaður, geggjaður (óforml.)
 seamlessly ao. hnökralaust, án hnökra
 bullish l. bolalegur; bjartsýnn, vongóður, brattur (um framtíðarhorfur)
+bearish l. bjarnarlegur; svartsýnn, vondaufur (um framtíðarhorfur)
+tradecraft n. starfsaðferðir (njósnara)
+loricate s. klæða í brynju
+private enterprise n. einkaframtak
+factotum n. almennur aðstoðarmaður, starfsmaður sem vinnur margvísleg störf, altmúlígmaður
+Frog n. Frakki (breskt slangur, niðrandi)
+Bolshie n. sjá %[Bolshevik]% (óforml.)
+tisane n. franskt jurtate
+scalped l. fleginn höfuðleðri
+en poste l. í (sendiráðs)embætti (úr frönsku)
+upend s. umturna, kollvarpa, snúa upp á annan enda
+stopgap l. bráðabirgða-, skammtíma-, tímabundinn ([~ solution])
+forecaster n. spámaður, sá sem spáir fyrir um (sjá %[forecast]%)
+buildup n. uppbygging
+nonpartisan l. óhlutdrægur; óflokksbundinn
+explainability n. útskýranleiki
+tunicate s. þekja með himnu

@@ -190,8 +190,8 @@ sauce n. sósa, ídýfa; s. krydda; smána (í orðum)
 sauceboat n. sósuskál
 saucepan n. skaftpottur, pottur, panna
 saucer n. undirskál
-sauciness n. ósvífni, óskammfeilni
-saucy l. ósvífinn, hortugur; óskammfeilinn, djarfur í framgöngu
+sauciness n. ósvífni, óskammfeilni, hortugheit, dónaskapur
+saucy l. ósvífinn, hortugur, dónalegur; óskammfeilinn, djarfur í framgöngu
 saunter s. ganga í hægðum sínum, reika
 saunterer n. slæpingur
 sausage n. pylsa, bjúga
@@ -251,7 +251,7 @@ scantness n. ónógleiki, skortur
 scantling n. lítið stykki; ögn; stubbur, kubbur
 scanty l. lítill, rýr, ónógur ([a ~ supply]); [~ of words] fámæltur, fáorður
 scape n. sjá %[escape]%
-scapegoat n. sektarlamb
+scapegoat n. blóraböggull, sektarlamb
 scapegrace n. ónytjungur, vandræðamaður
 scar n. ör (eftir sár); klettur, bjarg; s. gera öróttan; [~ over] gróa (um sár)
 scarab n. tordýfill
