@@ -551,10 +551,10 @@ inconsiderate l. ótillitssamur; ónærgætinn; athugalaus
 inconsideration n. ótillitssemi; ónærgætni; athugaleysi
 inconsistency n. ósamkvæmni; staðfestuleysi
 inconsistent l. ósamkvæmur (e-u [with]), ekki samkvæmur (sjálfum sér); staðfestulaus, óreglubundinn
-inconsolable l. óhuggandi
+inconsolable l. óhuggandi, óhugganlegur
 inconsonance n. ósamræmi; ósamkvæmni
 inconsonant l. ósamkvæmur, ósamræmilegur ([with, to])
-inconspicuous l. sem lítið ber á, óálitlegur, óverulegur
+inconspicuous l. sem lítið ber á; óálitlegur; óverulegur
 inconstancy n. óstöðuglyndi, hviklyndi; óstöðugleiki
 inconstant l. óstöðugur, hvikull, breytilegur
 inconsumable l. óeyðanlegur
@@ -757,16 +757,16 @@ inertia n. aldeyfa; tregða ([the ~ of matter])
 inertion n. aðgerðarleysi
 inertness n. aðgerðarleysi
 inerudite l. ómenntaður
-inescapable l. óhjákvæmilegur ([~ conclusion])
+inescapable l. óumflýjanlegur, óhjákvæmilegur ([~ conclusion])
 inestimable l. ómetanlegur
-inevitable l. óhjákvæmilegur, nauðsynlegur ([a battle became ~])
+inevitable l. óhjákvæmilegur, óumflýjanlegur, nauðsynlegur ([a battle became ~])
 inexact l. ónákvæmur
 inexactitude n. ónákvæmni
 inexactness n. ónákvæmni
 inexcusable l. óafsakanlegur ([it is altogether ~])
 inexhaustible l. ótæmanlegur, óþrjótandi, óþrotlegur
 inexorability n. óhjákvæmileiki; ósveigjanleiki; óbilgirni
-inexorable l. óhjákvæmilegur; ósveigjanlegur; óbilgjarn
+inexorable l. óhjákvæmilegur, óstöðvanlegur; ósveigjanlegur; óbilgjarn
 inexpediency n. gagnsleysi
 inexpedient l. óhentugur, ótiltækilegur, óráðlegur; gagnslaus
 inexpensive l. ódýr; óeyðslusamur
@@ -1017,7 +1017,7 @@ insensate l. líflaus ([~ things]); tilfinningarlaus; óskynsamlegur
 insensibility n. tilfinningarleysi; meðvitundarleysi
 insensible l. ómerkjanlegur ([by ~ degrees]); tilfinningarlaus; meðvitundarlaus
 insensibly ao. ómerkjanlega, smátt og smátt
-insensitive l. tilfinningalítill
+insensitive l. tilfinningalítill; ónærgætinn; ónæmur
 inseparability n. óaðgreinanleiki
 inseparable l. óaðgreinanlegur, óaðskiljanlegur
 insert s. færa inn, stinga inn; setja (grein í blað)
@@ -1026,7 +1026,7 @@ inset n. innfallsstraumur; innskotsblað eða blöð; s. setja inn í
 inseverable l. sjá %[inseparable]%
 inshore ao. nálægt landi; upp að landi
 inshrine s. sjá %[enshrine]%
-inside fs. & ao. fyrir innan; l. innanverður, innvortis; n. innhverfa, innri hlið; innyfli
+inside fs. fyrir innan; inni í; ao. fyrir innan; inni í; l. innanverður, innvortis; n. innhverfa, innri hlið; innyfli (yfirleitt í ft. [~s])
 insidious l. slægur, undirförull ([an ~ enemy]); sviksamlegur
 insight n. innsæi, innsýn, skilningur, glögg þekking, glöggskyggni
 insignia nft. tignareinkenni
@@ -1312,7 +1312,7 @@ intervenient l. sem kemur eða er í milli
 intervention n. íhlutun; afskipti; málamiðlun; meðalganga
 interview n. viðtal ([to have an ~ with]); málfundur; s. taka viðtal við e-n
 interviewer n. spyrill, sá sem tekur viðtal við e-n
-interweave s. vefa saman
+interweave s. samtvinna, flétta saman, vefa saman
 intestacy n. dauði án löggildrar erfðaskrár
 intestate l. dáinn án þess að hafa gert erfðaskrá; óráðstafaður með erfðaskrá
 intestinal l. innyfla-, iðra- ([~ worms]); [the ~ canal] þarmagangurinn

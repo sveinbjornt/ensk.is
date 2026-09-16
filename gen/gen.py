@@ -77,7 +77,8 @@ ENWORD_TO_IPA_US = read_json("data/ipa/us/en2ipa.json")
 
 def ipa4entry(s: str, lang: str = "uk") -> str | None:
     """Look up International Phonetic Alphabet spelling for word."""
-    assert lang in ["uk", "us"]
+    if lang not in ["uk", "us"]:
+        raise ValueError("lang must be 'uk' or 'us'")
     if lang == "uk":
         word2ipa = ENWORD_TO_IPA_UK
     else:

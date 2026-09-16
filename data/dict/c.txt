@@ -182,7 +182,7 @@ capacity n. móttækisgáfa; hæfileiki; skilningur, gáfur; möguleiki; rúmtak
 caparison n. söðulklæði, reiðver; klæðnaður; s. skrautbúa, skreyta
 cap-à-pie ao. frá hvirfli til ilja
 cape n. höfði, nes; slag (á kápu); [~d cloak] kápa með slagi
-caper s. stökkva, hoppa; n. hopp, stökk
+caper s. stökkva, hoppa; kapers; n. hopp, stökk
 capercailye n. þiður (fuglsheiti)
 capercailzie n. þiður (fuglsheiti)
 capillary l. hárfínn; n. hárpípa; háræð ([~ vessel])
@@ -306,7 +306,7 @@ carrier-pigeon n. bréfdúfa
 carriole n. lítill vagn; sleði (í Kanada)
 carrion n. hræ
 carrot n. gulrót
-carroty l. appelsínugulur; rauðhærður
+carroty l. appelsínugulur; rauðhærður; eins og gulrót
 carry s. bera; flytja; bera úr býtum, vinna, fá (sigur, verðlaun); vinna, taka (borg, skip); [~ oneself] bera sig, hegða sér; [~ one's point] koma vilja sinum fram; [~ conviction] sannfæra; [the horse carries] ber sig eða höfuðið vel; [~ it, ~ the day] bera hærri hlut; [~ into effect] koma e-u í framkvæmd; [~ away] fara með (e-n) í gönur; [~ off] flytja burt; kippa burt (úr heiminum); bera úr býtum; [~ on] halda (e-u) áfram; reka (verslun); heyja (strið); [~ out] framkvæma, leiða til lykta; [~ through] koma (e-u) fram
 cart n. tvíhjólaður flutningavagn; s. flytja á vagni, aka e-u
 cartage n. flutningur; flutningskaup
@@ -725,7 +725,7 @@ childless l. barnlaus
 childlike l. barnslegur
 childly ao. barnalega
 childe n. jungherra
-chill n. kuldahrollur; kuldi, nepja: kaldakul ([take the ~ off]); l. kaldur, napur; s. kólna; fá kuldahroll í sig; kæla; taka kaldakulið úr (t.d. bjór); deyfa; draga úr
+chill n. kuldahrollur; kuldi, nepja; kaldakul ([take the ~ off]); l. kaldur, napur; s. kólna; fá kuldahroll í sig; kæla; taka kaldakulið úr (t.d. bjór); deyfa; draga úr
 chilliness n. kuldahrollur; nepja, kuldi (í viðmóti); tómlæti
 chilly l. kaldur, napur; kuldalegur; kulvís; ao. kuldalega
 chimb n. lögg á tunnu
@@ -746,7 +746,7 @@ chink n. glasahljóð, málmhljóð; peningar; rifa, sprunga; andköf; s. glamra
 Chink n. niðrandi orð um e-n af kínverskum uppruna
 chinky l. með sprungum, rifum
 Chinky n. niðrandi orð um e-n af kínverskum uppruna
-chintz n. sirz
+chintz n. sirs
 chip n. höggspónn; flís; sneið; [he is a ~ of the old block] lifandi eftirmyndin hans föður síns; sneidd kartafla, frönsk kartafla (UK); s. höggva smátt; höggva til; flísast
 chippings nft. flísar ([~ of stones])
 chiromancer n. lófalesari
@@ -994,7 +994,7 @@ cleanse s. hreinsa
 cleanser n. hreinsari
 cleansing n. hreinsun
 clear l. bjartur, heiðskír; gagnsær; tær, glær; glöggur, greinilegur; auðsær, auðskilinn; skýr, ljós (í hugsunum); saklaus; laus; auður, opinn, óhindraður; [~ profit] hreinn ágóði (að frádregnum kostnaði); [three ~ days] þrír heilir dagar; [get ~ of] losna við, komast hjá; ao. skýrt ([speak loud and ~]); alveg ([~ away, ~ off]); [three feet ~] full þrjú fet; s. gera tært; hreinsa; réttlæta; skýra; tæma; færa burtu; ryðja (land); losa við ([of, from]); losast (losna) við; fara (stökkva) yfir; borga (skuld); græða; heiða til, birta upp ([~ up]); setjast (um vökva); rýma, víkja; [~ the coast] komast (klaklaust) fram hjá ströndinni; [~ a ship] afferma skip; greiða hafnargjald og önnur lögboðin gjöld af skipi og farmi; [~ one's throat] ræskja sig; [~ away] taka burtu, taka af borði; hverfa, létta ([the mist ~ed away]); [~ off] losna við; fara burtu; [~ up] hýrga; skýra, leiða í ljós; skýrast; birta, heiða til (um veðrið)
-clearance n. hreinsun; tollkvittun; ruðning; rjóður
+clearance n. hreinsun; tollkvittun; ruðning; rjóður; aðgangsheimild
 clearing n. hreinsun; réttlæting; greiðsla (skuldar); ruðning; rjóður
 clearly ao. glögglega; auðsjáanlega
 clearness n. skærleiki, gagnsæi; skýrleiki; heiðríkja; skarpskyggni
@@ -1237,7 +1237,7 @@ cogitative l. hugsandi ([after a ~ pause])
 cognac n. koníak
 cognate l. skyldur (e-u [with]), samstofna; n. ættingi, frændi; móðurfrændi
 cognation n. skyldleiki
-cognition n. þekking
+cognition n. skilvit, vitsmunir; hugsun, hugarstarfsemi
 cognizable l. þekkjanlegur, skiljanlegur; [~ offence] misgerð, sem varðar við lög
 cognizance n. vitneskja; vitund; málsprófun; merki; [take ~ of a case] prófa (og dæma) mál
 cognizant l. vitandi, sem er kunnugt (um [of])
@@ -1890,7 +1890,7 @@ constantly ao. stöðugt, jafnan; sífellt
 constellation n. samstirni, stjörnumerki ([the ~ Orion])
 consternate s. skelfa
 consternation n. skelfing, ofboð
-constipate s. valda harðlífi, hægðatregðu
+constipate s. valda harðlífi, valda hægðatregðu
 constipation n. harðlífi, hægðatregða
 constituency n. kjördæmi; kjósendur
 constituent l. sem e-ð er samsett af; frumlegur; kjósandi; kjör-; [Constituent Assembly] frumlagaþing; n. kjósandi; frumpartur; umboðsveitandi, umbjóðandi
@@ -2600,8 +2600,8 @@ cuddle s. umfaðma; liggja þétt saman (til að verma sig); [~ up to] hjúfra s
 cudgel n. barefli, kylfa, lurkur; [to take up the ~s for one] taka málstað e-s; s. lemja (með lurk)
 cue n. ávísunarorð (í sjónleik); vísbending; skap; hnattstöng (til að ýta á kúlur með á hnattborði)
 cuff n. högg, snoppungur; uppslag (á ermi); líning (á skyrtuermi); línsmokkur, ermalín; s. slá (með hnefa eða flatri hendi), snoppunga; berjast
-cuirass n. bolhlíf, brynja
-cuirassed l. brynjaður
+cuirass n. bolhlíf, brynja, herklæði
+cuirassed l. brynjaður, herklæddur
 cuirassier n. brynjaður riddari
 cuisine n. eldhús; matreiðsla, eldamennska
 culinary l. sem lýtur að eldhúsi eða matartilbúningi

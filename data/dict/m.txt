@@ -480,7 +480,7 @@ meander s. liggja (ganga, renna) í bugðum; n. bugða ([flow in ~s])
 meandering l. bugðóttur
 meanness n. auðvirðileiki; ódrenglyndi; eymd; níska
 means n. efni, ráð; tæki; meðal; [the school has been the ~ of much good] hefur komið miklu góðu til leiðar; [by all ~] fyrir alla muni; [by no ~] fyrir engan mun; [by his ~] með hjálp hans; [a man of small/limited ~] efnalítill maður
-mean-spirited l. auðvirðilegur (í hugsunum), illgjarn, andstyggilegur; huglaus
+mean-spirited l. auðvirðilegur (í hugsunum), illgjarn, andstyggilegur
 meantime ao. á meðan ([in the ~])
 meanwhile ao. á meðan ([in the ~])
 measles nft. mislingar
@@ -529,7 +529,7 @@ mediocrity n. meðalmennska, meðallag, miðlungsskapur; meðalmenni
 meditate s. hugleiða, hugsa um; hafa í hyggju
 meditation n. hugleiðing, umhugsun; hugvekja
 meditative l. hugsandi, íhugunarsamur
-Mediterranean l. Miðjarðarhafs-; n. [the ~] Miðjarðarhafið
+Mediterranean l. Miðjarðarhafs-; n. Miðjarðarhafið ([the ~ Sea])
 medium n. miðja, miðbik; meðaltal; meðalstig; tilstyrkur ([by the ~ of]); milliliður, miðill; fjölmiðill; [at a ~] að meðaltali; l. meðal-, sem liggur mitt í milli; [he was of ~ height] meðalmaður á hæð
 mediumship n. tilverknaður, tilstyrkur; miðilshæfileiki
 mediumistic l. miðils-; [~ abilities, powers] miðilshæfileikar eða miðilsgáfa
@@ -1038,7 +1038,7 @@ moccasined l. í sólalausum skóm ([~ feet])
 mocha n. Mokka-kaffi
 mock s. hæða, spotta; herma eftir; gabba; l. uppgerðar-
 mocker n. háðfugl, gabbari
-mockery n. háð, spott; gabb; athlægi
+mockery n. háð, spott, skens; athlægi
 mockingly ao. í háði; hæðilega
 modal l. háttslegur; sem lýtur að forminu; skilmálabundinn ([~ legacy]); n. skildagasetning
 mode n. háttur ([~ of life]); tíska, venja

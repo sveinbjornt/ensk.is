@@ -325,7 +325,7 @@ heartrending l. sár
 heartsick l. hugsjúkur
 heartsome l. fjörgandi; kátur, fjörugur
 heartstrings nft. hjartataugar
-heart-whole l. óskelfdur; óskaddur á hjartanu: hreinskilinn, einlægur
+heart-whole l. óskelfdur; óskaddur á hjartanu; hreinskilinn, einlægur
 heartwood n. innri (harði) viðurinn í tré, kjarnviður
 hearty l. hjartanlegur, einlægur, alúðlegur; fjörugur, ákafur; kröftugur, styrkjandi (um fæði); sterkur (um, við)
 hearten s. telja hug í, eggja, hvetja, örva ([~ up])
@@ -1013,7 +1013,7 @@ hyacinth n. hýasinta, jasinta
 hyades nft. sjöstirni
 hyaline n. spegilsléttur sjór; l. gagnsær sem gler
 hybrid n. kynblendingur; l. framkominn af tveim ólíkum tegundum (plantna eða dýra)
-hydatid n. sullur; ft. sullaveiki; l. sullaveiki- ([~ patient])
+hydatid n. sullur; l. sullaveiki- ([~ patient])
 hydra n. vatns- eða sjóskrímsli; vatns- eða sjóormur
 hydrate n. vatneldi (í efnafræði)
 hydraulic l. vatnsafls-, gerður með vatnsafli

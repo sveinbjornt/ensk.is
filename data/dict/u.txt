@@ -170,7 +170,7 @@ undecided l. óákveðinn; óútkljáður; óráðinn, vafasamur
 undecked l. óprýddur; þilfarslaus, opinn ([an ~ vessel])
 undemonstrative l. hæglátur; dulur, fálátur
 undeniable l. óneitanlegur, óyggjandi
-under fs. & ao. undir; fyrir neðan; í samsetningum: undir-, neðan-; [~ arms] með vopnum; [~ sentence] sakfelldur; [~ the breath] í lágum hljóðum
+under fs. & ao. undir; fyrir neðan; undir-, neðan- (í samsetningum); [~ arms] með vopnum; [~ sentence] sakfelldur; [~ the breath] í lágum hljóðum
 underbid s. bjóða lægra en, bjóðast til að gera e-ð fyrir minna verð en e-r annar
 underbred l. illa menntaður
 underclothes nft. nærföt
@@ -190,7 +190,7 @@ underling n. undirlægja, undirmaður
 underlinen n. nærföt
 undermine s. grafa undan; kippa fótum undan
 undermost l. neðstur, lægstur
-underneath fs. & ao. undir, neðan undir, fyrir neðan
+underneath fs. undir, neðan undir, fyrir neðan; ao. undir, neðan undir, fyrir neðan
 underpay s. borga of lítið; launa of illa
 underpin s. setja (e-ð) undir (til stuðnings), styðja, skorða
 underprize s. virða of lágt
@@ -287,7 +287,7 @@ unfolding n. framför, vöxtur
 unforgiving l. ófyrirgefandi, ósáttfús, langrækinn
 unfortunate l. ógæfusamur, ólánsamur; óheppinn (með [in])
 unfortunately ao. því miður; til allrar ógæfu ([~ for me])
-unfounded l. ástæðulaus, tilhæfulaus
+unfounded l. ástæðulaus, tilhæfulaus, óígrundaður
 unfrequent l. ótíður, sjaldgæfur ([of ~ occurrence])
 unfriended l. vinalaus; sem vináttu hefur verið slitið við
 unfriendly l. óvinveittur, óvingjarnlegur, óvinsamlegur; óhagstæður ([weather ~ for health])
@@ -539,7 +539,7 @@ unskillful l. ókænn, illa að sér
 unsociable l. ófélagslyndur, ófélagslegur; ómannblendinn
 unsound l. óáreiðanlegur; óheill; skemmdur; rangur; óhollur; ekki rétttrúaður; veikur
 unsparing l. óspar; örlátur; vægðarlaus, harður
-unspeakable l. óumræðilegur
+unspeakable l. óumræðilegur, ósegjanlegur, ólýsanlegur
 unspecified l. ekki nákvæmlega tiltekinn, ósundurliðaður
 unspotted l. óflekkaður, flekklaus
 unstable l. óstöðugur, fallvaltur
@@ -599,7 +599,7 @@ unwary l. ógætinn
 unwearied l. óþreyttur; óþreytandi; ótrauður
 unwashed l. óþveginn
 unwedded l. ókvæntur, ógiftur
-unwelcome l. óvelkominn, ókær, óþægilegur ([an ~ truth])
+unwelcome l. óvelkominn, ókær ([an ~ guest]); óþægilegur ([an ~ truth])
 unwell l. lasinn, óhress
 unwept l. ógrátinn
 unwholesome l. óheilnæmur, óhollur

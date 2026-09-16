@@ -191,8 +191,8 @@ debtless l. skuldlaus
 debtor n. skuldari
 debut n. fyrsta framkoma (á leiksviði); fyrsta tilraun
 decade n. tugur
-decadence n. afturför, hnignun
-decadent l. hnignandi, sem er í hnignun
+decadence n. afturför, hnignun, úrkynjun
+decadent l. hnignandi, sem er í hnignun, úrkynjaður
 decalitre n. 10 lítrar
 decalogue n. tíulaga boðorð
 decamp s. taka upp herbúðir og fara af stað; halda snögglega burt, strjúka
@@ -478,7 +478,7 @@ demurrage n. biðdagar ([days on ~]); biðdagagjald, biðpeningar
 demurrer n. mótmæli
 demy n. lítið arkarbrot
 den n. gren, bæli (villidýra); [a ~ of robbers] ræningjabæli
-denationalize s. svipta (e-n) þjóðerni sínu; afmá úr þjóðinni: gera óþjóðlegan
+denationalize s. svipta (e-n) þjóðerni sínu; afmá úr þjóðinni; gera óþjóðlegan
 denaturalize s. svipta eðli sínu; svipta e-n þegnréttindum, svipta e-n borgararétti
 dendrology n. trjáfræði
 deniable l. sem hægt er að neita
@@ -726,7 +726,7 @@ deucedly ao. rækalls, skollans, skrambi
 deuce-ace n. daus og ás (í teningskasti, [to throw ~])
 deuterogamist n. sá sem vill leyfa að kvænast (giftast) í annað sinn; sá sem kvænist í annað sinn
 deuterogamy n. seinna hjónaband
-devastate s. eyða, herja
+devastate s. leggja í rúst, eyða, herja
 devastation n. eyðing
 develop s. þróa, láta þróast, veita e-u þroska; framleiða ([~ heat]); framkalla, leiða (mynd) í ljós; útskýra, útlista; koma fram, koma í ljós; þroskast, ná þroska; [~ itself] myndast, skapast; [~ into] verða að e-u
 development n. þróun; þroski; útskýring, útlistun; myndun; framköllun (ljósmyndar); framleiðsla ([~ of heat])
@@ -764,7 +764,7 @@ dexterity n. handfimi, fimleiki, lagni, handlagni
 dexterous l. fimur, laginn, lagvirkur
 dextrous l. fimur, laginn, lagvirkur
 dextrin n. dextrín
-diabolical l. djöfullegur, helvískur
+diabolical l. djöfullegur, helvískur, djöflalegur
 diabolism n. djöfullegt athæfi; djöfulæði ([spirit of ~]); djöflatrú
 diabetes n. sykursýki
 diabetic l. sykursjúkur; sykursýkis-
@@ -898,7 +898,7 @@ dint n. högg; far (eftir högg); [by ~ of] með (hjálp e-s); s. setja far í, 
 diocesan n. klerkur eða íbúi í biskupsdæmi
 diocese n. biskupsdæmi
 diorama n. gagnsýni
-dip s. dýfa; ausa; stinga sér, fara í kaf; hallast niður; stofna e-m í skuldir; veðsetja ([~ an estate]); [~ into] blaða í (bók); [~ sheep] baða fé; [~ the flag] tifa með flagginu (upp og ofan); n. dýfing; ídýfi, sósa; bað ([sheep ~]); tólgarkerti, strokkkerti; halli ([~ of the magnetic needle])
+dip s. dýfa; ausa; stinga sér, fara í kaf; hallast niður; stofna e-m í skuldir; veðsetja ([~ an estate]); [~ into] blaða í (bók); [~ sheep] baða fé; [~ the flag] tifa með flagginu (upp og ofan); n. dýfing; ídýfa, sósa; bað ([sheep ~]); tólgarkerti, strokkkerti; halli ([~ of the magnetic needle])
 dipetalous l. tvíblaðaður (um blóm)
 diphtheria n. barnaveiki (e.k. hálsveiki)
 diptheritis n. barnaveiki (e.k. hálsveiki)
@@ -1753,7 +1753,7 @@ durability n. varanleiki, hald, ending
 durable l. endingargóður, þolinn, haldgóður
 durance n. varðhald
 duration n. tímalengd ([the average ~ of life]); [of short ~] skammvinnur, skammær
-during fs. í, um, meðan; [~ the night] um nóttina
+during fs. meðan, í, um; [~ the night] um nóttina
 dusk n. dimma, rökkur; l. dimmur; s. skyggja, rökkva ([it began to ~])
 duskish l. dimmleitur; dökkleitur
 dusky l. dimmur, skuggsýnn
@@ -1779,7 +1779,7 @@ dwindle s. minnka, rýrna
 dye s. lita; n. litur; litunarefni
 dyer n. litari
 dyke n. varnargarður (sjá %[dike]%); lesbía, lessa (niðrandi)
-dynamic l. kviklegur; kraftmikill, atorkumikill; aflfræðilegur
+dynamic l. breytilegur, kviklegur; kraftmikill, atorkumikill, virkur; hreyfi-, hreyfilegur; aflfræðilegur
 dynamics n. aflfræði
 dynamite n. dýnamít; sprengiefni; tundur; s. sprengja með tundri
 dynamo n. rafvél, rafall

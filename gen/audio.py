@@ -54,13 +54,15 @@ _SUPPORTED_VOICES = [_DEFAULT_UK_VOICE, _DEFAULT_US_VOICE]
 
 _SPEECHSYNTH_CLT = "/usr/bin/say"  # Requires macOS
 
-assert exists(_SPEECHSYNTH_CLT), "macOS speech synthesizer not found"
+if not exists(_SPEECHSYNTH_CLT):
+    raise FileNotFoundError(f"macOS speech synthesizer at {_SPEECHSYNTH_CLT} not found")
 
 # Requires LAME installed
 # On macOS: brew install lame
 _LAME_CLT = shutil.which("lame")
 
-assert _LAME_CLT and exists(_LAME_CLT), "lame MP3 encoder not found"
+if not _LAME_CLT or not exists(_LAME_CLT):
+    raise FileNotFoundError("lame MP3 encoder not found")
 
 
 def synthesize_word(
@@ -68,11 +70,13 @@ def synthesize_word(
 ) -> str | None:
     """Generate a speech-synthesised AIFF audio file from word.
     Returns path to output file. Only works on macOS."""
-    assert voice in _SUPPORTED_VOICES, f"Unsupported voice: {voice}"
+    if voice not in _SUPPORTED_VOICES:
+        raise ValueError(f"Unsupported voice: {voice}")
 
     subfolder = "uk" if voice == _DEFAULT_UK_VOICE else "us"
     subfolder_path = f"{dest_folder}/{subfolder}"
-    assert exists(subfolder_path), f"Destination folder {subfolder_path} does not exist"
+    if not exists(subfolder_path):
+        raise FileNotFoundError(f"Destination folder {subfolder_path} does not exist")
 
     f = w.replace(" ", "_").replace("/", "_")
 

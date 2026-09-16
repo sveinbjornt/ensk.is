@@ -6,7 +6,7 @@ wadeable l. væður
 waddle s. vaga, vagga; n. vaggandi göngulag, vagg
 wade s. vaða ([~ a river, across a river]); komast með fyrirhöfn í gegnum ([~ through a dull book])
 wader n. vaðfugl
-wafer n. ofláta
+wafer n. ofláta, obláta, altarisbrauð; þunnt kex; flaga
 waffle n. vaffla, tíglabrauð
 waft s. blása, feykja, bera (í gegnum loftið); berast; svífa; n. blástur, gustur; veif
 wafture n. veifing ([~ of the hand])
@@ -171,7 +171,7 @@ water rate n. vatnsskattur
 watershed n. vatnaskil, vörp; [watershed moment] tímamót
 water-soaked l. vatnsósa
 water-spout n. skýstrokkur
-watertight l. þéttur (um skip)
+watertight l. vatnsþéttur (um skip)
 waterworks nft. vatnsveita, vatnsveitustöð
 watery l. vatnskenndur; votur; vatns- ([~ taste])
 wattle n. tág; ft. tágagirðing; sepi (undir hálsinum á hana og fiski); s. girða með tágafléttum; flétta úr tágum ([a ~d hedge])
@@ -206,7 +206,7 @@ weakling n. veiklaður maður, aumingi
 weakly l. heilsutæpur, óhraustur; ao. veiklega, dauflega
 weak-minded l. veikgeðja; daufgerður, treggáfaður
 weakness n. veikleiki; breyskleiki, brestur; vanmáttur, þrekleysi
-weak-sighted l. þreklaus, ístöðulaus
+weak-sighted l. sjóndapur
 weak-spirited l. þreklaus, ístöðulaus
 weal n. velferð, hamingja, hagur; [general (public, common) ~] almenningsheill; [in ~ or woe] í meðlæti og mótlæti, í blíðu og stríðu
 wealth n. auður, auðæfi
@@ -527,7 +527,7 @@ wilful l. einþykkur, þrár; gerður af ásettu (með fyrirhuguðu) ráði ([~ 
 wilfulness n. þrái, þrjóska
 wilily ao. með slægð, hrekkvíslega
 wiliness n. slægð, hrekkvísi, undirferli
-will n. vilji; vild; erfðaskrá ([last ~ and testament]); [he has a strong ~] einbeittan vilja; [have one's ~] fá sínum vilja framgengt; [at ~] eftir vild; [with a ~] af kappi; s. (sem hjálparsögn aðeins haft í nútíð og þátíð: [will, would]) vil; ætla; mun; er vanur ([he would sit there for hours]); (fullkomin sögn) [to ~] vilja; gefa með erfðaskrá (í þessari merkingu hefur það reglulega beygingu, [willed])
+will n. vilji; vild; erfðaskrá ([last ~ and testament]); [he has a strong ~] einbeittan vilja; [have one's ~] fá sínum vilja framgengt; [at ~] eftir vild; [with a ~] af kappi; s. (sem hjálparsögn aðeins haft í nútíð og þátíð, þ.e. [will, would]) vil; ætla; mun; er vanur ([he would sit there for hours]); (fullkomin sögn) [to ~] vilja; gefa með erfðaskrá (í þessari merkingu hefur það reglulega beygingu, [willed])
 willing l. viljugur; fús; [be ~ to do it] vilja gera það, vera til í að gera það
 willingly ao. viljandi, fúslega, gjarnan
 willingness n. fúsleiki, viljugleiki
@@ -614,8 +614,8 @@ wishful l. löngunarfullur; sem óskar (e-s [of])
 wish-wash n. skólp (ónýtur drykkur)
 wishy-washy l. þunnur, bragðlaus, ónýtur
 wisp n. visk ([a ~ of hay, straw]); ræma ([~ of silk, paper])
-wistful l. hugsandi; löngunarfullur ([to look with ~ eyes at]); [be ~ to] langa til að
-wit n. fyndni, andríki; fyndinn maður ([a man of ~]); vit, skilningur ([it passes the ~ of man]); [to be at one's ~'s end] standa alveg ráðalaus; [to be frightened out of one's ~s] vera utan við sig af hræðslu; [to lose one's ~s] ganga af vitinu; [the five ~s] fimm skilningarvitin; s. vita (forn.); [I wot] ég veit (annars úrelt nema í: [to ~] nefnilega, það er að segja)
+wistful l. angurvær; hugsandi; löngunarfullur ([to look with ~ eyes at]); [be ~ to] langa til að
+wit n. fyndni, andríki; fyndinn maður ([a man of ~]); vit, skilningur ([it passes the ~ of man]); [to be at one's ~'s end] standa alveg ráðalaus; [to be frightened out of one's ~s] vera utan við sig af hræðslu; [to lose one's ~s] ganga af vitinu; [the five ~s] fimm skilningarvitin; s. vita (forn.); [I wot] ég veit (úrelt nema í [to ~] nefnilega, það er að segja)
 witch n. galdrakona, norn; s. töfra
 witchcraft n. nornafár, fjölkynngi, galdrar, töfrar
 witchery n. töfrar, galdrar, nornafár, fjölkynngi
@@ -702,13 +702,13 @@ woof n. ívaf, fyrirvaf; vefnaður; uh. voff!
 woofy l. fastofinn
 wool n. ull; ullarband, ullargarn; ullarföt
 woolfell n. gæra
-wool-gathering n. draumórar, leiðsla
+woolgathering n. draumórar, leiðsla
 woolgrower n. fjárbóndi
 woollen l. úr ull; ullar-; nft. [woollens] ullarvara
 woolen-draper n. klæðasölumaður
 woolly l. úr ull; ullar-; ullarkenndur
 woolsack n. ullarsekkur; sæti forseta í efri málstofu enska þingsins
-wool-stapler n. ullarkaupmaður
+wool stapler n. ullarkaupmaður
 word n. orð ([I have no ~s to express my gratitude]); loforð ([keep, break one's ~]); drengskaparorð ([~ of honour]); orðsending; [by ~ of mouth] munnlega; [a man of his ~] orðheldinn maður; [a man of few ~s] fáorður; [a ~ in (out of) season] orð í tíma (ótíma) talað; [big ~s] stóryrði, gífuryrði; [honest in ~ and deed] vandaður í orði og verki; [to send ~] gera e-m orð (eða boð); [to eat one's ~s] éta ofan í sig; s. orða
 wordiness n. mælgi, orðagnótt
 wording n. orðun, orðalag, still
@@ -736,7 +736,7 @@ workpeople n. verkmenn, verkafólk
 workshop n. verkstofa, vinnustofa
 worktable n. vinnuborð, saumaborð
 workwoman n. verkakona; saumakona
-world n. veröld, heimur; jarðríki; [the end of the ~] heimsendir; [would go to the ~s' end] veröldina á enda; [in the ~] í heiminum; (oft aðeins til áherslu): [nothing in the ~] alls ekkert; [what in the ~ am I to do?] hvað á ég að gera?; [all precautions in the ~] allar hugsanlegar varúðarreglur; [citizen of the ~] heimsborgari; [~ without end] eilíflega
+world n. veröld, heimur; jarðríki; [the end of the ~] heimsendir; [would go to the ~s' end] veröldina á enda; [in the ~] í heiminum; [nothing in the ~] alls ekkert; [what in the ~ am I to do?] hvað á ég að gera?; [all precautions in the ~] allar hugsanlegar varúðarreglur; [citizen of the ~] heimsborgari; [~ without end] eilíflega
 world-famous l. heimsfrægur
 worldliness n. veraldleiki, veraldlegur hugsunarháttur
 worldling n. þessa heims barn, heimsbarn
@@ -792,7 +792,7 @@ wretch n. aumingi; vesalmenni, níðingur
 wretched l. aumur; vesæll, volaður; hörmulegur; níðingslegur
 wretchedness n. eymd, volæði, bágindi; níðingsskapur
 wriggle s. hreyfa (líkamann áfram eins og ormur), hrökkvast; [the worm ~d its way into the earth] ormurinn skreið niður í jörðina; [~ out of] smeygja (vinda) sér út úr
-wright n. smiður (einkum í samsetningum: [ship~, mill~, wheel~])
+wright n. smiður (einkum í samsetningum, t.d. %[shipwright]%, %[millwright]%, %[wheelwright]%)
 wring s. snúa; vinda þvott; þrýsta, kreista; kreppa að; kvelja; n. þrýsting, kreisting
 wringer n. kvalari, kúgari, fésuga; þvottavinda
 wrinkle n. hrukka; brot; ójafna; s. gera hrukkótt eða ójafnt; verða hrukkótt

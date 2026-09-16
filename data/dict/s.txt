@@ -161,7 +161,7 @@ sardine n. sardína
 sardonic l. háðslegur, napur; [~ smile] glott; [~ laughter] kuldahlátur, kaldahlátur
 sash n. breiður axla- eða mittislindi, skrautlindi; gluggagrind
 sash window n. gluggi sem hleypa má upp og niður, felligluggi
-Satan n. satan, andskoti, djöfull
+Satan n. satan, andskotinn, djöfullinn
 satanic l. djöfullegur, satanískur
 satchel n. bókataska
 sate s. seðja, ofseðja
@@ -190,8 +190,8 @@ sauce n. sósa, ídýfa; s. krydda; smána (í orðum)
 sauceboat n. sósuskál
 saucepan n. skaftpottur, pottur, panna
 saucer n. undirskál
-sauciness n. ósvífni, óskammfeilni
-saucy l. ósvífinn, hortugur; óskammfeilinn, djarfur í framgöngu
+sauciness n. ósvífni, óskammfeilni, hortugheit, dónaskapur
+saucy l. ósvífinn, hortugur, dónalegur; óskammfeilinn, djarfur í framgöngu
 saunter s. ganga í hægðum sínum, reika
 saunterer n. slæpingur
 sausage n. pylsa, bjúga
@@ -251,7 +251,7 @@ scantness n. ónógleiki, skortur
 scantling n. lítið stykki; ögn; stubbur, kubbur
 scanty l. lítill, rýr, ónógur ([a ~ supply]); [~ of words] fámæltur, fáorður
 scape n. sjá %[escape]%
-scapegoat n. sektarlamb
+scapegoat n. blóraböggull, sektarlamb
 scapegrace n. ónytjungur, vandræðamaður
 scar n. ör (eftir sár); klettur, bjarg; s. gera öróttan; [~ over] gróa (um sár)
 scarab n. tordýfill
@@ -835,7 +835,7 @@ shear s. rýja, klippa ([~ a sheep]); klippa lóna af ([~ cloth]); féflétta; n
 shearer n. (sauða)klippari
 shearing n. klipping ([sheep-~])
 shearling n. veturgömul kind
-sheath n. slíður, skeiðar
+sheath n. slíður, skeiðar; [what is a sword without the ~ that protects it]
 sheathe s. sliðra, láta í skeiðar; klæða (skip) málmþynnum
 sheathing n. (málm)-þynnur utan á skipsskrokk
 sheave n. tríssuhjól
@@ -1179,7 +1179,7 @@ sinuous l. bugðóttur, krókóttur
 sinus n. bugða; sínus (í stærðfræði)
 sip s. smásúpa, dreypa vörunum í; sjúga; n. lítill sopi
 siphon n. sogpípa, sogari (til að soga lög úr ílátum); s. soga
-Sir n. herra (í ávarpi); titill ensks baronets fyrir framan skírnarnafnið: [Sir Walter Scott, Sir Isaac Newton]
+Sir n. herra (í ávarpi); titill ensks baronets fyrir framan skírnarnafnið (t.d. [Sir Walter Scott, Sir Isaac Newton])
 sire n. faðir (í skáldskap, einnig um hesta); l. feðra afkvæmi ([he ~d seven children])
 siren n. söngdís, töfradís, sírena; þokulúður
 sirloin n. spjaldhryggjarstykki af nautgrip, lund ([a ~ steak])
@@ -1288,7 +1288,7 @@ slander n. óhróður, rógur; s. bera út óhróður um (e-n), rægja
 slanderer n. rógberi
 slanderous l. bakmálugur; illkvitnislegur; rógberandi
 slang n. slangur, skrílmál, óvandað talmál; s. nota óvandað mál; skamma
-slangy l. óvandaður halli, brekka; sneið, skenz; s. (um mál)
+slangy n. óvandaður halli, brekka; sneið, skens
 slant l. skáhallur; s. láta hallast; koma skáhalt (í e-ð [on, against]); vera hallur; hallast
 slanting l. hallandi
 slantly ao. á ská, skáhalt
@@ -2596,7 +2596,7 @@ style n. orðfæri, ritháttur, stíll; snið (á listaverkum); venja; tíska; a
 stylish l. skrautlegur, sem er eftir tískunni
 stylet n. prjónn, alur; e.k. sárakanni
 styptic l. blóðstöðvandi; n. blóðstöðvandi lyf
-stylist n. ritsnillingur; stílisti
+stylist n. stílisti; ritsnillingur
 suasion n. fortölur
 suave l. blíður, þýður, mildur ([~ person, speech])
 suavity n. blíða, þýðleiki (í viðmóti)
@@ -3041,9 +3041,9 @@ swelter s. ætla að kafna í hita; gera máttlausan af hita
 swelting l. molluheitur ([under a ~ sky])
 swerve s. sveigja til hliðar; víkja (af réttum vegi)
 swift l. skjótur, fljótur ([be ~ to hear, slow to speak]); stríður, straumharður; [~ to anger] bráðlyndur; n. múrsvala; naðra
-swift-footed l. frár á fæti
+swift-footed l. frár á fæti, fótafrár
 swift-going l. hraðskreiður
-swiftness n. hraði, flýtir
+swiftness n. hraði, flýtir, skjótleiki
 swig s. teiga; n. teigur
 swill s. hella vatni yfir; svelgja í sig; n. stórir teigar; ofdrykkja; svínaskvol
 swiller n. drykkjurútur

@@ -156,8 +156,8 @@ lapidary n. steinskeri, steinslípari; gimsteinasali; l. höggvinn í stein ([~ 
 lapidification n. steingerving
 lapidify s. gera að steini, breyta í stein
 lapis n. steinn; [~ lazuli] lasúrsteinn
-Laplander n. Lappi
-Lapp n. Lappi
+Laplander n. Lappi, Sami
+Lapp n. Lappi, Sami
 lappet n. flipi, sepi; (eyrna)snepill; blaðka (á lunga, lifur); spaði; laf (á frakka); skráarlauf
 Lappish l. lappískur, samískur; samíska
 Lapponian l. lappneskur; n. Lappi
@@ -184,7 +184,7 @@ largess n. stórgjafir, örlæti ([your proposed ~ to the church])
 largesse n. stórgjafir, örlæti ([your proposed ~ to the church])
 lark n. lævirki; glettur; s. veiða lævirkja; glettast; þeysa
 larum n. herblástur; viðvörunaróp; hávaði, uppþot
-larva n. yrmlingur, lirfa
+larva n. lirfa, yrmlingur
 laryngitis n. barkakýlisbólga, barkahimnubólga
 larynx n. barkakýli, barkahöfuð
 lascivious l. lostafullur, lostagjarn
@@ -239,7 +239,7 @@ laud s. lofa, hrósa; n. lof, lofsöngur
 laudable l. lofsverður, hrósverður, sem verðskuldar lof eða hrós, lofsamlegur
 laudation n. lof, hrós
 laudatory l. lofandi; lofsamlegur
-laudanum n. svefnlyf, ópíumseyði
+laudanum n. ópíumseyði, ópíumdropar, svefnlyf
 laugh s. hlæja; [~ at] hlæja (brosa) að; spotta, gera gys að; n. hlátur; [have the ~ on one's side] hafa hláturinn með sér; [on the ~] hlæjandi; [he who ~s last, laughs best] sá hlær best sem síðast hlær
 laughable l. hlægilegur
 laughingly ao. hlæjandi
@@ -486,7 +486,7 @@ librarianship n. bókavarðarembætti
 library n. bókasafn
 librate s. vera í jafnvægi; rugga, ramba
 libration n. jafnvægi; rugg
-libretto n. óperutexti
+libretto n. óperutexti, líbrettó
 licence n. leyfi, notkunarleyfi; leyfisbréf, leyfisskírteini; sjálfræði, stjórnleysi; s. leyfa, veita leyfi til (e-s); heimila
 licensee n. leyfishafi
 licenser n. leyfisgjafi
@@ -600,7 +600,7 @@ linen drapery n. léreftaverslun
 linen press n. línfataskápur
 liner n. línuskip; stórt farþegaskip ([Atlantic ~])
 ling n. langa (fiskur); lyng
-linger s. dvelja, bíða: draga fram lífið, tóra; vera seinn á sér, drolla, þrá ([after]); [~ out] draga á langinn
+linger s. dvelja, bíða; draga fram lífið, tóra; vera seinn á sér, drolla, þrá ([after]); [~ out] draga á langinn
 lingering l. seinn; seinvirkur ([~ poison]); langvinnur ([~ illness, disease])
 lingeringly ao. seint, hægt og hægt
 lingo n. (útlent) mál; hrognamál; slangur
@@ -797,7 +797,7 @@ longitude n. hnattlengd
 longitudinal l. lengdar- ([~ stripes])
 loo n. salerni (óforml.); lú (spil); s. gera slemm
 looby n. klunni ([her ~ of a son])
-look s. sjá, líta, horfa; snúa, vita; líta út; sýna (með svip eða augnaráði); [~ one's age] vera ekki unglegri en maður er; [~ daggers on] hvessa augun á: [~ about one] lítast um; gá að sér; [~ after] gæta að; [~ at] horfa á; [~ for] leita að; búast við; [~ one in the face (in the eyes)] horfa framan í e-n, í augun á e-m; [~ into] snúa (vita) út að; skoða, rannsaka; [~ on (upon)] horfa á; skoða; [to be well ~ed upon] vera vel metinn; [~ out] líta út; gá að sér; [~ out for] lítast um eftir e-u; [~ out something] leita e-ð uppi; [~ over] yfirfara, skoða; sjá í gegnum fingur með; [~ to] gá að; gera sér von um, vænta sér e-s; [~ like] líkjast, líta út fyrir; [~ sharp] gá að sér, hafa augun með sér; n. augnaráð, augnatillit; svipur, yfirbragð; útlit
+look s. sjá, líta, horfa; snúa, vita; líta út; sýna (með svip eða augnaráði); [~ one's age] vera ekki unglegri en maður er; [~ daggers on] hvessa augun á; [~ about one] lítast um; gá að sér; [~ after] gæta að; [~ at] horfa á; [~ for] leita að; búast við; [~ one in the face (in the eyes)] horfa framan í e-n, í augun á e-m; [~ into] snúa (vita) út að; skoða, rannsaka; [~ on (upon)] horfa á; skoða; [to be well ~ed upon] vera vel metinn; [~ out] líta út; gá að sér; [~ out for] lítast um eftir e-u; [~ out something] leita e-ð uppi; [~ over] yfirfara, skoða; sjá í gegnum fingur með; [~ to] gá að; gera sér von um, vænta sér e-s; [~ like] líkjast, líta út fyrir; [~ sharp] gá að sér, hafa augun með sér; n. augnaráð, augnatillit; svipur, yfirbragð; útlit
 looker-on n. áhorfandi
 looking-glass n. spegill
 lookout n. vörður; útsjón; útlit; varðberg; [to be on the ~] vera á varðbergi; vera að horfa eftir e-u ([for])
@@ -828,7 +828,7 @@ lordling n. smáhöfðingi
 lordly l. höfðinglegur, tiginn; herralegur, drembilegur
 lordship n. lávarðstign; yfirráð; landeign, góss; [your ~] yðar tign (í ávarpi til háaðalsins á Englandi - þó eru hertogar og erkibiskupar titlaðir [your Grace], þ.e. náðugi herra)
 lore n. fræði, vísindi
-loricated l. brynjaður
+loricated l. brynjaður, brynvarinn
 lorn l. einmanalegur ([left alone and ~]); sviptur (e-u [of])
 lorry n. flutningabíll; langur fjórhjólaður vöruflutningavagn; lítill kolavagn í námum
 lose s. missa, týna, tapa, glata; fara á mis við, verða af; seinka sér (um klukku); [~ flesh] megrast; [~ ground] missa hylli eða álit; [~ (one's) patience, ~ one's head] verða óþolinmóður; [will ~ you your place] mun kosta þig stöðuna; [~ one's temper] reiðast; [~ one's way] villast; [~ sight of] missa sjónar á; [he is lost] það er úti um hann; [be lost] týnast, farast (um skip og menn); glatast (um sálina); [lost in thought] sokkinn niður í hugsanir; [lost to shame] blygðunarlaus

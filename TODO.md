@@ -1,6 +1,5 @@
 # TODO list for ensk.is
 
-* [ ] Finish deduplicating the entire corpus
 * [ ] Resolve multiple word categories
 * [ ] Fuzzy suggestions, matches ("Did you mean X, Y or Z?")
 * [ ] Use parallel corpora for finding parallel example usage in text

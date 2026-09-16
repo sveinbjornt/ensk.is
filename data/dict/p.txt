@@ -119,7 +119,7 @@ palter s. hafa undanbrögð eða vífilengjur; fara léttúðlega (með e-ð [wi
 paltriness n. aumingjaháttur; auðvirðileiki
 paltry l. auðvirðilegur, lítilmótlegur, lítilfjörlegur, of lítill eða magur (skammtur)
 paludal l. mýrar- ([~ fever])
-pamper s. kappala, offóðra; hafa of mikið eftirlæti á
+pamper s. dekra við; hafa of mikið eftirlæti á; kappala, offóðra
 pamphlet n. bæklingur; flugrit
 pamphleteer n. bæklingahöfundur, flugritahöfundur
 pan n. steikarpanna; heilakúpa ([brain-~]); hnéskel ([knee-~]); skóflublað ([~ of a shovel])
@@ -128,7 +128,7 @@ panacea n. kynjalyf; allra meina bót
 panache n. (hjálm)-skúfur
 panada n. brauðsúpa
 panade n. brauðsúpa
-pandemic n. farsótt, sjúkdómsfaraldur, faraldur; l. sem gengur yfir allt landið (um sóttir)
+pandemic n. farsótt, sjúkdómsfaraldur, faraldur, heimsfaraldur; l. sem gengur yfir allt landið (um sóttir)
 pander s. koma (e-m) saman til lauslætis; stuðla að, þjóna (e-u illu); n. saurlífismangari
 pane n. gluggarúða, glerrúða; flötur, hlið; reitur
 panegyric n. lofræða
@@ -298,7 +298,7 @@ pass n. fara (ganga, ríða, aka) fram hjá (yfir, í gegnum eða áfram [over, 
 passbook n. viðskiptabók, bankabók
 passkey n. aðallykill
 passman n. kandidat, sem hefur staðist próf án [honours]
-password n. lykilorð, leyniorð
+password n. lykilorð, leyniorð, aðgangsorð
 passable l. fær yfirferðar; viðunandi, bærilegur
 passably ao. viðunanlega, bærilega
 passage n. yfirferð; umferð; sjóferð; far ([free ~ home]); vegur; sund (milli húsa); göng (í húsi); atriði, atvik; grein, staður (í bók); samþykkt ([~ of a bill)]; [bird of ~] farfugl; [~ of/at arms] vopnaviðskipti; hörð orðadeila; s. ferðast (á skipi); eiga orðadeilu, rífast
@@ -1121,7 +1121,7 @@ plaintive l. raunalegur, sorglegur
 plait n. hárflétta; felling; s. flétta; fella
 plan n. áætlun, áform, ráð, ráðagerði; flataruppdráttur; s. áforma, leggja á ráð um; draga upp, gera uppdrátt að e-u; haga (e-u) til
 planchet n. málmplata (til peningasláttu)
-plane n. flötur; slétta; hefill; hlynur; flugvél; l. flatur, jafn; s. slétta; hefla
+plane n. flötur; slétta; hefill; hlynur; flugvél ([aeroplane]); l. flatur, jafn; s. slétta; hefla
 plane tree n. hlynur
 planet n. reikistjarna; pláneta
 planetarium n. sólkerfismynd
@@ -1554,7 +1554,7 @@ posthumously ao. eftir dauðann, eftir dauða höfundarins
 postil n. skýringargrein við texta; postilla
 postilion n. forreiðarmaður
 postillion n. forreiðarmaður
-post meridiem ao. (skammstafað [P.M.]) síðdegis, eftir hádegi ([3:20 P.M.])
+post meridiem ao. eftir hádegi, síðdegis (skammstafað [P.M.] eða [p.m.])
 postmortem ao. eftir dauðann; [~ examination] líkskoðun, líkkrufning
 postpone s. fresta; láta sitja á hakanum
 postponement n. frestun
@@ -2053,7 +2053,7 @@ professorial l. kennara-, prófessora-; [the ~ chair] háskólakennaraembætti
 professorship n. kennaraembætti (við háskóla eða æðri skóla)
 proffer s. bjóða fram ([~ services]); rétta fram; n. boð, tilboð
 proficiency n. framför; leikni; kunnátta
-proficient l. vel að sér, leikinn (í vopnaburði: [~ with weapons, in the use of weapons]); n. snillingur (í e-i list eða kunnáttu [in/at an art])
+proficient l. vel að sér, leikinn, fær; n. snillingur (í e-i list eða kunnáttu [in/at an art])
 proficiently ao. kunnáttulega
 profile n. hliðarmynd (af andliti); [in ~] frá hliðinni ([draw a person in ~]); s. draga upp (mála) hliðarmynd af e-u
 profit n. gróði, ábati, ágóði; gagn; [I have studied it to my ~] mér til gagns; s. gagna (e-m); ábatast, græða (á [by, from, of]); hafa gagn af e-u ([by])

@@ -27,6 +27,7 @@
   <link rel="icon" type="image/png" sizes="96x96" href="/static/img/favicon-96x96.png">
   <link rel="apple-touch-icon" sizes="180x180" href="/static/img/apple-touch-icon.png">
   <link rel="image_src" href="https://ensk.is/static/img/og3.png">
+  <link rel="mcp" href="https://ensk.is/mcp">
 
   <meta property="og:site_name" content="Ensk.is">
   <meta property="og:title" content="{{ title }}">
@@ -50,7 +51,7 @@
 
 <body>
   <!--googleoff: index-->
-  <nav>
+  <nav role="navigation">
     <ul class="menu">
       <li>
         <a href="/" title="Leit">
@@ -106,7 +107,7 @@
   <div class="grid-container">
     <div class="grid-x grid-padding-x" style="margin-top: 60px;">
       <div class="large-3 medium-2 small-1 cell"></div>
-      <div class="large-6 medium-8 small-10 cell">
+      <div class="large-6 medium-8 small-10 cell" role="main">
         {% block content -%}
         {%- endblock %}
       </div>

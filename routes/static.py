@@ -1,6 +1,6 @@
 """
 Ensk.is
-Static resource routes
+Static file routes in root
 """
 
 from fastapi import APIRouter, Request
