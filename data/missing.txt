@@ -518,7 +518,6 @@ fizzy
 curbside
 wipeout
 manipulative
-fictive
 overdrive
 interdependent
 downside
@@ -888,7 +887,6 @@ conformism
 noninterventionist
 everyman
 trick (endurskoða, vis-a-vis vændi)
-tricky
 high-mindedness
 high-minded (endurskoða)
 psychologism
@@ -1419,7 +1417,6 @@ empressement
 die-hard
 benedictine
 blurb
-involuntarily
 passionately
 defiantly
 starkness
@@ -1428,7 +1425,6 @@ anymore
 pepsin
 self-reproach
 harsh (endurskoða)
-curiously
 peashooter
 kitbag
 peardrop
@@ -1465,7 +1461,6 @@ soufflé
 overpaid
 underpaid
 disaggregation
-physicality
 panoptic
 spin-off
 acerbic
@@ -1482,18 +1477,17 @@ conditioner
 convector
 caseworker
 excursus
+inherent (endurskoða)
 inherently
 sushi
 washer
 layoff
-pusher
 speed-up
 fryer
-ska
 litigatious
 spate
-conservativism
 piggyback
+intuitive (endurskoða)
 intuitively
 strongman
 second-guess
@@ -1509,7 +1503,6 @@ translocalize
 translocalization
 prelocalization
 flak
-abjectly
 self-important
 catwalk
 broadcaster
@@ -1517,13 +1510,10 @@ accrual
 editorialist
 feverishly
 pisspot
-bonhomie
 sleight-of-hand
-breeder
 hereinafter
 thereinafter
 nighttime
-pinprick
 knobbly
 tyke
 tike
@@ -1533,11 +1523,7 @@ befuddle
 sniffy
 creepy
 break-in
-about-face
-snitch
-snitching
 headfirst
-loopy
 halfheartedly
 chipolata
 crumpet
@@ -1553,7 +1539,6 @@ revanchism
 revanchist
 revanche
 runtime
-photoshop
 personalized
 cleaner
 firelance
@@ -1562,7 +1547,6 @@ brassard
 dugout
 grimly
 dixie
-bandmaster
 carousal
 sallowness
 woodwork
@@ -1572,13 +1556,11 @@ bandsman
 bantam
 revetment
 batman
-periscopic
 periscopical
 singsong
 groundsheet
 scrum
 seminarist
-vandalize
 positional
 fleshpot
 ragtag
@@ -1639,10 +1621,8 @@ mildew (endurskilgreina)
 skeuomorph
 skeuomorphism
 schmooze
-digraph
 vascularity
 adulterate (endurskilgreina)
-miosis
 semiosis
 crenelled
 crenellate
@@ -2995,7 +2975,6 @@ throttled
 indignantly
 unthought
 compter
-intuitive (endurskoða)
 seance
 keelboat
 smasher
@@ -5760,7 +5739,6 @@ rashly
 tittivate
 skidder
 autocue
-molder
 suer
 perfervid
 fuckhead
@@ -6759,5 +6737,28 @@ squirming
 orienteer
 orienteering
 underregulate
-tunicate
 chordate
+rubberize
+varietal
+varietally
+stative
+junketeer
+glom
+expeditiousness
+high-priced
+pesthouse
+pekan
+razz
+razzing
+birdie
+reserves
+nativeness
+actinotherapy
+analgetic
+anodyne (endurskoða)
+waterscape
+incorporality
+incorporeality
+salmagundi
+volte-face
+off-chance

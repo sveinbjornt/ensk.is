@@ -12146,7 +12146,7 @@ lethality n. banvæni, það að vera banvænn; dauðatíðni
 inevitability n. óhjákvæmileiki, óumflýjanleiki
 obsessed l. haldinn þráhyggju, heltekinn, gagntekinn, með e-ð á heilanum
 cliche n. sjá %[cliché]%
-subroutine n. undirforrit, stefja
+subroutine n. undirforrit, stefja (í forritun)
 articulacy n. skýrmæli
 ecclesiarchy n. kirkjuveldi (stjórnarfyrirkomulag þar sem kirkjan fer með ríkisvald)
 ecclesiarch n. yfirklerkur, preláti, æðsti prestur
@@ -12530,4 +12530,57 @@ forecaster n. spámaður, sá sem spáir fyrir um (sjá %[forecast]%)
 buildup n. uppbygging
 nonpartisan l. óhlutdrægur; óflokksbundinn
 explainability n. útskýranleiki
-tunicate s. þekja með himnu
+tunicate s. þekja með himnu; n. möttuldýr
+miosis n. samdráttur ljósops (í auganu)
+digraph n. örvanet
+vandalize s. skemma, eyðileggja
+vandalise s. sjá %[vandalize]%
+periscopic l. sjónpípu-
+bandmaster n. hljómsveitarstjóri
+photoshop s. breyta stafrænni mynd með myndvinnsluforriti
+loopy l. lykkju-; ringlaður, ruglaður í ríminu
+snitch s. uppljóstra, ljóstra upp um, kjafta; n. uppljóstrari, kjaftaskur, kjaftaskúmur
+snitching n. uppljóstrun, frásögn úr innsta hring
+about-face n. umsnúningur, kúvending, stefnubreyting
+pinprick n. nálarstunga
+breeder n. ræktunarmaður, ræktari; dýr til undaneldis, dýr til kynbóta
+bonhomie n. góður andi, góðlyndi (úr frönsku)
+abjectly ao. auðvirðilega, fyrirlitlega
+conservativism n. sjá %[conservatism]%
+ska n. ska-tónlist (danstónlist sem á rætur sínar að rekja til eyjunnar Jamaíku)
+pusher n. e-r sem ýtir (sjá %[push]%); dópsali, fíkniefnasali, eiturlyfjasali (óforml.)
+physicality n. líkamleiki; líkamsbyggð, líkamleg viðvera
+curiously ao. skringilega, kynlega; merkilega
+involuntarily ao. gegn vilja sínum; ósjálfrátt
+molder s. sjá %[moulder]%
+primitivism n. frumstæðar aðferðir; frumstætt ástand; frumhyggja
+uniformness n. sjá %[uniformity]%
+immunise s. sjá %[immunize]%
+naturalise s. sjá %[naturalize]%
+equaliser n. sjá %[equalizer]%
+pricy l. sjá %[pricey]%
+clocksmith n. klukkusmiður
+plagiarization n. sjá %[plagiarism]%
+clangour n. sjá %[clangor]%
+sayonara uh. bless! (úr japönsku)
+algebraical l. sjá %[algebraic]%
+generalisation n. sjá %[generalization]%
+high quality l. hágæða-
+mind-set n. sjá %[mindset]%
+birdwatch s. skoða fugla, fylgjast með fuglum
+crystallise s. sjá %[crystallize]%
+diverseness n. sjá %[diversity]%
+monogynist n. sjá %[monogamist]%
+twoscore l. fjörutíu
+corporeality n. sjá %[corporality]%
+physicalness n. sjá %[physicality]%
+censoring n. ritskoðun
+beechwood n. beykitré, beykitimbur
+intemperateness n. sjá %[intemperance]%
+tricky l. vandasamur, snúinn; brögðóttur, slunginn, slægur
+kyphosis n. herðakistill
+subprogram n. undirforrit (í tölvunarfræði)
+fictive l. sjá %[fictitious]%
+miscellanea nft. sjá %[miscellany]%
+humanicide n. tortíming mannkyns
+no-one fn. enginn, ekki nokkur maður
