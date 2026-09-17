@@ -16,7 +16,6 @@ from fastapi.responses import RedirectResponse, Response
 from dict import CAT_TO_NAME, unpack_definition
 from settings import PROJECT
 from util import (
-    cache_response,
     icelandic_human_size,
     perc,
     sing_or_plur,
@@ -26,13 +25,15 @@ from .core import (
     CAT2ENTRIES,
     DEFAULT_SEARCH_LIMIT,
     KNOWN_MISSING_WORDS,
-    SEARCH_CACHE_SIZE,
-    SMALL_CACHE_SIZE,
+    SEARCH_CACHE_BYTES,
+    SMALL_CACHE_BYTES,
     TemplateResponse,
     additional_entries,
     all_words,
     all_words_set,
+    cache_response,
     cached_results,
+    clamp_search_limit,
     capitalized_entries,
     duplicate_entries,
     format_item_html,
@@ -93,7 +94,7 @@ async def _save_missing_word(word: str) -> None:
 
 
 @router.get("/search", include_in_schema=False)  # pyright: ignore[reportArgumentType]
-@cache_response(SEARCH_CACHE_SIZE)
+@cache_response(SEARCH_CACHE_BYTES)
 async def search(
     request: Request, q: str | None = "", limit: int | None = DEFAULT_SEARCH_LIMIT
 ) -> Response:
@@ -101,10 +102,11 @@ async def search(
 
     q = q.strip() if q else ""
     q = q[:100]  # Limit query length to 100 characters
+    lim = clamp_search_limit(limit)
 
     title = PROJECT.NAME
     if q:
-        results, exact, has_more = cached_results(q, exact_match=False, limit=limit)
+        results, exact, has_more = cached_results(q, exact_match=False, limit=lim)
 
         # If a search word might be missing, log it to a file but
         # only if it is a single word and not a known missing word
@@ -127,7 +129,7 @@ async def search(
             "q": q,
             "results": [format_item_html(r) for r in results],
             "exact": exact,
-            "limit": limit,
+            "limit": lim,
             "has_more": has_more,
         },
     )
@@ -135,7 +137,7 @@ async def search(
 
 @router.get("/item/{w}", include_in_schema=False)  # pyright: ignore[reportArgumentType]
 @router.head("/item/{w}", include_in_schema=False)  # pyright: ignore[reportArgumentType]
-@cache_response(SEARCH_CACHE_SIZE)
+@cache_response(SEARCH_CACHE_BYTES)
 async def item(request: Request, w: str) -> Response:
     """Return page for a single dictionary word definition."""
 
@@ -190,7 +192,7 @@ NUM_ORIGINAL_PAGES = 707
 
 @router.get("/page/{n}", include_in_schema=False)  # pyright: ignore[reportArgumentType]
 @router.head("/page/{n}", include_in_schema=False)  # pyright: ignore[reportArgumentType]
-@cache_response(SMALL_CACHE_SIZE)
+@cache_response(SMALL_CACHE_BYTES)
 async def page(request: Request, n: str) -> Response:
     """Return page for a single dictionary page image."""
     try:
@@ -350,7 +352,7 @@ async def all_entries(request: Request) -> Response:
 
 @router.get("/cat/{category}", include_in_schema=False)  # pyright: ignore[reportArgumentType]
 @router.head("/cat/{category}", include_in_schema=False)  # pyright: ignore[reportArgumentType]
-@cache_response(SMALL_CACHE_SIZE)
+@cache_response(SMALL_CACHE_BYTES)
 async def cat(request: Request, category: str) -> Response:
     """Page with links to all entries in the given category."""
     entries = CAT2ENTRIES.get(category, [])

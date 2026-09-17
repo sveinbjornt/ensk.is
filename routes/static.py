@@ -6,8 +6,13 @@ Static file routes in root
 from fastapi import APIRouter, Request
 from fastapi.responses import FileResponse, RedirectResponse
 
-
 router = APIRouter()
+
+# These responses are not cached with @cache_response. Constructing them is
+# cheap (FileResponse reads from disk on every send regardless), and a cached
+# FileResponse is actively wrong: Starlette sets Content-Length/Last-Modified/
+# ETag with setdefault on first send, so a reused instance would keep serving
+# the first request's headers after the file changed on disk.
 
 
 @router.get("/apple-touch-icon.png", include_in_schema=False)

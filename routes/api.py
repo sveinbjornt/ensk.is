@@ -9,15 +9,15 @@ from fastapi import APIRouter, Request
 
 from dict import CAT_TO_NAME, unpack_definition
 from util import (
-    cache_response,
     read_json,
     strip_parentheses_from_string,
 )
 
 from .core import (
-    SEARCH_CACHE_SIZE,
-    SMALL_CACHE_SIZE,
+    SEARCH_CACHE_BYTES,
+    SMALL_CACHE_BYTES,
     JSONResponse,
+    cache_response,
     cached_results,
     err_resp,
     metadata,
@@ -39,7 +39,7 @@ MAX_SUGGESTION_LIMIT = 100
 
 
 @router.get("/suggest/{q}", operation_id="get_suggestions")  # pyright: ignore[reportArgumentType]
-@cache_response(SEARCH_CACHE_SIZE)
+@cache_response(SEARCH_CACHE_BYTES)
 async def api_suggest(
     request: Request, q: str, limit: int = DEFAULT_SUGGESTION_LIMIT
 ) -> JSONResponse:
@@ -56,7 +56,7 @@ SEARCH_QUERY_MAX_LENGTH = 100
 
 
 @router.get("/search/{q}", operation_id="search_for_word")  # pyright: ignore[reportArgumentType]
-@cache_response(SEARCH_CACHE_SIZE)
+@cache_response(SEARCH_CACHE_BYTES)
 async def api_search(request: Request, q: str) -> JSONResponse:
     """Return search results in JSON format from the English-Icelandic dictionary."""
     if q.strip() == "":
@@ -67,7 +67,7 @@ async def api_search(request: Request, q: str) -> JSONResponse:
 
 
 @router.get("/item/{w}", operation_id="lookup_word")  # pyright: ignore[reportArgumentType]
-@cache_response(SEARCH_CACHE_SIZE)
+@cache_response(SEARCH_CACHE_BYTES)
 async def api_item(request: Request, w: str) -> JSONResponse:
     """Return single English-Icelandic dictionary entry in JSON format."""
     ws = w.strip()
@@ -80,7 +80,7 @@ async def api_item(request: Request, w: str) -> JSONResponse:
 
 
 @router.get("/item/parsed/{w}", operation_id="lookup_single_word_parsed")  # pyright: ignore[reportArgumentType]
-@cache_response(SEARCH_CACHE_SIZE)
+@cache_response(SEARCH_CACHE_BYTES)
 async def api_item_parsed(
     request: Request,
     w: str,
@@ -105,17 +105,38 @@ async def api_item_parsed(
     return JSONResponse(content=result)
 
 
+MAX_BATCH_TERMS = 250
+MAX_BATCH_QUERY_LENGTH = 8192  # characters
+
+
+# Deliberately not decorated with @cache_response, for two reasons: the cache
+# key would be the entire comma-separated term list, so a hit needs a
+# byte-identical repeat query, and the per-word lookups it performs are already
+# memoized by cached_results(). Being uncached also lets this be a sync def,
+# which FastAPI runs in a threadpool -- so a large batch occupies one worker
+# thread instead of blocking the event loop for every other request.
 @router.get("/item/parsed/many/", operation_id="lookup_many_words_parsed")  # pyright: ignore[reportArgumentType]
-@cache_response(SMALL_CACHE_SIZE)
-async def api_item_parsed_many(
+def api_item_parsed_many(
     request: Request, q: str, strip_parentheses: int = 0
 ) -> JSONResponse:
     """Return multiple English-Icelandic dictionary entries in JSON format with
-    parsed definitions. The q parameter should be a list of comma-separated terms.
+    parsed definitions. The q parameter should be a list of comma-separated terms,
+    at most MAX_BATCH_TERMS of them.
     Optionally, strip all text within parentheses."""
+    if len(q) > MAX_BATCH_QUERY_LENGTH:
+        return err_resp(
+            f"Query too long, max {MAX_BATCH_QUERY_LENGTH} characters",
+            status_code=400,
+        )
+
     q = q.strip()
 
     words = [w.strip() for w in q.split(",")]
+    if len(words) > MAX_BATCH_TERMS:
+        return err_resp(
+            f"Too many terms, max {MAX_BATCH_TERMS} (got {len(words)})",
+            status_code=400,
+        )
 
     def _process_item(s: str) -> str:
         if strip_parentheses:
@@ -143,7 +164,7 @@ GROUNDING_DATA = None
 @router.get(
     "/grounding/{page_num}", operation_id="get_page_grounding", include_in_schema=False
 )  # pyright: ignore[reportArgumentType]
-@cache_response(SMALL_CACHE_SIZE)
+@cache_response(SMALL_CACHE_BYTES)
 async def api_grounding(request: Request, page_num: int) -> JSONResponse:
     """Return grounding data (bounding boxes) for a specific page."""
     global GROUNDING_DATA
