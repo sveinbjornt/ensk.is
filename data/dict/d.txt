@@ -175,7 +175,7 @@ debatable l. umdeilanlegur, sem deila má um; vafasamur
 debate n. kappræða; umræða (á þingi); s. ræða (einnig með [on, upon]); íhuga með sjálfum sér ([~ with oneself]); [debating society] málfundafélag
 debater n. umræðandi; kappræðumaður
 debauch s. spilla ([~ morals]); svalla, slarka; n. svall, slark, ólifnaður
-debauched l. siðspilltur; svallsamur
+debauched l. siðspilltur; svallsamur; lifandi í ólifnaði
 debauchee n. slarkari; ólifnaðarmaður
 debauchery n. svall, ólifnaður
 debenture n. tolluppbótarskírteini; skuldarskírteini, skuldabréf
@@ -183,17 +183,17 @@ debilitate s. veikja, veikla
 debilitation n. veiking, veiklun
 debility n. veiklun, þróttleysi; þrekleysi
 debit n. skuldasíða (í verslunarbók); skuld; s. færa e-m til skuldar ([~ one or one's account with/for an amount])
-debonair l. vingjarnlegur
+debonair l. vingjarnlegur, glaðlyndur
 debouch s. ganga (falla) út (úr þröngum stað)
 debris n. molar, lausagrjót, steinabrot, rusl
-debt n. skuld; [be in ~] vera skuldugur; [run into ~] komast í skuldir; [pay the ~ of/to nature] deyja
+debt n. skuld; [be in ~] vera skuldugur; [run into ~] komast í skuldir; [pay the ~ of nature] deyja
 debtless l. skuldlaus
 debtor n. skuldari
 debut n. fyrsta framkoma (á leiksviði); fyrsta tilraun
-decade n. tugur
+decade n. áratugur, tugur
 decadence n. afturför, hnignun, úrkynjun
 decadent l. hnignandi, sem er í hnignun, úrkynjaður
-decalitre n. 10 lítrar
+decalitre n. tíu lítrar
 decalogue n. tíulaga boðorð
 decamp s. taka upp herbúðir og fara af stað; halda snögglega burt, strjúka
 decampment n. burtför
