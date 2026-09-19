@@ -6173,7 +6173,7 @@ klutz n. klaufi (BNA)
 toned l. skorinn (um ásýnd líkama, þar sem sést móta fyrir vöðvum)
 budding l. blómstrandi, á uppleið (frami einhvers)
 asexual l. ókynhneigður, með skertan kynferðislegan áhuga
-smithereens nft. öreindir, tætlur; [blow to ~] að sprengja í tætlur
+smithereens nft. öreindir, tætlur; [blow to ~] sprengja í tætlur
 layover n. millilending (þegar ferðast er með flugvél)
 kingpin n. glæpakóngur, glæpaforingi, mafíuforingi
 doomed l. dæmdur, dauðadæmdur, steyptur í glötun; vonlaus
@@ -12608,5 +12608,23 @@ trepanning n. sögun hauskúpu
 trepang n. e.k. sæbjúga
 sea cucumber n. sæbjúga
 fictious l. sjá %[fictitious]%
-Lavinia n. eiginkona Eneasar í fornrómverskri goðafræði
-
+Lavinia n. Lavinía (eiginkona Eneasar í fornrómverskri goðafræði)
+cat-o'-nine-tails n. hnútasvipa
+countrywide ao. á landsvísu, um allt land
+notoriously ao. eins og alkunnt er; á alræmdan máta
+generational l. kynslóða-
+shanghai s. taka nauðugan í sjómennsku; ræna e-m (og flytja um borð í skip)
+throwback n. afturhvarf, hvarf aftur á bak; afturkast, afturslag
+endurant l. þolmikill, þrekmikill
+ellipticity n. sporöskjulögun, sporgerð, hringvik
+genuinely ao. í raun og veru, raunverulega
+Confucius n. Konfúsíus (áhrifamikill kínverskur spekingur til forna)
+formulation n. orðun, (formleg) framsetning; læknislyf, læknisblanda (forn.)
+foundational l. stofnunar-; grundvallar-, undirstöðu-
+snowplow n. sjá %[snowplough]%
+snowplough n. snjóplógur, snjómoksturstæki
+bimonthly ao. tvisvar í mánuði; á tveggja mánaða fresti
+semimonthly ao. tvisvar í mánuði
+bimestrial ao. á tveggja mánaða fresti
+breadline n. biðröð við úthlutun matar (til fátæklinga)
+nevermore ao. aldrei framar, aldrei aftur
