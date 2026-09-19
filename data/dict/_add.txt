@@ -2452,7 +2452,7 @@ webmaster n. vefstjóri, vefumsjónarmaður, umsjónarmaður vefsíðu
 webpage n. vefsíða, síða á veraldarvefnum
 lockable l. læsanlegur (sjá %[lock]%)
 argumentative l. þrætugjarn, deilugjarn
-gunrunner n. skotvopnasmyglari
+gunrunner n. vopnasmyglari
 palindrome n. samhverfa (orð sem er hægt er að lesa bæði aftur á bak og áfram)
 osteoporosis n. beinþynning
 quaintness n. einkennileiki, skringileiki, forntískuleiki
@@ -12584,3 +12584,29 @@ fictive l. sjá %[fictitious]%
 miscellanea nft. sjá %[miscellany]%
 humanicide n. tortíming mannkyns
 no-one fn. enginn, ekki nokkur maður
+gunrunning n. vopnasmygl
+kvetch n. nöldrari, kvartari (úr jiddísku)
+Interpol n. Alþjóðalögreglan (alþjóðastofnun)
+volte-face n. viðsnúningur, umsnúningur, stefnubreyting (úr frönsku)
+off chance n. ólíklegur möguleiki, ólíkleg útkoma
+off-chance n. sjá %[off chance]%
+pesthouse n. sóttvarnahús
+deforest s. eyða skógi, fella skóg
+understood l. skilinn (sjá %[understand]%)
+unclearness n. óskýrleiki; ógagnsæi
+unpatterned l. ómynstraður
+unornamented l. óskreyttur; óprýddur
+pep s. hressa, fjörga, lífga, stappa stálinu í, peppa (óforml.); n. hressleiki, fjör, fútt (óforml.)
+peppy l. hress, fjörugur, líflegur (óforml.)
+peppiness n. hressleiki, fjör, líflegheit, kátína, fútt (óforml.)
+full-bodied l. sterkur, bragðmikill (um mat)
+haptics nft. snertiskynsfræði
+peckerwood n. sveitavargar, durtur (í Suðurríkjum BNA, niðrandi)
+phoniness n. gervimennska, tilgerð; sá eiginleiki að vera falskur eða óekta
+line break n. línuskil (í texta)
+trepanning n. sögun hauskúpu
+trepang n. e.k. sæbjúga
+sea cucumber n. sæbjúga
+fictious l. sjá %[fictitious]%
+Lavinia n. eiginkona Eneasar í fornrómverskri goðafræði
+
