@@ -10428,9 +10428,9 @@ hidalgo n. spænskur aðalsmaður
 distorted l. skekktur, skældur, afskræmdur, afbakaður
 casus belli n. atburður sem telst réttlæta stríð (úr latínu)
 glycogen n. dýrasterkja, glýkógen (fjölsykra)
-Burgundy n. Búrgundahérað í Frakklandi; vín frá Búrgundahéraði í Frakklandi
-Burgundian l. frá Búrgundahéraði í Frakklandi
-burgundy l. vínrauður; n. vínrauður litur
+Burgundy n. Búrgundahérað í Frakklandi; búrgundarvín (vín frá Búrgundahéraði í Frakklandi)
+Burgundian l. frá Búrgundahéraði í Frakklandi; n. Búrgundarmaður
+burgundy l. vínrauður; n. vínrauður litur; búrgundarvín
 fecklessness n. þrekleysi; gagnsleysi
 cyberbully n. nethrellir (manneskja sem ofsækir fólk í gegnum netið)
 unkindly ao. óvingjarnlega, ómannúðlega
@@ -12244,7 +12244,7 @@ dodo n. dúði (útdauður fugl)
 dill n. dill, dilja (kryddjurt)
 borderline l. jaðar-; vafa-, óvissu-
 bolero n. spænskur dans; mittisjakki
-wow uh. vá!
+wow uh. vá!; vel gert!
 nudeness n. sjá %[nudity]%
 boyishly ao. strákalega, drengslega
 smoothy n. sjá %[smoothie]%
@@ -12575,7 +12575,7 @@ twoscore l. fjörutíu
 corporeality n. sjá %[corporality]%
 physicalness n. sjá %[physicality]%
 censoring n. ritskoðun
-beechwood n. beykitré, beykitimbur
+beechwood n. beykitré; beykitimbur; l. úr beykitré; [~ forest ][beykitrjáaskógur
 intemperateness n. sjá %[intemperance]%
 tricky l. vandasamur, snúinn; brögðóttur, slunginn, slægur
 kyphosis n. herðakistill
@@ -12628,3 +12628,6 @@ semimonthly ao. tvisvar í mánuði
 bimestrial ao. á tveggja mánaða fresti
 breadline n. biðröð við úthlutun matar (til fátæklinga)
 nevermore ao. aldrei framar, aldrei aftur
+Scylla n. Skylla (ófreskja í forngrískum goðsögnum, m.a. Ódysseifskviðu)
+Charybdis n. Karybdis (sæskrímsli í forngrískum goðsögnum, m.a. Ódysseifskviðu)
+carny n. sjá %[carnival]% (óforml.)
