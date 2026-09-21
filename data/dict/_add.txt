@@ -12575,7 +12575,7 @@ twoscore l. fjörutíu
 corporeality n. sjá %[corporality]%
 physicalness n. sjá %[physicality]%
 censoring n. ritskoðun
-beechwood n. beykitré; beykitimbur; l. úr beykitré; [~ forest ][beykitrjáaskógur
+beechwood n. beykitré; beykitimbur; l. úr beykitré; [~ forest] beykitrjáaskógur
 intemperateness n. sjá %[intemperance]%
 tricky l. vandasamur, snúinn; brögðóttur, slunginn, slægur
 kyphosis n. herðakistill
@@ -12585,7 +12585,7 @@ miscellanea nft. sjá %[miscellany]%
 humanicide n. tortíming mannkyns
 no-one fn. enginn, ekki nokkur maður
 gunrunning n. vopnasmygl
-kvetch n. nöldrari, kvartari (úr jiddísku)
+kvetch n. nöldrari, kvartari (úr jiddísku); s. nöldra, kvarta
 Interpol n. Alþjóðalögreglan (alþjóðastofnun)
 volte-face n. viðsnúningur, umsnúningur, stefnubreyting (úr frönsku)
 off chance n. ólíklegur möguleiki, ólíkleg útkoma
@@ -12601,7 +12601,7 @@ peppy l. hress, fjörugur, líflegur (óforml.)
 peppiness n. hressleiki, fjör, líflegheit, kátína, fútt (óforml.)
 full-bodied l. sterkur, bragðmikill (um mat)
 haptics nft. snertiskynsfræði
-peckerwood n. sveitavargar, durtur (í Suðurríkjum BNA, niðrandi)
+peckerwood n. sveitavargur, durtur (í Suðurríkjum Bandaríkjanna, niðrandi)
 phoniness n. gervimennska, tilgerð; sá eiginleiki að vera falskur eða óekta
 line break n. línuskil (í texta)
 trepanning n. sögun hauskúpu
@@ -12631,3 +12631,6 @@ nevermore ao. aldrei framar, aldrei aftur
 Scylla n. Skylla (ófreskja í forngrískum goðsögnum, m.a. Ódysseifskviðu)
 Charybdis n. Karybdis (sæskrímsli í forngrískum goðsögnum, m.a. Ódysseifskviðu)
 carny n. sjá %[carnival]% (óforml.)
+Cllr n. stytt. á %[councillor]%
+Pommerania n. Pommern (hérað við suðurströnd Eystrasaltsins)
+smouldering l. rjúkandi; glæðandi; ólgandi, kraumandi ([his ~ resentment])
