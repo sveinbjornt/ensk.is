@@ -4,6 +4,7 @@ Core utilities and shared data for routes
 """
 
 import asyncio
+import hashlib
 import re
 from collections.abc import Awaitable, Callable
 from functools import lru_cache, wraps
@@ -102,18 +103,44 @@ SMALL_CACHE_BYTES = 4 * 1024 * 1024  # 4 MB
 _PER_REQUEST_TYPES = (Request, Response, BackgroundTasks)
 
 
+# Parameters longer than this are represented in the cache key by a digest
+# rather than verbatim. Endpoints key on their arguments *before* the handler
+# truncates them, so an abusive multi-kilobyte query would otherwise be
+# retained in full inside the key -- memory the value-based budget cannot see.
+MAX_KEY_ARG_LENGTH = 128
+
+
+def _key_arg(value: Any) -> Any:
+    """Bound the size of a single value used in a cache key.
+
+    Long strings are replaced by a tagged digest. Distinct inputs stay
+    distinct, and the tuple tag means a digest can never collide with a
+    caller-supplied string that happens to look like one.
+    """
+    if isinstance(value, str | bytes) and len(value) > MAX_KEY_ARG_LENGTH:
+        raw = value.encode("utf-8") if isinstance(value, str) else value
+        return ("sha256", hashlib.sha256(raw).hexdigest())
+    return value
+
+
 def _response_cache_key(args: tuple, kwargs: dict[str, Any]) -> tuple:
     """Build a cache key from an endpoint's own path/query parameters."""
     return hashkey(
-        *(a for a in args if not isinstance(a, _PER_REQUEST_TYPES)),
-        **{k: v for k, v in kwargs.items() if not isinstance(v, _PER_REQUEST_TYPES)},
+        *(_key_arg(a) for a in args if not isinstance(a, _PER_REQUEST_TYPES)),
+        **{
+            k: _key_arg(v)
+            for k, v in kwargs.items()
+            if not isinstance(v, _PER_REQUEST_TYPES)
+        },
     )
 
 
 # Charged per cache entry on top of its body, so that entries with an empty
-# body (redirects) still count against the budget, and to cover the context a
-# template response keeps alive alongside its rendered bytes.
-_ENTRY_OVERHEAD_BYTES = 512
+# body (redirects) still count against the budget, and to cover what the body
+# length does not capture: the key, the dict slot, and the context a template
+# response keeps alive. Measured at ~930-1045 bytes per entry, so this is set
+# to cover the worst case rather than under-report it.
+_ENTRY_OVERHEAD_BYTES = 1024
 
 
 def _response_size(value: Any) -> int:
@@ -187,6 +214,10 @@ def cache_response(
         async def wrapper(*args: Any, **kwargs: Any) -> Any:
             try:
                 key = _response_cache_key(args, kwargs)
+                # hashkey() builds the tuple lazily, so an unhashable
+                # parameter only raises when the key is actually hashed.
+                # Force that here, inside the guard.
+                hash(key)
             except TypeError:
                 # Unhashable parameter: serve uncached rather than fail
                 return await f(*args, **kwargs)
