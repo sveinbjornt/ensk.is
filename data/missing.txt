@@ -580,7 +580,6 @@ handout
 demotic
 self-incrimination
 reconviction
-premiership
 invulnerability
 Presbyterianism
 Presbyterian (endurskoða)
@@ -618,7 +617,6 @@ unproblematic
 winnable
 unsure
 déjà vu
-dispersal
 transgressive
 roughage
 penology
@@ -665,7 +663,6 @@ acromesomelic
 exotica
 competitiveness
 counterargument
-baseline
 sometime
 outlier
 evolutionism
@@ -683,9 +680,7 @@ territoriality
 consumerist
 liminality
 porosity
-theatrics
 peonage
-estuarine
 intertidal
 commonsensical
 urbanism
@@ -716,7 +711,6 @@ artisanship
 ceremonialism
 contender
 megalithic
-unforeseen
 demiurgic
 post-mortem
 interpersonal
@@ -790,7 +784,7 @@ livable
 retrofit
 proactive
 proactively
-revamp
+resilient (endurskoða)
 resilience
 gentrify
 gentrified
@@ -870,7 +864,6 @@ high-minded (endurskoða)
 psychologism
 manipulable
 evaluative
-naïveté
 serviceability
 vicariously
 unrealism
@@ -1062,7 +1055,6 @@ amok
 jackrabbit
 tracker
 downbeat
-gaffe
 fetal
 inclusiveness
 runoff
@@ -1095,8 +1087,6 @@ broadly
 saddleback
 flipside
 benchpress
-cabby
-cabbie
 jab
 tonality
 slugger
@@ -1156,7 +1146,6 @@ noumenal
 instrumentalism
 ultimacy
 entailment
-penumbra
 externality
 inductivism
 specifiable
@@ -1213,7 +1202,6 @@ overwatch
 colocation
 deglobalize
 deglobalization
-snowblower
 inclusivity
 uptake
 replicable
@@ -1292,7 +1280,6 @@ snarky
 lopsidedness
 conquerable
 intermittently
-hefty
 onrush
 catchy
 deployable
@@ -1531,7 +1518,6 @@ woodwork
 emplacement
 divisional
 bandsman
-bantam
 revetment
 batman
 periscopical
@@ -1594,7 +1580,6 @@ floater
 dysphemism
 dummy (endurskoða)
 trapopause
-lepidopterist
 mildew (endurskilgreina)
 skeuomorph
 skeuomorphism
@@ -1659,7 +1644,6 @@ preliterate
 sensationalize
 predominantly
 survivability
-monocausal
 prehuman
 representativeness
 palaeopathology
@@ -1676,8 +1660,6 @@ interrelatedness
 premodern
 generalizable
 bleacher
-de facto
-de jure
 strappado
 positivistic
 suprahistorical
@@ -1696,8 +1678,6 @@ blip
 unfound
 sexualization
 sexualisation
-underpinnings
-dodgeball
 starkly
 armamentarium
 semi-automatic
@@ -1754,7 +1734,6 @@ recombine
 unilineal
 maximal
 prototypical
-skullduggery
 detectable
 undetectable
 séance
@@ -1767,7 +1746,6 @@ postmarital
 scattershot
 sororate
 relatedness
-stepsibling
 centerpiece
 manorialism
 delegitimization
@@ -1780,6 +1758,7 @@ cordialize
 unresponsive
 definitely
 indefinitely
+sporadic (endurskoða)
 sporadically
 thinkability
 deregulatory
@@ -1805,10 +1784,8 @@ motherhouse
 innervate
 innervation
 axonal
-innovativeness
 autocatalytic
 cognitively
-Malthusian
 coevolutionary
 self-programmable
 communally
@@ -1823,7 +1800,6 @@ missionization
 colonialization
 artificially
 symptomology
-pluralistic
 fractionalization
 paleogenomics
 injunctive
@@ -1866,7 +1842,6 @@ chokepoint
 woodblock
 seasonally
 reintensify
-expansionistic
 follow-up
 reaffirm
 pressurize
@@ -1904,7 +1879,6 @@ hauteur
 impressionist
 impressionistic
 hardbitten
-sunburst
 cabalist
 unimportance
 catcall
@@ -1914,7 +1888,6 @@ mugwump
 commonness
 strategically
 exposive
-anti-imperialism
 gorger
 strenuously
 worrisome
@@ -2413,7 +2386,6 @@ zen
 abseil
 fugue (endurskoða) (fugue state?)
 tempura
-wuss
 diegesis
 hooplehead
 polyamorous
@@ -2561,7 +2533,6 @@ perineural
 meningeal
 verbalization
 scrunch
-savor s.
 anamorphic
 tablet (endurskoða)
 tactics (endurskoða)
@@ -2614,14 +2585,12 @@ snootiness
 casuistic
 casuistical
 casuistically
-subtype
 vivo
 pastiche
 kiss-off
 sequitur
 metapolitical
 humidor
-cheesecloth
 liaise
 shortchange
 shortchanged
@@ -2648,7 +2617,7 @@ nestor
 clunk
 whoosh
 teleministry
-hazmat
+hazmat n. stytt. á %[hazardous]% %[material]%
 virtuosic
 asterism
 possessiveness
@@ -2679,7 +2648,6 @@ misalignment
 misaligned
 unaligned
 exfiltrate
-sentience
 relatable
 correlatable
 unrelatable
@@ -2767,6 +2735,7 @@ trial (endurskoða)
 procurement (endurskoða)
 no-brainer
 unattached
+remediate
 remediation
 fissiparous
 fissiparousness
@@ -2796,7 +2765,6 @@ low-level
 high-level
 predomination
 sandwiched
-cagily
 supercharge
 supercharged
 directiveness
@@ -2804,7 +2772,6 @@ decondition
 zirconia
 Panglossian
 Panglossic
-runt
 maenads
 antidotary
 deadbolt
@@ -2848,7 +2815,6 @@ multimodality
 estimated
 fibrillous
 reactivity
-Galician
 missing
 solicitously
 mortify (endurskoða)
@@ -4102,7 +4068,6 @@ spindly
 impersonation (endurskokða)
 bonehead
 boneheaded
-secretiveness
 resupply
 careen (endurskoða)
 colossus (endurskoða)
@@ -4186,7 +4151,6 @@ squinch
 reprise
 campana
 tangled
-entangled
 disentangled
 gingery
 gingerroot
@@ -5911,20 +5875,16 @@ hibernating
 onager
 bricole
 arbalist
-trebucket
 tokenish
 drumbeater
 ideate
 rile
 niggardness
-tightfistedness
-minginess
 birken
 plowland
 conniving
 derriere
 jarful
-foppishness
 learnedness
 encyclopaedism
 encyclopedism
@@ -5953,7 +5913,6 @@ bothered
 daunted
 solved
 unsolved
-unconstitutionally
 luxuriousness
 valorize
 purdy
@@ -5966,12 +5925,12 @@ distillment
 chopfallen
 upthrust
 carrell
+presumptuous (endurskoða)
 presumptuousness
 supposal
 earreach
 pervasion
 sodbuster
-proscribed
 huck
 substantiative
 confirmative
@@ -5979,7 +5938,6 @@ validatory
 verificatory
 logomania
 flub
-queerly
 funnily
 noticeable (endurskoða)
 flaring
@@ -6022,7 +5980,6 @@ preferred
 Wiccan
 ordered
 alterative
-unmodified
 listlessness
 interrupted
 impuissance
@@ -6043,7 +6000,6 @@ manduction
 rebarbative
 unmelodious
 frenulum
-compostable
 naturalization
 rosacean
 gantry
@@ -6368,7 +6324,6 @@ posthaste (endurskoða)
 keyman
 overage
 collider
-choreographer
 piledrive
 piledriver
 hooded
@@ -6391,7 +6346,6 @@ rejuvenating
 heptathlon
 stratocaster
 humbled
-fire hose
 unoriginal
 riveting
 euphemistic (endurskoða)
@@ -6401,7 +6355,6 @@ whisking
 ordained
 reported
 misreported
-blind spot
 pierogi
 bozo
 whacky
@@ -6419,7 +6372,6 @@ slipstream
 roundtable
 declutter
 embosser
-underweight
 sideway
 spillway
 floored
@@ -6461,13 +6413,11 @@ haustement
 gousset
 caracole (endurskoða)
 translationese
-purim
 amusingly
 charted
 diminishing
 demoralizing
 mortadella
-diabolus
 absquatulate
 deliquium
 platan
@@ -6498,7 +6448,6 @@ reproval
 gin mill
 curbing
 accumbent
-black sheep
 around-the-clock
 round-the-clock
 legitimately
@@ -6546,7 +6495,6 @@ bushwood
 wispy
 pighead
 pathfinder
-nutcase
 mudhole
 mongoloid
 misspeak
@@ -6558,6 +6506,7 @@ grieved
 furnishing
 furnishings
 feeding
+embitter (endurskoða)
 embittered
 drivable
 antrum
@@ -6591,6 +6540,7 @@ lavation
 tactual
 penny-pincher
 penny-pinching
+hike (endurskoða)
 hiking
 finger-wagging
 unearned
@@ -6622,7 +6572,6 @@ freewheeling
 slaphappy
 happy-go-lucky
 devil-may-care
-overstress
 cyclorama
 tarriance
 fondly
@@ -6726,13 +6675,10 @@ geoeconomics
 geoeconomic
 ex ante
 borderline personality disorder
-evaluated
-discovered
 apoptosis
 validating
 examined
 unexamined
-endoplasmic
 heterochrony
 refringence
 tearjerker
@@ -6740,3 +6686,20 @@ tearjerking
 endurant (endurskoða)
 descending
 aspectual
+uncomplimentary
+depreciating
+bromelain
+duelling
+surfing
+empowered
+blocked
+unblocked
+opposing
+unconventionality
+smothering
+nurturing
+consuming
+preplanned
+strewn
+hoo-ha
+diglossia (endurskoða)
