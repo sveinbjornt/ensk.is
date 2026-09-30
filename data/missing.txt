@@ -1929,13 +1929,10 @@ waterskin
 burlap
 reconnoiter
 cave-in
-reawaken
-appositive
 pastrami
 overexposure
 charism
 charismata
-beatification
 canonization
 hickory
 mandala
@@ -1949,7 +1946,6 @@ deindividualization
 outmanoeuvre
 upfront
 spatially
-Thatcherism
 relaunch
 flip-flop
 boosterism
@@ -1977,7 +1973,6 @@ waterside
 dispatcher
 anytime
 clincher
-surprisingly
 breaktime
 muppet
 nocebo
@@ -1993,7 +1988,6 @@ striatum
 bandwagon
 boatload
 show-off
-anti-Zionism
 anticolonial
 anticolonialist
 non-democratic
@@ -2041,7 +2035,6 @@ successfully
 monocrop
 polycrop
 domainal
-windstorm
 bottomland
 landholding
 reexamination
@@ -2060,16 +2053,13 @@ monumentalism
 microsociology
 upturn
 functionally
-purely
 untaxable
 hierarchically
 routinization
 appropriable
-showpiece
 cultigen
 self-congratulatory
 coerciveness
-uncannily
 substitutable
 assimilable
 intensiveness
@@ -5849,13 +5839,11 @@ dumbstruck
 dumfounded
 antifertility
 hypochondrium
-mindlessness
 forthrightness
 fab
 aspergill
 duad
 forrader
-abbreviated
 ant bear
 vilifier
 defamer
@@ -5869,8 +5857,7 @@ biota
 slickly
 odontiasis
 entresol
-animistic
-light-colored
+hibernate (endurskoða)
 hibernating
 onager
 bricole
@@ -5888,7 +5875,6 @@ jarful
 learnedness
 encyclopaedism
 encyclopedism
-eruditeness
 larn
 quadruplex
 garrulousness
@@ -5936,7 +5922,6 @@ substantiative
 confirmative
 validatory
 verificatory
-logomania
 flub
 funnily
 noticeable (endurskoða)
@@ -5980,7 +5965,6 @@ preferred
 Wiccan
 ordered
 alterative
-listlessness
 interrupted
 impuissance
 disordered
@@ -5999,7 +5983,6 @@ southwesterly
 manduction
 rebarbative
 unmelodious
-frenulum
 naturalization
 rosacean
 gantry
@@ -6021,7 +6004,6 @@ titterer
 crinkled
 crinkly
 rippled
-wavelike
 roiled
 sidetrack
 sidetracked
@@ -6486,7 +6468,6 @@ hitter
 vilified
 protostome
 terrifying
-cabotage
 lipogram
 intoxilyzer
 lopsided (endurskoða)
@@ -6496,7 +6477,6 @@ wispy
 pighead
 pathfinder
 mudhole
-mongoloid
 misspeak
 misspoken
 inconspicuously
@@ -6516,7 +6496,6 @@ screeching
 sidesplitter
 frontrunner
 cuckoo (endurskoða)
-hunky-dory
 foreordination
 deprecating
 exonerate (endurskoða)
@@ -6562,7 +6541,6 @@ extrapolated
 oversized
 funded
 advocated
-orangish
 labialize
 undescriptive
 spang
@@ -6609,7 +6587,6 @@ voluted
 auberge
 lusciousness
 toothsomeness
-delectability
 ill-defined
 well-defined
 scattering
@@ -6703,3 +6680,6 @@ preplanned
 strewn
 hoo-ha
 diglossia (endurskoða)
+antipode (endurskoða)
+shoogly
+tipping

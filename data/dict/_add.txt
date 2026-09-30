@@ -712,7 +712,7 @@ Burundian l. búrúndískur; n. Búrúndi
 Cambodia n. Kambódía
 Cambodian l. kambódískur; n. Kambódíumaður; kambódíska, kmeríska (tungumál)
 Cameroon n. Kamerún
-Cameroonian l. kamerúnskur; n. Kamerúni
+Cameroonian l. kamerúnskur; n. Kamerúni, maður frá Kamerún
 Canada n. Kanada
 Canadian l. kanadískur, frá Kanada; n. Kanadamaður
 Cape Verde n. Grænhöfðaeyjar
@@ -2419,8 +2419,8 @@ chalkboard n. krítartafla, skólatafla
 Inuit n. Inúíti (frumbyggi Grænlands og nyrstu svæða Norður-Ameríku); l. inúískur
 orthopedia n. bæklunarlækningar
 orthopedic l. bæklunarlækninga-; n. bæklunarlæknir
-orthpaedist n. bæklunarlæknir
-orthopedist n. sjá %[orthpaedist]%
+orthopaedist n. bæklunarlæknir
+orthopedist n. sjá %[orthopaedist]%
 businesspeople nft. viðskiptafólk, verslunarfólk, kaupsýslumenn
 weightlifter n. kraftlyftingamaður
 weightlifting n. kraftlyftingar
@@ -7190,7 +7190,7 @@ prof n. prófessor, kennari; stytt. á %[professor]%
 Old Nick n. fjandinn, kölski, djöfullinn
 premorbid l. forsýkis-
 cribhouse n. vændishús, hóruhús
-bamboozled l. gabbaður, prettaður, sem hefur verið svindlað á
+bamboozled l. gabbaður, prettaður
 onomatopoeic l. hljóðgervingar-
 virology n. veirufræði
 virologist n. veirufræðingur, veirusérfræðingur
@@ -7753,8 +7753,8 @@ Tajik n. Tadsíki
 Timorese l. tímorskur; n. Tímori
 Bahamian l. bahameyskur; n. Bahameyingur
 Bahraini l. bareinskur; n. Bareini
-Belizean l. belískur; n. Belísi
-Bermudan n. Bermúdamaður
+Belizean l. belískur; n. Belísi, manneskja frá Belís
+Bermudan n. Bermúdamaður; l. frá Bermúda (eyju í Karíbahafi)
 asymptote n. aðfella, ósnertill
 laparoscopy n. kviðarholsspeglun
 laparoscopic l. kviðarholsspeglunar-
@@ -12556,7 +12556,6 @@ molder s. sjá %[moulder]%
 primitivism n. frumstæðar aðferðir; frumstætt ástand; frumhyggja
 uniformness n. sjá %[uniformity]%
 immunise s. sjá %[immunize]%
-naturalise s. sjá %[naturalize]%
 equaliser n. sjá %[equalizer]%
 pricy l. sjá %[pricey]%
 clocksmith n. klukkusmiður
@@ -12633,7 +12632,7 @@ Charybdis n. Karybdis (sæskrímsli í forngrískum goðsögnum, m.a. Ódysseifs
 carny n. sjá %[carnival]% (óforml.)
 Cllr n. stytt. á %[councillor]%
 Pomerania n. Pommern (hérað við suðurströnd Eystrasaltsins)
-Pomeranian l. frá Pommern (í Þýskalandi eða Póllandi)
+Pomeranian l. frá Pommern (í Þýskalandi eða Póllandi); e.k. hundategund
 smouldering l. rjúkandi; glæðandi; ólgandi, kraumandi ([his ~ resentment])
 stopover n. áning; millilending
 tabloid n. æsifréttablað ([~ newspaper])
@@ -12733,3 +12732,29 @@ nutcase n. brjálæðingur, klikkhaus, geðsjúklingur (óforml.)
 overstress s. leggja of mikla áherslu á; reyna of mikið á
 secretiveness n. leynd, laumuskapur, leyndarhyggja, laumuspil
 entangled l. flæktur (í [in, with])
+gawp s. góna, glápa (óforml. breskt slangur)
+mindlessness n. hugsunarleysi, þaðð að vera án hugsunar eða vitsmuna
+abbreviated l. styttur; skammstafaður
+animistic l. andatrúar-, sálnatrúar-
+eruditeness n. fróðskapur
+logomania n. málæði
+listlessness n. tregi, afskiptaleysi
+frenulum n. haft
+wavelike l. bylgjukenndur
+reawaken s. vakna á ný; vekja á ný
+appositive l. viðurlags- (í málfræði); n. viðurlag
+beatification n. að gera alsælan; blessun (páfans í Róm)
+Thatcherism n. stefna Margrétar Thatcher (í hennar valdatíð í Bretlandi)
+surprisingly ao. furðulega; merkilega (nokk [enough])
+anti-Zionism n. andsíónismi (sjá %[Zionism]%)
+windstorm n. hvassviðri (án rigningar)
+purely ao. hreinlega, eingöngu
+showpiece n. (framúrskarandi) sýningargripur
+uncannily ao. ískyggilega
+gastrovascular l. garnæða-
+unenergetic l. orkulítill, þróttlaus, þreklaus, slappur
+cabotage n. strandsiglingar; gestaflug; vöru- eða fólksflutningar innan sama lands
+Mongoloid l. af mongólsku kyni; n. mongólíti (niðrandi)
+hunky-dory l. í góðu lagi ([everything is ~])
+orangish l. appelsínugulleitur
+delectability n. unaðsleikur, yndi

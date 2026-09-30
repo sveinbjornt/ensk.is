@@ -1229,7 +1229,7 @@ appointment n. ákvörðun, tilskipun; loforð (um að koma), stefnumót ([keep 
 apportion s. úthluta; skipta
 apportionment n. úthlutun; skipting
 apposite l. vel viðeigandi
-apposition n. viðlagning
+apposition n. viðurlag, viðlagning (í málfræði)
 appraisal n. mat, virðing
 appraise s. meta, virða
 appraisement n. virðing, mat
