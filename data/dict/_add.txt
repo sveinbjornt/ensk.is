@@ -2406,7 +2406,7 @@ rifleman n. hermaður vopnaður riffli
 capitalistic l. auðvaldslegur; auðvaldsstefnulegur, kapítalískur
 dependability n. áreiðanleiki
 shieldbearer n. skjaldberi, skjaldsveinn
-putsch n. tilraun til byltingar eða valdaráns
+putsch n. tilraun til byltingar eða valdaráns (úr þýsku)
 driverless l. án ökumanns eða bílstjóra, ökumannslaus, bílstjóralaus
 homeowner n. húseigandi
 homeownership n. húseign
@@ -5120,6 +5120,7 @@ unitary l. einingar- ([~ state]); einoka ([~ matrix])
 self-evaluation n. sjálfsmat
 decarbonize s. afkola
 decarbonization n. afkolun
+decarbonisation n. sjá %[decarbonization]%
 circumnavigable l. sem hægt er að sigla í kringum (sjá %[circumnavigate]%)
 charged l. hlaðinn (raforku) ([~ battery])
 stingray n. stingskata
@@ -6929,7 +6930,7 @@ oxymoronic l. mótsagnakenndur
 homecare n. heimahjúkrun, heimaþjónusta, heimahjálp
 sorcerous l. göldróttur, fjölkunnugur
 lumberman n. skógarhöggsmaður; timbursölumaður
-putschist n. valdaránsmaður
+putschist n. valdaránsmaður, valdaræningi
 theonym n. nafn á guði, guðsnafn
 salvageable l. sem er bjargandi, bjarganlegur
 unsalvageable l. óbjargandi, óbjarganlegur
@@ -12733,12 +12734,12 @@ overstress s. leggja of mikla áherslu á; reyna of mikið á
 secretiveness n. leynd, laumuskapur, leyndarhyggja, laumuspil
 entangled l. flæktur (í [in, with])
 gawp s. góna, glápa (óforml. breskt slangur)
-mindlessness n. hugsunarleysi, þaðð að vera án hugsunar eða vitsmuna
+mindlessness n. hugsunarleysi, það að vera án hugsunar eða vitsmuna
 abbreviated l. styttur; skammstafaður
 animistic l. andatrúar-, sálnatrúar-
 eruditeness n. fróðskapur
 logomania n. málæði
-listlessness n. tregi, afskiptaleysi
+listlessness n. deyfð, sljóleiki, afskiptaleysi
 frenulum n. haft
 wavelike l. bylgjukenndur
 reawaken s. vakna á ný; vekja á ný
@@ -12754,7 +12755,29 @@ uncannily ao. ískyggilega
 gastrovascular l. garnæða-
 unenergetic l. orkulítill, þróttlaus, þreklaus, slappur
 cabotage n. strandsiglingar; gestaflug; vöru- eða fólksflutningar innan sama lands
-Mongoloid l. af mongólsku kyni; n. mongólíti (niðrandi)
+Mongoloid l. af mongólsku kyni (úrelt); n. mongólíti (niðrandi)
 hunky-dory l. í góðu lagi ([everything is ~])
 orangish l. appelsínugulleitur
-delectability n. unaðsleikur, yndi
+delectability n. unaðsleikur, unaðsleiki, yndi
+parkway n. breiðgata
+pillock n. einfeldningur, bjálfi, aulabárður, afglapi (breskt slangur)
+acedia n. leti, deyfð (ein af höfuðsyndunum sjö, úr latínu)
+baldy n. sköllóttur maður (óforml.)
+baldie n. sjá %[baldy]%
+disk drive n. diskadrif (í tölvu)
+pilothouse n. stýrishús (á skipi)
+panoptic l. alsjáandi
+panopticism n. það að sjá allt (sjá %[panoptic]%)
+blood sample n. blóðsýni
+blood test n. blóðprufa
+obit n. sjá %[obituary]% (óforml. stytt.)
+geochemistry n. jarðefnafræði
+mutt n. rakki, blendingshundur; bjáni, heimskingi
+putschism n. valdaránsstefna (sjá %[putsch]%)
+favela n. fátækrahverfi, kofaborg (í Brasilíu)
+launderette n. almenningsþvottahús
+laundrette n. sjá %[launderette]%
+tuple n. und, endanleg runa (í stærðfræði)
+baccalaureate n. bakkalárgráða, BA-gráða, BS-gráða
+underswell n. undiralda; undirstraumur
+imbrication n. skörun

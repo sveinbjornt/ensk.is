@@ -1426,7 +1426,7 @@ soufflé
 overpaid
 underpaid
 disaggregation
-panoptic
+
 spin-off
 acerbic
 off-kilter
@@ -1651,7 +1651,6 @@ sociality
 phylogenetic
 phylogenetics
 non-consensual
-panopticism
 abjuror
 fraymaker
 Counter-Enlightenment
@@ -1670,7 +1669,6 @@ non-violence
 counterterrorism
 flair
 decolonization
-imbrication
 neo-colonialism
 neo-colonialist
 problematize
@@ -1697,7 +1695,6 @@ stroppy
 combinatorial
 gradualism
 ballistics
-underswell
 ressentiment
 minimalization
 transvaluation
@@ -2825,8 +2822,6 @@ pooper
 bitchy
 extractor
 extraocular
-acedia
-pillock
 plonker
 educatee
 unpick
@@ -2926,7 +2921,6 @@ mongrelize
 mongrelized
 muckraker
 muckraking
-favela
 rotogravure
 branding
 seigneurial
@@ -3023,7 +3017,6 @@ oregano
 jumpy
 blurred
 halftime
-parkway
 suspended
 stalled
 forestalled
@@ -3543,9 +3536,12 @@ vibrance
 vibrancy
 WYSIWYG
 phacelia
+heliotrope (endurskoða)
 animatronic
 animatronics
 moppet
+laureate (endurskoða)
+Nobel laureate
 behalf (endurskoða)
 exsanguinate
 exsanguinated
@@ -3566,7 +3562,6 @@ tampering
 stomper
 hookup
 advocation
-tuple
 VC
 plonk
 flustered
@@ -3615,7 +3610,6 @@ vape
 vaping
 demilitarize
 demilitarized
-decarbonisation
 placidly
 signifying
 segue
@@ -6683,3 +6677,7 @@ diglossia (endurskoða)
 antipode (endurskoða)
 shoogly
 tipping
+bloody (endurskoða)
+incomer
+liquidated
+halloumi
