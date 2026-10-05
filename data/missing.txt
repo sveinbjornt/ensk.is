@@ -1453,7 +1453,6 @@ spate
 piggyback
 intuitive (endurskoða)
 intuitively
-strongman
 second-guess
 airbrush
 roofer
@@ -1468,8 +1467,6 @@ translocalization
 prelocalization
 flak
 self-important
-catwalk
-broadcaster
 accrual
 editorialist
 feverishly
@@ -1532,7 +1529,6 @@ geomantic
 moralistic
 kow-tow
 espousal
-shopfront
 panoramic
 reimpose
 orchestrate
@@ -3831,9 +3827,6 @@ banger
 headbanger
 normatively
 indulgently
-quantize
-quantizable
-quantization
 crock
 langour
 hivemind
@@ -6661,7 +6654,6 @@ blocked
 unblocked
 opposing
 unconventionality
-smothering
 nurturing
 consuming
 preplanned
@@ -6680,14 +6672,10 @@ giff
 burner (endurskoða)
 hoodwinked
 equivocalness
-ambitionless
 exuberate
 jazz (endurskoða)
-bonk
-entree
 flatfoot
 stabbing
-campground
 nonextensile
 solicitousness
 sparkly
@@ -6713,3 +6701,6 @@ crapware
 provincialization
 deliverables
 perseverate
+concerted (endurskoða)
+spintronics
+plothole

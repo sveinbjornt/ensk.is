@@ -9649,8 +9649,8 @@ indoctrinated l. innrættur
 chlorophyll n. blaðgræna, laufgræna
 flunk s. falla, skítfalla (á prófi, í áfanga í skóla)
 extramural l. utan veggja; utan skóla
-deli n. sælkerastaður (sks. á %[delicatessen]%)
-delicatessen n. góðgæti, sælkeramatur; sælkerastaður
+deli n. sælkerastaður, sælkerabúð (stytt. á %[delicatessen]%)
+delicatessen n. góðgæti, sælkeramatur; sælkerabúð, sælkeraverslun; sælkerastaður
 exorcize s. sjá %[exorcise]%
 curio n. fágæti, fágætur munur ([a shop full of ~s])
 excruciating l. mjög sársaukafullur; óbærilegur
@@ -12810,3 +12810,15 @@ germicide n. örverueyðir; örverueyðing
 jobseeker n. atvinnuleitandi, manneskja í atvinnuleit
 mixologist n. kokteilbarþjónn
 gurney n. sjúkrabörur á hjólum
+campground n. tjaldsvæði
+entree n. sjá %[entrée]%
+bonk n. árekstur (óforml.); s. rekast á (óforml.); ríða (óforml. slangur)
+ambitionless l. metnaðarlaus
+smothering l. kæfandi
+quantize s. búta, skammta (í tölvunarfræði)
+quantizable l. bútanlegur (í tölvunarfræði)
+quantization n. bútun, skömmtun (í tölvunarfræði)
+shopfront n. búðargluggi, framhlið verslunar (við stræti)
+catwalk n. gangvegur; tískupallur
+broadcaster n. útvarpsmaður; þáttastjórnandi (í útvarpi eða sjónvarpi)
+strongman n. hreystimenni, kraftakarl; valdsmaður, sá sem fer með völdin (í krafti ofbeldis)

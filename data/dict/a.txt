@@ -37,8 +37,8 @@ abear s. þola, fella sig sig við ([she could not ~ that man])
 abearance n. hegðun ([good ~])
 abecedarian l. stafrófs-, stöfunar-, sem er í stafrófsröð; n. stöfunarnemandi; stöfunarkennari; fáfræðingur
 abed ao. í rúminu; rúmfastur ([he was ~ with gout])
-aberrance n. afhvarf, villa
-aberrancy n. afhvarf, villa
+aberrance n. sjá %[aberrancy]%
+aberrancy n. afbrigðileiki, afhvarf, villa
 aberrant l. afbrigðilegur
 aberration n. afhvarf, villa, skekkja; afbrigði, afbrigðilegheit
 abet s. eggja, hvetja, æsa
