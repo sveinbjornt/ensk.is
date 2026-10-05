@@ -453,7 +453,7 @@ advantage n. hagnaður, ábati; yfirburðir (yfir [of, over]); kostur; [to ~] me
 advantageous l. gagnlegur, hagstæður
 advantageousness n. gagnsemi
 advent n. tilkoma; jólafasta
-adventitious l. aðkominn, aðfenginn
+adventitious l. aðkominn, aðfenginn, utanaðkomandi
 adventure n. ævintýri; hætta, áhætta; hættufyrirtæki; s. hætta á; stofna í hættu; hætta sér ([into, in, upon a place, on, upon an undertaking])
 adventurer n. ævintýramaður; glæframaður
 adventuress n. ævintýrakona
@@ -1068,7 +1068,7 @@ another l. annar; [one ~] hver (hvor) annan
 answer n. svar; s. svara; gegna; heppnast, reynast (vel eða illa); ábyrgjast ([for]); [~ a debt] borga skuld; [~ the helm] láta að stjórn
 answerable l. ábyrgur; samsvarandi
 ant n. maur
-anteater n. mauræta
+anteater n. mauraæta
 anthill n. mauraþúfa
 antagonism n. fjandskapur; andstæða; mótstöðuafl
 antagonist n. andstæðingur, mótstöðumaður

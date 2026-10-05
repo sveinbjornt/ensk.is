@@ -5855,7 +5855,7 @@ cyberattack n. tölvuárás, netárás
 rosarium n. rósagarður
 well-proportioned l. í góðum hlutföllum
 drool s. slefa; n. slef
-hookah n. vatnspípa (frá Mið-Austurlöndum)
+hookah n. arabísk vatnspípa
 acrimoniously ao. beisklega, biturlega, með heift, í illindum
 codename n. dulnefni; kenninafn; þróunarnafn
 ahistorical l. ósögulegur; ekki samkvæmt sögunni eða sagnfræðinni; án sögulegs eða sagnfræðilegs samhengis
@@ -9868,7 +9868,7 @@ stranded l. strandaður, sem rekið hefur á land
 spiel n. kjaftæði, mas, málæði, þula (BNA, óforml.); [same old ~] sama gamla þulan
 bedamn s. bölva, formæla
 margarita n. margaríta (kokteill)
-blunted l. gerður bitlaus, sljóvgaður, deyfður
+blunted l. gerður bitlaus; sljóvgaður, deyfður
 paperclip n. bréfaklemma
 septic l. graftar-, ígerðar-; rot- (sjá t.d. %[septic tank]%)
 septic tank n. rotþró
@@ -12770,7 +12770,6 @@ panoptic l. alsjáandi
 panopticism n. það að sjá allt (sjá %[panoptic]%)
 blood sample n. blóðsýni
 blood test n. blóðprufa
-obit n. sjá %[obituary]% (óforml. stytt.)
 geochemistry n. jarðefnafræði
 mutt n. rakki, blendingshundur; bjáni, heimskingi
 putschism n. valdaránsstefna (sjá %[putsch]%)
@@ -12781,3 +12780,33 @@ tuple n. und, endanleg runa (í stærðfræði)
 baccalaureate n. bakkalárgráða, BA-gráða, BS-gráða
 underswell n. undiralda; undirstraumur
 imbrication n. skörun
+Pangloss n. Altunga (bjartsýnn spekingur í skáldsögunni Birtingi eftir Voltaire)
+Panglossian l. gífurlega bjartsýnn, hlægilega bjartsýnn (sjá %[Pangloss]%)
+Panglossic l. sjá %[Panglossian]%
+shisha n. arabísk vatnspípa
+councilwoman n. (kvenkyns) fulltrúi, ráðsmaður; borgarráðskona, borgarfulltrúi ([city ~])
+stabilise s. sjá %[stabilize]%
+destabilise s. sjá %[destabilize]%
+grandness n. sjá %[grandeur]%
+dulled l. gerður bitlaus; sljóvgaður, deyfður ([his faculties were ~ by drink])
+uneffective l. sjá %[ineffective]%
+barman n. barþjónn
+unhearable l. sjá %[inaudible]%
+secularisation n. sjá %[secularization]%
+semivowel n. hálfsérhljóð
+crybaby n. vælukjói (óforml.)
+democratise s. sjá %[democratize]%
+unclothe s. afklæða
+unclothed l. afklæddur; nakinn, án fata
+antimicrobic l. sjá %[antimicrobial]%
+doubtlessly ao. vafalaust, eflaust
+dueler n. sjá %[duelist]%
+gook n. asísk manneskja (óforml. slangur, mjög niðrandi)
+lancinate s. stinga, reka í gegn (með spjóti)
+prospicience n. forsjálni, forsjá
+pyogenic l. graftarmyndandi
+microbicide n. örverueyðir; örverueyðing
+germicide n. örverueyðir; örverueyðing
+jobseeker n. atvinnuleitandi, manneskja í atvinnuleit
+mixologist n. kokteilbarþjónn
+gurney n. sjúkrabörur á hjólum
