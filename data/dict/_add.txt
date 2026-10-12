@@ -12813,12 +12813,19 @@ gurney n. sjúkrabörur á hjólum
 campground n. tjaldsvæði
 entree n. sjá %[entrée]%
 bonk n. árekstur (óforml.); s. rekast á (óforml.); ríða (óforml. slangur)
-ambitionless l. metnaðarlaus
-smothering l. kæfandi
+ambitionless l. metnaðarlaus, án metnaðar
+smothering l. kæfandi; n. kæfing
 quantize s. búta, skammta (í tölvunarfræði)
 quantizable l. bútanlegur (í tölvunarfræði)
 quantization n. bútun, skömmtun (í tölvunarfræði)
 shopfront n. búðargluggi, framhlið verslunar (við stræti)
 catwalk n. gangvegur; tískupallur
 broadcaster n. útvarpsmaður; þáttastjórnandi (í útvarpi eða sjónvarpi)
-strongman n. hreystimenni, kraftakarl; valdsmaður, sá sem fer með völdin (í krafti ofbeldis)
+strongman n. hreystimenni, kraftakarl; valdsmaður, sá sem fer með völdin (í krafti ofbeldis og yfirlætis)
+bespectacled l. með gleraugu
+monocled l. með einglyrni, einglyrnaður
+four-eyes n. gleraugnaglámur, manneskja með gleraugu (niðrandi, óforml.)
+hype n. hæp, æsingur, ýkjur, húllumhæ
+unpure l. sjá %[impure]%
+untranslatable l. óþýðanlegur
+# adversial
