@@ -217,8 +217,8 @@ spectrography n. litrófsfræði
 spectroscopy n. litrófsgreining, litrófsmæling
 espresso n. espressó (sterkur og bragðmikill kaffidrykkur)
 expresso n. sjá %[espresso]%
-marxism n. marxismi (hugmyndafræði kennd við þýska fræðimanninn Karl Marx)
-marxist n. marxisti (fylgismaður kenninga Karls Marx, sjá %[marxism]%)
+Marxism n. marxismi (hugmyndafræði kennd við þýska fræðimanninn Karl Marx)
+Marxist n. marxisti (fylgismaður kenninga Karls Marx, sjá %[Marxism]%)
 postmodern l. póstmódernískur (sjá %[postmodernism]%)
 postmodernistic l. póstmódernískur (sjá %[postmodernism]%)
 postmodernism n. póstmódernismi (heimspeki- og menningarstefna sem tók við af módernisma)
@@ -5242,7 +5242,7 @@ hashish n. hass (verkað kannabis)
 stoned l. grýttur; skakkur, freðinn, í kannabisvímu; undir áhrifum vímuefna
 stoner n. freðhaus, grasreykingamaður, kannabisfíkill; dópisti; grjótkastari
 pothead n. freðhaus, grasreykingamaður, kannabisfíkill
-rigor mortis n. (lat.) dauðastirðnun, stirðnun líks eftir dauða
+rigor mortis n. dauðastirðnun, stirðnun líks eftir dauða (úr latínu)
 copywriter n. (auglýsinga)textahöfundur, textasmiður
 copywriting n. textasmíði (fyrir markaðssetningu, auglýsingar, o.s.frv.)
 unjustly ao. óréttilega, óréttvíslega, á óréttlátan hátt
@@ -6243,7 +6243,7 @@ revealed l. uppljóstraður, afhjúpaður, sýndur
 botched l. klúðraður, misheppnaður; [~ job] hálfkák
 programming n. forritun
 differential l. mismuna-; diffur- ([~ equation] diffurjafna); [~ diagnosis] mismunagreining; n. mismunadrif (búnaður svo dekk megi snúast mishratt á bíl)
-offline l. ekki tengdur, ótengdur, ónettengdur, ekki í samskiptum við umheiminn; ekki uppi, niðri (um vélræna þjóna)
+offline l. ekki tengdur, ótengdur; ónettengdur, ekki í samskiptum við umheiminn; ekki uppi, niðri (um vélræna þjóna)
 captivating l. gagntakandi, grípandi, fangandi ([a ~ performance])
 WC n. klósett, salerni (sks. á %[water closet]%)
 pancreatitis n. brisbólga
@@ -12828,4 +12828,35 @@ four-eyes n. gleraugnaglámur, manneskja með gleraugu (niðrandi, óforml.)
 hype n. hæp, æsingur, ýkjur, húllumhæ
 unpure l. sjá %[impure]%
 untranslatable l. óþýðanlegur
-# adversial
+eruct s. ropa
+eructation n. rop, það að ropa
+rote learning n. utanbókarlærdómur
+unthinkingly ao. hugsunarlaust, gáleysislega, í gáleysi, án hugsunar, án þess að hugsa
+dolourous l. sjá %[dolorous]%
+metal bar n. málmstöng
+ley n. sjá %[lea]%
+grazing land n. beitiland, beitarland
+lutenist n. sjá %[lutanist]%
+Falangist n. falangisti (spánskur fasisti)
+electrotherapy n. raflækning
+biographic l. sjá %[biographical]%
+neuroleptic n. geðrofslyf, sefandi lyf
+decalcify s. afkalka
+polemist n. sjá %[polemicist]%
+mirror image n. spegilmynd
+southeasterly l. suðaustlægur; suðaustur-
+southwesterly l. suðvestlægur; suðvestur-
+woven l. ofinn (sjá %[weave]%)
+Red n. kommúnisti (óforml.)
+contiguousness n. sjá %[contiguity]%
+suppertime n. kvöldverðartími, kvöldmatartími
+perihelion n. sólnánd
+devilment n. sjá %[mischief]%
+undiluted l. ekki útþynntur
+lustfulness n. lostagirni, lostasemi
+glistering l. glitrandi, tindrandi, glampandi
+coruscant l. leiftrandi, blikandi
+insentient l. ekki skyni gæddur
+schnoz n. sjá %[schnozzle]%
+schnozzle n. nef, stórt nef (óforml. slangur)
+wellies nft. stígvéli (óforml. stytt. á %[wellingtons]%)
