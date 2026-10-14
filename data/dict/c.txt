@@ -1181,8 +1181,8 @@ cocker s. hafa eftirlæti á; dekra fyrir ([~ up])
 cockerel n. ungur hani; þrætugjarn unglingur
 cockle n. kornrós; báruskel
 cockleshell n. báruskel; hörpudiskur; bolli, bytta (um bát)
-cockney n. Lundúnabúi (með sérkennilegan málkeim)
-cockney dialect n. Lundúnamállýska
+Cockney n. Lundúnabúi (með sérkennilegan málkeim)
+Cockney dialect n. Lundúnamállýska
 cockneyism n. Lundúnaframburður
 cockroach n. kakkalakki (skorkvikindi)
 cocksy l. hreykinn, montinn
