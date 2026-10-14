@@ -39,7 +39,7 @@ Code to read and parse dictionary source files.
 
 import os
 from collections import defaultdict
-from typing import Any
+from typing import Any, Optional
 
 import orjson
 
@@ -284,6 +284,17 @@ def is_not_name(syn: str) -> bool:
     )
 
 
+SYN_ANTONYM_BLACKLIST: Optional[set[str]] = None
+
+
+def is_syn_antonym_blacklisted(word: str) -> bool:
+    """Check if a word is in the synonym/antonym blacklist."""
+    global SYN_ANTONYM_BLACKLIST
+    if SYN_ANTONYM_BLACKLIST is None:
+        SYN_ANTONYM_BLACKLIST = set(read_wordlist("data/syn_ignore.txt"))
+    return word.replace("_", " ") in SYN_ANTONYM_BLACKLIST
+
+
 def synonyms_for_word(w: str) -> list[str]:
     """Look up synonyms for a given word in the dictionary."""
     if not w:
@@ -300,6 +311,7 @@ def synonyms_for_word(w: str) -> list[str]:
     synonyms = set(chain.from_iterable([wd.lemma_names() for wd in s if wd]))
     synonyms.discard(w)  # Remove the word itself
     synonyms = list(synonyms)
+    synonyms = list(filter(lambda x: not is_syn_antonym_blacklisted(x), synonyms))
     synonyms.sort(key=lambda x: x.lower())
     synonyms = [
         syn.replace("_", " ")
@@ -348,6 +360,9 @@ def antonyms_for_word(w: str) -> list[str]:
 
     antonyms.discard(w)
     antonyms_list = list(antonyms)
+    antonyms_list = list(
+        filter(lambda x: not is_syn_antonym_blacklisted(x), antonyms_list)
+    )
     antonyms_list.sort(key=lambda x: x.lower())
     antonyms_list = [ant.replace("_", " ") for ant in antonyms_list if len(ant) > 1]
 
