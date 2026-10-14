@@ -1510,7 +1510,7 @@ microorganism n. örvera
 prementioned l. áðurnefndur, fyrrnefndur
 neurologist n. taugalæknir, taugasérfræðingur
 neurology n. taugafræði, taugasjúkdómafræði, taugalæknisfræði
-neurological l. tauga-, taugafræðilegur; [~ damage] taugaskemmdir
+neurological l. tauga-, taugafræðilegur; [~ damage] taugaskemmdir; [~ disease] taugasjúkdómur
 neurologically ao. taugafræðilega
 demiurge n. heimssmiður (í kerfi gnóstíka); undirgoð, undirguð
 superman n. ofurmaður, ofurmenni; yfirmenni (æðri tegund manns)
@@ -12872,3 +12872,10 @@ movie theatre n. kvikmyndahús, bíóhús, bíó
 comedo n. fílapensill
 oceanica n. njarðargras
 ductileness n. sjá %[ductility]%
+seasoned l. kryddaður; sjóaður, reyndur, reynslumikill, vanur ([a ~ veteran of many a war])
+goldfield n. gullgraftarsvæði
+gold digger n. gullgrafari, gullgraftarmaður; kona sem giftist manni í gróðaskyni, peninga hans vegna
+gold rush n. gullæði, gullgrafaraæði
+gold mining n. gullgröftur
+turn signal n. stefnuljós
+Virgin Islands nft. Jómfrúaeyjar (eyjaklasi í Karíbahafi)
