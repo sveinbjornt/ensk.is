@@ -5438,7 +5438,7 @@ varicella n. hlaupabóla
 joystick n. stýripinni, gleðipinni
 storytelling n. frásögn; frásagnarlist
 worthwhile l. verðugur, þess virði, ómaksins virði, ómaksins vert, erfiðisins virði, tilvinnandi
-bordello n. vændishús, gleðihús, hóruhús
+bordello n. vændishús, gleðihús, hóruhús, pútnahús
 donut n. sjá %[doughnut]%
 ossified l. orðinn að beini; ósveigjanlegur, fastur í sínum venjum; gamaldags
 ossification n. beinmyndun; íhaldssemi, ósveigjanleiki
@@ -7190,7 +7190,7 @@ paterfamilias n. (lat.) fjölskyldufaðir, faðir fjölskyldunnar, ættfaðir
 prof n. prófessor, kennari; stytt. á %[professor]%
 Old Nick n. fjandinn, kölski, djöfullinn
 premorbid l. forsýkis-
-cribhouse n. vændishús, hóruhús
+cribhouse n. vændishús, hóruhús, pútnahús
 bamboozled l. gabbaður, prettaður
 onomatopoeic l. hljóðgervingar-
 virology n. veirufræði
@@ -9678,7 +9678,7 @@ talkativeness n. málgleði
 tachygraphy n. hraðskrift, hraðritun
 temptress n. tálkvendi
 toreador n. nautabani
-whorehouse n. hóruhús, vændishús
+whorehouse n. hóruhús, vændishús, pútnahús
 bifurcate s. skipta í tvennt, kvíslast í tvennt
 trifurcate s. skipta í þrennt, kvíslast í þrennt
 tragicomical l. sjá %[tragicomic]%
@@ -10928,14 +10928,15 @@ tenability n. verjanleiki
 untenability n. óverjanleiki
 autotrophic l. frumbjarga (um lífveru)
 Templar n. musterisriddari ([Knight Templar])
+Templars nft. musterisriddarareglan ([Order of Knights Templar])
 per capita ao. á höfðatölu, á mann, miðað við höfðatölu
 per caput ao. sjá %[per capita]%
 Junoesque l. tígulegur, glæsilegur (um konu); líkur gyðjunni Júnó
 pachydermatous l. þykkskinna, þykkskinnaður
 chicness n. listfengi, stíll, skrautlegheit
-bawdyhouse n. vændishús, gleðihús, hóruhús
-cathouse n. vændishús, gleðihús, hóruhús
-bagnio n. vændishús, gleðihús, hóruhús
+bawdyhouse n. vændishús, gleðihús, hóruhús, pútnahús
+cathouse n. vændishús, gleðihús, hóruhús, pútnahús
+bagnio n. vændishús, gleðihús, hóruhús, pútnahús
 buzzer n. bjalla; dyrabjalla; skotklukka
 cuss s. sjá %[curse]% (óforml.)
 tanned l. sútaður (um leður); útitekinn, sólbrúnn, tanaður
@@ -12879,3 +12880,24 @@ gold rush n. gullæði, gullgrafaraæði
 gold mining n. gullgröftur
 turn signal n. stefnuljós
 Virgin Islands nft. Jómfrúaeyjar (eyjaklasi í Karíbahafi)
+invigilator n. yfirsetumaður
+uncheck s. afmerkja, afhaka (gátreit)
+echopraxia n. hermifas
+Orphean l. sjá %[Orphic]%
+Orphic l. Orfeusar-, er lýtur að Orfeusi (goðsagnakenndu forngrísku skáldi)
+siegecraft n. umsáturslist (sjá %[siege]%)
+parazoa n. svampar, svampdýr
+parazoan l. svampa-, svampdýra-
+moldiness n. mygla, mygluástand
+hideously ao. herfilega, viðbjóðslega; hræðilega
+toff n. (tilgerðarleg eða spjátrungsleg) yfirstéttarmanneskja (óforml. slangur)
+seafoam n. brimlöður, sjávarfroða
+dumbphone n. venjulegur (far)sími (þ.e. ekki snjallsími)
+radiolocation n. radíóstaðarákvörðun
+newspaperman n. blaðamaður, fréttamaður
+newswriter n. fréttahöfundur
+uninventive l. óhugvitssamur, ekki uppfinningasamur
+postbox n. póstkassi, pósthólf
+blind alley n. blindgata
+breadcrumb n. brauðmoli
+deceiving l. blekkjandi, svíkjandi, táldragandi
