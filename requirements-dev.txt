@@ -1,5 +1,5 @@
-islenska==2.0.0
-tokenizer==3.6.4
+islenska==2.1.0
+tokenizer==3.7.0
 pytest==9.1.1
 httpx==0.28.1
 uvicorn==0.54.0
