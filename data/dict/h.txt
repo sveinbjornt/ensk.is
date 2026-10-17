@@ -219,16 +219,16 @@ hatable l. hatursverður, hatanlegur
 hatch s. klekja (unga) út; vera klakinn út; hugsa upp; n. útklakning; ungar (úr einu hreiðri); lúkugat á skipsþiljum og lokan yfir því
 hatchway n. lúkugat á skipsþiljum
 hatchel n. hörkambur, hampkambur; s. hreinsa hör eða hamp með kambi, kemba (hör)
-hatchet n. lítil öxi, handöxi; [to fling the ~] ýkja
+hatchet n. lítil öxi, handöxi; [to bury the ~] grafa stríðsöxina; [to fling the ~] ýkja
 hate s. hata, hafa óbeit á; n. hatur
 hateable l. hatursverður, hatanlegur
 hateful l. hatursfullur, illa þokkaður; andstyggilegur
-hatefulness n. heiftúð, illvilji
+hatefulness n. heiftúð, illvilji; andstyggilegheit
 hater n. hatari, sá sem hatar
 hatred n. hatur; óbeit
 hauberk n. brynhálsbjörg
-haughtiness n. dramb, hroki, stórlæti
-haughty l. drambsamur, hrokafullur, stórlátur
+haughtiness n. dramb, hroki, stórlæti, yfirlæti
+haughty l. drambsamur, hrokafullur, stórlátur, yfirlátur
 haul s. draga, draga upp ([~ in the net, ~ anchor]); toga (í e-ð [at, upon]); kalla e-n fyrir ([~ up]); beita upp í vindinn ([~ upon/to the wind, ~ the/her wind]); halda (sigla) í e-a átt; [~ off] fara (halda) undan; (um vindinn) ganga í aðra átt ([the wind ~ed to the southward, is ~ing round]); n. dráttur ([~ of a net]); fiskdráttur ([a good ~ of fish]); veiði, góður fengur
 haulm n. hálmur
 haunch n. mjöðm; læri (af skepnu)
@@ -237,7 +237,7 @@ hautboy n. e.k. lúður
 have s. hafa; eiga ([he had many children]); fá; þurfa; verða, vera neyddur til ([to]); skilja; ráðast á ([at]); [~ by heart] kunna utan að; [~ a care] varast, gæta sín; [he had him murdered] hann lét myrða hann; [I would not ~ it spoken about] vildi ekki láta tala um það; [I ~ to go] ég verð að fara; [you ~ but to turn round] þú þarft bara að snúa þér við; [you had better go at once] þú ættir heldur (þér væri betra) að fara undir eins; [you had best go home] þér ættuð helst að fara heim; [I had rather remain] ég vildi heldur vera kyrr; [to ~ it] bera sigur úr býtum; fá það, kenna á því; [he has no Greek] kann ekkert í grísku; orðar [as Plato has it]; [~ on] vera (klæddur) í; bera (vopn)
 haven n. höfn; hæli
 haversack n. nestispoki hermanna
-havoc n. eyðilegging, tjón, skaði ([make ~]); s. eyða ([~ the land])
+havoc n. eyðilegging, tjón, skaði ([wreak ~, cause ~]); s. eyða ([~ the land])
 haw s. segja [haw] ([hum and ~]); n. lítill garður (hjá húsi)
 haw-haw s. hlæja tröllslega
 hawk n. haukur, fálki; ræsking; s. veiða með haukum; selja, bjóða til sölu (með köllum); ræskja sig; [~ up] ræskja upp úr sér
@@ -245,16 +245,16 @@ hawker n. mangari, farandsali
 hawking n. fálkaveiðar
 hawse n. gat á skipsborði fyrir akkerisfestina ([~hole])
 hawser n. skipskaðall
-hawthorn n. hagþorn (tré)
+hawthorn n. hagþorn, hagþyrnir (tré)
 hay n. hey; [to make ~] heyja; [to make ~ while the sun shines] taka gæsina meðan hún gefst; s. heyja; gefa hey
 hay barn n. heyhlaða
-hayrick n. heystakkur
+hayrick n. (stór) heystakkur (utandyra)
 haystack n. heystakkur
 hazard n. tilviljun; hætta, áhætta; teningsspil, hættuspil; [at ~] upp á von og óvon; af handahófi; s. hætta (e-u); hætta á; eiga á hættu
 hazardous l. hættulegur, áhættumikill ([~ enterprise])
 haze n. móða, dimma; s. refsa með of erfiðri vinnu
 hazel n. hesliviður; l. ljósjarpur
-hazelnut n. hesliviðarhnot
+hazelnut n. heslihneta, hesliviðarhnot
 haziness n. móða, þoka, drungi; óskýrleiki
 hazy l. dimmur, þykkur (um loftið); þokukenndur, óskýr
 he fn. hann; [~ who] sá sem
@@ -264,11 +264,11 @@ headache n. höfuðverkur
 headachy l. með höfuðverk
 headboard n. höfðagafl
 headfast n. stafnfesti
-headdress n. höfuðbúningur
-headgear n. höfuðbúningur
+headdress n. höfuðbúningur, höfuðbúnaður
+headgear n. höfuðbúningur, höfuðbúnaður
 headiness n. framhleypni, einþykkni
 headland n. höfði
-headless l. höfuðlaus; foringjalaus, án leiðtoga
+headless l. höfuðlaus; foringjalaus, án leiðtoga; án skjás og lyklaborðs (um tölvu)
 headlong l. þverhníptur, brattur; hugsunarlaus, hvatvíslegur; ao. á höfuðið; snögglega
 headman n. forsprakki, forkólfur
 headmaster n. skólastjóri
@@ -276,7 +276,7 @@ headmistress n. skólastýra
 head money n. nefskattur
 headmost l. fremstur
 headpiece n. hjálmur; höfuðfat; gáfur; gáfumaður; höfðalag ([~ of a bed])
-headquarters nft. höfuðstöðvar
+headquarters nft. höfuðstöðvar, höfuðstöð, bækistöð
 headsail n. framsegl
 headship n. forysta, formennska, æðsta tign
 headsman n. aftökumaður, böðull

@@ -721,24 +721,24 @@ localize s. staðsetja, marka e-u stað
 locate s. staðsetja; setja; ákveða (e-u) stað; [~ oneself] setjast að
 located l. staðsettur; búsettur, búandi
 location n. setning, staða, lega; leiga
-locative l. staðar-; n. staðarfall
+locative l. staðar-; staðarfalls-, í staðarfalli; n. staðarfall
 loch n. stöðuvatn (í Skotlandi)
-lock n. lás, skrá; byssulás; gáttarstífla, flóðgátt; [under ~ and key] harðlæstur niður; (hár)lokkur, (ullar)lagður; s. læsa; [~ in/up] loka (byrgja) inni; lokast; [~ out] loka úti; gera verkbann
-lockage n. gáttarstífla; stíflugjald
+lock n. lás, skrá; byssulás; gáttarstífla, flóðgátt; [under ~ and key] harðlæstur niður; (hár)lokkur; (ullar)lagður; s. læsa; [~ in/up] loka (byrgja) inni; lokast; [~ out] loka úti; gera verkbann
+lockage n. gáttarstífla; skipastigi; gátt í skipastiga; stíflugjald; skipastigagjald
 locker n. skápur, hirsla, stokkur, hólf; föst kista (í skipi); forðakista
 lockout n. verkbann, vinnuteppa
 lockup n. lokun; fangelsi
-locked-jaw n. ginklofi, klums
-lock-jaw n. ginklofi, klums
-locket n. nisti
-locksmith n. lása- eða skráasmiður
-locomotion n. hreyfing (úr einum stað í annan)
-locomotive l. hreyfi- ([~ power]); [~ engine] eimreið á járnbraut
+locked jaw n. sjá %[lockjaw]%
+lockjaw n. ginklofi, stífkrampi, klums
+locket n. nisti, hálsnisti
+locksmith n. lásasmiður, skráasmiður, lyklasmiður
+locomotion n. hreyfing (úr einum stað í annan, milli staða)
+locomotive l. sem hreyfir, hreyfi- ([~ power]); eimreið
 locust n. engispretta
-locution n. talsháttur
+locution n. talsháttur, talsmáti; orðalag; orðatiltæki
 locutory n. talstofa, skrafstofa (í klaustri)
-lode n. málmæð; skurður
-lodestar n. leiðarstjarna, einkum pólstjarnan
+lode n. málmæð, málmsprunga (í bergi)
+lodestar n. leiðarstjarna; Pólstjarnan
 lodestone n. sjá %[loadstone]%
 lodge s. hýsa; setja; leggja; koma (e-u) fyrir; geyma; festa; skjóta; senda (skeyti, kúlur); dvelja, eiga heima; leggjast í leg (um gras); festast, verða fastur; n. lítið hús; skógarhús; kofi (indíána); dyravarðarhús; (frímúrara)stúka
 lodger n. leigjandi, leiguliði í húsi

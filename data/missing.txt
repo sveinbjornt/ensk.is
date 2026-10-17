@@ -186,6 +186,7 @@ dotted
 stuffing
 steamroll
 steamroller
+steamrolled
 crosshair
 wide-ranging
 determinacy
@@ -1423,7 +1424,6 @@ soufflé
 overpaid
 underpaid
 disaggregation
-
 spin-off
 acerbic
 off-kilter
@@ -4860,6 +4860,7 @@ allowed
 disallowed
 pre-existing
 essentialize
+essentialized
 medula
 straightlaced
 straight-laced
@@ -6842,5 +6843,31 @@ selector
 personalised
 rewatch
 epithelia
-entoderm
 entodermic
+houndskull
+greathearted
+greatheart
+polysemanticity
+telemetry (endurskoða)
+goose (endurskoða, sögn)
+uppity
+madcap (endurskoða, lýsingarorð)
+loupe
+misclassify
+misclassified
+sous vide
+bascinet (endurskoða)
+reinscribe
+insidiousness
+damaged
+streaking
+dimethylbenzene
+preheater
+deduplication
+deduplicate
+crosslink
+sissify
+barnyard
+obturator
+obturatory
+manila

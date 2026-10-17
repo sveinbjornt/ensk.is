@@ -3800,7 +3800,7 @@ glider n. svifdreki, sviffluga
 knickerbocker n. knésíðar pokabuxur
 pantalets nft. sjá %[pantalettes]%
 pantalettes nft. ökklasíðar undirbuxur
-weirdo n. furðufugl, skrýtin manneskja
+weirdo n. furðufugl, sérvitringur, skrýtin manneskja
 flawless l. gallalaus, óaðfinnanlegur, lýtalaus, fullkominn
 confetti n. skrautpappír, ræmur af (lituðum) skrautpappír
 postproduction n. eftirvinnsla, úrvinnsla, úrvinnslustig, eftirvinnslustig
@@ -7513,7 +7513,7 @@ secondment n. tímabundin tilfærsla í starfi; fyrsta undirtekt við tillögu
 ataxic l. óreglulegur, ósamhæfður, ósamstilltur; hreyfiglapa-
 drawstring n. tygill
 gamer n. tölvuleikjaspilari, tölvuleikjamaður
-gorse n. þyrnirunni af ættkvíslinni [Ulex]
+gorse n. þyrnirunni (af ættkvíslinni Ulex)
 pidgin n. blendingsmál
 truthiness n. sannlíki
 e.g. st. til dæmis (sks. á [exempli gratia] úr latínu)
@@ -12901,3 +12901,8 @@ postbox n. póstkassi, pósthólf
 blind alley n. blindgata
 breadcrumb n. brauðmoli
 deceiving l. blekkjandi, svíkjandi, táldragandi
+sporting house n. vændishús, hóruhús, pútnahús
+endoderm n. innlag
+entoderm n. sjá %[endoderm]%
+beleaguered l. sem setið er um; umkringdur; aðþrengdur
+bascinet n. hjálmur

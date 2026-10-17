@@ -1782,14 +1782,14 @@ congruous l. samkvæmur; samsvarandi, hentugur
 congruously ao. samkvæmt, í samræmi við ([with, to])
 conic l. keilumyndaður ([a ~ summit]), keilu-
 conical l. keilumyndaður ([a ~ summit]), keilu-
-conifer n. barrtré
+conifer n. barrtré, barrviður
 coniferous l. köngulberandi
 conjectural l. sem lýtur að (eða er grundvallaður á) getgátum
 conjecture n. tilgáta, getgáta, ágiskun; s. geta (e-s) til, giska á
 conjoin s. sameina, samtengja, sameinast
 conjoint l. sameinaður, sameiginlegur
 conjointly l. sameiginlega, í sameiningu
-conjugal l. hjúskaparlegur, hjúskapar- ([~ life])
+conjugal l. hjúskaparlegur, hjúskapar-, hjónabands- ([~ life])
 conjugation n. sagnbeyging ([verbs of the strong ~])
 conjunction n. samsetning; samtenging
 conjunctive l. samtengjanlegur; [~ mood] viðtengingarháttur
@@ -2686,7 +2686,7 @@ curtain n. tjald (um rúm eða fyrir glugga eða dyrum); gluggatjald; fortjald (
 curtsy n. knjábeyging; [to drop (make) a ~] beygja kné (til að sýna virðingu eða heilsa, nú aðeins haft um kvenfólk); s. [to drop a ~]
 curtsey n. sjá %[curtsy]%
 curvature n. bugða
-curve n. boglína; bugða; s. beygja, sveigja; beygjast
+curve n. boglína; bugða; kúrva; s. beygja, sveigja; beygjast
 curvett n. hopp, stökk; s. hoppa, stökkva (um hest)
 curvilinear l. boglínudreginn
 cushion n. sessa, hægindi; s. festa hægindi á; setja á hægindi; bæla niður í kyrrþey, stinga (e-u) undir stól

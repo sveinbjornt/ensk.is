@@ -1,4 +1,4 @@
-a gr. óákveðinn greinir ([a book] bók, [a man] maður); fs. á
+a gr. óákveðinn greinir ([a book] bók, [a man] maður); fs. á (í samsetningum, t.d. %[afoot]%)
 an gr. óákveðinn greinir ([an axe] öxi, [an animal] dýr)
 aback ao. aftur á bak; afsíðis; upp í vindinn; [be taken ~] verða bilt við, verða hissa
 abaft ao. í afturhluta skips; fs. fyrir aftan
@@ -8,11 +8,11 @@ abandonment n. yfirgefning; andvaraleysi; taumleysi; frekja
 abase s. láta síga, lækka; auðmýkja, niðurlægja
 abasement n. lítillækkun; auðmýkt, niðurlæging
 abash s. gera sneyptan, gera vandræðalegan
-abashment n. skammfylli, feimni
+abashment n. skammfylli, skömm, sneypa, feimni
 abate s. minnka; lækka; slá af (um verð); gera enda á, eyða; þverra, réna; lægja (um veður)
 abatement n. minnkun, rýrnun, rénun; afsláttur, niðurfærsla
 abatis n. virki úr felldum trjám
-abattis n. virki úr felldum trjám
+abattis n. sjá %[abatis]%
 abb n. ívaf, fyrirvaf
 abbacy n. ábótadæmi; ábótatign
 abbatial l. ábótalegur, ábóta-
@@ -20,62 +20,62 @@ abbess n. abbadís
 abbey n. klaustur; klausturkirkja
 abbot n. ábóti
 abbotship n. ábótatign
-abbreviate s. stytta; binda (í skrift), skammstafa
+abbreviate s. stytta; skammstafa; binda (í skrift)
 abbreviation n. stytting; skammstöfun
 abbreviature n. ágrip; skammstöfun
-abdicate s. segja af sér; afsala sér
-abdication n. afsölun; afsögn (embættis)
-abdomen n. kviður
+abdicate s. segja af sér; afsala sér (embætti, tign)
+abdication n. afsölun; afsögn (embættis, tignar)
+abdomen n. kviður, magi; kviðarhol
 abdominal l. kviðlegur, kvið- ([~ fin])
 abdominous l. kviðmikill, vambmikill
 abduce s. færa burt
 abduct s. ræna, nema á brott; flytja burt
 abduction n. brottnám, mannrán; fráleiðsla
-abductor n. ránsmaður, mannræningi
+abductor n. mannræningi, ránsmaður
 abeam ao. þvers, þversum
 abear s. þola, fella sig sig við ([she could not ~ that man])
 abearance n. hegðun ([good ~])
 abecedarian l. stafrófs-, stöfunar-, sem er í stafrófsröð; n. stöfunarnemandi; stöfunarkennari; fáfræðingur
 abed ao. í rúminu; rúmfastur ([he was ~ with gout])
 aberrance n. sjá %[aberrancy]%
-aberrancy n. afbrigðileiki, afhvarf, villa
+aberrancy n. afbrigðileiki, afbrigðilegheit; afhvarf, frávik, villa
 aberrant l. afbrigðilegur
-aberration n. afhvarf, villa, skekkja; afbrigði, afbrigðilegheit
-abet s. eggja, hvetja, æsa
-abetter n. hvatamaður; formælandi
+aberration n. afhvarf, villa, skekkja, frávik; afbrigði, afbrigðilegheit
+abet s. aðstoða, styðja; eggja, hvetja, æsa (til afbrots)
+abetter n. hvatamaður; vitorðsmaður; formælandi; stuðningsmaður
 abettor n. sjá %[abetter]%
-abetment n. eggjun
+abetment n. eggjun, hvatning; aðstoð, stuðningur
 abeyance n. bið, biðstaða; frestur; [be in ~] liggja í dái, liggja niðri; [fall into ~] leggjast (falla) í dá
-abhor s. hafa viðbjóð á
-abhorrence n. viðbjóður
-abhorrent l. fráhverfur, andstæður, viðbjóðslegur
-abidance n. dvöl; hlýðni
+abhor s. hafa viðbjóð á, hafa andstyggð á, hrylla við, bjóða við
+abhorrence n. viðbjóður, andstyggð
+abhorrent l. viðbjóðslegur, andstyggilegur, sem mann hryllir við ([it is ~ to him])
+abidance n. dvöl; bið; hlýðni
 abide s. vera; dvelja; standa við ([~ by one's word]); halda fast við; haldast, standast; þola; hlíta ([~ by the award of the umpire]); fella sig við, kunna við ([she could not ~ the country])
-abiding l. fastur, stöðugur; n. dvöl; [~ place] dvalarstaður
-abigail n. þjónustumey
-ability n. hæfileiki, geta; dugnaður; gáfur
-abject l. auðvirðilegur; fyrirlitlegur; [~ poverty] auðvirðileg fátækt; n. afhrak, úrþvætti
+abiding l. fastur, stöðugur, varanlegur; n. dvöl; [~ place] dvalarstaður
+abigail n. þerna, þjónustustúlka
+ability n. hæfileiki, hæfni; geta, máttur; dugnaður; gáfur ([a man of great ~])
+abject l. auðvirðilegur, fyrirlitlegur, ömurlegur; [~ poverty] auðvirðileg fátækt; n. afhrak, úrþvætti
 abjection n. auðvirðilegleiki, niðurlæging
 abjuration n. eiðsvarin afneitun
 abjure s. afneita með eiði ([~ a heresy])
-ablative n. sviptifall, staðarfall
+ablative n. sviftifall; l. sviftifalls-
 ablaze ao. í loga; l. logandi, alelda; [to set ~] kveikja í
-able l. fær; duglegur; [be ~] geta
+able l. fær; duglegur, dugandi; [be ~ to] geta, vera fær um
 able-bodied l. vinnufær, sterkur, hraustur
-ablution n. þvottur, hreinsun (líkamans)
-ably ao. kunnáttulega, af færni
+ablution n. þvottur, hreinsun (líkamans), laugun
+ably ao. kunnáttulega, kunnáttusamlega, af færni, af hæfni
 abnegate s. hafna, afneita
-abnegation n. höfnun, sjálfsafneitun
-abnegator n. afneitari
+abnegation n. höfnun, afneitun, sjálfsafneitun
+abnegator n. afneitari, hafnari
 abnormal l. afbrigðilegur, óvenjulegur, óeðlilegur, óvanalegur
 abnormity n. afbrigði; vanskapnaður
-abnormous l. óreglulegur, afbrigðilegur
-aboard ao. & fs. um borð í skipi, úti á skipi; um borð, út á skip, á skipsfjöl
-abode n. bústaður
+abnormous l. afbrigðilegur; óreglulegur
+aboard fs. um borð (í skipi); um borð, út á skip, á skipsfjöl; ao. um borð (í skipi)
+abode n. heimili; lögheimili; bústaður, dvalarstaður
 abolish s. afnema; eyða, útrýma
 abolishable l. afnemanlegur; eyðanlegur, útrýmanlegur
-abolishment n. afnám; eyðing, útrýming
-abolition n. eyðing; afnám
+abolishment n. sjá %[abolition]%
+abolition n. afnám; eyðing, útrýming
 abolitionist n. afnámssinni; formælandi þrælaverslunarafnáms, þrælahaldsandstæðingur
 abominable l. andstyggilegur
 abominate s. hafa andstyggð á
@@ -93,7 +93,7 @@ abrasion n. núningur; skeina, skráma
 abrasive l. núnings- ([~ action]); hranalegur ([~ behaviour])
 abreast ao. samhliða; [keep ~ with (of)] fylgjast með e-u
 abridge s. stytta, minnka, skerða; svipta ([of])
-abridgment n. stytting; ágrip
+abridgment n. sjá %[abridgement]%
 abridgement n. stytting; ágrip
 abroach ao. ástunginn (um tunnu); [set ~] stinga tunnu; útbreiða
 abroad ao. út; úti, að heiman; erlendis; [from ~] frá útlöndum
@@ -983,7 +983,7 @@ anemone n. anemóna (jurt)
 anent ao. & fs. andspænis; um, að því er snertir ([~ the sayings of philosophers])
 aneurism n. sjá %[aneurysm]%
 aneurismal l. sjá %[aneurysmal]%
-anew ao. að nýju
+anew ao. að nýju, upp á nýtt
 anfractuosity n. bugða, krókur; nft. kenjar, tiktúrur
 anfractuous l. krókóttur, hlykkjóttur
 angel n. engill
