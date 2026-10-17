@@ -113,7 +113,7 @@ async def search(
             if re.match(r"^[a-zA-Z]+$", q) and q.lower() not in KNOWN_MISSING_WORDS:
                 await _save_missing_word(q)
 
-        title = f'„{q}" - {PROJECT.NAME}'
+        title = f"„{q}“ - {PROJECT.NAME}"
     else:
         results = []
         exact = False
@@ -174,7 +174,7 @@ async def item(request: Request, w: str) -> Response:
         "item.html",
         {
             "request": request,
-            "title": f"{w} - {PROJECT.NAME}",
+            "title": f"„{w}“ á íslensku - {PROJECT.NAME}",
             "q": w,
             "results": html_results,
             "word": w,

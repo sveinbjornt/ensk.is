@@ -4745,7 +4745,7 @@ blackcurrant n. sólber
 cassis n. sólber; sólberjavín, sólberjalíkjör
 earplug n. eyrnatappi
 humourist n. sjá %[humorist]%
-cheddar n. cheddar-ostur (einnig ritað séddarostur); peningar (óforml.)
+cheddar n. cheddar-ostur (einnig ritað séddarostur); peningar (óforml. slangur)
 unwholesomeness n. óheilnæmni, óhollusta
 riverhead n. upptök ár
 seaport n. hafnarborg, sjávarhöfn, höfn við hafið, sjávarbær
@@ -4753,7 +4753,7 @@ changelessness n. breytingaleysi, óbreytileiki, stöðnun
 disproportionately ao. á ósamsvarandi hátt, í óeðlilegu hlutfalli, óhóflega
 proportionately ao. hlutfallslega, á samsvarandi hátt, í eðlilegu hlutfalli
 riddler n. gátumaður, þrautamaður
-snuff film n. myndbandsupptaka sem sýnir morð
+snuff film n. myndbandsupptaka sem sýnir morð, morðmynd
 Anthropocene n. mannöld
 statistical analysis n. tölfræðigreining, tölfræðileg greining
 marginalia nft. spássíugreinar, spássíuathugasemdir
@@ -12904,3 +12904,6 @@ endoderm n. innlag
 entoderm n. sjá %[endoderm]%
 beleaguered l. sem setið er um; umkringdur; aðþrengdur
 bascinet n. hjálmur
+sanitised l. sjá %[sanitized]%
+sanitise s. sjá %[sanitise]%
+lyssa n. hundaæði
