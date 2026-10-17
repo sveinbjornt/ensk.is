@@ -6,6 +6,7 @@ Test the response cache decorator used by the ensk.is routes
 import asyncio
 import os
 import sys
+from typing import Any
 
 from fastapi import Request
 from fastapi.testclient import TestClient
@@ -198,3 +199,66 @@ def test_unbounded_limit_cannot_blow_up_the_search_cache() -> None:
         assert len(r.content) < 2 * 1024 * 1024, "single response stayed bounded"
 
     assert search.cache.currsize <= search.cache.maxsize
+
+
+def test_unhashable_parameter_falls_back_to_uncached() -> None:
+    """An unhashable parameter must serve uncached, not raise.
+
+    hashkey() builds its tuple lazily, so the TypeError surfaces only when the
+    key is hashed; the guard has to force that itself.
+    """
+    calls = 0
+
+    @cache_response
+    async def endpoint(request: Request, q: Any) -> str:
+        nonlocal calls
+        calls += 1
+        return "served"
+
+    async def run() -> None:
+        assert await endpoint(request=_fake_request(), q=["a", "b"]) == "served"
+        assert await endpoint(request=_fake_request(), q={"a": 1}) == "served"
+
+    asyncio.run(run())
+
+    assert calls == 2
+    assert len(endpoint.cache) == 0, "unhashable calls must not be cached"
+
+
+def test_long_parameters_do_not_bloat_the_cache_key() -> None:
+    """Keys must be bounded, since handlers truncate only after keying.
+
+    A multi-kilobyte query would otherwise be retained verbatim in the key --
+    memory the response-size budget cannot see.
+    """
+    from routes.core import MAX_KEY_ARG_LENGTH, _response_cache_key
+
+    short = _response_cache_key((), {"q": "cat"})
+    huge = _response_cache_key((), {"q": "x" * 8000})
+
+    assert sum(len(str(p)) for p in huge) < 4 * MAX_KEY_ARG_LENGTH
+    assert "x" * 200 not in str(huge), "raw query must not survive in the key"
+    assert short != huge
+
+
+def test_distinct_long_parameters_stay_distinct() -> None:
+    """Digesting the key must not make different queries share a response."""
+    from routes.core import _response_cache_key
+
+    a = _response_cache_key((), {"q": "a" * 5000 + "ONE"})
+    b = _response_cache_key((), {"q": "a" * 5000 + "TWO"})
+    assert a != b
+    assert hash(a) != hash(b)
+
+
+def test_digest_cannot_collide_with_a_literal_string_argument() -> None:
+    """A caller passing a digest-shaped string must not hit a digested key."""
+    import hashlib
+
+    from routes.core import _response_cache_key
+
+    long_q = "z" * 500
+    digest = hashlib.sha256(long_q.encode()).hexdigest()
+    assert _response_cache_key((), {"q": long_q}) != _response_cache_key(
+        (), {"q": digest}
+    )
