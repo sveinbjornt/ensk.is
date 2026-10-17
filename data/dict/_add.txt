@@ -1088,7 +1088,6 @@ shyly ao. feimnislega, gætilega, fælnislega
 inswathe s. sveipa, hjúpa; sbr. %[enswathe]%
 encave s. innibyrgja; sjá %[incave]%
 timbal n. tromma; sjá einnig %[tymbal]%
-lockjaw n. stífkrampi
 tetanus n. stífkrampi
 impractical l. óhagkvæmur, óhentugur, óraunhæfur
 innovative l. frumlegur, uppfinningasamur, nýsköpunar-, nýbreytni-
@@ -12830,7 +12829,6 @@ hype n. hæp, æsingur, ýkjur, húllumhæ
 unpure l. sjá %[impure]%
 untranslatable l. óþýðanlegur
 eruct s. ropa
-eructation n. rop, það að ropa
 rote learning n. utanbókarlærdómur
 unthinkingly ao. hugsunarlaust, gáleysislega, í gáleysi, án hugsunar, án þess að hugsa
 dolourous l. sjá %[dolorous]%

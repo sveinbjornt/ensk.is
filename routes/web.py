@@ -94,7 +94,6 @@ async def _save_missing_word(word: str) -> None:
 
 
 @router.get("/search", include_in_schema=False)  # pyright: ignore[reportArgumentType]
-@cache_response(SEARCH_CACHE_BYTES)
 async def search(
     request: Request, q: str | None = "", limit: int | None = DEFAULT_SEARCH_LIMIT
 ) -> Response:
