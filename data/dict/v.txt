@@ -1,4 +1,4 @@
-vacancy n. starfshlé, iðjuleysi; bil, skarð ([fill up a ~]); eyða; autt (tómt) rúm; tómleiki; laust embætti ([~ of an office])
+vacancy n. laust embætti eða starf ([~ of an office]); starfshlé, iðjuleysi; bil, skarð ([fill up a ~]); eyða; autt (tómt) rúm; tómleiki
 vacant l. auður ([a ~ space]); ónotaður; tómur; laus ([a ~ office]); aðgerðarlaus; hugsunarlaus; sviplaus, ógreindarlegur ([a ~ face]); [become ~] losna (um embætti); [~ hours] tómstundir
 vacate s. fara frá, segja af sér (embætti); rýma ([~ a seat]); ónýta, ógilda; [be ~d] losna
 vacation n. frí, leyfi, orlof; ógilding; lausn (embættis); leyfi (frá dómstörfum eða bóknámi)
@@ -13,12 +13,12 @@ vacuity n. auðn, tómleiki; sljóleiki ([~ of mind])
 vacuous l. tómur, tómlegur; iðjuleysis- ([~ life])
 vacuum n. autt (lofttómt) rúm, lofttæmi, lofttóm; s. ryksuga (sjá %[vacuum cleaner]%)
 vade-mecum n. vasakver, vasabók
-vagabond l. reikandi; n. flakkari, förumaður, flækingur
-vagabondage n. flakk
+vagabond n. flakkari, flækingur, förumaður; l. reikandi
+vagabondage n. flakk, flækingslíf, förumennska
 vagabondize s. flakka
 vagarious l. fullur af firrum; reikandi
 vagary n. duttlungur, firra
-vagina n. leggöng
+vagina n. leggöng, skeið, píka
 vagrancy n. flakk; útúrdúr; óstöðugleiki ([~ of mind])
 vagrant l. flakkandi; n. flakkari, flækingur
 vague l. ónákvæmur, óákveðinn, óljós
@@ -225,14 +225,14 @@ versicoloured l. marglitur; litbreytilegur
 versification n. ljóðagerð
 versify s. færa í ljóð ([~ the Psalms]); yrkja
 version n. útgáfa; þýðing, útlegging
-verst n. rússneskt lengdarmál (rúmlega 1 km), röst
+verst n. röst, rússneskt lengdarmál (rúmlega 1 km)
 vertebra n. hryggjarliður
 vertebral l. hryggliðar-; með hryggjarliðum; [~ column] hryggur
 vertebrate n. hryggdýr
 vertex n. hvirfill
 vertical l. lóðréttur
 vertically ao. lóðrétt
-vertiginous l. sem hringsnýst; sem sundlar; svima-
+vertiginous l. sem hringsnýst; sundlandi, sem sundlar; svimandi, svima-
 vertigo n. svimi
 verve n. andagift, guðmóður
 very l. sannur; réttur; sjálfur; [for that ~ reason] beint af þeirri ástæðu; ao. mjög; allra-; lang- (með efsta stigi lýsingarorða)

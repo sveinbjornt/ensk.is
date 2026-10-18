@@ -12899,11 +12899,41 @@ postbox n. póstkassi, pósthólf
 blind alley n. blindgata
 breadcrumb n. brauðmoli
 deceiving l. blekkjandi, svíkjandi, táldragandi
-sporting house n. vændishús, hóruhús, pútnahús
+sporting house n. vændishús, hóruhús, gleðihús, pútnahús
 endoderm n. innlag
 entoderm n. sjá %[endoderm]%
-beleaguered l. sem setið er um; umkringdur; aðþrengdur
-bascinet n. hjálmur
+beleaguered l. umkringdur; aðþrengdur; umsetinn, sem setið er um, sem fæst við umsátur
+bascinet n. riddarahjálmur
 sanitised l. sjá %[sanitized]%
-sanitise s. sjá %[sanitise]%
+sanitise s. sjá %[sanitize]%
 lyssa n. hundaæði
+pathologic l. sjá %[pathological]%
+barnyard n. hlöðugerði, garður í kringum eða við hlöðu
+sissify s. gera kvenlegan, gera kveifarlegan, gera að aumingja (óforml.)
+hygienize s. gerhreinsa, sterilísera
+damaged l. skemmdur, skaddaður, skaðaður; meiddur
+insidiousness n. undirferli, sviksemi, slægð, andstyggileg bragðvísi
+illegitimate child n. óskilgetið barn
+outlawed l. sendur í útlegð, gerður útlægur; bannaður
+misclassify s. flokka rangt
+misclassified l. rangt flokkaður
+misclassification n. rangflokkun
+loupe n. lítið og öflugt stækkunargler
+Fury n. refsinorn (í grískri goðafræði)
+savoy n. blöðrukál, savojkál ([~ cabbage])
+Savoy n. Savoja (hérað í suðausturhluta Frakklands)
+Savoyard n. Savoji, maður frá Savoja; l. savojískur
+Indochina n. Indókína (skagi í Suðaustur-Asíu)
+French Indochina n. Franska Indókína (nýlendur Frakka í Suðaustur-Asíu, þ.e. Víetnam, Laos og Kambódía)
+Lake Victoria n. Viktoríuvatn (stórt stöðuvatn í Afríku)
+tosh n. kjaftæði, bull, vitleysa (óforml. slangur)
+heinously ao. viðbjóðslega, hræðilega
+incus n. steðji (í eyra)
+lumbus n. lend, mjöðm
+amah n. barnfóstra (í Austurlöndum fjær)
+cashbox n. peningakassi
+effloresce s. blómstra, blómga, blómgast
+public square n. torg
+deluded l. blekktur, haldinn ranghugmyndum
+hoi polloi nft. almúginn, plebbarnir, óbreytt fólk, almenningur (úr grísku)
+mirky l. sjá %[murky]%

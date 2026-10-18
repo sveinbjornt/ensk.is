@@ -4488,7 +4488,6 @@ gloomful
 abeyant
 mucky
 pace (endurskoða)
-mirky
 perkiness
 profit margin
 major (endurskoða)
@@ -4530,7 +4529,6 @@ exhalation (endurskoða)
 commissioning
 military commission
 delegating
-hoi polloi
 playscript
 word of honor
 helioscope (endurskoða)
@@ -4559,10 +4557,8 @@ anorectal
 unnamable
 flattered
 proselytizing
-deluded
 kempt
 neaten
-public square
 foursquare
 red-blooded
 all-important
@@ -4572,7 +4568,6 @@ opposite number
 head-to-head
 roadstead (endurskoða)
 degenerate (endurskoða, nafnorð)
-lyssa
 betise
 bodied
 kabbalistic
@@ -6775,7 +6770,6 @@ aglitter
 cernuous
 drooping
 nodding
-effloresce
 lecherous (endurskoða)
 lecherousness
 extortionary (endurskoða)
@@ -6786,12 +6780,10 @@ cul de sac
 bespeckle
 bespeckled
 cheeseflower
-cashbox
 honcho
 lightheadedness
 immodestly
 unhopeful
-amah
 frowning
 confusticate
 upended
@@ -6817,15 +6809,11 @@ monorepo
 beef (endurskoða)
 seever
 numpty
-lumbus
-incus
 tuitional (endurskoða)
-heinously
 lineally (endurskoða)
 inflectional morphology
 badge (endurskoða)
 pro forma
-tosh
 inaugurals
 pat-down
 accreditation (endurskoða)
@@ -6852,26 +6840,15 @@ telemetry (endurskoða)
 goose (endurskoða, sögn)
 uppity
 madcap (endurskoða, lýsingarorð)
-loupe
-misclassify
-misclassified
 sous vide
-bascinet (endurskoða)
 reinscribe
-insidiousness
-damaged
 streaking
 dimethylbenzene
 preheater
 deduplication
 deduplicate
 crosslink
-sissify
-barnyard
 obturator
 obturatory
 manila
-hygienize
-Fury
-Erinyes
-Eumenides
+morbid (endurskoða)
