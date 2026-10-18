@@ -31,7 +31,6 @@ confrontation (endurskoða)
 confrontational
 repo
 pivot (endurskoða)
-devastating
 give up
 collectible
 collectibles
@@ -46,7 +45,6 @@ briefing
 indie
 reinnervate, v.
 reinnervation, n.
-serrate s.
 shard (endurskoða)
 splatterdash n.
 cull (endurskoða)
@@ -84,7 +82,6 @@ pre-emptive (endurskoða)
 holograph (endurskoða)
 highlight
 instrumentation
-intel
 parabiosis
 invision
 licensing
@@ -100,7 +97,6 @@ entitled
 entitle (endurskoða)
 converter
 networking
-countywide
 micromanage
 micromanagement
 inductive
@@ -4595,7 +4591,6 @@ nobble
 nonfigurative
 food store
 securities industry
-sickening
 sickish
 tophus
 handlock
@@ -4622,7 +4617,6 @@ unfrequented
 femtometre
 femtometer
 homewrecker
-floundering
 cruciferous
 chiffchaff
 hypopharynx
@@ -4636,7 +4630,6 @@ ad hoc ao.
 post hoc
 crucially
 gamely
-Dauphin
 acculturation
 victualling
 tallitot
@@ -5370,7 +5363,6 @@ semitropic
 rigorousness
 rigourousness
 contrariness
-maundy
 rally (endurskoða)
 fry (endurskoða)
 musgrave
@@ -5378,24 +5370,19 @@ blower
 jackfruit
 inimicable
 bastardly
-sozzled
 slosh
-sloshed
 loaded
 localize (endurskoða)
-discase
-uncase
 habilitate
 primp
+primped
 tog
-denudate
 funnies
 world-class
 showtime
 sec
 indorsement
 rondel
-ileostomy
 articulatory
 introjection
 phyto-
@@ -5956,7 +5943,6 @@ refractoriness
 stoolpigeon
 stoolie
 summercater
-aper
 gabby
 exteriorization
 pigboat
@@ -6848,3 +6834,4 @@ depoliticized
 destined
 hopelessly
 projecting
+full-dress

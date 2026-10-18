@@ -113,7 +113,7 @@ async def search(
             if re.match(r"^[a-zA-Z]+$", q) and q.lower() not in KNOWN_MISSING_WORDS:
                 await _save_missing_word(q)
 
-        title = f"„{q}“ - {PROJECT.NAME}"
+        title = f"„{q}“ leitarniðurstöður - {PROJECT.NAME}"
     else:
         results = []
         exact = False
