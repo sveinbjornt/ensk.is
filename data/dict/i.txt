@@ -14,7 +14,7 @@ Icelander n. Íslendingur
 Icelandic l. íslenskur; n. íslenska, íslensk tunga
 ichthyology n. fiskafræði
 ichthyologist n. fiskafræðingur
-icicle n. frostdingull, grýlukerti
+icicle n. grýlukerti, frostdingull
 iciness n. ískuldi
 iconoclast n. myndabrjótur, helgimyndabrjótur
 icterus n. gula
@@ -614,7 +614,7 @@ indecency n. ósómi; skortur á velsæmi; ósiðlæti
 indecent l. ósæmilegur; ósiðsamur, ósiðlátur
 indecision n. efablendni, úrræðaleysi
 indecisive l. efablandinn, ráðalaus; sem ekki gerir út um; óákveðinn
-indeclinable l. óbeyjanlegur; n. óbeygjanlegt orð
+indeclinable l. óbeygjanlegur; n. óbeygjanlegt orð
 indecorous l. ósæmilegur
 indecorum n. ósómi
 indeed ao. í sannleika, að vísu, raunar; svo
@@ -934,7 +934,7 @@ initiatory l. byrjunar-; [~ step] fyrsta stig
 inject s. hleypa (spýta, dæla t.d. vatni úr pípu) inn; [the eyes were ~ed] blóðstokkin
 injection n. innspýting
 injudicious l. óvitur; óviturlegur, óskynsamlegur, óskynsamur; með slæma dómgreind
-injunction n. áminning ([~s of secrecy]); skipun
+injunction n. áminning ([~s of secrecy]); bann; skipun
 injure s. skaða, meiða, skemma; skerða, spilla; styggja; móðga, gera á hluta (e-s)
 injurious l. skaðlegur; ranglátur, móðgandi, ærumeiðandi
 injury n. mein, skaði; meiðsli; ranglæti; móðgun
