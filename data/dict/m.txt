@@ -357,7 +357,7 @@ massage n. nudd; s. nudda (liði eða vöðva)
 massagist n. nuddari, nuddlæknir
 massiness n. þykkleiki; þéttleiki; þungi
 massiveness n. þykkleiki; þéttleiki; þungi, gífurleiki
-massive l. þykkur; þéttur, óholur; þungur; mikill, gífurlegur
+massive l. þykkur; þéttur, þungur; mikill, gífurlegur; massífur; óholur
 massy l. stór, þungur; mikill
 mast n. mastur, siglutré; [seaman before the ~] óbreyttur sjómaður; lóðrétt stöng; akarn (af eikitrjám eða beykitrjám); s. setja siglutré í, reisa mastur
 master n. húsbóndi; eigandi; meistari; snillingur; kennari; umsjónarmaður, yfirmaður; skipstjóri (á kaupskipum); [be one's own ~] vera sinn eigin herra; [~ of] ráðandi yfir; [be ~ of oneself] ráða (stjórna) sér; [be a ~ of a language] kunna mál til fullnustu; [Master of Arts/Science] meistaragráða (próftitill við háskóla); [~ carpenter] smíðameistari; [Master of Ceremonies] siðameistari; [old ~s] einkum um listmálara á 13.-17. öld; s. ná á sitt vald, leggja undir sig; stjórna ([the estate is not well ~ed]); ráða við; skilja, kunna ([the meaning of])
@@ -983,9 +983,9 @@ misspend s. sóa, eyða, verja illa
 misstate s. rangherma
 misstatement n. ranghermi, mishermi
 mist n. mistur, þoka; úði; s. hylja í þoku; hyljast þoku, verða dimmur
-mistake s. fara villt; villast; misskilja; [I mistook him for another] ég hélt, að hann væri annar, ég villtist á honum og öðrum; [to be ~n] skjátlast, fara villt; missýnast, yfirsjást; n. villa, misgáningur, misskilningur ([by ~])
-mistaken l. misskilinn; rangur
-mistakenly ao. ranglega, skakkt
+mistake s. fara villt; villast; misskilja; [I mistook him for another] ég hélt að hann væri annar, ég villtist á honum og öðrum; [to be ~n] skjátlast, fara villt; missýnast, yfirsjást; n. villa, misgáningur, misskilningur ([by ~])
+mistaken l. misskilinn; rangur; hefur rangt fyrir sér ([he is ~])
+mistakenly ao. ranglega, fyrir mistök, skakkt
 mister n. herra; sbr. %[master]%; s. kalla e-n herra
 misterm s. rangnefna
 mistime s. framkvæma á röngum tíma; vanrækja hinn rétta tíma

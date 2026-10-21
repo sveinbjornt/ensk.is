@@ -143,7 +143,7 @@ abstractedness n. leiðsla
 abstraction n. þjófnaður; hugmynd; athugaleysi; leiðsla
 abstruse l. torskilinn, torskiljanlegur, torræðinn, tyrfinn; leyndur
 abstruseness n. torskiljanleiki, torræðni, tyrfni
-absurd l. fjarstæður; hlægilegur; absúrd
+absurd l. fjarstæður, fjarstæðukenndur; hlægilegur; absúrd
 absurdity n. fjarstæða, fásinna, heimska
 absurdness n. fjarstæða, fásinna, heimska
 abundance n. gnægð, gnótt; allsnægtir
@@ -1272,7 +1272,7 @@ apropos l. hentugur; ao. eftir á að hyggja; fs. [~ of] að því er snertir e-
 apt l. hæfur; hentugur; vel viðeigandi ([an ~ reply]); hneigður; [I am ~ to] mér er hætt við að, ég er fljótur til að ([~ to forgive])
 aptness n. hæfileiki (til e-s [for]); tilhneiging
 aptitude n. hæfileiki (til e-s [for]); tilhneiging
-aquamarine n. blágrænn gimsteinn (beryl); l. blágrænn
+aquamarine l. blágrænn; n. blágrænn gimsteinn (sjá %[beryl]%)
 aquarium n. fiskabúr, vatnsker (sem geymir lifandi fiska); sædýrasafn
 aquatic l. vatns-; sem vex eða lifir í vatni ([~ creatures]); n. vatnsplanta
 aqueduct n. vatnsleiðsla, vatnsveita, vatnsveitustokkur, vatnsrenna
@@ -1304,7 +1304,7 @@ archness n. glettni
 arch- fsk. erki- (sjá t.d. %[archbishop]%, %[archangel]%, %[archenemy]%)
 archangel n. erkiengill
 archbishop n. erkibiskup
-archbishopric n. erkibiskupsdæmi
+archbishopric n. sjá %[archdiocese]%
 archdiocese n. erkibiskupsdæmi
 archduchess n. erkihertogafrú
 archduchy n. erkihertogadæmi
@@ -1313,14 +1313,14 @@ archaeologic l. fornleifafræði-, fornleifafræðilegur; fornfræði-
 archaeological l. fornleifafræði-, fornleifafræðilegur; fornfræði-
 archaeologist n. fornleifafræðingur; fornfræðingur
 archaeology n. fornleifafræði; fornfræði
-archaism n. fornyrði
+archaism n. fornyrði, forneskjulegt orðafar
 archaistic l. fornlegur
-archer n. bogmaður, bogamaður
+archer n. bogamaður, bogmaður, bogaskytta, bogfimimaður
 archery n. bogfimi
 archetype n. frummynd, frumgerð, erkitýpa
 archiepiscopal l. erkibiskupslegur
 archipelago n. eyjaklasi, eyjahaf
-architect n. byggingameistari, arkítekt, húsameistari
+architect n. arkítekt, húsameistari, byggingameistari
 architectonic l. sem lýtur að húsagerðarlist, arkítektúrs-
 architecture n. byggingarlist, húsagerðarlist, arkítektúr
 archives nft. skjalasafn, skjöl, arkíf
@@ -1442,7 +1442,7 @@ ashlar n. höggvið (teningsmyndað) grjót
 ashore ao. á land; á landi; [to run (a ship) ~] sigla (skipi) upp á grynningar, stranda
 ashy l. ösku-; öskugur; öskugrár; fölur
 Asia n. Asía, austurálfa
-Asiatic l. asíulegur, asískur, austurálfu-
+Asiatic l. asískur, asíulegur, Austurálfu-, frá Austurálfu
 aside ao. til hliðar; afsíðis; í burtu; [lay/set ~] sleppa e-u
 asinine l. asna-, asnalegur; heimskur
 ask s. spyrja ([~ him, ~ of a person]); biðja (um [for]); heimta ([it ~s for attention]); bjóða ([~ him to dinner]); [~ him a favour, ~ a favour of a person] biðja e-n um greiða; [~ about] spyrja um; [~ after one] s. spyrja eftir e-m

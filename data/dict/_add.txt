@@ -1454,7 +1454,7 @@ pimp n. melludólgur, hórmangari; s. selja (vændi); koma á framfæri (óforml
 lymph node n. eitill
 ecumenical l. sjá %[oecumenical]%
 corpus n. búkur, bolur; málheild
-habeas corpus n. (lat.) réttur handtekins manns til að vera leiddur fyrir dómara án tafar
+habeas corpus n. réttur handtekins manns til að vera leiddur fyrir dómara án tafar (úr latínu)
 arquebus n. e.k. gamaldags byssa (sjá einnig %[harquebus]%)
 environmental l. umhverfis-; sjá %[environment]%
 hydroelectric l. vatnsafls-, vatnsorku-; [hydroelectric power plant] vatnsaflsvirkjun, vatnsorkuver
@@ -1551,7 +1551,7 @@ South American l. suðuramerískur; n. Suður-Ameríkani, Suður-Ameríkumaður
 Oceania n. Eyjaálfa (heimsálfa sem nær yfir Ástralíu og nærliggjandi eyjar)
 telegraphy n. símritun
 telegrapher n. símritari, símaþjónn
-Asian l. asískur, austurálfu-, frá austurálfu; n. Asíumaður, Asíubúi, austurálfumaður
+Asian l. asískur, Austurálfu-, frá Austurálfu; n. Asíumaður, Asíubúi, Austurálfumaður
 Oceanian l. Eyjaálfu-, frá Eyjaálfu; n. Eyjaálfumaður
 Polynesia n. Pólýnesía (eyjaklasi í Kyrrahafi)
 Polynesian l. pólýnesískur
@@ -2065,7 +2065,7 @@ brainwash s. heilaþvo
 brainwashed l. heilaþveginn
 brainwashing n. heilaþvottur
 snobbery n. snobb, uppskafningsháttur, broddborgaraskapur, mont
-sine qua non l. (lat.) nauðsynlegur, án hvers ekki; n. frumskilyrði, ófrávíkjanlegt skilyrði
+sine qua non l. nauðsynlegur, án hvers ekki (úr latínu); n. frumskilyrði, ófrávíkjanlegt skilyrði
 overpowering l. yfirþyrmandi
 doorknob n. hurðarhúnn
 firearm n. skotvopn
@@ -3391,7 +3391,7 @@ pigmentation n. litun
 conspiracist n. samsærismaður, samsæriskenningamaður
 conspiracy theory n. samsæriskenning
 conspiracy theorist n. samsæriskenningamaður
-oligopoly n. fákeppni; fákeppnismarkaður, fámennismarkaður
+oligopoly n. fákeppni, fáræði; fákeppnismarkaður, fámennismarkaður
 oligopolistic l. fákeppnis-
 sunspot n. sólblettur
 monetarism n. peningamagnshyggja
@@ -7744,16 +7744,16 @@ Omani l. ómanskur; n. Ómani
 Rwandan l. rúandskur; n. Rúandamaður
 Senegalese l. senegalskur; n. Senegali
 Ugandan l. úgandskur; n. Úgandamaður
-Tunisian l. túniskur; n. Túnisi, Túnismaður
-Zimbabwean l. simbabveskur; n. Simbabvemaður
-Sri Lankan l. srílankskur; n. Srí Lanka-maður
-Surinamese l. súrínamskur; n. Súrínami
+Tunisian l. túniskur, frá Túnis; n. Túnisi, Túnismaður
+Zimbabwean l. simbabveskur, frá Simbabve; n. Simbabvemaður
+Sri Lankan l. srílankskur, frá Sri Lanka; n. Srí Lanka-maður
+Surinamese l. súrínamskur, frá Súrínam; n. Súrínami
 Tajikistani l. tadsískur, frá Tadsíkistan; n. Tadsíki
 Tajik n. Tadsíki
-Timorese l. tímorskur; n. Tímori
-Bahamian l. bahameyskur; n. Bahameyingur
-Bahraini l. bareinskur; n. Bareini
-Belizean l. belískur; n. Belísi, manneskja frá Belís
+Timorese l. tímorskur, frá Timor; n. Tímori
+Bahamian l. bahameyskur, frá Bahama-eyjum; n. Bahameyingur
+Bahraini l. bareinskur, frá Barein; n. Bareini
+Belizean l. belískur, frá Belís; n. Belísi, manneskja frá Belís
 Bermudan n. Bermúdamaður; l. frá Bermúda (eyju í Karíbahafi)
 asymptote n. aðfella, ósnertill
 laparoscopy n. kviðarholsspeglun
@@ -11077,7 +11077,7 @@ bunghole n. rassgat (óforml.); sponsgat
 parsec n. parsek (lengdareining í stjörnufræði, u.þ.b. 3,26 ljósár)
 harpooneer n. sjá %[harpooner]%
 buttfuck n. rassríðing, endaþarmsmök (óforml.); s. ríða í rassgat, eiga endaþarmsmök við (óforml.)
-demasculinize s. gelda, vana
+demasculinize s. gelda, vana; gera ókarlmannlegan
 demasculinise s. sjá %[demasculinize]%
 bioplastic n. lífrænt plast
 tainted l. blettaður, óhreinkaður; spilltur; skemmdur; svívirtur
@@ -12970,7 +12970,7 @@ AD sks. eftir Krist (úr latínu, [Anno Domini])
 BC sks. fyrir Krist ([Before Christ])
 CE sks. eftir Krist ([Common Era], notað í stað [AD])
 BCE sks. fyrir Krist ([Before Common Era], notað í stað [BC])
-cheers uh. skál!
+cheers uh. skál!; takk!
 chirrup n. tíst, fuglasöngur
 aqua- fsk. vatns- (sjá t.d. %[aquaponics]%, %[aquamarine]%)
 chiton n. serkur (í Grikklandi til forna)
@@ -12984,7 +12984,7 @@ devastating l. gjöreyðandi ([a ~ blow]); hrikalegur; átakanlegur
 intel n. stytt. á %[intelligence]%
 countywide ao. um allan hreppinn, um alla sýsluna
 sickening l. ógeðslegur, viðbjóðslegur; klígjandi, ógleðisvaldandi
-floundering l. að veltast um, að brjótast um ([the pigs were ~ in the mud])
+floundering l. veltandi um, að veltast um, að brjótast um ([the pigs were ~ in the mud])
 dauphin n. elsti sonur Frakkakonungs, erfingi frönsku krúnunnar
 aper n. hermikráka, eftirherma, e-r sem apar eftir (e-u)
 discase s. afklæðast, fara úr fötunum; afklæða, klæða úr fötunum
@@ -12993,6 +12993,40 @@ eye socket n. augnatóft, augntóft
 maundy n. ölmusa á skírdag; fótaþvottur á skírdag; veisla (forn.)
 sloshed l. pissfullur, blindfullur, mjög ölvaður, sauðdrukkinn (óforml.)
 sozzled l. pissfullur, blindfullur, mjög ölvaður, sauðdrukkinn (óforml.); blautur
+blotto l. pissfullur, blindfullur, dauðadrukkinn (óforml.)
+plastered l. pissfullur, blindfullur, mjög ölvaður, dauðadrukkinn (óforml.)
 denudate s. sjá %[denude]%
 ileostomy n. dausgarnarraufun
-sozzle s. drekka áfengi, verða fullur, detta í það; þvo með skvettum
+sozzle s. drekka áfengi, verða fullur, detta í það (óforml.); þvo með skvettum
+bloodiness n. það að vera blóðugur; grimmd; blóðsúthelling (sjá %[bloody]%)
+soused l. súrsaður, settur í saltlög, í saltlegi; blindfullur, mjög ölvaður, vel í glasi (óforml.)
+Jungian l. jungískur, er varðar sálarfræði Carl Jung (1875–1961)
+aquatic animal n. vatnadýr, sædýr
+blind drunk l. blindfullur
+pipe dream n. vímudraumur, pípudraumur, óraunsær draumur, óraunsæ hugsjón (í kjölfar vímuefnaneyslu)
+uncheerfulness n. depurð, gleðileysi, skortur á glaðværð
+impishness n. púkaskapur
+archetypical l. erkitýpu-, frummyndar-, frumgerðar-; dæmigerður
+masterfulness n. meistaraleiki, mikil hæfni, umfangsmikil geta; ráðríkni, ráðríki
+niggardness n. sjá %[niggardliness]%
+dust-covered l. þakinn ryki, rykugur
+fair-minded l. sanngjarn, óhlutdrægur
+fair-mindedness n. sanngirni, óhlutdrægni
+hopelessly ao. vonleysislega, án vonar
+nonviolent l. friðsamlegur, ekki ofbeldisfullur
+calumniation n. sjá %[calumny]%
+traducement n. ófræging, löstun, rógburður
+hatchet job n. árás í rituðu máli, mannorðsmorð, það að sverta mannorð e-s í skrifum (óforml.)
+obscureness n. sjá %[obscurity]%
+unlogical l. sjá %[illogical]%
+footprints nft. fótaför
+footmark nft. fótaför
+Brythonic l. brýþonskur; n. brýþonsk tungumál
+rudderless l. stýrislaus
+introuvable l. ófinnanlegur
+ill-use s. fara illa með, misþyrma
+disavowed l. afneitaður, hafnaður
+geolocation n. hnattræn staðsetning
+dissociated l. klofinn, skilinn frá (e-u [from])
+staggering l. sláandi; gífurlegur, svakalegur
+staggeringly ao. sláandi, óhemjulega
