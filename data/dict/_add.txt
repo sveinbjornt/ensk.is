@@ -770,7 +770,7 @@ Gabonese l. gabonskur; n. Gaboni
 Gambia n. Gambía
 Gambian l. gambískur; n. Gambi, Gambíumaður
 Georgia n. Georgía (ríki í Kákasusfjöllum); Georgía (fylki í Bandaríkjunum)
-Georgian l. georgískur (frá landinu Georgíu); georgískur (frá fylkinu í Bandaríkjunum); georgískur (arkítektúr í Bretlandi á 18. öld og fyrri hluta 19. aldar, kennt við konunga þess tíma); n. Georgíumaður; georgíska (tungumál)
+Georgian l. georgískur (frá landinu Georgíu); georgískur (frá fylkinu í Bandaríkjunum); georgískur (arkítektúr í Bretlandi á 18. öld og fyrri hluta 19. aldar, kennt við konunga þess tíma); n. Georgíumaður, Georgíubúi; georgíska (tungumál)
 Germany n. Þýskaland
 Ghana n. Gana
 Ghanaian l. ganverskur; n. Ganverji
@@ -13046,3 +13046,11 @@ unleash s. losa ól af; leysa úr læðingi, sleppa lausum
 Prague n. Prag (höfuðborg Tékklands)
 Madrid n. Madríd (höfuðborg Spánar)
 leery l. tortrygginn
+Chisinau n. Kisínev (höfuðborg Moldóvu)
+Bucharest n. Búkarest (höfuðborg Rúmeníu)
+Proto-Germanic n. frumgermanska (tungumál); l. frumgermanskur
+police detective n. rannsóknarlögreglumaður
+private detective n. einkaspæjari
+bastille n. fangelsi (úr frönsku)
+Bastille n. Bastillan (fangelsi í París)
+Bastille Day, n. Bastilludagurinn (þjóðhátíðardagur Frakklands, þann 14. júlí)

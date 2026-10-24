@@ -683,7 +683,7 @@ detain s. halda (e-m) eftir; tefja, teppa; halda í varðhaldi
 detainer n. ólöglegt eignarhald; (varð)hald
 detect s. uppgötva; komast fyrir (e-ð); standa (e-n) að (e-u)
 detection n. uppgötvun, fundur
-detective l. uppgötvunar- ([~ police]); n. rannsóknarlögreglumaður; [private ~] einkaspæjari
+detective l. uppgötvunar-; n. rannsóknarlögreglumaður ([police ~]); [private ~] einkaspæjari
 detector n. uppgötvari ([~ of impostures]); nemi ([fire ~, motion ~])
 detention n. kyrrsetning; hald; töf ([in case of ~])
 deter s. hræða, fæla (frá [from])
