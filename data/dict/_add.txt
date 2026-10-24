@@ -1588,7 +1588,7 @@ narcissism n. sjálfsást, sjálfsdýrkun, narsissismi
 narcissistic l. sjálfselskandi, sjálfsdýrkandi, narsissískur, narsissistískur
 narcissist n. narsissisti, e-r sem virkilega elskar eða dýrkar sjálfan sig
 personality disorder n. persónuleikaröskun
-Athens n. Aþena (borg í Grikklandi)
+Athens n. Aþena (höfuðborg Grikklands); Aþena (grískt borgríki til forna)
 Athenian l. aþenskur; n. Aþeningur
 tutorial l. kennslu-, kennara-; n. kennsluefni, námsefni, leiðbeiningar; kennslustund
 meds nft. stytt. á %[medicine]% (ft.)
@@ -2121,7 +2121,7 @@ radioactive l. geislavirkur
 radioactivity n. geislavirkni
 industrialization n. iðnvæðing
 industrialize s. iðnvæða
-Copenhagen n. Kaupmannahöfn
+Copenhagen n. Kaupmannahöfn (höfuðborg Danmerkur)
 schoolchild n. skólabarn
 Valhalla n. Valhöll
 doughnut n. kleinuhringur
@@ -3025,7 +3025,7 @@ malnourishment n. vannæring, næringarskortur
 malnourished l. vannærður
 candlelit l. kertalýstur, lýstur með kertum
 Canberra n. Kanberra (höfuðborg Ástralíu)
-Paris n. París (höfuðborg Frakklands); grísk goðsagnapersóna
+Paris n. París (höfuðborg Frakklands); París (grísk goðsagnapersóna)
 lampshade n. lampaskermur
 defeated l. sigraður
 undefeated l. ósigraður
@@ -5512,9 +5512,9 @@ matrices nft. fylki (sjá %[matrix]%)
 Corinth n. Korinta (borg í Grikklandi)
 Corinthian l. korintískur; í Korintustíl (forngrískur byggingarstíll); n. Korintumaður
 Corinthians nft. Korintubréf Páls postula í Nýja Testamentinu; Korintubúar
-Berlin n. Berlín (borg í Þýskalandi)
+Berlin n. Berlín (höfuðborg Þýskalands)
 Berliner n. Berlínarbúi
-Vienna n. Vínarborg, Vín
+Vienna n. Vínarborg, Vín (höfuðborg Austurríkis)
 Viennese l. frá Vín, Vínar-; nft. Vínarbúar
 Corsica n. Korsíka
 Corsican l. korsíkanskur; n. korsíska; Korsíkumaður, Korsíkani
@@ -8641,7 +8641,7 @@ agedness n. elli, öldrun
 slaw n. sjá %[coleslaw]%
 Ivory Coast n. Fílabeinsströndin
 Saint Lucia n. Sankti Lúsía (eyríki í Karíbahafi)
-Punic Wars nft. púnversku stríðin (stríð milli Rómar og Karþagó í fornöld)
+Punic Wars nft. púnversku stríðin (þrjú stríð Rómar og Karþagó í fornöld)
 halal n. halal-slátrun (slátrunaraðferð múslíma)
 preverbal l. á undan sögn (í málfræði); á undan máltökuskeiði (barns)
 stigmatise s. sjá %[stigmatize]%
@@ -13020,13 +13020,29 @@ hatchet job n. árás í rituðu máli, mannorðsmorð, það að sverta mannor�
 obscureness n. sjá %[obscurity]%
 unlogical l. sjá %[illogical]%
 footprints nft. fótaför
-footmark nft. fótaför
+footmark n. fótspor, fótafar
 Brythonic l. brýþonskur; n. brýþonsk tungumál
-rudderless l. stýrislaus
-introuvable l. ófinnanlegur
+rudderless l. stýrislaus, án stýris; stefnulaus, áttalaus
+introuvable l. ófinnanlegur (úr frönsku)
 ill-use s. fara illa með, misþyrma
 disavowed l. afneitaður, hafnaður
 geolocation n. hnattræn staðsetning
 dissociated l. klofinn, skilinn frá (e-u [from])
 staggering l. sláandi; gífurlegur, svakalegur
 staggeringly ao. sláandi, óhemjulega
+Transylvania n. Transilvanía (landsvæði í Rúmeníu)
+Euripides n. Evrípídes (forngrískt harmleikjaskáld)
+Euripidean l. Evrípídesar- (sjá %[Euripides]%)
+dioptra n. sjá %[diopter]%
+Sophocles n. Sófókles (forngrískt harmleikjaskáld)
+Lisbon n. Lissabon (höfuðborg Portúgals)
+Roman numerals nft. rómverskir tölustafir
+Roman Empire n. Rómarveldi
+stabbed l. stunginn
+Orwellian l. orwellískur, í anda rithöfundarins George Orwell; eftirlitsríkis-
+experimentally ao. með tilraunum, á tilraunakenndan hátt
+Elizabethan l. frá tíma Elísabetar I Englandsdrottningar (1533–1603)
+unleash s. losa ól af; leysa úr læðingi, sleppa lausum
+Prague n. Prag (höfuðborg Tékklands)
+Madrid n. Madríd (höfuðborg Spánar)
+leery l. tortrygginn
