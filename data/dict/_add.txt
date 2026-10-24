@@ -3004,9 +3004,9 @@ idealistic l. hugsjónalegur, hugsjóna-; hugsæis-, hughyggju-; óraunhæfur
 salon n. (stór) stofa, gestastofa; gallerí; snyrtistofa; [hair ~] hárgreiðslustofa; tískuverslun
 antireligious l. andtrúarlegur, gegn eða á móti trúarbrögðum
 perceptual l. skynjunar-, eftirtektar-, varurðar-
-serendipity n. slembilukka, hvalreki
+serendipity n. slembilukka, hvalreki, óvænt happ
 serendipitous l. heppilegur, lánsamur (sökum slembni)
-serendipitously ao. af einskærri slembilukku, af lánsemi einni
+serendipitously ao. af einskærri slembilukku, af lánsemi einni, heppilega nokk
 impostor syndrome n. loddaralíðan
 callousness n. harðúð, kaldlyndi, tilfinningaleysi (sjá %[callous]%)
 striptease n. nektardans, strípidans
@@ -13027,9 +13027,10 @@ introuvable l. ófinnanlegur (úr frönsku)
 ill-use s. fara illa með, misþyrma
 disavowed l. afneitaður, hafnaður
 geolocation n. hnattræn staðsetning
+geolocate n. staðsetja á hnettinum
 dissociated l. klofinn, skilinn frá (e-u [from])
-staggering l. sláandi; gífurlegur, svakalegur
-staggeringly ao. sláandi, óhemjulega
+staggering l. sláandi; gífurlegur, svakalegur ([a ~ amount of wealth])
+staggeringly ao. sláandi, óhemjulega ([~ brilliant, ~ harmful])
 Transylvania n. Transilvanía (landsvæði í Rúmeníu)
 Euripides n. Evrípídes (forngrískt harmleikjaskáld)
 Euripidean l. Evrípídesar- (sjá %[Euripides]%)
@@ -13037,7 +13038,7 @@ dioptra n. sjá %[diopter]%
 Sophocles n. Sófókles (forngrískt harmleikjaskáld)
 Lisbon n. Lissabon (höfuðborg Portúgals)
 Roman numerals nft. rómverskir tölustafir
-Roman Empire n. Rómarveldi
+Roman Empire n. Rómaveldi
 stabbed l. stunginn
 Orwellian l. orwellískur, í anda rithöfundarins George Orwell; eftirlitsríkis-
 experimentally ao. með tilraunum, á tilraunakenndan hátt
@@ -13054,3 +13055,6 @@ private detective n. einkaspæjari
 bastille n. fangelsi (úr frönsku)
 Bastille n. Bastillan (fangelsi í París)
 Bastille Day, n. Bastilludagurinn (þjóðhátíðardagur Frakklands, þann 14. júlí)
+obfuscatory l. myrkvandi, sem felur eða hylur; flækjandi, ruglandi
+longstanding l. langvarandi
+uncertainness n. sjá %[uncertainty]%
