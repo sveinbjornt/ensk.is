@@ -253,7 +253,7 @@ germ n. sýkill, baktería; frjóangi; s. skjóta frjóöngum; kvikna, lifna
 germane l. náskyldur, nátengdur
 German l. þýskur; n. Þjóðverji; þýska
 Germanic l. germanskur; n. germönsk tungumál ([~ languages])
-germanism n. þýskt máleðli; þýskur hugsunarháttur; meðhald með Þjóðverjum
+Germanism n. þýskt máleðli; þýskur hugsunarháttur; meðhald með Þjóðverjum
 germinate s. skjóta frjóöngum; geta af sér, framleiða
 gestation n. meðgöngutími ([period of ~])
 gesticulate s. baða út höndum og hreyfa líkamann; pata
@@ -280,7 +280,7 @@ gibbous l. bungumyndaður; [~ back] herðakistill, kryppa
 gibe s. spotta, hæða; sneiða; n. spott, háð, skens
 giber n. háðfugl
 gibing l. spottandi, hæðinn
-gibly ao. í háði
+gibingly ao. í háði
 giblets nft. innyfli (lifur, fóarn o.fl. úr gæs)
 giddily ao. í eða með svima
 giddiness n. svimi; staðfestuleysi, léttúð

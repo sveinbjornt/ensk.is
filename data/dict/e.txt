@@ -346,7 +346,7 @@ embezzler n. fjárdráttarmaður
 embitter s. gera beiskan, gera bitran; gera graman; gera (e-m e-ð) þungbært
 emblaze s. uppljóma; skreyta, prýða (með skjaldmerkjamyndun)
 emblazon s. prýða með skjaldmerkjamyndum; víðfrægja
-emblazery n. skjaldmerkjamyndir; málskrúð; litskrúð
+emblazonry n. skjaldmerkjamyndir; málskrúð; litskrúð
 emblem n. líkingarmynd; tákn, ímynd
 emblematic l. líkingarfullur; sem á að þýða (með [of])
 emblematical l. líkingarfullur; sem á að þýða (með [of])
@@ -919,9 +919,9 @@ etymological l. sem lýtur að uppruna og afleiðslu orða, orðsifja-
 etymologist n. orðsifjafræðingur, orðmyndunarfræðingur, sá sem rekur uppruna orða
 etymologize s. rekja uppruna orða
 etymology n. orðsifjafræði, orðmyndunarfræði; uppruni og afleiðsla orða
-eucharist n. kvöldmáltíðarsakramenti, einkum brauðið ([give, receive the ~])
+Eucharist n. kvöldmáltíðarsakramenti, einkum brauðið ([give, receive the ~])
 eucharistic l. sem lýtur að kvöldmáltíðarsakramentinu ([the ~ bread and wine])
-eucharistical l. sem lýtur að kvöldmáltíðarsakramentinu ([the ~ bread and wine])
+Eucharistical l. sem lýtur að kvöldmáltíðarsakramentinu ([the ~ bread and wine])
 eulogist n. loftunga
 eulogistic l. lof-, lofsamlegur
 eulogium n. lof, lofræða

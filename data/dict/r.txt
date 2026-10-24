@@ -1089,7 +1089,7 @@ revenue n. (árs)tekjur; [~ cutter] tollgæsluskip; [~ department] fjármáladei
 reverberate s. kasta aftur (hljóði, ljósgeislum); kastast aftur (um ljósgeisla); bergmála
 reverberation n. afturkast; endurskin; bergmál
 reverberative l. afturkastandi; bergmálandi
-reverbatory l. sem kastar loga á e-ð
+reverberatory l. sem kastar loga á e-ð
 revere s. heiðra, sýna lotningu; dýrka ([we honour heroes and ~ martyrs])
 reverence n. virðing, lotning ([pay ~ to, hold in ~, regard with ~]); [your ~] herra prestur (í ávarpi); hneiging; s. sýna lotningu, heiðra; tigna
 reverend l. æruverður (virðingarávarp við klerka)
@@ -1255,8 +1255,8 @@ risibility n. hláturmildi
 risible l. hláturmildur; hlægilegur, fyndinn; hlátur- ([the ~ muscles])
 rising l. stígandi, vaxandi ([the ~ wind]); upprennandi ([the ~ sun]); uppvaxandi ([the ~ generation]); [the ~ tide] aðfall; n. uppkoma ([~ of the sun]); uppreisn; þingslit ([~ of the parliament]); upphefð, upphafning; hæð; [~ of the tide] aðfall; [the ~ of Christ] upprisa Krists
 risk n. hætta, áhætta; ábyrgð ([at one's own ~]); [run the ~] eiga á hættu, hætta á e-ð; [~ of life] lífsháski; s. stofna í hættu, hætta (e-u)
-riseful l. áhættumikill
-risy l. áhættumikill
+riskful l. áhættumikill
+risky l. áhættumikill, áhættusamur, hættulegur
 rite n. kirkjusiður, helgisiður; [funeral ~s] útfararsiðir, greftrunarsiðir
 ritual l. sem lýtur að kirkjusiðum; n. helgiathöfn; kirkjusiðir, helgisiðir
 ritualism n. kirkjusiðahald

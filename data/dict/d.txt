@@ -901,7 +901,7 @@ diorama n. gagnsýni
 dip s. dýfa; ausa; stinga sér, fara í kaf; hallast niður; stofna e-m í skuldir; veðsetja ([~ an estate]); [~ into] blaða í (bók); [~ sheep] baða fé; [~ the flag] tifa með flagginu (upp og ofan); n. dýfing; ídýfa, sósa; bað ([sheep ~]); tólgarkerti, strokkkerti; halli ([~ of the magnetic needle])
 dipetalous l. tvíblaðaður (um blóm)
 diphtheria n. barnaveiki (e.k. hálsveiki)
-diptheritis n. barnaveiki (e.k. hálsveiki); eldra heiti, sjá %[diphtheria]%
+diphtheritis n. barnaveiki (e.k. hálsveiki); eldra heiti, sjá %[diphtheria]%
 diphthong n. tvíhljóð
 diploma n. prófskírteini; vottorð, skírteini; skjal
 diplomacy n. ríkiserindrekstur, diplómasía; stjórnkænska; háttvísi í samskiptum
@@ -1452,7 +1452,7 @@ donjon n. höfuðturn
 donkey n. asni
 donor n. gefandi
 do-nothing n. iðjuleysingi; l. iðjulaus
-doddle n. auli, flón
+doodle n. auli, flón; krot, krass; s. krota, krassa
 doom s. dæma (til refsingar); sakfella; n. dómur; forlög, dauði
 doomsday n. dómsdagur, efsti dagur ([wait till ~])
 door n. dyr, hurð; [in~s] inni; [out of ~s] úti
@@ -1500,7 +1500,7 @@ douse s. skvetta vatni á e-n ([~ one with water])
 dove n. dúfa
 dovecot n. dúfnahús
 dovekie n. teista
-doveky n. teista
+dovekey n. teista
 dovetail s. geirnegla; n. geirnagli
 dovetailing n. geirnegling
 dowager n. ekkja (af háum stigum); [queen ~] drottning sem er ekkja

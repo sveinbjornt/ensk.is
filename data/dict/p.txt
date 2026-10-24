@@ -45,7 +45,7 @@ pagoda n. indverskt hof; indverskur gullpeningur
 pail n. fata, skjóla
 pailful n. full fata; [a ~ of water] fata af vatni; [the rain was falling by the ~s] rigndi eins og hellt væri úr fötu
 paillasse n. hálmdýna
-pailette n. gljátala
+paillette n. gljátala
 pain n. sársauki, verkur, stingur, kvöl, þjáning; sorg, harmur; [feel ~] verkja, kenna til; [forbid on ~ of death] banna að viðlagðri dauðarefsingu; s. láta kenna til; meiða, særa, hryggja
 painful l. sársaukafullur, kvalafullur, sár; erfiður; fyrirhafnarmikill
 painless l. sárindalaus, verkjarlaus; kvalalaus
@@ -177,7 +177,7 @@ parable n. dæmisaga, samlíking
 parabolical l. (sam)líkingarlegur; dæmisögu-, í dæmisögum
 parabolize s. segja e-ð (kenna) í líkingum (dæmisögum)
 parachute n. fallhlíf
-paraclete n. huggari, heilagur andi
+Paraclete n. huggari, heilagur andi
 parade n. skrúðganga; hersýning; skrautsýning; [make a ~ of] trana e-u fram, monta af; s. sýna með mikilli viðhöfn; ganga í skrúðgöngu; ganga fram og aftur til að sýna sig
 paradigm n. beygingardæmi (í málfræði); dæmi; viðmið, viðtekið hugarfar (í heimspeki)
 paradise n. paradís
@@ -568,7 +568,7 @@ Pentagon n. höfuðstöðvar bandaríska varnarmálaráðuneytisins ([the ~])
 pentagonal l. fimmhyrndur; fimmstrendur
 pentameter n. bragarháttur með bragliðum í vísuorði
 pentangular l. fimmhyrndur
-pentateuch n. fimm bækur Móses
+Pentateuch n. fimm bækur Móses
 Pentecost n. hvítasunna, hvítasunnudagur, hvítdrottinsdagur
 Pentecostal l. hvítasunnu-, hvítasunnudags-
 penthouse n. þakíbúð; regnskýli, skúr
@@ -818,14 +818,14 @@ phalarope n. óðinshani
 phantasm n. draugur, vofa; hugarburður, heilaspuni; svipur; sýn
 phantom n. sýn; vofa, draugur; fyrirburður
 pharisaical l. hræsnisfullur
-pharisaism n. kenning Farísea; hræsni, yfirdrepsskapur
+Pharisaism n. kenning Farísea; hræsni, yfirdrepsskapur
 Pharisee n. Farísei; hræsnari
 pharmaceutical l. lyfjafræðilegur, lyfja-
 pharmaceutics nft. lyfjafræði
 pharmaceutist n. lyfjafræðingur
 pharmacist n. lyfjafræðingur
 pharmacology n. lyfjafræði
-pharmacopaeia n. lyfjaskrá (með lýsingu á tilbúningi og notkun lyfjanna)
+pharmacopoeia n. lyfjabók, lyfjaskrá (með lýsingu á tilbúningi og notkun lyfjanna)
 pharmacy n. lyfjabúð, apótek; lyfjatilbúningur
 pharos n. viti
 pharynx n. kok

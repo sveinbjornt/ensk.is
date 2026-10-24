@@ -724,7 +724,7 @@ fluency n. liðugleiki (í ræðu), málfimi
 fluent l. liðugur, málfimur, reiprennandi
 fluently ao. liðugt, reiprennandi
 fluey l. hýjugur
-fuffy l. hýjugur; mjúkur
+fluffy l. hýjugur; mjúkur
 fluid n. vökvi, fljótandi efni, kvikefni, lögur; l. fljótandi
 fluidity n. fljótanleiki; liðugleiki (í máli, [~ of speech])
 fluke n. akkerisflaug; flyðrutegund; slembilukka ([by a ~])
@@ -1085,7 +1085,7 @@ freehold n. óðalsjörð
 freeholder n. óðalsbóndi, jarðeigandi
 freely ao. af frjálsum vilja; fúslega; frjálslega; örlátlega, óspart
 freeman n. frjáls maður; (heiðurs)borgari
-freemason n. frímúrari
+Freemason n. frímúrari
 freemasonry n. frímúrarakenning; leynibræðralag
 freeness n. frjálsleiki; hreinskilni; örlæti
 freespoken l. berorður
@@ -1102,7 +1102,7 @@ freightage n. farmur; flutningskaup
 freighter n. leigjandi hafskips; vöruflutningaskip, fraktskip
 French l. franskur; n. franska; [the ~] Frakkar
 Frenchman n. Frakki, franskur maður
-frenchify s. sníða eftir Frökkum, gera franskt
+Frenchify s. sníða eftir Frökkum, gera franskt
 frenzied l. óður, vitskertur
 frenzy n. æði
 frequency n. tíðni; tíðleiki
@@ -1325,7 +1325,7 @@ fusible l. bræðanlegur
 fusil n. létt byssa
 fusile l. bræðanlegur; bráðinn; steyptur ([~ types])
 fusilier n. léttvopnaður fótgönguliði
-fusilade n. skothríð; s. skjóta niður
+fusillade n. skothríð, kúlnahríð, stórskotahríð; s. skjóta niður
 fusion n. bræðsla; fljótandi ástand; samsteypa, samsuða, samruni
 fusionist n. samsteypumaður
 fuss n. hávaði, gauragangur, mikil læti; s. gera mikil læti ([make a ~ about])

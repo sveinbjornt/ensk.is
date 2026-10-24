@@ -78,8 +78,8 @@ calotte n. kollhúfa
 caltrop n. herspori
 calumet n. friðarpípa (hjá frumbyggjum Norður-Ameríku)
 calumniate s. rægja, ófrægja, bera róg (um)
-calumnation n. ósannur sakaráburður, rógur, rógburður
-calumnator n. rógberi, bakmálugur maður
+calumniation n. ósannur sakaráburður, rógur, rógburður (sjá %[calumny]%)
+calumniator n. rógberi, bakmálugur maður
 calumnious l. bakmálugur, rógberandi; illkvittnislegur
 calumny n. rógur, rógburður, ósannur áburður, álygi
 Calvary n. hauskúpustaður
@@ -202,7 +202,7 @@ cap-peak n. húfuder
 caprice n. duttlungur; tiktúra
 capricious l. duttlungasamur; mislyndur
 capriciousness n. duttlungasemi; mislyndi
-capricorn n. steingeit; steingeitarmerki; stjörnumerkið steingeit
+Capricorn n. steingeit; steingeitarmerki; stjörnumerkið steingeit
 capriole n. hopp, stökk
 capsize s. hvolfa, sigla (sig) í kaf; [the boat ~d] bátnum hvolfdi; n. kollsigling
 capstan n. akkerisvinda
@@ -2152,7 +2152,7 @@ cornflower n. kornblóm
 cornloft n. kornforðabúr, kornhlaða
 corncutter n. líkþornaskeri, líkþornalæknir
 cornea n. hornhimna (á auganu)
-corneus l. hornkenndur, horn-; [~ membrane] hornhimna
+corneous l. hornkenndur, horn-; [~ membrane] hornhimna
 corner n. horn, hyrning; afkimi; [turn the ~] fara (komast) fyrir hornið; [drive one into a ~] reka e-n út í horn, koma e-m í vanda; [~ of disgrace] skammarkrókur; s. reka út í horn, króa; setja í vanda
 cornerstone n. hyrningarsteinn
 cornertooth n. augnatönn, vígtönn
@@ -2687,7 +2687,7 @@ curtsy n. knjábeyging; [to drop (make) a ~] beygja kné (til að sýna virðing
 curtsey n. sjá %[curtsy]%
 curvature n. bugða
 curve n. boglína; bugða; kúrva; s. beygja, sveigja; beygjast
-curvett n. hopp, stökk; s. hoppa, stökkva (um hest)
+curvet n. hopp, stökk; s. hoppa, stökkva (um hest)
 curvilinear l. boglínudreginn
 cushion n. sessa, hægindi; s. festa hægindi á; setja á hægindi; bæla niður í kyrrþey, stinga (e-u) undir stól
 cusp n. broddur, oddur

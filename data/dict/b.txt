@@ -603,7 +603,7 @@ bisk n. kraftsúpa
 bison n. vísundur (uxi)
 bisque n. ógljáð postulín; e.k. súpa
 bissextile n. hlaupár
-bistouri n. skurðarhnífur, læknishnífur
+bistoury n. skurðarhnífur, læknishnífur
 bit n. biti, munnbiti ([dainty ~]); ögn; [~ by ~] smám saman; [give a ~ of one's mind] tala hreinskilnislega; [not a ~] ekki ögn, alls ekki; [wait a ~] bíddu dálítið; [every ~ as] alveg eins/jafnmikið og; beislisstangir; mél (í beisli); skegg (á lykli); hefiltönn; biti (minnsta eining í tvíundakerfi); s. beisla, leggja (beisli) við
 bitch n. tík; tæfa; s. kvarta, væla
 bite s. bita; bíta í; (um fisk) taka beitu; hrífa (um akkeri); [~ the dust/ground] falla og deyja; [~ one's lips] bíta í varirnar; n. bit; íbit, hrif; munnbiti
@@ -668,7 +668,7 @@ blatant l. blygðunarlaus; beljandi, hrópandi
 blather s. blaðra
 blaze n. eldsvoði, eldhaf; logi, blossi; ljómi; blesa (á hrossum); merki (í tré); s. loga, fuðra (funa) upp ([up]); ljóma; breiða út, básúna ([~ abroad]); höggva merki í tré
 blazon n. skjaldmerki; (skjaldmerkja)lýsing; básúnun; s. lýsa skjaldmerkjum; skreyta; mála; básúna, víðfrægja
-blazery n. skjaldmerkjafræði
+blazonry n. skjaldmerkjafræði
 bleach s. bleikja; gera hvítt, hvítna; blikna
 bleak l. kaldur, hráslagalegur; veðurbarinn; gróðurlaus; n. bleikja (silungur)
 blear l. dapur (um augun); s. deyfa (sjónina)
@@ -798,7 +798,7 @@ boatshed n. naust
 boatswain n. bátstjóri
 bob n. lóð (á hengli í klukku); sakka; kast (með höfðinu [of the head]); hopp, hoss; maðkakippa (til álaveiða); knjábeyging; stýfður stertur; s. hoppa, hossast, boppa ([~ up and down]); reka e-ð í, slá e-u við ([against, at]); blekkja; svíkja; [~ for] ætla að ná í (veiða); [he bobbed down] hann beygði sig niður; [the end of the pole bobbed up] slóst upp; [~ a curtsy] hneigja sig; [~ the head in/at the door] reka höfuðið inn um dyrnar
 bobtail n. stýft tagl; hestur með stýfðu tagli
-bobin n. spóla; (tvinna)kefli
+bobbin n. spóla; (tvinna)kefli
 bobbinet n. slæðudúkur, blæju
 bode s. boða, vita á; spá; [~ well (ill)] vita á gott (illt)
 bodeful l. sem veit á illt, óheillavænlegur
@@ -863,7 +863,7 @@ bookkeeping n. bókhald
 book-learning n. bókvísi
 booklet n. bæklingur
 bookman n. bókamaður
-bookcellar n. bóksali
+bookseller n. bóksali
 booktrade n. bókverslun
 boom n. dynur; bráður uppgangur; snögg blómgun; seglás; þvergirðing (hafnar eða ár); s. dynja, drynja; bruna áfram ([she came booming]); blómgast snögglega; þjóta upp (um verð, verslun o.fl.); hleypa upp verði; veita bráðan viðgang (með skrumi)
 boon n. blessun; hagnaður; l. kátur ([a ~ companion])
@@ -1143,7 +1143,7 @@ brother-in-law n. mágur
 brotherhood n. bræðralag, bræðrasamband
 brotherly l. bróðurlegur ([divide it in a ~ fashion])
 brought l. sjá %[bring]%
-bougham n. eineykisvagn (tví- eða fjórhjólaður)
+brougham n. eineykisvagn (tví- eða fjórhjólaður)
 brow n. brún (fjalls-, kletta-, auga-); enni; [knit (bend) one's ~s] hnykla brýnnar
 browbeat s. hræða með hvössu augnaráði, ógna, kúga með fasi (sínu)
 brown l. brúnn, dökkrauður, mórauður; [~ bread] stórgert (gróft) hveitibrauð; [~ paper] grápappír; [do ~] brúna; gabba svíkja; [~ study] djúp hugleiðing; [~ sugar] púðursykur; s. brúna; gera móleitt; brúnast; verða móleitt; n. brúnn litur

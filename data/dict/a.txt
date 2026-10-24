@@ -926,7 +926,7 @@ amusement n. skemmtun
 amusing l. skemmtilegur
 amusive l. skemmtilegur
 amygdalic l. möndlu-; [~ acid] möndlusýra
-anabaptism n. endurskírn
+Anabaptism n. endurskírn
 Anabaptist n. endurskírari (trúflokkur mótmælenda)
 Anabaptistic l. endurskírnar- (sjá %[Anabaptist]%)
 anabaptize s. skíra upp aftur, endurskíra
@@ -1043,7 +1043,7 @@ annoyer n. sá sem angrar eða pirrar
 annual l. árlegur; n. ársrit; árbók
 annually ao. árlega
 annuity n. árstekjur; lífrenta, lífeyrir
-annul s. eyða; nema úr gildi
+annul s. eyða; nema úr gildi, ógilda (samning, hjónaband, o.s.frv.)
 annulment n. eyðing; ógilding ([the ~ of their marriage pained him greatly])
 annular l. hringmyndaður
 annulary l. hring- ([~ finger])
@@ -1200,7 +1200,7 @@ appellant n. áfrýjandi; l. áfrýjunar-, áfrýjandi
 appellation n. nafn, heiti, það sem einhver er kallaður
 appellative n. sameiginlegt nafn
 appellee n. sakborningur
-apellor n. sakaráberi
+appellor n. sakaráberi
 append s. hengja (festa, bæta) við ([to])
 appendage n. viðauki
 appendant l. sem hangir við ([to]), samfara
@@ -1484,7 +1484,7 @@ assembly n. samkoma, fundur; félag
 assent n. samþykki ([give one's ~ to]); s. samþykkja, samsinna (e-u [to])
 assentation n. (þýlegt) samþykki
 assentator n. smjaðrari
-assient l. samþykkur
+assentient l. samþykkur
 assentor n. meðmælandi (þingmannsefnis)
 assert s. fullyrða, staðhæfa; verja ([~ a cause]); krefja, halda fram ([~ one's right])
 asserter n. verjandi

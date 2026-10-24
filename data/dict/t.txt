@@ -74,7 +74,7 @@ tally n. kefli með þverskorum; samsvarandi hlutur; hópur; merki, merkiseðill
 tallyshop n. lánsbúð
 tally-trade n. lánsverslun (þar sem vörur eru lánaðar til skamms tíma)
 tally-ho uh. hæ! hó!
-talmud n. meginrit Gyðinga
+Talmud n. meginrit Gyðinga
 talon n. ránfuglskló
 talus n. halli, brekka
 tamable l. temjanlegur, temjandi
@@ -652,7 +652,7 @@ tin n. tin (frumefnið Sn, 50 í lotukerfinu); blikk, pjátur; blikkdós; s. tin
 tin-foil n. næfurþunnt tinblað, stanjól
 tan-man n. blikksmiður
 tansmith n. blikksmiður
-tanware n. blikkvörur
+tinware n. blikkvörur
 tincture n. lit(blær); keimur; seyði; s. setja blæ á, lita
 tinder n. tundur, eldkveikja
 tinderbox n. tundurbaukur
