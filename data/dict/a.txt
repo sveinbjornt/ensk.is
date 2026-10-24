@@ -231,7 +231,7 @@ accreditation n. skrifleg meðmæli eða umboð; [letter of ~] umboðsbréf send
 accrete s. vaxa saman
 accretion n. vöxtur; samvöxtur; viðauki
 accroach s. svæla undir sig ([to oneself])
-accrue s. spretta (af [from]), vaxa; falla undir e-n [to]
+accrue s. spretta (af [from]), vaxa; falla undir e-n ([to])
 accumulate s. safna, hrúga saman; safnast, safna(st) saman (með tímanum)
 accumulation n. safn, samansafn, samhrúgun; söfnun, uppsöfnun; auðsöfnun ([capital ~]); ákoma
 accumulative l. sem safnast hefur saman, sem safnast saman með tímanum
@@ -361,7 +361,7 @@ adhesive l. límkenndur, lím-; fastheldinn; n. lím, límefni
 adhesiveness n. viðloðunarafl; fastheldni
 adhibit s. festa (við [to]); viðhafa; gefa inn (lyf)
 adhibition n. viðfesting; notkun
-adieu uh. vertu sæll! verið þið sælir! n. kveðja ([bid one's ~])
+adieu uh. vertu sæll! verið þið sælir!; n. kveðja ([bid one's ~])
 adipose l. fitu- ([~ tissue, ~ matter]); n. fita
 adiposity n. offita
 adit n. inngangur, aðgangur
@@ -784,7 +784,7 @@ almsman n. þurfamaður
 aloe n. alóe (jurt)
 aloft ao. hátt upp (í); uppi í reiða
 alone l. aleinn, einn; [let (leave) ~] láta eiga sig, skipta sér ekki af ([let me ~]); ao. einungis
-along s. fram með, langs með, eftir; ao. áfram ([get ~]); [~ with] ásamt með; [all ~] alla leið, alltaf
+along fs. fram með, langs með, eftir; ao. áfram ([get ~]); [~ with] ásamt með; [all ~] alla leið, alltaf
 alongside ao. samhliða, við hlið, að hlið; [~ of] við hliðina á, jafnhliða, hjá
 aloof ao. í burtu, í fjarska; afsíðis ([stand, keep, hold ~]); l. fálátur; á vindborða
 aloud ao. upphátt ([to read ~] að lesa upphátt)
@@ -1445,7 +1445,7 @@ Asia n. Asía, austurálfa
 Asiatic l. asískur, asíulegur, Austurálfu-, frá Austurálfu
 aside ao. til hliðar; afsíðis; í burtu; [lay/set ~] sleppa e-u
 asinine l. asna-, asnalegur; heimskur
-ask s. spyrja ([~ him, ~ of a person]); biðja (um [for]); heimta ([it ~s for attention]); bjóða ([~ him to dinner]); [~ him a favour, ~ a favour of a person] biðja e-n um greiða; [~ about] spyrja um; [~ after one] s. spyrja eftir e-m
+ask s. spyrja ([~ him, ~ of a person]); biðja (um [for]); heimta ([it ~s for attention]); bjóða ([~ him to dinner]); [~ him a favour, ~ a favour of a person] biðja e-n um greiða; [~ about] spyrja um; [~ after one] spyrja eftir e-m
 asker n. spyrjandi; biðjandi; beiningamaður
 askance ao. til hliðar; á ská; [look ~ at] gjóta hornauga til e-s, hafa ímugust á
 askant ao. til hliðar; á ská; [look ~ at] gjóta hornauga til e-s, hafa ímugust á
@@ -1534,7 +1534,7 @@ assuredly ao. áreiðanlega, vissulega, örugglega
 asterisk n. stjörnumerki, stjörnutákn (táknið *)
 astern ao. í skútunni; á eftir; aftur á bak; [~ of] fyrir aftan
 asthma n. asma, asmi, andarteppa; andþyngsli; brjóstþyngsli
-asthmatic l. asma-, andarteppu-, með andarteppu; asmasjúklingur, andarteppusjúklingur
+asthmatic l. asma-, andarteppu-, með andarteppu; n. asmasjúklingur, andarteppusjúklingur
 astir ao. á fótum, á ferli ([she was ~ by six o'clock]); í hreyfingu ([there is much wind ~])
 astonish s. vekja undrun (e-s), gera forviða
 astonishing l. undraverður, furðulegur

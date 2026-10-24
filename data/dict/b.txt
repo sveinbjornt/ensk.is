@@ -249,7 +249,7 @@ bayonet n. byssustingur
 bay-tree n. lárviður
 bay-window n. framskotsgluggi
 bazaar n. basar (austurlenskt sölutorg)
-be s. vera; verða; [where am I to sit] hvar á ég að sitja? [ask her how her mother is] hvernig móður hennar líður; [how are you?] hvernig líður þér?; sælir (verið þér); [how is it that I see you here] hvernig víkur því við, að..? [he has been to Rome] hefur verið í Róm; [what are you at] hvað ertu að gera? [he was not to be saved] það var ekki hægt að bjarga honum; [I am writing] ég er að skrifa; [while the house was building] meðan húsið var í smíðum
+be s. vera; verða; [where am I to sit] hvar á ég að sitja? [ask her how her mother is] hvernig móður hennar líður; [how are you?] hvernig líður þér?; sælir (verið þér); [how is it that I see you here] hvernig víkur því við, að ...? [he has been to Rome] hefur verið í Róm; [what are you at] hvað ertu að gera? [he was not to be saved] það var ekki hægt að bjarga honum; [I am writing] ég er að skrifa; [while the house was building] meðan húsið var í smíðum
 beach n. strönd, fjara; s. setja (skip) upp í fjöru
 beacon n. viti, vitaeldur; varðturn; s. lýsa, uppljóma
 bead n. perla, tala; s. skreyta með perlum
@@ -344,7 +344,7 @@ befoul s. saurga, ata, spilla
 befriend s. vingast við, slá upp vináttu við (e-n [someone]); vera (e-m) vinveittur, vera e-m hagstæður
 beg s. biðja; betla, biðja ölmusu; skoða sem sannað ([~ the question]); [I ~ your pardon] ég bið þig fyrirgefningar, afsakið; [I ~ (leave) to] ég leyfi mér að
 begad uh. það veit guð
-beggar n. betlari, beiningamaður; s. gera fátækan; [it ~s all description] því verður ekki með orðum lýst; [it ~ all belief] því verður tæpast trúað
+beggar n. betlari, beiningamaður; s. gera fátækan; [it ~s all description] því verður ekki með orðum lýst; [it ~s all belief] því verður tæpast trúað
 beggarly l. aumur, vesæll, bágborinn, eins og betlari
 beggary n. örbirgð; betl; [reduce to ~] koma (e-m) á vonarvöl
 beget s. geta (afkvæmi); geta af sér, valda
@@ -552,7 +552,7 @@ bilateral l. tvíhliða, tvíhliðaður
 bilberry n. bláber, aðalbláber; bláberjalyng, aðalbláberjalyng
 bile n. gall; reiði, ólund
 bilestone n. gallsteinn
-bilge n. flatbotn á skipi; bumba (á tunnu) s. reka gat á botninn (á skipi); verða lekur; bunga út
+bilge n. flatbotn á skipi; bumba (á tunnu); s. reka gat á botninn (á skipi); verða lekur; bunga út
 bilge keel n. flatkjölur (til að hindra rugg)
 bilgewater n. vatn sem safnast í flatbotni skips
 bilingual l. sem er á tveim málum; sem talar tvö mál; tvítyngdur
@@ -785,7 +785,7 @@ boarding n. borðaklæðning; uppganga á skip; kostur (matur)
 boardinghouse n. matsöluhús
 boarding school n. heimavistarskóli, skóli sem veitir fæði og húsnæði
 boarish l. ódámslegur
-boast s. gorta, grobba, monta; stæra sig, vera hreykinn (af e-u [of]) n. gort, grobb, mont
+boast s. gorta, grobba, monta; stæra sig, vera hreykinn (af e-u [of]); n. gort, grobb, mont
 boaster n. gortari, grobbari, montari
 boastful l. grobbinn, montinn (af e-u [of, in])
 boasting n. gort, grobb, mont
@@ -809,7 +809,7 @@ bodily l. líkamlegur; ao. líkamlega
 bodkin n. rýtingur, dálkur; prjónn; hárnál; [ride/sit ~] sitja milli tveggja í vagni
 body n. líkami; búkur, bolur; lík ([dead ~]); megin, heild; meginhluti; skipskrokkur; fjöldi, hópur; flokkur; stofn á tré; [~ politic] ríkislíkami; [in a ~] allir saman, í einum hóp; s. íklæða líkama; sýna líkamlega
 bodyguard n. lífvörður
-bog n. mýri, fen; s. hleypa ofan í fen eða keldu ([he was ~ged down]); salerni, klósett (óforml. breskt slangur)
+bog n. mýri, fen; n. salerni, klósett (óforml. breskt slangur); s. hleypa ofan í fen eða keldu ([he was ~ged down])
 boggy l. mýrlendur ([boggy hollows])
 boggle s. fælast (um hest); hika, vera á báðum áttum; ([it boggles the mind that]) það er manni ofviða að
 bogle n. grýla; draugur
@@ -848,7 +848,7 @@ bonnet n. skosk húfa; barðalaus kvenhattur; reykháfshetta; s. setja hatt (hú
 bonny l. snotur; vænn; góður
 bonus n. uppbót, aukauppbót, bónus; kaupauki
 bony l. beinóttur; beinamikill; með áberandi bein
-boo uh. svei! bú! s. sveia; æpa að e-m
+boo uh. svei! bú!; s. sveia; æpa að e-m
 booby n. hafsúla; auli; sjá einnig %[boob]%
 boodle n. sægur, hyski ([the whole ~]); mútufé
 book n. bók; s. bóka, skrá; kaupa farmiða ([~ a ticket])
@@ -1210,7 +1210,7 @@ bullfight n. nautaat
 bullfighter n. nautabani, nautvígamaður
 bull's-eye n. kúpt rúðugler, kúpt rúða
 bullet n. byssukúla
-bulletin n. stutt fréttaskýrsla s. senda út skeyti um e-ð
+bulletin n. stutt fréttaskýrsla; s. senda út skeyti um e-ð
 bullion n. gull og silfur í stöngum; málmforði banka
 bullock n. geldneyti, uxi
 bully n. harðstjóri; s. hræða, ógna, þústa, kúga
@@ -1283,7 +1283,7 @@ bush-ranger n. stigamaður (í Ástralíu)
 bushy l. vaxinn hrísrunnum
 bushel n. ensk skeppa (mælieining)
 busily ao. kappsamlega
-business n. starf; starfi, atvinna, iðn; kaupskapur, kaupsýsla, bisness; erindi; [a man of ~, ~ man] verslunarmaður, kaupsýslumaður, kaupskaparmaður; málfærslumaður; [will you state your ~] hvert er erindi þitt? [on ~] í (verslunar)erindum; [carry on a ~] reka verslun; [go into ~ for himself] byrja að reka verslun sjálfur; [do a good (stroke of) ~] gera góð kaup, græða (by á e-u); [send him about his ~] vísa e-m á dyr; [mind your own ~] hugsaðu um það sem þig varðar; [a serious ~] alvarlegt málefni; [he means ~] honum er alvara; [it is no ~ of mine] það er mál, sem mig ekki varðar
+business n. starf; starfi, atvinna, iðn; kaupskapur, kaupsýsla, bisness; erindi; [a man of ~, ~ man] verslunarmaður, kaupsýslumaður, kaupskaparmaður; málfærslumaður; [will you state your ~] hvert er erindi þitt? [on ~] í (verslunar)erindum; [carry on a ~] reka verslun; [go into ~ for himself] byrja að reka verslun sjálfur; [do a good (stroke of) ~] gera góð kaup, græða (á e-u [by]); [send him about his ~] vísa e-m á dyr; [mind your own ~] hugsaðu um það sem þig varðar; [a serious ~] alvarlegt málefni; [he means ~] honum er alvara; [it is no ~ of mine] það er mál, sem mig ekki varðar
 businesslike l. líkur kaupsýslumanni; vel fyrir komið, skipulegur
 busk n. skíðisteinn (í koti)
 buskin n. hástígvél, háskór
@@ -1318,7 +1318,7 @@ buyer n. kaupandi
 buzz s. suða; flögra; n. suð, kliður; kvis; æsingur
 buzzing n. suð (í eyrum)
 buzzard n. músvákur (fugl)
-by fs. & ao. hjá ([have not got it ~ me]); um ([travel to Prague ~ Dresden]); á (~ night, ~ day); fram hjá ([go ~ him]); með ([take ~ force]); af ([written ~]); við; [ten feet ~] four 10 fet á lengd og 4 fet á breidd (eða hæð); [~ the pound] í pundatali; [~ the hundred, ~ hundreds] hundruðum saman; [go ~ ones and twos] einn og tveir í einu; [~ tomorrow] ekki síðar en á morgun; [older ~ two years] tveim árum eldri; [~ name] að nafni; [step ~ step] skref fyrir skref; [~ heart] utanbókar; [~ and ~] bráðum; smám saman; [~ the by] meðal annara orða; eftir á að hyggja; [~ rights] að réttu lagi, með réttu
+by fs. & ao. hjá ([have not got it ~ me]); um ([travel to Prague ~ Dresden]); á ([~ night, ~ day]); fram hjá ([go ~ him]); með ([take ~ force]); af ([written ~]); við; [ten feet ~ four] 10 fet á lengd og 4 fet á breidd (eða hæð); [~ the pound] í pundatali; [~ the hundred, ~ hundreds] hundruðum saman; [go ~ ones and twos] einn og tveir í einu; [~ tomorrow] ekki síðar en á morgun; [older ~ two years] tveim árum eldri; [~ name] að nafni; [step ~ step] skref fyrir skref; [~ heart] utanbókar; [~ and ~] bráðum; smám saman; [~ the by] meðal annara orða; eftir á að hyggja; [~ rights] að réttu lagi, með réttu
 byblow n. holukrakki
 by-election n. aukakosning
 by-hours nft. tómstundir

@@ -475,7 +475,7 @@ encomiast n. lofræðumaður
 encomiastic l. hrósandi
 encomium n. lofræða
 encompass s. umkringja, liggja utan um, umlykja
-encore uh. einu sinni aftur! s. biðja um aftur
+encore uh. einu sinni aftur!; s. biðja um aftur
 encounter n. mót, fundur, hittingur; bardagi; einvígi; viðureign; s. hittast, rekast, rekast á; ganga (fara) á móti (í bardaga); mæta; hitta; verða fyrir e-u ([~ difficulties])
 encourage s. telja hug í; uppörva; hvetja, eggja; efla, styðja að (e-u)
 encouragement n. uppörvun; hvatning, hvöt; efling
@@ -871,7 +871,7 @@ essential l. verulegur; nauðsynlegur; mikilvægur; n. höfuðatriði
 essentiality n. veruleiki
 essoin n. afsökun fyrir að mæta ekki fyrir rétti
 establish s. setja, ákveða (með lögum [by law]); stofnsetja; koma (e-u) á ([~ order]); sanna ([~ his innocence]); [~ oneself] setjast að (sem kaupmaður [as a merchant])
-established l. fastur, ákveðinn; [the ~ed church] þjóðkirkjan
+established l. fastur, ákveðinn; [the ~ church] þjóðkirkjan
 establishment n. stofnsetning; fyrirkomulag; föst staða; fastar tekjur; stofnun (svo sem skóli, verksmiðja, verslunarhús); bú, húshald ([to keep up a large ~]); þjóðkirkja
 estafette n. ríðandi hraðboði ([an ~ was dispatched])
 estate n. stétt (í þjóðfélaginu); jarðeign, fasteign; bú (dánarbú, þrotabú); ástand
@@ -966,7 +966,7 @@ evasive l. óákveðinn; undanfærslu- ([an ~ answer])
 eve n. kvöld; kvöldið fyrir hátíð; aðfangadagskvöld ([Christmas Eve]); [was on the ~ of being lost] var nærri því tapaður
 evensong n. aftansöngur, kvöldsöngur
 eventide n. kvöldtími, kvöld
-even l. flatur, sléttur; jafn (um stærð og tölur); [to be ~ with] hefna sín á (e-m), ná sér niðri á e-m; ao jafnvel; s. slétta, jafna; n. aftan
+even l. flatur, sléttur; jafn (um stærð og tölur); [to be ~ with] hefna sín á (e-m), ná sér niðri á e-m; ao. jafnvel; s. slétta, jafna; n. aftan
 even-handed l. óhlutdrægur, réttlátur
 evenly ao. jafnt; með jafnaðargeði; óvilhallt
 evenness n. jafnleiki, sléttleiki; óhlutdrægni

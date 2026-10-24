@@ -159,7 +159,7 @@ lapis n. steinn; [~ lazuli] lasúrsteinn
 Laplander n. Lappi, Sami
 Lapp n. Lappi, Sami
 lappet n. flipi, sepi; (eyrna)snepill; blaðka (á lunga, lifur); spaði; laf (á frakka); skráarlauf
-Lappish l. lappískur, samískur; samíska
+Lappish l. lappískur, samískur; n. samíska
 Lapponian l. lappneskur; n. Lappi
 lapse n. hægt fall, rennsli ([~ of a stream]); hrösun ([lapse of judgment]); [~ of the pen] ritvilla; [after so long a ~ of time] að svo löngum tíma liðnum; s. falla, renna; líða; hverfa undir (e-n) að lögum ([~ to the crown]); falla úr gildi; [he ~d into thought] varð hugsandi
 lapsided l. hverfur (um bát), rangskreiður
@@ -294,7 +294,7 @@ laziness n. leti
 lazy l. latur, iðjulaus
 lazuli n. lasúrsteinn
 lea n. graslendi, engi
-lead n. blý (frumefnið Pb, 82 í lotukerfinu); blýsakka; s. leiða; teyma ([~ a horse by the bridle]); fá til; vera fyrir e-u; vera fremstur; spila út; liggja (um veg); [~ a solitary life] lifa einmanalegu lífi; [~ the way] ganga (fara) á undan; [~ the van] vera fremstur í flokki; l. formennska, forysta; útspil ([to return one's partner's ~]); aðalhlutverk í leikriti; [to lake the ~] gerast foringi; þekja með blýi, blýleggja
+lead n. blý (frumefnið Pb, 82 í lotukerfinu); blýsakka; s. leiða; teyma ([~ a horse by the bridle]); fá til; vera fyrir e-u; vera fremstur; spila út; liggja (um veg); [~ a solitary life] lifa einmanalegu lífi; [~ the way] ganga (fara) á undan; [~ the van] vera fremstur í flokki; n. formennska, forysta; útspil ([to return one's partner's ~]); aðalhlutverk í leikriti; [to take the ~] gerast foringi; s. þekja með blýi, blýleggja
 lead pencil n. blýantur, ritblý
 leaden l. úr blýi, blý-; blýgrár; þunglamalegur
 leader n. leiðtogi; foringi; útspilari; ritstjórnargrein
@@ -440,7 +440,7 @@ lethal l. banvænn
 lethargic l. svefnsjúkur; drungalegur, daufur, sofandi
 lethargical l. svefnsjúkur; drungalegur, daufur, sofandi
 lethargy n. svefnsýki; drungi, doði, deyfð
-letter n. bókstafur; sendibréf; ft. bókmenntir [~ of attorney] fullt umboð; [a man of ~s] menntamaður, rithöfundur; s. merkja með bókstöfum; setja nafn bókar á kjölinn
+letter n. bókstafur; sendibréf; ft. bókmenntir; [~ of attorney] fullt umboð; [a man of ~s] menntamaður, rithöfundur; s. merkja með bókstöfum; setja nafn bókar á kjölinn
 lettered l. menntaður
 lettuce n. salat, salatsjurt
 Levant n. löndin við austurhluta Miðjarðarhafs
@@ -525,7 +525,7 @@ life work n. ævistarf
 lift s. lyfta, hefja; stela ([~ cattle]); lyftast upp; svífa upp (um þoku eða reyk); [~ one's hands] vinna eið; [the fog ~s] þokunni léttir; n. lyfting; hafning; hjálp; lyftivél, lyfta; byrði (sem lyfta má í einu)
 ligament n. band; sin
 ligature n. umband
-light n. ljós; birta; nft. vit, skynsemi; [to bring (come) to ~] leiða (koma) í ljós; l. ljós, ljósleitur, bjartur, bjartleitur; s. kveikja ([~ a fire]); kveikja á ([~ a lamp]); lýsa (t.d. herbergi); lýsa e-m; [her whole countenance lit up with delight] gleðin skein úr öllu andliti hennar; léttur; léttfær; léttvopnaður ([~-armed]); óáfengur ([~ wine]); lítilfjörlegur; hægur ([a ~ breeze]); vægur, linur; léttúðugur, léttúðarfullur; lauslátur ([a ~ woman]); [a ~ task] hægðarleikur, hægur vandi; [to make ~ of] gera lítið úr; [~ of foot] léttur á fæti; s. stíga ofan (úr vagni); fara af baki ([down, off]); setjast (um fugla); [~ on, upon] lenda á e-m; koma í hlut e-s; hitta, rekast á e-ð
+light n. ljós; birta; nft. vit, skynsemi; [to bring (come) to ~] leiða (koma) í ljós; l. ljós, ljósleitur, bjartur, bjartleitur; s. kveikja ([~ a fire]); kveikja á ([~ a lamp]); lýsa (t.d. herbergi); lýsa e-m; [her whole countenance lit up with delight] gleðin skein úr öllu andliti hennar; l. léttur; léttfær; léttvopnaður ([~-armed]); óáfengur ([~ wine]); lítilfjörlegur; hægur ([a ~ breeze]); vægur, linur; léttúðugur, léttúðarfullur; lauslátur ([a ~ woman]); [a ~ task] hægðarleikur, hægur vandi; [to make ~ of] gera lítið úr; [~ of foot] léttur á fæti; s. stíga ofan (úr vagni); fara af baki ([down, off]); setjast (um fugla); [~ on, upon] lenda á e-m; koma í hlut e-s; hitta, rekast á e-ð
 light-coloured l. ljósleitur
 light dues nft. vitagjald
 lighthouse n. viti
@@ -733,7 +733,7 @@ lockjaw n. ginklofi, stífkrampi, klums
 locket n. nisti, hálsnisti
 locksmith n. lásasmiður, skráasmiður, lyklasmiður
 locomotion n. hreyfing (úr einum stað í annan, milli staða)
-locomotive l. sem hreyfir, hreyfi- ([~ power]); eimreið
+locomotive l. sem hreyfir, hreyfi- ([~ power]); n. eimreið
 locust n. engispretta
 locution n. talsháttur, talsmáti; orðalag; orðatiltæki
 locutory n. talstofa, skrafstofa (í klaustri)
@@ -841,7 +841,7 @@ lotion n. þvottur (einkum hörundsins); hörundsáburður
 lottery n. happdrætti
 lotto n. happdrætti
 lotus n. draumjurt, lótusblóm
-loud l. hár (um rödd); skær (um liti); áberandi (um liti, klæðnað); ao. hátt; ([don't talk so ~])
+loud l. hár (um rödd); skær (um liti); áberandi (um liti, klæðnað); ao. hátt ([don't talk so ~])
 loudly ao. hátt, snjallt, hástöfum
 loudmouthed l. háróma, hátalaður
 loudness n. hæð, styrkleikur (hljóðs); hávaði, háreysti

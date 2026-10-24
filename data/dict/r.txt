@@ -90,7 +90,7 @@ rancidity n. þrái
 rancorous l. hatursfullur
 rancour n. óvildarhugur, kali, hatur ([a private ~])
 random n. tilviljun, hending; l. tilviljunarkenndur, sem verður af handahófi; [a ~ shot (question)] skot (spurning) út í bláinn; [at ~] af handahófi, út í bláinn ([to speak at ~])
-range s. raða niður; flokka; hleypa út (akkerisfesti); fara um eða yfir; sigla fram með, þræða (ströndina); reika (um eða yfir); hvarfla; draga (um skotvopn); liggja í e-a stefnu ([islands ranging north]); vera jafn e-m ([with]) að tign; [~ along the coast] sigla fram með ströndinni; [the price ~d from eight pence to ten shillings] verðið var frá átta pence til tíu shillings; n. röð; eldavél; svæði, svið; reik; leyfi til að reika um ([the ewes have ~ over the stubbles]); skotlengd; beitarland; stefna ([~ of the hills]); [~ of mountains] fjallgarður; [out of (beyond) ~] fyrir utan skotmál
+range s. raða niður; flokka; hleypa út (akkerisfesti); fara um eða yfir; sigla fram með, þræða (ströndina); reika (um eða yfir); hvarfla; draga (um skotvopn); liggja í e-a stefnu ([islands ranging north]); vera jafn e-m ([with]) að tign; [~ along the coast] sigla fram með ströndinni; [the price ~d from eight pence to ten shillings] verðið var frá átta pence til tíu shillings; n. röð; eldavél; svæði, svið; reik; leyfi til að reika um ([the ewes have ~d over the stubbles]); skotlengd; beitarland; stefna ([~ of the hills]); [~ of mountains] fjallgarður; [out of (beyond) ~] fyrir utan skotmál
 ranger n. flakkari, sporhundur; skógarvörður; nft. [rangers] riddaraflokkur ([mounted ~s])
 rank n. röð; þverröð fylkingar; lögtign, mannvirðing; stétt ([men of all ~s]); [take ~ of] vera æðri að tign, vera (e-m) fremri; [men of high ~] stórtignir menn; [reduce to the ~s] færa niður í tölu óbreyttra liðsmanna; s. raða, flokka, skipa í flokk; ganga í röð; vera (í flokki); [~ first (foremost) among] vera fremstur á meðal; [he ~s high in public estimation] hann er í miklum metum af almenningi; [~ next to the king in birth and distinction] ganga næstur konungi að fæðingu og metorðum; l. frjór; ákafur, rammur ([a ~ republican]); sem ofvöxtur er í ([~ grass]); ofsalegur, afskaplegur, ofsa- ([it blows a ~ storm]); of sterkur (um þef); illur, óheilnæmur ([~ climate]); þrár (á bragð)
 rankness n. frjósemi; ofvöxtur; remma; [~ of pride] ofurmegn drambsemi
@@ -162,7 +162,7 @@ rattle s. skrölta, hringla, glamra; masa; láta skrölta; tala í sífellu, lá
 rattlebrained l. gálaus; málugur; flumúsa
 rattleheaded l. gálaus; málugur; flumúsa
 rattlesnake n. skellinaðra
-rattletrap n. skrapatól, vagnskrifli. nft. [~s] drasl, skran
+rattletrap n. skrapatól, vagnskrifli; nft. [~s] drasl, skran
 rattling n. skrölt; hrygla ([~ in the throat]); l. skröltandi, hringlandi; málskapsmikill; hraður, skjótur ([off we went at a ~ pace]); ao. [~ good] afbragðsgóður
 raucity n. hæsi, ræma
 raucous l. hás, rámur
@@ -256,7 +256,7 @@ reave s. ræna, svipta; kljúfa ([the rock was reft asunder])
 rebaptize s. skíra upp aftur; gefa e-m nýtt nafn
 rebate s. sljóvga; minnka; slá af verði; draga úr e-u; grópa; n. afsláttur
 rebel n. uppreisnarmaður; l. uppreisnargjarn; uppreisnar- ([~ chief, army]); mótþróafullur; s. gera uppreisn; rísa upp á móti eða í gegn e-u ([against])
-rebellion n. uppreisn, uppreisn ([a ~ broke out])
+rebellion n. uppreisn ([a ~ broke out])
 rebellious l. uppreisnargjarn, mótþróafullur; þrálátur ([a ~ disease])
 reborn l. endurborinn, endurfæddur
 rebound s. hrökkva af; kastast aftur; bergmála; [~ upon] lenda aftur á e-m; n. afturkast, endurkast
@@ -343,7 +343,7 @@ recommendable l. meðmælaverður, meðmælanlegur; lofsverður
 recommendation n. meðmæli, meðmæling
 recommendatory l. meðmælingar-, meðmæla- ([~ letter]); meðmælandi
 recompose s. setja aftur saman; stilla aftur ([~ the mind]); setja aftur (í varðhald); vísa (frumvarpi) aftur til nefndar; drýgja aftur
-recompense s. umbuna. launa, endurgjalda, bæta (e-m e-ð) upp; n. laun, umbun, endurgjald; uppbót ([~ for damages])
+recompense s. umbuna, launa, endurgjalda, bæta (e-m e-ð) upp; n. laun, umbun, endurgjald; uppbót ([~ for damages])
 reconcilable l. sáttfús; samþýðilegur
 reconcile s. sætta; koma (e-u) í samræmi (við [with]); [~ oneself to] sætta sig við, láta sér lynda
 reconcilement n. sátt, sætt; samræmi; samrýming
@@ -362,7 +362,7 @@ reconvert s. snúa e-m aftur til fyrri skoðana
 record s. bóka; skrásetja, færa í letur; segja frá; n. skrá; skjal; skýrsla; vitnisburður; hámark í e-i íþrótt, mesta afrek, met (í kappleik); [~s] skjalasafn; [the greatest general on ~] mesti hershöfðingi, sem sögur fara af; [beat/break the ~] skara fram úr (því, sem áður hefur verið gert); [that is not on ~] þess er ekki getið í sögunni; [worthy of ~] frásöguverður; [keeper of the ~s] skjalavörður
 recordable l. frásöguverður
 recorder n. bókari; dómsmálaritari; dómari (í sumum bæjum); frásögumaður; blokkflauta (hljóðfæri)
-recount s. segja (nákvæmlega) frá e-u; n. telja (reikna) upp aftur; n. endurtalning
+recount s. segja (nákvæmlega) frá e-u; s. telja (reikna) upp aftur; n. endurtalning
 recoup s. bæta (e-m e-ð) upp; draga e-ð frá, halda e-u eftir; [~ oneself] gera sig skaðlausan
 recourse n. hæli, athvarf; aðgangur (að e-m); gagnkrafa; [have ~ to] grípa til (e-s úrræðis t.d. [to violence]); [have ~ to one for advice] leita ráða e-s
 recover s. fá aftur, ná aftur; finna aftur; fá (e-ð) bætt ([~ a loss]); bíða (e-s) bætur; lækna; ná sér aftur ([~ oneself]) eftir e-ð; batna ([~ from a malady]); [~ one's health] fá aftur heilsuna; [~ one's legs] koma aftur fyrir sig fótunum; þekja (klæða) aftur, endurþekja
@@ -475,7 +475,7 @@ reef n. rif, klettarif, sandrif (í sjó); rif (í segli) ([take in a ~]); s. ri
 reefy l. klettóttur; rifóttur
 reek n. reykur; gufa; fýla; s. rjúka; gufa
 reeky l. rjúkandi; reykugur
-reel n. spóla, vinda; tvinnakefli; hesputré; ríll (skoskur dans); [off the ~] í einni rennu, runu ([he won five races off the ~]); rið; s. s. reika, skjögra, riða; [my brain ~ed] mig svimaði; vinda upp; hespa; [~ out] vinda ofan (af)
+reel n. spóla, vinda; tvinnakefli; hesputré; ríll (skoskur dans); [off the ~] í einni rennu, runu ([he won five races off the ~]); rið; s. reika, skjögra, riða; [my brain ~ed] mig svimaði; vinda upp; hespa; [~ out] vinda ofan (af)
 re-elect s. endurkjósa
 re-election n. endurkosning
 re-embark s. stíga aftur á skip; flytja aftur á skip
@@ -1301,7 +1301,7 @@ robust l. styrkur, öflugur
 robustious l. sterklegur, kröftugur; ofsafenginn, ofsalegur
 robustness n. kraftur, styrkleiki
 roc n. risafugl (í arabískri og austurlenskri goðafræði)
-rocambole l. lauktegund
+rocambole n. lauktegund
 rochet n. e.k. rykkilín
 rock n. steinn, klettur, bjarg, hamar; sker; rokktónlist ([play some of that ~ and roll music]); rugg; s. rugga, vagga ([~ a child, a cradle]); riða, reika; rokka (spila rokktónlist)
 rock oil n. steinolía

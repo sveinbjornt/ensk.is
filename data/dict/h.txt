@@ -64,7 +64,7 @@ half-witted l. hálfvitalegur, fábjánalegur, heimskur
 halibut n. lúða, flyðra
 hall n. forstofa, forsalur ([dining-~]); þingstofa; samkomuhús; höfðingjasetur ([baronial ~])
 hallelujah uh. halelúja!
-hallo uh. halló! hó! hæ! s. hóa, æpa, kalla halló!
+hallo uh. halló! hó! hæ!; s. hóa, æpa, kalla halló!
 hallow s. helga, vígja
 hallucination n. ofskynjun, ofheyrn, ofsjónir, kvikskynjun; fleipur (í tauganeti)
 halo n. geislabaugur (utan um höfuð helgra manna); rosabaugur
@@ -234,7 +234,7 @@ haulm n. hálmur
 haunch n. mjöðm; læri (af skepnu)
 haunt s. sækja iðulega til e-s staðar, koma oft á e-n stað; ganga aftur á e-m stað (um drauga); ásækja, gera e-m ónæði með tíðum heimsóknum; elta; hafast við; [a ~ed house] hús sem reimt er í; n. dvalarstaður, dvalarstöðvar
 hautboy n. e.k. lúður
-have s. hafa; eiga ([he had many children]); fá; þurfa; verða, vera neyddur til ([to]); skilja; ráðast á ([at]); [~ by heart] kunna utan að; [~ a care] varast, gæta sín; [he had him murdered] hann lét myrða hann; [I would not ~ it spoken about] vildi ekki láta tala um það; [I ~ to go] ég verð að fara; [you ~ but to turn round] þú þarft bara að snúa þér við; [you had better go at once] þú ættir heldur (þér væri betra) að fara undir eins; [you had best go home] þér ættuð helst að fara heim; [I had rather remain] ég vildi heldur vera kyrr; [to ~ it] bera sigur úr býtum; fá það, kenna á því; [he has no Greek] kann ekkert í grísku; orðar [as Plato has it]; [~ on] vera (klæddur) í; bera (vopn)
+have s. hafa; eiga ([he had many children]); fá; þurfa; verða, vera neyddur til ([to]); skilja; ráðast á ([at]); [~ by heart] kunna utan að; [~ a care] varast, gæta sín; [he had him murdered] hann lét myrða hann; [I would not ~ it spoken about] vildi ekki láta tala um það; [I ~ to go] ég verð að fara; [you ~ but to turn round] þú þarft bara að snúa þér við; [you had better go at once] þú ættir heldur (þér væri betra) að fara undir eins; [you had best go home] þér ættuð helst að fara heim; [I had rather remain] ég vildi heldur vera kyrr; [to ~ it] bera sigur úr býtum; fá það, kenna á því; [he has no Greek] kann ekkert í grísku; [as Plato has it] eins og Plató orðar það; [~ on] vera (klæddur) í; bera (vopn)
 haven n. höfn; hæli
 haversack n. nestispoki hermanna
 havoc n. eyðilegging, tjón, skaði ([wreak ~, cause ~]); s. eyða ([~ the land])
@@ -290,7 +290,7 @@ headwear n. höfuðfat
 headwind n. mótviðri, mótvindur
 headwork n. andlegt erfiði
 head workman n. formaður verkamanna
-heady l. framhleypinn, flumósa; einþykkur, þrár; ofsafenginn; stríður (um straum); áfengur (um drykk) [a ~ brew]
+heady l. framhleypinn, flumósa; einþykkur, þrár; ofsafenginn; stríður (um straum); áfengur (um drykk) ([a ~ brew])
 header n. sá sem setur haus á nagla (títuprjóna); flokksforingi; stökk á höfuðið (í vatn)
 heading n. yfirskrift ([~ of a letter]); kafli (í bók)
 heal s. lækna; græða (sár, [~ up, over]); gróa, batna
@@ -378,7 +378,7 @@ hedge writer n. ónýtur rithöfundur
 heed s. gefa gaum að, hirða um; n. gaumur, eftirtekt; [to take ~] vera var um sig; [to give ~ to] gefa e-u gaum
 heedful l. gætinn, varkár
 heedless l. hirðulaus, gálaus, óvarkár
-heel n. hæll; [from head to ~, from ~ to point] frá hvirfli til ilja; [to lay by the ~s] leggja í fjötra; [to show the ~s] flýja; [to take to the ~s] taka til fótanna; [to be at the ~s of] vera í hælunum á; [to be out at (the) ~s] hafa gat á (sokk)hælunum, vera illa staddur; [to tumble ~s over head] steypa sér (steypast) í kollhnís; skíthæll (sjá %[shitheel]%) s. hæla (skó); (um hund) vera í hælunum á (skepnu), bíta í hælinn; leggja á hliðina; leggjast á hliðina, hallast (um skip)
+heel n. hæll; [from head to ~, from ~ to point] frá hvirfli til ilja; [to lay by the ~s] leggja í fjötra; [to show the ~s] flýja; [to take to the ~s] taka til fótanna; [to be at the ~s of] vera í hælunum á; [to be out at (the) ~s] hafa gat á (sokk)hælunum, vera illa staddur; [to tumble ~s over head] steypa sér (steypast) í kollhnís; skíthæll (sjá %[shitheel]%); s. hæla (skó); (um hund) vera í hælunum á (skepnu), bíta í hælinn; leggja á hliðina; leggjast á hliðina, hallast (um skip)
 heelpiece s. gera við hæl (á skó); n. hælleður
 heeltap n. hælplata; dreggjar í staupi
 heft n. vigt, þungi; s. vega, lyfta
@@ -600,7 +600,7 @@ hip-hip s. kalla heyr! heyr!
 hip n. mjöðm, lend; l. hipp, svalur, í tísku; uh. heyr! ([~, ~, hurray!]); s. gera þunglyndan
 hip-bone n. mjaðmarbein
 hip gout n. mjaðmagigt
-hipped l. sneiddur (um þak); með mjaðmir, er varðar mjaðmir, mjaðma-, ([large-~, small-~, o.s.frv.])
+hipped l. sneiddur (um þak); með mjaðmir, er varðar mjaðmir, mjaðma-, ([large-~, small-~], o.s.frv.)
 hip roof n. gaflþak, sneitt þak
 hip-roofed l. með gaflþaki ([~ house])
 hipshot l. mjaðmhaltur; sligaður
@@ -650,7 +650,7 @@ hobby n. áhugamál, áhugaefni; kappsmál; fálkategund; lítill hestur; reiðp
 hobbyhorse n. lítill hestur; reiðprik; tréhestur
 hobgoblin n. púki; grýla; glettinn álfur
 hobnail n. sóla- eða hælnagli; sveitakarl, búri
-hobnailed l. seymdur ([~ed boots]); búralegur
+hobnailed l. seymdur ([~ boots]); búralegur
 hobnob s. skeggræða (við [with]); drekka saman
 hock n. ökklaliður á afturfæti; mjóendinn á svínslæri; Rínarvín
 hockey n. hokkí (e.k. knattleikur)
@@ -979,8 +979,8 @@ hurdy-gurdy n. lírukassi; óvandað strengjahljóðfæri
 hurl s. fleygja, þeyta, kasta; steypa ([~ one from power]); gubba (óforml.)
 hurling n. kast, þeyting
 hurly-burly n. hávaði, gauragangur, hark
-hurrah uh. húrra! s. hrópa húrra
-hurray uh. húrra! s. hrópa húrra
+hurrah uh. húrra!; s. hrópa húrra
+hurray uh. húrra!; s. hrópa húrra
 hurricane n. hvirfilvindur, fellibylur; ofviðri
 hurry s. flýta, hraða; reka áfram; flýta sér; n. hraði, flýtir, flaustur; [he was in a ~] það var asi á honum; [there is no ~] ekkert liggur á
 hurry-scurry ao. á ringulreið; eins og fætur toga; n. óðagot, flaustur; l. flausturs-; s. ana, þjóta ([~ away])
@@ -995,7 +995,7 @@ husbandless l. mannlaus (um konu)
 husbandlike l. líkur (góðum) eiginmanni eða ráðdeildarmanni
 husbandman n. akuryrkjumaður, jarðyrkjumaður; búmaður
 husbandry n. jarðyrkja; sparsemi, ráðdeild; [rural ~] landbúnaður
-hush uh. þei! s. þagga niður í; svæfa (barn); bæla niður; þagna, verða hljóður; n. þögn, kyrrð
+hush uh. þei!; s. þagga niður í; svæfa (barn); bæla niður; þagna, verða hljóður; n. þögn, kyrrð
 hushed l. lágur (um hljóð)
 husk n. hýði (af korni, matbaunum o.s.frv.); s. taka hýðið af
 husky l. hýðiskenndur; rámur (um málróm), hás; þurr; n. sleðahundur
@@ -1008,7 +1008,7 @@ hustle s. hrinda, reka; ryðjast; rekast (á [against])
 huswife n. sjá %[housewife]%
 hut n. kofi, hreysi; s. setja (hermenn) í búðir; hafa vetrarsetu, hafast við (dvelja) í búðum
 hutch n. kassi til að geyma korn (eða skepnur) í; s. setja í kassa
-huzza uh. húrra! s. hrópa húrra ([~ for one])
+huzza uh. húrra!; s. hrópa húrra ([~ for one])
 hyacinth n. hýasinta, jasinta
 hyades nft. sjöstirni
 hyaline n. spegilsléttur sjór; l. gagnsær sem gler

@@ -611,8 +611,8 @@ disturbed l. truflaður, ónáðaður; raskaður
 immunology n. ónæmisfræði
 immunologist n. ónæmisfræðingur
 immunological l. ónæmisfræðilegur, ónæmisfræði-
-aluminium n. ál (frumefnið Al. 13 í lotukerfinu)
-aluminum n. ál (frumefnið Al. 13 í lotukerfinu)
+aluminium n. ál (frumefnið Al, 13 í lotukerfinu)
+aluminum n. ál (frumefnið Al, 13 í lotukerfinu)
 hardwood n. harðviður; gegnheill viður; l. harðviðar-
 vanilla n. vanilla; l. vanillu-
 orgasm n. fullnæging
@@ -1140,7 +1140,7 @@ aerospace n. flugiðnaður, flugtækni; flugverkfræði ([~ engineering])
 aerospace engineer n. flugvélaverkfræðingur, flugtæknifræðingur
 aeronautical l. flugvéla-, flugfars-, flugmála-
 aeronautical engineer n. flugvélaverkfræðingur
-fuck s. (óforml.) ríða, eiga kynmök; ráðast að e-m, vega að e-m ([~ with somone]); n. dráttur, kynmök, samfarir; uh. helvítis! andskotinn! djöfullinn!
+fuck s. (óforml.) ríða, eiga kynmök; ráðast að e-m, vega að e-m ([~ with someone]); n. dráttur, kynmök, samfarir; uh. helvítis! andskotinn! djöfullinn!
 fucking l. andskotans, helvítis, djöfulsins (áhersluorð, sjá %[fuck]%)
 shit n. kúkur, saur, drulla; s. kúka, skíta; uh. fjandinn! fjandans!
 tergum n. bakskjöldur
@@ -1543,9 +1543,9 @@ Arctic Circle n. Norðurheimskautsbaugur
 Arctic Ocean n. Norður-Íshafið
 Antarctic Circle n. Suðurheimskautsbaugur
 North America n. Norður-Ameríka (heimsálfa)
-North American n. norðuramerískur; n. Norður-Ameríkani, Norður-Ameríkumaður
+North American l. norðuramerískur; n. Norður-Ameríkani, Norður-Ameríkumaður
 Central America n. Mið-Ameríka
-Central American n. miðamerískur; n. Mið-Ameríkani, Mið-Ameríkumaður
+Central American l. miðamerískur; n. Mið-Ameríkani, Mið-Ameríkumaður
 South America n. Suður-Ameríka (heimsálfa)
 South American l. suðuramerískur; n. Suður-Ameríkani, Suður-Ameríkumaður
 Oceania n. Eyjaálfa (heimsálfa sem nær yfir Ástralíu og nærliggjandi eyjar)
@@ -1580,7 +1580,7 @@ civilizational l. siðmenningar-, siðmenningarlegur, heimsmenningarlegur (sjá 
 spliff n. jóna, kannabisvindlingur (óforml.)
 doobie n. jóna, kannabisvindlingur (óforml.)
 narcolepsy n. drómasýki
-narcoleptic n. drómasjúkur; n. drómasjúkur einstaklingur, drómasjúklingur
+narcoleptic l. drómasjúkur; n. drómasjúkur einstaklingur, drómasjúklingur
 autism n. einhverfa, sjálfhverfa (þroskaröskun)
 autism spectrum n. einhverfuróf
 autistic l. einhverfur, sjálfhverfur
@@ -1928,7 +1928,7 @@ maddening l. ærandi
 nightmarish l. martraðarkenndur, martraðar-
 malarial l. malaríu-
 Kurd n. Kúrdi
-Kurdish l. kúrdneskur; kúrdneska (indóevrópskt tungumál)
+Kurdish l. kúrdneskur; n. kúrdneska (indóevrópskt tungumál)
 angst n. angist
 angst-ridden l. angistarfullur
 criminalize s. glæpavæða, banna, gera refsivert
@@ -5754,7 +5754,7 @@ percentile n. hundraðshlutamark, hundraðsmark
 acidification n. súrnun, sýring
 ethnocentric l. þjóðhverfur
 isolationism n. einangrunarstefna
-isolationist l. einangrunarsinni
+isolationist n. einangrunarsinni
 interregional l. millisvæða- ([~ competition, conflict, co-operation])
 vibe n. bylgja (stytt. á %[vibration]%); stemning, andrúmsloft
 awkwardly ao. klaufalega, klunnalega, ófimlega; afkáralega; óþægilega
@@ -5762,7 +5762,7 @@ egocentricity n. sjálfhverfa, sjálflægni
 infanticidal l. barnamorðs-
 dactylography n. fingrafarafræði
 landline n. landlína, jarðlína
-enthralled l. hnepptur í ánauð; hnepptur í álög; gagntekinn, hugfanginn, hrifinn, hugfanginn
+enthralled l. hnepptur í ánauð; hnepptur í álög; gagntekinn, hugfanginn, hrifinn
 enthralling l. töfrandi, gagntakandi, hrífandi, hugfangandi
 hindquarters nft. afturhluti (líkamans)
 salami n. (ítölsk) spægipylsa
@@ -5908,7 +5908,7 @@ thermonuclear l. kjarnasamruna-, samruna-
 hydrogen bomb n. vetnissprengja
 atomic bomb n. atómsprengja, kjarnorkusprengja
 blowback n. bakslag, afturköst, neikvæðar (ófyrirséðar) afleiðingar; bakskot
-oviduct n. eggrás, eggjaleiðari, eggrás, legpípa
+oviduct n. eggrás, eggjaleiðari, legpípa
 uterine l. leg-
 exon n. táknröð, tjáröð (svæði í genum)
 combinatorics n. fléttufræði, talningarfræði, samtakagreining
@@ -6091,7 +6091,7 @@ whistleblowing n. uppljóstrun, afhjúpun
 neurotoxin n. taugaeitur
 dismembered l. sundurlimaður, slitinn í sundur
 dismembering n. sundurlimun
-exacerbated s. æstur, egndur, ertur, gerður verri
+exacerbated l. æstur, egndur, ertur, gerður verri
 moocher n. afæta, sníkjudýr, e-r sem lifir af öðrum, beiningamaður, betlari
 mooch s. sníkja, lifa af öðrum, betla
 cellulose n. beðmi, sellulósi, tréni
@@ -6222,7 +6222,7 @@ beta n. gríski bókstafurinn beta; prófunarferli á hugbúnaði eða kerfi; l.
 overestimated l. ofmetinn
 oestrus n. sjá %[estrus]%
 estrus n. tíðir, tíðahringur, blæðingar
-oestrous n. tíða-, tíðahrings-, blæðinga- (sjá %[estrus]%)
+oestrous l. tíða-, tíðahrings-, blæðinga- (sjá %[estrus]%)
 excluded l. útilokaður
 aphantasia n. skortur á getu til myndrænnar ímyndunar
 motivate s. hvetja e-n; skapa hvata; [feel motivated] finna fyrir hvata
@@ -6936,7 +6936,7 @@ unsalvageable l. óbjargandi, óbjarganlegur
 vaporware n. hugbúnaður sem verður aldrei að veruleika
 pecker n. spæta; goggur; typpi (óforml.); sveitavargur (óforml.)
 virtuousness n. dyggðasemi
-via fs. (lat.) í gegnum; [~ sattelite] í gegnum gervitungl
+via fs. (lat.) í gegnum; [~ satellite] í gegnum gervitungl
 dockside l. bryggjumegin; n. svæði nálægt bryggju
 isolated l. einangraður
 mascara n. maskari
@@ -7569,7 +7569,7 @@ mare milk n. kaplamjólk, hryssumjólk
 Himalayas nft. Himalajafjöll
 basinet n. miðaldahjálmur úr stáli
 aventail n. hringabrynjukragi, hringabrynjuhetta
-LLC n. einkahlutafélag í Bandaríkjunum (sks. á [limited liability corporation])
+LLC n. einkahlutafélag í Bandaríkjunum (sks. á [limited liability company])
 Ltd n. hlutafélag í Bretlandi (stytt. á %[limited company]%)
 prenatally ao. fyrir fæðingu
 thermion n. hitajón, glójón
@@ -8611,7 +8611,7 @@ starving l. sveltandi; hungurmorða; mjög svangur; sjá %[starve]%
 isosceles l. jafnarma
 depressing l. niðurdrepandi, þunglyndislegur (sjá %[depress]%)
 aspirate s. soga eða draga út (loft eða vökva); bera fram orð með fráblæstri eða aðblæstri
-pudgy s. feitur, holdugur (og lágvaxinn, lítill í vexti)
+pudgy l. feitur, holdugur (og lágvaxinn, lítill í vexti)
 heartsease n. þrenningarfjóla (jurt)
 hatful n. hattfylli
 gelded l. geldur, geltur, vanaður
@@ -8846,9 +8846,9 @@ Bengali l. bengalskur; n. bengalska (opinbert mál í Bangladess)
 Sorbian n. sorbíska (slavneskt tungumál)
 Romani n. rómíska (tungumál Romafólks); Roma-, Romafólks- (sjá %[Roma]%)
 Sami n. Sami, Lappi; samíska; l. samískur
-Lappic l. samískur; samíska
+Lappic l. samískur; n. samíska
 Aragonese l. aragónskur, frá Aragón; n. aragónska (norðurspænskt tungumál)
-Asturian n. astúrískur, frá Astúríu; n. astúríska (norðurspænskt tungumál)
+Asturian l. astúrískur, frá Astúríu; n. astúríska (norðurspænskt tungumál)
 Mandarin Chinese n. mandarín kínverska (tungumál)
 Amharic l. amharískur; n. amharíska (tungumál)
 Punjabi n. púndjabí (indóarískt tungumál)
@@ -9466,7 +9466,7 @@ lingonberry n. rauðber
 earworm n. fiðrildalirfa
 nimbostratus n. regnský, regnþykkni
 tacky l. hallærislegur, púkalegur, lummulegur
-tatty l. druslulegur, slitinn; lélegur, lággæða-; kartafla (óforml.)
+tatty l. druslulegur, slitinn; lélegur, lággæða-; n. kartafla (óforml.)
 peddler n. farandsali; sölumaður (sem selur ómerkilega muni)
 cheapjack n. farandsali; sölumaður (sem selur ómerkilega muni); dópsali
 gimcrackery n. smekkleysa; smáglingur, ómerkilegir munir
@@ -10550,7 +10550,7 @@ kendo n. kendó (japönsk skylmingalist)
 Antigua n. Antígva (eyja í Karíbahafi)
 Antiguan l. frá Antígvu; n. Antígvumaður
 Barbuda n. Barbúda (eyja í Karíbahafi)
-Barbudan l. frá Barbúda; Barbúdamaður
+Barbudan l. frá Barbúda; n. Barbúdamaður
 security council n. öryggisráð
 general assembly n. allsherjarþing
 Central African l. mið-afrískur; n. Mið-Afríkumaður
@@ -11015,7 +11015,7 @@ yup uh. jebb, jebbs (óforml.)
 fixer n. reddari, sá sem reddar hlutum eða bjargar málum (óforml.)
 arcana nft. sjá %[arcanum]%
 effects nft. munir; lausafé; lausir aurar; húsgögn ([household ~])
-Fates nft. örlaganornirnar (Atropos, Clotho, and Lachesis, í forngrískri goðafræði)
+Fates nft. örlaganornirnar (Atropos, Clotho og Lachesis, í forngrískri goðafræði)
 breakers nft. brim
 brackets nft. hornklofar; [within ~] innan hornklofa
 optically ao. ljós-, ljósrænt, á ljósrænan hátt
@@ -11731,7 +11731,7 @@ sangfroid n. yfirvegun, kaldrifjun (úr frönsku)
 torch-bearer n. sjá %[torchbearer]%
 challenger n. áskorandi
 Bohemia n. Bæheimur (vesturhluti Tékklands)
-Bohemian l. bæheimskur; bóhem
+Bohemian l. bæheimskur; n. bóhem
 methylation n. metýlun
 tomography n. sneiðmyndun, sneiðmyndataka, sneiðmyndagerð
 tomographic l. sneiðmynda-

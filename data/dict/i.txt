@@ -450,7 +450,7 @@ incapable l. óhæfur til ([of]), ekki fær (um); n. ónytjungur
 incapacitate s. gera óhæfan, gera ófæran (til e-s [for])
 incapacity n. vanmáttur, skortur á hæfileika
 incarcerate s. setja í fangelsi, loka inni, fjötra
-incarceration n. haldsetning. fangelsun
+incarceration n. haldsetning, fangelsun
 incarnadine l. holdlitaður, bleikrauður; rauður; n. holdslitur; rauður litur
 incarnate s. íklæða holdi; íklæðast e-u; l. holdi klæddur, holdgaður; [the devil ~] sjálfur djöfullinn
 incarnation n. holdgun; holdtekja; persónugerving
@@ -863,7 +863,7 @@ infrequency n. fátíðleikur
 infrequent l. fátíður, fáséður
 infrigidate s. kæla
 infrigidation n. kæling
-infringe s. brjóta. rjúfa; [~ on the rights of] veita (e-m) yfirgang, brjóta á réttindum e-s
+infringe s. brjóta, rjúfa; [~ on the rights of] veita (e-m) yfirgang, brjóta á réttindum e-s
 infringement n. brot, rof (á samningi), brot á réttindum; skerðing (réttar)
 infructuous l. ófrjór; árangurslaus, gagnslaus
 infuriate s. gera bálreiðan
@@ -958,7 +958,7 @@ inner l. innri
 innermost l. innstur
 inning n. hirðing (korns)
 innocence n. sakleysi; meinleysi
-innocent l. saklaus; meinlaus; n. sakleysingi. meinleysingi
+innocent l. saklaus; meinlaus; n. sakleysingi, meinleysingi
 innocuous l. meinlaus, óskaðlegur
 innominate l. nafnlaus
 innovate s. nýskapa, koma með nýjungar; breyta; [~ on/upon] gera breytingu á eða í
@@ -1206,7 +1206,7 @@ interdict s. banna; bannfæra; [~ one from fire and water] banna e-m vatn og eld
 interdiction n. forboð, bann; bannfæring
 interdictive l. bannandi, bann- ([~ statutes])
 interdictory l. bannandi, bann- ([~ statutes])
-interest s. vekja áhuga e-s (á e-u, [in, for]); taka (ná) til e-s; [~ oneself in] hafa áhuga á e-u; n. áhugi; hlutdeild; (persónuleg) áhrif (á e-n with); hagsmunir; vextir, renta, leiga; [news of ~] markverð tíðindi; [to take an ~ in] hafa mætur á, vera gefinn fyrir; [shipping ~] skipaútgerð; skipaútgerðarmenn; [landed ~] jarðeigendur (sem flokkur)
+interest s. vekja áhuga e-s (á e-u, [in, for]); taka (ná) til e-s; [~ oneself in] hafa áhuga á e-u; n. áhugi; hlutdeild; (persónuleg) áhrif (á e-n [with]); hagsmunir; vextir, renta, leiga; [news of ~] markverð tíðindi; [to take an ~ in] hafa mætur á, vera gefinn fyrir; [shipping ~] skipaútgerð; skipaútgerðarmenn; [landed ~] jarðeigendur (sem flokkur)
 interested l. sem á hlut í e-u, hefur áhuga á e-u ([in]); áhugasamur; hlutdrægur, sérplæginn; [all ~] allir hlutaðeigendur; [from ~ motives] af persónulegum hvötum
 interesting l. áhugaverður, skemmtilegur, merkilegur
 interfere s. fara í bága (við [with]); skipta sér af ([in/with]); sletta sér fram í, skerast í leikinn
@@ -1477,7 +1477,7 @@ ironmonger n. járnsali
 ironmongery n. járnvörur
 iron mould n. ryðblettur
 ironwork n. járnsmíði; ft. járnsteypustaður
-irony l. járnkynjaður, járn-; n. gráglettni örlaganna, háð, hæðni, kaldhæðni, írónía. skop, hæðni
+irony l. járnkynjaður, járn-; n. gráglettni örlaganna, háð, hæðni, kaldhæðni, írónía, skop
 ironical l. írónískur, hæðinn, háðskur; sagður í háði
 ironically ao. írónískt, í háði
 irradiance n. geislun, ljómi

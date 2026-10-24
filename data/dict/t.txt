@@ -37,7 +37,7 @@ taenia n. bendilormur
 taffeta n. þunnsilki
 tag n. málmtittur á reim; s. setja málmtitti á; festa við; vera í hælunum á e-m ([~ after one])
 tag-rag n. skríll
-tail n. hali, rófa, tagl, stertur, stél, sporður; bakhlið (fráhverfan) á peningi; frakkalaf; kaðalendi; [to lie head and ~] liggja andfætis; takmörkun; [heir in ~] með takmörkuðum erfðarétti; s. setja hala á; grípa um halann (sporðinn); vera aftastur í (skrúðgöngu [~ a procession]); festa aftan í e-ð ([to]); dragast aftur úr; ganga í halarófu; falla út í (into); [~ off] smáhverfa; leggja á flótta; hypja sig í burtu
+tail n. hali, rófa, tagl, stertur, stél, sporður; bakhlið (fráhverfan) á peningi; frakkalaf; kaðalendi; [to lie head and ~] liggja andfætis; takmörkun; [heir in ~] með takmörkuðum erfðarétti; s. setja hala á; grípa um halann (sporðinn); vera aftastur í (skrúðgöngu [~ a procession]); festa aftan í e-ð ([to]); dragast aftur úr; ganga í halarófu; falla út í ([into]); [~ off] smáhverfa; leggja á flótta; hypja sig í burtu
 tailboard n. laus bakfjöl (í flutningsvagni)
 tailed l. með hala, rófu, stél, o.s.frv.
 tailor n. skraddari, klæðskeri; s. stunda skraddaraiðn
@@ -268,7 +268,7 @@ tendance n. þjónusta; hjúkrun
 tendant l. þjónandi
 tendency n. tilhneiging; stefna; tilgangur
 tendentious l. ritaður (saminn) með ákveðnu markmiði, til stuðnings e-i skoðun eða málefni
-tender n. framboð, tilboð; gjaldmiðill; [legal ~] lögmætur gjaldeyrir; gæslumaður; hjúkrari; sá sem sinnir e-m; fylgiskip, vistaskip; kolavagn (á járnbraut); s. bjóða fram; bjóða e-m e-ð; grannur; mjúkur, meyr; blautgerður; viðkvæmur, blíður, ljúfur; brjóstgóður; varfærinn; [~ of (for, on behalf of)] sem lætur sér annt um e-ð
+tender n. framboð, tilboð; gjaldmiðill; [legal ~] lögmætur gjaldeyrir; gæslumaður; hjúkrari; sá sem sinnir e-m; fylgiskip, vistaskip; kolavagn (á járnbraut); s. bjóða fram; bjóða e-m e-ð; l. grannur; mjúkur, meyr; blautgerður; viðkvæmur, blíður, ljúfur; brjóstgóður; varfærinn; [~ of (for, on behalf of)] sem lætur sér annt um e-ð
 tender-hearted l. brjóstgóður, viðkvæmur, hjartahlýr
 tenderly ao. mjúklega, blíðlega; innilega, heitt; vægilega, gætilega
 tenderness n. grannleiki; meyrleiki; mýkt; viðkvæmni; blíða; brjóstgæði; nákvæmni, varfærni
@@ -636,7 +636,7 @@ tilter n. burtreiðarmaður
 tiltyard n. burtreiðarsvið
 tilth n. ræktun; ræktað land
 timber n. timbur, efniviður
-timbered l. skógi vaxinn; (smíðaður) úr timbri, timbur-; [well ~ed] sem gott efni er í
+timbered l. skógi vaxinn; (smíðaður) úr timbri, timbur-; [well ~] sem gott efni er í
 timbre n. hreimur, tónn
 timbrel n. bjöllubumba
 time n. tími, tíð; sinn, skipti; taktur (í söng); [to have a good (of it)] skemmta sér vel; [what is the ~] hvað er framorðið?; [two at a ~] tveir í einu; [at ~s] stundum; [for a ~] um stund; [in ~] í tæka tíð; s. laga eftir tímanum; framkvæma á hentugum tíma; velja hentugan tíma til e-s ([~ his visits]); ákveða (e-u) tíma; mæla (að því er snertir tíma); slá takt
@@ -879,7 +879,7 @@ townspeople nft. bæjarmenn
 towntalk n. umtalsefni í bænum
 townward ao. í áttina til bæjarins
 towrope n. dráttarkaðall
-tow-row n. skarkali; sköll ([~ og laughter])
+tow-row n. skarkali; sköll ([~ of laughter])
 toy n. leikfang, barnagull; glingur, hégómi; s. leika, leika sér, gera að gamni sínu, glensa
 trace n. spor, för, slóði; merki; snefill; menjar ([~s]); s. rekja (spor); finna; merkja; draga upp, teikna
 traceable l. rekjanlegur
@@ -1045,7 +1045,7 @@ travel s. ferðast; fara; fara yfir eða um ([~ a road, a district]); fara með 
 traveler n. ferðamaður; farandsali ([commercial ~])
 traveller n. ferðamaður; farandsali ([commercial ~])
 travelling l. ferða-; [~ companion] förunautur; [~ expenses] ferðakostnaður; [~ costume] ferðaföt; n. ferðalag, ferðalög
-traverse l. s. leggja þvert um; fara yfir eða í gegnum; liggja yfir ([footpaths traversing the country]); afstýra, hindra; neita, mótmæla fyrir (rétti); snúast (á ásenda); þvers um, þver-; n. þvertré; ferð yfir ([he made a ~ of the mountain]); stigahaft; óhapp; hindrun
+traverse s. leggja þvert um; fara yfir eða í gegnum; liggja yfir ([footpaths traversing the country]); afstýra, hindra; neita, mótmæla fyrir (rétti); snúast (á ásenda); l. þvers um, þver-; n. þvertré; ferð yfir ([he made a ~ of the mountain]); stigahaft; óhapp; hindrun
 travesty n. hlægileg eftirstæling, afbökun, skrumstæling; s. gera (alvarlegt efni) hlægilegt, gera hlægilega eftirstælingu af e-u
 trawl n. botnvarpa (sjá %[trawl line]%); s. veiða með botnvörpu
 trawlboard n. botnvörpuhleri
@@ -1091,7 +1091,7 @@ trenchant l. beittur, hvass
 trenchcap n. stúdentahúfa
 trencher n. skurðgrafari; kjöttrog (úr tré)
 trencherman n. matmaður ([a stout, valiant ~])
-trend s. snúa, stefna, liggja ([the ~s to the south]); [as things ~ today] eins og nú horfir við n. stefna ([~ of the coast]); tíska
+trend s. snúa, stefna, liggja ([the ~s to the south]); [as things ~ today] eins og nú horfir við; n. stefna ([~ of the coast]); tíska
 trepan n. hauskúpusög, höfuðkúpusög; s. saga gat á hauskúpuna; svíkja ([~ a friend]); tæla, ginna ([to/into]); [~ one out of] svíkja e-ð af (út úr) e-m
 trepidation n. skjálfti; hræðsla ([the men were in great ~])
 trespass s. veita yfirgang ([on]); níðast á, brjóta ([~ on]); misgera (við [against]); n. yfirgangur, átroðningur; misgerð, afbrot
@@ -1205,7 +1205,7 @@ trollopy l. subbulegur
 trombone n. básúna
 tromp n. blásturvél (við bræðsluofna)
 trompe n. blásturvél (við bræðsluofna)
-troop n. flokkur, hópur ([~ of children, ~ of soldiers]); riddaraflokkur ([~ of horse]); ft. liðsafli, lið; s. hópast, safnast; fara, halda (~ home, off, away); ganga í röð; koma (fara) í hópum; hafa mök við ([with]); fara, halda ([~ home, off, away]); ganga í röð; koma (fara) í hópum
+troop n. flokkur, hópur ([~ of children, ~ of soldiers]); riddaraflokkur ([~ of horse]); ft. liðsafli, lið; s. hópast, safnast; hafa mök við ([with]); fara, halda ([~ home, off, away]); ganga í röð; koma (fara) í hópum
 trooper n. (óbreyttur) hermaður, dáti, liðsmaður, riddari; [storm ~] stormsveitarmaður
 trope n. óeiginlegt orðtæki
 trophied l. skreyttur sigurmerkjum
@@ -1430,7 +1430,7 @@ twit s. brigsla e-m um e-ð ([~ one with his poverty])
 twitch s. rykkja, kippa (í e-ð); kippast saman; titra, skjálfa; n. rykkur, kippur; snarvölur
 twitter s. tísta, kvaka; titra; n. kvak
 twixt ao. stytt. á %[betwixt]%
-two l. tveir; [in a day or ~] eftir einn eða tvo daga; [in ~] í tvennt; n. talan tveir (2); [by ~s] tveir og tveir; ([to wander by ~s and threes])
+two l. tveir; [in a day or ~] eftir einn eða tvo daga; [in ~] í tvennt; n. talan tveir (2); [by ~s] tveir og tveir ([to wander by ~s and threes])
 two-edged l. tvíeggjaður
 twofold l. tvöfaldur; tvíþættur ([~ yarn])
 two-handed l. tvíhendur; [a ~ sword] sverð sem lyft er með báðum höndum

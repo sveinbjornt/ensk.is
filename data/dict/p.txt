@@ -91,7 +91,7 @@ pall n. viðhafnarkápa páfa og erkibiskupa; líkkistuklæði; s. verða bragð
 palladium n. palladín, palladíum (frumefnið Pd, 46 í lotukerfinu); líkneski gyðjunnar Pallas; hlífiskjöldur
 pallet n. vörubretti, hleðslubretti, flutningsbretti, palletta; rúmflet
 palliate s. hylja; fegra, afsaka; lina (sjúkdóm)
-palliation n. fegrun; afsökun; ([in ~ of his evil deeds]); linun, fróun
+palliation n. fegrun; afsökun ([in ~ of his evil deeds]); linun, fróun
 palliative l. afsakandi; linandi; n. fróunarlyf
 pallid l. bleikur, fölur
 pallidity n. fölleiki
@@ -294,14 +294,14 @@ paschal l. páskalegur, páska-
 pasha n. tyrkneskur hershöfðingi; landstjóri, jarl
 pasquil n. níð, níðrit
 pasquinade n. níðrit; s. rita níð um e-n
-pass n. fara (ganga, ríða, aka) fram hjá (yfir, í gegnum eða áfram [over, through, on]); bera við; verða samþykktur (um laganýmæli); líða ([time ~es rapidly]); hverfa ([~ away]); standast, taka (próf); eyða (um tíma); samþykkja; afhenda; rétta; kveða upp (dóm); þola, verða fyrir; [~ hence (from among us)] deyja; [~ the summer in the country] vera sumarlangt (á sumrin) uppi í sveit; [~ the hands across one's eyes] strjúka höndunum um augun; [the bill has ~ed] frumvarpið hefur verið samþykkt; [it ~es all understanding] það fer fram úr öllum skilningi; [~ away] líða (um tíma); andast, deyja; [~ by the name of] vera jafnaðarlega kallaður; [~ off bad money] gefa út vonda peninga; [~ on] halda áfram; [~ it on] greiða því veg áfram; [bring to ~] bera við, atvikast; [~ by] fara fram hjá; [~ for a wise man] vera talinn vitur maður; [~ off] smáhverfa; [the meeting ~ed off quietly] fundurinn fór friðsamlega fram; [as time ~ed on] eftir því sem fram liðu stundir; [~ over] fara yfir; sneiða fram hjá e-u; [~ a sword through a person] reka sverð í gegnum e-n; n. vegur; öngvegi, skarð; vegabréf; fararleyfi; stig ([at this ~]); ástand, staða; [obtain a ~] standast próf; [matters have come to a bad ~] málefnið er komið í vanda
+pass s. fara (ganga, ríða, aka) fram hjá (yfir, í gegnum eða áfram [over, through, on]); bera við; verða samþykktur (um laganýmæli); líða ([time ~es rapidly]); hverfa ([~ away]); standast, taka (próf); eyða (um tíma); samþykkja; afhenda; rétta; kveða upp (dóm); þola, verða fyrir; [~ hence (from among us)] deyja; [~ the summer in the country] vera sumarlangt (á sumrin) uppi í sveit; [~ the hands across one's eyes] strjúka höndunum um augun; [the bill has ~ed] frumvarpið hefur verið samþykkt; [it ~es all understanding] það fer fram úr öllum skilningi; [~ away] líða (um tíma); andast, deyja; [~ by the name of] vera jafnaðarlega kallaður; [~ off bad money] gefa út vonda peninga; [~ on] halda áfram; [~ it on] greiða því veg áfram; [bring to ~] bera við, atvikast; [~ by] fara fram hjá; [~ for a wise man] vera talinn vitur maður; [~ off] smáhverfa; [the meeting ~ed off quietly] fundurinn fór friðsamlega fram; [as time ~ed on] eftir því sem fram liðu stundir; [~ over] fara yfir; sneiða fram hjá e-u; [~ a sword through a person] reka sverð í gegnum e-n; n. vegur; öngvegi, skarð; vegabréf; fararleyfi; stig ([at this ~]); ástand, staða; [obtain a ~] standast próf; [matters have come to a bad ~] málefnið er komið í vanda
 passbook n. viðskiptabók, bankabók
 passkey n. aðallykill
 passman n. kandídat, sem hefur staðist próf án [honours]
 password n. lykilorð, leyniorð, aðgangsorð
 passable l. fær yfirferðar; viðunandi, bærilegur
 passably ao. viðunanlega, bærilega
-passage n. yfirferð; umferð; sjóferð; far ([free ~ home]); vegur; sund (milli húsa); göng (í húsi); atriði, atvik; grein, staður (í bók); samþykkt ([~ of a bill)]; [bird of ~] farfugl; [~ of/at arms] vopnaviðskipti; hörð orðadeila; s. ferðast (á skipi); eiga orðadeilu, rífast
+passage n. yfirferð; umferð; sjóferð; far ([free ~ home]); vegur; sund (milli húsa); göng (í húsi); atriði, atvik; grein, staður (í bók); samþykkt ([~ of a bill]); [bird of ~] farfugl; [~ of/at arms] vopnaviðskipti; hörð orðadeila; s. ferðast (á skipi); eiga orðadeilu, rífast
 passage boat n. ferjubátur
 passage money n. flutningskaup; fargjald
 passageway n. göng, húsasund
@@ -328,7 +328,7 @@ pastille n. ilmkerti; sykurtafla
 pastime n. dægrastytting, dægradvöl
 past-master n. snillingur (í e-u [in, of])
 pastor n. sálnahirðir, prestur
-pastoral l. hirðislegur; hirðingja- ([~ tribe, ~ poem]); prestlegur; hirðingjaljóð; bréf biskups til presta, hirðisbréf
+pastoral l. hirðislegur; hirðingja- ([~ tribe, ~ poem]); prestlegur; n. hirðingjaljóð; bréf biskups til presta, hirðisbréf
 pastorate n. prestsembætti; prestastétt
 pastorship n. prestsstaða
 pastry n. kökur, sætabrauð, sætindabakstur
@@ -601,7 +601,7 @@ perceptibly ao. merkjanlega
 perception n. sjón; skynjun; eftirtekt, varurð
 perceptive l. skynjandi; skilnings-, skynjunar- ([~ faculty])
 perch n. mælistöng; setstöng; hænsnaprik; [take one's ~] setjast; aborri (fiskur); s. setjast (á stöng, grein eða tré); húka (um fugla)
-perched l. sem er hátt uppi; [the convent is ~ed on a crag] stendur uppi á kletti
+perched l. sem er hátt uppi; [the convent is ~ on a crag] stendur uppi á kletti
 perchance ao. ef til vill
 percher n. trjáfugl
 percipient l. skynjandi; n. skynjandi vera
@@ -913,7 +913,7 @@ pianette n. lítið, upprétt píanó
 pianissimo ao. mjög hægt eða lágt
 pianino n. lítið píanó
 pianist n. píanóleikari
-piano n. píanó. slagharpa (hljóðfæri); ao. hægt, lágt (um hljóð eða hljóðfæraleik)
+piano n. píanó, slagharpa (hljóðfæri); ao. hægt, lágt (um hljóð eða hljóðfæraleik)
 pianoforte n. píanó (hljóðfæri)
 piastre n. pjastri (peningur spánskur, ítalskur eða tyrkneskur)
 piazza n. súlnagöng, bogagöng, ferhyrnt svæði, torg
@@ -1031,7 +1031,7 @@ pinnace n. hleypiskúta, léttiskúta (til róðrar og siglinga)
 pinnacle n. mjór turn, múrtindur, æðsta stig, hámark ([reach the ~ of earthly fame]); s. setja upp á tind, reisa hátt upp; kóróna
 pinnacled l. búinn múrtindum; hár
 pinnatiped l. sundfættur
-pint l. hálfur pottur, mörk
+pint n. hálfur pottur, mörk
 pintado n. perluhæna
 piny l. vaxinn grenitrjám
 pioneer s. ryðja braut; n. brautryðjandi ([~s of science])
@@ -1145,7 +1145,7 @@ plasticity n. mótunarhæfileiki; sveigjanleiki
 plastron n. brjósthlíf skylmingamanna; kviðskjöldur (skjaldböku); línbrjóst (á skyrtu)
 plat s. flétta; ríða; vefa; n. flétta; motta; blettur, reitur ([grassy ~])
 plate n. málmþynna, málmplata; spangabrynja; borðbúnaður; diskur; silfraðir munir, plettmunir; verðlaun (við kappreiðar); s. silfra, leggja málmþynnur á; málmbúa ([~ with gold or silver])
-plateau n. háslétta; skrautbakki, skrautdiskur; stöðugt ástand; s. staðna, komast í ástand þar sem lítið er um breytingar ([sales have ~d])
+plateau n. háslétta; skrautbakki, skrautdiskur; stöðugt ástand; s. staðna, komast í ástand þar sem lítið er um breytingar ([sales have ~ed])
 plateful n. fullur diskur, diskfylli ([a ~ of soup])
 plate-glass n. spegilgler
 plate-mark n. stimpill (á silfur- eða gullmunum)
@@ -1258,7 +1258,7 @@ plume n. fjöður; fjaðraskúfur; s. prýða með fjöðrum; laga eða hreinsa 
 plummet n. grunnsakka; lóðlína með lóðinu; s. hrapa skyndilega niður
 plumose l. fjaðraður; fiðurkenndur, fiður-
 plumous l. fjaðraður; fiðurkenndur, fiður-
-plump l. þriflegur; holdugur; fruntalegur ([a ~ lie]); ao. blátt áfram; afdráttarlaust, beint; uh. pomp! n. högg, skellur; hlunkur, dynkur; hópur, flokkur; regndemba; s. þenja (belgja) út; fita; láta detta þunglamalega; pompa; bólgna, þenjast út; hlamma ([~ oneself down on the grass]); fleipra út úr sér ([~ out]); [~ a vote] gefa aðeins einum atkvæði (er fleiri á að velja)
+plump l. þriflegur; holdugur; fruntalegur ([a ~ lie]); ao. blátt áfram; afdráttarlaust, beint; uh. pomp!; n. högg, skellur; hlunkur, dynkur; hópur, flokkur; regndemba; s. þenja (belgja) út; fita; láta detta þunglamalega; pompa; bólgna, þenjast út; hlamma ([~ oneself down on the grass]); fleipra út úr sér ([~ out]); [~ a vote] gefa aðeins einum atkvæði (er fleiri á að velja)
 plumper n. atkvæðaseðill með einu nafni
 plumply ao. blátt áfram; fruntalega
 plumpy l. sjá %[plump]%
@@ -1292,7 +1292,7 @@ poacher n. veiðiþjófur
 poachy l. mýrlendur, votlendur, blautur ([~ land])
 poachard n. toppönd
 pock n. bóla, útbrot á hörundinu
-pocket n. vasi; [be in ~] græða (á e-u by); [be out of ~] tapa; [I'm ten pounds out of ~] ég hef tapað 10 pundum; [money out of ~] útgjöld í peningum; s. stinga í vasann eða á sig; þegja við e-u
+pocket n. vasi; [be in ~] græða (á e-u [by]); [be out of ~] tapa; [I'm ten pounds out of ~] ég hef tapað 10 pundum; [money out of ~] útgjöld í peningum; s. stinga í vasann eða á sig; þegja við e-u
 pocketbook n. vasabók
 pocketful n. fullur vasi, vasafylli
 pocket glass n. vasaspegill
@@ -1454,7 +1454,7 @@ popery n. pápíska, páfavilla
 popinjay n. páfagaukur; málugur montari
 popish l. pápískur; páfa-; [~ religion] páfatrú
 poplar n. ösp, espitré
-popple n. hoppa upp og niður (eins og korkur á vatni); gjálfra; n. öldugangur, gárur
+popple s. hoppa upp og niður (eins og korkur á vatni); gjálfra; n. öldugangur, gárur
 poppy n. valmúi (svefngras)
 populace n. alþýða, almúgi; skríll
 popular l. vinsæll; vinsæll meðal alþýðunnar ([~ preachers]); alþýðlegur; alþýðu-, alþjóðar- ([~ election, meeting]); lýðhollur; sem er við alþýðuhæfi, auðskilinn ([~ science])
@@ -1620,7 +1620,7 @@ practical l. praktískur; verklegur; haganlegur; gagnlegur; hagsýnn
 practical joke n. áreitni, hrekkjabragð
 practicality n. gagnsemi; hagsýni
 practically ao. verklega
-practice n. vani; föst venja; æfing ([~ makes perfect]); leikur; notkun; framkvæmd; ([in ~]); reynsla; reynd; læknisstarfsemi ([he has a large ~]); lögfræðistarfsemi; bragð; aðferð; [out of ~] orðinn óvanur
+practice n. vani; föst venja; æfing ([~ makes perfect]); leikur; notkun; framkvæmd ([in ~]); reynsla; reynd; læknisstarfsemi ([he has a large ~]); lögfræðistarfsemi; bragð; aðferð; [out of ~] orðinn óvanur
 practician n. framkvæmdarmaður, starfsmaður
 practise s. iðka; stunda; framkvæma; beita, viðhafa; temja sér; fremja; beita brögðum; æfa sig ([~ on piano]); gegna störfum; [~ as a lawyer] gegna málflutningsstörfum; [~ physic] fást við lækningar; [~ on his credulity] nota sér trúgirni hans
 practitioner n. starfsmaður, iðkandi; læknir ([~ of medicine]); málaflutningsmaður ([~ of law])
@@ -1872,7 +1872,7 @@ presumptive l. sem menn halda að sé; [~ evidence/proof] sönnun, sem byggð er
 presumptively ao. að því er ætlað er
 presumptuous l. þóttafullur; ofdirfskufullur, óskammfeilinn
 presuppose s. gera ráð fyrir (e-u) fyrirfram
-pretence n. yfirvarp, yfirskin ([under the ~ of of helping]); átylla ([give one ~ to]); viðbára, fyrirsláttur; krafa
+pretence n. yfirvarp, yfirskin ([under the ~ of helping]); átylla ([give one ~ to]); viðbára, fyrirsláttur; krafa
 pretend s. gera sér upp ([~ illness]); þykjast, látast ([~ to know]); láta sem ([~ that]); gera sér von um að fá ([~ to a woman]); kalla eftir e-u; gera tilkall (til [to]); [~ to learning] þykjast vera lærður
 pretended l. uppgerður
 pretender n. sá sem gerir kröfu (t.d. til ríkis [to the throne])
@@ -1926,7 +1926,7 @@ priggishness n. mont, sjálfsálit
 prim l. penn; tilgerðarlegur; s. skreyta, dubba upp ([~ up]); setja á sig alvörusvip ([~ up]); herpa saman (varirnar [~ lips])
 primacy n. erkibiskupstign; yfirburðir, ágæti
 primal l. frumlegur; forn; fyrstur, fremstur, helstur
-primary l. fyrstur; helstur; upprunalegur, frumlegur, frum-; ([the ~ meaning of a word]); [~ education] barnafræðsla; [~ school] undirbúningsskóli, barnaskóli; n. aðalatriði; flugfjöður
+primary l. fyrstur; helstur; upprunalegur, frumlegur, frum- ([the ~ meaning of a word]); [~ education] barnafræðsla; [~ school] undirbúningsskóli, barnaskóli; n. aðalatriði; flugfjöður
 primate n. prímati, fremdardýr; erkibiskup; [Primate of all England] erkibiskupinn í Kantaraborg
 prime l. fyrstur, helstur; ágætur, frábær; [~ cost] innkaupsverð; [~ number] frumtala; [~ minister] forsætisráðherra; n. blómi (broddur) lífsins ([be in the ~ of life]); prímtala, frumtala; fyrsti hluti dags eða árs; morgunn; vor; besti hluti; [~ of the moon] nýtt tungl, ný; s. draga undirlit á (léreft undir málverk); leggja kveikjupúður á; [he is priming himself] hann er að drekka í sig áræði
 primer n. stafrófskver; námsbók handa byrjendum; hvellhetta

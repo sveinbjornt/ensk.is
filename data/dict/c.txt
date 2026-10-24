@@ -69,7 +69,7 @@ calligraphy n. skrautskrift, skrautritun
 callosity n. sigg, þykknun húðar
 callous l. harðbrjósta, harðlyndur, tilfinningalaus; harður (um hörundið); sigggróinn
 callow l. fjaðralaus; fiðurlaus, snoðinn; óreyndur
-calm l. rólegur, kyrr; hægur, friðsamur; n. kyrrð, rósemi; logn; [dead ~] ládeyða; [it fell dead ~] það gerði blæja logn; s. róa, stilla, sefa ([~ calm him down]); [the weather ~ed down] lægja (um vind)
+calm l. rólegur, kyrr; hægur, friðsamur; n. kyrrð, rósemi; logn; [dead ~] ládeyða; [it fell dead ~] það gerði blæja logn; s. róa, stilla, sefa ([~ him down]); [the weather ~ed down] lægja (um vind)
 calmness n. kyrrð, ró, stilling
 caloric n. hitaeininga-, kaloríu-, hitaefnis-
 calorie n. hitaeining, kaloría, hitaefni
@@ -182,7 +182,7 @@ capacity n. móttækisgáfa; hæfileiki; skilningur, gáfur; möguleiki; rúmtak
 caparison n. söðulklæði, reiðver; klæðnaður; s. skrautbúa, skreyta
 cap-à-pie ao. frá hvirfli til ilja
 cape n. höfði, nes; slag (á kápu); [~d cloak] kápa með slagi
-caper s. stökkva, hoppa; kapers; n. hopp, stökk
+caper s. stökkva, hoppa; n. hopp, stökk; kapers
 capercailye n. þiður (fuglsheiti)
 capercailzie n. þiður (fuglsheiti)
 capillary l. hárfínn; n. hárpípa; háræð ([~ vessel])
@@ -368,7 +368,7 @@ catacomb n. neðanjarðar grafhvelfing, grafhýsi
 catafalque n. líkpallur; e.k. líkvagn
 catalepsy n. dástjarfi (e.k. svefnsýki)
 cataleptic l. svefnsjúkur, stjarfur
-catalogue n. skrá, safnskrá; pöntunarlisti s. semja skrá yfir, skrásetja
+catalogue n. skrá, safnskrá; pöntunarlisti; s. semja skrá yfir, skrásetja
 catapult n. valslöngva, slöngvivél, vígslanga; s. slöngva
 cataract n. stór foss; ský (vagl) á auga; s. fossa
 catarrh n. kvef (með horrennsli)
@@ -663,7 +663,7 @@ cheapness n. ódýrleiki
 cheat s. svíkja, hafa af; gabba, ginna, leika á; eyða (tímanum); [~ at play] svíkja í spilum; n. prettur, svik; svikari
 cheater n. svikari
 cheatery n. svik, fjárprettir
-check n. skák; stöðvun. hindrun; mótstaða; hnekkir, tjón; aðhald; viðsett merki; miði, útgöngumiði; bankaávísun (sbr. %[cheque]%); kvittunarmiði; [keep in ~] halda e-m í skefjum; uh. skák; s. stöðva, hindra, hnekkja; stilla; prófa vandlega; halda í skefjum; segja skák, skáka
+check n. skák; stöðvun, hindrun; mótstaða; hnekkir, tjón; aðhald; viðsett merki; miði, útgöngumiði; bankaávísun (sbr. %[cheque]%); kvittunarmiði; [keep in ~] halda e-m í skefjum; uh. skák; s. stöðva, hindra, hnekkja; stilla; prófa vandlega; halda í skefjum; segja skák, skáka
 checkbook n. ávísanabók
 checked l. köflóttur
 checker s. sjá %[chequer]%
@@ -699,7 +699,7 @@ chest n. brjóst, bringa; kista; sjóðhirsla; [~ of drawers] dragkista, kommó�
 chestnut n. kastanía, kastaníuhneta; l. jarpur ([~ horse, hair])
 chevalier n. riddari
 cheviot n. e.k. ullardúkur
-chevy n. elting s. elta
+chevy n. elting; s. elta
 chew s. tyggja; [~ the cud] jórtra; n. tóbakstugga
 chibouk n. löng tyrknesk pípa
 chic n. listfengi, stíll; l. tískulegur, skrautlegur
@@ -822,7 +822,7 @@ chronometry n. vísindaleg (mjög nákvæm) tímamæling
 chrysalid n. púpa
 chrysanthemum n. e.k. blóm
 chub n. karfategund
-chubby n. þykkleitur, búlduleitur, feitur ([a ~ boy])
+chubby l. þykkleitur, búlduleitur, feitur ([a ~ boy])
 chuck s. kasta, henda; [~ away (chance)] kasta frá sér; [~ up to the sponge] gefast upp; [~ out] reka á dyr; gagga, klaka (um hænu); slá undir hökuna; n. klak; klapp (undir hökuna); kast
 chuckle s. hlæja leynilega, skríkja; hlakka yfir ([over]); n. skríkjur
 chucklehead n. auli, einfeldningur
@@ -832,7 +832,7 @@ chum n. sambýlismaður; [they are great ~s] miklir vinir; s. búa saman (í her
 chump n. kubbur, drumbur; heimskingi
 chumpy l. kubbslegur
 chunk n. þykkt stykki; hlunkur
-church n. kirkja; [the Church of England, the Anglican Church] enska ríkiskirkjan; [go to ~] fara í kirkju; [be at ~] vera í kirkju; [enter the ~] ganga inn í kirkjuna, í þjónustu kirkjunnar; [he had been to ~] í kirkju s. leiða (konu) í kirkju
+church n. kirkja; [the Church of England, the Anglican Church] enska ríkiskirkjan; [go to ~] fara í kirkju; [be at ~] vera í kirkju; [enter the ~] ganga inn í kirkjuna, í þjónustu kirkjunnar; [he had been to ~] í kirkju; s. leiða (konu) í kirkju
 churchgoing l. kirkjurækinn
 churchman n. klerkur; þjóðkirkjumaður
 churchwarden n. kirkjuvörður
@@ -1029,7 +1029,7 @@ clift n. klettur
 clifty l. klettóttur; snarbrattur ([~ coast])
 climate n. loftslag, veðurlag, veðrátta ([a warm ~])
 climax n. hæsta stig, hápunktur; vaxandi ákafi í ræðu
-climb n. klífa, klifrast
+climb s. klífa, klifrast
 climbable l. kleifur
 climber n. klifrari; klifurfugl
 clime n. jarðbelti; loftslag
@@ -1285,7 +1285,7 @@ collaboration n. samvinna, samstarf
 collaborator n. samhöfundur
 collapse n. samfall, hrun; s. falla saman, hrynja; gefast upp, guggna; hjaðna, dofna
 collar n. kragi; hálslín; flibbi ([loose ~]); hálsband; hálshringur; helsi; s. ná í kragann á (e-m); setja hálsband um
-collarbone l. viðbein
+collarbone n. viðbein
 collar-work n. erfið vinna, mikil áreynsla
 collate s. bera saman (rit); skipa í prestlegt embætti ([to a benefice/living])
 collateral l. jafnhliða; [~ pressure] hliðarþrýsting; [~ circumstances] aukaatriði; [~ relations] útarfar
@@ -1371,7 +1371,7 @@ combing n. kembing; hár, sem losnar við kembingu
 combustible l. eldfimur
 combustibles nft. eldfimt efni
 combustion n. brennsla, bruni
-come s. koma; komast; verða ([~ expensive]); [~ to pass] verða, bera við; [~ (to be) true] rætast, reynast satt; [ages to ~] ókomnar aldir; [how ~s it that] hvernig stendur á því að? [a misfortune seldom ~s alone] sjaldan er ein báran stök; [~ about] vilja til, bera við; atvikast ([it came about in this way]); snúast (um vindinn); [~ across] finna, hitta; [~ at] komast að; fá að vita; ná; [~ by] komast fram hjá; ná, fá, afla; [~ by his death] láta lífið, deyja; [~ down] falla, lækka (um verð); [~ down upon] ráðast á; [~ down with] láta af hendi rakna; [~ for] koma eftir, sækja, [~ from] koma (stafa) af e-u; [~ in] vera kosinn; fá völdin, taka við völdunum; komast í tísku; grípa fram í; taka undir; [~ in useful] verða að notum; [he asks where the fun ~s in] í hverju fyndnin er fólgin; [~ in at the door] inn um dyrnar; [~ in for] hlotnast e-ð (óvænt); [~ of] vera kominn af; [nothing came of it] það varð ekki til neins; [~ off] detta af (um hár); flagna af (um húðina); losna; sleppa; rætast; [~ off conqueror] bera sigur úr býtum; [~ off with his life] bjarga lífinu; [~ on] nálgast; koma fram (á leiksviðið); þrífast; heppnast; [darkness is coming on] dettur á; [it was coming on wet] fór að rigna; [~ on for discussion] til umræðu; [~ out] koma út (um bók); verða kunnugt; koma (brjótast) út (um mislinga); [~ out] safe sleppa með heilu og höldnu; [~ round] koma aftur; snúa sér (um vindinn); ná sér (eftir sjúkdóm); jafna sig; leika á e-n; [~ to] rakna við ([~ to one's senses]); nema svo og svo miklu; [~ to harm] meiða sig; [~ to nothing] verða að engu; [~ to an end] hætta, ljúka; [~ to one's property] erfa, taka við arfi; [~ to close quarters] komast í handalögmál, fara að berjast í návígi; [~ upon] koma að; ráðast á; gagntaka; hitta, finna; [~ upon the parish] fara á sveitina, hreppinn; [~ up to] jafnast við; [~ up with] ná e-m, finna upp á e-u
+come s. koma; komast; verða ([~ expensive]); [~ to pass] verða, bera við; [~ (to be) true] rætast, reynast satt; [ages to ~] ókomnar aldir; [how ~s it that] hvernig stendur á því að? [a misfortune seldom ~s alone] sjaldan er ein báran stök; [~ about] vilja til, bera við; atvikast ([it came about in this way]); snúast (um vindinn); [~ across] finna, hitta; [~ at] komast að; fá að vita; ná; [~ by] komast fram hjá; ná, fá, afla; [~ by his death] láta lífið, deyja; [~ down] falla, lækka (um verð); [~ down upon] ráðast á; [~ down with] láta af hendi rakna; [~ for] koma eftir, sækja; [~ from] koma (stafa) af e-u; [~ in] vera kosinn; fá völdin, taka við völdunum; komast í tísku; grípa fram í; taka undir; [~ in useful] verða að notum; [he asks where the fun ~s in] í hverju fyndnin er fólgin; [~ in at the door] inn um dyrnar; [~ in for] hlotnast e-ð (óvænt); [~ of] vera kominn af; [nothing came of it] það varð ekki til neins; [~ off] detta af (um hár); flagna af (um húðina); losna; sleppa; rætast; [~ off conqueror] bera sigur úr býtum; [~ off with his life] bjarga lífinu; [~ on] nálgast; koma fram (á leiksviðið); þrífast; heppnast; [darkness is coming on] dettur á; [it was coming on wet] fór að rigna; [~ on for discussion] til umræðu; [~ out] koma út (um bók); verða kunnugt; koma (brjótast) út (um mislinga); [~ out safe] sleppa með heilu og höldnu; [~ round] koma aftur; snúa sér (um vindinn); ná sér (eftir sjúkdóm); jafna sig; leika á e-n; [~ to] rakna við ([~ to one's senses]); nema svo og svo miklu; [~ to harm] meiða sig; [~ to nothing] verða að engu; [~ to an end] hætta, ljúka; [~ to one's property] erfa, taka við arfi; [~ to close quarters] komast í handalögmál, fara að berjast í návígi; [~ upon] koma að; ráðast á; gagntaka; hitta, finna; [~ upon the parish] fara á sveitina, hreppinn; [~ up to] jafnast við; [~ up with] ná e-m, finna upp á e-u
 comedian n. grínisti; skopleikari, leikari í gleðileikum; skopleikjaskáld, gleðileikaskáld
 comedy n. grínleikur, grínmynd; gleðileikur, gamanleikur
 comeliness n. þokki, fríðleikur; velsæmi
@@ -1382,7 +1382,7 @@ comestibles nft. matvæli ([he packed the ~])
 comet n. halastjarna
 cometary l. sem lýtur að eða er líkur halastjörnum
 comfit n. sætindi, kryddbakstur, sykurbakstur; s. sykurbaka
-comfort s. hugga, hughreysta; hressa; [be ~ed] huggastu! n. huggun; þægindi
+comfort s. hugga, hughreysta; hressa; [be ~ed] huggastu!; n. huggun; þægindi
 comfortable l. þægilegur; [make oneself ~] koma sér þægilega fyrir, láta fara vel um sig
 comfortably ao. þægilega
 comforter n. huggari; trefill
@@ -1610,7 +1610,7 @@ concentre s. sameina, draga saman á einn stað; festa hugann á (e-u einu); þj
 concenter s. sameina, draga saman á einn stað; festa hugann á (e-u einu); þjappa saman; safnast utan um einn stað
 concentric l. sem hefur sameiginlegan miðpunkt, sammiðja ([a ~ wheel])
 conception n. skynjun; ætlun, hyggja; hugmynd ([to give one a ~ of]); hugsun; getnaður
-concern n. taka til (e-s), varða, snerta; [~ oneself about] hirða um, skipta sér af; [to be ~ed] vera áhyggjufullur; eiga hlut að máli; vera riðinn við ([in]); [all ~ed] allir hlutaðeigendur; [your reputation is ~ed] mannorð þitt er að veði; n. viðskipti; hluttaka; hlutur ([have ~ in]); mál, málefni ([meddling in my ~s]); áhugamál; áhyggja; umhyggja; verslunarhús ([a flourishing ~]); [have no ~ with] eiga ekkert saman að sælda við; [it is no ~ of mine] það er mál sem mig ekki varðar
+concern s. taka til (e-s), varða, snerta; [~ oneself about] hirða um, skipta sér af; [to be ~ed] vera áhyggjufullur; eiga hlut að máli; vera riðinn við ([in]); [all ~ed] allir hlutaðeigendur; [your reputation is ~ed] mannorð þitt er að veði; n. viðskipti; hluttaka; hlutur ([have ~ in]); mál, málefni ([meddling in my ~s]); áhugamál; áhyggja; umhyggja; verslunarhús ([a flourishing ~]); [have no ~ with] eiga ekkert saman að sælda við; [it is no ~ of mine] það er mál sem mig ekki varðar
 concerning fs. um, að því er snertir
 concernment n. málefni; íhlutun, afskipti ([in/with something]); áhyggja, hluttekning; [a matter of public ~] sem varðar almenning; [of great ~] mikilsvarðandi
 concert n. tónleikar; hljómleikur; samkomulag; söngskemmtun; samsöngur; [in ~] samtaka; s. koma sér saman um (fyrirfram); hugsa upp
@@ -1667,7 +1667,7 @@ condescension n. tala niður til einhvers; lítillæti, ljúfmennska
 condign l. verðskuldaður, maklegur ([~ punishment])
 condiment n. krydd
 condisciple n. skólabróðir; samlærisveinn
-condition n. skilmáli; kostur; skilyrði; ástand, ásigkomulag; staða [~ of life, change one's ~] (stað)festa ráð sitt; [in a ~ to] fær um að; [in excellent ~] í ágætu standi, í ágætum holdum; [under existing ~s] eins og nú standa sakir; [on (the) ~ that] með því skilyrði, að; s. áskilja sér; koma sér saman um; binda (e-ð) skilyrði
+condition n. skilmáli; kostur; skilyrði; ástand, ásigkomulag; staða ([~ of life]); [change one's ~] (stað)festa ráð sitt; [in a ~ to] fær um að; [in excellent ~] í ágætu standi, í ágætum holdum; [under existing ~s] eins og nú standa sakir; [on (the) ~ that] með því skilyrði, að; s. áskilja sér; koma sér saman um; binda (e-ð) skilyrði
 conditional l. bundinn skilyrði, takmarkaður; [~ clause] skildagasetning; [he made his consent ~ upon] hann batt samþykki sitt því skilyrði að
 conditionally ao. með skilyrði
 conditioned l. -lyndur ([an ill-~ woman]); -lagaður; ásigkominn; staddur; takmarkaður; skilyrtur
@@ -2227,8 +2227,8 @@ coryza n. nefkvef
 cose s. gera sér notalegt
 cosily ao. notalega
 cosmetic l. fegrandi; n. fegurðarlyf, tállitur
-cosmic s. alheimslegur
-cosmical s. alheimslegur
+cosmic l. alheimslegur
+cosmical l. alheimslegur
 cosmogony n. heimssköpun; sköpunarsaga
 cosmos n. heimur, alheimur
 cosmopolitan l. heimsborgaralegur; n. heimsborgari
@@ -2260,7 +2260,7 @@ cottony l. baðmullarkenndur; loðinn ([leaves ~ underneath])
 couch s. leggja; hneigja; fella (spjót til atlögu); semja, orða ([~ in terms, words, language]); taka ský af auga; hylja; liggja, hvílast; liggja í leyni; n. hvíla, ból; legubekkur, sófi; lag ([a thin ~ of varnish])
 couchgrass n. villihveiti
 cough n. hósti; s. hósta
-coulisse s. leiktjald
+coulisse n. leiktjald
 coulter n. plógjárn, plógskeri, ristill
 council n. ráðstefna; kirkjuþing; ráð, ríkisráð ([~ of state]); sveitarfélag (í Bretlandi)
 council chamber n. þingstofa
@@ -2312,7 +2312,7 @@ coupling n. tengsl
 courage n. hugrekki, hugprýði, hugur
 courageous l. hugrakkur, hugaður, hugdjarfur
 courier n. boðberi, sendiboði, hraðboði; fylgdarmaður (í ferðalagi)
-course n. rás, ferð; gangur; stefna, leið; farvegur ([water-~]); skeiðvöllur (race-~); æviskeið; aðferð, venja; ft. hegðun; röð (af fyrirlestrum); réttur (matar); gangverð á peningum og skuldabréfum ([~ of exchange]), gengi; segl ([fore, main-]); [change one's ~] breyta um stefnu; [hold the ~] halda stefnunni; [in ~ of construction] í smíðum; [a matter of ~] sjálfsagður hlutur; [in the ~ of years] þegar fram líða (liðu) stundir; [~ of events] rás viðburðanna; [in due ~] á sínum tíma; [of ~] auðvitað, vitanlega; s. elta (veiðidýr); láta hlaupa, hleypa (hesti); hlaupa, renna; stefna, halda
+course n. rás, ferð; gangur; stefna, leið; farvegur ([water-~]); skeiðvöllur ([race-~]); æviskeið; aðferð, venja; ft. hegðun; röð (af fyrirlestrum); réttur (matar); gangverð á peningum og skuldabréfum ([~ of exchange]), gengi; segl ([fore, main-]); [change one's ~] breyta um stefnu; [hold the ~] halda stefnunni; [in ~ of construction] í smíðum; [a matter of ~] sjálfsagður hlutur; [in the ~ of years] þegar fram líða (liðu) stundir; [~ of events] rás viðburðanna; [in due ~] á sínum tíma; [of ~] auðvitað, vitanlega; s. elta (veiðidýr); láta hlaupa, hleypa (hesti); hlaupa, renna; stefna, halda
 courser n. veiðimaður; veiðihundur; kappreiðarhestur
 court n. garður (umgirt svæði), húsagarður; konungshöll; hirð; dómstóll ([~ of law, ~ of justice, judicature, police ~, criminal ~]); dómur, réttur; dómsalur; kurteisisheimsókn; afmarkaður reitur ([tennis ~]); ástarhót; [to pay (make) ~ to] reyna að koma sér í mjúkinn við, sýna ástarhót; s. sækjast eftir (hylli e-s); sýna ástarhót, biðla til; lokka
 court-card n. mannspil, málspil
@@ -2660,7 +2660,7 @@ curial l. sem lýtur að páfahirðinni
 curiosity n. forvitni; hnýsni; fágætur (eða markverður) hlutur
 curious l. forvitinn; hnýsinn; nákvæmur ([~ enquiry]); markverður; skrítinn; kynlegur
 curiousness n. forvitni; hnýsni
-curl n. liður (á hári), hárlokkur; liðun (hársins); [~s of smoke] reykjarhringir; s. snúa saman; gera liði (á hár); ýfa, gára; hrökkva, liðast (um hár), þyrlast í; [the dog ~ed himself up] (hringaði sig) [on the sofa]
+curl n. liður (á hári), hárlokkur; liðun (hársins); [~s of smoke] reykjarhringir; s. snúa saman; gera liði (á hár); ýfa, gára; hrökkva, liðast (um hár), þyrlast í; [the dog ~ed himself up on the sofa] hundurinn hringaði sig í sófanum
 curly l. hrokkinn; hrokkinhærður ([curly-haired])
 curlew n. spói
 curmudgeon n. svíðingur, nirfill

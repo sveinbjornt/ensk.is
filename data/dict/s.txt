@@ -228,7 +228,7 @@ scaffold n. pallur; aftökupallur; s. reisa pall (skorður) undir e-ð eða upp 
 scaffolding n. smíðapallur; vinnupallar; verkpallur, vinnupallur, stillas
 scald s. brenna (á sjóðheitu vatni eða gufu); skola úr heitu vatni; [~ milk] flóa mjólk; n. brunasár; (fornnorrænt) skáld
 scalding l. sjóðheitur, brennheitur
-scale n. skali; vogarskál; [a pair of ~s] metaskálar, vog; [to ride to ~] ríða til að láta vega sig (eftir endaða kappreið); [to turn the ~] ríða baggamuninn; tónstigi; hlutfall; mælikvarði; [decimal ~] tugamál; [on a large (small) ~] í stórum (litlum) mæli; hreistur; væra, flasa ( í höfði); sindur; vatnsskóf (í katli); s. klifra upp á; hreistra (fisk); flysja; flagna, flosna frá ([off, away])
+scale n. skali; vogarskál; [a pair of ~s] metaskálar, vog; [to ride to ~] ríða til að láta vega sig (eftir endaða kappreið); [to turn the ~] ríða baggamuninn; tónstigi; hlutfall; mælikvarði; [decimal ~] tugamál; [on a large (small) ~] í stórum (litlum) mæli; hreistur; væra, flasa (í höfði); sindur; vatnsskóf (í katli); s. klifra upp á; hreistra (fisk); flysja; flagna, flosna frá ([off, away])
 scalebeam n. vogarstöng
 scaler n. klifrari, fjallgöngumaður
 scalene l. ójafnhliða
@@ -312,7 +312,7 @@ schoolmaster n. skólakennari
 schoolmistress n. kennslukona
 schoolroom n. kennslustofa, bekkur
 schooner n. skonnorta (skip)
-sciatic l. mjaðmar- ([~ nerve)]
+sciatic l. mjaðmar- ([~ nerve])
 sciatica n. gigt í mjöðm eða læri
 science n. vísindi; vísindagrein; [a man of ~] vísindamaður
 sciential l. vísindalegur
@@ -764,7 +764,7 @@ shabby l. slitinn (um föt); tötralegur; sóðalegur, óþrifalegur, subbulegur
 shabrack n. söðulklæði
 shackle n. hlekkur; s. fjötra
 shackles nft. fjötrar
-shade n. skuggi, forsæla; ljósskýla, lampakúpull, lampahjálmur; skyggni, der; skuggaskipti á litmynd; litblær; [a ~ higher] ögn hærri; s. skyggja [he ~d his eyes with his hand] bar höndina fyrir augun; draga skugga á (uppdrátt); skýla hlífa; [~ into] breytast (smám saman) í
+shade n. skuggi, forsæla; ljósskýla, lampakúpull, lampahjálmur; skyggni, der; skuggaskipti á litmynd; litblær; [a ~ higher] ögn hærri; s. skyggja; [he ~d his eyes with his hand] bar höndina fyrir augun; draga skugga á (uppdrátt); skýla, hlífa; [~ into] breytast (smám saman) í
 shadow n. skuggi (af e-u); skjól, vernd; skuggamynd; [not a ~ of doubt] alls enginn vafi; s. skyggja á; skýla, vernda; draga skugga á (mynd); sýna óljósa mynd af (e-m); fylgja e-m eins og skuggi
 shadowy l. skuggalegur, dimmur; óljós; forsæluríkur
 shady l. forsæluríkur; svalur; vafasamur; [the ~ side] skuggahliðin; [on the ~ side of forty] yfir fertugt
@@ -1366,7 +1366,7 @@ slimy l. slímugur, slepjulegur; blautur, forugur
 sling n. slanga; kast; fatli ([to carry one's arm in a ~]); s. kasta úr slöngu, slöngva; hengja upp
 slinger n. slöngvari
 slink s. læðast burtu ([~ away, ~ off]); bera fyrir tímann (um skepnur)
-slip s. renna, skrika, hrasa ([he ~ped in the mud]); læðast, laumast (í burtu away); skreppa ([just ~ across to the baker's]); láta renna; lauma, stinga (e-u); smeygja; smeygja af sér ([the dog ~s his collar]); sleppa (e-u); [~ into one's clothes] smeygja sér í fötin; [his foot ~ped] honum skriðnaði (skrapp, skrikaði) fótur; [I ~ped on my trousers] ég smeygði mér í buxurnar; n. fótamissir; hrösun, ávirðing, glappaskot; afskorinn gróðurkvistur; hálstengsli (á veiðihundum); renningur, ræma; seðill, miði ([a ~ of paper]); ermasvunta; (kodda)-ver; dráttarbraut (fyrir skip); [a ~ of the pen] ritvilla; [to make a ~ of the tongue] tala af sér; [we gave the enemy the ~] hlupum frá óvinunum
+slip s. renna, skrika, hrasa ([he ~ped in the mud]); læðast, laumast (í burtu [away]); skreppa ([just ~ across to the baker's]); láta renna; lauma, stinga (e-u); smeygja; smeygja af sér ([the dog ~s his collar]); sleppa (e-u); [~ into one's clothes] smeygja sér í fötin; [his foot ~ped] honum skriðnaði (skrapp, skrikaði) fótur; [I ~ped on my trousers] ég smeygði mér í buxurnar; n. fótamissir; hrösun, ávirðing, glappaskot; afskorinn gróðurkvistur; hálstengsli (á veiðihundum); renningur, ræma; seðill, miði ([a ~ of paper]); ermasvunta; (kodda)-ver; dráttarbraut (fyrir skip); [a ~ of the pen] ritvilla; [to make a ~ of the tongue] tala af sér; [we gave the enemy the ~] hlupum frá óvinunum
 slip bolt n. renniloka
 slipknot n. rennihnútur
 slipper n. morgunskór, inniskór
@@ -1519,7 +1519,7 @@ snob n. sá eða sú sem er snobbaður, montari, uppskafningur, broddborgari
 snobbish l. snobbaður, uppskafningslegur, montinn
 snobbism n. snobb, uppskafningsháttur, broddborgaraskapur, mont
 snood n. hárband
-snooze s. blunda, móka; n. blundur. dúr
+snooze s. blunda, móka; n. blundur, dúr
 snore s. hrjóta; n. hrota
 snoring n. hrotur
 snort s. frýsa, fnæsa, fnasa; n. frýs, fnæs, blástur
@@ -1685,7 +1685,7 @@ soothsay s. segja fyrir, spá
 soothsayer n. spámaður, spákona, völva
 soothe s. stilla; sefa; hugga; kjassa, smjaðra
 soothing l. sefandi; huggandi
-sop n. útbleyttur biti; friðunargjöf; s. dýfa (e-u) í, bleyta út; þerra (soga) upp; rennvæta; [~ing with rain] rennvotur (gagndrepa) af regni
+sop n. útbleyttur biti; friðunargjöf; s. dýfa (e-u) í, bleyta út; þerra (soga) upp; rennvæta; [~ping with rain] rennvotur (gagndrepa) af regni
 soppy l. gegnvotur; væminn
 sophism n. skökk ályktun, hártogun; sófismi
 sophist n. heimspekiskennari (hjá Grikkjum), lýðfræðari; hártogari
@@ -1816,7 +1816,7 @@ specious l. álitlegur, glæsilegur; fagur (réttur) að ytra útliti, yfirvarps
 speck n. blettur, depill; spik (á hvölum); s. bletta
 speckle n. lítill blettur, díli, drafna; s. gera dílótt (dröfnótt, deplótt)
 spectacle n. sjón; sýning; [a deplorable ~] hörmuleg sjón
-spectacles nft. gleraugu ([a pair of ~s]); sýningar
+spectacles nft. gleraugu ([a pair of ~]); sýningar
 spectacled l. með gleraugu
 spectacle case n. gleraugnahús
 spectacle frame n. gleraugnaumgjörð
@@ -1980,7 +1980,7 @@ spotty l. flekkóttur
 spousal l. brúðkaups-, brúðar- ([~ present])
 spouse n. eiginmaður; eiginkona
 spouseless l. ógiftur, ókvæntur, án maka
-spout n. pípa; stútur; s. spýta ([the whale ~s water]); skvetta; gjósa; buna, spýtast; ([blood ~s from a wound]); tala hátíðlega; lesa upp
+spout n. pípa; stútur; s. spýta ([the whale ~s water]); skvetta; gjósa; buna, spýtast ([blood ~s from a wound]); tala hátíðlega; lesa upp
 spoutless l. stútlaus
 sprain s. skekkja í liði; ofteygja (sin); ofreyna; n. liðskekking, liðundning; sinatog
 sprat n. blaðsíld; kópsíld
@@ -2442,7 +2442,7 @@ straightaway ao. undir eins, tafarlaust
 strain s. þenja, teygja; reyna á; reyna of mikið á; ofteygja (sin); ofreyna; sía; reyna á sig; síast; [a dog ~ing at its chain] sem togar í festina; [~ every nerve] neyta allrar orku; [~ed interpretation] þvinguð (óeðlileg) skýring; [~ed laugh] uppgerðarhlátur; [~ for] sækjast eftir; n. þensla; kraftur; áreynsla; ofreynsla; tognun (sina eða vöðva); hljómur; (söng)lag; ljóð; tónn í tali eða riti ([much more in the same ~]); ættstofn ([he comes of a good ~]); aðkenning, snefill af e-u ([~ of melancholy])
 strainer n. sía
 strait l. þröngur; erfiður; n. sund (ft. %[straits]%); vandræði, kröggur ([in ~s])
-straiten s. þrengja; herða ([~ a cord]); koma (e-m) í vandræði; [to be ~ened for money] vera í peningavandræðum; [~ened circumstances] kröggur, basl, fátækt
+straiten s. þrengja; herða ([~ a cord]); koma (e-m) í vandræði; [to be ~ed for money] vera í peningavandræðum; [~ed circumstances] kröggur, basl, fátækt
 strait-handed l. nískur
 straitlaced l. fastreyrður; siðvandur; smásmuglegur
 straitness n. þröngleiki; skortur; örðugleiki; [~ of circumstances] efnaskortur
@@ -2501,7 +2501,7 @@ strictness n. strangleiki, harka; þensla
 stricture n. þrengsli, herping; enging, samanherping; aðfinning, aðfinnsla
 stride s. skrefa, stika; n. langt skref ([to take great ~s])
 strident l. hvínandi
-stridulate s. ískra. hvína
+stridulate s. ískra, hvína
 stridulous l. hvínandi, ískrandi
 strife n. ófriður, deila; barátta, stríð ([be at ~ with])
 strike s. slá, ljósta; reka ([~ one's foot against a stone]); rekast á; fella, taka niður ([~ a mast, sail, tent]); gera (mikil) áhrif á; gera verkfall ([~ work]); höggva niðri (um skip); draga niður fánann (sem uppgjafarmerki); [~ root] festa rætur; [struck with terror] óttasleginn; [~ dead] drepa (á augabragði); [it ~s me as ridiculous] mér finnst (þykir) það vera fáránlegt; [~ a bargain] gera kaup; [~ fire] kveikja eld; [~ an account] gera upp reikning; [a thought ~s me] mér dettur nokkuð í hug; [~ into another path] leggja (fara) inn á annan veg; [~ into a gallop] hleypa á stökk; [~ at] slá til (e-s); ráðast á; [~ for] halda (fara) tafarlaust til; [~ for higher pay] gera verkfall til að fá hærra kaup; [~ in] koma æðandi inn; grípa fram í; slá inn (um litbrot); [~ in with] ganga í lið með; laga sig eftir; [~ out] strika út; hugsa (finna) upp; [~ up] taka að berja (bumbur), taka að syngja eða leika (á hljóðfæri); n. verkfall; kefli sem kúfur er strokinn með af mælikerum
@@ -2657,7 +2657,7 @@ subsidence n. fall, lækkun ([~ of ground]); minnkun
 subsidiary l. hjálpar-, aðstoðandi; n. hjálparmaður; n. dótturfyrirtæki
 subsidize s. niðurgreiða; veita (e-m) fjárstyrk (einkum af ríkisfé)
 subsidy n. fjárstyrkur, fjártillag ([to grant a ~ to])
-subsist s. vera til, standa, haldast; lifa, hafa ofan af fyrir sér; ([~ on vegetables, ~ by begging]); veita (e-m) viðurværi, fæða; ala
+subsist s. vera til, standa, haldast; lifa, hafa ofan af fyrir sér ([~ on vegetables, ~ by begging]); veita (e-m) viðurværi, fæða; ala
 subsistence n. tilvera; viðurværi, afkoma; atvinna
 subsistent l. tilverandi; íbúandi ([~ in matter])
 subsoil n. jarðvegurinn undir sverðinum
@@ -2929,7 +2929,7 @@ surgy l. brimsollinn ([the ~ ocean]); bylgjóttur
 surliness n. önuglyndi, ónot
 surly l. önugur; ónotalegur ([a ~ answer])
 surmise n. ágiskun; grunur; s. giska á; gruna
-surmount s. gnæfa yfir; setja yfir eða ofan á; sigrast á, yfirstíga; ([~ a difficulty, an obstacle]); [peaks ~ed with snow] snævi þaktir tindar
+surmount s. gnæfa yfir; setja yfir eða ofan á; sigrast á, yfirstíga ([~ a difficulty, an obstacle]); [peaks ~ed with snow] snævi þaktir tindar
 surmountable l. yfirstíganlegur; vinnandi
 surname n. aukanafn, fjölskyldunafn, viðurnefni; s. gefa (e-m) viðurnefni
 surpass s. bera af, skara fram úr

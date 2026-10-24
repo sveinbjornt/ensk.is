@@ -187,7 +187,7 @@ faun n. skógarguð
 fauna n. dýraríki e-s lands
 fautor n. styrktarmaður
 favor n. sjá %[favour]%
-favour n. hylli; góðvild; greiði; hagnaður; [to be in ~ of] vera meðmæltur e-u; [in high ~ with, high in ~ of] í miklum kærleikum við; ([we are in receipt of) your ~] yðar heiðraða bréf; [with (by) your ~] með yðar leyfi; s. vera meðmæltur, unna; gera auðveldara; styðja, efla, auka ([a water to ~ the growth of the hair]); [~ one with] veita e-m e-ð; [to be ~ed with] hafa fengið e-ð
+favour n. hylli; góðvild; greiði; hagnaður; [to be in ~ of] vera meðmæltur e-u; [in high ~ with, high in ~ of] í miklum kærleikum við; [(we are in receipt of) your ~] yðar heiðraða bréf; [with (by) your ~] með yðar leyfi; s. vera meðmæltur, unna; gera auðveldara; styðja, efla, auka ([a water to ~ the growth of the hair]); [~ one with] veita e-m e-ð; [to be ~ed with] hafa fengið e-ð
 favourable l. vinveittur, hlynntur; hagstæður, hagkvæmur
 favourably ao. vingjarnlega
 favourite n. uppáhald; vildarmaður; l. uppáhalds-
@@ -447,7 +447,7 @@ find s. finna; hitta; útvega ([~ money, bail, security]); kveða upp ([the jury
 findable l. finnanlegur
 finder n. finnandi
 finding n. fundur, uppgötvun; úrskurður (kviðdóms)
-fine l. fallegur, fagur; smár, fínn; hreinn, tær (um lög); skír (um málma); egghvass, beittur; næmur ([a ~ ear]); s. sekta; skíra (vín eða málma); skírast, verða glær; [~ away, down] þynna; þynnast, smáeyðast; n. fésekt, útlát; s. ao. [in ~] að lokum
+fine l. fallegur, fagur; smár, fínn; hreinn, tær (um lög); skír (um málma); egghvass, beittur; næmur ([a ~ ear]); s. sekta; skíra (vín eða málma); skírast, verða glær; [~ away, down] þynna; þynnast, smáeyðast; n. fésekt, útlát; ao. [in ~] að lokum
 fine-draw s. sauma saman (rifu), svo að ekki beri á saumnum
 fine-drawn l. grannur; hárfínn
 fineness n. fegurð; grannleiki, fínleiki; skírleiki (málma)
@@ -654,7 +654,7 @@ flexion n. beyging; bugða
 flexure n. beyging; bugða
 flexuous l. bugðóttur; sveigjanlegur
 flibbertigibbet n. skrafskjóða; púki
-flick n. laust högg; rykkur; smellur; kvikmynd (óforml.) s. slá laust (með keyri eða þ.k.); flögra; titra
+flick n. laust högg; rykkur; smellur; kvikmynd (óforml.); s. slá laust (með keyri eða þ.k.); flögra; titra
 flicker s. baða vængjum; flögra; flökta, blakta; n. flökt, blakt
 flier n. flugfarþegi; fljúgandi skepna; sveifluhjól; flóttamaður (sjá %[flyer]%)
 flight n. flótti; flug; fuglahópur (á flugi); [a ~ of stairs] stigi; [to put to ~] reka á flótta; [take a ~] fljúga upp; [to take ~] leggja á flótta
@@ -896,7 +896,7 @@ foresleeve n. framermi
 forest n. skógur, skóglendi
 forester n. skógarvörður; skógarbúi
 forestry n. skóglendi; skógyrkja; skógyrkjufræði, skógræktarfræði
-forestall s. verða fyrri til en, verða á undan e-m ([she had ~ him in the purchase of ...]); hindra, ónýta; kaupa upp
+forestall s. verða fyrri til en, verða á undan e-m ([she had ~ed him in the purchase of ...]); hindra, ónýta; kaupa upp
 forestay n. fokkustag; framfokka
 foretaste n. forsmekkur
 foretell s. segja fyrir, spá; boða, vita á
@@ -1213,7 +1213,7 @@ frumpy l. önuglyndur, subbulegur
 frush n. hóftunga
 frustrate s. ónýta ([~ a hope, plan]); ógilda
 frustration n. ónýting, ógilding
-fry s. steikja (á pönnu); stikna; smáfiski, seiði
+fry s. steikja (á pönnu); stikna; n. smáfiski, seiði
 frying-pan n. steikarpanna
 fuchsia n. fúksía (jurt)
 fuddle s. drekka, þjóra; gera kenndan, ölvaðan
