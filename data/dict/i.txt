@@ -25,7 +25,7 @@ idealism n. hugsjónastefna, hugsjónamennska; hugsæisstefna (í heimspeki)
 idealist n. hugsjónamaður; hugsæisstefnumaður (í heimspeki)
 ideality n. hugsjónarleiki, hugsjón
 idealize s. gera hugsjónarlegt, setja hugsæisblæ á e-ð
-ideally ao. hugsjónarlega; fullkomnlega
+ideally ao. hugsjónarlega; fullkomlega
 identical l. samur, samjafn; nákvæmlega eins
 identify s. gera (tvennt eða fleira) að einu; sanna samleik (e-s)
 identity n. samleikur, einleiki, samsemd, sjálfssömun; auðkenni, einkenni; það að vera sá sem maður er ([he doubted his own ~])
@@ -59,8 +59,8 @@ ignite s. kveikja; kvikna; verða glóandi (um járn o.s.frv.)
 ignitible l. eldnæmur, eldfimur
 ignition n. glóhitun; glóhiti
 ignivomous l. eldspýjandi ([~ mountain])
-ignoble l. auðvirðilegur, fyrirlitlegur
-ignobleness n. auðvirðileiki
+ignoble l. auvirðilegur, fyrirlitlegur
+ignobleness n. auvirðileiki
 ignominious l. smánarlegur, skammarlegur; fyrirlitlegur
 ignominy n. smán, svívirðing
 ignoramus n. fáfræðingur
@@ -102,7 +102,7 @@ illness n. sjúkdómur, veikindi
 illogical l. gagnstæður réttri hugsun, órökvís
 illude s. draga á tálar
 illume s. uppljóma; skýra
-illuminate s. lýsa; skýra; kasta ljóma á e-ð; uppljóma, skreyta (handrit) með margvislegum litum
+illuminate s. lýsa; skýra; kasta ljóma á e-ð; uppljóma, skreyta (handrit) með margvíslegum litum
 illumination n. lýsing, uppljómun; ljómi
 illuminative l. lýsandi
 illuminator n. ljósgjafi
@@ -210,7 +210,7 @@ impart s. veita, láta í té; segja frá, láta vita
 impartial l. óhlutdrægur, óvilhallur, réttsýnn
 impartiality n. óhlutdrægni
 impartially ao. hlutdrægnislaust, án greinarmunar
-impartible l. óskiptanlegar
+impartible l. óskiptanlegur
 impassable l. ógengur, ófær, ókleifur; óvinnandi
 impassibility n. tilfinningarleysi
 impassible l. tilfinningalaus, kaldur (fyrir)
@@ -295,7 +295,7 @@ implicate s. flækja, bendla (e-n við e-ð [with]); fela í sér
 implication n. flæking; sjálfsögð ályktun, nauðsynleg afleiðing; [by ~] óbeinlínis
 implicative l. sem felur e-ð í sér ([~ of]), undirskilinn
 implicit l. þegjandi ([~ promise]); skilyrðislaus ([~ faith])
-implicitly ao. óbeinlinis; skilyrðislaust; hiklaust ([they believe ~ whatever ...])
+implicitly ao. óbeinlínis; skilyrðislaust; hiklaust ([they believe ~ whatever ...])
 imploration n. ákall, innileg bæn
 implore s. ákalla; grátbiðja um
 imply s. gefa í skyn; fela í sér; innibinda; undirskilja; þýða, merkja
@@ -315,7 +315,7 @@ importunate l. nærgöngull, áleitinn
 importune s. ónáða, gera átroðning; þrábiðja; nauða (kvabba) á e-m; l. nærgöngull, áleitinn
 importunity n. kvabb, nauð, áleitni; þrábeiðni; átroðningur
 impose s. leggja á [~ upon (on)]; svíkja
-imposing l. tigurlegur, stórkostlegur; tilkomumikill; ægilegur; heimtufrekur; sviksamur
+imposing l. tígulegur, stórkostlegur; tilkomumikill; ægilegur; heimtufrekur; sviksamur
 imposition n. álagning ([~ of taxes, hands]); álaga, skattur; svik
 impossibility n. ómöguleiki
 impossible l. ómögulegur
@@ -678,7 +678,7 @@ indiscernible l. ósjáanlegur, ógreinanlegur
 indiscreet l. ógætinn, óvarkár; óþagmælskur, málugur; framur
 indiscretion n. óvarkárni; óþagmælska; framhleypni
 indiscriminate l. sem ekki gerir greinarmun; gerður án greinarmunar, af handahófi; almennur
-indiscriminately ao. án greinarmunar, af bandahófi, hver um annan þveran
+indiscriminately ao. án greinarmunar, af handahófi, hver um annan þveran
 indiscriminating l. sem ekki gerir neinn greinarmun ([~ beneficence])
 indispensable l. ómissandi, bráðnauðsynlegur (e-m [for, to]); óhjákvæmilegur ([~ duty])
 indispose s. gera óhæfan (ófúsan); gera óvinveittan (e-m [against])
@@ -908,7 +908,7 @@ inherit s. erfa, taka arf eftir; taka (fá) að erfðum
 inheritable l. arfgengur
 inheritance n. arfur, erfð, erfðahlutur; arfleifð; [by ~] að erfðum
 inheritor n. erfingi
-inheritress n. kvennerfingi
+inheritress n. kvenerfingi
 inhesion n. ívera
 inhibit s. aftra, hindra, hefta, hemja; banna
 inhibition n. hindrun; bann
@@ -1030,9 +1030,9 @@ inside fs. fyrir innan; inni í; ao. fyrir innan; inni í; l. innanverður, innv
 insidious l. slægur, undirförull ([an ~ enemy]); sviksamlegur
 insight n. innsæi, innsýn, skilningur, glögg þekking, glöggskyggni
 insignia nft. tignareinkenni
-insignificance n. auðvirðileiki; smáræði
+insignificance n. auvirðileiki; smáræði
 insignificancy n. sjá %[insignificance]%
-insignificant l. ómerkilegur, auðvirðilegur, smávægilegur
+insignificant l. ómerkilegur, auvirðilegur, smávægilegur
 insincere l. óhreinlyndur, óeinlægur; uppgerðar-
 insincerity n. óeinlægni; uppgerð
 insinuate s. smeygja inn; blása í brjóst; gefa í skyn; [~ oneself with/into the favour of] koma sér í mjúkinn við
@@ -1131,7 +1131,7 @@ insurable l. vátryggjanlegur
 insurance n. vátrygging, trygging
 insure s. vátryggja, tryggja
 insurgent n. uppreisnarmaður; l. uppreisnar-; uppreisnargjarn; andófs-, mótspyrnu-
-insurmountable l. óyfirstiganlegur, óvinnandi ([an ~ difficulty])
+insurmountable l. óyfirstíganlegur, óvinnandi ([an ~ difficulty])
 insurrection n. uppreisn
 insurrectional l. uppreisnar-; uppreisnargjarn
 insurrectionary l. uppreisnar-; uppreisnargjarn
@@ -1362,7 +1362,7 @@ introvert s. snúa e-u (t.d. huganum) inn á við eða að sjálfum sér; snúa 
 intrude s. troða inn; troða sér inn, koma óboðinn
 intruder n. óboðinn gestur; rangur (ólöglegur) handhafi
 intrusion n. óboðin koma; áfergja, yfirgangur
-intrusive l. yfirgangsamur, áfjáður, nærgöngull
+intrusive l. yfirgangssamur, áfjáður, nærgöngull
 intrust s. sjá %[entrust]%
 intuition n. hugsýni, innsæi; hugsýn, hugsjá
 intuitionist n. hugsýnismaður
@@ -1392,7 +1392,7 @@ inveigle s. lokka, tæla ([into, to])
 inveiglement n. lokkun, tæling
 invent s. finna upp, uppgötva; skrökva (e-u) upp
 invention n. uppfinning, uppgötvun; skrök, uppspuni, tilbúningur; hugvit; [a man of ~] hugvitsmaður
-inventive l. uppfinningasamur, hugvitsamur, hugvitslegur
+inventive l. uppfinningasamur, hugvitssamur, hugvitslegur
 inventiveness n. uppfinningasemi, hugvitssemi
 inventor n. uppfinningamaður, uppgötvari; upphafsmaður
 inventory n. skrá, listi; s. semja skrá yfir, skrá ([to make an ~ of])
@@ -1477,7 +1477,7 @@ ironmonger n. járnsali
 ironmongery n. járnvörur
 iron mould n. ryðblettur
 ironwork n. járnsmíði; ft. járnsteypustaður
-irony l. járnkynjaður, járn-; n. gráglettni örlagnna, háð, hæðni, kaldhæðn, írónía. skop, hæðni
+irony l. járnkynjaður, járn-; n. gráglettni örlaganna, háð, hæðni, kaldhæðni, írónía. skop, hæðni
 ironical l. írónískur, hæðinn, háðskur; sagður í háði
 ironically ao. írónískt, í háði
 irradiance n. geislun, ljómi

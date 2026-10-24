@@ -18,7 +18,7 @@ naked l. nakinn; klæðalaus; ber ([with the ~ eye]); skjóllaus, varnarlaus; á
 nakedly ao. berlega, bert
 nakedness n. nekt, berleiki
 namby-pamby l. tilgerðarlegur, teprulegur; n. tepruskapur (í ræðu eða riti)
-name n. nafn, heiti; orðrómur; orðstír; [to call ~s] uppnefna; skamma; [of great (high) ~] frægur; [one's (good) ~] góða mannorð; [by ~] að nafni ([know by ~]); [in the ~ of] í nafni e-s; [what's his ~] hvað heitir hann; s. kalla, nefna; gefa nafn; [he is ~d after his grandfather] heitir eftir (eða í höfuðið á) afa sinum
+name n. nafn, heiti; orðrómur; orðstír; [to call ~s] uppnefna; skamma; [of great (high) ~] frægur; [one's (good) ~] góða mannorð; [by ~] að nafni ([know by ~]); [in the ~ of] í nafni e-s; [what's his ~] hvað heitir hann; s. kalla, nefna; gefa nafn; [he is ~d after his grandfather] heitir eftir (eða í höfuðið á) afa sínum
 nameless l. nafnlaus; óþekktur
 namely ao. sem sé, nefnilega
 nameplate n. nafnspjald
@@ -173,7 +173,7 @@ neologism n. nýyrði, nýgervingur; ný kenning
 neology n. nýyrði, nýgervingur; ný kenning
 neophyte n. nýr trúskiptingur; byrjandi, viðvaningur, nýgræðingur
 nephew n. bróðursonur, systursonur, frændi
-nephritic l. nýrna, nýrnaveikur
+nephritic l. nýrna-, nýrnaveikur
 nephritis n. nýrnabólga
 nepotism n. frændhygli, framdráttur skyldmenna
 nereid n. sædís, hafmey
@@ -209,14 +209,14 @@ newborn l. nýfæddur; n. nýburi
 new-coined l. nýmyndaður ([a ~ word])
 newcome l. nýkominn
 newcomer n. aðkomumaður; nýgræðingur, byrjandi
-newfangled l. nýjabrumslegur; nýungagjarn
+newfangled l. nýjabrumslegur; nýjungagjarn
 newfangledness n. nýjabrum; nýbreytni
 new-fashioned l. nýtískulegur; nýtísku-
 new-laid l. nýorpinn ([~ eggs])
 newly ao. nýlega, fyrir skömmu
 new-mown l. nýsleginn ([~ hay/lawn])
-newness n. nýleiki; [to walk in ~ of life] ganga í endurnýungu lífdaganna
-news n. fréttir, nýung, fregnir, tíðindi ([no ~ is good ~]); [what is the ~] hvað er í fréttum?
+newness n. nýleiki; [to walk in ~ of life] ganga í endurnýjungu lífdaganna
+news n. fréttir, nýjung, fregnir, tíðindi ([no ~ is good ~]); [what is the ~] hvað er í fréttum?
 newsboy n. blaðsöludrengur
 newsmonger n. fréttasnati
 newspaper n. dagblað, fréttablað
@@ -318,8 +318,8 @@ noblesse n. göfugleiki ([~ of thought]); göfugmenni, aðall
 nobody n. enginn, ekki nokkur maður
 nock n. skora; s. gera skoru í
 nocturnal l. næturlegur, nátt-, nætur- ([~ predator])
-nod s. kinka kolli; hneigja höfuðið; dotta; [~ approbation] láta í ljós samþykki sitt með því því að hneigja höfuðið; n. hneiging ([a ~ of the head]); dott ([a sleepy ~]); bending ([they watched his ~])
-noddle n. haus, kollur; s. hneigja (höfuðið) ótt og titt, kinka kolli ([~ the head])
+nod s. kinka kolli; hneigja höfuðið; dotta; [~ approbation] láta í ljós samþykki sitt með því að hneigja höfuðið; n. hneiging ([a ~ of the head]); dott ([a sleepy ~]); bending ([they watched his ~])
+noddle n. haus, kollur; s. hneigja (höfuðið) ótt og títt, kinka kolli ([~ the head])
 noddy n. auli, flón; hafsúla
 node n. hnútur, hnúður
 nodose l. hnútóttur, hnýttur
@@ -391,7 +391,7 @@ northwesterly l. norðvestlægur; norðvestur-
 northwestern l. norðvestlægur; norðvestur-
 Norway n. Noregur
 Norwegian l. norskur; n. Norðmaður; norska
-nose n. nef; trýni, trjóna; [lead by the ~] leiða í blindni; [pay through the ~] borga afardýrt; [turn up one's ~] fitja upp á nefið; [follow one's ~] ganga beint fram; s. þefa, reka nefið í e-ð ([at]); snuðra ([~ about]); grennslast eftir ([for, after]); finna þef af; finna, uppgötva ([~ out]); standa á móti e-m; sitja andspænis e-m; nugga nefinu í e-ð
+nose n. nef; trýni, trjóna; [lead by the ~] leiða í blindni; [pay through the ~] borga afar dýrt; [turn up one's ~] fitja upp á nefið; [follow one's ~] ganga beint fram; s. þefa, reka nefið í e-ð ([at]); snuðra ([~ about]); grennslast eftir ([for, after]); finna þef af; finna, uppgötva ([~ out]); standa á móti e-m; sitja andspænis e-m; nugga nefinu í e-ð
 nosebag n. fóðurpoki (bundinn við höfuðið á hesti)
 nosebleed n. blóðnasir
 nosegay n. blómvöndur
@@ -473,7 +473,7 @@ numeration n. talning
 numerator n. teljari
 numeric l. sem er í tölum, talna-
 numerical l. sem er í tölum, talna-
-numerous l. fjölmennur, margur, margir; margvíslegu
+numerous l. fjölmennur, margur, margir; margvíslegur
 numerousness n. fjöldi, mergð
 numismatic l. sem lýtur að peningamyntum eða minnispeningum
 numismatics nft. myntfræði

@@ -116,8 +116,8 @@ palpitation n. hjartsláttur; hjartsláttarónot
 palsied l. visinn; riðandi, hrörlegur ([old ~ houses])
 palsy n. aflleysi, visnun; s. gera visinn, lama ([~ the arm])
 palter s. hafa undanbrögð eða vífilengjur; fara léttúðlega (með e-ð [with])
-paltriness n. aumingjaháttur; auðvirðileiki
-paltry l. auðvirðilegur, lítilmótlegur, lítilfjörlegur, of lítill eða magur (skammtur)
+paltriness n. aumingjaháttur; auvirðileiki
+paltry l. auvirðilegur, lítilmótlegur, lítilfjörlegur, of lítill eða magur (skammtur)
 paludal l. mýrar- ([~ fever])
 pamper s. dekra við; hafa of mikið eftirlæti á; kappala, offóðra
 pamphlet n. bæklingur; flugrit
@@ -209,7 +209,7 @@ parasitical l. sem lifir á öðrum ([~ insects]); sníkjugestslegur
 parasol n. sólhlíf
 parboil s. hita í vatni fram undir suðu, hálfsjóða
 parcel n. partur, stykki; böggull, pakki; [by ~ post] með bögglapóstinum; s. hluta í sundur ([~ out])
-parch s. láta skrælna, þurrka, sviða (í sólarhita); skrælna, sviðna
+parch s. láta skrælna, þurrka, svíða (í sólarhita); skrælna, sviðna
 parchment n. pergament, bókfell
 pardon s. fyrirgefa, gefa upp sakir, náða; n. fyrirgefning; sakaruppgjöf, náðun; [I beg your ~] ég bið (þig) fyrirgefningar (afsökunar)
 pardonable l. fyrirgefanlegur, afsakanlegur
@@ -255,7 +255,7 @@ parsimony n. sparsemi; níska; aðsjálni
 parsley n. péturselja
 parson n. sóknarprestur
 parsonage n. prestssetur
-part n. partur, hluti; þáttur ([take ~ in a discussion]); hlutverk; málefni; ft. gáfur; [the work comes out in ~s] í heftum; [for my ~] að mínu leyti; [~s of a speech] partar ræðunnar; [in our ~s (of the country)] í okkar sveitum; [in these ~s] hér um slóðir; [in ~] að nokkru leyti; [on the ~ of] af hálfu e-s; [from all ~s] úr öllum áttum; [take ~ with (the ~ of)] styðja málstað e-s, draga taum e-s; [take in good (ill) ~] taka vel (eða illa) upp, taka e-u vel eða illa; s. skipta ([~ the hair]); skilja ([~ the combatants]); greina í sundur ([~ error from crime]); brjóta, slita; slitna, springa (um kaðal); skiljast ([~ good friends, here our roads ~ed]); fara; [~ out of this life] deyja; [~ with] skiljast við e-ð, missa; farga e-u; [~ company] skiljast (við e-n [from])
+part n. partur, hluti; þáttur ([take ~ in a discussion]); hlutverk; málefni; ft. gáfur; [the work comes out in ~s] í heftum; [for my ~] að mínu leyti; [~s of a speech] partar ræðunnar; [in our ~s (of the country)] í okkar sveitum; [in these ~s] hér um slóðir; [in ~] að nokkru leyti; [on the ~ of] af hálfu e-s; [from all ~s] úr öllum áttum; [take ~ with (the ~ of)] styðja málstað e-s, draga taum e-s; [take in good (ill) ~] taka vel (eða illa) upp, taka e-u vel eða illa; s. skipta ([~ the hair]); skilja ([~ the combatants]); greina í sundur ([~ error from crime]); brjóta, slíta; slitna, springa (um kaðal); skiljast ([~ good friends, here our roads ~ed]); fara; [~ out of this life] deyja; [~ with] skiljast við e-ð, missa; farga e-u; [~ company] skiljast (við e-n [from])
 partake s. taka þátt í ([~ in each other's joy]); [~ of] neyta, njóta (matar)
 partaker n. hluttakandi, þátttakandi
 parterre n. blómareitur; afturhluti gólfs í leikhúsi
@@ -269,7 +269,7 @@ participation n. þátttaka, hluttekning
 participator n. þátttakandi, hluttakandi
 participle n. lýsingarháttur, hluttaksorð
 particle n. ögn, snefill; eind, öreind (í eðlisfræði)
-particular l. sérstakur ([for no ~ reason]); einkennilegur; áriðandi; nákvæmur; vandfýsinn (um e-ð [about]); n. einstakt atriði; atvik; [in ~] einkum; [in that ~] í því efni; [relate in ~s] segja nákvæmlega frá
+particular l. sérstakur ([for no ~ reason]); einkennilegur; áríðandi; nákvæmur; vandfýsinn (um e-ð [about]); n. einstakt atriði; atvik; [in ~] einkum; [in that ~] í því efni; [relate in ~s] segja nákvæmlega frá
 particularism n. útilokunarstefna; sérstæðisstefna
 particularity n. einstakt atvik; einkenni
 particularize s. nefna sérstaklega; fara út í einstök atriði; sundurliða
@@ -281,7 +281,7 @@ partition n. skipting, skilrúm, milliveggur; s. þilja í sundur, afhólfa; ski
 partitive l. skiptandi, skipti-; sem táknar hluta úr heild ([~ genitive])
 partly ao. að hluta til, sumpart, að nokkru (sumu) leyti ([~ in writing and ~ in print])
 partner n. félagi; hluttakandi; meðeigandi ([business ~]); mótspilari ([~ at cards])
-partnership n. félagskapur ([~ in business]); hluttaka
+partnership n. félagsskapur ([~ in business]); hluttaka
 partridge n. akurhæna
 parturient l. fæðandi; fæðingar- ([~ throes]); þrunginn (e-u [with])
 parturition n. barnsburður, fæðing ([difficult ~])
@@ -297,7 +297,7 @@ pasquinade n. níðrit; s. rita níð um e-n
 pass n. fara (ganga, ríða, aka) fram hjá (yfir, í gegnum eða áfram [over, through, on]); bera við; verða samþykktur (um laganýmæli); líða ([time ~es rapidly]); hverfa ([~ away]); standast, taka (próf); eyða (um tíma); samþykkja; afhenda; rétta; kveða upp (dóm); þola, verða fyrir; [~ hence (from among us)] deyja; [~ the summer in the country] vera sumarlangt (á sumrin) uppi í sveit; [~ the hands across one's eyes] strjúka höndunum um augun; [the bill has ~ed] frumvarpið hefur verið samþykkt; [it ~es all understanding] það fer fram úr öllum skilningi; [~ away] líða (um tíma); andast, deyja; [~ by the name of] vera jafnaðarlega kallaður; [~ off bad money] gefa út vonda peninga; [~ on] halda áfram; [~ it on] greiða því veg áfram; [bring to ~] bera við, atvikast; [~ by] fara fram hjá; [~ for a wise man] vera talinn vitur maður; [~ off] smáhverfa; [the meeting ~ed off quietly] fundurinn fór friðsamlega fram; [as time ~ed on] eftir því sem fram liðu stundir; [~ over] fara yfir; sneiða fram hjá e-u; [~ a sword through a person] reka sverð í gegnum e-n; n. vegur; öngvegi, skarð; vegabréf; fararleyfi; stig ([at this ~]); ástand, staða; [obtain a ~] standast próf; [matters have come to a bad ~] málefnið er komið í vanda
 passbook n. viðskiptabók, bankabók
 passkey n. aðallykill
-passman n. kandidat, sem hefur staðist próf án [honours]
+passman n. kandídat, sem hefur staðist próf án [honours]
 password n. lykilorð, leyniorð, aðgangsorð
 passable l. fær yfirferðar; viðunandi, bærilegur
 passably ao. viðunanlega, bærilega
@@ -384,7 +384,7 @@ patter s. lemja, bylja (um regn og hagl); þylja í hálfum hljóðum ([~ prayer
 pattern n. mynstur; fyrirmynd; forsnið; sýnishorn; rósir (gerð) í vefnaði; s. líkja eftir e-m; skreyta með rósamyndum eða litum; laga (móta e-ð) eftir e-u ([on, after])
 pattle n. plógskafa
 patty n. lítil skorpusteik
-patulous l. opinn, viður; sem breiðir sig út (um greinar á tré)
+patulous l. opinn, víður; sem breiðir sig út (um greinar á tré)
 paucity n. fæð; skortur
 paunch n. vömb, kviður, bumba, ístra; s. taka innyflin út; reka e-n í gegn
 paunchy l. vambmikill
@@ -576,7 +576,7 @@ pentice n. regnskýli, skúr
 pent-roof n. hálfþali, skúrþak
 penult n. næstsíðasta samstafa
 penultimate l. næstsíðastur; n. næstsíðasta samstafa
-penurious l. sviðínglegur, nískur
+penurious l. svíðingslegur, nískur
 penury n. fátækt, örbirgð; skortur
 penwiper n. pennaþurrkari, pennaþurrka
 peon n. fótgönguliðsmaður; daglaunamaður; þjónn; peð í skák
@@ -818,7 +818,7 @@ phalarope n. óðinshani
 phantasm n. draugur, vofa; hugarburður, heilaspuni; svipur; sýn
 phantom n. sýn; vofa, draugur; fyrirburður
 pharisaical l. hræsnisfullur
-pharisaism n. kenning Farísea; hræsni, yfirdrepskapur
+pharisaism n. kenning Farísea; hræsni, yfirdrepsskapur
 Pharisee n. Farísei; hræsnari
 pharmaceutical l. lyfjafræðilegur, lyfja-
 pharmaceutics nft. lyfjafræði
@@ -919,7 +919,7 @@ piastre n. pjastri (peningur spánskur, ítalskur eða tyrkneskur)
 piazza n. súlnagöng, bogagöng, ferhyrnt svæði, torg
 pibroch n. hersöngur Skota á sekkjapípur
 picaroon n. sjóræningi; stigamaður; s. reika um sem ræningi
-pick s. höggva; kroppa ([~ the herbage]); reyta ([~ a bird]); stinga; stinga upp ([~ a lock]); tína (ber), tína saman; hreinsa með oddhvössu verkfæri; stanga úr ([~ one's teeth]); velja úr, tína úr (oft með [out]); [~ an acquaintance with] komast í kynni við; [the dog ~s a bone] nagar bein; [~ a pocket, pockets] stela úr vasa (vösum); [~ a quarrel] hefja þrætu; [~ a hole in one's coat] finna að (e-m), hallmæla; [~ up] taka upp ([~ up a stone]); fá, ná í, eignast; nema, læra ([~ up a language]); ná sér aftur, hressast við; [~ courage] herða upp hugann; [~ up (in flesh)] safna holdum, brággast, fitna; n. val, úrval; jarðhögg; stöngull ([tooth~])
+pick s. höggva; kroppa ([~ the herbage]); reyta ([~ a bird]); stinga; stinga upp ([~ a lock]); tína (ber), tína saman; hreinsa með oddhvössu verkfæri; stanga úr ([~ one's teeth]); velja úr, tína úr (oft með [out]); [~ an acquaintance with] komast í kynni við; [the dog ~s a bone] nagar bein; [~ a pocket, pockets] stela úr vasa (vösum); [~ a quarrel] hefja þrætu; [~ a hole in one's coat] finna að (e-m), hallmæla; [~ up] taka upp ([~ up a stone]); fá, ná í, eignast; nema, læra ([~ up a language]); ná sér aftur, hressast við; [~ courage] herða upp hugann; [~ up (in flesh)] safna holdum, braggast, fitna; n. val, úrval; jarðhögg; stöngull ([tooth~])
 pickaxe n. haki, jarðhögg
 picked l. valinn, úrvals, úrvala- ([~ troops])
 pickerel n. lítil gedda (fiskur)
@@ -941,7 +941,7 @@ pie n. baka, kaka ([an apple ~]); skjór, skaði (fugl)
 piebald l. skjóttur
 piece n. hluti, stykki, moli, biti, sneið; bót; auki; peningur; byssa ([fowling ~]); málverk; sjónleikur; [a ~ of artillery] fallbyssa; [a ~ of work] vinna; [a ~ of good fortune] (góð) hamingja, heppni; [a ~ of string] snærisspotti; [tear in/to ~s] rífa í sundur; [of a ~ (with)] sömu tegundar (sem); alveg eins (og); s. bæta; auka (skeyta) saman ([together, up]); sprengja; lóða saman
 pieceless l. óaukinn, heill
-piecemeal ao. í stykkjum; smámsaman
+piecemeal ao. í stykkjum; smám saman
 piecework n. vinna, sem borguð er á hvert stykki ([paid for by the ~]), samningsvinna, ákvæðisvinna
 pied l. skjóttur; flekkóttur
 pieman n. kökusali
@@ -988,7 +988,7 @@ pill n. pilla; dálítil lyfjakúla; kúla
 pillage n. ránskapur; s. ræna
 pillager n. ræningi
 pillar n. stólpi; stöpull; súla; s. styðja (með stólpum)
-pillion n. hnakkdýna; (söðul)þófi (handa konum að sitja á bakvið reiðmanninn)
+pillion n. hnakkdýna; (söðul)þófi (handa konum að sitja á bak við reiðmanninn)
 pillorize s. setja í gapastokk
 pillory n. gapastokkur; s. setja í gapastokk
 pillow n. koddi; s. leggja á kodda
@@ -1065,7 +1065,7 @@ pistole n. spænskur peningur
 piston n. dælubulla
 pit n. gjá; náma; gröf, gryfja; víti; handarkriki ([arm~]); bóluör; gólfið (í leikhúsi); staður, þar sem hanaat fer fram; [~ of the stomach] hjartagróf; s. setja holur í; setja á móti ([against]); [~ted with the smallpox] bólugrafinn
 pit-a-pat ao. tikk-tikk; [his heart went ~] hann hafði ákafan hjartslátt; n. hjartsláttur; trítl, ótt og títt fótatak ([the ~ of the horse's hooves])
-pitch n. bik, tjara; tindur; efsti toppur; dýfa; hæð; tónhæð; halli (á þaki); stig; [soar a high ~] svífa hátt upp; s. bika; reka niður; festa; reisa (tjald); setja (herbúðir); kasta; stilla (hljóðfæri); steypast; höggva (um skip); [a ~ed battle] höfuðorrusta; [~ into] ráðastá; [~ upon a day] taka til dag
+pitch n. bik, tjara; tindur; efsti toppur; dýfa; hæð; tónhæð; halli (á þaki); stig; [soar a high ~] svífa hátt upp; s. bika; reka niður; festa; reisa (tjald); setja (herbúðir); kasta; stilla (hljóðfæri); steypast; höggva (um skip); [a ~ed battle] höfuðorrusta; [~ into] ráðast á; [~ upon a day] taka til dag
 pitch-black l. biksvartur
 pitch-dark l. koldimmur
 pitch darkness n. niðamyrkur
@@ -1250,7 +1250,7 @@ plumbean l. blýlitaður
 plumbeous l. blýlitaður
 plumber n. pípulagningamaður, pípari; blýsmiður
 plumbery n. blýsmiðsiðn; munir úr blýi
-plumb line n. lóðlina
+plumb line n. lóðlína
 plumb rule n. hafjafni
 plumbism n. blýeitrun
 plumbing n. pípulagningar
@@ -1441,7 +1441,7 @@ poop n. kúkur; skutpallur, skutur ([~ deck]); s. kúka; skella yfir skut skipsi
 poor l. fátækur, snauður, armur; vesæll, aumur; vesalings-, aumingja- ([the ~ child]); magur, rýr ([the crop was ~]); ófrjór; [the ~] fátæklingarnir; sveitarómagar
 poor law n. fátækralöggjöf
 poorly l. vesæll, lasinn; ao. fátæklega; vesællega, illa
-poorness n. fátækt; eymd; auðvirðileiki
+poorness n. fátækt; eymd; auvirðileiki
 poor rate n. fátækraskattur; sveitarútsvar
 poor-spirited l. huglaus, ragur
 pop n. smellur, hvellur; s. smella, hvella; skreppa, skjótast; koma skyndilega í ljós; stinga; kasta fram; hleypa af byssu; [~ the question] bera upp bónorðið, biðja sér stúlku; [~ away] þjóta burtu; [~ in] koma skjótlega inn; stinga inn; [~ off] hverfa; fara alfarinn (deyja); ao. skjótt, snöggt, allt í einu
@@ -1497,7 +1497,7 @@ porthole n. kýrauga, ljós- og loftop á skipum; skotop á múrvegg
 portico n. súlnagöng, bogagöng (með þaki yfir)
 portion n. hluti; erfðahluti; heimanmundur; skammtur; hlutskipti; s. hluta í sundur, skipta, úthluta; gefa e-m heimanmund
 portionist n. styrkþegi (fátækur stúdent, sem þiggur styrk)
-portliness n. tigurleiki; gildleiki
+portliness n. tíguleiki; gildleiki
 portly l. tígulegur (í vexti); snyrtimannlegur; þrekinn
 portmanteau n. ferðataska, fatataska (vanalega úr leðri); frakkaorð, samrunaorð ([~ word])
 portrait n. mynd, andlitsmynd
@@ -1681,7 +1681,7 @@ precincts nft. vébönd
 precious l. dýrmætur, dýrindis; ágætur; [~ stone] gimsteinn; [~ metals] dýrir málmar (gull, silfur)
 precipice n. þverhníptur klettur, þverhnípi, hamar
 precipitancy n. óðagot, flaustursemi; flan, framhleypni
-precipitant l. flaustursamur; hvatvís
+precipitant l. flausturssamur; hvatvís
 precipitate s. steypa (á höfuðið), hrinda; flýta fyrir; láta setjast á botninn; steypast, hrapa; setjast á botninn; l. óðfluga; (of) fljótur á sér; flumósa; hvatvís(legur); snöggur; bráður
 precipitation n. fall, hrap; framhleypni, hvatvísi; úrkoma
 precipitous l. snarbrattur, þverhníptur; hvatvís, framhleypinn
@@ -1862,7 +1862,7 @@ presignify s. benda á fyrir fram, boða, fyrirboða
 press s. þrengja (kreppa) að; þrýsta á ([~ on, upon]); kreista fergja; kúga, þvinga (til sjóliðsþjónustu); þrýsta (í faðm sér); leggja fast að, herða á (e-m); halda (e-u) fast fram; ganga ríkt eftir; þyrpast, troðast; [I am ~ed for money, for time] ég er félaus, hef nauman tíma; [he ~ed upon me] tróð upp á mig; [time ~es] tíminn er naumur, það liggur á; [~ for payment] ganga ríkt eftir borgun; n. prentvél, prentverk; pressa, farg; þvingun; mannþröng, troðningur; hraði, flaustur; fata- eða bókaskápur; [liberty of the ~] prentfrelsi; [pass (put) through the ~] láta prenta; [ready for the ~] búinn til prentunar; [~ of sail] öll segl, sem skipið þolir; [the (daily) ~] dagblöðin
 press gang n. flokkur manna, sem sendur var út til þess að taka menn nauðuga til sjóliðsþjónustu
 pressman n. prentari; blaðamaður
-pressing l. þvingandi ([~ evils]); áriðandi, brýnn ([~ need]); áleitinn; [a ~ want] mikill skortur; n. þrýsting; fortölur
+pressing l. þvingandi ([~ evils]); áríðandi, brýnn ([~ need]); áleitinn; [a ~ want] mikill skortur; n. þrýsting; fortölur
 pressure n. þrýsting; þvingun; skortur; [relieve the ~ of taxes] létta á skattbyrðinni
 prestige n. álit
 presto ao. (í söngfræði) skjótt
@@ -1928,7 +1928,7 @@ primacy n. erkibiskupstign; yfirburðir, ágæti
 primal l. frumlegur; forn; fyrstur, fremstur, helstur
 primary l. fyrstur; helstur; upprunalegur, frumlegur, frum-; ([the ~ meaning of a word]); [~ education] barnafræðsla; [~ school] undirbúningsskóli, barnaskóli; n. aðalatriði; flugfjöður
 primate n. prímati, fremdardýr; erkibiskup; [Primate of all England] erkibiskupinn í Kantaraborg
-prime l. fyrstur, helstur; ógætur frábær; [~ cost] innkaupsverð; [~ number] frumtala; [~ minister] forsætisráðherra; n. blómi (broddur) lífsins ([be in the ~ of life]); prímtala, frumtala; fyrsti hluti dags eða árs; morgun; vor; besti hluti; [~ of the moon] nýtt tungl, ný; s. draga undirlit á (léreft undir mólverk); leggja kveikjupúður á; [he is priming himself] hann er að drekka í sig áræði
+prime l. fyrstur, helstur; ágætur, frábær; [~ cost] innkaupsverð; [~ number] frumtala; [~ minister] forsætisráðherra; n. blómi (broddur) lífsins ([be in the ~ of life]); prímtala, frumtala; fyrsti hluti dags eða árs; morgunn; vor; besti hluti; [~ of the moon] nýtt tungl, ný; s. draga undirlit á (léreft undir málverk); leggja kveikjupúður á; [he is priming himself] hann er að drekka í sig áræði
 primer n. stafrófskver; námsbók handa byrjendum; hvellhetta
 primeval l. upprunalegur; frumsögulegur; [~ forest] frumskógur
 priming n. kveikjupúður; undirlitur; skilyrðing
@@ -2174,7 +2174,7 @@ propensity n. tilhneiging; [thievish ~] þjófgefni, stelvísi
 proper l. eiginn, eiginlegur ([in the ~ sense of the word]); sérstaklegur; hæfilegur, réttur ([choose the ~ time]); [~ noun, ~ name] eiginnafn
 properly ao. eiginlega; algjörlega ([they beat us ~]); eins og vera ber ([behave ~]); hæfilega, réttilega
 properness n. réttleiki
-property n. eign ([the book is his ~]); fasteign; efni, eigur; eignarréttur; eiginleiki ([the properties of soda]); [~ tax] eignaskattur
+property n. eign ([the book is his ~]); fasteign; efni, eigur; eignarréttur; eiginleiki ([the properties of soda]); [~ tax] eignarskattur
 prophecy n. spádómur, spásögn, spá; [gift of ~] spádómsgáfa
 prophesier n. spámaður
 prophesy s. sjá %[prophecy]%
@@ -2309,7 +2309,7 @@ prudential l. varúðar-, varfærnis-
 prudentials nft. varúðarreglur
 prudery n. tepruskapur; tilgerðarsiðvendni
 prudish l. teprulegur, tilgerðarlegur
-prune s. sniða (óþarfar greinar) af; strjúka slétt ([~ his feathers]); n. þurrkuð plóma, sveskja
+prune s. sníða (óþarfar greinar) af; strjúka slétt ([~ his feathers]); n. þurrkuð plóma, sveskja
 pruning n. afskurður, afsniðning
 pruning knife n. sniðill
 prurience n. kláði; losti
@@ -2324,7 +2324,7 @@ psalmist n. sálmaskáld (einkum Davíð)
 psalmody n. sálmasöngur
 psalmodist n. sálmasöngvari
 psalmography n. sálmakveðskapur
-psalter n. Daviðssálmar; saltari
+psalter n. Davíðssálmar; saltari
 psaltery n. forn harpa
 pseudo- fsk. fals-, gervi-, sýndar- (sjá t.d. %[pseudoscience]%, %[pseudonymous]% o.s.frv.)
 pseudonym n. gervinafn, dulnefni (rithöfundar)

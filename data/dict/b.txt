@@ -73,7 +73,7 @@ bale n. böl; skaði; stór vörustrangi; s. ausa ([~ the boat out])
 baleful l. skaðlegur
 balefulness n. skaðsemi
 baleen n. hvalskíði
-balefire n. bláeldur; vitaeldur; brenna (til gamans)
+balefire n. báleldur; vitaeldur; brenna (til gamans)
 balk n. akurrein; bjálki; hindrun; s. hindra; blekkja; ónýta
 balky l. staður (um hest)
 ball n. hnöttur; kúla, bolti; hnykill; [~ of the eye] augasteinn; [~ of the foot] táberg; dansleikur, ball; s. hnoða; vinda í hnykil; hlaupa í kekki
@@ -191,7 +191,7 @@ baritone n. hábassi, barítón, barítónrödd
 basal l. undirstöðu-
 basalt n. stuðlaberg, basalt
 basaltic l. stuðlabergs-, basalt-
-base n. grundvöllur, undirstaða; herstöð ([military ~]); miðstöð ([~ of operations]); s. grundvalla, byggja á, nota sem undirstöðu; l. lágur; auðvirðilegur; ódrengilegur; [~ coin] falspeningur
+base n. grundvöllur, undirstaða; herstöð ([military ~]); miðstöð ([~ of operations]); s. grundvalla, byggja á, nota sem undirstöðu; l. lágur; auvirðilegur; ódrengilegur; [~ coin] falspeningur
 baseborn l. af lágum stigum; óskilgetinn
 baseless l. ástæðulaus, án grundvallar, án undirstöðu
 basement n. kjallari, íbúðarkjallari, lægsta gólf í húsi (að nokkru leyti niðri í jörðinni)
@@ -239,7 +239,7 @@ battlement n. brjóstvirki með skörðum
 battleship n. orustuskip
 bauble n. glingur
 bavin n. hrísbindi
-bawbee n. skyldingur
+bawbee n. skildingur
 bawd n. skækja
 bawdy l. klúr, klæminn
 bawl s. öskra, æpa; n. öskur
@@ -294,7 +294,7 @@ becloud s. hylja (þoku eða skýi)
 beclouded l. skýjaður
 become s. verða, sæma; fara (e-m vel eða illa); [what has ~ of him] hvað hefur orðið um hann?
 becoming l. hæfilegur; sem fer vel
-bed n. rúm; beður ([~ of roses]); beð (í garði); sáðreitur; jarðlag; árfarvegur; [go to ~] fara að hátta; [be ill in ~] liggja veikur; [be in ~ with] liggja veikur af; [die in one's ~] á sóttarsæng; [be brought to ~ of a child] ala barn; [do/make a ~] búa um rúm; [be separated from ~ and board] skilin að borði og sæng; [~ of death] banabeður, banasæng; s. hálta; setja (planta) í beð ([~ out])
+bed n. rúm; beður ([~ of roses]); beð (í garði); sáðreitur; jarðlag; árfarvegur; [go to ~] fara að hátta; [be ill in ~] liggja veikur; [be in ~ with] liggja veikur af; [die in one's ~] á sóttarsæng; [be brought to ~ of a child] ala barn; [do/make a ~] búa um rúm; [be separated from ~ and board] skilin að borði og sæng; [~ of death] banabeður, banasæng; s. hátta; setja (planta) í beð ([~ out])
 bedchamber n. svefnherbergi
 bedclothes nft. rúmföt
 bedfellow n. rekkjunautur
@@ -362,7 +362,7 @@ behave s. hegða sér ([~ oneself])
 behaviour n. hegðun, háttalag, atferli
 behead s. afhöfða, afhausa, hálshöggva, höggva höfuðið af
 behest n. skipun, boð
-behind fs. á eftir; bakvið; fyrir aftan; aftur fyrir; [be ~ his time] koma of seint; [be ~ the times] á eftir tímanum, úreltur; [we had the wind ~ us] á eftir okkur; ao. eftir; [there is something ~ this] það býr e-ð undir þessu
+behind fs. á eftir; bak við; fyrir aftan; aftur fyrir; [be ~ his time] koma of seint; [be ~ the times] á eftir tímanum, úreltur; [we had the wind ~ us] á eftir okkur; ao. eftir; [there is something ~ this] það býr e-ð undir þessu
 behindhand ao. á eftir, of seint
 behold s. skoða, sjá
 beholder n. áhorfandi
@@ -432,7 +432,7 @@ benefit n. hagnaður, hagur, gagn; [for the ~ of] e-m til góðs, vegna e-s ([fo
 benevolence n. velvilji, góðvild, góðvilji
 benevolent l. góðgjarn, velviljandi, góðviljandi
 benighted l. sem lendir í myrkri; hjúpaður í myrkri
-benign l. góðgjarn; bliður, mildur; heilnæmur (um loftslag); vægur (um sjúkdóm)
+benign l. góðgjarn; blíður, mildur; heilnæmur (um loftslag); vægur (um sjúkdóm)
 benignant l. góðgjarn
 benignity n. góðsemi, góðfýsi
 bent n. hugarstefna; tilhneiging, hneigð; sveigja; l. boginn; hneigður (til e-s [on])
@@ -526,7 +526,7 @@ bice n. bleikblár litur
 bicker s. berjast; deila; niða (um læk); glitra
 bickering n. deila, þræta, skæra; smábardagi
 bicycle n. reiðhjól
-bicyclist n. hjólreiðarmaður
+bicyclist n. hjólreiðamaður
 bid s. bjóða, skipa; bjóða á uppboði (í e-ð [for]); [~ good morning] bjóða góðan daginn; [~ fair] virðast líklegur; n. boð (á uppboði)
 bidder n. bjóðandi
 bidding n. boð, skipun ([at the bidding of his lord])
@@ -736,7 +736,7 @@ blossomy l. blómlegur
 blot n. blettur, flekkur; blekklessa; s. bletta, óhreinka; strika út; þerra (með þerripappír)
 blotch n. nabbi, bóla (á hörundi), útsláttur; klessa
 blouse n. utanhafnarskyrta, vinnuskyrta; kventreyja
-blow n. högg ([I struck him a ~]); áfall, ógæfa; blástur; þytur; [fly~] víur; blómi ([in full ~]); [come to ~s] komast í handalögmál; [at one ~] í einu höggi; kókaín (óforml.); s. blása; mása; [~ one's nose] snýta sér; [~ out] slökkva; slokna; [~ out one's brains] skjóta sig; [~ over] líða hjá; [~ up] sprengja (springa) í loft upp; hvessa (um vind); springa út; blómgast; totta (óforml.)
+blow n. högg ([I struck him a ~]); áfall, ógæfa; blástur; þytur; [fly~] víur; blómi ([in full ~]); [come to ~s] komast í handalögmál; [at one ~] í einu höggi; kókaín (óforml.); s. blása; mása; [~ one's nose] snýta sér; [~ out] slökkva; slokkna; [~ out one's brains] skjóta sig; [~ over] líða hjá; [~ up] sprengja (springa) í loft upp; hvessa (um vind); springa út; blómgast; totta (óforml.)
 blowfly n. maðkafluga
 blowy l. hvass ([a blowy morning]); ([blowy sand]) foksandur
 blown l. lafmóður; blásinn; þrútinn; holóttur; skemmdur ([~ meat]); [a ~ reputation] ekki óflekkað mannorð
@@ -1102,7 +1102,7 @@ Britisher n. breskur maður, Breti
 Briton n. Breti; Forn-Breti
 brittle l. stökkur, brothættur; fallvaltur
 broach n. steikarteinn; sjá %[brooch]%; s. stinga á (víntunnu); færa í tal, vekja máls á
-broad l. breiður, viður; víðáttumikill ([~ lands]); berorður, skýr ([~ hint]); klúr ([a ~ story]); yfirgripsmikill; frjálslegur (um skoðanir); frjálslyndur, umburðarlyndur; [by ~ sunlight] í glaða sólskini; [in ~ daylight] um hábjartan daginn
+broad l. breiður, víður; víðáttumikill ([~ lands]); berorður, skýr ([~ hint]); klúr ([a ~ story]); yfirgripsmikill; frjálslegur (um skoðanir); frjálslyndur, umburðarlyndur; [by ~ sunlight] í glaða sólskini; [in ~ daylight] um hábjartan daginn
 broad-awake l. glaðvakandi
 broadcast s. útvarpa; ao. [to sow ~] sá með hendinni
 broadcasting n. útvarp, útvörpun
@@ -1251,7 +1251,7 @@ burgh n. kaupstaður, bær, borg (í Skotlandi, t.d. %[Edinburgh]%)
 burgher n. borgari
 burglar n. innbrotsþjófur
 burglary n. innbrot, innbrotsþjófnaður
-burgomaster n. borgarstjóri; grámáður
+burgomaster n. borgarstjóri; grámávur
 burial n. jarðsetning, greftrun, útför
 burial ground n. grafreitur; kirkjugarður
 burial place n. grafreitur, legstaður
@@ -1263,7 +1263,7 @@ burliness n. digurð
 burly l. digur, þrekvaxinn
 burn s. brenna (eyða með, eyðast af, eldi); [the house was burnt down] brann niður; [he was burnt out twice] tvisvar brann hjá honum; n. brunablettur
 burner n. brennari; ljóspípa (í lampa)
-burnish s. fægja, fága; gera gljáandi; skina
+burnish s. fægja, fága; gera gljáandi; skína
 burnisher n. fágari
 burr n. loðgresi; ró (á egg); harður kverkaframburður á stafnum R
 burrow n. tóugreni; jarðhola, lundahola; s. grafa (sér holu)
@@ -1318,7 +1318,7 @@ buyer n. kaupandi
 buzz s. suða; flögra; n. suð, kliður; kvis; æsingur
 buzzing n. suð (í eyrum)
 buzzard n. músvákur (fugl)
-by fs. & ao. hjá ([have not got it ~ me]); um ([travel to Prague ~ Dresden]); á (~ night, ~ day); framhjá ([go ~ him]); með ([take ~ force]); af ([written ~]); við; [ten feet ~] four 10 fet á lengd og 4 fet á breidd (eða hæð); [~ the pound] í pundatali; [~ the hundred, ~ hundreds] hundruðum saman; [go ~ ones and twos] einn og tveir í einu; [~ tomorrow] ekki síðar en á morgun; [older ~ two years] tveim árum eldri; [~ name] að nafni; [step ~ step] skref fyrir skref; [~ heart] utanbókar; [~ and ~] bráðum; smámsaman; [~ the by] meðal annara orða; eftir á að hyggja; [~ rights] að réttu lagi, með réttu
+by fs. & ao. hjá ([have not got it ~ me]); um ([travel to Prague ~ Dresden]); á (~ night, ~ day); fram hjá ([go ~ him]); með ([take ~ force]); af ([written ~]); við; [ten feet ~] four 10 fet á lengd og 4 fet á breidd (eða hæð); [~ the pound] í pundatali; [~ the hundred, ~ hundreds] hundruðum saman; [go ~ ones and twos] einn og tveir í einu; [~ tomorrow] ekki síðar en á morgun; [older ~ two years] tveim árum eldri; [~ name] að nafni; [step ~ step] skref fyrir skref; [~ heart] utanbókar; [~ and ~] bráðum; smám saman; [~ the by] meðal annara orða; eftir á að hyggja; [~ rights] að réttu lagi, með réttu
 byblow n. holukrakki
 by-election n. aukakosning
 by-hours nft. tómstundir

@@ -13,7 +13,7 @@ cable n. kapall, kaðall, akkerisfesti; sæsími; s. reyra; binda; senda símske
 caboose n. eldakompa (í skipi); eldstó, eldavél
 cacao n. kakóbaun; kakótré
 cachalot n. búrhveli
-cackle s. gagga, klaka (um hænu); þvaðra; hlæja illkvitnislega; n. gagg, klak; mas
+cackle s. gagga, klaka (um hænu); þvaðra; hlæja illkvittnislega; n. gagg, klak; mas
 cache n. geymslustaður; geymdur forði, leynilegur geymslustaður; skyndiminni (í tölvu); s. láta niður til geymslu; vista í skyndiminni (tölvu)
 cacophony n. mishljóðan
 cad n. vagnstjóri; dóni, ruddi
@@ -124,8 +124,8 @@ candidature n. þingmennskuframboð
 candied l. sykraður, sykurhúðaður
 candle n. kerti
 candle-end n. kertisstubbur
-Candlemas n. Kyndilmessa (kristin hátið)
-Candlemass n. Kyndilmessa (kristin hátið)
+Candlemas n. Kyndilmessa (kristin hátíð)
+Candlemass n. Kyndilmessa (kristin hátíð)
 candlestick n. kertastjaki
 candour n. hreinskilni, einlægni ([in ~ I must acknowledge that])
 candy n. kandíssykur; s. sjóða í sykri; sykra
@@ -252,8 +252,8 @@ cardiac l. hjarta-; hjartastyrkjandi; n. hjartastyrkjandi lyf
 cardiac arrest n. hjartastopp
 cardigan n. prjónavesti
 cardinal l. helstur, aðal-, höfuð-; [~ numbers] höfuðtölur; [~ points] höfuðáttir; [~ virtues] höfuðdyggðir; n. kardínáli; höfuðtala, frumtala; höfuðdyggð
-cardinalate n. kardínálatign, kardinálaembætti
-cardinalship n. kardínálatign, kardinálaembætti
+cardinalate n. kardínálatign, kardínálaembætti
+cardinalship n. kardínálatign, kardínálaembætti
 care n. umönnun, umhyggja; umsjón ([under his ~]); nákvæmni; áhyggja; [have (take) ~] vera gætinn, varkár; [have ~ of your steps] gáðu hvar þú gengur; [take ~ of] sjá um, annast um; s. hirða um ([for]); [I don't ~] mér stendur á sama
 careful l. umhyggjusamur, vandlegur; gætinn, sem fer varlega um; áhyggjufullur
 carefulness n. nákvæmni, varúð, gætni
@@ -307,7 +307,7 @@ carriole n. lítill vagn; sleði (í Kanada)
 carrion n. hræ
 carrot n. gulrót
 carroty l. appelsínugulur; rauðhærður; eins og gulrót
-carry s. bera; flytja; bera úr býtum, vinna, fá (sigur, verðlaun); vinna, taka (borg, skip); [~ oneself] bera sig, hegða sér; [~ one's point] koma vilja sinum fram; [~ conviction] sannfæra; [the horse carries] ber sig eða höfuðið vel; [~ it, ~ the day] bera hærri hlut; [~ into effect] koma e-u í framkvæmd; [~ away] fara með (e-n) í gönur; [~ off] flytja burt; kippa burt (úr heiminum); bera úr býtum; [~ on] halda (e-u) áfram; reka (verslun); heyja (strið); [~ out] framkvæma, leiða til lykta; [~ through] koma (e-u) fram
+carry s. bera; flytja; bera úr býtum, vinna, fá (sigur, verðlaun); vinna, taka (borg, skip); [~ oneself] bera sig, hegða sér; [~ one's point] koma vilja sínum fram; [~ conviction] sannfæra; [the horse carries] ber sig eða höfuðið vel; [~ it, ~ the day] bera hærri hlut; [~ into effect] koma e-u í framkvæmd; [~ away] fara með (e-n) í gönur; [~ off] flytja burt; kippa burt (úr heiminum); bera úr býtum; [~ on] halda (e-u) áfram; reka (verslun); heyja (stríð); [~ out] framkvæma, leiða til lykta; [~ through] koma (e-u) fram
 cart n. tvíhjólaður flutningavagn; s. flytja á vagni, aka e-u
 cartage n. flutningur; flutningskaup
 carter n. vagnmaður
@@ -522,7 +522,7 @@ certainly ao. vissulega; að vísu
 certainty n. vissa, áreiðanleiki; [to/for ~] með vissu
 certificate n. skriflegt vottorð, skírteini; heimildarskjal, leyfi; [~ of election] kjörbréf; s. gefa (skriflegt) vottorð um; leyfa, heimila með vottorði; [~d teacher] prófaður kennari
 certification n. vottun, staðfesting
-certify s. votta skriflega; staðfesta; fullvissa ([~ one of something]); [this is to ~ that] hérmeð vottast að
+certify s. votta skriflega; staðfesta; fullvissa ([~ one of something]); [this is to ~ that] hér með vottast að
 certitude n. vissa
 cerulean l. heiðblár
 cerumen n. eyrnamergur
@@ -634,7 +634,7 @@ charter-party n. skipaleigusamningur
 chartulary n. skjalabók; máldagabók (klausturs)
 charwoman n. daglaunakona, erfiðiskona
 chary l. gætinn, varkár; tregur (á [in, of]); spar (á [of])
-chase n. elting, eftirför; (dýra)veiði; veiðiréttur; dýr (eða skip), sem elt er; s. elta, veita eftirför; reka burtu; smíða upphleypt málmsmiði, drífa
+chase n. elting, eftirför; (dýra)veiði; veiðiréttur; dýr (eða skip), sem elt er; s. elta, veita eftirför; reka burtu; smíða upphleypt málmsmíði, drífa
 chasm n. gjá; skarð; tómt bil, eyða
 chasmy l. fullur af gjám
 chaste l. hreinlífur, skírlífur; siðlátur; látlaus ([~ jewellery])
@@ -657,7 +657,7 @@ chauvinism n. rembingur, þjóðrembingur; [male ~] karlremba
 chauvinist n. þjóðskrumari; [male ~] karlremba
 chauvinistic l. þjóðrembings-, rembu-, rembings-
 chaw s. tyggja (sbr. %[chew]%)
-cheap l. ódýr; auðvirðilegur; ómerkilegur; lítilsvirtur; ao. ódýrt; fyrir lítið verð ([I got it ~])
+cheap l. ódýr; auvirðilegur; ómerkilegur; lítilsvirtur; ao. ódýrt; fyrir lítið verð ([I got it ~])
 cheapen s. gera (eða verða) ódýrara; lítilsvirða
 cheapness n. ódýrleiki
 cheat s. svíkja, hafa af; gabba, ginna, leika á; eyða (tímanum); [~ at play] svíkja í spilum; n. prettur, svik; svikari
@@ -993,7 +993,7 @@ cleanliness n. hreinlæti, þrifnaður
 cleanse s. hreinsa
 cleanser n. hreinsari
 cleansing n. hreinsun
-clear l. bjartur, heiðskír; gagnsær; tær, glær; glöggur, greinilegur; auðsær, auðskilinn; skýr, ljós (í hugsunum); saklaus; laus; auður, opinn, óhindraður; [~ profit] hreinn ágóði (að frádregnum kostnaði); [three ~ days] þrír heilir dagar; [get ~ of] losna við, komast hjá; ao. skýrt ([speak loud and ~]); alveg ([~ away, ~ off]); [three feet ~] full þrjú fet; s. gera tært; hreinsa; réttlæta; skýra; tæma; færa burtu; ryðja (land); losa við ([of, from]); losast (losna) við; fara (stökkva) yfir; borga (skuld); græða; heiða til, birta upp ([~ up]); setjast (um vökva); rýma, víkja; [~ the coast] komast (klaklaust) fram hjá ströndinni; [~ a ship] afferma skip; greiða hafnargjald og önnur lögboðin gjöld af skipi og farmi; [~ one's throat] ræskja sig; [~ away] taka burtu, taka af borði; hverfa, létta ([the mist ~ed away]); [~ off] losna við; fara burtu; [~ up] hýrga; skýra, leiða í ljós; skýrast; birta, heiða til (um veðrið)
+clear l. bjartur, heiðskír; gagnsær; tær, glær; glöggur, greinilegur; auðsær, auðskilinn; skýr, ljós (í hugsunum); saklaus; laus; auður, opinn, óhindraður; [~ profit] hreinn ágóði (að frádregnum kostnaði); [three ~ days] þrír heilir dagar; [get ~ of] losna við, komast hjá; ao. skýrt ([speak loud and ~]); alveg ([~ away, ~ off]); [three feet ~] full þrjú fet; s. gera tært; hreinsa; réttlæta; skýra; tæma; færa burtu; ryðja (land); losa við ([of, from]); losast (losna) við; fara (stökkva) yfir; borga (skuld); græða; heiða til, birta upp ([~ up]); setjast (um vökva); rýma, víkja; [~ the coast] komast (klakklaust) fram hjá ströndinni; [~ a ship] afferma skip; greiða hafnargjald og önnur lögboðin gjöld af skipi og farmi; [~ one's throat] ræskja sig; [~ away] taka burtu, taka af borði; hverfa, létta ([the mist ~ed away]); [~ off] losna við; fara burtu; [~ up] hýrga; skýra, leiða í ljós; skýrast; birta, heiða til (um veðrið)
 clearance n. hreinsun; tollkvittun; ruðning; rjóður; aðgangsheimild
 clearing n. hreinsun; réttlæting; greiðsla (skuldar); ruðning; rjóður
 clearly ao. glögglega; auðsjáanlega
@@ -1040,10 +1040,10 @@ clingy l. viðloðandi
 clinic n. heilsugæslustöð; lækniskennsla á sjúklingum
 clinical l. sem lýtur að heilsugæslu
 clink s. hringla, slá saman (glösum, sverðum); n. hringl
-clinker-built l. súðbyrður ([a ~ boat])
+clinker-built l. súðbyrtur ([a ~ boat])
 clinometer n. hallamælir
 clip s. klippa; stýfa; grípa (klípa) fast utan um; n. afklippa; afklippt ull; stýfing; þvotthalda, klemma; myndskeið ([film ~])
-clipper n. klippari; hraðskreytt seglskip; fljótur hestur
+clipper n. klippari; hraðskreitt seglskip; fljótur hestur
 clippers nft. skæri; klippur
 clipping n. klipping; stýfing
 clique n. flokkur (fremur niðrandi), lagsflokkur, klíka
@@ -1069,7 +1069,7 @@ closeness n. þéttleiki; loftleysi; molla; nákvæmni; níska
 closet n. lítið herbergi; skápur; s. loka inni í herbergi; [be ~ed with] vera á eintali við
 closing n. lokun; l. lokunar-; [~ time] lokunartími (búða); [~ chapter] lokaþáttur, síðasti kafli
 closure n. lokun ([the ~ of the fingers in grasping]); endir; umræðuslit (á þingum)
-clot n. kökkur, hnaus; blóðtappi, blóðlifur, blóðsigi; s. hlaupa saman í kekki; storkna; óhreinka; klístra saman
+clot n. kökkur, hnaus; blóðtappi, blóðlifur, blóðsegi; s. hlaupa saman í kekki; storkna; óhreinka; klístra saman
 clotty l. kekkjóttur, klepróttur
 cloth n. klæði; dúkur; staða, stétt (einkum prestastétt); [lay the ~] breiða dúk á borð; [remove the ~] taka dúk af borði; [cut the coat according to the ~] sníða sér stakk eftir vexti
 clothe s. klæða; klæðast
@@ -1371,10 +1371,10 @@ combing n. kembing; hár, sem losnar við kembingu
 combustible l. eldfimur
 combustibles nft. eldfimt efni
 combustion n. brennsla, bruni
-come s. koma; komast; verða ([~ expensive]); [~ to pass] verða, bera við; [~ (to be) true] rætast, reynast satt; [ages to ~] ókomnar aldir; [how ~s it that] hvernig stendur á því að? [a misfortune seldom ~s alone] sjaldan er ein báran stök; [~ about] vilja til, bera við; atvikast ([it came about in this way]); snúast (um vindinn); [~ across] finna, hitta; [~ at] komast að; fá að vita; ná; [~ by] komast fram hjá; ná, fá, afla; [~ by his death] láta lifið, deyja; [~ down] falla, lækka (um verð); [~ down upon] ráðast á; [~ down with] láta af hendi rakna; [~ for] koma eftir, sækja, [~ from] koma (stafa) af e-u; [~ in] vera kosinn; fá völdin, taka við völdunum; komast í tísku; grípa fram í; taka undir; [~ in useful] verða að notum; [he asks where the fun ~s in] í hverju fyndnin er fólgin; [~ in at the door] inn um dyrnar; [~ in for] hlotnast e-ð (óvænt); [~ of] vera kominn af; [nothing came of it] það varð ekki til neins; [~ off] detta af (um hár); flagna af (um húðina); losna; sleppa; rætast; [~ off conqueror] bera sigur úr býtum; [~ off with his life] bjarga lífinu; [~ on] nálgast; koma fram (á leiksviðið); þrífast; heppnast; [darkness is coming on] dettur á; [it was coming on wet] fór að rigna; [~ on for discussion] til umræðu; [~ out] koma út (um bók); verða kunnugt; koma (brjótast) út (um mislinga); [~ out] safe sleppa með heilu og höldnu; [~ round] koma aftur; snúa sér (um vindinn); ná sér (eftir sjúkdóm); jafna sig; leika á e-n; [~ to] rakna við ([~ to one's senses]); nema svo og svo miklu; [~ to harm] meiða sig; [~ to nothing] verða að engu; [~ to an end] hætta, ljúka; [~ to one's property] erfa, taka við arfi; [~ to close quarters] komast í handalögmál, fara að berjast í návígi; [~ upon] koma að; ráðast á; gagntaka; hitta, finna; [~ upon the parish] fara á sveitina, hreppinn; [~ up to] jafnast við; [~ up with] ná e-m, finna upp á e-u
+come s. koma; komast; verða ([~ expensive]); [~ to pass] verða, bera við; [~ (to be) true] rætast, reynast satt; [ages to ~] ókomnar aldir; [how ~s it that] hvernig stendur á því að? [a misfortune seldom ~s alone] sjaldan er ein báran stök; [~ about] vilja til, bera við; atvikast ([it came about in this way]); snúast (um vindinn); [~ across] finna, hitta; [~ at] komast að; fá að vita; ná; [~ by] komast fram hjá; ná, fá, afla; [~ by his death] láta lífið, deyja; [~ down] falla, lækka (um verð); [~ down upon] ráðast á; [~ down with] láta af hendi rakna; [~ for] koma eftir, sækja, [~ from] koma (stafa) af e-u; [~ in] vera kosinn; fá völdin, taka við völdunum; komast í tísku; grípa fram í; taka undir; [~ in useful] verða að notum; [he asks where the fun ~s in] í hverju fyndnin er fólgin; [~ in at the door] inn um dyrnar; [~ in for] hlotnast e-ð (óvænt); [~ of] vera kominn af; [nothing came of it] það varð ekki til neins; [~ off] detta af (um hár); flagna af (um húðina); losna; sleppa; rætast; [~ off conqueror] bera sigur úr býtum; [~ off with his life] bjarga lífinu; [~ on] nálgast; koma fram (á leiksviðið); þrífast; heppnast; [darkness is coming on] dettur á; [it was coming on wet] fór að rigna; [~ on for discussion] til umræðu; [~ out] koma út (um bók); verða kunnugt; koma (brjótast) út (um mislinga); [~ out] safe sleppa með heilu og höldnu; [~ round] koma aftur; snúa sér (um vindinn); ná sér (eftir sjúkdóm); jafna sig; leika á e-n; [~ to] rakna við ([~ to one's senses]); nema svo og svo miklu; [~ to harm] meiða sig; [~ to nothing] verða að engu; [~ to an end] hætta, ljúka; [~ to one's property] erfa, taka við arfi; [~ to close quarters] komast í handalögmál, fara að berjast í návígi; [~ upon] koma að; ráðast á; gagntaka; hitta, finna; [~ upon the parish] fara á sveitina, hreppinn; [~ up to] jafnast við; [~ up with] ná e-m, finna upp á e-u
 comedian n. grínisti; skopleikari, leikari í gleðileikum; skopleikjaskáld, gleðileikaskáld
 comedy n. grínleikur, grínmynd; gleðileikur, gamanleikur
-comeliness n. þokki, friðleikur; velsæmi
+comeliness n. þokki, fríðleikur; velsæmi
 comely l. snotur, laglegur
 come-off n. niðurstaða, endir; fyrirsláttur, viðbára
 comer n. komumaður; [the first ~] sá sem fyrst kemur
@@ -1434,7 +1434,7 @@ commissary n. fulltrúi (t.d. biskups); erindreki; vistastjóri ([~ of stores])
 commission n. framning (glæps); skipun; umboð, erindi; nefnd; friðdómarar ([~ of the peace]); konunglegt skipunarbréf (í foringjastöðu); umboðssala ([goods sold on ~]); umboðssölulaun, -þóknun (af e-u [on]); pöntun ([I have three ~s for the city]); [sin of ~] verknaðarsynd; [a ship in ~] albúið í hernað; [be in the ~] vera friðdómari; [a disgrace to the ~] foringjastéttinni til minnkunar; [~ for the assessment of taxes] niðurjöfnunarnefnd, skattanefnd; [~ agent] umboðssali; s. veita umboð; fela e-m á hendur; panta (hjá e-m [of]); [a ~ed officer] sem hefur konunglegt skipunarbréf
 commissioner n. fulltrúi, erindreki, umboðsmaður; nefndarmaður
 commissure n. samskeyti (t.d. beina)
-commit s. fela á hendur, trúa fyrir ([~ to one's charge]); drýgja, fremja; setja (frumvarp) í nefnd; stofna í hættu ([~ one's honour]); lögsækja ([~ for trial]); [~ oneself] stofna sér í hættu, verða sér til minnkunar; hlaupa á sig, gefa höggstað á sér; [~ to prison, to jail] setja í fangelsi, varðhald; [~ to type] láta prenta; [~ to writing] færa í letur; [~ to memory] leggja á minnið; læra utanað; [~ to the flames] kasta e-u á eldinn; [~ to his judgement] leggja undir dóm hans
+commit s. fela á hendur, trúa fyrir ([~ to one's charge]); drýgja, fremja; setja (frumvarp) í nefnd; stofna í hættu ([~ one's honour]); lögsækja ([~ for trial]); [~ oneself] stofna sér í hættu, verða sér til minnkunar; hlaupa á sig, gefa höggstað á sér; [~ to prison, to jail] setja í fangelsi, varðhald; [~ to type] láta prenta; [~ to writing] færa í letur; [~ to memory] leggja á minnið; læra utan að; [~ to the flames] kasta e-u á eldinn; [~ to his judgement] leggja undir dóm hans
 commitment n. skuldbinding; áhendurfalning; fangelsun; fangelsisúrskurður; stefna, lagakæra; framning ([~ of a crime])
 committal n. [~ to earth] jörðun, greftrun; [~ prayers] greftrunarbænir
 committee n. nefnd; gæslumaður ([~ of a lunatic])
@@ -1444,7 +1444,7 @@ commode n. kommóða, dragkista; hægðastóll ([night ~])
 commodious l. hagkvæmur; rúmgóður
 commodity n. söluvara, vara, verslunarvara, vörutegund
 commodore n. yfirsjóliðsforingi (milli [captain] og [rear admiral]), flotadeildarforingi ([~ of the first class])
-common l. sameiginlegur ([~ cause]); almennur, algengur; óbreyttur ([~ sailor]); vanalegur, hversdagslegur ([a ~ occurrence]); almúgalegur; auðvirðilegur; [~ council] bæjarstjórn; [~ school] alþýðuskóli; [~ sense] heilbrigð skynsemi; [the ~ people] almúginn, alþýðan; [~ gender] samkyn; [~ law] venjulög; [out of the ~] óvenjulegur; [in ~] í félagsskap, saman; [have something in ~] eiga eitthvað sameiginlegt; n. afréttur; ítak; [~ of pasturage] réttur til beitar (í annars landi)
+common l. sameiginlegur ([~ cause]); almennur, algengur; óbreyttur ([~ sailor]); vanalegur, hversdagslegur ([a ~ occurrence]); almúgalegur; auvirðilegur; [~ council] bæjarstjórn; [~ school] alþýðuskóli; [~ sense] heilbrigð skynsemi; [the ~ people] almúginn, alþýðan; [~ gender] samkyn; [~ law] venjulög; [out of the ~] óvenjulegur; [in ~] í félagsskap, saman; [have something in ~] eiga eitthvað sameiginlegt; n. afréttur; ítak; [~ of pasturage] réttur til beitar (í annars landi)
 commonage n. beitarréttur; sameiginlegt beitiland
 commonalty n. alþýða; félag ([the ~ of watermen])
 commoner n. alþýðumaður, ótiginn maður; þingmaður í neðri þingdeild ([House of Commons])
@@ -1559,7 +1559,7 @@ composed l. stilltur
 composedness n. stilling
 composer n. rithöfundur; tónskáld
 composite l. samsettur
-composition n. samsetning; tilbúningur; stíll, ritháttur; ritgjörð; samningur (um skuldalúkning, [made a ~ with his creditors]); sætt; skapgerð, lunderni; [books of recent ~] nýlega samdar bækur; [book of ~s] stílabók
+composition n. samsetning; tilbúningur; stíll, ritháttur; ritgjörð; samningur (um skuldalúkningu, [made a ~ with his creditors]); sætt; skapgerð, lunderni; [books of recent ~] nýlega samdar bækur; [book of ~s] stílabók
 compositor n. letursetjari
 compost n. samsetning; samsettur áburður; s. breyta í áburð
 composure n. ró, stilling
@@ -1628,7 +1628,7 @@ conciliatory l. sem miðar til sátta; sáttfús; laðandi ([~ manners])
 concinnity n. samkvæmni, samræmi, samhljóðan; fegurð (í rithætti)
 concise l. stuttorður, gagnorður
 concisely ao. gagnort
-conclave n. samkomustaður og samkoma kardinála til að velja páfa; leynisamkoma
+conclave n. samkomustaður og samkoma kardínála til að velja páfa; leynisamkoma
 conclude s. enda; álykta; gera (samning); ákveða, fastráða
 conclusion n. endir; niðurstaða; ályktun; samning ([~ of peace]); [in ~] að lyktum
 conclusive l. sem gerir út um, ræður úrslitum; sannfærandi
@@ -1752,7 +1752,7 @@ confute s. hrekja (e-n eða skoðun e-s), ósanna
 congeal s. láta frjósa, frysta e-ð; storkna, stirðna, frjósa
 congealed l. frosinn; storkinn
 congelation n. storknun; frost; [point of ~] frostmark
-congenerous l. samkynjaður, samskonar
+congenerous l. samkynjaður, sams konar
 congenial l. sama eðlis, náskyldur; skaplíkur ([~ neighbours] samlyndir nágrannar); hæfilegur
 congeniality n. skyldleiki, skaplíking
 congenital l. meðfæddur; [~ disease] meðfæddur sjúkdómur
@@ -1839,7 +1839,7 @@ consentaneity n. samræmi
 consentaneous l. samkvæmur e-u, í samræmi við ([with])
 consentient l. samþykkur, samhljóða, sammála
 consequence n. afleiðing; ályktun; mikilvægi; [a person of ~] atkvæðamaður; [nothing of ~] ekkert markvert; [in ~] þess vegna; [in ~ of] sökum
-consequent l. eftirfarandi; þarafleiðandi; sjálfum sér samkvæmur
+consequent l. eftirfarandi; þar af leiðandi; sjálfum sér samkvæmur
 consequential l. sem leiðir af öðru; sem hefur afleiðingar; atvikslegur; sjálfum sér samkvæmur; atkvæðamikill; þóttafullur
 consequentiality n. mikilmennska, þótti
 consequently ao. þess vegna
@@ -1863,7 +1863,7 @@ consist s. vera fólginn (í [in]); vera samsettur (af [of]); vera samkvæmur (e
 consistency n. samfesta, þéttleiki; samkvæmni, samræmi; stöðugleiki, staðfesta (í skoðunum)
 consistent l. samkvæmur, samræmur (e-u [with]); staðfastur, stöðugur; þéttur, samfastur
 consistently ao. í samræmi (við); staðfastlega
-consistory n. kardinálaráð; kardinálasamkoma; kirkjuráð
+consistory n. kardínálaráð; kardínálasamkoma; kirkjuráð
 consociate s. sameina
 consociation n. sameining, samfélag
 consolation n. huggun
@@ -2085,7 +2085,7 @@ cooler n. kælingarker
 coolly ao. stillilega; fálega; kuldalega
 coolness n. stilling; fáleikur; kuldi; það að vera svalur
 coolie n. indverskur eða kínverskur verkamaður
-coop n. körfubúr fyrir alífugla, hænsnabúr; karfa til að veiða í fisk; s. [~ up] byrgja inni (í búri)
+coop n. körfubúr fyrir alifugla, hænsnabúr; karfa til að veiða í fisk; s. [~ up] byrgja inni (í búri)
 cooper n. beykir, laggari; s. gera við (tunnu); dubba upp ([up])
 cooperage n. beykisiðn, beykisverkstofa
 co-operate s. vinna saman
@@ -2118,7 +2118,7 @@ copy n. afrit, eftirrit, samrit; eftirstæling; eftirmynd; eintak; forskrift; s.
 copybook n. forskriftabók; skrifbók
 copyhold n. e.k. erfðafesta
 copyist n. (eftir)ritari
-copyright n. höfundaréttur, útgáfuréttur ([have a ~ in])
+copyright n. höfundarréttur, útgáfuréttur ([have a ~ in])
 coquet l. daðurgjarn, ástleitinn; s. daðra (við [with]); gera gælur við ([with])
 coquetry n. daður, þóknunarsýki
 coquette n. daðurkvendi; gæludrós
@@ -2312,7 +2312,7 @@ coupling n. tengsl
 courage n. hugrekki, hugprýði, hugur
 courageous l. hugrakkur, hugaður, hugdjarfur
 courier n. boðberi, sendiboði, hraðboði; fylgdarmaður (í ferðalagi)
-course n. rás, ferð; gangur; stefna, leið; farvegur ([water-~]); skeiðvöllur (race-~); æviskeið; aðferð, venja; ft. hegðun; röð (af fyrirlestrum); réttur (matar); gangverð á peningum og skuldabréfum ([~ of exchange]), gengi; segl ([fore, main-]); [change one's ~] breyta um stefnu; [hold the ~] halda stefnunni; [in ~ of construction] í smíðum; [a matter of ~] sjálfsagður hlutur; [in the ~ of years] þegar fram líða (liðu) stundir; [~ of events] rás viðburðanna; [in due ~] á sinum tíma; [of ~] auðvitað, vitanlega; s. elta (veiðidýr); láta hlaupa, hleypa (hesti); hlaupa, renna; stefna, halda
+course n. rás, ferð; gangur; stefna, leið; farvegur ([water-~]); skeiðvöllur (race-~); æviskeið; aðferð, venja; ft. hegðun; röð (af fyrirlestrum); réttur (matar); gangverð á peningum og skuldabréfum ([~ of exchange]), gengi; segl ([fore, main-]); [change one's ~] breyta um stefnu; [hold the ~] halda stefnunni; [in ~ of construction] í smíðum; [a matter of ~] sjálfsagður hlutur; [in the ~ of years] þegar fram líða (liðu) stundir; [~ of events] rás viðburðanna; [in due ~] á sínum tíma; [of ~] auðvitað, vitanlega; s. elta (veiðidýr); láta hlaupa, hleypa (hesti); hlaupa, renna; stefna, halda
 courser n. veiðimaður; veiðihundur; kappreiðarhestur
 court n. garður (umgirt svæði), húsagarður; konungshöll; hirð; dómstóll ([~ of law, ~ of justice, judicature, police ~, criminal ~]); dómur, réttur; dómsalur; kurteisisheimsókn; afmarkaður reitur ([tennis ~]); ástarhót; [to pay (make) ~ to] reyna að koma sér í mjúkinn við, sýna ástarhót; s. sækjast eftir (hylli e-s); sýna ástarhót, biðla til; lokka
 court-card n. mannspil, málspil
@@ -2385,7 +2385,7 @@ cradle n. vagga, rugga; s. leggja í vöggu, vagga, rugga (e-u)
 craft n. fimleiki; slægð; iðn; skip, bátur; bátar
 craftiness n. slægð, lævísi, slóttugheit
 craftsman n. iðnaðarmaður
-crafty l. slægur, lævís, slóttugur, klækur
+crafty l. slægur, lævís, slóttugur, klókur
 crag n. hamar, klettur; klettasnös
 cragged l. klettóttur
 cragsman n. klifrari í klettum
@@ -2466,7 +2466,7 @@ crescendo ao. (í söngfræði) með vaxandi hraða
 crescent l. vaxandi; í lögun eins og hálfmáni; n. vaxandi tungl, hálfmáni
 cress n. hrafnaklukka ([meadow ~])
 cresset n. e.k. ljósker, glóðarker
-crest n. kambur (á dýrum); öldukambur; fjaðraskúfur, hjálmskúfur; hjálmur; toppur; tindur; fjallshryggur; s. setja kamb (hrygg, topp) á e-ð; mynda kamb á e-u; komast upp á kamb; hringa sig, risa (um öldur)
+crest n. kambur (á dýrum); öldukambur; fjaðraskúfur, hjálmskúfur; hjálmur; toppur; tindur; fjallshryggur; s. setja kamb (hrygg, topp) á e-ð; mynda kamb á e-u; komast upp á kamb; hringa sig, rísa (um öldur)
 crestfallen l. hnugginn, huglaus
 crevasse n. jökulsprunga
 crevice n. sprunga, rifa
@@ -2484,7 +2484,7 @@ criminology n. afbrotafræði, glæpafræði
 criminous l. glæpsamlegur
 crimp s. gera liði á (hár); gára; lokka til sjómennsku eða herþjónustu; n. maður sem lokkar aðra menn til herþjónustu eða sjómennsku; l. sem molnar; stökkur (sjá %[crisp]%)
 crimson l. fagurrauður; n. fagurrauður litur; s. lita fagurrautt; roðna; [her (pale) face ~ed] hún roðnaði
-cringe s. kiprast saman; hneigja sig auðmjúklega; flaðra; n. auðvirðileg hneiging; vandræðaleiki (óforml. slangur)
+cringe s. kiprast saman; hneigja sig auðmjúklega; flaðra; n. auvirðileg hneiging; vandræðaleiki (óforml. slangur)
 crinkle n. hrukka; felling; liður (á hári); s. gera hrukkur á
 crinoline n. krínólín
 cripple n. krypplingur; s. limlesta; draga mátt úr, lama
@@ -2670,7 +2670,7 @@ currency n. gjaldmiðill, gjaldeyrir, gangeyrir; gjaldgengi; útbreiðsla; [duri
 current l. sem er að líða; gjaldgengur ([~ coin]); algengur; [the ~ month] þessi mánuður; [it goes ~ that] það er í almæli, að; n. straumur; rafstraumur ([electric ~]); vatnshalli; rás (viðburða)
 currently ao. liðugt ([to read ~])
 curricle n. tvíeykisvagn
-curriculum n. námsskrá, námsskeið ([~ of study])
+curriculum n. námskrá, námskeið ([~ of study])
 currier n. sá sem verkar og litar sútuð skinn; leðurverkari
 currish l. hundslegur ([his ~ nature]); geðvondur
 curry n. karrí (réttur úr smáskornu kjöti með karrídufti í); s. verka (sútuð skinn); kemba (hesti); lúberja; [~ favour with] koma sér í mjúkinn við

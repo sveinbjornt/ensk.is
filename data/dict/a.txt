@@ -33,7 +33,7 @@ abduct s. ræna, nema á brott; flytja burt
 abduction n. brottnám, mannrán; fráleiðsla
 abductor n. mannræningi, ránsmaður
 abeam ao. þvers, þversum
-abear s. þola, fella sig sig við ([she could not ~ that man])
+abear s. þola, fella sig við ([she could not ~ that man])
 abearance n. hegðun ([good ~])
 abecedarian l. stafrófs-, stöfunar-, sem er í stafrófsröð; n. stöfunarnemandi; stöfunarkennari; fáfræðingur
 abed ao. í rúminu; rúmfastur ([he was ~ with gout])
@@ -54,11 +54,11 @@ abide s. vera; dvelja; standa við ([~ by one's word]); halda fast við; haldast
 abiding l. fastur, stöðugur, varanlegur; n. dvöl; [~ place] dvalarstaður
 abigail n. þerna, þjónustustúlka
 ability n. hæfileiki, hæfni; geta, máttur; dugnaður; gáfur ([a man of great ~])
-abject l. auðvirðilegur, fyrirlitlegur, ömurlegur; [~ poverty] auðvirðileg fátækt; n. afhrak, úrþvætti
+abject l. auvirðilegur, fyrirlitlegur, ömurlegur; [~ poverty] auvirðileg fátækt; n. afhrak, úrþvætti
 abjection n. auðvirðilegleiki, niðurlæging
 abjuration n. eiðsvarin afneitun
 abjure s. afneita með eiði ([~ a heresy])
-ablative n. sviftifall; l. sviftifalls-
+ablative n. sviptifall; l. sviptifalls-
 ablaze ao. í loga; l. logandi, alelda; [to set ~] kveikja í
 able l. fær; duglegur, dugandi; [be ~ to] geta, vera fær um
 able-bodied l. vinnufær, sterkur, hraustur
@@ -333,7 +333,7 @@ adaptability n. aðlögunarhæfni; notanleiki
 adaptable l. aðlaganlegur; notanlegur
 adaptation n. aðlögun; eftirlíking; notkun; nýtileiki
 adays ao. [now ~] nú á dögum, á okkar dögum
-add s. bæta við, auka ([to]); [this ~s to our difficulties] eykur; leggja saman (einnig [~ up/together]); [he ~ed that] hann sagði ennfremur að
+add s. bæta við, auka ([to]); [this ~s to our difficulties] eykur; leggja saman (einnig [~ up/together]); [he ~ed that] hann sagði enn fremur að
 adder n. naðra
 addict n. fíkill; s. [~ oneself to] gefa sig við e-u, leggjast í e-ð ([~ oneself to intemperance, drinking])
 addicted l. háður, fíkinn, hneigður; [~ to drinking] háður áfengi, áfengissjúkur
@@ -722,7 +722,7 @@ align s. setja í beina línu
 alignment n. línusetning, röð
 alive ao. á lífi, lifandi; [be ~ to] finna til; [look ~] kvika, hreyfa sig; [~ with] kvikur af e-u
 alkali n. pottaska
-all l. allur ([~ day, ~ his life]); allir ([~ whom I saw]); [~ of them] þeir allir; [~ is lost] allt er tapað; ao. alveg ([~ alone, ~ right]); n. aleiga ([he lost his ~]); alheimur; [~ at once, ~ of a sudden] allt í einu; [~ over] alls staðar; [~ but] næstum; [at ~] að nokkru leyti ([if they had been at ~ like her]); [not at ~] alls ekki; [~ kinds of] allskonar; [once and for ~] í eitt skipti fyrir öll
+all l. allur ([~ day, ~ his life]); allir ([~ whom I saw]); [~ of them] þeir allir; [~ is lost] allt er tapað; ao. alveg ([~ alone, ~ right]); n. aleiga ([he lost his ~]); alheimur; [~ at once, ~ of a sudden] allt í einu; [~ over] alls staðar; [~ but] næstum; [at ~] að nokkru leyti ([if they had been at ~ like her]); [not at ~] alls ekki; [~ kinds of] alls konar; [once and for ~] í eitt skipti fyrir öll
 All Fools' Day n. fyrsti dagur aprílmánaðar
 allay s. stilla, kyrra; sefa, slökkva (þorsta, hungur); bæla niður ([~ suspicions]); draga úr e-u
 allegation n. sönnunaratriði; staðhæfing, framburður
@@ -740,7 +740,7 @@ alleviation n. léttir; léttun, linun
 alley n. húsasund, öngstræti; trjágöng; gata (í garði)
 alliance n. bandalag; samband; hjónaband; skyldleiki, tengdir
 allied l. saman í bandalagi; sameinaður; skyldur; banda-
-alligator n. amerískur krókódill
+alligator n. amerískur krókódíll
 alliteration n. stafrím, stuðlun (í kveðskap)
 alliterative l. með stafrími, með stuðlun (í kveðskap)
 allocate s. úthluta, skipta
@@ -790,7 +790,7 @@ aloof ao. í burtu, í fjarska; afsíðis ([stand, keep, hold ~]); l. fálátur;
 aloud ao. upphátt ([to read ~] að lesa upphátt)
 alow ao. niðri; niður
 alpenstock n. broddstafur, fjallastafur, fjallgöngustafur
-alpha n. alfa (fyrsti stafurinn í gríska bókstafinu); l. aðal-; fyrstur, fremstur; höfuðdýrið í dýrahjörð; [~ male] aðalkarlinn, karldýrið sem ræður, karldýrið sem er efst í goggunarröðinni
+alpha n. alfa (fyrsti stafurinn í gríska stafrófinu); l. aðal-; fyrstur, fremstur; höfuðdýrið í dýrahjörð; [~ male] aðalkarlinn, karldýrið sem ræður, karldýrið sem er efst í goggunarröðinni
 alphabet n. stafróf
 alphabetic l. stafrófslegur, stafrófs-; í stafrófsröð
 alphabetical l. stafrófslegur, stafrófs-; í stafrófsröð
@@ -966,7 +966,7 @@ anchorage n. skipalægi; hafnargjald
 anchoress n. einsetukona
 anchoret n. einsetumaður, einbúi
 anchovy n. trönusíli, ansjósa
-ancient l. gamall, forn ([~ custom]); [in ~ and modern times] í fortíð og nútið; n. [the ~s] fornmenn (Grikkir og Rómverjar)
+ancient l. gamall, forn ([~ custom]); [in ~ and modern times] í fortíð og nútíð; n. [the ~s] fornmenn (Grikkir og Rómverjar)
 anciently ao. í fyrndinni
 ancientry n. hár aldur, fyrnska
 ancillary l. þjónandi, hjálpar-, aðstoðar- ([geography, the other ~ science to history])
@@ -1321,8 +1321,8 @@ archetype n. frummynd, frumgerð, erkitýpa
 archiepiscopal l. erkibiskupslegur
 archipelago n. eyjaklasi, eyjahaf
 architect n. arkítekt, húsameistari, byggingameistari
-architectonic l. sem lýtur að húsagerðarlist, arkítektúrs-
-architecture n. byggingarlist, húsagerðarlist, arkítektúr
+architectonic l. sem lýtur að húsagerðarlist, arkitektúrs-
+architecture n. byggingarlist, húsagerðarlist, arkitektúr
 archives nft. skjalasafn, skjöl, arkíf
 archivist n. skjalavörður
 archway n. hvelfing
@@ -1555,8 +1555,8 @@ astrologer n. stjörnuspámaður
 astrological l. stjörnuspálegur
 astrology n. stjörnuspádómur, stjörnuspáfræði
 astronomer n. stjörnufræðingur
-astronomic l. stjarnfræðislegur
-astronomical l. stjarnfræðislegur
+astronomic l. stjarnfræðilegur
+astronomical l. stjarnfræðilegur
 astronomy n. stjörnufræði
 astute l. slægur, kænn
 astuteness n. slægð, kænska
@@ -1659,7 +1659,7 @@ augurship n. spámannsembætti
 augury n. fuglspá; spádómsgáfa; fyrirboði
 August n. ágústmánuður
 august l. tignarlegur; veglegur, göfugur
-Augustan l. [the ~ age] Águstusartímabilið; Ágsborgar- ([~ confession])
+Augustan l. [the ~ age] Ágústusartímabilið; Ágsborgar- ([~ confession])
 auk n. svartfugl, álka, klumbunefja; [great ~] geirfugl
 auld l. gamall (skoskt orð); [~ lang syne] gamlir löngu liðnir tímar
 aunt n. frænka, föðursystir, móðursystir
@@ -1731,7 +1731,7 @@ avariciousness n. ágirnd, fégirnd
 avatar n. gengill; holdgun, holdtekja (í indverskri goðafræði); persónugerving (á netinu)
 avaunt uh. snáfaðu burtu!
 ave uh. heill þér ([Ave Maria]); n. Maríubæn
-avenge s. hefna; ([~ oneself upon, on]) hefna sin á e-m
+avenge s. hefna; ([~ oneself upon, on]) hefna sín á e-m
 avengeful l. hefnigjarn
 avengement n. hefnd
 avenger n. hefnandi

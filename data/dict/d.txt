@@ -106,7 +106,7 @@ daw n. krákutegund
 dawdle s. slæpast, eyða tíma í iðjuleysi ([~ away])
 dawdler n. slæpingi, slæpingur
 dawn s. daga, birta; byrja, koma í ljós; renna upp; [the day ~s] það lýsir af degi; n. dögun, birting, afturelding; [at early ~] snemma í dögun
-day n. dagur; dagsbirta; [to carry (win) the ~] vinna sigur; [to lose the ~] bíða ósigur; [all (the) ~] allan daginn; [the other ~] um daginn, á dögunum; [some ~] einhverntíma (í framtíðinni); [~ by ~] á hverjum degi, dag fyrir dag; [for ~s] dögum saman; [this ~ week] þennan dag í næstu viku eða vikunni sem leið; [sufficient for the ~ is the evil thereof] hverjum degi nægir sín þjáning; [a fine ~] fagurt (gott) veður; [this fashion has had its ~] þessi tíska er búin að vera; [what ~ of the month is this] hvaða mánaðardagur er í dag? [at the last ~, at the ~ of judgment] á efsta degi, dómsdegi; [clear as ~] deginum ljósara; [in the ~s of king Arthur] á dögum Arthurs konungs
+day n. dagur; dagsbirta; [to carry (win) the ~] vinna sigur; [to lose the ~] bíða ósigur; [all (the) ~] allan daginn; [the other ~] um daginn, á dögunum; [some ~] einhvern tíma (í framtíðinni); [~ by ~] á hverjum degi, dag fyrir dag; [for ~s] dögum saman; [this ~ week] þennan dag í næstu viku eða vikunni sem leið; [sufficient for the ~ is the evil thereof] hverjum degi nægir sín þjáning; [a fine ~] fagurt (gott) veður; [this fashion has had its ~] þessi tíska er búin að vera; [what ~ of the month is this] hvaða mánaðardagur er í dag? [at the last ~, at the ~ of judgment] á efsta degi, dómsdegi; [clear as ~] deginum ljósara; [in the ~s of king Arthur] á dögum Arthurs konungs
 daybreak n. dögun, birting, afturelding
 daydream n. dagdraumur, draumórar; s. dreyma dagdraum, láta hugann reika, vera haldinn draumórum
 daydreamer n. draumóramaður, skýjaglópur
@@ -646,7 +646,7 @@ desperado n. ofurhugi (sem svífist einskis), angurgapi
 desperate l. örvæntingarfullur; vonlaus; óður; ótækur, afleitur; háskalegur
 desperately ao. ákaflega
 desperation n. örvænting, örvinglun; æði, sturlun
-despicable l. fyrirlitlegur, auðvirðilegur
+despicable l. fyrirlitlegur, auvirðilegur
 despise s. fyrirlíta; hafna
 despite fs. þrátt fyrir ([in ~ of]); n. illska; mótþrói; [to do ~ to] svívirða
 despiteful l. illskufullur
@@ -829,7 +829,7 @@ diffidence n. vantraust; einurðarleysi; þrekleysi
 diffident l. vantreystandi; þreklaus; einurðarlaus
 diffuse s. dreifa, breiða út; dreifast; l. dreifður; margorður, langorður
 diffusion n. útbreiðsla
-diffusive l. sem breiðist út; viðtækur; yfirgripsmikill; margorður
+diffusive l. sem breiðist út; víðtækur; yfirgripsmikill; margorður
 diffusiveness n. útbreiðsla; málalenging
 dig s. stinga upp; grafa (upp)
 digest n. lögbók; s. raða niður; melta; íhuga; þola, sætta sig við; meltast
@@ -901,7 +901,7 @@ diorama n. gagnsýni
 dip s. dýfa; ausa; stinga sér, fara í kaf; hallast niður; stofna e-m í skuldir; veðsetja ([~ an estate]); [~ into] blaða í (bók); [~ sheep] baða fé; [~ the flag] tifa með flagginu (upp og ofan); n. dýfing; ídýfa, sósa; bað ([sheep ~]); tólgarkerti, strokkkerti; halli ([~ of the magnetic needle])
 dipetalous l. tvíblaðaður (um blóm)
 diphtheria n. barnaveiki (e.k. hálsveiki)
-diptheritis n. barnaveiki (e.k. hálsveiki)
+diptheritis n. barnaveiki (e.k. hálsveiki); eldra heiti, sjá %[diphtheria]%
 diphthong n. tvíhljóð
 diploma n. prófskírteini; vottorð, skírteini; skjal
 diplomacy n. ríkiserindrekstur, diplómasía; stjórnkænska; háttvísi í samskiptum
@@ -975,7 +975,7 @@ discern s. greina í sundur ([~ good from bad]); sjá
 discernible l. sjáanlegur
 discerning l. greindur; skarpvitur
 discernment n. greind, dómgreind
-discharge s. afferma, skipa upp (vörum); hleypa af (byssu); skjóta ([~ a shot, an arrow]); greiða, borga ([~ a debt]); leysa (undan eða frá e-u [of, from]); láta frá s´rr; vísa (e-m) úr vist eða embætti; láta lausan (úr varðhaldi); rækja (skyldu); hafa á hendi, framkvæma; n. afferming, uppskipun; skot ([~ of a gun]); greiðsla, borgun; kvittun; burtvísun; lausn (undan e-u, úr e-u [from]); afrennsli, útrennsli ([~ of water]); útferð (úr kýli), gröftur; framkvæmd ([of a duty, function])
+discharge s. afferma, skipa upp (vörum); hleypa af (byssu); skjóta ([~ a shot, an arrow]); greiða, borga ([~ a debt]); leysa (undan eða frá e-u [of, from]); láta frá sér; vísa (e-m) úr vist eða embætti; láta lausan (úr varðhaldi); rækja (skyldu); hafa á hendi, framkvæma; n. afferming, uppskipun; skot ([~ of a gun]); greiðsla, borgun; kvittun; burtvísun; lausn (undan e-u, úr e-u [from]); afrennsli, útrennsli ([~ of water]); útferð (úr kýli), gröftur; framkvæmd ([of a duty, function])
 disciple n. lærisveinn
 disciplinarian n. tyftunarmeistari; fyrirliði sem hefur strangan heraga ([strict, good, poor, no ~])
 disciplinary l. sem lýtur að góðum aga
@@ -1218,7 +1218,7 @@ dissect s. skera í sundur, skera upp, kryfja (lík); rannsaka ([~ the human min
 dissecting room n. líkskurðarstofa
 dissection n. líkskurður, krufning; vandleg rannsókn
 dissector n. líkskeri
-dissemble s. hylja, leyna; hræsna, hafa yfirdrepskap í frammi
+dissemble s. hylja, leyna; hræsna, hafa yfirdrepsskap í frammi
 dissembler n. hræsnari
 disseminate s. breiða út, dreifa
 dissemination n. útbreiðsla ([~ of knowledge, propaganda])
@@ -1241,7 +1241,7 @@ dissimilar l. ólíkur (e-u [to])
 dissimilarity n. mismunur ([~ of pursuits])
 dissimilitude n. það að vera ólíkur, frábrigði
 dissimulate s. leyna; hræsna
-dissimulation n. uppgerð, yfirdrepskapur, ólíkindalæti
+dissimulation n. uppgerð, yfirdrepsskapur, ólíkindalæti
 dissipate s. dreifa; eyða, sóa; dreifast, hverfa
 dissipated l. svallsamur, gjálífur
 dissipation n. dreifing; eyðslusemi; svall, gjálífi
@@ -1365,7 +1365,7 @@ divulge s. gera kunnugt, birta, koma e-u upp
 dizen s. hlaða skrauti utan á ([~ed with gold and jewels])
 dizziness n. svimi, sundl
 dizzy l. svimagjarn; svimandi, sundlandi; s. láta sundla; rugla
-do s. gera; framkvæma; ljúka við; starfa; hegða sér, breyta; duga, nægja; [~ him harm] gera honum mein; [it does him credit] það er honum til sóma; [~ a room] taka til í herbergi; [he did Lear] hann lék Lear; [~ a distance] fara svo eða svo langa vegalengd; [~ or die] duga eða drepast; [to have done writing] hafa lokið við að skrifa; [have done!] hættu! [thy will be done] verði þinn vilji; [~ a sum] reikna dæmi; [~ well] ganga vel, heppnast ([your affairs are ~ing well]); [how ~ you ~]? hvernig liður þér? sæll vertu, o.s.frv.; [~ away (with)] with gera enda á e-u, útrýma; [~ (to others) as you would be done by] breyttu við aðra, eins og þú vilt að aðrir breyti við þig; [~ for] gera út af við; [~ into English] þýða á ensku; [~ to death] drepa; [~ up] gera við; búa um (böggul); gera út af við; leika á e-n; hafa af e-m; [~ with] notast við; komast af með e-ð; [~ without] komast af án e-s, geta verið án e-s; n. bragð, svik
+do s. gera; framkvæma; ljúka við; starfa; hegða sér, breyta; duga, nægja; [~ him harm] gera honum mein; [it does him credit] það er honum til sóma; [~ a room] taka til í herbergi; [he did Lear] hann lék Lear; [~ a distance] fara svo eða svo langa vegalengd; [~ or die] duga eða drepast; [to have done writing] hafa lokið við að skrifa; [have done!] hættu! [thy will be done] verði þinn vilji; [~ a sum] reikna dæmi; [~ well] ganga vel, heppnast ([your affairs are ~ing well]); [how ~ you ~]? hvernig líður þér? sæll vertu, o.s.frv.; [~ away (with)] with gera enda á e-u, útrýma; [~ (to others) as you would be done by] breyttu við aðra, eins og þú vilt að aðrir breyti við þig; [~ for] gera út af við; [~ into English] þýða á ensku; [~ to death] drepa; [~ up] gera við; búa um (böggul); gera út af við; leika á e-n; hafa af e-m; [~ with] notast við; komast af með e-ð; [~ without] komast af án e-s, geta verið án e-s; n. bragð, svik
 doable l. geranlegur, gjörlegur, gerlegur
 docile l. auðsveipur, viðráðanlegur, þægur; námfús
 docility n. auðsveipni, þægð ([to obey with ~]); námfýsi
@@ -1699,7 +1699,7 @@ ductile l. teygjanlegur; sveigjanlegur
 ductility n. teygjanleiki; auðsveipni
 dudgeon n. reiði; [take in ~] taka e-u illa, firtast af; [be in (a) high (great, deep) ~] vera fokvondur, stórreiður
 duds nft. fataræflar
-due l. skyldugur; fallinn í gjalddaga; tilhlýsilegur; réttur; [in ~ season] á sínum tíma; væntanlegur ([vessels ~]); [it is ~ to] e-m að þakka eða kenna; [become/fall ~] falla í gjalddaga; [the mail is ~ in an hour] pósturinn á að koma eftir klst; ao. [~ east] beint í austur, í háaustur; n. skylda ([taxes and dues]); réttur; tollur, gjald ([harbour ~s]); [give one his ~] láta e-n njóta (unna e-m) sannmælis
+due l. skyldugur; fallinn í gjalddaga; tilhlýðilegur; réttur; [in ~ season] á sínum tíma; væntanlegur ([vessels ~]); [it is ~ to] e-m að þakka eða kenna; [become/fall ~] falla í gjalddaga; [the mail is ~ in an hour] pósturinn á að koma eftir klst.; ao. [~ east] beint í austur, í háaustur; n. skylda ([taxes and dues]); réttur; tollur, gjald ([harbour ~s]); [give one his ~] láta e-n njóta (unna e-m) sannmælis
 duel n. einvígi; s. heyja einvígi
 duelist n. einvígismaður, hólmgöngumaður
 duenna n. hirðmey (á Spáni); tilsjónarkona (með ungri stúlku)

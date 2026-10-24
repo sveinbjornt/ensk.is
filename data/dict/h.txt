@@ -80,7 +80,7 @@ hamlet n. smáþorp
 hammer n. hamar; s. reka eða berja með hamri
 hammock n. hengirúm
 hamper n. stór karfa; s. fjötra, flækja, hindra; [~ a lock] ónýta, skemma lás
-hand n. hönd; hlið; vísir (á klukku); rithönd; verkmaður; maður; [all ~s on board perished] allir skipverjar létust; [they are already ~ and glove (~ in glove)] þeir eru þegar orðnir mestu mátar; [at the ~s of] af e-s hendi, frá e-m; [to buy at the best ~] kaupa ódýrt; [at ~] við höndina ([near at ~]); fyrir höndum, í vændum ([great changes were at ~]); [at no ~] engan veginn; [on ~] fyrirliggjandi; [(embroidery) done by ~] handsaumaður, handunninn; [to take in ~] taka að sér; [the work is now well in ~] vel á veg komið; [off ~, out of ~] undirbúningslaust, þegar í stað; [to live from ~ to mouth] hafa til hnífs og skeiðar; [to have a ~ in] eiga þátt í (hlut að) e-n; [money in ~] reiðupeningar, handbært fé; [the mountains on either ~] á báðar hendur; [to come to ~] koma til skila (um bréf); [on all ~s, on every ~] í (eða úr) öllum áttum, allsstaðar; af öllum; [to put the last (finishing) ~ to the work] leggja síðustu hönd á verkið; [~s up!] hendurnar upp!; s. hjálpa; rétta; afhenda, fá í hendur; taka (segl) saman ([~ a sail])
+hand n. hönd; hlið; vísir (á klukku); rithönd; verkmaður; maður; [all ~s on board perished] allir skipverjar létust; [they are already ~ and glove (~ in glove)] þeir eru þegar orðnir mestu mátar; [at the ~s of] af e-s hendi, frá e-m; [to buy at the best ~] kaupa ódýrt; [at ~] við höndina ([near at ~]); fyrir höndum, í vændum ([great changes were at ~]); [at no ~] engan veginn; [on ~] fyrirliggjandi; [(embroidery) done by ~] handsaumaður, handunninn; [to take in ~] taka að sér; [the work is now well in ~] vel á veg komið; [off ~, out of ~] undirbúningslaust, þegar í stað; [to live from ~ to mouth] hafa til hnífs og skeiðar; [to have a ~ in] eiga þátt í (hlut að) e-n; [money in ~] reiðupeningar, handbært fé; [the mountains on either ~] á báðar hendur; [to come to ~] koma til skila (um bréf); [on all ~s, on every ~] í (eða úr) öllum áttum, alls staðar; af öllum; [to put the last (finishing) ~ to the work] leggja síðustu hönd á verkið; [~s up!] hendurnar upp!; s. hjálpa; rétta; afhenda, fá í hendur; taka (segl) saman ([~ a sail])
 handbarrow n. handbörur
 handbill n. prentað auglýsingablað
 handbook n. handbók
@@ -259,7 +259,7 @@ haziness n. móða, þoka, drungi; óskýrleiki
 hazy l. dimmur, þykkur (um loftið); þokukenndur, óskýr
 he fn. hann; [~ who] sá sem
 he-goat n. geithafur
-head n. höfuð; gáfur, skilningur; frumkvöðull; yfirmaður; oddviti, forstöðumaður; framhluti; efri hluti ([~ of a table]); höfðalag ([~ of a bed]); fylkingarbroddur; uppspretta, upptök ([~ of a river]); fjarðarbotn ([~ of a bay]); dalboln ([~ of a valley]); tunnubotn ([~ of a cask]); kafli, flokkur; efni, grein; fyrirsögn ([~ing]); framstafn; drekahöfuð, skipstrjóna ([figure~]); [taller by a ~] höfði hærri; [by (down by) the ~] framhlaðinn; hýr, kenndur; [per ~, a ~] á mann; [by ~] eftir höfðatölu; [from ~ to foot] frá hvirfli til ilja; [over ~ and ears (in the water)] á kafi; [I can't make ~ or tail of it] ég get ekkert botnað í því; [to be at the ~ of] vera fyrir, stýra; [be at the ~ of his class] vera efstur í sínum bekk; [to lay ~s together] bera saman ráð sín; [come to a ~] komast á hæsta stig; grafa út (um kýli); [to make ~ against] standa á móti; vinna á, verða ágengt á móti e-u; [give a horse the ~] gefa hesti lausan tauminn; [lie heads and points] liggja andfætis; [two ~s are better than one] betur sjá augu en auga; [keep one's ~] láta ekki koma fát á sig; [lose one's ~] verða ruglaður (ráðþrota); s. vera (fara) á undan e-u; vera fyrir, stýra, skrifa fyrir ofan; setja hausa á (nagla); botna (tunnu); standa efstur (á skrá); komast fram fyrir eða fram úr ([~ off]); fara fyrir upptökin á, fara í kringum ([~ a river, lake]); spretta upp (um ár); stefna, halda; [the wind ~s us] vindurinn blæs beint á móti okkur; [an article ~ed] grein með fyrirsögninni; [~ed by a band] með söngflokk í fararbroddi
+head n. höfuð; gáfur, skilningur; frumkvöðull; yfirmaður; oddviti, forstöðumaður; framhluti; efri hluti ([~ of a table]); höfðalag ([~ of a bed]); fylkingarbroddur; uppspretta, upptök ([~ of a river]); fjarðarbotn ([~ of a bay]); dalbotn ([~ of a valley]); tunnubotn ([~ of a cask]); kafli, flokkur; efni, grein; fyrirsögn ([~ing]); framstafn; drekahöfuð, skipstrjóna ([figure~]); [taller by a ~] höfði hærri; [by (down by) the ~] framhlaðinn; hýr, kenndur; [per ~, a ~] á mann; [by ~] eftir höfðatölu; [from ~ to foot] frá hvirfli til ilja; [over ~ and ears (in the water)] á kafi; [I can't make ~ or tail of it] ég get ekkert botnað í því; [to be at the ~ of] vera fyrir, stýra; [be at the ~ of his class] vera efstur í sínum bekk; [to lay ~s together] bera saman ráð sín; [come to a ~] komast á hæsta stig; grafa út (um kýli); [to make ~ against] standa á móti; vinna á, verða ágengt á móti e-u; [give a horse the ~] gefa hesti lausan tauminn; [lie heads and points] liggja andfætis; [two ~s are better than one] betur sjá augu en auga; [keep one's ~] láta ekki koma fát á sig; [lose one's ~] verða ruglaður (ráðþrota); s. vera (fara) á undan e-u; vera fyrir, stýra, skrifa fyrir ofan; setja hausa á (nagla); botna (tunnu); standa efstur (á skrá); komast fram fyrir eða fram úr ([~ off]); fara fyrir upptökin á, fara í kringum ([~ a river, lake]); spretta upp (um ár); stefna, halda; [the wind ~s us] vindurinn blæs beint á móti okkur; [an article ~ed] grein með fyrirsögninni; [~ed by a band] með söngflokk í fararbroddi
 headache n. höfuðverkur
 headachy l. með höfuðverk
 headboard n. höfðagafl
@@ -309,7 +309,7 @@ hearing n. heyrn; áheyrn; próf (í máli); [to get (to have) a ~] fá hljóð;
 hearken s. hlusta, hlýða á
 hearsay n. orðrómur, sögusögn
 hearse n. líkvagn; s. færa (lík) til grafar; greftra með viðhöfn
-heart n. hjarta; hugur, brjóst; skap; þor, áræði; [at ~, in one's ~] í hjarta sínu, undir niðri, í rauninni; [for my ~] þó að ég ætti lífið að leysa; [with all my ~] af öllu hjarta, af alhuga; [to find it in one's ~] geta fengið af sér; [to have the ~ to] hafa hug til e-s; geta fengið af sér; [to have at ~] láta sér vera annt (umhugað) um; [to take a thing to ~] komast við af e-u, falla e-ð þungt; [to lose ~] láta hugfallast; [to take ~] herða upp hugann; [to be out of ~] vera orðinn huglaus; [to learn (know) by ~] læra (kunna) utanað; [to lay to ~] hugfesta; [to set one's ~ upon] leggja hug á; [to take ~ of grace] taka hug í sig
+heart n. hjarta; hugur, brjóst; skap; þor, áræði; [at ~, in one's ~] í hjarta sínu, undir niðri, í rauninni; [for my ~] þó að ég ætti lífið að leysa; [with all my ~] af öllu hjarta, af alhuga; [to find it in one's ~] geta fengið af sér; [to have the ~ to] hafa hug til e-s; geta fengið af sér; [to have at ~] láta sér vera annt (umhugað) um; [to take a thing to ~] komast við af e-u, falla e-ð þungt; [to lose ~] láta hugfallast; [to take ~] herða upp hugann; [to be out of ~] vera orðinn huglaus; [to learn (know) by ~] læra (kunna) utan að; [to lay to ~] hugfesta; [to set one's ~ upon] leggja hug á; [to take ~ of grace] taka hug í sig
 heartache n. hugarangur
 heartbeat n. hjartsláttur
 heartbreak n. ástarsorg, djúp sorg, hugarangur
@@ -496,7 +496,7 @@ heroic l. hetjulegur, hetju-
 heroine n. kvenhetja, hetja (sem er kvenkyns)
 heroism n. hetjuhugur, hetjudómur
 heron n. hegri
-heronry n. hreiðursstaður hegrans
+heronry n. hreiðurstaður hegrans
 herring n. síld; [red ~] reykt síld
 hers fn. hennar
 herself fn. hún sjálf; í (sjálfa) sig, (sjálfri) sér
@@ -608,7 +608,7 @@ hippodrome n. kappreiðarvöllur, kappakstursvöllur (hjá Grikkjum og Rómverju
 hippogriffin n. hestgammur, ófreskja
 hippogryph n. hestgammur, ófreskja
 hippopotamus n. flóðhestur
-hire s. taka á leigu, leigja; vista, ráða til sin (vinnuhjú); setja á leigu, ljá fyrir kaup ([~ out]); n. leiga; kaup; [for ~] til leigu
+hire s. taka á leigu, leigja; vista, ráða til sín (vinnuhjú); setja á leigu, ljá fyrir kaup ([~ out]); n. leiga; kaup; [for ~] til leigu
 hireling n. leiguþjónn
 hirsute l. úfinn, loðinn
 his fn. hans; sinn (sín, sitt)
@@ -652,7 +652,7 @@ hobgoblin n. púki; grýla; glettinn álfur
 hobnail n. sóla- eða hælnagli; sveitakarl, búri
 hobnailed l. seymdur ([~ed boots]); búralegur
 hobnob s. skeggræða (við [with]); drekka saman
-hock n. öklaliður á afturfæti; mjóendinn á svínslæri; Rínarvín
+hock n. ökklaliður á afturfæti; mjóendinn á svínslæri; Rínarvín
 hockey n. hokkí (e.k. knattleikur)
 hocus s. gabba, leika á e-n; láta ólyfjan í (drykk); byrla e-m eiturdrykk
 hocus-pocus n. sjónhverfingamaður; sjónhverfingar, brögð; s. gera sjónhverfingar; leika á
@@ -1029,10 +1029,10 @@ hydrostatics nft. vatnstöðufræði, vatnsþrýstingarfræði
 hyemal l. vetrarlegur, vetrar-
 hyemate s. hafa vetrarsetu, dvelja vetrarlangt
 hyena n. hýena (villidýr)
-hygeian l. heilsufræðislegur, heilbrigðis-
+hygeian l. heilsufræðilegur, heilbrigðis-
 hygeist n. heilsufræðingur
 hygiene n. heilbrigðisfræði, heilsufræði
-hygienic l. heilsufræðislegur, heilsufarslegur, heilbrigðis-; hollur
+hygienic l. heilsufræðilegur, heilsufarslegur, heilbrigðis-; hollur
 hygrometer n. loftrakamælir
 hygrometry n. loftrakafræði
 hymen n. hjúskaparguð; hjónaband
