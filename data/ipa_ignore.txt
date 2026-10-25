@@ -32,8 +32,8 @@ katana
 Martinique
 mediascape
 megacorporation
-neo-nazi
-neo-nazism
+neo-Nazi
+neo-Nazism
 neurochemical
 neurodegeneration
 newswire
@@ -389,7 +389,7 @@ megajoule
 melioidosis
 monophonic
 morphogenesis
-nazification
+Nazification
 neofascism
 neofascist
 nonhereditary
@@ -443,7 +443,6 @@ autoworker
 cosmodrome
 daredevilry
 idempotency
-monkswood
 sought-after
 generalization
 matrilineage
@@ -504,7 +503,6 @@ anatomic
 galvanization
 incommensurability
 ostracization
-psychadelia
 subfield
 homogamous
 homogamy
@@ -710,7 +708,7 @@ lobotomize
 lobotomization
 tribalistic
 cardsharp
-indology
+Indology
 pussy-whipped
 gadzooks
 devil-worshipper
@@ -781,7 +779,7 @@ praxiology
 English-speaking
 Hunnic
 psycholinguistic
-africanist
+Africanist
 Christological
 Christologist
 Christology
@@ -1018,7 +1016,6 @@ Belarussia
 Crimea
 Moldavia
 POW
-annull
 annullation
 optometric
 eyesocket
@@ -1250,7 +1247,7 @@ bootlicking
 ontologist
 otosclerosis
 fair-complexioned
-kremlinology
+Kremlinology
 lumpenproletariat
 audiometric
 audiometry
@@ -1319,13 +1316,12 @@ comitative
 dipsomaniacal
 diuresis
 dogwhelk
-electibility
 matriarchate
 naupathia
 noble-mindedness
 floridity
 preaspiration
-rable-rouser
+rabble-rouser
 seatworm
 threadworm
 apiculturist
@@ -1919,7 +1915,7 @@ barrelhouse
 hellbound
 irresoluteness
 thrombolysis
-atlanticism
+Atlanticism
 chansonnette
 chansonnier
 sloganeer
