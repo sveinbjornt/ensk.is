@@ -1273,7 +1273,7 @@ adware n. hugbúnaður með auglýsingum, óværubúnaður
 acne n. unglingabólur, graftarbólur
 architectural l. byggingarlistar-
 internationally ao. alþjóðlega
-copyrighted l. varinn af höfundarétti, höfundarréttarvarinn
+copyrighted l. varinn af höfundarrétti, höfundarréttarvarinn
 patented l. varinn af einkaleyfi
 subsection n. undirdeild, undirflokkur, undirkafli, undirhluti
 Babylon n. Babýlon (höfuðborg Babýloníu til forna); auðug og spillt stórborg
@@ -2577,7 +2577,7 @@ environmentalist n. umhverfisverndarsinni, umhverfisverndarmaður; umhverfisfræ
 environmentalism n. umhverfisverndarstefna, umhverfisstefna, umhverfishyggja
 propane n. própan (jarðeldsneyti)
 banditry n. stigamennska (sjá %[bandit]%)
-obsequiously ao. auvirðilega auðmjúkt, á smjaðrandi og undirgefin hátt
+obsequiously ao. auvirðilega auðmjúkt, á smjaðrandi og undirgefinn hátt
 obsequiousness n. auvirðileg auðmýkt, smjaður og undirgefni
 teaset n. testell
 self-knowledge n. sjálfsþekking
