@@ -7841,7 +7841,7 @@ hafnium n. hafnín (málmur, frumefnið Hf, 72 í lotukerfinu)
 zirconium n. sirkon (málmur, frumefnið Zr, 40 í lotukerfinu)
 defragment s. endurraða (gögnum á hörðum disk)
 prebiotic l. forlífs-, forlífrænn, sem kemur á undan lífi
-commando n. lítil hersveit, sérsveit (sem sérhæfir sig í leifturárásum); n. sérsveitarmaður
+commando n. lítil hersveit, sérsveit (sem sérhæfir sig í leifturárásum); sérsveitarmaður
 mistreat s. fara illa með, misþyrma, níðast á
 mistreated l. illa leikinn, sem illa er farið með
 mistreatment n. ill meðferð, misþyrming, níðingsskapur
@@ -8852,7 +8852,7 @@ Punjabi n. púndjabí (indóarískt tungumál)
 Javanese n. javaíska (ástrónesískt tungumál)
 Tamil l. tamílskur; n. Tamíli; tamílska
 Telugu n. telúgú (indverskt dravídatungumál)
-Khmer n. Kmeri (Kambódíumaður); n. kmeríska (kambódískt tungumál)
+Khmer n. Kmeri (Kambódíumaður); kmeríska (kambódískt tungumál)
 Marathi n. maratí (indóarískt tungumál)
 Ramadan n. ramadan (föstumánuður múslíma)
 candela n. kandela (mælieining ljósstyrks)
@@ -9987,7 +9987,7 @@ semaphore n. bendimerki, merkjasending, merkjakerfi
 megastar n. stórstjarna
 nous n. vit, skynsemi, skarpskyggni; hugur
 spiffy l. penn, snotur, vel til fara, pent eða snyrtilega klæddur (óforml.)
-spiff n. snoturleiki, snyrtimennska, sá eiginleiki að vera penn til fara eða snyrtilega klæddur (óforml.); þokki, sjarmi; n. snyrtilega klæddur maður (óforml.)
+spiff n. snoturleiki, snyrtimennska, sá eiginleiki að vera penn til fara eða snyrtilega klæddur (óforml.); þokki, sjarmi; snyrtilega klæddur maður (óforml.)
 mizzenmast n. afturmastur, messanmastur (á skipi)
 mizenmast n. sjá %[mizzenmast]%
 lysis n. rof, sundrun, leysing
@@ -12042,7 +12042,7 @@ radiosonde n. veðurkanni, háloftakanni
 buffoonish l. trúðslegur, fíflagangs-, fíflalætis-, skrípagangs-, trúðslætis-
 fathead n. auli, bjáni, vitleysingur, heimskingi
 fatheaded l. aulalegur, bjánalegur, heimskulegur, heimskur
-goof n. trúður, bjálfi, lúði (óforml.); n. mistök, klúður
+goof n. trúður, bjálfi, lúði (óforml.); mistök, klúður
 hobbled l. haltur; heftur; haldið aftur
 stash s. fela; geyma, koma fyrir (á geymslustað); n. geymsla, geymslustaður; geymslusjóður; (falinn) varaforði, varasjóður
 stoic l. stóískur, jafnlyndur, æðrulaus

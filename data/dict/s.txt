@@ -104,7 +104,7 @@ salvable l. frelsanlegur, bjarganlegur (um skip)
 salvage n. björgun ([~ of life, of property]); bjarglaun ([~ money]); bjargaðir munir; s. bjarga
 salvation n. frelsun; sáluhjálp; [~ army] sáluhjálparher, hjálpræðisher
 salvationist n. sáluhjálparliði, hjálpræðishermaður
-salve n. smyrsl; balsam; s. smyrja (sár); sefa, friða ([~ one's conscience]); s. bjarga (skipi, farmi á sjó, munum úr eldi)
+salve n. smyrsl; balsam; s. smyrja (sár); sefa, friða ([~ one's conscience]); bjarga (skipi, farmi á sjó, munum úr eldi)
 salver n. bakki eða diskur (venjulega úr dýrum málmi)
 salvo n. skilyrði, fyrirvari; afsökun; bjargráð; skothríð; dynjandi lófaklapp
 salvor n. björgunarmaður; björgunarskip ([~ vessel])
@@ -1478,7 +1478,7 @@ smother s. kæfa; bæla niður; hálfkafna; n. reykur, reykjarkaf; [~ of spray] 
 smothery l. kæfandi ([~ air, smoke])
 smoulder s. rjúka; brenna og rjúka logalaust; [long ~ing disaffection] sem lengi hefur búið um sig; n. eldglæður
 smudge s. ata; sverta með reyk; n. saurblettur, skítablettur
-smug l. sjálfumglaður, sjálfsánægður; l. snotur, snyrtilegur
+smug l. sjálfumglaður, sjálfsánægður; snotur, snyrtilegur (forn.)
 smuggle s. smygla, flytja (tollskyldar vörur) á laun (inn í land eða úr landi)
 smuggler n. smyglari, tollsmygill, tollsvikari
 smuggling n. smygl, tollsvik; leyniverslun
@@ -1702,7 +1702,7 @@ sordidness n. saurugleiki; ágirnd, níska, svíðingsskapur
 sore n. sár, fleiður, kýli; böl; l. sár, aumur, viðkvæmur; [~ eyes] bólgin augu; [he has a ~ throat] honum er illt í hálsi
 sorely ao. sárlega, ákaflega, mjög ([to grieve one ~])
 soreness n. sárindi, eymsli
-sorrel n. súra; l. dumbrauður; jarpur; n. dumbrauður litur; jarpur hestur
+sorrel n. súra; dumbrauður litur; jarpur hestur; l. dumbrauður; jarpur
 sorrow n. sorg, harmur, böl; s. syrgja
 sorrowful l. sorgfullur, hryggur; sorglegur ([~ accident])
 sorry l. hryggur, hryggilegur; lélegur, lítilfjörlegur ([a ~ excuse]); [I am ~ to say] það hryggir mig að þurfa að segja; [I am/feel ~ for him] ég kenni í brjósti um hann
@@ -2112,8 +2112,8 @@ stalactite n. dropasteinn
 stale l. gamall, uppþornaður ([~ bread]); daufur, bragðlaus; margnotaður; hversdagslegur; s. deyfa, gera kraftlausan; míga (um hest); n. langt skaft; [~ of a rake] hrífuskaft
 staleness n. deyfubragð; skemmd (á mat sökum elli)
 stalemate n. kyrrstaða; patt í skák; s. gera (e-n) patt; koma (e-m) í bobba
-stalk n. stöngull, leggur; strá; fjöðurstafur; s. stika; ganga hægt á eftir, elta, læðast að (veiðidýrum [~ down]); n. tigulegur gangur
-stalker n. veiðimaður (sem skýtur gemsur, hirti, hreindýr); eltihrellir
+stalk n. stöngull, leggur; strá; fjöðurstafur; tigulegur gangur; s. stika; ganga hægt á eftir, elta, læðast að (veiðidýrum [~ down])
+stalker n. veiðimaður (sem skýtur gemsur, hirti, hreindýr); eltihrellir, e-r sem eltir mann
 stalking horse n. hestur sem veiðimaðurinn felur sig bak við; skálkaskjól, yfirvarp
 stalky l. líkur stöngli ([~ legs]); stönglóttur
 stall n. stallur, hesthús; bás; sölupallur, fjalabúð; gólf (í leikhúsi); stóll í kór; s. ala á stalli, hafa (skepnur) á gjöf; [be ~ed] liggja í, festast í bleytu eða mýri (um vagn)
@@ -2654,7 +2654,7 @@ subserviency n. gagnsemi; tilstilli
 subservient l. gagnlegur, hentugur; þjónandi
 subside s. setjast (um grugg); síga (um land); hníga; minnka, lægja ([the storm ~s]); sjatna
 subsidence n. fall, lækkun ([~ of ground]); minnkun
-subsidiary l. hjálpar-, aðstoðandi; n. hjálparmaður; n. dótturfyrirtæki
+subsidiary l. hjálpar-, aðstoðandi; n. hjálparmaður; dótturfyrirtæki
 subsidize s. niðurgreiða; veita (e-m) fjárstyrk (einkum af ríkisfé)
 subsidy n. fjárstyrkur, fjártillag ([to grant a ~ to])
 subsist s. vera til, standa, haldast; lifa, hafa ofan af fyrir sér ([~ on vegetables, ~ by begging]); veita (e-m) viðurværi, fæða; ala

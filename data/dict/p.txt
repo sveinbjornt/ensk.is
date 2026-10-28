@@ -294,7 +294,7 @@ paschal l. páskalegur, páska-
 pasha n. tyrkneskur hershöfðingi; landstjóri, jarl
 pasquil n. níð, níðrit
 pasquinade n. níðrit; s. rita níð um e-n
-pass n. fara (ganga, ríða, aka) fram hjá (yfir, í gegnum eða áfram [over, through, on]); bera við; verða samþykktur (um laganýmæli); líða ([time ~es rapidly]); hverfa ([~ away]); standast, taka (próf); eyða (um tíma); samþykkja; afhenda; rétta; kveða upp (dóm); þola, verða fyrir; [~ hence (from among us)] deyja; [~ the summer in the country] vera sumarlangt (á sumrin) uppi í sveit; [~ the hands across one's eyes] strjúka höndunum um augun; [the bill has ~ed] frumvarpið hefur verið samþykkt; [it ~es all understanding] það fer fram úr öllum skilningi; [~ away] líða (um tíma); andast, deyja; [~ by the name of] vera jafnaðarlega kallaður; [~ off bad money] gefa út vonda peninga; [~ on] halda áfram; [~ it on] greiða því veg áfram; [bring to ~] bera við, atvikast; [~ by] fara fram hjá; [~ for a wise man] vera talinn vitur maður; [~ off] smáhverfa; [the meeting ~ed off quietly] fundurinn fór friðsamlega fram; [as time ~ed on] eftir því sem fram liðu stundir; [~ over] fara yfir; sneiða fram hjá e-u; [~ a sword through a person] reka sverð í gegnum e-n; n. vegur; öngvegi, skarð; vegabréf; fararleyfi; stig ([at this ~]); ástand, staða; [obtain a ~] standast próf; [matters have come to a bad ~] málefnið er komið í vanda
+pass s. fara (ganga, ríða, aka) fram hjá (yfir, í gegnum eða áfram [over, through, on]); bera við; verða samþykktur (um laganýmæli); líða ([time ~es rapidly]); hverfa ([~ away]); standast, taka (próf); eyða (um tíma); samþykkja; afhenda; rétta; kveða upp (dóm); þola, verða fyrir; [~ hence (from among us)] deyja; [~ the summer in the country] vera sumarlangt (á sumrin) uppi í sveit; [~ the hands across one's eyes] strjúka höndunum um augun; [the bill has ~ed] frumvarpið hefur verið samþykkt; [it ~es all understanding] það fer fram úr öllum skilningi; [~ away] líða (um tíma); andast, deyja; [~ by the name of] vera jafnaðarlega kallaður; [~ off bad money] gefa út vonda peninga; [~ on] halda áfram; [~ it on] greiða því veg áfram; [bring to ~] bera við, atvikast; [~ by] fara fram hjá; [~ for a wise man] vera talinn vitur maður; [~ off] smáhverfa; [the meeting ~ed off quietly] fundurinn fór friðsamlega fram; [as time ~ed on] eftir því sem fram liðu stundir; [~ over] fara yfir; sneiða fram hjá e-u; [~ a sword through a person] reka sverð í gegnum e-n; n. vegur; öngvegi, skarð; vegabréf; fararleyfi; stig ([at this ~]); ástand, staða; [obtain a ~] standast próf; [matters have come to a bad ~] málefnið er komið í vanda
 passbook n. viðskiptabók, bankabók
 passkey n. aðallykill
 passman n. kandídat, sem hefur staðist próf án [honours]
@@ -1599,7 +1599,7 @@ pound n. pund (þyngdarmælieining); pound (gjaldmiðill); breskt sterlingspund 
 poundage n. gjald af hverju pundi
 pounder n. mar; stautur; högg; dynur
 pour s. hella; skenkja; láta streyma; senda út; hella út ([~ out]); streyma, renna; [when it rains it ~s] sjaldan er ein báran stök; [it ~s with rain] það er húðarigning; n. straumur; demba ([~ of rain])
-pout n. það að teygja fram varirnar; ólundarkast, fýla ([in the ~s]); s. vera fúll; teygja fram (varirnar); n. fisktegund
+pout n. það að teygja fram varirnar; ólundarkast, fýla ([in the ~s]); fisktegund; s. vera fúll; teygja fram (varirnar)
 pouting l. ólundarfullur
 pouter n. dúfutegund
 poverty n. fátækt, skortur, örbirgð
@@ -1981,7 +1981,7 @@ privilege n. forréttindi; einkaleyfi, einkaréttindi, réttur; s. veita einkale
 privily ao. í kyrrþey, leynilega
 privity n. samvitund; vitorð (um e-ð [to])
 privy n. salerni; l. sérstakur, afvikinn ([a ~ place]); leynilegur; [~ to] samvitandi um, í vitorði um; [~ council] leyndarráð (konungs); [~ councillor] meðlimur leyndarráðs konungs; [~ seal] innsigli konungs sjálfs; innsiglisvörður ([Lord Privy Seal])
-prize n. verðlaun (t.d. í skólum); vinningur í happdrætti; hertekið skip; herfang; s. virða, meta; hertaka (skip); brjóta, sprengja upp (dyr); [~ essay] n. verðlaunaritgerð
+prize n. verðlaun (t.d. í skólum); vinningur í happdrætti; hertekið skip; herfang; s. virða, meta; hertaka (skip); brjóta, sprengja upp (dyr)
 prize fight n. hnefaleikur þar sem barist er um verðlaun
 prize fighter n. hnefaleikamaður (sem keppir um verðlaun)
 pro and con ao. með og móti; nft. [pros and cons] ástæður með og á móti

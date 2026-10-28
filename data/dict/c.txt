@@ -354,7 +354,7 @@ castellated l. búinn vígturnum ([a ~ building])
 castigate s. refsa, hirta
 castigation n. refsing, hirting
 casting n. kast; steypa; [~s] steyptir munir; [~ of a drapery] fall, fellingar; l. sem ræður úrslitum ([~ vote, ~ weight])
-castle n. kastali, vígi, virki; herragarður; hrókur (í tafli); [~ in the air (in the clouds)] loftkastali, skýjaborg; [~-builder] n. loftkastalamaður
+castle n. kastali, vígi, virki; herragarður; hrókur (í tafli); [~ in the air (in the clouds)] loftkastali, skýjaborg; [~-builder] loftkastalamaður
 castor n. bifur, bjór (sjá %[beaver]%); bjórskinnshúfa; kryddbaukur; [~ oil] laxerolía; [~ sugar] sáldsykur
 castrate s. gelda, vana; stytta (rit)
 castration n. gelding, vönun
@@ -2138,7 +2138,7 @@ core n. kjarni; kjarnahús; graftarnagli; sló ([~ of a horn]); hjarta; [strike 
 corf n. kolakarfa
 coriaceous l. leður-
 co-rival n. keppinautur
-cork n. korkur; tappi, korktappi; s. láta korktappa í; loka niðri; s. toga (upp úr [out of])
+cork n. korkur; tappi, korktappi; s. láta korktappa í; loka niðri; toga (upp úr [out of])
 corkage n. tappa fé af vini, sem veitingamaður leggur ekki til
 corkscrew n. tappatogari
 corky l. korkkenndur; léttur; fjörugur

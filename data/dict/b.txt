@@ -259,7 +259,7 @@ beady l. líkur perlu ([~ eyes])
 beak n. goggur, fuglsnef; skipstrjóna; s. höggva í
 beaked l. nefmyndaður, trjónumyndaður
 beaker n. bikar
-beam n. bjálki, biti; vefjarrifur; vogarstöng; vagnstöng; n. geisli; s. geisla, skína
+beam n. bjálki, biti; vefjarrifur; vogarstöng; vagnstöng; geisli; s. geisla, skína
 beam-ends nft. endarnir á bitunum undir þilfarinu; [to be on the ~] liggja á hliðinni (um skip), vera í hættu eða vanda staddur
 beamy l. ljómandi, skínandi
 bean n. baun
@@ -943,7 +943,7 @@ bouse s. sjá %[booze]%
 bousy l. sjá %[boozy]%
 bout n. deila, bardagi; [this ~] í þetta sinn; [~ of fisticuffs] hnefaleikur; [~ of drinking] drykkjusvall
 bovine l. uxa-; heimskur
-bow n. bogi ([shoot with a ~]); regnbogi; söðulbogi; [bend/draw a ~] draga upp boga; framstafn; kinnungur; s. hneigja, beygja; hneigja sig; n. hneiging; samþykki
+bow n. bogi ([shoot with a ~]); regnbogi; söðulbogi; [bend/draw a ~] draga upp boga; framstafn; kinnungur; hneiging; samþykki; s. hneigja, beygja; hneigja sig
 bowdlerize s. hreinsa bók eða rithöfund
 bowels nft. innyfli; iður ([~ of the earth]); meðaumkun
 bower n. laufskáli; dyngja; bústaður

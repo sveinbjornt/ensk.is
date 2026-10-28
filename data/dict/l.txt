@@ -294,7 +294,7 @@ laziness n. leti
 lazy l. latur, iðjulaus
 lazuli n. lasúrsteinn
 lea n. graslendi, engi
-lead n. blý (frumefnið Pb, 82 í lotukerfinu); blýsakka; s. leiða; teyma ([~ a horse by the bridle]); fá til; vera fyrir e-u; vera fremstur; spila út; liggja (um veg); [~ a solitary life] lifa einmanalegu lífi; [~ the way] ganga (fara) á undan; [~ the van] vera fremstur í flokki; l. formennska, forysta; útspil ([to return one's partner's ~]); aðalhlutverk í leikriti; [to lake the ~] gerast foringi; s. þekja með blýi, blýleggja
+lead n. blý (frumefnið Pb, 82 í lotukerfinu); blýsakka; s. leiða; teyma ([~ a horse by the bridle]); fá til; vera fyrir e-u; vera fremstur; spila út; liggja (um veg); [~ a solitary life] lifa einmanalegu lífi; [~ the way] ganga (fara) á undan; [~ the van] vera fremstur í flokki; þekja með blýi, blýleggja; l. formennska, forysta; útspil ([to return one's partner's ~]); aðalhlutverk í leikriti; [to lake the ~] gerast foringi
 lead pencil n. blýantur, ritblý
 leaden l. úr blýi, blý-; blýgrár; þunglamalegur
 leader n. leiðtogi; foringi; útspilari; ritstjórnargrein
@@ -435,7 +435,7 @@ lessee n. leiguliði
 lesson n. lexía, kennslustund; kenning, ráðning; s. kenna
 lessor n. sá sem byggir öðrum jörð
 lest st. til þess að ekki, að ekki; að (á eftir ótta- og efunarorðum)
-let s. láta; leyfa; leigja (öðrum); leigjast; [~ alone] láta í friði; [~ go] sleppa; [~ blood] taka blóð; [~ down] láta síga, hleypa niður, valda e-m vonbrigðum, bregðast e-m; [~ in] hleypa inn; leka; [~ off] skjóta, hleypa af; leigja út; [~ on] hleypa á; láta á sér skilja; [~ out] hleypa út; leigja út ([~ out at interest]); koma e-u upp; s. letja, aftra; n. hindrun
+let s. láta; leyfa; leigja (öðrum); leigjast; [~ alone] láta í friði; [~ go] sleppa; [~ blood] taka blóð; [~ down] láta síga, hleypa niður, valda e-m vonbrigðum, bregðast e-m; [~ in] hleypa inn; leka; [~ off] skjóta, hleypa af; leigja út; [~ on] hleypa á; láta á sér skilja; [~ out] hleypa út; leigja út ([~ out at interest]); koma e-u upp; letja, aftra; n. hindrun
 lethal l. banvænn
 lethargic l. svefnsjúkur; drungalegur, daufur, sofandi
 lethargical l. svefnsjúkur; drungalegur, daufur, sofandi
@@ -525,7 +525,7 @@ life work n. ævistarf
 lift s. lyfta, hefja; stela ([~ cattle]); lyftast upp; svífa upp (um þoku eða reyk); [~ one's hands] vinna eið; [the fog ~s] þokunni léttir; n. lyfting; hafning; hjálp; lyftivél, lyfta; byrði (sem lyfta má í einu)
 ligament n. band; sin
 ligature n. umband
-light n. ljós; birta; nft. vit, skynsemi; [to bring (come) to ~] leiða (koma) í ljós; l. ljós, ljósleitur, bjartur, bjartleitur; s. kveikja ([~ a fire]); kveikja á ([~ a lamp]); lýsa (t.d. herbergi); lýsa e-m; [her whole countenance lit up with delight] gleðin skein úr öllu andliti hennar; l. léttur; léttfær; léttvopnaður ([~-armed]); óáfengur ([~ wine]); lítilfjörlegur; hægur ([a ~ breeze]); vægur, linur; léttúðugur, léttúðarfullur; lauslátur ([a ~ woman]); [a ~ task] hægðarleikur, hægur vandi; [to make ~ of] gera lítið úr; [~ of foot] léttur á fæti; s. stíga ofan (úr vagni); fara af baki ([down, off]); setjast (um fugla); [~ on, upon] lenda á e-m; koma í hlut e-s; hitta, rekast á e-ð
+light n. ljós; birta; nft. vit, skynsemi; [to bring (come) to ~] leiða (koma) í ljós; l. ljós, ljósleitur, bjartur, bjartleitur; léttur; léttfær; léttvopnaður ([~-armed]); óáfengur ([~ wine]); lítilfjörlegur; hægur ([a ~ breeze]); vægur, linur; léttúðugur, léttúðarfullur; lauslátur ([a ~ woman]); [a ~ task] hægðarleikur, hægur vandi; [to make ~ of] gera lítið úr; [~ of foot] léttur á fæti; s. kveikja ([~ a fire]); kveikja á ([~ a lamp]); lýsa (t.d. herbergi); lýsa e-m; [her whole countenance lit up with delight] gleðin skein úr öllu andliti hennar; stíga ofan (úr vagni); fara af baki ([down, off]); setjast (um fugla); [~ on, upon] lenda á e-m; koma í hlut e-s; hitta, rekast á e-ð
 light-coloured l. ljósleitur
 light dues nft. vitagjald
 lighthouse n. viti

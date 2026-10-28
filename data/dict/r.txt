@@ -333,7 +333,7 @@ recognize s. þekkja (aftur), kannast við, bera kennsl á; viðurkenna
 recoil s. hörfa undan; hrökkva aftur á bak; n. afturkast
 recoin s. slá (móta) peninga upp aftur
 recoinage n. endurmótun (peninga)
-recollect s. muna eftir; koma (e-u) fyrir sig; s. safna aftur; herða upp (hugann, [one's courage]); [~ oneself] ná sér aftur eftir geðshræringu
+recollect s. muna eftir; koma (e-u) fyrir sig; safna aftur; herða upp (hugann, [one's courage]); [~ oneself] ná sér aftur eftir geðshræringu
 recollection n. endurminning; endursöfnun; [to the best of my ~] að því er ég framast man; [within the ~ of man] í manna minnum
 recollective l. minnugur (e-s [of])
 recommence s. byrja aftur
@@ -515,7 +515,7 @@ refloat s. setja aftur á flot
 reflow s. falla út; [flow and ~] falla að og út
 refluent l. sem rennur (fellur) aftur (til baka)
 reflux n. afturstreymi; umskipti (t.d. [~ of public feeling]); útfall; [the flux and ~ of the tides] aðfall og útfall, flóð og fjara
-reform s. umbreyta; bæta; endurbæta; bæta úr, laga ([~ a disorder, an abuse]); batna, taka bótum; n. umbót, endurbót; umbreyting; s. mynda af nýju
+reform s. umbreyta; bæta; endurbæta; bæta úr, laga ([~ a disorder, an abuse]); batna, taka bótum; mynda af nýju, endurmóta; n. umbót, endurbót; umbreyting
 reformation n. umbót, endurbót; siðabót
 reformatory l. umbætandi; n. betrunarstofnun
 reformer n. umbótamaður; umbætandi; siðbótarmaður
@@ -1194,7 +1194,7 @@ riding-habit n. reiðföt (kvenna)
 rife l. algengur, almennur, tíður; auðugur (af e-u [of]); birgur (að e-u [with])
 rifeness n. tíðleiki
 riffraff n. sorp; úrkast
-rifle n. riffill; s. gera skorur (í hlaup á byssu); s. ræna, stela (frá e-m)
+rifle n. riffill; s. gera skorur (í hlaup á byssu); ræna, stela (frá e-m)
 rifler n. þjófur, ræningi
 rift n. rifa, sprunga; gjá; s. rifa, kljúfa; rifna, klofna
 rig s. útbúa; setja reiða á (skip); n. reiðasetning; útbúnaður ([~ out]); dækja; bragð, hrekkur; [run (one's) ~ upon] leika á e-n
