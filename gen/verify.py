@@ -159,22 +159,34 @@ def check_spacing(line: str, pn: str, ln: int):
 
 
 def check_category(line: str, pn: str, ln: int):
-    """Make sure word has a category."""
+    """Make sure word has a category, and that no category occurs more
+    than once in an entry. All senses belonging to a category should be
+    grouped under a single category label, separated by semicolons."""
     hascat = False
-    hasdupcat = False
     for c in CATEGORIES:
         if f" {c} " in line:
             hascat = True
             break
-        if line.count(f"{c} ") > 1:  # and c not in ("stytt", "sks"):
-            hasdupcat = True
-            break
-
-    if hasdupcat:
-        warn("duplicate category", pn, ln)
 
     if not hascat:
         warn("no category for word", pn, ln)
+        return
+
+    # Strip bracketed and parenthesized text, which may contain
+    # abbreviations such as "stytt." and "sks." that are not labels
+    (_, definition) = parse_line(line)
+    d = re.sub(r"\[[^\]]*\]", "", definition)
+    d = re.sub(r"\([^)]*\)", "", d)
+
+    seen = set()
+    for t in d.split():
+        # "stytt. á" and "sks. á" (abbreviation of) may legitimately recur
+        if t not in CATEGORIES or t in ("stytt.", "sks."):
+            continue
+        if t in seen:
+            warn(f"duplicate category '{t}'", pn, ln)
+            break
+        seen.add(t)
 
 
 def check_bracket_use(line: str, pn: str, ln: int):
