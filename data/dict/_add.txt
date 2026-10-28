@@ -13018,7 +13018,6 @@ hatchet job n. árás í rituðu máli, mannorðsmorð, það að sverta mannor�
 obscureness n. sjá %[obscurity]%
 unlogical l. sjá %[illogical]%
 footprints nft. fótspor, fótaför
-footmark n. fótspor, fótafar
 Brythonic l. brýþonskur; n. brýþonsk tungumál ([~ languages])
 rudderless l. stýrislaus, án stýris; stefnulaus, áttalaus
 introuvable l. ófinnanlegur (úr frönsku)
@@ -13065,3 +13064,4 @@ marginalised l. sjá %[marginalized]%
 mag n. stytt. á %[magazine]% (óforml.)
 imposter n. sjá %[impostor]%
 postal code n. póstnúmer
+frenchify s. sjá %[Frenchify]%

@@ -73,7 +73,7 @@ maidenly l. meylegur, kvenlegur
 mail n. póstur ([send by ~]); póstpoki, bréfapoki ([~ bag]); hringabrynja, spangabrynja ([coat of ~]); s. senda með pósti ([~ some letters for him]); færa í brynju
 mail coach n. póstvagn
 maim s. limlesta; lemstra; skaða, meiða; n. limlesting; lemstrun; meiðsl
-main l. megin-, aðal-, helstur ([the ~ body of the army, the ~ point]); n. megn, kraftur; meginhluti, megin, meginhluti ([the ~ of the cargo was landed]); aðalpípa, aðalræsi, aðalleiðsla; úthaf ([~ sea]); fastaland, meginland; aðalatriði; [in the ~] í öllum aðalatriðum, aðallega
+main l. megin-, aðal-, helstur ([the ~ body of the army, the ~ point]); n. megn, kraftur; megin, meginhluti, meginhluti ([the ~ of the cargo was landed]); aðalpípa, aðalræsi, aðalleiðsla; úthaf ([~ sea]); fastaland, meginland; aðalatriði; [in the ~] í öllum aðalatriðum, aðallega
 mainland n. meginland, fastaland
 mainly ao. aðallega, einkum
 mainmast n. aðalsiglutré
@@ -89,7 +89,7 @@ majestic l. hátignarlegur, tignarlegur, tígulegur
 majestical l. hátignarlegur, tignarlegur, tígulegur
 majestically ao. tignarlega, tígulega
 majesty n. hátign; [Your Majesty] yðar hátign
-majollica n. gleraður ítalskur leirvarningur
+majolica n. gleraður ítalskur leirvarningur
 major l. stærri, meiri ([the ~ part]); n. fullveðja maður; majór (yfirforingi)
 majority n. meirihluti; majórstign, majórsstaða; fullveðja aldur, lögaldur ([he attained his ~]); meirihluti (atkvæða); [absolute ~ (of votes)] meira en helmingur atkvæða
 majuscule n. stór stafur, upphafsstafur
@@ -205,7 +205,7 @@ manifest l. áþreifanlegur, augljós; n. farmskrá ([shipping ~]); s. auglýsa,
 manifestation n. birting; auglýsing, sýning
 manifestly ao. augljóslega, bersýnilega, greinilega, auðsjáanlega
 manifesto n. opinber yfirlýsing, stefnuskrá, stefnuyfirlýsing
-manifold l. margfaldur; margskonar, margvíslegur; s. margfalda ([~ copies of letters])
+manifold l. margfaldur; margs konar, margvíslegur; s. margfalda ([~ copies of letters])
 manifoldly ao. margfaldlega, margvíslega
 manikin n. dvergur; afstyrmi; mannlíki
 manille n. næsthæsta tromp í ýmsum spilum
@@ -269,7 +269,7 @@ marble n. marmari; marmarasmíði; marmaraplata með letri; marmarakúla (leikfa
 marc n. vinberjahrat
 marcescent l. visnandi
 March n. mars, marsmánuður
-march n. ganga ([a long, troublesome ~]); herganga, mars; (her)áfangi; hergöngulag; gangur, rás ([~ of time, the general ~ of events]); [one day's ~] eins dags ganga, dagleið, áfangi; [~ out] útrás; [line of ~] (her)göngustefna; landamæri, landamerkjaland; s. ganga (samstiga sem á) hergöngu, marsera; ganga ([~ away, forward, off, on)]; fara; [~ with a spot] liggja að e-m stað; [they ~ on each other] lönd þeirra liggja saman
+march n. ganga ([a long, troublesome ~]); herganga, mars; (her)áfangi; hergöngulag; gangur, rás ([~ of time, the general ~ of events]); [one day's ~] eins dags ganga, dagleið, áfangi; [~ out] útrás; [line of ~] (her)göngustefna; landamæri, landamerkjaland; s. ganga (samstiga sem á) hergöngu, marsera; ganga ([~ away, forward, off, on]); fara; [~ with a spot] liggja að e-m stað; [they ~ on each other] lönd þeirra liggja saman
 marchioness n. markgreifafrú
 marchpane n. marsípan (forn.), sjá %[marzipan]%
 marzipan n. marsípan, sætbakstur
@@ -278,7 +278,7 @@ mare n. meri, hryssa
 marestail n. marhálmur
 margarine n. smjörlíki
 marge n. sjá %[margin]%
-margin n. jaðar; rönd, barmur, spássía; afgangur ([~ of profit]); [allow (leave) a ~ for unforseen expenses] ætla fyrir ófyrirséðum kostnaði; s. gera rönd á; skrifa á spássíuna
+margin n. jaðar; rönd, barmur, spássía; afgangur ([~ of profit]); [allow (leave) a ~ for unforeseen expenses] ætla fyrir ófyrirséðum kostnaði; s. gera rönd á; skrifa á spássíuna
 marginal l. jaðar-, á jaðrinum; smávægilegur; spássíu-; skrifaður (prentaður) á spássíuna ([~ note])
 margrave n. markgreifi
 margravine n. markgreifafrú
@@ -288,7 +288,7 @@ mariner n. sjómaður, sæfari; [master ~] skipstjóri á kaupskipi
 marionette n. leikbrúða
 marital l. hjúskapar- ([~ rights]); [~ relationship] mægðir
 maritime l. sem lýtur að sjó eða sjómennsku, sjávar-, sjó-; [~ court] sjódómur; [~ insurance] sjóvátrygging
-mark n. mark, merki; eyrnamark; auðkenni; einkunn, stig (í skóla, [he gained 46 ~s]); takmark, markmið ([reach the ~]); skotmark ([hit (miss) the ~]); mið (einkum á landi); hleðslumark skips; [below the ~] fyrir neðan meðaltal; [nearer the ~] nær sanni; [make ones ~] vinna sér góðan orðstír; [a man of ~] málsmetandi maður; [a man of no ~] ómerkilegur maður; [fall short of the ~] mistakast; [be up to the ~] ná (ákveðnu) máli; mark s. merkja; auðkenna; sýna; votta; setja á sig, hugfesta ([~ my words!]); [~ out] velja úr ([~ed out for slaughter]); [~ time] stíga takt með fótunum
+mark n. mark, merki; eyrnamark; auðkenni; einkunn, stig (í skóla, [he gained 46 ~s]); takmark, markmið ([reach the ~]); skotmark ([hit (miss) the ~]); mið (einkum á landi); hleðslumark skips; [below the ~] fyrir neðan meðaltal; [nearer the ~] nær sanni; [make ones ~] vinna sér góðan orðstír; [a man of ~] málsmetandi maður; [a man of no ~] ómerkilegur maður; [fall short of the ~] mistakast; [be up to the ~] ná (ákveðnu) máli; s. merkja; auðkenna; sýna; votta; setja á sig, hugfesta ([~ my words!]); [~ out] velja úr ([~ed out for slaughter]); [~ time] stíga takt með fótunum
 marked l. merktur; greinilegur ([a ~ difference])
 marker n. markari, merkjari
 marking ink n. merkiblek
@@ -346,7 +346,7 @@ mask n. gríma; yfirskin ([under the ~ of]); yfirdrepsskapur; [throw off the ~] 
 masked ball n. grímudansleikur (sjá %[masquerade]%)
 masker n. grímumaður
 maslin n. kornblendingur
-mason n. múrari; frímúrari (sjá %[freemason]%)
+mason n. múrari; frímúrari (sjá %[Freemason]%)
 masonry n. múraraiðn, múrsmíði; múrverk; frímúrarakenningar
 masque n. sjá %[mask]%
 masquerade n. grímudansleikur, dulbúningasamkoma; uppgerð, sýndarleikur; s. vera í dularklæðum eða grímubúningi; dulbúa, dulbúast (sem [as])
@@ -380,7 +380,7 @@ mastication n. tuggning
 masticator n. tyggjari, tuggningsvél
 masticatory l. tuggningar- ([~ muscles])
 mastiff n. stór enskur varðhundur
-mastitis n. bólga í kvennbrjóstum
+mastitis n. bólga í kvenbrjóstum
 mastodon n. frumfíll, mastódon (e.k. útdauður fíll)
 mastoid l. í lögun eins og konubrjóst
 masturbation n. sjálfsfróun, sjálfsflekkun, runk
@@ -420,7 +420,7 @@ matron n. gift (öldruð) kona; yfirhjúkrunarkona; yfirvökukona; forstöðukon
 matronage n. hefðarkonur ([the ~ of this land]); yfirumsjón (hefðarkvenna)
 matronal l. aldraðri konu samboðinn; alvarlegur, virðulegur
 matronize s. gera virðulegan; hafa umsjón með (ungum stúlkum); gera að hefðarkonu
-matter n. efni (gagnstætt anda); hlutur; málefni, mál; innihald bókar; gröftur, vilsa; [this is a ~ of life or death] hér er um lif eða dauða að tefla; [in the ~ of] að því er kemur til e-s; [for that ~] hvað sem því líður; [~ of fact] staðreynd; [~ of course] sjálfsagður hlutur; [printed ~] prentað mál, prentmál; [postal ~] allt sem senda má póstleiðis; [~ for reflection] umhugsunarefni; [no laughing ~] ekkert hlátursefni; [a ~ of ten pounds] um tíu pund; [no ~] það stendur á sama; [what is the ~?] hvað er að? [what is the ~ with your eyes?] hvað gengur að þér í augunum?; s. skipta, varða; gefa e-u gaum, hirða um ([he did not ~ it much]); [it does not greatly ~] það stendur ekki á miklu
+matter n. efni (gagnstætt anda); hlutur; málefni, mál; innihald bókar; gröftur, vilsa; [this is a ~ of life or death] hér er um líf eða dauða að tefla; [in the ~ of] að því er kemur til e-s; [for that ~] hvað sem því líður; [~ of fact] staðreynd; [~ of course] sjálfsagður hlutur; [printed ~] prentað mál, prentmál; [postal ~] allt sem senda má póstleiðis; [~ for reflection] umhugsunarefni; [no laughing ~] ekkert hlátursefni; [a ~ of ten pounds] um tíu pund; [no ~] það stendur á sama; [what is the ~?] hvað er að? [what is the ~ with your eyes?] hvað gengur að þér í augunum?; s. skipta, varða; gefa e-u gaum, hirða um ([he did not ~ it much]); [it does not greatly ~] það stendur ekki á miklu
 mattery l. sem grefur í ([a ~ sore])
 matter-of-course l. sjálfsagður
 matter-of-fact l. sem er blátt áfram, umsvifalaus
@@ -472,7 +472,7 @@ meagrim n. sjá %[megrim]%
 meal n. máltíð; málsverður; rúgmjöl, haframjöl; s. matast á málum; gera mjölugt; mjöla; gera að mjöli eða dufti
 mealy l. mjölugur, mjölaður ([~ potatoes]); mjölkynjaður; rykugur
 mealymouthed l. talandi óbeint; blíðmáll, mjúkmáll
-meany ao. fyrirlitlega
+meanly ao. fyrirlitlega
 mean s. ætla, hafa í hyggju; ætla sér; meina, eiga við ([whom do you ~?]); þýða; hafa e-ð í huga ([~ mischief, business]); [~ one well, ill] vilja e-m vel, illa; [he was meant for a soldier] ætlaður til að vera hermaður; l. meðal-; [~ distance] meðalfjarlægð; [~ time] meðaltími; fyrirlitlegur; auðvirðilegur; lítilmótlegur; nískur; n. meðaltal; meðalhóf, meðalvegur ([keep the golden ~])
 meaning n. merking, þýðing ([the ~ of a word]); ætlun, hyggja; tilgangur
 meaningly ao. af ásettu ráði
@@ -487,7 +487,7 @@ measles nft. mislingar
 measly l. veikur af mislingum; flekkóttur
 measled l. veikur af mislingum; flekkóttur
 measurable l. mælanlegur; ekki mjög mikill
-measure n. mál; ([pint ~]); mælikvarði ([tape ~]); mæliker ([20 ~s of wheat]); hljóðlengd; hljóðfall, takt (í söng); bragarháttur; dans ([tread a ~]); hóf ([keep/observe ~]); ft. aðgerðir, ráðstafanir; [take his ~] taka mál af honum; [made to ~] saumaður eftir máli; [greatest common ~] stærsti sameiginlegur mælir; [set ~s to] setja e-u takmörk; [beat the ~] slá takt; [beyond (without) ~] fram úr hófi; [in a great ~] að miklu leyti; [in some ~] að nokkru leyti; [speak within ~] tala gætilega; [take ~s] gera ráðstafanir; s. mæla, taka mál af e-m ([~ a person for clothes]); mælast; vera að máli ([~ 22 inches]); ganga upp í (hærri tölu); [~ oneself against] reyna sig við; [~ swords with] berjast (reyna sig) við e-n; [~ one's length] falla
+measure n. mál; ([pint ~]); mælikvarði ([tape ~]); mæliker ([20 ~s of wheat]); hljóðlengd; hljóðfall, taktur (í söng); bragarháttur; dans ([tread a ~]); hóf ([keep/observe ~]); ft. aðgerðir, ráðstafanir; [take his ~] taka mál af honum; [made to ~] saumaður eftir máli; [greatest common ~] stærsti sameiginlegur mælir; [set ~s to] setja e-u takmörk; [beat the ~] slá takt; [beyond (without) ~] fram úr hófi; [in a great ~] að miklu leyti; [in some ~] að nokkru leyti; [speak within ~] tala gætilega; [take ~s] gera ráðstafanir; s. mæla, taka mál af e-m ([~ a person for clothes]); mælast; vera að máli ([~ 22 inches]); ganga upp í (hærri tölu); [~ oneself against] reyna sig við; [~ swords with] berjast (reyna sig) við e-n; [~ one's length] falla
 measureless l. ómælanlegur
 measurement n. mæling
 measurer n. mælingamaður, mælari
@@ -496,7 +496,7 @@ meat safe n. kjötskápur
 meaty l. kjötmikill
 meatus n. göng ([auditory ~])
 mechanic n. vélvirki, handiðnamaður
-mechanical l. vélrænn, vélfræðislegur; handiðnarlegur; ósjálfráður
+mechanical l. vélrænn, vélfræðilegur; handiðnarlegur; ósjálfráður
 mechanically ao. með vélum; á vélrænan hátt; umhugsunarlaust, ósjálfrátt
 mechanician n. vélameistari
 mechanics nft. vélafræði, hreyfingarfræði, aflfræði
@@ -574,7 +574,7 @@ membranaceous l. himnukenndur, himnu-
 membranous l. himnukenndur, himnu-
 membrane n. himna
 memento n. endurminning; minningarmark
-memoirs nft. minningarit; endurminningar; sjálfsævisaga
+memoirs nft. minningarrit; endurminningar; sjálfsævisaga
 memorable l. minnisstæður, minnisverður, eftirminnilegur
 memorandum n. minnisblað, minnisgrein, athugasemd til minnis
 memorial l. minningar- ([~ service, gift]); n. minnisvarði, minningarmark; álitsskjal, bænarskrá
@@ -604,7 +604,7 @@ mensurable l. mælanlegur
 mensuration n. mæling; mælingarlist
 mental l. andlegur, huga-, sálarlegur, sem lýtur að huga eða geðsmunum ([his ~ state]); [~ arithmetic, ~ computation] hugarreikningur
 mentally ao. í huganum, andlega, með sjálfum sér; [~ and physically] á sál og líkama
-mention n. umtal. umræða; [make ~ of] minnast á; s. nefna; minnast á, geta um; [don't ~ it!] ekki minnast á það!
+mention n. umtal, umræða; [make ~ of] minnast á; s. nefna; minnast á, geta um; [don't ~ it!] ekki minnast á það!
 mentor n. leiðbeinandi, lærimeistari, lærifaðir, kennari, (vitur og trúr) ráðgjafi
 menu n. matseðill; valblað (í tölvuviðmóti)
 mephitic l. sem óþefur er að, daunillur
@@ -688,7 +688,7 @@ methinks s. mér virðist, mér þykir
 method n. háttur, aðferð; regla; [~ of safety] frelsunarvegur
 methodic l. samkvæmur réttri aðferð, vísindalegur
 methodical l. samkvæmur réttri aðferð, vísindalegur
-methodism n. kenning Meþódista
+Methodism n. kenning Meþódista
 Methodist n. Meþódisti
 methodize s. koma fastri reglu á; koma (e-u) haganlega fyrir
 methought s. mér virtist, mér þótti (þátíð af [methinks])
@@ -785,7 +785,7 @@ millepede n. þúsundfætla
 miller n. malari; [~'s thumb] marhnútstegund
 millesimal l. þúsundasti; skiptur í þúsund parta; n. þúsundasti partur
 millet n. hirsikorn, hirsi
-milllard n. þúsund milljónir, milljarður
+milliard n. þúsund milljónir, milljarður
 milliary l. mílu-; mílna-; n. mílusteinn (hjá Rómverjum)
 milliner n. kvenhattasali
 millinery n. munir sem kvenhattasalar búa til eða selja
@@ -834,7 +834,7 @@ minium n. menja (rauðleitur litur)
 miniver n. e.k. loðskinn
 mink n. minkur (rándýr af marðarætt), sundmörður
 minnow n. vatnakarfi; hornsíli
-minor l. minniháttar; minni; lítilfjörlegur; ekki fjár síns ráðandi, ófullveðja, ómyndugur; n. ómyndugur maður; barn undir lögræðisaldri
+minor l. minni háttar; minni; lítilfjörlegur; ekki fjár síns ráðandi, ófullveðja, ómyndugur; n. ómyndugur maður; barn undir lögræðisaldri
 minority n. minnihluti; minnihlutahópur; ómyndugsaldur, aldur undir lögræðisaldri
 Minorite n. grámunkur
 minster n. klausturkirkja; dómkirkja
@@ -911,7 +911,7 @@ misdate s. dagsetja skakkt
 misdeal s. gefa skakkt (í spilum); n. skökk gjöf
 misdeed n. illgerð, illvirki, ódæðisverk ([he repented his ~s])
 misdemean s. [~ oneself] misgera, hegða sér illa
-misdemeanour n. misgerð, yfirsjón, minniháttar lagabrot
+misdemeanour n. misgerð, yfirsjón, minni háttar lagabrot
 misdirect s. misvísa; segja skakkt til; villa; skrifa skakkt utan á
 misdirection n. misvísun; afvegaleiðsla; röng utanáskrift
 misdo s. misgera
@@ -1088,7 +1088,7 @@ mollify s. mýkja, lina; sefa
 mollusc n. lindýr
 mollycoddle s. ofdekra, skemma með dálæti; n. mömmudrengur, kveifarmenni
 molten l. bræddur; steyptur
-moment n. augabragð, augnablik, svipan, svipstund, stund; [wait a ~] bíddu augnablik; mikilvægi ([to be of a great ~]); [it is of great ~] það er áriðandi, mikilvægt
+moment n. augabragð, augnablik, svipan, svipstund, stund; [wait a ~] bíddu augnablik; mikilvægi ([to be of a great ~]); [it is of great ~] það er áríðandi, mikilvægt
 momentary l. augnabliks-, augnablikslegur, skammvinnur, skammtíma-
 momentous l. mikilvægur, tímamóta-, þýðingarmikill ([a ~ occasion])
 momentum n. hreyfiafl, skriðþungi
@@ -1105,7 +1105,7 @@ monasterial l. klausturlegur
 monastery n. klaustur, munkaklaustur
 monastic l. klausturlegur, munka-
 monastical l. klausturlegur, munka-
-monasticism n. klausturlífi
+monasticism n. klausturlíf
 Monday n. mánudagur
 monetary l. mynt-; peninga ([~ unit, affairs, policy])
 money n. peningar; [make ~] græða fé
@@ -1146,10 +1146,10 @@ monologue n. eintal
 monomania n. einæði
 monomaniac n. einæðisvitfirringur
 monopolist n. einokari, einkasali
-monopolize s. einoka; svæla undir sig; gina yfir
+monopolize s. einoka; svæla undir sig; gína yfir
 monopoly n. einokun; einkasala
 monosyllabic l. einkvæður, eins atkvæðis, einsatkvæðis-
-monosyllable n. einsatkvæðisorði, orð með einu atkvæði
+monosyllable n. einsatkvæðisorð, orð með einu atkvæði
 monotheism n. eingyðistrú
 monotheist n. eingyðistrúarmaður
 monotone s. lesa, tala, syngja einræmislega; raula; l. blæbrigðalítill, einræmislegur, tilbreytingarlaus
@@ -1272,7 +1272,7 @@ mothery l. gruggugur
 mothy l. mölétinn; fullur af möl
 motif n. undirstöðuefni í skáldskap (yrkisefni) eða listaverki
 motile l. sjálfhreyfilegur
-motion n. hreyfing ([be in ~, put in ~]); innblástur; uppástunga; tillaga ([the ~ was carried]); hægðir; [on (the) ~ of] eftir uppástungu (e-s); [how are your ~s?] hvernig hægðir hafið þér? s. stinga upp á; benda; [~ one to take a chair] gefa e-m bendingu að setjast niður
+motion n. hreyfing ([be in ~, put in ~]); innblástur; uppástunga; tillaga ([the ~ was carried]); hægðir; [on (the) ~ of] eftir uppástungu (e-s); [how are your ~s?] hvernig hægðir hafið þér?; s. stinga upp á; benda; [~ one to take a chair] gefa e-m bendingu að setjast niður
 motionless l. hreyfingarlaus, grafkyrr; óhreyfanlegur
 motive l. hreyfandi, hreyfingar- ([~ power]); n. ástæða, hvöt; s. leiða rök að, rökstyðja
 motivity n. hreyfingarafl; hreyfanleiki
@@ -1285,7 +1285,7 @@ mottled l. marglitur, dröfnóttur, rákóttur
 motto n. kjörorð, einkunnarorð
 mold n. mygla; s. mygla
 molded l. myglaður
-moldy l. myglaður
+moldy l. myglaður, myglukenndur
 mould n. steypumót; formur; kökuform; lögun; snið; tegund; mygla; s. mynda, laga; steypa (einkum kerti); móta; hnoða (deig); mygla
 mouldable l. myndanlegur
 moulder s. mylja; molna
@@ -1294,7 +1294,7 @@ mouldwarp n. moldvarpa
 moult s. vera í sárum, fella fjaðrir (um fugla); hleypa hömum, skipta um ham
 moulting n. fjaðrafellir
 mound n. hóll, hæð; haugur; víggarður; s. hlaða fyrir, víggirða
-mount n. fjall (með eiginnafni, t.d. [Mount Everest]); reiðskjóti; s. stíga (ganga) upp; fara (stíga) á bak; setja upp ([~ a cap]); sjá (e-m) fyrir reiðskjóta; líma upp (myndir); prýða, búa (skrautgripi); greypa (gimsteina í málm); ganga upp á; stiga upp; hækka í tign; vaxa, aukast ([~ up]); [~ the throne] taka konungdóm; [~ a cannon] setja fallbyssu á stalla; [~ guard] standa á verði; ganga á vörð; [well (poorly) ~ed] vel (illa) ríðandi; [~ed on linen] límdur á léreft
+mount n. fjall (með eiginnafni, t.d. [Mount Everest]); reiðskjóti; s. stíga (ganga) upp; fara (stíga) á bak; setja upp ([~ a cap]); sjá (e-m) fyrir reiðskjóta; líma upp (myndir); prýða, búa (skrautgripi); greypa (gimsteina í málm); ganga upp á; stíga upp; hækka í tign; vaxa, aukast ([~ up]); [~ the throne] taka konungdóm; [~ a cannon] setja fallbyssu á stalla; [~ guard] standa á verði; ganga á vörð; [well (poorly) ~ed] vel (illa) ríðandi; [~ed on linen] límdur á léreft
 mountain n. fjall
 mountain chain n. fjallgarður
 mountain cock n. þiður
@@ -1311,7 +1311,7 @@ mouse-coloured l. múslitaður, músgrár
 mouse-eaten l. músétinn
 mouser n. músaveiðari (köttur, ugla)
 mousetrap n. músagildra
-moussefine n. sjá %[muslin]%
+mousseline n. sjá %[muslin]%
 moustache n. yfirvaraskegg; [an old ~] gamall hermaður
 mousy l. líkur mús, músgrár; meinlaus sem mús; fullur af músum
 mouth n. munnur; (ár)mynni; (hellis)munni; munnpípa (á hljóðfæri); [by word of ~] munnlega; [make a wry ~] gretta sig; [make a ~ at, make ~s at/upon] skæla munninn framan í (e-n); [down in the ~] dapur í bragði; s. tala hátt og tilgerðarlega; grípa með munninum; gretta sig; falla út í ([in, into]); [~ off] vera með ósvífni, vera með kjaft
@@ -1356,7 +1356,7 @@ muffle s. deyfa (hljóð); hjúpa, sveipa, hylja, dúða ([~ oneself, one's thro
 muffler n. andlitsskýla; hálsklútur; hljóðdeyfir; ft. hnefaleikahanskar; þykkir vettlingar
 mufti n. tyrkneskur prestur eða lögfræðingur; hversdagsbúningur
 mug n. bolli, drykkjarkanna, bikar; andlit, smetti, fés; [to cut ~s] gretta sig; mugga, þoka; s. ræna (e-n)
-muggy l. rakur, molíulegur, muggulegur ([~ air, evening]); ölvaður
+muggy l. rakur, mollulegur, muggulegur ([~ air, evening]); ölvaður
 mulatto n. múlatti, kynblendingur
 mulberry n. mórberjarunni
 mulberry tree n. mórberjatré
@@ -1387,7 +1387,7 @@ multiply s. margfalda; auka margfaldast; fjölga, vaxa að tölu; fjölga sér
 multitude n. fjöldi, mergð; hópur
 multitudinous l. fjölmargur; fjölmennur, margmennur; margfaldur, margvíslegur, fjölbrotinn
 multure n. mölun; mölunarlaun
-mum n. mamma (óforml.); uh. þei! l. þögull ([keep ~, ~'s the word]); s. ganga með grímu eða í dularklæðum; leika í bendingaleik, leika látbragðsleik
+mum n. mamma (óforml.); uh. þei!; l. þögull ([keep ~, ~'s the word]); s. ganga með grímu eða í dularklæðum; leika í bendingaleik, leika látbragðsleik
 mumble s. muldra, tauta; muðla, japla (á e-u)
 mumblingly ao. tautandi, muldrandi, í hálfum hljóðum
 mummer n. leikari, bendingaleikari, látbragðsleikari
@@ -1399,7 +1399,7 @@ mumpish l. önugur, vondur
 mumps nft. hettusótt; ólund
 munch s. japla, muðla
 mundane l. heimslegur; veraldlegur, jarðneskur
-municipal l. bæjar-, borgar-; sveitafélaga-; ríkis-; [~ law] landslög; [~ suffrage] atkvæðisréttur í sveitar- eða bæjarmálum
+municipal l. bæjar-, borgar-; sveitarfélaga-; ríkis-; [~ law] landslög; [~ suffrage] atkvæðisréttur í sveitar- eða bæjarmálum
 municipality n. bæjarfélag; bæjarstjórn
 munificence n. örlæti, rausn
 munificent l. örlátur, höfðinglegur, rausnarlegur
@@ -1414,7 +1414,7 @@ murderess n. morðingi sem er kona, kvenkyns morðingi
 murderous l. morðgjarn; mannskæður ([a ~ encounter])
 muriatic l. saltur
 murk n. dimma, myrkur, drungi
-murky l. dimmur, myrkur, drungur ([beneath the ~ water])
+murky l. dimmur, myrkur, drungalegur ([beneath the ~ water])
 murmur n. suða, niður; mögl, nöldur; s. suða, niða; mögla, nöldra ([~ at something]); segja í hálfum hljóðum
 murmuring n. niður; mögl, óánægja, kurr
 murmuringly ao. möglandi
@@ -1448,10 +1448,10 @@ musketeer n. skytta, fótgönguliðsmaður vopnaður framhlaðningi (sjá %[musk
 musketoon n. stutt byssa
 musket-range n. skotvídd
 musketry n. byssumenn; skot úr hyssum ([sound of ~])
-muslin n. músselin (smágjör vefnaður)
+muslin n. músselín (smágjör vefnaður)
 mussel n. skelfiskur, kræklingur; krákuskel ([mussel shell])
 Mussulman n. múslími, múhameðstrúarmaður
-must s. [I ~] ég verð ([you ~ find it]); ég hlýt ([he ~ be mad]); [I ~ not] ég má ekki; gera myglaðan; mygla (og súrna); mygla; súr; n. aldinlögur, mjöður
+must s. [I ~] ég verð ([you ~ find it]); ég hlýt ([he ~ be mad]); [I ~ not] ég má ekki; gera myglaðan; mygla (og súrna); mygla; l. súr; n. aldinlögur, mjöður
 musty l. myglaður
 mustache n. efrivararskegg
 mustachio n. efrivararskegg

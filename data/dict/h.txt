@@ -309,7 +309,7 @@ hearing n. heyrn; áheyrn; próf (í máli); [to get (to have) a ~] fá hljóð;
 hearken s. hlusta, hlýða á
 hearsay n. orðrómur, sögusögn
 hearse n. líkvagn; s. færa (lík) til grafar; greftra með viðhöfn
-heart n. hjarta; hugur, brjóst; skap; þor, áræði; [at ~, in one's ~] í hjarta sínu, undir niðri, í rauninni; [for my ~] þó að ég ætti lífið að leysa; [with all my ~] af öllu hjarta, af alhuga; [to find it in one's ~] geta fengið af sér; [to have the ~ to] hafa hug til e-s; geta fengið af sér; [to have at ~] láta sér vera annt (umhugað) um; [to take a thing to ~] komast við af e-u, falla e-ð þungt; [to lose ~] láta hugfallast; [to take ~] herða upp hugann; [to be out of ~] vera orðinn huglaus; [to learn (know) by ~] læra (kunna) utanað; [to lay to ~] hugfesta; [to set one's ~ upon] leggja hug á; [to take ~ of grace] taka hug í sig
+heart n. hjarta; hugur, brjóst; skap; þor, áræði; [at ~, in one's ~] í hjarta sínu, undir niðri, í rauninni; [for my ~] þó að ég ætti lífið að leysa; [with all my ~] af öllu hjarta, af alhuga; [to find it in one's ~] geta fengið af sér; [to have the ~ to] hafa hug til e-s; geta fengið af sér; [to have at ~] láta sér vera annt (umhugað) um; [to take a thing to ~] komast við af e-u, falla e-ð þungt; [to lose ~] láta hugfallast; [to take ~] herða upp hugann; [to be out of ~] vera orðinn huglaus; [to learn (know) by ~] læra (kunna) utan að; [to lay to ~] hugfesta; [to set one's ~ upon] leggja hug á; [to take ~ of grace] taka hug í sig
 heartache n. hugarangur
 heartbeat n. hjartsláttur
 heartbreak n. ástarsorg, djúp sorg, hugarangur
@@ -608,7 +608,7 @@ hippodrome n. kappreiðarvöllur, kappakstursvöllur (hjá Grikkjum og Rómverju
 hippogriffin n. hestgammur, ófreskja
 hippogryph n. hestgammur, ófreskja
 hippopotamus n. flóðhestur
-hire s. taka á leigu, leigja; vista, ráða til sin (vinnuhjú); setja á leigu, ljá fyrir kaup ([~ out]); n. leiga; kaup; [for ~] til leigu
+hire s. taka á leigu, leigja; vista, ráða til sín (vinnuhjú); setja á leigu, ljá fyrir kaup ([~ out]); n. leiga; kaup; [for ~] til leigu
 hireling n. leiguþjónn
 hirsute l. úfinn, loðinn
 his fn. hans; sinn (sín, sitt)
@@ -1029,10 +1029,10 @@ hydrostatics nft. vatnstöðufræði, vatnsþrýstingarfræði
 hyemal l. vetrarlegur, vetrar-
 hyemate s. hafa vetrarsetu, dvelja vetrarlangt
 hyena n. hýena (villidýr)
-hygeian l. heilsufræðislegur, heilbrigðis-
+hygeian l. heilsufræðilegur, heilbrigðis-
 hygeist n. heilsufræðingur
 hygiene n. heilbrigðisfræði, heilsufræði
-hygienic l. heilsufræðislegur, heilsufarslegur, heilbrigðis-; hollur
+hygienic l. heilsufræðilegur, heilsufarslegur, heilbrigðis-; hollur
 hygrometer n. loftrakamælir
 hygrometry n. loftrakafræði
 hymen n. hjúskaparguð; hjónaband

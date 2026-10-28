@@ -22,7 +22,7 @@ tabulate s. setja í skýrsluform
 tabulated l. flatur, sléttur
 tacit l. þögull, hljóður, þegjandi ([~ consent])
 tacitly ao. í hljóði
-taciturn l. þögull, fátalaður, fámálgur
+taciturn l. þögull, fátalaður, fámálugur
 taciturnity n. þögulleiki, fámælgi
 tack s. festa; þræða (saman); snúa, beita (skipi) upp í vindinn; slaga; venda (skipi á siglingu); snúa við; breyta stefnu (skoðun) sinni; n. smánagli, tittur, stifti ([brass ~]); kló (á segli); slagur (á siglingu); sneiðingur ([in a series of short ~s]); viðauki
 tackle n. skipsreiði; útbúnaður; -föng, -færi ([writing ~, shaving ~]); veiðarfæri ([fishing ~]); aktygi; trissur og kaðlar; s. leggja aktygi (reiðtygi) við hest; ráðast á móti; leggja hönd á, fást við ([~ a difficulty]); [~ the food] taka til matarins
@@ -172,7 +172,7 @@ tawny l. gulmórauður; sólbrenndur; n. gulmórauður litur
 tax n. skattur, álaga; s. leggja skatt (eða byrði) á; reyna á ([~ the patience]); kenna um, saka um ([~ a man with perfidy]); meta; virða
 taxable l. skattskyldur; skattleggjanlegur
 taxation n. skattlagning, sköttun; skattálögur
-taxgatherer n. skattheimtumaður
+tax-gatherer n. skattheimtumaður
 taxidermize s. troða út (stoppa upp) fuglahami eða dýrabelgi
 tea n. te, tegras; s. veita e-m te; drekka te
 tea caddy n. tedós
@@ -196,7 +196,7 @@ teasel n. þófaraþistill; l. ýfa upp lóna á ([~ woollen cloth])
 teat n. speni, brjóstvarta
 technical l. tæknilegur; sem lýtur að tækni eða iðnaði, iðnaðar-, tækni-, iðn- ([~ school])
 technics nft. reglur um iðnað, listafræði; tækni
-technological l. tæknifræðilegur, tæknilegur, iðnfræðislegur
+technological l. tæknifræðilegur, tæknilegur, iðnfræðilegur
 technology n. tækni; iðnfræði, iðnaðarlist
 ted s. breiða (hey) til þurrks
 tedious l. leiðinlegur ([six long and ~ days, why must I suffer these ~ tasks?])
@@ -639,7 +639,7 @@ timber n. timbur, efniviður
 timbered l. skógi vaxinn; (smíðaður) úr timbri, timbur-; [well ~ed] sem gott efni er í
 timbre n. hreimur, tónn
 timbrel n. bjöllubumba
-time n. tími, tíð; sinn, skipti; takt (í söng); [to have a good (of it)] skemmta sér vel; [what is the ~] hvað er framorðið?; [two at a ~] tveir í einu; [at ~s] stundum; [for a ~] um stund; [in ~] í tæka tíð; s. laga eftir timanum; framkvæma á hentugum tíma; velja hentugan tíma til e-s ([~ his visits]); ákveða (e-u) tíma; mæla (að því er snertir tíma); slá takt
+time n. tími, tíð; sinn, skipti; taktur (í söng); [to have a good (of it)] skemmta sér vel; [what is the ~] hvað er framorðið?; [two at a ~] tveir í einu; [at ~s] stundum; [for a ~] um stund; [in ~] í tæka tíð; s. laga eftir timanum; framkvæma á hentugum tíma; velja hentugan tíma til e-s ([~ his visits]); ákveða (e-u) tíma; mæla (að því er snertir tíma); slá takt
 timely l. tímabær, sem verður í tæka (rétta) tíð; ao. nógu snemma
 timepiece n. stofuklukka
 timeserver n. sá sem ekur seglum eftir vindi

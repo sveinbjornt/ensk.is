@@ -69,7 +69,7 @@ obscurantist n. myrkravinur, menningaróvinur
 obscure l. myrkur, dimmur; óþekktur; ómerkilegur; auðvirðilegur; óljós, torskilinn; s. draga myrkva yfir, kasta skugga á; fela, hylja
 obscurity n. myrkur; ókunnleiki; óskiljanleiki; óskýrleiki; framaleysi
 obsequies nft. útför, jarðarför
-obsequious l. hlýðinn; undirgefinn og smjaðrandi; auðvirðilega auðmjúkur
+obsequious l. hlýðinn; undirgefinn og smjaðrandi; auvirðilega auðmjúkur
 observable l. sjáanlegur, sýnilegur; eftirtektarverður
 observance n. hald, helgihald ([~ of discipline]); athugun, eftirtekt; viðhöfn
 observant l. glöggull, eftirtektarsamur, athugull, gaumgæfinn; [~ of contracts] sem heldur samninga; [~ of duties] skyldurækinn
@@ -223,8 +223,8 @@ olfactory l. lyktar- ([~ nerves]); [~ organ] nefið
 oligarchical l. fámennisstjórnar-
 oligarchy n. fámennisstjórn
 olivaceous l. gulgrænn
-olive n. ólífa; olífutré, olífuviður; olífuber; l. ólífugrænn
-olived l. vaxinn olífuviði
+olive n. ólífa; ólífutré, ólífuviður; ólífuber; l. ólífugrænn
+olived l. vaxinn ólífuviði
 olympiad n. fjögurra ára tímabil
 Olympian l. ólympískur
 Olympic l. ólympískur; [the ~ games] ólympísku leikarnir
@@ -281,7 +281,7 @@ opaque l. ógagnsær, dimmur
 opaqueness n. ógagnsæi
 open l. opinn; auður, ber; hreinskilinn; augljós; gisinn (um vefnað); [an ~ winter] mildur vetur; [lay ~] opinbera; skýra, útlista; [in the ~ air] undir berum himni; s. opna, ljúka upp; byrja, hefja; opnast; hefjast; [~ (the) parliament] setja þing; [~ fire] byrja að skjóta (á e-n [at])
 open-eyed l. með opin augu; árvakur
-open-handed l. örláturs
+open-handed l. örlátur
 open-hearted l. hreinskilinn; göfuglyndur
 opening n. op; opnun; gat; byrjun; inngangur; tækifæri; l. sem opnast; opnunar-, byrjunar- ([his ~ remarks])
 openly ao. opinskátt; hreinskilnislega
@@ -289,7 +289,7 @@ openness n. opinleiki; berleiki; hreinskilni
 opera n. ópera, söngleikur; verk
 opera glasses nft. leikhúskíkir, óperukíkir
 opera house n. óperuhús, söngleikahús
-operate s. koma til leiðar, gera ([~ a change]); hrifa, verka (um lyf); [~ on] hafa áhrif á; skera (e-n til lækninga)
+operate s. koma til leiðar, gera ([~ a change]); hrífa, verka (um lyf); [~ on] hafa áhrif á; skera (e-n til lækninga)
 operating l. skurðar- ([~ room, ~ table])
 operation n. starfsemi, aðgerð; framkvæmd ([come into ~]); læknisskurður ([surgical ~])
 operative l. verkandi, starfandi; framkvæmdarlegur; n. handiðnamaður
@@ -456,7 +456,7 @@ other l. annar; [each ~] hvor (hver) annan; [the ~] hinn; [the ~ day] um daginn;
 otherwise ao. öðruvísi, á annan hátt ([other people think ~]); annars kostar; að öðru leyti
 otiose l. iðjulaus; fánýtur
 otitis n. eyrnabólga
-otolith n. kvöm í fiskhaus
+otolith n. kvörn í fiskhaus
 otology n. eyrnafræði
 otoscope n. eyrnakanni; eyrnaspegill
 otter n. otur; e.k. veiðarfæri, lóð
@@ -532,7 +532,7 @@ outrageous l. svívirðilegur; forkastanlegur; hryllilegur; hneykslanlegur
 outride s. ríða (aka) fram úr; afbera, standast (um veður)
 outrider n. forríðari
 outright ao. beint út; viðstöðulaust; alveg; l. hreinn og beinn
-outrival s. bola keppinautum sinum frá
+outrival s. bola keppinautum sínum frá
 outroar s. öskra hærra en
 outroot s. uppræta
 outrun s. renna (hlaupa, fara) fram úr; vera meiri (stærri) en; [to ~ one's fortune] eyða meiru en efnin leyfa
@@ -573,7 +573,7 @@ ovated l. eins og egg í lögun, eggmyndaður
 ovation n. fagnaðarviðtaka; sigurhelgi (hjá Rómverjum)
 oven n. bökunarofn
 over fs. & ao. yfir um; úti ([the day is ~]); [~ night] um nóttina; eftir ([to leave ~]); of ([not ~ well]); fyrir handan ([~ the water]); [it is all ~ with him] það er úti um hann; [~ against] andspænis; [~ again] einu sinni enn þá; að nýju; [~ and ~ again] hvað eftir annað
-overabound s. vera til í ofmikilli mergð eða gnótt
+overabound s. vera til í of mikilli mergð eða gnótt
 overall n. utanyfirfat; nft. utanyfirbuxur, reiðbuxur; vinnuföt; samfestingur
 overawe s. gagntaka með lotningarótta, ægja
 overbalance s. vera þyngri; [to ~ oneself] missa jafnvægið; n. yfirvigt; [a large ~] mikill meirihluti
@@ -621,7 +621,7 @@ overpower s. bera (e-n) ofurliði
 overproduction n. offramleiðsla, of mikil framleiðsla
 overrate s. meta of mikils; leggja of þungan skatt á
 overreach s. ná út yfir; blekkja, svíkja
-overrent s. gjalda (eða heimta) of háa leigu af; [to be ~] gjalda of háa leigu
+overrent s. gjalda (eða heimta) of háa leigu af; [to be ~ed] gjalda of háa leigu
 override s. skemma hest á of mikilli reið; traðka e-u; ónýta
 overrigged l. með of miklum reiða
 overroast s. ofsteikja; ofbrenna (kaffi)
@@ -634,7 +634,7 @@ overset s. velta (e-u) um, hvolfa
 overshade s. kasta skugga eða dimmu á e-ð
 overshadow s. skyggja yfir, skyggja á, varpa skugga á
 overshoe n. utanyfirskór, skóhlíf
-overshoot s. skjóta framhjá (marki); fara fljótt (þjóta) yfir; [~ the mark] skjóta yfir markið; [~ oneself] hætta sér of langt, oftala sig
+overshoot s. skjóta fram hjá (marki); fara fljótt (þjóta) yfir; [~ the mark] skjóta yfir markið; [~ oneself] hætta sér of langt, oftala sig
 oversight n. eftirlit, umsjón; athugaleysi, vangá, gáleysi
 oversleep s. sofa yfir sig, sofa fram yfir
 oversleeve n. yfirermi

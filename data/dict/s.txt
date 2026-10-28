@@ -711,7 +711,7 @@ serrated l. sagtenntur, skörðóttur (eins og sög)
 serried l. þéttur, þéttskipaður ([~ ranks of soldiers])
 serum n. hið vatnskynjaða efni blóðsins, blóðvökvi; [~ of milk] mysa
 servant n. þjónn, vinnumaður ([man~]); þjónustustúlka, vinnukona ([maid~])
-serve s. þjóna, gegna embætti; vera í vist (hjá); bera (mat) á borð fyrir (e-n); vera hæfur (notaður) til; stoða, koma að haldi; vera í staðinn fyrir ([a sofa ~d him for a bed]); vera í herþjónustu; [~ one a trick] gera e-m óleik; [~ as a warning] vera til viðvörunar; [that ~s him right, he is rightly ~d] hann á það skilið; [~ the purpose of an altar] vera í altaris stað; [~ one with a writ, ~ a writ on one] stefna e-m; [~ summons on a person] birta e-m stefnu; [~ out] skammta; hefna sin á; [~ up dinner] bera miðdegismatinn á borð
+serve s. þjóna, gegna embætti; vera í vist (hjá); bera (mat) á borð fyrir (e-n); vera hæfur (notaður) til; stoða, koma að haldi; vera í staðinn fyrir ([a sofa ~d him for a bed]); vera í herþjónustu; [~ one a trick] gera e-m óleik; [~ as a warning] vera til viðvörunar; [that ~s him right, he is rightly ~d] hann á það skilið; [~ the purpose of an altar] vera í altaris stað; [~ one with a writ, ~ a writ on one] stefna e-m; [~ summons on a person] birta e-m stefnu; [~ out] skammta; hefna sín á; [~ up dinner] bera miðdegismatinn á borð
 server n. þjónn, þjónustusveinn; bakki
 service n. þjónusta; herþjónusta; guðsþjónusta, messa ([divine ~]); gagn; greiði ([will you do me a ~?]); borðbúnaður ([dinner ~, tea ~]); [to do (render) ~] vinna e-m gagn, gera greiða; [his ~s to literature] gagn það, er hann hefur unnið bókmenntunum; [to be of ~] vera til gagns; [to go (out) to ~] fara í vist; [be in ~] vera í vist
 serviceable l. hentugur; nýtur, gagnlegur; hjálpsamur; greiðvikinn
@@ -1168,7 +1168,7 @@ singularly ao. einstaklega, sérstaklega
 sinister l. óheillavænlegur; ískyggilegur, skuggalegur
 sinistral l. vinstri; sem snýr til vinstri
 sinistrous l. vinstri; óheillavænlegur
-sink s. sökkva; hníga (siga) niður ([the sun ~s]); minnka; láta siga niður; sökkva (e-u); stinga (e-u) niður; lækka, færa niður (vöruverð); verja, eyða (peningum); grafa ([~ a well]); gera út af við e-n, hætta að nota, gefa frá sér; hætta að tala um; leyna, þegja yfir (e-u); láta vera hljóðlaust ([~ the w in Greenwich]); [~ a debt] borga skuld smám saman; [his heart sank within him] honum féll allur ketill í eld; [his cheeks have sunk in] hann er orðinn kinnfiskasoginn; [he is ~ing fast] það dregur óðum af honum; n. vaskur ([the kitchen ~, the bathroom ~]); ræsi
+sink s. sökkva; hníga (siga) niður ([the sun ~s]); minnka; láta síga niður; sökkva (e-u); stinga (e-u) niður; lækka, færa niður (vöruverð); verja, eyða (peningum); grafa ([~ a well]); gera út af við e-n, hætta að nota, gefa frá sér; hætta að tala um; leyna, þegja yfir (e-u); láta vera hljóðlaust ([~ the w in Greenwich]); [~ a debt] borga skuld smám saman; [his heart sank within him] honum féll allur ketill í eld; [his cheeks have sunk in] hann er orðinn kinnfiskasoginn; [he is ~ing fast] það dregur óðum af honum; n. vaskur ([the kitchen ~, the bathroom ~]); ræsi
 sinker n. sakka (á færi)
 sinkstone n. vaðsteinn
 sinner n. syndari, sá sem syndgar
@@ -1356,7 +1356,7 @@ slide s. renna; renna sér fótskriðu; líða; láta renna; smeygja; n. fótskr
 slider n. sá sem rennir sér; rennilok
 sliding l. rennandi; breytilegur ([~ duty, prices]); n. fótskriða; yfirsjón, hrösun
 sliding door n. rennihurð
-slight l. lítill, lítilfjörlegur, minniháttar; grannur; fljótlegur ([~ inquiry]); n. fyrirlitning, óvirðing; virðingarskortur; s. lítilsvirða, vanrækja
+slight l. lítill, lítilfjörlegur, minni háttar; grannur; fljótlegur ([~ inquiry]); n. fyrirlitning, óvirðing; virðingarskortur; s. lítilsvirða, vanrækja
 slightingly ao. með fyrirlitningu; [to esteem ~] virða lítils
 slightness n. lítilsvirðing; hirðuleysi
 slim l. grannur; grannvaxinn; spengilegur; mjór; magur, lélegur ([a ~ excuse])
@@ -2666,7 +2666,7 @@ substantial l. verulegur, líkamlegur; sem um munar ([a ~ contribution]); sterku
 substantiality n. veruleiki, sjálfstæði; líkamleiki; sterkleiki
 substantiate s. sanna
 substantive l. verulegur; óháður; n. nafnorð
-substantively ao. eftir eðli sinu; með nafnorðseðli
+substantively ao. eftir eðli sínu; með nafnorðseðli
 substitute s. setja í staðinn (fyrir [for]); n. aðstoðarmaður, varamaður; staðgengill, það sem haft er í stað annars, uppbót; forfallakennari
 substitution n. setning e-s í stað annars
 substratum n. undirstaða, undirlag
