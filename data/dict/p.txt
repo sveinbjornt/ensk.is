@@ -1375,8 +1375,8 @@ pollbook n. kjörskrá
 polled l. hornlaus, kollóttur ([~ cattle])
 poller n. kjósandi
 polling n. atkvæðagreiðsla
-polling-book n. kjörbók
-polling-day n. kjördagur
+polling book n. kjörbók
+polling day n. kjördagur
 poll tax n. nefskattur
 pollack n. ufsi, lýr
 pollard n. kollótt skepna, (naut, kind); tré, sem toppurinn er höggvinn af; s. höggva greinar af tré, stýfa tré

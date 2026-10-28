@@ -625,7 +625,7 @@ charlock n. akurkál
 charm n. töfrar; töfragripur, verndargripur; persónutöfrar, sjarmi; unaður, fegurð; s. töfra, heilla; gera frá sér numinn; sefa
 charmer n. töfrari; töfrakona; sjarmör
 charming l. heillandi, sjarmerandi, unaðslegur, yndislegur
-charnel-house n. beinahús (í kirkjugarði)
+charnel house n. beinahús (í kirkjugarði)
 charpie n. línskaf (sjá %[lint]%)
 charry l. viðarkolakenndur
 chart n. sjókort, strandakort
@@ -2079,7 +2079,7 @@ coo s. kurra (um dúfu); hjala
 cook n. matreiðslumaður; matreiðslukona, eldakona; s. matreiða, elda, sjóða, steikja; falsa (reikninga)
 cooker n. suðuvél, suðuofn
 cookery n. eldamennska, matartilbúningur
-cookery-book n. matreiðslubók
+cookery book n. sjá %[cookbook]%
 cool l. svalur; kaldur; stilltur; hálfvolgur; fálátur; n. svali; [in the ~ of the evening] í kvöldsvalanum; s. kæla, svala; kólna
 cooler n. kælingarker
 coolly ao. stillilega; fálega; kuldalega

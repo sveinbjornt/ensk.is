@@ -269,9 +269,9 @@ lawbook n. lögbók; lögfræðibók
 lawbreaker n. lögbrjótur
 lawful l. lögfullur, löglegur; réttur; [~ age, years] lögaldur
 lawgiver n. löggjafi
-law-giver n. löggjafi
+law-giver n. sjá %[lawgiver]%
 lawmaker n. löggjafi
-lawless l. ólöglegur; lagalaus
+lawless l. ólöglegur; lagalaus, utan seilingar lögvaldsins
 law student n. laganemandi, lögfræðinemi
 lawsuit n. lögsókn, málaferli ([to carry on a ~])
 lawn n. grasvöllur, grasflötur; rjóður (í skógi); blæjulín; ermalín (í biskupsskrúða); s. breyta í grasvöll

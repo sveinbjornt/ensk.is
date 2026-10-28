@@ -207,7 +207,7 @@ basin n. skál; vatnsdæld
 basis n. grundvöllur, undirstaða; undirstöðuefni (í efnafræði)
 bask s. baða sig (í sólskininu)
 basket n. karfa; s. láta (kasta) í körfu
-basking-shark n. beinhákarl
+basking shark n. beinhákarl
 bas-relief n. lágmynd, upphleypt mynd
 bass n. bassi (dýpsta karlmannsrödd, eða hljóðfæri)
 bassoon n. fagott
@@ -817,7 +817,7 @@ bogey n. djöfull; grýla
 boil s. sjóða; ólga; n. suða ([the water comes to a ~]); graftarkýli
 boiler n. ketill, gufuketill; suðumaður
 boiling n. suða; l. sjóðandi
-boiling-point n. suðumark
+boiling point n. suðumark
 boisterous l. stormasamur ([a ~ passage of twenty days]); hávær; ofsafenginn
 boisterousness n. ofsi
 bold l. djarfur, hugaður; ófeilinn, framur; brattur, frakkur; [make so ~ as to] vera svo djarfur að; feitletraður
@@ -1128,7 +1128,7 @@ bronze n. brons (málmblendingur); bronslitur; l. úr bronsi; bronslitaður; s. 
 brooch n. brjóstnál
 brood n. afsprengi dýra; afkvæmi, börn; s. liggja á eggjum; klekja út; búa yfir (e-u), vera að hugsa um ([on/over]); grúfa yfir (um myrkur, nótt, stormský)
 brood-hen n. sjá %[breeding hen]%
-brooding-hen n. sjá %[breeding hen]%
+brooding hen n. sjá %[breeding hen]%
 broodmare n. stóðmeri
 broody l. eggsjúk (um kvenfugl)
 brook n. lækur; s. þola (með neitun [the matter ~s no delay])

@@ -206,7 +206,6 @@ Python n. forritunarmálið Python
 publically ao. sjá %[publicly]%
 publicly ao. opinberlega, á opinberum vettvangi
 groundwater n. grunnvatn
-ear ring n. sjá %[earring]%
 earring n. eyrnalokkur
 anarchism n. stjórnleysisstefna, anarkismi (hugmyndafræði sem einkennist af andstöðu við yfirvald og höfnun á réttmæti þess)
 anarchistic l. stjórnleysis-, anarkískur (sjá %[anarchism]%)
@@ -10536,7 +10535,7 @@ incarcerated l. fangelsaður, lokaður inni
 dogfight n. hundaslagur, hundaslagsmál; flugvélaorusta, loftbardagi
 dogfighting n. hundaat; flugvélaorusta, loftbardagi, átök í loftunum
 cuck n. sjá %[cuckold]%
-swordsmanship n. sverðfimi, skylmingar
+swordsmanship n. sverðfimi, skylmingar, skylmingalist
 leverage n. vogarafl; áhrif, máttur; skuldsetning; s. nýta sér; beita áhrifum (sínum); skuldsetja (sig)
 toiletry n. snyrtivörur
 grooming n. snyrting, það að sinna útliti sínu; tæling

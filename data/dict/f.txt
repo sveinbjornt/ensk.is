@@ -286,7 +286,7 @@ fence n. vörn; garður, girðing; skylmingalist; s. girða, verja ([well ~d fro
 fencer n. skylmingamaður
 fencibles nft. landvarnarliðsmenn
 fencing n. skylmingar; girðing(ar); vörn
-fencing-school n. skylmingaskóli
+fencing school n. skylmingaskóli
 fend s. bægja burt; [~ off] bera af sér (högg); sjá fyrir e-m; [~ for oneself] sjá sér borgið
 fender n. hlífðargrind; aringrind
 fennish l. mýrlendur, votlendur
@@ -603,7 +603,7 @@ flatfooted l. flatfættur, iljarlaus
 flatiron n. línsléttujárn
 flatly ao. flatt; hreint og beint ([to refuse ~])
 flatness n. flatleiki, sléttleiki; deyfð, deyfubragð
-flatnosed l. flatnefjaður
+flat-nosed l. flatnefjaður
 flatten s. jafna, slétta; fletja út; gera dauft (á bragðið); verða flatur (sléttur, daufur, bragðlaus)
 flattish l. nokkuð flatur
 flatter s. smjaðra, skjalla; hæla; kitla hégómagirnd; veita fagurmæli, hrósa, lofa, upphefja; að e-ð fari manni vel (um fatnað)

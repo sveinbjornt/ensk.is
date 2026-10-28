@@ -72,8 +72,8 @@ galvanize s. rafmagna (silfra, gylla) með galvanstraumi; galvanhúða; virkja, 
 gambade n. stökk, hopp
 gambado nft. [~s, ~es] legghlífar (festar við söðulinn); hopp, stökk; s. hoppa, stökkva (um hesta)
 gamble s. spila fjárhættuspil; [~ away] eyða (sóa) í spilum
-gamblesome l. spilafíkinn
-gambler n. fjárhættuspilamaður
+gamblesome l. spilafíkinn, fíkinn í fjárhættuspil
+gambler n. fjárhættuspilari, fjárhættuspilamaður
 gamboge n. gul viðarkvoða
 gambol s. stökkva, hoppa, bregða á leik; n. hopp, stökk
 game n. leikur; spil ([~ of cards]); tafl; veiði, veiðifang, veiðidýr; kjöt af veiðidýrum; þor, áræði; ft. brögð; [to play a double ~] leika tveim skjöldum; [to play one a ~, the ~ of one] leika á e-n; [the ~ is up (over)] spilið er tapað; [to make ~ of] henda gaman að; [a ~ of swans] álftahópur; l. hugaður, áræðinn; [to die ~] verða vel við dauða sínum; s. spila (um peninga)
@@ -81,7 +81,7 @@ gamecock n. víghani
 gamekeeper n. skógarvörður
 gamesome l. gamansamur
 gamester n. spilamaður (sem spilar um peninga)
-gaming-house n. spilahús
+gaming house n. spilahús
 gaming table n. spilaborð
 gammer n. kerlingartetur (sbr. %[gaffer]%)
 gammon n. reykt svínslæri; e.k. tafl; gabb; svik; s. salta og reykja; gabba, svíkja; vinna í tafli (kotru, sjá %[backgammon]%)
@@ -89,7 +89,7 @@ gamut n. tónstigi
 gamy l. sem veiðidýrabragð er af; veiðisæll ([a ~ district]); veiði-; hugaður, áræðinn
 gander n. gæsarsteggur
 gang n. óaldarflokkur ([a ~ of thieves]); hópar, deild ([a ~ of workmen])
-gangboard n. gangpallur (í skipi); landgönguborð, landgöngubryggja
+gangboard n. sjá %[gangplank]%
 gangplank n. gangpallur (í skipi); landgönguborð, landgöngubryggja
 gangway n. göng milli sætaraða; miðþilfar
 ganglion n. hnoða, taugahnoða, taugahnútur

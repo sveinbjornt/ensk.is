@@ -374,7 +374,7 @@ adjoining l. hjálægur, nálægur
 adjourn s. fresta (fundi); fara
 adjournment n. frestun; frestur
 adjudge s. gera út um; úrskurða; dæma
-adjudgement n. úrskurður, dómur
+adjudgement n. sjá %[adjudgment]%
 adjudgment n. úrskurður, dómur
 adjudicate s. dæma ([~ a case, on a question])
 adjudication n. dómur, úrskurður
@@ -1234,7 +1234,7 @@ appraisal n. mat, virðing
 appraise s. meta, virða
 appraisement n. virðing, mat
 appraiser n. matsmaður, virðingarmaður
-appraisor n. matsmaður, virðingarmaður
+appraisor n. sjá %[appraiser]%
 appreciable l. sjáanlegur, merkjanlegur, eftirtakanlegur
 appreciate s. meta, virða, kunna að meta; gera verðmeiri; vaxa í verði
 appreciation n. mat; þakklæti; verðhækkun
