@@ -3189,7 +3189,7 @@ brutishness n. grimmd, hrottaskapur
 parachutist n. fallhlífarstökkvari; fallhlífarhermaður
 parachuting n. fallhlífarstökk
 polyarchy n. fjölræði (stjórn margra aðila)
-polycracy n. sjápolyarchy%
+polycracy n. sjá %[polyarchy]%
 romanticism n. rómantík; rómantíska stefna 18. og 19. aldar
 caregiver n. umönnunaraðili
 protectionism n. verndarstefna

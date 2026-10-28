@@ -1475,7 +1475,6 @@ chipolata
 crumpet
 paisley
 fluff
-fluffy
 cock-and-bull
 stargaze
 stargazer
@@ -6900,6 +6899,4 @@ meany
 quadrant (endurskoða)
 sleekness (endurskoða)
 spool (endurskoða)
-strident (endurskoða)
-trip (endurskoða)
 troop (endurskoða)
