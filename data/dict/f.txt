@@ -747,7 +747,8 @@ flux n. flóð; aðfall ([~ and reflux]); straumur, rennsli; [bloody ~] blóðs�
 fluxion n. rennsli; breyting
 fly s. fljúga; flýja; blakta; láta fljúga eða blakta; [~ a kite] setja upp pappírsdreka; [~ at] fljúga á, ráðast á; [~ into a passion] verða fjúkandi (eða fok-) vondur; [~ off] ganga undan; [~ out] þjóta út; stökkva upp (í reiði); n. fluga; léttivagn; sveifluhjól; flagglengd; [to change a ~ into an elephant] gera úlfalda úr mýflugunni
 flyer n. flugfarþegi; fljúgandi skepna; dreifibréf, dreifiseðill
-flying l. fljúgandi; flaksandi; blaktandi; [with ~ colours] sigri hrósandi; [~ fish] flugfiskur
+flying l. fljúgandi; flaksandi; blaktandi; [with ~ colours] sigri hrósandi
+flying fish n. flugfiskur
 flyblow n. víur, maðkur (í kjöti)
 flyblown l. maðkaður, með víum
 flyfish s. veiða með flugum
