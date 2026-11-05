@@ -13078,24 +13078,27 @@ delayed l. tafinn; seinkaður; frestaður
 vagaries nft. duttlungar, firrun ([the ~ of fate]) (sjá %[vagary]%)
 barkeep n. sjá %[barkeeper]%
 Pentagon n. höfuðstöðvar bandaríska varnarmálaráðuneytisins ([the ~])
-Chink n. Kínverji (mjög niðrandi)
-Chinky n. Kínverji (mjög niðrandi)
+Chink n. Kínverji (mjög niðrandi, breskt slangur)
+Chinky n. Kínverji (mjög niðrandi, breskt slangur)
 ant bear n. jarðsvín (sjá %[aardvark]%)
 marihuana n. sjá %[marijuana]%
 oregano n. oreganó (kryddjurt)
-mentally ill l. andlega veikur, veikur að geði
+mentally ill l. andlega veikur, veikur á geði
 fandango n. fandangó (spænskur dans)
 upwind l. upp í vindinn, á móti vindi
 ganglionic l. taugnahnoða-
 ganglionary l. sjá %[ganglionic]%
 shaven l. rakaður
 smooth-shaven l. hreinrakaður, nýrakaður
-misdiagnosis n. misgreining, röng sjúkdómsgreining
-monsieur n. herra (á frönsku)
-Monsignor n. kaþólskur preláti
+misdiagnosis n. misgreining; röng sjúkdómsgreining
+monsieur n. herra (á frönsku, t.d. Monsieur Curie)
+monsignor n. kaþólskur preláti (úr ítölsku)
 inoculated l. bólusettur
-subquery n. undirspurn
+subquery n. undirspurn, undirfyrirspurn
 fleeing l. flýjandi
 separated l. aðskildur; aðskilinn; aðgreindur
 moneywise ao. peningalega (séð), er varðar peninga, fjárhagslega (séð)
-
+latrinalia n. veggjakrot á baðherbergjum
+multiple-choice l. fjölvals-, krossaprófs-, þar sem velja skal milli margra mögulegra svara ([~ questions])
+primrosed l. vorrósum vaxinn
+dramaturgical l. sjónleikjafræðilegur, leiklistarfræðilegur, leikskálds-

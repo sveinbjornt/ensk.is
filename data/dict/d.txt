@@ -1558,8 +1558,8 @@ drama n. sjónleikur, leikrit; dramatík
 dramatic l. dramatískur, leikrænn, sjónleikslegur
 dramatist n. leikskáld
 dramatize s. gera sjónleik úr
-dramaturgist n. sjónleikaskáld
-dramaturgy n. sjónleikjafræði
+dramaturgist n. sjónleikjaskáld, leikritaskáld, leikritahöfundur
+dramaturgy n. sjónleikjafræði, leiklistarfræði
 drape s. búa, klæða, skreyta; tjalda ([~ the walls with hangings])
 draper n. klæðasali; [linen ~] léreftasali
 drapery n. klæðaverslun; vefnaðarvörur ([~ goods]); búningur
