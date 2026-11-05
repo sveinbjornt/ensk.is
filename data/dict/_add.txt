@@ -392,7 +392,7 @@ internship n. starfsnám, starfsþjálfun
 Islam n. íslam (eingyðistrú sem á upptök sín á Arabíuskaga)
 Islamic l. íslamskur (sjá %[Islam]%)
 passphrase n. aðgangssetning, aðgangsfrasi
-marijuana n. maríjúana, kannabis
+marijuana n. marijúana, kannabis
 metadata n. lýsigögn, gögn sem lýsa öðrum gögnum
 Muslim n. múslími (sá sem aðhyllist íslamska trú, sjá %[Islam]%); l. múslímskur
 nutritional l. næringar-
@@ -2013,8 +2013,8 @@ pacifist n. friðarsinni
 pacifism n. friðarhyggja
 pacifistic l. friðarhyggju-, friðarhyggjulegur
 sabotage n. skemmdarverk, spellvirki; skemmdarverkastarfsemi; s. skemma, spilla fyrir, eyðileggja
-saboteur n. skemmdarvargur, skemmdarverkamaður, spellvirki
-parsnip n. pastínakka, pastinakk, nípa (matjurt)
+saboteur n. skemmdarvargur, spellvirki, skemmdarverkamaður
+parsnip n. nípa, pastínakka, pastinakk (matjurt)
 unshaven l. órakaður
 foreseeable l. fyrirsjáanlegur
 unforeseeable l. ófyrirsjáanlegur
@@ -7606,7 +7606,7 @@ vixenish l. tófulegur; tálkvendis-
 infatuated l. gagntekinn, ginntur
 hypnotizing l. dáleiðandi
 misdemeanor n. sjá %[misdemeanour]%
-decontextualized l. tekið úr samhengi
+decontextualized l. tekinn úr samhengi
 magnolia n. magnólía (ættkvísl plantna)
 patronizing l. yfirlætislegur
 patronizingly ao. yfirlætislega
@@ -8447,6 +8447,7 @@ officiousness n. afskiptasemi; nærgengni (sjá %[officious]%)
 summa cum laude l. (lat.) með hæstu einkunn, með æðsta láði
 barmy l. freyðandi, ólgandi; vitfirrtur, fásinnaður
 abacá n. manillahampur; bananajurt
+abaca n. manillahampur; bananajurt
 flight attendant n. flugþjónn
 flight plan n. flugáætlun
 archon n. arkon (ráðamaður í Aþenu til forna); ráðamaður
@@ -11459,7 +11460,7 @@ silver-tongued l. sléttmáll, mælskur
 tactlessness n. taktleysi, ónærgætni
 corroboratory l. sjá %[corroborative]%
 pratfall n. að detta á rassinn; niðurlægjandi óhapp eða klúður
-prat n. afturendi, rass (slangur); fífl, hálfviti
+prat n. afturendi, rass (slangur); fífl, hálfviti (óforml.)
 brisling n. brislingur (smásíld)
 avidness n. sjá %[avidity]%
 transitoriness n. hverfulleiki
@@ -12316,7 +12317,7 @@ craziness n. geðveiki, geggjun, brjálæði, sturlun
 dossier n. skýrsla; málsgögn; mappa (með skjölum um e-ð mál)
 freefall n. frjálst fall
 implosion n. innsprenging, hrun (inn á við)
-insensitivity n. ónæmi; tilfinningaleysi; ónærgætni
+insensitivity n. ónæmi; skortur á næmni; tilfinningaleysi; ónærgætni
 expressible l. tjáanlegur
 weightless l. þyngdarlaus
 fieldwork n. vettvangsvinna
@@ -13077,5 +13078,24 @@ delayed l. tafinn; seinkaður; frestaður
 vagaries nft. duttlungar, firrun ([the ~ of fate]) (sjá %[vagary]%)
 barkeep n. sjá %[barkeeper]%
 Pentagon n. höfuðstöðvar bandaríska varnarmálaráðuneytisins ([the ~])
-Chink n. niðrandi orð um e-n af kínverskum uppruna
-Chinky n. niðrandi orð um e-n af kínverskum uppruna
+Chink n. Kínverji (mjög niðrandi)
+Chinky n. Kínverji (mjög niðrandi)
+ant bear n. jarðsvín (sjá %[aardvark]%)
+marihuana n. sjá %[marijuana]%
+oregano n. oreganó (kryddjurt)
+mentally ill l. andlega veikur, veikur að geði
+fandango n. fandangó (spænskur dans)
+upwind l. upp í vindinn, á móti vindi
+ganglionic l. taugnahnoða-
+ganglionary l. sjá %[ganglionic]%
+shaven l. rakaður
+smooth-shaven l. hreinrakaður, nýrakaður
+misdiagnosis n. misgreining, röng sjúkdómsgreining
+monsieur n. herra (á frönsku)
+Monsignor n. kaþólskur preláti
+inoculated l. bólusettur
+subquery n. undirspurn
+fleeing l. flýjandi
+separated l. aðskildur; aðskilinn; aðgreindur
+moneywise ao. peningalega (séð), er varðar peninga, fjárhagslega (séð)
+

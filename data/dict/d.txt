@@ -771,8 +771,8 @@ diabetic l. sykursjúkur; sykursýkis-
 diabetical l. sykursjúkur; sykursýkis-
 diadem n. djásn, kóróna
 diagnose s. greina eða ákveða (sjúkdóm)
-diagnosis n. sjúkdómsauðkenning, (sjúkdóms)greining
-diagnostic l. sem lýtur að (sjúkdóms)greiningu; sjá %[diagnosis]%
+diagnosis n. sjúkdómsauðkenning, sjúkdómsgreining, greining
+diagnostic l. sem lýtur að greiningu, sjúkdómsgreiningar-; sjá %[diagnosis]%
 diagonal l. skáhallur; n. skálína
 diagonally ao. skáhalt
 diagram n. skýringarmynd, ritmynd
