@@ -5337,7 +5337,7 @@ heatstroke n. hitaslag
 rephrase s. umorða, endurorða
 impoverished l. fátækur, gerður fátækur; rýrður
 astounded l. agndofa, forviða (sjá %[astound]%)
-valor n. hreysti
+valor n. sjá %[valour]%
 swimwear n. sundföt
 entropy n. óreiða
 nepo n. stytt. á %[nepotism]% (óforml.)
@@ -9587,7 +9587,8 @@ prefabricate s. forsmíða, búa til fyrirfram
 prefabrication n. forsmíði (sjá %[prefabricate]%)
 prefabricated l. forsmíðaður, búinn til fyrirfram
 vaudeville n. fjölleikasýning
-stereoscopic l. þrívíddar-
+stereoscopic l. þrívíddar-, rúmsjár-; [~ photography] rúmsjárljósmyndun
+stereoscopic vision n. þrívíddarsjón, þrívíddarsýn, þrívíddarsjónskynjun
 teddy n. bangsi ([~ bear])
 vet n. dýralæknir (%[veterinarian]%); fyrrverandi hermaður (%[veteran]%); s. kanna vandlega, yfirfara; rannsaka bakgrunn e-s ([all candidates were carefully vetted])
 whose fn. hvers, sem ([the man ~ coat I took])
@@ -11447,6 +11448,11 @@ pipe organ n. pípuorgel
 electric organ n. rafmagnsorgel
 copeck n. sjá %[kopek]%
 sulfurous l. sjá %[sulphurous]%
+sulfurate s. sjá %[sulphurate]%
+sulfuric l. sjá %[sulphuric]%
+sulfurize s. sjá %[sulphurize]%
+sulfuric acid n. sjá %[sulphuric acid]%
+sulfureous l. sjá %[sulphureous]%
 liver sausage n. lifrarpylsa
 forgettable l. gleymanlegur
 Polack n. Pólverji (niðrandi, óforml.)
@@ -13102,3 +13108,14 @@ latrinalia n. veggjakrot á baðherbergjum
 multiple-choice l. fjölvals-, krossaprófs-, þar sem velja skal milli margra mögulegra svara ([~ questions])
 primrosed l. vorrósum vaxinn
 dramaturgical l. sjónleikjafræðilegur, leiklistarfræðilegur, leikskálds-
+katydid n. engispretta; engisprettutegund
+search word n. leitarorð
+search term n. leitarorð
+valiance n. sjá %[valiancy]%
+wilfully ao. af ásettu ráði, með fyrirhuguðu ráði, af ásetningi
+willfully ao. sjá %[wilfully]%
+indispensability n. ómissanleiki, nauðsynleiki
+restabilize s. koma(st) í jafnvægi á ný
+deviationism n. frávik frá (markaðri) stefnu
+misquote s. vitna rangt í, fara með ranga tilvitnun
+misquotation n. röng tilvitnun, skökk tilvitnun, bjöguð tilvitnun
