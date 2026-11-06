@@ -6303,7 +6303,7 @@ hyperplasia n. ofvöxtur, vefjaauki
 fractal n. brotamynd; l. brota-
 Holocene n. mannöld, nútími
 turd n. kúkur
-biopic n. ævisöguleg kvikmynd
+biopic n. ævisöguleg kvikmynd, kvikmynd um ævi e-s
 iguana n. kemba, græneðla (ættkvísl eðla)
 synodic l. prestastefnu-, kirkjuþings-
 disquieting l. sem veldur óróa eða kvíða, kvíðavaldandi, óróavaldandi
@@ -13112,10 +13112,11 @@ katydid n. engispretta; engisprettutegund
 search word n. leitarorð
 search term n. leitarorð
 valiance n. sjá %[valiancy]%
-wilfully ao. af ásettu ráði, með fyrirhuguðu ráði, af ásetningi
+wilfully ao. af ásettu ráði, af ásetningi, með fyrirhuguðu ráði
 willfully ao. sjá %[wilfully]%
 indispensability n. ómissanleiki, nauðsynleiki
-restabilize s. koma(st) í jafnvægi á ný
-deviationism n. frávik frá (markaðri) stefnu
-misquote s. vitna rangt í, fara með ranga tilvitnun
+restabilize s. koma(st) í jafnvægi á ný, ná stöðugleika á ný
+deviationism n. frávik frá (markaðri) stefnu (í stjórnmálum og þess háttar)
+misquote s. vitna rangt í, fara rangt með tilvitnun
 misquotation n. röng tilvitnun, skökk tilvitnun, bjöguð tilvitnun
+seatmate n. sessunautur
