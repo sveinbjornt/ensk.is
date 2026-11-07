@@ -1676,7 +1676,6 @@ quadrireme n. fornt herskip (með fjórum áraröðum)
 quinquereme n. fornt herskip (með fimm áraröðum)
 telecom n. sjá %[telecommunication]%
 nominated l. tilnefndur (sjá %[nominate]%)
-bookseller n. bóksali
 Siam n. Síam (Taíland)
 Siamese l. síamskur (taílenskur); [~ cat] síamsköttur; [~ twins] síamstvíburar
 frat n. sjá %[fraternity]%; [~ boy] háskólaklíkustrákur
@@ -3764,7 +3763,7 @@ overtone n. yfirtónn; undirtónn
 shoreline n. strandlengja
 troublemaker n. vandræðagemsi, vandræðagemlingur, vandræðagripur (e-r sem skapar vandræði)
 backlash n. bakslag
-insightful l. innsæisríkur
+insightful l. glöggur, innsæisríkur
 impermanence n. óvaranleiki
 reunification n. endursameining, sameining á ný
 self-conscious l. sjálfsmeðvitaður, meðvitaður um sjálfan sig
@@ -11033,7 +11032,6 @@ vetting n. rannsókn, athugun (á bakgrunni einhvers)
 panic attack n. kvíðakast
 anxiety disorder n. kvíðaröskun
 obstinately ao. þrálátlega, þrjóskulega, þrákelknislega
-fusillade n. skothríð, kúlnahríð, stórkotahríð
 clubhouse n. félagsheimili
 perinatal l. burðarmáls-
 coffee press n. frönsk pressa, kaffipressa
@@ -11524,7 +11522,6 @@ drooling l. slefandi; n. slef, slefun
 hardheaded l. harður (í samningum); þver, þrjóskur
 stagefright n. sviðsskrekkur, sviðsótti
 fasces n. vöndur, valdasproti (valdatákn í Rómaveldi til forna)
-tinsmith n. blikksmiður
 educative l. menntandi, fræðandi, mennta-, menntunar-
 muskrat n. bísamrotta, moskusrotta
 tinfoil n. tinþynna; álpappír
@@ -13017,7 +13014,6 @@ fair-minded l. sanngjarn, óhlutdrægur
 fair-mindedness n. sanngirni, óhlutdrægni
 hopelessly ao. vonleysislega, án vonar
 nonviolent l. friðsamlegur, ekki ofbeldisfullur
-calumniation n. sjá %[calumny]%
 traducement n. ófræging, löstun, rógburður
 hatchet job n. árás í rituðu máli, mannorðsmorð, það að sverta mannorð e-s í skrifum (óforml.)
 obscureness n. sjá %[obscurity]%
@@ -13119,4 +13115,10 @@ restabilize s. koma(st) í jafnvægi á ný, ná stöðugleika á ný
 deviationism n. frávik frá (markaðri) stefnu (í stjórnmálum og þess háttar)
 misquote s. vitna rangt í, fara rangt með tilvitnun
 misquotation n. röng tilvitnun, skökk tilvitnun, bjöguð tilvitnun
-seatmate n. sessunautur
+seatmate n. sessunautur, sætisfélagi
+insightfully ao. glögglega, af innsæi, á innsæisríkan máta
+curricula nft. námskrár (sjá %[curriculum]%)
+intertwined l. samtvinnaður, samfléttur
+contaminating l. mengandi, saurgandi, spillandi
+rancher n. búgarðseigandi, stórbóndi
+worrying l. áhyggjuvaldandi ([a ~ sign]); n. það að hafa áhyggjur, hugarangur, áhyggjusemi (sjá %[worry]%)
