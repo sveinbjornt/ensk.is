@@ -208,6 +208,20 @@ def check_intradict_refs(line: str, pn: str, ln: int):
             warn(f"Intra-dictionary reference to non-existent word {w}", pn, ln)
 
 
+def check_headword_punctuation(line: str, pn: str, ln: int):
+    """Headwords should never contain commas, semicolons or parentheses.
+    Periods are deliberately not checked, since abbreviation headwords
+    such as [e.g.], [i.e.], [Esq.] and [vs.] legitimately contain them."""
+    (entry, _) = parse_line(line)
+    e = entry.strip()
+    if "," in e:
+        warn(f"Comma in headword: {e}", pn, ln)
+    if ";" in e:
+        warn(f"Semicolon in headword: {e}", pn, ln)
+    if "(" in e or ")" in e:
+        warn(f"Parenthesis in headword: {e}", pn, ln)
+
+
 def check_enword_def(line: str, pn: str, ln: int):
     """Check that English word is valid."""
     (entry, _) = parse_line(line)
@@ -367,6 +381,7 @@ def main():
             check_bracket_use(line, letter, ln)
             check_intradict_refs(line, letter, ln)
             check_unlinked_abbreviation_refs(line, letter, ln)
+            check_headword_punctuation(line, letter, ln)
             # check_icelandic_words(line, letter, ln)
             # check_enword_def(line, letter, ln)
 

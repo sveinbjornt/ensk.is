@@ -13025,7 +13025,7 @@ introuvable l. ófinnanlegur (úr frönsku)
 ill-use s. fara illa með, misþyrma
 disavowed l. afneitaður, hafnaður; [~ by] afneitað af
 geolocation n. hnattræn staðsetning
-geolocate n. staðsetja á hnettinum
+geolocate s. staðsetja á hnettinum
 dissociated l. klofinn, skilinn frá (e-u [from])
 staggering l. sláandi; gífurlegur, svakalegur ([a ~ amount of wealth])
 staggeringly ao. sláandi, óhemjulega ([~ brilliant, ~ harmful])
@@ -13052,21 +13052,21 @@ police detective n. rannsóknarlögreglumaður
 private detective n. einkaspæjari
 bastille n. fangelsi (úr frönsku)
 Bastille n. Bastillan (fangelsi í París)
-Bastille Day, n. Bastilludagurinn (þjóðhátíðardagur Frakklands, þann 14. júlí)
+Bastille Day n. Bastilludagurinn (þjóðhátíðardagur Frakklands, þann 14. júlí)
 obfuscatory l. myrkvandi, sem felur eða hylur; flækjandi, ruglandi
 longstanding l. langvarandi
 uncertainness n. sjá %[uncertainty]%
 specialism n. sérhæfing, sérsvið, sérkunnátta, sérfræðisvið
 indigenously ao. meðal innfæddra, meðal heimamanna; innan hópsins
 untaxed l. óskattlagður, óskattaður, óskattpíndur; sem ekki er reynt á, sem líður ekki þunga byrði
-Cromwellian l. cromwellskur, er varðar valdatíð Oliver Cromwell á Englandi (1599-1658)
+Cromwellian l. cromwellskur, er varðar valdatíð Oliver Cromwell á Englandi (1653–1658)
 four-eyed l. með gleraugu (óforml.)
 marginalised l. sjá %[marginalized]%
 mag n. stytt. á %[magazine]% (óforml.)
 imposter n. sjá %[impostor]%
 postal code n. póstnúmer
 frenchify s. sjá %[Frenchify]%
-Balinese n. balískur, frá Balí
+Balinese l. balískur, frá Balí
 caramelization n. sultun, brúnun
 chin-wag s. spjalla (óforml.); n. spjall (óforml.)
 whammed l. fullur, ölvaður (óforml.)
@@ -13077,7 +13077,7 @@ deloused l. aflúsaður
 cakehole n. munnur (óforml.)
 slosh s. sletta, slettast; skvetta, skvettast; ösla; vaða; n. slabb; sletta
 delayed l. tafinn; seinkaður; frestaður
-vagaries nft. duttlungar, firrun ([the ~ of fate]) (sjá %[vagary]%)
+vagaries nft. duttlungar ([the ~ of fate]) (sjá %[vagary]%)
 barkeep n. sjá %[barkeeper]%
 Pentagon n. höfuðstöðvar bandaríska varnarmálaráðuneytisins ([the ~])
 Chink n. Kínverji (mjög niðrandi, breskt slangur)
