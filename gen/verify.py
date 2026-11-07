@@ -299,6 +299,24 @@ def check_unlinked_abbreviation_refs(line: str, pn: str, ln: int):
                 warn(f"Unlinked abbreviation reference to existing word: {w}", pn, ln)
 
 
+def check_duplicate_headwords(pages: dict[str, list]):
+    """Make sure no headword occurs more than once across all source files.
+    Comparison is case-sensitive, since e.g. "august" and "August" are
+    distinct words."""
+    first_seen: dict[str, str] = {}
+    for letter, lines in pages.items():
+        for ln, line in enumerate(lines, start=1):
+            (word, _) = parse_line(line)
+            if word in first_seen:
+                warn(
+                    f"duplicate headword '{word}' (also at {first_seen[word]})",
+                    letter,
+                    ln,
+                )
+            else:
+                first_seen[word] = f"{letter}:{ln}"
+
+
 def check_missing():
     """Check integrity of data/missing.txt file."""
     words = read_wordlist("data/missing.txt", unique=False)
@@ -352,6 +370,7 @@ def main():
             # check_icelandic_words(line, letter, ln)
             # check_enword_def(line, letter, ln)
 
+    check_duplicate_headwords(r)
     check_missing()
     check_ipa_ignore_words()
 
