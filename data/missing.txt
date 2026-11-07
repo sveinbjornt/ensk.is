@@ -3717,6 +3717,7 @@ identical (endurskoða)
 hyperonymy
 meronymy
 passarella
+facetious (endurskoða)
 facetiously
 thrill (endurskoða)
 thrilled
@@ -6962,7 +6963,14 @@ advocates
 perpetuated
 oughta
 banter (endurskoða)
-hoss
 twofer
 slit-eyed
 predation (endurskoða)
+splashback
+worry (endurskoða)
+overcorrect
+Excalibur
+ringtail
+wonk
+uplifter
+hand-lettered

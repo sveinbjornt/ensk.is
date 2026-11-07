@@ -442,7 +442,7 @@ demeanour n. hegðun, háttalag
 demean s. óvirða; [~ oneself] gera lítið úr sér; óvirða sig
 dement s. gera óðan eða vitskertan, skerða vit
 dementation n. æði
-demented l. óður; vitskertur, vitsmunaskertur; heilabilaður
+demented l. óður; vitskertur, geðveikur; heilabilaður
 demerit n. misgerð; galli, ókostur; ávirðing
 demeritorious l. vítaverður, lastverður
 demesne n. óðal, óðalseign; jarðeign; höfuðból; þjóðjörð ([state ~]); konungsjörð ([Royal ~, ~ of the crown])
@@ -1783,7 +1783,7 @@ dyke n. varnargarður (sjá %[dike]%); lesbía, lessa (niðrandi)
 dynamic l. breytilegur, kviklegur; kraftmikill, atorkumikill, virkur; hreyfi-, hreyfilegur; aflfræðilegur
 dynamics n. aflfræði
 dynamite n. dýnamít; sprengiefni; tundur; s. sprengja með tundri
-dynamo n. rafvél, rafall
+dynamo n. rafall, rafvél; orkubolti, dugnaðarforkur (um manneskju, óforml.)
 dynasty n. konungsætt, konungaætt, keisaraætt, ættarveldi, valdaætt
 dysentery n. blóðsótt, blóðkreppa, blóðkreppusótt
 dyspepsia n. meltingartruflun, meltingarónot, meltingarleysi, harðlífi

@@ -1095,7 +1095,7 @@ immunocompromised l. ónæmisbældur, með skert ónæmiskerfi
 calloused l. hertur (um hörundið); orðinn kaldlyndur; sigggróinn; [~ hands] hendur með sigg
 proudly ao. af/með stolti, stærilæti, hroka
 climate change n. loftslagsbreytingar, veðurfarsbreytingar
-honky n. niðrandi orð um hvítt fólk
+honky n. hvítur maður (niðrandi)
 honkey n. sjá %[honky]%
 honkie n. sjá %[honky]%
 relocate s. flytja, endurstaðsetja
@@ -7411,7 +7411,7 @@ tactic n. taktík; baráttuaðferð; kænskubragð
 trainer n. þjálfari; temjari
 trainers nft. íþróttaskór
 tumour n. æxli, kýli; hnúður, vöxtur; meinsemd
-tycoon n. viðskiptajöfur, auðjöfur, auðkýfingur
+tycoon n. viðskiptajöfur, auðjöfur, auðkýfingur (úr japönsku)
 variant n. afbrigði; afvik; frábrigði
 wildlife n. náttúrulíf; dýralíf
 X-ray n. röntgengeisli; röntgenmynd; röntgen
@@ -9082,7 +9082,7 @@ tidy sum n. vegleg upphæð, vænleg upphæð, þokkaleg upphæð (sjá %[tidy]%
 leger n. sjá %[ledger]%
 Quran n. Kóraninn (heilagt rit múslíma, sjá einnig %[Koran]%)
 battle cry n. stríðsóp, heróp
-bounder n. þorpari, þrjótur, skíthæll (óforml. og forn.)
+bounder n. þorpari, þrjótur, skíthæll (óforml.)
 evaluator n. matsmaður
 Bayesian statistics nft. bayesísk tölfræði, Bayesartölfræði
 chomp s. tyggja, japlast á
@@ -9816,7 +9816,8 @@ unvaned l. fjaðralaus (ör)
 semifinals nft. undanúrslit
 scoot s. skutlast, þjóta, skjótast (óforml.)
 rumpus n. ólæti, skarkali
-potty n. barnakoppur, koppur; l. klikkaður, ruglaður (forn.); [~-mouthed] með sorakjaft
+potty n. barnakoppur, koppur; l. klikkaður, ruglaður (forn.)
+potty-mouthed l. með sorakjaft
 outsize l. óvenjustór
 monorail n. járnbraut sem keyrir á einu spori
 in-law n. tengda-, mágur, svili (t.d. %[mother-in-law]%, %[brother-in-law]%, o.s.frv.)
@@ -13122,3 +13123,15 @@ intertwined l. samtvinnaður, samfléttur
 contaminating l. mengandi, saurgandi, spillandi
 rancher n. búgarðseigandi, stórbóndi
 worrying l. áhyggjuvaldandi ([a ~ sign]); n. það að hafa áhyggjur, hugarangur, áhyggjusemi (sjá %[worry]%)
+nigga n. sjá %[nigger]%
+jigaboo n. blökkumaður (mjög niðrandi)
+black art n. svartagaldur, fjölkynngi
+blaggard n. sjá %[blackguard]%
+armorer n. sjá %[armourer]%
+black market n. svartur markaður, svartamarkaður
+stronghearted l. þrekmikill, hraustur; hugrakkur
+mansard n. brotþak, brotið þak (á húsi)
+hoss n. hross, hestur (BNA slangur); áreiðanlegur maður, traustur náungi (óforml. slangur)
+nervous breakdown n. taugaáfall
+toque n. e.k. barðalaus kvenhattur; ílöng, hvít kokkahúfa
+tuque n. sjá %[toque]%
