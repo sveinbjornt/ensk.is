@@ -3786,7 +3786,6 @@ heckle (endurskoða)
 overpass
 Whiggishness
 jabot
-deescalate
 toggle
 profiler
 peekaboo
@@ -5579,10 +5578,8 @@ autocue
 suer
 perfervid
 fuckhead
-broad-minded
 shockable
 unshockable
-cockcrow
 dawning
 cattiness
 bitchiness
@@ -5812,7 +5809,6 @@ reconciler
 incitive
 instigative
 yokelish
-goldbrick
 euphory
 greater
 stand-in
@@ -5824,14 +5820,11 @@ bothered
 daunted
 solved
 unsolved
-luxuriousness
 valorize
 purdy
 phonic
 campanula
-inculpable
 primness
-prudishness
 distillment
 chopfallen
 upthrust
@@ -6932,7 +6925,6 @@ prevented
 deafening
 arpeggio
 identified
-Hecate
 monadic
 monadical
 subquestion
@@ -6974,3 +6966,5 @@ ringtail
 wonk
 uplifter
 hand-lettered
+hee-haw
+apologia
