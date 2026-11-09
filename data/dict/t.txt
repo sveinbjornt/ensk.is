@@ -1254,7 +1254,7 @@ truism n. sjálfséður eða óefaður sannleikur
 truistic l. sem liggur í augum uppi, sjálfséður
 truly ao. sannlega, sannarlega; réttilega; trúlega; [yours ~] yðar einlægur (undir bréfum)
 trump n. lúður; tromp (í spilum); s. spila trompi út; stinga (með trompi); [~ up] skrökva (ljúga e-u) upp ([~ up a story, an excuse])
-trumpery n. vitleysa; rusl; hégómi; l. fánýtur
+trumpery n. vitleysa; rusl; hégómi; smekklaust glingur; l. fánýtur
 trumpet n. lúður, básúna; s. birta, boða (með lúðurhljómi)
 trumpeter n. lúðurþeytari
 truncate s. stýfa, höggva af, stytta
@@ -1450,17 +1450,17 @@ typical l. dæmigerður; sem fyrirmyndar e-ð, líkingarfullur; sem hefur öll s
 typify s. sýna á líkingarfullan hátt, tákna, vera dæmigert eintak af e-u
 typist n. vélritari
 typographer n. prentari
-typographic l. prentlegur, prent-; prentaður
-typographical l. prentlegur, prent-; prentaður
+typographic l. sjá %[typographical]%
+typographical l. prentlegur, prent-, prentlistar-, prentlistarlegur; prentaður
 typography n. prentlist; prentiðn; prentfrágangur
-typology n. táknfræði
+typology n. gerðafræði; gerðaflokkun; táknfræði
 tyrannical l. harðstjórnarlegur; harðráður, grimmur
-tyrannicide n. harðstjórabani; harðstjóradráp
+tyrannicide n. harðstjóradráp; harðstjórabani
 tyrannize s. beita harðstjórn (við [over]), kúga (e-n [over])
 tyrannous l. harðstjórnarlegur; harðráður, grimmur
 tyranny n. harðstjórn, kúgun, ofríki; stjórn alvalds (í Grikklandi til forna)
 tyrant n. harðstjóri, kúgari, ofríkismaður; alvaldur
 tyre n. hjólbarði, hjólgjörð úr stáli eða járni; hjólhringur úr togleðri (um reiðhjól eða bifhjól); sjá %[tire]%
 tyro n. sjá %[tiro]%
-Tyrolean l. týrólskur; n. Týróli, Týrólarbúi
+Tyrolean l. sjá %[Tyrolese]%
 Tyrolese l. týrólskur; [the ~] Týrólarbúar; n. Týróli, Týrólarbúi
