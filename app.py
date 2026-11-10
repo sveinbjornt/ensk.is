@@ -36,16 +36,28 @@ Ensk.is FastAPI web application.
 """
 
 import logging
+from collections.abc import AsyncIterator
+from contextlib import asynccontextmanager
 
 from fastapi import FastAPI, HTTPException, Request
 from fastapi.staticfiles import StaticFiles
-from fastapi_mcp import FastApiMCP
+from fastmcp import FastMCP
+from fastmcp.server.providers.openapi import MCPType
+from fastmcp.utilities.openapi import HTTPRoute
 from starlette.middleware.base import BaseHTTPMiddleware
 from starlette.responses import JSONResponse
 
 from routes import api_router, static_router, web_router
 from routes.core import TemplateResponse
 from settings import PROJECT, settings
+
+
+@asynccontextmanager
+async def lifespan(app: FastAPI) -> AsyncIterator[None]:
+    """Run the MCP server's lifespan (session manager) alongside the app."""
+    async with mcp_app.lifespan(app):
+        yield
+
 
 # Create app
 app = FastAPI(
@@ -59,6 +71,7 @@ app = FastAPI(
     license_info={
         "name": PROJECT.LICENSE,
     },
+    lifespan=lifespan,
 )
 
 # Static files
@@ -168,6 +181,7 @@ app.include_router(static_router)
 
 
 # MCP Configuration
+MCP_PATH = "/mcp"
 MCP_OPERATIONS = [
     "get_metadata",
     "search_for_word",
@@ -176,16 +190,26 @@ MCP_OPERATIONS = [
     "lookup_many_words_parsed",
 ]
 
-# Create and mount the MCP server for the FastAPI app
-mcp = FastApiMCP(
+
+def mcp_route_map(route: HTTPRoute, mcp_type: MCPType) -> MCPType:
+    """Expose only the whitelisted API operations as MCP tools."""
+    return MCPType.TOOL if route.operation_id in MCP_OPERATIONS else MCPType.EXCLUDE
+
+
+# Create MCP server from the FastAPI app's OpenAPI schema
+mcp = FastMCP.from_fastapi(
     app,
-    name=PROJECT.NAME,  # Name for your MCP server
-    description=f"{PROJECT.DESCRIPTION_SHORT_EN} MCP server",  # Description
-    # describe_all_responses=True,  # Include all possible response schemas
-    describe_full_response_schema=True,  # Include full JSON schema in descriptions
-    include_operations=MCP_OPERATIONS,
+    name=PROJECT.NAME,
+    instructions=f"{PROJECT.DESCRIPTION_SHORT_EN} MCP server",
+    version=PROJECT.VERSION,
+    route_map_fn=mcp_route_map,
 )
-mcp.mount_http()
+
+# Serve the MCP streamable HTTP endpoint at exactly /mcp. Added as a route
+# (not a mount) so other unmatched paths still hit the app's 404 handler and
+# /mcp is not redirected to /mcp/.
+mcp_app = mcp.http_app(path=MCP_PATH)
+app.add_route(MCP_PATH, mcp_app)  # pyright: ignore[reportArgumentType]
 
 
 # CLI invocation
