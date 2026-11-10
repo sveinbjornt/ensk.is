@@ -204,10 +204,10 @@ paraphernalia nft. skrautmunir; útbúnaður; séreign konunnar
 paraphrase n. lausleg þýðing; s. þýða lauslega; segja með öðrum orðum
 paraphrastic l. lauslegur ([~ translation])
 parasite n. sníkjudýr, sníkill, afæta; smjaðrari; planta sem vex út úr annarri plöntu; dýr sem lifir á öðrum dýrum, t.d. lýs
-parasitic l. sem lifir á öðrum ([~ insects]); sníkjugestslegur
-parasitical l. sem lifir á öðrum ([~ insects]); sníkjugestslegur
+parasitic l. sem lifir á öðrum ([~ insects]); sníkju-, sníkjudýrs-, sníkil-, sníkjugestslegur
+parasitical l. sjá %[parasitic]%
 parasol n. sólhlíf
-parboil s. hita í vatni fram undir suðu, hálfsjóða
+parboil s. hálfsjóða, hita í vatni fram undir suðu
 parcel n. partur, stykki; böggull, pakki; [by ~ post] með bögglapóstinum; s. hluta í sundur ([~ out])
 parch s. láta skrælna, þurrka, svíða (í sólarhita); skrælna, sviðna
 parchment n. pergament, bókfell
