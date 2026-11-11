@@ -90,6 +90,9 @@ class AddCustomHeaderMiddleware(BaseHTTPMiddleware):
         "script-src": [
             "'self'",
             "'unsafe-inline'",
+            "https://cloud.umami.is",
+            "https://gateway.umami.is",
+            "https://cdn.jsdelivr.net",
         ],
         "style-src": [
             "'self'",
@@ -99,7 +102,12 @@ class AddCustomHeaderMiddleware(BaseHTTPMiddleware):
         "font-src": ["'self'"],
         "media-src": ["'self'"],
         "object-src": ["'none'"],
-        "connect-src": ["'self'"],
+        "connect-src": [
+            "'self'",
+            "https://cloud.umami.is",
+            "https://gateway.umami.is",
+            "https://cdn.jsdelivr.net",
+        ],
         "form-action": ["'self'"],
         "frame-ancestors": ["'none'"],
         "frame-src": ["'none'"],
