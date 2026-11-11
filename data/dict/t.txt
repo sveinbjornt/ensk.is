@@ -417,7 +417,7 @@ theologian n. guðfræðingur
 theological l. guðfræðilegur
 theology n. guðfræði
 theophany n. guðsvitrun, opinberun guðs
-theorem n. kenning; lærdómsgrein; sönnunargrein
+theorem n. kenning, setning; lærdómsgrein; sönnunargrein
 theoretic l. lærdómslegur, vísindalegur; bóklegur; kenningarlegur
 theoretical l. lærdómslegur, vísindalegur; bóklegur; kenningarlegur
 theorist n. kenningasmiður, fræðivitsmaður, sá sem þekkir frumreglur e-r vísindagreinar eða listar

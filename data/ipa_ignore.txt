@@ -2668,3 +2668,5 @@ gonk
 Hecate
 hoss
 potty-mouthed
+attunement
+forseeable
