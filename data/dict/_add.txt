@@ -13068,7 +13068,7 @@ imposter n. sjá %[impostor]%
 postal code n. póstnúmer
 frenchify s. sjá %[Frenchify]%
 Balinese l. balískur, frá Balí
-caramelization n. sultun, brúnun
+caramelization n. brúnun, sultun
 chin-wag s. spjalla (óforml.); n. spjall (óforml.)
 whammed l. fullur, ölvaður (óforml.)
 Boche n. Þjóðverji (óforml. niðrandi slangur)
@@ -13119,7 +13119,7 @@ misquotation n. röng tilvitnun, skökk tilvitnun, bjöguð tilvitnun
 seatmate n. sessunautur, sætisfélagi
 insightfully ao. glögglega, af innsæi, á innsæisríkan máta
 curricula nft. námskrár (sjá %[curriculum]%)
-intertwined l. samtvinnaður, samfléttur
+intertwined l. samtvinnaður, samfléttaður
 contaminating l. mengandi, saurgandi, spillandi
 rancher n. búgarðseigandi, stórbóndi
 worrying l. áhyggjuvaldandi ([a ~ sign]); n. það að hafa áhyggjur, hugarangur, áhyggjusemi (sjá %[worry]%)
@@ -13177,7 +13177,7 @@ wardress n. varðkona; umsjónarkona
 lagopus n. rjúpa
 distorting l. skekkjandi; bjagandi
 jolting l. sem hristir upp í, hristandi
-mentioned l. sem minnst var ál, sem bar á góma
+mentioned l. sem minnst var á, sem bar á góma
 ponton n. sjá %[pontoon]%
 disabused l. leiddur úr villu, losaður úr villu ([~ of the notion that])
 abused l. misnotaður, misbeittur; úthúðaður, skammaður
@@ -13200,11 +13200,16 @@ scaremongering n. hræðsluáróður
 yearlong l. árslangur
 yearslong l. áralangur
 decaying l. hrörnandi, hnignandi; visnandi, rotnandi
-accounting n. bókhald, endurskoðun, reikningshald
+accounting n. bókhald, reikningshald
 self-delusion n. sjálfsblekking
 symmetrically ao. á samhverfan hátt, á samhverfan máta
+asymmetrically ao. á ósamhverfan hátt, á ósamhverfan máta
 inbuilt l. innbyggður, ílægur
 bambino n. barn (úr ítölsku)
 tot n. smábarn, lítið barn; dreitill, smáskammtur (af áfengi); s. [~ up] leggja saman (sjá %[total]%)
 enfant n. barn (úr frönsku, t.d. [~ terrible])
 festinate s. flýta sér (forn.)
+endlessness n. óendanleiki
+friendlessness n. vinaleysi
+infighting n. innbyrðis átök, innbyrðis deilur
+auditing n. endurskoðun (bókhalds)
