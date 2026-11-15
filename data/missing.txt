@@ -6946,7 +6946,6 @@ oughta
 banter (endurskoða)
 twofer
 slit-eyed
-predation (endurskoða)
 splashback
 worry (endurskoða)
 Excalibur
@@ -6980,3 +6979,5 @@ trustbusting
 dross (endurskoða)
 derp
 hushed (endurskoða)
+unstrained
+herpestine
