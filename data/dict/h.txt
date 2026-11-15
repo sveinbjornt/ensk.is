@@ -64,7 +64,7 @@ half-witted l. hálfvitalegur, fábjánalegur, heimskur
 halibut n. lúða, flyðra
 hall n. forstofa, forsalur ([dining-~]); þingstofa; samkomuhús; höfðingjasetur ([baronial ~])
 hallelujah uh. halelúja!
-hallo uh. halló! hó! hæ! s. hóa, æpa, kalla halló!
+hallo uh. halló! hó! hæ!; s. hóa, æpa, kalla halló!
 hallow s. helga, vígja
 hallucination n. ofskynjun, ofheyrn, ofsjónir, kvikskynjun; fleipur (í tauganeti)
 halo n. geislabaugur (utan um höfuð helgra manna); rosabaugur
@@ -378,7 +378,7 @@ hedge writer n. ónýtur rithöfundur
 heed s. gefa gaum að, hirða um; n. gaumur, eftirtekt; [to take ~] vera var um sig; [to give ~ to] gefa e-u gaum
 heedful l. gætinn, varkár
 heedless l. hirðulaus, gálaus, óvarkár
-heel n. hæll; [from head to ~, from ~ to point] frá hvirfli til ilja; [to lay by the ~s] leggja í fjötra; [to show the ~s] flýja; [to take to the ~s] taka til fótanna; [to be at the ~s of] vera í hælunum á; [to be out at (the) ~s] hafa gat á (sokk)hælunum, vera illa staddur; [to tumble ~s over head] steypa sér (steypast) í kollhnís; skíthæll (sjá %[shitheel]%) s. hæla (skó); (um hund) vera í hælunum á (skepnu), bíta í hælinn; leggja á hliðina; leggjast á hliðina, hallast (um skip)
+heel n. hæll; [from head to ~, from ~ to point] frá hvirfli til ilja; [to lay by the ~s] leggja í fjötra; [to show the ~s] flýja; [to take to the ~s] taka til fótanna; [to be at the ~s of] vera í hælunum á; [to be out at (the) ~s] hafa gat á (sokk)hælunum, vera illa staddur; [to tumble ~s over head] steypa sér (steypast) í kollhnís; skíthæll (sjá %[shitheel]%); s. hæla (skó); (um hund) vera í hælunum á (skepnu), bíta í hælinn; leggja á hliðina; leggjast á hliðina, hallast (um skip)
 heelpiece s. gera við hæl (á skó); n. hælleður
 heeltap n. hælplata; dreggjar í staupi
 heft n. vigt, þungi; s. vega, lyfta
@@ -995,7 +995,7 @@ husbandless l. mannlaus (um konu)
 husbandlike l. líkur (góðum) eiginmanni eða ráðdeildarmanni
 husbandman n. akuryrkjumaður, jarðyrkjumaður; búmaður
 husbandry n. jarðyrkja; sparsemi, ráðdeild; [rural ~] landbúnaður
-hush uh. þei! s. þagga niður í; svæfa (barn); bæla niður; þagna, verða hljóður; n. þögn, kyrrð
+hush uh. þei!; s. þagga niður í; svæfa (barn); bæla niður; þagna, verða hljóður; n. þögn, kyrrð
 hushed l. lágur (um hljóð)
 husk n. hýði (af korni, matbaunum o.s.frv.); s. taka hýðið af
 husky l. hýðiskenndur; rámur (um málróm), hás; þurr; n. sleðahundur
@@ -1008,7 +1008,7 @@ hustle s. hrinda, reka; ryðjast; rekast (á [against])
 huswife n. sjá %[housewife]%
 hut n. kofi, hreysi; s. setja (hermenn) í búðir; hafa vetrarsetu, hafast við (dvelja) í búðum
 hutch n. kassi til að geyma korn (eða skepnur) í; s. setja í kassa
-huzza uh. húrra! s. hrópa húrra ([~ for one])
+huzza uh. húrra!; s. hrópa húrra ([~ for one])
 hyacinth n. hýasinta, jasinta
 Hyades nft. sjöstirni
 hyaline n. spegilsléttur sjór; l. gagnsær sem gler

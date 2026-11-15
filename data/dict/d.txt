@@ -144,7 +144,7 @@ dealing n. hegðun háttalag; kaupverslun; nft. viðskipti ([~s])
 dean n. yfirprestur (við dómkirkju); prófastur; deildarforseti (við háskóla)
 deanery n. prófastsembætti; prófastsdæmi; prófastssetur
 deanship n. prófastsembætti
-dear l. dýr; dýrmætur; kær; [oh ~, ~ me!] guð komi til! ao. dýrt ([sell, buy ~]); [you shall pay ~ for it] þú skalt komast að því fullkeyptu; n. [my ~] góði minn, góða mín, elskan
+dear l. dýr; dýrmætur; kær; [oh ~, ~ me!] guð komi til!; ao. dýrt ([sell, buy ~]); [you shall pay ~ for it] þú skalt komast að því fullkeyptu; n. [my ~] góði minn, góða mín, elskan
 dearly ao. dýru verði ([~ bought]); heitt; [love ~] unna hugástum
 dearness n. dýrleiki; viðkvæm elska
 dearth n. skortur, ekla, hörgull, þurrð; hallæri
@@ -776,7 +776,7 @@ diagnostic l. sem lýtur að greiningu, sjúkdómsgreiningar-; sjá %[diagnosis]
 diagonal l. skáhallur; n. skálína
 diagonally ao. skáhalt
 diagram n. skýringarmynd, ritmynd
-dial s. hringja ([~ a number]); snúa (til baka, [~ back]) n. sólskífa; úrskífa
+dial s. hringja ([~ a number]); snúa (til baka, [~ back]); n. sólskífa; úrskífa
 dialect n. mállýska
 dialectic l. sem lýtur að mállýskum eða rökfimi; rökfimis-; mállýsku-; n. rökfimi, rökfræði, þrætubók, þrætubókarlist (einnig [~s])
 dialectician n. rökræðuspekingur, þrætubókarspekingur
@@ -944,7 +944,7 @@ disadvantageous l. óhagstæður, óhentugur
 disaffect s. gera óánægðan, vekja óánægju hjá e-m
 disaffected l. óánægður
 disaffection n. óánægja, óvild
-disagree s. vera ósamþykkur, vera ósamhljóða, vera ósammála; eiga illa við (um mat eða drykk) ([~ with his health)]
+disagree s. vera ósamþykkur, vera ósamhljóða, vera ósammála; eiga illa við (um mat eða drykk) ([~ with his health])
 disagreeable l. óþægilegur, erfiður (í fasi eða framkomu); ógeðfelldur
 disagreement n. mismunur; sundurþykkja, ágreiningur; ósamræmi
 disallow s. vera (e-u) mótfallinn; hafna; banna; bera á móti e-u

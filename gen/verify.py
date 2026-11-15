@@ -73,7 +73,7 @@ def warn(s: str, pn: int | str, ln: int):
 
 def strip_words_in_square_brackets(s: str) -> str:
     """Strip words in square brackets from string."""
-    sn = re.sub(r"\[.+\]", "", s)
+    sn = re.sub(r"\[[^\]]*\]", "", s)
     sn = re.sub(r"%", "", sn)
     return sn
 
@@ -115,6 +115,15 @@ def check_punctuation(line: str, pn: str, ln: int):
 
     if line.count("(") != line.count(")"):
         warn("() error", pn, ln)
+
+    # Counts can match while nesting is wrong, e.g. "([~ with his health)]"
+    stack = []
+    for c in line:
+        if c in "([":
+            stack.append(c)
+        elif c in ")]" and (not stack or stack.pop() != {")": "(", "]": "["}[c]):
+            warn("brackets closed in wrong order", pn, ln)
+            break
 
     if line.count("%") % 2 != 0:
         warn("% error", pn, ln)
@@ -187,6 +196,19 @@ def check_category(line: str, pn: str, ln: int):
             warn(f"duplicate category '{t}'", pn, ln)
             break
         seen.add(t)
+
+    # unpack_definition() only starts a new category after ";", so a label
+    # mid-segment files the senses after it under the previous category.
+    # Combined labels such as "fs. & ao." are allowed.
+    for seg in d.split(";"):
+        tokens = seg.split()
+        for i, t in enumerate(tokens):
+            if i == 0 or t not in CATEGORIES or t in ("stytt.", "sks."):
+                continue
+            if i >= 2 and tokens[i - 1] == "&" and tokens[i - 2] in CATEGORIES:
+                continue
+            warn(f"category '{t}' not preceded by ';'", pn, ln)
+            break
 
 
 def check_bracket_use(line: str, pn: str, ln: int):
