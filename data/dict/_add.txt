@@ -13187,9 +13187,9 @@ emporia nft. sjá %[emporium]%
 designed l. hannaður
 cockiness n. hreykni, mont, yfirlæti
 fearsome l. skelfilegur, ógurlegur, ógnvekjandi
-masterstroke n. meistaraverk, snilldarbragð
+masterstroke n. meistaraverk, snilldarbragð, meistaralegt bragð
 reportage n. fréttaflutningur; skýrslugerð
-travelogue n. ferðalýsing, ferðasaga
+travelogue n. ferðalýsing, ferðasaga, ferðaskrá
 bedrock n. undirstaða; berggrunnur
 trepid l. hræddur
 overawed l. gagntekinn lotningarótta, þrumulostinn
@@ -13202,4 +13202,9 @@ yearslong l. áralangur
 decaying l. hrörnandi, hnignandi; visnandi, rotnandi
 accounting n. bókhald, endurskoðun, reikningshald
 self-delusion n. sjálfsblekking
-symmetrically ao. á samhverfan hátt
+symmetrically ao. á samhverfan hátt, á samhverfan máta
+inbuilt l. innbyggður, ílægur
+bambino n. barn (úr ítölsku)
+tot n. smábarn, lítið barn; dreitill, smáskammtur (af áfengi); s. [~ up] leggja saman (sjá %[total]%)
+enfant n. barn (úr frönsku, t.d. [~ terrible])
+festinate s. flýta sér (forn.)

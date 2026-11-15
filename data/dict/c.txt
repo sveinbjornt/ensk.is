@@ -1894,7 +1894,7 @@ constituency n. kjördæmi; kjósendur
 constituent l. sem e-ð er samsett af; frumlegur; kjósandi; kjör-; [Constituent Assembly] frumlagaþing; n. kjósandi; frumpartur; umboðsveitandi, umbjóðandi
 constitute s. setja; stofna; skipa (í embætti); gera (e-n að e-u); vera e-ð; [to be thus ~d] vera (svo eða svo) lagaður eða gerður
 constitution n. samsetning; skipun, setning; skipulag, fyrirkomulag; líkamsbygging; eðlisfar, lundarfar; stjórnarskipun; stjórnarskrá ([written ~])
-constitutional l. eðlisfarslegur; verulegur; stjórnskipulegur, samkvæmur stjórnarskránni; þingbundinn; n. heilsubótarganga ([take or go for a ~])
+constitutional l. eðlisfarslegur; verulegur; stjórnskipulegur, samkvæmur stjórnarskrá, í samræmi við stjórnarskrá; þingbundinn; n. heilsubótarganga ([take or go for a ~])
 constitutive l. verulegur; sem e-ð er samsett af; [~ parts] frumpartar
 constrain s. neyða, þvinga; reyra, binda
 constraint n. þvingun; nauðung, ófrelsi
