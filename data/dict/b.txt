@@ -190,7 +190,7 @@ baritone n. hábassi, barítón, barítónrödd
 basal l. undirstöðu-
 basalt n. stuðlaberg, basalt
 basaltic l. stuðlabergs-, basalt-
-base n. grundvöllur, undirstaða; herstöð ([military ~]); miðstöð ([~ of operations]); s. grundvalla, byggja á, nota sem undirstöðu; l. lágur; auðvirðilegur; ódrengilegur; [~ coin] falspeningur
+base n. grundvöllur, undirstaða; herstöð ([military ~]); miðstöð ([~ of operations]); s. grundvalla, byggja á, nota sem undirstöðu; l. lágur; auvirðilegur; ódrengilegur; [~ coin] falspeningur
 baseborn l. af lágum stigum; óskilgetinn
 baseless l. ástæðulaus, án grundvallar, án undirstöðu
 basement n. kjallari, íbúðarkjallari, lægsta gólf í húsi (að nokkru leyti niðri í jörðinni)
@@ -536,7 +536,7 @@ bifid l. tvíklofinn
 bifold l. tvöfaldur
 bifurcated l. kvíslaður, skiptur í tvennt, tvískiptur
 bifurcation n. kvíslun; kvísl; tvískipting
-big l. stór, þykkur; mikill; mikillátur; [~ with fate] örlagaþrunginn; [~ with child] ólétt; [talk ~] vera stórorður; tala drembilega
+big l. stór, þykkur; mikill; mikillátur; [~ with fate] örlagaþrunginn; [~ with child] ólétt, ófrísk, þunguð; [talk ~] vera stórorður; tala drembilega
 bigness n. digurð, stærð
 bigamist n. maður (kona) með tvær konur (menn)
 bigamous l. sem er kvæntur (giftur) tveimur í senn

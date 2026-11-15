@@ -8708,7 +8708,7 @@ scolder n. ávítari, skammari; nöldrari
 muddied l. gruggugur (sjá %[muddy]%); leðjugur, forugur, aurugur; gerður óskýrður ([this ~ the waters])
 homophile n. hommi, samkynhneigður maður; mannelskari
 misfortunate l. ógæfusamur, ólánsamur, óheppinn
-low-down l. fyrirlitlegur, auðvirðilegur, lítilmótlegur, lágkúrulegur; [~ scum] skítapakk
+low-down l. fyrirlitlegur, auvirðilegur, lítilmótlegur, lágkúrulegur; [~ scum] skítapakk
 overbold l. mjög djarfur; baldinn, brattur; óskammfeilinn, framhleypinn
 pockmarked l. með ör (eftir bólur)
 blossoming n. blómstrun, blómgun (sjá %[blossom]%)
@@ -10453,7 +10453,7 @@ taupe l. drapplitaður, grábrúnn; n. drappaður litur, grábrúnn litur
 puce l. brúnfjólublár, purpurabrúnn; n. brúnfjólublár litur, purpurabrúnn litur
 chartreuse l. gulgrænn; n. skær, gulgrænn litur
 iron lung n. stállunga, járnlunga, öndunartæki
-crummy l. mjög lélegur; auðvirðilegur
+crummy l. mjög lélegur; auvirðilegur
 busman n. strætóbílstjóri; rútubílstjóri
 agrammatism n. málfræðistol
 dollop n. sletta, skvetta, klessa
@@ -13196,7 +13196,6 @@ overawed l. gagntekinn lotningarótta, þrumulostinn
 apologia n. varnarræða; varnarrit, skrifleg vörn
 valorousness n. vaskleiki, hughreysti, frækni, hugrekki
 cytological l. frumufræðilegur, frumufræði-, frumu-
-potty-mouthed l. með sorakjaft
 scaremongering n. hræðsluáróður
 yearlong l. árslangur
 yearslong l. áralangur

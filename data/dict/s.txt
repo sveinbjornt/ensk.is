@@ -221,8 +221,8 @@ Saxon n. Saxi, saxneskur maður; l. saxneskur
 say s. segja; lesa (bæn, messu); hafa upp; tala; [he is said to have been absent] sagt er að hann hafi verið fjarstaddur; [to ~ the truth] satt að segja; [I ~!] heyrðu! heyrið þér!; n. [to have a ~ in the matter] hafa atkvæði um e-ð; [I have had my ~] ég hef talað út
 saying n. orðatiltæki; ummæli; spakmæli
 scab n. hrúður; kláði (á kindum); s. gróa, hrúðra (um sár)
-scabbed l. kláðugur; auðvirðilegur, fyrirlitlegur
-scabby l. kláðugur; auðvirðilegur, fyrirlitlegur
+scabbed l. kláðugur; auvirðilegur, fyrirlitlegur
+scabby l. kláðugur; auvirðilegur, fyrirlitlegur
 scabbard n. slíður, skeiðar; s. slíðra ([~ the sword])
 scaffold n. pallur; aftökupallur; s. reisa pall (skorður) undir e-ð eða upp að e-u; leggja á pall; skorða
 scaffolding n. smíðapallur; vinnupallar; verkpallur, vinnupallur, stillas
@@ -426,11 +426,11 @@ scull n. stutt ár; s. róa (með stuttum árum); knýja (bát) áfram með einn
 sculler n. lítill bátur
 scullery n. pottakompa; þvottaklefi (sem borðáhöld eru þvegin upp í)
 scullion n. eldhússtúlka, eldhúsdrengur
-scully l. auðvirðilegur
+scully l. auvirðilegur
 sculptor n. myndhöggvari
 sculpture n. höggmynd, skúlptúr; myndasmíði; s. höggva, skera, grafa (myndir)
 scum n. froða; sori; úrkast, afhrak; pakk, skítapakk (um fólk); s. veiða froðuna ofan af
-scummy l. þakinn froðu; soralegur, auðvirðilegur
+scummy l. þakinn froðu; soralegur, auvirðilegur
 scumble s. deyfa (liti)
 scurf n. skurfa; flasa; hrúður
 scurfy l. þakinn skurfum; hrúðraður
@@ -716,13 +716,13 @@ server n. þjónn, þjónustusveinn; bakki
 service n. þjónusta; herþjónusta; guðsþjónusta, messa ([divine ~]); gagn; greiði ([will you do me a ~?]); borðbúnaður ([dinner ~, tea ~]); [to do (render) ~] vinna e-m gagn, gera greiða; [his ~s to literature] gagn það, er hann hefur unnið bókmenntunum; [to be of ~] vera til gagns; [to go (out) to ~] fara í vist; [be in ~] vera í vist
 serviceable l. hentugur; nýtur, gagnlegur; hjálpsamur; greiðvikinn
 service tree n. reyniviður
-servile l. þrælslegur; þrællundaður; auðvirðilegur; [~ war] þrælastríð; [~ spirit] þrællyndi, þýlyndi; [~ fear] þrælsótti
+servile l. þrælslegur; þrællundaður; auvirðilegur; [~ war] þrælastríð; [~ spirit] þrællyndi, þýlyndi; [~ fear] þrælsótti
 servility n. þrællyndisleg undirgefni (auðmýkt)
 serving maid n. þjónustustúlka
 serving man n. þjónn
 servitude n. þrældómur; [penal ~] nauðungarvinna
 session n. seta; þingseta ([~ of parliament]); samkoma, fundur; skólaár
-set s. setja; festa; ákveða, tiltaka; setja á nótur, semja lag við; planta, (gróður)-setja; greypa ([~ a diamond in a ring]); draga (hníf) á, slípa ([~ a razor]); skerða (sög); hleypa (mjólk); setja upp (segl); kippa í lið ([~ a joint]); setjast, ganga undir (um himintungl); réna, minnka; renna, streyma; hlaupa, storkna; stefna ([the current ~s westward]); [~ with jewels] settur gimsteinum; [~ one thinking of] koma e-m til að hugsa um; [~ free] láta lausan; [~ about] byrja á; [~ aside] hirða eigi um, vanrækja; ónýta (t.d. erfðaskrá); [~ dogs at oxen] siga hundum á naut; [~ at ease] sefa, stilla; [~ at naught] virða að vettugi; [~ down] rita upp; [~ forth] sýna, birta, auglýsa; [~ forth in trade] byrja að versla; [~ in] ganga inn, byrja ([the winter ~s in]); koma (detta) á (um veður, myrkur, þoku); [~ off] skreyta; láta bera á; láta sjást; fara (leggja) af stað; [~ on] eggja, hvetja; ráðast á; [~ one's heart on] leggja hug á; [~ on fire] kveikja í; [~ out] fegra; taka til, ákveða ([~ out time and place]); fara af stað; [~ out upon a journey] hefja ferð; [~ to work] taka til starfa; [~ up] reisa; stofna; bera fram ([~ new doctrine, a claim]); reka upp (hljóð); [~ up in trade] setjastað sem kaupmáður, byrja að versla; [~ up for] þykjast vera ([he ~s up for a man of wit]); [~ upon] ráðast á; l. fastur ([~ prices]); stinnur; þver, einþykkur (í skoðunum); stöðugur (um veður); reglulegur; starandi ([~ eyes]); [~ on] sólginn í; [a ~ speech] ræða, sem maður hefur búið sig undir, vel hugsuð ræða ([to make a ~ speech]); [on (of) ~ purpose] með ásettu ráði; n. safn af hlutum sem eiga saman ([~ of chairs, ~ of books]); mengi; hópur, flokkur; félag; niðurganga (himintungla); stefna ([the ~ of a current, ~ of the wind]); árás ([to make a dead ~])
+set s. setja; festa; ákveða, tiltaka; setja á nótur, semja lag við; planta, (gróður)-setja; greypa ([~ a diamond in a ring]); draga (hníf) á, slípa ([~ a razor]); skerða (sög); hleypa (mjólk); setja upp (segl); kippa í lið ([~ a joint]); setjast, ganga undir (um himintungl); réna, minnka; renna, streyma; hlaupa, storkna; stefna ([the current ~s westward]); [~ with jewels] settur gimsteinum; [~ one thinking of] koma e-m til að hugsa um; [~ free] láta lausan; [~ about] byrja á; [~ aside] hirða eigi um, vanrækja; ónýta (t.d. erfðaskrá); [~ dogs at oxen] siga hundum á naut; [~ at ease] sefa, stilla; [~ at naught] virða að vettugi; [~ down] rita upp; [~ forth] sýna, birta, auglýsa; [~ forth in trade] byrja að versla; [~ in] ganga inn, byrja ([the winter ~s in]); koma (detta) á (um veður, myrkur, þoku); [~ off] skreyta; láta bera á; láta sjást; fara (leggja) af stað; [~ on] eggja, hvetja; ráðast á; [~ one's heart on] leggja hug á; [~ on fire] kveikja í; [~ out] fegra; taka til, ákveða ([~ out time and place]); fara af stað; [~ out upon a journey] hefja ferð; [~ to work] taka til starfa; [~ up] reisa; stofna; bera fram ([~ new doctrine, a claim]); reka upp (hljóð); [~ up in trade] setjast að sem kaupmaður, byrja að versla; [~ up for] þykjast vera ([he ~s up for a man of wit]); [~ upon] ráðast á; l. fastur ([~ prices]); stinnur; þver, einþykkur (í skoðunum); stöðugur (um veður); reglulegur; starandi ([~ eyes]); [~ on] sólginn í; [a ~ speech] ræða, sem maður hefur búið sig undir, vel hugsuð ræða ([to make a ~ speech]); [on (of) ~ purpose] með ásettu ráði; n. safn af hlutum sem eiga saman ([~ of chairs, ~ of books]); mengi; hópur, flokkur; félag; niðurganga (himintungla); stefna ([the ~ of a current, ~ of the wind]); árás ([to make a dead ~])
 settee n. bekkur með baki
 setter n. fuglahundur, skothundur
 setting n. niðurganga (himintungla); greyping; umgjörð; stefna (straums eða vindar)
