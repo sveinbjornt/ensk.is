@@ -1199,9 +1199,9 @@ trochee n. langstuttur bragliður
 troglodyte n. hellisbúi
 Trojan l. tróverskur, Tróju- ([the ~ war]); n. Trójumaður, Tróverji
 troll n. tröll, illvættur; nettröll, sá sem reynir að koma af stað illindum; s. velta; hringsnúa; syngja; dorga; fiska (í); hringsnúast
-trollop n. subba, ódámur
-trollopish l. subbulegur
-trollopy l. subbulegur
+trollop n. subba, ódámur; vændiskona, hóra
+trollopish l. sjá %[trollopy]%
+trollopy l. subbulegur; hórulegur
 trombone n. básúna
 tromp n. blásturvél (við bræðsluofna)
 trompe n. blásturvél (við bræðsluofna)

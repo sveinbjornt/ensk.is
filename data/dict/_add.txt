@@ -4967,7 +4967,7 @@ WMD n. gjöreyðingarvopn, gereyðingarvopn (sks. á [weapon(s) of mass destruct
 incommunicado l. í einangrun, einangraður; ekki í samskiptum, án samskipta, samskiptalaus
 dynode n. dínóða, þrepaskaut
 krill n. áta, kríli, ljósáta
-cocksucker n. e-r sem sýgur typpi, hommi (niðrandi); skíthæll, fífl, hálfviti, asni (óforml.)
+cocksucker n. e-r sem sýgur typpi, hommi (niðrandi); drulludeli, skíthæll, fífl, hálfviti, asni (óforml.)
 feisty l. viljugur, fjörugur, gáskafullur
 hello uh. halló, sæll, blessaður; [say ~] heilsa (upp á)
 hullo uh. halló, sæll, blessaður
@@ -12585,7 +12585,7 @@ fictive l. sjá %[fictitious]%
 miscellanea nft. sjá %[miscellany]%
 humanicide n. tortíming mannkyns
 no-one fn. enginn, ekki nokkur maður
-gunrunning n. vopnasmygl
+gunrunning n. vopnasmygl, skotvopnasmygl, byssusmygl
 kvetch n. nöldrari, kvartari (úr jiddísku); s. nöldra, kvarta
 Interpol n. Alþjóðalögreglan (alþjóðastofnun)
 volte-face n. viðsnúningur, umsnúningur, stefnubreyting (úr frönsku)
@@ -13213,3 +13213,15 @@ endlessness n. óendanleiki
 friendlessness n. vinaleysi
 infighting n. innbyrðis átök, innbyrðis deilur
 auditing n. endurskoðun (bókhalds)
+appallingly ao. voðalega, hræðilega, skelfilega
+quarterstaff l. langur stafur (notaður sem vopn)
+capitular l. kafla-, er varðar kafla (í Biblíunni)
+reinforced l. styrktur, efldur
+contingence n. sjá %[contingency]%
+hamstrung l. með skornar hásinar; lamaður
+triclinium n. borðstofa í rómversku húsi; matarborð og viðliggjandi bekkir (í rómversku húsi)
+timberwork n. timbursmíði
+neckline n. hálsmál
+monitoring n. eftirlit, vöktun
+timberland n. skógi vaxið landflæmi
+pound sterling n. (breskt) sterlingspund
