@@ -1639,7 +1639,7 @@ dropsical l. vatnssjúkur; hvaplegur
 dropsy n. vatnssýki
 dross n. málmfroða; sori; sindur; ryð; úrgangur
 drossy l. sorafullur (um málma); óhreinn
-drought n. þurrkar, regnleysi
+drought n. þurrkur, þurrkar, regnleysi
 drove n. rekstur; hjörð, hópur ([a ~ of sheep])
 drover n. fjárkaupmaður; fjárrekstrarmaður
 drown s. drekkja; flæða yfir; [to ~] drukkna; [to be ~ed] að vera drekkt

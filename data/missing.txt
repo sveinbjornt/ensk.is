@@ -2082,7 +2082,6 @@ interdecadal
 capacitator
 teleconnection
 uniformitarianism
-symmetrically
 asymmetrically
 variably
 quibbling
@@ -2157,7 +2156,6 @@ nephelorometer
 nepheloscope
 spandrel
 upskirt
-accounting
 registered
 stuck
 enclosed
@@ -3656,6 +3654,7 @@ gorgon (endurskoða)
 harm (endurskoða, hamming it up, osfv.)
 shovelhead
 haplogroup
+haplography
 creche
 spyhop
 spyhopping
@@ -6862,7 +6861,6 @@ occluded
 harrying
 conceptualized
 conceptualised
-decaying
 planning
 suggestibility
 quizzically
@@ -6975,3 +6973,10 @@ stall (endurskoða)
 stalling
 cultivated
 designed (endurskoða)
+dispositively
+scaremonger
+yellow peril
+trustbuster
+trustbusting
+dross (endurskoða)
+derp
