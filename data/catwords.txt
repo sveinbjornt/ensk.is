@@ -4,6 +4,7 @@ l.
 s.
 ao.
 fsk.
+vsk.
 st.
 gr.
 fs.
