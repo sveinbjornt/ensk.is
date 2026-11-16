@@ -1865,24 +1865,24 @@ spiciness n. kryddbragð
 spicy l. sem kryddbragð er af; krydd-; sár, napur ([a ~ remark])
 spider n. kónguló
 spigot n. krani; diviki
-spike n. spík, járngaddur, stór nagli; ax; s. negla með stórum nöglum; reka járngadda í; reka brodda undir skó
+spike n. gaddur, járngaddur, stór nagli, spík; ax; s. negla með stórum nöglum; reka járngadda í; reka brodda undir skó
 spikelet n. lítið ax
 spiky l. oddhvass; göddóttur
 spile n. tittur, diviki; stólpi
-spilehole n. divikagat
+spilehole n. divikagat, tappagat
 spill s. hella niður, úthella; kasta (af baki); hellast niður, spillast
 spin s. spinna; teygja úr; hringsnúa, hringsnúast; spýtast, buna; [~ out the time] teygja tímann; [my head ~s] mig sundlar, svimar; n. snúningur ([~ of the earth]); spuni; sprettur
-spinach n. spínat (kálmeti)
+spinach n. spínat
 spinal l. hrygg-; [~ marrow] hryggmæna; [~ column] hryggur
 spindle n. snælda; stöng
 spindle-leg n. langleggur
 spindle-legged l. leggjalangur
-spindle-shanked l. leggjalangur
+spindle-shanked l. sjá %[spindle-legged]%
 spindle side n. kvenleggur; [on (by) the ~] í kvenlegg
 spindrift n. særok
 spine n. hryggur; broddur; þyrnir
-spineless l. hrygglaus; kraftlaus, þreklaus
-spinet n. e.k. fornt hljóðfæri
+spineless l. hrygglaus; veiklyndur, veikgeðja, án bakbeins; kraftlaus, þreklaus
+spinet n. spínetta (e.k. fornt hljómborðshljóðfæri)
 spinner n. spunamaður, spunakona
 spinning jenny n. spunavél
 spinning wheel n. rokkur
