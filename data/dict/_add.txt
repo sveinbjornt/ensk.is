@@ -307,7 +307,7 @@ callisthenic l. sjá %[calisthenic]%
 automation n. sjálfvirkni; sjálfvirknivæðing, sjálfvirkjun
 automate s. sjálfvirknivæða, gera sjálfvirkt
 automatable l. sjálfvirknivæðanlegur (sjá %[automate]%)
-bot n. (stytt. á %[robot]%) vélmenni, þjarkur, vélþræll
+bot n. vélmenni, þjarkur, vélþræll (stytt. á %[robot]%)
 tweeze s. snyrta með flísatöng
 aerodrome n. flugvöllur, flugstöð
 airport n. flugvöllur, flugstöð, flughöfn
@@ -429,8 +429,8 @@ audio n. hljóð
 audio quality n. hljómgæði, hljóðgæði
 audio channel n. hljóðrás
 audio spectrum n. hljóðróf
-cassette n. (hljóð)snælda, kassetta
-audio cassette n. (hljóð)snælda, (hljóð)spóla, kassetta
+cassette n. snælda, hljóðsnælda, kassetta, spóla
+audio cassette n. sjá %[cassette]%
 hard disk n. harður diskur (í tölvum)
 hard drive n. harður diskur (í tölvum)
 floppy disk n. disklingur, sveigur diskur
@@ -1147,7 +1147,7 @@ surrealism n. súrrealismi, fjarstæðustefna (stefna í listum og bókmenntum)
 surreal l. súrrealískur, fjarstæðukenndur, sem ber svip af súrrealisma (sá %[surrealism]%)
 sleaze n. viðbjóður, spilling, svindl, subbuskapur, ógeðfelldni
 flab n. spik, fita, lint hold
-yuppie n. (óforml.) uppi, ung fagmanneskja í þéttbýli (stytt. á [young urban professional])
+yuppie n. uppi, ung fagmanneskja í þéttbýli (stytt. á [young urban professional], óforml.)
 visa n. vegabréfsáritun, áritun, dvalarleyfi ([my ~ has expired])
 viral l. veiru-; [go ~] breiðast út hratt
 technique n. aðferð, tækni; [parenting ~s] uppeldisaðferðir
@@ -1225,7 +1225,7 @@ benchmark n. viðmið, viðmiðun; afkastaprófun, afkastamæling; s. mæla afk�
 benchmarking n. afkastamæling, afkastaprófun (út frá viðmiðum)
 sensitivity n. næmni, viðkvæmni
 transsexual n. kynskiptingur, trans manneskja; l. kynskiptings-, trans-
-tranny n. (niðrandi) sjá %[transsexual]%
+tranny n. sjá %[transsexual]% (niðrandi)
 trivia nft. smámunir, lítilræði; fróðleiksmoli; spurningaleikur
 toolkit n. verkfærakista, verkfærakassi
 workout n. líkamsrækt, líkamsþjálfun, líkamsæfing
@@ -1679,10 +1679,10 @@ nominated l. tilnefndur (sjá %[nominate]%)
 Siam n. Síam (Taíland)
 Siamese l. síamskur (taílenskur); [~ cat] síamsköttur; [~ twins] síamstvíburar
 frat n. sjá %[fraternity]%; [~ boy] háskólaklíkustrákur
-hacker n. (tölvu)hakkari, tölvurefur, tölvugarpur; tölvuþrjótur
+hacker n. hakkari, tölvuhakkari, tölvurefur, tölvugarpur; tölvuþrjótur
 contact lens n. augnlinsa, snertilinsa
 yeah ao. já (óforml.); uh. já!
-sprinkler n. (vatns)úðari; [~ system] úðakerfi
+sprinkler n. úðari, vatnsúðari; [~ system] úðakerfi
 bedevil s. angra, ergja, plága; rugla, trufla
 quasar n. dulstirni, kvasi
 kerosene n. steinolía, kerósín; [~ lamp] olíulampi
@@ -1814,7 +1814,7 @@ neurochemistry n. taugaefnafræði
 neurotransmitter n. taugaboðefni
 dominator n. valdhafi; yfirdrottnari; sjá %[dominate]%
 yeast infection n. sveppasýking
-clusterfuck n. (óforml.) klasaklúður, stórkostlegt klúður
+clusterfuck n. klasaklúður, stórkostlegt klúður (óforml.)
 calliope n. gufuknúið orgel
 Calliope n. Kallíópa (grísk gyðja kveðskapar og hetjuljóða, ein af músunum, menntagyðjunum níu)
 Clio n. Klíó (grísk gyðja sögunnar, ein af músunum, menntagyðjunum níu)
@@ -2394,7 +2394,7 @@ telemarketing n. símasölumennska
 carotene n. karótín
 enzyme n. ensím
 firewall n. eldveggur; brunaveggur
-sharpshooter n. (leyni)skytta
+sharpshooter n. skytta, leyniskytta
 sharpshooting n. skotfimi
 cellphone n. farsími, gemsi, GSM-sími
 rifleman n. hermaður vopnaður riffli
@@ -2741,7 +2741,7 @@ macaque n. makakíapi
 blueberry n. bláber
 syrup n. síróp
 thirsty l. þyrstur
-deodorant n. (svita)lyktareyðir
+deodorant n. lyktareyðir, svitalyktareyðir
 paperweight n. bréfapressa
 grapefruit n. greipaldin
 soulmate n. sálufélagi
@@ -2752,7 +2752,7 @@ tableware n. borðbúnaður
 permafrost n. sífreri
 popcorn n. poppkorn, popp
 sorghum n. dúrra, súdangras
-seaworthiness n. (um skip) sjófærni
+seaworthiness n. sjófærni (um skip)
 spiderweb n. köngulóarvefur
 Francophone l. frönskumælandi; n. e-r sem er frönskumælandi
 antifreeze n. frostlögur, frostvökvi
@@ -3082,11 +3082,11 @@ milieu n. umhverfi
 prosthesis n. gervilimur
 prosthetic n. gervilimur; l. gervilims- ([~ clinic, leg])
 orthosis n. stoðtæki
-conquistador n. (spánskur) landvinningamaður (í Nýja heiminum)
+conquistador n. (spænskur) landvinningamaður (í Nýja heiminum)
 buggery n. endaþarmsmök
 spreadsheet n. töflureiknir
 videotape n. myndband, myndbandsspóla, myndbandsupptaka; s. taka upp á myndband, myndbandsspólu
-laundromat n. (almennings)þvottahús
+laundromat n. þvottahús, almenningsþvottahús
 trucker n. vörubílstjóri, flutningabílstjóri
 windshield n. framrúða
 cardboard n. pappi; [~ box] pappakassi
@@ -3104,7 +3104,7 @@ glassmaker n. glerblásari, glergerðarmaður
 glassmaking n. glerblástur, glergerð, glerframleiðsla
 grail n. (gral)bikar, kaleikur
 fungicide n. sveppadeyðir, sveppaeyðir
-pax n. (lat.) friður; [~ Romana] Rómarfriður; [~ Americana] Bandaríkjafriður
+pax n. friður (úr latínu); [~ Romana] Rómarfriður; [~ Americana] Bandaríkjafriður
 doormat n. dyramotta
 guacamole n. lárperumauk, avókadómauk
 goldsmithing n. gullsmíði
@@ -3221,9 +3221,9 @@ anyone fn. hver sem er, nokkur, neinn
 peacetime n. friðartími, friðartímar; [in ~] á friðartímum
 light industry n. léttiðnaður
 heavy industry n. þungaiðnaður
-inter alia ao. (lat.) meðal annars, þar á meðal
-ceteris paribus ao. (lat.) að öllu jöfnu, allt verandi jafnt
-et cetera ao. (lat.) og svo framvegis
+inter alia ao. meðal annars, þar á meðal (úr latínu)
+ceteris paribus ao. að öllu jöfnu, allt verandi jafnt (úr latínu)
+et cetera ao. og svo framvegis (úr latínu)
 etc ao. stytt. á %[et cetera]%
 marlin n. oddnefur, marlín, merlingur (fisktegund)
 seafarer n. sæfari
@@ -3454,7 +3454,7 @@ recalibrate s. endurkvarða, endurstilla
 sexless l. kynlaus; kynlífslaus
 trainee n. lærlingur, (vettvangs)nemi, starfsnemi
 dyspeptic l. haldinn meltingartruflunum eða meltingarónot; geðvondur; bölsýnn
-in absentia l. (lat.) fjarverandi, í fjarveru, fjarstaddur, að fjarstöddum
+in absentia l. fjarverandi, í fjarveru, fjarstaddur, að fjarstöddum (úr latínu)
 tercentenary n. 300 ára afmæli eða minningarhátíð
 prophylaxis n. forvörn, verndandi aðgerð, sjúkdómsvörn
 harmfulness n. skaðsemi, skaðræði
@@ -3812,7 +3812,7 @@ dichotomous l. tvískiptur, skiptur í tvennt, tvískiptingar-
 dichotomist n. sá sem skiptir í tvennt, tvískiptingarmaður
 dichotomization n. tvískiptingarvæðing, tvískiptingartilhneiging
 councilman n. fulltrúi, ráðsmaður; borgarráðsmaður, borgarfulltrúi ([city ~])
-mea culpa uh. (lat.) sökin er mín!
+mea culpa uh. ökin er mín! (úr latínu)
 kindliness n. góðmennska, góðvild
 undocumented l. óskráður, óskjalaður, óskjalfestur
 globalize s. hnattvæða
@@ -4153,7 +4153,7 @@ classicist n. fornfræðingur
 coda n. niðurlag, niðurlagskafli
 whistle-blower n. uppljóstrari; flautublásari, sá sem blæs flautu
 homonymic l. samhljóða, eins og annað orð í framburði; einsheitis-
-homo n. (lat.) maður; ættkvísl manndýra (sbr. %[homo sapiens]%, hinn viti borni maður); hommi, samkynhneigður maður (niðrandi, stytt. á %[homosexual]%)
+homo n. maður (úr latínu); ættkvísl manndýra (sbr. %[homo sapiens]%, hinn viti borni maður); hommi, samkynhneigður maður (niðrandi, stytt. á %[homosexual]%)
 homo- fsk. sam-, jafn-, eins- (sbr. %[homosexual]%, %[homogenous]%)
 homologous l. samsvarandi; eðlislíkur
 homology n. samsvörun; eðlislíking; samsvipur (í grannfræði)
@@ -4290,7 +4290,7 @@ parliamentarian n. þingmaður
 sterilize s. dauðhreinsa, smitsæfa; gera ófrjóan, vana
 sterilization n. dauðhreinsun, sótthreinsun; ófrjósemisaðgerð, vönun
 crystallization n. kristallsmyndun
-status quo n. (lat.) óbreytt ástand
+status quo n. óbreytt ástand (úr latínu)
 artefact n. gervingur; listrænn munur, smíðisgripur
 artifact n. gervingur; listrænn munur, smíðisgripur
 longhouse n. langhús, skáli, landnámsbær
@@ -4673,7 +4673,7 @@ availability n. fáanleiki, tiltækileiki
 hippocampus n. dreki (heilastöð); sæhestur
 sphincter n. þrengir, þrengivöðvi, lokuvöðvi, hringvöðvi
 magenta l. fjólublár, blárauður; n. fjólublár litur, blárauður litur
-cum n. sæði, brund; s. fá sáðlát, brunda; fs. (lat.) með (sbr. %[magna cum laude]%)
+cum n. sæði, brund; s. fá sáðlát, brunda; fs. með (úr latínu, sbr. %[magna cum laude]%)
 cumshot n. sáðlát, brundun
 gonorrhea n. lekandi (kynsjúkdómur)
 esthetic l. sjá %[aesthetic]%
@@ -4736,7 +4736,7 @@ synchronization n. samstilling, samhæfing
 punctually ao. tímanlega, á réttum tíma ([she arrived ~])
 animist n. andatrúarmaður
 archive n. skjalasafn, skjalamappa, skjöl, arkíf, gagnasafn; s. geyma í skjalasafni
-magna cum laude l. (lat.) með miklum heiðri ([he graduated ~])
+magna cum laude l. með miklum heiðri ([he graduated ~]) (úr latínu)
 blackcurrant n. sólber
 cassis n. sólber; sólberjavín, sólberjalíkjör
 earplug n. eyrnatappi
@@ -5232,7 +5232,7 @@ vaguely ao. ónákvæmlega, á óákveðinn eða ónákvæman hátt
 modestly ao. hæversklega, á hæverskan eða siðprúðan hátt, af siðprýði
 triumphantly ao. sigri hrósandi, á sigursælan hátt
 riff-raff n. ruslaralýður, skríll, illþýði, skítapakk, pakk
-per se ao. (lat.) sem slíkur, út af fyrir sig
+per se ao. sem slíkur, út af fyrir sig (úr latínu)
 hashish n. hass (verkað kannabis)
 stoned l. grýttur; skakkur, freðinn, í kannabisvímu; undir áhrifum vímuefna
 stoner n. freðhaus, grasreykingamaður, kannabisfíkill; dópisti; grjótkastari
@@ -6145,7 +6145,7 @@ chronologist n. tímatalsfræðingur; tímatalsritari
 semilunar l. hálfmána-
 graphic design n. grafísk hönnun, myndræn hönnun
 divorced l. fráskilinn (úr hjónabandi); skilinn frá, aftengdur ([~ from reality])
-ex nihilo l. (lat.) úr eða frá engu
+ex nihilo l. úr eða frá engu (úr latínu)
 Spanish flu n. spænska veikin
 appendicitis n. botnlangabólga
 warhammer n. stríðshamar
@@ -6899,7 +6899,7 @@ gibbon n. gibbonapi
 solarium n. sólstofa; sólbaðsstofa
 counter-tenor n. kontratenór, kontratenórrödd
 contratenor n. kontratenór, kontratenórrödd
-magnum opus n. (lat.) meistaraverk, stórvirki
+magnum opus n. meistaraverk, stórvirki (úr latínu)
 unlikable l. óviðkunnanlegur, óviðfelldinn
 unlikeable l. óviðkunnanlegur, óviðfelldinn
 hilariously ao. hlægilega ([that play was ~ bad])
@@ -6931,7 +6931,7 @@ unsalvageable l. óbjargandi, óbjarganlegur
 vaporware n. hugbúnaður sem verður aldrei að veruleika
 pecker n. spæta; goggur; typpi (óforml.); sveitavargur (óforml.)
 virtuousness n. dyggðasemi
-via fs. (lat.) í gegnum; [~ satellite] í gegnum gervitungl
+via fs. í gegnum (úr latínu); [~ satellite] í gegnum gervitungl
 dockside l. bryggjumegin; n. svæði nálægt bryggju
 isolated l. einangraður
 mascara n. maskari
@@ -6968,7 +6968,7 @@ unintelligent l. ógáfaður, ekki greindur, skilningssljór; óskynsamur
 broadbill n. breiðnefja (fugl)
 benzedrine n. bensedrín, amfetamín (örvandi lyf)
 contestant n. keppandi, þátttakandi í keppni
-mutatis mutandis ao. (lat.) að breyttu breytanda
+mutatis mutandis ao. að breyttu breytanda (úr latínu)
 businessman n. kaupsýslumaður, viðskiptamaður, verslunarmaður, athafnamaður, bisnessmaður
 habitually ao. að staðaldri, að vanda, að venju, vanalega, venjulega
 logorrhea n. málæði, munnræpa, orðaflaumur
@@ -7098,7 +7098,7 @@ teammate n. liðsfélagi
 workhorse n. vinnuhestur, dráttarhestur; maður sem er duglegur við vinnu ([he's a real ~])
 wetland n. votlendi
 courtyard n. forgarður, húsagarður
-tabula n. (lat.) tafla; [~ rasa] óskrifað blað, auð tafla
+tabula n. tafla (úr latínu); [~ rasa] óskrifað blað, auð tafla
 stateless l. ríkisfangslaus; án ríkis
 statelessness n. ríkisfangsleysi; það ástand að vera án ríkis
 putrefied l. rotinn, rotnaður, úldinn, fúinn
@@ -7180,7 +7180,7 @@ ETA n. áætlaður komutími (sks. á [estimated time of arrival])
 variability n. breytileiki; óstöðugleiki
 invariability n. óbreytileiki; stöðugleiki
 axolotl n. tálknamandra (e.k. salamandra)
-paterfamilias n. (lat.) fjölskyldufaðir, faðir fjölskyldunnar, ættfaðir
+paterfamilias n. fjölskyldufaðir, faðir fjölskyldunnar, ættfaðir (úr latínu)
 prof n. prófessor, kennari; stytt. á %[professor]%
 Old Nick n. fjandinn, kölski, djöfullinn
 premorbid l. forsýkis-
@@ -7939,7 +7939,7 @@ brutally ao. hrottalega, grimmilega; dýrslega
 coon n. þvottabjörn (stytt. á %[raccoon]%); svört manneskja (mjög niðrandi)
 phosgene n. fosgen
 android n. vélmenni, vél í mannslíki
-alma mater n. (lat.) skóli sem maður útskrifaðist frá
+alma mater n. skóli sem maður útskrifaðist frá (úr latínu)
 geek n. nörd; lúði
 billboard n. auglýsingaskilti
 technobabble n. tæknibull, tækniblaður
@@ -8147,7 +8147,7 @@ fossil fuel n. jarðefnaeldsneyti (t.d. olía, gas, kol)
 ammo n. skotfæri (stytt. á %[ammunition]%)
 lese majesty n. sjá %[lèse-majesté]%
 lese majeste n. sjá %[lèse-majesté]%
-lèse-majesté n. (úr frönsku) drottinssvik, goðgá; móðgun, ærumeiðing við þjóðhöfðingja; landráð
+lèse-majesté n. drottinssvik, goðgá (úr frönsku); móðgun, ærumeiðing við þjóðhöfðingja; landráð
 reproving l. ávítandi, aðfinnandi, skammandi
 reprovingly ao. ávítandi, á ávítandi hátt, skammandi
 disheartened l. niðurdreginn, vondaufur, búinn að missa kjarkinn
@@ -8307,7 +8307,7 @@ arsehole n. sjá %[asshole]%
 a posteriori l. eftir á, að því reyndu, að fenginni reynslu (úr latínu)
 black eye n. glóðarauga
 shiner n. e-r eða e-ð sem skín (sjá %[shine]%); glóðarauga; lítill karpfiskur
-aurora borealis n. (lat.) norðurljós
+aurora borealis n. norðurljós (úr latínu, sjá %[northern lights]%)
 aether n. ljósvaki
 alpinism n. fjallamennska, fjallaklifur
 altostratus n. gráblika
@@ -8324,7 +8324,7 @@ argus-eyed l. sívökull
 lightheaded l. sjá %[light-headed]%
 accented l. með hreim; með áherslu; með stafmerki, með áherslumerki (t.d. [á], [é], o.s.frv.)
 pro n. fagmaður, atvinnumaður (stytt. á %[professional]%); rök (með e-u); l. fagmannlegur, atvinnumannslegur; með, fylgjandi
-quid pro quo n. (lat.) eitt í skiptum fyrir annað, endurgoldning; greiði í skiptum fyrir greiða
+quid pro quo n. eitt í skiptum fyrir annað, endurgoldning (úr latínu); greiði í skiptum fyrir greiða
 sea captain n. skipstjóri, kapteinn
 yellowhammer n. gultittlingur (fugl)
 whinchat n. vallskvetta (fugl)
@@ -8443,7 +8443,7 @@ pleasantness n. þægindi, notalegheit; skemmtilegheit
 uneasiness n. órói, ónot; kvíði; óþægindi; stirð framkoma
 brigantine n. brigantína (tvímastrað skip)
 officiousness n. afskiptasemi; nærgengni (sjá %[officious]%)
-summa cum laude l. (lat.) með hæstu einkunn, með æðsta láði
+summa cum laude l. með hæstu einkunn, með æðsta láði (úr latínu)
 barmy l. freyðandi, ólgandi; vitfirrtur, fásinnaður
 abacá n. manillahampur; bananajurt
 abaca n. manillahampur; bananajurt
