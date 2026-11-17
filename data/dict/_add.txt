@@ -5027,7 +5027,7 @@ heteromorphic l. misforma, fjölforma
 arrhythmia n. takttruflun, sveiflutruflun, sláttarglöp
 dysrhythmia n. takttruflun, sveiflutruflun, sláttarglöp
 mycoplasma n. berfrymingar
-mycobacterium n. mýkóbaktería
+mycobacterium n. mýkóbaktería, sveppabaktería
 vitalism n. lífhyggja, lífsorkukenning
 slave-trade n. þrælaverslun
 electrodynamics n. rafsegulfræði
@@ -13285,3 +13285,11 @@ mycobacteria nft. sjá %[mycobacterium]%
 moon ray n. tunglsgeisli
 hi-tech l. sjá %[high-tech]%
 assegai n. sjá %[assagai]%
+alternatively ao. að öðrum kosti, eða annars
+imaging n. myndataka, myndgerð, myndfærsla
+bobble n. hnoðri
+warmongering n. stríðsæsingur, stríðsrekstur, hermennska
+honored l. sjá %[honoured]%
+leafless l. án laufa
+graduated l. útskrifaður (úr skóla); skiptur í stig
+forged l. smíðaður; falsaður ([the document was ~])

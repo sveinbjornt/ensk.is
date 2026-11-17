@@ -1641,9 +1641,9 @@ solo n. einsöngur; einspil; l. einn
 solstice n. sólhvörf, sólstöður
 solstitial l. sólstöðulegur, sólstöðu-
 solubility n. uppleysanleiki
-soluble l. uppleysanlegur
+soluble l. uppleysanlegur, sem hægt er að leysa upp (í vökva)
 solution n. uppleysing; úrlausn; ráðning
-solvability n. gjaldhæfi, gjaldfærleiki
+solvability n. leysanleiki; gjaldhæfi, gjaldfærleiki
 solvable l. uppleysanlegur; ráðanlegur; borganlegur
 solve s. leysa úr ([~ a difficulty, ~ a question]); ráða (gátu)
 solvency n. gjaldhæfi, gjaldfærleiki
