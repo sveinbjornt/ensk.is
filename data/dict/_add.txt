@@ -13214,7 +13214,7 @@ friendlessness n. vinaleysi
 infighting n. innbyrðis átök, innbyrðis deilur
 auditing n. endurskoðun (bókhalds)
 appallingly ao. voðalega, hræðilega, skelfilega
-quarterstaff l. langur stafur (notaður sem vopn)
+quarterstaff n. langur stafur (notaður sem vopn)
 capitular l. kafla-, er varðar kafla (í Biblíunni)
 reinforced l. styrktur, efldur
 contingence n. sjá %[contingency]%
@@ -13229,7 +13229,7 @@ hammering n. hömrun; hamarshljóð, högghljóð
 celebratory l. fagnaðar-, fögnuðar-; hátíðar-
 hideousness n. herfileiki, ljótleiki
 thankfully ao. til allrar hamingju, sem betur fer; þakksamlega
-bandwagon n. hljómsveitarvagn
+bandwagon n. hljómsveitarvagn; [jump on the ~] fylgja straumnum
 outperform s. standa sig betur en
 conscienceless l. samviskulaus, ósvífinn, purkunarlaus
 paraphrased l. umorðaður; lauslega þýddur
@@ -13245,10 +13245,11 @@ reimposition n. endurálagning; endurinnleiðing ([the ~ of capital punishment])
 agrarianism n. bændastefna, stjórnmál í þágu bænda
 offense n. sjá %[offence]%
 counterproductive l. öfugverkandi, sem hefur þveröfug áhrif, sem skemmir fyrir
-entranced l. dáleiddur
+entranced l. dáleiddur, heillaður, hugfanginn
 Nipponese l. sjá %[Japanese]%
 food colouring n. matarlitur
-colorlessness n. litleysi
+colorlessness n. sjá %[colourlessness]%
+colourlessness n. litleysi
 achromasia n. litleysi (í húð)
 scrupulously ao. samviskusamlega
 falsely ao. ranglega; falsklega
@@ -13263,7 +13264,8 @@ macho l. karlmannlegur; með karlmennskustæla (sjá einnig %[machismo]%)
 knitter n. prjónari, prjónakona, prjónamaður
 unremorseful l. iðrunarlaus
 laissez-faire n. afskiptaleysi, það að láta e-ð vera (úr frönsku)
-ruling-class n. valdastétt, ráðastétt; l. valdastéttar-, ráðastéttar-
+ruling class n. valdastétt, ráðastétt
+ruling-class l. valdastéttar-, ráðastéttar-
 lowbrow l. lágmenningar-, menningarsnauður ([his ~ taste in art])
 puritanic l. sjá %[puritanical]%
 puritanical l. hreintrúar-, púrítana-
