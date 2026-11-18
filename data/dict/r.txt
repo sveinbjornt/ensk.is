@@ -1033,8 +1033,8 @@ reticulum n. keppur, fagri keppur
 retina n. sjóna, sjónhimna, nethimna (á auganu)
 retiform l. netmyndaður
 retinue n. föruneyti, fylgdarlið, sveit manna (sem fylgir stórhöfðingja)
-retire s. hörfa undan; draga sig út (úr [from]); fara ([~ to a place]); ganga til hvílu ([~ to rest]); fara frá, fá lausn (frá embætti); fara burtu með (t.d. herlið); færa burtu; veita lausn úr embætti; leysa inn (víxil)
-retired l. sem hefur fengið lausn frá embætti; afvikinn, afskekktur; einmanalegur; rólegur
+retire s. hörfa undan; draga sig út (úr [from]); fara ([~ to a place]); ganga til hvílu ([~ to rest]); setjast í helgan stein, hætta störfum; fara frá, fá lausn (frá embætti); fara burtu með (t.d. herlið); færa burtu; veita lausn úr embætti; leysa inn (víxil)
+retired l. sestur í helgan stein, hættur að vinna, hættur störfum; sem hefur fengið lausn frá embætti; afvikinn, afskekktur; einmanalegur; rólegur
 retirement n. starfslok; burtför; lausn (frá embætti); einvera; afvikinn bústaður
 retiring l. fráfarandi; hæverskur; ómannblendinn
 retort s. kasta (hrinda) aftur; svara (ónotalega) aftur; n. (ónotalegt) svar; flöskumyndað glerílát með löngum niðurbeygðum stút, eimingarflaska
@@ -1199,7 +1199,7 @@ rifler n. þjófur, ræningi
 rift n. rifa, sprunga; gjá; s. rifa, kljúfa; rifna, klofna
 rig s. útbúa; setja reiða á (skip); n. reiðasetning; útbúnaður ([~ out]); dækja; bragð, hrekkur; [run (one's) ~ upon] leika á e-n
 rigging n. reiði (á skipi)
-right l. réttur; beinn ([~ line]); hægri ([my ~ hand]); [the ~ side] rétthverfan; [on the ~ side of forty] enn ekki fertugur; ao. beint, rétt; mjög; til hægri; n. réttur; réttindi; hægri hönd (hlið); [he is ~, in the ~] hann hefur rétt að mæla, stendur á réttu; [be in one's ~ mind or senses] vera með fullu ráði; [he is not ~ in the head] ekki með öllum mjalla; [all will come ~ in the end] allt mun lagast að lokum; [all ~!] allt er gott! [I am all ~] mér amar ekkert, það fer vel um mig; [~ ahead] beint áfram; [on the ~] hægra megin; [set ~] leiðrétta, lagfæra; [set (put) to ~s] koma (e-u) í rétt lag; s. rétta; lagfæra; láta (e-n) ná rétti sínum; komast á réttan kjöl ([the boat ~ed])
+right l. réttur; beinn ([~ line]); hægri ([my ~ hand]); [the ~ side] rétthverfan; [on the ~ side of forty] enn ekki fertugur; ao. beint, rétt; mjög; til hægri; n. réttur; réttindi; hægri hönd (hlið); [he is ~, in the ~] hann hefur rétt að mæla, stendur á réttu; [be in one's ~ mind or senses] vera með fullu ráði; [he is not ~ in the head] ekki með öllum mjalla; [all will come ~ in the end] allt mun lagast að lokum; [all ~!] allt er gott!; [I am all ~] mér amar ekkert, það fer vel um mig; [~ ahead] beint áfram; [on the ~] hægra megin; [set ~] leiðrétta, lagfæra; [set (put) to ~s] koma (e-u) í rétt lag; s. rétta; lagfæra; láta (e-n) ná rétti sínum; komast á réttan kjöl ([the boat ~ed])
 right-angled l. rétthyrndur
 righten s. rétta, laga
 righteous l. réttlátur, réttvís

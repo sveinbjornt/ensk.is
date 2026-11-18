@@ -12238,7 +12238,7 @@ tarot n. tarotspil
 backstroke n. baksund
 smurf n. strumpur
 shortened l. styttur, stýfður
-retelling n. endursögn
+retelling n. endursögn ([an imaginative ~])
 pupa n. púpa
 merry-go-round n. hringekja
 electro- fsk. raf- (t.d. %[electrometer]%, %[electroshock]%)
@@ -13302,3 +13302,14 @@ smidgin n. sjá %[smidgen]%
 theoriser n. sjá %[theorizer]%
 advertizer n. sjá %[advertiser]%
 institutionalise s. sjá %[institutionalize]%
+sequestered l. kyrrsettur (með lögum, um eign); tekið lögtaki; fjarlægður
+loathed l. hataður, fyrirlitinn
+malamute n. sleðahundur
+misbegot l. sjá %[misbegotten]%
+undercoat n. undirlag; þel
+adman n. auglýsingamaður
+bilaterality n. það að vera tvíhliða
+mellisonant l. hljómfagur
+hairstylist n. hárskeri, hárgreiðslumaður, hárgreiðslukona
+aerated l. loftaður; loftblandaður
+muttering n. muldur, skraf

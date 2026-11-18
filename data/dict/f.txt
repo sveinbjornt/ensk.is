@@ -829,7 +829,7 @@ footle s. láta fíflslega
 fop n. spjátrungur
 foppery n. spjátrungsháttur, hégómaskapur, tepruskapur; glingur
 foppish l. spjátrungslegur, hégómlegur, andhælislegur ([bowing in a ~ manner])
-for fs. fyrir; handa; sakir, vegna ([~ fear, I tremble ~ him]); til; um, í ([~ a long time]); eftir ([to send ~]); st. því að; [~ instance] til dæmis; [~ his age] eftir aldri; [~ this purpose] í þessum tilgangi; [~ two years] í tvö ár; [I ~ one] ég að mínu leyti; [~ sale] til sölu; [to weep ~ joy] gráta af gleði; [~ all that] þrátt fyrir það, samt sem áður; [~ nothing] til einskis; [good ~ nothing] engu nýtur; [~ shame!] svei! [O ~ a horse!] gaman væri að hafa hest!
+for fs. fyrir; handa; sakir, vegna ([~ fear, I tremble ~ him]); til; um, í ([~ a long time]); eftir ([to send ~]); st. því að; [~ instance] til dæmis; [~ his age] eftir aldri; [~ this purpose] í þessum tilgangi; [~ two years] í tvö ár; [I ~ one] ég að mínu leyti; [~ sale] til sölu; [to weep ~ joy] gráta af gleði; [~ all that] þrátt fyrir það, samt sem áður; [~ nothing] til einskis; [good ~ nothing] engu nýtur; [~ shame!] svei!; [O ~ a horse!] gaman væri að hafa hest!
 forage n. skepnufóður; fóðuröflun, fóðurföng; s. afla fóðurs eða vista; ræna; sjá e-m fyrir fóðri eða vistum
 forager n. fóðurfangamaður, fæðuaflari, fæðusafnari
 forasmuch ao. [~ as] að því leyti sem
