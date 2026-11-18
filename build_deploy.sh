@@ -22,6 +22,8 @@ python3 gen/audio.py
 --exclude ".DS_Store" \
 --exclude ".env" \
 --exclude "tests" \
+--exclude "tools" \
+--exclude "wip" \
 --delete \
 -av "." \
 root@ensk.is:/www/ensk.is/html/

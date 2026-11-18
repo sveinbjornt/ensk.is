@@ -1694,7 +1694,6 @@ maximal
 prototypical
 detectable
 undetectable
-séance
 coreligionist
 parochialism
 Austronesia
@@ -2839,7 +2838,6 @@ pression
 charred
 tasselled
 dispassionately
-sullenly
 overheard
 providentially
 halfpence
@@ -2848,6 +2846,7 @@ indignantly
 unthought
 compter
 seance
+séance
 keelboat
 smasher
 lipid
@@ -3256,7 +3255,6 @@ deducible
 procuracy
 changeover
 down-and-out
-Sovietization
 détente
 detente
 emigre
@@ -3274,7 +3272,6 @@ moonlighter
 airtime
 governability
 socio-political
-Sovietologist
 Sovietology
 rootedness
 caseload
@@ -3284,7 +3281,6 @@ pullout
 cetus
 onomastic
 onomastics
-bloating
 wryly
 rebrand
 dipteral
@@ -6114,7 +6110,6 @@ throuple
 weaner
 overgrow (endurskoða)
 hectic (endurskoða)
-empowering
 grappling iron (endurskoða)
 resort (endurskoða)
 Cumbrian
@@ -6776,7 +6771,6 @@ liberalizing
 migrated
 emigrated
 immigrated
-backend
 subtask
 minimalistic
 sidling
@@ -6920,7 +6914,6 @@ streak (endurskoða)
 contrafibularities
 smack (endurskoða)
 dickweed
-oi
 toerag
 slag (endurskoða)
 contrasting
@@ -6945,7 +6938,6 @@ hushed (endurskoða)
 unstrained
 herpestine
 rutter
-whorishness
 hamstring (endurskoða)
 pounding
 rubble (endurskoða)
@@ -7027,3 +7019,9 @@ shame (endurskoða)
 misbegotten (endurskoða)
 liver spot
 starburst
+possessed
+overlapped
+launchpad
+off-limits
+retrocausality
+prom queen

@@ -4266,9 +4266,9 @@ dysphasia n. málglöp, málskortur
 extrovert l. úthverfur; n. úthverf manneskja
 alopecia n. hárleysi, hármissir, hártap
 self-realization n. sjálfsefling
-demeaning l. niðrandi, niðurlægjandi, lítillækkandi
+demeaning l. niðrandi, niðurlægjandi, lítillækkandi, óvirðandi
 catastrophic l. hrikalegur, hörmulegur, skelfilegur, hrapallegur, katastrófískur
-catastrophically ao. hrikalega, hörmulega, skelfilega, hrapallega
+catastrophically ao. hrikalega, hörmulega, skelfilega, hrapallega, á katastrófískan máta
 metonymic l. nafnhvarfa-
 metonymical l. nafnhvarfa-
 metonymically ao. nafnhvarfalega (sjá %[metonymy]%)
@@ -13326,3 +13326,13 @@ rounded l. rúnnaður
 fifty-fifty l. helmingaskipt; ao. til helminga ([they split it ~])
 catholicize s. snúa til kaþólskrar trúar
 Romanize s. snúa til rómverskra siða, gera rómverskan í ásýnd eða siðum
+bloating n. uppþemba, þemba, uppþembing, þembing
+trusting l. treystandi, auðtrúa
+Sovietologist n. (vestrænn) sérfræðingur í málum Sovétríkjanna
+Sovietization n. sovétvæðing
+empowering l. eflandi, valdeflandi ([knowledge is ~])
+heaven-sent l. sendur af himnum ofan
+sullenly ao. önuglega
+whorishness n. hórdómur, hórulíf, skækjulíf
+oi uh. hey! heyrðu! (óforml. breskt slangur)
+backend n. bakendi; l. bak-, bakenda-
