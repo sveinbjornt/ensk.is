@@ -443,7 +443,8 @@ oil tanker n. olíuskip, olíuflutningaskip
 tanker n. skip sem flytur mikið magn af vökva (t.d. olíu)
 neoconservatism n. nýíhaldsstefna
 neoconservative n. nýíhaldsmaður; l. nýíhalds-, nýíhaldssamur
-rollerblade n. línuskauti; nft. línuskautar
+rollerblade n. línuskauti
+rollderblades nft. línuskautar
 plexiglass n. plexígler
 thermophile n. hitakær lífvera
 thermophilic l. hitakær (notað um lífverur sem dafna við háan hita)
@@ -467,7 +468,8 @@ mailman n. bréfberi, póstmaður
 makeup n. (andlits)förðun, (andlits)farði, meik, snyrtivörur
 marina n. smábátahöfn
 nudist n. strípalingur, striplingur
-pipeline n. leiðsla; nft. [~s] leiðslukerfi
+pipeline n. leiðsla
+pipelines nft. leiðslukerfi
 radio n. útvarp; útvarpstæki; s. útvarpa ([he ~ed for help])
 realtor n. fasteignasali, fasteignamiðlari
 riverside n. árbakki; l. við árbakka, árbakka-
@@ -534,7 +536,8 @@ guerrilla n. skæruliði
 guerrilla warfare n. skæruhernaður
 neoclassical l. nýklassískur; [~ architecture] nýklassísk byggingarlist
 neoclassicism n. nýklassík, nýklassísk stefna
-basic l. grundvallar-, undirstöðu- ([~ principles]); basískur (efnafr.); nft. [the ~s] grundvallaratriðin
+basic l. grundvallar-, undirstöðu- ([~ principles]); basískur (efnafr.)
+basics nft. grundvallaratriði, undirstöðuatriði ([the ~ of ...])
 basically ao. í grundvallaratriðum; í grófum dráttum
 hyponym n. undirheiti ([crow is a ~ of bird])
 hypernym n. yfirheiti ([bird is a ~ of crow])
@@ -13336,3 +13339,6 @@ sullenly ao. önuglega
 whorishness n. hórdómur, hórulíf, skækjulíf
 oi uh. hey! heyrðu! (óforml. breskt slangur)
 backend n. bakendi; l. bak-, bakenda-
+homeroom n. heimakrókur (í skóla)
+ex n. fyrrverandi maki (óforml., t.d. %[ex-wife]%, %[ex-boyfriend]% o.s.frv.)
+defenestrated l. kastaður út um glugga, hentur út um glugga

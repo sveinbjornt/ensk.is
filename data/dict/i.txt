@@ -185,12 +185,13 @@ immodesty n. ókurteisi, óhæverska, skortur á hæversku
 immolate s. fórnfæra, blóta; fórna
 immolation n. fórnfæring, blótun; fórnun
 immoral l. ósiðlegur, ósiðsamur ([~ conduct]); siðlaus; ósiðvandur
-immorality n. ósiðsemi; siðleysi; óráðvendni; löstur
-immortal l. ódauðlegur; eilífur
-immortality n. ódauðleiki
-immortalize s. gera ódauðlegan, gera eilífan
-immortally ao. ódauðlega, eilíflega
-immovable l. óhreyfanlegur, óbifanlegur; fastur; nft. fasteignir
+immorality n. siðleysi, ósiðsemi, ósiðvendni
+immortal l. ódauðlegur, sem mun aldrei deyja; eilífur, tímalaus
+immortality n. ódauðleiki, eilífð, tímaleysi
+immortalize s. gera ódauðlegan, gera eilífan, gera tímalausan
+immortally ao. ódauðlega, eilíflega, á tímalausan máta
+immovable l. óhreyfanlegur, óbifanlegur; fastur
+immovables nft. fasteignir
 immune l. ónæmur, ómóttækilegur
 immunity n. undanþága, lausn undan e-u ([~ from taxation]); sakaruppgjöf; ónæmi ([~ from infection])
 immunize s. gera ónæman, gera ómóttækan (fyrir [against])

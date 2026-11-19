@@ -180,10 +180,10 @@ jubilate s. æpa fagnaðaróp, fagna
 jubilation n. fagnaðaróp, fögnuður
 jubilee n. minningarhátíð, fagnaðarminning
 jubilize s. halda fagnaðarhátíð, fagna
-Judaic l. gyðinglegur
-Judaical l. gyðinglegur
-Judaism n. Gyðingatrú, gyðingdómur
-Judaize s. gera gyðinglegt, fylgja gyðingasiðum
+Judaic l. gyðinglegur, gyðinga-, gyðingatrúar- ([the ~ religion])
+Judaical l. sjá %[Judaic]%
+Judaism n. gyðingatrú; gyðingdómur
+Judaize s. gera gyðinglegt; snúa til gyðingatrúar; fylgja gyðingasiðum
 judge s. dæma; dæma um, leggja dóm á; ætla, hyggja; n. dómari
 judgement n. sjá %[judgment]%
 judgeship n. dómaratign; dómaraembætti
