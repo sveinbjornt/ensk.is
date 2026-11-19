@@ -13288,7 +13288,7 @@ lawmaking n. lagasmíð; l. löggefandi, löggjafar-
 mycobacteria nft. sjá %[mycobacterium]%
 moon ray n. tunglsgeisli
 hi-tech l. sjá %[high-tech]%
-assegai n. sjá %[assagai]%
+assegai n. kastspjót (notað í Suður-Afríku)
 alternatively ao. að öðrum kosti, eða annars
 imaging n. myndataka, myndgerð, myndfærsla
 bobble n. hnoðri
@@ -13306,7 +13306,7 @@ smidgin n. sjá %[smidgen]%
 theoriser n. sjá %[theorizer]%
 advertizer n. sjá %[advertiser]%
 institutionalise s. sjá %[institutionalize]%
-sequestered l. kyrrsettur (með lögum, um eign); tekið lögtaki; fjarlægður
+sequestered l. kyrrsettur (með lögum, um eign); tekinn lögtaki; fjarlægður
 loathed l. hataður, fyrirlitinn
 malamute n. sleðahundur
 misbegot l. sjá %[misbegotten]%
@@ -13322,11 +13322,11 @@ unfreeze s. affrysta, þíða; þiðna
 motiveless l. án ástæðu, ástæðulaus
 pilary l. hár-; fíngerðum hárum þakinn
 revivification n. endurlífgun
-flawlessly ao. gallalaust, lýtalaust, fullkomnlega, án galla, án mistaka
+flawlessly ao. gallalaust, lýtalaust, fullkomlega, án galla, án mistaka
 chestnut tree n. kastaníutré
 annulate l. sjá %[annulated]%
 rounded l. rúnnaður
-fifty-fifty l. helmingaskipt; ao. til helminga ([they split it ~])
+fifty-fifty l. helmingaskipt; ao. til helminga ([they split it ~]); n. helmingaskipti
 catholicize s. snúa til kaþólskrar trúar
 Romanize s. snúa til rómverskra siða, gera rómverskan í ásýnd eða siðum
 bloating n. uppþemba, þemba, uppþembing, þembing
@@ -13338,7 +13338,9 @@ heaven-sent l. sendur af himnum ofan
 sullenly ao. önuglega
 whorishness n. hórdómur, hórulíf, skækjulíf
 oi uh. hey! heyrðu! (óforml. breskt slangur)
-backend n. bakendi; l. bak-, bakenda-
+backend n. bakendi; l. bak-, bakenda- ([~ programming])
 homeroom n. heimakrókur (í skóla)
-ex n. fyrrverandi maki (óforml., t.d. %[ex-wife]%, %[ex-boyfriend]% o.s.frv.)
+ex n. fyrrverandi maki (óforml., t.d. %[ex-wife]%, %[ex-boyfriend]%, o.s.frv. Sjá %[ex-]%)
 defenestrated l. kastaður út um glugga, hentur út um glugga
+Jewish religion n. gyðingatrú
+ex-friend n. fyrrverandi vinur (sjá %[ex-]%)
