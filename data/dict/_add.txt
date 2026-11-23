@@ -444,7 +444,7 @@ tanker n. skip sem flytur mikið magn af vökva (t.d. olíu)
 neoconservatism n. nýíhaldsstefna
 neoconservative n. nýíhaldsmaður; l. nýíhalds-, nýíhaldssamur
 rollerblade n. línuskauti
-rollderblades nft. línuskautar
+rollerblades nft. línuskautar
 plexiglass n. plexígler
 thermophile n. hitakær lífvera
 thermophilic l. hitakær (notað um lífverur sem dafna við háan hita)
@@ -3312,7 +3312,7 @@ audio book n. hljóðbók
 filicide n. sonarmorð, dótturmorð
 aquaculture n. fiskeldi, fiskirækt; ræktun lífvera í ám, vötnum og sjó
 demersal l. botnlægur, sem lifir við botninn; [~ fish] botnfiskur
-monopsony n. staða þar sem aðeins er einn kaupandi
+monopsony n. einkeypi, staða þar sem aðeins er einn kaupandi
 ecocide n. vistmorð
 adsorber n. ásogari
 determinant n. ákvörðunarþáttur
@@ -13344,3 +13344,10 @@ ex n. fyrrverandi maki (óforml., t.d. %[ex-wife]%, %[ex-boyfriend]%, o.s.frv. S
 defenestrated l. kastaður út um glugga, hentur út um glugga
 Jewish religion n. gyðingatrú
 ex-friend n. fyrrverandi vinur (sjá %[ex-]%)
+iron ore n. járngrýti
+monopsonistic l. einkeypis-, sem einkennist af einum kaupanda
+amphitheater n. sjá %[amphitheatre]%
+negativism n. neikvæðni, neikvæði, neikvæð afstaða
+inferred l. ályktaður
+impedance n. viðnám; hindrun, tálmun
+racquet n. sjá %[racket]%
