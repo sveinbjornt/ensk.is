@@ -7295,7 +7295,7 @@ arthroplasty n. liðskipti, liðskiptaaðgerð
 stoichiometry n. hlutfallaefnafræði
 eyeliner n. augnfarði
 guyliner n. augnfarði (á karlmanni)
-setup n. uppsetning; skipulag, fyrirkomulag; gildra ([the whole thing was a ~])
+setup n. uppsetning; útbúnaður; skipulag, fyrirkomulag; gildra ([the whole thing was a ~])
 sneakily ao. laumulega, á undirförulan eða lævísan hátt
 eyehole n. augntóft
 ageless l. ævarandi, sem eldist ekki
@@ -13358,3 +13358,7 @@ Edwardian l. frá tímum Játvarðs 7. Bretlandskonungs (1901-1910)
 Tagalog n. tagalog (opinbert mál á Filippseyjum)
 fixate s. einblína (á [on]); festa
 fixated l. upptekinn (af [on]), sem einblínir (á [on]); festur
+reachable l. sem hægt er að ná til; ínáanlegur; sem hægt er að hafa samband við
+poaching n. veiðiþjófnaður
+Berber n. Berberi; l. berberskur
+blindfolded l. með bundið fyrir augun; í blindni
