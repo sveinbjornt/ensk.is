@@ -688,7 +688,7 @@ blessing n. blessun
 blether n. blaður, þvaður; s. blaðra, þvaðra
 blight n. ryður (í korni); s. láta visna; spilla; ónýta
 blind l. blindur ([~ in one eye]); hulinn, ósýnilegur; n. skýla, hula; gluggatjald; gluggaskýla, augnablaka (á beisli); viðbára; s. blinda; hylja
-blindfold l. með bundið fyrir augun; í blindni; s. binda fyrir augun á e-m
+blindfold s. binda fyrir augun á e-m; l. með bundið fyrir augun; í blindni
 blindly ao. í blindni
 blindness n. blindni, blinda, sjónleysi
 blink s. depla augunum, drepa tittlinga; blika, glampa; látast ekki sjá eða skilja; n. skin, glampi; augnablik
